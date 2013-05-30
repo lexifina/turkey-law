@@ -1,0 +1,3 @@
+Tez hazırlanmasına ilişkin esaslar
+MADDE 31 – (1) Tez konusunun başka bir kurum ve kuruluşta uzmanlık, yüksek lisans, doktora tezi veya başka bir ad altında aynı şekilde incelenip savunulmamış olması zorunludur. Sağlık Denetçi Yardımcısının hazırlayacağı tezin kendi görüş ve değerlendirmeleri ile önerilerini içermesi ve bilimsel çalışma etiğine uygun olması gerekir.
+(2) Sağlık Denetçi Yardımcısı, tezini tez danışmanının rehberliğinde bilimsel esaslara ve tez hazırlama kılavuzuna uygun olarak hazırlar. Tezde savunulan fikir ve görüşlerin özgünlüğü ile sorumluluğu tezi hazırlayan Sağlık Denetçi Yardımcısına aittir.

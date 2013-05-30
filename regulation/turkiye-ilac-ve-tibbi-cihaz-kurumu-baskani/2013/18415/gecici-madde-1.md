@@ -1,0 +1,2 @@
+Mevcut Sağlık Denetçi Yardımcılarının yeterlik sınavları ve atanmaları
+GEÇİCİ MADDE 1 – (1) 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin yayımlandığı tarihte Sağlık Bakanlığı Müfettiş Yardımcısı kadrolarında bulunan ve halen Kurumda Sağlık Denetçi Yardımcısı olarak görev yapanların yeterlik sınavları ve denetçi kadrolarına atanmaları, 9/5/2004 tarihli ve 25457 sayılı Resmî Gazete’de yayımlanan Sağlık Bakanlığı Teftiş Kurulu Yönetmeliği hükümlerine göre sonuçlandırılır.

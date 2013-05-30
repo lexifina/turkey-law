@@ -1,0 +1,3 @@
+Yeterlik sınavında başarılı olanlar ve sağlık denetçiliğine atama
+MADDE 38 – (1) Yeterlik sınavında başarılı olanların Sağlık Denetçi kadrolarına atanabilmeleri, son iki yıl içinde Yabancı Dil Bilgisi Seviye Tespit Sınavından asgari (C) düzeyinde veya dil yeterliği bakımından buna denkliği kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye, yeterlik sınavından itibaren en geç iki yıl içinde sahip olma şartına bağlıdır.
+(2) Yeterlik sınavında başarı gösteren Sağlık Denetçi Yardımcılarının Sağlık Denetçi kadrolarına, yeterlik sınavı başarı sırasına göre atamaları yapılır. Yeterlik sınavı puanlarının eşitliği halinde, Sağlık Denetçisi Yardımcılığı kıdemi esas alınır.

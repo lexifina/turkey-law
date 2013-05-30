@@ -1,0 +1,2 @@
+Suç duyurusu raporu
+MADDE 54 – (1) Türk Ceza Kanununa veya özel kanunlara göre suç sayılan ve 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun kapsamında soruşturulamayan eylemlerle ilgili olarak yetkili yargı mercilerine gönderilmek üzere düzenlenir. Diğer kamu kurum ve kuruluşların görev alanına giren konuların bildirilmesi veya personeli hakkında gerekli işlemlerin yapılması amacıyla da Suç Duyurusu Raporu düzenlenir.

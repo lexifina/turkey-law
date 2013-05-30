@@ -1,0 +1,2 @@
+İnceleme raporu
+MADDE 51 – (1) İnceleme raporları, şikayet ve ihbarlar üzerine yapılan inceleme sonucunda cezai takibatı gerektirir hal görülmediği takdirde yapılacak işleme esas görüşlerin; yürürlükteki mevzuatın uygulanmasında görülen noksanlıklar ve bunların düzeltilme yolları ile yeniden konulması gereken hüküm ve usuller hakkında görüş ve tekliflerin bildirilmesi maksadıyla düzenlenir. Sağlık Denetçileri, bu raporları verilen görev gereği olarak düzenlerler.

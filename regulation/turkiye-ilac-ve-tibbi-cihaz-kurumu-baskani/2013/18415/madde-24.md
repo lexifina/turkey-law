@@ -1,0 +1,5 @@
+Sağlık denetçiliğine giriş sınavı değerlendirilmesi ve sonuçların ilanı
+MADDE 24 – (1) Sağlık Denetçi Yardımcılığı sınavını başarmış sayılmak için giriş sınav notunun 70’den az olmaması gerekir. Giriş sınavı notu, yazılı sınav notu ile sözlü sınav notu toplamının ortalaması alınarak bulunur.
+(2) Sınavda başarı gösterenlerin sayısı kadro sayısından fazla ise giriş sınavı notu üstün olanlar tercih edilir. Giriş sınavı notunun eşitliği halinde, sırasıyla yazılı sınav notu ve KPSS puanı yüksek olan aday öncelik kazanır.
+(3) Sınav sonuçları, sınav komisyonu tarafından tutanakla tespit edilir ve sonuçlar Kurumun internet adresinde ilan edilir.
+(4) Yapılan sınav sonucunda, giriş sınavında başarılı olmak kaydıyla, atama yapılacak kadro sayısının yarısını geçmemek üzere, yedek aday listesi belirlenir. Asıl adaylardan atama için gelmeyen veya ataması yapılıp da göreve başlamayan adayların ya da göreve başlayıp da herhangi bir sebeple görevden ayrılanların yerine sınav sonuçlarının ilanından itibaren altı ay içerisinde yedek adaylar başarı sırasına göre çağrılır.

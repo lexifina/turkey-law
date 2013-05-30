@@ -1,0 +1,6 @@
+YEDİNCİ BÖLÜM
+Denetime Tabi Olanların Yükümlülükleri
+Denetime tabi olanların yükümlülükleri
+MADDE 40 – (1) Denetime tabi olan gerçek ve tüzel kişiler, belge, defter ve bilgileri talep edildiği takdirde ibraz etmek, para ve para hükmündeki evrakı ve ayniyatı ilk talep halinde göstermek, sayılmasına ve incelenmesine yardımcı olmak zorundadır. Sağlık Denetçileri, görevleri sırasında kamu kurum ve kuruluşları ve kamuya yararlı dernekler ile gerçek ve tüzel kişilerden gerekli yardım, bilgi, evrak, kayıt ve belgeleri istemeye yetkili olup kanuni engel bulunmadıkça bu talebin yerine getirilmesi zorunludur.
+(2) Denetime tabi olanlar, Sağlık Denetçilerinin görevlendirildikleri konularda, bilgi işlem sistemleri, raporlama araçları, internet, intranet ve benzeri ağlar ile veri tabanlarına erişimini sağlamak, elektronik, manyetik ve benzeri bilgi işlem ortamlarındaki bilgiler ve kayıtları, sözlü veya yazılı ilk talebinde Sağlık Denetçisine göstermek ve incelemesine sunmak zorundadır.
+(3) Denetim ve incelemeye tabi tutulan kurum, kuruluş ve firmaların yöneticileri, hizmetin gereği gibi yürütülebilmesi için gereken önlemleri almak, Sağlık Denetçilerine görevleri süresince uygun bir yer sağlamak ve gerekli diğer tedbirleri almak zorundadırlar.

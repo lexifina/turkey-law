@@ -1,0 +1,5 @@
+Sağlık denetçi yardımcılığı yazılı sınav notlarının değerlendirilmesi
+MADDE 22 – (1) Sağlık Denetçi Yardımcılığı giriş sınavında her konu grubu için tam not 100’dür. Yazılı sınavı başarmış sayılmak için yabancı dil dışında her konu grubu için alınan notun 60’dan ve konu gruplarının yabancı dil dahil aritmetik ortalamasının da 70’den aşağı olmaması gerekir.
+(2) Sınav kağıtları, sınav komisyonu tarafından ayrı ayrı veya birlikte kapalı bölümleri açılmadan değerlendirilir.
+(3) Sınav kağıtlarındaki cevaplarla, cevap anahtarlarının karşılaştırılması sonucu verilen notlar sınav kağıdının üst kısmına yazılır. Tüm kağıtlar değerlendirildikten sonra, sınav komisyonu üyeleri tarafından kapalı olan kimlik bölümü açılarak, en yüksek notlardan başlamak üzere başarı sırasını gösterir bir tutanak düzenlenir. Notların eşitliği halinde yabancı dil notu yüksek olana öncelik tanınır.
+(4) Yazılı sınavda başarı göstererek sözlü sınava girecek olanların listesi Kurumda veya internet sitesinde ilan edilir. Ayrıca sınavda başarılı olan adaylara sonuç, yazı ile de bildirilir.

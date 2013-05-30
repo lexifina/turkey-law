@@ -1,0 +1,4 @@
+Sağlık denetçi yardımcılığı giriş sınavı komisyonu
+MADDE 14 – (1) Sağlık Denetçi Yardımcılığı sınavları, Kurum Başkanının onayı ile Daire Başkanı başkanlığında, Daire Başkanlığı bünyesinde görevli Sağlık Denetçileri arasından oluşturulan beş kişilik sınav komisyonu tarafından yapılır. Zorunlu sebeplerden dolayı görev yapamayacak asil üyelerin yerine geçmek üzere, yine Sağlık Denetçileri arasından dört yedek üye tespit edilir. Komisyonlara Kurum Başkanı başkanlık edebilir. Bu durumda Daire Başkanı, komisyonlara üye sıfatıyla katılır.
+(2) Komisyon üye tam sayısıyla toplanır ve oy çokluğuyla karar alır.
+(3) Komisyon üyeleri kendilerinin, boşanmış olsalar dahi eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının veya evlatlıklarının katıldığı sınavlarda görev alamazlar.

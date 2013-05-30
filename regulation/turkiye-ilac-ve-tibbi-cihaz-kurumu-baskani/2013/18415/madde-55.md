@@ -1,0 +1,2 @@
+Tevdi raporu
+MADDE 55 – (1) Denetim, inceleme ve soruşturmaların yürütülmesi sırasında 2/12/1999 tarihli ve 4483 sayılı Kanun kapsamında ön inceleme yapılması gereken konuların tespit edilmesi durumunda ön inceleme yaptırmaya yetkili mercilere iletilmek üzere tevdi raporu düzenlenir. Konunun özelliğine göre tevdi raporu düzenlenmeyip, açıklayıcı bir yazıyla da yetkili merciye bilgi verme yoluna gidilebilir.

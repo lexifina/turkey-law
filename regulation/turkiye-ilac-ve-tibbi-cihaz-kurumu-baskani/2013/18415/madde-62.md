@@ -1,0 +1,2 @@
+Daire başkanlığında çalışan sağlık denetçilerinin geçişleri
+MADDE 62 – (1) 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin yürürlüğe girmesiyle Türkiye İlaç ve Tıbbi Cihaz Kurumuna ataması yapılan Sağlık Denetçileri, ilgilinin yazılı talebi, müracaat edilen kurumun kabulü ve Kurum Başkanının muvafakatı ile Sağlık Bakanlığı Denetim Hizmetleri Başkanlığı, Türkiye Kamu Hastaneleri Kurumu ve Türkiye Halk Sağlığı Kurumu Denetim Hizmetleri Daire Başkanlıklarına aynı unvanla geçiş yapabilirler.
