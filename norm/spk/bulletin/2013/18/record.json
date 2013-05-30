@@ -1,0 +1,48 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2013/18",
+  "date": "2013-05-30",
+  "title": "SPK Haftalık Bülteni 2013/18",
+  "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_18.pdf",
+  "source_sha256": "e0ee40c97e8d2893c519f2a61da0c699d37bb6ae963f8d110556d73d39734dd2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "B. DUYURU VE İLKE KARARLARI"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "B. DUYURU VE İLKE KARARLARI",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_18.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZİNLERİ",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: İşlemleri \nGerçekleştirebilecek Kurumlara",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_18.pdf"
+    },
+    {
+      "heading": "E. SUÇ DUYURUSU, İDARİ PARA CEZASI İLE DİĞER YAPTIRIM VE TEDBİRLER",
+      "status": "metadata-only",
+      "reason": "sanctions-metadata-only",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_18.pdf"
+    },
+    {
+      "heading": "H. DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_18.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
