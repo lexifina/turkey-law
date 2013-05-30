@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10247",
+  "decision_date": "2013-05-30",
+  "source_id": 22369,
+  "chamber": "1",
+  "ilam_number": "136",
+  "item_number": 14,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22369/",
+  "source_sha256": "41691fdd3fb137dcf57e4a94b8dd0c39cc849b99ce6f646d6fe6e76ef065694f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
