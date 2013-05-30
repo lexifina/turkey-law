@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10247",
+  "decision_date": "2013-05-30",
+  "source_id": 22371,
+  "chamber": "1",
+  "ilam_number": "136",
+  "item_number": 16,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22371/",
+  "source_sha256": "1a9a3d27ad7b666be7a31b0cfdc042fa03be79ea58f9e87bf9f1511efe158560",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
