@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Müdür; Nükleer Teknolojiler ve Radyasyon Uygulamaları konusunda araştırmalar ve yayınlar yapmış olan öğretim üyeleri arasından, Rektör tarafından 2 yıllık süre için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Müdür, kendisine yardımcı olmak üzere, Yönetim Kurulu üyelerinden birisini müdür yardımcısı olarak seçebilir. Müdür, görevi başında olmadığı zaman yardımcısı kendisine vekâlet eder. Müdürün, kesintisiz 6 aydan fazla bir süre görevi başında bulunamaması durumunda yeni bir Müdür görevlendirilir.
