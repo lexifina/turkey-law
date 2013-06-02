@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-06-02",
+  "issue": "28665",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "Marmara Üniversitesi Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130602-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130602.htm",
+  "index_sha256": "a4ed3a707183b7abc3e10979ec17c17697dadbabedbb783c4e2ca47406bde3ee",
+  "index_header": "2 Haziran 2013 ... 28665 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130602.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
