@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13649056-170[04-2013/ÖZE-01]-37",
+  "source_id": 36490,
+  "date": "2013-06-04",
+  "title": "İçme Suyu Birliğinin Motorlu Taşıtlar Vergisinden İstisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36490",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "ba3d534f9e835409f3d639ccb1f6748e228b45787d265cd694760769c96df67a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
