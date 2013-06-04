@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10258",
+  "decision_date": "2013-06-04",
+  "source_id": 7245,
+  "chamber": "1",
+  "ilam_number": "90",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7245/",
+  "source_sha256": "41f3338728105569a5c0acdf4f46c8fe94808383c631613a6db6262f503e2be2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
