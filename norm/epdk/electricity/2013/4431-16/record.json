@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4431/16",
+  "decision_date": "2013-06-04",
+  "title": "İletim Sistemi Bağlantı Anlaşması",
+  "resmi_gazete_date": "2013-06-16",
+  "resmi_gazete_number": "28679",
+  "categories": [
+    "Bağlantı, Sistem Kullanım ve Enterkonneksiyon Kullanım Anlaşmalarına İlişkin Mülga Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NKGFFPUXLAU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NKGFFPUXLAU="
+  ],
+  "source_sha256": "4172acbf7b8409e8e5cdfc2941e381199c96188db95fc4cc7a06d7f9378388b5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33871,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-06-04",
+  "law_text_complete": false
+}
