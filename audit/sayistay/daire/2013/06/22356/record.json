@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10260",
+  "decision_date": "2013-06-04",
+  "source_id": 22356,
+  "chamber": "1",
+  "ilam_number": "138",
+  "item_number": 23,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22356/",
+  "source_sha256": "eef032943404323364ffc9e7c5793cdcea2f66e454cf546ca2a6b3b1bde4e938",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
