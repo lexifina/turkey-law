@@ -1,0 +1,2 @@
+Hukuki dayanak
+MADDE 3 – (1) Bu Tebliğ, 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanun ile bu Kanun uyarınca, 17/1/2002 tarih ve 24643 sayılı Resmî Gazete’de yayımlanan Uygunluk Değerlendirme Kuruluşları ile Onaylanmış Kuruluşlara Dair Yönetmeliğe ve 8/9/2002 tarih ve 24870 sayılı Resmî Gazete’de yayımlanan Yapı Malzemeleri Yönetmeliğine dayalı olarak hazırlanmıştır.
