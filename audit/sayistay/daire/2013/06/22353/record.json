@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10260",
+  "decision_date": "2013-06-04",
+  "source_id": 22353,
+  "chamber": "1",
+  "ilam_number": "138",
+  "item_number": 20,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22353/",
+  "source_sha256": "118f2e110b96aadf51d9f0e86335dcf745ad21e6556a6022ccc50e9abd2e2fac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
