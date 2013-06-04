@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37306",
+  "decision_date": "2013-06-04",
+  "source_id": 6845,
+  "chamber": "7",
+  "file_number": "33287",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/6845/",
+  "source_sha256": "8afb5bc4222bc4ce5fd2909b248ec07e5f47cfa36fe380704980e45951ece324",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
