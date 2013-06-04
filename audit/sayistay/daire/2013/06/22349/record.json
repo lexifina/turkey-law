@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10260",
+  "decision_date": "2013-06-04",
+  "source_id": 22349,
+  "chamber": "1",
+  "ilam_number": "138",
+  "item_number": 17,
+  "account_year": 2010,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22349/",
+  "source_sha256": "0fa7618d4f32f5b8f68e67d3ee5eeef86f39871000cbb3011a311970170df35b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
