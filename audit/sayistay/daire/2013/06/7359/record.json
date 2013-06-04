@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10259",
+  "decision_date": "2013-06-04",
+  "source_id": 7359,
+  "chamber": "1",
+  "ilam_number": "104",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7359/",
+  "source_sha256": "e257521677da08a56b2a4604500d707bba39ae3d6fd157ba972d44e54cb6b85b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
