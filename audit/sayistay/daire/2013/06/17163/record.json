@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10259",
+  "decision_date": "2013-06-04",
+  "source_id": 17163,
+  "chamber": "1",
+  "ilam_number": "104",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17163/",
+  "source_sha256": "79b6c84dd27bced491c58d97f3cb0268aaeb09e8a1466e6ba66b98792b195617",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
