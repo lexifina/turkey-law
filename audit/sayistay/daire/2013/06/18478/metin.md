@@ -1,0 +1,3 @@
+Mükerrer İmalat Yapılması.
+
+… Büyükşehir Belediyesi tarafından 24.09.2007 tarihinde ihale edilen “Engelliler ve Rehabilitasyon Merkezi İnşaatı” işi dâhilinde yapılan bir takım imalatların 24.02.2010 tarihinde ihale edilen Engelliler ve Rehabilitasyon Merkezi “İkmal İnşaatı” işinde de yer alması nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; konu … Büyükşehir Belediyesi’nin 2010 yılı hesabı ile ilgili olarak düzenlenen “Yargılamaya Esas Rapor”a istinaden yapılan yargılama sonucunda hükme bağlandığından, konu ile ilgili tekrar hüküm verilmesine mahal bulunmadığına oybirliğiyle karar verildi.
