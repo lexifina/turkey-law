@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-06-05",
+  "issue": "28668",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2013/4766 Gebze-Orhangazi-İzmir (İzmit Körfez Geçişi ve Bağlantı Yolları Dahil) Otoyolu Projesi Kapsamında Bazı Taşınmazların Karayolları Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130605-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130605.htm",
+  "index_sha256": "5c55faeeb3c507a8091b4cc73dedd3cc1487faca89086b51d51267eeb53302c8",
+  "index_header": "5 Haziran 2013 ... 28668 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130605.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
