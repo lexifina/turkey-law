@@ -1,0 +1,76 @@
+{
+  "source_id": "7.5.11749",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "POSTA VE TELGRAF TEŞKİLATI GENEL MÜDÜRLÜĞÜ PERSONELİ ATAMA VE YER DEĞİŞTİRME YÖNETMELİĞİ",
+  "number": "11749",
+  "issuer": "Posta ve Telgraf Teşkilatı Genel Müdürü",
+  "issuer_slug": "posta-ve-telgraf-teskilati-genel-muduru",
+  "path": "regulation/posta-ve-telgraf-teskilati-genel-muduru/2007/11749",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11749&MevzuatTertip=5",
+  "source_sha256": "e4e4dd93bf20ef130c5ed8d29f3e09ed94adfbc198f2ac96f8da3d0abc615666",
+  "source_bytes": 74254,
+  "published": "2007-12-01",
+  "gazette": "26717",
+  "in_force": "2013-06-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/6/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-06-06",
+      "RG-6/6/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-06-06",
+      "6/6/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-06-16",
+      "RG-16/6/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-06-16",
+      "16/6/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-04-03",
+      "RG-3/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-04-03",
+      "3/4/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-07-10",
+      "RG-10/7/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-07-10",
+      "10/7/2010",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2594,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11749%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,6 @@
+Üçüncü hizmet bölgesine yapılacak atamalar
+MADDE 20 – (1) Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmeliğin Ekinde yer alan cetvelde 5 inci ve 6 ncı hizmet bölgesi olarak belirlenen iller, bu Yönetmeliğe ekli cetvelde üçüncü hizmet bölgesi olarak belirlenmiştir.
+(2) (Değişik:RG-16/6/2012-28325) Başmüdür ve Başmüdür Yardımcısı kadrolarına ilk defa atanacak olanların üçüncü hizmet bölgesi olarak belirlenen illere atanmaları ve bu hizmet bölgelerinde iki yıl görev yapmaları zorunludur. Ancak, diğer unvanlarda bu hizmet bölgelerinde en az dört yıl görev yapmış olanlarda bu şart aranmaz.
+(3) Üçüncü hizmet bölgesine dahil illerde boş kadro bulunmaması sebebiyle diğer bölgelere ataması yapılan personelin, atandığı ilde iki yıl çalışmış olması şartıyla, üçüncü hizmet bölgesinde kadroların boşalması halinde atanma tarihlerine göre boşalan kadrolara atamaları yapılır.
+(4) Yıllık, mazeret ve sağlık izinlerinin tamamı ile hizmet içi eğitimde başarılı geçen sürelerin tamamı üçüncü bölge hizmetinden sayılır.
+(5) İki yıl süreyle üçüncü hizmet bölgesine atananlar bu süre içinde, bu bölge dışındaki illere geçici olarak görevlendirilemez ve bu Yönetmeliğin 14 ve 15 inci maddesinde yer alan hükümlerden yararlanamazlar.
