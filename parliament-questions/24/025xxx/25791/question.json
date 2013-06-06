@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 24,
+  "legislative_year": 3,
+  "esas_no": "7/25791",
+  "submitted": "2013-06-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Oktay VURAL",
+  "province": "İzmir",
+  "summary": "2002-2013 yıllarında sosyal medya aracılığıyla işlenen suçlarla ilgili re'sen veya şikayete bağlı olarak başlatılan işlemlere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bf-3ff4-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "dfa8e44fbbe07169e706d2aac07395dba4e5720c5660fb7141950283cb0a3a3a",
+  "in_force": "2013-06-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
