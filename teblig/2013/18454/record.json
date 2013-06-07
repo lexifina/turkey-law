@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.18454",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE LİMANLARI VE İSKELELERİ ARASINDA DENİZ TAŞITLARIYLA YAPILAN TAŞIMA İLE YÜKLEME VE BOŞALTMALARDA GÜMRÜK GÖZETİM VE KONTROLÜ USUL VE ESASLARINA İLİŞKİN TEBLİĞ",
+  "number": "18454",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2013/18454",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18454&MevzuatTertip=5",
+  "source_sha256": "2595b8d87cf62cbb2f4cbcaeee54f9d63a7a85f65fc86d3dae7e37755f8bc145",
+  "source_bytes": 29955,
+  "published": "2013-06-07",
+  "gazette": "28670",
+  "in_force": "2013-06-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.06.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1639,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18454%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

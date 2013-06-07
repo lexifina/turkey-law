@@ -1,0 +1,4 @@
+Dâhili sefer yaparken yabancı bir limana uğrayan gemiler
+MADDE 10 – (1) Türk Bayraklı gemilerin Türk limanları arasındaki seferleri esnasında yabancı limanlara da uğraması durumunda, kaptan veya acenteleri tarafından geminin limandan hareketinden en az iki saat önce en son çıkış yapılacak gümrük idaresine bildirimde bulunulur. Gümrük idaresince, kabotaj eşyasının bulunduğu ambar ve mahaller mühür altına alınarak işlemleri yapılır.
+(2) Türk limanları arasında sefer yaparken yabancı bir limana uğrayarak gelen gemilerin kaptan veya acenteleri tarafından deniz taşıtının Türkiye Gümrük Bölgesindeki ilk limana varışından en az iki saat önce gümrük idaresine bildirimde bulunulur.
+(3) Dâhili sefer yaparken, yabancı bir limana uğrayarak Türk limanına gelen Türk Bayraklı gemiler, harici sefer yapan gemiler gibi kontrole tabi tutulur.
