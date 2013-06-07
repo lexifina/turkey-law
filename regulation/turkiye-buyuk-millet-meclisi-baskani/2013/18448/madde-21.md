@@ -1,0 +1,4 @@
+Yurt içi ve yurt dışı gündeliği
+MADDE 21 – (1) Proje kapsamında gerçekleştirilen yurt içi faaliyetlere katılan milletvekili ve İdari Teşkilat personeline; ulaşım, konaklama ve iaşenin karşılanması hâlinde gündelik verilmez.
+(2) Proje kapsamında gerçekleştirilen yurt dışı faaliyetlere katılan milletvekili ve İdari Teşkilat personeline yurt dışı gündelik; konaklama masraflarının karşılanması hâlinde üçte iki, konaklama ve iaşe masraflarının karşılanması hâlinde ise üçte bir oranında ödenir.
+(3) Proje faaliyetleri kapsamında gerçekleştirilen faaliyetlere katılanlara yapılan her türlü ödeme ilgiliye ödenmesi gereken gündelik tutarından mahsup edilir. Yapılan ödemeler, yurt dışından dönüşten itibaren beş iş günü içerisinde heyetten sorumlu İdari Teşkilat görevlisi tarafından heyete iştirak eden personelin başkanlıklarına; milletvekilleri için ise Milletvekili Hizmetleri Başkanlığına elektronik posta ile bildirilir.

@@ -1,0 +1,2 @@
+Proje şartnamesi
+MADDE 12 – (1) TBMM’nin üstlenici olarak diğer kurumlarla yürüttüğü projelerin proje şartnamesi İdari Teşkilatın ilgili birimleri tarafından ortaklaşa hazırlanır. İdari Teşkilatın ilgili birimleri proje kapsamında yapılacak mal ve hizmet alımı ihalelerini yabancı ülke kurum veya kuruluşlarıyla ya da uluslararası kuruluşlarla ve diğer ilgili kurumlarla yürütür ve sonuçlandırır. İhale sonucu İdari Teşkilatın ilgili birimlerine yazılı olarak bildirilir.
