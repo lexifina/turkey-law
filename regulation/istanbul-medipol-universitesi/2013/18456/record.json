@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-06-10",
+      "10.06.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28673",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-06-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Medipol Üniversitesi",
+  "issuer_slug": "istanbul-medipol-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-medipol-universitesi/2013/18456",
+  "published": "2013-06-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18456&MevzuatTertip=5",
+  "source_bytes": 19985,
+  "source_id": "8.5.18456",
+  "source_sha256": "e3447453e872feddf25301676ed5b731c6d387994d61ac4d5201386be1bc23f7",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL MEDİPOL ÜNİVERSİTESİ BİLİŞİM HUKUKU UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 333,
+  "word_count": 780
+}
