@@ -1,0 +1,25 @@
+{
+  "number_in_summary": 23,
+  "number_basis": "item number printed in the summary",
+  "official_decision_number": null,
+  "title": "Meram İlçesi, Çayırbağı Köyü ve Karahüyük Mahallesinde, iki trafo tadilatının görüşülmesine dair İmar ve Bayındırlık Komisyonu raporunun aynen kabulüne,",
+  "decision_date": "2013-06-10",
+  "meeting_date": "2013-06-10",
+  "summary_heading": null,
+  "summary_title": "KARAR ÖZETİ (10.06.2013)",
+  "source": "https://www.konya.bel.tr/meclis/icerik-getir?tarih=2013-06-10&tur=2",
+  "source_page": "https://www.konya.bel.tr/meclis-encumen/meclis-gundemi-ve-kararlari?karar_yil=2013&karar_ay=6",
+  "source_sha256": "b74f426ea437003582576dcaf61bd01d8ab2aa73b59d7f599ae72790a8f52258",
+  "issuer": "Konya Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary item as published in the council's Karar Özeti; complete decision text is not published in this register",
+  "in_force": "2013-06-10",
+  "in_force_basis": "Official toplantı tarihi 2013-06-10 (the summary prints no dated heading); adoption date for the summary item; legal commencement not asserted",
+  "missing": [
+    "official decision number (not printed in the summary)",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
