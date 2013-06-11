@@ -1,0 +1,1 @@
+MADDE 10 – 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununun 28 inci maddesinin birinci fıkrasının (a) bendinin birinci cümlesinde yer alan “kararın verilmesinden itibaren iki ay” ibaresi “kararın tebliğinden itibaren bir ay” şeklinde değiştirilmiştir.

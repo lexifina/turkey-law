@@ -1,0 +1,1 @@
+MADDE 17 – 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 39 uncu maddesinin son fıkrasına “Uluslararası andlaşmalarla kurulan üniversitelerde bu süre beş yıla kadar uzatılabilir.” cümlesi eklenmiştir.

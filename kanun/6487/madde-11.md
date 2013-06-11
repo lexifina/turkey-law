@@ -1,0 +1,1 @@
+MADDE 11 – 492 sayılı Kanunun (8) sayılı tarifesinin “XI – Finansal faaliyet harçları” başlıklı bölümünün birinci fıkrasının (c) bendinde yer alan “(her şube ve her yıl için)” ibaresi “(her şube ve her yıl için, şube açılışında şubenin açıldığı ay kesri tam ay sayılmak suretiyle takvim yılının kalan ay süresine isabet eden harç tahsil edilir.)” şeklinde değiştirilmiştir.

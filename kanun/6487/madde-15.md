@@ -1,0 +1,1 @@
+MADDE 15 – 2464 sayılı Kanunun 60 ıncı maddesinde yer alan “20 YTL’den az; 800 YTL’den çok olmamak üzere belediye meclislerince tespit edilir.” ibaresi “20 TL’den az, 800 TL’den çok olmamak üzere bu Kanunun 96 ncı maddesine göre tespit edilir.” şeklinde değiştirilmiştir.
