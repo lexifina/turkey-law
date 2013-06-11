@@ -12,3 +12,4 @@ b) (Değişik: 31/5/2012-6322/29 md.) (B) cetvelindeki mallar için asgari maktu
 3. (II), (III) [(B) cetvelindekiler hariç] ve (IV) sayılı listelerdeki mallar için verginin matrahı; bunların teslimi, ilk iktisabı ve ithalinde, hesaplanacak özel tüketim vergisi hariç, katma değer vergisi matrahını oluşturan unsurlardan teşekkül eder.
 4. (III) sayılı listenin (B) cetvelindeki mallar için verginin matrahı; bunların nihai tüketicilere perakende satış fiyatıdır.
 5. (Değişik: 31/5/2012-6322/29 md.) (III) sayılı listenin (A) cetvelindeki mallar için asgari maktu vergi tutarlarına göre hesaplanacak vergi tutarından az olmamak üzere yalnızca nispi vergi uygulanır. (B) cetvelindeki mallar için maktu vergi ile birlikte, asgari maktu vergi tutarına göre hesaplanacak vergi tutarından az olmamak üzere nispi vergi uygulanır.
+Bakanlar Kurulu bu maddede yer alan vergileme ölçülerini değiştirmeye yetkilidir.

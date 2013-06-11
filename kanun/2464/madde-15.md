@@ -1,4 +1,4 @@
-Tarife ve nispet:
+Tarife ve nispet: (1)
 Madde 15 – İlan ve Reklam Vergisi aşağıdaki tarifeye göre alınır.
 (Değişik Tarife: 30/12/2004-5281/16 md.) Verginin Tutarı (YTL)
 En az En çok
@@ -16,6 +16,8 @@ yıllık olarak: 30 150
 cep takvimleri, biblolar veya benzerlerinin her biri için: 0,01 0,25
 6. Mahiyeti ne olursa olsun yapıştırılacak çeşitli afişler ve
 benzerlerinin beherinin metrekaresinden: 0,02 0,50
+–––––––––––––––––––
+(1) Bu maddede yer alan maktu vergi ve harç tarifeleri ile ilgili olarak, 18/2/2014 tarihli ve 28917 sayılı Resmi Gazete’de yayımlanan 10/2/2014 tarihli ve 2014/5896 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
 5257
 Vergi tarifesinin uygulanmasında aşağıdaki esaslara uyulur:
 a) Metrekare üzerinden yapılan hesaplamalarda, yarım metrekareye kadar olan kesirler yarım metrekareye, yarım metrekareyi aşanlar ise tam metrekareye tamamlanır.
