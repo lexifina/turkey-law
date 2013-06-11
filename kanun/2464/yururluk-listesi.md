@@ -15,13 +15,14 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 2
 5177 | Mükerrer Madde 97 | 5/6/2004
 5281 | 15, 21, Mükerer Madde 44 ,56, 60, 63, 70, 74, 77, 84 ve Ek Madde 6 | 1/1/2005 tarihinden geçerli olmak üzere 31/12/2004
 5280
-Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesi’nin Kararının Numarası | 2464 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 2464 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 5602 | 19, 20, 21 | 21/3/2007 tarihini izleyen aybaşında
 5679 | Ek Madde 2, Madde 80 | 7/6/2007
 5784 | 35, 37, 39 | 26/7/2008
 5917 | Geçici Madde 6 | 10/7/2009
 6360 | 86 | 6/12/2012
 Anayasa Mah.’nin 29/12/2011 tarihli ve E.: 2010/62 K.: 2011/175 sayılı Kararı | 96/B | 19/5/2012 tarihinden başlayarak bir yıl sonra (19/5/2013)
+6487 | 20, 60, 96 | 19/5/2013 tarihinden geçerli olmak üzere 11/6/2013
 5280-1
 2464 SAYILI KANUNUN ÇEŞİTLİ MADDELERİNDEKİ ORAN VE MİKTARLARDA
 ÇEŞİTLİ MEVZUAT İLE YAPILAN DEĞİŞİKLİKLER CETVELİ
@@ -46,3 +47,6 @@ Tebliğ | 35 | 23/12/2008 | 27089 | Mükkerrer 44
 Tebliğ | 38 | 29/12/2009 | 27447 | Mükkerrer 44
 Tebliğ | 39 | 29/12/2010 | 27800 (6.Mük.) | Mükkerrer 44
 Tebliğ | 40 | 26/12/2011 | 28154 | Mükkerrer 44
+Tebliğ | 42 | 31/12/2012 | 28514 (4.Mük.) | Mükkerrer 44
+Tebliğ | 43 | 30/12/2013 | 28867 (Mük.) | Mükkerrer 44
+10/2/2014 | 2014/5896 | 18/2/2014 | 28917 | 15, 21, 56, 60, 84

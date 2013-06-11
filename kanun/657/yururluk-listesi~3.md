@@ -1,6 +1,5 @@
 657 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
-MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN
-İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
+MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
 GÖSTERİR LİSTE
 Değiştiren Kanunun/ KHK.’nin Numarası | 657 sayılı Kanunun değişen veya yürürlükten kaldırılan maddeleri | Yürürlüğe Giriş Tarihi
 6253 | 36, Ek Madde 41, Geçici madde 39 | 18/12/2011
@@ -13,3 +12,6 @@ Değiştiren Kanunun/ KHK.’nin Numarası | 657 sayılı Kanunun değişen veya
 6354 | 88 | 12/7/2012
 6338 | 156 | 1/1/2013
 6428 | 68, Geçici Madde 40 | 9/3/2013
+6458 | 36, 152, (I) sayılı cetvel | 11/4/2013
+6462 | 53, 100, 101, Ek Madde 39 | 3/5/2013
+6487 | II Sayılı cetvel | 11/6/2013

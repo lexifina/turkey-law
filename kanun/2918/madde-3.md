@@ -70,29 +70,29 @@ Hizmetli : Araçlarda, sürücü hariç, araç veya taşıma hizmetlerinde süre
 6051
 Durak : Kamu hizmeti yapan yolcu taşıtlarının yolcu veya hizmetlileri bindirmek, indirmek için durakladıkları işaretlerle belirlenmiş yerdir.
 Garaj : Araçların, genellikle uzun süre durmaları için kullanılan bakım veya servisinin de yapılabileceği kapalı veya açık olan yerlerdir.
-Terminal : İnsan veya eşya taşımalarında, araçların indirme, bindirme,yükleme, boşaltma,aktarma yaptıkları ve ayrıca bilet satışı ile bekleme, haberleşme,şehir ulaşımı ve benzeri hizmetlerin de sağlandığı yerdir.
+Terminal : İnsan veya eşya taşımalarında, araçların indirme, bindirme, yükleme, boşaltma, aktarma yaptıkları ve ayrıca bilet satışı ile bekleme, haberleşme, şehir ulaşımı ve benzeri hizmetlerin de sağlandığı yerdir.
 Servis istasyonu : Araçların bakım, onarım ve servislerinin yapıldığı açık veya kapalı yerdir.
-Akaryakıt istasyonu:Araçların esas itibariyle akaryakıt, yağ ve basınçlı hava gibi ihtiyaçlarının sağlandığı yerdir.
+Akaryakıt istasyonu: Araçların esas itibariyle akaryakıt, yağ ve basınçlı hava gibi ihtiyaçlarının sağlandığı yerdir.
 Muayene istasyonu : Araçların niteliklerini tespit ve kontrol edebilecek cihaz ve personeli bulunan ve teknik kontrolü yapılan yerdir.
-Trafik kazası : Karayolu üzerinde hareket halinde olan bir veya birden fazla aracın karıştığı ölüm,yaralanma ve zararla sonuçlanmış olan olaydır.
+Trafik kazası : Karayolu üzerinde hareket halinde olan bir veya birden fazla aracın karıştığı ölüm, yaralanma ve zararla sonuçlanmış olan olaydır.
 Durma : Her türlü trafik zorunlulukları nedeni ile aracın durdurulmasıdır.
 Duraklama : Trafik zorunlulukları dışında araçların, insan indirmek ve bindirmek, eşya yüklemek, boşaltmak veya beklemek amacı ile kısa bir süre için durdurulmasıdır.
-Park etme : Araçların,durma ve duraklaması gereken haller dışında bırakılmasıdır.
+Park etme : Araçların, durma ve duraklaması gereken haller dışında bırakılmasıdır.
 Geçiş hakkı : Yayaların ve araç kullananların diğer yaya ve araç kullananlara göre,yolu kullanmak sırasındaki öncelik hakkıdır.
-Geçiş üstünlüğü:Görev sırasında, belirli araç sürücülerinin can ve mal güvenliğini tehlikeye sokmamak şartı ile trafik kısıtlama veya yasaklarına bağlı olmamalarıdır.
+Geçiş üstünlüğü: Görev sırasında, belirli araç sürücülerinin can ve mal güvenliğini tehlikeye sokmamak şartı ile trafik kısıtlama veya yasaklarına bağlı olmamalarıdır.
 Taşıma sınırı (Kapasite) : Bir aracın güvenle taşıyabileceği en çok yük ağırlığı veya yolcu sayısıdır.
 Gabari : Araçların, yüklü veya yüksüz olarak karayolunda güvenli seyirlerini temin amacı ile uzunluk, genişlik ve yüksekliklerini belirleyen ölçülerdir.
 Azami ağırlık : Taşıtın güvenle taşıyabileceği azami yükle birlikte ağırlığıdır.
 Yüksüz ağırlık : Üzerinde insan veya eşya (yük) bulunmayan ve akaryakıt deposu dolu olan bir aracın taşınması zorunlu alet, edevat ve donatımı ile birlikte toplam ağırlığıdır.
 Yüklü ağırlık : Bir taşıtın yüksüz ağırlığı ile taşımakta olduğu sürücü, hizmetli, yolcu ve eşyanın toplam ağırlığıdır.
-Dingil ağırlığı:Araçlarda aynı dingile bağlı tekerleklerden karayolu yapısına aktarılan ağırlıktır,
-Azami dingil ağırlığı:Araçların karayolu yapılarından güvenle ve yapıya zarar vermeden geçebilmeleri için saptanan dingil ağırlığıdır.
-Azami toplam ağırlık:Araçların karayolu yapılarından güvenle ve yapıya zarar vermeden geçebilmeleri için saptanan toplam ağırlıktır.
-Trafik işaretleri : Trafiği düzenleme amacı ile kullanılan işaret levhaları, ışıklı ve sesli işaretler,yer işaretlemeleri ile trafik zabıtası veya diğer yetkililerin trafiği yönetmek için yaptıkları hareketlerdir.
+Dingil ağırlığı: Araçlarda aynı dingile bağlı tekerleklerden karayolu yapısına aktarılan ağırlıktır,
+Azami dingil ağırlığı: Araçların karayolu yapılarından güvenle ve yapıya zarar vermeden geçebilmeleri için saptanan dingil ağırlığıdır.
+Azami toplam ağırlık: Araçların karayolu yapılarından güvenle ve yapıya zarar vermeden geçebilmeleri için saptanan toplam ağırlıktır.
+Trafik işaretleri : Trafiği düzenleme amacı ile kullanılan işaret levhaları, ışıklı ve sesli işaretler, yer işaretlemeleri ile trafik zabıtası veya diğer yetkililerin trafiği yönetmek için yaptıkları hareketlerdir.
 İşaret levhası : Sabit veya taşınabilir bir mesnet üzerine yerleştirilmiş ve üzerindeki sembol, renk ve yazı ile özel bir talimatın aktarılmasını sağlayan trafik tertibatıdır.
 Işıklı ve sesli işaretler : Trafiği düzenlemede kullanılan ışıklı ve sesli, sabit veya taşınabilir, elle kumanda edilebilen veya otomatik çalışan, üzerinde çeşitli renk,
 6052
 şekil, sembol, yazı bulunan ve belirli yanma süresi olan, ışık veya sesle özel bir talimatın aktarılmasını sağlayan trafik tertibatıdır.
-İşaretleme : Taşıt yolu ile bordür,ada, ayırıcı, otokorkuluk gibi karayolu elemanları üzerindeki çeşitli renkte çizgi, şekil, sembol, yazı ve yansıtıcı ve benzerleri ile özel bir talimatın aktarılmasını sağlayan tertibattır.
+İşaretleme : Taşıt yolu ile bordür, ada, ayırıcı, otokorkuluk gibi karayolu elemanları üzerindeki çeşitli renkte çizgi, şekil, sembol, yazı ve yansıtıcı ve benzerleri ile özel bir talimatın aktarılmasını sağlayan tertibattır.
 Trafikten men : Trafik zabıtasınca, bu Kanunda belirtilen hallerde araçla ilgili belgelerin alınması ve aracın belirli bir yere çekilerek trafikten alıkonulmasıdır.
 Bu Kanunun uygulaması ile ilgili diğer tanım ve terimler yönetmelikte gösterilir.

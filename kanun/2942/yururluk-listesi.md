@@ -9,3 +9,5 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 2
 6306 | 15 | 31/5/2012
 Anayasa Mahkemesi’nin 1/11/2012 tarihli ve E.: 2010/83, K.: 2012/169 sayılı Kararı | Geçici Madde 6 | 22/2/2013
 6427 | 22 | 1/3/2013
+6459 | 10 | 30/4/2013
+6487 | Geçici Madde 6 ve 7 | 11/6/2013

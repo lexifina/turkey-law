@@ -44,13 +44,13 @@ A CETVELİ
 2710.11.70.00.00 | Benzin tipi jet yakıtı | 2,5000 | 0 (1) | Litre | 
 2710.19.21.00.00 | Jet yakıtı (Kerosen) | 2,5000 | 0 (1) | Litre | 
  | (Ağırlık itibariyle kükürt oranı % 0,05'i geçmeyenler) |  |  |  | 
-2710.19.41.00.11 | Motorin | 1,3045 | 1,5945 (1) | Litre | 
+2710.19.41.00.11 (2) | Motorin | 1,3045 | 1,5945 (1) | Litre | 
  | (Ağırlık itibariyle kükürt oranı % 0,05'i geçmeyenler) |  |  |  | 
-2710.19.41.00.13 | Kırsal Motorin | 1,3045 | 1,5945 (1) | Litre | 
+2710.19.41.00.13(2) | Kırsal Motorin | 1,3045 | 1,5945 (1) | Litre | 
  | (Ağırlık itibariyle kükürt oranı % 0,05'i geçmeyenler) |  |  |  | 
 2710.19.41.00.29 | Diğerleri | 1,3045 | 1,5945 (1) | Litre | 
  | (Ağırlık itibariyle kükürt oranı % 0,05'i geçen fakat % 0,2'yi geçmeyenler) |  |  |  | 
-2710.19.45.00.12 | Kırsal Motorin | 1,2345 | 1,5245 (1) | Litre | 
+2710.19.45.00.12 (2) | Kırsal Motorin | 1,2345 | 1,5245 (1) | Litre | 
  | (Ağırlık itibariyle kükürt oranı % 0,05'i geçen fakat % 0,2'yi geçmeyenler) |  |  |  | 
 2710.19.45.00.13 | Deniz motorini (DMX) | 1,2345 | 1,5245 (1) | Litre | 
  | (Ağırlık itibariyle kükürt oranı % 0,05'i geçen fakat % 0,2'yi geçmeyenler) |  |  |  | 
@@ -70,6 +70,7 @@ A CETVELİ
  |  | (Ağırlık itibariyle kükürt oranı % 0,2'yi geçenler) |  |  | 
 ––––––––––––
 (1) Bu mallara ilişkin ÖTV tutarları 22/9/2012 tarihli ve 28419 sayılı Resmi Gazete’de yayımlanan 20/9/2012 tarihli ve 2012/3735 sayılı Bakanlar Kurulu Kararı eki Kararın 3 üncü maddesiyle 22/9/2012 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
+(2)Bu mallara ilişkin vergi tutarlarının uygulanması ile ilgili olarak 1/12/2013 tarihli ve 28838 sayılı Resmi Gazete’de yayımlanan 2/9/2013 tarihli ve 2013/5595 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
 8314-2
 2710.19.49.00.16 | Deniz motorini (DMC) | 1,2345 | 1,5245 (1) | Litre
  | (Ağırlık itibariyle kükürt oranı % 0,2'yi geçenler) |  |  | 
@@ -272,85 +273,60 @@ A CETVELİ
 ––––––––––––
 (1) Bu mallara ilişkin ÖTV tutarları 22/9/2012 tarihli ve 28419 sayılı Resmi Gazete’de yayımlanan 20/9/2012 tarihli ve 2012/3735 sayılı Bakanlar Kurulu Kararı eki Kararın 3 üncü maddesiyle 22/9/2012 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
 8318-1
-(B) CETVELİ (1)(2)
-G.T.İ.P. NO | Mal İsmi | Vergi Tutarı (TL) | Uygulanacak Vergi Tutarı (TL) | Birimi
-2707.10 | Benzol (Benzen) | 2,0135 | 2,2985 (1) | Kilogram
-2707.20 | Toluol (Toluen) | 2,0135 | 2,2985 (1) | Kilogram
-2707.50.90.00.11 | Solvent nafta | 2,0135 | 2,2985 (1) | Kilogram
- | (Çözücü nafta) |  |  | 
-2710.11.21.00.00 | White spirit | 2,0135 | 2,2985 (1) | Kilogram
-2710.11.25.00.00 | Diğerleri | 2,0135 | 2,2985 (1)) | Kilogram
-2710.11.90.00.11 | Diğer solventler | 2,0135 | 2,2985 (1) | Kilogram
- | (Çözücüler) (Petrol eteri) |  |  | 
-2710.11.90.00.19 | Diğerleri | 2,0135 | 2,2985 (1) | Kilogram
- | (Petrol eteri) |  |  | 
-2710.19.29.00.00 | Diğerleri | 2,0135 | 2,2985 (1) | Kilogram
- | (Petrol eteri) |  |  | 
-2901.10.00.90.11 | Hekzan | 2,0135 | 2,2985 (1) | Kilogram
-2901.10.00.90.12 | Heptan | 2,0135 | 2,2985 (1) | Kilogram
-2901.10.00.90.13 | Pentan | 2,0135 | 2,2985 (1) | Kilogram
-2902.20.00.00.00 | Benzen (Benzol) | 2,0135 | 2,2985 (1) | Kilogram
-2902.30.00.00.00 | Toluen (Toluol) | 2,0135 | 2,2985 (1) | Kilogram
-2909.19.90.00.13 | Metil tersiyer bütil eter (MTBE) | 2,0135 | 2,2985 (1) | Kilogram
- | (Petrol yağları veya bitümenli minerallerden elde edilen yağları içerenler) |  |  | 
-3811.21.00.10.00 | Mineral yağlar veya mineral yağlar gibi aynı amaçla kullanılan diğer sıvı yağlar için diğer müstahzar katkılar | 2,0135 | 2,2985 (1) | Kilogram
- | (Petrol yağları veya bitümenli minerallerden elde edilen yağları içermeyenler) |  |  | 
-3811.29.00.10.00 | Mineral yağlar veya mineral yağlar gibi aynı amaçla kullanılan diğer sıvı yağlar için diğer müstahzar katkılar | 2,0135 | 2,2985 (1) | Kilogram
-3811.90.00.10.12 | Hafif mineral yağlar için müstahzar katkılar | 2,0135 | 2,2985 (1) | Kilogram
- | Tarifenin başka yerinde belirtilmeyen veya yer almayan organik karma çözücüler ve incelticiler; boya ve vernik çıkarmada kullanılan müstahzarlar |  |  | 
-3814.00.90 | Diğerleri | 0,0650 | 0,7390 (1) | Kilogram
- | (Esası bütil asetat olanlar hariç) |  |  | 
-3824.90.40.00.00 | Vernikler ve benzeri ürünler için anorganik karma çözücüler ve incelticiler | 0,0650 | 0,7390 (1) | Kilogram
- | (Yağlama yağları; diğer yağlar) |  |  | 
-______________________
-(1) Bu mallara ilişkin ÖTV tutarları 22/9/2012 tarihli ve 28419 sayılı Resmi Gazete’de yayımlanan 20/9/2012 tarihli ve 2012/3735 sayılı Bakanlar Kurulu Kararı eki Kararın 3 üncü maddesiyle 22/9/2012 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
-(2) Bu mallara ilişkin vergi tutarlarının uygulanması ile ilgili olarak 9/10/2012 tarihli ve 28436 sayılı Resmi Gazete’de yayımlanan 8/10/2012 tarihli ve 2012/3792 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
+(Değişik Cetvel: 24/5/2013-6487/30 md.)
+(1) Sayılı Cetvel
+(B) CETVELİ
+G.T.İ.P. NO | Mal İsmi | Vergi Tutarı (TL) | Birimi
+2707.10.00.00.00 | Benzol (Benzen) | 2,2985 | Kilogram
+2707.20.00.00.00 | Toluol (Toluen) | 2,2985 | Kilogram
+2707.30.00.00.00 | Ksilol (Ksilen) | 2,2985 | Kilogram
+2707.50.00.00.11 | Solvent nafta (Çözücü nafta) | 2,2985 | Kilogram
+2707.50.00.00.19 | Diğerleri | 2,2985 | Kilogram
+2707.99.19.00.00 | Diğerleri | 2,2985 | Kilogram
+2707.99.20.00.00 | Sülfürik asitle diğer kısımları alınmış petrol eterleri; Antrasen | 2,2985 | Kilogram
+2709.00.10.00.00 | Tabii gazın kondanseleri | 2,2985 | Kilogram
+2710.12.21.00.00 | White spirit | 2,2985 | Kilogram
+2710.12.25.00.00 | Diğerleri | 2,2985 | Kilogram
+2710.12.90.00.11 | Diğer solventler (Çözücüler) | 2,2985 | Kilogram
+2710.12.90.00.19 | Diğerleri | 2,2985 | Kilogram
+2710.19.29.00.00 | Diğerleri | 2,2985 | Kilogram
+2710.20.90.00.00. | Diğer yağlar [Yalnız; -2710.12.90.00.11, 2710.12.90.00.19 ve 2710.19.29.00.00 G.T.İ.P. numaralı malların biodizel ihtiva edenleri, -2710.19.81, 2710.19.83, 2710.19.85, 2710.19.87, 2710.19.91, 2710.19.93 ve 2710.19.99 alt pozisyonlarında yer alan malların biodizel ihtiva edenleri.] | 2,2985 1,3007 | Kilogram Kilogram
+2901.10.00.90.11 | Hekzan | 2,2985 | Kilogram
+2901.10.00.90.12 | Heptan | 2,2985 | Kilogram
+2901.10.00.90.13 | Pentan | 2,2985 | Kilogram
+2901.10.00.90.19 | Diğer doymuş asiklik hidrokarbonlar | 2,2985 | Kilogram
+2902.20.00.00.00 | Benzen (Benzol) | 2,2985 | Kilogram
+2902.30.00.00.00 | Toluen (Toluol) | 2,2985 | Kilogram
+2902.60.00.00.00 | Etil benzen | 2,2985 | Kilogram
+2909.19.90.00.13 | Metil tersiyer bütil eter (MTBE) | 2,2985 | Kilogram
+38.11 | Vuruntuyu önleyici müstahzarlar, oksidasyonu durdurucu maddeler, peptizan katkılar, akışkanlığı düzenleyici maddeler, aşınmayı önleyici katkılar ve mineral yağlar (benzin dâhil) veya mineral yağlar gibi aynı amaçla kullanılan diğer sıvı yağlar için diğer müstahzar katkılar | 2,2985 | Kilogram
 8318-2
-2710.19.71.00.00 | Özel bir işleme tabi tutulacak olanlar | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama yağları; diğer yağlar) |  |  | 
-2710.19.75.00.00 | 2710.19.71.00 Alt pozisyonunda belirtilen işlemlerden başka bir işlemle kimyasal değişime tabi tutulacak olanlar | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama yağları; diğer yağlar) |  |  | 
-2710.19.81.00.00 | Motor yağları, kompresör yağlama yağları, türbin yağlama yağları | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama yağları; diğer yağlar) |  |  | 
-2710.19.83.00.00 | Hidrolik amaçlara mahsus sıvı yağlar | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama yağları; diğer yağlar) |  |  | 
-2710.19.85.00.00 | Beyaz yağlar, sıvı parafin | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama yağları; diğer yağlar) |  |  | 
-2710.19.87.00.00 | Dişli yağları ve redüktör yağları | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama yağları; diğer yağlar) |  |  | 
-2710.19.91.00.00 | Metal işlemeye mahsus bileşikler, kalıp çıkarma yağları, aşınmayı önleyici yağlar | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama yağları; diğer yağlar) |  |  | 
-2710.19.93.00.00 | Elektrik izolasyonuna mahsus yağlar | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama yağları; diğer yağlar) |  |  | 
-2710.19.99.00.25 | Diğer madeni yağlar | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama yağları; diğer yağlar) |  |  | 
-2710.19.99.00.21 | Spindle oil | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama yağları; diğer yağlar) |  |  | 
-2710.19.99.00.22 | Light neutral | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama yağları; diğer yağlar) |  |  | 
-2710.19.99.00.23 | Heavy neutral | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama yağları; diğer yağlar) |  |  | 
-2710.19.99.00.24 | Bright stock | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama yağları; diğer yağlar |  |  | 
-2710.19.99.00.98 | Diğerleri | 1,0560 | 1,3007(1) | Kilogram
- | (Yalnız baz yağlar) |  |  | 
-2710.19.25.00.11 | Gazyağı | 0,7605 | 0,9367 (1) | Litre
-2710.19.25.00.19 | Diğerleri | 0,7605 | 0,9367 (1) | Litre
- | (Yağlama müstahzarları) |  |  | 
-3403.11.00.00.00 | Dokumaya elverişli maddelerin, deri ve köselenin, post ve kürklerin veya diğer maddelerin işlenmesine mahsus müstahzarlar | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama müstahzarları) |  |  | 
-__________________________
-(1) Bu mallara ilişkin ÖTV tutarları 22/9/2012 tarihli ve 28419 sayılı Resmi Gazete’de yayımlanan 20/9/2012 tarihli ve 2012/3735 sayılı Bakanlar Kurulu Kararı eki Kararın 3 üncü maddesiyle 22/9/2012 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
+3814.00 | Tarifenin başka yerinde belirtilmeyen veya yer almayan organik karma çözücüler ve incelticiler; boya ve vernik çıkarmada kullanılan müstahzarlar | 0,7390 | Kilogram
+3824.90.40.00.00 | Vernikler ve benzeri ürünler için anorganik karma çözücüler ve incelticiler | 0,7390 | Kilogram
+2710.19.71.00.00 | Özel bir işleme tabi tutulacak olanlar (Yağlama yağları; diğer yağlar) | 1,3007 | Kilogram
+2710.19.75.00.00 | 2710.19.71.00 Alt pozisyonunda belirtilen işlemlerden başka bir işlemle kimyasal değişime tabi tutulacak olanlar (Yağlama yağları; diğer yağlar) | 1,3007 | Kilogram
+2710.19.81.00.00 | Motor yağları, kompresör yağlama yağları, türbin yağlama yağları (Yağlama yağları; diğer yağlar) | 1,3007 | Kilogram
+2710.19.83.00.00 | Hidrolik amaçlara mahsus sıvı yağlar (Yağlama yağları; diğer yağlar) | 1,3007 | Kilogram
+2710.19.85.00.00 | Beyaz yağlar, sıvı parafin (Yağlama yağları; diğer yağlar) | 1,3007 | Kilogram
+2710.19.87.00.00 | Dişli yağları ve redüktör yağları (Yağlama yağları; diğer yağlar) | 1,3007 | Kilogram
+2710.19.91.00.00 | Metal işlemeye mahsus bileşikler, kalıp çıkarma yağları, aşınmayı önleyici yağlar (Yağlama yağları; diğer yağlar) | 1,3007 | Kilogram
+2710.19.93.00.00 | Elektrik izolasyonuna mahsus yağlar (Yağlama yağları; diğer yağlar) | 1,3007 | Kilogram
+2710.19.99.00.25 | Diğer madeni yağlar (Yağlama yağları; diğer yağlar) | 1,3007 | Kilogram
+2710.19.99.00.21 | Spindle oil | 1,3007 | Kilogram
+2710.19.99.00.22 | Light neutral | 1,3007 | Kilogram
+2710.19.99.00.23 | Heavy neutral | 1,3007 | Kilogram
+2710.19.99.00.24 | Bright stock | 1,3007 | Kilogram
+2710.19.99.00.98 | Diğerleri | 1,3007 | Kilogram
 8318-3
-3403.19.10.00.00 | Esas madde olarak kabul edilmemek şartıyla, ağırlık itibarıyla % 70 veya daha fazla petrol yağları veya bitümenli minerallerden elde edilen yağları içerenler | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama müstahzarları) |  |  | 
-3403.19.90.00.00 | Diğerleri | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama müstahzarları) |  |  | 
-3403.91.00.00.00 | Dokumaya elverişli maddelerin, deri ve köselenin, post ve kürklerin veya diğer maddelerin işlenmesine mahsus müstahzarlar | 1,0560 | 1,3007(1) | Kilogram
- | (Yağlama müstahzarları) |  |  | 
-3403.99.00.00.00 | Diğerleri | 1,0560 | 1,3007(1) | Kilogram
+2712.20 | Ağırlık itibarıyla % 0,75’den az yağ içeren parafin | 1,3007 | Kilogram
+2710.19.25.00.11 | Gazyağı | 0,9367 | Litre
+2710.19.25.00.19 | Diğerleri | 0,9367 | Litre
+3403.11.00.00.00 | Dokumaya elverişli maddelerin, deri ve köselenin, post ve kürklerin veya diğer maddelerin işlenmesine mahsus müstahzarlar (Yağlama müstahzarları) | 1,3007 | Kilogram
+3403.19.10.00.00 | Esas madde olarak kabul edilmemek şartıyla, ağırlık itibarıyla % 70 veya daha fazla petrol yağları veya bitümenli minerallerden elde edilen yağları içerenler (Yağlama müstahzarları) | 1,3007 | Kilogram
+3403.19.90.00.00 | Diğerleri (Yağlama müstahzarları) | 1,3007 | Kilogram
+3403.91.00.00.00 | Dokumaya elverişli maddelerin, deri ve köselenin, post ve kürklerin veya diğer maddelerin işlenmesine mahsus müstahzarlar (Yağlama müstahzarları) | 1,3007 | Kilogram
+3403.99.00.00.00 | Diğerleri (Yağlama müstahzarları) | 1,3007 | Kilogram
 __________________________
-(1) Bu mallara ilişkin ÖTV tutarları 22/9/2012 tarihli ve 28419 sayılı Resmi Gazete’de yayımlanan 20/9/2012 tarihli ve 2012/3735 sayılı Bakanlar Kurulu Kararı eki Kararın 3 üncü maddesiyle 22/9/2012 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
 8318-4
 8319
 (II) SAYILI LİSTE
@@ -374,9 +350,9 @@ Sadece elektrik motorlu olanlar | 10 | 10 (2)
  | Motor silindir hacmi 3200 cm³'ü geçmeyenler | 10 | 15 (1)
 Sadece elektrik motorlu olanlar | 10 | 10 (1)
 -Diğerleri |  | 
-Motor silindir hacmi 1600 cm3'ü geçmeyenler | 37 | 40 (3)
-Motor silindir hacmi 1600 cm3'ü geçen fakat 2000 cm3'ü geçmeyenler | 60 | 80 (1)
-Motor silindir hacmi 2000 cm3'ü geçenler | 84 | 130 (1)
+Motor silindir hacmi 1600 cm3'ü geçmeyenler | 37 | 45 (3)
+Motor silindir hacmi 1600 cm3'ü geçen fakat 2000 cm3'ü geçmeyenler | 60 | 90 (3)
+Motor silindir hacmi 2000 cm3'ü geçenler | 84 | 145 (3)
  | Sadece elektrik motorlu olanlar |  | 
  | Motor gücü 85 KW’ı geçmeyenler | 37 | 3 (1)
  | Motor gücü 85 KW’ı geçen fakat 120 KW’ı geçmeyenler | 60 | 7 (1)
@@ -397,7 +373,7 @@ Motor gücü 120 KW’ı geçenler | 84 | 75 (2)
 ––––––––––––
 (1) Bu mallara ilişkin ÖTV tutarları 13/10/2011 tarihli ve 28083 sayılı Resmi Gazete’de yayımlanan 12/10/2011 tarihli ve 2011/2304 sayılı Bakanlar Kurulu Kararı eki Kararın 1 inci maddesiyle 13/10/2011 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
 (2) Bu mallara ilişkin ÖTV tutarları 25/2/2011 tarihli ve 27857 (2.Mükerrer ) sayılı Resmi Gazete’de yayımlanan 25/2/2011 tarihli ve 2011/1435 sayılı Bakanlar Kurulu Kararı eki Kararın 2 nci maddesiyle 25/2/2011 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
-(3) Bu mala ilişkin ÖTV tutarı, 22/9/2012 tarihli ve 28419 sayılı Resmi Gazete’de yayımlanan 20/9/2012 tarihli ve 2012/3735 sayılı Bakanlar Kurulu Kararı eki Kararın 4 üncü maddesiyle 22/9/2012 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
+(3) Bu mallara ilişkin ÖTV tutarları, 1/1/2014 tarihli ve 28869 sayılı Resmi Gazete’de yayımlanan 31/12/2013 tarihli ve 2013/5761 sayılı Bakanlar Kurulu Kararı eki Kararın 3 üncü maddesiyle 1/1/2014 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
 8320-1
  | Sadece elektrik motorlu olanlar | 10 | 10 (1) | 
 Diğerleri | 10 | 10 (1) | 
@@ -425,48 +401,46 @@ NOT : Bu listedeki malların aksam ve parçaları kapsama dahil değildir. |  |
 (Değişik: 13/2/2011-6111/87 md.)
  | Mal İsmi | Vergi Oranı (%) | Uygulanacak Vergi Oranı (%) | Asgari Maktu Vergi Tutarı (TL/Lt) | Uygulanacak Asgari Maktu Vergi Tutarı (TL/Lt)
 2202.10.00.00.13 | Kolalı Gazozlar | 25 | 25 (1) | - | -
-2203.00 | Malttan üretilen biralar | 63,3 | 63 (1) | 0,44 | 0,62(1)
-22.04 | Taze üzüm şarabı (kuvvetlendirilmiş şaraplar dahil); üzüm şırası (20.09 pozisyonunda yer alanlar hariç) (2204.10 köpüklü şaraplar ve 2204.30 diğer üzüm şıraları hariç) | 63,3 | 0 (1) | 2,44 | 3,44 (1)
-2204.10 | Köpüklü şaraplar | 275,6 | 0 (1) | 16,12 | 23,19 (1)
-22.05 | Vermut ve diğer taze üzüm şarapları (bitkiler veya kokulu maddelerle aromalandırılmış) (2205.10.10.00.00, 2205.10.90.00.12 hariç) | 275,6 | 0 (1) | 22,1 | 31,81 (1)
-2205.10.10.00.00 | Alkol derecesi hacim itibariyle % 18 veya daha az olanlar | 275,6 | 0 (1) | 17,55 | 25,25 (1)
-2206.00 | Fermente edilmiş diğer içecekler (elma şarabı, armut şarabı, bal şarabı gibi), tarifenin başka yerinde belirtilmeyen veya yer almayan fermente edilmiş içeceklerin karışımları ve fermente edilmiş içeceklerle alkolsüz içeceklerin karışımları | 275,6 | 0 (1) | 2,44 | 3,44 (1)
-2205.10.90.00.12 | Alkol derecesi hacim itibariyle % 22'den fazla olanlar | 275,6 | 0 (1) | 85,8 | 102,12 (1)
-2207.20 | Alkol derecesi ne olursa olsun tağyir (denatüre) edilmiş etil alkol ve damıtım yoluyla elde edilen diğer alkollü içkiler (Alkol derecesi ne olursa olsun tağyir (denatüre) edilmiş etil alkol hariç) | 275,6 | 0 (1) | 85,8 | 102,12 (1)
-22.08 | Alkol derecesi hacim itibariyle % 80'den az olan tağyir (denatüre) edilmemiş etil alkol; damıtım yoluyla elde edilen alkollü içkiler, likörler ve diğer alkollü içecekler [(2208.90.91; 2208.90.99) Alkol derecesi hacim itibariyle % 80'den az olan tağyir (denatüre) edilmemiş etil alkol hariç, (2208.20; 2208.50; 2208.60; 2208.70 ve 2208.90 hariç)] | 275,6 | 0 (1) | 85,8 | 102,12 (1)
+2203.00 | Malttan üretilen biralar | 63,3 | 63 (1) | 0,44 | 0,74(1)
+22.04 | Taze üzüm şarabı (kuvvetlendirilmiş şaraplar dahil); üzüm şırası (20.09 pozisyonunda yer alanlar hariç) (2204.10 köpüklü şaraplar ve 2204.30 diğer üzüm şıraları hariç) | 63,3 | 0 (1) | 2,44 | 3,97 (1)
+2204.10 | Köpüklü şaraplar | 275,6 | 0 (1) | 16,12 | 26,83 (1)
+22.05 | Vermut ve diğer taze üzüm şarapları (bitkiler veya kokulu maddelerle aromalandırılmış) (2205.10.10.00.00, 2205.10.90.00.12 hariç) | 275,6 | 0 (1) | 22,1 | 36,81 (1)
+2205.10.10.00.00 | Alkol derecesi hacim itibariyle % 18 veya daha az olanlar | 275,6 | 0 (1) | 17,55 | 29,22 (1)
+2206.00 | Fermente edilmiş diğer içecekler (elma şarabı, armut şarabı, bal şarabı gibi), tarifenin başka yerinde belirtilmeyen veya yer almayan fermente edilmiş içeceklerin karışımları ve fermente edilmiş içeceklerle alkolsüz içeceklerin karışımları | 275,6 | 0 (1) | 2,44 | 3,97 (1)
+2205.10.90.00.12 | Alkol derecesi hacim itibariyle % 22'den fazla olanlar | 275,6 | 0 (1) | 85,8 | 118,18 (1)
+2207.20 | Alkol derecesi ne olursa olsun tağyir (denatüre) edilmiş etil alkol ve damıtım yoluyla elde edilen diğer alkollü içkiler (Alkol derecesi ne olursa olsun tağyir (denatüre) edilmiş etil alkol hariç) | 275,6 | 0 (1) | 85,8 | 118,18 (1)
+22.08 | Alkol derecesi hacim itibariyle % 80'den az olan tağyir (denatüre) edilmemiş etil alkol; damıtım yoluyla elde edilen alkollü içkiler, likörler ve diğer alkollü içecekler [(2208.90.91; 2208.90.99) Alkol derecesi hacim itibariyle % 80'den az olan tağyir (denatüre) edilmemiş etil alkol hariç, (2208.20; 2208.50; 2208.60; 2208.70 ve 2208.90 hariç)] | 275,6 | 0 (1) | 85,8 | 118,18 (1)
 ––––––––––––
-(1) Bu mallara ilişkin vergi oranları ve asgari maktu vergi tutarları 22/9/2012 tarihli ve 28419 sayılı Resmi Gazete’de yayımlanan 20/9/2012 tarihli ve 2012/3735 sayılı Bakanlar Kurulu Kararı eki Kararın 5 inci maddesiyle 22/9/2012 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
+(1) Bu mallara ilişkin vergi oranları ve asgari maktu vergi tutarları, 1/1/2014 tarihli ve 28869 sayılı Resmi Gazete’de yayımlanan 31/12/2013 tarihli ve 2013/5761 sayılı Bakanlar Kurulu Kararı eki Kararın 4 üncü maddesiyle 1/1/2014 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
 8321
-2208.20 | Üzüm şarabı veya üzüm cibresinin damıtılması yolu ile elde edilen alkollü içkiler | 275,6 | 0 (1) | 71,5 | 97,16 (1) | 
-2208.50 | Cin ve Geneva | 275,6 | 0 (1) | 57,2 | 81,3 (1) | 
-2208.60 | Votka (2208.60.91.00.00, 2208.60.99.00.00 hariç) | 275,6 | 0 (1) | 57,2 | 81,3 (1) | 
-2208.60.91.00.00 | Muhtevası 2 litreyi geçmeyen kaplarda olanlar (Alkol derecesi hacim itibariyle % 45.4'den fazla olanlar) | 275,6 | 0 (1) | 85,8 | 87,12 (1) | 
-2208.60.99.00.00 | Muhtevası 2 litreyi geçen kaplarda olanlar (Alkol derecesi hacim itibariyle % 45.4'den fazla olanlar) | 275,6 | 0 (1) | 85,8 | 102,12 (1) | 
-2208.70 | Likörler | 275,6 | 0 (1) | 78,65 | 102,12 (1) | 
-2208.90 | Diğerleri (2208.90.48.00.11, 2208.90.71.00.11 hariç) | 275,6 | 0 (1) | 85,8 | 102,12 (1) | 
-2208.90.48.00.11 | Rakı (Muhtevası 2 litreyi geçmeyen kaplarda olanlar) | 275,6 | 0 (1) | 51,48 | 77(1) | 
-2208.90.71.00.11 | Rakı (Muhtevası 2 litreyi geçen kaplarda olanlar) | 275,6 | 0 (1) | 51,48 | 77 (1) | 
- | (B) CETVELİ (2)(3) |  |  |  | 
-G.T.İ.P. NO | Mal İsmi | Vergi Oranı (%) | Uygulanacak Vergi Oranı (%) | Asgari Maktu Vergi Tutarı (TL) | Uygulanacak Asgari Maktu Vergi Tutarı (TL/Lt) | 
-2402.10.00.00.11 | Tütün içeren purolar | 63 | 69 (2) | 0,1325 | 0,1450 (3) | 
-2402.10.00.00.12 | Uçları açık purolar | 63 | 69 (2) | 0,1325 | 0,1450 (3) | 
-2402.10.00.00.19 | Sigarillolar | 63 | 69 (2) | 0,1325 | 0,1450 (3) | 
+ | 2208.20 | Üzüm şarabı veya üzüm cibresinin damıtılması yolu ile elde edilen alkollü içkiler | 275,6 | 0 (1) | 71,5 | 112,45 (1) | 
+ | 2208.50 | Cin ve Geneva | 275,6 | 0 (1) | 57,2 | 94,09 (1) | 
+ | 2208.60 | Votka (2208.60.91.00.00, 2208.60.99.00.00 hariç) | 275,6 | 0 (1) | 57,2 | 94,09 (1) | 
+ | 2208.60.91.00.00 | Muhtevası 2 litreyi geçmeyen kaplarda olanlar (Alkol derecesi hacim itibariyle % 45.4'den fazla olanlar) | 275,6 | 0 (1) | 85,8 | 118,18 (1) | 
+ | 2208.60.99.00.00 | Muhtevası 2 litreyi geçen kaplarda olanlar (Alkol derecesi hacim itibariyle % 45.4'den fazla olanlar) | 275,6 | 0 (1) | 85,8 | 118,18 (1) | 
+ | 2208.70 | Likörler | 275,6 | 0 (1) | 78,65 | 118,18 (1) | 
+ | 2208.90 | Diğerleri (2208.90.48.00.11, 2208.90.71.00.11 hariç) | 275,6 | 0 (1) | 85,8 | 118,18 (1) | 
+ | 2208.90.48.00.11 | Rakı (Muhtevası 2 litreyi geçmeyen kaplarda olanlar) | 275,6 | 0 (1) | 51,48 | 89,11(1) | 
+ | 2208.90.71.00.11 | Rakı (Muhtevası 2 litreyi geçen kaplarda olanlar) | 275,6 | 0 (1) | 51,48 | 89,11 (1) | 
+(B) CETVELİ (1) |  |  |  | 
+ | G.T.İ.P. NO | Mal İsmi | Vergi Oranı (%) | Uygulanacak Vergi Oranı (%) | Asgari Maktu Vergi Tutarı (TL) | Uygulanacak Asgari Maktu Vergi Tutarı (TL) | Uygulanacak Maktu Vergi Tutarı (TL) | 
+ | 2402.10.00.00.11 | Tütün içeren purolar | 63 | 40 | 0,1325 | 0,1875 | 0,13 | 
+ | 2402.10.00.00.12 | Uçları açık purolar | 63 | 40 | 0,1325 | 0,1875 | 0,13 | 
+ | 2402.10.00.00.19 | Sigarillolar | 63 | 40 | 0,1325 | 0,1875 | 0,13 | 
 ––––––––––––
-(1) Bu mallara ilişkin vergi oranları ve asgari maktu vergi tutarları 22/9/2012 tarihli ve 28419 sayılı Resmi Gazete’de yayımlanan 20/9/2012 tarihli ve 2012/3735 sayılı Bakanlar Kurulu Kararı eki Kararın 5 inci maddesiyle 22/9/2012 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
-(2) 21/10/2011 tarihli ve 2011/2343 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle, bu cetveldeki mallar için belirlenen vergi oranının 13/10/2011 tarihinden geçerli olmak üzere 31/12/2012 tarihine kadar % 65 olarak uygulanacağı hüküm altına alınmıştır.
-(3) Bu mallara ilişkin ÖTV tutarları 13/10/2011 tarihli ve 28083 sayılı Resmi Gazete’de yayımlanan 12/10/2011 tarihli ve 2011/2304 sayılı Bakanlar Kurulu Kararı eki Kararın 2 nci maddesiyle 13/10/2011 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
+(1) Bu listede yer alan mallara ilişkin vergi oranları , asgari maktu vergi tutarları ve maktu vergi tutarları, 1/1/2014 tarihli ve 28869 sayılı Resmi Gazete’de yayımlanan 31/12/2013 tarihli ve 2013/5761 sayılı Bakanlar Kurulu Kararı eki Kararın 4 üncü maddesiyle 1/1/2014 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
 8322
-2402.20 | Tütün içeren sigaralar | 63 | 69 (2) | 0,1325 | 0,1450 (1)
-2402.90.00.00.00 | Diğerleri (Tütün yerine geçen maddelerden yapılmış purolar, uçları açık purolar, sigarillolar ve sigaralar) |  |  |  | 
--Tütün yerine geçen maddelerden yapılmış purolar, uçları açık purolar ve sigarillolar | 63 | 69 (2) | 0,1325 | 0,1450 (1)
--Tütün yerine geçen maddelerden yapılmış sigaralar | 63 | 69 (2) | 0,1325 | 0,1450 (1)
-2403.10 | İçilen tütün (Herhangi bir oranda tütün yerine geçen maddeleri içersin içermesin) (2403.10.10.00.19 ve 2403.10.90.00.19 hariç) | 63 | 69 (2) | 0,1325 | 0,1450 (1)
-2403.10.10.00.19 | Diğerleri (Net muhtevası 500 gramı geçmeyen ambalajlarda olanlar) | 63 | 69 (2) | 0,1325 | 0,0375(1)
-2403.10.90.00.19 | Diğerleri (Net muhtevası 500 gramı geçen ambalajlarda olanlar) | 63 | 69 (2) | 0,1325 | 0,0375(1)
-2403.99.10.00.00 | Enfiye ve çiğnemeye mahsus tütün | 63 | 69 (2) | 0,1325 | 0,1450 (1)
+G.T.İ.P. NO | Mal İsmi | Vergi Oranı (%) | Uygulanacak Vergi Oranı (%) | Asgari Maktu Vergi Tutarı (TL) | Uygulanacak Asgari Maktu Vergi Tutarı (TL) | Uygulanacak Maktu Vergi Tutarı (TL)
+2402.20 | Tütün içeren sigaralar | 63 | 65,25 (1) | 0,1325 | 0,1875 (1) | 0,13 (1)
+2402.90.00.00.00 | Diğerleri (Tütün yerine geçen maddelerden yapılmış purolar, uçları açık purolar, sigarillolar ve sigaralar) |  |  |  |  | 
+-Tütün yerine geçen maddelerden yapılmış purolar, uçları açık purolar ve sigarillolar | 63 | 40 (1) | 0,1325 | 0,1875 (1) | 0,13(1)
+-Tütün yerine geçen maddelerden yapılmış sigaralar | 63 | 65,25 (1) | 0,1325 | 0,1875 (1) | 0,13(1)
+2403.10 | İçilen tütün (Herhangi bir oranda tütün yerine geçen maddeleri içersin içermesin) (2403.10.10.00.19 ve 2403.10.90.00.19 hariç) | 63 | 65,25 (1) | 0,1325 | 0,1875 (1) | 0,13(1)
+2403.10.10.00.19 | Diğerleri (Net muhtevası 500 gramı geçmeyen ambalajlarda olanlar) | 63 | 65,25 (1) | 0,1325 | 0,0490(1) | 0,13(1)
+2403.10.90.00.19 | Diğerleri (Net muhtevası 500 gramı geçen ambalajlarda olanlar) | 63 | 65,25 (1) | 0,1325 | 0,0490(1) | 0,13(1)
+2403.99.10.00.00 | Enfiye ve çiğnemeye mahsus tütün | 63 | 65,25 (1) | 0,1325 | 0,0490 (1) | 0,13(1)
 ––––––––––––
-(1) Bu mallara ilişkin ÖTV tutarları 13/10/2011 tarihli ve 28083 sayılı Resmi Gazete’de yayımlanan 12/10/2011 tarihli ve 2011/2304 sayılı Bakanlar Kurulu Kararı eki Kararın 2 nci maddesiyle 13/10/2011 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
-(2) 21/10/2011 tarihli ve 2011/2343 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle, bu cetveldeki mallar için belirlenen vergi oranının 13/10/2011 tarihinden geçerli olmak üzere 31/12/2012 tarihine kadar % 65 olarak uygulanacağı hüküm altına alınmıştır.
+(1) Bu listede yer alan mallara ilişkin vergi oranları , asgari maktu vergi tutarları ve maktu vergi tutarları, 1/1/2014 tarihli ve 28869 sayılı Resmi Gazete’de yayımlanan 31/12/2013 tarihli ve 2013/5761 sayılı Bakanlar Kurulu Kararı eki Kararın 4 üncü maddesiyle 1/1/2014 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
 8323
 (IV) SAYILI LİSTE
 (Değişik: 13/2/2011-6111/87 md.)
@@ -682,4 +656,6 @@ B.K.K | 2011/2343 | 26/10/2011 | 28096 |
 B.K.K | 2012/3172 | 18/5/2012 | 28296 | 
 B.K.K | 2012/3735 | 22/9/2012 | 28419 | 
 B.K.K | 2012/3792 | 9/10/2012 | 28436 | 
+B.K.K | 2013/5595 | 1/12/2013 | 28838 | 
+B.K.K | 2013/5761 | 1/1/2014 | 28869 | 
 8328-1

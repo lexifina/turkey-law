@@ -2,7 +2,6 @@
 YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
 Kanun Yürürlüğe
 No. Farklı tarihte yürürlüğe giren maddeler giriş tarihi
-________ __________________________________________________ ___________
 3058 — 18/10/1984 ten geçerli olmak üzere 19/10/1984
 KHK/245 Cezalara ilişkin hükümler Kararnamenin kanunlaştığı tarihte: (28/3/1985)
 Diğer hükümler 18/6/1985

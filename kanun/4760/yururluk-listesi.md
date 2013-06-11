@@ -22,3 +22,6 @@ Anayasa Mah.’nin E.: 2010/118, K.: 2011/170 sayılı Kararı | İşlenemeyen H
 6322 | 11, 12/2 ve (IV) sayılı cetvel 12/3 | 15/6/2012 1/1/2013
 6408 | Geçici Madde 5 | 1/1/2013 tarihinden geçerli olmak üzere 31/1/2013
 6455 | 7, 13 | 11/4/2013
+6462 | 7 | 3/5/2013
+6491 | 7 | 11/6/2013
+6487 | (I) Sayılı Liste, 12, Geçici Madde 6 | 11/6/2013

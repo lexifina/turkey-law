@@ -11,3 +11,5 @@ Değiştiren Kanunun Numarası | 5520 sayılı Kanunun değişen veya iptal edil
 6303 | Geçici Madde 2 | 18/5/2012
 6322 | 5/A, 10, 15/c, Geçici Madde 3 15/g 32/A 5/a, 11/1-i | 15/6/2012 1/7/2012 Öngörülen yatırım öneminde katkı kullandırılmasına ilişkin düzenleme 1/1/2013 tarihinden itibaren elde edilen kazançlara uygulanmak üzere 15/6/2012 1/1/2013
 6358 | Geçici Madde 2 | 10/11/2012
+6456 | 4 | 29/6/2012 tarihinden geçerli olmak üzere 18/4/2013
+6487 | 5 | 11/6/2013 tarihinden itibaren kaynak kuruluşlarca devredilen taşınmazlara uygulanmak üzere yayımı tarihinde

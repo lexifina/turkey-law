@@ -1,4 +1,3 @@
 Geçici Madde 62 – (Ek: 4/7/2012-6353/10 md.)
 Bu maddenin yürürlüğe girdiği tarihten sonraki ilk yükseköğretime giriş ve yerleştirme işlemlerine münhasır olmak üzere, bu Kanunun 45 inci maddesinin birinci fıkrasının (b), (d) ve (f) bentleri uyarınca adayların merkezi sınavlardan almış olduğu puanlara ilave edilecek ortaöğretim başarı puanları Yükseköğretim Kurulunca belirlenmiş olan usul ve esaslara göre hesaplanır.
-_____________
-(1) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu madde iptal edilmiş olup iptal hükmünün, kararın Resmî Gazete’de yayımlandığı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır. 5388-14
+(1)Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu madde iptal edilmiş olup iptal hükmünün, kararın Resmî Gazete’de yayımlandığı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır. 5388-14

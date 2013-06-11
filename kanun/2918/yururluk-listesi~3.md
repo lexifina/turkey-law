@@ -13,3 +13,5 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 2
 6321 | 79 , Ek Madde 2 | 3/6/2012
 6353 | 41 | 12/7/2012
 Anayasa Mah.’nin 29/11/2012 tarihli ve E.: 2012/106, K.: 2012/190 sayılı Kararı | 36 ncı maddenin üçüncü fıkrasının dördüncü cümlesi | 6/3/2013
+6462 | 38, 61, 77 | 3/5/2013
+6487 | 36, 48, Ek Madde 13 | 11/6/2013

@@ -9,7 +9,7 @@ KHK/418 a) 2, 3, 6, 8, 9, 10, 13, 14, 16, 17, 20, 21, 22, 27, 28, 31,
 b) 30 ve 38 inci maddeleri 1/7/1990
 c) 34 üncü maddesi 15/1/1991
 d) 4, 5, 11, 23, 24, 25, 26, 29 ve 40 ıncı maddeleri Yayımınıizleyenaybaşında
-e) 39 uncu maddesi 1990 - 1991 öğrenim döneminde
+e) 39 uncu maddesi 1990 – 1991 öğrenim döneminde
 uygulanmaya başlanmak üzere, bu konuda Bakanlar
 Kurulunca esas ve usullerin tesbitini izleyen aybaşında
 f) Diğer maddeleri 11/4/1990
@@ -42,7 +42,7 @@ ___________ _______________________________________________________ ___________
 4689 a) 3 nci maddesi yayımını izleyen ay başında.
 b) 3 üncü maddesiyle düzenlenen 2547 sayılı
 Kanunun ek 18 inci maddesinin üçüncü fıkrasının
-(c)bendi 1/1/2002 tarihinde, diğer hükümleri 1/1/2001 tarihinde
+©bendi 1/1/2002 tarihinde, diğer hükümleri 1/1/2001 tarihinde
 c) Diğer maddeleri 3/7/2001
 4702 – 10/7/2001
 4969 22/7/2003 tarihinden geçerli olmak üzere 12/8/2003

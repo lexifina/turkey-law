@@ -4,7 +4,7 @@ a) Kuruluş :
 Araçlara ve sürücülere ait işlemleri yapmak, plaka ve belgelerini vermek ve bu amaca yönelik hizmetleri yürütmek üzere her ilde ve gerekli görülen ilçelerde tescil şube veya büroları kurulur.
 Tescil şube veya bürolarında emniyet hizmetleri sınıfı personelinden ayrı olarak teşkilat ve kadrolarında gösterilen sayıda genel idare ve teknik hizmetler sınıfında personel ile sözleşmeli personel çalıştırılabilir.
 b) Görev ve yetkiler:
-1. Araçları,bu Kanuna göre araçlarda bulundurulması gerekli belge ve gereçleri,sürücüleri ve bunlara ait belgeleri, sürücülerin ve karayolunu kullanan diğer kişilerin kurallara uyup uymadığını, trafik düzenlemelerinin ve çeşitli tesislerin bu Kanun hükümlerine uygun olup olmadığını denetlemek,
+1. Araçları, bu Kanuna göre araçlarda bulundurulması gerekli belge ve gereçleri, sürücüleri ve bunlara ait belgeleri, sürücülerin ve karayolunu kullanan diğer kişilerin kurallara uyup uymadığını, trafik düzenlemelerinin ve çeşitli tesislerin bu Kanun hükümlerine uygun olup olmadığını denetlemek,
 2. Duran ve akan trafiği düzenlemek ve yönetmek,
 3. (Mülga: 17/10/1996 - 4199/47 md.)
 4. El koyduğu trafik kazalarında trafik kaza tespit tutanağı düzenlemek,

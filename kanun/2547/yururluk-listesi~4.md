@@ -16,3 +16,5 @@ KHK/666 | 58 58 | 31/12/2011 tarihinden geçerli olmak üzere 2/11/2011 15/1/201
 6287 | 45, 56, Geçici Madde 61, Ek Madde 21 | 11/4/2012
 6353 | Ek Madde 29, Geçici Madde 62 ve 63 | 12/7/2012
 6354 | 58 | 12/7/2012
+6456 | Ek Madde 7 | 18/4/2013
+6487 | 39 | 11/6/2013
