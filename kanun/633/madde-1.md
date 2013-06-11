@@ -1,0 +1,1 @@
+Madde 1 – İslam Dininin inançları, ibadet ve ahlak esasları ile ilgili işleri yürütmek, din konusunda toplumu aydınlatmak ve ibadet yerlerini yönetmek üzere; Başbakanlığa bağlı Diyanet İşleri Başkanlığı kurulmuştur.
