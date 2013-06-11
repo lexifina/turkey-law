@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-06-11",
+  "issue": "28674",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Onaylı Hava Aracı Bakım Kuruluşları Yönetmeliği (SHY-145)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130611-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130611.htm",
+  "index_sha256": "668542a1a04d6eb8b1311c402a9ebb06b24135b3447db5237452418a8b13941b",
+  "index_header": "11 Haziran 2013 ... 28674 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130611.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
