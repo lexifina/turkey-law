@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.18462",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YURT DIŞINDAKİ BAZI VARLIKLARIN EKONOMİYE KAZANDIRILMASI HAKKINDA GENEL TEBLİĞ (SERİ NO: 1)",
+  "number": "18462",
+  "path": "teblig/2013/18462",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18462&MevzuatTertip=5",
+  "source_sha256": "ccb0c1ac10fd7381a3c8e89a946b7ef42110911a3ecdb89c957c9e8c29ba3635",
+  "source_bytes": 88513,
+  "published": "2013-06-11",
+  "gazette": "28674",
+  "in_force": "2013-06-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.06.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4471,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18462%20ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
