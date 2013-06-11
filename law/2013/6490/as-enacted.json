@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6490",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti ve Gürcistan Arasında Ahıska-Borçka Enterkonneksiyon Hattı Yoluyla Sınır Ötesi Elektrik Ticaretine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-06-11",
+  "gazette_issue": "28674",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130611-4.htm",
+  "source_sha256": "a042b2ef1c7f0350295b0691da5bda9f2aa759d2d332f3ed72f5402abe009734",
+  "text_sha256": "926c19d4b1dd53457ab3e2acb84f5eac35b3fb442c5c425cf2fcadb27ea4d068",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/06/11/28674-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130611-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
