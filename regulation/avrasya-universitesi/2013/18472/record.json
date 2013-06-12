@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-06-12",
+      "12.06.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28675",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-06-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Avrasya Üniversitesi",
+  "issuer_slug": "avrasya-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/avrasya-universitesi/2013/18472",
+  "published": "2013-06-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18472&MevzuatTertip=5",
+  "source_bytes": 30200,
+  "source_id": "8.5.18472",
+  "source_sha256": "758ef12758a77ab2762ca81e897cf6ad29975ffe95fb5a749025849b1c6cd609",
+  "text_status": "as-enacted",
+  "title": "AVRASYA ÜNİVERSİTESİ YENİLİKÇİLİK VE GİRİŞİMCİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 363,
+  "word_count": 1201
+}

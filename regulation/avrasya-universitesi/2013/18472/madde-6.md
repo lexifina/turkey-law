@@ -1,0 +1,14 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Yaratıcı düşünme, yenilikçilik ve girişimcilik konularında araştırma, eğitim, uygulama yapmakta olan ya da ulusal politikaların oluşturulması süreçlerine dahil olan ilgili kamu ve özel sektör kuruluşları ile üniversitelerde farklı disiplinlerden bilim insanı ve uzmanların işbirliğini, iletişimini sağlayan ulusal ve uluslararası araştırma ve geliştirme projeleri oluşturulmasını, yürütülmesini, konferans, kongre, seminer, sempozyum gibi etkinlikler ve bilimsel yayınlar yapılmasını sağlamak.
+b) Yaratıcı düşünme, yenilikçilik ve girişimcilik konularında çeşitli düzeylerde eğitim programları düzenlemek ve danışmanlık hizmeti vermek. Bu alanlarda araştırmalar yapmak, yüksek lisans, doktora seviyelerinde yürütülen derslerin yenilikçilik ve girişimcilik boyutuna akademik katkı sağlamak.
+c) İş girişiminin başlangıcı, yönetimi ve büyütülmesinin öğretilmesini ve cesaretlendirilmesini sağlamak, yerel ve bölgesel kuruluşlarla işbirliği yapmak suretiyle yenilikçiliği ve girişimciliği geliştirici önerileri derlemek, yerel düzeyde uygun model ve programlar oluşturarak birlikte bu programları gerçekleştirmek ve sonuçları işlemek.
+ç) Türkiye’de girişimci adaylarının eğitim ve danışmanlık desteğiyle, bilgi ve beceri düzeylerini yükselterek, başarılı olmalarına katkıda bulunup, girişimciliğin geliştirilmesini engelleyen sorunların belirlenmesi amacıyla gerekli incelemeler yapmak, öneriler geliştirmek ve bu çerçevenin genişletilmesi için ilgili kuruluşlarla gerekli çözümler üretmek, yenilikçiliği ve girişimciliği bir kariyer olarak tanımlamak.
+d) Kendi işini kurmak isteyen, aile işine girmek isteyen, küçük, büyüme hedefli organizasyonlarda çalışacak öğrencileri Merkeze çekerek bilgi sunmak ve deneyim sahibi olmalarını sağlamak.
+e) İş çevresi ve sermaye sahipleri arasında eğitim-öğretim odaklı diyalog işbirliği kurmayı ve geliştirme, başarılı yenilikçilik ve girişimcilik örneklerini incelemek ve yaymak.
+f) Üniversitenin entelektüel sermayesini, yeteneklerini, girişim yaratılması ve geliştirilmesi üzerinde yoğunlaştırmak.
+g) Kuşaklar arası girişimcilik kabiliyetini ve girişimcilik ruhunu aşılayarak, ileri teknolojideki girişimleri geliştirmek, ilgili akademik araştırma konularını yönetmek.
+ğ) İyi eğitim almış yenilikçi ve girişimci düşünürler yetiştirmek, öğrencileri gelişen yeni işletme çevrelerine hazırlamak, araştırmak ve keşfetmek için destekleyici ve yol gösterici olmak.
+h) Kadın girişimciler konusunda araştırma yapmak.
+ı) Küçük ve orta ölçekli işletmeleri yenilikçilik ve girişimcilik kültürü, mevcut işi geliştirme konusunda eğitecek çalışmalar yapmak.
+i) Girişimcilik konusundaki araştırmaları yayınlamak ve girişimcilik alanındaki yeni gelişmeleri sektöre, girişimcilere aktarmak amacıyla yayın yapmak.
