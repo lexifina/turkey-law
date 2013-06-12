@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-06-12",
+      "12.06.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28675",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-06-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Avrasya Üniversitesi",
+  "issuer_slug": "avrasya-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/avrasya-universitesi/2013/18475",
+  "published": "2013-06-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18475&MevzuatTertip=5",
+  "source_bytes": 28268,
+  "source_id": "8.5.18475",
+  "source_sha256": "b45903d2eea177727769090251e815e7fcf39e8f44388ebd213a42b6876e7266",
+  "text_status": "as-enacted",
+  "title": "AVRASYA ÜNİVERSİTESİ GIDA GELİŞTİRME UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 363,
+  "word_count": 1024
+}
