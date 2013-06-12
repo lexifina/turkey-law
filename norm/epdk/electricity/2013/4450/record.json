@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4450",
+  "decision_date": "2013-06-12",
+  "title": "6446 sayılı Elektrik Piyasası Kanununun 9 uncu maddesi gereğince sayaçların okunması, bakımı, işletimi ve devralınmasına ilişkin usul ve esasları içeren yönetmelik yayımlanıncaya kadar uygulanmak üzere alınan Kurul Kararı",
+  "resmi_gazete_date": "2013-06-21",
+  "resmi_gazete_number": "28684",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1Qj9ElP+fc4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1Qj9ElP+fc4="
+  ],
+  "source_sha256": "a0f1a0415349d4536dd2aec4e12d1328d52089402a27a3f79d22379061f71d81",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-06-12",
+  "law_text_complete": false
+}
