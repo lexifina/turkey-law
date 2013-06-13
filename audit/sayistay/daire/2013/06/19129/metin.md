@@ -1,0 +1,3 @@
+Geçici Kabul Noksanlıkları Kesilmesi.
+
+…-… Ortaklığı’ndan Açık İhale Usulü (4734 Sayılı Kanunun 19’ncu maddesi) ile ihale edilen .…TL+KDV sözleşme bedelli “…. Hattı İnşaatı Tamamlama İşleri”nde, yükleniciden kesilen %3 geçici kabul noksanlıkları kesintisinin, iadesi yapılırken güncellemenin hatalı hesaplanması nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda …. TL tutarında kamu zararına neden olunduğu görülmüş ise de; bahse konu  kamu zararının …. tarih ve ….yevmiye nolu muhasebe işlem fişi ile ile ahizi …-…. ortaklığı’ndan tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
