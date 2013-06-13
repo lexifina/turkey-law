@@ -1,0 +1,5 @@
+Sözleşme Damga Vergisi.
+
+4734 Sayılı Kamu İhale Kanunu’nun 19’uncu maddesi çerçevesinde Açık İhale Usulü ile …. + KDV bedel karşılığında … A.Ş. Konsorsiyumu’na ihale edilen “….Elektro – Mekanik İşi” ile ilgili olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda,
+
+….Genel Müdürlüğü ile Yüklenici firma arasında imzalanan sözleşmenin, …Genel Müdürlüğü tarafından Ulaştırma Bakanlığı’na devri nedeni ile ödenmesi gereken sözleşme damga vergisinin ödenmemesi suretiyle kamu zararına sebep olunduğu iddiasına ilişkin olarak savunmalarda da belirtildiği üzere, 655 sayılı Ulaştırma, Denizcilik ve Haberleşme Bakanlığı’nın Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname’nin “Devralınacak metro ve raylı sistemler” başılıklı Geçici 5/4’üncü maddesinde “…. Devir konusunda belediyelerle yapılacak protokoller ile belediyelerin yüklenicilerle yapmış bulundukları sözleşmelerin Bakanlıkça devralınması amacı ile Bakanlık ile yükleniciler arasında yapılacak sözleşmeler ve bu devirlerle ilgili yapılacak diğer işlemler damga vergisi ve harçlardan müstesnadır.” hükmüne istinaden ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
