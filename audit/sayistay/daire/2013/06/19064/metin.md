@@ -1,0 +1,13 @@
+İşçi Personele Yapılan Gıda, Doğalgaz ve Kömür Yardımları.
+
+… Genel Müdürlüğü tarafından işçi personele yapılan gıda, doğalgaz ve kömür yardımları ile ilgili olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda,
+
+A) Denetçi sorgusunda doğrudan temin komisyonunun (Piyasa fiyat araştırma komisyonu) almış olduğu ihale kararı ile ilgili karar (pulu) damga vergisinin alınmaması sonucu kamu zararına neden olunduğu iddia edilmekte ise de; savunmada da belirtildiği üzere 44 Seri Nolu Damga Vergisi Genel Tebliği’nin 5’inci maddesinde “idarelerin 4734 Sayılı Kamu İhale Kanununun 22. maddesi gereğince yapacakları alımlar nedeniyle belli parayı ihtiva eden sözleşme düzenlenmesi halinde bu sözleşmenin, idarece kurulacak ihale komisyonlarınca bir ihale kararı alınması halinde bu kararın damga vergisine tabi tutulması gerektiği, ancak söz konusu alımlar nedeniyle belli parayı ihtiva eden bir sözleşme düzenlenmemesi ve ihale komisyonları kurularak bir ihale kararı alınmaması halinde ise damga vergisi alınmayacağı” ifade edildiğinden, verginin doğması için doğrudan teminle yapılacak alımlarda ihale komisyonu kurulması ve kurulan komisyonca ihale kararı alınmasının gerekmekte olduğundan konu hakkında ilişilecek husus bulunmadığına,
+
+(Daire Başkanı …. ve Üye ….’ın” 4734 Sayılı Kamu İhale Kanunu’nda yer alan ihale usulleri arasında sayılmamış olmasına rağmen piyasa fiyat araştırma tutanağı ‘bir işi veya bir malı birçok istekli arasından en uygun şartlar ile kabul edene bırakma’ şeklinde düzenlendiği için karar damga vergisine tabi olması gerekmektedir. Bu itibarla, yapılan tahsilatın ilamda gösterilmesi gerekir. ” şeklindeki ayrışık görüşlerine karşı) oy çokluğuyla karar verildi.
+
+B) Denetçi sorgusunda gelir vergisi işlemlerinin hatalı yapılması sonucu kamu zararına neden olunduğu iddia edilmiş ise de savunmada idarece eksik olarak düzenlenen gelir vergisinin düzeltme beyanı ile işlem yapılarak eksik gelir vergisinin yatırıldığı belirtildiğinden ve denetçi görüşü doğrultusunda ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
+
+C) Teslim alınan salça miktarının hatalı hesaplanması sonucunda ….TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı ahizi ….Ltd. Şti’den …. tarih ve nolu … sıra nolu para alındısı ile tahsil edildiğinden ilişilecek husus kalmadığına              oy birliğiyle karar verildi.
+
+D) Teslim alınan bezelye konserve miktarının hatalı hesaplanması sonucunda …. TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı ahizi  …. Ltd. Şti’den …. tarih ve nolu … sıra nolu para alındısı ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
