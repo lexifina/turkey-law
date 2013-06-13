@@ -1,0 +1,3 @@
+Elektrik Tüketim Bedellerine Ait Gecikme Zammı Ödenmesi.
+
+….Genel Müdürlüğü ...,.. Daire Başkanlığı’na bağlı çeşitli birimlerin elektrik tüketim bedellerine ait  gecikme zammı ödenmesi  nedeniyle kamu zararına sebep olunduğu iddia edilmekte ise de; savunmada da belirtildiği üzere toplu taşıma ve ulaşım hizmetlerinin aksatılmadan yürütülmesinde bazı zamanlarda  gelir- gider dengesizliğinden dolayı  nakit yetersizliğiyle karşılaşıldığı ve bu nakit yetersizliği sebebiyle elektrik tüketim bedeli ödemelerinde gecikmelere neden olunduğu anlaşıldığından konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
