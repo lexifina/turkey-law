@@ -1,0 +1,3 @@
+Otobüslerin Kiraya Verilmesi.
+
+… Genel Müdürlüğünce Bölge İdare Mahkemesi’ne personel taşıması için solo tipi otobüslerin kiraya verilmesi işinde, yıllık kira bedellerinin hesabında tam bilet ücretinin daha düşük olarak alınması nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, taraflar arasında mutabakata varıldığı tarihteki tam bilet ücreti üzerinden ücret belirlenip, sözleşme bu ücret üzerinden yapılmış olduğundan, sözleşmeye uygun yapıldığı anlaşılan ödemelerde ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
