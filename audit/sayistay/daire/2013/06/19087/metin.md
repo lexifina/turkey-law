@@ -1,0 +1,13 @@
+Müşavirlik Hizmet Alımı.
+
+…. İhale dosya, … ihale kayıt numaralı, … Ltd. Şti.-… Ltd. Şti. (İş Ortaklığı)’na Açık İhale Usulü (4734 Sayılı Kanunun 19’uncu maddesi) ile ihale edilen (4734 Sayılı Kanunun 19’uncu maddesi) …EURO+KDV sözleşme bedelli “CNG’li (Sıkıştırılmış Doğalgazlı) Otobüslere İçin 5 Adet Doğalgaz Dolum İstasyonu Yaptırılması İşi”,
+
+… ihale dosya, … ihale kayıt numaralı, … Ltd. Şti.’ne Açık İhale Usulü (4734 Sayılı Kanunun 19’uncu maddesi) ile ihale edilen …TL+KDV sözleşme bedelli “CNG’li (Sıkıştırılmış Doğalgazlı) Otobüslere İçin 3 Adet Doğalgaz Dolum İstasyonu Yaptırılması İşi”,
+
+… ihale dosya, … ihale kayıt numaralı, … Ltd. Şti.’ne Açık İhale Usulü (4734 Sayılı Kanunun 19’uncu maddesi) ile ihale edilen (4734 Sayılı Kanunun 19’uncu maddesi) …TL+KDV sözleşme bedelli “1., 2. ve 5. Bölge Şube Müdürlüklerinde bulunan AG;OG Yer Altı Kablosu ve Trafo Tesisi Yapımı İşi”
+
+olmak üzere 3 ayrı işe ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda,
+
+A) Denetçi sorgusunda 2006 yılında ihalesi yapılan “CNG’li (Sıkıştırılmış Doğalgazlı) Otobüslere İçin 5 Adet Doğalgaz Dolum İstasyonu Yaptırılması İşi” kapsamında yapılması gereken bazı iş grupları/iş kalemlerinin 2010 yılında yapılan “CNG’li (Sıkıştırılmış Doğalgazlı) Otobüslere İçin 3 Adet Doğalgaz Dolum İstasyonu Yaptırılması İşi” ve 1., 2. ve 5. Bölge Şube Müdürlüklerinde bulunan AG;OG Yer Altı Kablosu ve Trafo Tesisi Yapımı İşi” kapsamında yaptırıldığı belirtilmekte ise de, savunmada da belirtildiği üzere sözkonu ihalelerin üç ayrı ihale olup, her ihalenin kendi sözleşme hükümleri içerisinde değerlendirilmesinin gerektiği, ilk aşamada 500 araç dolumunu yapabilecek bir tesis istenilmekte ise de teslim alınan tesis teknik şartnamede belirtilen bütün şartları karşılamanın yanında gecede 1000 adet otobüs dolumunu gerçekleştirebildiğinin, mevcut doğalgaz dolum kompresörlerinin 200 bar basınçta çalıştırılarak, günlük 424 adet araca kadar dolumun yapıldığı, doğalgaz istasyonlarındaki bütün sistemlerin 200 aracı dolduracak düzeyde olduğu, teknik şartnamenin kapsam başlığı altındaki (d) ve (e) bentlerinde istenilen sistem ve ekipmanların, kompresör sistemine bağlı olarak istenilen kapasitede yapıldığı ve ihtiyacın karşıladığı anlaşıldığından konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
+
+B) Denetçi sorgusunda yüklenici tarafından ihale aşamasında verilmesi gereken yedek parça fiyat listesini eksik verildiği belirtilmekte ise de, söz konusu işin tamamlanarak kesin kabulunün yapıldığı dikkate alındığında, alınmayan yedek parça fiyat listesi ile ilgili bu aşamada yapılacak işlem olmadığı anlaşıldığından ve denetçi görüşü doğrultusunda ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
