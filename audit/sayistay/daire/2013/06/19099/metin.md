@@ -1,0 +1,3 @@
+Kompanzasyon Tesisatı Kurulu Olmasına Rağmen Gerekli Takibin Yapılmaması Nedeni İle Reaktif Tüketim Bedeli Ödenmesi.
+
+…Genel Müdürlüğü Otobüs İşletme Daire Başkanlığı’na bağlı 2. Bölge Şube Müdürlüğü Tesislerinde kompanzasyon tesisatı kurulu olmasına rağmen gerekli takibin yapılmaması nedeni ile reaktif tüketim bedeli ödenmesi nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi ve duruşmada hazır bulunan sorumlularca yapılan sözlü açıklamaların dinlenilmesi sonucunda, elektrik sistem değişikliğinin olması ve hata ile ilgili olarak … Elektrik Dağıtım A.Ş nezdinde girişimde bulunulması nedeniyle ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
