@@ -1,0 +1,9 @@
+- İş yıllara sari olmasına rağmen gelir vergisi stopajının yapılmaması,
+
+-İlk ihale kapsamında yapılması gereken bazı iş kalemleri tam olarak tamamlanmadığı halde pursantaj oranlarının % 100 olarak belirlendiği, bazı iş kalemleri ile ilgili olarak da gerçekleşen orandan daha yüksek pursantaj oranı belirlendiği, yine bazı iş kalemlerinin işletmeye alınabilmesi için ek maliyet gerektirmesi.
+
+… – …Ortaklığı’na Açık İhale Usulü (4734 Sayılı Kanunun 19’ncu maddesi) ile ihale edilen …USD + KDV sözleşme bedelli “… Hattı İnşaat ve Bina İşleri İşi”ne ait ara ve kesin hesap hakedişine ilişkin ödeme evrakı ve eklerinin incelenmesinde;
+
+A) Denetçi sorgusunda iş yıllara sari olmasına rağmen gelir vergisi stopajının yapılmaması suretiyle kamu zararına neden olunduğu belirtilmekte ise de; son yapılan kesin hakedişin tamamının daha önce gelir vergisi tevkifatına tabi tutulmuş olan avansın, yapılan hakedişlerden mahsup edilmeyen ….$ kısmına ait olduğu anlaşıldığından konu hakkında ilişilecek husus bulunmadığına oy birliğiyle,
+
+B) Denetçi sorgusunda ilk ihale kapsamında yapılması gereken bazı iş kalemleri tam olarak tamamlanmadığı halde pursantaj oranlarının %100 olarak belirlendiği, bazı iş kalemleri ile ilgili olarak da gerçekleşen orandan daha yüksek pursantaj oranı belirlendiği, yine bazı iş kalemlerinin işletmeye alınabilmesi için ek maliyet gerektirdiği iddia edilmekte ise de; 10.12.2010 tarih ve 27781 sayılı Resmi Gazete’de yayımlanan 2010/1115 sayılı Bakanlar Kurulu Kararı gereğince .…Büyükşehir Belediyesi Belediye Meclisinin .… tarih ve .… sayılı kararı ile devredilen ve tefsiye edilen iş, .…yetklililerinin de bulunduğu idarelerle ve yüklenicilerle oluşturulan komisyonların ayrıntılı tespitlerinin yer aldığı tutanaklarla ve mutabakat zabıtlarıyla devredilmiş bulunmakta olduğundan, sözkonusu bilgilere denetim ekibince ulaşılabileceği anlaşıldığından, ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
