@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2013/222",
+  "list_number": "222",
+  "decision_date": "2013-06-13",
+  "title": "Özel kanunlarında yer alan hükümler çerçevesinde kimlik ve adres bilgileri tespiti talebinde bulunan kurum ve kuruluşlar ile gerçek ve tüzel kişilerin taleplerinin Kurumumuz kayıtlarından karşılanmayacağına ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2610/2013-222.pdf",
+  "source_sha256": "d372a62a36ae0fcfe1c508ad56af673f9db63641dc746409c2ff1d43256ba59e",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-06-13",
+  "law_text_complete": false
+}
