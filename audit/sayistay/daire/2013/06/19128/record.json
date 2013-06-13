@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "26",
+  "decision_date": "2013-06-13",
+  "source_id": 19128,
+  "chamber": "6",
+  "ilam_number": "130",
+  "item_number": 70,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19128/",
+  "source_sha256": "d7f7db2b58bac178a13fdc515340eba80bb9666c21afb5a6d32a0b8f7133b92a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
