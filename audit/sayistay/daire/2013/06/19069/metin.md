@@ -1,0 +1,9 @@
+Elektrik Tüketim Bedelinin Ödenmesi.
+
+… Genel Müdürlüğü’nün bazı birimlerinin elektrik tüketim tutarlarının Destek Hizmetleri Müdürlüğü tarafından ödenmesi ile ilgili olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+A) Denetçi sorgusunda kompanzasyon tesisatı kurulu olmadığı için veya kompanzasyon tesisatı kurulu olmasına rağmen gerekli takibin yapılmaması nedeni ile reaktif tüketim bedeli ödenmesi suretiyle kamu zararına neden olunduğu iddia edilmekte ise de; savunmada da belirtildiği üzere 28.09.2011 tarihinde ihaleye çıkıldığı, teklif veren 2 firmanın belgelerinin noksan olması nedeniyle aynı tarihte ihalenin iptal edildiği, 04.04.2012 tarihinde tekrar ihaleye çıkıldığı, ihalenin sonuçlandırıldığı ve … nolu aboneliğin kompanzasyon tesisinin kurulduğu ve  çalışmaya başladığı anlaşıldığından ve denetçi görüşü doğrultusunda ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
+
+B) Denetçi sorgusunda zamanında ödenmeyen elektrik tüketim bedelleri için gecikme zammı ödenmesi suretiyle kamu zararına neden olunduğu iddia edilmekte ise de; savunmalarda da belirtildiği üzere nakit yetersizliği sebebiyle elektrik tüketim bedeli ödemelerinde gecikmelere neden olunduğu anlaşıldığından konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
+
+C) Denetçi sorgusunda Destek Hizmetleri Müdürlüğü tarafından elektrik tüketim bedeli ödenen ….Gaz Fabrikası faturalarında çeşitli hatalar bulunduğu, faturanın ilgili Yönetmelik hükümlerine uygun olmadığı ve bu hatalar nedeni ile yersiz ödemede bulunulması sonucunda kamu zararına neden olunduğu iddia edilmekte ise de; sözkonusu aboneliklerde Tarife Uygulamalarına İlişkin Usul ve Esaslar’a göre tüketimin transformatörlerin etiketinde yer alan günlük kayıplardan az olması nedeniyle faturalarda enerji tüketim bedeli hesabının değil trafo kaybı hesabının yapılması nedeniyle ve denetçi görüşü doğrultusunda ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
