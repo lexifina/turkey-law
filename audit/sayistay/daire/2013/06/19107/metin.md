@@ -1,0 +1,7 @@
+İhale Usullerine Aykırı Davranılması.
+
+… Genel Müdürlüğü Otobüs İşletme Dairesi Başkanlığı tarafından Açık İhale Usulü ve kısmı teklif ile … tarihinde KDV hariç toplam …TL bedelle ihalesi yapılan “16 Kalem Madeni Yağ ve Antifriz Alımı İşi” ile ilgili olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda,
+
+A) İhaleye teklif veren 6 adet firmadan biri olan ….A.Ş firmasının ihale için gerekli yeterlik kriterlerini sağlamamasına rağmen, bu firmadan KDV hariç .…TL bedelle malzeme satın alınarak ihale usulüne aykırı davranıldığı ve yükleniciye vekaletsiz iş görme hükümlerine göre iş yaptırılması suretiyle kamu zararına neden olunduğu iddia edilmekte ise de; sözkonusu firmanın taahhüdünü yerine getirmiş olması, kamu zararının oluşmaması ve ihale konusu malzeme ikinci ucuz fiyat veren firmadan alınmış olsa idi …TL daha fazla ödeme yapılmak zorunda kalınacağı nedenlerinden dolayı konu hakkında ilişilecek bir husus bulunmadığına oy birliğiyle karar verildi.
+
+B) Denetçi sorgusunda usulüne uygun ihale yapılmaması ile ilgili olarak üst yönetici tarafından herhangi bir işlem yapılıp yapılmadığı sorulmakta ise de; denetim yetki ve çerçevesini aşacak şekilde, savunmalar alınmadan, değerlendirilmesi yapılmadan üst yöneticiye sorgu ile bir işlem yapılıp yapılmadığının sorulması yerinde görülmediğinden  ve denetçi tarafından raporun sonuç kısmında bir talepte bulunulmadığından konu hakkında ilişilecek bir husus bulunmadığına oy birliğiyle karar verildi.
