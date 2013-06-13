@@ -1,0 +1,17 @@
+-….’da gerçekleştirilen organizasyon için gerek yaklaşık maliyet hesaplanırken gerekse iş için ihaleye davet edilecek isteklilerin, sadece İstanbul’da faaliyet gösteren firmalardan seçildiği ve yaklaşık maliyetin gereğinden fazla hesaplandığı, Pazarlık Usulü ihalelerde mevzuat indeksli işlem akışına riayet edilmeyerek İhale Kanununa aykırı davranılması,
+
+- Yeniden ihale edilmesi gereken işin iptal edilmeyerek geçersiz bir ihale yapıldığı dolayısıyla vekaletsiz iş görme hükümlerine göre işin yaptırılması,
+
+- Usulüne uygun ihale yapılmaması ile ilgili olarak üst yönetici tarafından herhangi bir işlem yapılmaması,
+
+…Genel Müdürlüğü Raylı Sistemler Dairesi Başkanlığı tarafından 4734 sayılı Kanun’un 21/f  maddesi uyarınca pazarlık usulü ile … tarihinde imzalanan sözleşmeye göre KDV hariç toplam …TL bedelle … Ltd. Şti.’ne ihale edilen “… İnşaatlarının Devir-Teslim Töreni Organizasyonu Hizmet Alımı İşi”ne ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda,
+
+A) Denetçi sorgusunda …’da gerçekleştirilen bu organizasyon için gerek yaklaşık maliyet hesaplanırken gerekse bu iş için ihaleye davet edilecek isteklilerin, sadece İstanbul’da faaliyet gösteren firmalardan seçildiği ve yaklaşık maliyetin gereğinden fazla hesaplandığı, Pazarlık Usulü ihalelerde mevzuat indeksli işlem akışına riayet edilmeyerek İhale Kanununa aykırı davranıldığı iddia edilmekte ise de; savunmalarda da belirtildiği üzere işin kısa sürede yapılması zorunluluğu ve işin yaklaşık maliyetinin kanuni limitler içerisinde bulunması dolayısıyla 4734 sayılı Kamu İhale Kanunu’nun 21/f maddesi (Pazarlık Usulü) uygulanarak açık ihaleye gidilemeği,
+
+…. tarihli …. sayılı İhale Komisyon Kararına göre yapılan ihaleye, davet mektubu gönderilen 5 firmadan sadece 2 isteklinin teklif verdiği, teklif veren isteklilerden birinin geçici teminatı ve kayıtlı olduğu ticaret ve/veya sanayi odası belgesi olmadığı için teklifinin değerlendirme dışı bırakıldığı, kalan son isteklinin ihale dokümanında istenilen belgelerinin öngörülen kriterlere uygun olduğu anlaşıldığından ihalenin bu firma üzerinde kaldığı,
+
+İşin ivediliği nedeniyle, ihaleye teklif veren isteklilerden kesinleşen ihale kararına itirazlarının olmadığına dair yazılı beyanları alınarak, ihale sürecine devam edildiği ve İhale Yetkilisince onaylanan İhale Komisyonu kararı gereğince üzerinde ihale kalan yüklenici sözleşmeye davet edilerek 06.05.2011 tarihinde sözleşmenin imzalanması suretiyle hizmet satın alındığı anlaşıldığından ve denetçi görüşü doğrultusunda konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
+
+B) Yeniden ihale edilmesi gereken bu işin, iptal edilmeyerek geçersiz bir ihale yapıldığı dolayısıyla vekaletsiz iş görme hükümlerine göre işin yaptırılması sonucu … TL kamu zararına neden olunduğu görülmüş ise de,  … TL  ahizi …Ltd. Şti.’nden … tarih ve …yevmiye nolu muhasebe işlem fişi ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
+
+C) Denetçi sorgusunda usulüne uygun ihale yapılmaması ile ilgili olarak üst yönetici tarafından herhangi bir işlem yapılıp yapılmadığı sorulmakta ise de; denetim yetki ve çerçevesini aşacak şekilde, savunmalar alınmadan, değerlendirilmesi yapılmadan üst yöneticiye sorgu ile bir işlem yapılıp yapılmadığının sorulması yerinde görülmediğinden  ve denetçi tarafından raporun sonuç kısmında bir talepte bulunulmadığından konu hakkında ilişilecek bir husus bulunmadığına oy birliğiyle karar verildi.
