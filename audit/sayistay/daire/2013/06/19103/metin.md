@@ -1,0 +1,3 @@
+Otobüslerin Kiraya Verilmesi.
+
+… Genel Müdürlüğünce … Ceza İnfaz Kurumu ve … Açık Ceza İnfaz Kurumu’na personel taşıması için kiraya verilen 17 adet solo tipi otobüsün birim saat ücretinin yanlış hesaplanması sonucu Ceza İnfaz Kurumundan yıllık kira bedeli fazla olarak tahsil edilmesi nedeniyle  kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, savunmada da belirtildidiği üzere 17 adet solo tipi otobüsün kira bedeli belirlenirken servis süresinin  tek yön olarak ortalama 100 dakika belirlendiği,  bu süreye tekabül eden ücretin de alındığı anlaşıldığından ve denetçi görüşü doğrultusunda ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
