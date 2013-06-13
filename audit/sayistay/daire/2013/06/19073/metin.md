@@ -1,0 +1,3 @@
+Toplu Taşıma Hizmeti.
+
+… Büyükşehir Belediyesine bağlanan ilçe ve ilk kademe belediyeleri ile …arasında çalışması gereken 107 Adet (22 Adet için ihale yapılmıştır.) Toplu Taşım Aracı ihalesinin yapılmaması  ile ilgili görevini ihmal eden … Genel Müdürlüğü personeli hakkında gerekli işlemlerin yapılması ve ortaya çıkan kamu zararının hesaplanması için konunun İçişleri Bakanlığı’na yazılması istenilmiş ise de; savunmalardan söz konusu özel toplu taşıma ihalesinin günün koşulları çerçevesinde yapıldığı ve yine bu koşullar çerçevesinde iptal edilmek zorunda kalındığı, idarenin yasal görev ve yetkileri çerçevesinde bu kararların alındığı anlaşıldığından ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
