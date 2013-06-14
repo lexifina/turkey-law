@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-06-14",
+  "issue": "28677",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çay İşletmeleri Genel Müdürlüğü Mamullerinin Toptan Satışıyla İlgili Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130614-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130614.htm",
+  "index_sha256": "b45be121db0eefd61c81a88e0f660ac589a80b498f49a51ce7a715a5875c122e",
+  "index_header": "14 Haziran 2013 ... 28677 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130614.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
