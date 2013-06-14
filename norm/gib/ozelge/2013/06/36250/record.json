@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-160[1-2012/5-1.4-4176]-855",
+  "source_id": 36250,
+  "date": "2013-06-14",
+  "title": "Veraset ve intikal vergisi beyannamesinde intifa hakkı sahibinin mi kuru mülkiyet sahibinin mi yaşının dikkate alınacağı ve verginin hesaplanmasında kullanılacak oran hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36250",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "a9c5e43f183209c6f32f78887858e209d8b00134ce9f762f7e7a31f42d07cdd5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
