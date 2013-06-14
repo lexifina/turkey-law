@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "16700543-125-32",
+  "source_id": 37536,
+  "date": "2013-06-14",
+  "title": "Ar-Ge faaliyetinde kullanıldığı belirtilen taşıtın amortismanının tevkifatı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37536",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "09f67a5e95a36159c671e97e27a59b0271871d3a6083c5fb6acbffa71149ef76",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
