@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.18485",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİYOLOJİK ETKENLERE MARUZİYET RİSKLERİNİN ÖNLENMESİ HAKKINDA YÖNETMELİK",
+  "number": "18485",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2013/18485",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18485&MevzuatTertip=5",
+  "source_sha256": "6b30bf705fbbcab03c408c7391d212e561bfb7efbedff94aa2e588eef6ccf6d5",
+  "source_bytes": 46959,
+  "published": "2013-06-15",
+  "gazette": "28678",
+  "in_force": "2013-06-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.06.2013); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2530,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.18485%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
