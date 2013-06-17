@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "82185597-068-KDV-10",
+  "source_id": 32771,
+  "date": "2013-06-17",
+  "title": "Ticaret ve Sanayi Odasının arsa satışının KDV'ye tabi olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32771",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "5b5e9df21436b7931815585f76128ccfbb62129a4407cac00fd6527a0958c4a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
