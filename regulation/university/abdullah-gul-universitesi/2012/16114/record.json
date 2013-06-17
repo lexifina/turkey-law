@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/abdullah-gul-universitesi/2012/16114",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-17/6/2013",
+  "first_law": null,
+  "gazette": "28281",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-06-17",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Abdullah Gül Üniversitesi",
+  "issuer_slug": "abdullah-gul-universitesi",
+  "kind": "regulation",
+  "published": "2012-05-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16114&MevzuatTertip=5",
+  "source_id": "8.5.16114",
+  "source_sha256": "0a4bbe8f3dd91139a1c43a03ee0d625460f744969732231341fbbce3c1c7c4ce",
+  "title": "ABDULLAH GÜL ÜNİVERSİTESİ DİJİTAL YAYINLAR UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 415,
+  "version_label": "oldest version available",
+  "word_count": 1310
+}
