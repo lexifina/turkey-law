@@ -1,0 +1,4 @@
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Çalışma grupları
+MADDE 12 – (1) Yönetim Kurulunca kararlaştırılan etkinlikleri yürütmek üzere çalışma grupları oluşturulur. Çalışma gruplarında başkan ve üyeler yer alır. Çalışma gruplarında yer alacak personeller geçici ya da sürekli olarak Müdürün ve Yönetim Kurulunun önerisi ile Rektör tarafından görevlendirilir. Psikoloji veya Rehberlik ve Psikolojik Danışmanlık Anabilim Dalında lisans, yüksek lisans veya doktorası olan alan çalışanları da çalışma gruplarında yer alır. Ancak Çalışma gruplarında yer alacak personelin eğitim alanının Psikoloji veya Rehberlik ve Psikolojik Danışmanlık Anabilim Dalında olması ve en az lisans veya lisansüstü öğrencisi olması zorunludur. Müdür çalışma gruplarının başkan ve üyelerinin etkinliklerini Yönetim Kurulu adına izler ve denetler.

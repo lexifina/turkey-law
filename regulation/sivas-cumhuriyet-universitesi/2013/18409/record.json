@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-05-29",
+      "29.05.2013",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2013-06-17",
+      "RG-17/6/2013-28680",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-06-17",
+      "RG-17/6/2013-28680",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-17/6/2013-28680",
+  "first_law": null,
+  "gazette": "28661",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-06-17",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Sivas Cumhuriyet Üniversitesi",
+  "issuer_slug": "sivas-cumhuriyet-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sivas-cumhuriyet-universitesi/2013/18409",
+  "published": "2013-05-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18409&MevzuatTertip=5",
+  "source_bytes": 35313,
+  "source_id": "8.5.18409",
+  "source_sha256": "ce261c9b6bfb150b5e289cf7a849883558a017769aab50c2fe6c06583e3676bd",
+  "text_status": "current-consolidated",
+  "title": "CUMHURİYET ÜNİVERSİTESİ REHBERLİK VE PSİKOLOJİK DANIŞMANLIK UYGULAMA VE ARAŞTIRMA MERKEZİ",
+  "university_id": 185,
+  "word_count": 1295
+}
