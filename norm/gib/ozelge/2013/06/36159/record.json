@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-140[123-2013-15]-365",
+  "source_id": 36159,
+  "date": "2013-06-17",
+  "title": "Tapu Kaydının Beyan Hanesinde \"6306 Sayılı Kanun Gereğince Riskli Yapıdır\" Beyanı Bulunan Taşınmazın Satışında Tapu Harcı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36159",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "27a7f660d8a25a5ea10f05d1ddb69497417fb06086f0688c31e30ca684d9bc7d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
