@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37371",
+  "decision_date": "2013-06-18",
+  "source_id": 6898,
+  "chamber": "2",
+  "file_number": "34565",
+  "account_year": "2008",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/6898/",
+  "source_sha256": "b5af0c46a29c0d5f85b79ca53cb8fb746a34046ba787402915d5b8bf45d0bc66",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
