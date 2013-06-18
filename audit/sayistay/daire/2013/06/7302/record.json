@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "146",
+  "decision_date": "2013-06-18",
+  "source_id": 7302,
+  "chamber": "3",
+  "ilam_number": "1",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7302/",
+  "source_sha256": "5c2bfdec6934ca4bb8eda7add870a5814b312224f441767b4a2bd7078f284e30",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
