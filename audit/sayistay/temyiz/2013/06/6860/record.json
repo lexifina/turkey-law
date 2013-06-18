@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37376",
+  "decision_date": "2013-06-18",
+  "source_id": 6860,
+  "chamber": "3",
+  "file_number": "33969",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/6860/",
+  "source_sha256": "b6913514cfc129e2fb19f3677663185df958a81aee62fa95f1e802e6664af0f8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
