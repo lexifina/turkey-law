@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2013/37",
+  "meeting_date": "2013-06-19",
+  "meeting_date_as_published": "19.6.2013",
+  "decision_no": "53",
+  "source_id": 3245,
+  "title": "RTÜK kararı 2013/37-53",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/3245",
+  "source_sha256": "105cce2c395cded3208c4606d391749002cb5352af951384d5f2f07f01652598",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (3 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
