@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-06-19",
+  "issue": "28682",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kırıkkale Üniversitesi El Sanatları Araştırma ve Uygulama Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130619-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130619.htm",
+  "index_sha256": "dde2061a336daaf49b41b6a0aa06b80d8908526676942b145042655343f87f50",
+  "index_header": "19 Haziran 2013 ... 28682 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130619.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
