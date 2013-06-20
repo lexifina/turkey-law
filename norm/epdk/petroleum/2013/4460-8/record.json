@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "4460/8",
+  "decision_date": "2013-06-20",
+  "title": "Ulusal Marker Uygulama Faaliyetleri ve Ulusal Marker Teslimine İlişkin Usul ve Esaslar Hakkındaki 04/04/2007 tarihli ve 1153 sayılı Kurul Kararı’nda Değişiklik Yapılmasına İlişkin",
+  "repealed_note": "(Mülga)",
+  "categories": [
+    "Ulusal Marker Uygulama Faaliyetleri ve Ulusal Marker Teslimine İlişkin Usul ve Esaslar (Mülgalar)"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aDvj9VVjloQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aDvj9VVjloQ="
+  ],
+  "source_sha256": "dd59c2d5c8a332d74a42680eecb19604e65e69c5f0ba8283ffee0834afd46e6c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5125,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-06-20",
+  "law_text_complete": false
+}
