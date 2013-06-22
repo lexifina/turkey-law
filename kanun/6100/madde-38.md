@@ -1,0 +1,11 @@
+Ret usulü
+MADDE 38- (1) Hâkimin reddi sebebini bilen tarafın, ret talebini en geç ilk duruşmada ileri sürmesi gerekir. Taraf, ret sebebini davaya bakıldığı sırada öğrenmiş ise en geç öğrenmeden sonraki ilk duruşmada, yeni bir işlem yapılmadan önce bu talebini hemen bildirmek zorundadır. Belirtilen sürede yapılmayan ret talebi dinlenmez.
+(2) Hâkimin reddi, dilekçeyle talep edilir. Bu dilekçede, ret talebinin dayandığı sebepler ile delil veya emarelerin açıkça gösterilmesi ve varsa belgelerin eklenmesi gerekir.
+(3) Hâkimin reddi dilekçesi, reddi istenen hâkimin mensup olduğu mahkemeye verilir.
+(4) Ret talebi geri alınamaz.
+(5) Hâkimi reddeden taraf, dilekçesini karşı tarafa tebliğ ettirir. Karşı taraf bir hafta içinde cevap verebilir. Bu süre geçtikten sonra yazı işleri müdürü tarafından ret dilekçesi, varsa karşı tarafın cevabı ve ekleri, dosya ile birlikte reddi istenen hâkime verilir. Hâkim bir hafta içinde dosyayı inceler ve ret sebeplerinin kanuna uygun olup olmadığı hakkındaki düşüncesini yazı ile bildirerek, dosyayı hemen merciine gönderilmek üzere yazı işleri müdürüne verir.
+(6) Ret sebebi sabit olmasa bile, merci bunu muhtemel görürse, ret talebini kabul edebilir.
+(7) Ret sebepleri hakkında yemin teklif olunamaz.
+(8) Hâkimi çekilmeye davet, hâkimin reddi hükmündedir.
+(9) Bu kararlar aleyhine ancak hükümle birlikte kanun yollarına başvurulabilir.
+10880

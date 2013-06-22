@@ -1,0 +1,2 @@
+Yemin konusunun açıklattırılması
+MADDE 237- (1) Hâkim, eksik olan noktaları tamamlamak veya açık olmayan hususları aydınlatmak için yeminin konusu ile bağlantılı gördüğü soruları yemin eden kimseye sorabilir.

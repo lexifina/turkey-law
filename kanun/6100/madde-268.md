@@ -1,0 +1,4 @@
+Bilirkişilerin görevlendirilmesi
+MADDE 268- (1) Bilirkişiler, yargı çevresinde yer aldığı bölge adliye mahkemesi adli yargı adalet komisyonları tarafından, her yıl düzenlenecek olan listelerde yer alan kişiler arasından görevlendirilirler. Listelerde bilgisine başvurulacak uzmanlık dalında bilirkişinin bulunmaması hâlinde, diğer bölge adliye mahkemelerinde oluşturulmuş listelerden, burada da yoksa liste dışından bilirkişi görevlendirilebilir.
+(2) Kanunların görüş bildirmekle yükümlü kıldığı kişi ve kuruluşlara görevlendirildikleri konularda bilirkişi olarak öncelikle başvurulur. Ancak, kamu görevlilerine, bağlı bulundukları kurumlarla ilgili dava ve işlerde, bilirkişi olarak görev verilemez.
+(3) Bilirkişi listelerinin düzenlenmesine, güncellenmesine ve listede kendisine yer verilmiş olanların liste dışına çıkartılmasına ilişkin esas ve usuller, ilgili bakanlıkların da görüşü alınmak suretiyle, Adalet Bakanlığınca hazırlanacak olan yönetmelikte gösterilir.

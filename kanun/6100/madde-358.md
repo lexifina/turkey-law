@@ -1,0 +1,4 @@
+Duruşmaya gelinmemesi ve giderlerin ödenmemesi
+MADDE 358- (1) Duruşmalı olarak incelenen işlerde taraflara çıkartılan davetiyelerde, duruşmada hazır bulunmadıkları takdirde tahkikatın yokluklarında yapılarak karar verileceği hususu ile başvuran tarafa çıkartılacak davetiyede, ayrıca, yapılacak tahkikatla ilgili olarak bölge adliye mahkemesince belirlenen gideri duruşma gününe kadar avans olarak yatırması gerektiği açıkça belirtilir.
+(2) Başvuran, kabul edilebilir bir mazerete dayanarak duruşmaya gelemediğini bildirdiği takdirde, yeni bir duruşma günü tayin edilerek taraflara bildirilir.
+(3) Başvuran mazeretsiz olarak duruşmalara katılmadığı veya tahkikatla ilgili giderler süresi içinde yatırılmadığı takdirde, dosyanın mevcut durumuna göre karar verilir. Şu kadar ki, öngörülen tahkikat yapılmaksızın karar verilmesine olanak bulunmayan hâllerde başvuru reddedilir.
