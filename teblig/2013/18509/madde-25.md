@@ -1,0 +1,4 @@
+İzahnameden sorumlu kişiler
+MADDE 25 – (1) İzahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden kaynaklanan zararlardan ihraççılar sorumludur. Zararın söz konusu kişilerden tazmin edilememesi veya edilemeyeceğinin açıkça belli olması halinde; halka arz edenler, ihraca aracılık eden lider yetkili kuruluşlar, varsa garantör ve ihraççının yönetim kurulu üyeleri kusurlarına ve durumun gereklerine göre zararlar kendilerine yükletilebildiği ölçüde sorumludur.
+(2) Bağımsız denetim, derecelendirme ve değerleme kuruluşları gibi izahnamede yer almak üzere rapor hazırlayan kişi ve kurumlar da hazırladıkları raporlarda yer alan yanlış, yanıltıcı ve eksik bilgilerden bu Tebliğ ve Kanunun ilgili hükümleri çerçevesinde sorumludur.
+(3) İzahnamenin diğer kısımları ile birlikte okunduğu takdirde özetin yanıltıcı, hatalı veya tutarsız olması durumu hariç olmak üzere, sadece özete bağlı olarak ilgililere herhangi bir hukuki sorumluluk yüklenemez.

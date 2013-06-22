@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.18509",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İZAHNAME VE İHRAÇ BELGESİ TEBLİĞİ (II-5.1)",
+  "number": "18509",
+  "issuer": "Kurul",
+  "path": "teblig/2013/18509",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18509&MevzuatTertip=5",
+  "source_sha256": "3ff6a48a54a0b8d48fe3246d1a6587741d4489c2abf634ae863207f25e8ef0a4",
+  "source_bytes": 138142,
+  "published": "2013-06-22",
+  "gazette": "28685",
+  "in_force": "2013-06-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.06.2013); own commencement article: \"Bu Tebliğ yayım tarihinden bir ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayım tarihinden bir ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7740,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

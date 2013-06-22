@@ -1,0 +1,2 @@
+İhraç belgesinin geçerlilik süresi
+MADDE 18 – (1) Yatırım kuruluşu varant ve sertifikaları da dahil olmak üzere, ortaklık hakkı vermeyen sermaye piyasası araçlarının yurt içinde halka arz edilmeksizin satılacak ya da yurt dışında ihraç edilecek olması durumunda ihraç tavanını içeren ihraç belgesi, bu belgenin onaylanmasının kararlaştırıldığı Kurul karar tarihinden itibaren bir yıllık süre içerisinde yapılacak ihraçlar için geçerlidir.

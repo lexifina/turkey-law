@@ -1,0 +1,4 @@
+İzahname, ihraç belgesi ve diğer kamuyu aydınlatma belgelerinden doğan sorumluluk
+MADDE 26 – (1) İzahname, ihraç belgesi, tertip ihraç belgesi ve satışla ilgili diğer kamuyu aydınlatma belgelerinden doğan sorumluluk için Kanunun 10 uncu, 32 nci ve 63 üncü maddelerinde yer alan hükümler uygulanır.
+(2) İhraççı ve varsa halka arz eden ile yetkili kuruluşlar, ihraç edilecek sermaye piyasası aracının değerine ilişkin olarak yatırımcıların yatırım kararlarını bilinçli olarak vermelerine engel olabilecek herhangi bir işlem yapılmaması ve yapay piyasa yaratılmaması için gereken önlemlerin alınmasından sorumludurlar.
+(3) İhraç süreci boyunca görevleri nedeniyle içsel bilgiye ulaşabilecek durumda olan kişiler öğrendikleri içsel bilgilerin izahname veya ihraç belgesi ile kamuya açıklanmasına kadar gizliliğinin sağlanmasından sorumludurlar.

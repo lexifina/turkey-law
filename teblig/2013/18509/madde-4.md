@@ -1,0 +1,27 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Arz programı: Yatırım kuruluşu varantı ve sertifikaları da dahil olmak üzere, benzer bir türdeki ortaklık hakkı vermeyen sermaye piyasası araçlarının belirlenmiş bir ihraç süresi boyunca mükerrer bir şekilde azami beş yıllık bir süre içinde ihraç edilmesine izin veren planı,
+b) Arz programı izahnamesi: Bu Tebliğin 14 üncü maddesinde belirlenen ihraççılar tarafından Kurulca belirlenen usul ve esaslar dahilinde hazırlanan, ihraççı ve arz programı kapsamında ihraç edilecek veya borsada işlem görecek yatırım kuruluşu varantı ve sertifikaları da dahil olmak üzere ortaklık hakkı vermeyen sermaye piyasası araçları ile ilgili bilgileri içeren izahnameyi,
+c) Banka: 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununda tanımlanan bankaları,
+ç) Borsa: Kanunun 3 üncü maddesinin birinci fıkrasının (ç) bendinde tanımlanan borsayı,
+d) Gelişen işletmeler piyasası (GİP): Borsa mevzuatında tanımlanan piyasayı,
+e) Halka arz: Sermaye piyasası araçlarının satın alınması için her türlü yoldan yapılan genel bir çağrıyı ve bu çağrı devamında gerçekleştirilen satışı,
+f) Halka arz eden: Sahip olduğu sermaye piyasası araçlarını halka arz etmek üzere Kurula başvuruda bulunan gerçek veya tüzel kişileri,
+g) İhraç: Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp, halka arz edilerek veya halka arz edilmeksizin satışını,
+ğ) İhraç belgesi: Sermaye piyasası araçlarının halka arz edilmeksizin ihraç edilmesi durumunda, yurt dışında gerçekleştirilecek ihraçlarda veya bu Tebliğ hükümleri çerçevesinde duyuru metni hazırlanan sermaye piyasası aracı ihraçları hariç olmak üzere ihraççıların izahname hazırlanmaksızın gerçekleştireceği her türlü sermaye piyasası aracı ihracında, çıkarılacak sermaye piyasası araçlarının niteliği ve satış şartları hakkındaki bilgileri içeren belgeyi,
+h) İhraççı: Sermaye piyasası araçlarını ihraç eden, ihraç etmek üzere Kurula başvuruda bulunan veya sermaye piyasası araçları halka arz edilen tüzel kişileri,
+ı) İhraç tavanı: Yatırım kuruluşu varant ve sertifikaları da dahil olmak üzere ortaklık hakkı vermeyen sermaye piyasası araçlarının izahnamenin geçerlilik süresi boyunca veya halka arz edilmeksizin yapılacak satışlarda Kurul karar tarihinden itibaren bir yıllık süre içerisinde satışı yapılabilecek azami nominal değerini,
+i) İzahname: İhraççının ve varsa garantörün finansal durum ve performansı ile geleceğe yönelik beklentilerine, faaliyetlerine, ihraç edilecek veya borsada işlem görecek sermaye piyasası araçlarının özelliklerine ve bunlara bağlı hak ve risklere ilişkin olarak yatırımcıların bilinçli bir değerlendirme yapmasını sağlayacak nitelikteki tüm bilgileri içeren kamuyu aydınlatma belgesini,
+j) Kamuyu aydınlatma platformu (KAP): Mevzuat uyarınca kamuya açıklanması gerekli olan bilgilerin elektronik imzalı olarak iletildiği ve kamuya duyurulduğu elektronik sistemi,
+k) Kanun: 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununu,
+l) Kurul: Sermaye Piyasası Kurulunu,
+m) Nitelikli yatırımcı: Kurulun sermaye piyasası araçlarının satışına ilişkin düzenlemelerinde tanımlanan kişileri,
+n) Ortaklık: Anonim ortaklığı,
+o) Ortaklık hakkı veren sermaye piyasası araçları: Paylar ve pay benzeri menkul kıymetleri,
+ö) Ortaklık hakkı vermeyen sermaye piyasası araçları: Ortaklık hakkı veren sermaye piyasası araçları dışındaki tüm sermaye piyasası araçlarını,
+p) Sermaye piyasası aracı: Menkul kıymetler ve türev araçlar ile yatırım sözleşmeleri de dâhil olmak üzere Kurulca bu kapsamda olduğu belirlenen diğer sermaye piyasası araçlarını,
+r) Tertip: İhraç tavanı içerisinde kalmak kaydıyla sermaye piyasası araçlarının farklı zamanlarda satışa sunulan kısmını,
+s) Tertip ihraç belgesi: Kurulca onaylanmış ihraç belgesi kapsamında sermaye piyasası araçlarının farklı zamanlarda satışa sunulan kısmına ilişkin olarak, bunların niteliği ve satış şartları hakkındaki bilgileri içeren belgeyi,
+ş) TTSG: Türkiye Ticaret Sicili Gazetesini,
+t) Yetkili kuruluş: Kurulca sermaye piyasası araçlarının halka arzında satışa aracılık etmek üzere yetkilendirilmiş aracı kurumlar ile yatırım ve kalkınma bankalarını
+ifade eder.

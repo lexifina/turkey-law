@@ -1,0 +1,5 @@
+Duyuru metinlerinin ve arz programı sirkülerinin ilanı
+MADDE 29 – (1) Tasarruf sahiplerine satış duyurusu, yeni pay alma hakkı kullanım süresinin bitiminden veya yeni pay alma hakkı kullandırılmıyorsa izahnamenin ilanından sonra ihraççının internet sitesinde, ihraççının KAP üyeliğinin bulunması durumunda KAP’ta ve varsa yetkili kuruluşun internet sitesinde aynı gün içinde ilan edilir.
+(2) Bu Tebliğin 6 ncı maddesinin üçüncü fıkrası çerçevesinde hazırlanan duyuru metninin ilanında, bu Tebliğin izahname ilanına ilişkin hükümleri uygulanır.
+(3) Bu Tebliğ hükümleri çerçevesinde hazırlanan arz programı sirküleri, arz programı izahnamesinin ilanından sonra ihraççının internet sitesinde, ihraççının KAP üyeliğinin bulunması durumunda KAP’ta ve yetkili kuruluşun internet sitesinde aynı gün içinde ilan edilir.
+(4) İhraççı, bu maddede sözü edilen belgeleri ihtiyari olarak basın yayın organlarında da ilan edebilir. Kurul, yurt dışı da dahil olmak üzere bu maddede sözü edilen belgelerin bu maddede belirtilen yerler dışında da ilan edilmesini zorunlu tutabilir.

@@ -1,0 +1,8 @@
+İzahnamede bilgiye yer verilmemesinin koşulları
+MADDE 8 – (1) Halka arz edilecek sermaye piyasası araçlarının kesin halka arz fiyatına, fiyat aralığı ile talep toplanması durumunda fiyat aralığına, faiz veya iskonto oranına ya da faiz veya ek getiri aralığına izahnamede yer verilememesi durumunda, söz konusu hususların hangi kriter ve/veya koşullara göre belirleneceğinin izahnamede yer alması gerekir.
+(2) Kurul,
+a) İlgili bilginin açıklanmasının kamu yararına aykırı olması,
+b) İzahnamenin ilgili olduğu sermaye piyasası aracına bağlı haklara, ihraççıya, halka arz edene veya varsa garantöre ilişkin bilgilerin yatırımcının bilinçli bir değerlendirme yapmasına engel olmaması kaydıyla, söz konusu bilginin kamuya açıklanmasının ihraççıyı önemli bir zararla karşı karşıya bırakması,
+c) İlgili bilginin söz konusu sermaye piyasası aracının halka arzı veya borsada işlem görmesi için önemsiz nitelikte olması, ilgili bilgiye ulaşmanın maliyetli ve güç olması ve ihraççının, halka arz edenin veya varsa garantörün mali durumunun ve gelecekteki durumunun değerlendirilmesini etkilememesi
+durumlarından birinin varlığı halinde ihraççının ya da halka arz edenin talebi üzerine, söz konusu bilginin izahnamede yer almamasına izin verebilir.
+(3) Yatırımcıların yeterli bilgiye sahip olmaları kaydıyla izahnamede yer alması gereken bazı bilgilerin, ihraççının faaliyet alanına, hukuki yapısına ya da ihraç edilecek sermaye piyasası araçlarına uygun olmadığı durumlarda, izahnamede yer alması gereken bilginin eş değeri niteliğindeki bilginin izahnamede yer alması gerekir. Söz konusu bilginin mevcut olmaması durumunda, bu şart uygulanmaz.
