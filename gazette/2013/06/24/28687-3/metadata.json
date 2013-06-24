@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-06-24",
+  "issue": "28687",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Selçuk Üniversitesi Yenilenebilir ve Temiz Enerji Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130624-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130624.htm",
+  "index_sha256": "e232aada72a36d2faace660d92568a414e2518026c65bb2c8521430be9b36b7b",
+  "index_header": "24 Haziran 2013 ... 28687 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130624.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
