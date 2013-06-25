@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-06-25",
+  "issue": "28688",
+  "edition": "regular",
+  "item": 21,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "HÂKİMLER VE SAVCILAR YÜKSEK KURULU KARARLARI",
+  "title": "Hâkimler ve Savcılar Yüksek Kurulu Genel Kurulunun 12/6/2013 Tarihli ve 464 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130625-21.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130625.htm",
+  "index_sha256": "de6adca8714b8df2745c060d94145c67345f01c4810f4a5be2a150e21cc027e3",
+  "index_header": "25 Haziran 2013 ... 28688 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130625.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
