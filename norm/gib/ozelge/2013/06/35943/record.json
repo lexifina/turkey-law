@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-140[59-2012/3.1.2396.201]-916",
+  "source_id": 35943,
+  "date": "2013-06-25",
+  "title": "Sağlık Bakanlığına bağlı bir kamu kuruluşu ile gayrimenkul sahibi arasında imzalanan kira sözleşmesinin tapu siciline şerh edilmesi işleminden harç aranılıp aranılmayacağı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35943",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "9a04ddb8f8b086d7fba7a71f314275462e4dea8e6c0e29ff5048db269f556d0b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
