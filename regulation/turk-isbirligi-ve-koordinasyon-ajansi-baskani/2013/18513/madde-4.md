@@ -1,0 +1,17 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen,
+a) Alt Görev: 27/9/1984 tarihli ve 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+b) Aynı Düzey Görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+c) Başkan: Türk İşbirliği ve Koordinasyon Ajansı Başkanını,
+ç) Başkanlık: Türk İşbirliği ve Koordinasyon Ajansı Başkanlığını,
+d) Birim: 656 sayılı Türk İşbirliği ve Koordinasyon Ajansı Başkanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede belirtilen hizmet birimlerini,
+e) Görev Grubu: Hiyerarşi, görev, yetki ve sorumluluk açısından benzer ve/veya aynı düzeydeki unvanlardan oluşan grubu,
+f) Görevde Yükselme: 657 sayılı Devlet Memurları Kanununa tabi görevlerden 5 inci maddede sayılan kadrolara, aynı veya başka hizmet sınıflarından yapılacak görevde yükselme niteliğindeki atamaları,
+g) Görevde Yükselme Eğitimi: Görevde yükselmeye ilişkin olarak görevlerin özelliklerine göre verilecek hizmet içi eğitimi,
+ğ) Görevde Yükselme Sınavı: Görevde yükselme eğitimini tamamlayanların tabi tutulacağı yazılı sınavı,
+h) Hizmet Süresi: 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) bendi kapsamında geçen süreler ile muvazzaf askerlikte geçen süreleri,
+ı) İş Günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç, diğer günleri,
+i) Personel: Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı kadrolarında 657 sayılı Devlet Memurları Kanununa tabi olarak görev yapanları,
+j) Unvan Değişikliği Sınavı: En az lise veya dengi okul düzeyinde mesleki ya da teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanabilmek için, eğitime tabi tutulmaksızın yapılan yazılı sınavı,
+k) Üst Görev: 27/9/1984 tarihli ve 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+ifade eder.

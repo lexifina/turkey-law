@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 657 sayılı Devlet Memurları Kanunu, 24/10/2011 tarihli ve 656 sayılı Türk İşbirliği ve Koordinasyon Ajansı Başkanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
