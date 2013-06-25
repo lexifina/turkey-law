@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "30094508-125[5-2013/1.13]-23",
+  "source_id": 27885,
+  "date": "2013-06-25",
+  "title": "Taşınmaz satış kazancı istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27885",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "047f8401374d651a5ae9ed0e7991dca93d95ac9732f1c93b8ad124f9aa3987a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
