@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-07-21",
+      "21.07.2010",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2013-06-26",
+      "RG-26/6/2013-28689",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-06-26",
+      "RG-26/6/2013-28689",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-06-26",
+      "RG-26/6/2013-28689",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-06-26",
+      "26/6/2013",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-26/6/2013-28689",
+  "first_law": null,
+  "gazette": "27648",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-06-26",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Manisa Celal Bayar Üniversitesi",
+  "issuer_slug": "manisa-celal-bayar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/manisa-celal-bayar-universitesi/2010/14118",
+  "published": "2010-07-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14118&MevzuatTertip=5",
+  "source_bytes": 31889,
+  "source_id": "8.5.14118",
+  "source_sha256": "97c9325f395843291397bfa98e20ff0c6e2c416ec8ed7d288d867c23e69f1587",
+  "text_status": "current-consolidated",
+  "title": "CELAL BAYAR ÜNİVERSİTESİ KADIN ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 184,
+  "word_count": 1222
+}

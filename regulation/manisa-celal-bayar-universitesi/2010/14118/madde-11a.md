@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+MADDE 11/A – (Ek:RG-26/6/2013-28689)
+(1) Danışma Kurulu; Merkezin çalışmalarıyla ilgili akademisyenler, kamu ve özel kuruluşların temsilcilerinden Müdür tarafından önerilen ve Rektör tarafından üç yıllığına seçilen temsilcilerden oluşur. Süresi dolmadan görevlerinden ayrılan üyelerin yerine kalan süreyi doldurmak için aynı yöntemle yenileri seçilir. Süresi biten üye tekrar seçilebilir. Merkezin faaliyetleri konusunda istişari nitelikte görüş bildiren Danışma Kuruluna Müdür başkanlık eder. Danışma Kurulu üyeleri ilgili alanlardan üyeleri varsa kadın sağlığı, kadın ve istihdam, kadın ve eğitim, kadın ve siyaset, kadına yönelik şiddet ve diğer alanlar için ayrı olmak üzere yılda en az bir kez Müdürün çağrısı ile toplanır.
