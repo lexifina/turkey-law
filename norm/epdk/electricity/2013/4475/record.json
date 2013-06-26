@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4475",
+  "decision_date": "2013-06-26",
+  "title": "Türkiye Elektrik Ticaret Taahhüt Anonim Şirketi (TETAŞ) tarafından uygulanacak aktif elektrik enerji toptan satış tarifesine ilişkin",
+  "resmi_gazete_date": "2013-07-01",
+  "resmi_gazete_number": "28694",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=G8pRWuVJybA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=G8pRWuVJybA="
+  ],
+  "source_sha256": "30dbeff3e3066ea65f2c5363f3c825832adb6594ff6b2b48414d71feff2dfbdc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-06-26",
+  "law_text_complete": false
+}
