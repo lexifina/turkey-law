@@ -1,0 +1,4 @@
+Soruşturma ve kovuşturma usulü
+MADDE 37 – (1) Bu Kanunun 28 inci, 29 uncu ve 31 inci maddelerinde belirtilen suçlara ilişkin soruşturma ve kovuşturma yapılması, sistem işleticileri ile ilgili olarak Banka; ödeme ve elektronik para kuruluşları ile ilgili olarak ise Kurum tarafından Cumhuriyet başsavcılığına yazılı başvuruda bulunulmasına bağlıdır. Bu başvuru muhakeme şartı niteliğindedir.
+(2) Bu Kanunun 31 inci maddesinde belirtilen suçtan dolayı ilgililerin Cumhuriyet başsavcılığına başvurması hâlinde yazılı başvuru şartı aranmaz.
+(3) Bu Kanun ve bu Kanuna dayanılarak çıkarılacak düzenlemelerde belirtilen görevlerin yerine getirilmesi sırasındaki fiilleri dolayısıyla Banka personeli hakkında soruşturma ve kovuşturma yapılması, Bankanın Cumhuriyet başsavcılığına yazılı başvuruda bulunmasına bağlıdır.

@@ -1,0 +1,6 @@
+Faaliyet izni başvurusunun değerlendirilmesi
+MADDE 15 – (1) Bu Kanun kapsamında aranan koşulların, niteliklerin ve yeterliliklerin sağlanması, Kurulca istenecek bilgi ve belgelerin eksiksiz tamamlanması ve Kurul tarafından söz konusu başvurunun olumlu olduğuna karar verilmesi durumunda bu Kanunun 14 üncü maddesi kapsamında ödeme kuruluşu olarak faaliyette bulunmak üzere izin verilir ve faaliyet izni verilmesine ilişkin karar Resmî Gazete’de yayımlanır.
+(2) Faaliyet izni verilmeden önce Kurulca Bankanın görüşü alınır.
+(3) Ödeme kuruluşunun ödeme hizmeti dışındaki alanlarda faaliyet göstermesi ve bu faaliyetlerin ödeme kuruluşunun finansal durumunu veya Kurumun ödeme kuruluşunun bu Kanun ve bu Kanun uyarınca çıkarılacak yönetmelik hükümlerine uygunluğunu izlemesini olumsuz yönde etkilemesi veya etkileyebilecek olması durumunda, Kurul ödeme hizmetleri için ayrı bir kuruluş ihdas edilmesini isteyebilir.
+(4) Bu Kanunun 14 üncü maddesi kapsamında Kuruma yapılan izin başvurusu, başvuruya ilişkin istenen bilgi ve belgelerin eksiksiz olarak tamamlanmasını müteakip altı ay içinde Kurul tarafından sonuçlandırılır. Karar, olumsuz olması hâlinde gerekçeleri ile birlikte ilgililere bildirilir.
+(5) Faaliyet izni verilen kuruluş, faaliyete başladığı tarihten itibaren on gün içinde faaliyete başladığına dair Kuruma bildirimde bulunur.

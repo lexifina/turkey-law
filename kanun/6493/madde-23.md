@@ -1,0 +1,4 @@
+Belge ve kayıtların saklanması ile kişisel bilgilerin korunması, değişikliklerin bildirilmesi
+MADDE 23 – (1) Sistem işleticisi, ödeme kuruluşu ve elektronik para kuruluşu bu Kanunda yer alan hususlar ile ilgili belgeleri ve kayıtları en az on yıl süreyle güvenli ve istenildiği an erişime imkân sağlayacak şekilde yurt içinde saklar. Sistem işleticisi, ödeme kuruluşu ve elektronik para kuruluşunun faaliyetlerini yürütmede kullandıkları bilgi sistemleri ve bunların yedekleri de yurt içinde tutulur.
+(2) Ödeme usulsüzlüklerini önlemek, araştırmak ve ortaya çıkarmak için gerekli durumlarda, sistem işleticisi ve ödeme hizmeti sağlayıcısı, kişisel bilgileri kişisel verilerin korunmasına ilişkin gerekli tedbirleri alarak kullanır.
+(3) İlgili otorite tarafından istenen bilgi ve belgelerin geçerliliğini etkileyecek herhangi bir değişikliğin olması durumunda sistem işleticisi Bankayı; ödeme kuruluşu ve elektronik para kuruluşu ise Kurumu bu konuda derhâl bilgilendirir.
