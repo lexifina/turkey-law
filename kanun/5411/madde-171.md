@@ -125,7 +125,12 @@ GİH Santral Memuru 13 2
 GİH Memur 13 2
 YH Dağıtıcı 13 3
 YH Hizmetli 13 4
-GENEL TOPLAM 851
+GİH Başkan Yardımcısı(1) 1 2
+GİH Müdür(1) 1 4
+GİH Bankacılık Düzenleme ve Denetleme Kurumu Uzman yardımcısı(1) 9 10
+GENEL TOPLAM 867
+___________
+(1) 20/6/2013 tarihli ve 6493 sayılı Kanunun 40 maddesi ile ihdas edilmiştir.
 9617
 (II) SAYILI CETVEL
 KURUMU: TASARRUF MEVDUATI SİGORTA FONU
