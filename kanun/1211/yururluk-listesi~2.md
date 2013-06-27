@@ -6,4 +6,5 @@ Değiştiren Kanunun Numarası | 1211 sayılı Kanunun değişen veya iptal edil
 6009 | 61 ve İşlenemeyen hüküm | 1/8/2010
 6111 | 22, 41, 44, 68, Geçici Madde 10 69 | 25/2/2011 1/1/2012
 6327 | 29 | 29/6/2012
-6456 | 18, 34, Geçici Madde 11 19 | 18/4/2013 1/5/2013
+6456 | 18, 34, Geçici Madde 11 23 | 18/4/2013 1/5/2013
+6493 | 4 ve 22 | 27/6/2013
