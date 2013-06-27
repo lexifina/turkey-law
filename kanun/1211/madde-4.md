@@ -14,7 +14,7 @@ lemek, Türk Lirasının yabancı paralar karşısındaki değerinin belirlenmes
 c) Bankaların ve Bankaca uygun görülecek diğer mali kurumların yükümlülüklerini esas alarak zorunlu karşılıklar ve umumi disponibilite ile ilgili usul ve esasları belirlemek,
 d) Reeskont ve avans işlemleri yapmak,
 e) Ülke altın ve döviz rezervlerini yönetmek,
-f)Türk Lirasının hacim ve tedavülünü düzenlemek, ödeme ve menkul kıymet transferi ve mutabakat sistemleri kurmak, kurulmuş ve kurulacak sistemlerin kesintisiz işlemesini ve denetimini sağlayacak düzenlemeleri yapmak, ödemeler için elektronik ortam da dahil olmak üzere kullanılacak yöntemleri ve araçları belirlemek,
+f) (Değişik: 20/6/2013-6493/ 38 md.) Türk Lirasının hacim ve tedavülünü düzenlemek, ödeme ve menkul kıymet transferi ve mutabakat sistemleri kurmak, kurulmuş ve kurulacak sistemlerin kesintisiz işlemesini ve gözetimini sağlamak ve gereken düzenlemeleri yapmak, ödemeler için elektronik ortam da dâhil olmak üzere kullanılacak yöntemleri ve araçları belirlemek,
 g) Finansal sistemde istikrarı sağlayıcı ve para ve döviz piyasaları ile ilgili düzenleyici tedbirleri almak,
 h) Mali piyasaları izlemek,
 ı) Bankalardaki mevduatın vade ve türleri ile özel finans kurumlarındaki katılma hesaplarının vadelerini belirlemektir.

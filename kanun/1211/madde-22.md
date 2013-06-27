@@ -5,7 +5,7 @@ a) Para politikası stratejisi ve enflasyon hedefi doğrultusunda uygulanabilece
 b) Tedavüldeki banknotların değiştirilmesine, tedavülden kaldırılmasına ve yok edilmesine ilişkin konularda düzenleme yapılması ve karar alınması,
 c) Açık piyasa işlemlerine, döviz ve efektif işlemlerine, reeskont ve avans işlemleri ile reeskont ve avans faiz oranlarına, zorunlu karşılıklara ve umumi disponibiliteye, diğer para politikası işlemleri ve araçlarına, ülke altın ve döviz rezervlerinin yönetimine ilişkin usul ve esasların tespiti ile gerekli düzenlemelerin yapılması,
 d) 40 ıncı maddenin (I) ve (III) numaralı fıkralarında düzenlenen hususlarda karar alınması,
-e) Ödeme ve menkul kıymet transferi ve mutabakat sistemlerinin güvenilirlik ve etkinliklerini artıracak şartlarda kurulması konusunda karar alınması, ödeme yöntemleri ile araçlarının usul ve esaslarının belirlenmesi, takas odalarının gözetim ve denetimine ilişkin düzenlemelerin yapılması,
+e) Ödeme ve menkul kıymet transferi ve mutabakat sistemlerinin güvenilirlik ve etkinliklerini artıracak şartlarda kurulması konusunda karar alınması, ödeme yöntemleri ile araçlarının usul ve esaslarının belirlenmesi, takas odalarının gözetimine ilişkin düzenlemelerin yapılması,(1)
 f) (Değişik:13/2/2011-6111/159 md.) Bilgi istemeye ve istatistikî bilgileri toplamaya ilişkin usul ve esasların belirlenmesi,
 g) Şube açılması, muhabir temin edilmesi, temsilcilik ve büro kurulması ile Banknot Matbaasına ilişkin konularda düzenleme yapılması ve karar alınması,
 h) Provizyon ve ihtiyatlara ilişkin konularda karar alınması ile kârın dağıtılmasından sonraki bakiyenin Hazineye verilmesine ilişkin usul ve esasların belirlenmesi,
@@ -18,4 +18,6 @@ n) Bankanın personel kadrolarının onaylanması,
 o) Bu Kanunda Para Politikası Kurulu kararına bağlı konular dışında kalan, Başkanlık (Guvernörlük) ça inceleme ve onaya sunulacak sair hususlar hakkında karar alınması ve düzenleme yapılması,
 İle görevli ve yetkilidir.
 (Ek ikinci fıkra:13/2/2011-6111/159 md.) Banka Meclisi, gerektiğinde sınırlarını yazılı olarak açıkça belirlemek şartıyla yetkilerinden bir kısmını diğer organlara devredebilir.
+_____________
+(1) 20/6/2013 tarihli ve 6493 sayılı Kanunun 39 uncu maddesiyle bu bette yer alan “gözetim ve denetimine” ibaresi “gözetimine” şeklinde değiştirilmiştir.
 4646
