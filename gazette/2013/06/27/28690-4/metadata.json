@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-06-27",
+  "issue": "28690",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Adana Bilim ve Teknoloji Üniversitesi Lisansüstü Eğitim Öğretim Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130627-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130627.htm",
+  "index_sha256": "883155aaecb3a70864678528fa357fdbbd5cdea81e76af52a4a02b732d487991",
+  "index_header": "27 Haziran 2013 ... 28690 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/06/20130627.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
