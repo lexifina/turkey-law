@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "51421814-130[1-2012/295]-68",
+  "source_id": 29418,
+  "date": "2013-06-28",
+  "title": "Adi Ortaklıkta Araçların Diğer Ortağa Devri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29418",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "305684aadd83f2a13fc61fc8efab5afac71bb24270fbcbf8abfdcc8fe49bd3e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
