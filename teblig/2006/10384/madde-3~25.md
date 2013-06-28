@@ -1,0 +1,3 @@
+BİRİNCİ BÖLÜM
+İşletmenin sürekliliği varsayımı
+MADDE 3 - (1) İşletmenin sürekliliği varsayımı, finansal tabloların hazırlanmasındaki temel ilkelerden biridir. Bu varsayım altında, bir işletmenin öngörülebilir gelecekte faaliyetlerinin devam ediyor olacağı, tasfiye, faaliyetlerin durdurulması ya da ilgili mevzuat çerçevesinde konkordatoya gitmesi gibi bir niyetinin ya da böyle bir ihtiyacının olmayacağı kabul edilir. Dolayısıyla, varlık ve yükümlülükler, işletmenin faaliyetlerinin doğal akışı içerisinde, bu varlıklardan fayda elde edileceği ve yükümlülüklerinin yerine getirileceği esas alınarak kaydedilir.

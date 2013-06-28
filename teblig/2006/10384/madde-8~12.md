@@ -1,0 +1,2 @@
+Maddi duran varlıkları inceleme
+MADDE 8 - (1) Maddi duran varlıkları inceleme, varlıkların fiziksel olarak incelenmesini ifade eder. Bu inceleme ile, varlıkların mevcudiyeti hakkında güvenilir bir bağımsız denetim kanıtı elde edilebilmesine karşın, varlıklara ilişkin işletme hakları ve yükümlülükleri veya varlıkların değerlemesi ile ilgili bağımsız denetim kanıtı sağlanamayabilir. Stok kaleminin incelenmesi, genellikle stok sayımının gözetimi suretiyle gerçekleştirilir.

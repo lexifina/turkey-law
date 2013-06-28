@@ -1,0 +1,2 @@
+Analitik inceleme teknikleri
+MADDE 14 - (1) Analitik inceleme teknikleri, finansal ve finansal olmayan verilerin kendi içindeki ve aralarındaki rasyonel ilişkilere dayanarak finansal bilgilerin değerlendirilmesini ifade eder. Analitik inceleme teknikleri, ilgili bilgiler arasındaki tutarsızlık veya tahmin edilen tutarların önemli ölçüde sapması gibi bilgilerdeki tanımlanmış dalgalanmaların ve ilişkilerin araştırılmasını da kapsar.

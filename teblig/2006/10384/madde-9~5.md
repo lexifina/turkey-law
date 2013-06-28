@@ -1,0 +1,2 @@
+Aykırılığın ilgili mercilere raporlanması
+MADDE 9 - (1) Bağımsız denetçi, sır saklama yükümlülüğü nedeniyle, esas olarak aykırılığı üçüncü bir kişiye açıklayamaz. Ancak, bazı durumlarda bu yükümlülük kanun ya da mahkeme tarafından ortadan kaldırılabilir. Bağımsız denetçinin aykırılığı, elde edilen bulgularla birlikte ivedilikle Kurula ve diğer yasal mercilere bildirmesi, sır saklama yükümlülüğüne aykırılık oluşturmaz.

@@ -1,0 +1,2 @@
+Sermaye piyasası araçlarının halka arzı
+MADDE 14 - (1) Sermaye piyasası araçlarının halka arzında, bağımsız denetçinin halka arz tarihine kadar ilave bağımsız denetim tekniklerini uygulaması gerekebilir. Bu teknikler, Tebliğin bu Kısmının “Bilanço tarihinden sonraki olaylara uygulanacak bağımsız denetim teknikleri” başlıklı maddesinde belirtilen bağımsız denetim tekniklerinin halka arz tarihine kadar uygulanmasını ve izahnamede yer alan bilgilerin bağımsız denetçi tarafından, bağımsız denetimi yapılan finansal bilgilerle tutarlı olup olmadığının değerlendirilmesini içerir.

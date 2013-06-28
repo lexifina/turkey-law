@@ -1,0 +1,2 @@
+Bağımsız denetim raporu tarihinden sonra ortaya çıkan olayların değerlendirilmesi
+MADDE 9 - (1) Bağımsız denetçi, bağımsız denetim raporu tarihinden sonra ancak, finansal tabloların yayınlanmasından önce finansal tabloları önemli ölçüde etkileyebilecek bir hususu fark etmesi durumunda, finansal tablolarda herhangi bir değişikliğe ihtiyaç olup olmadığını gözden geçirerek konuyu işletme yönetimiyle görüşür ve gerekli işlemleri yapar.

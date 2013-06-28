@@ -1,0 +1,2 @@
+Diğer bağımsız denetçilerin çalışmalarının gözden geçirilmesi
+MADDE 6 - (1) Şube, ofis veya bağlı ortaklık gibi bir bölümün başka bir bağımsız denetçi tarafından bağımsız denetime tabi tutulması durumunda, bağımsız denetçi diğer bağımsız denetçinin bilanço tarihinden sonraki olaylara ilişkin yöntemlerini göz önünde bulundurur ve bağımsız denetim raporunun planlanan tarihini diğer bağımsız denetçiye bildirir.

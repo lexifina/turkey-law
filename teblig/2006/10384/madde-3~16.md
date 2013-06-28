@@ -1,0 +1,31 @@
+BİRİNCİ BÖLÜM
+İlave Bağımsız Denetim Kanıtı Sağlayan Teknikler
+Stokların fiziki sayımına katılım
+MADDE 3 - (1) İşletme yönetimi, finansal tabloların hazırlanmasına temel olacak şekilde stokların yılda en az bir kere sayılması veya sürekli envanter sisteminin güvenilirliğinden emin olunması için yöntemler oluşturur.
+(2) Stokların finansal tablolar için önemlilik kavramı çerçevesinde önem arz ettiği durumlarda, bağımsız denetçi stokların mevcudiyeti ve durumuna dair yeterli ve uygun bağımsız denetim kanıtını, yapılabilir olması koşuluyla, stokların fiziki sayımına katılarak elde etmek zorundadır. Bağımsız denetçinin sayıma iştiraki, risk değerlendirmesi ve planlamasındaki yaklaşımı çerçevesinde, kontrollerin testi veya stoklarla ilgili temel bağımsız denetim tekniklerinin uygulanması amacına hizmet eder. Bu katılım, stokların incelenmesini, sayım sonuçlarının kayıtlara alınması ve kontrol edilmesine ilişkin işletme yönetimince belirlenen yöntemlere uyulup uyulmadığını ve işletme yönetimince belirlenen yöntemlerin güvenilirliği konusunda bağımsız denetim kanıtı elde edilmesini sağlar.
+(3) Bağımsız denetçi, beklenmeyen durumlardan dolayı planlanan tarihteki stok sayımına katılamadığı takdirde, başka bir tarihte bazı fiziki sayımları gerçekleştirir veya gözlemler ve gerekli olduğu takdirde bu sürede oluşan işlemlerin testini yapar.
+(4) Stokların niteliği ve bulunduğu yerden dolayı sayıma katılımın mümkün olmadığı durumlarda, bağımsız denetçi, stokların mevcudiyetine ve durumuna ilişkin yeterli ve uygun bağımsız denetim kanıtını, diğer bağımsız denetim teknikleriyle elde edebiliyorsa, bağımsız denetim raporunda, bağımsız denetim alanının sınırlandığına ilişkin bir atıfta bulunmasına gerek yoktur. Bu kapsamda, stokların fiziki sayımı öncesinde elde edilen veya satın alınan belirli bir stok kaleminin daha sonraki satışının belgelendirilmesi, yeterli ve uygun bağımsız denetim kanıtı olabilir.
+(5) Bağımsız denetçi, stokların fiziki sayımına katılımı veya diğer teknikleri planlarken aşağıda belirtilen hususları göz önünde bulundurur:
+a) Stoklarla ilgili önemli yanlışlık riskleri,
+b) Stoklarla ilgili iç kontrol sisteminin yapısı,
+c) Stokların fiziki sayımı ile ilgili yeterli yöntemlerin oluşturulup oluşturulmadığı, uygun talimatların yayınlanıp yayınlanmadığı,
+ç) Sayımın zamanlaması,
+d) Stokların tutulduğu yerler ve
+e) Bir uzman yardımına ihtiyaç duyulup duyulmadığı.
+(6) Stok miktarının fiziki sayım ile belirlendiği ve sayıma bağımsız denetçinin de katıldığı veya işletmenin sürekli envanter yöntemi uyguladığı ve bağımsız denetçinin yıl içerisinde bir ya da daha fazla sayıma katıldığı durumlarda, bağımsız denetçi genellikle sayım yöntemlerini gözlemler ve test sayımlarını gerçekleştirir.
+(7) İşletme fiziki miktarları tahmin etmek üzere yöntemler kullanıyorsa, bağımsız denetçinin bu yöntemlerin makul olduğuna ikna olması gerekir.
+(8) Stoklar farklı yerlerde bulunuyorsa, bağımsız denetçi hangi yerlerdeki sayıma katılmanın uygun olacağına, stokun önemlilik derecesi ve diğer yerlerdeki önemli yanlışlık riskini göz önünde bulundurarak karar verir.
+(9) Bağımsız denetçi, işletme yönetiminin aşağıdaki hususlara ilişkin talimatlarını gözden geçirir:
+a) Kontrol yöntemlerinin uygulanması, örneğin kullanılmış stok kartlarının toplanması, kullanılmamış stok kartlarının muhasebeleştirilmesi, sayım ve tekrar sayım yöntemleri,
+b) Yarı mamullerin hangi safhada tamamlandığı, az hareket gören, modası geçmiş veya hasarlı ve konsinye mallar gibi üçüncü şahıslara ait stokların doğru olarak belirlenmesi ve
+c) Stok yerleri arasındaki stok hareketlerinin ve dönem sonu öncesi ve sonrasında oluşacak stok giriş ve çıkışlarına ilişkin, uygun düzenlemelerin yapılıp yapılmadığı.
+(10) Bağımsız denetçi, işletme yönetimi tarafından belirlenen yöntemlerin yeterli olarak uygulandığından emin olmak için çalışanların yöntemleri uygulamalarını gözlemler ve test sayımları gerçekleştirir. Sayım sırasında, bağımsız denetçi sayımların tamlığını ve doğruluğunu, seçilen kalemler için kayıtlardan fiziki stoklara ve fiziki stoklardan da kayıtlara giderek test eder. Bağımsız denetçi, sayım kayıtlarının hangi kopyalarının bir sonraki bağımsız denetim süreci için ve karşılaştırma amacıyla elde tutulması gerektiğini belirler.
+(11) Bağımsız denetçi, ayrıca, ileri bir tarihte stokların muhasebe kayıtlarını kontrol edilebilmek amacıyla, stok sayımı öncesinde, sırasında ve sonrasındaki hareketler ile ilgili detayları içeren dönem sonu ile ilgili yöntemleri göz önünde bulundurur.
+(12) Fiziki stok sayımı, daha elverişli olması halinde dönemin kapanış gününden farklı bir günde yapılabilir. Bu yaklaşım, işletmenin stok değişimlerine ilişkin kontrolleri tasarladığı ve uyguladığı durumlarda, bağımsız denetim amacı için yeterli olur. Bağımsız denetçi, sayım günü ile dönem sonu arasındaki stok değişimlerinin doğru kaydedilip kaydedilmediğini uygun yöntemler uygulayarak değerlendirir.
+(13) İşletme dönem sonu stok tutarını belirlemek için sürekli envanter yöntemini kullanıyorsa, bağımsız denetçi ilave yöntemler kullanarak, fiziki stok sayımı ile kayıtlı stoklar arasındaki farkın sebeplerinin anlaşılıp anlaşılmadığını ve kayıtların doğru olarak düzeltilip düzeltilmediğini değerlendirir.
+(14) Bağımsız denetçi, fiili stok sayımı sonuçlarını yansıtıp yansıtmadığını değerlendirmek üzere, nihai stok listesini test eder.
+(15) Stoklar üçüncü bir tarafın himayesi veya kontrolü altında ise, bağımsız denetçi, işletme adına tutulan stokların miktarını ve durumunu üçüncü taraflardan doğrudan teyit etmek zorundadır. Bağımsız denetçi, stokların önemine bağlı olarak, ayrıca, aşağıdaki hususları göz önünde bulundurur.
+a) Üçüncü tarafın dürüstlüğü ve bağımsızlığı,
+b) Fiziki stokların sayımının gözlemlenmesi veya başka bir bağımsız denetçinin gözlemlemesi için gerekli ayarlamanın yapılması,
+c) Stokların doğru olarak sayıldığından ve yeterli şekilde korunduğundan emin olmak için, üçüncü tarafın iç kontrol sisteminin yeterliliğine dair başka bir bağımsız denetçinin raporunun temin edilmesi ve
+ç) Üçüncü taraflarca tutulan stoklara ilişkin belgelerin incelenmesi, bu kapsamda ambar fişlerinin veya stokların teminat olarak verildiği durumlarda diğer taraflardan alınan teyitlerin elde edilmesi gibi işlemler.

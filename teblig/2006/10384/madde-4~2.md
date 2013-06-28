@@ -1,0 +1,2 @@
+Bağımsız denetimin kapsamı
+MADDE 4 - (1) Bağımsız denetimi amacına uygun olarak gerçekleştirmek için uygulanan bağımsız denetim yöntem ve teknikleri bağımsız denetimin kapsamını oluşturur. Bu Tebliğ hükümlerine uygun bir bağımsız denetimin gerçekleştirilebilmesi için uygulanacak bağımsız denetim yöntem ve tekniklerinin belirlenmesinde, bu Tebliğde yer alan hükümler ile Kurulun konuya ilişkin düzenlemeleri ve yerine göre bağımsız denetim sözleşmesi ile raporlama gereklilikleri göz önünde bulundurulur.

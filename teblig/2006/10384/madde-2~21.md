@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 - (1) Bu kısım, işletme yönetimince yapılan muhasebe tahminlerinin bağımsız denetimine, bu kapsamda; işletme yönetimince yapılan muhasebe tahminlerinin gözden geçirilmesine, hesaplamaların test edilmesine, daha önce yapılan muhasebe tahminlerinin gerçekleşen sonuçlar ile karşılaştırılmasına ve bağımsız nitelikteki tahminler kullanılarak bağımsız denetim tekniklerinin sonuçlarının değerlendirilmesine ilişkin hükümleri içerir.
+(2) Bu kısım, gelecek dönemlere ait finansal bilgilerin bağımsız denetiminde uygulanmak üzere hazırlanmamış olmakla birlikte, bu kısımda belirtilen bağımsız denetim teknikleri bu amaç için de kullanılabilir.

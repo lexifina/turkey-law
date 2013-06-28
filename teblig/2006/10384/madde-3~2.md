@@ -1,0 +1,3 @@
+Bağımsız denetimin amacı
+MADDE 3 - (1) Finansal tabloların bağımsız denetiminin amacı; finansal tabloların finansal raporlama standartları doğrultusunda bir işletmenin finansal durumunu ve faaliyet sonuçlarını tüm önemli yönleriyle gerçeğe uygun ve doğru bir biçimde gösterip göstermediği konusunda bağımsız denetçinin görüş bildirmesini sağlamaktır.
+(2) Bağımsız denetçinin görüşü, finansal tabloların güvenilirlik derecesini yükseltmekle beraber, bu görüş finansal tabloları bağımsız denetime tabi tutulan işletmenin gelecekteki durumu hakkında ve işletme yönetiminin işletmenin faaliyetlerini etkin ve verimli bir biçimde yönettiğine dair bilgi sağladığı şeklinde değerlendirilmez.

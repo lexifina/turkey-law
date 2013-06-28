@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Dış Kaynaklardan Doğrulama Süreci
+Doğrulama sürecinin kontrolü
+MADDE 10 - (1) Bağımsız denetçi, dış kaynaklardan doğrulama tekniğini uygularken, doğrulama talep edilecek tarafların belirlenmesi ve doğrulama taleplerinin hazırlanıp gönderilmesi ile cevapların alınması süreçleri üzerinde kontrol sahibi olmak zorundadır. Doğrulama sürecinin, doğrulama taleplerinin veya verilen cevapların ele geçirilmesi ve değiştirilmesi sonucu tarafsız olmayan bir şekilde sonuçlanması olasılığını en aza indirmek amacıyla bağımsız denetçi ve cevap vermesi beklenen taraflar arasında sağlıklı bir iletişim kurulmak suretiyle kontrolün sağlanması gereklidir. Doğrulama taleplerini gönderen bağımsız denetçinin, bu taleplerin ilgili taraflara ulaştığından ve doğrulama taleplerinde cevapların doğrudan kendisine gönderileceğinden emin olması gerekir. Bağımsız denetçi, cevapların, doğrulamaların gönderildiği taraflardan gelip gelmediği hususuna da dikkat alır.

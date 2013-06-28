@@ -1,0 +1,4 @@
+Gözetimi ve Belgelendirme
+Planlama kararlarında bağımsız denetim sürecinde meydana gelen değişiklikler
+MADDE 7 - (1) Genel bağımsız denetim stratejisi ve bağımsız denetim planı, bağımsız denetim sürecinde gerekli görüldüğü takdirde güncellenir ve değiştirilir.
+(2) Bağımsız denetimin planlanması, bağımsız denetim çalışması boyunca devam ve tekrar eden bir süreçtir. Beklenmeyen olaylar, şartlardaki değişiklikler veya bağımsız denetim teknikleri kullanılarak elde edilen bağımsız denetim kanıtları sonucunda, bağımsız denetçi, genel bağımsız denetim stratejisiyle bağımsız denetim planında ve bunun sonucu olarak ilave bağımsız denetim tekniklerinin planlanan yapısı, zamanlaması ve kapsamında değişiklikler yapma ihtiyacı duyabilir. Bağımsız denetçi, bağımsız denetim tekniklerini planlamış olduğu dönemde var olan bilgiden önemli derecede farklı bir bilgiyle bağımsız denetim süresi boyunca karşılaşabilir.

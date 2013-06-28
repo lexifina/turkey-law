@@ -1,0 +1,4 @@
+Kontrol testleri
+MADDE 6 - (1) Bağımsız denetçi, risk değerlendirme sürecine kontrollerin işleyiş etkinliğine ilişkin beklentileri de dahil ettiğinde, kontrollerin testini de yapmak zorundadır.
+(2) Bağımsız denetçi iç kontrol sistemleri üzerindeki bilgisine bağlı olarak, bir kontrolün gerçekleşme düzeyini gösteren özellikleri ve aynı şekilde kontrolün faaliyet etkinliğinde sapmalar olduğuna işaret eden durumları belirleyerek, kontrolün amaca uygun olup olmadığını tespit eder.
+(3) Kontrol testleri için yapılan bağımsız denetim örneklemesi genellikle, kontrol uygulamasının kontrolün yapıldığına ilişkin bir bağımsız denetim kanıtı sağladığı durumlarda uygundur. Satış faturasındaki, alacak kaydı yapılabileceğinin onaylandığını gösteren satış müdürünün parafı veya bilgi işlem sistemine veri girişinin onaylandığına ilişkin bağımsız denetim kanıtı bu kapsamda değerlendirilir.

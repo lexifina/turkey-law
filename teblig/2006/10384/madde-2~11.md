@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 - (1) Bu Kısım, bağımsız denetçi tarafından, finansal tablolarda hata veya hileden kaynaklanacak önemli yanlışlık riskinin yeterli ölçüde belirlenmesi ve değerlendirilmesini sağlayacak, ek bağımsız denetim tekniklerinin oluşturulması ve uygulanması ile iç kontrol de dahil olmak üzere işletme, faaliyet koşulları ve çevresiyle olan ilişkileri hakkında bilgi edinilmesine, bağımsız denetim sürecinde elde edilen bu bilgilerin analizine, güncellenmesine ve bir araya toplanmasına ilişkin hükümleri kapsar.

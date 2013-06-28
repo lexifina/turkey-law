@@ -1,0 +1,7 @@
+Bağımsızlık
+MADDE 7 - (1) Sorumlu ortak baş denetçi, yapılan bağımsız denetimle ilgili olarak bağımsızlığın sağlandığına dair bir sonuca ulaşmak zorundadır. Bu amaçla sorumlu ortak baş denetçi:
+a) Bağımsız denetim kuruluşundan veya gerekiyorsa Kuruluşun içinde yer aldığı ve lisans anlaşmaları nedeniyle ilişkide bulunduğu diğer bağımsız denetim kuruluşlarının oluşturduğu gruptan gerekli bilgileri alarak bağımsızlığı tehdit eden koşulları ve ilişkileri tespit ederek değerlendirir.
+b) Bağımsız denetim kuruluşunun bağımsızlıkla ilgili politika ve usullerine ilişkin tespit edilmiş bir ihlal var ise, bunları değerlendirerek bağımsız denetim çalışmasında bağımsızlığı ortadan kaldıran bir durum olup olmadığını belirler.
+c) Bağımsızlığı ortadan kaldıran durumları gerekli önlemleri alarak ortadan kaldırır veya kabul edilebilir bir düzeye indirir, çözümlenemeyen konuları bağımsız denetim kuruluşuna bildirir.
+ç) Bağımsızlık ile ilgili konularda varılan sonuçlar ve bu sonuçları destekleyen bağımsız denetim kuruluşu yönetimi ile yapılan tartışmaları yazılı hale getirir.
+(2) Sorumlu ortak baş denetçi ortadan kaldırılamayan veya etkisi azaltılamayan bağımsızlığı tehdit eden bir durum tespit ettiğinde, bağımsız denetim kuruluşu ile görüşerek bağımsızlığı tehdit eden faaliyet veya işlemin iptal edilmesi veya bağımsız denetimden çekilmek üzere gerekli süreçlerin başlatılması gibi önlemlerin alınmasını sağlamak ve konuya ilişkin tartışmaları ve ulaşılan sonuçları yazılı hale getirilmek zorundadır.

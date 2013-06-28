@@ -1,0 +1,2 @@
+Bilanço tarihinden sonraki olayların incelenmesi
+MADDE 12 - (1) Bilanço tarihinden sonra ancak, bağımsız denetimin bitmesinde önce gerçekleşen işlem ve olaylar, işletme yönetimi tarafından yapılan bir muhasebe tahminine dair bağımsız denetim kanıtı sağlayabilir. Bağımsız denetçinin bu tür işlemleri ve olayları incelemesi, işletme yönetiminin muhasebe tahminini oluşturma sürecinin test edilmesi ihtiyacını ya da muhasebe tahminlerinin makul olup olmadığını değerlendirirken bağımsız bir tahmin kullanılması ihtiyacını azaltarak ortadan kaldırabilir.

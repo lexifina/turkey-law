@@ -1,0 +1,2 @@
+Gözlem
+MADDE 9 - (1) Gözlem, başkaları tarafından yapılan işlem, süreç veya yöntemlerin izlenmesini ifade eder. İşletme personeli tarafından gerçekleştirilen stok sayımının veya kontrol faaliyetlerinin etkinliğinin gözlenmesi, buna örnek olarak verilebilir. Gözlem, gözlemin yapıldığı zaman ile sınırlı olmak üzere, bir işlem, süreç veya yöntemin performansı hakkında bağımsız denetim kanıtı sağlar ve işlem, süreç ve yöntemlerin nasıl yapıldığından etkilenir.

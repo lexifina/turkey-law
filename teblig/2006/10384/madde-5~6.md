@@ -1,0 +1,3 @@
+Çalışma kâğıtlarının niteliği
+MADDE 5 - (1) Çalışma kâğıtları kâğıt ya da elektronik ortam veya diğer şekillerde tutulabilir. Bu kapsamda bağımsız denetim programları, analizler, önemli konuların özeti, doğrulama mektupları, işletme yönetimi teyit mektupları, kontrol listeleri, elektronik posta dahil önemli konularla ilgili yazışmalar çalışma kağıtları olarak sınıflandırılabilir. Gerekli görüldüğü takdirde önemli ve özellik arz eden sözleşmelerin kopyaları çalışma kâğıtları olarak saklanabilir. Ancak, çalışma kâğıtları isletmenin yasal kayıtları olarak dikkate alınamaz.
+(2) Son durumu yansıtmayan veya hatalı bilgiler içeren çalışma kâğıtları bağımsız denetim ile ilgili çalışma kâğıtlarının arşivlendiği bağımsız denetim dokümanları arasından çıkarılır.

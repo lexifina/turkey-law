@@ -1,0 +1,4 @@
+Mesleki özen ve titizlik
+MADDE 14 - (1) Mesleki özen ve titizlik, basiretli bir bağımsız denetçinin aynı koşullar altında ayrıntılara vereceği önemi, göstereceği dikkat ve gayreti ifade eder.
+(2) Bağımsız denetçiler, bağımsız denetimin planlanması, yürütülüp sonuçlandırılması ve bağımsız denetim raporunun hazırlanması safhalarında gerekli mesleki özen ve titizliği göstermek zorundadırlar.
+(3) Gerekli özen ve titizliğin asgari kıstası, bağımsız denetim standartlarına eksiksiz uyulmasıdır. Buna göre, bir bağımsız denetçi bağımsız denetim faaliyetini gerektiği şekilde planlamak, program yapmak, yeterli miktarda, uygun nitelikte ve güvenilir bağımsız denetim kanıtı toplayarak inceleme yapmak, temiz ve düzenli çalışma kağıtları hazırlamak, finansal tabloların gerçekliği ve doğruluğu hakkında dürüst ve doğru bir yargıya ulaşmak ve görüşünü, özen ve titizlikle düzenleyeceği bağımsız denetim raporunda açıklamak zorundadır.

@@ -1,0 +1,4 @@
+Aykırılığın finansal tablo kullanıcılarına raporlanması
+MADDE 8 - (1) Bağımsız denetçi, aykırılığın finansal tablolar üzerinde önemli bir etkisi olacağı ve uygun bir şekilde finansal tablolara yansıtılmadığı sonucuna ulaşırsa, şartlı görüş ya da olumsuz görüş verir.
+(2) Bağımsız denetçi, finansal tablolarda aykırılık olduğu ya da olabileceği hususunu değerlendirirken, yeterli ve uygun bağımsız denetim kanıtı elde etmesi işletme tarafından engellendiği durumda, bağımsız denetimin kapsamının sınırlandırılmasının boyutuna bağlı olarak finansal tablolar hakkında şartlı görüş bildirme ya da görüş bildirmeme yolunu seçer.
+(3) Ayrıca, işletme yönetiminden ziyade işletmenin tabi olduğu koşullar nedeniyle aykırılığın kaynağının belirlenememesi durumunda, bu husus bağımsız denetçi tarafından tüm etkileriyle birlikte bağımsız denetim raporunda dikkate alınır.

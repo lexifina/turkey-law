@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 4 - (1) Bu Tebliğin 3 üncü Kısmının (Bağımsız Denetim Sözleşmesi) “Bağımsız denetim sözleşmesinin yürürlüğü” başlıklı 6 ncı maddesinde en çok 7 yıl olarak belirlenen bağımsız denetim sözleşme süresinin belirlenmesinde, bu Tebliğin yayımı tarihinden önce yürürlüğe girmiş bulunan bağımsız denetim sözleşmelerinin süresi dikkate alınır.

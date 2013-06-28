@@ -1,0 +1,2 @@
+Bağımsız bir tahminde bulunulması
+MADDE 11 - (1) Bağımsız denetçi, tahminde bulunarak ya da bağımsız bir tahmin elde ederek, işletme yönetimi tarafından hazırlanan muhasebe tahminleriyle bulgularını karşılaştırır. Bağımsız tahmin kullanıldığında, veri değerlendirilirken tahminin oluşturulmasında kullanılan hesaplama yöntemleri test edilerek, varsayımlar gözden geçirilir. Bu kapsamda, önceki dönemler için yapılan muhasebe tahminleri, o dönemlere ait fiili sonuçlarla da karşılaştırılır.

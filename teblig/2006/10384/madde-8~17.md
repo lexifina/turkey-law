@@ -1,0 +1,2 @@
+Makul değer hesaplamasının mümkün olmaması durumunda gözden geçirme
+MADDE 8 - (1) Bir kalemle ilgili belirsizlik olması veya objektif verinin mevcut olmaması ya da makul bir tahmin yapılmasının mümkün olmadığı durumlarda, bağımsız denetçi, bağımsız denetim raporunda bu Tebliğde düzenlenen standartlara uygun olarak olumlu görüş dışında nasıl bir görüş açıklanması (olumsuz veya şartlı görüş açıklanması ya da görüş bildirmekten kaçınılması) gerektiği hususunu gözden geçirmek zorundadır.

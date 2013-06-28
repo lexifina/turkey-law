@@ -1,0 +1,18 @@
+Kontrol faaliyetleri
+MADDE 19 - (1) Bağımsız denetçi, işletme yönetiminin beyanları ile ilgili önemli yanlışlık risklerini değerlendirmek ve bu amaçla ilave bağımsız denetim teknikleri tasarlamak için kontrol faaliyetlerini yeterince kavramak zorundadır. Kontrol faaliyetleri, işletmenin amaçlarına ulaşmasını engelleyebilecek risklerin ortaya çıkarılması ve gerekli önlemlerin alınması gibi, işletme yönetiminin talimatlarının uygulanmasını sağlayan usul ve esaslardır. Bilişim teknolojileri vasıtasıyla ya da manüel olarak gerçekleştirilebilen kontrol faaliyetleri, çeşitli amaçlara yönelik olabilir ve işletmenin değişik kurumsal ve fonksiyonel düzeylerinde uygulanır. Bu kapsamda;
+a) Yetkilendirme,
+b) Performansın gözden geçirilmesi,
+c) Bilgi işleme süreçleri,
+ç) Fiziksel kontroller ve
+d) Görevlerin ayrılması
+kontrol faaliyetlerine örnek gösterilebilir.
+(2) Kontrol faaliyetlerini anlamak için bağımsız denetçinin ilk göz önünde bulundurması gereken husus, münferit veya toplu olarak kontrol faaliyetlerinin, işlem türlerinde, hesap bakiyelerinde veya kamuya açıklanan bilgilerde önemli yanlışlıkları nasıl önlediği veya ortaya çıkarıp düzelttiğidir. Bağımsız denetçi, işletmenin her bir faaliyet türü, hesap bakiyesi, kamuya yapılan her açıklama ile ilgili kontrol faaliyetlerini ayrıntılı olarak değerlendirmek zorunda olmamakla birlikte, önemli yanlışlık olabileceğini düşündüğü alanlardaki kontrol faaliyetlerini ayrıntılı olarak değerlendirmek zorundadır.
+(3) Bağımsız denetçi, kontrol faaliyetlerinin değerlendirilmesi sırasında, iç kontrol sisteminin diğer unsurlarından gelen bilgileri de dikkate alır. Bağımsız denetçi, kontrol faaliyetlerinin bağımsız denetimle ilişkisini, finansal tabloları önemli düzeyde etkileyecek yanlış bilgi sunumu ile ilgili riskleri göz önünde bulundurmak suretiyle değerlendirir.
+(4) Bağımsız denetçi, işletmenin bilişim teknolojilerinden kaynaklanacak risklere karşı nasıl önlem aldığı hususunda bilgi sahibi olmak zorundadır. Bilişim teknolojilerinin kullanımı, kontrol faaliyetlerinin uygulanma şeklini etkilediğinden, bağımsız denetçi, işletmenin bilişim teknolojisinden kaynaklanan riskleri, genel bilgi teknolojileri kontrolleri ve uygulama kontrolleri yoluyla önlemek için yeterli tedbirleri alıp almadığını göz önünde bulundurur. Bağımsız denetçi, bilgilerin doğruluğunu ve verilerin güvenliğini sağladığı sürece, bilişim teknolojileri üzerindeki kontrollerin etkin olduğunu kabul edebilir.
+(5) Bilişim teknolojilerine ilişkin kontroller, bilgi sistemlerinin uygun bir şekilde işlemesine katkıda bulunan uygulamalar ve uygulamaların etkinliğini sağlayan usul ve esaslardır. Bu kapsamda, bilgilerin doğruluğunu ve verilerin güvenliğini sağlayan bilişim teknolojilerine ilişkin kontroller aşağıdaki hususları kapsar:
+a) Veri merkezi ve ağ işlemleri,
+b) Sistem yazılımının edinimi, değişimi ve bakımı,
+c) Erişim güvenliği ve
+ç) Uygulama sistemi edinimi, geliştirilmesi ve bakımı.
+(6) Yukarıda belirtilen kontroller, bağımsız denetçi tarafından bu Kısmın “Bağımsız denetçinin risk değerlendirmesinde, bilişim teknolojisine dayanan ve dayanmayan iç kontrol sistemi unsurlarının özellikleri” başlıklı maddesi kapsamında yapılacak risk değerlendirmelerinde kullanılır.
+(7) Uygulama kontrolleri muhasebe kayıtlarının doğruluğunu sağlamak amacıyla tasarlanır ve muhasebe kayıtlarındaki yanlışlıkları önleyen veya ortaya çıkaran nitelikte olabilir. Dolayısıyla, uygulama kontrolleri finansal işlemlerin ve diğer finansal verilerin izlenmesi, kaydedilmesi, analiz edilmesi ve raporlanması ile ilgilidir. Bu kontroller, işlemlerin, yetkiler çerçevesinde tam olarak ve doğru bir şekilde gerçekleştirilmesini ve kayıtlara geçirilmesini sağlamaya yöneliktir.

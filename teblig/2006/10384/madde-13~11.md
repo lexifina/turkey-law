@@ -1,0 +1,7 @@
+Makul değer hesaplamasında kullanılan alternatif yöntemlerin uygunluğu
+MADDE 13 - (1) Finansal raporlama standartlarında makul değerin hesaplanması için alternatif yöntemlerin bulunduğu ya da bir hesaplama yönteminin tanımlanmadığı durumlarda, bağımsız denetçi, hesaplamanın mevcut şartlar altında finansal raporlama standartlarına uygun olup olmadığını değerlendirmek zorundadır.
+(2) Hesaplama yönteminin mevcut şartlar altında uygun olup olmadığının değerlendirilmesi, mesleki kanaat kullanımını gerektirir. İşletme yönetimince finansal raporlama standartlarında bulunan alternatif değerleme yöntemlerinden birinin seçilmesi halinde, bağımsız denetçi işletme yönetiminin seçim mantığını, işletme yönetimi ile bu değerleme yöntemini seçme nedenlerini görüşerek kavrar. Bağımsız denetçi aşağıdaki hususları dikkate alır:
+a) İşletme yönetiminin, finansal raporlama standartlarında belirtilmişse, seçilen yöntemi destekleyecek kriterleri yeterince değerlendirerek, doğru olarak uygulayıp uygulamadığı,
+b) Değerleme yönteminin, değerleme yapılan varlık veya yükümlülüğün niteliği ile finansal raporlama standartlarına uygun olup olmadığı ve
+c) Değerleme yönteminin, işletmenin bulunduğu sektör ve ortama uygun olup olmadığını.
+(3) İşletme yönetimi, farklı değerleme yöntemlerinin sonuçlarının birbirinden önemli ölçüde farklı olduğunu tespit ederse, bağımsız denetçi, işletmenin makul değer hesaplamalarını incelerken bu farklılıkların nedenlerinin işletme tarafından nasıl incelendiğini değerlendirir.

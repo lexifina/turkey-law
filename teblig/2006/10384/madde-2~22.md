@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 - (1) Bu Kısım, finansal tablolarda yer alan varlık, yükümlülük ve özsermayenin bazı kalemleri ile ilgili olarak işletme yönetimince yapılan makul değer hesaplamaları, bunların sunumu, kamuya açıklanması, tutarlılığı ve uygunluğunun bağımsız denetçi tarafından doğrulanması, söz konusu hususların kontrolü sürecinde bağımsız denetçinin sorumlulukları ve uygulanan bağımsız denetim tekniklerinin değerlendirilmesine ilişkin hükümleri içerir.

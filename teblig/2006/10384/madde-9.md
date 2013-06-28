@@ -1,0 +1,5 @@
+Hizmet içi eğitim ve refakat çalışması
+MADDE 9 - (1) Bağımsız denetim kuruluşları, mesleki deneyime sahip olmaksızın ilk kez işe aldıkları denetçi yardımcılarını staja tabi tutarlar. En az fiilen 2 yıl süren bu staj döneminde denetçi yardımcıları, 4 ay süre ile muhasebe ve bağımsız denetim teori, standart ve teknikleri, finansal analiz, iç kontrol, bilgi işlem, para ve sermaye piyasası, şirketler hukuku, kurumsal yönetim, ticaret hukuku, vergi mevzuatı ve bankacılık konularında eğitime tabi tutulurlar. Bu eğitimin sonuçları, bağımsız denetim kuruluşlarınca veya ilgili meslek kuruluşlarınca yapılacak sınavla değerlendirilir. Bu kurslar, toplam iki yüz saatten az olamaz.
+(2) Bağımsız denetim kuruluşları, denetçi yardımcılarının eğitimleri için müşterek eğitim programları ve sınavlar düzenleyebilirler.
+(3) Staj döneminde, denetçi yardımcılarının birden çok işte ve birden çok denetçi refakatinde çalıştırılması için her türlü tedbir alınır.
+(4) Hizmet içi eğitim ve refakat çalışmalarının, sorumlu ortak baş denetçinin gözetim ve sorumluluğu altında planlı olarak yürütülmesi zorunludur.

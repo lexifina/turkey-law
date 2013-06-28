@@ -1,0 +1,2 @@
+Hesaplamaların test edilmesi
+MADDE 8 - (1) Bağımsız denetçi, işletme yönetimi tarafından kullanılan hesaplama yöntemlerini test etmek zorundadır. Değerlendirilmiş önemli yanlışlık riskine bağlı olan testlerin yapısı, zamanlaması ve kapsamı; muhasebe tahmininin hesaplanmasındaki karmaşıklık, tahmini oluştururken ilgili kontrol faaliyetlerini de kapsayacak şekilde işletmenin kullandığı yöntemlerin bağımsız denetçi tarafından değerlendirilmesi ve tahminin finansal tablolar açısından önemliliği gibi faktörlerden etkilenir.

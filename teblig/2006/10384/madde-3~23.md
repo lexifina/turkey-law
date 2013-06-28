@@ -1,0 +1,6 @@
+BİRİNCİ BÖLÜM
+İlişkili Tarafların Varlığı, Kamuya Açıklanması ve İlişkili Taraflarla Yapılan İşlemler
+Genel esaslar
+MADDE 3 - (1) Bağımsız denetçi, finansal tablolarda önemlilik arz eden ilişkili taraf işlemleri ve işletme yönetimi tarafından yapılan ilişkili taraflarla ilgili açıklamalar hakkında yeterli ve uygun bağımsız denetim kanıtı toplamak için, gerekli bağımsız denetim tekniklerini tasarlayarak uygulamak zorundadır. Ancak, bir bağımsız denetimin ilişkili taraflarla gerçekleştirilen işlemlerin tamamını ortaya çıkarması beklenmez.
+(2) Finansal tablolarla ilgili işletme yönetiminin belirli beyanlarına dair kanaate ulaşmak için kullanılan bağımsız denetim kanıtlarının ikna ediciliğini etkileyen sınırlamalar söz konusu olduğunda, bu Kısımda belirtilen bağımsız denetim teknikleri uygulanarak yeterli ve uygun bağımsız denetim kanıtı sağlanır.
+(3) İşletme yönetimi tarafından sunulan bilgi ve belgelerde ve yapılan açıklamalardaki önemli yanlışlık riskinin bağımsız denetçi tarafından beklenilenden daha yüksek olması ve ilişkili taraflarla ilgili önemli bir yanlışlık olduğunun belirlenmesi durumlarında, bağımsız denetçi, duruma uygun olarak değiştirilmiş, genişletilmiş ya da ilave bağımsız denetim tekniklerini uygulamak zorundadır.

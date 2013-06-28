@@ -1,0 +1,2 @@
+İşletme yönetiminin onay süreçlerinin gözden geçirilmesi
+MADDE 10 - (1) Önemlilik arz eden muhasebe tahminleri genel olarak işletme yönetimi tarafından incelenir ve onaylanır. Bağımsız denetçi, bu inceleme ve onayın uygun yönetim kademesi tarafından gerçekleştirilip gerçekleştirilmediğini ve muhasebe tahmini oluşturulmasını destekleyen belgelerin bağımsız denetim kanıtı olarak yer alıp almadığını gözden geçirmek zorundadır.

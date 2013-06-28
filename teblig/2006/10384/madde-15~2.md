@@ -1,0 +1,8 @@
+Yapılacak İşlemler ve Değerlendirme
+Hile ve usulsüzlükten kaynaklanan önemli yanlışlık riskinin belirlenmesi ve değerlendirilmesi
+MADDE 15 - (1) Bağımsız denetçi, finansal tablolarda ya da işlem türleri, hesap bakiyeleri ve dipnotlarla ilgili açıklamalardaki önemli yanlışlık riskini tespit ederken, hile ve usulsüzlükten kaynaklanan önemli yanlışlık riskini belirler ve değerlendirir. Bu riskler hile ve usulsüzlük sebebiyle önemli yanlışlığa yol açabileceğinden, bağımsız denetçi işletmenin ilgili iç kontrollerini değerlendirir ve bunların uygulanıp uygulanmadığını tespit eder.
+(2) Bağımsız denetçi, mesleki kanaatini kullanarak, hile ve usulsüzlük sebebiyle ortaya çıkabilecek önemli yanlışlık riskini değerlendirirken;
+a) Risk değerlendirme sürecinde elde ettiği bilgiler ile finansal tablolardaki işlem türleri, hesap bakiyeleri ve dipnot açıklamalarını da dikkate alarak hile ve usulsüzlük riskini belirler.
+b) Tespit edilen hile ve usulsüzlük risklerini hesap bazında olabilecek riskler ile ilişkilendirir.
+c) Muhtemel yanlışlıkları, birden fazla yanlışlığa sebep olma ve oluşma olasılığı kapsamında inceler.
+(3) İşletme yönetimi hile ve usulsüzlükten kaynaklanan önemli yanlışlık riskinin niteliği ve kapsamını belirlerken ve bu riskleri önlemek ve ortaya çıkarmak amacıyla iç kontrol sistemini tasarlayıp uygularken, önemli ölçüde bilgiye dayalı kanaat kullandığından, bu risk ve süreçleri kavramak bağımsız denetçi için önemlidir. Bu kapsamda, bağımsız denetçi işin doğasının gerektirdiği görevler ayrılığının yetersiz olduğu durumlarda, işletme yönetiminin bilinçli olarak yaptığı tercihleri de araştırarak değerlendirmek zorundadır.

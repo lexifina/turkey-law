@@ -1,0 +1,2 @@
+İlişkili tarafların varlığının açıklanmasında sorumluluk
+MADDE 4 - (1) İşletme yönetimi, ilişkili tarafların belirlenmesi ve bu taraflarla gerçekleştirilen işlemlerin açıklanmasından sorumludur. Bu sorumluluk, işletme yönetiminin ilişkili taraflarla gerçekleştirilen işlemlerin işletmenin bilgi sisteminde uygun bir şekilde belirlenerek finansal tablolara doğru yansıtılmasını temin edecek iç kontrol sistemlerinin kurulmasını gerektirir.

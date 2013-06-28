@@ -1,0 +1,3 @@
+Örnek hacmi
+MADDE 19 - (1) Bağımsız denetçi, örnek hacmini belirlerken, örnekleme riskinin kabul edilebilir derecede düşük bir seviyeye indirilip indirilmediğini dikkate almak zorundadır. Örnek hacmi, bağımsız denetçinin kabul edebileceği örnekleme riski seviyesinden etkilenir. Bağımsız denetçinin kabul edebileceği risk düştükçe, örnek hacminin de o oranda artması gerekir.
+(2) Örnek hacmi istatistik bazlı bir formülün uygulanması veya mevcut koşullarda objektif bir şekilde mesleki kanaatin kullanılmasıyla belirlenebilir. Örnek hacminin belirlenmesinde etkili olan faktörler ve örnekleme riski düzeyine ek-11 ve ek-12’de yer verilmiştir.

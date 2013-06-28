@@ -1,0 +1,2 @@
+Risk değerlendirme teknikleri
+MADDE 5 - (1) Bağımsız denetçi, risk değerlendirme tekniklerini, iç kontrol sistemi dahil işletmenin, faaliyet koşullarının ve çevresiyle olan ilişkilerinin kavranması için kullanır. Bu teknikler, genellikle bağımsız denetim örneklemesinin kullanılmasını içermez. Bununla birlikte, bağımsız denetçi, kontrol testlerinin planlanarak uygulanması ile işletmenin kontrol tasarımlarının anlaşılması ve uygulanıp uygulanmadığının belirlenmesi süreçlerini eşzamanlı yürütür.

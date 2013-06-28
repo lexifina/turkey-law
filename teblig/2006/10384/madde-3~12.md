@@ -1,0 +1,9 @@
+BİRİNCİ BÖLÜM
+Önemlilik ve Bağımsız Denetim Riski
+Önemlilik
+MADDE 3 - (1) Önemlilik kavramı, bilginin açıklanmaması, yanlış veya eksik açıklanması nedeniyle finansal tabloları esas alarak karar veren finansal tablo kullanıcılarının ekonomik kararlarını etkileyebilecek hususları kapsar.
+(2) Bağımsız denetiminin amacı, bağımsız denetçinin, finansal tabloların tüm önemli yönleriyle, finansal raporlama standartları çerçevesinde hazırlanıp hazırlanmadığı hususunda görüş vermesini sağlamaktır. Önemlilik seviyesine ilişkin bir kanaat oluşturulması mesleki bir değerlendirmeyi gerektirir.
+(3) Bağımsız denetçi, önemli yanlışlıkların belirlenebilmesi için bağımsız denetim planını oluştururken tutar açısından kabul edilebilir önemlilik seviyesi belirler. Ancak, önemlilik seviyesi belirlenirken, önemli yanlışlıkların hem tutarı hem de niteliği dikkate alınır. Bu kapsamda, muhasebe politikalarının finansal tablo kullanıcılarını yanıltacak biçimde; yanlış veya yetersiz bir şekilde açıklanması niteliksel yanlışlığı ifade eder.
+(4) Bağımsız denetçi, önemsiz tutarda ve münferit birden çok yanlışlığın toplamda finansal tablolar üzerinde önemli bir etkiye yol açma ihtimalini göz önünde bulundurur.
+(5) Bağımsız denetçi, önemliliği hem finansal tabloların geneli açısından hem de her bir hesap bakiyesi, işlem türü ve dipnotlarda yapılan açıklama bakımından dikkate alır. Önemlilik seviyesi belirlenirken, yasal düzenlemeler ile hesap bakiyeleri, işlem türleri ve dipnotlarda yapılan açıklamalar ve bunların birbirleriyle olan ilişkileri bağımsız denetçi tarafından dikkate alınır. Bu durum, dikkate alınan finansal tabloların içeriğine bağlı olarak farklı önemlilik seviyeleri belirlenmesini gerektirebilir.
+(6) Bağımsız denetçi, bağımsız denetim tekniklerinin yapısını, zamanlamasını ve kapsamını belirlerken ve yanlışlıkların etkisini değerlendirirken önemlilik kavramını dikkate almak zorundadır.

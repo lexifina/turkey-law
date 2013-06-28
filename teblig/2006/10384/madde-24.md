@@ -1,0 +1,5 @@
+Raporların ilanı
+MADDE 24 - (1) Müşteri yönetim kurulu başkanlığına teslim edilen bağımsız denetim raporu ve inceleme raporunun birer örneği, Kurulca yayımlanan finansal raporlama standartları uyarınca ilanı gereken finansal tablo ve raporlarla birlikte, ilan için öngörülen süreler göz önünde bulundurularak, teslim tarihini izleyen en geç ilk iş günü mesai bitimine kadar yayımlanmak üzere ilgili borsaya ve Kurul’a gönderilir.
+(2) Bağımsız denetim raporu, Türk Ticaret Kanunu hükümleri çerçevesinde, ilgili bulunduğu yıla ilişkin finansal tablo ve raporların görüşüleceği genel kurul toplantısından en az on beş gün önce pay sahiplerinin emrine hazır bulundurulur ve genel kurulda okunur.
+(3) Kurulca gerekli görülen haller için düzenlenen özel amaçlı bağımsız denetim raporları, düzenleniş amaçlarına uygun olarak Kurul’a iletilir ve Kurulun ilgili diğer düzenlemelerinde belirtilen usul ve esaslara uygun olarak kamuya duyurulur.
+(4) Bağımsız denetim kuruluşları, hakkında rapor düzenledikleri finansal tabloların aynen ilan edilip edilmediğini izlemek zorundadırlar.

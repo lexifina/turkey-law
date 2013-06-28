@@ -1,0 +1,5 @@
+Beklentilerin yeterince güvenilir olup olmadığı
+MADDE 10 - (1) İstenen güvence seviyesinde önemli yanlışlık riskini belirleyebilmek için, beklentilerin yeterince güvenilir olup olmadığının değerlendirilmesi sürecinde, bağımsız denetçi aşağıdaki hususları göz önünde bulundurur:
+a) Temel bağımsız denetim teknikleri ile beklenen sonuçların doğru olarak öngörülmesi: Dönemler arası brüt kar marjı karşılaştırmasının, araştırma ve reklâm giderleri gibi, ihtiyari giderlerin karşılaştırılmasından daha fazla tutarlılık göstermesi beklenir.
+b) Bilginin kısımlara ayrılabilme düzeyi: Bağımsız denetim teknikleri, finansal tablolar veya finansal bilgiler ile ilgili münferit bölümlere veya aynı işletmenin bölümlerinin finansal tablolarına uygulandığında, işletmenin finansal tablolarının tamamına uygulandığından daha etkili sonuçlar verir.
+c) Finansal olan ve finansal olmayan bilgilerin mevcudiyeti: Bütçe ve tahminler gibi finansal bilgiler ile üretilen veya satılan ürün miktarı gibi finansal olmayan bilgiler analitik inceleme teknikleri tasarlanmasında kullanılırken, bu bilgilerin güvenilirliği de dikkate alınır.

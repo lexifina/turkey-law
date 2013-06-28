@@ -1,0 +1,2 @@
+Yönetimden sorumlu kişilerle iletişim
+MADDE 30 - (1) Bazı makul değer hesaplamalarının ihtiva ettiği belirsizlikten dolayı, önemli yanlışlık risklerinin finansal tablolar üzerindeki muhtemelen etkileri işletme yönetimini ilgilendirir. Bu kapsamda bağımsız denetçi, makul değer hesaplamalarında kullanılan önemli varsayımların niteliği, bu varsayımların geliştirilmesindeki sübjektiflik derecesi ve makul değerle değerlenen kalemlerin finansal tabloların bütünü açısından görece önemi gibi, hususları yönetimden sorumlu kişilere iletilecek hususlar olarak dikkate alır.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 - (1) Bu Kısım, finansal ve finansal olmayan bilgiler arasındaki inandırıcı ilişkilere dayalı çalışmaların ortaya çıkardığı finansal bilgilerin değerlendirilmesinde kullanılan ve ilgili bilgilerle uyumsuz ilişkilerin veya belirlenen tutarlardan sapmaların ve dalgalanmaların soruşturulmasını da içeren analitik inceleme teknikleri ile bu tekniklerin risk değerlendirme ve ek bağımsız denetim tekniği olarak kullanılmasına ilişkin hükümleri kapsar.

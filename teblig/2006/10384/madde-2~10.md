@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 - (1) Bu Kısım, bağımsız denetimin planlanmasından önce uyulacak esaslar, genel bağımsız denetim stratejisi ve ayrıntılı bağımsız denetim planını kapsayan bağımsız denetimin planlanması, bağımsız denetim sırasında ortaya çıkan ihtiyaçlara göre planda değişiklik yapılması, planın yürütülmesi ve gözetimi, belgelendirme, işletme yönetimi ve yönetimden sorumlu kişilerle kurulacak iletişim ve ilk bağımsız denetimlerde dikkate alınacak hususlar hakkındaki hükümleri içerir.

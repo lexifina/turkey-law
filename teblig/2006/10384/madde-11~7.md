@@ -1,0 +1,10 @@
+Kontrol testlerinin kapsamı
+MADDE 11 - (1) Bağımsız denetçi, kontrollerin etkili olarak uygulandığı dönem boyunca, yeterli ve uygun bağımsız denetim kanıtı elde etmek için kontrol testlerini tasarlar. Bağımsız denetçi kontrol testlerinin kapsamını belirlerken aşağıdaki hususları dikkate alır:
+a) İşletmenin kontrolleri uygulama sıklığı.
+b) Bağımsız denetim sürecinde kontrol işleyiş etkinliğine güvenilen süre.
+c) Kontrolün yönetim beyanındaki önemli yanlışlıkları tespit etme, düzeltme ve önlemelerine ilişkin bağımsız denetim kanıtlarının güvenilirliği.
+ç) Yönetim beyanı ile ilişkisi bulunan diğer kontrol testlerinden elde edilen bağımsız denetim kanıtlarının kapsamı.
+d) Risklerin değerlendirilmesi ile ilgili faaliyet etkinliğine olan güven derecesi ve buna bağlı olarak temel bağımsız denetim tekniklerinin azaltılması.
+e) Kontrollerdeki sapma beklentisi.
+(2) Bağımsız denetçi, risk değerlendirmesinde kontrollerin işleyiş etkinliğine daha çok güvendikçe ve kontroldeki sapma beklentisi arttıkça, kontrol testlerinin kapsamı da genişler. Bununla birlikte, kontroldeki sapma, önemli yanlışlık riskini azaltmada kontrolün etkili olmadığı anlamına gelebilir. Kontroldeki beklenen sapma çok yüksekse, bağımsız denetçi belirli bir beyana ilişkin kontrollerin testinin etkili olmadığına karar verebilir.
+(3) Bağımsız denetçi bilişim teknolojilerinin içsel tutarlılığından dolayı otomasyona dayalı bir kontrol testinin kapsamını genişletmeyebilir. Otomasyona dayalı bir kontrol, program değişmediği sürece, tutarlı bir biçimde işler. Bağımsız denetçi otomasyona dayalı bir kontrolün tutarlı bir biçimde işlediğine karar verdiğinde, kontrolün ileride de etkili bir şekilde işleyeceğine karar vermek üzere gereken testleri yapmak zorundadır. Bu testler, program değiştiğinde, programa uygun gerekli kontrollerin değiştiğini, programın lisanslı versiyonunun kullanıldığını ve diğer gerekli kontrollerin de etkinliğini tespit eder. İşletmenin yazılım uygulamalarını değiştirmeden kullandığı durumlarda, bu testler programlarda değişiklik yapılmadığının belirlenmesini de içerir.
