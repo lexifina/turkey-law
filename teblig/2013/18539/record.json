@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.18539",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ANONİM VE LİMİTED ŞİRKETLERİN SÖZLEŞMELERİNİN TÜRK TİCARET KANUNUNA UYUMLU HALE GETİRİLME SÜRESİNİN UZATILMASINA İLİŞKİN TEBLİĞ",
+  "number": "18539",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2013/18539",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18539&MevzuatTertip=5",
+  "source_sha256": "09005126b6309d6c656b054549ac96ba4335093291fd256efa43b799ddf936ea",
+  "source_bytes": 7378,
+  "published": "2013-06-29",
+  "gazette": "28692",
+  "in_force": "2013-06-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.06.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 110,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,1 @@
+MADDE 2 – (1) 6103 sayılı Türk Ticaret Kanununun Yürürlüğü ve Uygulama Şekli Hakkında Kanunun 22 nci maddesi gereğince anonim şirketlerin esas sözleşmelerini ve limited şirketlerin şirket sözleşmelerini, 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununa uyumlu hale getirmeleri için öngörülen süre 1/7/2014 tarihine kadar uzatılmıştır.
