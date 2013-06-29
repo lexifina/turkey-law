@@ -1,0 +1,2 @@
+Giderlerin gerçekleştirilmesi
+MADDE 11 – (1) Bütçeden bir giderin yapılabilmesi için; Ajansın ihtiyaç duyduğu her türlü mal ve hizmetlerin alım-satım ve yapım işlemlerinin belirlenmiş usul ve esaslara uygun olarak gerçekleştirildiğinin, görevlendirilmiş kişi veya komisyonlarca onaylanması ve gerçekleştirme belgelerinin düzenlenmiş olması gerekir. Giderlerin gerçekleştirilmesi, gerçekleştirme görevlisi tarafından düzenlenen ödeme talimatının harcama yetkilisince imzalanması ve tutarın hak sahibine ödenmesiyle tamamlanır.
