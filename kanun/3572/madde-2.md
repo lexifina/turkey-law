@@ -6,5 +6,5 @@ d) (Mülga: 24/11/2004 – 5259/8 md.)
 e) (Ek: 24/6/1995 - KHK - 560/21 md.) 1 inci, 2 nci ve 3 üncü sınıf gıda maddesi üreten gayri sıhhi müesseselere.(2)
 f) (Ek: 13/2/2011-6111/201 md.) 1136 sayılı Avukatlık Kanunu uyarınca açılan avukatlık bürolarına,
 g) (Ek: 13/2/2011-6111/201 md.) 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu uyarınca meslek mensuplarınca açılan bürolara,
-h) (Ek: 8/8/2011 - KHK - 650/23 md.) 1512 sayılı Noterlik Kanununa göre kurulan noterlik dairelerine,(3)
+h) (Ek: 8/8/2011 - KHK - 650/23 md.; İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile. )(3)
 Uygulanmaz.
