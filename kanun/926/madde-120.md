@@ -5,4 +5,4 @@ b) Belediye hudutları dışında veya başka bir garnizona atanmalarda yollukla
 Atandıkları göreve katılmak zorundadırlar.
 Bu süreler dahilinde mazeretsiz göreve katılmıyanlar hakkında özel kanunlar gereğince işlem yapılır.
 (Ek: 29/7/1983 - 2870/9 md.) Yer değiştirme suretiyle yapılan atamalarda personelin izinli veya raporlu olması tebligata engel olmaz. Ancak (a) ve (b) bentlerindeki süreler, izin veya rapor müddetinin bitiminde başlar.
-4427
+4426-2 4427

@@ -41,7 +41,7 @@ Gözetim ve denetim hakkı:
 Madde 5 – (Değişik birinci fıkra : 12/2/1989 – KHK-360/2 md.; Aynen Kabul: 24/1/1990 – 3611/2 md.) Yargıtay, bütün adalet mahkemeleri üzerinde, Danıştay, bütün idari mahkemeler üzerinde yargı denetimi ve gözetimi; Yargıtay Cumhuriyet Başsavcısı, Yargıtay Cumhuriyet savcıları üzerinde, Danıştay Başsavcısı, Danıştay savcıları üzerinde, ağır ceza Cumhuriyet başsavcıları, merkezdeki Cumhuriyet savcıları ile bağlı ilçe Cumhuriyet başsavcıları ve Cumhuriyet savcıları üzerinde, gözetim ve denetim hakkına sahiptir.
 –––––––––––––
 (1) 30/3/2011 tarihli ve 6216 sayılı Kanunun 75 inci maddesiyle, bu maddede yeralan “Anayasa Mahkemesi” ibaresi madde metninden çıkarılmıştır.
-(2) 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle bu maddenin birinci fıkrasının (a) bendinin (1) ve (2) numaralı alt bentleri ile (b) bendinin (1) ve (2) numaralı alt bentlerinde bulunan, "Adalet Bakanlığı merkez kuruluşunda" ibareleri "Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarında"şeklinde değiştirilmiş ve metne işlenmiştir.
+(2) 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle bu maddenin birinci fıkrasının (a) bendinin (1) ve (2) numaralı alt bentleri ile (b) bendinin (1) ve (2) numaralı alt bentlerinde bulunan, "Adalet Bakanlığı merkez kuruluşunda" ibareleri "Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarında" şeklinde değiştirilmiş ve metne işlenmiştir.
 5616
 Mahkeme başkanlarının, yargılamanın düzenli bir şekilde yürütülmesine ilişkin olarak görevli oldukları mahkeme dairelerindeki hakimler üzerinde gözetim hakkı vardır.
 Adalet Bakanı, yargı yetkisinin kullanılmasına ilişkin görevler hariç olmak üzere hakim ve savcılar üzerinde gözetim hakkını haizdir.
@@ -422,12 +422,9 @@ Nöbet gün ve saatleri ile nöbet tutanların dinlenme hakları, iş ve kadro d
 Özel kanunlardaki hükümler saklıdır.
 (Mülga son fıkra: 29/6/2006-5536/7 md.)
 Yıllık ara vermeden yararlanma:(1)
-Madde 55 – (Değişik birinci fıkra: 8/8/2011-KHK-650/21 md.) Hâkim ve savcıların adli ara vermeden yararlandırılması esastır.(1)
+Madde 55 – (Değişik birinci fıkra: 8/8/2011-KHK-650/21 md.; İptal fıkra: Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.) (1)
 Yıllık ara vermeden yaralanan hakim ve savcılara o yıl için ayrıca yıllık izin verilmez.
 Yıllık ara vermeden yararlanma koşul ve yöntemleri Hakimler ve Savcılar Yüksek Kurulunca saptanır.
-_______________
-(1) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu maddenin birinci fıkrası iptal edilmiş olup iptal hükmünün, kararın Resmî Gazete’de yayımlandığı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
-5629
 İKİNCİ BÖLÜM
 İzinler
 İzinler:
@@ -435,6 +432,9 @@ Madde 56 – Yıllık ara vermeden yararlanmayan hakim ve savcılara Adalet Baka
 Birbirini izleyen son iki yılın izni bir arada verilebileceği gibi yıllık izinler bölümlere ayrılarak da verilebilir. Daha önceki yıllara ait izin hakları düşer.
 Acil ve zorunlu hallerde, ilgilisine göre ağır ceza Cumhuriyet savcıları veya adalet komisyonu başkanları üç güne kadar mazeret izni verebilirler. Verilen izinler Adalet Bakanlığına bildirilir.
 Hakim ve savcıların; mazeret, hastalık ve aylıksız izinleri hakkında Devlet Memurları Kanunundaki hükümler uygulanır.
+_______________
+(1) Sözkonusu İptal Kararı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
+5629
 İyileşme halinde göreve dönüş:
 Madde 57 – Akıl ve ruh hastalığından iyileştiklerine dair rapor alanlar göreve başladıktan sonra, mesleğin ifasındaki tutum ve davranışları itibariyle görevlerini gerektiği gibi yapamayacakları soruşturma sonunda anlaşıldığı takdirde Adalet Bakanlığınca kesin rapor alınmak üzere Adli Tıp Kurumuna sevkedilir ve alınacak rapora göre işlem yapılır.
 BEŞİNCİ KISIM
@@ -470,7 +470,7 @@ Madde 63 – Uyarma: Görevde daha dikkatli olması gerektiğinin yazı ile bild
 Uyarma cezası :
 a)Görevde kayıtsızlık ve düzensizlik,
 b) Meslektaşlarına, emrindeki personele, görevi nedeniyle muhatap olduğu kişilere veya iş sahiplerine karşı kırıcı davranmak,
-c) Mazeretsiz olarak göreve gaç gelmek ve görevden erken ayrılmak,
+c) Mazeretsiz olarak göreve geç gelmek ve görevden erken ayrılmak,
 d) Kanun, tüzük, yönetmelik karar ve talimatlarda açık olarak belirtilen konularda, işi uzatacak şekilde davranışlarda bulunmak, yazı ve tekitleri zamanında cevaplandırmamak,
 e) Nitelik ve ağırlıkları itibariyle yukarıda belirtilen benzeri eylemlerde bulunmak,
 Hallerinde uygulanır.
@@ -792,9 +792,8 @@ ONBİRİNCİ KISIM
 Çeşitli Hükümler
 İlke kararları:
 Madde 118 – Bu Kanun uyarınca Hakimler ve Savcılar Yüksek Kurulunca alınan ve Resmi Gazete’de yayımlanan ilke kararları, mesleğin özellikleri ve teşkilatın ihtiyaçları göz önünde bulundurularak her yılın Ocak ayında Kurulca yeniden incelenir ve gerekli görülen değişiklikler yapılarak Resmi Gazete’de yayımlanır.
-Meslek içi eğitim:(2)
-Madde 119 – (Değişik: 8/8/2011-KHK-650/22 md.)
-Hâkim ve savcıların hak ve ödevi olan meslek içi eğitimleri Hâkimler ve Savcılar Yüksek Kurulunca yaptırılır. Bu eğitimin usul ve esasları, Türkiye Adalet Akademisinin görüşü alınarak Hâkimler ve Savcılar Yüksek Kurulunca hazırlanan yönetmelikte belirlenir.
+Meslek içi eğitim:
+Madde 119 – (Değişik: 8/8/2011-KHK-650/22 md.; İptal: Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.) (2)
 Uygulanacak hükümler :
 Madde 120 – 2461 sayılı Hakimler ve Savcılar Yüksek Kurulu Kanununun bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 Yönetmelik :
@@ -805,7 +804,7 @@ b) 3 Nisan 1340 tarih ve 461 sayılı Hükkam ve Mensubini Adliyenin Resmi Kisve
 Yürürlükten kaldırılmıştır.
 –––––––––––––
 (1) Bu madde başlığı " Geçici görevlendirme :" iken; 22/12/2005 tarihli ve 5435 sayılı Kanunun 37 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-(2) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu madde iptal edilmiş olup iptal hükmünün, kararın Resmî Gazete’de yayımlandığı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
+(2) Sözkonusu İptal Kararı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
 5642
 Devlet Memurları Kanununun ek geçici 7 ve 8 inci maddeleri, bu Kanun kapsamına girenler hakkında uygulanmaz.
 Ek Madde 1 – (Ek: 27/6/1989 – KHK – 375/21 md.; Mülga: 10/9/1993 – KHK-524/13 md; Yeniden düzenleme: 15/1/2003-4790/4 md.)
