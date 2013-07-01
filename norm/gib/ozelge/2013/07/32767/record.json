@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-130[28-2012/83]-122",
+  "source_id": 32767,
+  "date": "2013-07-01",
+  "title": "Finansal kiralama (leasing) aracılığı ile yapılacak yangın algılama ve söndürme sisteminin KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32767",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "cbc305bb46a07382b5ddc2c386b301663c351b6d9bf5e52b64f86a0fc4fae648",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
