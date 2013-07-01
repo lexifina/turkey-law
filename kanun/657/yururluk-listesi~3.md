@@ -12,6 +12,7 @@ Değiştiren Kanunun/ KHK.’nin Numarası | 657 sayılı Kanunun değişen veya
 6354 | 88 | 12/7/2012
 6338 | 156 | 1/1/2013
 6428 | 68, Geçici Madde 40 | 9/3/2013
-6458 | 36, 152, (I) sayılı cetvel | 11/4/2013
+6458 | 36, 152, (I) sayılı cetvel, | 11/4/2013
 6462 | 53, 100, 101, Ek Madde 39 | 3/5/2013
 6487 | II Sayılı cetvel | 11/6/2013
+Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı | 28 inci maddenin birinci fıkrasının son cümlesi ile ikinci fıkrası | 1/1/2013 tarihinden başlayarak altı ay sonra (1/7/2013)

@@ -4,5 +4,4 @@ Savaş hali ve savaşı gerektirecek durumun başgöstermesi hallerinde subay, a
 ––––––––––––
 (1) 19/6/2010 tarihli ve 6000 sayılı Kanunun 18 inci maddesiyle, bu maddenin birinci fıkrasının son cümlesinde yer alan "hesaplamada" ibaresinden sonra gelmek üzere "personel ve amortisman giderleri hariç," ibaresi eklenmiş ve metne işlenmiştir.
 (2) 22/5/2012 tarihli ve 6318 sayılı Kanunun 49 uncu maddesi ile bu fıkrada yer alan“15 yıllık” ibaresi “10 yıllık”, “iki katı” ibaresi “bir katı” şeklinde değiştirilmiştir.
-(3) 22/5/2012 tarihli ve 6318 sayılı Kanunun 50 nci maddesi ile bu fıkrada yer alan “astsubay” ibarelerinden önce gelmek üzere “subay veya” ibareleri eklenmiştir.
-4426-1
+(3) 22/5/2012 tarihli ve 6318 sayılı Kanunun 50 nci maddesi ile bu fıkrada yer alan “astsubay” ibarelerinden önce gelmek üzere “subay veya” ibareleri eklenmiştir. 4426-1

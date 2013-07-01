@@ -14,3 +14,6 @@ Değiştiren Kanunun/KHK’nin İptal Eden Anayasa Mahkemesi Kararının Numaras
 6217 | 52, 95/A ve İşlenemeyen Hüküm | 14/4/2011
 KHK/650 | 5, 10, 12, 19, 19/A, 19/B, 26, 27, 52, 52/A, 55, 84, 86 85 | 26/8//2011 1/1/2012
 6352 | 8, 24, 60, 61, Geçici Madde 24, 25 | 5/7/2012
+5456-2
+Değiştiren Kanunun/KHK’nin İptal Eden Anayasa Mahkemesi Kararının Numarası | 2575 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı | 5, 19, 19/A, 19/B, 26, 27, 52, 52/A, 55, 84, 86 | 1/1/2013 tarihinden başlayarak altı ay sora (1/7/2013)

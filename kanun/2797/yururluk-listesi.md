@@ -17,3 +17,4 @@ KHK/243 | – | 31/12/1984
 6217 | İşlenemeyen Hüküm | 14/4/2011
 KHK/650 | 30, Geçici Madde 11,12 56 | 26/8/2011 1/1/2012
 KHK/666 | 55 | 31/12/2011 tarihinden geçerli olmak üzere 2/11/2011
+Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı | 56 ncı maddenin dördüncü fıkrası | 1/1/2013 tarihinden başlayarak altı ay sonra (1/7/2013)
