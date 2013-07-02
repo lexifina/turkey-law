@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-019.01-958",
+  "source_id": 21190,
+  "date": "2013-07-02",
+  "title": "Sanat galerisi faaliyetinden elde edilen komisyon gelirinin vergilendirilmesi ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/21190",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "9e38c44e9e082a0e9b8417f7a245e3d3d2b9e441d681f0768856e3d2ee141b8d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
