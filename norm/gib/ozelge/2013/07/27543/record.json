@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.6-956",
+  "source_id": 27543,
+  "date": "2013-07-02",
+  "title": "Türkiyede yapılan sinema filmi, dizi ve belgesel için Amerika Birleşik Devletleri mukimi şirketten alınan dublaja ön hazırlık, dublaj ve miksaj hizmetlerinin vergilendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27543",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "46d608da18013961a2229ba7389cf1b8f979dfd081b33a90e320240053792b9e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
