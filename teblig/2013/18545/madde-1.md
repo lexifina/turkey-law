@@ -1,0 +1,2 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ, 2/10/2012 tarihli ve 28429 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin Tebliğ (Tebliğ No: 2012/15) ile başlatılan ve 10/5/2004 tarihli ve 2004/7305 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İthalatta Korunma Önlemleri Hakkında Karar ve 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği çerçevesinde yürütülen soruşturma sonucunda alınan kararı içermektedir.
