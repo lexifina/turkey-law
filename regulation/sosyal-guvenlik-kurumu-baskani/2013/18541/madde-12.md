@@ -1,0 +1,3 @@
+Eksik bilgi ve belgenin istenmesi
+MADDE 12 – (1) Kurul, gönderilen dosyalarda eksiklik tespit ettiği veya ek bilgi ve belgeye ihtiyaç duyduğu takdirde, yazıyla veya kararla, eksikliğin giderilmesi veya ek bilgi ve belgenin tamamlanması için dosyaları iade eder.
+(2) Kurul, dosya içinde mevcut olan sağlık kurulu raporları ve dayanağı tıbbi belgelerde eksiklik görürse, eksikliklerin tamamlanması için sigortalının veya hak sahibinin, Kurumca yetkilendirilen sağlık hizmeti sunucularından yeniden muayenesini, gerektiğinde yatırılarak müşahede altına alınmasını, bunun sonunda usulüne uygun düzenlenen sağlık kurulu raporu ve tıbbi dayanaklarının temin edilmesini isteyebilir.
