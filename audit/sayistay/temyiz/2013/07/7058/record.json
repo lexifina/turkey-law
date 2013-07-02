@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37476",
+  "decision_date": "2013-07-02",
+  "source_id": 7058,
+  "chamber": "7",
+  "file_number": "37017",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7058/",
+  "source_sha256": "727f398abff81857efbdd58c35401a6c0861df1e8f5c21c23079fcb5311beed0",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
