@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4481",
+  "decision_date": "2013-07-03",
+  "title": "Doğal Gaz Dağıtım Şirketleri İçin Tarife Hesaplama Usul ve Esaslarına ilişkin açıklama",
+  "resmi_gazete_date": "2013-07-14",
+  "resmi_gazete_number": "28707",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZY95XO/oQbU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZY95XO/oQbU="
+  ],
+  "source_sha256": "49aad8b4334483feae00cc0c63b9b4cfd9d3f3ff18067b19118daec0e1daef14",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-07-03",
+  "law_text_complete": false
+}
