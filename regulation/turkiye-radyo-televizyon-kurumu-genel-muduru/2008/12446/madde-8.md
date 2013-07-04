@@ -1,0 +1,4 @@
+Görevlerin yerine getirilmesi
+MADDE 8 – (1) Sözleşmeli personel; görevini yaparken Anayasa, ilgili kanun, tüzük, yönetmelik, genelge ve emirleri bilmekle, iş ilişkilerini hiyerarşik düzen içinde yürütmekle, haber ve program hizmetlerinde görevli ise ayrıca, habercilik, yayıncılık geleneklerine bağlı olarak hizmet yapmakla yükümlüdür.
+(2) Mevzuatta hüküm bulunmaması veya bir talimatın olmaması dolayısıyla görevinin ifasında tereddüde düşen sözleşmeli personel, ilk amirine başvurur. İş, başvurmaya imkân vermeyecek kadar ivedi ise, kendiliğinden gerekli tedbiri almak ve durumu ilk fırsatta amirlerine bildirmek zorundadır. Bu durumda, verilen karar ve uygulama sonuçlarından sorumludur.
+(3) İki veya daha fazla sözleşmeli personelin birlikte görev yapmaları halinde, yetkili ve sorumlu olanı görevi veren amir tayin eder.

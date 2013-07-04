@@ -1,0 +1,3 @@
+Çalışma saatleri ve göreve devam
+MADDE 15 – (1) Sözleşmeli personel, işin ve işyerinin özelliklerine göre, Genel Müdürlükçe tayin ve tespit edilen çalışma saatleri içinde, görevinin başında bulunur. Çalışma süresi haftada 40 saattir. Devam kontrolü ve şekli Genel Müdürlükçe düzenlenir.
+(2) Belirli sürede bitirilmesi gereken işler söz konusu olduğunda, sözleşmeli personel normal çalışma saatleri dışında veya hafta tatili ve resmî tatillerde de çalışmak zorundadır. Bu çalışmaları karşılığında sözleşmeli personele herhangi bir ek ücret ödenmez. Ancak, zorunlu çalışılan hafta sonu tatili ve diğer dinlenme süreleri başka günlerde kullandırılır.

@@ -1,0 +1,2 @@
+Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı
+MADDE 25 – (1) Sözleşmeli personel ticaretle uğraşamaz, ticarî vekillik yapamaz veya kolektif şirketlerde ortak ya da komandit şirketlerde komandite ortak olamaz. Kanun ile izin verilen haller dışında ticaret ve sanayi kuruluşlarında görev alamaz. Sözleşmeli personelin eşi ve çocukları, Kurumun açtığı ihale, eksiltme ve artırmalara katılamazlar.

@@ -1,0 +1,6 @@
+Geçici ve sürekli görev yolluğu
+MADDE 61 – (1) Yurt içinde geçici görevle görev mahalli dışına görevlendirilen sözleşmeli personele ödenecek geçici görev yolluğu ile konaklamaya ilişkin hususlar, 2954 sayılı Kanunun 50 nci maddesinin birinci fıkrasının (j) bendi çerçevesinde Yönetim Kurulu tarafından belirlenir. Söz konusu personelin yurtdışında geçici görevlendirilmesi halinde Bakanlar Kurulunca kararlaştırılan Yurtdışı Gündeliklerine Dair Karar eki Cetvelin Diğer Şekilde Görevlendirilenler bölümünde yer alan aylık/kadro derecesi (1-4) olanlar için belirlenen gündelik ödenir.
+(2) Yurt içinde sürekli görevle başka yere atanan sözleşmeli personele ödenecek yol gideri ve gündelikler, Merkezî Yönetim Bütçe Kanununun (H) cetvelinde belirlenen miktarlar üzerinden 6245 sayılı Kanun hükümlerine göre 4 üncü derece Devlet Memuruna ödenen gündelikler dikkate alınarak hesaplanır.
+(3) Sözleşmeli Personelin yurt içinde geçici görevle görev mahalli dışına görevlendirilmesi halinde, 6245 sayılı Kanunun 33 üncü maddesindeki on günlük sınırlama dikkate alınmaz.
+(4) İlk defa sözleşmeli statüde işe başlayan personele ikamet mahalli ile görev mahalli arasında harcırah ödenmez.
+(5) Diğer hususlarda 10/2/1954 tarihli ve 6245 sayılı Kanun hükümleri uygulanır.

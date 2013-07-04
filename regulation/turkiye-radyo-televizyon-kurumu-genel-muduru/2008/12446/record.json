@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.12446",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE RADYO-TELEVİZYON KURUMUNDA SÖZLEŞMELİ STATÜDE İSTİHDAM EDİLEN PERSONEL YÖNETMELİĞİ",
+  "number": "12446",
+  "issuer": "Türkiye Radyo-Televizyon Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-radyo-televizyon-kurumu-genel-muduru",
+  "path": "regulation/turkiye-radyo-televizyon-kurumu-genel-muduru/2008/12446",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12446&MevzuatTertip=5",
+  "source_sha256": "19ca552ca023831945bdc948750bb00a09425381d0f824ff6d0e743cd6b326f1",
+  "source_bytes": 168006,
+  "published": "2008-09-24",
+  "gazette": "27007",
+  "in_force": "2013-07-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/7/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-07-04",
+      "RG-4/7/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-07-04",
+      "4/7/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-03-05",
+      "R.G-5/3/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-03-05",
+      "5/3/2010",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-09-17",
+      "RG-17/9/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-09-17",
+      "17/9/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4666,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

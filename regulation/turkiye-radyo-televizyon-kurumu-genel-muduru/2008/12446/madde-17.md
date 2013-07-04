@@ -1,0 +1,3 @@
+Devir teslim tutanakları ve ilişik kesme fişi
+MADDE 17 – (1) Nakledilen veya ayrılan sözleşmeli personel, üzerinde bulunan devir ve teslim edilmesi gerekli parayı, para hükmündeki değerleri, araç ve gereçleri ve diğer evrakı, devir teslim tutanağına bağlamak suretiyle devreder.
+(2) Kurumdaki görevleri sona erenlerden nakil ve emeklilik dâhil, ilişik kesme fişi alınır. Bu ilişik kesme fişinde, devir ve teslim tutanağıyla teslim edilenlerin dışında, personelin her türlü istihkaklarından olan alacak ve borçları gösterilerek, tahakkuk birimlerince tahsil edilir. Tahakkuk birimlerince belirtilen tahsilât yapılmadıkça sözleşmeli personelin ilişiği kesilmez.

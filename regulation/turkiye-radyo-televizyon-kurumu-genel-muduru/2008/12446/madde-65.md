@@ -1,0 +1,2 @@
+Hüküm bulunmayan haller
+MADDE 65 – (1) Sözleşmeli personel hakkında bu Yönetmelikte hüküm bulunmayan hallerde, 506 sayılı Sosyal Sigortalar Kanunu, 2954 sayılı Türkiye Radyo ve Televizyon Kanunu ve bu Kanunlar uyarınca çıkarılan diğer mevzuat hükümleri ile 17/2/1991 tarihli ve 20789 sayılı Resmî Gazete’de yayımlanan Türkiye Radyo-Televizyon Kurumu Sözleşmeli Personel Yönetmeliğinin ilgili hükümleri uygulanır.

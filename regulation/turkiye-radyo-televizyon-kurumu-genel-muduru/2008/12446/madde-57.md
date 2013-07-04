@@ -1,0 +1,6 @@
+SEKİZİNCİ BÖLÜM
+Malî Hükümler
+Ücret ve ödeme zamanı
+MADDE 57 – (1) Sözleşmeli olarak çalıştırılacak personele, 657 sayılı Kanunun 4 üncü maddesinin (B) bendine göre çalışanlar için uygulanmakta olan tavan ücretin 4 katını aşmamak üzere, Yönetim Kurulu tarafından pozisyon unvanları itibarıyla belirlenmiş bulunan taban ve tavan ücret oranları arasındaki oranlar üzerinden hesaplanan miktarlarda aylık ücret ödenir. Taban ve tavan oranlar arasındaki aylık ücretin belirlenmesinde; sözleşmeli olarak çalıştırılacak personelin pozisyon unvanı, hizmet süresi, görev yerinin özelliği ve şartları ile eğitim seviyesi dikkate alınır.
+(2) Sözleşmeli personelin ücreti, her ayın onbeşinde peşin olarak, ay içinde göreve başlayanların ücretleri ise gün hesabı ile ay sonunda ödenir. Günlük ücret aylık sözleşme ücreti toplamının 30'a bölünmesi suretiyle hesaplanır.
+(3) 506 sayılı Kanun hükümlerine göre aylık bağlanması, yıllık izin, 10 günü aşmayan mazeret izni, hastalık izni ve ölüm halleri hariç olmak üzere, ay sonundan önce görevden ayrılma halinde sözleşme ücretinin kalan günlere tekabül eden tutarı doğrudan geri alınır. Varsa geçici iş göremezlik ödeneği mahsup edilir. Görev değişimi halinde yeni göreve başlanıldığı tarihten geçerli olmak üzere yeni görevin ücreti ödenir.

@@ -1,0 +1,3 @@
+Yeniden işe alma
+MADDE 30 – (1) Kurumda sözleşmeli personel statüsünde çalışmakta iken, bu Yönetmelik ve sözleşme hükümlerine aykırı davranışı sebebiyle sözleşmesi feshedilenler hariç herhangi bir sebeple ayrılanlar, boş bulunan pozisyon ve hizmet ihtiyacı olması halinde, atanacağı pozisyon için gereken nitelik ve şartları taşımaları kaydıyla yeniden işe alınabilirler.
+(2) Hastalık izin süreleri içinde iyileşemedikleri için sağlık sebebi ile Kurumla ilişkileri kesilmiş olanlardan sonradan hastalıklarının geçtiğini Sağlık Raporu ile belgelendirenler birinci fıkradaki esaslar çerçevesinde yeniden işe alınabilir. Sağlık Raporunun Sosyal Güvenlik Kurumu tarafından kabul edilmesi şarttır.
