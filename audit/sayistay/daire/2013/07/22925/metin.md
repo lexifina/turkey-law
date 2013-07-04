@@ -1,0 +1,3 @@
+Temizlik hizmeti alım işinde işin süresi teknik şartnameye göre 30 gün olmasına karşın fiilen 29 günlük iş yapılması.
+
+4734 Sayılı Kamu İhale Kanunu’nun 21/f maddesine göre pazarlıkla yapılan ve … ……….. A.Ş. yükleniminde bulunan … TL sözleşme bedelli “Ocak Ayı Genel Temizlik Hizmeti Alımı” işinde şartnameye göre işin süresi 30 takvim günü olmasına ve buna göre teklif alınmasına rağmen, fiilen 29 günlük iş yapıldığı, yüklenicinin işçilere 29 gün üzerinden ücret ödediği ancak hakediş bedelinin 30 gün üzerinden ödendiği tespit edilmişse de kamu zararı tutarı olan ..… TL’nin … tarih ve … nolu muhasebe işlem fişi ile tahsil edildiği görüldüğünden konu hakkında ilişik kalmadığına oybirliğiyle,
