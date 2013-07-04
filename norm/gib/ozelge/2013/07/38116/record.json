@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-135-397",
+  "source_id": 38116,
+  "date": "2013-07-04",
+  "title": "(I) Sayılı Listenin (B) Cetvelindeki malların bu listeye dâhil olmayan malların imalinde kullanılarak ithalinde, gümrük idaresine talep ve taahhütnamenin (EK-14) verilip verilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38116",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "7e45545ae55b50ad42b5efd5ce34f6baa6cb5170822b449eb2d2edee50a3ffeb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
