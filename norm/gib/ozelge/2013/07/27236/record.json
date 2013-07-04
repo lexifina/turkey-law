@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "41931384-105[298-2012-16]-25",
+  "source_id": 27236,
+  "date": "2013-07-04",
+  "title": "Enflasyon Düzeltmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27236",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "3b94c314b7d7697d034d55090910cd7b23df7db3aa14b75cd3d6cfc1d4371239",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
