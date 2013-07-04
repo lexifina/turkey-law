@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-ÖTV 12. MADDE-976",
+  "source_id": 38117,
+  "date": "2013-07-04",
+  "title": "L.P.G. satın alma izin belgesi için ibraz edilen işletme belgesine istinaden yapılan yoklamada çalışan sayısının elli kişinin altına düştüğünün tespit edilmiş olması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38117",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "6d3141ab56b42b627ccde781151b2aa6d38282a1d23f007abf0d20bd66fcf1a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
