@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.4491",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE RADYO-TELEVİZYON KURUMU İŞÇİ SAYILMAYAN GEÇİCİ PERSONEL ÇALIŞTIRILMASINA İLİŞKİN YÖNETMELİK",
+  "number": "4491",
+  "issuer": "Türkiye Radyo-Televizyon Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-radyo-televizyon-kurumu-genel-muduru",
+  "path": "regulation/turkiye-radyo-televizyon-kurumu-genel-muduru/2001/4491",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4491&MevzuatTertip=5",
+  "source_sha256": "d1b25789ef69bc2b2a762823de4fd9763fae1e279c28d614aae19d450a03b2f9",
+  "source_bytes": 62209,
+  "published": "2001-04-27",
+  "gazette": "24385",
+  "in_force": "2013-07-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/7/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-07-04",
+      "RG-4/7/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-07-04",
+      "4/7/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2007-02-17",
+      "RG-17/02/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-02-17",
+      "17/2/2007",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2003-08-21",
+      "RG-21/08/2003",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2003-08-21",
+      "21/8/2003",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 831,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
