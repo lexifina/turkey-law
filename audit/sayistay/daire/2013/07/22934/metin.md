@@ -1,0 +1,3 @@
+Bilimsel inceleme ve araştırma yapmak üzere Macaristan’da görevlendirilen personele ödenecek tutarın belirlenmesinde esas alınacak masrafların hatalı hesaplanması.
+
+ “Öğretim Üyesi ve Araştırmacı Yetiştirilmesi Amacıyla Yurtdışına Gönderilecek Öğretim Elemanlarına Sağlanacak Destek” kapsamında bilimsel inceleme ve araştırma yapmak amacıyla ……….. için görevli bulunduğu ….. Üniversitesi’ne 4.740-Euro karşılığı …… TL gönderilmesi gerekli iken 6.610 Euro karşılığı …… TL gönderilmesi sonucu ….. TL kamu zararına sebebiyet verilmişse de, …… TL’nin ……….. yılı içinde tahsil edildiği anlaşıldığından ilişilecek bir husus bulunmadığına oybirliğiyle,
