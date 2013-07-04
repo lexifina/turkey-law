@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35125",
+  "decision_date": "2013-07-04",
+  "source_id": 22929,
+  "chamber": "2",
+  "ilam_number": "103",
+  "item_number": 6,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22929/",
+  "source_sha256": "7039b4d3d314d5e711fac1492e8fee4b58539efe2a34aa206c3f2703d559c60b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
