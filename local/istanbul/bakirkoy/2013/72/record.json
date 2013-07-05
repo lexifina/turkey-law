@@ -1,0 +1,23 @@
+{
+  "number": "72",
+  "number_as_published": "72",
+  "year": 2013,
+  "title": "council decision",
+  "decision_date": "2013-07-05",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/68",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/72-yesilkoy-349-ada-7-parsel-05072013.pdf",
+  "source_sha256": "9c2a121b23aaf41b8a7457ca43f1586212c3fd78acb1120c78bc29ef822987b1",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2013-07-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 Temmuz 2013 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
