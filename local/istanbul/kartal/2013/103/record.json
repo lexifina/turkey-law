@@ -1,0 +1,21 @@
+{
+  "number": "103",
+  "number_as_published": "2013/103",
+  "year": 2013,
+  "title": "Kartal- Soğanlık, 140/2 pafta 8364 ada 2 parsel, 5688 ada, 9 parsel",
+  "decision_date": "2013-07-05",
+  "source": "https://e-belediye.kartal.bel.tr/BilgiSorgulama/MeclisKarar",
+  "official_document": "https://yonsis.kartal.bel.tr/Dokumanlar/KurumsalSite/Upload/Document/MeclisKarar/05.07.2013_103_63508895985074.docx",
+  "source_sha256": "f9eb3542d7179e66d6faf68447ef65f901db1a091b5db1a1fcd66648bdf9352a",
+  "issuer": "Kartal Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2013-07-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.07.2013; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
