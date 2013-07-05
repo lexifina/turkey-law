@@ -1,0 +1,3 @@
+Eğitim konuları
+MADDE 8 – (1) Eğitimlerin içerikleri, hijyen ilkelerine uyulmaması sebebiyle halk sağlığı açısından risk oluşturduğu bilinen virüslerin, bakterilerin, parazitlerin, mantarların ve diğer enfeksiyon etkenlerinin genel özelliklerini, bulaşma yollarını, hangi iş kolunda nasıl bulaşmalar olabileceğini veya halk sağlığının nasıl tehdit göreceğini, hastalık belirtilerini ve korunma yollarını ihtiva edecek şekilde komisyonca belirlenir.
+(2) Eğitimlerin içeriğinde, iş kolunun özelliğine göre hijyen ve temizlik ilkeleri ile komisyonca bilgi verilmesinde fayda görülen başka etkenler ve konular da yer alır.

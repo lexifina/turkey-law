@@ -1,0 +1,2 @@
+Denetim ve müeyyideler
+MADDE 11 – (1) Her iş kolunun izin, onay, kayıt, ruhsatlandırma ve benzeri hizmetlerini yürüten Bakanlık veya mahalli idare, bu Yönetmelikte belirtilen iş yerlerinin, 5 inci, 9 uncu ve 10 uncu maddelerde belirtilen yükümlülükleri yerine getirip getirmediğini denetler. Bu maddelerde belirtilen yükümlülükleri yerine getirmeyenler hakkında, durumu bu maddelere uygun bulunmayan çalışanların her biri ayrı ayrı aykırılıklar olarak değerlendirilir ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 282 nci maddesine göre işlem yapılır.
