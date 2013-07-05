@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-07-05",
+  "issue": "28698",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İzmir Kâtip Çelebi Üniversitesi Deneysel ve Klinik Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130705-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130705.htm",
+  "index_sha256": "5996f0276d1825fdcd957fdcd58d2d8f316bee8f8a7985c74890d69dd809f8c8",
+  "index_header": "5 Temmuz 2013 ... 28698 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130705.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
