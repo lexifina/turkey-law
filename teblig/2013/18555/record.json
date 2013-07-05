@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.18555",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 428)",
+  "number": "18555",
+  "path": "teblig/2013/18555",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18555&MevzuatTertip=5",
+  "source_sha256": "b7a4067982e6ce954efdbe6273dcde101963d84cfbd6485809a9b4f900fdd469",
+  "source_bytes": 11818,
+  "published": "2013-07-05",
+  "gazette": "28698",
+  "in_force": "2013-07-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.07.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 628,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
