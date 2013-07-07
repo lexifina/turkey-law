@@ -15,5 +15,6 @@ KHK/650 | 85, 94, 116 | 26/8/2011
 6459 | Geçici Madde 5 | 30/4/2013
 6462 | 16, 105/A | 3/5/2013
 Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı | 85 inci maddenin başlığı ve birinci fıkrası | 1/1/2013 tarihinden başlayarak altı ay sonra (1/7/2013)
+6494 | 85, 116 | 7/7/2013
 ______________________
 (1) Bu bentte yer alan "1 Nisan 2005“ ibaresi, 31/3/2005 tarihli ve 5328 sayılı Kanunun Geçici 1 inci maddesiyle "1 Haziran 2005“ şeklinde değiştirilmiş ve metne işlenmiştir.

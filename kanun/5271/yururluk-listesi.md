@@ -15,3 +15,4 @@ KHK/650 | 331 | 1/1/2012
 6411 | 202 ve Geçici Madde 1 | 31/1/2013
 6459 | 105, 108, 141, 144, 172, 270, Geçici Madde 2 | 30/4/2013
 Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı | 331 inci maddenin birinci fıkrası | 1/1/2013 tarihinden başlayarak altı ay sonra (1/7/2013)
+6494 | 331 | 7/7/2013

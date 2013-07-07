@@ -9,6 +9,7 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 5838 | 5, Geçici Madde 14 93, 97, 100 102 ve Ek Madde 1 | 1/10/2008 tarihinden geçerli olmak üzere 28/2/2009 28/2/2009 1/8/2009
 5917 | 68, 100, 102 | 10/7/2009
 9880
+Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5510 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 5921 | Ek Madde 2 | 18/8/2009
 5951 | Geçici Madde 26 | 1/1/2010 tarihinden geçerli olmak üzere 5/2/2010
 5947 | 73 Ek Madde 3 | 30/1/2011 30/8/2010
@@ -16,6 +17,7 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 6009 | Ek Madde 4 | 15/1/2010 tarihinden geçerli olmak üzere 1/8/2010
 6111 | (1) Bu Kanunun; a) Aşağıdaki alt bentlerde belirtilen hükümleri 1/10/2008 tarihinden geçerli olmak üzere 1) 24 üncü maddesiyle değiştirilen 5510 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (g) bendinin sonuna eklenen cümle, 2) 25 inci maddesiyle değiştirilen 5510 sayılı Kanunun 6 ncı maddesinin birinci fıkrasının (ı) bendinde “belgeleyenler ile 65 yaşını dolduranlardan talepte bulunanlar,” şeklindeki ibare değişikliği, 3) 36 ncı maddesiyle 5510 sayılı Kanunun 67 nci maddesinin dördüncü fıkrasının ikinci cümlesinden çıkarılan ibare, 4) 27 nci, 28 inci, 37 nci, 43 üncü, 46 ncı ve 5510 sayılı Kanunun geçici 12 nci maddesinin sekizinci fıkrasına eklenen cümle hariç 49 uncu maddeleri, 5) 52 nci maddesiyle 5510 sayılı Kanuna eklenen geçici 30 uncu maddesi, b) 23 üncü maddesi, 5510 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (g) bendinin sonuna eklenen cümle hariç 24 üncü maddesi, 26 ncı, 31 inci, 33 üncü, 34 üncü, 35 inci, 38 inci, 39 uncu, 41 inci ve 42 nci maddeleri ile 52 nci maddesiyle 5510 sayılı Kanuna eklenen geçici 32 nci maddesi c) 52 nci maddesiyle 5510 sayılı Kanuna eklenen geçici 34 üncü maddesi, 92 nci maddesi, 117 nci maddesinin birinci fıkrasının (g) bendi, 118 inci ve 122 nci maddeleri | 25/2/2011 tarihinde; 25/2/2011 tarihini takip eden ayın birinci gününde, 1/1/2011 tarihinden geçerli olmak üzere 25/2/2011 tarihinde,
 9880-1
+Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5510 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi | 
  | ç) 5510 sayılı Kanunun 6 ncı maddesinin birinci fıkrasının (ı) bendine eklenen “belgeleyenler ile 65 yaşını dolduranlardan talepte bulunanlar,” ibaresi hariç 25 inci maddesi, 45 inci maddesi ile 5510 sayılı Kanunun 102 nci maddesine eklenen (l) bendi, 51 inci maddesi ile 5510 sayılı Kanuna eklenen ek 5 inci ve ek 6 ncı maddeleri, 52 nci maddesi ile 5510 sayılı Kanuna eklenen geçici 29 uncu maddesi d) 5510 sayılı Kanunun yukarıda sayılan hükümlere girmeyen maddeleri ile 18, 41, 51, 67, 96, 102, Geçici Madde 4, 7, 12, 28, 31, 33, 35, 36 | 1/3/2011 tarihinde, 25/2/2011 tarihinde, | 
 6191 | 40, 47, 49 | 22/3/2011 | 
 KHK/665 | 4, 5 | 2/11/2011 | 
@@ -25,6 +27,9 @@ KHK/666 | 80, Geçici Madde 4 | 15/1/2012 |
 6322 | Ek Madde 2, Geçici Madde 41 | 15/6/2012
 6353 | 6, 41, 47, 69, 73, Geçici Madde 4, 14,18, 42, 43, 44 | 12/7/2012
 6385 | 40 67 73, Geçici Madde 38, 45, 46, 47, 48 | 2008 yılı Ekim ayı başından geçerli olmak üzere 19/1/2013 1/6/2012 tarihinden geçerli olmak üzere 19/1/2013 19/1/2013
+9880-2
+Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5510 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 6458 | 3, 60, 61 | 11/4/2013
 6462 | 13, 14, 15, 19, 25, 28, Geçici Madde 4, 10, 37, 39 | 3/5/2013
 6486 | 60, 61, 72, 73, Geçici Madde 49, Geçici Madde 50 81/i 81/2-4-5 | 29/5/2013 1/6/2013 1/1/2013 tarihinden geçerli olmak üzere 29/5/2013
+6494 | 60 | 7/7/2013

@@ -7,4 +7,5 @@ KHK/650 | 102 | 1/1/2012
 6460 | 373, İşlenemeyen hükümler | 30/4/2013
 6462 | 172, 235, 259 | 3/5/2013
 6325 | 137, 140, 320 | 22/6/2013
-Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı | 102 | 1/1/2013 tarihinden başlayarak altı ay sora (1/7/2013)
+Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı | 102 | 1/1/2013 tarihinden başlayarak altı ay sonra (1/7/2013)
+6494 | 102 | 7/7/2013
