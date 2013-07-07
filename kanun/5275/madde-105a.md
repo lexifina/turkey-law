@@ -5,18 +5,19 @@ a) Açık ceza infaz kurumunda cezasının son altı ayını kesintisiz olarak g
 b) Çocuk eğitimevinde toplam cezasının beşte birini tamamlayan,
 koşullu salıverilmesine bir yıl veya daha az süre kalan iyi hâlli hükümlülerin talebi hâlinde, cezalarının koşullu salıverilme tarihine kadar olan kısmının denetimli serbestlik tedbiri uygulanmak suretiyle infazına, ceza infaz kurumu idaresince hükümlü hakkında hazırlanan değerlendirme raporu dikkate alınarak, infaz hâkimi tarafından karar verilebilir.
 (2) Açık ceza infaz kurumuna ayrılma şartları oluşmasına karşın, iradesi dışındaki bir nedenle açık ceza infaz kurumuna ayrılamayan veya bu nedenle kapalı ceza infaz kurumuna geri gönderilen iyi hâlli hükümlüler, açık ceza infaz kurumuna ayrılma şartlarının oluşmasından itibaren en az altı aylık sürenin geçmiş olması durumunda, diğer şartları da taşımaları hâlinde, birinci fıkrada düzenlenen infaz usulünden yararlanabilirler.
-(3) Yukarıdaki fıkralarda düzenlenen infaz usulünden;
+(3) Yukarıdaki fıkralarda düzenlenen infaz usulünden; (1)
 a) Sıfır-altı yaş grubunda çocuğu bulunan ve koşullu salıverilmesine iki yıl veya daha az süre kalan kadın hükümlüler,
 b) Maruz kaldıkları ağır bir hastalık, engellilik veya kocama nedeniyle hayatlarını yalnız idame ettiremeyen ve koşullu salıverilmesine üç yıl veya daha az süre kalan hükümlüler,
-diğer şartları da taşımaları hâlinde yararlanabilirler. Ağır hastalık, engellilik veya kocama hâli, Adlî Tıp Kurumundan alınan veya Adalet Bakanlığınca belirlenen tam teşekküllü hastanelerin sağlık kurullarınca düzenlenip Adlî Tıp Kurumunca onaylanan bir raporla belgelendirilmelidir.(1)
+diğer şartları da taşımaları hâlinde yararlanabilirler. Ağır hastalık, engellilik veya kocama hâli, Adlî Tıp Kurumundan alınan veya Adalet Bakanlığınca belirlenen tam teşekküllü hastanelerin sağlık kurullarınca düzenlenip Adlî Tıp Kurumunca onaylanan bir raporla belgelendirilmelidir.
 (4) Adli para cezasının ödenmemesi nedeniyle, cezası hapse çevrilen hükümlülerin yukarıdaki fıkralardaki infaz usulünden yararlanmalarında, hak ederek tahliye tarihi esas alınır.
 (5) Denetimli serbestlik tedbiri uygulanmak suretiyle cezasının infazına karar verilen hükümlünün, koşullu salıverilme tarihine kadar;
 a) Kamuya yararlı bir işte ücretsiz olarak çalıştırılması,
 b) Bir konut veya bölgede denetim ve gözetim altında bulundurulması,
 c) Belirlenen yer veya bölgelere gitmemesi,
 d) Belirlenen programlara katılması,
-__________________
-(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “sakatlık” ibareleri “engellilik” olarak değiştirilmiştir. 9250-1
+–––––––––––––––––
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık” ibareleri “engellilik” şeklinde değiştirilmiştir.
+9250-1
 yükümlülüklerinden bir veya birden fazlasına tabi tutulmasına, denetimli serbestlik müdürlüğünce karar verilir. Hükümlünün risk ve ihtiyaçları dikkate alınarak yükümlülükleri değiştirilebilir.
 (6) Hükümlünün;
 a) Ceza infaz kurumundan ayrıldıktan sonra, talebinde belirttiği denetimli serbestlik müdürlüğüne üç gün içinde müracaat etmemesi,

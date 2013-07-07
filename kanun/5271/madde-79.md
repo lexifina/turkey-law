@@ -1544,14 +1544,12 @@ Madde 330 – (1) Kanun yollarından birine başvuran taraf, bu başvurusunu ger
 İKİNCİ KISIM
 Çeşitli Hükümler
 Adlî tatil
-Madde 331 – (1) (Değişik: 8/8/2011-KHK-650/27 md.; İptal: Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.) (1)
+Madde 331 – (1) (Değişik: 8/8/2011-KHK-650/27 md.; İptal: Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013-6494/25 md.) Ceza işlerini gören makam ve mahkemeler her yıl bir eylülde başlamak üzere, yirmi temmuzdan otuz bir ağustosa kadar çalışmaya ara verirler.
 (2) Soruşturma ile tutuklu işlere ilişkin kovuşturmaların ve ivedi sayılacak diğer hususların tatil süresi içinde ne suretle yerine getirileceği, Hâkimler ve Savcılar Yüksek Kurulunca belirlenir.
 (3) Tatil süresince bölge adliye mahkemeleri ile Yargıtay, yalnız tutuklu hükümlere ilişkin veya Meşhud Suçların Muhakeme Usulü Kanunu gereğince görülen işlerin incelemelerini yapar.
 (4) Adlî tatile rastlayan süreler işlemez. Bu süreler tatilin bittiği günden itibaren üç gün uzatılmış sayılır.
 Bilgi isteme
 Madde 332 – (1) Suçların soruşturma ve kovuşturması sırasında Cumhuriyet savcısı, hâkim veya mahkeme tarafından yazılı olarak istenilen bilgilere on gün içinde cevap verilmesi zorunludur. Eğer bu süre içinde istenen bilgilerin verilmesi imkânsız ise, sebebi ve en geç hangi tarihte cevap verilebileceği aynı süre içinde bildirilir.
-______________
-(1) Sözkonusu İptal Kararı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
 9185
 (2) Bilgi istenen yazıda yukarıdaki fıkra hükmü ile buna aykırı hareket etmenin Türk Ceza Kanununun 257 nci maddesine aykırılık oluşturabileceği yazılır. Bu durumda haklarında kamu davasının açılması, izin veya karar alınmasına bağlı bulunan kişiler hakkında, yasama dokunulmazlığı saklı kalmak üzere, doğrudan soruşturma yapılır.
 Yönetmelik

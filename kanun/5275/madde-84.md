@@ -3,4 +3,3 @@ Madde 84- (1) Yabancı hükümlülerin, vatandaşı olduğu devletin diplomatik 
 9245
 (2) Diplomatik temsilciliği veya konsolosluğu bulunmayan devletler vatandaşlığındaki hükümlüler ile mülteci veya vatansız olan hükümlülerin, yararlarını koruyan devletin diplomatik temsilciliği veya bu gibi kimseleri koruma görevini üstlenmiş ulusal veya uluslararası kuruluşlarla görüştürülmelerinde yukarıdaki fıkra hükmü uygulanır.
 (3) 83 üncü madde hükümleri saklıdır.
-(…) (1)

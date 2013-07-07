@@ -480,10 +480,10 @@ hakkındaki hükümlere tabidir. Ek göstergelere ilişkin olarak birinci sını
 10733
 (7) Boşalan bir üst kadroya atanmada aynı derecede yeterli olanlar birden fazla ise; disiplin cezası almamış bulunmak, mesleki inceleme ve yayınlarda bulunmuş olmak ve kıdem tercih sebepleri sayılır. Tercih sebepleri yoksa yapılacak sınavda üstün başarı gösterenler yükseltilir.
 (8) (Mülga: 11/10/2011-KHK-666/1 md.)
-İzin ve çalışmaya ara verme(1)
+İzin ve çalışmaya ara verme
 MADDE 64 – (1) Daire başkanları ve üyelerin izin ve geçici görevleri Sayıştay Başkanının onayıyla olur. Sayıştay Başkanının izin ve geçici görevleri kendi takdirine göre uygulanır.
 (2) Daire başkanları ve üyeler dışında kalan Sayıştay meslek mensuplarının izinleri hakkında 657 sayılı Kanunun ilgili hükümleri uygulanır.
-(3) (Değişik birinci cümle: 8/8/2011-KHK-650/31 md.; İptal cümle: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.)(…) (1) Bu müddet içinde Rapor Değerlendirme Kurulu ile Sayıştaya gelecek ivedi işlere bakmak ve gereken kararları vermek üzere sıra ile bir daire çalışmaya devam eder.
+(3) (Değişik birinci cümle: 8/8/2011-KHK-650/31 md.; İptal cümle: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013-6494/29 md.) Sayıştay Genel Kurulu, Temyiz Kurulu, Daireler Kurulu ve daireleri her yıl bir eylülde başlamak üzere, yirmi temmuzdan otuz bir ağustosa kadar çalışmaya ara verirler. Bu müddet içinde Rapor Değerlendirme Kurulu ile Sayıştaya gelecek ivedi işlere bakmak ve gereken kararları vermek üzere sıra ile bir daire çalışmaya devam eder.
 (4) 66 ncı madde hükmü saklı kalmak üzere çalışmaya ara verme süresince Daireler Kuruluna ilişkin görevlerden gecikmesinde sakınca görülenler görevli daire tarafından yerine getirilir.
 (5) Sayıştay Başkanı çalışmaya ara verme süresi içinde daire ve kurulları toplantıya çağırabilir.
 (6) Çalışmaya ara verme süresi içinde görevli olan daire başkanları ve üyeler, takip eden yılın sonuna kadar aynı müddetle izinlerini kullanabilir.
@@ -493,8 +493,6 @@ Sayıştay Başkanı, daire başkanları ve üyeler hakkında disiplin kovuştur
 MADDE 65 – (1) Daire başkanları ve üyelerin görevlerinin vakar ve şerefi ile bağdaşmayan veya hizmetin aksamasını mucip olan hal ve hareketleri görülür veya öğrenilirse, Sayıştay Başkanı durumu inceledikten sonra sonucuna göre, haklarında disiplin kovuşturması yapılır.
 (2) Sayıştay Başkanının yukarıda yazılı hal ve hareketlerinin görülmesi veya öğrenilmesi halinde, Yüksek Disiplin Kurulu Başkanı, olayı Yüksek Disiplin Kuruluna intikal ettirir.
 (3) Yüksek Disiplin Kurulu, eldeki bilgi ve delillere ve isnat olunan hal ve hareketin mahiyetine göre disiplin kovuşturması yapılmasına yer olup olmadığını takdir eder. Kurul, disiplin kovuşturması yapılmasına karar verirse, Kurul dışındaki daire başkanları ve üyeler arasından seçeceği üç kişiyi soruşturma yapmakla görevlendirir.
-______________
-(1) Sözkonusu İptal Kararı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
 10734
 (4) Soruşturmayı yapmakla görevlendirilenler, ilgiliye isnat olunan hal ve hareketi bildirir; lüzum gördükleri kimseleri yeminle dinler, konu ile ilgili bilgileri toplar ve sübut delillerini tespit eder. Bütün kamu idareleri ile gerçek ve tüzel kişiler, sorulan hususlara cevap vermek ve soruşturmaya ilişkin diğer istekleri yerine getirmek zorundadır. Soruşturmayı yapanlar, yaptıkları soruşturmaları ve elde ettikleri bilgi ve delilleri gösteren ve bunlara göre disiplin cezaları verilmesine yer olup olmadığı hakkındaki kanaatlerini belirten bir rapor hazırlayıp dayanak belgelerini de bu rapora ekleyerek Yüksek Disiplin Kuruluna verirler.
 (5) Kurul Başkanı soruşturma sonucunu ilgiliye yazılı olarak bildirir ve yedi günden az olmamak üzere tayin edeceği süre içinde yazılı savunmasını vermeye davet eder. Kurul Başkanı, soruşturma dosyasını raportör olarak Yüksek Disiplin Kurulu üyelerinden birine havale eder. Kurul işi evrak üzerinde inceler ve gerekirse soruşturmanın genişletilmesine ve derinleştirilmesine karar verir.

@@ -8,4 +8,5 @@ d) Soybağına ilişkin sonuçlar doğuran davalar hariç olmak üzere, nüfus k
 e) Yargı çevresi içindeki ilk derece mahkemeleri hâkimlerinin davayı görmeye hukuki veya fiilî engellerinin çıkması hâlinde, davanın o yargı çevresi içindeki başka bir mahkemeye nakline ilişkin kararlar.
 f) Geçici hukuki korumalar hakkında verilen kararlar.
 (2) Birinci fıkranın (a) bendindeki kararlarda alacağın bir kısmının dava edilmiş olması durumunda, yirmibeşbin Türk Liralık kesinlik sınırı alacağın tamamına göre belirlenir. Alacağın tamamının dava edilmiş olması hâlinde, kararda asıl talebinin kabul edilmeyen bölümü yirmibeşbin Türk Lirasını geçmeyen tarafın temyiz hakkı yoktur. Ancak, karşı taraf temyiz yoluna başvurduğu takdirde, diğer taraf da düzenleyeceği cevap dilekçesiyle kararı temyiz edebilir.
-10942
+_______________
+(*)Bu bölümün uygulanması ile ilgili olarak GEÇİCİ MADDE 3 aşağıdadır:
