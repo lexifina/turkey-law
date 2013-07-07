@@ -7,21 +7,22 @@ Madde 10 – 1.Danıştay Başkanı, Başsavcısı, başkanvekilleri ve daire ba
 2. Danıştay Başkanı ve Başsavcısı seçilebilmek için dört yıl, başkanvekili ve daire başkanı seçilebilmek için üç yıl süre ile Danıştay üyeliği yapmış olmak zorunludur.(1)(2)
 3. (Mülga: 22/3/1990 - 3619/12 md.)
 4. Danıştay Başkanı, Başsavcısı, başkanvekilleri ve daire başkanlarının görev süreleri dört yıldır. Süresi bitenler yeniden seçilebilirler, yeniden seçilemeyenler ile seçime girmeyenler veya süreleri dolmadan bu görevlerden çekilenler Danıştay üyeliği görevlerine devam ederler.
-5. Seçim, görev sürelerinin biteceği tarihten onbeş gün önce veya diğer sebeplerle boşalma tarihinden itibaren onbeş gün içinde yapılır. Çalışmaya ara verme süresi bu sürenin hesabında nazara alınmaz.
+5. Seçim, görev sürelerinin biteceği tarihten onbeş gün önce veya diğer sebeplerle boşalma tarihinden itibaren onbeş gün içinde yapılır.Çalışmaya ara verme süresi bu sürenin hesabında nazara alınmaz.
 6. Seçime katılmak isteyenler seçim gününden önce Danıştay Başkanlığına yazı ile başvurabilecekleri gibi, toplantıda oylamaya başlanmadan önce sözlü olarak da istekte bulunabilirler veya teklif edilebilirler.
 7. Seçim gizli oyla yapılır. İlk üç oylamada sonuç alınamazsa, seçim üçüncü oylamada en çok oy alan iki aday arasında yapılır. Dördüncü oylamada bu çoğunluk sağlanamazsa seçim, yeniden aday gösterilerek tekrarlanır. Şu kadar ki, bundan sonraki üç oylamada sonuç alınamazsa dördüncü oylamada en çok oy alan seçilmiş sayılır.
 8. (Mülga: 9/2/2011-6110/14 md.)
 Danıştay Tetkik Hakimi ve Savcılarının atanmaları ve dairelere verilmeleri
 Madde 11 – 1. Danıştay tetkik hakimleri ile savcıları, beş yıl meslekte hizmet etmiş ve olumlu sicil almış idari yargı hakimleri arasından Hakimler ve Savcılar Yüksek Kurulunca atanırlar.
-2. Danıştay tetkik hakimlerinin görev yerleri, Başkanlık Kurulu tarafından belirlenir. Görev yerleri, aynı usulle değiştirilir. İdari bakımdan zaruret olmadıkça bir sicil devresi geçmeden görev yerleri değiştirilemez. Sicil devresi en az altı aydır.
+2. Danıştay tetkik hakimlerinin görev yerleri, Başkanlar Kurulu tarafından belirlenir. Görev yerleri, aynı usulle değiştirilir. İdari bakımdan zaruret olmadıkça bir sicil devresi geçmeden görev yerleri değiştirilemez. Sicil devresi en az altı aydır.(2)
 3. Tetkik hakimlerinin görev yaptıkları kurul ve daireler, yönetmelikte belirlenecek esas ve sürelere göre değiştirilir.
-Memurların nitelikleri, atanmaları, istihdamı, nakilleri ve görevlendirilmeleri (2)
+Memurların nitelikleri, atanmaları, istihdamı, nakilleri ve görevlendirilmeleri (3)
 Madde 12 – (Değişik: 8/8/2011-KHK-650/6 md.)
 1. Genel Sekreterliğe bağlı olarak faaliyet gösteren idarî hizmet birimleri ile Daireler, Kurullar ve Başsavcılığa bağlı olarak faaliyet gösteren ve kalem hizmetlerini yürüten birimlerde çalışacak memurların, 657 sayılı Devlet Memurları Kanununda belirtilen nitelikleri haiz olmaları gerekir.
 2. Birinci fıkrada belirtilen memurlar naklen veya açıktan atama yoluyla atanır. Açıktan ilk defa Devlet memurluğuna atanacaklar, Devlet memurluğuna giriş için yapılan merkezi sınava girmiş olanlar arasından, Genel Sekreterin görevlendireceği genel sekreter yardımcısının başkanlığında, iki tetkik hâkiminden oluşturulan üç kişilik komisyon tarafından düzenlenecek sözlü ve gerektiğinde uygulamalı sınav sonucuna göre Genel Sekreterin teklifi üzerine Danıştay Başkanınca atanırlar.
 –––––––––––
 (1) 8/8/2011 tarihli ve 650 sayılı KHK’nin 5 inci maddesiyle, bu maddede yer alan “sekiz yıl” ibaresi “dört yıl”, “altı yıl” ibaresi “üç yıl” olarak değiştirilmiş ve metne işlenmiştir.
-(2) Bu madde başlığı “Memurların nitelikleri ve atanmaları” iken, 8/8/2011 tarihli ve 650 sayılı KHK’nin 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(2) 27/6/2013 tarihli ve 6494 sayılı Kanunun 6 ncı maddesiyle, bu fıkrada yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiştir.
+(3) Bu madde başlığı “Memurların nitelikleri ve atanmaları” iken, 8/8/2011 tarihli ve 650 sayılı KHK’nin 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
 5440
 3. Danıştayda çalışan Devlet Memurları Kanununa tabi personel, Genel Sekreterin teklifi ve Başkanın uygun görmesi üzerine, Adalet Bakanlığınca mükteseplerine uygun olarak, açıktan atama iznine tabi olmaksızın, Bakanlığın taşra kadrolarına atanabilirler.
 4. Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle düzenlenir.
@@ -34,15 +35,17 @@ Madde 13 – 1. (Değişik: 9/2/2011-6110/1 md.) Danıştay; ondördü dava, bir
 4. Her dairede, ayrıca bir yazı işleri müdürünün yönetimi altında bir kalem bulunur. Kalem, yazı ve tebliğ işlerini yürütür.
 Başkan ve üyelerin dairelere ayrılmaları
 Madde 14 – 1. Daire başkanları belirli bir dairenin başkanı olarak seçilirler.
-2. Üyeler, Başkanlık Kurulunun kararı ile dairelere ayrılırlar ve hizmetin icaplarına göre, daireleri aynı usulle değiştirilebilir.
+2. Üyeler, Başkanlar Kurulunun kararı ile dairelere ayrılırlar ve hizmetin icaplarına göre, daireleri aynı usulle değiştirilebilir.(1)
 3. Danıştay dava dairelerinde görev yapacak üyelerin yükseköğrenimlerini, hukuk veya hukuk bilgisine programlarında yer veren siyasal bilimler, idari bilimler, iktisat ve maliye alanlarında yapmış olmaları gereklidir.
-4. Dairelerde vukubulacak noksanlıklar, diğer dairelerden üye alınmak suretiyle tamamlanır.Bu üyeler Başkanlık Kurulunun kararı ile önceden tespit edilir.
+4. Dairelerde vukubulacak noksanlıklar, diğer dairelerden üye alınmak suretiyle tamamlanır.Bu üyeler Başkanlar Kurulunun kararı ile önceden tespit edilir.(1)
 Danıştay genel kurulu
 Madde 15 – 1. Danıştay Genel Kurulu, Danıştay Başkanı, Başsavcı, başkanvekilleri, daire başkanları ve üyeler ile Genel Sekreterden oluşur.
 2. Genel Kurulun toplanma ve görüşme yeter sayısı Başkan ve üyeler tam sayısının yarısından fazlasıdır.
 3.Kararlar çoğunlukla verilir. Oylarda eşitlik halinde, Başkanın bulunduğu taraf çoğunluğu sağlanmış sayılır. Genel Kurulun toplantı yeter sayısına ilişkin özel hükümler saklıdır.
 İdari işler kurulu
 Madde 16 – 1.(Değişik: 2/6/2004 – 5183/2 md.) İdari İşler Kurulu, idari daire başkan ve üyeleri ile her takvim yılı başında Genel Kurulca her dava dairesinden seçilecek bir başkan veya üyeden oluşur. Kurulun seçimle belirlenen üyeliklerinde boşalma olması halinde Genel Kurulca otuz gün içinde seçim yapılır.
+_____________
+(1) 27/6/2013 tarihli ve 6494 sayılı Kanunun 7 nci maddesiyle, bu fıkrada yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiştir.
 5440-1
 2. Bu Kurula Danıştay Başkanı veya başkanvekillerinden biri başkanlık eder.
 3. Toplanma ve görüşme yeter sayısı onbeştir.
@@ -65,19 +68,28 @@ Madde 18 – 1. İçtihatları Birleştirme Kurulu, Danıştay Başkanı, Başsa
 ________________________
 (1) Bu madde başlığı “İdari ve vergi dava daireleri genel kurulları” iken, 2/6/2004 tarihli ve 5183 sayılı Kanunun 3 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 5440-2
-(…) (1)
+Başkanlar Kurulu (1)
 Madde 19 – (Değişik: 22/3/1990 - 3619/2 md.)
-1 – (…), Danıştay Başkanının başkanlığında Başsavcı, başkanvekilleri ve daire başkanlarından oluşur.
+1 –( Yeniden düzenleme: 27/6/2013 – 6494/8 md.) Başkanlar Kurulu, Danıştay Başkanının başkanlığında Başsavcı, başkanvekilleri ve daire başkanlarından oluşur.
 2 – Daire başkanının mazereti halinde, Kurula, dairenin en kıdemli üyesi katılır.
 3 – Kararlar oy çokluğu ile verilir.
 4 – Oylarda eşitlik halinde Başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.
-Başkanlık Kurulu
-Madde 19/A – (Ek:8/8/2011-KHK-650/7 md.; İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.) (2)
-Başkanlık Kurulu üyelerinin seçimleri
-Madde 19/B – (Ek: 8/8/2011-KHK-650/7 md. İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.)(2)
+Başkanlık Kurulu(2)
+Madde 19/A – (Ek: 8/8/2011-KHK-650/7 md.; İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013 – 6494/9 md.)
+1. Başkanlık Kurulu; Danıştay Başkanının başkanlığında, üçü daire başkanı üçü Danıştay üyesi olmak üzere altı asıl ve ikisi daire başkanı ikisi Danıştay üyesi olmak üzere dört yedek üyeden oluşur.
+Başkanlık Kurulu üyelerinin seçimleri(3)
+Madde 19/B – (Ek: 8/8/2011-KHK-650/7 md. İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013 – 6494/10 md.)
+1. Başkanlık Kuruluna seçilecek asıl ve yedek üyeler Danıştay Genel Kurulunca seçilir. Başkanlık Kurulu üyeliğine aynı daireden birden fazla kimse seçilemez.
+2. Başkanlık Kurulu, üye tamsayısı ile toplanır. Asıl üyelerden birinin Kurula katılamaması hâlinde, noksanlık yedeği ile tamamlanır.
+3. Başkanlık Kurulu üyeleri kendileri ile ilgili konularda Kurul toplantılarına katılamazlar.
+4. Başkanlık Kuruluna seçilecek olanların tamamının bir oy pusulasında gösterilmesi suretiyle oy kullanılması da mümkündür. Aday çıkmadığı veya yeter sayıda başvuru olmadığı takdirde Başkanlar Kurulu tarafından gizli oyla ve oy çokluğu ile adaylar dışından seçilebileceklerin üç katı aday gösterilir. Seçimler 10 uncu madde hükümleri gereğince yapılır.
+5. Başkanlık Kuruluna seçilenlerin görev süresi iki yıl olup bir seçim dönemi geçmeden yeniden seçilemezler.
+6. Başkanlık Kurulu üyeliğine seçilen daire başkan ve üyelerinin seçim süresi dolmadan bu sıfatları değiştiğinde Kurul üyeliğinden ayrılmış sayılırlar.
+7. Başkanlık Kurulu üyeliğinin herhangi bir nedenle boşalması hâlinde on beş gün içinde boşalan üyelik için seçim yapılır ve seçilen üye, yerine seçildiği üyenin süresini tamamlar.
 –––––––––––––––––––
-(1) 8/8/2011 tarihli ve 650 sayılı KHK’nin 10 uncu maddesiyle, bu madde başlığı “Başkanlık kurulu”iken “Başkanlar Kurulu” ve birinci fıkrasında yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiş olup, daha sonra bu düzenleme Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile iptal edilmiş ve 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
-(2) Sözkonusu İptal Kararı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
+(1) 8/8/2011 tarihli ve 650 sayılı KHK’nin 10 uncu maddesiyle, bu madde başlığı “Başkanlık kurulu”iken “Başkanlar Kurulu” ve birinci fıkrasında yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiş olup, daha sonra bu düzenleme Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile iptal edilmiş ve 27/6/2013 tarihli ve 6494 sayılı Kanunun 8 inci maddesiyle metne işlendiği şekilde yeniden düzenlenmiştir.
+(2) 27/6/2013 tarihli ve 6494 sayılı Kanunun 9 uncu maddesiyle, bu madde başlığı metne işlendiği şekilde yeniden düzenlenmiştir.
+(3 27/6/2013 tarihli ve 6494 sayılı Kanunun 10 uncu maddesiyle, bu madde başlığı metne işlendiği şekilde yeniden düzenlenmiştir.
 5441
 Yüksek disiplin kurulu
 Madde 20 – 1. Yüksek Disiplin Kurulu, Danıştay Başkanının Başkanlığında her takvim yılı başında, Danıştay Genel Kurulunca her daireden seçilecek birer üye ile ikisi dava daireleri ve biri de idari daireler başkanları arasından seçilecek üç daire başkanından kurulur. Danıştay Başsavcısı Kurulun tabii üyesidir.
@@ -118,19 +130,18 @@ Madde 25 – (Değişik: 22/3/1990 - 3619/5 md.)
 İdari uyuşmazlık ve davalarda görev (2)
 Madde 26 – (Değişik : 2/6/2000 - 4575/3 md.)
 (Değişik birinci fıkra : 9/2/2011-6110/3 md.) İdari uyuşmazlıklar ve davalar; İkinci, Üçüncü, Dördüncü, Beşinci, Altıncı, Yedinci, Sekizinci, Dokuzuncu, Onuncu, Onbirinci, Onikinci, Onüçüncü, Ondördüncü ve Onbeşinci daireler ile idari ve vergi dava daireleri kurullarında incelenir ve karara bağlanır.
-(…)(2), iş yükü bakımından zorunluluk doğması durumunda, vergi dava dairelerinin birini idari dava dairesi olarak, idari dava dairelerinin birini vergi dava dairesi olarak görevlendirebilir.(2)
-Görevlendirilen dairedeki dosyaların vergi ve idari uyuşmazlıklara ilişkin görev ayrımı gözetilerek hangi daireye ve nasıl devredileceği, görevlendirilen daireye görevlendirildiği alan içinde hangi daire işlerinin verileceği hususları (…)(2) kararıyla belirlenir. Bu kararlar Resmi Gazete’de yayımlanır ve yayımını izleyen aybaşından itibaren uygulanır.(2)
+(Yeniden düzenleme: 27/6/2013 – 6494/11 md.) Başkanlar Kurulu, iş yükü bakımından zorunluluk doğması durumunda, vergi dava dairelerinin birini idari dava dairesi olarak, idari dava dairelerinin birini vergi dava dairesi olarak görevlendirebilir.
+(Yeniden düzenleme: 27/6/2013 – 6494/11 md.) Görevlendirilen dairedeki dosyaların vergi ve idari uyuşmazlıklara ilişkin görev ayrımı gözetilerek hangi daireye ve nasıl devredileceği, görevlendirilen daireye görevlendirildiği alan içinde hangi daire işlerinin verileceği hususları Başkanlar Kurulu kararıyla belirlenir. Bu kararlar Resmî Gazete’de yayımlanır ve yayımını izleyen ay başından itibaren uygulanır.
 Daire Başkanı ve üyeleri, dairenin görevlendirildiği işlere bakan dava dairesi genel kuruluna katılır.
 –––––––––––––––
 (1) Bu bentte yer alan "Danıştay idari dairelerince“ ibaresi, 2/6/2004 tarihli ve 5183 sayılı Kanunun 4 üncü maddesiyle “Danıştay İdari Dairesince” şeklinde değiştirilmiş ve metne işlenmiştir.
-(2) 8/8/2011 tarihli ve 650 sayılı KHK’nin 10 uncu maddesiyle, bu maddenin ikinci ve üçüncü fıkralarında yer alan “Başkanlık Kurulu” ibareleri “Başkanlar Kurulu” şeklinde değiştirilmiş olup, daha sonra Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu fıkralarda yer alan “Başkanlar Kurulu” ibareleri iptal edilmiş ve Karar 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
 5442-1
 İkinci dairenin görevleri
 Madde 26/A - (Ek: 2/6/2004 - 5183/6 md.; Mülga: 9/2/2011-6110/14 md.)
-Dava dairelerinin görevleri (1)(2)
+Dava dairelerinin görevleri (1)
 Madde 27 – (Değişik : 9/2/2011-6110/4 md.)
 Dava dairelerinden Üçüncü, Dördüncü, Yedinci ve Dokuzuncu daireler vergi dava dairesi; diğer dava daireleri ise idari dava dairesi olarak görev yapar.
-İdari dava daireleri ile vergi dava daireleri kendi aralarında işbölümü esasına göre çalışır. Özel kanunlarda başkaca hüküm bulunmadığı takdirde, dava daireleri arasındaki işbölümü karar tasarısı aşağıdaki esaslar uyarınca, (…) (2) tarafından hazırlanır. Hazırlanan işbölümü karar tasarısı, toplantı tarihinden yedi gün önce ilân edilmek kaydıyla Genel Kurulun onayına sunulur. Genel Kurul, işbölümü karar tasarısını aynen onaylayabileceği gibi üye tam sayısının en az üçte birinin teklifi üzerine değiştirerek de onaylayabilir. (2)
+İdari dava daireleri ile vergi dava daireleri kendi aralarında işbölümü esasına göre çalışır. (Yeniden düzenlenen ikinci cümle: 27/6/2013 – 6494/12 md.) Özel kanunlarda başkaca hüküm bulunmadığı takdirde, dava daireleri arasındaki iş bölümü karar tasarısı aşağıdaki esaslar uyarınca, Başkanlar Kurulu tarafından hazırlanır. Hazırlanan işbölümü karar tasarısı, toplantı tarihinden yedi gün önce ilân edilmek kaydıyla Genel Kurulun onayına sunulur. Genel Kurul, işbölümü karar tasarısını aynen onaylayabileceği gibi üye tam sayısının en az üçte birinin teklifi üzerine değiştirerek de onaylayabilir.
 1. İptal davaları ve idari sözleşmelerden doğan davalar yönünden, daireler arasındaki işbölümünün belirlenmesinde uyuşmazlığın kaynaklandığı mevzuat esas alınır.
 2. Tam yargı davaları yönünden işbölümü;
 a) Zarara neden olan idari işlemden doğan uyuşmazlığı çözmekle görevli daireye göre,
@@ -146,7 +157,6 @@ Dairelerden birinin yıl içinde gelen işleri normal çalışma ile karşılana
 Bu madde uyarınca alınan kararlar Resmî Gazetede yayımlanır ve yayımı izleyen ay başından itibaren uygulanır.
 ––––––––––––––––––
 (1) Bu madde başlığı “Üçüncü dairenin görevleri”iken, 9/2/2011 tarihli ve 6110 sayılı Kanunun 4 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
-(2) 8/8/2011 tarihli ve 650 sayılı KHK’nin 10 uncu maddesiyle, bu maddenin ikinci fıkrasında yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu”şeklinde değiştirilmiş olup, daha sonra Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile “Başkanlar Kurulu” ibaresi iptal edilmiş ve Karar 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
 . 5443
 Dördüncü dairenin görevleri
 Madde 28 – (Mülga: 9/2/2011-6110/14 md.)
@@ -238,23 +248,26 @@ Görüşmelerin idaresi
 Madde 50 – Başkan, görüşmeleri idare eder ve oya sunulacak hususları belirler. Göreve ve usule ait meselelerde azınlıkta kalanlar, işin esası hakkında oylarını kullanmak zorundadırlar.
 Kararlar
 Madde 51 – Kararlarda, toplantıya katılanların ad ve soyadları, işin konusu, verilen kararların gerekçeleri, azınlıkta kalanların görüşleri ve karar tarihi belirtilir. Kararlar, toplantıya katılan Başkan ve üyeler tarafından imzalanır.
-(…) (1)
-Madde 52 – 1. (…):(1)
-a) (Mülga: 8/8/2011-KHK-650/8 md.; İptal:Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.)(1)
-b) (Mülga: 8/8/2011-KHK-650/8 md.; İptal:Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.)(1)
-c) 37 nci ve 44 üncü maddelere göre daireler arasında iş dağılımını,
-d) Danıştay daireleri arasında çıkan görev uyuşmazlıklarını,
-e) (Ek: 22/3/1990 - 3619/8 md.) Ayrı yargı çevrelerinde bulunan idare ve vergi mahkemeleri arasında görev ve yetkiye ilişkin uyuşmazlıklarda ve bağlantılı davalarda merci tayinini,
-f) Danıştay Başkanının Kurulda görüşülmesini uygun gördüğü işleri,(2)
-İnceler ve gereğine göre karar verir veya düşüncesini bildirir.
-2. Kurul, Danıştay Başkanının davetiyle toplanır.
-3. (Ek: 31/3/2011-6217/15 md.; Mülga: 8/8/2011-KHK-650/8 md.; İptal:Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.)(1)
+Başkanlar Kurulunun görevleri (1)
+Madde 52 – (Yeniden düzenleme: 27/6/2013-6494/13 md.)
+1. Başkanlar Kurulunun görevleri şunlardır:
+a) Üyelerin görev yerlerini, dairelerin iş durumunu ve ihtiyaçlarını göz önünde tutarak belirlemek
+b) Zorunlu hâllerde, daire başkanı ve üyelerin dairelerini değiştirmek
+c) Danıştay tetkik hâkimlerinin çalışacakları daireleri, kurulları ve görecekleri işleri belli etmek ve gerektiğinde yerlerini değiştirmek
+d) Daireler arasında iş bölümü karar tasarısını hazırlamak
+e) Danıştay daireleri arasında çıkan görev uyuşmazlıklarını karara bağlamak
+f) Ayrı yargı çevrelerinde bulunan idare ve vergi mahkemeleri arasında görev ve yetkiye ilişkin uyuşmazlıklarda ve bağlantılı davalarda merci tayinini yapmak
+g) Danıştay Başkanının Kurulda görüşülmesini uygun gördüğü işleri görüşmek ve karara bağlamak
+2. Başkanlar Kurulu, Danıştay Başkanının davetiyle toplanır.
+3. Başkanlar Kurulunun birinci fıkranın (a) ve (b) bentleri uyarınca verdiği kararlara karşı, yedi gün içinde ilgilisi veya üye tam sayısının onda biri Genel Kurula itiraz edebilir. Genel Kurul, Başkanlar Kurulu kararlarını aynen onaylayabileceği gibi değiştirerek de onaylayabilir.
 ——————————
-(1) 8/8/2011 tarihli ve 650 sayılı KHK’nin 10 uncu maddesiyle, bu maddenin başlığı “Başkanlık kurulunun görevleri” iken “Başkanlar Kurulunun görevleri”, birinci fıkrasında yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiş olup, daha sonra Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu maddenin başlığı ve birinci fıkrasında yer alan “Başkanlar Kurulu” ibaresi ile a), b) bentleri ile üçüncü fıkrası iptal edilmiş ve Karar 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
-(2) Bu bendin bent harfi evvelce (e) iken, 22/3/1990 tarih ve 3619 sayılı Kanunun 8 inci maddesi ile (f) olarak değiştirilmiş ve metne işlenmiştir.
+(1) 8/8/2011 tarihli ve 650 sayılı KHK’nin 10 uncu maddesiyle, bu maddenin başlığı “Başkanlık kurulunun görevleri” iken “Başkanlar Kurulunun görevleri”, birinci fıkrasında yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiş, daha sonra Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu maddenin başlığı ve birinci fıkrasında yer alan “Başkanlar Kurulu” ibaresi ile a), b) bentleri ile üçüncü fıkrası iptal edilmiş olup, sonra da 27/6/2013 tarihli ve 6494 sayılı Kanunun 13 üncü maddesiyle mezkur madde başlığı ve madde metni metne işlendiği şekilde yeniden düzenlenmiştir.
 5446-1
 Başkanlık Kurulunun görevleri(1)
-Madde 52/A–(Ek: 8/8/2011-KHK-650/8 md.; İptal:Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.)(1)
+Madde 52/A–(Ek: 8/8/2011-KHK-650/8 md.; İptal:Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013-6494/14 md.)
+1. Başkanlık Kurulunun görevleri şunlardır:
+a) Yetkili merciin neresi olduğu belirtilmemiş olan yönetim işlerini belli etmek veya bu işleri yapmak
+b) Kanunlarla verilen diğer görevleri yerine getirmek
 Yüksek disiplin kurulunun görevleri
 Madde 53 – Yüksek Disiplin Kurulu, bu Kanun hukümleri dairesinde Danıştay Başkanı, Başsavcı, başkanvekilleri, daire başkanları ve üyeler hakkında, disiplin kovuşturması yapılmasına ve disiplin cezası uygulanmasına karar verir ve bu Kanunla görevli kılındığı diğer işleri görür.
 Disiplin kurulunun görevleri
@@ -263,13 +276,14 @@ a) Danıştay memurları hakkında Yüksek Disiplin Kurulu görevlerini yapar.
 b) Danıştay memurları hakkında Memurin Muhakematı Hakkındaki Kanunu Muvakkatı hükümlerine göre birinci derecede karar verir.
 c) Danıştay memurları hakkında 657 sayılı Devlet Memurları Kanununun 226 ncı maddesinin (B) bendinde yazılı görüşme ve danışma kurulu görevini yapar.
 ____________
-(1) Sözkonusu İptal Kararı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
+(1) 27/6/2013 tarihli ve 6494 sayılı Kanunun 14 üncü maddesiyle bu maddenin başlığı metne işlendiği şekilde yeniden düzenlenmiştir.
 5446-2
 BEŞİNCİ BÖLÜM
 Görevler ve Haklar
-Danıştay Başkanının görevleri (1)
-Madde 55 – 1. Danıştay Başkanı, Danıştay'ın genel işleyişinden sorumludur. Kuruluşun düzenli çalışmasını sağlar. Gerekirse, ilgili daire başkanları veya (…) (1) ile de istişare ederek lüzumlu idari tedbirleri alır.(1)
-2. Danıştay Başkanı, Danıştay Genel Kurulu ile İçtihatları Birleştirme Kuruluna, İdari İşler Kuruluna, idari ve vergi dava daireleri kurullarına, Yüksek Disiplin Kuruluna (…)(1) ve Başkanlık Kuruluna, başkanlık eder.(1)
+Danıştay Başkanının görevleri
+Madde 55 – (Yeniden düzenleme: 27/6/2013-6494/15 md.)
+1. Danıştay Başkanı, Danıştayın genel işleyişinden sorumludur. Kuruluşun düzenli çalışmasını sağlar. Gerekirse, ilgili daire başkanları veya Başkanlar Kurulu ile de istişare ederek lüzumlu idari tedbirleri alır.
+2. Danıştay Başkanı, Danıştay Genel Kurulu ile İçtihatları Birleştirme Kuruluna, İdari İşler Kuruluna, idari ve vergi dava daireleri kurullarına, Yüksek Disiplin Kuruluna, Başkanlar Kuruluna ve Başkanlık Kuruluna başkanlık eder.
 Danıştay Başkanvekillerinin görevleri
 Madde 56 – 1. Danıştay Başkanına ait görevlerden Danıştay Başkanı tarafından verilenleri yaparlar.
 2. Danıştay Başkanının yokluğunda kıdem sırasına göre ona vekillik ederler.
@@ -283,8 +297,6 @@ gili olmak üzere verilen diğer işleri görürler.
 Genel Sekreterin görevleri
 Madde 59 – 1. Genel Sekreter bu Kanunun görevli kıldığı işler ile Danıştay Başkanının vereceği idare ve yazı işlerini yürütür.
 2. Dairelere ve Başsavcılığa bağlı olanlar dışındaki müdürlükler ve diğer idari birimler Genel Sekreterin yönetim ve denetimi altında bulunur.
-——————————
-(1) 8/8/2011 tarihli ve 650 sayılı KHK’nin 10 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiş, ikinci fıkrasında yer alan “Yüksek Disiplin Kuruluna” ibaresinden sonra gelmek üzere “, Başkanlar Kuruluna” ibaresi eklenmiş olup, daha sonra Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu maddenin birinci fıkrasında yer alan “Başkanlar Kurulu” ibaresi ile ikinci fıkrasında yer alan “, Başkanlar Kuruluna” ibareleri iptal edilmiş ve Karar 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
 5447
 Danıştay Başsavcısının görevleri
 Madde 60 – 1. (Değişik birinci cümle: 2/7/2012-6352/46 md.) Başsavcı, ilk derece mahkemesi sıfatıyla Danıştayda görülen dava dosyalarını, esas hakkındaki düşüncelerini bildirmek üzere, uygun göreceği görev ayırımına göre savcılara havale eder. Düşüncelerinin vaktinde bildirilmesini ve savcılar ile Başsavcılıkta görevli diğer memurların devamlarını ve intizamla çalışmalarını sağlar, gelen dosyaların kaydı ve saklanması ile işi bitenlerin ilgili yerlere geciktirilmeden gönderilmesi için gerekli tedbirleri alır.
@@ -371,22 +383,21 @@ Görevin Sona Ermesi
 Hüküm giyme hali
 Madde 83 – 1. Danıştay meslek mensuplarından birinin ağır hapis, kasıtlı bir suçtan dolayı altı ay veya daha fazla hapis cezası ile kesin olarak hüküm giymesi halinde, görevi kendiliğinden sona erer.
 2. Kasıtlı bir suçtan dolayı altı aydan aşağı hapis cezası ile hüküm giyme halinde bu suç, mesleğin vakar ve şerefini bozan veya mesleğe karşı genel saygı ve güveni gideren nitelikte görülürse, ilgilinin meslekten çıkarılması gerekip gerekmediğine Yüksek Disiplin Kurulu tarafından karar verilir.
-Sağlık bakımından görevin yerine getirilememesi (1)
-Madde 84 – Görevini sağlık bakımından yerine getiremeyeceği tam teşekküllü resmi sağlık kurulu raporuyla kesin olarak anlaşılan Danıştay meslek mensuplarının görevine son verilmesine (…) (1) karar verilir.
+Sağlık bakımından görevin yerine getirilememesi
+Madde 84 – (Yeniden düzenleme: 27/6/2013-6494/16 md.)
+Görevini sağlık bakımından yerine getiremeyeceği tam teşekküllü resmî sağlık kurulu raporuyla kesin olarak anlaşılan Danıştay meslek mensuplarının görevine son verilmesine Başkanlar Kurulunca karar verilir.
 Dava hakkı
 Madde 85 – 83 üncü maddenin ikinci fıkrası ile 84 üncü maddeye göre görevlerine son verilen ilgililerin bu kararlara karşı açacakları davalarda 75 inci madde hükümleri uygulanır.
-——————————
-(1) 8/8/2011 tarihli ve 650 sayılı KHK’nin 10 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “Başkanlık Kurulunca” ibaresi “Başkanlar Kurulunca” şeklinde değiştirilmiş olup, daha sonra Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu maddenin birinci fıkrasında yer alan “Başkanlar Kurulunca” ibaresi iptal edilmiş ve Karar 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
 5452
 DOKUZUNCU BÖLÜM
 Çeşitli Hükümler
-Çalışmaya ara verme (1)
-Madde 86 – 1. (Değişik: 8/8/2011-KHK-650/9 md.; İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.) (1)
+Çalışmaya ara verme
+Madde 86 – 1. (Değişik: 8/8/2011-KHK-650/9 md.; İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013-6494/17 md.) Danıştay daireleri her yıl bir eylülde başlamak üzere, yirmi temmuzdan otuz bir ağustosa kadar çalışmaya ara verirler.
 2. Ara verme süresi içinde çalışmak üzere; bir daire başkanı ile dört üyeden ve bir yedek üyeden oluşan bir nöbetçi daire kurulur. Yedek üye aynı zamanda Genel Sekreterlik görevini yapar.
-3. Bu dairenin başkanı ile üyeleri, Danıştay dairelerinin başkan ve üyeleri arasından karma olarak (…)(1) tarafından seçilir. Ayrıca lüzumu kadar savcı ve tetkik hakimi görevlerine devam ederler.(1)
+3. (Yeniden düzenleme: 27/6/2013-6494/17 md.) Bu dairenin başkanı ile üyeleri, Danıştay dairelerinin başkan ve üyeleri arasından karma olarak Başkanlar Kurulu tarafından seçilir. Ayrıca lüzumu kadar savcı ve tetkik hâkimi görevlerine devam ederler.
 4. Çalışmaya ara verme süresi içinde görevli olarak kalanlar hariç olmak üzere Danıştay Başkanı, Başsavcı, başkanvekilleri, daire başkanları ve üyeler ile savcılar ve tetkik hakimleri çalışmaya ara verirler. Bu süre içinde Danıştay Başkanına, nöbetçi daire başkanı vekalet eder.
 5. Danıştay'da çalışan diğer memurlar çalışmaya devam ederler.Ancak, çalışmaya ara verme süresi içinde işin icaplarına göre görevde kalmaları lüzumlu görülmeyen memurlar kanuni izinlerini kullanırlar.
-6. Çalışmaya ara verme süresi içinde görevleri başında kalanların yıllık izin hakları saklıdır.
+6. (Değişik: 27/6/2013-6494/17 md.) Çalışmaya ara verme süresi içinde görevleri başında kalan Danıştay üyeleri yılın diğer dönemlerinde yol süresi dâhil çalışmaya ara verme süresi kadar izin kullanabilirler.
 Nöbetçi dairenin göreceği işler
 Madde 87 – Nöbetçi daire, çalışmaya ara verme süresi içinde aşağıda yazılı işleri görür:
 a) Kanun tasarı ve teklifleri ile tüzük tasarıları hariç olmak üzere hükümetçe verilecek ivedi veya kanunen belli süre içinde karara bağlanması gereken işler,
@@ -397,8 +408,6 @@ Madde 88 – 1. Danıştay daireleri ve kurulları tarafından verilen kararlar�
 2. Bu büronun kuruluş ve görevleri bir yönetmelikle düzenlenir.
 Gizli bilgileri açıklama
 Madde 89 – Danıştay meslek mensupları ile Danıştay tetkik hakimleri ve savcıları kamu hizmetleriyle ilgili gizli bilgileri, görevlerinden ayrılmış olsalar bile açıklayamazlar.
-——————————
-(1) 8/8/2011 tarihli ve 650 sayılı KHK’nin 10 uncu maddesiyle, bu maddenin üçüncü fıkrasında yer alan “Başkanlık Kurulu” ibaresi “Başkanlar Kurulu” şeklinde değiştirilmiş olup, daha sonra Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu maddenin birinci fıkrası ile üçüncü fıkrasında yer alan “Başkanlar Kurulu” ibaresi iptal edilmiş ve Karar 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
 5453
 İsnat ve iftiralara karşı korunma
 Madde 90 – Danıştay meslek mensupları hakkında ihbar ve şikayetlerin inceleme, soruşturma veya yargılama sonunda sabit olmadığı ve bir isnadın gareze binaen veya hakaret kasdıyla yapıldığı veya uydurma bir isnat mahiyetinde olduğu anlaşıldığı takdirde, Danıştay Başkanı isnatta bulunanlar hakkında kamu davası açılmasını Cumhuriyet Savcılığından ister.
@@ -469,12 +478,12 @@ Bu Kanunun yürürlüğe girdiği tarihten önce ilk derece mahkemesi olarak Dan
 5455
 Geçici Madde 23 – (Ek : 25/6/2009-5917/22 md.)
 Bu maddenin yürürlüğe girdiği tarihten itibaren on yıl süre ile Danıştay tetkik hâkimliğine yapılacak atamalarda, 11 inci maddenin birinci fıkrasındaki beş yıllık hizmet süresi aranmaz.
-Geçici Madde 24 – (Ek : 2/4/2012-6352/48 md.)
+Geçici Madde 24 – (Ek : 2/7/2012-6352/48 md.)
 1. Bu Kanunun yayımı tarihinden itibaren üç yıl süreyle Danıştay İdari Dava Daireleri Kurulunun oluşumu ve çalışma usulü hakkında aşağıdaki hükümler uygulanır.
 a) İdari Dava Daireleri Kurulu, her idari dava dairesinden en az bir üye olmak kaydıyla Başkanlık Kurulu tarafından görevlendirilen yirmi üyeden oluşur. Kurula, Danıştay Başkanı veya vekillerinden biri, bunların bulunmaması halinde Kurulun en kıdemli üyesi başkanlık eder.
 b) Bu üyeler İdari Dava Daireleri Kurulunda sürekli olarak görev yaparlar. Ancak, iş durumu göz önüne alınmak suretiyle üyelerin daire çalışmalarına katılmalarına Genel Kurul tarafından karar verilebilir.
 c) Toplantı ve görüşme yeter sayısı onbeştir. Kararlar, toplantıya katılanların oy çokluğu ile alınır.
-Geçici Madde 25 – (Ek : 2/4/2012-6352/48 md.)
+Geçici Madde 25 – (Ek : 2/7/2012-6352/48 md.)
 1. Bu Kanunun yayımı tarihinden önce ilk derece mahkemesi sıfatıyla Danıştayda açılmış bulunan ve bu Kanunla idare ve vergi mahkemelerinin görevleri kapsamına alınan davaların, Danıştayda görülmesine devam olunur.
 2. Düşünce alınmak üzere Danıştay Başsavcılığına gönderilmekle birlikte, bu Kanunun yayımı tarihinden önce görüş bildirilmemiş yürütmenin durdurulması istemli dosyalar ile temyiz ve karar düzeltme dosyaları, herhangi bir görüş bildirilmeksizin, ilgili daire veya kurullara geri gönderilir
 Yürürlük

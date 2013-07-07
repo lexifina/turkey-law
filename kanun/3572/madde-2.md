@@ -3,8 +3,8 @@ a) 1593 sayılı Umumi Hıfzıssıhha Kanununun 268-275 inci maddeleri kapsamın
 b) Nerede açılırsa açılsın, yakıcı, parlayıcı, patlayıcı ve tehlikeli maddelerle çalışılan işlerle oksijen LPG dolum ve depoları, bunlara ait dağıtım merkezleri, perakende satış yerleri, taşocakları, akaryakıt istasyonları ve benzeri yerlere,
 c) 2634 sayılı Turizmi Teşvik Kanunu kapsamına giren turizm işletmelerine,
 d) (Mülga: 24/11/2004 – 5259/8 md.)
-e) (Ek: 24/6/1995 - KHK - 560/21 md.) 1 inci, 2 nci ve 3 üncü sınıf gıda maddesi üreten gayri sıhhi müesseselere.(2)
+e) (Ek: 24/6/1995 - KHK - 560/21 md.) 1 inci, 2 nci ve 3 üncü sınıf gıda maddesi üreten gayri sıhhi müesseselere.(3)
 f) (Ek: 13/2/2011-6111/201 md.) 1136 sayılı Avukatlık Kanunu uyarınca açılan avukatlık bürolarına,
 g) (Ek: 13/2/2011-6111/201 md.) 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu uyarınca meslek mensuplarınca açılan bürolara,
-h) (Ek: 8/8/2011 - KHK - 650/23 md.; İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile. )(3)
+h) (Ek: 8/8/2011 - KHK- 650/23 md.; İptal: Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 27/6/2013-6494/23 md.) 1512 sayılı Noterlik Kanununa göre kurulan noterlik dairelerine,
 Uygulanmaz.
