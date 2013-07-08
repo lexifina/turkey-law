@@ -1,0 +1,23 @@
+{
+  "number": "550",
+  "number_as_published": "550",
+  "year": 2013,
+  "title": "Kocasinan Belediyesi’nin, Yıldızevler Mahallesi, 405 pafta, 5447 ada, 1 parsel numaralı taşınmazın bulunduğu alanın civarında nazım imar plan değişikliği yapılması talebi.",
+  "decision_date": "2013-07-08",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/08-temmuz-2013-tarihli-meclis-karar-ozeti",
+  "official_document": null,
+  "source_sha256": "a6e5b5f228ff891c8bdc4d8f768946213fe7bd4386ffe83171a11658b5e56001",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2013-07-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.07.2013; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "08 Temmuz 2013 Tarihli Meclis Karar Özeti",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=14"
+}
