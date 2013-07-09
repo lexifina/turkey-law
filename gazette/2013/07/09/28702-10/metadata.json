@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-07-09",
+  "issue": "28702",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Eskişehir Osmangazi Üniversitesi Tıp Fakültesi Eğitim ve Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130709-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130709.htm",
+  "index_sha256": "30c7096244f08348db917913bff09272d2eff1445029bd5617b80316b8c3fc56",
+  "index_header": "9 Temmuz 2013 ... 28702 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130709.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
