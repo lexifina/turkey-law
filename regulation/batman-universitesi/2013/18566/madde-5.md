@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları şunlardır:
+a) Tarihi ve kültürel miras kapsamında değerlendirilebilecek her tür kalıtı, erişilen imkanlar ölçüsünde araştırmak ve belgelemek, elde edilecek bilimsel inceleme sonuçları ile Üniversitenin ilgili bölüm ve enstitülerinde tarihi ve kültürel miras konulu eğitim-öğretim ve araştırma faaliyetlerine altyapı niteliğinde veri tabanı oluşturmak, Merkez bünyesinde bir ihtisas kütüphanesi, yazılı ve dijital dokümantasyon arşivi kurmak ve bu arşiv ve kütüphaneye özel ve kamu kuruluşu ile şahıslarda bulunan yazma ve matbu eserlerin, bağış, satın alma ve kopyalama suretiyle akışının sağlanması, Merkez tarafından yayımlanacak olan akademik araştırma dergisi, elektronik posta, bülten ve benzeri vasıtalarla, araştırma yapan kişilere, kurumlara ulaştırmak, ayrıca konferans, panel ve sempozyumlar aracılığıyla geniş halk kitlelerine sunmak,
+b) Orta Doğu ülkeleri ile ortak tarih, kültür ve sosyal birikimimizin incelenmesi, mevcut birlikteliğin geliştirilmesi ve ortak paydalarımız üzerine bilgi üretimi ile beraber bu konuda uzman kadro yetiştirilmesine katkı sağlamak,
+c) Ulusal ve uluslararası konularda siyasi, ekonomik, kültürel, sosyal ve hukuki nitelikli bilimsel araştırma ve çalışmalar yapmak, yurt içi ve yurt dışındaki ilgili kurum ve kuruluşlarla birlikte ortak projeler yürüterek bilgi birikiminin oluşturulması ve paylaşılmasını sağlamak.
