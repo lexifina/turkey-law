@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37536",
+  "decision_date": "2013-07-09",
+  "source_id": 7118,
+  "chamber": "7",
+  "file_number": "36679",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7118/",
+  "source_sha256": "0e20fb5b6ae32c465611fd486a0ff3268f2b09e3be6c0bea4156254c861dbe52",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
