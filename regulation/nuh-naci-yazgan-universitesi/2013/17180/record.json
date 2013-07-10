@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 65 – (1) Bu Yönetmelik 2012-2013 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-03-07",
+      "07.03.2013",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2013-07-10",
+      "RG-10/7/2013-28703",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-07-10",
+      "RG-10/7/2013-28703",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-07-10",
+      "10/7/2013",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-10/7/2013-28703",
+  "first_law": null,
+  "gazette": "28580",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-07-10",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Nuh Naci Yazgan Üniversitesi",
+  "issuer_slug": "nuh-naci-yazgan-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/nuh-naci-yazgan-universitesi/2013/17180",
+  "published": "2013-03-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=17180&MevzuatTertip=5",
+  "source_bytes": 239121,
+  "source_id": "8.5.17180",
+  "source_sha256": "99320d3200849db54749fde3f8cd3c59a08d6e7446faca649087757cd2787444",
+  "text_status": "current-consolidated",
+  "title": "NUH NACİ YAZGAN ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 330,
+  "word_count": 7326
+}

@@ -1,0 +1,2 @@
+Bir alt programdan ders alma
+MADDE 20 – (1) Tezli yüksek lisans öğrencileri alacakları en çok iki dersi, tezsiz yüksek lisans öğrencileri ise alacakları en çok üç dersi lisans öğrenimi sırasında almamış olmak koşuluyla ve danışmanlarının onayıyla lisans programlarındaki derslerden seçebilir. Doktora ve sanatta yeterlik programı öğrencilerinin yüksek lisans programlarından ders alma esasları EYK tarafından belirlenir. Doktora ve sanatta yeterlik programlarında lisans veya bilimsel hazırlık programlarından alınan dersler kredi hesabında dikkate alınmaz.

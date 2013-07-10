@@ -1,0 +1,13 @@
+Sanatta yeterlik çalışmasının sonuçlanması
+MADDE 57 – (1) Tez hazırlayan bir öğrenci tezini, sergi, proje, resital, konser veya temsil hazırlayan bir öğrenci ise çalışmasını açıklayan ve belgeleyen bir metni, enstitüler tarafından hazırlanan ve Senato tarafından onaylanan yazım kurallarına uygun biçimde yazar ve ayrıca çalışmasını jüri önünde sözlü olarak savunur.
+(2) Sanatta yeterlik savunma jürisinin oluşumuna ilişkin esaslar şunlardır:
+a) Jüri, ilgili ana sanat kurulunun önerisi ve EYK kararı ile atanan en az biri başka bir yükseköğretim kurumunun öğretim üyesi olmak üzere beş asıl iki yedek üyeden oluşur.
+b) Önerilen jüri üyelerinin uzmanlık alanları ile öğrencinin çalışma konusunun uyumlu olmasına dikkat edilir.
+(3) Sanatta yeterlik savunma sınavına ilişkin esaslar şunlardır:
+a) Jüri üyeleri, söz konusu sanatta yeterlik çalışmasının kendilerine teslim edildiği tarihten itibaren en geç bir ay içinde toplanarak öğrenciyi savunma sınavına alır.
+b) Zorunlu nedenlerle jüriye katılamayacak üyeler, katılamama gerekçelerini en geç yedi gün içinde enstitüye yazılı olarak bildirir.
+c) Sanatta yeterlik savunma sınavının yapılacağı yer ve saat, sınav tarihinden en geç yedi gün önce danışmanı tarafından enstitüye yazılı olarak bildirilir. Sınav, dinleyiciye açık olarak yapılır.
+ç) Sanatta yeterlik savunma sınavı, çalışmanın sunulması ve bunu izleyen soru-cevap bölümlerinden oluşur. Sınav esnasında öğrenciye yalnız jüri üyeleri soru sorabilir.
+d) Savunma sınavının tamamlanmasından sonra jüri üyeleri, sanatta yeterlik çalışmasını not ile değerlendirir. Salt çoğunlukla kabul/red veya düzeltme kararı verir. Danışman öğretim üyesi tarafından savunma sınavını izleyen üç gün içinde jüri üyeleri tarafından hazırlanan jüri değerlendirme raporları ile birlikte sınav tutanağı ilgili enstitüye teslim edilir.
+e) Düzeltme kararının verilmesi halinde, öğrenciye altı ay süre tanınır. Öğrenci bu süre içerisinde gerekli düzeltmeleri yaparak çalışmasını enstitüye teslim eder. Düzeltilmiş çalışma enstitü tarafından aynı jüri üyelerine gönderilir. Jüri üyeleri, söz konusu çalışmanın kendilerine teslim edildiği tarihten itibaren en geç bir ay içinde toplanarak öğrenciyi yeniden tez savunma sınavına alır.
+f) Düzeltme kararı sonunda belirtilen süre içerisinde savunma sınavına katılmayan ya da savunma sınavı sonunda başarısız sayılan öğrenci için, EASD başkanlığının teklifi ve EYK’nın onayıyla yeni bir danışman atanır. Danışman atama işlemi yapılan öğrenci yeni danışman öğretim üyesi ile yeni bir çalışma konusu belirler. Lisans derecesi ile sanatta yeterlik programına kabul edilmiş olanlardan tezde başarılı olamayanlar için talepleri halinde tezsiz yüksek lisans diploması verilir.

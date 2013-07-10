@@ -1,0 +1,5 @@
+Lisansüstü programların kontenjanı, başvuru ilanı ve öğrenci kabulü
+MADDE 9 – (1) Her program için kontenjan ve başvuru koşulları, ilgili ana bilim/ana sanat kurulunun teklifi, EYK kararı ve Senato onayı ile belirlenir. Her dönem için yeni öğrenci kontenjanları, ilgili EABD/EASD’deki öğretim üyelerinin danışmanlık ve ders yükleri dikkate alınarak tespit edilir.
+(2) Öğrenci kabulüne ilişkin şartlar Rektörlük tarafından duyurulur. Ayrıca; öğrenci kabul edilecek programlar, kontenjanlar, başvuru koşulları, gerekli belgeler ile başvuru, kabul, sınav, mülakat ve kayıt tarihleri enstitü müdürlüğü tarafından enstitünün internet sayfasında ilan edilir.
+(3) Lisansüstü programlara öğrenci kabulü için gerekli şartlar ve başarı değerlendirmelerinde Senatonun belirlediği esaslar uygulanır.
+(4) Başvuru ve kayıt için istenen belgelerin aslı veya enstitü tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır. Kesin kayıt hakkını kazanan adaylardan, başvuru sırasında teslim ettiği belgeler tekrar istenmez. Yanlış beyanda bulunanlar hakkında ilgili mevzuat hükümlerine göre işlem yapılır.

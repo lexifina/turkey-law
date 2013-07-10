@@ -1,0 +1,3 @@
+Mazeretler
+MADDE 60 – (1) Öğrencilerin mazeretli sayılabilmesi için, sağlık kuruluşlarından alınan sağlık raporlarının, EYK tarafından kabul edilmesi gerekir. Ayrıca; doğal afet, anne, baba, eş, kardeş veya çocuğunun ölümü ve benzeri hallerin belgelendirilmesi halinde, EYK öğrencinin mazeretli sayılmasına karar verebilir. Öğrenciler mazeretlerini; raporlu olunması halinde raporun bitiş tarihinden itibaren, diğer hallerde olayın meydana geldiği tarihten itibaren en geç yedi gün içerisinde enstitüye bildirir. Bu sürede beyan edilmeyen mazeretler kabul edilmez.
+(2) Mazereti EYK tarafından kabul edilen öğrenci, bu süre içinde derslere devam edemez ve sınavlara giremez. Bu süre içinde girilen sınavlar geçersiz sayılır.

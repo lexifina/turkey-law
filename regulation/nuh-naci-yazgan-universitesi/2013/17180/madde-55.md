@@ -1,0 +1,2 @@
+Başarı değerlendirmesi
+MADDE 55 – (1) Sanatta yeterlik yapan öğrencinin; tez veya sergi, proje, resital, konser, temsil gibi çalışmalardan birine başlayabilmesi için GANO’sunun en az 80 olması gerekir. Ortalama şartını sağlayamayan öğrenci tekrar veya yeni ders almakla yükümlüdür. Mezuniyet için GANO 80’den az olamaz. Jüri değerlendirmesine göre çalışması 80’in altında olanlar başarısız sayılır veya düzeltme alır.
