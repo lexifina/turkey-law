@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Urartu coğrafyasında tarihsel ve kültürel varlıklar içerisinde değerlendirilen yerleşim yerlerinin belgelenmesi ve envanterinin oluşturulmasına yönelik bilimsel çalışmalar yapmak, Urartu uygarlığı ve kültürü ile ilgili bilimsel araştırmaları planlamak, yürütmek ve yayınlamak, sürdürülen çalışmaları yönlendirip desteklemek ve konuya ilişkin lisans ve lisansüstü eğitim programlarına katkı sağlamak ve aynı yönde çalışmalar yapan kurum ve kuruluşlarla işbirliği yapmak ve bu doğrultuda Urartu krallığının tarihi, sosyal, kültürel açıdan bilimsel ve sanatsal yönlerden incelenmesi ve araştırılması, ayrıca ilgili kurum ve kuruluşlarla ilişkilerin geliştirilmesi yönünde disiplinler arası bir yaklaşımla uygulamalar ve araştırmalar yapmaktır.
