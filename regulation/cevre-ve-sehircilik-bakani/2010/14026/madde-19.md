@@ -1,0 +1,4 @@
+Kirlenmiş saha değerlendirme ve izleme komisyonunun kurulması
+MADDE 19 – (1) Saha Örnekleme ve Analiz Planlarını, Saha Durum ve Risk Değerlendirme Ön ve Nihai Raporlarını değerlendirip onaylamak, kirlenmiş saha temizleme çalışmalarını izlemek ve hazırlanacak Temizleme Faaliyeti Planlama ve Değerlendirme, Temizleme Uygulama ve İzleme Raporlarını değerlendirip onaylamak amacıyla valilik bünyesinde il müdürlükleri başkanlığında sürekli çalışacak Kirlenmiş Saha Değerlendirme ve İzleme Komisyonu oluşturulur.
+(2) Komisyon, il müdürlükleri başkanlığında il tarım müdürlüğü, il sağlık müdürlüğü, il sanayi ve ticaret müdürlüğü, devlet su işleri bölge müdürlüğü, il özel idaresi ile komisyonca gerekli görülmesi durumunda üniversite ve uygun görülecek diğer kurum ve kuruluşların temsilcilerinden oluşur.
+(3) Komisyonun sekreterya hizmetlerini il müdürlükleri yürütür.

@@ -1,0 +1,8 @@
+Saha durum ve risk değerlendirme ön raporunun hazırlanması ve il müdürlüğüne sunulması
+MADDE 21 – (1) Saha sahibi, il müdürlüğünün yazısının tebliğinden itibaren en geç üç ay içerisinde yeterlilik koşullarını haiz uzman kurum veya kuruluşlara Ek-10’da verilen Saha Durum ve Risk Değerlendirme Ön Raporu genel formatı kapsamındaki Saha ve Kirlilik Karakterizasyonu çalışmalarını yaptırmak, bu çalışmadan elde edilen bilgiler doğrultusunda Jenerik veya Sahaya Özgü Risk Analizi yapma konusundaki değerlendirmesini içeren Saha Durum ve Risk Değerlendirme Ön Raporunu hazırlatıp üyelerin sayısı kadar çoğaltarak raporu Komisyonun onayına sunmakla yükümlüdür.
+(2) Saha sahibi, gerekçesini belirterek süre uzatım talebinde bulunabilir. Talebin il müdürlüğünce uygun bulunması halinde iki ayı geçmemek üzere ek süre verilebilir.
+(3) Saha Durum ve Risk Değerlendirme Ön Raporu, saha sahibi tarafından bir dilekçe ekinde Komisyona sunulmak üzere il müdürlüğüne teslim edilir.
+(4) Ön Raporun Ek-10’da verilen kapsam ve formata uygunluğu ve Bakanlıkça yetkilendirilmiş yeterlik koşullarını haiz uzman kurum veya kuruluşça hazırlanıp hazırlanmadığı hakkındaki inceleme Komisyonca yedi iş günü içinde sonuçlandırılır.
+(5) Saha Durum ve Risk Değerlendirme Ön Raporunun formata ve kapsama uygun olmadığı veya uzman kurum veya kuruluşça hazırlanmadığının Komisyonca anlaşılması halinde, bu hususların yerine getirilmesi için rapor saha sahibine iade edilir.
+(6) Düzeltilen Saha Durum ve Risk Değerlendirme Ön Raporu en geç bir ay veya komisyonca belirlenecek süre içerisinde il müdürlüğüne tekrar sunulur. Komisyonca belirlenecek süre iki ayı geçemez.
+(7) Komisyon, Saha Durum ve Risk Değerlendirme Ön Raporu değerlendirmesine yönelik onayını en geç bir ay içerisinde saha sahibine bildirir.

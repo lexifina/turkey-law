@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.14026",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TOPRAK KİRLİLİĞİNİN KONTROLÜ VE NOKTASAL KAYNAKLI KİRLENMİŞ SAHALARA DAİR YÖNETMELİK",
+  "number": "14026",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2010/14026",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14026&MevzuatTertip=5",
+  "source_sha256": "a65e4ebc3ebcb1aeca72fe34fc31cdc897d684837cd9ae9967de78f6f9a6f196",
+  "source_bytes": 163094,
+  "published": "2010-06-08",
+  "gazette": "27605",
+  "in_force": "2013-07-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/7/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-07-11",
+      "RG-11/7/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-07-11",
+      "11/7/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-06-14",
+      "RG-14/6/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-06-14",
+      "14/6/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5824,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.14026%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

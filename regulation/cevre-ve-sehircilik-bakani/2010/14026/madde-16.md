@@ -1,0 +1,7 @@
+Kirletici madde karakterizasyonu
+MADDE 16 – (1) Denetim sonucunda şüpheli sahada söz konusu kirletici maddelerin ne olduğunun bilinmemesi veya Atık Yönetimi Genel Esaslarına İlişkin Yönetmeliğinin Ek-IV Atık Listesinde (M) ile işaretlenmiş atık bulunduğunun tespit edilmesi durumunda;
+a) Kirletici maddelerden ya da atıktan direkt olarak örnek alınabiliyorsa, kirletici maddenin veya atığın Tehlikeli Maddelerin ve Müstahzarların Sınıflandırılması, Ambalajlanması ve Etiketlenmesi Hakkındaki Yönetmelik ve 14/3/2005 tarihli ve 25755 sayılı Resmî Gazete’de yayımlanan Tehlikeli Atıkların Kontrolü Yönetmeliğine göre karakterizasyonu yapılarak tehlikeli madde veya atık olup olmadığı tespit edilir.
+1) Kirletici maddeler ya da atık tehlikesiz ise, ilgili mevzuat hükümleri doğrultusunda gerekli tedbirler alınarak saha takip gerektirmeyen saha olarak nitelendirilir.
+2) Kirletici maddeler ya da atık tehlikeli ise, 15 inci maddenin birinci fıkrasının (b) bendinde belirtilen puanlamalı değerlendirme gerçekleştirilir.
+b) Kirletici maddelerden ya da atıktan direkt olarak örnek alınamıyorsa, toprak, atık, kirletici maddeler karışımından 17 nci maddede belirtilen kirlilik gösterge parametrelerinin ölçümleri gerçekleştirilir.
+c) Şüpheli sahada (a) ve (b) bentlerinin her ikisinin de geçerli olduğu durum olan kirletici maddelerden ya da atıktan, kaynağın bir bölümünden direkt olarak örnek alınabiliyor, bir bölümünden de alınamıyorsa, (a) ve (b) bentlerinin her ikisi de uygulanır.

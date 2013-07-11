@@ -1,0 +1,2 @@
+Temizleme faaliyeti uygulama, izleme ve sonlandırma raporunun değerlendirilmesi
+MADDE 30 – (1) Temizleme Faaliyeti Uygulama, İzleme ve Sonlandırma Raporu il müdürlüğüne sunulur ve Komisyonca değerlendirilir. Komisyon bu raporu kaynak dahil tüm kirlenmiş alandaki kirlilik düzeyinin saha temizleme hedefine ulaşıp ulaşmadığını uzun dönem periyodik izleme sonuçlarına ve saha verilerine dayanarak en geç kırkbeş gün içerisinde değerlendirir.

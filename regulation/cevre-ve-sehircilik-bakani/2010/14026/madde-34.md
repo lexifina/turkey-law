@@ -1,0 +1,4 @@
+Deşarj ve emisyon izinleri
+MADDE 34 – (1) Saha sahibi temizleme uygulama ve izleme çalışmalarının yürütülmesi esnasında uygulanan temizleme yöntemi nedeniyle ortaya çıkabilecek atıksuların bertarafı için, Su Kirliliği Kontrolü Yönetmeliği ve 26/11/2005 tarihli ve 26005 sayılı Resmî Gazete’de yayımlanan Tehlikeli Maddelerin Su ve Çevresinde Neden Olduğu Kirliliğin Kontrolü Yönetmeliği (76/464/AB) esas alınarak deşarj standartları Bakanlıkça belirlendikten sonra Deşarj İzin Belgesi almaksızın bertaraf eder.
+(2) Saha sahibi temizleme uygulama ve izleme çalışmalarını hava kirliliğini önlemeye yönelik mevzuat koşullarını sağlayacak şekilde tasarlar, yürütür ve uygulanan temizleme yöntemi nedeniyle ortaya çıkabilecek emisyon ölçümlerini yapar ve sunar.
+(3) Saha sahibi, gözlem kuyularının açılması için gerekli izinleri alır veya çalışmaları yürüten uzman kurum veya kuruluşa aldırır.

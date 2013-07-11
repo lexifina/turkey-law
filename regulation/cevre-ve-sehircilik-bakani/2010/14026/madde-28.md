@@ -1,0 +1,2 @@
+Temizleme faaliyetinin uygulanması ve izlenmesi
+MADDE 28 – (1) Komisyona sunulan Temizleme Faaliyet Planlama ve Değerlendirme Raporunun onaylanması halinde temizleme sisteminin ikinci aşaması olan temizleme uygulama ve izleme aşamasına geçilir. Sistemin çalışmaya başlamasıyla birlikte temizleme işlemi ve sistem etkinliği, Bakanlıkça belirlenen esaslara göre, sahada periyodik olarak yapılan hedef kirletici saha konsantrasyonlarının ölçümleri ile izlenir.
