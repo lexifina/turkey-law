@@ -16,3 +16,4 @@ Değiştiren Kanun No. | Değiştiren Kanun/An. MahkemeKararının Yürürlüğe
 6217 | 1/10/2011 |  | 164, 181, 598
  |  | 27/10/2011 E.: 2010/71 K.: 2011/143 | 303 üncü maddenin ikinci fıkrası
 6462 | 3/5/2013 |  | 313, 340, 408, 417, 674
+ | 12/7/2013 tarihden başlayarak altı ay sonra | 27/12/2012 E.: 2012/35 K.: 2012/203 | 319
