@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-KDV-20-972-73",
+  "source_id": 29407,
+  "date": "2013-07-11",
+  "title": "Satışları ve tahsilatları artırmak amacıyla bedelsiz olarak yurtiçi müşterilerine verilen binek otomobili",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29407",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "f63d0a35adfab58c63e1895ed6df77529ae4f15dc62574a7b2d4205111c44243",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
