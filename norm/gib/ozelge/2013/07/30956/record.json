@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV 12-1025",
+  "source_id": 30956,
+  "date": "2013-07-11",
+  "title": "Yabancı bayraklı gemilere yapılan teslimlerle ilgili iade taleplerinde DAB aranılıp aranılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30956",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "311d1aa8a5a1f0710ef1635dc617985a0c33bfc55a9545cb3b6053af0662bfbb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
