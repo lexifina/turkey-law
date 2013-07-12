@@ -1,0 +1,2 @@
+Başkanlık faaliyetlerine uygun yayınların desteklenmesi
+MADDE 10 – (1) Faaliyet gösterdiği bölgede Türkçe kullanımının yaygınlaştırılması, ortak kültürel ve tarihi mirasımızın korunması amacına yönelik ve Başkanlığın faaliyet amaçlarına uygun olarak yürütülen yayınlardan Yayın Kurulunca uygun görülenler aynı kurul tarafından her bir yayın türü için ayrı olarak belirlenecek usul ve esaslara göre, belirlenen tutarlarda desteklenebilir.
