@@ -1,0 +1,5 @@
+Madde 2 – (27/4/1976 tarih ve 1985 sayılı Kanunun hükmüdür.)
+Milli Mücadeleye iştiraklerinden dolayı kendilerine İstiklal Madalyası verilmiş olan Türk vatandaşları ile 1950 yılında Türk Tugayının Kore'ye ayak bastığı Ekim ayında başlamak ve 1953 yılı Pan - Munjon Ateşkes Anlaşmasına kadar Kore'de fiilen savaşa katılmış olan Türk vatandaşları kendilerine refakat eden eşleri, Devlet Demiryolları ve Denizcilik Bankasının iç hatları vasıtalarından subaylar I. mevkide, diğerleri II. mevkide ve belediye vasıtalarında ücretsiz seyahat edebilirler. Askeri ve Devlet Hastanelerinde ücretsiz tedavi edilirler.
+5 - 26/9/1990 tarih ve 3660 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 1, 2)
+Madde 1 fıkra bir – (9/11/1983 tarih ve 2943 sayılı Kanunun hükmüdür.)
+Milli Mücadeleye iştirak eden ve bu sebeple kendilerine İstiklal Madalyası verilmiş bulunan Türk vatandaşlarına, hayatta bulundukları sürece, vatani hizmet tertibinden 350 gösterge rakamının her yıl bütçe kanunu ile tespit edilen katsayı ile çarpılmasından bulunacak miktarda aylık bağlanır.

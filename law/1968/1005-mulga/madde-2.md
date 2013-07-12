@@ -1,0 +1,5 @@
+Madde 2 – (24/2/1968 tarih ve 1005 sayılı Kanunun hükmüdür.)
+Milli mücadeleye iştiraklerinden dolayı kendilerine İstiklal Madalyası verilmiş olan Türk vatandaşları Devlet Demiryolları ve Denizcilik Bankasının iç hatları vasıtalarında subaylar I. mevkide diğerleri II. mevkide ve belediye vasıtalarında ücretsiz seyahat edebilirler. Askeri ve Devlet hastanelerinde ücretsiz tedavi edilirler.
+2 - 24/12/1980 tarih ve 2363 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 1)
+Madde 1 fıkra bir – (27/4/1976 tarih ve 1985 sayılı Kanunun hükmüdür.)
+Milli mücadeleye iştirak edenve bu sebeple kendilerine İstiklal Madalyası verilmiş bulunan Türk vatandaşları ile 1950 yılında Türk Tugayının Koreye ayak bastığı Ekim ayında başlamak ve 1953 Yılı Pan - Munjon Ateşkes Anlaşmasına kadar Kore'de fiilen savaşa katılmış olan Türk vatandaşlarına, hayatta bulundukları sürece, vatani hizmet tertibinden 85 gösterge rakamının her yıl Bütçe Kanunun ile tespit edilen katsayı ile çarpılmasından bulunacak miktarda aylık bağlanır.

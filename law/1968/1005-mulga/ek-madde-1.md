@@ -1,0 +1,2 @@
+Ek Madde 1 – (6/3/2007 tarihli ve 5595 sayılı Kanunun hükmüdür.)
+Bu Kanun ve 28/5/1986 tarihli ve 3292 sayılı Vatani Hizmet Tertibi Aylıklarının Bağlanması Hakkında Kanun kapsamında vatanî hizmet tertibinden aylık bağlananlar ile malûl gazi olarak aylık bağlanmış olanlar ve şehit dul ve yetimi sıfatıyla aylık veya gelir bağlanmış bulunanların; belediyelerce tahakkuk ettirilecek su ücreti % 50’den az indirim içermemek üzere belediye meclisleri tarafından belirlenecek tarife üzerinden alınır.
