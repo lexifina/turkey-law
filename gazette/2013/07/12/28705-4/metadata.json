@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-07-12",
+  "issue": "28705",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2013/5047 Türkiye ile Avrupa Topluluğu Arasında Oluşturulan Gümrük Birliğinin Uygulanmasına İlişkin Esaslar Hakkında Kararda Değişiklik Yapılmasına Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130712-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130712.htm",
+  "index_sha256": "04fd00bb7dd2de7491bddbc702a6d93bdc17aa523bbd28ca431295ddd7925c0b",
+  "index_header": "12 Temmuz 2013 ... 28705 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130712.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
