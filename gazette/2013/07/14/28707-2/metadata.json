@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-07-14",
+  "issue": "28707",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2013/4976 Bazı Yerleşim Birimlerinin “Uygulama Alanı” Olarak Tespiti, Bazı Yerleşim Birimlerinin Bakanlar Kurulu Kararları Kapsamından Çıkarılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130714-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130714.htm",
+  "index_sha256": "2a36261cdf4635e4d8aefaa3d93008b2f22b7418e121ee5b69495d215fc3dcbe",
+  "index_header": "14 Temmuz 2013 ... 28707 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130714.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
