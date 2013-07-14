@@ -1,0 +1,3 @@
+Müdür
+MADDE 7 – (1) Müdür, Üniversitenin Fen Fakültesi Biyoloji Bölümü öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Görevi sona eren Müdür yeniden görevlendirilebilir. Müdürün altı aydan daha uzun süre ile görevi başında bulunmaması halinde görevi sona erer.
+(2) Müdür, Yönetim Kurulu üyeleri arasından iki kişiyi üç yıl için müdür yardımcısı olarak görevlendirmek üzere Rektörün onayına sunar. Süresi dolan müdür yardımcıları yeniden görevlendirilebilir. Müdürün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer. Müdür yardımcıları, Müdür tarafından verilen görevleri yapar. Müdür, görev başında bulunmadığı zamanlarda, yardımcılarından birini vekil olarak görevlendirir.
