@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.18586",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İFLÂS İDARESİ ÜCRETİ, YAZI VE TEBLİĞ MASRAFI TARİFESİ HAKKINDA TEBLİĞ",
+  "number": "18586",
+  "issuer": "Adalet Bakanı",
+  "path": "teblig/2013/18586",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18586&MevzuatTertip=5",
+  "source_sha256": "1fef0a5610ea96bee5a0ed56f54034aca7ddbf2b184817c8cc9f275dab855971",
+  "source_bytes": 37314,
+  "published": "2013-07-14",
+  "gazette": "28707",
+  "in_force": "2013-07-15",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 15/7/2013 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 15/7/2013 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 545,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
