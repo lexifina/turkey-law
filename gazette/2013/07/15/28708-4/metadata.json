@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-07-15",
+  "issue": "28708",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Nevşehir Üniversitesi Uzaktan Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130715-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130715.htm",
+  "index_sha256": "abd9e878d470665e2ea4a2684d53b3013db140b559d080de12b9581704ec94aa",
+  "index_header": "15 Temmuz 2013 ... 28708 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130715.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
