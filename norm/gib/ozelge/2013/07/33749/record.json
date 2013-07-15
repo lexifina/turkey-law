@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "19208162-ÖTV-27",
+  "source_id": 33749,
+  "date": "2013-07-15",
+  "title": "ÖTV Kanununa ekli (II) sayılı listede yer alan ATV araçlarına uygulanacak olan ÖTV oranı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33749",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "8b903b0b675f89354195be315bca49dfebf64585daa8fbb803c1f2a8f9f3a5d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
