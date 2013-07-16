@@ -1,0 +1,2 @@
+Soruşturmaya konu ülkedeki üretim kapasitesi ve üretimi
+MADDE 19 – (1) Sektörde sıkça kullanılan Tecnon Orbichem Mayıs 2012 Raporuna göre ÇHC gerek kapasite gerekse üretim değerleri açısından açık ara dünyanın önde gelen üreticisidir. Rapora göre 2009-2011 döneminde ÇHC’nin üretim kapasitesi yıllık 10.000.000 Ton, üretimi ise 2009 yılında 7.990.000 Ton, 2010 yılında 8.779.000 Ton ve 2011 yılında 9.776.000 Ton olarak gerçekleşmiştir.

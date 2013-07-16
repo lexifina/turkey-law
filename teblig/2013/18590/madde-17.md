@@ -1,0 +1,4 @@
+Soruşturmaya konu ürünün küresel piyasasında gelişmeler
+MADDE 17 – (1) 5503.20 GTP’li ürünün dünya genelinde miktar bazında ihracatı 2009’da 2.278.109 Ton, 2010’da ise 2.685.865 Ton ve 2011 yılında 2.783.914 Ton olarak gerçekleşmiştir. Miktar bazında ihracatta 2011 yılında toplam ihracat içinde %28 pay ile ÇHC birinci sırada yer alırken, Güney Kore %21 ile ikinci sırada, Tayvan %13 ile üçüncü ve Tayland %7 ile dördüncü, Hindistan %5 ile beşinci sırada yer almaktadır.
+(2) Birim fiyatlar incelendiğinde polyester elyaf, 2009 yılında 1.186 ABD Doları/Ton, 2010’da 1.390 ABD Doları/Ton ve 2011 yılında 1.837 ABD Doları/Ton birim fiyatından işlem görmüştür.
+(3) Dünyada iklim değişikliği, ekilebilir alanların azalması pamuk fiyatlarını arttıracağından, polyestere olan talebin artacağı öngörülmektedir. Pamuk arzındaki düşüşün, önümüzdeki 5 yıl içerisinde dünyada polyester elyafa olan talebi daha da arttıracağı değerlendirilmektedir.

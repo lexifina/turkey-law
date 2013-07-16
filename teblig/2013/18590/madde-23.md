@@ -1,0 +1,3 @@
+Esas soruşturmada tespit edilen damping marjları
+MADDE 23 – (1) Soruşturma konusu üründe uygulanan mevcut dampinge karşı önlemin hukuki ve idari altyapısını teşkil eden esas damping soruşturması esnasında ÇHC için tespit edilen damping marjları, bahse konu ülkedeki yerleşik üretici/ihracatçıların önlemin kalkması halinde muhtemel davranışlarını yansıtması bakımından önemli bir gösterge niteliği taşımaktadır.
+(2) Buna göre, 2007 yılında sona eren esas damping soruşturmasında ÇHC’de yerleşik Huvis Sichuan firması için CIF ihraç fiyatının %19,94’ü oranında damping marjı hesaplanmıştır. ÇHC’de yerleşik diğer firmalara yönelik damping marjı ise CIF ihraç fiyatın %30,61’i olarak belirlenmiştir.

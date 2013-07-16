@@ -1,0 +1,5 @@
+Ürünün soruşturma konusu ülkeden ithalatı
+MADDE 11 – (1) 2009-2011 döneminde ÇHC’den yapılan önlem konusu ürün ithalatı miktar bazında 2009 yılında 33.131.469 Kg, 2010 yılında 14.416.882 Kg, 2011 yılında 33.843.033 Kg olmuştur. 2012 yılında ithalat ise 20.396.061 Kg’dır.
+(2) ÇHC’den yapılan ithalatın birim fiyatı, 2009 yılında 1,48 ABD Doları/Kg, 2010 yılında 1,61 ABD Doları/Kg, 2011 yılında 1,93 ABD Doları/Kg olarak gerçekleşmiştir. 2012 yılı birim fiyatı ise 1,73 ABD Doları/Kg’dır.
+(3) ÇHC kaynaklı ithalatın toplam ithalat içindeki payı ise 2009 yılında %53, 2010 yılında %20 ve 2011 yılında %36 olarak gerçekleşmiştir. 2012 yılında bu oran %21’dir.
+(4) ÇHC kaynaklı ithalat içinde DİR kapsamında yapılan ithalatın payı 2009-2011 döneminde sırasıyla %17, %60 ve %56’dır. 2012 yılında bu oran %79’dur. Bahse konu dönemde, 2010 yılı haricinde DİR kapsamında yapılan ithalat ile DİR haricinde yapılan ithalatın birim fiyatlarında bir farklılaşmanın olmadığı görülmektedir. 2012 yılında ise, DİR kapsamında yapılan ithalatın birim fiyatı, DİR dışında yapılan ithalatın birim fiyatının kayda değer oranında altındadır.

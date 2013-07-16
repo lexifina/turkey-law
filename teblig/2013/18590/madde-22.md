@@ -1,0 +1,4 @@
+Türkiye pazarının önemi
+MADDE 22 – (1) Türkiye, tekstil sektörünün büyüklüğünün ve coğrafi konumunun sunduğu avantajdan ötürü ÇHC için önemli bir pazar olarak değerlendirilmektedir. Önlem konusu ürüne yönelik olarak Türkiye’nin iç pazar büyüklüğünün ve büyüme potansiyelinin önlem konusu ülke için cazip bir seviyede olduğu ve Türkiye’nin ilgili üründeki tüketim endeksinin 2009-2011 döneminde önemli ölçüde arttığı değerlendirilmektedir.
+(2) Ürünün talebi tekstil sektöründeki iplik, teknik tekstil (non-wowen) ve ev tekstili dolgu malzemesi talebine paralel olarak gelişmektedir.
+(3) Yerli üreticilerle yapılan görüşmeler ve genel ekonomik göstergeler dikkate alındığında, genel olarak Türkiye ekonomisinde ve tekstil sektöründe yaşanan ekonomik canlılığın ve iç talep artışının orta vadede de devam edeceği değerlendirilmektedir.
