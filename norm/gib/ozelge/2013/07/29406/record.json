@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-130-422",
+  "source_id": 29406,
+  "date": "2013-07-16",
+  "title": "Taşımacılık firmalarına sağlanan müşteri bulma/aracılık hizmeti karşılığında alınan komisyon bedelinin KDV ye tabi olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29406",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "01f6d3e9ef38ebcfe8fb121f3fa077f94b221ea9393b727e8395ac90cf5d20b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
