@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.18588",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAĞLIK KURALLARI BAKIMINDAN GÜNDE AZAMİ YEDİ BUÇUK SAAT VEYA DAHA AZ ÇALIŞILMASI GEREKEN İŞLER HAKKINDA YÖNETMELİK",
+  "number": "18588",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2013/18588",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18588&MevzuatTertip=5",
+  "source_sha256": "83d14d8fce6fd902667e609ab7b1337b776bf2dd57e7564299ab792f6b0aa192",
+  "source_bytes": 50858,
+  "published": "2013-07-16",
+  "gazette": "28709",
+  "in_force": "2013-07-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.07.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1644,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

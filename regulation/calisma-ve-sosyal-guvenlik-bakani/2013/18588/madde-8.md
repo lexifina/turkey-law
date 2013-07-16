@@ -1,0 +1,2 @@
+Bildirim yükümlülüğü
+MADDE 8 – (1) Bu Yönetmelikte sayılan işlerden herhangi birinin veya birkaçının sürekli olarak yapıldığı işyeri işverenleri, bu işlerin çeşit ve niteliklerini, yapılma zamanlarını, anılan işlerde çalışanların erkek ve kadınlar ayrı ayrı gösterilmek suretiyle sayılarını, işe başlamadan önce işin yürütüldüğü yerin bağlı bulunduğu Çalışma ve İş Kurumu İl Müdürlüğüne yazılı olarak bildirmekle yükümlüdürler.

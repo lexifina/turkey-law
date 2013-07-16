@@ -1,0 +1,2 @@
+İtirazlar
+MADDE 9 – (1) İşyerlerinde yapılan işlerin 4 ve 5 inci maddelerde sayılan işlerden olup olmadığına ilişkin itirazlar ile 4 ve 5 inci maddelerde yer almayan işlere ilişkin başvurular, kullanılan maddelerin özellikleri, uygulanan teknoloji ve alınan teknik ve idari toplu koruma önlemleri de göz önünde bulundurulmak ve Sağlık Bakanlığının görüşü alınmak suretiyle Çalışma ve Sosyal Güvenlik Bakanlığı tarafından karara bağlanır.
