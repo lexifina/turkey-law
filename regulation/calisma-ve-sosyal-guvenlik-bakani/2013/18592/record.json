@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.18592",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İŞYERİ BİNA VE EKLENTİLERİNDE ALINACAK SAĞLIK VE GÜVENLİK ÖNLEMLERİNE İLİŞKİN YÖNETMELİK",
+  "number": "18592",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2013/18592",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18592&MevzuatTertip=5",
+  "source_sha256": "0b431ec667a16dfd08ef4cb35eb7bd63aae221500c586f758d034ada53e52825",
+  "source_bytes": 101278,
+  "published": "2013-07-17",
+  "gazette": "28710",
+  "in_force": "2013-07-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.07.2013); own commencement article: \"Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3587,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
