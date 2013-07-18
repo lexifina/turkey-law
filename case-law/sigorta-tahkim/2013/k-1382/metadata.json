@@ -1,0 +1,15 @@
+{
+  "number": "K-2013/1382",
+  "award_date": "2013-07-18",
+  "heading_as_published": "18.07.2013 tarih ve K- 2013/1382 sayılı Hakem Kararı.",
+  "issue": "Hakem Karar Dergisi 15 Temmuz - Eylül 2013",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs15.pdf",
+  "source_sha256": "b873d2d5b5f75cabaae8ce92adb48e0227e85d9df2877f190d38fabab6577274",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 2,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
