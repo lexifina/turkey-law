@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[89-13/2]-768",
+  "source_id": 23607,
+  "date": "2013-07-19",
+  "title": "Emekli olduktan sonra çalışmaya devam eden serbest meslek erbabının sosyal güvenlik primi ve eğitim gideri indirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23607",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "fd5293dbf00c90ff3d516bf609eec957379fa0b69c07b880576fc6d39f7e2820",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
