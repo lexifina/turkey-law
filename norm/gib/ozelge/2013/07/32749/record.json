@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I.12.170.]-198",
+  "source_id": 32749,
+  "date": "2013-07-22",
+  "title": "Tekstil Makineleri İmali ve torna freze işlerinde KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32749",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "e4290cdbf8bcc66005f163d8a6042521b4da9a75ace00b383b7de13ae7cb29be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
