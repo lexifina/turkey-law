@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.18625",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2013/1)",
+  "number": "18625",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2013/18625",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18625&MevzuatTertip=5",
+  "source_sha256": "965aa3a950dcc84351cdbd8ac5f941dfb9312e741829e65931ad2518fe0e2652",
+  "source_bytes": 13391,
+  "published": "2013-07-23",
+  "gazette": "28716",
+  "in_force": "2013-07-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.07.2013); own commencement article: \"Bu Tebliğ, 3/7/2013 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 3/7/2013 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 375,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18625%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
