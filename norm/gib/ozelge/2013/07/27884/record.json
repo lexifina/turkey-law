@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[5-2013/122]-1072",
+  "source_id": 27884,
+  "date": "2013-07-23",
+  "title": "Tapuda arsa olarak tescilli olan ancak üzerinde 7 bağımsız bölüm bulunan gayrımenkulün bir kısmının veya tamamının satılması halinde kvk 5/1-e kapsamında istisnaya konu edilip edilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27884",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "25e79b7ca3ad327981ab2d2a181b689c3b9addaf7b7d5be9d83286190e8e7528",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
