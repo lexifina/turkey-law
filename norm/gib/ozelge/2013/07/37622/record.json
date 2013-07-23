@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97677631-125[32/A-1023-2013]-18",
+  "source_id": 37622,
+  "date": "2013-07-23",
+  "title": "İndirimli kurumlar vergisi uygulamasında yatırım tutarının revize edilmesi durumunda geçerli olan yatırıma katkı oranın belirlenmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37622",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "81ecbc52bf720cb714b767cd677d47349b3b06bfe67da42f70c492550c9b6543",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
