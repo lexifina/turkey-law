@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "51421814-120[18-2012-521]-77",
+  "source_id": 21129,
+  "date": "2013-07-23",
+  "title": "Sanat atölyesinde kendisine ve başkalarına ait resimlerin sergilenip satılmasında elde edilecek kazancın türü hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21129",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "61bb5404e1d2f6326f95df0b16cb05fc23a13e48b81ffc96a0ca82c2e6a88f55",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
