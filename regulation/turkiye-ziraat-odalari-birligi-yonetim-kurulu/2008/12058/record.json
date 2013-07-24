@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.12058",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ZİRAAT ODALARI VE TÜRKİYE ZİRAAT ODALARI BİRLİĞİ DANIŞMA KURULLARININ ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "12058",
+  "issuer": "Türkiye Ziraat Odaları Birliği Yönetim Kurulu",
+  "issuer_slug": "turkiye-ziraat-odalari-birligi-yonetim-kurulu",
+  "path": "regulation/turkiye-ziraat-odalari-birligi-yonetim-kurulu/2008/12058",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12058&MevzuatTertip=5",
+  "source_sha256": "c28909e109aa1a4db105759553ee9e6698b07ab3e27639aa0447dc8f4fd0448b",
+  "source_bytes": 64586,
+  "published": "2008-03-28",
+  "gazette": "26830",
+  "in_force": "2013-07-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/7/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-07-24",
+      "RG-24/7/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-07-24",
+      "24/7/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 601,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
