@@ -1,0 +1,2 @@
+Diğer hükümler
+MADDE 11 – (1) Soruşturma sonucunda, bu Tebliğin 4 üncü maddesinin dördüncü fıkrasında bahsi geçen Filipinler menşeli ve/veya Filipinler çıkışlı sentetik filament iplikten dokunmuş mensucatta (giyim için olanlar) uygulanan dampinge karşı önlem soruşturmaya bağlı olarak soruşturma sonuçlanıncaya kadar yürürlükte kalmaya devam eder. Söz konusu önlemin soruşturma sonucunda alınacak karara göre muhafaza edilerek veya değiştirilerek uygulanmasına ya da kaldırılmasına karar verilebilir.
