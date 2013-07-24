@@ -1,0 +1,5 @@
+Müdür
+MADDE 8 – (1) Müdür; deney hayvanları ile ilgili araştırma alanlarında yayınları, diğer akademik faaliyetleri ve laboratuvar çalışmaları olan Üniversitenin Tıp Fakültesi öğretim üyeleri arasından üç yıl süreyle Rektör tarafından görevlendirilir. Süresi sona eren Müdür, tekrar görevlendirilebilir. Gerekli görülen hallerde Müdür, süresi sona ermeden görevinden alınabilir.
+(2) Müdürün teklifi üzerine, Yönetim Kurulu üyeleri arasından en fazla iki kişi Müdür yardımcısı olarak Rektör tarafından üç yıl süre ile görevlendirilir.
+(3) Müdüre bulunmadığı durumlarda Müdür tarafından belirlenen müdür yardımcılarından biri, Müdür yardımcılarının da bulunmadığı durumda Yönetim Kurulu üyelerinden biri vekâlet eder.
+(4) Müdürün görev süresinin dolması, altı aydan uzun süreli Üniversite dışında görevlendirilmesi ve mazeretsiz olarak görevi başında bulunmaması veya herhangi bir nedenle görevinden ayrılması halinde görevi sona erer. Müdürün görevinin sona ermesi halinde yardımcılarının da sona erer. Aynı usulle yeni Müdür ve yardımcıları görevlendirilinceye kadar Rektör tarafından Yönetim Kurulu üyelerinden bir öğretim üyesi Müdür olarak görevlendirilir.

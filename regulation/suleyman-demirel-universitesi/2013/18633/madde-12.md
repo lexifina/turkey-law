@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; Müdür, Müdür yardımcıları ve SDÜ-HADYEK Başkanı ile Üniversitenin veya diğer üniversitelerin öğretim üyeleri/öğretim elemanları arasından Yönetim Kurulunca Rektöre önerilen ve Rektör tarafından üç yıl süreyle görevlendirilen on yedi üyeden oluşur. Danışma Kurulu üyeleri aynı usulle yeniden görevlendirilebilir.
+(2) Danışma Kurulu, yılda en az bir kez Müdürün daveti üzerine toplanır. Müdür gerektiğinde Danışma Kurulu üyelerini, düşünce ve deneyimlerinden yararlanmak, görüşlerini almak ve Merkezin faaliyetleri hakkında bilgi vermek üzere Yönetim Kurulu toplantılarına oy hakkı olmadan davet edebilir.
