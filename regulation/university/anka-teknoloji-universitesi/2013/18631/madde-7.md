@@ -1,0 +1,3 @@
+Başkan, başkan vekilleri ve görevleri
+MADDE 7 – (1) Mütevelli Heyet Başkanı, heyet üyeleri içerisinden dört yıl süreliğine iki başkan vekili seçer. Süresi dolan başkan vekilleri yeniden seçilebilir.
+(2) Başkan, Mütevelli Heyeti temsil eder. Üniversitenin harcama yetkilisi olup, Mütevelli Heyetin kendisine verdiği yetkileri kullanır ve bu Yönetmelik ve ilgili diğer mevzuat hükümleriyle verilen görevleri yürütür. Başkan, yokluğunda başkan vekillerinden birini yerine vekil olarak görevlendirir ve gerekli görürse yetkilerinden bir bölümünü vekillerine devredebilir. Başkan, Mütevelli Heyet üyeleri arasından çeşitli alanlarda ihtisas komisyonları kurabilir.
