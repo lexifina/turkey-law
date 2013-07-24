@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[229-2012/VUK-1- . . .]--1082",
+  "source_id": 25167,
+  "date": "2013-07-24",
+  "title": "Serbest bölgede faaliyette bulunan firmanın yurtiçi ve serbest bölgeden yaptığı alım-satımların Ba-Bs formunda bildirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25167",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "b700c0470fe3e36adc8c62836b2743244c59440f0573f77cf49c1d074cec0223",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
