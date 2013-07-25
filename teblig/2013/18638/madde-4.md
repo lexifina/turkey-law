@@ -1,0 +1,2 @@
+Mevcut önlem
+MADDE 4 – (1) 30/7/2008 tarihli ve 26952 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No:2008/24) kapsamında ÇHC menşeli laminat parkeler için yürürlükte olan dampinge karşı önlem Jiangsu Lodgi Woods Industry Co. Ltd., Changzhou Lingdian Woods Co. Ltd., Changzhou Dongjia Decorative Materials Co. Ltd., Changzhou Ou Qiang Wood Industry Co. Ltd. ve Jiangsu Zhongxin Desai Wood Product Co. Ltd. firmaları için 1,60 ABD Doları/m2; diğer firmalar için ise 2,40 ABD Doları/m2’dir.
