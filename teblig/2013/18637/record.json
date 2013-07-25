@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.18637",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2013/12)",
+  "number": "18637",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2013/18637",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18637&MevzuatTertip=5",
+  "source_sha256": "fc700437544427c4c4429b5bd8e1dbc6bf8a721bb6949a79350bf96f5e74a861",
+  "source_bytes": 37853,
+  "published": "2013-07-25",
+  "gazette": "28718",
+  "in_force": "2013-07-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.07.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1008,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
