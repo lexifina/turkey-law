@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I-12-126]-201",
+  "source_id": 30529,
+  "date": "2013-07-25",
+  "title": "Engellilere verilen fizik tedavi ve rehabilitasyon hizmetleri bedellerinin Milli Eğitim Müdürlüğünce karşılanması durumunda tevkifat uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30529",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "d9568c041b39bca2ce1b1870205119196ce9efef4bbc14d7311dee37947b51d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
