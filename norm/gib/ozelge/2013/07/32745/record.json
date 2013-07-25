@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-130[9-28-2012/50]-136",
+  "source_id": 32745,
+  "date": "2013-07-25",
+  "title": "Sağlık personeli temininde KDV oranı ve tevkifat uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32745",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "67fa7a0d6e6190d71ed0917b2184db39bef751a8fad9b58fd31e249cbef394e4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
