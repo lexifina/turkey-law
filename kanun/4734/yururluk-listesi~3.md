@@ -11,3 +11,4 @@ KHK/661 | 53, Geçici Madde 11, Geçici Madde 12 | 2/11/2011
 6461 | 3 | 1/5/2013
 6462 | 53 | 3/5/2013
 6475 | Geçici Madde 4 | 23/5/2013
+Anayasa Mahkemesi 27/9/2012 tarihli ve E:2012/20, K:2012/132 | 65 | 26/7/2013

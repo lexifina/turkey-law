@@ -1,5 +1,5 @@
 Çerçeve anlaşmalar (1)
-Ek Madde 2 – (Ek: 1/6/2007-5680/2 md.; Değişik: 20/11/2008-5812/27 md.)
+Ek Madde 2 – (Ek: 1/6/2007-5680/2 md.;Değişik: 20/11/2008-5812/27 md.)
 İdareler ihtiyaç duydukları mal ve hizmet alımları ile yapım işlerine ilişkin olarak açık ihale veya belli istekliler arasında ihale usulünü uygulamak kaydıyla çerçeve anlaşmalar yapabilir. Çerçeve anlaşmalar rekabeti engelleyici, sınırlayıcı veya bozucu şekilde kullanılamaz.
 Çerçeve anlaşma kapsamında temin edilecek mal ve hizmet alımları ile yapım işleri Kanunun 13 üncü maddesine göre ilan edilir. Çerçeve anlaşma kapsamında karşılanması planlanan tahmini ihtiyaç miktarları ilanda gösterilir.
 Teminat alınmasına ilişkin hükümler hariç olmak üzere, ihalelerin sözleşmeye bağlanması hakkında bu Kanunda yer alan hükümler çerçevesinde, süresi kırksekiz ayı geçmemek üzere çerçeve anlaşma imzalanır ve sonuçlar Kamu İhale Bülteninde ilan edilir.
