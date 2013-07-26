@@ -1,5 +1,5 @@
 İstisnalar
-Madde 3- (Değişik: 30/7/2003-4964/2 md.)
+Madde 3-(Değişik: 30/7/2003-4964/2 md.)
 a) Kanun kapsamına giren kuruluşlarca, kuruluş amacı veya mevzuatı gereği işlemek, değerlendirmek, iyileştirmek veya satmak üzere doğrudan üreticilerden veya ortaklarından yapılan tarım veya hayvancılıkla ilgili ürün alımları ile 6831 sayılı Orman Kanunu gereğince orman köyleri kalkındırma kooperatiflerinden ve köylülerden yapılacak hizmet alımları,
 8228
 b) (Değişik: 20/11/2008-5812/1 md.) Savunma, güvenlik veya istihbarat alanları ile ilişkili olduğuna veya gizlilik içinde yürütülmesi gerektiğine ilgili bakanlık tarafından karar verilen veya mevzuatı uyarınca sözleşmenin yürütülmesi sırasında özel güvenlik tedbirleri alınması gereken veya devlet güvenliğine ilişkin temel menfaatlerin korunmasını gerektiren hallerle ilgili olan mal ve hizmet alımları ile yapım işleri,
@@ -17,7 +17,7 @@ j) (Ek: 3/3/2005-5312/25 md.) Deniz Çevresinin Petrol ve Diğer Zararlı Maddel
 k) (Ek: 20/2/2008-5737/79 md.) Vakıf kültür varlıklarının onarımları ve restorasyonları ile çevre düzenlemesine ilişkin mal veya hizmet alımları,
 l) (Ek: 27/12/2007-5726/24 md.) Tanıkların korunmasına ilişkin mevzuat hükümlerine göre alınacak koruma tedbirlerinin uygulanması için gerekli olan mal ve hizmet alımları,
 m) (Ek: 9/7/2008-5784/28 md.) Boru Hatları ile Petrol Taşıma A.Ş. (BOTAŞ) tarafından ithalat yoluyla yapılacak spot sıvılaştırılmış doğal gaz (LNG) alımları,
-n) (Ek: 20/11/2008-5812/1 md.) Uluslararası mükellefiyetlerden doğan veya ulusal amaçlı; savunma, güvenlik, insani yardım gibi durumlarda ortaya çıkabilecek acil ihtiyaçların, süratli ve etkin bir biçimde temini amacıyla, önceden güvenceler alınmasına olanak sağlayan anlaşmalar veya sözleşmeler yapmak suretiyle mal ve hizmet alımları,
+n) (Ek: 20/11/2008-5812/1 md.;) Uluslararası mükellefiyetlerden doğan veya ulusal amaçlı; savunma, güvenlik, insani yardım gibi durumlarda ortaya çıkabilecek acil ihtiyaçların, süratli ve etkin bir biçimde temini amacıyla, önceden güvenceler alınmasına olanak sağlayan anlaşmalar veya sözleşmeler yapmak suretiyle mal ve hizmet alımları,
 ––––––––––––
 (1) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2013 tarihinden itibaren uygulanması ile ilgili olarak, 30/1/2013 tarihli ve 28544 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2013/1 No.’lu Kamu İhale Tebliğine bakınız.
 (2) 20/11/2008 tarihli ve 5812 sayılı Kanunun 1 inci maddesiyle; bu bendin sonuna “sağlık hizmeti sunan bu Kanun kapsamındaki idarelerin teşhis ve tedaviye yönelik olarak birbirlerinden yapacakları mal ve hizmet alımları,” ibaresi eklenmiş ve metne işlenmiştir.
@@ -26,6 +26,6 @@ n) (Ek: 20/11/2008-5812/1 md.) Uluslararası mükellefiyetlerden doğan veya ulu
 o) (Ek: 25/6/2009-5917/31 md.) Elektrik üretimi, iletimi, ticareti ve dağıtımı alanında faaliyet gösteren kamu iktisadi teşebbüslerinin, bu faaliyetlerinin yürütülmesine yönelik olarak diğer kamu kurum ve kuruluşlarından yapacakları enerji ve yakıt alımları,
 p) (Ek: 22/2/2007-5583/9 md.;Değişik: 3/6/2011-KHK-638/31 md.) Gençlik ve Spor Bakanlığının uluslararası gençlik faaliyetleri ile Spor Genel Müdürlüğü ve bağımsız spor federasyonlarının ulusal ve uluslararası sportif faaliyetlerine ilişkin mal ve hizmet alımları, (1)
 r) (Ek: 13/2/2011-6111/177 md.) Fakir ailelere kömür yardımı yapılmasına ilişkin Bakanlar Kurulu kararnameleri kapsamında; işleticisi kim olursa olsun, Türkiye Kömür İşletmeleri Kurumu Genel Müdürlüğünün kendisine veya bağlı ortaklık veya iştiraklerine ait olan kömür sahalarından yapacağı mal ve hizmet alımları,
-s) (Ek: 31/3/2012-6288/5 md.; Değişik: 24/4/2013-6461/10 md.) Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğü ile Türkiye Cumhuriyeti Devlet Demiryolları Taşımacılık Anonim Şirketinin, Türkiye Demiryolu Makinaları Sanayii Anonim Şirketi, Türkiye Lokomotif ve Motor Sanayii Anonim Şirketi ve Türkiye Vagon Sanayii Anonim Şirketinden yapacağı mal veya hizmet alımları,
+s) (Ek: 31/3/2012-6288/5 md.; Değişik; 1/5/2013-6461/10 md.) Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğü ile Türkiye Cumhuriyeti Devlet Demiryolları Taşımacılık Anonim Şirketinin, Türkiye Demiryolu Makinaları Sanayii Anonim Şirketi, Türkiye Lokomotif ve Motor Sanayii Anonim Şirketi ve Türkiye Vagon Sanayii Anonim Şirketinden yapacağı mal veya hizmet alımları,
 t) (Ek: 4/7/2012-6353/27 md.) Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının kurduğu veya iştirak ettiği şirketten (ÖSYM’nin yapacağı mal ve hizmet alımlarında Yükseköğretim Kurulunun uygun görüşü alınmak kaydıyla) sınav faaliyetlerinin yürütülmesine yönelik olarak yapılacak mal ve hizmet alımları,
 Ceza ve ihalelerden yasaklama hükümleri hariç bu Kanuna tâbi değildir.
