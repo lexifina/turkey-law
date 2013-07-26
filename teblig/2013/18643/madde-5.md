@@ -1,0 +1,3 @@
+Gerekçe
+MADDE 5 – (1) 31/1/2013 tarihli ve 28545 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No:2013/2) ile mevcut önlemlerin yürürlükte kalma sürelerinin sona ereceği ve bahse konu ürünün yerli üreticilerinin mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir başvuru ile bir nihai gözden geçirme soruşturması açılması talebinde bulunabilecekleri ilan edilmiştir.
+(2) Bu çerçevede yapılan başvurunun incelenmesi neticesinde, ÇHC menşeli önleme konu ürün için uygulanan dampinge karşı önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin olarak bir nihai gözden geçirme soruşturması açılması için yeterli delillerin bulunduğu anlaşılmıştır.
