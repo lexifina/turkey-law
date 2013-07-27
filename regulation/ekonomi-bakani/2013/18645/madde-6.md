@@ -1,0 +1,3 @@
+Denetim raporlarının hazırlanması
+MADDE 6 – (1) Piyasa gözetimi ve denetimi esnasında temin edilen bilgilerin Genel Müdürlükçe raporlama ihtiyaçları doğrultusunda belirlenen kısmı piyasa gözetimi ve denetimini gerçekleştiren yetkili kuruluşlarca PGDBİS’e üçer aylık dönemler halinde ve yıllık olarak kaydedilir. Bu verilere ilişkin güncelleme işlemleri yine yetkili kuruluşlar tarafından gerçekleştirilir.
+(2) Yetkili kuruluşlar, “Piyasa Gözetimi ve Denetimi Raporu Hazırlama Rehberi”ne uygun olacak şekilde bu bilgileri PGDBİS’e kaydeder. Rehber Genel Müdürlükçe yetkili kuruluşlara en geç her yılın Aralık ayı sonuna kadar iletilir.
