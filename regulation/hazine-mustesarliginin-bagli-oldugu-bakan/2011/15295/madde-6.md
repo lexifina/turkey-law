@@ -1,0 +1,2 @@
+Gözetim ve denetim süreci
+MADDE 6 – (1) Müsteşarlığın gözetim ve denetim faaliyeti, denetime tabi olanların sigortacılık ve özel emeklilik sektörlerinde faaliyet göstermek üzere kurulmalarından ya da bu amaçla kurulmak veya ruhsat, lisans, uygunluk belgesi ya da onay almak üzere Müsteşarlık veya yetkilendireceği kuruluşlara başvurmalarından itibaren faaliyetlerinin sona ermesine ve hak sahiplerine karşı olan yükümlülüklerinin tamamen yerine getirilmesine kadar olan tüm süreci kapsar.

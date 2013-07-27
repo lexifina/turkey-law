@@ -1,0 +1,4 @@
+ALTINCI BÖLÜM
+Meslek Personelinin Yetkileri ile Mesleki Etik Kuralları
+Meslek personelinin yetkileri
+MADDE 27 – (1) Meslek personeli, bu Yönetmelikte belirtilen görevleri kapsamında denetime tabi gerçek ve tüzel kişiler ile bunların bağlı ortaklıkları, birlikte kontrol edilen ortaklıkları, iştirakleri, şubeleri ve temsilcilikleri, Türkiye Sigorta ve Reasürans Şirketleri Birliği ve bağlı kuruluşları, Tarım Sigortaları Havuz İşletmesi A.Ş., Doğal Afet Sigortaları Kurumu, Emeklilik Gözetim Merkezi A.Ş., bankalar ve diğer finans kurumları, sigortacılık ve özel emeklilikle ilgili meslekî faaliyet icra edenler ve diğer benzeri sivil toplum ve meslek kuruluşları ile gerçek ve tüzel kişilerden görevleri ile ilgili gerekli gördükleri her türlü bilgi ve belgeyi istemeye ve bunların tüm defter ve kayıtlarını incelemeye yetkilidirler.

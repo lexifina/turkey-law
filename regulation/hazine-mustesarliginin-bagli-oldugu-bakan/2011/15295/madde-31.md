@@ -1,0 +1,3 @@
+Kamuyu aydınlatma
+MADDE 31 – (1) Müsteşarlık, gözetim ve denetim faaliyet ve politikalarının yürütülmesi ile hedeflerin açıklanması ve izlenmesi amacıyla yıllık olarak Sigortacılık ve Özel Emeklilik Sektörleri Gözetim ve Denetim Faaliyet Raporu hazırlar ve internet sitesi aracılığıyla kamuoyuna duyurur. Hazırlanan raporda, bir önceki yıla ait hedeflerin gerçekleşme derecesi ile bu hedeflerden sapmalara ilişkin değerlendirmelere de yer verilir.
+(2) Müsteşarlık, kamuyu aydınlatmak amacıyla beş yıllık Sigortacılık ve Özel Emeklilik Sektörleri Gözetim ve Denetim Politika Belgesi hazırlayarak kamuoyuna duyurur.

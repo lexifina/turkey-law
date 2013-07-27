@@ -1,0 +1,3 @@
+Kalite güvence sistemi ile uluslararası ilke ve standartlar
+MADDE 30 – (1) Müsteşarlık, gözetim ve denetim sistemi ile denetim ürünlerinin uluslararası genel kabul görmüş ilke ve standartlara uyumunu kalite güvence sisteminin ayrılmaz bir parçası olarak değerlendirir ve gözetim ve denetim sistemi ile denetim ürünlerinin uluslararası genel kabul görmüş ilke ve standartlara uyumu konusunda yıllık olarak iç değerlendirme yapar.
+(2) Müsteşarlık, gözetim ve denetim sistemi ile denetim ürünlerinin uluslararası genel kabul görmüş ilke ve standartlara uyumunun beşer yıllık dönemler itibariyle bağımsız bir analize tabi tutulmasına karar verebilir.

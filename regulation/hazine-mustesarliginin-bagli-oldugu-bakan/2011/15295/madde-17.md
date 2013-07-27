@@ -1,0 +1,7 @@
+Çalışma programı
+MADDE 17 – (1) Müsteşarlık tarafından, şirketler ile denetime tabi diğer gerçek ve tüzel kişiler nezdinde yürütülen yerinde denetim faaliyeti, çalışma programları kapsamında veya gerektiğinde program dışı görevlendirmeler yoluyla gerçekleştirilir.
+(2) Çalışma programı, yıllık veya dönemlik olarak hazırlanır ve Müsteşar Onayı ile yürürlüğe konulur.
+(3) Çalışma programında, şirketlerin faaliyet konusu, hacmi ve çeşitliliği ile gözetim ve risk değerlendirme sonuçlarına göre yerinde denetim yapılacak şirketlere ve denetimlerin kapsamına yer verilir. Kurul meslek personelinin uzmanlık alanlarına bağlı olarak ifa edecekleri denetim konuları ile görev sıralamaları da çalışma programında belirtilir.
+(4) Yıllık Çalışma Programı ve dönemlik olarak hazırlanması halinde Birinci Dönem Çalışma Programı Ocak ayı sonuna kadar, İkinci Dönem Çalışma Programı ise Temmuz ayı sonuna kadar yürürlüğe konulur.
+(5) Çalışma programının denetim döngüsü boyunca değişikliğe tabi tutulmadan uygulanması esastır. Program, gerekli görüldüğü durumlarda revize edilebilir.
+(6) Çalışma programının hazırlanmasından sonra ortaya çıkan yerinde denetim ihtiyaçları ile şirketler hariç sigortacılık ve özel emeklilik sektörlerinde faaliyet gösteren diğer gerçek ve tüzel kişilerin denetimi; ihbar veya şikayet üzerine veyahut kuruluş, ruhsat, sermaye artırımı, hisse devri, birleşme, devir, portföy devri ve tasfiye gibi durumlar ile denetim sürecinde veya diğer nedenlerle ihtiyaç duyulması halinde yapılacak denetimler çalışma programı dışında gerçekleştirilebilir.

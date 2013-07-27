@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 9/12/1994 tarihli ve 4059 sayılı Hazine Müsteşarlığının Teşkilat ve Görevleri Hakkında Kanunun 2 nci maddesinin birinci fıkrasının (e) bendi ile 5 inci maddesinin birinci fıkrasının (c) bendi ve 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanununun 28 inci maddesi ile 28/3/2001 tarihli ve 4632 sayılı Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanununun 20 nci maddesi hükümlerine dayanılarak hazırlanmıştır.

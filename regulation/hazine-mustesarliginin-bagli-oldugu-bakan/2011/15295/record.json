@@ -1,0 +1,40 @@
+{
+  "source_id": "7.5.15295",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGORTACILIK VE ÖZEL EMEKLİLİK SEKTÖRLERİNİN GÖZETİM VE DENETİMİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "15295",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "issuer_slug": "hazine-mustesarliginin-bagli-oldugu-bakan",
+  "path": "regulation/hazine-mustesarliginin-bagli-oldugu-bakan/2011/15295",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15295&MevzuatTertip=5",
+  "source_sha256": "eaaa8071a4c090ffc6bf21f68a28230e47513a434585f7057fde4b0b060923ab",
+  "source_bytes": 147230,
+  "published": "2011-09-14",
+  "gazette": "28054",
+  "in_force": "2013-07-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/7/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-07-27",
+      "RG-27/7/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-07-27",
+      "27/7/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4892,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
