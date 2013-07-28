@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3 – (1) Bu Tebliğde yer alan;
+a) Alım, satım belgesi: Vergi Usul Kanununda belirtilen şartlara uygun olarak düzenlenen ve üreticiler tarafından ibraz edilen müstahsil makbuzunun ıslak imzalı bir nüshası, TMO alım fişi, ürün satış belgesinin fatura olması halinde ikinci sureti ya da onaylı fotokopisini,
+b) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+c) Banka: T.C. Ziraat Bankası Anonim Şirketini,
+ç) Borsa tescil beyannamesi: 18/5/2004 tarihli ve 5174 sayılı Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanununa göre düzenlenmiş belgeyi,
+d) ÇKS: Çiftçi Kayıt Sistemini,
+e) ÇKS belgesi: Üreticilerin 2012 yılı ÇKS veri tabanında kayıtlı olan veya ÇKS'ye kaydedilmek üzere çiftçilerden alınan Çiftçi Kayıt Formunun (C) bölümünde yer alan özlük, arazi ve ürün bilgilerini gösteren belgeyi,
+f) Destek kayıt formu: Başvuru sahibi üreticiye ait özlük, fark ödemesi desteğine esas üretim, verim, tohumluk, ürün satış bilgileri ve fark ödemesi desteğine esas değerlendirmenin yer aldığı sistemden alınacak belgeyi,
+g) Fark ödemesi desteği: Kütlü pamuk (yurt içerisinde üretilip sertifikalandırılan tohumları kullananlar), yağlık ayçiçeği, soya fasulyesi, kanola, dane mısır, aspir, zeytinyağı, buğday, arpa, çavdar, tritikale, yulaf, çeltik, kuru fasulye, nohut ve mercimek üreticilerine Kararname uyarınca yapılacak ödemeyi,
+ğ) İl komisyonu: Vali veya görevlendireceği vali yardımcısı başkanlığında; Bakanlık, Maliye Bakanlığı, Bilim Sanayi ve Teknoloji Bakanlığı, Tapu ve Kadastro Genel Müdürlüğü, Ziraat Odaları Birliği, sanayi ve ticaret odalarının ildeki temsilcileri ile bulunan yerlerde Gümrük ve Ticaret Bakanlığı, Ekonomi Bakanlığı ile ticaret borsası temsilcisinden oluşturulan komisyonu,
+h) İl/ilçe müdürlüğü: İl gıda, tarım ve hayvancılık müdürlükleri ile ilçe gıda, tarım ve hayvancılık müdürlüklerini,
+ı) İlçe komisyonu: Kaymakam başkanlığında; Bakanlık, Maliye Bakanlığı, Tapu ve Kadastro Genel Müdürlüğü, ilçe ziraat odası varsa sanayi ve ticaret odaları ile ticaret borsası temsilcilerinden oluşturulan komisyonu,
+i) Kararname: 2012 Yılında Yapılacak Tarımsal Desteklemelere İlişkin Kararı,
+j) Sertifikalı tohumluk: Yurt içinde üretilip, sertifikalandırılan elit, orijinal ve sertifikalı kademedeki tohumluğu,
+k) Tarımsal Destekleme ve Yönlendirme Kurulu: Tarım Kanununun 16 ncı maddesine göre oluşturulan Kurulu,
+l) Tasiriye faturası: Maliye Bakanlığı tarafından bastırılan, müteselsil seri ve sıra numarası taşıyan, vergi dairesine kayıtlı gerçek ve tüzel kişi niteliğindeki zeytin sıkma tesislerince üreticiden teslim alınan zeytinin sıkma bedeli karşılığında düzenlenen ve üreticinin adı soyadı, bağlı olduğu il, ilçe ve köyünü gösterir şekilde açık adresi, üretici tarafından getirilen zeytinin kilosu, cinsi ve elde edilen yağ miktarını gösterir faturayı,
+m) Tohumluk sertifikası: Tohumluğun sınıf ve kademesini belirten, Bakanlık tarafından görevlendirilmiş sertifikasyon kuruluşlarınca düzenlenen belgeyi,
+n) Üretici: 2012 yılında çiftçi kayıt sisteminde özlük, ürün, arazi bilgileri kayıtlı olan ve bu arazilerinde fark ödemesi desteğine esas ürünleri ürettiği il/ilçe müdürlüğü tarafından tespit edilen kamu tüzel kişilikleri hariç, gerçek ve tüzel kişileri,
+ifade eder.
