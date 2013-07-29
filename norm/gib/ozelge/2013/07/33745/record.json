@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-135[1-2012/5]-799",
+  "source_id": 33745,
+  "date": "2013-07-29",
+  "title": "Isıtıcılı ve Isıtıcısız Hava Perdesinin ÖTV'ye tabi olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33745",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "2713d5f92a5f4d2d4d7e12d231306fc5f7e99f91e23242c14c46fcc93cb2e3ae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
