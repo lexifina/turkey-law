@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "46464534-B.07.4.DEF.4.66.00.1-4",
+  "source_id": 24486,
+  "date": "2013-07-29",
+  "title": "Hayvansal gübrenin G.V. Stopajı ve KDV'si Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24486",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "16bcdc98ed6a2678990241e9a41dccb62ab9d6560a100504ff2ff70cec6c8ae2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
