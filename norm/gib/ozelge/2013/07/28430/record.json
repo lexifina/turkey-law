@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[6111-11/3]-807",
+  "source_id": 28430,
+  "date": "2013-07-30",
+  "title": "6111 sayılı Kanundan yararlanılarak ortaklar cari hesabının düzeltilmesi sonucu bilançoda oluşan ticari zararın geçmiş yıl kârlarından mahsup edilmesinin vergi kanunları karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28430",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "ff170293cf0ee53b7b31d0a9cedfb56cabe23e6d920e679e356d9d39bb194277",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
