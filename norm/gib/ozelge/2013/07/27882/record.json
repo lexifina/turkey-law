@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-125[5-2012/20-203]-78",
+  "source_id": 27882,
+  "date": "2013-07-30",
+  "title": "Damızlık birliği tarafından tarımsal kalkınma kooperatifine, kooperatifçe de süt üreticilerine aktarılan destek bedellerinin kurumlar vergisine tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27882",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "3610e19eca614d2feab4a783f42bb720e6b11fb352b79feed41ce04254b05ca4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
