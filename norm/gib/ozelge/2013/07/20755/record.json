@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[74-13/4]-815",
+  "source_id": 20755,
+  "date": "2013-07-30",
+  "title": "Resmi görevle yurtdışında bulunan kişinin kira ödemelerinin kira geliri nedeniyle vereceği beyannamede indirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20755",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "f5e8891c3bc101ba2b87cdb942b43914ad76e976f76a683b86aa503bc5fde8fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
