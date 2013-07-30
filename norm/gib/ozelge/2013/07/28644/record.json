@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[30-11/5]-806",
+  "source_id": 28644,
+  "date": "2013-07-30",
+  "title": "Almanya ve Belçika'dan ithal edilen engel atlama atı ve nitelikli konkur atları için firmaya ödediğiniz tutarlar üzerinden vergi tevkifatı yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28644",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "3729b9b87b69afdb3dec00f22d9bb70f33951252cfa07bd9ffffa429b7dc35cd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
