@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-48.15.01/KV-20-53",
+  "source_id": 25427,
+  "date": "2013-07-30",
+  "title": "Derneğin kira gelirinde KDV ve belge düzeni",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25427",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "7a9f90e2d7d637d4c3ff05b7c1cbeac15eb7d96cd2e19ef9706a210185558ae3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
