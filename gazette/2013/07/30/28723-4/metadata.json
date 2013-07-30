@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-07-30",
+  "issue": "28723",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çay Bahçesi Kuracak Olanlara Ruhsatname Verilmesinde Uygulanacak Esaslara Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130730-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130730.htm",
+  "index_sha256": "da2acff5fdbb24cc6f05713083a1e2556bd6a5bb074aeabaa0c6f20fbe508fe5",
+  "index_header": "30 Temmuz 2013 ... 28723 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130730.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
