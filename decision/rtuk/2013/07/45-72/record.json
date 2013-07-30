@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2013/45",
+  "meeting_date": "2013-07-30",
+  "meeting_date_as_published": "30.7.2013",
+  "decision_no": "72",
+  "source_id": 2783,
+  "title": "RTÜK kararı 2013/45-72",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/2783",
+  "source_sha256": "d55611bdea4a187fe7cd575335ebde7390bf3147f9ada424d91748f73aefd777",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (4 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
