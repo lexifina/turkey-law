@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.18660",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇAY BAHÇESİ KURACAK OLANLARA RUHSATNAME VERİLMESİNDE UYGULANACAK ESASLARA DAİR YÖNETMELİK",
+  "number": "18660",
+  "issuer": "Çay İşletmeleri Genel Müdürü",
+  "issuer_slug": "cay-isletmeleri-genel-muduru",
+  "path": "regulation/cay-isletmeleri-genel-muduru/2013/18660",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18660&MevzuatTertip=5",
+  "source_sha256": "8496ea0ec7ac805346831a96d2679f4a4f4ddb5017dd7d1de07bd034115c2d87",
+  "source_bytes": 36492,
+  "published": "2013-07-30",
+  "gazette": "28723",
+  "in_force": "2013-07-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.07.2013); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 716,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.18660%20ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
