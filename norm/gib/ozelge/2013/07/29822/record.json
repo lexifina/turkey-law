@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-125-455",
+  "source_id": 29822,
+  "date": "2013-07-30",
+  "title": "Ciro pirimlerinin kurumlar vergisi açısından gelir unsuru olarak mı, maliyet unsuru olarak mı dikkate alınacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29822",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "7a69b0d43d1089ea0a56834ed4fefa75465a9cf00441f90f3a46574ddcac182a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
