@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[30-12/18]-838",
+  "source_id": 27604,
+  "date": "2013-07-31",
+  "title": "Yurtdışı mukimi firmadan satın alınan makinenin arızalanıp yurtdışındaki mukim firmaya geri gönderilip tamir ettirilmesindeki ödemelerden tevkifat yapılıp yapılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27604",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "57ab2f6c521a077e066c4ce9fddff13477ee17628af35687f9b6654d37c492ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
