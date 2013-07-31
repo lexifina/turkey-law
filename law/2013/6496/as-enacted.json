@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6496",
+  "year": 2013,
+  "title": "Sözleşmeli Erbaş ve Er Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-07-31",
+  "gazette_issue": "28724",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130731-10.htm",
+  "source_sha256": "d51cdd5846247e4dac533f71727c958708ccdb91f1bb655b65965bc491c506df",
+  "text_sha256": "56d7fb6428f3e7e3ac13ad4355689ed38e8cacba89058de66f361ccc48acc884",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/07/31/28724-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130731-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
