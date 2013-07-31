@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6497",
+  "year": 2013,
+  "title": "Pan-Avrupa-Akdeniz Tercihli Menşe Kurallarına Dair Bölgesel Konvansiyonun Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-07-31",
+  "gazette_issue": "28724",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130731-11.htm",
+  "source_sha256": "d5af376f84e6a9612d71ababbb8b0167e275ee622ff90191d9398820b64d31b9",
+  "text_sha256": "6eb01a4657cccc45a34651c7285a0bb0609362b66a31ba955871627d1deee722",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/07/31/28724-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/07/20130731-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
