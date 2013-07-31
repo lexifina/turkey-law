@@ -1,22 +1,20 @@
-ÜÇÜNCÜ KISIM
-Sözleşmeli Astsubaylar
-BİRİNCİ BÖLÜM
-Kaynak ve Yetiştirme
-Kaynak
-Madde 8 – (Değişik: 16/6/2009-5907/4 md.)
-(Değişik birinci fıkra: 26/6/2012-6336/21 md.)Sözleşmeli astsubay kaynaklarını; Genelkurmay Başkanlığınca tespit edilecek bölüm veya branşlarda fakülte, yüksekokul veya meslek yüksekokullarını bitirenlerden düzeltilmemiş nüfus kaydına göre müracaat yapılan yılın ocak ayının ilk günü itibarıyla dört yıl veya daha fazla süreli yükseköğrenimi bitirenler için yirmiyedi yaşını, dört yıldan daha az süreli yükseköğrenimi bitirenler için yirmidört yaşını bitirmemiş olanlardan ve aynı şartları haiz uzman erbaşlardan, Yönetmelikte belirtilen diğer şartları haiz bulunanlar teşkil eder.
-Askeri okullardan ve Türk Silahlı Kuvvetlerinden her ne sebeple olursa olsun ilişikleri kesilen personel, Türk Silahlı Kuvvetlerine sözleşmeli astsubay olarak alınmaz. Ancak, askerliğini 16/6/1927 tarihli ve 1076 sayılı Kanuna göre kısa dönem erbaş veya er ya da 21/6/1927 tarihli ve 1111 sayılı Kanuna tâbi erbaş ve er olarak yapanlardan terhis edilenler veya askerlik hizmetini yapmakta olanlar sözleşmeli astsubay olabilir.
-Sözleşmeli astsubaylık için genel olarak aşağıdaki nitelikler aranır:
-a) Türkiye Cumhuriyeti vatandaşı olmak.
-b) Bu Kanunda belirtilen öğrenim ile ilgili koşulları taşımak.
-c) Sağlık ile ilgili Yönetmelikte belirtilen şartları taşımak.
-d) Kamusal hakları kullanmaktan yoksun bırakılmamış olmak.
-e) Cezaları ertelenmiş, seçenek yaptırımlardan birisine çevrilmiş, genel ya da özel af kanunları kapsamına girmiş veya haklarında hükmün açıklanmasının geri bırakılmasına karar verilmiş olsa dahi;
-1) Devletin güvenliğine karşı işlenen suçlar, halkı askerlikten soğutmak, Türk Milletini, Türkiye Cumhuriyeti Devletini, Devletin kurum ve organlarını aşağılama ile zimmet, irtikap, iftira, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, yalan tanıklık, yalan yere yemin, suç uydurma, cinsel saldırı, cinsel taciz, kişiyi hürriyetinden yoksun bırakmak, fuhuş, gayri tabii mukarenet, hileli iflas gibi yüz kızartıcı veya şeref ve haysiyet kırıcı suçlar ile kaçakçılık, ihaleye fesat karıştırma, devlet sırlarını açığa vurma suçlarından birisinden,
-2) Firar, amir veya üste fiilen taarruz, emre itaatsizlikte ısrar, üste hakaret, mukavemet, fesat ve isyan suçlarından,
-3) 22/5/1930 tarihli ve 1632 sayılı Kanunun 148 inci maddesinde belirtilen suçlardan birisinden,
-mahkum olmamak.
-f) Güvenlik soruşturması olumlu sonuçlanmış olmak.
-g) Yapılacak olan sınavlarda başarılı olmak.
-Türk Silahlı Kuvvetlerinde istihdam edilenler ile uzman erbaşların bu görevlerinde aldıkları sicilin, sicil tam notunun % 85 veya daha üstünde olması şarttır. Halen bu görevlerde bulunanlar ile askerlik hizmetini yapmakta iken müracaat edenlerin ayrıca, sıralı üstlerinden sözleşmeli astsubay olmaya layık olduklarına dair yönetmelikte belirtilen olumlu nitelik belgesi almaları zorunludur.
-7969
+İzin, sosyal haklar, tertip edilme ve kuvvet değiştirme
+MADDE 8 – (1) Sözleşmeli erbaş ve erlerden barışta ve savaşta görev esnasında veya görev dışında görevlerinden dolayı bir saldırıya veya kazaya uğrayan veya bir meslek hastalığına yakalananların, iyileşinceye kadar ilişikleri kesilmez, izinli sayılırlar. Sıhhî arızası devam edenler ve kendisinden istifade edilemeyeceği anlaşılanlar hakkında 5510 sayılı Kanun hükümleri uygulanır.
+11455
+(2) Sözleşmeli erbaş ve erlerden;
+a) Kendi kusurları olmaksızın idare tarafından sözleşmeleri yenilenmeyenler ile sözleşme süresi içinde vefat, bir yıl içerisinde 6 ncı maddede belirtilen süreden daha fazla hava değişimi süresini geçirme, bulunduğu kadronun kaldırılması, istihdam edildiği kadronun sağlık niteliğini kaybetme nedenleriyle sözleşmeleri sona erenler, sözleşmeli erbaş ve er olarak hizmet ettikleri süre kadar,
+b) Sözleşme süresi sonunda kendi istekleriyle sözleşmelerini yenilemeyenler ile istihdam edildiği kuvvetinin değiştirilmesi yahut sınıfının kaldırılması sebebiyle kendi istekleri üzerine sözleşmesini feshedenler, sözleşmeli erbaş ve er olarak hizmet ettikleri sürenin yarısı kadar,
+müddetle genel sağlık sigortalısı sayılmaya devam olunur. Bu şekilde genel sağlık sigortalısı sayılmaya devam olunanların sigortalı hissesi dâhil genel sağlık sigortası primleri, prime esas günlük kazanç alt sınırının otuz katı üzerinden, Milli Savunma Bakanlığı veya İçişleri Bakanlığı tarafından ödenir. Genel sağlık sigortası priminin ödenmeye devam olunacağı dönem içerisinde, 5510 sayılı Kanunun 4 üncü maddesinde belirtilen sigortalılık hâllerinden biri kapsamında sigortalı olmayı gerektiren bir işte çalışanların, bu şekilde çalışmaları sebebiyle adlarına genel sağlık sigortası primi ödenen süreler için bu fıkra hükümlerine göre genel sağlık sigortası primi ödenmez.
+(3) Sözleşmeli erbaş ve erlerin vefatı hâlinde, 211 sayılı Kanunun 66 ncı maddesinin (b) fıkrası hükmü uygulanır.
+(4) Sözleşmeleri sağlık nedeniyle sona erenlerden; sözleşmelerinin sona ermesine neden olan sıhhî arızalarının tedavisine devam edilenlere, sözleşme sona erme tarihinden başlamak şartıyla oniki ayı geçmemek üzere tedavi süresince, görevdeki emsallerinin 7 nci maddenin üçüncü fıkrasına göre almış oldukları aylık net ücretin üçte ikisi her ay sağlık yardımı olarak kurumlarınca ödenir. Bu ödemeden hiçbir kesinti yapılmaz. Ödemeye ilişkin usul ve esaslar yönetmelikle düzenlenir. Ancak, sözleşme sona erme tarihinden itibaren oniki ay içerisinde sözleşmenin sona ermesine neden olan sıhhî arızasından dolayı, malûllük aylığına hak kazananlara, hak kazandıkları tarihten itibaren söz konusu yardım kesilir.
+(5) Sözleşmeli erbaş ve erlerin barışta her yıl kırkbeş gün izin alma hakkı vardır. Bu müddete yol dâhil değildir. Bu iznin onbeş günü mazeret izni olarak kullanılır. Yıllık izinlerin verilmesi, zamanı ve süresi hizmetin aksamaması esas alınmak suretiyle kıta, karargâh ve kurum amirlerince düzenlenir. Onbeş günlük mazeret izni dışında sözleşmeli erbaş ve erlere;
+a) Ana, baba, eş, çocuk ve kardeşlerinin ölümü hâlinde on gün,
+b) Yangın, deprem ve su baskını gibi olağanüstü bir mazeret dolayısıyla bir yıl içerisinde otuz güne kadar,
+mazeret izni verilebilir. Verilen mazeret izinleri yıllık izne mahsup edilmez. İzinler, ilgili yönetmelik esaslarına göre düzenlenir.
+(6) Sözleşmeli erbaş ve erlerin giyecek, bakım ve barınmaları ile iaşeleri erbaş ve erler gibi Devlet tarafından sağlanır. Bunlara, bu kapsamda başkaca bir ödeme yapılmaz. Sözleşmeli erbaş ve erlerin giyim, kuşam istihkakları, ilgili bakanlıklarca düzenlenecek istihkak ve tahsis listelerinde gösterilir.
+11456
+(7) Sözleşmeli erbaş ve erlerin kıyafetleri ile rütbelerinin şekli ve niteliği ilgili yönetmelikte gösterilir. Sözleşmeli erbaş ve erlerin silahları kadro silahıdır.
+(8) Sözleşmeli erbaş ve erlerin günlük faaliyet programı ve hafta sonu izinleri, 1111 sayılı Kanun gereği askerlik yapanlarda olduğu gibidir. Sözleşme ve görev süresince kışlada iskân edilirler.
+(9) (Değişik: 13/7/2013-6496/4 md.) Sözleşmeli erbaş ve erlerin ilk ve müteakip birliklere tertibi ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı Personel Başkanlıklarınca yapılır. Bu şekilde tertip edilen personel hakkında 1111 sayılı Kanunun erbaş ve erlere ilişkin hükümleri uygulanır.
+(10) Sözleşmeli erbaş ve erlerin, istihdam edildikleri kadro görev yerlerinin bağlı olduğu kuvvetin değişmesi durumunda kuvvetleri, ilgili Kuvvet Komutanlıkları, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığının görüşleri alındıktan sonra Genelkurmay Başkanlığı tarafından değiştirilebilir.
+(11) Kendi kusurları olmaksızın sözleşmesi feshedilenler ile kendi isteği ile sözleşmesini yenilemeyenler veya ayrılanlar, ilgili mevzuattaki şartları sağlamak şartıyla uzman erbaşlığa veya astsubaylığa başvurabilirler. Başvuruda bulunan sözleşmeli erbaş ve erlere yönetmelikte belirtilen esaslar dâhilinde öncelik verilir. (Ek: 13/7/2013-6496/4 md.) Sözleşmeli çavuşlar, uzman erbaşlığa uzman çavuş rütbesiyle başlarlar.

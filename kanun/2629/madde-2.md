@@ -50,6 +50,7 @@ f) Uçuş ekibi astsubayları ile adaylarına kıstas aylığın % 71’i,
 g) Görev ekibi subayları ile adaylarına kıstas aylığın % 71’i,
 ğ) Görev ekibi astsubayları ile adaylarına kıstas aylığın % 70’i,
 h) Görev ekibi uzman jandarma ve uzman erbaşlar ile adaylarına kıstas aylığın %69’u,
+ı) (Ek: 13/7/2013-6496/26 md.) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa tabi olup Sağlık ve Yardımcı Sağlık Hizmetleri Sınıfında bulunan görev ekibi personeline kıstas aylığın %50’si,
 üzerinden bu Kanuna ek cetvelde hizmet yılları (adaylar için birinci hizmet yılı) karşılığında gösterilen oranda aylık uçuş tazminatı ödenir.
 Harp okulu öğrencileri ile sözleşmeli subay adaylarına pilotluk eğitimine başlamadan önce havacılık ders konuları içerisinde yapacakları fiili uçuş eğitiminin her uçuş saati başına kıstas aylığın %5’i tazminat olarak ödenir.
 5491
@@ -217,7 +218,6 @@ Geçici Madde 4 – Bu Kanunun yürürlüğe girdiği tarihte; eğitim, harekat 
 ––––––––––––––––––
 (1) 11/10/2011 tarihli ve 666 sayılı KHK’nin 6 ncı maddesiyle, bu bentte yer alan “Denizaltı,” ibaresinden sonra gelmek üzere “ADS pilotu,” ibaresi eklenmiş ve metne işlenmiştir.
 (2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddede yer alan “sakatlananlar” ve “sakatlık” ibareleri sırasıyla “engelli hâle gelenler” ve “engellilik” şeklinde değiştirilmiştir.
-5496-2
 5497
 Geçici Madde 5 – (Mülga: 11/10/2011-KHK-666/6 md.)
 Geçici Madde 6 – (Mülga: 11/10/2011-KHK-666/6 md.)

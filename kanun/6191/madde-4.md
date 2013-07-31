@@ -1,5 +1,7 @@
 Sözleşme, hizmet şartları ve yedeklik dönemi
-MADDE 4 – (1) Sözleşmeli er adayları, ön sözleşme yapılarak askerî eğitime alınır. Askerî eğitimi başarı ile tamamlayanlarla, dört yıldan fazla olmamak kaydıyla en az üç yıllık sözleşme yapılır. Müteakip sözleşmeler, bir yıldan az üç yıldan fazla olmamak şartıyla azamî yirmidokuz yaşın bitirildiği yılın aralık ayı sonuna kadar uzatılabilir.
+MADDE 4 – (1) Sözleşmeli er adayları, ön sözleşme yapılarak askerî eğitime alınır. Askerî eğitimi başarı ile tamamlayanlarla, dört yıldan fazla olmamak kaydıyla en az üç yıllık sözleşme yapılır. Müteakip sözleşmeler, bir yıldan az üç yıldan fazla olmamak şartıyla azamî yedi yıllık hizmet süresi sonuna kadar uzatılabilir.(1)
+_________________
+(1) 13/7/2013 tarihli ve 6496 sayılı Kanunun 1 inci maddesi ile bu fıkrada yer alan “yirmidokuz yaşın bitirildiği yılın aralık ayı” ibaresi “yedi yıllık hizmet süresi” olarak değiştirilmiştir.
 11451
 (2) Sıkıyönetim, seferberlik, savaş veya terörle mücadeleden kaynaklanan zorunlu hâllerde ihtiyaç duyulanların sözleşme süreleri, talebe ve yaş haddine bakılmaksızın Kuvvet Komutanları, Jandarma Genel Komutanı veya Sahil Güvenlik Komutanının istemi üzerine ve durumun devamı müddetince, Genelkurmay Başkanının onayı ile uzatılabilir.
 (3) Sözleşmeli erbaş ve erler ile sözleşmeli er adayları, asker kişi sayılırlar. Sözleşmeli erbaşlar, muvazzaflık hizmetinde olan emsal rütbedeki erbaşların üstü, emsal rütbedeki uzman erbaşların astıdır. Sözleşmeli erbaşlar hakkında rütbenin geri alınması feri cezası uygulanmaz.

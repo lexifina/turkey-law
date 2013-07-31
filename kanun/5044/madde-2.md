@@ -1,5 +1,5 @@
 Madde 2 – Askeri yüksek okullarda:
-I - Meslek dersleri ögretmenleri,muvazzaf veya emekli subay ve askeri memurlardan;
+I – (Değişik: 13/7/2013-6496/12 md.) Meslek dersleri öğretmenleri, muvazzaf veya emekli askerî personelden;
 II - Diğer derslerin öğretmenleri:
 a) Üniversiteden mezun muvazzaf askeri öğretmenlerden;
 b) Bu dersleri okutabilecek ehliyette muvazzaf veya emekli subay ve askeri memurlardan;

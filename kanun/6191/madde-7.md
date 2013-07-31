@@ -14,3 +14,4 @@ Teşkilat, Görev ve Yetkileri Kanununun 21 inci maddesinde, Sahil Güvenlik Kom
 (9) Vefat eden sözleşmeli erbaş ve erlerin kanuni mirasçılarına, bu maddenin beşinci ve altıncı fıkralarında öngörülen ödeme aynen yapılır.
 (10) Sosyal Güvenlik Kurumu tarafından, mevzuatı uyarınca kendilerine veya hak sahiplerine aylık bağlananlara, beşinci ve altıncı fıkralarda öngörülen ödemeler yapılmaz.
 (11) (Değişik: 26/6/2012-6336/ 23 md.) Vefat eden ve Sosyal Güvenlik Kurumu tarafından ilgili mevzuat hükümleri gereğince emekliye ayrılan sözleşmeli erbaş ve erlerden, o aya ait peşin ödenen aylık geri alınmaz.
+(12) (Ek: 13/7/2013-6496/3 md.) Esir düşen, görevi sırasında harp gaibi olan veya enterne edilenler ile terörle mücadele görevi sırasında veya bu görevlerinden dolayı alıkonulan ya da kaybolan sözleşmeli erbaş ve erler hakkında 926 sayılı Kanun hükümleri uygulanır.
