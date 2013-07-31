@@ -8,3 +8,4 @@ Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numara
 5728 | 12, 13, 14, 18, 47, 98, 102, 141, 142, 143, 144, 145 | 8/2/2008
 KHK/661 | 143 | 2/11/2011
 6353 | 68/A | 12/7/2012
+6496 | 47 | 31/7/2013

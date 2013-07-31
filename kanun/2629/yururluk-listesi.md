@@ -25,3 +25,4 @@ KHK/666 | 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, Geçici Ma
 6266 | 6, 8 ve Ek Cetvel | 15/11/2011 tarihinden geçerli olmak üzere 13/1/2012
 6318 | 8 | 15/11/2011 tarihinden geçerli olmak üzere 3/6/2012
 6462 | 5, Üçüncü Bölüm Başlığı, 13, 14, 16, 19 | 3/5/2013
+6496 | 4 | 31/7/2013
