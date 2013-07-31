@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[234-2012-9286]-819",
+  "source_id": 29821,
+  "date": "2013-07-31",
+  "title": "Oto kiralama faaliyetiyle iştigal eden şirketin araç alım-satımının KV, KDV ve ÖTV yönünden değerlendirilmesi ve vergi mükellefi olmayan kişilerden ikinci el araç alımında KDV oranı ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29821",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "4c5971c60a7fa4e87435e71574b5528f7332d83b01170d56ddb6a7cbf12bba0e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
