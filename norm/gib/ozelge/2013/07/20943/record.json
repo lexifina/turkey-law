@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[9-13/26]-827",
+  "source_id": 20943,
+  "date": "2013-07-31",
+  "title": "Sim sırma (maraş) işinin esnaf muaflığından yararlanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20943",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "f1296370fd8e4d31e5bce80749e9a16b3d18fd53bb0cf2c33baa6ccc4cc48dc2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
