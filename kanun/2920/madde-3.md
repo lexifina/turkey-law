@@ -1,7 +1,7 @@
 Tanımlar
 Madde 3 – Bu Kanunda geçen;
 a) "Türk Hava Sahası" terimi: Türkiye Cumhuriyetinin egemenliği altındaki ülke ile Türk karasuları üzerindeki sahayı,
-b) "Hava Aracı" terimi: havalanabilen ve havada seyredebilme kabiliyetine sahip her türlü aracı,
+b) "Hava Aracı" terimi: havalanabilen ve havada seyredebilme kaabiliyetine sahip her türlü aracı,
 c) "Devlet Hava Aracı" terimi: Devletin askerlik, güvenlik ve gümrük hizmetlerinde kullandığı araçları,
 d) "Türk Sivil Hava Aracı" terimi: Devlet hava araçları tanımı dışında kalan ve mülkiyeti Türk Devletine veya kamu tüzelkişilerine veya Türk vatandaşlarına ait araçları,
 e) "Havaalanı" terimi: Karada ve su üzerinde hava araçlarının kalkması ve inmesi için özel olarak hazırlanmış, hava araçlarının bakım ve diğer ihtiyaçlarının karşılanmasına, yolcu ve yük alınmasına ve verilmesine elverişli tesisleri bulunan yerleri,

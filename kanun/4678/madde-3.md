@@ -1,13 +1,19 @@
-Tanımlar
-Madde 3 – Bu Kanunda geçen;
-a) (Değişik: 16/6/2009-5907/1 md.) Ön sözleşme: Türk Silâhlı Kuvvetleri birlik, karargâh, kurum ve kuruluşları ile sözleşmeli subay veya sözleşmeli astsubay adayları arasında; askerî eğitime alınmaları konusunda yapılan ve askerî eğitim dönemi başlangıcı ile subaylık veya astsubaylık nasıp kararnamesinin onay tarihine kadar geçecek süreyi kapsayan sözleşmeyi,
-b) Sözleşme : Türk Silâhlı Kuvvetleri birlik, karargâh, kurum ve kuruluşları ile sözleşmeli subay ve astsubay adaylarından askerî eğitimi başarıyla tamamlayanlar arasında yapılan ve üç yıldan az, dokuz yıldan fazla olmamak üzere hizmet yükümlülüğü getiren, örneğine göre hazırlanmış olan yazılı bir belgeyi,
-c) Sözleşmeli subay adayı : Sözleşmeli subay yetiştirilmek amacıyla ön sözleşme yapılarak askerî eğitime alınanları,
-d) Sözleşmeli astsubay adayı : Sözleşmeli astsubay yetiştirilmek amacıyla ön sözleşme yapılarak askerî eğitime alınanları,
-e) Sözleşmeli subay : Bu Kanunda öngörülen esaslara göre, kendileri ile sözleşme yapılarak subay nasbedilen teğmen, üsteğmen ve yüzbaşı rütbelerini haiz subayları,
-f) Sözleşmeli astsubay : Bu Kanunda öngörülen esaslara göre, kendileri ile sözleşme yapılarak astsubay nasbedilen; astsubay çavuş, astsubay kıdemli çavuş, astsubay üstçavuş ve astsubay kıdemli üstçavuş rütbelerini haiz astsubayları,
-g) (Değişik: 16/6/2009-5907/1 md.) Askeri eğitim: Sözleşmeli subay ve sözleşmeli astsubay adaylarına okul, kurum, sınıf okulu, kıtalar veya eğitim merkezlerinde yaptırılacak olan temel askerlik ile subaylık veya astsubaylık anlayışı kazandırma eğitimini,
-7966
-h) (Ek: 16/6/2009-5907/1 md.) Emsal: Sözleşmeli subaylar için subaylığa nasbedildikleri yıl harp okullarından mezun olan muvazzaf subayları; sözleşmeli astsubaylar için ise astsubaylığa nasbedildikleri yıl astsubay meslek yüksekokullarından mezun olan muvazzaf astsubayları,
-ı) (Ek: 16/6/2009-5907/1 md.) Sözleşme yılı: Sözleşmenin yürürlüğe girdiği ay ve günü başlangıç olarak kabul eden ve bu tarihten itibaren geçen her bir yıllık süreyi,
-ifade eder.
+İKİNCİ BÖLÜM
+Kaynak, Yetiştirme, Hizmet Şartları, Yedeklik Dönemi, Görev ve Sözleşme Süreleri
+Kaynak
+MADDE 3 – (1) (Değişik: 26/6/2012-6336/ 22 md.) Sözleşmeli er kaynaklarını; en az ilköğretim veya yurt dışındaki dengi okul mezunu olup askerlik hizmetini erbaş ve er olarak tamamlamış ve terhislerinin üzerinden üç yıldan fazla süre geçmemiş ve düzeltilmemiş nüfus kaydına göre müracaat yapılan yılın ocak ayının ilk günü itibarıyla yirmibeş yaşını bitirmemiş olanlar teşkil eder.
+(2) Askerî okullardan ve Türk Silahlı Kuvvetlerinden her ne sebeple olursa olsun ilişikleri kesilen personel sözleşmeli er olarak alınmaz.
+(3) Sözleşmeli erlik için aşağıdaki nitelikler aranır:
+a) Türk vatandaşı olmak.
+b) Bu Kanunda belirtilen öğrenim ile ilgili şartları taşımak.
+c) Sağlık ile ilgili Türk Silahlı Kuvvetleri Sağlık Yeteneği Yönetmeliğinde belirtilen şartları taşımak.
+ç) Kamusal hakları kullanmaktan yoksun bırakılmamış olmak.
+d) Cezaları ertelenmiş, seçenek yaptırımlardan birisine çevrilmiş, genel ya da özel af kanunları kapsamına girmiş veya haklarında hükmün açıklanmasının geri bırakılmasına karar verilmiş olsa dahi;
+1) Devletin güvenliğine karşı işlenen suçlar, halkı askerlikten soğutmak, Türk Milletini, Türkiye Cumhuriyeti Devletini, Devletin kurum ve organlarını aşağılama ile zimmet, irtikâp, iftira, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, yalan tanıklık, yalan yere yemin, suç uydurma, cinsel saldırı, cinsel taciz, kişiyi hürriyetinden yoksun bırakmak, fuhuş, gayri tabii mukarenet, hileli iflas gibi yüz kızartıcı veya şeref ve haysiyet kırıcı suçlar ile kaçakçılık, ihaleye fesat karıştırma, Devlet sırlarını açığa vurma suçlarından,
+2) Firar, amir veya üste fiilen taarruz, emre itaatsizlikte ısrar, üste hakaret, mukavemet, fesat ve isyan suçlarından,
+3) 22/5/1930 tarihli ve 1632 sayılı Askerî Ceza Kanununun 148 inci maddesinde belirtilen suçlardan,
+birisinden mahkûm olmamak.
+e) Taksirli suçlar hariç olmak üzere bir suçtan bir ay veya daha fazla hapis cezası ile mahkûm olmamak.
+f) Güvenlik soruşturması olumlu sonuçlanmış olmak.
+g) Yapılacak fiziki kabiliyet testi ve mülakatlarda başarılı olmak.
+(4) Asgari tugay veya eşidi birlik komutanı veya kurum amiri tarafından haklarında “sözleşmeli erbaş ve er olur” belgesi düzenlenen personelin müracaatları öncelikle kabul edilir.

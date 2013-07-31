@@ -1,7 +1,15 @@
-İKİNCİ BÖLÜM
-Sözleşme Süreleri ve
-Muvazzaf Astsubaylığa Geçiş
-Sözleşme süreleri
-Madde 10 – Sözleşmeli astsubay adayları, ön sözleşme yapılarak askerî eğitime alınırlar. Bu eğitimi başarı ile tamamlayanlardan yönetmelikte belirtilen şartları taşıyanlarla sözleşme yapılır ve bu kişiler astsubay çavuş rütbesine nasbedilirler. Sözleşme süreleri; üç yıldan az ve dokuz yıldan fazla olmamak şartıyla, hizmet gerekleri ve yetiştirme maliyetlerine bağlı olarak kuvvet, sınıf ve branşlara göre yönetmelikte belirlenir. Yönetmelikte belirlenen şartları taşıyanların talepleri halinde sözleşmeleri yenilenebilir. Ancak sözleşmeli astsubaylardan rütbe yaş haddini dolduranlar hakkında 8.6.1949 tarihli ve 5434 sayılı Kanun hükümleri uygulanır.
-Sözleşme süreleri; sıkıyönetim, seferberlik, savaş veya silahlı çatışmayı gerektirecek hal ile savaş hallerinde Kuvvet Komutanları, Jandarma Genel Komutanı ve Sahil Güvenlik Komutanının göstereceği lüzum üzerine, durumun devamı müddetince Genelkurmay Başkanının onayı ile talebe bakılmaksızın uzatılabilir.
-Sözleşme işlemleri, Kuvvet Komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca yapılır.
+Değiştirilen hükümler
+MADDE 10 – (1) (22/5/1930 tarihli ve 1632 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+(2) (8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile ilgili olup yerine işlenmiştir.)
+(3) (4/1/1961 tarihli ve 211 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+(4) (25/10/1963 tarihli ve 353 sayılı Askerî Mahkemeler Kuruluşu ve Yargılama Usulü Kanun ile ilgili olup yerine işlenmiştir.)
+(5) (16/6/1964 tarihli ve 477 sayılı Disiplin Mahkemeleri Kuruluşu, Yargılama Usulü ve Disiplin Suç ve Cezaları Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
+(6) (14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanun ile ilgili olup yerine işlenmiştir.)
+(7) (27/7/1967 tarihli ve 926 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+11457
+(8) (4/7/1972 tarihli ve 1602 sayılı Askerî Yüksek İdare Mahkemesi Kanunu ile ilgili olup yerine işlenmiştir.)
+(9) (9/7/1982 tarihli ve 2692 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+(10) (28/5/1988 tarihli ve 3466 sayılı Uzman Jandarma Kanunu ile ilgili olup yerine işlenmiştir.)
+(11) (31/5/2006 tarihli ve 5510 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+(12) (24/5/2007 tarihli ve 5668 sayılı Türk Silahlı Kuvvetleri Besleme Kanunu ile ilgili olup yerine işlenmiştir.)
+(13) (27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararname ile ilgili olup yerine işlenmiştir.)

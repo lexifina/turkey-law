@@ -1,7 +1,5 @@
-TÜRK SİLAHLI KUVVETLERİNDE İSTİHDAM EDİLECEK
-SÖZLEŞMELİ SUBAY VE ASTSUBAYLAR
-HAKKINDA KANUN
-Kanun Numarası : 4678
-Kabul Tarihi : 13/6/2001
-Yayımlandığı R. Gazete : Tarih : 21/6/2001 Sayı : 24439
-Yayımlandığı Düstur : Tertip : 5, Cilt : 40
+SÖZLEŞMELİ ERBAŞ VE ER KANUNU
+Kanun Numarası : 6191
+Kabul Tarihi : 10/3/2011
+Yayımlandığı R.Gazete : Tarih: 22/3/2011 Sayı : 27882
+Yayımlandığı Düstur : Tertip : 5 Cilt : 50
