@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-130[ÖZG-2012-44]-76",
+  "source_id": 30522,
+  "date": "2013-07-31",
+  "title": "İçme suyu arıza bakım onarım işinde KDV tevkifatı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30522",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "86d884bc6aedfec6f4f461981bba7d4f176b0c35f5ed401e6bb862cd14e71eb3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
