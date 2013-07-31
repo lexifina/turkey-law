@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.35-1140",
+  "source_id": 29393,
+  "date": "2013-07-31",
+  "title": "BTK tarafından verilen karara istinaden müşterilere yapılacak iadelerin belgelendirilmesi ile KDV, KV ve Gider Vergileri Kanunları çerçevesinde değerlendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29393",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "de3324a75e651ad3aa990937403b31cfb4320332032cd4530d30e38301c62d27",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
