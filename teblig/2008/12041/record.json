@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.12041",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2008/9)",
+  "number": "12041",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2008/12041",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12041&MevzuatTertip=5",
+  "source_sha256": "44134071b0b8e8e69c56204e1129a2901441f76af65b9a9d51c150069a2dae82",
+  "source_bytes": 79539,
+  "published": "2008-03-19",
+  "gazette": "26821",
+  "in_force": "2013-08-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/8/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-08-01",
+      "RG-1/8/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımını takip eden 15 inci gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 691,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
