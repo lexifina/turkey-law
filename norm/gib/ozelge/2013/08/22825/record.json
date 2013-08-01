@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "51421814-120[42-2012/98]-83",
+  "source_id": 22825,
+  "date": "2013-08-01",
+  "title": "Arazi toplulaştırma işinden dolayı yapılan taşeronluk faaliyetinin yıllara sari inşaat işi olarak değerlendirilip değerlendirilmeyeceği ve arazi çalışmalarında köylülere ait araçlarla yaptırılan iş karşılığında defter belge düzeni ve tevkifat oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22825",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "d5389d7965a79b334ca352a7741a6cc86d8fe2eb23c516cbaa2341032e2ed147",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
