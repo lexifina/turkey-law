@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-120[61-94-2012/39]-58",
+  "source_id": 23268,
+  "date": "2013-08-01",
+  "title": "Okul aile birliği veya lise müdürlüğü tarafından açılan kurslarda ders veren öğretmenlere yapılan ücret ödemeleri üzerinden tevkifat yapılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23268",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "d835dffe2321b222a597a0ccbbe0c601ceec07333de30f0efafea6fef2fe8825",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
