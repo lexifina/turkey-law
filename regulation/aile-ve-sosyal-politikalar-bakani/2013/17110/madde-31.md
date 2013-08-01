@@ -1,0 +1,2 @@
+Bağış
+MADDE 31 – (1) Merkeze yapılan her türlü ayni ve nakdi bağışlar hakkında, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 40 ıncı maddesi hükümleri uygulanır. Merkezlere yapılan ayni bağışlar taşınır işlem fişi karşılığında kabul edilir. Taşınır mallarla ilgili iş ve işlemler 18/1/2007 tarihli ve 26407 sayılı Resmî Gazete’de yayımlanan Taşınır Mal Yönetmeliği hükümlerine göre gerçekleştirilir.

@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.17110",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL HİZMET MERKEZLERİ YÖNETMELİĞİ",
+  "number": "17110",
+  "issuer": "Aile ve Sosyal Politikalar Bakanı",
+  "issuer_slug": "aile-ve-sosyal-politikalar-bakani",
+  "path": "regulation/aile-ve-sosyal-politikalar-bakani/2013/17110",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=17110&MevzuatTertip=5",
+  "source_sha256": "996ef05d57f326d02e67764268d88957776773db9f27106fe644d76d5622c291",
+  "source_bytes": 172693,
+  "published": "2013-02-09",
+  "gazette": "28554",
+  "in_force": "2013-08-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/8/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-08-01",
+      "RG-1/8/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-08-01",
+      "1/8/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4155,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
