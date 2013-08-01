@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64958909-3100-25",
+  "source_id": 36600,
+  "date": "2013-08-01",
+  "title": "Toptan ve perekinde ticaretle uğraşan mükelleflerin Yeni Nesil ÖKC uygulaması karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36600",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "b0d50a06df68441cdeb20d0e8edeac79344a96427c1a551657aa56647cf5ded3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
