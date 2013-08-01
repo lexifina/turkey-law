@@ -22,9 +22,9 @@ Yaya yolu (Yaya kaldırımı) : Karayolunun, taşıt yolu kenarı ile gerçek ve
 Bisiklet yolu : Karayolunun, sadece bisikletlilerin kullanmalarına ayrılan kısmıdır.
 Yaya geçidi : Taşıt yolunda, yayaların güvenli geçebilmelerini sağlamak üzere, trafik işaretleri ile belirlenmiş alandır.
 Kavşak : İki veya daha fazla karayolunun kesişmesi veya birleşmesi ile oluşan ortak alandır.
+6049
 Banket : Yaya yolu ayrılmamış karayolunda, taşıt yolu kenarı ile şev başı veya hendek iç üst kenarı arasında kalan ve olağan olarak yayaların ve hayvanların kullanacağı, zorunlu hallerde de araçların faydalanabileceği kısımdır.
 Şerit : Taşıtların bir dizi halinde güvenle seyredebilmeleri için taşıt yolunun ayrılmış bir bölümüdür.
-6049
 Alt geçit: Karayolunun diğer bir karayolu veya demiryolunu alttan geçmesini sağlayan yapıdır.
 Üst geçit: Karayolunun, diğer bir karayolu veya demiryolunu üstten geçmesini sağlayan yapıdır.
 Demiryolu geçidi (Hemzemin geçit) : Karayolu ile demiryolunun aynı seviyede kesiştiği bariyerli veya bariyersiz geçitlerdir,
@@ -34,27 +34,27 @@ Ayırıcı : Taşıt yollarını veya yol bölümlerini birbirinden ayıran bir 
 Park yeri : Araçların park etmesi için kullanılan açık veya kapalı alandır.
 Karayolu üzeri park yeri : Taşıt yolundaki veya buna bitişik alanlardaki park yeridir.
 Karayolu dışı park yeri : Karayolu sınır çizgisi dışında olan ve bir geçiş yolu veya servis yolu ile taşıt yoluna bağlanan park yeridir.
-Otomobil : Yapısı itibariyle, sürücüsünden başka en çok yedi oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu taşıttır.
-Minibüs : (Değişik: 16/10/1984 - 3058/1 md.) Yapısı itibariyle sürücüsünden başka sekiz ila ondört oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu taşıttır.
-Kamyonet : İzin verilebilen azami yüklü ağırlığı 3.500 Kg'ı geçmeyen ve yük taşımak için imal edilmiş motorlu taşıttır.
+Otomobil : (Değişik: 12/7/2013-6495/13 md.) Yapısı itibarıyla, sürücüsü dahil en fazla dokuz oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu taşıttır.
+Minibüs : (Mülga: 12/7/2013-6495/24 md.)
+Kamyonet : (Değişik: 12/7/2013-6495/13 md.) Azami yüklü ağırlığı 3.500 kilogramı geçmeyen ve yük taşımak için imal edilmiş motorlu taşıttır. Sürücü ve yanındaki oturma yerleri dışında başka oturma yeri de bulunabilen, sürücü bölümü gövde ile birleşik kamyonetlere panelvan denir.
 Kamyon : İzin verilebilen azami yüklü ağırlığı 3 500 Kg'dan fazla olan ve yük taşımak için imal edilmiş motorlu taşıttır.
-Otobüs : (Değişik : 16/10/1984 - 3058/1 md.) Yapısı itibariyle sürücüsünden başka en az onbeş oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu taşıttır.
-Troleybüsler de bu sınıfa dahildir.
+Otobüs : (Değişik: 12/7/2013-6495/13 md.) Yolcu taşımacılığında kullanılan, sürücüsü dahil dokuzdan fazla oturma yeri olan motorlu taşıttır. Troleybüsler de bu sınıfa dahildir. Sürücüsü dahil oturma yeri on yediyi aşmayan otobüslere minibüs denir.
 Çekici : Römork ve yarı römorkları çekmek için imal edilmiş olan ve yük taşımayan motorlu taşıttır.
+6050
 Arazi taşıtı : Karayollarında yolcu veya yük taşıyabilecek şekilde imal edilmiş olmakla beraber bütün tekerlekleri motordan güç alan veya alabilen motorlu taşıtlardır.
 Özel amaçlı taşıt : Özel amaçla insan veya eşya taşımak için imal edilmiş olan ve itfaiye, Cankurtaran, cenaze, radyo, sinema, televizyon, kütüphane, araştırma ararçları ile bozuk veya hasara uğramış taşıt ve araçları çekmek veya taşımak, kaldırmak gibi özel işlerde kullanılan motorlu araçtır.
 Kamu hizmeti taşıtı : Kamu hizmeti için yük veya yolcu taşıması yapan bütün taşıtlardır.
 Personel servis aracı: (Ek: 17/10/1996 - 4199/1 md.) Herhangi bir kamu kurum ve kuruluşu veya özel veya tüzel kişilerin personelini bir akit karşılığı taşıyan şahıs veya şirketlere ait minibüs ve otobüs türündeki ticari araçlardır. Kamu kurum ve kuruluşları ile özel ve tüzel kişilere ait araçların kendi personelini veya yolcusunu taşıma işi bu tanımın kapsamına girmez.
-6050
 Umum servis aracı: (Ek: 17/10/1996 - 4199/1 md.) Okul taşıtları ile personel servis araçlarının birlikte değerlendirilmesidir.
 Kamp taşıtı: (Ek: 17/10/1996 - 4199/1 md.) Yük taşımasında kullanılmayan; iç dizaynı tatil yapmaya uygun teçhizatlarla donatılmış, hizmet edebileceği kadar yolcu taşıyabilen motorlu taşıttır.
 Römork : Motorlu araçla çekilen insan veya yük taşımak için imal edilmiş motorsuz taşıttır.
 Yarı römork : Bir kısmı motorlu taşıt veya araç üzerine oturan, taşıdığı yükün ve kendi ağırlığının bir kısmı motorlu araç tarafından taşınan römorkdur.
 Hafif römork : Azami yüklü ağırlığı 750 Kg'ı geçmeyen römork veya yarı römorkdur.
-Motosiklet : İki veya üç tekerlekli sepetli veya sepetsiz motorlu araçlardır. Bunlardan karoserisi yük taşıyabilecek şekilde sandıklı veya özel biçimde yapılmış olan ve yolcu taşımalarında kullanılmayan üç tekerlekli motosilkletlere yük motosikleti (triportör) denir.
-Bisiklet : En çok üç tekerleği olan ve üzerinde bulunan insanın adale gücü ile pedal veya el ile tekerleği döndürülmek suretiyle hareket eden ve yolcu taşımalarında kullanılmayan motorsuz taşıtlardır.
-Motorlu bisiklet : Silindir hacmi 50 santimetre küpü geçmeyen, içten patlamalı motorla donatılmış ve imal hızı saatte 50 Km'den az olan bisiklettir.
+Motosiklet : (Değişik: 12/7/2013-6495/13 md.) Azami tasarım hızı 45 km/saatten ve/veya silindir kapasitesi 50 santimetreküpten fazla olan sepetli veya sepetsiz iki veya üç tekerlekli motorlu taşıtlar ve net motor gücü 15 kilovatı, net ağırlığı 400 kilogramı, yük taşımacılığında kullanılanlar için ise net ağırlığı 550 kilogramı aşmayan dört tekerlekli motorlu taşıtlardır. Elektrik ile çalışanların net ağırlıklarının hesaplanmasında batarya ağırlıkları dikkate alınmaz. Bunlardan karoseri yük taşıyabilecek şekilde sandıklı veya özel biçimde yapılmış olan ve yolcu taşımalarında kullanılmayan üç tekerlekli motosikletlere yük motosikleti (triportör) denir.
+Bisiklet : (Değişik: 12/7/2013-6495/13 md.) Üzerinde bulunan insanın adale gücü ile pedal veya el ile tekerleği döndürülmek suretiyle hareket eden motorsuz taşıtlardır. Azami sürekli anma gücü 0,25 KW’ı geçmeyen, hızlandıkça gücü düşen ve hızı en fazla 25 km/saate ulaştıktan sonra veya pedal çevrilmeye ara verildikten hemen sonra gücü tamamen kesilen elektrikli bisikletler de bu sınıfa girer.
+(Değişik: 12/7/2013-6495/13 md.) Motorlu bisiklet (Moped): Azami hızı saatte 45 kilometreyi, içten yanmalı motorlu ise silindir hacmi 50 santimetreküpü, elektrik motorlu ise azami sürekli nominal güç çıkışı 4 kilovatı geçmeyen iki veya üç tekerlekli taşıtlar ile aynı özelliklere sahip net ağırlığı 350 kilogramı aşmayan dört tekerlekli motorlu taşıtlardır. Elektrik ile çalışanların net ağırlıklarının hesaplanmasında batarya ağırlıkları dikkate alınmaz.
 Lastik tekerlekli traktör : Belirli şartlarda römork ve yarı römork çekebilen, ancak ticari amaçla taşımada kullanılmayan tarım araçlarıdır.
+6051
 İş makineleri : (Değişik: 17/10/1996 - 4199/1 md.) Yol inşaat makineleri ile benzeri tarım, sanayi, bayındırlık, milli savunma ile çeşitli kuruluşların iş ve hizmetlerinde kullanılan; iş amacına göre üzerine çeşitli ekipmanlar monte edilmiş; karayolunda insan, hayvan, yük taşımasında kullanılamayan moturlu araçlardır.
 Tramvay : Genelilkle yerleşim birimleri içinde insan taşımasında kullanılan, karayolunda tekerlekleri raylar üzerinde hareket eden ve hareket gücünü dışarıdan sağlayan taşıttır.
 Okul taşıtı : Genel olarak okul öncesi, ilköğretim ve orta dereceli okulların öğrencileri ile sadece gözetici ve hizmetlilerin taşınmalarında kullanılan taşıttır.
@@ -67,32 +67,34 @@ Araç sahibi : Araç için adına yetkili idarece tescil belgesi verilmiş veya 
 İşleten : Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya aracın uzun süreli kiralama, ariyet veya rehni gibi hallerde kiracı, ariyet veya rehin alan kişidir. Ancak ilgili tarafından başka bir kişinin aracı kendi hesabına ve tehlikesi kendisine ait olmak üzere işlettiği ve araç üzerinde fiili tasarrufu bulunduğu ispat edilirse, bu kimse işleten sayılır.
 Yolcu : Aracı kullanan sürücü ile hizmetliler dışında araçta bulunan kişilerdir.
 Hizmetli : Araçlarda, sürücü hariç, araç veya taşıma hizmetlerinde süreli veya süresiz çalışan kişiler ile iş makinelerinde sürücüden gayri kişilerdir.
-6051
 Durak : Kamu hizmeti yapan yolcu taşıtlarının yolcu veya hizmetlileri bindirmek, indirmek için durakladıkları işaretlerle belirlenmiş yerdir.
 Garaj : Araçların, genellikle uzun süre durmaları için kullanılan bakım veya servisinin de yapılabileceği kapalı veya açık olan yerlerdir.
-Terminal : İnsan veya eşya taşımalarında, araçların indirme, bindirme, yükleme, boşaltma, aktarma yaptıkları ve ayrıca bilet satışı ile bekleme, haberleşme, şehir ulaşımı ve benzeri hizmetlerin de sağlandığı yerdir.
+Terminal : İnsan veya eşya taşımalarında, araçların indirme, bindirme,yükleme, boşaltma,aktarma yaptıkları ve ayrıca bilet satışı ile bekleme, haberleşme,şehir ulaşımı ve benzeri hizmetlerin de sağlandığı yerdir.
 Servis istasyonu : Araçların bakım, onarım ve servislerinin yapıldığı açık veya kapalı yerdir.
-Akaryakıt istasyonu: Araçların esas itibariyle akaryakıt, yağ ve basınçlı hava gibi ihtiyaçlarının sağlandığı yerdir.
+Akaryakıt istasyonu:Araçların esas itibariyle akaryakıt, yağ ve basınçlı hava gibi ihtiyaçlarının sağlandığı yerdir.
 Muayene istasyonu : Araçların niteliklerini tespit ve kontrol edebilecek cihaz ve personeli bulunan ve teknik kontrolü yapılan yerdir.
-Trafik kazası : Karayolu üzerinde hareket halinde olan bir veya birden fazla aracın karıştığı ölüm, yaralanma ve zararla sonuçlanmış olan olaydır.
+Trafik kazası : Karayolu üzerinde hareket halinde olan bir veya birden fazla aracın karıştığı ölüm,yaralanma ve zararla sonuçlanmış olan olaydır.
+6052
 Durma : Her türlü trafik zorunlulukları nedeni ile aracın durdurulmasıdır.
 Duraklama : Trafik zorunlulukları dışında araçların, insan indirmek ve bindirmek, eşya yüklemek, boşaltmak veya beklemek amacı ile kısa bir süre için durdurulmasıdır.
-Park etme : Araçların, durma ve duraklaması gereken haller dışında bırakılmasıdır.
+Park etme : Araçların,durma ve duraklaması gereken haller dışında bırakılmasıdır.
 Geçiş hakkı : Yayaların ve araç kullananların diğer yaya ve araç kullananlara göre,yolu kullanmak sırasındaki öncelik hakkıdır.
-Geçiş üstünlüğü: Görev sırasında, belirli araç sürücülerinin can ve mal güvenliğini tehlikeye sokmamak şartı ile trafik kısıtlama veya yasaklarına bağlı olmamalarıdır.
+Geçiş üstünlüğü:Görev sırasında, belirli araç sürücülerinin can ve mal güvenliğini tehlikeye sokmamak şartı ile trafik kısıtlama veya yasaklarına bağlı olmamalarıdır.
 Taşıma sınırı (Kapasite) : Bir aracın güvenle taşıyabileceği en çok yük ağırlığı veya yolcu sayısıdır.
 Gabari : Araçların, yüklü veya yüksüz olarak karayolunda güvenli seyirlerini temin amacı ile uzunluk, genişlik ve yüksekliklerini belirleyen ölçülerdir.
 Azami ağırlık : Taşıtın güvenle taşıyabileceği azami yükle birlikte ağırlığıdır.
 Yüksüz ağırlık : Üzerinde insan veya eşya (yük) bulunmayan ve akaryakıt deposu dolu olan bir aracın taşınması zorunlu alet, edevat ve donatımı ile birlikte toplam ağırlığıdır.
 Yüklü ağırlık : Bir taşıtın yüksüz ağırlığı ile taşımakta olduğu sürücü, hizmetli, yolcu ve eşyanın toplam ağırlığıdır.
-Dingil ağırlığı: Araçlarda aynı dingile bağlı tekerleklerden karayolu yapısına aktarılan ağırlıktır,
-Azami dingil ağırlığı: Araçların karayolu yapılarından güvenle ve yapıya zarar vermeden geçebilmeleri için saptanan dingil ağırlığıdır.
-Azami toplam ağırlık: Araçların karayolu yapılarından güvenle ve yapıya zarar vermeden geçebilmeleri için saptanan toplam ağırlıktır.
-Trafik işaretleri : Trafiği düzenleme amacı ile kullanılan işaret levhaları, ışıklı ve sesli işaretler, yer işaretlemeleri ile trafik zabıtası veya diğer yetkililerin trafiği yönetmek için yaptıkları hareketlerdir.
+Dingil ağırlığı:Araçlarda aynı dingile bağlı tekerleklerden karayolu yapısına aktarılan ağırlıktır,
+Azami dingil ağırlığı:Araçların karayolu yapılarından güvenle ve yapıya zarar vermeden geçebilmeleri için saptanan dingil ağırlığıdır.
+Azami toplam ağırlık:Araçların karayolu yapılarından güvenle ve yapıya zarar vermeden geçebilmeleri için saptanan toplam ağırlıktır.
+Trafik işaretleri : Trafiği düzenleme amacı ile kullanılan işaret levhaları, ışıklı ve sesli işaretler,yer işaretlemeleri ile trafik zabıtası veya diğer yetkililerin trafiği yönetmek için yaptıkları hareketlerdir.
 İşaret levhası : Sabit veya taşınabilir bir mesnet üzerine yerleştirilmiş ve üzerindeki sembol, renk ve yazı ile özel bir talimatın aktarılmasını sağlayan trafik tertibatıdır.
-Işıklı ve sesli işaretler : Trafiği düzenlemede kullanılan ışıklı ve sesli, sabit veya taşınabilir, elle kumanda edilebilen veya otomatik çalışan, üzerinde çeşitli renk,
-6052
-şekil, sembol, yazı bulunan ve belirli yanma süresi olan, ışık veya sesle özel bir talimatın aktarılmasını sağlayan trafik tertibatıdır.
-İşaretleme : Taşıt yolu ile bordür, ada, ayırıcı, otokorkuluk gibi karayolu elemanları üzerindeki çeşitli renkte çizgi, şekil, sembol, yazı ve yansıtıcı ve benzerleri ile özel bir talimatın aktarılmasını sağlayan tertibattır.
+Işıklı ve sesli işaretler : Trafiği düzenlemede kullanılan ışıklı ve sesli, sabit veya taşınabilir, elle kumanda edilebilen veya otomatik çalışan, üzerinde çeşitli renk, şekil, sembol, yazı bulunan ve belirli yanma süresi olan, ışık veya sesle özel bir talimatın aktarılmasını sağlayan trafik tertibatıdır.
+İşaretleme : Taşıt yolu ile bordür,ada, ayırıcı, otokorkuluk gibi karayolu elemanları üzerindeki çeşitli renkte çizgi, şekil, sembol, yazı ve yansıtıcı ve benzerleri ile özel bir talimatın aktarılmasını sağlayan tertibattır.
 Trafikten men : Trafik zabıtasınca, bu Kanunda belirtilen hallerde araçla ilgili belgelerin alınması ve aracın belirli bir yere çekilerek trafikten alıkonulmasıdır.
-Bu Kanunun uygulaması ile ilgili diğer tanım ve terimler yönetmelikte gösterilir.
+Motorlu taşıt sürücüsü sertifikası: (Ek: 12/7/2013-6495/13 md.) Teorik ve uygulamalı sınavlarda başarı gösteren sürücü adaylarına verilen belgedir.
+Sürücü belgesi: (Ek: 12/7/2013-6495/13 md.) Bu Kanunda belirtilen motorlu araçların sürülmesine yetki veren belgedir.
+6052-1
+Uluslararası sürücü belgesi: (Ek: 12/7/2013-6495/13 md.) İki veya çok taraflı anlaşmalar uyarınca sınıflarına göre araç kullananlara belli süre ile verilen belgedir.
+Bu Kanunun uygulaması ile ilgili diğer tanım ve terimler yönetmelikte gösterilir. (Ek cümle: 12/7/2013-6495/13 md.) Bu maddedeki tanım ve terimlerle ilgili olarak vergi kanunları hükümleri saklıdır.
