@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "48349025-VUK-2-1266-71",
+  "source_id": 25920,
+  "date": "2013-08-01",
+  "title": "Kat Karşılığı İnşaatta arsa sahibine ve üyelere yapılacak daire teslimlerinde fatura düzenlenip düzenlenmeyeceği ve düzenlenecekse hangi bedel üzerinden düzenleneceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25920",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "d57c390acd4a0eb262e7616c2bd4464eabe09b867b13388c7e4378b3ef68b156",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
