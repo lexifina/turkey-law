@@ -18,7 +18,7 @@ Kurul katılması gereken üyelerin salt çoğunluğu ile toplanır ve katılanl
 Kurulun sekreterya görevi ilgili daire başkanlığınca yapılır.
 ——————————
 (1) Kısım başlığı ile madde başlığı, 17/10/1996 tarih ve 4199 sayılı Kanunun 2 nci maddesi ile değiştirilmiş ve metne işlenmiştir.
-6052-1
+6052-2
 Kurulun görev ve yetkileri şunlardır;
 1. Trafikle ilgili kuruluşlar arasında koordinasyon sağlanmasına ilişkin önerilerde bulunmak,
 2. Trafik kazalarının azaltılmasına ilişkin önerilerde bulunmak,
@@ -28,4 +28,4 @@ Bu Kanunla ve trafik hizmetleri konusunda diğer kanunlarla verilen görevler;
 a) İçişleri Bakanlığınca,
 b) Bu Kanunla yetkili kılınan diğer bakanlık, kuruluş ve belediyelerce, İçişleri Bakanlığı ile işbirliği içinde,
 Yürütülür.
-Emniyet Genel Müdürlüğünün, merkez, bölge, il ve ilçe trafik kuruluşları, görev ve yetkileri:
+Emniyet Genel Müdürlüğünün,merkez, bölge,il ve ilçe trafik kuruluşları, görev ve yetkileri:
