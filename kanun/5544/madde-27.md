@@ -8,6 +8,6 @@ d) Satın alınacak danışmanlık giderleri.
 e) Basım, yayım ve reklam giderleri.
 f) Yurt içi ve yurt dışı toplantı, konferans, seminer, çalışma ziyaretleri giderleri.
 g) Kurum adına Kurum faaliyetleri ile ilgili yurt içi ve yurt dışı üyelik aidatları.
-9957-9959
+9957
 ğ) Eğitim, öğretim ve burs giderleri.
 h) Kurum faaliyetlerinin gerçekleştirilmesiyle ilgili diğer giderler.

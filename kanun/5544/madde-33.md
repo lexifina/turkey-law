@@ -1,6 +1,6 @@
 Yürütme
 MADDE 33- (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-9958-9970
+9958
 İHDAS EDİLEN POZİSYONLAR CETVELİ
 (Değişik: 11/10/2011 - KHK - 665/45 md.)
 POZİSYON UNVANI | “İHDAS EDİLEN POZİSYONLAR CETVELİ SAYISI

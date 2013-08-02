@@ -22,7 +22,8 @@ a) Örgüt faaliyeti çerçevesinde işlenen uyuşturucu ve uyarıcı madde imâ
 b) Haksız ekonomik çıkar sağlamak amacıyla kurulmuş bir örgütün faaliyeti çerçevesinde cebir ve tehdit uygulanarak işlenen suçlar,
 c) İkinci Kitap Dördüncü Kısmın Dört, Beş, Altı ve Yedinci Bölümünde tanımlanan suçlar (305, 318, 319, 323, 324, 325 ve 332 nci maddeler hariç),
 dolayısıyla açılan davalar, birinci fıkra hükmüne göre görevlendirilen mahkemelerde görülür. Üçüncü fıkranın (d), (e), (f) ve (h) bentleri hariç olmak üzere, bu madde hükümleri, bu suçlardan dolayı yapılan soruşturma ve kovuşturmalarda da uygulanır.
-Türk Ceza Kanununun 305, 318, 319, 323, 324, 325 ve 332 nci maddeleri hariç olmak üzere, İkinci Kitap Dördüncü Kısmın Dört, Beş, Altı ve Yedinci Bölümünde tanımlanan suçlarda, Ceza Muhakemesi Kanununda öngörülen tutuklama süresi iki kat olarak uygulanır.
+Türk Ceza Kanununun 305, 318, 319, 323, 324, 325 ve 332 nci maddeleri hariç olmak üzere, İkinci Kitap Dördüncü Kısmın Dört, Beş, Altı ve Yedinci Bölümünde tanımlanan suçlarda, Ceza Muhakemesi Kanununda öngörülen tutuklama süresi iki kat olarak uygulanır.(1)
 Çocuklar, bu madde hükümleri uyarınca kurulan mahkemelerde yargılanamaz; bu mahkemelere özgü soruşturma ve kovuşturma hükümleri çocuklar bakımından uygulanmaz.
-7218-2
+_______________
+(1) Bu fıkra, Anayasa Mahkemesinin 4/7/2013 tarihli ve E:2012/100, K:2013/84 sayılı kararıyla iptal edilmiş olup, Kararın Resmi Gazetede yayımlandığı 2/8/2013 tarihinden itibaren bir yıl sonra yürürlüğe gireceği hüküm altına alınmıştır.
 7219

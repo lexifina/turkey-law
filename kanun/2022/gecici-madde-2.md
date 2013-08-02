@@ -1,5 +1,8 @@
 Geçici Madde 2 – (Ek: 13/2/2011-6111/67 md.)
 Bu maddenin yayımı tarihinden itibaren 3 aylık süre içerisinde talepte bulunan ve sosyal güvenlik mevzuatına tabi olarak çalışmayan, sosyal güvenlik kurumlarından ya da yabancı bir ülke sosyal güvenlik kurumundan her ne ad altında olursa olsun herhangi bir gelir veya aylık almayan ve silikozis hastalığı nedeniyle meslekte kazanma gücünü en az % 15 kaybettiğine Sosyal Güvenlik Kurumu Sağlık Kurulunca meslek hastalıkları tespit hükümleri çerçevesinde karar verilen kişilere, bu maddede belirtilen şartları sağlamaları halinde aşağıda belirtilen esaslara göre Sosyal Güvenlik Kurumunca aylık bağlanır.
+––––––––––––
+(1) 12/7/2013 tarihli ve 6495 sayılı Kanunun 73 üncü maddesiyle, bu fıkrada yer alan “Kurum” ibaresi “Aile ve Sosyal Politikalar Bakanlığı” şeklinde değiştirilmiştir.
+5131
 Meslekte kazanma gücünü;
 a) % 15 ila % 34 arasında kaybedenlere 7000,
 b) % 35 ila % 54 arasında kaybedenlere 8000,
@@ -15,5 +18,4 @@ her birine % 25'i,
 oranında aylığın tamamı dağıtılacak şekilde aylık bağlanır. Eş ve çocuklara bağlanacak aylıkların toplamı silikozis hastasına bağlanan aylığın tutarını geçemez. Bu sınırın aşılmaması için gerekirse eş ve çocukların aylıklarından orantılı olarak indirimler yapılır.
 Eş ve çocukların aylıkları yukarıda belirtilen koşulların ortadan kalkması halinde kesilir.
 Bu maddeye göre tarafına aylık bağlanan silikozis hastası ile eş ve çocuklarının tedavi giderleri, 18/6/1992 tarihli ve 3816 sayılı Ödeme Gücü Olmayan Vatandaşların Tedavi Giderlerinin Yeşil Kart Verilerek Devlet Tarafından Karşılanması Hakkında Kanun hükümlerine göre, Kanunun 2 nci maddesinde belirtilen aile içindeki kişi başına düşen gelir payına bakılmaksızın yeşil kart verilerek karşılanır.
-5131-5133
 Bu maddeye göre aylık alanların 5510 sayılı Kanuna göre çalışmaya veya sosyal güvenlik kurumlarından ya da yabancı bir ülke sosyal güvenlik kurumundan her ne ad altında olursa olsun gelir veya aylık almaya başlamaları halinde aylıkları kesilir.

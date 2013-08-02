@@ -6,7 +6,6 @@ c) Mali denetim: Kamu idarelerinin hesap ve işlemleri ile mali faaliyet, mali y
 ç) Uygunluk denetimi: Kamu idarelerinin gelir, gider ve mallarına ilişkin hesap ve işlemlerinin kanunlara ve diğer hukuki düzenlemelere uygunluğunun incelenmesine ilişkin denetimi,
 d) Performans denetimi: Hesap verme sorumluluğu çerçevesinde idarelerce belirlenen hedef ve göstergeler ile ilgili olarak faaliyet sonuçlarının ölçülmesini,
 e) Hesap yargılaması: Kanunlarla belirlenen sorumluların hesap ve işlemlerinin mevzuata uygun olup olmadığının yargılama yoluyla kesin hükme bağlanmasını ve bununla ilgili kanun yollarını,
-10708
 f) Yargılamaya esas rapor: Sayıştay dairelerince yapılacak yargılamaya esas olmak üzere, denetçiler tarafından genel yönetim kapsamındaki kamu idarelerinin hesap ve işlemlerinin denetimi sırasında tespit edilen kamu zararına ilişkin düzenlenen raporu,
 g) Denetim raporu: Sayıştay raporlarına esas olmak üzere, denetim ve incelemeler sonucunda denetim grup başkanlıkları veya denetçiler tarafından hazırlanan raporu,
 ğ) Sayıştay raporu: Denetim ve incelemeler sonucu hazırlanarak Sayıştay Başkanı tarafından Türkiye Büyük Millet Meclisine sunulan veya kamu idarelerine gönderilen raporu,
