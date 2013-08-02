@@ -1,0 +1,86 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "139",
+  "decision_number": "27/884",
+  "date": "2013-08-02",
+  "title": "Kurulumuzun 02.08.2013 Tarih ve 27/884 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/139",
+  "source_sha256": "1fa0f2cd96d21f26d695eae325f79e2ec32b7a85c0f7d18e34223ca4255462ea",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 139,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurulumuzun 02.08.2013 tarih ve 27/884 sayılı kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2013-08-02",
+    "source_clauses": [
+      "Kurulumuzun 02.08.2013 tarih ve 27/884 sayılı kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "85fc1826-fde1-4934-aa96-7568229b2b4d",
+    "contentSource": "IlkeKarari",
+    "contentID": 139,
+    "tur": "Kurul Kararı",
+    "title": "Kurulumuzun 02.08.2013 Tarih ve 27/884 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2013-08-02T00:00:00",
+    "kurulKararTarih": "02.08.2013",
+    "kurulToplantiNo": "27/884",
+    "bultenYili": 2013,
+    "bultenNo": 29,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "163:Gayrimenkul Yatırım Ortaklıklarına İlişkin Esaslar Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 163,
+        "value": "Gayrimenkul Yatırım Ortaklıklarına İlişkin Esaslar Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "13:Sermaye Piyasası Araçlarının İhracı;8:Kolektif Yatırım Kuruluşları;25:Gayrimenkul Yatırım Ortaklıkları;28:Menkul Kıymet Yatırım Ortaklıkları;79:Halka Arz",
+    "ilgiliKonular": [
+      {
+        "key": 13,
+        "value": "Sermaye Piyasası Araçlarının İhracı"
+      },
+      {
+        "key": 8,
+        "value": "Kolektif Yatırım Kuruluşları"
+      },
+      {
+        "key": 25,
+        "value": "Gayrimenkul Yatırım Ortaklıkları"
+      },
+      {
+        "key": 28,
+        "value": "Menkul Kıymet Yatırım Ortaklıkları"
+      },
+      {
+        "key": 79,
+        "value": "Halka Arz"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/139",
+    "linkTarget": "_blank"
+  }
+}
