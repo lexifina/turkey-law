@@ -1,0 +1,2 @@
+Ambalajlama
+MADDE 11 – (1) Ambalajlar, 1/7/2006 tarihli ve 26215 sayılı Resmî Gazete’de yayımlanan Hazır Ambalajlı Belirli Ürünler İçin Müsaade Edilen Nominal Kapasite ve Dolum Miktarı Serilerine Dair Yönetmelik, 24/6/2007 tarihli ve 26562 sayılı Resmî Gazete’de yayımlanan Ambalaj Atıklarının Kontrolü Yönetmeliği ile Bazı Tehlikeli Maddelerin, Müstahzarların ve Eşyaların Üretimine, Piyasaya Arzına ve Kullanımına İlişkin Kısıtlamalar Hakkında Yönetmelik hükümleri ile ilgili diğer mevzuat hükümlerine uygun olmak zorundadır.

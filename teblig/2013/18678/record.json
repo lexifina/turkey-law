@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.18678",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AKTİF MADDE İÇERMEYEN BİYOSİDAL ÜRÜNLER TEBLİĞİ",
+  "number": "18678",
+  "issuer": "Sağlık Bakanı",
+  "path": "teblig/2013/18678",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18678&MevzuatTertip=5",
+  "source_sha256": "34ed3fb06260feeb613b08b88262dcac1216011beec864b08e8381ff0df2c7ad",
+  "source_bytes": 20681,
+  "published": "2013-08-02",
+  "gazette": "28726",
+  "in_force": "2013-08-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.08.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1167,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18678%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
