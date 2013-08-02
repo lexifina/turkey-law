@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-08-02",
+  "issue": "28726",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Bülent Ecevit Üniversitesi Devlet Konservatuvarı Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130802-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130802.htm",
+  "index_sha256": "2d664682b890693cf653b4084a0f83a6cde921f015495f11cc593f8388a98199",
+  "index_header": "2 Ağustos 2013 ... 28726 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130802.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
