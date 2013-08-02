@@ -7,3 +7,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 6
 6353 | Geçici Madde 6 | 12/7/2012
 6455 | 64 359, 397, 400, 635 | 1/1/2013 tarihinden geçerli olmak üzere 11/4/2013 11/4/2013
 6462 | 1507 | 3/5/2013
+6495 | 621 | 2/8/2013

@@ -11,3 +11,4 @@ Anayasa Mahkemesi’nin 1/11/2012 tarihli ve E.: 2010/83, K.: 2012/169 sayılı 
 6427 | 22 | 1/3/2013
 6459 | 10 | 30/4/2013
 6487 | Geçici Madde 6 ve 7 | 11/6/2013
+6495 | 22, 25, Geçici Madde 8 | 2/8/2013

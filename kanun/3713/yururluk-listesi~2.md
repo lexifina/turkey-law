@@ -15,3 +15,6 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 3
 6353 | 21, Ek Madde 1, Geçici Madde 11, 12 | 12/7/2012
 6415 | 8 | 16/2/2013
 6459 | 6, 7 | 30/4/2013
+6462 | 21 | 3/5/2013
+6495 | 21, Ek Madde 1, Geçici Madde 13 | 2/8/2013
+Anayasa Mahkemesinin 4/7/2013 tarihli ve E:2012/100, K:2013/84 sayılı kararı | 10 uncu maddenin 5 inci fıkrası | 2/8/2013 tarihinden itibaren bir yıl sonra 2/8/2014

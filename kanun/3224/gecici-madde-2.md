@@ -1,1 +1,0 @@
-Geçici Madde 2 – Diş hekimleri disiplin yönetmeliği yürürlüğe girinceye kadar 6023 sayılı Türk Tabipleri Birliği Kanununun disiplin işlem ve cezaları ile ilgili hükümleri diş hekimleri hakkında da uygulanmaya devam olunur.

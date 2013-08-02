@@ -9,3 +9,4 @@ KHK/666 | 63 | 31/12/2011 tarihinden geçerli olmak üzere 2/11/2011 tarihinde
 Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2012/102 K.: 2012/207 sayılı Kararı | 35 | 2/4/2013
 Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı | 64 üncü maddenin üçüncü fıkrasının birinci cümlesi | 1/1/2013 tarihinden başlayarak altı ay sonra (1/7/2013)
 6494 | 64 | 7/7/2013
+6495 | 4 | 2/8/2013

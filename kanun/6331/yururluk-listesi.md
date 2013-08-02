@@ -1,5 +1,6 @@
 6331 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
-MEVZUATIN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
+MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
 GÖSTERİR LİSTE
-Değiştiren Kanunun Numarası | 6458 sayılı Kanunun değişen maddeleri | Yürürlüğe Giriş Tarihi
+Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 6331 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 6462 | 3 | 3/5/2013
+6495 | 3, GEÇİCİ MADDE 4, 38 | 2/8/2013

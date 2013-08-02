@@ -1,7 +1,7 @@
 5510 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
-MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
-GÖSTERİR LİSTE
+MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
 Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5510 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+5565 | 108 | 1/1/2007
 5655 | 69,108 | 20/5/2007
 5754 | a) Geçici 20 nci maddesinin son fıkrası b) 72 nci ve 73 üncü maddeleri, geçici 6 ncı maddesinin yedinci fıkrasının (b) bendi, geçici 7 nci maddesinin son fıkrası, geçici 9 uncu maddesinin bir ilâ dördüncü fıkraları ile geçici 17 nci maddesi, geçici 20 nci maddesinin onikinci fıkrası c) 60 ıncı maddesinin birinci fıkrasının (c) bendinin (3) ilâ (8) ve (10) numaralı alt bentleri ile (f) bendinde sayılanlar için genel sağlık sigortası hükümlerinin uygulanmasına ilişkin olarak; 3 üncü maddesinin birinci fıkrasının (1), (2), (8), (9), (10), (16), (17), (20), (22), (23), (24), (25), (26) ve (27) numaralı bentleri, 63, 64, 66, 67, 68, 69, 70, 71, 72, 74, 75, 77, 78, 79 uncu maddeleri, 80 inci maddesinin dördüncü fıkrası, 81 inci maddesinin birinci fıkrasının (f) bendi ve ikinci fıkrası, 82 nci maddesinin birinci, ikinci ve üçüncü fıkraları, 87 ilâ 89 uncu maddeleri, 97 nci maddesinin son fıkrası, geçici 1 inci maddesinin son fıkrası, geçici 3 üncü maddesi, geçici 6 ncı maddesinin dördüncü fıkrası, geçici 11 inci maddesinin ikinci fıkrası, geçici 12 inci maddesi hükümleri d) Diğer hükümleri | 1/1/2008 tarihinde, 30/4/2008 tarihinde, 1/7/2008 tarihinde, 2008 yılı Ekim ayı başında.
 5763 | Geçici Madde 23 ve 24 81 ve Geçici Madde 16 | 26/5/2008 1/10/2008
@@ -26,10 +26,11 @@ KHK/666 | 80, Geçici Madde 4 | 15/1/2012 |
 6283 | 67, 68, 102, Geçici 20, İşlenemeyen Hüküm Geçici 39 ve Geçici 40 | 8/3/2012 2013 yılı Ocak döneminde
 6322 | Ek Madde 2, Geçici Madde 41 | 15/6/2012
 6353 | 6, 41, 47, 69, 73, Geçici Madde 4, 14,18, 42, 43, 44 | 12/7/2012
-6385 | 40 67 73, Geçici Madde 38, 45, 46, 47, 48 | 2008 yılı Ekim ayı başından geçerli olmak üzere 19/1/2013 1/6/2012 tarihinden geçerli olmak üzere 19/1/2013 19/1/2013
+6385 | 40 67 73, Geçici Madde 38, 45, 46, 47, 48 81, 83, 84, Ek Madde 8 | 2008 yılı Ekim ayı başından geçerli olmak üzere 19/1/2013 1/6/2012 tarihinden geçerli olmak üzere 19/1/2013 19/1/2013 1/9/2013
 9880-2
 Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5510 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 6458 | 3, 60, 61 | 11/4/2013
 6462 | 13, 14, 15, 19, 25, 28, Geçici Madde 4, 10, 37, 39 | 3/5/2013
 6486 | 60, 61, 72, 73, Geçici Madde 49, Geçici Madde 50 81/i 81/2-4-5 | 29/5/2013 1/6/2013 1/1/2013 tarihinden geçerli olmak üzere 29/5/2013
 6494 | 60 | 7/7/2013
+6495 | 4, 66, GEÇİCİ MADDE 51 5, 47, GEÇİCİ MADDE 14, GEÇİCİ MADDE 52 | 2/8/2013 Ağustos 2013 ödeme döneminden geçerli olmak üzere 1/1/2014

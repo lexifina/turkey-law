@@ -1,0 +1,2 @@
+Sayıştayın denetlenmesi
+MADDE 79 – (1) Sayıştayın denetlenmesi, her yıl Türkiye Büyük Millet Meclisi adına Türkiye Büyük Millet Meclisi Başkanlık Divanı tarafından görevlendirilen ve gerekli mesleki niteliklere sahip denetim elemanlarından oluşan bir komisyon tarafından, hesaplar ve bunlara ilişkin belgeler de esas alınarak yapılır.

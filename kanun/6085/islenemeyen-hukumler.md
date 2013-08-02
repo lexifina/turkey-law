@@ -6,4 +6,3 @@ Geçici Madde 11 – (Ek: 19/11/2009 - 5924/2 md.)
 Bu Kanunun 9 uncu maddesinde öngörülen yönetmelik bu maddenin yürürlüğe girdiği tarihten itibaren en geç üç ay içerisinde çıkarılır.
 ––––––––––––
 (1) 3/12/2010 tarihli ve 6085 sayılı Kanunun 82 nci maddesinin birinci fıkrasının (a) bendindeki “Geçici 11 inci maddesi hariç, 21/2/1967 tarihli ve 832 sayılı Sayıştay Kanunu ile ek ve değişiklikleri …yürürlükten kaldırılmıştır.” hükmüne istinaden 832 sayılı Kanunun mezkur maddesi işlenemeyen hüküm olarak burada muhafaza edilmiştir.
-10742

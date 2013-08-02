@@ -58,3 +58,4 @@ Değiştiren Kanunun Numarası | 3065 sayılı Kanunun değişen veya iptal edil
 6327 | 17, Geçici madde 31 | 29/6/2012
 6462 | 17 | 3/5/2013
 6487 | Geçici Madde 32 | 11/6/2013
+6495 | 17/y | 2/8/2013

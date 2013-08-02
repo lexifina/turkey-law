@@ -1,6 +1,5 @@
 GEÇİCİ MADDE 5 – (Ek: 29/3/2011-6215/22 md.)
 (1) Kıbrıs’a Anamur (Dragon) Çayından Boru ile Su Götürme Projesi kapsamındaki Alaköprü Barajı rezervuarı ile inşaat alanında kalan ve bulundukları yerleşim yerlerinden kaldırılmaları zorunlu bulunan orman içi ve kenarı mahalle, köy veya belde halkının iskânlarının temini için, Çevre ve Orman Bakanlığınca bilim ve fen bakımından orman olarak muhafazasında hiçbir yarar görülmeyen ve tarım alanına dönüştürülmesi de mümkün olmayan orman sınırları dışına çıkarılmış ve çıkarılacak alanlar, Bakanlar Kurulunca alınacak kararda belirtilen şekil ve şartlar çerçevesinde Bayındırlık ve İskân Bakanlığına devredilir.
-9946
 (2) Birinci fıkra hükümlerine göre iskân edilecek ailelerin hak sahipliliği ve borçlandırılmalarına ilişkin usul ve esaslar Bakanlar Kurulunca belirlenir.
 (3) Çevre ve Orman Bakanlığınca belirlenen alanlarda, 21/6/1987 tarihli ve 3402 sayılı Kadastro Kanununun 22 nci maddesinin kadastrosu yapılmış olan yerlerin ikinci defa kadastroya tabi tutulamayacağına ilişkin hükmü uygulanmaz.
 (4) Birinci fıkraya göre Bayındırlık ve İskân Bakanlığına devredilecek alanların tespiti amacıyla Çevre ve Orman Bakanlığınca yeteri kadar orman kadastro komisyonu görevlendirilir ve bu tespit sırasında ilan süresi bir hafta, itiraz süresi bir ay olarak uygulanır.
