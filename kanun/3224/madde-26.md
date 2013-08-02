@@ -4,7 +4,7 @@ a) Birlik Genel Kurulunun gündemini hazırlayıp Genel Kurulu toplantıya çağ
 b) Birliğin dönem bilançosunu, faaliyet raporu ile tahmini bütçesini hazırlayıp Birlik Genel Kuruluna sunmak; bilanço ve faaliyetleri konusunda ibrasını istemek,
 c) Birlik Genel Kurul kararlarını uygulamak,
 d) Kanuna, tüzük ve yönetmeliklere uymayan Odaları uyarmak, gerekirse sorumluları Yüksek Disiplin Kuruluna sevk etmek,
-e) (İptal ikinci fıkra: Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/150, K.: 2013/30 sayılı Kararı ile.)
+e) (İptal ikinci fıkra: Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/150, K.: 2013/30 sayılı Kararı ile.; Değişik: 12/7/2013-6495/73 md.) Odaların faaliyet alanı içindeki muayene ve tedavi ücretlerine ilişkin rehber tarife tekliflerini tasdik etmek,
 f) Diş hekimlerinin kullanacakları tabela örneğini tespit etmek, bu örneğe uymayan tabelaların kullanımını ve Tıbbi Deontoloji Tüzüğüne aykırı ilan ve reklam yapılmasını önlemek,
 g) Birlik adına taşınır ve taşınmaz mal almak, satmak, ipotek etmek ve bunlar üzerinde her türlü ayni hak tesis etmek, kaldırmak; bu konularda Genel Başkan veya bir Merkez Yönetim Kurulu üyesine yetki vermek,
 h) Bu Kanunun uygulanmasına esas olacak tüzük ve yönetmelikleri çıkarmak için gerekli faaliyetlerde bulunmak,

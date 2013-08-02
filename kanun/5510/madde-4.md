@@ -32,7 +32,7 @@ b) Başbakan, bakanlar, Türkiye Büyük Millet Meclisi üyeleri, belediye başk
 c) Birinci fıkranın (c) bendi kapsamında iken, bu kapsamdaki kişilerin kurduğu sendikalar ve konfederasyonları ile sendika şubelerinin başkanlıkları ve yönetim kurullarına seçilenlerden aylıksız izne ayrılanlar,
 d) Harp okulları ile fakülte ve yüksek okullarda, Türk Silâhlı Kuvvetleri hesabına okuyan veya kendi hesabına okumakta iken askerî öğrenci olanlar ile astsubay meslek yüksek okulları ve astsubay naspedilmek üzere temel askerlik eğitimine tâbi tutulan adaylar,
 9787
-e) Polis Akademisi ile fakülte ve yüksek okullarda, Emniyet Genel Müdürlüğü hesabına okuyan veya kendi hesabına okumakta iken Emniyet Genel Müdürlüğü hesabına okumaya devam eden öğrenciler,
+e) Polis Akademisi ile fakülte ve yüksek okullarda, Emniyet Genel Müdürlüğü hesabına okuyan veya kendi hesabına okumakta iken Emniyet Genel Müdürlüğü hesabına okumaya devam eden öğrenciler ile polis nasbedilmek üzere Polis Meslek Eğitim Merkezlerinde polislik eğitimine tabi tutulan adaylar, (1)
 hakkında da uygulanır.
 Dördüncü fıkranın (d) ve (e) bentlerinde belirtilen okulları tamamlamadan ayrılanlar ile bu okulları tamamlamalarına rağmen görevlerine başlamadan ayrılanların, bu okullarda geçen eğitim süreleri sigortalılıklarından sayılmaz.
 Bu Kanunun kısa vadeli sigorta kollarına ilişkin hükümleri bu maddenin birinci fıkrasının (c) bendi kapsamında sigortalı sayılanlara bu kapsamda oldukları sürece uygulanmaz.

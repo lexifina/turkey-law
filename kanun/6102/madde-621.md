@@ -10,3 +10,4 @@ g) Müdürlerin ve ortakların, bağlılık yükümüne veya rekabet yasağına 
 h) Bir ortağın haklı sebepler dolayısıyla şirketten çıkarılması için mahkemeye başvurulması ve bir ortağın şirket sözleşmesinde öngörülen sebepten dolayı şirketten çıkarılması.
 ı) Şirketin feshi.
 (2) Kanunda belli kararların alınabilmesi için ağırlaştırılmış nisap aranıyorsa, bu nisabı daha da ağırlaştıracak şirket sözleşmesi hükümleri, ancak şirket sözleşmesinde öngörülecek çoğunlukla kabul edilebilir.
+(3) (Ek: 12/7/2013-6495/52 md.) Bir ortağın şirketten çıkarılma sebeplerinin sonradan şirket sözleşmesine konulabilmesine dair sözleşme değişikliği, şirket sermayesini temsil eden tüm ortakların genel kurul toplantısında oy birliği ile karar almasıyla mümkündür.

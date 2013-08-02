@@ -4,10 +4,9 @@ a) Oda Genel Kurulu gündemini hazırlayıp, Genel Kurulu toplantıya çağırma
 b) Odanın dönem bilançosu, faaliyet raporu ile tahmini bütçesini hazırlayıp Genel Kurula sunmak; bilanço ve faaliyetleri konusunda ibrasını istemek,
 c) Birlik ve Oda Genel Kurul kararlarını uygulamak,
 d) Diş Hekimliği ile ilgili mevzuatın ve meslek kurallarının gereği gibi uygulanmasına yardımcı olmak,
-e) Diş Hekimlerinin, hastalarla diş hekimleri arasında aracılık yapmayı meslek edinenlerle işbirliği yapmasını, Merkez Yönetim Kurulunca şekli belirlenmiş örneğe uymayan
+e) Diş Hekimlerinin, hastalarla diş hekimleri arasında aracılık yapmayı meslek edinenlerle işbirliği yapmasını, Merkez Yönetim Kurulunca şekli belirlenmiş örneğe uymayan tabelaların kullanılmasını ve her türlü araçla veya kişiyle reklam yapılmasını; meslektaşlar arasında gayrimeşru menfaat sağlanmasını önlemek,
 6758
-tabelaların kullanılmasını ve her türlü araçla veya kişiyle reklam yapılmasını; meslektaşlar arasında gayrimeşru menfaat sağlanmasını önlemek,
-f) (İptal ikinci fıkra: Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/150, K.: 2013/30 sayılı Kararı ile.)
+f) (İptal ikinci fıkra: Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/150, K.: 2013/30 sayılı Kararı ile.; Değişik: 12/7/2013-6495/73 md.) Faaliyet alanı içindeki muayene ve tedavi ücretlerine ilişkin rehber tarife teklifi hazırlayarak Birlik Merkez Yönetim Kuruluna göndermek,
 g) Meslek mensuplarının birbirleriyle hastalarla veya hasta sahipleri arasında çıkacak ihtilafları uzlaştırmaya veya hakem usulüne başvurarak çözüme kavuşturmaya çalışmak,
 h) Meslek mensuplarının daha yüksek bir mesleki kültür düzeyine ulaşabilmeleri için gerekli teşebbüslerde bulunmak,
 i) Meslek mensuplarını bölgeleri içinde meslekleriyle ilgili sağlık sorunları üzerinde inceleme ve araştırma yapmaya teşvik ederek bunlardan çıkan sonuçları ilgili kurum ve kuruluşlara iletmek,

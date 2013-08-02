@@ -53,6 +53,24 @@ Madde 35 – Kamu kurum ve kuruluşları ile gerçek kişiler ve özel hukuk tü
 Sosyal hizmet kuruluşları yılda en az bir defa Kurumca denetlenir.
 İlgililer kontrol ve denetlemeler sırasında denetleme heyetine her türlü kolaylığı göstermekle yükümlüdürler.
 Kontrol ve denetlemeye ilişkin esaslar yönetmelikle düzenlenir.
+Müeyyideler
+Madde 35/A – (Ek: 12/7/2013-6495/82 md.)
+Gerçek kişi veya özel hukuk tüzel kişilerine ait sosyal hizmet kuruluşunda yapılan kontrol ve denetim sonucunda, bu kuruluşların açılışına, çalışma şartlarına, yönetimine, hizmetin etkin sunumuna ilişkin olarak yönetmelikle belirlenen koşullara göre eksiklik veya aykırılığın tespiti hâlinde il müdürü tarafından 16 yaşından büyükler için her yıl belirlenen aylık net asgari ücret tutarının on katından elli katına kadar idari para cezası verilir. Bu eksiklik veya aykırılıkların giderilmesi ile idari para cezasının yatırılması için otuz günü geçmemek üzere uygun bir süre verilerek ilgili kuruluş yazılı olarak ihtar edilir.
+Belirlenen süre içinde kuruluş tarafından eksiklik veya aykırılığın giderilmemesi hâlinde birinci fıkra uyarınca verilen idari para cezasının iki katı tutarında tekrar idari para cezası uygulanır ve eksiklik veya aykırılığın giderilmesi için otuz günü geçmemek üzere ek süre verilir. Bu süre içinde de eksiklik veya aykırılığın giderilmemesi hâlinde kuruluş, Aile ve Sosyal Politikalar Bakanlığı tarafından kapatılır.
+Birinci ve ikinci fıkralar uyarınca verilen sürede eksiklikler veya aykırılıklar giderilinceye kadar kuruluşa yeni bir kişinin kabulü yapılamaz.
+Bir yıl içinde beş defa idari para cezası uygulanan kuruluş, Aile ve Sosyal Politikalar Bakanlığı tarafından kapatılır.
+Bu Kanun kapsamında verilen idari para cezaları, tebliğinden itibaren bir ay içinde ödenir. Bu süre içinde ödenmeyen idari para cezaları, kesinleşmesini müteakiben Bakanlığın bildirimi üzerine vergi daireleri tarafından 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre takip ve tahsil edilir.
+Kuruluşun kapatılması
+Madde 35/B – (Ek: 12/7/2013-6495/83 md.)
+Bu Kanun kapsamında gerçek kişi veya özel hukuk tüzel kişilerince açılan sosyal hizmet kuruluşlarında hizmet verilen kişilere yönelik tehdit veya baskı ya da özgürlüğün keyfî engellenmesini de içeren fiziksel, cinsel, tıbbi, psikolojik veya ekonomik açıdan zarar veren her türlü tutum ve davranışın gerçekleşmesi hâlinde bu tutum ve davranışların engellenmesine yönelik gerekli tedbirleri almayan kurucu veya sorumlu müdüre dört yüz günden az olmamak üzere adli para cezası verilir.
+Sosyal hizmet kuruluşları aşağıda belirtilen hususlardan birinin tespit edilmesi hâlinde Aile ve Sosyal Politikalar Bakanlığı tarafından kapatılır:
+a) Kurucu veya sorumlu müdürün kuruluşta hizmet verilen kişilere yönelik tehdit veya baskı ya da özgürlüğün keyfî engellenmesini de içeren fiziksel, cinsel, tıbbi, psikolojik veya ekonomik açıdan zarar veren eylemlerden dolayı cezalandırılmasına karar verilmiş olması
+b) Kurucu veya sorumlu müdürün birinci fıkra hükümleri uyarınca cezalandırılmasına karar verilmiş olması
+5808-1
+c) Kuruluşun açılış izin onayı olmadan hizmete başlaması
+ç) Kuruluşun izinsiz olarak nakil veya devir işleminin yapılması
+d) Kuruluşun açılış işlemleri esnasında ibraz edilen belge ve beyanların gerçeği yansıtmadığının sonradan ortaya çıkması
+İkinci fıkranın (a) ve (b) bentlerinde belirtilen hallerde 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 231 inci maddesi uyarınca hükmün açıklanmasının geri bırakılmasına karar verilmiş olması, kapatma işleminin yapılmasına engel teşkil etmez.
 Onurlandırma:
 Madde 36 – Kurumca yürütülmekte olan sosyal hizmet faaliyetlerine gerçek ve tüzelkişilerin her türlü maddi ve manevi katkı ve katılımın sağlanmasına ilişkin esaslar ile Kuruma büyük hizmet ve katkıları geçenlerin onurlandırılması işlemleri bir yönetmelikle düzenlenir.
 Yönetmelikler:

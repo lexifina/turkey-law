@@ -7,8 +7,8 @@ c) Çalışan temsilcisi: İş sağlığı ve güvenliği ile ilgili çalışmal
 11648
 d) Eğitim kurumu: İş güvenliği uzmanı, işyeri hekimi ve diğer sağlık personelinin eğitimlerini vermek üzere Bakanlıkça yetkilendirilen kamu kurum ve kuruluşlarını, üniversiteleri ve Türk Ticaret Kanununa göre faaliyet gösteren şirketler tarafından kurulan müesseseleri,
 e) Genç çalışan: Onbeş yaşını bitirmiş ancak onsekiz yaşını doldurmamış çalışanı,
-f) İş güvenliği uzmanı: İş sağlığı ve güvenliği alanında görev yapmak üzere Bakanlıkça yetkilendirilmiş, iş güvenliği uzmanlığı belgesine sahip mühendis, mimar veya teknik elemanı,
-g) İş kazası: İşyerinde veya işin yürütümü nedeniyle meydana gelen, ölüme sebebiyet veren veya vücut bütünlüğünü ruhen ya da bedenen “engelli hâle getiren” olayı,(1)
+f) (Değişik: 12/7/2013-6495/101 md.) İş Güvenliği Uzmanı: Usul ve esasları yönetmelikle belirlenen, iş sağlığı ve güvenliği alanında görev yapmak üzere Bakanlıkça yetkilendirilmiş, iş güvenliği uzmanlığı belgesine sahip, Bakanlık ve ilgili kuruluşlarında çalışma hayatını denetleyen müfettişler ile mühendislik veya mimarlık eğitimi veren fakültelerin mezunları ile teknik elemanı,
+g) İş kazası: İşyerinde veya işin yürütümü nedeniyle meydana gelen, ölüme sebebiyet veren veya vücut bütünlüğünü ruhen ya da bedenen engelli hâle getiren olayı, (1)
 ğ) İşveren: Çalışan istihdam eden gerçek veya tüzel kişi yahut tüzel kişiliği olmayan kurum ve kuruluşları,
 h) İşyeri: Mal veya hizmet üretmek amacıyla maddi olan ve olmayan unsurlar ile çalışanın birlikte örgütlendiği, işverenin işyerinde ürettiği mal veya hizmet ile nitelik yönünden bağlılığı bulunan ve aynı yönetim altında örgütlenen işyerine bağlı yerler ile dinlenme, çocuk emzirme, yemek, uyku, yıkanma, muayene ve bakım, beden ve mesleki eğitim yerleri ve avlu gibi diğer eklentiler ve araçları da içeren organizasyonu,
 ı) İşyeri hekimi: İş sağlığı ve güvenliği alanında görev yapmak üzere Bakanlıkça yetkilendirilmiş, işyeri hekimliği belgesine sahip hekimi,
@@ -21,10 +21,11 @@ n) Önleme: İşyerinde yürütülen işlerin bütün safhalarında iş sağlı�
 o) Risk: Tehlikeden kaynaklanacak kayıp, yaralanma ya da başka zararlı sonuç meydana gelme ihtimalini,
 ö) Risk değerlendirmesi: İşyerinde var olan ya da dışarıdan gelebilecek tehlikelerin belirlenmesi, bu tehlikelerin riske dönüşmesine yol açan faktörler ile tehlikelerden kaynaklanan risklerin analiz edilerek derecelendirilmesi ve kontrol tedbirlerinin kararlaştırılması amacıyla yapılması gerekli çalışmaları,
 p) Tehlike: İşyerinde var olan ya da dışarıdan gelebilecek, çalışanı veya işyerini etkileyebilecek zarar veya hasar verme potansiyelini,
-____________________________
-(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesi ile bu bentte yer alan “özre uğratan” ibaresi “engelli hâle getiren” şeklinde değiştirilmiştir. 11649
+–––––––––––––––––
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özre uğratan” ibaresi “engelli hâle getiren” şeklinde değiştirilmiştir.
+11649
 r) Tehlike sınıfı: İş sağlığı ve güvenliği açısından, yapılan işin özelliği, işin her safhasında kullanılan veya ortaya çıkan maddeler, iş ekipmanı, üretim yöntem ve şekilleri, çalışma ortam ve şartları ile ilgili diğer hususlar dikkate alınarak işyeri için belirlenen tehlike grubunu,
-s) Teknik eleman: Teknik öğretmen, fizikçi ve kimyager unvanına sahip olanlar ile üniversitelerin iş sağlığı ve güvenliği programı mezunlarını,
+s) (Değişik: 12/7/2013-6495/101 md.) Teknik eleman: Teknik öğretmen, fizikçi, kimyager ve biyolog unvanına sahip olanlar ile üniversitelerin iş sağlığı ve güvenliği programı mezunlarını,
 ş) İşyeri hemşiresi: 25/2/1954 tarihli ve 6283 sayılı Hemşirelik Kanununa göre hemşirelik mesleğini icra etmeye yetkili, iş sağlığı ve güvenliği alanında görev yapmak üzere Bakanlıkça yetkilendirilmiş işyeri hemşireliği belgesine sahip hemşire/sağlık memurunu,
 ifade eder.
 (2) İşveren adına hareket eden, işin ve işyerinin yönetiminde görev alan işveren vekilleri, bu Kanunun uygulanması bakımından işveren sayılır.

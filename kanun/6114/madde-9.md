@@ -1,10 +1,11 @@
 Sınav güvenliği
 MADDE 9 – (1) Sınav soruları ile bunları hazırlamakla görevlendirilmiş olan kişilerin kimlikleri gizli tutulur. Başkanlık, gizliliğin sağlanması için gerekli bütün tedbirleri alır ve ilgili tüm kurumlarla işbirliği yapar. Soru havuzundaki sorular hiçbir koşul altında kısmen ya da tamamen üçüncü şahıslara verilmez. Adli ve idari soruşturma ve kovuşturmalarda soru havuzuna erişim için Bakanlar Kurulunun izni gereklidir.
-(2) Sorular ve cevapları, yapılan sınav sona erdikten sonra Yönetim Kurulu kararına istinaden açıklanabilir. 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanunu hükümleri saklıdır.
+(2) Sorular ve cevapları, yapılan sınav sona erdikten sonra Yönetim Kurulu kararına istinaden açıklanabilir. (Mülga ikinci cümle: 12/7/2013-6495/53 md.) (…)
 (3) Soruların hazırlanması da dâhil olmak üzere, sınav sürecinin herhangi bir aşamasında görev alanlar, ilgili mevzuat çerçevesinde Yönetim Kurulu tarafından belirlenen kurallara titizlikle uymakla yükümlüdür.
-(4) Sınavlarda güvenliğin sağlanması amacıyla, soruların hazırlandığı, basıldığı, dağıtıldığı, muhafaza edildiği ve sınavların yapıldığı binalarda sınav öncesinde ve sınav esnasında sinyal karıştırıcı ve benzeri diğer cihazlar kullanılabilir. (1)
+(4) Sınavlarda güvenliğin sağlanması amacıyla, soruların hazırlandığı, basıldığı, dağıtıldığı, muhafaza edildiği ve sınavların yapıldığı binalarda sınav öncesinde ve sınav esnasında sinyal karıştırıcı ve benzeri diğer cihazlar kullanılabilir. (2)
 –––––––––––––––––––
-(1) 4/7/2012 tarihli ve 6353 sayılı Kanunun 51 inci maddesiyle, bu fıkrada yer alan ““amacıyla,” ibaresinden sonra gelmek üzere “soruların hazırlandığı, basıldığı, dağıtıldığı, muhafaza edildiği ve” ibaresi eklenmiştir.
+(1) 12/7/2013 tarihli ve 6495 sayılı Kanunun 53 üncü maddesiyle, bu fıkrada yer alan “kuruluşlarının” ibaresinden sonra gelmek üzere “sınav evrakını saklamaya, başvuru merkezi veya sınav koordinatörlüğü hizmetlerini yürütmeye ve” ibaresi eklenmiştir.
+(2) 4/7/2012 tarihli ve 6353 sayılı Kanunun 51 inci maddesiyle, bu fıkrada yer alan ““amacıyla,” ibaresinden sonra gelmek üzere “soruların hazırlandığı, basıldığı, dağıtıldığı, muhafaza edildiği ve” ibaresi eklenmiştir.
 11430
 (5) Sınav güvenliğinin sağlanması amacıyla, genel kolluk görevlileri ile bunların gözetiminde olmak üzere özel güvenlik görevlileri, herhangi bir emir veya karar olmasına bakılmaksızın, adayların ve sınavın yapıldığı binaya girme hakkına sahip olan diğer kişilerin üstünü ve eşyasını teknik cihazlarla, gerektiğinde el ile kontrol etmeye ve aramaya yetkilidir. Adayların ve sınav görevlilerinin sınav binalarına giriş koşulları yönetmelikle düzenlenir.
 (6) Görevli olması sebebiyle sınav süresince sınav yapılan bina ve salonlara girmek isteyenler, sorulmaksızın kimliklerini ibraz etmekle yükümlüdür.
@@ -14,12 +15,14 @@ MADDE 10 – (1) Başkanlık tarafından yapılan sınavlarla ilgili olarak, sı
 (3) Başkanlık tarafından yapılan sınavlarda;
 a) Ses veya görüntü nakleden cihaz kullanmak suretiyle kopya çeken veya bu suretle kopya çekilmesine aracılık eden,
 b) Başka bir adayın yerine sınava giren veya kendi yerine bir başkasının sınava girmesine katkı sağlayan,
-c) Kopya çektirilmesine imkân sağlayan,
+c) Bireysel veya toplu olarak kopya çeken veya Kopya çektirilmesine imkân sağlayan, (1)
 kişi; fiili daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde, bir yıldan dört yıla kadar hapis cezası ile cezalandırılır.
 (4) Sınav sonuçlarını adayın lehine veya aleyhine olacak şekilde değiştiren kişi, fiili daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde, üç yıldan sekiz yıla kadar hapis cezası ile cezalandırılır.
 (5) Sınavda kopya çektiği tespit edilen adayın sınavı, Yönetim Kurulu kararı ile iptal edilir. Bu aday, sınavın yapıldığı tarihten itibaren iki yıl süreyle Başkanlık tarafından yapılan hiçbir sınava aday olarak başvuramaz ve giremez. Sınavı iptal edilenlerin, iptal kararı verilmeden önce, bu sınavdaki başarısına dayalı olarak bir kamu görevine atanmış veya sair bir hak iktisap etmiş olması hâlinde, ilgili kurum yetkilileri tarafından görevine derhal son verilir ve kendisine sağlanan hak geri alınır. Bu fıkrada yer alan hükümler ikinci, üçüncü ve dördüncü fıkralarda yer alan fiilleri işleyen adaylar hakkında da uygulanır.
 (6) Bu maddede tanımlanan suçların bir örgütün faaliyeti çerçevesinde işlenmesi halinde, verilecek cezalar yarı oranında artırılır. Bu suçların bir tüzel kişinin faaliyeti çerçevesinde işlenmesi hâlinde, tüzel kişi hakkında bunlara özgü güvenlik tedbirlerine hükmolunur.
 (7) Gizlilik ihlali suretiyle soruların elde edilmiş olmasından yararlanarak kopya çektiği için kendisiyle ilgili sınavın iptaline karar verilen adayın, soruların kimler tarafından temin edildiği ve ne suretle eline geçtiği hususunda bilgi vermesi hâlinde, Yönetim Kurulu kararıyla, sınava giriş yasağının süresi kısaltılabileceği gibi yasak tamamen de kaldırılabilir.
+–––––––––––––––––––
+(1) 12/7/2013 tarihli ve 6495 sayılı Kanunun 53 üncü maddesiyle, bu bentte yer alan “Kopya çektirilmesine imkân sağlayan” ibaresinden önce gelmek üzere “Bireysel veya toplu olarak kopya çeken veya” ibaresi eklenmiştir.
 11431
 (8) Bu Kanun hükümlerine göre kamu görevlisi sayılan kişiler hakkında, görevleriyle bağlantılı olarak işledikleri iddia edilen suçlardan dolayı, 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümlerine göre, soruşturma izni kararı vermeye ÖSYM Yönetim Kurulu; Yönetim Kurulu Başkan ve üyeleri hakkında ise Yükseköğretim Genel Kurulu yetkilidir.
 DÖRDÜNCÜ BÖLÜM
