@@ -1,0 +1,6 @@
+Mahalli çevre kurulu kararları
+MADDE 22 – (1) Mahalli Çevre Kurulu kararları, sekretaryanın başlıklı karar kağıtlarına yazılır. Karar numaraları sürekli ve her karara bir numara verilmek suretiyle düzenlenir. Yıl değişse de mükerrer karar numarası verilemez. Kararların toplantı salonunda yazılıp, Başkan ve üyelerce imzalanması esastır. Kararların toplantı sırasında yazılıp imzalanmadığı durumlarda gerekçesi belirtilen bir karar tutanağı düzenlenerek Başkan ve üyelerce imzalanır.
+(2) Kararlar oy çokluğuyla alınır. Oyların eşitliği halinde Başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır. Üyeler çekimser oy kullanamazlar. Mahalli Çevre Kurulu üyelerince, karşı oy kullanılan kararlar “karşı oy” yazılarak imzalanır. Karşı oy gerekçeleri ayrıca sahiplerince yazı ile belirtilerek dosyasında saklanmak üzere sekretaryaya teslim edilir.
+(3) Mahalli Çevre Kurulu kararları ile bu kararlara ilişkin olarak kabul edilen proje, program, harita, plan, rapor ve benzeri belgelerin bir takımı Başkan ve üyelerce imzalanarak dosyasında saklanır.
+(4) Mahalli Çevre Kurulu kararları, 15 (on beş) gün içerisinde ilgili kişi ve kuruluşlar ile Bakanlığa gönderilir.
+(5) Mahalli Çevre Kurulu kararları, Yüksek Çevre Kurulu kararları göz önünde bulundurularak alınır.

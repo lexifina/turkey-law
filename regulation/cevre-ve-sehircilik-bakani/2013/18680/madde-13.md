@@ -1,0 +1,2 @@
+Toplantı usulü
+MADDE 13 – (1) Komite, yılın ilk toplantısını Komite Başkanının belirleyeceği yer ve tarihte gerçekleştirir. Komitenin ilk toplantısında yıllık çalışma programı belirlenir ve bu program doğrultusunda sekretarya tarafından belirlenen toplantı gündemine göre yalnızca konu ile ilgili olan Komite üyelerinin katılımıyla herhangi bir çağrıya gerek kalmaksızın üçer aylık dönemler halinde kendiliğinden toplanır. Ancak, gerekli gördüğü hallerde Komite Başkanı Komiteyi toplantıya çağırabilir.

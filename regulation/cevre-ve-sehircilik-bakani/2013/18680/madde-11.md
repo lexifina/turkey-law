@@ -1,0 +1,4 @@
+Toplantı Kararları ve Sekretarya
+Çevre teknik komitesinin oluşumu
+MADDE 11 – (1) Çevre Teknik Komitesi; Yüksek Çevre Kuruluna yardımcı olmak üzere, Bakanlık Müsteşarının Başkanlığında, Dışişleri, Maliye, Kalkınma, Orman ve Su İşleri, Millî Eğitim, Ulaştırma, Denizcilik ve Haberleşme, Gıda, Tarım ve Hayvancılık, Bilim, Sanayi ve Teknoloji, Enerji ve Tabii Kaynaklar, Sağlık ile Kültür ve Turizm bakanlıklarının müsteşarları, Diyanet İşleri Başkanlığı Başkan Yardımcısı, Türkiye Bilimsel ve Teknolojik Araştırma Kurumu Başkanı, Afet ve Acil Durum Yönetimi Başkanı, Türkiye Odalar ve Borsalar Birliği Başkanı, Deniz Ticaret Odası Yönetim Kurulu Başkanı ve Bakanlıkça belirlenecek çevre ve şehircilik dalında çalışma yapan toplam iki öğretim üyesinden oluşur.
+(2) Komiteye, çalışma konularının gerektirdiği hallerde, Komite Başkanının davetiyle diğer kurum ve kuruluşlar ile sivil toplum kuruluşlarının temsilcileri de çağırılabilir.

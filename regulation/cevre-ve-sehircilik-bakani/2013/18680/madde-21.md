@@ -1,0 +1,3 @@
+Toplantı gündemi
+MADDE 21 – (1) Mahalli Çevre Kurulunun toplantı gündemi Mahalli Çevre Kurulu sekretaryası tarafından hazırlanır ve Başkan tarafından onaylanır. Mahalli Çevre Kurulu üyeleri toplantıda veya sair zamanlarda gelecek toplantının gündemiyle ilgili önerilerde bulunabilirler. Mahalli Çevre Kurulu Başkanı tarafından gerekli görülmesi halinde gündemde yer alan konular hakkında ilde bulunan üniversitelerin çevre ile ilgili bölümlerinin öğretim üyeleri ile ilgili diğer kurum ve gönüllü kuruluşların temsilcileri toplantıya çağrılarak veya yazılı olarak görüşleri alınabilir.
+(2) Gündem konuları Mahalli Çevre Kurulu üyelerine toplantı gününden en az beş gün önce bildirilir.
