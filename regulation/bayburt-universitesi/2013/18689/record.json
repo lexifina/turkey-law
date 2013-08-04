@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-08-04",
+      "04.08.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28728",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-08-04",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Bayburt Üniversitesi",
+  "issuer_slug": "bayburt-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bayburt-universitesi/2013/18689",
+  "published": "2013-08-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18689&MevzuatTertip=5",
+  "source_bytes": 19704,
+  "source_id": "8.5.18689",
+  "source_sha256": "7e377ca57673427c27528d5139061c0fc14e5e7c7d6d39a84032a240d4a19816",
+  "text_status": "as-enacted",
+  "title": "BAYBURT ÜNİVERSİTESİ BAYBURT TARİHİ VE KÜLTÜRÜ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 347,
+  "word_count": 935
+}
