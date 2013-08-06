@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-08-06",
+  "issue": "28730",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Cumhuriyet Başsavcılıkları ile Adlî Yargı İlk Derece Ceza Mahkemeleri Yazı İşleri Hizmetlerinin Yürütülmesine Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130806-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130806.htm",
+  "index_sha256": "f1e43738e25fa3ce04de38f069a6a91a9e6004f1c26f2b2c3d260df3011127a9",
+  "index_header": "6 Ağustos 2013 ... 28730 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130806.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
