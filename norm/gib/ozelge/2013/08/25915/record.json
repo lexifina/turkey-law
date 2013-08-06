@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64950229-105[229-2013/7]-154",
+  "source_id": 25915,
+  "date": "2013-08-06",
+  "title": "Fatura alt nüshalarının mal teslimi sonrası kaşelenip imzalanma zorunluluğu olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25915",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "23a6005d62a5327555185e3c897d76b231dd0cd01b009fe76721b1f5d0f28d18",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
