@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[30-2012/101]-1202",
+  "source_id": 28641,
+  "date": "2013-08-06",
+  "title": "Serbest bölgede faaliyet gösteren şube tarafından yurtdışında mukim firmadan program ve hizmet alımı için yapılacak ödemelerde uygulanacak tevkifat oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28641",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "fe7d5269c703496d8f1387267300635e3c91501e64dd40fdbc1d7def8de0f37f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
