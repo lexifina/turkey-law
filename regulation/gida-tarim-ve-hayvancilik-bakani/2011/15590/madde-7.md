@@ -1,0 +1,8 @@
+Kontrole ilişkin esaslar
+MADDE 7 – (1) Bu Yönetmelik kapsamındaki resmi kontrollerde Türk gıda mevzuatı ve yem mevzuatı hükümleri uygulanır. İthal edilecek ürün ile ilgili Türk gıda ve yem mevzuatında hüküm bulunmaması durumunda, Kodeks Alimentarius ve AB mevzuatı gibi uluslararası mevzuat, uluslararası mevzuatın bulunmadığı, fakat sadece üretici ülkenin mevzuatının bulunduğu ürünlerde üretici ülke mevzuatı esas alınır.
+(2) Dahilde işleme rejimi kapsamında ithal edilmek istenen ürünlere ait dahilde işleme izin belgesi üzerinde eşdeğer eşya kullanılamayacağına dair ibare olması durumunda, bu ürünlerin yalnızca belge kontrolü ve kimlik kontrolü yapılır. Bu ibareyi taşımayan dahilde işleme izin belgeleri resmi kontrollerde dikkate alınmaz.
+(3) Geçici olarak depolanan ancak serbest dolaşıma girmeyecek olan ürünlerin gıda ve yem güvenilirliği kontrolleri yapılmaz.
+(4) İthalat aşamasındaki kontrol işlemleri, il müdürlüklerince veya sınır kontrol noktalarında yapılır. Ürün grupları itibariyle yetki verilen il müdürlükleri ve sınır kontrol noktaları Bakanlıkça belirlenir ve Genel Müdürlük internet sitesinde ilan edilir.
+(5) İthalatçı uygun resmi kontrol ve numune alma şartlarını hazırlamaktan sorumludur. Numunenin usulüne uygun alınmadığına dair yapılacak itirazlar numune alım aşamasında yapılır. Numune alımı tamamlandıktan sonra numunenin usulüne uygun alınmadığına dair yapılacak itirazlar kabul edilmez.
+(6) Bu Yönetmelik kapsamındaki ürünlerin resmi kontrolleri, Kanunun EK-2 sayılı listesine uygun olarak kontrol görevlisi tarafından gerçekleştirilir. Gerekli durumlarda birden fazla kontrol görevlisi görevlendirilebilir.
+(7) Bu Yönetmelik kapsamındaki ürünlerin resmi kontrollerine ilişkin tüm masraflar ve ulaşım ithalatçı tarafından karşılanır.

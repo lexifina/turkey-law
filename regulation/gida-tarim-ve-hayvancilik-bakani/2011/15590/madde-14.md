@@ -1,0 +1,2 @@
+Birden fazla firmaya ait ürünler
+MADDE 14 – (1) Birden fazla firmaya ait olsa bile dökme olarak gelen menşei, sertifikası aynı olan, aynı gemi, ambar, tank, depo, konteynır ve silo gibi araçlarda bulunan ürünler tek bir parti kabul edilir. Partiyi temsil edecek şekilde kontroller yapılır. Kontrol sonucunun uygun olması durumunda kırkbeş gün süreyle bu ürün için ön bildirimde bulunulmuş olan tüm ithalat başvuruları için bu sonuç uygulanır. Kontrol sonucunun uygun olmaması durumunda tüm parti için 6 ncı maddenin dokuzuncu fıkrasında yer alan hükümler uygulanır.

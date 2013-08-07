@@ -1,0 +1,3 @@
+Özel işleme tabi tutma
+MADDE 8 – (1) İthali söz konusu ürünün Türk gıda ve yem mevzuatına uygun olmaması durumunda ithalatçı talebi doğrultusunda ürün özel işleme tabi tutulabilir. Özel işleme tabi tutulabilecek ürünler ve yapılacak işlemler Bakanlıkça belirlenir. Özel işleme tabi tutma işlemleri, insan, bitki ve hayvan sağlığı ile çevre için doğrudan ya da dolaylı herhangi bir olumsuz etkiye sahip olmayacak şekilde uygulanır.
+(2) Özel işleme tabi tutulan üründen yeniden numune alınır, ilk numune analiz sonuçları dikkate alınmaksızın, risk teşkil edebilecek kriterler göz önünde bulundurularak laboratuvarda muayene ve analiz yaptırılır. Analiz sonuçlarına göre değerlendirme yapılır.
