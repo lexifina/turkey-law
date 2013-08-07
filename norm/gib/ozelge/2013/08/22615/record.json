@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[94-2013/391]-1213",
+  "source_id": 22615,
+  "date": "2013-08-07",
+  "title": "Yap-işlet-devret modeline göre inşa edilen binanın vergisel boyutu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22615",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "cc1511e1a83f43d61ab174a1eab4d7ad5f33064525c965166a4f842206dc82e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
