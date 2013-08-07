@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.18707",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "657 SAYILI KANUNUN GEÇİCİ 41 İNCİ MADDESİNİN UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "18707",
+  "path": "teblig/2013/18707",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18707&MevzuatTertip=5",
+  "source_sha256": "034855f8e9d79022332726b720264e5b8a2b6442a49f4e6ca6abadb1f62bf152",
+  "source_bytes": 58190,
+  "published": "2013-08-07",
+  "gazette": "28731",
+  "in_force": "2013-08-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.08.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1015,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18707%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
