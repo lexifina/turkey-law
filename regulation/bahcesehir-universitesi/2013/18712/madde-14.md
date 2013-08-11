@@ -1,0 +1,4 @@
+Merkez birimleri ve proje grupları
+MADDE 14 – (1) Merkezin ana birimleri; araştırma ve yayın birimi, proje koordinatörlüğü ile dış ilişkiler ve bilimsel etkinlikler birimidir. Bunlar haricinde; araştırma, geliştirme ve eğitim çalışmalarını iş bölümü çerçevesinde yürütmek üzere Müdürün önerisi ve Yönetim Kurulu kararıyla Merkezin çalışma alanlarında araştırma ve uygulama yapan başka merkez birimleri ve proje grupları kurulabilir.
+(2) Ana birimler de dâhil olmak üzere merkezin alt birimleri Müdürün önerisi üzerine Yönetim Kurulunca değiştirilebilir veya kaldırılabilir. Proje gruplarının çalışmaları, Müdürlük ve Yönetim Kurulunca aksi kararlaştırılmadıkça, proje koordinatörlüğü altında ve onun eşgüdümünde yürütülür.
+(3) Merkez birimleri ve proje gruplarının kuruluş ve çalışmaları Yönetim Kurulunca belirlenen esaslar uyarınca yürütülür.
