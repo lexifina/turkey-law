@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-08-12",
+      "12.08.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28733",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-08-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Aydın Üniversitesi",
+  "issuer_slug": "istanbul-aydin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-aydin-universitesi/2013/18717",
+  "published": "2013-08-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18717&MevzuatTertip=5",
+  "source_bytes": 14938,
+  "source_id": "8.5.18717",
+  "source_sha256": "0b5cb4ececd0fc278d199f899c4a84f4e85f519ca1cec877ba64a508a25a6940",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL AYDIN ÜNİVERSİTESİ TEVEKKÜL KARMAN GLOBAL BARIŞ VE DEMOKRASİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 308,
+  "word_count": 637
+}
