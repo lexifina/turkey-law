@@ -30,3 +30,5 @@ TEBLİĞ 23/12/2011 tarihli ve 28151 sayılı R.G | 11 | 1/1/2012
 TEBLİĞ 19/12/2012 tarihli ve 28502 sayılı R.G | 11 | 1/1/2013
 6338 | 14 | 1/1/2013
 6408 | 3, Geçici Madde 9, Geçici Madde 14 | 1/1/2013 tarihinden geçerli olmak üzere 31/1/2013
+7858-2
+Anayasa Mah.’nin 27/9/2012 tarihli ve E.: 2012/6, K.: 2012/131 sayılı Kararı | Geçici Madde 14/f bendi | 13/2/2013 tarihinden altı ay sonra (13/8/2013)

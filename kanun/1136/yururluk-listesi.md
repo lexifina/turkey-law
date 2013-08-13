@@ -29,5 +29,6 @@ Değiştiren Kanunun/ KHK’nin Numarası | 1136 sayılı Kanunun değişen veya
 6111 | 27 | 25/2/2011
 6460 | 43 | 30/4/2013
 6325 | 12 | 22/6/2013
+Anayasa Mahkemesi’nin 28/2/2013 tarihli ve E.: 2012/116, K.: 2013/32 sayılı Kararı | 5 | 13/8/2013
 ––––––––––––––
 (1) 28/11/2006 tarihli ve 5558 sayılı Kanunun yürürlüğünü düzenleyen 2 nci maddesi, Anayasa Mahkemesi’nin 15/10/2009 tarihli ve E.: 2007/16, K.: 2009/147 sayılı Kararı ile iptal edilmiştir.
