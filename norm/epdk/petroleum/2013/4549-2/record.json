@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "4549/2",
+  "decision_date": "2013-08-13",
+  "title": "Çekisan Çekmece Terminali Yakuplu Mahallesi Genç Osman Caddesi No:3 Beylikdüzü/İstanbul adresinde faaliyette bulunan Çekmece Akaryakıt Terminaline ilişkin depolama tarifesine ilişkin",
+  "resmi_gazete_date": "2013-08-28",
+  "resmi_gazete_number": "28749",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U6nrTu62IWc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U6nrTu62IWc="
+  ],
+  "source_sha256": "07144e6217748dba02e4554ba1759f302465c3c1e2ef163546389ea22dd4f238",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-08-13",
+  "law_text_complete": false
+}
