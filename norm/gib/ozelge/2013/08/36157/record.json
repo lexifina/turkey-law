@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-140[123-2012-14]-483",
+  "source_id": 36157,
+  "date": "2013-08-13",
+  "title": "Organize Sanayi Bölgesi ile EPDK lisanslı şirket arasında tapuda yapılan alım-satım işleminden tapu harcı aranılıp aranılmayacağı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36157",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "df9727678a6f7b166ad1c709b1ede8fe2bc76a81004e9a62e08f90ad833db3df",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
