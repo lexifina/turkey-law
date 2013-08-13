@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-140[58-2012-17]-484",
+  "source_id": 35768,
+  "date": "2013-08-13",
+  "title": "Terekeye dahil taşınmazın veraseten iştirak işleminin bozularak veraset ilamındaki paylara göre tescilinde ne şekilde tapu harcı alınacağı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35768",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "da4d5034592c8d1003e06a9464d5dc17671d3c44fdb4a876336170f608931942",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
