@@ -185,7 +185,7 @@ Yukarıki fıkrada yazılı işlere ait kanuni süreler, dosyaların devir ve te
 Kendisine görev verilen avukat haklı sebepler göstererek bunu reddedebilir. Ret sebeplerinin yerinde olup olmadığına baro yönetim kurulu karar verir.
 Vekalet görevi, temsil edilen avukatın talimatına bağlı olmaksızın, bu görevi yapan avukatın sorumluluğu altında yürür. Yapılan işlerin ücretini, kendisine vekalet olunan avukat öder. Anlaşmazlık halinde ücretin miktarı baro yönetim kurulu tarafından belirtilir.
 Büro edinme zorunluluğu:
-Madde 43 – Her avukat, levhaya yazıldığı tarihten itibaren üç ay içinde baro bölgesinde bir büro kurmak zorundadır. Büronun niteliklerini barolar belirtir. (Ek iki cümle : 30/4/2013 - 6460/3 md.) 23/6/1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanununa göre anagayrimenkulün mesken olarak gösterilen bağımsız bölümlerinde kat maliklerinin izni ve benzeri şartlar aranmaksızın avukatlık büroları faaliyet gösterebilir. Bu konuda, yönetim planındaki aksine hükümler uygulanmaz.
+Madde 43– Her avukat, levhaya yazıldığı tarihten itibaren üç ay içinde baro bölgesinde bir büro kurmak zorundadır. Büronun niteliklerini barolar belirtir. (Ek iki cümle : 30/4/2013 - 6460/3 md.) 23/6/1965 tarihli ve 634 sayılı Kat Mülkiyeti Kanununa göre anagayrimenkulün mesken olarak gösterilen bağımsız bölümlerinde kat maliklerinin izni ve benzeri şartlar aranmaksızın avukatlık büroları faaliyet gösterebilir. Bu konuda, yönetim planındaki aksine hükümler uygulanmaz.
 Bir avukatın birden fazla bürosu olamaz. Birlikte çalışan avukatlar ayrı büro edinemezler. (Ek iki cümle : 2/5/2001 - 4667/29 md.) Avukatlık ortaklığı yurt içinde şube açamaz. Milletvekilleri, milletvekilliği süresince avukatlık yapamazlar.
 Bürosunu veya konutunu değiştiren avukat yenilerinin adreslerini bir hafta içinde baroya bildirmek zorundadır.
 Avukatların birlikte veya avukatlık ortaklığı şeklinde çalışmaları (1)
@@ -211,7 +211,6 @@ Avukatların birlikte çalışmalarından veya avukatlık ortaklığında; ortak
 c) Avukatlık ortaklığı tip ana sözleşmesinde bulunması gereken; ortakların kimlik bilgileri, ortaklığın unvanı ve adresi, ortaklık payları, ortaklar arasındaki ilişkiler, iş ve davalarla ilgili iş bölümü, yönetici ortakların yetkileri, ortaklığın yönetimi ve temsili, ortaklar kurulu, kurulun görev ve yetkileri, gelir ve giderin paylaşılması, denetim, ortaklıktan çıkma, çıkarılma, pay devri, ortaklığın sona ermesi, fesih, infisah ve tasfiye gibi hususların esas, şekil ve şartları Türkiye Barolar Birliği Yönetim Kurulunca hazırlanıp Adalet Bakanlığınca onaylanarak Resmî Gazete’de ilan edilen yönetmelikte düzenlenir.
 Avukat bürosunda çalışabilecek kişiler:
 Madde 45 – (Değişik birinci fıkra : 2/5/2001 - 4667/31 md.) Avukatlar ve avukatlık ortaklıkları, bürolarında yalnız avukatlık mesleği için gerekli olan yardımcı elemanları çalıştırabilirler.
-4524-2
 4525
 Hakimliğe ve avukatlığa engel suçlardan biri ile hükümlü olanlar veya avukatlıktan yasaklananlarla her ne şekilde olursa olsun işbirliği edilemez veya bu gibiler büroda çalıştırılamaz.
 (Değişik : 2/5/2001 - 4667/31 md.) Yukarıdaki hükümlere aykırı hareket eden avukat, ilk defasında işten, tekrarında meslekten çıkarma; avukatlık ortaklığı ilk defasında işten çıkarma, tekrarında ise avukatlık ortaklığı sicilinden silinme cezası ile cezalandırılır.
@@ -363,9 +362,9 @@ Madde 76 – (Değişik birinci fıkra: 2/5/2001 - 4667/46 md.) Barolar; avukatl
 (Değişik : 2/5/2001 - 4667/46 md.) Protokolde barolar, İl Cumhuriyet Başsavcısının yanında yer alır.
 Baronun kurulması, organlarının görevden uzaklaştırılması ve görevlerine son verilmesi:(1)
 Madde 77 – (Değişik birinci fıkra : 2/5/2001 - 4667/47 md.) Bölgesi içinde en az otuz avukat bulunan her il merkezinde bir baro kurulur. Kurulmuş olan barolarda avukat sayısının otuzun altına düşmesi halinde de ikinci fıkra hükmü uygulanır.
-(Değişik birinci fıkra : 2/5/2001 - 4667/47 md.) Baro kurulmayan yerlerin en yakın baroya bağlanmasına veya bunların birleştirilerek bir baro kurulmasına ve merkezlerinin belirlenmesine Türkiye Barolar Birliği karar verir. Türkiye Barolar Birliği yeni kurulacak baro bölgesinde bürosu bulunan levhaya kayıtlı avukatların listesini düzenleyerek bunlardan en kıdemli avukatı, yeni baroyu kurmakla görevlendirir. Görevli avukatın seçeceği ve başkanlığını yapacağı dört kişilik kurucu kurul en geç altı ay içinde yeni baronun kuruluşunu tamamlar ve Türkiye Barolar Birliğine bildirir. Baro yönetim kurulunun yedekleri ile birlikte istifa etmesi halinde baroyu üç ay içinde seçime götürmek kaydıyla aynı kurul oluşturulur.
-(Değişik birinci fıkra : 2/5/2001 - 4667/47 md.) Barolar, kuruluşlarını Türkiye Barolar Birliğine bildirmekle tüzel kişilik kazanırlar.
-(Değişik birinci fıkra : 2/5/2001 - 4667/47 md.) Türkiye Barolar Birliği, kuruluşu Adalet Bakanlığına bildirir.
+(Değişik ikinci fıkra : 2/5/2001 - 4667/47 md.) Baro kurulmayan yerlerin en yakın baroya bağlanmasına veya bunların birleştirilerek bir baro kurulmasına ve merkezlerinin belirlenmesine Türkiye Barolar Birliği karar verir. Türkiye Barolar Birliği yeni kurulacak baro bölgesinde bürosu bulunan levhaya kayıtlı avukatların listesini düzenleyerek bunlardan en kıdemli avukatı, yeni baroyu kurmakla görevlendirir. Görevli avukatın seçeceği ve başkanlığını yapacağı dört kişilik kurucu kurul en geç altı ay içinde yeni baronun kuruluşunu tamamlar ve Türkiye Barolar Birliğine bildirir. Baro yönetim kurulunun yedekleri ile birlikte istifa etmesi halinde baroyu üç ay içinde seçime götürmek kaydıyla aynı kurul oluşturulur.
+(Değişik üçüncü fıkra : 2/5/2001 - 4667/47 md.) Barolar, kuruluşlarını Türkiye Barolar Birliğine bildirmekle tüzel kişilik kazanırlar.
+(Değişik dördüncü fıkra : 2/5/2001 - 4667/47 md.) Türkiye Barolar Birliği, kuruluşu Adalet Bakanlığına bildirir.
 (Değişik: 18/6/1997 - 4276/4 md.) Amaçları dışında faaliyet gösteren barolar ile Türkiye Barolar Birliği sorumlu organlarının görevlerine son verilmesine ve yerlerine yenilerinin seçilmesine, Adalet Bakanlığının veya bulundukları yer Cumhuriyet Başsavcılığının istemi üzerine, o yerdeki asliye hukuk mahkemesince basit usule göre yargılama yapılarak karar verilir ve dava en geç üç ay içinde sonuçlandırılır.
 ——————————
 (1) Bu hükmün uygulanmasında ek 4 üncü maddeye bakınız.
@@ -407,6 +406,7 @@ Madde 81 – Genel Kurulun görevleri şunlardır :
 7. Mesleke ait istekleri görüşüp karara bağlamak,
 8. Avukat bürolarının niteliklerini belirtmek,
 9. Kanunlarla verilen diğer yetkileri kullanmak.
+(1) Bu hükmün uygulanmasında ek 3 üncü maddeye bakınız.
 Olağan toplantı:
 Madde 82 – (Değişik: 22/1/1986 - 3256/12 md.)
 Genel kurul iki yılda bir Ekim ayının ilk haftası içinde baro başkanının daveti üzerine gündemindeki maddeleri görüşmek üzere toplanır.
@@ -497,7 +497,6 @@ Görevleri:
 Madde 97 – Baro başkanının görevleri şunlardır:
 1. Baroyu temsil ve yönetim kuruluna başkanlık etmek,
 2. Genel kurul, yönetim kurulu ve disiplin kurulu kararlarını yerine getirmek ve günlük işlemleri yürütmek,
-4536-2
 4537
 3. 95 inci madde gereğince verilen izin ve yetki dairesinde baro adına iltizam ve iktisapta bulunmak, yüklenmelere girişmek, baroya yapılan bağışları kabul etmek ve bütçeyi uygulamak,
 4. Mahkeme ve resmi dairelerde baroyu temsil edecek ve savunacak avukatları tayin etmek,
@@ -993,7 +992,6 @@ Topluluk sigortasına giremiyenler:
 Madde 188 – (Mülga: 31/5/2006-5510/106 md.)
 –––––––––––––––––
 (1) Bu madde başlığı “Yıllık çalışma raporu” iken, 2/5/2001 tarih ve 4667 sayılı Kanunun 89 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
-4556-2
 4557
 Madde 189 – (Mülga: 26/2/1970 - 1238/6 md.)
 Prim borcunu ödememenin sonuçları:
@@ -1078,7 +1076,7 @@ Kesenek ve kurum hissesi, ilgilinin T. C. Emekli Sandığına kesenek ödediği 
 (B) bendi uyarınca T. C. Emekli Sandığı ile ilgileri devam edenlerin emekliliğe esas sürelerinin 30 yılı doldurduğu, sandıkla ilgilerinin kesilmesini yazılı olarak istedikleri, öldükleri yahut T.C. Emekli Sandığı Kanununa göre malûl duruma girdikleri veya borçlanma hükümlerinde gösterildiği şekilde sandık tarafından verilen bir aylık süre içinde ödememekte temerrüt ettikleri takdirde bu durumların husule geldiği tarihi takibeden aybaşından itibaren sandıkla ilgileri kesilir ve toplam süreleri üzerinden kendilerine yahut hak sahibi mirasçılarına 5434 sayılı Kanun uyarınca emekli, malullük dul veya yetim aylığı bağlanır. Bu kimselere ödenecek ikramiye hakkında borçlanma ile ilgili hükümler kıyasen uygulanır.
 Geçici 3, 4 ve 5 inci maddeler uyarınca borçlandıkları süre ile birlikte emekliliğe esas hizmetleri tutarı 15 yıl veya daha fazla olanlar da bu maddenin (B) bendi hükmünden faydalanabilirler.
 (Ek fıkralar: 26/2/1970 - 1238/3 md.):
-Bu madde hükümlerinden faydalananların, (A) bendi uyarınca boçlandıkları veya (B) bendi uyarınca T. C. Emekli Sandığı ile ilgilerini devam ettirdikleri sürelerin tamamı, emekliliğe tabi görevden son defa ayrıldıkları maaş veya öde-
+Bu madde hükümlerinden faydalananların, (A) bendi uyarınca borçlandıkları veya (B) bendi uyarınca T. C. Emekli Sandığı ile ilgilerini devam ettirdikleri sürelerin tamamı, emekliliğe tabi görevden son defa ayrıldıkları maaş veya öde-
 4563
 nekteki kıdemlerine eklenmek suretiyle bu görev veya hizmetin en az yükselme süresine göre iki veya üç yılda bir terfi etmiş veya ediyormuşçasına intıbakları yapılır.
 Bu maddenin 9 uncu fıkrasında T.C. Emekli Sandığına başvurma için konulmuş bir aylık süreyi geçirmiş olanlar, 1 Ocak 1971 tarihine kadar başvurmaları şartı ile bu madde hükümlerinden faydalanabilirler.
@@ -1105,13 +1103,13 @@ Geçici Madde 13 – 3499 sayılı Kanunun yürürlüğe girdiği tarihte dava, 
 (Değişik: 2/5/2001 - 4667/96 md.) Dava vekillerinin, mesleklerini icra edebilmeleri için, o yerin bağlı olduğu baroca tutulan bir listeye yazılmaları şarttır. Listeye yazılmak için yapılan başvuru üzerine barolar, istemin kabul veya reddine dair kararlarını bir ay içinde vermek zorundadır. Bu süre içinde karar verilmez yahut ret kararı verilir ise ilgili şahıs; karar verilmemiş ise bir aylık sürenin sonunda, istem reddedilmiş ise ret kararının tebliği tarihinden itibaren onbeş gün içinde Türkiye Barolar Birliği Yönetim Kuruluna itiraz edebilir. Türkiye Barolar Birliğinin itiraz üzerine verdiği kararlar Adalet Bakanlığına ulaştığı tarihten itibaren iki ay içinde Bakanlıkça karar verilmediği veya karar onaylandığı takdirde kesinleşir. Ancak Adalet Bakanlığı uygun bulmadığı kararları bir daha görüşülmek üzere, gösterdiği gerekçesiyle birlikte Türkiye Barolar Birliğine geri gönderir. Geri gönderilen bu kararlar Türkiye Barolar Birliği Yönetim Kurulunca üçte iki çoğunlukla aynen kabul edildiği takdirde onaylanmış, aksi halde onaylanmamış sayılır; sonuç Türkiye Barolar Birliği tarafından Adalet Bakanlığına bildirilir. 8 inci maddenin altıncı ve yedinci fıkraları hükümleri burada da kıyasen uygulanır.
 4565
 Listeye yazılma, bu Kanunun davavekillerine tanıdığı hak ve yetkilerden faydalanmak ve yükümlere tabi olmak bakımından, baro levhasına yazılmanın sonuçlarını doğurur.
-Listenin barolarca nasıl düzenleneceği, listeye yazılmak için yapılacak baş vurma hakkındaki işlemler listenin mahkemelere, Cumhuriyet savcılıklarına, icra ve iflas dairelerine ve diğer resmi mercilere bildirilme tarzı ve listeden kaydın silinmesi şekli bu Kanunun 182 inci maddesinde yazılı yönetmelikte gösterilir.
+Listenin barolarca nasıl düzenleneceği, listeye yazılmak için yapılacak başvurma hakkındaki işlemler listenin mahkemelere, Cumhuriyet savcılıklarına, icra ve iflas dairelerine ve diğer resmi mercilere bildirilme tarzı ve listeden kaydın silinmesi şekli bu Kanunun 182 inci maddesinde yazılı yönetmelikte gösterilir.
 Geçici Madde 14 – 3499 sayılı Kanunla ek ve değişikliklerine göre kurulmuş olan barolar, bu Kanun hükümlerine göre görevlerine devam ederler.
 Geçici Madde 15 – 168 inci madde uyarınca hazırlanacak asgari ücret tarifesi, bu Kanunun yürürlüğe girdiği tarihten itibaren altı ay içinde yapılır ve yeni tarife yürürlüğe girinceye kadar eski tarife uygulanır.
 Geçici Madde 16 – Türkiye Barolar Birliği Disiplin Kurulu görevine başlayıncaya kadar, avukatlık haysiyet divanındaki dosyalar, bu kurula devredilmek üzere Ankara Baro Başkanlığınca teslim alınır.
 Geçici Madde 17 – Yargı mercileri, Cumhuriyet savcılıkları, icra memurlukları nezdinde başkatiplik, zabıt katipliği, zabıt katibi muavinliği yahut icra memurluğu veya yardımcılığı görevlerinden birini en az on yıl süre ile yapmış olan kimseler, bu Kanunun 3 üncü maddesi uyarınca Avukatlık meslekine kabul için aranılan tahsil, staj (…)(1)dışındaki şartları haiz olurlar ve 5 inci maddede yazılı engeller kendilerinde bulunmazsa, en az üç avukat veya davavekili olmıyan bir yerde, o yerin bağlı olduğu baroca tutulan listeye yazılmak şartiyle, munha sıran o yerin hukuk mahkemeleri ve icra ve iflas dairelerinde dava ve iş takib edebilirler.
 Bu kimseler, munhasıran vekalet görevini yapabilecekleri yerde, listeye yazılma tarihinden itibaren üç ay içinde bir büro açmak zorundadırlar. Bu zorunluluğa uymıyanların adları listeden silinir.
-Bu Kanunun yürürlüğe girdiği tarihten önce, 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun 61 inci maddesinin son fıkrası gereğince vekalet görevini yapanlar, geçmiş adalet hizmetine ait şarta bakılmaksızın, birinci fıkrada, yazılı diğer şartlara sahip oldukları takdirde, o yerin bağlı bulunduğu baroca tutulan listeye yazılmak suretiyle, munhasıran o yerdeki hukuk mahkemeleri ve icra ve iflas dairelerinde vekalet görevini yapmaya devam ederler. Ancak, listeden herhangibir suretle adları silinenler, birinci fıkrada yazılı şartların tamamına sahip olmadıkça bir daha listeye yazılamazlar. Bu kimseler, bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içinde listeye yazılmak için baş vurmak ve yazılma tarihinden itibaren üç ay içinde bir büro açmak zorundadırlar. Aksi halde listeye yazılmazlar; listeye yazılmışlarsa adları listeden silinir.
+Bu Kanunun yürürlüğe girdiği tarihten önce, 1086 sayılı Hukuk Usulü Muhakemeleri Kanununun 61 inci maddesinin son fıkrası gereğince vekalet görevini yapanlar, geçmiş adalet hizmetine ait şarta bakılmaksızın, birinci fıkrada, yazılı diğer şartlara sahip oldukları takdirde, o yerin bağlı bulunduğu baroca tutulan listeye yazılmak suretiyle, munhasıran o yerdeki hukuk mahkemeleri ve icra ve iflas dairelerinde vekalet görevini yapmaya devam ederler. Ancak, listeden herhangibir suretle adları silinenler, birinci fıkrada yazılı şartların tamamına sahip olmadıkça bir daha listeye yazılamazlar. Bu kimseler, bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içinde listeye yazılmak için başvurmak ve yazılma tarihinden itibaren üç ay içinde bir büro açmak zorundadırlar. Aksi halde listeye yazılmazlar; listeye yazılmışlarsa adları listeden silinir.
 (Değişik: 26/2/1970 - 1238/4 md.) Yukarıdaki fıkralar uyarınca vekalet görevini yapmak hakkı o yer avukat veya dava vekilleri sayısının üçü bulması halinde kendiliğinden sona erer. Sona erme tarihinden itibaren üç ay içinde, ilgili şansın aynı baro bölgesi içinde üç avukat veya dava vekili bulunmayan başka bir yere naklederek büro açması halinde, listedeki kaydı, nakledilen yer işaret edilmek suretiyle devam eder. İlgili üç aylık süre içinde başka bir baroya başvurduğu takdirde, dosyası getirilmek suretiyle başvurduğu baronun listesine kaydı yapılıp ayrıldığı baronun listesinden de adı silinerek vekalet görevine devam eder. Üç aylık süre içinde aynı baro bölgesindeki başka bir yere nakil yapılarak büro açılmaması veya bu süre dolmadan başka bir baroya nakil için başvurulmaması halinde ilgilinin adı listeden silinir.
 Geçici 13 üncü maddenin listeye yazılma için yapılacak baş vurma ile ilgili ikinci fıkrası hükmü bu kimseler hakkında da kıyasen uygulanır.
 –––––––––––––––––––
