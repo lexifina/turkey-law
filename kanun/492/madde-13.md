@@ -58,10 +58,10 @@ ___________________
 (1) 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, bu maddede geçen “ilgili kâğıt ve belgelere harç pulu yapıştırılmak suretiyle" ibaresi, "makbuz karşılığında" olarak değiştirilmiş ve metne işlenmiştir.
 3907
 Harç peşin veya süresinde ödenmemiş ise, mütaakıp muamelelere ancak harç ödendikten sonra devam olunur.
-Nispi harclarda ödeme zamanı:
+Nispi harclarda ödeme zamanı: (1)
 Madde 28 – (1) sayılı tarifede yazılı nispi harçlar aşağıdaki zamanlarda ödenir.:
 a) (Değişik: 23/7/2010-6009/18 md.) Karar ve ilam harcı,
-Karar ve ilam harçlarının dörtte biri peşin, geri kalanı kararın verilmesinden itibaren iki ay içinde ödenir. Şu kadar ki, ölüm ve cismani zarar sebebiyle açılan maddi ve manevi tazminat davalarında peşin alınan harcın oranı yirmide bir olarak uygulanır. Bakiye karar ve ilam harcının ödenmemiş olması, hükmün tebliğe çıkarılmasına, takibe konulmasına ve kanun yollarına başvurulmasına engel teşkil etmez.
+Karar ve ilam harçlarının dörtte biri peşin, geri kalanı kararın verilmesinden itibaren iki ay içinde ödenir. Şu kadar ki, ölüm ve cismani zarar sebebiyle açılan maddi ve manevi tazminat davalarında peşin alınan harcın oranı yirmide bir olarak uygulanır. Bakiye karar ve ilam harcının ödenmemiş olması, hükmün tebliğe çıkarılmasına, takibe konulmasına ve kanun yollarına başvurulmasına engel teşkil etmez. (1)
 b) İcra Tahsil Harcı,
 İcra takiplerinde Tahsil Harcı alacağın ödenmesi sırasında, ödeme yapılmayan hallerde harç alacağının doğması tarihinden itibaren 15 gün içinde ödenir.
 Harç alacağı icranın yerine getirilmesiyle doğar.
@@ -76,13 +76,15 @@ Noksan tesbit edilen değer üzerinden harcın ödenmesi:
 Madde 30 – Muhakeme sırasında tesbit olunan değerin, dava dilekçesinde bildirilen değerden fazla olduğu anlaşılırsa, yalnız o celse için muhakemeye devam olunur, takip eden celseye kadar noksan değer üzerinden peşin karar ve ilam harcı tamamlanmadıkça davaya devam olunmaz. Hukuk Usulü Muhakemeleri Kanununun 409 uncu maddesinde gösterilen süre içinde dosyanın muameleye konulması, noksan olan harcın ödenmesine bağlıdır.
 Peşin alınan karar ve ilam harclarının geri verilmesi:
 Madde 31 – Peşin alınan Karar ve İlam Harcı işin hitamında ödenmesi gerekenden fazla olduğu anlaşılırsa fazlalık istek üzerine geri verilir.
+––––––––––––––––
+(1) Bu maddenin birinci fıkrasının (a) bendinin birinci cümlesinde yer alan “…kararın verilmesinden itibaren…” ibaresi, Anayasa Mahkemesi’nin 18/10/2012 tarihli ve E.: 2012/70, K.: 2012/157 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 13/2/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
+3908
 BEŞİNCİ BÖLÜM
 Çeşitli Hükümler
 Harcı ödenmiyen işlemler:
 Madde 32 – Yargı işlemlerinden alınacak harclar ödenmedikçe mütaakıp işlemler yapılmaz. Ancak ilgilisi tarafından ödenmiyen harcları diğer taraf öderse işleme devam olunmakla beraber bu para muhakeme neticesinde ayrıca bir isteğe hacet kalmaksızın hükümde nazara alınır.
 İşçi alacaklarının takibi:
 Madde 33 – İş mahkemeleri tarafından işçiler lehine hükme bağlanmış olan hak ve alacakların takibinde işçilerden hiç bir harç alınmadan gerekli işlem yapılır. Bu harclar işçi haklı çıktığı takdirde takip sonunda hesap edilerek ayrıca bir hükme hacet kalmadan borçludan tahsil olunur.
-3908
 Yol giderleri ve tazminatı :
 Madde 34 – (Mülga : 8/5/1991 - 3717/3 md.)
 İstinabe yoliyle icra takiplerinde giderler:
@@ -534,9 +536,9 @@ Madde 135 – Harçlar sayfa üzerine hesap edildiği hallerde 20 satır bir say
 Madde 136 – (Mülga: 22/7/1998 - 4369/82 md.)
 Madde 137 – (Mülga: 30/12/2004-5281/44 md.)
 Madde 138 – Bu kanunda takdir olunacak değer üzerinden harç ödenmesi lazım gelen hallerde bu değer Vergi Usul Kanununda yazılı takdir komisyonlarınca tesbit olunur.
-Mükerrer Madde 138– (Ek: 4/12/1985 - 3239/95 md.; Değişik: 15/12/1990 - 3689/11 md.)
+Mükerrer Madde 138–(Ek: 4/12/1985 - 3239/95 md.; Değişik: 15/12/1990 - 3689/11 md.)
 Bu Kanuna bağlı tarifelerde yer alan maktu harçlar (Maktu ve nispi harçların asgari ve azami miktarlarını belirleyen hadler dahil), bu maddenin yürürlüğe girdiği tarihe kadar Bakanlar Kurulunca belirlenen miktarlar ile bu miktarların Vergi Usul Kanunu uyarınca l990 yılı için tespit ve ilan olunan yeniden değerleme oranı ile çarpılmak suretiyle bulunacak tutarların toplamı kadar artırılmıştır.
-Her takvim yılı başından geçerli olmak üzere önceki yılda uygulanan maktu harçlar (Maktu ve nispi harçların asgari ve azami miktarlarını belirleyen hadler dahil), o yıl için tespit ve ilan olunan yeniden değerleme oranında artırılır.(Ek cümle:25/12/2003-5035/32 md.; Mülga: 30/12/2004-5281/44 md.)
+Her takvim yılı başından geçerli olmak üzere önceki yılda uygulanan maktu harçlar (Maktu ve nispi harçların asgari ve azami miktarlarını belirleyen hadler dahil), o yıl için tespit ve ilan olunan yeniden değerleme oranında artırılır.(Ek cümle:25/12/2003-5035/32 md.; Mülga: 30/12/2004-5281/44 md.) (5)
 Bu suretle hesaplanan harç tutarlarının 10 Yeni Kuruşa kadarki kesirleri nazara alınmaz.(1)
 (Ek: 4/5/1994 - 3986/12 md.) Bu Kanuna bağlı tarifelerdeki 1.1.1994 tarihi itibariyle geçerli olan maktu harçlar (maktu ve nispi harçların asgari ve azami miktarlarını belirleyen hadler dahil) % 100, nispi harçlar % 20 oranında artırılmıştır. Yıllık harç kapsamında bulunan belgelere ait 1994 yılı kıst dönemine ait harçlar tahsil edilmez. (Değişik ibare: 27/1/2000 - 4503/4 md.) Bakanlar Kurulu, bu Kanuna bağlı tarifelerde yer alan maktu harçları veya bu harçların yeniden değerleme oranı uygulamak suretiyle belirlenmiş olan tutarları (maktu ve nispi harçların asgari ve azami miktarlarını belirleyen hadler dahil) ile nispi harçları, tarifeler yahut tarifelerin ilgili fıkra ve bentleri itibariyle birlikte veya ayrı ayrı olmak üzere; maktu harçlarda yirmi katına, nispi haçlarda ise bir katına kadar artırmaya, uygulanmakta maktu harçları yarısına, nispi harçları ise Kanunla belirlenen oranların onda birine kadar indirmeye, bu had ve miktarlar arasında yeni had, miktar ve nispetler tespit etmeye yetkilidir. (3) (4)
 ——————————
@@ -544,6 +546,7 @@ Bu suretle hesaplanan harç tutarlarının 10 Yeni Kuruşa kadarki kesirleri naz
 (2) 7/7/2011 tarihli ve 646 sayılı KHK’nin 5 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “Maliye müfettişleri, maliye müfettişi muavinleri ve gelirler kontrolörleri” ibaresi “Vergi Müfettişleri ve Vergi Müfettiş Yardımcıları” şeklinde değiştirilmiş ve metne işlenmiştir.
 (3) Bu fıkrada yer alan “Bakanlar Kurulu, bu Kanuna bağlı tarifelerde yer alan maktu harçları” ibaresi; 27/1/2000 tarih ve 4503 sayılı Kanun ile metne işlendiği şekilde değiştirilmiş ayrıca "on katına" ibaresi anılan Kanun ile “yirmi katına” olarak değiştirilmiştir.
 (4) 18/2/2009 tarihli ve 5838 sayılı Kanunun 32 nci maddesiyle; bu fıkrada yer alan “maktu harçları yarısına kadar, nispi harçları ise bu fıkra ile artırılmadan önceki seviyelerine indirmeye,” ibaresi “maktu harçları yarısına, nispi harçları ise Kanunla belirlenen oranların onda birine kadar indirmeye,” şeklinde değiştirilmiş ve metne işlenmiştir.
+(5) Bu maddede yer alan maktu ve nispi harç miktarlarının 1/1/2013 tarihinden itibaren uygulanması ile ilgili olarak 1/1/2013 tarihli ve 28515 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığı’nın 69 Seri Numaralı Tebliğine bakınız.
 3924
 Ek Madde 1- (Ek:25/12/2003 - 5035/33 md.)
 Döviz kazandırıcı faaliyetlere ilişkin işlemler harçlardan müstesnadır.
@@ -645,748 +648,1000 @@ Yargı harçları :
 Hukuk, ceza ve ticaret davalarıyla, idari davalarda ihtilafsız yargı konularında, Anayasa Mahkemesine bireysel başvurularda ve icra tetkik mercilerinde (3)
 I – Başvurma harcı :
 Dilekçe veya tutanakla dava açma veya davaya müdahale veya tevdi mahallinin tayini, ihtiyati tedbir, ihtiyati haciz, tespiti delail ile ilgili taleplerde,
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-1. Sulh mahkemelerinde,icra tetkik mercilerinde | (9,85 TL.) | 29.400 TL.
-2. Asliye mahkemelerinde, idare mahkemelerinde | (21,15 TL.) | 60.000 TL.
-3. (Değişik:25/12/2003-5035/34 md.) Bölge Adliye Mahkemeleri, Bölge İdare Mahkemeleri, Yargıtay, Danıştay ve Askeri Yüksek İdare Mahkemesinde (4) (Mahkemenin yetkisizlik veya görevsizlik kararı vermesi sebebiyle yetkili veya görevli mahkemeye yeniden başvurması halinde bu harç alınmaz.) | (32,40 TL.) | (15.300.000 TL.)
-4. (Ek: 30/3/2011-6216/75 md.) Anayasa Mahkemesinde | (172,50 T.L) | 150,00 TL
-II – Celse harcı : |  | 
-(Taraflar veya vekilleri tarafından ertelenmelerine sebebiyet verilen celselerden.) 1. Sulh mahkemeleri : a) Konusu belli bir değerle ilgili davalarda dava konusu miktardan (35.600 (12,15 TL.) liradan aşağı olmamak üzere), | (Binde 1,98) | Binde 1,2
-b) Belli bir değer bulunmayan davalarda | (12,15 TL.) | 35.600 TL.
-2. Asliye mahkemelerinde, idari yargı mercile- rinde (60.000 (21,15 TL.) liradan az olmamak üzere) | (Binde 1,98) | Binde 1,2
-III – Karar ve ilam harcı : 1. Nispi harç : a) Konusu belli bir değerle ilgili bulunan davalarda esas hakkında karar verilmesi halinde hüküm altına alınan anlaşmazlık konusu değer üzerinden | (Binde 59,4) | Binde 36
-(Ek hüküm: 4/12/1985 - 3239/96-A md.) Bakanlar Kurulu dava çeşitleri itibariyle birlikte veya ayrı ayrı olmak üzere bu bente yazılı nispeti binde 10’a kadar indirmeye veya Kanunda yazılı nispete kadar çıkarmaya yetkilidir. |  | 
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+1. Sulh mahkemelerinde,icra tetkik mercilerinde (11,30 TL.) 29.400 TL.
+2. Asliye mahkemelerinde, idare mahkemelerinde (24,30 TL.) 60.000 TL.
+3. (Değişik:25/12/2003-5035/34 md.) Bölge Adliye Mahkemeleri,
+Bölge İdare Mahkemeleri, Yargıtay, Danıştay ve Askeri
+Yüksek İdare Mahkemesinde (4) (37,25 TL.) (15.300.000 TL.)
+(Mahkemenin yetkisizlik veya görevsizlik kararı vermesi sebebiyle yetkili veya görevli mahkemeye yeniden başvurması halinde bu harç alınmaz.)
+4. (Ek: 30/3/2011-6216/75 md.) Anayasa Mahkemesinde (198,35 T.L) 150,00 TL
+II – Celse harcı :
+(Taraflar veya vekilleri tarafından ertelenmeleri-
+ne sebebiyet verilen celselerden.)
+1. Sulh mahkemeleri :
+a) Konusu belli bir değerle ilgili davalarda dava konusu miktardan (35.600 (13,95 TL.) liradan aşağı
+olmamak üzere), (Binde 2,27) Binde 1,2
+b) Belli bir değer bulunmayan davalarda (13,95 TL.) 35.600 TL.
+2. Asliye mahkemelerinde, idari yargı mercile-
+rinde (60.000 (24,30 TL.) liradan az olmamak üzere) (Binde 2,27) Binde 1,2
+III – Karar ve ilam harcı :
+1. Nispi harç :
+a) Konusu belli bir değerle ilgili bulunan davalarda esas hakkında karar verilmesi halinde hüküm
+altına alınan anlaşmazlık konusu değer üzerinden (Binde 68,31) Binde 36
+(Ek hüküm: 4/12/1985 - 3239/96-A md.) Bakanlar Kurulu dava çeşitleri itibariyle birlikte veya ayrı ayrı olmak üzere bu bente yazılı nispeti binde 10’a kadar indirmeye veya Kanunda yazılı nispete kadar çıkarmaya yetkilidir.
 ——————————
-(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilen miktarlar aynen bırakılmış olup, 31/12/2011 tarihli ve 28159 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 65 Seri No.’lu Tebliği ile 1/1/2012 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
+(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilen miktarlar aynen bırakılmış olup, 1/1/2013 tarihli ve 28515 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 69 Seri No.’lu Tebliği ile 1/1/2013 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
 (2) 30/3/2011 tarihli ve 6216 sayılı Kanunun 75 inci maddesiyle, bu bölümün birinci cümlesinde yer alan “yargı konularında” ibaresinden sonra gelmek üzere “, Anayasa Mahkemesine bireysel başvurularda” ibaresi eklenmiş ve metne işlenmiştir.
 (3) 31/3/2011 tarihli ve 6217 sayılı Kanunun 13 üncü maddesiyle, bu başlıkta yer alan “Hukuk” ibaresinden sonra gelmek üzere “, ceza” ibaresi eklenmiş ve metne işlenmiştir.
 (4) Bu alt bentde yer alan “Bölge Adliye Mahkemeleri” ibaresi, 26/9/2004 tarihli ve 5235 sayılı Kanunun 52 nci maddesiyle, 1/4/2005 tarihinden geçerli olmak üzere eklenmiş ve metne işlenmiştir.
 3928
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-b) Bir gayrimenkulün hissedarlar arasında satış suretiyle şuyuun izalesine dair olan hükümler (Gayrimenkulün satış bedeli üzerinden) | (Binde 9,9) | Binde 6
-c) Gayrimenkulün hissedarlar arasında taksimine dair olan hükümler (Taksim edilen gayrimenkul değeri üzerinden) | (Binde 3,96) | Binde 2,4
-d) Nafaka verilmesine dair hükümler (Bir senelik nafaka bedeli üzerinden) | (Binde 9,9) | Binde 6
-e) (Değişik:25/12/2003-5035/34 md.) Yukarıdaki nispetler Bölge Adliye Mahkemeleri, Bölge İdare Mahkemeleri, Danıştay, Askeri Yüksek İdare Mahkemesi ve Yargıtayın tasdik veya işin esasını hüküm altına aldığı kararları için de aynen uygulanır.(1) |  | 
-f) (Ek: 21/2/2007-5582/32 md.) Konusu belli bir değerle ilgili bulunan davalarda ve 2499 sayılı Sermaye Piyasası Kanununun 38/A maddesinin birinci fıkrasında tanımlanan konut finansmanından kaynaklanan alacaklar ile Toplu Konut İdaresi Başkanlığının rehinle temin edilmiş alacaklarının takibinde, ihalenin feshi talepleri ile ilgili olarak esas hakkında karar verilmesi halinde hüküm altına alınan anlaşmazlık konusu değer üzerinden | (Binde 59,4) | Binde 54
-Bakanlar Kurulu, dava çeşitleri itibarıyla birlikte veya ayrı ayrı olmak üzere bu alt bentte yazılı nispeti binde 10'a kadar indirmeye veya Kanunda yazılı nispete kadar çıkarmaya yetkilidir. |  | 
-Nispi harçlar 60.000 (21,15 TL) liradan aşağı olamaz. |  | 
-2. Maktu harç : a) 1 inci fıkra dışında kalan davalarla, taraf teşkiline imkan bulunmayan davalarda verilen esas hakkındaki kararlarla, davanın reddi kararı ve icra tetkik mercilerinin 1 inci fıkra dışında kalan kararlarında | (21,15 TL.) | 60.000 TL.
-b) (Değişik:25/12/2003-5035/34 md.) (a) fıkrasında yazılı davalarda esasa taalluk eden veya tashihi karar taleplerinin reddine dair Yargıtay, Danıştay ve Askeri Yüksek İdare Mahkemesi kararlarında | (43,90 TL.) | (20.600.000 TL.)
-c) (Değişik:25/12/2003-5035/34 md.) Bölge Adliye Mahkemeleri, İdare Mahkemeleri, Bölge İdare Mahkemeleri, Yargıtay, Danıştay ve Askeri Yüksek İdare Mahkemesinin icranın tehiri kararlarında (1) | (34,80 TL.) | (16.400.000 TL.)
-d) Tespiti delail, ihtiyati haciz ve ihtiyati tedbir kararlarında | (34,80 TL.) | 97.400 TL.
-IV. Temyiz, istinaf ve itiraz harçları: (Ek: 4/6/2008-5766/11 md.; Değişik: 31/3/2011-6217/13 md. ) (2) (3) |  | 
-a) Yargıtay hukuk dairelerine yapılacak temyiz başvurularında | (103,50 T.L) | 90 TL
-b) (Anayasa Mahkemesi’nin 20/10/2011 tarihli ve E.: 2011/54, K.: 2011/142 sayılı Kararı ile.) (…) |  | (…)
-c) Danıştaya yapılacak temyiz başvurularında | (103,50 T.L) | 90 TL
-d) Yürütmenin durdurulmasına ilişkin itirazlar dahil olmak üzere bölge idare mahkemelerine itirazen yapılacak başvurularda | (57,50 T.L) | 50 TL
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+b) Bir gayrimenkulün hissedarlar arasında satış suretiyle şuyuun izalesine dair olan hükümler (Gayrimenkulün satış bedeli üzerinden) (Binde 11,38) Binde 6
+c) Gayrimenkulün hissedarlar arasında taksimine dair olan hükümler (Taksim edilen gayrimenkul değeri
+üzerinden) (Binde 4,55) Binde 2,4
+d) Nafaka verilmesine dair hükümler (Bir senelik
+nafaka bedeli üzerinden) (Binde 11,38) Binde 6
+e)(Değişik:25/12/2003-5035/34 md.) Yukarıdaki nispetler
+Bölge Adliye Mahkemeleri, Bölge İdare Mahkemeleri, Danıştay,
+Askeri Yüksek İdare Mahkemesi ve Yargıtayın tasdik veya işin
+esasını hüküm altına aldığı kararları için de aynen uygulanır.(1)
+f)(Ek: 21/2/2007-5582/32 md.) Konusu belli bir değerle
+ilgili bulunan davalarda ve 2499 sayılı Sermaye Piyasası Kanununun
+38/A maddesinin birinci fıkrasında tanımlanan konut finansmanından
+kaynaklanan alacaklar ile Toplu Konut İdaresi Başkanlığının rehinle
+temin edilmiş alacaklarının takibinde, ihalenin feshi talepleri ile ilgili
+olarak esas hakkında karar verilmesi halinde hüküm altına alınan
+anlaşmazlık konusu değer üzerinden (Binde 68,31) Binde 54
+Bakanlar Kurulu, dava çeşitleri itibarıyla birlikte veya ayrı ayrı olmak üzere bu alt bentte yazılı nispeti binde 10'a kadar indirmeye veya Kanunda yazılı nispete kadar çıkarmaya yetkilidir.
+Nispi harçlar 60.000 (24,30 TL) liradan aşağı olamaz.
+2. Maktu harç :
+a) 1 inci fıkra dışında kalan davalarla, taraf teşkiline imkan bulunmayan davalarda verilen esas hakkındaki kararlarla, davanın reddi kararı ve icra tetkik mercilerinin 1 inci fıkra dışında kalan kararlarında (24,30 TL.) 60.000 TL.
+b) (Değişik:25/12/2003-5035/34 md.) (a) fıkrasında yazılı
+davalarda esasa taalluk eden veya tashihi karar taleplerinin reddine
+dair Yargıtay, Danıştay ve Askeri Yüksek İdare Mahkemesi
+kararlarında (50,45 TL.) (20.600.000 TL.)
+c) (Değişik:25/12/2003-5035/34 md.) Bölge Adliye
+Mahkemeleri, İdare Mahkemeleri, Bölge İdare Mahkemeleri,
+Yargıtay, Danıştay ve Askeri Yüksek İdare Mahkemesinin
+icranın tehiri kararlarında (1) (40,00 TL.) (16.400.000 TL.)
+d) Tespiti delail, ihtiyati haciz ve ihtiyati tedbir
+kararlarında (40,00 TL.) 97.400 TL.
+IV. Temyiz, istinaf ve itiraz harçları: (Ek: 4/6/2008-5766/11 md.;
+Değişik: 31/3/2011-6217/13 md. ) (2) (3)
+a) Yargıtay hukuk dairelerine yapılacak temyiz başvurularında (119,00 T.L) 90 TL
+b) (Anayasa Mahkemesi’nin 20/10/2011 tarihli ve E.: 2011/54,
+K.: 2011/142 sayılı Kararı ile.) (…) (…)
+c) Danıştaya yapılacak temyiz başvurularında (119,00 T.L) 90 TL
+d) Yürütmenin durdurulmasına ilişkin itirazlar dahil olmak üzere bölge
+idare mahkemelerine itirazen yapılacak başvurularda (66,10 T.L) 50 TL
 ––––––––––––––––––––
 (1) Bu alt bentlerde yer alan “Bölge Adliye Mahkemeleri” ibaresi, 26/9/2004 tarihli ve 5235 sayılı Kanunun 52 nci maddesiyle, 1/4/2005 tarihinden geçerli olmak üzere eklenmiş ve metne işlenmiştir.
 (2) Bu kısmın başlığı “Temyiz ve itiraz harçları: “ iken, 31/3/2011 tarihli ve 6217 sayılı Kanunun 13 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 (3) Bu kısmın (b) fıkrası Anayasa Mahkemesi’nin 20/10/2011 tarihli ve E.: 2011/54, K.: 2011/142 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 29/12/2011 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
 3928-1
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-f) Bölge adliye mahkemeleri ceza dairelerine yapılacak istinaf yolu başvurularında | (23,00 T.L) | 20 TL
-g) İdarî yaptırımlar konusunda sulh ceza mahkemelerince verilen son karara karşı itirazen yapılacak başvurularda | (23,00 T.L) | 20 TL
-h) İcra mahkemelerinin kararlarına karşı itirazen yapılacak başvurularda | (23,00 T.L) | 20 TL
-V. Keşif harcı: (Ek: 23/7/2010-6009/20 md.) | (148,55 TL.) | 120 TL.
-(Mahkemelerce re’sen veya istem üzerine verilen keşif ya da tespit kararlarını yerine getirmek için) |  | 
-B) İcra ve iflas harçları: |  | 
-I – İcra harçları : |  | 
-1. İcraya başvurma harcı | (21,15 TL.) | 60.000 TL.
-2. Değeri belli olmayan icra takiplerinde, icranın yerine getirilmesi harcı | (21,15 TL.) | 60.000 TL.
-3. Değeri belli olan icra takiplerinde tahsil harcı, değer üzerinden : |  | 
-a) Ödeme veya icra emrinin tebliği üzerine hacizden evvel ödenen paralardan | (Yüzde 3,96) | Yüzde 2,4
-b) Hacizden sonra ve satıştan önce ödenen paralardan | (Yüzde 7,92) | Yüzde 4,8
-c) Haczedilen veya rehinli malların satılıp paraya çevrilmesi suretiyle tahsil olunan paralardan | (Yüzde 9,9) | Yüzde 6
-d) Resmi ve özel müesseseler memur ve hizmetlilerinin maaş, ücret, gündelik ve sair hizmet gelirlerinin haczi suretiyle tahsil olunan paralardan | (Yüzde 3,96) | Yüzde 2,4
-e) Takip talebi bulunmayan alacaklılara İcra ve İflas Kanununun 125 inci maddesinin 3 üncü fıkrası gereğince ödenen paralardan | (Yüzde 1,98) | Yüzde 1,2
-f) Gayrimenkullerin ve gemilerin tahliye ve tesliminde: |  | 
-aa) İcra emrinin tebliği üzerine tahliye olunduğu takdirde | (Yüzde 1,98) | Yüzde 1,2
-bb) Tahliye ve teslim icra marifetiyle olduğu takdirde | (Yüzde 3,96) | Yüzde 2,4
-g) (Değişik : 20/3/1981 - 2430/4-B md.) Menkul tesliminde; |  | 
-aa) İcra emrinin tebliği üzerine teslim halinde | (Yüzde 1,98) | Yüzde 1,2
-bb) İcra marifetiyle teslim halinde | (Yüzde 3,96) | Yüzde 2,4
-h) (Ek: 21/2/2007-5582/32 md.) 2499 sayılı Sermaye Piyasası Kanununun 38/A maddesinin birinci fıkrasında tanımlanan konut finansmanından kaynaklanan alacaklar ile Toplu Konut İdaresi Başkanlığının rehinle temin edilmiş alacaklarının takibinde, bu bentte belirtilen tahsil harçları dörtte biri oranında uygulanır. |  | 
+e) Bölge adliye mahkemeleri hukuk dairelerine yapılacak istinaf yolu
+başvurularında (66,10 T.L) 50 TL
+f) Bölge adliye mahkemeleri ceza dairelerine yapılacak istinaf yolu
+başvurularında (26,45 T.L) 20 TL
+g) İdarî yaptırımlar konusunda sulh ceza mahkemelerince verilen son
+karara karşı itirazen yapılacak başvurularda (26,45 T.L) 20 TL
+h) İcra mahkemelerinin kararlarına karşı itirazen yapılacak başvurularda (26,45 T.L) 20 TL
+V. Keşif harcı: (Ek: 23/7/2010-6009/20 md.) (170,80 TL.) 120 TL.
+(Mahkemelerce re’sen veya istem üzerine verilen keşif ya da
+tespit kararlarını yerine getirmek için)
+B) İcra ve iflas harçları:
+I – İcra harçları :
+1. İcraya başvurma harcı (24,30 TL.) 60.000 TL.
+2. Değeri belli olmayan icra takiplerinde, icra-
+nın yerine getirilmesi harcı (24,30 TL.) 60.000 TL.
+3. Değeri belli olan icra takiplerinde tahsil harcı, değer üzerinden :
+a) Ödeme veya icra emrinin tebliği üzerine ha-
+cizden evvel ödenen paralardan (Yüzde 4,55) Yüzde 2,4
+b) Hacizden sonra ve satıştan önce ödenen paralardan (Yüzde 9,10) Yüzde 4,8
+c) Haczedilen veya rehinli malların satılıp paraya
+çevrilmesi suretiyle tahsil olunan paralardan (Yüzde 11,38) Yüzde 6
+d) Resmi ve özel müesseseler memur ve hizmetlilerinin maaş,ücret,gündelik ve sair hizmet gelirlerinin
+haczi suretiyle tahsil olunan paralardan (Yüzde 4,55) Yüzde 2,4
+e) Takip talebi bulunmayan alacaklılara İcra ve İflas Kanununun 125 inci maddesinin 3 üncü fıkrası
+gereğince ödenen paralardan (Yüzde 2,27) Yüzde 1,2
+f) Gayrimenkullerin ve gemilerin tahliye ve tesliminde:
+aa) İcra emrinin tebliği üzerine tahliye olunduğu takdirde (Yüzde 2,27) Yüzde 1,2
+bb) Tahliye ve teslim icra marifetiyle olduğu
+takdirde (Yüzde 4,55) Yüzde 2,4
+g) (Değişik : 20/3/1981 - 2430/4-B md.) Menkul
+tesliminde;
+aa) İcra emrinin tebliği üzerine teslim halinde (Yüzde 2,27) Yüzde 1,2
+bb) İcra marifetiyle teslim halinde (Yüzde 4,55) Yüzde 2,4
+h) (Ek: 21/2/2007-5582/32 md.) 2499 sayılı Sermaye Piyasası Kanununun 38/A maddesinin birinci fıkrasında tanımlanan konut finansmanından kaynaklanan alacaklar ile Toplu Konut İdaresi Başkanlığının rehinle temin edilmiş alacaklarının takibinde, bu bentte belirtilen tahsil harçları dörtte biri oranında uygulanır.
 3929
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-4. İdare harçları : |  | 
-(Haczedilen gayrimenkullerin idaresi, kira mukaveleleri düzenlenmesi ve hesap tutulması için) | (14,70 TL.) | 42.400 TL.
-II – İflas harçları : |  | 
-1. Maktu harç : |  | 
-İflasın açılması veya konkordato isteği ve masaya katılma harcı | (34,80 TL.) | 97.400 TL.
-2. (Değişik : 4/12/1985 - 3239/96-A md.) Konunun değeri üzerinden harç : |  | 
-a) İflasta paylaşılan para üzerinden | (Yüzde 3,96) | Yüzde 2,4
-b) Konkordatoda alacaklılara verilmesi kararlaştırılan para üzerinden | (Binde 9,9) | Binde 6
-III- Haciz, teslim ve satış harcı: (Ek: 23/7/2010-6009/20 md.) |  | 
-(Yukarıdaki (I) ve (II) numaralı fıkralarda yer alan icra ve iflas işlemlerinin daire dışında memur eliyle yerine getirildiği her bir işlem için) | (49,45 TL.) | 40 TL.
-C) Ticaret Sicili harçları : |  | 
-I – Kayıt ve tescil harçları : (Ticari işletme rehni dahil) |  | 
-1. Ticari işletmenin ve ünvanının tescil ve ilanında: |  | 
-a) Gerçek kişilere ve kooperatiflere ait işletmelerde | (156,60 TL.) | 428.600 TL.
-b) Şahıs şirketlerine ait işletmelerde | (448,95 TL.) | 1.225.600 TL.
-c) Sermaye şirketlerine ait işletmelerde | (1.011,50 TL.) | 2.757.400 TL.
-2. Temsile yetkili kılınan kimselerin tescil ve ilanında (Her kişi için): |  | 
-a) Gerçek kişilere ve kooperatiflere ait işletmelerde | (77,70 TL.) | 214.000 TL.
-b) Şahıs şirketlerine ait işletmelerde | (111,30 TL.) | 305.200 TL.
-c) Sermaye şirketlerine ait işletmelerde | (246,20 TL.) | 673.400 TL.
-3. Ticaret siciline tescil edilmiş olan vakalardaki değişikliklerin tescilinde: (Ticari işletme rehni ile ilgili vakalar dahil) (Muhteva ile ilgili bulunmayan düzeltmelerde harç alınmaz.) |  | 
-a) Gerçek kişilere ve kooperatiflere ait işletmelerde | (77,70 TL.) | 214.000 TL.
-b) Şahıs şirketlerine ait işletmelerde | (111,30 TL.) | 
-c) Sermaye şirketlerine ait işletmelerde | (246,20 TL.) | 673.400 TL.
-4. Kayıt silinmesinde: (Ticari işletme rehni kaydının silinmesi dahil) |  | 
-a) Gerçek kişilere ve kooperatiflere ait işletmelerde | (30,35 TL.) | 84.800 TL.
-b) Şahıs şirketlerine ait işletmelerde | (43,90 TL.) | 121.600 TL.
-c) Sermaye şirketlerine ait işletmelerde | (77,70 TL.) | 214.000 TL.
-Şubelerin her biri (Yabancı müesseselerin Türkiye’deki şubeleri dahil) ayrıca aynı harca tabidir. |  | 
-II – Kayıt ve belge suretleri ve tasdikname harçları : |  | 
-1. Bir ticari işletmeye ait sicil esas defterindeki kayıtların tamamının veya bir kısmının veya memurlukta saklanan bütün belgelerin örneğinin beher sayfasından (Ticaret Sicili Tüzüğü Madde : 11/1) | (7,80 TL.) | 23.600 TL.
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+4. İdare harçları : (16,90 TL.) 42.400 TL.
+(Haczedilen gayrimenkullerin idaresi, kira mukaveleleri
+düzenlenmesi ve hesap tutulması için)
+II – İflas harçları :
+1. Maktu harç :
+İflasın açılması veya konkordato isteği ve masa
+ya katılma harcı (40,00 TL.) 97.400 TL.
+2. (Değişik : 4/12/1985 - 3239/96-A md.) Konunun değeri üzerinden harç :
+a) İflasta paylaşılan para üzerinden (Yüzde 4,55) Yüzde 2,4
+b) Konkordatoda alacaklılara verilmesi kararlaş
+tırılan para üzerinden (Binde 11,38) Binde 6
+III- Haciz, teslim ve satış harcı: (Ek: 23/7/2010-6009/20 md.) (56,85 TL.) 40 TL.
+(Yukarıdaki (I) ve (II) numaralı fıkralarda yer alan icra ve iflas
+işlemlerinin daire dışında memur eliyle yerine getirildiği her bir işlem için)
+C) Ticaret Sicili harçları :
+I – Kayıt ve tescil harçları : (Ticari işletme rehni dahil)
+1. Ticari işletmenin ve ünvanının tescil ve ilanında:
+a) Gerçek kişilere ve kooperatiflere ait işletmelerde (180,05 TL.) 428.600 TL.
+b) Şahıs şirketlerine ait işletmelerde (516,25 TL.) 1.225.600 TL.
+c) Sermaye şirketlerine ait işletmelerde (1.163,20 TL.) 2.757.400 TL.
+2. Temsile yetkili kılınan kimselerin tescil ve ilanında (Her kişi için):
+a) Gerçek kişilere ve kooperatiflere ait işletmelerde (89,35 TL.) 214.000 TL.
+b) Şahıs şirketlerine ait işletmelerde (127,95 TL.) 305.200 TL.
+c) Sermaye şirketlerine ait işletmelerde (283,10 TL.) 673.400 TL.
+3. Ticaret siciline tescil edilmiş olan vakalardaki değişikliklerin tescilinde: (Ticari işletme rehni ile ilgili vakalar dahil) (Muhteva ile ilgili bulunmayan
+düzeltmelerde harç alınmaz.)
+a) Gerçek kişilere ve kooperatiflere ait işletmelerde (89,35 TL.) 214.000 TL.
+b Şahıs şirketlerine ait işletmelerde (127,95 TL.)
+c) Sermaye şirketlerine ait işletmelerde (283,10 TL.) 673.400 TL.
+4. Kayıt silinmesinde: (Ticari işletme rehni kaydının silinmesi dahil)
+a) Gerçek kişilere ve kooperatiflere ait işletmelerde (34,90 TL.) 84.800 TL.
+b) Şahıs şirketlerine ait işletmelerde (50,45 TL.) 121.600 TL.
+c) Sermaye şirketlerine ait işletmelerde (89,35 TL.) 214.000 TL.
+Şubelerin her biri (Yabancı müesseselerin Türkiye’deki şubeleri dahil) ayrıca aynı harca tabidir.
+II – Kayıt ve belge suretleri ve tasdikname harçları :
+1. Bir ticari işletmeye ait sicil esas defterindeki kayıtların tamamının veya bir kısmının veya memurlukta saklanan bütün belgelerin örneğinin beher sayfasından
+(Ticaret Sicili Tüzüğü Madde : 11/1) (8,95 TL.) 23.600 TL.
 3930
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-2. Tasdiknamelerden (Ticaret Sicili Tüzüğü Madde : 11/2, 104, 105) | (25,95 TL.) | 72.800 TL.
-D) Diğer yargı harçları (Müşterek kısım) : |  | 
-I – Suret harçları : |  | 
-(Değişik : 20/3/1981 - 2430/4-D md.) |  | 
-a) İlamın her sayfasının suretinden (Tasdikli fotokopiler dahil) | (1,35 TL.) | 6.200 TL.
-b) Mahkeme ve merci zabıtnameleri ve diğer evrakın beher sayfasının suretlerinden (Tasdikli fotokopiler dahil) | (1,35 TL.) | 6.200 TL.
-c) Avukatların tasdik ettiği vekaletname suretlerinden (Tasdikli fotokopiler dahil) | (3,30 TL.) | 11.600 TL.
-d) Sulh hakimi tarafından tasdik edilen vekaletname suretlerinden (Tasdikli fotokopiler dahil) | (3,30 TL.) | 11.600 TL.
-Re’sen verilmesi icap eden suretler hariç olmak üzere ceza mahkemelerinden alınacak suretlerden de aynı harçlar alınır. |  | 
-II – Muhafaza harçları : |  | 
-Adliye veznelerine tevdi olunan kıymetli eşyanın kabul ve muhafazası için, muhafaza olunan değer üzerinden: |  | 
-a) Bir yıla kadar | (Binde 9,9) | Binde 6
-b) Bir yılı geçen her yıl ve kesirler için | (Binde 4,95) | Binde 3
-III – Defter tutma harçları : |  | 
-a) Alelumum, defter tutma ve tahrir işlerinde 35.600 (12,15 TL.) liradan az olmamak üzere deftere kaydolunan değer üzerinden | (Binde 3,96) | Binde 2,4
-b) Miras işlerinde defter tutulmasında : |  | 
-aa) Mevcut ve alacak bakiyesi hasıl olmuş ise bu bakiye üzerinden | (Binde 3,96) | Binde 2,4
-bb) Borç bakiyesi hasıl olmuş veya mevcut ve alacaklar ile borçlar bakiyesi eşit ise | (32,40 TL.) | 90.800 TL.
-c) İflas dairesi tarafından tutulacak defterlerden | (32,40 TL.) | 90.800 TL.
-IV – Miras işlerine ait harçlar : |  | 
-Terekenin tahrir ve tespiti, mirasın taksimi, tasfiyesi ve idaresinde, bunların konusunu teşkil eden değerler üzerinen | (Binde 3,96) | Binde 2,4
-(Miras idaresinde her sene ve kesirler için harç alınır.) |  | 
-V – Vasiyetname tanzimine ait harçlar : |  | 
-Medeni Kanunun 479 uncu maddesine göre sulh hakimi tarafından tanzim edilen resmi vasiyet senetleri: |  | 
-a) Belli bir meblağı ihtiva edenler | (Binde 0,99) | Binde 0,60
-b) Belli bir meblağı ihtiva etmeyenler | (43,90 TL.) | 121.600 TL.
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+2. Tasdiknamelerden (Ticaret Sicili Tüzüğü
+Madde : 11/2, 104, 105) (29,80 TL.) 72.800 TL.
+D) Diğer yargı harçları (Müşterek kısım) :
+I – Suret harçları :
+(Değişik : 20/3/1981 - 2430/4-D md.)
+a) İlamın her sayfasının suretinden (Tasdikli foto-
+kopiler dahil) (1,55 TL.) 6.200 TL.
+b) Mahkeme ve merci zabıtnameleri ve diğer evrakın beher sayfasının suretlerinden (Tasdikli fotokopiler dahil) (1,55 TL.) 6.200 TL.
+c) Avukatların tasdik ettiği vekaletname suretle-
+rinden (Tasdikli fotokopiler dahil) (3,75 TL.) 11.600 TL.
+d) Sulh hakimi tarafından tasdik edilen vekalet-
+name suretlerinden (Tasdikli fotokopiler dahil) (3,75 TL.) 11.600 TL.
+Re’sen verilmesi icap eden suretler hariç olmak üzere ceza mahkemelerinden alınacak suretlerden de
+aynı harçlar alınır.
+II – Muhafaza harçları :
+Adliye veznelerine tevdi olunan kıymetli eşyanın kabul ve muhafazası için, muhafaza olunan değer üzerinden:
+a) Bir yıla kadar (Binde 11,38) Binde 6
+b) Bir yılı geçen her yıl ve kesirler için (Binde 5,69) Binde 3
+III – Defter tutma harçları :
+a) Alelumum, defter tutma ve tahrir işlerinde 35.600 (13,95 TL.) liradan az olmamak üzere deftere
+kaydolunan değer üzerinden (Binde 4,55) Binde 2,4
+b) Miras işlerinde defter tutulmasında :
+aa) Mevcut ve alacak bakiyesi hasıl olmuş ise bu
+bakiye üzerinden (Binde 4,55) Binde 2,4
+bb) Borç bakiyesi hasıl olmuş veya mevcut ve
+alacaklar ile borçlar bakiyesi eşit ise (37,25 TL.) 90.800 TL.
+c) İflas dairesi tarafından tutulacak defterlerden (37,25 TL.) 90.800 TL.
+IV – Miras işlerine ait harçlar :
+Terekenin tahrir ve tespiti, mirasın taksimi, tasfiyesi ve idaresinde, bunların konusunu teşkil eden değer ler üzerinen (Binde 4,55) Binde 2,4
+(Miras idaresinde her sene ve kesirler için harç alınır.)
+V – Vasiyetname tanzimine ait harçlar :
+Medeni Kanunun 479 uncu maddesine göre sulh hakimi tarafından tanzim edilen resmi vasiyet senetleri:
+a) Belli bir meblağı ihtiva edenler (Binde 1,13) Binde 0,60
+b) Belli bir meblağı ihtiva etmeyenler (50,45 TL.) 121.600 TL.
 3931
 (2) SAYILI TARİFE (1)(2)
 (Değişik : 21/11/1980 - 2345/2 md.)
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-Noter Harçları |  | 
-I–Değer veya ağırlık üzerinden alınan nispi harçlar : |  | 
-1. (Değişik : 30/12/1980 - 2366/2 md.) Muayyen bir meblağı ihtiva eden her nevi senet, mukavelename ve kağıtlardan beher imza için | (Binde 0,99) | Binde 0,60
-Bütün imzalar için bu suretle alınacak harcın toplam miktarı 121.600 (43,90 TL.) liradan az, 61.299.400 (22.499,75 TL.) liradan çok olamaz. |  | 
-2. Emanet harçları : Saklanmak üzere noterlere tevdi edilen değeri belli emanetlerden | (Binde 1,98) | Binde 1,2
-Harç miktarı 11.600 (3,30 TL) liradan az olamaz, harç yıllık olarak hesaplanır. Bir yıldan fazla olan her yıl için ilave olarak yarı harç alınır.Yıl kesirleri tam itibar olunur. |  | 
-3. Gayrimenkul ve menkullerin idaresi harcı : | (Binde 3,96) | Binde 2,4
-Harç yıllık olarak hesaplanır, bir yıldan fazla olan her yıl için ilave olarak yarı harç alınır. |  | 
-Yıl kesirleri tam itibar olunur.Gayrimenkullerin değerleri belli değilse değerler takdir yolu ile tespit edilir. |  | 
-4. Konşimento yazılması harcı : |  | 
-Konşimento yazılmasında eşyanın her gayrisafi tonundan | (0,394 TL.) | 1.034 TL.
-5. (Ek : 21/1/1982 - 2588/15 md; Mülga : 4/12/1985 - 3239/139 md.) |  | 
-II–Maktu harçlar : |  | 
-1. Belli meblağı ihtiva etmeyen ve alınacak harç miktarı kanun ve tarifede ayrıca gösterilmemiş olan senet, mukavele ve kağıtlardaki imzaların beherinden | (6,90 TL.) | 20.800 TL.
-2. Her nevi tebliğ, (6830 sayılı Kanun hükümleri muvacehesinde noterlerce muhataba yapılacak tebliğler dahil) ihbar, ihtar ve protestolardan muhataba tebliğ edilecek beher nüsha için | (12,15 TL.) | 35.600 TL.
-3.Vekaletnameler : |  | 
-a) Özel vekaletnamelerde beher imza için | (5,75 TL.) | 18.200 TL.
-b) Genel vekaletnamelerde beher imza için | (9,05 TL.) | 26.800 TL.
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+Noter Harçları
+I–Değer veya ağırlık üzerinden alınan nispi harçlar :
+1. (Değişik : 30/12/1980 - 2366/2 md.)
+Muayyen bir meblağı ihtiva eden her nevi senet,
+mukavelename ve kağıtlardan beher imza için (Binde 1,13) Binde 0,60
+Bütün imzalar için bu suretle alınacak harcın
+toplam miktarı 121.600 (50,45 TL.) liradan az,
+61.299.400 (25.874,70 TL.) liradan çok olamaz.
+2. Emanet harçları :
+Saklanmak üzere noterlere tevdi edilen değeri
+belli emanetlerden (Binde 2,27) Binde 1,2
+Harç miktarı 11.600 (3,75 TL) liradan az olamaz, harç yıllık olarak hesaplanır. Bir yıldan fazla olan her yıl için ilave olarak yarı harç alınır.Yıl kesirleri tamitibar olunur.
+3. Gayrimenkul ve menkullerin idaresi harcı : (Binde 4,55) Binde 2,4
+Harç yıllık olarak hesaplanır, bir yıldan fazla
+olan her yıl için ilave olarak yarı harç alınır.
+Yıl kesirleri tam itibar olunur.Gayrimenkullerin değerleri belli değilse değerler takdir yolu ile tespit edilir.
+4. Konşimento yazılması harcı :
+Konşimento yazılmasında eşyanın her gayrisafi
+tonundan (0,453 TL.) 1.034 TL.
+5. (Ek : 21/1/1982 - 2588/15 md; mülga :
+4/12/1985 - 3239/139 md.)
+II–Maktu harçlar :
+1. Belli meblağı ihtiva etmeyen ve alınacak harç miktarı kanun ve tarifede ayrıca gösterilmemiş olan senet, mukavele ve kağıtlardaki imzaların beherinden (7,90 TL.) 20.800 TL.
+2. Her nevi tebliğ, (6830 sayılı Kanun hükümleri muvacehesinde noterlerce muhataba yapılacak tebliğler dahil) ihbar, ihtar ve protestolardan muhataba tebliğ edilecek beher nüsha için (13,95 TL.) 35.600 TL.
+3.Vekaletnameler :
+a) Özel vekaletnamelerde beher imza için (6,60 TL.) 18.200 TL.
+b) Genel vekaletnamelerde beher imza için (10,40 TL.) 26.800 TL.
 ——————————
-(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 31/12/2011 tarihli ve 28159 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 65 Seri No’lu Tebliği ile 1/1/2012 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
-(2) Bu tarife uyarınca; Muvazzaf ve Fahri Konsolosluklarımızın yapacağı işlemlerden,1/1/2012 tarihinden itibaren alacakları harç miktarında esas olacak döviz kuru Maliye Bakanlığı’nın 31/12/2011 tarihli ve 28159 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 66 Seri No’lu Tebliği ile 1 ABD Doları 1.80 TL olarak, emsal sayı ise 2,8 olarak belirlenmiştir. Ayrıca uygulama ile ilgili olarak sözkonusu Tebliğe bakınız.
+(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 1/1/2013 tarihli ve 28515 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 69 Seri No’lu Tebliği ile 1/1/2013 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
+(2) Bu tarife uyarınca; Muvazzaf ve Fahri Konsolosluklarımızın yapacağı işlemlerden,1/1/2013 tarihinden itibaren alacakları harç miktarında esas olacak döviz kuru Maliye Bakanlığı’nın 1/1/2013 tarihli ve 28515 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 70Seri No’lu Tebliği ile 1 ABD Doları 1.80 TL olarak, emsal sayı ise 2,4 olarak belirlenmiştir. Ayrıca uygulama ile ilgili olarak sözkonusu Tebliğe bakınız.
 3932
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-4. Defter tasdiki : |  | 
-a) Açılış, ara ve kapanış tasdik ve şerhleri (Beher defter için): |  | 
-aa) İşletme defteri ve diğer her türlü defterler | (17,00 TL.) | 48.400 TL.
-bb) Serbest meslek kazanç defteri | (21,15 TL.) | 60.000 TL.
-cc) Bilanço esasına göre tutulan defterler | (21,15 TL.) | 60.000 TL.
-b) Açılış tasdiklerinde sayfaların mühürlenmesi : |  | 
-100 sayfaya kadar (100 dahil) | (5,60 TL.) | 17.600 TL.
-100 sayfadan yukarı beher 50 sayfa ve fazlası için | (5,60 TL.) | 17.600 TL.
-(Ek hüküm:25/12/2003-5035/35 md.)Ticaret sicili memurluklarınca yapılacak defter tasdiki işlemlerinden yukarıda belirtilen harçlar aynen alınır. |  | 
-5. Suretler ve tercümeler : |  | 
-a) İlgililere veya ibraz edenlere verilecek her türlü mukavele, senet, yazılı kağıt ve kayıt suretlerinin ve fotokopilerinin beher sayfasından | (1,35 TL.) | 6.200 TL.
-b) Tercüme suretleri ve yabancı dille yazılmış kağıtların suretleri ve tercümeleri beher sayfasından (Fotokopiler dahil) | (3,30 TL.) | 11.600 TL.
-6. Saklanmak üzere noterlere tevdi olunan ve değeri belli olmayan emanetlerle vasiyetnameler her yıl için (Yıl kesirleri tam sayılır) | (12,15 TL.) | 35.600 TL.
-7. Tesbit ve tutanak harçları : |  | 
-Mukavelename, senet veya yazılı kağıtların veya bir şeyin veya bir yerin hal ve şeklinin ilgili şahısların hüviyet ve ifadelerinin tespiti | (12,15 TL.) | 35.600 TL.
-8. Piyango, seçim ve toplantılarında hazır bulunmaktan alınacak harçlar : |  | 
-Davet üzerine piyango ve hususi müesseselerin kur’a seçim ve toplantılarında hazır bulunarak düzenlenecek tutanaklarda | (223,90 TL.) | 612.200 TL.
-9. Düzeltme harcı : |  | 
-Evvelki işin mahiyet ve değeri değişmemek şartiyle yapılacak düzeltmelere ait beyannamelerden her imza için | (2,60 TL.) | 9.000 TL.
-10. Mukavele feshi harcı : |  | 
-Değeri belli bir borç veya bir taahhüdün ikrarını tazammun etmeyen mukavelelerin feshinde beher imza için | (2,60 TL.) | 9.000 TL.
-11. Belli bir meblağı ihtiva etmeyen umumi ibra, umumi makbuz, tahkimname, ölüme bağlı tasarruf senet ve mukaveleleri, ölünceye kadar bakma akdi, vakıf, aile vakıfları, evlat edinme, karı-koca haklarının idaresi, babalığı tanıma senetleri, miras taksim mukaveleleri, mirasçılık belgesi, ifraz mukaveleleri ve bunlardan rücu ve bunların feshi ve bunların teferruatına dair senet, mukavele ve kağıtların düzenlenmesinden ve noter tarafından re’sen düzenlenecek tutanaklardan (1) | (43,90 TL.) | 121.600 TL.
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+4. Defter tasdiki :
+a) Açılış, ara ve kapanış tasdik ve şerhleri (Beher defter için):
+aa) İşletme defteri ve diğer her türlü defterler (19,55 TL.) 48.400 TL.
+bb) Serbest meslek kazanç defteri (24,30 TL.) 60.000 TL.
+cc) Bilanço esasına göre tutulan defterler (24,30 TL.) 60.000 TL.
+b) Açılış tasdiklerinde sayfaların mühürlenmesi :
+100 sayfaya kadar (100 dahil) (6,40 TL.) 17.600 TL.
+100 sayfadan yukarı beher 50 sayfa ve fazlası için (6,40 TL.) 17.600 TL.
+(Ek hüküm:25/12/2003-5035/35 md.)Ticaret sicili memurluklarınca yapılacak defter tasdiki işlemlerinden yukarıda belirtilen harçlar aynen alınır.
+5. Suretler ve tercümeler :
+a) İlgililere veya ibraz edenlere verilecek her türlü mukavele, senet, yazılı kağıt ve kayıt suretlerinin ve fotokopilerinin beher sayfasından (1,55 TL.) 6.200 TL.
+b) Tercüme suretleri ve yabancı dille yazılmış kağıtların suretleri ve tercümeleri beher sayfasından (Fotokopiler dahil) (3,75 TL.) 11.600 TL.
+6. Saklanmak üzere noterlere tevdi olunan ve değeri belli olmayan emanetlerle vasiyetnameler her yıl için (Yıl kesirleri tam sayılır) (13,95 TL.) 35.600 TL.
+7. Tesbit ve tutanak harçları :
+Mukavelename, senet veya yazılı kağıtların veya bir şeyin veya bir yerin hal ve şeklinin ilgili şahısların
+hüviyet ve ifadelerinin tespiti (13,95 TL.) 35.600 TL.
+8. Piyango, seçim ve toplantılarında hazır bulunmaktan alınacak harçlar :
+Davet üzerine piyango ve hususi müesseselerin kur’a seçim ve toplantılarında hazır bulunarak düzen-
+lenecek tutanaklarda (257,45 TL.) 612.200 TL.
+9. Düzeltme harcı :
+Evvelki işin mahiyet ve değeri değişmemek şartiyle yapılacak düzeltmelere ait beyannamelerden her imza için (2,95 TL.) 9.000 TL.
+10. Mukavele feshi harcı :
+Değeri belli bir borç veya bir taahhüdün ikrarını tazammun etmeyen mukavelelerin feshinde beher imza için (2,95 TL.) 9.000 TL.
+11. Belli bir meblağı ihtiva etmeyen umumi ibra, umumi makbuz, tahkimname, ölüme bağlı tasarruf senet ve mukaveleleri, ölünceye kadar bakma akdi, vakıf, aile vakıfları, evlat edinme, karı-koca haklarının idaresi, babalığı tanıma senetleri, miras taksim mukaveleleri, mirasçılık belgesi, ifraz mukaveleleri ve bunlardan rücu ve bunların feshi ve bunların teferruatına dair senet, mukavele ve kağıtların düzenlenmesinden ve noter tarafından re’sen düzenlenecek tutanaklardan (1) (50,45 TL.) 121.600 TL.
 –––––––––––––
 (1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 13 üncü maddesiyle, bu bentte yer alan “miras taksim mukaveleleri,” ibaresinden sonra gelmek üzere “mirasçılık belgesi,” ibaresi eklenmiş ve metne işlenmiştir.
 3933
 (3) SAYILI TARİFE (1)
 (Değişik : 21/11/1992 - 2588/16 md.)
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-Vergi yargısı harçları: |  | 
-Vergi, resim, harç ve benzeri mali yükümler ile bunlara bağlı zam ve cezalara ilişkin uyuşmazlıklardan dolayı Vergi Mahkemelerinde, Bölge İdare Mahkemelerinde ve Danıştay’da açılan davalarda. |  | 
-I–Başvurma harcı : |  | 
-a) Vergi Mahkemeleri ile Bölge İdare Mahkemelerine başvurma | (21,15 TL.) | 60.000 TL.
-b) Danıştaya başvurma | (43,90 TL.) | 121.600 TL.
-c) (Ek: 4/6/2008-5766/11 md.) Danıştay’a temyiz başvurularında | (91,40 TL.) | 60 YTL
-d) (Ek: 4/6/2008-5766/11 md.) Bölge İdare Mahkemesine itirazen yapılan başvurularda | (60,95 TL.) | 40 YTL
-II–Nispi harçlar : |  | 
-a)Vergi mahkemesi ile bölge idare mahkemesi kararlarında : |  | 
-Tarhiyata ve ceza kesme işlemlerine karşı mükellefin dava açması üzerine vergi mahkemesinin nihai kararları ile bölge idare mahkemesinin kararlarında, karar altına alınan uyuşmazlık konusu vergi, resim, harç ve benzeri mali yükümler ile bunlara bağlı zam ve cezaların toplam değeri üzerinden 60.000 (21,15 TL.) liradan az olmamak üzere | (Binde 3,96) | Binde 2,4
-b) Danıştay kararlarında : |  | 
-Karar altına alınan uyuşmazlık konusu vergi, resim, harç ve benzeri mali yükümler ile bunlara bağlı zam ve cezaların toplam değeri üzerinden 121.600 (43,90 TL.) liradan az olmamak üzere | (Binde 7,92) | Binde 4,8
-(Bu miktardan evvelce ödenen nispi harç mahsup edilir) |  | 
-III–Maktu harç : |  | 
-Yukarıdaki pozisyonlarda gösterilen ve nispi harca tabi tutulmamış olan tahriyat veya ceza kesme ve diğer işlemlerle ilgili : |  | 
-a) Vergi mahkemesi ve bölge idare mahkemesi kararlarında | (21,15 TL.) | 60.000 TL.
-b) Danıştay kararlarında | (43,90 TL.) | 121.600 TL.
-c) Bölge idare mahkemesi ve Danıştayın yürütmenin durdurulması kararlarında | (43,90 TL.) | 121.600 TL.
-IV –Suret harçları : |  | 
-Tarafların isteği üzerine verilecek karar suretleri için karar suretinin her sayfasından (Fotokopiler dahil) | (1,00 TL.) | 5.000 TL.
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+Vergi yargısı harçları:
+Vergi, resim, harç ve benzeri mali yükümler ile bunlara bağlı zam ve cezalara ilişkin uyuşmazlıklardan dolayı Vergi Mahkemelerinde, Bölge İdare Mahkemelerinde ve Danıştay’da açılan davalarda.
+I–Başvurma harcı :
+a) Vergi Mahkemeleri ile Bölge İdare Mahkeme-
+lerine başvurma (24,30 TL.) 60.000 TL.
+b) Danıştaya başvurma (50,45 TL.) 121.600 TL.
+c) (Ek: 4/6/2008-5766/11 md.) Danıştay’a temyiz başvu-
+rularında (105,10 TL.) 60 YTL
+d) (Ek: 4/6/2008-5766/11 md.) Bölge İdare Mahkemesi-
+ne itirazen yapılan başvurularda (70,05 TL.) 40 YTL
+II–Nispi harçlar :
+a)Vergi mahkemesi ile bölge idare mahkemesi kararlarında :
+Tarhiyata ve ceza kesme işlemlerine karşı mükellefin dava açması üzerine vergi mahkemesinin nihai kararları ile bölge idare mahkemesinin kararlarında, karar altına alınan uyuşmazlık konusu vergi, resim, harç ve benzeri mali yükümler ile bunlara bağlı zam ve cezaların toplam değeri üzerinden 60.000 (24,30 TL.) liradan az olmamak üzere (Binde 4,55) Binde 2,4
+b) Danıştay kararlarında :
+Karar altına alınan uyuşmazlık konusu vergi, resim, harç ve benzeri mali yükümler ile bunlara bağlı zam ve cezaların toplam değeri üzerinden 121.600 (50,45 TL.) liradan az olmamak üzere (Binde 9,10) Binde 4,8
+(Bu miktardan evvelce ödenen nispi harç mahsup edilir)
+III–Maktu harç :
+Yukarıdaki pozisyonlarda gösterilen ve nispi harca tabi tutulmamış olan tahriyat veya ceza kesme ve diğer işlemlerle ilgili :
+a) Vergi mahkemesi ve bölge idare mahkemesi
+kararlarında (24,30 TL.) 60.000 TL.
+b) Danıştay kararlarında (50,45 TL.) 121.600 TL.
+c) Bölge idare mahkemesi ve Danıştayın yürüt-
+menin durdurulması kararlarında (50,45 TL.) 121.600 TL.
+IV –Suret harçları :
+Tarafların isteği üzerine verilecek karar suretleri
+için karar suretinin her sayfasından (Fotokopiler dahil) (1,15 TL.) 5.000 TL.
 (4) SAYILI TARİFE (1)
 (Değişik : 21/11/1980 - 2345/2 md.)
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-Tapu ve Kadastro işlemlerinden alınacak harçlar : |  | 
-I–Tapu İşlemleri : |  | 
-1.Kayıt harici kalmış olan gayrimenkullerin tescilinden takdir olunan değer üzerinden | (Binde 9,9) | Binde 6
+Tapu ve Kadastro işlemlerinden alınacak harçlar :
+I–Tapu İşlemleri :
+1.Kayıt harici kalmış olan gayrimenkullerin tes-
+cilinden takdir olunan değer üzerinden (Binde 11,38) Binde 6
 ——————————
-(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 31/12/2011 tarihli ve 28159 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 65 Seri No’lu Tebliği ile 1/1/2012 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
+(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 1/1/2013 tarihli ve 28515 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 69 Seri No’lu Tebliği ile 1/1/2013 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
 3934
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-2. Deniz, göl ve nehir kıyılarında izinli ve izinsiz doldurma suretiyle iktisabedilen yerlerin tescilinden takdir edilecek değer üzerinden | (Binde 1386) | Binde 840
-3. (Değişik: 15/1/2009-5831/6 md.) a) Terekeye dahil taşınmaz malların kanuni ve atanmış mirasçılar arasında aynen veya ifrazen yapılacak taksiminde kayıtlı değer üzerinden | (Binde 19,8) | Binde 18
-b) Taşınmaz malların ve sınırlı ayni hakların, intikalinde alınmamak kaydıyla, bağışlanmasından rücularda ve vasiyetlerin infazında veya piyango ve ikramiye suretiyle iktisabında kayıtlı değer üzerinden | (Binde 9,9) | Binde 9
-4. Gayrimenkullerin ve mülkiyetten gayrı ayni hakların bağışlanmasından, kanuni mirasçılar dışında intifa hakkından kuru mülkiyet sahibi lehine ivazsız feragat edilmesinde ve süreli intifa haklarında süre dolarak intifa hakkının sona ermesinde kayıtlı değer üzerinden | (Binde 59,4) | Binde 36
-5. Dalyan ve voli mahallerinin tescil, intikal, hibe, vasiyet, temlik ve sair tasarrufi muamelelerde takdir olunacak kıymet veya bildirilen bedelden yüksek olanı üzerinden | (Binde 59,4) | Binde 36
-6. a) İfraz veya taksim veya birleştirme işlemlerinde kayıtlı değerler üzerinden | (Binde 9,9) | Binde 6
-b) (Değişik: 15/1/2009-5831/7 md.) İmar parselasyon planları uygulama sonucu şuyulanan parsellerin pay sahipleri arasında rızaen veya hükmen taksiminde kayıtlı değer üzerinden | (Binde 9,9) | Binde 9
-c)Yukarıdaki fıkralar dışında kalan ve müşterek mülkiyete konu olanların rızaen veya hükmen pay sahipleri arasında aynen veya ifrazen taksiminde kayıtlı değer üzerinden | (Binde 3,96) | Binde 2,4
-7. İpotek tesisinde: |  | 
-a) İpotekle sağlanan borç miktarı üzerinden | (Binde 3,96) | Binde 2,4
-b) İpoteğe dahil gayrimenkullerden birisinin çıkarılarak başkasının ithalinde veya teminat ilavesinde borç miktarı üzerinden | (Binde 3,96) | Binde 2,4
-c) Mevcut ipotek derecelerinin sonradan istenilen değişikliklerinde borç miktarı üzerinden | (Binde 1,98) | Binde 1,2
-8. Muvakkat tesciller: |  | 
-Medeni Kanunun 921 inci maddesi gereğince yapılacak tescillerde kayıtlı değer üzerinden | (Binde 1,98) | Binde 1,2
-9. Mal birliği ve mal ortaklığının, mukaveleden mütevellit şüf’a, iştira ve vefa haklarının, aile yurtlarının mutlak veya nakil ile mükellef mirasçı nasbının sicile şerhinden veya tescilinden kayıtlı değer üzerinden | (Binde 5,94) | Binde 3,6
-10. Adi veya hasılat kira mukavelelerinin tapu siciline şerhinde mukavele müddetine göre hesaplanacak kira toplamı ve mukavele mevcut değilse veya mukavelede müddet belirtilmemişse bir yıllık kira bedeli üzerinden | (Binde 5,94) | Binde 3,6
-11. Teferruatın tapu siciline kaydında beyan olunan değeri üzerinden | (Binde 3,96) | Binde 2,4
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+2. Deniz, göl ve nehir kıyılarında izinli ve izinsiz doldurma suretiyle iktisabedilen yerlerin tescilinden
+takdir edilecek değer üzerinden (Binde 1593,9) Binde 840
+3. (Değişik: 15/1/2009-5831/6 md.)a) Terekeye dahil taşınmaz malların kanuni ve atanmış mirasçılar arasında aynen veya ifrazen yapılacak taksiminde kayıtlı değer üzerinden (Binde 22,77) (Binde 18)
+b) Taşınmaz malların ve sınırlı ayni hakların, intikalinde alınmamak kaydıyla, bağışlanmasından rücularda ve vasiyetlerin infazında veya piyango ve ikramiye suretiyle iktisabında kayıtlı değer üzerinden (Binde 11,38) (Binde 9)
+4. Gayrimenkullerin ve mülkiyetten gayrı ayni hakların bağışlanmasından, kanuni mirasçılar dışında intifa hakkından kuru mülkiyet sahibi lehine ivazsız feragat edilmesinde ve süreli intifa haklarında süre dolarak intifa hakkının sona
+ermesinde kayıtlı değer üzerinden (Binde 68,31) Binde 36
+5. Dalyan ve voli mahallerinin tescil, intikal, hibe, vasiyet, temlik ve sair tasarrufi muamelelerde takdir olunacak kıymet veya bildirilen bedelden yüksek olanı
+üzerinden (Binde 68,31) Binde 36
+6. a) İfraz veya taksim veya birleştirme işlemle-
+rinde kayıtlı değerler üzerinden (Binde 11,38) Binde 6
+b) (Değişik: 15/1/2009-5831/7 md.) İmar parselasyon planları uygulama sonucu şuyulanan parsellerin pay sahipleri arasında rızaen veya hükmen taksiminde kayıtlı değer üzerinden (Binde 11,38) Binde 9
+c)Yukarıdaki fıkralar dışında kalan ve müşterek mülkiyete konu olanların rızaen veya hükmen pay sahipleri arasında aynen veya ifrazen taksiminde kayıtlı
+değer üzerinden (Binde 4,55) Binde 2,4
+7. İpotek tesisinde:
+a) İpotekle sağlanan borç miktarı üzerinden (Binde 4,55) Binde 2,4
+b) İpoteğe dahil gayrimenkullerden birisinin çıkarılarak başkasının ithalinde veya teminat ilavesinde borç miktarı üzerinden (Binde 4,55) Binde 2,4
+c) Mevcut ipotek derecelerinin sonradan isteni-
+len değişikliklerinde borç miktarı üzerinden (Binde 2,27) Binde 1,2
+8. Muvakkat tesciller:
+Medeni Kanunun 921 inci maddesi gereğince
+yapılacak tescillerde kayıtlı değer üzerinden (Binde 2,27) Binde 1,2
+9. Mal birliği ve mal ortaklığının, mukaveleden mütevellit şüf’a, iştira ve vefa haklarının, aile yurtlarının mutlak veya nakil ile mükellef mirasçı nasbının sicile şerhinden veya tescilinden kayıtlı değer üzerinden (Binde 6,83) Binde 3,6
+10. Adi veya hasılat kira mukavelelerinin tapu siciline şerhinde mukavele müddetine göre hesaplanacak kira toplamı ve mukavele mevcut değilse veya mukavelede müddet belirtilmemişse bir yıllık kira bedeli üzerinden (Binde 6,83) Binde 3,6
+11. Teferruatın tapu siciline kaydında beyan olunan değeri üzerinden (Binde 4,55) Binde 2,4
 3935
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-12. (Değişik: 18/2/2009-5838/17 md.)Satış vaadi sözleşmeleri ile irtifak hakkı tesisi vaadi sözleşmelerinin tapu siciline şerhinde, sözleşmede yazılı bedel üzerinden (Bu bedel, sözleşmeye konu gayrimenkulün emlak vergisi değerinden az, emlak vergisi değerinin iki katından çok olamaz) bedelsiz olanlarında emlak vergisi değeri üzerinden | (Binde 5,94) | (Binde 5,4)
-13. a) (Değişik: 18/2/2009-5838/17 md.) Arsa ve arazi üzerine yeniden inşa olunacak bina vesair tesislerin tescilinde (Her bir bağımsız bölüm vesair tesis için) | (136,15 TL) | 100 TL
-Bayındırlık ve İskan Bakanlığının görüşü alınarak Maliye Bakanlığınca tespit ve ilan edilmiş bulunan sosyal mesken, işçi evleri ve bunlardan daha düşük nitelikteki meskenlerin tescilinde (Her bir bağımsız bölüm için) | (68,05 TL.) | 50 TL
-Tapu siciline tescil yapılmaması halinde de bu harcın tahsili aynı esaslar dahilinde yürütülür. |  | 
-b) Meşfu payın şüf’a hakkı sahibi tarafından ilama müsteniden iktisabında, kayıtlı değer üzerinden | (Binde 19,8) | Binde 12
-c) (Değişik: 18/2/2009 - 5838/17 md.) (a) fıkrası dışında kalan her nevi cins ve kayıt tashihinde (her bir işlem için) | (68,05 TL.) | 50 TL
-14. (Değişik : 21/1/1982 - 2588/17 md.) |  | 
-Tapu Harcı mevzuuna giren işlemlerle ilgili tescil ve şerhlerin terkininden | (14,70 TL.) | 42.400 TL.
-15. Yapı kooperatiflerinin ortaklarına dağıtacağı gayrimenkullerin ortaklar adına tescilinde kayıtlı değer üzerinden | (Binde 1,98) | Binde 1,2
-16. Gayrimenkullere ait haritaların kopyalarının verilmesinde her parsele ait kopya için | (30,35 TL.) | 84.800 TL.
-17.İlgililerin isteği üzerine gayrimenkullere ait verilecek kayıt örneklerinin her birisiyle çıkarılacak belge örneklerinin beher sayfasından (Fotokopiler dahil) | (5,60 TL.) | 17.600 TL.
-18. Taksim hakkının bertaraf edilmesinde bunun beyanlar hanesine işlenmesinde gayrimenkulün kayıtlı değeri üzerinden | (Binde 9,9) | Binde 6
-19. Muvazaa tarikiyle vaki tescillerin hükmen düzeltilmesinde kayıtlı değer üzerinden | (Binde 118,8) | Binde 72
-20. (Ek : 21/1/1982 - 2588/17 md.) (1) |  | 
-a) (Değişik : 4/12/1985 - 3239/96-B md.) Gayrimenkullerin ivaz karşılığında veya ölünceye kadar bakma akdine dayanarak yahut trampa hükümlerine göre devir ve iktisabında gayrimenkulün beyan edilen devir ve iktisap bedelinden az olmamak üzere emlak vergisi değeri üzerinden (cebrî icra ve şüyuun izalesi hallerinde satış bedeli, istimlaklerde takdir edilen bedel üzerinden) devir eden ve devir alan için ayrı ayrı, (2) (3) Tapuda kaydı bulunmayan gayrimenkullerin, zilyetlik devir sözleşmeleri ile devrinde de bu fıkra hükümleri uygulanır. Hesaplanacak harç, zilyetlik devir sözleşmeleri yapılmadan önce, şekli ve muhtevası Maliye ve Gümrük Bakanlığınca tespit edilecek bir beyanname ile bildirilir ve beyanname verme süresi içinde ödenir. | (Binde 16,5) | Binde10
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+12. (Değişik: 18/2/2009-5838/17 md.)Satış vaadi sözleşmeleri ile irtifak hakkı tesisi vaadi sözleşmelerinin tapu siciline şerhinde, sözleşmede yazılı bedel üzerinden (Bu bedel, sözleşmeye konu gayrimenkulün emlak vergisi değerinden az, emlak vergisi değerinin iki katından çok olamaz) bedelsiz olanlarında emlak vergisi değeri üzerinden (Binde 6,83) (Binde 5,4)
+13. a) (Değişik: 18/2/2009-5838/17 md.) Arsa ve arazi
+üzerine yeniden inşa olunacak bina vesair tesislerin tescilin-
+de (Her bir bağımsız bölüm vesair tesis için) (156,55 TL) 100 TL
+Bayındırlık ve İskan Bakanlığının görüşü alınarak Maliye Bakanlığınca tespit ve ilan edilmiş bulunan sosyal mesken, işçi evleri ve bunlardan daha düşük nitelikteki meskenlerin tescilinde
+(Her bir bağımsız bölüm için) (78,25 TL.) 50 TL
+Tapu siciline tescil yapılmaması halinde de bu harcın tahsili aynı esaslar dahilinde yürütülür.
+b) Meşfu payın şüf’a hakkı sahibi tarafından ila-
+ma müsteniden iktisabında, kayıtlı değer üzerinden (Binde 22,77) Binde 12
+c) (Değişik: 18/2/2009 - 5838/17 md.) (a) fıkrası dışında kalan her nevi cins ve kayıt tashihinde (her bir işlem için) (78,25 TL.) 50 TL
+14. (Değişik : 21/1/1982 - 2588/17 md.) Tapu Harcı mevzuuna giren işlemlerle ilgili tescil ve şerhlerin terkininden (16,90 TL.) 42.400 TL.
+15. Yapı kooperatiflerinin ortaklarına dağıtacağı gayrimenkullerin ortaklar adına tescilinde kayıtlı de-
+ğer üzerinden (Binde 2,27) Binde 1,2
+16. Gayrimenkullere ait haritaların kopyalarının
+verilmesinde her parsele ait kopya için (34,90 TL.) 84.800 TL.
+17.İlgililerin isteği üzerine gayrimenkullere ait verilecek kayıt örneklerinin her birisiyle çıkarılacak belge
+örneklerinin beher sayfasından (Fotokopiler dahil) (6,40 TL.) 17.600 TL.
+18. Taksim hakkının bertaraf edilmesinde bunun beyanlar hanesine işlenmesinde gayrimenkulün kayıtlı
+değeri üzerinden (Binde 11,38) Binde 6
+19. Muvazaa tarikiyle vaki tescillerin hükmen
+düzeltilmesinde kayıtlı değer üzerinden (Binde 136,62) Binde 72
+20. (Ek : 21/1/1982 - 2588/17 md.) (1)(2)(3)
+a) (Değişik : 4/12/1985 - 3239/96-B md.) Gayrimenkullerin ivaz karşılığında veya ölünceye kadar bakma akdine dayanarak yahut trampa hükümlerine göre devir ve iktisabında gayrimenkulün beyan edilen devir ve iktisap bedelinden az olmamak üzere emlak vergisi değeri üzerinden (cebrî icra ve şüyuun izalesi hallerinde satış
+bedeli, istimlaklerde takdir edilen bedel üzerinden)
+devir eden ve devir alan için ayrı ayrı, (Binde 20)(3) Binde10
 ——————————
-(1) 25/3/2009 tarihli ve 2009/14813 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle; “I-Tapu İşlemleri” başlıklı bölümün 20 numaralı fıkrasında sayılan tapu işlemleri üzerinden “binde 15” nispetinde alınan tapu harçları “binde 5” olarak değiştirilmiş ve metne işlenmiştir.
+(1)Bu bentte yeralan, “Binde 48” oranı, 22/7/1998 tarih ve 4369 sayılı Kanunun 78 inci maddesiyle, “Binde 10”olarak değiştirilmiş ve metne işlenmiştir.
 (2) Bu paragrafta bulunan “gayrimenkulün devir ve iktisap bedelinden” ibaresi 3/4/2002 tarihli ve 4751 sayılı Kanunla“gayrimenkulün beyan edilen devir ve iktisap bedelinden” olarak değiştirilmiş ve metne işlenmiştir.
-(3) Bu bentte yer alan, “Binde 48” oranı, 22/7/1998 tarih ve 4369 sayılı Kanunun 78 inci maddesiyle, “Binde 10”olarak değiştirilmiş ve metne işlenmiştir.
+(3) 20/9/2012 tarihli ve 2012/3735sayılı Bakanlar Kurulu Kararı Eki Kararın 6 ncı maddesiyle; bu fıkrada sayılan tapu işlemleri üzerinden “binde 16,5” nispetinde alınan tapu harçları “binde 20” olarak değiştirilmiş ve metne işlenmiştir.
 3936
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-b) Gayrimenkullerin irtifak haklarının ve gayrimenkul mükellefiyetinin sermaye şirketlerine sermaye olarak konulmasında ticaret mahkemesince tayin olunan değer üzerinden devir alan için ve gayrimenkul devir hallerinde devir eden için | (Binde 16,5) | Binde 15 (2)
-c) Gayrimenkul mükellefiyetinin tesis ve devir yoluyla iktisabında tesis ve devir için ödenen bedel üzerinden (Bu bedel muayyen zamanlarda bir şey yapmak veya vermekten ibaret olduğu takdirde mükellefiyet bedeli beher sene verilecek veya yapılacak şeylerin 20 misline eşit sayılır) devir alan için (1) | (Binde 16, 5) | Binde 10
-d) Gayrimenkul hükmündeki daimi ve müstakil hakların tesis ve devri için ödenen bedel üzerinden (Bu bedel, üzerinde hak tesis edilen gayrimenkulun emlak vergisi değerinin yarısından az, iki katından çok olamaz) devir alan için (1)(3) | (Binde 16,5) | Binde 10
-e) (Değişik: 18/2/2009-5838/17 md.) Gayrimenkul üzerine irtifak hakkı tesis ve devrinde (634 sayılı Kat Mülkiyeti Kanununa göre yapılan kat irtifakları hariç olmak üzere) tesis ve devir için ödenen bedel (Bu bedel, üzerinde hak tesis edilen gayrimenkulün emlak vergisi değerinin iki katından çok olamaz) üzerinden devir alan için | (Binde 16,5) | (Binde 15)
-f) İvaz karşılığında kuru mülkiyet iktisabında devir bedeli üzerinden devir eden ve devir alan için ayrı ayrı (1) | (Binde 16,5) | Binde 10
-g) (Ek: 21/11/2012-6361/51 md.) Satıp geri kiralama yöntemi ile gerçekleştirilen kiralama sözleşmeleri kapsamında kiracı tarafından sözleşme süresi sonunda geri alınmak kaydıyla kiralanan taşınmazların kiralayana satışı sırasında devredenden (Taşınmazın herhangi bir şekilde kiracı tarafından geri alınmamasının tespiti durumunda ilgililerden (a) bendindeki oran ile bu bentteki oran arasındaki farka tekabül eden harç tutarı 213 sayılı Kanun hükümlerine göre gecikme faizi ile birlikte alınır.) | Binde 3,96 | 
-Yukarıdaki (e) fıkrasında yer alan intifa hakkı ile (f) fıkrasında yer alan kuru mülkiyetin değerleri bu Kanunun 64 üncü maddesinin son fıkrasına göre hesaplanan miktarlardan düşük olamaz. |  | 
-II –Kadastro ve tapulama işlemleri: |  | 
-(Değişik : 4/12/1985 - 3239/96-B md). |  | 
-Kadastro ve tapulama işlemleri sonucunda tapu siciline tescil edilen bazı gayrimenkullerde kayıtlı değer üzerinden: |  | 
-a) Tapuda murisi veya kendisi adına kayıtlı olup da kadastroda beyanname verenlere, tapulamada tespitte hazır bulunanlara ait gayrimenkullerin kadastrolanmasında veya tapulamasında, | (Binde 5,94) | Binde 3,6
-b) Tapuda murisi veya kendisi adına kayıtlı olup da kadastroda beyanname vermeyenlere, tapulamada tespitte hazır bulunmayanlara ait gayrimenkullerin kadastrolanması veya tapulanmasında, | (Binde 9,9) | Binde 6
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+Tapuda kaydı bulunmayan gayrimenkullerin, zilyetlik devir sözleşmeleri ile devrinde de bu fıkra hükümleri uygulanır.Hesaplanacak harç, zilyetlik devir sözleşmeleri yapılmadan önce, şekli ve muhtevası Maliye ve Gümrük Bakanlığınca tespit edilecek bir beyanname ile bildirilir ve beyanname verme süresi içinde ödenir.
+b) Gayrimenkullerin irtifak haklarının ve gayrimenkul mükellefiyetinin sermaye şirketlerine sermaye olarak konulmasında ticaret mahkemesince tayin olunan değer üzerinden devir alan için ve gayrimenkul devir hallerinde devir eden için (Binde 20) Binde 15 (2)
+c)Gayrimenkul mükellefiyetinin tesis ve devir yoluyla iktisabında tesis ve devir için ödenen bedel üzerinden (Bu bedel muayyen zamanlarda bir şey yapmak veya vermekten ibaret olduğu takdirde mükellefiyet bedeli beher sene verilecek veya yapılacak şeylerin 20 misline eşit sayılır) devir alan için (1) (Binde 20) Binde 10
+d) Gayrimenkul hükmündeki daimi ve müstakil hakların tesis ve devri için ödenen bedel üzerinden (Bu bedel, üzerinde hak tesis edilen gayrimenkulun emlak vergisi değerinin yarısından az, iki katından çok olamaz) devir alan için (1)(3) (Binde 20) Binde 10
+e) (Değişik: 18/2/2009-5838/17 md.)Gayrimenkul üzerine irtifak hakkı tesis ve devrinde (634 sayılı Kat Mülkiyeti Kanununa göre yapılan kat irtifakları hariç olmak üzere) tesis ve devir için ödenen bedel (Bu bedel, üzerinde hak tesis edilen gayrimenkulün emlak vergisi değerinin iki katından çok olamaz) üzerinden devir alan için (Binde 20) (Binde 15)
+f) İvaz karşılığında kuru mülkiyet iktisabında devir
+bedeli üzerinden devir eden ve devir alan için ayrı ayrı (1) (Binde 20) Binde 10
+g) (Ek: 21/11/2012-6361/51 md.) Satıp geri kiralama yöntemi ile gerçekleştirilen kiralama sözleşmeleri kapsamında kiracı tarafından sözleşme süresi sonunda geri alınmak kaydıyla kiralanan taşınmazların kiralayana satışı sırasında devredenden (Taşınmazın herhangi bir şekilde kiracı tarafından geri alınmamasının tespiti durumunda ilgililerden (a) bendindeki oran ile bu bentteki oran arasındaki farka tekabül eden harç tutarı 213 sayılı Kanun hükümlerine göre gecikme faizi ile birlikte alınır.) (Binde 4,55) Binde 3,96
+Yukarıdaki (e) fıkrasında yer alan intifa hakkı ile (f) fıkrasında yer alan kuru mülkiyetin değerleri bu Kanunun 64 üncü maddesinin son fıkrasına göre hesaplanan miktarlardan düşük olamaz.
+II –Kadastro ve tapulama işlemleri:
+(Değişik : 4/12/1985 - 3239/96-B md).
+Kadastro ve tapulama işlemleri sonucunda tapu siciline
+tescil edilen bazı gayrimenkullerde kayıtlı değer üzerinden:
+a)Tapuda murisi veya kendisi adına kayıtlı olup da kadastroda beyanname verenlere, tapulamada tespitte hazır bulunanlara ait gayrimenkullerin kadastrolanma-
+sında veya tapulamasında, (Binde 6,83) Binde 3,6
+b)Tapuda murisi veya kendisi adına kayıtlı olup da kadastroda beyanname vermeyenlere, tapulamada tespitte hazır bulunmayanlara ait gayrimenkullerin kadastrolanması veya tapulanmasında, (Binde 11,38) Binde 6
 ——————————
-(1) Bu bentte yer alan, “Binde 48” oranı, 22/7/1998 tarih ve 4369 sayılı Kanunun 78 inci maddesiyle, “Binde 10”olarak değiştirilmiş ve metne işlenmiştir.
+(1)Bu bentte yeralan, “Binde 48” oranı, 22/7/1998 tarih ve 4369 sayılı Kanunun 78 inci maddesiyle, “Binde 10”olarak değiştirilmiş ve metne işlenmiştir.
 (2)Bu bentte yer alan, "Binde 36" ibaresi, 9/4/2003 tarihli ve 4842 sayılı Kanunun 36 ncı maddesiyle, "Binde 15" olarak değiştirilmiş ve metne işlenmiştir.
 (3) 28/3/2007 tarihli ve 5615 sayılı Kanunun 16 ncı maddesiyle; bu bentte yer alan (Bu bedel, bunların ayrı kayıtlı değerleri mevcut ise bu değerden, mevcut değilse üzerlerinde bu hakların tesis edildiği gayrimenkullerin emlak vergisi değerinin yarısından aşağı olamaz) şeklindeki parantez içi hüküm "(Bu bedel, üzerinde hak tesis edilen gayrimenkulun emlak vergisi değerinin yarısından az, iki katından çok olamaz)" şeklinde değiştirilmiş ve metne işlenmiştir.
 3937
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-c) Aslen senetsiz gayrimenkullerin zilyedi adına kadastrolanması veya tapulanmasında, beyanname verenler ile tespitte hazır bulunanlardan, | (Binde 7,92) | Binde 4,8
-d) Aslen senetsiz gayrimenkullerin zilyedi adına kadastrolanması veya tapulanmasında, beyanname vermeyenler ile tespitte hazır bulunmayanlardan, | (Binde 11,88) | Binde 7,2
-(Ek hüküm: 25/12/2003 - 5035/36 md.) Kadastro işlemlerinin yenilenmesinden harç alınmaz. |  | 
-(Yukarıdaki fıkralar gereğince ödenecek harç miktarı her parsel için 35.600 (12,15 TL.) liradan aşağı olamaz.) |  | 
-Tapu ve kadastro işlemlerinde de nispî harçların en az miktarı 35.600 (12,15 TL.) liradır. |  | 
-(Ek hüküm: 4/12/1985 - 3239/96-B md.; Mülga: 18/2/2009 – 5838/32 md.) |  | 
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+c) Aslen senetsiz gayrimenkullerin zilyedi adına kadastrolanması veya tapulanmasında, beyanname ve-
+renler ile tespitte hazır bulunanlardan, (Binde 9,10) Binde 4,8
+d)Aslen senetsiz gayrimenkullerin zilyedi adına kadastrolanması veya tapulanmasında, beyanname ver-
+meyenler ile tespitte hazır bulunmayanlardan, (Binde 13,66) Binde 7,2
+(Ek hüküm: 25/12/2003 - 5035/36 md.)Kadastro işlemlerinin yenilenmesinden harç alınmaz.
+(Yukarıdaki fıkralar gereğince ödenecek harç miktarı her parsel için 35.600 (12,15 TL.) liradan aşağı olamaz.)
+Tapu ve kadastro işlemlerinde de nispî harçların en az miktarı 35.600 (12,15 TL.) liradır.
+(Ek hüküm: 4/12/1985 - 3239/96-B md.; Mülga: 18/2/2009 – 5838/32 md.)
 (5) SAYILI TARİFE (1)(2)
 (Değişik : 21/11/1980 - 2345/2 md.)
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-Konsolosluk harçları: |  | 
-I –Değer üzerinden alınacak harçlar: |  | 
-1. Tereke işlerinde: |  | 
-a) Terekenin tahrir, tesbit, idare ve tasfiyesinden | (Binde 19,8) | Binde 6
-b) Tereke, mahallin memurları tarafından tahrir, tespit, idare ve tasfiye olunduğu takdirde konsoloslukça yapılan murakabeden | (Binde 9,9) | Binde 6
-2.Sulhnameler: |  | 
-(Kararda yazılı değer üzerinden ): |  | 
-a) 50.000 (0,05 TL.) liraya kadar olan kısmından (50.000 (0,05 TL.) dahil) | (Binde 39,6) | Binde 24
-b)50.000 (0,05 TL.) liradan sonra gelen kısmından ilaveten | (Binde 9,9) | Binde 6
-3. Kıymetli eşyanın tesliminde: |  | 
-Yurt dışında konsolosluklara ve büyükelçiliklere emaneten bırakılan kıymetli eşyanın ilgililere tesliminde | (Binde 5,94) | Binde 3,6
-4. Türkiye’ye ihraç edilecek mallardan listeleri konsolosluklarca tasdiki gerekenlerden | (Binde 1,98) | Binde 1,2
-II –Gemicilik işlerinde ton üzerinden alınacak harçlar: |  | 
-1. Gemilere konsolosluklarca verilecek bayrak şahadetnameleri: |  | 
-Beher rüsum tonilatosundan | (0,763 TL.) | 2.140 TL.
-2.Ticaret eşyası manifestolarının tasdikinde eşyanın beher gayrisafi tonundan | (0,395 TL.) | 1.034 TL.
-3.Sıhhiye patentası verilmesi veya vizesi, beher rüsum tonilatosundan | (0,395 TL.) | 1.034 TL.
+Konsolosluk harçları:
+I –Değer üzerinden alınacak harçlar:
+1. Tereke işlerinde:
+a) Terekenin tahrir, tesbit, idare ve tasfiyesinden (Binde 22,77) Binde 6
+b) Tereke, mahallin memurları tarafından tahrir, tespit, idare ve tasfiye olunduğu takdirde konsolos-
+lukça yapılan murakabeden (Binde 11,38) Binde 6
+2.Sulhnameler:
+(Kararda yazılı değer üzerinden :)
+a) 50.000 (0,05 TL.) liraya kadar olan kısmından (50.000 (0,05 TL.) dahil) (Binde 45,54) Binde 24
+b)50.000 (0,05 TL.) liradan sonra gelen kısmından ilaveten (Binde 11,38) Binde 6
+3. Kıymetli eşyanın tesliminde:
+Yurt dışında konsolosluklara ve büyükelçiliklere emaneten bırakılan kıymetli eşyanın ilgililere tesliminde (Binde 6,83) Binde 3,6
+4. Türkiye’ye ihraç edilecek mallardan listeleri
+konsolosluklarca tasdiki gerekenlerden (Binde 2,27) Binde 1,2
+II –Gemicilik işlerinde ton üzerinden alınacak harçlar:
+1. Gemilere konsolosluklarca verilecek bayrak şahadetnameleri:
+Beher rüsum tonilatosundan (0,877 TL.) 2.140 TL.
+2.Ticaret eşyası manifestolarının tasdikinde eş-
+yanın beher gayrisafi tonundan (0,454 TL.) 1.034 TL.
+3.Sıhhiye patentası verilmesi veya vizesi, beher
+rüsum tonilatosundan (0,454 TL.) 1.034 TL.
 ——————————
-(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 31/12/2011 tarihli ve 28159 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 65 Seri No’lu Tebliği ile 1/1/2012 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
-(2) Bu tarife uyarınca; Muvazzaf ve Fahri Konsolosluklarımızın yapacağı işlemlerden, 1/1/2012 tarihinden itibaren alacakları harç miktarında esas olacak döviz kuru 1 ABD Doları 1.80 TL olarak, emsal sayı tutarının ise 1,37 olarak uygulanacağı 31/12/2011 tarihli ve 28159 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 66 Seri No’lu Tebliğ ile hüküm altına alınmıştır.
+(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 1/1/2013 tarihli ve 28159 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 65 Seri No’lu Tebliği ile 1/1/2012 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
+(2) Bu tarife uyarınca; Muvazzaf ve Fahri Konsolosluklarımızın yapacağı işlemlerden, 1/1/2013 tarihinden itibaren alacakları harç miktarında esas olacak döviz kuru 1 ABD Doları 1.80 TL olarak, emsal sayı tutarının ise 1,19 olarak uygulanacağı 1/1/2013 tarihli ve 28515 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 70 Seri No’lu Tebliğ ile hüküm altına alınmıştır.
 .
 3938
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-III –Maktu harçlar: |  | 
-1. Gemi jurnalinin tasdiki: |  | 
-a)Jurnalin tasdiki | (66,35 TL.) | 183.400 TL.
-b) Jurnala sayfa ilavesi | (25,95 TL.) | 72.800 TL.
-2. Vizeye tabi olan yabancı hava ticaret ve gezinti gemilerinin vizeleri | ( 268,95 TL.) | 734.800 TL.
-3. İmza ve mühür tasdiki: a) (Değişik: 20/3/1981 - 2430/5 md.) Bulunulan yabancı memleketteki yerli makamlarla o memleketteki yabancı makamlar tarafından verilip Türk makamlarına veya Türk makamları tarafından verilip bulunulan yabancı memleketteki yerli ve yabancı makamlara ibraz edilecek olan yazılı kağıt ve suretlerdeki imza ve mühürlerin veya tasdike müteallik imza ve mühürlerin metne şamil olmamak üzere tasdiki (Fotokopiler dahil) | (25,95 TL.) | 72.800 TL.
-b) İmza ve mühürlerin metne şamil olmak üzere tasdiki (Fotokopiler dahil) | (52,65 TL.) | 146.000 TL.
-4. (Değişik : 20/3/1981 - 2430/5 md.)Yabancı memlekette usulüne uygun olarak yetkili makamlar tarafından tanzim olunan yazı, kağıt ve suretlerin o memlekette yürürlükte bulunan kanunlara uygun olduğunun tasdiki (Fotokopiler dahil) | (25,95 TL.) | 72.800 TL.
-5. İdari hususlara ait beyanname, ilmühaber, tutanaklar ve şerhler: |  | 
-a) Birinci sayfa için | (25,95 TL.) | 72.800 TL.
-b) Birinci sayfadan sonraki her sayfa için | (12,15 TL.) | 35.600 TL.
-6. Gerçek ve tüzelkişilerin isteği üzerine: |  | 
-a) Türk kanunlarının bir veya birkaç maddesinin aynının verilmesi (Beher sayfa için) | (43,90 TL.) | 121.600 TL.
-b) Bunların tercümesinin tasdiki (Beher sayfa için) | (89,10 TL.) | 244.800 TL.
-7. Terekenin mühürlenmesi | (66,35 TL.) | 183.400 TL.
-8. Bilirkişi tayini ve bilirkişi raporlarının tasdiki | (39,40TL.) | 109.200 TL.
-9. Bu tarife ile noter harçlarına ait (2) sayılı tarifede zikredilmeyen hukuk işlerine ait diğer yazılı kağıtlar ve kararlar | (25,95 TL.) | 72.800 TL.
-10. Bu tarifede sayılan yazılı kağıt ve işlemlerin konsoloshane haricinde düzenlenmesi ve icrasından asıl harca ilave olarak | (66,35 TL.) | 183.400 TL.
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+III –Maktu harçlar:
+1. Gemi jurnalinin tasdiki:
+a)Jurnalin tasdiki (76,30 TL.) 183.400 TL.
+b) Jurnala sayfa ilavesi (29,80 TL.) 72.800 TL.
+2. Vizeye tabi olan yabancı hava ticaret ve gezin-
+ti gemilerinin vizeleri (309,25 TL.) 734.800 TL.
+3. İmza ve mühür tasdiki: a) (Değişik: 20/3/1981 - 2430/5 md.)Bulunulan yabancı memleketteki yerli makamlarla o memleketteki yabancı makamlar tarafından verilip Türk makamlarına veya Türk makamları tarafından verilip bulunulan yabancı memleketteki yerli ve yabancı makamlara ibraz edilecek olan yazılı kağıt ve suretlerdeki imza ve mühürlerin veya tasdike müteallik imza ve mühürlerin metne şamil olmamak üzere tasdiki (Fotokopiler dahil) (29,80 TL.) 72.800 TL.
+b) İmza ve mühürlerin metne şamil olmak üzere
+tasdiki (Fotokopiler dahil) (60,50 TL.) 146.000 TL.
+4. (Değişik : 20/3/1981 - 2430/5 md.)Yabancı memlekette usulüne uygun olarak yetkili makamlar tarafından tanzim olunan yazı, kağıt ve suretlerin o memlekette yürürlükte bulunan kanunlara uygun olduğunun tasdiki (Fotokopiler dahil) (29,80 TL.) 72.800 TL.
+5. İdari hususlara ait beyanname, ilmühaber, tuta-
+naklar ve şerhler:
+a) Birinci sayfa için (29,80 TL.) 72.800 TL.
+b) Birinci sayfadan sonraki her sayfa için (13,95 TL.) 35.600 TL.
+6. Gerçek ve tüzelkişilerin isteği üzerine:
+a) Türk kanunlarının bir veya birkaç maddesinin
+aynının verilmesi (Beher sayfa için) (50,45 TL.) 121.600 TL.
+b) Bunların tercümesinin tasdiki (Beher sayfa
+için) (102,45 TL.) 244.800 TL.
+7. Terekenin mühürlenmesi (76,30 TL.) 183.400 TL.
+8. Bilirkişi tayini ve bilirkişi raporlarının tasdiki (45,30TL.) 109.200 TL.
+9. Bu tarife ile noter harçlarına ait (2) sayılı tarifede zikredilmeyen hukuk işlerine ait diğer yazılı kağıt-
+lar ve kararlar (29,80 TL.) 72.800 TL.
+10. Bu tarifede sayılan yazılı kağıt ve işlemlerin konsoloshane haricinde düzenlenmesi ve icrasından
+asıl harca ilave olarak (76,30 TL.) 183.400 TL.
 (6) SAYILI TARİFE (1)(3)
 (Değişik : 10/4/1985 – 3180/3 md.)
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-Pasaport, vize, ikamet tezkeresi, Dışişleri Bakanlığı tasdik harçları ve yabancılara verilecek çalışma izin belgesi harçları: (2) |  | 
-I–Pasaport Harçları: |  | 
-1. Umuma mahsus münferit ve müşterek pasaportlar: |  | 
-(Konsolosluklarca verilen pasaportlar dahil) |  | 
-6 aya kadar olanlar | (80,50 TL.) | 214.000 TL.
-1 yıl için olanlar | (117,60 TL.) | 305.200 TL.
+Pasaport, vize, ikamet tezkeresi, Dışişleri Bakanlığı tasdik harçları ve yabancılara verilecek çalışma izin belgesi harçları: (2)
+I–Pasaport Harçları:
+1. Umuma mahsus münferit ve müşterek pasaportlar:
+(Konsolosluklarca verilen pasaportlar dahil)
+6 aya kadar olanlar (92,55 TL.) 214.000 TL.
+1 yıl için olanlar (135,20 TL.) 305.200 TL.
 ——————————
-(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 31/12/2011 tarihli ve 28159 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 65 Seri No’lu Tebliği ile 1/1/2012 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
+(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 1/1/2013 tarihli ve 28515 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 69 Seri No’lu Tebliği ile 1/1/2013 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
 (2) Bu başlık, “Pasaport, vize, ikamet tezkeresi ve Dışişleri Bakanlığı tasdik harçları:” iken, 27/2/2003 tarihli ve 4817 sayılı Kanunla metne işlendiği şekilde değiştirilmiştir.
-(3) Maliye Bakanlığının 31/12/2011 tarihli 28159 sayılı Resmi Gazete’de yayımlanan 66 Seri No’lu Tebliğ ile; bu tarife uyarınca; Muvazzaf ve Fahri Konsolosluklarımızın yapacağı işlemlerden, 1/1/2012 tarihinden itibaren alacakları harç miktarında esas olacak döviz kuru 1 ABD Doları 1.80 TL , I- Pasaport Harçları” başlıklı bölümünün (1) numaralı fıkrasında yer alan pasaport harcı miktarları için emsal sayı 0,80, (6) numaralı tarifede yer diğer miktarlar için 0,39 olarak belirlenmiştir.
+(3) Maliye Bakanlığının 1/1/2013 tarihli 28515 sayılı Resmi Gazete’de yayımlanan 70 Seri No’lu Tebliğ ile; bu tarife uyarınca; Muvazzaf ve Fahri Konsolosluklarımızın yapacağı işlemlerden, 1/1/2013 tarihinden itibaren alacakları harç miktarında esas olacak döviz kuru 1 ABD Doları 1.80 TL , I- Pasaport Harçları” başlıklı bölümünün (1) numaralı fıkrasında yer alan pasaport harcı miktarları için emsal sayı 0,95, (6) numaralı tarifede yer diğer miktarlar için 0,34 olarak belirlenmiştir.
 3939
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-2 yıl için olanlar | (191,90 TL.) | 514.400 TL.
-3 yıl için olanlar | (272,40 TL.) | 734.800 TL.
-3 yıldan fazla süreli olanlar | (383,85 TL.) | 1.041.000 TL.
-Umuma mahsus münferit ve müşterek pasaportlarda pasaportta kayıtlı her kişi için ayrı ayrı harç alınır. Refakatte kayıtlı 7 yaşından küçük çocuklardan harç alınmaz. |  | 
-Süre uzatımları da aynı miktarda harca tabidir. |  | 
-2. 5682 sayılı Pasaport Kanununun 18 inci maddesinde yer alan yabancılara mahsus damgalı pasaportlardan da 1 numaralı fıkradaki esaslara göre, umuma mahsus münferit ve müşterek pasaportlardan alınan harçlar aynen alınır. |  | 
-3. Muteberlik müddeti sona eren pasaportların konsolosluklarca süre uzatımı, bu pasaportların sürelerinin bitimi tarihinden itibaren ceza alınmaksızın yapılır. |  | 
-II – Vize müracaat ve vize harçları(1) |  | 
-1. Giriş vizeleri: |  | 
-a) Tek giriş | (268,40 TL.) | 367.000 TL.
-b) Müteaddit giriş | (898,70 TL.) | 1.225.600 TL.
-2. Transit vizeleri: | (268,40 TL.) | 367.000 TL.
-a) Tek transit | (538,40 TL.) | 734.800 TL.
-b) Çift transit |  | 
-(Müşterek pasaportlarda her şahıs için 1 ve 2 nci fıkralarda gösterilen harçlar aynen alınır.) |  | 
-(Değişik hüküm: 25/12/2003 - 5035/37 md.) Hangi ülke vatandaşlarından vize müracaat harcı, hangi ülke vatandaşlarından vize harcı alınması gerektiği ile harç tutarlarının tespitine mütekabiliyet esası göz önünde tutularak Dışişleri Bakanlığı yetkilidir. |  | 
-3. Yabancıların Türkiye’den çıkışlarında istekleri üzerine verilecek münferit pasaportlara ait dönüş vizeleri | (448,50 TL.) | 612.200 TL.
-III – Yabancılara verilecek ikamet tezkeresi ve Dışişleri Bakanlığı tasdik harçları: |  | 
-1- (Değişik: 25/12/2003-5035/37 md.) İkamet tezkeresi: |  | 
-1 aya kadar her gün için | (10,20 TL.) | (5.000.000 TL.)
-(Bu tutar ilk ay için tezkere başına 10 milyondan (18,95 TL.) az 50 (96,35 TL.) milyondan çok olamaz.) |  | 
-1 aydan sonraki her ay için | (64,05 TL.) | (30.000.000 TL.)
-İlk aydan sonraki aylara ait harcın hesabında ay kesirleri tam ay olarak dikkate alınır. |  | 
-2. Dışişleri Bakanlığı tasdik harçları | (156,05 TL.) | 214.000 TL.
-(Ek Cümleler: 28/12/2001-4731/6 md.) (İkamet tezkeresinin alınmaması veya süresinin uzatılmaması, aşılan sürenin kapsadığı tarife itibarıyla hesaplanacak harcın tahsilini engellemez. Bu suretle hesaplanan harç, ceza ve gecikme faizi uygulanmaksızın bir kat fazlası ile tahsil edilir. (Ek Cümle: 12/6/2002-4761/7 md.) İkamet tezkeresi harçlarının tespitine, mütekabiliyet esası göz önünde tutularak, Maliye Bakanlığı yetkilidir. |  | 
-IV- (Ek: 27/2/2003-4817/34 md.) |  | 
-Yabancılara Verilecek Çalışma İzin Belgeleri: |  | 
-1. Süreli Çalışma İzin Belgesi: |  | 
-a) 1 yıla kadar (1 yıl dahil) | (137,65 TL.) | 50 000 000.- TL
-b) 3 yıla kadar (3 yıl dahil) | (41420 TL.) | 150 000 000.- TL
-Süre uzatımları da aynı miktarda harca tabidir. |  | 
-2. Süresiz Çalışma İzin Belgesi : | (690,90 TL.) | 250 000 000.- TL
-3. Bağımsız Çalışma İzin Belgesi : | (1.382,75 TL.) | 500 000 000.- TL
-Çalışma izin belgesi harçlarının tespitine, karşılıklılık ilkesi esası göz önünde tutularak Dışişleri Bakanlığı yetkilidir. |  | 
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+2 yıl için olanlar (220,65 TL.) 514.400 TL.
+3 yıl için olanlar (313,25 TL.) 734.800 TL.
+3 yıldan fazla süreli olanlar (441,40 TL.) 1.041.000 TL.
+Umuma mahsus münferit ve müşterek pasaportlarda pasaportta kayıtlı her kişi için ayrı ayrı harç alınır. Refakatte kayıtlı 7 yaşından küçük çocuklardan harç alınmaz.
+Süre uzatımları da aynı miktarda harca tabidir.
+2. 5682 sayılı Pasaport Kanununun 18 inci maddesinde yer alan yabancılara mahsus damgalı pasaportlardan da 1 numaralı fıkradaki esaslara göre, umuma mahsus münferit ve müşterek pasaportlardan alınan harçlar aynen alınır.
+3. Muteberlik müddeti sona eren pasaportların konsolosluklarca süre uzatımı, bu pasaportların sürelerinin bitimi tarihinden itibaren ceza alınmaksızın yapılır.
+II – Vize müracaat ve vize harçları(1)
+1. Giriş vizeleri:
+a) Tek giriş (308,65 TL.) 367.000 TL.
+b) Müteaddit giriş (1.033,50 TL.) 1.225.600 TL.
+2. Transit vizeleri:
+a) Tek transit (308,65 TL.) 367.000 TL.
+b) Çift transit (619,15 TL.) 734.800 TL.
+(Müşterek pasaportlarda her şahıs için 1 ve 2 nci fıkralarda gösterilen harçlar aynen alınır.)
+(Değişik hüküm: 25/12/2003 - 5035/37 md.) Hangi ülke vatandaşlarından vize müracaat harcı, hangi ülke vatandaşlarından vize harcı alınması gerektiği ile harç tutarlarının tespitine mütekabiliyet esası göz önünde tutularak Dışişleri Bakanlığı yetkilidir.
+3. Yabancıların Türkiye’den çıkışlarında istekleri üzerine
+verilecek münferit pasaportlara ait dönüş vizeleri (515,75 TL.) 612.200 TL.
+III – Yabancılara verilecek ikamet tezkeresi ve Dışişleri
+Bakanlığı tasdik harçları:
+1- (Değişik: 25/12/2003-5035/37 md.) İkamet tezkeresi:
+1 aya kadar her gün için (11,70 TL.) (5.000.000 TL.)
+(Bu tutar ilk ay için tezkere başına 10 milyondan (21,75 TL.)
+az 50 (110,80 TL.) milyondan çok olamaz.)
+1 aydan sonraki her ay için (73,65 TL.) (30.000.000 TL.)
+İlk aydan sonraki aylara ait harcın hesabında ay kesirleri tam ay olarak dikkate alınır.
+2. Dışişleri Bakanlığı tasdik harçları (179,45 TL.) 214.000 TL.
+(Ek Cümleler: 28/12/2001-4731/6 md.)
+(İkamet tezkeresinin alınmaması veya süresinin uzatılmaması,
+aşılan sürenin kapsadığı tarife itibarıyla hesaplanacak harcın
+tahsilini engellemez. Bu suretle hesaplanan harç, ceza ve gecikme
+faizi uygulanmaksızın bir kat fazlası ile tahsil edilir. (Ek Cümle:
+12/6/2002-4761/7 md.) İkamet tezkeresi harçlarının tespitine,
+mütekabiliyet esası göz önünde tutularak,Maliye Bakanlığı yetkilidir.
+IV- (Ek: 27/2/2003-4817/34 md.)
+Yabancılara Verilecek Çalışma İzin Belgeleri:
+1. Süreli Çalışma İzin Belgesi:
+a) 1 yıla kadar (1 yıl dahil) (158,25 TL.) 50 000 000.- TL
+b) 3 yıla kadar (3 yıl dahil) (476,30 TL.) 150 000 000.- TL
+Süre uzatımları da aynı miktarda harca tabidir.
+2. Süresiz Çalışma İzin Belgesi : (794,50 TL.) 250 000 000.- TL
+3. Bağımsız Çalışma İzin Belgesi : (1.590,15 TL.) 500 000 000.- TL
+Çalışma izin belgesi harçlarının tespitine, karşılıklılık
+ilkesi esası göz önünde tutularak Dışişleri Bakanlığı yetkilidir.
 ––––––––––––
 (1) Bu başlık “II- Vize harçları” iken, 25/12/2003 tarihli ve 5035 sayılı Kanunun 37 nci maddesiyle “II- Vize müracaat ve vize harçları” olarak değiştirilmiş ve metne işlenmiştir.
 3940
+Uygulanan Kanunla Getirilen
+Miktar Miktar
 (7) SAYILI TARİFE (1)(2)
 (Değişik : 21/11/1980 - 2345/2 md.)
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-Gemi ve Liman Harçları |  | 
-I – Gemi sicil işlemleri : |  | 
-1. Gemi tasdiknameleri, beher rüsum tonilatosundan | (0,163 TL.) | 424 TL.
-(367.000 (133,70 TL.) liradan az, 1.335.500.000 (8.899,40 TL.) liradan çok olamaz.) |  | 
-2. Gemi siciline kayıtlı gemilerin ivaz karşılığında temlikinde veya muvazaa yoluyla yapılan tescillerin düzeltilmesinde satış veya muvazaa belgelerin de yazılı bedel üzerinden | (Binde 19,8) | Binde 12
-(Belge mevcut olmaması veya belgede bedeli yazılı bulunmaması veya rayiç bedelden küçük olması hallerinde emsal bedeli üzerinden harç alınır. Aile tesisleri, trampa, iktisabi zaman aşımı tescilleri de bu esasa tabidir.) |  | 
-3. Sicilde kayıtlı gemilerin, ölünceye kadar bakma akdi ile temlikinde, emsal bedeli üzerinden | (Binde 4,95) | Binde 3
-4. Gemi sicilinde kayıtlı gemiler üzerine ivaz karşılığında mukavele ile intifa hakkı tesisinde, bedeli üzerinden | (Binde 4,95) | Binde 3
-5. Gemi siciline kayıtlı gemiler üzerinde tesis olunacak ipoteklerden sağlanan borç miktarı üzerinden | (Onbinde 9,9) | Binde 0,6
-6. Kira mukavelelerinin gemi siciline şerhinde mukavelede şart koşulan kira bedeli toplamı üzerinden | (Onbinde 9,9) | Binde 0,6
-7. Harç mevzuuna giren işlemlerin terkininden (Tescilinde alınan harç miktarını aşamaz) | (12,15 TL.) | 35.600 TL.
-8. Gemi sicilinde yapılan kayıt düzeltmelerinden beher rüsum tonilatosundan 35.600 (12,15 TL.) liradan az 612.200 (224,00 TL.) liradan çok olamaz.) | (0,163 TL.) | 424 TL.
-9. İstek üzerine verilen ve gemi siciline atıf yapılmış olan belge suretleri ile sicil kayıt suretlerinden (Fotokopiler dahil) | (5,60 TL.) | 17.600 TL.
-II – Liman işlemleri: (2) |  | 
-1. Denize elverişlilik belgesi: |  | 
-En az 121.600 (43,90 TL.) lira maktu harca ilave olunarak aşağıdaki tarifeye göre harç alınır: |  | 
-İlk 150 tonilato için beher rüsum tonilatosundan | (0,503TL.) | 1.400 TL.
-Sonra gelen 350 tonilato için beher rüsum tonilatosundan | (0,271 TL.) | 792 TL.
-500 tonilatodan yukarı beher rüsum tonilatosundan (Harç tutarı 3.677.400 (1.349,05 TL.) liradan çok olamaz.) | (0,136 TL.) | 294 TL.
-2. Ölçme belgesi: |  | 
-En az 244.800 (89,10 TL.) lira maktu harca ilave olarak aşağıdaki tarifeye göre harç alınır: |  | 
-İlk 150 tonilato için beher rüsum tonilatosundan | (0,667 TL.) | 1.834 TL.
-Sonra gelen 350 tonilato için beher rüsum tonilatosundan | (0,667 TL.) | 1.834 TL.
-Sonra gelen 2.500 tonilato için beher rüsum tonilatosundan | (0,503 TL.) | 1.400 TL.
-3.000 tonilatosundan yukarısı için beher rüsum tonilatodan (Harç tutarı 9.807.800 (3.559,15 TL.) liradan çok olamaz.) | (0,271 TL.) | 792 TL.
-3. Yola elverişlilik belgesi: |  | 
-Aşağıdaki tarifeye göre harç alınır: |  | 
-11-150 rüsum tonilatoluk gemilerden | (25,95 TL.) | 72.800 TL.
-151-500 rüsum tonilatoluk gemilerden | (43,90 TL.) | 121.600 TL.
-501-3.000 rüsum tonilatoluk gemilerden | (89,10 TL.) | 244.800 TL.
-3.000 rüsum tonilatodan yukarı gemilerden | (111,30 TL.) | 305.200 TL.
-10 rüsum tonilatoya kadar olan gemiler harçtan muaftır. |  | 
+Gemi ve Liman Harçları
+I – Gemi sicil işlemleri :
+1. Gemi tasdiknameleri, beher rüsum tonilatosundan (0,187 TL.) 424 TL.
+(367.000 (153,75 TL.) liradan az, 1.335.500.000
+(10.349,30 TL.) liradan çok olamaz.)
+2. Gemi siciline kayıtlı gemilerin ivaz karşılığında temlikinde veya
+muvazaa yoluyla yapılan tescillerin düzeltilmesinde satış veya muvazaa
+belgelerin de yazılı bedel üzerinden (Binde 22,77) Binde 12
+(Belge mevcut olmaması veya belgede bedeli yazılı bulunmaması veya
+rayiç bedelden küçük olması hallerinde emsal bedeli üzerinden harç alınır. Aile
+tesisleri, trampa, iktisabi zaman aşımı tescilleri de bu esasa tabidir.)
+3. Sicilde kayıtlı gemilerin, ölünceye kadar bak-
+ma akdi ile temlikinde, emsal bedeli üzerinden (Binde 5,69) Binde 3
+4. Gemi sicilinde kayıtlı gemiler üzerine ivaz karşılığında mukavele
+ile intifa hakkı tesisinde, bedeli üzerinden (Binde 5,69) Binde 3
+5. Gemi siciline kayıtlı gemiler üzerinde tesis olu-
+nacak ipoteklerden sağlanan borç miktarı üzerinden (Onbinde 11,38) Binde 0,6
+6. Kira mukavelelerinin gemi siciline şerhinde mu-
+kavelede şart koşulan kira bedeli toplamı üzerinden (Onbinde 11,38) Binde 0,6
+7. Harç mevzuuna giren işlemlerin terkininden
+(Tescilinde alınan harç miktarını aşamaz) (13,95 TL.) 35.600 TL.
+8. Gemi sicilinde yapılan kayıt düzeltmelerinden beher rüsum
+tonilatosundan 35.600 (13,95 TL.) lira-
+dan az 612.200 (257,60 TL.) liradan çok olamaz.) (0,187 TL.) 424 TL.
+9. İstek üzerine verilen ve gemi siciline atıf yapılmış olan belge
+suretleri ile sicil kayıt suretlerinden (Fotokopiler dahil) (6,40 TL.) 17.600 TL.
+II – Liman işlemleri: (2)
+1. Denize elverişlilik belgesi:
+En az 121.600 (50,45 TL.) lira maktu harca ilave olunarak aşağıdaki tarifeye göre harç alınır:
+İlk 150 tonilato için beher rüsum tonilatosundan (0,578TL.) 1.400 TL.
+Sonra gelen 350 tonilato için beher rüsum tonila-tosundan (0,312 TL.) 792 TL.
+500 tonilatodan yukarı beher rüsum tonilatosundan
+(Harç tutarı 3.677.400 (1.551,40 TL.) liradan çok olamaz.) (0,156 TL.) 294 TL.
+2. Ölçme belgesi:
+En az 244.800 (102,45 TL.) lira maktu harca ilave olarak aşağıdaki tarifeye göre harç alınır:
+İlk 150 tonilato için beher rüsum tonilatosundan (0,767 TL.) 1.834 TL.
+Sonra gelen 350 tonilato için beher rüsum tonilatosundan (0,767 TL.) 1.834 TL.
+Sonra gelen 2.500 tonilato için beher rüsum tonilatosundan (0,578 TL.) 1.400 TL.
+3.000 tonilatosundan yukarısı için beher rüsum
+tonilatodan (Harç tutarı 9.807.800 (4.139,00 TL.) liradan
+çok olamaz.) (0,312 TL.) 792 TL.
+3. Yola elverişlilik belgesi:
+Aşağıdaki tarifeye göre harç alınır:
+11-150 rüsum tonilatoluk gemilerden (29,80 TL.) 72.800 TL.
+151-500 rüsum tonilatoluk gemilerden (50,45 TL.) 121.600 TL.
+501-3.000 rüsum tonilatoluk gemilerden (102,45 TL.) 244.800 TL.
+3.000 rüsum tonilatodan yukarı gemilerden (127,95 TL.) 305.200 TL.
+10 rüsum tonilatoya kadar olan gemiler harçtan muaftır.
 __________________________
-(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilen miktarlar aynen bırakılmış olup, 31/12/2011 tarihli ve 28159 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 65 Seri No’lu Tebliği ile 1/1/2012 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
-(2) Bu Tarifenin II. Bölümündeki miktarlar için; Muvazzaf ve Fahri Konsolosluklarımızın yapacağı işlemlerden, 1/1/2012 tarihinden itibaren alacakları harç miktarında esas olacak döviz kuru 1 ABD Doları 1.80 TL olarak belirlenmiş ve emsal sayının 1,11 olarak uygulanacağı, Maliye Bakanlığı’nın 31/12/2011 tarihli ve 28159 sayılı Resmi Gazete’de yayımlanan 66 Seri No’lu Tebliği ile hüküm altına alınmıştır.
+(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilen miktarlar aynen bırakılmış olup, 1/1/2013 tarihli ve 28515 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 69 Seri No’lu Tebliği ile 1/1/2013 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
+(2) Bu Tarifenin II. Bölümündeki miktarlar için; Muvazzaf ve Fahri Konsolosluklarımızın yapacağı işlemlerden, 1/1/2013 tarihinden itibaren alacakları harç miktarında esas olacak döviz kuru 1 ABD Doları 1.80 TL olarak belirlenmiş ve emsal sayının 0,96 olarak uygulanacağı, Maliye Bakanlığı’nın 1/1/2013 tarihli ve 28515 sayılı Resmi Gazete’de yayımlanan 70 Seri No’lu Tebliği ile hüküm altına alınmıştır.
 3941
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-4. Ulaştırma Bakanlığınca verilen bayrak şahadetnameleri, beher rüsum tonilatodan (183.400 (66,35 TL.) liradan az 6.129.600 (2.249,40 TL) liradan çok olamaz.) | (0,503 TL.) | 1.400 TL.
-5.Gemi jurnallarının liman idarelerinde tasdiki | (9,85 TL.) | 29.400 TL.
-6. (Değişik:25/12/2003-5035/38 md.) Yeterlik Belgesi Harçları: |  | 
-a) Uzakyol Kaptanı, Uzakyol Başmakinist/Başmühendisi, Uzakyol Birinci Zabiti, Uzakyol İkinci Mühendisi/Makinisti, Uzakyol Vardiya Zabiti, Uzakyol Vardiya Mühendisi/Makinisti, Liman Kılavuz Kaptanı, İstanbul Boğazı Kılavuz Kaptanı ve Çanakkale Boğazı Kılavuz Kaptanı | (66,35 TL.) | (31.100.000 TL.)
-b) Kaptan, Başmakinist ve Deniz Kılavuz Kaptanı | (43,90 TL.) | (20.600.000 TL.)
-c) Birinci Zabit, İkinci Makinist, Vardiya Zabiti, Telsiz Zabiti/Operatörü, Makine Zabiti, Yat Kaptanı, Balıkadam,1.Sınıf Dalgıç, 2.Sınıf Dalgıç, Balıkadam Gaz Karışım ve Açık Deniz Balıkçı Gemisi Kaptanı | (25,95 TL.) | (12.300.000 TL.)
-d) Sınırlı Kaptan, Sınırlı Başmakinist, Sınırlı Vardiya Zabiti,Sınırlı Makine Zabiti, Amatör Denizci ve Balıkçı Gemisi Kaptanı | (18,95 TL.) | (9.000.000 TL.)
-7. (Değişik:25/12/2003-5035/38 md.) Türk Denizci Kütüğüne kayıt suretlerinden (Fotokopiler dahil), Gemiadamı Cüzdanı, Gemiadamlarının Eğitim, Belgelendirme ve Vardiya Standartları Hakkında Uluslararası Sözleşme Kapsamında Verilen Eğitim Sertifikaları ve Kısa Mesafe Telsiz Belgeleri | (12,15 TL.) | (5.900.000 TL.)
-8. (Ek : 3/12/1988 - 3505/32 md.) Gemi sörvey belgeleri: |  | 
-a) Yolcu gemisi emniyet belgesi, yük gemisi teçhizat ve inşa emniyet belgesi, uluslararası yükleme sınırı belgesi, yük gemisi, telsiz-telefon emniyet belgesi, telsiz-telgraf emniyet belgesi, (Her bir belge için ayrı ayrı olmak üzere) |  | 
-En az 60.000 (21,15 TL.) lira maktu harca ilave olarak beher rüsum tonilatosundan | (0,040 TL.) | 176 TL.
-Her belgenin harç tutarı 612.200 (224,40 TL.) liradan çok olamaz. |  | 
-b) Muafiyet belgesi | (43,90 TL.) | 121.600 TL.
-(Yukarıdaki bölümde yazılı belgelerin konsolosluklarca yapılacak temdidi işleminden de aynı miktarda harç alınır.) |  | 
-9. (Ek: 30/12/2004-5281/10 md.) Özel yat kayıt belgesi: |  | 
-En az 27,00 (Yeni Türk Lirası maktu harca ilave olunarak aşağıdaki tarifeye (43,90 TL.) göre harç alınır: |  | 
-İlk 150 tonilato için beher rüsum tonilatosundan | (0,503 TL.) | (0,27 YTL)
-Sonra gelen 350 tonilato için beher rüsum tonilatosundan | (0,271 TL) | (0,15 YTL)
-500 tonilatodan yukarı beher rüsum tonilatosundan |  | 
-(Harç tutarı 824,90 (1.349,05 TL.)Yeni Türk Lirasından çok olamaz.) | (0,136 TL) | (0,06 YTL)
-10. (Ek: 30/12/2004-5281/10 md.) Transitlog belgesi: |  | 
-Aşağıdaki tarifeye göre harç alınır: |  | 
-11-100 rüsum tonilatoluk gemilerden | (9,30 TL) | (5,00 YTL)
-101-250 rüsum tonilatoluk gemilerden | (18,95 TL.) | (10,00 YTL)
-251-500 rüsum tonilatoluk gemilerden | (38,40 TL.) | (20,00 YTL)
-501-3.000 rüsum tonilatoluk gemilerden | (77,15 TL.) | (40,00 YTL)
-3.000 rüsum tonilatodan yukarı gemilerden | (96,35 TL.) | (50,00 YTL)
-10 rüsum tonilatoya kadar olan gemiler harçtan muaftır. |  | 
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+4. Ulaştırma Bakanlığınca verilen bayrak şahadetnameleri,
+beher rüsum tonilatodan (183.400 (76,30 TL.) liradan az 6.129.600
+(2.586,80 TL) liradan çok olamaz.) (0,578 TL.) 1.400 TL.
+5.Gemi jurnallarının liman idarelerinde tasdiki (11,30 TL.) 29.400 TL.
+6. (Değişik:25/12/2003-5035/38 md.) Yeterlik Belgesi Harçları:
+a) Uzakyol Kaptanı, Uzakyol Başmakinist/Başmühendisi,
+Uzakyol Birinci Zabiti, Uzakyol İkinci Mühendisi/Makinisti,
+Uzakyol Vardiya Zabiti, Uzakyol Vardiya Mühendisi/Makinisti,
+Liman Kılavuz Kaptanı, İstanbul Boğazı Kılavuz Kaptanı ve
+Çanakkale Boğazı Kılavuz Kaptanı (76,30 TL.) (31.100.000 TL.)
+b) Kaptan, Başmakinist ve Deniz Kılavuz Kaptanı (50,45 TL.) (20.600.000 TL.)
+c) Birinci Zabit, İkinci Makinist, Vardiya Zabiti, Telsiz Zabiti/
+Operatörü, Makine Zabiti, Yat Kaptanı, Balıkadam,
+1.Sınıf Dalgıç, 2.Sınıf Dalgıç, Balıkadam Gaz Karışım ve
+Açık Deniz Balıkçı Gemisi Kaptanı (29,80 TL.) (12.300.000 TL.)
+d) Sınırlı Kaptan, Sınırlı Başmakinist, Sınırlı Vardiya Zabiti,
+Sınırlı Makine Zabiti, Amatör Denizci ve Balıkçı Gemisi Kaptanı (21,75 TL.) (9.000.000 TL.)
+7. (Değişik:25/12/2003-5035/38 md.) Türk Denizci Kütüğüne
+kayıt suretlerinden (Fotokopiler dahil),
+Gemiadamı Cüzdanı, Gemiadamlarının Eğitim, Belgelendirme ve
+Vardiya Standartları Hakkında Uluslararası Sözleşme Kapsamında
+Verilen Eğitim Sertifikaları ve Kısa Mesafe Telsiz Belgeleri (13,95 TL.) (5.900.000 TL.)
+8. (Ek : 3/12/1988 - 3505/32 md.) Gemi sörvey belgeleri:
+a) Yolcu gemisi emniyet belgesi, yük gemisi teçhizat ve inşa emniyet
+belgesi, uluslararası yükleme sınırı belgesi, yük gemisi, telsiz-telefon
+emniyet belgesi, telsiz-telgraf emniyet belgesi, (Her bir belge için ayrı
+ayrı olmak üzere)
+En az 60.000 (24,30 TL.) lira maktu harca ilave olarak beher
+rüsum tonilatosundan (0,046 TL.) 176 TL.
+Her belgenin harç tutarı 612.200 (257,60 TL.) liradan çok
+olamaz.
+b) Muafiyet belgesi (50,45 TL.) 121.600 TL.
+(Yukarıdaki bölümde yazılı belgelerin konsolosluklarca
+yapılacak temdidi işleminden de aynı miktarda harç alınır.)
+9. (Ek: 30/12/2004-5281/10 md.) Özel yat kayıt belgesi:
+En az 27,00 (Yeni Türk Lirası maktu harca ilave olunarak
+aşağıdaki tarifeye (50,45 TL.) göre harç alınır:
+İlk 150 tonilato için beher rüsum tonilatosundan (0,578 TL.) (0,27 YTL)
+Sonra gelen 350 tonilato için beher rüsum tonilatosundan (0,312 TL) (0,15 YTL)
+500 tonilatodan yukarı beher rüsum tonilatosundan
+(Harç tutarı 824,90 (1.551,40 TL.)Yeni Türk Lirasından çok olamaz.) (0,156 TL) (0,06 YTL)
+10. (Ek: 30/12/2004-5281/10 md.) Transitlog belgesi:
+Aşağıdaki tarifeye göre harç alınır:
+11-100 rüsum tonilatoluk gemilerden (10,65 TL) (5,00 YTL)
+101-250 rüsum tonilatoluk gemilerden (21,75 TL.) (10,00 YTL)
+251-500 rüsum tonilatoluk gemilerden (44,15 TL.) (20,00 YTL)
+501-3.000 rüsum tonilatoluk gemilerden (88,70 TL.) (40,00 YTL)
+3.000 rüsum tonilatodan yukarı gemilerden (110,80 TL.) (50,00 YTL)
+10 rüsum tonilatoya kadar olan gemiler harçtan muaftır.
 (8) SAYILI TARİFE (1)
 (Değişik : 21/11/1980 - 2345/2 md.)
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-İmtiyazname, Ruhsatname ve Diploma Harçları |  | 
-I–İmalat ruhsatları: |  | 
-1. Müstahzar ruhsatnameleri: |  | 
-Tıbbi ve ispençiyari müstahzarların ticarete çıkarılması için Sağlık Bakanlığınca verilecek ruhsatnameler: |  | 
-a) Memleket dışında imal olunup ithal edilenler | (898,95 TL.) | 2.451.600 TL.
-b) Memleket içinde imal olunanlar | (448,95 TL. ) | 1.225.600 TL.
-c) Ruhsatname verilmeden önce yapılacak tahlillerden alınacak gider karşılığı: |  | 
-– Hariçten ithal edilenler | (448,95 TL.) | 1.225.600 TL.
-–Memleket içinde imal olunanlardan | (224,00 TL.) | 612.200 TL.
+İmtiyazname, Ruhsatname ve Diploma Harçları
+I–İmalat ruhsatları:
+1. Müstahzar ruhsatnameleri:
+Tıbbi ve ispençiyari müstahzarların ticarete çıkarılması için Sağlık Bakanlığınca verilecek ruhsatnameler:
+a) Memleket dışında imal olunup ithal edilenler (1.033,75 TL.) 2.451.600 TL.
+b) Memleket içinde imal olunanlar (516,25 TL. ) 1.225.600 TL.
+c) Ruhsatname verilmeden önce yapılacak tahlil
+lerden alınacak gider karşılığı:
+– Hariçten ithal edilenler (516,25 TL.) 1.225.600 TL.
+–Memleket içinde imal olunanlardan (257,60 TL.) 612.200 TL.
 __________________________
-(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 31/12/2011 tarihli ve 28159 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 65 Seri No’lu Tebliği ile 1/1/2012 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
+(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 1/1/2013 tarihli ve 28515 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 69 Seri No’lu Tebliği ile 1/1/2013 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
+(2) Bu Tarifedeki miktarlar için; Muvazzaf ve Fahri Konsolosluklarımızın yapacağı işlemlerden, 1/1/2013 tarihinden itibaren alacakları harç miktarında esas olacak döviz kuru 1 ABD Doları 1.80 TL olarak belirlenmiş ve emsal sayının 1,00 olarak uygulanacağı, Maliye Bakanlığı’nın 1/1/2013 tarihli ve 28515 sayılı Resmi Gazete’de yayımlanan 70 Seri No’lu Tebliği ile hüküm altına alınmıştır.
 3942
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-2. (Değişik: 16/7/2004-5228/37 md.) Patent ve faydalı modeller : |  | 
-a) Başvuru harcı | (15,15 TL.) | (7.300.000 TL.)
-b) Patent/faydalı model başvurularında rüçhan hakkı talepleri | (15,15 TL.) | (7.300.000 TL.)
-(Her bir rüçhan başvurusu ayrı harca tâbidir.) |  | 
-c) Patent ve faydalı model belge düzenleme harcı | (75,65 TL.) | (35.400.000 TL.)
-d) Ek patent belgesi düzenleme harcı | (75,65 TL.) | (35.400.000 TL.)
-e) Enstitüce onaylı patent ve faydalı model belgesi suret harcı | (75,65 TL.) | (35.400.000 TL.)
-f) Sınaî mülkiyet koruma harcı (İkinci yıldan sonra geçerlilik süresince her yıl tahsil edilir.) | (75,65 TL.) | (35.400.000 TL.)
-g) Patent/faydalı model başvuruları ve patent/faydalı model belgeleri üzerinde tasarruf işlemleri; |  | 
-- Devir | (75,65 TL.) | (35.400.000 TL.)
-- Veraset | (75,65 TL.) | (35.400.000 TL.)
-- Lisans | (86,70 TL.) | (40.400.000 TL.)
-- Rehin | (75,65 TL.) | (35.400.000 TL.)
-- Mevki fiil | (75,65 TL.) | (35.400.000 TL.)
-h) Rüçhan belgesi düzenleme harcı | (86,70 TL.) | (40.400.000 TL.)
-3. (Ek: 16/7/2004-5228/37 md.) Endüstriyel tasarımlar: |  | 
-a) Tekli tasarım başvuru harcı | (23,55 TL.) | (11.200.000 TL.)
-b) Çoklu tasarım (5'e kadar) başvuru harcı | (62,30 TL.) | (29.200.000 TL.)
-c) 6 ve fazlası her bir tasarım için başvuru harcı | (12,95 TL.) | (6.300.000 TL.)
-d) Tasarım tescil harcı | (24,95 TL.) | (11.800.000 TL.)
-e) Yenileme harcı (her bir yenilemede) | (148,65 TL.) | (69.300.000 TL.)
-f) Süre uzatımı ile yenileme |  | 
-(6'şar aylık her bir süre uzatımı ile yenileme) | (223,75 TL.) | (104.100.000 TL.)
-g) Devir şerhi tescil | (75,65 TL.) | (34.900.000 TL.)
-h) Lisans işlemi kayıt harcı | (148,65 TL.) | (69.300.000 TL.)
-ı) Veraset ve intikal işlemi harcı | (43,00 TL.) | (20.200.000 TL.)
-i) Birleşme kayıt harcı | (111,30 TL.) | (51.900.000 TL.)
-j) Rüçhan hakkı kayıt harcı | (86,70 TL.) | (40.400.000 TL.)
-k) Enstitüce onaylı tasarım tescil belgesi ve sicil sureti verilmesi | (24,95 TL.) | (11.800.000 TL.)
-l) Menşei memleket belgelerinden | (86,70 TL.) | (40.400.000 TL.)
-m) Endüstriyel tasarım erken inceleme harcı | (537,85 TL.) | (250.000.000 TL.)
-4. (Değişik: 16/7/2004-5228/37 md.) Markalar:(1) |  | 
-a) Marka başvuru harcı (ilk üç sınıf için) | (62,30 TL.) | (29.200.000 TL.)
-b) Marka başvuru harcı (ilk üç sınıftan sonraki her sınıf için ek olarak) | (62,30 TL.) | (29.200.000 TL.)
-c) Marka yenileme harcı | (161,90 TL.) | (75.400.000 TL.)
-d) Koruma süresi sona eren marka yenileme harcı | (215,85 TL.) | (100.500.000 TL.)
-e) Marka tescil belgesi düzenleme harcı | (131,20 TL.) | (61.200.000 TL.)
-f) Marka devir işlemi kayıt harcı | (120,25 TL.) | (56.100.000 TL.)
-g) Lisans kayıt ve yenileme harcı | (215,85 TL.) | (100.500.000 TL.)
-h) Veraset ve intikal işlemi kayıt harcı | (79,35 TL.) | (37.000.000 TL.)
-ı) Rehine işlemi kayıt harcı | (124,65 TL.) | (58.000.000 TL.)
-i) Rüçhan hakkı kayıt harcı | (86,70 TL.) | (40.400.000 TL.)
-j) Enstitüce onaylı marka sureti ve sicil sureti düzenleme harcı | (62,30 TL.) | (29.200.000 TL.)
-k) Öncelikli başvuru harcı | (1.007,15 TL.) | (468.000.000 TL.)
-l) Uluslararası başvuru harcı | (62,30 TL.) | (29.200.000 TL.)
-5. (Ek: 16/7/2004-5228/37 md.) Coğrafi işaretler: |  | 
-a) Başvuru harcı | (15,15 TL.) | (7.300.000 TL.)
-b) Coğrafi işaret tescil belgesi ve sicil kayıt harcı | (15,15 TL.) | (7.300.000 TL.)
-c) Enstitüce onaylı coğrafi işaret tescil belgesi ve sicil sureti düzenleme harcı | (15,15 TL.) | (7.300.000 TL.)
-6. (Ek: 16/7/2004-5228/37 md.) Marka ve patent vekillerinden: |  | 
-a) Sicil kayıt harcı | (215,85 TL.) | (100.500.000 TL.)
-b) Sicil yenileme harcı | (215,85 TL.) | (100.500.000 TL.)
-c) Marka ve patent vekilliği belge harcı | (215,85 TL.) | (100.500.000 TL.)
-II - İhraçatçı ruhsatnameleri ve ithalatla ilgili belgeler : (Mülga: 22/7/1998 - 4369/82 md.) |  | 
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+2. (Değişik: 16/7/2004-5228/37 md.) Patent ve faydalı modeller :
+a) Başvuru harcı (17,40 TL.) (7.300.000 TL.)
+b) Patent/faydalı model başvurularında rüçhan hakkı talepleri (17,40 TL.)
+(Her bir rüçhan başvurusu ayrı harca tâbidir.) (7.300.000 TL.)
+c) Patent ve faydalı model belge düzenleme harcı (86,95 TL.) (35.400.000 TL.)
+d) Ek patent belgesi düzenleme harcı (86,95 TL.) (35.400.000 TL.)
+e) Enstitüce onaylı patent ve faydalı model belgesi suret harcı (86,95 TL.) (35.400.000 TL.)
+f) Sınaî mülkiyet koruma harcı (İkinci yıldan sonra geçerlilik
+süresince her yıl tahsil edilir.) (86,95 TL.) (35.400.000 TL.)
+g) Patent/faydalı model başvuruları ve patent/faydalı model
+belgeleri üzerinde tasarruf işlemleri;
+- Devir (86,95 TL.) (35.400.000 TL.)
+- Veraset (86,95 TL.) (35.400.000 TL.)
+- Lisans (99,70 TL.) (40.400.000 TL.)
+- Rehin (86,95 TL.) (35.400.000 TL.)
+- Mevki fiil (86,95 TL.) (35.400.000 TL.)
+h) Rüçhan belgesi düzenleme harcı (99,70 TL.) (40.400.000 TL.)
+3. (Ek: 16/7/2004-5228/37 md.) Endüstriyel tasarımlar:
+a) Tekli tasarım başvuru harcı (27,05 TL.) (11.200.000 TL.)
+b) Çoklu tasarım (5'e kadar) başvuru harcı (71,60 TL.) (29.200.000 TL.)
+c) 6 ve fazlası her bir tasarım için başvuru harcı (14,85 TL.) (6.300.000 TL.)
+d) Tasarım tescil harcı (28,65 TL.) (11.800.000 TL.)
+e) Yenileme harcı (her bir yenilemede) (170,90 TL.) (69.300.000 TL.)
+f) Süre uzatımı ile yenileme
+(6'şar aylık her bir süre uzatımı ile yenileme) (257,30 TL.) (104.100.000 TL.)
+g) Devir şerhi tescil (86,95 TL.) (34.900.000 TL.)
+h) Lisans işlemi kayıt harcı (170,90 TL.) (69.300.000 TL.)
+ı) Veraset ve intikal işlemi harcı (49,45 TL.) (20.200.000 TL.)
+i) Birleşme kayıt harcı (127,95 TL.) (51.900.000 TL.)
+j) Rüçhan hakkı kayıt harcı (99,70 TL.) (40.400.000 TL.)
+k) Enstitüce onaylı tasarım tescil belgesi ve sicil sureti verilmesi (28,65 TL.) (11.800.000 TL.)
+l) Menşei memleket belgelerinden (99,70 TL.) (40.400.000 TL.)
+m) Endüstriyel tasarım erken inceleme harcı (618,50 TL.) (250.000.000 TL.)
+4. (Değişik: 16/7/2004-5228/37 md.) Markalar:(1)
+a) Marka başvuru harcı (ilk üç sınıf için) (71,60 TL.) (29.200.000 TL.)
+b) Marka başvuru harcı (ilk üç sınıftan sonraki her sınıf için
+ek olarak) (71,60 TL.) (29.200.000 TL.)
+c) Marka yenileme harcı (186,15 TL.) (75.400.000 TL.)
+d) Koruma süresi sona eren marka yenileme harcı (248,20 TL.) (100.500.000 TL.)
+e) Marka tescil belgesi düzenleme harcı (150,85 TL.) (61.200.000 TL.)
+f) Marka devir işlemi kayıt harcı (138,25 TL.) (56.100.000 TL.)
+g) Lisans kayıt ve yenileme harcı (248,20 TL.) (100.500.000 TL.)
+h) Veraset ve intikal işlemi kayıt harcı (91,25 TL.) (37.000.000 TL.)
+ı) Rehine işlemi kayıt harcı (143,30 TL.) (58.000.000 TL.)
+i) Rüçhan hakkı kayıt harcı (99,70 TL.) (40.400.000 TL.)
+j) Enstitüce onaylı marka sureti ve sicil sureti düzenleme harcı (71,60 TL.) (29.200.000 TL.)
+k) Öncelikli başvuru harcı (1.158,20 TL.) (468.000.000 TL.)
+l) Uluslararası başvuru harcı (71,60 TL.) (29.200.000 TL.)
+5. (Ek: 16/7/2004-5228/37 md.) Coğrafi işaretler:
+a) Başvuru harcı (17,40 TL.) (7.300.000 TL.)
+b) Coğrafi işaret tescil belgesi ve sicil kayıt harcı (17,40 TL.) (7.300.000 TL.)
+c) Enstitüce onaylı coğrafi işaret tescil belgesi ve sicil sureti
+düzenleme harcı (17,40 TL.) (7.300.000 TL.)
+6. (Ek: 16/7/2004-5228/37 md.) Marka ve patent vekillerinden:
+a) Sicil kayıt harcı (248,20 TL.) (100.500.000 TL.)
+b) Sicil yenileme harcı (248,20 TL.) (100.500.000 TL.)
+c) Marka ve patent vekilliği belge harcı (248,20 TL.) (100.500.000 TL.)
+II - İhraçatçı ruhsatnameleri ve ithalatla ilgili belgeler : (Mülga: 22/7/1998 - 4369/82 md.)
 ______________________
 (1) 16/7/2004 tarihli ve 5228 sayılı Kanunun 37 nci maddesiyle “Markalar:“ başlıklı (3) numaralı alt bent değiştirilmek suretiyle (4) numaralı alt bent olarak teselsül ettirilmiştir.
 3943
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-III – (Değişik : 24/3/1998 - 3418/36 md.) Maden arama ruhsatnameleri, işletme ruhsatnameleri, işletme imtiyazları : |  | 
-1. Maden arama ruhsatnamesi taleplerinden | (268,95 TL.) | 734.800 TL.
-2. Maden arama ruhsatnameleri (Her yıl için) | (674,00 TL.) | 1.838.000 TL.
-3. Önişletme ruhsatnameleri (Her yıl için) | (2.361,40 TL.) | 6.435.600 TL.
-4. Maden işletme ruhsatnameleri (Her yıl için) |  | 
-a) 10 yıla kadar olan (10 dahil) işletme ruhsatnameleri | (4.049,25 TL.) | 11.033.800 TL.
-b) 15 yıla kadar olan (15 dahil) işletme ruhsatnameleri | (4.723,85TL.) | 12.871.800 TL.
-c) 40 yıla kadar olan (40 dahil) işletme ruhsatnameleri | (6.749,10 TL.) | 18.389.200 TL.
-d) 60 yıla kadar olan (60 dahil) işletme ruhsatnameleri | (10.259,70 TL.) | 27.584.000 TL.
-5. Mülga 6309 sayılı Kanuna göre verilen (60-99) yıllık işletme imtiyazları (Her yıl için) | (13.499,60 TL.) | 36.779.400 TL.
-6. Taşocağı nizamnamesi gereğince verilecek ruhsatnameler (Her yıl için) | (448,95 TL.) | 1.225.600 TL.
-7. Arama, önişletme ve işletme ruhsatnameli sahalarla işletme imtiyazlı sahalara fennî nezaretçi tayini taleplerinden | (336,60 TL.) | 918.600 TL.
-8. İşletme ruhsat hakkı, birleştirme, uzatma, küçültme, alan değiştirilmesi ve taşocağı maddelerinin Maden Kanunu kapsamına alınması taleplerinden Maden arama ruhsatnamesi, önişletme ruhsatnamesi, işletme ruhsat hakkı, işletme ruhsatnamesi, işletme imtiyazı ve taşocağı maddelerinin Maden Kanunu kapsamına alınması taleplerinin devir ve intikalleri sırasında, bu hakların verilmesi sırasındaki harçlar yeniden alınır. | (1.686,35 TL.) | 4.596.600 TL.
-IV – Petrol işlemleri : |  | 
-1. Sicil işlemleri : |  | 
-a) Arama ve işletme ruhsatnameleri, kullanma hakkı ve belge istihsali taleplerinin tescilinden | (336,60 TL.) | 918.600 TL.
-b) Arama ve işletme ruhsatnameleri, kullanma hakkı ve belgelerin tescilinden | (403,75 TL.) | 1.102.400 TL.
-c) Arama ve işletme ruhsatnamelerinde ve belgelerde yapılan değişikliklerin tescilinden | (201,55 TL.) | 550.800 TL.
-d) Arama ve işletme ruhsatnameleri ile belgelerin devirlerinin veya bunların sahiplerine verdiği haklardan muayyen bir kısmında, diğer bir hükmi şahısa muvakkaten kullanma hakkı tanınmasının tescilinden | (336,60 TL.) | 918.600 TL.
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+III – (Değişik : 24/3/1998 - 3418/36 md.) Maden arama
+ruhsatnameleri, işletme ruhsatnameleri, işletme imtiyazları :
+1. Maden arama ruhsatnamesi taleplerinden (309,25 TL.) 734.800 TL.
+2. Maden arama ruhsatnameleri (Her yıl için) (775,10 TL.) 1.838.000 TL.
+3. Önişletme ruhsatnameleri (Her yıl için) (2.715,60 TL.) 6.435.600 TL.
+4. Maden işletme ruhsatnameleri (Her yıl için)
+a) 10 yıla kadar olan (10 dahil) işletme ruhsatna-
+meleri (4.656,60 TL.) 11.033.800 TL.
+b) 15 yıla kadar olan (15 dahil) işletme ruhsat-
+nameleri (5.432,40 TL.) 12.871.800 TL.
+c) 40 yıla kadar olan (40 dahil) işletme ruhsatna-
+meleri (7.761,45 TL.) 18.389.200 TL.
+d) 60 yıla kadar olan (60 dahil) işletme ruhsat-
+nameleri (11.798,65 TL.) 27.584.000 TL.
+5. Mülga 6309 sayılı Kanuna göre verilen (60-
+99) yıllık işletme imtiyazları (Her yıl için) (15.524,50 TL.) 36.779.400 TL.
+6. Taşocağı nizamnamesi gereğince verilecek
+ruhsatnameler (Her yıl için) (516,25 TL.) 1.225.600 TL.
+7. Arama, önişletme ve işletme ruhsatnameli sa-
+halarla işletme imtiyazlı sahalara fennî nezaretçi ta-
+yini taleplerinden (387,05 TL.) 918.600 TL.
+8. İşletme ruhsat hakkı, birleştirme, uzatma, kü-
+çültme, alan değiştirilmesi ve taşocağı maddelerinin
+Maden Kanunu kapsamına alınması taleplerinden (1.939,30 TL.) 4.596.600 TL.
+Maden arama ruhsatnamesi, önişletme ruhsatnamesi,
+işletme ruhsat hakkı, işletme ruhsatnamesi, işletme
+imtiyazı ve taşocağı maddelerinin Maden Kanunu
+kapsamına alınması taleplerinin devir ve intikalleri
+sırasında, bu hakların verilmesi sırasındaki harçlar yeniden alınır.
+IV – Petrol işlemleri :
+1. Sicil işlemleri :
+a) Arama ve işletme ruhsatnameleri, kullanma
+hakkı ve belge istihsali taleplerinin tescilinden (387,05 TL.) 918.600 TL.
+b) Arama ve işletme ruhsatnameleri, kullanma
+hakkı ve belgelerin tescilinden (464,30 TL.) 1.102.400 TL.
+c) Arama ve işletme ruhsatnamelerinde ve bel-
+gelerde yapılan değişikliklerin tescilinden (231,75 TL.) 550.800 TL.
+d) Arama ve işletme ruhsatnameleri ile belgelerin
+devirlerinin veya bunların sahiplerine verdiği haklardan
+muayyen bir kısmında, diğer bir hükmi şahısa muvakkaten
+kullanma hakkı tanınmasının tescilinden (387,05 TL.) 918.600 TL.
 3944
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-e) Diğer hususların tescilinden | (133,85 TL.) | 367.000 TL.
-2. Ruhsatlar : |  | 
-a) Müsaade vesikaları | (898,95 TL.) | 2.451.600 TL.
-b) Arama ruhsatnameleri | (1.349,05 TL.) | 3.677.400 TL.
-c) İşletme ruhsatnameleri | (11.249,50 TL.) | 30.649.600 TL.
-d) Belgeler | (1.349,05 TL.) | 3.677.400 TL.
-Arama ve işletme ruhsatnameleri ile belgelerin temdit veya devrinden aynı miktarda harç alınır. |  | 
-3. Tarifelerin tasdiki | (224,00 TL.) | 612.200 TL.
-V – Satış ruhsatnameleri : |  | 
-1. (Mülga:25/12/2003-5035/49 md.) |  | 
-2. (Mülga:25/12/2003-5035/49 md.) |  | 
-3. Pul ve kıymetli kağıtlar bayilerine verilecek ruhsatnameler (Her yıl için, son nüfus sayımına göre): |  | 
-Nüfusu 10.000’den aşağı yerlerde | (17,00 TL.) | 48.400 TL.
-Nüfusu 10.000 - 50.000 olan yerlerde | (43,90 TL.) | 121.600 TL.
-Nüfusu 50.000’den yukarı olan yerlerde | (89,10 TL.) | 244.800 TL.
-4. Tıbbi eczalar ve kimyevi maddeleri toptan satan ticarethanelerden alınacak ruhsat harçları : |  | 
-Ecza ticarethaneleriyle sanat ve ziraat işlerinde kullanılan zehirli ve müessir kimyevi maddelerin toptan satışına mahsus ticarethaneleri açmak için Sağlık Bakanlığınca verilecek ruhsatnameler (Son nüfus sayımına göre) : |  | 
-Nüfusu 30.000’e kadar olan mahallerde | (448,95 TL.) | 1.225.600 TL.
-Nüfusu 30.000 ile 50.000 arasında olan mahallerde | (898,95 TL.) | 2.451.600 TL.
-Nüfusu 50.000 ile 100.000 arasında olan mahallerde | (1,349,05 TL.) | 3.677.400 TL.
-Nüfusu 100.000 ile 400.000 arasında olan mahallerde | (2.249,40 TL.) | 6.129.600 TL.
-Nüfusu 400.000 ve daha yukarı olan mahallerde | (4.499,10 TL.) | 12.259.400 TL.
-vI – Meslek erbabına verilecek tezkere, vesika ve ruhsatnamelerden alınacak harçlar : |  | 
-1. Eczane açanlardan alınacak ruhsat harçları : |  | 
-Yeniden eczane açmak üzere verilen ruhsatnameler (Son nüfus sayımına göre) : |  | 
-Nüfusu 5.000’e kadar olan mahaller için | (43,90 TL.) | 121.600 TL.
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+e) Diğer hususların tescilinden (153,90 TL.) 367.000 TL.
+2. Ruhsatlar :
+a) Müsaade vesikaları (1.033,75 TL.) 2.451.600 TL.
+b) Arama ruhsatnameleri (1.551,40 TL.) 3.677.400 TL.
+c) İşletme ruhsatnameleri (12.936,90 TL.) 30.649.600 TL.
+d) Belgeler (1.551,40 TL.) 3.677.400 TL.
+Arama ve işletme ruhsatnameleri ile belgelerin
+temdit veya devrinden aynı miktarda harç alınır.
+3. Tarifelerin tasdiki (257,60 TL.) 612.200 TL.
+V – Satış ruhsatnameleri :
+1. (Mülga:25/12/2003-5035/49 md.)
+2. (Mülga:25/12/2003-5035/49 md.)
+3. Pul ve kıymetli kağıtlar bayilerine verilecek ruhsatnameler (Her yıl için, son nüfus sayımına göre):
+Nüfusu 10.000’den aşağı yerlerde (19,65 TL.) 48.400 TL.
+Nüfusu 10.000 - 50.000 olan yerlerde (50,45 TL.) 121.600 TL.
+Nüfusu 50.000’den yukarı olan yerlerde (102,45 TL.) 244.800 TL.
+4. Tıbbi eczalar ve kimyevi maddeleri toptan sa-
+tan ticarethanelerden alınacak ruhsat harçları :
+Ecza ticarethaneleriyle sanat ve ziraat işlerinde kullanılan zehirli ve müessir kimyevi maddelerin toptan satışına mahsus ticarethaneleri açmak için SağlıkBakanlığınca verilecek ruhsatnameler (Son nüfus sayımına göre) :
+Nüfusu 30.000’e kadar olan mahallerde (516,25 TL.) 1.225.600 TL.
+Nüfusu 30.000 ile 50.000 arasında olan mahallerde (1.033,75 TL.) 2.451.600 TL.
+Nüfusu 50.000 ile 100.000 arasında olan mahallerde (1,551,40 TL.) 3.677.400 TL.
+Nüfusu 100.000 ile 400.000 arasında olan ma
+hallerde (2.586,80 TL.) 6.129.600 TL.
+Nüfusu 400.000 ve daha yukarı olan mahallerde (5.173,95 TL.) 12.259.400 TL.
+vI – Meslek erbabına verilecek tezkere, vesika ve ruhsatnamelerden alınacak harçlar :
+1. Eczane açanlardan alınacak ruhsat harçları :
+Yeniden eczane açmak üzere verilen ruhsatnameler (Son nüfus sayımına göre) :
+Nüfusu 5.000’e kadar olan mahaller için (50,45 TL.) 121.600 TL.
 3945
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-Nüfusu 5.000 ile 10.000 arasında olan mahaller için | (89,10 TL.) | 244.800 TL.
-Nüfusu 10.000 ile 20.000 arasında olan mahaller için | (224,00 TL.) | 612.200 TL.
-Nüfusu 20.000 ile 40.000 arasında olan mahaller için | (359,10 TL.) | 980.400 TL.
-Nüfusu 40.000 ile 75.000 arasında olan mahaller için | (539,10 TL.) | 1.470.800 TL.
-Nüfusu 75.000 ile 100.000 arasında olan mahaller için | (719,05 TL.) | 1.961.200 TL.
-Nüfusu 100.000 ile 400.000 arasında olan mahaller için | (898,05 TL.) | 2.451.600 TL.
-Nüfusu 400.000 ve daha yukarı olan mahaller için | (1.349,05 TL.) | 3.677.400 TL.
-2. Mimarlık ve mühendislik ruhsatnameleri : |  | 
-a) Programlarının Türk yüksek mühendisi ve yüksek mimar eğitim müesseseleri programlarına muadil olduğu kabul edilen bir ecnebi yüksek mühendis veya yüksek mimar eğitim müessesesinden diploma almış olanlara usulüne göre verilecek ruhsatnameler | (448,95 TL.) | 1.225.600 TL.
-b) Programlarının Türk Teknik Okulu mühendis kısmı programlarına muadil olduğu kabul olunan bir ecnebi mühendis veya mimar eğitim müessesesinden diploma almış olanlara usulüne göre verilecek olan ruhsatnameler | (268,95 TL.) | 734.800TL.
-3. Mütehassıs tabiplik vesikaları : |  | 
-a) Türkiye’de ihtisas yapmış olan Türk hekimlerine verilecek ihtisas vesikaları | (448,95 TL.) | 1.225.600 TL.
-b) Yabancı memleketlerde ihtisas yapmış olan Türk hekimlerine verilecek ihtisas vesikaları | (448,95 TL.) | 1.225.600 TL.
-c) Yabancı memleketlerin tıp fakültesinden mezun mezun Türk hekimlerine Türkiye Cumhuriyeti hudutları dahilinde tababet icra etmek üzere verilecek mezuniyet vesikaları | (448,95 TL.) | 1.225.600 TL.
-4. Mütehassıs kimyagerlik vesikaları : |  | 
-a) Türkiye’de ihtisas yapmış olan Türk kimyagerlerine verilecek ihtisas vesikaları | (390,40 TL.) | 1.225.600 TL.
-b) Yabancı memleketlerde ihtisas yapmış olan Türk kimyagerlerine verilecek ihtisas vesikaları | (448,95 TL.) | 1.225.600 TL.
-c) Yabancı memleketler mektep veya fakültelerinden mezun Türk kimyagerlerine Türkiye’de icra yı sanat etmek üzere verilecek mezuniyet vesikaları | (448,95 TL.) | 1.225.600 TL.
-5. Dişçilere ait mezuniyet vesikaları : |  | 
-Yabancı memleketler dişçi mektep veya fakültelerinden mezun olan diş tabiplerine Türkiye’de icrayı sanat etmek üzere verilecek mezuniyet vesikaları | (448,95 TL.) | 1.225.600 TL.
-6. Veterinerlere ait mezuniyet vesikaları : |  | 
-Yabancı memleketler mektep veya fakültelerinden mezun olan veterinerlere Türkiye’de icrayı sanat etmek üzere verilecek mezuniyet vesikaları | (178,90 TL.) | 490.000 TL.
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+Nüfusu 5.000 ile 10.000 arasında olan mahaller için (102,45 TL.) 244.800 TL.
+Nüfusu 10.000 ile 20.000 arasında olan mahaller için (257,60 TL.) 612.200 TL.
+Nüfusu 20.000 ile 40.000 arasında olan mahaller için (412,95 TL.) 980.400 TL.
+Nüfusu 40.000 ile 75.000 arasında olan mahaller için (619,95 TL.) 1.470.800 TL.
+Nüfusu 75.000 ile 100.000 arasında olan mahaller için (826,90 TL.) 1.961.200 TL.
+Nüfusu 100.000 ile 400.000 arasında olan ma
+haller için (1.033,75 TL.) 2.451.600 TL.
+Nüfusu 400.000 ve daha yukarı olan mahaller için (1.551,40 TL.) 3.677.400 TL.
+2. Mimarlık ve mühendislik ruhsatnameleri :
+a) Programlarının Türk yüksek mühendisi ve yüksek mimar eğitim müesseseleri programlarına muadil olduğu kabul edilen bir ecnebi yüksek mühendis veya yüksek mimar eğitim müessesesinden diploma almış
+olanlara usulüne göre verilecek ruhsatnameler (526,25 TL.) 1.225.600 TL.
+b) Programlarının Türk Teknik Okulu mühendis kısmı programlarına muadil olduğu kabul olunan bir ecnebi mühendis veya mimar eğitim müessesesinden diploma almış olanlara usulüne göre verilecek olan ruhsatnameler (309,25 TL.) 734.800TL.
+3. Mütehassıs tabiplik vesikaları :
+a) Türkiye’de ihtisas yapmış olan Türk hekimle-
+rine verilecek ihtisas vesikaları (516,25 TL.) 1.225.600 TL.
+b) Yabancı memleketlerde ihtisas yapmış olan
+Türk hekimlerine verilecek ihtisas vesikaları (516,25 TL.) 1.225.600 TL.
+c) Yabancı memleketlerin tıp fakültesinden mezun mezun Türk hekimlerine Türkiye Cumhuriyeti hudutları dahilinde tababet icra etmek üzere verilecek mezuniyet vesikaları (516,25 TL.) 1.225.600 TL.
+4. Mütehassıs kimyagerlik vesikaları :
+a) Türkiye’de ihtisas yapmış olan Türk kimyagerlerine verilecek ihtisas vesikaları (309,25 TL.) 1.225.600 TL.
+b) Yabancı memleketlerde ihtisas yapmış olan
+Türk kimyagerlerine verilecek ihtisas vesikaları (516,25 TL.) 1.225.600 TL.
+c) Yabancı memleketler mektep veya fakültele-
+rinden mezun Türk kimyagerlerine Türkiye’de icra
+yı sanat etmek üzere verilecek mezuniyet vesikaları (516,25 TL.) 1.225.600 TL.
+5. Dişçilere ait mezuniyet vesikaları :
+Yabancı memleketler dişçi mektep veya fakültelerinden mezun olan diş tabiplerine Türkiye’de icrayı sanat etmek üzere verilecek mezuniyet vesikaları (516,25 TL.) 1.225.600 TL.
+6. Veterinerlere ait mezuniyet vesikaları :
+Yabancı memleketler mektep veya fakültelerinden mezun olan veterinerlere Türkiye’de icrayı sanat etmek üzere verilecek mezuniyet vesikaları (205,70 TL.) 490.000 TL.
 3946
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-7. Ebe, hemşire, sünnetçilere verilecek ruhsatnameler : |  | 
-a) Kurs ve imtihan sonu muvaffak olan hemşire, ebe ve sünnetçilere verilecek ruhsatnameler | (133,85 TL.) | 367.000 TL.
-b) Ecnebi memleketlerdeki mekteplerden mezun olan Türk tebaası hemşire, ebe, sağlık memuru ve laborantlara Türkiye’de icrayı sanat etmek üzere verilecek ruhsatnameler | (133,85 TL.) | 367.000 TL.
-c) Sağlık okullarından ve kolejlerinden mezun olanlara verilecek şahadetnameler | (133,85 TL.) | 367.000 TL.
-8. Gözlükçülük ruhsatnameleri : |  | 
-Hususi kanununa göre verilecek fenni gözlükçülük ruhsatnameleri | (674,00TL.) | 1.838.000 TL.
-9. Hususi hastaneler açma ruhsatnameleri : |  | 
-a) Para ile hasta bakan hususi hastanelere verilecek açma ruhsatnameleri : |  | 
-20 yataklıya kadar olanlar | (898,70 TL.) | 2.451.600 TL.
-20-50 yataklıya kadar olanlar | (1.349,05 TL.) | 3.677.400 TL.
-50-100 yataklıya kadar olanlar | (2.249,40 TL.) | 6.129.600 TL.
-100 yatak veya daha yukarı olanlar | (3.559,15 TL.) | 9.807.800 TL.
-(Son nüfus sayımına göre nüfusu 200.000’den aşağı bulunan mahallerde açılacak hastanelerden bu harçların dörtte biri alınır.) |  | 
-b) Radyoloji, radyo ve elektrikle teşhis ve tedavi ve diğer fizyoterapi müesseseleri açmak için verilecek ruhsatnameler | (898,95 TL.) | 2.451.600 TL.
-10. Laboratuvarlara ait ruhsatnameler : |  | 
-Seriri ve gıdai taharriyat ve tahliller yapılan ve misli teamüller aranılan umuma mahsus bakteriyoloji ve kimya laboratuvarları açmak için verilecek ruhsatnameler | (448,95 TL.) | 1.225.600 TL.
-11. Avukatlık ruhsatnameleri : |  | 
-Hususi kanunu mücibince verilecek avukatlık ruhsatnameleri | (448,95 TL.) | 1.225.600 TL.
-12. (Mülga :24/6/1994 - 4008/39 md.) |  | 
-13. Eski eserler ve define arama ve sondaj ruhsatnameleri : |  | 
-Eski eser ve define arama sondaj ruhsatnameleriden : |  | 
-a) Eski eser araştırmaları için verilecek hafriyat ruhsatnameleri (Beher yıl için) | (89,10 TL.) | 244.800 TL.
-b) Eski eser araştırmaları için verilecek sondaj ruhsatnameleri (Beher ay için) | (43,90 TL.) | 121.600 TL.
-c) Define araştırmaları için verilecek ruhsatnameler (Beher iki ay için) | (224,00 TL.) | 612.200 TL.
-14. (Değişik: 27/1/2000 -4503/4 md.) Gümrük müşavirlerine verilecek izin belgeleri : |  | 
-Gümrük müşavirliği izin belgesi | (1.799,40 TL.) | 171.200.000 TL.
-Gümrük müşavir yardımcısı izin belgesi | (898,95 TL.) | 85.580.000 TL.
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+7. Ebe, hemşire, sünnetçilere verilecek ruhsatnameler :
+a) Kurs ve imtihan sonu muvaffak olan hemşire,
+ebe ve sünnetçilere verilecek ruhsatnameler (153,90 TL.) 367.000 TL.
+b) Ecnebi memleketlerdeki mekteplerden mezun olan
+Türk tebaası hemşire, ebe, sağlık memuru ve laborantlara
+Türkiye’de icrayı sanat etmek üzere verilecek ruhsatnameler (153,90 TL.) 367.000 TL.
+c) Sağlık okullarından ve kolejlerinden mezun
+olanlara verilecek şahadetnameler (153,90 TL.) 367.000 TL.
+8. Gözlükçülük ruhsatnameleri :
+Hususi kanununa göre verilecek fenni gözlükçü-
+lük ruhsatnameleri (775,10TL.) 1.838.000 TL.
+9. Hususi hastaneler açma ruhsatnameleri :
+a) Para ile hasta bakan hususi hastanelere verile-
+cek açma ruhsatnameleri :
+20 yataklıya kadar olanlar (1.033,50 TL.) 2.451.600 TL.
+20-50 yataklıya kadar olanlar (1.551,40 TL.) 3.677.400 TL.
+50-100 yataklıya kadar olanlar (2.586,80 TL.) 6.129.600 TL.
+100 yatak veya daha yukarı olanlar (4.139,00 TL.) 9.807.800 TL.
+(Son nüfus sayımına göre nüfusu 200.000’den aşağı
+bulunan mahallerde açılacak hastanelerden bu harçların
+dörtte biri alınır.)
+b) Radyoloji, radyo ve elektrikle teşhis ve tedavi ve
+diğer fizyoterapi müesseseleri açmak için verilecek ruhsatnameler (1.033,75 TL.) 2.451.600 TL.
+10. Laboratuvarlara ait ruhsatnameler :
+Seriri ve gıdai taharriyat ve tahliller yapılan ve misli teamüller
+aranılan umuma mahsus bakteriyoloji ve kimya laboratuvarları
+açmak için verilecek ruhsatnameler (516,25 TL.) 1.225.600 TL.
+11. Avukatlık ruhsatnameleri :
+Hususi kanunu mücibince verilecek avukatlık
+ruhsatnameleri (516,25 TL.) 1.225.600 TL.
+12. (Mülga :24/6/1994 - 4008/39 md.)
+13. Eski eserler ve define arama ve sondaj ruh-
+satnameleri :
+Eski eser ve define arama sondaj ruhsatnameleriden :
+a) Eski eser araştırmaları için verilecek hafriyat
+ruhsatnameleri (Beher yıl için) (102,45 TL.) 244.800 TL.
+b) Eski eser araştırmaları için verilecek sondaj
+ruhsatnameleri (Beher ay için) (50,45 TL.) 121.600 TL.
+c) Define araştırmaları için verilecek ruhsatna-
+meler (Beher iki ay için) (257,60 TL.) 612.200 TL.
+14. (Değişik:27/1/2000 -4503/4 md.) Gümrük müşavirlerine
+verilecek izin belgeleri :
 3947
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-15. (Değişik : 24/3/1988 - 3418/37 md.) Avcılık belgesi:(1)(4) |  | 
-Hususi kanunu gereğince verilecek avcılık belgeleri (Her yıl için) (1) |  | 
-a) (Değişik:25/12/2003-5035/39 md.) Avcı derneklerine dahil olanlardan | (117,85 TL.) | (55.000.000 TL.)(5)
-b)(Değişik:25/12/2003-5035/39 md.) Avcı derneklerine dahil olmayanlardan | (128,80 TL.) | (60.000.000 TL.) (5)
-16. (Değişik : 24/6/1994 - 4008/34 md.) Silah taşıma ve bulundurma vesikaları :(4) |  | 
-a) (Değişik:25/12/2003-5035/39 md.) Resmi makamlar tarafından gerçek kişilere verilecek silah taşıma müsaade vesikaları (Her yıl için ) | (537,85 TL.) | (250.000.000 TL.)
-b) Bulundurma vesikaları | (860,50 TL.) | (400.000.000 TL.)
-c) (Ek:25/12/2003-5035/39 md.) Özel kanuna göre verilecek yivsiz tüfek ruhsatnameleri | (21,00 TL.) | (10.000.000 TL.)
-17. (Mülga : 24/6/1994 - 4008/39 md.) |  | 
-18. (Değişik : 20/3/1981 - 2430/7 md.) Özel okul ve özel dersane işletme ruhsatnameleri : |  | 
-a) İlköğretim seviyesindeki özel okullardan (Her yıl için) (2) | (898,95 TL.) | 2.451.600 TL.
-b) Lise seviyesindeki özel okullardan (...)(3) (Her yıl için) | (1.799,40 TL.) | 4.903.600 TL.
-c) Özel dersanelerden (Her yıl için) | (1.799,40 TL.) | 4.903.600 TL.
-(Kazanç temini gayesi bulunmayan ve genel eğitime yararlı olduğu Milli Eğitim Bakanlığınca tasdik olunan özel okullar hariç.) |  | 
-d) (Ek: 9/4/2003-4842/27 md.) Karayolları Trafik Kanununun 123 üncü maddesine göre özel kişi ve kuruluşlara sürücü kursları açmak için ilgili Bakanlıkça verilecek okul açma belgelerinden (Her yıl için), |  | 
-Son nüfus sayımına göre; |  | 
-Nüfusu 200.000'e kadar olan şehirlerde | (608,20 TL.) | 220.000.000.- TL.
-Nüfusu 500.000'e kadar olan şehirlerde | (1.216,90 TL.) | 440.000.000.- TL.
-Nüfusu 500.000' den yukarı olan şehirlerde | (1.825,35TL.) | 660.000.000.- TL.
-19. Turizm müessese belgeleri : |  | 
-Merkez turizm komitesinin kararı ve Turizm ve Tanıtma Bakanlığının onayı üzerine; |  | 
-a) Dördüncü sınıf turizm müessesesi kuruluş belgesinden | (133,85 TL.) | 367.000 TL.
-b) Üçüncü sınıf turizm müessesesi kuruluş belgesinden | (224,00 TL.) | 612.200 TL.
-c) İkinci sınıf turizm müessesesi kuruluş belgesinden | (268,95 TL.) | 734.800 TL.
-d) Birinci sınıf turizm müessesesi kuruluş belgesinden | (359,10 TL.) | 980.400 TL.
-e) Lüks sınıf turizm müessesesi kuruluş belgesinden | (539,10 TL.) | 1.470.800 TL.
-f) Dördüncü sınıf turizm müessesesi işletme belgesinden | (133,85 TL.) | 367.000 TL.
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+Gümrük müşavirliği izin belgesi (2.069,30 TL.) 171.200.000 TL.
+Gümrük müşavir yardımcısı izin belgesi (1.033,75 TL.) 85.580.000 TL.
+15. (Değişik : 24/3/1988 - 3418/37 md.) Avcılık belgesi:(1)(4)
+Hususi kanunu gereğince verilecek avcılık belgeleri
+(Her yıl için) (1)
+a) (Değişik:25/12/2003-5035/39 md.) Avcı derneklerine
+dahil olanlardan (135,50 TL.) (55.000.000 TL.)(5)
+b) (Değişik:25/12/2003-5035/39 md.) Avcı derneklerine
+dahil olmayanlardan (148,10 TL.) (60.000.000 TL.) (5)
+16. (Değişik : 24/6/1994 - 4008/34 md.) Silah taşıma ve
+bulundurma vesikaları :(4)
+a) (Değişik:25/12/2003-5035/39 md.) Resmi makamlar
+tarafından gerçek kişilere verilecek silah taşıma müsaade
+vesikaları (Her yıl için ) (618,50 TL.) (250.000.000 TL.)
+b) Bulundurma vesikaları (989,55 TL.) (400.000.000 TL.)
+c) (Ek:25/12/2003-5035/39 md.) Özel kanuna göre verilecek
+yivsiz tüfek ruhsatnameleri (24,15 TL.) (10.000.000 TL.)
+17. (Mülga : 24/6/1994 - 4008/39 md.)
+18. (Değişik : 20/3/1981 - 2430/7 md.) Özel okul ve özel dersane işletme ruhsatnameleri :
+a) İlköğretim seviyesindeki özel okullardan
+(Her yıl için) (2) (1.033,75 TL.) 2.451.600 TL.
+b) Lise seviyesindeki özel okullardan (...)(3) (Her yıl için) (2.069,30 TL.) 4.903.600 TL.
+c) Özel dersanelerden (Her yıl için) (2.069,30 TL.) 4.903.600 TL.
+(Kazanç temini gayesi bulunmayan ve genel eğitime yararlı olduğu Milli Eğitim Bakanlığınca tasdik olunan özel okullar hariç.)
+d) (Ek: 9/4/2003-4842/27 md.) Karayolları Trafik Kanununun 123 üncü maddesine göre özel kişi ve kuruluşlara sürücü kursları açmak için ilgili Bakanlıkça verilecek okul açma belgelerinden (Her yıl için),
+Son nüfus sayımına göre;
+Nüfusu 200.000'e kadar olan şehirlerde (699,40 TL.) 220.000.000.- TL.
+Nüfusu 500.000'e kadar olan şehirlerde (1.399,40 TL.) 440.000.000.- TL.
+Nüfusu 500.000' den yukarı olan şehirlerde (2.099,15TL.) 660.000.000.- TL.
+19. Turizm müessese belgeleri :
+Merkez turizm komitesinin kararı ve Turizm ve Tanıtma Bakanlığının onayı üzerine;
+a) Dördüncü sınıf turizm müessesesi kuruluş
+belgesinden (153,90 TL.) 367.000 TL.
+b) Üçüncü sınıf turizm müessesesi kuruluş bel-
+gesinden (257,60 TL.) 612.200 TL.
+c) İkinci sınıf turizm müessesesi kuruluş belge-
+sinden (309,25 TL.) 734.800 TL.
+d) Birinci sınıf turizm müessesesi kuruluş bel-
+gesinden (412,95 TL.) 980.400 TL.
+e) Lüks sınıf turizm müessesesi kuruluş belgesinden (619,95 TL.) 1.470.800 TL.
+f) Dördüncü sınıf turizm müessesesi işletme
+belgesinden (153,90 TL.) 367.000 TL.
 ——————————
 (1) Bu bentte geçen "Kara av tezkereleri:" ibaresi "Avcılık belgesi:", "kara avcılığı ruhsat tezkereleri" ibaresi "avcılık belgeleri" olarak 1/7/2003 tarihli ve 4915 sayılı Kanunun 34 üncü maddesi ile değiştirilmiş ve metne işlenmiştir.
-(2) Bu bentte yer alan “ilk tahsil” ibaresi, 22/7/1998 tarih ve 4396 sayılı Kanunun 81 inci maddesi ile “İlköğretim” şeklinde değiştirilmiş ve metne işlenmiştir.
+(2) Bu bentte yeralan “ilk tahsil” ibaresi, 22/7/1998 tarih ve 4396 sayılı Kanunun 81 nci maddesi ile “İlköğretim” şeklinde değiştirilmiş ve metne işlenmiştir.
 (3) a) Bu bentte yer alan “orta tahsil” ibaresi, 22/7/1998 tarih ve 4396 sayılı Kanunun 81 nci maddesi ile “Lise” şeklinde değiştirilmiş ve metne işlenmiştir.
-b) Bu bentte parantez içinde yer alan “orta ve lise kısmı ayrı ayrı olmak üzere” hükmü, 22/7/1998 tarih ve 4396 sayılı Kanunun 82 nci maddesi ile yürürlükten kaldırıldığı için metinden çıkarılmıştır.
+b) Bu bentte parantez içinde yeralan “orta ve lise kısmı ayrı ayrı olmak üzere” hükmü, 22/7/1998 tarih ve 4396 sayılı Kanunun 82 nci maddesi ile yürürlükten kaldırıldığı için metinden çıkarılmıştır.
 (4) 5035 sayılı Kanunun 39 uncu maddesinde; (15) numaralı fıkranın (a), (b) bendi ve (16) numaralı fıkranın (a) bendinde yer alan tutarların yeniden belirlendiği ifadesinin kullanılmasına rağmen bu bentlerin içeriklerinin de değiştirilmesi sebebiyle "değişik" ibareleri kullanılmıştır. 15 (a), (b) ve 16 (a), (b) ve (c) bentlerindeki uygulanan miktar bölümünde yer alan tutarlar 5035 sayılı Kanunun hükmüdür.
 (5) 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle (a) bendinde yer alan “110.000.000 TL.” ibaresi, “55.000.000 TL”; (b) bendinde yer alan “120.000.000 TL.” ibaresi, “60.000.000 TL.” olarak değiştirilmiş ve metne işlenmiştir.
 3948
- | Uygulanan Miktar | Kanunla Getirilen Miktar
-g) Üçüncü sınıf turizm müessesesi işletme belgesinden | (224,00 TL.) | 612.200 TL.
-h) İkinci sınıf turizm müessesesi işletme belgesinden | (268,95 TL.) | 734.800 TL.
-i) Birinci sınıf turizm müessesesi işletme belgesinden | (359,10 TL.) | 980.400 TL.
-j) Lüks sınıf turizm müessesesi işletme belgesinden | (539,10 TL.) | 1.470.800 TL.
-Turistik müessese harcı alınır. |  | 
-20. (Ek : 20/3/1981 - 2430/7 md.) Müteahhitlik karneleri : |  | 
-Karnede yazılı değer üzerinden (Geçerlilik süresi sonuna kadar.) | (Binde 0,198) | Binde 0,12
-Ancak, bu miktar 24.519.600 (7.825,60 TL.) liradan fazla olamaz. |  | 
-VII – Okul diplomaları : |  | 
-1. (Mülga: 22/7/1998 - 4369/82 md.) |  | 
-2. Lise veya bu dereceye muadil okullarda bu derecedeki sanat ve meslek okul ve enstitülerinden mezun olacaklara verilecek diplomalar | (5,60 TL.) | 17.600 TL.
-3. Üniversite haricinde kalan yüksek okullardan veya aynı derecedeki sanat ve meslek okul ve enstitülerden mezun olacaklara verilecek diplomalar | (9,05 TL.) | 26.200 TL.
-VIII – Yolcu beraberinde getirilen telefon kullanım izin harcı: (Ek : 4/12/1985 - 3239/96-c md; Mülga : 28/5/1986 - 3293/7 md; Yeniden düzenleme: 31/5/2012-6322/20 md.) 1.Ticari mahiyette olmaksızın, yolcuların kendi kullanımları için yurt dışından getirdikleri alıcısı bulunan verici portatif telsiz telefon cihazları kullanım izni (Söz konusu harç, elektronik kimlik bilgisinin kayıt altına alınması işleminden önce ödenir. Elektronik kimlik bilgisinin kayıt altına alınması için yapılan başvuru sırasında harcın ödendiğine ilişkin belge aranır ve harç ödenmeden kayıt işlemi yapılmaz. Harç ödenmeden kayıt işlemi yapılan ve kullanıma açılan cihazlar, Bilgi Teknolojileri ve İletişim Kurumu tarafından kullanıma kapatılır. Ödenmeyen harç %50 fazlasıyla ilk kayıt tarihinden itibaren 6183 sayılı Kanuna göre hesaplanan gecikme zammı ile birlikte tahsil edilir. Bu tahsilat yapılmadan cihaz kullanıma açılamaz.) |  | 100 TL
-IX – Kapalı devre televizyon ruhsat harçları : (Ek : 4/12/1985 - 3239/96-c md.) |  | 
-Kapalı devre televizyon sistemi kurulması ve işletilmesi için Radyo ve Televizyon Yüksek Kurulu tarafından verilecek izin belgelerinden (Her yıl için) |  | 
-a) 3 - 15 TV alıcı cihazı ihtiva eden sistemlerden | (1.349,05TL.) | 3.677.400 TL.
-b) 16 - 30 TV alıcı cihazı ihtiva eden sistemlerden | (2.699,15 TL.) | 7.355.400 TL.
-c) 31 - 60 TV alıcı cihazı ihtiva eden sistemlerden | (5.399,80 TL.) | 14.711.800 TL.
-d) 61 ve daha fazla TV alıcı cihazı ihtiva eden sistemlerden | (7.874,15 TL.) | 21.454.000 TL.
-Birden fazla kanal ihtiva eden sistemlerden bu harçlar % 50 zamlı olarak tahsil edilir. |  | 
-Genel ve katma bütçeli daire ve idarelerle il özel idareleri, belediye ve köyler tarafından kurulan kapalı devre televizyon sistemleri bu harca tabi tutulmazlar. |  | 
-X – Gümrük Kanunu hükümlerine göre verilen ruhsatname harçları : (Ek : 3/12/1988 - 3505/33 md.; Değişik : 27/1/2000 - 4503/4 md.) |  | 
-1. Genel antrepo izin belgeleri : |  | 
-a) Genel antrepo işletmeciliği izin belgelerinden : |  | 
-– Açma | (23.624.75 TL.) | 2.247.260.000 TL.
-– İşletme (Her yıl için) | (7.874,15 TL.) | 749.060.000 TL.
+Uygulanan Kanunla Getirilen
+Miktar Miktar
+g) Üçüncü sınıf turizm müessesesi işletme belge-
+sinden (257,60 TL.) 612.200 TL.
+h) İkinci sınıf turizm müessesesi işletme belge-
+sinden (309,25 TL.) 734.800 TL.
+i) Birinci sınıf turizm müessesesi işletme belge-
+sinden (412,95 TL.) 980.400 TL.
+j) Lüks sınıf turizm müessesesi işletme belgesin-
+den (619,95 TL.) 1.470.800 TL.
+Turistik müessese harcı alınır.
+20. (Ek : 20/3/1981 - 2430/7 md.) Müteahhitlik karneleri :
+Karnede yazılı değer üzerinden (Geçerlilik süre-
+si sonuna kadar.) (Binde 0,22) Binde 0,12
+Ancak, bu miktar 24.519.600 (10.349,30 TL.) liradan fazla olamaz.
+VII – Okul diplomaları :
+1. (Mülga: 22/7/1998 - 4369/82 md.)
+2. Lise veya bu dereceye muadil okullarda bu derecedeki sanat ve meslek okul ve enstitülerinden mezun
+olacaklara verilecek diplomalar (6,40 TL.) 17.600 TL.
+3. Üniversite haricinde kalan yüksek okullardan veya aynı derecedeki sanat ve meslek okul ve enstitülerden mezun olacaklara verilecek diplomalar (10,40 TL.) 26.200 TL.
+VIII – Yolcu beraberinde getirilen telefon kullanım izin harcı: (Ek : 4/12/1985 - 3239/96-c md; Mülga : 28/5/1986 - 3293/7 md; Yeniden düzenleme: 31/5/2012-6322/20 md.)
+1.Ticari mahiyette olmaksızın, yolcuların kendi kullanımları için yurt dışından getirdikleri alıcısı bulunan verici portatif telsiz telefon cihazları kullanım izni (Söz konusu harç, elektronik kimlik bilgisinin kayıt altına alınması işleminden önce ödenir. Elektronik kimlik bilgisinin kayıt altına alınması için yapılan başvuru sırasında harcın ödendiğine ilişkin belge aranır ve harç ödenmeden kayıt işlemi yapılmaz. Harç ödenmeden kayıt işlemi yapılan ve kullanıma açılan cihazlar, Bilgi Teknolojileri ve İletişim Kurumu tarafından kullanıma kapatılır. Ödenmeyen harç %50 fazlasıyla ilk kayıt tarihinden itibaren 6183 sayılı Kanuna göre hesaplanan gecikme zammı ile birlikte tahsil edilir. Bu tahsilat yapılmadan
+cihaz kullanıma açılamaz.) (115,00 TL.) 100 TL
+IX – Kapalı devre televizyon ruhsat harçları : (Ek : 4/12/1985 - 3239/96-c md.)
+Kapalı devre televizyon sistemi kurulması ve işletilmesi için Radyo ve Televizyon Yüksek Kurulu tarafından verilecek izin belgelerinden (Her yıl için)
+a) 3 - 15 TV alıcı cihazı ihtiva eden sistemlerden (1.551,40TL.) 3.677.400 TL.
+b) 16 - 30 TV alıcı cihazı ihtiva eden sistemlerden (3.104,00 TL.) 7.355.400 TL.
+c) 31 - 60 TV alıcı cihazı ihtiva eden sistemlerden (6.209,75 TL.) 14.711.800 TL.
+d) 61 ve daha fazla TV alıcı cihazı ihtiva eden
+sistemlerden (9.055,25 TL.) 21.454.000 TL.
+Birden fazla kanal ihtiva eden sistemlerden bu harçlar % 50 zamlı olarak tahsil edilir.
+Genel ve katma bütçeli daire ve idarelerle il özel idareleri, belediye ve köyler tarafından kurulan kapalı devre televizyon sistemleri bu harca tabi tutulmazlar.
+X – Gümrük Kanunu hükümlerine göre verilen ruhsatname harçları : (Ek : 3/12/1988 - 3505/33 md.; Değişik : 27/1/2000 - 4503/4 md.)
+1. Genel antrepo izin belgeleri :
+a) Genel antrepo işletmeciliği izin belgelerinden :
+– Açma (27.168,45 TL.) 2.247.260.000 TL.
+– İşletme (Her yıl için) (9.055,25 TL.) 749.060.000 TL.
 3949
- | Uygulanan Miktar | Kanunla Getirilen Miktar | 
-b) Yurt içi gümrük hattı dışı eşya satış mağazası izin belgelerinden : |  |  | 
-– Açma | (15.749,70 TL.) | 1.498.160.000 TL. | 
-– İşletme (Her yıl için) | (7,874,15 TL.) | 749.060.000 TL. | 
-c) Giriş-çıkış kapılarında gümrük hattı dışı eşya satış mağazası izin belgelerinden : |  |  | 
-– Açma | (15.749,70 TL.) | 1.498.160.000 TL. | 
-– İşletme (Her yıl için) | (7,874,15 TL.) | 749.060.000 TL. | 
-d) Yat limanlarında gümrük hattı dışı eşya satış mağazası izin belgelerinden : |  |  | 
-– Açma | (15.749,70 TL.) | 1.498.160.000 TL. | 
-– İşletme (Her yıl için) | (7,874,15 TL.) | 749.060.000 TL. | 
-e) Uluslararası faaliyetlerin gerektirdiği yerler de gümrük hattı dışı eşya satış mağazası açma izin belgelerinden : | (3.936,45TL.) | 374.510.000 TL. | 
-f) Gümrük hattı dışı eşya satış mağazalarına ait depo açma izin belgelerinden : | (3.936,45TL.) | 374.510.000 TL. | 
-2. Özel antrepo izin belgeleri : |  |  | 
-– Açma | (11.811,65TL.) | 1.123.600.000 TL. | 
-– İşletme (Her yıl için) | (5.849,20TL.) | 556.440.000 TL. | 
-3. Geçici depolama yeri izin belgeleri : |  |  | 
-a) Geçici depolama yeri işletmeciliği izin belgelerinden |  |  | 
-– Açma | (23.624,75 TL.) | 2.247.260.000 TL. | 
-– İşletme (Her yıl için) | (7.874,15 TL.) | 749.060.000 TL. | 
-b) Eşya sahibine ait geçici depolama yeri izin belgelerinden : |  |  | 
-– Açma | (11.811,65TL.) | 1.123.600.000 TL. | 
-– İşletme (Her yıl için) | (5.849,20TL.) | 556.440.000 TL | 
-XI– (Ek : 24/6/1994 - 4008/34 md.) Finansal faaliyet harçları(1) |  |  | 
-1. ( Değişik:28/1/2010-5951/3 md.) Banka kuruluş ve faaliyet izin belgeleri: |  |  | 
-a) Türkiye’de kurulan bankalar ile yabancı bankalarca Türkiye’de açılan Merkez Şubelere ilişkin izin belgeleri (her yıl için) | (247.710,00 TL.) | 200.000 T.L | 
-b) Serbest bölgelerde faaliyet göstermek üzere kurulan bankalar ve açılan yabancı banka şubelerine ilişkin belgeler (her banka, her şube ve her yıl için) | (247.710,00 TL.) | 200.000 TL | 
-c) Bütün bankaların, serbest bölgelerdekiler de dahil olmak üzere açılan şubeleri (yabancı bankalarca serbest bölgelerde açılan şubeler hariç) için düzenlenen belgeler (her şube ve her yıl için) bir önceki takvim yılı başındaki nüfusa göre; |  |  | 
-Nüfusu 5.000’e kadar olan belediyelerde | (14.862,60 TL.) | 12.000 TL. | 
-Nüfusu 5.000 ila 25.000 arasında olan belediyelerde | (44.587,80 TL.) | 36.000 TL | 
-Nüfusu 25.000’den fazla olan belediyeler ile serbest bölge sınırları içinde | (59.450,40 TL.) | 48.000 TL. | 
+ | Uygulanan Miktar | Kanunla Getirilen Miktar
+b) Yurt içi gümrük hattı dışı eşya satış mağazası izin belgelerinden : |  | 
+– Açma | (18.112,15 TL.) | 1.498.160.000 TL.
+– İşletme (Her yıl için) | (9.055,25 TL.) | 749.060.000 TL.
+c) Giriş-çıkış kapılarında gümrük hattı dışı eşya satış mağazası izin belgelerinden : |  | 
+– Açma | (18.112,15 TL.) | 1.498.160.000 TL.
+– İşletme (Her yıl için) | (9.055,25 TL.) | 749.060.000 TL.
+d) Yat limanlarında gümrük hattı dışı eşya satış mağazası izin belgelerinden : |  | 
+– Açma | (18.112,15 TL.) | 1.498.160.000 TL.
+– İşletme (Her yıl için) | (9.055,25 TL.) | 749.060.000 TL.
+e) Uluslararası faaliyetlerin gerektirdiği yerler de gümrük hattı dışı eşya satış mağazası açma izin belgelerinden : | (4.526,90TL.) | 374.510.000 TL.
+f) Gümrük hattı dışı eşya satış mağazalarına ait depo açma izin belgelerinden : | (4.526,90TL.) | 374.510.000 TL.
+2. Özel antrepo izin belgeleri : |  | 
+– Açma | (13.583,35 TL.) | 1.123.600.000 TL.
+– İşletme (Her yıl için) | (6.726,55TL.) | 556.440.000 TL.
+3. Geçici depolama yeri izin belgeleri : |  | 
+a) Geçici depolama yeri işletmeciliği izin belgelerinden |  | 
+– Açma | (27.168,45 TL.) | 2.247.260.000 TL.
+– İşletme (Her yıl için) | (9.055,25 TL.) | 749.060.000 TL.
+b) Eşya sahibine ait geçici depolama yeri izin belgelerinden : |  | 
+– Açma | (13.583,35TL.) | 1.123.600.000 TL.
+– İşletme (Her yıl için) | (6.726,55TL.) | 556.440.000 TL
+XI– (Ek : 24/6/1994 - 4008/34 md.) Finansal faaliyet harçları(1) |  | 
+1. ( Değişik:28/1/2010-5951/3 md.) Banka kuruluş ve faaliyet izin belgeleri: |  | 
+a) Türkiye’de kurulan bankalar ile yabancı bankalarca Türkiye’de açılan Merkez Şubelere ilişkin izin belgeleri (her yıl için) | (284.866,50 TL.) | 200.000 T.L
+b) Serbest bölgelerde faaliyet göstermek üzere kurulan bankalar ve açılan yabancı banka şubelerine ilişkin belgeler (her banka, her şube ve her yıl için) | (284.866,50 TL.) | 200.000 TL
+c) Bütün bankaların, serbest bölgelerdekiler de dahil olmak üzere açılan şubeleri (yabancı bankalarca serbest bölgelerde açılan şubeler hariç) için düzenlenen belgeler (her şube ve her yıl için) bir önceki takvim yılı başındaki nüfusa göre; |  | 
+Nüfusu 5.000’e kadar olan belediyelerde | (17.091,95 TL.) | 12.000 TL.
+Nüfusu 5.000 ila 25.000 arasında olan belediyelerde | (51.275,95 TL.) | 36.000 TL
+Nüfusu 25.000’den fazla olan belediyeler ile serbest bölge sınırları içinde | (68.367,95 TL.) | 48.000 TL.
 2. (Mülga: 28/1/2010-5951/3 md.) |  | 
-3. Sermaye piyasasında aracılık yapan kurumlara verilen yetki belgeleri (Her belge için ayrı olmak üzere) (Her yıl için) | (36.705,45 TL.) | 1.000.000.000 TL.
+3. Sermaye piyasasında aracılık yapan kurumlara verilen yetki belgeleri (Her belge için ayrı olmak üzere) (Her yıl için) | (42.211,25 TL.) | 1.000.000.000 TL.
 ––––––––––––
 (1) Bu başlık “Finansal faaliyet izin belgesi harçları:” iken 25/12/2003 tarihli ve 5035 sayılı Kanunun 39 uncu maddesiyle “Finansal faaliyet harçları” olarak değiştirilmiş ve metne işlenmiştir.
 3950
 Uygulanan Kanunla Getirilen
 Miktar _____ Miktar_______
-4. Yatırım ortaklığı kurma ve faaliyet izin belgeleri (36.705,45 TL.) 100.000.000 TL.
+4. Yatırım ortaklığı kurma ve faaliyet izin belgeleri (42.211,25 TL.) 100.000.000 TL.
 5. Finansal kiralama şirketleri kuruluş izin belgeleri :
 a) Finansal kiralama şirketleri kuruluş izin bel-
-geleri (Her yıl için) (36.705,45 TL.) 100.000.000 TL.
-b) Finansal kiralama şirketlerinin, serbest bölgelerdekiler de dahil olmak üzere açacakları şubeler için düzenlenen belgeler (Her şube için) (18.352,60 TL.) 50.000.000 TL.
+geleri (Her yıl için) (42.211,25 TL.) 100.000.000 TL.
+b) Finansal kiralama şirketlerinin, serbest bölgelerdekiler de dahil olmak üzere açacakları şubeler için düzenlenen belgeler (Her şube için) (21.105,45 TL.) 50.000.000 TL.
 6. Faktoring şirketleri kuruluş izin belgeleri :
 a) Faktoring şirketleri kuruluş izin belgeleri
-(Her yıl için) (36.705,45 TL.) 100.000.000 TL.
+(Her yıl için) (42.211,25 TL.) 100.000.000 TL.
 b) Faktoring şirketlerinin, serbest bölgelerdekiler de dahil olmak üzere açacakları şubeler için düzenle-
-nen belgeler (Her şube için) (18.352,60 TL.) 50.000.000 TL.
+nen belgeler (Her şube için) (21.105,45 TL.) 50.000.000 TL.
 7. Yetkili müesseseler (Döviz büfeleri) kuruluş izin belgeleri :
 a) Yetkili müesseseler (Döviz büfeleri) kuruluş
-izin belgeleri (Her yıl için) (17.120,35 TL.) (11.220-YTL.) (2)
+izin belgeleri (Her yıl için) (19.688,40 TL.) (11.220-YTL.) (1)
 b) Yetkili müesseselerin (Döviz büfeleri) aça-
-cakları şubeler için düzenlenen belgeler (8.560,10 TL.) (5.610-YTL.) (2)
-8. (Değişik:25/12/2003-5035/39 md.)(1)
-a) Sigorta şirketleri kuruluş izin belgeleri (Her yıl için) (91.764,80 TL.) (42.622.000.000 TL.)
-b) Emeklilik şirketleri kuruluş izin belgeleri (Her yıl için) (64.589,75 TL.) (30.000.000.000 TL.)
+cakları şubeler için düzenlenen belgeler (9.844,10 TL.) (5.610-YTL.) (1)
+8. (Değişik:25/12/2003-5035/39 md.)
+a) Sigorta şirketleri kuruluş izin belgeleri (Her yıl için) (105.529,50 TL.) (42.622.000.000 TL.)
+b) Emeklilik şirketleri kuruluş izin belgeleri (Her yıl için) (74.278,20 TL.) (30.000.000.000 TL.)
 (Ek:31/5/2012-6322/20 md.) (a) ve (b) bentlerinde yer alan şirket kuruluş izin belgelerinin her ikisini de alanlardan, izin belgelerinin alındığı yıldan sonraki yıllarda, bu belgelere ait harçlardan sadece yüksek olanı alınır.
 9. Diğer finansal kurumlara ilişkin belgeler
 a) Diğer finansal kurumlar kuruluş ve faaliyet
-izin belgeleri (Her yıl için) (36,705,45 TL.) 100.000.0000TL.
+izin belgeleri (Her yıl için) (42.211,25 TL.) 100.000.0000TL.
 (Diğer finansal kurumlar, yukarıda belirtilen kurumların dışında kalan, ancak finansal hizmet vermek üzere kuruluşu veya faaliyetleri yetkili kamu mercilerinin iznine tabi gerçek ve tüzel kişilerdir.)
 b) (a) fıkrasında belirtilen kuruluşların açacak-
-ları şubelerle ilgili izin belgeleri (Her şube için) (18.352,60 TL.) 50.000.000 TL.
+ları şubelerle ilgili izin belgeleri (Her şube için) (21.105,45 TL.) 50.000.000 TL.
 10.(Ek:25/12/2003-5035/39 md.; : Mülga: 21/2/2007-5582/33 md.)
 XII- (Ek: 4/6/2008-5766/11 md.)Transfer fiyatlandırması ile ilgili
 yöntem belirleme anlaşması harçları:
-1- Başvuru harcı (38.147,30 TL.) 25.000 YTL
-2- Yenileme harcı (30.517,75 TL.) 20.000 YTL
+1- Başvuru harcı (43.869,35 TL.) 25.000 TL
+2- Yenileme harcı (35.095,40 TL.) 20.000 TL
 XIII- (Ek: 6/5/2009-5897/4 md.)Bağlama kütüğü ruhsatname-
 lerinden ve bunların vizelerinden alınacak harçlar:
 10/8/1993 tarihli ve 491 sayılı Denizcilik Müsteşarlığının Kuru-
@@ -1394,48 +1649,50 @@ luş ve Görevleri Hakkında Kanun Hükmünde Kararname hükümlerine
 göre oluşturulan bağlama kütüklerine kaydedilen gemi, deniz ve iç su
 araçlarına verilecek ruhsatnamelerden ve bunların vizelerinden (Gemi,
 deniz ve iç su aracının boyuna göre):
-5 metreden 9 metreye kadar olanlardan (272,40 TL)
-9 metreden 12 metreye kadar olanlardan (544,85 TL)
-12 metreden 20 metreye kadar olanlardan (1.089,85 TL)
-20 metreden 30 metreye kadar olanlardan (2.179,80 TL)
-30 metreden büyük olanlardan (4.359,65 TL)
+5 metreden 9 metreye kadar olanlardan (313,25 TL) 200 TL.
+9 metreden 12 metreye kadar olanlardan (626,55 TL) 400 TL.
+12 metreden 20 metreye kadar olanlardan (1.253,30 TL) 800 TL.
+20 metreden 30 metreye kadar olanlardan (2.506,75 TL) 1600 TL.
+30 metreden büyük olanlardan (5.013,55 TL) 3200 TL.
 alınır.
 Aracın boyunun tespitinde bir metreden küçük değerler dikkate alınmaz. Münhasıran deniz taşımacılığı ve balıkçılık faaliyetinde kullanılan gemi, deniz ve iç su araçları için alınacak ruhsatname ve yapılacak vize işlemleri bu bölümdeki harçlardan müstesnadır.
+–––––––––––––––––––––
+(1) Bu miktarlar; 28/3/2007 tarihli ve 5615 sayılı Kanunun 16 ncı maddesiyle 1/1/2008 tarihinden geçerli olmak üzere değiştirilmiş ve metne işlenmiştir.
 3950-1
 XIV- (Ek: 31/5/2012-6322/20 md.)Denetim yetkilendirme
 belgeleri ve müşavirlik ruhsat harçları:
 1- Denetim kuruluşları yetkilendirme belgeleri (Her yıl için):
 a)Kamu yararını ilgilendiren kuruluşları denetleyecek bağımsız
 denetim kuruluşları yetkilendirme belgeleri:
-aa) Belgenin verildiği yıl 30.000 TL.
+aa) Belgenin verildiği yıl (34.500,00TL.) 30.000 TL.
 bb) Takip eden yıllarda 10.000 TL’den az olmamak üzere
 bağımsız denetim faaliyetlerinden elde edilen bir önceki
-yıl gayrisafi iş hasılatının Binde 5’i
+yıl gayrisafi iş hasılatının (Binde 5,75’i) Binde 5’i
 b) Diğer kuruluşları denetleyecek bağımsız denetim kuruluşları yetkilendirme belgeleri:
-aa) Belgenin verildiği yıl 15.000 TL
+aa) Belgenin verildiği yıl (17.250,00 TL.) 15.000 TL
 bb) Takip eden yıllarda 5.000 TL’den az olmamak üzere
 bağımsız denetim faaliyetlerinden elde edilen bir önceki
-yıl gayrisafi iş hasılatının Binde 5’i
+yıl gayrisafi iş hasılatının (Binde 5,75’i) Binde 5’i
 2-Denetim yetkilendirme belgeleri ve müşavirlik ruhsat harçları:
-a) Yeminli mali müşavirlik ruhsatı 1.800 TL
-b) Bağımsız denetçi yetkilendirme belgesi 900 TL
-c) Serbest muhasebeci mali müşavirlik ruhsatı 450 TL
+a) Yeminli mali müşavirlik ruhsatı (2.070,00 TL.) 1.800 TL
+b) Bağımsız denetçi yetkilendirme belgesi (1.035,00 TL.) 900 TL
+c) Serbest muhasebeci mali müşavirlik ruhsatı (517,50 TL.) 450 TL
 Bakanlar Kurulu gayrisafi iş hasılatı üzerinden hesaplanacak harcın oranını binde 2’den az, binde 10’dan çok olmamak üzere yeniden belirlemeye yetkilidir. Bakanlar Kurulu bu yetkisini denetim kuruluşlarının gayrisafi iş hasılatlarına göre farklı oranlar belirleyerek de kullanabilir.
-(9) SAYILITARİFE (1)
+(9) SAYILITARİFE (1)(2)
 (Değişik : 4/12/1985 - 3239/96 md.)
 Trafik Harçları
 I – ( Mülga: 6/6/2002-4760/18 md.)
 II – (Değişik: 30/12/2004-5281/11 md.) Sürücü belgesi harçları :
 Karayolları Trafik Kanunu ve Yönetmeliğine göre verilecek sürücü belgelerinden bir defaya mahsus olmak üzere;
-a) A sınıfı sürücü belgelerinden (A1 ve A2 dahil) (96,35 TL.) (50,00 YTL)
-b) B sınıfı sürücü belgesinden (290,10 TL.) (150,00 YTL)
-c) F ve H sınıfı sürücü belgelerinden (96,35 TL.) (50,00 YTL)
-d) Uluslararası sürücü belgelerinden (193,40 TL.) (100,00 YTL)
-e) Diğer sürücü belgelerinden (483,80 TL.) (250,00 YTL)
+a) A sınıfı sürücü belgelerinden (A1 ve A2 dahil) (110,80 TL.) (50,00 YTL)
+b) B sınıfı sürücü belgesinden (333,60 TL.) (150,00 YTL)
+c) F ve H sınıfı sürücü belgelerinden (110,80 TL.) (50,00 YTL)
+d) Uluslararası sürücü belgelerinden (222,40 TL.) (100,00 YTL)
+e) Diğer sürücü belgelerinden (556,35 TL.) (250,00 YTL)
 Stajyer sürücü belgeleri ilgili olduğu sınıfa ait harca tâbi tutulur.
 ——————————
-(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 31/12/2011 tarihli ve 28159 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 65 Seri No’lu Tebliği ile 1/1/2012 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
-(2) Bu miktarlar; 28/3/2007 tarihli ve 5615 sayılı Kanunun 16 ncı maddesiyle 1/1/2008 tarihinden geçerli olmak üzere değiştirilmiş ve metne işlenmiştir.
+(1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 1/1/2013 tarihli ve 28515 sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 69 Seri No’lu Tebliği ile 1/1/2013 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
+(2) Bu Tarifedeki miktarlar için; Muvazzaf ve Fahri Konsolosluklarımızın yapacağı işlemlerden, 1/1/2013 tarihinden itibaren alacakları harç miktarında esas olacak döviz kuru 1 ABD Doları 1.80 TL olarak belirlenmiş ve emsal sayının 1,00 olarak uygulanacağı, Maliye Bakanlığı’nın 1/1/2013 tarihli ve 28515 sayılı Resmi Gazete’de yayımlanan 70 Seri No’lu Tebliği ile hüküm altına alınmıştır.
 3950-2
 Uygulanan Kanunla Getirilen
 Miktar Miktar
@@ -1445,64 +1702,20 @@ Karayolları Trafik Kanunu ve Yönetmelik hükümlerine göre yapılacak sürüc
 V – (Mülga: 16/7/2004-5228/60 md.) Teknik muayene harçları :
 VI – Ruhsat (İzin) harçları :
 Karayolları Trafik Kanununun;
-a) 13 üncü maddesine göre verilecek izin belgelerinden (268,40 TL.) 367.000 TL.
+a) 13 üncü maddesine göre verilecek izin belgelerinden (308,65 TL.) 367.000 TL.
 b) 16 ncı maddesine göre verilecek izin belgelerinden
-(Her yıl için) (538,40 TL.) 734.800 TL.
+(Her yıl için) (619,15 TL.) 734.800 TL.
 c) 17 nci maddesine göre verilecek izin belgelerinden
-(Her yıl için) (1.078,90 TL.) 1.470.800 TL.
-d) 33 üncü maddesine göre verilecek izin belgesinden (538,40 TL.) 734.800 TL.
+(Her yıl için) (1.240,70 TL.) 1.470.800 TL.
+d) 33 üncü maddesine göre verilecek izin belgesinden (619,15 TL.) 734.800 TL.
 e) 35 inci maddesine göre verilecek işletme belgesin-
-den (Her yıl için) (2.698,80 TL.) 3.677.400 TL.
+den (Her yıl için) (3.103,60 TL.) 3.677.400 TL.
 f) (Mülga: 9/4/2003-4842/27 md.)
 VII – Geçici trafik belgeleri harçları :
 a) Karayolları TrafikKanunu ve Yönetmelik hüküm-
 lerine göre verilecek geçici trafik belgelerinden;
-aa) A sınıfı trafik belgelerinden; (1.573,50 TL.) 2.145.000 TL.
-bb) Diğerlerinden (156,05 TL.) 214.000 TL.
+aa) A sınıfı trafik belgelerinden; (1.809,50 TL.) 2.145.000 TL.
+bb) Diğerlerinden (179,45 TL.) 214.000 TL.
 b) Karayolu uygunluk belgesi verilmeyen araçlara ve-
-rilen izin belgesinden (178,70 TL.) 244.800 TL.
+rilen izin belgesinden (205,50 TL.) 244.800 TL.
 3951
-492 Sayılı Kanunun Bazı Maddelerindeki Oran ve Miktarlarda
-ÇEŞİTLİ MEVZUAT İLE YAPILAN
-DEĞİŞİKLİKLER CETVELİ
-DEĞİŞİKLİK YAPAN YAYIMLANDIĞI RESMİ DEĞİŞİKLİK GÖREN GAZETENİN MEVZUATIN TARİHİ NUMARASI CİNSİ TARİHİ NUMARASI MADDE CETVEL
-29/7/1970 | 1318 | KANUN | 10/8/1970 | 13575 | 105 ila112 | 1 ila 9
-18/3/1976 | 1977 | KANUN | 1/4/1976 | 15546 | 1 | 6
-21/11/1980 | 2345 | KANUN | 28/11/1980 | 17174 | 2 | 1 ila 9
-30/12/1980 | 2366 | KANUN | 31/12/1980 | 17207 | 2 | 2
-20/3/1981 | 2430 | KANUN | 22/3/1981 | 17287 | 4,5,6,7 | 1,5,6,8
-21/1/1982 | 2588 | KANUN | 27/1/1982 | 17587 | 14 ila 17 | 1 ila 4
-10/4/1985 | 3180 | KANUN | 13/4/1985 | 18724 | 3 | 6
-4/12/1985 | 3239 | KANUN | 11/12/1985 | 18955 | 96 | 1,4,8,9
-20/12/1985 | 85/10177 | B.K.K. | 26/12/1985 | 18970 | - | 1 ila 9
-30/12/1987 | 87/12462 | B.K.K. | 31/12/1987 | 19681 (Mük.) | - | 1 ila 9
-22/12/1988 | 88/13600 | B.K.K. | 30/12/1988 | 20035 | - | 1 ila 9
-27/12/1989 | 89/14920 | B.K.K. | 30/12/1989 | 20388 | - | 1 ila 9
-- | Seri No: 18 | Tebliğ | 24/12/1991 | 21091 | - | 1 ila 9
-- | Seri No:19 | Tebliğ | 18/12/1992 | 21439 | - | 1 ila 9
-- | Seri No:24 | Tebliğ | 23/12/1993 | 21797 | - | 1 ila 9
-- | Seri No:31 | Tebliğ | 27/12/1996 | 22860 | - | 1 ila 9
-- | Seri No:33 | Tebliğ | 16/12/1997 | 23202 (Mük.) | - | 1 ila 9
-- | Seri No:34 | Tebliğ | 1/12/1998 | 23540 (Mük.) | - | 1 ila 9
-- | Seri No:36 | Tebliğ | 6/12/1999 | 23908 | - | 1 ila 9
-- | Seri No:37 | Tebliğ | 22/12/2000 | 24268 | - | 1 ila 9
-- | Seri No:38 | Tebliğ | 19/12/2001 | 24615 | - | 1 ila 9
-- | Seri No:45 | Tebliğ | 30/12/2004 | 25686 | - | 1 ila 9
-- | Seri No:46 | Tebliğ | 5/1/2005 | 25691 | - | 1 ila 9
-- | Seri No:49 | Tebliğ | 18/12/2005 | 26027 | - | 1 ila 9
-- | Seri No:50 | Tebliğ | 27/12/2005 | 26036 | - | 2
-- | Seri No:52 | Tebliğ | 20/12/2006 | 26382 | - | 1 ila 9
-- | Seri No:54 | Tebliğ | 26/12/2007 | 26738 | - | 1 ila 9
-- | Seri No:55 | Tebliğ | 26/12/2007 | 26738 | - | (2,5,6 ve 7)
-- | Seri No:57 | Tebliğ | 23/12/2008 | 27089 | - | (2,5,6 ve 7)
-- | Seri No:58 | Tebliğ | 24/12/2008 | 27090 | - | 1 ila 9
-- | 2009/14813 | Tebliğ | 29/3/2009 | 27184 | - | (4)
-- | Seri No:60 | Tebliğ | 31/12/2009 | 27449 | - | 1 ila 9
-- | Seri No:61 | Tebliğ | 31/12/2009 | 27449 | - | (2,5,6 ve 7)
-7/6/2010 | 2010/512 | B.K.K. | 20/6/2010 | 27617 | - | (6)
-- | Seri No:62 | Tebliğ | 20/6/2010 | 27617 | - | (6)
-- | Seri No:63 | Tebliğ | 29/12/2010 | 27800(6.Mük.) | - | 1 ila 9
-- | Seri No:64 | Tebliğ | 29/12/2010 | 27800(6.Mük.) | - | (2,5,6 ve 7)
-- | Seri No:65 | Tebliğ | 31/12/2011 | 28159 | - | 1 ila 9
-- | Seri No:66 | Tebliğ | 31/12/2011 | 28159 | - | (2,5,6 ve 7)
-3953
