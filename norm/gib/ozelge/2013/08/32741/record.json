@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-130[28-2013]-121",
+  "source_id": 32741,
+  "date": "2013-08-13",
+  "title": "Toptancı halinde bulunan işyeri vasıtasıyla temin edilen taze meyve ve sebzenin, KDV mükelleflerine satışında uygulanacak KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32741",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "518b9e53b655f4c2c1f60a5b39e0af75686972472be12ef2285a18b71f832f09",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
