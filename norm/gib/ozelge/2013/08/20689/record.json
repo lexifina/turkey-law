@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[30-2012/345]-1241",
+  "source_id": 20689,
+  "date": "2013-08-14",
+  "title": "Geçici süre ile yurtdışında, görevlendirilen şirket personeline iki ülkede de ücret ödemesi yapılması durumunda vergilendirme.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20689",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "0fbe4702be0e94259fa6062f17385d2ad4d015351b3c5eec96364aba5c1ec31b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
