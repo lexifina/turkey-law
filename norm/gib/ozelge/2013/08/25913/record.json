@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "72788441-105-48",
+  "source_id": 25913,
+  "date": "2013-08-14",
+  "title": "Malların teslimi sırasında fatura düzenlenmesi ve muhtelif müşterilere yapılan sevkıyatlarda tek bir irsaliye düzenmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25913",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "cb38bc2e55ed1034a5e3444fc0e9fbe018c78503a54d861a24a865a7d69d9939",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
