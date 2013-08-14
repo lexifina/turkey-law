@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-155[19-2012/175]-1250",
+  "source_id": 23421,
+  "date": "2013-08-14",
+  "title": "Mahkeme tarafından ödenecek kıdem tazminatı ve ihbar tazminatının GVK'na göre verilecek beyannamede gider yazılıp yazılmayacağı,ödenecek damga vergisinin muhtasar beyannameye dahil edilip edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/23421",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "ccfc05f0a33e7d38d2c2bcf449ae2ae7107b8cf7d7a355f7133ddb8078e927eb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
