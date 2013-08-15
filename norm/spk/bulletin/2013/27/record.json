@@ -1,0 +1,84 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2013/27",
+  "date": "2013-08-15",
+  "title": "SPK Haftalık Bülteni 2013/27",
+  "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_27.pdf",
+  "source_sha256": "99e9b9276aa9194c67efe4f06c62d98c38e888787dc124bdc77e9e42e2af5927",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "A. YENİ BAŞVURULAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. YENİ BAŞVURULAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_27.pdf"
+    },
+    {
+      "heading": "C. YENİ FAALİYET İZİNLERİ",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Ceyhun Atıf Kansu",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_27.pdf"
+    },
+    {
+      "heading": "D. SUÇ DUYURUSU, İDARİ PARA CEZASI İLE DİĞER YAPTIRIM VE TEDBİRLER",
+      "status": "metadata-only",
+      "reason": "sanctions-metadata-only",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_27.pdf"
+    },
+    {
+      "heading": "B. 6362 sayılı SPKn'nun 101/1-(b) maddesi çerçevesinde, 16.08.2013 tarihinden başlamak üzere, BEYAZ pay piyasasında",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_27.pdf"
+    },
+    {
+      "heading": "C. 6362 sayılı SPKn'nun 101/1-(ç) maddesi çerçevesinde, mevcut tüm üyelerini bilgilendirmesini teminen, 16.08.2013",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_27.pdf"
+    },
+    {
+      "heading": "D. 6362 sayılı SPKn'nun 101/1-(c) maddesi çerçevesinde, BEYAZ paylarının açığa satış ve kredili menkul kıymet",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Yasaklı Paylar",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_27.pdf"
+    },
+    {
+      "heading": "B. 6362 sayılı SPKn'nun 101/1-(b) maddesi çerçevesinde, 16.08.2013 tarihinden başlamak üzere, BAKAN pay",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_27.pdf"
+    },
+    {
+      "heading": "C. 6362 sayılı SPKn'nun 101/1-(ç) maddesi çerçevesinde, mevcut tüm üyelerini bilgilendirmesini teminen, 16.08.2013",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_27.pdf"
+    },
+    {
+      "heading": "D. 6362 sayılı SPKn'nun 101/1-(c) maddesi çerçevesinde, BAKAN paylarının açığa satış ve kredili menkul kıymet",
+      "status": "metadata-only",
+      "reason": "sanction-or-person-data",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_27.pdf"
+    },
+    {
+      "heading": "G. DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_27.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
