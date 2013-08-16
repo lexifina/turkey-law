@@ -1,0 +1,3 @@
+Karşılıklı tanıma
+MADDE 14 – (1) Bu Tebliğ hükümleri Avrupa Birliği üyesi bir ülkede yasal olarak üretilmiş veya yasal olarak serbest dolaşıma girmiş ürünlere uygulanmaz.
+(2) Ancak Bakanlık, birinci fıkrada belirtilen ürünü, 2/5/2012 tarihli ve 2012/3169 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Düzenlenmemiş Alanda Karşılıklı Tanıma Yönetmeliğinin Üçüncü Bölümünde belirtilen usul ve esaslara uyarak değerlendirmeye tabi tutabilir ve bunun sonucunda bu Tebliğ ile aranan koruma düzeyini eşdeğer ölçüde sağlamadığını tespit ederse ürünün piyasaya arzını yasaklayabilir, koşula bağlayabilir veya piyasadan geri çekilmesini veya toplatılmasını isteyebilir.

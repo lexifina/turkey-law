@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.18730",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ TUZ TEBLİĞİ (TEBLİĞ NO: 2013/48)",
+  "number": "18730",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2013/18730",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18730&MevzuatTertip=5",
+  "source_sha256": "821fd241b7e81012465067b32616bc9ec1f13e69a8c592d5d872bbd4ebf4dd15",
+  "source_bytes": 21561,
+  "published": "2013-08-16",
+  "gazette": "28737",
+  "in_force": "2013-08-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.08.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1394,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18730%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
