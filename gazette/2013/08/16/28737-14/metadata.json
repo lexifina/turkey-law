@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-08-16",
+  "issue": "28737",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gaz Tüpleri ile İlgili Tebliğ (TS EN ISO 14245, TS EN 13953+A1, TS EN ISO 15995) (No: MSG - MS - 2013/21)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130816-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130816.htm",
+  "index_sha256": "590ef33b255e81ca47b9d344cd69b5733b1d7fe25c5d9fb4abc9a180529bf1a3",
+  "index_header": "16 Ağustos 2013 ... 28737 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130816.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
