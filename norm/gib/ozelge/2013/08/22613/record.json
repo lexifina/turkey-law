@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "26468226-120[606-88-2012]-75",
+  "source_id": 22613,
+  "date": "2013-08-16",
+  "title": "Şirketin Gürcistan'a yaptığı ihracaatla ilgili olarak Gürcistan'daki satış ve pazarlama faaliyetlerini yürüten gürcü personele yapılan ücret ödemelerinin vergilendirilmesi ve bu ücret ödemelerinin gider olarak yazılıp yazılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22613",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "a974207499f6527f84388f1ce4c3be529ce61df9f6656bc6472fee5856077058",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
