@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130-1266",
+  "source_id": 30100,
+  "date": "2013-08-16",
+  "title": "Yurt dışında çalışan personele yapılan ücret ödemesinin yurt dışındaki şirkete yansıtılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30100",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "d136fe5c9b3d58323a783adf738c5e7991e0346b7d9d77ca0be6b8935848b5fe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
