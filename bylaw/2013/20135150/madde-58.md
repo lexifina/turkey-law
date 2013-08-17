@@ -1,0 +1,2 @@
+Yararlanan taşınmaz yönünden irtifak haklarının taşınması
+MADDE 58 – (1) İrtifak hakkından yararlanan taşınmazın bölünmesi hâlinde kural olarak, irtifak hakkı her taşınmaz yararına devam eder. Ancak bu haktan bir veya birden fazla taşınmaz yararlanıyorsa, yüklü taşınmaz maliki irtifak hakkının diğer taşınmazlardan terkinini isteyebilir. Müdürlük, bu istemi irtifak hakkı sahibine bildirir ve bildirim tarihinden itibaren bir ay içinde itiraz edilmezse irtifak hakkı terkin edilir.

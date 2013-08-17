@@ -1,0 +1,3 @@
+Seri halinde senet çıkarılması
+MADDE 45 – (1) 4721 sayılı Kanunun 931 inci maddesi uyarınca seri halinde senet çıkarılırsa, rehinle ilgili işlemlerden başka, çıkarılan senetlerin adedi, taşınmazın kayıtlı olduğu kütük sayfasının rehin haklarına ait düşünceler sütununda belirtilir.
+(2) Tahvilleri güvence altına almak üzere çıkarılan ipotekli borç veya irat senetleri, rehin olarak tescil edilirken, tahvillerin nama veya hamiline yazılı olduğu alacaklılar sütununda ayrıca belirtilir. Tahvillerin adet ve niteliği ile varsa alacaklı ve borçluyu temsil eden kişinin adı rehin haklarına ait düşünceler sütununda belirtilir.

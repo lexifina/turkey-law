@@ -1,0 +1,2 @@
+Yüklü taşınmaz yönünden irtifak haklarının taşınması
+MADDE 59 – (1) Yüklü taşınmazın bölünmesi hâlinde kural olarak, irtifak hakkı her taşınmaz üzerinde devam eder. Ancak, irtifak hakkı belirli taşınmazlar üzerinde kullanılmazsa, bu taşınmazların maliklerinden her biri kendi taşınmazı üzerindeki irtifak hakkının terkinini isteyebilir. Müdürlük, bu istemi irtifak hakkı sahibine bildirir ve bildirim tarihinden itibaren bir ay içinde itiraz edilmezse irtifak hakkı terkin edilir.

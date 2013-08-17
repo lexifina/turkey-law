@@ -1,0 +1,3 @@
+Yeni parsel oluşumunu gerektirmeyen bölünmelerde hakların durumu
+MADDE 65 – (1) Taşınmazın kamulaştırma nedeniyle, hakların ve yüklerin aktarılmasına gerek olmaksızın bir parçasının ayrılarak sicilden terkini gerekiyor ise, kütük sayfası, taşınmazın diğer kısmı için olduğu gibi bırakılır. Ayrılan parçanın yüzölçümü, ayırma tarihi ve yevmiye numarası ile ayırma nedeni taşınmazın yüzölçümü kısmında gösterilir ve miktarından düşülür. İşlemin sonucu, kütükteki bütün hak sahiplerine ve kamulaştırmayı yapan idareye bildirilir.
+(2) Malikin istemiyle kamuya ayrılan alanlara terk hâlinde ise, kütükteki bütün hak sahiplerinin onayı aranır.
