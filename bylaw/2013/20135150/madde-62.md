@@ -1,0 +1,4 @@
+Aynen taksimde rehin hakkının taşınması
+MADDE 62 – (1) Aynı hissedarlara ait birden fazla taşınmaz, müşterek ve müteselsil rehinli olup, bölünme söz konusu olmaksızın taksim edilir ise, rehin bütün taşınmazlar üzerinde olduğu gibi korunur, işlemin sonucu alacaklıya hemen bildirilir,
+(2) Aynı hissedarlara ait birden fazla taşınmaz, müşterek ve müteselsil sorumlu olmaksızın ayrı ayrı rehinli olup, aynen taksimi istenirse, rehin alacaklısının onayı alınır. Rehin alacaklısı onay vermezse, istemde bulunan tarafın mahkemeden alacağı karara göre işlem yapılır ve işlem sonucu alacaklılara hemen bildirilir.
+(3) Hissedarlar, rehin haklarının hukukî sonuçlarını kabul ederek rehnin aynen taksim sonucunda oluşacak taşınmazlarına müşterek rehin olarak aynen taşınmasına onay verirlerse, bu duruma göre işlem yapılır.

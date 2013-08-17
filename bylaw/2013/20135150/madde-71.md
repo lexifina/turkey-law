@@ -1,0 +1,3 @@
+İpotekli borç senedi ve irat senedinin iptali
+MADDE 71 – (1) İpotekli borç senedi veya irat senedinin iptali, kırmızı mürekkepli kalemle çapraz çizgi çekilmek ve terkin edildiği hususu yazılmak, terkine ilişkin tarih ve yevmiye numarası belirtilmek ve müdür tarafından imzalanmak suretiyle yapılır.
+(2) İpotekli borç senedi veya irat senedi yıpranmış ve okunamayacak hale gelmiş ise, aynı usulle ve üzerine iptal nedeni yazıldıktan sonra iptal edilip, yeniden verilme nedeni belirtilmek suretiyle yeni senet verilir. Yeni senet müdür ile defterdar veya malmüdürü tarafından imzalanır. İptal edilen senetler kütük sayfasına ait dosyada saklanır.

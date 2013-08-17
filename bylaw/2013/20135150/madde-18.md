@@ -1,0 +1,9 @@
+Hak sahibinin belirlenmesi
+MADDE 18 – (1) İstem, müdür veya görevlendireceği tapu görevlisi tarafından incelenir ve istemin hak sahibi tarafından yapılıp yapılmadığı belirlenir.
+(2) İstemde bulunan hak sahibi gerçek kişi ise, Türkiye Cumhuriyeti kimlik numaralı nüfus cüzdanı istenir, ibraz edilen kimlik bilgileri ile tescile esas belgelerde yer alan nüfus bilgileri karşılaştırılarak istemde bulunan ile hak sahibinin aynı kişi olup olmadığı tespit edilir.
+(3) Hak sahibinin tespit edilmesine yönelik kimlik doğrulama yöntemlerini belirleyerek her türlü teknolojik güvenlik önlemlerini almaya Genel Müdürlük yetkilidir.
+(4) İstem vekâleten yapılmışsa, vekilden 18/1/1972 tarih ve 1512 sayılı Noterlik Kanununa göre düzenlenmiş ve istem konusu işleri yapmaya yetkili olduğunu içerir vekâletname istenir. Tapu işlemi için düzenlenecek vekâletnamelerde, vekâlet verenin imzasının bulunması zorunludur. Vekil, tevkil yetkisine dayalı olarak bir başkasını vekil tayin etmiş ise, dayanağı olan vekâletname de aranır. Vekilin kimliği belirlendikten sonra, tapu sicilindeki hak sahibi ile vekâletnamedeki vekâlet verenin kimliği ikinci fıkra hükmüne göre karşılaştırılır.
+(5) İstem bir tüzel kişi adına yapılmış ise, tüzel kişinin istemde bulunulan işlemi yapabileceğini ve temsilcilerini belirten, kanunlarda yazılı mercilerden alınmış yetki belgesi ve imza sirküleri aranır. Yetki belgesinde, temsilcinin Türkiye Cumhuriyeti kimlik numarasının da bulunması zorunludur.
+(6) İstemde bulunan kişi kanunî temsilci ise, yetkili olduğunu belirten karar veya belge istenir.
+(7) İstem, kamu kurum ve kuruluşlarınca yapılırsa, bu kamu kurum ve kuruluşlarının ve temsilcilerinin yetkilerinin olup olmadığı belirlenir.
+(8) Yabancı uyruklu gerçek kişiler ve yabancı ülkelerde kendi ülkelerinin kanunlarına göre kurulan tüzel kişiliğe sahip ticaret şirketlerinin tapu ve kadastro işlemlerinde kullanılacak belgeleri belirlemeye Genel Müdürlük yetkilidir.
