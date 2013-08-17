@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.18739",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 62)",
+  "number": "18739",
+  "path": "teblig/2013/18739",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18739&MevzuatTertip=5",
+  "source_sha256": "c2cdb43bb831b822553cd34b6f7dbafa74cb3dfdd0a96b54b014c5d88c5dff21",
+  "source_bytes": 8401,
+  "published": "2013-08-17",
+  "gazette": "28738",
+  "in_force": "2013-08-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.08.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 181,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18739-ek.xls",
+    "http://www.resmigazete.gov.tr/eskiler/2013/08/20130817-18-1.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
