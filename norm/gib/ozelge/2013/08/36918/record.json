@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-185.01[13.1]-241",
+  "source_id": 36918,
+  "date": "2013-08-19",
+  "title": "Kurulum hizmeti ile modem, switch vb. donanım satış işlemlerinin ÖİV'ye tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36918",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "3aa69e448037a5a0d2245c4e17c59a06614959fca72a5273bfbb6a09009d7dee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
