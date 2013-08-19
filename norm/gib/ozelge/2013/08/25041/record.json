@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[6-2012/210]-1277",
+  "source_id": 25041,
+  "date": "2013-08-19",
+  "title": "Banka ile anlaşarak müşterilere işletme kartı tahsis edilmesi ve bu kartla tahsil edilen avans tutarlarının beyannamede KDV, KVK ve VUK yönünden ne şekilde gösterileceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/25041",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "27d40b7ad3b201d99aafcb52baa8da426f71b797e49439b51890859e3566db6f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
