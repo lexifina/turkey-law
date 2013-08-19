@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[23-2013/2]-1284",
+  "source_id": 20754,
+  "date": "2013-08-19",
+  "title": "Yurt dışında mukim kurumdan elde edilen ücret gelirinin vergilemesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20754",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "65bb8c147c524bb35683ad49bd4717d38c9b824418c54b749b785a6c9b42f9b5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
