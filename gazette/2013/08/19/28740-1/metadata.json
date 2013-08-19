@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-08-19",
+  "issue": "28740",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Gedik Üniversitesi Önlisans, Lisans Eğitim Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130819-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130819.htm",
+  "index_sha256": "fe2b41ed1d6d74765056d4aaa4c8186072ff220805d923105cac553c3ec84cc6",
+  "index_header": "19 Ağustos 2013 ... 28740 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130819.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
