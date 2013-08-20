@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-140.01.01[13-2013/20-314]-88",
+  "source_id": 35429,
+  "date": "2013-08-20",
+  "title": "%47 oranında özürlü sağlık kurulu raporu bulunan mükellefin mahkemede dava açması halinde mahkeme harcından istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35429",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "5dddd53b65790f21cec715d27d4efc3837c61591bd409ea0237f755b73e69fe8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
