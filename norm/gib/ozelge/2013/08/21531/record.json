@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "75497510-120[61-2013-108]-40",
+  "source_id": 21531,
+  "date": "2013-08-20",
+  "title": "Genel sağlık sigortası primi kesilmeyen vazife malulü ve/veya gazi işçilerin hastalıkları nedeniyle istirahat almaları durumunda; istirahatli oldukları sürelere ilişkin ücretlerinin vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21531",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "29bc2b88b987f6d7630b4bf8dee019960cb75f8e4c875485682e2d222f13cc81",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
