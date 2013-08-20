@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[9-13/33]-877",
+  "source_id": 20936,
+  "date": "2013-08-20",
+  "title": "Seyyar hurdacılık faaliyetinin esnaf muaflığı kapsamında değerlendirilip değerlendirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20936",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "b8c65ce5e069fd85412ec3dbe205d57716182071f9655c470319de8aadbac1f8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
