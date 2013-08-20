@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37538499-120[42-2012-3]-15",
+  "source_id": 24586,
+  "date": "2013-08-20",
+  "title": "Vakıflar Bölge Müdürlüğünce yaptırılan işin serbest meslek kazancı mı ticari kazanç mı olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24586",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c5d3105d188351be38121bf1ee98f1de35eb512fb39ff6281dfe01cef0cc9f21",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
