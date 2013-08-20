@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-105[313-2013]-136",
+  "source_id": 26987,
+  "date": "2013-08-20",
+  "title": "Yurt dışı firmadan alınan yazılım hizmetlerinin uyarlanması amacıyla yapılan harcamalar ile yazılım için ödenen kullanım bedellerinin giderleştirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26987",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "12cbb94c5faa0310c3cd53338e302eedfea592aac2370b5c37a0f964082b8867",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
