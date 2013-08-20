@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-35-02-507",
+  "source_id": 32738,
+  "date": "2013-08-20",
+  "title": "1. sınıf lokanta tarafından yemek organizatörü firmaya düzenlenecek faturada KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32738",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "e0d5575b66eec2f651c4e0421b09bcca9ff22af744f3f74ddcc729d0b99dee82",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
