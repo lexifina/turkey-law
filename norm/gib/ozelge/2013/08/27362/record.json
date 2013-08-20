@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-125[49.01.08]-77",
+  "source_id": 27362,
+  "date": "2013-08-20",
+  "title": "Manisa Organize Sanayi Bölgesi tarafından inşa edilip MEB'na 49 yıllığına kiralanan ... Meslek Lisesinin geri alınarak aynı statüde okul olarak işletilmesi halinde KV, KDV hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27362",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "1c8e082c25b63b425905a535a43d1a3576c824dc69bb4e3ca3932a11b77703e2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
