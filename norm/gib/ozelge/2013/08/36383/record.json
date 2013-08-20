@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-160[7-2013-1]-516",
+  "source_id": 36383,
+  "date": "2013-08-20",
+  "title": "Miras Taksim Sözleşmesine istinaden Veraset ve İntikal Beyannamesi verilip verilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36383",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "c7db0adab1761a4af97dddc1f7262fae0d7f5e8bece81a1393483f020b290492",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
