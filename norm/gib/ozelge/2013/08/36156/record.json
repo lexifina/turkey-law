@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "61504625-13183/7794-24",
+  "source_id": 36156,
+  "date": "2013-08-20",
+  "title": "Esnaf ve Sanatkarlar Kredi Kefalet Kooperatiflerince kullandırılan kredinin geri ödenmemesi üzerine başlatılan icra takipleri nedeniyle ödenen harçlar ile vekalet suret harcının 492 sayılı Harçlar Kanununun 123'üncü maddesi kapsamında değerlendirilip iade",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36156",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "ac64cd20f29a361d00febd893cda01a295125a9e2d993c29bff8081df42791a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
