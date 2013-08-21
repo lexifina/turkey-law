@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-130[11-2013/111]-162",
+  "source_id": 30945,
+  "date": "2013-08-21",
+  "title": "Yurt dışındaki müşteriye satılan malların gümrük bölgesinden çıkmadan yurt dışındaki firma tarafından tekrar yurt içindeki başka bir müşteriye satılmasında KDV uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30945",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "7f54fc6287fba316ceed5328335234b9605e07956406f700e185ed372d57e905",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
