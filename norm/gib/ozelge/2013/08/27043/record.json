@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "53445970-105-[315-2012-27-16]-81",
+  "source_id": 27043,
+  "date": "2013-08-21",
+  "title": "Bir takvim yılından kısa hesap dönemlerinde kıst amortisman ayrılması ve amortisman ayrılan bu kıst hesap dönemlerinin itfa süresi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27043",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7f39c3f1ce6638af8a5854ac3896f71505ad5a156d183c84d6d5d7934e0e8d3d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
