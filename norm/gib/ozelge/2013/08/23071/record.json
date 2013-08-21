@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120.02[52-2013-1]-519",
+  "source_id": 23071,
+  "date": "2013-08-21",
+  "title": "Muhabbet Kuşu ve Kanarya Üretimi ve Satışının Vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23071",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "d66e269851b36e53f8b132d685dec2b3daf3787203a79baf6819a6edc8005948",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
