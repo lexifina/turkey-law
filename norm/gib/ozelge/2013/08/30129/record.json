@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-130[8-2012/19]-157",
+  "source_id": 30129,
+  "date": "2013-08-21",
+  "title": "fazla ve yersiz ödenen kdv nin iadesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30129",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "934faa5cc71864400d4fa60bda84a4450be9ea5ccbe38b2993bf05fbeeaf497a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
