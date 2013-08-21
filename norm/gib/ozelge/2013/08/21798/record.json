@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-125[6(40/5)-2012/9]-165",
+  "source_id": 21798,
+  "date": "2013-08-21",
+  "title": "Hava taşıtı alımında KDV istisnası ve giderlerinin indirimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/21798",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "88ee78fcadcc6bcb0248af276f6bdc59fb57a197e86c9117d45e791cac85a807",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
