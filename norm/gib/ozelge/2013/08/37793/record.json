@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120.03.08.05[5225-13/1]-883",
+  "source_id": 37793,
+  "date": "2013-08-21",
+  "title": "5225 sayılı Kanun kapsamında gelir stopaj teşviki hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37793",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "a8fe76ee727a6302b218a45d6fc4da352deb64f5deecea4a077d77a2c84ae01b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
