@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-180[29-2013]-140",
+  "source_id": 36850,
+  "date": "2013-08-22",
+  "title": "Tapuda apart ünite olarak tescilli olan ve mesken amaçlı olarak kullanılacak taşınmaz mallarla ilgili kullandırılacak kredilere KKDF ve BSMV istisnası uygulanıp uygulanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36850",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "91415742e6513d709913e8164cc576e67af545b75d2bc97d79d7736478e7cf76",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
