@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "71387770-105[258-2013/48]-28",
+  "source_id": 22608,
+  "date": "2013-08-22",
+  "title": "Aktif abonelerden alınan güvence bedelinin (Depozito niteliği taşıyan) VUK'un hangi değerleme ölçüsü ile yapılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22608",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "3c42e1b530fdb5749a38582c848ad49e9f7f2be0076a1607f51bc9ef24fd3196",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
