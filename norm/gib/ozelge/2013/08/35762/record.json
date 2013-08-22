@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-140[57-2013-37]-525",
+  "source_id": 35762,
+  "date": "2013-08-22",
+  "title": "Gerçek alım-satım bedeli, banka eksperinin belirlediği bedel, kredi tutarı ve ilgili belediyeden alınan emlak vergisi değeri bulunan taşınmazın tapuda yapılacak alım-satım işleminde tapu harcının hangi bedel üzerinden ödeneceği hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35762",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "00fa3c2f207c7ff26235d9e7f0c6b20ea103b300f2cf53a7f79e99c77c43a3d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
