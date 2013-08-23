@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-140[57/2012-8]-71",
+  "source_id": 35761,
+  "date": "2013-08-23",
+  "title": "\"korunması gerekli kültür varlığı\" ve \"3.derece kentsel arkeolojik sit\" şerhleri olan parselin bağışlanmasında mükellefin tapu harcından muaf olup olmadığı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35761",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "7348287aaeca85c11ef84fbd4d420c45094635ef9cf196a702da3a92d95fba31",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
