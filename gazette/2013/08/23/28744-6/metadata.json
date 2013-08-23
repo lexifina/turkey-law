@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-08-23",
+  "issue": "28744",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türk Standardları Enstitüsü Personel Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130823-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130823.htm",
+  "index_sha256": "d21f157df81e09a5ef418356bbffaad90aa0ca8659765d631ee63169a8d16ec6",
+  "index_header": "23 Ağustos 2013 ... 28744 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/08/20130823.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
