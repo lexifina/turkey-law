@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[5-2013/101]-1307",
+  "source_id": 27875,
+  "date": "2013-08-23",
+  "title": "Şirketin iştirak hisselerinin satışından elde edeceği kazancının kurumlar vergisi istisnasından yararlanıp yararlanamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27875",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "d99fa02ce05b1fcfb95a6c80e9dea5bc757a92f137ba2708a8dca97b193d197d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
