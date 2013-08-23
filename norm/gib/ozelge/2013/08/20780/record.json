@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-019.01-1315",
+  "source_id": 20780,
+  "date": "2013-08-23",
+  "title": "Dar mükellef kurumun iki yıldan az süreyle aktifinde bulundurduğu hisse senetlerini satması halinde vergilendirilmesi ve belge düzeni.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/20780",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "ba65a2cfad8c569911853173f14f7716197afe999761ba967121884471314ec5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
