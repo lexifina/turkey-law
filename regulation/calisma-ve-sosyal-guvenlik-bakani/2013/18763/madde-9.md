@@ -1,0 +1,2 @@
+İş sağlığı ve güvenliği hizmetleri
+MADDE 9 – (1) 6331 sayılı Kanunun 6 ncı maddesine göre işyerinde iş sağlığı ve güvenliği hizmetlerinin yerine getirilmesi için görevlendirilen kişiler; belirli süreli veya geçici süreli iş sözleşmeleri ile istihdam edilecek çalışanlarla ilgili olarak geçici iş ilişkisi kurulan veya belirli süreli işi üstlenen işveren tarafından bilgilendirilir. Söz konusu çalışanların da diğer çalışanlarla birlikte sağlık ve güvenliklerinin sağlanması için gerekli çalışmalar yapılır.

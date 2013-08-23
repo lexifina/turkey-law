@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamına giren; belirli süreli işlerde veya belli bir işin tamamlanması ya da belirli bir olgunun ortaya çıkması gibi, sözleşme süresinin sona ermesinin objektif koşullara bağlı olduğu işlerde ve bu işlerde çalışanlara veya geçici iş ilişkisi kurulan işverene ait işyerinde geçici iş sözleşmesi ile çalışanlara uygulanır.

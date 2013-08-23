@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.18763",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GEÇİCİ VEYA BELİRLİ SÜRELİ İŞLERDE İŞ SAĞLIĞI VE GÜVENLİĞİ HAKKINDA YÖNETMELİK",
+  "number": "18763",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2013/18763",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18763&MevzuatTertip=5",
+  "source_sha256": "15cc1ae10fad2da7d459c7c59f9df6fa9868d7ce567a0cbf5379c00d391aa6fe",
+  "source_bytes": 17941,
+  "published": "2013-08-23",
+  "gazette": "28744",
+  "in_force": "2013-08-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.08.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 823,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
