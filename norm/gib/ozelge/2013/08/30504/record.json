@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "25410040-Harfiyat İşlerinde KDV Tevkifatı-30",
+  "source_id": 30504,
+  "date": "2013-08-23",
+  "title": "Kazı ve Harfiyat İşlerinde KDV",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30504",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "23a5348661c6b4602d2cda3ea022e619c4e8671581ce9db08859a5783472a8ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
