@@ -1,0 +1,3 @@
+Bölge komisyonlarında üyelik süresi ve üyeliğin sona ermesi
+MADDE 10 – (1) (Değişik fıkra:RG-23/8/2013-28744) Bölge komisyonu, ilk toplantısında üyelerden birini başkan bir diğerini başkan yardımcısı olarak seçer. Başkanın katılamadığı hallerde başkan yardımcısı, komisyona başkanlık eder. Bakanlıkça her yıl Ocak ayında komisyon üyelikleri yenilenir. Yeni üyeler görevlendirilene kadar mevcut üyeler görevine devam eder.
+(2) Herhangi bir nedenle bir yıl içinde yıllık izin, hastalık ve mazeret izinleri hariç dört veya üst üste iki toplantıya katılmayan bölge komisyonu üyelerinin üyelikleri kendiliğinden sona erer.

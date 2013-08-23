@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.15399",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TABİAT VARLIKLARINI KORUMA KOMİSYONLARI KURULUŞ VE ÇALIŞMA USUL VE ESASLARINA DAİR YÖNETMELİK",
+  "number": "15399",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2011/15399",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15399&MevzuatTertip=5",
+  "source_sha256": "3ee7d91aa78b65468b29c32d07c69d73121a213aa9ea43ca14bcfe96de996649",
+  "source_bytes": 39469,
+  "published": "2011-10-18",
+  "gazette": "28088",
+  "in_force": "2013-08-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/8/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-08-23",
+      "RG-23/8/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-08-23",
+      "23/8/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1526,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
