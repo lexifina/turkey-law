@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[229-2012/VUK-1- . . .]--1327",
+  "source_id": 23895,
+  "date": "2013-08-23",
+  "title": "Kurum adına tescilli internet adresinin veya bazı kısımlarının, satış yapmak isteyen aracı firmalar tarafından kiralanması işleminin vergi kanunları karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/23895",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "4207b818570a58223cbeb1fab4127484304e0e4352d2794e41060ad81c5c96af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
