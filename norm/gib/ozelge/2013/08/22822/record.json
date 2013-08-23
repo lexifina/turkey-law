@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[30-2012/212]-1305",
+  "source_id": 22822,
+  "date": "2013-08-23",
+  "title": "ABD, Hollanda ve İngiltere mukimi firmalardan sunucu kiralama ve internet hizmeti alımlarının Kurumlar Vergisi Kanunu ve KDV Kanunu karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22822",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "6433fce4562043f75044179421eb23ef19a76312f4c3b3c0085a252c08bea8ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
