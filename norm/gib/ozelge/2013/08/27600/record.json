@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[30-2013/89]-1296",
+  "source_id": 27600,
+  "date": "2013-08-23",
+  "title": "Dar mükellef iştirak sahibinden alınan hizmet bedellerinden vergi kesintisi yapılıp yapılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27600",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "36175618d035d3a9a7b9d2c3abe84c3aaec1cead403f99493aa86a20cb63c04c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
