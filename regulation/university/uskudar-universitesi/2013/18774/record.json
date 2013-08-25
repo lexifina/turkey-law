@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/uskudar-universitesi/2013/18774",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28746",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-08-25",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Üsküdar Üniversitesi",
+  "issuer_slug": "uskudar-universitesi",
+  "kind": "regulation",
+  "published": "2013-08-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18774&MevzuatTertip=5",
+  "source_id": "8.5.18774",
+  "source_sha256": "43bbcb20e69e5c951c181cbce1250bb644934d29c97088547156e8da4075f3af",
+  "title": "ÜSKÜDAR ÜNİVERSİTESİ GELENEKSEL VE TAMAMLAYICI TIP UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 372,
+  "version_label": "oldest version available",
+  "word_count": 1124
+}
