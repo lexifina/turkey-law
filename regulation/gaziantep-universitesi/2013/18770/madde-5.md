@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Gaziantep ve yakın çevresinde toprak altında ve toprak üstünde bulunan taşınır ve taşımaz arkeolojik ve kültürel değerler üzerinde inceleme, araştırma ve arkeolojik kazılar yapmak, baraj ve sulama projeleri, petrol ve doğalgaz boru hattı projeleri, enerji nakil hattı projeleri, karayolu ve demiryolu projeleri, toplu konut projeleri, sanayi projeleri ve maden çıkarımına yönelik projeler gibi büyük fizikî müdahalelerden etkilenecek alanlarda arkeolojik ve kültürel varlıkların belgelenmesine ve kurtarılmasına yönelik resmî ve özel kurum ve kuruluşlara projeler üretmek, yüzey araştırmaları ve kazılar gerçekleştirmek, koordinatörlük, danışmanlık, bilirkişilik ve kontrolörlük hizmetlerini sağlamak, bu konularda bilimsel kurslar, seminer ve kolokyumlar düzenlemektir.
