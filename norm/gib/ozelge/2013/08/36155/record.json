@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-140[123-2012-24]-921",
+  "source_id": 36155,
+  "date": "2013-08-26",
+  "title": "Hazine adına kayıtlı olan taşınmazlar üzerinde tesis olunacak irtifak hakkının tapuda yapılacak tescil işleminin 4628 sayılı Elektrik Piyasası Kanunu'na eklenen geçici 14 üncü maddenin (c) bendi kapsamında tapu harcından müstesna olup olmayacağı hususund",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36155",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "73f4297220e50721bd9629b1b21dbce91a035ccfdee322d9ac85e24b2d0e725d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
