@@ -1,0 +1,3 @@
+Program koordinatörü ve görevleri
+MADDE 13 – (1) Program koordinatörü; Üniversitede görevli akademik veya idari personel arasından alan koordinatörü ve müdürün önerisi ile Rektör tarafından görevlendirilerek Merkezin amaçları doğrultusunda yapılacak etkinliği koordine eder ve yürütür. Program koordinatörü, alan koordinatörü ile işbirliği içinde çalışır; gerçekleştirilen program sona erdiğinde görevi de kendiliğinden sona erer.
+(2) Program koordinatörünün görevleri; Yapılacak etkinlik ve programların içeriğini ve aşamalarını oluşturarak program veya etkinlikte yer alan personel, iş ve işlemlerin dağılımlarını belirlemek, alan koordinatörünün bilgisiyle programa ilişkin bilgi ve belgeleri Yönetim Kuruluna sunmak ve sorumlu olduğu programı yürütmektir.

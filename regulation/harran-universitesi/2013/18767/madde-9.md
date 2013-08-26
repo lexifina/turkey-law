@@ -1,0 +1,2 @@
+Müdür
+MADDE 9 – (1) Müdür, öğretim üyesi olmak üzere Rektör tarafından üç yıl süreyle görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir veya görev süresi dolmadan aynı şekilde görevden alınabilir. Müdür, kendisine yardımcı olmak üzere Yönetim Kurulu üyeleri arasından en çok iki öğretim elemanını Müdür yardımcısı olarak belirler. Müdür, görev başında bulunmadığı zaman yardımcılarından birisi Müdüre vekâlet eder. Vekâlet görevi altı aydan fazla sürerse yeni bir Müdür görevlendirilir.

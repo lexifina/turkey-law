@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları, Faaliyet Alanları ve Organları
+Merkezin amaçları ve faaliyet alanları
+MADDE 5 – (1) Merkezin amaçları ve faaliyet alanları; GAP bölgesi illerinde tarımsal üretime bağlı ortaya çıkabilecek iş sağlığı ve iş güvenliği sorunlarını ve nedenlerini saptamak, bu konularda araştırmalar, ortak projeler yapmak ve yaptırmak, hastalıkları ve iş sağlığı sorunlarını önleyici nitelikte sağlık ve tarım çalışanlarına yönelik eğitim programları hazırlamak ve uygulamak, sürveyans sistemlerini kurmak, bilimsel, sosyal, sanatsal, sportif ve kültürel nitelikli her türlü ulusal ve uluslararası düzeyde kongre, konferans, sempozyum, seminer, kurs vermek ve sertifika programları düzenlemek, projeler hazırlamak yayın ve yayım etkinliklerinde bulunmak ve yazılı ve görsel materyal hazırlamaktır.

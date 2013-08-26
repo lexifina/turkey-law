@@ -1,0 +1,3 @@
+Alan koordinatörü ve görevleri
+MADDE 12 – (1) Alan koordinatörü; üniversitede görevli akademik personel arasından sağlık bilimleri, tarım bilimleri ve teknolojileri, veteriner, çevre, biyoloji, kimya ve işletme bilimleri alanlarında görev yapmak üzere Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıl süreyle görevlendirilir.
+(2) Alan koordinatörünün görevleri; tarımda iş sağlığı ve güvenliği alanında Yönetim Kurulu tarafından belirlenen kurs ve programların açılmasını sağlamak, bu programlara katılacak kişilerin seçim ölçütlerini, derslerini, etkinlik takvimini, ders programlarını belirlemek, programın sağlık ve güvenlik içinde yürütülmesi için gerekli önlemleri almak, alanı ile ilgili merkeze sunulacak proje ve diğer çalışmaları yapmaktır.
