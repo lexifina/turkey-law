@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97338759-195.01[2013-03]-71",
+  "source_id": 36590,
+  "date": "2013-08-27",
+  "title": "Lokanta işletmelerinde EFT-POS özellikli Yeni Nesil ödeme kaydedici cihaz kullanımı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36590",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "98ef3f8f4db67488721770ec6d503c09e56eba79f5f69d6d516203bbc83f8408",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
