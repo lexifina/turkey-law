@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "68554973-105[413-2013/4]-83",
+  "source_id": 22144,
+  "date": "2013-08-27",
+  "title": "Kiralanan 22 m'lik tekne ile yapılacak balıkçılık faaliyetinin hangi kazanç türüne girdiği ile söz konusu faaliyette belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22144",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "575076aa74bb108ea4d5627cf21c0e6239b58a0dd99c002bfe9a8d880ad2adce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
