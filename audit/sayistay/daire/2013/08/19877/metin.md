@@ -1,0 +1,3 @@
+Deplase bedelleri.
+
+… Köprülü Kavşak İnşaatı işinde yüklenici tarafından ödenmesi gereken deplase bedellerinin Belediye bütçesinden ödenerek daha sonra bu ödemenin yüklenici hak edişlerinden kesilmeyerek kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, “… Köprülü Kavşak İnşaatı” teklif birim fiyat usulü ile ihale edilmiş ve … alt yapı deplase imalatları dahil alt yapı imalatlarının fiyatlandırılması yapılmış olup, anılan bu imalatlar için yüklenici teklifi de bulunduğundan kamu zararı oluşmayan … TL için ilişilecek husus bulunmadığına oy birliğiyle, karar verildi.
