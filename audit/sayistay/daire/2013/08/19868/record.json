@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "27",
+  "decision_date": "2013-08-27",
+  "source_id": 19868,
+  "chamber": "6",
+  "ilam_number": "150",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2010,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19868/",
+  "source_sha256": "4b95a2ee66f34cdb7f1e62d7fb7039328875da1c1d1e355224ce0727c329e147",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
