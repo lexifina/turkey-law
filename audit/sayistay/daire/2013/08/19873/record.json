@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "27",
+  "decision_date": "2013-08-27",
+  "source_id": 19873,
+  "chamber": "6",
+  "ilam_number": "150",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2010,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19873/",
+  "source_sha256": "9194ba4754a484670117e7198d67a6f3569ffc86557455f98954bb05f198de36",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
