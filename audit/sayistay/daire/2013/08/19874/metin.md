@@ -1,0 +1,3 @@
+Asgari ücret fiyat farkı ve meslek hastalıkları prim oranı.
+
+… Büyükşehir Belediyesi ile … Taah. Hiz. Dış. Tic. Ltd. Şti. arasında imzalanan “… Şube Müdürlüğü Binaları Genel Temizlik ve Bakımı-Yaşlı Genel Bakım Hizmetlerinin toplam 93 kişi ile yaptırılması” işinde; yükleniciye asgari ücret farkının fazla hesaplanıp ödendiği ve iş kazası ile meslek hastalıkları prim oranının eksik yatırılması sonucu kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL kamu zararı … mahsuben tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle, karar verildi.
