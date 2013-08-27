@@ -1,0 +1,3 @@
+İmalat eksikliği.
+
+Müteahhit … İnşaat San. Tic. Ltd. Şti. yükleniminde bulunan … TL sözleşme bedelli “… Spor Tesisleri Bakım-Onarım İnşaat” işinde, yerinde yapılan fiili fiziki denetim ve … Büyükşehir Belediyesi Taşınır Kayıtları kontrolünün incelenmesi neticesinde, birim fiyat teklif cetvelinde yer alan ve ayrıntısı sorgu ekinde olan imalatların yerinde olmadığı ve belediye taşınır kayıtlarına bu imalatların kayıt edilmemesi nedeniyle kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL kamu zararı … mahsuben tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle, karar verildi.
