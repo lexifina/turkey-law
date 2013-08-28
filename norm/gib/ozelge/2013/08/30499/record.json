@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.28-1367",
+  "source_id": 30499,
+  "date": "2013-08-28",
+  "title": "Kağıdın fason kesimi için tevkifat uygulanıp uygulanmayacağı, kağıdın tela ile lamine edilmesi ve naylona tutkal sürülmek suretiyle elde edilen ürünlerin KDV oranı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30499",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "f3cb9b266c265b44bd60e81dcb82a962005283955ab3b406905178d007d00e5f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
