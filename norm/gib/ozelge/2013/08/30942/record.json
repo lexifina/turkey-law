@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[11-2012/29]]-929",
+  "source_id": 30942,
+  "date": "2013-08-28",
+  "title": "Avrupa ülkelerine verilecek danışmanlık hizmetlerinde istisna",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30942",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "1945a0309440d8752cc1b7e951ce08fec064a87ea2f5d42aeb99eb53bf2e839d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
