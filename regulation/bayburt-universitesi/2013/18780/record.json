@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-08-28",
+      "28.08.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28749",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-08-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Bayburt Üniversitesi",
+  "issuer_slug": "bayburt-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bayburt-universitesi/2013/18780",
+  "published": "2013-08-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18780&MevzuatTertip=5",
+  "source_bytes": 20119,
+  "source_id": "8.5.18780",
+  "source_sha256": "3eab857a8464ed2fee24e9e2326fb55aaf1c0605e4458bc612eb4f7e618f8b8a",
+  "text_status": "as-enacted",
+  "title": "BAYBURT ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 347,
+  "word_count": 953
+}
