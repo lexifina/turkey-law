@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[01-2012/37]-942",
+  "source_id": 29372,
+  "date": "2013-08-28",
+  "title": "Fabrikanın bir tesisinin işletme hakkının kira bedeli karşılığı olarak üretim payı almak suretiyle yüklenici firmaya devredilmesi durumunda KDV.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29372",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "5169593bcc61531ccce18126a32b092176c46a38fa11030911dd5defd122a3e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
