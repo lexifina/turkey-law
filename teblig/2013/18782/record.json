@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.18782",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İŞ SAĞLIĞI VE GÜVENLİĞİ İLE İLGİLİ ÇALIŞAN TEMSİLCİSİNİN NİTELİKLERİ VE SEÇİLME USUL VE ESASLARINA İLİŞKİN TEBLİĞ",
+  "number": "18782",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "path": "teblig/2013/18782",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18782&MevzuatTertip=5",
+  "source_sha256": "3a9391270d36293543d639782f93a5e4dde2e67d7bb5c85666290b63196ef770",
+  "source_bytes": 22452,
+  "published": "2013-08-29",
+  "gazette": "28750",
+  "in_force": "2013-08-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.08.2013); own commencement article: \"Bu Tebliğ yayımı tarihinden itibaren otuz gün sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden itibaren otuz gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1252,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
