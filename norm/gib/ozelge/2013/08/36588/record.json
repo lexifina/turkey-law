@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "95462982-105[VUK.ÖZLG-13-19]-252",
+  "source_id": 36588,
+  "date": "2013-08-29",
+  "title": "Müşteri şirketlerin mutfağında yemek ve kantin hizmeti verilmesinde bu işyerlerinin şube olarak tescili yapılmadan ödeme kaydedici cihaz kullanılıp kullanılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36588",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "6df5c2153692444c21687a84d6038c62c1384ba45a1d6dd6cf4ff386977369e7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
