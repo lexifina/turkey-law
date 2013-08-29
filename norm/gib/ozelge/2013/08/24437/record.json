@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "10497383-200.02-5",
+  "source_id": 24437,
+  "date": "2013-08-29",
+  "title": "Katma Değer Vergisinin Uygulanmasında Stopaj uygulanıp uygulanmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/24437",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "628e8f8038095efc5bbb5a6f3b9801ec46a162e4daaf53e5273601750b25b98f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
