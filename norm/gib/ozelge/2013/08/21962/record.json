@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "32695369-GV-1",
+  "source_id": 21962,
+  "date": "2013-08-29",
+  "title": "Diş hekimlerinin sipariş ettikleri protez dişleri hastalarına takmaları faaliyetinden elde edilen kazancın serbest meslek kazancı olması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21962",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "3150b9b35f3d79ae9c7c3542df9ba6d6d01715a88a097190b59eaff803cb939b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
