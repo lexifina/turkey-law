@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Araştırmacı: İlgili bilim ve/veya teknoloji alanında gerekli uzmanlığa sahip, projenin bilimsel ve teknik sorumluluğunu paylaşan, sonuç raporunda adı geçecek olan proje yürütücüsü dışındaki araştırmacıları,
+b) Araştırma projesi: Konusu, amacı, kapsamı, süresi, özel şartları, bütçesi belirlenmiş; yeni bilgiler üretilmesi ve bilimsel yorumlarının yapılması veya teknolojik/sosyal problemlerin çözümlenmesi için bilimsel esaslara uygun olarak gerçekleştirilen çalışmaları,
+c) ARDEB: Araştırma Destek Programları Başkanlığı’nı,
+ç) Başkanlık: TÜBİTAK Başkanlığı’nı,
+d) Bilim Kurulu: TÜBİTAK Bilim Kurulu’nu,
+e) (Değişik:RG-24/2/2013-28569) Bursiyer: Tatbikat amacıyla projede yer alan, Türkiye’de kurulu yükseköğretim kurumlarında lisans ve lisansüstü eğitimlerini yapan öğrenciler ile doktora sonrası araştırmacıları,
+f) Danışman: Gerek duyulan hallerde, projenin özel uzmanlık gerektiren tali konularından birinde bilgisinden yararlanılan araştırmacı veya uzmanı,
+g) Destek programı: Amacı, kapsamı, süresi, bütçesi ve diğer koşulları Bilim Kurulu tarafından belirlenen esaslar kapsamında yürürlüğe konulan ve ARDEB tarafından yürütülen programları,
+ğ) Geliştirme projesi: Araştırma sonuçlarının, faydalı araç, gereç, malzeme, hizmet/ürün, yöntem, sistem ve üretim tekniklerine dönüştürülmesine ve/veya mevcutların daha da iyileştirilmesine yönelik çalışmalar ile teknoloji aktarımı ve/veya uyarlamasını içeren çalışmaları,
+h) Grup: TÜBİTAK ARDEB’e bağlı araştırma gruplarını,
+ı) Güdümlü projeler: Ülkenin öncelikleri, sürdürülebilir kalkınması ve uluslararası rekabet gücünün artırılması için gereksinim duyulan alanlarda, konusu ve şartları TÜBİTAK tarafından belirlenerek, bir başka kuruluş ya da ortak girişime yaptırılan çalışmaları,
+i) Kurum: Projeyi öneren ve proje destekleme sözleşmesini imzalayan kurum veya kuruluşu,
+j) Kurum hissesi: Projenin yürütülmesi ve sonuçlandırılması aşamasında kurumun imkanlarından faydalanılması karşılığı TÜBİTAK tarafından belirlenen esas ve usuller doğrultusunda hesaplanarak proje bütçesine eklenen tutarı,
+k) Öncelikli alan: Bilim ve Teknoloji Yüksek Kurulu’nun belirlediği genel öncelikli alanlar çerçevesinde, TÜBİTAK tarafından belirlenen stratejik öneme sahip alanları,
+l) Proje ekibi: Proje yürütücüsü, araştırmacı, bursiyer, yardımcı personel ve danışmanlardan oluşan ekibi,
+m) Proje teşvik ikramiyesi: Desteklenen projelerde, proje süresiyle sınırlı olmak kaydıyla, proje kapsamında ve projeye ilişkin hizmetlerde görev alan kamu kurum veya kuruluşlarının kadro veya pozisyonlarında bulunanlara, kadro veya pozisyonlarına bağlı olarak bir ayda ödenmekte olan tutarın % 75’ini geçmemek kaydıyla ve Bilim Kurulunca belirlenen esaslara göre proje sözleşmesinde belirlenerek ödenen tutarları,
+n) Proje yürütücüsü: İlgili bilim ve/veya teknoloji alanında gerekli uzmanlığa ve proje hazırlama, yürütme beceri ve deneyimine sahip, projenin bilimsel, teknik, idari, mali ve hukuki her türlü sorumluluğunu taşıyan, TÜBİTAK ile proje sözleşmesini imzalayan, proje sonuçlarını bilimsel yöntemlerle değerlendirip yayımlayabilecek ve/veya uygulamaya dönüştürebilecek düzeydeki araştırmacıyı,
+o) TÜBİTAK: Türkiye Bilimsel ve Teknolojik Araştırma Kurumu’nu,
+ö) Uluslararası projeler: İkili veya çok taraflı uluslararası anlaşmalar ile uluslararası kuruluşlarla işbirliği veya ilişki çerçevesinde yürütülen çalışmaları,
+p) Yardımcı personel: Proje yürütücüsünün veya araştırmacıların gözetimi altında, projenin yürütülmesinde tam veya kısmî zamanlı, proje süresiyle sınırlı olarak ve işvereni kurum olmak üzere istihdam edilen, sonuç raporunda adı geçmeyen uzman, teknik eleman, teknisyen, laborant, işçi ve benzeri personeli,
+ifade eder.

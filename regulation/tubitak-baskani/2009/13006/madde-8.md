@@ -1,0 +1,4 @@
+İzleme
+MADDE 8 – (1) TÜBİTAK tarafından desteklenen projelerin, amaçlarına ve öngörülen TÜBİTAK esaslarına uygun olarak yürütülüp yürütülmediği, gelişme raporları yoluyla ilgili grup tarafından izlenir. Gelişme raporları, proje yürütücüsü tarafından, sözleşmede belirtilen tarihlerde, TÜBİTAK’ça hazırlanmış olan formata uygun olarak, ilgili gruba iletilir.
+(2) Grup, gerek gördüğü takdirde, proje yürütücüsünü gelişmeler ile ilgili bilgi almak üzere davet eder, projelerin gelişimini bilimsel, teknik, idari ve mali açılardan, gerektiğinde yerinde olmak üzere, incelemek ve denetlemek amacıyla belirleyeceği kişi ve/veya kişileri görevlendirir.
+(3) Projelerin değerlendirilmesi, izlenmesi ve denetlenmesi için TÜBİTAK tarafından görevlendirilen kişilere ödenecek ücretler Bilim Kurulunca belirlenir.

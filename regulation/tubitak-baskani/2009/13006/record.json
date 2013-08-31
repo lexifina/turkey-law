@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.13006",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BİLİMSEL VE TEKNOLOJİK ARAŞTIRMA KURUMU ARAŞTIRMA DESTEK PROGRAMLARI BAŞKANLIĞI TARAFINDAN YÜRÜTÜLEN PROGRAMLARA İLİŞKİN YÖNETMELİK",
+  "number": "13006",
+  "issuer": "TÜBİTAK Başkanı",
+  "issuer_slug": "tubitak-baskani",
+  "path": "regulation/tubitak-baskani/2009/13006",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13006&MevzuatTertip=5",
+  "source_sha256": "b26e284a4ba44a001eddc409c53f630c088585cfd425d3cdf94b3dac69286764",
+  "source_bytes": 94692,
+  "published": "2009-04-22",
+  "gazette": "27208",
+  "in_force": "2013-08-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/8/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-08-31",
+      "RG-31/8/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-08-31",
+      "31/8/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-02-24",
+      "RG-24/2/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-02-24",
+      "24/2/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2589,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
