@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "2012 Yılı Dış Denetim Genel Değerlendirme Raporu",
+  "category": "Dış Denetim Genel Değerlendirme Raporları",
+  "category_id": "12-dis-denetim-genel-degerlendirme-raporlari",
+  "report_year": 2012,
+  "report_date": "2013-09-01",
+  "date_precision": "month",
+  "date_as_printed": "EYLÜL 2013",
+  "source": "https://www.sayistay.gov.tr/reports/r6do3dgXx2-2012-yili-dis-denetim-genel-degerlendirme-raporu",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/r6do3dgXx2-2012-yili-dis-denetim-genel-degerlendirme-raporu",
+  "source_sha256": "f0a0f0db5513a95e3dc72a9514c713ff83b0ad7edf73a722fd7ff533ec45fd93",
+  "pdf_pages": 51,
+  "listing": "https://www.sayistay.gov.tr/reports/category/12-dis-denetim-genel-degerlendirme-raporlari?page=2",
+  "listing_sha256": "4d22cfc77add27bbed929e207cc867af1cec4cf239604a82c1b0a941df10b891",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-09-01",
+  "in_force_basis": "Official report PDF cover: \"EYLÜL 2013\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
