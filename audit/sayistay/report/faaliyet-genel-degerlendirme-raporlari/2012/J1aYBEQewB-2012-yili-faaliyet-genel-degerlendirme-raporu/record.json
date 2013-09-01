@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "2012 Yılı Faaliyet Genel Değerlendirme Raporu",
+  "category": "Faaliyet Genel Değerlendirme Raporları",
+  "category_id": "13-faaliyet-genel-degerlendirme-raporlari",
+  "report_year": 2012,
+  "report_date": "2013-09-01",
+  "date_precision": "month",
+  "date_as_printed": "EYLÜL 2013",
+  "source": "https://www.sayistay.gov.tr/reports/J1aYBEQewB-2012-yili-faaliyet-genel-degerlendirme-raporu",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/J1aYBEQewB-2012-yili-faaliyet-genel-degerlendirme-raporu",
+  "source_sha256": "bfe60f5e0f94c83bcc8df8b1b9684bfb0736f42bf86cbf7ae06b809044d8978a",
+  "pdf_pages": 26,
+  "listing": "https://www.sayistay.gov.tr/reports/category/13-faaliyet-genel-degerlendirme-raporlari?page=2",
+  "listing_sha256": "9ab01e095945b3d089bf94e20f88c1425885b479e488441b747db4546ed44067",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-09-01",
+  "in_force_basis": "Official report PDF cover: \"EYLÜL 2013\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
