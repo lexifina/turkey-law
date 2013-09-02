@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.11-1393",
+  "source_id": 33584,
+  "date": "2013-09-02",
+  "title": "DİİB kapsamında satılan mala ilişkin DİİB şartlarının yerine getirilmemesi nedeniyle ödenen verginin rücu edilmesi halinde indirim konusu yapılıp yapılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33584",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "1de675cf7e7801b4bfa9a9ca4497263c1b75b030d5d0f22ca78d76cbab540f69",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
