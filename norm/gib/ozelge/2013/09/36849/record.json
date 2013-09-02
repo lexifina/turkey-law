@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-BSMV-1400",
+  "source_id": 36849,
+  "date": "2013-09-02",
+  "title": "Kira sertifikalarının vadesinde itfası nedeniyle lehe alınan kira gelirleri üzerinden BSMV hesaplanıp hesaplanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36849",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "20c2f570973cd74947c15f2500f50888680e6fd96bfbc25c7eef4100dbfcc3ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
