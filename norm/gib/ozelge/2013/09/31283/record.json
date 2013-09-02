@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.13-1407",
+  "source_id": 31283,
+  "date": "2013-09-02",
+  "title": "KDV Kanununun 13/a maddesi gereğince istisna kapsamında yapılan satışlardan dolayı ziyaa uğratılan vergi ve buna bağlı ceza ve zamların hangi firmadan aranacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31283",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "1bb00a26ebd2f15661cae71d6d69048cc791075066f7b640f7c6bb201ce01f97",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
