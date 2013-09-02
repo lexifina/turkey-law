@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[323-2012/VUK-1- . . .]-1389",
+  "source_id": 27129,
+  "date": "2013-09-02",
+  "title": "Faktoring şirketi tarafından Vergi Usul Kanunu dışındaki Kanunlara göre ayrılan karşılıkların giderleştirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27129",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "73e17d44a231bc60663e11ac4604024392a984b9f79961bed3fa38178485a378",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
