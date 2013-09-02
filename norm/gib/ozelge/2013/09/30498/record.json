@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.9-1405",
+  "source_id": 30498,
+  "date": "2013-09-02",
+  "title": "Yangın önleme ve söndürme sistemlerinin kurulması, bakım ve kontrol, yangın danışmanlık ve eğitim hizmetlerinde tevkifat uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30498",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "6c35eeb9a0b7da1f9e2acdd56b189fef32fc2c956ef57de51e562c43461578c2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
