@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.11-1394",
+  "source_id": 30941,
+  "date": "2013-09-02",
+  "title": "Yabancı bayraklı gemilere kumanya tesliminde bulunan Şirkete verilen deniz nakliyesi (motor) hizmetinin KDV'den istisna olup olmadığı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30941",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "a1ae51c1009c1d9c3d38b8fe9dc899e8471da1ece32444271710ed80405ff478",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
