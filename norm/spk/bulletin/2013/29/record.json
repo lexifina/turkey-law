@@ -1,0 +1,55 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2013/29",
+  "date": "2013-09-03",
+  "title": "SPK Haftalık Bülteni 2013/29",
+  "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_29.pdf",
+  "source_sha256": "b35aadd26143dae950286c50ca37845d4cb06d68e06aa96bee4b2ec7dc5cf856",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "B. DUYURU VE İLKE KARARLARI",
+    "D. YENİ FAALİYET İZİNLERİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. YENİ BAŞVURULAR",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Girmek Amacıyla Kurula",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_29.pdf"
+    },
+    {
+      "heading": "B. DUYURU VE İLKE KARARLARI",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_29.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_29.pdf"
+    },
+    {
+      "heading": "E. SUÇ DUYURUSU, İDARİ PARA CEZASI İLE DİĞER YAPTIRIM VE TEDBİRLER",
+      "status": "metadata-only",
+      "reason": "sanctions-metadata-only",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_29.pdf"
+    },
+    {
+      "heading": "H. DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_29.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
