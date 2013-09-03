@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-09-03",
+  "issue": "28754",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "2013/5206 Türkiye Cumhuriyeti Hükümeti ile Yunanistan Cumhuriyeti Hükümeti Arasında Afetlerde Sağlık Hizmetlerine İlişkin Protokolün Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130903-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130903.htm",
+  "index_sha256": "6a53d9203b8385b10c352100599af1ea39565f294d68f591ef938022b76f6374",
+  "index_header": "3 Eylül 2013 ... 28754 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130903.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
