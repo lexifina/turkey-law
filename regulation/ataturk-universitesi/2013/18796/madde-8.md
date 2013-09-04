@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Merkez Müdürü Atatürk Üniversitesinde görevli öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden atanabilir.
+(2) Müdür kendisine yardımcı olmak üzere Üniversitenin öğretim üyeleri arasından iki müdür yardımcısı önerisinde bulunur. Müdür yardımcıları Rektör tarafından görevlendirilir. Müdür yardımcısı, Müdürün bulunmadığı zamanlarda Müdüre vekalet eder ve Müdür tarafından verilen görevleri yapar. Müdür yardımcılarının bulunmadığı durumlarda Yönetim Kurulu üyelerinden biri vekil bırakılır. Yardımcıların görevi Müdürün görevi bitince sona erer. Vekalet altı aydan fazla sürerse yeni Müdür görevlendirilir.
