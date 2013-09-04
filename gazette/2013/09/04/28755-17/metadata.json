@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-09-04",
+  "issue": "28755",
+  "edition": "regular",
+  "item": 17,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "Özelleştirme Yüksek Kurulunun 2/9/2013 Tarihli ve 2013/149 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130904-17.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130904.htm",
+  "index_sha256": "27e89d51ab862e40c55a01be9ead659426e263786952f27a2ef21b419cc36dcb",
+  "index_header": "4 Eylül 2013 ... 28755 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130904.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
