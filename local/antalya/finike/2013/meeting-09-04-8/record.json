@@ -1,0 +1,23 @@
+{
+  "number": "meeting-09-04-8",
+  "number_as_published": "meeting-09-04-8",
+  "year": 2013,
+  "title": "Karar No: 52 – 04.09.2013 Tarihli Eylül Ayı Meclis Toplantısı",
+  "decision_date": "2013-09-04",
+  "source": "https://www.finike.bel.tr/arsiv/meclis-kararlari",
+  "official_document": "https://www.finike.bel.tr/files/documents/146f7604abf24a8881696e00a86e2b77.pdf",
+  "source_sha256": "6793bc643cf0d6fe58fe65c87cadb2eac87aae6369ace954a71125006131f9ff",
+  "issuer": "Finike Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2013-09-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.09.2013; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Karar No: 52 – 04.09.2013 Tarihli Eylül Ayı Meclis Toplantısı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
