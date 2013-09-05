@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "4589/2",
+  "decision_date": "2013-09-05",
+  "title": "The Shell Company Of Turkey Ltd. Türkiye Şubesi Merkezi Londra’da’nın; PİL/3889-9.1/31181 sayılı İletim Lisansı kapsamında The Shell Company Of Turkey Ltd. Deniz Mahallesi P.K. 45 Derince/Kocaeli adresinde faaliyette bulunan Derince İletim Tesisine ilişkin",
+  "resmi_gazete_date": "2013-09-14",
+  "resmi_gazete_number": "28765",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cL/eQeT9Ahs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cL/eQeT9Ahs="
+  ],
+  "source_sha256": "62d95c6885e31b67f9e21236a35f950a76dfec67af6791caa1ec55a7a14ab415",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-09-05",
+  "law_text_complete": false
+}
