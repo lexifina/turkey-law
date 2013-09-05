@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-09-05",
+  "issue": "28756",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "Filateli Servisi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130905-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130905.htm",
+  "index_sha256": "1d411ad2fcc4ca788f493a94c07cd760eccb40dad37015696387993501de036a",
+  "index_header": "5 Eylül 2013 ... 28756 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130905.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
