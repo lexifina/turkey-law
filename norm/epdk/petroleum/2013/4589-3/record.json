@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "4589/3",
+  "decision_date": "2013-09-05",
+  "title": "Shell & Turcas Petrol Anonim Şirketi’nin; DEP/1718-6/24922 sayılı Depolama Lisansı kapsamında Deniz Mah. P.K. 45 Derince/KOCAELİ adresinde faaliyette bulunan Derince Akaryakıt Terminaline ilişkin",
+  "resmi_gazete_date": "2013-09-14",
+  "resmi_gazete_number": "28765",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KQNL6DIjVLc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KQNL6DIjVLc="
+  ],
+  "source_sha256": "456bbadabb80593b91a79e9c1bd568061c80ad7ea072d4ff6798aa14a17343a0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-09-05",
+  "law_text_complete": false
+}
