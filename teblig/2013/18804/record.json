@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.18804",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AMBALAJLARIN İŞARETLENMESİ VE ETİKETLENMESİ İLE İLGİLİ TEBLİĞ (TEBLİĞ NO: MSG-MS-2013/22)",
+  "number": "18804",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2013/18804",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18804&MevzuatTertip=5",
+  "source_sha256": "b035e544820e46f22e169b4e4070854c01c5a24de1fa1de2a254bdc770a11455",
+  "source_bytes": 29333,
+  "published": "2013-09-05",
+  "gazette": "28756",
+  "in_force": "2013-09-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.09.2013); own commencement article: \"Bu Tebliğ yayımı tarihinden üç ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden üç ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 231,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
