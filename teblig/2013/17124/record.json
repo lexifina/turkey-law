@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.17124",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "FINDIK ÜRETİCİLERİNE ALAN BAZLI GELİR DESTEĞİ VE ALTERNATİF ÜRÜNE GEÇEN ÜRETİCİLERE TELAFİ EDİCİ ÖDEME YAPILMASINA DAİR KARARIN UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO:2013/4)",
+  "number": "17124",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2013/17124",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17124&MevzuatTertip=5",
+  "source_sha256": "fdcde00da44ff114ade192dc87062906bbeb2a3f3c4526c1013efe4e8c265428",
+  "source_bytes": 98884,
+  "published": "2013-02-12",
+  "gazette": "28557",
+  "in_force": "2013-09-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/9/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-09-05",
+      "RG-5/9/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-09-05",
+      "5/9/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2179,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.17124%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

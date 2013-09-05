@@ -1,0 +1,7 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Denetim, cezai hükümler ve sorumluluk
+MADDE 11 – (1) Uygulamaya yönelik işlemlere ilişkin olarak yapılacak denetim Bakanlık tarafından yapılır.
+(2) Bu Tebliğde belirlenen ilgili merciler, kendilerine ibraz edilen belgelerin kontrolünden ve kendi hazırladıkları belgelerden sorumludur. Bu yükümlülüğü yerine getirmeyerek haksız yere ödemeye neden olanlar ile haksız yere ödemelerden yararlanmak üzere sahte veya içeriği itibarıyla gerçek dışı belge düzenleyen ve kullananlar hakkında, 5488 sayılı Tarım Kanunu ve 26/4/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun ilgili maddelerine göre gerekli cezai, hukuki ve idari işlemler yapılır.
+(3) Haksız yere yapılan ödemeler, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri çerçevesinde, haksız ödeme tarihinden tahsil tarihine kadar geçen süre için anılan Kanunun 51 inci maddesine göre hesaplanacak gecikme zammı ile birlikte, haksız ödemeyi sağlayan belge veya belgeleri düzenleyen gerçek ve tüzel kişilerden ve ödemelerden yararlananlardan geri alınır. Söz konusu gerçek ve tüzel kişiler haksız yere yapılan bu ödemelerden müştereken sorumlu tutulurlar.
+(4) Destekleme ödemelerinden idari hata sonucu düzenlenen belgelerle yapılan ödemeler hariç, haksız yere desteklemeden yararlandığı tespit edilen üreticiler beş yıl süreyle hiçbir destekleme programından yararlandırılmazlar.
