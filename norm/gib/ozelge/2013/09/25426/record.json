@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-019.01-1455",
+  "source_id": 25426,
+  "date": "2013-09-06",
+  "title": "Yabancı havayolu ulaştırma kurumu Türkiye şubesinin vergi kanunları karşısındaki durumu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/25426",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "cbd64eb2a4a2dea2a26d80c90725bccbbf6e41fe80f8a9abbe7ff0b556d3c448",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
