@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-019.01-1457",
+  "source_id": 22321,
+  "date": "2013-09-06",
+  "title": "İnternet sitesi üzerinden verilen aracılık hizmetinin vergilendirilmesi ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22321",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "ac5055feed415030a9daa3979eb8aa48fd463fafafae54760263e828e5183146",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
