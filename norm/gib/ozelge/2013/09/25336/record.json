@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[Mük257-2012-9388]-949",
+  "source_id": 25336,
+  "date": "2013-09-06",
+  "title": "İştirak hisselerinin yeni kurulacak bir şirkete ayni sermaye olarak konulması işleminin kısmi bölünme kapsamında değerlendirilmesi ve aktif ve pasifi düzenleyici hesapların neler olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/25336",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "cb48b7d7ba186f806ca951a0c5f28a94afa38ab61cf971f2247ae6db9463a310",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
