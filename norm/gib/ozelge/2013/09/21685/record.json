@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.14.10.00--GVK-450/-10",
+  "source_id": 21685,
+  "date": "2013-09-06",
+  "title": "Vergiden muaf esnaf olarak çalışan eşten dolayı, ücretli çalışan eşin aile yardımı ve asgari geçim indiriminden yararlanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21685",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "d8f20ef1e3afc2522920c68f63e7656b27fe152ef0647a928397ce14bc00fa59",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
