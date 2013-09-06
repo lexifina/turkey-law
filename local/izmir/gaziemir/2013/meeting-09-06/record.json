@@ -1,0 +1,24 @@
+{
+  "number": "meeting-09-06",
+  "number_as_published": "meeting-09-06",
+  "year": 2013,
+  "title": "06.09.2013 KARAR ÖZETİ",
+  "decision_date": "2013-09-06",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=58",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/11ca5f85feceb3b5afe5724387c8f93811ca5f85feceb3b5afe5724387c8f938.doc",
+  "source_sha256": "2c2ef9107d709fc9f533bc7bc6ab7bb72cf5a75688aa5b64aed213efd0f96780",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2013-09-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.09.2013; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06.09.2013 KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "27.09.2013"
+}
