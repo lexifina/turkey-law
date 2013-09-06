@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-130[53.01.33]-85",
+  "source_id": 32723,
+  "date": "2013-09-06",
+  "title": "İndirimli Orana Tabi Geceleme Ve Konaklama Hizmetleri Kapsamında Yüklenilen ve İndirim Yolu İle Telafi Edilemeyen ATİK ait KDV lerde İade Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32723",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "4854e46b25cdb0c5f69b043fd898a280c02d492a4dad590d4119103f9d927181",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
