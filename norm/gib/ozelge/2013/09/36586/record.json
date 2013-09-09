@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-195.03-1463",
+  "source_id": 36586,
+  "date": "2013-09-09",
+  "title": "Kızılay'a aktarılmak üzere alınan bağışların, kaydı ve belgeler (ödeme kaydedici cihaz fişi) üzerinde gösterilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36586",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "230c970dd9129388f804db518eb82da06bea794f2de971a1ee9f5d5798827960",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
