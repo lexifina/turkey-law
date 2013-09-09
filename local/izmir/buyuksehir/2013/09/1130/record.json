@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "1130",
+  "decision_date": "2013-09-09",
+  "official_id": "14298",
+  "version_label": "as-enacted",
+  "text_status": "complete decision text as published in the register's KararDetay field (HTML); annexes not supplied",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2013&ay=&gun=&txtSozcuk=&draw=1&start=300&length=100&txtKararNo=",
+  "source_listing_sha256": "ea5ec7d377ecd12c8e4417d85c97812f522acb5d73d2742483f2f4f5f7a2f71f",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": false
+}
