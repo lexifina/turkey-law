@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "2012 Yılı Genel Uygunluk Bildirimi",
+  "category": "Genel Uygunluk Bildirimleri",
+  "category_id": "1-genel-uygunluk-bildirimleri",
+  "report_year": 2012,
+  "report_date": "2013-09-09",
+  "date_precision": "day",
+  "date_as_printed": "Merkezi Yönetim Bütçesi Sayıştay Genel Kurulunun 09.09.2013 tarihli ve 5366 sayılı kararı ile bu Genel Uy",
+  "source": "https://www.sayistay.gov.tr/reports/r14QOXYb3M-2012-yili-genel-uygunluk-bildirimi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/r14QOXYb3M-2012-yili-genel-uygunluk-bildirimi",
+  "source_sha256": "d9168c144b4b7c6295a0b790fd4fd3762adc3a0380034ba58c4eaa6fb9081b3b",
+  "pdf_pages": 149,
+  "listing": "https://www.sayistay.gov.tr/reports/category/1-genel-uygunluk-bildirimleri?page=2",
+  "listing_sha256": "0cdfa404eec4cb6bceff775feace39210c4264693ff98e231ca9b08c56086c25",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-09-09",
+  "in_force_basis": "Official report PDF, first pages: \"Merkezi Yönetim Bütçesi Sayıştay Genel Kurulunun 09.09.2013 tarihli ve 5366 sayılı kararı ile bu Genel Uy\" (report approval date); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
