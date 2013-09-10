@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "95462982-105[VUK.ÖZLG-2013-27]-265",
+  "source_id": 26852,
+  "date": "2013-09-10",
+  "title": "Değerleme gününde senet ve çekler için yapılacak reeskont uygulamasının 92 gün vade ile sınırlı kalıp kalmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26852",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4e9840411740ed2c9c239fba16e1b414fdbabda11c930531848af505aa2a6912",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
