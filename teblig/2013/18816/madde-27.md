@@ -1,0 +1,3 @@
+Yürürlükten kaldırılan tebliğler
+MADDE 27 – (1) 21/1/2009 tarihli ve 27117 sayılı Resmî Gazete’de yayımlanan Ortaklık Varantlarının Kurul Kaydına Alınmasına ve Alım Satım İşlemlerine İlişkin Esaslar Tebliği (Seri:III, No:36) ile 21/7/2009 tarihli ve 27295 sayılı Resmî Gazete’de yayımlanan Aracı Kuruluş Varantlarının Kurul Kaydına Alınmasına ve Alım Satım İşlemlerine İlişkin Esaslar Tebliği (Seri: III, No: 37) yürürlükten kaldırılmıştır.
+(2) Kurulun diğer düzenlemelerinde Ortaklık Varantlarının Kurul Kaydına Alınmasına ve Alım Satım İşlemlerine İlişkin Esaslar Tebliği (Seri:III, No:36) ile Aracı Kuruluş Varantlarının Kurul Kaydına Alınmasına ve Alım Satım İşlemlerine İlişkin Esaslar Tebliği (Seri: III, No: 37)’ne yapılan atıflar bu Tebliğe yapılmış sayılır.

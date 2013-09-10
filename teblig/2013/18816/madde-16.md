@@ -1,0 +1,17 @@
+Yatırım kuruluşu varantlarına ve sertifikalarına ilişkin ücret
+MADDE 16 – (1) Yatırım kuruluşu varantlarına ya da sertifikalarına ilişkin ücret aşağıdaki şekilde hesaplanır:
+a) İhraççılar, onaylı izahnamenin ya da ihraç belgesinin verilmesinden önce, ihraç tavanı kapsamındaki yatırım kuruluşu varantlarının ya da sertifikalarının nominal değerinin binde ikisi oranındaki ücreti, Kurul hesabına yatırır.
+b) Her tertip yatırım kuruluşu varantının ya da sertifikasının satışı için düzenlenecek sermaye piyasası aracı notu ya da arz programı sirkülerinin veyahut tertip ihraç belgesinin Kurulca onaylanarak ihraççıya verilmesi aşamasında ücret alınmaz.
+c) Yatırım kuruluşu varantlarının ya da sertifikalarının satışa sunulmasından altı ay sonra;
+1) Bu süre boyunca her bir işlem gününde gün sonu netleştirilmiş bakiyelerin dikkate alınması suretiyle hesaplanan tedavülde bulunan yatırım kuruluşu varantı ya da sertifikası sayısı karşılaştırılarak, tedavülde bulunan yatırım kuruluşu varantı ya da sertifikası sayısının en yüksek olduğu gün “azami tedavül günü”,
+2) Bu süre boyunca her bir işlem gününde yatırım kuruluşu varantlarının ya da sertifikalarının ağırlıklı ortalama fiyatlarının ortalaması “satış fiyatı”,
+3) Satış fiyatından yatırım kuruluşu varantının ya da sertifikasının nominal değerinin çıkarılması suretiyle bulunan tutar ise “düzeltilmiş satış fiyatı”,
+olarak kabul edilir. Yatırım kuruluşu varantı ya da sertifikası fiyatının oluşmadığı işlem günleri, satış fiyatının belirlenmesinde hesaba katılmaz.
+4) İhraççılar, azami tedavül günündeki yatırım kuruluşu varantı ya da sertifikası sayısı ile düzeltilmiş satış fiyatının çarpılması suretiyle bulunan tutar üzerinden hesaplanan binde iki oranındaki ücreti, altı aylık dönemi izleyen altı iş günü içerisinde Kurul hesabına yatırırlar. İlgili dekontların ve hesaplama tablosunun bir örneği aynı gün Kurula iletilir.
+ç) (c) bendinde yer alan işlemlerin yapılmasını müteakip altı aylık dönemler itibariyle;
+1) İlgili dönem için geçerli olan azami tedavül günündeki yatırım kuruluşu varantı ya da sertifikası sayısı, bir önceki dönem itibarıyle geçerli olan azami tedavül günündeki yatırım kuruluşu varantı ya da sertifikası sayısı ile karşılaştırılır.
+2) Yapılan karşılaştırma sonucunda bir önceki döneme göre azami tedavül günündeki yatırım kuruluşu varantı ya da sertifikası sayısında artış varsa, o günkü yatırım kuruluşu varantı ya da sertifikası sayısı, bu defa daha önce ücreti ödenmiş yatırım kuruluşu varantı ya da sertifikası sayısı ile karşılaştırılır.
+3) Ücreti ödenmiş yatırım kuruluşu varantı ya da sertifikası sayısına göre de bir artış olduğunun belirlenmesi halinde, aradaki fark ilgili dönem için geçerli düzeltilmiş satış fiyatı ile çarpılır ve bulunan tutar üzerinden hesaplanan binde iki oranındaki ücret, ihraççılarca ilgili dönemi izleyen altı iş günü içerisinde Kurul hesabına yatırılır. İlgili dekontların ve hesaplama tablosunun bir örneği aynı gün Kurula iletilir.
+(2) Birinci fıkranın (ç) bendinde ifade edilen işlemler, yatırım kuruluşu varantının ya da sertifikasının vade sonunun altı aylık dönemlere denk gelmemesi halinde vade bitiminde; nakavt özellikli yatırım kuruluşu varantları veya sertifikalarının nakavt olması halinde ise nakavt tarihi itibariyle yapılır.
+(3) Satış fiyatının ve azami tedavül gününün belirlenmesinde, borsa ve MKK kayıtları esas alınır.
+(4) Kurul ücretinin hesaplanması ve yatırılması ihraççının sorumluluğundadır.

@@ -1,0 +1,4 @@
+Yatırım kuruluşu varantları veya sertifikalarında nakavt durumu
+MADDE 15 – (1) Nakavt özellikli yatırım kuruluşu varantları veya sertifikalarında, dayanak varlığın fiyatının veya göstergenin değerinin yatırım kuruluşu varantı ya da sertifikasının vadesi içerisinde önceden belirlenmiş bariyere ulaşması ya da bariyeri aşması durumunda ilgili yatırım kuruluşu varantı ya da sertifikası geçersiz hale gelir. Bu durumda ilgili yatırım kuruluşu varantı ya da sertifikası, ihraççı tarafından herhangi bir değer ödemeden ya da sıfıra yakın bir artık değer ödemesi yapılarak sona erdirilir.
+(2) Nakavt durumunun oluşması durumunda artık değer, borsa düzenlemeleri çerçevesinde yatırımcıya aktarılır.
+(3) Nakavt olan yatırım kuruluşu varantları ya da sertifikalarının borsadaki işlem sırasının kapatılmasına ilişkin esaslar borsa tarafından belirlenir.

@@ -1,0 +1,3 @@
+Payların tahsisinde öncelik hakkı
+MADDE 22 – (1) İhraççının kendi payları üzerine yazılı olan ortaklık varantlarının kullanım hakkı kapsamında ihraç edilecek ve ihraççının artırılacak sermayesini temsil eden payları TTK’nın 461 inci maddesiyle ortaklara tanınan yeni pay alma hakkı da dahil olmak üzere, her türlü önceliklerden öne alınarak ortaklık varantı sahiplerine tahsis olunur.
+(2) İhraççının kendi payları üzerine yazılı olan ortaklık varantlarının kullanım hakkı ile ilgili olarak ihraççı tarafından yapılacak sermaye artırımlarında, Kurulun ilgili düzenlemelerinde yer alan tahsisli satışlarda satışa başlanmasına ve satışın tamamlanmasına ilişkin sürelere uyulması gerekmez.

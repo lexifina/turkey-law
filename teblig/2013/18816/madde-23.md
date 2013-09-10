@@ -1,0 +1,4 @@
+Kullanım hakkının sona ermesi ile ortaklık varantlarından kaynaklanan yükümlülüklere ilişkin özellikli durumlar
+MADDE 23 – (1) İhraççı tarafından yükümlülüklerin tam olarak yerine getirilmesine rağmen kullanım hakkından yararlanmayan ortaklık varantı sahiplerinin bu hakları kullanım süresinin sonunda ortadan kalkar ve bu ortaklık varantları iptal edilir.
+(2) Ortaklık varantlarının vadesi boyunca ihraççının herhangi bir birleşme ya da devralma işlemine taraf olmak suretiyle tasfiyesiz infisah etmesi durumunda, daha önce ihraç ettiği ortaklık varantlarından kaynaklanan yükümlülükleri devralan veya yeni kurulan ortaklığa geçer.
+(3) Ortaklık varantlarının vadesi boyunca ihraççının tasfiye haline girmesi suretiyle sona ermesi durumunda ortaklık varantlarının akıbetinin ne olacağına, ilgili sermaye piyasası aracının halka arzına ilişkin olarak düzenlenen izahnamede yer verilir.
