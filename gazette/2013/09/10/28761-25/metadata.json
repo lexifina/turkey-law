@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-09-10",
+  "issue": "28761",
+  "edition": "regular",
+  "item": 25,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İzmir Üniversitesi Yabancı Diller Yüksekokulu Zorunlu Hazırlık Sınıfı Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130910-25.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130910.htm",
+  "index_sha256": "90f35d0dc0cc9a9be6af8690b10fa511f8de504a6e838f51587fa5a6f822ef6c",
+  "index_header": "10 Eylül 2013 ... 28761 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130910.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
