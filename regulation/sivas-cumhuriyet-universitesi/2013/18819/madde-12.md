@@ -1,0 +1,2 @@
+Proje grupları, inceleme birimleri ve görevleri
+MADDE 12 – (1) Merkezde; bu Yönetmeliğin 5 inci maddesindeki amaçlar doğrultusunda müdürün önerisi ve Yönetim Kurulunun kararı ile enerji araştırmaları, inceleme, planlama, danışmanlık, eğitim, yayın konularında ve bu Yönetmeliğin 6'ncı maddesindeki faaliyet alanlarında görev yapmak üzere inceleme birimleri veya proje grupları kurulur. Bu birim ve gruplar içinde çalışma konularına göre personel değişimi yapılabilir.
