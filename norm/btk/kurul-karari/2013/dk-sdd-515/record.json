@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2013/DK-SDD/515",
+  "date": "2013-09-11",
+  "title": "İnceleme - TTNET AŞ Tüketici Şikâyetleri",
+  "relevant_unit": "Sektörel Denetim Dairesi Başkanlığı",
+  "publication_date": "2013-09-11",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=130",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/7de56ad3-45c5-412f-a70d-00f883f3701b.pdf",
+  "source_sha256": "2b7d9e1d47325bd01a440854ab497b8d5f9adb0cda26a34ebfc7f3631e7909fd",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2013-09-11",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 11.09.2013; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
