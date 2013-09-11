@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "54451858-080-43-3",
+  "source_id": 21775,
+  "date": "2013-09-11",
+  "title": "Ticari Kazanç Sahibinin vergi mükellefi olmadan önce edinmiş olduğu gayrimenkulleri satması durumunda ticari kazanca dahil edip etmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/21775",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "0be80ac3e5b5a2d2a9c664af0e3cb2b1f6c1d46765223e28cacbda7c958acd8a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
