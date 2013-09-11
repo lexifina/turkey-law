@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.18829",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAĞLIK VE GÜVENLİK İŞARETLERİ YÖNETMELİĞİ",
+  "number": "18829",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2013/18829",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18829&MevzuatTertip=5",
+  "source_sha256": "effea243915760d99c051301e142351d58e53f93e2809519af63fecf41a14c7b",
+  "source_bytes": 15231,
+  "published": "2013-09-11",
+  "gazette": "28762",
+  "in_force": "2013-09-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.09.2013); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 660,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.18829-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
