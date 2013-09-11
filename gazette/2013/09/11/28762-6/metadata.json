@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-09-11",
+  "issue": "28762",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sağlık ve Güvenlik İşaretleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130911-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130911.htm",
+  "index_sha256": "e5e7b0f4e8bbf26cc31d11bcabce7176302a5768dc35f73082fadf3f2c81bb86",
+  "index_header": "11 Eylül 2013 ... 28762 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130911.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
