@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-09-12",
+      "12.09.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28763",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-09-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kırıkkale Üniversitesi",
+  "issuer_slug": "kirikkale-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kirikkale-universitesi/2013/18834",
+  "published": "2013-09-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18834&MevzuatTertip=5",
+  "source_bytes": 20781,
+  "source_id": "8.5.18834",
+  "source_sha256": "627a3596458fbafccdeb6ac84fb92c6dd6143ec7f9a331154fdfe19358237a59",
+  "text_status": "as-enacted",
+  "title": "KIRIKKALE ÜNİVERSİTESİ KARİYER PLANLAMA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 208,
+  "word_count": 947
+}
