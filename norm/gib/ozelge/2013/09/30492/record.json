@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.9-1475",
+  "source_id": 30492,
+  "date": "2013-09-12",
+  "title": "Baskı basım işlerinde cuzi oran kavramının kapsamı ve tevkifat uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30492",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "4658aaef7a4f1e54210076499eaa52b1f34a4feb415977dca557147c0e7edda1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
