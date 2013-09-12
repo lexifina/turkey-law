@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-09-12",
+  "issue": "28763",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Balıkesir Üniversitesi Türkçe Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130912-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130912.htm",
+  "index_sha256": "1b8e558c82eadb2983f399bc9c60b4b835e2b3558e8ddc721aae7b2b4ad05016",
+  "index_header": "12 Eylül 2013 ... 28763 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130912.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
