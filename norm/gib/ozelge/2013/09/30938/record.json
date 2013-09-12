@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-135[52.01.01]-86",
+  "source_id": 30938,
+  "date": "2013-09-12",
+  "title": "Dökme olarak satılan parfüm, güzellik ve makyaj müstahzarlarının, teslim alan firma tarafından sadece ambalajlanarak yurt dışına teslimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30938",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "a5bd8145d3b6c64d8bca781e17a98c624c78c5bfd2cd4bd586ff5907c33dfd75",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
