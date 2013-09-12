@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2013/360",
+  "list_number": "360",
+  "decision_date": "2013-09-12",
+  "title": "5362 sayılı Kanuna tabi esnaf odaları organlarında görev alan yöneticilerin yapılacak olan mahalli idareler seçimlerinde aday olabilmeleri; seçimlerde adaylık için görevinden istifa eden ve sonrasında seçilemeyen kamu görevlilerinin tekrar görevlerine dönmeleri konularında Yüksek Seçim Kurulu sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2597/2013-360.pdf",
+  "source_sha256": "64c817222cdd3ab8bcea55f41403aa9beb001fd2f6fa43a22d1accfe5442f74d",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-09-12",
+  "law_text_complete": false
+}
