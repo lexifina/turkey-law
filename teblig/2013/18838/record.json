@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.18838",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ LOKUM TEBLİĞİ (TEBLİĞ NO: 2013/55)",
+  "number": "18838",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2013/18838",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18838&MevzuatTertip=5",
+  "source_sha256": "b11a1b3a4421aa49dc17cee0461eeea0c078202c8bc2541f91f8efd6d25edd56",
+  "source_bytes": 23469,
+  "published": "2013-09-12",
+  "gazette": "28763",
+  "in_force": "2013-09-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.09.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1370,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18838-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

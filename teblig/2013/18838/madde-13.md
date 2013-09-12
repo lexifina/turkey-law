@@ -1,0 +1,3 @@
+Taşıma ve depolama
+MADDE 13 – (1) Bu Tebliğ kapsamında yer alan ürünlerin taşınması ve depolanması, Türk Gıda Kodeksi Yönetmeliğine uygun olur.
+(2) Bu Tebliğ kapsamında hazır ambalajlı hale getirilmeksizin piyasaya arz edilen ürünler; satış yerlerinde tüketicinin ürüne temasını engelleyecek, ancak ürün görselliğine de izin verecek şekilde uygun malzemeden yapılmış açılır-kapanır tezgah dolaplarında muhafaza edilir ve satış yetkilisi kontrolünde Türk Gıda Kodeksi Gıda ile Temas Eden Madde ve Malzemeler Yönetmeliğinde yer alan hükümlere uygun bir ambalaj malzemesi kullanılarak tüketiciye sunulur.
