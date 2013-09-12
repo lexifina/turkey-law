@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "61504625-784/517-27",
+  "source_id": 21959,
+  "date": "2013-09-12",
+  "title": "Biçerdöver'in kiraya verilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21959",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "efb602b0a68f6029f0072a7426e569d5dec360a25a871b11c53ad9a7ef30cd8a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
