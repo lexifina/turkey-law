@@ -149,3 +149,4 @@ KHK/646 | 134 | 10/7/2011
 6358 | Geçici Madde 6 | 10/11/2012
 6361 | (4) sayılı Tarife | 13/12/2012
 Anayasa Mahkemesi’nin 18/10/2012 tarihli ve E.: 2012/70, K.: 2012/157 sayılı Kararı | 28/a | 13/2/2013 tarihinden başlayarak altı ay sonra (13/8/2013)
+Anayasa Mahkemesi’nin 1/11/2012 tarihli ve E.:2011/64, K.: 2012/168 sayılı Kararı | (1) sayılı Tarifenin “A- Mahkeme Harçları” bölümünün “IV. Temyiz, istinaf ve itiraz harçları” kısmının (f), (g) ve (h) fıkraları | 13/3/2013 tarihinden başlayarak altı ay sonra (13/9/2013)
