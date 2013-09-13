@@ -725,10 +725,10 @@ idare mahkemelerine itirazen yapılacak başvurularda (66,10 T.L) 50 TL
 e) Bölge adliye mahkemeleri hukuk dairelerine yapılacak istinaf yolu
 başvurularında (66,10 T.L) 50 TL
 f) Bölge adliye mahkemeleri ceza dairelerine yapılacak istinaf yolu
-başvurularında (26,45 T.L) 20 TL
+başvurularında (1) (26,45 T.L) 20 TL
 g) İdarî yaptırımlar konusunda sulh ceza mahkemelerince verilen son
-karara karşı itirazen yapılacak başvurularda (26,45 T.L) 20 TL
-h) İcra mahkemelerinin kararlarına karşı itirazen yapılacak başvurularda (26,45 T.L) 20 TL
+karara karşı itirazen yapılacak başvurularda (1) (26,45 T.L) 20 TL
+h) İcra mahkemelerinin kararlarına karşı itirazen yapılacak başvurularda(1) (26,45 T.L) 20 TL
 V. Keşif harcı: (Ek: 23/7/2010-6009/20 md.) (170,80 TL.) 120 TL.
 (Mahkemelerce re’sen veya istem üzerine verilen keşif ya da
 tespit kararlarını yerine getirmek için)
@@ -756,6 +756,8 @@ tesliminde;
 aa) İcra emrinin tebliği üzerine teslim halinde (Yüzde 2,27) Yüzde 1,2
 bb) İcra marifetiyle teslim halinde (Yüzde 4,55) Yüzde 2,4
 h) (Ek: 21/2/2007-5582/32 md.) 2499 sayılı Sermaye Piyasası Kanununun 38/A maddesinin birinci fıkrasında tanımlanan konut finansmanından kaynaklanan alacaklar ile Toplu Konut İdaresi Başkanlığının rehinle temin edilmiş alacaklarının takibinde, bu bentte belirtilen tahsil harçları dörtte biri oranında uygulanır.
+–––––––––––––
+(1) Bu fıkralar, Anayasa Mahkemesi’nin 1/11/2012 tarihli ve E.: 2011/64, K.: 2012/168 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 13/3/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
 3929
 Uygulanan Kanunla Getirilen
 Miktar Miktar
