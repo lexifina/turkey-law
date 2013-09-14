@@ -1,0 +1,2 @@
+Giderler
+MADDE 11 – (1) 10 uncu maddenin birinci fıkrasının (a) bendi çerçevesinde sağlanan faaliyetlerin giderleri düşüldükten sonra kalan gelirlerin Rektörce uygun görülen bir kısmı gelir sağlayan fakülte veya birimin araç, gereç, araştırma ve diğer ihtiyaçlarına ve ilgili birimin öğretim üyesi, görevlisi ve çalışanlarına dağıtılır. Kalan kısmı ise 10 uncu maddenin birinci fıkrasının (b) ve (c) bentlerinde sayılan gelirlere eklenerek Mütevelli Heyetin belirleyeceği yerlere harcanır.

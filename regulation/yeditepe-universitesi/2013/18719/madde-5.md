@@ -1,0 +1,15 @@
+İKİNCİ BÖLÜM
+Faaliyet Alanları
+Faaliyet alanları
+MADDE 5 – (1) İşletme, eğitim ve öğretim ile bunlara katkıda bulunan uygulamayı ön planda tutmak ve Üniversitenin esas faaliyetlerini aksatmamak kaydıyla aşağıdaki faaliyetlerde bulunur.
+a) Yükseköğretim kurumları dışındaki kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerce talep edilecek, bilimsel görüş, plan, proje, araştırma, prototip geliştirme ve benzeri hizmetleri yapmak ve bunlara ilişkin raporlar, seminer, konferans, sempozyumlar düzenlemek, kurslar açmak, pedagojik formasyon, yabancı dil, bilgi işlem, bilgisayar yazılımı ve donanım ve benzeri konularda eğitim hizmetleri faaliyetlerinde bulunmak, donanım, yazılım üretmek ve pazarlamak, kontrol, muayene ve benzeri hizmetler vermek, analiz, ölçüm, test ve kalibrasyon yapmak ve her türlü danışmanlık vermek.
+b) Laboratuvar ve atölyelerde her çeşit cihaz, makine, alet-edevat, tesisat ve benzerlerinin üretim, bakım ve onarımını yapmak, uygulama eczanesi, uygulama oteli ve mevzuatın öngördüğü gerekli benzeri tesisleri kurmak, işletmek.
+c) Her türlü iş ve hizmet ile canlı materyal, tarım ve sanayi ürünleri, uzay ve bilişim teknolojilerine ait ürünleri ve diğer malları üretmek, elde edilen ürünleri ilgili mevzuat hükümlerine göre pazarlamak, satımını yapmak üzere satış ve teşhir yerleri açmak.
+ç) Tarım, gıda, sanayi, kimya, ilaç ve diğer ilmi konularda özel kuruluşlarca üretilen çeşitli mal ve hizmetlerin standartlara uygunluğu konusunda ilgili mevzuat hükümlerine göre, analiz ve ölçümler yapmak, raporlar düzenlemek, projeler hazırlamak veya uygulamak, araştırma-geliştirme (AR-GE) faaliyetlerinde bulunmak, üçüncü kişilere AR-GE desteği vermek, bu konularla ilgili olarak akredite laboratuvarlar kurmak ve bunları işletmek.
+d) Bu Yönetmelik kapsamında olmak şartı ile iş ve hizmet üretmek, kitap, resim, heykel, senaryo, müzik ve benzeri eserleri yaratmak, bunların satışını yapmak, her türlü basın yayın işlerini yapmak, fuar, sergi alanları açmak.
+e) Diş Hekimliği Fakültesinde ameliyathaneler ve laboratuvarlarda yapılacak her türlü muayene, tetkik, tahlil, tedavi, ameliyat, bakım ve üretim başta olmak üzere diş hekimliği ile ilgili iş ve hizmetleri yapmak.
+f) Bilimsel sonuçların uygulanmasını ve teknolojiye dönüşümünü sağlamak.
+g) Faaliyet alanına giren işlere ait oluşan patent, faydalı model, marka veya fikir ve sınai haklar konusuna giren ve eserleri tescil ettirmek, bunları tamamen ya da kısmen kiralamak, satmak ya da kullandırmak.
+ğ) Faaliyet konusu işlemleri gerçekleştirmek üzere her türlü menkul, hizmet, sarf malzemesi almak, satmak, kiralamak veya kiraya vermek.
+h) Üniversite tarafından açılacak yeni fakülte, enstitü, yüksekokul gibi birimlerin faaliyet konuları ile ilgili olarak gelir getirici faaliyetlerde bulunmak.
+(2) (Ek:RG-14/9/2013-28765) Yeditepe Üniversitesinde verilen lisans ve lisansüstü eğitim ve öğretim hizmetleri ile sağlık ile ilgili uygulama ve araştırma merkezlerinde verilen sağlık hizmetlerinden elde edilen gelirler Döner Sermaye İşletmesinin faaliyet kapsamı dışındadır.
