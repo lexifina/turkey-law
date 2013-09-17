@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[MÜK.80-2013/482]-1513",
+  "source_id": 24176,
+  "date": "2013-09-17",
+  "title": "Gayrimenkulün satışından elde edilecek kazancın okul yapımı için bağışlanması durumunda değer artışı kazancı yönünden beyana tabi tutulup tutulmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24176",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "94f611814b607e674395a4a43ecd6cd0e14bd9dad941c9e7e544d337015bee54",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
