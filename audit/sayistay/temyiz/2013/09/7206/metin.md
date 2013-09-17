@@ -1,0 +1,19 @@
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü:
+
+1524 sayılı ilamın 1’inci maddesinde,  meclis üyelerine denetim komisyonu için huzur ücreti ödenmesi nedeniyle fazla ödemede bulunulduğu gerekçesiyle toplam 6.728,94 YTL.’ye tazmin hükmolunmuştur.
+
+Dilekçi ilk dilekçesinde, nüfusu 10.000’in altında olmasına rağmen denetim komisyonu oluşturularak, komisyon üyelerine yersiz olarak huzur hakkı ödenmesi nedeniyle verilen tazmin hükmü hakkında, esasen yapılan uygulamanın doğru olduğunu, eğer tazmin hükmü verilecekse sorumluluğun bu komisyonun kurulması için yazı yazan Yazı İşleri Müdürüne ait olduğunu ve fazla ödemelerin tahsili için ahizlerine yazı yazılarak geri istendiğini belirterek kaldırılmasını talep etmiş, ikinci dilekçesinde ise adı geçen kamu zararı tutarının tahsil edildiğini gösteren makbuzları ibraz ederek tazmin hükmünün kaldırılmasını istemiştir.
+
+Sayıştay Başsavcılığı birinci dilekçe üzerine karşılama yazısında; “Söz konusu talep, gerek 5018 sayılı, gerekçe 6085 sayılı Kanunların ilgili hükümleri, karşısında geçerli bulunmadığından talebin reddolunması gerekir”, dilekçenin bu yazıya yanıtı  üzerine ikinci karşılama yazısında; “Tahsilat hüküm tarihinden sonra olduğundan ilamın infazı mahiyetinde olup, yapılacak işlem kalmamıştır.” Şeklinde görüş belirtmiştir.
+
+Dilekçilerin sorumluluk ile ilgili iddiaları ile ilgili olarak; Harcama yetkilisinin sorumluluğu   5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun 32’nci maddesinde, gerçekleştirme görevlilerinin sorumluluğu 5018 sayılı Kanunun 33’ üncü maddesinde  hüküm altına alınmış olp, ödeme emri belgesi üzerinde harcama yetkilisi ve gerçekleştirme görevlisi olarak imzası bulunan görevlilerin sorumluluğu sözkonusu olduğundan dilekçinin sorumluluk ile ilgili iddialarının REDDİNE,
+
+Konunun esası hakkında; 5393 sayılı Belediye Kanununun Denetim komisyonu başlıklı 25 inci maddesinde "İl ve ilçe belediyeleri ile nüfusu 10.000'in üzerindeki belediyelerde, belediye meclisi, her ocak ayı toplantısında belediyenin bir önceki yıl gelir ve giderleri ile bunlara ilişkin hesap kayıt ve işlemlerinin denetimi için kendi üyeleri arasından gizli oyla ve üye sayısı üçten az beşten çok olmamak üzere bir denetim komisyonu oluşturur. Komisyon, her siyasî parti grubunun ve bağımsız üyelerin meclisteki üye sayısının meclis üye tam sayısına oranlanması suretiyle oluşur. ..." hükmü yer almaktadır.
+
+Söz konusu maddenin gerekçesinde de "Bu Kanun ile getirilen en önemli yeniliklerden biri de nüfusu 10.000'in üzerindeki belediyelerde, bir önceki yıl gelir ve giderleri ile bunlara ilişkin hesap ve işlemlerin denetimini yapmak üzere denetim komisyonu kurulmasıdır. Böylece, meclis üyelerinin özel idare işleriyle ilgili olarak daha iyi bilgi edinmeleri ve bunun sonucunda elde edilen verilerle meclisin bilgi edinme ve denetim yollarının daha etkili bir şekilde işletilmesi de mümkün olabilecektir." denilmektedir.
+
+Madde hükmünde ve gerekçesinde de açıkça ifade edildiği üzere denetim komisyonu nüfusu 10.000' in üzerindeki belediyelerde kurulabilmektedir. Nüfusu 10.000'in altında olan belediyelerde denetim komisyonun oluşturulabilmesi plân ve bütçe ile imar komisyonlarından farklı bir şekilde düzenlenerek bu konuda belediye meclisine yetki tanınmamıştır. Dolayısıyla nüfusu 10.000'in altında olan belediyelerde denetim komisyonu oluşturulması ve huzur ücreti ödenmesi mevzuata aykırıdır.
+
+Bu nedenlerle, 1524 sayılı ilamın 1’inci maddesiyle toplam 6.728,94 YTL.’ye ilişkin olarak verilen tazmin hükmünün TASDİKİNE,  sözkonusu kamu zararının tahsiline dair belgelerden ise yapılan tahsilatın    hüküm   tarihinden sonra yapıldığı anlaşıldığından, hüküm tarihinden sonra yapılan tahsilatlar hükmün infazı mahiyetinde olduğu için bu hususta KURULUMUZCA YAPILACAK BİR İŞLEM BULUNMADIĞINA,
+
+Karar verildiği 17.09.2013 tarihli ve 37624 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
