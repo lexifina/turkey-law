@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.61.15.01-130[621-12-2012]-86",
+  "source_id": 22175,
+  "date": "2013-09-17",
+  "title": "%50 si gerçek kişi %50 si kurumlar mükellefi olan adi ortaklığın 2 yıl aktifinde bulundurduğu taşınmazı satması halinde bu satıştan elde edilen kazancın vergi kanunları açısından değerlendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22175",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "c88990eef0548cf79aa8db3c422fa623a429edeec5c7c219eb1b2f971ba965af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
