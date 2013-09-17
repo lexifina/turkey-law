@@ -1,0 +1,3 @@
+Bir Derneğin düzenlemiş olduğu İnceleme ve Araştırma Gezisinin ...Belediyesi tarafından iptal edilmesi sonucunda ödenen gezi bedelinin Belediye tarafından geri alınmaması
+
+… Derneğinin düzenlemiş olduğu 24-29 Eylül 2012 tarihleri arasında ".... Kenti İnceleme ve Araştırma Gezisi"nin...Belediyesi tarafından iptal edilmesi sonucunda ödenen gezi bedelinin Belediye tarafından geri alınmaması sonucu kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı … tarih ve … nolu Havale Dekontu ile … Bankası … Şubesi nezdinde ki belediye hesabına yatırıldığından İLİŞİLECEK HUSUS KALMADIĞINA oybirliğiyle,
