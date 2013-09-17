@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-09-17",
+  "issue": "28768",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Askerî Hâkim Adaylarının Seçimi ve Yetiştirilmesi Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130917-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130917.htm",
+  "index_sha256": "55856e46f551406ac47ec2fdeecb36c71541b2aa8cbc0126b5596d977921b1f5",
+  "index_header": "17 Eylül 2013 ... 28768 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130917.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
