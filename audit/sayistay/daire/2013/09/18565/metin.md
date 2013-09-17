@@ -1,0 +1,3 @@
+Yüklenici firma tarafından sözleşmeye konu edilen işler süresinde bitirilmediği halde, sözleşme hükümleri çerçevesinde kesilmesi gereken gecikme cezasının kesilmemesi
+
+… Ltd. Şti. 'ne … tarihinde ihale edilen "… Yapım İşi"nde; yüklenici firma tarafından sözleşmeye konu edilen mahalle bazlı işler süresinde bitirilmediği halde, sözleşme hükümleri çerçevesinde kesilmesi gereken gecikme cezasının kesilmemesi sonucu kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL tutarında kamu zararına neden olunduğu görülmüş ise de; bu kamu zararı … tarih ve … sayılı tahsilat makbuzu ile tahsil edildiğinden İLİŞİLECEK HUSUS KALMADIĞINA oybirliğiyle,
