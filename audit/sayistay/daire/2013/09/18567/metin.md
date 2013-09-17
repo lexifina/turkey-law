@@ -1,0 +1,3 @@
+Yüklenici firma tarafından iş süresinde bitirilmediği halde, sözleşme hükümleri çerçevesinde kesilmesi gereken gecikme cezasının kesilmemesi
+
+… İnşaat Taah. ve İnş. Malz. Alım Satış İşleri 'ne … tarihinde ihale edilen … TL sözleşme bedelli "… Yapım İşi"nde; yüklenici firma tarafından iş süresinde bitirilmediği halde, sözleşme hükümleri çerçevesinde kesilmesi gereken gecikme cezasının kesilmemesi sonucu kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL gecikme cezasının … tarih ve … nolu, … tarih ve … nolu tahsilat makbuzları ile tahsil edildiğinden İLİŞİLECEK HUSUS KALMADIĞINA oybirliğiyle,
