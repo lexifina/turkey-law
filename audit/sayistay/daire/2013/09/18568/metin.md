@@ -1,0 +1,3 @@
+Yüklenici firma tarafından iş süresinde bitirilmediği halde, sözleşme hükümleri çerçevesinde kesilmesi gereken gecikme cezasının kesilmemesi
+
+… Mühendislik yükleniminde … TL sözleşme bedelli “…İşi”nde; yüklenici firma tarafından iş süresinde bitirilmediği halde, sözleşme hükümleri çerçevesinde kesilmesi gereken gecikme cezasının kesilmemesi sonucu kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL gecikme cezası … tarihi … nolu muhasebe işlem fişi ve … tarihli … alındı nolu mahsup alındısı ile tahsil edildiğinden İLİŞİLECEK HUSUS KALMADIĞINA oybirliğiyle,
