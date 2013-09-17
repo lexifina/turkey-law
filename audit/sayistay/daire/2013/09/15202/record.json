@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "17",
+  "decision_date": "2013-09-17",
+  "source_id": 15202,
+  "chamber": "5",
+  "ilam_number": "110",
+  "item_number": 14,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15202/",
+  "source_sha256": "b3df4b1865c9a796bc4671b0b20869838900e3614fba893cba375173dcfa0699",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
