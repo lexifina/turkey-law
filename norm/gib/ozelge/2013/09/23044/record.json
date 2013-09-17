@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.45.15.01-120[40.01.26]-89",
+  "source_id": 23044,
+  "date": "2013-09-17",
+  "title": "Basit usul mükellef olarak cep telefonu tamir işinin yanında sıfır veya ikinci el cep telefonu alım satımı yapıp yapamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23044",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "174b98fa87886e2200bd9760e81eb9c5030a6741993d1e71a62493bbedad627f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
