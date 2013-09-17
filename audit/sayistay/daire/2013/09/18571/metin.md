@@ -1,0 +1,3 @@
+193 sayılı Gelir Vergisi Kanunu'nda belirtilen yıllara sari inşaat ve onarım işleri için öngörülen gelir vergisi tevkifatının yapılmaması
+
+… Ltd. Şti.' ne … tarihinde ihale edilen … TL sözleşme bedelli "… Yapım İşi-3, 2. Kısım (…)" ile ilgili olarak 193 sayılı Gelir Vergisi Kanunu'nda belirtilen yıllara sari inşaat ve onarım işleri için öngörülen gelir vergisi tevkifatının yapılmaması sonucu kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, gelir vergisi tevkifat tutarı olan … TL sehven unutulduğundan … tarih ve … sayılı tahsilat makbuzu ile tahsil edildiğinden İLİŞİLECEK HUSUS KALMADIĞINA oybirliğiyle,
