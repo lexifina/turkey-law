@@ -1,0 +1,4 @@
+Öğretim elemanları
+MADDE 12 – (1) Öğretim elemanlarının seçimi, değerlendirilmesi, seçilenlerin uygun görülen akademik unvanlarla görevlendirilmeleri ilgili mevzuat hükümlerine göre vakıf yükseköğretim kurumunun yetkili akademik organlarınca yapılır. Öğretim elemanlarının atamalarında, devlet yükseköğretim kurumlarındaki atamalarda aranan şartlara ilaveten Üniversitenin akademik yönden gerekli gördüğü diğer şartlar da aranabilir.
+(2) Üniversitede görev alacak olan akademik ve idari personelin çalışma esasları 2547 sayılı Kanunda devlet üniversiteleri için öngörülen hükümlere tabidir. Bu personelin aylık ve diğer özlük hakları bakımından ise 22/5/2003 tarihli ve 4857 sayılı İş Kanunu hükümleri uygulanır.
+(3) Öğretim elemanlarının disiplin iş ve işlemlerinde, 21/8/1982 tarihli ve 17789 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Yönetici, Öğretim Elemanı ve Memurları Yönetmeliği hükümleri uygulanır.
