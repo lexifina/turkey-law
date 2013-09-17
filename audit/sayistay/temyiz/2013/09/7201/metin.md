@@ -1,0 +1,27 @@
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü:
+
+1435 sayılı ilamın 1’inci maddesinde, Mersin Erdemli Belediyesi Denetim Komisyonu Üyelerine yapılan huzur hakkı ödemelerinin yanlış hesaplandığı gerekçesiyle toplam 2.509,08 TL.’ye tazmin hükmolunmuştur.
+
+Dilekçi dilekçesinde, Belediyelerde, 5393 sayılı Belediye Kanununun denetim komisyonu başlıklı 25 inci maddesinde, denetim komisyonu toplantılarına dışarıdan katılacak kişiler için düzenleme yapılmışken, belediye meclisi üyeleri için ayrıca bir düzenleme yapılmadığından, meclis üyesi olan komisyon üyelerine, dışarıdan katılanlar için öngörülen düzeyde bir ödeme yapılmasında hukuka aykırılık bulunmadığı yolundaki savunmasının kabul edilmemiş olmasında hukuka uyarlık bulunmadığını,
+
+Öte yandan 5393 sayılı Kanunun anılan maddesinde, denetim komisyonunun çalışmalarının 45 iş gününde tamamlanması gerektiğinin yazıldığını,  İlamda yer aldığı gibi, komisyon üyesi olan meclis üyelerine, belediye başkanı ödeneğinin günlük tutarının üçte biri ödense bile, yine de ortada bir kamu zararı bulunmayacağını,  Şöyle ki: 2008 yılında nüfusu 10.001-50.000 arası belediyeler için belediye başkanı ödeneğinin 4.115.84 TL. olup Bunun günlük tutarının üçte birinin 45,73 TL olduğunu, Bunun 45 günlük karşılığının ise 2.057,92 olduğunu,  Bu durumda kişi başına ödenen fazladan tutarın 218,39 TL olup iki kişi için toplam tutarın ise 436,78 TL. olduğunu, söz konusu ilamın 6085 sayılı Kanunun 55/7 maddesi uyarınca düzeltilerek tasdik edilmesine karar verilmesi gerektiğini belirtmektedir.
+
+Sayıştay Başsavcılığı; “5393 sayılı Belediye Kanununun 32. maddesi karşısında yasal dayanağı bulunmayan temyiz talebinin reddedilerek Daire Kararının onanmasının uygun olacağı düşünülmektedir.” Şeklinde görüş belirtmiştir.
+
+5393 sayılı Belediye Kanunun “ Denetim komisyonu” başlıklı 25 inci maddesinde;
+
+İl ve ilçe belediyeleri ile nüfusu 10.000'in üzerindeki belediyelerde, belediye meclisi, her ocak ayı toplantısında belediyenin bir önceki yıl gelir ve giderleri ile bunlara ilişkin hesap kayıt ve işlemlerinin denetimi için kendi üyeleri arasından gizli oyla ve üye sayısı üçten az beşten çok olmamak üzere bir denetim komisyonu oluşturur. Komisyon, her siyasî parti grubunun ve bağımsız üyelerin meclisteki üye sayısının meclis üye tam sayısına oranlanması suretiyle oluşur. Komisyon, belediye başkanı tarafından belediye binası içinde belirlenen yerde çalışır ve çalışmalarında kamu personelinden ve gerektiğinde diğer uzman kişilerden yararlanabilir.
+
+Denetim komisyonu toplantılarına, belediye ve bağlı kuruluşları dışındaki kamu kurum ve kuruluşlarından görevlendirilenlere (1.000); kamu personeli dışındaki diğer uzman kişilere büyükşehir belediyelerinde (3.000), diğer belediyelerde (2.000) gösterge rakamının Devlet memurlarına uygulanan aylık katsayıyla çarpımı sonucu bulunacak miktarı geçmemek üzere, belediye meclisince belirlenecek miktarda günlük ödeme yapılır. Denetim komisyonunun emrinde görevlendirilecek kişi ve gün sayısı belediye meclisince belirlenir. Uzman kişilerde aranacak nitelikler belediye meclisinin çalışmasına dair yönetmelikte düzenlenir.……”denilmektedir.
+
+Aynı Kanunun “Huzur ve İzin Hakkı” başlıklı 32 inci maddesinde;
+
+“Meclis başkan ve üyelerine, meclis ve komisyon toplantılarına katıldıkları her gün için, 39 uncu madde uyarınca belediye başkanına ödenmekte olan aylık brüt ödeneğin günlük tutarının üçte birini geçmemek üzere meclis tarafından belirlenecek miktarda huzur hakkı ödenir. Huzur hakkı ödenecek gün sayısı, 20, 24 ve 25 inci maddelerde belirtilen toplantı günü sayısından fazla olamaz ve meclis üyelerine aynı gün için birden fazla huzur hakkı ödenemez.…...” hükmü yer almaktadır.
+
+Yukarıdaki mevzuat hükümlerine göre, Denetim Komisyonunda görev alan meclis üyelerine belediye başkanına ödenmekte olan aylık brüt ödeneğin günlük tutarının üçte birini geçmemek üzere meclis tarafından belirlenecek miktarda huzur hakkı ödenmesi gerekmektedir.  Denetim Komisyonunda görev yapan meclis üyelerine, 5393 sayılı Belediye Kanununun 32 inci maddesindeki huzur hakkı ödenmesi gerekirken, aynı kanunun 25 inci maddesindeki denetim komisyonu toplantılarına katılan kamu personeli dışındaki diğer uzman kişilere yapılan ödemenin ( (2000) gösterge rakamının devlet memurlarına uygulanan aylık katsayıyla çarpımı sonucu bulunacak miktar) esas alınarak ödeme yapılması mümkün değildir.
+
+Dilekçi tarafından 5393 sayılı kanunda,  denetim komisyonunun çalışmalarının 45 iş gününde tamamlanması gerektiğinin yazıldığı,  2008 yılında nüfusu 10.001-50.000 arası belediyeler için belediye başkanı ödeneğinin 4.115.84 TL. olup Bunun günlük tutarının üçte birinin 45,73 TL olduğunu, Bunun 45 günlük karşılığının ise 2.057,92 olduğu,  Bu durumda kişi başına ödenen fazladan tutarın 218,39 TL olup iki kişi için toplam tutarın ise 436,78 TL. olduğu, söz konusu ilamın düzeltilerek tasdik edilmesine karar verilmesi gerektiği belirtilmekte ise de, 5393 sayılı Kanunun 32’nci maddesinde, Meclis başkan ve üyelerine, meclis ve komisyon toplantılarına katıldıkları günler için huzur hakkı ödeneceği belirtilmiş olup, 45 günlük süre huzur hakkı ödenebilecek azami gün sayısı olup,  denetim komisyonunun 23 gün toplandığı anlaşıldığından, ilamda kamu zararı da buna göre hesaplanmıştır.
+
+Bu nedenlerle dilekçi iddialarının reddi ile, 1435 sayılı ilamın 1’inci maddesiyle toplam 2.509,08 TL.’ye tazmin hükmünün TASDİKİNE,
+
+Karar verildiği 17.09.2013 tarihli ve 37619 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
