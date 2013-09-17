@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.18852",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 358)",
+  "number": "18852",
+  "path": "teblig/2013/18852",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18852&MevzuatTertip=5",
+  "source_sha256": "5023f920e84a75f617c25a58b91cad8566fbf86c6fff968b169c989741d07659",
+  "source_bytes": 82682,
+  "published": "2013-09-17",
+  "gazette": "28768",
+  "in_force": "2013-09-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.09.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7033,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18852%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Özel Orman Fidanlığına İlişkin İşlemler
+Özel orman fidanlığı tesisinde uyulacak genel esaslar
+MADDE 17 – (1) Belediye ve mücavir alan sınırları içerisinde veya dışarısındaki imar planı bulunmayan (imar planı dışında üst ölçekli planları bulunanlar ile üst ölçekli planlarda başka amaca ayrılan yerler dahil) alanlar ile imar planı bulunan ve planda tarımsal veya ağaçlandırma amaçlı olarak ayrılan alanlardaki taşınmazlar üzerinde, arazi sınıfına bakılmaksızın, yüzölçümü 2.000 m2’den az olamamak üzere özel orman fidanlığı yapılmak amacıyla ön izin verilebilir ve kiralama yapılabilir.
+(2) Bu Genel Tebliğin 6 ncı maddesinin birinci fıkrasının (a), (ç), (d), (e), (f), (g), (ğ), (h), (ı), (i), (k), (l), (n), (o), (p), (r), (s), (ş), (t) ve (u) bentleri ile 3621 sayılı Kıyı Kanunu kapsamında kıyı ve sahil şeridinde kalan alanlarda kalan taşınmazlarda özel orman fidanlığı yapılmak amacıyla ön izin verilemez ve kiralama yapılamaz.
+(3) Bu Genel Tebliğ kapsamında Hazine taşınmazları üzerinde elma, armut, şeftali, incir ve benzeri meyve ağacı türleri yetiştirilmek üzere özel orman fidanlığı yapılmak amacıyla ön izin verilemez, kiralama yapılamaz ve bu amaçla kiraya verilen Hazine taşınmazları üzerinde bu ağaçlar yetiştirilemez.

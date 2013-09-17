@@ -1,0 +1,2 @@
+Mevcut işlemler ve sözleşmeler
+GEÇİCİ MADDE 1 – (1) Bu Genel Tebliğin yürürlüğe girdiği tarihten önce Hazine taşınmazları üzerinde ağaçlandırma ve özel orman fidanlığı yapılmak amacıyla İdareye başvuran ve işlemleri tamamlanarak ön izin aşamasına gelen kişilere ilişkin işlemler, 9 uncu maddede belirtilen ve durumlarına uyan yüzölçümler üzerinden bu Genel Tebliğe göre sonuçlandırılır, ön izin verilenler ile kira sözleşmesi düzenlenenler hakkında ise, Milli Emlak Genel Tebliği (Sıra No:300)’nin ilgili hükümleri uygulanır.

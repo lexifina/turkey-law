@@ -1,0 +1,3 @@
+Taşınmazın teslimi
+MADDE 20 – (1) Özel orman fidanlığı yapılmak amacıyla kiraya verilen taşınmaz, İdarece “Taşınmaz Teslim Tutanağı” düzenlenmek suretiyle kiracısına teslim edilir. Teslim tutanağı dört nüsha olarak düzenlenir. Tutanağın bir nüshası kiracıya verilir, birer nüshaları da ilgili fidanlık müdürlüğüne / orman işletme müdürlüğüne ve Bakanlığa gönderilir, diğer nüshası ise dosyasında saklanır.
+(2) Kiracısına teslim edilen taşınmazın üzerinde, kiracı tarafından teslim tarihinden itibaren doksan gün içerisinde onaylı uygulama projesine uygun olarak özel orman fidanlığı çalışmalarına başlanılması ve çalışmalarda mücbir sebepler dışında projesindeki iş programı sürelerine uyulması esastır.
