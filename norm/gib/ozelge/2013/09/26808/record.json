@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[327-2012/VUK-1- . . .]-1506",
+  "source_id": 26808,
+  "date": "2013-09-17",
+  "title": "Kiralanan gayrimenkulün kira süresi sona ermeden satın alınması halinde henüz itfa edilmemiş özel maliyet bedelinin bir defada gider yazılıp yazılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26808",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "1b1b1d472d1db0fb438664918e9339c26a308a263dd695c22dc9ff8083f7f80a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
