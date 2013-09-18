@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.18.02-105[230-2012-9394]-1031",
+  "source_id": 22339,
+  "date": "2013-09-18",
+  "title": "Sözleşme kapsamında kiralanan işyerinde üretilen enerji karşılığında elde edilecek brüt gelirin % 5 oranında belediyeye verilen payın ve kira ödemelerinin vergisel boyutu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22339",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "ad3a7a34664ec303214dc8e458a66a9d1c36b68bc1070431ac1b9a726c17ff29",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
