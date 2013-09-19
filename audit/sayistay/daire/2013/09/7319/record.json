@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35126",
+  "decision_date": "2013-09-19",
+  "source_id": 7319,
+  "chamber": "2",
+  "ilam_number": "2",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7319/",
+  "source_sha256": "fd5c692368e9ce32c0c2ee842d53e0477c67faf20a5d5e4088fcb1c1e2b05f92",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
