@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76464994-140[2012/55]-235",
+  "source_id": 34845,
+  "date": "2013-09-19",
+  "title": "Kamu Taşınmazlarının Turizm Yatırımlarına Tahsisi Hakkında Yönetmelik'in 12 /1-d fıkrası uyarınca ön izin verildiği belirtilen şirketin, söz konusu ön iznin geçerlilik kazanabilmesi için istenilen \"Girişimci Taahhütnamesi\"nin noterde tasdiki sırasında not",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/34845",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "54c322c743e78fcb4d6397fa91cbc1cc1b326400cdf5b8ef3bc434972fe44ebc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
