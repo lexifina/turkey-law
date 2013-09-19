@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-09-19",
+  "issue": "28770",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Karadeniz Teknik Üniversitesi Yabancı Dil Hazırlık Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130919-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130919.htm",
+  "index_sha256": "eb29379f59bc54a9e160a16aa130063fde7342d488b7c669c7d946a70546eefc",
+  "index_header": "19 Eylül 2013 ... 28770 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130919.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
