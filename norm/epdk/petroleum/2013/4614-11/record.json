@@ -1,0 +1,28 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "4614/11",
+  "decision_date": "2013-09-19",
+  "title": "Petrol Piyasasında Dağıtıcı Lisansı Sahiplerinin Bayi Denetim Sistemine İlişkin Usul ve Esaslara ilişkin",
+  "resmi_gazete_date": "2013-10-06",
+  "resmi_gazete_number": "28787",
+  "categories": [
+    "Petrol Piyasasında Dağıtıcı Lisansı Sahiplerinin Bayi Denetim Sistemine İlişkin Usul ve Esaslar Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vXkXTzuGmbg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vXkXTzuGmbg=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GwceOoRrDP8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JF9CvkwjFHw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4vHodXhfTNs="
+  ],
+  "source_sha256": "8b055fa46bc276874188146fc5daf0350e5f9b8748e2c00c6ccc6555ce3f58a9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 27577,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-09-19",
+  "law_text_complete": false
+}
