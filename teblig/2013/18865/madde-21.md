@@ -1,0 +1,4 @@
+Ürünün soruşturma konusu ülkelerden ithalatı
+MADDE 21 – (1) ÇHC’den yapılan ithalat söz konusu dönemde miktar bazında sırasıyla 1.488 ton, 2.478 ton ve 2.583 ton olarak gerçekleşerek toplam ithalatın sırasıyla %46,5, %61,2 ve %66,5’ini oluşturmuştur. Söz konusu ülkeden yapılan ithalat değer bazında ise sırasıyla 6,23 milyon ABD Doları, 9,44 milyon ABD Doları ve 11,8 milyon ABD Doları olarak gerçekleşmiştir.
+(2) İtalya’dan yapılan ithalat ise aynı dönemde miktar bazında sırasıyla 870,1 ton, 702,9 ton ve 455,3 ton olarak gerçekleşerek toplam ithalatın sırasıyla %31,9, %22,8 ve % 11,7’sini oluşturmuştur. Söz konusu ülkeden yapılan ithalat değer bazında ise sırasıyla 3,42 milyon ABD Doları, 2,94 milyon ABD Doları ve 1,94 milyon ABD Doları olarak gerçekleşmiştir.
+(3) Sırbistan’dan yapılan ithalat ise sadece soruşturma döneminde miktar bazında 688 ton olarak gerçekleşerek toplam ithalatın %17,7’sini oluşturmuştur.
