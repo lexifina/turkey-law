@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-09-19",
+      "19.09.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28770",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-09-19",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Piri Reis Üniversitesi",
+  "issuer_slug": "piri-reis-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/piri-reis-universitesi/2013/18864",
+  "published": "2013-09-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18864&MevzuatTertip=5",
+  "source_bytes": 41958,
+  "source_id": "8.5.18864",
+  "source_sha256": "541d4e65117e249faac2a1363e2c99882e703c4c5542d6ca25e923c262075c2e",
+  "text_status": "as-enacted",
+  "title": "PİRİ REİS ÜNİVERSİTESİ DENİZCİLİK TARİHİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 324,
+  "word_count": 1029
+}
