@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "46480499-140.04.01[59-2013/577]-87",
+  "source_id": 35752,
+  "date": "2013-09-19",
+  "title": "Tapu ve kadastro idaresinin işlemlerinden kaynaklanmadığı anlaşılan hatalı kat mülkiyetinin terkini ile hatalı parsel numaralarının düzeltilerek maliklerin hali hazırda oturdukları parsellerin adlarına tescil edilmesi işlemlerinden ne şekilde tapu harcı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35752",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "376bafa079ad1aee0c76016ca3e5c716fc1f42cd78cde1b3f36d63aad52b695f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
