@@ -1,0 +1,1 @@
+MADDE 3 – (1) 20/2/2007 tarihli ve 26440 sayılı Resmî Gazete’de yayımlanan Türk Loydu Vakfı İktisadi İşletmesinin Gaz Yakan Cihazlar ve Basınçlı Ekipmanlar Konusunda Onaylanmış Kuruluş Olarak Görevlendirilmesiyle İlgili Tebliğ (Tebliğ No: 2007/5) yürürlükten kaldırılmıştır.

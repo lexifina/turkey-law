@@ -1,0 +1,1 @@
+MADDE 2 – (1) TÜRK LOYDU’nun Bakanlığımız veya ilgili kamu kuruluşları tarafından diğer Yeni Yaklaşım Mevzuatına istinaden gerçekleştirilecek olası Onaylanmış Kuruluş görevlendirmelerinin resmi duyuruları Başbakanlık Dış Ticaret Müsteşarlığı’nın http://www.dtm.gov.tr/dts/ABTeknik/abteknik.htm adresinden takip edilebilecektir.
