@@ -1,0 +1,42 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2013/31",
+  "date": "2013-09-24",
+  "title": "SPK Haftalık Bülteni 2013/31",
+  "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_31.pdf",
+  "source_sha256": "cba40cb92fe9c101573c0556594184dc003fe185d0403bafad1dcb2cb5766874",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "A. YENİ BAŞVURULAR"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. YENİ BAŞVURULAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_31.pdf"
+    },
+    {
+      "heading": "C. SUÇ DUYURUSU, İDARİ PARA CEZASI İLE DİĞER YAPTIRIM VE TEDBİRLER",
+      "status": "metadata-only",
+      "reason": "sanctions-metadata-only",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_31.pdf"
+    },
+    {
+      "heading": "E. DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_31.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
