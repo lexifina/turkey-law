@@ -1,0 +1,4 @@
+Erciyes Üniversitesi Enerji Dönüşümleri Araştırma ve Uygulama Merkezi Yönetmeliği
+Amaç ve Kapsam
+Madde 1 — 4/11/1981 tarih ve 2547 Sayılı Yüksek Öğretim Kanunu'nun 4 üncü maddesinin (c), 12 nci maddesinin (c), (d), (e) ve (g) bendlerinde tarif edilen amaç ve yükseköğretim kurumlarına verilen görevler doğrultusunda, uygulamada değişik amaçlarla çeşitli işlemler için kullanılan enerjinin, başka enerji türlerine dönüşümlerinin, en yüksek verimle gerçekleştirilmesi ve tasarruflu kullanılmasını sağlamak amacıyla, gerekli araştırmaların yapılması ve elde edilen bulguları uygulama alanlarına aktarılmasıdır.
+Bu Yönetmelik yukarıda amaç ve kapsamı belirtilen "Erciyes Üniversitesi Enerji Dönüşümleri Araştırma ve Uygulama Merkezi" (ERDÖM) nin bilimsel, idari ve uygulamaya yönelik faaliyetlerini düzenler.

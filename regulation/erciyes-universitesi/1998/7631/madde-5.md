@@ -1,0 +1,2 @@
+Merkez Genel Kurulu
+Madde 5 — Merkez Genel Kurulu, Erciyes Üniversitesi'nin konu ile ilgili fakülte ve yüksekokul yönetim kurullarının 2 yıl için tercihan konu ile ilgili öğretim üyeleri arasından seçecekleri fakültelerden ikişer, yüksekokullardan birer, Rektörün görevlendireceği üç temsilciden meydana gelir. Boşalan üyelikler benzer şekilde kalan süreyi tamamlamak üzere bir ay içinde doldurulur. Merkez Genel Kurulu üye tam sayısının en az yarıdan bir fazlasının katılımı ile toplanır ve oy çokluğu ile karar verir.
