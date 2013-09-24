@@ -1,0 +1,27 @@
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü;
+
+1341 sayılı İlam’ın 2’nci maddesi ile, Belediye Meclisi üyelerinin Moskova ve St. Petersburg şehirlerinde incelemede bulunmak üzere yaptıkları geçici göreve ilişkin harcırah beyannamesine bu göreve gidiş gelişte kullanılan uçak bileti ile konaklama bedelinin ödenmesine esas olmak üzere yatacak yer temini için yaptıkları harcamayı kanıtlayıcı faturanın eklenmemesi nedeniyle 34.662,00-TL’ye tazmin hükmü verilmiştir.
+
+Dilekçi dilekçesinde özetle, Belediye Meclisinin 02.06.2008 tarih ve 34 sayılı kararına istinaden İzmir’den İstanbul aktarmalı olarak önce Moskova’ya ardından St.Petersburg’a TURVEB Turizm Taşımacılık Reklam Org. San. Tic. Ltd. Şti aracılığı ile toplam 8 meclis üyesinin bu organizasyon kapsamında ilgi inceleme gezisine katıldıklarını; bu inceleme gezisi kapsamında ilgili organizasyon firmasının Vergi Usul Kanununa göre 21.08.2008 tarih ve A sırası 012640 nolu faturayı düzenlemiş olduğunu ve fatura incelendiğinde konaklama bedelinin 8 kişi için 3 gece Moskova, 2 gece St.Petersburg toplam 5 gece için 17.373,28 TL tuttuğunu; 8 kişinin İstanbul, Moskova, St.Petersburg, İstanbul uçak bilet tutarlarının 9.819,68 TL olduğu görülmekle beraber yapılan araştırma neticesinde T.H.Y. nin online sayfasında bile ekonomi bilet ücreti asgarisinin gidiş geliş İzmir Moskova uçak bilet fiyatının 1.484,00 TL olduğu 8 kişi için 11.872,00 TL olduğunun görüldüğünü ve Moskova St.Petersburg bilet ücreti eklendiğinde bu fiyatın daha da artmasının muhtemel olduğunu; idare olarak tur firması kullanılmasının Belediyeyi zarara uğratmadığını kara geçirdiğini;
+
+Sayıştay İlamında bahse konu organizasyon firmasının Vergi Usul Kanununa göre kesilmiş faturasının hiçbir değerlendirmeye tabi tutulmaksızın işlem yapıldığını ve 8 meclis üyesi için gündelik bile öngörülmediğini belirterek tazmin hükmünün kaldırılmasını talep etmiştir.
+
+Başsavcılık karşılama yazısında, “İlgilinin talebi uygun görülmüştür. Her ne kadar 6245 sayılı Kanuna dayalı olarak çıkarılan 2008/13252 sayılı Bakanlar Kurulu Kararı ile Mahalli İdareler Harcama Belgeleri Yönetmeliğinde öngörülen hususlar yerine getirilmemişse de; uçak bileti ile konaklama faturası eklenmeksizin organizasyon firmasınca düzenlenen faturanın harcırah beyannamesine bağlanmış olması, meclis üyelerine gündelik öngörülmeyişi ve THY bilet ücretinin daha yüksek tutarda olması karşısında, kamu kaynağında eksilmeye neden olunmadığı dolayısıyla kamu zararı doğmadığı düşüncesi ile Dairesince verilen tazmin hükmünün kaldırılması uygun olur. (T.K.K. 05.07.2011 tarih ve 33475, 33476 sayılı kararları bu yöndedir.)” denilmiştir.
+
+6245 sayılı Harcırah Kanununa dayanılarak çıkarılan 2008/13252 sayılı Bakanlar Kurulu Kararında; “Bu Karar hükümlerine göre yurtdışına gönderilenlere Türkiye’den her çıkışlarında, seyahat ve ikamet süresinin ilk on günü için ödenecek gündelikler ekli cetveldeki miktarların %50 artırılması suretiyle hesaplanır.
+
+Bunlardan aynı süre ile sınırlı olmak kaydıyla yurtdışında yatacak yer temini için ödedikleri ücretleri fatura ile belgelendirilenlere faturada gösterilen günlük yatak ücretinin yukarıdaki şekilde artırımlı olarak hesaplanan gündeliklerinin %40’ını aşması halinde aşan kısmın %70 ‘i ayrıca ödenir. …..” denilmektedir.
+
+Bakanlar Kurulu Kararının yukarı alınan hükmü uyarınca, geçici görevle yurt dışına gidenlerin yatacak yer teminin için ödedikleri ücretin belli kısmının ödenebilmesi için ilgililerin yatacak yer teminin için ödedikleri ücretin fatura ile belgelendirilmesi gerekmektedir.
+
+Belediye meclis üyelerinin Moskova ve St. Petersburg’da yaptıkları inceleme gezisinde yatacak yer temini için organizasyonu düzenleyen firmaca düzenlenmiş fatura ibraz edilmiştir. Oysaki  yukarıda anılan mevzuat hükümleri gereği, yatacak yer temini için ödenen ücretin otel faturası ile belgelendirmesi gerekmektedir. Bu nedenle yatacak yer temini için ibraz edilen belgenin ödemeye esas fatura olarak kabulü mümkün değildir.
+
+Mahalli İdareler Harcama Belgeleri Yönetmeliğinin Üçüncü Bölümünün “Yolluklara ilişkin diğer hükümler” başlıklı 23 üncü maddesinin (b) bendinde uçakla yapılan geçici görev yolculuklarında uçak bileti veya buna ilişkin faturanın ödeme emri belgesine eklenmesi gerektiği belirtilmektedir.
+
+Mahalli İdareler Harcama Belgeleri Yönetmeliğinin yukarı alınan hükmü uyarınca, geçici görev yolculuklarının uçakla yapıldığını gösterir uçak biletlerinin ya da uçak biletine ait faturanın ödeme emri belgesine eklenmesi gerekmektedir.
+
+Açıklanan nedenlerle meclis üyelerinin Moskova ve St. Petersburg’a yaptıkları inceleme gezisine ilişkin harcırah beyannamesi düzenlemeleri ve beyannamelerine, geçici görev yolculuklarına ait uçak bileti ile geçici görev mahallinde konaklama bedeline ilişkin konaklama faturası eklemeleri gerekmektedir.
+
+Bununla birlikte, İlam’da söz konusu yurtdışı görevlendirme ile ilgili olarak tüm giderlerin kamu zararı olarak nitelendirildiği görülmüştür. Bu nedenle, söz konusu görevlendirme ile ilgili olarak adlarına ödeme yapılan kişilerin harcırah beyannamelerinin düzenlenip düzenlenmediğinin ve ayrıca gidiş geliş için alınan uçak biletlerinin ve konaklama ücretlerine ilişkin faturaların ilgili firmadan veya idareden temin edilerek kamu zararının yeniden hesaplanmasını teminen dosyanın BOZULARAK DAİRESİNE GÖNDERİLMESİNE,
+
+Karar verildiği 24.09.2013 tarihli ve 37660 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
