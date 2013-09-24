@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37661",
+  "decision_date": "2013-09-24",
+  "source_id": 7325,
+  "chamber": "4",
+  "file_number": "35699",
+  "account_year": "2008",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7325/",
+  "source_sha256": "d05ffb6870353c5b433ead741de08944e1d5b147a19b8c14afde0f443396ee8c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
