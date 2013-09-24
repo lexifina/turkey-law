@@ -1,0 +1,43 @@
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü;
+
+555 sayılı İlam’ın 5’inci maddesi ile,  Multinet Kurumsal Hizmetler Anonim Şirketine verilen, 4.058.947,20-TL ihale bedelli, 1 Öğün Öğle Yemeği Verilmesi Hizmet işinde, yemek bedelinin tamamının bütçeden karşılanması nedeniyle 1.409.580,35-TL’ye tazmin hükmü verilmiştir.
+
+Dilekçi dilekçesinde özetle, Maliye Bakanlığı Tebliği’ne göre yemek yardımından faydalanan memurlardan kesilecek para hesaplandığını ve kesilmesi gereken tutarın 211.317,39 Türk Lirası olduğunu;
+
+657 sayılı Kanun’un 212. Maddesine dayanılarak çıkarılan 86/11220 sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren Devlet Memurları Yiyecek Yardımı Yönetmeliğinin 2. maddesinde “Bu yönetmelik, 657 sayılı devlet memurları kanununa tabi memurlar hakkında uygulanır.”; 3. maddesinde “Yiyecek yardımı yemek verme şeklinde yapılır. Bu yardım karşılığında nakden ödemede bulunulmaz.”; 4. maddesinde “Yiyecek yardımının gerektirdiği giderler, yemek maliyetlerinin yarısını aşmamak üzere, bu yönetmelik kapsamına dahil memur kadrosu adedine göre kurum bütçelerine konulacak ödeneklerle karşılanır. Ödenek dağıtımı yemek servisi kurulacak kurumdaki memur sayısı dikkate alınmak suretiyle yapılır. Yemek bedelinin bütçeden karşılanamayan kısmı yemek yiyenlerden alınır. 2155 sayılı Bazı Kamu Personeline Tayin Bedeli Verilmesi Hakkında Kanun’a göre tayin bedeli verilen personel ile sözleşmeli olarak çalıştırılanların, bu Yönetmeliğe göre yiyecek yardımı yapılan yemek servislerinde yemek yemeleri halinde, yemek bedelinin tamamı kendilerinden alınır.”; 9. maddesinde “Bu Yönetmeliğin 4 üncü maddesinin uygulanmasında, kurum kadrolarında olup, yemek servisinde görevlendirilen personel giderleri, kira, amortisman, su, elektrik ve havagazı giderleri yemek maliyetine dahil edilmez.” denilmek suretiyle yemek yardımının nasıl yapılacağının belirlendiğini;
+
+Gerek yiyecek yardımı yönetmeliğinin yukarıdaki maddeleri gerekse 2155 sayılı bazı kamu personeline tayin bedeli verilmesi hakkında kanuna göre belediye bütçesine ödenek konarak yemek verme şeklinde ihale yapılmasının kanun ve yönetmelikteki amaca uygun olduğunu; 2008 yılı Bursa Büyükşehir Belediyesi bütçesine bu amaçla 3.300.000 TL ödenek konulduğunu ve 2.819.161,18TL sinin kullanılarak ödenek aşılmadığını; ayrıca ihale yapılmak suretiyle Yönetmeliğin 9. maddesindeki yemek servisinde görevlendirilecek personel giderleri, su, elektrik, doğalgaz, demirbaş yenileme gibi giderlerin kurum tarafından karşılanması gerekirken bu giderlerden de tasarruf edildiğini;
+
+İdari şartnamede işin adı zikredilirken “Belediyemiz bünyesinde görev yapan 657 sayılı Devlet Memurları kanuna tabi 1068 adet memur personele günde 1 öğün öğle yemeği verilmesi işi” ibaresinin işin içeriğini değil adının zikredilmesi için kullanıldığını; İhale içerisinde 24 saat görev yapan itfaiye personeline 1/2 öğün kahvaltı verilmesi işinin olmasına rağmen işin adında zikredilmediğini;
+
+İhale sözleşme dosyası incelendiğinde; sözleşmenin 6.maddesindeki “Bu sözleşme birim fiyat sözleşme olup, Devlet Memurları Yiyecek Yardımı Yönetmeliği 4.madde yiyecek yardımının gerektirdiği giderler yemek maliyetinin yarısını aşmamak üzere bu yönetmelik kapsamına dahil memur kadrosu adedine göre kurum bütçelerine konulacak ödeneklerle karşılanır. Ödenek dağıtımı yemek servisi kurulacak kurumdaki memur sayısı dikkate alınmak suretiyle yapılır. Yemek bedelinin bütçeden karşılanmayan kısmı yemek yiyenlerden alınır.” hükmü gereğince yemek yardımı hizmeti alımı işinin 1/2’si kurum, 1/2’si personel tarafından ödeneceğinden anılan ihalenin kurumun ödeyeceği 1/2’sini kapsamakta olduğunu ve idarece ödenecek tutarın öğün başına 14,10 TL olmak üzere 1068 memur 281.952 öğün yemek, kahvaltı 4 TL 20.856 adet kahvaltı olmak üzere 4.058.947,20TL+KDV bedel üzerinden akdedildiğini;
+
+4734 sayılı Kanun’un 7. ve Harcama Belgeleri Yönetmeliği’nin 3.maddesi (g) bendinde açıklandığı üzere ihalenin yapılması ile ilgili Başkanlık Makamının 28/09/2007 tarih ve 4517 sayılı Olurları ve 26.10.2007 tarih 5476 sayılı onay belgesi ve eki ihale dokümanları ile ihalenin usul şekil ve içeriğinin belirlendiğini ve memurlardan yemek katkı payı alınmasına dair herhangi bir hüküm bulunmadığını; (Ek:2 Başkanlık oluru ve Onay Belgesi) Belediye başkanının, ihale onay belgesini imzalamakla, ihale şekil, usul ve şartlarını da belirleyerek onayladığını ve memurlara kesinti yapılmadan ödeme yapılması tasarrufunda bulunduğunu;
+
+01.08.2010 tarih ve 27659 sayılı Resmi Gazetede yayınlanan 6009 sayılı Kanun’un Geçici 8. maddesinde “veya başka bir tasarrufta bulunarak belediye, Büyükşehir belediyesi ve il özel idaresinde çalışan kamu personeline her ne ad altında olursa olsun ek ödemede bulunmaları nedeniyle” denmek suretiyle yukarıda açıklandığı şekilde belediye başkanının onay belgesini imzalamakla tasarrufta bulunduğunu; Tasarrufta bulunmanın idare hukukunda sözlü, yazılı her türlü iş ve eylemi kapsadığını; Belediyelerde de uygulanan yemek katkı payı almadan yemek verilmesinin memurlara bir ek katkı sağlanması amacıyla verildiğini belirterek tazmin hükmünün kaldırılmasını talep etmiştir.
+
+Başsavcılık karşılama yazısında; “Dairece verilen karar incelendiğinde, ihale konusu yemek bedeli ile ilgili iddiaların daha önce de ileri sürüldüğü ve karar aşamasında dikkate alındığı görülmektedir. Bu bakımdan, ortaya konulanlar Dairece verilen kararın gerekçeleri karşısında, tazmin hükmünün bozulmasını sağlayacak nitelikte görülmediğinden, Daire kararının onaylanması uygun mütalâa olunmaktadır.” Denilmiştir.
+
+Dilekçi göndermiş olduğu ikinci dilekçesinde, ilk dilekçede ileri sürülen gerekçelere ilave olarak 6009 sayılı Kanun’un Geçici 8’inci maddesinin devamında yer alan “kamu görevlileri haklarında idari ve mali yargılama ve takibat yapılamaz, başlatılanlar işlemden kaldırılır” hükmü gereğince tazmin hükmünün kaldırılmasını talep etmiştir.
+
+Başsavcılık ikinci karşılama yazısında daire kararının onanması yönünde görüş bildirmiştir.
+
+İlamda tazmin gerekçesi Devlet Memurları Yiyecek Yardımı Yönetmeliğinin 4’üncü maddesinde yer alan; “Yiyecek yardımının gerektirdiği giderler, yemek maliyetlerinin yarısını aşmamak üzere bu yönetmelik kapsamına dahil memur kadrosu adedine göre kurum bütçelerine konacak ödeneklerle karşılanır.
+
+Ödenek dağıtımı yemek servisi kurulacak kurumdaki memur sayısı dikkate alınmak suretiyle yapılır.
+
+Yemek bedelinin bütçeden karşılanmayan kısmı yemek yiyenlerden alınır…” hükmüne dayandırılmaktadır.
+
+Söz konusu Yönetmeliğin, memurlara yemeğin kurumlarca oluşturulacak veya oluşturulmuş yemek servisleri aracılığı ile verilmesine göre düzenlendiği, Yönetmeliğin 5,6 ve 7’nci maddelerinden anlaşılmakta; servisler aracılığı ile verilen ve yemek yiyenlerden alınacağı belirtilen yemek maliyetinin nasıl belirleneceği ise anılan Yönetmeliğin 9’uncu maddesinde açıklanmaktadır.
+
+Yönetmeliğin 9’uncu maddesinde; “Yönetmeliğin 4’üncü maddesinin uygulanmasında, kurum kadrolarında olup, yemek servisinde görevlendirilen personel giderleri, kira, amortisman, su elektrik ve havagazı giderleri yemek maliyetine dahil edilmez.” hükmü yer almakta; 4734 sayılı Kamu İhale Kanununun 4’üncü maddesine göre de yemek ihtiyacının ihale yolu ile temini mümkün bulunmaktadır.
+
+Bu hükümler birlikte değerlendirildiğinde, yemek yiyenlerden alınacağı belirtilen yemek bedelinden, Yönetmeliğin 9’uncu maddesi ile yemek maliyetine dahil edilmeyecek unsurların düşülmesi, kalan tutarın yarısının yemek yiyenlerden alınması gerekir. İhale yolu ile yapılan yemek alımlarında ise bu unsurlara tekabül eden payın düşülerek, memurlarca karşılanması gereken payın tam olarak hesabı mümkün bulunmamaktadır.
+
+Bu nedenle, Yönetmeliğin 9’uncu maddesinde sayılan ve yemek maliyetlerinin büyük kısmını oluşturan kalemlerden sonra kalan maliyete karşılık, Maliye Bakanlığınca memurlardan alınacak katkı paylarına ilişkin yayımlanan tutarların, Yönetmeliğe göre alınması gereken tutarlar olduğunun kabul edilmesi gerekmektedir.
+
+Bununla birlikte, yemek hizmetine ilişkin ihaleyle gerçekleştirilmiş firmaya yapılan ödemenin 6009 sayılı Kanunun Geçici 8’inci maddesi kapsamında bir ödeme olarak değerlendirilmesi de mümkün değildir.
+
+Yukarıda açıklanan gerekçelerle, Yönetmeliğin 9’uncu maddesinde sayılan ve yemek maliyetlerinin büyük kısmını oluşturan kalemlerden sonra kalan maliyete karşılık, Maliye Bakanlığınca memurlardan alınacak katkı paylarına ilişkin yayımlanan tutarların, Yönetmeliğe göre alınması gereken tutarlar olduğunun kabulü ile tazmin miktarının bu tutara göre hesap edilmesi için 555 sayılı İlamın 5’inci maddesi ile verilen tazmin hükmünün BOZULARAK DAİRESİNE GÖNDERİLMESİNE,
+
+Karar verildiği 24.09.2013 tarihli ve 37654 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
