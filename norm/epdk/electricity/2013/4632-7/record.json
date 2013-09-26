@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4632/7",
+  "decision_date": "2013-09-26",
+  "title": "Dicle Elektrik Dağıtım Anonim Şirketi’nin; 2011-2015 ikinci uygulama dönemi dağıtım gelir gereksiniminin revize edilmesine ilişkin",
+  "resmi_gazete_date": "2013-10-08",
+  "resmi_gazete_number": "28789",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TGea18WZw7Y=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TGea18WZw7Y="
+  ],
+  "source_sha256": "fe74349fc448b8087c542d187cd9a00c863c6b7367ed3729663a2c90ce07302e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-09-26",
+  "law_text_complete": false
+}
