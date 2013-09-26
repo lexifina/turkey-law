@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4626/8",
+  "decision_date": "2013-09-26",
+  "title": "Çamlıbel Elektrik Dağıtım Anonim Şirketi 2013 yılı dağıtım gelir tavanına ilişkin",
+  "resmi_gazete_date": "2013-10-08",
+  "resmi_gazete_number": "28789",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/wGupAdZPIw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/wGupAdZPIw="
+  ],
+  "source_sha256": "6a895ab5b2f0d2a54dabf2a4e4c07df15d86379712db4a58ef56e7cdda120a38",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-09-26",
+  "law_text_complete": false
+}
