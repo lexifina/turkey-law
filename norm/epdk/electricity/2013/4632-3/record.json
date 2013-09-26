@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4632/3",
+  "decision_date": "2013-09-26",
+  "title": "İstanbul Anadolu Yakası Elektrik Dağıtım Anonim Şirketi’nin 2011-2015 ikinci uygulama dönemi dağıtım gelir gereksiniminin revize edilmesine ilişkin",
+  "resmi_gazete_date": "2013-10-08",
+  "resmi_gazete_number": "28789",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=AfqywoX4rwY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=AfqywoX4rwY="
+  ],
+  "source_sha256": "d09f7c7a58735ff3ad5ce243839012f2c30bbb4b19cc6ff091e7e808f641b4b6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-09-26",
+  "law_text_complete": false
+}
