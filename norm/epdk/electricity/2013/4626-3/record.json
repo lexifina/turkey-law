@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4626/3",
+  "decision_date": "2013-09-26",
+  "title": "Dicle Elektrik Dağıtım Anonim Şirketi 2013 yılı perakende satış hizmeti gelir tavanınına ilişkin",
+  "resmi_gazete_date": "2013-10-08",
+  "resmi_gazete_number": "28789",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=K6d+03gzfDI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=K6d+03gzfDI="
+  ],
+  "source_sha256": "cdcf1563a973ba2d93bbe65088de395d5f0ea6b7b61bbdeab3241c23ac88d406",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-09-26",
+  "law_text_complete": false
+}
