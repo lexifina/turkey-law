@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4626/4",
+  "decision_date": "2013-09-26",
+  "title": "Fırat Elektrik Dağıtım Anonim Şirketi 2013 yılı dağıtım gelir tavanına ilişkin",
+  "resmi_gazete_date": "2013-10-08",
+  "resmi_gazete_number": "28789",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9I4X+7bloPs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9I4X+7bloPs="
+  ],
+  "source_sha256": "943498d675548d5bf275010bd5370765cc7585f3e0e4ec612530199436d2a9d8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-09-26",
+  "law_text_complete": false
+}
