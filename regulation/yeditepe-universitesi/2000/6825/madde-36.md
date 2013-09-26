@@ -1,0 +1,4 @@
+Öğretim Görevlileri
+Madde 36 — Öğretim görevlileri, Üniversitede ve bağlı birimlerinde atanmış öğretim üyesi bulunmayan derslerin veya her hangi bir dersin özel bilgi ve uzmanlık isteyen konularının eğitim-öğretim ve uygulamaları için kendi uzmanlık alanlarındaki çalışma ve eserleriyle tanınmış, sözleşme veya ders saati ücreti ile görevlendirilmiş kişilerdir.
+Öğretim görevlileri, ilgili yönetim kurullarının görüşü alınarak fakültelerde dekanların, Rektörlüğe bağlı bölümlerde bölüm başkanlarının göstereceği adaylar arasından Rektörce önerilir; Yürütme Kurulu Başkanınca en çok iki yıl için atanırlar. Atandıkları süre sonunda görevleri kendiliğinden sona erer. Bu süre içinde görevlendirildikleri konuda öğretim üyesi atanmadığı takdirde yeniden atanabilirler.
+Konservatuvar ve meslek yüksekokullarında gerektiğinde sürekli olarak öğretim görevlisi atanabilir.

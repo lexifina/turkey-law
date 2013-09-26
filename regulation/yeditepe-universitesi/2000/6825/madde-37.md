@@ -1,0 +1,2 @@
+Okutmanlar
+Madde 37 — Okutmanlar, eğitim-öğretim süresince çeşitli öğretim programlarında ortak zorunlu ders olarak belirlenen dersleri okutan veya uygulayan öğretim elemanlarıdır. Okutmanlar ilgili kurumların görüşleri alınarak fakültelerde ve fakülteye bağlı birimlerde dekanın, Rektörlüğe bağlı enstitü veya yüksekokullarda müdürün göstereceği adaylar arasından Rektörce önerilir; Yürütme Kurulu Başkanınca atanır.

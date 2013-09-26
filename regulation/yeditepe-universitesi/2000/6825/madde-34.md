@@ -1,0 +1,4 @@
+Öğretim Elemanları
+Madde 34 — Üniversitenin öğretim elemanları, öğretim üyeleri, öğretim görevlileri, okutmanları ile öğretim yardımcılarıdır.
+Öğretim elemanlarının nitelikleri Devlet yükseköğretim kurumlarındaki öğretim elemanlarının nitelikleriyle aynıdır. Devlet yükseköğretim kurumlarında çalışmaları yasaklanmış veya disiplin yoluyla bu kurumlardan çıkarılmış kişiler, vakıf yükseköğretim kurumlarında görev alamazlar. Üniversite öğretim elemanlarının seçiminde, Devlet eli ile kurulan yükseköğretim kurumlarındaki öğretim elemanlarının niteliklerine ek olarak akademik ve bilimsel yönden en üst düzeyde öğretim elemanlarının sağlanması amacıyla Mütevelli Heyetince kabul edilecek diğer şartlar da aranır.
+Öğretim elemanlarının görevlerini yapmaları bölüm başkanı, enstitü ve yüksekokul müdürleri, dekan ve Rektör tarafından izlenir ve denetlenir.
