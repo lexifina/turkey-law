@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125[6-2013]-158",
+  "source_id": 21702,
+  "date": "2013-09-26",
+  "title": "Geçmiş yıl zararlarının sermaye azaltımı yoluyla mahsubunda KVK uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/21702",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "bb5d688f418414e82108255ceba1b8fe6e4ca67ccb012667644d389c517d8e9f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
