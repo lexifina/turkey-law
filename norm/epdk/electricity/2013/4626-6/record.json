@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4626/6",
+  "decision_date": "2013-09-26",
+  "title": "Çalık Yeşilırmak Elektrik Dağıtım Anonim Şirketi 2013 yılı dağıtım gelir tavanına ilişkin",
+  "resmi_gazete_date": "2013-10-08",
+  "resmi_gazete_number": "28789",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=665GVvX9xDY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=665GVvX9xDY="
+  ],
+  "source_sha256": "3941f9c565c98b36a9d617712207e52b897a168593a7b15f51fdbbcb9bd221f5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-09-26",
+  "law_text_complete": false
+}
