@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4632/13",
+  "decision_date": "2013-09-26",
+  "title": "Uludağ Elektrik Dağıtım Anonim Şirketi’nin; 2011-2015 ikinci uygulama dönemi dağıtım gelir gereksiniminin revize edilmesine ilişkin",
+  "resmi_gazete_date": "2013-10-08",
+  "resmi_gazete_number": "28789",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fHHBMKMBBjU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fHHBMKMBBjU="
+  ],
+  "source_sha256": "d3f8fef426c603e3f3371dc1b2047077f97202bec84ef049083215078625dba6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-09-26",
+  "law_text_complete": false
+}
