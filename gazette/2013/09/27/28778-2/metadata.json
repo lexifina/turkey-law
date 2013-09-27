@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-09-27",
+  "issue": "28778",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "Millî Savunma Uzmanlığı Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130927-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130927.htm",
+  "index_sha256": "3f65f4187b1db9f89ccf1140ac879a2dba9bf2638cad8036c137ab80f03a444f",
+  "index_header": "27 Eylül 2013 ... 28778 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/09/20130927.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
