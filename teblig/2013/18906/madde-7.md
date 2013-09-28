@@ -1,0 +1,5 @@
+Soruşturma konusu ürün ithalatının gelişimi
+MADDE 7 – (1) Ülkemizin ofset baskı kalıbı ithalatı, 2009 yılında 14,7 milyon metrekare, 2010 yılında 18,2 milyon metrekare, 2011 yılında 19,5 milyon metrekare, 2012 yılı itibariyle ise 19,3 milyon metrekare olarak gerçekleşmiştir.
+(2) Soruşturma konusu üründe 2008 yılı ve öncesinde Malezya’dan hiç ithalat bulunmazken, 2009-2011 yılları arasını kapsayan 3 yıllık dönemde toplam ithalat içinde Malezya’dan yapılan ithalatın payı sırasıyla %10, %9,8 ve %10 oranında gerçekleşmiştir. Bu oran 2012 yılında ise %16,7’ye yükselmiştir.
+(3) Öte yandan soruşturma konusu ürünün toplam ithalatı içinde ÇHC’den yapılan ithalatın payı 2007 yılında %32,1, 2008 yılında ise %31,9 iken, 2008 yılından sonra çok keskin bir düşüş göstererek 2009-2012 dönemindeki dört yıllık süre boyunca %0 olarak gerçekleştirmiştir.
+(4) Söz konusu ofset baskı kalıplarının ticaretinde gözlemlenen bu önemli değişim, 2008 yılının sonunda damping önleminin yürürlüğe konulmasını müteakiben gerçekleşmiştir.
