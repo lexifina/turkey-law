@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.29-1617",
+  "source_id": 33297,
+  "date": "2013-09-30",
+  "title": "Son kullanma tarihi geçmiş olan ürünlerin takdir komisyonu kararı olmaksızın imha edilmesi halinde gider kaydı ve belge düzeni.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33297",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "ebc10a3fe4c5d1a764c6e03e68d4ac35b7000e1301fe81f26ae4321cfdf3c00f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
