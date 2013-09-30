@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120[94-13/14]-1083",
+  "source_id": 23260,
+  "date": "2013-09-30",
+  "title": "İcra müdürlüğüne yatırılan vekalet ücretinin davayı kazanan tarafından tahsil edilerek sözleşmeli avukata ödenmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23260",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "11213284435a9113d114900abf44cc42a12e82b561019c2b3cb1b4f7c7910653",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
