@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2013/DK-ETD/534",
+  "date": "2013-10-01",
+  "title": "BTK Kurul Kararı 2013/DK-ETD/534",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2013-10-01",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=130",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/f3969a36-1a3d-4ffe-a25d-a361154fb20a.pdf",
+  "source_sha256": "2b7d9e1d47325bd01a440854ab497b8d5f9adb0cda26a34ebfc7f3631e7909fd",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official link only",
+  "in_force": "2013-10-01",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 01.10.2013; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
