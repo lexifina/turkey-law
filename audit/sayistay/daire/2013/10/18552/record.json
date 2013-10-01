@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10264",
+  "decision_date": "2013-10-01",
+  "source_id": 18552,
+  "chamber": "1",
+  "ilam_number": "146",
+  "item_number": 9,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18552/",
+  "source_sha256": "aaabd5091a6f48563e4bfafc6188e1e550b59e36a23414ed29ff72b02493e749",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
