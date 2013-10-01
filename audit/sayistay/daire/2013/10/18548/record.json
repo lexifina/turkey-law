@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10264",
+  "decision_date": "2013-10-01",
+  "source_id": 18548,
+  "chamber": "1",
+  "ilam_number": "146",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18548/",
+  "source_sha256": "e655239c5e039c38a845fa2bf7a1b357232a916b2d68e7c491584f6707fdc8d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
