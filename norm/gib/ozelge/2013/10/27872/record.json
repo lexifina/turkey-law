@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "75497510-125[5-2013-18]-62",
+  "source_id": 27872,
+  "date": "2013-10-01",
+  "title": "Satın alınarak tapuda tescil edilen ancak aktife daha sonra kaydedilen taşınmazın satışından doğan kazancın kurumlar vergisinden istisna edilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27872",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7addd8c9213d74222640d45de2a1eee8585509dec0f68768ff142271b5070386",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
