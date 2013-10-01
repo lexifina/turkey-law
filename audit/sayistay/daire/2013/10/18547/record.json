@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10264",
+  "decision_date": "2013-10-01",
+  "source_id": 18547,
+  "chamber": "1",
+  "ilam_number": "146",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18547/",
+  "source_sha256": "0966dd1c943c57fd90062ac92d958fec339c8435cbe4ce996868397acc39d5e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
