@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37694",
+  "decision_date": "2013-10-01",
+  "source_id": 7286,
+  "chamber": "2",
+  "file_number": "36876",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7286/",
+  "source_sha256": "bec02756229a6054ff1e2c90071ce3be5c5d20d2a90afdd9ebebde7d7c829eb4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
