@@ -1,8 +1,9 @@
 Denetim faaliyetinin durdurulması ve izin belgesinin iptali
 Madde 8 – Yapı denetim kuruluşlarından, bu Kanunda öngörülen esaslara göre denetim görevini yerine getirmedikleri anlaşılanların veya son üç yıl içerisinde üç defa olumsuz sicil alanların veyahut 3 üncü maddenin son fıkrası ile 6 ncı maddenin birinci fıkrası hükümlerine aykırı hareket ettiği belirlenenlerin denetim faaliyeti, yapı denetim komisyonunun teklifi üzerine Bakanlıkça bir yıla kadar durdurulur ve belgesi geçici olarak geri alınır. Durdurma kararı, Resmî Gazetede ilan edilir ve sicillerine işlenir. Denetim faaliyetinin geçici olarak durdurulmasına neden olan yapı denetim kuruluşunun mimar ve mühendisleri, bu süre içerisinde başka ad altında dahi olsa hiçbir denetim faaliyetinde bulunamaz. Geçici durdurmaya neden olan mimar ve mühendisler Bakanlıkça ilgili meslek odasına bildirilir. Meslek odaları, bu kişiler hakkında kendi mevzuatına göre işlem yapar.
 _________
-(1) 11/10/2011 tarihli ve 662 sayılı KHK’nin 16 ncı maddesiyle, bu fıkrada yer alan “% 1’i” ibareleri “% 3’ü” olarak değiştirilmiştir.
-(2) 11/10/2011 tarihli ve 662 sayılı KHK’nin 16 ncı maddesiyle, bu fıkrada yer alan “üç” ibaresi “altı” olarak değiştirilmiştir.
+(1) Bu fıkra hükmü, Anayasa Mahkemesi’nin 29/1/2012 tarihli ve E.: 2011/106, K.: 2012/192 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 2/4/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
+(2) 11/10/2011 tarihli ve 662 sayılı KHK’nin 16 ncı maddesiyle, bu fıkrada yer alan “% 1’i” ibareleri “% 3’ü” olarak değiştirilmiştir.
+(3) 11/10/2011 tarihli ve 662 sayılı KHK’nin 16 ncı maddesiyle, bu fıkrada yer alan “üç” ibaresi “altı” olarak değiştirilmiştir.
 8047
 Faaliyeti üç defa durdurulan yapı denetim kuruluşunun denetim faaliyetine son verilir ve izin belgesi Bakanlıkça iptal edilir.
 İzin belgesi iptal edilen yapı denetim kuruluşunun, kusurları mahkeme kararı ile kesinleşen mimar ve mühendisleri başka bir yapı denetim kuruluşunda görev almaları halinde, görev aldıkları bu kuruluşa izin belgesi verilmez, verilmişse iptal edilir.
