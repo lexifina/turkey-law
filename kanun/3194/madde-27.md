@@ -1,4 +1,4 @@
-Köylerde yapılacak yapılar ve uyulacak esaslar (1)
+Köylerde yapılacak yapılar ve uyulacak esaslar (1)(2)
 Madde 27 –(Değişik: 8/8/2011- KHK-648/22 md.)
 Belediye ve mücavir alanlar dışında köylerin köy yerleşik alanlarında, civarında ve mezralarda yapılacak konut, entegre tesis niteliğinde olmayan ve imar planı gerektirmeyen tarım ve hayvancılık amaçlı yapılar ile köyde oturanların ihtiyaçlarını karşılayacak bakkal, manav, berber, köy fırını, köy kahvesi, köy lokantası, tanıtım ve teşhir büfeleri ve köy halkı tarafından kurulan ve işletilen kooperatiflerin işletme binası gibi yapılar için yapı ruhsatı aranmaz. Ancak etüt ve projelerinin valilikçe incelenmesi, muhtarlıktan yazılı izin alınması ve bu yapıların yöresel doku ve mimari özelliklere, fen, sanat ve sağlık kurallarına uygun olması zorunludur. Etüt ve projelerin sorumluluğu müellifi olan mimar ve mühendislere aittir. Bu yapılar valilikçe ulusal adres bilgi sistemine ve kadastro planlarına işlenir. Köy yerleşik alan sınırları dışında kalan ve entegre tesis niteliğinde olmayan ve imar planı gerektirmeyen tarım ve hayvancılık amaçlı yapıların yapı ruhsatı alınarak inşa edilmesi zorunludur. Tarım ve hayvancılık amaçlı yapıların denetimine yönelik fenni mesuliyet 28 inci madde hükümlerine göre mimar ve mühendislerce üstlenilir.
 Onaylı üst kademe planlarda aksine hüküm bulunmadığı hallerde köy yerleşik alan sınırları içinde, jeolojik açıdan üzerinde yapı yapılmasında sakınca bulunan alanlar ile köyün ana yolları ve genişlikleri, hâlihazır harita veya kadastro paftaları üzerinde il özel idarelerince belirlenir. Belirlenen yollar, ifraz ve tevhit suretiyle uygulama imar planı kararı aranmaksızın kamu yararı kararı alınarak oluşturulur.
@@ -9,5 +9,6 @@ Köy yerleşik alan sınırlarının parselleri bölmesi durumunda yerleşik ala
 Bu maddenin uygulanmasına ilişkin hususlar Bakanlıkça hazırlanan yönetmelikle belirlenir.
 ____________________
 (1) Bu madde başlığı “Ruhsata tabi olmayan yapılar ve uyacakları esaslar” iken, 8/8/2011 tarihli ve 648 sayılı KHK’nın 22 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-6689
+(2) Bu madde, Anayasa Mahkemesi’nin 29/1/2012 tarihli ve E.: 2011/106, K.: 2012/192 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 2/4/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
+6688-2 6689
 Müelliflik, fenni mesuliyet, şantiye şefliği, yapı müteahhitliği ve kayıtlar: (1)
