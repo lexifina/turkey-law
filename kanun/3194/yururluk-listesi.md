@@ -21,3 +21,4 @@ KHK/572 | — | 6/6/1997
 Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 3194 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 KHK/648 | 8, 27, Ek Madde 4, | 17/8/2011
 6306 | Ek Madde 5, Geçici Madde 14 | 31/5/2012
+Anayasa Mahkemesi’nin 29/1/2012 tarihli ve E.: 2011/106, K.: 2012/192 sayılı Kararı | 8, 27, Ek Madde 4 | 2/4/2013 tarihinden başlayarak altı ay sonra (2/10/2013)
