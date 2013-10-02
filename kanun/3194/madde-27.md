@@ -10,5 +10,5 @@ Bu maddenin uygulanmasına ilişkin hususlar Bakanlıkça hazırlanan yönetmeli
 ____________________
 (1) Bu madde başlığı “Ruhsata tabi olmayan yapılar ve uyacakları esaslar” iken, 8/8/2011 tarihli ve 648 sayılı KHK’nın 22 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 (2) Bu madde, Anayasa Mahkemesi’nin 29/1/2012 tarihli ve E.: 2011/106, K.: 2012/192 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 2/4/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
-6688-2 6689
+6689
 Müelliflik, fenni mesuliyet, şantiye şefliği, yapı müteahhitliği ve kayıtlar: (1)

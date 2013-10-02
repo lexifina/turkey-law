@@ -6,6 +6,5 @@ Ruhsata aykırılık olan yapıda, bu aykırılığın giderilmiş olduğu veya 
 (1) Bu aradaki "... veya yeminli serbest mimarlık veya mühendislik ..." ibaresi; Anayasa Mahkemesinin 11/12/1986 tarih ve E. 1985/11, K. 1986/29 sayılı kararı ile iptal edilmiştir.
 (2) Bu aradaki "... veya yeminli serbest mimarlık ve mühendislik büroları ..." ibaresi ile bu fıkranın sonunda bulunan "... Ancak müracaat yeminli serbest mimarlık ve mühendislik bürosuna yapılmış ise bu hüküm uygulanmaz. Yeminli büro, müracaatı bu süre içerisinde müsbet veya menfi mutlaka sonuçlandırmak zorundadır ..." biçimindeki son iki cümle, Anayasa Mahkemesinin 11/12/1986 tarih ve E. 1985/11, K. 1986/29 sayılı kararı ile iptal edilmiştir.
 (3) Bu aradaki "... veya yeminli serbest mimarlık ve mühendislik bürosunca .." ibaresi; Anayasa Mahkemesinin (1) nolu dipnotda yazılı Kararı ile iptal edilmiştir.
-6690-2
 6691
 Aksi takdirde, ruhsat iptal edilir, ruhsata aykırı veya ruhsatsız yapılan bina, belediye encümeni veya il idare kurulu kararını müteakip, belediye veya valilikçe yıktırılır ve masrafı yapı sahibinden tahsil edilir.
