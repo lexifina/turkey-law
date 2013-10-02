@@ -1,7 +1,7 @@
 Tanımlar:
 Madde 5 – Bu Kanunda geçen terimlerden bazıları aşağıda tanımlanmıştır. Nazım İmar Planı; varsa bölge veya çevre düzeni planlarına uygun olarak halihazır haritalar üzerine, yine varsa kadastral durumu işlenmiş olarak çizilen ve arazi parçalarının; genel kullanış biçimlerini, başlıca bölge tiplerini, bölgelerin gelecekteki nüfus yoğunluklarını, gerektiğinde yapı yoğunluğunu, çeşitli yerleşme alanlarının gelişme yön ve büyüklükleri ile ilkelerini, ulaşım sistemlerini ve problemlerinin çözümü gibi hususları göstermek ve uygulama imar planlarının hazırlanmasına esas olmak üzere düzenlenen, detaylı bir raporla açıklanan ve raporuyla beraber bütün olan plandır.
 Uygulama İmar Planı; tasdikli halihazır haritalar üzerine varsa kadastral durumu işlenmiş olarak nazım imar planı esaslarına göre çizilen ve çeşitli bölgelerin yapı adalarını, bunların yoğunluk ve düzenini, yolları ve uygulama için gerekli imar uygulama programlarına esas olacak
-_____________________
+____________
 (1)Bu Kanunda, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu hükümlerine aykırılık bulunması durumunda, 5302 sayılı Kanun hükümlerinin uygulanacağı, söz konusu Kanunun 70 inci maddesi ile hüküm altına alınmıştır.
 6680
 uygulama etaplarını ve diğer bilgileri ayrıntıları ile gösteren plandır.

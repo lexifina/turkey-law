@@ -4,7 +4,6 @@ Bu suretle maledilen arazi ve arsalar belediye veya özel idare tarafından sat�
 Bu yerlerin kullanılış şekli, yeni bir imar planıyla değiştirilip özel mülkiyete konu olabilecek hale getirildiği takdirde, bu yerler devir alınan idareye belediye veya özel idarece aynı usulle iade edilir. Buna aykırı davranışı sabit olan ilgililer şahsen sorumludur. Bu terkinler hiçbir şekilde resim, harç ve vergiye tabi değildir.
 (Değişik : 25/2/1998 - 4342/35 md.) Hazırlanan imar planı sınırları içindeki kadastral yollar ile meydanlar, imar planının onayı ile bu vasıflarını kendiliğinden kaybederek, onaylanmış imar planı kararı ile getirilen kullanma amacına konu ve tabi olurlar.
 ________________
-_______________
 (1) Bu fıkrada yer alan "… imar mevzuatındaki kısıtlamalara tâbi olmaksızın…" ibaresi, Anayasa Mahkemesi’nin 5/1/2006 tarihli ve E. :2005/98, K. :2006/3 sayılı Kararı ile iptal edilmiştir.
 6683
 (Ek fıkra: 24/7/2008-5793/14 md.) Hazinenin özel mülkiyetinde veya Devletin hüküm ve tasarrufu altında bulunan ve ağaçlandırılmak üzere izin verilen taşınmazlardan projesine uygun olarak ağaçlandırılanlar, imar planı kararıyla başka amaca ayrılamaz.

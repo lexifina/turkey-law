@@ -4,8 +4,7 @@ Madde 9 – Bakanlık gerekli görülen hallerde, kamu yapıları ve enerji tesi
 ——————————
 (1) Bu maddenin birinci fıkrasının (b) bendinin dördüncü cümlesi ile ikinci fıkrasının üçüncü cümlesi, Anayasa Mahkemesi’nin 29/1/2012 tarihli ve E.: 2011/106, K.: 2012/192 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 2/4/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
 (2) 9/7/2008 tarihli ve 5784 sayılı Kanunun 24 üncü maddesiyle; bu maddenin birinci fıkrasında yer alan “ile ilgili” ibaresi “ve enerji tesisleriyle ilgili alt yapı, üst yapı ve iletim hatlarına ilişkin” şeklinde değiştirilmiş ve metne işlenmiştir.
-(3) Parantez içi hüküm; 3/4/1997 tarih ve 4232 sayılı Kanunun 4 üncü maddesi ile metne işlendiği şekilde değiştirilmiştir.
-6682
+(3) Parantez içi hüküm; 3/4/1997 tarih ve 4232 sayılı Kanunun 4 üncü maddesi ile metne işlendiği şekilde değiştirilmiştir. 6682
 Özelleştirme Yüksek Kurulunca onaylanmak suretiyle yürürlüğe girer ve ilgili Belediyeler bu arsa ve arazilerin imar fonksiyonlarını 5 yıl değiştiremezler. (Ek ibare : 3/4/1997 - 4232/4 md.) ilgili belediyeler görüşlerini onbeş gün içinde bildirir.
 Bir kamu hizmetinin görülmesi maksadı ile resmi bina ve tesisler için imar planlarında yer ayrılması veya bu amaçla değişiklik yapılması gerektiği takdirde, Bakanlık, valilik kanalı ile ilgili belediyeye talimat verebilir veya gerekirse imar planının resmi bina ve tesislerle ilgili kısmını re'sen yapar ve onaylar.
 Bakanlık birden fazla belediyeyi ilgilendiren imar planlarının hazırlanmasında, kabul ve onaylanması safhasında ortaya çıkabilecek ihtilafları halleder, gerektiğinde re'sen onaylar.
