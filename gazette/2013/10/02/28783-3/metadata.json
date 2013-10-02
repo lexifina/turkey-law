@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-10-02",
+  "issue": "28783",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Elektrik Piyasasında Lisanssız Elektrik Üretimine İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131002-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131002.htm",
+  "index_sha256": "67ea8c658e151994fdc8f22a7d4335dacecbc54abe8aa13289189a56bbd0f6ba",
+  "index_header": "2 Ekim 2013 ... 28783 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131002.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
