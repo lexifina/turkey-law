@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 24,
+  "legislative_year": 4,
+  "esas_no": "7/32455",
+  "submitted": "2013-10-02",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ensar ÖĞÜT",
+  "province": "Ardahan",
+  "summary": "Ardahan Üniversitesinde verilen eğitimin niteliğine ve Üniversiteye personel alımı için bütçeye ödenek konulmasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bf-67e8-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "b97b57f04da4b7cf9a9a6ca1b5f3b0c6ed9945b0a1674dbddd025bfb3f5ea2df",
+  "in_force": "2013-10-02",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
