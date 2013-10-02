@@ -1,10 +1,10 @@
 Tanımlar:
 Madde 5 – Bu Kanunda geçen terimlerden bazıları aşağıda tanımlanmıştır. Nazım İmar Planı; varsa bölge veya çevre düzeni planlarına uygun olarak halihazır haritalar üzerine, yine varsa kadastral durumu işlenmiş olarak çizilen ve arazi parçalarının; genel kullanış biçimlerini, başlıca bölge tiplerini, bölgelerin gelecekteki nüfus yoğunluklarını, gerektiğinde yapı yoğunluğunu, çeşitli yerleşme alanlarının gelişme yön ve büyüklükleri ile ilkelerini, ulaşım sistemlerini ve problemlerinin çözümü gibi hususları göstermek ve uygulama imar planlarının hazırlanmasına esas olmak üzere düzenlenen, detaylı bir raporla açıklanan ve raporuyla beraber bütün olan plandır.
-Uygulama İmar Planı; tasdikli halihazır haritalar üzerine varsa kadastral durumu işlenmiş olarak nazım imar planı esaslarına göre çizilen ve çeşitli bölgelerin yapı adalarını, bunların yoğunluk ve düzenini, yolları ve uygulama için gerekli imar uygulama programlarına esas olacak
-____________
-(1)Bu Kanunda, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu hükümlerine aykırılık bulunması durumunda, 5302 sayılı Kanun hükümlerinin uygulanacağı, söz konusu Kanunun 70 inci maddesi ile hüküm altına alınmıştır.
+_____________________
+(1) Bu Kanunda, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu hükümlerine aykırılık bulunması durumunda, 5302 sayılı Kanun hükümlerinin uygulanacağı, söz konusu Kanunun 70 inci maddesi ile hüküm altına alınmıştır.
+(2) 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunun 84 üncü maddesiyle; bu Kanunda belediyenin sorumlu ve yetkili kılındığı görev ve hizmetlerle sınırlı olarak, 5393 sayılı Belediye Kanunu hükümlerine aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı hüküm altına alınmıştır.
 6680
-uygulama etaplarını ve diğer bilgileri ayrıntıları ile gösteren plandır.
+Uygulama İmar Planı; tasdikli halihazır haritalar üzerine varsa kadastral durumu işlenmiş olarak nazım imar planı esaslarına göre çizilen ve çeşitli bölgelerin yapı adalarını, bunların yoğunluk ve düzenini, yolları ve uygulama için gerekli imar uygulama programlarına esas olacak uygulama etaplarını ve diğer bilgileri ayrıntıları ile gösteren plandır.
 Yerleşme Alanı; imar planı sınırı içindeki yerleşik ve gelişme alanlarının tümüdür.
 İmar Adası; imar planındaki esaslara göre meydana gelen adadır.
 İmar Parseli; İmar adaları içerisindeki kadastro parsellerinin İmar Kanunu, İmar Planı ve yönetmelik esaslarına göre düzenlenmiş şeklidir.

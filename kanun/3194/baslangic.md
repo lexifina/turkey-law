@@ -1,4 +1,4 @@
-İMAR KANUNU (1)
+İMAR KANUNU (1)(2)
 Kanun Numarası : 3194
 Kabul Tarihi : 3/5/1985
 Yayımlandığı R. Gazete : Tarih : 9/5/1985 Sayı : 18749
