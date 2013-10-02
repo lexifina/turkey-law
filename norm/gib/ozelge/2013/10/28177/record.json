@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.54.15.01-125[9-2013-10]-40",
+  "source_id": 28177,
+  "date": "2013-10-02",
+  "title": "İlaç üretimi yapan şirketin başka bir ilaç üreten firmayla birleşerek geçmiş yıl zararlarını indirim konusu yaparken 5 yıl dolmadan yine başka bir ilaç firmasıyla birleşmesi halinde indirim konusu yapılan zararlar ile ilgili cezai durumlar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28177",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7443dffb28e3e170fdd36013fd39d91786b57168dde8fafd0a2bebc95d0de3a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
