@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2013/56",
+  "meeting_date": "2013-10-03",
+  "meeting_date_as_published": "3.10.2013",
+  "decision_no": "66",
+  "source_id": 2173,
+  "title": "RTÜK kararı 2013/56-66",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/2173",
+  "source_sha256": "d7fef96c3003de6ef422ce907d3c99678ee6f2d436d0d0f4f30249a27f3d81f2",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (6 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
