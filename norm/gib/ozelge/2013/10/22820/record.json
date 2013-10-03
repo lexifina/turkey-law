@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-120[40.01.19]-98",
+  "source_id": 22820,
+  "date": "2013-10-03",
+  "title": "Eski boyahanenin modernizasyonu işinin bir sonraki yıla sarkması ancak faturanın geçmiş yılda düzenlenmiş olması halinde elde edilen kazancın hangi yıl geliri sayılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22820",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "4489a730e04334ca18b3f6653c2aee03c05c94c4bfe5a8e102adb7ff5ca6acaf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
