@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70903105-180[29/01-10]-97466",
+  "source_id": 36848,
+  "date": "2013-10-03",
+  "title": "Kentsel dönüşüm projesi kapsamında kullandırılan kredilerde BSMV ve KKDF uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36848",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "8510c9f79dcf9ff5494716a6f6ab1087714871e1b3f382fad874e2f2fd06fcd2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
