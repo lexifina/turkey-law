@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4640",
+  "decision_date": "2013-10-03",
+  "title": "2014 yılında uygulanacak iletim ek ücretine ilişkin",
+  "resmi_gazete_date": "2013-10-22",
+  "resmi_gazete_number": "28799",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/q0RR1ydhmU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/q0RR1ydhmU="
+  ],
+  "source_sha256": "2ebc2b7474e4f25d2ec2b4c71815998230c86d7295f92f5f81e09c9eda74d58d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-10-03",
+  "law_text_complete": false
+}
