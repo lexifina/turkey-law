@@ -1,0 +1,24 @@
+{
+  "number": "171",
+  "number_as_published": "171",
+  "year": 2013,
+  "title": "171 PERFORMANS 04.10.2013",
+  "decision_date": "2013-10-04",
+  "source": "https://www.karatay.bel.tr/meclis-gundemi-ve-kararlari",
+  "official_document": "https://www.karatay.bel.tr/uploads/7a61fdc59de17cf0.doc",
+  "source_sha256": "93dcc04885b7dce2d8b38b85ffa7acb8894c5b25a59b4b651e9cc9dc73e00992",
+  "issuer": "Karatay Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2013-10-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.10.2013 (decision date in the official file name; list Tarih 2013-10-04); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "file_name_as_listed": "171 PERFORMANS 04.10.2013",
+  "list_date": "2013-10-04",
+  "record_scope": "one council decision"
+}
