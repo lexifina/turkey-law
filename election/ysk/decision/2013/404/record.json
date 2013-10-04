@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2013/404",
+  "list_number": "404",
+  "decision_date": "2013-10-04",
+  "title": "30 Mart 2014 tarihinde yapılacak olan Mahalli İdareler Genel Seçimlerinde aday olmak isteyen Odalar ve Ticaret borsaları ile Türkiye Odalar ve Borsalar Birliğinin organlarında görev alanların hangilerinin görevlerinden ayrılma isteğinde bulunmaları gerektiğine ilişkin Yüksek Seçim Kurulu kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2588/2013-404.pdf",
+  "source_sha256": "80448c7a51673c5610d869122136c7229a20d37c93f24fbfd060c1df2caa01d4",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-10-04",
+  "law_text_complete": false
+}
