@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2013/415",
+  "list_number": "415",
+  "decision_date": "2013-10-05",
+  "title": "4721 sayılı Türk Medeni Kanunu'nun 405., 406., 407. ve 408. maddeleri uyarınca mahkemeler tarafından verilen kısıtlama kararlarının SEÇSİS'e işlenmesinde karşılaşılan tereddütlerin giderilmesine ilişkin Yüksek Seçim Kurulu kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2584/2013-415.pdf",
+  "source_sha256": "89e0d63cb76bc5bf3e35c32e31a654b619424092e4b3ae4f8ddcc1b9166d3587",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 8,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-10-05",
+  "law_text_complete": false
+}
