@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Soruşturma Konusu Ürün ve Benzer Ürün
+Soruşturma konusu ürün ve benzer ürün
+MADDE 7 – (1) Soruşturma konusu ürün, 9105.21.00.00.00 Gümrük Tarife İstatistik Pozisyonu (GTİP) altında yer alan “elektrikle çalışan duvar saatleri”dir.
+(2) Elektrikle çalışan duvar saatleri çerçeve, kadran ve akrep-yelkovan-saniyenin elektronik devrelerden oluşan bir makine ile montajından elde edilmektedir. Pil ile çalışan söz konusu ürünün farklı tasarım versiyonları da bulunmaktadır. Ürün mesken, işyeri ve okullarda kullanılabilmektedir.
+(3) YÜD tarafından üretilen ürün ile soruşturma konusu ülke menşeli elektrikle çalışan duvar saatlerinin benzer ürünler olduğu tespiti esas soruşturmada yapılmıştır. Bu soruşturmada ise, gerek YÜD tarafından gerekse soruşturma konusu ülkede üretilen elektrikle çalışan duvar saatlerinin işlevsel özellikleri, fiziksel özellikleri, kullanım alanları, dağıtım kanalları, kullanıcıların ürünü algılaması ve ürünlerin birbirini ikame edebilmeleri açısından iki ürünün benzer ürün olma durumunu ortadan kaldıracak bir değişiklik olduğuna dair bir tespitte bulunulmamıştır.
+(4) Diğer taraftan, soruşturma konusu ürün ile ilgili açıklamalar genel içerikli olup, uygulamaya esas olan GTİP ve karşılığı eşya tanımıdır. Bununla beraber, soruşturma konusu eşyanın Türk Gümrük Tarife Cetvelinde yer alan tarife pozisyonunda ve/veya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına halel getirmez.

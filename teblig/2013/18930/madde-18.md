@@ -1,0 +1,3 @@
+Esas soruşturmada tespit edilen damping marjı
+MADDE 18 – (1) Soruşturma konusu üründeki mevcut dampinge karşı önlemin hukuki ve idari altyapısını teşkil eden esas damping soruşturması çerçevesinde ilgili taraflardan elde edilen bilgi ve belgeler temelinde tespit edilen damping marjı incelenmiştir. Esas soruşturmada tespit edilen damping marjı, önlemin uygulanmadığı ortamda ihracatçı firmaların davranışlarını ve yapmaları muhtemel olan dampingi göstermesi açısından önem taşımaktadır.
+(2) Buna göre, esas soruşturmada tespit edilen damping marjı CIF ihraç fiyatının %180’i (2,1 ABD Doları/adet) olarak hesaplanmıştır.

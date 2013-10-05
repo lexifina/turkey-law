@@ -1,0 +1,4 @@
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Üçüncü ülkelerden ithalat ve diğer hususlar
+MADDE 21 – (1) Soruşturma konusu üründe ÇHC haricindeki diğer ülkelerden yapılan ithalatın genel ithalat içindeki payının, İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2007/17) ile önlemin son olarak yürürlüğe girdiği 2007’de % 66 iken, 2009’da %46, 2010’da %21 ve 2011’de %11 seviyesine gerilediği görülmektedir. Bununla birlikte, üçüncü ülkelerden gerçekleşen ithalatın azalma nedeninin, ÇHC’den gelen düşük ortalama birim fiyatlı ithalat ile ÇHC’nin söz konusu ürüne ilişkin mevcut üretim ve ihracat potansiyelinin olması olarak değerlendirilmektedir. Bu durumun, soruşturma konusu önlemin yürürlükten kaldırılması halinde dampingin ve zararın tekrar meydana gelebileceğine ilişkin bu Tebliğdeki tespitleri destekleyici nitelikte olduğu görülmektedir.

@@ -1,0 +1,5 @@
+Talebi etkileyen unsurlar
+MADDE 19 – (1) İthalatçı soru formuna verilen cevaplarda ithal ürünün dekoratif amaçlı kullanım özelliğinin ön plana çıktığı, kalitenin ise bir diğer unsur olarak ithal ürün tercihini öne çıkardığı belirtilmiştir.
+(2) YÜD, geniş ürün yelpazesi ile kendi ürünlerinin dekoratif amaçlı kullanımının yaygın olduğunu, mevcut önlemin etkisi ile YÜD ürünlerinin ÇHC’li üreticiler tarafından takip edilmeye başlandığını belirtmiştir. YÜD, ürünlerinin ithal benzer ürüne göre sağlık koşullarına uygun ve daha kaliteli malzemelerden üretildiğini dile getirmiştir.
+(3) Önlem konusu ürünün talebini etkileyen başlıca unsurlar fiyat ve kalite olmakla beraber fiyat unsurunun ön plana çıkmakta olduğu anlaşılmaktadır. Bu durumda, duvar saatlerinin birçok yerde ve aynı zamanda promosyon ürünü olarak kullanılabilmesinin önemli bir etken olduğu değerlendirilmektedir.
+(4) Önlemin yürürlükten kalkması durumunda ciddi üretim ve ihracat kapasitesi bulunan ve düşük ihraç fiyatlarına sahip olan ÇHC’ye talebin kayması ile bu ülkeden ürün ithalatının artmasının muhtemel olduğu değerlendirilmektedir.
