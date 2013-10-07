@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "8",
+  "decision_date": "2013-10-07",
+  "source_id": 7368,
+  "chamber": "7",
+  "ilam_number": "20",
+  "item_number": 1,
+  "account_year": 2012,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7368/",
+  "source_sha256": "4dead6803e9afef8b304e7f4a19ebb8497f9718fe3f1fc142f55d46b4bd834d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
