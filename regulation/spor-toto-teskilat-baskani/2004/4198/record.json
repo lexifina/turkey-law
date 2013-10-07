@@ -1,0 +1,88 @@
+{
+  "source_id": "7.5.4198",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SPOR TOTO TEŞKİLAT BAŞKANLIĞI REKLAM YÖNETMELİĞİ",
+  "number": "4198",
+  "issuer": "Spor Toto Teşkilat Başkanı",
+  "issuer_slug": "spor-toto-teskilat-baskani",
+  "path": "regulation/spor-toto-teskilat-baskani/2004/4198",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4198&MevzuatTertip=5",
+  "source_sha256": "bfbe490711403922d8dd785d0c8a9c407c81106249a2a780af4abebb3f7b2c6d",
+  "source_bytes": 56579,
+  "published": "2004-05-28",
+  "gazette": "25475",
+  "in_force": "2013-10-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/10/2013\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2013-10-07",
+      "RG-7/10/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-10-07",
+      "7/10/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-01-24",
+      "RG-24/1/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-01-24",
+      "24/1/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2007-06-09",
+      "RG-09/06/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-06-09",
+      "9/6/2007",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2007-03-17",
+      "RG-17/03/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-03-17",
+      "17/3/2007",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2007-01-09",
+      "RG-9/1/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-01-09",
+      "9/1/2007",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2006-05-10",
+      "10/5/2006",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 735,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
