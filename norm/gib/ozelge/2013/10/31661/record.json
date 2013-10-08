@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "30094508-130[17-2013/2.9]-36",
+  "source_id": 31661,
+  "date": "2013-10-08",
+  "title": "Taşınmaz satışında KDV istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31661",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "6984739b7e1ae2d994b71480874cf2f8796ff10f7f598a40e0f07e0ef584f329",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
