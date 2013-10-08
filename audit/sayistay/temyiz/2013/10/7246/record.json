@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37736",
+  "decision_date": "2013-10-08",
+  "source_id": 7246,
+  "chamber": "1",
+  "file_number": "36075",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7246/",
+  "source_sha256": "59ed9f999c7e8657168035c4e1a751cb6fe6ffd18ec172cccd1e9423dd969b4b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
