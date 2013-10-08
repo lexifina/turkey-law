@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-10-08",
+  "issue": "28789",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI SÖZLEŞME",
+  "title": "2013/5356 187 Sayılı İş Sağlığı ve Güvenliğini Geliştirme Çerçeve Sözleşmesi'ne Katılmamız Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131008-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131008.htm",
+  "index_sha256": "42a02f7c433b4ec2c2b4c98a70e01d5e726668f68ce12605e0391bea6908c3a3",
+  "index_header": "8 Ekim 2013 ... 28789 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131008.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
