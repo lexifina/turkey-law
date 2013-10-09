@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-10-09",
+  "issue": "28790",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Girişim Sermayesi Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.3)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131009-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131009.htm",
+  "index_sha256": "f293d0b46e49e459d16c3c3f3c33562f912585f90df7b5427e5556326ab444aa",
+  "index_header": "9 Ekim 2013 ... 28790 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131009.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
