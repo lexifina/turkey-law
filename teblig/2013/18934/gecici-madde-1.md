@@ -1,0 +1,4 @@
+Proje kaydı
+GEÇİCİ MADDE 1 – (1) Proje sahipleri, bu Tebliğin yayımlandığı tarihten önce gönüllü karbon standart kuruluşları tarafından sertifikalandırma işlemi tamamlanmış tüm projelerini Ek-3’te yer alan proje künyesi ve 6 ncı maddenin ikinci fıkrasında yer alan belgeler ile 31/12/2013 tarihine kadar Bakanlığa kayıt için iletmekle yükümlüdür.
+(2) Gönüllü karbon standart kuruluşları Türkiye’de geliştirilen ve kendilerinin kayıt ettikleri ve/veya sertifikalandırdıkları tüm projeler ile ilgili bilgileri, 31/12/2013 tarihine kadar Ek-4’te yer alan formata uygun olarak hazırlayıp Bakanlığa iletmekle yükümlüdür.
+(3) Bağımsız denetleyici kuruluşlar, Türkiye’de geliştirilen ve kendilerinin onayladıkları ve/veya doğruladıkları tüm projeler ile ilgili bilgileri, 31/12/2013 tarihine kadar Ek-5’te yer alan formata uygun olarak hazırlayıp Bakanlığa iletmekle yükümlüdür.

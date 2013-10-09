@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.18934",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÖNÜLLÜ KARBON PİYASASI PROJE KAYIT TEBLİĞİ",
+  "number": "18934",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2013/18934",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18934&MevzuatTertip=5",
+  "source_sha256": "09be9b095dbcfc8e5b6b72307f10f3b8289aa5d8a1092d98f31725a180c209d2",
+  "source_bytes": 18457,
+  "published": "2013-10-09",
+  "gazette": "28790",
+  "in_force": "2013-10-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.10.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 910,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18934-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
