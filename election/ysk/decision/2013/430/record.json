@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2013/430",
+  "list_number": "430",
+  "decision_date": "2013-10-09",
+  "title": "Yüksek Seçim Kurulunun 2013/400 sayılı kararının \"GEREĞİ GÖRÜŞÜLÜP DÜŞÜNÜLDÜ\" ve \"SONUÇ\" bölümlerinde ... siyasi parti il, ilçe... ibarelerinden sonra gelen \"ve belde\" ibaresinin söz konusu kararda geçen bölümlerden çıkartılmasına ilişkin Yüksek Seçim Kurulu kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2582/2013-430.pdf",
+  "source_sha256": "0600ee7124ef6427abdfdf2e562be152b20e21b09bef73ba87069d1a36456b17",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-10-09",
+  "law_text_complete": false
+}
