@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "95462982-105[VUK.ÖZLG-13-15]-295",
+  "source_id": 23690,
+  "date": "2013-10-09",
+  "title": "Veterinerlik hizmetinin yanında ilaç ve tohumlama uygulaması yapılması durumunda vergilendirme hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23690",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "234581767d7a6167233990893b2a0faf152783fe5b6948cea095b74b8047a2b5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
