@@ -1,0 +1,5 @@
+Genel müdür
+MADDE 18 – (1) Ortaklıkta genel müdür olarak görev yapacak kişinin; dört yıllık yükseköğrenim kurumlarından mezun olmuş olması, 6 ncı maddenin birinci fıkrasının (e) bendi dışındaki bentlerinde yer alan şartları taşıması, ortaklığın faaliyet konusunu yakından ilgilendiren hukuk, bankacılık, finans, girişimcilik, işletmecilik, sanayi ve ticaret gibi alanlarda en az beş yıllık tecrübeye sahip olması zorunludur.
+(2) Genel müdürlük görevine son 12 aylık dönem içerisinde altı aydan fazla vekalet edilemez. Bu sürenin sonunda bu göreve yeniden vekaleten atama yapılamaz.
+(3) Genel müdür, ortaklık portföyündeki girişim sermayesi yatırımlarında icrai nitelikte görev alabilir; başka kurum ve kuruluşlarda ise icrai nitelikte olmaması ve ortaklıktaki görevinin ifasında zafiyete neden olmaması kaydıyla, yönetim kurulu üyeliği yapabilir.
+(4) Genel müdürlük görevine yeni bir atama yapılması halinde atamaya ilişkin karar, atanan kişinin bu maddenin birinci fıkrasında yer alan şartları sağladığını tevsik edici belgelerle birlikte atamayı takip eden en geç 10 iş günü içinde Kurula ve SPL’ye gönderilir.

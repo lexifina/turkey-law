@@ -1,0 +1,3 @@
+Diğer personel
+MADDE 19 – (1) Ortaklık bünyesinde faaliyetlerin etkin bir şekilde yürütülmesini sağlayacak sayıda nitelikli personelin istihdam edilmesi ve sermaye piyasası mevzuatında belirtilen görevleri yerine getirecek ihtisas personelinin seçiminde Kurulun ilgili düzenlemelerine uyulması zorunludur. Kurul düzenlemeleri uyarınca oluşturulması gereken komitelerde görevli personelin atanmaları ve görevden ayrılmaları, atamayı veya görevden ayrılmayı takip eden en geç 10 iş günü içinde SPL’ye bildirilir.
+(2) Bu madde kapsamındaki personelin 6 ncı maddenin birinci fıkrasının (h) bendinde yer alan şartı taşıması zorunludur.

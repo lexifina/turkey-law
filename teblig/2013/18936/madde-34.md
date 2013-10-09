@@ -1,0 +1,4 @@
+Tanıtım ve reklam amaçlı ilanlar
+MADDE 34 – (1) Ortaklıklar tarafından, payların halka arzı ve satışına ilişkin izahnamenin onaylanması sürecinde yapılacak tanıtım ve reklam amaçlı ilanlarda Kurulun konuya ilişkin düzenlemelerine uyulur.
+(2) Halka arz dönemi ve bu dönem dışında yapılacak ilan ve reklamlarda yer alan bilgiler, yanlış, yanıltıcı, temelsiz, abartılı veya eksik olmamalı, ortaklığın mevcut koşullarına ilişkin olarak tasarruf sahiplerinin yanlış fikirler edinmelerine neden olmamalı, ortaklığın verimliliği, kârlılığı, mali durumu hakkında yanıltıcı ifadeler içermemeli ve bu ilan ve reklamlarda ortaklık portföyünde yer alan varlıkların gerçek durumları ile örtüşmeyen yazı, resim, fotoğraf veya görüntü kullanılmamalıdır.
+(3) Bu maddeye aykırı yapılacak işlemlerden ortaklık yönetim kurulu veya yönetim kurulunca yetkilendirilmiş olması halinde ilgili murahhas üye sorumludur.

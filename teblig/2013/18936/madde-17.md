@@ -1,0 +1,9 @@
+BEŞİNCİ BÖLÜM
+Yönetim Yapısı
+Yönetim kurulu üyeleri ve yönetim kurulu üyelerine ilişkin yasaklar
+MADDE 17 – (1) Yönetim kurulu, Kurul düzenlemeleri ile TTK’nın ilgili maddeleri çerçevesinde seçilir ve görev yapar.
+(2) Ortaklıklarda görev alacak yönetim kurulu üyelerinin, 6 ncı maddenin birinci fıkrasının (e) bendi dışındaki bentlerinde yer alan şartları taşımaları gerekmektedir. Ayrıca yönetim kurulu üyelerinin çoğunluğunun dört yıllık yükseköğrenim kurumlarından mezun olmuş olmaları ve ortaklığın faaliyet konusunu yakından ilgilendiren hukuk, bankacılık, finans, girişimcilik, işletmecilik, sanayi ve ticaret gibi alanlarda en az üç yıllık tecrübeye sahip olmaları zorunludur.
+(3) Kurulun kurumsal yönetim düzenlemeleri dikkate alınarak kurulan komitelerde sadece dört yıllık yükseköğrenim kurumlarından mezun olmuş yönetim kurulu üyelerinin görev alması gerekmektedir.
+(4) Yönetim kurulu üyeleri veya yönetim kurulunca yetkilendirilmiş olması halinde ilgili murahhas üye, bu Tebliğde yer verilen portföy sınırlamaları ve kamuyu aydınlatmaya ilişkin yükümlülüklerin yerine getirilmesinden sorumludur. Bu sorumluluk, 9 uncu madde ve 25 inci madde kapsamında dışarıdan hizmet alınması halinde de devam eder.
+(5) Yönetim kurulu üyeliği görevine yeni bir atama yapılması halinde atamaya ilişkin karar, atanan kişinin ikinci fıkrada yer alan şartları sağladığını tevsik edici belgelerle birlikte atamayı takip eden en geç 10 işgünü içinde SPL’ye gönderilir.
+(6) Yönetim kurulu üyeleri, girişim sermayesi yatırımlarına ilişkin olanlar hariç olmak üzere, yönetim kurulunun alacağı kararlarda taraf olan kimselerden Kurulun kurumsal yönetim düzenlemelerine göre bağımsız olmaması durumunda, bu hususu gerekçeleri ile birlikte yönetim kuruluna bildirmek ve her hâlükârda toplantı tutanağına işletmekle yükümlüdür. Bu hususta TTK’nın "Müzakereye katılma yasağı" başlıklı 393 üncü maddesi hükmü saklıdır.

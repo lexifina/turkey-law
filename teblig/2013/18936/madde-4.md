@@ -1,0 +1,2 @@
+Ortaklık tanımı
+MADDE 4- (1) Girişim sermayesi yatırım ortaklığı, bu Tebliğ ile belirlenmiş usul ve esaslar dahilinde, girişim sermayesi yatırımları, sermaye piyasası araçları ve Kurulca belirlenecek diğer varlık ve haklardan oluşan portföyü işletmek amacıyla paylarını ihraç etmek üzere kurulan veya esas sözleşme değişikliği yolu ile dönüşen, Kanunun 48 inci maddesinde sınırı çizilen faaliyetler çerçevesinde olmak kaydı ile bu Tebliğde izin verilen diğer faaliyetlerde bulunabilen ve kayıtlı sermaye sistemine tabi anonim ortaklık olan sermaye piyasası kurumudur.
