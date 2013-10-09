@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-180[29-2013]-159",
+  "source_id": 36847,
+  "date": "2013-10-09",
+  "title": "Vadeli işlem ve opsiyon sözleşmelerinde müşterinin kambiyoya ilişkin yükümlülük toplamının, sözleşme vadesinde müşteriye kullandırılan kredi ile yerine getirilmesi halinde, BSMV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36847",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "ea8672110d1ad1631e7d5b70e57680a8855b831c1245bd82a1c5b03ce0995100",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
