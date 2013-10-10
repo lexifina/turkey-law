@@ -6,6 +6,6 @@ Bağış ve yardımlar tahsis olunan sermaye ile sınırlı olmaksızın sermaye
 Döner Sermaye İşletmesi, Başkanlık yayınlarının satış yerleri ile ilgili hizmetleri yürütür, kitabevleri açabilir, yayın hizmetleri ile ilgili olarak ithalat ve ihracat yapabilir.
 Döner Sermaye İşletmesinin faaliyet alanları ile çalışma usul ve esasları yönetmelikle düzenlenir.
 –––––––––––––
-(1) 11/10/2011 tarihli ve 666 sayılı KHK’nin 1 inci maddesiyle, bu fıkrada yer alan “mesai saatleri dışında yaptırılacak ilave çalışma ücreti ve” ibaresi yürürlükten kaldırılmıştır.
+(1) 11/10/2011 tarihli ve 666 sayılı KHK’nin 1 inci maddesiyle, bu fıkrada yer alan “mesai saatleri dışında yaptırılacak ilave çalışma ücreti ve” ibaresi yürürlükten kaldırılmış olup, daha sonra 666 sayılı KHK ile bu fıkrada yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
 (2) 1/7/2010 tarihli ve 6002 sayılı Kanunun 13 üncü maddesiyle, bu madde başlığı “Donatım Müdürlüğünün görevleri:” iken metne işlendiği şekilde değiştirilmiştir.
 4124-3

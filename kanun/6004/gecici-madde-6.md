@@ -3,5 +3,5 @@ GEÇİCİ MADDE 6- (1) Bu Kanunla kadroları iptal edilen personelden kadro unva
 (2) Mahalli katip kadrolarının boşalması halinde bu kadrolara tekrar atama yapılmaz. Mahalli katipler, merkez teşkilatına tayin edildiklerinde merkez memuru kadrolarına atanırlar.
 (3) Bu Kanunun yürürlüğe girdiği tarihte, Devlet konukevindeki mevcut sözleşmeli personelin aynı statüleri ile istihdamına devam olunur ve aynı tarih itibarıyla sözleşmeli personele ait boş pozisyonlar ile boşalacak olanlar hiçbir işleme gerek kalmaksızın iptal edilmiş sayılır.
 10653
-(4) (Mülga: 11/10/2011-KHK-666/1 md.)
+(4) (Mülga: 11/10/2011-KHK-666/1 md.) (1)
 (5) Diğer mevzuatta 4009 sayılı Dışişleri Bakanlığının Kuruluş ve Görevleri Hakkında Kanuna yapılan atıflar bu Kanuna yapılmış sayılır.
