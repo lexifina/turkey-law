@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-BSMV-1670",
+  "source_id": 36754,
+  "date": "2013-10-10",
+  "title": "Vadeleri çakışan döviz swap ve forward sözleşmelerinde, sözleşmeden kaynaklanan anapara yükümlülüklerinin karşılıklı olarak nakden (fiziki teslim) yerine getirilmesinin BSMV ye tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36754",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "696e216dd53c2702c1d4815063c1f250facc14f389739288ddef865cc7e15b1a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
