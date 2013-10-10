@@ -149,7 +149,7 @@ g) Müfettişlerin iş teftişi ile ilgili faaliyet ve işlemleriyle ilgili teft
 h) (Ek: 11/10/2011 - KHK - 665/3 md.) 4447 sayılı İşsizlik Sigortası Kanunu ile 4904 sayılı Türkiye İş Kurumu Kanunu uyarınca işyerlerinde inceleme yapmak, iş ve işlemlerini teftiş etmek.
 i) (Ek: 11/10/2011 - KHK - 665/3 md.) Kayıtdışı istihdamla mücadele etmek, bu amaçla sektörel analizlere dayalı denetimleri yürütmek ve bu konularda alınması gerekli tedbirleri önermek.
 j) Bakanlık makamı tarafından verilen benzeri işleri yapmak.
-(Değişik ikinci fıkra: 11/10/2011 - KHK - 665/3 md.) İş Müfettişi Yardımcılarının giriş ve yeterlik sınavlarının usul ve esasları, İş Müfettişliğine yükselmeleri, görev, yetki ve sorumlulukları, Başkanlığın çalışma usul ve esasları ile diğer hususlar yönetmelikle belirlenir.
+(Değişik ikinci fıkra: 12/7/2013-6495/73 md.) İş Müfettişi Yardımcılarının giriş ve yeterlik sınavlarının usul ve esasları, İş Müfettişliğine yükselmeleri, görev, yetki ve sorumlulukları, bunlarda aranacak özel şartlar, Başkanlığın çalışma usul ve esasları ile diğer hususlar yönetmelikle belirlenir.
 Araştırma, Planlama ve Koordinasyon Kurulu Başkanlığı
 Madde 16 – (Mülga: 22/12/2005-5436/17 md.)
 Hukuk Müşavirliği
@@ -243,7 +243,7 @@ Meydana gelir.(1)
 (Ek fıkra:16/7/2003-4947/22 md.) Çalışma Meclisi yılda en az bir defa toplanır.
 ______________________
 (1) 26 ncı maddenin birinci fıkrası 24/8/2000 tarihli ve 618 sayılı KHK.ile değiştirilmiş olup, daha sonra sözkonusu KHK. Ana.Mah.nin 31/10/2000 tarih ve E.:2000/62, K.:2000/35 sayılı Kararı ile iptal edilmiş ve iptal Kararı 8/5/2001 tarihinde yürürlüğe girmiştir. 16/7/2003 tarihli ve 4947 sayılı Kanun ile yapılan bu düzenleme metne işlenmiştir.
-6576-1/6576-2
+6576-1
 Sakatları Koruma Milli Koordinasyon Kurulu
 Madde 27 – (Mülga : 25/3/1997 - KHK - 571/37 md.)
 ÜÇÜNCÜ KISIM (1)
@@ -254,7 +254,7 @@ Madde 28 – Bakanlık, Bakanlıkların Kuruluş ve Görev Esasları Hakkında K
 Yurt dışı teşkilatı (2)(3)
 Madde 29 – Bakanlık, Kamu Kurum ve Kuruluşlarının Yurt Dışı Teşkilatı Hakkında Kanun Hükmünde Kararname esaslarına uygun olarak yurt dışı teşkilatı kurmaya yetkilidir.
 (Ek fıkra : 24/8/2000 - KHK - 618/24 md.; İptal: Ana.Mah.nin 31/10/2000 tarih ve E.:2000/62, K.:2000/35 sayılı Kararı ile)
-(Ek fıkra:16/7/2003-4947/23 md.) Yurt dışı sürekli göreve, yurt dışı işçi hizmetleri uzmanları, yurt dışında görevlendirmeye ilişkin mevzuat gereğince yapılan sınavlarda başarılı olup, yurt dışında en az üç yıl sürekli kadrolarda görev yaptıktan sonra Bakanlık ya da bağlı ve ilgili kuruluşları kadrolarında çalışanlar ile Bakanlık merkez teşkilâtında ve bağlı ve ilgili kuruluşlarında genel müdür ya da daha üst görevlerde bulunanlar bu görevlerde en az iki tam yıl çalışmış olmak kaydıyla çıkarılacak yönetmelik ile belirlenen esaslar dahilinde ataşe yardımcısı, ataşe, müşavir yardımcısı veya müşavir unvanlarıyla atanabilirler. Yurt dışı görev süresi dört yıldır. Yurt dışı kadrolarına atanacakların, atanma tarihinde yönetmelikte belirtilen yabancı dillerin birinden en az (C) düzeyinde geçerli Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavı puanına sahip olması zorunludur. Ancak, Türk dilinin kabul gördüğü ülkelere sürekli göreve atanma durumunda dil sınavı şartı aranmaz. Yurt dışı atamalarına ilişkin usul ve esaslar yönetmelikle belirlenir.
+(Ek fıkra:16/7/2003-4947/23 md.; Değişik üçüncü fkra: 12/7/2013-6495/73 md.) Yurt dışı sürekli göreve, yurt dışı işçi hizmetleri uzmanları, Bakanlık merkez teşkilatında ve bağlı ve ilgili kuruluşlarında daire başkanı ya da daha üst görevlerde bulunanlardan bu görevlerde en az bir tam yıl çalışmış olanlar, Bakanlık ve Sosyal Güvenlik Kurumu Başkanlığı merkez teşkilâtında mesleğe yarışma sınavıyla girmiş olanlardan yeterliklerini aldıktan sonra en az yedi yıl çalışmış olanlar, çıkarılacak yönetmelikle belirlenen esaslar dâhilinde atanabilirler. Yurt dışı görev süresi en çok üç yıldır; bu süre hizmetin gerektirdiği hâllerde Bakan onayı ile bir yıla kadar uzatılabilir. Yurt dışı kadrolarına atanacakların, atanma tarihinde yönetmelikte belirtilen yabancı dillerin birinden Yabancı Dil Bilgisi Seviye Tespit Sınavından en az (C) düzeyinde veya dil yeterliği bakımından buna denkliği kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip olması zorunludur. Ancak, Türkçe’nin ve Türk lehçelerinin konuşulduğu ülkelere sürekli görevle atanma durumunda yabancı dil belgesi şartı aranmaz. Yurt dışı atamalarına ilişkin usul ve esaslar yönetmelikle belirlenir.
 ______________________
 (1) 16/5/2006 tarihli ve 5502 sayılı Kanunun 42 nci maddesiyle; bu bölüm başlığı “Taşra ve Yurt Dışı Teşkilatı ile Bağlı Kuruluşlar” iken metne işlendiği şekilde değiştirilmiştir.
 (2) 16/5/2006 tarihli ve 5502 sayılı Kanunun 42 nci maddesiyle; bu maddenin ikinci fıkrasında yer alan “bağlı kuruluşlarla bağlı kuruluşun ilgili kuruluşları" ibaresi "bağlı ve ilgili kuruluşları" şeklinde değiştirilmiş ve metne işlenmiştir.
@@ -294,7 +294,7 @@ Bazı görevlere atamalarda aranacak şartlar
 Madde 36/A – (Ek:16/7/2003-4947/26 md.)
 Bakanlık merkez teşkilâtında, çalışma uzmanı ve yurt dışı işçi hizmetleri uzmanı, merkez ve taşra teşkilâtında iş sağlığı ve güvenliği uzmanı çalıştırılabilir. 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartlara sahip, Bakanlığın ihtiyaç duyduğu alanlarda en az dört yıllık yüksek öğrenim görmüş ve sınavın açıldığı tarihte otuzbeş yaşından gün almamış olanlar arasında yapılacak özel yarışma sınavı sonucunda başarılı bulunanlar çalışma uzman yardımcısı, yurt dışı işçi hizmetleri uzman yardımcısı ve iş sağlığı ve güvenliği uzman yardımcısı kadrolarına atanırlar.
 Uzman yardımcılarında aranacak nitelikler, seçilme usul ve esasları ile diğer hususlar yönetmelikle düzenlenir.
-Madde 36/A– (Ek : 24/8/2000 - KHK - 618/27 md.; İptal: Ana.Mah.nin 31/10/2000 tarih ve E.:2000/62, K.:2000/35 sayılı Kararı ile)
+Madde 36/A– (Ek : 24/8/2000 - KHK - 618/27 md.; İptal: Ana.Mah.nin 31/10/2000 tarih ve E.:2000/62, K.:2000/35 sayılı Kararı ile.)
 Kadrolar
 Madde 37 – Kadroların tespit, ihdas, kullanımı ve iptali ile kadrolara ilişkin diğer hususlar Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname hükümlerine göre düzenlenir.
 İntikal eden görev ve yetkiler
@@ -306,10 +306,11 @@ Bağış ve yardımlar tahsis olunan sermaye ile sınırlı olmaksızın tahsis 
 (Değişik dördüncü fıkra:16/7/2003-4947/27 md.) Döner sermaye işlemleri, 1050 sayılı Muhasebei Umumiye Kanununa ve iş sağlığı ve güvenliği ile ilgili hayati tehlike arz eden konularda 832 sayılı Sayıştay Kanununun vize ve tescil hükümlerine tabi değildir. (1)
 Döner sermayenin işletilmesinden doğan karlar, ödenmiş sermaye, tahsis edilen sermaye tutarına ulaşıncaya kadar döner sermayeye eklenir.
 (Ek fıkra:16/7/2003-4947/27 md.; Mülga altıncı fıkra: 14/7/2004-5217/31 md.)
-(Ek fıkra:16/7/2003-4947/27 md.; Mülga yedinci fıkra: 11/10/2011-KHK-666/1 md.)
+(Ek fıkra:16/7/2003-4947/27 md.; Mülga yedinci fıkra: 11/10/2011-KHK-666/1 md.) (2)
 (Ek fıkra: 11/10/2011 - KHK - 665/6 md.) İşletmelerin faaliyet alanları, gelirleri, giderleri ve denetimi ile ilgili hususlar Maliye Bakanlığının uygun görüşü üzerine Bakanlıkça çıkarılan yönetmelikle belirlenir.
 __________________
 (1) Bu fıkranın uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılı Kanunun 81 inci maddesine bakınız.
+(2) 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
 6579
 Yürürlükten kaldırılan ve değiştirilen hükümler
 Madde 40 – 28/1/1946 tarihli 4841 sayılı Kanun, ek ve değişiklikleri ile diğer kanunların bu Kanuna aykırı hükümleri yürürlükten kaldırılmıştır.
@@ -322,6 +323,9 @@ Elektronik ortamda bilgi ve belge alınıp verilmesi ve arşivleme konularına i
 Ek Madde 2 –(Ek:20/6/2012-6331/36 md.)
 Türkiye Radyo-Televizyon Kurumu ile ulusal, bölgesel ve yerel yayın yapan özel televizyon kuruluşları ve radyolar; ayda en az altmış dakika iş sağlığı ve güvenliği, çalışma hayatında kayıt dışılığın önlenmesi, sosyal güvenlik, işçi ve işveren ilişkileri konularında uyarıcı ve eğitici mahiyette yayınlar yapmak zorundadır. Bu yayınlar, asgari otuz dakikası 17:00-22:00 saatleri arasında olmak üzere, 08:00-22:00 saatleri arasında yapılır ve yayınların kopyaları her ay düzenli olarak Radyo ve Televizyon Üst Kuruluna teslim edilir. Bu saatler dışında yapılan yayınlar, aylık altmış dakikalık süreye dahil edilmez. Bu programlar, Bakanlık ve bağlı ve ilgili kuruluşları, Radyo ve Televizyon Üst Kurulu ile ilgili diğer kamu kurum ve kuruluşları ile bilimsel kuruluşlar, kamu kurumu niteliğinde meslek kuruluşları veya sivil toplum kuruluşları tarafından hazırlanır veya hazırlatılır. Hazırlanan programların, Bakanlığın olumlu görüşü alındıktan sonra Radyo ve Televizyon Üst Kurulu tarafından radyo ve televizyonlarda yayınlanması sağlanır.
 Bu madde kapsamında yapılan yayınlar için herhangi bir bedel ödenmez. Bu yayınların ve sürelerinin denetimi Radyo ve Televizyon Üst Kurulunca yapılır.
+Ek Madde 3 –(Ek:12/7/2013-6495/73 md.)
+İş Sağlığı ve Güvenliği Genel Müdürlüğü ile İş Sağlığı ve Güvenliği Enstitüsü Müdürlüğü kadrolarında görev yapan tabiplere; iş yerlerinde iş sağlığı ve güvenliğinin sağlanması, iş kazaları ve meslek hastalıklarının önlenmesine ilişkin proje ve araştırma ile sağlık gözetimi çalışmalarının yapılması, sonuç raporlarının üretilmesi, sektörel meslek hastalıkları rehberinin hazırlanması, iş sağlığı ve güvenliği alanında ölçüm, analiz, teknik kontrol, risk analizi ve değerlendirmesi, iş yeri hekimi, iş güvenliği uzmanı ve diğer sağlık personelinin eğitimleri ve belgelendirilmeleri, çalışma ortamına yönelik gerekli kontrol, inceleme ve araştırmalar ile fiziksel, kimyasal ve biyolojik etmenlerle ilgili ölçüm ve laboratuvar analizleri gibi iş sağlığı ve güvenliği hizmetlerine yönelik yapmış olduğu hizmetler esas alınmak suretiyle Maliye Bakanlığının uygun görüşü üzerine Çalışma ve Sosyal Güvenlik Bakanlığınca belirlenecek usul ve esaslar çerçevesinde en yüksek Devlet memuru aylığının (ek gösterge dâhil) %400’ünü geçmemek üzere ek ödeme yapılır. Ek ödemeye hak kazanılmasında ve ödemenin yapılmasında aylıklara ilişkin hükümler uygulanır ve damga vergisi hariç herhangi bir vergiye tabi tutulmaz. Bu madde kapsamında ödeme yapılan personele 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesine göre ödeme yapılmaz.
+6580
 GEÇİCİ HÜKÜMLER
 Geçici Madde 1 – Bu Kanunun yürürlüğe girdiği tarihte Çalışma Bakanlığı ile Sosyal Güvenlik Bakanlığına ait kadrolar, personeli ile birlikte başkaca bir işleme gerek kalmaksızın Çalışma ve Sosyal Güvenlik Bakanlığına devredilmiş sayılır.
 Bakanlığın teşkilat ve kuruluşu bu Kanun esaslarına göre yeniden düzenleninceye ve bu düzenleme uyarınca genel hükümlere göre yeni kadrolar tespit ve ihdas edilinceye kadar bu Kanunun yürürlüğe girdiği tarihte devredilen kadroların kullanılmasına devam olunur.
@@ -329,12 +333,12 @@ Geçici Madde 2 – Bu Kanun ile yapılan yeni düzenleme sebebi ile Çalışma 
 Çalışma ve Sosyal Güvenlik Bakanlığına devredilen kadrolardan Müsteşar ve Müsteşar yardımcıları ile Çalışma Bakanlığı ve Sosyal Güvenlik Bakanlığının danışma ve denetim birimleri ve yardımcı birimlerin genel müdür, daire başkanı, kurul başkanı ve bunların yardımcılarına ait kadrolardan aynı unvanları taşıyanlar ile aynı mahiyetteki hizmetlerin ifasına yönelik kadrolar şahsa bağlı kadrolar olup, her ne sebeple olursa olsun boşalmaları halinde genel hükümlere göre iptal edilmiş sayılır. Çalışma ve Sosyal Güvenlik Bakanı, yeni kadrolar tespit ve ihdas edilerek gerekli atama işlemleri yapılıncaya kadar bu kadrolarda bulunan memurlardan birini, görevli oldukları birim hizmetlerinin yürütülmesini tedvirle görevlendirebilir.
 Kadro ve görev unvanları değişenler veya kaldırılanlarla, şahsa bağlı kadrolarda bulunanlar Bakanlığın merkez veya taşra teşkilatında yeni bir kadroya atanıncaya kadar her türlü mali ve sosyal haklarıyla durumlarına uygun işlerde görevlendirebilir.
 Yukarıdaki iki ve üçüncü fıkrada sayılanların bakanlığın merkez veya taşra teşkilatında durumlarına uygun kadrolara atanmaları halinde de eski kadrolarına ait aylık, ek gösterge ve her türlü haklarının bu yeni kadrolarında kaldıkları sürece ödenmesine devam olunur.
-6580
 Geçici Madde 3 – Bu Kanunun yürürlüğe girdiği tarihten önce, Çalışma Bakanlığı ile Sosyal Güvenlik Bakanlığında istihdam edilen bağlı ve ilgili kuruluş personeli ilgili oldukları kuruluşlara en geç bir yıl içerisinde iade edilir.
 Geçici Madde 4 – Bu Kanunun uygulanmasını göstermek üzere hazırlanacak tüzük ve yönetmelikler yürürlüğe girinceye kadar mevcut tüzük ve yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 Geçici Madde 5 – Bakanlık taşra ve yurt dışı teşkilatı ve bu Kanunun 28 inci ve 29 uncu maddelerinde belirlenen esaslara göre yeniden düzenleninceye kadar görev ve hizmetler mevcut taşra ve yurt dışı teşkilatı tarafından yürütülmeye devam olunur.
 Geçici Madde 6 – Bu Kanuna göre yeniden düzenleme yapılıncaya kadar Bakanlık Merkez Teşkilatında değişen veya yeniden kurulan birimlere verilen görevler daha önce bu görevleri yapmakta olan birimler tarafından yapılmaya devam edilir.
 Bakanlık, teşkilatını ve kadrolarını en geç sekiz ay içinde bu Kanuna uygun hale getirir. Bu süre içinde Bakanlık kadrolarını, bu Kanun ile öngörülen teşkilat yapısına uygun hale getirmek üzere, Bakanlığın teklifi, Devlet Personel Başkanlığı ile Maliye ve Gümrük Bakanlığının görüşlerine dayanılarak kadro ihdas ve iptal etmeye, mevcut kadrolarda sınıf, unvan ve derece değişikliği yapmaya Bakanlar Kurulu yetkilidir.
+6580-1
 Geçici Madde 7 – Bu Kanunun yürürlüğe girdiği tarihte Çalışma Bakanlığı ile Sosyal Güvenlik Bakanlığına ait her türlü mal ve haklar başkaca bir işleme gerek kalmaksızın Çalışma ve Sosyal Güvenlik Bakanlığına devredilmiş sayılırlar.
 Geçici Madde 8 – Bu Kanuna göre kaldırılan birimlerde görevli personel, durumlarına uygun kadrolara atanır. Bunların aylık, ek gösterge ve her türlü hakları yeni görevlerinde kaldıkları sürece şahıslarına bağlı olarak saklı tutulur.
 Geçici Madde 9 – (Ek : 24/8/2000 - KHK - 618/30 md.; İptal: Ana.Mah.nin 31/10/2000 tarih ve E.:2000/62, K.:2000/35 sayılı Kararı ile)
@@ -344,9 +348,8 @@ B) Bu Kanunda öngörülen yönetmelikler ile Sosyal Güvenlik Kurumunda ihdas e
 Bu Kanunda öngörülen yönetmelikler yürürlüğe girinceye kadar mevcut tüzük ve yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 C) İşçi Sağlığı ve İş Güvenliği Merkezi Döner Sermaye İşletmesinin hukukî varlığı en geç iki yıl içinde İş Sağlığı ve Güvenliği Genel Müdürlüğü Döner Sermaye İşletmesinin kurulmasıyla sona erer, aynî ve nakdî mal varlığı "İş Sağlığı ve Güvenliği Genel Müdürlüğü Döner Sermaye İşletmesi"ne intikal eder.
 D) Bu Kanunun yürürlüğe girdiği tarihte kadro ve görev unvanları değişmeyenler, yeni kadrolarına atanmış sayılırlar.
-Çalışma ve Sosyal Güvenlik Bakanlığında, Sosyal Güvenlik Kuruluşları Genel Müdürü,Genel Müdür Yardımcısı (Sosyal Güvenlik Kuruluşları Genel Müdürlüğü), Daire Başkanı (Sosyal Güvenlik Kuruluşları Genel Müdürlüğü) kadro unvanlı görevlerde bulunanların görevleri, bu Kanunun yayımı tarihinde sona erer. Bunlar en geç bir yıl içerisinde durumlarına uygun boş
-6580-1
-kadrolara atanırlar. Atama işlemi yapılıncaya kadar Kurumca ihtiyaç duyulan işlerde görevlendirilebilirler. Bunlar, yeni bir kadroya atanıncaya kadar, eski kadrolarına ait aylık, ek gösterge ve her türlü zam ve tazminatlar ile diğer malî haklarını almaya devam ederler. Söz konusu personelin, atandıkları yeni kadroların aylık, ek gösterge, her türlü zam ve tazminatlar ile diğer malî hakları toplamının net tutarı, eski kadrolarına bağlı olarak en son ayda almakta oldukları aylık, ek gösterge, her türlü zam ve tazminatları ile diğer malî hakları toplamı net tutarından az olması halinde, aradaki fark giderilinceye kadar atandıkları kadrolarda kaldıkları sürece herhangi bir kesintiye tâbi tutulmaksızın tazminat olarak ödenir.
+Çalışma ve Sosyal Güvenlik Bakanlığında, Sosyal Güvenlik Kuruluşları Genel Müdürü,Genel Müdür Yardımcısı (Sosyal Güvenlik Kuruluşları Genel Müdürlüğü), Daire Başkanı (Sosyal Güvenlik Kuruluşları Genel Müdürlüğü) kadro unvanlı görevlerde bulunanların görevleri, bu Kanunun yayımı tarihinde sona erer. Bunlar en geç bir yıl içerisinde durumlarına uygun boş kadrolara atanırlar. Atama işlemi yapılıncaya kadar Kurumca ihtiyaç duyulan işlerde görevlendirilebilirler. Bunlar, yeni bir kadroya atanıncaya kadar, eski kadrolarına ait aylık, ek gösterge ve her türlü zam ve tazminatlar ile diğer malî haklarını almaya devam ederler. Söz konusu personelin, atandıkları yeni kadroların aylık, ek gösterge, her türlü zam ve tazminatlar ile diğer malî hakları toplamının net tutarı, eski kadrolarına bağlı olarak en son ayda almakta oldukları aylık, ek gösterge, her türlü zam ve tazminatları ile diğer malî hakları toplamı net tutarından az olması halinde, aradaki fark giderilinceye kadar atandıkları kadrolarda kaldıkları sürece herhangi bir kesintiye tâbi tutulmaksızın tazminat olarak ödenir.
+6580-2
 E) Bu Kanunun yürürlüğe girdiği tarihte Bakanlık merkez ve taşra birimlerinde en az beş yıl fiili hizmeti bulunan ve eğitim durumları ile diğer koşulları uygun personel, Bakanlıkça açılacak ilk çalışma uzman yardımcılığı, yurt dışı işçi hizmetleri uzman yardımcılığı ve iş sağlığı ve güvenliği uzman yardımcılığı yarışma sınavlarına, sınavın açıldığı tarihte kırk yaşını doldurmamış olmaları kaydıyla girebilirler. Açılacak ilk yarışma sınavlarına başvurmayanlar veya başvurdukları halde her ne sebeple olursa olsun girmeyenler bu haklarını kaybeder.
 Geçici Madde 10 – (Ek : 24/8/2000 - KHK - 618/30 md.; İptal: Ana.Mah.nin 31/10/2000 tarih ve E.:2000/62, K.:2000/35 sayılı Kararı ile.)
 Geçici Madde 11 – (Ek : 24/8/2000 - KHK - 618/30 md.; İptal: Ana.Mah.nin 31/10/2000 tarih ve E.:2000/62, K.:2000/35 sayılı Kararı ile.)
@@ -359,4 +362,4 @@ Yürürlük
 Madde 41 – Bu Kanun yayımı tarihinde yürürlüğe girer.
 Yürütme
 Madde 42 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-6580-2
+6580-3

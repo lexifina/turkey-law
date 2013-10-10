@@ -27,5 +27,4 @@ f) Kuvvetleri ayrı olan aynı rütbe ve aynı nasıplı astsubayların kıdem s
 3. Bütün şartlar aynı ise mensup olduğu kuvvete göre sıra ile kara, deniz, hava, jandarma, sahil güvenlik,
 diğerlerine nazaran kıdemlidir.
 Yukarıda belirtilen ilkelere göre kıdem ve kıdem sırasının belirlenmesine ilişkin diğer usûl ve esaslar Astsubay Sicil Yönetmeliğinde gösterilir.
-4418-2
 4419

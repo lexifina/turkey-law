@@ -10,10 +10,10 @@ Madde 204 – (Değişik: 3/7/1975 - 1923/49 md.)
 Bu Kanun gereğince verilecek madalya ve minyatürlerin şekilleri, kayıtları, nitelikleri, kordela, rozet ve nişanların takılacağı yer ve zamanlar, kişiler ve birlik sancaklarına veriliş ve takılış usulleri,ödüllerin miktarları ve ilgili diğer hususlar Milli Savunma ve İçişleri Bakanlığınca müştereken tanzim edilecek bir yönetmelikle saptanır.
 Albaylığa ve daha üst rütbelere yükselebilme:
 Ek Madde 1 – (Ek: 31/7/1970 - 1323/13 md.)
-General - Amiral (ve Albay) rütbelerine yükselebilmek için; Harbokulu, fakülte veya yüksek okul mezunu olmak şarttır. (1)
+General - Amiral (ve Albay) rütbelerine yükselebilmek için; Harbokulu, fakülte veya yüksek okul mezunu olmak şarttır.(1)
 Çalışma saatleri:
 Ek Madde 2 – (Ek: 31/7/1970 - 1323/13 md; Değişik: 20/1/1976 - 1933/1 md.)
-Subay, astsubay, uzman çavuş ve uzman jandarmaların haftalık çalışma süresi genel olarak 40 saattir. (2)
+Subay, astsubay, uzman çavuş ve uzman jandarmaların haftalık çalışma süresi genel olarak 40 saattir.(2)
 Bu süre Cumartesi ve pazar günleri tatil olmak üzere düzenlenir. Ancak 211 sayılı Türk Silahlı Kuvvetleri İç Hizmet Kanununun bu konudaki hükümleri saklıdır.
 İş güçlüğü ve riski zammı:
 Ek Madde 3 – (Ek: 31/7/1970 - 1323/13 md.; Değişik: 20/1/1976 - 1933/1 md.)
@@ -31,7 +31,7 @@ Harp okulları, sınıf okulları ve harp akademilerinde ders görevi verilen ü
 Ek Madde 5 – (Mülga: 27/6//1989 - KHK - 375/23 md; Yeniden düzenleme: 9/8/1993-KHK - 499/23 md.) 49 uncu maddenin (d) bendi gereğince aynı rütbede hizmete devam ettirilen general ve amirallerden ve rütbe bekleme süresini dolduran albaylardan kendi isteği üzerine emekliye ayrılanlara da 49 uncu maddenin (f) bendi esaslarına uygun olarak kadrosuzluk tazminatı ödenir.
 ——————————
 (1) Anayasa Mahkemesinin 12/5/1977 tarih ve E. 1977/4, K.1977/74 sayılı kararıyla maddede yer alan (...ve Albay...) hükmü iptal edilmiştir.
-(2) 18/3/1986 tarih ve 3269 sayılı Kanunun 20 nci maddesiyle maddenin uzman çavuşlarla ilgili kısmı yürürlükten kaldırılmıştır.
+(2) 18/3/1986 tarih ve 3269 sayılı Kanunun 20 nci maddesiyle maddenin uzman çavuşlarla ilgili kısmı yürürlükten kaldırılmıştır
 4443
 Denizaltı, dalgıç ve kurbağaadam personelinin tazminat yüzdeleri:
 Ek Madde 6 – (Ek: 31/7/1970 - 1323/13 md.; Mülga : 28/2/1982 - 2629/22 md.)
@@ -58,7 +58,7 @@ Ek Madde 16 – (Ek: 3/7/1975 - 1923/50 md.)
 Muvazzaflık hizmeti dışında olmak üzere, seferde ya da talim veya manevra maksadıyle barışta silah altına alınan yedek subay ve yedek astsubaylara, rütbe, kıdem ve kademelerine göre kıt'aya iltihaklarından itibaren, silah altında bulundukları sürece aylık ve her türlü özlük hakları Milli Savunma Bakanlığınca ödenir.
 4444
 Özel kanunları gereğince, silah altında bulundukları sürece aylıklarının ödenmesine devam edilenler hakkında o kanunlar hükümleri saklıdır.
-Ek Madde 17 - (Ek: 2/2/1981 - 2379/2 md.; Değişik: 19/12/1996 – KHK- 568/2 md.) (1)
+Ek Madde 17 - (Ek: 2/2/1981 - 2379/2 md.; Değişik: 19/12/1996 - KHK 568/2 md.) (1)
 A) Uçuş, Paraşüt, Denizaltı, Dalgıç ve Kurbağa Adam Hizmetleri Tazminat Kanunu uyarınca aylık tazminat alanlar, hakim ödeneği alanlar ve Yurtdışına sürekli görevle gönderilenler hariç olmak üzere; Türk Silahlı Kuvveltleri kadrolarında bulunan ve aşağıda rütbeleri belirtilen personele hizalarında gösterilen oranların Orgeneral aylığının (ek gösterge dahil) brüt tutarı ile çarpımı sonucu bulunan miktarda Hizmet Tazminatı ödenir.
 TAZMİNAT
 RÜTBELER ORANLARI (%)
@@ -123,11 +123,13 @@ Uzman Onbaşı 94
 (Ek: 20/3/1997 - KHK - 570/17 md.) Bu Kanunun 121 inci maddesi gereğince, gemilere atanan personele fiilen görev yapmaları şartıyla, Orgeneral aylığının (ek gösterge dahil) brüt tutarının subaylara % 20 si, astsubaylar ile Devlet memurlarına % 13 ü, uzman jandarma ve uzman erbaşlara % 10 u oranında her ay ayrıca ek hizmet tazminatı ödenir. Bu tazminat, hangi kuvvet ve sınıftan olursa olsun, gemilerde fiilen seyir yapmak suretiyle geçici olarak ya da kontrol, tecrübe, denetleme yapmak veya eğitim yaptırmak amaçları için görevlendirilen subay, astsubay, uzman jandarma, uzman erbaş ve sivil memurlara da görevli bulundukları her gün için otuzda bir oranında ödenir. (1)
 ––––––––––––––
 (1) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu paragrafta yer alan “uzman erbaşlara” ibaresi “uzman jandarma ve uzman erbaşlara” şeklinde, “uzman erbaş” ibaresi “uzman jandarma, uzman erbaş” şeklinde değiştirilmiş ve metne işlenmiştir.
-4444-2 4445
+4445
 Şu kadar ki; Uçuş Paraşüt, Denizaltı, Dalgıç ve Kurbağa Adam Hizmetleri Tazminat Kanunu hükümlerine göre aylık yıpranma tazminatı alanlar ile 14/7/1964 tarih ve 500 sayılı Kanun ile ek ve değişiklikleri kapsamına girenlere de yurtiçi aylıkları esas alınmak kaydıyla aynı tazminat ödenir. Bu Kanunun 14 ve 109 uncu maddelerine göre astsubaylıktan subaylığa geçenlerin hizmet tazminatı, subay nasbedilmeden önce emsal oldukları astsubayların yükseldikleri rütbe, kıdem ve kademeler için öngörülen hizmet tazminatından az olamaz.
 B) Sıkıyönetim hizmet zammı hariç olmak üzere; (A) fıkrasında belirtilen ve bu tazminattan yararlanamayan personelin çeşitli ödemelerle bir ayda aldıkları net tutarlar bu maddede sayılan ve tazminattan yararlanan personele çeşitli ödemelerle bir ayda verilen net tutarlardan az ise aynı kıta ve karargahtaki aynı rütbe ve kıdemdekiler arasında meydana gelen fark ayrıca tazminat olarak ödenir.
-C) (Mülga: 11/10/2011-KHK-666/1 md.)
+C) (Mülga: 11/10/2011-KHK-666/1 md.)(1)
 Ç) (Ek: 21/1/2010-5947/12 md.) Türk Silahlı Kuvvetleri kadrolarında bulunan ve aşağıda rütbeleri belirtilen personelden öğretim üyesi tabip, öğretim üyesi diş tabibi, uzman tabip, uzman diş tabibi, tabip, diş tabibi ve tıpta uzmanlık mevzuatında belirtilen dallarda bu mevzuat hükümlerine göre uzman olanlara hizalarında gösterilen oranları geçmemek üzere orgeneral aylığının (ek gösterge dahil) brüt tutarı ile çarpımı sonucu bulunan miktarda sağlık hizmetleri tazminatı ayrıca ödenir.
+–––––––––––––––––––––
+(1) 11/10/2011 tarihli ve 666 sayılı KHK ile bu fıkrada yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
 4446
 RÜTBELER | TAZMİNAT ORANLARI(%)
 Öğretim Üyesi Tabip-Diş Tabibi/Uzman Tabip | Tabip/Tıpta uzmanlık mevzuatına göre uzman olanlar | Uzman Diş Tabibi | Diş Tabibi
@@ -204,6 +206,8 @@ Türk Silahlı Kuvvetlerinin faaliyetleri ile ilgili alanlarda Genelkurmay Başk
 Bu kapsamdaki personel ilgili mevzuatında yer alan süre sınırlamalarına tabi olmaksızın ihtiyaç duyulan hizmet süresince kurumlarından aylıksız izinli olarak da bu madde hükümleri uyarınca Genelkurmay Başkanlığınca görevlendirilebilir. Aylıksız izinli çalışanlara çalıştıkları görevler dikkate alınarak bu madde hükümleri uyarınca ödeme yapılır ve bunların Sosyal Güvenlik Kurumu ile ilişkileri kendi kurumlarındaki statüleri dikkate alınarak devam ettirilir. Bunlardan aylıksız izinli olarak çalıştırılanların Genelkurmay Başkanlığında geçen süreleri kazanılmış hak aylık derece ve kademelerinde değerlendirilir ve bu süreler terfi ve emekliliklerinde hesaba katılır. Terfileri başkaca bir işleme gerek duyulmadan süresinde yapılır.
 Bu madde uyarınca çalıştırılan Genelkurmay Başkanı danışmanlarının sözleşme veya görevlendirmeleri Genelkurmay Başkanının görev süresinin sona erdiği tarihte hiçbir işleme gerek kalmaksızın sona ermiş sayılır. Kamu kurum ve kuruluşları ile kamu tüzel kişiliğini haiz kurumların personeli bu fıkrada sayılan hallerde hiçbir işleme gerek kalmaksızın kendi kurumlarındaki kadro veya pozisyonlarına dönerler.
 Bu madde uyarınca, aylıksız izinli olanlar hariç, sözleşmeli olarak çalıştırılacak personel, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılır.
+Ek Madde 30-(Ek: 13/7/2013-6496/22)
+Bu Kanun hükümlerine göre aylık almakta iken; terörle mücadele görevi sırasında veya bu görevinden dolayı alıkonulan ya da kaybolanların ailelerine 145 inci madde esaslarına göre aylık ödenir. Bunlardan sonradan dönenlerin durumları mensup oldukları kuvvet komutanlıklarınca teşkil edilecek kurul tarafından incelenir. Kaçırılma ile ilgili olarak kusurlu görülenler hakkında soruşturma dosyası tanzim edilerek yetkili makamlara intikal ettirilir. Bu kişilerin terfi ve diğer özlük işlemleri adli birimlerce verilecek karara göre düzenlenir.
 ONBEŞİNCİ KISIM
 Geçici Maddeler
 General ve amirallerin hizmete devamları:
@@ -237,7 +241,7 @@ Geçici Madde 12 – Silahlı Kuvvetlerde halen askeri memur olarak bulunanlara,
 (Ek: 11/6/1970 - 1301/3 md.) Şu kadar ki 25 fiili hizmet yılını dolduruncaya kadar yaş haddi sebebiyle emekliye sevk edilmezler.
 Erken bekleme süresine tabi olanlar:
 Geçici Madde 13 – Bu Kanunun yürürlüğe girdiği tarihte, Deniz Kuvvetleri Komutanlığında üsteğmen, binbaşı; Hava Kuvvetleri Komutanlığında uçucu üsteğmen, yüzbaşı ve binbaşı rütbelerinde bulunan subayların, bulundukları rütbelere ait bekleme süreleri; 4273 sayılı Kanunun 5611 sayılı Kanunla değişik 10 uncu maddesinde yazılı sürelerdir. Bunlar diğer rütbelere terfilerinde bu Kanunda yazılı bekleme sürelerine tabidirler.
-4448-2 4449
+4449
 Subay ve astsubayların kademe ilerleme intibakları:
 Geçici Madde 14 – (Değişik: 31/7/1970 - 1323/14 md.)
 Halen aynı rütbe ve rütbe kıdemliliğinde bulunan ve kıdem süreleri farklı olan subay, astsubay, uzman erbaş ve uzman jandarma çavuşların bulundukları rütbe ve rütbe kıdemliliğinin gösterge tablolarında gösterilen kademelerine intibaklarında;
@@ -360,10 +364,10 @@ b) Bulunduğu rütbede veya rütbe kıdemliliğinde terfi edebileceği bir kadem
 c) Sicil notu müsait olmak.
 2. Bir üst derece aylığına yükselen subay ve astsubaylar yeni derecelerinin 1 inci kademesine de yükselmiş sayılırlar.
 3. Bir üst dereceye yükselemeyenler ile rütbe terfii imkanı kalmayanlar ek gösterge tablolarındaki kademeler dahilinde kademe ilerlemesi ettirilebilirler.
-4454-4
 Ordu Yardımlaşma Kurumu aidatlarının kesilmesi:
 Ek Geçici Madde 2 – (Ek: 31/7/1970 - 1323/17 md.)
 205 sayılı Ordu Yardımlaşma Kurumu Kanunu gereğince daimi ve geçici üyelerden alınmakta olan aidatlar 1/3/1970 tarihinden geçerli olmak üzere 18 inci maddenin (A) fıkrası esaslarına göre ödenecek yeni aylıkları üzerinden kesilir. 1/3/1970 tarihi ile yeni aylıkların fiilen ödenmeye başlandığı süre arasındaki aidat farkları, aylık farklarının ödendikleri tarihlerde 205 sayılı Kanunun 31 inci maddesi hükümlerine göre kesilir.
+4454-4
 Ders ücretleri tespit edilinceye kadar uygulanacak hükümler:
 Ek Geçici Madde 3 – (Ek: 31/7/1970 - 1323/17 md.)
 Bu kanunun 150 nci maddesi hükümleri uygulanıncaya kadar orta ve eşidi dereceli askeri okullarda ek ders saati için 10, yüksek dereceli okullarda ek ders saat için 25 lira ödenir.
@@ -614,7 +618,8 @@ Kanunun 49 uncu maddesinin (b) bendindeki Jandarma Genel Komutanlığına ait bu
 Ek Geçici Madde 73 – (Ek: 29/7/1998 - 4376/7 md.)
 Türk Silahlı Kuvvetlerinden 31/12/1984 tarihi ile 3/7/1992 tarihleri arasında emekli, adi malullük veya vazife malullüğü aylığına müstehak olarak ayrılan astsubaylar ile bunlardan dolayı kendilerine dul ve yetim aylığı bağlananların emekli aylıkları, bu Kanunun ek 25 inci maddesinde öngörülen şartları haiz olmak kaydıyla, aylık almakta oldukları gösterge rakamından az olmamak üzere 1 inci derecenin gösterge rakamlarına yükseltilir. Ancak, bunlara geçmişe yönelik aylık ve ikramiye farkı ödenmez.
 Ek Geçici Madde 74 – (Ek: 29/7/1998 - 4376/7 md.)
-926 sayılı Türk Silahlı Kuvvetleri Personel Kanununa 29/9/1988 tarihli ve 3475 sayılı Kanunla eklenen ve Anayasa Mahkemesinin 24/4/1993 tarihli Resmi Gazetede yayımlanan 31/12/1992 tarihli ve 1992/40 Esas, 1992/55 Karar sayılı kararı ile iptal edilen terfide baraj sistemine ilişkin hükümler nedeniyle, bir üst rütbeye terfi edemeyen subay ve astsubayla-
+926 sayılı Türk Silahlı Kuvvetleri Personel Kanununa 29/9/1988 tarihli ve 3475 sayılı Kanunla eklenen ve Anayasa Mahkemesinin 24/4/1993 tarihli Resmi Gazetede yayımlanan
+31/12/1992 tarihli ve 1992/40 Esas, 1992/55 Karar sayılı kararı ile iptal edilen terfide baraj sistemine ilişkin hükümler nedeniyle, bir üst rütbeye terfi edemeyen subay ve astsubayla-
 4464-3
 rın terfi edemedikleri süreleri yeniden değerlendirilir. Bunlara, 926 sayılı Kanunun emsallerine uygulanan terfi şartlarına ilişkin hükümler uygulanarak terfiye hak kazananların terfileri yapılır ve yeni rütbe nasıpları düzeltilir. Bu işleme emsallerine yetişinceye kadar sonraki yıllarda da devam edilir.
 Yeni rütbe nasıp tarihlerine göre rütbe kıdemliliği onayı yapılması gerekenlerin, şartları haiz iseler rütbe kıdemlilikleri onanır. Kıdemlilik onayları hak ettikleri tarihe götürülür.
@@ -670,6 +675,8 @@ Ek Geçici Madde 89 – (Ek: 19/6/2010-6000/19 md.)
 Astsubaylıktan muvazzaf subaylığa geçirilenlerden dört yıl süreli fakülte veya yüksekokul mezunu olmayanların, bu Kanunun 37 nci maddesinin birinci fıkrasının (b) bendinin (2) numaralı alt bendine göre yapılan kıdem sırasındaki yeri yedek subaylardan sonra gelir.
 Ek Geçici Madde 90 – (Ek: 19/6/2010-6000/19 md.)
 Bu maddeyi ihdas eden Kanunun yürürlüğe girdiği tarihten önce askeri öğrencilikten ayrılan veya ilişikleri kesilenlerden, kendilerine tahakkuk ettirilen borçlarını ödemiş yahut taksitlendirmiş olanlar ile yargılamaları devam edenler veya kesin hükme bağlanmış olanlar, üç ay içerisinde müracaat etmeleri halinde 18 inci, 68 inci ve 115 inci maddelerin hükümlerinden yararlandırılır.
+Ek Geçici Madde 91- (Ek: 13/7/2013-6496/23 md.)
+2 Eylül 1993 tarihinden önce astsubaylıktan subaylığa geçen ve bu Kanunun ek geçici 80 inci maddesi uyarınca binbaşılığa yükselenlerin ve hâlen görevde olanların yaş hadleri, bu Kanunun 32 nci maddesinde yer alan rütbelerinde en çok kalabilecekleri süreye bakılmaksızın, binbaşılıkta 55, yarbaylıkta 56’dır.
 DÖRDÜNCÜ BÖLÜM
 Çeşitli Hükümler
 1 - Orta - Doğu Amme İdaresi Enstitüsünü bitirenlere kıdem verilmiyeceği:
@@ -700,7 +707,7 @@ i) 19 Haziran 1942 gün ve 4273 sayılı Subaylar Heyetine Mahsus Terfi Kanunu i
 j) 21 Şubat 1947 gün ve 5027 sayılı Temsil Ödeneği Kanunu ile ek ve değişikliklerinin bu Kanuna aykırı hükümleri
 k) 2 Temmuz 1951 gün ve 5802 sayılı Astsubay Kanunu ile ek ve değişiklikleri (Birinci maddesi hariç)
 l) 25 Mart 1953 gün ve 6077 sayılı Subay ve Askeri Memurların mecburi hizmetleri ve istifaları hakkında Kanun ile ek ve değişiklikleri.
-4464-8 4465
+4465
 m) 18 Nisan 1956 gün ve 6725 sayılı Jet Tayyareciliği Uçuş Hizmetleri Tazminat Kanunu ile ek ve değişiklikleri,
 n) 13 Temmuz 1956 gün ve 6801 sayılı Askeri Memurların Subaylığa Nakilleri hakkında Kanun ile ek ve değişiklikleri,
 o) 15 Mayıs 1957 gün ve 6966 sayılı Ordu Mensuplarının Nakil ve Tayinleri hakkındaki Kanun,
@@ -916,6 +923,7 @@ IV Sayılı Ek Gösterge Cetveli (Ek: 9/4/1990 - KHK - 418/17 md.; İptal Ana. M
 İtibaren Uy- İtibaren Uy-
 gulanacak Ek gulanacak Ek
 UNVANI DERECE Göstergeler Göstergeler
+____________________________________________________________________
 a) I inci derecede 6 yılını tamamlamış ve
 askeri yüksek yargı organları üyeliğine se-
 çilme hakkını kaybetmemiş olanlara, 1 5000 5800

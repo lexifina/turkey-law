@@ -19,13 +19,14 @@ oluşur.
 (9) Yönetim Kurulu üyelerinin görev süresi dört yıldır. Başkan ve Başkan yardımcıları dışındaki üyelerin aslî görevleri devam eder.
 (10) Sekizinci fıkraya göre görevlendirilen temsilcilerin kurumlarındaki görevlerinden ayrılmaları hâlinde, Yönetim Kurulundaki görevleri de sona erer. Bunların yerine, kalan süreyi tamamlamak üzere ilgili kurumlar tarafından yeni temsilciler görevlendirilir.
 (11) Yönetim Kurulunun görevleri şunlardır:
-a) Sınav sorularının hazırlanması veya sınavların yapılması için gerekli görevlileri belirlemek ve komisyonları oluşturmak.
+a) Sınav sorularının hazırlanması veya sınavların yapılması için gerekli ilkeleri belirlemek. (2)
 b) Sınavların yürütülmesinde gerekli kılavuz, açıklama ve belgeleri onaylamak.
 c) Yükseköğretim Kurulunun öngördüğü sınavları aksatmayacak biçimde diğer kurumlardan gelen talepleri karşılamak üzere, Başkanlığın yıllık iş programını oluşturmak.
 ç) Sınav, ölçme, değerlendirme ve yerleştirme faaliyetlerine yönelik olarak adaylardan veya kurumlardan alınacak hizmet bedellerini ve bedel alınmayacak hizmetleri, kişi, kurum ve kuruluş itibarıyla tespit etmek.
 d) Gerekli hâllerde sınavların kısmen veya tamamen iptaline, ertelenmesine, adayların eşdeğer sınavlara alınmasına veya aday işlemlerinin geçersiz sayılmasına ve sorumlular hakkında gerekli işlemlerin başlatılmasına karar vermek.
 –––––––––––––––
 (1) 4/7/2012 tarihli ve 6353 sayılı Kanunun 47 nci maddesiyle, bu fıkranın birinci cümlesinde yer alan “yedi” ibaresi “sekiz” şeklinde değiştirilmiştir.
+(2) 12/7/2013 tarihli ve 6495 sayılı Kanunun 53 üncü maddesiyle, bu bentte yer alan “görevlileri belirlemek ve komisyonları oluşturmak” ibaresi “ilkeleri belirlemek” şeklinde değiştirilmiştir.
 11423
 e) Sınav koordinatörlükleri ile buralarda görevlendirilenlerin görevlerini belirlemek.
 f) Bakanlar Kuruluna sunulmak üzere, doğrudan merkeze bağlı olarak kurulacak temsilciliklerin yeri ve sayısı hakkında kararlar almak.

@@ -1,8 +1,8 @@
 Yönetmelikler:
 Madde 65 –
-58. Aşağıdaki hususlar Yükseköğretim Kurulu tarafından çıkarılacak yönetmeliklerle düzenlenir:
-(58) Yükseköğretim Kurulunun teşkilatı, çalışma usulleri, üyelerinin seçimi ve yetkisinde olan seçim ve atamalarla ilgili hususlar,
-(2) Yükseköğretim Denetleme Kurulunun kuruluş ve işleyişi,denetleme usul ve esasları ile ilgili hususlar,
+a. Aşağıdaki hususlar Yükseköğretim Kurulu tarafından çıkarılacak yönetmeliklerle düzenlenir:
+(1) Yükseköğretim Kurulunun teşkilatı, çalışma usulleri, üyelerinin seçimi ve yetkisinde olan seçim ve atamalarla ilgili hususlar,
+(2) Yükseköğretim Denetleme Kurulunun kuruluş ve işleyişi, denetleme usul ve esasları ile ilgili hususlar,
 5380-2
 (3) (Mülga: 17/2/2011-6114/11 md.)
 (4) Bu kanun kapsamındaki yükseköğretim kurumlarında yardımcı doçentlik, doçentlik ve profesörlüğe yükseltilme ve atanma işlemleri,

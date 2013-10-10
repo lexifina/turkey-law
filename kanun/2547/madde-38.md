@@ -2,7 +2,7 @@ Kamu kuruluşları ve vakıflarda görevlendirme: (2)
 Madde 38 – (Değişik: 29/11/1983 - KHK - 243/46 md.)
 (Değişik birinci fıkra: 21/1/2010-5947/4 md.) Öğretim elemanları; ilgili kurumların talebi ve kendisinin muvafakati, üniversite yönetim kurulunun uygun görmesi ve rektörün onayı ile ihtiyaç duyulan konularda, özlük işlemleri kendi kurumlarınca yürütülmek kaydıyla, diğer kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşlarında geçici olarak görevlendirilebilir. Bu şekilde görevlendirilenlerin, kadrosunun bulunduğu yükseköğretim kurumlarındaki aylık ve diğer ödemeler ile öteki hakları devam eder. Yükseköğretim Kurulu, bağlı birimleri ve Üniversitelerarası Kurul ile Adli Tıp Kurumunda görevlendirilenler hariç olmak üzere bu fıkra uyarınca görevlendirilenler döner sermayeden yararlanamaz.
 ——————————
-(1) Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu fıkra iptal edilmiş olup iptal hükmünün, kararın Resmî Gazete’de yayımlandığı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
+(1) Sözkonusu İptal Kararı Resmî Gazete’de yayımlandığı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
 (2) Bu madde başlığı 17/8/1983 tarihli ve 2880 sayılı Kanunun 20 nci maddesiyle değiştirilmiş ve metne işlenmiştir.
 5367
 (Ek fıkra: 21/1/2010-5947/4 md.)Kamu kurumu niteliğindeki meslek kuruluşları ile dernek ve vakıfların yönetim ve denetim organlarında görev yapanlar bakımından ayrıca bir görevlendirme kararı aranmaz. Ancak bu görevler, öğretim elemanının bu Kanundan kaynaklanan mesaisini aksatmayacak şekilde yürütülür.
