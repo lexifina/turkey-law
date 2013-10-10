@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "23",
+  "decision_date": "2013-10-10",
+  "source_id": 11996,
+  "chamber": "5",
+  "ilam_number": "11",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11996/",
+  "source_sha256": "5aeb4317099f16d5e8aad735d3a4f2d996e5f1c420594960bba799bc3a8b3aab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
