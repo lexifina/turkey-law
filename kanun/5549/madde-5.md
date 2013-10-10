@@ -1,0 +1,2 @@
+Eğitim, iç denetim, kontrol ve risk yönetim sistemleri ile diğer tedbirler
+MADDE 5 – (1) Bakanlık; bu Kanunun amacına uygun olarak eğitim, iç denetim, kontrol ve risk yönetim sistemleri oluşturulması ve bu Kanunla getirilen yükümlülüklere uyumu sağlamak üzere, gerekli yetki ile donatılmış idarî düzeyde görevli tayin edilmesi de dahil, gereken tedbirlerin alınması konusunda, işletme büyüklükleri ve iş hacimlerini de dikkate alarak yükümlüleri ve uygulamaya ilişkin usûl ve esasları belirlemeye yetkilidir.
