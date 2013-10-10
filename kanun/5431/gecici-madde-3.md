@@ -1,0 +1,1 @@
+Geçici Madde 3- Genel Müdürlüğün bu Kanunda belirlenen esaslara göre teşkilatlanmasının tamamlanacağı, İstanbul ve Antalya temsilciliklerinin kurulup faaliyete geçeceği tarihe kadar, anılan yerlerdeki görev ve hizmetler daha önce bu görev ve hizmetleri yapmakta olan birimler veya personel tarafından yapılmaya devam edilir.

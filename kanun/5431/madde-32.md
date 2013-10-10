@@ -1,0 +1,1 @@
+Madde 32- Ekli (1) sayılı listede yer alan kadrolar iptal edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki Ulaştırma Bakanlığına ait cetvelden çıkarılmış, ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (III) sayılı cetvele Sivil Havacılık Genel Müdürlüğü bölümü olarak eklenmiştir.(1)
