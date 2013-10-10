@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "20",
+  "decision_date": "2013-10-10",
+  "source_id": 8786,
+  "chamber": "5",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2010,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8786/",
+  "source_sha256": "ecdcc51f12b63c9b4057e4cba395df538e52aa9a484786f1899162087cfaee2c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
