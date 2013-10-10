@@ -1,0 +1,32 @@
+{
+  "source_id": "9.5.18937",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO:429)",
+  "number": "18937",
+  "path": "teblig/2013/18937",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18937&MevzuatTertip=5",
+  "source_sha256": "3e055808293a4b2131c9f4de3e601d8e178d67b9965648b93035cc850e09cf7f",
+  "source_bytes": 16955,
+  "published": "2013-10-10",
+  "gazette": "28791",
+  "in_force": "2013-10-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.10.2013); own commencement article: \"Bu Tebliğ yayımı tarihini izleyen ayın başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihini izleyen ayın başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1006,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18937-ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
