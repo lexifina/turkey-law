@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-ÖTV 12. MADDE-1669",
+  "source_id": 38113,
+  "date": "2013-10-10",
+  "title": "Bayiler tarafından henüz satışı yapılmadan fiyatı değiştirilen araçlara ilişkin ÖTV matrahı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38113",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "177a0f02e13a489c418295556c53b4babdac5248bbe6d95dc3253327828f5912",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
