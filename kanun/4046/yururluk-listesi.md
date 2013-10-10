@@ -22,3 +22,5 @@ Değiştiren Kanunun/ KHK’nin Numarası | 4046 sayılı Kanunun değişen veya
 6300 | Ek Madde 5 | 10/5/2012
 6338 | 2,10, Geçici Madde 23, 24 | 1/1/2013
 6456 | Geçici Madde 25 | 18/4/2013
+6462 | 21 | 3/5/2013
+Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı | 6 | 10/10/2013

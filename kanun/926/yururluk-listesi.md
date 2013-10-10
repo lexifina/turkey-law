@@ -43,8 +43,14 @@ Yürürlükten Kaldırılan
 Kanun veya Kanun Hükümleri Tarihi Sayısı Maddesi
 Aynı Kanunun, 66 ncı ve 112 nci maddelerinin 3 üncü
 fıkra (d) bendi. 28/6/1978 2159 4
-a) 17/1/1963 tarih ve 144 sayılı Uçuş Hizmetleri Tazminat Kanunu ile 18/4/1963 tarih ve 223 sayılı Denizaltı Dalgıç ve Kurbağa Adam Tazminat Kanunun ve bu Kanunların ek ve değişiklikleri,
-b) 27/7/1967 tarih ve 926 sayılı Türk Silahlı Kuvvetleri Personel Kanunun ek - 5 inci maddesinin; 144 ve 223 sayılı Kanunların uygulanmasına ilişkin olarak albay maaşını tarif eden hükümleri,
+a) 17/1/1963 tarih ve 144 sayılı Uçuş Hizmetleri
+Tazminat Kanunu ile 18/4/1963 tarih ve 223 sayılı
+Denizaltı Dalgıç ve Kurbağa Adam Tazminat
+Kanunun ve bu Kanunların ek ve değişiklikleri,
+b) 27/7/1967 tarih ve 926 sayılı Türk Silahlı
+Kuvvetleri Personel Kanunun ek - 5 inci maddesinin;
+144 ve 223 sayılı Kanunların uygulanmasına ilişkin
+olarak albay maaşını tarif eden hükümleri,
 c) 27/7/1967 tarih ve 926 sayılı Türk Silahlı Kuvvetleri
 Personel Kanunun ek 6 ncı maddesi. 28/2/1982 2629 22
 27/7/1967 tarih ve 926 sayılı Türk Silahlı Kuvvetleri Per-
@@ -53,7 +59,10 @@ Aynı Kanunun 121 inci maddesi (e) bendi. 29/7/1983 2870 19
 Aynı Kanunun 184,185 ve 186 ncı maddeleri. 9/11/1983 2946 12
 Aynı Kanunun Ek - 18 inci maddesinin 1 inci ve 2 nci
 fıkraları. 26/6/1984 KHK/241 40
-6320 sayılı Çavuş ve Uzman Çavuş Kanununun uzman çavuşlarla ilgili hükümleri, 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun, EK - 2 nci maddesinin uzman çavuslarla ilgili hükümleri ile EK - IX sayılı cetve-
+6320 sayılı Çavuş ve Uzman Çavuş Kanununun uzman
+çavuşlarla ilgili hükümleri, 926 sayılı Türk Silahlı
+Kuvvetleri Personel Kanununun, EK - 2 nci maddesinin
+uzman çavuslarla ilgili hükümleri ile EK - IX sayılı cetve-
 lin uzman çavuşlar için aylık gösterge tablosu. 18/3/1986 3269 20
 23/1/1981 tarih ve 2377 sayılı Kanunun 2 nci Maddesi-
 nin Birinci Fıkrası 5/9/1988 KHK/342 2
@@ -92,7 +101,8 @@ b) 4/1/1961 tarihli ve 213 sayılı Kanunun 3418 sayılı Kanununun 32 nci madde
 c) 6/3/1991 tarihli ve 3701 sayılı Kanunun 42 nci maddesi,
 d) 8/5/1991 tarihli ve 3717 sayılı Adli Personel ile Devlet Davalarını Takip Edenlere Yol Gideri ve Tazminat Verilmesi ile 492 sayılı Harçlar Kanununun Bir Maddesinin Yürürlükten Kaldırılması Hakkında Kanunun 2 nci maddesinin altıncı fıkrasında yer alan "Bu hesaba yatırılan paraların % 10'u her ayın ilk haftası içinde Ankara'da bir kamu bankasında açtırılan Adalet Bakanlığı merkez hesabına gönderilir. Mahalli hesapta toplanan paraların arta kalanı o yargı çevresinde görevli adli yargı hakim ve savcıları ile adli yargıda görevli yazı işleri müdürü, zabıt katibi, mübaşir, icra müdürü, icra müdür yardımcısı ile diğer personeline (ceza infaz kurumları personeli hariç) ayda bir eşit miktarda ödenir." cümleleri ile 7 ve 8 inci fıkraları,
 e) Diğer kanun ve kanun hükmünde kararnamelerin bu Kanun Hükmünde Kararnameye aykırı hükümleri,
-f) 9/4/1990 tarihli ve 418 sayılı Kanun Hükmünde Kararnamenin 37 nci maddesinin 23/1/1987 tarih ve 270 sayılı Kanun Hükmünde Kararnamenin 1,2 ve 3 üncü maddelerinde yer alan Yüksek Hakimlik Tazminatı göstergelerinin 1/1/1992 ve müteakip yıllarda yükseltilerek uygulanmasına ilişkin hükümleri ile 20 nci maddesi, 5/7/1991 KHK/433 16
+f) 9/4/1990 tarihli ve 418 sayılı Kanun Hükmünde Kararnamenin 37 nci maddesinin 23/1/1987 tarih ve 270 sayılı Kanun Hükmünde Kararnamenin 1,2 ve 3 üncü maddelerinde yer alan Yüksek Hakimlik Tazminatı göstergelerinin 1/1/1992 ve müteakip yıllarda yükseltilerek uygulanmasına ilişkin hükümleri ile 20 nci maddesi,
+5/7/1991 KHK/433 16
 27/7/1967 tarihli ve 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun Ek geçici 53 üncü maddesi ile 3593
 sayılı Kanunun geçici maddesi 6/5/1993 3909 2
 27/7/1967 tarih ve 926 sayılı Kanunun Ek 3 üncü maddesine 418 sayılı KHK'nin 19 uncu maddesiyle eklenen ek
@@ -105,6 +115,8 @@ d) 28/2/1982 tarihli ve 2629 sayılı Uçuş, Paraşüt, Denizaltı, Dalgıç ve
 Yürürlükten Kaldıran Mevzuatın
 Yürürlükten Kaldırılan
 Kanun veya Kanun Hükümleri Tarihi Sayısı Maddesi
-27/7/1967 tarih ve 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun 158, 159, 160 ve 161 inci maddeleri 2/12/1993 3920 2
-27/4/1967 tarih ve 926 sayılı Kanunun 24 üncü maddesinin birinci fıkrasının (c) bendi 19/4/2000 4564 4
+27/7/1967 tarih ve 926 sayılı Türk Silahlı Kuvvetleri Per-
+sonel Kanununun 158, 159, 160 ve 161 inci maddeleri 2/12/1993 3920 2
+27/4/1967 tarih ve 926 sayılı Kanunun 24 üncü maddesi-
+nin birinci fıkrasının (c) bendi 19/4/2000 4564 4
 4473

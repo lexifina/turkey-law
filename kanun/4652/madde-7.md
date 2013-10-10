@@ -1,5 +1,5 @@
 Akademi Yönetim Kurulunun kuruluş, işleyiş ve görevleri
-Madde 7 - Başkanın başkanlığında, dekan, enstitü müdürü, Başkanın polis meslek yüksek okulu müdürleri arasından seçeceği beş, öğretim elemanları arasından seçeceği bir üyeden oluşur.
+Madde 7 — Başkanın başkanlığında, dekan, enstitü müdürü, Başkanın polis meslek yüksek okulu müdürleri arasından seçeceği beş, öğretim elemanları arasından seçeceği bir üyeden oluşur.
 Akademi Yönetim Kurulu Akademinin idari faaliyetlerinde;
 a) Faaliyet plân ve programlarının uygulanmasını sağlamak,
 b) Akademinin bütçe ve kadro tekliflerini hazırlamak,

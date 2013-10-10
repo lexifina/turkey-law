@@ -18,3 +18,7 @@ KHK/666 | 58 58 | 31/12/2011 tarihinden geçerli olmak üzere 2/11/2011 15/1/201
 6354 | 58 | 12/7/2012
 6456 | Ek Madde 7 | 18/4/2013
 6487 | 39 | 11/6/2013
+5394-4
+Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesi Kararının Numarası | 2547 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı | 36 ncı maddenin altıncı fıkrası ile Geçici Madde 59 | 1/1/2013 tarihinden başlayarak altı ay sonra (1/7/2013)
+Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı | 58 | 10/10/2013

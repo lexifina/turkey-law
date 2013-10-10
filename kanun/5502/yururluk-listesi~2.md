@@ -4,3 +4,5 @@ Değiştiren Kanunun/ KHK’ninNumarası | 5502 sayılı Kanunun değişen veya 
 6270 | 28, 35 | 26/1/2012
 6385 | 5, 6, Ek Madde 4, Geçici Madde 10 | 19/1/2013
 6486 | 5 | 29/5/2013
+6495 | 28, 30 | 2/8/2013
+Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı | 28 | 10/10/2013

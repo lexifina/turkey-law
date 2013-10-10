@@ -16,3 +16,5 @@ KHK/665 | 5, 6, 12/A, 13, 14, 15, 28, 29, 39, Geçici Madde 15, 1 Sayılı Cetve
 KHK/666 | 39 | 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
 6331 | Ek Madde 2 | 30/6/2012
 6462 | 2 | 3/5/2013
+6495 | 15, 29, Ek Madde 3 | 2/8/2013
+Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı | 39 | 10/10/2013

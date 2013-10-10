@@ -1,8 +1,10 @@
 6004 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER
-1-13/2/2011 tarihli ve 6111 sayılı Kanunun 212 nci maddesi: (1)
+1-13/2/2011 tarihli ve 6111 sayılı Kanunun 212 nci maddesi: (2)
 MADDE 212-Ekli (2) sayılı listede yer alan kadrolar iptal edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Dışişleri Bakanlığına ait bölümünden çıkarılmış, ekli (3) ve (4) sayılı listelerde yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Dışişleri Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığına ait bölümlerine eklenmiştir.
+_
 ____________________________
-(1) Bu maddedede yer alan kadrolarla ilgili olarak 25/2/2011 tarihli ve 27857 (1.Mükerrer) sayılı Resmi Gazete’ye bakınız.
+(1) 11/10/2011 tarihli ve 666 sayılı KHK ile bu fıkrada yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
+(2) Bu maddedede yer alan kadrolarla ilgili olarak 25/2/2011 tarihli ve 27857 (1.Mükerrer) sayılı Resmi Gazete’ye bakınız.
 10654
 (1) SAYILI LİSTE(1)
 MESLEK MEMURLARININ UNVANI
