@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6498",
+  "year": 2013,
+  "title": "Kültür ve Tabiat Varlıklarını Koruma Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-10-11",
+  "gazette_issue": "28792",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131011-1.htm",
+  "source_sha256": "cc5befd51ed6e34ab6db0d1a5f216b9c5ae6241cd6bd95222b85b240d8518daa",
+  "text_sha256": "b0de7c2f58d89d359a24f8a04b89a2a0e997a16053c98cf5fade6a318e8e6064",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/10/11/28792-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131011-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
