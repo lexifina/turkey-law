@@ -1,5 +1,6 @@
 2863 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
-MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
+MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL
+EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
 GÖSTERİR LİSTE
 Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası | 2863 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 3386 | — | 24/6/1987
@@ -14,3 +15,4 @@ Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numara
 KHK/648 | 3, 17, 18, 48, 51, 53, 55, 57, 58, 61, Ek Madde 4, Geçici Madde 9, Geçici Madde 10 | 17/8/2011
 KHK/653 | Ek Madde 4 | 17/9/2011
 KHK/662 | Ek Madde 4 | 2/11/2011
+6498 | 7, 8, 65 | 11/10/2013
