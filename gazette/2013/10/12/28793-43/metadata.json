@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-10-12",
+  "issue": "28793",
+  "edition": "regular",
+  "item": 43,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARLARI",
+  "title": "1049 Türk Silahlı Kuvvetlerinin, Irak’ın Kuzeyinden Ülkemize Yönelik Terör Tehdidinin ve Saldırılarının Bertaraf Edilmesi Amacıyla, Sınır Ötesi Harekât ve Müdahalede Bulunmak Üzere, Irak’ın PKK Teröristlerinin Yuvalandıkları Kuzey Bölgesi ile Mücavir Alanlara Gönderilmesi ve Görevlendirilmesi İçin Türkiye Büyük Millet Meclisinin 17.10.2007 Tarihli ve 903 Sayılı Kararıyla Hükümete Verilen ve 08.10.2008, 06.10.2009, 12.10.2010, 05.10.2011 ve 11.10.2012 Tarihli 929, 948, 975, 1005 ve 1026 Sayılı Kararları ile Birer Yıl Uzatılan İzin Süresinin Anayasanın 92 nci Maddesi Uyarınca 17.10.2013 Tarihinden İtibaren Bir Yıl Daha Uzatılmasına Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131012-43.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131012.htm",
+  "index_sha256": "ab34573a108f3e09e2e0ca9db3f06d9fc509aac566dba2ea0b83bf06cf4dace0",
+  "index_header": "12 Ekim 2013 ... 28793 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131012.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
