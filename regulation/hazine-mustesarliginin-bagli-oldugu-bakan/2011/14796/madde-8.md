@@ -1,0 +1,2 @@
+Yaptırım
+MADDE 8 – (1) Nakit taleplerine ilişkin bildirimlerin bu Yönetmeliğin 5 inci maddesinin ikinci fıkrası (c) bendinde (Mülga ibare: RG-12/10/2013-28793) (…) belirtilen süreler içerisinde NTAS üzerinden Müsteşarlığa iletilmemesi durumunda 7 nci maddesi birinci fıkrasında sayılan kişiler hakkında, 28/3/2002 tarihli ve 4749 sayılı Kanunun 14/A maddesinin birinci fıkrasının (ı) bendi uyarınca idari para cezası uygulanır. Söz konusu (Değişik ibare: RG-12/10/2013-28793) süreye ilişkin ihlalin tespitinde NTAS kayıtları esas alınır.
