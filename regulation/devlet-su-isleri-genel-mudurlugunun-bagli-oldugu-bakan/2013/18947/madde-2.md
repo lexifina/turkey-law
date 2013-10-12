@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; kullanma belgesine bağlanmış yeraltı suyu kuyusu, galeri, tünel ve benzerlerinden belgesinde belirtilen miktarda yeraltı suyunun çekilmesini kontrol edecek ölçüm sistemlerinin; çeşitleri, özellikleri ve denetimine ilişkin hükümler ile ölçüm sistemi kurulmasını gerektirecek yeraltı suyunun; kullanım maksadı, çekilecek yeraltı suyu miktarı, havza sınırı ve diğer hususların, havzadaki yeraltı suyu rezervi, yeraltı suyuna duyulan içme ve kullanma, zirai, sanayi ve diğer ihtiyaçlar göz önüne alınarak belirlenmesini kapsar.
