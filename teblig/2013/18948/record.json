@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.18948",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2013/8)",
+  "number": "18948",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2013/18948",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18948&MevzuatTertip=5",
+  "source_sha256": "264641edefe2f4004c3e0a2c90a0d9cbf0f724b90d61f53a69f1f442412d2cf5",
+  "source_bytes": 44470,
+  "published": "2013-10-12",
+  "gazette": "28793",
+  "in_force": "2013-10-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.10.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 273,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
