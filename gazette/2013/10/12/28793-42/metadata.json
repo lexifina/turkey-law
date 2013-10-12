@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-10-12",
+  "issue": "28793",
+  "edition": "regular",
+  "item": 42,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARLARI",
+  "title": "1048 Türkiye Büyük Millet Meclisi Komisyonları Üyeliklerine Yapılan Seçime Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131012-42.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131012.htm",
+  "index_sha256": "ab34573a108f3e09e2e0ca9db3f06d9fc509aac566dba2ea0b83bf06cf4dace0",
+  "index_header": "12 Ekim 2013 ... 28793 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131012.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
