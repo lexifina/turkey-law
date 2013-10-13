@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-10-13",
+  "issue": "28794",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İş Kolu Tespit Kararı (No: 2013/46",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131013-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131013.htm",
+  "index_sha256": "2e8de9b3f5edb8d698e43e3cbb1f5ee2cef17825844598280039633517bba31d",
+  "index_header": "13 Ekim 2013 ... 28794 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131013.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
