@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-10-14",
+  "issue": "28795",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2013/5451 Türkiye Cumhuriyeti Hükümeti ile Moğolistan Hükümeti Arasında 2013-2016 Yıllarına İlişkin Kültürel, Eğitsel ve Bilimsel Değişim Programının Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131014-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131014.htm",
+  "index_sha256": "b3a2dfbfb0695e990ca61803968ee7c3bd1d91c8a0370330529f77382a81171f",
+  "index_header": "14 Ekim 2013 ... 28795 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131014.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
