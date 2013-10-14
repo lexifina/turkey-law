@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "4659/3",
+  "decision_date": "2013-10-14",
+  "title": "Shell&Turcas Petrol Anonim Şirketi’nin PİL/3212-6/29444 sayılı iletim lisansı kapsamında Liman Mahallesi Akdeniz Bulvarı (8905 ada 1 Parsel) No:733/ANTALYA adresinde faaliyette bulunan iletim tesisine ilişkin iletim tarifesi",
+  "resmi_gazete_date": "2013-10-26",
+  "resmi_gazete_number": "28803",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/nhPeCoxEwk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/nhPeCoxEwk="
+  ],
+  "source_sha256": "f98dc46c337a2c0e16f6f53d7a705070f83e9d982ada67ec43a31d0c2e06ec27",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-10-14",
+  "law_text_complete": false
+}
