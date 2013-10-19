@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-10-19",
+  "issue": "28796",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Nevşehir Üniversitesi Türkçe ve Yabancı Dil Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131019-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131019.htm",
+  "index_sha256": "f6da7a792205270faeb5620e6da96ae63cb9183f8d96c08ac295b7ba5830b33a",
+  "index_header": "19 Ekim 2013 ... 28796 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131019.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
