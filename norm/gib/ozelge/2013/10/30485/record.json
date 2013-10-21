@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-130[9-2014]-164",
+  "source_id": 30485,
+  "date": "2013-10-21",
+  "title": "Fason olarak yapılan iplik imalatı sırasında bu işleri yapanlar tarafından likra hammaddesi ilave edilmesi durumunda tevkifat yapılıp yapılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30485",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "fa114fb2c5f207a25c91ba5b2413f47f979f03a6eb86b4caa35bc71ccd24a56f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
