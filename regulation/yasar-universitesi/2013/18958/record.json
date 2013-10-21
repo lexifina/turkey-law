@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.18958",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "YAŞAR ÜNİVERSİTESİ ULUSLARARASI HUKUK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "number": "18958",
+  "issuer": "YAŞAR ÜNİVERSİTESİ",
+  "issuer_slug": "yasar-universitesi",
+  "path": "regulation/yasar-universitesi/2013/18958",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18958&MevzuatTertip=5",
+  "source_sha256": "a57ca062778005f0048f30be226f4ae5dc604ee2897d35f70a3fc2aa1c80320e",
+  "source_bytes": 18688,
+  "published": "2013-10-21",
+  "gazette": "28798",
+  "in_force": "2013-10-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.10.2013); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 866,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
