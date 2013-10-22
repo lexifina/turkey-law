@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4669/19",
+  "decision_date": "2013-10-22",
+  "title": "Meram Elektrik Dağıtım Anonim Şirketi’nin; 2013 yılı dağıtım, iletim ve sayaç okuma gelir tavanlarının, 26/09/2013 tarih ve 4632 sayılı Kurul kararı ile revize edilen dağıtım gelir gereksinimi dikkate alınarak revize edilmesine ilişkin",
+  "resmi_gazete_date": "2013-11-10",
+  "resmi_gazete_number": "28817",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BbKrMrwxDjM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BbKrMrwxDjM="
+  ],
+  "source_sha256": "8e79391883123489d625e3e976d844fb33d34e36b27c7d6bc6b08f038edbef50",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-10-22",
+  "law_text_complete": false
+}
