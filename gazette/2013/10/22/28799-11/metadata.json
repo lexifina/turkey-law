@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-10-22",
+  "issue": "28799",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Mimar Sinan Güzel Sanatlar Üniversitesi Grafik Tasarımı Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131022-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131022.htm",
+  "index_sha256": "89a326429c4b6786ba5842df1155ca3fe71c81e2e2ef646edbf327247bd01fa3",
+  "index_header": "22 Ekim 2013 ... 28799 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131022.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
