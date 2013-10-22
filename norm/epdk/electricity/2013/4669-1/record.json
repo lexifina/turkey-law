@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4669/1",
+  "decision_date": "2013-10-22",
+  "title": "Akdeniz Elektrik Dağıtım Anonim Şirketi’nin; 2013 yılı dağıtım, iletim ve sayaç okuma gelir tavanlarının, 26/09/2013 tarih ve 4632 sayılı Kurul kararı ile",
+  "resmi_gazete_date": "2013-11-10",
+  "resmi_gazete_number": "28817",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hOV/LyOXR/c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hOV/LyOXR/c="
+  ],
+  "source_sha256": "61e284e764c774192a251576737fdc4c6f9eef5ff6a8cfbebad01609e1a54f4a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-10-22",
+  "law_text_complete": false
+}
