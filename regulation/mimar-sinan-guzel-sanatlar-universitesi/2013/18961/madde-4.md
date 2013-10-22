@@ -1,0 +1,9 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Merkez: Mimar Sinan Güzel Sanatlar Üniversitesi Grafik Tasarımı Uygulama ve Araştırma Merkezini,
+b) Merkez Danışma Kurulu: Merkezin Danışma Kurulunu,
+c) Merkez Müdürü: Merkezin Müdürünü,
+ç) Merkez Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+d) Rektör: Mimar Sinan Güzel Sanatlar Üniversitesi Rektörünü,
+e) Üniversite: Mimar Sinan Güzel Sanatlar Üniversitesini (MSGSÜ),
+ifade eder.
