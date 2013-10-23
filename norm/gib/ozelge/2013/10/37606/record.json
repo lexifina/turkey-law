@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70903105-622.01[5601-1399]-46579",
+  "source_id": 37606,
+  "date": "2013-10-23",
+  "title": "Mal mukabili ödeme şekline göre yapılan kitap ithalatında KKDF uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/37606",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "64cc74d1f6cff2aec32779c633a2aecb750fd18ac8e8a3578eceffa2288cc3a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
