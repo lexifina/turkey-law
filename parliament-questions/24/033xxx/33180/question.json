@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 24,
+  "legislative_year": 4,
+  "esas_no": "7/33180",
+  "submitted": "2013-10-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa Sezgin TANRIKULU",
+  "province": "İstanbul",
+  "summary": "Bakanlığa bağlı kurum ve kuruluşlarda çalışan taşeron işçilerin sayısı ile mali haklarına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bf-6e8e-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "2d266496cec97b2ec56e3b65b4eb1cf1f3ea2d47d5198f50608f2dfdeb15ff27",
+  "in_force": "2013-10-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
