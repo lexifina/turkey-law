@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-10-23",
+  "issue": "28800",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Göç İdaresi Genel Müdürlüğü Sözleşmeli Yabancı Uzman Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131023-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131023.htm",
+  "index_sha256": "7addf8cfe1967ee1482362750f6e857cb584bfc091d1ce9914dbe92f2b1c584b",
+  "index_header": "23 Ekim 2013 ... 28800 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131023.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
