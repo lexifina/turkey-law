@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-10-24",
+  "issue": "28801",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Tehlikeli Maddelerin Karayoluyla Taşınması Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131024-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131024.htm",
+  "index_sha256": "aca45bc87c4583de6507e9be58516524285cb57817ad1d5b35b654c9fe36ebb5",
+  "index_header": "24 Ekim 2013 ... 28801 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131024.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
