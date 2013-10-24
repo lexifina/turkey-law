@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "163",
+  "decision_date": "2013-10-24",
+  "source_id": 7351,
+  "chamber": "3",
+  "ilam_number": "113",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7351/",
+  "source_sha256": "9cbc19283fadbf0c81453370840520674f103f0212944ddf841fc24d9503998b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
