@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "404",
+  "date": "2013-10-25",
+  "title": "T. 25.10.2013 E. 2013/112 K. 2013/803",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/404",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=3&yil=2013",
+  "listing_sha256": "2b4ebe51c7ae24369fee8769f4dd9924f3a479c51691a60e942ed87fbb5f50ae",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
