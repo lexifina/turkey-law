@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-130[53.01.37]-100",
+  "source_id": 31446,
+  "date": "2013-10-25",
+  "title": "Türkiye ile yabancı ülkeler arasındaki taşımacılık işlerinde transit beyanname kullanılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31446",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "3d26d303e2b9b4baf6b63db33583caff2f47ae8b538eccc7d1b66d30548da2a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
