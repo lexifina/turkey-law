@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-10-26",
+  "issue": "28803",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Tüpler-Sıvılaştırılmış Petrol Gazı (LPG) ile İlgili Tebliğ (TS EN 1442+A1) (No: MSG-MS-2013/26)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131026-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131026.htm",
+  "index_sha256": "91be10bd6e2e9a39a537bee0757919f17fec465d91b3078d252a5089a89d9b4e",
+  "index_header": "26 Ekim 2013 ... 28803 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131026.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
