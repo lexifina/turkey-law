@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2013/440",
+  "list_number": "440",
+  "decision_date": "2013-10-26",
+  "title": "30 Mart 2014 tarihinde yapılacak olan Mahalli İdareler Genel Seçimlerinde aday olmak isteyen köy korucuları ile geçici köy korucularının görevlerinden istifalarının gerekip gerekmediği hususunda Yüksek Seçim Kurulunun 2013/440 sayılı kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2580/2013-440.pdf",
+  "source_sha256": "41e63319a1ec7fd6ae3b889032bd4d1657c02235eb548aed86096560661bf78b",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-10-26",
+  "law_text_complete": false
+}
