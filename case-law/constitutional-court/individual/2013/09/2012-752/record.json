@@ -1,0 +1,23 @@
+{
+  "applicant": null,
+  "application_date": "2012-11-22",
+  "application_number": "2012/752",
+  "database_publication_date": "2017-12-19",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2013-09-17",
+  "gazette_number": 28806,
+  "history_type": "metadata",
+  "id": "d346c315-56bb-d5b6-f6d5-8f9a2c707d0c",
+  "in_force": "2013-10-30",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "law_text_complete": false,
+  "outcome": "Esas (İhlal)",
+  "privacy_withheld": "applicant is named as a private person in the official listing; name withheld",
+  "published": "2013-10-30",
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmQzNDZjMzE1LTU2YmItZDViNi1mNmQ1LThmOWEyYzcwN2QwYw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_listing": "evidence/list/BireyselBasvuru-2013-01-01-2013-12-31-p1.json (official API answer, read 2026-11-15)",
+  "source_listing_sha256": "34532a30e6202f68667e37a3b6879418fed24e889051bc96641aa022144729f5",
+  "text_status": "metadata-only: official database listing fields; the decision text is on the linked official page, not transcribed (decision names a private person)"
+}
