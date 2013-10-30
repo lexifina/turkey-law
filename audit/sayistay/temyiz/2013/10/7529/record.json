@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37796",
+  "decision_date": "2013-10-30",
+  "source_id": 7529,
+  "chamber": "8",
+  "file_number": "38181",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7529/",
+  "source_sha256": "20163c3bf02ba340a642f60414a58ea595f1fefb11b49a764b5f1dc65a1d7b70",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
