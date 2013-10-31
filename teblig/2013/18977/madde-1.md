@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı; ağız temizliğinde elle kullanılan diş fırçaları, elektrikle/pille çalışan diş fırçalarının fırça başlıkları ve arayüz fırçalarının insan sağlığına ve çevreye zarar vermesini engellemek, topluma güvenli ve kaliteli şekilde ulaşmasını teminen piyasaya arz edilmeden önce Bakanlığa yapılacak bildirimin usul ve esasları ile ürüne ait teknik dosyada bulunacak bilgi ve belgeleri ve bu ürünlerin piyasa gözetimi ve denetiminin esaslarını belirlemektir.

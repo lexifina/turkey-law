@@ -1,0 +1,2 @@
+Bildirim usulü
+MADDE 7 – (1) Üreticiler, bir sefere mahsus olmak üzere, ek-1/A ya da ek-1/B’de yer alan Bildirim Formunu excel formatında doldurarak ve piyasaya arz edilmek üzere hazırlanmış her ürüne ait resim ve etiket örneğini elektronik ortamda (PDF/Resim) hazırlayarak, her bir ürün için ayrı ayrı bildirimde bulunmak zorundadır. Bu formun bir örneği üretici tarafından muhafaza edilir. Bildirimde bulunan üreticilere Bakanlık tarafından kayıt numarası verilir.

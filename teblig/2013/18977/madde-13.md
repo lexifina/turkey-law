@@ -1,0 +1,2 @@
+Denetim
+MADDE 13 – (1) Ağız temizliğinde elle kullanılan diş fırçaları, elektrikle/pille çalışan diş fırçalarının fırça başlıkları ve arayüz fırçaları ürünlerinin denetimi,19/7/2012 tarihli ve 28358 sayılı Resmî Gazete’de yayımlanan Gümrük ve Ticaret Bakanlığı Piyasa Gözetimi ve Denetimi Yönetmeliği hükümlerine göre yürütülür. Piyasa gözetimi ve denetimi veya şikayet üzerine alınan numunelerin analizleri yetkili laboratuvarda yaptırılır.
