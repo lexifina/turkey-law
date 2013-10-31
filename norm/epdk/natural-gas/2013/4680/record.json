@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4680",
+  "decision_date": "2013-10-31",
+  "title": "Boru Hatları ile Petrol Taşıma A.Ş.’nin (BOTAŞ) 17/05/2013 tarih ve 28650 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 09/05/2013 tarih ve 4393 sayılı Kurul Kararı değiştirilmiştir.",
+  "resmi_gazete_date": "2013-11-10",
+  "resmi_gazete_number": "28817",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PerEbpGOChg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PerEbpGOChg="
+  ],
+  "source_sha256": "19f19a25972b89c241eb02bff0fbd9e7781ea27ce18673b119ffc045b025d039",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-10-31",
+  "law_text_complete": false
+}
