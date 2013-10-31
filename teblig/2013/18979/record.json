@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.18979",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ELASTOMER VE KAUÇUKTAN YAPILMIŞ OLAN BİBERON BAŞLIĞI VE EMZİKLERDE N-NİTROSAMİN VE N-NİTROSAMİNE DÖNÜŞEBİLEN MADDELERİN MİKTARI VE BU MADDELERİN BELİRLENMESİ HAKKINDA TEBLİĞ",
+  "number": "18979",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2013/18979",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18979&MevzuatTertip=5",
+  "source_sha256": "d491f88f1073adbf9fa5558ba12e46e08bb9c047c25d345f05d0479822368051",
+  "source_bytes": 13664,
+  "published": "2013-10-31",
+  "gazette": "28807",
+  "in_force": "2013-10-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.10.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 512,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
