@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-10-31",
+  "issue": "28807",
+  "edition": "regular",
+  "item": 26,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme İdaresi Başkanlığının 30/10/2013 Tarihli ve 2013/ÖİB-K-55 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131031-26.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131031.htm",
+  "index_sha256": "2a564e5f3f9340d8e3ec5e644c186a83504d794aadf897283fb86c0da7f66d57",
+  "index_header": "31 Ekim 2013 ... 28807 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/10/20131031.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
