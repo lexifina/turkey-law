@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.18980",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMZİK, BİBERON, BİBERON BAŞLIĞI, ALIŞTIRMA BARDAĞI, ALIŞTIRMA BARDAĞI KAPAĞI VE BENZERİ ÜRÜNLERİN ÜRETİMİ, İTHALATI, PİYASA GÖZETİMİ VE DENETİMİ İLE BİLDİRİM ESASLARINA DAİR TEBLİĞ",
+  "number": "18980",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2013/18980",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18980&MevzuatTertip=5",
+  "source_sha256": "9f47619ae70f4645d9d030c25f6ead94259c243ec3cedc2b859d1b951a9a41e4",
+  "source_bytes": 302100,
+  "published": "2013-10-31",
+  "gazette": "28807",
+  "in_force": "2013-10-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.10.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2856,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

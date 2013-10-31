@@ -1,0 +1,6 @@
+Yasaklı maddeler ve ilgili mevzuat
+MADDE 5 – (1) Ürünlerde 26/12/2008 tarihli ve 27092 sayılı mükerrer sayılı Resmî Gazete’de yayımlanan Bazı Tehlikeli Maddelerin, Müstahzarların ve Eşyaların Üretimine, Piyasaya Arzına ve Kullanımına İlişkin Kısıtlamalar Hakkında Yönetmelik ile yasaklanmış olan maddeler emzik, biberon, biberon başlığı, alıştırma bardağı, alıştırma bardağı kapağı ve benzeri ürünlerin üretiminde kullanılamaz.
+(2) Emzik, biberon, biberon başlığı, alıştırma bardağı, alıştırma bardağı kapağı ve benzeri ürünler, gıda ile temas eden madde ve malzemelerle ilgili olarak 29/12/2011 tarihli ve 28157 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Gıda ile Temas Eden Madde ve Malzemeler Yönetmeliği ve buna bağlı olarak yayımlanan tebliğlere uygun olmalıdır.
+(3) Elastomer ve Kauçuktan Yapılmış Olan Biberon Başlığı ve Emziklerde N-nitrosamin ve N-nitrosamine Dönüşebilen Maddelerin Miktarı ve Bu Maddelerin Belirlenmesi Hakkında Tebliğe uygun olmalıdır.
+(4) Ürünler TSE tarafından uyumlaştırılmış AB standartlarına uygun olmalıdır.
+(5) Bilimsel gelişmeler doğrultusunda tespit edilen, kullanımına müsaade edilmeyen çevre ve insan sağlığına zararlı maddeler listesi Bakanlığın resmi internet sayfasında yayınlanır. Bu Tebliğ kapsamındaki emzik, biberon, biberon başlığı, alıştırma bardağı ve kapağı ve benzeri ürünler listedeki maddeleri içeremez.
