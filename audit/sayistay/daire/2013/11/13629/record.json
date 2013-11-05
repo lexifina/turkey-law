@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "35",
+  "decision_date": "2013-11-05",
+  "source_id": 13629,
+  "chamber": "4",
+  "ilam_number": "113",
+  "item_number": 18,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13629/",
+  "source_sha256": "33eb0428aeb1aee8dbe48f0d57f9082965904e9da8bfe310f0ad7fb20c844caf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
