@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Tozla Mücadele Komisyonu, Toz Ölçümleri ve Maruziyet Sınır Değerleri
+Tozla mücadele komisyonu
+MADDE 7 – (1) İSGGM Genel Müdürü veya Genel Müdürün görevlendireceği bir Genel Müdür Yardımcısı başkanlığında; Sağlık Bakanlığı, Enerji ve Tabii Kaynaklar Bakanlığı, Çevre ve Şehircilik Bakanlığı, Gıda, Tarım ve Hayvancılık Bakanlığından birer temsilci ile İş Teftiş Kurulu Başkanlığından iş sağlığı ve güvenliği yönünden teftiş yapmaya yetkili bir iş müfettişi, SGK’den bir temsilci, Genel Müdürlükten bir hekim ile bir mühendis veya bir iş sağlığı ve güvenliği uzmanı, en çok üyesi olan çalışan ve işveren konfederasyonlarından birer temsilci ve Bakanlıkça uygun görülecek tozla mücadele ve toza bağlı meslek hastalıkları konularında çalışmaları bulunan üniversitelerin tıp ve mühendislik fakültelerinden birer öğretim üyesinin katılımıyla bir komisyon kurulur. Bu komisyon üyelerinin görev süresi üç yıldır. Süresi bitenler yeniden görevlendirilebilir.
+(2) Bu komisyon yılda iki defa toplanır. Komisyon, Bakanlığın ve komisyon üyelerinin isteği üzerine olağanüstü toplanarak gelen görüş ve önerileri değerlendirir. Komisyon tozla ilgili hangi sektörlerde rehber hazırlanması gerektiğine karar verir ve bu rehberlerin hazırlanmasında hangi kurum ve/veya kuruluşların görev alacağını belirler.
+(3) Komisyonun sekretarya hizmetleri Genel Müdürlükçe yürütülür.

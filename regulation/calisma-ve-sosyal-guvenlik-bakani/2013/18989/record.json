@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.18989",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TOZLA MÜCADELE YÖNETMELİĞİ",
+  "number": "18989",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2013/18989",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18989&MevzuatTertip=5",
+  "source_sha256": "b7371496ba65a471333036c1eea284b339aeb7d2a6e8b347b270afe692d2c51e",
+  "source_bytes": 30269,
+  "published": "2013-11-05",
+  "gazette": "28812",
+  "in_force": "2013-11-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.11.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1810,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.18989-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

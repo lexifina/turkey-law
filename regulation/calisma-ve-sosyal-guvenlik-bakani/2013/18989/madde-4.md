@@ -1,0 +1,27 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Asbest :
+1) Aktinolit Asbest, CAS No 77536-66-4,
+2) Antofilit Asbest, CAS No 77536-67-5,
+3) Grünerit Asbest (Amosit) CAS No 12172-73-5,
+4) Krizotil, CAS No 12001-29-5, CAS No132207-32-0,
+5) Krosidolit, CAS No 12001-28-4,
+6) Tremolit Asbest, CAS No 77536-68-6,
+lifli silikatlarını,
+b) Bakanlık: Çalışma ve Sosyal Güvenlik Bakanlığını,
+c) Genel Müdürlük (İSGGM): İş Sağlığı ve Güvenliği Genel Müdürlüğünü,
+ç) ILO: Uluslararası Çalışma Örgütünü,
+d) İnert toz: Solunumla akciğerlere ulaşmasına rağmen akciğerlerde yapısal ve/veya fonksiyonel bozukluk yapmayan tozları,
+e) İSGÜM: İş Sağlığı ve Güvenliği Enstitüsü Müdürlüğünü,
+f) Kristal yapıda SiO2: Kuvars, tridimit ve kristobaliti,
+g) Lifsi tozlar: Uzunluğu beş mikrondan daha büyük, eni üç mikrondan daha küçük ve boyu eninin üç katından büyük olan parçacıkları,
+ğ) Okuyucu: ILO Uluslararası Pnömokonyoz Radyografileri Sınıflandırılması konusunda eğitim almış hekimi,
+h) Pnömokonyoz (Akciğer Toz Hastalığı): Akciğerlerde tozun birikmesi sonucu ortaya çıkan doku reaksiyonu ile oluşan hastalığı,
+ı) SGK: Sosyal Güvenlik Kurumunu,
+i) Solunabilir toz: Aerodinamik eşdeğer çapı 0,1–5,0 mikron büyüklüğünde kristal veya amorf yapıda toz ile çapı üç mikrondan küçük, uzunluğu çapının en az üç katı olan lifsi tozları,
+j) Standart akciğer radyografisi: En az 35x35 cm ebatında ILO Uluslararası Pnömokonyoz Radyografileri Sınıflandırılması kriterlerine göre değerlendirilebilir akciğer radyografisini veya dijital akciğer radyografisini,
+k) Toz: Bu Yönetmeliğe göre işyeri ortam havasına yayılan veya yayılma potansiyeli olan parçacıkları,
+l) Toz ölçümü: İşyeri ortam havasındaki toz miktarının gravimetrik esasa veya lifsi tozlarda lif sayısına göre belirlenmesini,
+m) Tozla Mücadele Komisyonu (TMK): Bu Yönetmelik çerçevesinde çalışma hayatında tozla ilgili konularda ihtiyaç ve öncelikleri belirleyerek teknik ve tıbbi açıdan görüş ve öneri hazırlamak amacıyla Bakanlıkça oluşturulan komisyonu,
+n) Zaman Ağırlıklı Ortalama Değer (ZAOD/TWA): Günlük 8 saatlik zaman dilimine göre ölçülen veya hesaplanan zaman ağırlıklı ortalama değeri,
+ifade eder.
