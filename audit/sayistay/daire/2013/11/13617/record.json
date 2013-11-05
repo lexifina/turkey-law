@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "35",
+  "decision_date": "2013-11-05",
+  "source_id": 13617,
+  "chamber": "4",
+  "ilam_number": "113",
+  "item_number": 8,
+  "account_year": 2012,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13617/",
+  "source_sha256": "d3368e2db3caaaac1fbca66a86a6d104ac4f03d79a579c9f8678620a68244ecd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
