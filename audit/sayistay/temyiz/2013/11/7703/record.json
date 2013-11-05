@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37833",
+  "decision_date": "2013-11-05",
+  "source_id": 7703,
+  "chamber": "6",
+  "file_number": "36085",
+  "account_year": "2008",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7703/",
+  "source_sha256": "6e0b13ec7b77ae14484e5a719b9cddf0bdeff78173da97d0fb310e3cf9166491",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
