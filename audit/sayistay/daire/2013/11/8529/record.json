@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "35",
+  "decision_date": "2013-11-05",
+  "source_id": 8529,
+  "chamber": "4",
+  "ilam_number": "113",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8529/",
+  "source_sha256": "bfe31ef468738318377d1fc73ff9a0a5bf01ab910f307ba9c1f6dbec11471096",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
