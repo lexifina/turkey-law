@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "35",
+  "decision_date": "2013-11-05",
+  "source_id": 13638,
+  "chamber": "4",
+  "ilam_number": "113",
+  "item_number": 27,
+  "account_year": 2012,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13638/",
+  "source_sha256": "717ae7204f7202416f6b6c9f69d7af80561481fd8fb977a266dde39d262f1d75",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
