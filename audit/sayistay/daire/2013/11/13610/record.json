@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "35",
+  "decision_date": "2013-11-05",
+  "source_id": 13610,
+  "chamber": "4",
+  "ilam_number": "113",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13610/",
+  "source_sha256": "80a35de07b841f4ead0ba2b950c100fdde0750592fc2fa7a2fa1ab4230eebab5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
