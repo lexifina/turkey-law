@@ -1,0 +1,2 @@
+Mevcut uzman yardımcıları
+GEÇİCİ MADDE 1 – (1) 2/11/2011 tarihinde ilgili Kurumda uzman yardımcısı kadrosunda bulunanların tezleri, yeterlik sınavları ve uzmanlık kadrolarına atanmaları, önceki Yönetmelik hükümlerine göre sonuçlandırılır. Ancak, söz konusu uzman yardımcılarının uzmanlık kadrolarına atanmalarında yabancı dil yeterliğine ilişkin olarak 26 ncı maddenin birinci fıkrasının (b) bendi hükmü uygulanır.

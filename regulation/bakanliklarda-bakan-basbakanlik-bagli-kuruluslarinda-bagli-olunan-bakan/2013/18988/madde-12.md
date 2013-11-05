@@ -1,0 +1,7 @@
+Yazılı sınav
+MADDE 12 – (1) Yazılı sınav yapılması halinde sınava KPSS sonuçlarına göre başvuran adaylardan, en yüksek puana sahip olan adaydan başlanarak, atama yapılacak kadro sayısının en fazla yirmi katına kadar aday (son sıradaki adaya eşit puan alanlar dâhil) çağrılır.
+(2) Yazılı sınav, duyuruda belirtilen konulardan klasik ve/veya test usulünde yapılır. Yazılı sınavda yüz üzerinden en az yetmiş puan alanlar başarılı sayılır.
+(3) Yazılı sınav ilgili Kurumca yapılabileceği gibi, bir kısmı ya da tamamı Ölçme, Seçme ve Yerleştirme Merkezi, üniversiteler veya diğer kamu kurumlarına da yaptırılabilir. Bu durumda yazılı sınava ilişkin hususlar, Kurum ve ilgili kuruluş arasında yapılacak protokol ile belirlenir.
+(4) Yazılı sınav; alan bilgisi, Avrupa Birliği ve Türkiye-Avrupa Birliği ilişkileri ile yabancı dil bilgisi başlıklarından oluşur. Alan bilgisi, sınav duyurusunda yer alan fakülte ve bölümlerin müfredatlarına göre belirlenir. Yazılı sınavda soruların konu başlıkları bakımından alan bilgisi yüzde elliden aşağı olmayacak şekilde hangi ağırlıkta değerlendirmeye tabi tutulacağına sınav duyurusunda yer verilir.
+(5) Sınavda kopya çekenler, çekmeye teşebbüs edenler veya kopya çektiği tespit edilenler hakkında tutanak düzenlenir ve sınav kâğıtları geçersiz sayılır. Yazılı sınavın üniversitelere veya diğer kamu kurumlarına yaptırılması halinde de aynı esaslar uygulanır.
+(6) Yazılı sınav sonuçları, sözlü sınavın yeri, günü ve saatine ilişkin bilgiler Kurum internet sitesinde duyurulur.
