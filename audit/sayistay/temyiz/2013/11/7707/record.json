@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37837",
+  "decision_date": "2013-11-05",
+  "source_id": 7707,
+  "chamber": "8",
+  "file_number": "38200",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7707/",
+  "source_sha256": "9f6217ce39a1f7ff34f7fc958eacbdcf92246b2bf72c9167466f9a880e71f5e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
