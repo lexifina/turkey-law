@@ -1,0 +1,2 @@
+Madalya ve Nişanın Zayii
+Madde 19 – Madalya ve nişana hak kazananlar ile intikal yoluyla sahip olanlar, madalya ve nişanı herhangi bir sebeple zayi etmeleri halinde, durumu en kısa zamanda Genel Müdürlüğe bildirmek zorundadırlar. Kusurlu olmadıkları yetkili makamlarca belirlenenlere, Başbakanlıkça bedeli karşılığı ve tören yapılmaksızın bir defaya mahsus olmak üzere madalya ve nişanlar tekrar verilir ve bu husus "Tescil ve Terkin Defterine" işlenir.

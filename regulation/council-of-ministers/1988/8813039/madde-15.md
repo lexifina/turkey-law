@@ -1,0 +1,2 @@
+Berat ve Rozetlerin Hazırlanması
+Madde 15 – Madalya ve nişana hak kazanan kişiye verilecek olan rozetler, bu Yönetmelikte belirlenen özellikleri taşıyacak şekilde hazırlanır. Her berat, verilen kişinin açık kimliğini, verilme tarihi ile defter tescil numarasını ihtiva eder, ayrıca bu berata verilme sebebi yazılır. Kişilere verilen beratın bir sureti Genel Müdürlükteki özel bir dosyada muhafaza edilir.

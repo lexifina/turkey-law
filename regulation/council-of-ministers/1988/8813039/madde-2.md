@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 – Bu Yönetmelik, Devlet madalya ve nişanlarının çeşidine, ebat, biçim ve özelliklerinin tesbitine, kimlere ve nasıl verileceğine, bunların tescil, muhafaza, takılma ve intikaline, bu nedenlerle yapılacak giderlerin karşılanma şekline, geri alınmasına, zayiinde yapılacak işlemlere ve ilgili diğer hususlarla başka devletlerce verilen madalya ve nişanların tescil ve takılmasına ait hükümleri kapsar.
