@@ -54,3 +54,4 @@ Değiştiren Kanunun/ KHK’nin Numarası | 2809 sayılı Kanunun değişen veya
 6410 | Ek Madde 36, Ek Madde 116, Ek Madde 148, Geçici Madde 43 | 31/1/2013
 6414 | Ek Madde 149 | 16/2/2013
 6495 | Ek Madde 140, Geçici Madde 44 | 2/8/2013
+6501 | Ek Madde 81, Ek Madde 155 | 7/11/2013
