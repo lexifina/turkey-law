@@ -74,6 +74,7 @@ e) 21/5/2007 tarihli ve 2007/12216 sayılı Bakanlar Kurulu Kararı ile Rektörl
 f ) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı Eki Karar ile Üniversiteye bağlı olarak, Eğitim Bilimleri Enstitüsü kurulması kararlaştırılmıştır.
 g) 10/9/2012 tarihli ve 2012/3702 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Onkoloji Enstitüsünün adının Kanser Enstitüsü olarak değiştirilmesi kararlaştırılmıştır.
 ğ) 22/10/2012 tarihli ve 2012/3902 sayılı Bakanlar Kurulu Kararı Eki Karar ile Üniversiteye bağlı olarak “Hemşirelik Fakültesi” kurulması kararlaştırılmıştır.
+h) 30/9/2013 tarihli ve 2013/5480 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde bulunan Spor Bilimleri ve Teknolojisi Yüksekokulunun kapatılması ve aynı Rektörlüğe bağlı olarak Spor Bilimleri Fakültesi kurulması kararlaştırılmıştır.
 5660-1
 b) Rektörlüğe bağlı olarak yeni kurulan Eğitim Fakültesi, Sosyal ve İdari Bilimler Fakültesinin ikiye ayrılmasıyla oluşturulan ve rektörlüğe bağlanan Edebiyat Fakültesi ile İktisadi ve İdari Bilimler Fakültesi’nden ;
 c) Kimya Fakültesi ile Mühendislik Fakültesinin birleştirilmesiyle oluşturulan ve rektörlüğe bağlanan Mühendislik Fakültesi’nden;
@@ -311,6 +312,7 @@ c) Bu maddeye; 17/5/2007 tarihli ve 5662 sayılı Kanunun 1 inci maddesiyle “h
 ç) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı Eki Karar ile Üniversiteye bağlı olarak, Eğitim Bilimleri Enstitüsü kurulması kararlaştırılmıştır.
 d) 8/4/2010 tarihli ve 2010/368 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İnegöl İşletme Fakültesi kurulması kararlaştırılmıştır.
 e) 8/7/2013 tarihli ve 2013/5089 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Mühendislik-Mimarlık Fakültesinin kapatılması ve Rektörlüğe bağlı olarak Mühendislik Fakültesi ile Mimarlık Fakültesi kurulması kararlaştırılmıştır.
+f) 7/10/2013 tarihli ve 2013/5530 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri Fakültesi kurulması kurulması kararlaştırılmıştır.
 5668-1
 Anadolu Üniversitesi: (1)
 Madde 21 – Anadolu Üniversitesi;
@@ -369,7 +371,8 @@ t) 20/9/2012 tarihli ve 2012/3762 sayılı Bakanlar Kurulu Kararı ile Rektörl�
 u) 11/3/2013 tarihli ve 2013/4459 sayılı Bakanlar Kurulu Kararı Eki ile Rektörlüğe bağlı olarak Sivil Havacılık Yüksekokulu kurulması kararlaştırılmıştır.
 ü) 15/3/2013 tarihli ve 2013/4480 sayılı Bakanlar Kurulu Kararı ile Selçuk Üniversitesi Rektörlüğü bünyesinde yer alan Seydişehir Ahmet Cengiz Mühendislik Fakültesi, Seydişehir Meslek Yüksekokulu, Seydişehir Sağlık Hizmetleri Meslek Yüksekokulu, Ereğli Mühendislik ve Doğa Bilimleri Fakültesi, Ereğli Eğitim Fakültesi ile Konya Ereğli Kemal Akman Meslek Yüksekokulunun bağlantısının değiştirilerek Necmettin Erbakan Üniversitesi Rektörlüğüne bağlanması kararlaştırılmıştır.
 v) 22/4/2013 tarihli ve 2013/4657 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde bulunan Beyşehir Ali Akkanat Turizm İşletmeciliği ve Otelcilik Yüksekokulunun kapatılması ve Rektörlüğe bağlı olarak Beyşehir Ali Akkanat Turizm Fakültesi kurulması kararlaştırılmıştır.
-y) 22/4/2013 tarihli ve 2013/4686 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde bulunan Turizm İşletmeciliği ve Otelcilik Yüksekokulunun kapatılması ve Rektörlüğe bağlı olarak Turizm Fakültesi kurulması kararlaştırılmıştır. 5669
+y) 22/4/2013 tarihli ve 2013/4686 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde bulunan Turizm İşletmeciliği ve Otelcilik Yüksekokulunun kapatılması ve Rektörlüğe bağlı olarak Turizm Fakültesi kurulması kararlaştırılmıştır. 5668-4
+5669
 c) (Değişik: 3/7/1992 – 3837/13 md.) Rektörlüğe bağlı Hukuk Fakültesi, Meram Tıp Fakültesi, Ziraat Fakültesi, Veteriner Fakültesi, İktisadi ve İdari Bilimler Fakültesi ile rektörlüğe bağlı olarak yeni kurulan İletişim Fakültesi ve Karaman İktisadi ve İdari Bilimler Fakültesinden;
 d) Konya Devlet Mühendislik ve Mimarlık Akademisinin fakülteye dönüştürülmesiyle oluşturulan ve rektörlüğe bağlanan Mühendislik – Mimarlık Fakültesi, Milli Eğitim Bakanlığına bağlı Konya Yüksek İslam Enstitüsünün fakülteye dönüştürülmesiyle oluşturulan ve rektörlüğe bağlanan İlahiyat Fakültesi’nden;
 e) (Değişik: 16/1/1991 – 3699/3 md.) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü, Fen Bilimleri Enstitüsü, Sağlık Bilimleri Enstitüsü ile Türkiyat Araştırmaları Enstitüsünden;
@@ -603,6 +606,7 @@ c) 2/11/2009 tarihli ve 2009/15546 sayılı Bakanlar Kurulu Kararı Eki Karar il
 ç)16/2/2010 tarihli ve 2010/175 sayılı Bakanlar Kurulu Kararıyla Rektörlük bünyesinde bulunan Fen-Edebiyat Fakültesi kapatılarak, Rektörlüğe bağlı olarak Fen Fakültesi ile İnsani ve Sosyal Bilimler Fakültesi kurulması kararlaştırılmıştır.
 d) 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Yabancı Diller Yüksekokulu ve Eğitim Bilimleri Enstitüsü kurulması kararlaştırılmıştır.
 e) 26/9/2011 tarihli ve 2011/2276 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Mimarlık Fakültesi kurulması kararlaştırılmıştır.
+f) 7/10/2013 tarihli ve 2013/5534 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği Fakültesi kurulması kararlaştırılmıştır.
 5672
 Dicle Üniversitesi : (1)
 Madde 32 – Diyarbakır Üniversitesinin adı Dicle Üniversitesi olarak değiştirilmiştir. Bu üniversite ;
@@ -742,6 +746,7 @@ c) 28/4/2003 tarihli ve 2003/5593 sayılı Bakanlar Kurulu Kararı ile Üniversi
 d) 30/6/2008 tarihli ve 2008/13864 sayılı Bakanlar Kurulu Kararı ile Üniversite bünyesinde bulunan Fen-İnsani Bilimler ve Edebiyat Fakültesinin kapatılarak Rektörlüğe bağlı olarak Fen Fakültesi ile İnsani Bilimler ve Edebiyat Fakültesi kurulması kararlaştırılmıştır.
 e) 2/3/2009 tarihli ve 2009/14763 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı Tıp Fakültesi kurulması kararlaştırılmıştır
 f) 20/12/2010 tarihli ve 2010/1201 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı Sağlık Bilimleri Enstitüsü kurulması kararlaştırılmıştır.
+5672-6
 5673
 İhsan Doğramacı Bilkent Üniversitesi (1)(2)
 Ek Madde 5 – (Ek: 5/3/1992 – 3785/1 md.)
@@ -828,7 +833,7 @@ ___________________
 (1) Bu maddenin başlığı “Zonguldak Karaelmas Üniversitesi” iken 30/3/2012 tarihli ve 6287 sayılı Kanunun 18 inci maddesiyle metne işlendiği şekilde ve yine birinci fıkrada yer alan “Zonguldak Karaelmas Üniversitesi” ibaresi “Bülent Ecevit Üniversitesi” şeklinde değiştirilmiştir.
 (2) a) 3/1/1995 tarihli ve 95/6413 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı; Ereğli Eğitim Fakültesi kurulması kararlaştırılmıştır.
 b) 30/5/2002 tarihli ve 2002/4306 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Karabük İli Safronbolu İlçesinde Fethi Toker Güzel Sanatlar ve Tasarım Fakültesinin kurulması kararlaştırılmıştır.
-c) 9/9/2005 tarihli ve 2005/9466 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Deniz İşletmeciliği ve Yönetimi Yüksekokulu kurulması kararlaştırılmıştır.
+c) 9/9/2005 tarihli ve 2005/9466 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Deniz İşletmeciliği ve Yönetimi Yüksekokulu kurulmuş olup, daha sonra 30/9/2013 tarihli ve 2013/5477 sayılı Bakanlar Kurulu Kararı ile Deniz İşletmeciliği ve Yönetimi Yüksekokulunun kapatılması ve aynı Rektörlüğe bağlı olarak Denizcilik Fakültesi kurulması kararlaştırılmıştır.
 ç)21/11/2005 tarihli ve 2005/9691 sayılı Bakanlar Kurulu Kararı ile Devrek Fen-Edebiyat Fakültesi'nin adı "Fen-Edebiyat Fakültesi", Çaycuma İktisadi ve İdari Bilimler Fakültesi'nin adı "İktisadi ve İdari Bilimler Fakültesi" olarak değiştirilmiş ve metne işlenmiştir.
 d) 12/12/2005 tarihli ve 2005/9744 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Karabük Fen-Edebiyat Fakültesi ile Karabük Mühendislik Fakültesi’nin kurulması kararlaştırılmıştır.
 e) 19/3/2007 tarihli ve 2007/11885 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Beden Eğitimi ve Spor Yüksekokulu’nun kurulması kararlaştırılmıştır.
@@ -1149,6 +1154,8 @@ c) 24/6/2002 tarih ve 2002/4449 sayılı Bakanlar Kurulu Kararı ile Üniversite
 ç) 6/6/2005 tarihli ve 2005/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı; Güzel Sanatlar Fakültesi kurulması kararlaştırılmıştır.
 d) 1/12/2008 tarihli ve 2008/14398 Bakanlar Kurulu Kararı ile Rektörlüğe bağlı; Sağlık Bilimleri Fakültesi kurulması kararlaştırılmıştır.
 e) 8/4/2013 tarihli ve 2013/4623 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller Yüksekokulu kurulması kararlaştırılmıştır.
+f) 30/9/2013 tarihli ve 2013/5481 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri Enstitüsü kurulması kararlaştırılmıştır.
+g) 30/9/2013 tarihli ve 2013/5482 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İslami İlimler Fakültesi kurulması kararlaştırılmıştır.
 5674-18
 b) Ankara Üniversitesine bağlı iken bağlantısı değiştirilerek rektörlüğe bağlanan Kırıkkale Meslek Yüksekokulundan;
 c) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü, Fen Bilimleri Enstitüsü ile Sağlık Bilimleri Enstitüsünden;
@@ -1480,6 +1487,8 @@ d) 3/8/2009 tarihli ve 2009/15291 sayılı Bakanlar Kurulu Kararı ile Rektörl�
 e) 10/10/2011 tarihli ve 2011/2318 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Eğitim Fakültesi kurulması kararlaştırılmıştır.
 f) 14/5/2012 tarihli ve 2012/3218 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri Enstitüsü kurulması kararlaştırılmıştır.
 g) 25/3/2013 tarihli ve 2013/4497 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Fen-Edebiyat Fakültesinin adının İnsan ve Toplum Bilimleri Fakültesi olarak değiştirilmesi kararlaştırılmıştır.
+ğ) 4/11/2013 tarihli ve 2013/5597 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Tıp Fakültesi kurulması kararlaştırılmıştır.
+h) 4/11/2013 tarihli ve 2013/5598 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği Fakültesi kurulması kararlaştırılmıştır.
 5674-30
 Ufuk Üniversitesi
 Ek Madde 50 – (15/12/1999 – 4488/2 md.)
@@ -1669,6 +1678,7 @@ c)29/3/2012 tarihli ve 2012/3066 sayılı Bakanlar Kurulu Kararı ile Rektörlü
 d) 20/9/2012 tarihli ve 2012/3763 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Spor Bilimleri Fakültesi ile Ziraat ve Doğa Bilimleri Fakültesi kurulması kararlaştırılmıştır.
 e) 22/10/2012 tarihli ve 2012/3902 sayılı Bakanlar Kurulu Kararı Eki Karar ile Üniversiteye bağlı olarak “Yabancı Diller Yüksekokulu” kurulması kararlaştırılmıştır.
 f) 8/4/2013 tarihli ve 2013/4622 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mimarlık ve Tasarım Fakültesi kurulması kararlaştırılmıştır.
+g) 7/10/2013 tarihli ve 2013/5547 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği Fakültesi kurulması kararlaştırılmıştır.
 (2) Bu maddenin başlığı “Rize Üniversitesi” iken 30/3/2012 tarihli ve 6287 sayılı Kanunun 19 uncu maddesiyle metne işlendiği şekilde ve yine birinci fıkrada yer alan “Rize Üniversitesi” ibaresi “Recep Tayip Erdoğan Üniversitesi” şeklinde değiştirilmiştir.
 (3) a) 28/4/2008 tarihli ve 2008/13602 sayılı Bakanlar Kurulu Kararı ile; Rektörlüğe bağlı olarak İktisadi ve İdari Bilimler Fakültesi kurulması kararlaştırılmıştır.
 b) 30/3/2009 tarihli ve 2009/14947 sayılı Bakanlar Kurulu Kararı ile; Rektörlüğe bağlı olarak Turgut Kıran Denizcilik Yüksekokulu kurulması kararlaştırılmıştır.
@@ -1710,6 +1720,7 @@ e) 1/6/2010 tarihli ve 2010/503 sayılı Bakanlar Kurulu Kararı ile Rektörlü�
 f) 16/1/2012 tarihli ve 2012/2731 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Beden Eğitimi ve Spor Yüksekokulu kurulması kararlaştırılmıştır.
 g) 5/3/2012 tarihli ve 2012/2908 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesi ile Rektörlüğe bağlı olarak Yabancı Diller Yüksekokulu kurulması kararlaştırılmıştır.
 ğ) 24/5/2012 tarihli ve 2012/3243 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Eczacılık Fakültesi kurulması kararlaştırılmıştır.
+h) 7/10/2013 tarihli ve 2013/5529 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği Fakültesi kurulması kararlaştırılmıştır.
 5674-38
 Aksaray Üniversitesi (1)
 Ek Madde 64 – (Ek: 1/3/2006-5467/1 md.)
@@ -1902,6 +1913,7 @@ b) 30/6/2008 tarihli ve 2008/13885 sayılı Bakanlar Kurulu Kararı ile; Rektör
 c) 14/7/2009 tarihli ve 2009/15232 sayılı Bakanlar Kurulu Kararı ile; Rektörlüğe bağlı olarak Yabancı Diller Yüksekokulu kurulması kararlaştırılmıştır.
 ç) 15/6/2011 tarihli ve 2011/2018 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Uluslar- arası İslam ve Din Bilimleri Fakültesi kurulması kararlaştırılmıştır.
 d) 15/6/2011 tarihli ve 2011/2018 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Tıp Fakültesi kurulması kararlaştırılmıştır.
+e) 12/11/2013 tarihli ve 2013/5647 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri Enstitüsü kurulması kararlaştırılmıştır.
 5674-44
 İstanbul Arel Üniversitesi (1)
 Ek Madde 76 – (Ek: 9/5/2007-5656/1 md.)
@@ -1968,9 +1980,9 @@ b) Dicle Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı deği
 c) Dicle Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu ile Sağlık Hizmetleri Meslek Yüksekokulundan,
 ç) Rektörlüğe bağlı olarak kurulan Sosyal Bilimler Enstitüsü ile Fen Bilimleri Enstitüsünden,
 oluşur.
-Nevşehir Üniversitesi (2)
+Nevşehir Hacı Bektaş Veli Üniversitesi (2)(3)
 Ek Madde 81 – (Ek: 17/5/2007-5662/7 md.)
-Nevşehir’de Nevşehir Üniversitesi adıyla bir üniversite kurulmuştur. Bu üniversite;
+Nevşehir’de Nevşehir Hacı Bektaş Veli Üniversitesi adıyla bir üniversite kurulmuştur. Bu üniversite; (2)
 a) Rektörlüğe bağlı olarak kurulan Fen-Edebiyat Fakültesi ile Erciyes Üniversitesi Rektörlüğüne bağlı Nevşehir Turizm İşletmeciliği ve Otelcilik Yüksekokulu iken adı ve bağlantısı değiştirilerek fakülteye dönüştürülen ve rektörlüğe bağlanan Ticaret ve Turizm Eğitim Fakültesi ile Erciyes Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan ve rektörlüğe bağlanan İktisadî ve İdarî Bilimler Fakültesinden,
 b) Erciyes Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan ve rektörlüğe bağlanan Sema ve Vefa Küçük Sağlık Yüksekokulundan,
 c) Erciyes Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu, İncekara Sağlık Hizmetleri Meslek Yüksekokulu, Gazi Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan ve rektörlüğe bağlanan Hacıbektaş Veli Meslek Yüksekokulu ile Hacettepe Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan ve rektörlüğe bağlanan Ürgüp Sebahat ve Erol Toksöz Meslek Yüksekokulundan,
@@ -1981,7 +1993,8 @@ oluşur.
 b) 5/7/2012 tarihli ve 2012/3449 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İktisadi ve İdari Bilimler Fakültesi kurulması kararlaştırılmıştır.
 c) 20/9/2012 tarihli ve 2012/3763 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Ziraat Fakültesi kurulması kararlaştırılmıştır.
 ç) 4/3/2013 tarihli ve 2013/4404 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Beden Eğitimi ve Spor Yüksekokulu kurulması kararlaştırılmıştır.
-(2) a) 31/3/2008 tarihli ve 2008/13467 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı Güzel Sanatlar Fakültesi kurulması kararlaştırılmıştır.
+(2) 30/10/2013 tarihli ve 6501 sayılı Kanunun 1 inci maddesi ile bu maddenin başlığı ile birinci fıkrasında yer alan “Nevşehir Üniversitesi” ibareleri “Nevşehir Hacı Bektaş Veli Üniversitesi” olarak değiştirilmiştir.
+(3) a) 31/3/2008 tarihli ve 2008/13467 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı Güzel Sanatlar Fakültesi kurulması kararlaştırılmıştır.
 b) 25/2/2009 tarihli ve 2009/14726 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Turizm İşletmeciliği ve Otelcilik Yüksekokulu kurulması kararlaştırılmıştır.
 c) 2/11/2009 tarihli ve 2009/15546 sayılı Bakanlar Kurulu Kararı Eki Karar ile Rektörlük bünyesinde yer alan Ticaret ve Turizm Eğitim Fakültesinin kapatılarak yerine Turizm Fakültesi kurulması kararlaştırılmıştır.
 ç) 25/12/2009 tarihli ve 2009/15744 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mühendislik - Mimarlık Fakültesi kurulması kararlaştırılmıştır.
@@ -2023,6 +2036,7 @@ f) 15/6/2011 tarihli ve 2011/2018 sayılı Bakanlar Kurulu Kararı ile Rektörl�
 g) 26/9/2011 tarihli ve 2011/2276 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Safranbolu Turizm Fakültesi ve Sağlık Bilimleri Enstitüsü kurulması kararlaştırılmıştır.
 ğ) 14/11/2011 tarihli ve 2011/2471 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Orman Fakültesi kurulması kararlaştırılmıştır.
 h) 8/7/2013 tarihli ve 2013/5091 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sivil Havacılık Yüksekokulu kurulması kararlaştırılmıştır.
+ı) 7/10/2013 tarihli ve 2013/5528 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği Fakültesi kurulması kararlaştırılmıştır.
 (2) a) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı Eki Karar ile Üniversiteye bağlı olarak, Mühendislik-Mimarlık Fakültesi kurulması kararlaştırılmıştır.
 b) 25/10/2010 tarihli ve 2010/1054 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Beden Eğitimi ve Spor Yüksekokulu kurulması kararlaştırılmıştır.
 c) 16/12/2011 tarihli ve 2011/2605 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İlahiyat Fakültesi kurulması kararlaştırılmıştır.
@@ -2121,6 +2135,7 @@ c) 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversit
 d) 16/4/2012 tarihli ve 2012/3079 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Veteriner Fakültesi kurulması kararlaştırılmıştır.
 e) 25/6/2012 tarihli ve 2012/3363 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Beden Eğitimi ve Spor Yüksekokulu kurulması kararlaştırılmıştır.
 f) 29/4/2013 tarihli ve 2013/4716 sayılı Bakanlar Kurulu Kararı Eki Karar ile Üniversiteye bağlı olarak “Sağlık Bilimleri Enstitüsü” kurulması kararlaştırılmıştır.
+g) 7/10/2013 tarihli ve 2013/5527 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği Fakültesi kurulması kararlaştırılmıştır.
 (3) a) 4/5/2010 tarihli ve 2010/505 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İletişim Fakültesi kurulması kararlaştırılmıştır.
 b) 25/10/2010 tarihli ve 2010/1051 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mühendislik-Mimarlık Fakültesi kurulması kararlaştırılmıştır.
 c) 14/3/2011 tarihli ve 2011/1548 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İlahiyat Fakültesi kurulması kararlaştırılmıştır.
@@ -2152,7 +2167,9 @@ c) 5/2/2010 tarihli ve 2010/132 sayılı Bakanlar Kurulu Kararı ile Rektörlük
 (2) a) 2/11/2009 tarihli ve 2009/15546 sayılı Bakanlar Kurulu Kararı eki Karar ile Rektörlük bünyesinde yer alan Teknik Eğitim Fakültesi kapatılarak yerine Teknoloji Fakültesi kurulması kararlaştırılmıştır. b) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı Eki Karar ile Üniversiteye bağlı olarak, Turizm İşletmeciliği ve Otelcilik Yüksekokulu, Güzel Sanatlar Fakültesi ile İktisadi ve İdari Bilimler Fakültesi kurulması kararlaştırılmıştır.
 c) 28/7/2010 tarihli ve 2010/778 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Yük- sekokulu kurulması kararlaştırılmıştır.
 ç) 24/5/2012 tarihli ve 2012/3243 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Beden Eğitimi ve Spor Yüksekokulu kurulması kararlaştırılmıştır.
-d) 2/7/2013 tarihli ve 2013/5072 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İslami İlimler Fakültesi kurulması kararlaştırılmıştır. 5674-52
+d) 2/7/2013 tarihli ve 2013/5072 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İslami İlimler Fakültesi kurulması kararlaştırılmıştır.
+e) 30/9/2013 tarihli ve 2013/5479 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri Enstitüsü kurulması kararlaştırılmıştır.
+5674-52
 Piri Reis Üniversitesi (1)
 Ek Madde 94 – (Ek: 30/1/2008-5733/2 md.)
 İstanbul’da Türk Deniz Eğitim Vakfı tarafından 2547 sayılı Yükseköğretim Kanununun vakıf yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzel kişiliğine sahip Piri Reis Üniversitesi adıyla bir vakıf üniversitesi kurulmuştur.
@@ -2186,6 +2203,7 @@ oluşur.
 b) 27/2/2012 tarihli ve 2012/2880 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar Fakültesi kurulması kararlaştırılmıştır.
 c) 20/9/2012 tarihli ve 2012/3763 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri Yüksekokulu kurulması kararlaştırılmıştır.
 ç) 12/11/2012 tarihli ve 2012/3961 sayılı Bakanlar Kurulu Kararı eki Karar ile Üniversiteye bağlı olarak İlahiyat Fakültesi kurulması kararlaştırılmıştır.
+d) 30/9/2013 tarihli ve 2013/5478 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Turizm İşletmeciliği ve Otelcilik Yüksekokulu kurulması kararlaştırılmıştır.
 (3) a) 27/9/2010 tarihli ve 2010/936 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Eğitim Fakültesi kurulması kararlaştırılmıştır.
 b) 27/9/2010 tarihli ve 2010/937 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Edebiyat Fakültesi kurulması kararlaştırılmıştır.
 c) 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Fen Fakültesi kurulması kararlaştırılmıştır.
@@ -2759,7 +2777,7 @@ c) 6/6/2013 tarihli ve 2013/4946 sayılı Bakanlar Kurulu Kararı ile Rektörlü
 (2) a) 5/3/2012 tarihli ve 2012/2937 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan İktisadi ve İdari Bilimler Fakültesinin adının İktisadi, İdari ve Sosyal Bilimler Fakültesi olarak değiştirilmesi kararlaştırılmıştır.
 b) 8/8/2012 tarihli ve 2012/3620 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Sağlık Bilimleri Yüksekokulu kurulması kararlaştırılmıştır.
 c) 22/4/2013 tarihli ve 2013/4692 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Beden Eğitimi ve Spor Yüksekokulu ile Uygulamalı Bilimler Yüksekokulu kurulması kararlaştırılmıştır.
-5674-69
+ç) 12/11/2013 tarihli ve 2013/5648 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri Enstitüsü kurulması kararlaştırılmıştır 5674-69
 Bu Üniversite, Rektörlüğe bağlı olarak;
 a) Turizm Fakültesinden,
 b) Mühendislik Fakültesinden,
@@ -2986,6 +3004,9 @@ c) Sağlık Bilimleri Fakültesinden,
 ç) Sağlık Bilimleri Enstitüsünden,
 d) Fen Bilimleri Enstitüsünden,
 oluşur.
+Ek Madde 155- (Ek: 30/10/2013-6501/2 md.)
+20/12/2012 tarihli ve 6363 sayılı 2013 Yılı Merkezi Yönetim Bütçe Kanunu, 2/9/1983 tarihli ve 78 sayılı Yükseköğretim Kurumları Öğretim Elemanlarının Kadroları Hakkında Kanun Hükmünde Kararname, 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamede Nevşehir Üniversitesine yapılmış olan atıflar Nevşehir Hacı Bektaş Veli Üniversitesine yapılmış sayılır.
+5674-76
 5675
 DÖRDÜNCÜ BÖLÜM
 Geçici Hükümler
