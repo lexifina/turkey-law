@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-11-07",
+  "issue": "28814",
+  "edition": "regular",
+  "item": 2,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "6501 Bir Üniversite Adı ile Bir İlçe Adının Değiştirilmesi Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131107-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131107.htm",
+  "index_sha256": "26af7a329535be264c34cc83fcb9252b8cc7f0a573472b127432fa3fda7f8ff2",
+  "index_header": "7 Kasım 2013 ... 28814 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131107.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
