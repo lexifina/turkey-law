@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10267",
+  "decision_date": "2013-11-07",
+  "source_id": 17254,
+  "chamber": "1",
+  "ilam_number": "8",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17254/",
+  "source_sha256": "8c35493571c8cf6f430b466d69137984f6a50fb002cd86e36ddc2aded1831c6f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
