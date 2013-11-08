@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-105[261-2012/VUK-1- . . .]-1774",
+  "source_id": 28402,
+  "date": "2013-11-08",
+  "title": "Yurt dışındaki ilişkili şirketler ile döviz üzerinden gerçekleşen parasal ilişkilerde adat faizi uygulaması yapılıp yapılmayacağı ve oranın belirlenmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28402",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "47e132f1cd8f1bb55c94dd147e3d8ab2478c2d2dd8b2176fa00e7378a17d6f5e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
