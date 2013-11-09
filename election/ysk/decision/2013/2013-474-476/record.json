@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2013/2013-474-476",
+  "list_number": "474, 475, 476",
+  "decision_date": "2013-11-09",
+  "title": "2820 sayılı Siyasi Partiler Kanununun 21. maddesine göre siyasi parti il kongresine katılacakları onaylamaya yetkili ilçe seçim kurulu başkanınca, teşkilatlanması tamamlanmayan ilde il kongresinin yapılamayacağına ilişkin Yüksek Seçim Kurulunun 2013/474, 2013/475, 2013/476 sayılı kararları",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/6021/2013-474-476.pdf",
+  "source_sha256": "49dc7891c220ae85787f07179a266b60aa0db37416033a1d34ca4a554a8c00bf",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-11-09",
+  "law_text_complete": false
+}
