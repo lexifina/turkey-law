@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.19004",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SİBER OLAYLARA MÜDAHALE EKİPLERİNİN KURULUŞ, GÖREV VE ÇALIŞMALARINA DAİR USUL VE ESASLAR HAKKINDA TEBLİĞ",
+  "number": "19004",
+  "issuer": "Ulaştırma, Denizcilik ve Haberleşme Bakanı",
+  "path": "teblig/2013/19004",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19004&MevzuatTertip=5",
+  "source_sha256": "43b737773a26575728e27978e1774d931f32693c6871b110f611796b3958b8ee",
+  "source_bytes": 25318,
+  "published": "2013-11-11",
+  "gazette": "28818",
+  "in_force": "2013-11-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.11.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1371,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
