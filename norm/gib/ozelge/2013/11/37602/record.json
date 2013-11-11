@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70903105-165.01.03[153]-112106",
+  "source_id": 37602,
+  "date": "2013-11-11",
+  "title": "Kömür ithalatının Merkez Bankasının 96/2 sayılı genelgesi kapsamında değerlendirilip değerlendirilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/37602",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "a3c990551cc51ea73b7631fe36435f6498436dc676e141b97271717476db26d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
