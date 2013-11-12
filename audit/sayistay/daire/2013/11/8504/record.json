@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "27",
+  "decision_date": "2013-11-12",
+  "source_id": 8504,
+  "chamber": "5",
+  "ilam_number": "81",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8504/",
+  "source_sha256": "c83053b009cf9aee971f186bbf94277710e9a3239e5b0ae6ba394d96f7424104",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
