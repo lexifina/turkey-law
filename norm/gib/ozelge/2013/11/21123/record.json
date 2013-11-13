@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "47423198-GVK-2012-06-21",
+  "source_id": 21123,
+  "date": "2013-11-13",
+  "title": "Elişi maket gemi yapımı GVK 18.maddeye girip girmediği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21123",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "be8da2c25ef9508f30e38b3d56863c52c35a0bd7a6a0e8f82246010eb846e31e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
