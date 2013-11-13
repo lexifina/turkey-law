@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 20 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-11-13",
+      "13.11.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 20 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28820",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-11-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Harran Üniversitesi",
+  "issuer_slug": "harran-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/harran-universitesi/2013/19010",
+  "published": "2013-11-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19010&MevzuatTertip=5",
+  "source_bytes": 23411,
+  "source_id": "8.5.19010",
+  "source_sha256": "c85644a46f1d2a9e8cf90baa8c39c7dcadef93617b8ef5f214a20b1003b277df",
+  "text_status": "as-enacted",
+  "title": "HARRAN ÜNİVERSİTESİ GAP YENİLENEBİLİR ENERJİ VE ENERJİ VERİMLİLİĞİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 200,
+  "word_count": 1289
+}
