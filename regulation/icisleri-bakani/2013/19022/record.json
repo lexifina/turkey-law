@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.19022",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÖÇ İDARESİ GENEL MÜDÜRLÜĞÜ TAŞRA TEŞKİLATI KURULUŞ, GÖREV VE ÇALIŞMA YÖNETMELİĞİ",
+  "number": "19022",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2013/19022",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19022&MevzuatTertip=5",
+  "source_sha256": "e4f88c85ae1e737fd55c529683b94c8a1f7679df572e212c5667a26333ad062e",
+  "source_bytes": 31815,
+  "published": "2013-11-14",
+  "gazette": "28821",
+  "in_force": "2013-11-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.11.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2002,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+İl ve ilçe müdürlüğünde çalışan diğer personelin görev ve sorumlulukları
+MADDE 11 – (1) İl ve ilçe müdürlüklerinde görev yapan diğer personel, kendisine verilen görevleri zamanında, mevzuata, kalkınma planı, stratejik plan ve yıllık programlarda yer alan esaslara ve müdürlüğün mevzuatla haiz olduğu görev, yetki ve çalışma esas ve ilkelerine göre yürütülmesinden il ve ilçe müdürüne karşı sorumludur.

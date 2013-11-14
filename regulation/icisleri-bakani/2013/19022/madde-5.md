@@ -1,0 +1,24 @@
+İl müdürlüğünün görevleri
+MADDE 5 – (1) Kanun ve ilgili diğer mevzuat çerçevesinde il müdürlüğünün görevleri şunlardır:
+a) Düzenli ve düzensiz göçle ilgili iş ve işlemleri yürütmek.
+b) Uluslararası korumaya ilişkin iş ve işlemleri yürütmek.
+c) Geçici korumaya ilişkin iş ve işlemleri yürütmek.
+ç) 19/9/2006 tarihli ve 5543 sayılı İskân Kanunu kapsamında Genel Müdürlükçe belirlenen görevleri yürütmek.
+d) İnsan ticaretiyle mücadele ve mağdurların korunmasına ilişkin iş ve işlemleri yürütmek.
+e) Vatansız kişilerle ilgili iş ve işlemleri yürütmek.
+f) Uyum süreçlerine ilişkin iş ve işlemleri yürütmek.
+g) Düzensiz göçle mücadele edilebilmesi amacıyla kolluk birimleri ve ilgili kamu kurum ve kuruluşlarıyla işbirliği yaparak bu alanda koordinasyonu sağlamak.
+ğ) Yabancılar, uluslararası koruma başvuru veya statü sahipleri ile vatansızlar ve insan ticareti mağdurlarının kendilerine mevzuat kapsamında tanınan haklara erişimini sağlamak amacıyla ilgili kamu kurum ve kuruluşlarıyla işbirliği yapmak.
+h) Kanunda öngörülen kurul ve komisyonların aldığı kararların uygulanması amacıyla çalışmalar yapmak.
+ı) Kamu kurum ve kuruluşlarının göç alanına yönelik faaliyetlerine destek vermek ve bu faaliyetlerin sonuçlarını takip etmek, proje tekliflerini Genel Müdürlüğe sunmak.
+i) Görev alanlarıyla ilgili konularda üniversiteler, mahalli idareler, sivil toplum kuruluşları ve özel sektörle iş birliği yapmak.
+j) Genel Müdürlük göç araştırmalarına destek vermek.
+k) Kanun kapsamında işlem görenlerin kişisel verilerini ilgili mevzuata ve taraf olunan uluslararası anlaşmalara uygun olarak almak, korumak, saklamak ve kullanmak.
+l) Kanun ve diğer mevzuatla il müdürlüğüne verilen görev alanıyla ilgili verileri toplamak ve analiz etmek.
+m) İlde bulunan insan ticareti mağdurları sığınma evi, geri gönderme ile kabul ve barınma merkezlerinin iş ve işleyişine ilişkin Genel Müdürlükçe verilecek görevleri yapmak.
+n) İl müdürlüğünün işleyişi ve personeliyle ilgili düzenleyici tedbirleri almak ve uygulamak.
+o) Genel Müdürlüğün görev alanıyla ilgili iş ve işlemlerden dolayı Genel Müdürlük veya taşra birimleri husumetiyle açılan ve il müdürlüklerine intikal eden yargı mercilerindeki davaları ikame, takip ve müdafaa ile icra dosyalarını takip etmek.
+ö) Geri gönderme merkezleriyle ilgili olarak; düzensiz göçmenlerin geri gönderme merkezine giriş işlemlerini yapmak, geri gönderme merkezinin kurallara uygun şekilde işleyişini sağlamak, geri gönderme merkezlerindeki sınır dışı edilecek yabancılarla ilgili iş ve işlemleri yürütmek, yabancı tarafından bedeli karşılanamayan acil ve temel sağlık hizmetlerinin ücretsiz verilmesini sağlamak, yabancıya; yakınlarına, notere, yasal temsilciye ve avukata erişme ve bunlarla görüşme yapabilme, telefon hizmetlerine erişme imkânını sağlamak, yabancıya; ziyaretçileri, vatandaşı olduğu ülke konsolosluk yetkilisi, Birleşmiş Milletler Mülteciler Yüksek Komiserliği görevlisiyle görüşebilme imkânını sağlamak, çocukların yüksek yararını gözetmek, aileler ve refakatsiz çocukların imkânlar ölçüsünde ayrı yerlerde kalmaları için uygun ortam hazırlamak, çocukların eğitim ve öğretimi konularında ilgili birimle işbirliği yapmak, geri gönderme merkezini ziyaret etme izni verilen kurum veya kuruluşların ziyaretlerini sağlamak.
+p) Kabul ve barınma merkezleriyle ilgili olarak; uluslararası koruma başvuru veya statü sahipleriyle ilgili iş ve işlemleri yürütmek, bu kişilerin merkezlerin kapasitesine bağlı olarak barınma, iaşe, sağlık, sosyal ve diğer ihtiyaçlarını karşılamak, merkezde barınanlarla ilgili sevk/takip ve merkezler arası koordinasyonu sağlamak, merkezin iyileştirilmesine yönelik gerekli çalışmaları koordine etmek.
+r) İnsan ticareti mağdurları sığınma evleriyle ilgili olarak; insan ticareti mağdurlarının sığınma evine giriş işlemlerini koordine etmek, insan ticareti mağdurlarının sığınma evinde barınmasını sağlamak, sağlık hizmetlerine, psikolojik desteğe, sosyal hizmet ve yardımlara, hukuki yardıma, eğitim ve öğretime, mesleki eğitim ve işgücü piyasasına ve diğer uygun görülen hizmetlere erişimini temin etmek, insan ticareti mağdurlarının bu alanda faaliyet gösteren ilgili sivil toplum kuruluşları ile uluslararası kuruluşlar tarafından sağlanabilecek danışmanlık hizmetlerine erişimini temin etmek, insan ticareti mağduru çocuk ise 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanununun yetkili ve görevli kıldığı makam veya merciiler ile iletişime geçmek, insan ticareti mağduru yabancı ise tercüme hizmeti sağlanması, vatandaşı olduğu ülkenin büyükelçiliği veya konsolosluğuna, rızası halinde bilgi verilmesi, vatandaşı olduğu ülke büyükelçilik veya konsolosluk yetkilileriyle görüşme imkânı tanınmasına ilişkin iş ve işlemleri yürütmek, vatandaşı olduğu veya ikamet ettiği ülkeye gönüllü olarak geri dönmek isteyenlerin güvenli geri dönüşlerinin yapılmasına ilişkin iş ve işlemleri kolluk ve ilgili makamlarla koordine içinde yürütmek.
+s) Genel Müdürlükçe verilecek diğer görevleri yapmak.
