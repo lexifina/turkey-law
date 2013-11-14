@@ -1,0 +1,6 @@
+Tez konusunun belirlenmesi ve tez hazırlama
+MADDE 18 – (1) Personel Dairesi Başkanlığı ve Strateji Geliştirme Dairesi Başkanlığı tarafından tez konuları listesi oluşturulur ve Kurulun internet sayfasında yayımlanır. Liste, bu birimler tarafından güncellenir.
+(2) Birim amiri, tez konuları listesinden uzman yardımcısının tercih ettiği üç konudan birini en geç ikinci yılın sonunda belirler. Tez; öğretim üyesi, veya uzmanlar arasından tez jürisi tarafından seçilecek tez danışmanının gözetiminde bilimsel esaslara uygun olarak hazırlanır.
+(3) Belirlenen tez konusu ilk bir ay içinde, uzman yardımcısının talebi ve tez danışmanının uygun görmesi hâlinde bir defaya mahsus olmak üzere değiştirilebilir. Tez konusunun değiştirilmesi tezin teslim süresini uzatmaz.
+(4) Hazırlanacak tezin uzman yardımcısının görüş, değerlendirme ve önerilerini içeren bilimsel çalışma etiğine uygun özgün bir eser olması gerekir. Tezin daha önce yüksek lisans, doktora tezi veya başka bir amaçla benzer tarzda hazırlanmamış ve kullanılmamış olması esastır. Aksi durumun tespiti halinde tez geçersiz sayılır ve ilgililer hakkında disiplin hükümleri ve cezaî işlemler uygulanır.
+(5) Tez; aylıksız izin, toplamda üç ayı aşan hastalık ve refakat izni hariç olmak üzere, adaylıkta geçen süre dâhil üç yıl içerisinde hazırlanır.

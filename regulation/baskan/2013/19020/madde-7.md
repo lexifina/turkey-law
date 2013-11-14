@@ -1,0 +1,2 @@
+Yarışma sınavı duyurusu
+MADDE 7 – (1) Yarışma sınavına katılma şartları, atama yapılacak kadro sayısı, KPSS puan türü ya da türleri, puan sıralamasına göre çağrılacak aday sayısı, öğrenim alanları, sınav şekli, başvuru tarihleri ve yeri, sınav tarihi ve yeri ile diğer hususlar ilk başvuru tarihinden en az otuz gün önce Resmî Gazete’de ve Başkanlığın kurumsal internet sitesi ile Türkiye genelinde yayınlanan tirajı en yüksek ilk beş gazetenin en az birinde ilan edilir.
