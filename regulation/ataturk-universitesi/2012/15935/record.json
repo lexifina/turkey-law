@@ -1,0 +1,69 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-03-06",
+      "06.03.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2013-11-14",
+      "RG-14/11/2013-28821",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-06-13",
+      "RG-13/6/2013-28676",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-06-13",
+      "RG-13/6/2013-28676",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-06-13",
+      "RG-13/6/2013-28676",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-06-13",
+      "13/6/2013",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2013-11-14",
+      "14/11/2013",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-14/11/2013-28821",
+  "first_law": null,
+  "gazette": "28225",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-11-14",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Atatürk Üniversitesi",
+  "issuer_slug": "ataturk-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ataturk-universitesi/2012/15935",
+  "published": "2012-03-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15935&MevzuatTertip=5",
+  "source_bytes": 47504,
+  "source_id": "8.5.15935",
+  "source_sha256": "a60523c5fe1f18a85e1a25e891044137c909a83ce310717cc009e1fb1641c1b4",
+  "text_status": "current-consolidated",
+  "title": "ATATÜRK ÜNİVERSİTESİ ASTROFİZİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 181,
+  "word_count": 1858
+}
