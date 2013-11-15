@@ -1,0 +1,3 @@
+Hastane müdürü
+MADDE 10 – (1) Hastane Müdürü; sağlık idaresi veya sağlık kurumları işletmeciliği lisans mezunu veya temel eğitimi idare ve işletmecilik olan fakültelerden mezun olup, tercihen sağlık kurumları işletmeciliği alanında yüksek lisans yapmış olan, işletme ve/veya hastane yönetim hizmetlerinde deneyimi olan adaylar arasından ilgili mevzuat hükümlerine uygun olarak Dekanın önerisi ile Rektör tarafından görevlendirilir.
+(2) Hastane Müdürü, Başhekimin görev ve sorumluluk alanları ile sınırlı olup, Merkezin organlarının belirlediği usul ve esaslara göre çalışmak ve verilen görevleri yapmakla yükümlüdür.

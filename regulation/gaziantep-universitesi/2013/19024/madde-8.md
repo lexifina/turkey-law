@@ -1,0 +1,3 @@
+Merkez müdürü
+MADDE 8 – (1) Merkez müdürü (Başhekim), Fakültede dekan yardımcıları arasından Dekanın önerisi ile Rektör tarafından üç yıllığına görevlendirilir.
+(2) Başhekimin önerisi ve Dekanın onayı ile Fakültede devamlı statüde görev yapan öğretim üyeleri arasından en fazla iki başhekim yardımcısı görevlendirilebilir. Başhekim yardımcıları, Başhekimin yapacağı yetki devrine göre Başhekimlik hizmetlerinin yürütülmesinde Başhekime yardımcı olurlar. Başhekim görevi başında bulunmadığı zamanlarda yerine müdür yardımcılarından biri vekâlet eder. Vekâlet süresi altı ayı geçemez. Merkez Müdürünün görev süresinin dolması veya herhangi bir sebeple görevinden ayrılması halinde müdür yardımcılarının da görevleri kendiliğinden sona erer.
