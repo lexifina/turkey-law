@@ -1,0 +1,3 @@
+Bilimsel Araştırma Projeleri Koordinasyon Birimince alınan cihazın Katma Değer Vergisi oranının hatalı uygulanması sonucu fazla ödemede bulunulması.
+
+Bilimsel Araştırma Projeleri Koordinasyon Birimince yapılan “Flaş Kromatografi” cihazı alımında % 8 yerine % 18 Katma Değer Vergisi ödendiği görülmüşse de, alımı yapılan Flaş Kromatografi aksesuarlı cihazının Gümrük Beyannamesinde 9027.80.17 olan Gümrük Tarife İstatistik Pozisyon numarasıyla %18 orana tabi Diğer Alet ve Cihazlar Grubunda içerisinde yer aldığı anlaşıldığından, mevzuata uygun olarak ödenen Katma Değer Vergisi miktarına ilişkin ..… TL ödemenin yasal düzenlemelere uygunluğuna oybirliğiyle,
