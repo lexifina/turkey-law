@@ -1,0 +1,13 @@
+Üniversite sosyal tesislerinden olan Uygulama Anaokullarına kurum bütçesinden katkı yapılması.
+
+Üniversite Uygulama Anaokullarına kurum bütçesinden katkı yapıldığı görülmüştür.
+
+6260 sayılı 2012 Yılı Merkezi Yönetim Bütçe Kanununun “Kamu idarelerince işletilen sosyal tesisler” başlıklı 26 ncı maddesinde merkezi yönetim kapsamındaki kamu idarelerince işletilen eğitim ve dinlenme tesisi, misafirhane, çocuk bakımevi, kreş, spor tesisi ve benzeri sosyal tesislerin giderlerinin, münhasıran bu tesislerin işletilmesinden elde edilen gelirlerden karşılanacağı;  8 Ocak 2012 tarihli Kamu Sosyal Tesislerine İlişkin Tebliğin “V - Ortak Hususlar” başlıklı maddesinin birinci bendinde kamu kurum ve kuruluşlarının tasarrufunda bulunan eğitim ve dinlenme tesisi, misafirhane, kreş, çocuk bakımevi, spor tesisi ve benzeri sosyal tesislerin işletme giderleri için ilgili kurum ve kuruluşların bütçelerinden herhangi bir katkıda bulunulmamasının esas olduğu hüküm altına alınmıştır.
+
+Söz konusu hükümler uyarınca sosyal tesislere ilişkin giderlerin bu tesislerden elde edilen gelirlerle karşılanması gerekmekte olup sosyal tesislerin işletme giderleri için ilgili kurum ve kuruluşların bütçelerinden herhangi bir katkıda bulunulmaması esastır. Ancak 2012 yılında ..… Üniversitesi bünyesinde bulunan tüm sosyal tesislerin giderlerinin bu tesislerin gelirlerinden karşılandığı, toplamda 2012 yılında tüm sosyal tesisler açısından kamu zararı oluşmadığı ve ….. Üniversitesi Senatosunun …… sayılı toplantısında alınan … no’lu karar ile yürürlüğe konulan “….. Üniversitesi Sosyal Tesisler İşletme Yönergesi”nde üniversite bünyesinde faaliyetlerini sürdüren uygulama anaokulları da dahil olmak üzere sosyal tesislerin tamamının bu işletmenin kapsamına alınacağı anlaşıldığından, üniversite bütçesinden uygulama anaokullarına yapılan ..… TL aktarmayla ilgili olarak ilişik bulunmadığına oyçokluğuyla,
+
+Azınlık Görüşü:
+
+Üye …… ve ……’ın karşı oy gerekçeleri:
+
+6260 sayılı 2012 Yılı Merkezi Yönetim Bütçe Kanunun 26 ncı maddesi ve 8 Ocak 2012 tarihli Kamu Sosyal Tesislerine İlişkin Tebliğ hükümleri uyarınca sosyal tesislere ilişkin giderlerin bu tesislerden elde edilen gelirlerle karşılanması gerekmekte olup sosyal tesislerin işletme giderleri için ilgili kurum ve kuruluşların bütçelerinden herhangi bir katkıda bulunulmaması esastır. Konunun tüm sosyal tesis giderleri açısından değerlendirilmemesi, bütçeden herhangi bir sosyal tesis için aktarma yapılıp yapılmadığının ortaya konulması gerekmektedir. Söz konusu durumda uygulama anaokulları için bütçeden aktarma yapıldığı sabit olduğundan, konu hakkında tazmin hükmü verilmesi gerekir.
