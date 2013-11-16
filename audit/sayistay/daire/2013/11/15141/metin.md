@@ -1,0 +1,3 @@
+Salon kira bedellerinin üniversite hesapları yerine döner sermaye hesaplarına yatırılması.
+
+2547 sayılı Yüksek Öğretim Kanunun “Gelir kaynakları” başlıklı 55 nci maddesine göre taşınır ve taşınmaz malların gelirleri yükseköğretim kurumlarının gelirleri arasındadır. Söz konusu madde hükümleri uyarınca taşınır ve taşınmaz malların gelirlerinin üniversite hesaplarına kaydedilmesi gerekmektedir. Salon kira bedellerinin üniversite hesapları yerine döner sermaye hesaplarına yatırıldığı görülmüşse de, 2012 yılı içinde döner sermaye hesaplarına yatırılan .… TL’nin Döner Sermaye birimince … tarih ve … nolu muhasebe işlem fişi ile üniversite hesaplarına yatırıldığı anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına oybirliğiyle,
