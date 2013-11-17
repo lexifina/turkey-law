@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19027",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2013/3)",
+  "number": "19027",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2013/19027",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19027&MevzuatTertip=5",
+  "source_sha256": "4c5ee98f23f27a13c400a0089902362114c26598014e7bfc370b47139ffeaab9",
+  "source_bytes": 10967,
+  "published": "2013-11-17",
+  "gazette": "28824",
+  "in_force": "2013-11-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.11.2013); own commencement article: \"Bu Tebliğ 1/11/2013 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/11/2013 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 435,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19027%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
