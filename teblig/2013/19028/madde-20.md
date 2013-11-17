@@ -1,0 +1,2 @@
+Ürünün soruşturma konusu ülkeden ithalatı
+MADDE 20 – (1) 2009 yılında Romanya’dan yapılan renksiz düz cam ithalatı 51.156 ton ile toplam ithalatın %36’sını, 2010 yılında 80.174 ton ile toplam ithalatın %49’unu, 2011 yılında 33.631 ton ile toplam ithalatın %30’unu, SD’de ise artarak 49.181 ton ile toplam ithalatın %46’sını oluşturmuştur. Değer olarak ise 2009 yılında 14,8 milyon ABD Doları olan Romanya menşeli ithalat, 2010 yılında 25 milyon ABD Doları, 2011 yılında 11,3 milyon ABD Doları, SD’de ise 12,5 milyon ABD Doları olarak gerçekleşerek önemli ölçüde artış göstermiştir.

@@ -1,0 +1,2 @@
+Ürünün genel ithalatı
+MADDE 19 – (1) 2009 yılında 144.010 ton olan toplam renksiz düzcam ithalatı, 2010 yılında 162.528 tona çıkmış ve 2011 yılında 111.839 tona gerilemiştir. SD’de ise 107.688 ton olarak gerçekleşmiştir. Değer olarak ise 2009 yılında 44 milyon ABD Doları olan toplam renksiz düz cam ithalatı, 2010 yılında 54,5 milyon ABD Doları, 2011 yılında 44,6 milyon ABD Doları, SD’de ise 33,6 milyon ABD Doları olarak gerçekleşmiştir.

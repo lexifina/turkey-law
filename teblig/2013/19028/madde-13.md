@@ -1,0 +1,3 @@
+İç piyasa satışlarına dayanan normal değer
+MADDE 13 – (1) İşbirliğine gelen üretici/ihracatçı firma için Yönetmeliğin 5 inci maddesi hükmü gereğince iç piyasa satışlarının esas alındığı hallerde normal değer, menşe ülkenin iç pazarında benzer ürün için normal ticari işlemler çerçevesinde bağımsız alıcılar tarafından ödenmiş olan veya ödenmesi gereken fiyatlar esasında belirlenmiştir.
+(2) St. Gobain firması, normal değer hesaplamasında belirli ürün tipleri için sadece kârlı satışların alındığını ancak kârlı satışların toplam satışların içerisindeki payının %80’in üzerinde olması nedeniyle kârlı kârsız tüm satışların alınması gerektiğini belirtmiştir. Söz konusu iddia üzerine yapılan inceleme neticesinde normal değer hesaplamasında gerekli düzeltme yapılmıştır.

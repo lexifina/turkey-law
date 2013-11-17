@@ -1,0 +1,2 @@
+Temsil testi
+MADDE 11 – (1) Yönetmeliğin 5 inci maddesi hükmü gereğince, işbirliğine gelen üretici/ihracatçı firmanın menşe ülkedeki iç piyasa satışlarının normal değer tespitinde kullanılıp kullanılmayacağının belirlenmesi için genel ve ürün tipleri bazında temsil testi uygulanmıştır. Buna göre, benzer ürün satışlarının miktar bazında Türkiye’ye satışlarının %5’ini veya daha fazlasını oluşturması halinde normal değer, normal ticari işlem çerçevesinde kabul edilen iç piyasa satışları esasında, aksi halde oluşturulmuş normal değer esasında belirlenmiştir.

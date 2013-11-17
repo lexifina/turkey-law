@@ -1,0 +1,2 @@
+Ürünün üçüncü ülkelerden ithalatı
+MADDE 21 – (1) Üçüncü ülkelerden yapılan ithalat, 2009 yılında 92.855 ton ile toplam ithalatın %64’ünü, 2010 yılında 82.316 ton ile toplam ithalatın %51’ini, 2011 yılında 78.208 ton ile %70’ini, SD’de ise 58.507 ton ile %54’ünü oluşturmuştur. Değer olarak ise 2009 yılında 29,1 milyon ABD Doları olan üçüncü ülke ithalatı, 2010 yılında 29,5 milyon ABD Doları, 2011 yılında 33,2 milyon ABD Doları ve SD’de 21,1 milyon ABD Doları olarak gerçekleşmiştir.
