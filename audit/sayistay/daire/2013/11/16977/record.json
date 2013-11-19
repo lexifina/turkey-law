@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10271",
+  "decision_date": "2013-11-19",
+  "source_id": 16977,
+  "chamber": "1",
+  "ilam_number": "54",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16977/",
+  "source_sha256": "2bdc86dce8c04003199d568d93efad543b4a755f185a46b2ce911747cee5d06e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
