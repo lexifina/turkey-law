@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.19032",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 430)",
+  "number": "19032",
+  "path": "teblig/2013/19032",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19032&MevzuatTertip=5",
+  "source_sha256": "ae6450b00120044cf47a5a944eb260204c8f754eed5e1e6cc58a93992cee2f78",
+  "source_bytes": 27106,
+  "published": "2013-11-19",
+  "gazette": "28826",
+  "in_force": "2013-11-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.11.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 110,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
