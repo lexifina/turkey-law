@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10271",
+  "decision_date": "2013-11-19",
+  "source_id": 8526,
+  "chamber": "1",
+  "ilam_number": "54",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8526/",
+  "source_sha256": "5a755af928c53d4b54ceebfb4d9cb1ceedc65946e44c06ca427e930b5724cc1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
