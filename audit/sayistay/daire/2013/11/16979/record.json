@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10271",
+  "decision_date": "2013-11-19",
+  "source_id": 16979,
+  "chamber": "1",
+  "ilam_number": "54",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16979/",
+  "source_sha256": "f98d06c6f656664b134d4c66873f037ec821e5aa422fc7c13eb2236bf3b393ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
