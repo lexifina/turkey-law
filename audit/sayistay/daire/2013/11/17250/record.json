@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10270",
+  "decision_date": "2013-11-19",
+  "source_id": 17250,
+  "chamber": "1",
+  "ilam_number": "29",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17250/",
+  "source_sha256": "f4c5778a6239ce4259d4c7729c2388500d8a788147daeb7fcea1fd8eb724000a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
