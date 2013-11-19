@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10270",
+  "decision_date": "2013-11-19",
+  "source_id": 7422,
+  "chamber": "1",
+  "ilam_number": "29",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7422/",
+  "source_sha256": "2669ccb51007c30d0e5d5b92792b6c679ae07d25280b56747b683238cc9a1637",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
