@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10269",
+  "decision_date": "2013-11-19",
+  "source_id": 7415,
+  "chamber": "1",
+  "ilam_number": "114",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7415/",
+  "source_sha256": "7f474fec2da346b30c0ef432ae974542b8b6bf8695f17de489fa2e00642a0bc1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
