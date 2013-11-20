@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.19035",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TTA GAYRİMENKUL ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ SÖZLEŞMELİ PERSONEL DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "19035",
+  "issuer": "TTA Gayrimenkul Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "tta-gayrimenkul-anonim-sirketi-genel-muduru",
+  "path": "regulation/tta-gayrimenkul-anonim-sirketi-genel-muduru/2013/19035",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19035&MevzuatTertip=5",
+  "source_sha256": "d1038cee69e4f6c650d318edf06c0f9b83296ebb007417ee7fb41593d368fca8",
+  "source_bytes": 9128,
+  "published": "2013-11-20",
+  "gazette": "28827",
+  "in_force": "2013-11-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.11.2013); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 258,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2013/11/20131120-7-1.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
