@@ -1,0 +1,3 @@
+Zorunlu hizmet süresi tamamlanmadan yapılabilecek yer değiştirmeler
+MADDE 14 – (1) Haklarında adli, idari, inzibati bir soruşturma yapılmış ve bu soruşturma sonucunda o yerde kalmalarında sakınca görülmüş olması, varsa sicil raporu sonuçlarına göre olumsuzluğun tespit edilmiş olması ya da personelin eş veya sağlık durumu dikkate alınarak zorunlu çalışma süreleri tamamlanmadan yer değiştirme suretiyle atama yapılabilir.
+(2) İlgilinin talebi ve Kuruluşun uygun görmesi şartıyla personel bulundukları hizmet bölgesinden daha alt hizmet bölgesine atanabilir. Bu takdirde alt hizmet bölgesinde geçecek hizmetleri personelin ayrıldıkları bölge hizmetinden sayılır.
