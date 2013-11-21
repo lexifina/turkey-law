@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4709/6",
+  "decision_date": "2013-11-21",
+  "title": "Önlisans başvurusunda bulunacak tüzel kişilerden alınacak teminat mektubu tutarına ilişkin.",
+  "resmi_gazete_date": "2013-11-28",
+  "resmi_gazete_number": "28835",
+  "categories": [
+    "Asgari sermaye ve teminat"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XkCPU20Zo4A=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XkCPU20Zo4A="
+  ],
+  "source_sha256": "bac2082873b01e565a202470132d0e6134282490000903cc3981402d6bb46d1a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33884,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-11-21",
+  "law_text_complete": false
+}
