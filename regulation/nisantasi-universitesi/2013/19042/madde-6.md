@@ -1,0 +1,2 @@
+Yaz öğretiminin kapsamı ve süresi
+MADDE 6 – (1) Yaz öğretiminde derslere kayıt, derslerin başlangıcı ve bitişi, sınavlara ilişkin esaslar Senato tarafından belirlenecek bir akademik takvime göre yürütülür. Yaz öğretiminde, normal bir dönemde yapılan ders saati kadar ders yapılır. Hazırlık sınıfında bu kural uygulanmaz. Yaz öğretimi isteğe bağlıdır ve eğitim-öğretim süresi yedi haftadır. Bu süre, yaz öğretiminde yapılacak final sınavlarını kapsamaz. Yaz öğretiminde geçen süre eğitim-öğretim süresinden sayılmaz.
