@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4717/3",
+  "decision_date": "2013-11-21",
+  "title": "AKEDAŞ’ın 2011-2015 uygulama dönemi yatırım planına ilişkin.",
+  "resmi_gazete_date": "2013-12-02",
+  "resmi_gazete_number": "28839",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wkRtP0DUARI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wkRtP0DUARI="
+  ],
+  "source_sha256": "7131aa1ee032507cbe858dd8007e9fa2f78083de46ac18e8bbbefdb889a09183",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-11-21",
+  "law_text_complete": false
+}
