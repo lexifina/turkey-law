@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-11-21",
+  "issue": "28828",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çevre Görevlisi, Çevre Yönetim Birimi ve Çevre Danışmanlık Firmaları Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131121-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131121.htm",
+  "index_sha256": "f456cf124fc2efbeac80bc8294d52ab1eff976b91ba21c808ac42b4eadb9065c",
+  "index_header": "21 Kasım 2013 ... 28828 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131121.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
