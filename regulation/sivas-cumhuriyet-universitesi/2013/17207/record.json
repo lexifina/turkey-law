@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-03-17",
+      "17.03.2013",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2013-11-22",
+      "RG-22/11/2013-28829",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-11-22",
+      "RG-22/11/2013-28829",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-11-22",
+      "RG-22/11/2013-28829",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-11-22",
+      "22/11/2013",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-22/11/2013-28829",
+  "first_law": null,
+  "gazette": "28590",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-11-22",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Sivas Cumhuriyet Üniversitesi",
+  "issuer_slug": "sivas-cumhuriyet-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sivas-cumhuriyet-universitesi/2013/17207",
+  "published": "2013-03-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=17207&MevzuatTertip=5",
+  "source_bytes": 31084,
+  "source_id": "8.5.17207",
+  "source_sha256": "21fa783da342acf84b0f8ae3e8533e7b5195fa5b827fe63ed705c4ab71572a51",
+  "text_status": "current-consolidated",
+  "title": "CUMHURİYET ÜNİVERSİTESİ ÖĞRETİM ELEMANLARININ TEKNOLOJİ GELİŞTİRME BÖLGELERİNDE GÖREVLENDİRİLME VE ŞİRKET KURABİLMELERİNE DAİR YÖNETMELİK",
+  "university_id": 185,
+  "word_count": 966
+}

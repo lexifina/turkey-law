@@ -1,0 +1,3 @@
+Şirket kurma ve şirket ortaklığı
+MADDE 6 – (1) Yaptıkları araştırmaların sonuçlarını ticarileştirmek isteyen öğretim elemanları, Üniversiteye başvurur. ÜYK bu başvuruyu; TTO başkanının ve ilgili bölümün görüşü, Fakülte/Enstitü Yönetim Kurulunun kararı ve Rektörün onayı ile inceleyerek, öğretim elemanına bölgede şirket kurma, kurulu bir şirkete ortak olma ve/veya bu şirketlerin yönetiminde görev alma izni verebilir. İlgili öğretim elemanının şirket yönetiminde görev alması hususunda 5 inci maddedeki görevlendirme ile ilgili süre ve esaslar uygulanır.
+(2) Bu madde ile ilgili olarak ÜYK tarafından, öğretim elemanlarının başvurularını incelemek ve izlemek üzere, TTO başkanının da dahil olduğu bir komisyon oluşturulur.
