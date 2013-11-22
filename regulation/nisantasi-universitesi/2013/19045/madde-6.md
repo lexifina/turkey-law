@@ -1,0 +1,2 @@
+Programın süresi ve devam zorunluluğu
+MADDE 6 – (1) Yabancı dil hazırlık programındaki eğitim-öğretim süresi en az yirmisekiz haftadır. Bu süre lisans ve ön lisans programlarının eğitim-öğretim sürelerine dâhil değildir. Öğrenciler, derslerin en az %70'ine devam etmekle yükümlüdür. Yönetim Kurulunca kabul edilen bir mazereti olmadan devamsızlığı her bir dönem için toplam ders saatinin %30'unu aşan öğrenciler başarısız sayılırlar.

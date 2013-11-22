@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-11-22",
+      "22.11.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28829",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-11-22",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Nişantaşı Üniversitesi",
+  "issuer_slug": "nisantasi-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/nisantasi-universitesi/2013/19045",
+  "published": "2013-11-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19045&MevzuatTertip=5",
+  "source_bytes": 21286,
+  "source_id": "8.5.19045",
+  "source_sha256": "f85e17799b6ea48a9f009965d052fada8b1fa247e81d1642b1482c804fed58f6",
+  "text_status": "as-enacted",
+  "title": "NİŞANTAŞI ÜNİVERSİTESİ YABANCI DİL HAZIRLIK SINIFI YÖNETMELİĞİ",
+  "university_id": 356,
+  "word_count": 1073
+}

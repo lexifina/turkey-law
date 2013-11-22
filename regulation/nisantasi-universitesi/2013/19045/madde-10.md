@@ -1,0 +1,3 @@
+Notlandırma
+MADDE 10 – (1) Zorunlu hazırlık eğitiminde yılsonu not ortalaması 70 ve üzeri olan öğrenciler başarılı sayılırlar ve isteğe bağlı hazırlık eğitimi alan öğrenciler sertifika almaya hak kazanır.
+(2) Başarısız öğrenciler için yaz okulu programı uygulanır. Yaz okuluna katılmayan veya katıldığı halde başarılı olamayan ve yabancı dilde eğitim alacak öğrenciler bir eğitim-öğretim yılı daha hazırlık eğitimi görür. Türkçe eğitim alacak öğrenciler ise kayıtlı oldukları bölüm/program derslerine devam edebilir, ancak öğrencinin üniversiteden mezun olabilmesi için yeterlilik sınavları, ÜDS, KPDS, YDS veya uluslararası eşdeğerliliği olan sınavların birinden geçer not almaları gerekmektedir.
