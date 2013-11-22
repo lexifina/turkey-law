@@ -15,3 +15,4 @@ KHK/650 | 61 | 1/1/2012
 6459 | 16, Geçici Madde 7 | 30/4/2013
 Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı | 61 inci maddenin birinci fıkrasının birinci cümlesi | 1/1/2013 tarihinden başlayarak altı ay sonra (1/7/2013)
 6494 | 61 | 7/7/2013
+Anayasa Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/107 K.: 2013/90 sayılı Kararı | 28 | 22/11/2013
