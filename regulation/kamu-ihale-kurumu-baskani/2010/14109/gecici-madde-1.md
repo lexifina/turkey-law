@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) 1/1/2010 tarihi itibariyle Kurumda uzman yardımcısı olarak görev yapan personelin yeterlik sınavında 44 üncü maddede yürürlükten kaldırılan yönetmelik hükümlerinin uygulanmasına devam edilir.

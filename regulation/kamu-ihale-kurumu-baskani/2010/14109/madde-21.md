@@ -1,0 +1,4 @@
+Yetki sınavı
+MADDE 21 – (1)Yetki sınavının yapılacağı tarih Başkan tarafından belirlenir ve sınav tarihinden en az otuz gün önce uzman yardımcılarına bildirilir. Yetki sınavı 28 inci maddeye uygun olarak oluşturulan komisyon tarafından yapılır. Yetki sınavında başarılı olabilmek için yüz tam puan üzerinden en az yetmiş puan alınması şarttır. Komisyon sınav sonuçlarını en geç on beş gün içinde bir tutanakla (Değişik ibare:RG-3/1/2013-28517) Eğitim Dairesi Başkanlığına teslim eder. Sınav sonuçları iki gün içinde ilgililere bildirilir.
+(2) Yetki sınavında başarılı olamayanlar ile mazeretleri sebebiyle yetki sınavına giremeyenler üç ay içerisinde yapılacak sınava alınırlar. Bu durumda olanların yeterlik sınav süresi de aynı süre ile uzatılır.
+(3) Yetki sınavında başarılı olan uzman yardımcıları tek başına inceleme yetkisi kazanırlar. Başarılı olamayanlar ise yardımcılıkları süresince tek başına inceleme yapamazlar.

@@ -1,0 +1,2 @@
+Uzmanlığa atanma
+MADDE 33 – (1) (Değişik:RG-3/1/2013-28517) Yeterlik sınavında başarılı olanların uzman kadrolarına atanabilmeleri, Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavından asgari (C) veya dil yeterliği bakımından buna denkliği kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye yeterlik sınavı tarihi itibarıyla veya sınavdan itibaren en geç iki yıl içinde sahip olma şartına bağlıdır.

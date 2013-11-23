@@ -1,0 +1,2 @@
+Tezin sözlü savunulması
+MADDE 30 – (1) Tezi yeterli görülen uzman yardımcısı, Yeterlik Sınav Komisyonu üyelerinin huzurunda hazırladığı tezin sözlü savunmasını yapar ve komisyon üyeleri tarafından tez konusuyla ilgili olarak sorulan soruları cevaplar. Sözlü savunmaya ilişkin değerlendirme, Yeterlik Sınav Komisyonu üyelerince yüz puan üzerinden verilen notların aritmetik ortalaması alınarak yapılır ve bir tutanakla tespit edilir.

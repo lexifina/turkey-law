@@ -1,0 +1,3 @@
+Yeterlik sınav komisyonu
+MADDE 28 – (1) (Değişik:RG-3/1/2013-28517) Yeterlik Sınav Komisyonu; Başkanın veya görevlendireceği başkan yardımcısının başkanlığında, grup başkanı, daire başkanı, Baş Hukuk Danışmanı ile uzmanlar arasından Başkan tarafından belirlenecek en az beş üyeden oluşur. Yeterlik Sınav Komisyonuna Başkanın başkanlık etmesi halinde, bir başkan yardımcısı komisyon üyesi olarak görevlendirilir. Yeterlik Sınav Komisyonu yedek üyeleri ile birlikte tespit edilir ve asil üyelerin herhangi bir nedenle komisyona katılamamaları durumunda, yerine belirlenen yedek üye komisyona katılır.
+(2) Yeterlik Sınav Komisyonunun sekreterya hizmetleri (Değişik ibare:RG-3/1/2013-28517) Eğitim Dairesi Başkanlığınca yürütülür.

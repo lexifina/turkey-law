@@ -1,0 +1,2 @@
+Yönetmelikte hüküm bulunmayan haller
+MADDE 43 – (1) Bu Yönetmelikte hüküm bulunmayan hallerde; 16/11/2009 tarihli ve 2009/15611 sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren Kamu İhale Kurumu Teşkilatı ve Personelinin Çalışma Usul ve Esasları Hakkında Yönetmelik, Kamu İhale Kurumu İnsan Kaynakları Yönetmeliği ve 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümleri uygulanır.

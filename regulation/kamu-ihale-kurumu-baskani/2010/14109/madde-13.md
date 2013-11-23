@@ -1,0 +1,3 @@
+Sözlü sınava çağrı
+MADDE 13 – (1) (Değişik:RG-19/3/2011-27879) Yazılı sınavdan en az yetmiş puan almış olmak şartıyla en yüksek puanı alan adaydan itibaren, eğitim durumları itibarıyla ilan edilen boş kadro sayısının (Değişik ibare:RG-3/1/2013-28517) dört katı aday sözlü sınava girmeye hak kazanır. Sözlü sınava girmeye hak kazanan en düşük puana sahip adayla aynı puanı alan adaylar da sözlü sınava çağrılır.
+(2) Sözlü sınava çağrılan adayların isimleri, sözlü sınavın nerede ve ne zaman yapılacağı ile sözlü sınav konuları ve ağırlık oranları, Kurum ilan panosunda ve (Değişik ibare:RG-3/1/2013-28517) internet sitesinde ilan edilir.

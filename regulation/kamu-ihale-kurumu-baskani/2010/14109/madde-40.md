@@ -1,0 +1,2 @@
+Görevin yürütülmesinde yazı dili
+MADDE 40 – (1) Yazıların ve raporların Kurum tarafından belirlenen usul ve esaslar çerçevesinde, dilbilgisi ve yazım kurallarına uygun şekilde, anlaşılır ifadeler kullanılarak, sade ve düzgün bir üslupla, hiçbir kişi veya kuruluşu rencide edebilecek sıfat ve ifadeler kullanılmadan, resmi yazışma usullerine uyularak ve konuyla ilgili olmayan ayrıntıdan kaçınılarak yazılması esastır.

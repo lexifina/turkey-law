@@ -1,0 +1,2 @@
+Sınav duyurusu
+MADDE 6 – (1) (Değişik:RG-3/1/2013-28517) Giriş sınavına katılma şartları, atama yapılacak kadro sayısı, KPSS puan türü ya da türleri, puan sıralamasına göre çağrılacak aday sayısı, öğrenim alanları, sınav şekli, başvuru tarihleri ve yeri, sınav tarihi, yeri ve değerlendirme yöntemi ile diğer hususlar, başvurunun sona erdiği tarihten en az on beş gün önce Resmî Gazete’de ve Kurumun internet sitesi ile Türkiye genelinde yayınlanan tirajı en yüksek ilk beş gazetenin en az birinde ilan edilir.
