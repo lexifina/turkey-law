@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2013/512",
+  "list_number": "512",
+  "decision_date": "2013-11-23",
+  "title": "30 Mart 2014 tarihinde yapılacak olan Mahalli İdareler Seçimlerinde, siyasi partilerin kadın ve gençlik kollarının il ve ilçe yönetim kurulu başkan ve üyelerinin, aday olabilmek için görevlerinden çekilmelerine gerek bulunmadığına ilişkin Yüksek Seçim Kurulu kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2570/2013-512.pdf",
+  "source_sha256": "7a14746d10f05355a9e5ce0b9219db65401fc39d7982fc350b9f856a7ae27381",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-11-23",
+  "law_text_complete": false
+}
