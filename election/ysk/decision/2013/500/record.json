@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2013/500",
+  "list_number": "500",
+  "decision_date": "2013-11-23",
+  "title": "6172 sayılı Kanunun 1. maddesi ve 16. maddesindeki düzenlemeler karşısında, sulama birliğinin kamu tüzel kişiliğine sahip olması nedeniyle birlik meclisinin yönetim ve denetim kurulunda görev yapan üyelerden aday olmak isteyenlerin görevlerinden ayrılmaları gerektiğine ilişkin Yüksek Seçim Kurulunun 2013/500 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2576/2013-500.pdf",
+  "source_sha256": "3e434aae73d1207e7294d6b0113064e7f1d5a4211a2eb9b8e560f79f987cb367",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-11-23",
+  "law_text_complete": false
+}
