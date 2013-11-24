@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-11-24",
+  "issue": "28831",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Plastik Boru Sistemleri-Gaz Yakıtların Taşınmasında Kullanılan-Polietilenden (PE)-Bölüm 3: Ekleme Parçaları ile İlgili Tebliğ (TS EN 1555-3+A1) (No: MSG-MS-2013/30)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131124-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131124.htm",
+  "index_sha256": "5ec117558922807a63b6adfa47f7f6879109a1cbbdf693d84b245639e2c3024d",
+  "index_header": "24 Kasım 2013 ... 28831 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131124.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
