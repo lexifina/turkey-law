@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK 67 / 2013-12",
+  "source_id": 774,
+  "date": "2013-11-26",
+  "title": "Elektronik defter tutma zorunluluğu getirilen mükelleflere ilişkin açıklama",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/774",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "621f85ae8319bb173ef890244394dd6dc3dad072109ddec780dd24d4fcba5b7d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
