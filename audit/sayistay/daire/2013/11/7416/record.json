@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10277",
+  "decision_date": "2013-11-26",
+  "source_id": 7416,
+  "chamber": "1",
+  "ilam_number": "149",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7416/",
+  "source_sha256": "7d69cd29f18f405299deb020756e26fb0d8a268e63bee300830e325ed4acdfe9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
