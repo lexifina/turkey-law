@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10272",
+  "decision_date": "2013-11-26",
+  "source_id": 7410,
+  "chamber": "1",
+  "ilam_number": "16",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7410/",
+  "source_sha256": "225cace1aeb26e229759823faa34ef3e949ba40a79db632ec23efaaf116eedda",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
