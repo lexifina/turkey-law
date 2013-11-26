@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10273",
+  "decision_date": "2013-11-26",
+  "source_id": 16975,
+  "chamber": "1",
+  "ilam_number": "14",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16975/",
+  "source_sha256": "dadf670ecd9c202b06144a90bb8fcad8d221aca239553aac4b8b9a7010540222",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
