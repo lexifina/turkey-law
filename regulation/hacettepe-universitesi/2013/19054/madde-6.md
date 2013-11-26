@@ -1,0 +1,7 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Tahkim ve alternatif uyuşmazlık çözümünün uygulama alanları ile ilgili ulusal ve uluslararası nitelikte araştırmalar yapmak, bu konularda araştırma yapan araştırma merkezleriyle ve diğer resmi ve özel kurum ve kuruluşlarla işbirliğinde bulunmak, projeler yürütmek, kamuoyunda farkındalık yaratmak.
+b) Faaliyet alanları ile ilgili bireysel yetenekleri geliştirici ve sosyal sorumluluk amacı taşıyan seminer, çalıştay, sempozyum, kongre ve benzeri etkinlikler, karşılıklı veya karşılıksız sertifika programları, hizmet içi eğitim niteliğinde kurslar düzenlemek ve öğrencilerin lisans, yüksek lisans ve doktora çalışmalarına akademik destek vermek.
+c) Resmi ve özel kurum ve kuruluşlara, gerçek ve tüzel kişilere, karşılıklı veya karşılıksız akademik veya uygulamaya yönelik konularda danışmanlık hizmeti vermek, hukuk uyuşmazlıklarında tavsiye etmek üzere hakem, uzlaştırıcı, arabulucu, bilirkişi ve uzman listeleri oluşturmak, Yönetim Kurulu üyeleri, Danışma Kurulu üyeleri ve Merkez listelerinde yer alan kişiler arasından hakem, uzlaştırıcı, arabulucu, bilirkişi veya uzman tavsiye etmek.
+ç) Faaliyet alanları ile ilgili araştırma ve etkinliklerin verimli bir şekilde yürütülmesi amacıyla bilgi bankası oluşturmak, kütüphane, arşiv ve gerekli diğer tesisleri kurmak, ulusal ve uluslararası yayınları izlemek ve bunları Merkeze kazandırmak.
+d) Araştırmalardan veya diğer faaliyetlerinden elde edilen bilgilerin ve sonuçların bilimsel yayınlara dönüştürülmesini ve yayımlanmasını sağlamak.
