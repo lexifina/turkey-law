@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-92/2013-7/ Bireysel Emeklilik Sistemi-5",
+  "source_id": 565,
+  "date": "2013-11-26",
+  "title": "Bireysel emeklilik sistemine yapılan aktarımlar ve tevkifat uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/565",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "0ed18b762133dd748511639bec50cfd229ee5b30af182999504ac7c430786f1b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
