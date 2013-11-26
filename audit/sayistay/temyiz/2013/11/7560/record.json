@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "37966",
+  "decision_date": "2013-11-26",
+  "source_id": 7560,
+  "chamber": "8",
+  "file_number": "37254",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7560/",
+  "source_sha256": "4c5a5216b14a7b94de551920baf4f6579aedaa91d7c586cf9ce8a02f4e753e19",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
