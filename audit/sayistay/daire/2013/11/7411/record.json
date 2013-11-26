@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10273",
+  "decision_date": "2013-11-26",
+  "source_id": 7411,
+  "chamber": "1",
+  "ilam_number": "14",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7411/",
+  "source_sha256": "57d2a3dacc160cd2755cc52a50ff11450cdb9d3dcf7f4b141a17254228004466",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
