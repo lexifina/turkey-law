@@ -1,0 +1,2 @@
+Hüküm bulunmayan hâller
+MADDE 39 – (1) Bu Yönetmelikte hüküm bulunmayan hâllerde, 6093 sayılı Türkiye Yazma Eserler Kurumu Başkanlığı Kuruluş ve Görevleri Hakkında Kanun, 657 sayılı Devlet Memurları Kanunu ve 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümleri uygulanır.

@@ -1,0 +1,4 @@
+Tez savunması
+MADDE 27 – (1) Teslim edilen tezler, İnsan Kaynakları ve Destek Hizmetleri Daire Başkanlığı tarafından bir hafta içinde 30 uncu maddedeki esaslara göre oluşturulacak Yeterlik Sınav Komisyonuna gönderilir. Komisyon, tez jürisi olarak uzman yardımcısının tezini değerlendirir.
+(2) Komisyon, her bir adayın tez savunmalarını alır ve tez danışmanı raporu ile birlikte değerlendirir. Tezin yeterli veya yetersiz olduğuna oy çokluğu ile karar verilir. Yetersiz bulunan tezler için gerekçenin gösterilmesi zorunludur. Yeterli bulunup şekil yönünden düzeltilmesi istenen tezler, ilgili uzman yardımcıları tarafından bir ay içinde düzeltilir.
+(3) Tezin başarısız bulunması veya süresi içinde tezin sunulmaması halinde, Komisyon tarafından tezde tespit edilen eksiklikler yazılı olarak bildirilir ve uzman yardımcısına tezini düzeltmesi veya yeni bir tez hazırlaması ya da tezini sunması için altı ayı aşmamak üzere ek süre verilir.
