@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-11-27",
+      "27.11.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28834",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-11-27",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Sabahattin Zaim Üniversitesi",
+  "issuer_slug": "istanbul-sabahattin-zaim-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-sabahattin-zaim-universitesi/2013/19057",
+  "published": "2013-11-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19057&MevzuatTertip=5",
+  "source_bytes": 19845,
+  "source_id": "8.5.19057",
+  "source_sha256": "4771be8ba486ddb2b61dedaba8e1afbddd7f00e56d1079e4fe4ea1e23df06026",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ UZAKTAN ÖĞRETİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 360,
+  "word_count": 938
+}
