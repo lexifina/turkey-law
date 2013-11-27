@@ -1,0 +1,9 @@
+İzinler
+MADDE 20 – (1) Sosyal güvenlik kurumlarına emekli keseneği ödenmek suretiyle geçen sürelerinin toplamı 10 yıla kadar (10 yıl dahil) olan sözleşmeli personele 20 gün, 10 yıldan fazla ise 30 gün ücretli izin verilir.
+(2) Sözleşmeli personelin yıllık izne hak kazanabilmesi için, Başkanlıkta sözleşmeli statüde hizmete ara vermeksizin en az bir yıl çalışması şarttır.
+(3) Yıllık izinler, iş durumu ve sözleşmeli personelin talebi göz önüne alınarak izin vermeye yetkili amirler tarafından toptan veya en çok üç defada verilebilir.
+(4) Yıllık iznini kullananlar, zaruri hâllerde, izin veren makam tarafından yazılı olarak göreve çağırıldıklarında, göreve gelmek zorundadırlar. Bu durumdaki sözleşmeli personel, yıllık izninden kalan kısmı sözleşme dönemi içerisinde daha sonraki bir zamanda kullanabilir.
+(5) Sözleşmeli personele isteği üzerine eşinin doğum yapması halinde iki gün, kendisinin veya çocuğunun evlenmesi, annesinin, babasının, eşinin, çocuğunun veya kardeşinin ölümü halinde üç gün ücretli mazeret izni verilir.
+(6) Sözleşmeli kadın personele, doğumdan önce sekiz, doğumdan sonra sekiz hafta olmak üzere toplam on altı hafta süre ile izin verilir. Çoğul gebelik halinde, doğum öncesi sekiz haftalık izin süresine iki hafta eklenir. Ancak beklenen doğum tarihinden sekiz hafta öncesinde, sağlık durumunun uygun olduğunu doktor raporu ile belgeleyen sözleşmeli kadın personel, isterse doğumdan önceki üç haftaya kadar işyerinde çalışabilir. Bu durumda, sözleşmeli kadın personelin isteği halinde doğum öncesi çalıştığı süreler, doğum sonrası izin süresine eklenir.
+(7) Sözleşmeli personele, bir yaşından küçük çocuklarını emzirmeleri için günde toplam bir buçuk saat süt izni verilir. Süt izninin kullanımında, annenin saat seçimi hakkı vardır.
+(8) Hastalık izinleri bağlı oldukları sosyal güvenlik kurumunun mevzuatına göre verilir. 30 günü aşan hastalık izinleri için sözleşmeli personele ücret ödenmez.

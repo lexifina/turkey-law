@@ -1,0 +1,2 @@
+Yurtdışı harcırahı
+MADDE 17 – (1) Sözleşmeli personele yabancı ülkelerde yapacağı geçici görev, gezi ve ikametleri için ödenecek yolluk ve gündelikler, öğrenim durumlarına göre yükselebilecekleri dereceleri aşmamak kaydıyla, sözleşme ücretlerinin tekabül ettiği en yakın memuriyet derecesi dikkate alınarak 6245 sayılı Harcırah Kanununun 34 üncü maddesi uyarınca tespit olunacak miktar ve esaslara göre hesap edilir.

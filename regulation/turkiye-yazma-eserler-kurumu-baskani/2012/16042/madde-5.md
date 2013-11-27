@@ -1,0 +1,2 @@
+Giriş sınavı duyurusu
+MADDE 5 – (1) Giriş sınavına katılma şartları, öğrenim dalları, sınav tarihi ve yeri, sınavın yapılış şekli, yazılı sınav yapılması hâlinde yazılı sınav konuları, kontenjan sayısı, son başvuru tarihi, öğrenim dallarına ve yabancı dillere ait kontenjanlar, başvuru yeri ve sınavla ilgili diğer hususlar, başvuru süresinin bitiminden en az on gün önce Bakanlığın, Başkanlığın kurumsal internet sitelerinde ve Türkiye çapında yayımlanan tirajı en yüksek beş gazeteden birinde ilân edilir.

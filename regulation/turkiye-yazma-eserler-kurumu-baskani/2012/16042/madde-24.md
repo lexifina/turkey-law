@@ -1,0 +1,4 @@
+Sözleşmenin yenilenmemesi ve feshi
+MADDE 24 – (1) Sözleşmeler; sözleşmeli olarak çalıştırılanların, görevden ayrılma taleplerinin Başkanlık tarafından kabulü; istek, yaş haddi ve malûllük sebeplerinden birine dayanılarak emekliye ayrılma; sözleşmeli personel alınma şartlarından herhangi birini taşımadığının sonradan anlaşılması veya sonradan sözleşmeli personel olabilme şartlarından birini kaybetmesi, Devlet memurluğundan çıkarılmayı gerektiren fiil veya halleri işlemeleri durumunda işten çıkarma cezası verilmesi veya ölüm hâllerinde sona erer.
+(2) Taraflar sözleşmenin bitiminden bir ay önce ihbar etmek şartı ile sebep göstermeksizin sözleşmeyi yenilemeyebilirler; aksi takdirde sözleşme süresi aynı şartlarla bir bütçe yılı uzatılmış sayılır.
+(3) Başkanlık, gerekçe göstermek suretiyle sözleşmeyi tek taraflı olarak her zaman feshedebilir.

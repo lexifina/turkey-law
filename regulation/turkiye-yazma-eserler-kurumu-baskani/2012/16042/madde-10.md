@@ -1,0 +1,3 @@
+Yazılı sınav
+MADDE 10 – (1) Yazılı sınav yapılmasına karar verilmesi durumunda yazılı sınav; Başkanlığın görev alanı dikkate alınarak giriş sınavı duyurusunda belirtilen konulardan yapılır. Yazılı sınav sonucunda yüz puan üzerinden yetmiş puandan az olmamak üzere, en yüksek puandan başlanarak giriş sınavı duyurusunda belirtilen pozisyon sayısının en fazla dört katına kadar aday sözlü sınava çağrılabilir. Sözlü sınava girmeye hak kazanan adayların isimleri ile sözlü sınavın yeri ve tarihi Başkanlığın ve Bakanlığın kurumsal internet sitelerinde ilân edilir.
+(2) Sınavda kopya çekenler, çekmeye teşebbüs edenler veya kopya çektiği tespit edilenler hakkında tutanak düzenlenir ve sınav kâğıtları geçersiz sayılır.
