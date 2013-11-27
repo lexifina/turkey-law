@@ -1,0 +1,5 @@
+Sınav Kurulu
+MADDE 15 – (1) Görevde yükselme veya unvan değişikliği sınavlarına ilişkin işlemleri yürütmek üzere, beş kişiden oluşan Sınav Kurulu teşkil edilir. Sınav Kurulu, Başkan veya Başkanın görevlendireceği bir Daire Başkanının Başkanlığında, Başkan tarafından belirlenecek personel birimi temsilcisi veya temsilcileri ile diğer üyeler olmak üzere beş kişiden teşekkül eder. Ayrıca aynı usulle yedek üye de seçilir. Kurul, üye tamsayısı ile toplanır, kararlar oy çokluğu ile alınır, çekimser oy kullanılmaz.
+(2) Sınav Kurulunu teşkil eden üyeler görevde yükselme sınavına alınacak personelden, öğrenim ve ihraz ettikleri unvan itibariyle daha düşük seviyede olamazlar.
+(3) Sınav Kurulunun başkan ve üyelerinin görevde yükselme sınavına eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının katıldığının tespit edilmesi halinde, bu üye veya üyeler Sınav Kurulu üyeliğinden çıkartılır ve bunların yerine yeni üye veya üyeler görevlendirilir.
+(4) Sınav Kurulunun sekretarya hizmetleri İnsan Kaynakları ve Destek Hizmetleri Dairesi Başkanlığı tarafından yürütülür.

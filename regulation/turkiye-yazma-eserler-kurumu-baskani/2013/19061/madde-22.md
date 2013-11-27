@@ -1,0 +1,3 @@
+Naklen atamalar
+MADDE 22 – (1) Diğer kamu kurum ve kuruluşlarında görev yapanlardan, bu Yönetmelikte belirtilen aynı unvana veya bu unvanın bulunduğu aynı alt gruptaki diğer unvanlara veya daha alt unvanlara genel hükümlere göre naklen atama yapılabilir. Ancak, bu şekilde atanacaklarda bu Yönetmelikte o kadro veya unvan için öngörülen şartlardan Başkanlıkta belli bir süre çalışmış olmanın dışındaki şartlar aranır.
+(2) Diğer personel kanunlarına tabi olanların 657 sayılı Devlet Memurları Kanununa tabi görevlere atanmalarında ihraz ettikleri unvanlar, aynı unvanın olmaması halinde öğrenim durumu ve ihraz ettiği unvanla birlikte atanacağı unvan ve Devlet Personel Başkanlığının olumlu görüşü dikkate alınır.

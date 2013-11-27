@@ -1,0 +1,3 @@
+Başarı sıralaması
+MADDE 13 – (1) Görevde yükselme suretiyle ilan edilen boş kadro veya pozisyon sayısı kadar atama yapılmasında başarı puanı esas alınır. Başarı puanı, Araştırma ve Eğitim Merkezi Müdürü, Yazma Eser Kütüphane Müdürü, Şube Müdürü veya İşletme Müdürü kadrolarına atanacaklar için sözlü sınav; diğer kadro veya pozisyonlara atanacaklar için yazılı sınav puanı esas alınmak suretiyle tespit edilir ve Başkanlık resmi internet adresinde ilan edilir.
+(2) Görevde yükselme sınavında başarılı olmalarına rağmen, ilan edilen kadro ve pozisyon sayısı nedeniyle ataması yapılamayacak personelden en fazla asıl aday sayısı kadar personel, başarı sıralaması listesinde yedek olarak belirlenir.
