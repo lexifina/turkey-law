@@ -3,9 +3,8 @@ Geçici Madde 4- a) Bu Kanunun 3 üncü maddesinin (b) bendine ilişkin esas ve 
 b) Bu Kanunun 3 üncü maddesinin (d) bendine ilişkin esas ve usuller, Kamu İhale Kurumunun uygun görüşü üzerine, Dışişleri, Millî Savunma, Maliye ve Bayındırlık ve İskân Bakanlıkları tarafından,
 c) Bu Kanunun 3 üncü maddesinin (f) bendi gereğince yapılacak mal ve hizmet alımlarına ilişkin esas ve usuller, Kamu İhale Kurumunun uygun görüşü üzerine, ilgili kurumlar tarafından,
 İlgili kurum ve kuruluşların görüşleri alınmak suretiyle Kanunun yürürlüğe gireceği tarihe kadar hazırlanarak, Bakanlar Kurulu Kararı ile yürürlüğe konulur.
-Bu Kanunun 3 üncü maddesinin (e) bendi gereğince (Ek ibare: 12/6/2002-4761/18 md.) yapılacak alımlarda uygulanacak esas ve usuller Kurum tarafından,Devlet Malzeme Ofisinden yapılacak alımlara ilişkin esas ve usuller ise gerekli görülmesi halinde
-Maliye Bakanlığı tarafından belirlenebilir. (1)
-–––––––––––––––
+Bu Kanunun 3 üncü maddesinin (e) bendi gereğince (Ek ibare: 12/6/2002-4761/18 md.) yapılacak alımlarda uygulanacak esas ve usuller Kurum tarafından, Devlet Malzeme Ofisinden yapılacak alımlara ilişkin esas ve usuller ise gerekli görülmesi halinde Maliye Bakanlığı tarafından belirlenebilir. (1)
+––––––––––––––––––––––––––––––––––
 (1) Bu fıkrada bulunan “yapılacak alımlarda uygulanacak esas ve usuller Kurum tarafından,” ibaresi 12/6/2002 tarihli ve 4761 sayılı Kanunla eklenmiştir.
 8258-8
 (Ek: 12/6/2002-4761/18 md.; Değişik son fıkra: 30/7/2003-4964/40 md.) Bu Kanunun 3 üncü maddesinin (g) bendi kapsamındaki mal ve hizmetler, ilgili kuruluşların talebi üzerine Kurum tarafından belirlenir.

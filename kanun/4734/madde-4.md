@@ -2,20 +2,20 @@ Tanımlar
 Madde 4- Bu Kanunun uygulanmasında;
 Mal : Satın alınan her türlü ihtiyaç maddeleri ile taşınır ve taşınmaz mal ve hakları,
 Hizmet: (Değişik: 30/7/2003-4964/3 md.) Bakım ve onarım, taşıma, haberleşme, sigorta, araştırma ve geliştirme, muhasebe, piyasa araştırması ve anket, danışmanlık, (…) (1) , tanıtım, basım ve yayım, temizlik, yemek hazırlama ve dağıtım, toplantı, organizasyon, sergileme, koruma ve güvenlik, meslekî eğitim, fotoğraf, film, fikrî ve güzel sanat, bilgisayar sistemlerine yönelik hizmetler ile yazılım hizmetlerini, taşınır ve taşınmaz mal ve hakların kiralanmasını ve benzeri diğer hizmetleri, (1)
-Yapım : Bina, karayolu, demiryolu, otoyol, havalimanı, rıhtım, liman, tersane, köprü, tünel, metro, viyadük, spor tesisi, alt yapı, boru iletim hattı, haberleşme ve enerji nakil hattı, baraj, enerji santrali, rafineri tesisi, sulama tesisi, toprak ıslahı, taşkın koruma ve dekapaj gibi her türlü inşaat işleri ve bu işlerle ilgili tesisat, imalat, ihzarat, nakliye, tamamlama, büyük onarım, restorasyon, çevre düzenlemesi, sondaj, yıkma, güçlendirme ve montaj işleri ile benzeri yapım işlerini,
-Tedarikçi : Mal alımı ihalesine teklif veren gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
-Hizmet sunucusu : Hizmet alımı ihalesine teklif veren gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
 ––––––––––––
 (1) 22/2/2007 tarihli ve 5583 sayılı Kanunun 9 uncu maddesi ile eklenen “(k)” bendi, 13/2/2011 tarihli ve 6111 sayılı Kanunun 177nci maddesi ile “(p)” bendi olarak teselsül ettirilmiştir.
 (2) 20/11/2008 tarihli ve 5812 sayılı Kanunun 2 nci maddesiyle; bu tanımda yer alan “mimarlık ve mühendislik, etüt ve proje, harita ve kadastro, imar uygulama, her ölçekte imar planı” ibareleri metinden çıkarılmıştır.
 8228-3
+Yapım : Bina, karayolu, demiryolu, otoyol, havalimanı, rıhtım, liman, tersane, köprü, tünel, metro, viyadük, spor tesisi, alt yapı, boru iletim hattı, haberleşme ve enerji nakil hattı, baraj, enerji santrali, rafineri tesisi, sulama tesisi, toprak ıslahı, taşkın koruma ve dekapaj gibi her türlü inşaat işleri ve bu işlerle ilgili tesisat, imalat, ihzarat, nakliye, tamamlama, büyük onarım, restorasyon, çevre düzenlemesi, sondaj, yıkma, güçlendirme ve montaj işleri ile benzeri yapım işlerini,
+Tedarikçi : Mal alımı ihalesine teklif veren gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
+Hizmet sunucusu : Hizmet alımı ihalesine teklif veren gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
 Danışman : Danışmanlık yapan, bilgi ve deneyimini idarenin yararı için kullanan, danışmanlığını yaptığı işin yüklenicileri ile hiçbir organik bağ içinde bulunmayan, idareden danışmanlık hizmeti karşılığı dışında hiçbir kazanç sağlamayan ve danışmanlık hizmetlerini veren hizmet sunucularını,
 Yapım müteahhidi : Yapım işi ihalesine teklif veren gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
 Aday : Ön yeterlik için başvuran gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
 Ortak girişim: (Değişik: 30/7/2003-4964/3 md.) İhaleye katılmak üzere birden fazla gerçek veya tüzel kişinin aralarında yaptıkları anlaşma ile oluşturulan iş ortaklığı veya konsorsiyumları,
 İstekli : Mal veya hizmet alımları ile yapım işlerinin ihalesine teklif veren tedarikçi, hizmet sunucusu veya yapım müteahhidini,
 İstekli olabilecek: (Ek: 20/11/2008-5812/2 md.) İhale konusu alanda faaliyet gösteren ve ihale veya ön yeterlik dokümanı satın almış gerçek veya tüzel kişiyi ya da bunların oluşturdukları ortak girişimi,
-8229
+8228-4 8229
 Yerli istekli: (Değişik: 30/7/2003-4964/3 md.) Türkiye Cumhuriyeti vatandaşı gerçek kişiler ile Türkiye Cumhuriyeti kanunlarına göre kurulmuş tüzel kişilikleri,
 Yüklenici : Üzerine ihale yapılan ve sözleşme imzalanan istekliyi,
 İdare : İhaleyi yapan bu Kanun kapsamındaki kurum ve kuruluşları,
