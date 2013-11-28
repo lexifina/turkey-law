@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10280",
+  "decision_date": "2013-11-28",
+  "source_id": 15595,
+  "chamber": "1",
+  "ilam_number": "18",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15595/",
+  "source_sha256": "fd72a9ae464bc221ca6d132025b82688a54f0a7fbcb86ffc36bc6d2014f3caeb",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
