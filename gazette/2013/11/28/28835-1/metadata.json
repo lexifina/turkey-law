@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-11-28",
+  "issue": "28835",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "6502 Tüketicinin Korunması Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131128-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131128.htm",
+  "index_sha256": "1a233245f64f331a30fd4d37f21838de6b6db0e8f09bd845ce5c53db64ab2117",
+  "index_header": "28 Kasım 2013 ... 28835 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131128.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
