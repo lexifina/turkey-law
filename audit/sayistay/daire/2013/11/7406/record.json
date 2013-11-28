@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10280",
+  "decision_date": "2013-11-28",
+  "source_id": 7406,
+  "chamber": "1",
+  "ilam_number": "18",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7406/",
+  "source_sha256": "4e115d0c186edcd03f901fc4c48cc1888843315ca3ae1fa81f4a23fc6c9d3882",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
