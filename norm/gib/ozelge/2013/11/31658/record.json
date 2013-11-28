@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13649056-130[17-2013-ÖZE/20]-95",
+  "source_id": 31658,
+  "date": "2013-11-28",
+  "title": "Belediye tarafından kamulaştırılan arsaların kooperatife teslimi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31658",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "0b6fccccc186d556f4f7ea843ed95f6bc2e086022c3c3accd24e973194f7b6f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
