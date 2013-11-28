@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2013/543",
+  "list_number": "543",
+  "decision_date": "2013-11-28",
+  "title": "30 Mart 2014 tarihinde yapılacak olan Mahalli İdareler ile Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimlerinde, kabine üyelerinin (bakanlar), aday olabilmek için görevlerinden çekilmelerine gerek bulunmadığına ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2567/2013-543.pdf",
+  "source_sha256": "c1ff4afe3a671f5c2bbdf6d71f1f9cd00630ffb71201496257193fb55fc081cd",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-11-28",
+  "law_text_complete": false
+}
