@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-11-29",
+  "issue": "28836",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İthalatta Korunma Önlemleri Yönetmeliğinde Değişiklik Yapılmasına İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131129-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131129.htm",
+  "index_sha256": "220f563673eac6a04dc41387a7fade23a7d9141482a8e0574dc0fa0f4342fcfc",
+  "index_header": "29 Kasım 2013 ... 28836 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/11/20131129.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
