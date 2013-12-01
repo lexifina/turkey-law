@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "BİLECİK BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2012,
+  "report_date": "2013-12-01",
+  "date_precision": "month",
+  "date_as_printed": "ARALIK 2013",
+  "source": "https://www.sayistay.gov.tr/reports/lJzgP2GYAp-bilecik-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/lJzgP2GYAp-bilecik-belediyesi",
+  "source_sha256": "c6b6c51cef2d9bce09a8fc6b8d088db72bfc2f32ab3b4b1d0f54a8b63fd61212",
+  "pdf_pages": 8,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=313",
+  "listing_sha256": "b3892debac4a3f8cbeca584b929055679618ff42b46295b0e9d4f54cff9b0cfb",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-12-01",
+  "in_force_basis": "Official report PDF cover: \"ARALIK 2013\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
