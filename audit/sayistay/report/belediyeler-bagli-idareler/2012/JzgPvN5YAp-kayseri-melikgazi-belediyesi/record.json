@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "KAYSERİ MELİKGAZİ BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2012,
+  "report_date": "2013-12-01",
+  "date_precision": "month",
+  "date_as_printed": "ARALIK 2013",
+  "source": "https://www.sayistay.gov.tr/reports/JzgPvN5YAp-kayseri-melikgazi-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/JzgPvN5YAp-kayseri-melikgazi-belediyesi",
+  "source_sha256": "0d8b85ba9bac2ffe7515d0a4393f984f03a86361f79bc2161fb08c5cc1ad92d8",
+  "pdf_pages": 9,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=320",
+  "listing_sha256": "828e8a998d7522dfdfbcc964d6d11a8d6bb929f03bb0db9bd66070d7f9481a18",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-12-01",
+  "in_force_basis": "Official report PDF cover: \"ARALIK 2013\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
