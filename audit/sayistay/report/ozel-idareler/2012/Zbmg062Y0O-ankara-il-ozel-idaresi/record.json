@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "ANKARA İL ÖZEL İDARESİ",
+  "category": "Özel İdareler",
+  "category_id": "30-ozel-idareler",
+  "report_year": 2012,
+  "report_date": "2013-12-01",
+  "date_precision": "month",
+  "date_as_printed": "ARALIK 2013",
+  "source": "https://www.sayistay.gov.tr/reports/Zbmg062Y0O-ankara-il-ozel-idaresi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/Zbmg062Y0O-ankara-il-ozel-idaresi",
+  "source_sha256": "35113ae6ec3231959f150520c50db93aad4f837f33693ffa1f282514e156c8d4",
+  "pdf_pages": 10,
+  "listing": "https://www.sayistay.gov.tr/reports/category/30-ozel-idareler?page=38",
+  "listing_sha256": "7d22282cd5638a93bf255f85cd3c546204cbcf9f24ab54770ee87877f41346f9",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-12-01",
+  "in_force_basis": "Official report PDF cover: \"ARALIK 2013\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
