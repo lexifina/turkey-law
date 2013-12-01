@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "HATAY İL ÖZEL İDARESİ",
+  "category": "Özel İdareler",
+  "category_id": "30-ozel-idareler",
+  "report_year": 2012,
+  "report_date": "2013-12-01",
+  "date_precision": "month",
+  "date_as_printed": "ARALIK 2013",
+  "source": "https://www.sayistay.gov.tr/reports/ZxLYGMrgp4-hatay-il-ozel-idaresi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/ZxLYGMrgp4-hatay-il-ozel-idaresi",
+  "source_sha256": "cc499a67b7d38b12e8d13c37584d22e2658fe3227decc0dce8fc905fa3566be1",
+  "pdf_pages": 9,
+  "listing": "https://www.sayistay.gov.tr/reports/category/30-ozel-idareler?page=41",
+  "listing_sha256": "40476eace5a0d2694a58faf8c3e02799a67ac9742e64dbf3899a3117f3a1d774",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-12-01",
+  "in_force_basis": "Official report PDF cover: \"ARALIK 2013\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
