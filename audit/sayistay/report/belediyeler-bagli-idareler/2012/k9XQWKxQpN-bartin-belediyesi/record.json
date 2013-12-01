@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "BARTIN BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2012,
+  "report_date": "2013-12-01",
+  "date_precision": "month",
+  "date_as_printed": "ARALIK 2013",
+  "source": "https://www.sayistay.gov.tr/reports/k9XQWKxQpN-bartin-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/k9XQWKxQpN-bartin-belediyesi",
+  "source_sha256": "0d55408d385c276aef2877c853195c47240c92a3ea64b7342b9d3e471768421e",
+  "pdf_pages": 10,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=313",
+  "listing_sha256": "b3892debac4a3f8cbeca584b929055679618ff42b46295b0e9d4f54cff9b0cfb",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-12-01",
+  "in_force_basis": "Official report PDF cover: \"ARALIK 2013\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
