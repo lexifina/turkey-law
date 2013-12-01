@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "BURSA OSMANGAZİ BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2012,
+  "report_date": "2013-12-01",
+  "date_precision": "month",
+  "date_as_printed": "ARALIK 2013",
+  "source": "https://www.sayistay.gov.tr/reports/Zbmg0Xqg0O-bursa-osmangazi-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/Zbmg0Xqg0O-bursa-osmangazi-belediyesi",
+  "source_sha256": "b0e2dd0e442b9edfee993cea7a1cc47bcec0570eed4986499fb874637eacd13c",
+  "pdf_pages": 9,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=315",
+  "listing_sha256": "7aaf8d9c29732f40f1f48a6a9d85800040cf9960174bc22558848d3551de9600",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-12-01",
+  "in_force_basis": "Official report PDF cover: \"ARALIK 2013\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
