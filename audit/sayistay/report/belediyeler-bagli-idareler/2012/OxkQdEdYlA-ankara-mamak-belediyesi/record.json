@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "ANKARA MAMAK BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2012,
+  "report_date": "2013-12-01",
+  "date_precision": "month",
+  "date_as_printed": "ARALIK 2013",
+  "source": "https://www.sayistay.gov.tr/reports/OxkQdEdYlA-ankara-mamak-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/OxkQdEdYlA-ankara-mamak-belediyesi",
+  "source_sha256": "d6e8302a3f83c4f603f66aee9b63b9543e71c4e258d144bc0aa57dc4cc8f02e9",
+  "pdf_pages": 10,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=314",
+  "listing_sha256": "bec91cca0e1482f6c47c373f92079da4fd397e917e6c91acdfed17e3a0991198",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-12-01",
+  "in_force_basis": "Official report PDF cover: \"ARALIK 2013\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
