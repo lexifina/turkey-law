@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "KAYSERİ KOCASİNAN BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2012,
+  "report_date": "2013-12-01",
+  "date_precision": "month",
+  "date_as_printed": "ARALIK 2013",
+  "source": "https://www.sayistay.gov.tr/reports/18QrO6qYjk-kayseri-kocasinan-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/18QrO6qYjk-kayseri-kocasinan-belediyesi",
+  "source_sha256": "c947f25a5b5df506002c5d2af8502d2721702dd7d065ee2ec8870feba8d211b3",
+  "pdf_pages": 8,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=319",
+  "listing_sha256": "ffb1da536730ba76453d462a8dc332c071545d18c2963aca22aae5b9c0d4f7da",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-12-01",
+  "in_force_basis": "Official report PDF cover: \"ARALIK 2013\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
