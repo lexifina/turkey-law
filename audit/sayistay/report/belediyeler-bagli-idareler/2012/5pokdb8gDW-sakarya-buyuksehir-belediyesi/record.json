@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "SAKARYA BÜYÜKŞEHİR BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2012,
+  "report_date": "2013-12-01",
+  "date_precision": "month",
+  "date_as_printed": "ARALIK 2013",
+  "source": "https://www.sayistay.gov.tr/reports/5pokdb8gDW-sakarya-buyuksehir-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/5pokdb8gDW-sakarya-buyuksehir-belediyesi",
+  "source_sha256": "85592527865f2a56d7f09a82a23e6201390d6773508dd7f1c20a29e0bf8b8546",
+  "pdf_pages": 18,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=322",
+  "listing_sha256": "5344045d3a7eafd908888f191ff90d71255a289f4c2daf6914adc6ee8420b556",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-12-01",
+  "in_force_basis": "Official report PDF cover: \"ARALIK 2013\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
