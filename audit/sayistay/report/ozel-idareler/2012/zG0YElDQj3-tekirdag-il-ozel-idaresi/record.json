@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "TEKİRDAĞ İL ÖZEL İDARESİ",
+  "category": "Özel İdareler",
+  "category_id": "30-ozel-idareler",
+  "report_year": 2012,
+  "report_date": "2013-12-01",
+  "date_precision": "month",
+  "date_as_printed": "ARALIK 2013",
+  "source": "https://www.sayistay.gov.tr/reports/zG0YElDQj3-tekirdag-il-ozel-idaresi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/zG0YElDQj3-tekirdag-il-ozel-idaresi",
+  "source_sha256": "340d315c66235151afd5f55882e8745c3da97792b0cb3aa9cddad0a3e88759d7",
+  "pdf_pages": 7,
+  "listing": "https://www.sayistay.gov.tr/reports/category/30-ozel-idareler?page=44",
+  "listing_sha256": "1225ae339416771afc5e451b41cff47bd558233e75885f18ce407cb7043e73cb",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2013-12-01",
+  "in_force_basis": "Official report PDF cover: \"ARALIK 2013\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
