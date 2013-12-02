@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84412373-130[9.-2013/3594]-117",
+  "source_id": 30477,
+  "date": "2013-12-02",
+  "title": "Adi Ortaklığın KDV tevkifatı sorumluluğu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30477",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "8db26509d7e2964c2b85714d52077d5243eb3c1326d91ac61773501b43d17a7f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
