@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97677631-047-8-30",
+  "source_id": 35939,
+  "date": "2013-12-02",
+  "title": "Gayrimenkul iktisabı dolayısıyla tapuda yapılacak tescil işleminde Ziraat Odasının tapu harcından muaf olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35939",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "2ade215e5ebf09b25c2361a0d98d5914b6bfc477c2d9869146794a5f4524f5d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
