@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "36",
+  "decision_date": "2013-12-03",
+  "source_id": 8480,
+  "chamber": "6",
+  "ilam_number": "71",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8480/",
+  "source_sha256": "735185e9f0bf8e135e4ec6eb0c8035ed40ca81f92a12e584419d9bf951df4cd3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
