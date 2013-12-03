@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38006",
+  "decision_date": "2013-12-03",
+  "source_id": 7424,
+  "chamber": "2",
+  "file_number": "37278",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7424/",
+  "source_sha256": "0fecb99bad1f6d9e12255852d870181ef76895b71e84e47de7a931ca229dd99f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
