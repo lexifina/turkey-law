@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "12",
+  "decision_date": "2013-12-03",
+  "source_id": 11070,
+  "chamber": "8",
+  "ilam_number": "125",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11070/",
+  "source_sha256": "46f4df3ed7961d9f2b58a45e9ee3e3f9f54409b54b34c5cd236615b16825ec7a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
