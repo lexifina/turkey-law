@@ -1,0 +1,5 @@
+Hizmet Alımı İşinde, ihalede (birim fiyat teklif cetvelinde) işçilik kalemleri için aylık (30 gün üzerinden) teklif alınmasına rağmen Ekim ayık hak ediş ödemesinde yükleniciye 31 gün üzerinden ödeme yapılması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … Belediyesi ile … Ltd. Şti. & … A.Ş. iş ortaklığı arasında “… Hizmet Alımı İşi”nde, ihalede (birim fiyat teklif cetvelinde) işçilik kalemleri için aylık (30 gün üzerinden) teklif alınmasına rağmen Ekim ayık hak ediş ödemesinde yükleniciye 31 gün üzerinden ödeme yapılması nedeniyle kamu zararına neden olunduğu iddia edilmekte ise de, söz konusu işe ait idari şartnamenin 48.3 nolu maddesinde ve sözleşmenin 9’uncu maddesinde sözleşme süresinin 365 gün olduğu belirtilmiş ve toplam 365 gün üzerinden sözleşme yapılmış ve ödemede bulunulmuştur.
+
+Bu itibarla konu edilen hususların mevzuatına uygun olduğu anlaşıldığından İLİŞİLECEK HUSUS BULUNMADIĞINA ve … tarih ve … nolu ödeme emri belgesinde konu edilen kamu zararı mahsup suretiyle tahsil edilmişse de, yersiz tahsil edilen bu miktarın ilgililerine İADESİNE oybirliğiyle,
