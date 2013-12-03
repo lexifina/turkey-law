@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-12-03",
+  "issue": "28840",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Sağlık Hizmetleri Fiyatlandırma Komisyonu Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131203-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131203.htm",
+  "index_sha256": "a06361f2541f54eb6c5292afb54f10178e8c8a896cef45b00c0a4ed28a7a1b94",
+  "index_header": "3 Aralık 2013 ... 28840 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131203.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
