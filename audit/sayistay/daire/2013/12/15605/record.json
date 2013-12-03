@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10283",
+  "decision_date": "2013-12-03",
+  "source_id": 15605,
+  "chamber": "1",
+  "ilam_number": "34",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15605/",
+  "source_sha256": "e75fe66a5d0b850e4b363ee74a35d2510fc95fd5d501828c0a1b154cbb9e6288",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
