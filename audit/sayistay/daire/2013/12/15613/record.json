@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10283",
+  "decision_date": "2013-12-03",
+  "source_id": 15613,
+  "chamber": "1",
+  "ilam_number": "34",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15613/",
+  "source_sha256": "48293bfdbffbaa92edfc4260c28a8f7a2968eb0dd44a8e6ecd76aeff19062514",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
