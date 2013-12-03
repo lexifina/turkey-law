@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "40",
+  "decision_date": "2013-12-03",
+  "source_id": 8578,
+  "chamber": "4",
+  "ilam_number": "139",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8578/",
+  "source_sha256": "9a589a7780dbce098c17c24d680c3a97a3d0525bbbbae8154922b790a00fa166",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
