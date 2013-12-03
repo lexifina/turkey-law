@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "34",
+  "decision_date": "2013-12-03",
+  "source_id": 18752,
+  "chamber": "6",
+  "ilam_number": "88",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18752/",
+  "source_sha256": "057a0534a9a2f1f2443e6d8e10fb36a89c5e8e39726c7c4198e65b60fa1e7de3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
