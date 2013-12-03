@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10283",
+  "decision_date": "2013-12-03",
+  "source_id": 8465,
+  "chamber": "1",
+  "ilam_number": "34",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8465/",
+  "source_sha256": "c612d702ab622d280434cf6a3ab35d3476ab697e2f0ad60fe76131661b72e2da",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
