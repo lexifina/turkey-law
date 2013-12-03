@@ -1,0 +1,9 @@
+Dava Kesinleşmeden Geçmişe Dönük Faiz Ödenmesi:
+
+................... Müdürlüğü’nde Bilgisayar İşletmeni olarak görev yapmakta iken, ..........tarihinde maaş tahakkuk ettirilmeden memuriyetine son verilen ............’ye, Danıştay 12. Hukuk Dairesince verilen Yürütmeyi Durdurma Kararı esas alınarak zamanında ödenmeyen aylıkları için kanuni faiz hesaplanıp ödenmesi ile ilgili olarak;
+
+........ tarihinde maaş tahakkuk ettirilmeden görevine son verilen .................., Bakanlık aleyhine ......... 3’üncü İdare Mahkemesinde iptal davası açmış, mahkemece iptal talebinin reddine karar verilmiştir. Bu defa ilgili, idare mahkemesince verilen red kararının bozulması istemiyle temyiz yoluna başvurmuş ve Danıştay 12’nci Hukuk Dairesince 2577 sayılı İdari Yargılama Usulü Kanunu’nun 27’nci maddesi uyarınca hakkında Yürütmeyi Durdurma Kararı verilmiştir. Yürütmeyi Durdurma Kararları idari tedbir niteliğinde verilen ara kararlar olup, davacı hakkında uygulanan idari işlemin yürütülmesi dava sonuçlanana kadar durdurulmakta, kişi idari işlem yapılmadan önceki durumuna döndürülmekte ve ödenmeyen özlük hakları kendisine ödenebilmektedir. Ancak hesaplanan kanuni faiz özlük hakkı olmayıp, daha önce ödenmemiş bulunan maaş alacaklarına bağlı gecikmeden dolayı talep edilen fer’i bir haktır ve asıl dava sonuçlanmadan ödenmemesi gerekmektedir.
+
+Sorumlularca yapılan savunmalar ve gönderilen eki belgelerin incelenmesi neticesinde, Yürütmeyi Durdurma Kararına istinaden geriye dönük olarak ödenen maaşların faizleri toplamı ...........TL.’nin davacı ..............tarafından ........tarih ve ............sayılı Tahsilat Fişi ile Kurum veznesine yatırıldığı ve ................tarih ve..........sayılı Muhasebe İşlem Fişi ile muhasebe kaydının yapıldığı anlaşılmış bulunduğundan;
+
+Bu konuda ilişilecek bir husus bulunmadığına, yapılan tahsilatın ilamda gösterilmesine, oy birliğiyle karar verildi.
