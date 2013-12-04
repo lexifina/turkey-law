@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-12-04",
+      "04.12.2013",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28841",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-12-04",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kocaeli Üniversitesi",
+  "issuer_slug": "kocaeli-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kocaeli-universitesi/2013/19078",
+  "published": "2013-12-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19078&MevzuatTertip=5",
+  "source_bytes": 19394,
+  "source_id": "8.5.19078",
+  "source_sha256": "a2d9bd07a0452dfc722044c58df3363896ee6a114f1d0bf04429c4ee02bfd890",
+  "text_status": "as-enacted",
+  "title": "KOCAELİ ÜNİVERSİTESİ BEYİN HİPOFİZ BEZİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 209,
+  "word_count": 876
+}

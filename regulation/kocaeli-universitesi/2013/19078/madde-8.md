@@ -1,0 +1,3 @@
+Müdür ve Müdür Yardımcısı
+MADDE 8 – (1) Müdür, Rektör tarafından nöroşirurji ana bilim dalının hipofiz bezi araştırma ve uygulamaları konusunda deneyimli, alanında ulusal ve uluslararası düzeyde basılmış eserleri olan Üniversite öğretim üyeleri arasından üç yıl için görevlendirilir. Süresi biten Müdür aynı yöntemle yeniden görevlendirilebilir.
+(2) Müdür, kendisine çalışmalarında yardımcı olmak üzere Üniversite öğretim elemanları arasından bir Müdür Yardımcısı seçer. Müdür Yardımcısı, Merkezle ilgili konularda Müdür tarafından verilen görevleri yerine getirir ve Yönetim Kurulu ve Danışma Kurulu toplantılarına katılabilir. Müdürün bulunmadığı zamanlarda müdürlüğe vekalet eder.
