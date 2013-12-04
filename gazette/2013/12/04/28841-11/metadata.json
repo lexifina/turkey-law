@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-12-04",
+  "issue": "28841",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Rüzgâr ve Güneş Enerjisine Dayalı Lisans Başvurularına İlişkin Ölçüm Standardı Tebliğinin Yürürlükten Kaldırılmasına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131204-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131204.htm",
+  "index_sha256": "335afe84f278559d8c5d0f34ab530389fa54ba85ba4758381d9ca9d0376e66e3",
+  "index_header": "4 Aralık 2013 ... 28841 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131204.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
