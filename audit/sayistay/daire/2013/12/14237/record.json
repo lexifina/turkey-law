@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "29",
+  "decision_date": "2013-12-05",
+  "source_id": 14237,
+  "chamber": "5",
+  "ilam_number": "60",
+  "item_number": 20,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14237/",
+  "source_sha256": "7068b73439204dd4d4b6023b88234535ea1047620e59af6db44118b1c390af59",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
