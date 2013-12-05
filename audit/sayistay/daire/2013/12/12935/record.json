@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "28",
+  "decision_date": "2013-12-05",
+  "source_id": 12935,
+  "chamber": "5",
+  "ilam_number": "63",
+  "item_number": 17,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12935/",
+  "source_sha256": "18bd663aa3ec49da3f8e0a5cc61b8cccc4d31db19fedd04c95a1a9b6b45c1a56",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
