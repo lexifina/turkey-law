@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4744/5",
+  "decision_date": "2013-12-05",
+  "title": "2014 yılı Lisansız Üretim Başvuru Bedeli",
+  "resmi_gazete_date": "2013-12-19",
+  "resmi_gazete_number": "28856",
+  "categories": [
+    "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TJq7qOyD8wk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TJq7qOyD8wk="
+  ],
+  "source_sha256": "a1515711c0a2b7aaab13c5883043bc9b5bc3b94ba4b9ef5d4795c6d997ad9f4f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1853,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-05",
+  "law_text_complete": false
+}
