@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6510",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Arşiv Alanında İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-12-05",
+  "gazette_issue": "28842",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131205-6.htm",
+  "source_sha256": "ef9d7749bde35ad2856cca38b094140509aaf2055be3fa43ab721784df380fa7",
+  "text_sha256": "17fd5d017134031f9eb8f992f5f732a895f6a4ff4396a66a4fe2cc8f8b0dec10",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/12/05/28842-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131205-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
