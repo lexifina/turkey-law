@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6505",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Belarus Cumhuriyeti Hükümeti Arasında Geri Kabul Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-12-05",
+  "gazette_issue": "28842",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131205-1.htm",
+  "source_sha256": "f15a2e74c5fd3d7b144495a9fc956fa923ad8a676fecea304247eb3def6c3e18",
+  "text_sha256": "9143af1a17fa7d1c4a379c74eca1b953fbbf8ed56f17e3ea343c323e66dc50e9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/12/05/28842-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131205-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
