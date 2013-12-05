@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6509",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Yunanistan Cumhuriyeti Hükümeti Arasında Diplomatik ve Konsüler Misyonlarda Çalışan Personelin Yakınlarının Kazanç Getirici Bir İşte Çalışmalarına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-12-05",
+  "gazette_issue": "28842",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131205-5.htm",
+  "source_sha256": "93d50a7d6a446cbd68ff70dd17a763ea28ec9ff6e63ae43431df3780725497f4",
+  "text_sha256": "16771377a26435c4f152363e00f0c8afd05bfbc4387568e5fcc6f0fe298774fb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/12/05/28842-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131205-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
