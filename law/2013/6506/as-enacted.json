@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6506",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sırbistan Cumhuriyeti Hükümeti Arasında Diplomatik Misyon ve Konsolosluk Mensuplarının Aile Bireylerinin Kazanç Getirici Bir İşte Çalışmalarına Olanak Sağlayan Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-12-05",
+  "gazette_issue": "28842",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131205-2.htm",
+  "source_sha256": "8bbc6a685b0623d36a4b905a012a85c7cbdc596cf8fc0e83f16ce84e1223abb5",
+  "text_sha256": "53b538b35e8aa0da7c754b3446d7dc99162a5897191c11cf9c255d6fa40ab442",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/12/05/28842-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131205-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
