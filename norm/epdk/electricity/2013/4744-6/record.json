@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4744/6",
+  "decision_date": "2013-12-05",
+  "title": "2014 yılı Lisansız Yıllık İşletim Ücreti",
+  "resmi_gazete_date": "2013-12-19",
+  "resmi_gazete_number": "28856",
+  "categories": [
+    "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=heAJHvHXaCE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=heAJHvHXaCE="
+  ],
+  "source_sha256": "ca73285b87ae095f6b5846bc41f0b3551849b20be118a2d153c410fa25c2860c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1853,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-05",
+  "law_text_complete": false
+}
