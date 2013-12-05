@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6507",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Tacikistan Cumhuriyeti Hükümeti Arasında Enerji ve Madencilik Alanında İşbirliğine İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-12-05",
+  "gazette_issue": "28842",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131205-3.htm",
+  "source_sha256": "276d8eff049a67e3178ed6de21b82fe6af309446d67b4617634cbbb7a70b315d",
+  "text_sha256": "d3404c9bcadb438cdb356c02f5a2457c063586a7a87397cbbae9c51a6b2dc944",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/12/05/28842-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131205-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
