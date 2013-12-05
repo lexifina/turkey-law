@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4744/4",
+  "decision_date": "2013-12-05",
+  "title": "2014 yılında geçerli olmak üzere, Türkiye Ortalama Elektrik Toptan Satış Fiyatı",
+  "categories": [
+    "TORETOSAF"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=F9BWSl29szY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=F9BWSl29szY="
+  ],
+  "source_sha256": "d37f97391a97106aeddff52bc93c735e45270f5354227eb0bbcdc42b01289e6b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-05",
+  "law_text_complete": false
+}
