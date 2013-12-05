@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "9",
+  "decision_date": "2013-12-05",
+  "source_id": 22653,
+  "chamber": "7",
+  "ilam_number": "38",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22653/",
+  "source_sha256": "dcb7bb5305fb084209f27f9aae2b1be443d21151acdd3d6da97f1d8124a3c596",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
