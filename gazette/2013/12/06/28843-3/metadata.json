@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-12-06",
+  "issue": "28843",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2013/5548 Bazı Kamu Kurum ve Kuruluşlarına Ait Kadrolarda Düzenleme Yapılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131206-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131206.htm",
+  "index_sha256": "856d7c0d6d36fc9119bce5502bf3446bc8fb093e45aa94111ebc3ddc4e3bdf54",
+  "index_header": "6 Aralık 2013 ... 28843 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131206.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
