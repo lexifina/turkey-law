@@ -1,0 +1,16 @@
+İş Konseyi Genel Kurulu
+MADDE 15 – (1) İş Konseyi Genel Kurulu her yıl Ekim ayı sonuna kadar ilgili iş konseyi üyelerinin katılımı ile olağan olarak toplanır. İş Konseyi Genel Kurulu, Yönetim Kurulunun uygun bulması halinde öncelikle Yönetim Kurulunca belirlenecek başkan yardımcısı olmak üzere İş Konseyi Koordinatör Başkanı tarafından da olağanüstü toplantıya çağrılabilir.
+(2) İş Konseyi Genel Kurulu, öncelikle Yönetim Kurulu Başkanınca görevlendirilecek bir Yönetim Kurulu üyesi olmak üzere İş Konseyi Koordinatör Başkanı tarafından da açılır ve bir Divan Başkanı, bir Divan Başkan Vekili ve bir katip seçilir.
+(3) DEİK Genel Sekreteri tarafından belirlenen personel, gözlemci sıfatıyla İş Konseyi Genel Kuruluna katılır ve Genel Kurulun mevzuata uygun şekilde gerçekleştirilmesini gözetir.
+(4) Üyeler, İş Konseyi Genel Kuruluna katılamadıklarında, yazılı olarak bir vekil tayin edebilir. Ancak, bir kişi birden fazla vekâlet alamaz.
+(5) Üyelerin Genel Kurula katılabilmesi ve seçme-seçilme hakkına sahip olabilmeleri için önceki yıllara ait aidat yükümlülüklerinin bulunmaması gerekir. Genel Kurul tarihi itibariyle önceki yıl veya yıllara ait İş Konseyi ve üyelik aidatı yükümlülüklerini yerine getirmeyen temsilcilerin İş Konseyi Genel Kurul üyeliği ve seçildikleri organ üyelikleri kendiliğinden sona erer.
+(6) İş Konseyi Genel Kurulunun görevleri şunlardır:
+a) İş konseylerinin çalışma programını ve bütçesini karara bağlamak.
+b) Yürütme kurullarının DEİK Yönetim Kurulu tarafından atanan üyeler dışındaki asil üyeleri ile yeterli talep olması halinde aynı sayıya kadar yedek üyelerini seçmek.
+c) İş konseyi aidatını belirlemek.
+(7) İş Konseyi Yürütme Kurulu; iki yıl süre ile görev yapmak üzere ve iş konseylerine kayıtlı üye sayısı dikkate alınarak beş ila onbir kişiden oluşur. Gerektiğinde üye sayısında değişiklik yapmaya Yönetim Kurulu yetkilidir.
+(8) İş Konseyi Yürütme Kurulunun yedi ve daha az üyeden oluşması halinde bir üye, yediden fazla olması halinde ise iki üye DEİK Yönetim Kurulu tarafından atanabilir. DEİK’in atayacağı üyelerin DEİK üyesi olması şartı aranmaz. Gerekli hallerde atama yoluyla görev verilecek üye sayısını artırmaya Yönetim Kurulu yetkilidir.
+(9) Bir kişinin, üçten fazla iş konseyinin yürütme kurulunda görev almaması esastır. Ancak, gerekli görülmesi halinde görev alınabilecek iş konseyi sayısının artırılması Yönetim Kurulunun yetkisindedir.
+(10) İş konseyleri yürütme kurulları ilk toplantıda kendi aralarından iki yıl için bir Başkan ve ihtiyaca göre bir veya birden fazla başkan yardımcısı seçerler.
+(11) İş konseyi başkanları ile yürütme kurulu üyeleri gerekli görüldüğü takdirde Yönetim Kurulu tarafından görevden alınabilir. Yürütme kurulu üyelerinin görevden alınmaları veya diğer bir sebeple üyelikte boşalma olması halinde yedek üyeler göreve gelir. Yedek üye bulunmaması durumunda yeni yürütme kurulu üyeleri, yeniden seçim yapılıncaya kadar görev yapmak üzere, Yönetim Kurulu tarafından belirlenir.
+(12) Bölgesel gruplarda grup içi koordinasyon, o gruba dâhil iş konseyleri başkanlarının kendi aralarından seçecekleri bir koordinatör başkan tarafından sağlanır. Bölgesel gruplar, gerekli görülmesi halinde en çok üç koordinatör başkan yardımcısı seçebilirler.

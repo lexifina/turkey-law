@@ -1,0 +1,2 @@
+Yönerge
+MADDE 26 – (1) Yönetim Kurulu tarafından hazırlanan; DEİK organlarının çalışma şeklini, birbiriyle ilişkilerini, seçme ve seçilme esaslarını, bütçe, muhasebe, personel gibi çalışma usul ve esaslarını kapsayan yönergeler ile özel amaçlı konseylerin kuruluşu, ismi, işleyişi, görevleri, üyeleri, organları, toplantı esas ve usulleri, bütçeleri, sekretarya hizmetleri ve benzeri iş ve işlemlerine ilişkin yönergeler TOBB Yönetim Kurulunun onayı ile yürürlüğe girer.
