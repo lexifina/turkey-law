@@ -1,0 +1,3 @@
+Müşterinin sözleşmenin bozulmasına neden olması
+MADDE 49 – (1) (Değişik: RG-7/12/2013-28844) Sözleşme yapıldıktan sonra müşterinin taahhüdünden vazgeçmesi veya taahhüdünü, şartname ve sözleşme hükümlerine uygun olarak yerine getirmemesi üzerine, İdarenin 10 takvim günü süreli ve nedenleri açıkça belirtilen ihtarına rağmen aynı durumun devam etmesi halinde, ayrıca protesto çekmeye ve hüküm almaya gerek kalmaksızın, kesin teminatı İdareye gelir kaydedilir ve sözleşme feshedilerek, hesabı genel hükümlere göre tasfiye edilir.
+(2) (Değişik: RG-7/12/2013-28844) Gelir kaydedilen kesin teminat, müşterinin borcuna mahsup edilemez.

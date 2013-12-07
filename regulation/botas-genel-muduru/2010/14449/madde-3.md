@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+b) Genel Müdür: BOTAŞ Genel Müdürünü,
+c) Genel Müdürlük: BOTAŞ Genel Müdürlüğünü,
+ç) İdare: BOTAŞ Genel Müdürlüğü ve Bölge Müdürlüklerini,
+d) İhale: Bu Yönetmelikte yazılı usul ve şartlarda, işin istekliler arasından seçilecek birisi üzerine bırakıldığını gösteren ve yetkili mercilerin onayı ile tamamlanan sözleşmeden önceki işlemleri,
+e) İstekli: İhaleye katılan gerçek veya tüzel kişi veya kişileri,
+f) (Değişik: RG-7/12/2013-28844) İhale yetkilisi: İhale yapılmasına onay veren ve ihale sonucunu onaylayan Yönetim Kurulunu, Genel Müdürü ve kendilerine yetki devri yapılmış görevlileri,
+g) Kira: Taşınmazların ve bunlarla ilgili hakların kiraya verilmesini,
+ğ) Komisyon: İhale Komisyonunu,
+h) (Değişik: RG-7/12/2013-28844) Müşteri: Kendisine ihale yapılan istekli veya isteklileri,
+ı) Satış: Taşınmazların satışını,
+i) Sözleşme: İdare ile müşteri arasında yapılan ve İdarece imzalanan yazılı anlaşmayı,
+j) (Değişik: RG-7/12/2013-28844) Şartname: Yapılacak işlerin genel, özel, teknik ve idari esas ve usullerini gösteren bilgi ve belgeleri,
+k) Tahmini bedel: İhale konusu olan işlerin tahmin edilen bedelini,
+l) Taşınmaz: BOTAŞ’ın sahip olduğu yer değiştirmesi ve taşınması imkânsız arsa, tarla, bina ve benzer taşınmazları,
+m) Uygun bedel: Tahmini bedelden aşağı olmamak üzere, teklif edilen bedellerin en yükseğini,
+n) Yönetim Kurulu: BOTAŞ Yönetim Kurulunu,
+ifade eder.

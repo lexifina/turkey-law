@@ -1,0 +1,3 @@
+Onay belgesi
+MADDE 10 – (1) İhalesi yapılacak her iş için onay belgesi hazırlanır. Onay belgesinde; Genel Müdürün taşınmazın satışı ve kiraya verilmesine yetkili kılındığına dair Yönetim Kurulu kararı ile ihale konusu olan işin nevi, niteliği, miktarı, tahmin edilen bedel, ihalede kullanılacak usul, yapılacaksa ilanın şekli ve adedi, alınacaksa geçici teminat miktarı, şartname, sözleşme veya taahhüt senedi gerekip gerekmeyeceği belirtilir.
+(2) Onay belgesi; Bölgelerde Bölge Müdürlüğünce, Genel Müdürlükte ise Genel Müdürün görevlendireceği ilgili Daire Başkanlığınca hazırlanır ve Genel Müdür tarafından onaylanır.

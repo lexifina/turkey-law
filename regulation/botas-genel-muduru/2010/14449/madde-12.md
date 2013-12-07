@@ -1,0 +1,5 @@
+Komisyonların çalışması
+MADDE 12 – (1) İhale Komisyonları, eksiksiz olarak toplanır. Komisyon kararları çoğunlukla alınır. Kararlarda çekimser kalınamaz. Muhalif kalan üye karşı oy gerekçesini kararın altına yazarak imzalamak zorundadır. Komisyon başkan ve üyeleri oy ve kararlarından sorumludurlar.
+(2) (Değişik: RG-7/12/2013-28844) Komisyonun asil üyeler ile toplanması esastır. Komisyonun eksiksiz olarak ihaleyi sonuçlandırabilmesi için idarece asil üyelerde bulunması gereken özellikleri taşıyan yedek üyeler belirlenir. Komisyonda görevlendirilen asil üyenin herhangi bir şekilde komisyon üyeliğinden ayrılması halinde, o asil üyenin yedeği ile ihale sonuçlandırılır.
+(3) (Değişik: RG-7/12/2013-28844) Komisyon gerek gördüğü takdirde, vereceği kararlar için istişarî mahiyette ve uzmanlık gerektiren konuların incelenmesi yönünde çalışmalar yaptırabilir, özel kuruluşlar veya kamu kurum ve kuruluşlarından yazılı görüşler alabilir. Ancak bu durumlarda yaptırılan çalışmalara ve alınan yazılı görüşlere göre verilen kararlarda Komisyonun sorumluluğu ortadan kalkmaz.
+(4) İhale yetkilisi Komisyon üyesi olamaz.
