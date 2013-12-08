@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-12-08",
+  "issue": "28845",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2013/5608 Türkiye ile İktisadi İşbirliği ve Gelişme Teşkilatı (OECD) Arasında İmzalanan OECD-Ankara Çok Taraflı Vergi Merkezi’nde Çok Taraflı Vergi Programının Uygulanmasına İlişkin “Mutabakat Muhtırası”nın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131208-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131208.htm",
+  "index_sha256": "16ac15979d24cf2f3b7681b80444566a2ef34dc7952e41660de2af424b76aef0",
+  "index_header": "8 Aralık 2013 ... 28845 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131208.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
