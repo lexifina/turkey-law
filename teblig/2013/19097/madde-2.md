@@ -1,0 +1,1 @@
+MADDE 2 – (1) 25/4/1990 tarihli ve 20502 sayılı Resmî Gazete’de yayımlanan (Ölçüler ve Kalite Kontrol Genel Müdürlüğü) (Tebliğ No: Mecburi Standard 89/102-103) Tebliği ile Bakanlıkça mecburi uygulamaya konulan, TS 4044 “Bağlantı Elemanları-Petrol ve Doğal Gaz Kuyularında Kullanılan Çelik Çekme Sondaj Boruları İçin” standardı mecburi uygulamadan kaldırılmıştır.
