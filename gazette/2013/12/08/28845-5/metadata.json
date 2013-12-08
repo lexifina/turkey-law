@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-12-08",
+  "issue": "28845",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kastamonu Üniversitesi İçsu ve Deniz Balıkları Araştırma ve Üretim Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131208-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131208.htm",
+  "index_sha256": "16ac15979d24cf2f3b7681b80444566a2ef34dc7952e41660de2af424b76aef0",
+  "index_header": "8 Aralık 2013 ... 28845 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131208.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
