@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.19092",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İSTANBUL ELEKTRİK-ELEKTRONİK, MAKİNE VE BİLİŞİM İHRACATÇILARI BİRLİĞİNİN UNVANININ DEĞİŞTİRİLMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: İHRACAT 2013/7)",
+  "number": "19092",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2013/19092",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19092&MevzuatTertip=5",
+  "source_sha256": "b248e04f0eab0917315b0e40888f987288f695eaff6e17e312ecc365420bad9f",
+  "source_bytes": 6593,
+  "published": "2013-12-09",
+  "gazette": "28846",
+  "in_force": "2013-12-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.12.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 61,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
