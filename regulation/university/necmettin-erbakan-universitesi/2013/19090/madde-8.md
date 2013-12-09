@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Müdür; ilgili anabilim dallarında görevli öğretim üyeleri arasından Rektör tarafından 3 yıl için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Müdür; ilgili anabilim dalı öğretim üyeleri arasından birisi araştırma ve eğitim, diğeri de proje ve uygulama konularında yetkili olmak üzere iki müdür yardımcısı belirleyerek Rektörün onayına sunar. Müdürün görevi başında bulunmaması durumunda, müdür yardımcılarından biri vekâlet eder. Müdüre vekâlet en çok altı ay sürer.
