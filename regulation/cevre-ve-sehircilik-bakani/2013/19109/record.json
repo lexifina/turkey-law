@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.19109",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MADDELERİN VE KARIŞIMLARIN FİZİKO-KİMYASAL, TOKSİKOLOJİK VE EKOTOKSİKOLOJİK ÖZELLİKLERİNİN BELİRLENMESİNDE UYGULANACAK TEST YÖNTEMLERİ HAKKINDA YÖNETMELİK",
+  "number": "19109",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2013/19109",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19109&MevzuatTertip=5",
+  "source_sha256": "7a0064ef6ec6d0048f00d14c41dea33bd93e20818da961cee28795d634e49d72",
+  "source_bytes": 10379,
+  "published": "2013-12-11",
+  "gazette": "28848 2. Mükerrer",
+  "in_force": "2013-12-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.12.2013); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 298,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.19109%20ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
