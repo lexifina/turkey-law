@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "35",
+  "decision_date": "2013-12-12",
+  "source_id": 13434,
+  "chamber": "5",
+  "ilam_number": "76",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13434/",
+  "source_sha256": "8eea6012a9dfe4d2e5c22779f53b62125e8eca6557738c1e95c4bbcde2721709",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
