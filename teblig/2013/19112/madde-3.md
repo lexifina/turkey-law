@@ -1,0 +1,12 @@
+Bilgilerin toplanması ve değerlendirilmesi
+MADDE 3 – (1) Soruşturma için gerekli bilgilerin temini amacıyla, soruşturma konusu ülkelerin Ankara’daki diplomatik temsilciliklerine, bilinen ithalatçılarına ve bilinen yabancı üretici/ihracatçılarına soru formları gönderilmiştir. İlk aşamada tarafların soru formlarını cevaplandırmaları için posta süresi dâhil 37 günlük süre verilmiştir. Sonraki aşamada makul süre uzatımı talepleri değerlendirilerek olumlu karşılanmış olup, ilgili taraflara ek süre verilmiştir.
+(2) Bu süreç içerisinde 1 üretici, 2 ihracatçı firma ve bu 2 firmanın tedarikçileri; ayrıca 15 ithalatçı firma soru formuna cevap vermiştir.
+(3) İhracatçı/üretici firmalardan gelen cevapların ilk incelemesi neticesinde tespit edilen, soruşturmanın gidişatını etkileyecek mahiyetteki ciddi eksiklikler ilgili ihracatçılara bildirilmiş ve söz konusu eksikliklerin tamamlanması için kendilerine ek süre verilmiştir. Soru formuna süresinde cevap vermeyen veya eksiklikleri tamamlamayan firmalar Yönetmeliğin 26 ncı maddesi çerçevesinde işbirliğinde bulunmadı olarak kabul edilmiştir.
+(4) Bu çerçevede, Malezya’da mukim GREATEST ALUMINIUM ENTERPRISE ve FIBRESTAR INDUSTRIAL firmaları soru formuna cevap vermedikleri için işbirliğinde bulunmadı olarak kabul edilmiştir.
+(5) Güney Kore’de mukim;
+a) DONG BO CHAIN IND. CO. LTD. firmasının gönderdiği cevap üzerine firmaya eksiklik yazısı gönderilmiştir. Firma belirtilen süreler içerisinde söz konusu yazıya cevap vermediğinden işbirliğinde bulunmadı olarak kabul edilmiştir.
+b) TOP GLOBAL PARTS CO. LTD. firması soru formunu eksik göndermiş bunun üzerine firmaya eksiklik yazısı yollanmıştır. Firma küçük ölçekli bir tacir olduğunu ve bilgisayar kaydı tutmadığını ifade eden bir e-posta göndermiştir. Bu çerçevede firma eksiklikleri gideremediğinden işbirliğinde bulunmadı olarak kabul edilmiştir.
+c) YUCHANG CMI CO. LTD., MYOUNG SUNG TRACK CO. LTD., JEILL HEAVY EQUIPMENT CO. LTD., HYCO HEAVYPARTS COMPANY, WOOSUNG HITECH CO. LTD. firmaları soru formuna cevap vermediği için işbirliğinde bulunmadı olarak kabul edilmiştir.
+(6) Tayvan’da mukim;
+a) MING CHANG TRAFFIC PARTS firmasının gönderdiği cevap üzerine firmaya eksiklik yazısı gönderilmiştir. Firma belirtilen süreler içerisinde söz konusu yazıya cevap vermediğinden işbirliğinde bulunmadı olarak kabul edilmiştir.
+b) CHALLENGE HARDWARE INCORPORATION ve YUHOLI CO. LTD. firmaları soru formuna cevap vermediği için işbirliğinde bulunmadı olarak kabul edilmiştir.

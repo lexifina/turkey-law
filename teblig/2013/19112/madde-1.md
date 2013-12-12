@@ -1,0 +1,6 @@
+BİRİNCİ BÖLÜM
+Genel Bilgi ve İşlemler
+Soruşturma
+MADDE 1 – (1) Çin Halk Cumhuriyeti (ÇHC) menşeli 7315.11.90.00.11, 7315.11.90.00.19, 7315.12.00.00.11, 7315.12.00.00.19 ve 7315.19.00.00.00 Gümrük Tarife İstatistik Pozisyonları (GTİP) altında yer alan “Zincirler – Muhtelif Mafsal Halkalı Zincirler ve Aksamı” (transmisyon zincirleri) madde tanımlı eşya için 23/5/2010 tarihli ve 27589 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2010/13) ile 1.200 ABD Doları/Ton tutarında dampinge karşı önlem yürürlüğe konulmuştur.
+(2) Yerli üretici Zimaş Zincir ve Makine Sanayi Ticaret A.Ş. anılan eşyanın ÇHC menşeli ithalatında uygulanan dampinge karşı önlemin, ÇHC menşeli transmisyon zincirlerinin Malezya, Güney Kore ve Çin Tayvan’ı (Tayvan) üzerinden ülkemize ihraç edilmesi suretiyle etkisiz kılındığı iddiası ile Bakanlığımıza başvuruda bulunmuştur.
+(3) Mevcut dampinge karşı önlemin etkisiz kılındığına yönelik bulguları değerlendirmek amacıyla 14/12/2012 tarihli ve 28497 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2012/27) ile başlatılan önlemlerin etkisiz kılınmasına ilişkin soruşturma tamamlanmıştır.
