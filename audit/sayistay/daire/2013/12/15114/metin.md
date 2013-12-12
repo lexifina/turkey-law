@@ -1,0 +1,3 @@
+Yapım işine ilişkin olarak düzenlenen hakedişte fiyat farkının hatalı hesaplanması.
+
+…. İnş. San. ve Tic. Ltd. Şti. yükleniminde bulunan ….. TL ihale bedelli “…. Üniversitesi Rektörlüğü Tıp Fakültesi Morfoloji Binası İnşaatı” işine ilişkin düzenlenen 20 nolu hakediş raporunun incelenmesinde, fiyat farkının hesabında herhangi bir aya ait iş programındaki ödenek dilimleri itibariyle belirlenen güncel indeksin esas alınması gerekirken düzenlenen hakedişin miktarı ve tarihinin esas alınması nedeniyle oluşan … TL kamu zararının söz konusu işe ait ……. 21 nolu hakedişte düzeltilmek suretiyle mahsuben tahsil edildiği anlaşıldığından ilişiği kalmadığına oybirliğiyle,
