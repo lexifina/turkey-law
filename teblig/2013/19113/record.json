@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19113",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İÇ KONTROL EKSİKLİKLERİNİN ÜST YÖNETİMDEN SORUMLU OLANLARA VE YÖNETİME BİLDİRİLMESİ (BDS 265) HAKKINDA TEBLİĞ TÜRKİYE DENETİM STANDARTLARI TEBLİĞİ NO: 9",
+  "number": "19113",
+  "issuer": "Kurum Başkanı",
+  "path": "teblig/2013/19113",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19113&MevzuatTertip=5",
+  "source_sha256": "a6ca9f8b4a9876fd94e2b71b736460fb5d6ae1bb75aac795f16b1bafafc8f33f",
+  "source_bytes": 9099,
+  "published": "2013-12-12",
+  "gazette": "28849",
+  "in_force": "2013-12-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.12.2013); own commencement article: \"Bu Tebliğ 1/1/2013 tarihinde ve sonrasında başlayacak hesap dönemlerinden itibaren uygulanmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2013 tarihinde ve sonrasında başlayacak hesap dönemlerinden itibaren uygulanmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 207,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19113%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
