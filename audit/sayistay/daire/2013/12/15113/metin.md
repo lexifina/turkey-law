@@ -1,0 +1,5 @@
+Üniversiteye ait konutlarda oturanlar tarafından karşılanması gereken küçük bakım onarım işlerine ilişkin giderlerin üniversite bütçesinden ödenmesi.
+
+2946 sayılı Kamu Konutları Kanunu'na dayanılarak çıkarılan Kamu Konutları Yönetmeliği'nin 26 ncı maddesinde kurum ve kuruluşlarca karşılanacak işletme bakım ve onarım giderleri; 28 inci maddesinde konut tahsis edilenler tarafından karşılanacak giderler sayılmıştır. Maliye Bakanlığı Milli Emlak Genel Müdürlüğünce yayımlanan 294 sayılı Genel Tebliğ de kamu konutlarının kira, yakıt ile işletme bakım onarım giderlerinin nasıl karşılanacağı hususunu düzenlemiştir. Söz konusu Tebliğe ekli “Ek 4: Konutta Oturanlarca Karşılanacak Giderler” başlıklı cetvelde ise ayrıntılı bir liste ile konutta oturanlarca karşılanması gereken giderler yer almaktadır.
+
+Yapılan incelemede, Üniversiteye ait konutlarda oturanlar tarafından karşılanması gereken küçük bakım onarım işlerine ilişkin giderlerin üniversite bütçesinden karşılandığı görülmüşse de, kamu zararı olarak tespit edilen … TL’nin …… ile tahsil edildiği anlaşıldığından ilişilecek bir husus kalmadığına oybirliğiyle,
