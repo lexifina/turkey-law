@@ -1,0 +1,9 @@
+Hafta sonu Çalışanlara Yemek Verilmesi:
+
+.......... çalışanlarına hafta sonu yaptıkları çalışmaları sırasında yemek verilmesi ve bedelinin kurum bütçesinden karşılanması ile ilgili olarak;
+
+Rutin bir mesai sistemi dışında, mesai sınırlarıyla bağlı kalınmaksızın çalışan ......, 5411 sayılı Bankacılık Kanununun 82’nci maddesine göre kendine tahsis edilen kaynakları görev ve yetkilerinin gerektirdiği ölçüde kendi bütçesindeki usul ve esaslara göre serbestçe kullanır. Diğer taraftan 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununda öngörülen harcama usullerine tabi olmayan .........’nın giderleri, giderlere katılma paylarından özel bütçeye konulan ödeneklerden karşılanmakta ve kurum merkezi yönetim bütçesinden pay almamaktadır.
+
+Yukarıda açıklanan gerekçelerle, ...........’nın hafta sonu çalışan personeline verilen yemek bedelini kendi bütçesinden ödenmesi hususunun mevzuatına uygun olduğu anlaşıldığından ilişikli herhangi bir husus bulunmadığına,
+
+(Üye ..........ile Üye ...............’in; “5411 sayılı Kanunun 82’nci maddesinde yer alan ‘mali kaynakların…serbestçe kullanılacağı’ hükmü, kamu gücü kullanılarak Kurum’un düzenleme yaptığı, banka ve benzeri kurumlardan topladığı ve bu nedenle kamu kaynağı niteliğindeki ödenekleri dilediği gibi kullanacağı anlamına gelmemektedir. Kaldı ki bütçeye ödenek kaydedilen tutarın ilgililerce nakden veya aynen kullanılması, bütçeyi onaylayanlarca önceden bilinebilecek işlemler de değildir. Ayrıca ödenecek yemek bedelinin hangi durumlarda, kimlere ve hangi yetkililerin uygun görüşü halinde ödeneceğine dair kuralların da öngörülmüş olması gerekmektedir. Sadece harcama belgelerine dayalı bir ödeme keyfi harcama niteliğinde kalacaktır. Dolayısıyla yasal dayanağı olmayan ödemenin 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizleri ile birlikte sorumlulara müştereken ve müteselsilen ödettirilmesine hükmedilmesi uygun olur.” şeklindeki ayrışık görüşlerine karşı) oy çokluğuyla karar verildi.
