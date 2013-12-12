@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "16",
+  "decision_date": "2013-12-12",
+  "source_id": 12400,
+  "chamber": "8",
+  "ilam_number": "69",
+  "item_number": 5,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12400/",
+  "source_sha256": "adb1cf4f17be7afb99da6d3d7251388f78fe59a0717682fca6aa698f9f25196e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
