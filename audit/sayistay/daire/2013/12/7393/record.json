@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "171",
+  "decision_date": "2013-12-12",
+  "source_id": 7393,
+  "chamber": "3",
+  "ilam_number": "40",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7393/",
+  "source_sha256": "18f37e4618eeace5c4e1d01d9e66cf257e1e89d03aeadf313638820a03095544",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
