@@ -1,0 +1,4 @@
+Elde edilen net kazançların ihraççıya ödenmesi
+MADDE 5 – (1) İhraççıların yöneticileri, herhangi bir altı aylık dönem içerisinde ilgili sermaye piyasası araçlarında gerçekleştirdikleri alım, satım, alım ve satım veya satım ve alım işlemlerinden kazanç elde etmeleri durumunda, elde ettikleri net kazancı elde edilmesinden itibaren 30 gün içerisinde ihraççılara öderler. Elde edilen kazancın hesaplanmasında son giren ilk çıkar yöntemi uygulanır.
+(2) Kurulca, yöneticilerin elde ettikleri net kazançların ihraççılara ödenmesine ilişkin yükümlülüklerini 30 günlük süre içerisinde yerine getirmeyenler hakkında, bu şahısların elde ettikleri menfaatin iki katı tutarında idari para cezası verilir.
+(3) Birinci ve ikinci fıkralarda yer alan hükümler, tüzel kişi veya tüzel kişileri temsilen atanan ihraççı yöneticileri için de uygulanır.

@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.19114",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YÖNETİCİLERİN NET ALIM SATIM KAZANÇLARINI İHRAÇÇILARA ÖDEMELERİ HAKKINDA TEBLİĞ (VI-103.1)",
+  "number": "19114",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "path": "teblig/2013/19114",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19114&MevzuatTertip=5",
+  "source_sha256": "ee1c947c21308bba11b5e4b70e864cc86d9c8e751f0c02675463eaf143776a41",
+  "source_bytes": 13219,
+  "published": "2013-12-12",
+  "gazette": "28849",
+  "in_force": "2013-12-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.12.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 565,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
