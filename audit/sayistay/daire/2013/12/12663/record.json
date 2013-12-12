@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "170",
+  "decision_date": "2013-12-12",
+  "source_id": 12663,
+  "chamber": "3",
+  "ilam_number": "74",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12663/",
+  "source_sha256": "6d5135410aefc025b40b571d8c87bb5d85b20f74c5145d6b6e3e97ac1c14f381",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
