@@ -1,0 +1,5 @@
+Üniversite tarafından kiraya verilen kantin, kafeterya, kırtasiye vb dükkanlar ile sosyal tesislerin kira, elektrik, su ve doğalgaz giderlerinin sözleşme hükümlerine aykırı olarak tahsil edilmemesi veya eksik tahsilat yapılması.
+
+.… Üniversitesi ile firmalar arasında yapılan kira sözleşmelerinin kira bedeli ile elektrik, su ve ısınma giderleri ilgili maddelerinde, kiraya verilen yerde tüketilen elektrik, su, doğalgaz v.b. giderlerin bedelinin işletmeciye ait olduğu; sözleşmenin feshi ile ilgili maddesinde ise; kiracının sözleşmeye uymaması halinde, …. Üniversitesinden hiçbir hak ve tazminat talebinde bulunmadan kendisine yapılacak tebligata müteakip en geç 15 gün içinde tahliye edeceği hükümleri bulunmaktadır.
+
+Yapılan incelemede, Üniversite tarafından kiraya verilen kantin, kafeterya, kırtasiye vb dükkanlar ile sosyal tesislerin kira, elektrik, su ve doğalgaz giderlerinin sözleşme hükümlerine aykırı olarak tahsil edilmemesi veya eksik tahsil edilmesi sonucu .… TL kamu zararı oluştuğu görülmüş olmakla birlikte, aşağıda tarih ve numaraları verilen belgelerle tahsil edildikleri anlaşıldığından konu hakkında ilişik kalmadığına oybirliğiyle,
