@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları; deprem mühendisliği ile ilgili tüm alanlarda eğitim-öğretim, araştırma ve uygulama yapma imkanı sağlamak, Merkeze başvuran özel ve tüzel kişilere deprem mühendisliği alanında danışmanlık hizmeti sunmak, alanında donanımlı profesyonelleri yetiştirmek amacıyla ilgili alanlarda faaliyet gösteren fakülte, enstitü, yüksekokullar, uygulama ve araştırma merkezleri başta olmak üzere diğer kurumlarla işbirliği yapmak, yapılan eğitim ve araştırmaların verimliliği ile niteliğini arttırmak, deprem mühendisliği alanında araştırma ve uygulamaların en üst düzeyde gerçekleşmesi için bilimsel araştırma koşullarını hazırlamak, çağdaş işletme yönetimi ilkeleri doğrultusunda faaliyette bulunmak ve kaliteli mühendislik hizmeti sunulmasını sağlamaktır.
