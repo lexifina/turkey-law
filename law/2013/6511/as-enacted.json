@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6511",
+  "year": 2013,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Meteoroloji Alanında İşbirliğine İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2013-12-13",
+  "gazette_issue": "28850",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131213-1.htm",
+  "source_sha256": "2db98b2701d9dc0b5f5de6634705679790bea8ddf1d49a7194f18ee4ffe4ecf7",
+  "text_sha256": "6845e32868df87248ea35e20b4242514835a61d4bf4bc7213d560ba94a1cbfc7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2013/12/13/28850-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131213-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
