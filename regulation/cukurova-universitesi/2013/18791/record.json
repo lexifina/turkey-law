@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-09-03",
+      "03.09.2013",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2013-12-13",
+      "RG-13/12/2013-28850",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-12-13",
+      "13/12/2013",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-13/12/2013-28850",
+  "first_law": null,
+  "gazette": "28754",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-12-13",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Çukurova Üniversitesi",
+  "issuer_slug": "cukurova-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/cukurova-universitesi/2013/18791",
+  "published": "2013-09-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18791&MevzuatTertip=5",
+  "source_bytes": 25022,
+  "source_id": "8.5.18791",
+  "source_sha256": "23747d0d5027ddf00575c3215955eaac8a194a853a4d0a05b8233b53738dad62",
+  "text_status": "current-consolidated",
+  "title": "ÇUKUROVA ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 187,
+  "word_count": 795
+}
