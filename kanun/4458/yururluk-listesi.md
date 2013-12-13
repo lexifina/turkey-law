@@ -14,7 +14,12 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 KHK/649 | 221 | 17/8/2011
 6111 | 244 | 31/8/2011
 KHK/649 | 244 | 31/8/2011
-KHK/666 | 221 222 | 1/1/2012 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
+KHK/666 (1) | 221 222 | 1/1/2012 (1) 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
 6358 | Geçici Madde 8 | 10/11/2012
 6455 | 3, 167, 177, 180, 197, 218/A, 227, 228, 231, 232, 234, 235, 236, 237, 238, 239, 241, 244 | 11/4/2013
 6462 | 167 | 3/5/2013
+6495 | 221 | 2/8/2013
+Anayasa Mahkemesinin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı | 221 222 | 10/10/2013 tarihinden başlayarak doku ay sonra (10/7/2014) 10/10/2013
+Gümrük ve Ticaret Bakanlığının 111 Seri Numaralı Tebliği | 241 | 1/1/2014
+––––––––––––––––
+(1) Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile 666 sayılı KHK’nin bu maddenin yürürlüğünü düzenleyen 8 inci maddesinin birinci fıkrasının (d) bendinde yer alan “ …ile 5 inci maddesinin (b), (e) ve (j) fıkraları” ibaresi iptal edilmiştir.
