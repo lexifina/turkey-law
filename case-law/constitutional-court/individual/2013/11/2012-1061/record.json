@@ -1,0 +1,20 @@
+{
+  "applicant": "Ş.Ç.",
+  "application_date": "2012-12-07",
+  "application_number": "2012/1061",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2013-11-21",
+  "id": "e74a514a-7120-37a1-bf51-f897ae83ef31",
+  "in_force": "2013-12-14",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2013-12-14",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmU3NGE1MTRhLTcxMjAtMzdhMS1iZjUxLWY4OTdhZTgzZWYzMQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "5bfe2dff3533b9710ddf44992b98d6f13151c3cb581a551400ac31a799fb986b",
+  "version_label": "as-enacted"
+}
