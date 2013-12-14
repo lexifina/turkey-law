@@ -1,0 +1,2 @@
+Başvuru
+MADDE 1 – (1) Yerli üreticiler tarafından, 4202 Gümrük Tarife Pozisyonunda (GTP) sınıflandırılan seyahat çantaları, el çantaları ve benzeri mahfazaların ithalatında uygulanmakta olan korunma önleminin süresinin uzatılması talebiyle Ekonomi Bakanlığı (Bakanlık) İthalat Genel Müdürlüğüne (Genel Müdürlük) başvuruda bulunulmuştur. Söz konusu başvurunun gizli olmayan özetine Bakanlığın internet sitesi (http://www.ekonomi.gov.tr) “Ticaret Politikası Savunma Araçları” sayfasında yer alan “Korunma Önlemleri” bağlantısından ulaşılabilmektedir.
