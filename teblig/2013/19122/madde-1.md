@@ -1,0 +1,2 @@
+Başvuru
+MADDE 1 – (1) Yerli üreticiler tarafından, 9003.11.00.00.00 ve 9003.19.00.00.00 Gümrük Tarife İstatistik Pozisyonlarında (GTİP) sınıflandırılan gözlük çerçeveleri ithalatında uygulanmakta olan korunma önleminin süresinin uzatılması talebiyle Ekonomi Bakanlığı (Bakanlık) İthalat Genel Müdürlüğüne (Genel Müdürlük) başvuruda bulunulmuştur. Söz konusu başvurunun gizli olmayan özetine Bakanlığın internet sitesi (http://www.ekonomi.gov.tr) “Ticaret Politikası Savunma Araçları” sayfasında yer alan “Korunma Önlemleri” bağlantısından ulaşılabilmektedir.

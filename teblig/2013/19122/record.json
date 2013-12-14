@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19122",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2013/9)",
+  "number": "19122",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2013/19122",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19122&MevzuatTertip=5",
+  "source_sha256": "023d7cf84f1a6910261ec5f9f73b76b7ac37bd222ea1a1e03ba0ec28dc2ef0b2",
+  "source_bytes": 13739,
+  "published": "2013-12-14",
+  "gazette": "28851",
+  "in_force": "2013-12-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.12.2013); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 571,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19122%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
