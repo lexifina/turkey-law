@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-12-15",
+  "issue": "28852",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2013/5630 Samsun İli, Tekkeköy İlçesi Sınırları İçerisinde Bulunan Alanın Fuar ve Kongre Merkezi Kentsel Dönüşüm ve Gelişim Proje Alanı İlan Edilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131215-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131215.htm",
+  "index_sha256": "a7bcf5643b33cf553153404ae87caadd89d3d712be74fb07eac8202c5d7f5e3e",
+  "index_header": "15 Aralık 2013 ... 28852 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131215.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
