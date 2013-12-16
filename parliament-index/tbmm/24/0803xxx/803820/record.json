@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 803820,
+  "assembly": "TBMM",
+  "term": 24,
+  "heading": "TASARILAR (GÖRÜŞÜLENLER)",
+  "heading_as_published": "Tasarılar (görüşülenler) / Bütçe Kanunları Ve Kesin Hesap Kanunları",
+  "summary": "X. TUR - Gıda, Tarım ve Hayvancılık Bakanlığı - Tütün ve Alkol Piyasası Düzenleme Kurumu - Aile ve Sosyal Politikalar Bakanlığı - Sağlık Bakanlığı - Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü - Türkiye İlaç ve Tıbbi Cihaz Kurumu - Türkiye Kamu Hastaneleri Kurumu - Türkiye Halk Sağlığı Kurumu 2014 Yılı Merkezî Yönetim Bütçesi ile 2012 Yılı Merkezî Yönetim Kesin Hesabı",
+  "title": "X. TUR - Gıda, Tarım ve Hayvancılık Bakanlığı - Tütün ve Alkol Piyasası Düzenleme Kurumu - Aile ve Sosyal Politikalar Bakanlığı - Sağlık Bakanlığı - Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü - Türkiye İlaç ve Tıbbi Cihaz Kurumu - Türkiye Kamu Hastaneleri Kurumu - Türkiye Halk Sağlığı Kurumu 2014 Yılı Merkezî Yönetim Bütçesi ile 2012 Yılı Merkezî Yönetim Kesin Hesabı",
+  "first_sitting_date": "2013-12-16",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 66,
+      "sitting": 33,
+      "sitting_date": "2013-12-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c066/tbmm24066033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c066/tbmm24066fih.pdf",
+      "pages": [
+        "502:649"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=4&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR%20%28G%D6R%DC%DE%DCLENLER%29&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR%20%28G%D6R%DC%DE%DCLENLER%29&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "fe0059d28fbcddf4fb59e90f2796b5446864737ae0ef2179dfe7906dab84875f",
+  "in_force": "2013-12-16",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
