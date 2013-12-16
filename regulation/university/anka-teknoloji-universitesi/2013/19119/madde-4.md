@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alım-satım: Taşınır ve taşınmaz varlıklar ile her türlü ihtiyaç maddeleri, hizmet ve hakların en iyi şekilde, uygun değer ve şartlarla zamanında alım ve satımını,
+b) Başkan: Anka Teknoloji Üniversitesi Mütevelli Heyet Başkanını,
+c) Başkan vekili: Anka Teknoloji Üniversitesi Mütevelli Heyet Başkan vekili ve/veya vekillerini,
+ç) Birim: Anka Teknoloji Üniversitesinin eğitim-öğretim birimleri ile idari birimlerini,
+d) Genel Sekreter/Sekreterlik: Anka Teknoloji Üniversitesi Genel Sekreterini/Sekreterliğini,
+e) Hizmet: İlgili mevzuata göre çalıştırılan aylıklı, ücretli, yevmiyeli ve sözleşmeli personel istihdamı hariç olmak üzere, gerçek veya tüzel kişilere ücret karşılığında yaptırılacak araştırma, etüt, plan, proje, proje kontrollük, periyodik bakım anlaşmaları, tamirat ve tadilat, müteahhitlik, fuar organizasyonları, müşavirlik ve her türlü hizmet satın alma işlerini,
+f) Kiralama: Taşınır ve taşınmaz mallarla, hakların kiralanması ve/veya kiraya verilmesini,
+g) Mütevelli Heyet: Anka Teknoloji Üniversitesi Mütevelli Heyetini,
+ğ) Rektör/Rektörlük: Anka Teknoloji Üniversitesi Rektörünü/Rektörlüğünü,
+h) Satın alma birimi: Anka Teknoloji Üniversitesi İdari ve Mali İşler Birim Müdürlüğüne bağlı tahakkuk ve satın alma birimini,
+ı) Satın alma komisyonu: Anka Teknoloji Üniversitesi satın alma ve ihale komisyonu veya komisyonlarını,
+i) Stratejik Planlama Kurulu: İstanbul Adli Bilimler Eğitim ve Araştırma Vakfı Stratejik Planlama Kurulunu,
+j) Üniversite: Anka Teknoloji Üniversitesini,
+k) Vakıf: İstanbul Adli Bilimler Eğitim ve Araştırma Vakfını,
+l) Vakıf Genel Sekreteri: İstanbul Adli Bilimler Eğitim ve Araştırma Vakfı Genel Sekreterini,
+m) Vakıf Yönetim Kurulu: İstanbul Adli Bilimler Eğitim ve Araştırma Vakfı Yönetim Kurulunu,
+n) Yapım: Her türlü inşaat, imalat, teknik onarım, yıkma, değiştirme, iyileştirme ve montaj işlerini,
+o) Yüklenici: İşi yapmak üzere kendisiyle sözleşme imzalanan istekliyi,
+ifade eder.
