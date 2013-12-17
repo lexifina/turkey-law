@@ -1,0 +1,3 @@
+Kapasite geliştirme
+MADDE 17 – (1) Kamu işletmeleri aylık bazda sağlıklı ve düzenli mali tablolar (bilanço ve gelir tablosu gibi) üretebilmek ve söz konusu tabloları, Kamu İşletmelerinin Faaliyetlerinin İzlenmesi ve Raporlanmasına Dair Tebliğde belirtilen takvime uygun olarak Müsteşarlığa iletebilmek için muhasebe altyapısının oluşturulmasına yönelik hazırlıkları 30/6/2014 tarihine kadar tamamlar. Kamu işletmeleri ayrıca mali ve mali olmayan diğer konsolide verilerini sağlıklı ve aylık bazda üretecek bir bilgi işlem altyapısı kurmak zorundadırlar.
+(2) Kamu işletmelerince mali işler ve muhasebe altyapılarının iyileştirilmesi kapsamında geliştirilen Kurumsal Kaynak Planlama projeleri tasarruf tedbirleri dışında değerlendirilir.
