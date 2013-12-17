@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2013/68",
+  "meeting_date": "2013-12-17",
+  "meeting_date_as_published": "17.12.2013",
+  "decision_no": "60",
+  "source_id": 1310,
+  "title": "RTÜK kararı 2013/68-60",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/1310",
+  "source_sha256": "305dcad63ff58c9d0f1289aeb31d93d51e3dc3b6c60a6625cceb8b7ecee4f950",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (3 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
