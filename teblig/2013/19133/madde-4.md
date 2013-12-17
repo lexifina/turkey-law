@@ -1,0 +1,3 @@
+Mevcut önlemler
+MADDE 4 – (1) 31/12/2008 tarihli ve 27097 4 üncü Mükerrer sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2008/41) ile ÇHC, Endonezya, Malezya ve Tayland menşeli poliester tekstüre iplikler ithalinde dampinge karşı kesin önlemler yürürlüğe konulmuştur.
+(2) Bu kapsamda, ÇHC menşeli olanlar için 268 ABD Doları/Ton ile 351 ABD Doları/Ton arasında değişen tutarlarda; Endonezya menşeli olanlar için 48 ABD Doları/Ton ile 240 ABD Doları/Ton arasında değişen tutarlarda; Malezya için ise 276 ABD Doları/Ton tutarında, Tayland için ise 198 ABD Doları/Ton ile 300 ABD Doları/Ton arasında değişen tutarlarda dampinge karşı önlem uygulanmaktadır.
