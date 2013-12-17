@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35159",
+  "decision_date": "2013-12-17",
+  "source_id": 15110,
+  "chamber": "2",
+  "ilam_number": "24",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15110/",
+  "source_sha256": "03f6ace536fe79e13fe1e9f50731b7a843d117eebb5b816d2bda3ade947ba720",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
