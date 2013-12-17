@@ -1,0 +1,3 @@
+…….. İşi’nde yeni birim fiyatların, yüklenicinin teklifinin ekinde idareye verdiği teklif rayiçler yerine kamu idarelerine ait rayiçler kullanılarak yüksek tespit edilmesi ve yükleniciye bu fiyatlar üzerinden ödeme yapılması.
+
+…….. İşi’nde yeni birim fiyatların, yüklenicinin teklifinin ekinde idareye verdiği teklif rayiçler yerine kamu idarelerine ait rayiçler kullanılarak yüksek tespit edilmesi ve yükleniciye bu fiyatlar üzerinden ödeme yapılması sonucu sebep olunan …….. TL kamu zararı …….. tarih ve …….. numaralı ödeme emri ile ödenen kesin hakedişten mahsuben tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle,
