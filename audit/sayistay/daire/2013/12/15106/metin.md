@@ -1,0 +1,3 @@
+Üniversiteye ait 12/B numaralı lojmanın tadilat işinde 25.043/4A (Eski plastik ve sentetik boyalı yüzeylere su bazlı astar sürülerek iki kat ipekmat su bazlı plastik boya ile boyanması) poz numaralı imalat kalemi yerine, “yeni sıvalı yüzey” bulunmadığı halde 25.043/4B (Yeni sıva yüzeylere 0,350 kg macun çekilerek iki kat ipekmat su bazlı plastik boya yapılması) poz numaralı imalat kaleminin kullanılması.
+
+Üniversiteye ait 12/B numaralı lojmanın tadilat işinde 25.043/4A poz numaralı imalat kalemi yerine, 25.043/4B poz numaralı imalat kaleminin kullanılması sonucu sebep olunan …….. TL kamu zararı …….. sıra ve …….. numaralı alındı belgesi (…….. tarih ve …….. no.lu yevmiye kayıtlı) ile tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle,
