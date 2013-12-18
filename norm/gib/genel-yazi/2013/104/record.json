@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "genel-yazi",
+  "number": null,
+  "source_id": 104,
+  "date": "2013-12-18",
+  "title": "SGK PRİM BORÇLARININ ÖDENMESİ HAKKINDA GENEL YAZI",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/genelyazilar/104",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/genelYazilar/list",
+  "source_listing": "evidence/list/2026-11-16/genelYazilar-p000.json",
+  "source_listing_sha256": "7fa6cf53cc6e422afa260107b4b730e46ac896bef1c1d196cf603add29126053",
+  "source_sha256": "30a247c2599754ef2f28cd2fdae807c5b261d2e6a4fee0b84224f613707e4f15",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
