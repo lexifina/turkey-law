@@ -1,0 +1,84 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 803806,
+  "assembly": "TBMM",
+  "term": 24,
+  "heading": "TASARILAR (GÖRÜŞÜLENLER)",
+  "heading_as_published": "Tasarılar (görüşülenler) / Bütçe Kanunları Ve Kesin Hesap Kanunları",
+  "summary": "2014 Yılı Merkezi Yönetim Bütçe Kanunu Tasarısı (1/832) (S. Sayısı: 506) ve - 2012 Yılı Merkezi Yönetim Kesin Hesap Kanunu Tasa-rısı, 2012 Yılı Merkezi Yönetim Kesin Hesap Kanunu Tasarı-sına İlişkin Olarak Hazırlanan 2012 Yılı Genel Uygunluk Bildiriminin Sunulduğuna İlişkin Sayıştay Başkanlığı Tezkere-si, Maliye Bakanlığı ve İçişleri Bakanlığı Tarafından Sayıştaya Gönderilen Genel Faaliyet Raporları ile Bu Raporlara İlişkin Sayıştay Değerlendirmesini İçeren 2012 Yılı Faaliyet Genel Değerlendirme Raporunun Sunulduğuna İlişkin Sayıştay Başkanlığı Tezkeresi, 2012 Yılı Dış Denetim Genel Değerlendirme Raporunun Sunulduğuna İlişkin Sayıştay Başkanlığı Tezkeresi ve 2012 Yılı Mali İstatistikleri Değerlendirme Raporunun Sunulduğuna İlişkin Sayıştay Başkanlığı Tezkeresi (1/798, 3/1275, 3/1277, 3/1278, 3/1279) (S. Sayısı: 507)",
+  "title": "2014 Yılı Merkezi Yönetim Bütçe Kanunu Tasarısı (1/832) (S. Sayısı: 506) ve - 2012 Yılı Merkezi Yönetim Kesin Hesap Kanunu Tasa-rısı, 2012 Yılı Merkezi Yönetim Kesin Hesap Kanunu Tasarı-sına İlişkin Olarak Hazırlanan 2012 Yılı Genel Uygunluk Bildiriminin Sunulduğuna İlişkin Sayıştay Başkanlığı Tezkere-si, Maliye Bakanlığı ve İçişleri Bakanlığı Tarafından Sayıştaya Gönderilen Genel Faaliyet Raporları ile Bu Raporlara İlişkin Sayıştay Değerlendirmesini İçeren 2012 Yılı Faaliyet Genel Değerlendirme Raporunun Sunulduğuna İlişkin Sayıştay Başkanlığı Tezkeresi, 2012 Yılı Dış Denetim Genel Değerlendirme Raporunun Sunulduğuna İlişkin Sayıştay Başkanlığı Tezkeresi ve 2012 Yılı Mali İstatistikleri Değerlendirme Raporunun Sunulduğuna İlişkin Sayıştay Başkanlığı Tezkeresi (1/798, 3/1275, 3/1277, 3/1278, 3/1279) (S. Sayısı: 507)",
+  "first_sitting_date": "2013-12-18",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 67,
+      "sitting": 35,
+      "sitting_date": "2013-12-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c067/tbmm24067035.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c067/tbmm24067fih.pdf",
+      "pages": [
+        "21",
+        "23:95",
+        "98:119",
+        "123:130",
+        "131:162",
+        "166:189",
+        "192:196",
+        "199:211"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=4&v_cilt="
+    },
+    {
+      "cilt": 67,
+      "sitting": 36,
+      "sitting_date": "2013-12-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c067/tbmm24067036.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c067/tbmm24067fih.pdf",
+      "pages": [
+        "289:323",
+        "323:337",
+        "338:343",
+        "344:347",
+        "347:355",
+        "364:370",
+        "370:385",
+        "387:391",
+        "391:401",
+        "406:411",
+        "412:416",
+        "417"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=4&v_cilt="
+    },
+    {
+      "cilt": 67,
+      "sitting": 37,
+      "sitting_date": "2013-12-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c067/tbmm24067037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c067/tbmm24067fih.pdf",
+      "pages": [
+        "529:564",
+        "566:582",
+        "591:607",
+        "609:628",
+        "637:642",
+        "643:649",
+        "654:663"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=4&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR%20%28G%D6R%DC%DE%DCLENLER%29&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR%20%28G%D6R%DC%DE%DCLENLER%29&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "fe0059d28fbcddf4fb59e90f2796b5446864737ae0ef2179dfe7906dab84875f",
+  "in_force": "2013-12-18",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
