@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "172",
+  "decision_date": "2013-12-19",
+  "source_id": 11230,
+  "chamber": "3",
+  "ilam_number": "59",
+  "item_number": 5,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11230/",
+  "source_sha256": "16fc621032d8b5d8886fb28ed8026f115f913ff922f8741c9160ccf6dcc5c749",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
