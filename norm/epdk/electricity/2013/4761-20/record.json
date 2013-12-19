@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4761/20",
+  "decision_date": "2013-12-19",
+  "title": "Yenilenebilir kaynaklara dayalı elektrik üretimi yapan otoprodüktörlerce dengeleme ve/veya acil durumların giderilmesi amaçlı yük alma ve yük atma talimatları sonucu sisteme verilen fazla ve üretilmeyen eksik elektrik enerjisi miktarlarının, belirtilen kapsamdaki otoprodüktörlerin piyasada satabilecekleri oran dışında değerlendirilmesine ilişkin 12/01/2011 tarihli ve 3003-44 sayılı Kurul Kararının yürürlükten kaldırılmasına ilişkin",
+  "resmi_gazete_date": "2014-01-01",
+  "resmi_gazete_number": "28869",
+  "categories": [
+    "Lisansa Kayıtlı Olan Yıllık Elektrik Enerjisi Üretim Miktarının Piyasada Satılabileceği Oranına İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nY94rIf2gTI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nY94rIf2gTI="
+  ],
+  "source_sha256": "2fd6eba550d07013e8a2a6c628cdf87a565aabf1f15dd943481a10ca1179e51a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33878,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-19",
+  "law_text_complete": false
+}
