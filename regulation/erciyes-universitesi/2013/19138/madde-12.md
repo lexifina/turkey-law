@@ -1,0 +1,4 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Personel ihtiyacı
+MADDE 12 – (1) Merkezin akademik, teknik, idari ve benzeri personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca, Müdürün önerisi üzerine Rektör tarafından görevlendirilecek personel tarafından karşılanır.
