@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-135[9-2012/10]-205",
+  "source_id": 34080,
+  "date": "2013-12-19",
+  "title": "I sayılı listenin B cetvelinde yer alan bir malın aynı cetvelde ve ÖTV tut. düş. ol.bir mal.im. kullanılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34080",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "effdce524d314285a2e6b133a469e8ba7ec0291c96c7337c8842ff55d68f837c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
