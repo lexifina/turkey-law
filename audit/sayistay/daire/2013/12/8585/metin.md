@@ -1,0 +1,9 @@
+Vergi alacağı
+
+.....sayılı İlamın 2 nci maddesiyle hüküm dışı bırakılan .............. TL lik ödemeye ilişkin ek rapor düzenlenmiş olduğundan konunun 6085 sayılı Sayıştay Kanununun 50 nci maddesinin üçüncü fıkrası hükmü gereğince görüşülmesinin devamına karar verildi.
+
+Vadesi 2006 yılında dolmasına karşın henüz tahsil edilemeyen ve tahsiline ilişkin herhangi bir yasal işlem başlatılmayan .............. TL tutarındaki vergi alacağı ile ilgili olarak; savunma eki belgelerin incelenmesinden, ödeme emri çekilmediği belirtilen alacaklara ilişkin 2008 ve 2009 yıllarında ödeme emri çekildiğine dair bilgisayar kayıtlarının mevcut olduğu; Bu sorunun, ............. ve ............Belediyesinin birleşimi aşamasında veri aktarımından kaynaklandığı anlaşıldığından hüküm dışı bırakılan toplam ............... TL hakkında denecek olmadığı belirtilmektedir.
+
+Yapılan incelemede;
+
+Vadesi 2006 yılında dolmasına karşın henüz tahsil edilemeyen ve tahsiline ilişkin herhangi bir yasal işlem başlatılmayan ............. TL tutarında vergi alacağı ile ilgili olarak; söz konusu durumun 2009 yılında eski .............Belediye Başkanlığının fesh edilerek ....Belediyesi ile birleşmesi nedeniyle vergi sicillerinin aktarılması sırasında; sorguda, ödeme emri çekilmediği belirtilen sicillere ödeme emri çekildiği halde kayıtlarda çekilmemiş gibi göründüğü; bilgisayar programının firma yetkililerinden de destek alınarak incelenmesi sonucu ödeme emri çekilmediği belirtilen alacaklara ilişkin 2008 ve 2009 yıllarında ödeme emri çekildiğine dair bilgisayar kayıtlarının bulunduğu; söz konusu alacaklar için zamanaşımı süresinin dolmadığı; Bu sorunun, birleşim aşamasında veri aktarımından kaynaklandığı anlaşıldığından .............. TL’lik hüküm dışı kaydının kaldırılarak kamu zararı oluşmayan konu hakkında ilişilecek bir husus bulunmadığına oybirliğiyle karar verildi.
