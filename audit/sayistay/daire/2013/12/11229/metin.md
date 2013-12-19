@@ -1,0 +1,5 @@
+Zam ve Tazminat
+
+Başkanlık müşavirliği görevinde kadro karşılığı sözleşmeli statüde bulunan ve daire başkanlığı görevini de vekâleten yürüten personele vekâlet nedeniyle ödenen zam ve tazminat farkının hatalı hesaplanması suretiyle …......... TL kamu zararına sebebiyet verilmesi hususunda;
+
+657 sayılı Devlet Memurlarına Kanununun 152 nci maddesi gereğince 17.04.2006 tarih ve 2006/10344 sayılı Bakanlar Kurlu Kararı ile yürürlüğe konulan “Devlet Memurlarına Ödenecek Zam ve Tazminatlarına İlişkin Karar”ın 9 uncu maddesi uyarınca bir göreve vekalet ettirilenlere, vekalet edilen görev ile asli kadro veya görevleri karşılığında belirlenen zam ve tazminatlar arasındaki fark ödenebilmektedir. Başkanlık müşavirliği görevinde bulunan ilgiliye fiilen almakta olduğu zam ve tazminatlar ile 27.06.1989 tarih 375 sayılı Kanun Hükmünde Kararnamede Daire Başkanlığı için öngörülen tazminat arasındaki farkın ödenmesi mevzuata uygun olmamakla birlikte, meydana gelen kamu zararı tahsil edilmiş olduğundan ilişik kalmadığına ve tahsilatın ilamda gösterilmesine oy birliğiyle karar verildi.
