@@ -1,0 +1,3 @@
+Merkez Kurulu ve görevleri
+MADDE 8 – (1) Merkez Kurulu, ilgili anabilim dalları öğretim üyeleri ve görevlileri arasından Senatonun üç yıl için seçtiği beş öğretim üyesi ile Rektörün görevlendireceği en az dört öğretim üyesinden oluşur. Süresi biten üyeler yeniden seçilebilir, süresi tamamlanmadan ayrılanların yerine kalan süreyi tamamlamak üzere aynı yöntemle yenileri seçilir.
+(2) Merkez Kurulu, Müdür tarafından hazırlanmış ve Yönetim Kurulunca uygun görülmüş yıllık çalışma faaliyetlerini ve bir sonraki çalışma yılına ait programı değerlendirir, onaylar, yeni çalışma konuları üzerinde tavsiyelerde bulunur. Danışma Kurulu üyeliği için öneride bulunur. Merkez Kurulu yılda en az iki kez toplanır.

@@ -1,0 +1,6 @@
+Müdür ve görevleri
+MADDE 9 – (1) Müdür; Rektör tarafından, Üniversitede Merkezin faaliyetleriyle ilgili alanlarda çalışan ve girişimcilik, inovasyon ve bunların yönetimi alanında uzman öğretim üyesi ve görevlileri arasından üç yıl süre ile görevlendirilir. Süresi biten Müdür aynı usulle yeniden görevlendirilebilir veya görevden alınabilir.
+(2) Müdürün önerisi ile Merkez Kurulu üyeleri arasından bir kişi Müdür yardımcısı olarak Rektör tarafından üç yıl süre ile görevlendirilir. Müdür yardımcısı, Merkezle ilgili konularda Müdürün vereceği işleri yapar ve kurulların toplantılarına katılabilir. Müdür kısa süreli ayrılışlarında vekâleti yardımcısına bırakır. Bu vekâlet altı aydan fazla sürerse ya da Müdür başka bir nedenle görev süresi dolmadan ayrılırsa, kalan süreyi doldurmak üzere Rektör tarafından yeni bir Müdür görevlendirilir.
+(3) Müdürün görevleri şunlardır:
+a) Merkezi temsil ve Yönetim Kuruluna başkanlık etmek, her yılsonunda Merkezin çalışmaları ile ilgili olarak etkinlik raporunu ve sonraki yıla ait çalışma programını hazırlamak ve Yönetim Kuruluna sunmak.
+b) Yönetim Kurulunun belirlediği ilkeler ve hedefler doğrultusunda Merkezi yönetmek, akademik, idari, mali ve teknik yönden işleyişini planlamak, kamu ya da özel kuruluşlar arasında koordinasyon sağlamak ve Merkez ile ilgili eğitim programlarını düzenlemek.
