@@ -1,0 +1,1 @@
+MADDE 1 - 2547 Sayılı Yükseköğretim Kanunufnun 3/j ve 7/d-2’nci maddeleri uyarınca ve Hacettepe Üniversitesi Senatosu’nun 22/06/1998 tarih ve 98/68 sayılı kararı ile önerilen ”Hacettepe Üniversitesi Aile Hizmetleri Uygulama ve Araştırma Merkezi (AHUM)” nin kurulması Yükseköğretim Kurulu Başkanlığı’nın 17/07/1998 tarih ve 98/27.1966 sayılı kararı ile uygun görülmüştür.

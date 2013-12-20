@@ -1,0 +1,2 @@
+AMAÇ:
+MADDE 3 - Hacettepe Üniversitesine bağlı bir birim olarak kurulan Merkezin amacı; hızlı toplumsal değişme, kentleşme, iç ve dış göçün aileler üzerinde yarattığı ekonomik, toplumsal, kültürel ve psikolojik sorunlarla ailelerin baş edebilmeleri için aile yaşamını güçlendirecek koruyucu, önleyici ve tedavi edici hizmetlerle sosyal destek sistemlerini harekete geçirmek ve sağlıklı bir aile yaşamının sürekliliğini sağlamaktır.

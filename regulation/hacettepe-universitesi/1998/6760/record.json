@@ -1,0 +1,47 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [],
+  "date_evidence": [
+    [
+      "1998-08-14",
+      "14.08.1998",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2013-12-20",
+      "RG-20/12/2013-28857",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-12-20",
+      "RG-20/12/2013-28857",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-20/12/2013-28857",
+  "first_law": null,
+  "gazette": "23433",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2013-12-20",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/1998/6760",
+  "published": "1998-08-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6760&MevzuatTertip=5",
+  "source_bytes": 39340,
+  "source_id": "8.5.6760",
+  "source_sha256": "4bd857d8b74f617250f6b4ea1eeb3d763a853937ea6478efc517ef3a7bfb485c",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ AİLE HİZMETLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ (AHUM) YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 757
+}
