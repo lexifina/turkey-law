@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-135[11-2013/2]-1331",
+  "source_id": 31082,
+  "date": "2013-12-20",
+  "title": "Aksesuarların ÖTV matrahına dahil edilip edilmeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/31082",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "7b1f6a6963d54ddd44b1a00e2a15148ed20328d57abfbd594e2b0f6721d2b304",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
