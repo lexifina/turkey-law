@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-12-21",
+  "issue": "28858",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Doğal Çiçek Soğanlarının 2014 Yılı İhracat Listesi Hakkında Tebliğ (No: 2013/61)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131221-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131221.htm",
+  "index_sha256": "1ff60d6bc42cc4ffccd52719cff36ef59bccfd438ddd0c47ac3f9c834e5a6aff",
+  "index_header": "21 Aralık 2013 ... 28858 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131221.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
