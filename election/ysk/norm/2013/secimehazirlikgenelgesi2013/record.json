@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2013/secimehazirlikgenelgesi2013",
+  "list_number": "-",
+  "genelge_number": "3",
+  "decision_date": "2013-12-23",
+  "title": "Seçime hazırlık genelgesi",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1812/SecimeHazirlikGenelgesi2013.pdf",
+  "source_sha256": "f283b9f8a1958b219965a5a04a60bc1780b36f741515dde1536041d029d28fa9",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-12-23",
+  "law_text_complete": false
+}
