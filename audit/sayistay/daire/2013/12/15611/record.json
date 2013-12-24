@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10288",
+  "decision_date": "2013-12-24",
+  "source_id": 15611,
+  "chamber": "1",
+  "ilam_number": "35",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15611/",
+  "source_sha256": "d81adb945c26cfa4e071680d4ea49e5911bb501f8cb6be0b57270ee5df2b6f6f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
