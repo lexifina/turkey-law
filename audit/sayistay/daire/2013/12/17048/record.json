@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10289",
+  "decision_date": "2013-12-24",
+  "source_id": 17048,
+  "chamber": "1",
+  "ilam_number": "33",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17048/",
+  "source_sha256": "4e1edea87e1654cb16e15ff7248e0f782e36055f76efddae1c9e2c055be827e0",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
