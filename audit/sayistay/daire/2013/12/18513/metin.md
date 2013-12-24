@@ -1,0 +1,5 @@
+Sınav ilan giderinin, 27 Kasım 2011 tarih ve 28125 sayılı Resmi Gazete ’de yayımlanan Belediye ve Bağlı Kuruluşları ile Mahalli İdare Birlikleri Norm Kadro İlke ve Standartlarına Dair Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik hükümlerine aykırı olarak yapılması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; İnsan Kaynakları ve Eğitim Müdürlüğü’nün 19.03.2012 tarih ve 292 sayılı başkanlık oluruna istinaden … Belediyesi Teftiş Kurulu Müdürlüğü’nde münhal bulunan GİH sınıfı 1 adet 6. derece kadroya sınavla müfettiş yardımcısı alınabilmesi amacıyla yapılan sınav ilan giderinin 27 Kasım 2011 tarih ve 28125 sayılı Resmi Gazete’de yayınlanan Belediye ve Bağlı Kuruluşları ile Mahalli İdare Birlikleri Norm Kadro İlke ve Standartlarına Dair Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik hükümlerine aykırı olarak yapılması nedeniyle kamu zararına neden olunduğu iddia edildiği görülmüş ise de; söz konusu sınav yönetmeliğin çıkarılmamasından dolayı iptal edilmemiş, mülakat sınavı sonunda kazanan olmamıştır. Bu nedenle, kamu zararı oluşmayan … TL ile ilgili olarak ilişilecek husus bulunmadığına,
+
+oy birliğiyle,
