@@ -1,0 +1,3 @@
+Gecikme cezası
+
+… Şti. yüklenimindeki … TL sözleşme bedelli, Asfalt Distribütörü Ekipmanları Alınması işinde, distribütörün yapımı aşamasında tespit edilen brülör yapımı ve motor arızasının giderilmesi ilave işleri ile yapım işi bittikten sonra distribütör operatörlerine distribütörlerin kullanımı ile ilgili olarak yüklenici firma tarafından eğitim verilmesi için gerekli olan sürelerin de ilave edilmesi suretiyle oluşan yeni teslim programı çerçevesinde tespit edilen teslim tarihinde teslimat işlemlerinin gerçekleştiği anlaşıldığından, yapılan işlemlerin yasal düzenlemelere uygun olduğuna oy birliğiyle,

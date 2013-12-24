@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10289",
+  "decision_date": "2013-12-24",
+  "source_id": 17047,
+  "chamber": "1",
+  "ilam_number": "33",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17047/",
+  "source_sha256": "01b2d4fcd7734ce26d36b792cefd1971eb2dc96d2f2109d120fc0fc5a25ce8f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
