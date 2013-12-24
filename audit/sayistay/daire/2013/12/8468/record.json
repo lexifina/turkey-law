@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10289",
+  "decision_date": "2013-12-24",
+  "source_id": 8468,
+  "chamber": "1",
+  "ilam_number": "33",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8468/",
+  "source_sha256": "b47f9d2cd3bbdca55882bb34487d8235d45c17013ec19803f532ddeda6881c0e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
