@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "42",
+  "decision_date": "2013-12-24",
+  "source_id": 13029,
+  "chamber": "4",
+  "ilam_number": "169",
+  "item_number": 7,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13029/",
+  "source_sha256": "48e397174b414f6684f010eb62ab7bf31ddda192ed6e7330e5f49ac972d94267",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
