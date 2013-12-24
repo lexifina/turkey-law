@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan tebliğ
+MADDE 16 – (1) 9/3/1994 tarihli ve 21872 sayılı Resmî Gazete’de yayımlanan Halka Açık Anonim Ortaklıklar Genel Kurullarında Vekaleten Oy Kullanılmasına ve Çağrı Yoluyla Vekalet Toplanmasına ilişkin Esaslar Tebliği ( Seri: IV, No: 8) yürürlükten kaldırılmıştır. Kurulun diğer düzenlemelerinde Halka Açık Anonim Ortaklıklar Genel Kurullarında Vekaleten Oy Kullanılmasına ve Çağrı Yoluyla Vekalet Toplanmasına ilişkin Esaslar Tebliği (Seri: IV, No: 8)’ne yapılan atıflar bu Tebliğe yapılmış sayılır.

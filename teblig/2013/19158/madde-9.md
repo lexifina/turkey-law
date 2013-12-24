@@ -1,0 +1,5 @@
+Vekilin yetkisinin sınırları
+MADDE 9 – (1) Oy hakkını vekil aracılığıyla kullanmak isteyenler, bu Tebliğin 6 ncı maddesinde belirtilen ve Ek-1’de yer alan formun (A) bendinde yer alan seçenekleri işaretleyerek ve/veya talimatlarını yazarak vekilin yetkisinin sınırlarını belirlerler. Pay sahibi tarafından herhangi bir seçeneğin işaretlenmemesi halinde vekil genel hükümlere göre hareket eder.
+(2) Temsil yetkisinin EGKS’den verilmesi halinde de, oy hakkı sahibi oyun ne yönde kullanılacağını belirterek temsil yetkisini sınırlandırabilir.
+(3) Vekil, kendisine verilen talimata uygun hareket etmekle yükümlüdür. Oy hakkı vekilin özen borcu çerçevesinde kullanılır. Ancak, vekil tarafından talimata aykırı hareket edilmesi, oyu geçersiz kılmaz. Vekilin, pay sahibinin talimatlarına uygun hareket etmemesi halinde genel hükümler uygulanır.
+(4) Vekalette hile ve benzeri durumlarda da, ancak vekil tarafından kullanılan paylara ait oy haklarının genel kurul kararının sonucuna etkili olacağı hallerde, genel kurul kararının iptali talep edilebilir.

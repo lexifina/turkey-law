@@ -1,0 +1,3 @@
+Vekaletname formlarının gönderilmesi ve ilanı
+MADDE 7 – (1) Halka açık ortaklıklar, vekil aracılığı ile oy kullanmak isteyen pay sahiplerinin kullanacakları vekaletname formlarını, genel kurul gündemi ile birlikte ilan etmelidir. Payları kayden izlenmeyen ortaklıkların, genel kurul toplantılarına çağrı için pay sahiplerine gönderdiği dokümanlar arasında vekaletname formları da yer alır.
+(2) Ortaklıklar tarafından, birinci fıkra uyarınca ilan edilen ve/veya gönderilen vekaletname formlarında, vekil tayin edilmek üzere herhangi bir kişi lehine yönlendirme yapılamaz, telkin ve önerilerde bulunulamaz.
