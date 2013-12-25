@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-12-25",
+  "issue": "28862",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Zorunlu Karşılıklar Hakkında Tebliğ (Sayı: 2013/15)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131225-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131225.htm",
+  "index_sha256": "c36424eb2247ee9fc78631ef4114c7f4deafc6ee5d3dc777b9cd26e978e7d611",
+  "index_header": "25 Aralık 2013 ... 28862 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131225.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
