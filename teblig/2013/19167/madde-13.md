@@ -1,0 +1,4 @@
+Yönetim kurulu kararlarının iptali
+MADDE 13 – (1) Yönetim kurulunun bu Tebliğdeki esaslar çerçevesinde aldığı kararlar aleyhine, TTK’nın genel kurul kararlarının iptaline ilişkin hükümleri çerçevesinde yönetim kurulu üyeleri veya hakları ihlal edilen pay sahipleri, kararın ilanından itibaren otuz gün içerisinde ortaklık merkezinin bulunduğu yer ticaret mahkemesinde iptal davası açabilir.
+(2) Kurulca Kanunun 93 üncü maddesi uyarınca, bu Tebliğ çerçevesinde alınan yönetim kurulu kararları aleyhine, bu kararların ticaret siciline tescil tarihinden itibaren otuz gün içerisinde ortaklık merkezinin bulunduğu yer asliye ticaret mahkemesinde iptal davası açılabilir ve teminatsız olarak bu kararların icrasının geri bırakılması istenebilir.
+(3) Yönetim kurulu kararlarının iptali hususunda, bu Tebliğ ile düzenlenmemiş konularda TTK’nın ilgili hükümleri uygulanır.
