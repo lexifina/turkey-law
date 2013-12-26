@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4805/14",
+  "decision_date": "2013-12-26",
+  "title": "Vangölü Elektrik Dağıtım Anonim Şirketi’nin; 2014 yılı dağıtım, iletim ve sayaç okuma gelir tavanlarına ilişkin karar.",
+  "resmi_gazete_date": "2014-01-01",
+  "resmi_gazete_number": "28869",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XM0DHRN/NKE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XM0DHRN/NKE="
+  ],
+  "source_sha256": "30311baee85913ffe88e6ccbb0024c66d5554d7bae2658bb29a1e197894474ee",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-26",
+  "law_text_complete": false
+}
