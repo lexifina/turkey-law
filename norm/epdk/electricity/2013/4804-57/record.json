@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4804/57",
+  "decision_date": "2013-12-26",
+  "title": "Gürsu Organize Sanayi Bölgesi Müdürlüğü Tüzel Kişiliğinin organize sanayi bölgesi onaylı sınırları içerisindeki katılımcılarına 2014 yılı için uygulanmak üzere dağıtım bedeline ilişkin karar.",
+  "resmi_gazete_date": "2014-01-01",
+  "resmi_gazete_number": "28869",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NEmr3TQrydY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NEmr3TQrydY="
+  ],
+  "source_sha256": "42b2598d6d54039aef32b01e53e0b85afb23da7db98cc431267b0a722b0e1fe1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-26",
+  "law_text_complete": false
+}
