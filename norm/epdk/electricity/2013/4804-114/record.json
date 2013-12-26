@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4804/114",
+  "decision_date": "2013-12-26",
+  "title": "Ordu Organize Sanayi Bölgesi Tüzel Kişiliğinin organize sanayi bölgesi onaylı sınırları içerisindeki katılımcılarına 2014 yılı için uygulanmak üzere dağıtım bedeline ilişkin karar.",
+  "resmi_gazete_date": "2014-01-01",
+  "resmi_gazete_number": "28869",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tpN1R0RTvZo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tpN1R0RTvZo="
+  ],
+  "source_sha256": "e9ab30a4ebc7c8f972d8f6f9b1854e0300c1900356351a14de40fa0a174cb0dc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-26",
+  "law_text_complete": false
+}
