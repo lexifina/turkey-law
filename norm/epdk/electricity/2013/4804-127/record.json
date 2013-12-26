@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4804/127",
+  "decision_date": "2013-12-26",
+  "title": "Sivas Merkez 1.Organize Sanayi Bölgesi Tüzel Kişiliğinin organize sanayi bölgesi onaylı sınırları içerisindeki katılımcılarına 2014 yılı için uygulanmak üzere dağıtım bedeline ilişkin karar.",
+  "resmi_gazete_date": "2014-01-01",
+  "resmi_gazete_number": "28869",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+MhadsXwM9g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+MhadsXwM9g="
+  ],
+  "source_sha256": "d522a14c168d3e3d85947a2876afb864081e42a3ffbfa8800344d3627b56f76b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-26",
+  "law_text_complete": false
+}
