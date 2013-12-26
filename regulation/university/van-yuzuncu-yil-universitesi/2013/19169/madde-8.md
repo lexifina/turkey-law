@@ -1,0 +1,4 @@
+Derslerden muafiyet
+MADDE 8 – (1) Fakülteye kaydını yaptıran öğrenciler daha önce kaydoldukları yükseköğretim kurumlarından almış ve başarmış oldukları derslerden muaf olmak için, eğitim-öğretimin başlamasından itibaren on beş gün içinde başvurdukları takdirde, muafiyet istekleri Yönetim Kurulunca değerlendirilir ve karara bağlanır. Öğrencinin muaf sayıldığı derslerden aldığı notlar muaf (M) notuna dönüştürülerek transkriptinde ayrı bir bölüm halinde gösterilir. Muaf (M) notu alınan ders tekrarlanmaz ve akademik ortalamaya dahil edilmez.
+(2) Ortak zorunlu yabancı dil ve temel bilgisayar gibi müşterek dersler için eğitim-öğretimin başlamasından sonra bir ay içerisinde merkezi muafiyet sınavı açılır. Bu sınavda başarılı olan öğrenciler ilgili dersten muaf sayılır ve bu sınavdan alınan notlar akademik ortalamaya dahil edilir.
+(3) Muafiyet talebinde bulunan öğrenciler, ilgili derslerin muafiyet sınav sonuçları belli oluncaya kadar derslerine devam etmek zorundadır.

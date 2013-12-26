@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 24 – (1) Öğrenciler; başarı notlarına itiraz edemez, ancak sınav sonuçlarına ve ham başarı puanlarına, maddi hata bulunduğu gerekçesiyle itiraz edebilir. İtiraz, sınav sonuçlarının ilan tarihinden itibaren yedi gün içinde bir dilekçeyle Dekanlığa yapılır. İtiraz ilgili öğretim elemanına bildirilir. İnceleme sonucunda maddi hata tespit edilirse, gerekçeli olarak not düzeltmesi yapılır ve sonuç Yönetim Kurulunda karara bağlanır. İtiraz, itiraz süresinin bitiminden itibaren en geç on beş gün içinde sonuçlandırılır.
+(2) İtiraz üzerine değişen notlar diğer öğrencilerin başarı notunu etkilemez.

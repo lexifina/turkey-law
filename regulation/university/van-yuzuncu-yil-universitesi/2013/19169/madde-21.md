@@ -1,0 +1,11 @@
+BEŞİNCİ BÖLÜM
+Sınavlar
+Sınavlar
+MADDE 21 – (1) Fakültede sınavlar; yazılı, sözlü, test ve uygulamalı olarak yapılabilir. Sınavların sözlü veya uygulamalı yapılması halinde, sınavlarda uygulanacak usul ve değerlendirme kriterleri; ilgili öğretim elemanı tarafından tespit edilir, bölüm başkanının onayından sonra Yönetim Kurulu kararı ile kesinleşir.
+(2) Sınav programları Dekanlıkça hazırlanır, sınavlardan en az on beş gün önce ilan edilir ve sınavlar aşağıdaki esaslara göre yapılır:
+a) Her ders için en az bir ara sınav yapılır. İlgili öğretim elemanının talebi ve Yönetim Kurulunun kararı ile birden fazla ara sınav yapılabilir.
+b) Dini ve milli bayramlar dışında cumartesi ve pazar günleri de sınav yapılabilir.
+c) Mazeret sınavından yararlanmak isteyen öğrencilerin, mazeretlerini kanıtlayan belgelerle birlikte, mazeretin sona ermesinden itibaren en geç yedi gün içinde ve yarıyıl bitmeden Dekanlığa başvurmaları gerekir. Aynı ders için birden fazla mazeret sınavı hakkı kullanılamaz ve aynı ders için birden fazla mazeret sınavı yapılamaz.
+ç) Sağlık sorunları sebebiyle mazeret sınavlarından yararlanmak isteyen öğrencilerin, herhangi bir sağlık kurumundan aldıkları raporları Yönetim Kuruluna sunmaları gerekir. Bu öğrencilerin mazeret ara sınavları her yarıyılın son haftasında, mazeret yarıyıl sonu sınavları bir sonraki dönem yarıyıl sonu sınavları ile birlikte Yönetim Kurulunun belirleyeceği gün ve saatlerde yapılır.
+d) Derse kayıt ve devam şartlarını sağlayan öğrenciler yarıyıl sonu ve bütünleme sınavlarına girerler. Ancak öğrenci değişim programlarıyla yurt dışındaki üniversitelere giden öğrenciler, yurt dışında bulundukları yarıyıl için devam şartı aranmadan bütünleme sınavlarına girebilir. Yarıyıl sonu ve bütünleme sınavları akademik takvimde belirtilen tarihler arasında Dekanlık tarafından belirlenen gün ve saatte yapılır.
+e) Öğrenciler öğrenim sürelerini tamamladıktan sonra mezuniyetleri için tek dersi kaldığında başvurmaları halinde, Yönetim Kurulu kararıyla o dönemin bütünleme sınavından sonraki bir ay içinde tek ders sınavına alınırlar. Bu hakkı her öğrenci bir kez kullanabilir. Bu sınavda ara sınav notu aranmaz ve alınan not tam notun en az %60’ı ise öğrenci başarılı sayılır.
