@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4805/3",
+  "decision_date": "2013-12-26",
+  "title": "İstanbul Anadolu Yakası Elektrik Dağıtım Anonim Şirketi’nin; 2014 yılı dağıtım, iletim vegelir tavanlarına ilişkin karar.",
+  "resmi_gazete_date": "2014-01-01",
+  "resmi_gazete_number": "28869",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pKOf2exwy10=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pKOf2exwy10="
+  ],
+  "source_sha256": "17e77361cb62d5c00a3f75c5f0ea01befc07d385fbcd9a5e431c6e8aecccb6fe",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-26",
+  "law_text_complete": false
+}
