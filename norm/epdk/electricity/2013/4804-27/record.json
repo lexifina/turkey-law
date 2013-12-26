@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4804/27",
+  "decision_date": "2013-12-26",
+  "title": "Bilecik 2. OSB Tüzel Kişiliğinin organize sanayi bölgesi onaylı sınırları içerisindeki katılımcılarına 2014 yılı için uygulanmak üzere dağıtım bedeline ilişkin karar.",
+  "resmi_gazete_date": "2014-01-01",
+  "resmi_gazete_number": "28869",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=deMxHpTwTzw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=deMxHpTwTzw="
+  ],
+  "source_sha256": "4ebe2062d48922d4840db8d860bd3aa4ed7e3ca59647a29e71a4924aa559747a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-26",
+  "law_text_complete": false
+}
