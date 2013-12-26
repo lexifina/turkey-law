@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4804/68",
+  "decision_date": "2013-12-26",
+  "title": "İstanbul Deri Organize Sanayi Bölgesi Tüzel Kişiliğinin organize sanayi bölgesi onaylı sınırları içerisindeki katılımcılarına 2014 yılı için uygulanmak üzere dağıtım bedeline ilişkin karar.",
+  "resmi_gazete_date": "2014-01-01",
+  "resmi_gazete_number": "28869",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Vf34e98wd3g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Vf34e98wd3g="
+  ],
+  "source_sha256": "16e50f31709a4c9918afe7b734454bbf7dd22d15603a51129efd521c0e050475",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-26",
+  "law_text_complete": false
+}
