@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4805/19",
+  "decision_date": "2013-12-26",
+  "title": "Meram Elektrik Dağıtım Anonim Şirketi’nin; 2014 yılı dağıtım, iletim ve sayaç okuma gelir tavanlarına ilişkin karar.",
+  "resmi_gazete_date": "2014-01-01",
+  "resmi_gazete_number": "28869",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HoSjwynXOCc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HoSjwynXOCc="
+  ],
+  "source_sha256": "f5c33f4b7498fe1b5d84661b7d85e14495eeb885a731dd99aa796e716b76c633",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-26",
+  "law_text_complete": false
+}
