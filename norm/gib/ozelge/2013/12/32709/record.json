@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "19208162-KDVK-1-43",
+  "source_id": 32709,
+  "date": "2013-12-26",
+  "title": "TIBBİ ÜRÜNLERİN SATIŞINDA KDV ORANI",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32709",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "c8e0b31c99180880e549569b3ac5a22c49ac42811b511e0694a1ccb763161cc0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
