@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4797",
+  "decision_date": "2013-12-26",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 17/08/2004 tarih ve 356-20 sayılı Kararı ile 01/09/2004 tarihinden itibaren yürürlüğe giren, “Boru Hatları ile Petrol Taşıma Anonim Şirketi (BOTAŞ) İletim Şebekesi İşleyiş Düzenlemelerine İlişkin Esaslar (ŞİD)” çerçevesinde belirlenen iletim ve sevkiyat kontrolüne ait tarifeler ile ilgili",
+  "resmi_gazete_date": "2014-01-01",
+  "resmi_gazete_number": "28869",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WFOmpXeDYBk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WFOmpXeDYBk="
+  ],
+  "source_sha256": "5538a3ef2531010d814d6ff2d61d8a029ac382496d40fb6597bff2b2e2cdf92e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-26",
+  "law_text_complete": false
+}
