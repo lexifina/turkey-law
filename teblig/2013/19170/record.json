@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.19170",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SIVILAŞTIRILMIŞ PETROL GAZLARI (LPG) - İKMAL İSTASYONU – KARAYOLU TAŞITLARI İÇİN - EMNİYET KURALLARI İLE İLGİLİ TEBLİĞ (TS 11939) (TEBLİĞ NO: MSG-MS-2013/44)",
+  "number": "19170",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2013/19170",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19170&MevzuatTertip=5",
+  "source_sha256": "d0282786abe2260876ebbe109217290d9fae56307f69f757c0370ba767c59f59",
+  "source_bytes": 9053,
+  "published": "2013-12-26",
+  "gazette": "28863",
+  "in_force": "2013-12-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.12.2013); own commencement article: \"Bu Tebliğ yayımlandığı tarihten üç ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımlandığı tarihten üç ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 270,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

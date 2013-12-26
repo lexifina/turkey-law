@@ -1,0 +1,1 @@
+MADDE 5 – (1) 30/6/2012 tarihli ve 28339 sayılı Resmî Gazete’de yayımlanan Sıvılaştırılmış Petrol Gazları (LPG)-İkmal İstasyonu-Karayolu Taşıtları İçin-Emniyet Kuralları ile İlgili Tebliğ (TS 11939) (MSG-MS-2012/19) sayılı Tebliğ yürürlükten kaldırılmıştır.
