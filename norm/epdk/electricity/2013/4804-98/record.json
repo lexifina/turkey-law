@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4804/98",
+  "decision_date": "2013-12-26",
+  "title": "EPDK Kurul Kararı 4804/98",
+  "resmi_gazete_date": "2014-01-01",
+  "resmi_gazete_number": "28869",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Bm8LsjRAiCs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Bm8LsjRAiCs="
+  ],
+  "source_sha256": "37e48260bff12d682c4c6a2d779c65e1a9196a6425ded0519133c651349a425d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2013-12-26",
+  "law_text_complete": false
+}
