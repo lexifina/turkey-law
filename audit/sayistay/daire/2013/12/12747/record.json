@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "174",
+  "decision_date": "2013-12-26",
+  "source_id": 12747,
+  "chamber": "3",
+  "ilam_number": "41",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12747/",
+  "source_sha256": "0192bee9bfd0683228078413859c11adac80ad6f78ea5f01a2777c54ac143ded",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
