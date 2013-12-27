@@ -1,0 +1,2 @@
+Çalışma grupları
+MADDE 12 – (1) Merkezin yukarıda belirtilen amaçlarına hizmet edecek şekilde farklı projeler için farklı çalışma grupları oluşturulur. Çalışma grup liderleri Üniversitenin aylıklı ve devamlı statüdeki öğretim elemanları veya ilgili sektörden Merkez Müdürünce önerilen adaylar arasından, Merkez Yönetim Kurulunca seçilirler ve asgari bir yıl süreyle ilgili mevzuat hükümlerine göre Rektör tarafından görevlendirilirler. Süresi dolan çalışma grubu liderleri, aynı usulle yeniden görevlendirilebilir.
