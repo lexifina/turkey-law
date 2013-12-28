@@ -1,8 +1,9 @@
-Ücretler
-Madde 33 - Verilecek yetki belgeleri ve taşıt kartlarından ücret alınır. Ücreti alınmadan yetki belgeleri ve taşıt kartları verilmez. Yetki belgesinin yenilenmesinde ve zayiinde ücretin % 15'i alınır. Unvan değişikliği, adres değişikliği ve benzeri nedenlerle süresi bitmeden yenilenen belgelerden ücret alınmaz. (1)
+Ücretler (1)
+Madde 33 - Verilecek yetki belgeleri ve taşıt kartlarından ücret alınır. Ücreti alınmadan yetki belgeleri ve taşıt kartları verilmez. Yetki belgesinin yenilenmesinde ve zayiinde ücretin % 15'i alınır. Unvan değişikliği, adres değişikliği ve benzeri nedenlerle süresi bitmeden yenilenen belgelerden ücret alınmaz. (1)(2)
 –––––––––––––––––
-(1) Bu fıkrada yer alan "%50'si" ibaresi; 21/4/2005 tarihli ve 5335 sayılı Kanunun 21 inci maddesiyle 1/1/2009 tarihinden geçerli olmak üzere "%15’i" şeklinde değiştirilmiş ve metne işlenmiştir.
-8538
+(1) 12/7/2013 tarihli ve 6495 sayılı Kanunun Geçici 3 üncü maddesiyle, bu maddede yer alan “% 15” oranının 31/12/2022 tarihine kadar “%5” olarak uygulanacağı hüküm altına alınmıştır.
+(2) Bu fıkrada yer alan "%50'si" ibaresi; 21/4/2005 tarihli ve 5335 sayılı Kanunun 21 inci maddesiyle 1/1/2009 tarihinden geçerli olmak üzere "%15’i" şeklinde değiştirilmiş ve metne işlenmiştir.
+8538-2
 Bu ücretler, her takvim yılı başından geçerli olmak üzere o yıl için 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükmü uyarınca tespit ve ilân edilen yeniden değerleme oranında artırılarak uygulanır.
 Bakanlık, görev alanına giren hizmetleri yerine getirmek için, merkezde Bakanın onayı ile döner sermaye işletmesi kurabilir. Döner sermaye miktarını belirlemeye Bakanlar Kurulu yetkilidir. İşletmenin görevleri, gelirleri, işleyişi, denetimi ve diğer hususlar yönetmelikle belirlenir.
 (Ek fıkra: 21/4/2005 – 5335/21 md.) Döner Sermaye İşletmesinin 2004 yılı dahil gelirlerine ilişkin olarak 1050 sayılı Muhasebei Umumiye Kanununun 49 uncu maddesi hükümleri uygulanmaz.
