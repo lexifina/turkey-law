@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.19188",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2014 YILI TANIKLIK ÜCRET TARİFESİ",
+  "number": "19188",
+  "path": "teblig/2013/19188",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19188&MevzuatTertip=5",
+  "source_sha256": "b477caf975ee1adf0c94eccd0b0ffdcdfff3548df05f29c23d52ceeebc308669",
+  "source_bytes": 8182,
+  "published": "2013-12-28",
+  "gazette": "28865",
+  "in_force": "2013-12-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.12.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 169,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
