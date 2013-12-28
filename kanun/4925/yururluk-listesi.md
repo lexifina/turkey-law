@@ -7,3 +7,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4
 5728 | 5, 24, 26, 27, 28, 29, 30, 31 | 8/2/2008
 5917 | 26, 27, 30, 31, 33 | 10/7/2009
 Anayasa Mahkemesinin 8/11/2012 tarihli ve E:2012/27, K:2012/173 sayılı Kararı | 35 | 28/3/2013 tarihinden başlayarak dokuz ay sonra (28/12/2013)
+6495 | 26, 33, İşlenemeyen hüküm | 2/8/2013
