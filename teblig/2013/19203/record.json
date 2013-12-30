@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.19203",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERASET VE İNTİKAL VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 45)",
+  "number": "19203",
+  "path": "teblig/2013/19203",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19203&MevzuatTertip=5",
+  "source_sha256": "fe0ca2d077003e77d679759546169d67158e6ad544a2f20aaacf777f798f1e22",
+  "source_bytes": 16595,
+  "published": "2013-12-30",
+  "gazette": "28867 (mükerrer)",
+  "in_force": "2013-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 564,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
