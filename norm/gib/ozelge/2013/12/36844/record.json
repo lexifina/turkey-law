@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-BSMV-29-y-197",
+  "source_id": 36844,
+  "date": "2013-12-30",
+  "title": "Ticari ve mesleki bir niteliği olmayan dernek ve vakıfların kuruluş amaçlarını sürdürmek amacıyla edindikleri gayrimenkuller için kullandırılan kredilerde BSMV ve KKDF uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36844",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "584a07e1470f308d938f91c0b8befeebbcbed31c7b957b14579df8519b8f8f3e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
