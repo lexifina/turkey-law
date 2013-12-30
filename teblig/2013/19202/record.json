@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.19202",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ (SERİ NO: 43)",
+  "number": "19202",
+  "path": "teblig/2013/19202",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19202&MevzuatTertip=5",
+  "source_sha256": "314f43c7a5cfe2a1e65b48e7ff8deb1a4b834247bedc3b9cddb0f88033de4d90",
+  "source_bytes": 55067,
+  "published": "2013-12-30",
+  "gazette": "28867 (mükerrer)",
+  "in_force": "2013-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 725,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
