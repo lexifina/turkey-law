@@ -1,0 +1,589 @@
+30 Aralık 2013 PAZARTESİ
+Resmî Gazete
+Sayı : 28867 (Mükerrer)
+TEBLİĞ
+Maliye Bakanlığından:
+VERGİ USUL KANUNU GENEL TEBLİĞİ
+(SIRA NO: 433)
+1- Giriş
+4/1/1961
+tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 242 nci
+maddesinin 2 numaralı fıkrası ile Maliye Bakanlığı, elektronik defter,
+kayıt ve belgelerin oluşturulması, kaydedilmesi, iletilmesi, muhafazası ve
+ibrazı ile defter ve belgelerin elektronik ortamda tutulması ve
+düzenlenmesi uygulamasına ilişkin usul ve esasları belirlemeye, elektronik
+ortamda tutulmasına ve düzenlenmesine izin verilen defter ve belgelerde yer
+alması gereken bilgileri internet de dâhil olmak üzere her türlü elektronik
+bilgi iletişim araç ve ortamında Maliye Bakanlığına veya Maliye Bakanlığının
+gözetim ve denetimine tâbi olup, kuruluşu, faaliyetleri, çalışma ve denetim
+esasları Bakanlar Kurulunca çıkarılacak bir yönetmelikle belirlenecek olan
+özel hukuk tüzel kişiliğini haiz bir şirkete aktarma zorunluluğu getirmeye,
+bilgi aktarımında uyulacak format ve standartlar ile uygulamaya ilişkin
+usul ve esasları tespit etmeye, bu Kanun kapsamına giren işlemlerde
+elektronik imza kullanım usul ve esaslarını düzenlemeye ve denetlemeye
+yetkili kılınmıştır.
+Ayrıca söz konusu fıkrada, Vergi Usul Kanunu ve
+diğer vergi kanunlarında defter, kayıt ve belgelere ilişkin olarak yer alan
+hükümlerin elektronik defter, kayıt ve belgeler için de geçerli olduğu;
+Maliye Bakanlığının, elektronik defter, belge ve kayıtlar için diğer
+defter, belge ve kayıtlara ilişkin usul ve esaslardan farklı usul ve
+esaslar belirlemeye yetkili olduğu hükme bağlanmıştır.
+Aynı
+Kanunun 227 nci maddesinin birinci fıkrasında, bu
+Kanunda aksine hüküm olmadıkça bu Kanuna göre tutulan ve üçüncü şahıslarla
+olan münasebet ve muamelelere ait kayıtların tevsikinin mecbur olduğu;
+dördüncü fıkrasında, Maliye Bakanlığının, düzenlenmesi mecburi olan
+belgelerde bulunması gereken zorunlu bilgileri belirleyebileceği hükmüne
+yer verilmiştir.
+Diğer taraftan anılan Kanunun mükerrer 257 nci maddesinin birinci fıkrasının (3) numaralı
+bendinde, Maliye Bakanlığının, tutulması ve düzenlenmesi zorunlu defter,
+kayıt ve belgelerin mikro film, mikro fiş veya elektronik bilgi ve kayıt
+araçlarıyla yapılması veya bu kayıt ortamlarında saklanması hususunda izin
+vermeye veya zorunluluk getirmeye, bu şekilde tutulacak defter ve
+kayıtların kopyalarının Maliye Bakanlığında veya muhafaza etmekle görevlendireceği
+kurumlarda saklanması zorunluluğu getirmeye, bu konuda uygulama usul ve
+esaslarını belirlemeye yetkili olduğu hükme bağlanmıştır.
+Ayrıca aynı maddenin birinci fıkrasının (4)
+numaralı bendinde, Maliye Bakanlığının Vergi Usul Kanununun 149 uncu
+maddesine göre devamlı bilgi vermek zorunda olanlardan istenilen bilgiler
+ile vergi beyannameleri ve bildirimlerin, şifre, elektronik imza veya diğer
+güvenlik araçları konulmak suretiyle internet de dâhil olmak üzere her
+türlü elektronik bilgi iletişim araç ve ortamında verilmesi, beyanname ve
+bildirimlerin yetki verilmiş gerçek veya tüzel kişiler aracı kılınarak
+gönderilmesi hususlarında izin vermeye veya zorunluluk getirmeye,
+beyanname, bildirim ve bilgilerin aktarımında uyulacak format ve standartlar
+ile uygulamaya ilişkin usul ve esasları tespit etmeye, bu zorunluluğu
+beyanname, bildirim veya bilgi çeşitleri, mükellef grupları ve faaliyet
+konuları itibarıyla ayrı ayrı uygulatmaya ilişkin
+usul ve esasları belirlemeye yetkili olduğu hükme bağlanmıştır.
+Yukarıda
+yer verilen yetkilere istinaden, Vergi Usul Kanunu uyarınca kâğıt ortamında
+düzenlenmek, muhafaza ve ibraz edilmek zorunluluğu bulunan faturanın
+elektronik ortamda düzenlenmesi ve ikinci nüshasının elektronik ortamda
+muhafaza ve ibraz edilmesine imkân tanıyan e-Arşiv Uygulamasına ilişkin
+usul ve esaslar bu Tebliğin konusunu oluşturmaktadır.
+2- Tanımlar ve Kısaltmalar
+Bu Tebliğde geçen;
+Başkanlık
+:
+Gelir İdaresi
+Başkanlığını,
+Bilgi
+Fişi
+:
+3100
+Sayılı Kanun ve 426 sıra numaralı Vergi Usul Kanunu Genel Tebliği kapsamında
+yapılan düzenlemelere uygun olarak ödeme kaydedici cihazlarda (yeni nesil
+dâhil) düzenlenen mali değeri olmayan fişi,
+Bilgi İşlem Sistemi
+:
+Mükelleflerin
+belgelerini elektronik ortamda oluşturmak, kaydetmek, muhafaza etmek ve
+ilgili diğer işlemlerini gerçekleştirmek amacı ile doğrudan ya da dolaylı
+olarak kullandıkları her türlü yazılım ve donanım ile saklama
+ortamlarını,
+BİS Dokümanı
+:
+Bilgi İşlem
+Sistemi Dokümanını,
+e-Arşiv Raporu
+:
+Elektronik
+Arşiv uygulaması kapsamında Başkanlığın belirlediği veri formatı ve
+standardına uygun olarak hazırlanan raporu,
+EFKS
+:
+Elektronik
+Fatura Kayıt Sistemini,
+Elektronik Arşiv (e-Arşiv)
+:
+Bu Tebliğde
+yer alan şartlara uygun şekilde elektronik ortamda oluşturulan faturanın
+elektronik ortamda muhafaza ve ibraz edilmesini,
+Elektronik Arşiv Uygulaması (e-Arşiv Uygulaması)
+:
+Başkanlık
+tarafından belirlenen standartlara uygun olarak faturanın elektronik
+ortamda oluşturulması, elektronik ortamda muhafazası, ibrazı ve
+raporlamasını kapsayan uygulamayı,
+Elektronik Belge
+:
+Şekil
+hükümlerinden bağımsız olarak Vergi Usul Kanununa göre düzenlenmesi
+zorunlu olan belgelerde yer alan bilgileri içeren elektronik kayıtlar
+bütününü,
+Elektronik
+Kayıt
+:
+Elektronik
+ortamda tutulan ve elektronik defter ve belgeleri oluşturan, elektronik
+yöntemlerle erişimi ve işlenmesi mümkün olan en küçük bilgi ögesini,
+Elektronik Saklama Hizmeti Veren Kurum
+:
+421 sıra numaralı
+Vergi Usul Kanunu Genel Tebliği kapsamında Başkanlıktan saklama hizmeti
+verme izni almış mükellefi,
+İnternet Satışı
+:
+Mal ve
+hizmetlerin sipariş ve satın alma süreçlerinin tamamının internet üzerinden
+gerçekleştiği satış biçimini,
+Mali Mühür
+:
+397 sıra numaralı
+Vergi Usul Kanunu Genel Tebliği çerçevesinde Başkanlık için
+TÜBİTAK-BİLGEM Kamu SM bünyesinde oluşturulan elektronik sertifika alt
+yapısını,
+Nitelikli Elektronik Sertifika (NES)
+:
+5070 sayılı
+Elektronik İmza Kanununun dokuzuncu maddesinde tanımlanan ve yalnızca
+gerçek kişi mükelleflerce kullanabilen elektronik sertifikayı,
+Özel Entegratör
+:
+421 sıra numaralı
+Vergi Usul Kanunu Genel Tebliği kapsamında Başkanlıktan özel entegrasyon izni almış mükellefi,
+TÜBİTAK-BİLGEM Kamu SM
+:
+Türkiye
+Bilimsel ve Teknolojik Araştırma Kurumu - Bilişim ve Bilgi Güvenliği
+İleri Teknolojiler Araştırma Merkezi Kamu Sertifikasyon Merkezini,
+Vergi Mükellefi
+:
+Bu tebliğ
+uygulaması bakımından, Vergi Usul Kanununun 232 nci
+maddesinin birinci fıkrasında sayılan birinci ve ikinci sınıf tüccarları,
+serbest meslek erbabını, kazançları basit usulde tespit olunan tüccarları,
+defter tutmak mecburiyetinde olan çiftçileri, vergiden muaf esnafı,
+Vergi Mükellefi Olmayanlar
+:
+Bu Tebliğ
+uygulaması bakımından vergi mükelleflerinin dışında kalanları,
+Zaman Damgası
+:
+Bir
+elektronik verinin üretildiği, değiştirildiği, gönderildiği, alındığı
+ve/veya kaydedildiği zamanın tespit edilmesi amacıyla elektronik
+sertifika hizmet sağlayıcısı tarafından doğrulanan kaydı
+ifade eder.
+3- e-Arşiv Uygulaması İzni
+Vergi Usul Kanunu hükümlerine göre fatura, kâğıt
+ortamında en az iki nüsha olarak düzenlenerek ilk nüshası (aslı) müşteriye
+verilen, ikinci nüshası ise yine kâğıt ortamında aynı Kanunun muhafaza ve
+ibraz hükümlerine göre mükelleflerce saklanılan bir belgedir.
+Bu tebliğ kapsamında elektronik ortamda oluşturulan
+faturanın, alıcısına kâğıt olarak gönderilen veya elektronik ortamda
+iletilen şekli belgenin aslı, düzenleyen tarafından muhafaza edilen elektronik
+hali ise ikinci nüsha hükmündedir. Bu Tebliğ kapsamında Başkanlıktan
+e-arşiv izni alan mükellefler, elektronik ortamda oluşturdukları faturayı
+elektronik ortamda muhafaza ederler.
+e-Arşiv Uygulamasından yararlanabilmek için bu Tebliğin 4 üncü bölümünde
+belirtilen esaslara göre başvuru yapılması gerekmektedir.
+Bu Tebliğ kapsamında e-Arşiv
+Uygulamasından yararlanma izni verilen mükellefler;
+a) 397 sıra numaralı Vergi
+Usul Kanunu Genel Tebliği ile getirilen e-Fatura Uygulamasına kayıtlı olanlara
+düzenledikleri faturaları anılan Tebliğe göre e-fatura olarak oluşturmak,
+iletmek, muhafaza ve istenildiğinde ibraz etmek zorundadırlar.
+b) 397 sıra numaralı Vergi
+Usul Kanunu Genel Tebliği ile getirilen e-Fatura Uygulamasına kayıtlı
+olmayan vergi mükelleflerine e-Arşiv Uygulaması kapsamında fatura
+oluşturmaya, kâğıt ortamında göndermeye ve oluşturulan faturaların ikinci
+nüshasını elektronik ortamda
+muhafaza ve istendiğinde ibraz etmeye zorunludurlar.
+c) Vergi mükellefi
+olmayanlara ise e-Arşiv Uygulaması kapsamında fatura oluşturmaya,
+müşterilerinin talebi doğrultusunda elektronik ortamda iletmeye veya kâğıt
+ortamında göndermeye, oluşturulan faturaların ikinci
+nüshasını elektronik ortamda
+muhafaza etmeye ve istenildiğinde ibraz etmeye zorunludurlar.
+4- Uygulamadan Yararlanma Yöntemleri ve
+Başvuru
+Uygulamadan
+yararlanmak için mükelleflerin 397 sıra numaralı Vergi Usul Kanunu Genel
+Tebliği ile getirilen e-Fatura Uygulamasına kayıtlı olmaları gerekmektedir.
+Mükellefler
+e-Arşiv Uygulamasını, kendi bilgi işlem sistemi veya Başkanlıktan izin
+almış özel entegratör bilgi işlem sistemi
+üzerinden olmak üzere iki yöntemle kullanabilirler.
+Uygulamayı
+kendi bilgi işlem sistemi üzerinde kullanmak isteyen mükellefler www.efatura.gov.tr
+İnternet adresinde yayımlanan e-Arşiv Uygulaması Başvuru Kılavuzu’nda
+açıklanan şartlara uygun olarak başvuru yaparlar.
+e-Arşiv
+Uygulamasını Başkanlıktan e-arşiv izni almış özel entegratörlerin
+bilgi işlem sistemi üzerinde kullanmak isteyen mükellefler, doğrudan özel entegratöre başvuracak olup ayrıca Başkanlığa başvuruda
+bulunmazlar.
+Özel entegratörler kendilerine başvuran mükellefler ile ilgili
+istenen bilgileri www.efatura.gov.tr
+İnternet adresinde yayımlanan kılavuzlarda yer alan açıklamalara uygun
+olarak Başkanlığa elektronik ortamda bildirmek mecburiyetindedirler.
+4.1. Değerlendirme ve İzin
+e-Arşiv
+Uygulamasını kendi bilgi işlem sistemi üzerinden kullanmak için yapılan
+başvurular, mükellefe ait sistemin yapısı, işleyişi ve bu sistemde
+düzenlenen belge ve raporların bu Tebliğde ve www.efatura.gov.tr İnternet adresinde
+yayımlanan e-Arşiv Kılavuzunda belirlenen usul ve esaslara uygun olup
+olmadığı açısından Başkanlıkça değerlendirilir.
+Başkanlık
+gerek görmesi halinde, ilave bilgiler isteyebileceği gibi, mükellefe ait
+bilgi işlem sisteminde yerinde incelemeler yapabilir veya yaptırabilir.
+Yapılan
+değerlendirme sonrasında başvuruları uygun bulunan mükelleflere yazı ile e-
+arşiv izni verilir.
+Değerlendirme
+aşamasında eksiklikleri tespit edilen mükelleflere, söz konusu eksiklikleri
+gidermeleri için yazı ile 1 yıl süre verilir. Bu süre içerisinde
+eksikliklerini gidermeyen mükelleflerin başvuruları reddedilebilir. Bu durumdaki
+mükelleflerin, reddi izleyen 1 yıl içerisinde yapacakları başvurular kabul
+edilmez. Bu durum, mükelleflerin e-Arşiv Uygulamasından
+Başkanlıktan e-arşiv izni alan özel entegratörler
+vasıtasıyla yararlanmalarına engel teşkil etmez.
+Başkanlıktan
+izin alan özel entegratörler, anlaşma yaptıkları
+mükelleflere ilişkin bilgileri Başkanlık sistemine yüklediklerinde www.efatura.gov.tr İnternet adresinde yayımlanan kılavuzlarda
+açıklanan elektronik mesaj yapısına uygun onayı almaları halinde anlaşma
+yaptıkları mükelleflere e-arşiv hizmeti vermeye başlayabilirler.
+5-Özel Entegratör
+Hizmeti Verenler
+421 sıra numaralı Vergi Usul Kanunu Genel Tebliği
+kapsamında Başkanlıktan özel entegrasyon izni alan
+mükellefler, bu Tebliğ kapsamında belge düzenlemek isteyen mükelleflere
+elektronik ortamda fatura ve e-arşiv raporu oluşturma, mali mühürle
+onaylama, zaman damgası kullanma ve oluşturulan faturayı Tebliğin 7 nci bölümüne uygun olarak elektronik ortamda alıcıya
+iletme hizmeti verebilirler.
+e-Arşiv hizmetini özel entegratör sistemi üzerinden alan mükellefler, fatura
+ve elektronik arşiv raporlarında özel entegratörün
+mali mührünün ve zaman damgasının kullanılmasını talep edebilirler.
+Özel entegratörlerin e-arşiv
+hizmeti verebilmesi için Başkanlıktan ayrıca e-arşiv izni alması
+gerekmektedir. Bu izni alabilmek için gerekli koşullar www.efatura.gov.tr İnternet adresinde yayımlanan kılavuzlarda
+yer almaktadır.
+6- Belgelerin
+Elektronik Ortamda Oluşturulması
+e-Arşiv
+Uygulaması kapsamında düzenlenen belgeler
+Başkanlığa bildirilen bilgi işlem sisteminde veya özel entegratör
+sisteminde oluşturulmalıdır.
+Kullanılan
+elektronik belge formatı, üzerinde mali mühür/NES taşımaya, belge üzerinde
+doğrulamaya, görüntülemeye ve kâğıt baskı almaya imkân veren genel
+tanınırlığa sahip bir format olmalıdır.
+Mükellefler,
+istemeleri halinde fatura formatı olarak www.efatura.gov.tr
+İnternet adresinde yayımlanan e-fatura format ve standardını da
+kullanabilirler. Başkanlık gerekli görmesi halinde, mükelleflerin kullandıkları
+elektronik belge formatının değiştirilmesini isteyebilir.
+Uygulamayı kendi sistemi üzerinden kullanan tüzel kişiler
+elektronik ortamda oluşturdukları faturalarını kendi mali mühürleri ile gerçek
+kişiler ise kendi mali mühürleri ya da
+NES ile onaylarlar.
+Uygulamanın
+özel entegratör vasıtasıyla kullanılması durumunda
+belgeler mükelleflerin kendi mali mühür ya
+da NES’i ile veya mükellefin istemesi halinde
+özel entegratörün mali mührü ile onaylanır.
+e-Arşiv
+Uygulaması kapsamında düzenlenen belgeler, bu Tebliğ ile getirilen
+düzenlemeler dışında başta Vergi Usul Kanunu olmak üzere, diğer vergi
+kanunları ve ilgili düzenlemelerde yer alan sürelere ve belirlenen usul ve
+esaslara uygun biçimde oluşturulmak zorundadır.
+6.1 Belgelere Konulacak Amblem
+Bu
+Tebliğ kapsamında oluşturulan elektronik belgelerde, 2/2/1985 tarihli ve
+18654 sayılı Resmi Gazetede yayımlanan Vergi Usul Kanunu uyarınca Vergi
+Mükellefleri Tarafından Kullanılan Belgelerin Basım ve Dağıtımı Hakkında
+Yönetmelik-hükümlerine göre
+belgelerin önyüzünün üst orta kısmına gelecek şekilde basılması zorunlu
+olan ‘Belgelere Konulacak Özel İşaret(Amblem)’ ile ‘İl Kod Numarası’ yerine
+aynı konumda bulunmak üzere, Gelir İdaresi Başkanlığı amblemi,. amblemin altında ise
+“e-Arşiv Fatura” ibaresi bulunur. Tebliğin 3-c bendi kapsamında elektronik
+ortamda iletilen faturanın alt kısmında ayrıca “e-Arşiv izni kapsamında
+elektronik ortamda iletilmiştir.” ifadesi yazılır.
+6.2 Belge Numarası
+e-Arşiv
+izni kapsamında düzenlenen belgelerde, seri-sıra numarası yerine 3 haneli
+birim kodu ve 13 haneli sıra numarasından oluşan belge numarası kullanılır.
+Birim kodu serbestçe belirlenebilir.
+Başkanlık
+bazı birim kodlarının kullanımını yasaklayabileceği gibi bazı işlemler için
+belirlediği birim kodlarının kullanılmasını zorunlu kılabilir.
+Belge
+numarası içerisinde yer alan sıra numarası, 4 karakter yıl ve 9 karakter
+müteselsil numaradan oluşmaktadır. Her bir birim koduna ait sıra numarası
+kendi içinde oluşturulur ve takip edilir. Sıra numarası içerisinde yer alan
+9 karakterlik müteselsil numara, her yılın ilk günü itibariyle “1”
+rakamından başlatılarak kullanılır. Mükellef bünyesinde aynı belge numarası
+birden fazla kullanılamaz.
+7- Belgelerin
+Alıcılarına Teslimi
+Mükellefler e-Arşiv Uygulaması kapsamında
+elektronik belge biçiminde oluşturdukları faturayı bu Tebliğin 7.2 bölümünde belirtilen istisna haricinde alıcısına kâğıt
+ortamında teslim ederler.
+Elektronik ortamda oluşturulan faturanın kâğıt
+ortamında teslimi halinde baskı işlemi mükellefin kendisi tarafından yapılabilir.
+İsteyen mükellefler baskı işini anlaşmalı matbaa işletmelerine veya özel entegratörlere de yaptırabilir. Bu durumda anlaşmalı matbaa
+işletmeleri veya özel entegratörler tarafından Başkanlığa
+herhangi bir bildirim yapılmaz.
+Vergi Usul Kanununun faturanın nizamına ilişkin
+hükümlerine göre faturaların baş tarafında iş sahibinin veya namına imzaya
+mezun olanların imzasının bulunması mecburidir.
+Bu hükme göre, vergi uygulamaları bakımından faturada
+imzanın bulunması zorunlu olmakla beraber, faturanın şekil ve nizamına
+ilişkin esaslara riayet edilmek şartıyla, düzenleme tarihinde imzaya
+yetkili olanın imzasının notere tasdik ettirilip basım sırasında fatura
+üzerine yazdırılmak suretiyle faturanın (hazır imzalı olarak) kullanılabilmesi
+mümkündür.
+e-Arşiv
+Uygulaması kapsamında düzenlenen faturada, düzenleme tarihi yanında düzenleme
+zamanının da saat ve dakika olarak gösterilmesi zorunludur.
+7.1 397 Sıra
+Numaralı Vergi Usul Kanunu Genel Tebliği ile Getirilen e-Fatura
+Uygulamasına Kayıtlı Olmayan Mükelleflere Faturanın Teslimi
+e-Fatura Uygulamasından yararlanma hakkı olup henüz kayıtlı olmayan
+mükelleflere e-Arşiv Uygulaması kapsamında düzenlenen fatura kâğıt
+ortamında teslim edilir. Bu kapsamda, alıcısına malın yanında kâğıt olarak
+verilen fatura, irsaliyeli fatura yerine kullanılabilir. Ancak bu imkândan yararlanabilmek
+için faturanın, malın teslimi anında düzenlenmesi ve “İrsaliye yerine geçer.”
+ifadesinin yazılması zorunludur.
+7.2 Vergi
+Mükellefi Olmayanlara Faturanın Teslimi
+e-Arşiv
+Uygulaması kapsamında, bu Tebliğin 3-c bendine göre vergi mükellefi
+olmayanlara düzenlenen fatura, alıcının rızasına bağlı olarak kâğıt veya
+elektronik ortamda teslim edilir.
+Vergi mükellefi olmayan alıcı tarafından elektronik
+ortamda teslimi istenen fatura internet dâhil olmak üzere her türlü
+elektronik araç ve ortamlar vasıtasıyla iletilebilir.
+Vergi mükellefi olmayanlara
+yapılan satışlarda fatura, malın teslimi ya da hizmetin ifası anında
+elektronik ortamda iletiliyorsa müşteriye bu faturanın kâğıt çıktısı
+verilir. Bu durumda çıktının satıcı veya yetkilisi tarafından imzalanması
+zorunludur. Bu imkândan yararlanabilmek için faturanın malın teslimi anında
+düzenlenmesi zorunludur.
+8- Raporlama
+e-Arşiv izni alan mükellefler ve e-arşiv hizmeti
+verme konusunda Başkanlıktan izin alan özel entegratörler,
+elektronik ortamda oluşturdukları belgelere ilişkin olarak, Başkanlığın www.efatura.gov.tr
+İnternet adresinde yayımlanan veri formatı ve standardına uygun e-Arşiv Raporunu
+mali mühür ya da NES ile zaman damgalı olarak onaylamak ve e-Arşiv
+Kılavuzunda açıklanan yöntem veya yöntemlerle Başkanlık sistemine aktarmak
+zorundadır.
+Başkanlık, yazıyla bildirmek ve hazırlık için
+yeterli süre tanımak şartıyla rapor aktarım süresini ve yöntemini
+değiştirmeye, sektörler ve mükellef grupları itibariyle farklı veri aktarım
+süresi ve yöntemi belirlemeye yetkilidir.
+Başkanlık, yazı ile bildirmek ve hazırlık için
+yeterli süre tanımak şartıyla e-Arşiv Raporlarının ve elektronik ortamda
+arşivlenen belgelerin uzaktan erişimine açılmasını isteyebilir.
+Erişim ve raporlama gereklerinin yerine getirilmiş
+olması, mükellefin e-arşive konu belgelerinin muhafazası ve ibrazı
+ödevlerini ortadan kaldırmaz.
+9- Elektronik
+Belgelerin Muhafazası ve İbrazı
+Bu Tebliğ kapsamında izin alan mükellefler,
+muhafaza ve ibraz ödevlerini yerine getirirken aşağıdaki hususlara riayet
+etmek zorundadır.
+a) Bu Tebliğ uygulamasından faydalanan mükellefler,
+oluşturdukları ikinci nüsha elektronik belgelerini ve e-Arşiv Raporlarını
+birbirleriyle ilişkili şekilde, vergi kanunları ve diğer kanuni
+düzenlemelerin kâğıt nüshalar için öngörmüş olduğu süreler dâhilinde
+muhafaza ve istenildiğinde ibraz etmekle yükümlüdür.
+b) İzin alan mükellefler, ikinci nüsha elektronik
+belgelerini ve e-Arşiv Raporlarını kendi bilgi işlem sistemlerinde muhafaza
+ederler. Bu mükellefler istemeleri halinde Başkanlıktan saklama izni almış
+kuruluşlarda da muhafaza ödevlerini yerine getirebilirler.
+c) e-Arşiv Uygulamasını kendi sistemi üzerinden
+kullananlar, elektronik ortamda düzenledikleri ikinci nüsha faturalarını
+kendilerine ait mali mühür ya da NES ile onaylayarak saklarlar.
+d) Özel entegratörlerden
+e-arşiv hizmeti alanlar izin kapsamında, elektronik ortamda düzenledikleri
+ikinci nüsha faturalarını kendilerine ait mali mühür ya da NES ile veya
+özel entegratöre ait mali mühürle onaylayarak
+saklarlar.
+e) Muhafaza ve ibraz yükümlülüğü, elektronik
+belgelerin ve ilişkili raporların doğruluğuna, bütünlüğüne ve
+değişmezliğine ilişkin her türlü elektronik veri, veri tabanı dosyası,
+saklama ortamı veya doğrulama ve görüntüleme araçlarını kapsar.
+f) Mükellefler tarafından muhafaza edilen elektronik
+belgeler muhatabına gönderilen kâğıt nüshalar ile aynı içerikte ve istenildiğinde
+aynı görüntüde basılabilecek şekilde saklanmalıdır.
+g) Muhafaza edilen elektronik belgelerin
+sorgulanması, görüntülenmesi ve kâğıt çıktılarının alınması sırasında kullanılacak
+anahtarlardan birisinin belge numarası olması zorunludur.
+h) Elektronik belge ve raporların Türkiye
+Cumhuriyeti sınırları içerisinde ve Türkiye Cumhuriyeti Kanunlarının
+geçerli olduğu alanlarda muhafaza edilmesi zorunludur. Bu zorunluluk, yurt
+dışında ikincil bir arşivleme yapılmasına engel teşkil etmez.
+i) Bu Tebliğin 3-b bendine göre adına fatura
+düzenlenen vergi mükellefleri bu belgeyi kâğıt ortamda almak ve saklamak
+zorundadır.
+j) Bu Tebliğ uygulaması kapsamında vergi mükellefi
+olmayanlar adına düzenlenen faturaların iletiminin elektronik ortamda
+olması halinde vergi kanunlarına göre muhafaza ödevi bulunanlar elektronik
+ortamda aldıkları faturaların muhafazasını da elektronik ortamda yapmak
+zorundadır.
+10- İnternet
+Üzerinden Mal ve Hizmet Satışında Düzenlenecek Faturalar
+e-Arşiv izni
+olup internet üzerinden vergi mükellefi olmayanlara mal ve hizmet satışı
+yapanlar, yaptıkları satışlara ilişkin faturaları bu Tebliğin 7.2 bölümünde
+yer alan açıklamalara uygun olarak elektronik ortamda iletmek zorundadır.
+Söz konusu satışlarda Tebliğin 7.2 bölümünde
+açıklanan kâğıt çıktının sevk edilen malın yanında bulunması gerekmektedir.
+e-Arşiv Uygulaması
+kapsamında internet üzerinden mal ve hizmet satışında düzenlenecek
+faturalarda;
+1.
+Satış
+işleminin yapıldığı web adresi,
+2.
+Ödeme
+şekli,
+3.
+Ödeme
+tarihi,
+4.
+Gönderiyi
+taşıyanın adı soyadı/unvanı ve VKN/TCKN bilgisi,
+5.
+Satışa
+konu malın gönderildiği veya hizmetin ifa edildiği tarih,
+6.
+İade
+bölümünde; malı iade edenin adı soyadı, adresi, imzası, iade edilen mala
+ilişkin cins, miktar, birim fiyat ve tutar
+bilgilerinin bulunması
+zorunlu olup fatura üzerinde ayrıca “Bu satış internet üzerinden
+yapılmıştır.” ifadesine yer verilir.
+e-Arşiv
+izni olup 397 sıra numaralı Vergi Usul Kanunu Genel Tebliği ile getirilen
+e-Fatura Uygulamasına kayıtlı kullanıcılara internet üzerinden mal satışı
+yapanlar, düzenleyecekleri elektronik faturada, 6 ncı
+madde hariç yukarıda yazılı bilgilere yer verecek olup ayrıca bu Tebliğin 15
+nci bölümünde açıklanan kâğıt çıktıyı sevk edilen
+malın yanında bulundururlar.
+Müşteri malı iade etmek isterse elektronik ortamda
+kendisine iletilen faturanın kâğıt çıktısını alır ve iadeye ilişkin bölümü
+doldurarak mal ile birlikte malı satana geri gönderir.
+İnternet üzerinden mal ve hizmet satışı yapan ve
+2014 yılı gelir tablosu brüt satış hasılatı tutarı 5 milyon lira ve
+üzerinde olan mükellefler, en geç 1/1/2016
+tarihine kadar e-Arşiv Uygulamasına geçmek zorundadır. Kapsama giren
+mükelleflerin belirlenen tarihten önce e-fatura ve e-arşiv başvurularını ve
+fiili geçiş hazırlıklarını tamamlamaları gerekmektedir.
+İnternet üzerinden yaptıkları satışlarda münhasıran
+bilet, sigorta poliçesi vb. belgeleri düzenleyenler zorunluluk kapsamı
+dışındadır.
+11- Sorumluluk ve
+Cezai Müeyyideler
+Mükellefler,
+almış oldukları izin kapsamında düzenledikleri belgelerde yer verdikleri
+bilgilerin gerçek duruma uygunluğundan sorumludur.
+Bu
+Tebliğde belirlenen usul ve esaslara uymadıkları tespit edilenler hakkında
+işledikleri fiile göre Vergi Usul Kanununda yer alan cezalar tatbik edilir.
+Bu Tebliğle
+getirilen usul ve esaslara aykırı hareket eden mükelleflerin ve özel entegratörlerin e-arşiv izni Başkanlık tarafından iptal
+edilebilir.
+e-Arşiv
+hizmeti verme izni iptal edilen özel entegratör,
+hizmet verdiği mükellefleri bu konuda uyarmak zorundadır. İzni iptal edilen
+özel entegratörden e-arşiv hizmeti alan
+mükellefler, 15 gün içerisinde başka bir özel entegratörle
+anlaşmak veya genel hükümler çerçevesinde anlaşmalı matbaa işletmelerine
+belge bastırarak kullanmak zorundadır.
+e-Arşiv
+Uygulamasını kendi bilgi işlem sistemlerinden kullananlardan izinlerinin
+iptal edildiği kendisine bildirilen mükellefler, bildirimin yapıldığı
+tarihten itibaren 1 yıl süre ile uygulamayı kendi sistemleri üzerinden kullanmak
+üzere başvuru yapamazlar. Bu mükellefler istemeleri halinde Başkanlıktan
+izin alan özel entegratörlerden e-arşiv hizmeti
+alabilirler. e-Arşiv izni iptal edilen mükellefler
+en geç 15 gün içerisinde belgelerini anlaşmalı matbaalara bastırarak genel
+hükümler çerçevesinde belge düzenlemeye başlamak zorundadır.
+12- Diğer Hususlar
+a) e-Arşiv
+Uygulamasını kendi sistemi üzerinden kullananlar, belgelere ait elektronik
+kayıtların bozulması, silinmesi, zarar görmesi, işlem görememesi halleri
+ile olağanüstü durumların meydana gelmesi halinde, durumu Başkanlığa on beş
+gün içinde bildirerek bu kayıtları nasıl tamamlayacağına ilişkin ayrıntılı
+bir plan sunmak zorundadır.
+b) e-Arşiv
+Uygulamasını kendi sistemi üzerinden kullananlar, bilgi işlem sistemlerini
+oluşturan donanımların bir kısmının veya tamamının haczedilmesi veya yetkili
+mercilerce el konulması halinde, durumu en geç üç iş günü içerisinde
+Başkanlığa bildirmek zorundadır.
+c) e-Arşiv
+Uygulamasını kendi bilgi işlem sistemi üzerinden kullananlar, bilgi işlem
+sistemini oluşturan yazılım, donanım, dosya, dokümantasyon ve benzeri
+unsurları, hiçbir şekilde kısmen veya tamamen vergi inceleme elemanlarının
+veya Başkanlıkça görevlendirilecek personelin erişimini ve denetlemesini
+engelleyecek bir sözleşme veya lisansa konu edemez.
+d) Başkanlık,
+bu Tebliğ kapsamındaki elektronik belgelerin ve e-arşiv raporlarının arızi
+veya devamlı olarak kendisine gönderilmesini isteyebilir.
+e) e-Arşiv Uygulamasını kendi sistemi üzerinden
+kullananlar, Başkanlığın talebi üzerine belgelere ait bilgilerin
+oluşturulması veya muhafazası sırasında kullanılan donanımların bulunduğu
+adres veya adreslerde inceleme ve tespit yapılabilmesi için gerekli olacak
+her türlü teknik ve fiziksel imkânı (uygun donanım ve yazılımlar,
+terminallere ulaşım izinleri ve uzman personel gibi) sunmak zorundadır.
+f) e-Arşiv
+Uygulamasından yararlanan mükellefler irsaliyeli fatura düzenleyemezler.
+13- Elektronik Fatura
+Kayıt Sistemi (EFKS) Kapsamında Düzenlenen Faturalar
+Elektronik Fatura Kayıt Sistemi (EFKS) kapsamında
+faturalarını elektronik ortamda oluşturma ve muhafaza izni almış olan
+mükellefler, bu Tebliğin yayım tarihinden itibaren 1 yıl içerisinde,
+faturalama süreçleri ile bilgi işlem sistemlerini bu Tebliğde yer alan usul
+ve esaslara uygun hale getirmek zorundadır.
+14- Ödeme Kaydedici
+Cihaz Üzerinden Yapılan Satışlar
+Ödeme
+kaydedici cihazlar üzerinden gerçekleştirilen ve e-fatura veya elektronik
+arşiv faturası ile belgelendirilen satışlarda, 3100 sayılı Kanun ve 426 sıra
+numaralı Vergi Usul Kanunu Genel Tebliği kapsamında yapılan düzenlemelere
+uygun olarak ödeme kaydedici cihazlardan (yeni nesil dâhil) düzenlenecek
+bilgi fişi, satış anında düzenlenmek ve satıcı veya yetkilisi tarafından
+imzalanmak şartıyla irsaliye yerine geçer.
+15- 397 Sıra Numaralı
+Vergi Usul Kanunu Genel Tebliği ile Getirilen e-Fatura Uygulamasına Kayıtlı
+Mükellefler Arasında Yapılan Satışlar
+e-Fatura Uygulamasına kayıtlı kullanıcılara düzenlenecek elektronik
+faturada, düzenleme tarihi yanında düzenleme zamanının da saat ve dakika
+olarak gösterilmesi halinde elektronik faturanın kâğıt çıktısı irsaliye
+yerine geçer. Söz konusu kâğıt çıktıya “İrsaliye yerine geçer.” ifadesinin
+yazılması ve kâğıt çıktının satıcı veya yetkilisi tarafından imzalanması
+zorunludur. Ancak bu imkândan yararlanabilmek için elektronik faturanın
+malın teslimi anında düzenlenmesi gerekir.
+Hizmet ifasına konu
+e-faturanın satış anında düzenlenmesi halinde, söz konusu kâğıt çıktının
+talep eden müşteriye verilmesi zorunludur.
+16- 397 ve 421 Sıra Numaralı
+Vergi Usul Kanunu Genel Tebliğlerinde Yapılan Değişiklik
+a) 14/12/2012 tarihli ve
+28497 sayılı Resmi Gazete’de yayımlanan 421 sıra numaralı Vergi Usul Kanunu
+Genel Tebliği ile değişen 5/3/2010 tarihli ve 27512 sayılı Resmi Gazete’ de
+yayımlanan 397 sıra numaralı Vergi Usul Kanunu Genel Tebliğinin üçüncü
+bölümünün son paragrafı aşağıdaki şekilde değiştirilmiştir.
+“Elektronik fatura uygulamasına kayıtlı mükelleflerin
+birbirlerine sattıkları mallar ve ifa ettikleri hizmetler için
+düzenledikleri faturaları 1/4/2014 tarihinden
+itibaren elektronik fatura olarak göndermeleri ve almaları zorunludur.
+Elektronik fatura uygulamasına kayıtlı olan mükellefler kayıtlı olmayan
+mükelleflere yaptıkları mal teslimi ve hizmet ifası için genel hükümler
+çerçevesinde kağıt fatura düzenlemeye devam
+edeceklerdir.”
+b) 14/12/2012 tarihli ve
+28497 sayılı Resmi Gazete’de yayımlanan 421 sıra numaralı Vergi Usul Kanunu
+Genel Tebliğinin 3.1.3 bölümü aşağıdaki şekilde değiştirilmiştir.
+“Bu Tebliğ kapsamında zorunluluk getirilen
+mükelleflerin birbirlerine sattıkları mallar ve ifa ettikleri hizmetler için
+düzenledikleri faturaları 1/4/2014 tarihinden
+itibaren elektronik fatura olarak göndermeleri ve almaları zorunludur.”
+17- Yürürlük
+Bu Tebliğ
+yayımı tarihinde yürürlüğe girer.
+Tebliğ
+olunur.
