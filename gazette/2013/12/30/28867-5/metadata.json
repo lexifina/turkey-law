@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-12-30",
+  "issue": "28867",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Dış Teyitler (BDS 505) Hakkında Tebliğ Türkiye Denetim Standartları Tebliği No: 18",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131230-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131230.htm",
+  "index_sha256": "5573687c91c87092c2bbcbb4bab17584acad2ce6e8a1bc5f33ea06391b7a2fd4",
+  "index_header": "30 Aralık 2013 ... 28867 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131230.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
