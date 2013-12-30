@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19184",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DIŞ TEYİTLER (BDS 505) HAKKINDA TEBLİĞ TÜRKİYE DENETİM STANDARTLARI TEBLİĞİ NO: 18",
+  "number": "19184",
+  "issuer": "Kurum Başkanı",
+  "path": "teblig/2013/19184",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19184&MevzuatTertip=5",
+  "source_sha256": "1ce1cd73cf666af0f6187a9887dc23f1c460f3188ea4f0e7d4b10e76dad659d2",
+  "source_bytes": 9177,
+  "published": "2013-12-30",
+  "gazette": "28867",
+  "in_force": "2013-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2013); own commencement article: \"Bu Tebliğ 1/1/2013 tarihinde ve sonrasında başlayacak hesap dönemlerinden itibaren uygulanmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2013 tarihinde ve sonrasında başlayacak hesap dönemlerinden itibaren uygulanmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 190,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19184-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
