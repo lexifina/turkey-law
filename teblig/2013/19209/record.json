@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.19209",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 432)",
+  "number": "19209",
+  "path": "teblig/2013/19209",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19209&MevzuatTertip=5",
+  "source_sha256": "c25190a1f7702cd17751ac9a8bbf3e9d980466761309f7b81a465e47a7b6f365",
+  "source_bytes": 7701,
+  "published": "2013-12-30",
+  "gazette": "28867 (mükerrer)",
+  "in_force": "2013-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 172,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19209-ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
