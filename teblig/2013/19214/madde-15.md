@@ -1,0 +1,3 @@
+Yürürlükten kaldırılan mevzuat
+MADDE 15 – (1) Kurulun 8/3/2008 tarihli ve 26810 sayılı Resmî Gazete’de yayımlanan İhraçcıların Muafiyet Şartlarına ve Kurul Kaydından Çıkarılmalarına İlişkin Esaslar Tebliği (Seri: IV, No: 39) ve 11/2/2012 tarihli ve 28201 sayılı Resmî Gazete’de yayımlanan Payları Serbest İşlem Platformunda İşlem Görecek Halka Açık Anonim Ortaklıklara İlişkin Esaslar Tebliği (Seri: IV, No: 58) yürürlükten kaldırılmıştır.
+(2) Kurulun diğer düzenlemelerinde İhraçcıların Muafiyet Şartlarına ve Kurul Kaydından Çıkarılmalarına İlişkin Esaslar Tebliği (Seri: IV, No: 39) ve Payları Serbest İşlem Platformunda İşlem Görecek Halka Açık Anonim Ortaklıklara İlişkin Esaslar Tebliğine (Seri: IV, No: 58) yapılan atıflar bu Tebliğe yapılmış sayılır.
