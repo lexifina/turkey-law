@@ -18,3 +18,6 @@ TEBLİĞ 17/12/2010 tarihli ve 27788 sayılı R.G | 9 | 1/1/2011 tarihinden geç
 TEBLİĞ 23/12/2011 tarihli ve 28151 sayılı R.G | 9 | 1/1/2012 tarihinden geçerli olmak üzere
 6352 | 10 | 5/7/2012
 6353 | GEÇİCİ MADDE 3 | 12/7/2012
+TEBLİĞ 19/12/2012 tarihli ve 28502 sayılı R.G | 9 | 1/1/2013 tarihinden geçerli olmak üzere
+6491 | 4 | 11/6/2013
+TEBLİĞ 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı R.G | 9 | 1/1/2014
