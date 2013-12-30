@@ -39,7 +39,7 @@ _____________________
 33) Petrol: Bu maddenin (5), (14) ve (44) numaralı bentlerinde tanımlananları,
 34) Piyasa faaliyeti: Petrolün; ithalini, ihracını, rafinajını, işlenmesini, depolanmasını, iletimini, ihrakiye teslimini, taşınmasını, dağıtımını, bayiliğini,
 35) Rafinaj: Ham petrolden başlayarak yeni ürünler elde edilmesine ilişkin işlemleri,
-8642-2 8643
+8643
 36) Rafinerici: Lisansı gereği rafinaj faaliyeti yapma hakkı verilmiş, petrol ticareti yapan sermaye şirketini,
 37) Serbest kullanıcı: Kalorifer yakıtı, fuel-oil ve motorinde yıllık 5 000 tondan aşağı olmayacak şekilde Kurum tarafından ürün bazında belirlenen tüketim miktarından fazla yıllık petrol tüketimi olan lisanslı kullanıcıyı,
 38) Solvent: Kimya ve sanayi tesislerinde tüketilen ve/veya yeni kimya ve sanayi mamulleri üretiminde kullanılan petrol ürünlerini,
