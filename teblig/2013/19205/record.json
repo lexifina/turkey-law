@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.19205",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 71)",
+  "number": "19205",
+  "path": "teblig/2013/19205",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19205&MevzuatTertip=5",
+  "source_sha256": "304b6bdb11d2feace2906e020ec722d269e868a807c95e9260db1e461a7ce69f",
+  "source_bytes": 8537,
+  "published": "2013-12-30",
+  "gazette": "28867 (mükerrer)",
+  "in_force": "2013-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 225,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19205-ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
