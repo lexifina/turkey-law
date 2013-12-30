@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.19200",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÖZEL İLETİŞİM VERGİSİ GENEL TEBLİĞİ (SERİ NO: 10)",
+  "number": "19200",
+  "path": "teblig/2013/19200",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19200&MevzuatTertip=5",
+  "source_sha256": "932b62421c63cc4a35adb376019d08e6abccccaa68a1ae9b508a3ba8c455ef69",
+  "source_bytes": 8831,
+  "published": "2013-12-30",
+  "gazette": "28867 (mükerrer)",
+  "in_force": "2013-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2013)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 284,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
