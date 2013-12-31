@@ -248,7 +248,7 @@ e) Kanun ile verilen diğer görevleri yapmak.
 Federasyon başkanı adaylarında aşağıdaki şartlar aranır:
 a) T.C. vatandaşı olmak.
 b) En az lise mezunu olmak.
-c) Kesinleşmiş sigorta veya vergi borcu olmamak.
+c) (İptal: Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/63, K.: 2013/28 sayılı Kararı ile.)
 ç) Tahkim Kurulu, Genel Müdürlük ceza kurulları veya spor federasyonlarının ceza veya disiplin kurullarınca son beş yıl içerisinde bir defada üç ay veya toplam altı ay hak mahrumiyeti cezası almamış olmak.
 6882-3
 d) Anayasal düzene ve bu düzenin işleyişine karşı suçlar ile casusluk, zimmet, irtikâp, rüşvet, hırsızlık, yağma, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas gibi yüz kızartıcı veya şeref ve haysiyeti kırıcı suçtan veya ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama, kaçakçılık, vergi kaçakçılığı ve haksız mal edinme suçlarından hükümlü bulunmamak.
@@ -273,7 +273,7 @@ Genel Müdürlük, bağımsız federasyonların talebi durumunda, kendisine ait 
 (Ek fıkra: 29/3/2011-6215/10 md.) Federasyonlar; sporcu, antrenör, hakem ve benzeri spor elemanları ile spor kulüplerine ve sponsorluklara ait istatistiki bilgileri üç ayda bir Genel Müdürlüğe göndermek zorundadırlar. Federasyonlar, Genel Müdürlük ile uluslararası federasyonların belirlediği eğitim kriterlerine uygun olarak işbirliği içerisinde antrenör, hakem ve benzeri diğer spor elemanlarını yetiştirirler.
 (Ek fıkra: 29/3/2011-6215/10 md.) Federasyonlar, faaliyette bulundukları spor dalları ile ilgili olarak bağlı oldukları uluslararası federasyonun kurallarını göz önünde bulundurarak hangi eylem ve davranışlara ne tür sportif ceza verileceğini, ceza talimatında düzenler. Federasyonların programında yer alan veya izni ile yapılan faaliyetlerden dolayı sportif ceza verme yetkisi federasyon disiplin/ceza kuruluna aittir. Federasyonların ana statüsü Resmi Gazetede, ana statüye dayanılarak hazırlanan yönetmelik dışındaki talimat ile diğer alt düzenleyici işlemler ise Genel Müdürlüğün internet sitesinde yayımlanır.
 (Ek fıkra: 29/3/2011-6215/10 md.) Spor federasyonları ile ilgili olarak bu Kanunda hüküm bulunmayan konularda 4/11/2004 tarihli ve 5253 sayılı Dernekler Kanunu ile 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanunu hükümleri uygulanır.
-(Ek fıkra: 29/3/2011-6215/10 md.) Kamu kurum ve kuruluşlarına ait alacaklar hariç olmak üzere, spor kulüplerinin Spor Toto Teşkilat Başkanlığı nezdindeki isim haklarından doğan alacakları haczedilemez ve bu alacaklar devir ve temlik edilemez.
+(Ek fıkra: 29/3/2011-6215/10 md.; İptal fıkra: Anayasa Mahkemesi’nin 6/6/2013 tarihli ve E.: 2013/35, K.: 2013/75 sayılı Kararı ile)
 Tahkim Kurulunun çalışma usul ve esasları
 Ek Madde 9/A – (Ek: 29/3/2011-6215/11 md.)
 Tahkim Kurulu, en az beş üyenin katılımıyla toplanır ve oy çokluğuyla karar alır. Oyların eşitliği halinde Başkanın kullandığı oyun tarafı çoğunluk sayılır.

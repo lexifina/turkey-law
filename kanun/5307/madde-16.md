@@ -16,7 +16,7 @@ b) Aşağıdaki hâllerde sorumlulara ikiyüzellibin Türk Lirası idarî para c
 c) 9, 14 ve 15 inci madde hükümlerinin ihlâli hâlinde sorumlulara ellibin Türk Lirası idarî para cezası verilir.
 ç) 8 inci maddenin dördüncü fıkrasının (6) numaralı bendinin ihlâli hâlinde bayilere yüz Türk Lirası idarî para cezası verilir.
 ––––––––––––––––––
-(1) Bu maddede yer alan para cezası miktarlarının 1/1/2013 tarihinden itibaren uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
+(1) Bu maddede yer alan para cezası miktarlarının 1/1/2014 tarihinden itibaren uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
 9324
 Ancak tüpün sisteme bağlantısının kullanıcı tarafından yapıldığının kanıtlanması durumunda tüp bayii ve dağıtıcı şirketlere hukukî ve cezaî sorumluluk yüklenmez.
 Yukarıda belirtilenlerin dışında kalan ancak bu Kanunun getirdiği yükümlülüklere uymayanlara Kurumca bin Türk Lirası idarî para cezası verilir.

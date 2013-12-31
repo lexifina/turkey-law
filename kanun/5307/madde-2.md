@@ -24,9 +24,11 @@ p) Otogaz LPG faaliyeti : Yakıt olarak kullanılmak üzere akaryakıt ve otogaz
 r) Otogaz bayii: Otogaz istasyonu işleten gerçek veya tüzel kişiyi,
 s) Dökme LPG: LPG dağıtıcıları tarafından kullanıcıların tüplü ve otogaz LPG hariç, tüketim mahallindeki tanklarına teknik düzenlemelere uygun özel nakliye araçlarıyla LPG ikmalini,
 ş) Dökme LPG kullanıcısı: Dökme LPG’yi kullanan gerçek veya tüzel kişiyi,
-t) Tehlikeli eylem: Piyasa faaliyetinin yapılmasında, bunların yapıldığı mahalde veya yakınında bulunan bir kimsenin ölümüne, sakatlanmasına veya sağlığının bozulmasına, çevrenin kirlenmesine sebep olan veya olabilecek nitelikte bulunan bir fiil veya ihmali,
+t) Tehlikeli eylem: Piyasa faaliyetinin yapılmasında, bunların yapıldığı mahalde veya yakınında bulunan bir kimsenin ölümüne, engelli hâle gelmesine veya sağlığının bozulmasına, çevrenin kirlenmesine sebep olan veya olabilecek nitelikte bulunan bir fiil veya ihmali, (1)
 u) Kötüniyet: Piyasa faaliyetinin yapılmasında, LPG’nin kaybına, karışmasına, bozulmasına veya amaç dışı kullanımına sebebiyet veren bir eylem veya ihmali,
 ü) Kilometre tahdidi: Şehir içi veya şehirlerarası trafiğe açık yollarda aynı istikamette iki akaryakıt ve otogaz istasyonu arasındaki Kurul tarafından çıkarılacak yönetmelikte belirlenecek asgarî mesafeyi,
+–––––––––––––––––
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “sakatlanmasına” ibaresi “engelli hâle gelmesine” şeklinde değiştirilmiştir.
 9315
 v) Piyasa faaliyeti: LPG’nin ithali, ihracı, depolanması, taşınması, dağıtımı ve bayiliğini,
 y) Teknik düzenleme: LPG’nin niteliği ile LPG faaliyetlerinde kullanılan mekân, aksam ve hareketlerin tanımlanmasında TSE standartları ve diğer mevzuatla getirilen düzenlemeleri,
