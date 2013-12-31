@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I.12.237]-348",
+  "source_id": 32708,
+  "date": "2013-12-31",
+  "title": "84.35 pozisyonunda yer alan meyve suyu çıkarma makinesinin KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32708",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "a6a5cd946900a062dba11a18756c16312661b51f06fdf5642a8fe38e376d5f17",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
