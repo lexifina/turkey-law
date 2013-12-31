@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2013/627",
+  "list_number": "627",
+  "decision_date": "2013-12-31",
+  "title": "30 Mart 2014 tarihinde yapılacak Mahalli İdareler Seçimlerinde İl, İlçe ve Geçici İlçe Seçim Kurullarının Görev ve Yetkilerini Gösterir Örnek: 139 sayılı Genelge ile ilgili Yüksek Seçim Kurulunun 2013/627 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2546/2013-627.pdf",
+  "source_sha256": "2ff5c55143e5188942e6df62ecf111e9847f5dddd382d3d095fcda0ac581645b",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 15,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-12-31",
+  "law_text_complete": false
+}
