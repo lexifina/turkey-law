@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-12-31",
+  "issue": "28868",
+  "edition": "mükerrer 2",
+  "item": 26,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Genelleştirilmiş Tercihler Sistemine İlişkin Tebliğ (İthalat: 2014/19)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131231M2-26.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131231M2.htm",
+  "index_sha256": "f6ec81253fd6e342d254c991e466f66673a98097f5a345f52029f0ec946ea83a",
+  "index_header": "31 Aralık 2013 ... 28868 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131231M2.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
