@@ -1,0 +1,29 @@
+{
+  "number": "month-12",
+  "year": 2013,
+  "month": 12,
+  "title": "Aralık 2013 meclis kararları",
+  "decision_date": null,
+  "index_date": "2013-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2013",
+  "source": "https://www.adana.bel.tr/tr/meclis-kararlari/150",
+  "official_page": null,
+  "official_document": "https://www.adana.bel.tr/panel/uploads/mecliskararlari_v/files/aralik-meclis-karari-2013.pdf",
+  "source_sha256": "da013728502d5a227def353b6e77ebcf79c3673dbd539a3e2a73a623f8c3e6f0",
+  "issuer": "Adana Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2013-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2013); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official file of the council decisions of the month",
+  "listing_label": "Tarihli Meclis Kararı",
+  "title_note": "title composed from the card's month label; the card itself reads 'Ara 2013 — Tarihli Meclis Kararı'"
+}
