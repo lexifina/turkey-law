@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2013/ornek139-2014",
+  "list_number": "627",
+  "genelge_number": "Örnek: 139",
+  "decision_date": "2013-12-31",
+  "title": "30 Mart 2014 tarihinde yapılacak Mahalli İdareler Seçimlerinde İl, İlçe ve Geçici İlçe Seçim Kurullarının Görev ve Yetkilerini Gösterir Örnek: 139 sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1817/Ornek139-2014.pdf",
+  "source_sha256": "7bf3898a457969d26d523444a695e815c1a0a4a508e41f47fbe8f12e5d16cf1d",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 14,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-12-31",
+  "law_text_complete": false
+}
