@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2013/623",
+  "list_number": "623",
+  "decision_date": "2013-12-31",
+  "title": "Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir Örnek: 140/I sayılı Genelge ile ilgili Yüksek Seçim Kurulunun 2013/623 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2544/2013-623.pdf",
+  "source_sha256": "ce55832d6cbc63aec2fbd43a701abcf1bacbeefb980df8057588e49251b69a8c",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 10,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2013-12-31",
+  "law_text_complete": false
+}
