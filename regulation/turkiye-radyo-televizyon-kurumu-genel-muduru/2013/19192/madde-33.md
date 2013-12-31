@@ -1,0 +1,14 @@
+Mali denetçilerin sorumlulukları
+MADDE 33 – (1) Mali denetçilerin sorumlulukları şunlardır:
+a) Görev ve taşıdıkları sorumluluğun önemine uygun tutum ve davranış göstermek.
+b) Kurum gelirleri mutabakatı konusunda mükellefler nezdinde incelemeye başlamadan önce, inceleme konusu ve mevzuat konusunda mükellefleri bilgilendirmek.
+c) İnceleme ve denetim çalışmaları süresince edinilen bilgi ve belgelerin gizliliğini sağlamak, bunları kanunen yetkili kılınan yerlerden başkasına açıklamamak ve kişisel yararlar için kullanmamak, görevle gidecekleri yerleri, yapacakları işleri, görevleri dolayısıyla öğrendikleri sırları açıklamamak.
+ç) Denetimler sırasında kimlik ibraz etmek ve mükelleflere kanuni yükümlülüklerini anlatmak.
+d) Denetim çalışmalarının her aşamasında gerekli özeni ve dikkati göstermek.
+e) Evrak, defter ve kayıtlar üzerinde, kontrol edildiğine ilişkin işaret dışında, açıklama, ilave ve düzeltme yapmamak.
+(2) Mali denetçiler, her ay ellerindeki işlerin bitirilme sürelerini ön gören iş planlamalarını ve yapmış oldukları incelemelerin sonuçlarını gösteren istatistik tablolarını Başkana sunar.
+(3) Mali denetçiler kendilerine verilen inceleme emirlerini veriliş tarihinden itibaren dokuz ay içerisinde sonuçlandırmak zorundadır. Bu süre içinde incelemenin bitirilememesi halinde mali denetçilerce ek süre talep edilebilir. Bu talep Başkan tarafından değerlendirilir ve dokuz ayı geçmemek üzere ek süre verilebilir.
+(4) İncelemelerde zamanaşımı süreleri dikkate alınır. Zamanaşımlı incelemeler her halükarda zamanaşımı süresinin bitiminden üç ay önce sonuçlandırılır.
+(5) Mali denetçiler, yapacakları incelemelerde öncelikle; ihbar, emniyet, mutabakat gümrük ve savcılık takipli işler ile mükelleflerin talebine istinaden yapılan bandrol sökümlerinden kaynaklı iade işlemleri ve mükelleflerce iadesi talep edilen teminat mektuplarının iadesine ilişkin incelemeleri yapmak zorundadırlar. Bu incelemeler her halükarda en geç dokuz ay içerisinde sırasıyla sonuçlandırır.
+(6) Mali denetçilere havale edilen inceleme emirleri, öncelikle zamanaşımı süreleri, işin yoğunluğu ve aciliyeti ile mali denetçilerce aylık olarak verilen iş planlarında belirtilen işi bitirme süreleri dikkate alınarak, Başkan tarafından başka bir mali denetçiye kısmen veya tamamen verilebilir. Ancak, buna rağmen, inceleme emrine konu işin istenilen sürede bitirilememesi veya bitirilemeyeceğinin öngörülmesi durumunda, işin ivediliği ve önceliği göz önünde bulundurularak inceleme emri mali denetçiden alınarak, Başkanlığın teklifi üzerine ilgili Genel Müdür Yardımcısının uygun göreceği personel tarafından sonuçlandırılabilir.
+(7) Mali denetçiler görev verilmesi halinde yapmış oldukları incelemeler sonucunda düzenledikleri raporlardan hareketle yapılan tarhiyat işlemleri ile ilgili olarak firmalarca açılan davalarda Hukuk Müşavirliğine savunmaya esas her türlü bilgi ve belgenin verilmesini sağlarlar.

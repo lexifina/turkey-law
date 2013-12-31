@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Türkiye Radyo-Televizyon Kurumu mali denetçi ve mali denetçi yardımcılarını, Mali Denetçi Yardımcılığı Giriş Sınavına katılacak adayları, 3093 sayılı Kanunda sayılan gelirler ile ilgili mükellefler nezdinde yapılacak inceleme ve denetimleri, Kurum harcamalarına yönelik tüm inceleme ve denetimleri, kurum içinde mali konularla ilgili mali denetçi görevlendirmelerini kapsar.

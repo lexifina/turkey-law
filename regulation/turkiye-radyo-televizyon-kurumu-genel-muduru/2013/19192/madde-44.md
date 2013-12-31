@@ -1,0 +1,2 @@
+Kimlik ve mühür
+MADDE 44 – (1) Mali denetçi ve yetkili mali denetçi yardımcıları, yetkilerinin özetini gösteren kimlik belgesi taşırlar. Genel Müdür ve ilgili genel müdür yardımcısının imzaları ile Genel Müdürlük mührünü taşıyan bu belgeler inceleme ve denetimlerde ilgililere gösterilir. Mali denetçiler, Kurumca verilen mührü taşırlar. Görevlerinden ayrılan mali denetçiler, mühür ve kimlik belgelerini en geç onbeş gün içerisinde iade ederler. İade etmeyenler hakkında disiplin hükümleri uygulanır.

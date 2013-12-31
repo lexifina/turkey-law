@@ -1,0 +1,2 @@
+Mali denetçilerin çalışma anlayışı
+MADDE 39 – (1) Mali denetçiler çalışmalarında Kurum hizmetlerinin verimli, düzenli bir şekilde yürütülmesi, çalışmaların ilgili yasa, yönetmelik, genelge ve talimatlara uygun olarak sürdürülmesi, görev alanları ile ilgili olarak aynı hizmeti yürüten birimler arasında görüş ve uygulama birliğinin sağlanması, aksaklıkların düzeltilmesi, aykırılıkların giderilmesi, bu yönde çözümlerin araştırılması ve önerilerin getirilmesi amacını göz önünde tutarlar.
