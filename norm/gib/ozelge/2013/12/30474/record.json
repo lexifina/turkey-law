@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I.13.110]-347",
+  "source_id": 30474,
+  "date": "2013-12-31",
+  "title": "Perde imalatında kullanılan ve içinde iplik bulunan kurşunun satışında tevkifat",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30474",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "05419307e47e4f3d20ade8e17f0af7a1c3ff8098ba0692124b73b8c33104c15f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
