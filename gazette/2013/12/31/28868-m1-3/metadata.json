@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2013-12-31",
+  "issue": "28868",
+  "edition": "mükerrer 1",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Çevrenin Korunması Yönünden Kontrol Altında Tutulan Atıkların İthalat Denetimi Tebliği (Ürün Güvenliği ve Denetimi: 2014/3)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131231M1-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131231M1.htm",
+  "index_sha256": "1e13b3d609fba46766804edaec2724651ffe9558b3dffbf0dc81027e79a4137b",
+  "index_header": "31 Aralık 2013 ... 28868 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2013/12/20131231M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
