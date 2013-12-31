@@ -1,0 +1,55 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "bulletin",
+  "number": "2013/43",
+  "date": "2013-12-31",
+  "title": "SPK Haftalık Bülteni 2013/43",
+  "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_43.pdf",
+  "source_sha256": "680f3ce4f6c16e02061e6f67df14dd69fb356514b10be72eaf20f3427404111c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "sections": [
+    "A. YENİ BAŞVURULAR",
+    "D. YENİ FAALİYET İZİNLERİ"
+  ],
+  "coverage": "complete retained regulatory sections; remaining sections indexed below",
+  "section_index": [
+    {
+      "heading": "A. YENİ BAŞVURULAR",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_43.pdf"
+    },
+    {
+      "heading": "B. DUYURU VE İLKE KARARLARI",
+      "status": "metadata-only",
+      "reason": "possible-private-person-name: Dipnot  \nReferansları \nCari",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_43.pdf"
+    },
+    {
+      "heading": "D. YENİ FAALİYET İZİNLERİ",
+      "status": "retained",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_43.pdf"
+    },
+    {
+      "heading": "E. SUÇ DUYURUSU, İDARİ PARA CEZASI İLE DİĞER YAPTIRIM VE TEDBİRLER",
+      "status": "metadata-only",
+      "reason": "sanctions-metadata-only",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_43.pdf"
+    },
+    {
+      "heading": "H. DİĞER ÖZEL DURUMLAR",
+      "status": "non-regulatory-index",
+      "reason": "",
+      "source": "https://spk.gov.tr/data/61e0b4991b41c613a0d633d1/2013_43.pdf"
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_excluded": 1
+  }
+}
