@@ -44,3 +44,7 @@ KHK/649 | 6 ve Geçici Madde 12 | 17/8/2011
 KHK/661 | 2, 8, 9, 10,18, 24, 30, 32, 33, Ek madde 5, Ek Madde 9, Geçici Madde 6 | 2/11/2011
 KHK/666 | Ek Madde 6 | 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
 6462 | 2 | 3/5/2013
+Anayasa Mahkemesi’nin 6/6/2013 tarihli ve E.: 2013/35, K.: 2013/75 sayılı Kararı | Ek Madde 9 | 22/11/2013
+6884-5
+Değiştiren Kanunun/ KHK’nin Numarası | 3289 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/63, K.: 2013/28 sayılı Kararı | Ek Madde 9 | 31/12/2013
