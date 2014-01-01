@@ -1,0 +1,2 @@
+Portföy saklama sözleşmesi
+MADDE 9 – (1) Portföy saklayıcısı ile Şirket veya yatırım ortaklığı arasında tarafların yetki ve sorumluluklarını içeren, portföy saklayıcısının görevlerini yerine getirmesi için gerekli bilgi akışının nasıl sağlanacağını belirleyen ve asgari unsurları bu Tebliğ ekinde yer alan bir sözleşme imzalanması zorunludur. Sözleşmede Kanun ve bu Tebliğ hükümlerine aykırı bir hükme yer verilemez.

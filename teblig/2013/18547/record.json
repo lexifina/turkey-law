@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.18547",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "PORTFÖY SAKLAMA HİZMETİNE VE BU HİZMETTE BULUNACAK KURULUŞLARA İLİŞKİN ESASLAR TEBLİĞİ (III-56.1)",
+  "number": "18547",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "path": "teblig/2013/18547",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18547&MevzuatTertip=5",
+  "source_sha256": "900ccaefa386de133841939021e5dda7208ada1c8793c2a8283ecbc41593acfe",
+  "source_bytes": 114665,
+  "published": "2013-07-02",
+  "gazette": "28695",
+  "in_force": "2014-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2014 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2014 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4724,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

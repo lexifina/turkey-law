@@ -1,0 +1,2 @@
+İdari ve mali hakların kullanımına ilişkin esaslar
+MADDE 15 – (1) Portföy saklayıcısı, saklama sözleşmesinde verilen yetkiye bağlı olarak Şirketin ya da yatırım ortaklığının talimatları doğrultusunda kolektif yatırım kuruluşu nam ve hesabına finansal varlıkların anapara, faiz, temettü ve benzeri gelirlerinin tahsili, ödenmesi ile yeni pay alma haklarının ve paylardan doğan oy haklarının kullanılması gibi hizmetleri verebilir.
