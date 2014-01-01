@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-01-01",
+  "issue": "28869",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2013/5762 Kamu Kurum ve Kuruluşlarındaki Geçici Mahiyetteki İşleri Yürütmek Üzere Geçici Personel İstihdamı ve Bu Personele Ödenecek Ücretler Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140101-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140101.htm",
+  "index_sha256": "7e8e8eb4e176adea654f0225e64d614a9f35683a4cffc7f07a3573ab3103ca44",
+  "index_header": "1 Ocak 2014 ... 28869 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140101.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
