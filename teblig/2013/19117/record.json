@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.19117",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 111)",
+  "number": "19117",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2013/19117",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19117&MevzuatTertip=5",
+  "source_sha256": "3734e449f69fc1eb3d3f3a67bd04646d102e47903125147ea52fa764a3dae619",
+  "source_bytes": 8508,
+  "published": "2013-12-13",
+  "gazette": "28850",
+  "in_force": "2014-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2014 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2014 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 286,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
