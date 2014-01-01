@@ -12,15 +12,14 @@ Diğer hükümleri 25/7/1967
 2345 Harcın konusuna yeni giren yıllık harçlar ile miktarları artırılan
 yıllık harçlar 1/1/1981
 Diğer hükümleri 1/12/1980
-2366 (1/1/1981 tarihinden geçerli olmak üzere)
+2366 (1/1/1981 ta-
+rihinden ge-
+çerli olmak
+üzere)
 – 31/12/1980
 2430 – 1/4/1981
-2588 A) 1, 2, 4, 5, 6, 7, 8, 14 ve 16 ncı maddeleri Bölge idare, idare ve vergi mahkemelerinin
-kurulup göreve başladıkları tarihte.
-B) 9, 10, 11, 12, 15, 17 ve 18 inci maddeleri Emlak Vergisi 1980
-genel beyan dönemini
-izleyen ilk genel beyan döneminin
-rastladığı bütçe yılının başında.
+2588 A) 1, 2, 4, 5, 6, 7, 8, 14 ve 16 ncı maddeleri Bölge idare, idare ve vergi mahkemelerinin kurulup göreve başladıkları tarihte.
+B) 9, 10, 11, 12, 15, 17 ve 18 inci maddeleri Emlak Vergisi 1980 genel beyan dönemini izleyen ilk genel beyan döneminin rastladığı bütçe yılının başında.
 C) 3 ve 13 üncü maddeleri 1/3/1982
 D) Diğer Hükümleri 27/1/1982
 3180 – 1/5/1985
@@ -30,15 +29,11 @@ Kurulu Kararı – 1/1/1986
 3954
 Kanun Yürürlüğe
 No. Farklı tarihte yürürlüğe giren maddeler giriş tarihi
-3239 A) Birinci bölümün araziye ait asgari ölçüde birim değer tespiti için
-yeniden kurulan Takdir Komisyonları ve arazi ile ilgili diğer hükümleri
-ve yoklamadan maksat ve yoklama memurlarına ilişkin hükümleri. 11/12/1985
+3239 A) Birinci bölümün araziye ait asgari ölçüde birim değer tespiti için yeniden kurulan Takdir Komisyonları ve arazi ile ilgili diğer hükümleri ve yoklamadan maksat ve yoklama memurlarına ilişkin hükümleri. 11/12/1985
 B) Arsalara ait asgari ölçüde birim değer tespiti için yeniden
 kurulan Takdir Komisyonları ile ilgili hükümleri 1/3/1986
-C) Beşinci bölümünün, 96 ncı maddesiyle 492 sayılı Kanunun (8)
-sayılı tarifesine eklenen Telsiz Harçlarına ilişkin hükümleri
-(Yıllık harçlara ait hükümleri hariç) (7/10/1983 tarihinden geçerli
-olmak üzere)
+C) Beşinci bölümünün, 96 ncı maddesiyle 492 sayılı Kanunun (8) sayılı tarifesine eklenen Telsiz Harçlarına ilişkin hükümleri
+(Yıllık harçlara ait hükümleri hariç) (7/10/1983 tarihinden geçerli olmak üzere)
 11/12/1985
 D) 107, 115, 119, 126, 132, 133, 134, 135 ve Geçici 2, 3 ve
 4 üncü maddeleri 11/12/1985
@@ -47,48 +42,34 @@ ki veren hükümleri (1/1/1986 tarihinden geçerli olmak üzere)
 11/12/1985
 F) Diğer hükümleri 1/1/1986
 3418 a) 1 - 10 1/4/1988
-b) 12 - 13 ve 15 1/7/1988 tari hinden geçerli
-olmak üzere 31/3/1988
-c) 23 ve 24 1/1/1988 tarihinden geçerli
-olmak üzere 31/3/1988
+b) 12 - 13 ve 15 1/7/1988 tari hinden geçerli olmak üzere 31/3/1988
+c) 23 ve 24 1/1/1988 tarihinden geçerli olmak üzere 31/3/1988
 d) Diğer maddeleri 31/3/1988
 3954-1
 Kanun Yürürlüğe
 No. Farklı tarihte yürürlüğe giren maddeler giriş tarihi
-3505 1) 2, 5, 6, 8, 9, 11, 13, 14, 15, 19, 21, 22, 23, 26, 28, 29, 32, 33, (1.1.1989 tarihinden geçerli olmak üzere)
-34 ve geçici 2 nci maddeleri 10.12.1988
+3505 1) 2, 5, 6, 8, 9, 11, 13, 14, 15, 19, 21, 22, 23, 26, 28, 29, 32, 33, (1.1.1989 tari-
+34 ve geçici 2 nci maddeleri hinden geçerli
+olmak üzere)
+10.12.1988
 2) Bakanlar Kuruluna ve Maliye ve Gümrük Bakanlığına yetki
 veren hükümleri ile diğer maddeleri 10.12.1988
-3689 – 7 nci madde ile 193 sayılı Kanuna eklenen Geçici 35 inci 1/1/1990 tarihinden geçerli olmak üzere
-Maddesi 20/12/1990
-– 8 inci madde ile 5422 sayılı Kanuna eklenen Geçici 18 inci 5/9/1990 tarihinden geçerli olmak üzere
-maddesi 20/12/1990 tarihinde
--1, 2, 3, 4, 6, 9, 10, 11 ve 12 ile 5 inci maddesi 1/1/1991 tarihinden
-itibaren elde edilen gelirlere uygulanmak üzere, 7 nci maddesi ile
-193 sayılı Gelir Vergisi Kanununa eklenen geçici 34, 36 ve 37
-nci maddeleri ve 8 inci maddesiyle 5422 sa-
-yılı Kanuna eklenen geçici 19 uncu maddesi 1/1/1991
+3689 – 7 nci madde ile 193 sayılı Kanuna eklenen Geçici 35 inci 1/1/1990 tari-
+maddesi hinden geçerli olmak üzere 20/12/1990 tarihinde
+– 8 inci madde ile 5422 sayılı Kanuna eklenen Geçici 18 inci 5/9/1990
+maddesi tarihinden geçerli olmak üzere 20/12/1990 tarihinde
+– 1, 2, 3, 4, 6, 9, 10, 11 ve 12 ile 5 inci maddesi 1/1/1991 tarihinden itibaren elde edilen gelirlere uygulanmak üzere, 7 nci maddesi ile 193 sayılı Gelir Vergisi Kanununa eklenen geçici 34, 36 ve 37 nci maddeleri ve 8 inci maddesiyle 5422 sayılı Kanuna eklenen geçici 19 uncu maddesi 1/1/1991
 – Diğer hükümleri 20/12/1990
 3717 – 16/5/1991
-3824 a) 5, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 ve 25 inci
-maddeleri 10 uncu maddesiyle 5422 sayılı Kurumlar Vergisi
-Kanununun 8 inci maddesine eklenen 18 numaralı bent hükmü
+3824 a) 5, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 ve 25 inci maddeleri 10 uncu maddesiyle 5422 sayılı Kurumlar Vergisi Kanununun 8 inci maddesine eklenen 18 numaralı bent hükmü
 ve 26 ncı maddesi (“a” fıkrası hariç) 1/1/1993
-b) 1, 3, 4, 6, 8, 9, 10 (Bu madde ile 5422 sayılı Kurumlar
-Vergisi Kanununun 8 inci maddesine eklenen 18 numaralı bent
-hükmü hariç) 11 ve 12 nci maddeleri ile 26 ncı maddesinin
-(a) fıkrası hükmü 1/1/1992 tarihinden
+b) 1, 3, 4, 6, 8, 9, 10 (Bu madde ile 5422 sayılı Kurumlar Vergisi Kanununun 8 inci maddesine eklenen 18 numaralı bent hükmü hariç) 11 ve 12 nci maddeleri ile 26 ncı maddesinin (a) fıkrası hükmü 1/1/1992 tarihinden
 geçerli olarak 1/7/1992
 c) Diğer Hükümleri 11/7/1992
 3986 – 7/5/1994
-4008 a) 2, 4, 9, 10, 11,13, 14, 15, 16, 20, 21, 22, 24 ve 25 inci
-maddesi ile Gelir Vergisi Kanununun 41 inci maddesine eklenen
-7 numaralı bent ve 27 inci maddesi ile Kurumlar Vergisi Kanunu-
+4008 a) 2, 4, 9, 10, 11,13, 14, 15, 16, 20, 21, 22, 24 ve 25 inci maddesi ile Gelir Vergisi Kanununun 41 inci maddesine eklenen 7 numaralı bent ve 27 inci maddesi ile Kurumlar Vergisi Kanunu-
 nun 15 inci maddesine eklenen 12 numaralı bent 1.1.1995
-b) 8 inci maddesi,25 inci maddesi ile Gelir Vergisi Kanununun
-41 inci maddesine eklenen 8 numaralı bent ve 27 nci maddesi ile
-Kurumlar Vergisi Ka nununun 15 inci maddesine eklenen
-13 numaralı bent 1.1.1996
+b) 8 inci maddesi,25 inci maddesi ile Gelir Vergisi Kanununun 41 inci maddesine eklenen 8 numaralı bent ve 27 nci maddesi ile Kurumlar Vergisi Ka nununun 15 inci maddesine eklenen 13 numaralı bent 1.1.1996
 c) 35 inci maddesi yayımını izle-
 yen aybaşında,
 d) Diğer hükümleri 6/7/1994
@@ -107,8 +88,7 @@ No. Farklı tarihte yürürlüğe giren maddeler giriş tarihi
 b) Diğer maddeleri ile 6 ncı maddesinin
 (C) bendi henüz tahsil edilmemiş ikamet
 tezkeresi harçları hakkında da uygulanmak üzere 30/12/2001
-4751 5 ncı maddesi ile 6 ıncı maddesinin (C) fıkrasının 1.1.2002 tarihinden
-(I) numaralı bendinin (b) alt bendi geçerli olmak üzere
+4751 5 ncı maddesi ile 6 ıncı maddesinin (C) fıkrasının 1.1.2002 tarihinden (I) numaralı bendinin (b) alt bendi geçerli olmak üzere
 yayımı tarihi olan
 9/4/2002 tarihinde
 Diğer hükümleri 9/4/2002
@@ -150,3 +130,5 @@ KHK/646 | 134 | 10/7/2011
 6361 | (4) sayılı Tarife | 13/12/2012
 Anayasa Mahkemesi’nin 18/10/2012 tarihli ve E.: 2012/70, K.: 2012/157 sayılı Kararı | 28/a | 13/2/2013 tarihinden başlayarak altı ay sonra (13/8/2013)
 Anayasa Mahkemesi’nin 1/11/2012 tarihli ve E.:2011/64, K.: 2012/168 sayılı Kararı | (1) sayılı Tarifenin “A- Mahkeme Harçları” bölümünün “IV. Temyiz, istinaf ve itiraz harçları” kısmının (f), (g) ve (h) fıkraları | 13/3/2013 tarihinden başlayarak altı ay sonra (13/9/2013)
+6487 | 28, (8) sayılı Tarife | 11/6/2013
+6456 | 113 ve (8) sayılı Tarife | 1/1/2014

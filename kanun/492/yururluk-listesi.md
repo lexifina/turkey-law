@@ -70,4 +70,6 @@ DEĞİŞİKLİK YAPAN YAYIMLANDIĞI RESMİ DEĞİŞİKLİK GÖREN GAZETENİN MEV
 20/9/2012 | 2012/3735 | B.K.K. | 22/9/2012 | 28419 | - | 4
  | Seri No:69 | Tebliğ | 1/1/2013 | 28515 | - | 1 ila 9
  | Seri No:70 | Tebliğ | 1/1/2013 | 28515 | - | 2 ila 9
+ | Seri No:71 | Tebliğ | 30/12/2013 | 28867 (Mük.) | - | 1 ila 9
+ | Seri No:72 | Tebliğ | 30/12/2013 | 28867 (Mük.) | - | (2,5,6 ve 7)
 3953
