@@ -1,0 +1,23 @@
+{
+  "number": "6",
+  "number_as_published": "2014/6",
+  "year": 2014,
+  "title": "İmar Komisyon raporunda belirtilen, 1-Cumhuriyet Mahallesi tapunun 8 pafta 1479 parseldeki 696 m2’lik taşınmazın B-7 (bitişik nizam yedi) kat olması imar komisy…",
+  "decision_date": "2014-01-02",
+  "source": "https://www.incirliova.bel.tr/mecliskararlari",
+  "official_document": null,
+  "source_sha256": "270803a52f1925a0788bfb4481e0737a3974daae606ea8809cbd459b563d93ad",
+  "issuer": "İncirliova Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2014-01-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 2014-01-02 (TARİH in the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "record_scope": "one council decision (subject, number, date and decision text as published in the official list)",
+  "official_page": "https://www.incirliova.bel.tr/mecliskararlari"
+}
