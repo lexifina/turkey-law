@@ -1,0 +1,572 @@
+2 Ocak 2014 PERŞEMBE
+Resmî Gazete
+Sayı : 28870
+YÖNETMELİK
+Elektrik Piyasası Düzenleme Kurumundan:
+ELEKTRİK PİYASASI DAĞITIM YÖNETMELİĞİ
+BİRİNCİ KISIM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; 14/3/2013 tarihli ve
+6446 sayılı Elektrik Piyasası Kanununda tanımlanan, dağıtım sisteminin güvenilir ve düşük maliyetli olarak işletilmesi ve planlaması ile sisteme bağlı veya bağlanacak kullanıcılar ile ilgili usul ve esasların belirlenmesidir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, eşit taraflar arasında ayrım gözetilmemesi ilkeleri çerçevesinde, dağıtım şirketi ile dağıtım sistemi kullanıcılarının yükümlülüklerini, uymaları gereken tesis
+tasarım ve işletme kurallarını, dağıtım sisteminin planlanması ve işletilmesi hususlarında ilgili
+taraflara uygulanacak usul ve esasları kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununa dayanılarak hazırlanmıştır.
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) AG: Etkin şiddeti 1000 Volt ve altındaki gerilimi,
+b) Ayırıcı: Yüksüz elektrik devrelerini açıp kapayan cihazı,
+c) Bağlantı anlaşması: Bir üretim şirketi, dağıtım şirketi ya da tüketicinin iletim
+sistemine ya da dağıtım sistemine bağlantı yapması için yapılan genel ve özel hükümleri içeren anlaşmayı,
+ç) Bara: Aynı gerilimdeki fiderlerin bağlandığı iletkeni,
+d) Başkan: Enerji Piyasası Düzenleme Kurulu Başkanını,
+e) CENELEC:
+Avrupa Elektroteknik Standardizasyon Komitesini,
+f) Dağıtım: Elektrik enerjisinin gerilim seviyesi 36 kV ve altındaki hatlar üzerinden naklini,
+g) Dağıtım bölgesi: Bir dağıtım lisansında tanımlanan bölgeyi,
+ğ) Dağıtım sistemi: Bir dağıtım şirketinin, lisansında belirlenmiş dağıtım bölgesinde işlettiği elektrik dağıtım tesisleri ve şebekesini,
+h) Dağıtım şirketi: Belirlenen bir bölgede elektrik dağıtımı ile iştigal eden tüzel kişiyi,
+ı) Dağıtım tesisi: İletim tesislerinin ve dağıtım gerilim seviyesinden bağlı üretim ve tüketim tesislerine
+ait şalt sahalarının bittiği noktadan sonraki nihayet direğinden, alçak gerilim seviyesinden bağlı tüketicilerin yapı bina giriş noktalarına kadar, bina giriş ve sayaç arası hariç, elektrik dağıtımı için teçhiz edilmiş tesis ve teçhizat ile dağıtım şirketince teçhiz edilen ya da
+devralınan sayaçları,
+i) Devre dışı olma: Tesis ve/veya teçhizatın bir parçasının bakım, onarım veya bir arıza nedeniyle otomatik veya el ile devre dışı olmasını,
+j) Düşük frekans rölesi: Frekansın önceden belirlenen işletme değerlerinin altına düşmesi durumunda yük atma için kesicilere açma kumandası veren teçhizatı,
+k) ENTSO-E:
+Avrupa Elektrik Şebekesi İletim Sistem İşleticilerini,
+l) Fider: Bir merkez barasından kullanıcı veya kullanıcı grubuna enerji taşıyan hat veya kablo çıkışlarını,
+m) Frekans:
+Sistemdeki alternatif akımın Hertz olarak ifade edilen bir saniyedeki devir
+sayısını,
+n) Gerilim regülatörü: Jeneratörlerin çıkış gerilimini düzenleyen teçhizatı,
+o) Güç faktörü: Aktif gücün görünen güce olan oranını,
+ö) Harmonik: Doğrusal olmayan yükler veya gerilim dalga şekli ideal olmayan jeneratörlerden dolayı bozulmaya uğramış bir alternatif akım veya gerilimde
+ana bileşen frekansının tam katları frekanslarda oluşan sinüsoidal bileşenlerin her birini,
+p) Hız regülatörü:
+Türbin hızını düzenleyen cihazı,
+r) IEC:
+Uluslararası Elektroteknik Komisyonunu,
+s) İkili anlaşmalar: Gerçek ve tüzel kişiler arasında özel hukuk hükümlerine tabi olarak, elektrik enerjisi ve/veya
+kapasitenin alınıp satılmasına dair yapılan ve Kurul onayına tabi olmayan
+ticari anlaşmaları,
+ş) İletim lisansı: Kanun uyarınca TEİAŞ’a verilen lisansı,
+t) İletim sistemi: Elektrik iletim tesisleri ve şebekesini,
+u) İletim tesisi: Üretim veya tüketim tesislerinin
+36 kV üstü gerilim seviyesinden bağlı olduğu üretim veya tüketim tesisi şalt sahasından sonraki nihayet direğinden itibaren iletim şalt sahalarının orta gerilim fiderleri
+de dâhil olmak üzere dağıtım tesislerinin bağlantı noktalarına kadar olan tesisleri,
+ü) İlgili mevzuat: Elektrik piyasasına ilişkin kanun, yönetmelik, lisans,
+tebliğ, genelge ve Kurul kararı ve bunlar uyarınca çıkarılan diğer düzenlemeleri,
+v) İşletme sınırları: Dağıtım şirketi tarafından işletilen tesis ile diğer dağıtım şirketleri ve kullanıcılar tarafından işletilen tesis arasındaki sınırı,
+y) İşletme şeması: Numaralandırma, adlandırma ve etiketlendirme sistemi de dahil
+olmak üzere, YG tesis ve/veya teçhizatını ve bağlantı noktasındaki dış bağlantıları gösteren şemayı,
+z) İzolasyon seviyesi: Elektrik teçhizatının tasarımında esas alınan yalıtım düzeyini,
+aa) Kanun: 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununu,
+bb) Kararlı durum: Geçici rejim şartları sönümlendikten sonra işletme değerlerinin sabit kabul edilebileceği sistem durumunu,
+cc) Kesici: Yük altında veya arıza durumlarında elektrik devrelerini açıp kapamak için kullanılan cihazı,
+çç) Kısa devre akımı: Dağıtım sistemi üzerindeki belirli
+bir noktada kısa devre olması durumundaki akımı,
+dd) Kısa devre gücü: Kısa devre edilen bir baradan
+ortaya çıkan en yüksek görünür gücü,
+ee) Koruma ayarları: Koruma rölelerinin ayarlarını,
+ff) Kullanıcı: Dağıtım sistemini kullanan gerçek veya tüzel kişiyi,
+gg) Kurum: Enerji
+Piyasası Düzenleme Kurumunu,
+ğğ) Kurul:
+Enerji Piyasası Düzenleme Kurulunu,
+hh) Manevra: Sistemin çeşitli kısımlarını devreye almak veya çıkarmak için kesiciler ve ayırıcılar ile yapılan işlemleri,
+ıı) MYTM: TEİAŞ bünyesinde yer alan ve elektrik enerjisi arz ve
+talebinin gerçek zamanlı olarak dengelenmesinden
+sorumlu Miili Yük Tevzi Merkezini,
+ii) Negatif bileşen: Dengesiz bir elektrik sisteminde akım veya gerilim fazlarındaki dengesizliği ifade etmek için kullanılan pozitif, negatif ve sıfır bileşenlerden negatif
+faz sırasına sahip olanının birinci fazına ait vektörü,
+jj) Negatif faz sırası: Dengesiz bir elektrik sisteminde akım veya gerilim fazlarındaki dengesizliği ifade etmek için kullanılan genlikleri eşit, aralarında yüzyirmi
+derece faz farkı olan ve ters yönde sıralanan üç bileşenli dengeli vektör grubunu,
+kk) Normal işletme koşulu: Gerilim, frekans ve hat akışlarının belirlenen sınırlar içinde olduğu, yük taleplerinin karşılandığı, yan hizmetlerin sağlandığı ve sistemin kararlı bir şekilde çalıştığı işletme koşulunu,
+ll) Piyasa: Üretim, iletim, dağıtım, toptan satış, perakende satış, perakende satış hizmeti, ithalat ve ihracat dahil
+olmak üzere elektrik enerjisi ve kapasite alım satımı veya ticareti faaliyetleri ile bu faaliyetlere ilişkin işlemlerden oluşan elektrik
+enerjisi piyasasını,
+mm) Pozitif
+bileşen: Dengesiz bir elektrik sisteminde akım veya gerilim fazlarındaki dengesizliği ifade etmek için kullanılan pozitif, negatif ve sıfır bileşenlerden pozitif
+faz sırasına sahip olanının birinci fazına ait vektörü,
+nn) Pozitif faz sırası: Dengesiz bir elektrik sisteminde akım veya gerilim fazlarındaki dengesizliği ifade etmek için kullanılan genlikleri eşit, aralarında yüzyirmi
+derece faz farkı olan ve doğru yönde sıralanan üç bileşenli dengeli vektör grubunu,
+oo) Reaktör: Bağlı bulunduğu hat, transformatör veya baradan reaktif güç çeken ve gerilim düşürmek için kullanılan sargıyı,
+öö) Serbest
+tüketici: Kurul tarafından belirlenen
+elektrik enerjisi miktarından daha fazla tüketimi bulunduğu veya iletim sistemine doğrudan bağlı olduğu veya organize
+sanayi bölgesi tüzel kişiliğini haiz olduğu için tedarikçisini seçme hakkına sahip gerçek veya tüzel kişiyi,
+pp) Sıfır bileşen: Dengesiz bir
+elektrik sisteminde akım veya gerilim fazlarındaki dengesizliği ifade etmek için kullanılan pozitif,
+negatif ve sıfır bileşenlerden sıfır faz sırasına sahip olan ve birbirine eşit üç vektörden her birini,
+rr) Sıfır faz sırası: Dengesiz bir elektrik sisteminde akım veya gerilim
+fazlarındaki dengesizliği ifade etmek için kullanılan birbirlerine eşit üç vektörü,
+ss) Sistemin oturması: Elektrik sisteminin tamamen veya kısmen istem dışı enerjisiz kalmasını,
+şş) Talep: Tüketilecek aktif ve reaktif güç miktarını,
+tt) Talep kontrolü: MYTM ve/veya bölgesel yük tevzi merkezleri
+veya dağıtım şirketi tarafından arz-talep
+dengesini sağlamak amacıyla talep üzerinde uygulanacak yöntemleri,
+uu) Tarife: Elektrik
+enerjisinin ve/veya kapasitenin iletimi, dağıtımı ve satışı ile bunlara
+dair hizmetlere ilişkin fiyatları, hükümleri ve şartları içeren düzenlemeleri,
+üü)
+Tasarlanmış asgari çıkış seviyesi: Sistem frekansının 50.5 Hz üzerinde olması ve ünite veya bloğun, yüksek frekans kontrolü kapasitesinin kalmaması durumunda aktif çıkış gücünü,
+vv) Tedarikçi: Elektrik enerjisi ve/veya kapasite sağlayan üretim şirketleri ile
+tedarik lisansına sahip şirketi,
+yy) TEİAŞ: Türkiye Elektrik İletim Anonim Şirketini,
+zz) TSE: Türk Standardları
+Enstitüsünü,
+aaa) Toparlanma yeteneği: Sistem oturması durumunda bir üretim tesisinin en
+az bir ünitesinin TEİAŞ’ın
+talimatı doğrultusunda, harici besleme olmaksızın kendi imkanları ile devreye
+girmesini ve sistemin bir bölümünü enerjilendirebilmesini,
+bbb) Toplam harmonik bozulma: Alternatif akım veya gerilimdeki harmoniklerin etkin değerleri kareleri toplamının karekökünün, ana bileşenin etkin değerine oranı olan ve dalga şeklindeki bozulmayı ifade eden değeri,
+ccc) Topraklama: Tesis
+ve/veya teçhizatın kesici ve ayırıcılar yardımı ile elektriğinin her yönden kesilmesinin
+ardından iletkenlerinin toprağa kısa devre edilerek geriliminin sıfırlanmasını,
+ççç) Tüketici: Elektriği kendi kullanımı için alan kişiyi,
+ddd) Uluslararası Standardlar: Elektrik sistemi tesis ve/veya
+teçhizatı için geliştirilen, onaylanan ve kullanılan uluslararası tasarım, tesis, imalat
+ve performans standardlarını,
+eee) Ünite: Bağımsız olarak yük alabilen ve yük atabilen her bir üretim grubunu, kombine çevrim santralları
+için her bir gaz türbin ve jeneratörü ile gaz türbin ve jeneratörüne bağlı çalışacak buhar türbin ve jeneratörünün payını,
+fff) Üretim: Enerji kaynaklarının, üretim tesislerinde elektrik enerjisine dönüştürülmesini,
+ggg) Üretim faaliyeti gösteren tüzel kişiler: Elektrik Üretim Anonim Şirketi ve bağlı ortaklıkları, Elektrik Üretim Anonim Şirketinin yeniden
+yapılandırılmasıyla oluşan diğer kamu üretim şirketleri ile özel sektör üretim şirketlerini,
+ğğğ) Üretim tesisi: Elektrik enerjisinin üretildiği tesisleri,
+hhh) Yan hizmetler: İletim sistemine
+veya dağıtım sistemine bağlı ilgili tüzel kişilerce sağlanan, iletim veya dağıtım sisteminin güvenilir şekilde işletimini ve elektriğin gerekli kalite
+koşullarında hizmete
+sunulmasını sağlamak üzere ilgili yönetmelikte ayrıntılı olarak tanımlanan hizmetleri,
+ııı) Yatırım planı: Kurul tarafından onaylanan talep tahminleri doğrultusunda dağıtım şirketinin, mevcut dağıtım sisteminde yapacağı iyileştirme ve güçlendirme yatırımları ile dağıtım sisteminin genişlemesine ilişkin yeni yatırımlar için 11/8/2002 tarihli ve 24843 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Tarifeler Yönetmeliği ve ilgili tebliğleri uyarınca yapılan gelir/tarife düzenlemesi çerçevesinde Kurum tarafından onaylanan
+planı,
+iii) YG: Etkin şiddeti 1000 Voltun üzerinde olan gerilimi,
+ifade eder.
+İKİNCİ KISIM
+Dağıtım Sistemine Bağlantı
+BİRİNCİ BÖLÜM
+Üretim Faaliyeti Gösteren Tüzel Kişiler Dışındaki Kullanıcılar
+İçin Bağlantı Esasları
+Bağlantı başvurusu
+MADDE 5 – (1) Üretim faaliyeti gösteren tüzel kişiler dışındaki kullanıcılar, dağıtım sistemine bağlantı başvurularını, Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliğinde belirtilen esaslar çerçevesinde yaparlar.
+(2) Kullanıcılar tarafından yapılan bağlantı başvurularında; başvurunun niteliğine göre motor ve
+elektrojen gruplarının sayısı ve güçleri, elektrikli taşıtların şarj edilebilmesi için kurulacak hızlı, orta hızlı ve yavaş şarj ünitelerinin sayısı ve güçleri, aydınlatma ve ısıtma tesisatı ve güçleri, koruma sistemleri gibi diğer tesis ve/veya
+teçhizatla ilgili teknik özellikleri de içeren elektrik projesi dağıtım şirketine sunulur. Dağıtım şirketi sunulan proje çerçevesinde kullanıcıdan gerekli olan ilave bilgileri de talep edebilir.
+(3) Kullanıcı tarafından sunulan
+elektrik projesi ve diğer bilgiler, dağıtım şirketi tarafından sadece söz konusu bağlantı faaliyetleri için kullanılabilir.
+Bağlantı başvurularının değerlendirilmesi
+MADDE 6 – (1) Bağlantı başvuruları; Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliği hükümleri çerçevesinde değerlendirilir.
+(2) Dağıtım şirketi; bölgedeki yük karakteristiğine göre, kullanıcının hangi gerilim seviyesinden sisteme bağlanacağının belirlenmesinde ve kullanıcı bağlantılarının tesis ve tahsis edilmesi veya değiştirilmesi yönündeki taleplerinin karşılanmasında eşit taraflar arasında ayrım gözetmeksizin hareket eder.
+(3) Dağıtım şirketi; kullanıcı bağlantı noktasının veya kullanıcının işletme usullerinin diğer kullanıcılar üzerinde olumsuz etkiler yaratma olasılığının tespit edildiği durumlarda,
+kullanıcıdan alternatif bir gerilim seviyesinden bağlanmasını veya söz konusu olumsuz
+etkiyi ortadan kaldıracak çözümler uygulamasını talep edebilir.
+(4) Dağıtım şirketi ile TEİAŞ arasında yapılan bağlantı ve/veya sistem kullanım anlaşmasında yer alan hükümler çerçevesinde belirlenen belli bir gücün üzerindeki yeni veya ilave bağlantı başvuruları kapsamındaki enerji talep ve tahsislerinin değerlendirilmesinde
+dağıtım şirketi TEİAŞ ile gerekli koordinasyonu sağlar.
+Bağlantı anlaşması ve bağlantının tesisi
+MADDE 7 – (1) Dağıtım şirketi ile kullanıcı arasındaki bağlantı anlaşması Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliği hükümleri çerçevesinde imzalanır ve anlaşma hükümlerine göre bağlantı tesis edilir.
+Sisteme fiziki irtibat
+MADDE 8 – (1) Perakende satış sözleşmesi veya ikili anlaşma yapıldığının dağıtım şirketine tevsikini takiben bağlantı anlaşması hükümleri çerçevesinde sisteme bağlantı yapılır.
+(2) Dağıtım şirketi, bağlantının yapılmasından önce bağlantı anlaşması kapsamında belirlenmiş kontrol ve testleri yapar. Kontrol ve testler ile açma/kapama işlemleri kullanıcı ve gerekli hallerde TEİAŞ ile koordinasyon yapılarak gerçekleştirilir. Sonuçların uygun olması halinde sisteme
+bağlantı yapılır ve bağlantılarla ilgili her türlü devreye alma işlemi ilgili mevzuat
+uyarınca gerçekleştirilir.
+(3) Kullanıcının, mevcut tesisinde ve/veya teçhizatında dağıtım sistemini etkileyecek bir işlem veya değişiklik yapması gerektiğinde, ilgili dağıtım şirketinin onayını alacağı bağlantı ve/veya sistem kullanım anlaşmalarında yer alır.
+İKİNCİ BÖLÜM
+Üretim Faaliyeti Gösteren Tüzel Kişiler İçin Bağlantı Esasları
+Bağlantı başvurusu ve değerlendirilmesi
+MADDE 9 – (1) Tüzel kişi tarafından Elektrik
+Piyasası Bağlantı ve Sistem Kullanım Yönetmeliği uyarınca lisans başvurusu kapsamında talep edilen bağlantı noktasının dağıtım şirketi tarafından uygun görülmesi veya dağıtım şirketinin alternatif bağlantı noktası teklifinin tüzel kişi tarafından kabul
+edilmesi durumunda, tüzel kişiye lisansının verilmesini takiben, bağlantı ve/veya sistem kullanım anlaşmasına esas olmak üzere, Ek-1'de yer
+alan veriler ile dağıtım sistemine bağlanacak tesis
+ve/veya teçhizata ilişkin bilgiler tüzel kişi tarafından dağıtım şirketine sunulur.
+Uyum ve testler
+MADDE 10 – (1) Üretim faaliyeti gösteren tüzel kişi; dağıtım sistemine bağlanacak tesis
+ve/veya teçhizatının, sistemdeki tesis ve/veya teçhizata, bu Yönetmeliğe, bağlantı ve/veya sistem kullanım anlaşmaları ile 27/12/2008 tarihli ve
+27093 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Yan Hizmetler Yönetmeliğine uygun olduğunu aşağıdaki usul ve esaslar çerçevesinde dağıtım şirketine bildirir.
+a) Üretim faaliyeti gösteren tüzel kişi; tesis ve/veya teçhizatına ait imalat
+testi veya sertifikaları içerecek şekilde gerekli tüm teknik verilerin ve parametrelerin yer aldığı bir uyum raporu taslağını ünitenin servise alınması ve senkronizasyonundan en az üç ay önce hazırlar.
+b) Üretim faaliyeti gösteren tüzel kişi; dağıtım şirketi ile mutabık kaldığı bir test programı ve takvimi çerçevesinde, otomatik gerilim ve hız regülatörleri, diğer kontrol ve
+iletişim sistemleri üzerinde yapılacak servise alma testlerinin bir parçası olan açık ve yüklü devre ve fonksiyon testlerini TEİAŞ’ın
+bilgisi dahilinde dağıtım şirketinin gözetimi altında yapar.
+c) Üretim faaliyeti gösteren tüzel kişi; testlerden elde edilen sonuçları ve kontrol sistemi parametrelerinin son ayarlarını içeren bir nihai uyum raporu hazırlar.
+Sisteme bağlantı onayı
+MADDE 11 – (1) Bağlantı ve/veya sistem kullanım anlaşması çerçevesinde üretim faaliyeti gösteren tüzel kişi tarafından hazırlanan nihai uyum raporunun dağıtım şirketine sunulduğu tarihten
+itibaren otuz gün içerisinde dağıtım şirketi, üretim faaliyeti gösteren tüzel kişinin bağlantı ve/veya sistem kullanım anlaşması gerekliliklerini yerine getirip getirmediği hakkındaki değerlendirmesini
+tamamlayarak üretim faaliyeti gösteren tüzel kişiye bildirir.
+(2) Dağıtım şirketinin değerlendirme yazısında; üretim faaliyeti gösteren tüzel kişinin yükümlülüklerini yerine getirdiğinin tespiti halinde, dağıtım sistemine fiziki bağlantının yapılacağı tarih de üretim faaliyeti gösteren tüzel kişiye bildirilir. Değerlendirme yazısı kapsamında bağlantıya onay verilmediği takdirde, buna
+esas olan gerekçeler üretim faaliyeti gösteren tüzel kişiye bildirilir ve
+eksikliklerin giderilmesi için ek süre verilir.
+(3) Dağıtım şirketi; dağıtım sistemine bağlı olarak üretim faaliyeti gösteren tüzel kişiye ait, tesis
+ve/veya teçhizatın çalışmasını izleme hakkına sahiptir.
+(4) Dağıtım sistemine bağlı bir tesis ve/veya teçhizat üzerinde ve/veya
+bunların ayarlarında herhangi bir
+değişiklik teklifi, dağıtım sisteminin bütünlüğü ve diğer kullanıcıların tesis ve/veya teçhizatı üzerindeki etkilerinin incelenebilmesi için üretim faaliyeti gösteren tüzel kişi tarafından yeterli bir süre önceden dağıtım şirketine bildirilir. Dağıtım şirketi, dağıtım sisteminin bütünlüğünü olumsuz yönde etkileme
+ihtimali olan değişikliklerin yapılmasını kabul etmeyebilir.
+ÜÇÜNCÜ BÖLÜM
+Üretim Tesislerinin Tasarım ve Performans Şartları
+Üretim tesislerinin tasarım ve performans esasları
+MADDE 12 – (1) Üretim tesislerine
+ilişkin tasarım ve performans şartları, TEİAŞ’ın bir dağıtım barasına
+veya dağıtım sistemine bağlı ünitelerin uyması gereken teknik ve
+tasarım kriterlerini kapsar.
+Üretim tesislerinin performans şartları
+MADDE 13 – (1) Üniteler, aşırı ikazlı olarak 0.85 ve düşük ikazlı olarak 0.95 güç faktörleri arasında nominal güç çıkışını sağlayacak kapasitede olur.
+(2) Ünitenin kısa devre oranı; termik ve
+kombine çevrim gaz türbin üniteler için 0.5, kurulu gücü 10 MW ve altındaki
+hidroelektrik üniteler için 0.75 ve 10 MW’ın üzerindeki hidroelektrik üniteler için ise 1.0’dan küçük olamaz.
+(3) Senkron kompansatör
+olarak çalışan üniteler sıfır güç faktörü ile çalışabilecek, termik üniteler, aşırı ikaz ile çalıştırıldığında nominal güçlerinin % 75 ine kadar reaktif güç verebilecek, düşük ikaz ile çalıştırıldığında ise % 30’una kadar reaktif
+güç tüketebilecek, hidroelektrik üniteler, aşırı ikaz ile çalıştırıldığında nominal gücünün % 75’ine kadar reaktif
+güç verebilecek, düşük ikaz ile çalıştırıldığında ise % 60’ına kadar reaktif
+güç tüketebilecek kapasitede olur. Bu kapasite değerlerine bağlantı anlaşmasında yer verilir. Dağıtım şirketi; kullanıcılar arasında herhangi bir ayrım gözetmeksizin TEİAŞ ile de koordinasyon yaparak bu kapasitelerin değiştirilmesine izin verebilir.
+(4) Ünite;
+a) 50.5-49.5 Hz
+aralığındaki sistem frekans değişimleri için sabit nominal aktif güç çıkışı verebilecek,
+b) 49.5-47.5 Hz aralığındaki sistem
+frekans değişimleri için ise, Ek-2’deki doğrusal karakteristikteki değerlerden daha yüksek aktif güç çıkışı verebilecek,
+kapasitede olur.
+(5) Normal işletme koşullarında, ünitenin aktif güç çıkışının, gerilim değişimlerinden etkilenmemesi gerekir. Bu durumda ünitenin reaktif güç çıkışının ± % 5 gerilim değişim aralığı içinde tümüyle emreamade olması gerekir.
+Jeneratör kontrol
+düzenekleri
+MADDE 14 – (1) Her ünite; bağlı olduğu sisteme verdiği aktif ve reaktif gücün sürekli modülasyonu ile gerilim
+ve 22/1/2003 tarihli ve 25001 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Şebeke Yönetmeliği çerçevesinde frekans kontrolüne katkıda bulunabilecek şekilde tasarımlanmış kontrol düzeneklerine sahip
+olur.
+(2) Yan
+hizmetler kapsamında frekans kontrolüne iştirak edecek üniteler frekans kontrolü yapan, hızlı cevap veren, orantılı bir hız regülatörü
+veya ünite yük kontrolörü veya denk bir kontrol cihazına sahip olur.
+(3) Frekans
+kontrolüne iştirak edecek ünitelerin hız regülatörleri; uluslararası enterkonneksiyon şartında yer alan kuralları sağlayacak standardlara, bu standardların
+mevcut olmadığı durumlarda ise, Avrupa Birliği içinde frekans kontrol sisteminin tasarım veya tadilat standardlarına
+uygun olarak tasarlanır ve çalıştırılır.
+(4) Primer ve/veya sekonder
+frekans kontrolüne katılacak ünitelerin ENTSO-E dokümanlarında yer alan şartları yerine getirmeleri gerekir. Primer
+frekans konusunda ENTSO-E dokümanlarında yer alan standardlar ile uyum talep
+edildiğinde hız regülatörünün
+ölü bandı 0’(sıfır)a ayarlanabilmelidir.
+(5) Hız regülatörleri için kullanılan standardlar;
+a) Bağlantı anlaşması başvurusunda veya,
+b) Bağlantı anlaşmasının değiştirilmesi için yapılan başvuruda veya,
+c) Hız regülatörü
+üzerinde yapılacak tadilattan önce mümkün olan en kısa sürede,
+dağıtım şirketine ve TEİAŞ’a bildirilir.
+(6) Hız regülatörü
+aşağıdaki asgari şartları sağlar.
+a) Hız regülatörü,
+diğer kontrol cihazları ile koordineli
+bir şekilde çalışma aralığı içinde ünitenin aktif güç çıkışını sabit tutacak şekilde kontrol
+eder.
+b) Hız regülatörü, ünitenin bağlı olduğu kısmın izole bir ada şeklinde sistemden
+ayrılması fakat ünitenin talebi
+beslemeye devam etmesi durumunda, frekansını mümkün olduğunca 47.5-52.5 Hz aralığında
+tutabilmelidir. Ancak, bu durum çıkış gücünün ünitenin tasarlanmış asgari çıkış seviyesinin altına düşmesine yol açamaz.
+c) Hız regülatörü;
+Elektrik Piyasası Şebeke Yönetmeliğinde tanımlanan hız düşümü değerleri ile çalışacak şekilde ayarlanır.
+(7) Hız regülatörü
+için belirlenen asgari şartlar, başka parametrelere dayanan yan hizmetlerin TEİAŞ ve/veya dağıtım şirketi ile kullanıcı arasında müzakere edilmesine
+engel olamaz.
+(8) TEİAŞ tarafından, Elektrik
+Piyasası Yan Hizmetler Yönetmeliği kapsamında sekonder frekans
+kontrolü için seçilen ünitelere, MYTM otomatik üretim kontrol
+sistemi tarafından gönderilecek
+sinyalleri alan ve işleyen teçhizat, bağlantı anlaşmasındaki şartlara uygun olarak kullanıcı tarafından tesis edilir.
+(9) Ünitenin gerilimini sabit tutan otomatik ikaz kontrol sistemi ve
+gerilim regülatörü
+ile ilgili olarak;
+a) İkaz kontrol teçhizatı ve güç sistemi dengeleyicileri için teknik bilgiler
+ayrıntılı olarak bağlantı anlaşmasında belirtilir.
+b) Sistem
+kararlılığına ve çalışma aralığında ikaz akımı sınırlarına uygun olarak ünitenin reaktif güç çıkışını sınırlayan reaktif güç sınırlayıcıları bağlantı anlaşmasında belirtildiği şekliyle tesis edilir ve ayarlanır.
+c) Gerilim
+kontrolüne ilişkin olarak, sabit
+reaktif güç çıkışı kontrol modları ve sabit güç faktörü kontrol modları da dahil olmak üzere, diğer kontrol teçhizatı bağlantı anlaşmasında belirtilir.
+ç) İkaz kontrol sistemi, ünite gücünün sıfırdan tam yüke kadar yavaş yavaş
+arttırılması durumunda, çıkış geriliminin önceden saptanan nominal değerinden % 0.5 ten daha fazla değişmemesini sağlayabilecek hassasiyette olur.
+d) Ünitenin büyük bir gerilim değişimine maruz kalması durumunda, çıkışı otomatik gerilim regülatörü
+tarafından kontrol edilen ikaz kontrol sistemi, jeneratör ikaz sargısının alt ve üst gerilim sınırlarına 50 milisaniyeyi geçmeyecek kadar kısa bir süre içinde ulaşabilmelidir.
+e) Ünitenin, sistemde ortaya çıkabilecek 0-5 Hz
+arasındaki düşük frekanslı elektromekanik salınımlarına
+karşı otomatik gerilim regülatöründe elektriksel sönümleme sağlama özelliğine sahip bir güç sistemi
+dengeleyicisi bulunur. Güç sistemi dengeleyicisinin ayarları dağıtım şirketi ile kullanıcı tarafından birlikte yapılır.
+(10) Ünitelerin devreye alınması veya çıkarılması işlemleri, sistemde aşırı yüklenme ve gerilim dalgalanmalarına yol açmadan gerçekleştirilir.
+(11) Ünitelerin TEİAŞ’ın dağıtım barası
+veya dağıtım sistemi ile senkronize olması için gerekli şartlar bağlantı anlaşmasında yer alır, senkronizasyon işlemleri MYTM ve/veya bölgesel yük tevzi merkezlerinin talimatları doğrultusunda gerçekleştirilir.
+Ünite frekans hassasiyeti
+MADDE 15 – (1) Üretim faaliyeti gösteren tüzel kişi, ünitelerini 47.5-52.5 Hz aralığı dışındaki frekanslardan doğabilecek zararlara karşı korumakla yükümlüdür. Bu aralık dışındaki frekanslarda teçhizatın, tesisin ve/veya
+personelin güvenliği için ünitenin sistem ile bağlantısını kesme ve diğer her türlü tedbirin alınması hususundaki yükümlülükler üretim faaliyeti gösteren tüzel kişiye aittir.
+ÜÇÜNCÜ KISIM
+Projelendirme
+ve Tesis Tasarım Esasları
+Projelendirme ve tasarımlandırmada
+dikkate alınacak hususlar
+MADDE 16 – (1) Dağıtım tesis ve/veya teçhizatı ile dağıtım sistemine bağlanacak tesis
+ve/veya teçhizatın; projelendirme,
+tasarımlandırma, test ve
+montaj işlemleri ilgili mevzuat, TSE, CENELEC, IEC, ve ilgili standardlar
+uyarınca yapılır. Projelendirme ve tasarımlandırma açısından gerekli sistem bilgileri, talep edilmesi
+halinde dağıtım şirketi tarafından kullanıcıya verilir.
+(2) Dağıtım şirketi ve/veya kullanıcı, projelendirme ve tasarımlandırma işlemlerinde aşağıdaki hususlara uymakla yükümlüdür.
+a) Dağıtım sistemine yapılacak bağlantılara ilişkin projelerin hazırlanmasında can ve mal emniyetinin sağlanması esas olup; projelendirme ve tasarımlandırmada, tesis ve/veya teçhizatın kısa devre akımına dayanma ve kısa devre akımını kesme kapasiteleri, izolasyon
+seviyeleri ve aşırı yüklenme durumları gibi hususların dikkate alınması zorunludur.
+b) Dağıtım sistemine bağlanacak tesis
+ve/veya teçhizatın, Elektrik
+Piyasası Şebeke Yönetmeliğinde belirlenen gerilim ve frekans şartlarına göre projelendirilmesi ve tasarımlandırılması ve bu Yönetmelikte
+belirlenen çalışma sınırları içinde güvenli bir şekilde işletilmesi kullanıcının sorumluluğundadır.
+c) Dağıtım sisteminde yapılan her türlü bağlantı ve genişleme; gerilim
+kontrolünü olumsuz yönde etkilemeyecek şekilde projelendirilir.
+ç) Dağıtım sistemi tesis ve/veya teçhizatının topraklanması ile koruyucu çoklu topraklama, TSE ve uluslararası standardlarda yer alan hükümler kapsamında, ilgili mevzuat uyarınca "dokunma ve adım" gerilimini
+güvenli düzeyde tutacak ve dönen akımları azaltacak şekilde yapılır. Dağıtım sisteminde gerçekleştirilecek her türlü topraklama, ancak dağıtım şirketi yetkililerinin denetiminde gerçekleştirilir. Kullanıcıya ait tesis ve/veya teçhizatın birden fazla enerji kaynağından beslenmesi
+durumunda kullanıcı; topraklanmış nötr noktaları arasında, toprak akımlarının oluşmasını önlemekle veya oluştuğu takdirde bu akımların can ve mal emniyeti bakımından olumsuz etkilerini sınırlamaya yönelik önlemleri almakla yükümlüdür,
+d) Kullanıcı tesislerinde, dağıtım sistemi ile koruma koordinasyonunun sağlanabilmesi için yük karakteristiklerine uygun, bağlantı kesme hızı ve seçiciliği ayarlanabilen
+koruma teçhizatı kullanılır. Kullanıcı mülkiyetindeki tesis ve/veya teçhizata ait koruma donanımının seçiciliğinin, dağıtım sisteminde yer alan tesis ve/veya teçhizatın koruması ile uyumlu olması esastır. Kullanıcı; tesis ve/veya teçhizatına ait koruma
+sistemi için yaptığı projelendirme
+ve tasarımlandırmada aşağıdaki hususları dikkate alır.
+1) Tesis
+ve/veya teçhizatı koruyacak teçhizatın açma süre ve akımlarının TEİAŞ ve dağıtım şirketi tarafından belirlenen süre ve akımların altında olması.
+2) TEİAŞ’ın
+dağıtım barasında
+ve dağıtım sisteminde otomatik tekrar kapama veya kademeli açma/kapama işlemlerinin yapılabileceği.
+3) Tesis, teçhizat ve personelin dağıtım sistemindeki kısa devre olaylarına karşı etkilenmesini önleyecek bir şekilde işletilmesi.
+(3) Kullanıcı mülkiyeti sınırları içindeki koruma sistemlerinin işletme zamanları, seçicilikleri, açma kapasiteleri ve
+hassasiyetleri gibi hususlar bağlantı ve/veya sistem kullanım anlaşmaları kapsamında düzenlenir. Kullanıcı yük karakteristiğinin ek koruma
+gerektirmesi durumunda, TEİAŞ ve dağıtım şirketi, gerekli koruma teçhizatının ilgili standardlara göre kullanıcı tarafından kurulmasını talep eder. Kullanıcı, dağıtım şirketinin onayı olmaksızın, kendi mülkiyet sınırları içinde de olsa, kısa devre akımlarını sınırlayıcı teçhizat tesis edemez. Kullanıcı, kendi mülkiyet sınırları içinde tesis edilmiş koruma teçhizatının güvenli şekilde işletilmesinden sorumludur.
+(4) Kullanıcı; TEİAŞ ve dağıtım şirketinden gerekli onayları almak kaydıyla, dağıtım şirketi ile arasında sistem özelliklerine uygun bir veri iletişim sistemi
+kurabilir.
+Kullanıcı mülkiyetindeki tesis veya teçhizat
+MADDE 17 – (1) Kullanıcı mülkiyetindeki tesis ve/veya teçhizat, 16 ncı
+maddede yer alan kriterlere uygun olarak
+projelendirilir ve tesis edilir
+Kompanzasyon
+sistemleri
+MADDE 18 – (1) Dağıtım şirketi ve kullanıcı, mevzuat hükümleri uyarınca tesislerinde
+uygun kompanzasyon tesislerini kurmakla yükümlüdür.
+(2) Kullanıcılar tarafından yapılacak her türlü kompanzasyon ve/veya
+reaktör uygulamaları dağıtım şirketinin onayı ile gerçekleştirilebilir.
+(3) Dağıtım şirketi, bir kompanzasyon
+tesisini;
+a) Kontrol ve açma/kapama donanımının, kompanzasyon için uygun akım kapasitesine sahip olması,
+b) Dağıtım sisteminin ve diğer kullanıcıların işletme şartlarını olumsuz yönde etkilememesi,
+yönlerinden
+inceleyerek onaylar.
+(4) Kompanzasyon tesisinin dağıtım şirketi tarafından onaylanmış ve devreye alınmış olması; tesislerde sonradan
+ortaya çıkabilecek rezonans, harmonik bozulma, gerilim yükselmesi gibi hizmet kalitesini bozan durumların giderilmesi hususundaki kullanıcı sorumluluğunu ortadan kaldırmaz.
+Bağlantı noktasındaki kısa devre
+gücü
+MADDE 19 – (1) Kullanıcının bağlantı noktasındaki tesis
+ve/veya teçhizatının kısa devre dayanım güçleri, dağıtım sisteminin bağlantı noktasındaki kısa devre gücünden daha düşük olamaz. AG
+seviyesinden yapılan bağlantılarda, koruma teçhizatının kısa devre dayanım güçlerinin seçiminde, hatlardaki olası gerilim düşümü de göz önüne alınır.
+(2) Dağıtım şirketi, sistemini projelendirirken, kullanıcı teçhizatından dolayı kısa devre seviyesinde meydana gelebilecek artışları dikkate alır. Söz konusu değerlendirmelerin yapılabilmesi için bağlantı noktasındaki tahmini kısa devre seviyesi ile reaktans/rezistans
+oranı taraflar arasında belirlenir.
+Uzaktan ölçme ve kontrol
+MADDE 20 – (1) İlgili dağıtım şirketinin gelir/tarife düzenlemesi çerçevesinde onaylanarak yatırım planında yer alması halinde, dağıtım sistemine ait uzaktan ölçme ve/veya kontrol sistemleri dağıtım şirketi tarafından kurulur ve işletilir.
+(2) Taraflar
+arasında anlaşmaya varılması halinde, kullanıcıya ait açma/kapama teçhizatı da ilgili dağıtım şirketi tarafından kontrol
+edilebilir ve işletilebilir. Mülkiyeti kullanıcıya ait olan bu tesis ve/veya teçhizat için gerekli kontrol ara yüzünün temin edilmesi kullanıcının sorumluluğundadır.
+DÖRDÜNCÜ KISIM
+Dağıtım Sistemi Planlaması
+Dağıtım şirketinin yükümlülüğü
+MADDE 21 – (1) Dağıtım şirketi; lisansı kapsamındaki dağıtım bölgesinde elektriğin dağıtım sistemine girişinden tüketim noktalarına iletilmesine kadar olan tüm aşamalarda, enerji akışının gerçek zamanlı olarak izlenmesi,
+sisteme ilişkin ihbarların alınması ve sonuçlandırılması ve koruyucu bakım onarım hizmetlerinin planlanması ile uygulanması konularında gerekli iletişim alt yapısını kurmakla yükümlüdür.
+(2) Dağıtım şirketi, 4/4/2006 tarihli
+ve 26129 sayılı Resmî Gazete’de yayımlanan Elektrik Enerjisi Talep Tahminleri Hakkında Yönetmelik hükümleri uyarınca talep tahminlerini hazırlamakla yükümlüdür. Talep tahminleri doğrultusunda yatırım planını hazırlar.
+Planlama esasları
+MADDE 22 – (1) Dağıtım sistemi yatırım planı, aşağıdaki esaslar dikkate alınarak planlanır.
+a) Talep
+tahminleri esas alınmak suretiyle talebin karşılanması.
+b) Teknolojik
+gelişmelere ve talepteki değişimlere karşı esneklik.
+c) Hizmetin
+kalitesi.
+ç) Düşük maliyetle yüksek hizmet
+kalitesinin sağlanması.
+d) Teknik kayıp, kaçak ve bedelsiz tüketim oranları.
+e) İletim sistemi yatırım planı ile eşgüdümün sağlanması.
+Plan dönemi
+MADDE 23 – (1) Dağıtım şirketi tarafından hazırlanarak Kurul tarafından onaylanan yatırım planı, Elektrik Piyasası Tarifeler Yönetmeliği ve ilgili tebliğleri çerçevesinde yürürlüğe konulan uygulama dönemi süresi için uygulanır.
+Sistem veri tabanı ve güncellenmesi
+MADDE 24 – (1) Dağıtım şirketi, dağıtım bölgesindeki tüm tesis ve/veya teçhizatı gösteren bir veri tabanı oluşturur ve yatırımlara ilişkin birim
+maliyetleri güncelleyerek bu veri tabanına kaydeder. Bu bilgi ve belgeler talep edildiği takdirde, rapor halinde Kuruma sunulur.
+BEŞİNCİ KISIM
+Dağıtım Sisteminin İşletilmesi
+BİRİNCİ BÖLÜM
+Kullanıcı Faaliyetlerinin İzlenmesi
+İzleme
+MADDE 25 – (1) Dağıtım şirketi, kullanıcı faaliyetlerini ilgili mevzuata uygunluk açısından izleme hakkına sahiptir. Dağıtım şirketi tarafından yürütülen izleme sonucunda, kullanıcı faaliyetlerinde bağlantı ve/veya sistem kullanım anlaşmaları hükümlerine aykırı bir durumun tespit edilmesi halinde, ilgili mevzuat hükümleri doğrultusunda kullanıcıya gerekli tedbirler uygulanır.
+Hizmet kalitesine ilişkin şikayetlerin izlenmesi
+MADDE 26 – (1) Hizmet kalitesine ilişkin şikayetlerle ilgili olarak dağıtım şirketi tarafından ilgili kullanıcıların bağlantı ve/veya sistem kullanım anlaşmaları çerçevesinde aşağıdaki işlemler yürütülür.
+a) Dağıtım şirketi, dağıtım sisteminin çeşitli noktalarında, hizmet
+kalitesine ilişkin izleme faaliyeti yürütür. Periyodik ve/veya talebe bağlı olarak yürütülen izleme faaliyetlerine ilgili kullanıcıların temsilcileri de katılabilir.
+b) Dağıtım şirketi tarafından izleme
+faaliyeti kapsamında yapılan ölçüm ve testler sonucunda, bağlantı ve/veya sistem kullanım anlaşmalarında yer alan
+teknik şart ve kriterlerin ihlal
+edilmiş olduğunun tespit
+edilmesi halinde, sonuçlar ve alınması gereken tedbirler hususunda ilgili kullanıcılar dağıtım şirketi tarafından yazılı olarak bilgilendirilir.
+c) Taraflardan
+birinin izleme faaliyeti kapsamında yapılan ölçüm ve testlerin tekrarlanmasını talep etmesi halinde ölçüm ve testler tekrarlanır. Tekrarlanan ölçüm ve testlere ilgili kullanıcıların temsilcileri katılabilir.
+Tekrarlanan ölçüm ve testler sonucunda da, bağlantı ve/veya sistem kullanım anlaşmalarında yer alan
+teknik şart ve kriterlerin ihlal
+edilmiş olduğunun tespit edilmesi
+halinde, kusurlu taraf bu durumun gecikmeksizin ortadan kaldırılmasından sorumludur. Tekrarlanan ölçüm ve testlerin masrafları talep sahibi tarafından karşılanır.
+ç) İlgili kullanıcılar, kusurlu durumlarını, dağıtım şirketi tarafından yapılan yazılı bildirim tarihinden itibaren en geç otuz gün içerisinde ortadan kaldırır. Bu süre, dağıtım şirketi tarafından kusurun
+niteliğine bağlı olarak uzatılabilir. Öngörülen süre zarfında kusurun ortadan kaldırılmaması halinde, ilgili kullanıcılara ait tesislerin dağıtım sistemi ile olan bağlantısı kesilir.
+Bağlantı gücünün aşılmasına ilişkin
+izleme faaliyeti
+MADDE 27 – (1) Kullanıcı; bağlantı anlaşmasında yer alan güç sınırını aşamaz. Dağıtım şirketi; kullanıcının bağlantı noktasındaki aktif ve
+reaktif güçlerin, bağlantı anlaşmasında yer alan sınırlar içinde kalıp kalmadığını izleme hakkına sahiptir. Bağlantı güç sınırlarını aşan kullanıcıya, dağıtım şirketi tarafından Elektrik
+Piyasası Tüketici Hizmetleri Yönetmeliği hükümleri çerçevesinde bağlantı anlaşmasında düzenlenmiş bulunan yaptırımlar uygulanır.
+(2) Kullanıcı; masrafları kendisine ait
+olmak kaydıyla güç ölçümünün tekrarlanmasını talep edebilir.
+İKİNCİ BÖLÜM
+Talep Kontrolü
+Talep kontrolü esasları
+MADDE 28 – (1) Sistem frekansını, Elektrik Piyasası Şebeke Yönetmeliğinde belirtilen frekans aralığında tutmak için üretim kapasitesinin yetersiz olması durumunda, TEİAŞ koordinasyonunda dağıtım şirketi tarafından aşağıda belirtilen esaslar çerçevesinde talep kontrolü uygulanır.
+a) Dağıtım şirketi tarafından yapılan talep kontrolü.
+b) TEİAŞ tarafından iletim
+sisteminin geriliminin düşürülmesi.
+c) Frekans röleleri ile yükün otomatik olarak kesilmesi.
+(2) Dağıtım şirketleri; TEİAŞ tarafından, kullanıcıların görüşü alınarak hazırlanan talep
+kontrolü prosedürüne uymakla yükümlüdür.
+Dağıtım şirketi tarafından yapılan talep kontrolü
+MADDE 29 – (1) Dağıtım şirketi, TEİAŞ ile yaptığı anlaşma çerçevesinde kendi talep kontrolünü yapabilir. Bu kapsamdaki dağıtım şirketlerine, TEİAŞ tarafından ayrıca talep kontrolü uygulanmaz.
+(2) Talep, dağıtım şirketinin kabul etmesi halinde talep kesilmesine
+gerek kalmaksızın TEİAŞ tarafından sistem
+gerilimi düşürülerek de azaltılabilir.
+a) Planlı dönüşümlü talep kontrolü: Sistemin tamamında veya önemli bir kısmında arzın talebi karşılayamama durumunun
+devam etmesi halinde mevcut arz, eşit taraflar arasında ayrım gözetmeksizin dağıtım şirketi tarafından tüketiciler arasında paylaştırılır. Bu paylaşım, tüketicilerin taleplerinin kesilmesini içeren bir program çerçevesinde TEİAŞ koordinasyonunda dönüşümlü olarak yapılır.
+b) Acil talep
+kontrolü: Sistemin tamamında veya önemli bir kısmında, arz talep dengesinin arz tarafında beklenmeyen bir eksiklik, iletim veya dağıtım kısıtları nedeniyle, daha yaygın olarak yük atılmasını veya sistemin kabul edilemez derecede düşük gerilim ve frekans seviyelerinde işletilmesini önlemek için el ile acil talep kontrolü uygulanır. Bu talep kontrolü, TEİAŞ veya dağıtım şirketi tarafından önceden hazırlanan bir program dahilinde
+uygulanabilir.
+Talebin düşük frekans
+rölesi ile kesilmesi
+MADDE 30 – (1) Düşük frekans röleleri ile talebin otomatik olarak kesilmesi, kısa dönemli bir arz talep dengesizliğini ortadan kaldırmak için yapılır. Sistem frekansının önceden belirlenen değerlere düşmesi durumunda talep, düşük frekans röleleri ile otomatik olarak kesilir. Sistemdeki 49.0,
+48.8, 48.6, 48.4 Hz olarak belirlenmiş frekans
+kademeleri için TEİAŞ eşit taraflar arasında ayrım gözetmeksizin yıl içinde belli aralıklarla rotasyon yapar.
+Talep kontrolünden
+kullanıcıların haberdar edilmesi
+MADDE 31 – (1) Talep kontrolünden etkilenmesi
+muhtemel taraflar, dağıtım şirketi tarafından bağlantı ve/veya sistem kullanım anlaşmalarında yer alan usul
+ve esaslar çerçevesinde mümkün olduğu takdirde önceden haberdar
+edilir. Kullanıcının talep kontrolü uygulamalarına ilişkin hak ve yükümlülükleri bağlantı ve/veya sistem kullanım anlaşmaları kapsamında düzenlenir.
+ÜÇÜNCÜ BÖLÜM
+İşletme İletişimi
+İşletme iletişimi
+MADDE 32 – (1) Dağıtım şirketi ve kullanıcılar; aşağıdaki yöntem ve usullere göre, işletme faaliyetleri ve olaylara ilişkin bilgileri birbirlerine iletir.
+a) Sistemin işletilmesiyle ilgili olarak dağıtım şirketi tarafından yürütülen planlı bir faaliyetin,
+kullanıcının tesisini veya sistemini öngörülenden farklı şekilde işletmesini gerektirmesi durumunda, kullanıcı dağıtım şirketi tarafından gecikmeden
+haberdar edilir.
+b) Kullanıcı tarafından gerçekleştirilen; kullanıcının sistemi veya tesisini işletmesiyle ilgili planlı bir faaliyetin,
+dağıtım sisteminin öngörülenden farklı bir şekilde işletilmesini gerektirmesi durumunda, dağıtım şirketi, kullanıcı tarafından gecikmeden haberdar edilir. Dağıtım şirketi ise bu durumdan etkilenebilecek diğer kullanıcılara bildirimde bulunur.
+c) (a) ve (b)
+bentlerinde belirtilen durumlardan birinin meydana gelmesi halinde, buna
+ilişkin muhtemel riskler ve sonuçları taraflarca yapılan bildirimlerde
+ayrıntılı olarak yer alır. Bu bildirimler,
+bildirimde bulunulan tarafa riskin değerlendirilebilmesi
+ve bundan kaynaklanan problemlerin çözülebilmesi için yeterli süre tanıyacak şekilde gönderilir.
+ç) Sistemde; personel hatası ve/veya teçhizatın hatalı çalışmasından dolayı ortaya çıkan arıza, hatalı işletme gibi plan dışı olaylara veya normal işletme şartlarından ayrılmaya yol açan herhangi bir olaya ilişkin bildirimler yazılı bildirim yapılması için yeterli zamanın olmadığı hallerde; olayın meydana gelmesinin ardından otuz dakika içinde sözlü olarak yapılır. Daha sonra, faks, e-posta veya posta yoluyla yazılı olarak teyit edilir.
+Önemli olaylar ve bildirim yükümlülüğü
+MADDE 33 – (1) Sistem gerilim ve frekansının normal işletme sınırlarının dışına çıkması, dağıtım sistemi kararsızlığı, teçhizatın aşırı yüklenmesi, bağlantıların el ile veya otomatik olarak kesilmesi ve bunların sonucunda kişi ve/veya kamu haklarına zarar veren
+olaylar önemli olay olarak kabul edilir.
+(2) Kullanıcının dağıtım şirketine bildirdiği bir olayın, dağıtım sistemi üzerinde önemli bir etkisi olduğuna dağıtım şirketi tarafından karar
+verilmesi halinde, dağıtım şirketi kullanıcıdan önemli olay raporunu yazılı olarak hazırlamasını talep edebilir. Bu rapor talep edildikten sonraki
+ilk iş günü Ek-3’e uygun olacak şekilde hazırlanır ve dağıtım şirketine gönderilir.
+Önemli olayların incelenmesi
+MADDE 34 – (1) Önemli olayların; sistem ve kullanıcı tesis ve/veya teçhizatı üzerindeki etkileri, sebep ve sonuçları ilgili tarafların katılımı ile ortak olarak araştırılır. İlgili taraflar; araştırmanın şekli, usul ve esasları ve diğer hususlar hakkında araştırmaya başlamadan önce mutabakata varırlar.
+DÖRDÜNCÜ BÖLÜM
+Erişim ve Çalışma Güvenliği
+Erişim
+MADDE 35 – (1) Kullanıcıların veya dağıtım şirketinin mülkiyeti veya
+sorumluluğundaki sahalara erişime ilişkin hükümler, dağıtım şirketi ile kullanıcı arasında yapılan bağlantı anlaşmasında yer alır.
+(2) Dağıtım şirketi ve kullanıcı tarafından işletme sınırlarında yer alan tesis ve/veya teçhizatın bakım/onarımı, işletilmesi ve korunması ile ilgili olarak
+yetki ve sorumluluğun hangi tarafta olduğunu belirleyen bir
+yetki çizelgesi taraflarca hazırlanır ve bağlantı anlaşmasında belirtilir. Bu çizelge tarafların kayıtlarında ve işletme sınırlarındaki yerlerde hazır bulundurulur.
+Çalışma güvenliği esasları
+MADDE 36 – (1) Dağıtım şirketi ve kullanıcı; mevzuat hükümleri çerçevesinde, dağıtım sisteminde veya kullanıcı tesis ve/veya teçhizatı üzerinde çalışan personelin sağlığının ve can güvenliğinin korunmasına ilişkin usul ve
+esasları kapsayan çalışma güvenliği yönetim sistemleri oluşturur. Bu sistemler, personelin güvenliğinin sağlanması için alınması gereken tedbirleri ve tarafların bu husustaki
+yetki ve sorumluluklarını kapsar. Yetkilendirmelerde; dağıtım sisteminde veya kullanıcı tesis ve/veya teçhizatı üzerinde yürütülecek çalışmanın sınıfı, çalışanın mesleki ehliyeti, ehliyet sınıfı ve bu ehliyetin, tesisin hangi bölümleri için geçerli olduğu dikkate alınır.
+Çalışma güvenliği eğitimi
+MADDE 37 – (1) Dağıtım şirketi ve kullanıcı tarafından dağıtım sisteminde veya kullanıcı tesis ve/veya teçhizatı üzerinde çalışan personele, her iki yılda bir çalışma güvenliği yönetim sistemi eğitimi verilir.
+(2) Eğitim sonunda yapılan sınavda başarılı olan personele çalışacağı tesis ve/veya teçhizatın gücüne ve gerilim seviyesine göre sınıf ve yetkisini belirleyen güvenlik yönetimi sertifikası verilir. Dağıtım sisteminin veya kullanıcı tesis ve/veya teçhizatının belli bir bölümünde ancak bu bölge için gerekli olan sertifika türüne sahip personel çalıştırılabilir.
+(3) Kullanıcının çalışma güvenliği yönetimi eğitim programının kapsamı, süresi ve görevlendirilen eğitim personeli dağıtım şirketi tarafından onaylanır.
+İşletme sınırlarında güvenlik yönetimi
+MADDE 38 – (1) Dağıtım sistemi ile kullanıcı tesisleri ve/veya iletim sistemi arasındaki işletme sınırlarında veya ortak sorumluluğun bulunduğu yerlerde uygulanacak güvenlik yönetimi sistemine ilişkin hususlar bağlantı ve/veya sistem kullanım anlaşmaları kapsamında düzenlenir.
+(2) İşletme sınırları veya ortak sorumluluğun bulunduğu yerler için dağıtım şirketi, ilgili kullanıcı ve TEİAŞ tarafından; mülkiyet, sorumluluk ve yetki paylaşımına ilişkin olarak müşterek bir program
+hazırlanır. Bu yerlerdeki işletme programları ve çizelgeler dağıtım şirketinin, ilgili kullanıcının ve TEİAŞ’ın kayıtlarına geçirilir. İşletme programlarının, bağlantı ve/veya sistem kullanım anlaşmalarını ve tesisin gerçek durumunu yansıtıp yansıtmadığı taraflarca müştereken kontrol edilir ve onaylanır.
+Saha ve çevre güvenliği
+MADDE 39 – (1) Dağıtım şirketi ve kullanıcı tarafından, saha güvenliğinin ve emniyetinin sağlanması için gerekli düzenlemeler yapılır ve buralarda çalışacak personel muhtemel tehlikeler hakkında uyarılır.
+(2) Dağıtım şirketi ile kullanıcılar yaptıkları çalışmalarda çevre korunmasına yönelik gerekli tedbirleri alırlar.
+(3) Dağıtım şirketi ve kullanıcı tarafından çalışma güvenliği yönetim sisteminden sorumlu olarak tam zamanlı çalışan uzman kişi veya kişiler istihdam edilir.
+(4) Dağıtım şirketi ve kullanıcı tarafından; dağıtım sisteminde veya kullanıcı tesis ve/veya teçhizatı üzerinde gerçekleştirilecek her türlü faaliyetin ve alınacak güvenlik önlemlerinin izlenmesini ve rapor edilmesini sağlayan bir dokümantasyon sistemi kurulur.
+BEŞİNCİ BÖLÜM
+Acil Durum Yönetimi
+Acil durum yönetim
+planı
+MADDE 40 – (1) Sistemin tamamen veya kısmen istem dışı enerjisiz kalması durumunda,
+sistemin kademeli olarak enerjilendirilmesine yönelik acil durum yönetim planları dağıtım şirketi tarafından hazırlanır.
+Oturan sistemin toparlanması
+MADDE 41 – (1) Kısmen veya tamamen
+oturmuş durumdaki sistem, MYTM ve/veya bölgesel yük tevzi merkezleri tarafından toparlanır. Sisteme YG seviyesinden bağlı kullanıcıların toparlanma çalışmalarına katılım şekli ve yükümlülükleri, MYTM ve/veya bölgesel yük tevzi merkezleri koordinasyonunda, dağıtım şirketi tarafından belirlenir ve
+bu husus bağlantı ve/veya sistem kullanım anlaşmasında yer alır.
+(2) Dağıtım sistemi MYTM ve/veya bölgesel yük tevzi merkezleri koordinasyonunda dağıtım şirketi tarafından kademeli
+olarak ve belirlenen sıraya göre enerjilendirilir.
+(3) Toparlanma
+işlemi esnasında MYTM ve/veya bölgesel yük tevzi merkezleri tarafından verilen talimatlar dağıtım şirketleri için, dağıtım şirketleri tarafından verilen
+talimatlar ise kullanıcılar için bağlayıcıdır.
+(4) Dağıtım şirketi ve kullanıcılar tarafından, toparlanma çalışmaları esnasında sistemi ve
+tesisleri yönetebilecek düzeyde mesleki eğitim ve ehliyete sahip personel görevlendirilir.
+ALTINCI BÖLÜM
+Numaralandırma ve Adlandırma
+Mevcut tesis veya teçhizatın numaralandırılması
+MADDE 42 – (1) Kullanıcı mülkiyeti sınırları içindeki tesis ve/veya teçhizatın güvenli bir şekilde işletilmesini ve hata riskinin asgari düzeye indirilmesini
+sağlamak amacıyla, tüm tesis ve/veya teçhizat dağıtım şirketi ile kullanıcı arasında varılan mutabakata göre numaralandırılır ve/veya adlandırılır. Kullanıcı mülkiyeti sınırlarındaki tesis ve/veya teçhizat üzerine bu numara ve/veya adları gösteren etiketler asılır. Bu etiketler, üzerlerindeki yazılar iklim ve çevre şartlarından
+etkilenmeyecek şekilde imal, tesis ve muhafaza edilir. Bu numara
+ve/veya adlar tüm işletme şemalarında ve dokümanlarda aynı şekilde yer alır ve bu dokümanların kopyaları ilgili taraflara dağıtılır.
+(2) Mevcut
+tesis ve/veya teçhizatın numaraları ve/veya adları, gerekmesi durumunda, karşılıklı mutabakat ile değiştirilebilir.
+Yeni tesis veya teçhizatın numaralandırılması
+MADDE 43 – (1) Dağıtım şirketi veya kullanıcının, işletme sınırlarında yeni bir tesis ve/veya teçhizat tesis etmeyi talep etmesi halinde, bu tesis ve/veya teçhizata verilecek yeni numaralar ve adlar dağıtım şirketi tarafından ilgili
+taraflara yazılı olarak bildirilir. Yapılan bu bildirimde, kurulacak tesis ve/veya teçhizatın işletme şemalarındaki numaraları ve adları yer alır. Bildirim, tesis ve/veya teçhizatın tesis edilmesinden en az üç ay önce ilgili taraflara gönderilir.
+Taraflar, bildirimi aldıklarını on beş gün içinde teyit ederler. Numaralar ve adlar işletme şemalarına ve dokümanlara eklenir ve revize edilmiş dokümanların kopyaları taraflara dağıtılır.
+YEDİNCİ BÖLÜM
+Sistem Testleri
+Sistem testleri
+MADDE 44 – (1) Sistem testleri; dağıtım sisteminde normal işletme koşullarının dışında bir çalışma şeklinin kontrollü olarak yapıldığı, etkilerinin ve sonuçlarının incelendiği testlerdir.
+(2) Sistem
+testlerinde; sistem güvenliği ile can ve mal
+emniyetinin sağlanması için gereken her türlü önlem alınır.
+(3) Dağıtım şirketi, sistem testlerinin yürütülmesinden ve koordinasyonundan sorumludur.
+(4) Dağıtım şirketi, iletim sistemi üzerinde etkisi olabilecek sistem testlerini TEİAŞ ile koordineli olarak gerçekleştirir.
+Test talebinin bildirilmesi ve test ekibi
+MADDE 45 – (1) Dağıtım şirketinin veya kullanıcının, sistemi veya kullanıcıları etkileme ihtimali olan bir sistem testi yapılmasını talep etmesi halinde, dağıtım şirketi testten etkilenme ihtimali olan kullanıcıları belirler ve testten etkilenebilecek kullanıcılara test hakkında aşağıdaki bilgileri içeren yazılı bir ön bildirimde
+bulunur:
+a) Testin amacı.
+b) Testin
+mahiyeti.
+c) Önerilen test tarihi.
+ç) Testin gerekliliği.
+d) Test
+edilecek tesis ve/veya teçhizatın mevcut durumu.
+e) Testten
+etkilenmesi muhtemel kullanıcılar ve adresleri.
+(2) Yazılı ön bildirim kapsamında; kullanıcıların bildirim tarihinden itibaren otuz gün içerisinde test ve etkileri ile öngörülen test tarihine ilişkin görüşlerini ve teste katılacak
+temsilcilerinin isimleri, görev, unvan ve yetkilerini bildirmeleri istenir.
+(3) Kullanıcılardan gelen görüş ve öneriler çerçevesinde testin yapılacağı tarih ve test ekibi dağıtım şirketi tarafından belirlenerek
+kullanıcılara bildirilir.
+(4) Test ekibi,
+oluşturulmasından itibaren onbeş gün içerisinde toplanır ve aşağıdaki hususları dikkate alarak
+bir test programı hazırlar.
+a) Testin işletmede yol açacağı ekonomik kayıplar ve güvenlik ile ilgili riskler.
+b) Testin dağıtım şirketi veya TEİAŞ tarafından tesis ve/veya teçhizatın bakım onarım amacı ile devre dışı bırakıldığı tarihte yapılabilme veya diğer testlerle birleştirilebilme olanağı.
+c) Testin diğer üretim faaliyeti gösteren tüzel kişilerin programları ve yük dağıtım faaliyetleri üzerinde yaratacağı muhtemel etkiler.
+(5) Hazırlanan test programı çerçevesinde test gerçekleştirilir.
+ALTINCI KISIM
+Çeşitli ve Son Hükümler
+Atıflar
+MADDE 46 – (1) 19/2/2003 tarihli ve
+25025 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Dağıtım Yönetmeliğine yapılan atıflar bu Yönetmeliğe yapılmış sayılır.
+Yürürlükten kaldırılan yönetmelik
+MADDE 47 – (1) 19/2/2003 tarihli ve
+25025 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Dağıtım Yönetmeliği yürürlükten kaldırılmıştır.
+Yürürlük
+MADDE 48 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 49 – (1) Bu Yönetmelik hükümlerini Enerji Piyasası Düzenleme Kurumu Başkanı yürütür.
+Yönetmeliğin ekleri için tıklayınız
