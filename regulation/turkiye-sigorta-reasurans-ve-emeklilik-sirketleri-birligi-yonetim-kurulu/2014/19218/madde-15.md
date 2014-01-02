@@ -1,0 +1,5 @@
+Yönetim Kurulu toplantısı
+MADDE 15 – (1) Yönetim Kurulu ayda en az bir defa toplanır. Yönetim Kurulu toplantılarına Birlik Başkanı başkanlık eder. Başkanın katılamadığı hallerde ise Yönetim Kurulu Başkan Yardımcılarından birinin başkanlığında toplanır. Yönetim Kurulu üye tam sayısının yarıdan bir fazlasıyla toplanır ve toplantıya katılanların yarıdan bir fazlasıyla karar alır. Bu kural Yönetim Kurulu toplantısının acil hallerde elektronik ortamda yapılması halinde de uygulanır. Yönetim Kurulu üyelerinden her biri Yönetim Kurulu toplantılarında bir oya sahiptir. Oylarda eşitlik halinde görüşmeye esas olan konu bir sonraki toplantıya ertelenir. İkinci toplantıda eşitlik halinde Başkanın görüşü doğrultusunda karar alınır.
+(2) Üyeler, toplantılara Başkan tarafından yazılı olarak davet edilir. Başkanın bulunmadığı hallerde davet, Yönetim Kurulu Başkan Yardımcılarından biri tarafından yapılır.
+(3) Birinci ve ikinci fıkrada belirtilen yetkilerin hangi Yönetim Kurulu Başkan Yardımcısı tarafından kullanılacağına Yönetim Kurulunca karar verilir.
+(4) Birlik Genel Sekreteri ile Genel Sekreter Yardımcıları toplantılara oy hakkı bulunmadan katılabilir.

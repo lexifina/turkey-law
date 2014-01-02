@@ -1,0 +1,3 @@
+Karar defterleri
+MADDE 35 – (1) Genel Kurul, Yönetim Kurulu, yönetim komiteleri, Denetim Kurulu ve Disiplin Kurulu kararları doğrudan doğruya defterlere yazılabileceği gibi, yazılan kararların ilgili defterlere yapıştırılarak Birlik mührü ile mühürlenmek suretiyle düzenlenmesi de mümkündür.
+(2) Genel Kurul kararları, toplantıyı yöneten Başkanlık Divanı üyeleri; Yönetim Kurulu, yönetim komiteleri, Denetim Kurulu ve Disiplin Kurulu kararları, kurulun oluşma şekline göre, toplantılara katılan başkan, başkan yardımcısı ve üyeler tarafından imzalanır. Kararlara katılmayanlar veya çekimser kalanlar, gerekçelerini kararların altına yazarak imzalar.
