@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 803852,
+  "assembly": "TBMM",
+  "term": 24,
+  "heading": "TASARILAR (GÖRÜŞÜLENLER)",
+  "heading_as_published": "Tasarılar (görüşülenler) / Sağlık, Aile, Çalışma Ve Sosyal İşler",
+  "summary": "2. Komisyon Raporları Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Tasarısı ile Mersin Milletvekili Aytuğ Atıcı ve 16 Milletvekilinin; Üniversite Öğretim Elemanları ile Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfında Çalışan Personelin Tam Süre Çalışmasına ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, İstanbul Milletvekili Mahmut Tanal'ın; Organ ve Doku Alınması, Saklanması ve Nakli Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun Teklifi, İstanbul Milletvekilleri Mahmut Tanal ve Mustafa Sezgin Tanrıkulu'nun; Sağlık Hizmetleri Temel Kanununda Deği-şiklik Yapılmasına Dair Kanun Teklifi, Tokat Milletvekili Orhan Düzgün'ün; Devlet Memurları Kanunu ve Bazı Ka-nunlarda Değişiklik Yapılması Hakkında Kanun Teklifi, İstanbul Milletvekili Mahmut Tanal'ın; Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanunda Değişiklik Yapıl-masına Dair Kanun Teklifine İlişkin (1/791, 2/159, 2/401, 2/592, 2/769, 2/1049) (S. Sayısı: 480 ve 480'e 1'inci Ek)",
+  "title": "2. Komisyon Raporları Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Tasarısı ile Mersin Milletvekili Aytuğ Atıcı ve 16 Milletvekilinin; Üniversite Öğretim Elemanları ile Sağlık Hizmetleri ve Yardımcı Sağlık Hizmetleri Sınıfında Çalışan Personelin Tam Süre Çalışmasına ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, İstanbul Milletvekili Mahmut Tanal'ın; Organ ve Doku Alınması, Saklanması ve Nakli Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun Teklifi, İstanbul Milletvekilleri Mahmut Tanal ve Mustafa Sezgin Tanrıkulu'nun; Sağlık Hizmetleri Temel Kanununda Deği-şiklik Yapılmasına Dair Kanun Teklifi, Tokat Milletvekili Orhan Düzgün'ün; Devlet Memurları Kanunu ve Bazı Ka-nunlarda Değişiklik Yapılması Hakkında Kanun Teklifi, İstanbul Milletvekili Mahmut Tanal'ın; Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanunda Değişiklik Yapıl-masına Dair Kanun Teklifine İlişkin (1/791, 2/159, 2/401, 2/592, 2/769, 2/1049) (S. Sayısı: 480 ve 480'e 1'inci Ek)",
+  "first_sitting_date": "2014-01-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 68,
+      "sitting": 42,
+      "sitting_date": "2014-01-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c068/tbmm24068042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c068/tbmm24068fih.pdf",
+      "pages": [
+        "330:384",
+        "385:394"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=4&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR%20%28G%D6R%DC%DE%DCLENLER%29&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR%20%28G%D6R%DC%DE%DCLENLER%29&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "fe0059d28fbcddf4fb59e90f2796b5446864737ae0ef2179dfe7906dab84875f",
+  "in_force": "2014-01-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
