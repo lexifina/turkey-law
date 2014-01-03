@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-155[1-2012/68]-5",
+  "source_id": 25113,
+  "date": "2014-01-03",
+  "title": "Zamanaşımı Süresi Geçtikten Sonra Resmi Daireye İbraz Edilen Kira Sözleşmesinin Damga Vergisi Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/25113",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "4cc65c0d8837066091cf409b364e144766e6663b394c21382742186c595b3638",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
