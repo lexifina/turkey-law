@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-01-03",
+  "issue": "28871",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gayrimenkul Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.3)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140103-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140103.htm",
+  "index_sha256": "a36ef156aa85e22605fb67bbc338ecf6143b86411631b65d8f0b29b40da8d916",
+  "index_header": "3 Ocak 2014 ... 28871 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140103.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
