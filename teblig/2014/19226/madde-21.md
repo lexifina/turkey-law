@@ -1,0 +1,2 @@
+Ortaklıkların kendi paylarını rehin olarak kabul etmesi
+MADDE 21 – (1) Ortaklıkların kendi paylarını rehin olarak kabul etmesi işlemlerinde; bu Tebliğin 2 nci maddesi, 5 inci maddesi, 6 ncı maddesinin birinci fıkrası, 7 inci maddesi, 8 inci maddesi, 9 uncu maddesinin birinci ve üçüncü fıkraları ile 10, 11, 12, 13, 16, 18, 19 ve 20 nci maddeleri kıyasen uygulanır. Ancak mülkiyetin rehin verende kaldığı rehin sözleşmelerinde bu Tebliğin 18 inci maddesi hükümleri uygulanmaz.

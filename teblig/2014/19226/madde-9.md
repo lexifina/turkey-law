@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Sınırlamalar
+Geri alınan paylara ilişkin işlem sınırları
+MADDE 9 – (1) Ortaklıkların bu Tebliğ hükümleri çerçevesinde geri alınan paylarının nominal değeri, daha önceki alımlar dahil ortaklıkların ödenmiş veya çıkarılmış sermayesinin yüzde onunu aşamaz. Geri alınan paylardan program süresince elden çıkarılanlar bu oranın hesaplanmasında indirim kalemi olarak dikkate alınmaz.
+(2) Payları borsada işlem gören ortaklıkların geri alınan payları borsada işlem gören nitelikte olmalı ve geri alım işlemleri yalnızca borsanın ortaklık paylarının işlem gördüğü pazarında gerçekleştirilmelidir. Önceden Kurulun uygun görüşünün alınması koşuluyla, bu Tebliğin 6 ncı maddesinde düzenlenen pay alım teklifi suretiyle geri alım işlemi kıyasen payları borsada işlem gören ortaklıklar tarafından da uygulanabilir.
+(3) Geri alınan payların toplam bedeli, Kurul düzenlemeleri çerçevesinde kâr dağıtımına konu edilebilecek kaynakların toplam tutarını aşamaz. Geri alım programı çerçevesinde gerçekleştirilecek geri alım işlemi öncesinde, Kurul düzenlemelerine uygun olarak hazırlanmış ve genel kurulda onaylanmış son yıllık finansal tablolar üzerinden söz konusu şarta uyum sağlanmasının temini yönetim kurulunun sorumluluğundadır.

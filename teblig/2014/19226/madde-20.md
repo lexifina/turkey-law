@@ -1,0 +1,3 @@
+Geri alınan payların muhasebeleştirilmesi
+MADDE 20 – (1) Geri alınan payların muhasebeleştirilmesinde Kurulun finansal raporlamaya ilişkin düzenlemeleri ile TMS/TFRS’ler esas alınır.
+(2) Geri alınan payların geri alım bedeli kadar yedek akçe ayrılarak öz kaynaklar altında kısıtlanmış yedek olarak sınıflandırılır. Geri alınan payların ve söz konusu yedek akçelerin finansal tablolarda gösterimi Kurul tarafından ilan edilen formatlar uyarınca yapılır. Bu fıkra kapsamında ayrılan yedekler, geri alınan paylar satıldıkları veya itfa edildikleri takdirde geri alım değerlerini karşılayan tutarda serbest bırakılır.

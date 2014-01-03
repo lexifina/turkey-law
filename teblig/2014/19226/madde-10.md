@@ -1,0 +1,3 @@
+Geri alım ve satım işlemlerinin yapılamayacağı haller
+MADDE 10 – (1) Ortaklıkça açıklanması ertelenmiş içsel bilgiler olması durumunda, bu Tebliğ kapsamında herhangi bir geri alım veya satım işlemi yapılamaz.
+(2) Esas sermaye sisteminde olan ortaklıklar tarafından sermaye artırımına ilişkin genel kurul kararı alındığı tarihten, kayıtlı sermaye sisteminde olan ortaklıklar tarafından ise sermaye artırımına ilişkin yönetim kurulu kararı alındığı tarihten sermaye artırım işlemlerinin tamamlandığı tarihe kadar, ortaklıklar ve/veya bağlı ortaklıkları tarafından bu Tebliğ kapsamında bir geri alım veya satım işlemi yapılamaz.

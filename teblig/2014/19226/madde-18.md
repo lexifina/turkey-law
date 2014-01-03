@@ -1,0 +1,4 @@
+Geri alınan paylara ilişkin haklar
+MADDE 18 – (1) Geri alınan paylar ortaklıkların genel kurullarında toplantı nisabının hesaplanmasında dikkate alınmaz.
+(2) Ortaklıkların geri alınan paylardan kaynaklanan bedelsiz paylara ilişkin hakları saklıdır. Ortaklıkların elde ettikleri bedelsiz paylar dahil geri alınan payları, kar payı ve yeni pay alma hakkı hariç hiçbir pay sahipliği hakkı vermez. Geri alınan paylara ilişkin yeni pay alma hakları, pazar açılması koşuluyla süresi içerisinde ortaklık tarafından ilgili pazarda satılır. Satılamayan yeni pay alma hakları nedeniyle kalan payların satış süreci ilgili düzenlemeler uyarınca gerçekleştirilir. Bağlı ortaklıkların satın aldığı ana ortaklığın paylarına ait oy hakları ile buna bağlı diğer haklar kendiliğinden donar.
+(3) Hakların donması hali, ancak payların ortaklığın veya bağlı ortaklığının elinde bulunduğu süreyle sınırlıdır. Bu payların üçüncü kişilere devri ile birlikte ortaklık hakları kendiliğinden doğar.

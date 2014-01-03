@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.19226",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GERİ ALINAN PAYLAR TEBLİĞİ (II-22.1)",
+  "number": "19226",
+  "issuer": "Kurul",
+  "path": "teblig/2014/19226",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19226&MevzuatTertip=5",
+  "source_sha256": "63b1d0d3be3d80008ee12dc0fd8446f2867fcb0dfe2134cd0bfdc9ca40968f2d",
+  "source_bytes": 70417,
+  "published": "2014-01-03",
+  "gazette": "28871",
+  "in_force": "2014-01-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.01.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4343,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
