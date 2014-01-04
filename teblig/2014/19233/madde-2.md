@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, kişilere gümrük mevzuatı uyarınca sahip oldukları haklara ve gümrük işlemlerinin daha az maliyet ve bürokrasi ile tamamlanmasına yönelik bilgi verilmesi, gümrük idarelerinde yaşanan gümrük mevzuatı ile ilgili genel nitelikteki ve/veya süreklilik arz eden konuların tek noktadan koordinasyonunun sağlanması ve sonuçlandırılmasına yönelik Gümrük ve Ticaret Bakanlığınca yürütülecek sektörel destekleme faaliyetlerine ilişkin usul ve esasları kapsar.
