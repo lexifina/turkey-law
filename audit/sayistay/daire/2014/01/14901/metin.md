@@ -1,0 +1,3 @@
+Üniversiteden mezun olmuş öğrencinin geçici mezuniyet belgesinin zamanında verilmemesi nedeniyle hak kaybına uğradığını ileri sürerek açmış olduğu dava sonucunda mahkeme kararı ile üniversite bütçesinden ödenen tazminat ve mahkeme masrafı için ilgililere rücu edilmemesi.
+
+Üniversiteden mezun olmuş öğrencinin geçici mezuniyet belgesinin zamanında verilmemesi nedeniyle hak kaybına uğradığını ileri sürerek açmış olduğu dava sonucunda mahkeme kararı ile üniversite bütçesinden ödenen tazminat ve mahkeme masrafı için ilgililere rücu edilmemesine ilişkin ……. TL hakkında, sorumluların savunmalarda belirttikleri gerekçelerle ve kamu zararı oluşmadığından ilişilecek bir husus bulunmadığına oybirliğiyle,
