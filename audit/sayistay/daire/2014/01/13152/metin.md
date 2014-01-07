@@ -1,0 +1,5 @@
+Konaklama Ücreti
+
+…......... Komutanlığı Kışlasındaki “kadrosuz ve sınıfsız” olarak işletilen sosyal tesiste “Görevli olmayan” statüsünde konaklayan ….........’dan “Görevli” olarak konaklayanlar için öngörülen ücretin tahsil edilmesi gerekçesiyle konu edilen …......... TL kamu zararı hususunda;
+
+Söz konusu eksik tahsilatın, “Ordu Evleri, Askeri Gazino ve Sosyal Tesisler Yönetmeliği” ile “Jandarma Genel Komutanlığı Sosyal Tesisler, Askeri Gazinolar ve Misafirhaneler İşletme Yönergesi” kapsamında yayımlanan ve 2012 yılı konaklama ücretlerini de ihtiva eden Jandarma Misafirhaneleri Uygulama Emrinde, “Görevli” ve “Görevli Olmayan” ayrımına gidilmesi ve görevli olarak konaklayanlardan ilk on gün için 30,00 TL, diğer günler için 10 TL olarak tahsil edilmesi öngörülen ücretin, görevli olmayanlar için 14,00 TL olarak belirlenmiş olması gerekçeleriyle mevzuata aykırı olduğu tespit edilmekle birlikte, ortaya çıkan kamu zararı tahsil edildiğinden ilişik kalmadığına ve tahsilatın ilamda gösterilmesine oy birliğiyle karar verildi.
