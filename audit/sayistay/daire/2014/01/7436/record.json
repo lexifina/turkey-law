@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35165",
+  "decision_date": "2014-01-07",
+  "source_id": 7436,
+  "chamber": "2",
+  "ilam_number": "50",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7436/",
+  "source_sha256": "f38257d29d795d9b968db61c026337c8aec19a51aca79db83f93bd071091ae03",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
