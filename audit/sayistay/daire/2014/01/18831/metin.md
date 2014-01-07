@@ -1,0 +1,3 @@
+Belediyeye ait olup kiralanan dükkan ile aynı adreste yer alıp sosyal tesis olarak kullanılan yerin elektrik, su ve doğalgaz bedellerinin yersiz olarak belediye bütçesinden ödenmesi
+
+… adresinde … Belediyesi’ne ait olup …’e kiralanan dükkan ile aynı adreste yer alıp sosyal tesis olarak kullanılan yerin elektrik, su ve doğalgaz bedellerinin yersiz olarak belediye bütçesinden ödendiği iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL tutarında kamu zararına neden olunduğu görülmüş ise de söz konusu kamu zararı … tarih ve … nolu tahsilat makbuzu ile nakden faiziyle birlikte tahsil edildiğinden bu miktar kamu zararı için ilişilecek husus kalmadığına oy birliğiyle,
