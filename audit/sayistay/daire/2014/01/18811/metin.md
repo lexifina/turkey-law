@@ -1,0 +1,5 @@
+Hatalı süre uzatımı verilmesi nedeni ile kesilmesi gereken gecikme cezasının kesilmemesi
+
+Müteahhit … Ltd. Şti. yükleniminde bulunan … TL sözleşme bedelli “… Yapılması işi” nde hatalı süre uzatımı verilmesi nedeni ile kesilmesi gereken gecikme cezasının kesilmemesi nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+İşe ait sözleşmenin 9’uncu maddesinde, havanın fen noktasından çalışmaya uygun olmayan dönemi ile resmi tatil günlerinin iş sürenin hesaplanmasında dikkate alındığı, aynı sözleşmenin 18.1.2. maddesi ve Yapım İşleri Genel Şartnamesinin 30’ncu maddesi hükümleri gereği firmanın mücbir sebeple ilgili olarak mücbir sebebin ortadan kalkmasından itibaren 20 gün içerisinde çalışamadığına ilişkin herhangi bir yazılı bildirimi bulunmadığından ayrıca iş artışından dolayı ilave süre verilmemesi hususunun ise idare ve yüklenicinin karşılıklı mutabakatı ile olduğu ve yüklenicinin iş artışı nedeniyle her hangi bir ek süre talebine rastlanılmadığından ve … TL kamu zararının … tarih ve … nolu makbuz ile tahsil edildiğnden ilişilecek husus kalmadığına oy birliğiyle,
