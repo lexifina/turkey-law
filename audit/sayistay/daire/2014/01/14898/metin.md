@@ -1,0 +1,5 @@
+Yurtdışında 13.10.2010-24.12.2011 tarihleri arasında görevlendirilen personele, gidiş-dönüş bileti bedeli ile birlikte 27/28.07.2011 tarihli uçak biletinin tutarının ödenmesi.
+
+Yurtdışında 13.10.2010-24.12.2011 tarihleri arasında görevlendirilen personele, gidiş-dönüş bileti bedeli ile birlikte 27/28.07.2011 tarihli uçak bileti bedelinin de ödendiği gerekçesiyle sorgu konusu yapılan ……. TL ilgilisinden tahsil edilmişse de; savunmalarda, tek yön uçak biletinin gidiş dönüş alınan uçak biletinden pahalı olması nedeniyle uçak biletinin 13.10.2010 gidiş tarihli ve 27/28.07.2011 dönüş tarihli alındığı, geçici görevlendirme süresi içerisinde gidilen ülkeden başka bir ülkeye gidilmediği, söz konusu uçuşun gerçekleştirilmediği belirtilmiş olup, bu hususların aksini tevsik eden bir belge ya da bilgi de mevcut olmadığından, kamu zararının oluşmadığına, bu nedenle yersiz tahsil edilen ……. TL’nin ahizine iadesine,
+
+Üye …….’ın; “Kamu zararı tahsil edildiğinden ilişilecek bir husus kalmadığına karar verilmesi gerekir.” şeklindeki ayrışık görüşüne karşı oyçokluğuyla,
