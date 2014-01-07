@@ -1,0 +1,3 @@
+Yüklenici teknik personel bildiriminde bulunmamasına ve teknik personel çalıştırmamasına rağmen, sözleşmede öngörülen ceza kesintisinin yapılmaması
+
+… tarihinde ihalesi yapılan … Ltd. Şti. yüklenimindeki “… İşi”nde yüklenici teknik personel bildiriminde bulunmamasına ve teknik personel çalıştırmamasına rağmen, sözleşmede öngörülen ceza kesintisinin yapılmaması sonucu kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL tutarında kamu zararına neden olduğu görülmüş ise de; bu kamu zararının tamamı … tarih ve … no’lu muhasebe işlem fişiyle tahsil edildiğinden bu miktar kamu zararı için ilişilecek husus kalmadığına oy birliğiyle,
