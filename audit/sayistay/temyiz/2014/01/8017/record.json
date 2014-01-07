@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38185",
+  "decision_date": "2014-01-07",
+  "source_id": 8017,
+  "chamber": "2",
+  "file_number": "38451",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8017/",
+  "source_sha256": "dae14f25eb8c46212aef601f1cb33c99869397192e9fc3c46ccd512c619c37e2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
