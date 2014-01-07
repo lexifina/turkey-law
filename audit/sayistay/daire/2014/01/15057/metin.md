@@ -1,0 +1,3 @@
+“……. Üniversitesi Nitelikli Personel Alımı” işinde asgari ücret fiyat farkının “4734 Sayılı Kamu İhale Kanunu’na Göre İhalesi Yapılacak Olan Hizmet Alımlarına İlişkin Fiyat Farkı Hesabında Uygulanacak Esaslar”a aykırı olarak %25 artırımlı ödenmesi.
+
+“……. Üniversitesi Nitelikli Personel Alımı” işinde asgari ücret fiyat farkının “4734 Sayılı Kamu İhale Kanunu’na Göre İhalesi Yapılacak Olan Hizmet Alımlarına İlişkin Fiyat Farkı Hesabında Uygulanacak Esaslar”a aykırı olarak %25 artırımlı ödenmesi sonucu sebep olunan ……. TL kamu zararı ……. tarih ve ……. sayılı alındı belgesi ile tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle,
