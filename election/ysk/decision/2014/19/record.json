@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/19",
+  "list_number": "19",
+  "decision_date": "2014-01-07",
+  "title": "30 Mart 2014 tarihinde yapılacak köy muhtarlığı ve ihtiyar meclisi üyeliği ile mahalle muhtarlığı ve ihtiyar heyeti üyeliği seçimlerine ilişkin olarak uygulanacak usul ve esasların belirlenmesine ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2542/2014-19.pdf",
+  "source_sha256": "941ca309d26a0ed2ba46efb3fbbcd19b856ef38b99dea9c965476046536579d5",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-01-07",
+  "law_text_complete": false
+}
