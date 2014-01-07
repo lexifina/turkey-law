@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38178",
+  "decision_date": "2014-01-07",
+  "source_id": 8010,
+  "chamber": "1",
+  "file_number": "34003",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8010/",
+  "source_sha256": "ca584e2b05f5950432cebdf71679f5fca15253cc0daf0dd18282c5ab5d284630",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
