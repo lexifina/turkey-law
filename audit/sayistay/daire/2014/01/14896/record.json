@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35165",
+  "decision_date": "2014-01-07",
+  "source_id": 14896,
+  "chamber": "2",
+  "ilam_number": "50",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14896/",
+  "source_sha256": "d7dc458f5ba85029db04d1da3b7c84a24b9fa39a26b2531b439fbdf858d86c21",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
