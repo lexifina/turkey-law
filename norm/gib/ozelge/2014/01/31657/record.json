@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "57062627-KDV-28-2",
+  "source_id": 31657,
+  "date": "2014-01-07",
+  "title": "Kooperatife borçlu durumda olanların gayrimenkullerinin icra dairesinde satışında KDV",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31657",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "82901dc20e226f6ee6c2a1b08baa75760db92c1d13ccef3bcdd513fdd81a7f8e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
