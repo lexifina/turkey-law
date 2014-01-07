@@ -1,0 +1,3 @@
+Üniversitesinin Ziraat Bankasında bulunan vadesiz mevduat hesaplarına taraflar arasında yapılan anlaşma gereği %3 oranında faiz uygulanması gerekirken, Bilimsel Araştırma Projelerine ilişkin mevduat hesabına faiz tahakkuk ettirilmemesi.
+
+Üniversitesinin Ziraat Bankasında bulunan vadesiz mevduat hesaplarına taraflar arasında yapılan anlaşma gereği %3 oranında faiz uygulanması gerekirken, Bilimsel Araştırma Projelerine ilişkin mevduat hesabına faiz tahakkuk ettirilmemesi sonucu sebep olunan ……. TL kamu zararı ……. tarih ve ……. sayılı muhasebe işlem fişi ile tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle,
