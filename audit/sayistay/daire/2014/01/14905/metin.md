@@ -1,0 +1,3 @@
+“Malzemesiz Genel Temizlik ve Çevre Temizliği Hizmeti İşi”ne ait idari şartnamede iş kazaları ve meslek hastalıkları sigorta prim oranı %1,5 olarak belirlendiği halde yüklenici tarafından Sosyal Güvenlik Kurumuna %1 oran üzerinden ödeme yapılması.
+
+“Malzemesiz Genel Temizlik ve Çevre Temizliği Hizmeti İşi”ne ait idari şartnamede iş kazaları ve meslek hastalıkları sigorta prim oranı %1,5 olarak belirlendiği halde yüklenici tarafından Sosyal Güvenlik Kurumuna %1 oran üzerinden ödeme yapılması sonucu sebep olunan ……. TL kamu zararı ……. tarih ve ……. sayılı ödeme emri belgesine bağlı hakedişten kesinti yapılmak suretiyle tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle,
