@@ -1,0 +1,3 @@
+Yüklenicinin hakediş bedelinden teknik şartname hükümleri doğrultusunda düşülmesi gereken bilet bedellerinin düşülmemesi
+
+… Belediyesi tarafından yüklenici … Ltd. Şti.’ne ihale edilen … TL bedelli … işinde; yüklenicinin hakediş bedelinden teknik şartname hükümleri doğrultusunda düşülmesi gereken bilet bedellerinin düşülmediği iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; … TL tutarında kamu zararına neden olunduğu görülmüş ise de söz konusu kamu zararı … tarih ve … nolu makbuz ile nakden tahsil edildiğinden bu miktar için ilişilecek husus kalmadığına oy birliğiyle,
