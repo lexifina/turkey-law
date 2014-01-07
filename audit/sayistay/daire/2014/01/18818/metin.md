@@ -1,0 +1,3 @@
+Yurtdışı görevlendirmelerinde, İçişleri Bakanlığının 20.06.2005 tarih 2005/62 sayılı genelgesinde belirtilen düzenlemelere riayet edilmemesi
+
+Yurtdışı görevlendirmelerinde, İçişleri Bakanlığının 20.06.2005 tarih 2005/62 sayılı Genelgesinde belirtilen düzenlemelere riayet edilmemesi sonucu kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, Yurtdışı görevlendirmelerinde, İçişleri Bakanlığının 20.06.2005 tarih 2005/62 sayılı Genelgesinde belirtilen düzenlemelere riayet edildiği ve usulüne uygun görevlendirme yapıldığı anlaşıldığından mevzuatına uygun … TL için ilişilecek husus bulunmadığına oy birliğiyle,
