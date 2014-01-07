@@ -1,0 +1,3 @@
+Kesin teminatın güncelleme yapılarak gelir kaydedilmemesi
+
+Müteahhit … Limited Şirketi Yükleniminde bulunan … TL bedelli “… İnşaat” işine at sözleşme, … tarihinde 4735 sayılı Kamu İhale Sözleşme Kanunu’nun 20’nci maddesi kapsamında feshedilmesinden dolayı, kesin teminatın güncelleme yapılarak gelir kaydedilmemesi sonucu kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; … TL tutarında kamu zararına neden olunduğu görülmüş ise de söz konusu kamu zararından … TL’si … tarih ve … yevmiye nolu ve kalan … TL’si ise (faiz dahil) … tarih ve … yevmiye nolu muhasebe işlem fişleri ile mahsuben tahsil edildiğinden bu miktar kamu zararı için ilişilecek husus kalmadığına oy birliğiyle,
