@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "177",
+  "decision_date": "2014-01-07",
+  "source_id": 7439,
+  "chamber": "3",
+  "ilam_number": "39",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7439/",
+  "source_sha256": "041fd9fe5d12627793c1d2538b5e45ce9266771abc8e30e5445745fcccc7ffe4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
