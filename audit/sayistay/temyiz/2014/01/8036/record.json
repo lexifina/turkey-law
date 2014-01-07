@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38204",
+  "decision_date": "2014-01-07",
+  "source_id": 8036,
+  "chamber": "8",
+  "file_number": "37145",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8036/",
+  "source_sha256": "4333101d6df5568af1ad96a0b28427b6124f045c7863501af13e271208ef16f2",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
