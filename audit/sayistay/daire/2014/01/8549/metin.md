@@ -1,0 +1,3 @@
+İdare tarafından düzenlenen tutanakla yüklenici firmadan kesilmesi gereken cezanın hakediş dosyasında kesilmesine rağmen ödeme emrinde dikkate alınmadan ödemede bulunulması
+
+… Ltd. Şti. yükleniminde bulunan … TL sözleşme bedelli “… Yapılması İşi”nde; idare tarafından düzenlenen 05.11.2012 tarihli tutanakla yüklenici firmadan kesilmesi gereken cezanın hakediş dosyasında kesilmesine rağmen ödeme emrinde dikkate alınmadan ödemede bulunulması nedeniyle kamu zararına sebep olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; … TL tutarında kamu zararına neden olunduğu görülmüş ise de söz konusu kamu zararı … tarih ve … no’lu makbuz ile tahsil edildiğinden ilişilecek husus kalmadiğina oy birliğiyle,
