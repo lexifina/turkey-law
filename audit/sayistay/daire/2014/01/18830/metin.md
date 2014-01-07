@@ -1,0 +1,3 @@
+Resmi daireler için belirlenen su tüketim bedeli yerine daha yüksek bedel üzerinden su tüketim bedeli ödenmesi
+
+… Belediyesi tarafından … A.Ş.’ye ödenen su faturalarında, … Su ve Kanalizasyon İdaresi tarafından resmi daireler için belirlenen su tüketim bedeli yerine daha yüksek bedel üzerinden su tüketim bedeli ödenmesi sonucu kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … TL tutarında kamu zararına neden olunduğu görülmüş ise de söz konusu kamu zararı … tarih ve … nolu makbuz ile tahsil edildiğinden bu miktar kamu zararı için ilişilecek husus kalmadığına oy birliğiyle,
