@@ -1,0 +1,2 @@
+Ders muafiyeti
+MADDE 13 – (1) Herhangi bir Yükseköğretim Kurumuna kayıtlı iken, Ölçme, Seçme ve Yerleştirme Sınavı sonucu, Çanakkale Onsekiz Mart Üniversitesi fakülte ve yüksekokullarına kaydını yaptıran öğrenciler, daha önce kayıtlı bulundukları yükseköğretim kurumundan başarmış oldukları dersler için, öğrenimine başladıkları ilk yarıyılın ilk haftasında başvurarak, muafiyet talebinde bulunabilirler. Muafiyet işlemlerinde Çanakkale Onsekiz Mart Üniversitesi Önlisans-Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinin hükümleri geçerlidir.

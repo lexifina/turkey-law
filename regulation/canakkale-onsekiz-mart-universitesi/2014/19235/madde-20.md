@@ -1,0 +1,3 @@
+Not ortalamaları
+MADDE 20 – (1) Öğrencilerin başarı durumları, 19 uncu maddeye göre derslerden almış oldukları notlar ve derslerin kredileri ile hesaplanan yarıyıl/dönem not ortalaması ve genel not ortalaması değerleriyle izlenir.
+(2) Dönem not ortalaması bir yarıyılda aldıkları derslerin her birinin kredisi ile bu derslerden alınan notların çarpımları toplamının aynı derslerin kredi toplamına bölünmesi, genel not ortalaması ise tüm yarıyıllarda aldıkları derslerin her birinin kredisi ile bu derslerden alınan notların çarpımları toplamının tüm derslerin kredi toplamına bölünmesi ile elde edilir.

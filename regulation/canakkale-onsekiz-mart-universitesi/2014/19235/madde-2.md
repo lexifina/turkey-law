@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Çanakkale Onsekiz Mart Üniversitesine bağlı uzaktan eğitim-öğretim yapan birimlerde ön lisans ve lisans düzeyinde yürütülen eğitim-öğretim programlarına, öğretim, sınav ve değerlendirme esaslarına, öğrenci kabulüne, diploma ve unvanlara, devamlı ve geçici ayrılma işlemlerine, diğer öğretim çalışmaları ile akademik danışmanlık işlemlerine ilişkin hükümleri kapsar.
