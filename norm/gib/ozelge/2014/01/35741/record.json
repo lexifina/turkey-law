@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-140[57/2012-4]-1",
+  "source_id": 35741,
+  "date": "2014-01-08",
+  "title": "Tevhit işlemi sırasında bedelsiz olarak kamuya yol, park ve kıyı olarak yapılan terkinin Mahkeme kararına göre eski haline iadesine karar verilmesi durumunda harç uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35741",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "0c1b804553f0dacf9b2a9b9432867a983d718e4f779acf4c6b0acebc4680b7cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
