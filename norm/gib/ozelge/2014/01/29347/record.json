@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64958909-015-1",
+  "source_id": 29347,
+  "date": "2014-01-08",
+  "title": "Yurtdışında mukim firmaların, firmanıza yurt dışında müşteri bulma hizmetinde (komisyon) KDV",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29347",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "8d4e1abf4a356df8db89ed1664e96291d5fffb9b00d2c37b68f9f4db521ee66c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
