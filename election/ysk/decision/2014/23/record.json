@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/23",
+  "list_number": "23",
+  "decision_date": "2014-01-08",
+  "title": "30 Mart 2014 tarihinde yapılacak mahalli idareler seçimlerinde Sandık Kurullarının Görev ve Yetkilerini Gösterir Örnek: 138 sayılı Genelge ile Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2540/2014-23.pdf",
+  "source_sha256": "e248db1a96f7754079a7cb635ae65f5b82f24f0d0abc0c3b2f10f2034ac47c45",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 32,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-01-08",
+  "law_text_complete": false
+}
