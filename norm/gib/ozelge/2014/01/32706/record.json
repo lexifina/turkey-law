@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37009108-130[28. Md.-2013-3307]-4",
+  "source_id": 32706,
+  "date": "2014-01-08",
+  "title": "Yem hazırlama ve paketleme makinesinin KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32706",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "bbe337862cd69b0c9e22df37927a73384f69eb21979c08700d6993451b74eb2e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
