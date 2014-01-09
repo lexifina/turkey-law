@@ -1,0 +1,3 @@
+Gayrimenkullerin kiraya verilmesine ilişkin ihale kararından, 488 sayılı Damga Vergisi Kanunu’na ekli 1 sayılı Tablonun “II. Kararlar ve Mazbatalar” başlığının 2’nci bendi uyarınca damga  vergisi kesintisinin yapılmaması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, gayrimenkullerin kiraya verilmesine ilişkin ihale kararlarından, 488 sayılı Damga Vergisi Kanununa ekli 1 sayılı Tablonun “II. Kararlar ve Mazbatalar” başlığının 2’nci bendi uyarınca alınması gereken damga vergisinin alınmaması sonucu … TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizlerinden ...tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle,
