@@ -1,0 +1,27 @@
+BAKIM ONARIM GİDERİ
+
+…………. Bölge Müdürlüğünde bağlı …………. Yurdu için ve …………. Bölge Müdürlüğüne bağlı ………….  Yurdu için yüklenici tarafından karşılanması gereken giderler bütçeden ödenmiştir.
+
+Yapım İşleri Genel Şartnamesinin “Yüklenicinin bakım ve düzeltme sorumlulukları” başlıklı 25 inci maddesi 4 üncü fıkrasında aynen;
+
+“(4) Yapım işlerinde yüklenici ve alt yükleniciler, yapının fen ve sanat kurallarına uygun olarak yapılmaması, hileli malzeme kullanılması ve benzeri nedenlerle ortaya çıkan zarar ve ziyandan, yapının tamamı için işe başlama tarihinden itibaren kesin kabul tarihine kadar sorumlu olacağı gibi, kesin kabul onay tarihinden itibaren de on beş yıl süreyle müteselsilen sorumludur. Bu zarar ve ziyan genel hükümlere göre yüklenici ve alt yüklenicilere ikmal ve tazmin ettirilir. Ayrıca haklarında 4735 sayılı Kanunun 27 nci maddesi hükümleri uygulanır.” denilmektedir.
+
+Yukarıdaki mevzuat hükmüne göre; yapım işlerinde yüklenici ve alt yükleniciler, yapının fen ve sanat kurallarına uygun olarak yapılmaması sebebiyle ortaya çıkan zarar ve ziyandan kesin kabul tarihine kadar sorumlu olacaktır, ayrıca bu zarar ve ziyan genel hükümlere göre yüklenici ve alt yüklenicilere ikmal ve tazmin ettirilecektir. Kesin kabulü yapılmamış olan …………. Yurdunun mücbir sebep sayılamayacak bir rüzgâr nedeniyle alüminyum doğramalarının kırılması ve hasar görmesi sonucu oluşan zararın yükleniciye tazmin ettirilmeden 1301 yevmiye numaralı ödeme emri ile bütçeden karşılanması, yine kesin kabulü yapılmamış ………….  Yurdunun yüklenici tarafından yapılması gereken tadilat giderlerinin yükleniciye tazmin ettirilmeden 5033 yevmiye numaralı ödeme emri ile bütçeden karşılanması, Yapım İşleri Genel Şartnamesinin yukarıda yazılı hükmüne aykırıdır.
+
+Sorumlulardan  …………. Bölge Müdürü Vekili …………. savunmasında, “Bölge Müdürlüğümüze bağlı …………. Yurt Müdürlüğünün geçici kabulü 03.02.2012 tarihinde …………. TL nefaset bedeli kesintisi yapılmak suretiyle gerçekleşmiştir. Geçici kabulün ardından, yurt müdürlüğümüz binasına personel atamaları gerçekleştirilmiş ve bina fiili olarak kurumumuzca kullanılmaya başlanmıştır. Sorguya konu alım 29.08.2012 tarihinde yapılmış olup, 10 litre Selülozit tiner, 20 adet şamandıra, 10 tüp silikonlu yapıştırıcı, 1 paket vida ve 1 torba kalekim alınmıştır.
+
+Yurt Müdürlüğümüz binasında …………. Belediye Başkanlığının talebi üzerine, 01.06.2012 tarihinde misafir barınmıştır. Söz konusu alımın, yurt binasının Kurumumuz tarafından fiili olarak kullanılıyor olması nedeniyle, kullanımdan kaynaklanan arızalara ilişkin olacağı değerlendirilerek ve Kurumumuzun, Yüksek Öğrenim öğrencilerinin barınma ihtiyacını karşılayan bir kurum olduğu gözetilerek, yurt müdürlüğümüzce, öğrenci kabulüne başlamadan hemen önce, öğrenci memnuniyeti ve hizmet kalitesi etkenleriyle birlikte, her hangi bir öğrenci şikâyetine ve olayına meydan verilmemesi için küçük bakım onarım malzemesi ihtiyacını bildirmiş ve Bölge Müdürlüğümüzce onay verilmek suretiyle alım gerçekleştirilmiştir. Alımı gerçekleştirilen malzemeler paket halinde satılan malzemelerdir. Malzemelerin az bir kısmı kullanımdan kaynaklanan arızaların giderilmesinde kullanılmış olup,  kalan kısmı acil durumlarda kullanılmak üzere yurt müdürlüğümüz deposunda muhafaza edilmektedir. Konuya ilişkin belgeler ekte sunulmuştur.” denilmektedir.
+
+Diğer sorumlu …………. Bölge Müdürü Vekili …………. göndermiş olduğu savunmasında, başka bir harcama yetkilisinin onayı ile ilgili Yurt Müdürlüğüne harcama talimatı verildiğini, dolayısıyla da bu iş ve işlemle ilgili sorumluluğunun bulunmadığını belirtmiş, işin devamında da gerçekleştirme görevlisinin, kurumun “ön ödeme usul ve esaslarının uygulanmasına ilişkin talimatta” belirtildiği şekilde harcama belgelerinin kontrolü görevini ifa ederek işin yaptırıldığını ve ödemenin yapılması gerektiğini kendisine bildirdiğini ve kendisinin de bundan sonra ödeme emrini imzaladığını belirtmiştir.
+
+5018 sayılı Kamu Mali Yönetim ve Kontrol Kanunun “Harcama talimatı ve sorumluluk” başlıklı 32 nci maddesi ilk fıkrasına göre bütçelerden harcama yapılabilmesi, harcama yetkilisinin harcama talimatı vermesiyle mümkündür. Ancak aynı kanunun “Giderin gerçekleştirilmesi” başlıklı 33 üncü maddesi ilk fıkrasına göre ise; giderlerin gerçekleştirilmesi; harcama yetkililerince belirlenen görevli tarafından düzenlenen ödeme emri belgesinin harcama yetkilisince imzalanması ve tutarın hak sahibine ödenmesiyle tamamlanır. Başka bir ifade ödeme emri belgesi harcama yetkilisince imzalanmadan harcama sürecinin son aşaması olan ödeme yapılamamaktadır. Sürecin başında harcama talimatını veren başka bir harcama yetkilisi de olsa ödemenin yapılması, ödeme emrinin sorumlu harcama yetkilisi tarafından imzalanması ile mümkündür.
+
+Sorumlulardan  …………. Bölge Müdürü Vekili ………….’ın göndermiş olduğu savunması ve savunmaya ekli belgeler yeterli görüldüğünden, mevzuatına uygun olduğu anlaşılan …………. TL ile ilgili olarak ilişilecek husus bulunmadığına oybirliği ile,
+
+Yukarıda yazılı mevzuat hükümleri ve yapılan açıklamalar uyarınca; yüklenici tarafından karşılanması gereken giderlerin bütçeden ödenmesi sonucu oluşan toplam …………. TL’lik kamu zararının ise;
+
+………….’ya,
+
+6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizleri ile tek başına ödettirilmesine,
+
+(Daire Başkanı ………….’…, ilgilinin sorumluluk yönünden yaptığı itirazın yerinde olduğu, bu nedenle tazmin hükmü verilemeyeceği şeklindeki ayrışık görüşüne karşılık) oyçokluğu ile karar verildi.
