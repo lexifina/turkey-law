@@ -26,8 +26,8 @@ c) Ceza infaz kurumuna geri dönmek istemesi,
 hâlinde, denetimli serbestlik müdürlüğünün talebi üzerine, koşullu salıverilme tarihine kadar olan cezasının infazı için kapalı ceza infaz kurumuna gönderilmesine, infaz hâkimi tarafından karar verilir.
 (7) Hükümlü hakkında;
 a) İşlediği iddia olunan başka bir suçtan dolayı 5271 sayılı Ceza Muhakemesi Kanununun 100 üncü maddesinde sayılan nedenlerle tutuklama kararı verilmesi,
-b) Denetimli serbestlik tedbiri uygulanmaya başlanmasından önce işlediği iddia olunan ve cezasının üst sınırı yedi yıldan az olmayan bir suçtan dolayı soruşturma veya kovuşturmaya devam edilmesi,
-c) Denetimli serbestlik tedbiri uygulanmaya başlandıktan sonra işlediği iddia olunan ve cezasının alt sınırı bir yıl veya daha fazla olan kasıtlı bir suçtan dolayı soruşturma veya kovuşturma başlatılması,
+b) (İptal: Anayasa Mahkemesi’nin 26/12/2013 tarihli ve E.: 2013/33, K.: 2013/69 sayılı Kararı ile.)
+c) (İptal: Anayasa Mahkemesi’nin 26/12/2013 tarihli ve E.: 2013/33, K.: 2013/69 sayılı Kararı ile.)
 hâlinde, denetimli serbestlik müdürlüğünün talebi üzerine, infaz hâkimi tarafından, hükümlünün kapalı ceza infaz kurumuna gönderilmesine karar verilir. Hükümlü hakkında soruşturma sonucunda kovuşturmaya yer olmadığı veya kovuşturma sonucunda beraat, ceza verilmesine yer olmadığı, davanın reddi veya düşme kararı verilmesi hâlinde, hükümlünün cezasının infazına denetimli serbestlik tedbiri uygulanarak devam olunmasına infaz hâkimi tarafından karar verilir.
 (8) Denetimli serbestlik müdürlüğüne müracaat etmesi gereken sürenin bitiminden itibaren iki gün geçmiş olmasına karşın müracaat etmeyenler ile kapalı ceza infaz kurumuna iade kararı verilmesine rağmen iki gün içinde en yakın Cumhuriyet başsavcılığına teslim olmayan hükümlüler hakkında, 5237 sayılı Türk Ceza Kanununun 292 nci ve 293 üncü maddelerinde yazılı hükümler uygulanır.
 (9) Yükümlülüklerin gereklerine ve denetim planına uygun davranan hükümlünün koşullu salıverilmesi hakkında denetimli serbestlik müdürlüğü tarafından hazırlanan gerekçeli rapor, 107 nci ve 108 inci maddeler uyarınca işlem yapılmak üzere ilgili mahkemeye gönderilir.
