@@ -1,0 +1,3 @@
+İşçi statüsünde çalışan personele öğrenim yardımı adı altında yapılan ödemelerden 193 sayılı Gelir Vergisi Kanunu uyarınca gelir vergisi kesintisi yapılmaması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … Belediyesi’nde işçi statüsünde çalışan personele öğrenim yardımı adı altında  yapılan ödemelerden  193 sayılı Gelir Vergisi Kanunu uyarınca gelir vergisi kesintisi yapılmaması sonucu … TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararının … TL’sinin … tarih ve … no’lu ödeme emri ile, …  ..… TL’sinin … tarih ve … no’lu ödeme emri ile ahizlerinden tahsil edildiği anlaşıldığından ilişilecek husus kalmadığına  oy birliğiyle,
