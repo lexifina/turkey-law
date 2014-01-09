@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4846",
+  "decision_date": "2014-01-09",
+  "title": "Danıştay tarafından iptal edilen 1008 sayılı Kurul Kararının Esgaz Doğal Gaz Dağıtım A.Ş (ESGAZ) ve Bursagaz Doğal Gaz Dağıtım A.Ş (BURSAGAZ) için uygulandığı dönemlerde geçerli olmak üzere ilgili şirketlerin taşıma bedellerine yönelik Karar",
+  "resmi_gazete_date": "2014-01-30",
+  "resmi_gazete_number": "28898",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IkKPQBaQ+xg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IkKPQBaQ+xg="
+  ],
+  "source_sha256": "16ebf5159a7c7dfff515c45e13ed1d4b7f197250c54ff6d9f05a536ac20fc0fd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-01-09",
+  "law_text_complete": false
+}
