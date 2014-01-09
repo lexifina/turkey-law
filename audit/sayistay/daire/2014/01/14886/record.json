@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35169",
+  "decision_date": "2014-01-09",
+  "source_id": 14886,
+  "chamber": "2",
+  "ilam_number": "89",
+  "item_number": 9,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14886/",
+  "source_sha256": "9dd31d097f03d24d7a36b6429775201af1d0e5e7a55f71b9d1775617d325e6df",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
