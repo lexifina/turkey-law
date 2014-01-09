@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19248",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ANALİTİK PROSEDÜRLER (BDS 520) HAKKINDA TEBLİĞTÜRKİYE DENETİM STANDARTLARI TEBLİĞİ NO: 20",
+  "number": "19248",
+  "issuer": "Kurum Başkanı",
+  "path": "teblig/2014/19248",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19248&MevzuatTertip=5",
+  "source_sha256": "87e9a3a62b5486f1fde4f7dec37dcc1f94689fec84bf7d024e0885ddcae006a6",
+  "source_bytes": 8926,
+  "published": "2014-01-09",
+  "gazette": "28877",
+  "in_force": "2014-01-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.01.2014); own commencement article: \"Bu Tebliğ 1/1/2013 tarihinde ve sonrasında başlayacak hesap dönemlerinden itibaren uygulanmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2013 tarihinde ve sonrasında başlayacak hesap dönemlerinden itibaren uygulanmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 189,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19248-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
