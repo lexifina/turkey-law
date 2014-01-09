@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "44",
+  "decision_date": "2014-01-09",
+  "source_id": 13790,
+  "chamber": "4",
+  "ilam_number": "118",
+  "item_number": 4,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13790/",
+  "source_sha256": "f1146ab33d1c0a79abb7707ddd63c1a710734e87b58b57b27bafe1db5af33092",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
