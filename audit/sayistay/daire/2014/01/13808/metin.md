@@ -1,0 +1,7 @@
+GECİKME CEZASI
+
+…………. Bölge Müdürlüğü’nce ihalesi gerçekleştirilen …………. Alımı işine ait bazı hakedişlerde, yükleniciden kesilmesi gereken gecikme cezalarının bulunduğu görülmüştür.
+
+İşe ait şartname ve sözleşme hükümlerinin birlikte değerlendirilmesinden; İdarenin ihtiyacı olan yakıtın mücbir sebep olmadığı takdirde siparişin verildiği tarihi müteakip en geç iki iş günü içinde İdareye gündüz mesai saatlerinde yüklenici tarafından teslim edilmesi, yakıtın süresinde teslim edilememesi halinde İdare tarafından yükleniciye yazılı ihtar yapılarak gecikilen her takvim günü için teslim edilmeyen kısmın bedelinin % 0,5’i (binde beşi) oranında gecikme cezası uygulanması ve cezaların da ayrıca protesto çekmeye gerek kalmaksızın yükleniciye yapılacak ödemelerden kesilmesi gerektiği anlaşılmaktadır.  2012 yılı içerisinde düzenlenmiş ve söz konusu alıma ilişkin hakediş ödemelerine esas 1451, 1794, 2656, 3512 yevmiye numaralı ödeme emirleri ve eklerinin incelenmesinde; yükleniciye yapılan ödemelerden, akaryakıtın teslimi için kendisine verilen sürelere riayet etmeksizin teslimatlar yapmasına rağmen, sözleşmede belirlenen gecikme cezalarının, kesilmediği tespit edilmiştir.
+
+Sorumluların ortak savunmaları ve ekli belgelerin birlikte incelenmesi ve değerlendirilmesi sonucunda, kamu zararı olarak gösterilen …………. TL’nin tahsil edildiği anlaşıldığından ilişilecek husus kalmadığına oy birliğiyle karar verildi.
