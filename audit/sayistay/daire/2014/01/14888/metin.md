@@ -1,0 +1,3 @@
+13.09.2012 tarihli ve … sayılı onay belgesinde … Kampusü Yabancı Diller Binası Tadilat Onarımı İşinin yapılacağı belirtilmesine rağmen mahal listesinde yer alan işler ile onay belgesinde yer alan işlerin farklı olması.
+
+Harcama yetkilisi tarafından verilen harcama talimatı mahal listesindeki imalatları kapsamakta iken, onay belgesinde bu mahal listesindeki imalatlara yer verilmemiş olması ve sadece bir binaya aitmiş gibi düzenlenmesinin sehven yapıldığı ve sehven onay belgesinde yer almayan imalatların tamamının mahal listeleri ve muayene ve kabul tutanağında gösterildiği üzere tam ve eksiksiz olarak yaptırıldığı anlaşıldığından mevzuatına uygun olan … TL ile ilgili olarak ilişilecek husus bulunmadığına oybirliğiyle,
