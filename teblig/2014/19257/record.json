@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19257",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BAĞIMSIZ DENETİM KANITLARI-BELİRLİ KALEMLER İÇİN DİKKATE ALINMASI GEREKEN ÖZEL HUSUSLAR(BDS 501) HAKKINDA TEBLİĞ TÜRKİYE DENETİM STANDARTLARI TEBLİĞİ NO: 17",
+  "number": "19257",
+  "issuer": "Kurum Başkanı",
+  "path": "teblig/2014/19257",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19257&MevzuatTertip=5",
+  "source_sha256": "a01620a81f1930f2889a6f82e13f774c001675398fe842f64f5a1f4ed404db50",
+  "source_bytes": 9303,
+  "published": "2014-01-10",
+  "gazette": "28878",
+  "in_force": "2014-01-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.01.2014); own commencement article: \"Bu Tebliğ 1/1/2013 tarihinde ve sonrasında başlayacak hesap dönemlerinden itibaren uygulanmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2013 tarihinde ve sonrasında başlayacak hesap dönemlerinden itibaren uygulanmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 204,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19257-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
