@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.19250",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "YAŞAR ÜNİVERSİTESİ AÇIK VE UZAKTAN ÖĞRENME UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "number": "19250",
+  "issuer": "YAŞAR ÜNİVERSİTESİ",
+  "issuer_slug": "yasar-universitesi",
+  "path": "regulation/yasar-universitesi/2014/19250",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19250&MevzuatTertip=5",
+  "source_sha256": "3dab33cda8e9cdf5ec7c334db2b92f9ea2834fdc83b2f74ea25c25fee2ed99ba",
+  "source_bytes": 23418,
+  "published": "2014-01-10",
+  "gazette": "28878",
+  "in_force": "2014-01-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.01.2014); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1103,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
