@@ -1,0 +1,3 @@
+İhale yetkilisi
+MADDE 34 – (1) (Değişik:RG-10/1/2014-28878) Yetki ve yetki limitlerinin değiştirilmesi 4734 sayılı Kamu İhale Kanununda eşik değerler göz önüne alınarak ve/veya gerektiğinde günün şartlarına göre İhale işlemlerini yürüten ilgili birimin teklifi, Şirketin uygun görüşü üzerine, Yönetim Kurulunun kararıyla belirlenir.
+(2) İhaleye çıkma kararı verme, ihale sonucunu onaylama veya iptal etme ve harcama yetkilisi olarak 4734 sayılı Kamu İhale Kanunu hükümlerine göre yapılacak ihaleler için Şirket Yönetim Kurulu kararıyla belirlenmiş/belirlenecek kurul ve makamlar belirtilen limitler dâhilinde bu Yönetmelik kapsamında yapılacak ihalelerde de ihale yetkilisidir.

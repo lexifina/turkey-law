@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.12661",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TTA GAYRİMENKUL ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜNÜN, 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (A) VE (G) BENTLERİ KAPSAMINDA YAPACAĞI MAL VE HİZMET ALIMLARI HAKKINDA YÖNETMELİK",
+  "number": "12661",
+  "issuer": "tta Gayrimenkul Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "tta-gayrimenkul-anonim-sirketi-genel-muduru",
+  "path": "regulation/tta-gayrimenkul-anonim-sirketi-genel-muduru/2008/12661",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12661&MevzuatTertip=5",
+  "source_sha256": "d58279b79f256aff3a5636dc205b7969cbf6caca8053e65e5c7a3c3c1605f1d4",
+  "source_bytes": 214468,
+  "published": "2008-12-20",
+  "gazette": "27086",
+  "in_force": "2014-01-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/1/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-01-10",
+      "RG-10/1/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-01-10",
+      "10/1/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11958,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

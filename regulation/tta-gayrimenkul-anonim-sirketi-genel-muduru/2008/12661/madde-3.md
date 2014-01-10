@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Aday/İstekli: Bu Yönetmeliğe göre yapılacak ihalelerde teklif verebilecek durumda olan ve/veya veren tedarikçi veya hizmet sunucusunu,
+b) Alım: Kamu İhale Kanununun 3 üncü maddesinin (a) ve (g) bentleri kapsamında mal veya hizmet teminini,
+c) (Değişik:RG-10/1/2014-28878) Hizmet: 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin (a) bendi kapsamında temin edilecek hizmetler ile Kamu İhale Kurumu tarafından tta Gayrimenkul Anonim Şirketi Genel Müdürlüğü için 4734 sayılı Kanunun 3 üncü maddesinin (g) bendine göre istisna kapsamında kabul edilen hizmetleri,
+ç) Hizmet sunucusu: Hizmet alım ihalesine teklif veren gerçek ve tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
+d) (Değişik:RG-10/1/2014-28878) İdare: tta Gayrimenkul Anonim Şirketi Genel Müdürlüğü,
+e) İhale: Bu Yönetmelikte belirtilen usul ve şartlarla, işin isteklileri arasından seçilecek birisi üzerine bırakıldığını gösteren ve ihale yetkilisinin onayını müteakip sözleşmenin imzalanmasıyla tamamlanan işlemleri,
+f) İhale dokümanı: İsteklilere talimatları da içeren idarî, teknik, özel şartnameler ile sözleşme tasarısı ve gerekli diğer belge ve bilgileri,
+g) İhale onay belgesi: İdarenin ihaleye çıkılması hususunun ihale yetkilisince onaylandığını gösteren belgeyi,
+ğ) İhale yetkilisi: İdarenin ihale ve harcama yapma yetki ve sorumluluğuna sahip kişi veya kurulları ile usulüne uygun olarak yetki devri yapılmış görevlilerini,
+h) (Değişik:RG-10/1/2014-28878) İlgili birim: tta Gayrimenkul Anonim Şirketi Genel Müdürlüğü ile Daire Başkanlıklarını,
+ı) İş: Mal veya hizmet alımlarını,
+i) (Değişik:RG-10/1/2014-28878) İşletme: İşletme Müdürlüklerini,
+j) Kamu kurum ve kuruluşları: Genel yönetim kapsamındaki kamu idareleri ile kamu iktisadi teşebbüsleri, kanunla kurulmuş kamu tüzel kişiliğine sahip kuruluşları ve sayılan idarelerin sermayesinin en az %50’sine sahip oldukları işletmeleri,
+k) Ortak girişim: İhaleye katılmak üzere birden fazla gerçek veya tüzel kişinin aralarında yaptıkları anlaşmayla oluşturulan iş ortaklığını,
+l) Sözleşme: İdare ile yüklenici arasında yapılan yazılı anlaşmayı,
+m) Şartname: Yapılacak işlerin genel, özel, teknik ve idarî esas ve usullerini gösteren ve İdare tarafından hazırlanan veya benimsenen belge veya belgeleri,
+n) (Değişik:RG-10/1/2014-28878) Şirket: tta Gayrimenkul Anonim Şirketi Genel Müdürlüğünü,
+o) Tedarikçi: Mal alım ihalesine teklif veren gerçek ve tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
+ö) Teklif: Bu Yönetmeliğe göre yapılacak ihalelerde isteklinin İdareye sunduğu fiyat teklifi ile değerlendirmeye esas belge ve/veya bilgileri,
+p) Yüklenici: Üzerine ihale yapılan ve sözleşme imzalanan istekliyi,
+ifade eder.

@@ -1,0 +1,3 @@
+Komisyon kararı
+MADDE 44 – (1) İhale komisyonu, yukarıda belirtilen değerlendirmeden sonra ihalede oluşan fiyatları uygun bulmaması hâlinde bütün tekliflerin reddedilmesine ve ihalenin iptaline ihalede oluşan fiyatı uygun bulması durumunda ihalenin fiyatı uygun bulunan istekli üzerine bırakılmasına ve ikinci durumdaki isteklinin teminatının tutulmasına, dair kararlardan birini alır.
+(2) Kararda isteklilerin ticaret unvanları, teklif edilen bedeller, ihalenin tarihi ve hangi istekli üzerinde bırakıldığı, bütün tekliflerin reddedilmesi hâlinde ise ihale iptal nedenleri ayrıntılı olarak belirtilir.

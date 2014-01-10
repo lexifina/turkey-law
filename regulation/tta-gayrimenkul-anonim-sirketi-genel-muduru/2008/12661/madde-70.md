@@ -1,0 +1,2 @@
+Tütün ekicilerine muhtelif malzeme temini
+MADDE 70 – (1) Mahsulleri İdarece avanslı bulunan tütün ekicilerine veya alımları tasarlanan tütünleri ekenlere, mahallî idare teşkilatının göstereceği lüzum üzerine ve bilahare aynen iade edilmediği takdirde, rayiç bedelleri alım bedellerinden indirilmek kaydıyla, onaya yetkili mercilerin kararı ile denk ağacı, kanaviçe çul, ip ve diğer malzemeler dağıtılabilir.

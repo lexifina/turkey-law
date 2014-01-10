@@ -1,0 +1,3 @@
+Bedel indirimiyle kabul
+MADDE 66 – (1) Mal veya hizmetin sözleşme ve şartnameye göre tespit edilen cins, miktar ve kalite farkları ve diğer hususların bunların tahsis edileceği birim ve amaçlarda kullanılmasına engel teşkil edecek derecede önemli bulunmadığı veya üretilecek malın kalitesini düşürmeyeceği tespit edildiği takdirde, kusur ve noksanın mahiyetine göre bir fiyat indirim yapmak suretiyle söz konusu mal ve hizmetin teslim alınmasına, onay mercilerince kabul edilmesi şartıyla, ilgili birimlerce kurulacak komisyonlar tarafından karar verilebilir.
+(2) Komisyonun bedel indirimiyle alınmaya ilişkin kararının tasvip görmemesi hâlinde, mal veya hizmet reddedilir. Bu takdirde, yüklenici herhangi bir talepte bulunamaz.

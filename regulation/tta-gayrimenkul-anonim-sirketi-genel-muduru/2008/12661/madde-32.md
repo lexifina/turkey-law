@@ -1,0 +1,10 @@
+Teminatların geri verilmesi
+MADDE 32 – (1) Geçici ve kesin teminatların geri verilmesinde aşağıdaki esaslara uyulur.
+a) Geçici teminatların iadesi:
+1) İhaleden sonra isteklilere ait teminat mektupları muhasebe birimine teslim edilir. İhale komisyonu kararından sonra ihale üzerinde kalan istekli ile ikinci teklif sahibi istekliye ait teminat mektupları hariç diğer isteklilere ait teminat mektupları iade edilir.
+2) İhale üzerinde kalan isteklinin geçici teminatı ise, gerekli kesin teminatın verilip sözleşmeyi imzalaması hâlinde iade edilir.
+3) İkinci durumda bulunan teklif sahibine ait teminat, ihale üzerinde kalan istekliyle sözleşme imzalanmasından hemen sonra iade edilir.
+4) Geçici teminatın iadesi, istekliye veya yetkili temsilcisine imza karşılığı elden teslim edilmek suretiyle yapılır. Ancak, idareye dilekçe aslı verilmek koşuluyla ilgili banka şubesine de iadesi yapılabilir.
+b) Kesin teminatın iadesi:
+1) İşin, sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirildiği ve yüklenicinin bu işten dolayı idareye herhangi bir borcunun olmadığı ilgili birimce tespit edildikten sonra, alınmış olan kesin teminat ve varsa ek kesin teminatlar Sosyal Güvenlik Kurumundan ilişiksiz belgesinin getirildiği saptandıktan sonra alınan mal veya yapılan iş için bir garanti süresi öngörülmesi hâlinde yarısı, garanti süresi dolduktan sonra kalanı, garanti süresi öngörülmeyen hâllerde ise tamamı, yükleniciye iade edilir. Yüklenicinin bu iş nedeniyle idareye ve Sosyal Güvenlik Kurumuna olan borçları ile ücret ve ücret sayılan ödemelerden yapılan kanuni vergi kesintilerinin işin kabul tarihine veya varsa garanti süresinin bitimine kadar ödenmemesi hâlinde, protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin teminatlar paraya çevrilerek borçlarına karşılık mahsup edilir, varsa kalanı yükleniciye geri verilir.
+2) İşin konusunun piyasadan hazır hâlde alınıp satılan mal alımı olması hâlinde (işçi çalıştırılmaması durumunda) Sosyal Güvenlik Kurumundan ilişiksiz belgesi getirilmesi şartı aranmadan, kesin teminat yükleniciye iade edilir.

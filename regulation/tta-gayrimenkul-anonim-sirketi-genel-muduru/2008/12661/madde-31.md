@@ -1,0 +1,2 @@
+Teminat aranmayacak hâller
+MADDE 31 – (1) Bu Yönetmelik kapsamında yapılacak mal ve hizmet alımı ihalelerine genel yönetim kapsamındaki kamu idareleri ile kamu iktisadi teşebbüsleri, kanunla kurulmuş kamu tüzel kişiliğine sahip kuruluşları ve sayılan idarelerin sermayesinin en az %50’sine sahip oldukları işletmeler, hayır kurumları, kamu yararına çalışan dernek ve kuruluşların katılması hâlinde, ihale yetkilisinin onayıyla bu kurum ve kuruluşlardan geçici ve kesin teminat alınmayabilir.

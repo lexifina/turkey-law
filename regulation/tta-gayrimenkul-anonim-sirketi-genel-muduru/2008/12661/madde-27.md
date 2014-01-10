@@ -1,0 +1,2 @@
+Kesin teminat
+MADDE 27 – (1) Taahhüdün sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla, sözleşmenin yapılmasından önce ihale üzerinde kalan istekliden ihale bedeli üzerinden hesaplanmak suretiyle %6 oranında kesin teminat alınır. İdarece mal ve hizmet alımlarının özelliğine göre, işin süresinin iki katından az olmamak üzere, kesin teminat mektubunda süre belirtilir.
