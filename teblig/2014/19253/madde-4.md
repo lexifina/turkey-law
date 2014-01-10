@@ -1,0 +1,3 @@
+Mevcut önlemler
+MADDE 4 – (1) 12/1/2009 tarihli ve 27108 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2009/1) ile ÇHC, Endonezya ve Hindistan menşeli sentetik ve suni devamsız liflerden iplikler (kesik elyaf ipliği) ithalinde dampinge karşı kesin önlemler yürürlüğe konulmuştur.
+(2) Bu kapsamda, ÇHC menşeli olanlar için 0,49 ABD Doları/Kg ile 0,80 ABD Doları/Kg arasında değişen tutarlarda; Endonezya menşeli olanlar için 0,23 ABD Doları/Kg ile 0,40 ABD Doları/Kg arasında değişen tutarlarda; Hindistan menşeli olanlar için ise 0,29 ABD Doları/Kg ile 0,39 ABD Doları/Kg arasında değişen tutarlarda dampinge karşı önlem uygulanmaktadır.
