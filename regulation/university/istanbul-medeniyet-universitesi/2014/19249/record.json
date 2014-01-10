@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-medeniyet-universitesi/2014/19249",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28878",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-01-10",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İstanbul Medeniyet Üniversitesi",
+  "issuer_slug": "istanbul-medeniyet-universitesi",
+  "kind": "regulation",
+  "published": "2014-01-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19249&MevzuatTertip=5",
+  "source_id": "8.5.19249",
+  "source_sha256": "90890a823ca372476ac8ffc63647fa39d8236ed41ee2d2aa790d955aa5594aed",
+  "title": "İSTANBUL MEDENİYET ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 414,
+  "version_label": "oldest version available",
+  "word_count": 829
+}
