@@ -1,0 +1,3 @@
+Yatırıma başlama ve bitirme süreleri
+MADDE 10 – (1) Uygulanacak hibe desteğinden, projesi onaylanan ve projesinde belirtilen süre içinde yatırımı tamamlanan işletmeler yararlanır. Projede termin planı başlangıcı, proje yatırıma alındıktan sonra yatırım yerine gidilerek başlama tutanağı tarihi itibari ile başlar ve bir yıl içerisinde bitirilir. Termin planındaki sürede tamamlanamayan yatırımlarda yatırımcının gerekçesi ile yapacağı başvuru üzerine il proje değerlendirme komisyonunun görüşü ve Merkez Proje Yürütme Komisyonunun kararıyla ek süre verilir.
+(2) Termin planına göre yükümlülüklerini yerine getirmeyen veya yatırım yapmaktan vazgeçen yatırımcının projesi iptal edilir ve hibe desteğinden yararlandırılmaz.

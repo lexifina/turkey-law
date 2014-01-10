@@ -1,0 +1,3 @@
+Geçici hükümler
+MADDE 18 – (Değişik:RG-10/1/2014-28878) (1)
+(1) 29/9/2009 tarihli ve 2009/15498 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Güneydoğu Anadolu Projesi Eylem Planı Kapsamındaki İllerde Süt Sığırcılığı Yatırımlarının Desteklenmesine İlişkin Karar ile 21/1/2010 tarihli ve 2010/34 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Doğu Anadolu Projesi Kapsamındaki İllerde Etçi ve Kombine Irklarla Kurulacak Damızlık Sığır İşletmesi Yatırımlarının Desteklenmesine İlişkin Karar kapsamında, 2011 ve 2012 yılları içerisinde yatırıma alınan ve yatırımı tamamlanamayan işletmelere yatırımlarını tamamlamak üzere Bakanlıkça ek süre verilir. Bu süre sonunda yatırımı tamamlanamayan projeler iptal edilir.
