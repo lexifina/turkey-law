@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Aday/İstekli: Bu Yönetmeliğe göre yapılacak ihalelerde teklif verebilecek durumda olan ve/veya veren katılımcıları,
+b) (Değişik:RG-10/1/2014-28878) İdare: tta Gayrimenkul Anonim Şirketi Genel Müdürlüğünü,
+c) İhale: Bu Yönetmelikte belirtilen usul ve şartlarla, işin istekliler arasından seçilecek birisi üzerine bırakıldığını gösteren ve ihale yetkilisinin onayını müteakip sözleşmenin imzalanmasıyla tamamlanan işlemleri,
+ç) İhale dokümanı: İsteklilere talimatları da içeren idarî, teknik, özel şartnameler ile sözleşme tasarısı ve gerekli diğer belge ve bilgileri,
+d) İhale onay belgesi: İdarenin ihaleye çıkılması ve tasdiki hususlarının ihale yetkilisince onaylandığını gösteren belgeyi,
+e) İhale yetkilisi: İdarenin ihale ve harcama yapma yetki ve sorumluluğuna sahip kişi veya kurulları ile usulüne uygun olarak yetki devri yapılmış görevlilerini,
+f) (Değişik:RG-10/1/2014-28878) İlgili birim: tta Gayrimenkul Anonim Şirketi Genel Müdürlüğü ile Bağlı İşletmelerini,
+g) İş: Bu Yönetmelikte belirtilen her türlü satım ve kiraya verme işlerini,
+ğ) (Değişik:RG-10/1/2014-28878) İşletme: İşletme Müdürlüklerini,
+h) Kamu kurum ve kuruluşları: Genel yönetim kapsamındaki kamu idareleri ile kamu iktisadi teşebbüsleri, kanunla kurulmuş kamu tüzel kişiliğine sahip kuruluşları ve sayılan idarelerin sermayesinin en az %50’sine sahip oldukları işletmeleri,
+ı) Kiraya verme: Taşınır ve taşınmazlar ile her türlü ihtiyaç maddeleri ve hakların en iyi şekilde uygun değer ve koşullarla zamanında kiraya verilmesini,
+i) Ortak girişim: İhaleye katılmak üzere birden fazla gerçek veya tüzel kişinin aralarında yaptıkları anlaşmayla oluşturulan iş ortaklığını,
+j) Satım: Taşınır ve taşınmazlar ile her türlü ihtiyaç maddeleri ve hakların en iyi şekilde uygun değer ve koşullarla zamanında satımını,
+k) Sözleşme: İdare ile yüklenici arasında yapılan yazılı anlaşmayı,
+l) Şartname: Yapılacak işlerin genel, özel, teknik ve idarî esas ve usullerini gösteren ve İdare tarafından hazırlanan veya benimsenen belge veya belgeleri,
+m) (Değişik:RG-10/1/2014-28878) Şirket: tta Gayrimenkul Anonim Şirketi Genel Müdürlüğünü,
+n) Teklif: Bu Yönetmeliğe göre yapılacak ihalelerde isteklinin İdareye sunduğu fiyat teklifi ile değerlendirmeye esas belge ve/veya bilgileri,
+o) Yüklenici: Üzerine ihale yapılan ve sözleşme imzalanan istekliyi,
+ifade eder.

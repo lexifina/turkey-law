@@ -1,0 +1,2 @@
+Düzeltme ilanı
+MADDE 16 – (1) İlanda değişiklik yapılması zorunlu görülürse, değişiklikler ve nedenleri bir tutanakla tespit edilir. Yapılmış ilana ilaveten yeniden ilan ve düzeltme ilanı ihale tarihinden en az bir hafta önce ilan edilmek kaydıyla yeniden yapılır. Gerektiğinde ihale tarihi yeniden belirlenebilir. Bu durumda, ilk ilan nedeniyle istekliler İdare’den herhangi bir masraf talebinde bulunamazlar.

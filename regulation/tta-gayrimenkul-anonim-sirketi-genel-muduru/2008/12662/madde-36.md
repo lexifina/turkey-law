@@ -1,0 +1,3 @@
+Sözleşmenin imza süresi
+MADDE 36 – (1) İhale üzerinde kalan istekliler, ihalenin ihale yetkilisince tasdik edildiğinin kendilerine tebliği tarihinden itibaren on gün içinde kesin teminatlarını İdare veznesine vermeye, şartnamede yazılı damga vergisi, resim, harç ve diğer masrafları kendilerine ait olmak üzere imzalayacakları sözleşmeyi veya taahhütnameyi, bu Yönetmelik uyarınca yapılacak protokoller ve akdedilecek sözleşmeleri, şartnamesinde hüküm olması hâlinde notere tescil ettirerek İdareye vermeye mecburdurlar. Yabancı istekliler için yukarıda belirtilen süreye on gün daha eklenir.
+(2) Sözleşme, protokol ve taahhütnamelere, şartnameler eklenir.

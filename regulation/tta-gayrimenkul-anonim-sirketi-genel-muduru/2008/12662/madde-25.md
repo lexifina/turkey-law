@@ -1,0 +1,2 @@
+Teminat aranmayacak hâller
+MADDE 25 – (1) Bu Yönetmelik kapsamında yapılacak satım ve kiraya verme ihalelerine genel yönetim kapsamındaki kamu idareleri ile Kamu İktisadi Teşebbüsleri, kanunla kurulmuş kamu tüzel kişiliğine sahip kuruluşları ve sayılan İdarelerin sermayesinin en az %50’sine sahip oldukları işletmeleri, hayır kurumları, kamu yararına çalışan dernek ve kuruluşların katılması hâlinde ihale yetkilisinin onayı ile bu kurum ve kuruluşlardan geçici ve kesin teminat alınmayabilir.

@@ -1,0 +1,2 @@
+Tekliflerin geçerlilik süresi
+MADDE 19 – (1) Tekliflerin asgari geçerlilik süresi ihale dokümanında belirtilir. İdare ihtiyaç duyulması hâlinde bu süreyi sözleşme koşulları değiştirilmemek kaydıyla en fazla ihale dokümanında belirtilen teklif geçerlilik süresi kadar uzatılmasını teklif sahiplerinden yazılı olarak isteyebilir. İstekliler cevaplarını yazılı olarak belirtilen süre içinde bildirirler. Kabul etmeyen istekliler ihale dışı kalır. İhale dışı kalanların geçici teminatları iade edilir.
