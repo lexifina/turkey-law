@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/37",
+  "list_number": "37",
+  "decision_date": "2014-01-11",
+  "title": "PAMUKKALE TV logosuyla yayın yapan kanalın yayın yasakları ihlali nedeniyle uyarılmasına ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2526/2014-37.pdf",
+  "source_sha256": "7031d2ed4289b03125cc14f3aae2c697a2ed87acc286f80ca6ee5b6e519b0e19",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-01-11",
+  "law_text_complete": false
+}
