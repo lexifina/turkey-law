@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/43",
+  "list_number": "43",
+  "decision_date": "2014-01-12",
+  "title": "30 Mart 2014 tarihinde yapılacak Mahalli İdareler Genel Seçimlerinde siyasi partilerin aday listelerinde ve bağımsız aday başvurularında uyulması gereken usuller, bağımsız aday teminatının belirlenmesi, istifa sekil ve usulleriyle bağımsız aday kurasının çekilmesinde usul ve esaslarının belirlenmesine ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2518/2014-43.pdf",
+  "source_sha256": "b20a1e4a94c78f2c59275e6da8857637dc4adc27398ee9e9ae6e7864ec853e04",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 7,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-01-12",
+  "law_text_complete": false
+}
