@@ -1,0 +1,2 @@
+Köprü finansman
+MADDE 9 – (1) Mali İşbirliği çerçevesinde sözleşme hükümlerinden doğan köprü finansmana ilişkin ödeme talepleri, Müsteşarlık bütçesinde bu amaçla ayrılan ödenekten Ulusal Fon hesaplarına aktarılmak suretiyle karşılanır. İlgili fonun Komisyon tarafından Ulusal Fonun hesaplarına transferini müteakip, Avrupa Birliği katkısı olarak ulusal kaynaklardan kullandırılan fon tutarı, genel bütçeye gelir kaydedilir.

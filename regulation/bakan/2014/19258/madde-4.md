@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Hazine Müsteşarlığının bağlı olduğu Başbakan Yardımcısı,
+b) Çerçeve Anlaşma: 3/12/2008 tarihli ve 5824 sayılı Kanun ile uygun bulunan Türkiye Cumhuriyeti ve Avrupa Toplulukları Komisyonu Arasında Katılım Öncesi Yardım Aracı (IPA) ile Temin Edilen Yardımın Uygulanması Çerçevesinde Türkiye Cumhuriyetine Sağlanan Avrupa Topluluğu Mali Yardımlarıyla İlgili İşbirliği Kuralları Hakkında Çerçeve Anlaşmayı,
+c) Eş finansman: Çerçeve Anlaşmaya göre ulusal kaynaklardan ayrılması gereken fonları,
+ç) Katılım Öncesi Yardım Aracı: Mali İşbirliği kapsamında oluşturulan Geçiş Dönemi Yardımı ve Kurumsal Yapılanma, Sınır Ötesi İşbirliği, Bölgesel Kalkınma, İnsan Kaynaklarını Geliştirme ve Kırsal Kalkınma bileşenleri çerçevesinde sağlanan fonları,
+d) Komisyon: Avrupa Komisyonunu,
+e) Köprü finansman: Avrupa Birliği tarafından taahhüt edilen fonların transferinin geciktiği veya Komisyon’dan alınan avans ve ara ödemeler toplamının Finansman Anlaşmaları’nda belirtilen eşiğe ulaştığı durumlarda harcamaların ulusal kaynaklardan geçici olarak karşılanması işlemini,
+f) Mali İşbirliği: Türkiye Cumhuriyeti ile Komisyon arasında akdedilen anlaşmalar çerçevesinde sağlanan hibe niteliğindeki mali yardımları,
+g) Mali düzeltme: Avrupa Komisyonu tarafından belli bir program veya proje için sağlanan fonların tamamının veya belirli bir kısmının iadesi ile sonuçlanan mali yaptırımları,
+ğ) Müsteşarlık: Hazine Müsteşarlığını,
+h) Nihai yararlanıcı: Mali İşbirliği kapsamında bireysel hibe ve doğrudan hibe de dâhil olmak üzere hibe programları kapsamında bir projenin sahibi olan gerçek ve tüzel kişileri,
+ı) Ödeme Ajansı: Tarım ve Kırsal Kalkınmayı Destekleme Kurumunu,
+i) Program yararlanıcısı: Mali İşbirliği kapsamında Bölgesel Kalkınma, İnsan Kaynaklarını Geliştirme ve Kırsal Kalkınma bileşenleri kapsamında yürütülen programların ilgili mevzuat ve uluslararası anlaşmalar çerçevesinde hazırlanması ve uygulamanın yürütülmesinden sorumlu kurumları,
+j) Proje yararlanıcısı: Mali İşbirliği kapsamında yürütülen bir program çerçevesinde finanse edilen bir projeyi yürüten kamu kurum ve kuruluşlarını,
+k) Ulusal Fon: Müsteşarlık bünyesinde Ulusal Yetkilendirme Görevlisi’nin sorumluluğu altında, Mali İşbirliği çerçevesinde sağlanacak yardımların mali yönetimi ile görevli birimi,
+l) Ulusal Yetkilendirme Görevlisi: Ulusal Fon’a başkanlık eden görevliyi,
+m) Uygulama Birimi: Bölgesel Kalkınma ve İnsan Kaynaklarını Geliştirme Bileşenlerine ilişkin olarak program yararlanıcısını, Katılım Öncesi Yardım Aracı dönemi öncesinde akdedilen anlaşmalar kapsamında ve Geçiş Dönemi Yardımı ve Kurumsal Yapılanma ile Sınır Ötesi İşbirliği bileşenlerinde Merkezi Finans ve İhale Birimini,
+n) Usulsüzlük: Çerçeve Anlaşmanın 28 inci maddesinin dördüncü fıkrasının (a) bendinde tanımlanan fiili veya ihmali,
+o) Yüklenici: Mali İşbirliği kapsamında imzalanan sözleşmeler çerçevesinde mal veya hizmet tedariki ile yapım işlerini yerine getirmeyi üstlenen gerçek ve tüzel kişileri,
+ifade eder.

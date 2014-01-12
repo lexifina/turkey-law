@@ -1,0 +1,2 @@
+Gecikme faizi
+MADDE 7 – (1) Komisyona yapılacak ödemelerde veya iadelerde gecikme faizi gibi nedenlerden doğabilecek ilave finansman ihtiyaçları Katılım Öncesi Yardım Aracı Bölgesel Kalkınma, İnsan Kaynaklarını Geliştirme ve Kırsal Kalkınma Bileşenleri kapsamında program yararlanıcısı, Geçiş Dönemi Yardımı ve Kurumsal Yapılanma ile Sınır Ötesi İşbirliği Bileşenlerinde ise Uygulama Birimi vasıtasıyla proje yararlanıcısı tarafından karşılanır.
