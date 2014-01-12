@@ -1,0 +1,7 @@
+İzleme Programı ve Numune Alma
+Alabalık ve sazan zonundaki su alanlarının belirlenmesi ve bu sulara ilişkin su kalite parametre değerleri ve analiz şartları
+MADDE 5 – (1) Alabalık ve sazan zonundaki su alanları bu Yönetmelikte belirtilen süre ve izleme çalışmaları ile kirlilik azaltım programlarının hazırlanması ve uygulanması için gereken süreler göz önünde bulundurularak Gıda, Tarım ve Hayvancılık Bakanlığı tarafından belirlenir. Bu sularda, Ek-1’in Z sütununda verilen değerlere uyulması zorunludur.
+(2) Gıda, Tarım ve Hayvancılık Bakanlığı, belirlenmiş sulara, gerektiğinde ilave olarak yeni su alanları belirleyebilir, belirlenmiş olan su alanlarında, Bakanlığın uygun görüşünü alarak değişiklik yapabilir.
+(3) Belirlenmiş suların kalite parametre değerleri, bu parametre değerlerinin hesaplanmasında kullanılacak referans analiz metotları, limit değerler ve yorumlar ile numune alma ve ölçüm sıklığı Ek-1’de verilmiştir.
+(4) Bakanlık, Gıda, Tarım ve Hayvancılık Bakanlığı ile birlikte gerektiğinde bu parametreler dışında yeni parametreleri belirleyebilir, parametrelerle alakalı düzenlemeler yapabilir ve Ek-1’de verilen değerlerden daha düşük limit değerler uygulayabilir.
+(5) Ulusal ve uluslararası standart metotlardan farklı metotlar uygulayan laboratuvarlar ile arazide mobil cihazlar ile analiz yapan laboratuvarlar elde ettikleri sonuçların ulusal ve uluslararası standart metotlarla kıyaslanabilir olmasını sağlamakla yükümlüdür.
