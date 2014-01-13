@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.19260",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2004 YORK ANVERS KURALLARI",
+  "number": "19260",
+  "path": "teblig/2014/19260",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19260&MevzuatTertip=5",
+  "source_sha256": "1be7e092ee7ba197208bb12190672a52a16c9a77031e563e7514a320783d2b64",
+  "source_bytes": 109941,
+  "published": "2014-01-13",
+  "gazette": "28881",
+  "in_force": "2014-01-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.01.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7428,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
