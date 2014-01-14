@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "179",
+  "decision_date": "2014-01-14",
+  "source_id": 12728,
+  "chamber": "3",
+  "ilam_number": "119",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12728/",
+  "source_sha256": "c9d9f52c0545023470a3670e1fa007b780192e5aa0b4a5ac369310e5e2180953",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
