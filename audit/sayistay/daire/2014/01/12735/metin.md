@@ -1,0 +1,33 @@
+İhale Damga Vergisi
+
+	………. Ltd. Şti. ile ………. Ltd. Şti. Ortak Girişimi yüklenimindeki ………. TL bedelli ve ……….sözleşme tarihli anahtar teslimi götürü bedel “………. İnşaat İşi” nde, yükleniciden mevzuata aykırı bir şekilde ihale damga vergisi kesilmemesi suretiyle ………. TL tutarında kamu zararına sebebiyet verilmesi hususu ile ilgili olarak dosyada mevcut bilgi ve belgeler incelenmiştir.
+
+ 27 Şubat 2004 tarih ve 25386 sayılı Resmi Gazete’de yayımlanan “1 Seri Nolu Döviz Kazandırıcı Faaliyetlerde Damga Vergisi ve Harç İstisnası Uygulaması Hakkındaki Tebliğ”in “Uygulamaya İlişkin Esaslar” başlıklı 4 üncü maddesinin (4.3) fıkrasında;
+
+“Yurtiçi uluslararası ihale konusu işlerle, yabancı para ile finanse edilen kamu yatırımlarında işin proje safhasından başlayarak ihale makamına teslimine kadar geçecek süre içerisinde, ihale makamı ile müteahhit arasında yapılan işlemlerle bu konuda düzenlenen kağıtlara, damga vergisi ve harç istisnası uygulaması, bu işlemler ve kağıtların söz konusu işlerle ilgili olduğunun tevsiki ile mümkündür” denilmiştir.
+
+Aynı Maddenin (4.6) fıkrasında ise;
+
+“Yukarıdaki (4.3), (4.4) ve (4.5) fıkralarında yer alan hususlardaki ihale kararlarına tevsik edilmesi kaydıyla belge aranmaksızın re'sen istisna tatbik edilecektir.
+
+ Sözü edilen işlerle ilgili sözleşme safhası da dahil olmak üzere, takip eden safhalarda düzenlenen diğer kağıtlar ve yapılan işlemlere damga vergisi ve harç istisnasının tatbiki için, bu konuda düzenlenmiş bulunan Vergi Resim Harç İstisnası Belgesinin ibrazı şarttır.” hükmü bulunmaktadır.
+
+ 05.12.2008 tarih ve 27075 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren “İhracat, Transit Ticaret, İhracat Sayılan Satış ve Teslimler İle Döviz Kazandırıcı Hizmet ve Faaliyetlerde Vergi, Resim ve Harç İstisnası Hakkında Tebliğ (İhracat: 2008/6)”in 6 ncı maddesinin ihracat sayılan satış ve teslimler ile döviz kazandırıcı hizmet ve faaliyetlerin düzenlendiği 3 üncü fıkrasının (a) bendinde;
+
+ “Devlet Planlama Teşkilatı (DPT) Müsteşarlığınca yayımlanan cari yıl yatırım programında yer alan kamu yatırımlarından uluslararası ihaleye çıkarılanların (Yerli ve yabancı firmaların ayrı ayrı veya birlikte iştirakine açık olmak üzere) ihalesini kazanan veya yabancı para ile finanse edilenlerin yapımını üstlenen firmaların” ifadesi yer almaktadır.
+
+ “........... İnşaat İşi” 4734 Sayılı Kamu İhale Kanunu’nun 20 nci maddesi uyarınca belli istekliler arasında ihale usulü ile yerli ve yabancı isteklilere açık (uluslararası) olarak gerçekleştirilmiş ve ………. Müsteşarlığının ………. tarih ve ………. sayılı müracaatına bağlı olarak, DPT Müsteşarlığının ………. tarih ve ……….sayılı yazısı ile tevsik edildiği üzere, DPT Proje No: ………. kod numarası ile Devlet Planlama Teşkilatı Yatırım Programında yer alan bir kamu yatırım projesi olup, ihalenin yapıldığı cari yıl olan 2009 yılına ilişkin olarak, 15 Ocak 2009 tarihli ve 27111 sayılı (mükerrer) Resmi Gazete’de yayımlanan 2009 Yılı Yatırım Programı’nda aynı kod ile yer almıştır.
+
+ 18.12.2009 tarihinde İhale Komisyonu tarafından ihale karara bağlanmış olup, 18.12.2009 tarihi itibariyle Kamu İhale Kanunu (KİK) mevzuatı uyarınca, muhtemel itirazlara yönelik 10 (on) günlük yasal bekleme süresi başlamış ve yüklenici ………. İş Ortaklığı 28.12.2012 tarihinde ………. Müsteşarlığı`na müracaat ederek, Vergi, Resim ve Harç İstisnası Belgesi alabilmek için Dış Ticaret Müsteşarlığı İhracat Genel Müdürlüğüne verilmek üzere İş Durum Belgesi düzenlenmesi talebinde bulunmuş ve Dış Ticaret Müsteşarlığı tarafından 05.12.2008 tarih ve 27075 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren “İhracat, Transit Ticaret, İhracat Sayılan Satış ve Teslimler İle Döviz Kazandırıcı Hizmet ve Faaliyetlerde Vergi, Resim ve Harç İstisnası Hakkında Tebliğ (İhracat: 2008/6)”in 6 ncı maddesinin ihracat sayılan satış ve teslimler ile döviz kazandırıcı hizmet ve faaliyetlerin düzenlendiği 3 üncü fıkrasının (a) bendi uyarınca, yükleniciye 29.12.2009 tarih ve ………. sayılı Vergi, Resim ve Harç İstisnası Belgesi verilmiştir.
+
+ 27 Şubat 2004 tarih ve 25386 sayılı Resmi Gazete’de yayımlanan “1 Seri Nolu Döviz Kazandırıcı Faaliyetlerde Damga Vergisi ve Harç İstisnası Uygulaması Hakkındaki Tebliğ”in 4.6. maddesinde, ilgili sözleşme safhası da dahil olmak üzere, takip eden safhalarda düzenlenen diğer kağıtlar ve yapılan işlemlere damga vergisi ve harç istisnasının tatbiki için, bu konuda düzenlenmiş bulunan Vergi Resim Harç İstisnası Belgesinin ibrazı şart olduğu ve bu belgenin resen işin tüm aşamalarında uygulanacağı ifade edilmiştir.
+
+ Bu itibarla, ………. Ltd. Şti. ile ……….  Ltd. Şti. Ortak Girişimine yüklenimindeki ………. TL bedelli ve ………. sözleşme tarihli anahtar teslimi götürü bedel “………. İnşaat İşi” nde, yükleniciden ihale damga vergisi kesilmemesi nedeniyle sorgu konusu edilen ………. TL kamu zararına hakkında ilişik bulunmadığına, hesap ve işlemlerin yasal düzenlemelere uygun olduğuna,
+
+ Üye  ………. ve Üye ………. `ın “5 Aralık 2008 tarih ve 27075 sayılı Resmi Gazete'de yayımlanan “İhracat, Transit Ticaret, İhracat Sayılan Satış ve Teslimler ile Döviz Kazandırıcı Hizmet ve Faaliyetlerde Vergi, Resim ve Harç İstisnası Hakkında Tebliğ”in “Belge süresi ve ek süreler” başlıklı 8 inci maddesinin 2 nci fıkrasında ‘Süre başlangıcı, vergi resim harç istisnası belgesinin tarihidir…..”denilmiş, aynı Tebliğin “Belgeli işlemler” başlıklı 6 ncı maddesinin 1 inci fıkrasına göre damga vergisi istisnasından yararlanmak için vergi resim harç istisnası belgesi alınması gerekmekte ve belge müracaat tarihi ile belge tarihi arasında yapılan işlemlere istisna uygulanmayacağı ifade edilmektedir.
+
+ 27 Şubat 2004 tarih ve 25386 sayılı Resmi Gazete’de yayımlanan “1 Seri Nolu Döviz Kazandırıcı Faaliyetlerde Damga Vergisi ve Harç İstisnası Uygulaması Hakkındaki Tebliğ”in 4 üncü maddesinin 1 inci fıkrasının 3 üncü paragrafında “Belgenin alınmasından önce veya belgenin geçerlilik süresinin dolmasından sonra, belgeye bağlanan iş ile ilgili olarak yapılan işlemlere, damga vergisi ve harç istisnası tatbik edilmeyecektir.” denilmektedir.
+
+ ………. İnşaatı işinde ihale kararının onayı 18.12.2009 tarihi iken istisna belgesinin müracaat ve kabul tarihi 29.12.2009 dur. Anılan mevzuat hükümleri çerçevesinde, ihale kararından kesilmesi gereken damga vergisi 18.12.2009 tarihinde tahakkuk etmiş ancak söz konusu istisna belgesi 29.12.2009 tarihinde alınmıştır. Dolayısıyla istisna belgesi geriye dönük sonuç doğurmayacağından bu belgeden önce tahakkuk eden ihale damga vergisinin kesilmesi icap etmektedir.
+
+ Bu itibarla, ihale kararından damga vergisi kesilmemesi suretiyle oluşan ………. TL tutarındaki kamu zararının sorumlulara ortaklaşa ve zincirleme ödettirilmesi gerekir.” şeklindeki karşı görüşlerine karşı oyçokluğuyla karar verildi.
