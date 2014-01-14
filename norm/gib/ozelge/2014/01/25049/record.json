@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-032-21",
+  "source_id": 25049,
+  "date": "2014-01-14",
+  "title": "Alınacak ihbar tazminatından ödenen 1/3'lük kısmının mı yoksa toplam ikramiyenin mi beyan edileceği ile istisnanın nasıl uygulanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/25049",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "67fd40ce5121ca4010c76796fe347332428353ec2aa32201c60623bb6417be64",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
