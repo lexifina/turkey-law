@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "178",
+  "decision_date": "2014-01-14",
+  "source_id": 8503,
+  "chamber": "3",
+  "ilam_number": "115",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8503/",
+  "source_sha256": "798abad094fdb1f6714c5347dad40679ccae178d3d8225ebe3635fc84f77b73a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
