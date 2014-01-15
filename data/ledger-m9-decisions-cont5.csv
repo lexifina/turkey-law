@@ -1,0 +1,4 @@
+source_id,decision_date,decision_number,official_pdf_url,source_sha256,act_path,index_date,coverage_note,normative_images,nonnormative_image_placements
+2887,2010-08-26,650,https://www.ysk.gov.tr/doc/karar/dosya/2887/2010-650.pdf,c81faaf25f2a1596cb10ba92ae1a11fdc23c2f48e96479662c18e93dfc0ecbf1,election/ysk/decision/2010/650,2010-08-25,complete linked official PDF; separately referenced general circulars not sourced,0,1
+2532,2014-01-09,29,https://www.ysk.gov.tr/doc/karar/dosya/2532/2014-29.pdf,56930e9534c5dcdebcc5416638093fefd3d52a1265216ed60e58b8352b4216c0,election/ysk/decision/2014/29,2014-01-08,complete linked official PDF; separately referenced general circulars not sourced,0,1
+2512,2014-01-15,58,https://www.ysk.gov.tr/doc/karar/dosya/2512/2014-58.pdf,6df065110c6f0c7924afd28a189024c2b5c9a79f13d0a92221e869d7649453ad,election/ysk/decision/2014/58,2014-01-14,complete linked official PDF; separately referenced general circulars not sourced,0,1
