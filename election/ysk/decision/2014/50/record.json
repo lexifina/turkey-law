@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/50",
+  "list_number": "50",
+  "decision_date": "2014-01-15",
+  "title": "İl ve ilçe başkanlarının yetkilendirdiği kişilerin muhtarlık bölgesi askı listelerine ve sandık bölgesi askı listelerine itiraz ve şikâyet yetkisinin bulunduğuna ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2514/2014-50.pdf",
+  "source_sha256": "7518236908c2b73543e0d31f2c9acae7c8f430fed2316d36b6e65050567a1d07",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-01-15",
+  "law_text_complete": false
+}
