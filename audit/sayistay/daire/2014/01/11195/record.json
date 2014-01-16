@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "21",
+  "decision_date": "2014-01-16",
+  "source_id": 11195,
+  "chamber": "8",
+  "ilam_number": "126",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11195/",
+  "source_sha256": "902836fc5fb99e3bf0147e9d894244797db46331a62ff6ddcd4e3c60a3b655c3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
