@@ -1,0 +1,14 @@
+Sorumlu veteriner hekim
+MADDE 12 – (1) Bu Yönetmelik kapsamındaki işletmelerde sorumlu veteriner hekim çalıştırılması zorunludur.
+(2) Sorumlu veteriner hekimin görev ve sorumlulukları aşağıda belirtilmiştir.
+a) Sorumlu veteriner hekim; kendisine bağlı işletmelerin bu Yönetmelik hükümlerine uygun sağlıklı üretim yapılmasından, çalışan personelin sağlık kontrolü ve kanatlı hayvan hastalıklarının yayılmasının engellenmesi ve toplum sağlığına zarar vermesini önleyecek doğru tedbirlerin alınmasından işverenle birlikte sorumludur.
+b) İşletmede bulunan her kümes için ayrı ayrı olmak üzere üretim, ölüm, salgın hastalık vakalarını, nekropsi bulgularını, performans bilgilerini gösterir kayıt cetvellerini, bulaşıcı hastalıklara karşı uygulanan aşılamaları, ilaçlama programlarını ve aşılama sonrası serolojik testlere ait sonuçları gösterir sağlık kontrol kartlarını tutmak ve istenildiği takdirde ilgililere göstermek ile yükümlüdür.
+c) Kuluçkahane ve damızlık kanatlı işletmesinin sahibi, sorumlu veteriner hekimin görevlerini yerine getirmesinde kullanacağı her türlü araç, gereç ve imkânı sağlamak zorundadır.
+ç) Sorumlu veteriner hekim ile firma arasında Bölge Veteriner Hekimler Odasınca belirlenen sözleşme imzalanır ve noter tasdikli olarak her yıl yenilenerek ilgili il müdürlüğüne verilir. Sözleşmenin geçerlilik süresinin belirtilmesi durumunda bu süre bitimine kadar yeniden sözleşme istenilmez.
+d) Sorumlu veteriner hekim, işletmenin teknik müdürlük görevini de ifa edebilir. Bu durum işletme ile yapılan sözleşmede belirtilir.
+e) Sorumlu veteriner hekim işten ayrılmak istediği takdirde, bunu bir ay önceden çalıştığı kuluçkahane veya damızlık kanatlı işletme idaresine ve işletmenin bulunduğu yerdeki il müdürlüğüne yazılı olarak bildirmek zorundadır. Sorumlu veteriner hekimin işten çıkarılması halinde aynı işlemlerin işletme idaresince yapılması ve derhal yeni bir sorumlu veteriner hekim istihdamı zorunludur.
+f) Sorumlu veteriner hekim bağlı bulundukları şirketler de dahil olmak üzere çalışma saatleri içinde sorumlu veteriner hekimlik yaptığı işletmelerdeki görevlerinden başka bir işte çalışamaz.
+g) Sorumlu veteriner hekim, sağlık muayenelerini kendisi yapar ve sağlık raporu düzenler.
+ğ) İhbarı mecburi hastalıkları zaman geçirmeden bağlı bulunduğu il veya ilçe müdürlüğüne bildirir.
+h) İlaç ve aşı uygulamaları sorumlu veteriner hekim tarafından yapılır veya kendi gözetimi altında veteriner sağlık teknikeri veya veteriner sağlık teknisyenine yaptırır.
+ı) İlçe sınırları içerisindeki sevklerde ilgili mevzuat hükümlerine göre hazırlanan belgeye ek olarak işletmeden sevk edilen kanatlı hayvanların sağlıklı olduklarını gösteren ve Bakanlıkça çıkarılacak Uygulama Talimatının ekinde yer alan sağlık raporu düzenlenir. Düzenlenen raporun bir nüshası, kanatlı hayvanları alan kişi veya kuruluşa verilir, diğer nüshası ise işletme dosyasında saklanır. İşletmeden ilçe dışına yapılacak sevklerde söz konusu Yönetmelik hükümleri uygulanır.

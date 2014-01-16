@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+b) Damızlık kanatlı: Yumurta veya et üretiminde kullanılacak civcivlerin üretimi için geliştirilmiş sürüyü oluşturan kanatlıları,
+c) Damızlık kanatlı işletmesi: Ticari veya araştırma amacı ile kurulmuş, ana damızlık, damızlık ve ticari kanatlı hayvan ve kuluçkalık yumurta üreten işletmeleri,
+ç) Enstitü müdürlüğü: İllerin bağlı bulundukları veteriner kontrol enstitüsü müdürlükleri ile Etlik Veteriner Kontrol Merkez Araştırma Enstitüsü Müdürlüğünü,
+d) Faaliyet onay belgesi: Teknik, hijyenik ve sağlık kriterleri uygun olan işletmelere il müdürlükleri tarafından verilen ve onaylı işletme olduklarını gösteren belgeyi,
+e) Genel Müdürlük: Gıda ve Kontrol Genel Müdürlüğünü,
+f) İl müdürlüğü: Bakanlık il gıda, tarım ve hayvancılık müdürlüklerini,
+g) İlçe müdürlüğü: Bakanlık ilçe gıda, tarım ve hayvancılık müdürlüklerini,
+ğ) Kuluçkahane: Damızlık ve ticari amaçla civciv çıkaran işletmeleri,
+h) Kuluçkalık yumurta: Vertikal bulaşan taşımadığından emin olunan damızlık ve ticari amaçlı kuluçkalık özelliğe sahip yumurtaları,
+ı) Sağlık koruma hattı: Dış ortama verilebilecek veya dış ortamdan gelebilecek olumsuz etkileri önlemek amacıyla ayrılan bölgeyi veya mesafeyi,
+i) Sağlık sertifikası: Kontrol ve analizleri sonucunda, kuluçkahane işletmesi ve/veya damızlık kanatlı işletmelerine ait her bir kümesin Bakanlıkça çıkarılacak talimatta belirtilen hastalıklardan ari olanlarına verilen sertifikayı,
+j) Sorumlu veteriner hekim: Bu Yönetmelik kapsamındaki işyerlerinin, bu Yönetmelik hükümlerine uygun olarak sağlıklı üretim faaliyetinde bulunmasından işverenle birlikte sorumlu olan veteriner hekimi,
+k) Tekniker: Kuluçkahane ve damızlık kanatlı işletmelerinde çalışacak olan veteriner sağlık teknikerlerini,
+l) Teknisyen: Kuluçkahane ve damızlık kanatlı işletmelerinde çalışacak olan veteriner sağlık teknisyenlerini,
+m) Teknik müdür: Bu Yönetmelik kapsamındaki işyerlerinin, bu Yönetmelik hükümlerine uygun olarak faaliyet göstermesinden işverenle birlikte sorumlu olan veteriner hekimi veya zooteknist ziraat mühendisini,
+n) Teknik personel: Kuluçkahane ve damızlık kanatlı işletmelerinde çalışacak olan sorumlu yönetici ve sorumlu veteriner hekim dışındaki veteriner hekimleri ve zooteknist ziraat mühendislerini,
+o) Uygulama Talimatı: Bakanlık tarafından bu Yönetmelik gereği yayınlanan ve kanatlı hayvanlara ait kuluçkahaneler ile damızlık kanatlı işletmelerinin teknik, hijyenik ve sağlıklı şartlarda kurulmalarını sağlamak, biyogüvenlik tedbirlerinin alınmasını temin etmek, hijyen ve sağlık şartlarına uygunluklarını düzenlemek ve işletmelerin kontrolünü yapmak, kanatlı hayvan hastalıklarının yayılmasını engellemek ve işletmelerin hangi hastalıklar yönünden ari olacağını belirlenmesi amacıyla hazırlanan mevzuatı,
+ifade eder.

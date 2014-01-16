@@ -1,0 +1,13 @@
+Teknik müdür
+MADDE 11 – (1) Bu Yönetmelik kapsamındaki işletmelerde teknik müdür çalıştırılması zorunludur.
+(2) Teknik müdürün görev ve sorumlulukları aşağıda belirtilmiştir.
+a) Teknik müdür kendisine bağlı işletmelerin bu Yönetmelik hükümlerine uygun faaliyet göstermesinden ve çalışan personele eğitim verilmesinden işverenle birlikte sorumludur.
+b) Kuluçkahane ve damızlık kanatlı işletmenin sahibi, teknik müdürün görevlerini yerine getirmesinde kullanacağı her türlü araç, gereç ve imkânı sağlamak zorundadır.
+c) Teknik müdür ile firma arasında yapılan sözleşme her yıl yenilenir. Bu sözleşme teknik müdür tarafından ilgili il müdürlüğüne teslim edilir. Sözleşmenin noter onaylı olması durumunda sözleşmedeki süre geçerli olup süre sonuna kadar Bakanlıkça yeniden bir sözleşme istenilmez.
+ç) Teknik müdür işten ayrılmak istediği takdirde, bunu bir ay önceden çalıştığı kuluçkahane veya damızlık kanatlı işletme idaresine ve işletmenin bulunduğu yerdeki il müdürlüğüne yazılı olarak bildirmek zorundadır. Teknik müdürün işten çıkarılması halinde aynı işlemlerin işletme idaresince yapılması ve derhal yeni bir teknik müdür istihdamı zorunludur.
+d) Teknik müdür çalışma saatleri içinde bağlı bulunduğu şirketler dahil olmak üzere teknik müdürlük görevinden başka bir işte çalışamaz.
+e) Teknik müdür, işletmelerinde elde edecekleri kuluçkalık yumurtaları ve kanatlı hayvanları hangi kişi veya kuruluşlara verdiklerini gösterir bir liste tutar. Teknik müdür, kişi ve kuruluşların adı, soyadı veya ticari unvanı, adresi ve telefon numarasının bulunduğu liste ile sorumlu veteriner hekimin bahis konusu olan kanatlı hayvanların sağlıklı olduğuna dair düzenlemiş olduğu sağlık raporlarını muhafaza etmek zorundadır.
+f) Kuluçkahaneye gelen yumurtaların orijini ve kaç günlük oldukları, kuluçka makinesine giren yumurtaların miktarı, ırkı ve konuluş tarihi ile çıkış makinelerine alınan yumurtaların aktarma tarihi, dölsüz yumurta ve embriyo ölümleri sayısı ve oranı gibi kayıtları tutmak ve istenildiği takdirde ilgililere göstermek ile yükümlüdür.
+g) Teknik müdür, kuluçkahane ve damızlık kanatlı işletmesinde çalışan personelin bu Yönetmeliğin 18 inci maddesinde yer alan bilgilerini il müdürlüğüne bildirir.
+ğ) Teknik müdür, işletmeye ait denetim defterini hazırlayarak denetime gelen görevlilere sunmak ve işletmede görülebilecek tüm aksaklıkların giderilmesinden işletme sahibi ile birlikte sorumludur.
+h) Teknik müdür damızlık işletmelere kanatlılar geldikten sonra bir hafta içerisinde, ırkını, cinsiyetini, sayısını ve hangi işletmeden geldiğini yazılı olarak il müdürlüğüne bildirmek zorundadır.

@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, gerçek ve tüzel kişiler ile kamu kurum ve kuruluşları tarafından kurulmuş veya kurulacak olan tavuk, hindi, ördek, kaz, devekuşu, bıldırcın, beç tavuğu ve benzeri çiftlik veya işletme ortamında yetiştiriciliği yapılan damızlık kanatlı işletmesi ve kuluçkahanelerinin sahip olması gereken teknik, hijyenik, sağlık şartları ve bu işletmelerin faaliyetlerinin onaylanması ile sağlık sertifikalarının verilmesi ve bu Yönetmelik hükümlerine uyulmaması durumunda uygulanacak işlemleri kapsar.
+(2) 1/7/2003 tarihli ve 4915 sayılı Kara Avcılığı Kanunu kapsamında olan av ve yaban hayvanları bu Yönetmelik kapsamına girmez.

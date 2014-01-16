@@ -1,0 +1,2 @@
+Laboratuvar muayeneleri
+MADDE 20 – (1) Kuluçkahane veya damızlık kanatlı işletmeleri, Bakanlıkça yapılan kontroller haricindeki diğer gerekli laboratuvar muayene ve analizlerini Bakanlıktan çalışma izni almış olan laboratuvarlarda yaptırmak zorundadırlar. Laboratuvar analiz sonuçları, sorumlu veteriner hekim tarafından değerlendirilerek kayıt altına alınır. Laboratuvarlarda yapılması gereken testler Bakanlıkça belirlenir.
