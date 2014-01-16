@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10293",
+  "decision_date": "2014-01-16",
+  "source_id": 17217,
+  "chamber": "1",
+  "ilam_number": "56",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17217/",
+  "source_sha256": "9ffa3532bb42226d956a35307e2879dcc8589d5ae9ed819016c6ec1f89260dc3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
