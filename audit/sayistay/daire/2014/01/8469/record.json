@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10295",
+  "decision_date": "2014-01-16",
+  "source_id": 8469,
+  "chamber": "1",
+  "ilam_number": "58",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8469/",
+  "source_sha256": "1d0ad76c055f1ee4206364a373cc5c7fc35d50fa42457c8807d03be2755e213c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
