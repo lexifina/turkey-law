@@ -1,0 +1,8 @@
+Söküm, yıkım, tamir, bakım ve uzaklaştırma işleri
+MADDE 7 – (1) İşveren, söküm, yıkım, tamir, bakım ve uzaklaştırma işlerine başlamadan önce, asbest içerebilecek malzeme ve yerlerini belirlemek için tesis, bina, gemi ve benzeri yapı ve sistemlerde inceleme yaparak gereken tedbirleri alır. Yıkım izni için 18/3/2004 tarihli ve 25406 sayılı Resmî Gazete’de yayımlanan Hafriyat Toprağı, İnşaat ve Yıkıntı Atıklarının Kontrolü Yönetmeliğinin ilgili hükümleri uygulanır. İşverenin çalışma yaptığı herhangi bir yapı veya ortamda asbest veya asbestli malzeme bulunduğu şüphesi varsa bu Yönetmelik hükümleri uygulanır.
+(2) İşveren; asbest içerebilecek malzemelerin, söküm, yıkım, tamir, bakım ve uzaklaştırma işlerini 8 inci maddede belirtilen uzman nezaretinde ve yine aynı maddede belirtilen çalışanlarca yapılmasını sağlar.
+(3) Teknik önlemler alınmasına rağmen, havadaki asbest konsantrasyonunun 11 inci maddede belirtilen sınır değeri aşabileceği söküm, yıkım, tamir, bakım ve uzaklaştırma gibi belirli işlerde; çalışanların korunması için işveren, özellikle aşağıda belirtilen önlemleri alır.
+a) Uygun solunum sistemi koruyucusu ve diğer kişisel koruyucu donanım ile bunları kullanacak çalışanların ve çalışma sürelerinin belirlenmesi ve kişisel koruyucuların kullanılmasını sağlar.
+b) Sınır değerin aşılması ihtimali olan yerlere uyarı levhalarının konulmasını sağlar.
+c) Asbest veya asbestli malzemeden çıkan tozun, tesis veya çalışma alanı dışına yayılmasını önler.
+(4) Bu maddede belirtilen işlere başlamadan önce, alınacak önlemler hususunda çalışanlar veya temsilcilerini bilgilendirir ve onların görüşlerini alır.
