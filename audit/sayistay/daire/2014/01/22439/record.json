@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "12",
+  "decision_date": "2014-01-16",
+  "source_id": 22439,
+  "chamber": "7",
+  "ilam_number": "72",
+  "item_number": 8,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22439/",
+  "source_sha256": "7c8a64944f7758994bd4676140aa26967da8335c43f98f54d13220d804019001",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
