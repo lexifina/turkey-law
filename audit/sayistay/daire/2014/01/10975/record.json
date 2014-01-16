@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "20",
+  "decision_date": "2014-01-16",
+  "source_id": 10975,
+  "chamber": "8",
+  "ilam_number": "147",
+  "item_number": 6,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10975/",
+  "source_sha256": "c98efce861167ca40d7ac8bc9e619996ad90997d993f5daea4b27d42f630625e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
