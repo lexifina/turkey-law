@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "13",
+  "decision_date": "2014-01-16",
+  "source_id": 7458,
+  "chamber": "7",
+  "ilam_number": "62",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/7458/",
+  "source_sha256": "daba4e8359e6db7982e6977a0eb25bba17a83f6a29145b69a3594b62c9e8aad8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
