@@ -1,0 +1,3 @@
+Yapım işlerinde hakediş ödemelerinden inşaatların yapımı sırasında sarf edilen ve üniversitece sağlanan elektrik ve su bedellerinin düşülmemesi.
+
+…………. Şti. yükleniminde bulunan “Araştırma ve Uygulama Hastanesi Terapi ve Eğitim Merkezi”, “Öğrenci Yaşam Merkezi” ve “………. Kampüsü Otopark Yapım” işleri ile ………ve ……… Ortak Girişimi yükleniminde bulunan “Enstitüler ve Uzaktan Eğitim Uygulama ve Araştırma Merkezi” inşaatı işinin devamı sırasında yapım işinde kullanılan elektrik ve su bedellerinin teknik şartname ve birim fiyat poz tariflerine göre yüklenicilerin hakedişlerinden düşülmemesi sonucu oluşan toplam ………… TL’nin aşağıda yer alan tabloda yazılı belgeler ile tahsil edildiği görüldüğünden konu hakkında ilişilecek bir husus kalmadığına oybirliğiyle,
