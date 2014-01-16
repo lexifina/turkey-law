@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "19",
+  "decision_date": "2014-01-16",
+  "source_id": 11152,
+  "chamber": "8",
+  "ilam_number": "78",
+  "item_number": 5,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11152/",
+  "source_sha256": "16ba5343c01eb15afc9ba423d40aa90556a8f5bbc6b0a565f7b11cc45781ecac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
