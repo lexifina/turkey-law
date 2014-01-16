@@ -1,0 +1,2 @@
+Yabancı misyonlarda geçici görevlendirme
+MADDE 15 – (1) Ülkemizde yerleşik yabancı misyonlarda geçici bir süreyle görevlendirilen resmi veya umuma mahsus pasaport hamili personelin pasaportuna, ülkeye giriş tarihinden itibaren geçerli olmak üzere, Dışişleri Bakanlığı tarafından en fazla altı ay süreli ikamet izninden muafiyet ve geçici görev şerhi tatbik edilebilir. Bu kişiler görevleri süresince vize muafiyeti kapsamında işlem görür.

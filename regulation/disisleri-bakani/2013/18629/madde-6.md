@@ -1,0 +1,2 @@
+Kimlik kartında yer alacak veriler ve özelliklerini belirleyen makam
+MADDE 6 – (1) Kimlik kartında yer alacak olan kart hamilinin biyometrik fotoğrafı, kimliğine ve görevine ilişkin bilgiler, 13 üncü maddeye göre belirlenen kırmızı, yeşil veya siyah renkli bant, kart seri numarası, Dışişleri Bakanlığı kurumsal logosu gibi verilerle kart hamilinin uluslararası hukuktan kaynaklanan ayrıcalık ve bağışıklık statüsünü açıklayan gerekli görülecek özel kayıtların şekil, içerik ve ayrıntıları Dışişleri ve İçişleri Bakanlıklarınca birlikte belirlenir.

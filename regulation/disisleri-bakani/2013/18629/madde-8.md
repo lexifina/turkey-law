@@ -1,0 +1,8 @@
+Kimlik kartının belge olarak niteliği, kullanımı ve kart hamilinin statüsü
+MADDE 8 – (1) 5 inci madde kapsamında yer alan kimlik kartlarının niteliği ve kullanımı ile kart hamilinin statüsüne ilişkin esaslar şunlardır:
+a) Kimlik kartı, Yabancılar ve Uluslararası Koruma Kanununun 20 nci maddesinin birinci fıkrasının (c), (ç) ve (d) bentlerine göre, kart hamilinin ikamet izninden muaf olduğunu belgeler.
+b) Kimlik kartı, her türlü hukuki işlem için kimlik ispatında kullanılan ve kart hamilinin resmi makamlara tanıtılarak uluslararası hukuk ile ulusal mevzuatımızdan kaynaklanan statülerine uygun muamele görmeleri için bilgilendirici işlev görür.
+c) Kimlik kartı hamilleri, Türkiye içinde pasaport taşımak mecburiyetinde değildir; kimlik ispatı yabancı misyon kimlik kartıyla sağlanır. Kimlik kartı talep edildiğinde yetkili makamlara ibraz edilir.
+ç) Kimlik kartı hamilleri, Türkiye’ye giriş ve Türkiye’den çıkışta kimlik kartlarını görevlilere ibraz etmekle yükümlü değildir. Pasaportlarına kimlik kartı süresince geçerli ikamet izninden muafiyet ve görev şerhi Dışişleri Bakanlığınca tatbik edilebilir. Bu kişiler görevleri süresince vize muafiyeti kapsamında işlem görürler.
+d) Kimlik kartı hamillerinin hukuki statüleri, Dışişleri Bakanlığı veya konuya göre diğer yetkili makam ve mercilerce uluslararası hukuk ve yürürlükteki ulusal mevzuata göre belirlenir.
+e) Dışişleri Bakanlığı, kimlik kartı düzenlenmesinde esas aldığı belgeleri muhafaza etmekle, kart hamillerinin hukuki statülerinin belirlenmesi için, resmi talep üzerine veya resen, gerekli bilgi, belge ve değerlendirmelerini ilgili makam ve mercilere iletmekle görevli ve yetkilidir.

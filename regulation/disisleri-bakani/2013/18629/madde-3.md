@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 7/7/2010 tarihli ve 6004 sayılı Dışişleri Bakanlığının Kuruluş ve Görevleri Hakkında Kanunun 2 nci maddesi ile 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanununa, 4/9/1964 tarihli ve 3042 sayılı Kanun ile uygun bulunan Diplomatik İlişkiler Hakkında Viyana Sözleşmesine ve 20/5/1975 tarihli ve 1901 sayılı Kanun ile uygun bulunan Konsolosluk İlişkileri Hakkında Viyana Sözleşmesine dayanılarak hazırlanmıştır.
