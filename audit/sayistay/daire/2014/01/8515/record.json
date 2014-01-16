@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10296",
+  "decision_date": "2014-01-16",
+  "source_id": 8515,
+  "chamber": "1",
+  "ilam_number": "95",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8515/",
+  "source_sha256": "56f9b8f3c00d1043eb7d9a0aeed23751d384bce9a84ba35604c5ac9e5f23d63f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
