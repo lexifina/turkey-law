@@ -1,0 +1,3 @@
+........... Kurumu tarafından kendi ihale mevzuatına göre doğrudan temin yoluyla yapılan alımlarda 488 sayılı Damga Vergisi Kanunu’na göre binde 4,95 oranında karar damga vergisinin kesilmemesi ile ilgili olarak;
+
+Sorumluların gönderdiği savunmalarda ve 44 seri no.lu Damga Vergisi Genel Tebliği’nin 5’inci bölümünde, doğrudan temin usulü ile yapılacak alımlarda sözleşme düzenlenmemesi ve ihale komisyonu kurularak ihale kararı alınmaması halinde damga vergisinin de aranmayacağı belirtildiğinden, ......... TL.’lik damga vergisi ile ilgili olarak hesap ve işlemlerin yasal düzenlemelere uygunluğuna, oy birliğiyle karar verildi.
