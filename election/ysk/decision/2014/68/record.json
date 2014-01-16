@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/68",
+  "list_number": "68",
+  "decision_date": "2014-01-16",
+  "title": "İl ve ilçe seçim kurullarının yeniden oluşturulması, kuruluş esas ve ilkelerinin belirlenmesine ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2510/2014-68.pdf",
+  "source_sha256": "f71f62bd49086d5fa925a4c4176397c33b212b38154c536f670c80554e332038",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-01-16",
+  "law_text_complete": false
+}
