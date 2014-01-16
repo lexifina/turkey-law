@@ -1,0 +1,3 @@
+… Fakültesi’nde görevli öğretim elemanlarına haftalık ders programında yer almayan dersler için ek ders ücreti ödenmesi.
+
+… Fakültesi’nde görevli öğretim elemanlarına haftalık ders programında yer almayan dersler için ek ders ücreti ödenmesinin nedenleri sorulmuşsa da, Okutman …..’e ait Şubat ayı ek ders ödemesinin Ders Yükü Bildirim Formunun geç gelmesi nedeniyle Mart ayında yapıldığı; Yrd. Doç. Dr. ..… tarafından verilen dersin 2 saat teorik ve 2 saat laboratuar olmak üzere 4 saat olduğu, 2 saatlik teorik dersin ders yükü bildirim formunda ikinci öğretim bölümünde, 2 saatlik laboratuar derslerinin formun örgün öğretim kısmında gösterildiği anlaşıldığından uygulamaların yasal düzenlemelere uygunluğuna oybirliğiyle,
