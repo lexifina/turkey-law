@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-01-18",
+  "issue": "28886",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "6514 Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140118-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140118.htm",
+  "index_sha256": "ca68fba666c08e1d825506bd2468d34aab4da0080801fcbfcbbe00351ed824d4",
+  "index_header": "18 Ocak 2014 ... 28886 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140118.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
