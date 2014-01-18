@@ -14,6 +14,7 @@ Eğitim - öğretimin aksaması sonucunu doğuracak olaylar dolayısıyla öğre
 e) Yükseköğretim kurumlarında eğitim - öğretim programlarının asgari ders saatlerini ve sürelerini,öğrencilerin yatay ve dikey geçişleriyle ve yüksekokul mezunlarının bir üst düzeyde öğrenim yapmalarına ilişkin esasları Üniversitelerarası Kurulun da görüşlerini alarak tespit etmek,
 f) Üniversitelerin ihtiyaçlarını, eğitim - öğretim programlarını,bilim dallarının niteliklerini, araştırma faaliyetlerini, uygulama alanlarını, bina, araç, gereç ve benzeri imkanlar ve öğrenci sayılarını ve diğer ilgili hususları dikkate alarak; üniversitelerin profesör, doçent ve yardımcı doçent kadrolarını dengeli bir oranda tespit etmek,
 Dikkat: (Devamı 5353‘üncü sayfadadır.)
+5352-2
 5353
 g) Her yıl üniversitelerin verecekleri faaliyet raporlarını inceleyerek değerlendirmek;
 üstün başarı gösterenlerle, yeterli görülmeyenleri tespit etmek ve gerekli önlemleri almak,

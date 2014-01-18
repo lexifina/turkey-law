@@ -11,4 +11,4 @@ b) Profesörlüğe yükseltilerek atama yapılabilmesi için:
 1) Üniversitelerde veya yüksek teknoloji enstitülerinde atama yapılacak olan profesörlük kadroları, rektörlük tarafından ilan edilir.
 2) Profesörlük kadrosuna başvuran adayların durumlarını ve bilimsel niteliklerini tespit etmek için üniversite veya yüksek teknoloji enstitüsü yönetim kurulunca en az üçü başka üniversitelerden veya yüksek teknoloji enstitülerinden olmak üzere ilan edilen kadronun bilim alanıyla ilgili beş profesör seçilir. Bu profesörler her aday için ayrı ayrı olmak üzere birer rapor yazarlar ve kadroya atanacak birden fazla aday varsa tercihlerini bildirirler. Üniversite veya yüksek teknoloji enstitüsü yönetim kurulunun bu raporları göz önünde tutarak alacağı karar üzerine, rektör atamayı yapar.
 c) Profesörlüğe yükseltilerek atanan kişi, bir başka yükseköğretim kurumunda veya bir başka bilim dalında boş bulunan profesörlük kadrosuna, ancak (a) ve (b) fıkralarında belirtilen esas ve usullere uygun olarak atanabilir.
-5363
+5362-2 5363

@@ -2,7 +2,7 @@ ONUNCU BÖLÜM
 Mali Hükümler
 Gelir kaynakları:
 Madde 55 – Yükseköğretim üst kuruluşları, yükseköğretim kurumları ve bunlara bağlı birimlerin gelir kaynakları;
-58. Her yıl bütçeye konulacak ödenekler,
+a. Her yıl bütçeye konulacak ödenekler,
 b. Kurumlarca yapılacak yardımlar,
 c. Alınacak harç ve ücretler,
 d. Yayın ve satış gelirleri,
