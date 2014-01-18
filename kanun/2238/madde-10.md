@@ -1,1 +1,2 @@
-Madde 10 – Organ ve doku alınması, saklanması, aşılanması ve naklinin, bu işler için gerekli uzman personele, araç ve gerece sahip sağlık kurumlarınca yapılması zorunludur.
+Madde 10 – (Değişik: 2/1/2014-6514/40 md.)
+Organ ve doku alınması, taşınması, saklanması, aşılanması ve nakli ile yurt dışından temin edilmesi, Sağlık Bakanlığınca yetkilendirilmiş gerekli uzman personel ve donanıma sahip kurumlarca yapılır.

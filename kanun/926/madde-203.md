@@ -128,6 +128,7 @@ Uzman Onbaşı 94
 B) Sıkıyönetim hizmet zammı hariç olmak üzere; (A) fıkrasında belirtilen ve bu tazminattan yararlanamayan personelin çeşitli ödemelerle bir ayda aldıkları net tutarlar bu maddede sayılan ve tazminattan yararlanan personele çeşitli ödemelerle bir ayda verilen net tutarlardan az ise aynı kıta ve karargahtaki aynı rütbe ve kıdemdekiler arasında meydana gelen fark ayrıca tazminat olarak ödenir.
 C) (Mülga: 11/10/2011-KHK-666/1 md.)(1)
 Ç) (Ek: 21/1/2010-5947/12 md.) Türk Silahlı Kuvvetleri kadrolarında bulunan ve aşağıda rütbeleri belirtilen personelden öğretim üyesi tabip, öğretim üyesi diş tabibi, uzman tabip, uzman diş tabibi, tabip, diş tabibi ve tıpta uzmanlık mevzuatında belirtilen dallarda bu mevzuat hükümlerine göre uzman olanlara hizalarında gösterilen oranları geçmemek üzere orgeneral aylığının (ek gösterge dahil) brüt tutarı ile çarpımı sonucu bulunan miktarda sağlık hizmetleri tazminatı ayrıca ödenir.
+(Ek paragraf:2/1/2014-6514/16 md.) Öğretim üyesi tabip ve öğretim üyesi diş tabipleri için rütbe ve dereceleri itibarıyla belirlenmiş olan sağlık hizmetleri tazminatı oranları, 100 puan artırılmak suretiyle uygulanır.
 –––––––––––––––––––––
 (1) 11/10/2011 tarihli ve 666 sayılı KHK ile bu fıkrada yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
 4446
@@ -193,8 +194,9 @@ Astsubaylardan EK-VIII ve EK -VIII/B sayılı Aylık Gösterge Tablosunda 2 nci 
 Ek Madde 26 – (Ek: 21/1/2010-5947/13 md.)
 Gülhane Askeri Tıp Akademisi Komutanlığına bağlı eğitim hastaneleri ile askeri tıp fakültesinde öğretim üyesi veya tabip ihtiyacı doğması halinde, Türk Silahlı Kuvvetleri Sağlık Komutanlığının talebi üzerine Sağlık Bakanlığı ve Yükseköğretim Kurulu tarafından öncelikli olarak görevlendirme yapılır.
 Türk Silahlı Kuvvetlerine bağlı sağlık kurum ve kuruluşlarında ihtiyaç duyulması ve Türk Silahlı Kuvvetleri Sağlık Komutanlığının talep etmesi halinde, Sağlık Bakanlığına bağlı sağlık kurum ve kuruluşlarında veya üniversite hastanelerinde görevli öğretim üyeleri ile diğer sağlık personeli, haftanın belirli gün veya saatlerinde veya belirli vakalar ve işler için Sağlık Bakanlığı veya Yükseköğretim Kurulu tarafından görevlendirilir.
-Meslekî faaliyet ve serbest meslek icrası yasağı(2)
-Ek Madde 27 – (Ek: 8/8/2011-KHK-650/39 md.; İptal: Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.)
+Meslekî faaliyet ve serbest meslek icrası yasağı(2)(3)
+Ek Madde 27 – (Ek: 8/8/2011-KHK-650/39 md.; İptal: Anayasa Mahkemesinin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.; Yeniden düzenleme: 2/1/2014-6514/17 md.)
+Bu Kanun kapsamına girenler, kanunlarda belirtilen istisnalar dışında mesleki faaliyette veya serbest meslek icrasında bulunmak üzere ofis, büro, muayenehane ve benzeri yerler açamaz; gerçek kişilere, özel hukuk tüzel kişilerine veya kamu kurumu niteliğindeki meslek kuruluşlarına ait herhangi bir iş yerinde veya vakıf üniversitelerinde çalışamaz.
 Ek Madde 28 – (Ek: 22/5/2012-6318/56 md.)
 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamında aylık bağlanan Türk Silahlı Kuvvetleri personelinin unvan ve rütbeleri, 5434 sayılı T.C. Emekli Sandığı Kanununun ek 77 nci maddesine göre belirlenecek emsalini geçmemek üzere Türk Silahlı Kuvvetleri bünyesinde göreve devam eden emsallerinin rütbe ve unvanlarına yükseltilir ve haklarında yapılacak her türlü işlemde yükseltilen unvan ve rütbeleri esas alınır.
 Ek Madde 29 – (Ek: 22/5/2012-6318/56 md.)
@@ -202,6 +204,7 @@ Türk Silahlı Kuvvetlerinin faaliyetleri ile ilgili alanlarda Genelkurmay Başk
 ––––––––––––
 (1) 5/2/2009 tarihli ve 5837 sayılı Kanunun 24 üncü maddesiyle; bu maddede yer alan “EK-VIII” ibaresinden sonra gelmek üzere “ve EK -VIII/B” ibaresi eklenmiş ve metne işlenmiştir.
 (2) Sözkonusu 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
+(3) 2/1/2014 tarihli ve sayılı Kanunun 17 nci maddesiyle bu maddenin başlığı metne işlendiği şekilde yeniden düzenlemiştir.
 4448
 Bu kapsamdaki personel ilgili mevzuatında yer alan süre sınırlamalarına tabi olmaksızın ihtiyaç duyulan hizmet süresince kurumlarından aylıksız izinli olarak da bu madde hükümleri uyarınca Genelkurmay Başkanlığınca görevlendirilebilir. Aylıksız izinli çalışanlara çalıştıkları görevler dikkate alınarak bu madde hükümleri uyarınca ödeme yapılır ve bunların Sosyal Güvenlik Kurumu ile ilişkileri kendi kurumlarındaki statüleri dikkate alınarak devam ettirilir. Bunlardan aylıksız izinli olarak çalıştırılanların Genelkurmay Başkanlığında geçen süreleri kazanılmış hak aylık derece ve kademelerinde değerlendirilir ve bu süreler terfi ve emekliliklerinde hesaba katılır. Terfileri başkaca bir işleme gerek duyulmadan süresinde yapılır.
 Bu madde uyarınca çalıştırılan Genelkurmay Başkanı danışmanlarının sözleşme veya görevlendirmeleri Genelkurmay Başkanının görev süresinin sona erdiği tarihte hiçbir işleme gerek kalmaksızın sona ermiş sayılır. Kamu kurum ve kuruluşları ile kamu tüzel kişiliğini haiz kurumların personeli bu fıkrada sayılan hallerde hiçbir işleme gerek kalmaksızın kendi kurumlarındaki kadro veya pozisyonlarına dönerler.
