@@ -15,3 +15,4 @@ Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı 
 4478-4480
 Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 926 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı | Ek Madde 17 | 10/10/2013
+6514 | Ek Madde 17, Ek Madde 27 | 18/1/2014

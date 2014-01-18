@@ -8,7 +8,7 @@ Yükseköğretim Denetleme Kurulu:
 (3) Genelkurmay Başkanlığı ve Milli Eğitim Bakanlığınca seçilecek birer üyeden,
 oluşur.
 Bu suretle tespit edilen Yükseköğretim Denetleme Kurulu üyelerinin atanmaları, cari usullere göre yapılır.
-________________
+_____________________
 (1) Anayasa Mahkemesi’nin 22/12/2011 tarihli ve E.:2010/20, K.:2011/166 sayılı Kararıyla; bu bentte yer alan “veya denenmek üzere başka bir yükseköğretim kurumuna atamak” ibaresi iptal edilmiştir.
 5354
 Yükseköğretim Denetleme Kurul Başkanı, bu kurul üyeleri arasından Yükseköğretim Kurulu Başkanı tarafından atanır.

@@ -1,7 +1,5 @@
-3359 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
-MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL
-EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
-GÖSTERİR LİSTE
+3359 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN
+YÜRÜRLÜĞE GİRİŞ TARİHİNİ GÖSTERİR LİSTE
 Değiştiren Kanunun Numarası | 3359 sayılı Kanunun değişen yürürlükten kaldırılan maddeleri | Yürürlüğe Giriş Tarihi
 KHK/572 | – | 6/6/1997
 4568 | – | 26/5/2000
@@ -22,3 +20,4 @@ KHK/663 | 5, 6, 7, 8, 9, Ek Madde 1, 7, 9 | 2/11/2011
 6354 | Ek Madde 1, Ek Madde 9 | 12/7/2012
 6428 | Ek Madde 7 | 9/3/2013
 6462 | 3 | 3/5/2013
+6950
