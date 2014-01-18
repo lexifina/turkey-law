@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6514",
+  "year": 2014,
+  "title": "Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-01-18",
+  "gazette_issue": "28886",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140118-1.htm",
+  "source_sha256": "9b5ef7207b998da4e34dbeb8da75c14cf6a5d232d893b49865b7a1eaeb363bc0",
+  "text_sha256": "723ad0c268913c3cd2473ca5fd0491dc8546a9276a6cb30f5278751404a58728",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/01/18/28886-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140118-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
