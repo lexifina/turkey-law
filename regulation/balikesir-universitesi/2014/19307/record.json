@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-01-19",
+      "19.01.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28887",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-01-19",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Balıkesir Üniversitesi",
+  "issuer_slug": "balikesir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/balikesir-universitesi/2014/19307",
+  "published": "2014-01-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19307&MevzuatTertip=5",
+  "source_bytes": 28904,
+  "source_id": "8.5.19307",
+  "source_sha256": "440fb1ef9a6d237321b2862f6911135fa2d057468d7dfc6743808f1c1195e5bf",
+  "text_status": "as-enacted",
+  "title": "BALIKESİR ÜNİVERSİTESİ KARİYER GELİŞTİRME UYGULAMA VEARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 182,
+  "word_count": 1619
+}
