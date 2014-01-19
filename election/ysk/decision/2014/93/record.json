@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/93",
+  "list_number": "93",
+  "decision_date": "2014-01-19",
+  "title": "Köye dönüş nedeniyle, seçme ve seçilme yeterliliği olan dokuz (9) kişinin bulunması halinde, muhtar ve ihtiyar meclisi üyeliği seçiminde altı aylık ikamet etme şartının aranmayacağına ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2498/2014-93.pdf",
+  "source_sha256": "03a343ea9609fc03a1a1630052a206ff19d157193fa698ebcee4e9b98396488e",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-01-19",
+  "law_text_complete": false
+}
