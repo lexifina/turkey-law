@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/90",
+  "list_number": "90",
+  "decision_date": "2014-01-19",
+  "title": "30 Mart 2014 Pazar günü yapılacak olan Mahalli İdareler Genel Seçiminde görev alacak kişilere ödenecek gündelik (ücret) miktarı ile sair harcamaların belirlenmesine ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2504/2014-90.pdf",
+  "source_sha256": "62ba6c41a8db44a36cba1a91cbc616a71e0d9c31fdf096a1d9d9357a8978449d",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 7,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-01-19",
+  "law_text_complete": false
+}
