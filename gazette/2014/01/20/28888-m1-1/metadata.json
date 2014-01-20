@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-01-20",
+  "issue": "28888",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "ATAMA KARARI",
+  "title": "Başbakanlığa Ait Atama Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140120M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140120M1.htm",
+  "index_sha256": "c342f37d483c22eb2734a2b178d3e6f7c0376772b998a49004050d76b5bc29bf",
+  "index_header": "20 Ocak 2014 ... 28888 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140120M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
