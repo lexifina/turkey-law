@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.15968",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ELEKTRONİK HABERLEŞME SEKTÖRÜNDE HİZMET KALİTESİ YÖNETMELİĞİ EK-4’ÜN UYGULAMASINA İLİŞKİN TEBLİĞ",
+  "number": "15968",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu Başkanı",
+  "path": "teblig/2012/15968",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15968&MevzuatTertip=5",
+  "source_sha256": "15500e9ff87ea69f2aecaf2abbdf9c6cdf7cb30b048952b671ae4db0d6b8e756",
+  "source_bytes": 103380,
+  "published": "2012-03-17",
+  "gazette": "28236",
+  "in_force": "2014-01-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/1/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-01-21",
+      "RG-21/1/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-01-21",
+      "21/1/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ, 31/12/2011 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2194,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
