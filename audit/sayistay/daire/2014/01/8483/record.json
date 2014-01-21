@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "183",
+  "decision_date": "2014-01-21",
+  "source_id": 8483,
+  "chamber": "3",
+  "ilam_number": "99",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8483/",
+  "source_sha256": "5999a57286da411cae82c9c038aac383799a899b70651d94e2eff9647d45f3dc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
