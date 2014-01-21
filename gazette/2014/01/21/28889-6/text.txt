@@ -1,0 +1,374 @@
+21 Ocak 2014 SALI
+Resmî Gazete
+Sayı : 28889
+YÖNETMELİK
+Bilgi
+Teknolojileri ve İletişim Kurumundan
+ELEKTRONİK HABERLEŞME SEKTÖRÜNDE HİZMET KALİTESİ
+YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA
+DAİR YÖNETMELİK
+MADDE 1 − 12/9/2010
+tarihli ve 27697 sayılı Resmi Gazete’de yayımlanan Elektronik Haberleşme
+Sektöründe Hizmet Kalitesi Yönetmeliğinin 3 üncü maddesinin birinci
+fıkrasının (ö) bendi aşağıdaki şekilde değiştirilmiş, aynı fıkraya
+aşağıdaki (t), (u), (ü) ve (v) bentleri eklenmiştir.
+“ö) Alt menüde geçen süre: Ana menüde
+temel başlıklardan birini seçen son kullanıcının yaptığı tuşlama ile
+başlayan ve gerçek kişiye bağlanma seçeneğinin sunulduğu ana kadar sesli
+yanıt sisteminde geçen ve saniye cinsinden ölçülen süreyi,”
+“t)
+Engelli abone: Özür oranı %40 ve üzerinde olan ve işletmecinin sisteminde
+kayıtlı aboneleri,
+u)
+Başarısız erişim oranı (HTTP): Http hizmetine erişim için başarısız erişim
+teşebbüsü sayısının tüm erişim teşebbüsü sayısına oranını,
+ü)
+Başarısız veri indirme oranı (HTTP): İnternet sayfası içeriğinin başarılı
+bir şekilde görüntülenmesi için; indirme işlemi başlatılan ancak
+tamamlanamayan veri indirme sayısının toplam başarılı olarak başlatılan
+veri indirme sayısına oranını,
+v) HTTP:
+Bağlantılı Metin Aktarım Protokolü (Hyper Text Transfer Protocol),”
+MADDE 2 – Aynı Yönetmeliğin 5 inci maddesinin ikinci
+fıkrası aşağıdaki şekilde değiştirilmiştir.
+“(2) Evrensel hizmet yükümlüsü sabit telefon
+hizmeti sunan işletmeciler Ek-1’deki, GSM mobil telefon hizmeti sunan
+işletmeciler Ek-2’deki, internet servis sağlayıcılığı hizmeti sunan
+işletmecilerden tebliğ veya Kurul kararı ile belirlenenler Ek-3’teki, son
+kullanıcılara hizmet veren işletmecilerden tebliğ veya Kurul kararı ile
+belirlenenler Ek-4’teki, IMT-2000/UMTS
+mobil telefon hizmeti sunan işletmeciler Ek-5’teki ölçütlere ilişkin
+hedeflere uymakla ve verileri Kuruma göndermekle yükümlüdür.”
+MADDE 3 – Aynı Yönetmeliğin 6 ncı
+maddesi yürürlükten kaldırılmıştır.
+MADDE 4 – Aynı
+Yönetmeliğin 9 uncu maddesinin birinci ve üçüncü fıkraları aşağıdaki
+şekilde değiştirilmiştir.
+“(1) İşletmecinin bir takvim yılı içindeki herhangi bir raporlama döneminde
+hizmet kalitesi ölçütlerine ilişkin bir veya daha fazla hedef değeri
+sağlayamaması durumunda Kurul
+tarafından kabul edilen haklı nedenleri olmaması halinde işletmeci bir defaya mahsus yazılı olarak
+uyarılır ve ilgili raporlama döneminde hizmet kalitesi yükümlülüklerini
+yerine getirmediği Kurum internet sayfasında bir ay süreyle duyurulur.”
+“(3)
+İşletmecinin bir takvim yılı içinde birden
+fazla aynı veya farklı hizmet kalitesi ölçütlerine ilişkin herhangi
+bir hedef değeri Kurul tarafından kabul edilen haklı nedenler olmaksızın
+sağlayamaması veya ikinci fıkraya göre Kurum tarafından verilen süre
+içerisinde gerekli düzeltmeleri yapmaması veya bilgi ve belgeleri vermemesi
+durumunda 5/9/2004 tarihli ve 25574 sayılı Resmî
+Gazete’de yayımlanan Telekomünikasyon Kurumu Tarafından İşletmecilere
+Uygulanacak İdari Para Cezaları ile Diğer Müeyyide ve Tedbirler Hakkında
+Yönetmelik hükümleri uygulanır.”
+MADDE 5 – Aynı Yönetmelikte yer alan Ek-1, Ek-2, Ek-3,
+Ek-4 aşağıdaki şekilde değiştirilmiş ve sonuna Ek-5 eklenmiştir.
+“EK-1
+(Evrensel Hizmet
+Yükümlüsü Sabit Telefon Hizmeti Sunan İşletmeciler)
+İLGİLİ DÖNEM :
+İŞLETMECİNİN ADI - ÜNVANI :
+İŞLETMECİNİN
+YETKİLENDİRME TÜRÜ :
+Hizmet Kalitesi Ölçütü
+İlgili Veriler
+Ölçüm Değeri
+Hedef Değerler
+Bağlantı süresi
+Tüm taleplerin en hızlı karşılanan %95’inin
+yerine getirilmesinde geçen süre
+…Gün
+≤ 6
+Arıza bildirme oranı
+Geçerli arıza sayısının toplam kullanılan abone
+hattı sayısına oranı
+%...
+≤ 2.2
+Arıza giderme süresi
+Tüm geçerli arızaların en hızlı karşılanan %
+95’inin giderildiği süre
+…Saat
+≤ 90
+Engelli Abonelere Yönelik Arıza giderme süresi
+Engelli aboneler tarafından bildirilen tüm
+geçerli arızaların en hızlı karşılanan % 95’inin giderildiği süre
+…Saat
+≤ 48
+Arama blokaj oranı
+Ulusal aramalarda arama blokaj
+oranı
+%…
+≤ 1.5
+Uluslararası aramalarda arama blokaj
+oranı
+%...
+≤ 2.5
+Aramanın kurulma süresi
+Ulusal aramalar için ortalama kurulma süresi
+… Saniye
+≤ 3
+Uluslararası
+aramalar için ortalama kurulma süresi
+… Saniye
+≤ 7
+Çalışır durumdaki ankesörlü telefonların oranı
+Çalışır durumdaki ankesörlü telefon oranı
+%...
+≥ 95
+Fatura şikâyeti oranı
+Abone şikâyetlerinin olduğu fatura sayısının
+toplam fatura sayısına oranı
+%…
+≤ 1
+EK-2
+(GSM
+Mobil Telefon Hizmeti Sunan İşletmeciler)
+İLGİLİ DÖNEM :
+İŞLETMECİNİN ADI - ÜNVANI :
+İŞLETMECİNİN
+YETKİLENDİRME TÜRÜ :
+Hizmet Kalitesi Ölçütü
+İlgili Veriler
+Ölçüm Değeri
+Hedef Değerler
+Arama başarısızlık oranı
+Arama başarısızlık sayısının toplam başarılı
+arama girişimi sayısına oranı
+%...
+≤ 2
+Arama blokaj oranı
+Bloke edilmiş aramaların, toplam aramalara
+oranıdır
+%...
+≤ 5
+Arıza giderme süresi
+Tüm geçerli arızaların en hızlı karşılanan %
+95’inin giderildiği süre
+…Saat
+≤ 48
+Engelli Abonelere Yönelik Arıza giderme süresi
+Engelli aboneler tarafından bildirilen tüm
+geçerli arızaların en hızlı karşılanan % 95’inin giderildiği süre
+…Saat
+≤ 24
+Aramanın kurulma süresi
+En kısa sürede kurulan %95’lik aramanın kurulum
+süresi
+… Saniye
+≤ 10
+Ortalama kanaat değeri
+Kullanıcı tarafından algılanan ses kalitesi
+değeri
+MOS
+≥ 3,5/5
+Fatura şikâyeti oranı
+Abone şikayetlerinin
+olduğu fatura sayısının toplam fatura sayısına oranı
+%…
+≤ 1
+Ön ödemeli hatlarda kredi şikayeti
+oranı
+Abone şikayetlerinin
+olduğu ön ödemeli abone sayısının toplam ön ödemeli abone sayısına oranı
+%…
+≤ 1
+KMH tamamlanma oranı*
+Uçtan uca kısa mesaj teslim süresi içerisinde
+başarılı bir şekilde iletilen KMH sayısının gönderilen toplam KMH
+sayısına oranı
+%…
+≥ 95
+KMH için yapılan gözlem sayısı ve gözlemin yapıldığı
+zaman aralığı
+… Adet
+… Dönem
+Uçtan uca KMH teslim süresi*
+Uçtan uca en kısa sürede gönderilen %99’luk KMH’nin teslim süresi
+… Saniye
+≤ 15
+EK-3
+(İnternet
+Servis Sağlayıcılığı Hizmeti Sunan İşletmeciler)
+İLGİLİ DÖNEM :
+İŞLETMECİNİN ADI - ÜNVANI :
+İŞLETMECİNİN
+YETKİLENDİRME TÜRÜ :
+Hizmet
+Kalitesi Ölçütü
+İlgili
+Veriler
+Ölçüm
+Değeri
+Hedef
+Değerler
+Veri
+aktarım hızı
+Ortalama veri aktarım hızı
+…(kbit/sn)
+≥
+Duyurulan Bağlantı hızının %75’i
+Bağlantı
+süresi
+Tüm taleplerin en hızlı karşılanan %95’inin
+yerine getirilmesinde geçen süre
+…Gün
+≤
+Taahhüt edilen bağlantı süresi
+Fatura
+şikâyeti oranı
+Abone şikâyetlerinin olduğu fatura sayısının
+toplam fatura sayısına oranı
+%…
+≤
+1
+Arıza
+giderme süresi
+Tüm geçerli arızaların en hızlı karşılanan %
+95’inin giderildiği süre
+…Saat
+Engelli
+Abonelere Yönelik Arıza giderme süresi
+Engelli aboneler tarafından bildirilen tüm
+geçerli arızaların en hızlı karşılanan % 95’inin giderildiği süre
+…Saat
+EK-4
+(SON
+KULLANICILARA HİZMET VEREN İŞLETMECİLER)
+İLGİLİ DÖNEM :
+İŞLETMECİNİN ADI :
+İŞLETMECİNİN ÜNVANI :
+Hizmet Kalitesi Ölçütü
+İlgili Veriler
+Ölçüm Değeri
+Hedef Değerler
+Ana menüde geçen süre1
+Sesli yanıt sistemi ana menüsünün toplam süresi.
+… Saniye
+≤ 45
+Alt menüde geçen süre
+Alt menüde, çağrı merkezindeki gerçek kişiye bağlanma
+seçeneğinin sunulduğu ana kadar geçen süre.
+… Saniye
+≤ 20
+Müşteri hizmetleri için cevap verme süresi
+20 saniye içinde cevaplanan aramaların yüzdesi
+%…
+≥ 80
+Tüketici şikâyeti sıklığı
+Aylık toplam şikâyet sayısının toplam abone
+sayısına oranı
+… Adet
+%…
+Tüketici şikâyetleri çözüm süresi
+En kısa sürede sonuçlandırılan % 80’lik dilim
+içerisindeki şikâyetlerin çözüm süresi
+… Saat
+≤ 24
+1 Sesli yanıt sistemi kullanan işletmeci için geçerli
+ölçüt ve değerdir.
+EK-5
+(IMT-2000/UMTS MOBİL HABERLEŞME HİZMETİ SUNAN
+İŞLETMECİLER)
+İLGİLİ
+DÖNEM :
+İŞLETMECİNİN
+ADI :
+İŞLETMECİNİN ÜNVANI :
+Hizmet Kalitesi Ölçütü
+İlgili Veriler
+Ölçüm Değeri
+Hedef Değerler
+Arama başarısızlık oranı
+Arama başarısızlık sayısının toplam başarılı
+arama girişimi sayısına oranı
+%...
+≤2
+Arama blokaj oranı
+Bloke edilmiş aramaların, toplam aramalara oranı
+%...
+≤5
+Arıza giderme süresi
+Tüm geçerli arızaların en hızlı karşılanan %
+95’inin giderildiği süre
+…Saat
+≤ 48
+Engelli Abonelere Yönelik Arıza giderme süresi
+Engelli aboneler tarafından bildirilen tüm
+geçerli arızaların en hızlı karşılanan % 95’inin giderildiği süre
+…Saat
+≤ 24
+Ortalama kanaat değeri
+Kullanıcı tarafından algılanan ses kalitesi
+değeri
+MOS
+≥3,5/5
+KMH tamamlanma oranı*
+Uçtan uca kısa mesaj teslim süresi içerisinde
+başarılı bir şekilde iletilen KMH sayısının gönderilen toplam KMH
+sayısına oranı
+%…
+≥95
+KMH için yapılan gözlem sayısı ve gözlemin
+yapıldığı zaman aralığı
+… Adet
+… Dönem
+Uçtan uca KMH teslim süresi*
+Uçtan uca en kısa sürede gönderilen %99’luk KMH’nin teslim süresi
+… Saniye
+≤15
+Başarısız erişim oranı (http)
+Başarısız erişim teşebbüsü sayısının tüm erişim teşebbüsü sayısına
+oranın
+%...
+≤5
+Başarısız veri indirme oranı (http)
+İnternet sayfası indirme işlemi başlatılan ancak
+tamamlanamayan indirme sayısının, başarılı olarak başlatılan toplam
+indirme sayısına oranı
+%...
+≤5
+Veri aktarım hızı (ftp)
+Tüm başarılı indirme işlemlerinin en hızlı
+%95’inin ortalama veri aktarım hızı
+Kbit/sn
+≥768
+Başarılı indirme işlemlerinin %99’unun her biri
+için ortalama asgari veri aktarım hızı
+Kbit/sn
+≥256
+Tüm başarılı gönderme işlemlerinin en hızlı
+%95’inin ortalama veri aktarım hızı
+Kbit/sn
+≥256
+Fatura şikâyeti oranı
+Abone şikâyetlerinin olduğu fatura sayısının
+toplam fatura sayısına oranı
+%…
+≤ 1
+* Ek-2 ve Ek-5’te yer alan KMH
+tamamlanma oranı ve uçtan uca KMH teslim süresi ölçütlerine ilişkin
+hesaplama, bildirim ve değerlendirmeler GSM ve IMT-2000/UMTS şebekeleri
+için tek veri grubu olarak dikkate alınacaktır.”
+MADDE 6 – Bu
+Yönetmeliğin Ek-3’ünde yer alan “Arıza giderme süresi” ile “Engelli
+abonelere yönelik arıza giderme süresi”ne
+ilişkin hükümleri 31/12/2014 tarihinde, Ek-5’i
+Yönetmeliğin yayımından 6 ay sonra, diğer hükümleri yayımı tarihinde
+yürürlüğe girer.
+MADDE 7 – Bu
+Yönetmelik hükümlerini Bilgi Teknolojileri ve İletişim Kurulu Başkanı
+yürütür.
+Yönetmeliğin Yayımlandığı Resmî Gazete'nin
+Tarihi
+Sayısı
+12/9/2010
+27697
+Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı
+Resmî Gazete'nin
+Tarihi
+Sayısı
+1-
+15/4/2011
+27906
+2-
+11/3/2013
+28584
