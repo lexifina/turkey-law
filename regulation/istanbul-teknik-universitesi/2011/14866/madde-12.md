@@ -1,0 +1,4 @@
+Merkez danışma kurulu ve görevleri
+MADDE 12 – (Değişik:RG-22/1/2014-28890)
+(1) Merkez Danışma Kurulu; Merkezin amacı doğrultusunda çalışma yapan ilgili kişiler ve istekleri halinde diğer kurum temsilcileri arasından Yönetim Kurulu Başkanı tarafından Merkez Yönetim Kuruluna önerilen ve kurul tarafından onaylanan en az beş, en fazla yirmi üyeden oluşur. Merkez Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılan üyelerin yerine aynı usulle yeni üyeler görevlendirilir; yeni seçilen üye ayrılan üyenin görev süresini tamamlar.
+(2) Merkez Danışma Kurulunun görevi; Merkez Müdürünün daveti üzerine yılda en az bir kez toplanarak, Merkezin çalışma alanına giren konular hakkında bilgi alıp, görüşlerini bildirmek, tartışılmasını sağlamak, yeni çalışma konuları ve yöntemler üzerinde önerilerde bulunmak ve Merkezin ihtiyaç duyduğu alanlarda strateji geliştirmektir.

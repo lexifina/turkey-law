@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; tarım alanlarından, zirai faaliyetleri etkileyen çevresel faktörlerden ve her türlü zirai ürüne ya da üretim sürecine ilişkin işlemlerden, duyarga ağları, telemetrik yöntemler ve uzaktan algılama yöntemleriyle toplanan ve/veya diğer ilgili bilgi sistemleriyle tümleştirilen sayısal verilerin derlenmesi, işlenmesi, bilgi ve hizmetlere dönüştürülmesi için farklı disiplinlerden uzmanları bir araya getirerek temel ve uygulamalı araştırmalar yolu ile çalışmak, tarımda ulusal rekabet gücünü arttırıcı gerçek zamanlı veri işleme ve bilişim teknolojilerine dayalı ileri hizmet sistemleri üretmek, işletmek, yöntem ve bilgilerinden yararlanmasını mümkün kılacak araştırma, yayın, organizasyon ve koordinasyon çalışmalarını yürütmektir.

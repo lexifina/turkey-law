@@ -1,0 +1,84 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-04-01",
+      "01.04.2011",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2014-01-22",
+      "RG-22/1/2014-28890",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-01-22",
+      "RG-22/1/2014-28890",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-01-22",
+      "RG-22/1/2014-28890",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-01-22",
+      "RG-22/1/2014-28890",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-01-22",
+      "RG-22/1/2014-28890",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-01-22",
+      "RG-22/1/2014-28890",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-01-22",
+      "RG-22/1/2014-28890",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-01-22",
+      "RG-22/1/2014-28890",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-01-22",
+      "22/1/2014",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-22/1/2014-28890",
+  "first_law": null,
+  "gazette": "27892",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-01-22",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/2011/14866",
+  "published": "2011-04-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14866&MevzuatTertip=5",
+  "source_bytes": 46787,
+  "source_id": "8.5.14866",
+  "source_sha256": "6265d20871aeff8d1a3044bf02023d4951b39dc377f6be21fac33af55fac0805",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ TARIM VE ÇEVRE BİLİŞİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 1695
+}
