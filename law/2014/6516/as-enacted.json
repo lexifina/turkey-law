@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6516",
+  "year": 2014,
+  "title": "Eskişehir 2013 Türk Dünyası Kültür Başkenti Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-01-22",
+  "gazette_issue": "28890",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140122-26.htm",
+  "source_sha256": "3d89f347c278edec41da975dda1b9f0def3cbb5a9a4f3416fe0622f586f17cb2",
+  "text_sha256": "313b34d4c6057a537ef2aaaa3ec07f73fb0fe4bae7607029d63b14f3ed19dd91",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/01/22/28890-26",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140122-26.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
