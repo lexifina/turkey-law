@@ -1,0 +1,25 @@
+{
+  "number": "14",
+  "number_as_published": "14",
+  "year": 2014,
+  "title": "UKOME kararı 2014/14",
+  "decision_date": "2014-01-22",
+  "source": "https://www.izmir.bel.tr/tr/UkomeKararlari/UkomeKararlariGetirJS?draw=1&start=500&length=500&baslangicTarihi=01.01.2014&bitisTarihi=31.12.2014&kararNo=&konuKodu=&ilceId=&sokakKodu=&teklif=&asilKararNo=",
+  "official_document": null,
+  "source_sha256": "8e4e8f33a4e12e586a47ee5522cb4e47565ac05625724e9cd69741f256d6aa28",
+  "issuer": "İzmir Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2014-01-22",
+  "in_force_basis": "Decision date as printed in the official council listing: 22/01/2014; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.izmir.bel.tr/tr/UkomeKararlari/64",
+  "register_id": 4374,
+  "file_name": "2014.14.DOC",
+  "district": null
+}
