@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/uskudar-universitesi/2014/19322",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28890",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-01-22",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Üsküdar Üniversitesi",
+  "issuer_slug": "uskudar-universitesi",
+  "kind": "regulation",
+  "published": "2014-01-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19322&MevzuatTertip=5",
+  "source_id": "8.5.19322",
+  "source_sha256": "07dd18618c87363f1a1cbb3eed0a51492481018c402b1551ec5d59bd26cd6af8",
+  "title": "ÜSKÜDAR ÜNİVERSİTESİ BİYOTEKNOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 372,
+  "version_label": "oldest version available",
+  "word_count": 1064
+}
