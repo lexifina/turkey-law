@@ -1,0 +1,3 @@
+Düzey belirleme sınavı
+MADDE 5 – (Değişik:RG-22/1/2014-28890) (1)
+(1) Yabancı dil hazırlık sınıfına kayıt yaptıran öğrenciler yapılacak düzey belirleme sınavına girerler. Sınav sonucuna göre öğrenciler orta düzey (A), ön orta düzey (B), temel düzey (C), başlangıç düzeyi (D) kurlarına ayrılır. Herhangi bir nedenle sınava girmeyen öğrenciler derslere başlangıç düzeyi (D) kurundan itibaren devam ederler. Bu kurların puan aralıkları Üniversitenin Yabancı Diller Bölüm Başkanlığının değerlendirmesiyle belirlenir. İlk iki hafta içerisinde ilgili öğretim elemanının uygun görmesi halinde kurlar arası değişim yapılabilir.

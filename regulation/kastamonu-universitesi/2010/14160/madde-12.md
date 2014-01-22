@@ -1,0 +1,2 @@
+Mazeret sınavı
+MADDE 12 – (1) 14/12/2006 tarihli ve 26376 sayılı Resmî Gazete’de yayımlanan Kastamonu Üniversitesi Eğitim-Öğretim ve Sınav Yönetmeliğinde belirtilen haklı ve geçerli bir mazereti nedeni ile herhangi bir ara sınava giremeyen öğrenciye; ara sınavların bitiminden itibaren en geç bir hafta içerisinde başvurması ve geçerli mazeretini sağlıkla ilgili mazeretinde sağlık raporuyla, diğer mazeretlerinde kanıtlayıcı belgelerle belgelemesi halinde Yabancı Diller Bölüm Kurulu kararı ile mazeret sınavı açılır. Bilgi yoklama sınavı için mazeret sınavı açılmaz.
