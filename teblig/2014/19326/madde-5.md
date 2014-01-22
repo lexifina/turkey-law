@@ -1,0 +1,4 @@
+İthal lisansına ilişkin esaslar
+MADDE 5 – (1) Tarife kontenjanı kapsamında yapılacak ithalat için, Ekonomi Bakanlığınca (İthalat Genel Müdürlüğü) ithal lisansı düzenlenir. Bu Tebliğ kapsamında ithal edilecek ürünlere ilişkin gümrük beyannamelerinin, ithal lisansının geçerlilik süresi içinde tescil edilmiş olması şarttır.
+(2) Düzenlenecek ithal lisansları 31/12/2014 (31/12/2014 dâhil) tarihine kadar geçerlidir. İthal lisansı üzerinde, geçerlilik süresi içerisinde, ilgili firmaların talep etmesi halinde, Bakanlıkça uygun görülecek değişiklikler yapılabilir. Ancak, tahsis edilmiş olan tarife kontenjanı miktarının artırılmasına ve lisans geçerlilik süresinin uzatılmasına yönelik talepler değerlendirmeye alınmaz.
+(3) İthal lisansının geçerlilik süresinin bitmesini müteakip, on iş günü içerisinde, firmalara verilen nüshanın aslı Ekonomi Bakanlığına (İthalat Genel Müdürlüğü) iade edilir.
