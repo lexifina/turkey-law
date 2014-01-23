@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "22",
+  "decision_date": "2014-01-23",
+  "source_id": 11001,
+  "chamber": "8",
+  "ilam_number": "148",
+  "item_number": 22,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11001/",
+  "source_sha256": "a4098fb9b15cea3b85608adaae96181a77a6f681d15b0e55cf9d953e6e4ed9f0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
