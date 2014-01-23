@@ -1,0 +1,3 @@
+Her şey dahil olarak düzenlenen seminere katılan personele ayrıca harcırah ödenmesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … tarafından Antalya’da her şey dahil olarak düzenlenen “Yerel yönetimlerde mali hizmetler birimlerince yürütülen gelirlerin tahsili işlemlerinde karşılaşılan sorunlar, çözüm yolları ve icra işlemleri” adlı seminere katılan personele ayrıca gündelik ödenmesi sonucu … TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararının … TL’si ahizi …’ndan … tarih ve … sayılı makbuzla, … TL’si de ahizi …’dan … tarih ve … sayılı makbuzla tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle,
