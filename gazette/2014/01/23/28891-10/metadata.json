@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-01-23",
+  "issue": "28891",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Altyapı Gayrimenkul Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (Seri:VI, No: 24)’nin Yürürlükten Kaldırılmasına Dair Tebliğ (III.48.4)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140123-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140123.htm",
+  "index_sha256": "2bdb72092cdfc80b512aded9067bddc62d2a61dcd7a304a6e13101deac67291d",
+  "index_header": "23 Ocak 2014 ... 28891 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140123.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
