@@ -1,0 +1,3 @@
+Yıllara sari nitelikte olan yapım işine ait hakediş ödemesinde 193 sayılı Gelir Vergisi Kanunu’nun 42’nci maddesi uyarınca gelir vergisi stopajının yapılmaması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; yıllara sari nitelikte olan “… Yapılması ” işine ait 4 nolu hakediş ödemesinden 193 sayılı Gelir Vergisi Kanunu’nun 42’nci maddesi uyarınca yapılması gereken gelir vergisi stopajı kesintisinin yapılmaması sonucu … TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizi … Ltd. Şti’nden … tarih ve … sayılı makbuzla tahsil edildiğinden ilişilecek husus kalmadığına oybirliğiyle,
