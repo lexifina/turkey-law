@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.19330",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 434)",
+  "number": "19330",
+  "path": "teblig/2014/19330",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19330&MevzuatTertip=5",
+  "source_sha256": "c8e5fd6f05b453c8766f76eba65693b98ee8a2fe8382730ea08d26914755cd4b",
+  "source_bytes": 71869,
+  "published": "2014-01-23",
+  "gazette": "28891",
+  "in_force": "2014-01-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.01.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 760,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
