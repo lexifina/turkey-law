@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "22",
+  "decision_date": "2014-01-23",
+  "source_id": 10985,
+  "chamber": "8",
+  "ilam_number": "148",
+  "item_number": 6,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2012,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10985/",
+  "source_sha256": "4a3372b4a1322580be67fc1692b8b71c3b0400d1ec00694e5817de36dee1665e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
