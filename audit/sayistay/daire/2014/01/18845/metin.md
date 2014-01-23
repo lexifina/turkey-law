@@ -1,0 +1,3 @@
+Bazı yapım işlerinde işyerinde bulunması gereken ilgili teknik personelin bulunmamasına rağmen sözleşmesinde öngörülen cezanın kesilmemesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, Plan-Proje Müdürlüğü tarafından yaptırılan bazı yapım işlerinde işyerinde bulunması gereken ilgili teknik personelin bulunmaması nedeniyle sözleşme ile hüküm altına alınana cezanın uygulanmaması sonucu … TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararının … TL’si … tarih ve … nolu, … TL’si … tarih ve … nolu, … TL’si de … tarih ve … nolu ödeme emirleri ile ahizlerinden tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle,
