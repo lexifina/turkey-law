@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "45",
+  "decision_date": "2014-01-23",
+  "source_id": 20043,
+  "chamber": "6",
+  "ilam_number": "190",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20043/",
+  "source_sha256": "fe42c1a14f40b952909b890603ce68da03d3b194479588e44fe5a2f46817f750",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
