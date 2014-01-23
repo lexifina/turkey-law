@@ -1,0 +1,3 @@
+Damga Vergisi
+
+2886 sayılı Devlet İhale Kanununa göre yapılan “...”nden 488 sayılı Damga Vergisi Kanunu’na ekli 1 sayılı Tablonun “I. Akitlerle ilgili kağıtlar” başlığının A/1’inci bendi uyarınca alınması gereken damga vergisi ile yine aynı Tablonun “II. Kararlar ve Mazbatalar” başlığının 2’nci bendi uyarınca ihale kararından alınması gereken damga vergisinin alınmaması sonucunda    …….. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararının      ……… TL’sinin ……. sayılı tahsilat makbuzu ile, kalan      ……….. TL’sinin ……… sayılı tahsilat makbuzu …….Tic. A.Ş.’den tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
