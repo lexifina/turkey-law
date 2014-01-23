@@ -1,0 +1,3 @@
+Sözleşmeden 488 sayılı Damga Vergisi Kanunu’na ekli 1 sayılı Tablonun “I. Akitlerle ilgili kağıtlar” başlığının A/1’inci bendi uyarınca alınması gereken damga vergisinin alınmaması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, … Belediyesi ile … A.Ş. arasında düzenlenen sözleşmeden 488 sayılı Damga Vergisi Kanunu’na ekli 1 sayılı Tablonun “I. Akitlerle ilgili kağıtlar” başlığının A/1’inci bendi uyarınca alınması gereken damga vergisinin alınmaması sonucu … TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizi tarafından … tarihinde …Vergi Dairesine yatırıldığından ilişilecek husus bulunmadığına oy birliğiyle,
