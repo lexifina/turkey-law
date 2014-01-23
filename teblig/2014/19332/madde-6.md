@@ -1,0 +1,8 @@
+Açıklamanın kapsam ve niteliği
+MADDE 6 – (1) Bu Tebliğ uyarınca yapılacak özel durum açıklamalarında aşağıdaki esaslara uyulur:
+a) Açıklamaların dili Türkçedir.
+b) Açıklama, yatırımcıların karar vermelerine yardımcı olacak ölçüde, zamanında, doğru, tam, dolaysız, anlaşılabilir ve yeterli olmalı; özel durumun doğru bir şekilde değerlendirilebilmesi için zorunluysa açıklamaya konu durumun ilgili olduğu karşı taraf belirtilmeli; değişikliklerin veya etkilerinin miktar veya tutar olarak ifade edilebilmesi halinde, yapılacak açıklamalarda miktar veya tutara yer verilmelidir.
+c) Önceden yapılmış olan açıklamalarda meydana gelen gelişmeler ve değişiklikler güncellenerek kamuya duyurulur.
+ç) Bu Tebliğde geçen önemlilik kavramı; payların değerini, fiyatını veya yatırımcıların yatırım kararlarını etkileyebilecek ve mevcut koşullar altında önemli olarak sayılabilecek olan veya bir varlık ya da ilgili finansal tablo kaleminde %10 ve üzerindeki bir oranda değişiklik yaratabilecek olan bilgiyi ifade eder.
+d) Açıklamalar yanlış, yanıltıcı, temelsiz, abartılı veya eksik olamayacağı gibi; ortaklıkların mevcut durumları hakkında yanlış kanaat uyandıracak nitelikte de olamaz.
+e) Bu Tebliğ uyarınca açıklanması zorunlu aşamaya gelmiş olmakla beraber, miktar, tutar veya işlem olarak bazı belirsizlikler içeren özel durumlar; söz konusu belirsizlikler ile bu belirsizliklerin ortadan kalkacağı muhtemel tarih varsa koşullarıyla birlikte açıklanır. Karar alınması aşamasında yapılacak açıklamalarda, kararın uygulamaya geçirilmesi için öngörülen süre ve uygulamayı önleyebilecek unsurlar da açıklamaya eklenir.
