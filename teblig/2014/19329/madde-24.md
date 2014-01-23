@@ -1,0 +1,2 @@
+Üçüncü ülkelerden ithalat
+MADDE 24 – (1) 2010-2012 döneminde üçüncü ülkelerden yapılan ithalat incelendiğinde, üçüncü ülkelerden yapılan ithalatta bir artış olduğu görülmektedir. Ancak üçüncü ülkelerden yapılan ithalatın pazar payı en yüksek değerine (%5) 2012 yılında ulaşmış olmasına rağmen, yerli üretim dalının ekonomik göstergelerinin işaret ettiği üzere üçüncü ülkeler kaynaklı ithalatın yerli üretim dalına halen olumsuz bir etkisi bulunmamaktadır.

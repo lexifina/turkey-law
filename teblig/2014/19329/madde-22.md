@@ -1,0 +1,2 @@
+Talebi etkileyen unsurlar
+MADDE 22 – (1) YÜD yaygın olarak kullanılan bir teknoloji ile üretim yapmakta olup yerli ürün ile önlem konusu ürün arasında kalite yönünden bir fark bulunmadığı anlaşılmaktadır. Soruşturma konusu battaniyelerin düşük kıymetli nihai ürün olması nedeniyle, piyasada tüketimi etkileyen en önemli unsurun fiyat olduğu tespiti önceki soruşturmalarda yapılmıştır. Bu tespitin geçerliliğini koruduğu değerlendirilmiştir.

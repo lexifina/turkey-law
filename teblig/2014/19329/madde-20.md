@@ -1,0 +1,3 @@
+Soruşturmaya konu ülkenin belirli ülke pazarlarındaki durumu
+MADDE 20 – (1) ÇHC’nin en çok ihracat yaptığı ülkelerin başında, ABD, BAE ve S.Arabistan gelmektedir.
+(2) ITC verilerine göre, ÇHC’den ABD’ye yapılan ihracat 2010 yılında 105 bin ton iken 2011 yılında 93 bin, 2012 yılında ise 96 bin ton olarak gerçekleşmiştir. Yine BAE’ne gerçekleştirilen ihracat, 2010 yılı seviyesi olan 55 bin tondan 2011’de 48 bin tona, 2012 yılında ise 41 bin tona düşmüştür. ÇHC’nin ihracatında yaşanan ciddi artışlar ve pazar çeşitlendirme faaliyetleri, soruşturma konusu ülkede mezkur ürüne ilişkin yüksek kapasite bulunduğuna işaret etmektedir.
