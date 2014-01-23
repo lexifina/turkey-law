@@ -1,0 +1,9 @@
+Su Faturalarının Ödenmesi:
+
+13.10.2009 tarihinde ... Devlet Klasik Türk Müziği Korosu Müdürlüğü, ...  Bölge Devlet Senfoni Orkestrası Müdürlüğü, .... İl Kültür Turizm Müdürlüğü ve... Devlet Tiyatrosu Müdürlüğü arasında aynı binada hizmet vermeleri sebebiyle yapılan protokole göre; su faturalarının 4’er aylık dönemler itibariyle ödenmesi öngörülmüşken, 2012 yılına ait tüm su faturalarının ....  Devlet Tiyatrosu Müdürlüğü bütçesinden ödenmesi ile ilgili olarak sorumluların göndermiş oldukları savunmalar neticesinde;
+
+02.06.2010 tarihinde ..... Devlet Tiyatrosu Müdürlüğü ile Koro Müdürlüğü arasında yeni bir protokol imzalandığı, bu protokolün 9’uncu maddesine göre binada bulunan her birimin elektrik, su, doğalgaz giderlerini kullanımları oranında ortak olarak karşılayacağının belirlendiği ancak Müdürlükler arasında bu kullanım oranı tespiti yapılamadığından ödemelerin eski protokole göre devam ettiği ve diğer kurumların ödenekleri yetersiz olduğundan faturaların .... Devlet Tiyatrosu Müdürlüğü tarafından ödendiği anlaşılmıştır.
+
+Ayrıca ....  Devlet Klasik Türk Müziği Korosu Müdürlüğü ile .... Bölge Devlet Senfoni Orkestrası Müdürlüğü’nün Kültür ve Turizm Bakanlığı Güzel Sanatlar Genel Müdürlüğü bünyesinde faaliyet gösteren birimler olduğu,  .... Devlet Tiyatrosu Müdürlüğü’nün Bakanlığa bağlı bir kuruluş olan Devlet Tiyatroları Genel Müdürlüğü’nün taşra birimi olduğu,  .... İl Kültür Turizm Müdürlüğü’nün ise Bakanlığın taşra teşkilatına dâhil olduğu ve aynı yapı içerisinde bulunan veya bağlı kurum niteliğindeki bu kuruluşların kullandıkları su karşılığı yaptıkları ödemelerin aralarındaki protokole uygun olmamasının ödenek yetersizliği sebebiyle yapıldığı anlaşılmış bulunduğundan;
+
+Kamu zararı oluşmayan hesap ve işlemler hakkında ilişilecek bir husus bulunmadığına, oy birliğiyle karar verildi.
