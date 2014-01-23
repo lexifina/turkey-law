@@ -1,0 +1,9 @@
+Yurtiçi Geçici Görev Yolluğu Ödemeleri:
+
+....  Müdürlüğü tarafından sahnelenen oyuna ait dekor ve malzemeleri Konya’dan alıp oyunun sahneleneceği illere götürmek ve repertuardan kalkan oyunların malzemelerini Ankara’ya getirmekle görevli olan Şoför ....’nun Konya’daki konaklama giderinin kurum bütçesinden karşılanması ile ilgili olarak;
+
+5441 sayılı Devlet Tiyatrosu Kuruluşu Hakkındaki Kanun’un ek 2’nci maddesinde; “Devlet Tiyatroları Genel Müdürlüğü’nce tertip edilecek yurtiçi turne faaliyetlerine katılacak sanatkar memurlar, uygulatıcı uzman memurlar ve uzman memurlarla diğer görevlilere ödenecek harcırah yevmiyeleri 75,00 TL’yi geçmemek üzere her yıl Sanat ve Yönetim Kurulunca tespit edilir. Turnelerdeki ikamet yerleri Genel Müdürlükçe temin edilir ve parası da Genel Müdürlük Bütçesinden ödenir. Turneyle ilgili seyahatlerin zamanı ve hangi vasıtalarla yapılacağı Genel Müdürlükçe tayin olunur. Harcırah yevmiyelerinde herhangi bir kesinti yapılamaz ve otel ücreti tenzil edilemez. Yurt dışı turne faaliyetlerine ait yolluk ve harcırahlar hakkında genel hükümler uygulanır.” hükmüne yer verilmiştir.
+
+5441 sayılı Kanun’un ek 2 ’nci maddesindeki hüküm gereğince, bir görevlinin otel giderinin bütçeden karşılanması için ilgilinin turne faaliyetine katılması gerekmektedir. ... Müdürlüğü tarafından sahnelenen oyuna ait dekor ve malzemeleri Konya’dan alıp oyunun sahneleneceği illere götürmek ve repertuardan kalkan oyunların malzemelerini Ankara’ya getirmekle görevli olan Şoför ....’nun 5441 sayılı Devlet Tiyatrosu Kuruluşu Kanunu’nun ek 2 nci maddesinde belirtilen “diğer görevliler” kapsamına girdiği ve gerçekleştirdiği görevlerin de turne faaliyeti kapsamında olduğu değerlendirildiğinden;
+
+Söz konusu hesap ve işlemlerin yasal düzenlemelere uygun olduğuna, oy birliğiyle karar verildi.
