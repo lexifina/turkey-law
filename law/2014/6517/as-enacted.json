@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6517",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Moldova Cumhuriyeti Hükümeti Arasında Geri Kabul Anlaşması ile Notaların Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-01-24",
+  "gazette_issue": "28892",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140124-1.htm",
+  "source_sha256": "11261438a693d28ba34543183387fe3dd922b8fcab5d41bd75acb6d5739f66c7",
+  "text_sha256": "8ec27bf0c5a336e40a2ec7bf4b251213615e0ef90223d535989cf660c01631ff",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/01/24/28892-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140124-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
