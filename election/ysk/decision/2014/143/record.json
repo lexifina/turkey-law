@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/143",
+  "list_number": "143",
+  "decision_date": "2014-01-24",
+  "title": "19/01/2014 tarihinde yapılan Diyarbakır Tuhafiyeciler ve Parfümericiler Esnaf Odası seçimlerinde, yönetim ve denetim kurullarına seçilenlerle ilgili hususun yeniden değerlendirilmesi için dosyanın Bağlar 1. İlçe Seçim Kurulu Başkanlığınca değerlendirilmesine ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2490/2014-143.pdf",
+  "source_sha256": "12aa51dd47ee45c89dde51d8fbc8b60df7a445a1eafa630dceea65cdb6e9016f",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-01-24",
+  "law_text_complete": false
+}
