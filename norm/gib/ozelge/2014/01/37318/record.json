@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-175.02[67-2013/7.1.9.7879]-95",
+  "source_id": 37318,
+  "date": "2014-01-24",
+  "title": "İcradan gayrimenkul satışı yapılması halinde tellallık harcının alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37318",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "4d50c7df7d7c3503d6dc03adc688bf3bc87b8604fe4317033969e42f114ff730",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
