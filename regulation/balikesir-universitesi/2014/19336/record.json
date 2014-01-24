@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-01-24",
+      "24.01.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28892",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-01-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Balıkesir Üniversitesi",
+  "issuer_slug": "balikesir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/balikesir-universitesi/2014/19336",
+  "published": "2014-01-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19336&MevzuatTertip=5",
+  "source_bytes": 21357,
+  "source_id": "8.5.19336",
+  "source_sha256": "f54a7d89a6c2b7841deecddc9758d7c32bccc56c530412b3b406cd6fa89a5e40",
+  "text_status": "as-enacted",
+  "title": "BALIKESİR ÜNİVERSİTESİ OSMANLI MİRASI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 182,
+  "word_count": 963
+}
