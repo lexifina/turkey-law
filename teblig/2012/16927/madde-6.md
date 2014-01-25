@@ -1,0 +1,4 @@
+Müdürlüklerce yapılacak ihtar ve ilan
+MADDE 6 – (1) Müdürlüklerce resen ya da yapılacak bildirim üzerine tespit edilen şirket ve kooperatiflerin ticaret sicilinde kayıtlı son adreslerine ve sicil kayıtlarına göre şirket veya kooperatifi temsil ve ilzama yetkilendirilmiş kişilere 7 nci maddeye göre hazırlanacak ihtar gönderilir. Bu ihtar, sermayelerini 31/12/1998 tarihine kadar 5.000 TL’ye çıkarmayarak münfesih olan anonim şirketlerin ayrıca en son tescil edilmiş denetçisine de gönderilir.
+(2) Gönderilen ihtarlar, ilan edilmek üzere Müdürlükler tarafından Türkiye Ticaret Sicili Gazetesi Müdürlüğüne aynı gün gönderilir.
+(3) Sicil Gazetesinde yapılan ilan, ilgili odanın internet sitesinde 7 nci maddeye uygun olarak aynen yayımlanır. İlgili odanın internet sitesinin bulunmaması durumunda ilan TOBB’un internet sitesinde yayımlanır.

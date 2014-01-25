@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.16927",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MÜNFESİH OLMASINA VEYA SAYILMASINA RAĞMEN TASFİYE EDİLMEMİŞ ANONİM VE LİMİTED ŞİRKETLER İLE KOOPERATİFLERİN TASFİYELERİNE VE TİCARET SİCİLİ KAYITLARININ SİLİNMESİNE İLİŞKİN TEBLİĞ",
+  "number": "16927",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2012/16927",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16927&MevzuatTertip=5",
+  "source_sha256": "afe21199befd41864e2aa7b6e090a329d5c7f7f8d545a40486aa37acc4afcd3f",
+  "source_bytes": 84272,
+  "published": "2012-12-30",
+  "gazette": "28513",
+  "in_force": "2014-01-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/1/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-01-25",
+      "RG-25/1/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2113,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16927%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

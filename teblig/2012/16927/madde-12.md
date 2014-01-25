@@ -1,0 +1,11 @@
+Tasfiye memurlarınca yapılacak işlemler
+MADDE 12 – (1) Tasfiye memurları, alacaklıların alacaklarını bildirmeleri için öngörülen iki aylık sürenin sonunda, şirket veya kooperatifin durumunu gösterir bir bilanço hazırlar.
+(2) Tasfiye memurunca hazırlanan bilançoya göre şirket veya kooperatifin varlığının borçlarından fazla olması halinde, tasfiye memuru tasfiyeyi altı ay içerisinde sonuçlandırır. Gerekli hallerde tasfiye süresi altı ayı aşmamak üzere, tasfiye memurunun müracaatı halinde Bakanlıkça bir defaya mahsus olmak üzere uzatılabilir.
+(3) Yapılacak tasfiye işlemleri sırasında ilgili Kanunlardaki ve esas sözleşmelerdeki genel kurul kararı alınmasını zorunlu kılan hükümler uygulanmaz.
+(4) Şirket veya kooperatif borçları ödendikten sonra kalan mal mevcudu ortakların payları oranında ortaklara dağıtılır.
+(5) Tasfiye tamamlandıktan sonra tasfiye memurunca hazırlanacak kesin bilançoda ibraz edilmek suretiyle Müdürlüğe başvurulur. Müdürlükçe şirket veya kooperatife ait unvan ticaret sicilinden silinir ve durum Sicil Gazetesinde ilan edilir.
+(6) Tasfiye memuru, hazırlanan bilançoya göre şirket veya kooperatifin borçlarının varlığından fazla olması halinde durumu derhal alacaklılara bildirir. Yapılacak bildirimde şirket veya kooperatifin iflasına karar verilmesi için mahkemeye başvurmaları da istenir.
+(7) Bildirimde ayrıca, bildirim tarihinden itibaren üç ay içinde şirket veya kooperatifin iflası için mahkemeye müracaat edildiğinin tasfiye memuruna bildirilmemesi halinde şirket veya kooperatifin ticaret sicili kaydının silineceği ihtar olunur.
+(8) Alacaklıların başvurusu üzerine mahkemece iflasın açılmasına karar verilir ve tasfiye 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun ilgili hükümlerine göre yürütülür.
+(9) Tasfiye memurunun ihtarına rağmen süresi içinde şirket veya kooperatifin iflası için mahkemeye müracaat edildiğinin bildirilmemesi halinde, tasfiye memurlarının başvurusu üzerine şirket veya kooperatifin unvanı ticaret sicilinden silinir ve bu durum Sicil Gazetesinde ilan edilir.
+(10) Tasfiye memurlarına 11 inci maddenin ikinci fıkrasının (b) bendinde belirtilen bilgi ve belgelerin verilmemesi veya tasfiye memurlarınca da bu bilgi ve belgelere erişilememesi halinde, durum Müdürlüğe bildirilerek, başka bir işleme gerek kalmaksızın unvan ticaret sicilinden silinir ve bu durum Sicil Gazetesinde ilan edilir.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, 29/6/1956 tarihli ve 6762 sayılı mülga Türk Ticaret Kanununda sayılan sebeplerle münfesih olan veya sayılan anonim ve limited şirketleri; 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununun yürürlük tarihinden itibaren iki yıl içinde münfesih olacak anonim ve limited şirketler ile 24/4/1969 tarihli ve 1163 sayılı Kooperatifler Kanunu uyarınca halen münfesih olan veya 1/7/2014 tarihine kadar münfesih olacak kooperatifleri kapsar.
