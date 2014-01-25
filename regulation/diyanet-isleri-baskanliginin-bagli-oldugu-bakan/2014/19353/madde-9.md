@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Pay ve gelirlerin tahsili
+MADDE 9 – (1) Birinci grup taşınmazların ilgili dernek veya vakıf tarafından işletilmesinden, işlettirilmesinden veya kiraya verilmesinden elde edilen gelirlerden süresi içinde bildirildiği halde ödenmeyen veya eksik ödenen Başkanlık payı müftülüklerce, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre gecikme zammı ile birlikte takip ve tahsil edilmek üzere ilgili vergi dairelerine bildirilir.
+(2) Süresi içinde bildirilmediği veya eksik bildirildiği tespit edilen paylara, bildirimin yapılması gereken son günden tahakkuk ettirildiği güne kadar geçen süre için 6183 sayılı Kanunun 51 inci maddesine göre hesaplanacak gecikme zammı oranında zam uygulanır ve bir ay içinde ödenmesi için ilgili müftülükçe bir yazı tebliğ edilir. Bu süre içinde de ödenmeyen paylar müftülüğün bildirimi üzerine ilgili vergi dairesi tarafından 6183 sayılı Kanun hükümlerine göre gecikme zammı ile birlikte tahsil edilir.

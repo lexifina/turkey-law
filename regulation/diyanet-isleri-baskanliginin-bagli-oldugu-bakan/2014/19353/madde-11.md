@@ -1,0 +1,2 @@
+Denetim
+MADDE 11 – (1) Birinci grup taşınmazların ilgili dernek veya vakıf tarafından işletilmesine, işlettirilmesine veya kiraya verilmesine ilişkin iş ve işlemler, bu yerlerden elde edilen gelirler ve yapılan harcamalar ile müftülüklere yapılan bildirimlerin ve tahakkuk ettirilen paylara ilişkin ödemelerin zamanında yapılıp yapılmadığı, elde edilen gelirlerin amacına uygun olarak harcanıp harcanmadığı Başkanlıkça denetlenir ve takip edilir.
