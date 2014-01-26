@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-01-26",
+  "issue": "28894",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Dicle Üniversitesi Tıp Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140126-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140126.htm",
+  "index_sha256": "a753ac329eecf328ee873cbcdc248e072c6153edf7c80d7d8aa25064319c456b",
+  "index_header": "26 Ocak 2014 ... 28894 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140126.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
