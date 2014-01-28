@@ -1,0 +1,3 @@
+Ders veren öğretim elemanlarına her ders için ayrı ayrı olmak üzere her elli öğrenci için sınav ücreti ödenmesi gerekirken, İktisadi ve İdari Bilimler Fakültesinde aynı ders için farklı bölümlerdeki ya da aynı bölümün farklı sınıflarındaki öğrenci sayıları dikkate alınarak ödeme yapılması.
+
+Ders veren öğretim elemanlarına her ders için ayrı ayrı olmak üzere her elli öğrenci için sınav ücreti ödenmesi gerekirken, İktisadi ve İdari Bilimler Fakültesinde aynı ders için farklı bölümlerdeki ya da aynı bölümün farklı sınıflarındaki öğrenci sayıları dikkate alınarak ödeme yapılması sonucu sebep olunan …….  TL kamu zararı …….  tarih ve …….  yevmiye numaralı ödeme emri belgesi ile tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle,
