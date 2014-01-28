@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "46",
+  "decision_date": "2014-01-28",
+  "source_id": 13879,
+  "chamber": "4",
+  "ilam_number": "199",
+  "item_number": 26,
+  "account_year": 2012,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13879/",
+  "source_sha256": "225641c906f978bc70284bceafbdd1bc4369e16c481646c2633cc1ed1c8893fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
