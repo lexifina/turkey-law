@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "46",
+  "decision_date": "2014-01-28",
+  "source_id": 13926,
+  "chamber": "4",
+  "ilam_number": "199",
+  "item_number": 70,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13926/",
+  "source_sha256": "87850a5ab73a731e4eb6398f10ed2b82d1a75043b40e675fff679c61deaa43cf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
