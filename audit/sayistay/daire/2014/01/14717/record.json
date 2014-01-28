@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35177",
+  "decision_date": "2014-01-28",
+  "source_id": 14717,
+  "chamber": "2",
+  "ilam_number": "83",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14717/",
+  "source_sha256": "6598df10e85cd17c1d7976c7f166311bd716539580bc4026b365855204fd8ec0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
