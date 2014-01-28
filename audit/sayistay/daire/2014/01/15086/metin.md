@@ -1,0 +1,5 @@
+Üniversite tarafından düzenlenen Logo Tasarım Yarışması sonucunda dereceye giren kişilere ödeme yapılırken ödeme emri belgesine fatura eklenmemesi ve ödenen tutarlardan gelir vergisi tevkifatı yapılmaması.
+
+Üniversite tarafından düzenlenen Logo Tasarım Yarışması sonucunda dereceye giren kişilere ödeme yapılırken ödeme emri belgesine fatura eklenmediği ve ödenen tutarlardan gelir vergisi tevkifatı yapılmadığı görülmüştür.
+
+Ancak, sorumluların göndermiş oldukları savunmalardan ödül kazanan kişilerin öğrenci olduğu, ödül tutarlarının ilgililerin banka hesaplarına yatırıldığı, işin Gelir Vergisi Kanunu’nun 29’uncu maddesindeki “ilim ve fenni, güzel sanatları, tarımı, hayvan yetiştirilmesini ve memleket bakımından faydalı olan işleri ve faaliyetleri teşvik maksadıyla verilen ikramiyeler ve mükafatlar” kapsamında değerlendirildiği, bu nedenle işin gelir vergisinden istisna tutulduğu ve fatura düzenlenmediği anlaşıldığından, konunun mevzuatına uygun olduğuna ve ……. TL için ilişikli bir husus bulunmadığına oybirliğiyle,
