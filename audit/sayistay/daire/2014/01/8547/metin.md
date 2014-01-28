@@ -1,0 +1,3 @@
+DAMGA VERGİSİ
+
+Gayrimenkullerin ihale ile kiralanmasında, kira sözleşmesinden 488 sayılı Damga Vergisi Kanunu’na ekli          1 sayılı Tablonun “I. Akitlerle ilgili kağıtlar” başlığının A/2’inci bendi uyarınca alınması gereken damga vergisi ile yine aynı Tablonun “II. Kararlar ve Mazbatalar” başlığının 2’nci bendi uyarınca ihale kararından alınması gereken damga vergisinin alınmaması sonucu ….. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ayrıntısı aşağıdaki tabloda gösterilen makbuzlarla ahizlerinden tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
