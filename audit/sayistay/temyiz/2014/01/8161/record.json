@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38296",
+  "decision_date": "2014-01-28",
+  "source_id": 8161,
+  "chamber": "3",
+  "file_number": "38330",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8161/",
+  "source_sha256": "15ce9445772171c8f1651263fff5c1de3fd2b8e32e408894e044d7c75f8b1962",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
