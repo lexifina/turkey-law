@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "46",
+  "decision_date": "2014-01-28",
+  "source_id": 13935,
+  "chamber": "4",
+  "ilam_number": "199",
+  "item_number": 79,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13935/",
+  "source_sha256": "4cbc167a244a35b894aa6d43c23fb621ed50e1cbc71f5f886075c2507fb41578",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
