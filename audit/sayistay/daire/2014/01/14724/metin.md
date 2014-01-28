@@ -1,0 +1,3 @@
+İzinli veya raporlu olunan günler için nöbet ücreti ödenmesi.
+
+……. Üniversitesi Sağlık Uygulama ve Araştırma Merkezinde görevli personele izinli veya raporlu olunan günler için nöbet ücreti ödendiği ifade edilmişse de, sorumluların savunmaları ile ekindeki belgelerden, söz konusu günlerden bir kısmında nöbetlerin ilgili personel yerine başka personel tarafından tutulduğu, daha sonraki nöbetlerde mahsuplaşma yapıldığı, personelin bazı zamanlarda izinli veya raporlu olunsa dahi nöbet tuttuğu anlaşıldığından ve kamu zararı oluşmadığından, nöbet ücreti olarak ödenen ……. TL için ilişilecek bir husus bulunmadığına oybirliğiyle,
