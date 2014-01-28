@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "51",
+  "decision_date": "2014-01-28",
+  "source_id": 18555,
+  "chamber": "6",
+  "ilam_number": "87",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18555/",
+  "source_sha256": "14e5f3d0feb0c5217a7c4c86aac3f98526dd1ea7e3ee297e704e7ca51ef07dd8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
