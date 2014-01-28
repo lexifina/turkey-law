@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "49",
+  "decision_date": "2014-01-28",
+  "source_id": 20038,
+  "chamber": "6",
+  "ilam_number": "130",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20038/",
+  "source_sha256": "1e91c38a50a5ba5519a87e2dad7932d9f33c736c1b5ed3f9df3f4d04628079b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
