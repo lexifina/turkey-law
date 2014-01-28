@@ -1,0 +1,524 @@
+28 Ocak 2014 SALI
+Resmî Gazete
+Sayı : 28896
+YÖNETMELİK
+Enerji Piyasası Düzenleme Kurumundan:
+ELEKTRİK PİYASASI BAĞLANTI VE SİSTEM KULLANIM YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Yönetmelik, gerçek ve tüzel kişilerin elektrik iletim veya dağıtım sistemine bağlanmaları ile bu sistemleri ve enterkonneksiyon
+hatlarını kullanmalarına ilişkin usul ve esasları düzenler.
+(2) Elektrik
+Piyasasında Lisanssız Elektrik Üretimine İlişkin Yönetmelik hükümleri kapsamındaki üretim tesisleri ile Organize Sanayi Bölgelerinin Elektrik Piyasası Faaliyetlerine İlişkin Yönetmelik hükümleri kapsamındaki OSB katılımcılarının sisteme bağlantısı ve sistem kullanımına ilişkin hususlar bu Yönetmeliğin kapsamı dışındadır.
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 14/3/2013
+tarihli ve 6446 sayılı Elektrik Piyasası Kanununa dayanılarak hazırlanmıştır.
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bağlantı anlaşması: Bir üretim şirketi, dağıtım şirketi ya da tüketicinin iletim sistemine ya da dağıtım sistemine bağlantı yapması için yapılan genel ve özel hükümleri içeren anlaşmayı,
+b) Bağlantı hattı: Bağlantı noktasından kullanım yerine kadar olan hattı,
+c) Bağlantı noktası: İletim tesislerinin ve dağıtım gerilim seviyesinden bağlı üretim ve tüketim tesislerine ait şalt sahalarının bittiği noktadan sonraki nihayet direğini ve alçak gerilim seviyesinden bağlı tüketicilerin yapı bina giriş noktasını,
+ç) Dağıtım: Elektrik enerjisinin gerilim seviyesi 36 kV ve altındaki hatlar üzerinden naklini,
+d) Dağıtım şirketi: Belirlenen bir bölgede elektrik dağıtımı ile iştigal eden tüzel kişiyi,
+e) Dağıtım tesisi: İletim tesislerinin ve dağıtım gerilim seviyesinden bağlı üretim ve tüketim tesislerine ait şalt sahalarının bittiği noktadan sonraki nihayet direğinden, alçak gerilim seviyesinden bağlı tüketicilerin yapı bina giriş noktalarına kadar, bina giriş ve sayaç arası hariç, elektrik dağıtımı için teçhiz edilmiş tesis ve teçhizat ile dağıtım şirketince teçhiz edilen ya da devralınan sayaçları,
+f) Enterkonneksiyon: İletim ve dağıtım sistemlerinin toplamından oluşan ulusal elektrik sisteminin diğer bir ülkeye ait elektrik sistemine bağlanmasını,
+g) Enterkonneksiyon kullanım anlaşması: Uluslararası enterkonneksiyon hatlarını kullanan üretim şirketleri ve tedarik şirketleri ile bu hatları işleten iletim veya dağıtım şirketleri arasında yapılan ve enterkonneksiyon
+hatlarının kullanımı ile ilgili esas ve usulleri içeren anlaşmayı,
+ğ) İletim: Elektrik enerjisinin gerilim seviyesi 36 kV üzerindeki hatlar üzerinden naklini,
+h) İletim tesisi: Üretim veya tüketim tesislerinin 36 kV üstü gerilim seviyesinden bağlı olduğu üretim veya tüketim tesisi şalt sahasından sonraki nihayet direğinden itibaren iletim şalt sahalarının orta gerilim fiderleri
+de dâhil olmak üzere dağıtım tesislerinin bağlantı noktalarına kadar olan tesisleri,
+ı) İlgili mevzuat: Elektrik piyasasına ilişkin kanun, yönetmelik, lisans, tebliğ, genelge ve Kurul kararlarını,
+i) Kanun: 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununu,
+j) Kullanıcı: İletim veya dağıtım sistemine bağlanan ya da bu sistemleri veya enterkonneksiyon
+hatlarını kullanan gerçek veya tüzel kişiyi,
+k) Kurum:
+Enerji Piyasası Düzenleme Kurumunu,
+l) Kurul:
+Enerji Piyasası Düzenleme Kurulunu,
+m) Lisans: Tüzel kişilere piyasada faaliyet gösterebilmeleri için Kanun uyarınca verilen izni,
+n) Önlisans: Üretim faaliyetinde bulunmak isteyen tüzel kişilere, üretim tesisi yatırımlarına başlamaları için gerekli onay, izin, ruhsat ve benzerlerinin alınabilmesi için belirli süreli verilen izni,
+o) OSB: Kurumdan lisans almak suretiyle dağıtım veya üretim faaliyetlerinde bulunma hakkı elde eden organize sanayi bölgesi tüzel kişiliğini,
+ö) Özel direkt hat: Yapılacak sistem kontrol anlaşması hükümlerine göre üretim lisansı sahibi bir tüzel kişinin üretim tesisi ile müşterileri ve/veya iştirakleri arasında elektrik enerjisi naklinin sağlanabilmesi veya üretim lisansı sahibinin sınırda yer alan illerde kurduğu üretim tesisinde ürettiği elektriği iletim veya dağıtım sistemine bağlantı tesis etmeden ihraç edebilmesi amacıyla, iletim veya dağıtım şebekesi dışında ulusal iletim veya dağıtım sistemi için geçerli standartlara uygun olarak tesis edilerek işletilen hattı,
+p) Sistem
+kontrol anlaşması: TEİAŞ veya dağıtım şirketi ile özel direkt hattın mülkiyet sahibi veya işletmecisi olan özel hukuk hükümlerine tabi tüzel kişi arasında, iletim ve dağıtım sistemlerinin kararlılığının ve işletme bütünlüğünün korunmasını sağlayan hükümleri içeren ve özel hukuk hükümlerine göre yapılan anlaşmayı,
+r) Sistem
+kullanım anlaşması: Bir üretim şirketi, tedarik lisansı sahibi şirket veya tüketicinin iletim sistemini ya da dağıtım sistemini kullanımına ilişkin genel hükümleri ve ilgili kullanıcıya özgü koşul ve hükümleri içeren anlaşmayı,
+s) Tedarikçi: Elektrik enerjisi ve/veya kapasite sağlayan üretim şirketleri ile tedarik lisansına sahip şirketi,
+ş) Tedarik şirketi: Elektrik enerjisinin ve/veya kapasitenin
+toptan ve/veya perakende satılması, ithalatı, ihracatı ve ticareti faaliyetleri ile iştigal edebilen tüzel kişiyi,
+t) TEİAŞ: Türkiye Elektrik İletim Anonim Şirketini,
+u) Tüketici: Elektriği kendi kullanımı için alan kişiyi,
+ü) Üretim şirketi: Sahip olduğu, kiraladığı, finansal kiralama yoluyla edindiği veya işletme hakkını devraldığı üretim tesisi ya da tesislerinde elektrik enerjisi üretimi ve ürettiği elektriğin satışıyla iştigal eden özel hukuk hükümlerine tabi tüzel kişiyi,
+ifade eder.
+(2) Bu Yönetmelikte geçen diğer kavram ve kısaltmalar, ilgili mevzuattaki anlam ve kapsama
+sahiptir.
+İKİNCİ BÖLÜM
+Genel Esaslar
+Bağlantı ve
+sistem kullanım hakları
+MADDE 4 – (1) Gerçek veya tüzel kişilerin, iletim ve dağıtım sistemine bağlantı ve sistem kullanım talepleri, TEİAŞ ve dağıtım şirketi tarafından eşit taraflar arasında ayrım gözetilmeksizin karşılanır.
+(2) Serbest tüketici niteliği kazanmış bir tüketicinin tedarikçisini seçme serbestisine hiçbir surette müdahale edilemez ve serbest tüketicilerin sisteme bağlantı ve sistem kullanım hakları engellenemez.
+(3) Gerçek veya tüzel kişilerin, TEİAŞ veya dağıtım şirketi tarafından işletilmekte olan iletim veya dağıtım sistemlerine bağlantısı ve sistem kullanımı hakkında;
+a) Bağlantı yapılması öngörülen tarihte, bağlantı yapılmak istenen noktada şebekenin teknik özelliklerinin yetersiz olması,
+b) Bağlantı yapılması öngörülen tesisin projesinde, sisteme bağlantıyla ilgili olarak Elektrik Piyasası Şebeke Yönetmeliği, Elektrik Piyasası Dağıtım Yönetmeliği ve ilgili diğer mevzuatta yer alan standartların sağlanamaması,
+c) Yapılması istenilen bağlantı ve elektrik enerjisi nakil işleminin kamu hizmeti yükümlülüklerini engellediğinin, TEİAŞ veya dağıtım şirketi tarafından gerekçeleriyle belgelenmesi,
+ç) Bağlantı yapılması öngörülen tesisin projesi için gerekli olması durumunda, gerilim düşümü, harmonik,
+elektromanyetik girişim, fliker seviyesi gibi değerlerin, şebekeye giriş veya çıkış noktasında ve iletim ve dağıtım kademelerinde, ilgili mevzuatta belirlenen sınırları karşılamaması durumu,
+d) Bağlantı yapılması öngörülen tesisin, sistem elektrik enerjisinin
+kalitesini, ilgili mevzuatta yer alan standartların dışına çıkarması durumu,
+e) Rüzgar
+veya güneş enerjisine dayalı üretim tesisi bağlantı taleplerinde, talep edilen bağlantı noktasına oranla ekonomik açıdan daha uygun ve daha düşük sistem kaybı sağlayan bağlantı noktasının varlığı durumu,
+hariç olumsuz görüş verilemez.
+(4) TEİAŞ ve dağıtım şirketinin sisteme bağlantı ve sistem kullanımı hakkındaki olumsuz görüşlerinin gerekçelendirilmesi zorunludur. Sisteme bağlantı ve sistem kullanımı hakkındaki olumsuz görüş gerekçelerinin Kurum tarafından yapılan veya yaptırılan inceleme sonucunda Kurul tarafından uygun bulunmaması halinde, TEİAŞ veya dağıtım şirketi, başvuru sahibi ile bağlantı ve sistem kullanım anlaşmalarını imzalamakla yükümlüdür.
+(5) Sisteme bağlantının, bağlantı yapılması talep edilen nokta itibarıyla bu maddede yer alan koşullardan herhangi biri nedeniyle mümkün olmaması durumunda, TEİAŞ veya dağıtım şirketi tarafından bir başka bağlantı noktası teklif edilebilir.
+(6) İletim veya dağıtım sistemine bağlantı yapmak isteyen gerçek veya tüzel kişilerin, TEİAŞ veya dağıtım şirketi tarafından kendilerine iletim veya dağıtım sistemine bağlantı ve sistem kullanımı konusunda;
+a) Adil koşulların teklif edilmediği,
+b) Ayrımcılık yapıldığı,
+c) Gösterilen gerekçelerin yetersiz olduğu,
+gibi hususlardaki
+itirazları Kurum tarafından incelenerek, başvuru tarihinden itibaren azami altmış gün içerisinde sonuca bağlanır. Üretim tesislerine ilişkin itirazlar Kurul kararıyla sonuçlandırılır.
+Üretim
+tesisleri için
+verilen bağlantı görüşleri
+MADDE 5 – (1) TEİAŞ veya dağıtım şirketleri tarafından, üretim tesislerinin iletim veya dağıtım sistemlerine bağlantısı hakkında bu Yönetmelik kapsamında verilen görüşler, Kanunun 23 üncü maddesi çerçevesinde verilmiş kabul edilir.
+(2) TEİAŞ ve dağıtım şirketleri, her yıl takip eden beş ve on yıl için olmak üzere sistemlerine bağlanabilecek bölgesel üretim tesisi kapasitelerini 1 Nisan tarihine kadar
+kendi internet sayfalarında yayımlar. Bu şekilde yayımlanan bölgesel kapasiteler dışında üretim tesislerine bağlantı görüşü verilmez. Arz güvenliğinin sağlanması amacıyla Enerji ve Tabii Kaynaklar Bakanlığı ve piyasada rekabetin geliştirilmesi amacıyla Kurum tarafından talep edilmesi hâlinde, TEİAŞ ve dağıtım şirketleri, belirledikleri kapasiteleri ve bağlantı noktalarının sayısını sistem koşullarını dikkate alarak artırmakla yükümlüdür.
+ÜÇÜNCÜ BÖLÜM
+İletim Sistemine Bağlantı ve Sistem Kullanımı
+Bağlantı ve
+sistem kullanım anlaşmaları
+MADDE 6 – (1) İletim sistemine bağlanmak ve iletim sistemini kullanmak isteyen dağıtım şirketleri, OSB’ler ve tüketiciler TEİAŞ’a
+başvurur. TEİAŞ bağlantı başvurusunu bu Yönetmelik ve Elektrik Piyasası Şebeke Yönetmeliğinde belirlenen usul ve esaslara göre inceler ve bağlantı başvurusu hakkındaki görüşünü başvuru tarihinden itibaren kırk beş gün içerisinde gerekçeleri ile birlikte başvuru sahibine yazılı olarak bildirir.
+(2) Üretim tesislerinin iletim sistemine bağlantısı ve sistem kullanımı hakkındaki başvurular Elektrik Piyasası Lisans Yönetmeliğinin 15 inci maddesi çerçevesinde yapılır. TEİAŞ başvuru kapsamındaki üretim tesisinin bağlanması talep edilen trafo merkezi ile bağlantı kapasitesine ilişkin bu Yönetmelik ve Elektrik Piyasası Şebeke Yönetmeliği kapsamında oluşturulan görüşünü, bildirim tarihinden itibaren kırk beş gün içerisinde sonuçlandırarak Kuruma sunar.
+(3) İletim sistemine aynı bağlantı noktasından bağlanmak üzere birden fazla başvuru olması ve başvuruların tümünün karşılanmasının mümkün olmaması halinde tüm başvuru sahipleri durum hakkında bilgilendirilir ve bu kapsamda sırasıyla;
+a) Dağıtım şirketi tarafından yapılan başvuruya,
+b) OSB dağıtım lisansı sahibi tüzel kişi tarafından yapılan başvuruya,
+c)
+Yenilenebilir enerji kaynaklarına dayalı üretim tesislerine ilişkin başvuruya,
+ç) Yerli doğal kaynaklara dayalı üretim tesislerine ilişkin başvuruya,
+öncelik
+tanınır. Diğer hallerde, başvuru sırasına göre işlem yapılır.
+(4) İletim sistemine bağlanması uygun görülen üretim tesislerine ilişkin başvurularda başvuru sahibi, üretim lisansına başvurmadan evvel önlisans
+süresi içerisinde bağlantı ve sistem kullanım anlaşmaları için TEİAŞ’a
+başvurmak zorundadır.
+(5) TEİAŞ, iletim sistemine bağlanması uygun bulunan başvuru sahibi ile EK-1’de gösterildiği şekilde bağlantı anlaşmasını ve sistem kullanım anlaşmasını yapar. Bağlantı ve sistem kullanımına ilişkin olarak TEİAŞ ve kullanıcı arasında bu Yönetmelik uyarınca TEİAŞ tarafından hazırlanan ve Kurul tarafından onaylanan standart nitelikteki bağlantı ve sistem kullanım anlaşmaları kullanılır. Bu anlaşmaların genel hükümlerinde, Kurul onayı olmaksızın değişiklik yapılamaz. Kurul, gerektiğinde bu anlaşmaların genel hükümlerinde değişiklik yapabilir.
+(6) İletim sistemine bağlı olduğu halde TEİAŞ ile bağlantı ve sistem kullanım anlaşması imzalamayan gerçek ve tüzel kişiler, Kurul tarafından onaylanan sistem kullanım ve sistem işletim bedelini TEİAŞ’a
+ödemekle yükümlüdür. TEİAŞ’ın
+bildirimine rağmen bağlantı ve sistem kullanım anlaşmalarını imzalamak üzere başvuruda bulunmayan gerçek ve tüzel kişilere ait üretim ve tüketim tesislerinin iletim sistemi ile irtibatı TEİAŞ tarafından beş iş günü öncesinde bildirim yapılmak suretiyle kesilir.
+Anlaşma gücü
+MADDE 7 – (1) Kullanıcıya bağlantı ve sistem kullanım anlaşmalarında tahsis edilen kapasite, kullanıcının anlaşma gücünü oluşturur. İletim sistemine bağlantı noktasından alınan veya verilen elektrik enerjisi kapasitesinin
+azami değeri, bağlantı ve sistem kullanım anlaşmalarında belirtilen anlaşma gücünü aşamaz.
+(2) Kullanıcının anlaşma gücünü ihlal etmesi halinde sistem kullanım anlaşmasında düzenlenmiş bulunan yaptırımlar uygulanır. Üretim tesisinin TEİAŞ tarafından verilen acil durum talimatı nedeniyle anlaşma gücünü ihlal etmesi halinde bu fıkra hükmü uygulanmaz.
+(3) TEİAŞ, iletim sisteminin güvenliği üzerinde risk oluşturacak şekilde anlaşma gücünü aşan kullanıcıyı, ihlalin sonlandırılması için uyarır. Üretim şirketleri, uyarı bildirimini aldığı tarih itibarıyla, diğer kullanıcılar ise uyarı bildiriminin alınmasından itibaren otuz gün içerisinde anlaşma gücü ihlalini sonlandırmakla yükümlüdür. Bu yükümlülüğün yerine getirilmemesi halinde ilgili kullanıcının elektrik enerjisi kesilebilir. Elektrik
+enerjisinin kesilmesi ve tekrar verilmesi durumunda oluşan maliyetler, ilgili kullanıcı tarafından karşılanır.
+(4) TEİAŞ, iletim sistemini olumsuz yönde etkileyecek şekilde anlaşma gücünün üzerinde elektrik enerjisi alınmaması ve verilmemesi için otomatik enerji kesme sistemlerini devreye
+alabilir.
+(5) TEİAŞ’ın
+kullanıcıyla yaptığı sistem kullanım anlaşmasında taahhüt ettiği kapasiteyi sağlayamaması durumunda, oluşacak zararların tazminine ilişkin hükümler sistem kullanım anlaşmasında düzenlenir.
+(6) Kullanıcı, anlaşma gücünü artırmak üzere, aynı fiyatlandırma yılı içerisinde dörder aylık eşit dönemlerde ve her dönemde bir defa olmak üzere en fazla üç defa sistem kullanım anlaşmasında değişiklik yapılmasını talep edebilir. Kullanıcı, sistem kullanım anlaşması değiştirilmeden anlaşma gücünü aşamaz. TEİAŞ, kullanıcının anlaşma gücünü artırmaya ilişkin talebi hakkındaki görüşünü, başvurunun alındığı tarihten itibaren kırk beş gün içerisinde kullanıcıya bildirir. Bu sürenin sonuna kadar herhangi bir görüş verilmemesi halinde kullanıcının talebi kabul edilmiş sayılır.
+(7) Kullanıcının anlaşma gücünü düşürmeye yönelik talebi; bu talebin, ancak ilgili olduğu yıldan bir önceki yılın Eylül ayının ilk gününe kadar yapılmış olması halinde değerlendirmeye alınır.
+(8) Üretim tesisinin kurulu gücünün değiştirilmesine bağlı olarak yapılan anlaşma gücü değişikliği talepleri hakkındaki ilgili mevzuat hükümleri saklıdır.
+İletim
+sistemi mülkiyet sınırları
+MADDE 8 – (1) Üretim veya tüketim tesislerinin 36 kV üstü gerilim seviyesinden bağlı olduğu üretim veya tüketim tesisi şalt sahasından sonraki nihayet direğinden itibaren iletim şalt sahalarının orta gerilim fiderleri
+de dâhil olmak üzere dağıtım tesislerinin bağlantı noktalarına kadar olan tesisler iletim sistemi mülkiyet sınırını oluşturur.
+(2) Üretim veya tüketim tesisinin iletim sistemine bağlantısının, bir başka üretim veya tüketim tesisine ait şalt sahası üzerinden yapılması hâlinde bağlantı yapılan fiderin kullanım hakkı, işletme ve bakımı TEİAŞ’a
+aittir. Ancak, TEİAŞ bu tür teçhizatların işletme ve bakımını ilgili üretim veya tüketim sahibi kişilere bedeli karşılığında gördürebilir.
+İletim
+sisteminden ayrılma
+MADDE 9 – (1) Kullanıcı, iletim sistemine bağlı tesis ve teçhizatını sistemden ayırmak suretiyle iletim sistemi kullanımını sona erdirmek istediğinde, en az iki ay önceden TEİAŞ’a
+yazılı bildirimde bulunur.
+(2) TEİAŞ ile kullanıcı, farklı bir süre için mutabık kalmadıkları takdirde, sistemle bağlantının fiziki olarak kesilmesini takip eden altı ay içerisinde birbirlerinin arazisinde bulunan varlıklarını kaldırır.
+(3) İletim sisteminden ayrılma talebinde bulunan kullanıcının, ayrılma tarihinden itibaren bir yıl içerisinde aynı noktadan iletim sistemine yeniden bağlanma talebinde bulunması durumunda; bu kullanıcı, ayrılma tarihinden yeniden bağlanma tarihine kadar olan süreyi kapsayan zaman dilimi için önceki anlaşma gücü üzerinden ilgili dönemin sistem kullanım ve sistem işletim fiyatlarına göre hesaplanan bedeli, sisteme yeniden bağlanma bedeli olarak ödemekle yükümlüdür.
+DÖRDÜNCÜ BÖLÜM
+Dağıtım Sistemine Bağlantı ve Sistem Kullanımı
+Bağlantı başvurusu
+MADDE 10 – (1) Dağıtım sistemine bağlantı başvurusunda bulunmak isteyen gerçek ve tüzel kişiler, bulundukları dağıtım bölgesindeki dağıtım şirketine müracaat eder.
+(2) Birinci fıkra kapsamında bağlantı talebinde bulunan başvuru sahibi;
+a) Tapu kaydını ve onaylı elektrik projesini,
+b) İmar alanı içerisinde bulunanlar, 3/5/1985
+tarihli ve 3194 sayılı İmar Kanununun 30 ve 31 inci maddelerine göre yapı kullanma iznini,
+c) Köy yerleşik alanları ve civarı ile mezralarda bulunanlar, 3194 sayılı İmar Kanununun 27 ve 30 uncu maddelerine göre yapı kullanma iznini,
+ç) İmar ve köy yerleşim alanları dışında bulunanlar, Çevre ve Şehircilik İl Müdürlüklerinden verilecek yapı kullanma iznine ilişkin belgeyi,
+d) Ruhsat
+gerektirmeyen kullanım yerleri için mevzuat kapsamında ilgili mercilerden alınacak izin belgesini,
+e) 19/4/2012 tarihli ve 6292 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi ve Hazine Adına Orman Sınırları Dışına Çıkarılan Yerlerin Değerlendirilmesi ile Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanun hükümleri kapsamındaki yerler için alınan izin belgesini,
+f) İnşa halindeki yapılar için 3194 sayılı İmar Kanunu hükümleri uyarınca alınan yapı ruhsatını,
+g) İlgili mevzuatın zorunlu kılması halinde istenecek diğer belgeleri,
+dağıtım şirketine ibraz eder.
+(3) Dağıtım sistemine bağlanmak ve dağıtım sistemini kullanmak suretiyle elektrik enerjisi üretim faaliyetinde bulunmak isteyen tüzel kişinin dağıtım sistemine bağlantısı hakkında bu Yönetmelik, Elektrik Piyasası Lisans Yönetmeliği ve Elektrik Piyasası Dağıtım Yönetmeliği hükümleri uygulanır. Dağıtım şirketi tarafından bağlantı görüşünün oluşturulması ve sisteme bağlantı yapılmasında sırasıyla yenilenebilir enerji kaynaklarına dayalı üretim tesisleri ile yerli doğal kaynaklara dayalı üretim tesislerine öncelik tanınır.
+(4) Kullanım amacıyla sınırlı bir süre için, dağıtım sistemine geçici bağlantı yaparak elektrik enerjisi temin etmek isteyen gerçek veya tüzel kişiler, elektrik projesini ve kullanım amacının gerektirdiği izin belgesini ibraz etmek kaydıyla başvuruda bulunur.
+Başka bir dağıtım bölgesine
+yapılan bağlantı başvurusu
+MADDE 11 – (1) Dağıtım sistemine bağlanmak isteyen üretim veya tüketim tesislerine ilişkin bağlantı başvurularının, bu tesislerin bulunduğu dağıtım bölgesindeki dağıtım şirketine yapılması esastır.
+(2) Dağıtım şirketi, lisansına kayıtlı olan dağıtım bölgesinde kurulmak istenen üretim veya tüketim tesislerinin bağlantı taleplerini, kendi dağıtım bölgesi sınırları içerisinde karşılamayı teknik veya ekonomik olarak uygun bulmaması halinde, bu durumu gerekçeleri ile birlikte yazılı olarak başvuru sahibi gerçek veya tüzel kişilere ve Kuruma, tüketim tesislerine ilişkin başvurularda saha etüdü gerektirmeyen hallerde başvuru tarihinden itibaren on iş günü, saha etüdü gerektiren hallerde ise başvuru tarihinden itibaren yirmi iş günü; üretim tesislerine ilişkin başvurularda ise her durumda başvuru tarihinden itibaren kırkbeş
+gün içerisinde bildirir.
+(3) Bağlantı talebi ikinci fıkra kapsamında uygun bulunmayan başvuru sahibi gerçek veya tüzel kişiler, bildirim tarihinden itibaren otuz gün içerisinde, sisteme bağlantının teknik veya ekonomik olarak uygun olduğunu düşündükleri bağlantı noktasının bulunduğu başka bir dağıtım bölgesine bağlantı yapılması için Kuruma başvuruda bulunabilirler. Kurum, bu kapsamdaki bağlantı başvurularını ilgili dağıtım şirketine bildirir. Bağlantı başvurusu, söz konusu dağıtım şirketi tarafından değerlendirilerek, alınan karar başvuru sahibi gerçek veya tüzel kişiye ve Kuruma ikinci fıkrada belirtilen süreler içerisinde bildirilir:
+a) Bağlantı başvurusunun karşılanmasının kabul edilmesi halinde, başvuru sahibi üretim veya tüketim tesisinin bağlantısı bu dağıtım şirketi tarafından yapılır.
+b) Bağlantı başvurusunun, teknik veya ekonomik olarak uygun
+bulunmaması halinde ilgili dağıtım şirketi, bu durumu ikinci fıkrada belirtilen süreler içerisinde ilgili gerçek veya tüzel kişilere ve Kuruma bildirir.
+(4) Üçüncü fıkranın (a) bendi kapsamındaki bağlantı başvuruları bu Yönetmelik hükümleri çerçevesinde tüketim tesisleri açısından, ilgili dağıtım şirketi tarafından; üretim tesisleri açısından Kurul kararı ile sonuçlandırılır. Önlisans
+başvurusunda bulunan
+veya önlisans
+sahibi tüzel kişilerin bu madde kapsamındaki bağlantıları, Kurul tarafından uygun bulunması halinde mümkündür.
+Bağlantı ve
+sistem kullanım anlaşmaları
+MADDE 12 – (1) Gerçek veya tüzel kişilerin, dağıtım sistemine bağlantı talebinin dağıtım şirketi tarafından bu Yönetmelik ve ilgili mevzuat hükümleri çerçevesinde karşılanması ve bağlantı anlaşması yapılarak hizmet verilmesi esastır.
+(2) Bağlantı için yapılan başvuru, dağıtım şirketi tarafından, dağıtım sisteminin mevcut durumu çerçevesinde genişleme yatırımı veya yeni yatırımın gerekli olması hususları da dikkate alınarak değerlendirilir.
+(3) Bağlantı talebinde bulunulan tüketim tesisleri açısından;
+a) Dağıtım sisteminin mevcut durumunun bağlantı talebinin karşılanması için uygun olması halinde, dağıtım şirketi ile başvuru sahibi arasında bağlantı anlaşması imzalanır.
+b) Dağıtım sisteminin
+mevcut durumunun bağlantı talebinin karşılanması için uygun olmaması ve genişleme yatırımı veya yeni yatırımın gerekli olması durumunda; saha etüdü gerektirmeyen hallerde başvuru tarihinden itibaren on iş günü, saha etüdü gerektiren hallerde ise başvuru tarihinden itibaren yirmi iş günü içerisinde, bağlantı talebinin karşılanabileceği makul bir süre, gerekçeleri ile birlikte başvuru sahibine yazılı olarak bildirilir. Başvuru sahibinin söz konusu süreye itiraz hakkı saklı olup, bu konuda Kuruma başvurabilir. Başvuru, bu Yönetmelik hükümleri çerçevesinde Kurum tarafından değerlendirilir. Dağıtım şirketi tarafından verilen görüşe ilişkin gerekçelerin Kurum tarafından uygun görülmemesi halinde, dağıtım şirketi ile başvuru sahibi arasında Kurum tarafından öngörülen süre içerisinde bağlantı anlaşması imzalanır.
+c) Başvuru sahibinin (b) bendi kapsamında haksız bulunması veya bağlantı talebinin karşılanabilmesi için dağıtım şirketi tarafından bildirilen sürenin başvuru sahibi tarafından uzun bulunması ve bağlantı talebinin dağıtım tesisi yapılarak karşılanabilir olması halinde gerekli yatırım başvuru sahibi tarafından üstlenilebilir. Bu durumda dağıtım tesisinin projesinin hazırlanması başvuru sahibinin sorumluluğunda olup, projenin hazırlanabilmesine ilişkin etüt için gerekli olan tüm bilgiler dağıtım şirketi tarafından sağlanır. Dağıtım tesisinin projesinin, tamamlanmasını müteakip onay işlemlerinin ilgili mevzuat kapsamında yapılması sağlanır. Projenin onaylanması durumunda, dağıtım şirketi ile başvuru sahibi arasında, dağıtım tesisine ilişkin finansman ve bağlantı koşulları gibi hususların düzenlendiği tesis yapım sözleşmesi imzalanır. Yapılan sözleşme hükümleri, 21 inci madde çerçevesinde onaylanan metodolojiye
+aykırı olamaz.
+(4) Dağıtım sistemine bağlanması uygun görülen üretim tesislerine ilişkin başvurularda başvuru sahibi, üretim lisansına başvurmadan evvel önlisans
+süresi içerisinde bağlantı ve sistem kullanım anlaşmaları için dağıtım şirketine başvurmak zorundadır.
+(5) Dağıtım sistemine geçici bağlantı yaparak elektrik enerjisi temin etmek isteyen gerçek veya tüzel kişi ile dağıtım şirketi arasında kullanım amacıyla sınırlı bir süreyi içeren bağlantı anlaşması imzalanır.
+(6) Dağıtım şirketi, bu Yönetmelik ve Elektrik Piyasası Dağıtım Yönetmeliği hükümleri uyarınca dağıtım sistemine bağlanması uygun bulunan başvuru sahibi ile EK-1’de gösterildiği şekilde bağlantı anlaşmasını ve sistem kullanım anlaşmasını yapar. Dağıtım sistemine bağlanması uygun bulunan tüketicilere ilişkin sistem kullanım anlaşması, bu tüketicilerin tedarikçileri ile yapılır. Bağlantı ve sistem kullanımına ilişkin olarak dağıtım şirketi ve kullanıcı arasında bu Yönetmelik uyarınca dağıtım şirketleri tarafından hazırlanan ve Kurul tarafından onaylanan standart nitelikteki bağlantı ve sistem kullanım anlaşmaları kullanılır. Bu anlaşmaların genel hükümlerinde, Kurul onayı olmaksızın değişiklik yapılamaz. Kurul, gerektiğinde bu anlaşmaların genel hükümlerinde değişiklik yapabilir.
+(7) Tüketicilere elektrik enerjisi veya kapasitesi temin
+etmek üzere tedarikçiler tarafından yapılan sistem kullanım anlaşması başvurularında aşağıdaki hükümler uygulanır:
+a) Elektrik
+enerjisi veya kapasite satışının yapılacağı tüketicilerin yer aldığı her bir dağıtım bölgesi için ayrı başvuruda bulunulur.
+b) Dağıtım şirketinin, yapılan başvuruların değerlendirilmesi sırasında talep edebileceği ilave bilgiler, talebin tebliğ edildiği tarihi izleyen beş gün içerisinde dağıtım şirketine verilir.
+c) Dağıtım şirketi, başvuru tarihinden itibaren on iş günü veya ek bilgi talep edilmesi halinde yirmi gün içerisinde, sistem kullanım anlaşması için öngörebileceği özel hükümleri hazırlar ve başvuru sahibi tüzel kişiye gönderir.
+ç) Başvuru sahibi tüzel kişiler, talep edilen özel hükümlere
+ilişkin görüşlerini, tebliğ tarihinden itibaren beş iş günü içerisinde dağıtım şirketine yazılı olarak bildirir.
+d) Tarafların mutabakatı halinde, sistem kullanım anlaşması imzalanır ve imzalanan anlaşmanın bir örneği kullanıcıya verilir.
+(8) Kurul onayı alınmak koşuluyla, görevli tedarik şirketi ve dağıtım şirketi arasında farklı bir sistem kullanım anlaşması düzenlenebilir.
+Sisteme bağlantı yapılması
+MADDE 13 – (1) Bağlantı anlaşması yapmış olan kullanıcının tüketici olması halinde dağıtım sistemine bağlantının yapılabilmesi için, tüketicinin tedarik şirketi ile perakende satış sözleşmesi veya ikili anlaşma yaptığının dağıtım şirketine tevsik edilmesi gereklidir.
+(2) Bağlantı anlaşmasının imzalanmasını takiben ve anlaşmada yer alan süre içerisinde gerekli bağlantı varlıkları tesis edilir.
+(3) Gerekli bağlantı varlıklarının tesisinin tamamlandığı tarihten itibaren;
+a) İmar yerleşim alanında üç iş günü içerisinde,
+b) İmar yerleşim alanı dışında beş iş günü içerisinde,
+kullanıcı tarafından tesis edilen ölçü cihazları ve devrelerinin ilgili bölümleri dağıtım şirketince mühürlenir ve dağıtım şirketi tarafından tesis edilen sayacın okuması yapılarak tespit edilen ilk endeks değeri alınarak sisteme bağlantı yapılması hakkında tutanak düzenlenmek suretiyle kullanıcının dağıtım sistemine bağlantısı gerçekleştirilir.
+Anlaşma gücü
+MADDE 14 – (1) Kullanıcıya bağlantı anlaşmasında tahsis edilen kapasite, kullanıcının anlaşma gücünü oluşturur. Dağıtım sistemine bağlantı noktasından alınan veya verilen elektrik enerjisi kapasitesinin
+azami değeri, bağlantı anlaşmasında belirtilen anlaşma gücünü aşamaz.
+(2) Kullanıcının anlaşma gücünü ihlal etmesi halinde bağlantı anlaşmasında düzenlenmiş bulunan yaptırımlar uygulanır. Üretim tesisinin TEİAŞ tarafından verilen acil durum talimatı nedeniyle anlaşma gücünü ihlal etmesi halinde bu fıkra hükmü uygulanmaz.
+(3) Dağıtım şirketi, dağıtım sisteminin güvenliği üzerinde risk oluşturacak şekilde anlaşma gücünü aşan kullanıcıyı, ihlalin sonlandırılması için uyarır. Üretim şirketleri, uyarı bildirimini aldığı tarih itibarıyla, diğer kullanıcılar ise uyarı bildiriminin alınmasından itibaren otuz gün içerisinde anlaşma gücü ihlalini sonlandırmakla yükümlüdür. Bu yükümlülüğün yerine getirilmemesi halinde ilgili kullanıcının elektrik enerjisi kesilebilir. Elektrik
+enerjisinin kesilmesi ve tekrar verilmesi durumunda oluşan maliyetler, ilgili kullanıcı tarafından karşılanır.
+(4) Dağıtım şirketi, elektrik dağıtımını olumsuz yönde etkileyecek şekilde anlaşma gücünün üzerinde elektrik enerjisi alınmaması ve verilmemesi için otomatik enerji kesme sistemlerini devreye
+alabilir.
+(5) Dağıtım şirketinin, kullanıcılarla yaptığı bağlantı anlaşmalarında taahhüt ettiği kapasiteyi sağlayamaması durumunda oluşacak zararların tazminine ilişkin hükümler bağlantı anlaşmasında düzenlenir.
+(6) Tüketici anlaşma gücünü artırmak üzere, bir tadilat projesiyle birlikte bağlantı anlaşmasında değişiklik yapılmasını talep edebilir. Dağıtım şirketi, tüketicinin sunduğu tadilat projesini inceler ve inceleme sonuçları ile uygulamaya esas cevabını onbeş gün içerisinde kullanıcıya yazılı olarak bildirir. Anlaşma gücünün artırılmasının uygun bulunması halinde, bağlantı anlaşması yapılan işlemleri içerecek şekilde tadil edilir. Bu yükümlülüğünü yerine getirmeyen tüketicilere usulsüz elektrik enerjisi tüketimine ilişkin ilgili mevzuat hükümleri uygulanır. Bir takvim yılı içerisinde en fazla üç defa güç artışı yapılabilir.
+(7) Bağlantı gücündeki artışın herhangi bir maliyet getirmesi halinde, 26 ncı
+madde çerçevesinde işlem yapılır.
+(8) Bu madde
+kapsamında tüketicilere ilişkin olarak yapılan anlaşma gücü değişiklikleri hakkında, dağıtım şirketi tarafından anlaşma gücü değişikliğini takip eden beş iş günü içerisinde ilgili tüketicinin tedarikçisine yazılı olarak bilgi verilir.
+(9) Üretim tesisinin kurulu gücünün değiştirilmesine bağlı olarak yapılan anlaşma gücü değişikliği talepleri hakkındaki ilgili mevzuat hükümleri saklıdır.
+Dağıtım tesisi
+sınırları
+MADDE 15 – (1) Dağıtım şirketi ile kullanıcı arasındaki tesis ve teçhizatın mülkiyet sınırları aşağıda belirtildiği şekildedir:
+a) Dağıtım sistemine bağlı üretim tesislerinde, üretim tesisi şalt sahasından sonraki nihayet direği ile üretim tesisi şalt sahası arasındaki gevşek bağlantı hariç, enerji dağıtım hatları ile üretim tesisi şalt sahasına irtibatlı yer altı kablo tesisi dağıtım tesisidir.
+b) Dağıtım sistemine bağlı tüketiciler açısından, bağlantı noktasından kullanım yerine kadar olan tesis ve teçhizat tüketicinin mülkiyetindedir. Bağlantı noktası dahil olmak üzere bağlantı noktasından itibaren hattın geri kalan kısmı dağıtım tesisidir. Ölçü tesisi ve sayaçlar; trafolu tüketiciler için tüketim trafosu 630 kVA altında olan trafoların sekonder ana barasının giriş tarafında, trafo gücü 630 kVA ve üzerinde olan tüketiciler için tüketici tesislerindeki indirici trafonun giriş tarafında, alçak gerilim tüketicileri için tüketimin başladığı anahtarlama teçhizatının giriş kısmında (kofre ve benzeri)
+yer alır.
+(2) Üretim veya tüketim tesisinin dağıtım sistemine bağlantısının; bir başka üretim veya tüketim tesisine ait şalt sahası üzerinden veya bir dağıtım hattına girdi-çıktı şeklinde yapılması hâlinde, müştereken kullanılan veya girdi-çıktı yapılan şalt sahası veya iki ayrı dağıtım tesisine iki ayrı hat ile bağlanan üretim veya tüketim tesisine ait şalt sahası dağıtım sisteminin bir parçasıdır. Ancak,
+bu fıkra kapsamındaki dağıtım tesislerinin işletme ve bakımı, ilgili üretim veya tüketim tesisi sahibi kişilere gördürülebilir.
+(3) Dağıtım faaliyetlerinde kullanılmak üzere, dağıtım şirketi tarafından sorumlu olduğu dağıtım bölgesinde, TEİAŞ’tan
+uygun görüş alınarak ve Kurulca onaylanan yatırım planında ayrıca belirtilerek yapılan 154 kV gerilim
+seviyesindeki tesisler dağıtım tesisidir. Bu tesislerin kurulumu ve işletilmesi ile ilgili usul ve esaslar Kurul tarafından belirlenir.
+Dağıtım
+sisteminden ayrılma
+MADDE 16 – (1) Bağlantı anlaşmasında yer alan adresteki dağıtım sistemine bağlı tesis ve teçhizat var olduğu sürece, bağlantı anlaşması yürürlükte kalır ve bu tesisteki kullanıcı değişikliği halinde yeni bir bağlantı anlaşması yapılması talep edilmez. Kullanıcının dağıtım sistemine bağlı tesis ve teçhizatını sistemden ayırma ve dağıtım sistemini kullanımını sona erdirme hakkı saklıdır.
+(2) Kullanıcı, dağıtım sistemine bağlı tesis ve teçhizatını sistemden ayırmak istediğinde en az dört ay, dağıtım sistemi kullanımını sona erdirmek istediğinde ise en az iki ay önceden dağıtım şirketine yazılı bildirimde bulunur. Bu hüküm, elektrik enerjisi veya kapasitesi tedarik ettiği tüketiciler adına sistem kullanım anlaşması imzalayan tedarikçilerle bu amaçla imzalanan sistem kullanım anlaşmalarına uygulanmaz.
+(3) Dağıtım şirketi ile kullanıcı, farklı bir sürenin uygulanması için mutabık kalmadıkları takdirde, sistemle bağlantının fiziki olarak kesilmesini takip eden dört ay içerisinde birbirlerinin arazisinde bulunan varlıklarını kaldırır.
+BEŞİNCİ BÖLÜM
+Enterkonneksiyon Kullanımı ve Özel Direkt Hat Tesisi
+Enterkonneksiyon kullanım anlaşması
+MADDE 17 – (1) Enterkonneksiyon hatlarıyla elektrik enerjisi veya kapasitesi ihracatı faaliyetinde bulunmak isteyen üretim şirketleri ve tedarik şirketleri ile elektrik enerjisi veya kapasitesi
+ithalatı faaliyetinde
+bulunmak isteyen tedarik şirketleri Elektrik Piyasası İthalat ve İhracat Yönetmeliğinde belirlenen usul ve esaslara göre enterkonneksiyon
+hatlarını işleten TEİAŞ veya ilgili dağıtım şirketine başvurur.
+(2) TEİAŞ ve ilgili dağıtım şirketi, başvuru sahibinin başvurusunu, Elektrik Piyasası İthalat ve İhracat Yönetmeliğinde belirlenen usul ve esaslara göre değerlendirir ve gerekli şartları sağlayan başvuru sahibi ile EK-1’de gösterildiği şekilde enterkonneksiyon
+kullanım anlaşması imzalar.
+Özel
+direkt hat tesisi
+MADDE 18 – (1) Üretim faaliyeti gösteren tüzel kişi, lisansı kapsamındaki üretim tesisi ile müşterileri, iştirakleri veya serbest tüketiciler arasında özel direkt hat tesis etmeyi talep edebilir.
+(2) Özel direkt hat tesis edilmesi, üretim faaliyeti gösteren tüzel kişi ile TEİAŞ veya dağıtım şirketi arasında yapılacak sistem kontrol anlaşması ile mümkündür. Sistem kontrol anlaşması, üretim faaliyeti gösteren tüzel kişinin bağlantı ve sistem kullanım anlaşmalarını imzaladığı tüzel kişi ile yapılır.
+(3) Dağıtım şirketiyle yapılan sistem kontrol anlaşması kapsamındaki özel direkt hat, ancak üretim tesisi ile özel direkt hattan yararlanacak tüketicinin mülkiyetindeki saha üzerinde kurulabilir. TEİAŞ ile yapılan sistem kontrol anlaşması kapsamındaki özel direkt hattın tesisinde bu şart aranmaz.
+(4) Özel direkt hattın, ulusal iletim ve dağıtım şebekesi dışında ve bu şebekeler için geçerli standartlara uygun olarak tesis edilmesi
+zorunludur. Özel direkt hattın kurulması ve işletilmesi için gerekli olan her türlü tesis, teçhizat ve taşınmaz başvuru sahibi tarafından edinilir.
+(5) Özel direkt hat tesis edilmesi halinde, tüketicinin üretim tesisinin barasından
+ayrılması durumunda gerekli olacak kapasite, sistem kontrol
+anlaşmasının tarafı olan TEİAŞ veya dağıtım şirketi tarafından emreamade tutulur.
+(6) Özel direkt hat tesis edilmesi, serbest tüketicilerin tedarikçilerini seçebilmelerine engel teşkil etmez. Özel direkt hatla bağlı olan bir serbest tüketicinin tedarikçisini değiştirmek istemesi durumunda, tüketim tesisinin bu Yönetmelik hükümleri çerçevesinde iletim veya dağıtım sistemine bağlantısı yapılır ve özel direkt hat ile olan bağlantısı kesilir.
+(7) Üretim faaliyeti gösteren tüzel kişinin üretim tesisinde ürettiği elektrik enerjisini iletim veya dağıtım sistemine çıkmamak kaydıyla sahip olduğu, kiraladığı, finansal kiralama yoluyla edindiği veya işletme hakkını devraldığı tüketim tesisinin ihtiyacını karşılamak üzere kurulan tesis ve teçhizat özel direkt hat sayılmaz. Bu kapsamdaki tesis ve teçhizat için sistem kontrol anlaşması imzalanmaz ve emreamade
+kapasite tutulmaz.
+Sistem kontrol anlaşması
+MADDE 19 – (1) Üretim faaliyeti gösteren tüzel kişinin özel direkt hat tesis etme talebi, TEİAŞ veya dağıtım şirketi tarafından talebin alındığı tarihten itibaren otuz gün içerisinde değerlendirilir. Özel direkt hat tesisi talebinin olumlu değerlendirilmesi halinde, üretim faaliyeti gösteren tüzel kişi ile TEİAŞ veya dağıtım şirketi arasında sistem kontrol anlaşması imzalanır.
+(2) Üretim faaliyeti gösteren tüzel kişi ile TEİAŞ veya dağıtım şirketi arasında imzalanan sistem kontrol anlaşmasında, iletim ve dağıtım sistemlerinin kararlılığının ve işletme bütünlüğünün korunmasını sağlayan hükümlere yer verilir. Üretim faaliyeti gösteren tüzel kişi ile TEİAŞ veya dağıtım şirketi arasında imzalanan bağlantı ve sistem kullanım anlaşmalarında yer alan hükümlerin, iletim ve dağıtım sistemlerinin kararlılığının ve işletme bütünlüğünün korunması için TEİAŞ veya dağıtım şirketi tarafından yeterli görülmesi halinde sistem kontrol anlaşmasına ilişkin hükümler bağlantı anlaşmasına ek olarak düzenlenebilir.
+(3) Özel direkt hat tesis edilmesi halinde TEİAŞ veya dağıtım şirketi tarafından tüketicinin üretim tesisinin barasından
+ayrılması durumunda gerekli olacak emreamade
+tutulan kapasite için üretim faaliyeti gösteren tüzel kişi tarafından TEİAŞ veya dağıtım şirketine aşağıda belirtilen esaslar çerçevesinde bir bedel ödenir:
+a) Emreamade tutulan kapasite için dağıtım şirketine ödenecek bedelin hesaplanmasına ilişkin fiyatlar ile usul ve esaslar, dağıtım şirketi tarafından belirlenerek her tarife dönemine ilişkin tarife önerileriyle birlikte Kuruma sunulur ve Kurul onayı ile uygulamaya konulur. Emreamade
+tutulan kapasite bedelinin ödenmesine ilişkin usul ve esaslar bu Yönetmelik hükümleri çerçevesinde sistem kontrol anlaşması ve/veya bağlantı anlaşmasında düzenlenir.
+b) Üretim faaliyeti gösteren tüzel kişinin TEİAŞ ile imzaladığı veya imzalayacağı sistem kullanım anlaşmasında yer alan anlaşma gücü, tutulması gereken emreamade
+kapasite miktarı dikkate alınarak belirlenir ve üretim faaliyeti gösteren tüzel kişi için aylık olarak hesaplanacak iletim sistemi sistem kullanım ve sistem işletim bedelleri emreamade
+kapasite bedelini de içerir.
+ALTINCI BÖLÜM
+Kullanıcı Tarafından Tesis Edilen İletim ve Dağıtım Varlıkları
+İletim
+varlıkları
+MADDE 20 – (1) Üretim ve tüketim tesislerinin iletim sistemine bağlanabilmesi için yeni iletim tesisi ve bu tesisin sisteme bağlanabilmesi için yeni iletim hatlarının yapılmasının gerekli olduğu hâllerde; bu tesislerin yapımı için TEİAŞ’ın
+yeterli finansmanının olmaması veya zamanında yatırım planlaması yapılamaması durumlarında, söz konusu yatırımlar, bu tesise bağlantı talebinde bulunan tüzel kişi veya kişilerce müştereken yapılabilir veya finanse edilebilir. Bu kapsamda yapılan tesis ve hatların mülkiyeti ve işletme sorumluluğu TEİAŞ’a
+aittir.
+(2) Müştereken yapılacak iletim tesislerinin yatırımları, ilgili tüzel kişiler tarafından, bu kişilerin bağlantı ve sistem kullanım anlaşmalarında belirtilen anlaşma güçleri oranında paylaşılarak karşılanır. Konuya ilişkin usul ve esaslar TEİAŞ tarafından belirlenir.
+(3) Müştereken veya münferiden yapılacak iletim tesisine ilişkin geri ödemeye esas yatırım tutarı, TEİAŞ tarafından hazırlanıp Kurul tarafından onaylanan metodolojiye
+göre hesaplanır.
+(4) Metodoloji çerçevesinde hesaplanan tutar, ilgili tüzel kişi veya kişiler ile TEİAŞ arasında yapılacak bir tesis sözleşmesi ile bağlantı ve sistem kullanım anlaşmaları çerçevesinde geri ödenir. Hesaplanan tutara ilişkin geri ödemeler, aylık eşit taksitler halinde yapılır. Geri ödemeler, yapılan iletim tesis ve hatlarına ilişkin geçici kabul tutanağının TEİAŞ tarafından onaylandığı ayı takip eden aydan itibaren başlar ve bu tarihten itibaren en fazla on yıl içerisinde tamamlanır.
+(5) Vadesinde
+geri ödenmeyen aylık taksitlere ilişkin tutara, vade tarihinden itibaren 4/12/1984 tarihli ve 3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin Kanun hükümlerine göre belirlenen kanuni faiz oranı uygulanır.
+Dağıtım varlıkları
+MADDE 21 – (1) Üretim ve tüketim tesislerinin dağıtım sistemine bağlanabilmesi için, sistem kullanımı açısından kapasitenin yetersiz olması nedeniyle, genişleme yatırımı veya yeni yatırım yapılmasının gerekli olduğu ve yeterli finansmanın mevcut olmadığı hallerde, söz konusu yatırım dağıtım şirketi adına, bağlantı yapmak isteyen gerçek veya tüzel kişi tarafından ilgili mevzuat kapsamındaki teknik standartlar sağlanarak yapılabilir veya finanse edilebilir.
+(2) Dağıtım şirketi talebin karşılanabileceği tarihi, talebin yapıldığı tarihten itibaren beş yılı geçmemek üzere bağlantı yapmak isteyen gerçek veya tüzel kişiye bildirir.
+(3) Bu durumda gerçekleşen yatırıma ait bedel, dağıtım şirketi tarafından bağlantı görüşünde verilen bağlantı talebinin karşılanabileceği tarihteki yıl içerisinde en fazla oniki
+aylık taksitte, yatırımı yapan veya finanse eden gerçek veya tüzel kişiye, muhataba ulaşılamaması halinde tesisin bulunduğu yerdeki en yakın banka ya da PTT şubesine, hak
+sahip veya sahipleri adına yatırılarak ödenir. Dağıtım tesisinin geçici kabulünün, dağıtım şirketinin bağlantıyı karşılayabileceğini öngördüğü tarihten sonra yapılması halinde ödeme geçici kabülün
+yapıldığı tarihi takip eden yıl başlar. Dağıtım şirketi ilgili dağıtım tesisini, varlık kayıtlarına ödemenin yapıldığı tarihte ekler.
+(4) Yapılacak olan yatırımla ilgili işin başlangıcından kesin kabulünün yapılmasına kadar gerçekleştirilecek iş ve işlemler, alınabilecek avanslar, yatırım bedelinin hesaplanması, ödenmesi ve alınacak teminatlar ile ilgili olarak dağıtım şirketleri tarafından teklif edilen ve Kurul tarafından onaylanan metodoloji
+kullanılır.
+(5) Bu madde hükümleri uyarınca yapılan dağıtım tesisinin dağıtım şirketi tarafından geçici kabulünün yapıldığı ayı takip eden aydan itibaren, geri ödemenin yapılacağı ilk taksit tarihine kadar geri ödemesi yapılmamış tutar Tüketici Fiyat Endeksi oranında güncellenir. Vadesinde geri ödemesi yapılmamış taksitlere ilişkin tutara, vade tarihinden itibaren 3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin Kanun hükümlerine göre belirlenen kanuni faiz oranı uygulanır.
+YEDİNCİ BÖLÜM
+Ortak Hükümler
+Ödeme yükümlülüğü
+MADDE 22 – (1) Kullanıcı, Kurum tarafından iletim, dağıtım, ithalat veya ihracat faaliyetine ilişkin olarak onaylanan tarifeler üzerinden hesaplanan bedeller ile ithalat ve ihracat
+faaliyetine ilişkin Elektrik Piyasası İthalat ve İhracat Yönetmeliğinde öngörülen diğer bedelleri TEİAŞ ve dağıtım şirketine ödemekle yükümlüdür. Dağıtım sistemine bağlanan kullanıcılardan onaylanan tarifeler kapsamında alınan bağlantı bedeli, bir defaya mahsus olmak üzere ve ilk bağlantı anlaşması yapılması esnasında tahsil edilir ve geri ödenmez.
+(2) TEİAŞ ve dağıtım şirketi, kullanıcıya tahmini bir bedel tahakkuk ettirdiği takdirde, kesinleşen bedel üzerinden gerekli düzeltmeleri yapar.
+(3) Bağlantı varlıklarının işletme ve bakım masrafları, bağlantı sınırları dahilinde ilgili
+taraflarca karşılanır.
+(4) Zamanında ödenmeyen borçların tahsiline ilişkin hususlar, bağlantı anlaşması, sistem kullanım anlaşması ve enterkonneksiyon
+kullanım anlaşması kapsamında düzenlenir.
+Veri sağlama yükümlülüğü
+MADDE 23 – (1) Kullanıcı, Kurum onayına sunulacak bağlantı, sistem kullanım ve sistem işletim bedelleri ile ilgili mevzuat kapsamında tahsil edilen diğer bedellerin hesaplanabilmesi için TEİAŞ ve dağıtım şirketi tarafından talep edilen verileri sağlamakla yükümlüdür.
+(2) TEİAŞ ve dağıtım şirketi, bu kapsamda edindikleri veriler ile görevlerini yürütürken sahip oldukları diğer her türlü veriyi amacına uygun olarak kullanmak zorundadır.
+Teminatlar
+MADDE 24 – (1) İletim ve dağıtım sistemlerine bağlantı, sistem kullanımı ve enterkonneksiyon
+kullanımı kapsamında kullanıcılardan aşağıdaki teminatlar alınır:
+a) Bağlantı anlaşmaları kapsamında; sisteme bağlantı yapılmasının TEİAŞ veya dağıtım şirketi tarafından ilave yatırım gerektirdiği hallerde ya da sistem kullanımı açısından kapasitenin yetersiz olması nedeniyle genişleme yatırımı veya yeni yatırım yapılmasının gerekli olduğu ve yeterli finansmanın mevcut olmaması veya zamanında yatırım planlaması yapılamaması durumlarında, söz konusu yatırımların, bağlantı talebinde bulunan tüzel kişi veya kişilerce münferiden veya müştereken yapıldığı veya finanse edildiği hallerde mali yükümlülüklerin gerçekleştirilmesi için gereken teminatlar.
+b) Sistem kullanım ve enterkonneksiyon
+kullanım anlaşmaları kapsamında; 22 nci maddede tanımlanmış olan ödeme yükümlülüklerinin teminat altına alınabilmesini teminen,
+sistem kullanım anlaşması ve enterkonneksiyon kullanım anlaşmasında belirlenen teminatlar.
+(2) Teminata
+ilişkin belgeler, bağlantı, sistem kullanım ve enterkonneksiyon
+kullanım anlaşmalarının imzalanması aşamasında diğer belgelerle birlikte kullanıcı tarafından TEİAŞ veya dağıtım şirketine sunulur.
+Ödeme prosedürü
+MADDE 25 – (1) TEİAŞ veya dağıtım şirketi, her türlü vergi ve yükümlülükler de ilave edilmiş olan ayrıntılı ödeme bildirimini, takip eden ay içerisinde sistem kullanım anlaşması veya enterkonneksiyon
+kullanım anlaşmasının tarafı olan kullanıcıya gönderir.
+(2) Kullanıcı, ödeme bildiriminin tebliğ edildiği günü izleyen onbeş
+gün içerisinde bildirimde yer alan tutarı, TEİAŞ veya dağıtım şirketine öder. Ödemede gecikilen süre için 21/7/1953 tarihli ve
+6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesinde öngörülen gecikme zammı uygulanır.
+(3) Maddi
+hatalar dışında, ödeme bildirimi içeriğine yapılan itiraz ödemeyi durdurmaz. TEİAŞ veya dağıtım şirketinin hatası nedeniyle fazla ödenmiş olan tutara, ödeme bildiriminin tebliğ edildiği tarihten itibaren onbeş
+gün içerisinde itirazda bulunulabilir. İtirazın kısmen veya tamamen haklı bulunması halinde fazla ödenen tutar, ödeme tarihinden itibaren 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesine göre hesaplanan gecikme zammı ile birlikte kullanıcıya iade edilir.
+Tadilat
+MADDE 26 – (1) Bağlantı anlaşmasında belirlenen sahaya özgü teknik ve fiziki şartlarda işletme esnasında herhangi bir değişiklik veya yenilemenin, anlaşmanın her iki tarafını da etkilemesi durumunda, değişiklik ya da yenileme işlemi tadilat olarak kabul edilir.
+(2) TEİAŞ veya dağıtım şirketi ya da kullanıcı, tadilatın gerekli olduğu durumlarda bağlantı anlaşmasının diğer tarafına tadilat talebinde bulunur.
+(3) Tadilat
+talebinin TEİAŞ veya dağıtım şirketi tarafından yapılması halinde:
+a) TEİAŞ veya dağıtım şirketi, yapılması önerilen tadilatın ayrıntılarını ve tadilatın gerçekleştirilmesi için öngörülen tarihi ve süreyi içeren tadilat teklifini ilgili kullanıcılara eşzamanlı olarak gönderir.
+b) Kullanıcı, tadilat teklifine ilişkin görüşlerini, tadilat teklifinin tebliğ edildiği tarihten itibaren onbeş
+gün içerisinde TEİAŞ veya dağıtım şirketine bildirir.
+c) TEİAŞ veya dağıtım şirketi, kullanıcının görüşlerini de dikkate alarak otuz gün içerisinde tadilat kapsamını belirler ve ilgili kullanıcıya tebliğ eder. TEİAŞ veya dağıtım şirketi ile kullanıcı arasındaki tadilat kapsamına ilişkin anlaşmazlıklarda bu Yönetmeliğin 35 inci maddesi hükümleri uygulanır.
+(4) Tadilat
+talebinin iletim veya dağıtım sistemine bağlı kullanıcı tarafından yapılması halinde:
+a) Kullanıcı, yapılması önerilen tadilatın ayrıntılarını ve tadilatın gerçekleştirilmesi için öngörülen tarihi ve süreyi içeren tadilat teklifini TEİAŞ veya dağıtım şirketine gönderir.
+b) TEİAŞ veya dağıtım şirketi; tadilat talebinden etkilenmesi muhtemel diğer kullanıcıların da görüşlerini almak suretiyle tadilat teklifini, tadilat
+teklifinin tebliğ edildiği tarihten itibaren altmış gün içerisinde karara bağlar ve kullanıcıya tebliğ eder. TEİAŞ veya dağıtım şirketi ile kullanıcı arasındaki tadilat kapsamına ilişkin anlaşmazlıklarda 35 inci madde hükümleri uygulanır.
+(5) Tadilat
+talebinin kullanıcı tarafından yapılması halinde, iletim veya dağıtım sisteminde kapasite artışı yatırımı gerektiren tadilatlarda, bağlantı noktasına kadar olan kısmın maliyeti TEİAŞ veya dağıtım şirketi tarafından, bağlantı noktasından itibaren kullanım yerine kadar olan kısmın maliyeti ise kullanıcı tarafından karşılanır. Diğer hallerde oluşan maliyetler kullanıcı tarafından karşılanır.
+(6) Tadilat
+talebinin TEİAŞ veya dağıtım şirketi tarafından yapılması halinde bağlantı hattı ve kullanıcı tesisleri dahil olmak üzere tüm maliyetler TEİAŞ veya dağıtım şirketi tarafından karşılanır.
+Kullanıcı bağlantısının veya
+enerjisinin kesilmesi
+MADDE 27 – (1) TEİAŞ ve dağıtım şirketi, aşağıda belirtilen şartların gerçekleşmesi durumunda, kullanıcının tesis ve teçhizatının bağlantısını veya kullanıcının enerjisini kesebilir:
+a) Bağlantı, sistem kullanım ve enterkonneksiyon
+kullanım anlaşmaları ile ilgili mevzuat hükümleri gereğince enerji kesilmesini gerektiren durumlar.
+b) İletim veya dağıtım sisteminin herhangi bir bölümünün veya enterkonneksiyon
+hattının TEİAŞ veya dağıtım şirketi tarafından test ve kontrolünün, tadilatının, bakımının, onarımının ya da genişletilmesinin gerektirdiği durumlar.
+c) Mücbir sebep hallerinden birine bağlı durumlar.
+ç) Can ve mal emniyetinin sağlanmasının gerektirdiği durumlar.
+d) İletim veya dağıtım sistemini ya da enerji alınan veya verilen başka bir sistemi etkileyen veya etkileme ihtimali
+olan kaza, sistem arızası ya da acil
+durumlar.
+e) İletim sistemine bağlı üretim şirketleri ve tüketiciler ile dağıtım sistemine bağlı üretim şirketlerinin sistem kullanım ve/veya sistem işletim bedellerine ilişkin ödeme yükümlülüğünü yerine getirmediği durumlar.
+(2) Birinci fıkranın (a) bendi kapsamında yapılacak kesintilerde, TEİAŞ ve dağıtım şirketi kullanıcıya en az beş gün önceden; birinci fıkranın (b) bendi kapsamında yapılacak kesintilerde TEİAŞ kullanıcıya en az beş gün önceden, dağıtım şirketi ise, dağıtım sistemine bağlı olarak üretim faaliyeti gösteren tüzel kişiye en az beş gün önceden, dağıtım sistemine alçak ve yüksek gerilim seviyesinden bağlanan tüketicilere de en az iki gün önceden, birinci fıkranın (e) bendi kapsamında yapılacak kesintilerde TEİAŞ ve dağıtım şirketi kullanıcıya en az yedi gün önceden bildirimde bulunur. Diğer bentler kapsamında enerji kesintisinin gerekmesi durumunda ise mümkün olması halinde kullanıcının kesinti yapılmadan önce bilgilendirilmesi zorunludur.
+(3) Enerji
+kesintisine neden olan durum ortadan kalktıktan sonra kullanıcıya ait tesis ve teçhizat mümkün olan en kısa sürede yeniden enerjilendirilir.
+(4) Kullanıcının bir bağlantı noktasında enerjisinin kesilmesini yazılı olarak talep etmesi halinde, söz konusu talep, kullanıcıyla varılan mutabakata göre TEİAŞ veya dağıtım şirketi tarafından yerine getirilir.
+(5) TEİAŞ ve dağıtım şirketinin, kullanıcının yazılı isteği üzerine veya kullanıcıdan kaynaklanan nedenlere dayalı enerjiyi kesme ve tekrar verme işlemleri ile ilgili olarak yaptığı harcamalar, kullanıcı tarafından karşılanır.
+Erişim ve müdahale
+hakkı
+MADDE 28 – (1) Kullanıcı, mülkiyetin gayri ayni haklar da dahil
+olmak üzere; bağlantı, iletim ve dağıtım sistemi varlıklarının tesisi, işletmesi, bakımı, kontrolü, test edilmesi, sökülmesi ve sayaçlara zaman sınırlaması olmaksızın erişim amacıyla TEİAŞ ve dağıtım şirketine gerekli izni sağlar.
+(2) Kullanıcı yukarıda sayılan hakları tapu siciline masraflarını kendisi karşılayarak TEİAŞ veya dağıtım şirketi lehine tescil ettirebilir. Bağlantı anlaşmasında bir hüküm yoksa kira için bedel alınmaz.
+(3) Bir bağlantı anlaşması tarafı, temsilcileri, çalışanları ve davet ettiği sair kimseler hiçbir şekilde bağlantı anlaşmasının diğer tarafının tesis ve teçhizatına, aşağıdaki haller dışında, ilgili tarafın izni olmaksızın müdahalede bulunamaz:
+a) Can ve mal
+emniyetinin sağlanması için yapılması gereken acil durum müdahaleleri,
+b) TEİAŞ ve dağıtım şirketinin, iletim ve dağıtım sistemini ilgili mevzuat uyarınca işletebilmek amacıyla yapacağı müdahaleler.
+(4) İlgili mevzuat uyarınca TEİAŞ'a
+ait trafo merkezlerinde dağıtım şirketi tarafından yapılacak enerji analizörü ve kompanzasyon
+tesisleri için TEİAŞ tarafından uygun bulunması koşuluyla tesislere erişim için gerekli izin verilir.
+(5) TEİAŞ’a
+ait trafo merkezlerinde bulunan dağıtım fiderlerinde arıza durumlarına münhasır olmak üzere dağıtım şirketince açma kapama talep edilmesi halinde, bu talep şebeke güvenliğini sekteye uğratmayacak şekilde yazılı, elektronik imza, faks gibi yöntemlerden herhangi biriyle karşılanabilir.
+Devir, temlik ve rehin
+MADDE 29 – (1) Kullanıcıların bağlantı, sistem kullanım ve enterkonneksiyon
+kullanım anlaşmaları kapsamındaki haklarının veya yükümlülüklerinin, başkalarına devir, temlik ve rehnine
+ilişkin hususlar
+ilgili anlaşmalarda düzenlenir.
+Hizmet alımı
+MADDE 30 – (1) TEİAŞ ve dağıtım şirketi ile kullanıcı, önceden birbirlerinin yazılı onayını almaksızın, tarafı oldukları bağlantı ve sistem kullanım anlaşmaları kapsamındaki yükümlülüklerini ilgili mevzuat hükümlerine uygun olarak hizmet alımı yoluyla başkalarına gördürebilir. Hizmet alımı yoluna gidilmesi, bağlantı ve sistem kullanım anlaşmaları ile bu Yönetmelik kapsamındaki yükümlülüklerin devri anlamına gelmez. Hizmet alımı yapan kullanıcı, bu durumu uygulamanın başlamasından en az üç iş günü önceden TEİAŞ veya dağıtım şirketine yazılı olarak bildirir.
+Gizlilik
+MADDE 31 – (1) Bağlantı, sistem kullanım ve enterkonneksiyon
+kullanım anlaşmalarının tarafları, bu Yönetmeliğin uygulanması sonucu ya da piyasa faaliyetleri veya başka bir yolla sahip oldukları ve açıklandığı takdirde ticari ilişkilere zarar verebilecek bilgilerin gizli tutulması için gerekli tedbirleri almak ve bu bilgileri kendi iştirakleri veya hissedarları olan tüzel kişiler dâhil üçüncü şahıslara açıklamamak ve ilgili mevzuatı ile öngörülen hususlar dışında kullanmamakla yükümlüdür.
+Gerçeğe aykırı beyan
+MADDE 32 – (1) Bağlantı yapılacak tesisin mülkiyetine ilişkin olarak gerçeğe aykırı beyanda bulunulduğunun tespit edilmesi halinde, TEİAŞ veya dağıtım şirketi tarafından talep sahibinden bağlantı anlaşması yapıldığı tarihteki beyanını kanıtlayıcı belgeleri üç iş günü içerisinde sunması istenir. Bağlantı anlaşması yapıldığı tarihteki beyanını kanıtlayıcı bir belgeyi sunmayan talep sahibine, gerçeğe aykırı beyanda bulunduğu tespit edilenler hakkında yapılacak işlemler uygulanır.
+(2) Gerçeğe aykırı beyanda bulunduğu tespit edilen talep sahibinin bağlantı anlaşması ve varsa sistem kullanım anlaşması iptal edilir.
+(3) Talep
+sahibinin bağlantı anlaşmasında mülkiyet durumunu gerçeğe aykırı olarak beyan etmesi sonucu TEİAŞ veya dağıtım şirketinin uğradığı zararlar talep sahibi tarafından karşılanır.
+(4) Bu madde hükümleri, mahiyetine uygun olduğu ölçüde, gerçeğe aykırı beyanda bulunarak TEİAŞ veya ilgili dağıtım şirketi ile enterkonneksiyon
+kullanım anlaşması imzalayanlar hakkında da uygulanır.
+Mücbir
+sebepler
+MADDE 33 – (1) Bağlantı, sistem kullanım ve enterkonneksiyon
+kullanım anlaşmalarının tarafları; anlaşmalar ve bu Yönetmelik kapsamındaki herhangi bir yükümlülüğü Elektrik Piyasası Lisans Yönetmeliğinin 35 inci maddesinde belirtilen mücbir sebep olayları sonucunda yerine getiremediği takdirde, mücbir sebep olayının ya da etkilerinin devam ettiği ve yükümlülüğün yerine getirilmesini engellediği süre boyunca, etkilenen yükümlülükler ertelenir veya askıya alınır.
+(2) Mücbir sebep nedeniyle yükümlülüğünü yerine getiremeyen kullanıcı, mücbir sebebe yol açan koşulları, olayın oluşumunu ve tahmini süresini açıklayan mücbir sebep bildirim raporunu, mücbir sebebin süresi boyunca yükümlülüklerini yerine getirememe durumunu ortadan kaldırmak için aldığı önlemleri ve güncel bilgileri içeren düzenli raporları TEİAŞ veya dağıtım şirketine göndermek zorundadır.
+Feragat
+MADDE 34 – (1) Kullanıcılar yazılı olarak haklarından feragat etmedikleri sürece, bu Yönetmelik ile bağlantı, sistem kullanım ve enterkonneksiyon
+kullanım anlaşmaları kapsamındaki hakların kullanılmasındaki gecikme bu haklara herhangi bir şekilde zarar vermez ve bu haklardan feragat edildiği anlamına gelmez. Bir hakkın kısmen kullanılması, bu hakkın veya başka bir hakkın ileride kullanımını engellemez.
+Anlaşmazlıkların çözümü
+MADDE 35 – (1) TEİAŞ, dağıtım şirketi ve lisans sahibi kullanıcılar; bağlantı, sistem
+kullanım ve enterkonneksiyon kullanım anlaşmalarının hükümleri veya anlaşma hükümlerinde yapılacak değişiklikler üzerinde mutabakata varamamaları halinde,
+oluşan ihtilafların çözümü için öncelikle Kuruma başvuruda bulunabilirler. Söz konusu başvuru, Kurul tarafından ilgili mevzuat hükümleri doğrultusunda ve başvuru tarihinden itibaren altmış gün içerisinde sonuçlandırılır.
+(2) Birinci fıkra kapsamında, bağlantı, sistem kullanım ve enterkonneksiyon
+kullanım anlaşmalarının uygulamasından doğan anlaşmazlıklar görevli ve yetkili mahkemelerde çözülür.
+Bildirimler
+MADDE 36 – (1) Bu Yönetmelik uyarınca Kurum tarafından yapılan bildirimler, 11/2/1959
+tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine uygun olarak yapılır.
+SEKİZİNCİ BÖLÜM
+Diğer Hükümler
+Tüketici mülkiyetindeki
+dağıtım
+tesisleri
+MADDE 37 – (1) Bu Yönetmeliğin yayımı tarihinden önceki dönemde tesis edilmiş olup, bir veya daha fazla tüketicinin kullanımında bulunan dağıtım tesisleri Kurul tarafından belirlenen usul ve esaslar dahilinde,
+yatırım planında öngörülen süreç çerçevesinde dağıtım şirketleri tarafından devralınır.
+(2) Bu Yönetmeliğin yayımı tarihinden itibaren önceki dönemde tüketici tarafından tesis edilmiş olan dağıtım tesislerinin işletme, bakım, onarımı dağıtım şirketince yapılır. Bu hüküm kapsamındaki tesislerde iyileştirme ve yenileme yatırımı gerekmesi halinde dağıtım şirketi devir alma işlemlerinin başlatılması ile birlikte yatırımı gerçekleştirir.
+Üretim
+tesislerinin bağlantısını sağlayan
+hatların dağıtım şirketine
+devri
+MADDE 38 – (1) Herhangi bir dağıtım merkezine bağlanmadan doğrudan iletim tesisi şalt sahalarının dağıtım gerilimi seviyesindeki fiderlerine
+bağlanması Kurul tarafından uygun görülerek sadece ilgili üretim tesisinin şebekeye bağlanması amacıyla tesis edilmiş olan hatlar, bu hatlar üretim faaliyeti gösteren başka bir tüzel kişi tarafından da kullanılana ya da dağıtım sistemi ile irtibatlanana
+kadar, bu hatları tesis eden tüzel kişi tarafından işletilir.
+(2) Tesis
+edilen hatların üretim faaliyeti gösteren başka bir tüzel kişi tarafından kullanılması veya dağıtım sistemi ile irtibatlanması
+halinde bu hatlar, bedeli mukabilinde ilgili bölgede sorumlu olan dağıtım şirketine devredilir. Bu madde kapsamında tesis edilen hatların bedelleri, 37 nci madde
+kapsamında belirlenen
+usul ve esaslara göre tespit edilir. Dağıtım şirketi ile bu hatları devreden tüzel kişi arasında bağlantı ve sistem kullanım anlaşmaları imzalanır. Tespit edilen bedel ile kamulaştırma için yapılan harcamalar sistem kullanım anlaşması çerçevesinde dağıtım tarifesi bedelinden düşülerek ilgili tüzel kişiye geri ödenir.
+(3) Hatların karakteristiğinin belirlenmesi, proje onayı, etüt ve kontrolü, geçici kabulü ve benzeri hizmetler ilgili mevzuat hükümleri uyarınca yerine getirilir. Bu hizmetlerin bedelleri üretim faaliyeti gösteren tüzel kişiler tarafından karşılanır.
+(4) Bu madde
+kapsamındaki hatlar için kamulaştırma yapılmış ise Kurum, devir gerçekleştirilmeden önce kamulaştırılan taşınmazların devri konusunda Maliye Bakanlığının görüşünü alır.
+Atıflar
+MADDE 39 – (1) 27/3/2003 tarihli ve 25061 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında İletim ve Dağıtım Sistemlerine Bağlantı ve Sistem Kullanımı Hakkında Tebliğe yapılan atıflar bu Yönetmeliğe yapılmış sayılır.
+DOKUZUNCU BÖLÜM
+Geçici ve Son Hükümler
+Kullanıcı tarafından
+tesis edilen iletim ve dağıtım varlıklarına ilişkin metodoloji
+GEÇİCİ MADDE 1 – (1) 20 nci maddenin üçüncü fıkrası uyarınca TEİAŞ tarafından hazırlanacak olan kullanıcı tarafından tesis edilen iletim varlıklarının geri ödemelerine ilişkin metodoloji, bu Yönetmeliğin yayımı tarihinden itibaren iki ay içerisinde Kuruma sunulur.
+(2) 21 inci
+maddenin dördüncü fıkrası uyarınca dağıtım şirketleri tarafından teklif edilecek olan kullanıcı tarafından tesis edilen dağıtım varlıklarının geri ödemelerine ilişkin metodoloji, bu Yönetmeliğin yayımı tarihinden itibaren iki ay içerisinde Kuruma sunulur.
+Mahsup yöntemiyle geri ödeme
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yayımı tarihinden önceki dönemde; üretim ve tüketim tesislerinin iletim veya dağıtım sistemine bağlanabilmesi için, sistem kullanımı açısından kapasitenin yetersiz olması nedeniyle, genişleme yatırımı veya yeni yatırım yapılmasının gerekli olması ve yeterli finansmanın mevcut olmaması dolayısıyla TEİAŞ veya dağıtım şirketi adına, bağlantı yapmak isteyen gerçek veya tüzel kişi tarafından yapılmış veya finanse edilmiş olup da, buna ilişkin gerçekleşen yatırıma ilişkin toplam harcama tutarı, iletim veya dağıtım tarifesinden mahsup edilmek suretiyle karşılanan yatırımların geri ödemesine, gerçekleşen yatırıma ilişkin toplam harcama tutarının tamamı karşılanana kadar aynı yöntem ile devam edilir.
+(2) Bu Yönetmeliğin yayımı tarihinden itibaren on yıl içerisinde bu madde kapsamındaki gerçekleşen yatırıma ilişkin toplam harcama tutarlarının geri ödemesi tamamlanamadığı takdirde, bakiye tutar ilgili gerçek veya tüzel kişilere onuncu yılın sonunda defaten ödenir.
+Yürürlük
+MADDE 40 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 41 – (1) Bu Yönetmelik hükümlerini Enerji Piyasası Düzenleme Kurumu Başkanı yürütür.
+EK-1
+Bağlantı, Sistem Kullanım ve Enterkonneksiyon
+Kullanım Anlaşmaları
+Anlaşma Tarafları
+TEİAŞ ve Dağıtım Şirketine Yapılacak Ödemelerin
+Niteliği
+Bağlantı Anlaşması
+TEİAŞ – İletim Sistemine
+Doğrudan Bağlı Üretim Şirketi
+TEİAŞ – İletim Sistemine
+Doğrudan Bağlı Tüketici
+TEİAŞ – Dağıtım Şirketi
+TEİAŞ – İletim Sistemine Doğrudan Bağlı OSB
+Dağıtım Şirketi – Dağıtım
+Sistemine Bağlı Üretim Şirketi
+Dağıtım Bağlantı Bedeli
+Dağıtım Şirketi –
+Tüketici
+Dağıtım Bağlantı Bedeli
+Dağıtım Şirketi – Dağıtım Sistemine Doğrudan Bağlı OSB
+Dağıtım Bağlantı Bedeli
+Sistem Kullanım Anlaşması
+TEİAŞ – Dağıtım Şirketi
+İletim Sistemi Kullanım
+Bedeli
+İletim Sistemi İşletim
+Bedeli
+TEİAŞ – İletim Sistemine
+Doğrudan Bağlı Üretim Şirketi
+İletim Sistemi Kullanım
+Bedeli
+İletim Sistemi İşletim
+Bedeli
+TEİAŞ – İletim Sistemine
+Doğrudan Bağlı Tüketici
+İletim Sistemi Kullanım
+Bedeli
+İletim Sistemi İşletim
+Bedeli
+TEİAŞ – İletim Sistemine Doğrudan Bağlı OSB
+İletim Sistemi Kullanım Bedeli
+İletim Sistemi İşletim Bedeli
+Dağıtım Şirketi – Dağıtım
+Sistemine Bağlı Üretim Şirketi
+Dağıtım Sistemi Kullanım
+Bedeli
+Dağıtım
+Şirketi – Tedarik Şirketi
+Dağıtım
+Sistemi Kullanım Bedeli
+(İletim
+Sistemi Kullanım Bedeli)
+(İletim
+Sistemi İşletim Bedeli)
+Dağıtım
+Şirketi – Dağıtım Sistemine Bağlı Serbest Tüketiciye Doğrudan Satış Yapan
+Üretim Şirketi
+Dağıtım
+Sistemi Kullanım Bedeli
+(İletim
+Sistemi Kullanım Bedeli)
+(İletim
+Sistemi İşletim Bedeli)
+Enterkonneksiyon
+Kullanım Anlaşması
+TEİAŞ –
+İletim Sistemini Kullanarak Elektrik Enerjisi İthal veya İhraç Eden
+Tedarik Şirketi
+İletim
+Sistemi Kullanım Bedeli
+İletim Sistemi İşletim Bedeli
+TEİAŞ -
+İletim Sistemini Kullanarak Elektrik Enerjisi İhraç Eden Üretim Şirketi
+İletim
+Sistemi Kullanım Bedeli
+İletim Sistemi İşletim Bedeli
+Dağıtım
+Şirketi – Dağıtım Sistemini Kullanarak Elektrik Enerjisi İthal veya İhraç
+Eden Tedarik Şirketi
+Dağıtım
+Sistemi Kullanım Bedeli
+Dağıtım
+Şirketi – Dağıtım Sistemini Kullanarak Elektrik Enerjisi İhraç Eden
+Üretim Şirketi
+Dağıtım
+Sistemi Kullanım Bedeli
