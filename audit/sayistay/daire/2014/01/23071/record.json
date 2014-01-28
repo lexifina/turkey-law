@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "48",
+  "decision_date": "2014-01-28",
+  "source_id": 23071,
+  "chamber": "6",
+  "ilam_number": "84",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23071/",
+  "source_sha256": "c8cb4a0a1f7003dcc6e2beca41ec3b522cafb20140d918dee6d64ac156fbc6a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
