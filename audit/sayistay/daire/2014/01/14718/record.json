@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35177",
+  "decision_date": "2014-01-28",
+  "source_id": 14718,
+  "chamber": "2",
+  "ilam_number": "83",
+  "item_number": 4,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14718/",
+  "source_sha256": "e51d606c0a94376e5405da95f082ed5b101068acaa9c7cb8ba5ce9b2642fb433",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
