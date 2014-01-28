@@ -1,0 +1,3 @@
+HİZMET SÖZLEŞMESİNE AYKIRI PERSONEL TEMİNİ
+
+Belediyeye ait tüm bilgisayarların bakım ve destek hizmetlerinin sağlanmasına yönelik …. Ltd Şirketi ile yapılan sözleşme hükümleri yürürlükteyken aynı amaca yönelik olarak …… Ltd Şirketi ortaklarından ……. doğrudan temin yoluyla personel hizmet alımı kapsamında …… Tic. LTD Şirketi bünyesinde Bilgisayar Teknisyeni olarak Belediyede istihdam edilmesi ve ücretinin de belediye bütçesinden ödenmesi sonucu ………. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizinden ………….makbuzla tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
