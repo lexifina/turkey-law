@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19368",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İLİŞKİLİ TARAFLAR (BDS 550) HAKKINDA TEBLİĞ TÜRKİYE DENETİM STANDARTLARI TEBLİĞİ NO: 23",
+  "number": "19368",
+  "issuer": "Kurum Başkanı",
+  "path": "teblig/2014/19368",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19368&MevzuatTertip=5",
+  "source_sha256": "999fcec8b8f8833736a7b78de8fbf532c78eeb0e69d684d7de2525eaeb10c3f4",
+  "source_bytes": 9242,
+  "published": "2014-01-29",
+  "gazette": "28897",
+  "in_force": "2014-01-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.01.2014); own commencement article: \"Bu Tebliğ 1/1/2013 tarihinde ve sonrasında başlayacak hesap dönemlerinden itibaren uygulanmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2013 tarihinde ve sonrasında başlayacak hesap dönemlerinden itibaren uygulanmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 190,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19368-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
