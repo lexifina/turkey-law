@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-01-29",
+  "issue": "28897",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2872 Sayılı Çevre Kanunu Uyarınca Verilecek İdari Para Cezalarına İlişkin Tebliğ (No: 2014/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140129-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140129.htm",
+  "index_sha256": "7f4279776e1866e41cd2f36ae4d32fee394ed76aafe7ebcaf078c7c936c4cd18",
+  "index_header": "29 Ocak 2014 ... 28897 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140129.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
