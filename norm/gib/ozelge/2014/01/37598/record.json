@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70903105-165.01.03[143]-10181",
+  "source_id": 37598,
+  "date": "2014-01-29",
+  "title": "Basit usulde vergiye tabi kişilerin işyeri/ ticari araç alım kredilerinde KKDF muafiyeti uygulayabilmek için, satıcının vergi mükellefi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/37598",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "258f8b6d13a8468cb8a358b1fae0e3186a42b2be935e3376d5d08054e9ddb224",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
