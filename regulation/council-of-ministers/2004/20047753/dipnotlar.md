@@ -1,0 +1,5 @@
+[1] 2/1/2014 tarihli ve 2014/5764 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle bu alt bentte yer alan “Fon kaynaklarının” ibaresinden sonra gelmek üzere “ilgili mevzuat çerçevesinde” ibaresi eklenmiştir.
+[2] 2/1/2014 tarihli ve 2014/5764 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle bu alt bentte yer alan “T.C. Merkez Bankası” ibaresi “Türkiye Cumhuriyet Merkez Bankası Anonim Şirketi tarafından ilan edilen gösterge niteliğindeki” şeklinde değiştirilmiştir.
+[3] 2/1/2014 tarihli ve 2014/5764 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle bu alt bentte yer alan “%5’ini” ibaresi “%10’unu” şeklinde değiştirilmiştir.
+[4] 2/1/2014 tarihli ve 2014/5764 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle bu alt bentte yer alan “ve yatırım fonu katılma belgeleri” ibaresi yürürlükten kaldırılmıştır.
+[5] 2/1/2014 tarihli ve 2014/5764 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 3 üncü maddesiyle bu fıkrada yer alan “İşsizlik Sigortası Dairesi Başkanlığı” ibaresi “Fon Yönetimi ve Aktüerya Dairesi Başkanlığı” şeklinde değiştirilmiştir.
