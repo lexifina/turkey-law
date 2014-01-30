@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35180",
+  "decision_date": "2014-01-30",
+  "source_id": 14974,
+  "chamber": "2",
+  "ilam_number": "184",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14974/",
+  "source_sha256": "9155311b6f63416d37460ced1e8e8a8c07f3325e49d48cc1fd052d43ec30ef85",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
