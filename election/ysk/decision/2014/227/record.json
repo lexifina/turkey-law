@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/227",
+  "list_number": "227",
+  "decision_date": "2014-01-30",
+  "title": "Bir siyasi partiden merkez yoklamasına katılan aday adayının, o partiye ait aday listesinin il ve ilçe seçim kurullarına verilmesinden önce aday adaylığından ayrıldığı takdirde, partisinden vaki aday adaylığından vazgeçmiş sayılacağından, başka bir siyasi partiden merkez yoklamasına katılabileceği gibi partisinden istifa etmesi koşuluyla bağımsız aday da olabileceğine ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2486/2014-227.pdf",
+  "source_sha256": "a6b2df642f941371b2889c514b56fa08f4d963f27226caaaae0dae448f5cca5b",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-01-30",
+  "law_text_complete": false
+}
