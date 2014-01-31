@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-01-31",
+  "issue": "28899",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "İLKE KARARI",
+  "title": "Tabiat Varlıklarını Koruma Merkez Komisyonunun 28/1/2013 Tarihli ve 56 Sayılı İlke Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140131-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140131.htm",
+  "index_sha256": "adc14b1eecb777686eec92ef9d3e315dfa90215460cc1299aad34b8159cdc9ab",
+  "index_header": "31 Ocak 2014 ... 28899 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/01/20140131.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
