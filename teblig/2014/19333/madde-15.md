@@ -1,0 +1,2 @@
+Kurul ücreti istisnası
+MADDE 15 – (1) Ortaklıklar tarafından net dağıtılabilir dönem kârının en az yüzde yirmi beşi oranında nakit kâr payı dağıtımına karar verilmesi durumunda; dağıtıma ilişkin genel kurul kararının alınmasından itibaren bir yıl içinde gerçekleştirilecek pay ihraçlarından alınacak Kurul ücretlerinde, 22/6/2013 tarihli ve 28685 sayılı Resmî Gazete’de yayımlanan VII-128.1 sayılı Pay Tebliğinin 26 ncı maddesinde düzenlenen oranların yüzde yetmiş beşi esas alınır.

@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.19333",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KÂR PAYI TEBLİĞİ (II-19.1)",
+  "number": "19333",
+  "issuer": "Kurul",
+  "path": "teblig/2014/19333",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19333&MevzuatTertip=5",
+  "source_sha256": "63f43e5885a71dd00e5f0a5d1a2bbd0c95ca274d0b80a6152042bbce4f40651a",
+  "source_bytes": 29651,
+  "published": "2014-01-23",
+  "gazette": "28891",
+  "in_force": "2014-02-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/2/2014 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/2/2014 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1792,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+KÂR PAYI TEBLİĞİ
+(II-19.1)
