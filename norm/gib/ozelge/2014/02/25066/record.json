@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[231-2013-141]-62",
+  "source_id": 25066,
+  "date": "2014-02-04",
+  "title": "Servis taşımacılığı faaliyetinde belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25066",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "6abd62fc81021d4a5d7e592151c544ab402bb8d264786e5150068d6ea6d8140a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
