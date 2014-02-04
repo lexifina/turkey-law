@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38322",
+  "decision_date": "2014-02-04",
+  "source_id": 8281,
+  "chamber": "7",
+  "file_number": "37335",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8281/",
+  "source_sha256": "81d1d909d78a600e9a21543078b45143f3c409722620e7e4312eecd2205fa81d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
