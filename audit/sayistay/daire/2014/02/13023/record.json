@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "184",
+  "decision_date": "2014-02-04",
+  "source_id": 13023,
+  "chamber": "3",
+  "ilam_number": "136",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13023/",
+  "source_sha256": "0e7b2198778d3bf8a71fccfd039a7fb33ee3fe7e6536ad40d993d8db82e2fc09",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
