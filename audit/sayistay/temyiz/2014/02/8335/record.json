@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38376",
+  "decision_date": "2014-02-04",
+  "source_id": 8335,
+  "chamber": "8",
+  "file_number": "38217",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8335/",
+  "source_sha256": "008ec59e6685e37030c35d583c18ead78b50557c2ef35b1aca685abd6e3e36ca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
