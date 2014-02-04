@@ -1,0 +1,11 @@
+Belediyenin borçlandığı tutardan fazla ödeme yapması
+
+................ Belediyesi tarafından yapılan borç ödemesinde, ................ Belediyesine olan borç tutarının üzerinde ödemede bulunulması sonucunda toplam ................. TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+................ Belediyesi ile .................. Belediyesi arasında, 06.10.2009 tarihinde 5747 sayılı Büyükşehir Belediyesi İçerisinde İlçe Kurulması ve Kanunlarda değişiklik Yapılması Hakkında Kanun hükümlerine istinaden, akdedilen protokol hükümleri çerçevesinde, .................. Belediyesi ................... Belediyesine ödenmesi gereken borçların (................ Belediyesi tarafından tahakkuk ettirilmiş Belediye alacaklarının) ............... Belediyesi tarafından tahsiline ilişkin alacakların devrine karşılık ................ Belediyesine ................ TL tutarında ödeme de bulunma, diğer bir ifade ile ................ TL tutarında borçlanma taahhüdüne girmiştir.
+
+................ Belediyesi Meclisi tarafından 27.11.2011 tarihinde alınan kararla, söz konusu alacakların devrinden doğan borç tutarı ................ TL den ................. TL’ ye, ................ Belediyesi lehine indirilmiştir. Dolayısıyla, .................. Belediyesi tarafından ...................  Belediyesine ödenecek olan borç tutarı .................. TL’ye eşitlenmiştir. Uygulama da ise, 2009-2011 yılları arasında .................. Belediyesine yapılan borç ödemesinin ................. TL yerine ................. TL olarak gerçekleştirildiği tespit edilmiştir.
+
+Denetçi tarafından, fazladan ödenen .................TL’nin kamu zararı olduğu iddia edilmiş ise de; ilişikli tutulan belgelerin incelenmesi neticesinde, .................. Belediyesinin ................. Belediyesine olan borç ödemelerinin (2012 yılı dahil) devam ettiği, diğer bir ifade ile, sonraki yıllarda da ödenmesi gereken borcunun olduğu tespit görülmüştür. Dolayısıyla, bu aşamada, kamu zararının oluşmadığından, 5018 sayılı Kanunun 71 inci maddesinde tanımlanan anlamıyla bir kamu zararının varlığından ve kamu zararına neden olunduğundan bahsetmek mümkün görünmemektedir.
+
+Bu itibarla, kamu zararı oluşmayan .................. TL ile ilgili olarak ilişilecek husus bulunmadığına oybirliğiyle karar verildi.
