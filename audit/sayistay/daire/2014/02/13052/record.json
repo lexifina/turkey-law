@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "184",
+  "decision_date": "2014-02-04",
+  "source_id": 13052,
+  "chamber": "3",
+  "ilam_number": "136",
+  "item_number": 8,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13052/",
+  "source_sha256": "0290e51482292c9f63115a3ff062970a9510086a64a834c929b6e055677c9b1c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
