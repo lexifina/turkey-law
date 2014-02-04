@@ -1,0 +1,11 @@
+Denetim Tazminatı
+
+Mülkiye Müfettişlerine 657 sayılı Kanunun 152 nci maddesi hükmü ile 2006/10344 sayılı Bakanlar Kurulu Kararına aykırı olarak denetim tazminatı ödenmesi sonucu konu edilen toplam ……….TL tutarındaki kamu zararı hususunda;
+
+ Teftiş, denetleme, inceleme-araştırma ve soruşturma görevlerini Bakan adına yürüten Mülkiye Müfettişlerinin özel hizmet tazminatlarını, ödenecek diğer tazminatları gösteren III sayılı Cetvelin “D. Mülki İdare Amirliği Özel Hizmet Tazminatı” bölümüne göre aldıkları, yine III sayılı Cetvelin “E.Denetim Tazminatı” kısmında, bu kısımdan denetim tazminatı alabileceklerin II sayılı Cetvelin (B) Denetim Hizmetleri Bölümünde sayılanlar olduğu, diğer bir deyişle denetim tazminatına hak kazanabilmek için denetim hizmetleri sınıfında yer alma koşulunun getirildiği, ancak Mülkiye Müfettişlerine 2006/10344 sayılı Bakanlar Kurulu Kararının III sayılı Cetvelin D.Mülki İdare Amirliği Özel Hizmet Tazminatı bölümünden özel hizmet tazminatı ödenmesine rağmen, ayrıca II Sayılı Cetvelin (B) Denetim Hizmetleri bölümü için III sayılı Cetvelin (E) bölümünde öngörülen denetim tazminatının ödenmesi sonucu oluşan ………. TL tutarındaki kamu zararının sorumlulara müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanunu’nun 53 üncü maddesi gereği işleyecek faizleri ile ödettirilmesine,
+
+Daire Başkanı ……….’ın; “657 sayılı Kanun’un 152 nci maddesinin II-Tazminatlar kısmının (H) bendinde; “Hizmetin niteliği itibariyle birden fazla özel hizmet tazminatı verilmesi gereken durumlarda bu tazminatlardan fazla olanı ödenir…” denilmektedir. Buna göre Mülkiye Müfettişlerinin özel hizmet tazminatlarını Denetim Hizmetleri yerine Mülki İdare Amirliği sınıfından almaları doğaldır. Ancak özel hizmet tazminatının Denetim hizmetleri bölümünden alınmamasının denetim tazminatı ödenmesine engel teşkil etmeyeceğinden ilişilecek bir hususun bulunmadığı düşünülmektedir."
+
+Üye ……….’ın; “Mülkiye Müfettişleri 2006/10344 sayılı Bakanlar Kurulu Kararı’nın III sayılı Cetvelinin ‘D. Mülki İdare Amirliği Özel Hizmet Tazminatı’ bölümüne göre almakta iseler de, aynı zamanda Bakanlık müfettişi olmalarından dolayı yine III sayılı Cetvel’in ‘E.Denetim Tazminatı’ kısmında yer alan tazminat ödemesinden yararlanmaları mevzuata uygundur.”şeklindeki ayrışık görüşlerine karşı oy çokluğuyla,
+
+karar verildi.
