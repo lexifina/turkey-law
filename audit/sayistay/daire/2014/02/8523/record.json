@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10297",
+  "decision_date": "2014-02-04",
+  "source_id": 8523,
+  "chamber": "1",
+  "ilam_number": "96",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8523/",
+  "source_sha256": "e429a22018e10293a52fbcb7332f1b3c19ff8add60dc0359e2bb31b574c74df8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
