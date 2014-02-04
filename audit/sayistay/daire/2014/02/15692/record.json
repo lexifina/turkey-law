@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10297",
+  "decision_date": "2014-02-04",
+  "source_id": 15692,
+  "chamber": "1",
+  "ilam_number": "96",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15692/",
+  "source_sha256": "bc055a68ded160036e93ffaa2e2ce3cfb0928e75a95231dfa0cd929cb8f15759",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
