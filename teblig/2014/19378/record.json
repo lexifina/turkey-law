@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.19378",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 361)",
+  "number": "19378",
+  "path": "teblig/2014/19378",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19378&MevzuatTertip=5",
+  "source_sha256": "d9f9aeb0a3a11f38894f8619f9b50d6baea2e0f825b49bb56104bba894ab9e91",
+  "source_bytes": 8759,
+  "published": "2014-02-05",
+  "gazette": "28904",
+  "in_force": "2014-02-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.02.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 336,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
