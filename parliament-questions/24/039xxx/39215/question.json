@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 24,
+  "legislative_year": 4,
+  "esas_no": "7/39215",
+  "submitted": "2014-02-05",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Zühal TOPCU",
+  "province": "Ankara",
+  "summary": "2003-2013 yılları arasında kişi başına düşen borç miktarının ve protesto edilen senetlerin yıllara göre dağılımına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bf-7cb6-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "ece217b37e310ba1617c1c204f7e87444f12d42c3df236ec8923bcc6dc626700",
+  "in_force": "2014-02-05",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
