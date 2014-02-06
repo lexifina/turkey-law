@@ -1,0 +1,3 @@
+Banka Promosyonu Protokol Kararından ve Belediye ile Banka arasında imzalanan Banka Promosyonu Protokolünden (Kurum Maaş Ödeme Protokolü) alınması gereken damga vergilerinin alınmaması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Banka Promosyonu Protokol Kararından ve … Belediye Başkanlığı ile … Bankası … Şubesi arasında imzalanan Banka Promosyonu Protokolünden (Kurum Maaş Ödeme Protokolü) alınması gereken damga vergilerinin alınmaması sonucu … TL kamu zararına neden olunduğu görülmüş ise de; söz konusu kamu zararının … TL’si … tarih ve … nolu Banka Dekontu ile; kalan … TL’si ise … tarih ve … işlem nolu Banka Dekontu ile tahsil edildiğinden bu tutar için ilişilecek husus kalmadığına oy birliğiyle karar verildi.
