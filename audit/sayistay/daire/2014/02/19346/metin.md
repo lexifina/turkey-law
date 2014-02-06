@@ -1,0 +1,3 @@
+2012 yılı Kalkınma Ajansı payının hesaplanmasında, tahsisi mahiyetteki gelir kalemlerinin hariç tutulmaması sebebiyle Kalkınma Ajansı’na fazladan ödemede bulunulması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; … Belediyesi tarafından 2012 yılı Kalkınma Ajansı payının hesaplanmasında, tahsisi mahiyetteki gelir kalemlerinin hariç tutulmaması sebebiyle … Kalkınma Ajansı’na fazladan ödemede bulunulması suretiyle … TL kamu zararına neden olunduğu görülmüş ise de; söz konusu kamu zararı … tarih ve … No’lu Ödeme Emri Belgesi ile ilgilisinden mahsuben tahsil edildiğinden bu tutar için ilişilecek husus kalmadığına oy birliğiyle  karar verildi.
