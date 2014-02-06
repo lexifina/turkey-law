@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "55",
+  "decision_date": "2014-02-06",
+  "source_id": 19341,
+  "chamber": "6",
+  "ilam_number": "124",
+  "item_number": 9,
+  "account_year": 2012,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19341/",
+  "source_sha256": "8dbbfe6021ebdd3540e17442b299ef3b85fc1629b498085b7d5759293dbbab88",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
