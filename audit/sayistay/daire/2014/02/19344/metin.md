@@ -1,0 +1,3 @@
+Gayrimenkulün bedelsiz olarak profesyonel bir spor kulübüne tahsis edilmesi
+
+Mülkiyeti … Belediyesine ait olan … Mahallesi … pafta, …ada, … Parsel no’lu … m²’lik gayrimenkulün bedelsiz olarak profesyonel bir spor kulübü olan …’a tahsis edildiği iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; mülkiyeti Belediyeye ait bulunan … ada, … parsel no'lu gayrimenkulün bedelsiz olarak profesyonel spor kulübü olan ... adına 07.09.2012 tarihinde yapılan tahsis işlemi Belediye Meclisinin … tarih ve … sayılı kararı ile iptal edildiğinden, maddeye konu husus hakkında ilişilecek husus bulunmadığına oy birliğiyle  karar verildi.
