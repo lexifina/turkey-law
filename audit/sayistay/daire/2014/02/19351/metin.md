@@ -1,0 +1,3 @@
+Yersiz olarak süre uzatımı verilmesi ve işin geç bitirilmesi
+
+… yükleniminde bulunan "… Yapılması" işinde yersiz olarak süre uzatımı verildiği ve işin geç bitirilmesi sonucu kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; … Yapım İşi esnasında Yapım İşleri Genel Şartnamesinin "İşin süresi ve sürenin uzatılması" başlıklı 23’üncü maddesinin 2’nci fıkrası gereğince İdaresi tarafından işin yapılacağı cadde ve sokaklarda resmi kurum, okul, iş merkezleri ve ikametgahların yoğun olması, tek tek yer tesliminin yapılamamış olması nedenleriyle yükleniciye süre uzatımı verildiğinden, mevzuatına uygun işlemler hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
