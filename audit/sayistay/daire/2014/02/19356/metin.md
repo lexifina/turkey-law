@@ -1,0 +1,3 @@
+Avukat olarak çalışan Hukuk İşleri Müdürüne yapılan vekalet ücreti ödemesinin kümülatif gelir vergisi matrahına dahil edilmemesi dolayısıyla gelir vergisinin eksik hesaplanması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …Belediyesi’nde Avukat olarak çalışan Hukuk İşleri Müdürü …’a yapılan vekalet ücreti ödemesinin kümülatif gelir vergisi matrahına dahil edilmemesi dolayısıyla gelir vergisinin eksik hesaplanması suretiyle … TL tutarında kamu zararına neden olunduğu görülmüş ise de; söz konusu kamu zararı … tarih ve … nolu tahsilat makbuzu ile ilgilisinden tahsil edildiğinden bu miktar kamu zararı için ilişilecek husus kalmadığına oy birliğiyle karar verild.
