@@ -1,0 +1,3 @@
+Taşınmaz kiralamalarından sözleşme süresi bitmiş olanların yeniden kiralanmasına ilişkin yapılan sözleşme üzerinden binde 1,65 oranında sözleşme damga vergisi kesilmemesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; … Belediyesi tarafından 2012 yılından önce yapılmış taşınmaz kiralamalarından sözleşme süresi bitmiş olanlarından, yeniden kiralanmasına ilişkin yapılan sözleşme üzerinden binde 1,65 oranında sözleşme damga vergisi kesilmemesi suretiyle … TL kamu zararına neden olunduğu görülmüş ise de; söz konusu kamu zararı aşağıdaki tabloda tarihi ve nosu belirtilen makbuzlar ile tahsil edildiğinden bu tutar için ilişilecek husus kalmadığına oy birliğiyle  karar verildi.
