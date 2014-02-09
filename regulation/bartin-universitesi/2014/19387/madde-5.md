@@ -1,0 +1,23 @@
+Çalışma alanları ve görevleri
+MADDE 5 – (1) Merkez; toplumun spor kültürünün geliştirilmesi, her bireye yönelik sportif araştırma ve uygulama ile kulüp takım sporcularının ve diğer ferdi lisanslı sporcuların; sağlık ve performans durumlarının saptanması, değerlendirilmesi, korunması ve geliştirilmesi ile sportif başarının sağlanması amacıyla aşağıdaki çalışmaları yürütür:
+a) Beden eğitimi ve spor bilimleri alanlarında temel ve uygulamalı araştırmalar yapmak, yeni araştırma yöntemleri geliştirmek, araştırmalar ile kuruluşlarca bu konularda yapılan projelere yardımcı olmak ve destek sağlamak,
+b) Araştırma ve geliştirme çalışmalarının çağdaş düzeyde yerleşmesi ve yaygınlaşması için gerekli önlemleri almak,
+c) Temel ve uygulamalı araştırma konularında çağdaş düzeyde bilimsel proje üretimi için gerekli önlemi almak,
+ç) Lisans, lisansüstü, doktora öğrencileri ve beden eğitimi ve spor bilimlerinde çalışan araştırmacılara, istediklerinde bilimsel standartlar içerisinde yardım ve destek sağlamak,
+d) Öğrencileri araştırmaya yöneltmek, araştırma anlayışı ve yöntemleri konusunda eğitim vermek ve öğrencilerin araştırma projelerinin uygulanmasına yardımcı olmak, imkânlar sağlamak, uygulamalar için ortam oluşturmak,
+e) Her düzeyde araştırmacı, öğrenci, sporcu ve halkın gelişimine yönelik sportif eğitim programları, konferanslar, kurslar, seminerler, ulusal ve uluslararası kongreler düzenlemek, gerektiğinde bu çalışmalarla ilgili sertifikalar vermek ve faaliyetlerle ilgili yayınlar yapmak,
+f) Araştırmacılar arasında bilimsel proje yarışmaları düzenleyerek diğer yöntemlerle bilimsel çalışmaları teşvik etmek ve bu çalışmaların yaygınlaştırılmasını sağlamak,
+g) Yurtiçi ve yurtdışındaki benzer kuruluşlarla Merkezin amacına yönelik müşterek çalışmalar yapmak ve bilgi alışverişinde bulunmak,
+ğ) Merkezin araştırma imkânlarını arttırmak ve bu konularda çalışmalar yapmak,
+h) Sporcuların ve öğrencilerin sağlık kontrollerinin ve tedavilerinin yapılmasında, performans değerlendirilmesinde Üniversitenin ilgili anabilim dalları ile işbirliğini sağlamak,
+ı) Takımlara ve bireylere yönelik spor yaralanmalarından korunma, uygun ayakkabı, spor malzemesi ve koruyucu gereç kullanımı konularında eğitim ve danışmanlık hizmetleri vermek,
+i) Spora dönüş egzersiz ve antrenman programlarının düzenlenmesini sağlamak,
+j) Spor laboratuarları kurmak, laboratuar ve saha testleri ile sürat, kuvvet, dayanıklılık, reaksiyon zamanı tayini, sıçrama yüksekliği tespiti, esneklik ölçümleri, vücut kompozisyonu analizi, vücut yağ oranı ve ideal kiloyu belirlemek, sportif hareketlerin dinamik analizini yapmak,
+k) Bireylere ve takımlara yönelik performans analizi, oyun ve maç analizleri, teknik, taktik, istatistiksel analiz, performans testlerini yorumlamak, antrenman programlarını oluşturmak,
+l) Doping merkezi kurulması, sporcu beslenmesi, anti-doping yaklaşımı, ergojenik yardımcılar, spor psikolojisi, uzman diyetisyenlerce sporcuya özel doğru beslenme önerileri, doping maddeleri ve sağlığa zararlı ilaçlardan korunma, doping olmayan performans artırıcı ilaçlar, vitaminler ve benzeri maddelerin doğru kullanımına yönelik konularda danışmanlık ve eğitim hizmetleri verilmesi ile stres, isteksizlik, kronik yorgunluk, sürantrenman, antrenmana uyum ve benzeri sorunlarda tıbbi destek sağlamak,
+m) Çocuklarda spora uygunluk değerlendirmesi, branş seçiminde danışmanlık hizmeti ve yetenek testleri yapılmasını sağlamak, yeteneklerine göre branşlara yönlendirme yapmak,
+n) Yaşlılar için sağlıklı yaşamaya yönelik egzersiz programları hazırlamak,
+o) Yenilenme ve rehabilitasyon konusunda ihtiyacı olanlara destek sağlamak,
+ö) Sportif branşlarda federasyonlarla koordineli olarak ulusal ve uluslararası yarışmalar ve etkinlikler düzenlemek,
+p) Merkezin amaçlarına yönelik süreli süresiz yayınlar hazırlamak ve yayınlamak,
+r) Merkezin amaç ve faaliyetlerine yönelik olarak kamu kurum ve kuruluşlarına danışmanlık hizmeti vermek, ulusal veya uluslararası nitelikteki kongre, konferans, sportif eğitim ve seminerlere Yönetim Kurulunun önerisi ve Müdürün onayı ile temsilci, katılımcı ve/veya konuşmacı yollamak.
