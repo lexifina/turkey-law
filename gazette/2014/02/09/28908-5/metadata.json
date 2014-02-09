@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-02-09",
+  "issue": "28908",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "Bülent Ecevit Üniversitesi Çevre Sorunları Araştırma ve Uygulama Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140209-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140209.htm",
+  "index_sha256": "f834d856a9d040683fd783880d5feab3408ea9e0de9dbac42819cf76ae904da1",
+  "index_header": "9 Şubat 2014 ... 28908 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140209.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
