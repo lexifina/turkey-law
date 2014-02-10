@@ -1,0 +1,3 @@
+Hastane müdür yardımcıları
+MADDE 12 – (1) Hastane Müdürüne bağlı olarak görev yapan hastane müdür yardımcıları; lisans mezunu veya temel eğitimi idare ve işletmecilik olan fakültelerden mezun olup, beş yıllık devlet memurluğu tecrübesi olan, ya da tercihen sağlık kurumları işletmeciliği alanında yüksek lisans yapmış olan ve/veya hastane yönetim hizmetlerinde beş yıl deneyimi olan adaylar arasından ilgili mevzuat hükümlerine uygun olarak Rektör tarafından görevlendirilir.
+(2) Hastane müdür yardımcıları, Hastane Müdürünce kendilerine verilen idari, mali ve teknik görevleri ilgili mevzuat çerçevesinde yerine getirir ve hizmetlerin yürütülmesinde Hastane müdürüne karşı sorumludur.

@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 16 – (1) Danışma Kurulu; Dekanın başkanlığında, Merkez Müdürü, Hastane Müdürü, Anabilim dalı başkanları, Diş Hekimliği uzmanlık öğrencileri ve araştırma görevlilerinin kendi aralarından seçeceği bir temsilci, Başhemşire ve Merkez Müdürünün daveti halinde ilgili birim/ünite sorumlularından oluşur. Seçilecek danışma kurulu üyeleri, bir yıl için seçilir, süresi biten üye yeniden seçilebilir. Yılda iki defa toplanır.
+(2) Danışma Kurulu, gerekli olduğu takdirde, Dekanın çağrısı ile salt çoğunlukla toplanarak, her kesimden gelen eleştiri ve önerileri değerlendirir ve bunlar arasından Merkezin amaçlarına uygun ve hastane hizmetleri açısından yararlı bulunan tavsiye niteliğindeki görüş ve önerilerde bulunarak prensip kararları alır.
+(3) Rektör, ihtiyaç halinde Danışma Kurulunu toplantıya çağırabilir. Danışma Kurulunun raportörlüğünü Hastane Müdürü yapar.
