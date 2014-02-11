@@ -1,0 +1,7 @@
+Eğitim-öğretim Ödeneği
+
+	.......... Yürütme Kurulunun .......... tarih ve .......... sayılı kararı ile Avrupa Birliği bünyesinde faaliyet gösteren; .......... Ajansında, “Çevre Durum Raporu” hazırlamak üzere görevlendirilen Enstitü asistanlarından; ..........’in maaş hesabına, fiilen Enstitü’de görev yapmadığı halde eğitim-öğretim ödeneği eklenmesi sebebiyle ile sorgu konusu edilen .......... TL kamu zararı hususunda;
+
+	 2914 sayılı Yükseköğretim Personel Kanununun "Eğitim öğretim ödeneği" başlıklı Ek-1 inci maddesinde; 2547 sayılı Kanunun 39 uncu maddesinin ikinci fıkrası uyarınca; “yetiştirilmek, eğitilmek, bilgilerini artırmak veya staj yapmak için” yurtdışına gönderilen ve kendi kadro görevini yerine getirmeyen personele, eğitim-öğretim ödeneği verilemeyeceği belirtilmiş olduğundan, ulusal uzman olarak görevlendirilen Asistana yapılan maaş ödemelerine bu ödeneğin dâhil edilmesinin, mevzuata aykırı olduğu görülmekle birlikte,
+
+	.......... Ajansında ulusal uzman olarak görevlendirilen ..........’e görevlendirme süresince yapılan maaş ödemelerinin, "Komisyon’da görevlendirilen ulusal uzmanlara ilişkin kuralları" belirleyen 1 Haziran 2006 tarihli AB Komisyonu kararının 19 uncu maddesindeki kurallar çerçevesinde; Enstitüye iade edildiği, savunmaya ekli evraklardan anlaşılmış olduğundan, .......... TL tutarındaki ödeme konusunda ilişilecek husus bulunmadığına, oy birliğiyle karar verildi.
