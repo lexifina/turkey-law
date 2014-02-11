@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "185",
+  "decision_date": "2014-02-11",
+  "source_id": 12783,
+  "chamber": "3",
+  "ilam_number": "160",
+  "item_number": 9,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12783/",
+  "source_sha256": "f2182cc0287e76645c33d2066ab7a184c19f4e53cf2fdb94d1ba74a068bca974",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
