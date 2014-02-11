@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "185",
+  "decision_date": "2014-02-11",
+  "source_id": 12794,
+  "chamber": "3",
+  "ilam_number": "160",
+  "item_number": 17,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12794/",
+  "source_sha256": "4a9aa419c235dd7f995f0d159c88737591578b2d67491432f014fb33f56e04b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
