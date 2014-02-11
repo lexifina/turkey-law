@@ -1,0 +1,5 @@
+Hizmet Alımı
+
+	.......... tarafından yapılan “.......... ” hizmet alımı işinde, yükleniciye ödenen hakediş bedeline .......... imkânları ile gerçekleştirilen .......... gezisine ilişkin bedellerin ve yerel rehber ücretinin yersiz olarak eklendiği gerekçesi ile sorgu konusu edilen .......... TL kamu zararı hususunda;
+
+	.......... tarih ve .......... sayılı Yürütme Kurulu kararı gereğince .......... otobüsü ile gerçekleştirilen ..........  İli gezisine ilişkin olarak yüklenici firmaya herhangi bir ödeme yapılmamış olduğu ve yükleniciye yapılan otobüs ücreti ödemelerinin, “.......... hizmet alımı sözleşmesi” kapsamında, mesai saatleri dışında gelen-giden heyetin havaalanı-Enstitü arasındaki transferlerine ilişkin ödemeler olduğu görülmüştür. Ayrıca firmaya yapılan “rehber ücreti” ödemesinin, .......... heyetine eşlik eden Tercüman.......... dışında görevlendirilen ve .......... İlini tanıtan yerel rehbere ilişkin olduğu anlaşılmıştır. Anılan sebeplerle; yükleniciye taahhütleri karşılığında yapılan .......... TL tutarındaki ödeme konusunda ilişilecek husus olmadığına, oy birliğiyle karar verildi.
