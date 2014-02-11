@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "185",
+  "decision_date": "2014-02-11",
+  "source_id": 12772,
+  "chamber": "3",
+  "ilam_number": "160",
+  "item_number": 5,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12772/",
+  "source_sha256": "95f3d117aeddb3cb9d6cb48b8cd6d4419633cb3390a7e45140299ac70aaa4875",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
