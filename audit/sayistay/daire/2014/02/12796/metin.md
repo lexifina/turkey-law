@@ -1,0 +1,7 @@
+Kişi Borcu
+
+	.......... 2012 yılı Yönetim Dönemi Hesabı kayıtlarında yer alan ve tahsil edilmemesi sebebiyle sorgu konusu edilen; ..........TL’lik “Kişi Borcu” hususunda;
+
+	 Kişilerden alacaklar hesabına, .......... tarih ve .......... sayılı muhasebe işlem fişi ile kaydedilen .......... TL ve .......... tarih ve .......... sayılı muhasebe işlem fişi ile kaydedilen .......... TL kişi borcunun tahsil edilmediği ve kamu zararına sebebiyet verildiği belirtilmiştir. Ancak 19.10.2006 tarihli ve 26324 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmeliğin "Kamu zararının tespiti ve tahsilinde zaman aşımı" başlıklı 19 uncu maddesinde; Kamu zararından doğan alacaklarda zamanaşımı süresinin, zamanaşımını kesen ve durduran genel hükümler saklı kalmak kaydıyla, on yıl olduğu ve zamanaşımı süresinin, 17 nci maddede kamu zararının oluştuğu kabul edilen tarihi takip eden malî yılın başında işlemeye başladığı ve onuncu yılın sonunda bittiği belirtilmiş olduğundan 31.12.2004 ve 21.12.2012 tarihli kişi borçlarının zamanaşımına uğramadığı anlaşılmaktadır.
+
+	 Bu itibarla ..........TL’lik kısmının tahsil edilmiş olduğu, ..........TL’lik kısmının ise ilgili hesapta takip edildiği görülen ve henüz zamanaşımına uğramamış olan toplam; .......... TL tutarındaki kişi borcu hususunda herhangi bir kamu zararı oluşmadığından yapılacak işlem olmadığına, oy birliğiyle karar verildi.
