@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19391",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ VE VERGİ BENZERİ YÜKÜMLÜLÜKLERE İLİŞKİN TÜRKİYE FİNANSAL RAPORLAMA STANDARDI YORUMU (TFRS YORUM 21) HAKKINDA TEBLİĞ (SIRA NO: 14)",
+  "number": "19391",
+  "issuer": "Kurum Başkanı",
+  "path": "teblig/2014/19391",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19391&MevzuatTertip=5",
+  "source_sha256": "6c341667865eba21a757ba91e7c2dd1b6bc0df829a4f4eada83478085f08565a",
+  "source_bytes": 9608,
+  "published": "2014-02-11",
+  "gazette": "28910",
+  "in_force": "2014-02-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.02.2014); own commencement article: \"Bu Tebliğ ve Tebliğin 1 no’lu ekinde yer alan “TFRS Yorum 21 Vergi ve Vergi Benzeri Yükümlülükler” Yorumu, 31/12/2013 tarihinden sonra başlayan hesap dönemlerinde uygulanmak üzere yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ ve Tebliğin 1 no’lu ekinde yer alan “TFRS Yorum 21 Vergi ve Vergi Benzeri Yükümlülükler” Yorumu, 31/12/2013 tarihinden sonra başlayan hesap dönemlerinde uygulanmak üzere yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 249,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19391-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
