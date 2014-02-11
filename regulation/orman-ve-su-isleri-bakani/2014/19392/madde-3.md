@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 29/6/2011 tarihli ve 645 sayılı Orman ve Su İşleri Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 9 uncu maddesi, 18/12/1953 tarihli ve 6200 sayılı Devlet Su İşleri Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanunun 2 nci maddesinin (u) bendi ve 29/6/2011 tarihli ve 644 sayılı Çevre ve Şehircilik Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 9 uncu maddesinin birinci fıkrasının (f) bendine dayanılarak hazırlanmıştır.
