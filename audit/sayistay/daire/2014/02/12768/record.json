@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "185",
+  "decision_date": "2014-02-11",
+  "source_id": 12768,
+  "chamber": "3",
+  "ilam_number": "160",
+  "item_number": 3,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12768/",
+  "source_sha256": "a59949628086bf84567abee30e93602b4fe6ed4d21ed35c2d962c8ce688d44e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
