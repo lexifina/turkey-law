@@ -1,0 +1,7 @@
+Hizmet Alımı
+
+..........Müdürlüğünün “.......... Hizmet Alımı Sözleşmesi” kapsamında görevlendirdiği; ..........’na, üçer aylık periyotlar halinde hazırlanacak rehberin “Aralık” sayısı tamamlanmadan ödeme yapılması sebebiyle sorgu konusu edilen .......... TL kamu zararı hususunda;
+
+ .......... Rehberi hazırlanması sürecinin, görevlendirilen DTR uzmanı tarafından gerçekleştirilen takip ve izlemelerin raporlanmasından sonra, Enstitü Basım-Yayın Şefliği tarafından yürütülen okuma, kontrol, dizgi ve çoğaltma işlemleri ile devam ettiği, bu sebeple rehbere ilişkin çalışmaların, üçer aylık periyotların bitiminden önce Şefliğe teslim edilmesi gerektiği, teslimden sonra devlet teşkilatında gerçekleşen değişikliklerin ise bir sonraki sayıya alındığı tespit edilmiştir. DTR uzmanının görev ve sorumluluklarını belirleyen sözleşme ekinde yer alan; “yeni yılbaşında, geçmiş yıla ait Aralık ayı sayılarının güncellenerek ekleneceği orijinal bir rehber hazırlanacağına” ilişkin ifadeden de yayına ilişkin güncelleme işlemlerinin 3’er aylık süreler dolmadan tamamlanması gerektiği ve bu sayede sayıların hazırlanması için gereken diğer aşamalara geçildiği anlaşılmaktadır.
+
+ Açıklanan nedenlerle, 25 Aralıkta gerçekleştirdiği teslimat ile sözleşme konusu edimini zamanında yerine getiren DTR uzmanına, hizmeti karşılığında yapılan .......... TL ödeme konusunda ilişilecek husus olmadığına, oy birliğiyle karar verildi.
