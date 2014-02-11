@@ -1,0 +1,4 @@
+Risk Merkezinin sorumluluğu
+MADDE 18 – (1) Gerçek veya tüzel kişilerin Risk Merkezince paylaştırılan bilgileri ile ilgili itiraz ve şikayetlerinin muhatabı itiraz veya şikayet konusu bilgiyi sağlayan üye veya kaynak kuruluştur. Risk Merkezinin vereceği bu bilgiler nedeniyle üyeler, kaynak kuruluşlar ve üçüncü şahıslara karşı hiçbir sorumluluğu bulunmamaktadır.
+(2) Risk Merkezinin, üyeleri veya kaynak kuruluşlar tarafından kendisine verilen bilgilerin doğruluğunu araştırma yükümlülüğü bulunmamakta ve bu bilgilerden kaynaklanabilecek ihtilaflarda herhangi bir taraf sıfatı da bulunmamaktadır. Şu kadar ki Risk Merkezi, kendi kusuru ile sebebiyet verdiği zararlardan dolayı üyeler, kaynak kuruluşlar ve üçüncü şahıslara karşı sorumludur.
+(3) Risk Merkezi edindiği her türlü bilgi ve belgenin gizliliğinin sağlanmasına yönelik her türlü önlemi almakla sorumludur.

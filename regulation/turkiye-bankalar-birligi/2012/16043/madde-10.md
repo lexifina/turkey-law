@@ -1,0 +1,8 @@
+Risk Merkezi nezdindeki bilgilerin üyeler ile paylaşımı
+MADDE 10 – (1) Kredi limiti ve kredi riski bilgileri müşteri bazında birleştirilerek bu müşteriler hakkında bildirimde bulunan üyelere bildirim dönemi itibariyle topluca bildirilir.
+(2) (Değişik:RG-19/12/2012-28502) Müşteri bazında kredi limiti ve kredi riski bildirimi yapan üyeler, müşterisi olanlar ve müşterisi olmayanlar hakkında sorgu bazında kredi limiti ve kredi riski bilgisini, 9 uncu maddenin birinci fıkrasının (c) ve (ç) bentlerinde yer alan bilgilerini ve ödenen çek bilgisini münferiden alabilir.
+(3) (Değişik:RG-19/12/2012-28502) Karşılıksız çek bilgileri ve ödememe protestoları dönemsel olarak üyeler ile paylaşılır.
+(4) Üyelere karşı tasfiye olunacak borçları bulunan gerçek kişi müşterilerin kimlik bilgileri müşteri bazında kredi limiti ve kredi riski bildirimi yapan üyeler ile paylaşılır.
+(5) Risk Merkezi Yönetimi, özel hukuk tüzel kişileri, kamu kurum ve kuruluşları, kamu kurumu niteliğinde meslek kuruluşları ve bunların üst kuruluşlarından aldığı bilgiler ile bilgi alışverişine yönelik imzalanan sözleşmeler kapsamında temin ettiği bilgileri, üyelerinin maruz kalacakları riskleri ölçmek, karşı tarafın malî gücünü düzenli olarak analiz etmek ve izlemek için ihtiyaç duydukları gerekli bilgileri dikkate alarak paylaşır.
+(6) Risk Merkezi, nezdinde toplanan verilerden yararlanarak kuruluş amacına uygun çeşitli ürünler, bilgi setleri veya raporlar üretip paylaşabilir.
+(7) Kurulun ve Merkez Bankasının uygun görüşlerinin alınması kaydıyla, Risk Merkezi Yönetimi, Risk Merkezinin kuruluş amaçları doğrultusunda paylaşılacak diğer bilgileri ve paylaşım yapılacak üyeleri belirlemeye yetkilidir.

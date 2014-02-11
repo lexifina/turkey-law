@@ -1,0 +1,6 @@
+Risk Merkezi Yönetimi toplantısı, toplantı ve karar nisabı ve kararların uygulanması
+MADDE 5 – (1) Risk Merkezi Yönetiminin, Risk Merkezi Yönetimi Başkanının daveti ile her ay en az bir kez toplanması esastır. Toplantı gündemine alınması talebiyle Risk Merkezi Birimine yapılan başvurular da dikkate alınarak oluşturulan toplantı gündemi, toplantıdan en az yedi gün önce yazılı olarak üyelere bildirilir. Ancak, olağanüstü durumlarda Risk Merkezi Yönetimi Başkanı tarafından yedi günlük süreye tabi olunmaksızın toplantı daveti yapılabilir. Gündem dışı konulara ilişkin toplantıda karar alınamaz.
+(2) Toplantı için en az altı üyenin hazır bulunması şarttır. Kararlar, en az beş üyenin aynı yöndeki oyuyla alınır. Her üye, yönetimde bir oy hakkına sahiptir. Çekimser oy kullanılması veya oy kullanılmaması ret olarak kabul edilir.
+(3) Risk Merkezi Yönetimi tarafından alınacak kararlar tarih ve numara sırasına göre Risk Merkezi karar defterine kaydedilir. Her karar üyeler tarafından karar tarihinden itibaren en geç bir ay içinde imza olunur.
+(4) Risk Merkezi Yönetimi tarafından alınacak kararların uygulanması Türkiye Bankalar Birliği Yönetim Kurulu tarafından belirlenecek esaslar çerçevesinde Risk Merkezi Birimi tarafından yerine getirilir.
+(5) Risk Merkezi Yönetimi üyelerinin huzur hakkı Türkiye Bankalar Birliği Yönetim Kurulu tarafından belirlenir.
