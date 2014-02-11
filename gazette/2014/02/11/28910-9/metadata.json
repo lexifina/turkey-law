@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-02-11",
+  "issue": "28910",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme İdaresi Başkanlığının 7/2/2014 Tarihli ve 2014/ÖİB-K-17 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140211-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140211.htm",
+  "index_sha256": "116a79e93808d17832c215bb2d6775d03e4a2ffb353e332e1e7b08c8f334fce5",
+  "index_header": "11 Şubat 2014 ... 28910 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140211.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
