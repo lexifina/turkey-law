@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/371",
+  "list_number": "371",
+  "decision_date": "2014-02-11",
+  "title": "Geçmişte elektrik enerjisi hırsızlığı suçundan sabıka kaydı bulunanların adaylık başvuruları sırasında memnu hakların iadesi (yasaklanmış hakların geri verilmesi) kararı veya 6352 sayılı Kanunun 83. maddesi uyarınca uyarlama yapılarak suçun, karşılıksız yararlanmaya dönüştüğüne dair kararın eklenmesi gerektiğine ilişkin Yüksek Seçim Kurulunun 2014/371 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2472/2014-371.pdf",
+  "source_sha256": "e88f1711a4e92796d44ab162609db7f64be069b7bc9f475f28440972e226d417",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-02-11",
+  "law_text_complete": false
+}
