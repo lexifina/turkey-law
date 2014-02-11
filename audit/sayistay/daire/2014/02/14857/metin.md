@@ -1,0 +1,3 @@
+Üniversitenin …….. Bankası arasında imzalanan Ek Protokol gereği elde edilen gelirlerin bir kısmının Üniversite bütçesine gelir kaydedilmeyerek Üniversite Rektörlüğü tarafından verilen talimatla bütçe dışında Audi A6 marka yabancı menşeli aracın kasko bedelinin ödenmesi.
+
+Üniversitenin ……. Bankası arasında imzalanan Ek Protokol gereği elde edilen gelirlerin bir kısmının Üniversite bütçesine gelir kaydedilmeyerek Üniversite Rektörlüğü tarafından verilen talimatla bütçe dışında Audi A6 marka yabancı menşeli aracın kasko bedelinin ödenmesi 2012 Yılı Merkezi Yönetim Bütçe Kanunu’nun E Cetvelinin 26 ncı maddesine aykırılık teşkil etmekte ise de, …….TL kamu zararının ………… sayılı alındı belgesi ile tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle,
