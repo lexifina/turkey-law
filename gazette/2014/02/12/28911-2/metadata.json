@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-02-12",
+  "issue": "28911",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gümrük Genel Tebliği (Gümrük Kontrolü Altında İşleme) (Seri No: 3)’nde Değişiklik Yapılmasına Dair Tebliğ (Gümrük Kontrolü Altında İşleme) (Seri No: 6)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140212-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140212.htm",
+  "index_sha256": "60547bcc38722d9e79e5f5f83dc05bf7e1f76fbd7d5eea6c46a1e0ecf129cb75",
+  "index_header": "12 Şubat 2014 ... 28911 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140212.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
