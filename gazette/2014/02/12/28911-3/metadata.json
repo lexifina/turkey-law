@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-02-12",
+  "issue": "28911",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 2/1/2014 Tarihli ve 75935942-050.01.04 – [01/1/A] Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140212-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140212.htm",
+  "index_sha256": "60547bcc38722d9e79e5f5f83dc05bf7e1f76fbd7d5eea6c46a1e0ecf129cb75",
+  "index_header": "12 Şubat 2014 ... 28911 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140212.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
