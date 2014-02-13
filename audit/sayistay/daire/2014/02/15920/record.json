@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "23",
+  "decision_date": "2014-02-13",
+  "source_id": 15920,
+  "chamber": "8",
+  "ilam_number": "150",
+  "item_number": 31,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2012,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15920/",
+  "source_sha256": "29a74cd46cfef4e7cb0e9421fe64a6d0d721bc1f217a1ff0034f31a9f63ee16e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
