@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "59",
+  "decision_date": "2014-02-13",
+  "source_id": 20024,
+  "chamber": "6",
+  "ilam_number": "111",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20024/",
+  "source_sha256": "5bf94eeca9d95a4ca71657fcbcb41bf58b905289963a868da0be8b210ac47f0e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
