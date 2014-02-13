@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "14",
+  "decision_date": "2014-02-13",
+  "source_id": 22414,
+  "chamber": "7",
+  "ilam_number": "177",
+  "item_number": 8,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22414/",
+  "source_sha256": "fb27a3bdadb80e5947fc7c0be8dab7aab732acdbc6f737a9a1e81eb711bcde9a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
