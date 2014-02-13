@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "48",
+  "decision_date": "2014-02-13",
+  "source_id": 13480,
+  "chamber": "5",
+  "ilam_number": "203",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13480/",
+  "source_sha256": "aa10725984dd41b24038127f5604455248b491f382a22817519187893918e0b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
