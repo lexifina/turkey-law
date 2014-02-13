@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "23",
+  "decision_date": "2014-02-13",
+  "source_id": 15915,
+  "chamber": "8",
+  "ilam_number": "150",
+  "item_number": 26,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15915/",
+  "source_sha256": "84f63aa0396047d6d55ccab0a8059833c6aca5147da826e421b2bef70e613c69",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
