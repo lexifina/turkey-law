@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "14",
+  "decision_date": "2014-02-13",
+  "source_id": 22412,
+  "chamber": "7",
+  "ilam_number": "177",
+  "item_number": 6,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22412/",
+  "source_sha256": "cc16c19392bafdaabdc8be3bfbec88ea2d20be3ec06b7bd02b8341c3100b8f7b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
