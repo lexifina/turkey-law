@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10304",
+  "decision_date": "2014-02-14",
+  "source_id": 17075,
+  "chamber": "1",
+  "ilam_number": "120",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17075/",
+  "source_sha256": "a22cfcc455a7010d23bb2ebac8c94866da7a7e604cba4d4a580f50600b3f512e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
