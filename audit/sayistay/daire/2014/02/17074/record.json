@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10304",
+  "decision_date": "2014-02-14",
+  "source_id": 17074,
+  "chamber": "1",
+  "ilam_number": "120",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17074/",
+  "source_sha256": "53384e9d39511bce1abc714156b624e137ec16ef8e1f60b0da5d88d8c089ddc2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
