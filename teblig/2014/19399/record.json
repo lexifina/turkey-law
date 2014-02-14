@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.19399",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TİCARET UNVANLARI HAKKINDA TEBLİĞ",
+  "number": "19399",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2014/19399",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19399&MevzuatTertip=5",
+  "source_sha256": "d9af3f949319b1041e7939e8079802792af03195262f36083cf5c466868f3975",
+  "source_bytes": 13609,
+  "published": "2014-02-14",
+  "gazette": "28913",
+  "in_force": "2014-02-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.02.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 643,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

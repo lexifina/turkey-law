@@ -1,0 +1,9 @@
+Ticaret unvanı
+MADDE 4 – (1) İşletme konusu ile şirket türünü gösteren ibareler Türkçe olmak kaydıyla ticaret unvanı serbestçe belirlenebilir.
+(2) Ticaret unvanında yer alacak ibareler, tacirin kimliği, işletmesinin genişliği, önemi ve finansal durumu hakkında üçüncü kişilerde yanlış bir görüşün oluşmasına sebep olacak nitelikte ve gerçeğe aykırı olamaz.
+(3) Ticaret unvanında yer alan ibareler kamu düzenine, ulusal çıkarlara ve ahlaka aykırı olamaz, kültürel ve tarihi değerleri zedeleyecek şekilde belirlenemez.
+(4) Bir ticaret unvanına “Türk”, “Türkiye”, “Cumhuriyet” ve “Milli” kelimeleri yalın, sade ve eksiz olarak; Bakanlar Kurulu kararıyla konulabilir. Bu ibarelerin Türk Ticaret Kanununun 41 ve 42 nci maddeleri uyarınca ticaret unvanında kullanılması zorunlu olan gerçek kişinin ad veya soyadında yer alması halinde Bakanlar Kurulu kararı aranmaz.
+(5) Anonim ve limited şirketlerin ticaret unvanında işletme konularından en az birinin yer alması zorunludur. İşletme konusunu gösteren ibarelerde kısaltma yapılamaz. Başlıca amacı başka işletmelere katılmaktan ibaret olacak şekilde kurulacak anonim şirketlerin unvanında “holding” ibaresine yer verilmesi zorunludur.
+(6) Ticaret unvanında resmi olarak tanımlanmış yer adları kullanılabilir, ülke adlarının unvanda kullanılabilmesi için ise o ülkenin yetkili makamlarından izin alınması gerekir.
+(7) Kamu kurum ve kuruluşları ile ulusal ve uluslararası diğer kuruluşların adları ya da bunları tanımlayan kısaltılmış adları ticaret unvanlarında ek olarak kullanılamaz. Ancak bu kurum ve kuruluşların işlettiği işletmeler ile hissedarı oldukları şirketlerin ticaret unvanlarında kendilerinin adları veya kısaltılmış adları kullanılabilir.
+(8) Ticaret sicilinden silinen bir ticaret unvanı, unvanın silinmesine ilişkin ilanın Türkiye Ticaret Sicili Gazetesinde yayımlandığı tarihten itibaren beş yıl geçmedikçe başka bir tacir adına yeniden tescil edilemez.
