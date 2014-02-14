@@ -1,0 +1,3 @@
+Ceza Kesintiisi
+
+…  yüklenimindeki … İşinde, “kalorifer kazanının çıkartılması ve doğalgaz bağlantısının gerçekleştirilmesinin öğrencilerin kış şartlarından etkilenmemesi için yarıyıl tatilinde yapılması” gerekçesiyle mevzuata aykırı süre uzatımı verildiğinin tespit edilmesi nedeniyle, yüklenicinin söz konusu işleri sözleşmede yazılı bulunan süre içerisinde tamamlamadığı ve 60 gün gecikme ile işi bitirdiği anlaşıldığından; gecikilen günler için %0003 oranında gecikme cezası kesilmemesi sonucu oluşan … TL kamu zararının … tarih ve … nolu banka dekontu ile tahsil edilmiş  nedeniyle, ilişik  kalmadığına oy birliğiyle
