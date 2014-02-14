@@ -1,0 +1,9 @@
+Kesin Teminatın Gelir Kaydedilmemesi
+
+İl Encümeninin … tarih … sayılı Kararında; … İşine ilişkin sözleşmenin 8 inci maddesi gereği kiracı firma tarafından kesin projeleri, keşifleri, mahal listeleri ile tüm evrakları sözleşmenin noterlikçe onaylandığı tarihten itibaren en geç 6 ay içerisinde idareye teslim etmesi gerekirken bu süre içerisinde hazırlayarak, idareye teslim etmediği, İl Encümeninin … gün … sayılı Kararı ile yükleniciye 6 ay daha ek süre verildiği, verilen ek sürede de İl Özel İdaresine verilen projelerin eksik ve tasdik edilmeye uygun kesin projeler olmadığı, … Firmasının müracaatta verdiği yatırım tamamlama tablosunda belirtilen iş programına uymadığı, kesin proje ve eklerinin idareye teslim edilmediği gerekçeleri ile 2886 sayılı Devlet İhale Kanununun 62 nci maddesi ve sözleşmenin 19 uncu maddesi uyarınca idare ile kiracı ... A.Ş. arasında yapılan … 1. Noterliğinin … tarih ve … yevmiye nosu ile tasdiklenen sözleşmenin iptali ile kiracının idarede bulunan kesin teminatının idareye gelir kaydedilmesine karar verilmiştir.
+
+Ancak yapılan incelemede, kiracının idarede bulunan kesin teminatının … irat kaydedilmediği görülmüştür.
+
+Sorumlular savunmalarında, kesin teminat için yüklenicinin talebi üzerine mahkemece ihtiyati tedbir kararı konulduğunu, davanın yerel mahkemede ve Yargıtayda idare lehine sonuçlandığını, ancak yüklenici … A.Ş.’nin karar düzeltme talebinde bulunduğunu,  ancak kararın henüz kesinleşmediği, kesinleşecek yargı kararına göre işlem yapılacağını ifade etmişlerdir.
+
+Bu itibarla,  2886 Sayılı Devlet İhale Kanununun 62 nci maddesi, işin sözleşmesinin 19 uncu maddesi ve İl Encümeninin … tarih … sayılı kararı karşısında … İşine ilişkin … TL tutarındaki kesin teminatın irat kaydedilmemesi hususunun yargıya intikal ettiği ve yargı sürecinin de halen devam ettiği anlaşılmış olup, kamu zararı oluşmadığından ilişilecek bir husus bulunmadığına, oy birliğiyle,
