@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70903105-165.01.03[187]-18284",
+  "source_id": 37597,
+  "date": "2014-02-14",
+  "title": "3102.10 GTİP numaralı 'üre' isimli eşyanın sanayi amaçlı ithalinde KKDF uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/37597",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "649392680a18c3698f0c2157bd6cec3274de1d40cee70f53e638e6f13c292586",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
