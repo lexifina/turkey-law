@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10305",
+  "decision_date": "2014-02-14",
+  "source_id": 15781,
+  "chamber": "1",
+  "ilam_number": "218",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15781/",
+  "source_sha256": "6b2c737247140b85cb50bc0359de0605a07f0fe4ec4e4a2abfca80123114bc9e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
