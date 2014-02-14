@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10303",
+  "decision_date": "2014-02-14",
+  "source_id": 15753,
+  "chamber": "1",
+  "ilam_number": "93",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15753/",
+  "source_sha256": "f8deb400e71b2690c11a06c61d03de47f64ce38c7928519cc7b6d196ccb5a5fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
