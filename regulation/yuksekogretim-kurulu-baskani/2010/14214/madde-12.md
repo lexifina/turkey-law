@@ -1,0 +1,15 @@
+Yükseköğretim kurumları engelli öğrenci birimlerinin görevleri
+MADDE 12 – (Başlığı ile birlikte değişik:RG-14/2/2014-28913)
+(1) Yükseköğretim kurumları engelli öğrenci birimlerinin görevleri şunlardır:
+a) Yükseköğretim programlarına kaydı yapılan engelli öğrencilerin öğrenimlerini sürdürdükleri sırada eğitim, öğretim, burs, idari, fiziksel, barınma, sosyal ve benzeri alanlarla ilgili ihtiyaçlarını tespit etmek ve bu ihtiyaçların karşılanabilmesi için alınması gereken önlemleri belirlemek ve ortadan kaldırmak üzere çözüm önerileri sunmak, gerekli düzenlemeleri üniversitede bulunan diğer birimler veya daire başkanlıkları ile eşgüdüm içerisinde yapmak.
+b) Engelli üniversite öğrencilerinin akademik, fiziksel ve sosyal yaşamlarını engellemeyecek biçimde öğretim programlarını düzenlemek için engelli öğrencinin devam ettiği eğitim ortamının uygunlaştırılması, engellilere yönelik araç gereç temini, özel ders materyallerinin hazırlanması, engellilere uygun eğitim, araştırma ve barındırma ortamlarının düzenlenmesi konularında çalışmalar yapmak.
+c) Yükseköğrenim düzeyindeki öğrenci ve öğretim elemanlarına yönelik yayın faaliyetlerinde bulunmak, öğretim elemanlarına engellilik ile bunun getirdiği sınırlılıkları ve yapılması gereken düzenlemeleri anlatan ve bilgi veren doküman hazırlamak, bilinç düzeyini arttırmak, ilgililere danışmanlık hizmeti vermek, gerektiği durumlarda hizmet içi eğitim sağlamak.
+ç) Engellilik alanında bilinç ve duyarlılık düzeyini artırmak için program ve projeler geliştirmek, seminer, konferans ve benzeri faaliyetler düzenlemek.
+d) Birimin çalışma programını hazırlamak, yürütmek, faaliyetler için gerekli bütçe ihtiyaçlarını belirlemek ve yıllık faaliyet raporunu hazırlayıp bağlı bulunduğu rektör yardımcısına sunmak.
+e) Yükseköğretim kurumları engelli öğrenci birimlerinin görev ve faaliyet alanına giren konularda konunun taraflarına yönelik yayın, doküman ve bilgilerin yer aldığı, üniversitelerde okuyan engelli öğrencilerin sorunlarını ve isteklerini dile getirmelerine olanak sağlayan, ilgili birimle iletişimine de imkân veren bir internet sitesi oluşturmak.
+f) Alınan kararların ve belirlenen stratejilerin uygulanmasını denetlemek.
+g) Maddi güçlüğü bulunan engelli öğrencilerin yardımcı araç gereçlerinin ücretsiz temini yönünde çalışmalarda bulunmak.
+ğ) Bütün öğrencilerin adil ve doğru bir şekilde ölçme ve değerlendirmeye tabi tutulması, fırsat eşitliğini sağlamak ve eğitim sürecini engelli öğrenciler için de anlamlı hale getirmek için; engelli öğrencinin sınavlarla ilgili süre, mekân, materyal, refakatçi okuyucu sağlamak ve engelin doğasından kaynaklanan farklılıklara göre alınacak gerekli tedbirleri almak, düzenlemeleri yapmak.
+h) İstihdam olanakları ve mesleklere ilişkin bilgilendirme yapan bilgilendirici kitaplar hazırlanması konusunda çalışmalar yapılmasını ve bunların engelli öğrencilere ulaştırılmasını sağlayacak tedbirler almak.
+ı) Yükseköğretim programlarını kazanan engelli öğrencileri kayıt sırasında tespit etmek.
+i) Üniversite yerleşkesinin ve yerleşkede bulunan yapılar ile açık alanların engelli öğrenciler için ulaşılabilir olmasını sağlamak.

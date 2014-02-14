@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.14214",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜKSEKÖĞRETİM KURUMLARI ENGELLİLER DANIŞMA VE KOORDİNASYON YÖNETMELİĞİ",
+  "number": "14214",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2010/14214",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14214&MevzuatTertip=5",
+  "source_sha256": "880eb8da25c92d098d5d88e7e4f2baf2c7372c3b1778defb7ed11c286a337493",
+  "source_bytes": 45721,
+  "published": "2010-08-14",
+  "gazette": "27672",
+  "in_force": "2014-02-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/2/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-02-14",
+      "RG-14/2/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-02-14",
+      "14/2/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-01-03",
+      "3/1/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1453,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
