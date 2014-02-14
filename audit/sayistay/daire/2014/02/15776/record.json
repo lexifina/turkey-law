@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10305",
+  "decision_date": "2014-02-14",
+  "source_id": 15776,
+  "chamber": "1",
+  "ilam_number": "218",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15776/",
+  "source_sha256": "f81d9502d8d3ad021aeb0658ca7a43e0927b3bd01900c7e784465a0e852a3f46",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
