@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10302",
+  "decision_date": "2014-02-14",
+  "source_id": 15678,
+  "chamber": "1",
+  "ilam_number": "137",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15678/",
+  "source_sha256": "c2bc3639e9793a3b72204c54a52b1b18575b71154e685a62c8c71d3f958e1e89",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
