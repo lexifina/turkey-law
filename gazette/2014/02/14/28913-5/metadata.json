@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-02-14",
+  "issue": "28913",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Gıda Kodeksi Kilo Verme Amaçlı Enerjisi Kısıtlanmış Gıdalar Tebliği (No: 2014/3)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140214-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140214.htm",
+  "index_sha256": "6c52bfd4b94e926b256a3bf4e563dd8f12cedf798a7f4329fd98032e7a28db50",
+  "index_header": "14 Şubat 2014 ... 28913 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140214.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
