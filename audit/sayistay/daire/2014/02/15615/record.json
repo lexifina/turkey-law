@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10301",
+  "decision_date": "2014-02-14",
+  "source_id": 15615,
+  "chamber": "1",
+  "ilam_number": "153",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15615/",
+  "source_sha256": "076950d1d021f459c0b76dc22ed27454f7d386069606df72ac0e44ce91f22015",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
