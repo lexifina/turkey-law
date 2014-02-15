@@ -1,0 +1,135 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6524",
+  "year": 2014,
+  "title": "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Kanun",
+  "adopted": "2014-02-15",
+  "adopted_as_published": "15/02/2014",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.2.2014 No: 28926",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc098/kanuntbmmc098/kanuntbmmc09806524.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 98",
+  "committee_reports": [
+    {
+      "label": "TBMM s0523 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c069/tbmm240690493ss0523.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 24,
+      "kayit_no": 803969,
+      "title": "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Kanun",
+      "adopted_as_published": "15/02/2014",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc098/kanuntbmmc098/kanuntbmmc09806524.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM s0523 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c069/tbmm240690493ss0523.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 69,
+          "sitting": 49,
+          "sitting_date": "2014-01-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c069/tbmm24069049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c069/tbmm24069fih.pdf",
+          "pages": [
+            "375",
+            "390:396",
+            "400:421",
+            "422:434"
+          ]
+        },
+        {
+          "cilt": 69,
+          "sitting": 50,
+          "sitting_date": "2014-01-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c069/tbmm24069050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c069/tbmm24069fih.pdf",
+          "pages": [
+            "589:601",
+            "602:604",
+            "609:611",
+            "612:624",
+            "626:629",
+            "633:641",
+            "647:649",
+            "650:673"
+          ]
+        },
+        {
+          "cilt": 69,
+          "sitting": 52,
+          "sitting_date": "2014-01-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c069/tbmm24069052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c069/tbmm24069fih.pdf",
+          "pages": [
+            "897:907",
+            "916:918",
+            "919:923",
+            "923:939",
+            "941:942",
+            "947:980"
+          ]
+        },
+        {
+          "cilt": 72,
+          "sitting": 62,
+          "sitting_date": "2014-02-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c072/tbmm24072062.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c072/tbmm24072fih.pdf",
+          "pages": [
+            "66",
+            "73",
+            "74:81",
+            "82:94",
+            "95:97",
+            "97:103",
+            "106:131",
+            "131:147",
+            "150:156",
+            "160:164",
+            "165:168",
+            "169",
+            "170:174",
+            "175:178",
+            "178:179",
+            "180:185",
+            "187:190",
+            "192:196",
+            "197:199",
+            "200",
+            "201:203",
+            "204:210",
+            "211:212",
+            "212:226",
+            "229:233",
+            "233:264",
+            "268",
+            "270:279"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=414&v_gelecek_sayfa=201&v_kullanici_id=27483204",
+      "page_sha256": "4380c21e0b6af2b8aa338d073b223401a5c36c9d1591e526a24712c03a67c242"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4380c21e0b6af2b8aa338d073b223401a5c36c9d1591e526a24712c03a67c242",
+  "issuer": "TBMM",
+  "in_force": "2014-02-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 15/02/2014; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
