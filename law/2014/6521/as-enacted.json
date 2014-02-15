@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6521",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile İran İslam Cumhuriyeti Hükümeti Arasında Doğal Kaynaklar ve Su Havzası Amenajmanı Üzerine Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-02-15",
+  "gazette_issue": "28914",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140215-2.htm",
+  "source_sha256": "0e8a93bf54e6152905c8d1016754e7cbfe2736a7a82d46ab803ee35657f9b5a6",
+  "text_sha256": "efe0ea1afdc709322dfb0fb81117ef8409bee646d03e6d1a2d300dbb48a44125",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/02/15/28914-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140215-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
