@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6523",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Birleşmiş Milletler Kalkınma Programı Arasında Birleşmiş Milletler Kalkınma Programı Avrupa ve Bağımsız Devletler Topluluğu Bölgesel Hizmet Merkezinin İstanbulda Kurulmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-02-15",
+  "gazette_issue": "28914",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140215-4.htm",
+  "source_sha256": "3dddd1d9958790b9b6f9453743983ab5470f6bc51ae9b1057494c9f2292f62a2",
+  "text_sha256": "3cdf166cd0bb98be97d0fe6f1a584f02cf59fdce64df7df204f4f91ad054e3a0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/02/15/28914-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140215-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
