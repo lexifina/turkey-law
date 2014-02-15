@@ -1,0 +1,2 @@
+Ayrım gözetmeme
+MADDE 10 – (1) Kurum, ilgili pazarda etkin piyasa gücüne sahip işletmecilere, elektronik haberleşme hizmetlerini sağlamak için kendi kullandıkları veya üçüncü şahısların elektronik haberleşme hizmetlerini sunmak için gereksinim duydukları hizmetleri, söz konusu hizmetleri talep edenlere; ayrım gözetmeksizin ve kendi ortaklarına, iştiraklerine veya ortaklıklarına sağladıkları ile aynı koşul ve kalitede temin etme yükümlülüğü getirebilir.

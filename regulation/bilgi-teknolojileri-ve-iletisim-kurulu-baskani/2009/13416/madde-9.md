@@ -1,0 +1,5 @@
+Arabağlantı
+MADDE 9 – (1) Kurum, bir işletmecinin arabağlantıya izin vermemesinin veya aynı sonucu doğuracak şekilde makul olmayan süre ve şartlar ileri sürmesinin, rekabet ortamının oluşumunu engellediğine veya ortaya çıkacak durumun son kullanıcıların aleyhine olduğuna karar vermesi hâlinde, söz konusu işletmeciyi arabağlantı yükümlüsü olarak belirleyebilir.
+(2) Tüm işletmeciler, talep gelmesi halinde birbirleriyle arabağlantı müzakerelerinde bulunmakla yükümlüdürler. Tarafların anlaşamamaları halinde Kurum, işletmecilere arabağlantı sağlama yükümlülüğü getirebilir.
+(3) Arabağlantı, teknik ve ekonomik olarak uygun olacağı kanıtlanabilen ve Kurum tarafından uygun görülen herhangi bir arabağlantı noktasından temin edilir. İşletmeci, bunların haricinde bir noktadan arabağlantı talep etmesi hâlinde, temin edilecek noktanın maliyetini üstlenir.
+(4) Kurum, 8 inci maddenin üçüncü fıkrası hükümleri saklı kalmak kaydıyla, ilgili işletmecinin talebi üzerine, arabağlantının teknik ve ticari alternatiflerinin bulunduğu veya arabağlantıyı sağlamak için gerekli kaynakların bulunmadığı gerekçeleriyle arabağlantı yükümlülüğünün sınırlandırılmasına karar verebilir.

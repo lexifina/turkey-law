@@ -1,0 +1,2 @@
+Bilgilerin gizliliği
+MADDE 20 – (1) İşletmeciler, gerek erişim koşullarının müzakereleri esnasında gerekse bu müzakerelerden önce veya sonra diğer işletmeciden elde ettikleri bilgileri, veriliş amacına uygun olarak kullanmak ve her hâlükârda gizli tutmakla yükümlüdür. Söz konusu bilgiler, Kurum haricinde, hiç bir şekilde, bu tür bilgileri kendilerine haksız rekabet avantajı sağlayacak şekilde kullanabilecek üçüncü şahıslara, işletmecilerin ortaklarına, iştiraklerine ve ortaklıklarına ifşa edilemez.

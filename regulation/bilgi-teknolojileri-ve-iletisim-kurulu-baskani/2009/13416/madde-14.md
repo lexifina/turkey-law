@@ -1,0 +1,6 @@
+Ortak yerleşim
+MADDE 14 – (1) Kurum, işletmecilere kendi tesislerinde, diğer işletmecilerin ekipmanları için maliyet esaslı bir bedel karşılığında, başta fiziksel ortak yerleşim olmak üzere her türlü ortak yerleşim sağlama yükümlülüğü getirebilir.
+(2) İşletmecilerin, herhangi bir yerde fiziksel ortak yerleşimin zaruri ve/veya imkân dahilinde olmadığını kanıtlamaları hâlinde, Kurum, bu yerlerde söz konusu işletmecileri fiziksel ortak yerleşim yükümlülüğünden muaf tutabilir. Kurum, fiziksel ortak yerleşim yükümlülüğünden muaf tutulan işletmecilere, maliyet esaslı bir bedel karşılığında fiziksel ortak yerleşime eşdeğer ekonomik, teknik ve operasyonel koşullarla farklı bir yöntem kullanarak ortak yerleşim sağlama yükümlülüğü getirebilir.
+(3) Kurum, ortak yerleşim tarifelerinin maliyet esaslı belirlenmediğini tespit etmesi hâlinde, maliyetleri, uluslararası uygulamaları ve/veya rayiç bedelleri uygun olduğu ölçüde dikkate alarak söz konusu tarifeleri belirler.
+(4) Fiziksel ortak yerleşimden faydalanan işletmeciler veya temsilcileri, kendi malzemelerine ve ekipmanlarına müdahale etmek üzere söz konusu hizmeti sağlayan işletmecilerin tesislerine girebilir.
+(5) Kurum, bu maddenin uygulama esaslarını yapacağı düzenlemelerle belirler.
