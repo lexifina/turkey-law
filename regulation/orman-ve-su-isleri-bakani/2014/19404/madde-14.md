@@ -1,0 +1,3 @@
+Deneyin sonlandırılması
+MADDE 14 – (1) Deneyle ilgili olarak daha fazla gözlemin yapılamayacağı hallerde ya da genetiği değiştirilmiş hayvan soyları ve nesilleri artık takip edilmiyorsa veya sürekli devam eden bir şekilde iğne batırılmasına eşdeğer ya da daha fazla acı, eziyet, ızdırap ve kalıcı hasar yaşaması bekleniyorsa deney sonlandırılır.
+(2) Deneyin sonunda, bir hayvanın yaşamaya devam etmesine dair karar bir veteriner hekim tarafından alınır. Bir hayvanın yaşatılmaya devam etmesi durumunda, sağlık durumuna uygun bakım ve barınma hizmeti sağlanır. Hayvan orta veya şiddetli acı, eziyet, ızdırap ve kalıcı hasar yaşamaya devam ediyorsa öldürülür.

@@ -1,0 +1,2 @@
+Anestezi ve anestezi uygulanması, öldürme ve deneylerde şiddet sınıflandırması ile ilgili işlemler
+MADDE 12 – (1) Anestezi ve anestezi uygulanması, öldürme ve deneylerde şiddet sınıflandırması ile ilgili işlemler Gıda, Tarım ve Hayvancılık Bakanlığınca 13/12/2011 tarihli ve 28141 sayılı Resmî Gazete’de yayımlanan Deneysel ve Diğer Bilimsel Amaçlar İçin Kullanılan Hayvanların Refah ve Korunmasına Dair Yönetmeliğin 21 inci ve 22 nci maddeleri ile Ek-8 ve Ek-9’a göre yapılır.

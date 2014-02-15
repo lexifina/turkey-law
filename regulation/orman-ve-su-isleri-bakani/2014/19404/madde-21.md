@@ -1,0 +1,3 @@
+Cezalar
+MADDE 21 – (1) Bu Yönetmelikte belirtilen hususlara uymayanlara ve yetkisi olmadığı halde hayvan deneyi yapanlara 5199 sayılı Hayvanları Koruma Kanununun 28 inci maddesinin birinci fıkrasının (f) bendi gereğince idari para cezası uygulanır.
+(2) HADMEK tarafından yapılan denetimler sonucunda, bu Yönetmeliğe aykırı hareket eden HADYEK’lere eksikliklerini bir ay sürede tamamlamaları ile ilgili yazılı uyarıda bulunulur ve HADYEK çalışmaları düzenlemeler yapılıncaya kadar bir ay askıya alınır, eğer gerekli düzenlemeler yapılmaz ise HADYEK çalışmaları altı ay durdurulur. Altı ay içerisinde belirtilen eksiklikleri düzeltmeyen HADYEK’in yönergesi feshedilir.
