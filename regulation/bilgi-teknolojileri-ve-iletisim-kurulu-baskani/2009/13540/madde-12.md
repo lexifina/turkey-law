@@ -1,0 +1,10 @@
+Tarifelerin tavan fiyat esasına göre onaylanması
+MADDE 12 – (1) Kurum, aşağıdaki usul ve esaslar çerçevesinde tarifeleri tavan fiyat esasına göre onaylamaya yetkilidir.
+a) Kurum, tavan fiyat esasına göre onaylanmasına karar verdiği hizmetlere ilişkin ilgili piyasalardaki rekabet ortamı ve tarifelerin yeniden dengelenmesi gibi hususlar çerçevesinde belirleyeceği esaslara göre hizmet sepetleri oluşturabilir.
+b) Kurum, sepetlerde yer alacak hizmetler ile bunların içeriklerini ve aynı sepet içerisinde gruplandırılan hizmetler için başlangıç tarife düzeyini belirler. Bu amaçla Kurum, bu Yönetmeliğin 10 uncu maddesinde belirtilen esaslara göre işlem yapmaya karar verebilir.
+c) İlgili sektördeki ya da ekonominin genelindeki fiyat artış oranları ile genel ekonominin, ilgili sektörün ve/veya işletmecinin verimliliğinde beklenen değişim oranı gibi ölçütler dikkate alınır.
+ç) Ölçütlerin ve verimlilik faktörünün belirlenmesinde başlangıç tarife düzeyi ile hizmetin maliyeti arasındaki ilişki göz önünde bulundurulur.
+d) Ölçütlerin belirlenmesinde, karşılaştırılabilir piyasalarda birbirinin muadili hizmetleri sunan işletmecilerin verimlilikleri ve verimliliklerindeki değişim oranları göz önünde bulundurulur.
+e) Kurum, hizmet sepetlerinin içeriğine ilave olarak, ölçütlerin değişmeden uygulanacağı dönemi, ölçütlere uygunlukta esas alınacak geçmiş periyotları ve yeni hizmetlerin mevcut bir sepete eklenebileceği, hizmetlerin sepetten çıkarılabileceği ya da sepete önceden dahil edilmiş hizmetler arasında fiyat farklılaştırmasının yapılabileceği koşulları belirler.
+f) İşletmeciler Kurum tarafından ölçütlerin belirlenmesi amacıyla talep edilen her türlü bilgi ve belgeyi sağlamakla yükümlüdür.
+(2) Onaya sunulan tarife; Kurum tarafından istenen ilave bilgi ve belgeler de dahil olmak üzere gerekli bütün bilgi ve belgelerin işletmeci tarafından tam ve doğru bir şekilde Kuruma gönderilmesinin ardından değerlendirmeye alınır. Kurum, onaya sunulan tarife teklifini, değerlendirmeye alınmasını müteakip dört hafta içerisinde karara bağlar.

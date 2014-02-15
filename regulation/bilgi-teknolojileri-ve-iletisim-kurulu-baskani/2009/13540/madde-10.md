@@ -1,0 +1,7 @@
+Tarifelerin maliyet esasına göre onaylanması
+MADDE 10 – (1) Kurum, aşağıdaki usul ve esaslar çerçevesinde tarifeleri maliyet esasına göre onaylamaya yetkilidir.
+a) Kurum, onaya sunulan tarifeleri, sermayeden makul bir geri dönüşü de içerecek şekilde ilgili hizmetin maliyetine ne ölçüde dayandırıldığına bakmak suretiyle değerlendirir.
+b) Kurum maliyetleri değerlendirirken işletmecinin etkinliğini göz önünde bulundurur. Bu doğrultuda, kaynakların etkin ve verimli kullanılmamasından doğan maliyet unsurlarının maliyetlerin değerlendirilmesinde kapsam dışında tutulması esastır.
+c) Bu maddenin (a) bendine göre yapılan değerlendirmede, Kurum, karşılaştırılabilir piyasalarda birbirinin muadili hizmetleri sunan işletmecilerin imkân dâhilinde fiyatlarına ve maliyetlerine karşılaştırma amacıyla başvurabilir. Bu durumda referans alınan piyasaların kendilerine has özellikleri dikkate alınır.
+ç) Kurum, tarifelerin maliyete dayalı yönteme göre onaylanması kapsamında gerekli gördüğü hallerde uluslararası karşılaştırmalara başvurabilir.
+(2) Onaya sunulan tarife; Kurum tarafından istenen ilave bilgi ve belgeler de dâhil olmak üzere gerekli bütün bilgi ve belgelerin işletmeci tarafından tam ve doğru bir şekilde Kuruma gönderilmesinin ardından değerlendirmeye alınır. Kurum, onaya sunulan tarife teklifini, değerlendirmeye alınmasını müteakip dört hafta içerisinde karara bağlar. Kurum bu süreyi iki hafta daha uzatabilir.
