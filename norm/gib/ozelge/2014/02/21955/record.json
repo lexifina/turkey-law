@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[37-12/27]-104",
+  "source_id": 21955,
+  "date": "2014-02-17",
+  "title": "Belediye tarafından iktisap tarihinden itibaren 5 yıl içinde parsellenen arsanın ortağı olduğu şirkete ayni sermaye olarak konması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21955",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "1e2effbef7d03e6f3cf04914492d9c53b1e6d41a935b3209fc53a441bd30fed1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
