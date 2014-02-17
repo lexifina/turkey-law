@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/437",
+  "list_number": "437",
+  "decision_date": "2014-02-17",
+  "title": "30 Mart 2014 tarihinde yapılacak Mahalli İdareler Seçimlerinde Ağlı İlçesi belediye başkanlığı, belediye meclis üyeliği ve il genel meclisi üyeliği adaylarına ait Cumhuriyet Halk Partisi Parti Meclisince belirlenen aday listelerinin esas alınması gerektiğine ilişkin Yüksek Seçim Kurulunun 2014/437 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2460/2014-437.pdf",
+  "source_sha256": "36f793ab86f5b701d2d4514424618cd8f5ef42babb3c5c8ac2949089f4d55e12",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-02-17",
+  "law_text_complete": false
+}
