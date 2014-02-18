@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 18/4/2006 tarihli ve 5488 sayılı Tarım Kanununun 6 ncı ve 7 nci maddeleri, 3/6/2011 tarihli ve 639 sayılı Gıda, Tarım ve Hayvancılık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 11 inci ve 28 inci maddeleri ile 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 45 inci maddesine dayanılarak hazırlanmıştır.

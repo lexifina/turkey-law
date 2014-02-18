@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Tarımsal Üretim Kayıt Sisteminin kurulması, kullanılması, güncellenmesi ve geliştirilmesi ile ilgili kayıt işlemlerinin izlenmesi ve raporlanmasında görev alacak birimlerin belirlenmesini, görevlerin tanımlanmasını, TÜKAS kapsamındaki tarım işletmelerine ait tarımsal faaliyetlerin tamamının kayıt altına alınmasını, düzenlenmesini ve tarımsal üretim bazında tarım istatistiklerinin oluşturulmasına ilişkin usul ve esasları kapsamaktadır.

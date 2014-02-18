@@ -1,0 +1,2 @@
+Güvenlik
+MADDE 19 – (1) Bu Yönetmelik kapsamındaki işlemleri yürütmek üzere sistem yöneticisi ve il/ilçe sistem sorumlularınca kendilerine kullanıcı adı ve şifresi verilenler, bunları hiçbir surette başkaları ile paylaşamaz. TÜKAS verileri paylaşılan kurum ve kuruluşlar, Bakanlıkça belirlenen usul ve esaslar çerçevesinde hareket etmek zorundadırlar. Bu hükme aykırı davrananlar doğacak zararların tazmininden sorumludur.
