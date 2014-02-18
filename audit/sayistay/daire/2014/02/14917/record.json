@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10309",
+  "decision_date": "2014-02-18",
+  "source_id": 14917,
+  "chamber": "1",
+  "ilam_number": "122",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14917/",
+  "source_sha256": "68cbcb7fa2318f4e86a36ccd376f580337ad913675c0bd361aa186de0272b915",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
