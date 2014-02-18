@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10308",
+  "decision_date": "2014-02-18",
+  "source_id": 8524,
+  "chamber": "1",
+  "ilam_number": "92",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8524/",
+  "source_sha256": "5e686351192873f697b2cffefc79d6b4818d44a374e9d3975f196bd296763276",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
