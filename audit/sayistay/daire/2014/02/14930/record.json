@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10309",
+  "decision_date": "2014-02-18",
+  "source_id": 14930,
+  "chamber": "1",
+  "ilam_number": "122",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14930/",
+  "source_sha256": "b18809677300dea8a7c5e37755ec0c5d4c2ddcb1215fffbe46463cfbb91ed8cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
