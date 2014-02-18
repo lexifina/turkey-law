@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10308",
+  "decision_date": "2014-02-18",
+  "source_id": 16820,
+  "chamber": "1",
+  "ilam_number": "92",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16820/",
+  "source_sha256": "35c7a8692e54072021c80d612fb48acd712b9a4bbc0820f6dcd7cf89fb366708",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
