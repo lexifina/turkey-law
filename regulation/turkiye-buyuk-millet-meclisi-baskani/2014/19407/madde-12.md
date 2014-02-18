@@ -1,0 +1,2 @@
+Bilgi veya belgelere erişim süreleri
+MADDE 12 – (1) Başvuru üzerine istenen bilgi veya belgeye erişim onbeş iş günü içinde sağlanır. Ancak, istenen bilgi veya belgenin, başka bir birimden sağlanması veya başvuru içeriğinin başka kurum ve kuruluşlardan görüş alınması durumunda, bilgi veya belgeye erişim süresi otuz iş gününe çıkarılır. Bu durum, gerekçeli olarak başvuru sahibine onbeş iş günlük sürenin bitiminden önce bildirilir.

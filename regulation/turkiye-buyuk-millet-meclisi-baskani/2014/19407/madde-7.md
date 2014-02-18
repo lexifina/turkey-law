@@ -1,0 +1,4 @@
+Başvuru usulü
+MADDE 7 – (1) Bilgi edinme başvurusu, gerçek kişiler tarafından başvuru sahibinin adı, soyadı, imzası, oturma yeri veya iş adresi; tüzel kişiler tarafından tüzel kişinin unvanı, adresi, yetkili kişinin imzası ve yetki belgesini içeren dilekçeyle, şahsen, belgegeçer, posta veya elektronik posta ile yapılabilir.
+(2) Elektronik posta ile yapılan başvurularda ayrıca, gerçek kişiler için başvuru sahibinin T.C. kimlik numarası; tüzel kişiler için ise yetkili kişinin yetki belgesi ve T.C. kimlik numarası aranır.
+(3) Başvurular şahsen veya kanunî temsilci aracılığıyla Büroya, postayla Türkiye Büyük Millet Meclisi Başkanlığı Genel Sekreterliği (Bilgi Edinme Bürosu) adresine, elektronik postayla TBMM Başkanlığı İnternet sitesinde yayınlanan form aracılığıyla Büronun elektronik posta adresine veya bu Yönetmeliğe ekli (1) ve (2) sayılı başvuru formları kullanılarak Büronun belgegeçer numarasına yapılır.

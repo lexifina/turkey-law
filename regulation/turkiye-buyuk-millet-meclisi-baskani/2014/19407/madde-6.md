@@ -1,0 +1,3 @@
+İlgili birimlerin alacakları tedbirler
+MADDE 6 – (1) İlgili birimler, Büro tarafından kendilerine iletilen başvuruların takibinin yapılması, verilecek cevabın içeriğinin belirlenmesi ve sürelerin izlenmesinden sorumlu asgari birer personel görevlendirir. Bu personele gerekli eğitim programı uygulanır. Söz konusu personel, kendi birimleriyle ilgili bilgi edinme başvurusuna konu olabilecek bilgi ve belgelerin birer kopyasını dosya düzeni içerisinde derleyerek hazır bulundurur.
+(2) İlgili birimler varsa organizasyonlarına, görev ve hizmetlerine ilişkin bilgileri, tanıtma veya eğitim amaçlı broşürleri ve yayınları Büroya gönderir.
