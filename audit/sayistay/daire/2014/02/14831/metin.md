@@ -1,0 +1,9 @@
+2012-2013 Güz Döneminde yapılan ek ders ödemelerinde, … Fakültesinde “… Bilimlerinde Araştırma Yöntemleri” dersinin çok sayıda şubeye bölünmesi suretiyle kamu zararına neden olunması.
+
+… Fakültesinde, “… Bilimlerinde Araştırma Yöntemleri” dersinin Ders Yükü Tespiti ve Ek Ders Ücreti Ödemelerinde Uyulacak Esasların 3. maddesinin (e) bendinde belirtilen “eğitim-öğretimin niteliğine göre sınıfların aşırı kalabalıklığı” nedeniyle birden fazla şubeye bölünerek verildiği, şube sayısının belirlenmesinde söz konusu dersin niteliğinin de göz önünde bulundurulduğu, bu durumun … Üniversitesi Senatosu’nun, 2011-2012 Eğitim-Öğretim yılında Fakülte, Yüksekokul ve Meslek Yüksekokullarında derslerin aynı hafta aynı konu ve farklı Öğretim Elemanları tarafından verilmesi şartıyla, teorik derslere kayıtlı öğrenci sayısının 80 ve üzeri olması halinde gruplara ayrılabileceği yönündeki 05.09.2011 tarih ve … sayılı kararına da uygun olduğu anlaşıldığından ve esasen açılabilecek şube sayısını sınırlandıran bir mevzuat hükmü de mevcut olmadığından, … TL ile ilgili olarak ilişilecek husus bulunmadığına,
+
+Üye …’ın sözü edilen … Bilimlerinde Araştırma Yöntemleri” dersinin “teorik ders” olmayıp diğer faaliyetler kapsamında değerlendirilmesi ve buna göre hesaplanacak kamu zararının sorumlulardan tazmin edilmesi gerektiği,
+
+Üye …’ın İlahiyat Bilimlerinde Araştırma Yöntemleri” dersinin mevzuatta açıkça yer alan aşırı kalabalık ve fiziki ortamın yetersizliği şartlarını taşıdığı Üniversite Yönetim Kurulunun aldığı kararla belirlenmiş olmakla birlikte Yönetim Kurulunun almış olduğu kararda şubenin kaça bölünmesi gerektiğine ilişkin bir tespitte bulunmamasına rağmen dersin 67 ayrı şubede görüldüğü anlaşılmaktadır.
+
+Bu durumda uygulamanın mevzuatın izin verdiği gerekçelerin dışında başka bazı gerekçelerle bölündüğü anlaşılmakta olup fazla ödeme tutarının sorumlulara ödettirilmesi gerektiği yönündeki azınlık görüşüne karşın oyçokluğuyla,
