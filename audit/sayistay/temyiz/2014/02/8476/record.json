@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38415",
+  "decision_date": "2014-02-18",
+  "source_id": 8476,
+  "chamber": "2",
+  "file_number": "36445",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8476/",
+  "source_sha256": "18768f5cccfba07422437dcf64fe5561e829040c8f21f713b2cd155762954728",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
