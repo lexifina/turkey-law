@@ -25,3 +25,4 @@ Anayasa Mah.’nin E.: 2010/118, K.: 2011/170 sayılı Kararı | İşlenemeyen H
 6462 | 7 | 3/5/2013
 6491 | 7 | 11/6/2013
 6487 | (I) Sayılı Liste, 12, Geçici Madde 6 | 11/6/2013
+6518 | 7 | 19/2/2014

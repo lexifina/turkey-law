@@ -23,6 +23,7 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 2
 6360 | 86 | 6/12/2012
 Anayasa Mah.’nin 29/12/2011 tarihli ve E.: 2010/62 K.: 2011/175 sayılı Kararı | 96/B | 19/5/2012 tarihinden başlayarak bir yıl sonra (19/5/2013)
 6487 | 20, 60, 96 | 19/5/2013 tarihinden geçerli olmak üzere 11/6/2013
+6518 | Mükerrer Madde 44 | 19/2/2014
 5280-1
 2464 SAYILI KANUNUN ÇEŞİTLİ MADDELERİNDEKİ ORAN VE MİKTARLARDA
 ÇEŞİTLİ MEVZUAT İLE YAPILAN DEĞİŞİKLİKLER CETVELİ

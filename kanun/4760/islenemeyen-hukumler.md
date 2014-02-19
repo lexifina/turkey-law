@@ -326,7 +326,6 @@ G.T.İ.P. NO | Mal İsmi | Vergi Tutarı (TL) | Birimi
 3403.19.90.00.00 | Diğerleri (Yağlama müstahzarları) | 1,3007 | Kilogram
 3403.91.00.00.00 | Dokumaya elverişli maddelerin, deri ve köselenin, post ve kürklerin veya diğer maddelerin işlenmesine mahsus müstahzarlar (Yağlama müstahzarları) | 1,3007 | Kilogram
 3403.99.00.00.00 | Diğerleri (Yağlama müstahzarları) | 1,3007 | Kilogram
-__________________________
 8318-4
 8319
 (II) SAYILI LİSTE
@@ -438,7 +437,7 @@ G.T.İ.P. NO | Mal İsmi | Vergi Oranı (%) | Uygulanacak Vergi Oranı (%) | Asg
 2403.10 | İçilen tütün (Herhangi bir oranda tütün yerine geçen maddeleri içersin içermesin) (2403.10.10.00.19 ve 2403.10.90.00.19 hariç) | 63 | 65,25 (1) | 0,1325 | 0,1875 (1) | 0,13(1)
 2403.10.10.00.19 | Diğerleri (Net muhtevası 500 gramı geçmeyen ambalajlarda olanlar) | 63 | 65,25 (1) | 0,1325 | 0,0490(1) | 0,13(1)
 2403.10.90.00.19 | Diğerleri (Net muhtevası 500 gramı geçen ambalajlarda olanlar) | 63 | 65,25 (1) | 0,1325 | 0,0490(1) | 0,13(1)
-2403.99.10.00.00 | Enfiye ve çiğnemeye mahsus tütün | 63 | 65,25 (1) | 0,1325 | 0,0490 (1) | 0,13(1)
+2403.99.10.00.00 | Enfiye ve çiğnemeye mahsus tütün | 63 | 65,25 (1) | 0,1325 | 0,1875 (1) | 0,13(1)
 ––––––––––––
 (1) Bu listede yer alan mallara ilişkin vergi oranları , asgari maktu vergi tutarları ve maktu vergi tutarları, 1/1/2014 tarihli ve 28869 sayılı Resmi Gazete’de yayımlanan 31/12/2013 tarihli ve 2013/5761 sayılı Bakanlar Kurulu Kararı eki Kararın 4 üncü maddesiyle 1/1/2014 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
 8323

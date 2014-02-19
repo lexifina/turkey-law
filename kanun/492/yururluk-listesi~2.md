@@ -113,8 +113,7 @@ tarihinden geçerli olmak üzere 31/12/2004
 3954-3
 Değiştiren Kanun/İptal Eden Anayasa Mahkemesi Kararı No. | 492 sayılı Kanunun değiştirilen maddeleri | Yürürlüğe giriş tarihi
 5582 | 59, (1) ve (8) sayılı Tarifeler | 6/3/2007
-5615 | 123, (4) sayılı Tarife | 4/4/2007
- | (8) sayılı Tarife | 1/1/2008
+5615 | 123, (4) sayılı Tarife (8) sayılı Tarife | 4/4/2007 1/1/2008
 5766 | 42, 59, 63, 123, (1), (3) ve (8) sayılı Tarifeler | 6/6/2008
 5831 | (4) sayılı Tarife | 27/1/2009
 5838 | 63, Mükerrer Madde 138, (4) sayılı Tarife | 28/2/2009
@@ -132,3 +131,4 @@ Anayasa Mahkemesi’nin 18/10/2012 tarihli ve E.: 2012/70, K.: 2012/157 sayılı
 Anayasa Mahkemesi’nin 1/11/2012 tarihli ve E.:2011/64, K.: 2012/168 sayılı Kararı | (1) sayılı Tarifenin “A- Mahkeme Harçları” bölümünün “IV. Temyiz, istinaf ve itiraz harçları” kısmının (f), (g) ve (h) fıkraları | 13/3/2013 tarihinden başlayarak altı ay sonra (13/9/2013)
 6487 | 28, (8) sayılı Tarife | 11/6/2013
 6456 | 113 ve (8) sayılı Tarife | 1/1/2014
+6518 | (1) sayılı Tarife | 19/2/2014

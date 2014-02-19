@@ -7,4 +7,3 @@ c) Yurt dışında kurulu iştirakin ilgili yıldaki toplam gayrisafî hasılat�
 (3) Kontrol oranı olarak, ilgili hesap dönemi içinde herhangi bir tarihte sahip olunan en yüksek oran dikkate alınır.
 (4) Birinci fıkradaki şartların gerçekleşmesi durumunda yurt dışında kurulu iştirakin elde etmiş olduğu kâr, yurt dışı iştirakin hesap döneminin kapandığı ayı içeren hesap dönemi itibarıyla tam mükellef kurumların, kurumlar vergisi matrahına hisseleri oranında dahil edilir.
 (5) Bu maddeye göre Türkiye'de vergilenmiş kazancın yurt dışındaki kurum tarafından sonradan dağıtılması durumunda, elde edilen kâr paylarının vergilenmemiş kısmı kurumlar vergisine tâbi tutulur.
-9888-2

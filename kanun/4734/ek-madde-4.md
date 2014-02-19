@@ -10,4 +10,3 @@ Teklifler, ihale dokümanında belirtilen esaslara göre değerlendirilmek suret
 Dinamik alım sisteminin süresi kırk sekiz aydan fazla olamaz.
 Dinamik alım sisteminde yapılacak ihalelerde Elektronik Kamu Alımları Platformu kullanılır. Sisteme kabul edilmeye ve sistemin yürütülmesine ilişkin olarak herhangi bir ücret talep edilmez.
 Dinamik alım sistemi dahilinde yapılacak alımlara ilişkin sözleşme düzenlenmesi gerekli haller ile bu sözleşmelerin şeklini ve kapsamını belirlemeye Kurum yetkilidir.
-8258-6

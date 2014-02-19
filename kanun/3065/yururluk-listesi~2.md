@@ -59,3 +59,4 @@ Değiştiren Kanunun Numarası | 3065 sayılı Kanunun değişen veya iptal edil
 6462 | 17 | 3/5/2013
 6487 | Geçici Madde 32 | 11/6/2013
 6495 | 17/y | 2/8/2013
+6518 | 17/z | 1/1/2015 tarihinden itibaren yapılacak teslim ve hizmetlere uygulanmak üzere yayım tarihi olan 19/2/2014
