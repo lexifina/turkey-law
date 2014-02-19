@@ -70,7 +70,7 @@ e) Kurumun çalışma konuları ile ilgili bilimsel yayınları takip ve teşvik
 f) Kurumda yapılacak yeni düzenlemeler ve ihdas edilecek birimler için düzenleyici etki analizi yapmak.
 g) Sosyal güvenliğe ilişkin konularda; 24/6/1994 tarihli ve 4009 sayılı Dışişleri Bakanlığının Kuruluş ve Görevleri Hakkında Kanun hükümleri çerçevesinde, Avrupa Birliği ve uluslararası kuruluşlar ile işbirliği yapmak, yabancı ülkelerle yapılacak sosyal güvenlik sözleşmelerine ilişkin gerekli çalışmaları yürütmek.
 h) Başkan tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
-Strateji Geliştirme Başkanlığı bünyesinde Yönetim Kurulu kararı ile en fazla 5 adet daire başkanlığı kurulabilir.(1)
+Strateji Geliştirme Başkanlığı bünyesinde Yönetim Kurulu kararı ile en fazla 6 adet daire başkanlığı kurulabilir.(1)(2)
 Hukuk Müşavirliği (1)
 MADDE 21- Hukuk Müşavirliğinin görevleri şunlardır:
 a) Kurumun amaçlarını daha iyi gerçekleştirmek, mevzuata, plân ve programa uygun çalışmasını temin etmek amacıyla, gerekli hukukî teklifleri hazırlamak, Kurum birimleri ve diğer kamu kurum ve kuruluşları tarafından gönderilen kanun, tüzük, yönetmelik, diğer mevzuat ve tip sözleşme taslakları ile diğer hukukî konular hakkında görüş bildirmek.
@@ -79,7 +79,7 @@ c) Kurumun taraf olduğu davalarda Başkanlığı temsil etmek, (…)(1) Kurum t
 ç) Kurum tarafından talep edilen hukukî konular ile hukukî, malî ve cezaî sonuçlar doğuracak işlemler hakkında görüş bildirmek.
 _____________________
 (1) 11/10/2011 tarihli ve 665 sayılı KHK’nın 13 üncü maddesiyle, 20 nci maddenin ikinci fıkrasında yer alan “4” ibaresi “5” şeklinde değiştirilmiş ve 21 inci maddenin birinci fıkrasının (c) bendinde yer alan “prim ve prime ilişkin davalar hariç;” ibaresi yürürlükten kaldırılmıştır.
-9766
+(2) 6/2/2014 tarihli ve 6518 sayılı Kanunun 78 inci maddesiyle bu fıkrada yer alan “5” ibaresi “6” olarak değiştirilmiştir. 9766
 d) İhtilaflı konuları analiz ederek Kurumun taraf olduğu anlaşmazlıkları en aza indirecek tedbirlere ilişkin görüş ve önerilerde bulunmak.
 e) 7 nci maddenin birinci fıkrasının (f) bendinde belirtilen hususlarda önerilerde bulunmak.
 f) Başkan tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
@@ -147,7 +147,7 @@ Kurum lehine sonuçlanan dava ve icra takipleri nedeniyle hükme bağlanarak kar
 9769
 Kadrolar ve atama
 MADDE 29- Kurum kadrolarının tespiti, ihdası, kullanılması ve iptali ile kadrolara ilişkin diğer hususlar 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname hükümleri, atamalarda ise bu Kanunda hüküm bulunmayan hallerde 23/6/1981 tarihli ve 2477 sayılı Kanun hükümleri uygulanır.
-(Değişik ikinci fıkra: 11/10/2011-KHK-665/14 md.) Başkan, Başkan Yardımcısı, Genel Müdür, Rehberlik ve Teftiş Başkanı, Strateji Geliştirme Başkanı, Aktüerya ve Fon Yönetimi Daire Başkanı ve I. Hukuk Müşaviri kadrolarına müşterek kararname, diğer Daire Başkanı ile Sosyal Güvenlik İl Müdürü kadrolarına Başkanın önerisi üzerine Bakan onayı, bunların dışında kalan Kurum kadrolarına ise Başkan onayı ile atama yapılır.
+(Değişik ikinci fıkra: 11/10/2011-KHK-665/14 md.) Başkan, Başkan Yardımcısı, Genel Müdür, Rehberlik ve Teftiş Başkanı, Strateji Geliştirme Başkanı, Genel Müdür Yardımcısı, Aktüerya ve Fon Yönetimi Daire Başkanı ve I. Hukuk Müşaviri kadrolarına müşterek kararname, diğer Daire Başkanı ile Sosyal Güvenlik İl Müdürü kadrolarına Başkanın önerisi üzerine Bakan onayı, bunların dışında kalan Kurum kadrolarına ise Başkan onayı ile atama yapılır.(1)
 İkinci fıkrada sayılan kadrolar ile daire başkanı, sosyal güvenlik il müdürü, sosyal güvenlik il müdür yardımcısı ve sosyal güvenlik merkezi müdürü kadrolarına yapılacak atamalarda 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde sayılan genel şartlara ilave olarak, en az dört yıllık eğitim veren yüksek öğretim kurumlarından mezun olmak şartı aranır.
 Sosyal Güvenlik Uzmanı, Müfettiş ve bunların yardımcıları
 MADDE 30- Kurumda sosyal güvenlik uzman yardımcısı veya müfettiş yardımcısı kadrolarına atanabilmek için 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde sayılan genel şartlara ilave olarak;
@@ -158,8 +158,11 @@ c) Sınavın yapıldığı yılın Ocak ayının ilk gününde otuz yaşını do
 (Değişik ikinci fıkra: 12/7/2013-6495/38 md.) Birinci fıkraya göre müfettiş yardımcısı olarak atananlar, en az üç yıl fiilen çalışmak ve Kurumca belirlenen konuda tez hazırlamak kaydıyla açılacak yeterlik sınavına girme hakkını kazanırlar. Yeterlik sınavında başarılı olan müfettiş yardımcıları müfettiş kadrolarına atanırlar. Müfettişlik yeterlik sınavında başarı gösteremeyenlere yeterlik sınavından itibaren bir yıl içinde bir hak daha verilir. Bu süre sonunda da yeterlik sınavında başarı gösteremeyenler durumlarına uygun diğer kadrolara atanırlar.
 (Mülga üçüncü fıkra: 12/7/2013-6495/38 md.)
 (Mülga dördüncü fıkra: 12/7/2013-6495/38 md.)
+_____________
+(1) 6/2/2014 tarihli ve 6518 sayılı Kanunun 79 uncu maddesiyle bu fıkraya “Strateji Geliştirme Başkanı,” ibaresinden sonra gelmek üzere “Genel Müdür Yardımcısı,” ibaresi eklenmiştir.
 9770
 Sosyal güvenlik uzman yardımcılarının ve müfettiş yardımcılarının mesleğe alınma, tez hazırlama, yetiştirilme, yeterlik sınavları ile diğer konulara ilişkin usûl ve esaslar Kurumca çıkarılacak yönetmeliklerle belirlenir.
+(Ek fıkra:6/2/2014-6518/80 md.) Başkanlık merkez teşkilatında genel müdür yardımcısı, daire başkanı veya taşra teşkilatında il müdürü kadrolarında toplam en az üç yıl görev yapmış olanlar, atama tarihi itibarıyla fiilen bu kadrolardan birinde bulunmak şartıyla Sosyal Güvenlik Uzmanı kadrosuna atanabilir.
 Sosyal Güvenlik Denetmenliği ve Sosyal Güvenlik Denetmen Yardımcılığı(1)
 MADDE 31-(Değişik:13/2/2011-6111/163 md.)
 Kurum taşra teşkilatında Sosyal Güvenlik Denetmeni ve Sosyal Güvenlik Denetmen Yardımcısı istihdam edilir.

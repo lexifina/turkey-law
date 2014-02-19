@@ -1,6 +1,6 @@
 Yürütme
 MADDE 14- (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-10110-1
+10110-2
 (1) SAYILI LİSTE (1)
 İHDAS EDİLEN KADROLAR
 KURUMU: TELEKOMÜNİKASYON KURUMU
@@ -32,7 +32,7 @@ Kaloriferci YH 1
 GENEL TOPLAM 82
 –––––––––––––––––
 (1) 5/11/2008 tarihli ve 5809 sayılı Kanunun 67 nci maddesiyle, 2813 sayılı Kanuna eklenen Geçici 9 uncu maddesinin “2813 sayılı Kanuna 1/3/2006 tarihli ve 5467 sayılı Kanunun 9 uncu maddesiyle eklenen ekli (II) sayılı liste ve bu listeye 5651 sayılı Kanunun 10 uncu maddesiyle ilave edilen kadrolar, anılan Kanun ekinden çıkarılarak 5651 sayılı Kanuna (I) sayılı liste olarak eklenmiştir.” şeklindeki hükmüne istinaden sözü edilen listeler bu Kanunun Eki olarak alınmıştır.
-10110-2
+10110-3
 KURUMU : TELEKOMÜNİKASYON KURUMU
 TEŞKİLÂTI : MERKEZ
 İHDAS EDİLEN KADROLARIN
@@ -61,7 +61,6 @@ GİH Bilgisayar İşletmeni 10
 TH Teknisyen 2
 GİH Sekreter 1
 TOPLAM 93
-(V) SAYILI CETVEL
 (Ek: 5/11/2008-5809/67 md.)
 İHDAS EDİLEN KADROLARIN
 KURUMU : BİLGİ TEKNOLOJİLERİ VE İLETİŞİM KURUMU
@@ -70,4 +69,17 @@ SINIFI UNVANI DERECESİ ADEDİ
 GİH İletişim Uzman Yardımcısı 8 25
 ———
 TOPLAM 25
-10110-3
+(Ek: 6/2/2014-6518/98 md.)
+(2) SAYILI LİSTE
+KURUMU : BİLGİ TEKNOLOJİLERİ VE İLETİŞİM KURUMU
+TEŞKİLATI : MERKEZ
+İHDAS EDİLEN KADROLARIN
+SINIFI | UNVANI | DERECESİ | ADEDİ
+GİH | Daire Başkanı | 1 | 4
+GİH | Hukuk Müşaviri | 3 | 6
+TH | Mühendis | 3 | 10
+TH | Mühendis | 6 | 10
+GİH | Bilgisayar İşletmeni | 9 | 10
+GİH | Memur | 9 | 5
+TOPLAM | 45
+10110-4

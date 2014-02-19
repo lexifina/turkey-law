@@ -6,7 +6,7 @@ c) Bu Kanunun 3 üncü maddesinin (f) bendi gereğince yapılacak mal ve hizmet 
 Bu Kanunun 3 üncü maddesinin (e) bendi gereğince (Ek ibare: 12/6/2002-4761/18 md.) yapılacak alımlarda uygulanacak esas ve usuller Kurum tarafından, Devlet Malzeme Ofisinden yapılacak alımlara ilişkin esas ve usuller ise gerekli görülmesi halinde Maliye Bakanlığı tarafından belirlenebilir. (1)
 ––––––––––––––––––––––––––––––––––
 (1) Bu fıkrada bulunan “yapılacak alımlarda uygulanacak esas ve usuller Kurum tarafından,” ibaresi 12/6/2002 tarihli ve 4761 sayılı Kanunla eklenmiştir.
-8258-8
+8258-10
 (Ek: 12/6/2002-4761/18 md.; Değişik son fıkra: 30/7/2003-4964/40 md.) Bu Kanunun 3 üncü maddesinin (g) bendi kapsamındaki mal ve hizmetler, ilgili kuruluşların talebi üzerine Kurum tarafından belirlenir.
 (Ek fıkra: 30/7/2003-4964/40 md.) Bu Kanunun 3 üncü maddesinin (h) bendine ilişkin esas ve usuller, Sağlık Bakanlığı ve Kurumun görüşleri alınarak Maliye Bakanlığı tarafından hazırlanacak yönetmelikle belirlenir.
 (Ek fıkra: 30/7/2003-4964/40 md.) Enerji, su, ulaştırma ve telekomünikasyon sektöründe faaliyet gösteren teşebbüs, işletme ve şirketler, özel kanunları yürürlüğe girinceye kadar bu Kanunun 3 üncü maddesinin (g) bendi hükmüne, bu bent kapsamında yer almayan mal ve hizmet alımları ile yapım işlerinde ise Kanunun diğer hükümlerine tâbi olurlar. (Ek cümle: 22/12/2005-5436/13 md.) Bu Kanunun 3 üncü maddesinin (g) bendinde yer alan parasal limit, Posta ve Telgraf Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet alımları ile Türkiye Petrolleri Anonim Ortaklığının Türkiye karasuları ile uluslararası sular dahilinde petrol ve doğalgaz arama, sondaj, üretim ve taşıma faaliyetleri ile ilgili olarak yapılacak her türlü mal ve hizmet alımları ile yapım işlerinde uygulanmaz.(1)
@@ -15,3 +15,7 @@ Bu Kanunun 3 üncü maddesinin (e) bendi gereğince (Ek ibare: 12/6/2002-4761/18
 (Ek fıkra: 27/12/2007-5726/24 md.) Bu Kanunun 3 üncü maddesinin (l) bendine ilişkin esas ve usuller Maliye Bakanlığı ve Kamu İhale Kurumunun görüşleri alınarak Adalet ve İçişleri bakanlıklarınca müştereken çıkarılacak yönetmelikle belirlenir.
 (Ek fıkra: 20/2/2008-5737/79 md.)Bu Kanunun 3 üncü maddesinin (k) bendine ilişkin usûl ve esaslar, Maliye Bakanlığı ve Kamu İhale Kurumunun görüşleri alınarak Vakıflar Genel Müdürlüğü tarafından çıkarılacak bir yönetmelikle belirlenir.
 (Ek fıkra: 20/11/2008-5812/29 md.) Bu Kanunun 3 üncü maddesinin (f) bendi gereğince Türkiye Bilimsel ve Teknolojik Araştırma Kurumu tarafından uygulanacak usul ve esaslar Maliye Bakanlığı ve Kurumun görüşleri alınarak Türkiye Bilimsel ve Teknolojik Araştırma Kurumu tarafından; (n) bendine ilişkin esas ve usuller Maliye Bakanlığı ve Kurumun görüşleri alınarak ilgili bakanlıklar tarafından hazırlanacak yönetmeliklerle belirlenir.
+(Ek fıkra: 6/2/2014-6518/52 md.) Bu Kanunun 3 üncü maddesinin (u) bendine ilişkin usul ve esaslar, Bilim, Sanayi ve Teknoloji Bakanlığı tarafından, Kurum ile diğer ilgili kurum ve kuruluşların görüşleri alınarak belirlenir.
+––––––––––––––––––––––––––––––––––
+(1) 9/5/2013 tarihli ve 6475 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan “Bu Kanunun 3 üncü maddesinin (g) bendinde yer alan parasal limit,” ibaresinden sonra gelmek üzere “Posta ve Telgraf Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet alımları ile” ibaresi eklenmiştir.
+8258-11

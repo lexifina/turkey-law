@@ -66,7 +66,7 @@ _________________________
 (3) 17/1/2012 tarihli ve 6270 sayılı Kanunun 17 nci maddesi ile bu maddenin birinci fıkrasında yer alan “ikiyüz milyon lira para cezası” ibaresi “dörtyüzelli Türk Lirası idari para cezası” şeklinde değiştirilmiş ve metne işlenmiştir.
 8456
 Engelli ve eski hükümlü çalıştırma zorunluluğuna aykırılık(1)(2)
-Madde 101 - Bu Kanunun 30 uncu maddesindeki hükümlere aykırı olarak engelli ve eski hükümlü çalıştırmayan işveren veya işveren vekiline çalıştırmadığı her engelli ve eski hükümlü ve çalıştırmadığı her ay için binyediyüz Türk Lirası idari para cezası verilir. Kamu kuruluşları da bu para cezasından hiçbir şekilde muaf tutulamaz.
+Madde 101 - Bu Kanunun 30 uncu maddesindeki hükümlere aykırı olarak engelli ve eski hükümlü çalıştırmayan işveren veya işveren vekiline çalıştırmadığı her engelli ve eski hükümlü ve çalıştırmadığı her ay için binyediyüz Türk Lirası idari para cezası verilir. Kamu kuruluşları da bu para cezasından hiçbir şekilde muaf tutulamaz.(2)
 Ücret ile ilgili hükümlere aykırılık(3)
 Madde 102 - Bu Kanunun;
 a) (Değişik: 17/4/2008-5754/85 md.) 32 nci maddesinde belirtilen ücret ile işçinin bu Kanundan veya toplu iş sözleşmesinden veya iş sözleşmesinden doğan ücret ödemelerini süresi içinde kasden ödemeyen veya eksik ödeyen, 39 uncu maddesinde belirtilen komisyonun belirlediği asgari ücreti işçiye ödemeyen veya noksan ödeyen, ücret, prim, ikramiye ve bu nitelikteki her çeşit istihkakını zorunlu tutulduğu halde özel olarak açılan banka hesabına ödemeyen işveren, işveren vekili ve üçüncü kişiye bu durumda olan her işçi ve her ay için yüzyirmibeş Türk Lirası idari para cezası ,
@@ -77,7 +77,7 @@ Yıllık ücretli izin hükümlerine aykırılık(4)
 Madde 103 - Yıllık ücretli izni bu Kanunun 56 ncı maddesine aykırı olarak bölen veya izin ücretini 57 nci maddenin üç ve dördüncü fıkralarında belirtilen usule aykırı olarak ödeyen veya eksik ödeyen veya 59 uncu maddedeki hak edilmiş izni kullanmadan iş sözleşmesinin sona ermesi halinde bu izne ait ücreti ödemeyen veya 60 ıncı maddede belirtilen yönetmeliğin esas ve usullerine aykırı olarak izin kullandırmayan veya eksik kullandıran işveren veya işveren vekiline bu durumda olan her işçi için ikiyüzyirmi Türk Lirası idari para cezası verilir.
 ___________________
 (1) 17/1/2012 tarihli ve 6270 sayılı Kanunun 17 nci maddesi ile bu maddenin birinci fıkrasında yer alan “yediyüzelli milyon lira para cezası” ibaresi “binyediyüz Türk Lirası idari para cezası” şeklinde değiştirilmiş ve metne işlenmiştir.
-(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu madde başlığında yer alan “Özürlü” ibaresi “Engelli”, birinci fıkrasında yer alan “özürlü” ibareleri “engelli” şeklinde değiştirilmiştir.
+(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu maddenin başlığında yer alan “Özürlü” ibaresi “Engelli”, birinci fıkrasında yer alan “özürlü” ibareleri “engelli” olarak değiştirilmiştir.
 (3) 17/1/2012 tarihli ve 6270 sayılı Kanunun 17 nci maddesi ile bu maddenin birinci fıkrasının (a) bendinde yer alan “yüz Yeni Türk Lirası” ibaresi “yüzyirmibeş Türk Lirası” şeklinde, (b) bendinde yer alan “ikiyüz milyon lira para cezası” ibaresi “dörtyüzelli Türk Lirası idari para cezası” şeklinde, (c) bendinde yer alan “yüz milyon lira para cezası” ibaresi “ikiyüzyirmi Türk Lirası idari para cezası” şeklinde değiştirilmiş ve metne işlenmiştir.
 (4) 17/1/2012 tarihli ve 6270 sayılı Kanunun 17 nci maddesi ile bu maddenin birinci fıkrasında yer alan “yüz milyon lira para cezası” ibaresi “ikiyüzyirmi Türk Lirası idari para cezası” şeklinde değiştirilmiş ve metne işlenmiştir.
 8457
@@ -138,7 +138,6 @@ Bazı kamu kurum ve kuruluşlarında çalışanların kıdem tazminatı
 Madde 112 - Kanuna veya kanunun verdiği yetkiye dayanılarak kurulan kurum ve kuruluşların haklarında bu Kanun ve 854, 5953, 5434 sayılı kanunların hükümleri uygulanmayan personeli ile kamu kuruluşlarında sözleşmeli olarak istihdam edilenlere mevzuat veya sözleşmelerine göre kıdem tazminatı niteliğinde yapılan ödemeler kıdem tazminatı sayılır.
 Bazı işlerde çalışanların ücretlerinin güvencesi
 Madde 113 - Bu Kanunun 4 üncü maddesinin birinci fıkrasının (b) ve (ı) bentlerinde sayılan işyerlerinde çalışan işçiler hakkında 32, 35, 37, 38 inci madde hükümleri uygulanır. Bu maddelere aykırılık hallerinde ilgililer hakkında ilgili ceza hükümleri uygulanır.
-8458-2
 8459
 Üçlü Danışma Kurulu
 Madde 114 - Çalışma barışının ve endüstri ilişkilerinin geliştirilmesinde, çalışma hayatıyla ilgili mevzuat çalışmalarının ve uygulamalarının izlenmesi amacıyla; Hükümet ile işveren, kamu görevlileri ve işçi sendikaları konfederasyonları arasında etkin danışmayı sağlamak üzere, üçlü temsile dayalı istişari mahiyette bir danışma kurulu oluşturulur.
@@ -152,6 +151,15 @@ Yönetmelikler
 Madde 119 - Bu Kanunda öngörülen yönetmelikler Kanunun yayımı tarihinden itibaren altı ay içerisinde çıkartılır.
 Yürürlükten kaldırılan hükümler
 Madde 120 – 25.8.1971 tarihli ve 1475 sayılı İş Kanununun 14 üncü maddesi hariç diğer maddeleri yürürlükten kaldırılmıştır.
+Korumalı işyerlerinde çalışan engellilerin ücretleri
+Ek Madde 1 – (Ek: 6/2/2014-6518/59 md.)
+Korumalı işyerlerinde çalıştırılan ve iş gücü piyasasına kazandırılmaları güç olan zihinsel veya ruhsal engellilere işverenlerince zamanında ödenmiş olan ücretlerinin;
+a) Korumalı işyerlerinde çalışan her engelli için 1/7/1976 tarihli ve 2022 sayılı 65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz Türk Vatandaşlarına Aylık Bağlanması Hakkında Kanunun 2 nci maddesinin birinci fıkrasının (a) bendi gereğince ödenen aylık tutarı kadarı,
+b) 29/1/2004 tarihli ve 5084 sayılı Yatırımların ve İstihdamın Teşviki ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunun 2 nci maddesi kapsamındaki illerde kurulmuş bulunan korumalı işyerlerinde çalışan her engelli için ilaveten (a) bendi ile belirlenen tutarın yüzde yirmisi,
+c) Korumalı işyeri statüsü almak için ilgili mevzuatla çalıştırılması zorunlu olan sayıdan daha fazla engelli çalıştıran işyerlerinde, zorunlu sayının üstünde çalıştırılan her engelli için ilaveten (a) bendi ile belirlenen tutarın yüzde yirmisi,
+bu ücretlere ilişkin yasal yükümlülüklerin de tam ve zamanında karşılanmış olması kaydıyla, Hazine tarafından işverene ödenir.
+Birinci fıkrada belirlenen ücret kısımlarının ödenmesine ilişkin usul ve esaslar, Maliye Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığı ve Hazine Müsteşarlığının uygun görüşü alınmak suretiyle Aile ve Sosyal Politikalar Bakanlığı tarafından çıkarılan yönetmelikle belirlenir.
+8460
 Geçici Madde 1 - Diğer mevzuatta 1475 sayılı İş Kanununa yapılan atıflar bu Kanuna yapılmış sayılır.
 Bu Kanunun 120 nci maddesi ile yürürlükte bırakılan 1475 sayılı İş Kanununun 14 üncü maddesinin birinci fıkrasının 1 inci ve 2 nci bendi ile onbirinci fıkrasında, anılan Kanunun 16, 17 ve 26 ncı maddelerine yapılan atıflar, bu Kanunun 24, 25 ve 32 nci maddelerine yapılmış sayılır.
 Geçici Madde 2 - (Mülga: 20/6/2012-6331/37 md.)
@@ -159,7 +167,6 @@ Geçici Madde 3 - 1475 sayılı Kanuna göre alınmış bulunan asgari ücret ka
 Geçici Madde 4 - Mülga 3008 sayılı İş Kanununun 13 üncü maddesi hükümleri haklarında uygulanmayanlar için, bu Kanunun geçici 6 ncı maddesinde sözü edilen kıdem tazminatı hakkı 12.8.1967 tarihinden itibaren başlar.
 İlk defa bu Kanun kapsamına girenlerin kıdem tazminatı hakları bu Kanunun yürürlüğe girdiği tarihten itibaren başlar.
 Geçici Madde 5 - 1475 sayılı Kanunun 25 inci maddesi ile 3713 sayılı Kanunun ek 1 inci maddesinin (B) fıkrasında yer alan oranlar, bu Kanunun 30 uncu maddesi uyarınca Bakanlar Kurulu tarafından yeniden belirleninceye kadar geçerlidir.
-8460
 Geçici Madde 6 - Kıdem tazminatı için bir kıdem tazminatı fonu kurulur. Kıdem tazminatı fonuna ilişkin Kanunun yürürlüğe gireceği tarihe kadar işçilerin kıdemleri için 1475 sayılı İş Kanununun 14 üncü maddesi hükümlerine göre kıdem tazminatı hakları saklıdır.
 Yürürlük
 Madde 121 - Bu Kanun yayımı tarihinde yürürlüğe girer.

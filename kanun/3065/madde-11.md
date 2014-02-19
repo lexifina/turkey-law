@@ -42,7 +42,7 @@ Aşağıdaki teslim ve hizmetler vergiden müstesnadır.
 a) (Değişik : 25/5/1995 - 4108/33 md.) Faaliyetleri kısmen veya tamamen deniz, hava ve demiryolu taşıma araçlarının, yüzer tesis ve araçların kiralanması veya çeşitli şekillerde işletilmesi olan mükelleflere bu amaçla yapılan deniz, hava ve demiryolu taşıma araçlarının, yüzer tesis ve araçlarının teslimleri, bu araçların imal ve inşaası ile ilgili olarak yapılan teslim ve hizmetler ile bunların tadili, onarım ve bakımı şeklinde ortaya çıkan hizmetler ve faaliyetleri deniz taşıma araçları ile yüzer tesis ve araçların imal ve inşası olanlara bu araçların imal ve inşası ile ilgili olarak yapılacak teslim ve hizmetler, (2)
 b) (Mülga: 25/12/2003-5035/49 md.;Yeniden düzenleme:16/7/2004-5228/14 md.) Deniz ve hava taşıma araçları için liman ve hava meydanlarında yapılan hizmetler,
 c) (Değişik: 28/3/2007-5615/12 md.) Altın, gümüş, platin arama, işletme, zenginleştirme, rafinaj ve Türk Petrol Kanunu hükümlerine göre petrol arama faaliyetlerine ilişkin olmak üzere, bu faaliyetleri yürütenlere yapılan teslim ve hizmetler ile aynı Kanun hükümlerine göre boru hattıyla taşımacılık yapanlara bu hatların inşa ve modernizasyonuna ilişkin yapılan teslim ve hizmetler,
-d) (Ek : 22/7/1998 - 4369/59 md.) Yatırım Teşvik Belgesi sahibi mükelleflere belge kapsamındaki makina ve teçhizat teslimleri (Şu kadar ki, yatırım teşvik belgesinde öngörüldüğü şekilde gerçekleşmemesi halinde,zamanında alınmayan vergi alıcıdan, vergi ziyaı cezası uygulanarak gecikme faizi ile birlikte tahsil edilir. Zamanında alınmayan vergiler ile vergi cezalarında zamanaşımı, verginin tarhini veya cezanın kesilmesini gerektiren durumun meydana geldiği tarihi takip eden takvim yılının başından itibaren başlar).
+d) (Ek : 22/7/1998 - 4369/59 md.) Yatırım Teşvik Belgesi sahibi mükelleflere belge kapsamındaki makina ve teçhizat teslimleri (Şu kadar ki, yatırım teşvik belgesinde öngörüldüğü şekilde gerçekleşmemesi halinde,zamanında alınmayan vergi alıcıdan, vergi ziyaı cezası uygulanarak gecikme faizi ile birlikte tahsil edilir. Zamanında alınmayan vergiler ile vergi cezalarında zamanaşımı, verginintarhini veya cezanın kesilmesini gerektiren durumun meydana geldiği tarihi takip eden takvim yılının başından itibaren başlar).
 –––––––––––––––
 (1) Bu bölüm ve13 üncü maddenin başlığı" Araçlar ve Petrol Aramalarında İstisna"iken, 22/7/1998 tarih ve 4369 sayılı Kanunun 59 uncu maddesi ile "Araçlar, Petrol Aramaları ve Teşvik Belgeli Yatırımlarda İstisna" şeklinde değiştirilmiş; daha sonra 13 üncü maddenin başlığı 16/7/2004 tarihli ve 5228 sayılı Kanunun 14 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 (2) 13/2/2011 tarihli ve 6111 sayılı Kanunun 85 inci maddesiyle, bu bentte yer alan “çıkan hizmetler,” ibaresi “çıkan hizmetler ve faaliyetleri deniz taşıma araçları ile yüzer tesis ve araçların imal ve inşası olanlara bu araçların imal ve inşası ile ilgili olarak yapılacak teslim ve hizmetler,” şeklinde değiştirilmiş ve metne işlenmiştir.
@@ -74,7 +74,7 @@ b) (Değişik : 27/1/2000 - 4503/1 md.) 4458 sayılı Gümrük Kanununun 167 nci
 c) (Değişik : 25/12/2003 - 5035/7 md.) Gümrük Kanunundaki transit ve gümrük antrepo rejimleri ile geçici depolama ve serbest bölge hükümlerinin uygulandığı mallar,
 ——————————
 (1) Bakanlar Kurulu tarafından belirlenecek taşıma işleri ile ilgili olarak bu Kanunun sonundaki "KARARNAMELER İLE YAPILAN DEĞİŞİKLİKLER CETVELİ"ne bakınız.
-6479
+6478-2 6479
 2) (Değişik : 27/1/2000 - 4503/1 md.) Gümrük Kanununa göre geri gelen eşyanın dışarıda bir işleme tabi tutulması veya asli kısmına bir ilave yapılması halinde eşyanın kazandığı değer farkı istisnaya dahil değildir.
 ALTINCI BÖLÜM
 Sosyal ve Askeri Amaçlı İstisnalarla Diğer İstisnalar
@@ -91,7 +91,7 @@ c) (Ek : 23/11/2000 – 4605/6 md.) Yabancı devletlerin Türkiye’deki diploma
 (2) Bu bentte yer alan "Üniversite ve yüksekokullar ile 8.6.1965 tarihli ve 625 sayılı Kanun hükümlerine tâbi özel okullar tarafından ilgili dönemdeki kapasitelerinin % 10 unu" ibaresi, 28/3/2007 tarihli ve 5615 sayılı Kanunun 13 üncü maddesiyle "8/2/2007 tarihli ve 5580 sayılı Kanun hükümlerine tâbi özel okullar tarafından ilgili dönemdeki kapasitelerinin % 10’unu, üniversite ve yüksekokullarda ise % 50’sini" şeklinde değiştirilmiş ve metne işlenmiştir.
 (3) 16/6/2009 tarihli ve 5904 sayılı Kanunun 13 üncü maddesiyle; bu bentte yer alan “özel okullar tarafından ilgili dönemdeki kapasitelerinin % 10’unu” ibaresi “özel okullarca bedelsiz verilen eğitim, öğretim hizmetlerinde ilgili dönemdeki kapasitelerinin % 10’unu, 24/3/1950 tarihli ve 5661 sayılı Yüksek Öğrenim Öğrenci Yurtları ve Aşevleri Hakkındaki Kanuna Ek Kanun ile 30/4/1992 tarihli ve 3797 sayılı Milli Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanun hükümlerine göre kurulan öğrenci yurtları tarafından bedelsiz verilen yurt hizmetlerinde ilgili dönemdeki kapasitelerinin % 10’unu,” şeklinde değiştirilmiş ve metne işlenmiştir.
 (4) 23/7/2010 tarihli ve 6009 sayılı Kanunun 28 inci maddesiyle, bu bendin sonunda yer alan “teslim ve hizmetleri” ibaresi “teslim ve hizmetleri ile bunlardan sağlık hizmeti sunanların teşhis ve tedaviye yönelik olarak birbirlerine yapacakları teslim ve hizmetler” şeklinde değiştirilmiş ve metne işlenmiştir.
-(5) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu bentte yer alan “sakat” ibaresi “engelli” olarak değiştirilmiştir.
+(5) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “sakat” ibaresi “engelli” şeklinde değiştirilmiştir.
 6480
 Maliye Bakanlığı, istisna kapsamına girecek mal ve hizmetler ile bunların asgari tutarlarını ve bu bendin uygulamasına ilişkin usul ve esasları tespit etmeye yetkilidir.
 d) (Ek: 14/7/2004-5226/19md.) 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamındaki tescilli taşınmaz kültür varlıklarının rölöve, restorasyon ve restitüsyon projelerine münhasır olmak üzere, bu projelendirmelerden yararlananlara verilen mimarlık hizmetleri ile projelerin uygulanması kapsamında yapılacak teslimler.
@@ -148,11 +148,13 @@ t) (Ek: 16/6/2009-5904/14 md.) 5300 sayılı Tarım Ürünleri Lisanslı Depocul
 u) (Ek: 13/2/2011-6111/85 md.) Menkul, gayrimenkul ve maddi olmayan varlıkların, varlık kiralama şirketlerine devri ile bu varlıkların varlık kiralama şirketlerince kiralanması ve devralınan kuruma devri.
 v) (Ek: 13/6/2012-6327/12 md.) 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanunu uyarınca oluşturulan Sigorta Tahkim Komisyonu tarafından münhasıran uyuşmazlıkların çözümüne ilişkin olarak verilen hizmetler.
 y) (Ek: 12/7/2013-6495/29 md.) 21/11/2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanunu kapsamında; finansal kiralama şirketlerince bizzat kiracıdan satın alınıp geriye kiralanan taşınmazlara uygulanmak üzere ve kiralamaya konu taşınmazın mülkiyetinin sözleşme süresi sonunda kiracıya devredilecek olması koşulu ile kiralanmaya konu taşınmazların kiralayana satılması, satan kişilere kiralanması ve devri.
+z) (Ek: 6/2/2014-6518/32 md.) 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanununun 5/B maddesi kapsamındaki araştırma ve geliştirme, yenilik ile yazılım faaliyetleri neticesinde ortaya çıkan patentli veya faydalı model belgeli buluşa ilişkin gayri maddi hakların kiralanması, devri veya satışı (Bu kapsamda vergiden istisna edilen işlemler bakımından bu Kanunun 30 uncu maddesinin birinci fıkrasının (a) bendi hükmü uygulanmaz.).
 YEDİNCİ BÖLÜM
 İstisnadan Vazgeçme ve İstisnaların Sınırı
 İstisnadan vazgeçme:
 Madde 18 – 1. (Değişik: 16/7/2004-5228/16 md.) Vergiden istisna edilmiş işlemleri yapanlar, ilgili vergi dairesine yazılı başvuruda bulunarak, belirtecekleri işlem türleri için vergiye tâbi tutulmalarını talep edebilirler. Bu talebin dilekçede belirtilen ve dilekçe tarihinden sonra ifa edilen işlemlerin tamamını kapsaması şarttır. Şu kadar ki, mükellefiyetin devam etmekte olan işlemlere şümulü yoktur.
 2. (Değişik: 16/7/2004-5228/16 md.) Kamu menfaatine yararlı dernekler ve Bakanlar Kurulunca vergi muafiyeti tanınan vakıfların kuruluş amaçlarına uygun olarak işletmek veya yönetmek suretiyle ifa ettikleri teslim ve hizmetlere ilişkin istisnalar hariç olmak üzere, 17 nci maddenin (1) ve (2) numaralı fıkralarıyla (3) numaralı fıkranın (a) ve (4) numaralı fıkranın (e) bentlerinde yazılı istisnalar hakkında yukarıdaki (1) numaralı fıkra hükmü uygulanmaz.
+6480-4
 3. İstisnadan vazgeçeceklerin talepleri üzerine, vergi dairesince, vergi mükellefiyetleri talep tarihinden itibaren tesis olunur. Bu şekilde mükellef olanlar üç yıl geçmedikçe mükellefiyetten çıkamazlar. Mükellefler üç yıllık sürenin bitiminden önce mükellefiyetten çıkma talebinde bulunmadıkları takdirde mükellefiyet yeniden üç yıl süre ile uzatılmış sayılır.
 İstisnaların sınırı:
 Madde 19 – 1. Diğer kanunlardaki vergi muaflık ve istisna hükümleri bu vergi bakımından geçersizdir. Katma değer vergisine ilişkin istisna ve muafiyetler ancak bu Kanuna hüküm eklenmek veya bu Kanunda değişiklik yapılmak suretiyle düzenlenir.
@@ -163,15 +165,15 @@ BİRİNCİ BÖLÜM
 Matrah
 Teslim ve hizmet işlemlerinde matrah:
 Madde 20 – 1. Teslim ve hizmet işlemlerinde matrah, bu işlemlerin karşılığını teşkil eden bedeldir.
-6481
 2. Bedel deyimi, malı teslim alan veya kendisine hizmet yapılan veyahut bunlar adına hareket edenlerden bu işlemler karşılığında her ne suretle olursa olsun alınan veya bunlarca borçlanılan para, mal ve diğer suretlerde sağlanan ve para ile temsil edilebilen menfaat, hizmet ve değerler toplamını ifade eder.
 3. (Mülga : 22/7/1998 - 4369/82 md.)
 4. Belli bir tarifeye göre fiyatı tespit edilen işler ile bedelin biletle tahsil edildiği hallerde tarife ve bilet bedeli Katma Değer Vergisi dahil edilerek tespit olunur ve vergi müşteriye ayrıca intikal ettirilmez.
+6481
 İthalatta matrah:
 Madde 21 – İthalatta, verginin matrahı aşağıda gösterilen unsurların toplamıdır:
 a) İthal edilen malın gümrük vergisi tarhına esas olan kıymeti, gümrük vergisinin kıymet esasına göre alınmaması veya malın gümrük vergisinden muaf olması halinde sigorta ve navlun bedelleri dahil (CIF) değeri, bunun belli olmadığı hallerde malın gümrükçe tespit edilecek değeri,
 b) İthalat sırasında ödenen her türlü vergi, resim, harç ve paylar,
-c) Gümrük beyannamesinin tescil tarihine kadar yapılan diğer giderler ve ödemelerden vergilendirilmeyenler ile mal bedeli üzerinden hesaplanan fiyat farkı, kur farkı gibi ödemeler. (1) -(2)
+c) Gümrük beyannamesinin tescil tarihinekadar yapılan diğer giderler ve ödemelerden vergilendirilmeyenler ile mal bedeli üzerinden hesaplanan fiyat farkı, kur farkı gibi ödemeler. (1) -(2)
 Uluslararası yük ve yolcu taşımalarında matrah:
 Madde 22 – İkametgahı, kanuni merkezi ve iş merkezi Türkiye'de bulunmayanlar tarafından yabancı ülkeler ile Türkiye arasında yapılan taşımacılık ile transit taşımacılıkta şahıs ve ton başına kilometre itibariyle yurt içi emsalleri göz önüne alınmak suretiyle matrah tespitine Maliye ve Gümrük Bakanlığı yetkilidir.
 Özel matrah şekilleri:

@@ -15,6 +15,11 @@ i) Toplu kullanım sağlayıcı: Kişilere belli bir yerde ve belli bir süre in
 j) Trafik bilgisi: İnternet ortamında gerçekleştirilen her türlü erişime ilişkin olarak taraflar, zaman, süre, yararlanılan hizmetin türü, aktarılan veri miktarı ve bağlantı noktaları gibi değerleri,
 k) Veri: Bilgisayar tarafından üzerinde işlem yapılabilen her türlü değeri,
 l) Yayın: İnternet ortamında yapılan yayını,
-10104
 m) Yer sağlayıcı: Hizmet ve içerikleri barındıran sistemleri sağlayan veya işleten gerçek veya tüzel kişileri,
+n) (Ek: 6/2/2014-6518/85 md.) Birlik: Erişim Sağlayıcıları Birliğini,
+10104
+o) (Ek: 6/2/2014-6518/85 md.) Erişimin engellenmesi: Alan adından erişimin engellenmesi, IP adresinden erişimin engellenmesi, içeriğe (URL) erişimin engellenmesi ve benzeri yöntemler kullanılarak erişimin engellenmesini,
+ö) (Ek: 6/2/2014-6518/85 md.) İçeriğin yayından çıkarılması: İçerik veya yer sağlayıcılar tarafından içeriğin sunuculardan veya barındırılan içerikten çıkarılmasını,
+p) (Ek: 6/2/2014-6518/85 md.) URL adresi: İlgili içeriğin internette bulunduğu tam internet adresini,
+r) (Ek: 6/2/2014-6518/85 md.) Uyarı yöntemi: İnternet ortamında yapılan yayın içeriği nedeniyle haklarının ihlal edildiğini iddia eden kişiler tarafından içeriğin yayından çıkarılması amacıyla öncelikle içerik sağlayıcısına, makul sürede sonuç alınamaması hâlinde yer sağlayıcısına iletişim adresleri üzerinden gerçekleştirilecek bildirim yöntemini,
 ifade eder.

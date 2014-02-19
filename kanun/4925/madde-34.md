@@ -1,6 +1,6 @@
 Yönetmelik
 Madde 34 - Bu Kanunun yürürlüğe girmesinden itibaren altı ay içinde;
-a) Taşımacılık, acente ve taşıma işleri komisyonculuğu ile nakliyat ambarı ve kargo işletmeciliği yapmak isteyen gerçek ve tüzel kişilerde aranacak şartlar, verilecek yetki belgeleri ve taşıt belgeleri, her belge türü için gerekli olan taşıt kapasiteleri, taşıtların yaşı, nitelikleri, istiap hadleri ve terminal hizmetlerinde öngörülecek hususları,
+a) (Değişik: 6/2/2014-6518/60 md.) Taşımacılık faaliyeti yapmak isteyen gerçek ve tüzel kişilerde aranacak şartlar, verilecek yetki belgeleri, mesleki yeterlilik belgeleri ve taşıt kartları ile diğer belge ve hizmetlerin ücret, süre, kapsam, tür ve şekilleri, her belge türü için gerekli olan taşıt kapasiteleri, taşıtların yaşı, nitelikleri, istiap hadleri ve terminal hizmetlerinde öngörülecek hususları,
 b) Belgelerin geçerlilik süreleri, geri alınması ve uygulanacak idarî müeyyideleri,
 c) Taşımacı, acente ve taşıma işleri komisyonculuğu ile nakliyat ambarı ve kargo işletmeciliği yapacakların yükümlülükleri, bagaj ve taşımanın yardımcı hizmetleri,
 d) Zaman ve fiyat tarifelerinin düzenlenmesi, yolcu bileti ve taşıma senedinin şekil ve muhtevasını,

@@ -1,4 +1,5 @@
 BİRİNCİ BÖLÜM
 Amaç, Kapsam, Tanımlar ve Genel Esaslar
-Amaç (1)
-Madde 1- Bu Kanunun amacı; engelliliğin önlenmesi, engellilerin sağlık, eğitim, rehabilitasyon, istihdam, bakım ve sosyal güvenliğine ilişkin sorunlarının çözümü ile her bakımdan gelişmelerini ve önlerindeki engelleri kaldırmayı sağlayacak tedbirleri alarak topluma katılımlarını sağlamak ve bu hizmetlerin koordinasyonu için gerekli düzenlemeleri yapmaktır.
+Amaç
+Madde 1- (Değişik:6/2/2014-6518/62 md.)
+Bu Kanunun amacı; engellilerin temel hak ve özgürlüklerden faydalanmasını teşvik ve temin ederek ve doğuştan sahip oldukları onura saygıyı güçlendirerek toplumsal hayata diğer bireylerle eşit koşullarda tam ve etkin katılımlarının sağlanması ve engelliliği önleyici tedbirlerin alınması için gerekli düzenlemelerin yapılmasını sağlamaktır.

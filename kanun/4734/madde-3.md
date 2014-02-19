@@ -1,5 +1,5 @@
 İstisnalar
-Madde 3- (Değişik: 30/7/2003-4964/2 md.)
+Madde 3-(Değişik: 30/7/2003-4964/2 md.)
 a) Kanun kapsamına giren kuruluşlarca, kuruluş amacı veya mevzuatı gereği işlemek, değerlendirmek, iyileştirmek veya satmak üzere doğrudan üreticilerden veya ortaklarından yapılan tarım veya hayvancılıkla ilgili ürün alımları ile 6831 sayılı Orman Kanunu gereğince orman köyleri kalkındırma kooperatiflerinden ve köylülerden yapılacak hizmet alımları,
 8228
 b) (Değişik: 20/11/2008-5812/1 md.) Savunma, güvenlik veya istihbarat alanları ile ilişkili olduğuna veya gizlilik içinde yürütülmesi gerektiğine ilgili bakanlık tarafından karar verilen veya mevzuatı uyarınca sözleşmenin yürütülmesi sırasında özel güvenlik tedbirleri alınması gereken veya devlet güvenliğine ilişkin temel menfaatlerin korunmasını gerektiren hallerle ilgili olan mal ve hizmet alımları ile yapım işleri,
@@ -28,4 +28,5 @@ p) (Ek: 22/2/2007-5583/9 md.;Değişik: 3/6/2011-KHK-638/31 md.) Gençlik ve Spo
 r) (Ek: 13/2/2011-6111/177 md.) Fakir ailelere kömür yardımı yapılmasına ilişkin Bakanlar Kurulu kararnameleri kapsamında; işleticisi kim olursa olsun, Türkiye Kömür İşletmeleri Kurumu Genel Müdürlüğünün kendisine veya bağlı ortaklık veya iştiraklerine ait olan kömür sahalarından yapacağı mal ve hizmet alımları,
 s) (Ek: 31/3/2012-6288/5 md.; Değişik: 24/4/2013-6461/10 md.) Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğü ile Türkiye Cumhuriyeti Devlet Demiryolları Taşımacılık Anonim Şirketinin, Türkiye Demiryolu Makinaları Sanayii Anonim Şirketi, Türkiye Lokomotif ve Motor Sanayii Anonim Şirketi ve Türkiye Vagon Sanayii Anonim Şirketinden yapacağı mal veya hizmet alımları,
 t) (Ek: 4/7/2012-6353/27 md.) Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının kurduğu veya iştirak ettiği şirketten (ÖSYM’nin yapacağı mal ve hizmet alımlarında Yükseköğretim Kurulunun uygun görüşü alınmak kaydıyla) sınav faaliyetlerinin yürütülmesine yönelik olarak yapılacak mal ve hizmet alımları,
+u) (Ek: 6/2/2014-6518/45 md.) Yenilik, yerlileşme ve teknoloji transferini sağlamaya yönelik sanayi katılımı/off-set uygulamaları içeren mal ve hizmet alımları,
 Ceza ve ihalelerden yasaklama hükümleri hariç bu Kanuna tâbi değildir.

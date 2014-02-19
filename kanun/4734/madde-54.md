@@ -20,6 +20,7 @@ e) İtirazen şikayet başvurularında idareye yapılan şikayetin ve varsa şik
 8256-1
 Aynı kişi tarafından birden fazla ihaleye, birden fazla kişi tarafından ise aynı ihaleye tek dilekçe ile başvuruda bulunulamaz.
 Belirtilen hususlara aykırılık içeren ve henüz başvuru süresi dolmamış olan başvurulardaki eksiklikler, idare veya Kurumun bildirim yapma zorunluluğu bulunmaksızın, başvuru süresinin sonuna kadar başvuru sahibi tarafından giderilebilir.
+(Ek: 6/2/2014-6518/50 md.) Başvuruların ihaleyi yapan idare veya Kurum dışındaki idari mercilere ya da yargı mercilerine yapılması ve başvuru dilekçelerinin bu merciler tarafından ilgisine göre idareye veya Kuruma gönderilmesi hâlinde, dilekçelerin idare veya Kurum kayıtlarına girdiği tarih, başvuru tarihi olarak kabul edilir.
 Başvurular üzerine ihaleyi yapan idare veya Kurum tarafından gerekçeli olarak;
 a) İhale sürecinin devam etmesine engel oluşturacak ve düzeltici işlemle giderilemeyecek hukuka aykırılığın tespit edilmesi halinde ihalenin iptaline,
 b) İdare tarafından düzeltme yapılması yoluyla giderilebilecek ve ihale sürecinin kesintiye uğratılmasına gerek bulunmayan durumlarda, düzeltici işlem belirlenmesine,

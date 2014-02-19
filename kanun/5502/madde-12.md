@@ -8,5 +8,7 @@ c) Genel Sağlık Sigortası Genel Müdürlüğü.
 ç) Hizmet Sunumu Genel Müdürlüğü.
 d) Rehberlik ve Teftiş Başkanlığı.
 e) Aktüerya ve Fon Yönetimi Daire Başkanlığı.
-Her bir genel müdürlük bünyesinde, Yönetim Kurulu kararı ile en fazla 8 adet daire başkanlığı kurulabilir.
+Her bir genel müdürlük bünyesinde, Yönetim Kurulu kararı ile en fazla 11 adet daire başkanlığı kurulabilir.(1)
+_____________
+(1) 6/2/2014 tarihli ve 6518 sayılı Kanunun 77 nci maddesiyle bu fıkrada yer alan “8” ibaresi “11” olarak değiştirilmiştir.
 9762

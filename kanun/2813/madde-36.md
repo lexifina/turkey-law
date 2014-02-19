@@ -1,6 +1,5 @@
 Yürütme:
 Madde 36 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-5693-5697
 (I) SAYILI CETVEL
 (Ek: 5/11/2008-5809/67 md.)
 İHDAS EDİLEN KADROLARIN
@@ -38,61 +37,67 @@ TH | Tekniker | 2 | 3
 GİH | Çözümleyici | 2 | 1
 GİH | Uzman | 2 | 1
 GİH | Bilişim Uzmanı | 3 | 4
-5698
-SINIFI UNVANI DERECESİ ADEDİ
-GİH İdari Uzman 3 2
-TH Teknik Uzman 3 2
-GİH Uzman 3 1
-TH Mühendis 3 6
-TH Tekniker 3 1
-TH Teknisyen 3 11
-GİH Şef 3 26
-GİH Bilgisayar İşletmeni 3 4
-GİH Uzman 4 3
-GİH Bilişim Uzmanı 4 6
-TH Mühendis 4 4
-TH Teknisyen 4 2
-GİH Şef 4 6
-AH Avukat 4 4
-GİH Uzman 5 2
-GİH Bilişim Uzmanı 5 14
-GİH İdari Uzman 5 2
-TH Teknik Uzman 5 2
-TH Mühendis 5 4
-TH Teknisyen 5 3
-GİH Şef 5 1
-AH Avukat 5 1
-GİH Bilgisayar İşletmeni 5 3
-GİH Memur 5 39
-GİH Şoför 5 9
-YH Bekçi 5 2
-GİH Bilişim Uzmanı 6 3
-TH Teknisyen 6 1
-GİH Memur 6 4
-GİH Şoför 6 1
-YH Bekçi 6 1
-GİH Bilişim Uzman Yardımcısı 7 8
-GİH Memur 7 1
-YH Kaloriferci 7 1
-GİH Bilişim Uzman Yardımcısı 8 21
-GİH İdari Uzman Yardımcısı 8 8
-TH Teknik Uzman Yardımcısı 8 8
-GİH Şoför 8 1
-GİH Bilişim Uzman Yardımcısı 9 18
-GİH Memur 10 1
-———
-TOPLAM 437
+GİH | İdari Uzman | 3 | 2
+TH | Teknik Uzman | 3 | 2
+GİH | Uzman | 3 | 1
+TH | Mühendis | 3 | 6
+TH | Tekniker | 3 | 1
+TH | Teknisyen | 3 | 11
+GİH | Şef | 3 | 26
+GİH | Bilgisayar İşletmeni | 3 | 4
+GİH | Uzman | 4 | 3
+GİH | Bilişim Uzmanı | 4 | 6
+TH | Mühendis | 4 | 4
+TH | Teknisyen | 4 | 2
+GİH | Şef | 4 | 6
+AH | Avukat | 4 | 4
+GİH | Uzman | 5 | 2
+GİH | Bilişim Uzmanı | 5 | 14
+GİH | İdari Uzman | 5 | 2
+TH | Teknik Uzman | 5 | 2
+TH | Mühendis | 5 | 4
+TH | Teknisyen | 5 | 3
+GİH | Şef | 5 | 1
+AH | Avukat | 5 | 1
+GİH | Bilgisayar İşletmeni | 5 | 3
+GİH | Memur | 5 | 39
+GİH | Şoför | 5 | 9
+YH | Bekçi | 5 | 2
+GİH | Bilişim Uzmanı | 6 | 3
+TH | Teknisyen | 6 | 1
+GİH | Memur | 6 | 4
+GİH | Şoför | 6 | 1
+YH | Bekçi | 6 | 1
+GİH | Bilişim Uzman Yardımcısı | 7 | 8
+GİH | Memur | 7 | 1
+YH | Kaloriferci | 7 | 1
+GİH | Bilişim Uzman Yardımcısı | 8 | 21
+GİH | İdari Uzman Yardımcısı | 8 | 8
+TH | Teknik Uzman Yardımcısı | 8 | 8
+GİH | Şoför | 8 | 1
+GİH | Bilişim Uzman Yardımcısı | 9 | 18
+GİH | Memur | 10 | 1
+ |  |  | ———
+ | TOPLAM | 437
 (Ek: 9/5/2013-6475/31 md.)
 KURUMU : BİLGİ TEKNOLOJİLERİ VE İLETİŞİM KURUMU
 TEŞKİLATI : MERKEZ
 İHDAS EDİLEN KADROLARIN
-SINIFI UNVANI DERECESİ ADEDİ
-GİH Kurul Üyesi 1 1
-GİH Daire Başkanı 1 1
-GİH Bilişim Uzmanı 5 8
-GİH Bilişim Uzman Yardımcısı 9 30
-TOPLAM 40
-5699
+SINIFI | UNVANI | DERECESİ | ADEDİ
+GİH | Kurul Üyesi | 1 | 1
+GİH | Daire Başkanı | 1 | 1
+GİH | Bilişim Uzmanı | 5 | 8
+GİH | Bilişim Uzman Yardımcısı | 9 | 30
+ |  |  | ———
+ | TOPLAM | 40
+(Ek: 6/2/2013-6518/13 md.)
+KURUMU : BİLGİ TEKNOLOJİLERİ VE İLETİŞİM KURUMU
+TEŞKİLATI : MERKEZ
+İHDAS EDİLEN KADROLARIN
+SINIFI | UNVANI | DERECESİ | ADEDİ
+GİH | Başkanlık Müşaviri | 1 | 10
+ |  |  | ———
+TOPLAM | 10
 (II) SAYILI CETVEL
 (Ek: 5/11/2008-5809/67 md.)
 İHDAS EDİLEN KADROLARIN
@@ -127,8 +132,6 @@ AH | Avukat | 5 | 3
 TH | Mühendis | 5 | 4
 TH | Tekniker | 5 | 1
 GİH | Şef | 5 | 1
-5700/5700-8
-SINIFI | UNVANI | DERECESİ | ADEDİ
 GİH | Bilgisayar İşletmeni | 5 | 1
 GİH | Memur | 5 | 7
 GİH | Ambar Memuru | 5 | 1
@@ -142,5 +145,5 @@ GİH | Bilişim Uzman Yardımcısı | 8 | 15
 TH | Teknik Uzman Yardımcısı | 8 | 5
 GİH | Memur | 8 | 1
 GİH | Bilişim Uzman Yardımcısı | 9 | 10
+ |  |  | ———
  |  | TOPLAM | 203
-5701
