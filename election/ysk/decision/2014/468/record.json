@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/468",
+  "list_number": "468",
+  "decision_date": "2014-02-19",
+  "title": "Belediye başkanlıklarınca belediyelerin icraatlarına yönelik olarak hazırlanmış afişlerin propaganda kapsamında değerlendirilmesine ilişkin Yüksek Seçim Kurulunun 2014/468 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2458/2014-468.pdf",
+  "source_sha256": "1fe56089895a458b2ac7a07856849eeed4c04f1152713a15a7262529c07fdb8a",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-02-19",
+  "law_text_complete": false
+}
