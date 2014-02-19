@@ -672,12 +672,13 @@ III – Karar ve ilam harcı :
 1. Nispi harç :
 a) Konusu belli bir değerle ilgili bulunan davalarda esas hakkında karar verilmesi halinde hüküm
 altına alınan anlaşmazlık konusu değer üzerinden (Binde 68,31) Binde 36
-(Ek hüküm: 4/12/1985 - 3239/96-A md.) Bakanlar Kurulu dava çeşitleri itibariyle birlikte veya ayrı ayrı olmak üzere bu bente yazılı nispeti binde 10’a kadar indirmeye veya Kanunda yazılı nispete kadar çıkarmaya yetkilidir.
+(Ek hüküm: 4/12/1985 - 3239/96-A md.) Tahkim yargılamasında bu bende göre hesaplanan harç yüzde elli oranında uygulanır. Bakanlar Kurulu dava çeşitleri itibariyle birlikte veya ayrı ayrı olmak üzere bu bente yazılı nispeti binde 10’a kadar indirmeye veya Kanunda yazılı nispete kadar çıkarmaya yetkilidir. (5)
 ——————————
 (1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilen miktarlar aynen bırakılmış olup, 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 71 Seri No.’lu Tebliği ile 1/1/2014 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
 (2) 30/3/2011 tarihli ve 6216 sayılı Kanunun 75 inci maddesiyle, bu bölümün birinci cümlesinde yer alan “yargı konularında” ibaresinden sonra gelmek üzere “, Anayasa Mahkemesine bireysel başvurularda” ibaresi eklenmiş ve metne işlenmiştir.
 (3) 31/3/2011 tarihli ve 6217 sayılı Kanunun 13 üncü maddesiyle, bu başlıkta yer alan “Hukuk” ibaresinden sonra gelmek üzere “, ceza” ibaresi eklenmiş ve metne işlenmiştir.
 (4) Bu alt bentde yer alan “Bölge Adliye Mahkemeleri” ibaresi, 26/9/2004 tarihli ve 5235 sayılı Kanunun 52 nci maddesiyle, 1/4/2005 tarihinden geçerli olmak üzere eklenmiş ve metne işlenmiştir.
+(5) 6/2/2014 tarihli ve 6518 sayılı Kanunun 9 uncu maddesiyle, bu bentte yer alan “Bakanlar Kurulu” ibaresinden önce gelmek üzere “Tahkim yargılamasında bu bende göre hesaplanan harç yüzde elli oranında uygulanır.” ibaresi eklenmiştir.
 3928
 Uygulanan Kanunla Getirilen
 Miktar Miktar

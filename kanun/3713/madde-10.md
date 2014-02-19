@@ -26,4 +26,5 @@ Türk Ceza Kanununun 305, 318, 319, 323, 324, 325 ve 332 nci maddeleri hariç ol
 Çocuklar, bu madde hükümleri uyarınca kurulan mahkemelerde yargılanamaz; bu mahkemelere özgü soruşturma ve kovuşturma hükümleri çocuklar bakımından uygulanmaz.
 _______________
 (1) Bu fıkra, Anayasa Mahkemesinin 4/7/2013 tarihli ve E:2012/100, K:2013/84 sayılı kararıyla iptal edilmiş olup, Kararın Resmi Gazetede yayımlandığı 2/8/2013 tarihinden itibaren bir yıl sonra yürürlüğe gireceği hüküm altına alınmıştır.
+7218-2
 7219

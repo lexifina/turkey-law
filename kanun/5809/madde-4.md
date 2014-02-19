@@ -13,8 +13,8 @@ h) Millî güvenlik ile kamu düzeni gereklerine ve acil durum ihtiyaçlarına �
 ı) Bu Kanunda, ilgili mevzuatta ve yetkilendirmelerde açıkça belirlenen durumlar haricinde, işletmecilerin, arabağlantı da dahil olmak üzere erişim ücretleri ile hat ve devre kiralarını da kapsayacak biçimde, elektronik haberleşme hizmeti sunulması karşılığı alacakları ücretleri serbestçe belirlemesi.
 i) Elektronik haberleşme cihaz ve sistemlerinin kurulması, kullanılması ve işletilmesinde insan sağlığı, can ve mal güvenliği, çevre ve tüketicinin korunması açısından asgarî uluslararası normların dikkate alınması.
 j) Elektronik haberleşme hizmetlerinin sunulmasında ve bu hususlarda yapılacak düzenlemelerde tarafsızlığın sağlanması.
-k) Teknolojik yeniliklerin kullanılması da dahil olmak üzere engelli, yaşlı ve sosyal açıdan korunmaya muhtaç diğer kesimlerin özel ihtiyaçlarının dikkate alınması. (1)
+k) Teknolojik yeniliklerin kullanılması da dahil olmak üzere engelli, yaşlı ve sosyal açıdan korunmaya muhtaç diğer kesimlerin özel ihtiyaçlarının dikkate alınması.(1)
 l) Bilgi güvenliği ve haberleşme gizliliğinin gözetilmesi.
-–––––––––––––––––
-(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürlü” ibaresi “engelli” şeklinde değiştirilmiştir.
+__________________
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu bentte yer alan “özürlü” ibaresi “engelli” olarak değiştirilmiştir.
 10383

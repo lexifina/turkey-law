@@ -1,8 +1,13 @@
-Çerçeve anlaşmalar (1)
+Çerçeve anlaşmalar (3)
 Ek Madde 2 – (Ek: 1/6/2007-5680/2 md.; Değişik: 20/11/2008-5812/27 md.)
 İdareler ihtiyaç duydukları mal ve hizmet alımları ile yapım işlerine ilişkin olarak açık ihale veya belli istekliler arasında ihale usulünü uygulamak kaydıyla çerçeve anlaşmalar yapabilir. Çerçeve anlaşmalar rekabeti engelleyici, sınırlayıcı veya bozucu şekilde kullanılamaz.
 Çerçeve anlaşma kapsamında temin edilecek mal ve hizmet alımları ile yapım işleri Kanunun 13 üncü maddesine göre ilan edilir. Çerçeve anlaşma kapsamında karşılanması planlanan tahmini ihtiyaç miktarları ilanda gösterilir.
 Teminat alınmasına ilişkin hükümler hariç olmak üzere, ihalelerin sözleşmeye bağlanması hakkında bu Kanunda yer alan hükümler çerçevesinde, süresi kırksekiz ayı geçmemek üzere çerçeve anlaşma imzalanır ve sonuçlar Kamu İhale Bülteninde ilan edilir.
+–––––––––––––––
+(1) 13/2/2011 tarihli ve 6111 sayılı Kanunun 179 uncu maddesi ile bu fıkrada yer alan “toplu konut projelerinde” ibaresi “projelerde” olarak değiştirilmiş ve metne işlenmiştir.
+(2) Bu madde başlığı 20/11/2008 tarihli ve 5812 sayılı Kanunun 26 ncı maddesinin hükmüdür.
+(3)Bu madde başlığı“Çerçeve sözleşme kapsamında mal ve hizmet alımı” iken, 20/11/2008 tarihli ve 5812 sayılı Kanunun 27 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+8258-6
 Çerçeve anlaşmalar, koşulların tamamının baştan belirlendiği hallerde, bir istekli ile de yapılabilir. Birden fazla istekli ile yapılacak çerçeve anlaşmalarda istenilen şartları karşılayan yeterli sayıda teklif sunulması kaydıyla çerçeve anlaşmaya taraf olacak istekli sayısı üçten az olmamak üzere ihale dokümanında belirtilir. Çerçeve anlaşmaların bir istekli ile yapıldığı haller hariç, yapılan değerlendirme sonucunda teklifleri geçerli kabul edilen istekliler, ekonomik açıdan en avantajlı tekliften başlanmak suretiyle sıralanarak listeye alınır. Çerçeve anlaşmaya taraf olan istekli sayısının üçün altına inmesi halinde, mevcut çerçeve anlaşmanın sona erdiği taraflara bildirilir.
 Koşulların tamamının baştan belirlendiği çerçeve anlaşma kapsamında yapılacak alımlarda isteklilerden ilk tekliflerini aşmamak kaydıyla yeniden teklif alınabilir. Koşulların tamamının baştan belirlenmediği hallerde ise çerçeve anlaşma koşullarında esaslı değişiklik yapılmaması kaydıyla isteklilerden yeniden teklif alınır.
 İsteklilere ihale konusu işin karmaşıklığı ve özgünlüğü gibi hususlar dikkate alınarak tekliflerini sunmaları için yeterli süre tanınır.
@@ -10,6 +15,3 @@ Koşulların tamamının baştan belirlendiği çerçeve anlaşma kapsamında ya
 Münferit sözleşmeye davet edildiği halde ihale dokümanında belirtilen süre içerisinde sözleşme imzalamayan istekliyle yapılan çerçeve anlaşma feshedilir ve istekli hakkında 58 inci madde hükümleri uygulanır.
 Münferit sözleşme aşamasına ilişkin olarak bu Kanunun 6, 38, 40, 41, 42, 43, 44, 45, 46, 54, 55 ve 56 ncı maddeleri uygulanmaz. Bu maddelerde belirtilen hususlar dahil çerçeve anlaşma kapsamında yapılacak alımların usul ve esasları ile nitelik ve kapsamını belirlemeye, ve sınırlar koymaya, sözleşme düzenlenmesine gerek görülen durumlarda sözleşmelerin şeklini ve kapsamını belirlemeye Kurum yetkilidir.
 Çerçeve anlaşma yapılmış olması, idareye alım yapma yükümlülüğü getirmez. İdare, çerçeve anlaşma kapsamındaki ihtiyaçlarını bu Kanunda yer alan diğer usulleri kullanmak suretiyle de temin edebilir.
-––––––––––––––––––––––––
-(1) Bu madde başlığı“Çerçeve sözleşme kapsamında mal ve hizmet alımı” iken, 20/11/2008 tarihli ve 5812 sayılı Kanunun 27 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-8258-5

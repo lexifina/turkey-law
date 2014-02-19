@@ -1,4 +1,3 @@
-7215
 TERÖRLE MÜCADELE KANUNU
 Kanun Numarası : 3713
 Kabul Tarihi : 12/4/1991

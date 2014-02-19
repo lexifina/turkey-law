@@ -9,7 +9,7 @@ a. Telsiz verici-alıcı cihazları (karada kullanılan, ruhsatnamede kayıtlı 
 3) Sabit telsiz | 50.00 TL
 b. Karasal mobil (cellular) telsiz telefon sistemi | 
 1) Her baz istasyonu için | 100.00 TL
-2) Sistemdeki her abone başına | 10.72 TL
+2) (Değişik: 27/1/2014-2014/5884 K.) Abonenin sistemdeki her bir farklı numarası başına (Bir numaranın birden çok SIM karta atanarak kullanılması duırumunda, abonenin şebekeye aynı anda bağlanabilen SIM kart sayısı başına), (Kapalı erişim modunda ve azami 100 mW çıkış gücündeki femto ve benzeri şekilde çalışan abone erişim cihazlarına ilişkin aboneliklerden alınmaz) | 10.72 TL
 c. Bir noktadan çok noktaya erişim sistemleri | 
 1) Her baz istasyonu için | 100.00 TL
 2) Sistemdeki her abone başına | 10.00 TL
@@ -45,7 +45,7 @@ a) 200 kHz'e kadar (dahil) | 40.00 TL
 b) 201 kHz-1.25 MHz arası (dahil) | 125.00 TL
 c) 1.25-5 MHz arası (dahil) | 500.00 TL
 d) 5 MHz'den yukarısı | 1,200.00 TL
-2) Sistemdeki her abone başına | 10.72 TL
+2) (Değişik: 27/1/2014-2014/5884 K.) Abonenin sistemdeki her bir farklı numarası başına (Bir numaranın birden çok SIM karta atanarak kullanılması duırumunda, abonenin şebekeye aynı anda bağlanabilen SIM kart sayısı başına), (Kapalı erişim modunda ve azami 100 mW çıkış gücündeki femto ve benzeri şekilde çalışan abone erişim cihazlarına ilişkin aboneliklerden alınmaz) | 10.72 TL
 c. Bir noktadan çok noktaya erişim sistemleri (her yıl için) sisteme tahsis edilen kanal frekansının band genişliğine göre | 
 1) Her sabit telsiz (baz) istasyonundan (sisteme tahsis edilen band genişliğine göre her yıl alınmak üzere) | 
 a) 2 MHz dahil olmak üzere | 40.00 TL

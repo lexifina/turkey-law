@@ -11,7 +11,7 @@ h) Rehabilite edilenler hakkında,
 ı) 507 sayılı Esnaf ve Sanatkârlar Kanununun 2 nci maddesinin tarifine uygun üç kişinin çalıştığı işyerlerinde.
 ––––––––––––––––––
 (1) 20/6/2012 tarihli ve 6331 sayılı Kanunun 37 nci maddesiyle, bu bentte yer alan “İş sağlığı ve güvenliği hükümleri saklı kalmak üzere” ibaresi madde metninden çıkarılmıştır.
-8424-2 8425
+8425
 Şu kadar ki;
 a) Kıyılarda veya liman ve iskelelerde gemilerden karaya ve karadan gemilere yapılan yükleme ve boşaltma işleri,
 b) Havacılığın bütün yer tesislerinde yürütülen işler,

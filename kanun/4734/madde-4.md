@@ -15,7 +15,7 @@ Aday : Ön yeterlik için başvuran gerçek veya tüzel kişileri veya bunların
 Ortak girişim: (Değişik: 30/7/2003-4964/3 md.) İhaleye katılmak üzere birden fazla gerçek veya tüzel kişinin aralarında yaptıkları anlaşma ile oluşturulan iş ortaklığı veya konsorsiyumları,
 İstekli : Mal veya hizmet alımları ile yapım işlerinin ihalesine teklif veren tedarikçi, hizmet sunucusu veya yapım müteahhidini,
 İstekli olabilecek: (Ek: 20/11/2008-5812/2 md.) İhale konusu alanda faaliyet gösteren ve ihale veya ön yeterlik dokümanı satın almış gerçek veya tüzel kişiyi ya da bunların oluşturdukları ortak girişimi,
-8228-4 8229
+8229
 Yerli istekli: (Değişik: 30/7/2003-4964/3 md.) Türkiye Cumhuriyeti vatandaşı gerçek kişiler ile Türkiye Cumhuriyeti kanunlarına göre kurulmuş tüzel kişilikleri,
 Yüklenici : Üzerine ihale yapılan ve sözleşme imzalanan istekliyi,
 İdare : İhaleyi yapan bu Kanun kapsamındaki kurum ve kuruluşları,

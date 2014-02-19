@@ -5,4 +5,5 @@ Ancak, özel otomobillerle ve bunların römorklarıyla yapılan taşımalar, ge
 Uluslararası anlaşmalar ile savaş hali, sıkıyönetim, olağanüstü hal ve doğal afet durumlarında uygulanacak hükümler saklıdır.
 _____________
 (1) Bu Kanunda, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanunu hükümlerine aykırılık bulunması durumunda, 5302 sayılı Kanun hükümlerinin uygulanacağı, söz konusu Kanunun 70 inci maddesi ile hüküm altına alınmıştır.
+(2) 3/7/2005 tarihli ve 5393 sayılı Belediye Kanunun 84 üncü maddesiyle; bu Kanunda belediyenin sorumlu ve yetkili kılındığı görev ve hizmetlerle sınırlı olarak, 5393 sayılı Belediye Kanunu hükümlerine aykırılık bulunması durumunda mezkur kanun hükümlerinin uygulanacağı hüküm altına alınmıştır.
 8528

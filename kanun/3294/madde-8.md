@@ -6,6 +6,5 @@ c)Her nevi fitre, zekat, kurban derileri ve bağırsak yardımlarından, (bu ben
 d) İşletme ve iştiraklerden elde edilecek gelirlerden,
 e) Diğer gelirlerden,
 Teşekkül eder.
-6892-2
 6893
 (Ek ikinci fıkra: 16/6/1989 - 3582/4 md.; Mülga: 7/12/2004-5272/87 md.)

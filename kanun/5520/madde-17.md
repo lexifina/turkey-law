@@ -1,12 +1,11 @@
 DÖRDÜNCÜ BÖLÜM
-Tasfiye, Birleşme, Devir, Bölünme ve
-Hisse Değişimi
+Tasfiye, Birleşme, Devir, Bölünme ve Hisse Değişimi
 Tasfiye
 MADDE 17- (1) Tasfiye dönemi: Her ne sebeple olursa olsun, tasfiye haline giren kurumların vergilendirilmesinde hesap dönemi yerine tasfiye dönemi geçerli olur.
 a) Tasfiye, kurumun tasfiyeye girmesine ilişkin genel kurul kararının tescil edildiği tarihte başlar ve tasfiye kararının tescil edildiği tarihte sona erer. Başlangıç tarihinden aynı takvim yılı sonuna kadar olan dönem ile bu dönemden sonraki her takvim yılı ve tasfiyenin sona erdiği dönem için ilgili takvim yılı başından tasfiyenin bitiş tarihine kadar olan dönem bağımsız bir tasfiye dönemi sayılır.
 b) Tasfiyenin başladığı takvim yılı içinde sona ermesi halinde tasfiye dönemi, kurumun tasfiyeye girdiği tarihten başlar ve tasfiyenin bittiği tarihe kadar devam eder.
 c) Tasfiyenin zararla kapanması halinde tasfiye sonucu, önceki tasfiye dönemlerine doğru düzeltilir ve anılan dönemlerde fazla ödenen vergi mükellefe iade edilir.
-ç) Bir yıldan fazla süren tasfiyelerde tarh zamanaşımı, tasfiyenin sona erdiği dönemi izleyen yıldan itibaren başlar.
+Ç) Bir yıldan fazla süren tasfiyelerde tarh zamanaşımı, tasfiyenin sona erdiği dönemi izleyen yıldan itibaren başlar.
 d) Tasfiyeden vazgeçilmesi halinde, kurum hakkında tasfiye hükümleri uygulanmaz. Böyle bir durumda, tasfiyeden vazgeçme kararı, bu kararın alındığı dönemin başından itibaren geçerli olur. Tasfiyeden vazgeçme kararının alındığı tarihe kadar verilen tasfiye dönemi beyannameleri, normal faaliyet beyannamelerinin yerine geçer. Tasfiyesinden vazgeçilen kurumun geçici vergiyle ilgili yükümlülükleri, tasfiyeden vazgeçilmesine ilişkin kararın alındığı tarihi kapsayan geçici vergilendirme dönemi başından itibaren başlar.
 9898
 (2) Tasfiye beyannameleri: Tasfiye beyannameleri, tasfiye memurları tarafından tasfiye dönemlerinin sonundan itibaren Kanunun 14 üncü maddesinde yazılı sürelerde; tasfiyenin sona erdiği döneme ilişkin tasfiye beyannamesi ise tasfiyenin sonuçlandığı tarihten itibaren otuz gün içinde kurumun bağlı olduğu vergi dairesine verilir.

@@ -1,5 +1,7 @@
 Yürütme
 Madde 25 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+–––––––––––––––––
+(1) 6/2/2014 tarihli ve 6518 sayılı Kanunun 41 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “İçişleri Bakanlığına” ibaresi “Aile ve Sosyal Politikalar Bakanlığına”, ikinci fıkrasında yer alan “İçişleri Bakanlığınca” ibaresi “Aile ve Sosyal Politikalar Bakanlığınca” şeklinde değiştirilmiştir.
 7226-2
 12/4/1991 TARİHLİ VE 3713 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER:
 1) 27/10/1995 tarih ve 4126 sayılı Kanunun Geçici Maddesi:
