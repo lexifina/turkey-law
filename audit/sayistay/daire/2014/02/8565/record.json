@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35186",
+  "decision_date": "2014-02-20",
+  "source_id": 8565,
+  "chamber": "2",
+  "ilam_number": "133",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8565/",
+  "source_sha256": "774a31d3f620d9f81fe141c63f8bc9435f0def2ba217e65ec77bc1b7e8098feb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
