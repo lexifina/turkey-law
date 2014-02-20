@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-02-20",
+  "issue": "28919",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Dumlupınar Üniversitesi Öğrenci Sağlık İşleri ve Sağlık Raporları Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140220-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140220.htm",
+  "index_sha256": "bb3439ed9b94f447f64459e558713a401197fce722c13a9c6da6b3c553429ac8",
+  "index_header": "20 Şubat 2014 ... 28919 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140220.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
