@@ -33,3 +33,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 3
 6495 | 21, Ek Madde 1, Geçici Madde 13 | 2/8/2013
 Anayasa Mahkemesinin 4/7/2013 tarihli ve E:2012/100, K:2013/84 sayılı kararı | 10 uncu maddenin beşinci fıkrası | 2/8/2014
 6518 | Ek Madde 1, Geçici Madde 13 | 19/2/2014
+6519 | 20 | 22/2/2014

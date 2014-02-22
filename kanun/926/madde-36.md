@@ -7,8 +7,8 @@ a) (Değişik: 9/8/1991 - KHK - 445/2 md.; Aynen kabul 23/1/1992 - 3768/2 md.) K
 3. Firar veya izin tecavüzünde bulundukları askeri mahkeme kararı ile sabit olanların firarda veya izin tecavüzünde geçen süreleri,
 Kıdemlerinden düşülür.
 Bu işlem, firar, izin tecavüzü veya açıkta geçen süreler bakımından hükmün kesinleşmesini, şahsi hürriyeti bağlayıcı cezalar bakımından, cezanın kısmen veya tamamen infazını müteakip son rütbeye nasıp tarihinin düzeltilmesi suretiyle derhal yapılır.
-4402
 b) Silahlı Kuvvetler hesabına veya izinli olarak yurt içinde veya yurt dışında her çeşit öğrenim, kurs ve staja gönderilen subaylardan, öğrenim, kurs veya stajlarını bu kanun hükümlerine göre hazırlanacak yönetmelikte gösterilen süre ve şartlar içinde bitiremiyen başarısızlık veya diğer sebeplerle bu yönetmelikte gösterilen sürelerden fazla sınıfta kalmak suretiyle bu süre içerisinde bitirmelerine imkan olmıyan üniversiteler, yüksek okullar veya sınıf okulları yönetmeliklerine göre öğrencilikle ilişikleri kesilen, devamsızlık, başarısızlık, uygunsuz hallerinden dolayı eğitimlerine son verilen veya devre kaybedenlerin öğrenim, kurs veya stajda kaldıkları süreler kadar bekleme süreleri uzatılır. Yurt dışına öğrenim, kurs veya staja gönderilenler için bu süre yurt dışına çıkış ve dönüş tarihleri arasında geçen süredir.
+4402
 c) Harp Akademileri tahsili, Gülhane Askeri Tıp Akademisinde tıpta uzmanlık öğrenimi, sıhhi sebeplerle devamsızlık, yönetmelikte gösterilen özel nitelik istiyen kurslar ve üç ay dahil daha az süreli kurslar için (b) bendi hükümleri uygulanmaz.(1)
 d) (Değişik: 5/4/2007 - 5621/1 md.) Kuvvet Harp Akademileri öğrenimini tamamlayıp kurmaylığı onaylanan subaylara iki yıl, bunlardan Silahlı Kuvvetler Yüksek Sevk ve İdare Akademisinden mezun olanlara ayrıca bir yıl olmak üzere toplam üç yıl; (2)
 Harp Akademileri Komutanlığınca düzenlenen ve iki yarı yıllık programı içeren komutanlık ve karargâh subaylığı öğrenimini bitiren subaylara bir yıl;

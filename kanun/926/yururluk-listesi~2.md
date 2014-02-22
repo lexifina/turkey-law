@@ -16,8 +16,7 @@ No. Farklı tarihte yürürlüğe giren maddeler giriş tarihi
 1827 — 29/6/1974
 1875 — 25/4/1975
 1876 — 25/4/1975
-1923 20-37 nci maddesine bağlı gösterge tabloları, 38 inci maddesi, Ek Geçici 26, Ek
-Geçici 27, Ek Geçici 31, Ek Geçici 32 ve
+1923 20-37 nci maddesine bağlı gösterge tabloları, 38 inci maddesi, Ek Geçici 26, Ek Geçici 27, Ek Geçici 31, Ek Geçici 32 ve
 Ek Geçici 33 üncü maddeleri 1/3/1975
 Diğer hükümleri 11/7/1975
 1933 — 29/1/1976
@@ -40,12 +39,8 @@ Kanun Yürürlüğe
 No. Farklı tarihte yürürlüğe giren maddeler giriş tarihi
 2379 Bu Kanun
 a) 2 nci maddesi hükümleri;
-1 – 926 Sayılı Türk Silahlı Kuvvetleri Personel Kanununun
-144 üncü maddesinden yararlanıp yurtdışı sürekli
-görevlere gönderilen personel ile 521 sayılı Danıştay
-Kanununa 22 Mayıs 1975 gün ve 1903 sayılı Kanunla
-eklenen ek geçici 2. madde hükümlerinden yararlanan
-personel hakkıda; 1/3/1980
+1 – 926 Sayılı Türk Silahlı Kuvvetleri Personel Kanununun 144 üncü maddesinden yararlanıp yurtdışı sürekli görevlere gönderilen personel ile 521 sayılı Danıştay Kanununa 22 Mayıs 1975 gün ve 1903 sayılı Kanunla eklenen ek geçici 2. madde hükümlerinden yararlanan personel hakkın
+da; 1/3/1980
 2 – Yukarıda bir numaralı bent dışında kalan personel hakkında 1/1/1981
 b) Diğer hükümleri 1/1/1981 tari-
 hinden geçerli
@@ -118,8 +113,6 @@ b) 30 ve 38 inci maddeleri 1/7/1990
 c) 34 üncü maddesi 15/1/1991
 d) 4, 5, 11, 23, 24, 25, 26, 29 ve 40 ıncı maddeleri Yayımını izleyen
 aybaşında
-e) 39 uncu maddesi 1990 - 1991 öğrenim döneminde
-uygulanmaya başlanmak üzere, bu konuda Bakanlar
-Kurulunca esas ve usullerin tesbitini izleyen aybaşında
+e) 39 uncu maddesi 1990 - 1991 öğrenim döneminde uygulanmaya başlanmak üzere, bu konuda Bakanlar Kurulunca esas ve usullerin tesbitini izleyen aybaşında
 f) Diğer maddeleri 11/4/1990
 4476

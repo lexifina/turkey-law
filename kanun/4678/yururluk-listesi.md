@@ -1,7 +1,11 @@
-6191 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
-MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
+4678 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN
+MEVZUATIN VEYA ANAYASA MAHKEMESİ TARAFINDAN İPTAL
+EDİLEN HÜKÜMLERİN YÜRÜRLÜĞE GİRİŞ TARİHİNİ
 GÖSTERİR LİSTE
-Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 6191 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
-6336 | 3, 7 | 30/6/2012
-6413 | 6 | 16/2/2013
-6496 | 4, 5, 7, 8, Ek Madde 1 | 31/7/2013
+Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4678 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+5907 | 3, 4, 5, 8, 9, 12, 13, 14, 15, 16, 18, 19, 20, 22, 23, 24 | 3/7/2009
+6318 | 4, 5, 7, 11, 24 | 3/6/2012
+6336 | 4, 8 | 30/6/2012
+6413 | 12, 13 | 16/2/2013
+6496 | 6 | 31/7/2013
+6519 | 3, 18 | 22/2/2014

@@ -1,6 +1,5 @@
 Yürütme
 MADDE 12 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-11458
 (1) SAYILI CETVEL
 SÖZLEŞMELİ ERBAŞ/ERLER İÇİN AYLIK GÖSTERGE TABLOSU
 Hizmet Yılı | Oran
