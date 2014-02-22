@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-02-22",
+      "22.02.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28921",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-02-22",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Bartın Üniversitesi",
+  "issuer_slug": "bartin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bartin-universitesi/2014/19420",
+  "published": "2014-02-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19420&MevzuatTertip=5",
+  "source_bytes": 27716,
+  "source_id": "8.5.19420",
+  "source_sha256": "15b34a73ab659c8625875ad1c92f50cfaeea73711c25dc4dc3db02fac842492a",
+  "text_status": "as-enacted",
+  "title": "BARTIN ÜNİVERSİTESİ MERKEZİ ARAŞTIRMA LABORATUVARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 348,
+  "word_count": 1105
+}
