@@ -3,7 +3,7 @@ Kıdem
 I – Kıdem ve kıdem sırası:
 Madde 84 – (Değişik: 2/7/2000 - KHK - 607/10 md.; Değiştirilerek kabul: 10/5/2006-5497/7 md.)
 Kıdem ve kıdem sırası aşağıdaki esaslara göre düzenlenir:
-a) Rütbelerde kıdemler, bakanlık onayı metninde yazılı tarihten başlar.
+a) Rütbelerde kıdemler, onay metninde yazılı tarihten başlar. (1)
 b) Aynı günde astsubaylığa nasbedilenler arasında kıdem sırası, okullarda kazanılan not ortalamalarına göre tespit edilir ve bunlar kendi aralarında sıralanırlar.
 c) Aynı rütbe ve nasıplılar arasında kıdem sırası, her yıl tespit edilen yeterlik derecesine göre saptanır. Aynı rütbe ve nasıplı olup, değişik kaynaklardan yetiştiğinden yeterlik derecesi kıyaslanamayan astsubaylar arasındaki kıdem sırası aşağıda belirtilmiştir:
 1. Astsubay meslek yüksekokulu mezunları.
@@ -27,4 +27,6 @@ f) Kuvvetleri ayrı olan aynı rütbe ve aynı nasıplı astsubayların kıdem s
 3. Bütün şartlar aynı ise mensup olduğu kuvvete göre sıra ile kara, deniz, hava, jandarma, sahil güvenlik,
 diğerlerine nazaran kıdemlidir.
 Yukarıda belirtilen ilkelere göre kıdem ve kıdem sırasının belirlenmesine ilişkin diğer usûl ve esaslar Astsubay Sicil Yönetmeliğinde gösterilir.
+–––––––––––––
+(1) 11/2/2014 tarihli ve 6519 sayılı Kanunun 34 üncü maddesiyle, bu bentte yer alan “bakanlık onayı” ibaresi “onay” şeklinde değiştirilmiştir.
 4419

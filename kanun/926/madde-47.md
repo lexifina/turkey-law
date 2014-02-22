@@ -3,7 +3,7 @@ General ve Amiral Terfileri
 I – Rütbe terfii:
 Madde 47 – (Değişik: 7/7/1971 - 1424/16 md.)
 Rütbe terfii şartları şunlardır:
-a) Rütbeye mahsus bekleme süresini tamamlamış olmak,
+a) (Değişik: 11/2/2014-6519/29 md.) Bu Kanunun 54 üncü maddesinde belirtilen durumlar haricinde rütbeye mahsus bekleme süresini tamamlamış olmak,
 b) (Değişik: 22/7/1981 - 2497/2 md.) Rütbeye mahsus en az bir yıllık sicili bulunmak.
 4407
 c) Üst rütbe kadrosunda 49 uncu maddedeki oranlar içinde açık bulunmak,

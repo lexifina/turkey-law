@@ -4,9 +4,10 @@ a) Subay veya astsubay nasbedildikten sonra yabancı memleketlere altı ay veya 
 b) Subay veya astsubay nasbedildikten sonra; Silahlı Kuvvetler hesabına yurt içindeki fakülte ve yüksekokullarda lisans veya lisansüstü öğrenim yapanların yükümlülükleri, buralarda geçen süreler kadar uzatılır.
 c) Harp Akademileri Eğitimi bünyesinde verilen Kuvvet Harp Akademisi ve Silahlı Kuvvetler Akademisi eğitimlerini bitiren subayların yükümlülükleri, buralarda geçen süreler kadar uzatılır.
 ç) Silahlı Kuvvetler hesabına yurt içinde Tıpta Uzmanlık Eğitimini bitirenlerin yükümlülükleri, buralarda geçen sürelerin yarısı kadar uzatılır.
-d) Pilotaj eğitimini (pilot adaylarına verilen uçuş eğitimi) bitirenlerin yükümlülükleri, buralarda geçen sürelerin iki katı kadar uzatılır.
+d) Pilotaj eğitimini (pilot adaylarına verilen uçuş eğitimi) bitirenlerin yükümlülükleri, buralarda geçen sürelerin üç katı kadar uzatılır. (2)
 ——————————
 (1) 22/5/2012 tarihli ve 6318 sayılı Kanunun 48 inci maddesi ile bu madde başlığı “II – Yurt içinde ve dışında öğrenim, kurs ve staj yapanlar ile yurt dışına sürekli göreve atananların yükümlülükleri” iken metne işlendiği şekilde değiştirilmiştir.
+(2) 11/2/2014 tarihli ve 6519 sayılı Kanunun 37 nci maddesiyle, bu bentte yer alan “iki” ibaresi “üç” şeklinde değiştirilmiştir.
 4426
 e) Yurt dışı sürekli göreve atanan subay veya astsubayların yükümlülükleri, buralarda geçen süreler kadar uzatılır. Ancak, yaş haddinden veya kadrosuzluktan emekli edileceklere bu yükümlülük süresi uygulanmaz.
 f) (a), (b), (c), (ç), (d) ve (e) bentleri gereğince yükümlülüklere eklenecek hizmet sürelerinin başlangıç tarihleri;

@@ -16,7 +16,6 @@ C) İkmal maddesi kapsamında bulunan her cins malzeme, parça, makine, tezgah, 
 (f) Kullanılması men olup da imhası cihetine gidilecek olanları,
 4. Maden hurdası:
 Bunlardan bir veya birden ziyade maden veya madeni halitalardan mamul olanları veya yapılışları itibariyle madeni aksamı galip bulunanları
-5. Hizmet:
-(Değişik : 5/4/2001 - 4637/2 md.) Taraflar (kamu veya özel nitelikteki kuruluş ve şahıslar ile dost veya müttefik devletler, bu devletlerde bulunan kamu veya özel nitelikteki kurum veya kuruluşlar) arasındaki anlaşmaya göre; bir işin yapılması için verilecek eğitim, teknik bilgi, bakım, onarım, kurtarma, liman ve müşavirlik desteği ile mülkiyeti elde olmak kaydıyla tahsis edilebilecek kara, deniz ve hava araçları, gereç, silah, bina ve araziyi:
-(Ek : 5/4/2001 - 4637/2 md.) Ancak, dost ve müttefik devletlerde bulunan kamu veya özel nitelikteki kurum veya kuruluşlar hakkında birinci fıkranın (5) numaralı bendindeki tahsis hükmü uygulanmaz.
-6725
+5. (Değişik: 11/2/2014-6519/48 md.) Hizmet:
+Taraflar (kamu veya özel nitelikteki kuruluş ve şahıslar ile dost veya müttefik devletler, bu devletlerde bulunan kamu veya özel nitelikteki kurum veya kuruluşlar) arasındaki anlaşmaya göre bir işin yapılması için; verilecek eğitim, teknik bilgi, destek, geliştirme, bakım, onarım, kurtarma, imha, liman ve müşavirlik desteği ile mülkiyeti elde olmak kaydıyla tahsis edilebilecek kara, deniz ve hava araç, gereç, silahları, bina ve araziyi;
+(Ek : 5/4/2001-4637/2 md.; Değişik: 11/2/2014-6519/48 md.) Ancak, Türk Silahlı Kuvvetleri tarafından yürütülen savunma ve güvenlik ile ilgili proje veya ön çalışmaları kapsamında bulunan tahsisler dışında, dost veya müttefik devletlerde bulunan özel nitelikteki kuruluşlar hakkında birinci fıkranın (5) numaralı bendindeki tahsis hükmü uygulanmaz.

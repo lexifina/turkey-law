@@ -3,7 +3,7 @@ Terfi Esas ve Şartları
 I – Rütbe terfi şartları ve esasları:
 Madde 38 – (Değişik: 29/9/1988 - 3475/3 md.)
 Rütbe terfi şartları aşağıda gösterilmiştir.
-a) Rütbeye mahsus bekleme süresini tamamlamış olmak,
+a) (Değişik: 11/2/2014-6519/28 md.) Bu Kanunun 54 üncü maddesinde belirtilen durumlar haricinde rütbeye mahsus bekleme süresini tamamlamış olmak,
 b) (Değişik : 21/7/2000 - KHK - 607/6 md.; Aynen kabül: 10/5/2006-5497/5 md.) Rütbeye mahsus normal bekleme süresinin binbaşılarda üç, albaylarda iki yıllık, diğer rütbelerde üçte ikisi oranında, kıdem alanlar için fiili bekleme süresinin (albaylar hariç) binbaşılarda iki yıllık diğer rütbelerde üçte ikisi oranında yıllık sicili bulunmak,
 c) Subay Meslek Programları Yönetmeliğinde gösterilen kıt'a hizmetlerini yapmış olmak,
 d) Üst rütbe kadrosunda açık bulunmak,

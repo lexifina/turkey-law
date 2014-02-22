@@ -2,7 +2,7 @@
 Kıdem
 I – Kıdem ve kıdem sırası:
 Madde 37 – Kıdem ve kıdem sırası aşağıdaki esaslara göre düzenlenir:
-a) Rütbelerde kıdemler, terfi kararnamesinin metninde yazılı tarihten başlar.
+a) Rütbelerde kıdemler, terfi onayı metninde yazılı tarihten başlar. (1)
 Aynı günde subaylığa nasbedilenlerin arasındaki kıdem sırası:
 Harp okulları, fakülte ve yüksek okulları bitirenlerin kıdemleri harp okullarında fakülte veya yüksek okullarda kazanılan not ortalamalarına göredir.
 Bunlar kendi aralarında sıralanırlar.
@@ -11,13 +11,15 @@ b) Aynı rütbe ve aynı nasıplar arasında kıdem sırası:
 2. (Değişik: 19/6/2010-6000/16 md.) Aynı rütbe ve aynı nasıplı olup değişik kaynaklardan yetiştiğinden yeterlik derecesi kıyaslanamayan subaylar arasında kıdem sırası aşağıdaki önceliğe göredir:
 aa) Harp okullarından mezun olan subaylar,
 bb) Silahlı Kuvvetler adına fakülte ve yüksek okullarda yetiştirilen subaylar,
+––––––––––––––––
+(1) 11/2/2014 tarihli ve 6519 sayılı Kanunun 27 nci maddesiyle, bu bentte yer alan “kararnamesinin” ibaresi “onayı” şeklinde değiştirilmiştir.
+4402-2
 cc) Askerlik hizmeti sırasında veya müteakiben muvazzaf subay nasbedilenler,
 dd) Sözleşmeli subaylıktan muvazzaf subaylığa geçirilenler,
 ee) Astsubaylıktan muvazzaf subaylığa geçirilenler,
 ff) Sivil kaynaktan muvazzaf subaylığa geçirilenler,
 gg) Sözleşmeli subaylar,
 hh) Yedek subaylar.
-4402-2
 3. (Değişik: 7/7/1971 - 1424/8 md.) Çeşitli sınıflara mensup aynı rütbe ve aynı nasıplı subaylar arasında kıdem sırası:
 Kadrodaki sınıfı esas olmak üzere bunların dahil bulundukları yeterlik derecelerine, yeterlik dereceleri aynı olanların hizmet sürelerine göre tespit edilir. Hizmet süreleri de aynı olanların bir evvelki rütbelerindeki yeterlik dereceleri esastır.
 c) Her ne sebeple olursa olsun sınıfı değiştirilenlerin kıdem sırası:

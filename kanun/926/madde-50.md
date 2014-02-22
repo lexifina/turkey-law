@@ -15,7 +15,7 @@ Bu şekilde emeklilik işlemine; terfi şartlarını taşımayan, Yüksek Askeri
 (2) 31/1/2013 tarihli ve 6413 sayılı Kanunun 45 inci maddesiyle, bu fıkrada yer alan “disiplinsizlik, ahlaki durum” ibaresi madde metninden çıkarılmıştır.
 4411
 b) (Değişik: 17/4/1975 - 1876/2 md.) Yetersizlik nedeniyle ayırma;
-1. Rütbe bekleme süresi sonunda veya sonraki yıllarda sicil notu ortalaması sicil tam notunun % 50 sinden aşağı düşen yüzbaşı ve binbaşılar ile % 60 ının altına düşen yarbay ve albaylar,
+1. (Değişik: 11/2/2014-6519/31 md.) Teğmen rütbesi hariç olmak üzere son on yıl içinde, ikisi farklı birinci ve ikinci sicil üstlerinden olmak üzere üçüncü kez sicil tam notunun %60’ından daha düşük sicil notu alan subaylar,
 2. Subay Sicil Yönetmeliğinde gösterilen esaslara göre kendisinden istifade edilemeyeceği sıralı sicil üstlerinin düzenleyeceği sicil belgesi ile anlaşılan subaylar;
 Hakkında hizmet sürelerine bakılmaksızın T.C. Emekli Sandığı Kanunu hükümleri uygulanır.
 c) (Mülga: 31/1/2013-6413/45 md.)

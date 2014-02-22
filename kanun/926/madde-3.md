@@ -13,10 +13,10 @@ f) En çok bekleme süresi: Subayların ve astsubayların bulundukları rütbede
 g) Terfi yılı: Her yılın 30 Ağustos tarihinden başlayıp ertesi yılın 30 Ağustos tarihine kadar geçen süredir.
 h) Kademe bekleme süresi: Subayların ve astsubayların kademe ilerlemesi için her kademede bekliyecekleri en az bir terfi yılıdır.
 i) Kademe ilerlemesi: Kademe bekleme süresi sonundaki maaş artışıdır.
-j) Yeterlik: Ahlaki, askeri, mesleki, zihni kifayet ve üst rütbeye liyakattır.
+j) (Değişik: 11/2/2014-6519/23 md.) Yeterlik: Ahlaki, askerî, mesleki, fiziki, zihni kifayet ve üst rütbeye liyakattir.
 k) (Değişik: 28/7/1998 - 4374/1 md.) Yeterlik Derecesi: Sicil notu ortalamasına göre aynı sınıf ve rütbede olan subayların ve astsubayların kendi aralarındaki derecelenmeleridir.
-l) (Değişik: 7/7/1971 - 1424/1 md.) Yıllık kontenjan: Her rütbedeki general ve amiral sayısının bekleme sürelerine bölümü sonucu çıkan miktardır.
-m) (Değişik: 18/6/2003-4902/16 md.) Sicil notu : Sicil belgelerine sicil üstlerince yapılan işaretlemelerin, Sicil Yönetmeliğinde belirlenecek esaslar dahilinde, kuvvet komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca nota tahvil edilmesi sonucu bulunan notların ortalamasıdır.
+l) (Değişik: 11/2/2014-6519/23 md.) Yıllık kontenjan: Her rütbedeki general ve amiral sayısının bekleme sürelerine bölümü sonucu çıkan miktardır. Yüksek Askerî Şûra kararı ile yıllık kontenjanlarda değişiklik yapılabilir.
+m) (Değişik: 11/2/2014-6519/23 md.) Sicil notu: Sicil üstü değerlendirme notlarının ortalaması ile general ve amiraller hariç fiziki yeterlik değerlendirme testinden elde edilen notun, sicil yönetmeliğinde belirlenecek esaslar dâhilinde, kuvvet komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca toplanmasıyla tespit edilen nottur.
 n) (Değişik: 9/1/2003-4788/1 md.) Sicil notu ortalaması :
 A) 1. Teğmen rütbesi için; bulunulan rütbede alınan muteber sicil notlarının aritmetik ortalamasıdır.
 2. Üsteğmen rütbesi için; teğmenliğe nasıptan itibaren alınan muteber sicil notlarının aritmetik ortalamasıdır.
@@ -35,12 +35,12 @@ o) (Değişik: 7/7/1971 - 1424/1 md.) Değerlendirme notu: Yüksek Askeri Şüra
 p) (Değişik: 28/7/1998 - 4374/1 md.) Yeterlik notu:
 1. General-amiral rütbelerinde; bulunulan rütbedeki sicil notlarının ortalaması ile değerlendirme notunun toplamıdır.
 2. Albay rütbesinde; sicil notu ortalaması ile değerlendirme notunun toplamıdır.
-r) (Değişik: 28/7/1998 - 4374/1 md.) Sicil tam notu: Sicil belgelerinde yazılı niteliklerden her biri için, Sicil Yönetmeliğinde gösterilecek notların toplamıdır.
+r) (Değişik: 11/2/2014-6519/23 md.) Sicil tam notu: Sicil tam notu yüzdür.
 s) (Ek: 17/4/1975 - 1875/1 md.; Değişik: 26/3/1982 - 2642/1 md.) Lisansüstü öğrenim: Kuvvet Harp Akademileri, yüksek lisans (bilim uzmanlığı, yüksek mühendislik, yüksek mimarlık, master) veya doktora öğrenimleri ile tıpta,diş tabipliğinde, veterinerlikte ve eczacılıkta uzmanlık öğrenimine veya doçentlik için yapılan öğrenime bu Kanunun uygulanmasında lisansüstü öğrenim denir.
-ş) (Ek: 29/9/1988 - 3475/1 md.; mülga: 28/7/1998 - 4374/6 md.)
+ş) (Ek: 29/9/1988 - 3475/1 md.; Mülga: 28/7/1998 - 4374/6 md.)
+4392-2
 t) (Ek: 29/9/1988 - 3475/1 md.; İptal: Ana. Mah.’nin 31/12/1992 tarih ve E: 1992/40, K: 1992/55 sayılı Kararı ile.)
 u) (Ek: 29/9/1988 - 3475/1 md.; İptal: Ana. Mah.'nin 31/12/1992 tarih ve E: 1992/40, K: 1992/55 sayılı Kararı ile.)
-4392-2
 ü) (Ek: 29/9/1988 - 3475/1 md.; İptal: Ana. Mah.'nin 31/12/1992 tarih ve E: 1992/40, K: 1992/55 sayılı Kararı ile.)
 v) (Ek: 29/9/1988 - 3475/1 md.; İptal:Ana. Mah.'nin 31/12/1992 tarih ve E: 1992/40, K: 1992/55 sayılı Kararı ile.)
 y) (Ek: 9/8/1993 - KHK - 499/1 md.) Kadro: Barışta Türk Silahlı Kuvvetlerinin hizmetlerini etkin bir şekilde yürütebilmek için ihtiyaç duyduğu personelin rütbe, sınıf ve varsa branşına göre tespit edilen miktarıdır.
