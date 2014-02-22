@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-06-06",
+      "06.06.2013",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2014-02-22",
+      "RG-22/2/2014-28921",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-02-22",
+      "22/02/2014",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-22/2/2014-28921",
+  "first_law": null,
+  "gazette": "28669",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-02-22",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Bartın Üniversitesi",
+  "issuer_slug": "bartin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bartin-universitesi/2013/18444",
+  "published": "2013-06-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18444&MevzuatTertip=5",
+  "source_bytes": 24516,
+  "source_id": "8.5.18444",
+  "source_sha256": "a0a54c212a4863d8d654cf0f2f4c647c2f16f96b9507cbd4fa65cecc412611a8",
+  "text_status": "current-consolidated",
+  "title": "BARTIN ÜNİVERSİTESİ YENİLENEBİLİR ENERJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 348,
+  "word_count": 1137
+}
