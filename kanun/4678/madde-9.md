@@ -1,3 +1,3 @@
-Özel hükümler ve yönetmelik
-MADDE 9 – (1) Bu Kanunda hüküm bulunmayan hâllerde, 1111 sayılı Kanun hükümleri uygulanır.
-(2) Sözleşmeli er temin etmekten sorumlu birimler, sözleşmeli erbaş ve erlerde aranacak nitelikler, “sözleşmeli erbaş ve er olur” belgesi düzenleme esasları, müracaat şekli ve zamanı, müracaatın kabul edilmesi, sınav merkezi olarak tespit edilecek komutanlıkların belirlenmesi, sınav heyetlerinin oluşturulması, sözleşmeli onbaşılığa veya sözleşmeli çavuşluğa yükseltilme, sözleşme yapma ve feshi, askerî eğitim, değerlendirmeye esas alınacak nitelik belgesi, görevde başarısız olma ve kendilerinden istifade edilememe hâlleri ve bunlara yapılacak işlemler ile diğer hususlardaki usul ve esaslar altı ay içerisinde Milli Savunma Bakanlığı ve İçişleri Bakanlığınca müştereken yürürlüğe konulan yönetmelikle düzenlenir.
+Yetiştirme
+Madde 9 – (Değişik: 16/6/2009-5907/5 md.)
+Sözleşmeli astsubay adayları, yapılacak ön sözleşmeyi müteakip askeri eğitime alınır. Askeri eğitim ve Türk Silahlı Kuvvetlerinde askerliğini 16/6/1927 tarihli ve 1076 sayılı Kanuna göre kısa dönem erbaş veya er ya da 21/6/1927 tarihli ve 1111 sayılı Kanuna tabi erbaş ve er olarak yapanlar ile yapmakta olanlardan sözleşmeli astsubaylığa başvuranların tabi olacakları askeri eğitim ile ilgili esaslar yönetmelikte düzenlenir.

@@ -10,5 +10,4 @@ Haklarında kamu davası açılacaklar ile daha önce kamu davası açılmış o
 –––––––––––––––––
 (1) 6/2/2014 tarihli ve 6518 sayılı Kanunun 40 ıncı maddesiyle, bu fıkrada yer alan “Aile ve Sosyal Politikalar Bakanlığı” ibaresi “İçişleri Bakanlığı” şeklinde değiştirilmiştir.
 (2)Bu maddenin ikinci fıkrasındaki "Duruşmalara gelmeyen sanıkların savcı veya hakim huzurunda alınmış mevcut beyanları ile yetinilir." hükmü Ana. Mah.'nin 31/3/1992 tarih ve E.:1991/18, K.:1992/20 sayılı kararı ile iptal edilmiş olup, iptal hükmü, sözkonusu kararın yayımı tarihi olan 27 Ocak 1993 tarihinden başlayarak altı ay sonra yürürlüğe girmiştir.
-7224-2
 7225

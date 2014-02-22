@@ -1,11 +1,23 @@
-Sözleşme, hizmet şartları ve yedeklik dönemi
-MADDE 4 – (1) Sözleşmeli er adayları, ön sözleşme yapılarak askerî eğitime alınır. Askerî eğitimi başarı ile tamamlayanlarla, dört yıldan fazla olmamak kaydıyla en az üç yıllık sözleşme yapılır. Müteakip sözleşmeler, bir yıldan az üç yıldan fazla olmamak şartıyla azamî yedi yıllık hizmet süresi sonuna kadar uzatılabilir.(1)
-_________________
-(1) 13/7/2013 tarihli ve 6496 sayılı Kanunun 1 inci maddesi ile bu fıkrada yer alan “yirmidokuz yaşın bitirildiği yılın aralık ayı” ibaresi “yedi yıllık hizmet süresi” olarak değiştirilmiştir.
-11451
-(2) Sıkıyönetim, seferberlik, savaş veya terörle mücadeleden kaynaklanan zorunlu hâllerde ihtiyaç duyulanların sözleşme süreleri, talebe ve yaş haddine bakılmaksızın Kuvvet Komutanları, Jandarma Genel Komutanı veya Sahil Güvenlik Komutanının istemi üzerine ve durumun devamı müddetince, Genelkurmay Başkanının onayı ile uzatılabilir.
-(3) Sözleşmeli erbaş ve erler ile sözleşmeli er adayları, asker kişi sayılırlar. Sözleşmeli erbaşlar, muvazzaflık hizmetinde olan emsal rütbedeki erbaşların üstü, emsal rütbedeki uzman erbaşların astıdır. Sözleşmeli erbaşlar hakkında rütbenin geri alınması feri cezası uygulanmaz.
-(4) Sözleşmeli erbaş ve erler istihdam edildikleri kadro görevleri ile 4/1/1961 tarihli ve 211 sayılı Türk Silahlı Kuvvetleri İç Hizmet Kanununda erbaş ve erler için belirtilen görevleri yaparlar. Bu Kanunda hüküm bulunmayan hâllerde sözleşmeli erbaş ve erler hakkında, erbaş ve erlere ilişkin hükümler uygulanır.
-(5) Sözleşmeli erbaş ve erlerin sınıfları, Kuvvet Komutanlıkları, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığınca değiştirilebilir.
-(6) Sefer görev emirleri, askerlik yükümlülüğünü yerine getirdikleri sınıf, branş ve statüye göre çıkarılır.
-(7) Terhis kaydı, yedeklik yoklaması, hizmete celp, eğitim ve tatbikat gibi yedeklik dönemine ilişkin olarak bu Kanunda düzenlenmeyen hususlarda, 21/6/1927 tarihli ve 1111 sayılı Askerlik Kanunu ile 16/6/1927 tarihli ve 1076 sayılı Yedek Subaylar ve Yedek Askerî Memurlar Kanununun ilgili hükümleri uygulanır.
+İKİNCİ KISIM
+Sözleşmeli Subaylar
+BİRİNCİ BÖLÜM
+Kaynak ve Yetiştirme
+Kaynak
+Madde 4 – (Değişik: 16/6/2009-5907/2 md.)
+(Değişik birinci fıkra: 26/6/2012-6336/20 md.) Sözleşmeli subay kaynaklarını; en az dört yıllık fakülte veya yüksekokulları bitirenlerden düzeltilmemiş nüfus kaydına göre müracaat yapılan yılın ocak ayının ilk günü itibarıyla yirmiyedi yaşını, lisansüstü eğitimini tamamlamış olanlardan otuziki yaşını bitirmemiş olanlar teşkil eder.
+Askeri okullardan ve Türk Silahlı Kuvvetlerinden her ne sebeple olursa olsun ilişikleri kesilen personel, Türk Silahlı Kuvvetlerine sözleşmeli subay olarak alınmaz. (Değişik cümle: 22/5/2012-6318/68 md.) Ancak, askerlik yükümlülüğünü yerine getirmekte olanlar veya terhis edilenler sözleşmeli subay olabilirler.
+Sözleşmeli subaylık için genel olarak aşağıdaki nitelikler aranır:
+a) Türk vatandaşı olmak.
+b) Bu Kanunda belirtilen öğrenim ile ilgili koşulları taşımak.
+c) Sağlık ile ilgili Yönetmelikte belirtilen şartları taşımak.
+d) Kamusal hakları kullanmaktan yoksun bırakılmamış olmak.
+e) Cezaları ertelenmiş, seçenek yaptırımlardan birisine çevrilmiş, genel ya da özel af kanunları kapsamına girmiş veya haklarında hükmün açıklanmasının geri bırakılmasına karar verilmiş olsa dahi;
+1) Devletin güvenliğine karşı işlenen suçlar, halkı askerlikten soğutmak, Türk Milletini, Türkiye Cumhuriyeti Devletini, Devletin kurum ve organlarını aşağılama ile zimmet, irtikap, iftira, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, yalan tanıklık, yalan yere yemin, suç uydurma, cinsel saldırı, cinsel taciz, kişiyi hürriyetinden yoksun bırakmak, fuhuş, gayri tabii mukarenet, hileli iflas gibi yüz kızartıcı veya şeref ve haysiyet kırıcı suçlar ile kaçakçılık, ihaleye fesat karıştırma, devlet sırlarını açığa vurma suçlarından birisinden,
+2) Firar, amir veya üste fiilen taarruz, emre itaatsizlikte ısrar, üste hakaret, mukavemet, fesat ve isyan suçlarından,
+3) 22/5/1930 tarihli ve 1632 sayılı Kanunun 148 inci maddesinde belirtilen suçlardan birisinden,
+mahkum olmamak.
+f) Güvenlik soruşturması olumlu sonuçlanmış olmak.
+g) Yapılacak olan sınavlarda başarılı olmak.
+7967
+Türk Silahlı Kuvvetlerinde istihdam edilenler ile yedek subay olarak askerlik hizmetini yapanlar veya yapmakta olanların bu görevlerinde aldıkları sicilin, sicil tam notunun % 85 veya daha üstünde olması şarttır. Halen bu görevlerde bulunanlar ile askerlik hizmetini yapmakta iken müracaat edenlerin ayrıca, sıralı üstlerinden sözleşmeli subay olmaya layık olduklarına dair yönetmelikte belirtilen olumlu nitelik belgesi almaları zorunludur.
+Askeri hakim sınıfına, sözleşmeli subay statüsünde personel alınmaz.
