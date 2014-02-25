@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "51",
+  "decision_date": "2014-02-25",
+  "source_id": 8742,
+  "chamber": "5",
+  "ilam_number": "202",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8742/",
+  "source_sha256": "a26a420f0884c7f6dad7959195bd453660bc5b6f09a92a57ba8f8789b71ab765",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
