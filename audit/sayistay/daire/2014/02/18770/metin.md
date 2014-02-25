@@ -1,0 +1,3 @@
+Grup Mesaj hizmeti ile gönderilen mesajların bazılarının belediye hizmetleriyle ilgili olmamasına rağmen, bedellerinin Belediye bütçesinden ödenmesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Grup Mesaj hizmeti ile gönderilen mesajların bazılarının belediye hizmetleriyle ilgili olmamasına rağmen, bedellerinin Belediye bütçesinden ödenmesinden dolayı … TL kamu zararına neden olunduğu iddia edilmiş ise de; söz konusu mesajların şahsi mesaj olmadığı, Belediye Başkanı sıfatıyla önemli günlerde tüm belde halkına gönderildiği anlaşıldığından ilişilecek husus bulunmadığına ve … tarih ve … nolu banka dekontu ile yersiz tahsil edilen … TL’nin ahizlerine iadesine oy birliğiyle,
