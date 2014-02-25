@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "51",
+  "decision_date": "2014-02-25",
+  "source_id": 13662,
+  "chamber": "5",
+  "ilam_number": "202",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13662/",
+  "source_sha256": "510ab994fcb077d0085e08e2417b3ebba48880c56d27f78b0f43a1d405bc9e69",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
