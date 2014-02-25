@@ -1,0 +1,3 @@
+Belediyeye ait dükkanın Kooperatifin kullanımına verilerek kira bedeli tahsil edilmemesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;  … Belediyesine ait hizmet binasının ikinci katında bulunan dükkanın Temmuz 2002 tarihinden itibaren, … Kooperatifinin kullanımına verildiği ve söz konusu tarihten itibaren kira bedeli tahsil edilmemesi sonucu … TL kamu zararına neden olunduğu görülmüş ise de; bu kamu zararının … TL’sinin … tarih ve … nolu banka dekontu ile, … TL’sinin … tarih ve … nolu banka dekontu ile, … TL’sinin … tarih ve …nolu ödeme emri belgesi ile mahsuplaşma yoluyla, … TL’sinin … tarih ve … nolu ödeme emri belgesi ile mahsuplaşma yoluyla tahsil edildiği anlaşıldığından ilişilecek husus kalmadığına oy birliğiyle,
