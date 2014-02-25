@@ -1,0 +1,3 @@
+Belediye Meclisince oluşturulan ihtisas komisyonunun üyelerine yapılan huzur hakkı ödemelerinde, 5393 sayılı Belediye Kanunu’nda belirtilen miktardan fazla ödeme yapılması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Belediye Meclisi tarafından oluşturulan ihtisas komisyonu üyelerine yapılan huzur hakkı ödemelerinde, 5393 sayılı Belediye Kanunu’nda belirtilen miktardan fazla ödeme yapılmasından dolayı … TL kamu zararına neden olunduğu görülmüş ise de; söz konusu kamu zararı … tarih ve … nolu banka dekontu ile gecikme faizi ile birlikte toplam … TL olarak tahsil edildiğinden ilişilecek husus kalmadığına, oy birliğiyle
