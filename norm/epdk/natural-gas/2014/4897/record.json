@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4897",
+  "decision_date": "2014-02-27",
+  "title": "Palen Enerji Doğalgaz Dağıtım End. ve Tic. A.Ş.’nin 2012-2016 yılları arası perakende satış tarifelerine yönelik alınmış olan 03/01/2013 tarihli 4228 sayılı Kurul Kararının revize edilmesine ilişkin",
+  "resmi_gazete_date": "2014-03-06",
+  "resmi_gazete_number": "28933",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=te+8kdiU7Lw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=te+8kdiU7Lw="
+  ],
+  "source_sha256": "544226a05d7c1375216e9c4a7ecfde37c4376036bc33c67168e7b09aa001bfff",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-02-27",
+  "law_text_complete": false
+}
