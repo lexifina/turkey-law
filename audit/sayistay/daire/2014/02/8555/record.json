@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "15",
+  "decision_date": "2014-02-27",
+  "source_id": 8555,
+  "chamber": "7",
+  "ilam_number": "149",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8555/",
+  "source_sha256": "cc809bea5b296f7575c094dd892207ee9368a421b5d30be69c3aee8e3076d5bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
