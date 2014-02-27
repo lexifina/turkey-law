@@ -9,4 +9,6 @@ e) Organize Sanayi Bölgeleri Üst Kuruluşu (OSBÜK): OSB'lerin kendi araların
 7782
 f) Katılımcı: OSB’lerde, bir işletmenin kurulması için parsel tahsisi veya satışı yapılanlar ile maliki bulunduğu parselde üretimde bulunan veya bulunmayı taahhüt eden ve bu Kanunun amacına uygun faaliyet gösteren gerçek ve tüzel kişiyi,
 g) Kiracı: Katılımcının tesisini, yönetmelikte belirlenen esas ve usullere uygun biçimde kiralayan gerçek veya tüzel kişiyi,
+h) (Ek: 20/2/2014-6525/19 md.) Finansal Kiralama Şirketi: 21/11/2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanunu kapsamında kurulan finansal kiralama şirketlerini,
+i) (Ek: 20/2/2014-6525/19 md.) Finansal Kiracı: 6361 sayılı Kanun kapsamında finansal kiralamayı kabul eden gerçek veya tüzel kişiyi,
 ifade eder.

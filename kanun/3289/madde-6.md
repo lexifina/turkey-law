@@ -318,11 +318,17 @@ Tahkim Kurulunun asıl ve yedek üyeleri, bu maddenin yayımı tarihinden itibar
 Bu Kanunla tüzel kişilik kazanan spor federasyonları, bu maddenin yürürlüğe girdiği tarihten sonra yapılacak ilk ilgili olimpiyat oyunlarının bitim tarihlerinden itibaren üç ay içerisinde genel kurullarını yaparak hukuki yapılarını bu Kanuna uygun hale getirmek zorundadırlar.
 Geçici Madde 12- (Ek: 8/8/2011-KHK-649/54 md.)
 Spor Genel Müdürlüğü taşra teşkilatında İl Spor Müdürü ve İlçe Spor Müdürü kadrolarında bulunanların görevleri bu maddenin yürürlüğe girdiği tarihte sona erer. Bunlar ekli (2) sayılı liste ile ihdas edilen Araştırmacı kadrolarına halen bulundukları kadro dereceleriyle atanmış sayılır. Bu madde uyarınca ihdas edilen Araştırmacı kadroları, herhangi bir sebeple boşalması halinde hiçbir işleme gerek kalmaksızın iptal edilmiş sayılır. Bu madde uyarınca atanmış sayılan personelin yeni kadrolarına atanmış sayıldıkları tarih itibarıyla eski kadrolarına ilişkin olarak en son ayda aldıkları aylık, ek gösterge, her türlü zam ve tazminatları, ek ödeme ve benzeri adlarla yapılan her türlü ödemelerin (ilgili mevzuatı uyarınca fiili çalışmaya bağlı fazla mesai ücreti hariç) toplam net tutarının (bu tutar sabit bir değer olarak esas alınır); yeni atandıkları kadrolara ilişkin olarak yapılan aylık, ek gösterge, her türlü zam ve tazminatları, ek ödeme ve benzeri adlarla yapılan her türlü ödemelerin (ilgili mevzuatı uyarınca fiili çalışmaya bağlı fazla mesai ücreti hariç) toplam net tutarından fazla olması halinde aradaki fark tutarı, herhangi bir vergi ve kesintiye tabi tutulmaksızın fark kapanıncaya kadar ayrıca tazminat olarak ödenir. Atanmış sayıldıkları kadro unvanlarında isteğe bağlı olarak herhangi bir değişiklik olanlarla, kendi istekleriyle başka kurumlara atananlara fark tazminatı ödenmesine son verilir. Spor Genel Müdürlüğünün mevcut il ve ilçe müdürlükleri, gençlik hizmetleri ve spor il ve ilçe müdürlükleri olarak faaliyetlerine devam eder.
+Olimpik sporculara yardım
+Geçici Madde 13- (Ek: 20/2/2014-6525/17 md.)
+Genel Müdürlük tarafından 2020 yılı sonuna kadar yapılacak yaz ve kış olimpiyat oyunlarına hazırlanmak amacıyla olimpik ve paralimpik spor dallarında en az yıldızlar seviyesinde olmak kaydıyla seçilecek 4000 sporcu yetiştirilir.
+Yetiştirilecek sporcuların sportif amaçlı iaşe, ibate ve yol giderleri Genel Müdürlük tarafından karşılanır. Ayrıca bu sporculara asgari ücretin net tutarını geçmemek üzere; yaş grupları, branş farklılıkları, sporcuların karşılaması gereken kişisel giderler gibi hususlar da dikkate alınarak, gerektiğinde farklı tutarlarda belirleme yapılmak suretiyle her ay harçlık ödenir.
+6882-10
+Spor branşlarının ve sporcuların tespiti, verilecek harçlığın tutarı, iaşe, ibate ve yol giderlerinin karşılanması ile harçlık ödenmesine ilişkin usul ve esaslar Maliye Bakanlığının görüşü alınarak, Genel Müdürlük tarafından çıkarılacak yönetmelikle belirlenir.
+Bu maddeye göre yapılan harçlık ödemeleri damga vergisi hariç herhangi bir vergi ve kesintiye tabi tutulmaksızın ayda bir ödenir ve bu ödemeler hiçbir suretle haczedilemez.
 Yürürlük
 Madde 42 – Bu Kanun yayımı tarihinde yürürlüğe girer.
 Yürütme
 Madde 43 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-6882-10
 21/5/1986 TARİHLİ VE 3289 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER:
 1 – 14/3/1991 tarih ve 3703 sayılı Kanunun Geçici Maddeleri:
 Geçici Madde 1 – Bu Kanun ile kaldırılan Milli Eğitim Gençlik ve Spor Bakanlığı Gençlik Hizmetleri Genel Müdürlüğü personelinin yeni bir göreve atanıncaya kadar eski kadrolarına ait aylık, ek gösterge ve her türlü zam ve tazminat hakları devam eder.
