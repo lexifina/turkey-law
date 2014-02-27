@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-02-27",
+  "issue": "28926",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çalışma ve Sosyal Güvenlik Bakanlığında İstihdam Edilen Uzman ve Uzman Yardımcılığı Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140227-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140227.htm",
+  "index_sha256": "adb28be5aa833aaa31232fc22080a46154ffd0c408e97ce07a3046b6b15f1d62",
+  "index_header": "27 Şubat 2014 ... 28926 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/02/20140227.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
