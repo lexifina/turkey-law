@@ -1,0 +1,2 @@
+Yapılacak harcamalara ilişkin kanıtlayıcı belgeler
+MADDE 24 – (1) Yapılacak mal veya hizmet alımlarına ilişkin ödemelerde, ödeme karşılığında alınan fatura veya fatura yerine geçen belge ve diğer belgelerin bağlanması esas olup bunun dışında 31/12/2005 tarihli ve 26040 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Merkezi Yönetim Harcama Belgeleri Yönetmeliğinde belirtilen gider belgelerine ilişkin hükümler (taşınır işlem fişi hariç olmak üzere) kıyasen uygulanır.

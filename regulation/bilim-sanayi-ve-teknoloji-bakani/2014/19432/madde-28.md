@@ -1,0 +1,3 @@
+Değişiklik bildirimi ve onay süreci
+MADDE 28 – (1) Program kapsamında desteklenen projeler ile ilgili kapsam, süre, bütçe ve idari konularda gerekçeli olarak Genel Müdürlüğe sunulan değişiklik talepleri, San-Tez programı yürütme grubu tarafından, gerek görülmesi halinde izleyici görüşü de dikkate alınmak suretiyle değerlendirilip onaylandıktan sonra yürürlüğe girer.
+(2) Projelerde satın alınması öngörülen mal ve hizmetlerin türünün ve niceliğinin değişmemesi kaydıyla makine donanım, sarf malzeme ve hizmet alımı kalemleri arasında yapılacak aktarmalar ile seyahat kaleminden diğer kalemlere yapılacak aktarmalar, proje yürütücüsü tarafından değişikliklere ait gerekçeler belirtilmek suretiyle kuruma ve Bakanlığa bilgi verildikten sonra gerçekleştirilir.

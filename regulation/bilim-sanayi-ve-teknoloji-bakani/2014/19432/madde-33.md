@@ -1,0 +1,3 @@
+Fikri ve sınaî mülkiyet hakları
+MADDE 33 – (1) Bakanlık tarafından desteklenen projelerin gerçekleştirilmesi sırasında ortaya çıkan her türlü fikri ve sınaî mülkiyet haklarının paylaşımı, proje sözleşmesinin eki olmak üzere, proje ortakları arasında yapılacak bir anlaşma ile belirlenir.
+(2) Proje yürütücüleri, Bakanlık desteğini belirtmek şartıyla, yurt içinde veya yurt dışında araştırma ile ilgili makale yayımlayabilir ve tebliğ sunabilir. Yayımlanmak üzere kabul edilen makalelerin bir örneğinin Genel Müdürlüğe gönderilmesi zorunludur. Gizlilik gerektiren hallerde, koşullara uyulması yayın yapanların sorumluluğundadır.

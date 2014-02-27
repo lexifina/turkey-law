@@ -1,0 +1,4 @@
+Satın alma ve ihale işlemleri
+MADDE 17 – (1) Proje sözleşmesinde öngörülen mal ve hizmetlerin satın alınması talebi, proje yürütücüsü tarafından ilgili birime yapılır. Alımlar, yükseköğretim kurumlarında 1/12/2003 tarihli ve 2003/6554 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yükseköğretim Kurumları Tarafından, 4734 Sayılı Kamu İhale Kanununun 3 üncü Maddesinin (f) Bendi Kapsamında Yapılacak İhalelere İlişkin Kararda belirlenen esaslara, vakıf üniversitelerinde ise kendi alım esaslarına göre yapılır ve sonuçlandırılır.
+(2) Proje kapsamında yer alan mal ve hizmetler, proje ortaklarına ait firmalardan satın alınamaz, alınması halinde bunlara ait bedeller proje özel hesabına iade edilir.
+(3) Teknik şartnamenin hazırlanması, satın alınan mal ve hizmetlerle ilgili muayene ve kabul komisyonları proje personeli tarafından yerine getirilir. Proje personeli ayrıca, ihale komisyonlarında da teknik üye olarak yer alır.
