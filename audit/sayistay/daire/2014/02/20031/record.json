@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "70",
+  "decision_date": "2014-02-27",
+  "source_id": 20031,
+  "chamber": "6",
+  "ilam_number": "206",
+  "item_number": 4,
+  "public_body_type": "Diğer",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20031/",
+  "source_sha256": "5c086876aafc4890a13cb7176f1c78dcc23c88dbfa38150c2a51bbf79c44f49a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
