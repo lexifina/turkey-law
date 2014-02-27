@@ -1,0 +1,35 @@
+HAZİNE TEŞVİKİ UYGULAMASI
+
+..............’nin yükleniminde bulunan .............. ihale tarihli ve  .............. -TL sözleşme bedelli  ..............  Hizmet Alım İşine ilişkin hakediş ödemelerinde; yüklenicinin 4857 sayılı İş Kanunu’nun 30 uncu maddesinde düzenlenen özürlü sigortalılara yönelik Hazine teşvikinden yararlanmasına karşın fiyat farkı hesabında bu teşvikin dikkate alınmadan ödeme yapıldığı tespit edilmiştir.
+
+.............. ile  .............. arasında imzalanan  .............. Hizmet Alım İşinin  “Fiyat Farkı” başlıklı 14.2 inci maddesinde;
+
+“Bu sözleşme kapsamında yapılan işler için fiyat farkı verilecektir.
+
+Fiyat farkı; 4734 sayılı Kamu İhale Kanununa Göre İhalesi Yapılacak Olan Hizmet Alımlarına İlişkin Fiyat Farkı Hesabında Uygulanacak Esaslar ve 07.05.2004 tarih ve 25455 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren bu Esaslarda Değişiklik Yapılmasına Dair Esaslar çerçevesinde, Esasların 8. maddesine göre fiyat farkı verilecektir.
+
+Esasların 8 inci maddesinde ise;
+
+“İhale konusu hizmetin gerçekleştirilebilmesi için çalıştırılacak 506 sayılı Sosyal Sigortalar Kanununa tabi personelin, sayı ve günlük çalışma saatinin belirtilmesi kaydıyla;
+
+a) Asgari ücret tespit komisyonunca ihale (son teklif verme) tarihinde 16 yaşını doldurmuş işçiler için belirlenmiş asgari ücretin değiştirilmesi halinde eski ve yeni asgari ücret arasındaki fark,
+
+b) İhale (son teklif verme) tarihi itibarıyla işveren tarafından karşılanacak olan sosyal sigorta primi ve işsizlik sigortası primine ilişkin toplam tutarda; asgari ücret değişikliği veya sigorta primi alt sınır değişikliği ile prim oranlan değişikliği gibi sebeplerle meydana gelecek fark,
+
+c) 506 sayılı Kanunun 77 nci maddesinin ikinci fıkrası çerçevesinde sözleşmede öngörülen ücret ekleri nedeniyle, işveren tarafından karşılanmakta olan sosyal sigorta primi ve işsizlik sigorta primine ilişkin toplam tutarda meydana gelecek fark,
+
+toplamı (a), (b) ve (c) bentleri toplamı), 506 sayılı Kanun gereğince işveren nâm ve hesabına Hazinece yapılacak olan ödemeler de dikkate alınmak suretiyle bu Esasların 7 nci maddesi uygulanmaksızın ödenir veya kesilir. ” Denilmektedir.
+
+4857 sayılı İş Kanunun 30 uncu maddesinin 6 ncı fıkrasında;
+
+“Özel sektör işverenlerince bu madde kapsamında çalıştırılan 17/7/1964 tarihli ve 506 sayılı Sosyal Sigortalar Kanununa tabi özürlü sigortalılar ile 1/7/2005 tarihli ve 5378 sayılı Kanunun 14 üncü maddesinde belirtilen korumalı işyerlerinde çalıştırılan özürlü sigortalıların, aynı Kanunun 72 nci ve 73 üncü maddelerinde sayılan ve 78 inci maddesiyle belirlenen prime esas kazanç alt sınırı üzerinden hesaplanan sigorta primine ait işveren hisselerinin tamamı, kontenjan fazlası özürlü çalıştıran, yükümlü olmadıkları halde özürlü çalıştıran işverenlerin bu şekilde çalıştırdıkları her bir özürlü için prime esas kazanç alt sınırı üzerinden hesaplanan sigorta primine ait işveren hisselerinin yüzde ellisi Hazinece karşılanır. İşveren hissesine ait primlerin Hazinece karşılanabilmesi için işverenlerin çalıştırdıkları sigortalılarla ilgili olarak 506 sayılı Kanun uyarınca aylık prim ve hizmet belgelerinin yasal süresi içerisinde Sosyal Güvenlik Kurumuna verilmesi ve sigortalıların tamamına ait sigorta primlerinin sigortalı hissesine isabet eden tutarı ile Hazinece karşılanmayan işveren hissesine ait tutarın ödenmiş olması şarttır. Bu fıkraya göre işveren tarafından ödenmesi gereken primlerin geç ödenmesi halinde, Hazinece Sosyal Güvenlik Kurumuna yapılacak ödemenin gecikmesinden kaynaklanan gecikme zammı, işverenden tahsil edilir” hükmü yer almaktadır.
+
+Yukarıdaki madde hükmünden anlaşılacağı üzere, özel sektör işverenlerince Sosyal Sigortalar Kanunu’na tabi özürlü işçiler ile korumalı işyerlerinde özürlü işçi istihdam edilmesi durumunda, istihdam edilen işçilerin (sigortalıların) prime esas kazanç alt sınırı üzerinden hesaplanan sigorta primlerine ait işveren hissesinin tamamı Hazinece karşılanacaktır.
+
+Fiyat Farkı Kararnamesinin 8 inci maddesinin (b) bendi ile yukarıda belirtilen özürlü sigortalılara ait Hazine teşviki birlikte değerlendirildiğinde; fiyat farkı verilmesi öngörülen personel çalıştırılmasına dayalı hizmet alımı ihalelerinde Hazinece karşılanan prim tutarlarının yüklenicilerin hakediş ödemelerinden düşülmesi sonucu ortaya çıkmaktadır. Çünkü normal şartlar altında işverenlerce karşılanması gereken sigorta primleri Hazinece karşılanmakta ve işverenlerin katlandığı sigorta prim yükü azalmaktadır. Nasıl ki idarelerce işverenlerin sigorta prim yükünde artış meydana geldiği zaman fiyat farkı ödeniyorsa, aynı şekilde işverenlerin sigorta prim yükü azaldığı durumda da, fiyat farkı kesintisi yoluna gidilmelidir.
+
+.............. tarafından istihdam edilen sigortalılara ait prim bildirgeleri üzerinde yapılan incelemede; adı geçen yüklenicinin 4857 sayılı İş Kanunu’nun 30 uncu maddesinde düzenlenen özürlü sigortalılara yönelik Hazine teşvikinden yararlandığı ancak bu hususun fiyat farkı hesabında dikkate alınmadığı görülmüştür.
+
+.............. 4857 sayılı İş Kanunu’nun 30 uncu maddesinde düzenlenen özürlü sigortalılara yönelik Hazine teşvikinden yararlanmasına rağmen fiyat farkı hesabında bu tutarın dikkate alınmaması konusunda; yüklenici tarafından sunulan teklifin özürlü personellerin istihdam edileceği göz önüne alınarak hesaplandığı ve bu durumun da ihale komisyonunca uygun bulunduğu görüldüğünden ilişik bulunmadığına oybirliğiyle,
+
+Karar verildi.
