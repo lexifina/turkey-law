@@ -5,7 +5,6 @@ a) 4 üncü maddesinin beşinci fıkrası gereğince Müsteşarlıktan izin alı
 b) 7 nci maddesinin dördüncü fıkrasında belirtilen ikraz ücretinin Müsteşarlıkça talep edilen süre içerisinde ödenmemesi,
 c) 8 inci maddesinin üçüncü fıkrasında belirtilen garanti ücretinin Müsteşarlıkça talep edilen süre içerisinde ödenmemesi,
 ç) 8 inci maddesinin beşinci fıkrasında belirtilen sorumluluk ile müteselsil sorumluluğa ilişkin yükümlülüklerin yerine getirilmemesi,
-8290-4
 8291
 d) 8 inci maddesinin altıncı fıkrası gereğince Hazine garantisi altında sağlanan dış kredilere ilişkin geri ödemeler için gereken tutarın yılı bütçelerinde (…)(1) öncelikli olarak ayrılmaması, (1)
 e) 8 inci maddesinin onuncu fıkrası gereğince Müsteşarlıktan izin alınmaması,

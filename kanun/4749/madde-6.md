@@ -7,5 +7,4 @@ Madde 6 - Çıkarılacak Devlet iç borçlanma senetlerinin çeşitlerine, satı
 Devlet iç borçlanma senetlerinin basım giderleri, satışa katılacak finansal kuruluşlara ödenecek komisyon ve banka muameleleri vergileri ile satışa katılan finansal kuruluşların satış işlemleri dolayısıyla yapacakları her türlü gider, vergi, resim ve harçların Hazine tarafından finansal kuruluşlara geri ödenmesinde ve senetlerin basımında veya kaydi olarak ihracında uygulanacak şekil ve esaslar, Müsteşarlık ile Türkiye Cumhuriyet Merkez Bankası arasında 1050 sayılı Muhasebei Umumiye Kanunu hükümleri uygulanmaksızın akdedilecek malî servis anlaşması ile tespit edilir.
 –––––––––––––––
 (1) Bu bölüm başlığı “İç ve Dış Borçlanma” iken, 13/6/2012 tarihli ve 6327 sayılı Kanunun 32 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-8284-4
 8285

@@ -7,6 +7,6 @@ Pay Verilmesi Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun)
 Kanun Numarası : 4749
 Kabul Tarihi : 28/3/2002
 Yayımlandığı R. Gazete : Tarih : 9/4/2002 Sayı : 24721
-Yayımlandığı Düstur : Tertip : 5 Cilt : 7 Sayfa : 8281
+Yayımlandığı Düstur : Tertip : 5
 Bu Kanun ile ilgili olarak Bakanlar Kurulu Kararı ile yürürlüğe
-giren Yönetmelikler için,”Yönetmelikler Külliyatı”nın kanunlara göre düzenlenen nümerik fihristine bakınız.
+giren Yönetmelikler için, ”Yönetmelikler Külliyatı”nın kanunlara göre düzenlenen nümerik fihristine bakınız.
