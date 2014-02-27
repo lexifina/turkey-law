@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-140[123-2013-67]-95",
+  "source_id": 35739,
+  "date": "2014-02-27",
+  "title": "Ltd. Şti. ünvanlı şirketin nev'i değiştirerek, A.Ş.'ne dönüşmesine ilişkin tapuda yapılacak işlemlerden tapu harcı aranılıp aranılmayacağı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35739",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "4154f5b6b75f32f839c91b809c094a987e12fc6ecdaf2b1c865a43c3c2c1ab02",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
