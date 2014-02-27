@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "52",
+  "decision_date": "2014-02-27",
+  "source_id": 12824,
+  "chamber": "4",
+  "ilam_number": "224",
+  "item_number": 18,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12824/",
+  "source_sha256": "aaa05338012721dc1ffd559003729da408f36b60437126133db36691871b2621",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
