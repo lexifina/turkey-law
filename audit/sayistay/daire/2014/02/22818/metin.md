@@ -1,0 +1,5 @@
+Teknik Personelin Yüklenicinin Birden Çok İşinde Çalıştırılması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, ……. San. Ltd. Şti. yükleminde bulunan “.......... Merkez ……… Sokağı Kaldırım ve Refüj Yapım” işinde Teknik Personel olarak taahhüt edilen kişinin, yine aynı şirketin yükleminde bulunan “Çevre yolu II. Kısım Tretuvar Yapım” işinde teknik personel olarak görev yapmasından dolayı ……. TL kamu zararına neden olunduğu iddia edilmekte ise de; .......... Merkez ……… Sokağı Kaldırım ve Refüj Yapım İşinin, 20.06.2011 tarihinde başlandığı ve 28.09.2011 tarihinde bitirildiği anlaşılmaktadır. Çevre yolu II. Kısım Tretuvar Yapım İşinde ise, yukarıdaki tarihleri de kapsayacak şekilde 30.05.2011 – 01.04.2012 tarihleri arasında, belediyenin yol vermemesi nedeniyle yapım işi devam edilememiş, süre uzatımı verilmiştir.
+
+Açıklanan nedenlerden dolayı her iki yapım işinin aynı anda yapılması söz konusu olmadığı, aynı teknik personelin aynı anda farklı işlerde çalıştırılmadığı için kamu zararı oluşmadığından ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
