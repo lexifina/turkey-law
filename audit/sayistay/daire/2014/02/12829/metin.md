@@ -1,0 +1,33 @@
+SİGORTA TEŞVİK ÖDEMESİ
+
+................ tarafından ................ tarihinde ihalesi yapılan ve ................ uhdesinde kalan ................ Hizmet  Alım İşiyle ilgili olarak yüklenici firmaya resmi tatil günleri için de ilave fiyat farkı ödendiği, ayrıca bazı aylarda yüklenici firma, 4857 sayılı İş Kanunu’nun 30 uncu maddesinde düzenlenen özürlü sigortalılara yönelik Hazine teşvikinden yararlanmasına karşın fiyat farkı hesabında bu teşvikin dikkate alınmadan ödeme yapıldığı tespit edilmiştir.
+
+4734 sayılı Kamu İhale Kanununa göre ihalesi yapılacak olan Hizmet Alımlarına İlişkin Fiyat farkı Hesabına Uygulanacak Esasların 8.maddesinde asgari ücret fiyat farkının neleri kapsadığı belirlenmiştir. Buna göre “Asgari ücret ve diğer işçilik maliyetlerindeki değişiklikten kaynaklanan fark;
+
+İhale konusu hizmetin gerçekleştirilebilmesi için çalıştırılacak 506 sayılı Sosyal Sigortalar Kanununa tabi personelin, sayı ve günlük çalışma saatinin belirtilmesi kaydıyla;
+
+a) Asgari ücret tespit komisyonunca ihale (son teklif verme) tarihinde 16 yaşını doldurmuş işçiler için belirlenmiş asgari ücretin değiştirilmesi halinde eski ve yeni asgari ücret arasındaki fark,
+
+b) İhale (son teklif verme) tarihi itibarıyla işveren tarafından karşılanacak olan sosyal sigorta primi ve işsizlik sigortası primine ilişkin toplam tutarda; asgari ücret değişikliği veya sigorta primi alt sınır değişikliği ile prim oranlan değişikliği gibi sebeplerle meydana gelecek fark,
+
+c) 506 sayılı Kanunun 77 nci maddesinin ikinci fıkrası çerçevesinde sözleşmede öngörülen ücret ekleri nedeniyle, işveren tarafından karşılanmakta olan sosyal sigorta primi ve işsizlik sigorta primine ilişkin toplam tutarda meydana gelecek fark, toplamı ((a), (b) ve (c) bentleri toplamı), 506 sayılı Kanun gereğince işveren nâm ve hesabına Hazinece yapılacak olan ödemeler de dikkate alınmak suretiyle bu Esasların 7 nci maddesi uygulanmaksızın ödenir veya kesilir.”  Denilmektedir.
+
+Yine bununla ilgili olarak Kamu İhale Tebliği’nin Personel Ücretleri ile İlgili Fiyat Farkı Hesabı başlıklı bölümünde;
+
+“Çalışan personele asgari ücretin üzerinde bir ödeme öngörülmekle birlikte hizmet alımlarına ilişkin Fiyat Farkı Esaslarının sadece 8 inci maddesinin uygulanacağı hizmet alımı ihalelerinde, ihale tarihi itibarıyla geçerli brüt asgari ücretin artması halinde anılan madde gereği sadece asgari ücretteki artış miktarı ve bu artış miktarından kaynaklanan işveren payı kadar fiyat farkı hesaplanacaktır.” Denilmektedir.
+
+ İdare ile yüklenici arasında imzalanan sözleşmenin Fiyat Farkı başlıklı 14.2 nolu maddesinde; “Bakanlar Kurulu Kararının 07.05.2004 tarih ve 25455 sayılı Resmi Gazetede yayınlanarak yürürlüğe giren (Hizmet alımlarına ilişkin fiyat farkı hesabında uygulanacak esaslar) kararda belirtilen esaslara yer verilerek buna göre işlem yapılacağı hükme bağlanmıştır.
+
+ Hizmet alımları Fiyat Farkı Kararnamesi ve sözleşme hükümlerinden de anlaşılacağı üzere,  idare tarafından yüklenici firmaya ancak ihale tarihindeki asgari ücrette ve işveren tarafından karşılanacak olan sosyal sigorta primi ve işsizlik sigortası primine ilişkin toplam tutarda veya sigorta primi alt sınır değişikliği ile prim oranlarında yaşanacak artış nedeniyle fiyat farkı ödenebilecektir. Yapılan hakediş ödemeleri incelendiğinde İdare tarafından yüklenici firmaya fiyat farkı kararnamesine aykırı olarak,   resmi tatil günleri için de asgari ücret fiyat farkı adında yersiz bir fiyat farkı ödemesinde bulunulduğu görülmektedir.
+
+4857 sayılı İş Kanunun 30uncu maddesinin 6ncı fıkrasında;
+
+“Özel sektör işverenlerince bu madde kapsamında çalıştırılan 17/7/1964 tarihli ve 506 sayılı Sosyal Sigortalar Kanununa tabi özürlü sigortalılar ile 1/7/2005 tarihli ve 5378 sayılı Kanunun 14 üncü maddesinde belirtilen korumalı işyerlerinde çalıştırılan özürlü sigortalıların, aynı Kanunun 72 nci ve 73 üncü maddelerinde sayılan ve 78 inci maddesiyle belirlenen prime esas kazanç alt sınırı üzerinden hesaplanan sigorta primine ait işveren hisselerinin tamamı, kontenjan fazlası özürlü çalıştıran, yükümlü olmadıkları halde özürlü çalıştıran işverenlerin bu şekilde çalıştırdıkları her bir özürlü için prime esas kazanç alt sınırı üzerinden hesaplanan sigorta primine ait işveren hisselerinin yüzde ellisi Hazinece karşılanır. İşveren hissesine ait primlerin Hazinece karşılanabilmesi için işverenlerin çalıştırdıkları sigortalılarla ilgili olarak 506 sayılı Kanun uyarınca aylık prim ve hizmet belgelerinin yasal süresi içerisinde Sosyal Güvenlik Kurumuna verilmesi ve sigortalıların tamamına ait sigorta primlerinin sigortalı hissesine isabet eden tutarı ile Hazinece karşılanmayan işveren hissesine ait tutarın ödenmiş olması şarttır. Bu fıkraya göre işveren tarafından ödenmesi gereken primlerin geç ödenmesi halinde, Hazinece Sosyal Güvenlik Kurumuna yapılacak ödemenin gecikmesinden kaynaklanan gecikme zammı, işverenden tahsil edilir.” Hükmü yer almaktadır.
+
+Yukarıdaki madde hükmünden de açıkça anlaşılacağı üzere, özel sektör işverenlerince Sosyal Sigortalar Kanunu’na tabi özürlü işçiler ile korumalı işyerlerinde özürlü işçi istihdam edilmesi durumunda, istihdam edilen işçilerin (sigortalıların) prime esas kazanç alt sınırı üzerinden hesaplanan sigorta primlerine ait işveren hissesinin tamamı Hazinece karşılanacaktır.
+
+Fiyat Farkı Kararnamesinin 8’inci maddesinin (b) bendi ile yukarıda belirtilen özürlü sigortalılara ait Hazine teşviki birlikte değerlendirildiğinde; fiyat farkı verilmesi öngörülen personel çalıştırılmasına dayalı hizmet alımı ihalelerinde Hazinece karşılanan prim tutarlarının yüklenicilerin hakediş ödemelerinden düşülmesi sonucu ortaya çıkmaktadır.   Yüklenici ................ tarafından istihdam edilen sigortalılara ait prim bildirgeleri üzerinde yapılan incelemede; yüklenicinin 4857 sayılı İş Kanunu’nun 30 uncu maddesinde düzenlenen özürlü sigortalılara yönelik Hazine teşvikinden yararlandığı ancak bu hususun fiyat farkı hesabında dikkate alınmadığı görülmüştür.
+
+Yukarıda yer alan mevzuat hükümleri ve açıklamalar çerçevesinde idare tarafından yüklenici firma ................ Fiyat Farkı Kararnamesine aykırı olarak  hem Resmi Tatil Günleri için fiyat farkı ödenmesinden hem de  yüklenici 4857 sayılı İş Kanunu’nun 30 uncu maddesinde düzenlenen özürlü sigortalılara yönelik Hazine teşvikinden yararlanmasına rağmen, fiyat farkı hesabında bunun dikkate alınmaması sonucu sebep olunan ................ -TL  kamu zararının ................’nin hakedişinden ................ ödeme emri belgesiyle düşüldüğü tespit edildiğinden bu tutar ilişik kalmadığına ve yapılan tahsilatın ilama dercine oybirliğiyle,
+
+Karar verildi.
