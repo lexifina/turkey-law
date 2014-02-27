@@ -17,7 +17,7 @@ c) Aşağıdaki alt bentlerde belirtilen hâkim ve savcılar hariç olmak üzere
 2) Geçici yetki veya görevlendirme ile başka bir kurum, kurul veya kuruluşta çalışan hâkim ve savcılar.
 3) İdarî görevleri yönünden savcılar.
 4) Komisyon işlerine yönelik görevleri yönünden adalet komisyonu başkan ve üyeleri.
-ç) Yargı yetkisinin kullanımına ilişkin hususlar hariç olmak üzere hâkimlerin idarî görevleri ile delilleri değerlendirme ve suçu niteleme yetkisi hariç olmak üzere savcıların adlî görevlerine ilişkin konularda genelge düzenlemek.
+ç) (Değişik: 15/2/2014-6524/22 md.) Adli ve idari yargı hâkim ve savcılarını mesleğe kabul etme, atama ve nakletme, geçici yetki verme, yükselme ve birinci sınıfa ayırma, kadro dağıtma, meslekte kalmaları uygun görülmeyenler hakkında karar verme, disiplin cezası verme, görevden uzaklaştırma ile hâkim ve savcılar hakkında denetim, araştırma, inceleme ve soruşturma yapılması konularına münhasır olmak üzere genelge düzenlemek.
 d) Yargıtay ve Danıştaya üye seçmek.
 e) Anayasa ve kanunlarla verilen diğer görevleri yerine getirmek.
 (2) Kanunlarda açıkça Bakanlığa verilenler dışında, hâkim ve savcıların tüm özlük işleri, Kurul tarafından yerine getirilir.
