@@ -1,0 +1,3 @@
+MADEN İŞLETME PAYI
+
+ Denetçi sorgusunda, mücavir alan sınırları içinde yer alan maden işletmelerinden alınması gereken maden payının sadece dört maden işletmesinden alındığı, diğer beş maden işletmesinden ise herhangi bir maden payı tahsilatının yapılmadığı iddia edildiği görülmüş ise de; savunmada da belirtildiği üzere ............ belediye sınırları ve mücavir alanlar içinde faaliyet gösteren maden işletmelerinin 2012 yılına ilişkin olarak ...’ne vermiş oldukları satış bilgi formları, söz konusu Kurum tarafından belediyeye gönderilmiş olup bu formlara göre maden payı tahakkuk ve tahsilat işlemlerinin yapılacağı anlaşıldığından, konu hakkında ilişilecek husus bulunmadığına        oy birliğiyle karar verildi.
