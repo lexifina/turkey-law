@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "15",
+  "decision_date": "2014-02-27",
+  "source_id": 22509,
+  "chamber": "7",
+  "ilam_number": "149",
+  "item_number": 12,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22509/",
+  "source_sha256": "49205072343f057cc22fc779396a009b96167a6aaf7a407f6f55d8652da58c89",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
