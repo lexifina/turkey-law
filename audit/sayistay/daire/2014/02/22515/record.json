@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "15",
+  "decision_date": "2014-02-27",
+  "source_id": 22515,
+  "chamber": "7",
+  "ilam_number": "149",
+  "item_number": 18,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22515/",
+  "source_sha256": "661ce9c3e00248df5cef19e421dda41cab233f4760e7bdb839731f1f3ece0332",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
