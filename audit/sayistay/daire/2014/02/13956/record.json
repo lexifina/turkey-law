@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "54",
+  "decision_date": "2014-02-27",
+  "source_id": 13956,
+  "chamber": "5",
+  "ilam_number": "179",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13956/",
+  "source_sha256": "b116c0d50a1e1ae416231b190a87ed9d18407b9a86c0ac53812f35622c6c7069",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
