@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Müdür; hücre, doku ve/veya organ nakli alanında çalışmaları bulunan Üniversitenin kadrolu öğretim üyeleri arasından üç yıllık süre için Rektör tarafından görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Müdür kendisine yardımcı olmak üzere, Yönetim Kurulu üyeleri arasından birisini yardımcı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür görevi başında olmadığında yardımcısı kendisine vekâlet eder. Göreve vekâlet altı aydan fazla sürerse yeni bir Müdür görevlendirilir.
