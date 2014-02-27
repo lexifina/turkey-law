@@ -1,0 +1,3 @@
+Katma Değer Vergisi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, basit usule tabi ……. Eşya ve Çiçekçilik firmasından alınan çiçekler için K.D.V. ödenmesi sonucunda kamu zararına sebep olunduğu iddia edilmiş ise de; söz konusu firmanın basit usulde vergiye tabi sahibi olmasına karşın, Katma Değer Vergisi Kanunu’nun 18’inci maddesi ve 91 sayılı Katma Değer Vergisi Kanunu Genel Tebliğine göre, 12.08.2010 tarihinden itibaren isteğe bağlı olarak KDV mükellefi olması nedeniyle KDV dahil fatura kesebileceği anlaşıldığından konu edilen hususta kamu zararı oluşmadığından ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
