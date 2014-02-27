@@ -1,0 +1,3 @@
+SPOR KLUBÜNE YARDIM
+
+  Belediyeye ait asfalt şantiyesi idare binasının herhangi bir kiralama veya satış işlemi olmaksızın profesyonel bir spor kulübü olan ............spor tarafından kullanıldığı iddia edildiği görülmüş ise de; savunmalarda da belirtildiği üzere belediyeye ait asfalt şantiyesi idare binasını herhangi bir kiralama veya satış işlemi olmaksızın kullanan (fuzuli şagil durumunda bulunan) ............spor Kulübü adına belediye encümenince geriye dönük 5 yıllık süre için toplam …….. TL ecrimisil alınmasına karar verildiği ve söz konusu tutarın tahakkuk ettirildiği, adı geçen Spor Kulübünün bahsi geçen binadan tahliyesinin sağlandığı anlaşıldığından, konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
