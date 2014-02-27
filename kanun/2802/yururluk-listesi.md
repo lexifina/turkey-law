@@ -23,11 +23,8 @@ Diğer hükümleri 30/12/1988
 KHK/360 – 16/2/1989
 KHK-375 2, 3, 5, 6, 10, 11, 12, 13,14, 15, 18, 19, 21, 23, 25,
 26, 29, 30 ve 31 15/7/1989
-28 Tazminat nisbet-
-lerinin tespit
-edildiği tarihi
-izleyen
-aybaşında
+28 Tazminat nisbet lerinin tespit
+edildiği tarihi izleyen aybaşında
 Diğer maddeleri 1/7/1989
 3611 – 1/2/1990
 KHK/418 a) 2, 3, 6, 8, 9, 10, 13, 14, 16, 17, 20, 21, 22, 27, 28, 31,

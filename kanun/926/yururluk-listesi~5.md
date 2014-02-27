@@ -17,3 +17,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 9
 Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı | Ek Madde 17 | 10/10/2013
 6514 | Ek Madde 17, Ek Madde 27 | 18/1/2014
 6519 | 3, 14, 35, 37, 38, 47, 49, 50, 54, 82, 84, 94, 109, 113, 120, 146, 148, Ek Madde 3, 31, 32, 33, Geçici Madde 36, 37 | 22/2/2014
+6525 | 126 | 27/2/2014

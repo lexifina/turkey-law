@@ -17,3 +17,4 @@ Anayasa Mahkemesinin 12/5/2011 tarihli ve E.: 2009/30, K.: 2011/76 sayılı Kara
 KHK/662 | 26/A, Geçici Madde 10 | 2/11/2011
 6353 | 5, Geçici Madde 2 ve Geçici Madde 11 | 12/7/2012
 Anayasa Mahkemesinin 31/10/2013 tarihli ve E.: 2013/49, K.: 2013/125 sayılı Kararı | 5 ve Geçici Madde 11 | 28/12/2013
+6525 | 3, 4, 5, Ek Madde 1, Geçici Madde 6, Geçici Madde 12 7 | 27/2/2014 31/3/2014 tarihinden geçerli olmak üzere yayım tarihi olan 27/2/2014 tarihinde

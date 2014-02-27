@@ -18,3 +18,4 @@ KHK/572 | – | 6/6/1997
 6456 | 2 | 18/4/2013
 6462 | 4, 5, Ek Madde 2 | 3/5/2013
 6518 | 9, Ek Madde 3, 4, Geçici Madde 2, 3 | 19/2/2014
+6525 | 7 | 31/3/2014 tarihinden geçerli olmak üzere 27/2/2014

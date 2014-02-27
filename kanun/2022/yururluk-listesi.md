@@ -12,3 +12,4 @@ Değiştiren Kanunun/ KHK’nin Numarası | 2022 sayılı Kanunun değişen veya
 KHK/662 | 1, 8 | 2/11/2011
 6462 | Ek Madde 1 | 3/5/2013
 6495 | 1, 2, 3, 4, 8, Ek Madde 1, 2, Geçici Madde 3 | 2/8/2013
+6525 | 1, 2 | 27/2/2014

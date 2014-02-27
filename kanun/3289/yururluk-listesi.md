@@ -48,3 +48,4 @@ Anayasa Mahkemesi’nin 6/6/2013 tarihli ve E.: 2013/35, K.: 2013/75 sayılı Ka
 6884-5
 Değiştiren Kanunun/ KHK’nin Numarası | 3289 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/63, K.: 2013/28 sayılı Kararı | Ek Madde 9 | 31/12/2013
+6525 | Geçici Madde 13 | 27/2/2014
