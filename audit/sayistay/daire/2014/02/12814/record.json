@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "52",
+  "decision_date": "2014-02-27",
+  "source_id": 12814,
+  "chamber": "4",
+  "ilam_number": "224",
+  "item_number": 10,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12814/",
+  "source_sha256": "ca5e0677fca00587d0c9aaa021975f12a573f871b6c55d2ad41cca93610ab275",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
