@@ -1,0 +1,3 @@
+Gelirlerden Takipli Alacaklar Hesabı
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, .......... Belediyesi’nin 121 Gelirlerden Takipli Alacaklar Hesabında yer alan 2007 yılında tahakkuk etmiş su tesisleri harcamalarına katılım payı, 2012 yılı sonu itibariyle tahsil edilmeyerek zamanaşımına uğraması neticesinde …… TL kamu zararına sebep olunduğu iddia edilmiş ise de; 2007 yılına ait su tesisleri harcamalarına katılım payının tahakkuk ve tahsilatları yapıldığı ve ilgili yıla ait su tesisleri harcamalarına katılım payı ile ilgili olarak tahakkuk ve tahsilatı yapılmamış alacak muhasebe kayıtlarında bulunmadığı anlaşılmış olup konu edilen hususlarda kamu zararı oluşmadığından ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
