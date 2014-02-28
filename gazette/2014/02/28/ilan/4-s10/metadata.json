@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-02-28",
+  "issue": "28927",
+  "edition": "regular",
+  "item": 10,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ÇEŞİTLİ İLÂNLAR",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Türkiye Barolar Birliği Başkanlığından:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2014/02/20140228-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (11 = 11)",
+  "ilan_codes": [
+    "1545/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2014/02/20140228-4.htm",
+  "category_page_sha256": "1e515602a0bffe6c9b5b129421c436fb7b4b8eabfe0b3428375a23fde52c67fe",
+  "issue_on_category_page": "28927",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2014/02/20140228.htm",
+  "index_sha256": "1770f71b4da2348fa125a194eec921c00ed12268da012106cd6becfb64308762",
+  "index_header": "28 Şubat 2014 ... 28927 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
