@@ -1,0 +1,2 @@
+Geçici Madde 1- (Ek:RG-24/12/1993-21798)
+Yönetmeliğin yürürlük tarihinden itibaren 3 ay içinde Genel Müdürlükte en az bir yıl Orman Bölge Müdürlüğü veya Daire Başkanlığı görevinde çalışmış olanlardan gizli sicil raporları çok iyi veya iyi olanlardan aylıktan kesme veya kademe ilerlemesinin durdurulması cezalarından birini almamış olanlar Kurul Başkanının yazılı görüşü ve Genel Müdürün teklifi üzerine Bakan Olur’u ile müfettişliğe atanabilirler.

@@ -1,0 +1,83 @@
+{
+  "source_id": "7.5.5428",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMAN GENEL MÜDÜRLÜĞÜ TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "5428",
+  "issuer": "Orman Genel Müdürü",
+  "issuer_slug": "orman-genel-muduru",
+  "path": "regulation/orman-genel-muduru/1993/5428",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5428&MevzuatTertip=5",
+  "source_sha256": "b01d2338d92567a30bbb0303c071d556c323309684038901efc74696cecc72e3",
+  "source_bytes": 133145,
+  "published": "1993-12-24",
+  "gazette": "21798",
+  "in_force": "2014-02-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/2/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-02-28",
+      "RG-28/2/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-11-28",
+      "RG-28/11/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-10-10",
+      "RG-10/10/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-05-12",
+      "RG-12/5/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-05-25",
+      "RG-25/5/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-08-03",
+      "RG-3/8/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-02-23",
+      "RG-23/2/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2003-09-04",
+      "RG-4/9/2003",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1998-02-06",
+      "RG-6/2/1998",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1993-12-24",
+      "RG-24/12/1993",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5949,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

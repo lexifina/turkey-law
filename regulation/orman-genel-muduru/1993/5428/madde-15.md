@@ -1,0 +1,3 @@
+Müşterek Çalışmalar
+Madde 15- Yıllık teftiş, denetim, inceleme ve soruşturma programlarının gruplar halinde uygulanmasında her gruba dahil Müfettişlerden en kıdemlisi çalışmaları düzenler. Ayrıca; işe başlarken ve çalışmaların devamı sırasında teftiş ve tetkiklere verilecek en uygun yönü tayin, işlerin seyrini takip ve sonuç alınmasını sağlayabilecek fikir ve tedbirlerin uygulanmasını temin eder, çalışmaların seyri hakkında zaman zaman veya talep halinde Başkanlığa özet bilgi veya ara rapor verir ve grup faaliyetlerinin sona ermesini takip eden bir ay içinde çalışmaların neticelerini düzenleyecekleri raporlarda belirtir.
+Başkana yardımla görevlendirilen “Refakat Müfettişleri”nin müşterek çalışmalarda görev alması halinde, grup koordinatörü Refakat Müfettişidir.

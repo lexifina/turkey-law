@@ -1,0 +1,2 @@
+Geçici Madde 2- (Ek:RG-6/2/1998-23250)
+Yönetmeliğin yürürlük tarihinden itibaren bir yıl içinde Orman Genel Müdürlüğünde en az bir yıl süre ile Genel Müdür Yardımcılığı. Hukuk Müşavirliği, Daire Başkanlığı, Bölge Müdürlüğü veya on yıl süre ile Avukatlık görevlerini fiilen yapmış, aylıktan kesme, kademe ilerlemesinin durdurulması ve daha ağır cezalardan birini almamış olanlardan durumları bu yönetmeliğin 21.nci maddesinin (c ) ve (d) bendindeki şartlara haiz olanlar, Genel Müdürün teklifi üzerine Bakan Olur’u ile Müfettişliğe atana bilirler.
