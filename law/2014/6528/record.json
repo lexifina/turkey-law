@@ -1,0 +1,94 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6528",
+  "year": 2014,
+  "title": "Millî Eğitim Temel Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2014-03-01",
+  "adopted_as_published": "01/03/2014",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "14.3.2014 No: 28941",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc098/kanuntbmmc098/kanuntbmmc09806528.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 98",
+  "committee_reports": [
+    {
+      "label": "TBMM 562 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c073/tbmm24073068ss0562.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 24,
+      "kayit_no": 803973,
+      "title": "Millî Eğitim Temel Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "01/03/2014",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc098/kanuntbmmc098/kanuntbmmc09806528.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 562 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c073/tbmm24073068ss0562.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 73,
+          "sitting": 68,
+          "sitting_date": "2014-02-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c073/tbmm24073068.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c073/tbmm24073fih.pdf",
+          "pages": [
+            "747:760",
+            "766:776",
+            "779:781",
+            "784:813"
+          ]
+        },
+        {
+          "cilt": 73,
+          "sitting": 69,
+          "sitting_date": "2014-02-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c073/tbmm24073069.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c073/tbmm24073fih.pdf",
+          "pages": [
+            "905:929",
+            "936:953",
+            "954:980",
+            "983",
+            "984:986"
+          ]
+        },
+        {
+          "cilt": 73,
+          "sitting": 70,
+          "sitting_date": "2014-02-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c073/tbmm24073070.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c073/tbmm24073fih.pdf",
+          "pages": [
+            "1089:1112",
+            "1113:1174",
+            "1175:1192",
+            "1192:1211",
+            "1212:1213",
+            "1214:1223"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=414&v_gelecek_sayfa=201&v_kullanici_id=27483204",
+      "page_sha256": "4380c21e0b6af2b8aa338d073b223401a5c36c9d1591e526a24712c03a67c242"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4380c21e0b6af2b8aa338d073b223401a5c36c9d1591e526a24712c03a67c242",
+  "issuer": "TBMM",
+  "in_force": "2014-03-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 01/03/2014; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
