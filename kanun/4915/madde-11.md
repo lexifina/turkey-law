@@ -2,8 +2,8 @@ DÖRDÜNCÜ KISIM
 Avlaklar, Avcılık Belgesi ve Avlanma İzni
 BİRİNCİ BÖLÜM
 Avlaklar
-Avlakların kuruluşu, yönetimi ve denetimi
-Madde 11 - Özel avlaklar Bakanlıktan izin alınarak kurulur, sahipleri veya kiracıları tarafından yönetilir, işletilir veya işlettirilir. Diğer avlaklar ise Genel Müdürlükçe yönetilir, işletilir veya işlettirilir. Genel Müdürlükçe yönetilen, işletilen veya işlettirilen avlakların plânlanması, kuruluşu, sınıflandırılması, alanlarının belirlenmesi, işaretlenmesi, yönetimi, işletilmesi, işlettirilmesi ve denetimine ilişkin esas ve usuller Bakanlıkça düzenlenir.
-Özel avlaklar dışındaki avlakların işletilmesi amacıyla bu avlaklarda sahası bulunan köy tüzel kişilikleri ve belde belediyeleri ile koruma, üretim, bakım ve avcılığın düzenlenmesi karşılığı işbirliği yapılabilir. İşbirliği yapılan avlaklardan sağlanan gelirden, köy tüzel kişiliklerine ve belde belediyelerine verilecek miktar, sahaların özelliğine göre Bakanlıkça belirlenir.
-Avlanma plânları yapılmış örnek avlakların, plânda belirtilen esaslara göre işlettirilmesi Bakanlıkça gerçek veya tüzel kişilere verilebilir. İşletmeci avlak işletmesinde istihdam edeceği iş gücünü öncelikle mahalli köylerden sağlar. Bu hususlarla ilgili esaslar Bakanlıkça belirlenir.
-Bütün avlaklar Bakanlıkça denetlenir.
+Avlakların kuruluşu, yönetimi ve denetimi[10]
+Madde 11 - Özel avlaklar Genel Müdürlükten izin alınarak kurulur, sahipleri veya kiracıları tarafından yönetilir, işletilir veya işlettirilir. Diğer avlaklar ise Genel Müdürlükçe yönetilir, işletilir veya işlettirilir. Genel Müdürlükçe yönetilen, işletilen veya işlettirilen avlakların plânlanması, kuruluşu, sınıflandırılması, alanlarının belirlenmesi, işaretlenmesi, yönetimi, işletilmesi, işlettirilmesi ve denetimine ilişkin esas ve usuller Genel Müdürlükçe düzenlenir.
+(Değişik: 26/2/2014-6527/12 md.) Özel avlaklar dışındaki avlakların işletilmesi maksadıyla bu avlaklarda sahası bulunan, köy tüzel kişilikleri, belde belediyeleri, avcı kuruluşları, büyükşehir belediyesi bulunan illerdeki ilçe belediyeleri ile koruma, üretim, bakım ve avcılığın düzenlenmesi karşılığı iş birliği yapılabilir. İş birliği yapılan avlaklardan sağlanan gelirden, köy tüzel kişiliklerine, belde belediyelerine ve büyükşehir belediyesi bulunan illerdeki ilçe belediyelerine verilecek miktar, sahaların özelliğine göre Genel Müdürlükçe belirlenir.
+Avlanma plânları yapılmış örnek avlakların, plânda belirtilen esaslara göre işlettirilmesi Genel Müdürlükçe gerçek veya tüzel kişilere verilebilir. İşletmeci avlak işletmesinde istihdam edeceği iş gücünü öncelikle mahalli köylerden sağlar. Bu hususlarla ilgili esaslar Genel Müdürlükçe belirlenir.
+Bütün avlaklar Genel Müdürlükçe denetlenir.

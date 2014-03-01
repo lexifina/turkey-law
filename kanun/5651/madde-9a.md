@@ -7,5 +7,6 @@ MADDE 9/A- (Ek: 6/2/2014-6518/94 md.)
 (5) Erişimin engellenmesini talep eden kişiler, internet ortamında yapılan yayın içeriği nedeniyle özel hayatın gizliliğinin ihlal edildiğinden bahisle erişimin engellenmesi talebini talepte bulunduğu saatten itibaren yirmi dört saat içinde sulh ceza hâkiminin kararına sunar. Hâkim, internet ortamında yapılan yayın içeriği nedeniyle özel hayatın gizliliğinin ihlal edilip edilmediğini değerlendirerek vereceği kararını en geç kırk sekiz saat içinde açıklar ve doğrudan Başkanlığa gönderir; aksi hâlde, erişimin engellenmesi tedbiri kendiliğinden kalkar.
 (6) Hâkim tarafından verilen bu karara karşı Başkanlık tarafından 5271 sayılı Kanun hükümlerine göre itiraz yoluna gidilebilir.
 (7) Erişimin engellenmesine konu içeriğin yayından çıkarılmış olması durumunda hâkim kararı kendiliğinden hükümsüz kalır.
-(8) Özel hayatın gizliliğinin ihlaline bağlı olarak gecikmesinde sakınca bulunan hâllerde doğrudan Başkanın emri üzerine erişimin engellenmesi Başkanlık tarafından yapılır. Bu karara karşı sulh ceza mahkemesine itiraz edilebilir.
+(8) Özel hayatın gizliliğinin ihlaline bağlı olarak gecikmesinde sakınca bulunan hâllerde doğrudan Başkanın emri üzerine erişimin engellenmesi Başkanlık tarafından yapılır. (Mülga cümle: 26/2/2014-6527/18 md.)
+(9) (Ek: 26/2/2014-6527/18 md.) Bu maddenin sekizinci fıkrası kapsamında Başkan tarafından verilen erişimin engellenmesi kararı, Başkanlık tarafından, yirmi dört saat içinde sulh ceza hâkiminin onayına sunulur. Hâkim, kararını kırk sekiz saat içinde açıklar.
 10107

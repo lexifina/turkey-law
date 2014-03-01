@@ -12,7 +12,7 @@ g) İnternet ortamı: Haberleşme ile kişisel veya kurumsal bilgisayar sistemle
 h) İzleme: İnternet ortamındaki verilere etki etmeksizin bilgi ve verilerin takip edilmesini,
 ı) Kurum: Telekomünikasyon Kurumunu,
 i) Toplu kullanım sağlayıcı: Kişilere belli bir yerde ve belli bir süre internet ortamı kullanım olanağı sağlayanı,
-j) Trafik bilgisi: İnternet ortamında gerçekleştirilen her türlü erişime ilişkin olarak taraflar, zaman, süre, yararlanılan hizmetin türü, aktarılan veri miktarı ve bağlantı noktaları gibi değerleri,
+j) (Değişik: 26/2/2014-6527/15 md.) Trafik bilgisi: Taraflara ilişkin IP adresi, verilen hizmetin başlama ve bitiş zamanı, yararlanılan hizmetin türü, aktarılan veri miktarı ve varsa abone kimlik bilgilerini,
 k) Veri: Bilgisayar tarafından üzerinde işlem yapılabilen her türlü değeri,
 l) Yayın: İnternet ortamında yapılan yayını,
 m) Yer sağlayıcı: Hizmet ve içerikleri barındıran sistemleri sağlayan veya işleten gerçek veya tüzel kişileri,
