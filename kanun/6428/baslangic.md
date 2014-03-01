@@ -2,5 +2,5 @@ SAĞLIK BAKANLIĞINCA KAMU ÖZEL İŞ BİRLİĞİ MODELİ İLE TESİS YAPTIRILMA
 DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
 Kanun Numarası : 6428
 Kabul Tarihi : 21/2/2013
-Yayımlandığı R. Gazete : Tarih: 9/3/2013 Sayı : 28582
+Yayımlandığı R.Gazete : Tarih: 9/3/2013 Sayı : 28582
 Yayımlandığı Düstur : Tertip : 5 Cilt : 53

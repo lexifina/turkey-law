@@ -8,6 +8,7 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının/TEBLİĞİN N
 5728 | 16, 17, 18 | 8/2/2008
 6352 | 18 | 5/7/2012
 19/12/2012 tarihli ve 28502 sayılı R.G.’de yayımlanan TEBLİĞ | 16 | 1/1/2013
-6446 | Geçici Madde 6 nın (b) bendi | 30/3/2013
+6446 | Geçici Madde 6’nın (b) bendi | 30/3/2013
 6462 | 2 | 3/5/2013
 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı R.G.’de yayımlanan TEBLİĞ | 16 | 1/1/2014
+6527 | 4 | 1/3/2014

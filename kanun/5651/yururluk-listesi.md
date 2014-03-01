@@ -6,3 +6,4 @@ Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numara
 KHK/661 | Ek Madde 1 | 2/11/2011
 6495 | 8 | 2/8/2013
 6518 | 2, 3, 4, 5, 6, 6/A, 7, 8, 9, 9/A, 10, 11, Ek Madde 1, Ek Madde 2, (I) sayılı liste, Geçici Madde 3 | 19/2/2014
+6527 | 2, 3, 8, 9/A | 1/3/2014
