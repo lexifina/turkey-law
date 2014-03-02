@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı, Spina Bifida hastalığının etyolojisini araştırmak, omuriliğin gelişim bozukluğuna bağlı olarak oluşan sinir hasarının beraberinde getirdiği komplikasyonların önlenmesi, mesane, böbrek ile beyindeki hidrosefali ve diğer ek anomalilerin ve bunlara bağlı gelişen nörojenik, psikolojik, kardiyolojik, gastrointestinal problemlerin çözülmesi ve tedavi edilmesi konusunda çalışmalar yapmak. İntrauterin dönemde Spina Bifida hastalığının tanısının konulması, Spina Bifidalı çocukların doğumdan sonra ilk 8 saat içinde ameliyatlarının başarıyla yapılması, takiplerinin kalite standartları açısından Üniversite disiplini altında akredite bir hizmet şeklinde multidisipliner yapılması ve her türlü tıbbi tetkik ve tedaviye yönelik sağlık hizmeti ile psikososyal rehabilitasyon verilmesi konusunda çalışmalar yapmaktır.
