@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı, Down Sendromu konusunda güncel bilimsel gelişmeleri izlemek, katkıda bulunacak temel ve klinik araştırmaları projelendirerek yönetmek, veri toplamak ve sonuçlandırmak, her düzeyde araştırmayı teşvik etmek, personel ve bilim adamı yetiştirmek, Down Sendromu hastalığının ve yol açtığı hafif veya orta seviyedeki zihinsel, fiziksel gelişim ve motor geriliğinin düzeltilmesine yönelik çalışmalar yapmak ve diğer bilim kuruluşları ile işbirliği kurmak, güncel kılavuzlar doğrultusunda yapılacak kapsamlı çalışmalarla moleküler anlamda 21. kromozomdaki biyokimyasal süreçleri çözmek, öğrenme potansiyellerini ve becerilerini arttırmak, Down Sendromlu bireylere her türlü tıbbi tetkik ve tedaviye yönelik sağlık hizmeti vererek yaşam kalitelerini yükseltmek amaçlı tıbbi ve psikososyal rehabilitasyon yapmaktır.
