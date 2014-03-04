@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38549",
+  "decision_date": "2014-03-04",
+  "source_id": 7602,
+  "chamber": "3",
+  "file_number": "38393",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7602/",
+  "source_sha256": "5fbc9536af566bee95a9f3bfb274476406e705c4e0267a735359dc0bfd399ea5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
