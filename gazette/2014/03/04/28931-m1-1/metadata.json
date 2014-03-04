@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-03-04",
+  "issue": "28931",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YARGI BÖLÜMÜ",
+  "heading": "YARGITAY KARARLARI",
+  "title": "Yargıtay Hukuk Dairelerine Ait Kararlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140304M1-1.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140304M1.htm",
+  "index_sha256": "29695b683cf50584c94f719543390df4957716c7e3f99bcad43ab77c2436cc89",
+  "index_header": "4 Mart 2014 ... 28931 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140304M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
