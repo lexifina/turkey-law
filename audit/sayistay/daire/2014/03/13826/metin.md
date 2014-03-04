@@ -1,0 +1,7 @@
+……… yükleniminde bulunan ……….. işinde uygulanması gereken 10 günlük gecikme cezasının uygulanmaması sonucu toplam …….. TL kamu zararına sebebiyet verildiği iddiasına ilişkin olarak yapılan incelemede;
+
+Sorumlularca yapılan savunmalarda özetle; İdare tarafından yüklenici firmaya sözleşme kapsamı iş bünyesinde sözleşme hükümleri ile ilgili hatırlatma ve bilgi notu mahiyetinde yazılan yazılar, işin kontrol mühendisi tarafından hazırlanmış, kontrol amiri (Başmühendis) tarafından imzalanmış ve idare tarafından onaylanarak ……… ve ………..  tarihlerinde yüklenici firmaya gönderilmiştir, iddia edildiği gibi ihtar çekilmemiştir.  Herhangi bir yazının ihtar şeklinde çekilmesi veya herhangi bir yazının ihtar olarak kabul edilebilmesi mevcut yasa ve hükümler ile düzenlenmiştir. Dolayısıyla idare tarafından yükleniciye gönderilen yazıların hiç biri noterden çekilmeyip ihtarname özelliği taşımaz. İdare tarafından yükleniciye gönderilen yazılar, yalnızca sözleşme kapsamı iş bünyesinde, sözleşme hükümleri ile ilgili hatırlatma ve bilgi notu mahiyetini taşımaktadır.
+
+Denilmektedir.
+
+Bu itibarla ……. ve ……. tarihlerinde all risk sigorta yaptırılmadığı gerekçesiyle  ihtar çekmediği, söz konusu yazının noterden gönderilmediği ve ihtar şartlarını taşımadığı sadece sözleşme hükümleri ile ilgili hatırlatma ve bilgi notu mahiyetinde olduğu, bu husus Denetçi tarafından da kabul edildiğinden, mevzuatına uygun olduğu anlaşılan ………TL ile ilgili olarak ilişilecek husus bulunmadığına oybirliği ile karar verildi.
