@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38516",
+  "decision_date": "2014-03-04",
+  "source_id": 7569,
+  "chamber": "7",
+  "file_number": "31710",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7569/",
+  "source_sha256": "b4e7bc6571bbd3324515ceabbca43dabcf649f53fb898737a9646d4a4d47fba4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
