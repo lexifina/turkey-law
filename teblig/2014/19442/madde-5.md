@@ -1,0 +1,1 @@
+MADDE 5 – (1) TS ISO 6194-5 standardı, TSE’nin merkez teşkilatından veya il temsilciliklerinden temin edilir. TSE’nin ve il temsilciliklerinin iletişim bilgilerine TSE’nin internet sayfasından ulaşılır.
