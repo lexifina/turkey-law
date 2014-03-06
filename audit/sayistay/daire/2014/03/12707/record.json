@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "191",
+  "decision_date": "2014-03-06",
+  "source_id": 12707,
+  "chamber": "3",
+  "ilam_number": "159",
+  "item_number": 13,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12707/",
+  "source_sha256": "64963c9eb67d52d4a11ede062f28bd3c89a758137455e704d8214c3bffd19f3c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
