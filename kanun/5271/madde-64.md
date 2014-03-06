@@ -5,7 +5,7 @@ Madde 64 – (1) Bilirkişiler, il adlî yargı adalet komisyonları tarafından
 (4) Bilirkişi olarak atanan bir tüzel kişi ise, kendisi adına incelemeyi yapacak gerçek kişi veya kişilerin isimlerini, bilirkişi atayacak yargı merciinin onayına sunar.
 (5) Listelere kaydedilen bilirkişiler, il adlî yargı adalet komisyonu huzurunda "Görevimi adalete bağlı kalarak, bilim ve fenne uygun olarak, tarafsızlıkla yerine getireceğime namusum ve vicdanım üzerine yemin ederim." sözlerini tekrarlayarak yemin ederler. Bu bilirkişilere görevlendirildikleri her işte yeniden yemin verilmez.
 ––––––––––––––––
-(1) Bu maddede yer alan tazminat miktarlarının 1/1/2013 tarihinden itibaren uygulanması ile ilgili olarak, 28/12/2011 tarihli ve 28511 sayılı Resmi Gazete’de yayımlanan Adalet Bakanlığının Tebliğine bakınız.
+(1) Bu maddede yer alan tazminat miktarlarının 1/1/2013 tarihinden itibaren uygulanması ile ilgili olarak, 28/12/2012 tarihli ve 28511 sayılı Resmi Gazete’de yayımlanan Adalet Bakanlığının Tebliğine bakınız.
 9118
 (6) Listelerde yer almamış bilirkişiler, görevlendirildiklerinde kendilerini atamış olan merci huzurunda yukarıdaki fıkrada öngörülen biçimde yemin ederler. Yeminin yapıldığına ilişkin tutanak hâkim veya Cumhuriyet savcısı, zabıt kâtibi ve bilirkişi tarafından imzalanır.
 (7) Engel bulunan hâllerde yemin yazılı olarak verilebilir ve metni dosyaya konulur. Ancak bu hâle ilişkin gerekçenin kararda gösterilmesi zorunludur.

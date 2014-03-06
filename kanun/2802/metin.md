@@ -59,14 +59,13 @@ Adaylar, Devlet Memurları Kanunundaki Genel İdare Hizmetleri Sınıfına dahil
 Adayların nitelikleri :
 Madde 8 – Adaylığa atanabilmek için :
 a)Türk vatandaşı olmak,
-b) (Değişik: 3/6/2011-KHK-643/12 md.) Giriş sınavının yapıldığı tarih itibarıyla otuzbeş yaşını doldurmamış olmak.(1)
+b) (Değişik: 3/6/2011-KHK-643/12 md.; İptal: Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E:2011/89, K:2013/29 sayılı Kararı ile.).
 c) Adli yargı adayları için; hukuk fakültesinden mezun olmak veya yabancı bir hukuk fakültesini bitirip de Türkiye‘deki hukuk fakülteleri programlarına göre eksik kalan derslerden sınava girip başarı belgesi almış bulunmak,
-(Değişik ikinci paragraf: 22/12/2005 - 5435/1 md) İdarî yargı adayları için; hukuk fakültesinden mezun olmak veya yabancı bir hukuk fakültesini bitirip de Türkiye'de hukuk fakülteleri programlarına göre eksik kalan derslerden sınava girip başarı belgesi almış bulunmak, hukuk fakültesinden mezun olanlar dışından alınacak adaylar bakımından, her dönemde alınacak aday sayısının yüzde yirmisini geçmemek üzere ihtiyaç oranında, hukuk veya hukuk bilgisine programlarında yeterince yer veren siyasal bilgiler, idarî bilimler, iktisat ve maliye alanlarında en az dört yıllık yüksek öğrenim yapmış veya bunlara denkliği kabul edilmiş yabancı öğretim kurumlarından mezun olmak, (2)
+(Değişik ikinci paragraf: 22/12/2005 - 5435/1 md) İdarî yargı adayları için; hukuk fakültesinden mezun olmak veya yabancı bir hukuk fakültesini bitirip de Türkiye'de hukuk fakülteleri programlarına göre eksik kalan derslerden sınava girip başarı belgesi almış bulunmak, hukuk fakültesinden mezun olanlar dışından alınacak adaylar bakımından, her dönemde alınacak aday sayısının yüzde yirmisini geçmemek üzere ihtiyaç oranında, hukuk veya hukuk bilgisine programlarında yeterince yer veren siyasal bilgiler, idarî bilimler, iktisat ve maliye alanlarında en az dört yıllık yüksek öğrenim yapmış veya bunlara denkliği kabul edilmiş yabancı öğretim kurumlarından mezun olmak, (1)
 d) Kamu haklarından yasaklı olmamak,
 e) (Mülga: 22/12/2005 - 5435/43 md.)
 –––––––––––––––––
-(1) Bu bent, Anayasa Mahkemesinin 14/2/2013 tarihli ve E:2011/89, K:2013/29 sayılı kararıyla iptal edilmiş olup, kararın Resmi Gazetede yayımlandığı 31/12/2013 tarihinden itibaren dokuz ay sonra yürürlüğe gireceği hüküm altına alınmıştır.
-(2) 1/12/2007 tarihli ve 5720 sayılı Kanunun 1 inci maddesiyle bu paragrafta yer alan "her dönemde ihtiyaç oranında," ibaresi "her dönemde alınacak aday sayısının yüzde yirmisini geçmemek üzere ihtiyaç oranında," şeklinde değiştirilmiş ve metne işlenmiştir.
+(1) 1/12/2007 tarihli ve 5720 sayılı Kanunun 1 inci maddesiyle bu paragrafta yer alan "her dönemde ihtiyaç oranında," ibaresi "her dönemde alınacak aday sayısının yüzde yirmisini geçmemek üzere ihtiyaç oranında," şeklinde değiştirilmiş ve metne işlenmiştir.
 5616-1
 f) Askerlik durumu itibariyle askerlikle ilgisi bulunmamak veya muvazzaflık hizmetini yapmış yahut ertelenmiş veya yedeğe geçirilmiş olmak,
 g) Hakimlik ve savcılık görevlerini sürekli olarak yurdun her yerinde yapmasına engel olabilecek vücut ve akıl hastalığı veya engelliliği, alışılmışın dışında çevrenin yadırgayacağı şekilde konuşma ve organlarının hareketini kontrol zorluğu çekmek gibi engeli bulunmamak, (1)
@@ -319,12 +318,12 @@ Birinci fıkrada yazılı şartları taşıyan isteklilerin mesleğe alınıp al
 (2) Bu fıkrada geçen "Yukarıdaki fıkralarda" ibaresi; 22/12/2005 tarihli ve 5435 sayılı Kanunun 19 uncu maddesiyle "Birinci fıkrada" şeklinde değiştirilmiş ve metne işlenmiştir.
 5625
 Yeniden atanma:
-Madde 40 – (Değişik birinci fıkra: 9/2/2011 - 6110/9 md.) Daireler heyet hâlinde çalışır, heyet bir başkan ve dört üyenin katılmasıyla toplanır. Üye sayısının yeterli olması halinde birden fazla heyet oluşturulabilir. Bu durumda, oluşturulan diğer heyetlere, heyette yer alan en kıdemli üye başkanlık eder. Heyetler işi müzakere eder ve salt çoğunlukla karar verirler. Müzakereler gizli cereyan eder.
+Madde 40 – Hakimlik ve savcılık mesleğinden kendi istekleriyle çekilen veya emekli olanlardan tekrar mesleğe dönmek isteyenler, mesleğe kabulde aranan nitelikleri kaybetmemiş olmaları koşulu ile ayrıldıkları tarihte almakta oldukları aylık derecesine eşit bir derecenin aynı kademesine Hakimler ve Savcılar Yüksek Kurulunca atanabilirler.
 (İkinci fıkra iptal: Ana.Mah.‘nin 14/12/1995 tarih ve E.1995/19, K.1995/64 sayılı kararı ile; Yeniden düzenleme: 15/1/2003-4790/3 md.) Ancak, bu şekilde atanacakların meslekten ayrıldıktan sonra doçentlik veya profesörlükte geçirdikleri sürelerin tamamı; avukatların ise fiilen avukatlıkta geçirdikleri sürenin üçte ikisi, hâkimlik ve savcılıkta geçmiş sayılmak suretiyle girebilecekleri sınıf ve derecelerin tespitinde değerlendirilir.
 Yukarıda yazılı atamalarda, isteklilerin mesleğe alınıp alınmayacakları Hakimler ve Savcılar Yüksek Kurulunca belli edilir.
 Bu madde hükümlerine göre atananlardan, meslekten ayrılanlar bir daha mesleğe kabul edilemezler.
 Terhis edilenlerin görevlerine dönmesi:
-Madde 41 – (Değişik: 11/9/1987 – KHK-276/11 md.; Aynen Kabül:24/2/1988 – 3409/11 md.)
+Madde 41 – (Değişik: 11/9/1987 – KHK-276/11 md.; Aynen Kabul:24/2/1988 – 3409/11 md.)
 Hakim ve savcı iken muvazzaf askerlik hizmetlerini yapmak üzere silah altına alınanlar, bu süre zarfında görev yerleri saklı kalmak suretiyle aylıksız izinli sayılırlar. Askerlik hizmetini tamamlayıp göreve dönmek isteyenler, terhislerinden itibaren otuz gün içinde Adalet Bakanlığına başvurmak, Adalet Bakanlığı da bu başvurma tarihinden itibaren otuz gün içinde ilgilileri göreve başlatmak zorundadır.
 Yukarıdaki fıkrada gösterilen süre geçtikten sonra başvuranlar, görevden çekilmiş sayılarak haklarında 40 ıncı madde hükümleri uygulanır.
 Askerlik hizmetinde geçirilen süreler kademe ilerlemesi ve derece yükselmesinde değerlendirilir.
@@ -628,34 +627,17 @@ Kişisel suçlarda soruşturma ve kovuşturma : (1)
 Madde 93 – Hakim ve savcıların kişisel suçları hakkında soruşturma, ilgilinin yargı çevresinde bulunduğu ağır ceza mahkemesine en yakın ağır ceza mahkemesi Cumhuriyet başsavcısına ve son soruşturma o yer ağır ceza mahkemesine aittir.
 Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki hakim ve savcıların kişisel suçları hakkında soruşturma ve kovuşturma Ankara Cumhuriyet Başsavcısı ve ağır ceza mahkemesine aittir.
 Tazminat davaları:
-Madde 93/A –(Ek : 9/2/2011 - 6110/12 md.)
-Hâkim ve savcıların bir soruşturma, kovuşturma veya davayla ilgili olarak yaptıkları işlem, yürüttükleri faaliyet veya verdikleri her türlü kararlar nedeniyle:
-a) Ancak Devlet aleyhine tazminat davası açılabilir.
-b) Kişisel kusur, haksız fiil veya diğer sorumluluk sebeplerine dayanılarak da olsa hâkim veya savcı aleyhine tazminat davası açılamaz.
-Devlet aleyhine açılacak tazminat davası ancak dava konusu işlem, faaliyet veya kararın dayanağı olan;
-a) Soruşturma sonucunda verilen kovuşturmaya yer olmadığına dair kararın veya kamu davası açılmış ise kovuşturma sonucunda verilen hükmün,
-b) Dava sonunda verilen hükmün,
-kesinleştiği tarihten itibaren bir yıl içinde açılabilir.
-Kovuşturmaya yer olmadığına dair kararın veya hükmün kesinleşmesinden önce, hâkim veya savcının söz konusu işlem, faaliyet veya kararıyla ilgili olarak görevinin gereklerine aykırı hareket etmek suretiyle görevini kötüye kullanmaktan mahkûmiyeti hâlinde ise tazminat davası bu hükmün kesinleşmesinden itibaren bir yıl içinde açılabilir.
-Devlet, ödediği tazminattan dolayı, tazminat davasına konu işlem, faaliyet veya kararla ilgili olarak görevinin gereklerine aykırı hareket etmek suretiyle görevini kötüye kullanan hâkim veya savcıya rücu eder.
+Madde 93/A –(Ek : 9/2/2011 - 6110/12 md.; Mülga: 212/2014-6526/19 md.)
+–––––––––––––––––––
+(1) 22/12/2005 tarihli ve 5435 sayılı Kanunun 32 nci maddesiyle; bu maddenin birinci fıkrasında geçen "Cumhuriyet savcısı ile sorgu hakimine" ibaresi "Cumhuriyet başsavcısına"; ikinci fıkrasında geçen "Cumhuriyet Savcısı, sorgu hâkimi" ibaresi "Cumhuriyet Başsavcısı" şeklinde ; ayrıca aynı Kanunun 39 uncu maddesiyle "Adalet Bakanlığı merkez kuruluşundaki" ibaresi "Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki" şeklinde değiştirilmiş ve metne işlenmiştir.
 5636-1
-Kanun yoluna başvurulması için miktar veya değere ilişkin olarak öngörülen sınırlamalar, hâkim ve savcıların işlem, faaliyet veya kararlarına dayanılarak açılan her türlü tazminat ve rücu davalarında uygulanmaz.
-Hâkim ve savcıların bir soruşturma, kovuşturma veya davayla ilgili olarak yaptıkları işlem, yürüttükleri faaliyet veya verdikleri her türlü kararlar nedeniyle Devlet aleyhine açılacak tazminat davaları ile rücu davalarında bu madde hükümleri; bu maddede hüküm bulunmayan hâllerde ise ilgisine göre Hukuk Usulü Muhakemeleri Kanunu ile Ceza Muhakemesi Kanunu hükümleri uygulanır.
-Bu madde hükümleri;
-a) Yüksek mahkemelerin başkanları, başkanvekilleri, daire başkanları ve üyeleri ile Yargıtay Cumhuriyet Başsavcısı, Danıştay Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekilinin bir soruşturma, kovuşturma veya davayla ilgili olarak yaptıkları işlem, yürüttükleri faaliyet veya verdikleri her türlü kararlar,
-b) Hâkimler ve Savcılar Yüksek Kurulu müfettişleri ile adalet müfettişlerinin, yetkilerini kullanırken yaptıkları işlem, yürüttükleri faaliyet veya verdikleri her türlü kararlar,
-nedeniyle açılacak tazminat davaları hakkında da uygulanır.
 DÖRDÜNCÜ BÖLÜM
 Ortak Hükümler
-Ağır ceza mahkemesinin görevine giren suçüstü hâlleri(2)
+Ağır ceza mahkemesinin görevine giren suçüstü hâlleri(1)
 Madde 94 – (Değişik birinci fıkra : 12/2/1989 – KHK-360/5 md. ; Aynen Kabul : 24/1/1990 – 3611/5 md.) Ağır ceza mahkemesinin görevine giren suçüstü hâllerinde hazırlık soruşturması genel hükümlere göre yapılır. Hazırlık soruşturması yetkili Cumhuriyet savcıları tarafından bizzat yürütülür.
 Bu halde durumun hemen Adalet Bakanlığına bildirilmesi zorunludur.
 Davalar :
 Madde 95 – Hakim ve savcılara ait davalar acele işlerden sayılır. Kanuni zaruretlerden doğan engel olmadıkça davalar üç aydan fazla devam edemez. Cumhuriyet savcıları nezdinde bulundukları mahkemelerdeki bu tür davaları ve aşamalarını, varsa gecikme nedenlerini her duruşma sonunda Adalet Bakanlığına bildirirler. (Ek cümle: 22/12/2005 - 5345/33 md.) Bu tür davaların kanun yolu incelemesi de öncelikli olarak yapılır.
-–––––––––––––––––––
-(1) 22/12/2005 tarihli ve 5435 sayılı Kanunun 32 nci maddesiyle; bu maddenin birinci fıkrasında geçen "Cumhuriyet savcısı ile sorgu hakimine" ibaresi "Cumhuriyet başsavcısına"; ikinci fıkrasında geçen "Cumhuriyet Savcısı, sorgu hâkimi" ibaresi "Cumhuriyet Başsavcısı" şeklinde ; ayrıca aynı Kanunun 39 uncu maddesiyle "Adalet Bakanlığı merkez kuruluşundaki" ibaresi "Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki" şeklinde değiştirilmiş ve metne işlenmiştir.
-(2) 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu maddenin başlığında geçen "Ağır cezayı gerektiren suçüstü hali" ibaresi "Ağır ceza mahkemesinin görevine giren suçüstü hâllerinde"; birinci fıkrasında geçen "Ağır cezayı gerektiren suçüstü hallerinde" ibaresi "Ağır ceza mahkemesinin görevine giren suçüstü hâllerinde" şeklinde değiştirilmiş ve metne işlenmiştir.
-5636-2 5637
 Dosyanın gönderilmesi :
 Madde 96 – Hüküm veya karar kesinleştikten sonra dava dosyası disiplin yönünden yapılacak işlemin takdiri için incelenip iade edilmek üzere Adalet Bakanlığına gönderilir.
 İhbar ve şikayetler:
@@ -667,6 +649,9 @@ c) Daha önceden şikâyet konusu yapılıp sonuçlanan hususlarda yeni delil i�
 d) Kanun yollarına başvuru sebebi olarak ileri sürülebilecek veya hâkimlerin yargı yetkisi ve takdiri kapsamında kalan hususlara ilişkin bulunan,
 e) Akıl hastalığı sebebiyle vesayet altına alınanlar ile henüz vesayet altına alınmamış olmakla birlikte bu hastalığa duçar oldukları sağlık kurulu raporu ile belirlenenlerce verilmiş olan,
 İhbar ve şikâyetler işleme konulmaz. Ancak (b) bendinde yazılı şartları taşımayan ihbar ve şikâyetlerin somut delillere dayanması durumunda, konu hakkında gerekli araştırma ve inceleme yapılır.
+–––––––––––––––––––
+(1) 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu maddenin başlığında geçen "Ağır cezayı gerektiren suçüstü hali" ibaresi "Ağır ceza mahkemesinin görevine giren suçüstü hâllerinde"; birinci fıkrasında geçen "Ağır cezayı gerektiren suçüstü hallerinde" ibaresi "Ağır ceza mahkemesinin görevine giren suçüstü hâllerinde" şeklinde değiştirilmiş ve metne işlenmiştir.
+5636-2 5637
 Birinci sınıf hakim ve savcılar hakkında uygulanacak hükümler:
 Madde 98 – Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki birinci sınıf hakim ve savcılar, disiplin cezası, soruşturma ve kovuşturma bakımından Yargıtay üyeleri hakkındaki hükümlere tabidir. Ancak soruşturma yapılması Adalet Bakanının istemine bağlıdır. (1)
 SEKİZİNCİ KISIM

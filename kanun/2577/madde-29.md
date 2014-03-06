@@ -1,7 +1,5 @@
 Açıklama:
 Madde 29 – 1. Danıştay, bölge idare mahkemeleri, idare ve vergi mahkemelerince verilen kararlar yeterince açık değilse, yahut birbirine aykırı hüküm fıkralarını taşıyorsa, taraflardan her biri kararın açıklanmasını veya aykırılığın giderilmesini isteyebilir.
-——————————
-(1) Bu fıkrada yer alan "...altmış" kelimesi, 10/6/1994 tarih ve 4001 sayılı Kanunun 13 üncü maddesiyle "otuz" olarak değiştirilmiş ve metne işlenmiştir.
 5476
 2. Açıklama dilekçeleri karşı taraf sayısından bir nüsha fazla verilir.
 3. Kararı vermiş olan daire veya mahkeme işi inceler ve gerek görürse dilekçenin bir örneğini, belirleyeceği süre içinde cevap vermek üzere, karşı tarafa tebliğ eder, cevap iki nüsha olarak verilir. Bunlardan biri, açıklama veya aykırılığın kaldırılmasını isteyen tarafa gönderilir.
