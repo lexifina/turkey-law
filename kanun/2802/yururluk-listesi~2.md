@@ -50,3 +50,4 @@ Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı 
 Değiştiren Kanunun/ KHK’nin/ İptal Eden Anayasa Mah. Kararının Numarası | 2802 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/89 K.: 2013/29 sayılı Kararı | 8/b | 31/12/2013 tarihinden başlayarak dokuz ay sonra (30/9/2014)
 6524 | 49, 50, 119 | 27/2/2014
+6526 | 93/A | 6/3/2014
