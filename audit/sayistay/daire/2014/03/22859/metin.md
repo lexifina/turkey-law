@@ -1,0 +1,3 @@
+Emlak Vergisi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, ........... Belediyesi sınırları içerisinde yer alan …… A.Ş ile buna bağlı ve ilgili kuruluşlarca tesis edilen sosyal tesisler, misafirhane, lojman, kreş ve lokal gibi enerji üretim, iletim ve dağıtımıyla doğrudan ilgisi olmayan binaların emlak vergisinden muaf tutulmak suretiyle ……. TL kamu zararına neden olunduğu iddia edilmiş ise de; bahsi geçen kamu zararı ile ilgili tahakkukların yapıldığı görülmüş olduğundan ve söz konusu alacaklar 6183 kanunun 102’inci maddesinde öngörülen tahsil zamanaşımına uğramadığından ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
