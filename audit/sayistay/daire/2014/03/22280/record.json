@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "74",
+  "decision_date": "2014-03-06",
+  "source_id": 22280,
+  "chamber": "6",
+  "ilam_number": "191",
+  "item_number": 16,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22280/",
+  "source_sha256": "2797d8228a781820e43da79312aa81ee4c2fb62ecbf44d7af2b03dd2ea9740bc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
