@@ -1,0 +1,3 @@
+Kursların duyurulması
+MADDE 6 – (1) Kurs açılması belirlenen alanlar, Genel Müdürlük tarafından korunan alan sınırları dâhilinde ve/veya yakın çevresinde yer alan yerleşim birimlerindeki mülki idare birimlerine kursun açılmasından en az otuz gün öncesinden bildirilir. Alan kılavuzluğu kurs duyuruları bölgesel ve ulusal basın yayın organları yanı sıra internet sitelerinde de yayınlanır.
+(2) Duyurularda; açılacak kursa başvuru koşulları, kursa alınacak aday kursiyer sayısı, kursun tarihi, başvuru başlangıç ve bitiş tarihi, süresi, yeri, kurs ücreti, başvurunun yapılacağı yer, başvuru için gerekli belgeler ile başvuruda bulunan adayların belirlenen sayıdan fazla olması halinde yapılacak işleme ilişkin bilgilere yer verilir.

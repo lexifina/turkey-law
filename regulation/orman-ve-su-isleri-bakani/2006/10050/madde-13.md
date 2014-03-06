@@ -1,0 +1,2 @@
+Eğitime katılım ücreti
+MADDE 13 – (1) Eğitime katılım ücreti her yıl Genel Müdürlükçe belirlenir. Eğitime katılacak aday alan kılavuzları eğitime katılım ücretini kursun açıldığı yerdeki (Değişik ibare:RG-6/3/2014-28933) şube müdürlüğü/müdürlük tarafından gösterilecek hesaba yatırmak zorundadırlar. Kurs ücretinin vergilendirilmesine ilişkin usul ve esaslar yürürlükteki mali mevzuata göre yürütülür.

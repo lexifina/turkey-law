@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-6/3/2014-28933) Bakanlık: Orman ve Su İşleri Bakanlığını,
+b) Genel Müdürlük: Doğa Koruma ve Milli Parklar Genel Müdürlüğünü,
+c) (Değişik:RG-6/3/2014-28933) Şube Müdürlüğü: Bölge Müdürlüğüne bağlı İldeki Şube Müdürlüğünü,
+ç) Müdürlük: Milli park müdürlüğünü,
+d) Kurs: Alan kılavuzluğuna yönelik bilgi, beceri ve davranış kazandırmak amacıyla belirli dönemlerde ilan edilerek düzenlenecek programlı eğitim etkinliğini,
+e) Aday alan kılavuzu: Alan kılavuzu olarak eğitilmek üzere kursa katılmaya hak kazanan kişiyi,
+f) Alan kılavuzu: Alan kılavuzluğu eğitimi sonrasında sertifika ve kimlik almaya hak kazanmış kişiyi,
+g) Alan kılavuzluğu hizmeti: 2873 sayılı Milli Parklar Kanununa göre ilanı sağlanan alanlarda, ziyaretçi yönetiminin sağlanması amacı ile Bakanlıkça düzenlenen kurs sonunda başarılı olarak belge sahibi olan alan kılavuzlarınca korunan alan sınırları dahilinde ziyaretçilere verilen bilgilendirme hizmetini,
+ğ) Eğitici: Düzenlenecek eğitim programında eğitici olarak görev yapmak üzere bu Yönetmeliğin 11 inci maddesinde sayılan özelliklere sahip kişileri,
+h) Taşıma kapasitesi: Kaynak ve ekosistem değerlerinde bozulmaya yol açmadan kaynaklardan ve ekosistemden sürdürülebilir yararlanma düzeyini,
+ı) Korunan alan: 2873 sayılı Milli Parklar Kanununa göre ilan edilen, milli park, tabiat parkı, tabiatı koruma alanı ve tabiat anıtlarını,
+i) Korunan alan yönetim birimi: 2873 sayılı Milli Parklar Kanununa göre ilanı sağlanan, milli park, tabiat parkı, tabiatı koruma alanı ve tabiat anıtları yönetim birimini,
+j) (Değişik:RG-21/8/2010-27679) Kaynak değerleri: Korunan alan sınırları dâhilinde kalan doğal, kültürel ve tarihi kaynak değerlerini,
+k) (Değişik:RG-21/8/2010-27679) Yakın çevre: Korunan alanın bitişiğinde bulunan köy, kasaba, ilçe ve benzeri yerleşim birimlerini,
+l) Sertifika: Alan kılavuzluğu eğitimini başarı ile bitirenlere verilen belgeyi,
+m) Kimlik: Alan kılavuzluğu eğitimi sonrasında alan kılavuzluğu yapmaya hak kazanmış kişilere verilen kimliği,
+n) (Değişik:RG-21/8/2010-27679) Oluşum: Alan kılavuzluğu eğitimi yapılmış her bir korunan alanda alan kılavuzları tarafından oluşturulan dernek, kooperatif, vakıf veya benzeri örgütlemeler ile bunların birden fazla olması halinde tümünün bir arada temsil edildiği yapıyı,
+o) (Ek:RG-21/8/2010-27679) İdare: Bakanlığın taşra teşkilatını,
+ö) (Değişik:RG-6/3/2014-28933) Şeflik: İl Şube Müdürlüklerine bağlı şeflikleri,
+p) (Ek:RG-6/3/2014-28933) Bölge Müdürlüğü: Bakanlık Bölge Müdürlüğünü,
+ifade eder.

@@ -1,0 +1,5 @@
+Sertifika ve kimliklerin verilişi, geçerlilik süresi ile iptali
+MADDE 19 – (Değişik:RG-21/8/2010-27679)
+(1) Eğitimin bitiminde başarılı olanların tamamına otuz gün içerisinde "Alan Kılavuzluğu Sertifikası" ve "Alan Kılavuzluğu Kimliği" verilir. İdare tarafından alan kılavuzu hizmetine başlama tebligatına rağmen altmış gün içinde fiilen kılavuzluğa başlanmaması halinde verilen Alan Kılavuzluğu Kimliği iptal edilir.
+(2) Kimliğin geçerlilik süresi beş yıldır. Bu sürenin sonunda yapılan denetimler, izleme cetvelleri ve her yıl doldurulacak olan yıllık değerlendirme raporlarına istinaden (Değişik ibare:RG-6/3/2014-28933) şube müdürlüğü veya müdürlük tarafından yapılacak olan değerlendirmeyi müteakip alan kılavuzluğu hizmeti süresince başarılı oldukları değerlendirilenlerin kimlikleri beşer yıl süreyle uzatılabilir.
+(3) Alan kılavuzlarına verilen sertifika ve kimlik kartları sadece verildiği alandaki kılavuzluk hizmeti için geçerlidir. Başka maksat ve alanda kullanılamaz. Kullanıldığının tespiti halinde uyarıya gerek kalmaksızın Alan Kılavuzluğu Kimliği iptal edilir. Bu sebeple kimliği iptal edilen belge sahibi başka bir alan kılavuzluğu eğitimine katılamaz.
