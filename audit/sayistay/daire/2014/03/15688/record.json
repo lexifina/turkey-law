@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10311",
+  "decision_date": "2014-03-06",
+  "source_id": 15688,
+  "chamber": "1",
+  "ilam_number": "198",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15688/",
+  "source_sha256": "d95747d860c03d78608c5a553a5828d53db0bcb5a63e4ef14284c6724f4b0462",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
