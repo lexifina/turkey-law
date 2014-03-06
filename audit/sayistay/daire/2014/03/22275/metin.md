@@ -1,0 +1,3 @@
+Mahkeme Giderleri
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, kaybedilen davadan dolayı, gecikme cezası, vekalet ücreti ile diğer mahkeme giderleri ödenmesi neticesinde ……. TL kamu zararına sebep olunduğu iddia edilmiş ise de; söz konusu giderlerin davalı taraf olan belediye bütçesinden ödenmesi gerektiğinden ve ilgili harcama yetkilisi ve gerçekleştirme görevlilerinin, söz konusu ceza, harç ve yargılama giderleri ile ilgili sorumluluklarının ancak yaptırılacak soruşturma sonucunda, illiyet bağı kurularak tespit edilmesi mümkün olup, böyle bir tespit de yapılmadığından, ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
