@@ -1,0 +1,3 @@
+Emlak Vergisi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, ........... belediyesi sınırları dahilinde, binalara kalorifer ve asansör tesisatı gibi ilaveler yapılması nedeniyle binaların emlak vergisi değerlerinde yapılması gereken artışların yapılmaması neticesinde söz konusu binalarla ilgili emlak vergilerinin eksik tahakkuk ettirilmesi nedeniyle ……. TL kamu zararına neden olunduğu iddia edilmiş ise de; söz konusu ek emlak vergilerinin, ödenmesi gereken tutar üzerinden yeniden tahakkuklarının yapıldığı ve yeniden hesaplanan emlak vergisi tutarlarının 6183 sayılı Amme Alacaklarının Tahsili Usulü Hakkında Kanun'un 102’inci maddesinde öngörülen tahsil zamanaşımına uğramadığı görüldüğünden ilişilecek husus bulunmadığına oy  birliğiyle,
