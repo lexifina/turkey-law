@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6526",
+  "year": 2014,
+  "title": "Terörle Mücadele Kanunu ve Ceza Muhakemesi Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-03-06",
+  "gazette_issue": "28933",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140306M1-1.htm",
+  "source_sha256": "6362307cb745e6d5b839408a4cb2bc0c6a3fa5ef5ff7f1ee2334f63c2a80bed4",
+  "text_sha256": "51756161e4c59bf10a0b8cc524a8d3a7b4d4ce82ea8c51b25e527862a480ef24",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/03/06/28933-m1-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140306M1-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
