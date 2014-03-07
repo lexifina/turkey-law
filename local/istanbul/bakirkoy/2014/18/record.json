@@ -1,0 +1,23 @@
+{
+  "number": "18",
+  "number_as_published": "18",
+  "year": 2014,
+  "title": "Mahalli İdare Norm Kadro İlke ve Standartlarına Dair Yönetmelik gereği 1 adet memur boş kadro derece değişikliği.",
+  "decision_date": "2014-03-07",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/65",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/18-memur-bos-kadro-degisikligi-07032014.pdf",
+  "source_sha256": "f19c0f31991fe195392b8c640e7d137f1a3f8c23678664f837857706947d3b37",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2014-03-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07 Mart 2014 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
