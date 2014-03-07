@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I-13-283]-41",
+  "source_id": 33294,
+  "date": "2014-03-07",
+  "title": "İndirimli orana tabi işlemler nedeniyle aynı yıl içerisinde düzeltme beyannamesi verilmesi durumunda yapılacak işlemler.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33294",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "2e470f2a4c80fa7735dbdaf6e560ac436d89c73ed0e69d5726e345a5c3622a27",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
