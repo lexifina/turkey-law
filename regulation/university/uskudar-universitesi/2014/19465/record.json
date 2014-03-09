@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/uskudar-universitesi/2014/19465",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28936",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-03-09",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Üsküdar Üniversitesi",
+  "issuer_slug": "uskudar-universitesi",
+  "kind": "regulation",
+  "published": "2014-03-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19465&MevzuatTertip=5",
+  "source_id": "8.5.19465",
+  "source_sha256": "5300939d07d5d16e32c32623f5951fe56948be8aa1741e0b90c8827fbb476c85",
+  "title": "ÜSKÜDAR ÜNİVERSİTESİ ÇÖZÜM ODAKLI KADIN SORUNLARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 372,
+  "version_label": "oldest version available",
+  "word_count": 1127
+}
