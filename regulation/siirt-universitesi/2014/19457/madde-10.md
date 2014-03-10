@@ -1,0 +1,6 @@
+Yönetim Kurulunun görevleri
+MADDE 10 – (1) Yönetim Kurulu, aşağıda belirtilen görevleri yapar:
+a) Merkezin amaçlarının gerçekleşmesi ve yapılacak çalışmaların yürütülmesi için gerekli görülen kararları almak.
+b) Danışma Kurulu üyelerinin aldığı tavsiye kararlarının ve tespit ettiği çalışma programlarının uygulanmasında Müdüre yardımcı olmak.
+c) Merkezin ödenek ve kadro ihtiyacını ve bütçesini hazırlamak.
+ç) Merkezin yıl sonu faaliyet raporunu görüşmek.
