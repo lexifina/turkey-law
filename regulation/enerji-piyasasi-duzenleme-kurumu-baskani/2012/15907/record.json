@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.15907",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AYNI YERDE DOĞAL GAZ DEPOLAMA FAALİYETİNDE BULUNMAK ÜZERE LİSANS BAŞVURUSUNDA BULUNAN TÜZEL KİŞİLERİN SEÇİMİ HAKKINDA YÖNETMELİK",
+  "number": "15907",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu Başkanı",
+  "issuer_slug": "enerji-piyasasi-duzenleme-kurumu-baskani",
+  "path": "regulation/enerji-piyasasi-duzenleme-kurumu-baskani/2012/15907",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15907&MevzuatTertip=5",
+  "source_sha256": "860bc0880cff984fd47a5711b82ec8a613686430d2c12930c56e9b5a4d7ca3e6",
+  "source_bytes": 57887,
+  "published": "2012-02-21",
+  "gazette": "28211",
+  "in_force": "2014-03-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/3/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-03-11",
+      "RG-11/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-03-11",
+      "11/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2276,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

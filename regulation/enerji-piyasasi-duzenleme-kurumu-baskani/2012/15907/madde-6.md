@@ -1,0 +1,4 @@
+Proje tanıtım dosyası
+MADDE 6 – (1) Lisans başvuruları inceleme ve değerlendirmeye alınan tüzel kişilerden, bu Yönetmeliğin 7 nci, 8 inci ve 9 uncu maddelerinde belirtilen bilgi ve belgelerden oluşan proje tanıtım dosyasını Kurum talep yazısının tebliğinden itibaren kırkbeş gün içerisinde Kuruma sunmaları istenir. Bu süre içerisinde proje tanıtım dosyasının Kuruma sunulmaması halinde söz konusu başvurular Kurul Kararıyla reddedilir.
+(2) Kuruma sunduğu proje tanıtım dosyasındaki eksikleri yazılı bildirim tarihinden itibaren on iş günü içerisinde gidermeyen tüzel kişilerin başvuruları Kurul Kararıyla reddedilir.
+(3) Depolama lisans başvurusunda bulunan tüzel kişi, duyuruya konu yerin koordinat bilgileri hariç olmak üzere lisans başvurusunda sunduğu bilgilerde değişiklik yapabilir. Söz konusu değişiklikler gerekçeleri ile birlikte proje tanıtım dosyasında yer alır.
