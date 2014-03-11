@@ -1,0 +1,9 @@
+Encümen ödeneği
+
+	666 sayılı Kanun Hükmünde Kararnamenin 5 inci maddesinin 15.01.2012 tarihinde yürürlüğe giren (s) fıkrası ile yapılan değişiklikten sonra 631 sayılı Kanun Hükmünde Kararnamenin 12 nci maddesi hükmü, “Memurlar ve diğer kamu görevlilerinden, kurum ve kuruluşların yönetim kurulu, denetim kurulu, tasfiye kurulu, danışma kurulu üyelikleri ve komisyon, heyet, komite ile benzeri organlarda görev alanlara, kurum içi ve kurum dışı ayrımı yapılmaksızın bu görevlerinden sadece biri için ücret ödenebilir. Bu maddenin uygulanmasında oluşacak tereddütleri gidermeye Maliye Bakanlığı yetkilidir.” şeklini almıştır.
+
+Söz konusu maddeye ilişkin olarak uygulama birliğinin sağlanması ve tereddütlerin giderilmesi amacıyla çıkarılan 162 seri nolu Devlet Memurları Kanunu Genel Tebliğinde, 631 sayılı Kanun Hükmünde Kararnamenin 12 nci maddesi kapsamında birden fazla görev alanların, bu görevlerin hangisinden ücret alacağını belirleyerek asli görevli bulunduğu kurumun merkez teşkilatı personel birimi ile görev yaptığı birime on gün içerisinde bildireceği, anılan maddede belirtilen görevler karşılığında ödeme yapacak kurum tarafından, ödeme yapılmadan önce ilgiliden, kurumundan veya başka kurumlardan bu kapsamda kendisine herhangi bir ödeme yapılmadığına dair yazılı beyan alınacağı, bu beyanda bulunmayanlara herhangi bir ödeme yapılmayacağı belirtilmiştir.
+
+Ancak, 5302 sayılı İl Özel İdaresi Kanununun 28 inci maddesi gereği encümen üyelerine verilen ödeneğin, 666 sayılı KHK’nın 5 inci maddesinin (s) fıkrası ile değiştirilen 631 sayılı KHK’nın 12 inci maddesi ile 162 seri nolu Devlet Memurları Genel Tebliğinde yer alan düzenleme kapsamında değerlendirilmemektedir.
+
+Bu itibarla, İl Özel İdaresi Genel Sekreteri … … ile Genel Sekreter Yardımcısı … …’a encümen ödeneği olarak … TL tutarında ödeme yapılmasının yasal düzenlemelere uygun olduğuna oy birliğiyle,
