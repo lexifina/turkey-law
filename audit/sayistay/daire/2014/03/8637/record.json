@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10314",
+  "decision_date": "2014-03-11",
+  "source_id": 8637,
+  "chamber": "1",
+  "ilam_number": "166",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8637/",
+  "source_sha256": "003cf0e719277611dcbf0e0738e4e72dd19867d1c22c2484ab04de734eb33e5e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
