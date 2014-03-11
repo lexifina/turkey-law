@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "77",
+  "decision_date": "2014-03-11",
+  "source_id": 22791,
+  "chamber": "6",
+  "ilam_number": "354",
+  "item_number": 17,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22791/",
+  "source_sha256": "bc3a3e4328be3c8ab46d934a6723023cdf94cb710c0e3e85986818a58e722251",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
