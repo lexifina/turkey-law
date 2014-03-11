@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76464994-130[2014.9]-58",
+  "source_id": 32699,
+  "date": "2014-03-11",
+  "title": "Kullanılmış iplik makineleri ve kullanılmış dokuma makinelerinin finansal kiralama şirketleri ile diğer alıcılara tesliminde uygulanacak katma değer vergisi (KDV) oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32699",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "a9092fb47381fcd86417e2f4484e7266719464316bb704ce01ffd2cf2af922d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
