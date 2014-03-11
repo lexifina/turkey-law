@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "56",
+  "decision_date": "2014-03-11",
+  "source_id": 13682,
+  "chamber": "4",
+  "ilam_number": "164",
+  "item_number": 5,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13682/",
+  "source_sha256": "dd24096e1d05271283f84ca0331800b6077ab834097a33cc728aa2912b2700b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
