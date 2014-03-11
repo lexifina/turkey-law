@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10314",
+  "decision_date": "2014-03-11",
+  "source_id": 15620,
+  "chamber": "1",
+  "ilam_number": "166",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15620/",
+  "source_sha256": "8da47258fe26de74f47caf9d542a3244f7c9e5677562a34fc2ce029cf59a83ce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
