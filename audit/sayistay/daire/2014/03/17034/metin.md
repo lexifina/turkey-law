@@ -1,0 +1,7 @@
+Yemek bedeli
+
+	6245 sayılı Harcırah Kanununun “Muvakkat Vazife Harcırahı”  başlıklı 14 üncü maddesinde; “Memur ve hizmetlilere muvakkat vazife harcırahı olarak yol masrafı ile yevmiye verilir ve hamal,bagaj ve ikametgah veya vazife mahalli ile istasyon,iskele, veya durak arasındaki nakil vasıtası masrafları da ayrıca tediye olunur (…)” hükümlerine yer verilmiş ve geçici görev yolluğu olarak ödenmesi gereken giderleri yol gideri, yevmiye, hamal ve bagaj gideri, şehir içi taşıma gideri olarak belirtmiştir.
+
+	Geçici görev esnasında verilmesi gereken yevmiye, harcıraha müstehak olanların memuriyet merkezlerinden ayrılmaları dolayısıyla geçici memuriyet mahallerinin hayat şartlarına intibak için yapmış oldukları iaşe ve ibate (yemek ve konaklama) giderleri için ödenen gündeliği ifade etmektedir. Dolayısıyla, anılan personele geçici görev sırasında ödenen gündelik dışında herhangi bir ödeme yapılması mümkün değildir. Ancak yapılan incelemede, adı geçen personele gündeliğinin yanında … günlük yemek bedeli olarak … TL’lik ödeme yapıldığı tespit edilmiştir.
+
+	Bu itibarla, memuriyet mahalli dışında görevlendirilen Makine Mühendisi …’e gündeliği ile birlikte ayrıca yemek bedeli ödenmesi sonucu oluşan … TL kamu zararının sorumlulara ortaklaşa ve zincirleme olarak ödettirilmesine karar verilmesi gerekmekte ise de, bahsi geçen kamu zararının tamamın . tahsil edilmiş olduğu anlaşıldığından ilişik kalmadığına oy birliğiyle,
