@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-03-12",
+  "issue": "28939",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Biyosidal Ürünler Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140312-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140312.htm",
+  "index_sha256": "48c7f4ddc654e3b3d3dda5929cd858a95bcca49792483621f482c5774f356585",
+  "index_header": "12 Mart 2014 ... 28939 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140312.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
