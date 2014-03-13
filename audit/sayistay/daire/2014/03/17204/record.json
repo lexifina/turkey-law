@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10319",
+  "decision_date": "2014-03-13",
+  "source_id": 17204,
+  "chamber": "1",
+  "ilam_number": "167",
+  "item_number": 10,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17204/",
+  "source_sha256": "70aef478107785765d170130644f42bdb63a50dcb5753e2559cbb1bf4db091f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
