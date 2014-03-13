@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4913/11",
+  "decision_date": "2014-03-13",
+  "title": "31/12/2013 tarih ve 28868 sayılı Resmi Gazete ile yürürlüğe giren 19/12/2013 tarih ve 4763 sayılı Kurul Kararının 10. Maddesinde, Elektronik Bülten Tablosu'na Dengeleme Gazı piyasasının kurulmasına yönelik modül eklenmesi",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0jQzODZEdR8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0jQzODZEdR8="
+  ],
+  "source_sha256": "596f97c4e327d28e52c3084afaf26cf9e39a19fb2e3876f9ce23800f4748b4f1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-03-13",
+  "law_text_complete": false
+}
