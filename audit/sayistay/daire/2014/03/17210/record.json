@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10319",
+  "decision_date": "2014-03-13",
+  "source_id": 17210,
+  "chamber": "1",
+  "ilam_number": "167",
+  "item_number": 16,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17210/",
+  "source_sha256": "40b85359aa4928ef1fa5362be23daad961ff0529b1cd35488fe887ebb40c6e4b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
