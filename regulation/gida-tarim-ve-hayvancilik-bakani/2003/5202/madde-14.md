@@ -1,0 +1,2 @@
+Müşterek Çalışmalar
+MADDE 14 - Denetim programlarının heyetler halinde uygulanmasında, her heyete dahil Kontrolörlerden en kıdemlisi Makam Onayına istinaden heyet başkanı olarak çalışmaları düzenler. Heyet Başkanı işe başlarken ve çalışmaların devamı sırasında, denetim ve tetkiklere verilecek en uygun yönü tayin, işlerin seyrini takip ve sonuç alınmasını sağlayabilecek fikir ve tedbirlerin uygulanmasını temin eder. Çalışmaların seyri hakkında zaman zaman veya talep halinde Başkana özel bilgi veya ara rapor verir.

@@ -1,0 +1,20 @@
+Kontrolörler Başkanının Görev, Yetki ve Sorumlulukları
+MADDE 8 - Kontrolörler Başkanı, Başkontrolör sıfat ve yetkisine sahip olup, Makamın emir ve onayı üzerine doğrudan Bakan adına aşağıdaki görevleri yapar:
+a) (Değişik:RG-22/11/2012-28475) Bakanlığın görev ve yetki sahasına giren kooperatif ve üst kuruluşlarının, Tarım Kredi Kooperatif ve üst kuruluşlarının, 5996 ve 5200 sayılı Kanuna göre kurulan birlikleri ve merkez birliklerinin, tüm tarımsal üretici örgütlerini ve bunların iştiraklerinin, Ziraat Odaları ve Türkiye Ziraat Odaları Birliğinin teknik durumları ile idari, mali ve hukuki yönden hesap, işlem ve mal varlıklarını denetletmek,
+b) Bakanlığın yetki alanına giren tüm kooperatif, birlik ve ziraat odaları ile üst kuruluşlarının ilgilileri hakkındaki ihbar konularını tetkik etmek, suç unsuru tespit edildiğinde sorumluları ile ilgili olarak gerekli yasal işlemleri yapmak,
+c) (Değişik:RG-22/11/2012-28475) Desteklenmek üzere Genel Müdürlüğün yatırım ve transfer programlarında bulunan kooperatif ve üst kuruluşlarının, Genel Müdür tarafından belirlenecek zamanda uygunluk ve kooperatif, birlik ve ziraat odaları ile üst kuruluşlarının ve bunların iştiraklerinin normal denetimini, tarımsal desteklerin ve teşviklerin, Bakanlık tarafından sağlanan ayni ve nakdi yardımların ve kredilerin kontrol ve denetimini, Genel Müdürlüğün faaliyet ve görevleri ile ilgili denetimleri, incelemeleri ve soruşturmaları yapmak veya yaptırmak, buna bağlı olarak denetim programı hazırlayarak Genel Müdüre sunmak, konusu suç teşkil etmeyen eksiklikler için tebligatta bulunmak, ek süre vermek, belirlenen sürede eksikliklerin tamamlanmaması halinde kanuni takibat yapılmak üzere ilgili mercilere durumu doğrudan intikal ettirmek,
+d) Gayri-faal oldukları ve faaliyetlerini sürdürme imkanı olmadığı tespit edilen kooperatif ve üst kuruluşlarının feshini talep etmek,
+e) Kooperatifçiliğin tanıtılması ve yayılmasında, kooperatif personeli ile ortaklarının eğitilmesinde Bakanlığın ilgili birimleri ile işbirliği yapmak,
+f) Yapılan denetimler sonucunda konusu suç teşkil eden işlemleri tespit edilen, Bakanlık ve diğer kamu görevlileri ile özel hukuk hükümlerine tabi gerçek ve tüzel kişiler hakkında özel kanunlarla belirtilen şekilde işlem yapmak,
+g) Kontrolörleri yönetmek, çalışmalarını düzenlemek ve kontrol etmek,
+h) Gerekli görülen hallerde bizzat denetleme ve inceleme yapmak, gerçek ve tüzel kişiler hakkında özel kanunlarla belirtilen şekilde işlem yapmak,
+i) Kontrolörlerin çalışma programını düzenlemek ve uygulamasını sağlamak,
+j) Kontrolörlerin denetim ve inceleme yapacağı yerleri tespit etmek ve bunlar için Genel Müdürlükten veya gerektiğinde Bakanlık Makamından onay almak, gerekirse kontrolörlerin çalışmalarını mahallinde bizzat izlemek, Başkontrolörler veya Kontrolörler vasıtasıyla ilgili birimleri denetletip varsa darboğazların çözümüne yardımcı olmak, Kontrolörlerin görevlerini ve görev yerlerini gerektiği hallerde (Ek ibare:RG-24/11/2005-26003) Genel Müdürün onayını alarak değiştirmek,
+k) Kanun, tüzük ve yönetmelik hükümlerine göre Kontrolörler ile büro personelinin disiplin suçları ve görev değişikliği hususlarında Genel Müdürlüğe teklifte bulunmak,
+l) Raporları; usul, şekil ve mevzuat bakımından incelemek, göreceği hataları düzelttirmek varsa eksiklikleri tamamlattırmak,
+m) Raporlarda belirtilen hususlarda hemen yapılması gereken işlemler ve alınması gereken tedbirleri Makama ivedi olarak sunmak,
+n) Makam tarafından verilen mevzuatla ilgili çalışmaları yapmak,
+o) Sınav kurullarında görev almak ve sınavlarla ilgili işlemleri yürütmek,
+p) Makam tarafından verilecek benzeri görevleri yapmak.
+r) (Ek:RG-24/11/2005-26003) Geçici sebeplerle görevden ayrıldığında Başkanlığa tayin şartlarını taşıyan Başkontrolörlerden veya Kontrolörlerden birine Genel Müdürlük onayı ile vekalet verilmesini sağlamak.
+s) (Ek:RG-24/11/2005-26003) Yukarıda yazılı görevlerin istenilen şekilde yapılabilmesi için Başkontrolör veya Kontrolörlerden bir veya birkaçını Genel Müdürlük onayı ile kendine yardımcı olarak görevlendirebilir. Başkan Yardımcılarının görev süresi azami 2 yıldır.

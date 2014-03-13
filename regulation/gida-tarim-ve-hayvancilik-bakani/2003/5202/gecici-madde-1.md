@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 - Bu Yönetmelik hükümleri, bu Yönetmeliğin yürürlüğe girdiği tarihten önce atanmış ve halen Başkontrolör, Kontrolör ve Kontrolör Yardımcısı olarak çalışmakta olanlar hakkında da uygulanır.

@@ -1,0 +1,4 @@
+Yurtdışına Gönderilme
+MADDE 48 – (Değişik:RG-22/11/2012-28475)
+Kontrolörler; mesleki bilgi ve görgülerini artırmak, Genel Müdürlüğü ilgilendiren konularda inceleme ve araştırma yapmak veya kurs ve öğrenim görmek, tüketici mevzuatı, denetim ve çalışma alanlarına giren konularda mesleki eğitimlerini geliştirmek, yabancı dil bilgilerini artırmak, Bakanlık tarafından uygun görülecek konularda inceleme ve araştırmalar yapmak üzere, 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri çerçevesinde Bakanlık onayıyla yurt dışına gönderilebilirler.
+Yurt dışına gönderilenler, döndükleri tarihten itibaren en geç üç ay içinde inceleme ve araştırmalarına ilişkin olarak düzenledikleri raporları Genel Müdürlüğe sunarlar.

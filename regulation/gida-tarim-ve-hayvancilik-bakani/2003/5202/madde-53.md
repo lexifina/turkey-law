@@ -1,0 +1,8 @@
+Raporlar Üzerinde Yapılacak İşlemler
+MADDE 53 - Raporlar, Başkan veya Raportör tarafından incelenir. Usul, şekil ve mevzuat yönünden düzeltilmesi veya tamamlattırılması gereken hususlar varsa bunların giderilmesi raporu düzenleyen Kontrolörden yazılı olarak istenir. Kontrolörün bu isteğe katılmaması halinde konu Başkan tarafından başka bir raportör veya Başkontrolöre verilir, değerlendirme sonucu konu üzerinde mutabakat sağlanır, bu aşamada da mutabakata varılamaz ise Başkanın belirleyeceği görüş doğrultusunda işlem yapılır.
+Raporların üzerinde Başkan veya görevlendirdiği Başkontrolör ve Kontrolör tarafından yapılan incelemeden sonra aşağıdaki prosedür uygulanır:
+a) Raporlar üzerinde yapılması gereken işlemlerin ilgili kurum ve kuruluşlarda izlenmesi Başkana aittir.
+b) Kontrolörlerin inceleme ve soruşturma görev onayı dışında kalan kuruluşların daha mükemmel sonuç almasını temine yönelik tavsiyeleri (Değişik ibare:RG-22/11/2012-28475) Bakanlık veya Genel Müdürlük Makamınca uygun görülmek şartıyla "Tavsiyeler" başlığı adı altında kuruluş yetkililerine tebliğ edilmek üzere Bakanlık İl Müdürlüklerine gönderilir. Bunların yerine getirilip getirilmediği İl Müdürlüklerince takip edilir. Uyulmaması haklı bir sebebe dayanıyorsa durum bir raporla belirtilir. Aksi halde sorumlular hakkında gerekli yasal işlemin yapılması maksadıyla mahalli Cumhuriyet Başsavcılıklarına suç duyurusunda bulunulur.
+c) Soruşturma raporları, sorumlular hakkında gerekli yasal işlemin yapılması maksadıyla ilgili Cumhuriyet Başsavcılıklarına Başkan tarafından intikal ettirilir.
+YEDİNCİ BÖLÜM
+(Değişik başlık:RG-22/11/2012-28475) Yazışma Düzeni ve İzin Kullanma

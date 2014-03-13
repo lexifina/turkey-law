@@ -1,0 +1,4 @@
+Meslek Giriş Sınavı Sonucu
+MADDE 27 - Meslek giriş sınav notu, yazılı ve sözlü sınavları başarmış olan adayların yazılı sınav ile sözlü sınav notu toplamının ikiye bölünmesi ile bulunur. Meslek Giriş sınav notunun eşitliği halinde yazılı sınav notu yüksek olan, yazılı sınav notlarının da eşitliği halinde yabancı dil puanı yüksek olan öncelik kazanır.
+Sınav sonuçları sınav kurulunca "Meslek Giriş Sınav Sonuç Tutanağı" ile saptanır ve sınavı kazananlara Genel Müdürlükçe yazı ile bildirilir. (Değişik cümle:RG-22/11/2012-28475) Ayrıca, sınavı kazananların listesi ve diğer bilgiler Bakanlıkta uygun görülecek yerlere asılır ve Bakanlık internet sitesinde ilan edilir.
+Meslek giriş sınavında başarılı olanların sayısı, atama yapılacak kadro sayısından fazla olursa, meslek giriş sınav notu en yüksek olan adaydan geriye doğru kadro adedi kadar asıl aday ve asıl aday sayısı kadar da yedek aday belirlenir.

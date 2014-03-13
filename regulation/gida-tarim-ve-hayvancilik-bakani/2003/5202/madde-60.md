@@ -1,0 +1,2 @@
+Yürürlükten Kaldırılan Hükümler
+MADDE 60 - 25/05/2001 tarihli ve 24412 sayılı Resmi Gazetede yayımlanan Tarım ve Köyişleri Bakanlığı, Teşkilatlanma ve Destekleme Genel Müdürlüğü Kontrolörleri Atama, Görev ve Yetki Yönetmeliği ve bu Yönetmeliğin 17, 19, 21 inci maddelerini değiştiren 03/07/2003 tarihli ve 25157 sayılı Resmi Gazetede yayımlanan Tarım ve Köyişleri Bakanlığı, Teşkilatlanma ve Destekleme Genel Müdürlüğü Kontrolörleri Atama, Görev ve Yetki Yönetmeliğinin Bazı Maddelerinde Değişiklik Yapılmasına Dair Yönetmelik yürürlükten kaldırılmıştır.

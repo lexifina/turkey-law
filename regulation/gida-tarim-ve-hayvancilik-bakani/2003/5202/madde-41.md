@@ -1,0 +1,3 @@
+Başkontrolörlüğe Atanma
+MADDE 41 – (Değişik:RG-22/11/2012-28475)
+Başkontrolörlüğe atanmada; Kontrolörün mesleki kıdemi, birinci veya ikinci derece kadroya atanabilecek şartlara sahip olması ve Stajyer Kontrolörlük dahil en az on yıl fiilen Kontrolörlük yapmış olma süreleri de göz önünde bulundurularak Başkanın da içinde bulunduğu üç kişilik komisyon kararına istinaden Genel Müdüre teklifte bulunulur. Teklif edilenler mesleki kıdem ve kadro durumları göz önünde bulundurularak Başkontrolörlük kadrolarına atanırlar. Başkan olarak görev yaptıktan sonra tekrar Başkontrolörlüğe dönenler dönemlerinin en kıdemlisi sayılırlar.

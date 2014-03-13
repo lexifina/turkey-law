@@ -1,0 +1,3 @@
+Dayanak
+MADDE 2 – (Başlığı ile birlikte değişik:RG-22/11/2012-28475)
+Bu Yönetmelik, 3/6/2011 tarihli ve 639 sayılı Gıda, Tarım ve Hayvancılık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname, 24/4/1969 tarihli ve 1163 sayılı Kooperatifler Kanunu, 18/4/2006 tarihli ve 5488 sayılı Tarım Kanunu, 18/4/1972 tarihli ve 1581 sayılı Tarım Kredi Kooperatifleri ve Birlikleri Kanunu, 15/5/1957 tarihli ve 6964 sayılı Ziraat Odaları ve Ziraat Odaları Birliği Kanunu, 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu ve 29/6/2004 tarihli ve 5200 sayılı Tarımsal Üretici Birlikleri Kanununa dayanılarak hazırlanmıştır.
