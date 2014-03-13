@@ -1,0 +1,7 @@
+Yapım işine ait projede öngörülen imalat yerine daha düşük bedelli imalatın yapılarak bedelinin hakedişten düşülmemesi.
+
+..… İnşaat Ticaret Ltd. Şti. yükleniminde bulunan “… Yerleşkesi Fen-Edebiyat Fakültesi Öğretim Üyeleri Odaları Onarım, Tadilat, Yenileme İnşaatı” işi ihale dosyasında 26.0008/049A poz nolu “40*40 cm ebadında parlak yüzeyli her renkte sırsız porselen karolar (granit seramik karo) ile fugalı döşeme kaplama (fayans ve seramik yapıştırıcısı ile) yapılması” imalatı öngörülmüşse de yerinde yapılan incelemede daha düşük bedelli 26.0008/048A poz nolu “40*40 cm ebadında mat yüzeyli her renkte sırsız porselen karolar (granit seramik karo) ile fugalı döşeme kaplama (fayans ve seramik yapıştırıcısı ile) yapılması” imalatının yapıldığı ve bedelinin hakediş ödemelerinden düşülmediği görülmüştür.
+
+04.03.2009 tarih ve 27159 sayılı Mükerrer Resmi Gazete’de yayımlanan Yapım İşleri İhaleleri Uygulama Yönetmeliği’nin 8 No’lu eki olan Yapım İşleri Genel Şartnamesi’nin “Sözleşme ve eklerine uymayan işler” başlıklı 23 üncü maddesine göre projesine göre farklı yapılan işlerin bedeli daha az ise ödemenin buna göre hesaplanması gerekir.
+
+Bu itibarla, söz konusu yapım işinde 26.0008/049A poz nolu imalat yerine 26.0008/048A poz nolu imalatın yapıldığı görülmüşse de .… TL kamu zararının ………. Bankası dekontu ile .… İnşaat Ticaret Ltd. Şti.’nden tahsil edildiği anlaşıldığından konu hakkında ilişik kalmadığına oybirliğiyle,
