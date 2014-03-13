@@ -24,3 +24,4 @@ Değiştiren Kanunun/ Numarası | 2820 sayılı Kanunun değişen veya iptal edi
 6111 | 66, 74 | 25/2/2011
 Anayasa Mahkemesinin 12/1/2012 tarihli ve E.:2011/62 ve K.: 2012/2 sayılı kararı | 117 | 1/5/2013
 6456 | Geçici Madde 19 | 18/4/2013
+6529 | 15, 20, 43, Ek Madde 1 | 13/3/2014
