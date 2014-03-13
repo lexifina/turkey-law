@@ -1,0 +1,5 @@
+KREDİ
+
+….. İli Merkez ve İlçelerinde BSK Kaplama 10,5 KM Yol Yapım işi için ….. Bankasından, ….. kredi numarasıyla, ….. TL borçlanılmış; iş bitiminde ….. TL bütçe gideri, tahakkuk ettirilmiş ve bu gider, ….. Bankasınca ödenmiştir. Krediden arta kalan tutar ise, iptal edilmemiş ve Bankaya olan mevcut borç faizlerinin mahsubunda kullanılmıştır.
+
+Kredi işlemi, kredi veren ve alan olmak üzere iki tarafın mutabakatıyla yapılan ve sözleşmeye bağlanan bir işlem olduğundan; Banka ile İdarenin, kredi konusunu değiştirmeleri, mevzuata aykırı olmamak şartıyla, sözleşme serbestisinin gereğidir. Bu nedenle, Banka kanalıyla yapılan bu işlemin, ihtiyaç mukabili olmadığı, mevzuata aykırılığı veya İdarenin bankada yeterli nakdinin olduğu, dolayısıyla bu kredinin gereksiz yere kullanılmak suretiyle kurumun zararına sebep olunduğu yönünde bir tespit yapılmadan; kamu zararı olarak tanımlanması olanaksızdır. Dolayısıyla, mevzuata uygun olduğu anlaşılan ….. TL için ilişilecek husus bulunmadığına, oy birliğiyle,
