@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13334133-ÖİV-11-5",
+  "source_id": 36914,
+  "date": "2014-03-13",
+  "title": "SMS ile bilgi ve reklam amaçlı mesaj hizmetinin ÖİV ye tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36914",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "e9a3363be461344307eb00bf3db34802f099d27a4263e0645684d24dd0ee20af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
