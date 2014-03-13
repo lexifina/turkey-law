@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10319",
+  "decision_date": "2014-03-13",
+  "source_id": 8648,
+  "chamber": "1",
+  "ilam_number": "167",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8648/",
+  "source_sha256": "ea8d61cbf4b80f25ea894451edd30b595e5ed5bfe204e4e2f2a0f15e303531e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
