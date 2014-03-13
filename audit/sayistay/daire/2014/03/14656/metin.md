@@ -1,0 +1,3 @@
+Üniversite tarafından kiraya verilen taşınmazlara ait elektrik, su ve doğalgaz bedellerinin kiracılardan tahsil edilmemesi veya geç yapılan tahsilatlarda gecikme zammı tahakkukunun hesaplanmaması.
+
+Üniversite tarafından kiraya verilen taşınmazlara ait elektrik, su ve doğalgaz bedellerinin kiracılardan tahsil edilmemesi nedeniyle .… TL ve geç yapılan tahsilatlarda gecikme zammı tahakkukunun hesaplanmaması nedeniyle …. TL olmak üzere toplam ..… TL kamu zararına sebebiyet verildiği görülmüşse de,  savunma ekinde gönderilen belgelerden söz konusu tutarın .… TL’sinin 2012 yılı içinde, .… TL’sinin 2013 yılında tahsil edildiği anlaşıldığından konu hakkında ilişik bulunmadığına oybirliğiyle,
