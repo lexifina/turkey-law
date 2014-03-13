@@ -1,0 +1,3 @@
+… Yüksekokulunda görev yapan öğretim elemanlarına “Eğitim Öğretim Ödeneği”nin fiilen çalışılmayan süreler için de ödenmesi.
+
+… Yüksekokulunda görev yapan öğretim elemanlarına “Eğitim Öğretim Ödeneği”nin fiilen çalışılmayan süreler için de ödendiği görülmüşse de toplam ….. TL kamu zararının .… TL’sinin aşağıda yer alan tabloda yazılı belgelerle tahsil edildiği anlaşıldığından konu hakkında ilişik kalmadığına; kalan tutardan Okutman ……’in 15 Haziran’da işe başlaması nedeniyle bu ay için hesaplanan … TL; Okutman ……’ın 15 Temmuz’da işe başlaması nedeniyle bu ay için hesaplanan … TL; Okutman …… ve ……’in görevlendirme tarihlerinin 2011 yılında olması nedeniyle …. TL olmak üzere toplam ..… TL’nin ilişiğinin bulunmadığına oybirliğiyle,
