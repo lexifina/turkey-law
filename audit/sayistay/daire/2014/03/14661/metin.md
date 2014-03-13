@@ -1,0 +1,3 @@
+Üniversite özel bütçesinin bankada bulunan nakit kaynaklarının vadeli mevduatta değerlendirilmesinde, bazı vadeler için Kamu Haznedarlığı Genel Tebliği’nin ilgili hükümlerine aykırı şekilde referans faiz oranlarının dikkate alınmaması.
+
+Üniversite özel bütçesinin bankalarda bulunan nakit kaynaklarının vadeli mevduatta değerlendirilmesinde, bazı vadeler için 22.08.2008 tarihli ve 26975 sayılı Resmi Gazete’de yayımlanan Kamu Haznedarlığı Genel Tebliği’nin “Nemalandırma” başlıklı 7 nci maddesi hükümlerine aykırı olarak referans faiz oranlarının dikkate alınmaması sonucu düşük faiz geliri elde edildiği görülmüşse de, ….. TL kamu zararının ……. Bankası dekontu ile tahsil edildiği anlaşıldığından konu hakkında ilişik kalmadığına oybirliğiyle,
