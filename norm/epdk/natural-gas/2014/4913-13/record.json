@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4913/13",
+  "decision_date": "2014-03-13",
+  "title": "4646 sayılı Doğal Gaz Piyasası Kanunu’nun Geçici 2 nci maddesi ve 29 Nisan 2006 tarihli ve 26153 sayılı Resmi Gazetede yayımlanan 13/04/2006 tarih ve 725 sayılı Kurul Kararı gereğince; Kazakistan’dan doğal gaz ithalatı için yapılacak ithalat lisans başvuruları hakkında",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3zz7lsXhuTk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3zz7lsXhuTk="
+  ],
+  "source_sha256": "593b2bce1d07f662b4cc51ece1d143b7cd920c2bc92ee3a845b009e94f65254f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-03-13",
+  "law_text_complete": false
+}
