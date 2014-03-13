@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155.01.01.01[2013/2823]-245",
+  "source_id": 34682,
+  "date": "2014-03-13",
+  "title": "\"Satılıklarda Yetki Belgesi Sözleşmesi\"nin damga vergisi matrahı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34682",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "95c4be57814fc6ef82ade77161d51367c8fe64b24fac38906abf2c4157b1f0be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
