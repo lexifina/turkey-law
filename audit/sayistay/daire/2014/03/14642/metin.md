@@ -1,0 +1,3 @@
+… Fakültesinde görev yapan öğretim elemanlarına “Eğitim Öğretim Ödeneği”nin fiilen çalışılmayan süreler için de ödenmesi.
+
+… Fakültesinde görev yapan öğretim elemanlarına “Eğitim Öğretim Ödeneği”nin fiilen çalışılmayan süreler için de ödendiği görülmüşse de toplam .… TL kamu zararının …. TL’sinin ….. Bankası dekontu ile ahizleri Araştırma Görevlisi ……, Prof. Dr. …… ve Prof. Dr. ……’dan tahsil edildiği anlaşıldığından konu hakkında ilişik kalmadığına; Araştırma Görevlisi ……’ın görevlendirmesinin vize işlemlerinin uzun sürmesi nedeniyle geç başlaması nedeniyle kalan …. TL’nin ilişiğinin bulunmadığına oybirliğiyle,
