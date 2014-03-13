@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10320",
+  "decision_date": "2014-03-13",
+  "source_id": 17230,
+  "chamber": "1",
+  "ilam_number": "165",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17230/",
+  "source_sha256": "37fa15afa65b8f254c61f116fc59ea9bfb1459666cb347fb077697f5234edf99",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
