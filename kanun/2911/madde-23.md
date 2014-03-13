@@ -8,7 +8,7 @@ f) 4 üncü madde ile Kanun kapsamı dışında bırakılan konularda kendi ama�
 g) Kanunların suç saydığı maksatlar için,
 h) Bildirimde belirtilen amaç dışına çıkılarak,
 i) Toplantı ve yürüyüşün 14, 15, 16, 17 ve 19 uncu maddelere dayanılarak yasaklanması veya ertelenmesi halinde tespit edilen erteleme veya yasaklama süresi sona ermeden,
-j) 13 üncü maddenin 3 üncü fıkrasına göre hükümet komiserince toplantının sona erdirildiği halde,
+j) (Değişik: 2/3/2014-6529/9 md.) 12 nci madde gereğince toplantının dağılmasına karar verilmesi hâlinde,
 k) 21 inci madde hükmüne aykırı olarak,
 l) 3 üncü maddenin 2 nci fıkrası hükmüne uyulmadan,
 Yapılan toplantılar veya gösteri yürüyüşleri Kanuna aykırı sayılır.
