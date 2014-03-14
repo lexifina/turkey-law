@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6528",
+  "year": 2014,
+  "title": "Millî Eğitim Temel Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-03-14",
+  "gazette_issue": "28941",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140314-1.htm",
+  "source_sha256": "32f63aec1d09c04c1aa60eea590599a5e6a4f077bc4f8d477308ec6e6186be7c",
+  "text_sha256": "015602d7a7e6e547e2c95606259c36e8d69f13aff2084863b06cf7b560e71111",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/03/14/28941-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140314-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
