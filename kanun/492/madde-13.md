@@ -353,11 +353,13 @@ a) Türk okullarında veya fakültelerinde okuyan öğrenciler,
 b) Münhasıran basın ve yayın kuruluşları için muhabirlik yapanlar,(2)
 c) Devlet, il özel idareleri, belediyeler, İktisadi Devlet Teşekkülleri ve bunlara bağlı resmi müesseseler tarafından istihdam edilen profesör ve uzmanlarla, iş sahibi olmıyan eşleri ve çocukları,
 ——————————
-(1) 11/8/1999 tarih ve 4444 sayılı Kanunun 15 inci maddesi uyarınca bu fıkra, 1/1/2000 tarihinde yürürlüğe girecektir.
+(1)11/8/1999 tarih ve 4444 sayılı Kanunun 15 inci maddesi uyarınca bu fıkra, 1/1/2000 tarihinde yürürlüğe girecektir.
 (2) Bu bentte yer alan “gazete muhabirliği yapanlar“ ibaresi, 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle “basın ve yayın kuruluşları için muhabirlik yapanlar“ olarak değiştirilmiş ve metne işlenmiştir.
 3918
 d) Mali durumlarının bozuk olduğuna ikamet tezkeresi vermeye yetkili makamlarca kanaat getirilen yoksullar,
 e) Türk aslından olup Türk kültürüne bağlı ecnebi uyruklular.
+f) (Ek: 4/4/2013-6458/123 md.) Uzun dönem ikamet izni bulunanlar,
+g) (Ek: 4/4/2013-6458/123 md.) İnsan ticareti suçunun mağduru olanlar.
 ÜÇÜNCÜ BÖLÜM
 Harç Alma Ölçüleri ve Nispetleri
 Harcın ölçüleri:
@@ -388,7 +390,7 @@ Madde 97 – Gemi ve liman harçları, taraflarca aksi kararlaştırılmamışsa
 a) Mülkiyet hakkını iktisabedenler, (İktisabeden kişiler birden fazla ise, harçları hisseleri oranında öderler),
 b) İpoteklerde ipoteği tesis edenler,
 c) Bunlar dışında kalan işlemlerde lehine işlem yapılmış olanlar.
------------------------------
+___________________
 (1) 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, bu maddede geçen “ikamet tezkeresi ve tasdik harçları, ilgili kağıt ve belgelere harç pulu yapıştırılması“ ibaresi, "ikamet tezkeresi, vize ve Dışişleri Bakanlığı tasdik harçları makbuz karşılığında" olarak değiştirilmiş ve metne işlenmiştir.
 3919
 İKİNCİ BÖLÜM
@@ -1560,8 +1562,7 @@ si sonuna kadar.) (Binde 0,22) Binde 0,12
 Ancak, bu miktar 24.519.600 (10.756,00 TL.) liradan fazla olamaz.
 VII – Okul diplomaları :
 1. (Mülga: 22/7/1998 - 4369/82 md.)
-2. Lise veya bu dereceye muadil okullarda bu derecedeki sanat ve meslek okul ve enstitülerinden mezun
-olacaklara verilecek diplomalar (6,60 TL.) 17.600 TL.
+2. (Mülga: 1/3/2014-6528/27 md.)
 3. Üniversite haricinde kalan yüksek okullardan veya aynı derecedeki sanat ve meslek okul ve enstitülerden mezun olacaklara verilecek diplomalar (10,80 TL.) 26.200 TL.
 VIII – Yolcu beraberinde getirilen telefon kullanım izin harcı: (Ek : 4/12/1985 - 3239/96-c md; Mülga : 28/5/1986 - 3293/7 md; Yeniden düzenleme: 31/5/2012-6322/20 md.)
 1.Ticari mahiyette olmaksızın, yolcuların kendi kullanımları için yurt dışından getirdikleri alıcısı bulunan verici portatif telsiz telefon cihazları kullanım izni (Söz konusu harç, elektronik kimlik bilgisinin kayıt altına alınması işleminden önce ödenir. Elektronik kimlik bilgisinin kayıt altına alınması için yapılan başvuru sırasında harcın ödendiğine ilişkin belge aranır ve harç ödenmeden kayıt işlemi yapılmaz. Harç ödenmeden kayıt işlemi yapılan ve kullanıma açılan cihazlar, Bilgi Teknolojileri ve İletişim Kurumu tarafından kullanıma kapatılır. Ödenmeyen harç %50 fazlasıyla ilk kayıt tarihinden itibaren 6183 sayılı Kanuna göre hesaplanan gecikme zammı ile birlikte tahsil edilir. Bu tahsilat yapılmadan
