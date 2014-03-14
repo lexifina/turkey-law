@@ -1,0 +1,3 @@
+GEÇİCİ MADDE 5 – (Ek: 1/3/2014-6528/13 md.)
+Bu maddenin yayımı tarihinde faal olan dershaneler ile bu Kanunla yapılan düzenlemelere göre gerekli dönüşümü tamamlamayan öğrenci etüt eğitim merkezlerinin eğitim öğretim faaliyetleri 1/9/2015 tarihine kadar devam edebilir.
+Bakanlık, bunlardan 1/9/2015 tarihine kadar başvuranları, belirlenecek esaslara göre uygun görülmesi hâlinde öğretim kurumlarına dönüşüm programına alır. Dönüşüm programına alınan kurumların, 2018-2019 eğitim öğretim yılının bitimine kadar mevzuatta öngörülen şartları karşılamaları kaydıyla dönüşebilecekleri okul ve diğer kurum türleri ile dönüşüm esas ve usulleri Bakanlıkça çıkarılan yönetmelikle düzenlenir.
