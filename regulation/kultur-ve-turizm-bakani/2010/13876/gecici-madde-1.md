@@ -1,0 +1,2 @@
+İntibak(2)
+GEÇİCİ MADDE 1 – Korunması Gerekli Taşınır Kültür ve Tabiat Varlıkları Koleksiyonculuğu ve Denetimi Hakkında Yönetmelik hükümleri kapsamında koleksiyonculuk belgesi bulunan ve aynı zamanda özel müze sahibi olan gerçek ve tüzel kişilerin koleksiyon izin belgeleri bu Yönetmeliğin yayımı tarihinden itibaren bir yıl sonra iptal edilmiş sayılır. Bu durumdaki koleksiyoncuların envanterlerinde bulunan taşınır kültür ve tabiat varlıkları, istemeleri halinde sahibi oldukları özel müzenin envanterine dahil edilebilir.(2)

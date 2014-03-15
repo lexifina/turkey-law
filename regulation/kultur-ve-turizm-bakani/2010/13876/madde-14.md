@@ -1,0 +1,3 @@
+Koleksiyonculuktan vazgeçme
+MADDE 14 – (1) Bu Yönetmelik hükümlerine göre, koleksiyonculuktan vazgeçmek isteyenler, bağlı oldukları müze müdürlüğüne yazılı olarak başvurarak müzelik değerdeki kültür ve tabiat varlıklarının bağış veya satış yoluyla müzelere mal edilmesini isteyebilir. Müzelerce, Korunması Gerekli Taşınır Kültür ve Tabiat Varlıklarının Tasnifi, Tescili ve Müzelere Alınmaları Hakkındaki Yönetmelik hükümlerine göre işlem yapılır.
+(2) Bakanlığa bağlı müzelerce satın alınmayan taşınır kültür ve tabiat varlıkları Bakanlık denetimindeki özel müzelere veya koleksiyonculara satılabilir veya devredilebilir. Komisyon tarafından gerekli görülmesi durumunda bu taşınır kültür varlıkları satın alınıncaya kadar yediemin olarak müzede tutulur.

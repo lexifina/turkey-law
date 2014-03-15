@@ -1,0 +1,2 @@
+Sergileme
+MADDE 12 – (1) Koleksiyoncuların koleksiyonlarını ziyarete açık bir yerde geçici olarak sergilemesi, sergi süresinin belirtilmesi ve denetim yönünden bağlı bulunduğu müze müdürlüğünün uygun görmesi halinde il sınırları içinde valilik onayına, il sınırları dışında ise o ile bağlı müze müdürlüğünün uygun görüşü doğrultusunda Bakanlık onayına bağlıdır. Serginin her türlü güvenliğinden koleksiyoncu sorumludur. Yurt dışında yapılacak geçici sergilemelerde Kanunun 32 nci maddesi ve ilgili mevzuat hükümleri uygulanır.

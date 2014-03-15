@@ -1,0 +1,3 @@
+Yer değiştirme
+MADDE 11 – (1) Koleksiyoncu, taşınır kültür ve tabiat varlıklarını koleksiyon izin belgesinde gösterilen yerin dışında bulunduramaz. Ancak, gösterilen yerin dışında komisyonun uygun görüşü doğrultusunda aynı il sınırları içinde ilave bir yerde daha bulundurabilir.
+(2) Koleksiyonunun yerini değiştirmek isteyen koleksiyoncu, bağlı olduğu müze müdürlüğünden yazı ile izin ister, müze müdürlüğü otuz gün içinde yer değişikliğini değerlendirerek koleksiyoncuya bildirir. Müze müdürlüğünün izni olmadan yer değişikliği yapılamaz. Adres değişikliği yapıldıktan sonra koleksiyon izin belgesi Yönetmelik hükümlerine göre yeniden düzenlenerek bir nüshası otuz gün içinde Bakanlığa gönderilir.

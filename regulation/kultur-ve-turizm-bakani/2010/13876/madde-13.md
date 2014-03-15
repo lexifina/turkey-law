@@ -1,0 +1,4 @@
+Yurt dışından koleksiyon getirme
+MADDE 13 – (1) Yurt dışından koleksiyon getirmek serbesttir. Kültür ve tabiat varlıklarından oluşan koleksiyon getirenler, varlıkların her birinin niteliklerini, orijinlerini ve gümrük kodlarını belirten fotoğraflı envanter listesini veya uluslararası standarda uygun ihraç izin belgesinin bir nüshasını Bakanlığa vermek zorundadırlar. Bu şekilde giren varlıklar beyan listesine veya ihraç izin belgesine uygun olarak yurt dışına çıkarılabilir.
+(2) Kanun hükümlerine göre korunması gerekli kültür ve tabiat varlıkları edinenler bunları yurt dışına çıkaramazlar.
+(3) Yurt dışından getirilen koleksiyonlar öncelikle Bakanlığa bağlı müzelere bağışlanabilir veya satılabilir. Bakanlığa bağlı müzelerce satın alınmayan taşınır kültür ve tabiat varlıkları başka koleksiyonculara ve özel müzelere satılabilir veya devredilebilir.

@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.13876",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KORUNMASI GEREKLİ TAŞINIR KÜLTÜR VE TABİAT VARLIKLARI KOLEKSİYONCULUĞU VE DENETİMİ HAKKINDA YÖNETMELİK",
+  "number": "13876",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2010/13876",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13876&MevzuatTertip=5",
+  "source_sha256": "a19dc615e9fa38214d279b4c2e37efee463d908e725618ce1732ed038ca48bf7",
+  "source_bytes": 48651,
+  "published": "2010-03-23",
+  "gazette": "27530",
+  "in_force": "2014-03-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/3/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-03-15",
+      "RG-15/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-03-15",
+      "15/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-06-13",
+      "RG-13/6/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-06-13",
+      "13/6/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2543,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
