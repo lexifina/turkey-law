@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-03-16",
+  "issue": "28943",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Hacettepe Üniversitesi Sağlık Hizmetleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140316-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140316.htm",
+  "index_sha256": "6ba98698ce522b4d72ffe8a25305b5dfc8b27c243e01e2262a466a58706ca986",
+  "index_header": "16 Mart 2014 ... 28943 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140316.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
