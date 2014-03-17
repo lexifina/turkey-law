@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[94-2013/966]-581",
+  "source_id": 23811,
+  "date": "2014-03-17",
+  "title": "Kira sözleşmesinde belirtilen kira bedelinin net veya brüt olduğunun belirlenmemesi durumunda vergi tevkifatının hangi tutar üzerinden yapılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23811",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "3cc3539b57591bce807c9421a9f88211a5c32a38f2d88e3ada67e84960196f1d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
