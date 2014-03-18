@@ -1,0 +1,13 @@
+Aşırı düşük teklif
+
+“……….. İşi” ile ilgili olarak; işin ihalesinde aşırı düşük teklif sorgulamasının hatalı yapılması sonucu ……….. TL kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede,
+
+Kamu ihale mevzuatı, hizmet alımı ihalelerinde aşırı düşük tekliflerin değerlendirilmesi, dolayısıyla sınır değer tespiti konusunda, kamu hizmetinin idari ve mali gereklerine aykırı kullanılmamak koşulu ile idareye takdir yetkisi vermiş olmakla birlikte, bu yetkinin mutlak ve sınırsız olmadığı aşikardır. İnceleme konusu ihalede, ihale konusu işin bir hizmet alımı olmasına rağmen, Kamu İhale Genel Tebliğinde yapım işlerinde kullanılmak üzere düzenlenen sınır değer hesaplama yöntemi kullanılarak bir sınır değer hesaplandığı ve teklif fiyatı bu değerin altında kalan başvuru sahibinden aşırı düşük teklif açıklaması istenildiği anlaşılmaktadır.
+
+Söz konusu iş bir hizmet alımı olmasına karşın, yapım işlerine özgü olan sınır değer hesaplaması kullanılmış, sınır değer olan ……….. TL nin altında olan tutarlar aşırı düşük sorgulamasına tutulmuştur. Aşırı düşük sorgulaması sonucu ……….. TL teklif veren ……….. Şti. nin cevabı ihale komisyonunca yetersiz görüldüğünden ihaleden elenmiştir. İhale üzerinde bırakılan ………...Şti.’nin teklifi ise ……….. TL’dir. Bu durumda, Kamu İhale Genel Tebliğinde personel çalıştırılmasına dayalı olmayan hizmet alımı ihalelerinde aşırı düşük tekliflerin belirlenmesine yönelik olarak objektif bir kriter bulunmadığı ve bu hususun yaklaşık maliyet ve diğer tekliflerle karşılaştırma yapmak suretiyle idarenin takdirine bırakıldığı, idarenin yapım işleri ihalelerinde kullanılan sınır değer hesaplama aracını bir hizmet alımı olan inceleme konusu ihalede kullanarak aşırı düşük teklif istenilecek isteklileri belirlemesinin yerinde olmadığı değerlendirilmiştir.
+
+Ancak, 4734 sayılı Kamu İhale Kanununun 38 inci maddesinde; “İhale komisyonu verilen teklifleri 37 nci maddeye göre değerlendirdikten sonra, diğer tekliflere veya idarenin tespit ettiği yaklaşık maliyete göre teklif fiyatı aşırı düşük olanları tespit eder. Bu teklifleri reddetmeden önce, belirlediği süre içinde teklif sahiplerinden teklifte önemli olduğunu tespit ettiği bileşenler ile ilgili ayrıntıları yazılı olarak ister.
+
+….. aşırı düşük teklifleri değerlendirir. Bu değerlendirme sonucunda, açıklamaları yeterli görülmeyen veya yazılı açıklamada bulunmayan isteklilerin teklifleri reddedilir.” denilmekte olup, madde hükmünden de açıkça anlaşılacağı üzere ihale komisyonunun aşırı düşük teklif sorgulamasını yapma yetkisi bulunmaktadır.
+
+Bu itibarla, aşırı düşük teklif sorgulamasının ihale mevzuatı çerçevesinde mevzuatına uygun olarak yapıldığı anlaşıldığından ……….. TL ilgili olarak ilişilecek bir husus bulunmadığına oybirliğiyle karar verildi.
