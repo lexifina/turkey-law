@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2014/DK-SDD/154",
+  "date": "2014-03-18",
+  "title": "Soruşturma - Ölçüm Yetki Belgeli Kuruluşlar",
+  "relevant_unit": "Sektörel Denetim Dairesi Başkanlığı",
+  "publication_date": "2014-03-18",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=124",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/4eb2af4d-4b6a-4428-87fc-3007a1502fa6.pdf",
+  "source_sha256": "bbbd0f9d88ffa47dd9eac6f2567ac19559adc0cb0895474ae907e7447ef9103a",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2014-03-18",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 18.03.2014; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
