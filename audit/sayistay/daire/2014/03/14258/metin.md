@@ -1,0 +1,5 @@
+Kömür alımı
+
+………..  A.Ş. yükleniminde gerçekleştirilen “Torbalanmış kömür alımı” ile ilgili olarak; teslim alınan kömür miktarına nazaran daha az miktarda kömürün dağıtılması sonucu ……….. TL kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede,
+
+Söz konusu kömür alım işinde, işe ait hakediş raporları ve ilgili belgelerin incelenmesi sonucu toplam ……….. ton kömürün idareye teslim edildiği görülmektedir. Ancak idare tarafından düzenlenmiş olan dağıtılan kömür miktarına ilişkin listeye göre toplam ……….. ton kömürün ihtiyaç sahibi olanlara dağıtıldığı tespit edilmiştir. Geri kalan (……….. =) ……….. ton ((……….. TL*……….. ton=) ……….. TL) kömüre ilişkin herhangi bir kayıt bulunamamışsa da; savunmadan da anlaşıldığı üzere, ……….. ton kömürün ...... depremi  nedeniyle ilçeye göç eden depremzede ailelere dağıtıldığı; Depremzede ailelere yapılan yardım ayrı dosyalandığı için hakediş dosyalarının içinde yer almadığı ve savunma ekleri arasında ayrıca bildirildiği, mevzuatına uygun olduğu anlaşılan ……….. TL kömür bedeli ile ilgili olarak ilişilecek husus bulunmadığına oybirliğiyle karar verildi.
