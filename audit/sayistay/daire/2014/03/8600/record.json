@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "16",
+  "decision_date": "2014-03-18",
+  "source_id": 8600,
+  "chamber": "7",
+  "ilam_number": "178",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8600/",
+  "source_sha256": "87f195793caf5035f2355b0e2ef4d45e642d45d20223bd3f7847fef18f31c6b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
