@@ -1,0 +1,11 @@
+Koruma
+Madde 17 - Bu Yönetmeliğin uygulandığı yerlerde;
+a) Sınırlar uygun fiziki elemanlarla veya yeşil çitlerle yer yer belirlenir. Bunun dışında kalan sınırlar uygun aralıklı ve kolay görülebilir işaret ve levhalarla belirtilir.
+b) Koruma amacı ile yol, patika, haberleşme ağı; telsiz ve telefon gözetleme kule ve kulübeleri geliştirilir; deniz-hava ulaşım ve kontrol imkanları, ekipman ve araçlarıyla donatılır.
+c) Yangınlar, özellikle orman yangınlarıyla mücadele yönünden bu Yönetmeliğin 10 uncu maddesinde açıklanan esaslar dahilinde her türlü tedbir alınır. Mücadelede su ve çevreye zararlı olmayan kimyevi madde kullanımına yer verilir. Yangınların tesbit ve söndürülmesine ilişkin her türlü müdahale kalifiye ekiplerce sağlanır. Geniş uygulama alanları için özel yangınla mücadele projeleri hazırlanır ve uygulanır.
+d) Planlar uyarınca gerçekleştirilecek her türlü tesisin, idarenin koyacağı esaslar dahilinde, çevre sorunu yaratmayacak şekilde, atık su arıtma sistemiyle donatılması ve tesisle birlikte bitirilmesi, tesisi yapan kuruluş veya şahıslarca sağlanır. Yapım sırasında meydana gelen moloz döküntüleri yatırımcı tarafından kaldırılır ve kullanım alanının tabii peyzaja uygun çevre tanzimi idarenin belirleyeceği esaslara göre yapılır. İdarece gerçekleştirilecek müşterek alt yapı tesislerine, kamu ve özel tesis sahiplerinin, belirlenecek katılım payları ile iştiraki temin edilir.
+e) Çevreyi ve ziyaretçileri rahatsız edecek seviyede gürültülü faaliyetlerde bulunulamaz, yüksek sesle müzik yayını yapılamaz.
+f) Yapı ve tesislerde çevre ve hava kirliliği yaratan yakıt kullanılamaz, kullanılması gerektiğinde idarenin koyacağı kirlenmeye karşı tedbirlerin alınması zorunludur.
+g) Ziyaretçiler, idarece konan esaslar dahilinde bu yerlerden yararlanabilirler.
+h) Yasaklanan fiillere, arazi kullanma şekillerine ve plan dışı yapılaşmaya fırsat verilmez. Aksi hareket edenler hakkında kanuni işlem yapılır.
+ı) Genel peyzajda göze çarpan bozulmaları gidermek üzere, yörenin tabii arazi yapısı, tabii bitki örtüsü ve tabii peyzaj özellikleri dikkate alınmak ve o yörenin tabii türleri kullanılmak suretiyle ağaçlandırma, peyzaj restorasyonu ve tesislerin yakın çevre peyzaj düzenlemeleri yapılır.

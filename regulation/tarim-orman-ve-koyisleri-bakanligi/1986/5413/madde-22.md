@@ -1,0 +1,6 @@
+Gerçek ve Tüzel Kişilere Verilecek İzinler
+Madde 22 - Milli Park ve tabiat parklarında, kamu yararı olmak şartıyla, o yer planlarının hükümleri dahilinde turistik amaçlı bina ve tesisler yapmak üzere gerçek ve özel hukuk tüzel kişileri lehine, Maliye ve Gümrük Bakanlığının görüşü alınarak ve Bakanlık tarafından öngörülen şartlar yerine getirilmek kaydıyla izin verilebilir.
+Müteşebbis, o yere ait mevcut planlarındaki şartlarla, Bakanlığın belirleyeceği esaslar dahilinde projelerini hazırlar ve turizm mevzuatına uygun olarak Kültür ve Turizm Bakanlığından belge almak sureti ile Bakanlıktan intifa hakkı tesisi talebinde bulunur.
+Turizm belgesi ve ekli projeleri ile keşif özetlerini Bakanlığa getiren müteşebbis adına, Maliye ve Gümrük Bakanlığının görüşü alınarak, Bakanlıkça usulüne ve proje ekonomisi ile amortisman müddetine uygun olarak kırkdokuz yılı geçmemek kaydıyla intifa hakkı tesis edilir.
+İntifa hakkı tesis edildiğinin Bakanlıkça müteşebbise tebliğini takip eden bir ay içinde Bakanlıkça verilen örneğe uygun noter tasdikli taahhüt senedi Bakanlığa verilir. Takiben, tahsis edilen yer, Bakanlıkça müteşebbise mahallen düzenlenen bir tutanakla teslim edilir. Müteşebbis, Bakanlığa taahhüt ettiği şartlara kesinlikle uymak zorundadır.
+İntifa hakkı süresinin uzatılması ve devri Kanunun 8 inci ve 9 uncu maddeleri hükümlerine göre yapılır.

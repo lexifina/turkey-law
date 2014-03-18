@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 - Bu Yönetmelik, 2873 sayılı Milli Parklar Kanununun 22 nci maddesi ile 2896 sayılı Kanunla 6831 sayılı Orman Kanununa eklenen EK 5 inci maddesine göre hazırlanmış olup; Milli Parkların, Tabiat Parklarının, Tabiat Anıtlarının, Tabiatı Koruma Sahalarının ve Orman İçi Dinlenme Yerlerinin ayrılması, planlanması, geliştirilmesi, korunması, yönetilmesi ve tanıtılmasına ilişkin iş ve işlemleri kapsar.

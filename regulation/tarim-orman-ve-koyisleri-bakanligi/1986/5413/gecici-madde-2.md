@@ -1,0 +1,1 @@
+Geçici Madde 2 - Kanun ve bu Yönetmelik kapsamına giren yerlerde evvelce verilmiş kullanma izni, irtifak ve intifa hakları; geçerlilik süresi bitimine kadar başka bir işleme gerek kalmaksızın sahibi tarafından kullanılır.

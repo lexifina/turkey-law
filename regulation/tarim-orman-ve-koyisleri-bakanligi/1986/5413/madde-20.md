@@ -1,0 +1,4 @@
+Tesis ve Düzenleme
+Madde 20 - Kanun kapsamına giren yerlerde planların gerektirdiği her türlü yapı, tesis, hizmet ve faaliyetlerin yapılması, yönetilmesi ve işletilmesi Kanunun 12 nci maddesine göre düzenlenir.
+Bu hizmetler içinde yer alan, lokanta, kafeterya, büfe, kır gazinosu ve benzeri tesisler idarece fon kapsamında işletilebileceği gibi, mevsimlik olarak işletmeciye de verilebilir. Milli Park, tabiat parkı, tabiat anıtı ve tabiatı koruma alanları yatırımları için gerekli ödenekler, fon yönetmeliği esasları dahilinde kullanılır.
+Milli Park, tabiat parkı, tabiat anıtı ve tabiatı koruma alanları içindeki mevcut yerleşim merkezlerinde ikamet edenler dışında bu yerlere gelen ziyaretçiler; giriş kontrol merkezlerinde veya sahalar içindeki idare ve ziyaretçi merkezlerinde, Bakanlıkça tesbit edilecek ücreti öderler. Bu ücretler fon'da toplanır.

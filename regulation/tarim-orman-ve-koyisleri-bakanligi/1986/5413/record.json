@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.5413",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ PARKLAR YÖNETMELİĞİ",
+  "number": "5413",
+  "issuer": "Tarım Orman ve Köyişleri Bakanlığı",
+  "issuer_slug": "tarim-orman-ve-koyisleri-bakanligi",
+  "path": "regulation/tarim-orman-ve-koyisleri-bakanligi/1986/5413",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5413&MevzuatTertip=5",
+  "source_sha256": "bf249778b0f83e56373df42cc69ffa03b12bccbd37a4fcfcbdc5d0ce8ad455a1",
+  "source_bytes": 39246,
+  "published": "1986-12-12",
+  "gazette": "19309",
+  "in_force": "2014-03-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/3/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-03-18",
+      "RG-18/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik Resmî Gazete'de yayımı tarihinden yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2830,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
