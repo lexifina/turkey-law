@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38620",
+  "decision_date": "2014-03-18",
+  "source_id": 7737,
+  "chamber": "8",
+  "file_number": "35676",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7737/",
+  "source_sha256": "dfa81737117b1a7a8beb602deaaaf2d073c6cfd591b9be173891ee3877e92722",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
