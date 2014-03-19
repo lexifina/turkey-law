@@ -1,0 +1,11 @@
+2886 sayılı Devlet İhale Kanununa göre ihale edilen işte, Yüklenici ile Belediye arasında imzalanan sözleşmenin mevzuata aykırı bir şekilde Belediye Meclis kararı ile sonlandırılarak, yükleniciden işletme gelir payı olarak alınan net satış hasılatının, %91’den %3’e düşürülmesi sonucu gelir kaybı oluşması
+
+2886 sayılı Devlet İhale Kanununa göre ihale edilen … İşletimi işinde, Yüklenici … Anonim Şirketi ile … Büyükşehir Belediyesi arasında imzalanan sözleşmenin mevzuata aykırı bir şekilde Belediye Meclis kararı ile sonlandırılarak, yükleniciden işletme gelir payı olarak alınan net satış hasılatının, % 91’den % 3’e düşürülmesi sonucu gelir kaybı sonucu kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+… Büyükşehir Belediye Meclisinin … tarih ve … sayılı kararı ile; … Büyükşehir Belediyesi sınırlarında olup, bütünleşik bilet sistemi içerisinde çalışan ve ileride bütünleşik bilet sistemi içerisinde çalışacak olan tüm lastik tekerlekli toplu taşım araçlarının (…’a ait otobüsler, özel halk otobüsleri, ilçe işletmeleri, minibüsler vs.)  işletim hakkının 5216 sayılı Kanunun 26 maddesine göre …’a devredilmesi ve bu devir karşılığında net satış hasılatından % 3 bedelinin her ay Büyükşehir Belediyesi adına tahakkuk etmesine karar verildiği görülmüştür.
+
+5216 Sayılı Büyükşehir Belediye Kanunu’nun “Belediyeler Arası Hizmet İlişkileri Ve Koordinasyon” başlıklı 27’nci maddesinde; “………
+
+Yapılacak herhangi bir yatırımın büyükşehir belediyesi ile bağlı kuruluşlarından bir veya birkaçını aynı anda ilgilendirdiği ve tek elden yapılmasının maliyetleri düşüreceğinin anlaşıldığı durumlarda, büyükşehir belediye meclisi, yatırımı kuruluşlardan birinin yapmasına karar verebilir. Bu takdirde yatırımın ilgili diğer kurumu ilgilendiren kısmına ait harcama tutarı o kurumun hesabında borç, yatırımcı kuruluş hesabında alacak olarak gösterilir.” denilmektedir.
+
+…’a devredilen yatırımlar karşılığında savunmada yer verildiği üzere bahse konu şirket tarafından Büyükşehri ilgilendiren yatırımlar yapılmıştır. İdaresince yukarıda belirtilen mevzuat hükümleri gereğince işlem yapıldığından …-TL ile ilgili olarak ilişilecek husus bulunmadığına oy birliğiyle,
