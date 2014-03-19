@@ -1,0 +1,9 @@
+Belediye tarafından çeşitli kurumlara açılan kredilerden bazılarının mahsubu yapılırken hesaplanması gereken faizlerin hesaplanmaması
+
+… Büyükşehir Belediyesi tarafından çeşitli kurumlara açılan kredilerden bazılarının mahsubu yapılırken hesaplanması gereken faizlerin hesaplanmaması sonucu kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+İlgili İdare ile ... arasında imzalanan protokol hükümleri gereği bütçe dışı avans açıldığı görülmüştür.
+
+Mahalli idareler Bütçe ve Muhasebe Yönetmeliğinin “16 Ön Ödemeler” başlıklı 110’uncu maddesinin (3) paragrafında “ödemeler ile ilgili olarak bu yönetmelikte hüküm bulunmayan hallerde 5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 35’inci maddesinde belirtilen Yönetmelik hükümleri uygulanır” denildiği, 5018 Sayılı Kanunun 35’inci maddesine dayanılarak 21.01.2006 tarih ve 26056 Sayılı Resmi Gazetede yayınlanarak yürürlüğe giren Ön Ödeme Usul Ve Esasları Hakkındaki Yönetmeliğin “Ön Ödeme Şekilleri Ve Uygulaması” başlıklı 5’inci maddesi “sözleşmesinde belirtilmek ve yüklenme tutarının yüzde otuzunu geçmemek üzere yüklenicilere teminat karşılığından bütçe dışı avans verilebilir. İlgili kanunların bütçe dışı avans ödenmesine ilişkin hükümleri saklıdır’” hükümleri gereği yapım işlerine ait avans veya kredilerin mutemet veya mal alım avansları gibi 1 veya 3 aylık sürelere tabi tutulmaması işin yapılması süresi boyunca açık kalması gerekmektedir. Ayrıca avans ve kredilere 6183 Sayılı Kanuna göre gecikme zammının işletilebilmesi ancak avansın ve kredinin kapatılarak artıkların geri yatırılmasının geciktirilmesi durumunda mümkün olacaktır.
+
+Bu nedenle anılan işe ait hakediş raporlarından bütçe dışı avans verilen işlerin tamamlandığı ve kesin hesaplarının çıkarıldığı ve kamu zararına neden olunmadığı anlaşıldığından yasal düzenemelere uygun …-TL ödeme için ilişilecek husus bulunmadığına oy birliğiyle,
