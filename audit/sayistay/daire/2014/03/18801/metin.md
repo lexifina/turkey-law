@@ -1,0 +1,5 @@
+Yüklenici tarafından hak edişlerinin İdare tarafından gecikmeli olarak ödenmesi akabinde icra takibi başlatılmış ancak bu takip sonucu idare tarafından ana paraya ilaveten ödenmiş olan vekalet ücreti, faiz gideri ile icra masraflarının sorumlulara rücu ettirilmemesi
+
+… Ltd. Şti. tarafından, hak edişlerinin İdare tarafından gecikmeli olarak ödenmesi akabinde icra takibi başlatılmış ancak bu takip sonucu idare tarafından ana paraya ilaveten ödenmiş olan vekalet ücreti, faiz gideri ile icra masraflarının sorumlulara rücu ettirilmemesi sonucu kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Ödemelerin nakit sıkıntısı nedeniyle geciktiği, bu nedenle firma tarafından idare hakkında icrai takip başlatıldığı, yasal faiz ve diğer giderlerin ödenmemesi adına icra dairelerine itiraz edilmeden firma ile anlaşma yolunun seçilerek avukatlık ücreti …-TL iken …-TL, faiz …-TL iken …-TL, icra masrafları …-TL, tebligat …-TL ve tahsil harcı …-TL iken …-TL firmaya ödenerek …-TL tasarruf sağlandığından mevzuatına uygun olduğu anlaşılan …-TL ile ilgili olarak ilişilecek husus kalmadığına oy birliğiyle,
