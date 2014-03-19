@@ -1,0 +1,9 @@
+Yüklenicinin söz konusu iş kapsamında görevlendirmiş olduğu personelini (iş akdi devam edenleri) işini yürüttüğü başka bir yerde görevlendirmesi sonucu idarece cezai şartın uygulanması gerekirken uygulanmaması
+
+… Ltd. Şti. yükleniminde bulunan “… Hizmet Alım İşi” nde, yüklenicinin söz konusu iş kapsamında görevlendirmiş olduğu personelini (iş akdi devam edenleri) işini yürüttüğü başka bir yerde görevlendirmesi sonucu idarece cezai şartın uygulanması gerekirken uygulanmaması sonucu kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+İşe ait şartnamenin 9’uncu maddesinin 9.2 numaralı alt maddesi gereği yüklenicinin Belediyede yürüttüğü hizmet işi kapsamında görevlendirdiği bazı personelini … Stadyumunda oynanan spor müsabakalarında da görevlendirdiği idarece öğrenildiğinde yüklenicinin yazılı olarak ihtar edildiği görülmüştür.
+
+Söz konusu madde hükmünde yüklenici durumun ilk tespiti halinde yazılı olarak ihbar edilmeden doğrudan hakedişinden kesinti yapılmasının mümkün olmadığı, aynı durumun tekrarlandığının ikinci kez tespiti halinde şartname ve sözleşmesi gereğince yüklenicinin hakedişinden kesinti yapılacağına yer verilmiştir.
+
+Kaldı ki Büyükşehir Belediyesi’nin güvenlik hizmetlerini yerine getiren … Ltd. Şti. ile … Kulübü Derneğinin maçlarda güvenliğin sağlanması amacıyla kar amacı gütmeksizin anlaştığı, … Stadyumunda görevlendirilmiş olan personellerin, Büyükşehir Belediyesindeki işleri bittikten sonra, maç saatinde normal mesaisini tamamlamış olan personellerden, (izinli olanlarından) gönüllülük esasına göre çalışmakta olduğu, bu çalışma esnasında Büyükşehir Belediyesi’ndeki işlerin de aksatılmadığı, işin yürütülmesi sırasında herhangi bir aksama olduğuna dair idare tarafından da yükleniciye herhangi bir uyarıda da bulunulmadığından mevzuatına uygun olduğu anlaşılan …-TL ile ilgili olarak ilişilecek husus kalmadığına oy birliğiyle,
