@@ -1,0 +1,5 @@
+4734 sayılı Kamu İhale Kanunu hükümlerine göre ihale ile satın alınması gereken uçak biletlerinin ihalesiz olarak satın alınması
+
+4734 sayılı Kamu İhale Kanunu hükümlerine göre ihale ile satın alınması gereken uçak biletlerinin ihalesiz olarak satın alınması sonucu kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Harcırah Kanununun 27’inci maddesinin eki olan 1’inci Cetvelde ve bu Cetvele ilişkin açıklamalar karşısında seyahat edilen araca ait ulaşım giderleri bedelinin bu madde hükmü ve açıklamaları doğrultusunda yapıldığı görülmüştür.
+
+Geçici görev yollukları, uçak bilet ücretleri dahil yapılacak gerçek giderin karşılığıdır. Dolayısıyla Belediye tarafından uçak bilet ücretlerinin kişiler adına ödenmesi harcırahın kişilere avans veya kesin ödeme şeklinde yapılması kapsamında olmaktadır. Bu nedenle sorguda uçak bilet bedellerinin gerçek bir gideri yansıtmadığı ya da rayicin üzerinde bir bedelle alındığı iddiasına yer verilmediğinden …-TL tutarında mevzuatına uygun işlemler için ilişilecek husus bulunmadığına oy birliğiyle,
