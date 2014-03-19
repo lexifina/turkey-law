@@ -1,0 +1,13 @@
+Müteahhit yükleniminde bulunan İnşaat işinde, KDV hariç tutarda imalatın bu iş kapsamında ödenmesine rağmen aynı firma yükleniminde bulunan başka bir inşaat işinde yapılması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Müteahhit … Ltd. Şti. yükleniminde bulunan …-TL sözleşme bedelli … İnşaatı işinde, KDV hariç …-TL tutarında imalatın bu iş kapsamında ödenmesine rağmen aynı firma yükleniminde bulunan … İnşaatı işinde yapılması sonucu kamu zararına neden olunduğu iddia edildiği görülmüş ise de;
+
+Kültür ve Tabiat Varlıklarını Koruma Kanunu Kapsamındaki Kültür Varlıklarının Rölöve, Restorasyon, Restitüsyon Projeleri, Sokak Sağlıklaştırma, Çevre Düzenleme Projeleri ve Bunların Uygulamaları ile Değerlendirme, Muhafaza, Nakil İşleri ve Kazı Çalışmalarına İlişkin Mal ve Hizmet Alımlarına Dair Yönetmeliğin "İş miktarının artma veya eksilmesi" başlıklı 33’üncü maddesinde "Sözleşmenin uygulanması sırasında taahhüt edilen işte; projede, malzemede, detayda, imalat veya imalat miktarlarında öngörülemeyen durumlar nedeniyle zorunlu olarak revizyon yapılması halinde bu değişikliklerle ilgili işin bedelinde artma veya eksilme meydana geldiği takdirde, artışa konu olan işin, sözleşmeye esas proje içinde kalması ve idareyi külfete sokmaksızın asıl işten ayrılmasının teknik veya ekonomik olarak mümkün olmaması halinde yüklenici sözleşme bedelinin %50’si (yüzde ellisi) içinde kalan fazlasını veya eksiğini aynı sözleşme hükümleri çerçevesinde yapmaya mecburdur. Değiştirilen veya ilave edilen iş oranında ek teminat almak kaydıyla arttırılacak işe gerekli süre verilir. Yüklenici bu suretle işin artmış veya eksilmiş olmasından dolayı süre hariç hiç bir istek ve iddiada bulunamaz.
+
+İşin bu şartlar dahilinde tamamlanamayacağının anlaşılması durumunda ise artış yapılmaksızın hesabı genel hükümlere göre tasfiye edilir. Ancak bu durumda, işin tamamının ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirilmesi zorunludur." denilerek sözleşme bedelinin % 50’sine kadar olan iş artışının aynı yükleniciye yaptırılacağı hüküm altına alınmış ise de; % 50’nin üzerindeki iş artışı kapsamına giren imalatlar da yüklenici tarafından yapılarak idareye teslim edildiğinden, bu imalatların bedelinin 6098 sayılı Borçlar Kanunu’nun sebepsiz zenginleşme hükümleri uyarınca ödenmesi zorunludur.
+
+Diğer bir ifadeyle yüklenici tarafından söz konusu imalatlar yapılıp idareye teslim edildiğinden bedellerin ödenmesi mecburi olup kamu zararının varlığından söz edilemez.
+
+ Bu gerekçeyle, konu hakkında ilişilecek bir husus bulunmadığına ve bu nedenle de konunun İçişleri Bakanlığına yazılmasına gerek olmadığına,
