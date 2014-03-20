@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-03-20",
+  "issue": "28947",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme İdaresi Başkanlığının 18/3/2014 Tarihli ve 2014/ÖİB-K-42 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140320-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140320.htm",
+  "index_sha256": "838c4ea11da775e9fe4ebd84358787a1be818dbdd87f5ba750c6db606306a7ab",
+  "index_header": "20 Mart 2014 ... 28947 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140320.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
