@@ -1,0 +1,7 @@
+Hafriyat Nakliye ve Döküm Bedeli
+
+Denetçi sorgusunda yer alan; … Büyükşehir Belediyesi … Genel Müdürlüğü tarafından gerçekleştirilen ve … yükleniminde bulunan “… Küçük Sanayi Sitesi … İnşaatı” işinde, kazı imalatı birim fiyat tarifi gereği kazı malzemelerinin döküm mahalline götürüldüğünü gösterir ispat edici belgelerin kesin hak ediş ekleri arasında yer almadığı, bahse konu kazı malzemelerinin döküm mahalline götürülmemiş olması durumunda 18/03/2004 tarih ve 25406 sayılı Resmi Gazete’ de yayımlanan “Hafriyat Toprağı, İnşaat ve Yıkıntı Atıklarının Kontrolü Yönetmeliği gereğince idari para cezası uygulanması gerektiği, kazı atıklarının akıbetinin belirlenememesi durumunda ise, ödemeye esas tarifte yer verilen “idarenin uygun göreceği döküm sahasına nakledilmesi bedellerinin” ve “döküm bedellerinin” hak edişten kesilmesi gerektiği, aksi durumda kamu zarına neden olunmuş olunacağı iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Sorumlularca yapılan savunmada, bahse konu “… Küçük Sanayi Sitesi … İnşaatı” işinde ortaya çıkan kazı artığı malzemenin yüklenici tarafından … döküm sahalarına nakledildiğinin beyan edilerek buna ilişkin faturaların ibraz edildiği, Denetçisince de bu savunmanın yerinde görülerek kamu zararı hesabı yapılmadığı anlaşılmıştır.
+
+Bu itibarla, bahse konu “… Küçük Sanayi Sitesi … İnşaatı” işiyle ilgili kazı imalatına ilişkin ilgili Denetçisince herhangi bir kamu zararı tespiti yapılmadığından, konuya ilişkin işlemlerle ilgili ilişilecek husus bulunmadığına, oy birliğiyle karar verildi.
