@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Rektör tarafından Tıp Fakültesinde tam gün statüdeki dahili tıp bilimleri bölümü öğretim üyeleri arasından bir kişi Müdür olarak üç yıllık süre için görevlendirilir. Görev süresi dolan Müdür tekrar görevlendirilebilir. Müdür çalışmalarında kendisine yardımcı olmak üzere en çok iki müdür yardımcısı görevlendirebilir. Müdürün bulunmadığı zamanlarda, Müdüre yardımcılarından biri vekâlet eder. Göreve vekâlet altı aydan uzun sürerse yeni Müdür görevlendirilir.
