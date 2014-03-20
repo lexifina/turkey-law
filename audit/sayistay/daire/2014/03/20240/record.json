@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "81",
+  "decision_date": "2014-03-20",
+  "source_id": 20240,
+  "chamber": "6",
+  "ilam_number": "174",
+  "item_number": 34,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20240/",
+  "source_sha256": "d5e1b449752488a3e29ab41888e2afe3079af5b5fd85d0082f0644ff6e469282",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
