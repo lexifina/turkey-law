@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35197",
+  "decision_date": "2014-03-20",
+  "source_id": 14823,
+  "chamber": "2",
+  "ilam_number": "185",
+  "item_number": 24,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14823/",
+  "source_sha256": "2c80569ce5a52c1fb7bd11a16bb9ee92a735f4fb0fda39a8c37e162abde9414f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
