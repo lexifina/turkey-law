@@ -1,0 +1,9 @@
+…’ın kümülatif vergi matrahlarının dikkate alınmaması nedeniyle maaş ve ek ders ödemelerinden gelir vergilerinin eksik kesilmesi.
+
+Gelir Vergisi Kanununun 104. maddesinde, yıllık gelir vergisinin, vergiye tabi gelirlerin yıllık toplamından 31. maddedeki indirimler düşüldükten sonra 103. maddedeki nispetler uygulanmak suretiyle hesaplanacağı hükme bağlanmıştır. Bu hüküm ve 128 Seri No’lu Gelir Vergisi Genel Tebliğinde yapılan açıklamalara göre, aynı işveren tarafından aynı vergilendirme dönemi içinde yapılan ücret ödemelerinin toplamı, yürürlükte olan gelir vergisi tarifesinin aynı gelir dilimi içinde kaldığı sürece, bu dilime ait vergi nispeti bu gelir dilimini aşması halinde ise aşan kısmın vergisi bir üst dilime ait vergi nispeti esas alınarak hesaplanacaktır.
+
+Bu hükümlere göre, çalışanlara yapılan ve para ve/veya para ile ifade edilebilen ve kanunda istisna edildiği açıkça belirtilmeyen her türlü ödemeler maaş kapsamında gelir vergisine tabidir ve bu ödemelerden 193 sayılı Gelir Vergisi Kanununun 103. maddesinde belirtilen oranlarda vergi kesintisi yapılarak vergi dairesine yatırılması gerekmektedir. Bu ödemelerin döner sermayeden katkı payı, ek ders veya temel maaş adı altında ödenmesi vergilendirme açısından herhangi bir farklılık doğurmamaktadır.
+
+… Üniversitesi bünyesinde bulunan ve tüzel kişiliği olsun veya olmasın bu üniversitenin bünyesi altında faaliyet gösteren tüm kurum ve kuruluşların tek bir işveren gibi değerlendirilmesi ve gelir vergisi matrahlarının da tüm birimlerden gelir vergisine tabi olan ödemelerin toplanarak kümülatif olarak hesap edilmesi gerekmektedir.
+
+Bu itibarla, kümülatif vergi matrahlarının dikkate alınmaması nedeniyle maaş ve ek ders ödemelerinden gelir vergilerinin eksik hesaplanması neticesinde … TL kamu zararı oluşmuşsa da söz konusu tutar tahsil edildiğinden ilişilecek husus kalmadığına oybirliğiyle,

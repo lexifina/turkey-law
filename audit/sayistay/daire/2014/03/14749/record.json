@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35196",
+  "decision_date": "2014-03-20",
+  "source_id": 14749,
+  "chamber": "2",
+  "ilam_number": "196",
+  "item_number": 6,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14749/",
+  "source_sha256": "08f9be84793fca59916cc70d18a9d7fe19649d45ff2c06d36251852ff15108cd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
