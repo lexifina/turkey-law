@@ -1,0 +1,7 @@
+… Üniversitesi … Daire Başkanlığında çalışan …’ın eşinin menfaat karşılığı çalışmasına rağmen söz konusu kişiye aile yardımı ödeneği ödenmesi ve ayrıca ilgili kişinin eşi çalışmayan ücretliler için öngörülen oran üzerinden asgari geçim indiriminden faydalanması.
+
+657 sayılı Devlet Memurları Kanunun 202. maddesine göre memurun her ne şekilde olursa olsun menfaat karşılığı çalışmayan veya herhangi bir sosyal güvenlik kuruluşundan aylık almayan eşi için 2.134 gösterge rakamının aylık katsayısı ile çarpılması sonucu elde edilecek miktar üzerinden aile yardımı ödeneği ödenir.
+
+193 sayılı Gelir Vergisi Kanununun 32. maddesine göre; ücretli olarak çalışanlara, ücretin elde edildiği takvim yılı başında geçerli olan ve sanayi kesiminde çalışan 16 yaşından büyük işçiler için uygulanan asgarî ücretin yıllık brüt tutarının % 10’u asgarî geçim indirimi olarak ödenir. Asgarî geçim indirimi, belirlenen tutar ile gelir vergisi tarifesinin birinci gelir dilimine karşılık gelen %15’lik oranla çarpımı suretiyle bulunan tutarın 12’ye bölünmesi sonucu her aya isabet eden tutar olarak hesaplanır. Hesaplanan bu tutar ise ödenecek vergiden mahsup edilir.
+
+… Daire Başkanlığında çalışan …’ın eşinin menfaat karşılığı çalışmasına rağmen söz konusu kişiye aile yardımı ödeneği ödenmesi ve ayrıca ilgili kişinin eşi çalışmayan ücretliler için öngörülen oran üzerinden asgari geçim indiriminden faydalandırılması neticesinde … TL kamu zararı oluşmuşsa da söz konusu tutar … tahsil edildiğinden ilişilecek husus kalmadığına oybirliğiyle,
