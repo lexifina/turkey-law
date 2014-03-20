@@ -1,0 +1,11 @@
+… Üniversitesi … Fakültesi bünyesinde çalışmakta olan ve döner sermaye işletme biriminden katkı payı alan bazı personelin kümülatif vergi matrahlarının dikkate alınmaması nedeniyle 2547 sayılı Yükseköğretim Kanununun 58 inci maddesinin (e) fıkrası uyarınca danışmanlık, seminer vs. karşılığı yapılan katkı payı ödemelerinden gelir vergilerinin eksik kesilmesi.
+
+Gelir Vergisi Kanununun 104. maddesinde yıllık gelir vergisinin, vergiye tabi gelirlerin yıllık toplamından 31. maddedeki indirimler düşüldükten sonra 103. maddedeki nispetler uygulanmak suretiyle hesaplanacağı hükme bağlanmıştır. Bu hüküm ve 128 seri No’lu Gelir Vergisi Genel Tebliğinde yapılan açıklamalara göre, aynı işveren tarafından aynı vergilendirme dönemi içinde yapılan ücret ödemelerinin toplamı, yürürlükte olan gelir vergisi tarifesinin aynı gelir dilimi içinde kaldığı sürece, bu dilime ait vergi nispeti bu gelir dilimini aşması halinde ise aşan kısmın vergisi bir üst dilime ait vergi nispeti esas alınarak hesaplanacaktır.
+
+Bu hükümlere göre, çalışanlara yapılan ve para ve/veya para ile ifade edilebilen ve kanunda istisna edildiği açıkça belirtilmeyen her türlü ödemeler maaş kapsamında gelir vergisine tabidir ve bu ödemelerden 193 sayılı Gelir Vergisi Kanununun 103. maddesinde belirtilen oranlarda vergi kesintisi yapılarak vergi dairesine yatırılması gerekmektedir. Bu ödemelerin döner sermayeden katkı payı, ek ders veya temel maaş adı altında ödenmesi vergilendirme açısından herhangi bir farklılık doğurmamaktadır.
+
+… Üniversitesi bünyesinde bulunan ve tüzel kişiliği olsun veya olmasın bu üniversitenin bünyesi altında faaliyet gösteren tüm kurum ve kuruluşların tek bir işveren gibi değerlendirilmesi ve gelir vergisi matrahlarının da tüm birimlerden gelir vergisine tabi olan ödemelerin toplanarak kümülatif olarak hesap edilmesi gerekmektedir.
+
+Bu itibarla, … Fakültesinde çalışan bazı personelin kümülatif vergi matrahlarının dikkate alınmaması nedeniyle 2547 sayılı Yükseköğretim Kanununun 58 inci maddesinin (e) fıkrası uyarınca danışmanlık, seminer vs. karşılığı yapılan katkı payı ödemelerinden gelir vergilerinin eksik hesaplanması neticesinde oluşan … TL kamu zararının Harcama Yetkilisi … ve Gerçekleştirme Görevlisi …’a müştereken ve müteselsilen,
+
+6085 sayılı Sayıştay Kanununun 53. maddesi gereği işleyecek faizleri ile ödettirilmesine oybirliğiyle,
