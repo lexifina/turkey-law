@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "81",
+  "decision_date": "2014-03-20",
+  "source_id": 20230,
+  "chamber": "6",
+  "ilam_number": "174",
+  "item_number": 24,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20230/",
+  "source_sha256": "bfca3bfeb80f11284de167a0720cdfe85af05dea56da25374baa2a656e469deb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
