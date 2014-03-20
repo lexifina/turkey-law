@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "81",
+  "decision_date": "2014-03-20",
+  "source_id": 20219,
+  "chamber": "6",
+  "ilam_number": "174",
+  "item_number": 14,
+  "account_year": 2012,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20219/",
+  "source_sha256": "ee7de73da956a92484b160127233ebd6640d09e136a4d3911ec434f4c0699ad3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
