@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35196",
+  "decision_date": "2014-03-20",
+  "source_id": 14787,
+  "chamber": "2",
+  "ilam_number": "196",
+  "item_number": 27,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14787/",
+  "source_sha256": "f15ec88b49454312813abc2c24fd2d0a3a6a0e44f3dcd643db9385dd54d38154",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
