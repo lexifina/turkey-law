@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-135-606",
+  "source_id": 33733,
+  "date": "2014-03-21",
+  "title": "Yurt dışından uçak kiralanması ve geçici olarak ithal edilmesi işlemlerinde ÖTV uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33733",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "d9bbd882641e658d48bba39d19963e3a450428ddb9ca1901a38bdbafddfcea07",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
