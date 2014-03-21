@@ -1,0 +1,3 @@
+Gerekçe
+MADDE 5 – (1) 29/6/2013 tarihli ve 28692 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2013/11) ile söz konusu ürüne ilişkin önlemlerin 22/3/2014 tarihinde sona ereceği, yerli üretim dalının mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir başvuru ile nihai gözden geçirme soruşturması açılması talebinde bulunabileceği duyurulmuştur.
+(2) Bu çerçevede yapılan başvurunun incelenmesi neticesinde, Hindistan menşeli önleme konu ürün için uygulanan önlemlerin yürürlükten kalkması halinde sübvansiyonun ve zararın devam etmesinin veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin olarak bir nihai gözden geçirme soruşturması açılması için yeterli delillerin bulunduğu anlaşılmıştır.
