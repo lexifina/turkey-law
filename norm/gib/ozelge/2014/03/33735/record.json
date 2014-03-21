@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-135-604",
+  "source_id": 33735,
+  "date": "2014-03-21",
+  "title": "ÖTV'li ithal edilen saç boyasının yurt içinde ambalajlanarak tesliminde ÖTV uygulanıp uygulanmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33735",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "6f5efe97e2cd88cac3d0b1c28bb8a56acd1cde77688755c00b74976d59eff029",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
