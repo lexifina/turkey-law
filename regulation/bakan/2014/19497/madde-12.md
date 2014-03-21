@@ -1,0 +1,2 @@
+Sözlü sınava çağrı
+MADDE 12 – (1) Yazılı sınavdan yüz tam puan üzerinden en az yetmiş puan alan adayların; yalnızca sözlü sınav yapılması halinde ise ilanda belirtilen KPSSP3 puan türünden en yüksek puandan başlamak üzere atama yapılması planlanan kadro sayısının beş katı kadar adayın isimleri (son sıradaki adaya eşit puan alanlar dâhil), sözlü sınav tarihi ve yeri de belirtilerek Genel Müdürlüğün internet sitesinde ilan edilir.
