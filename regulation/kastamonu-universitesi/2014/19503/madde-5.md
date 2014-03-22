@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Üniversitenin toplumla bağlarını güçlendirebilmek, yakın gelecekte toplumda söz sahibi erişkin bireyler olarak yer alacak çocukların sosyal, kültürel ve bilimsel anlamda gelişmelerini, bilginin doğasına dair bilgi edinmelerini sağlayabilmek, çocuklara yaparak, yaşayarak ve eğlenerek, bilimsel ve eleştirel düşünme, yaratıcı olma, yargılama, sorgulama, soru sorma, merak duyma, sorun çözme gibi becerileri kazandırabilmek, bilimsel bilginin yaratıcılığı ve yaratıcı düşünceyi destekleyecek biçimde paylaşılmasına imkân sağlamak, bilim ve sanatı çocuklar için yeni ve çekici bir yolla somut hale getirebilmek, yaşamın her alanında herkesi ilgilendiren konular arasında yer alan bilim ve sanatın bireyin gelişiminde önemli bir yeri olduğunu gösterebilmektir.

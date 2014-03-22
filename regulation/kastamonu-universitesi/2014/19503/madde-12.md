@@ -1,0 +1,2 @@
+Bilim ve Danışma Kurulu
+MADDE 12 – (1) Bilim ve Danışma Kurulu; Müdür, Müdür yardımcıları, Yönetim Kurulu üyeleri ile Merkezin amaç ve çalışmaları ile ilgili ve uzmanlıkları olan, Üniversiteden veya istekleri halinde diğer üniversiteler, kamu kurum ve kuruluşları ile özel sektör temsilcileri arasından üç yıl süre için Yönetim Kurulunca önerilen ve Rektör tarafından görevlendirilen en fazla on üyeden oluşur. Bilim ve Danışma Kurulu; her yıl en az bir defa, Müdürce belirlenen bir tarihte, Müdürün başkanlığında toplanır. Kurulun toplantılarında çoğunluk aranmaz.
