@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-03-22",
+  "issue": "28949",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türk Gıda Kodeksi Aroma Vericiler ve Aroma Verme Özelliği Taşıyan Gıda Bileşenleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140322-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140322.htm",
+  "index_sha256": "87866243a2c75fc7e5e18d5d7442f9d27b57d19f8045b5a57f98981bd35393fc",
+  "index_header": "22 Mart 2014 ... 28949 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140322.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
