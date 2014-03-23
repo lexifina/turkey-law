@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-03-23",
+  "issue": "28950",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2014/6070 Trakya Üniversitesi Rektörlüğüne Bağlı Olarak Roman Dili ve Kültürü Araştırmaları Enstitüsü Kurulması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140323-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140323.htm",
+  "index_sha256": "a5b70fed69c43aa2a9d0df6e31828b9aaaf53acbf285c9fa7dc9e7813b05c48b",
+  "index_header": "23 Mart 2014 ... 28950 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140323.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
