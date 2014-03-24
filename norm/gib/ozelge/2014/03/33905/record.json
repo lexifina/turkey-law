@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-ÖTV 5 GENEL-612",
+  "source_id": 33905,
+  "date": "2014-03-24",
+  "title": "ithal edilerek yurt içi teslimi yapıldıktan sonra geri verilen malların ithalatçı tarafından aynen ihraç edilmesi halinde, bu mallara ilişkin ithalde ödenen ÖTV'nin iadesinin söz konusu olup olamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33905",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "87c9c4a0f95c591661cc4d1f01bc82f0270b8b5678b04ff553d0e5d774640d73",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
