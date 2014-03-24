@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-ÖTV 12. MADDE-610",
+  "source_id": 33732,
+  "date": "2014-03-24",
+  "title": "ÖTV Kanununa ekli (III) sayılı listenin (B) cetvelinde yer alan tütün mamullerine ilişkin ÖTV' nin hesaplanması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33732",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "d023e60622303a66c4ba80d231de636387a86034ee12822b7e15fee99f0d2bcc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
