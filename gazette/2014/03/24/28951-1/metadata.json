@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-03-24",
+  "issue": "28951",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Özyeğin Üniversitesi Yabancı Diller Yüksekokulu İngilizce Hazırlık Programı Eğitim ve Öğretim Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140324-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140324.htm",
+  "index_sha256": "cac2cfcf6e9d63f8fa383630561b62d58a8c700579cb09516d8af6123dc9aef7",
+  "index_header": "24 Mart 2014 ... 28951 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140324.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
