@@ -1,0 +1,5 @@
+İnşaat işinde, nakliye bedelinin sözleşme hükümlerine aykırı olarak ödenmesi
+
+… tarafından … tarihinde … TL sözleşme bedeli ile … Ltd. Şti’ne ihale edilen ... İnşaatı işinde, nakliye bedelinin sözleşme hükümlerine aykırı olarak ödenmesi sonucu kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Sözleşme ve eklerinde nakliyenin ruhsatlı döküm sahalarına yapılacağı, döküm bedelinin ayrıca İdare tarafından ödenmeyeceği belirtildiği ancak döküm yapılan ruhsatlı döküm sahalarından İdareye bir belge sunulması gerektiği bu belge/ belgelerin ne gibi şartlara haiz olması gerektiğinin belirtilmediği halde sorgu sonucu İdaresince … tarih ve … sayılı yazı ile Müteahhit firmadan istenilen ve firmanın … tarih ve … sayılı yazısı ekinde, kazıdan artan malzeme naklinin ruhsatlı döküm sahalarına yapılmış olduğunu gösteren faturalar sunulduğundan yasal düzenemelere uygun … –TL ödeme için ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
