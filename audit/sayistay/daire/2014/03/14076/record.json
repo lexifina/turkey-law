@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "60",
+  "decision_date": "2014-03-25",
+  "source_id": 14076,
+  "chamber": "5",
+  "ilam_number": "192",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14076/",
+  "source_sha256": "16f80f1b6fba37df8ea65be9a0a6ae66836793b74d6b703ac852eb7cddd187f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
