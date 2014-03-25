@@ -1,0 +1,3 @@
+Kontrol hatalarının süreklilik arz etmesi
+MADDE 9 – (1) (Değişik:RG-25/3/2014-28952) Kontrol hatalarının süreklilik arz etmesi durumu bir kuruluşun raporlamalarında altı aylık ve yıllık formlar hariç aynı kontrol hatasının üç aylık formlar için son bir yılda üç kez, aylık formlar için son altı ay içerisinde üst üste üç veya toplam dört kez, haftalık ve iki haftalık formlar için ise son üç ay içerisinde üst üste üç veya toplam dört kez oluşması ve bu hataların son gönderim tarihi bitimine kadar giderilmemesidir.
+(2) Kontrol hatalarının süreklilik arz etmesi durumunda süreklilik arz eden hata sayısı, bu kontrol hatalarının yasal sınırlara etkisi ve bankanın genel raporlama performansı dikkate alınarak 5.000 YTL’den 15.000 YTL’ye kadar idari para cezası uygulanır.

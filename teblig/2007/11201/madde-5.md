@@ -1,0 +1,3 @@
+Gönderilmeme ve geç gönderilme
+MADDE 5 – (1) (Değişik:RG-25/3/2014-28952) Geç gönderilme durumu, formun Kurum tarafından belirlenmiş olan gönderim süresinin dolmasından sonra gönderilmesini; gönderilmeme durumu, aylık, haftalık, iki haftalık ve günlük formlarda formun gönderim süresinin iki katını aşan sürede; üç aylık, altı aylık ve yıllık formlarda ise bir buçuk katını aşan sürede gönderilmemesini ifade eder.
+(2) Formun gönderilmediği süre, bankanın genel raporlama performansı ve bilginin yasal sınırlarla ilgisi olup olmadığı dikkate alınarak geç gönderilme durumunda 5.000 YTL’den 10.000 YTL’ye kadar; gönderilmeme durumunda ise 5.000 YTL‘den 15.000 YTL’ye kadar idari para cezası uygulanır.

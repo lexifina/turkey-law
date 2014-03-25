@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.11201",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BANKACILIK VERİ TRANSFER SİSTEMİ KAPSAMINDA YAPILAN RAPORLAMALARDA UYGULANACAK İDARİ PARA CEZALARINA İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ",
+  "number": "11201",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "path": "teblig/2007/11201",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11201&MevzuatTertip=5",
+  "source_sha256": "ec4644e110c91928f7c5b399c610cfc59345f0eb4f7774b1dc62bf1aa178ff35",
+  "source_bytes": 44981,
+  "published": "2007-03-22",
+  "gazette": "26470",
+  "in_force": "2014-03-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/3/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-03-25",
+      "RG-25/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-03-25",
+      "25/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/7/2007 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1810,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
