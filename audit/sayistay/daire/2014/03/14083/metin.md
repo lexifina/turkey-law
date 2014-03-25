@@ -1,0 +1,11 @@
+Katma Değer Vergisi
+
+Şehir içi toplu taşıma hatlarının özel kesime kiralama işlemlerinin katma değer vergisine tabi olmasına rağmen, söz konusu verginin tahsil edilmemesi sonucu ................ TL kamu zararına neden olunduğu hususu ile ilgili olarak;
+
+5393 sayılı Belediye Kanunu’nun 15’inci maddesinin (f) bendinde, toplu taşıma yapmak; bu amaçla otobüs, deniz ve su ulaşım araçları, tünel, raylı sistem dâhil her türlü toplu taşıma sistemlerini kurmak, kurdurmak, işletmek ve işlettirmek yetkisi ve imtiyazı belediyelere tanınmıştır. Anılan maddenin ikinci fıkrasında belediyelerin şehir içi toplu taşıma hizmetlerinin hatların kiralanması yöntemi ile özel kesime devredilebileceği hükme bağlanmıştır. Bu bağlamda, şehir içi toplu taşıma hizmetlerin hatları kiralama yöntemi ile özel kesime gördürülmesi bir gayri maddi hakkın kiralanması işlemidir.
+
+Diğer taraftan 3065 sayılı Katma Değer Vergisi Kanunun 1’inci maddesinin 3’üncü fıkrasının (f) bendinde, Gelir Vergisi Kanunu’nun 70’inci maddesinde belirtilen mal ve hakların kiralanması işlemleri katma değer vergisine tabi olduğu hükmü yer almaktadır. Buna göre, Belediyelerin yetki ve imtiyazında olan şehir içi toplu taşıma yapma hakkının kiralanması işlemleri katma değer vergisine tabidir.
+
+3065 sayılı Katma Değer Vergisi 17/4-d bendinde, iktisadi işletmelere dahil olmayan gayrimenkullerin kiralanması işlemleri vergiden istisna edilmiştir. Bu bağlamda belediyelere ait gayrimenkullerin kiralama işlemlerinde KDV aranmayacaktır. Ancak, anılan madde hükmünde, sadece iktisadi işletmeye dahil olmayan gayrimenkullerin kiralanması vergiden istisna edilmiş, 3065 sayılı Kanunun 1’inci maddesinin 3-f bendi ile gönderme yapılan 193 sayılı Gelir Vergisi Kanunun 70’inci maddesinde sayılan diğer mal ve hakların kiralanması işlemleri istisna kapsamına dahil edilmemiştir.
+
+Savunmalarda, 2012 yılı kira bedelleri üzerinden hesaplanan katma değer vergilerine ilişkin tahakkuk işlemlerinin gelir takip programı üzerinde giriş kaydı yapılmak suretiyle tarh ve tahakkuklarının gerçekleştirildiği belirtilerek, tahakkuk bordrosu ile tahakkuk fişi ve ödeme emri örneklerinin gönderildiğinden, kamu zararı oluşmayan .................. TL ile ilgili olarak ilişilecek husus bulunmadığına oybirliğiyle karar verildi.
