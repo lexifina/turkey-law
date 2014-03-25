@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "60",
+  "decision_date": "2014-03-25",
+  "source_id": 14020,
+  "chamber": "5",
+  "ilam_number": "192",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14020/",
+  "source_sha256": "cead290dd5221c03b83f3b3477cd00d433611c1fcc08acce8ea49c41396429eb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
