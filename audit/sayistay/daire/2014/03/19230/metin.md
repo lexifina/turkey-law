@@ -1,0 +1,5 @@
+Yağmursuyu inşaatları ile ilgili ödemelerin kurum bütçesinden karşılanmasına rağmen daha sonra bu ödemelerin ilgili belediyelerden tahsilini sağlamak için hiçbir işlem yapılmaması
+
+… Genel Müdürlüğünce yağmursuyu inşaatları ile ilgili ödemelerin kurum bütçesinden karşılanmasına rağmen daha sonra bu ödemelerin ilgili belediyelerden tahsilini sağlamak için hiçbir işlem yapılmaması sonucu kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Savunmalarda yağmursuyu hatları bedellerinin İlçe belediyelerinden tahsilâtının yapılması için ilgili işlemlerin başlatılacağı belirtmiş olsada, tahsilâta ilişkin herhangi bir bilgi veya belge gönderilmediğinden ayrıntılı hesabı aşağıdaki tabloda gösterilen … -TL kamu zararının Genel Müdür (Adres:… Su ve Kanalizasyon İdaresi Genel Müdürlüğü)  …’ya münferiden, 6085 sayılı Sayıştay Kanununun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faizleri ile ödettirilmesine oy birliğiyle karar verildi.
