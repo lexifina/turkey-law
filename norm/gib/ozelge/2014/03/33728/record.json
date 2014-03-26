@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-2011-718-7-11",
+  "source_id": 33728,
+  "date": "2014-03-26",
+  "title": "Sarmalık kıyılmış tütün üretimi ve ambalajlı olarak satışında ÖTV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33728",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "829eeba0ee9cb64614fb57e327da048bee86ca005048b5f6ec3c5fecb15283f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
