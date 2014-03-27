@@ -1,0 +1,13 @@
+Kanatlı hayvanlarda ve domuzlardaki Salmonellanın antimikrobiyal direncinin izlenmesi
+MADDE 16 – (1) Zoonozlar ve Zoonotik Etkenler, İlgili Antimikrobiyal Direnç ve Gıda Kaynaklı Salgınların İzlenmesi Yönetmeliği hükümlerine bağlı kalmak koşuluyla Salmonella spp. izolatlarının toplanması ve analizi, yetkili kurum tarafından veya yetkili kurum gözetiminde, aşağıdaki teknik özelliklere bağlı olarak ve Ek-4’te yer alan tablo-1’deki antimikrobiyal direnç testi için seçilmiş hayvan popülasyonlarından izole edilen zoonotik etkenler ve yıllar planına göre yapılır.
+a) Salmonella spp. İzolatları, 8 inci maddede belirtilen kontrol ve izleme programları yoluyla toplanır. Her sene aynı epidemiyolojik birimden izole edilen her bir Salmonella tipini temsil edecek sayıda izolat izlemeye dâhil edilir.
+b) Her sene antimikrobiyal direnç izlemesine dâhil olan Salmonella izolatları sayısı, her bir popülasyondan (yumurtacı tavuklar, broylerler, hindiler ve kesilen domuzlar gibi) olmak üzere en az 170 olur. İzleme veya kontrol programlarındaki hedef numune sayısından daha az izolat olması durumunda tüm bu izolatlar antimikrobiyal direnç izlemesine dâhil edilir. Fazla sayıda izolat olması durumunda, tüm izolatlar veya rastgele seçilmiş 170 izolat çalışmaya dâhil edilir.
+c) Bakanlık, Salmonella izolatlarının asgari olarak Ek-4’te yer alan tablo-2’de belirtilen antimikrobiyallere olan duyarlılığını aynı tabloda yer alan sınır değerlerini göz önünde bulundurarak ve uygun konsantrasyon aralıklarını kullanarak belirler. Seyreltme metotları, Avrupa Komitesi Antimikrobiyal Duyarlılık Testi (EUCAST) ve Klinik ve Laboratuvar Standartları Enstitüsü (CLSI) tarafından belirtilen ve ISO standart 20776-1: 2006 uluslararası referans metodu olarak kabul edilen metoda uygun olacak şekilde yapılır.
+ç) Antimikrobiyal direnç izleme sonuçları, Zoonozlar ve Zoonotik Etkenler, İlgili Antimikrobiyal Direnç ve Gıda Kaynaklı Salgınların İzlenmesi Yönetmeliği hükümleri kapsamında hazırlanacak yıllık raporda yer alır.
+d) Zoonozlar ve Zoonotik Etkenler, İlgili Antimikrobiyal Direnç ve Gıda Kaynaklı Salgınların İzlenmesi Yönetmeliğinin Ek-2’sinde verilen koşullara uyacak şekilde, yumurtacı tavuklar, broylerler ve hindilerdeki Salmonella için;
+1) Temel çalışma, kontrol programı, pasif surveyans çalışmaları gibi izolatların orijini,
+2) Duyarlılığı test edilen izolatlar,
+3) Her antimikrobiyal için dirençli olarak bulunan izolat sayısı,
+4) Ek-4’te yer alan tablo-2’de yer alan tüm antimikrobiyallere duyarlı izolatlar ve 1, 2, 3, 4 ve 4’ten fazlasına dirençli izolatların sayısı
+rapor da yer alır.
+(2) Ulusal olarak toplanmış olan veriler ve analizlerin sonuçları, gerektiğinde kamunun erişimine açılır.

@@ -1,0 +1,12 @@
+ÜÇÜNCÜ BÖLÜM
+Salmonella Ulusal Kontrol Programında Kanatlı Hayvanlarda Antimikrobiyallerin
+ve Aşıların Kullanımı ile Kanatlı Hayvanlarda ve Domuzlardaki Salmonella’nın
+Antimikrobiyal Direncinin İzlenmesi
+Antimikrobiyallerin kullanımı
+MADDE 14 – (1) Antimikrobiyaller kanatlı hayvanlarda Salmonella’nın kontrolü için bir metot olarak kullanılmaz.
+(2) Birinci fıkradaki hüküm saklı kalmak kaydıyla ve aşağıda sayılan şartlar ile üçüncü fıkrada belirtilen şartlar oluştuğunda 24/12/2011 tarihli ve 28152 sayılı Resmî Gazete’de yayımlanan Veteriner Tıbbi Ürünler Hakkında Yönetmelik gereğince ruhsatlandırılmış antimikrobiyaller kullanılabilir:
+a) Hayvanlarda klinik belirti gösteren Salmonella enfeksiyonu olması durumunda, antimikrobiyal tedavi yapılmasına rağmen sürü enfekte kabul edilir; ayrıca bu sürünün geldiği damızlık kümeslerdeki diğer sürülere Salmonella bulaşmaması için gerekli önlemler alınır.
+b) Damızlık hayvanlarda değerli genetik materyalin korunması ve Salmonella ari sürüler oluşturmak amacıyla elit sürüler, nesli tükenmekte olan soylardan gelen sürüler ve araştırma amaçlı kullanılan sürüler dâhil olmak üzere antimikrobiyal tedavi uygulanan sürüler ve bunlardan toplanan yumurtalardan elde edilen civcivler büyüme dönemi süresince Salmonella prevalansını %1 ve %95 güven sınırında tespit edebilecek 15 günde bir örnekleme yapılan bir plan dâhilinde kontrol edilir.
+c) Özellikle gıda kaynaklı bir salgının epidemiyolojik olarak araştırılması sonucu Salmonella enfeksiyonundan şüphe duyulan bir sürüde veya enfeksiyonunun tespit edildiği bir kuluçka ya da işletmede Salmonella kontrolü dışındaki amaçlarla her vaka için Bakanlık tarafından izin verilmesi durumunda antibiyotik kullanılır. Fakat acil durumlarda Bakanlık tarafından numune alınması koşuluyla tedaviye izin verilebilir. Ancak numune alımı bu bentteki şartlara uygun gerçekleştirilmediyse sürü, Salmonella ile enfekte kabul edilir.
+(3) Antimikrobiyallerin kullanımı denetime tabidir ve Bakanlık taşra teşkilatına rapor edilir. Bu kullanım bakteriyolojik örneklerin ve test duyarlılığının sonuçlarına dayalı olarak yapılır.
+(4) Bu maddede belirtilen şartlar, 18/12/2002 tarihli ve 24967 sayılı Resmî Gazete’de yayımlanan Yem Katkıları ve Premikslerin Üretimi, İthalatı, İhracatı, Satışı ve Kullanımı Hakkında Tebliğ (Tebliğ No: 2002/66)’e göre yem katkı maddeleri olarak kullanım için ruhsatlandırılmış maddelere, mikroorganizmalara veya preparatlara uygulanmaz.
