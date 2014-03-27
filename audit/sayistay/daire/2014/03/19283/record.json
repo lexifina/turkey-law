@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "84",
+  "decision_date": "2014-03-27",
+  "source_id": 19283,
+  "chamber": "6",
+  "ilam_number": "289",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19283/",
+  "source_sha256": "6f2b0fd850ed5e562ff7bc41def09453bec797f477b335c676ce24a5675209c9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
