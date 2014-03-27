@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4938/1",
+  "decision_date": "2014-03-27",
+  "title": "İstanbul Anadolu Yakası Perakende Satış A.Ş.’nin 21/11/2013 tarih ve 34 sayı ve 24/01/2014 tarih ve 1 sayılı; Enerjisa Başkent Elektrik Perakende Satış A.Ş.’nin 21/11/2013 tarih ve 12 sayı ve 24/01/2014 tarih ve 2 sayılı; Toroslar Elektrik Perakende Satış A.Ş.’nin 21/11/2013 tarih ve 1617 sayı ve 24/01/2014 tarih ve 1 sayılı yazıları ile İstanbul Anadolu Yakası Perakende Satış A.Ş.’nin 21/11/2013 tarih ve 35 sayı ve 24/01/2014 tarih ve 3 sayılı; Enerjisa Başkent Elektrik Perakende Satış A.Ş.’nin 21/11/2013 tarih ve 13 sayı ve 24/01/2014 tarih ve 3 sayılı; Toroslar Elektrik Perakende Satış A.Ş.’nin 21/11/2013 tarih ve 1618 sayı ve 24/01/2014 tarih ve 3 sayılı yazılarında yer alan talepler değerlendirilmesi",
+  "resmi_gazete_date": "2014-04-14",
+  "resmi_gazete_number": "28972",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nPQ24kpBXTY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nPQ24kpBXTY="
+  ],
+  "source_sha256": "371fc221d5197c021725271bb3056f46fb20a7e30d6ec930e57ba7ee619bc36c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1919,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-03-27",
+  "law_text_complete": false
+}
