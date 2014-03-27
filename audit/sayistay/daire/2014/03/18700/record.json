@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "85",
+  "decision_date": "2014-03-27",
+  "source_id": 18700,
+  "chamber": "6",
+  "ilam_number": "281",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18700/",
+  "source_sha256": "77e502731af35f25640651d6a860b109f7c6ed580e9fe3c2fd9a42b37cceaedc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
