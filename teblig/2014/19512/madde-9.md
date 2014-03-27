@@ -1,0 +1,2 @@
+Etik eğitim bedeli
+MADDE 9 – (1) Uzaktan eğitim ve yüz yüze eğitim yöntemleri ile yürütülen etik eğitim için bir bütün olarak etik eğitim bedeli Birlik tarafından belirlenebilir. Ancak, belirlenen bedel, memur maaş taban aylığı katsayısının elli sayısı ile çarpımı sonucu bulunan tutardan çok olamaz. Etik eğitiminin bedelinin belirlenmesi durumunda bu bedel, eğitime kayıt öncesinde Birlik tarafından belirlenerek duyurulan banka hesaplarına katılımcı tarafından yatırılır. Belirlenmiş eğitim bedelinin ödenmemesi durumunda eğitim kaydı yapılmaz.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ; 19/10/2007 tarihli ve 26675 sayılı Resmî Gazete’de yayımlanan Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirlerin Mesleki Faaliyetlerinde Uyacakları Etik İlkeler Hakkında Yönetmeliğin 7 nci maddesi, 11/6/1990 tarihli ve 20545 sayılı Resmî Gazete’de yayımlanan Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği Yönetmeliğinin 7 nci maddesinin birinci fıkrasının (a), (b), (e), (k) ve (m) bentleri ile 23 üncü maddesinin birinci fıkrasının (j), (k) ve (m) bentlerine dayanılarak hazırlanmıştır.
