@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Soruşturma Konusu Ürün ve Benzer Ürün
+Soruşturma konusu ürün ve benzer ürün
+MADDE 7 – (1) Soruşturma konusu ürün, 5402.31 Gümrük Tarife Pozisyonu (GTP) altında yer alan “naylon veya diğer poliamidlerden tek katının her biri 50 teksi geçmeyen tekstüre iplikler”dir.
+(2) Soruşturma konusu naylon iplikler petrolden üretilen kaprolaktamın polimerizasyonu sonucunda elde edilen bir ürün olup; ince çoraplar, korse, bayan elbiseleri, gömlek, bluz, spor giysi, astarlık üretimleri ile dikiş ipliği ve fantezi kumaş imalatında karışım olarak kullanılmaktadır.
+(3) YÜD tarafından üretilen ürün ile soruşturma konusu ülke menşeli naylon (polyamid) ipliklerin benzer ürünler olduğu tespiti esas soruşturmada yapılmıştır. Bu soruşturmada ise, gerek YÜD tarafından gerekse soruşturma konusu ülkede üretilen naylon (polyamid) ipliklerin işlevsel özellikleri, fiziksel özellikleri, kullanım alanları, dağıtım kanalları, kullanıcıların ürünü algılaması ve ürünlerin birbirini ikame edebilmeleri açısından iki ürünün benzer ürün olma durumunu ortadan kaldıracak bir değişiklik olduğuna dair bir tespitte bulunulmamıştır.
+(4) Soruşturma konusu ürün ile ilgili açıklamalar genel içerikli olup, uygulamaya esas olan GTP ve karşılığı eşya tanımıdır. Bununla beraber, soruşturma konusu eşyanın Türk Gümrük Tarife Cetveli’nde yer alan tarife pozisyonunda ve/veya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına halel getirmez.

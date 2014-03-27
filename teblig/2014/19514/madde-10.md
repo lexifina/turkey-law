@@ -1,0 +1,5 @@
+Ürünün genel ithalatı
+MADDE 10 – (1) Soruşturma konusu ürünün Türkiye’ye genel ithalatı ile ÇHC’den yapılan ithalatın analizinde Türkiye İstatistik Kurumu (TÜİK) verileri kullanılmıştır. İthalat verileri incelenirken 2010-2012 dönemi dikkate alınmıştır.
+(2) Ürünün genel ithalatındaki eğilime bakmak için 2010-2012 döneminde önleme konu ürünün, tüm ülkelerden gerçekleştirilen genel ithalat verileri incelenmiştir. Bu çerçevede, 2010 yılında 14.917.996 Kg olan ithalatın, 2011 yılında 11.347.689 Kg’ye düştüğü, 2012 yılında ise 14.225.961 Kg olarak gerçekleştiği görülmektedir.
+(3) Ürünün ithalatına değer olarak bakıldığında ise, 2010 yılında 80.151.648 ABD Doları olan söz konusu ithalat, 2011 yılında 68.720.300 ABD Doları seviyesine düşmüş, 2012 yılında ise 76.441.161 ABD Doları olarak gerçekleşmiştir.
+(4) Ürünün genel ithalatının ortalama birim fiyatlarına bakıldığında ise, 2010-2012 yıllarını kapsayan 3 yıllık dönemde birim fiyatların sırasıyla 6,62 ABD Doları/Kg, 4,69 ABD Doları/Kg ve 5,84 ABD Doları/Kg şeklinde gerçekleştiği görülmektedir.

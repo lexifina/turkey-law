@@ -1,0 +1,6 @@
+BİRİNCİ BÖLÜM
+Genel Bilgi ve İşlemler
+Mevcut önlem ve soruşturma
+MADDE 1 – (1) Çin Halk Cumhuriyeti (ÇHC) menşeli “naylon veya diğer poliamidlerden tek katının her biri 50 teksi geçmeyen tekstüre iplikler” için 5/9/2008 tarihli ve 26988 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında 2008/31 sayılı Tebliğ ile CIF bedelinin % 37,40’ı oranında dampinge karşı kesin önlem yürürlüğe konulmuştur.
+(2) 31/1/2013 tarihli ve 28545 sayılı Resmî Gazete’de yayımlanan 2013/2 sayılı Tebliğ ile söz konusu ürüne ilişkin önlemin 5/9/2013 tarihinde sona ereceği, yerli üretim dalının (YÜD) mevzuatta öngörülen sürede yeterli delillerle desteklenmiş bir başvuru ile nihai gözden geçirme soruşturması (NGGS) açılması talebinde bulunabileceği duyurulmuştur.
+(3) Yerli üretici Sifaş Sentetik İplik Fabrikaları A.Ş. tarafından yapılan ve Altın İplik Çorap San. A.Ş. ve Anadolu İplik ve Tekstil Fabrikaları San. A.Ş. tarafından da desteklenen başvuru sonucunda ÇHC menşeli “naylon veya diğer poliamidlerden tek katının her biri 50 teksi geçmeyen tekstüre iplikler” için 26/7/2013 tarihli ve 28719 sayılı Resmî Gazete’de yayımlanan 2013/16 sayılı Tebliğ ile NGGS başlatılmıştır. Söz konusu soruşturma Ekonomi Bakanlığı (Bakanlık) İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülerek tamamlanmıştır.

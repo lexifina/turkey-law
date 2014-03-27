@@ -1,0 +1,2 @@
+Talebi etkileyen unsurlar
+MADDE 18 – (1) Ürün kalitesi ve ürün gamındaki çeşitliliklerin yanı sıra talebi etkileyen başlıca unsurun fiyat olduğu sektörden edinilen bilgilerden anlaşılmaktadır. Önleme tabi ülkenin de bu konuda avantajlı olduğu genel ithalat istatistikleri incelendiğinde görülmektedir; zira 2010-2012 arası dönemde ÇHC menşeli naylon polyamid iplik ithalatının birim fiyatı, ÇHC haricindeki genel ithalatın ortalama birim fiyatının altında seyretmektedir.
