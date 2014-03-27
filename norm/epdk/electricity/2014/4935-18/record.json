@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4935/18",
+  "decision_date": "2014-03-27",
+  "title": "Bir üretim şirketinin; tedarik etmekle yükümlendiği elektrik enerjisini veya kapasitesini teminen; ikili anlaşmalarla, gün öncesi piyasasından, gün içi piyasasından veya dengeleme güç piyasasından satın alabileceği toplam miktarın, lisansına veya lisanslarına dercedilen yıllık elektrik enerjisi üretim miktarlarına ilişkin karar.",
+  "resmi_gazete_date": "2014-04-17",
+  "resmi_gazete_number": "28975",
+  "categories": [
+    "Üretim Şirketinin Piyasalardan Satın Alabileceği Toplam Elektrik Enerjisi Miktarına İlişkin Kurul Kararı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DDY7dcfRiKQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DDY7dcfRiKQ="
+  ],
+  "source_sha256": "aab80ace46f3a7fbb38b0d4ab4b0a47100a405daccdf5ba0da44f89ddd34f6ad",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33879,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-03-27",
+  "law_text_complete": false
+}
