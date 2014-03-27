@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "84",
+  "decision_date": "2014-03-27",
+  "source_id": 19288,
+  "chamber": "6",
+  "ilam_number": "289",
+  "item_number": 12,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19288/",
+  "source_sha256": "8de0c105dd5dca2977c9299e7027bb25bad6ede601930dc54f27aa3134e2a28e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
