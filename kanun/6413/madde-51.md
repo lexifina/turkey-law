@@ -21,3 +21,4 @@ Hizmet yerini terk etmeme (Disiplin amiri tarafından verilen) | 3,5
 Hizmet yerini terk etmeme (Disiplin kurulu tarafından verilen) | 4,5
 Oda hapsi (Disiplin amiri tarafından verilen) | 4
 Oda hapsi (Disiplin kurulu tarafından verilen) | 4,5
+11956

@@ -10,7 +10,6 @@ c) Kuruluşların; satış, kiralama, işletme hakkı devri, mülkiyetin gayri a
 d) Özelleştirme programına alınan kuruluşların "satış, kiralama, işletme hakkı devri, mülkiyetin gayri ayni hakların tesisi ve işin gereğine uygun sair hukuki tasarruflarla gerçek ve/veya özel hukuk tüzel kişilerine devredilmesi" yöntemleriyle yapılan ihaleler sonucunda ihale komisyonlarınca verilen nihaî kararları onaylamak, (1)
 –––––––––––––
 (1) Bu bentte yer alan “Özelleştirme İdaresi Başkanlığı tarafından gerçekleştirilen nihai devir işlemlerini onaylamak” ibaresi, 1/8/2003 tarihli ve 4971 sayılı Kanunun 1 inci maddesi ile “yapılan ihaleler sonucunda ihale komisyonlarınca verilen nihai kararları onaylamak,” şeklinde değiştirilmiştir.
-7418-2
 7419
 e) Özelleştirme kapsamına alınan kuruluşlardan gerekli görülenlerin küçültülmesine, faaliyetlerinin süreli veya süresiz olarak durdurulmasına, kapatılmasına veya tasfiyesine karar vermek,
 f) Yurt içinden ve/veya yurt dışından Özelleştirme Fonunun kullanım alanlarında yararlanmak üzere borç almaya ve bu amaçla Devlet garantili ve garantisiz iç ve dış tahviller ile gerekli görülen hallerde her türlü menkul kıymet ihracı ve diğer kıymetli evrakın düzenlenmesine karar vermek,
