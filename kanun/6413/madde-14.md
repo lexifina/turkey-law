@@ -3,5 +3,7 @@ MADDE 14 – (1) Disiplinsizliğin işlendiği tarihten geriye doğru; iki yıl 
 (2) Disiplin amirleri, personelin; olumlu hizmet, sicil ve disiplin safahatı ile eylemin niteliğini göz önüne alarak bir derece hafif ceza uygulayabilir.
 (3) Disiplin amirleri, uyarma, kınama ve hizmete kısmi süreli devam cezalarını gerektiren disiplinsizliklerinden dolayı personeline disiplin cezası vermeyebilir.
 (4) Maiyetinden birinin hizmet yerini terk etmeme cezasını gerektiren disiplinsizliğini tespit eden disiplin amiri; yetkisi dâhilinde disiplin cezası verebileceği gibi, hizmet, sicil ve disiplin safahatı ile eylemin niteliğini göz önüne alarak bu personeli disiplin kuruluna da sevk edebilir.
+__________________
+(1) 27/3/2014 tarihli ve 28954 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesi’nin 28/11/2013 tarihli ve E.: 2013/46, K.: 2013/140 sayılı Kararı ile bu fıkranın son cümlesinde yer alan “...ile 21 inci madde…” ibaresi iptal edilmiştir.
 11939
 (5) Barış zamanında, Türk karasuları dışındaki gemilerde hizmet yerini terk etmeme cezası gerektiren bir disiplinsizlik yapan personele, eylemin niteliği ve disipline olan olumsuz tesiri göz önüne alınarak gemi komutanı tarafından hizmet yerini terk etmeme cezası yerine ekli (1) sayılı çizelgeye uygun olarak oda hapsi cezası verilebilir. Verilen bu cezanın karasuları dışında yerine getirilemeyen kısmı hizmet yerini terk etmeme cezası olarak yerine getirilir.
