@@ -17,10 +17,11 @@ Değiştiren Kanunun/ KHK’nin Numarası | 4046 sayılı Kanunun değişen veya
 6082 | 2 | 10/12/2010
 6217 | İşlenemeyen Hüküm | 14/4/2011
 KHK/666 | 6 6 | 31/12/2011 tarihinden geçerli olmak üzere 2/11/2011 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
-7436-8
-Değiştiren Kanunun/ KHK’nin Numarası | 4046 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+7436-10
+Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası | 4046 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 6300 | Ek Madde 5 | 10/5/2012
 6338 | 2,10, Geçici Madde 23, 24 | 1/1/2013
 6456 | Geçici Madde 25 | 18/4/2013
 6462 | 21 | 3/5/2013
 Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı | 6 | 10/10/2013
+Anayasa Mahkemesi’nin 3/10/2013 tarihli ve E.: 2012/73, K.: 2013/107 sayılı Kararı | Ek Madde 5 | 27/3/2014

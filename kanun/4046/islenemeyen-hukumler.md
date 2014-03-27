@@ -10,7 +10,7 @@ Geçici Madde 7 -10.6.1983 tarihli ve 2840 sayılı Kanunun eki listedeki demir 
 Geçici Madde 1 - 24.11.1994 tarihli ve 4046 sayılı Kanun gereğince yapılan özelleştirme uygulamaları çerçevesinde kuruluşların (iştirakler hariç) özelleştirilmesi neticesinde İş Kanunu hükümlerine tâbi daimi ve geçici işçilerden (kapsam dışı personel hariç) 1.1.1992 ilâ 20.10.2004 tarihleri arasında iş akdi özel sektör tarafından feshedilenlerden 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (C) fıkrası kapsamında istihdam edilecek olanlarda, özelleştirme tarihinden itibaren özel sektör tarafından en geç 6 ay içinde iş akitlerinin feshi şartı aranmaz.
 4) 31/3/2011 tarihli ve 6217 sayılı Kanunun Geçici 4 üncü Maddesi:
 Geçici Madde 4 – 31/12/2011 tarihine kadar, 19/12/2010 tarihinden önce 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanun kapsamında özelleştirme programına alınan kuruluşlardan, özelleştirme kapsamından çıkartılmış olsalar dahi sermayelerindeki kamu payı % 50’nin altına düşen ve hisse senetleri İstanbul Menkul Kıymetler Borsasında işlem gören kuruluşlar ve bu kuruluşların kurdukları veya doğrudan doğruya ya da dolaylı olarak ortak oldukları şirketler hakkında 6085 sayılı Sayıştay Kanunu hükümleri uygulanmaz.
-7436-6
+7436-8
 EK : 1 SAYILI LİSTE
 ÖZELLEŞTİRME İDARESİ BAŞKANLIĞI MERKEZ TEŞKİLATI (1)
 Başkan Başkan Yard.ımcısı Ana Hizmet Birimleri Danışma Birimleri Yardımcı Birimler
@@ -27,4 +27,4 @@ Dai. Bşk.
 –––––––––––––––––
 (1) 22/12/2005 tarihli ve 5436 sayılı Kanunun 17 nci maddesiyle Araştırma Planlama Koordinasyon Dairesi Başkanlığı kurulması ve bunun görevlerine ilişkin hükümler yürürlükten kaldırılmış olup, yine aynı Kanunun 15 inci maddesiyle; Özelleştirme İdaresi Başkanlığının teşkilat kanununda düzenleme yapılıncaya kadar, 5436 sayılı Kanun ve diğer kanunlar ile verilen görevleri yapmak üzere Strateji Geliştirme Daire Başkanlığı kurulmuştur.
 (2) Bu sırada yer alan “Savunma Uzmanlığı”, 29/5/2009 tarihli ve 5902 sayılı Afet ve Acil Durum Yönetimi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 25 inci maddesinin beşinci fıkrasıyla yürürlükten kaldırılmış olup, mezkur fıkrayla sivil savunma ve seferberlik hizmetlerini planlama ve yürütme görevlerinin, idari ve mali işler, destek hizmetleri veya bu amaçla kurulmuş hizmet birimleri tarafından yürütüleceği hüküm altına alınmıştır.
-7436-7
+7436-9
