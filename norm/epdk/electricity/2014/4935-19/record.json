@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4935/19",
+  "decision_date": "2014-03-27",
+  "title": "6446 sayılı Elektrik Piyasası Kanunu kapsamında üretim lisansı sahibi bir tüzel kişinin tedarik lisansı alamayacağına, bu kapsamda Kuruma yapılan başvuruların ön inceleme aşamasında reddedilmesi gerektiğine dair",
+  "resmi_gazete_date": "2014-04-18",
+  "resmi_gazete_number": "28976",
+  "categories": [
+    "Başvuru"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=05c5v1ZohBQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=05c5v1ZohBQ="
+  ],
+  "source_sha256": "81b03ad411cc8878ba2e3247d31407098ecd49d3ec2278948da5d51ed158fb99",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33883,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-03-27",
+  "law_text_complete": false
+}
