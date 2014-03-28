@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70903105-180[5601-1406]-35009",
+  "source_id": 38329,
+  "date": "2014-03-28",
+  "title": "Sovtaj işleminde BSMV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/38329",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "dcc5b27294c03c53b883b8308996f59b8ae13b72664414f78a3ada6822c79c2f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
