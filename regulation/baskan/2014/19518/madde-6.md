@@ -1,0 +1,3 @@
+Sır saklama
+MADDE 6 – (1) Başkan ve Kurul üyeleri ile personeli, görevleri sırasında öğrendikleri sırlar ile ilgililere ve üçüncü kişilere ilişkin gizli kalması gereken bilgileri kanunen açıkça yetkili kılınan merciler dışında hiçbir kurum, kuruluş veya kişiye açıklayamaz; kendilerinin veya başkalarının yararına veya üçüncü kişilerin zararına kullanamaz. Bu yükümlülük Başkan, Kurul üyeleri ve Kurul personelinin Kuruldan ayrılmaları halinde de devam eder. Kanunun 135 inci maddesinin ikinci ve üçüncü fıkrası hükümleri saklıdır.
+(2) Başkan tarafından yetkilendirilmeksizin, Kurul personeli çalışmaları ve görevleri ile ilgili olarak basın ve yayın organlarına beyan ve açıklamalarda bulunamaz. Kurul personelinin tekzip hakları saklıdır.
