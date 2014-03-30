@@ -32,7 +32,7 @@ g) Belediye sınırları dışındaki gayri sıhhî müesseseler ile umuma açı
 İl özel idaresi, hizmetleri ile ilgili olarak, halkın görüş ve düşüncelerini belirlemek amacıyla kamuoyu yoklaması ve araştırması yapabilir.
 İl özel idaresinin mallarına karşı suç işleyenler Devlet malına karşı suç işlemiş sayılır. (Ek cümle: 1/7/2006-5538/26 md.) 2886 sayılı Devlet İhale Kanununun 75 inci maddesi hükümleri il özel idaresi taşınmazları hakkında da uygulanır.
 İl özel idaresinin proje karşılığı borçlanma yoluyla elde edilen gelirleri, vergi, resim ve harçları, şartlı bağışlar ve kamu hizmetlerinde fiilen kullanılan malları haczedilemez.
-9287
+9286-2 9287
 İl özel idaresine tanınan muafiyetler
 Madde 8- İl özel idaresinin kamu hizmetine ayrılan veya kamunun yararlanmasına açık, gelir getirmeyen taşınmaz malları ile bunların inşa ve kullanımları katma değer vergisi ile özel tüketim vergisi hariç her türlü vergi, resim, harç, katkı ve katılma paylarından muaftır. (1)
 İKİNCİ KISIM
@@ -60,7 +60,7 @@ n) Diğer mahallî idarelerle birlik kurulmasına, kurulmuş birliklere katılma
 o) İl özel idaresine kanunlarla verilen görev ve hizmetler dışında kalan ve ilgililerin isteğine bağlı hizmetler için uygulanacak ücret tarifesini belirlemek.
 ___________________
 (1) 4/6/2008 tarihli ve 5766 sayılı Kanunun 13 üncü maddesiyle; bu maddede yer alan "inşa ve kullanımları" ibaresinden sonra gelmek üzere "katma değer vergisi ile özel tüketim vergisi hariç" ibaresi eklenmiş ve metne işlenmiştir.
-(2) 1/7/2006 tarihli ve 5538 sayılı Kanunun 26 ncı maddesiyle bu bentte yer alan "İl Çevre Düzeni Planı" ibaresinden önce gelmek üzere "Belediye sınırları il sınırı olan Büyükşehir Belediyeleri hariç" ibaresi eklenmiş ve metne işlenmiştir.
+(2)1/7/2006 tarihli ve 5538 sayılı Kanunun 26 ncı maddesiyle bu bentte yer alan "İl Çevre Düzeni Planı" ibaresinden önce gelmek üzere "Belediye sınırları il sınırı olan Büyükşehir Belediyeleri hariç" ibaresi eklenmiş ve metne işlenmiştir.
 9288
 Meclis başkanlık divanı
 Madde 11- İl genel meclisi, seçim sonuçlarının ilânını izleyen beşinci gün kendiliğinden toplanır. Bu toplantıda meclise en yaşlı üye başkanlık eder. Meclis, bu toplantıda, üyeleri arasından ve gizli oyla meclis başkanını, meclis birinci ve ikinci başkan vekillerini, ikisi yedek olmak üzere dört kâtip üyeyi ilk iki yıl için görev yapmak üzere seçer. İlk iki yıldan sonra seçilecek başkanlık divanı, yapılacak ilk mahallî idareler seçimlerine kadar görev yapar.
@@ -76,12 +76,14 @@ Mutat toplantı yeri dışında toplanılmasının zorunlu olduğu durumda üyel
 İl genel meclisinin toplantıları açıktır. Meclis başkanı veya üyelerden herhangi birinin gerekçeli önerisi üzerine, toplantıya katılanların salt çoğunluğuyla kapalı oturum yapılmasına karar verilebilir. Salt çoğunluk belli bir sayının yarısından az olmayan çoğunluğu ifade eder.
 İl genel meclisi görüşmeleri görevlilerce tutanağa geçirilir, tutanak başkan ve kâtip üyeler tarafından imzalanır. Toplantılar, meclisin kararıyla sesli veya görüntülü cihazlarla da kaydedilebilir.
 Özel idare teşkilatı ve ildeki kamu kurum ve kuruluşlarının birim amirleri gündemdeki konularla ilgili olarak meclis toplantılarına davet edilebilir ve bilgi alınabilir.
-(Ek Fıkra: 30/5/2007-5675/2 md.) İl genel meclisi başkanı, acil durumlarda lüzum görmesi halinde il genel meclisini bir yılda üç defadan fazla olmamak ve her toplantı bir birleşimi geçmemek üzere toplantıya çağırır. Olağanüstü toplantı çağrısı ve gündem en az üç gün önceden meclis üyelerine yazılı olarak duyurulur ve ayrıca mutat usûllerle ilan edilir. Olağanüstü toplantılarda çağrıyı gerektiren konuların dışında hiçbir konu görüşülemez.
-Gündem
-Madde 13- Gündem, meclis başkanı tarafından belirlenir ve üyelere en az üç gün önceden bildirilir. Valinin önerdiği hususlar gündeme alınır. Gündem, çeşitli yollarla da halka duyurulur.
+(Ek fıkra: 30/5/2007-5675/2 md.) İl genel meclisi başkanı, acil durumlarda lüzum görmesi halinde il genel meclisini bir yılda üç defadan fazla olmamak ve her toplantı bir birleşimi geçmemek üzere toplantıya çağırır. Olağanüstü toplantı çağrısı ve gündem en az üç gün önceden meclis üyelerine yazılı olarak duyurulur ve ayrıca mutat usûllerle ilan edilir. Olağanüstü toplantılarda çağrıyı gerektiren konuların dışında hiçbir konu görüşülemez.
+Gündem (1)
+Madde 13- Gündem, meclis başkanı tarafından belirlenir ve üyelere en az üç gün önceden bildirilir. Valinin önerdiği hususlar meclisin ilk toplantısında gündeme alınır. Gündem, çeşitli yollarla da halka duyurulur.
 İl genel meclisi üyeleri de il özel idaresine ait işlerle ilgili konuların gündeme alınmasını önerebilir. Öneri, toplantıya katılanların salt çoğunluğuyla kabul edildiği takdirde gündeme alınır.
 Toplantı ve karar yeter sayısı
 Madde 14- İl genel meclisi, üye tam sayısının salt çoğunluğuyla toplanır ve katılanların salt çoğunluğuyla karar verir. Ancak, karar yeter sayısı, üye tam sayısının dörtte birinden az olamaz. Oylamada eşitlik çıkması durumunda meclis başkanının bulunduğu taraf çoğunluk sayılır. Gizli oylamalarda eşitlik çıkması durumunda oylama tekrarlanır, eşitliğin bozulmaması durumunda meclis başkanı tarafından kur'a çekilir.
+–––––––––––––
+(1) 12/11/2012 tarihli ve 6360 sayılı Kanunun 20 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “Valinin önerdiği hususlar” ibaresinden sonra gelmek üzere “meclisin ilk toplantısında” ibaresi eklenmiştir.
 9289
 Meclisin toplanmasında, üye tam sayısının salt çoğunluğu sağlanamadığı takdirde, başkan, gün ve saatini tespit ederek en geç üç gün içinde toplanmak üzere meclisi tatil eder. Gelecek toplantı, üye tam sayısının dörtte birinden az olmayan üye sayısı ile yapılır.
 Görüşmeler sırasında başkan veya üyelerden birinin isteği üzerine yapılacak yoklamada karar yeter sayısının bulunmadığı anlaşılırsa, ikinci fıkradaki hükümler uygulanır.
@@ -106,7 +108,7 @@ Komisyon çalışmalarında uzman kişilerden yararlanılabilir.
 Komisyon raporları alenîdir, çeşitli yollarla halka duyurulur ve isteyenlere il genel meclisi tarafından belirlenecek bedel karşılığında verilir.
 Denetim komisyonu
 Madde 17- İl genel meclisi, her yılın ocak ayında yapılacak toplantısında il özel idaresinin bir önceki yıl gelir ve giderleri ile hesap ve işlemlerinin denetimi için kendi üyeleri arasından gizli oyla ve üye sayısı üçten az, beşten çok olmamak üzere bir denetim komisyonu oluşturur. Komisyon, her siyasî parti grubunun ve bağımsız üyelerin il genel meclisindeki üye sayısının meclis üye tam sayısına oranlanması suretiyle oluşur.
-Komisyon, vali tarafından il özel idare binası içinde belirlenen yerde çalışır ve çalışmalarında uzman kişi ve kuruluşlardan yararlanabileceği gibi valinin onayıyla kamu kuruluşları personelinden de yararlanabilir. Komisyon tarafından istenen bilgi ve belgelerin iade edilmek üzere verilmesi zorunludur.
+Komisyon, vali tarafından il özel idare binası içinde belirlenen yerde çalışır ve çalışmalarında uzman kişi ve kuruluşlardan yararlanabileceği gibi valinin onayıyla kamu kuruluşları personelinden de yararlanabilir. Komisyon tarafından istenen bilgi ve belgelerin iade edilmek üzere verilmesi zorunludur. (Ek cümleler: 12/11/2012-6360/21 md.) Denetim komisyonu çalışmalarına, il özel idaresi dışındaki kamu kurum ve kuruluşlarından görevlendirilenlere 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 25 inci maddesinin üçüncü fıkrasında öngörülen miktarı geçmemek üzere, il genel meclisince belirlenecek miktarda günlük ödeme yapılır. Denetim komisyonunun emrinde görevlendirilecek kişi ve gün sayısı il genel meclisince belirlenir. Uzman kişilerde aranacak nitelikler il genel meclisinin çalışmasına dair yönetmelikte düzenlenir.
 Komisyon, çalışmasını şubat ayı sonuna kadar tamamlar ve buna ilişkin raporunu, izleyen ayın onbeşine kadar meclis başkanlığına sunar.
 Konusu suç teşkil eden hususlarla ilgili olarak meclis başkanlığı tarafından yetkili mercilere suç duyurusunda bulunulur.
 Meclisin bilgi edinme ve denetim yolları
@@ -164,14 +166,14 @@ i) Vali tarafından havale edilen konularda görüş bildirmek.
 j) Kanunlarla verilen diğer görevleri yapmak.
 Encümen toplantısı
 Madde 27- Encümen, haftada en az bir defa olmak üzere önceden belirlenen gün ve saatte toplanır. Başkan acil durumlarda encümeni toplantıya çağırabilir.
-Encümen üye tam sayısının salt çoğunluğuyla toplanır ve katılanların salt çoğunluğuyla karar verir. Oyların eşitliği durumunda başkanın bulunduğu taraf çoğunluk sayılır. Çekimser oy kullanılamaz.
+Encümen üye tam sayısının salt çoğunluğuyla toplanır ve katılanların salt çoğunluğuyla karar verir. Oyların eşitliği durumunda başkanın bulunduğu taraf çoğunluk sayılır. Çekimser oy kullanılamaz. (Ek cümle: 12/11/2012-6360/23 md.) Encümenin ihale komisyonu olarak yapacağı toplantılarda da bu fıkra hükümleri geçerlidir.
 Encümen gündemi vali tarafından hazırlanır. Encümen üyeleri gündem maddesi teklif edebilir.
 Encümen, gündemindeki konuları en geç bir hafta içinde görüşüp karara bağlar.
 Alınan kararlar başkan ve toplantıya katılan üyeler tarafından imzalanır. Karara muhalif kalanlar gerekçelerini de açıklar.
 Vali kanun, tüzük, yönetmelik ve il genel meclisi kararlarına aykırı gördüğü encümen kararının bir sonraki toplantıda tekrar görüşülmesini isteyebilir. Encümen, kararında ısrar ederse karar kesinleşir. Bu takdirde, vali, kesinleşen encümen kararının uygulanmasını durdurur ve idari yargı mercilerine yürütmeyi durdurma talebi ile birlikte on gün içinde başvurur. İtiraz Danıştayca en geç altmış gün içinde karara bağlanır.
 Encümen başkan ve üyeleri, münhasıran kendileri, ikinci derece dahil kan ve kayın hısımları ve evlatlıkları ile ilgili işlerin görüşüldüğü encümen toplantılarına katılamazlar.
-Encümen üyelerine verilecek ödenek(1) (2)
-Madde 28- Encümen Encümenin memur olmayan (…)(1) üyelerine 12000 gösterge rakamının Devlet memurları için belirlenen aylık katsayı ile çarpımı sonucu bulunacak miktarda aylık brüt ödenek verilir. Encümen başkanı hariç encümenin memur üyelerine encümen üyeleri için belirlenen gösterge rakamının yarısı ödenir. (1)(2)
+Encümen üyelerine verilecek ödenek (1)(2)
+Madde 28- Encümenin memur olmayan (…)(1) , üyelerine 12000 gösterge rakamının Devlet memurları için belirlenen aylık katsayı ile çarpımı sonucu bulunacak miktarda aylık brüt ödenek verilir. Encümen başkanı hariç encümenin memur üyelerine encümen üyeleri için belirlenen gösterge rakamının yarısı ödenir.
 ÜÇÜNCÜ BÖLÜM
 Vali
 Vali
@@ -235,7 +237,7 @@ Kamu kurum ve kuruluşlarında istihdam edilmekte olan memurlar, valinin talebi,
 Genel sekreter olarak atanan mülki idare amirlerinin bu görevde geçen süreleri meslekî kıdemlerinde geçmiş sayılır. Bu şekilde atananlar genel sekreterlik görevinin sona ermesinden itibaren bir ay içerisinde İçişleri Bakanlığı tarafından meslekî kıdemlerine uygun görevlere atanırlar.
 Sözleşmeli ve işçi statüsünde çalışanlar hariç olmak üzere il özel idaresi memurlarına, başarı durumlarına göre toplam memur sayısının %10’unu ve Devlet memurlarına uygulanan aylık katsayısının 20000 gösterge rakamı ile çarpımı sonucu bulunacak miktarı geçmemek üzere, çalıştıkları sürelerle (hastalık ve yıllık izinleri dahil) orantılı olarak, encümen kararı ile yılda en fazla iki kez ikramiye ödenebilir. Büyükşehir belediyelerinin olduğu yerlerde bu rakam 30000 olarak uygulanır.
 ––––––––––––––––––––
-(1) 24/10/2011 tarihli ve 661 sayılı KHK’nın 62 nci maddesiyle bu fıkrada yer alan “kadrolarına” ibaresi “kadrolarında göreve başlatılırlar” şeklinde değiştirilmiş ve metne işlenmiştir.
+(1) 24/10/2011 tarihli ve 661 sayılı KHK’nın 62 nci maddesiyle bu fıkrada yer alan “kadrolarına” ibaresi “kadrolarında göreve başlatılırlar” şeklinde değiştirilmiş ve metne işlenmiştir
 9296
 DÖRDÜNCÜ KISIM
 İl Özel İdarelerinin Denetimi
@@ -303,6 +305,7 @@ Vali ve harcama yetkisi verilen diğer görevliler, bütçe ödeneklerinin verim
 Bütçenin hazırlanması ve kabulü
 Madde 45- Vali tarafından hazırlanan bütçe tasarısı eylül ayı başında il encümenine sunulur. Encümen, bütçeyi inceleyerek görüşüyle birlikte kasım ayının birinci gününden önce il genel meclisine sunar.
 İl genel meclisi bütçe tasarısını yıl başından önce aynen veya değiştirerek kabul eder. Ancak, meclis bütçe denkliğini bozacak biçimde gider artırıcı ve gelir azaltıcı değişiklikler yapamaz.
+(Ek fıkra: 12/11/2012-6360/24 md.) Bütçe tasarısının süresi içerisinde kesinleşmemesi hâlinde vali, görüşüyle birlikte durumu İçişleri Bakanlığına bildirir. İçişleri Bakanının otuz gün içinde vereceği karar kesindir.
 Harcama yetkilisi
 Madde 46- İl özel idaresi bütçesiyle ödenek tahsis edilen her bir harcama biriminin en üst yöneticisi harcama yetkilisidir. İlçelerde bu yetki kaymakam tarafından kullanılır.
 İlçelere gönderilecek ödeneklerin, il özel idaresi malî kontrol yetkilisi tarafından vize edilmesi yeterlidir. Bu ödeneklerin harcanması sırasında ayrıca harcama öncesi kontrol işlemi yapılmaz.
@@ -326,7 +329,7 @@ b) İller Bankasından yatırım kredisi ve nakit kredi kullanan il özel idares
 c) Tahvil ihracı, yatırım programında yer alan projelerin finansmanı için ve ilgili mevzuat hükümleri uyarınca yapılır.
 d) İl özel idaresi ve bağlı kuruluşları ile bunların sermayesinin %50’sinden fazlasına sahip oldukları şirketlerin faiz dahil iç ve dış borç stok tutarı, en son kesinleşmiş bütçe gelirleri toplamının 213 sayılı Vergi Usul Kanununda belirlenen yeniden değerleme oranıyla artırılan miktarını aşamaz. Bu miktar büyükşehir belediyesi bulunan illerin özel idareleri için bir buçuk kat olarak uygulanır.
 e) İl özel idaresi ve bağlı kuruluşları ile bunların sermayesinin %50’sinden fazlasına sahip oldukları şirketlerin, en son kesinleşen bütçe gelirlerinin, 213 sayılı Vergi Usul Kanununda belirlenen yeniden değerleme oranıyla artırılan miktarının yılı içinde toplam %10’unu geçmeyen iç borçlanmayı il genel meclisinin kararı; %10’u geçen miktarlar için meclis üye tam sayısının salt çoğunluğunun kararı ve İçişleri Bakanlığının onayı ile yapabilir.
-f) İl özel idarelerinin ileri teknoloji ve büyük tutarda maddi kaynak gerektiren alt yapı yatırımlarında Devlet Plânlama Teşkilatı Müsteşarlığının teklifi üzerine Bakanlar Kurulunca kabul edilen projeleri için yapılacak borçlanmalar (d) bendindeki miktarın hesaplanmasında dikkate alınmaz. Dış kaynak gerektiren projelerde Hazine Müsteşarlığının görüşü alınır.
+f) İl özel idarelerinin ileri teknoloji ve büyük tutarda maddi kaynak gerektiren alt yapı yatırımlarında Devlet Plânlama Teşkilatı Müsteşarlığının teklifi üzerine Bakanlar Kurulunca kabul edilen projeleri için yapılacak borçlanmalar (d) bendindeki miktarın hesaplanmasında dikkate alınmaz. Dış kaynak gerektiren projelerde Hazine Müsteşarlığının görüşü alınır. (1)
 (Değişik ikinci fıkra: 23/1/2008 – 5728/565 md.) Yukarıda belirtilen usul ve esaslara aykırı olarak borçlanan il özel idaresi sorumluları hakkında, fiilleri daha ağır bir cezayı gerektiren bir suç oluşturmadığı takdirde, Türk Ceza Kanununun 257 nci maddesi hükümleri uygulanır.
 İl özel idaresi, varlık ve yükümlülüklerinin ayrıntılı bir şekilde yer aldığı malî tablolarını üçer aylık dönemler halinde İçişleri ve Maliye bakanlıkları ile Devlet Plânlama Teşkilatı ve Hazine müsteşarlıklarına gönderir.
 Şirket kurulması
@@ -334,6 +337,8 @@ Madde 52- İl özel idaresi kendisine verilen görev ve hizmet alanlarında, ilg
 İşletme tesisi
 Madde 53- İl özel idaresi, özel gelir ve gideri bulunan hizmetlerini İçişleri Bakanlığının izniyle bütçe içi işletme kurarak yapabilir.
 Bu işletmeler il özel idaresinin tâbi olduğu usule göre denetlenir.
+––––––––––––––––––––
+(1) Bu bent hükümlerinin 2009 Mali yılında uygulanması ile ilgili olarak, 31/12/2008 tarihli ve 27097 Mükerrer sayılı Resmi Gazete’de yayımlanan, 27/12/2008 tarihli ve 5828 sayılı 2009 Yılı Merkezi Yönetim Bütçe Kanununun 29 uncu maddesine bakınız.
 9300
 Borç ve alacakların takas ve mahsubu
 Madde 54- 4749 sayılı Kanun kapsamındaki Hazine alacakları hariç olmak üzere, il özel idaresinin, genel bütçeli kuruluşlardan, sosyal güvenlik kuruluşlarından, mahalli idarelerden ve diğer kamu kurum ve kuruluşlarından olan özel hukuk ve kamu hukukuna tâbi alacak ve borçları takas ve mahsup edilir. Bu kurum ve kuruluşların bütçelerine yeterli ve gerekli ödenek konulur.
@@ -356,8 +361,7 @@ Madde 58- Haklarında tespit tutanağı düzenlenenler tebliğ tarihinden itibar
 (1) 23/1/2008 tarihli ve 5728 sayılı Kanunun;
 a) 566 ncı maddesiyle 55 inci maddenin “Cezalar” olan başlığı “İdarî yaptırımlar”,
 b) 567 nci maddesiyle 56 ncı maddenin “Ceza verme yetkisi” olan başlığı “İdarî yaptırım kararı verme yetkisi”,
-olarak değiştirilmiş ve metne işlenmiştir.
-. 9301
+olarak değiştirilmiş ve metne işlenmiştir. 9301
 Kararların tebliği ve itiraz
 Madde 59- (Mülga: 23/1/2008 – 5728/578 md.)
 İşyeri kapatma yaptırımının uygulanması (1)
@@ -375,7 +379,7 @@ Madde 62- İl özel idaresi, il genel meclisinin kararına bağlı olarak görev
 Birinci ve ikinci fıkra gereğince yapılacak faaliyetlerin, dış politikaya ve uluslararası anlaşmalara uygun olarak yürütülmesi ve önceden İçişleri Bakanlığının izninin alınması zorunludur.
 Görev ve ek ödenek (2)
 Madde 63- Vali Yardımcıları ve Kaymakamlar, valinin verdiği il özel idaresinin görevlerini yapmakla yükümlü ve bu görevlerin yapılmasından valiye karşı sorumludur. (Mülga ikinci cümle: 11/10/2011-KHK-666/1 md.)
-(Mülga ikinci fıkra: 11/10/2011-KHK-666/1 md.)
+(Mülga ikinci fıkra : 11/10/2011-KHK-666/1 md.)
 Diğer kuruluşlarla ilişkiler
 Madde 64- İl özel idaresi, il genel meclisinin kararı üzerine yapacağı anlaşmaya uygun olarak görev ve sorumluluk alanlarına giren konularda;
 __________________
