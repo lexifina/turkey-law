@@ -1,5 +1,0 @@
-Danışmanlar
-MADDE 20.- Nüfusu ikimilyonu aşan büyükşehir belediyelerinde on, diğer büyükşehir belediyelerinde beşi geçmemek üzere başkan danışmanı görevlendirilebilir. Danışman olarak görevlendirileceklerin en az dört yıllık yüksek öğrenim kurumlarından mezun olması şarttır. Danışman olarak görevlendirilme, memuriyete geçiş, sözleşmeli veya işçi statüsünde çalışma dahil, ilgililer açısından herhangi bir hak teşkil etmez. Danışmanların görev süreleri sözleşme süresi ile sınırlıdır. Ancak bu süre belediye başkanının görev süresini aşamaz.
-Danışmanlara, her türlü ödemeler dâhil, büyükşehir belediyesi genel sekreterine ödenen brüt aylık miktarının % 75'ini aşmamak üzere belediye meclisinin belirlediği miktarda brüt ücret ödenir.
-______________________
-(1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesi ile bu fıkrada yer alan “her yılın ilk olağan toplantısında” ibaresi madde metninden çıkarılmıştır.
