@@ -14,11 +14,12 @@ Yapmakla görevli ve yetkilidir.
 (Ek fıkra: 1/7/2006-5538/26 md.; Değişik üçüncü fıkra: 24/10/2011-KHK-661/61 md.) Kamu kurum ve kuruluşlarının 5/1/1961 tarihli ve 237 sayılı Taşıt Kanunu kapsamındaki araçlarının alımı, işletilmesi, bakım ve onarımı ile bürolarının ihtiyaçları; kamu konutlarının yapım, bakım, işletme ve onarımı ile emniyet hizmetlerinin gerektirdiği teçhizat alımıyla ilgili harcamalar il özel idaresi bütçesinden karşılanabilir.
 İl çevre düzeni plânı; valinin koordinasyonunda, büyükşehirlerde büyükşehir belediyeleri, diğer illerde il belediyesi ve il özel idaresi ile birlikte yapılır. İl çevre düzeni plânı belediye meclisi ile il genel meclisi tarafından onaylanır. (Ek cümle: 1/7/2006-5538/26 md.) Belediye sınırları il sınırı olan Büyükşehir Belediyelerinde il çevre düzeni planı ilgili Büyükşehir Belediyeleri tarafından yapılır veya yaptırılır ve doğrudan Belediye Meclisi tarafından onaylanır.
 Hizmetlerin yerine getirilmesinde öncelik sırası, il özel idaresinin malî durumu, hizmetin ivediliği ve verildiği yerin gelişmişlik düzeyi dikkate alınarak belirlenir.
-İl özel idaresi hizmetleri, vatandaşlara en yakın yerlerde ve en uygun yöntemlerle sunulur. Hizmet sunumunda özürlü, yaşlı, düşkün ve dar gelirlilerin durumuna uygun yöntemler uygulanır.
+İl özel idaresi hizmetleri, vatandaşlara en yakın yerlerde ve en uygun yöntemlerle sunulur. Hizmet sunumunda engelli, yaşlı, düşkün ve dar gelirlilerin durumuna uygun yöntemler uygulanır.(2)
 Hizmetlerin diğer mahallî idareler ve kamu kuruluşları arasında bütünlük ve uyum içinde yürütülmesine yönelik koordinasyon o ilin valisi tarafından sağlanır.
 4562 sayılı Organize Sanayi Bölgeleri Kanunu ile Sanayi ve Ticaret Bakanlığına ve organize sanayi bölgelerine tanınan yetki ve sorumluluklar bu Kanun kapsamı dışındadır.
 ––––––––––––
 (1) 3/7/2005 tarihli ve 5393 sayılı Kanunun 85 inci maddesiyle bu arada yer alan “kültür, turizm, gençlik ve spor” ibaresi madde metninden çıkarılmıştır.
+(2) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “özürlü” ibaresi “engelli” olarak değiştirilmiştir.
 9286-1
 İl özel idaresinin yetkileri ve imtiyazları
 Madde 7- İl özel idaresinin yetkileri ve imtiyazları şunlardır:
@@ -32,7 +33,7 @@ g) Belediye sınırları dışındaki gayri sıhhî müesseseler ile umuma açı
 İl özel idaresi, hizmetleri ile ilgili olarak, halkın görüş ve düşüncelerini belirlemek amacıyla kamuoyu yoklaması ve araştırması yapabilir.
 İl özel idaresinin mallarına karşı suç işleyenler Devlet malına karşı suç işlemiş sayılır. (Ek cümle: 1/7/2006-5538/26 md.) 2886 sayılı Devlet İhale Kanununun 75 inci maddesi hükümleri il özel idaresi taşınmazları hakkında da uygulanır.
 İl özel idaresinin proje karşılığı borçlanma yoluyla elde edilen gelirleri, vergi, resim ve harçları, şartlı bağışlar ve kamu hizmetlerinde fiilen kullanılan malları haczedilemez.
-9286-2 9287
+9287
 İl özel idaresine tanınan muafiyetler
 Madde 8- İl özel idaresinin kamu hizmetine ayrılan veya kamunun yararlanmasına açık, gelir getirmeyen taşınmaz malları ile bunların inşa ve kullanımları katma değer vergisi ile özel tüketim vergisi hariç her türlü vergi, resim, harç, katkı ve katılma paylarından muaftır. (1)
 İKİNCİ KISIM
@@ -60,7 +61,7 @@ n) Diğer mahallî idarelerle birlik kurulmasına, kurulmuş birliklere katılma
 o) İl özel idaresine kanunlarla verilen görev ve hizmetler dışında kalan ve ilgililerin isteğine bağlı hizmetler için uygulanacak ücret tarifesini belirlemek.
 ___________________
 (1) 4/6/2008 tarihli ve 5766 sayılı Kanunun 13 üncü maddesiyle; bu maddede yer alan "inşa ve kullanımları" ibaresinden sonra gelmek üzere "katma değer vergisi ile özel tüketim vergisi hariç" ibaresi eklenmiş ve metne işlenmiştir.
-(2)1/7/2006 tarihli ve 5538 sayılı Kanunun 26 ncı maddesiyle bu bentte yer alan "İl Çevre Düzeni Planı" ibaresinden önce gelmek üzere "Belediye sınırları il sınırı olan Büyükşehir Belediyeleri hariç" ibaresi eklenmiş ve metne işlenmiştir.
+(2) 1/7/2006 tarihli ve 5538 sayılı Kanunun 26 ncı maddesiyle bu bentte yer alan "İl Çevre Düzeni Planı" ibaresinden önce gelmek üzere "Belediye sınırları il sınırı olan Büyükşehir Belediyeleri hariç" ibaresi eklenmiş ve metne işlenmiştir.
 9288
 Meclis başkanlık divanı
 Madde 11- İl genel meclisi, seçim sonuçlarının ilânını izleyen beşinci gün kendiliğinden toplanır. Bu toplantıda meclise en yaşlı üye başkanlık eder. Meclis, bu toplantıda, üyeleri arasından ve gizli oyla meclis başkanını, meclis birinci ve ikinci başkan vekillerini, ikisi yedek olmak üzere dört kâtip üyeyi ilk iki yıl için görev yapmak üzere seçer. İlk iki yıldan sonra seçilecek başkanlık divanı, yapılacak ilk mahallî idareler seçimlerine kadar görev yapar.
@@ -146,7 +147,7 @@ Madde 24- Meclis ve komisyon toplantılarına katıldıkları her gün için; il
 İKİNCİ BÖLÜM
 İl Encümeni
 İl encümeni
-Madde 25- İl encümeni valinin başkanlığında, il genel meclisinin her yıl kendi üyeleri arasından bir yıl için gizli oyla seçeceği beş üye ile biri malî hizmetler birim amiri olmak üzere valinin her yıl birim amirleri arasından seçeceği beş üyeden oluşur.
+Madde 25- (Değişik birinci fıkra: 12/11/2012-6360/22 md.) İl encümeni valinin başkanlığında, genel sekreter ile il genel meclisinin her yıl kendi üyeleri arasından seçeceği üç üye ve valinin her yıl birim amirleri arasından seçeceği iki üyeden oluşur.
 Valinin katılamadığı encümen toplantısına genel sekreter başkanlık eder.
 Encümen toplantılarına gündemdeki konularla ilgili olarak, ilgili birim amirleri vali tarafından oy hakkı olmaksızın görüşleri alınmak üzere çağrılabilir.
 Encümenin görev ve yetkileri
@@ -173,13 +174,13 @@ Alınan kararlar başkan ve toplantıya katılan üyeler tarafından imzalanır.
 Vali kanun, tüzük, yönetmelik ve il genel meclisi kararlarına aykırı gördüğü encümen kararının bir sonraki toplantıda tekrar görüşülmesini isteyebilir. Encümen, kararında ısrar ederse karar kesinleşir. Bu takdirde, vali, kesinleşen encümen kararının uygulanmasını durdurur ve idari yargı mercilerine yürütmeyi durdurma talebi ile birlikte on gün içinde başvurur. İtiraz Danıştayca en geç altmış gün içinde karara bağlanır.
 Encümen başkan ve üyeleri, münhasıran kendileri, ikinci derece dahil kan ve kayın hısımları ve evlatlıkları ile ilgili işlerin görüşüldüğü encümen toplantılarına katılamazlar.
 Encümen üyelerine verilecek ödenek (1)(2)
-Madde 28- Encümenin memur olmayan (…)(1) , üyelerine 12000 gösterge rakamının Devlet memurları için belirlenen aylık katsayı ile çarpımı sonucu bulunacak miktarda aylık brüt ödenek verilir. Encümen başkanı hariç encümenin memur üyelerine encümen üyeleri için belirlenen gösterge rakamının yarısı ödenir.
+Madde 28- Encümenin memur olmayan (…)(1) , üyelerine 12000 gösterge rakamının Devlet memurları için belirlenen aylık katsayı ile çarpımı sonucu bulunacak miktarda aylık brüt ödenek verilir. Encümen başkanı hariç encümenin memur üyelerine encümen üyeleri için belirlenen gösterge rakamının yarısı ödenir. (1)
 ÜÇÜNCÜ BÖLÜM
 Vali
 Vali
 Madde 29- Vali, il özel idaresinin başı ve tüzel kişiliğinin temsilcisidir.
 _______________________
-(1) 11/10/2011 tarihli ve 666 sayılı KHK’nin 1 inci maddesiyle bu fıkrada yer alan “başkanına 14000,” ibaresi yürürlükten kaldırılmıştır.
+(1) 11/10/2011 tarihli ve 666 sayılı KHK’nin 1 inci maddesiyle bu fıkrada yer alan “başkanına 14000,” ibaresi yürürlükten kaldırılmış olup, daha sonra 11/10/2011 tarihli ve 666 sayılı KHK ile yapılan bu düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
 (2) 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, bu maddede yer alan “Encümen” ibaresi “Encümenin memur olmayan” şeklinde ve “Encümenin” ibaresi “Encümen başkanı hariç encümenin” şeklinde değiştirilmiş ve metne işlenmiştir.
 9293
 Valinin görev ve yetkileri
@@ -237,7 +238,7 @@ Kamu kurum ve kuruluşlarında istihdam edilmekte olan memurlar, valinin talebi,
 Genel sekreter olarak atanan mülki idare amirlerinin bu görevde geçen süreleri meslekî kıdemlerinde geçmiş sayılır. Bu şekilde atananlar genel sekreterlik görevinin sona ermesinden itibaren bir ay içerisinde İçişleri Bakanlığı tarafından meslekî kıdemlerine uygun görevlere atanırlar.
 Sözleşmeli ve işçi statüsünde çalışanlar hariç olmak üzere il özel idaresi memurlarına, başarı durumlarına göre toplam memur sayısının %10’unu ve Devlet memurlarına uygulanan aylık katsayısının 20000 gösterge rakamı ile çarpımı sonucu bulunacak miktarı geçmemek üzere, çalıştıkları sürelerle (hastalık ve yıllık izinleri dahil) orantılı olarak, encümen kararı ile yılda en fazla iki kez ikramiye ödenebilir. Büyükşehir belediyelerinin olduğu yerlerde bu rakam 30000 olarak uygulanır.
 ––––––––––––––––––––
-(1) 24/10/2011 tarihli ve 661 sayılı KHK’nın 62 nci maddesiyle bu fıkrada yer alan “kadrolarına” ibaresi “kadrolarında göreve başlatılırlar” şeklinde değiştirilmiş ve metne işlenmiştir
+(1) 24/10/2011 tarihli ve 661 sayılı KHK’nın 62 nci maddesiyle bu fıkrada yer alan “kadrolarına” ibaresi “kadrolarında göreve başlatılırlar” şeklinde değiştirilmiş ve metne işlenmiştir.
 9296
 DÖRDÜNCÜ KISIM
 İl Özel İdarelerinin Denetimi
@@ -284,7 +285,7 @@ d) Vergi, resim, harç, katılma payı, hizmet karşılığı alınacak ücretle
 e) İl genel meclisince belirlenecek ilkeler çerçevesinde köylere veya köylerin aralarında kurdukları birliklere yapılacak yardımlar.
 f) İl özel idaresinin kuruluşuna katıldığı şirket, kuruluş ve birliklerle ilgili ortaklık payı, üyelik aidatı giderleri.
 g) Faiz, borçlanmaya ilişkin diğer ödemeler ve sigorta giderleri.
-h) Yoksul, muhtaç ve kimsesizler ile özürlülere yapılacak sosyal hizmet ve yardımlar.
+h) Yoksul, muhtaç ve kimsesizler ile engellilere yapılacak sosyal hizmet ve yardımlar.(1)
 i) Dava takip ve icra giderleri.
 j) Temsil, tören, ağırlama ve tanıtım giderleri.
 k) Avukatlık, danışmanlık ve denetim hizmetleri karşılığı yapılacak ödemeler.
@@ -293,7 +294,8 @@ m) Sosyo-kültürel ve bilimsel etkinlikler için yapılan giderler.
 n) Özel idare hizmetleriyle ilgili olarak yapılan kamuoyu yoklaması ve araştırması giderleri.
 o) Doğal afet giderleri.
 p) Kanunla verilen görevler ve hizmetlerin yürütülmesi için yapılan diğer giderler.
-9298
+______________
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu bentte yer alan “özürlülere” ibaresi “engellilere” olarak değiştirilmiştir. 9298
 İKİNCİ BÖLÜM
 İl Özel İdaresi Bütçesi
 İl özel idaresi bütçesi
@@ -329,7 +331,7 @@ b) İller Bankasından yatırım kredisi ve nakit kredi kullanan il özel idares
 c) Tahvil ihracı, yatırım programında yer alan projelerin finansmanı için ve ilgili mevzuat hükümleri uyarınca yapılır.
 d) İl özel idaresi ve bağlı kuruluşları ile bunların sermayesinin %50’sinden fazlasına sahip oldukları şirketlerin faiz dahil iç ve dış borç stok tutarı, en son kesinleşmiş bütçe gelirleri toplamının 213 sayılı Vergi Usul Kanununda belirlenen yeniden değerleme oranıyla artırılan miktarını aşamaz. Bu miktar büyükşehir belediyesi bulunan illerin özel idareleri için bir buçuk kat olarak uygulanır.
 e) İl özel idaresi ve bağlı kuruluşları ile bunların sermayesinin %50’sinden fazlasına sahip oldukları şirketlerin, en son kesinleşen bütçe gelirlerinin, 213 sayılı Vergi Usul Kanununda belirlenen yeniden değerleme oranıyla artırılan miktarının yılı içinde toplam %10’unu geçmeyen iç borçlanmayı il genel meclisinin kararı; %10’u geçen miktarlar için meclis üye tam sayısının salt çoğunluğunun kararı ve İçişleri Bakanlığının onayı ile yapabilir.
-f) İl özel idarelerinin ileri teknoloji ve büyük tutarda maddi kaynak gerektiren alt yapı yatırımlarında Devlet Plânlama Teşkilatı Müsteşarlığının teklifi üzerine Bakanlar Kurulunca kabul edilen projeleri için yapılacak borçlanmalar (d) bendindeki miktarın hesaplanmasında dikkate alınmaz. Dış kaynak gerektiren projelerde Hazine Müsteşarlığının görüşü alınır. (1)
+f) İl özel idarelerinin ileri teknoloji ve büyük tutarda maddi kaynak gerektiren alt yapı yatırımlarında Devlet Plânlama Teşkilatı Müsteşarlığının teklifi üzerine Bakanlar Kurulunca kabul edilen projeleri için yapılacak borçlanmalar (d) bendindeki miktarın hesaplanmasında dikkate alınmaz. Dış kaynak gerektiren projelerde Hazine Müsteşarlığının görüşü alınır.
 (Değişik ikinci fıkra: 23/1/2008 – 5728/565 md.) Yukarıda belirtilen usul ve esaslara aykırı olarak borçlanan il özel idaresi sorumluları hakkında, fiilleri daha ağır bir cezayı gerektiren bir suç oluşturmadığı takdirde, Türk Ceza Kanununun 257 nci maddesi hükümleri uygulanır.
 İl özel idaresi, varlık ve yükümlülüklerinin ayrıntılı bir şekilde yer aldığı malî tablolarını üçer aylık dönemler halinde İçişleri ve Maliye bakanlıkları ile Devlet Plânlama Teşkilatı ve Hazine müsteşarlıklarına gönderir.
 Şirket kurulması
@@ -337,8 +339,6 @@ Madde 52- İl özel idaresi kendisine verilen görev ve hizmet alanlarında, ilg
 İşletme tesisi
 Madde 53- İl özel idaresi, özel gelir ve gideri bulunan hizmetlerini İçişleri Bakanlığının izniyle bütçe içi işletme kurarak yapabilir.
 Bu işletmeler il özel idaresinin tâbi olduğu usule göre denetlenir.
-––––––––––––––––––––
-(1) Bu bent hükümlerinin 2009 Mali yılında uygulanması ile ilgili olarak, 31/12/2008 tarihli ve 27097 Mükerrer sayılı Resmi Gazete’de yayımlanan, 27/12/2008 tarihli ve 5828 sayılı 2009 Yılı Merkezi Yönetim Bütçe Kanununun 29 uncu maddesine bakınız.
 9300
 Borç ve alacakların takas ve mahsubu
 Madde 54- 4749 sayılı Kanun kapsamındaki Hazine alacakları hariç olmak üzere, il özel idaresinin, genel bütçeli kuruluşlardan, sosyal güvenlik kuruluşlarından, mahalli idarelerden ve diğer kamu kurum ve kuruluşlarından olan özel hukuk ve kamu hukukuna tâbi alacak ve borçları takas ve mahsup edilir. Bu kurum ve kuruluşların bütçelerine yeterli ve gerekli ödenek konulur.
@@ -361,7 +361,8 @@ Madde 58- Haklarında tespit tutanağı düzenlenenler tebliğ tarihinden itibar
 (1) 23/1/2008 tarihli ve 5728 sayılı Kanunun;
 a) 566 ncı maddesiyle 55 inci maddenin “Cezalar” olan başlığı “İdarî yaptırımlar”,
 b) 567 nci maddesiyle 56 ncı maddenin “Ceza verme yetkisi” olan başlığı “İdarî yaptırım kararı verme yetkisi”,
-olarak değiştirilmiş ve metne işlenmiştir. 9301
+olarak değiştirilmiş ve metne işlenmiştir.
+. 9301
 Kararların tebliği ve itiraz
 Madde 59- (Mülga: 23/1/2008 – 5728/578 md.)
 İşyeri kapatma yaptırımının uygulanması (1)
@@ -378,13 +379,14 @@ Madde 62- İl özel idaresi, il genel meclisinin kararına bağlı olarak görev
 İl özel idaresi, bu teşekkül ve organizasyonlarla ortak faaliyet ve hizmet projeleri gerçekleştirebilir.
 Birinci ve ikinci fıkra gereğince yapılacak faaliyetlerin, dış politikaya ve uluslararası anlaşmalara uygun olarak yürütülmesi ve önceden İçişleri Bakanlığının izninin alınması zorunludur.
 Görev ve ek ödenek (2)
-Madde 63- Vali Yardımcıları ve Kaymakamlar, valinin verdiği il özel idaresinin görevlerini yapmakla yükümlü ve bu görevlerin yapılmasından valiye karşı sorumludur. (Mülga ikinci cümle: 11/10/2011-KHK-666/1 md.)
+Madde 63- Vali Yardımcıları ve Kaymakamlar, valinin verdiği il özel idaresinin görevlerini yapmakla yükümlü ve bu görevlerin yapılmasından valiye karşı sorumludur. (Mülga ikinci cümle: 11/10/2011-KHK-666/1 md.)(3)
 (Mülga ikinci fıkra : 11/10/2011-KHK-666/1 md.)
 Diğer kuruluşlarla ilişkiler
 Madde 64- İl özel idaresi, il genel meclisinin kararı üzerine yapacağı anlaşmaya uygun olarak görev ve sorumluluk alanlarına giren konularda;
 __________________
 (1) 23/1/2008 tarihli ve 5728 sayılı Kanunun 568 inci maddesiyle bu maddenin “Cezaların uygulanması” olan başlığı “İşyeri kapatma yaptırımının uygulanması” olarak değiştirilmiş ve metne işlenmiştir.
 (2) 2/7/2005 tarihli ve 5391 sayılı Kanunun 2 nci maddesiyle, bu maddenin başlığı “Kaymakamların görev ve ek ödeneği” iken, metne işlendiği şekilde değiştirilmiş, birinci fıkrada yer alan “Kaymakamlar” ibaresinden önce gelmek üzere “Vali Yardımcıları ve”, “Kaymakamlara” ibaresinden önce gelmek üzere “Vali Yardımcılarına ve” ibaresi eklenmiş ve metne işlenmiştir.
+(3) 11/10/2011 tarihli ve 666 sayılı KHK ile bu maddede yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
 9302
 a) Diğer kamu kurum ve kuruluşlarına ait yapım, bakım, onarım ve taşıma işlerini bedelli veya bedelsiz üstlenebilir veya bu kuruluşlar ile ortak hizmet projeleri gerçekleştirebilir ve bu amaçla gerekli kaynak aktarımında bulunabilir. Bu takdirde iş, işin yapımını üstlenen kuruluşun tâbi olduğu mevzuat hükümlerine göre sonuçlandırılır.
 b) Merkezî idareye ait asli görev ve hizmetlerin yerine getirilmesi amacıyla gerekli bina ve tesisler ile arsa ve aynî ihtiyaçları karşılayabilir, geçici olarak araç ve personel görevlendirebilir.
@@ -392,7 +394,7 @@ c) Kamu kurumu niteliğindeki meslek kuruluşları, dernekler, vakıflar ve 507 
 d) Kendilerine ait taşınmaz malları, asli görev ve hizmetlerinde kullanılmak ve süresi yirmibeş yılı geçmemek üzere diğer kamu kurum ve kuruluşlarına tahsis edebilir. Bu taşınmazların, tahsis amacı dışında kullanılması durumunda, tahsis işlemi iptal edilir. Tahsis süresi sonunda, aynı esaslara göre yeniden tahsis mümkündür. Bu taşınmazlar aynı kuruluşlara kiraya da verilebilir.
 (b) ve (d) bentleri uyarınca kamu kurum ve kuruluşlarına il özel idarelerince karşılanan veya tahsis edilen taşınmazlar, kamu konutu ve sosyal tesis olarak kullanılamaz.
 İl özel idaresi hizmetlerine gönüllü katılım
-Madde 65- İl özel idaresi sağlık, eğitim, spor, çevre, trafik ve kültür hizmetleriyle yaşlılara, kadın ve çocuklara, özürlülere, yoksul ve düşkünlere yönelik hizmetlerin yapılmasında ilde dayanışma ve katılımı sağlamak, hizmetlerde etkinlik, tasarruf ve verimliliği artırmak amacıyla gönüllü kişilerin katılımına yönelik programlar uygular.
+Madde 65- İl özel idaresi sağlık, eğitim, spor, çevre, trafik ve kültür hizmetleriyle yaşlılara, kadın ve çocuklara, engellilere, yoksul ve düşkünlere yönelik hizmetlerin yapılmasında ilde dayanışma ve katılımı sağlamak, hizmetlerde etkinlik, tasarruf ve verimliliği artırmak amacıyla gönüllü kişilerin katılımına yönelik programlar uygular.(1)
 Gönüllülerin nitelikleri ve çalıştırılmalarına ilişkin usul ve esaslar İçişleri Bakanlığı tarafından çıkarılacak yönetmelikle belirlenir.
 Yazışma
 Madde 66- İl özel idaresi kamu kurum ve kuruluşlarıyla doğrudan yazışabilir.
@@ -403,6 +405,8 @@ Madde 68- Bu Kanunda belirtilen ücret, huzur hakkı ve ikramiye ödemeleri hari
 Acil durum plânlaması
 Madde 69- İl özel idaresi, yangın, sanayi kazaları, deprem ve diğer doğal afetlerden korunmak veya bunların zararlarını azaltmak amacıyla ilin özelliklerini de dikkate alarak gerekli afet ve acil durum plânlarını yapar, ekip ve donanımı hazırlar.
 Acil durum plânlarının hazırlanmasında varsa il ölçeğindeki diğer acil durum plânlarıyla da koordinasyon sağlanır ve ilgili bakanlık, kamu kuruluşları, meslek teşekkülleriyle üniversitelerin ve diğer mahallî idarelerin görüşleri alınır.
+_______________
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “özürlülere” ibaresi “engellilere” olarak değiştirilmiştir.
 9303
 Plânlar doğrultusunda halkın eğitimi için gerekli önlemler alınarak ikinci fıkrada sayılan idareler, kurumlar ve örgütlerle ortak programlar yapılabilir.
 İl özel idaresi, il dışında yangın ve doğal afetler meydana gelmesi durumunda, bu bölgelere gerekli yardım ve destek sağlayabilir.
