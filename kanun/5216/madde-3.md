@@ -1,7 +1,7 @@
 Tanımlar
 Madde 3- Bu Kanunun uygulanmasında;
-a) Büyükşehir belediyesi: En az üç ilçe veya ilk kademe belediyesini kapsayan, bu belediyeler arasında koordinasyonu sağlayan; kanunlarla verilen görev ve sorumlulukları yerine getiren, yetkileri kullanan; idarî ve malî özerkliğe sahip ve karar organı seçmenler tarafından seçilerek oluşturulan kamu tüzel kişisini,
+a) (Değişik: 12/11/2012-6360/4 md.) Büyükşehir belediyesi: Sınırları il mülki sınırı olan ve sınırları içerisindeki ilçe belediyeleri arasında koordinasyonu sağlayan; idarî ve malî özerkliğe sahip olarak kanunlarla verilen görev ve sorumlulukları yerine getiren, yetkileri kullanan; karar organı seçmenler tarafından seçilerek oluşturulan kamu tüzel kişisini,
 b) Büyükşehir belediyesinin organları: Büyükşehir belediye meclisi, büyükşehir belediye encümeni ve büyükşehir belediye başkanını,
 c) İlçe belediyesi: Büyükşehir belediyesi sınırları içinde kalan ilçe belediyesini,
-d) İlk kademe belediyesi: Büyükşehir belediye sınırları içinde ilçe kurulmaksızın oluşturulan ve büyükşehir ilçe belediyeleriyle aynı yetki, imtiyaz ve sorumluluklara sahip belediyeyi,
-İfade eder.
+d) (Mülga: 12/11/2012-6360/4 md.)
+ifade eder.

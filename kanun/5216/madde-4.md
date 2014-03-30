@@ -1,4 +1,5 @@
 İKİNCİ BÖLÜM
 Büyükşehir Belediyesinin Kuruluşu ve Sınırları
 Kuruluş
-Madde 4- Belediye sınırları içindeki ve bu sınırlara en fazla 10.000 metre uzaklıktaki yerleşim birimlerinin son nüfus sayımına göre toplam nüfusu 750.000'den fazla olan il belediyeleri, fizikî yerleşim durumları ve ekonomik gelişmişlik düzeyleri de dikkate alınarak, kanunla büyükşehir belediyesine dönüştürülebilir.
+Madde 4- (Değişik: 12/11/2012-6360/5 md.)
+Toplam nüfusu 750.000’den fazla olan illerin il belediyeleri kanunla büyükşehir belediyesine dönüştürülebilir.
