@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-03-31",
+  "issue": "28958",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2014/6072 Aydın, Balıkesir, Denizli, Hatay, Malatya, Manisa, Kahramanmaraş, Mardin, Muğla, Tekirdağ, Trabzon, Şanlıurfa, Van ve Ordu Büyükşehir Belediyelerinde Su ve Kanalizasyon İdaresi Kurulmasına İlişkin Esasların Yürürlüğe Konulması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140331-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140331.htm",
+  "index_sha256": "ec721e6d3bc765313d5afdfcf573b7836bcbbfa8cf6f42548f121a778c232a1a",
+  "index_header": "31 Mart 2014 ... 28958 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/03/20140331.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
