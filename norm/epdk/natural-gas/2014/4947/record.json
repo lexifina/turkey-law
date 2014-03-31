@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "4947",
+  "decision_date": "2014-03-31",
+  "title": "19/10/2012 tarih ve 4090 sayılı Kurul Kararı ile 01/04/2013-31/03/2014 tarihlerinde uygulanmasına karar verilen 18/04/2012 tarih ve 3791 sayılı Kurul Kararının 1 inci maddesi birinci fıkrasında yer alan depolama tarifelerinin, ikinci fıkrada yer alan aynı güncellenme yöntemi kullanılarak 01/04/2014-31/03/2015 döneminde uygulanmasına devam edilmesine ili",
+  "resmi_gazete_date": "2014-04-01",
+  "resmi_gazete_number": "28959",
+  "categories": [
+    "Depolama"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RGCE22tiWpY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RGCE22tiWpY="
+  ],
+  "source_sha256": "447abd9c50ee5a6a0f91a97c7fd2218e15d1f261d7cd2201ba65fe5e644efc81",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7229,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-03-31",
+  "law_text_complete": false
+}
