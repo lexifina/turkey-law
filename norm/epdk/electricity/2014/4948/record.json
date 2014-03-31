@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4948",
+  "decision_date": "2014-03-31",
+  "title": "Dağıtım Sistemi Gelirinin Düzenlenmesi Hakkında Tebliğin ek 2 nci maddesindeki (16) numaralı formül gereğince kayıp-kaçak bedeli hesaplamalarına konu olan kayıp-kaçak enerji tedariki kapsamında oluşan damga vergisi, teminat gideri ve finansman giderlerinden uygun görülenler ile dengeleme ve uzlaştırma piyasasındaki işlemler kapsamında sıfır bakiye düzeltme tutarı, geçmişe dönük düzeltme kalemi, piyasa işletim ücreti, iletim ek ücreti, süresinde ödenmeyen alacaklar payına ilişkin Karar",
+  "resmi_gazete_date": "2014-04-01",
+  "resmi_gazete_number": "28959",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fasirJ9gE+U=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fasirJ9gE+U="
+  ],
+  "source_sha256": "e1a407b99920c255eb84cee3d242028d4c9da06e0a70489b67911f0b9bc107db",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-03-31",
+  "law_text_complete": false
+}
