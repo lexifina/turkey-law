@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-04-01",
+  "issue": "28959",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2014/11)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140401-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140401.htm",
+  "index_sha256": "eb5e6a8f80e402eeee086af5f46425a6020bbc445c4219959fc9cd55c66f2cc1",
+  "index_header": "1 Nisan 2014 ... 28959 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140401.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
