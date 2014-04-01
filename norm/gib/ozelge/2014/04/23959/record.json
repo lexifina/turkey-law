@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-002.01-704",
+  "source_id": 23959,
+  "date": "2014-04-01",
+  "title": "Kiralanan arsanın üzerine tesis yapılması karşılığında kira süresi sonunda arsa sahibine bedelsiz olarak bırakılmasına ilişkin olarak düzenlenen sözleşmenin damga vergisine tabi olup olmadığı ile kira süresi sonunda üst yapı tesliminin gayrimenkul sermaye",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/23959",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "fd809b3b91370f3b59be89df3c006dede98a35ac99fdbd73cfabb2cfe59801f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
