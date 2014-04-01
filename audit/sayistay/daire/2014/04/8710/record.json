@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "61",
+  "decision_date": "2014-04-01",
+  "source_id": 8710,
+  "chamber": "4",
+  "ilam_number": "228",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8710/",
+  "source_sha256": "dbc35a7de74bbf9b9e41866136c46504710a5fc2969799dcaa962ce7d165e812",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
