@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-135[12-2013/29]-34",
+  "source_id": 38111,
+  "date": "2014-04-02",
+  "title": "Elektrik motorlu teknelerde uygulanacak ÖTV oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38111",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "fded98b85202556c5d5a24245c299cda5a1f0cf28f094ed549f101d437b7fdae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
