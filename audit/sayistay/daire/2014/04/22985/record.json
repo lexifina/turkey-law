@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "86",
+  "decision_date": "2014-04-02",
+  "source_id": 22985,
+  "chamber": "6",
+  "ilam_number": "183",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22985/",
+  "source_sha256": "d57b9cb9704580613ce7e931a784a8ad7ecb096aef16ba5234d9959961c3cf54",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

@@ -1,0 +1,3 @@
+Sanat, Kültür ve Eğitim Vakfına ait elektrik giderlerinin belediye bütçesinden ödenmesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ........... Belediyesi ...........Kültür Merkezi’nde faaliyet göstermekte olan ...........Sanat, Kültür ve Eğitim Vakfına ait elektrik giderlerinin belediye bütçesinden ödenmesi sonucu ……..-TL tutarında kamu zararına neden olunduğu görülmüş ise de; söz konusu kamu zararı ahizi ...........Sanat, Kültür ve Eğitim Vakfından ... tarih ve …….. nolu banka dekontu ile tahsil edildiği anlaşıldığından ilişilecek husus kalmadığına oy birliği ile karar verildi.
