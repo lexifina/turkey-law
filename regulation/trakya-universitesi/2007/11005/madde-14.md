@@ -1,0 +1,2 @@
+Diğer yaz okullarından alınan dersler
+MADDE 14 – (1) Öğrenciler; bu Yönetmeliğin 9 uncu maddesinde belirtilen kredi sınırlarını aşmamak ve kayıtlı oldukları birimin izni alınmak kaydıyla, yaz okulunda açılamayan dersleri kapsam ve kredi saatleri aynı veya fazla olmak kaydıyla, bu derslerin açıldığı diğer üniversitelerin yaz okullarından da alabilir. Üniversiteler tarafından gönderilen başarı notları ilgili kurullarca onaylandıktan sonra kayıtlara geçirilir.
