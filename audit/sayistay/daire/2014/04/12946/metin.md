@@ -1,0 +1,5 @@
+Müdafi / Vekil Ücreti
+
+Ceza Muhakemesi Kanununa göre görevlendirilen müdafi veya vekillere, hukuki yardımın yapıldığı tarihte yürürlükte bulunan tarife yerine, evrakların Adliyeye verildiği ve serbest meslek makbuzunun düzenlendiği tarihte yürürlükte bulunan tarife üzerinden ücret ödenmesi gerekçesiyle konu edilen ….........TL kamu zararı hususunda;
+
+Söz konusu ödemenin, 02.03.2007 tarih ve 26450 sayılı Resmi Gazete’de yayımlanan Ceza Muhakemesi Kanunu Gereğince Müdafi ve Vekillerin Görevlendirilmeleri ile Yapılacak Ödemelerin Usul ve Esaslarına İlişkin Yönetmeliğin “Ödemeye ilişkin esaslar” başlıklı 10 uncu maddesinin onbirinci fıkrasındaki; “Müdafi veya vekillik ücretinin belirlenmesinde ücrete hak kazanılan hukuki yardımın yapıldığı tarihte yürürlükte bulunan tarife esas alınır.” hükmü uyarınca mevzuata aykırı olduğuna, ancak söz konusu mevzuata aykırı uygulaman kaynaklanan kamu zararı tahsil edilmiş olduğundan ilişilecek husus kalmadığına ve tahsilatın ilamda gösterilmesine oy birliğiyle karar verildi.
