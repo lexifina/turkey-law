@@ -1,0 +1,5 @@
+TV Platform Bedeli
+
+23.9.1984 tarih ve 18524 sayılı Resmi Gazetede yayınlanan Kamu Konutları Yönetmeliğine ekli ve Kaymakamların da yararlanabildiği özel tahsisli konutlarla ilgili düzenlemelerin yer aldığı 1 sayılı cetvelde, özel tahsisli konutların ısınma, demirbaş eşya ve mefruşat, aydınlatma, elektrik, su, gaz, temizlik, telefon, kapıcı, ahçı, kaloriferci, bahçıvan ve benzeri giderleri ile her türlü işletme, bakım ve onarım giderlerinin ilgili kurum ve kuruluşlarınca karşılanacağı ifade edilmiştir. Bunların dışında kalan giderler ise konutta oturanlar tarafından karşılanacaktır. Dolayısıyla … ‘TV Platform’ bedelinin kamu konutundan yararlanan makam sahibi tarafından karşılanması gerekmektedir.
+
+Açıklanan nedenlerle söz konusu … ‘TV Platform’ bedelinin kurum bütçesinden karşılanması sonucunda oluşan ve hesabı aşağıda gösterilen toplam … TL kamu zararının sorumlulara ortaklaşa ve zincirleme olarak ödettirilmesine karar verilmesi gerekmekte ise de bu tutarın tamamının yukarıda belirtilen belgelerle tahsil edildiği anlaşıldığından ilişik kalmadığına oy birliğiyle,
