@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "4952/18",
+  "decision_date": "2014-04-03",
+  "title": "6446 sayılı Elektrik Piyasası Kanununun geçici 7 nci maddesinin birinci fıkrası ve Elektrik Piyasası Lisans Yönetmeliğinin geçici 7 nci maddesi gereğince, mevcut otoprodüktör lisanslarının sona erdirilerek verilecek üretim lisanslarına yönelik",
+  "categories": [
+    "Önlisans ve Lisansa ilişkin Diğer Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CgMZbVjRYnE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CgMZbVjRYnE="
+  ],
+  "source_sha256": "165deefae52c7a4162c3733792e3e4bc076de5a5248105c41df32ba9eb7deab0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33886,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2014-04-03",
+  "law_text_complete": true
+}
