@@ -1,0 +1,3 @@
+Yeni Birim Fiyat
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ............. Genel Müdürlüğü tarafından …. ihale edilen “ .............  Yapıları İşi”nde (19) no’lu hakediş raporu ve eki belgeler ile ilgili olarak, İşin teklif birim fiyat cetvelinde "36 kV 630A 16kA Kesicili giriş-çıkış hücresi" ve "PB-3 Beton trafo köşkleri 36 kV" olarak yer alan ve fiyatı bulunan iş kalemlerine yeni fiyat tespit edilerek ödeme yapılması sonucu …… TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizi yüklenici ………. sayılı Ödeme Emri Belgesi ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
