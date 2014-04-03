@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10321",
+  "decision_date": "2014-04-03",
+  "source_id": 15750,
+  "chamber": "1",
+  "ilam_number": "220",
+  "item_number": 35,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15750/",
+  "source_sha256": "bf7fc706fabe4f024aff5e6a0e3966ffe178381b85f97bdd2afa0e8461631e6f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
