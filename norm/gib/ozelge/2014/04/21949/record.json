@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[46-2014/51]-731",
+  "source_id": 21949,
+  "date": "2014-04-03",
+  "title": "İnternet Cafe İşletme faaliyetinden dolayı basit usulde vergi mükellefiyet kaydının yapılıp yapılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21949",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "12ac7dfbc22feba2e7ddf6428cb76323cf05686ff36834b0d97534599e00cf1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
