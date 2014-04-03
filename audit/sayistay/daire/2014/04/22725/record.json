@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "87",
+  "decision_date": "2014-04-03",
+  "source_id": 22725,
+  "chamber": "6",
+  "ilam_number": "250",
+  "item_number": 9,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22725/",
+  "source_sha256": "530096c43166445763e060bcdf0114746f34cc1418694d2fd76efcda61e080db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
