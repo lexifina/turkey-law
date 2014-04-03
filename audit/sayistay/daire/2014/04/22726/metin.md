@@ -1,0 +1,3 @@
+ Büyükşehir Belediyesinden tahsil edilmesi gereken tadilat, tefrişat, mefruşat ve diğer giderler bedelinin  tahsil edilmemesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; İşletme hakkı ............. Genel Müdürlüğü’nde olan .......Tesislerinin 29.03.2012 tarihinde imzalanan protokolle ............. Büyükşehir Belediyesi’ne devredildiği ancak protokolün 3’üncü maddesi gereği 1 yıl içerisinde Büyükşehir Belediyesinden tahsil edilmesi gereken tadilat, tefrişat, mefruşat ve diğer giderler bedelinin  tahsil edilmemesi sonucu …….. TL kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizi ............. Büyükşehir Belediyesi’nden …….…… sayılı muhasebe işlem fişi ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
