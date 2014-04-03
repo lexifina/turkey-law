@@ -1,0 +1,13 @@
+{
+  "number": "14-13/234-100",
+  "type": "Rekabet İhlali",
+  "decision_date": "2014-04-03",
+  "publication_date": "2014-06-13",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=e66a3bb8-326d-4bdf-8963-c144cee138dc",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=483",
+  "pdf_sha256": "0025548d8e2dee9e52bcb0e4fb28e7dbe71826de76f84f0f83e23bdf8527e872",
+  "pdf_bytes": "155111",
+  "pages": "7",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
