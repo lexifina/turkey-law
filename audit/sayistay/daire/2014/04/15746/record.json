@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10321",
+  "decision_date": "2014-04-03",
+  "source_id": 15746,
+  "chamber": "1",
+  "ilam_number": "220",
+  "item_number": 32,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15746/",
+  "source_sha256": "396f302bb6f5365a7ace9ebb4cc68ca6773ca70921a1937dffc3ce9a0f7c2b74",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
