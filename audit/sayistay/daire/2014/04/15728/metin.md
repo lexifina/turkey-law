@@ -1,0 +1,5 @@
+Kira ve sigorta gideri
+
+…. Medresesi, Vakıflar Genel Müdürlüğü ile …valiliği arasında düzenlenen bir protokolle ..2004 tarihi ile ..2014 tarihleri arasını kapsayan 10 yıllık süre için ve bedeli mukabilinde el sanatları merkezi olarak kullanılmak üzere … İl Özel İdaresine tahsis edilmiştir. Daha sonra söz konusu yer … İl Özel İdaresi tarafından bir protokolle Kültürel faaliyetler, el sanatları merkezi ve kafeterya olarak işletilmek üzere … . A.Ş’ye kiraya verilemiş ancak adı geçen yer için Vakıflar Genel Müdürlüğüne ödenmesi gereken kira bedeli ile Medresenin sigorta bedelleri özel idare bütçesinden ödenmiştir. Söz konusu kiralama işlemi nedeniyle anılan giderlerin .. A.Ş tarafından ödenmesi gerekmektedir.
+
+… Medresesine ait kira ve sigorta bedellerinin özel idare bütçesinden ödenmesi sonucunda oluşan toplam … TL kamu zararının sorumlulara ortaklaşa ve zincirleme olarak ödettirilmesine karar verilmesi gerekmekte ise de, bu tutarın tamamının tarih ve sayısı yukarıda yazılı makbuzla tahsil edildiği anlaşıldığından ilişik kalmadığına oy birliğiyle,
