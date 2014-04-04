@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-140[123-2014/61]-740",
+  "source_id": 36150,
+  "date": "2014-04-04",
+  "title": "5411 sayılı Bankacılık Kanununun 143 üncü maddesinin beşinci fıkrasında yer alan beş yıllık vergi ve harç istisnasından yararlanan varlık yönetim şirketinin ve beş yıllık istisna süresi biten bir başka varlık yönetim şirketi ile birleşme kararı alması dur",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36150",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "65e50ed3dffb78441ba620f8275224d7a92bac045fdfc584edbd60c5384ab096",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
