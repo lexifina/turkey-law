@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-155[1-2013-4]-172",
+  "source_id": 29847,
+  "date": "2014-04-04",
+  "title": "Mazbut Vakıfa Ait Taşınmazın İhale Yoluyla Satışında Katma Değer Vergisi, Damga Vergisi ve Harç Uygulaması Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/29847",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "851bf1b78bac5353e4826e59f0995ea1339638d831433ba50ceb23d814548f7a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
