@@ -1,0 +1,6 @@
+Tanımlar
+MADDE 4- Bu Yönetmelikte geçen;
+a) (Değişik:RG-4/4/2014-28962) Başkanlık: Yayın Denetleme ve Koordinasyon Kurulu Başkanlığını,
+b) (Değişik:RG-4/4/2014-28962) Denetim: Programların, Anayasa, 2954 sayılı Türkiye Radyo ve Televizyon Kanunu, 6112 sayılı Radyo ve Televizyonların Kuruluş ve Yayın Hizmetleri Hakkında Kanun, Yönetim Kurulu Kararları, bu Yönetmelik ve ilgili yönetmelikler, Yıllık Genel Yayın Planı ve yazılı emirlere göre; metin, görüntü ve ses bakımından yayından önce incelenerek yayınlanmasına karar verilmesini veya yapılan ekleme ve çıkarmalarla yayınlanmasının ya da yayınlanmamasının gerekçeli olarak Genel Müdür adına ve Genel Müdüre doğrudan bağlı Başkanlıkça yapılan denetimini,
+c) (Değişik: RG-24/02/2007-26444) Program: Türkiye Radyo ve Televizyon Kanununun 18, 19, 20, 21, 22, 23, 24, 27 ve 30 uncu maddelerindeki hükümler saklı kalmak ve haberler ile spor yayınları hariç olmak üzere, yıllık genel yayın plânı, yapım ve uygulama talimatları, genelge ve yazılı emirlerle belirlenen söz ve görüntü yayınlarını haber programlarını, yerli ve yabancı kaynaklı sinema ve televizyon filmlerini, Kurum repertuarına alınacak müzik eserlerini, kliplerini, açıklamalı müzik yayınlarının söz bölümlerini, radyo ve televizyon reklam programlarını,
+ifade eder.
