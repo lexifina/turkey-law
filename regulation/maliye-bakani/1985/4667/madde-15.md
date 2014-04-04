@@ -1,0 +1,5 @@
+CEZAİ MÜEYYİDELER
+Anlaşmanın Feshi ve Teminatın Hazineye Gelir Kaydı
+Madde 15 - Basım ve dağıtım işlerini, anlaşmaya uygun olarak yerine getirmeyen, veya eksik bir şekilde yapan matbaa işletmecileri ile yapılan anlaşmalar idarece tek taraflı olarak feshedilerek, teminatları hazineye gelir kaydedilir. Ayrıca haklarında kanuni koğuşturma yapılır.
+(Ek fıkra :RG-26/01/1989-20061) Anlaşması fesh edilen matbaa işletmecileri ile tekrar anlaşma yapılıp yapılmama hususunda defterdarlıklar yetkilidir.
+(Ek fıkra :RG-26/01/1989-20061) Ancak, vergi kayıp ve kaçağına sebep olacak ölçüde anlaşma şartlarına aykırı belge bastıkları için anlaşması fesh edilen anlaşmalı matbaa işletmecileri ile bir daha anlaşma yapılmayacaktır. Anlaşması fesh edilen matbaa işletmecisi, işletmesini usul ve füruna, evlatlığına, eşine veya kendisine evlat edinene devretmesi halinde, devralan kişilerle de anlaşma yapılmayacaktır. Devralan kişilerin bu sayılanlar dışındaki üçüncü bir şahıs olması halinde ise yeni matbaa işletmecisi ile devir tarihinden itibaren iki yıl anlaşma yapılmayacaktır.

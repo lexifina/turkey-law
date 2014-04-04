@@ -1,0 +1,4 @@
+Müşterek Hükümler
+Madde 8 - Fatura, Müstahsil Makbuzu, Serbest Meslek Makbuzu, Gider Pusulası, Perakende Satış Vesikaları, Sevk İrsaliyesi en az bir asıl bir örnek; Taşıma İrsaliyesi ve yolcu listesi bir asıl iki örnek; Günlük Müşteri Listesi ise en az bir asıl olarak basılacaktır.
+(Değişik :RG-26/01/1989-20061) Ayrıca, bu yönetmelik uyarınca belgelerin basım ve dağıtımını yapan matbaa işletmecisi, bu belgelerin en alt kısmına dip not şeklinde adını soyadını, varsa ticaret unvanını adresini, bağlı bulunduğu vergi dairesi ve hesap numarası ile Defterdarlıkla yapılan anlaşmanın tarihini yazacaktır.
+Yine matbaa işletmecileri, basım ve dağıtımını yapacakları belgelerin uygun bir yerine faaliyette bulundukları ilin trafik kod numarası ve defter darlıkça gösterilecek ve örneği ekte yer alan özel işareti (amblem) koyacaklardır.
