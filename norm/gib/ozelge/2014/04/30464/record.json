@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I.13.148]-97",
+  "source_id": 30464,
+  "date": "2014-04-07",
+  "title": "İnternet üzerinden verilen bilgi paylaşımı bedeline tevkifat uygulanıp uygulanmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30464",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "db2668002872788f561226a7e6a512fbc3826d96a007d58d26129a8a600f8aed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
