@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.28-761",
+  "source_id": 32682,
+  "date": "2014-04-07",
+  "title": "3824 90 64 00 00 GTİP No lu ürünün ithalatında KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32682",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "c1a12a171b9a699396431c36013601240c739fce447fa5a6a5455dc28e13ce63",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
