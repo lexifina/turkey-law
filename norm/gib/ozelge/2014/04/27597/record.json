@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-125[KVK.2013.ÖZ.38]-85",
+  "source_id": 27597,
+  "date": "2014-04-07",
+  "title": "Avusturya'da mukim şirkete yapılacak temettü ödemelerinden hangi oranda tevkifat yapılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27597",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e7615f10fcdc2a5fff52bc2c7f0f26290beb13f66cad6397c0b413d31f176ee3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
