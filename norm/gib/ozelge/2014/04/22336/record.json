@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-125[6-2012/928]-175",
+  "source_id": 22336,
+  "date": "2014-04-07",
+  "title": "Şirketin ortağının şirketten alacağından vazgeçmesi ile özel fona alınan borcun hahgi yılın zararından indirileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22336",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "9550c6280476d63964ea6dedca767d1be3c8ed7e69876e9cec7b642e2358f07a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
