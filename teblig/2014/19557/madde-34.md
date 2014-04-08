@@ -1,0 +1,8 @@
+BEŞİNCİ BÖLÜM
+Dampingli İthalat ile Zarar Arasındaki Nedenselliğe İlişkin Belirlemeler
+Dampingli ithalatın etkisi
+MADDE 34 – (1) Yerli üretim dalının Türkiye piyasasındaki konumundaki iyileşmenin iç piyasadaki toplam genişlemenin gerisinde kaldığı, yerli üretim dalının pazar payını arttıramadığı görülmektedir.
+(2) Öte yandan, yerli üretim dalının dampingli ithalatın yarattığı fiyat baskısı nedeniyle fiyatlandırma yaparken ticari maliyetlerini göz ardı etmek zorunda kaldığı ve özellikle SD’de karlılığında bozulma yaşandığı görülmektedir. Üretim ve satışlarını arttıran yerli üretim dalının dampingli ithalat dolayısıyla maliyetlerini karşılayamayacak fiyat düzeylerinde satış gerçekleştirerek bunu karından feragat etme pahasına yaptığı anlaşılmaktadır.
+(3) Bununla beraber, Vietnam, Pakistan, Tayland, Malezya için dampingli ithalatın birim fiyatlarının, yerli üretim dalının yurt içi satış fiyatlarını önemli ölçüde kırdığı ve baskıladığı tespit edilmiştir.
+(4) Bu tespitler ışığında, Vietnam, Pakistan, Tayland, Malezya için yerli üretim dalındaki olumsuz gelişmelerin dampingli ithalatla eşzamanlı görülmesi sebebiyle, yerli üretim dalında görülen zarar ile dampingli ithalat arasında illiyet bağı olduğu sonucuna varılmıştır.
+(5) Mısır’ın fiyat kırılması ve baskısı oranlarının negatif olduğu, Mısırdan yapılan ithalatın birim fiyatlarının yerli üreticinin hem yurt içi satış fiyatlarının hem de olması gereken yurt içi satış fiyatlarının üzerinde olduğu, bu nedenle yerli üretim dalındaki zararın Mısır’dan yapılan ithalattan kaynaklanmadığı ve bu çerçevede illiyet bağının mevcut olmadığı değerlendirilmiştir.

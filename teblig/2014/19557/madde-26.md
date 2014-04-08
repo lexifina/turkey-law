@@ -1,0 +1,2 @@
+Soruşturma konusu ithalatın gelişimi ve fiyatları
+MADDE 26 – (1) Soruşturmaya konu ülkelerden gerçekleşen ithalata bakıldığında ise 2009 yılında söz konusu ülkelerden kesik elyaf ipliği ithalatı toplam ithalatın %37’sini oluşturarak 48.458 ton olarak gerçekleşirken, 2010 yılında artarak 78.357 ton ile toplam ithalatın %45’ini oluşturmuştur. 2011 yılında ise artmaya devam ederek 90.039 ton ile toplam ithalatın %50’sini teşkil etmiştir. 2011 yılında 2009 yılına kıyasla soruşturma konusu ülkelerden toplam dampingli ithalatın %86 oranında arttığı görülmüştür.
