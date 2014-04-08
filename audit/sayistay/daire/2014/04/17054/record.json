@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10323",
+  "decision_date": "2014-04-08",
+  "source_id": 17054,
+  "chamber": "1",
+  "ilam_number": "172",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17054/",
+  "source_sha256": "37ed9006a0230ca33fbd8e6f8510da3d6e1bc779c2530553617c347627c28e4b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
