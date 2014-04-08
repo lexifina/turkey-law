@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[9-2013/60]-338",
+  "source_id": 30461,
+  "date": "2014-04-08",
+  "title": "Malzemesiz Temizlik İşinde Tevkifat Uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30461",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "c8fa5b9612cf77a0945132311464f6e3ef61c66552e37a9283f2d2b2a4d47c10",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
