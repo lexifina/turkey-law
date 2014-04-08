@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38796",
+  "decision_date": "2014-04-08",
+  "source_id": 7981,
+  "chamber": "5",
+  "file_number": "37114",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/7981/",
+  "source_sha256": "4dae0101b61446b9aa6df6666952a06007f5c87d643a5e352316fe9625a333e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
