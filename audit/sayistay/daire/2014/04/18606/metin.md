@@ -1,0 +1,3 @@
+Hakediş ödemelerinden gecikme cezası kesintisi yapılmaması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; … Belediyesi Fen İşleri Müdürlüğünce … tarihinde ihale edilen … TL sözleşme bedelli “… Alım İşi”nde yüklenici firma … A.Ş sözleşme gereği 10(on) günlük süre içerisinde işi tamamlayamadığı halde hakediş ödemelerinden gecikme cezası kesintisi yapılmaması suretiyle … TL kamu zararına neden olunduğu görülmüş ise de, söz konusu kamu zararının … tarih ve … nolu muhasebe işlem fişi ile ahizi … A.Ş’den tahsil edildiği anlaşıldığından konu hakkında ilişilecek husus kalmadığına oy birliğiyle,
