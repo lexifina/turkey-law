@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10322",
+  "decision_date": "2014-04-08",
+  "source_id": 15658,
+  "chamber": "1",
+  "ilam_number": "171",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15658/",
+  "source_sha256": "54067409e9c86c66ee229313624503ff691424047d259d7c3c9a39e5c39dc89a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
