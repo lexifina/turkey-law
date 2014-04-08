@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "89",
+  "decision_date": "2014-04-08",
+  "source_id": 8905,
+  "chamber": "6",
+  "ilam_number": "287",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8905/",
+  "source_sha256": "fb968e572917d74b26ccb0a57d583c98bdb8edd98ec1191d9a2f025808b2f815",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
