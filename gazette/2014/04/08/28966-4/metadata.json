@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-04-08",
+  "issue": "28966",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Proje ve Kontrollük İşlerinde Uygulanacak Fiyat Artış Oranları Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140408-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140408.htm",
+  "index_sha256": "9149759e573b676c0a6af033790ed4e2d3b7f448207d78d6bd3d45b11f3bc14f",
+  "index_header": "8 Nisan 2014 ... 28966 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140408.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
