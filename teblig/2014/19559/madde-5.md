@@ -1,0 +1,8 @@
+İntibak işlemlerine ilişkin usuller
+MADDE 5 – (1) Kooperatif ve birliklerin anasözleşmelerinin, yürürlüğe konulan örnek anasözleşmelere intibak ettirilmesi işlemi, yönetim kurulu kararıyla yapılır. Bu konuda ayrıca genel kurul kararı aranmaz.
+(2) İlgili Ticaret Sicili Müdürlüğüne sunulacak intibaka ilişkin yönetim kurulu kararı notere onaylatılır.
+(3) Örnek anasözleşmelere intibak ettirilen kooperatif ve birliklerin yeni anasözleşmelerinin her sayfası yönetim kurulu üyelerince imzalanır. Bakanlık ve ilgili Ticaret Sicili Müdürlüğüne sunulacak anasözleşmelerin notere onaylatılması zorunlu değildir.
+(4) Yönetim kurulu, örnek anasözleşmelerdeki tescile tabi hususları yönetim kurulu kararı tarihinden itibaren bir ay içinde ticaret siciline tescil ve ilan ettirir. Tescile tabi hususların tespitinde, 24/4/1969 tarihli ve 1163 sayılı Kooperatifler Kanununun 3 üncü maddesi hükmü uygulanır. Örnek anasözleşmeye intibak işlemi, bu hususun Türkiye Ticaret Sicili Gazetesinde yayımlandığı tarihte tamamlanır.
+(5) Yönetim kurulu, ilan tarihinden itibaren en geç on beş gün içinde, yönetim kurulu üyelerince her sayfası imzalanan anasözleşmeyi, intibaka ilişkin yönetim kurulu kararının bir suretini ve tescile tabi hususların ilan edildiği Türkiye Ticaret Sicili Gazetesinin örneğini yazı ekinde Genel Müdürlüğe bildirir.
+(6) Bu Tebliğdeki usul ve esaslara göre yapılacak intibak işleminin, bu Tebliğin Resmî Gazete’de yayımı tarihinden itibaren en geç altı ay içinde tamamlanması zorunludur.
+(7) Anasözleşme intibakı, intibak işleminin tamamlanmasını takiben yapılacak ilk genel kurul toplantısında, gündemde olmasa bile, ayrı bir gündem maddesi olarak ortakların bilgisine sunulur.
