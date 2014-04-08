@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10322",
+  "decision_date": "2014-04-08",
+  "source_id": 15659,
+  "chamber": "1",
+  "ilam_number": "171",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15659/",
+  "source_sha256": "12f53216686f1c8574815aeabb406af5478ee7197e951c66a194cf55a2dc5fcb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
