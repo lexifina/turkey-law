@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-130[16-2013/126]-41",
+  "source_id": 31513,
+  "date": "2014-04-08",
+  "title": "Yurt içinden havayolu şirketine yapılan işletme ve donatım malzemelerinin tesliminde KDV",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31513",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "77f628c0a7366ba6383535735a21ad752ad563493f06acfca1127d5709173455",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
