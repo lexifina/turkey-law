@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10324",
+  "decision_date": "2014-04-08",
+  "source_id": 8762,
+  "chamber": "1",
+  "ilam_number": "161",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8762/",
+  "source_sha256": "2eca00bb2ff7acf15e7bc5a062776fdc7be643f7da3b3987bd6be3db78a42370",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
