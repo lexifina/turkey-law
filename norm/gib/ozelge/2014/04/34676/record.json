@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155.08[2013/1611]-356",
+  "source_id": 34676,
+  "date": "2014-04-08",
+  "title": "İhale kararı ve sözleşmede damga vergisi oranının ne olacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34676",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "30afb61c6fb972ad70676987a7249ea30e067e5bdab0f2c02eafd3e04b283b07",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
