@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-130[11-2013/99]-40",
+  "source_id": 29329,
+  "date": "2014-04-08",
+  "title": "Mobil cihazlar için Türkiye'de üretilen ve geliştirilen yazılımın yurt dışı merkezli uygulama marketlerine satışında KDV ve KVK uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29329",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "b2f09468b82c465f08bcb60d7ac4c8668d9c2bf1c4cc981885773d1756e43073",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
