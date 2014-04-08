@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.19560",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MOTORLU TAŞITLAR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 44)",
+  "number": "19560",
+  "path": "teblig/2014/19560",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19560&MevzuatTertip=5",
+  "source_sha256": "9fa998c63c1f4aece4de98536997d69a82d0324844702d50722b270d9fe75bf3",
+  "source_bytes": 13429,
+  "published": "2014-04-08",
+  "gazette": "28966",
+  "in_force": "2014-04-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.04.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 483,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
