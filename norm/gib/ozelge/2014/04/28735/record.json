@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "67630374-125[2013-7]-5",
+  "source_id": 28735,
+  "date": "2014-04-09",
+  "title": "İndirimli Kurumlar Vergisi kapsamında yapılan yatırımlar dolayısıyla hak kazanılan yatırıma katkı tutarından birden fazla yılda yararlanılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28735",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "3146cf5a81315f02f4dfe346bf947e93e4ab66921ddc6560983b6981fb9ba06e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
