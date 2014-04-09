@@ -1,0 +1,110 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 803746,
+  "assembly": "TBMM",
+  "term": 24,
+  "heading": "TEKLİFLER (GÖRÜŞÜLENLER)",
+  "heading_as_published": "Teklifler (görüşülenler) / Temel Kanun Teklifleri",
+  "title": "TBMM fihrist kaydı 803746 (Teklifler (görüşülenler) / Temel Kanun Teklifleri)",
+  "first_sitting_date": "2014-04-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 75,
+      "sitting": 74,
+      "sitting_date": "2014-04-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c075/tbmm24075074.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c075/tbmm24075fih.pdf",
+      "pages": [
+        "73",
+        "104:126",
+        "129:131"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=4&v_cilt="
+    },
+    {
+      "cilt": 75,
+      "sitting": 75,
+      "sitting_date": "2014-04-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c075/tbmm24075075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c075/tbmm24075fih.pdf",
+      "pages": [
+        "192:195",
+        "199:207",
+        "208:223",
+        "226:231",
+        "236:237",
+        "239:248",
+        "252:255"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=4&v_cilt="
+    },
+    {
+      "cilt": 75,
+      "sitting": 76,
+      "sitting_date": "2014-04-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c075/tbmm24075076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c075/tbmm24075fih.pdf",
+      "pages": [
+        "444:467"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=4&v_cilt="
+    },
+    {
+      "cilt": 75,
+      "sitting": 77,
+      "sitting_date": "2014-04-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c075/tbmm24075077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c075/tbmm24075fih.pdf",
+      "pages": [
+        "676:683",
+        "685:690",
+        "692:697",
+        "698:702",
+        "719:722",
+        "723:743",
+        "745:749",
+        "750:752",
+        "753:756",
+        "756:757",
+        "758:761",
+        "763:764",
+        "771"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=4&v_cilt="
+    },
+    {
+      "cilt": 75,
+      "sitting": 78,
+      "sitting_date": "2014-04-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c075/tbmm24075078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c075/tbmm24075fih.pdf",
+      "pages": [
+        "934:936",
+        "937:953",
+        "955:956",
+        "957:964",
+        "965:971",
+        "972:973",
+        "974:988",
+        "990:991"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=4&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER%20%28G%D6R%DC%DE%DCLENLER%29&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER%20%28G%D6R%DC%DE%DCLENLER%29&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "8aa581c5c4fe8ab10a0589f649b2e01a886a011160199e473fdc20ac134473e8",
+  "in_force": "2014-04-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
