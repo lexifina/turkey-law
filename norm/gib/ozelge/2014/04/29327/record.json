@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-019.01-854",
+  "source_id": 29327,
+  "date": "2014-04-09",
+  "title": "Kiralama usulü ile satışı yapılan alarm sistemi cihazlarının KDV karşısındaki durumu ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29327",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "b3198eb52523f7e93175683c2d88398b718adf24037fa96117bcd877c19973d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
