@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "25410040-130[9-2013/5]--7",
+  "source_id": 30456,
+  "date": "2014-04-09",
+  "title": "Hizmet Alım işinde KDV Tevkifatı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30456",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "86aa532ab3a405054d0d407cd286ec627e7b5fde2333d14e24817f2226b37a78",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
