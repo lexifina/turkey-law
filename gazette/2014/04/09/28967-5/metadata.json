@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-04-09",
+  "issue": "28967",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Özel Hususlar-Özel Amaçlı Çerçevelere Göre Hazırlanan Finansal Tabloların Bağımsız Denetimi (BDS 800) Hakkında Tebliğ Türkiye Denetim Standartları Tebliği No: 35",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140409-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140409.htm",
+  "index_sha256": "99387f9beb3d299c7804b28b3f7da1ca6b9543343a79dfe2ac7f8223afbf5234",
+  "index_header": "9 Nisan 2014 ... 28967 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140409.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
