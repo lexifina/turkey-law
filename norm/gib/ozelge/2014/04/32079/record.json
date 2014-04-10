@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-130[25-2014]-42",
+  "source_id": 32079,
+  "date": "2014-04-10",
+  "title": "Para puan kartlarında biriken puanların daha sonraki alışverişlerde kullanılması durumunda iskonto olarak değerlendirilip değerlendirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32079",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "b4855e35dfd410b6c57cf8e5d35fb1f294afef9f83961a88b18033b829cc5b7e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
