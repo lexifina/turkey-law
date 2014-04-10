@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13334133-125-10",
+  "source_id": 27360,
+  "date": "2014-04-10",
+  "title": "Okul Aile Birliğinin Kurslarına Katılan Kursiyerlerin Yaptığı El İşlerinin Satılması ve Gelirlerin Tamamının Kursiyerlere Kalması Sonucu İktisadi İşletme Oluşup Oluşmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27360",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "128c1fbb7ac40360e3aaeb505ce21a5ad76e8daf5690fdf1c73e443a95a25b94",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
