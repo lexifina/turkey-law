@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-04-10",
+  "issue": "28968",
+  "edition": "mükerrer 1",
+  "item": 2,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KAMU İKTİSADİ TEŞEBBÜSLERİ KOMİSYONU KARARLARI",
+  "title": "5 TBMM Kamu İktisadi Teşebbüsleri Komisyonunun 3346 Sayılı Kanunun 8, 9 ve 10’uncu Maddeleri Uyarınca Kesinleşen Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140410M1-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140410M1.htm",
+  "index_sha256": "e115db26597847aabaee00795d9661da801fe1e661f0922a9ba3dc7e907c94ca",
+  "index_header": "10 Nisan 2014 ... 28968 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
