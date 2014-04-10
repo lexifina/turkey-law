@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-120[61-2014]-36",
+  "source_id": 23251,
+  "date": "2014-04-10",
+  "title": "Çalışanlar adına tahakkuk eden emeklilik taahhütlerinin bireysel emeklilik sistemine aktarılması nedeniyle aktarılan tutarların Gelir Vergisi ve Damga Vergisi Kanunları yönünden değerlendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23251",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "77ca0200c8ba861112e96968e0cb536cedd36a40cc47a0c99079bf3f096b11d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
