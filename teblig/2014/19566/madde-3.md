@@ -1,0 +1,4 @@
+Karar
+MADDE 3 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, 2917.36.00.00.11 gümrük tarife istatistik pozisyonunda yer alan eşyanın ithalatında 2 (iki) yıl süreyle ek mali yükümlülük şeklinde korunma önlemi uygulanmasına, ek mali yükümlülüğün aşağıda yer alan tabloda gösterildiği şekilde gümrük kıymetinin yüzdesi olarak belirlenmesine, Dünya Ticaret Örgütü Korunma Önlemleri Anlaşması’nın 12.3 maddesi gereğince soruşturma konusu eşyanın ihracatçıları olarak önemli bir menfaati olan Dünya Ticaret Örgütü üyeleri ile istişarelerde bulunulmasına, Korunma Önlemleri Anlaşması’nın 9.1 maddesi gereğince gelişmekte olan ülkelere muafiyet tanınmasına ve önlemin istihsali hususunda Bakanlar Kurulu’na öneride bulunulmasına toplantıya katılan üyelerin oy birliği ile karar vermiştir.
+Gümrük Tarife İstatistik Pozisyonu | Eşya Tanımı | 1 inci Dönem (Gümrük Kıymeti %) | 2 nci Dönem (Gümrük Kıymeti %)
+2917.36.00.00.11 | Tereftalik asit | 4,00 | 3,75
