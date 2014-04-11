@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "ÖTV-1/2014-1",
+  "source_id": 987,
+  "date": "2014-04-11",
+  "title": "ÖTV Kanununa Ekli (I) Sayılı Listedeki Malların İthalinde Alınan Teminatların Çözümü Talebi İçin Verilmesi Gereken Dilekçe",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/sirkuler/987",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "8d39f3f11635e42a0c7b272837e053a8d1b3a8f542e2c4c2c8d99750e896d1a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
