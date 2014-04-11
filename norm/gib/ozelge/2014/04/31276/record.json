@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-130[13/a-2013/35]-38",
+  "source_id": 31276,
+  "date": "2014-04-11",
+  "title": "Yat imal ve inşası yapan firmaya nevresim, havlu, masa örtüsü tesliminde istisna hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31276",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "7b367a869db255ebad6c34e63d9153f060e53e9deba49a46f6ff8f0da37fd352",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
