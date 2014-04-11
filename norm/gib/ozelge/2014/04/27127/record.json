@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-105[323-2014]-46",
+  "source_id": 27127,
+  "date": "2014-04-11",
+  "title": "İflas masasına bildirilen ancak iflas masası tarafından henüz kabul ya da red kararı verilmeyen alacaklar için şüpheli alacak karşılığı ayrılıp ayrılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27127",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "667b6c038cfafbfa736b80141cb92135ab06827e47d3c459ecc2256b1db01222",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
