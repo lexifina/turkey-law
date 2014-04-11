@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-125[ÖZG-13/23]-106",
+  "source_id": 28785,
+  "date": "2014-04-11",
+  "title": "Kurumlar vergisi beyannamesinde tevkif yoluyla kesilen vergilerden doğan iade alacağının ithal edilen malların katma değer vergisine mahsubu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28785",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "9dd72dabd1f98359abfad67df6ef8d65ffcee1c1b6e044fe9f53d49a301bf2e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
