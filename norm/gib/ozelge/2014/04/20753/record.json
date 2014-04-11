@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[65-2013/226]-871",
+  "source_id": 20753,
+  "date": "2014-04-11",
+  "title": "Almanya mukiminin belli bir işle ilgili olarak Türkiye'de icra ettiği serbest meslek faaliyeti çerçevesinde elde ettiği kazanç.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20753",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "244752efdef160bf396b356a8d0392d3f0dcd144ba4fcb80da010b8f26a7e018",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
