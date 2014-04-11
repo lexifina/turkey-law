@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "ÖTV-1/2014-2",
+  "source_id": 986,
+  "date": "2014-04-11",
+  "title": "2012/3792 sayılı Kararname kapsamındaki ÖTV iade taleplerine ilişkin verilmesi gereken tablo hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/sirkuler/986",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "ca7adb34f206ec36e464c940095f10cef28553ff05f1fa7ee19b760c962bdbd4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
