@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-120[64/2013]-39",
+  "source_id": 22949,
+  "date": "2014-04-11",
+  "title": "Ücretsiz olarak yapılan şoförlük işinin vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22949",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "d336aeb3efc78ad8afe3280915a614d074ac7db72cd2cab21def71818922576a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
