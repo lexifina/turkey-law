@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "73903997-185[39-2012/1]-2777",
+  "source_id": 29978,
+  "date": "2014-04-11",
+  "title": "Teknik altyapısı bulunan ÖİV mükellefinden adına tahsis edilen hattı kullanan şirketin ÖİV mükellefi olup olmadığı ve düzenleyeceği faturalarda ayrıca ÖİV ve KDV hesaplanıp hesaplanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/29978",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "8040e3172c7eb9fb359196a29f5e2e3956af2c8ccb49d84cef5fe50c6a26d4c7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
