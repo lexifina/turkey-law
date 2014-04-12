@@ -1,0 +1,24 @@
+{
+  "number": "meeting-04-12",
+  "number_as_published": "meeting-04-12",
+  "year": 2014,
+  "title": "12 Nisan 2014 Tarihli Olağan Meclis Toplantısı Karar Özeti",
+  "decision_date": "2014-04-12",
+  "source": "https://mentese.bel.tr/meclis-kararlari/",
+  "official_document": "https://mentese.bel.tr/wp-content/uploads/dosyalar/mecliskararlari/meclis_karar_120414.pdf",
+  "source_sha256": "4593ba1283cc325232bcaa4702d17df7b146c2e9c9454ef00a7428b3584d5b25",
+  "issuer": "Menteşe Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2014-04-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12 NİSAN 2014; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "12 Nisan 2014 Tarihli Olağan Meclis Toplantısı Karar Özeti",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://mentese.bel.tr/meclis-kararlari/"
+}
