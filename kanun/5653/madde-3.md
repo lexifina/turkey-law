@@ -3,10 +3,6 @@ Vakfın Amaçları ve Organları
 Vakfın amaçları
 MADDE 3 – (1) Vakfın amaçları şunlardır:
 a) Türkiye'yi, kültürel mirasını, Türk dilini, kültürünü ve sanatını tanıtmak, Türkiye’nin diğer ülkeler ile dostluğunu geliştirmek, kültürel alışverişini artırmak için yurt dışında kültür merkezleri kurulmasını ve işletilmesini sağlamak.
-__________________
-(1) 24/10/2011 tarihli ve 661 sayılı KHK’nin 81 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “Araştırma” ibaresi yürürlükten kaldırılmıştır
-(2) 24/10/2011 tarihli ve 661 sayılı KHK’nin 82 nci maddesiyle bu bentte yer alan “Vakfı” ibaresinden sonra gelmek üzere “Mütevelli Heyeti” ibaresi eklenmiş ve metne işlenmiştir.
-10096
 b) Türkiye, kültürel mirası, Türk dili, kültürü ve sanatı konularında yurt dışında ücretli veya ücretsiz eğitim vermek veya verdirmek, bu alanlarda sertifika vermek, verilmesini sağlamak.
 c) Türkiye, kültürel miras, Türk dili, kültürü ve sanatına ilişkin yurt içi ve yurt dışındaki bilgi ve belgeleri dünyanın istifadesine sunmak için araştırmalar, etkinlikler yapmak veya yaptırmak, yurt içinde ve yurt dışındaki üniversite ve sivil toplum örgütleri, ilgili diğer gerçek ve tüzel kişiler ile ortak projeler yürütmek ve yazılı ve görsel medyada süreli veya süresiz yayınlar yapmak veya yaptırmak.
 ç) Yurt dışında benzer kuruluşlar ve uluslararası kuruluşlarla işbirliği yapmak.
@@ -17,3 +13,4 @@ g) Türk dilinin, kültürünün ve sanatının tanıtımına ilişkin yarışma
 ğ) Kültür Merkezlerinin kurulmadığı yerlerde bu Kanunun amaçlarının gerçekleşmesi için yurt dışında faaliyet gösteren diğer kamu kurum ve kuruluşları ile birlikte çalışmalar yürütmek.
 (2) Vakıf tarafından yurt dışında Kültür Merkezi açılan şehirlerde diğer kamu kurum ve kuruluşları aynı amaçla başka birimler oluşturamaz.
 (3) Vakfın yurt dışındaki ilişkileri bakımından 8/6/1984 tarihli ve 227 sayılı Vakıflar Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin ek 3 üncü maddesi uyarınca Dışişleri Bakanlığının uygun görüşü yeterli sayılır, İçişleri Bakanlığının izni aranmaz.
+10096-1
