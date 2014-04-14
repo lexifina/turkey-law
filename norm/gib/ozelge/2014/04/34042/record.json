@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-ÖTV 8-883",
+  "source_id": 34042,
+  "date": "2014-04-14",
+  "title": "Plastik conta ve granül imalinde kullanılmak üzere satın alınan white oil için ödenen ÖTV'nin 25 Seri No'lu Tebliğe göre iadesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34042",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "c2ee5c9b834d6fe219717cd464fab403ba665a164b40f537ebf67df7fc558ec0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
