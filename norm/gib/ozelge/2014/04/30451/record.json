@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "22202903-KDV-2013/1-1",
+  "source_id": 30451,
+  "date": "2014-04-14",
+  "title": "SMS Yöntemiyle Ödemede KDV",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30451",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "291ac9af2c0afb7ce257fa506f496412c6feff2bdfe3991a270b842e5ba21ced",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
