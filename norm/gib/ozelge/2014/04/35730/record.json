@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-140[57-2013/190]-913",
+  "source_id": 35730,
+  "date": "2014-04-14",
+  "title": "Tapu kaydının iptali ile davacı adına tapuya tesciline ilişkin verilen mahkeme kararına istinaden tapuda yapılacak tescil işleminden ne şekilde tapu harcı aranılacağı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35730",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "1f198b3474f10d57128256aed8500151ab8ebbdbcdb151fdca085367d1fd9de6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
