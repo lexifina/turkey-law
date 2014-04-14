@@ -1,0 +1,2 @@
+Müdür
+MADDE 6 – (1) Müdür, Sinop Üniversitesinin kadrolu öğretim elemanları arasından 3 yıllığına Rektör tarafından görevlendirilir. Görev süresi dolan Müdür, yeniden görevlendirilebilir. Müdür, Merkezin faaliyetlerinden Rektöre karşı sorumludur. Müdürün önerisi ve Rektörün onayı ile Sinop Üniversitesi öğretim elemanları arasından iki Müdür Yardımcısı görevlendirilir. Gerekli durumlarda Müdür, yardımcılarından birine vekâlet verebilir. Vekâlet süresi aralıksız iki ayı aşamaz. Müdürün görevinin sona ermesiyle yardımcılarının da görevleri kendiliğinden son bulur.

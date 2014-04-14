@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-04-14",
+      "14.04.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28972",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-04-14",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Sinop Üniversitesi",
+  "issuer_slug": "sinop-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sinop-universitesi/2014/19575",
+  "published": "2014-04-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19575&MevzuatTertip=5",
+  "source_bytes": 22920,
+  "source_id": "8.5.19575",
+  "source_sha256": "8c6adc5eb7fa9c6d880befe76958bbfd28b590d6c7d4191d57f37c3503d10d9a",
+  "text_status": "as-enacted",
+  "title": "SİNOP ÜNİVERSİTESİ TÜRK DEVLETLERİ, DOST VE AKRABA TOPLULUKLARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 312,
+  "word_count": 1086
+}

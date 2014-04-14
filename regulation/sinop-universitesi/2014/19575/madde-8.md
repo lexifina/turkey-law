@@ -1,0 +1,2 @@
+Yönetim kurulu
+MADDE 8 – (1)Yönetim Kurulu idari bir organdır. Yönetim Kurulu, Müdür ile birlikte Sinop Üniversitesi kadrolu öğretim elemanları arasından Müdürün önerisi ve Rektörün onayıyla belirlenen yedi üyeden oluşur. Yönetim Kuruluna Müdür başkanlık eder. Yönetim Kurulunda toplantı nisabı, üye tam sayısının yarıdan bir fazlası olup, karar nisabı toplantıya katılanların salt çoğunluğudur. Herhangi bir sebeple boşalan Yönetim Kurulu üyeliğine kalan süre için aynı yöntemle atama yapılır. Müdür yardımcıları oy hakkı olmaksızın Yönetim Kurulu toplantısına katılabilirler.
