@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "53445970-195[1-2013/65-4]-31",
+  "source_id": 36580,
+  "date": "2014-04-14",
+  "title": "Market işletmeciliği faaliyetinde yeni nesil ödeme kaydedici cihaz kullanımı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36580",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "d4ac41d3de85a5e8f3e83999ecf46338a89a0f32822b24ef203ab5c3c8785b52",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
