@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "16700543-120-14",
+  "source_id": 24114,
+  "date": "2014-04-14",
+  "title": "Trampa usulü takas edilen arsanın satışa konu edilmesi durumunda vergilendirme hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24114",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "34e1f7d292d3b5558038077c6576ef134497cab1f3baf9c0e860299ffb6a5749",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
