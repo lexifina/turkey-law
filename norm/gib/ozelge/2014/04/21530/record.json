@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-120[25-2013/20-536]-46",
+  "source_id": 21530,
+  "date": "2014-04-14",
+  "title": "Üniversitenizde görevli akademik ve idari personele yapılan aile yardımı, çocuk yardımı, doğum yardımı ve ölüm yardımı ödemelerinin gelir vergisinden istisna olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21530",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "bfb6a144557dbf8eea79a15554256d350d895a57dabbce02fb418f8719c0f628",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
