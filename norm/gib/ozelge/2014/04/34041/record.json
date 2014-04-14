@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-ÖTV 8-916",
+  "source_id": 34041,
+  "date": "2014-04-14",
+  "title": "ÖTV'ye tabi malın serbest bölgeye ihraç kayıtlı olarak teslim edilip edilemeyeceği ve tecil terkin uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34041",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "2b6a2c16243bd18d687950694b68f540230d021f8f1f40a2a7f6bcb095f2a5a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
