@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.9-910",
+  "source_id": 30447,
+  "date": "2014-04-14",
+  "title": "Çubuk boru ve çubuk pirinçlerin çeşitli boylarda kesilerek delinmesi ve diş çekilmesi suretiyle irtibat parçası veya bakır terminal olarak teslimlerinde tevkifat uygulanıp uygulanmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30447",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "fdf436f3c1a6949130817ee0c220eaf34b4e3b89629f73908f212ca844d45092",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
