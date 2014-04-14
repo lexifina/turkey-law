@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.9-917",
+  "source_id": 21069,
+  "date": "2014-04-14",
+  "title": "Serbest meslek kazancı ile gelir vergisinden istisna edilen telif hakkı kazancının beyanı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/21069",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "2a9f7deab91d83b9367fedcfcd8ad405d85e761d3b459778f2f252c91e245520",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
