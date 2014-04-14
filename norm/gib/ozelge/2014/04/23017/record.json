@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "63611781-120[48-2014-1]-12",
+  "source_id": 23017,
+  "date": "2014-04-14",
+  "title": "Gerçek usulden Basit usule geçiş",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23017",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "400135bb0a6570809126a48eb854ae1d90b049581f4f3e6b92e25a1a1c6d0eca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
