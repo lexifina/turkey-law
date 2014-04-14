@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "95133703-105[421-2013/10]-52",
+  "source_id": 37913,
+  "date": "2014-04-14",
+  "title": "Ltd. Şti.nden A.Ş.ne dönüşen şirketin E-Faturaya geçiş tutarının hesaplanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/37913",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "288aeec10707afe338a498c7dc4d4b02f1ad55413762fc4ff0993ecca8bc5981",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
