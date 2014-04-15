@@ -1,0 +1,6 @@
+Cevaplı teftiş raporu
+MADDE 68 – (1) Cevaplı teftiş raporu; teftişlerde eksik ve kusurlu bulunan ve ilgili birimlerce düzeltilmesi gereken işlemleri belirleyen ve teftiş edilenlerin cevaplarıyla ve bu cevaplara ilişkin müfettişin son görüşü ve birimin genel durumunu içeren hususları gösteren rapordur.
+(2) Cevaplı teftiş raporlarında, birimin hangi tarihler arasındaki iş ve işlemlerinin teftiş edildiği, eksik ve kusurlu hususların kanun, tüzük, yönetmelik, tebliğ, genelge ve benzeri hukuki düzenlemelerin hangi hükümleriyle ilgili olduğu, mevzuata göre ne yapılması gerektiği belirtilir.
+(3) Teftiş sırasında belirlenen ve inceleme ya da soruşturmasına başlanan konular, cevaplı teftiş raporlarında kısaca belirtilir.
+(4) Belirtilen süreler içinde cevaplandırılmak üzere yazıyla verilen raporlar, teftiş edilen memurla birinci ve ikinci derecedeki amirleri tarafından cevaplandırıldıktan sonra yazıyla müfettişe iade edilir. Cevapları alınan raporlar müfettiş tarafından gerektiğinde son görüş eklenerek ilgili birime ve Başkanlığa sunulur.
+(5) Cevaplı teftiş raporlarını haklı nedenlere dayanmadan süresi içinde cevaplandırmayan görevliler hakkında, gereği yapılmak üzere Başkanlığa bilgi verilir.

@@ -1,0 +1,4 @@
+Teftiş defteri ve dosyası
+MADDE 28 – (1) Teftişe tabi tüm birimlerde birer teftiş defteri ve dosyası bulunur, her teftişe ait rapor ve yazılar bir dosyada saklanır. Müfettişler her sayfası birim amirince mühürlenen ve kaç sayfa olduğu belirtilen teftiş defterine, teftişe hangi tarihte başladıklarını ve bitirdiklerini, hangi tarihler arasındaki işlemleri incelediklerini yazarlar.
+(2) Teftiş defterinin ve dosyasının korunmasından birim amiri sorumludur. Birim amiri, teftiş defteriyle birlikte en az 10 yıllık teftiş raporlarını, bunlara ilişkin emirleri saklamak, yerine atanan amir de teftiş defteri ve dosyasını almak, bu gerçekleşmediği takdirde durumu Genel Müdürlüğe bildirmekle yükümlüdür.
+(3) Müfettişler, teftiş sırasında teftiş defteri ve dosyasını inceleyerek, önceden eleştirilen hususların ne dereceye kadar düzeltildiğine, verilen emirlerin yerine getirilip getirilmediğine bakarlar ve raporlarında bu hususa yer verirler.

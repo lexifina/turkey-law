@@ -1,0 +1,2 @@
+Başka kurum personelinin suçla ilişiğinin olması
+MADDE 18 – (1) Müfettişler, teftiş, inceleme ve soruşturma sırasında, diğer kamu kurum ve kuruluşlar personelinin, suçla ilgili olduğunu tespit ederlerse, 10/1/1983 tarihli ve 83/5929 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Birden Fazla Kamu Kurum ve Kuruluşlarını İlgilendiren Soruşturmalarda Görevlendirilecek Müfettişlerin Görevlendirme Biçimine İlişkin Yönetmelik hükümleri gereğince birlikte soruşturma yapılması için durumu Başkanlığa bildirirler.

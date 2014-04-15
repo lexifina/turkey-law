@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Kurulun Çalışma Usul ve Esasları
+Teftişin amacı ve müfettişlerin çalışma prensipleri
+MADDE 15 – (1) Müfettişler teftiş sırasında Genel Müdürlüğün merkez ve taşra teşkilatında yapılan çalışmalarla; mevzuat çerçevesinde amaçlara ulaşılıp ulaşılmadığını tespit etmek, amacın gerçekleşmesine yönelik ilke, politika ve yöntemler ile yapılan işlem ve eylemlerin yerindelik ve etkinliğini araştırmak, incelemek ve denetlemek, planlanan hedeflerden ve mevzuattan sapmalar tespit edilmesi halinde, nedenlerini belirleyip tahlil etmek, aksaklıkların giderilmesi ve hizmetlerin verimli ve rasyonel bir düzeye ulaşması için alınması gerekli görülen önlemleri belirlemek ve yetkili mercilere önerilerde bulunmak amaçlarını da gözönünde tutarlar. Başarılı çalışmaların diğer birimlerde de uygulanması için teklifte bulunurlar.
+(2) Müfettişler, denetim ilkeleri olarak; etkin, verimli, ekonomik, suç işlemeyi önleyen bir denetim süreci benimser, hata arayan ve sadece tenkit eden statik teftiş sistemini reddeder.

@@ -1,0 +1,3 @@
+Yeterlik yazılı sınavın değerlendirilmesi
+MADDE 57 – (1) Yazılı sınav, sınav kurulunca değerlendirilir. Her konu grubu için tam not 100'dür. Okunup değerlendirilen cevap kağıtlarının baş tarafına verilen not yazılır. Bütün kağıtlar değerlendirildikten sonra kapalı ad yerleri açılır, en yüksek nottan başlamak üzere sıraya konularak yazılı sınav sonuçları listesi düzenlenir ve sınav kurulunca imzalanır.
+(2) Yazılı sınavı başarmış sayılmak için, yabancı dil dışındaki her konu grubu için alınan notun 60'tan ve bu notlar ortalamasının (Değişik ibare:RG-15/4/2014-28973) 65'ten, yabancı dil notunun da 50'den aşağı olmaması gerekir.

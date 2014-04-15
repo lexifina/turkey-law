@@ -1,0 +1,2 @@
+Müfettiş yardımcılığına geçiş(1) (3)
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yayımı tarihinde DSİ Genel Müdürlüğünde en az 10 yıl süreyle görev yapmış ve 33 üncü maddesinin birinci fıkrasının (b) ve (c) bentlerindeki şartları haiz olmak kaydıyla, aylıktan kesme ve kademe ilerlemesinin durdurulması cezalarından birisi ile cezalandırılmamış olanlar, bu Yönetmelikteki usullere bağlı kalmaksızın, uygun kadro bulunması kaydıyla, Teftiş Kurulu Başkanlığının yazılı görüşü ve Genel Müdürün teklifi üzerine, Bakan Oluru ile Müfettiş Yardımcılığına atanabilirler.

@@ -1,0 +1,2 @@
+Teftiş kurulu başkanına vekalet
+MADDE 11 – (1) Başkan geçici sebeplerle görevden ayrıldığında, yerine 10 uncu madde hükmü gereğince görevlendirilenlerden Başkanın belirleyeceği müfettiş vekalet eder; bu müfettişin de görev başında olmaması halinde Başmüfettişlerden birine vekalet görevi Başkanca verilir. Herhangi bir sebeple Teftiş Kurulu Başkanlığının boşalması halinde vekalet görevi, atamaya yetkili Makam Onayı ile belirlenir.

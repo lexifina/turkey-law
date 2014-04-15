@@ -1,0 +1,2 @@
+İhbar ve şikayetlerin değerlendirilmesi
+MADDE 17 – (1) Doğrudan Genel Müdürlüğe veya Başkanlığa gönderilen ihbar ve şikayet dilekçelerinden mahallinde sonuçlandırılması mümkün görülenler; önce ilgili birimlerine gönderilir. Bunlar anılan merciler tarafından incelenir veya soruşturulur. Ancak Müfettişlik bilgi ve tekniğinin kullanılması gerekli görülen konular, Genel Müdür onayına sunularak Müfettiş görevlendirilir.

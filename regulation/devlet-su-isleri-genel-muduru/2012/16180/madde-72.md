@@ -1,0 +1,6 @@
+Raporlar üzerine yapılan işlemler
+MADDE 72 – (1) Başkanlığa sunulan raporlar Başkanlıkça incelendikten sonra Genel Müdürlük Makamının onayına sunulur.
+(2) Rapor incelemesi sonucunda düzeltilmesi veya tamamlattırılması gereken hususlar tespit edilirse bunların giderilmesi raporu düzenleyen müfettişten istenir. Müfettiş raporundaki yanlışlıkları düzeltmek ve eksiklikleri tamamlamakla yükümlüdür.
+(3) Başkanlıkça, raporda belirtilen görüş ve kanaate iştirak edilmemesi, sonuçta görüş birliğine varılmaması halinde müfettişin görüş ve kanaati ile Başkanlık görüşünün yer aldığı bir onay hazırlanır ve Genel Müdürlük Makamına sunularak verilen karara göre işlem yapılabileceği gibi, Genel Müdürlük Makamının emri ve onayı üzerine başka müfettişlere de konunun tekrar incelenmesi ve/veya soruşturulması görevi verilebilir.
+(4) Makam onayında yer alan ve ilgili birimlerce yapılması gereken işlemler, ilgili birimlerce ivedilikle yerine getirilir ve Başkanlıkça da takip edilir.
+(5) İlgili birimlerce, söz konusu işlemlerde maddi hata ya da mevzuata açık aykırılık gibi hususların tespit edilmesi halinde, durum gerekçesiyle birlikte Başkanlığa intikal ettirilir. Konunun incelenmesini müteakiben Başkanlık görüşü ve Genel Müdürlük Makam onayı doğrultusunda işlem yapılır.

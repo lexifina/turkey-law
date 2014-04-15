@@ -1,0 +1,3 @@
+Sözlü sınavın yapılması
+MADDE 44 – (1) (Değişik:RG-15/4/2014-28973) Giriş sınavının yazılı ve sözlü sınav şeklinde yapılması halinde adaylar yazılı sınavı kazanma sırasına göre sözlü sınava alınırlar. Giriş sınavının sadece sözlü sınav şeklinde yapılması halinde ise ilan edilen kadro sayısının on katına kadar aday Kamu Personel Seçme Sınavı (KPSS) sonucundaki başarı sıralamasına göre sınava alınır. Son sıradaki adayla eşit puana sahip adaylar da sözlü sınava çağırılır. Sözlü sınav adaylara bildirilen yer, gün ve saatte başlar.
+(2) Sözlü sınavda adaylara sınav konularında, sorular sorulur. Değerlendirmede adayın bilgisi, zekası, kavrama, ifade ve temsil yeteneği ile tutum ve davranışları gözönünde bulundurulur.
