@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/1497",
+  "list_number": "1497",
+  "decision_date": "2014-04-15",
+  "title": "Cumhurbaşkanı Seçimi yasaklarına uyulmak kaydıyla belirtilen saatler (18.00-22.00) arasında düğün yapılabileceğine ilişkin Yüksek Seçim Kurulunun 2014/1497 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2438/2014-1497.pdf",
+  "source_sha256": "5ba5252024a58379204e9142792334ae942fdc0649b1d54f041253a2e0756911",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-04-15",
+  "law_text_complete": false
+}
