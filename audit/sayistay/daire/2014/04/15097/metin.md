@@ -1,0 +1,3 @@
+“…” organizasyonundan elde edilen gelirin, Üniversite Yönetim Kurulu kararı olmaksızın ve yasal kesintiler yapılmaksızın öğretim elemanlarına ödenmesi.
+
+ “…” organizasyonundan elde edilen tüm gelirin, Üniversite Yönetim Kurulu kararı olmaksızın ve yasal kesintiler yapılmaksızın öğretim elemanlarına ödenmesi 2547 sayılı Yükseköğretim Kanunun “Döner sermaye” başlıklı 58 nci maddesi hükümlerine aykırılık teşkil etmekte ise de, …. TL kamu zararının …. TL’sinin Yrd. Doç. Dr. ..…’dan, …. TL’sinin ise Öğr. Gör. ……’den …..... ile tahsil edildiği anlaşıldığından konu hakkında ilişik kalmadığına oybirliğiyle,
