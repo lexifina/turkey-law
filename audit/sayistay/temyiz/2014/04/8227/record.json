@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38836",
+  "decision_date": "2014-04-15",
+  "source_id": 8227,
+  "chamber": "8",
+  "file_number": "36109",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8227/",
+  "source_sha256": "a25c47e325c25a44df5f144adb28a07804c126cbff82e1d8740e00d2c9ce2fbc",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
