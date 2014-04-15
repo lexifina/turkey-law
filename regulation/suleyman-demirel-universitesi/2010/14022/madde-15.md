@@ -1,0 +1,2 @@
+Öğretim elemanları ücreti
+MADDE 15 – (1) 11/10/1983 tarihli ve 2914 sayılı Yüksek Öğretim Personel Kanununun 11 inci maddesi hükmü dikkate alınarak yaz okulunda ders vermekle görevlendirilen ve bu görevi fiilen yerine getiren öğretim elemanlarına ödenecek ek ders ve sınav ücretleri, öğretim elemanlarının unvanı, verdikleri dersin kredisi, saati ve yabancı dilde eğitim yapılıp yapılmadığı ile derse kaydolan öğrenci sayısı gibi hususlar dikkate alınarak Üniversite Strateji Geliştirme Daire Başkanlığının önerisi üzerine Üniversite Yönetim Kurulu tarafından belirlenir.

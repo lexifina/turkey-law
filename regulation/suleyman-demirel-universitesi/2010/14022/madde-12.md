@@ -1,0 +1,4 @@
+Başarı değerlendirmesi
+MADDE 12 – (1) Yaz döneminde Üniversitenin bölüm/programlarından alınan derslerin değerlendirilmesi ve başarı durumunun belirlenmesi, 29/8/2004 tarihli ve 25568 sayılı Resmi Gazete’de yayımlanan Süleyman Demirel Üniversitesi Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği ile 8/1/2005 tarihli ve 25694 sayılı Resmi Gazete’de yayımlanan Süleyman Demirel Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği ve Süleyman Demirel Üniversitesi Yabancı Diller Yüksekokulu Yabancı Dil ve Hazırlık Eğitim-Öğretim ve Sınav Yönetmeliğinde belirtildiği şekilde yapılır.
+(2) Tekrarlanan derste önceki not ne olursa olsun alınan son not geçerlidir.
+(3) Yabancı dil hazırlık sınıfı hariç, diğer yükseköğretim kurumlarından yaz döneminde ders alan öğrencilerin notlarının uyarlanması, Süleyman Demirel Üniversitesi Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinin 20 nci maddesi hükümleri dikkate alınarak ilgili yönetim kurulu tarafından yapılır.

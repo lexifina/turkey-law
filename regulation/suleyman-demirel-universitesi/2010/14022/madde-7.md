@@ -1,0 +1,2 @@
+Yaz dönemi takvimi, eğitim süresi ve haftalık ders saati
+MADDE 7 – (1) (Değişik:RG-13/6/2012-28322) Yaz dönemi takvimi, Senato tarafından belirlenir. Final sınav günleri bu süreye dahil değildir. Yaz döneminde verilecek her ders için normal eğitim-öğretim dönemindeki ders saati kadar ders yapılır. Bu ders saatleri, yaz dönemi eğitim-öğretim süresindeki her haftaya eşit olarak dağıtılır. Yaz döneminde geçen süre eğitim-öğretim süresinden sayılmaz.
