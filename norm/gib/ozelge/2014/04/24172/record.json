@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120.07.01[Mük.81-2013-3]-202",
+  "source_id": 24172,
+  "date": "2014-04-15",
+  "title": "Mutfak dolabı, banyo, parke ve fayans döşeme gibi harcamalarının değer artış kazancının tespitinde gider/maliyet unsuru olarak belirlenmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24172",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "5420452fd6abaa314aef78f8a3acc0d4d36b17c681e33024702590361e86778a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
