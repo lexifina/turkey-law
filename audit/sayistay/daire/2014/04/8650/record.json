@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10329",
+  "decision_date": "2014-04-15",
+  "source_id": 8650,
+  "chamber": "1",
+  "ilam_number": "168",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8650/",
+  "source_sha256": "b3cd5d844747a578d17717a094795363e4c9d6cec6c1a32506ab409c6428d595",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
