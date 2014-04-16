@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6531",
+  "year": 2014,
+  "title": "2004 Gemi Balast Suyu ve Sedimanlarının Kontrolü ve Yönetimi Hakkında Uluslararası Sözleşmeye Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-04-16",
+  "gazette_issue": "28974",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140416-2.htm",
+  "source_sha256": "4002ce72f410aee5cf8a6583f5bcdb1adb30604b12401ad932d77b12223e4303",
+  "text_sha256": "24df59bf4a875d2cbb0ddc04cbf9f2830fc2fe506b4137f5b4aca50025bda01d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/04/16/28974-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140416-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
