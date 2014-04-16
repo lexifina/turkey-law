@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6530",
+  "year": 2014,
+  "title": "Uluslararası Deniz Trafiğinin Kolaylaştırılması Sözleşmesine Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-04-16",
+  "gazette_issue": "28974",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140416-1.htm",
+  "source_sha256": "8090316267b5e70b3d3305f1f3f1d1a9d811167072b9b757ca652573c84a537f",
+  "text_sha256": "4d2a22f700698547ce28dabc97f9d6c5566cda72afdfb38e9836bd6412af1202",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/04/16/28974-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140416-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
