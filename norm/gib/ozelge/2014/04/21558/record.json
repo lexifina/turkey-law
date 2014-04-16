@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-120[GVK.ÖZ.2013.56]-101",
+  "source_id": 21558,
+  "date": "2014-04-16",
+  "title": "Öğrencilere karşılıksız verilen bursun indirim konusu yapılıp yapılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21558",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "715963a3a47009ab1e1cf931a8a72ddcc987a5a314c8261f547964e1cd32a7bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
