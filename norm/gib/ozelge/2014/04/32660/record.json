@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.28-974",
+  "source_id": 32660,
+  "date": "2014-04-16",
+  "title": "45.04.90.80.0000 GTİP numaralı aglomere mantarının KDV oranı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32660",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "22ab72be3f71a9237af722a94b37feaaa2b5a2ee62d7bff3500cdd153df0d19d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
