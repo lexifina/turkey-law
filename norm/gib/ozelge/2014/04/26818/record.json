@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[316-2013-327]-398",
+  "source_id": 26818,
+  "date": "2014-04-17",
+  "title": "Maden arama ve işletme faaliyetlerinin rödövans sözleşmesine dayanması halinde Vergi Usul Kanununun madenlerde amortisman hükmünün uygulanmasının mümkün bulunmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26818",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "82e3c570cb7e2ce7a15c4cabd1477c1e6477ddd7abe5ff4a4313aeac6ecb5b97",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
