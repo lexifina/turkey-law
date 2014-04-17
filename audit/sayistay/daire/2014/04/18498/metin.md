@@ -1,0 +1,19 @@
+Belediye ile yüklenici arasında imzalanan sözleşme karşılıklı feshedilmiş olmasına karşın yükleniciye, 4735 sayılı Kamu İhaleleri Sözleşme Kanunu’nun 24’üncü maddesine aykırı şekilde, yapmış olduğu gerçek giderler ve yüklenici kârına karşılık olarak sözleşme bedelinin % 80’i ile sözleşme fiyatlarıyla yaptığı işin tutarı arasındaki bedel farkının % 5’inin ödenmesi
+
+Denetçi sorgusunda yer alan; … Belediyesi ile … Ltd. Şirketi arasında imzalanan “… Temizlik Hizmet Alımı” işine ait sözleşme karşılıklı feshedilmiş olmasına karşın yükleniciye, 4735 sayılı Kamu İhaleleri Sözleşme Kanunu’nun 24’üncü maddesine aykırı şekilde, yüklenici kârına karşılık olarak sözleşme bedelinin % 80’i ile sözleşme fiyatlarıyla yaptığı işin tutarı arasındaki bedel farkının % 5’inin ödenmesi suretiyle toplam … TL kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+4735 sayılı Kamu İhaleleri Sözleşme Kanunu’nun “Sözleşme kapsamında yaptırılabilecek ilave işler, iş eksilişi ve işin tasfiyesi” başlıklı 24’üncü maddesinde;
+
+“(Değişik: 30/7/2003-4964/46 md.)
+
+…
+
+Sözleşme bedelinin % 80’inden daha düşük bedelle tamamlanacağı anlaşılan işlerde, yüklenici işi bitirmek zorundadır. Bu durumda yükleniciye, yapmış olduğu gerçek giderleri ve yüklenici kârına karşılık olarak, sözleşme bedelinin % 80’i ile sözleşme fiyatlarıyla yaptığı işin tutarı arasındaki bedel farkının % 5'i geçici kabul tarihindeki fiyatlar üzerinden ödenir.”
+
+denilmektedir.
+
+Anılan hüküm uyarınca, sözleşme bedelinden daha düşük bedelle tamamlanacağı anlaşılan işlerde yüklenici işi bitirmek zorunda olup bu durumda yükleniciye yapmış olduğu gerçek giderler ödenecek, bunun yanında, yüklenici kârına karşılık olmak üzere de sözleşme bedelinin % 80’i ile sözleşme fiyatlarıyla yaptığı işin tutarı arasındaki bedel farkının % 5’i geçici kabul tarihindeki fiyatlar üzerinden ödenecektir.
+
+Bahse konu durumda ise, “… Temizlik Hizmeti Alımı İşi” ihalesi 14.11.2011 tarihinde yapılmış, ancak, ihaleye katılan bir firmanın itirazı üzerine ihale sürecinin uzamasıyla hizmetin aksamaması için 21.12.2011 tarihinde 2012 yılı Ocak-Şubat-Mart ayları için 4734 sayılı Kamu İhale Kanununun 21/b maddesine göre pazarlık usulüyle temizlik personeli ihalesi yapılmış ve bu ihaleyi kazanan … Ltd. Şirketiyle 29.12.2011 tarihinde sözleşme yapılarak 01.01.2012 tarihinde iş başlatılmıştır. Bilahare, devam etmekte olan “… Temizlik Hizmeti Alımı İşi” ihalesi süreci ilgili firmalar Kamu İhale Kurumuna itiraz etmediğinden tamamlanmış ve bu ihaleyi de … Ltd. Şirketi kazandığından, bu firmayla yürütülmekte olan 3 aylık temizlik ihalesi sözleşmesi 31.01.2012 tarihinde karşılıklı feshedilerek “12 aylık … Temizlik Hizmeti Alımı İşi” ihalesine devam edilmesine karar verilmiş ve 19.01.2012 tarihinde yeni bir sözleşme yapılarak 01.02.2012 tarihinden itibaren temizlik hizmeti alımına devam edilmiştir. Dolayısıyla, bahse konu durumda işin sözleşme bedelinden daha düşük bir bedelle tamamlanması gibi bir durum söz konusu olmayıp iş devam etmekte iken yürürlükteki sözleşme … Belediyesi ile … Ltd. Şirketi arasında karşılıklı olarak feshedilmiştir. Bu itibarla, yükleniciye 4735 sayılı Kamu İhaleleri Sözleşme Kanunu’nun 24’üncü maddesine istinaden yüklenici kârına karşılık olmak üzere sözleşme bedelinin % 80’i ile sözleşme fiyatlarıyla yapılan işin tutarı arasındaki bedel farkının % 5’i tutarında bir ödeme yapılması mümkün bulunmamaktadır.
+
+Belirtilen gerekçelerle, bahse konu hizmet alım işi kapsamında yüklenici … Ltd. Şirketine, 4735 sayılı Kamu İhaleleri Sözleşme Kanunu’nun 24’üncü maddesine aykırı şekilde ödeme yapılması suretiyle neden olunan kamu zararı toplamı … TL’nin; Harcama Yetkilisi (İnsan Kaynakları  ve Eğitim Müdür V.) … ile Gerçekleştirme görevlisi (Memur) …’a, müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanununun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faizleri ile ödettirilmesine, oy birliği ile;
