@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70280967-195[69 GT-2013/1]-53",
+  "source_id": 26650,
+  "date": "2014-04-17",
+  "title": "İkinci el taşıt alım satım ve yol kenarı otopark hizmetlerinde yeni nesil ödeme kaydedici cihaz kullanımı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26650",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "3db2b1cb4c9f502a248efffc1a5f427a7006610c98bdfedb5337665d00672768",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
