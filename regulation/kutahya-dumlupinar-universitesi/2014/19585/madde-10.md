@@ -1,0 +1,2 @@
+Müdür yardımcıları
+MADDE 10 – (1) Müdür; ilgili anabilim dalı öğretim üyeleri arasından birisi araştırma ve eğitim, diğeri de proje ve uygulama konularında yetkili olmak üzere iki müdür yardımcısı belirleyerek Rektörün onayına sunar. Müdür yardımcıları, 3 yıllık süre için Rektör tarafından görevlendirilir. Merkez Müdürünün görevi bittiğinde müdür yardımcılarının da görevleri sona erer. Müdür yardımcıları Müdürün vereceği görevleri yapar.
