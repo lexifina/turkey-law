@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.19583",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ (SERİ NO: 44)",
+  "number": "19583",
+  "path": "teblig/2014/19583",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19583&MevzuatTertip=5",
+  "source_sha256": "982c410fa6028f60e4c45c35ab03a3f0ae9b516a96502a33b657856b581ed0c1",
+  "source_bytes": 7403,
+  "published": "2014-04-17",
+  "gazette": "28975",
+  "in_force": "2014-04-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.04.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 140,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
