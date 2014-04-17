@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[234-2012/VUK-1- . . .]--1006",
+  "source_id": 25761,
+  "date": "2014-04-17",
+  "title": "Basit usuldeki mükellefin ticari aracını kiraya vermesi durumunda elde ettiği kazanç dolayısıyla basit usulden yararlanmaya devam edip etmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/25761",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "4d24187a0ee8a66ca6661ae5dd6b08bcad0f6b414d91891f208ebce788053a61",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
