@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.19584",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 63)",
+  "number": "19584",
+  "path": "teblig/2014/19584",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19584&MevzuatTertip=5",
+  "source_sha256": "7d35f34e77c02e937516699905f1e6f5d64fa4a9a92b735d1b143b1172a00c1c",
+  "source_bytes": 9281,
+  "published": "2014-04-17",
+  "gazette": "28975",
+  "in_force": "2014-04-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.04.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 225,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
