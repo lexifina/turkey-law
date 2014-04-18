@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[003-2013-164]-427",
+  "source_id": 20752,
+  "date": "2014-04-18",
+  "title": "Abonelikleri kendi adına kayıtlı olan ancak ortak bir şekilde kullanılan doğalgaz,elektrik,su,telefon,internet v.b. harcamaların ne şekilde gider yazılacağı ve indirim konusu yapılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20752",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "2637dc2ba03cf3a8fb042920fffb979b2e1b41848369f897050796412ffc0a9b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
