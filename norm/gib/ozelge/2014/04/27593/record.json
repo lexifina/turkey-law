@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[5-2012/245]-1041",
+  "source_id": 27593,
+  "date": "2014-04-18",
+  "title": "BTC Boru Hattı Projesi kapsamında verilen toprak analizi ve danışmanlığı hizmetinin vergi mevzuatı karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27593",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "17e722f884e79c83c92b18192d3e4909ace6ba20f19443b81179d70681eb4ec2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
