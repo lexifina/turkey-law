@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-130[17-2013/145]-56",
+  "source_id": 29309,
+  "date": "2014-04-18",
+  "title": "Belediyeye ait otopark alanının kiraya verilmesi işleminde KDV hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29309",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "60cf32449d686ec4d2187edb48119912ba5ac584c755aae455d1f6a12496f459",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
