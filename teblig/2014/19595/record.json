@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19595",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2014/2)",
+  "number": "19595",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2014/19595",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19595&MevzuatTertip=5",
+  "source_sha256": "2fa295704c347fdf23fc3752aeb15a6e2453ce98afc6ac5fc8e39690cf6f3159",
+  "source_bytes": 11893,
+  "published": "2014-04-18",
+  "gazette": "28976 (Mükerrer)",
+  "in_force": "2014-04-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.04.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 186,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19595-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
