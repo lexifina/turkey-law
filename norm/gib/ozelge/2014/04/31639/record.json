@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[17-2014/02]-423",
+  "source_id": 31639,
+  "date": "2014-04-18",
+  "title": "İndirim hakkı tanınan ve tanınmayan işlemleri birlikte yapan mükelleflerin yatırım harcamaları nedeniyle yüklendikleri KDV'yi ne şekilde indirim konusu yapabilecekleri hk..",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31639",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "b5cda17fede66d1776d5ec0631a120aec971f2d8d80f3def293d67855d184bd2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
