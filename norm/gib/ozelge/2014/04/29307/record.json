@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130-1025",
+  "source_id": 29307,
+  "date": "2014-04-18",
+  "title": "Sigorta işlemlerine ilişkin yurt dışından hizmet ithali",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29307",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "b7ef14931c16d93c39d4fa4e428a071f40a2d3dd436467e80af69132ae1ac526",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
