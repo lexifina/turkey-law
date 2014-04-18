@@ -1,0 +1,22 @@
+Hava Sahası Yürütme Kurulu görev ve sorumlulukları
+MADDE 20 ‒ (1) Hava Sahası Yürütme Kurulunun görevleri;
+a) Hava sahasının ulusal güvenlik ve askeri eğitim faaliyetlerini ve sivil havacılık ihtiyaçlarını dikkate alarak etkin, emniyetli ve esnek kullanımını sağlamak,
+b) Hava sahası düzenleyicileri ile hava sahası kullanıcıları arasında işbirliği ve dayanışmayı kuvvetlendirici stratejileri belirlemek,
+c) Türk Hava Sahasının Esnek kullanımı kapsamında yürütülen faaliyetlere ilişkin gerekli stratejik planlamaları uluslararası havacılıktaki gelişmeler çerçevesinde yapmak,
+ç) Hava Sahası Yönetim organlarının uyum içerisinde ve etkin çalışmalarına yönelik usul ve esasları belirlemek,
+d) Havacılık Üst Kurulu tarafından belirlenen politikalar çerçevesinde hava sahası yönetimine ilişkin direktifler vermek,
+e) Ulusal güvenlik ve savunma ihtiyaçlarına yönelik gerçekleştirilen askeri faaliyet ve eğitimleri ile sivil havacılık ihtiyaçlarını dikkate alarak genel hava trafiği kapsamındaki diğer hava sahası kullanım önceliklerini belirlemek,
+f) Hava sahası kullanımına ilişkin sivil-asker koordinasyon usullerini geliştirmek,
+g) Hava sahasının etkin, emniyetli ve esnek kullanımına dair uluslararası gelişmeleri dikkate alarak politikaya yönelik görüşler oluşturmak ve Havacılık Üst Kuruluna tavsiyelerde bulunmak,
+ğ) Hava Sahası düzenlemelerine ilişkin çalışmaları yürütmek, hava sahası düzenlemelerinde kullanılacak hava sahası yapılarını belirlemek,
+h) Planlama Düzeyi Hava Sahası Yönetimi çalışmalarını düzenli olarak kontrol etmek, direktif ve hedefleri belirlemek, performans ölçütlerini tespit etmek ve sonuçlarını değerlendirmek, gerekli görülen durumlarda Hava Sahası Yürütme Kuruluna bağlı alt çalışma grupları teşkil etmek,
+ı) Planlama Düzeyi Hava Sahası Yönetimi ve Taktik Hava Sahası Yönetimi arasında koordinasyon usullerini oluşturmak ve uygulamalara ilişkin yöntem ve esasları belirlemek,
+i) Hava Sahasının Esnek Kullanımı çerçevesinde yürütülen uygulamaları gözden geçirmek ve değerlendirmek,
+j) İhtiyaç duyulması halinde mevcut TSA, TRA, CDR düzenlemelerine ilişkin gözden geçirmeleri yapmak,
+k) Hava Sahasının Esnek kullanımına ilişkin olarak, sivil-asker üniteleri arasında anlık bilgi paylaşımına dair usul, esas ve altyapıyı oluşturmak,
+l) Hava Sahasının Esnek kullanımı kapsamında hava sahasının etkinlikle kontrolü ve hava trafik yönetiminin emniyetli bir şekilde sağlanmasına ilişkin olarak, ihtiyaç duyulan anlık bilgi paylaşımı, koordinasyon ve ortak çalışabilirlik konularına dair uygulama, usul, esas ve altyapı ihtiyaçlarını belirlemek, sağlamak ve geliştirmek,
+m) Hava Sahasının Esnek Kullanımına dair sivil-asker ortak terminolojiyi oluşturmak,
+n) Ulusal güvenliği ve uçuş emniyetini etkilemeyecek ve sivil hava trafiğinin etkinliğini ve ekonomikliğini dikkate alacak şekilde, hava sahasında uygulanacak kısıtlamaların mümkün olan en az seviyede tutulmasını sağlamak,
+o) Hava Sahasının Esnek Kullanımına dair uygulamaların oluşturulması amacıyla, Ulusal Hava Sahası Yönetim Ünitesini ihdas etmek,
+ö) Hava Sahasının Esnek Kullanımına ilişkin olarak ilgili uygulayıcılar arasında gerekli anlaşma mektuplarının yapılmasını sağlamak,
+p) Hava Sahası Esnek Kullanımı uygulamalarına ilişkin gerekli denetim mekanizmalarını oluşturmaktır.

@@ -1,0 +1,9 @@
+Geçici hava sahası kısıtlamaları ve tahsisi
+MADDE 13 ‒ (1) Geçici Hava Sahası Tahsisi; Hava Sahası Yönetim Kurulu tarafından boyutları önceden tanımlanmış ve tahsis edilmesi için Hava Sahası Yönetim Ünitesine yetki verilmiş hava sahalarının geçici olarak tahsis edilmesi işlemidir.
+(2) Tehlikeli hava sahaları (LTD) ve geçici tahsisli/ayrılmış hava sahaları (TRA/TSA) aktif olmadıkları zamanlarda kullanıcıların talepleri doğrultusunda tahsis edilebilir.
+(3) Faaliyetin türüne bağlı olarak iki farklı tipte geçici hava sahası teşkil edilebilir. Bunlar;
+a) İlgili sahada icra edilecek faaliyetin diğer uçuşlara tehlike oluşturabileceği durumlarda oluşturulan Geçici Ayrılmış Saha (TSA),
+b) İlgili sahada icra edilecek faaliyetin diğer uçuşlara tehlike oluşturmayacağı durumlarda oluşturulan Geçici Tahsisli Saha (TRA)’dır.
+(4) Hava Sahasının Esnek Kullanımı kapsamında, TSA ve TRA’lar Hava Sahası Yürütme Kurulu tarafından oluşturulur. Hava Sahası Yönetim Ünitesi tarafından, hava sahası kullanım talepleri dikkate alınarak, günlük olarak tahsis edilir. Sivil hava trafik üniteleri ve askerî kontrol üniteleri tarafından ilgili hava sahaları gerçek zamanlı olarak kullanıma açılır ve faaliyet sonunda kapatılır.
+(5) Geçici Ayrılmış Saha (TSA), Geçici Tahsisli Saha (TRA)’lar; sivil-asker araştırma geliştirme, tatbikat, atış, eğitim ve test uçuşlarının icra edilmesi maksadıyla geçici yapıda teşkil edilir. Hava sahası yönetimine ilişkin belirlenmiş politikalar çerçevesinde oluşturulan bu sahalara ilişkin kullanım talepleri doğrudan HSYÜ’ne yapılır. HSYÜ tarafından yapılacak değerlendirme sonucunda kullanıcılara tahsisi gerçekleştirilir.
+(6) İcra edilen görevler göz önüne alınarak, askeri uçuş eğitim sahaları TSA olarak oluşturulur. TSA’ların kullanımında, tahsisler fiili uçuş (gerçek zamanlı/uçuş süresi ile kısıtlı olmak kaydı ile) sürelerine uygun olarak yapılır. Bu sahalar AIP’de yayınlanır.

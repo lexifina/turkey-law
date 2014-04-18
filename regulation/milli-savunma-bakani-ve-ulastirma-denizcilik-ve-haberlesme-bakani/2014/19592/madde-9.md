@@ -1,0 +1,4 @@
+Taktik düzey hava sahası yönetimi (HSY 3)
+MADDE 9 ‒ (1) Taktik Hava Sahası Yönetimi, yayımlanan hava sahası kullanım planı çerçevesinde yapılan hava sahası tahsislerinin gerçek zamanlı olarak takip ve koordine edildiği seviye olup takip ve koordinasyon Hava Sahası Yönetim Ünitesi marifetiyle yürütülür.
+(2) Yayımlanan Hava Sahası Kullanım Planı ile tahsis edilen hava sahaları, yayımlanmış plan doğrultusunda, ilgili üniteler tarafından gerçek zamanlı olarak kullanıma açılır ve kapatılır. Hava Sahası Kullanım Planı ile tahsis edilerek askeri kullanıma verilen sahalar dışındaki Türk Hava Sahası herhangi bir koordinasyona gerek olmadan sivil hava trafik kontrol üniteleri tarafından kullandırılır.
+(3) Hava trafik kontrol üniteleri ile temas kurmayan veya tanımlanmamış trafiklere ilişkin bilgiler ilgili sivil/asker ünitelere bildirilir.

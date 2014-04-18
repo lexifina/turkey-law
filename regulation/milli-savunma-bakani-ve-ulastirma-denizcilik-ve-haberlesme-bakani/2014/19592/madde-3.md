@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 ‒ (1) Bu Yönetmelik, 14/10/1983 tarihli ve 2920 sayılı Türk Sivil Havacılık Kanununun 7 nci, 8 inci ve 46 ncı maddeleri, 18/11/2005 tarihli ve 5431 sayılı Sivil Havacılık Genel Müdürlüğü Teşkilat ve Görevleri Hakkındaki Kanunun 4 üncü ve 10 uncu maddeleri ile 8/11/1984 tarihli ve 18569 sayılı Resmî Gazete’de yayımlanan Devlet Hava Meydanları İşletmesi Genel Müdürlüğü Ana Statüsüne dayanılarak hazırlanmıştır.

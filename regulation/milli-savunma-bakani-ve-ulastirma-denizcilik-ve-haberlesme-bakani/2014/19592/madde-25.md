@@ -1,0 +1,9 @@
+BEŞİNCİ BÖLÜM
+Taktik Düzey Hava Sahası Yönetimi
+Taktik Düzey Hava Sahası Yönetimi
+MADDE 25 ‒ (1) Taktik Düzey Hava Sahası Yönetimi, hava trafik hizmeti sağlayan sivil hava trafik kontrol üniteleri ile askeri kontrol ünitelerinden oluşur.
+(2) İlgili üniteler sorumlu oldukları hava sahasına ilişkin olarak Hava Sahası Yönetim Ünitesi tarafından yayınlanmış hava sahası kullanım planı çerçevesinde hava trafiğine hizmet verir. Askeri kontrol unsurları tarafından plana uygun hava sahası yönetimi sağlanır.
+(3) Sivil ve askeri hava seyrüsefer hizmet sağlayıcı kuruluşlar arasında yürütmeye ilişkin usul ve esasların, görev ve sorumlulukların belirlendiği bir protokol yapılır. Bilahare, ilgili sivil ve askeri üniteler arasında, yürütmeye ilişkin uygulama usul ve esaslarını içeren anlaşma mektupları yapılır ve ihtiyaç duyulduğunda mevcut anlaşma mektupları güncellenir.
+(4) Ankara Saha Kontrol Merkezinde, sivil-askeri trafikler arasında yaşanılabilecek hava trafik olayları ve uçuş emniyetsizliklerinin önlenmesi, hava sahası yönetim ve hava trafik hizmetlerine yönelik ihtiyaç duyulacak ani koordinasyon isteklerinin gecikmeksizin ilk elden sağlanması, Türk hava sahasına müsaadesiz giren ve teşhis edilemeyen trafikler, kaçırılmış uçak ve RENEGADE gibi müdahale gerektiren durumlarda gecikmeksizin reaksiyon gösterilebilmesi maksadıyla alınması gereken önlemler HSYÜ tarafından ilgili ünitelere gerçekleştirilmesi için gerekli bildirim sağlanır.
+(5) Ankara Saha Kontrol Merkezi içinde planlama ve koordinasyon çalışmalarını izlemek, gerekli bildirimleri sağlamak üzere gündüz ve gece vardiyalarında azami 5 kişi olarak görev yapacak askeri personele, sivil ve askeri trafiklerinin müşterek olarak izlenebileceği azami 4 scope ve bu merkezde mevcut muhabere kanalları tahsis edilir.
+(6) Hava Sahası Yürütme Kurulu, ihtiyaç duyulması halinde sivil ve askeri saha kontrol merkezlerinde koordinasyon üniteleri/ofisleri veya ilgili üniteleri oluşturulabilir.
