@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-125[13-13/1]-434",
+  "source_id": 28366,
+  "date": "2014-04-18",
+  "title": "Yurtdışı iştirake sermaye ilave edilmek üzere gönderilen tutarlar üzerinden faiz hesaplanıp hesaplanmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28366",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "1fb73cba60a4547a32c552acb9dab06f76e12ef8efbc71747b1530d287c9b41a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
