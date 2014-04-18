@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-175.01[30-2013/17]-213",
+  "source_id": 37120,
+  "date": "2014-04-18",
+  "title": "Kısıtlı Taşınmazın, 5216 sayılı Kanun Gereği, Bedelsiz Olarak Büyükşehir Belediyesine Devri Nedeniyle Taşınmaz Üzerinde Bulunan İntifa Hakkının Terkininde Tecil Edilen Emlak Vergisinin Muaccel Hale Gelmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37120",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "166402ee10b98c53bc493827d9d95ca1a306425878130cad0affc1be59791c95",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
