@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.13-1027",
+  "source_id": 31274,
+  "date": "2014-04-18",
+  "title": "Ulusal güvenlik kuruluşlarına yapılan teslim ve hizmetlerde kurumların yüklenici firmalara evrakları verme süreleri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31274",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "f012a8303c5061477829845b8bf157a1f060a1473cd4c8a27d0d10c7b74c6cdd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
