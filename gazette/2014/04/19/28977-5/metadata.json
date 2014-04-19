@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-04-19",
+  "issue": "28977",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2014/6002 1111 Sayılı Askerlik Kanununun Geçici 46 ncı Maddesi Uyarınca Bedelli Askerlik Hizmetinden Yararlanma, Bedelin Ödenmesi ve Uygulamaya İlişkin Usul ve Esaslarda Değişiklik Yapılmasına Dair Esaslar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140419-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140419.htm",
+  "index_sha256": "ba326f9bbd1048bec7aa1fb9771cb93b4371c903f9c7f0d8513726d649cdd81e",
+  "index_header": "19 Nisan 2014 ... 28977 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140419.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
