@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19608",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YEMLERDE İSTENMEYEN MADDELER HAKKINDA TEBLİĞ (TEBLİĞ NO: 2014/11)",
+  "number": "19608",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2014/19608",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19608&MevzuatTertip=5",
+  "source_sha256": "c0fe6956ef945d70e05f97152fecf9503214e6db9be2cf6c3e6d6b224fd98845",
+  "source_bytes": 16273,
+  "published": "2014-04-19",
+  "gazette": "28977",
+  "in_force": "2014-04-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.04.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 790,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19608-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
