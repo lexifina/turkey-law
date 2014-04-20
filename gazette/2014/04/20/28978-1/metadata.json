@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-04-20",
+  "issue": "28978",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2014/5874 “380 kV İspir-Bağıştaş Enerji İletim Hattı Projesi” Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140420-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140420.htm",
+  "index_sha256": "b0f5d76ba421b2fbe390d4d3abea61ac714b65793991e068432a4fdd03f7b26d",
+  "index_header": "20 Nisan 2014 ... 28978 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140420.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
