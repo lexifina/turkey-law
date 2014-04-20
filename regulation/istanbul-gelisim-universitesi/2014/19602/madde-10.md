@@ -1,0 +1,4 @@
+Yönetim kurulu
+MADDE 10 – (1) Yönetim Kurulu, Merkezin çalışma alanlarından ve ilgili disiplinlerden olan mimarlık, şehircilik, çevre mühendisliği, kimya ve kimya mühendisliği, jeofizik mühendisliği, maden mühendisliği, makine mühendisliği, jeoloji mühendisliği bölümleri ve deniz bilimleri ve işletmeciliği enstitüsü öğretim üyeleri arasından Rektör tarafından görevlendirilen dört üye ve Müdürden oluşur.
+(2) Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyeler aynı usulle yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan Yönetim Kurulu üyesinin yerine, kalan süreyi tamamlamak üzere yeni bir üye görevlendirilir.
+(3) Yönetim Kurulu, Müdürün daveti üzerine ayda en az bir kez üyelerin salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır. Yönetim Kurulu gerekli hallerde geçici çalışma grupları kurabilir ve bunların çalışma esaslarını belirler.
