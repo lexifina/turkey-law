@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "51421814-155[1-2013/91]-58",
+  "source_id": 35294,
+  "date": "2014-04-21",
+  "title": "Kredi veren bankalara karşı doğmuş ve doğacak tüm borçların teminatını oluşturmak üzere, ana sözleşmenin teminatı nedeniyle düzenlenecek olan 'Riskten korunma sözleşmelerinden doğan alacaklar ve sigorta alacakları alacak devri sözleşmesi', 'Alacak temliki",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35294",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "4c48b9b64482a57fd9bfc52cced6b1456a9c402fd8f15ca3604b7349f8478f69",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
