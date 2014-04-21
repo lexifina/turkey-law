@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-120[70-2013/20-544]-59",
+  "source_id": 23803,
+  "date": "2014-04-21",
+  "title": "Bayilik protokolüne istinaden ödenen akaryakıt ve türevleri satış taahhüt bedelinin intifa bedeli olarak değerlendirilip değerlendirilemeyeceği ve konunun Gelir Vergisi Kanunu yönünden değerlendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23803",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "cacf0bae28463b34922dd5e4bd108e04733bbe07f4f7a21126540f967c49f18f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
