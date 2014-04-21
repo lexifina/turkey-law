@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-195[1-2014]-58",
+  "source_id": 36571,
+  "date": "2014-04-21",
+  "title": "GSM hattı üzerinden hizmet veren EFT-POS cihazı kullananların yeni nesil ödeme kaydedici cihaz kullanma mecburiyetleri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36571",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "2b45bd9527b0fed38c425721974d30e42012d89ce733841b63609dcd8c265787",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
