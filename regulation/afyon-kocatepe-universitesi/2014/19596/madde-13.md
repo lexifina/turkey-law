@@ -1,0 +1,2 @@
+Çalışma grupları
+MADDE 13 – (1) Merkez bünyesinde; verimlilik ve etkinliğin arttırılması, hizmet kontrolünün sağlanması ve değerlendirilmesi amacıyla çalışma grupları kurulabilir. Çalışma grupları ve alt disiplinler; ilgili grup sorumlusu ve o grubun faaliyet alanıyla ilgili olarak ihtiyaç duyulan sayıda uzmandan oluşur. Grup sorumluları, ilgili alanda çalışmalarıyla tanınan Merkezde görevli Üniversite öğretim üyeleri arasından Müdür tarafından görevlendirilir.
