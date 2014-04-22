@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[28-2013/50]-442",
+  "source_id": 32656,
+  "date": "2014-04-22",
+  "title": "Sürücü kurslarına yapılacak yazılım teslimlerinde uygulanacak KDV oranı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32656",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "41a7e05953c9d77507e02499e1f9a15e282e62aa17df16feee2bd7101122a82d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
