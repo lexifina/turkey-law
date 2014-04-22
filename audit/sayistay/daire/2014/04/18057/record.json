@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "25",
+  "decision_date": "2014-04-22",
+  "source_id": 18057,
+  "chamber": "6",
+  "ilam_number": "290",
+  "item_number": 15,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18057/",
+  "source_sha256": "1c92cce79ac4fa47a85ca3db9bb2d744bf0a97ee11a384b7b58df1baaa92b6b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
