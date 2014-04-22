@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35201",
+  "decision_date": "2014-04-22",
+  "source_id": 14627,
+  "chamber": "2",
+  "ilam_number": "205",
+  "item_number": 19,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14627/",
+  "source_sha256": "92afb08a2abb6f34306694f24a04a9f56b88017c76498af2b9225afadd76fd49",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
