@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[61-2014/113]-1123",
+  "source_id": 37460,
+  "date": "2014-04-22",
+  "title": "Serbest Bölgede yapılan yazılım programı hazırlama faaliyetinin CD olarak ihraç edilmesi durumunda ücret istisnasından faydanılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37460",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "eba0343021c7f3135c153e96d3822d72721c9ddb6cdf817cb91147179864e4f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
