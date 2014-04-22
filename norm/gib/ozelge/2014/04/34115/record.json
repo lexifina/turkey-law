@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "88409335-135[15-2014-ÖZELGE-1]-10",
+  "source_id": 34115,
+  "date": "2014-04-22",
+  "title": "Koltuk sayısı 17+1 olan aracın, koltuk sayısı 17(16+1) olacak şekilde tadil edilmesi sonucunda ek ÖTV tarhiyatı yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34115",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "57510dc5fe4d491209054d6e15408bfb204325e5d0c52369aac33cf4fa04986f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
