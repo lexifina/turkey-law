@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "201",
+  "decision_date": "2014-04-24",
+  "source_id": 13123,
+  "chamber": "3",
+  "ilam_number": "221",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13123/",
+  "source_sha256": "1c9e0b1758b2aff8a2d45398449e34608afc94431667b042bfce5259816e7c4f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
