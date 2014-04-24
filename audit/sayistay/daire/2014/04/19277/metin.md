@@ -1,0 +1,3 @@
+)- Başka kurumda çalıştırılan kişi için ücret ödenmesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; “...Hizmet Alımı” işi kapsamında mühendis ücret grubunda çalıştırılan ... ile ..için hakediş ödemesinde bulunulmasına karşın, bu kişilerin ilgili ihale kapsamında ... bünyesinde çalıştırılmadıkları, ... Belediyesi bünyesinde çalıştıklarının tespiti sonucu ..TL tutarında kamu zararına neden olunduğu görülmüş ise de, söz konusu kamu zararının .. .tarih ve ...  şlem kayıt nolu banka dekontu ile tahsil edildiği anlaşıldığından, konu hakkında ilişilecek husus kalmadığına oy birliğiyle,
