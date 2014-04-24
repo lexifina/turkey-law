@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-Özel İletişim-1178",
+  "source_id": 33496,
+  "date": "2014-04-24",
+  "title": "BTK tarafından yetkilendirilen ÖİV mükellefleri düzenleyeceği faturalarda ÖİV hesaplayıp hesaplamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/33496",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "79ba9d1324a2bb19b787d0adea3cbfd3c9224a2a6494539fdab4d56bfacce502",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
