@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[30-2012/360]-1181",
+  "source_id": 28631,
+  "date": "2014-04-24",
+  "title": "İrlanda mukimi Şirketten alınarak herhangi bir değişiklik yapılmaksızın satılan ve ihraç edilen bilgisayar programları için yapılan ödemeler ile imzalanan destek sözleşmeleri kapsamında sağlanan bakım ve güncelleme hizmetlerine ilişkin bedeller üzerinden",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28631",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e575f33dc8e5beb01c82292674c4be320d65de43c56accdd7894757007399d43",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
