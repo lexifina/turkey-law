@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "77058783-105[2013/34]-108",
+  "source_id": 27674,
+  "date": "2014-04-24",
+  "title": "Tarım Kooperatiflerinin vergi mükellefiyetinin olup olmadığı ile Ba-Bs bildirimlerini verme zorunluluklarının bulunup bulunmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27674",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "ac6d2916278dac03305464dad8023f7f79f7bbe4fccb402ed22087364487b999",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
