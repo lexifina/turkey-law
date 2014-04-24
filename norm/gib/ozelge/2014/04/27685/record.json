@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-125[4-2013/20-226]-62",
+  "source_id": 27685,
+  "date": "2014-04-24",
+  "title": "Ayrılan üyelere ait olan ve yeni üyelere devredilmek üzere geçici olarak koop. tarafından devralınan üyelik haklarının satışının ortak dışı işlem sayılıp sayılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27685",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "c1c1297f93a6a93158eff70933d4ab2ea9df5df919f59498f9fb3d21b6003097",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
