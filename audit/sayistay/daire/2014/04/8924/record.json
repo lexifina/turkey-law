@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "102",
+  "decision_date": "2014-04-24",
+  "source_id": 8924,
+  "chamber": "6",
+  "ilam_number": "299",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8924/",
+  "source_sha256": "b570c9279a53f129b28a79cd6aac3e95d23068f93f20f869aa3d175601465331",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
