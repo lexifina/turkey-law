@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.1-1176",
+  "source_id": 29299,
+  "date": "2014-04-24",
+  "title": "...........'a ait gösterilerin haklarını satın alan firmanın Almanya mukimi firma ile yaptığı anlaşmaya istinaden gösterilerin ....... sitesinde yayınlanmasının vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29299",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "78018048edca08ed0396b2f6ee0a3363d09c622b1b13bcdd17826897041dc39f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
