@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-32/2014-2",
+  "source_id": 879,
+  "date": "2014-04-24",
+  "title": "Kurumlar Vergisi Beyannamesinin Verilme Süresinin Uzatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/879",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "a214012b70c23f8b30766e6a7d8132b6cda311c8fe854c28e867c04ba868da34",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
