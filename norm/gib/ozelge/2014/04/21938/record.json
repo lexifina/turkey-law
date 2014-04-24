@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "46480499-120.01.01[2014/1460]-41",
+  "source_id": 21938,
+  "date": "2014-04-24",
+  "title": "Gerçek usulde ortaklığı terk ettikten sonra şahsi olarak devam etmesi durumunda basit usulde mükellefiyet kaydının yapılıp yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21938",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "039e4a0598cb1ab1e75177ddb1ef8fd48c20b5563b4ad7d8e8176c337047d9eb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
