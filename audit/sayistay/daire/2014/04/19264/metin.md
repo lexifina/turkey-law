@@ -1,0 +1,5 @@
+Aşırı Düşük Teklif Sorgulaması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+İhalesi ...üzerinde kalan; “...Personel Temini” işine ilişkin ihalede, ihaleyi alan ...A.Ş.’nin teklifinin aşırı düşük olduğu ve aşırı düşük teklifi sorgulaması yapılmadan ihalenin ...A.Ş.’ne verildiği iddia edildiği görülmüş ise de; ihale konusu işte, ihale üzerinde kalan isteklinin teklifinin, yaklaşık maliyetin altında olduğu görülmekle beraber, 4734 sayılı Kanunun 38’inci maddesi ile herhangi bir isteklinin teklifinin aşırı düşük olarak tespit edilip edilmemesi konusundaki takdir yetkisinin, kamu hizmetinin idari ve mali gereklerine uygun kullanılmak koşuluyla idareye verilmesinden dolayı ve savunmalarda da belirtildiği üzere, aşırı düşük teklif sorgulamasına tabi tutulmadan, ihale üzerinde kalan firmanın teklifinin kabul edildiği ve ayrıca bu konuda herhangi bir şikayetin olmadığı anlaşıldığından idarenin takdirinde olan bu işlemde mevzuata aykırılık görülmediğinden ilişilecek husus bulunmadığına ve Bakanlığına yazılmasına gerek olmadığına oy birliğiyle,
