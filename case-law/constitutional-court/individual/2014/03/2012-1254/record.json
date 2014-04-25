@@ -1,0 +1,20 @@
+{
+  "applicant": "N.İ.S.",
+  "application_date": "2012-12-25",
+  "application_number": "2012/1254",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2014-03-07",
+  "id": "2b471267-bf93-93d8-0b57-89bc28e326fc",
+  "in_force": "2014-04-25",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2014-04-25",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjJiNDcxMjY3LWJmOTMtOTNkOC0wYjU3LTg5YmMyOGUzMjZmYw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "378454835fc49097210ea5ac10c84a6359a7b492e8bd35f8b4d887cb9b8581b5",
+  "version_label": "as-enacted"
+}
