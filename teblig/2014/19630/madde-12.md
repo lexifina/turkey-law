@@ -1,0 +1,2 @@
+Değerlendirme
+MADDE 12 – (1) Yukarıdaki bilgiler ışığında, önleme tabi ülkenin Türkiye’ye yönlendirebileceği önemli üretim kapasitesinin ve ihracat kabiliyetinin bulunduğu, ÇHC menşeli ithalata olan talebin temel nedeninin düşük fiyat olduğu, üretici/ihracatçı firmaların önlemlerin yokluğundaki davranışlarını yansıtacak olan esas soruşturmada ve ilk NGGS’de tespit edilen damping marjlarının önemli oranlarda olduğu da dikkate alındığında, önlemlerin yürürlükten kalkması halinde dampingin devam etmesinin veya yeniden meydana gelmesinin muhtemel olduğu değerlendirilmiştir.

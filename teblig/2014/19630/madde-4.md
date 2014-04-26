@@ -1,0 +1,2 @@
+Yerli üretim dalının temsil niteliği
+MADDE 4 – (1) Soruşturma sırasında yapılan incelemede, başvuru sahibi Azmüsebat Çakmak ve Tıraş Bıçağı San. Tic. A.Ş. firmasının dampingin devamı belirlemesine ilişkin dönemde soruşturma konusu ürünlerde Türkiye toplam üretiminin tamamını gerçekleştirdiği bu nedenle Yönetmeliğin 20 nci maddesi çerçevesinde yerli üretim dalını (YÜD) temsil niteliğini haiz olduğu tespit edilmiştir. Bu nedenle, adı geçen firmanın söz konusu soruşturmada YÜD’yi oluşturduğu kabul edilmiştir.

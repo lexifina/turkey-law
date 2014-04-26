@@ -1,0 +1,10 @@
+İlgili tarafların bilgilendirilmesi ve toplanan bilgilerin değerlendirilmesi
+MADDE 5 – (1) Soruşturma açılmasını müteakip, soruşturma konusu ürünün Bakanlık tarafından bilinen ÇHC’deki üreticilerine/ihracatçılarına, Türkiye’de yerleşik ithalatçılarına ve ayrıca soruşturmaya konu ülkede yerleşik diğer üreticilere/ihracatçılara iletilebilmesini teminen anılan ülkenin Ankara’daki Büyükelçiliğine soruşturmanın açılışına ilişkin bildirimde bulunulmuştur.
+(2) Bildirimde, soruşturma açılış Tebliğine, başvurunun gizli olmayan metnine ve soru formlarına nereden erişileceği hususunda bilgi verilmiştir.
+(3) Taraflara soru formunu yanıtlamaları için posta süresi dâhil 37 gün süre tanınmıştır. Tarafların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+(4) YÜD, soruşturma süresi boyunca Bakanlık ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgileri temin etmiştir.
+(5) Dampingin devamı belirlemesine ilişkin dönemde ithalat gerçekleştirdiği tespit edilen 14 ithalatçı firmaya soru formu gönderilmiş ve bu firmaların 3’ünden cevap alınmıştır.
+(6) Üretici/İhracatçı soru formuna ilişkin olarak ise ÇHC’de yerleşik Liaoning Kaija Hardware Plastic Co., Ltd. ihracatçı firmasından cevap alınmıştır.
+(7) Soruşturmaya ilişkin bilgi ve bulguların tamamlanması akabinde, soruşturma sonucunda alınacak karara esas teşkil edecek bilgi, bulgu, tespit ve değerlendirmeleri içeren nihai bildirim, soruşturma konusu ülkenin Ankara Büyükelçiliği ile soruşturma sırasında görüş bildiren üretici/ihracatçılar, ithalatçılar ve YÜD’e iletilmiştir.
+(8) Kendisine bildirim yapılmış olan MGM Sportif Ltd. Şti. ve İlhan Birlik Mimar (İ.B.M.) firması nihai bildirime ilişkin görüş bildirmiştir.
+(9) Tarafların soruşturma boyunca ve nihai bildirim sonrası ortaya koyduğu tüm bilgi, belge ve görüşler incelenmiş, bu görüşlerin mevzuat kapsamında değerlendirilebilecek olanlarına bu Tebliğin ilgili bölümlerinde değinilmiştir. Ayrıca, ilgili taraflardan alınan bilgi ve belgelerin gizli olmayan nüshaları, talep eden bütün ilgili tarafların bilgisine sunulmak üzere hazır tutulmuştur.

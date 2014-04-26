@@ -1,0 +1,4 @@
+Önleme konu ülkede sektörün durumu ve kapasite fazlası
+MADDE 22 – (1) UTM verilerine göre, dampingin devamı veya yeniden meydana gelme ihtimali bölümünde de belirtildiği üzere ÇHC’de soruşturma konusu ürünlere ilişkin önemli miktarda kapasite bulunduğu ve ÇHC’nin soruşturma konusu ürünlerde dünyanın en büyük ihracatçısı olduğu görülmektedir.
+(2) ÇHC, 2012 yılında dünya toplam tekrar doldurulamayan cep çakmakları ihracat pazarından %72, doldurulabilen cep çakmakları ihracat pazarından %95 ve plastikten gaz haznelerinin ihracat pazarından %60 oranlarında pay alarak ihracatçı ülkeler arasında ilk sırada yer almıştır.
+(3) Bu bilgiler ışığında, önleme tabi ülkede Türkiye’ye yönlendirebilecek ciddi üretim kapasitesinin ve ihracat kabiliyetinin bulunduğu, önlemlerin yürürlükten kalkması durumunda bu kapasitenin Türkiye pazarına yönlendirilmesinin ve bunun sonucunda YÜD’de zararın devamının veya yeniden meydana gelmesinin muhtemel olduğu değerlendirilmiştir.

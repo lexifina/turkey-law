@@ -1,0 +1,2 @@
+Değerlendirme
+MADDE 23 – (1) Uygulanmakta olan dampinge karşı önlemlerin sona ermesi halinde damping ve zararın devam edip etmeyeceği veya yeniden meydana gelmesinin muhtemel olup olmadığı konusu incelenmiştir. Bu itibarla, önleme tabi ülkenin büyük üretim kapasitesine ve kapasite fazlasına sahip olduğu, mevcut önlemlerin ortadan kalkması durumunda dampingli ithalatın artarak devam etmesinin ve zararın devamının veya yeniden meydana gelmesinin muhtemel olduğu değerlendirilmiştir.
