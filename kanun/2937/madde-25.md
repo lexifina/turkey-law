@@ -1,4 +1,3 @@
-ÜÇÜNCÜ KISIM
-Çeşitli Hükümler
-Silah taşıma
-Madde 25 – MİT mensupları, memuriyetlerinin devamı süresince demirbaşa kayıtlı silahları veya şahsi silahlarını meskün bölgeler dahil her yerde taşıyabilirler.
+Silah taşıma[31]
+Madde 25 – (Değişik: 17/4/2014-6532/5 md.)
+MİT mensupları ile emeklileri, demirbaş silahları ve zatî silahlarını MİT (…)31 kayıtlarına geçirilmek ve MİT tarafından verilen belgelere işlenmek kaydıyla, meskûn mahaller dâhil her yerde taşıyabilirler. Bu suretle düzenlenen belgeler taşıma izni belgesi yerine geçer.

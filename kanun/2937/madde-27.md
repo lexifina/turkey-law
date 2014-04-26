@@ -1,8 +1,8 @@
 Cezai hükümler
-Madde 27 – Milli İstihbarat Teşkilatının görev ve faaliyetlerine teallük eden evrak veya malumatı istihsal eden kişi, fiil daha ağır bir cezayı gerektirmiyorsa iki seneden sekiz seneye kadar ağır hapis cezası ile cezalandırılır.
-Birinci fıkrada yazılı suçun icrası, resmi sıfat ve memuriyeti sona ermiş olsa dahi görevi gereği bu evrak veya malumatı elinde bulunduran veya malumata malik olan kimsenin taksiri neticesi mümkün kılınmış veya sadece kolaylaştırılmış olursa malumatı elinde bulunduran hakkında bir seneden beş seneye kadar ağır hapis cezası hükmolunur.
-Bu evrak ve vesikaların münderecatı ile malumatı ifşa eden kimse, fiil daha ağır bir cezayı gerektirmiyorsa, beş seneden aşağı olmamak üzere ağır hapis ile cezalandırılır. Eğer fiil suçlunun taksiri neticesi vukubulmuş ise, altı aydan iki seneye kadar hapis cezası verilir.
-İfşa suçunun yayın vasıtaları ile işlenmesi halinde verilecek ceza 1/2 nispetinde artırılır.
-–––––––––––––––
-(1) Bu madde başlığı “Cezai takibat izni” iken, 17/2/2012 tarihli ve 6278 sayılı Kanunun 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-6195
+Madde 27 – (Değişik: 17/4/2014-6532/7 md.)
+Millî İstihbarat Teşkilatının görev ve faaliyetlerine ilişkin bilgi ve belgeleri, yetkisiz olarak alan, temin eden, çalan, sahte olarak üreten, bunlar üzerinde sahtecilik yapan ve bunları yok eden kişiye dört yıldan on yıla kadar hapis cezası verilir.
+MİT mensupları ve ailelerinin kimliklerini, makam, görev ve faaliyetlerini herhangi bir yolla ifşa edenler ile MİT mensuplarının kimliklerini sahte olarak düzenleyen veya değiştiren ya da bu sahte belgeleri kullananlara üç yıldan yedi yıla kadar hapis cezası verilir.[36]
+Birinci ve ikinci fıkra kapsamındaki bilgi ve belgelerin; radyo, televizyon, internet, sosyal medya, gazete, dergi, kitap ve diğer tüm medya araçları ile her türlü yazılı, görsel, işitsel ve elektronik kitle iletişim araçları vasıtasıyla yayımlanması, yayılması veya açıklanması hâlinde; 9/6/2004 tarihli ve 5187 sayılı Basın Kanununun 11 inci maddesi ile 4/5/2007 tarihli ve 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanunun 4 üncü ve 6 ncı maddeleri hükümlerine göre sorumlulukları belirlenenler ile bunları yayanlar hakkında üç yıldan dokuz yıla kadar hapis cezası verilir.
+Bu Kanun kapsamındaki görev ve yetkilerin kullanılmasını engelleyenlere üç yıldan beş yıla kadar, ihmal veya suistimal suretiyle önleyenlerle yükümlülüklerini yerine getirmeyenlere iki yıldan dört yıla kadar hapis cezası verilir.
+Söz konusu fiillerin MİT mensuplarınca işlenmesi hâlinde verilecek ceza üçte biri oranına kadar artırılır.
+(Ek fıkra: 20/11/2017-KHK-696/52 md.; Aynen kabul: 1/2/2018-7079/47 md.) İstifa işlemleri tamamlanmadan görev yerini terk eden, görev yerinden veya görevi icabı bulunmak zorunda olduğu yerden izinsiz veya mazeretsiz olarak kesintisiz on gün süreyle ayrılan MİT personeli, yürütülecek idari soruşturma sonucuna göre Devlet memurluğundan çıkarılır. Bu kişilere iki yıldan dört yıla kadar hapis cezası verilir.
