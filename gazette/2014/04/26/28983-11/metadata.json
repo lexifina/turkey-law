@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-04-26",
+  "issue": "28983",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140426-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140426.htm",
+  "index_sha256": "48e653d15668009e56b443cb3682e8a2d0ab4eadab7e90e3db85710cd992902d",
+  "index_header": "26 Nisan 2014 ... 28983 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/04/20140426.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
