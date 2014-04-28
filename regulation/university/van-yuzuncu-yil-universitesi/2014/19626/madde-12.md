@@ -1,0 +1,4 @@
+Yönetim kurulu
+MADDE 12 – (1) Yönetim Kurulu, deney hayvanları kullanım sertifikasına sahip; Müdürün önerisiyle Rektör tarafından görevlendirilen altı üye ile Müdür ve müdür yardımcıları olmak üzere toplam dokuz üyeden meydana gelir. Üyelik süresi 3 yıldır.
+(2) Yönetim Kurulu, Müdürün çağrısı üzerine, yılda en az dört defa, asgari beş üye ile toplanır. Geçerli mazereti olmaksızın 3 kez üst üste toplantıya katılmayanların Yönetim Kurulu üyeliği son bulur. Boşalan üyelik için aynı birimden aynı usul ile bir ay içinde yeni üye görevlendirilir.
+(3) Yönetim Kurulunda tüm kararlar, oy çokluğu ile alınır, çekimser oy kullanılamaz. Oyların eşitliği halinde, Müdürün kullandığı oy yönünde çoğunluk sağlanmış sayılır. Merkez tesis sorumlusu Yönetim Kurulu toplantısına Müdürün çağrısı üzerine katılabilir, ancak oy kullanamaz.
