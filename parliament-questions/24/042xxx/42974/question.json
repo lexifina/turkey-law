@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 24,
+  "legislative_year": 4,
+  "esas_no": "7/42974",
+  "submitted": "2014-04-28",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ahmet Kenan TANRIKULU",
+  "province": "İzmir",
+  "summary": "İşsizlik Sigortası Fonu ve Doğal Afet Sigortaları Kurumu mevduatlarının üç kamu bankasında tutulması zorunluluğu getirilmesine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bf-5232-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "6c8504d7bf5756d2dafbdd3b62eded20e0c385e0f8ef19f037be19197fec1861",
+  "in_force": "2014-04-28",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
