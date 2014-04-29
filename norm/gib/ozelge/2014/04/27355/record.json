@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "10497383-010-1",
+  "source_id": 27355,
+  "date": "2014-04-29",
+  "title": "Birliğin yapmış olduğu hizmetin karşılığı almış olduğu bedel nedeniyle KV mükellefiyetine tabi olup olmadığı, mükellefiyetinin olması durumunda beyannamelerinin serbest muhasebeci veya mali müşavir tarafından imzalanma zorunluluğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27355",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "3c61f9ebacd13c10033a7861d0e68aebf9a9f3ec715ddae0635206fb7f357173",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
