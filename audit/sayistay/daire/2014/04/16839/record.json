@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10332",
+  "decision_date": "2014-04-29",
+  "source_id": 16839,
+  "chamber": "1",
+  "ilam_number": "158",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16839/",
+  "source_sha256": "9521797815a5495581796b772fbce80448f04703f0ca314c689af2688c229879",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
