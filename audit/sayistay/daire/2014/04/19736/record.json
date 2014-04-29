@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10333",
+  "decision_date": "2014-04-29",
+  "source_id": 19736,
+  "chamber": "1",
+  "ilam_number": "135",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19736/",
+  "source_sha256": "9e8ab11d7e5404b370cbe5cdc1ffe75b63ce589568089c133c1093223b9e8508",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
