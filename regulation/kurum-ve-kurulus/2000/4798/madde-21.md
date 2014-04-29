@@ -1,0 +1,3 @@
+Talebin Yönlendirilen Birim Tarafından Karşılanması
+MADDE 21 – (Değişik: RG-15/03/2007-26463)
+Merkez tarafından yönlendirilen birim en kısa sürede olay yerine ulaşır. Olay yerine ulaşan ekip, yönlendirme sırasında ve olay yerinde edindiği bilgiler ışığında acil sağlık yardımını gerçekleştirir. Bu müdahale sırasında hizmeti sunan ekip tarafından yapılan değerlendirme sonucunda, ileri tıbbî müdahaleye ihtiyacı olan hastanın ambulans ile nakline karar verilir. Hizmet olay yerinde verilmiş ve hastanın daha ileri tıbbî müdahaleye ihtiyacı bulunmuyor ise, ekip sunduğu hizmet ile ilgili bilgileri merkeze bildirir.

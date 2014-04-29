@@ -1,0 +1,2 @@
+Telsiz İletişimi:
+Madde 32- İl düzeyinde Merkez ile hizmet sunan acil hizmet birimleri arasındaki iletişim, kaide olarak bu maksatla kurulan telsiz sistemi ve tahsis edilmiş telsiz frekansı veya frekansları üzerinden gerçekleştirilir. İl düzeyinde acil sağlık hizmeti için tahsis edilen frekans veya frekanslar, acil sağlık hizmetlerinin maksadı dışında ve hangi maksatla olursa olsun acil sağlık hizmetine dahil olmayan birimler veya kişiler tarafından kullanılamaz.

@@ -1,0 +1,4 @@
+Yönlendirme
+Madde 20 — (Değişik:RG 24/3/2004- 25412)
+Bu Yönetmelikte, acil sağlık hizmeti içinde belirtilen istasyonlar, acil servisler ve destek hizmetleri gerektiğinde, Merkez tarafından yönlendirilir. Yönlendirme, yardım talebinin ulaşmasını takiben, Merkez tarafından mevcut iletişim sistemi ile en kısa sürede, talebin mahiyetine en uygun ve/veya en yakın birim veya birimlerin görevlendirilmesi suretiyle yerine getirilir. Ayrıca Merkez, durumun niteliğine göre ihtiyaç duyduğu diğer kuruluşları da hizmetlerini yönlendirebilmeleri maksadıyla bilgilendirir.
+(Ek fıkra:RG-15/03/2007-26463) Merkez, ekip tarafından müdahale esnasında talep edilen tıbbi danışmanlık için 24 saat süre ile gerekli tıbbi danışman bulundurmak veya tıbbi danışmanlık yapacak Müdürlüğün teklifi Valiliğin onayı ile yetkilendirilmiş bir uzman hekime yönlendirmekle yükümlüdür. Gerektiğinde Eğitim Hastaneleri ve Üniversitelerin ilgili bölümlerindeki uzman hekimlerden de bilgi desteği alınır.

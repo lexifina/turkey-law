@@ -1,0 +1,1 @@
+Geçici Madde 2- İl düzeyinde kurulu haberleşme sisteminin karayollarını kapsayacak şekilde genişletilmesi tamamlandığında, Bakanlıkça kurulan karayolu ilk yardım istasyonları, acil sağlık istasyonlarına dönüşür.

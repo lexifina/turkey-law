@@ -1,0 +1,5 @@
+Acil Servis Tarafından Yürütülecek İşlemler
+Madde 24- Acil servis, hastanın ihtiyaç duyacağı hazırlıkları, nakil işlemi gerçekleşmeden önce yerine getirir.
+Acil servis, hastanın sosyal güvencesi olup olmadığına, bağlı bulunduğu sosyal güvenlik kuruluşunun nevine ve hastanın diğer özelliklerine bakmaksızın, stabilizasyon sağlanıncaya kadar bütün tıbbî hizmetleri sunar.
+Vakanın tedavisinin başka bir sağlık kuruluşunda sürdürülmesi, mevzuat veya bu kuruluşun tıbbî-teknik imkanları açısından zorunlu ise, hastanın sosyal güvenlik durumuna en uygun kuruluş ile mutabakat sağlandıktan sonra, tıbbî bakım ve tedavisine devam edilmesi için, acil servis sorumlu tabibi Merkezden sevk işleminin gerçekleştirilmesini ister.
+Merkezin sevk yükümlülüğü, ilgili kuruluşların sevk imkanlarının yeterli olmadığı durumlarda ve sadece acil yardım talebi ile hizmete başvuran hastalar için mevcuttur. Merkez, göndereceği ekip ile hastanın sevkini gerçekleştirir. Ancak, sevk işlemi, ambulans ekibinin dışında başkaca personel ve araç desteği gerektiriyorsa, sevk eden kuruluş gerekli desteği sağlar.

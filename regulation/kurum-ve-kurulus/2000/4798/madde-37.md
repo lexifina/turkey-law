@@ -1,0 +1,3 @@
+Hizmet Kapsamında Yer Alan Diğer Acil Sağlık Hizmetleri Bedelinin Tahsili
+Madde 37- Yataklı tedavî kuruluşları, acil sağlık hizmetlerinin bedelini hizmet sundukları kişinin ödeme imkanları ve kuruluşlarının tahsil işlemleri ile ilgili usul ve esaslar çerçevesinde tahsil ederler.
+(Değişik: RG-24/03/2004-25412) Acil sağlık hizmeti kapsamında hastane öncesi ve hastaneler arası hasta nakil hizmetleri sırasında sunulan hizmetlerin bedeli, bağlı olduğu döner sermaye saymanlığı tarafından hastaların bağlı oldukları resmi veya özel sosyal güvenlik kuruluşlarına tahakkuk ettirilir ve tahsil edilir. Sosyal güvencesi olmayıp ödeme gücü olmayanlardan ücret talep edilmez.

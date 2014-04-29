@@ -1,0 +1,2 @@
+Kayıtların Saklanması ve Arşiv
+Madde 34- Sunulan hizmet ile ilgili kayıtlar, ilgili mevzuat hükümlerine göre muhafaza edilir. Var ise, bütün ses kayıtları üç ay süre ile saklanır. Bu süre sonunda herhangi bir başvuru olmaz ise kayıt silinir. Merkez, bu işlemi, kuruluşun teknik imkanları ve hizmet yoğunluğunun cevaz verdiği nispette gerçekleştirir. Seslerin kaydedilemediği veya kayıtların muhafaza edilemediği durumlarda yazılı kayıtlardan yararlanılır.

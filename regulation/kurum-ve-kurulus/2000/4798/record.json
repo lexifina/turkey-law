@@ -1,0 +1,67 @@
+{
+  "source_id": "7.5.4798",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ACİL SAĞLIK HİZMETLERİ YÖNETMELİĞİ",
+  "number": "4798",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2000/4798",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4798&MevzuatTertip=5",
+  "source_sha256": "c6382eb5593fbef4dc29304fe0f2a0a280df43db1e8974768b6a2aeec6c55e54",
+  "source_bytes": 97649,
+  "published": "2000-05-11",
+  "gazette": "24046",
+  "in_force": "2014-04-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/4/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-04-29",
+      "RG-29/4/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-03-15",
+      "RG-15/03/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-03-24",
+      "RG-24/3/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-03-24",
+      "RG-24/03/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-03-24",
+      "RG- 24/3/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-03-24",
+      "RG 24/3/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-03-24",
+      "RG -24/3/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4685,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

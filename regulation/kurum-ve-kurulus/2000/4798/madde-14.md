@@ -1,0 +1,6 @@
+Birinci Basamak Sağlık Kuruluşları
+Madde 14- Acil sağlık hizmeti, temel hizmet birimleri arasında sayılmayan ve hizmet içerisinde bir görev üstlenmemiş, ancak, ilk ve acil yardıma ihtiyacı olanların müracaat edebilecekleri, kamuya veya özel sektöre ait sağlık kuruluşları ve bu kuruluşların hizmete destek sağlamak amacıyla yerine getirmekle mükellef oldukları görevler şunlardır:
+a) Sağlık evleri: İlk yardım yapmakla, ilk yardım yapılmasını organize etmekle, ilk ve acil yardım konularında halkın bilinçlendirilmesine yardımcı olmakla,
+b) Sağlık ocakları ve Bakanlığa bağlı diğer birinci basamak sağlık kuruluşları: Her türlü acil sağlık hizmetini, bulundurdukları ekipmanlar ölçüsünde vermekle,
+c) Diğer kamu kurum ve kuruluşlarına ait birinci basamak hizmet veren sağlık kuruluşları: Acil sağlık hizmetine ihtiyacı bulunan bütün hastaların kuruma başvurusu halinde, başka hiçbir şart aramaksızın gereken acil müdahale ile tıbbî yardımı vermekle ve merkeze gerekli bildirimi yapmakla,
+d) Muayenehane, Özel Poliklinikler ve Özel Hastaneler: Fertler arasında sosyal statü ve görevleri bakımından ayırım yapmaksızın, imkanları ölçüsünde gereken acil tıbbî müdahalede bulunmakla ve Merkeze gerekli bildirimi yapmakla, mükelleftir.

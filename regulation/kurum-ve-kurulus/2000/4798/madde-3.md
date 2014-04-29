@@ -1,0 +1,3 @@
+Dayanak
+MADDE 3 – (Değişik:RG-29/4/2014-28986)
+Bu Yönetmelik, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin birinci fıkrasının (i) bendi ile 9 uncu maddesinin (c) bendi, 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun 3 üncü maddesinin ikinci fıkrası, 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun 8 inci maddesinin birinci fıkrasının (b) bendi ile 2/11/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 9 uncu ve 40 ıncı maddeleri hükümlerine dayanılarak hazırlanmıştır.

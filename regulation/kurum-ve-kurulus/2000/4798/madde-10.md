@@ -1,0 +1,13 @@
+İstasyonlar
+Madde 10- (Değişik: RG 24/3/2004- 25412)
+İstasyonlar; acil sağlık hizmeti sunmak ve tıbbi müdahalede bulunmak amacıyla, bu Yönetmeliğin 11 inci maddesinde belirtilen kriterler dikkate alınarak yapılan incelemeler sonucunda müdürlüğün teklifi ve valiliğin onayı ile kurulan birimlerdir. Ancak lüzumu halinde il sınırları dışında da valiliklerin teklifi ve Bakanlığın onayı ile istasyon açılabilir.
+İstasyonlar verdikleri hizmete göre üç tipte kurulabilir. Bunlar;
+a) (Değişik ikinci fıkra:RG-15/03/2007-26463) A Tipi İstasyon: 24 saat kesintisiz sadece ambulans hizmeti verilen, ihtiyaca göre birden fazla ekip ve ambulans bulundurulan, idari ve özlük hakları bakımından başhekimliğe bağlı ve kadrolu personeli olan istasyonlardır. (A) tipi istasyonların açılış ve kapanış işlemleri Bakanlığın onayı ile gerçekleştirilir. Bu istasyonlar;
+1) Ekip içerisinde hekim bulunanlar (A1) tipi istasyon,
+2) Ekip içerisinde hekim bulunmayanlar ise (A2) tipi istasyon olarak adlandırılır.
+b) B Tipi İstasyon: Birinci, ikinci ve üçüncü basamak resmi sağlık kurum ve kuruluşları ile entegre olarak kesintisiz ambulans ve acil servis hizmeti verilen, kadrosu ve özlük hakları bakımından bünyesinde bulunduğu kuruma, ambulans hizmeti bakımından merkeze bağlı olan (Mülga ibare:RG-29/4/2014-28986) (…) istasyonlardır. Bu istasyonlar;
+1) Hastane acil servisi ile entegre olanlar (B1) tipi istasyon,
+2) Birinci basamak sağlık kuruluşları ile entegre olanlar ise (B2) tipi istasyon olarak adlandırılır.
+c) C Tipi İstasyon: İhtiyaca göre günün belirlenen saatlerinde sadece ambulans hizmeti verilen, idari ve özlük hakları bakımından başhekimliğe bağlı acil sağlık istasyonlarıdır.
+İstasyonlarda acil sağlık hizmetleri konusunda eğitim görmüş sağlık ekibi ile tıbbi donanımlı ambulanslar görev yapar. İstasyonlarda görev yapan personelin standart donanımları başhekimlik, iaşe, ibate ve güvenlikleri, içinde bulundukları kuruluşlar tarafından sağlanır. İstasyonda ambulans ve ambulansta görev yapan ekibe lojistik destek sağlamak amacıyla, en az üç oda, eğitim salonu, tuvalet, banyo, mutfak, malzeme deposu, ambulans garajı ile telefon, sabit telsiz ve gereken diğer malzeme bulunur. İstasyonların, Bakanlıkça bu hizmete özel inşa edilen ve yukarıda sayılan özellikleri taşıyan tesislerde faaliyet göstermesi esastır. Bakanlığa ait mevcut sabit sağlık tesislerinden, bu tesislerin de yeterli olmadığı durumlarda, diğer özel ve resmi kurum ve kuruluşlarına ait tesislerden de önceden izin almak kaydıyla yararlanılabilir.
+(B) tipi istasyonlarda çalışan personelin görev ve sorumlulukları ile idari hususlar Bakanlıkça çıkarılacak yönerge ile belirlenir.
