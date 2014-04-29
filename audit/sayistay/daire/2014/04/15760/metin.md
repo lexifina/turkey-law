@@ -1,0 +1,11 @@
+Gecikme cezası
+
+İl Özel İdaresi ile yüklenici …  arasında 23.01.2012 tarihinde imzalanan sözleşmenin "Sözleşmenin Süresi" başlıklı 9 uncu maddesinde: "Sözleşmenin süresi, işe başlama tarihinden itibaren 90 takvim günüdür."
+
+"Malın/İşin Teslim Alma Şekil ve Şartları ile Teslim Programı" başlıklı 10.1.1 inci maddesinde: "… Üniversitesi …Eğitim ve Araştırma Hastanesine teslimat yapılacaktır." 10.3.1 inci maddesinde: "Sözleşmenin yüklenici ile imzalanmasından sonra kendisine veya tebligat için gösterdiği adrese yapılacak işe başlama talimatının tebliğ edildiği tarihten itibaren 90 (doksan) takvim günü içinde cihazlar tek partide teslim edilecektir.” Denilmiş ve aynı sözleşmenin 34.2 nci maddesinde ise: "Yüklenicinin, sözleşmeye uygun olarak malı süresinde teslim etmemesi halinde, gecikilen her takvim günü için sözleşme bedelinin %0,02 oranında gecikme cezası uygulanır." Hükmüne yer verilmiştir.
+
+Yapılan incelemede; işe başlama talimatının tebliğ tarihinin 23.01.2012 olduğu görülmektedir. Bu durumda işin bitirilmesi gereken son tarihin 21.04.2012 olması gerekmektedir. Yüklenici tarafından hazırlanan ve … Üniversitesi .. Hastanesi Taşınır Kayıt Kontrol Yetkilisi … … tarafından imzalanan sevk irsaliyesine göre malın teslimatı 22.05.2012 tarihinde gerçekleşmiştir. Ayrıca Muayene Kabul Komisyon Raporunda da sözleşme konusu malın 22.05.2012 tarihinde hastane deposuna teslim edildiği ifade edilmiştir.
+
+Buna karşılık, teslim tarihi 26.04.2012 kabul edilerek idare tarafından yüklenici firmaya sadece 5(beş) günlük gecikme cezası uygulanmıştır. Sözleşmenin 10.1.1'inci maddesi gereğince teslimatın … Üniversitesi … Hastanesine yapılması gerektiğinden ve sözleşme konusu malın hastane deposuna girişinin de 22.05.2012 tarihinde gerçekleşmiş olması nedeniyle gecikme süresi 31(otuzbir) gün olmaktadır.
+
+".. Üniversitesi …  Hastanesinde Kullanılmak Üzere ... Röntgen Cihazı Alımı" işinin süresinde bitirilmemesi nedeniyle işin sözleşmesinde belirlenen cezanın eksik uygulanması sonucunda hesabı aşağıda gösterilen … TL kamu zararının sorumlulara ortaklaşa ve zincirleme olarak ödettirilmesine karar verilmesi gerekmekte ise de, söz konusu tutarın tamamının tarih ve sayısı yukarıda yazılı belgeyle tahsil edildiği anlaşıldığından ilişik kalmadığına oy birliğiyle,
