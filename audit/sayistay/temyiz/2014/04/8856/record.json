@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "38923",
+  "decision_date": "2014-04-29",
+  "source_id": 8856,
+  "chamber": "6",
+  "file_number": "36017",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8856/",
+  "source_sha256": "f467164381e8190feaf128c42574e8c6c3a8940c5f1805a5ac4e7a3546135ba4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
