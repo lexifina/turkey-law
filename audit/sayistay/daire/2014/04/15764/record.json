@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10330",
+  "decision_date": "2014-04-29",
+  "source_id": 15764,
+  "chamber": "1",
+  "ilam_number": "197",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15764/",
+  "source_sha256": "410ccfa6b484a3644b26859dbf807c52fbf1be122992c13a7d39b1c99cfe526f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
