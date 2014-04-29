@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10333",
+  "decision_date": "2014-04-29",
+  "source_id": 8651,
+  "chamber": "1",
+  "ilam_number": "135",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8651/",
+  "source_sha256": "4b4b0c55610a16facedc18a67646563edb408b87056dedb79e100554466212f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
