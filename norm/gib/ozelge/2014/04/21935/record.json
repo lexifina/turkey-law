@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[65-13/12]-460",
+  "source_id": 21935,
+  "date": "2014-04-30",
+  "title": "İnternet sitesi üzerinden, senaryo ve yazarlık üzerine katılımcılarla buluşularak yapılan çalışmalar dolayısıyla basit usulden yararlanıp yararlanılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21935",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "5ab8acdb0e60a07ad69c085b65a6fe2f2352b230010b228e5f19ef19ad48fd88",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
