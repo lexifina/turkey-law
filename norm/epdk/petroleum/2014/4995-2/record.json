@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "4995/2",
+  "decision_date": "2014-04-30",
+  "title": "BOTAŞ - Boru Hatları ile Petrol Taşıma A.Ş. PİL/480/110/11077 sayılı İletim lisansı tadili",
+  "resmi_gazete_date": "2014-05-08",
+  "resmi_gazete_number": "28994",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+IyRKXwP2/k=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+IyRKXwP2/k="
+  ],
+  "source_sha256": "923cb36d494555e9c136b62ca53edc8f90ac71f51892e2079d1c43bdfc50d4a3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-04-30",
+  "law_text_complete": false
+}
