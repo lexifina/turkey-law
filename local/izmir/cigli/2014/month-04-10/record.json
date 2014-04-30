@@ -1,0 +1,28 @@
+{
+  "number": "month-04-10",
+  "year": 2014,
+  "month": 4,
+  "title": "İmar Plan Değişikliği ( 21629 ada 1 Parsel Yeni Mahalle )",
+  "decision_date": null,
+  "index_date": "2014-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2014",
+  "source": "https://www.cigli.bel.tr/karar/2014-Yili-Meclis-Kararlari.html",
+  "official_page": "https://www.cigli.bel.tr/karar/2014-Yili-Meclis-Kararlari.html",
+  "official_document": "https://www.cigli.bel.tr/upload/mecliskarar/2024_07__33.pdf",
+  "source_sha256": "6275dfe29169c7bdf2c8893cb01417da56349c46f4caf52ecde7569231b949be",
+  "issuer": "Çiğli Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2014-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2014); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision document (listed without a number)",
+  "listing_month": "04"
+}
