@@ -1,0 +1,29 @@
+{
+  "number": "month-04",
+  "year": 2014,
+  "month": 4,
+  "title": "Meclis Kararları 2014/Nisan",
+  "decision_date": null,
+  "index_date": "2014-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2014",
+  "source": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2014-nisan.html",
+  "official_page": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2014-nisan.html",
+  "official_document": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2014-nisan.html",
+  "source_sha256": "0e9af5e31d95c42b23b40e74e7eff4f78ee5b8efc79b9007a288177e1a8457c9",
+  "issuer": "Kaytazdere Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2014-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2014); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Kararları 2014/Nisan",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 1 scanned image(s); not transcribed here"
+}
