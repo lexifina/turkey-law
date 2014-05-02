@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "600",
+  "date": "2014-05-02",
+  "title": "T. 2.05.2014 E. 2014/81 K. 2014/289",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/600",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=11&yil=2014",
+  "listing_sha256": "0a8e87e4e3b9bda71f92f68448f63099a20ec3cbfa3804ae087fbc6dab04414d",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
