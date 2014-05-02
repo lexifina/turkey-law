@@ -1,0 +1,8 @@
+Denetim
+Madde 13 — SMMH yürüten SMM lerin ve tescilli SMMH bürolarının aşağıda belirtilen koşullara uymaları zorunludur:
+a) Oda, SMMH nin yürütülmesinde meslek mensupları arasındaki haksız rekabeti önlemek, üretilen hizmetlerin üstün nitelikte, şartname ve standartlara uygun ve ülke yararına olmasını sağlamak amacıyla gerekli gördüğü tedbirleri alır.
+b) Oda yetkilileri, yapılan hizmetleri ve bu hizmetlerin ürünlerini incelemeye ve yerinde denetlemeye yetkilidir. Denetim yetkililerini ve çalışma koşullarını Oda Yönetim Kurulu belirler.
+c) SMM belgesi ve/veya büro tescil belgesi olmayan, belgesini yenilemeyen ya da belgesi Oda tarafından süreli veya süresiz olarak iptal edilen kişi ve kuruluşlar, serbest maden mühendisliği hizmeti veremez.
+ç) SMM ve tescilli SMMH bürosu, bu Yönetmelik kapsamına giren tüm işlerinde ve yapacağı sözleşmelerde mesleki esaslar ve meslektaş yararları, ilgili konularda Oda tarafından yürürlüğe konmuş şartnameler ve Oda tarafından belirlenmiş asgari ücret tarifelerine uyacak, mesleki denetim için yaptığı başvurularda Odanın bu hususlarla ilgili olarak talep edeceği belgeleri projesine ekleyecektir.
+d) (Değişik:RG-08/02/2007-26428) Oda asgari ücret tarifelerinin altında hizmet vererek haksız mesleki rekabet yaptıkları anlaşılanlar hakkında ek 1 inci madde hükümleri uygulanır.
+e) (Değişik:RG-08/02/2007-26428) SMM ler ve tescilli SMMH büroları, bu Yönetmelik kapsamına giren tüm hizmetlerini ilgili işveren, idare ya da onay makamınca istenmese dahi Odanın yapacağı mesleki denetimden geçirecektir. Aksi şekilde davrandığı tespit edilenler hakkında ek 1 inci madde hükümleri uygulanır.

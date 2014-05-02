@@ -1,0 +1,1 @@
+Geçici Madde 1 — Bu Yönetmelik yürürlüğe girmeden önce belge almış veya almak için başvuruda bulunmuş olanlar, 31/12/2005 tarihine kadar bu Yönetmelikte öngörülen koşulları yerine getirerek durumlarını Odaya belgelemek zorundadır. Gerekli şartları haiz olduğunu belgeleyemeyenlere yeni belge verilmez, verilmiş olan belgeler ise iptal edilir.
