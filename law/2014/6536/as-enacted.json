@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6536",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Somali Federal Cumhuriyeti Hükümeti Arasında Hastane İşletme ve Devir Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-05-02",
+  "gazette_issue": "28988",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140502-15.htm",
+  "source_sha256": "5feab92c85061b224cfee71adb82526f3b16e74dc87571858e4b636da88ba5f2",
+  "text_sha256": "9e5aca7e43b59af465b286ef6cf8b7ffb2c065ec9a1c5d5a87448f72bdc29d55",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/05/02/28988-15",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140502-15.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
