@@ -1,0 +1,3 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ, 4202 gümrük tarife istatistik pozisyonunda yer alan eşyanın ithalatında 1/4/2014 tarihli ve 2014/6086 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan “Seyahat Çantaları, El Çantaları ve Benzeri Mahfazaların İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar” çerçevesinde açılan tarife kontenjanının başvuru ve dağıtım ile kullanım usul ve esaslarını içermektedir.
+(2) Tarife kontenjanı miktarı, ek mali yükümlülüğün uygulandığı her bir dönem için, Bakanlar Kurulu Kararı ekinde yer alan ülkeler ve gümrük bölgeleri menşeli tarife kontenjanı kapsamı eşyanın tamamı için toplam 5.360.706 adet olarak belirlenmiştir. Ancak her bir ülke veya gümrük bölgesi menşeli eşya için bir dönemde verilecek tarife kontenjanı 1.786.902 adeti geçemez.
