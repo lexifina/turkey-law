@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6534",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Romanya Hükümeti Arasında Avrupa İşleri Konusunda Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-05-02",
+  "gazette_issue": "28988",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140502-13.htm",
+  "source_sha256": "1fc0665dbdf978305bc19a537cbf1acb62def8af3d4aa42e4ef0eba9760e1a16",
+  "text_sha256": "28ee20e7e942559b1eeb1b231675b9317c4200ba11740968d2a0b8cdab3a8184",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/05/02/28988-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140502-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
