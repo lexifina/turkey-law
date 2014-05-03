@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19644",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İŞ SAĞLIĞI VE GÜVENLİĞİ HİZMETLERİNİN DESTEKLENMESİ HAKKINDA TEBLİĞ",
+  "number": "19644",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "path": "teblig/2014/19644",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19644&MevzuatTertip=5",
+  "source_sha256": "60625c909069b59c797245e82048ba26117e57aa2df15ca5ea77a7a1381a0e83",
+  "source_bytes": 21258,
+  "published": "2014-05-03",
+  "gazette": "28989",
+  "in_force": "2014-05-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.05.2014); own commencement article: \"Bu Tebliğ 1/1/2014 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2014 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1010,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19644%20EK.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

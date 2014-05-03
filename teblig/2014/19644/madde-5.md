@@ -1,0 +1,3 @@
+Başvuruların üniteler tarafından MOSİP Sistemine kaydedilmesi
+MADDE 5 – (1) Başvurular, ünitece MOSİP Sisteminde kayıt altına alınır. Kayıt işlemi, MOSİP Sistemindeki ilgili menüden işverenin vergi kimlik numarası altında, sahip olduğu işyerlerinin sicil numaralarının girilmesi suretiyle yapılır. Dilekçe ve ekleri bir dosyada muhafaza edilir.
+(2) Müracaatların MOSİP Sistemine kaydedilmesi sırasında söz konusu Sistem, bildirilen işyerleri için iş sağlığı ve güvenliği hizmetlerinin sağlanmasına ilişkin geçerli bir sözleşmenin olup olmadığı veya işyerinden veya dışından birinin görevlendirilip görevlendirilmediği İSG-KATİP uygulamasında kontrol eder. Geçerli bir sözleşme veya bir görevlendirme olmayan işyerleri için sisteme kayıt yapılmasına izin verilmez.
