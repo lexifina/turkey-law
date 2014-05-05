@@ -1,0 +1,9 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez, amaçları doğrultusunda aşağıdaki faaliyetlerde bulunur:
+a) Üniversite bünyesinde gıda ve tarım güvenliği konusunda faaliyet gösteren araştırma laboratuvarları, uygulama ve araştırma merkezleri ile benzer birimler arasındaki ilişkileri düzenlemek, AR-GE imkânlarının birimler arası ortak kullanıma açılmasını sağlamak.
+b) Üniversitede gıda ve tarım güvenliği ile ilgili konularda faaliyet gösteren çeşitli birimlere özel uzmanlık gerektiren ileri araştırma cihazları sağlamak, Merkez laboratuvarını bu birimlerin hizmetine sunmak.
+c) AR-GE faaliyetleri için öngörülen analiz ve ölçümleri yapmak ve gıda ve tarım güvenliği konusundaki çalışmalara destek olmak.
+ç) Temel ve uygulamalı müspet bilimlerin gelişmesine katkıda bulunmak, endüstrinin ve ilgili diğer kamu kurum ve kuruluşları ile özel sektörün istekleri doğrultusunda gerekli analiz ve ölçümleri yapmak, yorumları gerçekleştirmek ve bunlara temel olabilecek malzemeleri üretmek.
+d) Bölgede yaş meyve ve sebze ihracatında yaşanan zirai ilaç ve sağlığa zararlı kimyasalların kalıntıları sorununda bölge üreticilerine ve ihracatçılarına çözüm getiren projeler üretmek ve kalıntı analizlerinin Merkez laboratuvarında yapılmasını sağlamak.
+e) Gıda güvenliği ve tarımsal araştırmalar ile ilgili kongre, panel, seminer, konferans, yaz okulları ve kurslar düzenlemek, düzenlenen bu gibi etkinliklere Üniversite personeli ve öğrencilerinin katılımını sağlamak, toplumu gıda güvenliği konusunda bilgilendirmek, Üniversitede, okullarda, kamuoyunda gıda güvenliği bilincinin yaratılması konusunda faaliyetlerde bulunmak.
+f) Gıda ve tarım güvenliği konularında eğitim ve öğretim görmek ya da görgü ve bilgisini geliştirmek üzere yurt dışına gitmek isteyen öğrenci ve öğretim elemanlarına destek vermek, gerekli ilişkileri kurarak burslar sağlamak, yurt dışından bu amaçla gelenlere yardımcı olmak.
