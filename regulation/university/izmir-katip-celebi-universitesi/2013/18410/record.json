@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/izmir-katip-celebi-universitesi/2013/18410",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-5/5/2014",
+  "first_law": null,
+  "gazette": "28661",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-05-05",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "İzmir Katip Çelebi Üniversitesi",
+  "issuer_slug": "izmir-katip-celebi-universitesi",
+  "kind": "regulation",
+  "published": "2013-05-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18410&MevzuatTertip=5",
+  "source_id": "8.5.18410",
+  "source_sha256": "4cf0508b43727d29815cafa05bdfcded33fefa427693d048f85324e40fbdd953",
+  "title": "İZMİR KÂTİP ÇELEBİ ÜNİVERSİTESİ KÂTİP ÇELEBİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 389,
+  "version_label": "oldest version available",
+  "word_count": 1175
+}
