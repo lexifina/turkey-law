@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "95462982-205[SMMM-ÖZLG-13-6]-142",
+  "source_id": 36664,
+  "date": "2014-05-05",
+  "title": "Cari yılda Tam Tasdik sözleşmesi bulunan YMM'nin önceki yıla ait indirimli orana tabi işlemlerden doğan KDV iadesi için limitsiz tutarda KDV İade Raporu düzenleyip düzenleyemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/36664",
+  "related_law": "3568 sayılı SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU (*)",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "7f80d953d2e917b94d1be57259cb29649082c41e0da90063b1074404fef39007",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
