@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/izmir-katip-celebi-universitesi/2014/19642",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "28991",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-05-05",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İzmir Katip Çelebi Üniversitesi",
+  "issuer_slug": "izmir-katip-celebi-universitesi",
+  "kind": "regulation",
+  "published": "2014-05-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19642&MevzuatTertip=5",
+  "source_id": "8.5.19642",
+  "source_sha256": "b281c5e96ec0b7cb6fcd97890dd4355031c927388ef0274f9204620610da4823",
+  "title": "İZMİR KÂTİP ÇELEBİ ÜNİVERSİTESİ TERATOJENİTE BİLGİ, EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 389,
+  "version_label": "oldest version available",
+  "word_count": 1237
+}
