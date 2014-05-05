@@ -1,0 +1,23 @@
+{
+  "number": "meeting-05-05-8",
+  "number_as_published": "meeting-05-05-8",
+  "year": 2014,
+  "title": "Karar No: 28 – 05.05.2014 Tarihli Mayıs Ayı Meclis Toplantısı",
+  "decision_date": "2014-05-05",
+  "source": "https://www.finike.bel.tr/arsiv/meclis-kararlari",
+  "official_document": "https://www.finike.bel.tr/files/documents/39d4737c057a46f0ab87ed6322c1286f.pdf",
+  "source_sha256": "6793bc643cf0d6fe58fe65c87cadb2eac87aae6369ace954a71125006131f9ff",
+  "issuer": "Finike Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2014-05-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.05.2014; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Karar No: 28 – 05.05.2014 Tarihli Mayıs Ayı Meclis Toplantısı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
