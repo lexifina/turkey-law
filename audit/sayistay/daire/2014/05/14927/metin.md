@@ -1,0 +1,3 @@
+Muafiyet olmasına rağmen … Belediyesine imar harcı ödenmesi.
+
+2547 sayılı Yüksek Öğretim Kanununun “Mali kolaylıklar” başlıklı 56 ncı maddesinin (b) bendinde yer alan  “Üniversiteler ve yüksek teknoloji enstitüleri genel bütçeye dahil kamu kurum ve kuruluşlarına tanınan mali muafiyetler, istisnalar ve diğer mali kolaylıklardan aynen yararlanırlar.” hükmü uyarınca, Üniversitece imar harcı ödenmesi söz konusu değilse de, yapılan ödemenin harç değil işlem ücreti olduğu anlaşıldığından, söz konusu işlemlerin yasal düzenlemelere uygun olduğuna ve sorgu konusu … TL için ilişik bulunmadığına oybirliğiyle,
