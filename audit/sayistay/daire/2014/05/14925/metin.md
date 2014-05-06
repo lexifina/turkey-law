@@ -1,0 +1,3 @@
+Hizmet alımı ihalesi suretiyle müteahhit (alt işveren) tarafından istihdam edilen çalışanların, ücret dışında kalan ve her somut olayda dava konusu edilen haklarına (kıdem, tazminatı, ihbar tazminatı, izin ücreti) ilişkin olarak yapılmış olan ödemeler için müteahhitlerine rücu edilmemesi.
+
+Açılan davalar sonunda, müteahhit tarafından istihdam edilen çalışanlara, Üniversitece asıl işveren olarak yapılmış ödemeler için ilgili müteahhitlere rücu işlemlerinin başlatıldığı anlaşıldığından, söz konusu işlemlerin yasal düzenlemelere uygun olduğuna ve sorgu konusu … TL için ilişik bulunmadığına oybirliğiyle,
