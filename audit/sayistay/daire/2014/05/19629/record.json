@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "104",
+  "decision_date": "2014-05-06",
+  "source_id": 19629,
+  "chamber": "6",
+  "ilam_number": "273",
+  "item_number": 23,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19629/",
+  "source_sha256": "d7f37cc5d2684de673b14ede18d569721f85dbd66c358ff38650f7cd228bd8a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
