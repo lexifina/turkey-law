@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "104",
+  "decision_date": "2014-05-06",
+  "source_id": 19667,
+  "chamber": "6",
+  "ilam_number": "273",
+  "item_number": 61,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19667/",
+  "source_sha256": "e47ea9309bb804fac1803a18e8c9f4701f468b118dad9356857d9af03cb4412b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
