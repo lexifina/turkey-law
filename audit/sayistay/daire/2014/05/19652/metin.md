@@ -1,0 +1,5 @@
+Doğrudan temin
+
+Belediyece muhtelif zamanlarda doğrudan temin yöntemiyle yapılan mal alımları işinde, teknik şartname düzenlenmediğinden gerek piyasa rayiç fiyatın tespitinde teklif sahibi firmalardan gerçekçi teklifler alınamamış ve dolayısıyla malın gerçekçi fiyattan alınmamış olması, gerekse de muayene ve kabul tutanağının gerçekçi düzenlenmemiş olması nedeniyle mevzuatına aykırı bir uygulamaya yol açıldığı iddialarına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Savunmalar gereği ...nolu ödeme belgeleri ekinde kurs eğitmeni tedariki işinde kurs eğitmeni alınması şartnamesinin teknik şartname niteliğinde olduğu,  sehven sözleşme başlığında “teknik şartname” ibaresinin kullanılmadığı, sorgu ile Denetçisince ilgili İdarenin uyarıldığı, İdaresince sorguda yer verilen açıklamalar doğrultusunda gerekli tedbirlerin alınacağı ve bundan sonraki harcamalarda kanunlara ve yönetmelik hükümlerine titizlikle uyulacağı anlaşıldığından mevzuatına uygun işlemler için ilişilecek husus bulunmadığına oybirliğiyle karar verildi.
