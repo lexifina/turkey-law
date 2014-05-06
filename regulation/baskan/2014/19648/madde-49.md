@@ -1,0 +1,2 @@
+Üzerinde ihale kalan isteklinin sözleşmeyi feshetmesi
+MADDE 49 – (1) Sözleşme yapıldıktan sonra mücbir sebep halleri dışında üzerinde ihale kalan isteklinin mali acz içinde bulunması nedeniyle taahhüdünü yerine getiremeyeceğini gerekçeleri ile birlikte yazılı olarak bildirmesi halinde, ayrıca protesto çekmeye gerek kalmaksızın kesin teminat ve varsa ek kesin teminatlar Kurula gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.

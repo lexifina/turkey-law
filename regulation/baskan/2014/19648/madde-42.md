@@ -1,0 +1,3 @@
+Satış komisyonlarına ilişkin genel esaslar
+MADDE 42 – (1) Kurulun satış ve benzeri işleri, Başkan tarafından bu amaçla oluşturulacak en az beş asil ve beş yedek üyeden oluşan satış ihale komisyonu tarafından yürütülür.
+(2) İhale komisyonları eksiksiz olarak toplanır. Komisyon kararları çoğunlukla alınır. Oyların eşit olması halinde başkanın bulunduğu taraf çoğunlukta kabul edilir. Kararlarda çekimser kalınamaz. Muhalif kalan üye karşı oy gerekçesine kararın altına yazarak imzalamak zorundadır. Komisyon başkan ve üyeleri, oy ve kararlarından sorumludurlar. Satış İhale Komisyonunun kararı yetkili merci onayı ile tamamlanır.

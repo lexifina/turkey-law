@@ -1,0 +1,3 @@
+Ön ödemelerin yıl sonunda mahsubu
+MADDE 29 – (1) Mutemetler, mali yılın sonunda avanslarda bir aylık, kredilerde üç aylık sürenin dolmasını beklemeksizin, mahsubunu yapmadıkları harcamalara ait belgeleri muhasebe birimine verip, artan tutarı iade ederek hesabını kapatmakla yükümlüdürler.
+(2) Mali yıl sonuna kadar kapatılmayan veya mahsup döneminde mahsup edileceği muhasebe birimine bildirilmeyen ön ödeme tutarı, yıl sonunda mutemet adına ilgili hesaba borç kaydedilerek ön ödeme hesabı kapatılır. Mutemet adına borç kaydedilen tutarlar hakkında 30/12/2006 tarihli ve 26392 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Merkezi Yönetim Muhasebe Yönetmeliğinde belirtildiği şekilde işlem yapılır.

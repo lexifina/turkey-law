@@ -1,0 +1,3 @@
+Ödeneklerin kullanılması
+MADDE 11 – (1) Bütçede yer alan ödeneklerin üzerinde harcama yapılamaz. Bütçeyle verilen ödenekler, tahsis edildikleri amaçlar doğrultusunda yılı içinde yaptırılan iş, satın alınan mal ve hizmetler ile diğer giderlerin karşılanmasında kullanılır. Ancak, ait oldukları mali yılda ödenemeyen ve emanet hesabına alınamayan zamanaşımına uğramamış geçen yıllar borçları ile ilama bağlı borçlar Kurulun cari yıl bütçesinden ödenir.
+(2) Cari yılda kullanılmayan ödenekler yılsonunda iptal edilir. Ancak cari yıl içinde kullanılmayan ödeneklerden bütçeye ilişkin Karar Organı tarafından alınacak kararda belirtilenler ertesi yıla devredilebilir. Ödenek devir işlemlerini yapmaya Başkan yetkilidir.

@@ -1,0 +1,3 @@
+Harcama talimatı ve sorumluluk
+MADDE 18 – (1) Bütçeden harcama yapılabilmesi, harcama yetkilisinin harcama talimatı vermesiyle mümkündür. Harcama talimatlarında hizmet gerekçesi, yapılacak işin konusu ve tutarı, süresi, kullanılabilir ödeneği, gerçekleştirme usulü ile gerçekleştirmeyle görevli olanlara ilişkin bilgiler yer alır.
+(2) Harcama yetkilisi, harcama talimatlarının bu Yönetmelikte yer alan ilke ve esaslara, kanun, tüzük ve yönetmelikler ile diğer mevzuata uygun olmasından, ödeneklerin etkili, ekonomik ve verimli kullanılmasından ve bu Yönetmelik çerçevesinde yapmaları gereken diğer işlemlerden sorumludur.

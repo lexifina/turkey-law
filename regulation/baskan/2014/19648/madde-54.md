@@ -1,0 +1,2 @@
+Teminatın geri verilmesi
+MADDE 54 – (1) Satış ihale komisyonunun kararına göre ilk üç sırayı alan istekliler hariç diğerlerine ait geçici teminatlar hemen, kazanan istekli dışındaki isteklilerin teminatları ihalenin onayından sonra, ihale yapılan isteklinin teminatı ise kesin teminatın alınmasından sonra geri verilir. Kesin teminat ise satış ve benzeri işe ait bedelin Kurula ödenmesinden veya isteklinin yükümlülüklerini yerine getirdiğinin Kurulca tespitinden sonra iade edilir.

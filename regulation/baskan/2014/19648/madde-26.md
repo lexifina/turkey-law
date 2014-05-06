@@ -1,0 +1,4 @@
+Ön ödemenin başka mutemede devri
+MADDE 26 – (1) Harcama yetkilisinin yazılı izniyle mutemet, üzerindeki avans veya adına açılan kredi tutarını başka bir mutemede devredebilir.
+(2) Avans şeklindeki ön ödemelerin başka bir mutemede devrinde para ve harcama belgelerinin mutemede teslim edildiğine ilişkin tutanak düzenlenir. Devreden mutemetçe tutanak ve harcama yetkilisinin yazılı izni muhasebe birimine ibraz edilerek, avans kaydının yeni mutemet adına yapılması sağlanır. Tutanağın birer nüshası devreden ve devralan mutemede verilir.
+(3) Kredi şeklindeki ön ödemelerin başka bir mutemede devrinde ise, harcama yetkilisinin yazılı izni muhasebe birimine verilerek, kredi kaydının yeni mutemet adına yapılması sağlanır. Banka nezdinde açılan kredilerin devrinde yeni mutemedin imza örneği ayrıca bankaya da gönderilir.

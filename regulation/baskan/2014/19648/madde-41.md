@@ -1,0 +1,2 @@
+Satış bedeli tahmini
+MADDE 41 – (1) Satış ve benzeri işlemlerde yapılacak işin niteliğine göre tahmin edilecek bedel, resmi daireler veya mesleki kuruluşlarca yayımlanan birim fiyatları veya listelerine, genel tarifelere, bilirkişilerin hesap veya tahminlerine, piyasa rayiçlerine veya ekspertiz raporlarına göre, gerektiğinde ilgili kuruluşlardan belge alınarak ve fiyatlar göz önünde tutularak hesaplanır ve saptanır.
