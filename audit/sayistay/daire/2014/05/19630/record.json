@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "104",
+  "decision_date": "2014-05-06",
+  "source_id": 19630,
+  "chamber": "6",
+  "ilam_number": "273",
+  "item_number": 24,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19630/",
+  "source_sha256": "6414380d5a7fa479fa71a2eb309f56bf0c91aada6ea7f3baba5bfca724482bec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
