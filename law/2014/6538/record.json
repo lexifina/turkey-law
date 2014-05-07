@@ -1,0 +1,61 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6538",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Somali Federal Cumhuriyeti Hükümeti Arasında Sağlık ve Tıp Bilimleri Alanlarında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2014-05-07",
+  "adopted_as_published": "07/05/2014",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "17.5.2014 No: 29003",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc098/kanuntbmmc098/kanuntbmmc09806538.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 98",
+  "committee_reports": [
+    {
+      "label": "TBMM 531 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c077/tbmm24077086ss0531.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 24,
+      "kayit_no": 803983,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Somali Federal Cumhuriyeti Hükümeti Arasında Sağlık ve Tıp Bilimleri Alanlarında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "07/05/2014",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc098/kanuntbmmc098/kanuntbmmc09806538.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 531 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c077/tbmm24077086ss0531.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 77,
+          "sitting": 86,
+          "sitting_date": "2014-05-07",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c077/tbmm24077086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c077/tbmm24077fih.pdf",
+          "pages": [
+            "90:98",
+            "147:162"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=414&v_gelecek_sayfa=201&v_kullanici_id=27483204",
+      "page_sha256": "4380c21e0b6af2b8aa338d073b223401a5c36c9d1591e526a24712c03a67c242"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4380c21e0b6af2b8aa338d073b223401a5c36c9d1591e526a24712c03a67c242",
+  "issuer": "TBMM",
+  "in_force": "2014-05-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 07/05/2014; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
