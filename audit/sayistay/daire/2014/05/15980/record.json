@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10335",
+  "decision_date": "2014-05-08",
+  "source_id": 15980,
+  "chamber": "1",
+  "ilam_number": "207",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15980/",
+  "source_sha256": "ab96c2c3e11d6da085671a059e05352af35612c7bcf739836ca53f475d370ac1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
