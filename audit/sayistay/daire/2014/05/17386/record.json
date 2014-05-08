@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10336",
+  "decision_date": "2014-05-08",
+  "source_id": 17386,
+  "chamber": "1",
+  "ilam_number": "215",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17386/",
+  "source_sha256": "5417bb160c0f0b13b0b133329a74e0976d1fb5e48a65ac73fbe85df89f867f81",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
