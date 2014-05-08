@@ -1,0 +1,19 @@
+İş Güvenliği Uzmanlığı Eğitim Programına katılım bedeli
+
+.............. Belediye Fen İşleri Müdürlüğü'nde çalışan muhtelif personelin İş Güvenliği Uzmanlığı Eğitim Programına katılım bedellerinin, 5393 sayılı Belediye Kanunu’nun Belediyelerin “Görev, Yetki ve Sorumlulukları” nı düzenleyen 14 ve 15 inci maddelerindeki sayılmış olan belediyelerin görev ve sorumluluğu kapsamına girmediği ve aynı Kanunun 60 ıncı maddesine göre de belediyelerin görevlerini yerine getirirken yapabileceği giderleri arasında sayılmadığı halde, Belediye Bütçesinden ödenmesi sonucu ............... TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+Belediyelerin “Görev, Yetki ve Sorumlulukları” 5393 sayılı Belediye Kanunu’nun 14 ve 15 inci maddelerinde düzenlenmiştir. Anılan madde hükümlerinde, mahalli müşterek nitelikte olmak şartıyla, belediyelerce yerine getirilmesi öngörülen görevler ve sorumluluklar ile belediyelerin yetkileri sayılmıştır. Yine Kanun’un 60 ıncı maddesinde belediyenin görevlerini yerine getirirken yapabileceği giderler tahdiden sayılmıştır.
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun 8 inci maddesinde;
+
+“Her türlü kamu kaynağının elde edilmesi ve kullanılmasında görevli ve yetkili olanlar, kaynakların etkili, ekonomik, verimli ve hukuka uygun olarak elde edilmesinden, kullanılmasından, muhasebeleştirilmesinden, raporlanmasından ve kötüye kullanılmaması için gerekli önlemlerin alınmasından sorumludur ve yetkili kılınmış mercilere hesap vermek zorundadır.” hükmü yer almaktadır.
+
+Aynı Kanun’un 3 üncü maddesinde kamu gideri ise;
+
+“Kanunlarına dayanılarak yaptırılan iş, alınan mal ve hizmet bedelleri, sosyal güvenlik katkı payları, iç ve dış borç faizleri, borçlanma genel giderleri, borçlanma araçlarının iskontolu satışından doğan farklar, ekonomik, malî ve sosyal transferler, verilen bağış ve yardımlar ile diğer giderleri” olarak tanımlanmıştır.
+
+Ayrıca, 6331 sayılı İş Sağlığı ve Güvenliği Kanununun 3/f maddesinde, “İş güvenliği Uzmanı” “Usul ve esasları yönetmelikle belirlenen, iş sağlığı ve güvenliği alanında görev yapmak üzere Bakanlıkça yetkilendirilmiş, iş güvenliği uzmanlığı belgesine sahip, Bakanlık ve ilgili kuruluşlarında çalışma hayatını denetleyen müfettişler ile mühendislik veya mimarlık eğitimi veren fakültelerin mezunları ile teknik eleman” olarak tanımlanmıştır.
+
+Denetçi iddiasında; yukarıdaki mevzuat hükümlerine göre, Belediye personelinin söz konusu İş Güvenliği Uzmanlığı Eğitim Programına katılmasını sağlamanın belediyelerin görevi olmadığı gibi eğitime katılan belediye personeline ilişkin eğitim katılım bedellerinin de belediye giderleri arasında da yer almadığı, 6331 sayılı İş Sağlığı ve Güvenliği Kanununun 3/f maddesindeki, “İş güvenliği Uzmanı” lığının tanımına bakıldığında da, bu tanımlama da, Eğitim Programına katılım bedellerinin Belediye bütçesinden karşılanabileceğine dair bir husus bulunmadığı, ve aynı zamanda da, bu eğitim bedellerinin, 5018 sayılı Kanunda tanımlandığı şekli ile kamu gideri olarak sayılamayacağı da ifade edilmek suretiyle söz konusu eğitim giderlerinin, Belediye bütçesinden değil ilgili personel tarafından karşılanması gerektiği ileri sürülmüş ise de;  6331 sayılı kanunun 17.maddesi’nde ki; “ (1) İşveren, çalışanların iş sağlığı ve güvenliği eğitimlerini almasını sağlar.” ifadesinden söz konusu eğitim bedellerinin, ilgili kurum tarafından, dolayısıyla da ......Belediyesi bütçesinden, ödenmesi gerektiği anlaşılmaktadır. Dolayısıyla, .....Belediyesi bütçesinden yapılan ödeme ile kamu zararına neden olunduğu iddiasına katılmak mümkün görünmemektedir. Yapılan ödeme mevzuata uygun olarak yapılan bir ödemedir.
+
+Bu itibarla, Fen İşleri Müdürlüğü'nde çalışan muhtelif personelin İş Güvenliği Uzmanlığı Eğitim Programına katılım bedellerinin belediye bütçesinden ödenmesinin mevzuatına uygun olduğu anlaşıldığından, ............. TL ile ilgili olarak ilişilecek husus bulunmadığına oybirliğiyle karar verildi.
