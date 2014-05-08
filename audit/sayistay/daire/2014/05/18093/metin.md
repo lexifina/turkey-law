@@ -1,0 +1,11 @@
+Eğitim Bedeli
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi ve duruşmada hazır bulunan sorumlunun açıklamalarının dinlenilmesi sonucunda;
+
+Denetçi tarafından, ...Belediyesi bünyesinde çalışan bazı personel için ödenen eğitim semineri bedellerinin İçişleri Bakanlığı’nca yayınlanan genelgelerdeki sınırları aşması sonucu kamu zararına neden olunduğunun iddia edildiği görülmüşse de;
+
+5393 sayılı Belediye Kanunu’nun “Belediyenin giderleri” başlıklı 60/b maddesi hükmü gereğince, belediyenin personeli ve belediyenin seçilmiş organlarının üyeleri için eğitim gideri gerçekleştirmesi kanunen mümkündür. Her ne kadar Denetçi sorgusunda esas alınan İçişleri Bakanlığı Mahalli İdareler Genel Müdürlüğü’nün Eğitim Faaliyetleri konulu 2007/26 No’lu Genelgesi ile 24.01.2008 tarihli yazılarında; dernek, vakıf, şirket ve benzeri kuruluşlarca düzenlenen eğitim ve benzeri hizmetlere mahalli idare personelinin katılımı ve bütçeden ödeme yapılabilmesi için, söz konusu faaliyeti düzenleyecek kurum ve kuruluşlar tarafından, önceden Bakanlıktan izin alınacağı ve Genelgede belirtilen katsayıların uygulanacağı belirtilmekte ise de, anılan Genelge’nin dayanağı olan 3152 sayılı İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanun’un “Mahalli İdareler Genel Müdürlüğü” başlıklı 11’inci maddesinde; Mahalli İdareler Genel Müdürlüğüne sadece mahalli idareler personelinin hizmet içi eğitimini ve uygulanmasını takip etme ve planlama yetkisi verilmekte olup bu yetkiye istinaden mahalli idarelere ilgili kanunlarla verilmiş bir harcama yetkisinin bu konuda açıkça düzenlenmiş başkaca bir kanuni düzenleme bulunmaksızın bir genelgeyle sınırlandırılması mümkün bulunmamaktadır.
+
+Bu itibarla, söz konusu hizmet içi eğitim giderleri için yapılan harcama nedeniyle ilişilecek husus bulunmadığına,
+
+(Üye ..ile Üye..’nun “İçişleri Bakanlığı Mahalli İdareler Genel Müdürlüğü’nün 21.02.2007 tarih ve 2007/26 Nolu Genelgesinde belediyelerin atanmış ve seçilmiş personeli için düzenlenen eğitim gideri için konaklama dahil günlük olarak memur maaş katsayısının 2500 rakamı ile çarpımı sonucu bulunacak tutarı geçmemek üzere ödeme yapılabileceği düzenlemesi bulunduğundan ...TL kamu zararının sorumlularına ödettirilmesi gerekir.” şeklindeki ayrışık görüşlerine karşı) oy çokluğuyla,
