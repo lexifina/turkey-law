@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "62",
+  "decision_date": "2014-05-08",
+  "source_id": 14423,
+  "chamber": "5",
+  "ilam_number": "247",
+  "item_number": 31,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14423/",
+  "source_sha256": "41e0b620ae916e1e9d6702cc15044cb2907275cfa0e8150ec90366857cc07d53",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
