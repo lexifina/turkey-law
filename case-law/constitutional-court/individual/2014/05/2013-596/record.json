@@ -1,0 +1,20 @@
+{
+  "applicant": "E.T.Y.İ. A.Ş.",
+  "application_date": "2013-01-18",
+  "application_number": "2013/596",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2014-05-08",
+  "id": "525a5fa6-c40d-3b7d-0906-6c8a43a4c927",
+  "in_force": "2014-05-08",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjUyNWE1ZmE2LWM0MGQtM2I3ZC0wOTA2LTZjOGE0M2E0YzkyNw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "01921649503823a4feec18b6368217f7b7e82959e63ff6364c1cedd570b6d94a",
+  "version_label": "as-enacted"
+}
