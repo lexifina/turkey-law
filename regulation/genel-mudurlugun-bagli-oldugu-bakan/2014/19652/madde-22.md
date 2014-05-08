@@ -1,0 +1,3 @@
+Tez danışmanı
+MADDE 22 – (1) Uzmanlık tezinin hazırlanması sürecinde, uzman yardımcısına rehberlik etmek ve tezin bilimsel tez yazım usûl ve esaslarına, seçilen konunun niteliğine, Genel Müdürlüğün görev alanı ile ilgili hususlara ve onaylanan tez projesine uygunluğunu temin etmek maksadıyla bir danışman belirlenir. Danışman, uzman yardımcısına tez hazırlama sürecinde yardımcı olmak maksadıyla tavsiyelerde bulunur.
+(2) Daire başkanı, uzmanlar ile Genel Müdürlük veya diğer kamu kurum ve kuruluşlarında görev yapan ve daha önce lisansüstü programlarda akademik çalışma yapmış, konusunda uzman kamu görevlileri tez danışmanı olarak belirlenir. Gerektiğinde üniversitede görevli öğretim üyelerinden de danışman belirlenebilir.

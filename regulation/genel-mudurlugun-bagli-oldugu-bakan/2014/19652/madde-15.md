@@ -1,0 +1,2 @@
+Uzman yardımcılığına atama
+MADDE 15 – (1) Adayların uzman yardımcılığına atanmaları başarı derecesi sıralamasına göre yapılır. Sınavda başarılı olup göreve başlamayanların veya ataması yapıldığı halde göreve başlamayan ya da göreve başlayıp da herhangi bir sebeple görevden ayrılanların yerine, yeni bir sınav yapılana kadar ve her halükârda sınav tarihinden itibaren en geç iki yıl içinde, yarışma sınavı başarı sırası dikkate alınarak yedek listeden atama yapılabilir.

@@ -1,0 +1,7 @@
+Yazılı sınav
+MADDE 9 – (1) Yarışma sınavının yazılı ve sözlü olarak yapılması halinde yazılı sınav klasik veya test usulünde ve Genel Müdürlük veya diğer kamu kurum ve kuruluşları, ya da ÖSYM tarafından yapılır.
+(2) Yazılı sınavın Genel Müdürlükçe yapılması halinde, sınav soruları sınav kurulu tarafından hazırlanır veya hazırlattırılır. Meslekî bilgi soruları, sınav ilânında belirtilen öğrenim dalları itibarıyla ayrı ayrı düzenlenir, üyelerce imzalanarak mühürlü zarf içinde sınav kurulu başkanına teslim edilir.
+(3) Yarışma sınavı, Genel Müdürlükçe yapıldığı takdirde; sınavda isim yeri kapalı özel cevap kâğıtları kullanılır. Genel Müdürlükçe görevlendirilecek yeterli sayıda salon başkanı ve gözetmenin gözetimi ve denetimi altında sınav kurulu tarafından yapılır. Sınav başlamadan önce sınav kurulunca, adayların kimliklerinin kontrol edildiği, soru zarfının sağlam, kapalı ve mühürlü olduğu hususunda tutanak düzenlenir. Sınav kuralları açıklandıktan sonra kapalı soru zarfı adayların önünde açılarak soru kitapçıkları adaylara dağıtılır.
+(4) Sınavın başlama ve bitiş saati, kaç adayın katıldığı, her adayın kullandığı cevap kâğıdı adedini gösteren tutanak düzenlenir. Toplanan cevap kâğıtları ve tutanaklar zarf içine konularak kapatılıp mühürlendikten sonra sınav kurulu başkanına teslim edilir.
+(5) Sınavda düzenlenen tutanaklar salon başkanı ve gözetmenlerce de imzalanır.
+(6) Sınavın Genel Müdürlük dışındaki bir kuruluşa yaptırılmasına karar verildiği takdirde, sınava ilişkin hususlar, Genel Müdürlük ve ilgili kuruluş arasında protokol ile belirlenir.
