@@ -34,3 +34,6 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 6486 | 60, 61, 72, 73, Geçici Madde 49, Geçici Madde 50 81/i 81/2-4-5 | 29/5/2013 1/6/2013 1/1/2013 tarihinden geçerli olmak üzere 29/5/2013
 6494 | 60 | 7/7/2013
 6495 | 4, 66, GEÇİCİ MADDE 51 5, 47, GEÇİCİ MADDE 14, GEÇİCİ MADDE 52 | 2/8/2013 Ağustos 2013 ödeme döneminden geçerli olmak üzere 1/1/2014
+6518 | 63 | 19/2/2014
+Anayasa Mahkemesi’nin 28/11/2013 tarihli ve E.: 2013/40, K.: 2013/139 sayılı Kararı | 102 | 9/5/2014
+Anayasa Mahkemesi’nin 29/1/2014 tarihli ve E.: 2013/126, K.: 2014/17 sayılı Kararı | GEÇİCİ MADDE 36 | 9/5/2014
