@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-05-10",
+  "issue": "28996",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2014/6228 Çevre ve Şehircilik Bakanlığı Tarafından 4734 Sayılı Kamu İhale Kanununun 3 üncü Maddesinin (f) Bendi Kapsamında Yapılacak İhalelere İlişkin Esasların Yürürlüğe Konulması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140510-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140510.htm",
+  "index_sha256": "4bf02e7c5f27c4bed62d1978e5b677c74b6206102ecb9d7f72aa20445f7c320a",
+  "index_header": "10 Mayıs 2014 ... 28996 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140510.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
