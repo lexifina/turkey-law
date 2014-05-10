@@ -1,0 +1,4 @@
+İzleme Kurulu Başkan ve Üyelerinin Yükümlülükleri
+Madde 11 — İzleme kurulu başkan ve üyeleri, ziyaret ve çalışmalarında kurum güvenliğinin ve hizmetlerinin aksamamasına, kurum personeli ve hükümlü ve tutuklularla görev sınırlarını aşacak şekilde konuşma veya tartışma ortamı yaratılmamasına dikkat ve özen göstermekle yükümlüdürler.
+İzleme kurulu üyeleri, görevleri sırasında edindikleri bilgileri ve düzenlenen raporları, konunun özelliğine göre Bakanlığın veya ilgili Cumhuriyet başsavcılığının izni olmaksızın açıklayamazlar.
+(Ek fıkra:RG-10/5/2014-28996) Adalet Bakanlığı, cezaevi güvenliğine ilişkin hususlar müstesna olmak üzere, her yıl bir önceki yıla ait izleme kurullarınca düzenlenen raporların sayısını, konularını, yerine getirilen ve getirilmeyen önerileri ve gerekçelerini bir rapor ile kamuoyuna açıklar.

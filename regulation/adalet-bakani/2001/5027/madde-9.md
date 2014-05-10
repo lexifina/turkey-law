@@ -1,0 +1,2 @@
+Raporlar
+Madde 9 — (Değişik fıkra:RG-10/5/2014-28996) İzleme kurulu, kurumla ilgili tespitlerini ve aldığı bilgileri değerlendirerek en az dört ayda bir defa olmak üzere, düşünce ve önerilerini de içeren bir rapor düzenler. Raporun bir örneğini Adalet Bakanlığına, Türkiye Büyük Millet Meclisi İnsan Hakları İnceleme Komisyonu Başkanlığına, izleme kurulunun bulunduğu yargı çevresindeki Cumhuriyet başsavcılığına ve görev alanına giren bir şikayet konusu bulunduğu takdirde infaz hakimliğine gönderir.

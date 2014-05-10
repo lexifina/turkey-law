@@ -1,0 +1,6 @@
+Üyelerin Seçimi ve Andiçmesi
+Madde 5 — İzleme kurulu üyeleri, Kanunun 3 ve 4 üncü maddelerinde yazılı şartlara durumları uygun olan kişilerden refsen veya o yerdeki ilgili kamu kurumu niteliğindeki meslek kuruluşlarının görüşleri alınarak ya da o yerin en büyük mülkî âmirinin yardımıyla belirlenecek olanlar ile doğrudan başvuranlar arasından adalet komisyonunca oybirliğiyle seçilirler. Üye adaylarının doğrudan başvurularını sağlamak amacıyla adliye divanhanesi, yerel gazeteler ve benzeri mutat vasıtalarla ilân yapılabilir. İlânın şeklini adalet komisyonu belirler.
+(Ek fıkra:RG-10/5/2014-28996)(1) Adalet Bakanlığı merkez ve taşra teşkilatında görev yapan kişiler bu kurullara seçilemezler.
+Adalet komisyonu, üye adaylarının gerekli nitelikleri taşıyıp taşımadıklarına ilişkin her türlü araştırmayı yapar, bilgi ve belgeyi toplar. Üye adayları, adalet komisyonunun belirlediği süre içinde istenen bilgi ve belgeleri komisyona vermekle yükümlü olup; süresi içinde vermeyenler başvurularından vazgeçmiş sayılırlar.
+Üyeler, göreve başlamadan önce Kanunun 5 inci maddesinde gösterilen şekilde ilgili adalet komisyonunun önünde andiçerler.
+Andiçme tutanağı ile başvuru sırasında verilen bilgi ve belgeler her üyenin dosyasında saklanır.
