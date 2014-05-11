@@ -1,0 +1,3 @@
+Müdür ve Müdür Yardımcıları
+MADDE 8 – (1) Müdür; Fen ve Mühendislik alanında çalışan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilir. Süresi dolan Müdür yeniden görevlendirilebilir. Müdürün altı aydan daha fazla süreyle görevi başında bulunmaması durumunda görevi sona erer. Süresi dolmadan görevinden ayrılan Müdürün yerine Rektör aynı yöntemle yeniden görevlendirme yapar. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesinden ve geliştirilmesinden sorumludur.
+(2) Müdürün teklifi üzerine Rektör tarafından iki Müdür Yardımcısı görevlendirilebilir. Müdürün görevi sona erdiğinde Müdür Yardımcılarının da görevleri sona erer.

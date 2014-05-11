@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+MADDE 12 – (1) Danışma Kurulu, Yönetim Kurulu tarafından önerilen ve Rektör tarafından görevlendirilen, Laboratuvarın amaçları doğrultusunda çalışma yapan, bilimsel ve teknolojik araştırma ve uygulamalarla doğrudan ilgisi olan kişilerden olmak üzere en az on bir, en çok on beş kişiden oluşur. Müdür ve Müdür Yardımcıları Danışma Kurulunun doğal üyeleridir.
+(2) Danışma Kurulu üyelerinin görev süresi iki yıldır. Süresi biten üye yeniden görevlendirilebilir. Danışma Kurulu; Laboratuvarın çalışmalarını değerlendirir ve yeni çalışmalar konusunda görüş ve önerilerini Yönetim Kuruluna bildirir. Danışma Kuruluna Müdür başkanlık eder ve yılda en az bir kez Müdürün çağrısı ile toplanır.
