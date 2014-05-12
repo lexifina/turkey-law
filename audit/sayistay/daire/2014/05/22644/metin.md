@@ -1,0 +1,13 @@
+Fiyat Tespiti
+
+...... Müdürlüğü ile Yüklenici ......Ltd. Şti. arasında yapılan ......TL birim fiyatlı  16 adet Araç Kiralama Hizmet Alımı işinde ; ihale konusu 4×4 araçların şehir içinde kullanılamadığı gerekçesiyle yerine istenen 3 adet binek araç ve iş artışı ile ilave kiralanan 1 adet binek araç için yeni fiyat tespiti yapılmayıp, hakediş ödemelerinin 4×4 üzerinden gerçekleştirilmesi sonucu firmaya fazladan .......TL ödenerek kamu zararına sebebiyet verildiği konusuyla ilgili olarak;
+
+........ Ltd. Şti. arasındaki  ......TL bedelli 210 günlük 16 adet araç alımı işinde, ihale konusu 16 araçtan 3 adet 4×4 Pick-up aracın şehir içinde kullanılamadığı gerekçesiyle firmaca yerine 2 adet kapalı kasa camlı kamyonet (Partner) ile 1 adet sedan binek araç (Fiat Linea) tahsis edilmiştir. Ayrıca, ......tarihinde iş artışına gidilerek 1 adet daha binek sedan binek araç (Jetta) çalıştırılmaya başlanmıştır.  Bahse konu ihalenin yaklaşık maliyeti ve yüklenici firmanın vermiş olduğu teklif, yüksek bedelli 4×4 Pick-up araç fiyatına göre belirlendiğinden bu araçla birlikte diğer  3 adet araç için  hakediş ödemeleri 4×4 Pick- up  araç kiralanacağı varsayılan birim fiyatlı sözleşme üzerinden  yapılmış, dolayısı ile yüklenici lehine bir fiyat farkı oluşmuştur. Yüklenici lehine olan bu fiyat farkının giderilmesi için fiilen kullanılan binek araçlar için yeni birim fiyat belirlenmelidir.
+
+Bununla beraber iş artışı  yolu ile tahsisi yapılan 1 adet binek araç için de Hizmet işleri Genel Şartnamesinin “Yeni birim fiyat tespiti” ile ilgili maddesinin uygulanması gerekir.
+
+	İdare ile yüklenici arasında akdedilen .......TL bedelli 16 adet araç kiralanması hizmet alım sözleşmesi kapsamında çalışması gereken 3 adet 4×4 aracın Ankara ili içinde kullanılamadığı gerekçesiyle yerine tahsis edilen 2 adet partner ve 1 adet sedan binek araç ile iş artışı ile kiralanan 1 adet binek sedan araç için yeni birim fiyat üzerinden ödeme yapılması gerekirken, daha yüksek fiyat üzerinden (4×4 Pick-up araç bedeli üzerinden) ödemede bulunulması sonucu .......TL kamu zararı oluşmuştur.
+
+Ancak, sebep olunan ......TL kamu zararının tahsil edildiği sorumlularca bildirilmiştir.
+
+Bu itibarla, 3 adet 4×4 aracın Ankara ili içinde kullanılamadığı gerekçesiyle yerine tahsis edilen 2 adet partner ve 1 adet sedan binek araç ile iş artışı ile kiralanan 1 adet binek sedan araç için yeni birim fiyat üzerinden ödeme yapılması gerekirken, daha yüksek fiyat üzerinden (4×4 Pick-up araç bedeli üzerinden) ödemede bulunulması sonucu oluşan ......TL tutarındaki kamu zararının .....TL’sinin ......belgeleri ile olmak üzere toplam ......TL olarak tahsil edildiğinden konu hakkında ilişilecek husus kalmadığına oy birliğiyle karar verildi.
