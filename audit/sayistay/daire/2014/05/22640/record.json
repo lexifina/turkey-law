@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "19",
+  "decision_date": "2014-05-12",
+  "source_id": 22640,
+  "chamber": "7",
+  "ilam_number": "241",
+  "item_number": 14,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22640/",
+  "source_sha256": "63ee917e784e66a69c04ea73489c2aeaca5cfa508b553f6efd3ce3a5ea78a220",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
