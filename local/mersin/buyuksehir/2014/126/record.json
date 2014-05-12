@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "126",
+  "decision_date": "2014-05-12",
+  "title": "(Mezitli Belediye Meclisinin 07_02.2014 tarih",
+  "listed_as": "126 (Mezitli Belediye Meclisinin 07_02.2014 tarih",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/126-mezitli-belediye-meclisinin-07-02-2014-tarih-ve-18-sayili-meclis-karari-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk90--12-mayis-2014-meclis-kararlari",
+  "listing_sha256": "930ad9c794b6ebcc545cf136056c7a2a3519c319d6d471bfb70495da3f08f64d",
+  "meeting_title": "MK90- 12 MAYIS 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
