@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "19",
+  "decision_date": "2014-05-12",
+  "source_id": 22631,
+  "chamber": "7",
+  "ilam_number": "241",
+  "item_number": 5,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22631/",
+  "source_sha256": "76b769d400aec72065b82eaa81aade87d28c8d6597d4a3d4b8374654a0c95390",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
