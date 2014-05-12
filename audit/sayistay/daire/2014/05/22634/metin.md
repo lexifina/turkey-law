@@ -1,0 +1,9 @@
+.....tarihinde .....TL sözleşme bedeli ile ......İŞ ORTAKLIĞI’ na ihale edilen T.......Tanıtım Merkezi Yapım işinde; damga vergisi istisna belgesinin karşılamadığı .......TL tutarlı iş için 488 s. Damga Vergisi Kanunu gereğince damga vergisi kesilmemesi konusuyla ilgili olarak;
+
+Yüklenici .......İş Ortaklığının ilgili iş için aldığı damga vergisi muafiyet tutarının .......TL olduğu, ancak 2012 sonu itibariyle düzenlenen 16 no.lu hakediş itibariyle yüklenici firmaya yapılan ödeme tutarının ......TL olduğu görülmüştür. .......Müdürlüğünün ilgili yüklenici için verdiği 446 no.lu Vergi Resim ve Harç İstisna Belgesinin karşılamadığı ......TL tutarlı kısım için 488 s. Damga Vergisi Kanuna Ekli 1 sayılı Tablonun 1.A Belli parayı ihtiva eden kâğıtlar bölümünün ‘mukavelenameler’ maddesi gereğince bindi 8,25; lV. Makbuzlar ve diğer kağıtlar bölümündeki ‘düzenlenen kağıtlar’ maddesi gereğince binde 8,25 damga vergisi alınması gerekmektedir.
+
+Damga vergisi istisna belgesinin karşılamadığı 2012 yılında ödenen .......TL tutarlı iş için 488 s. Damga Vergisi Kanunu gereğince kesilmesi gerekirken verginin kesilmemesi sonucu sebebiyet verilen ......TL tutarlı kamu zararının sorumlularına ödettirilmesi gerekmektedir.
+
+Ancak, söz konusu kesintinin yapılmamasından kaynaklanan ...... TL tutarındaki kamu zararının sorgu üzerine tahsil edildiği sorumlularca bildirilmiştir.
+
+Bu itibarla, damga vergisi istisna belgesinin karşılamadığı 2012 yılında ödenen ......TL tutarlı iş için 488. Sayılı Damga Vergisi Kanunu gereğince damga vergisi kesilmesi gerekirken sehven kesilmeyen .....TL damga vergisi tutarının, ahizi tarafından, aşağıdaki tabloda ayrıntısı gösterilen şeklide, cezası ile birlikte ......Vergi Dairesine yatırılmak suretiyle tahsil edildiğinden konu hakkında ilişilecek husus kalmadığına oy birliğiyle karar verildi.
