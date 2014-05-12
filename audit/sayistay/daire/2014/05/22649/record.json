@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "19",
+  "decision_date": "2014-05-12",
+  "source_id": 22649,
+  "chamber": "7",
+  "ilam_number": "241",
+  "item_number": 23,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22649/",
+  "source_sha256": "aa6643bb4def9bcbb834ddca8a3f388d742bcc50426c38853b413f450c06ee7d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
