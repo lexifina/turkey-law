@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "107",
+  "decision_date": "2014-05-13",
+  "source_id": 18530,
+  "chamber": "6",
+  "ilam_number": "258",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18530/",
+  "source_sha256": "a9a4413e3b2ecf94560347213060816c8ed299b64969da9be776e1088d2ecf2c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
