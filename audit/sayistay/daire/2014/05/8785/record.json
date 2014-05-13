@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "108",
+  "decision_date": "2014-05-13",
+  "source_id": 8785,
+  "chamber": "6",
+  "ilam_number": "251",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8785/",
+  "source_sha256": "dd52f7b6f951cc3528bb460e76954a51284107c41b979369cb7315b412a7e67b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
