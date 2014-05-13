@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "21",
+  "decision_date": "2014-05-13",
+  "source_id": 8623,
+  "chamber": "7",
+  "ilam_number": "194",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8623/",
+  "source_sha256": "85bfecdbe8e9b2d5282c89aafd6f6e11182a520625d44aa3a69345d1096f96d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
