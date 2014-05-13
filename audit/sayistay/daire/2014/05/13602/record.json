@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "64",
+  "decision_date": "2014-05-13",
+  "source_id": 13602,
+  "chamber": "5",
+  "ilam_number": "229",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13602/",
+  "source_sha256": "55b141bb7e4285587edc09971e7b6ba8aeb115bb89f5867dd2380a654ce58053",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
