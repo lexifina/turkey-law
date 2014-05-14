@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-05-14",
+  "issue": "29000",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Lisanslı Yediemin Depoları Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140514-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140514.htm",
+  "index_sha256": "7d4a6ad059df845dd3d7914daa98acca70ec53683135aa5ee294ec5857b5ea86",
+  "index_header": "14 Mayıs 2014 ... 29000 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140514.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
