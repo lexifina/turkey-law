@@ -1,5 +1,5 @@
 Genel Sekreter ve genel sekreter yardımcılarının atanması, görev ve yetkileri
-MADDE 11 – (1) Genel Sekreter birinci sınıf hâkim ve savcılardan, Genel Kurulun, muvafakatlerini alarak teklif ettiği üç aday arasından Başkan tarafından atanır. (Değişik ikinci cümle : 15/2/2014-6524/28 md.) Genel Sekreter adaylarının belirleneceği toplantıya Başkan katılamaz ve yapılacak seçimde her bir Kurul üyesi ancak bir adaya oy verebilir. Seçime ilişkin ilk toplantıda toplantı veya karar yeter sayısının sağlanamaması hâlinde üç gün içinde ikinci toplantı yapılır. Bu toplantıya katılanların en çok oyunu alan üç aday teklif edilmiş sayılır. (3)
+MADDE 11 – (1) Genel Sekreter birinci sınıf hâkim ve savcılardan, Genel Kurulun, muvafakatlerini alarak teklif ettiği üç aday arasından Başkan tarafından atanır. (Değişik ikinci cümle : 15/2/2014-6524/28 md.) Genel Sekreter adaylarının belirleneceği toplantıya Başkan katılamaz ve yapılacak seçimde her bir Kurul üyesi ancak bir adaya oy verebilir. (İptal üçüncü ve dördüncü cümleler: Anayasa Mahkemesi’nin 10/4/2014 tarihli ve E.: 2014/57, K.: 2014/81 sayılı Kararı ile. ) (3)
 (2) Genel Sekreter;
 a) Görevini mevzuata, Kurul stratejik plânına, performans ölçütlerine ve hizmet kalite standartlarına uygun olarak yürütür.
 b) Genel Sekreterliğin verimli, uyumlu ve düzenli bir şekilde çalışmasını sağlar.

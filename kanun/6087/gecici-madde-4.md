@@ -8,4 +8,4 @@ GEÇİCİ MADDE 4 ‒(Ek: 15/2/2014-6524/39 md.)
 a) Genelgelerin tümü bu Kanunun yürürlüğe girdiği tarihte yürürlükten kalkar.
 b) Yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
 (7) Kurul idari personeli için yapılacak atamalarda 2014 yılı Merkezi Yönetim Bütçe Kanununda yer alan sınırlamalar uygulanmaz.
-(8) Bu Kanunun yürürlüğe girdiği tarihten itibaren beş yıl içinde, adli ve idari yargı hâkim ve savcıları arasından yapılacak Kurul üyeliği seçimlerinde, adayların hâkimlik ve savcılık mesleğinde yirmi yıl çalışmış olmaları şartı aranır.
+(8) (İptal:Anayasa Mahkemesi’nin 10/4/2014 tarihli ve E.: 2014/57, K.: 2014/81 sayılı Kararı ile.) (1)
