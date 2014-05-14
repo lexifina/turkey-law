@@ -1,12 +1,16 @@
 Genel Sekreter ve genel sekreter yardımcılarının atanması, görev ve yetkileri
-MADDE 11 – (1) Genel Sekreter birinci sınıf hâkim ve savcılardan, Genel Kurulun, muvafakatlerini alarak teklif ettiği üç aday arasından Başkan tarafından atanır. Başkanın katılamayacağı ve her bir Kurul üyesinin en fazla üç adaya oy verebileceği Genel Sekreter adaylarının belirleneceği seçimde, en çok oyu alan üç aday teklif edilmiş sayılır.
+MADDE 11 – (1) Genel Sekreter birinci sınıf hâkim ve savcılardan, Genel Kurulun, muvafakatlerini alarak teklif ettiği üç aday arasından Başkan tarafından atanır. (Değişik ikinci cümle : 15/2/2014-6524/28 md.) Genel Sekreter adaylarının belirleneceği toplantıya Başkan katılamaz ve yapılacak seçimde her bir Kurul üyesi ancak bir adaya oy verebilir. Seçime ilişkin ilk toplantıda toplantı veya karar yeter sayısının sağlanamaması hâlinde üç gün içinde ikinci toplantı yapılır. Bu toplantıya katılanların en çok oyunu alan üç aday teklif edilmiş sayılır. (3)
 (2) Genel Sekreter;
 a) Görevini mevzuata, Kurul stratejik plânına, performans ölçütlerine ve hizmet kalite standartlarına uygun olarak yürütür.
 b) Genel Sekreterliğin verimli, uyumlu ve düzenli bir şekilde çalışmasını sağlar.
 (3) Genel Sekretere, yokluğunda kendisinin belirleyeceği genel sekreter yardımcısı vekâlet eder.
+___________________
+(1)15/2/2014 tarihli ve 6524 sayılı Kanunun 26 ncı maddesiyle bu bentte yer alan “soruşturma işlemleri” ibaresinden sonra gelmek üzere “ile inceleme ve soruşturma yapılmasına yer olmadığına ilişkin işlemler” ibaresi eklenmiştir.
+(2) 15/2/2014 tarihli ve 6524 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “dört” ibaresi “biri idari yargı hâkim ve savcıları arasından seçilecek beş” şeklinde değiştirilmiştir.
+(3) Bu fıkranın üçüncü ve dördüncü cümleleri, Anayasa Mahkemesi’nin 10/4/2014 tarihli ve E.: 2014/57, K.: 2014/81 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 14/5/2014 tarihinden başlayarak üç ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
 10691
-(4) Genel sekreter yardımcıları, birinci sınıfa ayrılmış hâkim ve savcılar arasından, muvafakatleri alınarak, Genel Kurul tarafından atanır.
+(4) Genel sekreter yardımcıları, birinci sınıfa ayrılmış hâkim ve savcılar arasından, muvafakatleri alınarak, Başkan tarafından atanır.(1)
 (5) Genel sekreter yardımcıları;
-a) Genel Sekreter tarafından belirlenen işbölümüne göre çalışır.
+a) (Değişik: 15/2/2014-6524/28 md.) Genel Sekreterce hazırlanıp Başkan tarafından onaylanan iş bölümüne göre çalışır.
 b) Kendilerine bağlı büroların verimli, uyumlu ve düzenli bir şekilde çalışmasını sağlar.
-c) İlgisine göre daire başkanı ve Genel Sekreter tarafından verilen görevleri yerine getirir.
+c) (…)(2) Genel Sekreter tarafından verilen görevleri yerine getirir. (2)
