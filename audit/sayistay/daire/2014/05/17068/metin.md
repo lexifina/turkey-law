@@ -1,0 +1,11 @@
+Gecikme zammı
+
+Mahalli İdareler Bütçe ve Muhasebe Yönetmeliğinin 112 nci maddesinin üçüncü fıkrasında; “Her mutemet aldığı avanstan harcadığı tutarlara ilişkin kanıtlayıcı belgeleri avansın verildiği tarihten itibaren en çok bir ay içinde vermek ve artan parayı iade etmekle yükümlüdür. Mutemet işin tamamlanmasından sonra, bir aylık sürenin bitimini beklemeksizin avans artığını iade etmek ve hesabını kapatmak zorundadır. Mutemet mali yılın sonunda bir aylık sürenin dolmasını beklemeksizin, henüz mahsubunu yaptırmadığı harcamalara ait belgeleri vermek artan parayı yatırmakla yükümlüdür.
+
+Yukarıda açıklandığı şekilde mahsup edilmeyen mutemet avansları ve iade edilmeyen avans artığı mutemet adına 140-Kişilerden Alacaklar Hesabına alınarak durum mutemedin bağlı olduğu daireye bildirilir ve bu mutemede varsa gecikme zammı dahil avansın mahsubu yapılıncaya kadar bir daha avans verilmez veya adına kredi açılmaz. Mutemet hakkında 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uyarınca işlem yapılır. Bu şekilde 140-Kişilerden Alacaklar Hesabına alının tutarlara ait olarak, avansın mahsup süresi içinde düzenlenmiş olan mahsup evrakının sonradan teslim edilmesi durumunda, avans mahsup edilmekle birlikte, avansın mahsup veya iade edilmesi gerektiği tarihten itibaren hesaplanacak gecikme zammı mutemetten tahsil edilir.” denilmektedir.
+
+Yukarda açıklanan hükümlerden de anlaşılacağı üzere,  adına avans açılmış bulunan mutemedin mali yılın sonunda aldığı avansı mahsup etmesi, mahsup edilmeyen avansların ve iade edilmeyen avans artığının mutemet adına 140- Kişilerden Alacaklar Hesabına alınması ve avansın mahsup veya iade edilmesi gerektiği tarihten itibaren gecikme zammı hesaplanıp, mutemetten tahsil edilmesi gerekmektedir.
+
+Sorumluların savunmalarından, söz konusu avansın kapatıldığı ve avans mahsup işleminin zamanında yapılmaması sebebiyle hesaplanan gecikme zammının tahsil edildiği görülmüştür.
+
+Bu itibarla, … İlçe Özel İdare Müdürlüğünce, İlçe Milli Eğitim Müdürlüğüne DMO için verilen avansın süresi içinde mahsubunun yapılması nedeniyle gecikme zammı hesaplanmaması sonucu oluşan toplam … TL kamu zararının sorumlulara ortaklaşa ve zincirleme olarak ödettirilmesine karar verilmesi gerekmekte ise de, bahsi geçen kamu zararının tamamının tahsil edilmiş olduğu anlaşıldığından ilişik kalmadığına oy birliğiyle,
