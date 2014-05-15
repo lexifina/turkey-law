@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10338",
+  "decision_date": "2014-05-15",
+  "source_id": 8688,
+  "chamber": "1",
+  "ilam_number": "214",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8688/",
+  "source_sha256": "9ebbcd0ff5ee0005c665d30e75fca735c49041f307d6e5660478d2a165e87e1d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
