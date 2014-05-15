@@ -1,0 +1,11 @@
+Eğlence Vergisi
+
+Denetçi sorgusunda yer alan; .............. Büyükşehir Belediyesi Çevre Koruma Daire Başkanlığınca 2012 yılında eğlence yeri işletme ruhsatı verilen bir kısım işletmelerden, bu yerler Eğlence Vergisine tabi olduğu halde, alınması gereken eğlence vergisinin tarh, tahakkuk ve tahsilat işlemlerinin yapılmaması sonucu toplam ……. TL kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi ve yapılan duruşmada hazır bulunan Muhasebe Yetkilisi (Mali Hizmetler Daire Başkanı) ...........tarafından yapılan sözlü savunmanın dinlenmesi sonucunda;
+
+2464 sayılı Belediye Gelirleri Kanunu’nun 17’nci maddesinde, bu Kanun’un 21’inci maddesinde sayılan ve belediye sınırları ile mücavir alanlar içinde yer alan eğlence işletmelerinin faaliyetlerinin eğlence vergisine tabi olduğu hükme bağlanmış, Kanun’un eğlence vergisinin nispet ve miktarını gösteren 21’inci maddesinde ise eğlence vergisine tabi yerler biletle girilmesi zorunlu olan ve olmayan yerler şeklinde ikiye ayrılmıştır. Aynı Kanun’un verginin matrahını belirleyen 20’inci maddesinde ise, biletle girilmesi zorunlu olmayan yerler;“bar, pavyon, gazino, gece kulübü, taverna, diskotek, kabare, dansing, bilardo ve masa futbolu salonları gibi eğlence yerleri” şeklinde tarif edilmiştir.
+
+Anılan hükümler uyarınca, biletle girilmesi zorunlu olmayan eğlence yerlerinden; bar, pavyon, gazino, gece kulübü, taverna gibi alkollü içki içilen müzikli eğlence yerlerinin eğlence vergisi mükellefi olarak belirlendikleri anlaşılmaktadır. Dolayısıyla, “İçkili Lokanta” ruhsatı verilen ve müzikli eğlence hizmeti sunmadıklarından “eğlence yeri” niteliğinden ziyade “lokanta” vasfı öne çıkan yerlerin eğlence vergisine tabi tutulmadıkları anlaşılmaktadır.
+
+Bahse konu olayda ise, kendilerinden eğlence vergisi tahsil edilmediği gerekçesiyle Denetçi sorgusuna konu edilen yerlerin tamamının “İçkili Lokanta” ruhsatına sahip oldukları ve dolayısıyla bu yerlerden eğlence vergisi tahsil edilmemesinde ilgili mevzuat hükümlerine aykırılık bulunmadığı anlaşılmıştır.
+
+Bu itibarla, Denetçi sorgusuyla bahse konu işletmelerden eğlence vergisi tahsil edilmemesi nedeniyle kamu zararı olarak hesap edilen …… TL için, bu yerlerin eğlence vergisine tabi olmadıkları değerlendirildiğinden, ilişilecek husus bulunmadığına oy çokluğuyla karar verildi.
