@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "147",
+  "decision_date": "2014-05-15",
+  "title": "TOROSLAR 50 SAYILI",
+  "listed_as": "147 TOROSLAR 50 SAYILI",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/147-toroslar-50-sayili",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk89--15-mayis-2014-meclis-kararlari",
+  "listing_sha256": "26fc652012d8a7a0a92d1053ca5ed020cbdf6354135e4dec2518ac53392e6c78",
+  "meeting_title": "MK89- 15 MAYIS 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
