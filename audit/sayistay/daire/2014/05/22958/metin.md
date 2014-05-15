@@ -1,0 +1,9 @@
+Sayıştay İlamlarının Tahsil Edilmemesi
+
+Denetçi sorgusunda yer alan; .............. Büyükşehir Belediyesinin 1993,1999 ve 2001 yılı hesap ve işlemlerinin Sayıştay’ca yargılanması sonucu düzenlenen ilamlarda sorumlular adına tazmin hükmolunan ve kesinleşen toplam …….. TL’nin sorumlularından tahsil edilmeyerek zamanaşımına uğratıldığı iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun “Kamu zararı” başlıklı 71’inci maddesinde kamu zararı; kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması şeklinde tarif edilmekte olup buna göre kamu görevlilerinin eylem ve işlemleri sonucunda kamu zararı oluştuğunun söylenebilmesi için bu eylem ve işlemlerin mevzuata aykırı olduğunun ve bu eylem ve işlemler neticesinde kamu kaynağında artışa engel veya eksilmeye neden olunduğunun ortaya konulması gerekmektedir.
+
+Bahse konu olayda, 1993,1999 ve 2001 yılı hesap ve işlemlerinin Sayıştay’ca yargılanması sonucu düzenlenen ilamlarda sorumlular adına tazmin hükmolunan ve kesinleşen toplam ………. TL’nin sorumlularından tahsil edilmeyerek zamanaşımına uğratıldığı ileri sürülmekte ise de, sorumlularca yapılan savunma ve sunulan belgelerden, söz konusu tutarlara ilişkin olarak icra takiplerine başlanıldığı ve bu tutarlara ilişkin zamanaşımı oluşmadığı anlaşılmıştır.
+
+Bu itibarla, .............. Büyükşehir Belediyesi 1993, 1999 ve 2001 yılı hesap ve işlemlerine ilişkin kesinleşmiş Sayıştay İlamlarıyla sorumlular adına tazmin hükmolunan ve kesinleşen toplam ……. TL için, bu tutarla ilgili icra takiplerine başlanıldığı ve zamanaşımı oluşmadığı anlaşıldığından, ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
