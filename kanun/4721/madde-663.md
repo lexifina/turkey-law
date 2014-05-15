@@ -1,3 +1,3 @@
 e. Ergin olmayan mirasçılar
-Madde 663- Mirasçılar arasında ergin olmayan ayırt etme gücüne sahip altsoy varsa; paylaşma, bunlar ergin oluncaya kadar ertelenebilir veya mirasçılar arasında özgülemeye karar verilebilecek tarihe kadar aile malları ortaklığı kurulur.
+Madde 663- (Mülga: 30/4/2014-6537/9 md.)
 2. Aile malları ortaklığı

@@ -1,4 +1,3 @@
 b. Ortaklığın sona erdirilmesi
-Madde 665- Kendisine işletme özgülenen mirasçı, aşırı borçlanma zorunda kalmaksızın diğer mirasçıların paylarının karşılığını ödeyecek duruma gelirse; mirasçılardan her biri, ortaklıktan çıktığını bildirerek payının karşılığının kendisine ödenmesini isteyebilir.
-Aksi kararlaştırılmış olmadıkça, kendisine özgülenme yapılan mirasçı ortaklığın sona erdirilmesini her zaman isteyebilir.
+Madde 665- (Mülga: 30/4/2014-6537/9 md.)
 3. Diğer mirasçıların paylarının mirasçı irat senediyle karşılanması

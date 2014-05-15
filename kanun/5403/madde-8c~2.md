@@ -1,0 +1,4 @@
+İhbar yükümlülüğü ve mahkeme tarafından devir yapılması
+Madde 8/Ç - (Ek: 30/4/2014-6537/5 md.)
+Yeter gelirli tarımsal arazi mülkiyetinin 8/B maddesinde belirtilen sürede devredilmediğinin kamu kurum veya kuruluşları ile finans kurumları tarafından öğrenilmesi hâlinde, durum, bu kurum veya kuruluşlar tarafından derhâl Bakanlığa bildirilir. Bakanlık bu Kanun hükümlerinin uygulanması için mirasçılara üç ay süre verir. Verilen süre sonunda devir olmaması hâlinde, Bakanlık resen veya bildirim üzerine bu yerlerin istemde bulunan ehil mirasçıya, ehil mirasçı olmaması durumunda en fazla teklifi veren istekli mirasçıya devri, aksi hâlde üçüncü kişilere satılması için ilgili sulh hukuk mahkemesi nezdinde dava açabilir.
+Sulh hukuk mahkemeleri nezdinde mirasçılar veya Bakanlıkça bu Kanun kapsamında açılacak davalar her türlü resim ve harçtan muaftır.

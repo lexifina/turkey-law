@@ -1,4 +1,2 @@
 a. İstem hakkı
-Madde 664- Kendisine işletme özgülenen mirasçının, diğer mirasçıların payları karşılığında ödemesi gereken miktar ile daha önce işletme üzerinde kurulmuş bulunan rehinlerle güvence altına alınmış olan borçların toplamı, işletmenin gelir değerinin dörtte üçünüaşarsa, kendisine özgüleme yapılan mirasçının istemi üzerine özgülenen işletmenin paylaşılması uygun bir süre ertelenebilir.
-Bu takdirde mirasçılar arasında kazanç paylı aile malları ortaklığı kurulmuş olur.
-8153
+Madde 664- (Mülga: 30/4/2014-6537/9 md.)

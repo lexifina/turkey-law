@@ -1,4 +1,2 @@
 d. Ölüme bağlı tasarruf ile düzenleme
-Madde 662- İşletmenin kendisine özgülenmesini isteyen ve buna ehil olduğu anlaşılan mirasçının bu konudaki istem hakkı, ölüme bağlı tasarrufla ortadan kaldırılamaz.
-Mirasçılıktan çıkarma ve mirastan feragat hâlleri saklıdır.
-Birden çok mirasçıda özgülenme koşullarının bulunması hâlinde, kendisine özgülenme yapılacak mirasçı ölüme bağlı tasarrufla belirlenebilir.
+Madde 662- (Mülga: 30/4/2014-6537/9 md.)
