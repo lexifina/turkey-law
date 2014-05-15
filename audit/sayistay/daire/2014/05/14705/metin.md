@@ -1,0 +1,3 @@
+Beden Eğitimi ve Spor Yüksekokulunda görevli personel için, memurlara yapılacak giyecek yardımı kapsamında yer almayan birtakım kişisel spor giyim malzemesinin bütçeden karşılanması.
+
+Beden Eğitimi ve Spor Yüksekokuluna giriş için düzenlenen özel yetenek sınavında görevli personel için, memurlara yapılacak giyecek yardımı kapsamında yer almayan birtakım spor giyim malzemesi bedellerinin bütçeden karşılandığı görülmüşse de, yapılan alımın Giyecek Yardımı Yönetmeliği çerçevesinde yapılan bir alım olmadığı, ayniyat giriş kayıtlarının yapıldığı ve sınavda görevli personelin sınav esnasında kullanmasına uygun malzemeler olduğu anlaşıldığından ..… TL hakkında ilişik bulunmadığına oybirliğiyle,
