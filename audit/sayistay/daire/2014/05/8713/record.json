@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "206",
+  "decision_date": "2014-05-15",
+  "source_id": 8713,
+  "chamber": "3",
+  "ilam_number": "236",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8713/",
+  "source_sha256": "75be040c9a27369f1424f0d83efee03e51552ca89d15a41d4104bf3c423d9097",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
