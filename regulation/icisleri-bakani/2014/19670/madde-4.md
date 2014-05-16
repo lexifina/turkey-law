@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Acil çağrı: Kamu düzeni ve güvenliği, kişi sağlığı ve güvenliği, toplum sağlığı, su kaynakları ve sulak alanlar ile doğaya yönelik ani tehditler ve mala yönelik zararları içeren durumlara ilişkin her türlü çağrıyı,
+b) Acil çağrı hizmeti: Acil çağrının alınmasından ilgili kurum ya da kuruluşların acil çağrı hizmetini tamamlamasına kadar geçen sürede verilen sevk ve koordinasyon hizmetini,
+c) Acil çağrı yazılımı: Acil çağrı merkezine gelen çağrıların, istatistiklerin, acil çağrı hizmeti yönetme sürecinin bilgisayar ortamında takip ve kaydını sağlayan güvenliği tesis edilmiş yazılımı,
+ç) Acil yardım hizmeti: İlgili kurumların acil çağrı alındıktan sonra kendi mevzuatları çerçevesinde yürütmek zorunda oldukları her türlü yardım hizmetini,
+d) Araç takip sistemi: İlgili kurumlara ait acil çağrının gerektirdiği hizmeti veren araçların sayısal haritalar üzerinden takibini sağlayan sistemi,
+e) Bakanlık: İçişleri Bakanlığını,
+f) Çağrı alıcı: Çağrı merkezinde çağrıyı ilk karşılayan personeli,
+g) Çağrı merkezi:112 acil çağrı hizmetlerinin yürütüldüğü 112 Acil Çağrı Merkezini,
+ğ) Çağrı merkezi müdürü: 112 acil çağrı merkezi müdürünü,
+h) Çağrı yönlendirici: Çağrı alıcıların sistem üzerinden göndermiş olduğu acil yardım taleplerini diğer birimlerle koordinasyon içerisinde kendi kurumunun imkânlarını kullanarak sevk ve koordine eden ve çağrı merkezinde kurumunu temsil için görevlendirilen uzman personeli,
+ı) Diğer personel: Acil yardım hizmetlerini veren kurumların kendi mevzuatına göre acil yardım hizmetini yürütmekle görevlendirilen personeli,
+i) Genel Müdürlük: İller İdaresi Genel Müdürlüğünü,
+j) İlgili birimler: İlgili kurumların çağrı merkezinde görev yapan birimlerini,
+k) İlgili kurumlar: Çağrı merkezinde görev alan il jandarma komutanlığı, il emniyet müdürlüğü, sahil güvenlik bölge veya grup komutanlığı, büyükşehir belediyesi itfaiye daire başkanlığı ile il, ilçe ve belde belediyeleri itfaiye müdürlükleri veya birimleri, orman bölge veya işletme müdürlüğü, doğa koruma ve milli parklar bölge veya şube müdürlüğü, il sağlık müdürlüğü, il afet ve acil durum müdürlüğü ile valilik kararı ile 112 acil çağrı sistemine dâhil edilen diğer kurumları,
+l) KBRN: Kimyasal, biyolojik, radyolojik ve nükleeri,
+m) Konsol: Her bir çağrı alıcı veya yönlendiricinin acil çağrıları almak için kullandığı yazılım ve donanım setini,
+n) Müdürlük: 112 acil çağrı merkezi müdürlüğünü,
+o) Operasyon merkezi: Sisteme dâhil olan kurumların bilgisayar iletişimi sağlanmış olan harekât merkezlerini,
+ö) Valilik: Çağrı merkezinin bağlı olduğu il valiliğini,
+ifade eder.

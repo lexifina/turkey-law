@@ -1,0 +1,3 @@
+Yaptırımlar
+MADDE 23 – (1) Görüşme kayıtlarını izinsiz alan, açıklayan veya başka kişi, kurum ve kuruluşlara yetkili makamın bilgisi, izni dışında verenler; görevlerle ilgili izinsiz açıklama yapanlar, bilgi ve belgelerin yetkisiz kişilerin eline geçmesinde ihmali, kusuru ve kastı bulunanlar; yerine getirmekle yükümlü olduğu görevlerini aksatan veya yerine getirmeyenler hakkında gerekli adli ve idari işlemler derhal başlatılır.
+(2) Çağrı Merkezini asılsız ihbarda bulunmak suretiyle meşgul ettikleri tespit edilen kişilere 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununa göre il valileri tarafından 250 Türk Lirası idari para cezası verilir. Tekerrür hâlinde bu ceza iki katı olarak uygulanır.

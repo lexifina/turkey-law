@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Çağrı Hizmetlerinin Koordinasyonu ve Değerlendirilmesi
+Acil Çağrı Hizmetleri Merkez Koordinasyon Komisyonu
+MADDE 16 – (1) İçişleri Bakanlığı Müsteşarı veya görevlendireceği müsteşar yardımcısı başkanlığında; İller İdaresi Genel Müdürlüğü, Jandarma Genel Komutanlığı, Emniyet Genel Müdürlüğü, Sahil Güvenlik Komutanlığı, Orman ve Su İşleri Bakanlığı, Sağlık Bakanlığı, Afet ve Acil Durum Yönetimi Başkanlığı ile çağrı merkezleri ile ilişkilendirilen diğer kurumların genel müdür veya birim amiri düzeyindeki temsilcilerinin katılımıyla Acil Çağrı Hizmetleri Merkez Koordinasyon Komisyonu oluşturulur. Gündemdeki konulara göre diğer kamu kurum ve kuruluş temsilcileri de Acil Çağrı Hizmetleri Merkez Koordinasyon Komisyonu toplantılarına davet edilebilir.
+(2) Acil Çağrı Hizmetleri Merkez Koordinasyon Komisyonu ülke genelinde uygulanacak hizmet standartları ile politikaları tespit eder ve planlar, ilgili bakanlıklar ve kurumlar arasında koordinasyonu gerektiren konularda karar alır ve uygulanmasını takip eder, sorun ve önerileri değerlendirir, sorunların çözüm şeklini belirler.
+(3) Acil Çağrı Hizmetleri Merkez Koordinasyon Komisyonu, mart ve ekim aylarında olmak üzere yılda iki defa toplanır. Başkan gerektiğinde Acil Çağrı Hizmetleri Merkez Koordinasyon Komisyonunu ayrıca toplantıya çağırabilir.
+(4) Acil Çağrı Hizmetleri Merkez Koordinasyon Komisyonunun sekretaryası Genel Müdürlükçe yürütülür.

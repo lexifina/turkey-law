@@ -1,0 +1,6 @@
+BEŞİNCİ BÖLÜM
+Veri Paylaşımı Güvenliği ve Yaptırımlar
+Veri paylaşımı ve güvenliği
+MADDE 22 – (1) Çağrı merkezlerinde bulunan her türlü kişisel bilgi veya belgenin gizliliği esastır. Çağrı merkezi görevlileri görevleri nedeniyle elde ettikleri bu bilgi veya belgeleri, çağrı merkezi işlemleri dışında ilgili kişinin izni olmadan veya kanunlarla yetkilendirilen ve görevlendirilen merciler ile görevleri ile ilgili olarak muttali olanlar dışında hiçbir kişi ya da kurumla paylaşamazlar.
+(2) Çağrı merkezinde hizmet veren kurumların kendi alanlarına ilişkin istatistiki verilere esas ses ve veri kayıtları hizmet gerekleri, hizmetin kalite ve etkinliğini artırmak, personelin performans değerlendirmesini yapabilmek üzere elektronik ortamda ilgili kurumlarla paylaşılabilir. Kişisel verilerin ve özel hayatın gizliliği dikkate alınarak, verilerin güvenliği ilgili birimlerce sağlanır.
+(3) Çağrı merkezine yapılan aramalara ilişkin yazılı ve sesli kayıtlar, vaka adli soruşturmaya konu olduğunda, Cumhuriyet Başsavcılığı veya yetkili mahkemesince istenilmesi halinde ve idari soruşturmalarda görevli müfettişlere veya muhakkiklere verilir. Diğer soruşturmalarda soruşturmayı açan kurumun en üst amirinin yazılı talebi üzerine verilebilir.

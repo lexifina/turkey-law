@@ -1,0 +1,2 @@
+Kayıtların saklanması
+MADDE 25 – (1) Çağrı merkezince sunulan hizmetlerle ilgili kayıtlar, ilgili mevzuat hükümlerine göre muhafaza edilir. Vaka kaydı açılan çağrılar on yıl, vaka kaydı açılmayan çağrılar ise bir yıl süre ile saklanır. Teknik arızalardan dolayı seslerin kaydedilemediği veya kayıtlara ulaşılamadığı durumlarda tutulan diğer kayıtlardan yararlanılır. Arıza ve kesintilerin açıklamaları gerekçeli olarak ilgili kurumlara gönderilir.
