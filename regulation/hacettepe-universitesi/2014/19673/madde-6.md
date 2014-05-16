@@ -1,0 +1,10 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez, amacını gerçekleştirmek üzere aşağıdaki alanlarda faaliyette bulunur:
+a) Türkiye’de halen var olan bilimsel-teknik altyapı ve yetişmiş insan gücünün ileri teknoloji kanser araştırmaları ve uygulamalarına dayalı tanı ve tedaviye yönelik yeni nesil malzeme, yöntem, sistem ve ürünlerin geliştirilmesi amacıyla ortak çalışmalar kapsamında bir araya getirilmesini sağlamak.
+b) Bu çalışmalar için ihtiyaç duyulan personel, araç-gereç ve teknik imkânlara sahip ileri teknoloji laboratuvarları ve araştırma birimlerini oluşturarak ar-ge programları geliştirmek ve uygulamak.
+c) Toplumun ileri teknoloji kanser araştırmaları ve uygulamaları ile ilgili beklentilerinin karşılanması için ürüne yönelik ve ileri teknoloji temelli ar-ge çalışmaları yaparak, ulusal ekonomiye, toplumsal sağlık düzeyine ve bilimsel birikime katkı sağlamak.
+ç) Türkiye’deki üniversiteler, araştırma merkezleri, hastaneler, sanayi kuruluşları, küçük ve orta ölçekli işletmeler ve yatırım kuruluşları arasında ileri teknoloji kanser araştırmaları ve uygulamaları konusunda işbirliği ortamı oluşturmak.
+d) İleri teknoloji kanser araştırmaları ve uygulamaları konusunda yurt içi ve yurt dışındaki ilgili kuruluşlarla işbirliği yaparak Merkezde yürütülecek araştırmalara kaynak sağlamak.
+e) Uluslararası bilimsel organizasyonlarda aktif görev alarak ileri teknoloji kanser araştırmaları ve uygulamaları ile ilgili uluslararası politikaların oluşturulmasına katkıda bulunmak.
+f) Merkezin amaçları doğrultusunda ileri teknoloji kanser araştırmaları ve uygulamaları konusunda faaliyette bulunan yerli ve yabancı diğer kurum ve kuruluşlarla işbirliği yapmak.
+g) Yurt içinde ve dışında ileri teknoloji kanser araştırmaları ve uygulamaları konularında yapılan bilimsel araştırma, inceleme, kurs, seminer, konferans, kongre, eğitim ve öğretim programlarına katılımı desteklemek ve bu konuda ulusal veya uluslararası kurs, seminer, sempozyum, konferans, kongre, eğitim ve öğretim programları düzenlemek.
