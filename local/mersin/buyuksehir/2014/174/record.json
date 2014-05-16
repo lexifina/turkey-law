@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "174",
+  "decision_date": "2014-05-16",
+  "title": "council decision (subject withheld: may concern individual persons)",
+  "listed_as": null,
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/174-mec--kar--manisa-soma-maden-kazasi-yardim",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk88--16-mayis-2014-meclis-kararlari",
+  "listing_sha256": "8654f77b86cf60afaf25c773adfaa8bbcfdbe1be5ca867410c83f65892a3b60c",
+  "meeting_title": "MK88- 16 MAYIS 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": true
+}
