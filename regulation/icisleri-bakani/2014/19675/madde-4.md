@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alt bölge: Bulunulan hizmet bölgesinin altındaki bölgeleri,
+b) Aynı düzeyde görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da aynı grup içinde gösterilen aynı alt görev gruplarında ve aynı düzeyde yer alan kadro unvanlarını,
+c) Bakan: İçişleri Bakanını,
+ç) Bakanlık: İçişleri Bakanlığını,
+d) Birim: Genel Müdürlük merkez teşkilatında yer alan daire başkanlıkları ile hukuk müşavirliğini,
+e) Birim amiri: (d) bendinde belirtilen birimlerin yöneticilerini,
+f) Değerlendirme puanı: Bu Yönetmeliğin ekinde yer alan EK-2 Değerlendirme Formuna göre hesaplanan puanı,
+g) Genel Müdürlük: Göç İdaresi Genel Müdürlüğünü,
+ğ) Genel Müdür: Göç İdaresi Genel Müdürünü,
+h) Genel Yönetmelik: Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmeliği,
+ı) Hizmet bölgesi: Bu Yönetmeliğin ekinde yer alan EK-1 sayılı Hizmet Bölgeleri Cetvelinde gösterilen illerin gruplarını,
+i) Hizmet yeri: Hizmet bölgelerindeki görevin yapıldığı il veya ilçeyi,
+j) İnsan Ticareti Mağdurları Sığınma Evi Müdürü: 6458 sayılı Kanunun 108 inci maddesinin birinci fıkrasının (c) bendine göre insan ticaretiyle mücadele ve mağdurların korunması için kurulan insan ticareti mağdurları sığınma evleri müdürlerini,
+k) Kurum: Göç İdaresi Genel Müdürlüğü merkez ve taşra teşkilatını,
+l) Merkez Müdürü: Kabul ve barınma merkezi ile geri gönderme merkezi müdürlerini,
+m) Üst bölge: Bulunulan hizmet bölgesinin üstündeki bölgeleri,
+n) Yer değiştirme suretiyle atanma: Yer değiştirmeye tabi personelin, bu Yönetmelikle tespit edilen hizmet bölgelerine, 657 sayılı Devlet Memurları Kanunundaki esaslar çerçevesinde atanmasını,
+o) Zorunlu çalışma süresi: Her hizmet bölgesinde zorunlu çalışılması gereken süreyi,
+ifade eder.
