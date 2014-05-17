@@ -1,0 +1,17 @@
+İnceleme ve sonuçlandırma usulü
+MADDE 15 – (1) Ön incelemesi tamamlanarak Birime gönderilen başvuruların inceleme yetkilisine havalesi Koordinatör tarafından yapılır. İnceleme, başvuru sırasına göre yapılır. Gecikmesinde sakınca bulunan ya da özel önemi haiz başvurular öncelikle incelenir.
+(2) Esastan incelemeye alınan başvurular ile bunların incelenmesine ve sonuçlandırılmasına ilişkin işlemler hakkında Koordinatör ya da ilgili inceleme yetkilisi tarafından Başkana bilgi verilir. İnceleme ve araştırma sürecinde Başkan tarafından gerekli görülen başvurular Kurul gündemine alınır.
+(3) Başvuru konusu ile ilgili ilave açıklama, bilgi veya belgeye ihtiyaç duyulması halinde başvurucu ile öncelikle telefon ya da varsa elektronik posta ile iletişime geçilir, bu mümkün değilse başvurucuya yazı yazılarak talepler iletilir. Yazılı bildirime rağmen, verilen süre içinde istenilen açıklama, bilgi ve belgelerin gönderilmemesi ve bu durumun inceleme ve araştırmanın sürdürülmesini imkânsız kılması halinde karar verilmesine yer olmadığına karar verilir.
+(4) İncelenmekte olan başvuru, iddiaların cevaplandırılması ve iddiaya ilişkin bilgi ve belgelerin sunulabilmesi için şikâyet olunan kamu kurum ve kuruluşları ile gerçek ve tüzel kişilere gönderilir. Gönderme yazısında başvuru konusu kısaca özetlenir ve başvuru konusu hakka ilişkin Kurumun yerleşik kararları ile ulusal ve uluslararası ilke ve standartlara vurgu yapılabilir.
+(5) Şikâyet olunan şahıs ya da kurum ve kuruluşlarca ihlal iddiası yerinde görülerek ihlalin bütün sonuçlarıyla ortadan kaldırılması ve başvurucunun da başvurusunu geri alması halinde karar verilmesine yer olmadığına karar verilir. Ancak, aynı konuya ilişkin yaygın bir ihlal veya başvuru söz konusu ise ya da takibinde kamu menfaati görülmekte ise inceleme ve araştırma başvurudan bağımsız olarak sürdürülebilir.
+(6) Şikâyet olunan şahıs ya da kurum ve kuruluşlardan alınan cevapta;
+a) Başvuru konusu işlem, eylem ya da olgunun sabit olmadığının veya ihmalin bulunmadığının ortaya konulması ve inceleme yetkilisi tarafından yapılan araştırma neticesinde de aynı sonuca varılması halinde ihlal iddiasının reddine dair karar taslağı hazırlanır.
+b) Başvuru konusu işlem, eylem, ihmal ya da olgunun sabit olduğu ancak bu durumun insan hakkı ihlaline yol açmadığı savunulmakta ise konu inceleme yetkilisince değerlendirilerek ihlalin varlığına ya da ihlal iddiasının reddine dair karar taslağı hazırlanır.
+(7) İnceleme ve karar taslağı yazımı aşamalarında elde edilen yeni bilgi ve belgeler başvurucu ve cevap veren ilgililerle paylaşılabilir. Her aşamada yeni bilgi ve belge talep edilebilir.
+(8) İnceleme yetkilisince hazırlanan karar taslağı, Kurul kararına bağlanmak üzere sırasıyla Koordinatöre ve Başkana iletilir.
+(9) İnceleme yetkilisinin önerisi üzerine veya resen;
+a) Sebebi ve konusu benzer olan başvuruların birleştirilerek incelenmesine,
+b) Gerekli görülmesi halinde başvuruların ayrılarak incelenmesine,
+koordinatör tarafından karar verilebilir.
+(10) 11 inci maddede belirtilen hallerin varlığının başvurunun esasının incelenmesi sırasında tespit edilmesi halinde de incelenemezlik kararı verilir.
+(11) Başvurunun incelenmesi sırasında yaşam hakkı veya kişi hürriyeti ve güvenliğinin tehdit altında olduğu, işkence ve kötü muamele ihtimalinin bulunduğu ve gecikmesi halinde telafisi imkânsız zararların ortaya çıkacağı anlaşılmakta ise, ilgisine göre mülki idare amirliğine, cumhuriyet savcılığına, kolluk güçlerine veya ilgili kuruma derhal bilgi verilerek önlem alınması talep edilir.
