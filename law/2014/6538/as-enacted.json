@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6538",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Somali Federal Cumhuriyeti Hükümeti Arasında Sağlık ve Tıp Bilimleri Alanlarında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-05-17",
+  "gazette_issue": "29003",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140517-12.htm",
+  "source_sha256": "c1f82137f6480b3889fe02290947f621def5d036b3c199e2ddc202d0ef3d9cf9",
+  "text_sha256": "4b5e833662b2b30e9c514e437157e676275409fa676d581a95dad91ba2cf2597",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/05/17/29003-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140517-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
