@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6543",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Azerbaycan Cumhuriyeti Hükümeti Arasında Basın ve Enformasyon Alanlarında İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-05-17",
+  "gazette_issue": "29003",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140517-17.htm",
+  "source_sha256": "d3c9edd2d59167740c552a3e4ee8e4556fd9b9e20645d7cf2ab4f29a17a8ccb4",
+  "text_sha256": "81e146d90d25402442531e891218bb75ea01b1fbd97554590aafa36c1e5b0c7f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/05/17/29003-17",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140517-17.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
