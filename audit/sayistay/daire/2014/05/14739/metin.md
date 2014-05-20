@@ -1,0 +1,5 @@
+Sözleşmede belirtilen süre içerisinde teslim edilmeyen dijital röntgen cihazı için yükleniciden gecikme cezası alınmaması.
+
+……. Üniversitesi Tıp Fakültesi Dekanlığının yürüttüğü Dijital Röntgen Cihazı Alımı İşinde işe ait sözleşmede cihazların süresi içerisinde teslim edilmemesi halinde öngörülen gecikme cezasının yükleniciden kesilmediği görülmüştür.
+
+Ancak, sorumluların savunmaları ile ekinde göndermiş oldukları belgelerden yüklenicinin söz konusu cihazların işin bitiş tarihinden önce idareye teslim ettiği, 01.06.2012 ve 10.07.2012 tarihlerinde cihazların kabulünün yapılması için İdareye başvurduğu, İdarenin muayene kabul işlemlerini hastanenin faaliyette olmaması ve cihazların sözleşmeye uygun olup olmadığının tespit edilebilmesi için gerekli diğer sistemlerin hazır olmaması nedenleriyle 31.07.2012 tarihinde yapabildiği anlaşıldığından, satın alınan cihazların tesliminin sözleşme ve mevzuat hükümlerine uygun şekilde yapıldığına ve konuya ilişkin ……. TL için ilişilecek husus bulunmadığına oybirliğiyle,
