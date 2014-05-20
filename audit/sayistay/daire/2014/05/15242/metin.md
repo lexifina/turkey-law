@@ -1,0 +1,15 @@
+Uzaktan öğretim sınav ücretlerinin 18.01.2012 tarih ve 2012/2723 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Sınav Ücretlerine İlişkin Usul ve Esaslar’da yer alan hükümlere uyulmadan ödenmesi.
+
+Ek raporun 3’üncü maddesinde uzaktan öğretim sınav ücretlerinin konu edildiği, uzaktan öğretim sınav ücretleri hakkında 18.01.2012 tarih ve 2012/2723 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Sınav Ücretlerine İlişkin Usul ve Esaslar’ın uygulanması gerektiği,  Usul ve Esaslar’ın 5’inci maddesinin 11’inci fıkrasında; “Usul ve Esaslar kapsamında, 26’ncı maddede yer alan gözlemciler hariç olmak üzere, aynı sınavda aynı kişiye farklı adlar altında birden fazla sınav ücreti ödenmez.” denildiği ve Usul ve Esaslar’da bahsi geçen “sınav” kavramının birden çok sayıda gün, oturum ve aşamadan oluşan birer sınavı ifade ettiği belirtilerek aynı sınavda aynı kişiye sınav sorumlusu, koordinatör, salon başkanı, bina yöneticisi, gözetmen vb. adlar altında birden fazla sınav ücreti ödenmesi sonucu sebep olunan kamu zararının sorumlulara ödettirilmesine karar verilmesinin uygun olacağı yönünde görüş belirtildiği görülmüştür.
+
+Ancak, 6114 sayılı Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının Teşkilat ve Görevleri Hakkında Kanun’un 6’ncı maddesine göre çıkartılan ve 18.01.2012 tarih ve 2012/2723 sayılı Bakanlar Kurulu Kararı ile kabul edilen Sınav Ücretlerine İlişkin Usul ve Esaslar’ın 1’inci maddesinde;
+
+“Bu Usul ve Esaslar’ın amacı; Millî Eğitim Bakanlığı ile Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığınca yapılan merkezî sınavlar, yükseköğretim kurumlarının açık öğretim sınavları ve kamu kurum ve kuruluşları ile özel hukuk tüzel kişilerinin talepleri üzerine yükseköğretim kurumlarınca yurt içinde ve yurt dışında yapılan sınavlarda; soruların hazırlanmasında görevlendirilenlere, sınav soru havuzunda yer alacak soruların hazırlanmasında katkısı olanlara, sınav koordinatörlüklerinin koordinatörüne ve diğer personeline, bina sınav sorumluları ile bina yöneticilerine, salon başkanlarına, gözetmenlere, sınav güvenliğini sağlayan kolluk kuvvetlerine, kapalı dönem çalışanlara ve sınav sürecinde görev alan diğer personele ödenecek sınav ücretleri ile ilgili usûl ve esasları belirlemektir.”
+
+hükmü yer almaktadır.
+
+Söz konusu madde hükmünden de anlaşılacağı üzere bu Usul ve Esaslar uzaktan öğretime ilişkin sınav ücretlerini kapsamamaktadır. Uzaktan öğretim ile ilgili olarak Yükseköğretim Genel Kurulunun 01.02.2013 tarihli toplantısında “Yükseköğretim Kurumlarında Uzaktan Öğretime İlişkin Usul ve Esaslar” kabul edilmiştir. Ancak bu Usul ve Esaslar’ın 2012 yılı için uygulanması mümkün değildir.
+
+Uzaktan öğretimin esasları 2547 sayılı Yüksek Öğretim Kanunu’nun 44’üncü maddesinin (e) fıkrasında düzenlenmiş ve bu maddede 2914 sayılı Yüksek Öğretim Personel Kanunu’nun 11’inci maddesine atıfta bulunulmuştur. Dolayısıyla konunun bu Kanunlarda yer alan hükümler çerçevesinde değerlendirilmesi gerekmektedir. Ancak raporda, anılan Kanun hükümlerine dayalı tespit bulunmamaktadır.
+
+Bu itibarla, uzaktan öğretim sınav ücretlerine ilişkin ……. TL hakkında kamu zararı oluşmadığından ilişilecek bir husus bulunmadığına oybirliğiyle,
