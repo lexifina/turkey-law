@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-05-20",
+      "20.05.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29005",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-05-20",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Sivas Cumhuriyet Üniversitesi",
+  "issuer_slug": "sivas-cumhuriyet-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sivas-cumhuriyet-universitesi/2014/19676",
+  "published": "2014-05-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19676&MevzuatTertip=5",
+  "source_bytes": 21841,
+  "source_id": "8.5.19676",
+  "source_sha256": "bff98c1748c248273cdd5703674003ee8c900bcea74ed04d177365ae0479c6bc",
+  "text_status": "as-enacted",
+  "title": "CUMHURİYET ÜNİVERSİTESİ GELENEKSEL VE TAMAMLAYICI TIP YÖNTEMLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 185,
+  "word_count": 1022
+}
