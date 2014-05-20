@@ -1,0 +1,3 @@
+2547 sayılı Yükseköğretim Kanunu’nun 39’uncu maddesi uyarınca yurtdışına gönderilen İşletme Fakültesi öğretim elemanına eğitim öğretim ödeneği ödenmesi.
+
+2914 sayılı Yükseköğretim Personel Kanunu’nun ek 1’inci maddesinde 2547 sayılı Yükseköğretim Kanunu’nun 39’uncu maddesinin ikinci fıkrası uyarınca yurtdışına gönderilenlerin eğitim öğretim ödeneği alamayacağı öngörülmesine rağmen bu maddeye dayanılarak yurtdışına gönderilen İşletme Fakültesi öğretim elemanına eğitim öğretim ödeneği ödenmesi sonucu sebep olunan ……. TL kamu zararı …………. tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle,
