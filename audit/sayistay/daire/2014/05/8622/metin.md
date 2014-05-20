@@ -1,0 +1,5 @@
+……. Meslek Yüksekokulu kantinini işleten ……. Meslek Yüksekokulu Derneğinden 2012 yılı için kira alınmaması ve alınmayan kiralar için gecikme cezası uygulanmaması.
+
+……. Üniversitesi ……. Meslek Yüksekokulu kantini için kira tahsil edilmediği görülmüştür.
+
+Ancak sorumluların göndermiş oldukları savunmalar ile ekindeki belgelerden, söz konusu kantine ait kira sözleşmesinin, Üniversite Yönetim Kurulunun kantin olarak kullanılmakta olan yerin eğitim-öğretim hizmetleri kapsamında kullanılması için aldığı karar doğrultusunda ve kiralamaya ilişkin sözleşmenin 14’üncü maddesindeki “Taşınmaza İdaremizce ihtiyaç duyulması veya taşınmazın satışı halinde sözleşme tek taraflı olarak feshedilir, kiracı İdaremizden hiçbir hak ve tazminat talebinde bulunamaz.” hükmüne dayanılarak feshedildiği, sözleşmenin feshedildiği Strateji Geliştirme Daire Başkanlığına bildirilmediği için Strateji Geliştirme Daire Başkanlığınca tutulan kira tahsilat takip formunda kantinin yer aldığı anlaşıldığından, mevzuata uygun olan ……. TL ile ilgili olarak ilişilecek bir husus bulunmadığına oybirliğiyle,
