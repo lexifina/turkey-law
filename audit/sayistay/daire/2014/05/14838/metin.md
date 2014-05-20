@@ -1,0 +1,3 @@
+Yurtdışı Araştırma Faaliyetlerini Destekleme Programı Uygulama Esasları çerçevesinde yurtdışında görevlendirilen personele, görevlendirilme süresi sona ermeden Türkiye’ye dönmesine rağmen görevlendirilme süresinin tamamı için ödeme yapılması.
+
+Yurtdışı Araştırma Faaliyetlerini Destekleme Programı Uygulama Esasları çerçevesinde yurtdışında görevlendirilen personele, görevlendirilme süresi sona ermeden Türkiye’ye dönmesine rağmen görevlendirilme süresinin tamamı için ödeme yapılması sonucu sebep olunan ……. TL kamu zararının ……. TL’si ……. tarih ve …….  numaralı banka makbuzu, ……. TL’si ……. tarih ve ……. numaralı banka makbuzu ile tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle,
