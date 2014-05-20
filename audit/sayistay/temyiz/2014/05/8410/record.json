@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39043",
+  "decision_date": "2014-05-20",
+  "source_id": 8410,
+  "chamber": "8",
+  "file_number": "38435",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8410/",
+  "source_sha256": "fc9218ec83494b162d85da0dcccc89a6fdbff92bfd009639311f5760ec87a44b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
