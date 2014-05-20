@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-05-20",
+  "issue": "29005",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2014/6352 İçişleri Bakanlığı İller İdaresi Genel Müdürlüğü Bünyesinde 1 Adet Daire Başkanlığı ve 3 Adet Şube Müdürlüğü Kurulması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140520-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140520.htm",
+  "index_sha256": "7a48b046368da4ad294bb6a3e218203e09e376677c516e739fb063794c512920",
+  "index_header": "20 Mayıs 2014 ... 29005 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140520.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
