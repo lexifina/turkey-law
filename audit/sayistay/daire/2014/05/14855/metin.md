@@ -1,0 +1,3 @@
+.......... Derneği İktisadi İşletmesi tarafından her şey dahil sistemi ile hizmet veren otelde bu sistem dahilinde gerçekleştirilen seminere katılan Üniversite personeline bütçeden kurs gideri ve konaklama gideri ödenmesi.
+
+......... Derneği İktisadi İşletmesi tarafından her şey dahil sistemi ile hizmet veren bir otelde bu sistem dahilinde gerçekleştirilen seminere katılan Üniversite personeline bütçeden kurs gideri ve konaklama gideri adı altında ödeme yapılması sonucu sebep olunan ……. TL kamu zararı ……. tarih ve ……. numaralı alındı belgesi ile tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle,
