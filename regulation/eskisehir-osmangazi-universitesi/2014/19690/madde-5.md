@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı, Faaliyet Alanları, Merkez Organları ve Görevleri
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; yurt içi ve yurt dışında kök hücre ve hücresel tedaviler konusunda araştırma ve uygulamaların takibi, bu konuda yeni teknolojilerin aranması, geliştirilmesi, kök hücre ve hücresel tedavilerin uygulamaya konulması amacıyla, ilgili her alanda bilimsel araştırmaların yapılması, alt yapının ve işleyişinin hazırlanması, hücrelerin işlenmesi, çoğaltılması, saklanması, çözülmesi, tedaviye hazır hale getirilmesi, hücresel tedaviler ile ilgili ürüne yönelik çalışmalar yapılması, klinik uygulama ve tedavilerin yapılabilmesi için klinik birimler yürütücülüğünde Sağlık Bakanlığına başvurulması, ayrıca hücre ve kök hücre alanında akademik eğitim faaliyetlerinin takibi ve yürütülmesidir.
