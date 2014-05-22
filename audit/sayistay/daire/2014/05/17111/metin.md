@@ -1,0 +1,17 @@
+Konut Kirası
+
+5302 sayılı İl Özel İdaresi Kanununun 36 ıncı maddesinde;
+
+“(Ek fıkra: 24/10/2011-KHK-661/62 md.) Genel sekreter, valinin teklifi ve İçişleri Bakanının onayı ile atanır ve aynı usulle görevden alınır. Büyükşehir belediyesi bulunan illerde genel sekreter kadrosuna atananlar, genel idare hizmetleri sınıfına dahil bakanlık genel müdürleri, genel sekreter yardımcısı kadrosuna atananlar bakanlık bağımsız daire başkanları, 1. hukuk müşaviri ve daire başkanı kadrosuna atananlar ise bakanlık daire başkanları için ilgili mevzuatında öngörülen ek gösterge, makam, görev ve temsil tazminatları ile 657 sayılı Devlet Memurları Kanununun 152 nci maddesi uyarınca ödenen zam ve tazminatlardan aynen yararlanırlar; diğer illerde ise genel sekreter kadrosuna atananlar genel idare hizmetleri sınıfına dahil bakanlık bağımsız daire başkanları, genel sekreter yardımcısı kadrosuna atananlar ise genel idare hizmetleri sınıfına dahil bakanlık daire başkanları için ilgili mevzuatında öngörülen ek gösterge, makam, görev ve temsil tazminatları ile 657 sayılı Devlet Memurları Kanununun 152 nci maddesi uyarınca ödenen zam ve tazminatlardan aynı usul ve esaslar dahilinde yararlanırlar. Genel sekreter olarak atananların bu görevde geçen süreleri mesleki kıdemlerinde geçmiş sayılır.”
+
+Denilmektedir. Söz konusu düzenleme gereğince, Büyükşehir Belediyesi bulunan illerde il özel idaresi genel sekreteri kadrosuna atananlar, genel idare hizmetleri sınıfına dahil bakanlık genel müdürleri için ilgili mevzuatında öngörülen ek gösterge, makam, görev ve temsil tazminatları ile 657 sayılı Devlet Memurları Kanununun 152 nci maddesi uyarınca ödenen zam ve tazminatlardan yararlanabilecekler bunun dışında Genel Müdürler için öngörülen hak ve menfaatlerden yararlanma imkanı olmayacaktır. Dolayısıyla bu kanun değişikliğinden sonra, il özel idaresi genel sekreterinin, bakanlık genel müdürleri için öngörülen eşyalı görev tahsisli konut hakkından yararlandırılmasının mümkün olmadığı açıktır. Ödemeye esas kiralama işleminin de kanun değişikliğinden sonraki bir tarihte yapıldığı anlaşılmaktadır.
+
+Ayrıca Kamu Konutları Yönetmeliğinin “Kiralama Suretiyle Konut Sağlanması” başlıklı 4 üncü maddesinde kiralama suretiyle konut sağlanabilecek kamu personeli sayılmış ve sayılanlar dışındaki kamu personeli için konut kiralanması bütçede yeterli ödenek bulunması, bağlı ve ilgili bulunulan Bakanlığın teklifi, Maliye ve Gümrük Bakanlığının uygun görüşü üzerine Başbakanlıktan izin alınması şartlarına bağlanmıştır.
+
+Dolayısıyla, sayılan personel arasında bulunmayan il özel idaresi genel sekreteri için lojman kiralanması ancak, İçişleri Bakanlığının teklifi ile Maliye Bakanlığının uygun görüşü üzerine Başbakanlık tarafından verilecek izinle mümkün olabilecektir. Sorumlular konut kiralaması için 06.10.1993 tarih ve 04268–2163 sayılı yazı ile Başbakanlıktan lojman kiralama izninin alındığını ifade etmişler ise de, Yönetmeliğin belirtilen hükmü gereğince söz konusu iznin her kiralama işlemi için ayrı ayrı alınması gerekmektedir. Zira izin, kiralama işleminin hukuka uygunluğunu sağlayan unsurlardan birisini oluşturmaktadır.
+
+Açıklanan nedenlerle, İl Özel İdaresi Genel Sekreteri için kiralanan konutun kira bedelinin bütçeden ödenmesi sonucunda oluşan ve hesabı aşağıda gösterilen toplam … TL kamu zararının sorumlular,
+
+Harcama Yetkilisi … ile Gerçekleştirme Görevlisi …’ a ortaklaşa ve zincirleme olarak,
+
+6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizleri ile birlikte ve temyiz yolu açık olmak üzere ödettirilmesine oy birliğiyle,
