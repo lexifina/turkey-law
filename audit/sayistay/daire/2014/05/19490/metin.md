@@ -1,0 +1,25 @@
+Hizmet alımı.
+
+...Ltd. şirketi yükleniminde bulunan ve Belediyenin ...Müdürlüğü hizmetlerinin yürütülmesi ile ilgili stok odası, bakım onarım, haberleşme, web servisleri ile tanıtım, araştırma geliştirme, yazılım bakım ve bilgisayar sistemlerine yönelik işçilik hizmet alımı işine ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+A) ...Müdürlüğü hizmetlerinin yürütülmesi işinde çalışması gereken işçilerin farklı birimlerde bu birimlerin asli ve sürekli hizmetleri için görevlendirildiği iddia edilmiş ise de; 4734 sayılı Kamu İhale Kanunu’nun 4’üncü maddesi, 5393 sayılı Belediye Kanunu’nun 67’inci maddesi ve savunmada belirtilen 17.04.2012 tarih ve 34860 tutanak sayılı Temyiz Kurulu kararı gereğince, herhangi bir imza yetki ve sorumlulukları bulunmadan salt mevcut personele yardımcı olmak amacıyla personel çalıştırılabilmesi, bilgi işlem hizmetlerinin ilgili personellerce ilgili birimlerde yapılması ve konu hakkında kamu zararı oluşmaması nedenleriyle yapılacak işlem bulunmadığına, ayrıca konunun Bakanlığına yazılmasına gerek olmadığına, oy birliğiyle,
+
+B) İhale komisyonunda işin uzmanı olmayan bir kişinin görevlendirildiği iddia edilmiş ise de; 4734 sayılı Kamu İhale Kanunu’nda ve ilgili maddenin gerekçesinde, işin uzmanının taşıması gereken vasıflarla ilgili açık bir belirleme yapılmadığı, kimin uzman olup olmadığını belirleme yetkisinin idarede olduğu, idarenin de 7 yıldır ...Müdürlüğünde çalışan, işinde uzman, konusunda tecrübeli ve gerekli eğitimleri almış bir personeli görevlendirdiğini bildirmesi nedenleriyle mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına, ayrıca konunun Bakanlığına yazılmasına gerek olmadığına, oy birliğiyle,
+
+C) İhalede rekabet ortamının tam gerçekleşmediği iddia edilmiş ise de; ihalenin Elektronik Kamu Alımları Platformu üzerinden ilan edilmesi, ihalenin açık ihale yöntemiyle yapılması, ihalenin herhangi bir şikayete konu olmaması, ihalede rekabetin sağlanıp sağlanmadığı konusundaki yetki ve sorumluluğun ihale komisyonu ile ihale yetkilisinde bulunması nedenleriyle mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına, ayrıca konunun Bakanlığına yazılmasına gerek olmadığına, oy birliğiyle,
+
+D) Sözleşmenin iş ve işyerinin korunması ile ilgili 21’inci maddesinin boş bırakıldığı iddia edilmiş ise de; Elektronik Kamu Alımları Platformu üzerinden hazırlanan ihalede, İdareye bu madde ile ilgili olarak düzenleme yapıp yapmama konusunda seçim hakkı tanınması nedeniyle mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına, ayrıca konunun Bakanlığına yazılmasına gerek olmadığına, oy birliğiyle,
+
+E) İşin ihale kararına ait damga vergisinin tahsil edilmediği iddia edilmiş ise de; ihalenin karara bağlandığı tarihte, ihaleye ait vergi sorumluluklarının idarece yerine getirilmesi nedeniyle konu hakkında kamu zararı oluşmadığından yapılacak işlem bulunmadığına oybirliğiyle,
+
+F) İşçilik birim fiyatları 30 gün üzerinden verilmesine rağmen Ocak ayında 31 gün üzerinden hesap yapıldığı iddia edilmiş ise de; bazı aylar 31 gün, bazı aylar 30 gün, Şubat ayı ise 28 gün olup, raporda da sözleşme bedelinin aşılıp aşılmadığı ortaya konulmamıştır. Dolayısıyla tereddüde yer verilmeyecek şekilde tespit edilmiş bir kamu zararının varlığından söz edilemez. Bu nedenle yersiz tahsil edilen ...-TL’nin ilgililerine iadesine oybirliğiyle,
+
+G) İzinli ve raporlu işçilerin çalışmadıkları günler hesap edilirken 31 gün üzerinden hesap yapıldığı ve 31 günden çalışılmayan günlerin düşüldüğü iddia edilmiş ise de; primlerin ödenme sürelerine ilişkin usul ve esaslar hakkındaki Tebliğde, çalışılmayan günlerin parmak hesabı yapılmak suretiyle hesaplanacağının belirtilmesi ve olayda kamu zararı oluşmaması nedeniyle konu hakkında yapılacak işlem bulunmadığına, oybirliğiyle,
+
+H) Zarf açma ve belge kontrol tutanağında “uygun değil” ibaresi yerine “yok” ibaresi yazıldığı iddia edilmiş ise de; teminat mektubu olmadığı için bu ibare yerine yok ibaresinin kullanılması ve konu hakkında kamu zararı oluşmaması nedenleriyle yapılacak işlem bulunmadığına, ayrıca konunun Bakanlığına yazılmasına gerek olmadığına, oy birliğiyle,
+
+İ) Kesinleşen ihale kararının posta ile firmalara bildirildiği, ancak 7 günlük süre beklenmeden kazanan firmanın sözleşmeye davet edildiği iddia edilmiş ise de; ihale sonucunun, ...tarihinde ...Ltd. şirketine, ...tarihinde ise ...Ltd. şirketine tebliğ edilmesi, fiili tebliğ tarihinden 7 gün sonra, ...tarihinde de ...Ltd. şirketinin sözleşmeye davet edilmesi ve sözleşmenin ...tarihinde imzalanması nedeniyle mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına, ayrıca konunun Bakanlığına yazılmasına gerek olmadığına, oy birliğiyle,
+
+J) Yükleniciye fiyat farkı verilmesine rağmen Ek Kesin Teminat alınmadığı iddia edilmiş ise de; yükleniciye yapılan hakediş ödemesi toplamının sözleşme bedelinden düşük olması ve konu hakkında kamu zararı oluşmaması nedenleriyle yapılacak işlem bulunmadığına oybirliğiyle,
+
+karar verildi.
