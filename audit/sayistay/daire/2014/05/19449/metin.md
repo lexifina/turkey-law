@@ -1,0 +1,3 @@
+- Muayene ve Kabul Komisyonlarının 2 kişiden oluşması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Belediyece muhtelif zamanlarda avans yolu ile yapılan mal ve hizmet alımlarında, muayene ve kabul  komisyonlarının  mevzuata aykırı olarak 2 kişiden oluştuğu iddia edilmiş ise de; ....Belediyesince düzenlenen ve ...tarih ve ...sayılı Tamim ile tüm harcama birimlerinin ön ödeme yolu ile alımını gerçekleştirdikleri mallara ilişkin olarak Muayene ve Kabul Komisyonu kurup çalıştırmalarının zorunlu kılınması ve konu edilen hususlarda kamu zararı oluşmaması nedenleriyle yapılacak işlem bulunmadığına oybirliğiyle karar verildi.
