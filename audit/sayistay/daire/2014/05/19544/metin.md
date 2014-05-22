@@ -1,0 +1,3 @@
+Geçici Görev Harcırahı
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ...Belediyesinin düzenlemiş olduğu şenliğe katılan belediye personeline geçici görev harcırahı ödendiği iddia edilmiş ise de; 5393 sayılı Belediye Kanunu’nun 18’inci maddesinin (p) bendine göre kardeş kent ilişkisi kurulabilmesi, aynı Kanunun 60’ıncı maddesinin (n) bendine göre kültürel etkinlikler için harcama yapılabilmesi ve 6245 sayılı Harcırah Kanunu’nun 14’üncü maddesine göre belediye personelinin geçici görevle görevlendirilmesi nedenleri ile mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
