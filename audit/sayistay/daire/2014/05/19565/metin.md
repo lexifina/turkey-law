@@ -1,0 +1,3 @@
+Sosyal Tesislerin İhale Kararı Olmadan Kiralanması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ....Belediyesi ...Sosyal Tesislerinin herhangi bir kira sözleşmesi ve ihale kararına dayanmadan ...... A.Ş tarafından işletildiği, ...Parkı ile ....Sosyal Tesisleri’nde çalıştırdığı personeli.... Ltd. Şirketinden sağladığı; ayrıca bahse konu sosyal tesisin ruhsatının bulunmadığı iddia edilmiş ise de; savunmalardan sorgu konusu yerlerin Encümence ihalelerinin yapılarak kiraya verildiği anlaşıldığından mevzuata uygun olan konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
