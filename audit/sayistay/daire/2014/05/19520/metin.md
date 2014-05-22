@@ -1,0 +1,3 @@
+Gecikme cezası ödemesi.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Belediyece internet faturalarının zamanında ödenmemesi nedeniyle ayrıca gecikme cezası ödendiği ve ...-TL tutarında kamu zararına neden olunduğu görülmüş ise de; kamu zararının ...-TL’si ile ilgili olarak fayda maliyet ilişkisi çerçevesinde ilişilecek husus kalmadığına, geriye kalan       ...-TL tutarındaki kamu zararının ise ...tarih ve ...numaralı Tahsilat Makbuzu ile tahsil edildiği, ...tarih ve .. numaralı Muhasebe İşlem Fişi ile de muhasebeleştirildiği anlaşıldığından, ilişilecek husus kalmadığına oy birliğiyle karar verildi.
