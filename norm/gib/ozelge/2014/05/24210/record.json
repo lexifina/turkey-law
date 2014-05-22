@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-125[3-2013/20-219]-90",
+  "source_id": 24210,
+  "date": "2014-05-22",
+  "title": "Yabancı ortağın hissesini itibari değeri üzeriden devretmesi durumunda ne şekilde vergilendireceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24210",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "07c4f8627384b43ddcbbdc1b17be14e8078abc3897d0b4248c0d66f729fb6cf2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
