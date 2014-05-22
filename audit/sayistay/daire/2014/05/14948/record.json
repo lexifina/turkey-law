@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35213",
+  "decision_date": "2014-05-22",
+  "source_id": 14948,
+  "chamber": "2",
+  "ilam_number": "195",
+  "item_number": 4,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14948/",
+  "source_sha256": "6a5e92c4d714cf1cbd41a787021f83fcec18457dcc1fba38ab75ac236fa0d938",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
