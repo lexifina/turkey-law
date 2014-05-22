@@ -1,0 +1,3 @@
+Fuarda Stand Kiralanması ve Konser Gideri
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ...ilçe sınırları dışında düzenlenen fuarda stand kiralama işlemi yapılması ve kiralanan standta konser verilmesi nedeniyle mevzuata aykırı gider yapıldığı iddia edilmiş ise de; yapılan giderlerin 5393 sayılı Belediye Kanunu’nun Belediyenin Görev, Yetki ve Sorumlulukları başlıklı 14’üncü maddesinin (a) bendinde yer alan kültür ve sanat, turizm ve tanıtım ile ekonomi ve ticaretin geliştirilmesi hizmetleri kapsamında yapılmış olması nedeniyle, mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına oybirliğiyle,
