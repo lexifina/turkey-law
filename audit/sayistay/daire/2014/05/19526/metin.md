@@ -1,0 +1,3 @@
+Yurtdışı harcırahı
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Belediye meclis üyeleri ile bazı personelin...’ya davet üzerine gittikleri, yol giderlerinin aracı firmaya ödendiği, ancak firmadan alınan faturada ..-TL’nin ....’ya. uçak bileti bedeli, ..TL’nin de ..transfer bedeli olarak göründüğü, yol giderlerinin mevzuata aykırı olduğu iddia edilmiş ise de; 6245 sayılı Kanun’un 29’uncu ve 59’uncu maddelerine göre kişilerin yurtdışı görev yolluklarını beyan etmesi, kanıtlayıcı belgelerin Ödeme Emri Belgelerine eklenmesi, yurt dışında yolculukların toplu olarak yapılması için bir turizm firması ile anlaşma sağlanması ve kamu zararı oluşmaması nedenleriyle konu hakkında yapılacak işlem bulunmadığına oy birliğiyle karar verildi.
