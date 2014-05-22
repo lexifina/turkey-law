@@ -1,0 +1,3 @@
+Kamulaştırmasız el atma.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Belediyenin yargı kararları doğrultusunda ödediği kamulaştırmasız el atma giderlerinin toplam tutarının, mevzuata aykırı olarak, sermaye yatırım harcamalarının toplam tutarının %5’ini geçtiği iddia edilmiş ise de; 6111 sayılı Kanun’un Geçici 2’nci maddesinde “…… idarelerin yılı bütçelerinde sermaye giderleri için öngörülen ödeneklerden ayrıca yüzde beş pay ayrılır.” denilmesi, bu hükümde herhangi bir üst sınır belirlenmemesi ve kamu zararı oluşmaması nedenleri ile konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
