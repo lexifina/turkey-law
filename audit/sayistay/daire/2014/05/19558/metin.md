@@ -1,0 +1,3 @@
+4734 sayılı Kanunun 3/a maddesine göre ihalesiz iş verilmesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ...Belediyesi tarafından muhtelif tarihlerde ...Kooperatifi ile ...Kooperatifinden, bitkisel materyal satın alınması işinde, 4734 sayılı Kamu İhale Kanunu’nun 3/a maddesinin uygulanması suretiyle ihalesiz iş verildiği iddia edilmiş ise de; köylüler tarafından kurulan ve doğrudan üretici olan söz konusu kooperatiflerden 4734 sayılı Kamu İhale Kanunu’nun 3/a maddesine göre fidan satın alınması ve olayda kamu zararı oluşmaması nedenleri ile konu hakkında ilişilecek husus bulunmadığına ve konunun Bakanlığına yazılmasına gerek olmadığına oy birliğiyle karar verildi.
