@@ -1,0 +1,3 @@
+Otel faturasında kaç kişinin konakladığı bilgisine yer verilmemesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;.... Satranç Turnuvasına katılmak üzere yurtdışından gelen katılımcıların konakladığı otele ait faturada ve harcama talimatında kaç kişinin konakladığına ilişkin bilgilerin yer almadığı iddia edilmiş ise de; mihmandar hesap cetvelinde, katılımcı listelerinde, otel fiyat listesinde ve faturanın açıklama bölümünde kaç kişinin kaç gece hangi fiyattan konakladığına ilişkin bilgilerin yer alması nedeniyle mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına oy birliğiyle
