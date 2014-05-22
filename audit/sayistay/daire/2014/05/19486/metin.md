@@ -1,0 +1,3 @@
+Kültür sanat dergilerine abone olunması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Belediyece, belediyeyi ilgilendiren herhangi bir haber içermeyen çeşitli kültür ve sanat dergilerine abone olunduğu iddia edilmiş ise de; söz konusu dergilerin 5393 sayılı Belediye Kanunu’nun 60’ıncı maddesinin (n) bendi ile Kültür ve Sosyal İşler Müdürlüğü Çalışma Usul ve Esasları Hakkında Yönetmeliğin 13’üncü maddesinin (d) bendine dayanılarak, Belediyeye ait ....Kitaplığında halka sunulmak amacıyla satın alınması nedeni ile mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
