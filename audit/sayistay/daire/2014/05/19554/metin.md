@@ -1,0 +1,3 @@
+Gayrimenkul Kiralaması.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ....adresinde bulunan Belediyeye ait tesislerin Spor Kulübü şirketine rayiç bedelinin altında kiraya verildiği, kiralanan alanın düşük gösterildiği ve ihale aşamalarının mevzuata uygun olmadığı iddia edilmiş ise de; Spor Kulübü şirketine kiralanan ...m2’lik işyerinin m2 kira bedelinin hem...’un m2 kira bedelinden hem de emlak vergisine esas asgari m2 birim değerinin %2’sinden fazla olması, konunun İçişleri Bakanlığı Mülkiye Müfettişlerince de incelenmesi ve olayda kamu zararı oluşmaması nedenleriyle konu hakkında yapılacak işlem bulunmadığına, ayrıca konunun Bakanlığına yazılmasına gerek olmadığına oy birliğiyle karar verildi.
