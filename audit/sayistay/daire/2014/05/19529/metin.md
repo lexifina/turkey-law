@@ -1,0 +1,3 @@
+Lojman bakım onarımı.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Belediyeye ait lojmana duşa kabin takılması ve Belediye şirketi ...tarafından kullanılan klimanın tadilatının yaptırılması nedenleriyle mevzuata aykırı olarak harcama yapıldığı iddia edilmiş ise de; 339 sıra numaralı Milli Emlak Genel Tebliğinin Ek-5’inin 10’uncu sırasının ( c ) fıkrasında duşa kabinin Kamu Kurum ve Kuruluşlarınca yaptırılacağının belirtilmesi ve klimanın da Belediyeye ait binanın demirbaşı olması nedenleri ile mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
