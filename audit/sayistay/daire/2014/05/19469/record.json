@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "110",
+  "decision_date": "2014-05-22",
+  "source_id": 19469,
+  "chamber": "6",
+  "ilam_number": "365",
+  "item_number": 31,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19469/",
+  "source_sha256": "b3c61fb8551e48bf956f77b15fe76094f97c16511848c2a17095d90072e433bf",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
