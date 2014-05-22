@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2014/DK-ETD/257",
+  "date": "2014-05-22",
+  "title": "2012/103 ve 2012/402 sayılı Kurul Kararları'nın Yürürlükten Kaldırılması",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2014-05-22",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=122",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/c0c3ea55-943b-4a99-b85d-cd033ebcc71b.pdf",
+  "source_sha256": "58cb384944a93be0d0a7292467b92cb321613c1d08feb05aadd92d84b55cb34e",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2014-05-22",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 22.05.2014; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
