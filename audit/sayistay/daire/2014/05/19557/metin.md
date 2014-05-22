@@ -1,0 +1,3 @@
+Ek Özel Hizmet Tazminatı.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ....Belediyesi’nde Teknik Hizmetler Sınıfı kadrolarında görevli personele fiilen arazide çalışmadıkları günler için de ödemede bulunulduğu iddia edilmiş ise de; fiilen arazide çalışan personelin puantajlarının tutulması, tutulan bu puantajlara dayanılarak ödemelerin yapılması ve Sayıştay Denetim Yönetmeliğinin Yargılamaya Esas Raporların Düzenlenmesi başlıklı 46’ncı maddesinin 3’üncü fıkrasının (c) bendine aykırı olarak, raporun sonuç kısmında savunmalarda ileri sürülen hususların gerekçeli olarak ayrı ayrı karşılanmaması nedenleri ile mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
