@@ -1,0 +1,3 @@
+Bakım Onarım Giderleri.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ...Belediyesi tarafından üçüncü şahıslardan kiralanan ve hizmet binası olarak kullanılan taşınmazların olağan olmayan bakım ve onarımlarının belediye bütçesinden karşılandığı iddia edilmiş ise de; taraflar arasında yapılan kira sözleşmelerinde “Binada yapılacak her türlü onarım, tadilat ve boya masrafları kiracıya aittir.” hükmünün bulunması ve bu hükme dayanılarak binaların bakım ve onarımlarının belediye bütçesinden karşılanması nedeni ile mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
