@@ -1,0 +1,3 @@
+Yaklaşık maliyetin yanlış hesap edilmesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ....... Müdürlüğü tarafından yapılan “... İhalesi” işinde, yaklaşık maliyet tespitinde Hizmet Alımı İhaleleri Uygulama Yönetmeliği’nin 9’uncu maddesinde yer alan amir hükme aykırı olarak, kanuni üst sınır olan % 20’lik kar oranının aşıldığı iddia edilmiş ise de; yaklaşık maliyetin idarece       -TL olarak hesaplanması, buna mukabil işin ihalesinin ...-TL bedelle yüklenici firma üzerinde bırakılması, idarenin bu konuda doğru bilgilendirilmesi, raporun sonuç kısmında denetçisi tarafından herhangi bir talepte bulunulmaması ve kamu zararı oluşmaması nedenleri ile konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
