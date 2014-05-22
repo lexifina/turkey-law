@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10344",
+  "decision_date": "2014-05-22",
+  "source_id": 17117,
+  "chamber": "1",
+  "ilam_number": "219",
+  "item_number": 9,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17117/",
+  "source_sha256": "f2c558837b976bfb140210b5459f8a28c234e668c36075b19516d0b7f0555d31",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
