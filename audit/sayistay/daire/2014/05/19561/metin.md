@@ -1,0 +1,3 @@
+Yurtdışı Harcırah
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ...Belediyesi Sosyal İşler Müdürünün 23-28 Eylül 2012 tarihleri arasında görevli olarak bulunduğu ...gezisine ilişkin yurtdışı geçici görev yolluğu bildiriminin incelenmesi neticesinde; Yurtdışı Gündeliklere Dair Bakanlar Kurulu Kararı’na ekli cetvele göre gündeliğinin VI no.lu sütundan alınması gerekirken V no.lu sütundan alınması sonucu ...-TL tutarında kamu zararına neden olunduğu görülmüş ise de; söz konusu kamu zararının ...tarih ve ...no.lu tahsil alındı belgesiyle ile tahsil edildiği anlaşıldığından, ilişilecek husus kalmadığına oy birliğiyle karar verildi.
