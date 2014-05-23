@@ -21,4 +21,6 @@ ______________________
 9258-1
 Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5275 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 Anayasa Mahkemesi’nin 26/12/2013 tarihli ve E.: 2013/33, K.: 2013/69 sayılı Kararı | 105/A | 9/1/2014
-Anayasa Mahkemesi’nin 3/10//2013 tarihli ve E.: 2013/28, K.: 2013/106 sayılı Kararı | 48 | 18/1/2014
+Anayasa Mahkemesi’nin 3/10/2013 tarihli ve E.: 2013/28, K.: 2013/106 sayılı Kararı | 48 | 18/1/2014
+Anayasa Mahkemesi’nin 9/4/2014 tarihli ve E.: 2014/14, K.: 2014/77 sayılı Kararı | 105/A | 23/5/2008
+Anayasa Mahkemesi’nin 9/4/2014 tarihli ve E.: 2014/26, K.: 2014/78 sayılı Kararı | 14 | 23/5/2014
