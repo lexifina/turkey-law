@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13649056-125[01-2013/ÖZE-04]-59",
+  "source_id": 27354,
+  "date": "2014-05-23",
+  "title": "Üniversiteye bağlı iktisadi işletmenin kapanmasında demirbaşların devri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27354",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "747203dc23d19133007d6d1f2ecbfc73f21270140e8f6ab1f9b111eed3c77438",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
