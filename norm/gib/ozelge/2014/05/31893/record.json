@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "47285862-125[5-2014/01]-10",
+  "source_id": 31893,
+  "date": "2014-05-23",
+  "title": "Ötedenberi Aktifte Kayıtlı Fabrika Binası ve Demirbaş Satışında K.V. ve KDV İstisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/31893",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "a107c726440adf7dde54e2b3988abf05721ab0eba8e59e0fdae0a31fb84d9768",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
