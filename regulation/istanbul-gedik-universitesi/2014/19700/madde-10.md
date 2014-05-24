@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür ve spor bilimlerine yönelik çalışmalarda katkı sağlayacağı düşünülen Üniversite öğretim elemanları arasından, çalışma alanları da göz önünde bulundurularak, Müdürün önereceği iki katı aday arasından, Rektör tarafından iki yıl süre ile görevlendirilen altı üye ile birlikte toplam yedi kişiden oluşur. Görev süresi biten üyeler yeniden görevlendirilebilir. Görev süresi dolmadan ayrılan üyelerin yerine, kalan süreyi tamamlamak üzere aynı yöntemle yeni bir üye görevlendirilir.
+(2) Yönetim Kurulu yılda en az iki kez olağan ve gerektiğinde Müdürün çağrısı üzerine olağanüstü toplanır. Yönetim Kurulu; salt çoğunlukla toplanır ve kararlarını toplantıya katılan üyelerin oy çokluğu ile alır.
