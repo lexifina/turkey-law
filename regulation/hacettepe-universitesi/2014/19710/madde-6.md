@@ -1,0 +1,8 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez, amacını gerçekleştirmek üzere aşağıdaki alanlarda faaliyette bulunur:
+a) Güncel bilimsel gelişmeler ışığında, vaskülitlerin epidemiyolojisi/etiyolojisi ve tedavileri hakkında araştırmalar yapmak, vaskülit hastalarına hizmet sunumunda görev alan tüm ekip elemanlarının zengin bilimsel donanıma sahip olması için çalışmalar yapmak,
+b) Tanımlanmış hastalıklara eşlik eden sorunların ve yakınmaların, güncel, özgün tedavisi için yeni yöntemlerin geliştirilmesi amacıyla disiplinlerarası işbirliği ile yeni takip ve tedavi planlarını kurgulayıp uygulamak,
+c) Bilimsel ve maddi kaynak sağlanabilmesi için ulusal ve uluslararası bilimsel araştırma, inceleme ve tedavi kurumları ile özel/resmi kuruluşlarla ve ilgili derneklerle işbirliği yapmak, bunlarla bilimsel, teknik bilgi ve hizmet paylaşımı sağlamak,
+ç) İleri düzeyde uzmanlık kursları, çalıştaylar, kongre, konferans, sempozyum, seminerler düzenlemek, bu alandaki bilimsel yayınları desteklemek,
+d) Vaskülit hastalarının sorunları ile tedavi ve takip şemalarını sürekli güncellemek, öncülük yapmak ve diğer üniversite ve eğitim kurumları ile bilgi alışverişinde bulunmak ve eğitim vermek,
+e) Vaskülit hastalarının yakınma ve sorunlarının ticari kaygılardan arındırılmış güncel bilimsel bilgiler ışığında tanı ve tedavisini planlayarak toplumdaki algı hatalarının/bilgi kirliliğinin düzeltilmesine öncülük etmek, ortak toplantılar ile toplumdaki farkındalığın üst düzeylere çıkarılabilmesini sağlamak, kurumsal ve kitlesel danışmanlık ve bilgilendirme hizmetleri vermek, bu doğrultuda medya ve basın/yayın kuruluşları ile ilişkilerde bulunmak.
