@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-140[57-2014/42]-1440",
+  "source_id": 35718,
+  "date": "2014-05-26",
+  "title": "\"6306 sayılı Kanun gereğince riskli yapıdır\" şerhi bulunan taşınmazın malikleri ile müteahhid arasında yapılan \"Düzenleme Şeklinde Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesi\"ne göre müteahhidin vermiş olduğu taahhüdünün teminatı olmak üzere müte",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35718",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "92afd874e2372070691fdcf28210800b2a5764e9b5d2e5567668019d16ca1cf6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
