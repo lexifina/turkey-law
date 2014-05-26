@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-140[57-2013/222]-1441",
+  "source_id": 35715,
+  "date": "2014-05-26",
+  "title": "Taşınmazların mükellef adına devredileceğine ilişkin olarak satış vaadi sözleşmesi düzenlenmesi üzerine Asliye Hukuk Mahkemesinin kararı ile taşınmazın davalı adına kayıtlı hissenin iptaline ve mükellef adına tesciline karar verilmesi durumunda, mükellef",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35715",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "e0b8aea4861b4354455a6b4f8d3aa43710bd7311d6187082facd381fc23c30e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
