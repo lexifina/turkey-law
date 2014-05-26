@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/ankara-sosyal-bilimler-universitesi/2014/19702",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29011",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-05-26",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Ankara Sosyal Bilimler Üniversitesi",
+  "issuer_slug": "ankara-sosyal-bilimler-universitesi",
+  "kind": "regulation",
+  "published": "2014-05-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19702&MevzuatTertip=5",
+  "source_id": "8.5.19702",
+  "source_sha256": "fcb6cfb53b3a944d379673732b118300af56b57af596653968fc9c50a64ad8bf",
+  "title": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ DENEYSEL İKTİSAT UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 432,
+  "version_label": "oldest version available",
+  "word_count": 940
+}
