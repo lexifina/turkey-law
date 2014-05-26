@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97677631-140.05.02[95-2014/1]-17",
+  "source_id": 24249,
+  "date": "2014-05-26",
+  "title": "Adi ortaklığa kayıtlı geminin anonim şirkete aktif ve pasifiyle bütün olarak devredilmesi halinde gemi ve liman harcı aranılıp aranılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/24249",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "af41af077e91337e51d582cd257b61c44ddba871c6d2609ab07eb9267324240a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
