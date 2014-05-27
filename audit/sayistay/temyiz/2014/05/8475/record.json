@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39108",
+  "decision_date": "2014-05-27",
+  "source_id": 8475,
+  "chamber": "5",
+  "file_number": "39142",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8475/",
+  "source_sha256": "138734bf0ee3c6ae855ce357e02da15a9e927610064190c77404f53b78d32d78",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
