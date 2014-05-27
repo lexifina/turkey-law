@@ -1,0 +1,11 @@
+Sosyal Denge Ücreti
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Denetçi ve Savcı görüşlerinde, Belediye Başkan Yardımcılarına mevzuata aykırı olarak sosyal denge ücretinin ödenmesi sonucunda ……-TL tutarında kamu zararına neden olunduğu iddia edildiği görülmüş ise de;
+
+25.06.2001 tarihli ve 4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu’nun Geçici 14’üncü maddesinde,
+
+“(Ek: 4/4/2012-6289/30 md.) 15/3/2012 tarihinden önce 375 sayılı Kanun Hükmünde Kararnamenin ek 15 inci maddesi kapsamındaki idareler ile ilgili sendikalar arasında toplu iş sözleşmesi, toplu sözleşme, sosyal denge sözleşmesi ve benzeri adlar altında imzalanan sözleşmelerin uygulanmasına, söz konusu sözleşmelerde öngörülen sürelerin sonuna kadar devam edilebilir. ….” denilerek 15/3/2012 tarihinden önce toplu iş sözleşmesi, toplu sözleşme, sosyal denge sözleşmesi, denge sözleşmesi ve benzeri adlar altında imzalanan sözleşmelerin uygulanmasına söz konusu sözleşmelerde belirtilen sürelerin sonuna kadar devam edilebileceği belirtilmiştir.
+
+Belediye Başkan Yardımcılarına da 15/3/2012 tarihinden önce imzalanan ve süresi devam eden Sözleşmelere göre ödeme yapılmıştır. Her ne kadar söz konusu Sözleşmelerin yetkili sendika ile imzalanmadığı için geçersiz olduğu iddia edilmekte ise de, savunmalarda da belirtildiği üzere yetkili sendika ile 4688 sayılı Kanun’un 28’inci maddesi hükmüne aykırı olan talepleri nedeniyle sözleşme imzalanamamıştır. Anılan Kanun’un 28’inci maddesinin ikinci fıkrasında, toplu sözleşme ikramiyesi hariç olmak üzere toplu sözleşme hükümlerinin uygulanmasında sendika üyesi olan ve sendika üyesi olmayan kamu görevlileri arasında ayrım yapılamayacağı hükme bağlandığı halde, yetkili sendika tarafından sendikaya üye olmayanların sosyal denge sözleşmesinden yararlanabilmeleri için sendikaya aidat ödeme zorunluluğu getirilmek istenmiş ve böylece sosyal denge sözleşmesinin imzalanmasına bir anlamda engel olunmuştur. Bu nedenle mevcut uygulanan sözleşmelerin yetkili sendika ile imzalanmış sözleşme olarak kabulü gerekir.
+
+Açıklanan gerekçeyle, Belediye Başkan Yardımcılarına ödenen mevzuatına uygun olduğu anlaşılan sorgu konusu sosyal denge ücreti ………-TL tutarında ödeme için ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
