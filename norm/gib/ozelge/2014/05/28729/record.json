@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-125[KVK.2012.ÖZ.40]-138",
+  "source_id": 28729,
+  "date": "2014-05-27",
+  "title": "Yatırım teşvik belgeli yatırımlarda indirimli kurumlar vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28729",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "f2a87794d9732c9bcda998f7848fc19f770ab04d40a3f3260cc4c4a6f7d3d48b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
