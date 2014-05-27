@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39066",
+  "decision_date": "2014-05-27",
+  "source_id": 8433,
+  "chamber": "8",
+  "file_number": "37960",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8433/",
+  "source_sha256": "eac9953177012b9f9043215150fa721d32ce59de4f67d120dab402a1689b0997",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
