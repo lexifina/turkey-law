@@ -1,0 +1,13 @@
+Taşınmaz kültür varlıklarının korunmasına ait katkı payı
+
+...........Belediyesi 2012 yılı gelir hesaplarının incelenmesi neticesinde tahakkuk ettirilen Emlak Vergisinin 1/10 oranında alınması gereken taşınmaz kültür varlıklarının korunmasına ait katkı paylarının, kısıtlı emlak vergilendirilmesinde eksik tahakkuk ve tahsil edilmesiyle ilgili olarak;
+
+Kültür ve Tabiat Varlıklarını Koruma Kanunu ile Çeşitli Kanunlarda Değişiklik Yapılması Hakkında 5226 sayılı Kanunun 6 ncı maddesi hükmünde, “…Belediyelerin görev alanlarında kalan kültür varlıklarının korunması ve değerlendirilmesi amacıyla kullanılmak üzere 1319 sayılı Emlak Vergisi Kanununun 8 inci ve 18 inci maddeleri uyarınca mükellef hakkında tahakkuk eden emlak vergisinin %10'u nispetinde "Taşınmaz Kültür Varlıklarının Korunmasına Katkı Payı" tahakkuk ettirilir ve ilgili belediyesince emlak vergisi ile birlikte tahsil edilir…”denilmektedir.
+
+1319 sayılı Emlak Vergisi Kanununun 30 uncu maddesinde verginin ödeme süresi hüküm altına alınmış olup, maddenin dördüncü fıkrasında, kanunlar veya diğer kamu düzeni koyan mevzuatla tasarrufu kısıtlanan bina, arsa ve arazi vergisinin, kısıtlamaların devam ettiği sürece 1/10 oranında tahsil olunacağı, 9/10’unun tecil edileceği ifade edilmiştir.
+
+………. Belediyesi gelir hesaplarının incelenmesi neticesinde; 17.11.1986 tarih ve 19284 sayılı Resmi Gazetede yayımlanan, “Tasarrufu Kısıtlanan Bina, Arsa ve Arazi Hakkında Yönetmelik” kapsamında kalması nedeniyle 1/10 oranında kısıtlı vergi uygulamasına tabi tutulan taşınmazlar için ödenmesi gereken taşınmaz kültür varlıklarının korunmasına ait katkı paylarının kısıtlı vergi değerinin 1/10’u oranında yapıldığı görülmüştür.
+
+Sorumlular savunmada, İçişleri Bakanlığı Mahalli İdareler Genel Müdürlüğü’nün 25.03.2010 tarih ve 45367 sayılı ekte sunulan görüşü ve Gelir İdaresi Başkanlığı İstanbul Vergi Dairesi Başkanlığının 06.03.2013 tarih ve 918 sayılı özelgesinde kısıtlı taşınmazlardan alınan1/10 oranındaki Kültür Varlığı Koruma Katkı Payının kısıtlılık uygulanarak tahakkuk ve tahsil edilmesi gerektiği değerlendirildiğinden uygulamanın bu şekilde yapıldığını belirtmişlerdir.
+
+Bu itibarla; ………. Belediyesi 2012 yılı gelir hesaplarının incelenmesi neticesinde tahakkuk ettirilen Emlak Vergisinin 1/10 oranında alınması gereken taşınmaz kültür varlıklarının korunmasına ait katkı paylarının, kısıtlı emlak vergilendirilmesinde eksik tahakkuk ve tahsil edilmesiyle ilgili olarak; 1319 sayılı Emlak Vergisi Kanununun 30 uncu maddesine göre, kısıtlamalar devam ettiği sürece verginin 1/10 oranında tahsil olunacağı, 9/10’unun tecil edileceği ifade edildiğimden hesap ve işlemler yasal düzenlemelere uygun olup ilişilecek bir husus bulunmadığına oybirliğiyle karar verildi.
