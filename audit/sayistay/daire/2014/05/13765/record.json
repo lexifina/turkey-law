@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "67",
+  "decision_date": "2014-05-27",
+  "source_id": 13765,
+  "chamber": "5",
+  "ilam_number": "307",
+  "item_number": 15,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13765/",
+  "source_sha256": "42903a04e424b7be0eff55e912f370e1a803ad2f471e2173a550afe75d560a8c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
