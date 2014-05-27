@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-130[28-2013/20-1115]-95",
+  "source_id": 32639,
+  "date": "2014-05-27",
+  "title": "Mobilya ve kırlent-minderin ana ürünle veya ayrık satılması halinde KDV oranı h.k",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32639",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "3c6e3375de72cb56b2a60f2b0ec7e1b8a4122c9b2d8b7282d44948542b1dd34e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
