@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "111",
+  "decision_date": "2014-05-27",
+  "source_id": 22760,
+  "chamber": "6",
+  "ilam_number": "280",
+  "item_number": 9,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22760/",
+  "source_sha256": "bd4212171a1d98d9efd6ba35b112c7a9efeaa96a87c5e2aebd647c46a31b3c42",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
