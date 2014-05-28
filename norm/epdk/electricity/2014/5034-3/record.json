@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5034/3",
+  "decision_date": "2014-05-28",
+  "title": "Osmangazi Elektrik Dağıtım A.Ş.’nin kayıp kaçak gelir ihtiyacına ilişkin karar.",
+  "resmi_gazete_date": "2014-06-18",
+  "resmi_gazete_number": "29034",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UNfEEd+4elo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UNfEEd+4elo="
+  ],
+  "source_sha256": "e7519afdebdcf348f9b45a127c1f15e857f1ce903d7a4be2700b97d8f31e4dc9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-05-28",
+  "law_text_complete": false
+}
