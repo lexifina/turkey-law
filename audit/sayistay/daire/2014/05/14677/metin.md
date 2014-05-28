@@ -1,0 +1,3 @@
+Geçici görev yolluğu ödemelerinde yevmiyelerin aynı gün içinde gidilip gelinen günlerde, yolda ve görevde geçen süreye uygun olarak belirlenmemesi.
+
+Geçici görev yolluğu ödemelerinde yevmiyelerin aynı gün içinde gidilip gelinen günlerde, yolda ve görevde geçen süreye uygun olarak belirlenmemesi, saat 13:00’den önce dönülen zaman dilimleri için yevmiye hesaplanması ve ikamet edilen yerde yapılan görevlendirmeler için de yevmiye ödenmesi sonucu ….. TL kamu zararına sebebiyet verildiği ifade edilmişse de, söz konusu tutarın .… TL’sinin aşağıda yer alan tabloda yazılı belgelerle tahsil edildiği anlaşıldığından bu tutar için ilişik kalmadığına, kalan ..… TL ile ilgili olarak yapılan savunmalar uyarınca ilişiğinin bulunmadığına oybirliğiyle,
