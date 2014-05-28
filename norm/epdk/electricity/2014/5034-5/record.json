@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5034/5",
+  "decision_date": "2014-05-28",
+  "title": "Kayseri ve Civarı Elektrik T.A.Ş.’nin 2011-2015 uygulama dönemi yatırım planınına ilişkin Karar.",
+  "resmi_gazete_date": "2014-06-18",
+  "resmi_gazete_number": "29034",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u18fa33RtKA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u18fa33RtKA="
+  ],
+  "source_sha256": "61548487e4485527fd8a25680948e6f3c54ba34e3aebdb6c5aef050afb389730",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-05-28",
+  "law_text_complete": false
+}
