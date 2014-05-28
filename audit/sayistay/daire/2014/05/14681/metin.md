@@ -1,0 +1,3 @@
+Sağlık Kültür ve Spor Daire Başkanlığınca işletilen yüzme havuzunda kullanılmak üzere alınan malzemeler arasında, kişisel kullanıma mahsus malzemelerin de bulunması.
+
+Sağlık Kültür ve Spor Daire Başkanlığınca işletilen yüzme havuzunda kullanılmak üzere alınan malzemeler arasında, kişisel kullanıma mahsus malzemelerin de bulunduğu görülmüşse de, Üniversite Sağlık Kültür ve Spor Daire Başkanlığı birimi olan yüzme havuzunda görevli personele bu görevleri esnasında kullanılmak üzere alınan malzemelerin bedellerinin bütçeden ödenmesinde kamu zararı oluşmadığı ve ..… TL için ilişik bulunmadığına oybirliğiyle,
