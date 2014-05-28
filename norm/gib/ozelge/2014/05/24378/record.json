@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-120[89-2013-1]-59",
+  "source_id": 24378,
+  "date": "2014-05-28",
+  "title": "Belediyelerde, iftar çadırlarında ve bazı etkinliklerde kullanılmak üzere bedelsiz olarak verilen masa ve sandalye için fatura düzenlenip düzenlenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24378",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "e63d3a4f89c0134984fb66fcf6bc183ac4776aa95dbe597647f37477d8645635",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
