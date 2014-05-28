@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5037",
+  "decision_date": "2014-05-28",
+  "title": "Dağıtım Lisansı Sahibi Tüzel Kişiler ve Görevli Perakende Satış Şirketlerinin Tarife Uygulamalarına İlişkin Usul ve Esaslarında değişikliğe ilişkin Karar.",
+  "resmi_gazete_date": "2014-06-18",
+  "resmi_gazete_number": "29034",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8xt3LYpHwQ4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8xt3LYpHwQ4="
+  ],
+  "source_sha256": "30b0c4492985730f754ccc72129fe5e1c3ec13dd35f765335483d5b0c9ef7807",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-05-28",
+  "law_text_complete": false
+}
