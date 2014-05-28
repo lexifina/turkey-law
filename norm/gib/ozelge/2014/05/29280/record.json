@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37009108-130[17-2014/1024]-73",
+  "source_id": 29280,
+  "date": "2014-05-28",
+  "title": "KDV Kanununu 17/4-y bendi gereğince finansman kiralamaya konu taşınmazın alımında ödenen KDV'nin düzeltmeye konu olması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29280",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "63b93d12498b2c9435c4fe389a16e0c646b9918a2f35e0ddcc1564b858daaa7d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
