@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[6-2013/48]-1479",
+  "source_id": 22596,
+  "date": "2014-05-28",
+  "title": "Döviz karşılığı mal alımlarında kur riskini azaltmaya yönelik yapılan anlaşmaların kurumlar vergisinin hesaplanmasında nasıl dikkate alınacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22596",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "fab619a876cf00ec4ec8f2ddb9b6e18478a18739de0e773594e2f11e1749c476",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
