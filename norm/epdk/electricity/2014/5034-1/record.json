@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5034/1",
+  "decision_date": "2014-05-28",
+  "title": "Trakya Elektrik Dağıtım Anonim Şirketi’nin 2013 yılı dağıtım gelir tavanı revizyonu",
+  "resmi_gazete_date": "2014-06-18",
+  "resmi_gazete_number": "29034",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=E6On9Fl4TyA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=E6On9Fl4TyA="
+  ],
+  "source_sha256": "a65656316d2d39615f4aa462485a3ac257c19afa8b4988ab5a8e65905543393f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-05-28",
+  "law_text_complete": false
+}
