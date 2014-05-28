@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5034/2",
+  "decision_date": "2014-05-28",
+  "title": "Yeşilırmak Elektrik Dağıtım Anonim Şirketi’nin 2013 yılı dağıtım gelir tavanı revizyonu",
+  "resmi_gazete_date": "2014-06-18",
+  "resmi_gazete_number": "29034",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=v1HAvyRxraQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=v1HAvyRxraQ="
+  ],
+  "source_sha256": "192ddcc35aa4de817f937291b83861495efd0a605eecfce92defdaa6726bac8e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-05-28",
+  "law_text_complete": false
+}
