@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "47285862-130[11/1-2013/08]-11",
+  "source_id": 30921,
+  "date": "2014-05-28",
+  "title": "İplik Üretiminde Elde Edilen Telefin İhraç Kayıtlı Satılıp Satılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30921",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "87b783137e7e5fded031a6c9b27f3bb74f330ef2817474c8f44ff1f5d3ffd0f5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
