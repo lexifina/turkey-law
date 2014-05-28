@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-05-28",
+  "issue": "29013",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "1060 Sayıştayda Boş Bulunan Beş Üyelik İçin Yapılan Seçime Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140528-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140528.htm",
+  "index_sha256": "fad4f00818d6a4c8dcf6b690ac83b034cc2999bd831c9518f3104ec68e1b50a1",
+  "index_header": "28 Mayıs 2014 ... 29013 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140528.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
