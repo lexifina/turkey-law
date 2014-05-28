@@ -1,0 +1,7 @@
+Giriş sınavı sonuçları ve sonuçlara itiraz
+MADDE 19 – (1) Komisyon; adayların giriş sınavı başarı puanlarını; KPSS puanı, sözlü ve/veya uygulama sınav puanı toplamının aritmetik ortalamasını alarak belirler.
+(2) Giriş sınavı başarı puanı en az yetmiştir.
+(3) Atama yapılacak kadro sayısı kadar asıl adayın isimleri tutanakla belirlenir. Giriş sınavından 70 veya daha fazla puan almış olmak kaydıyla giriş sınavı duyurusunda belirtilen kadro sayısının yarısını geçmeyecek kadar yedek aday listesi belirlenir. Başarı sırasına göre oluşturulacak yedek aday listesi, sınav sonuçları ilan edildiği tarihten itibaren bir yılı geçmemek üzere müteakip sınava kadar geçerlidir. Sınav sonucu Başkanın onayı ile Kurumun internet sitesinde ilan edilir. Ayrıca, sınav sonucu sınavda başarılı olan adaylara yazılı olarak bildirilir.
+(4) Giriş sınavı sonucunda başarılı olan adayların notlarının eşit olması halinde ise KPSS puanı yüksek olan aday sıralamada üstte yer alır.
+(5) Sınav sonuçlarının ilanından itibaren yedi iş günü içinde yazılı olarak itiraz edilebilir. İtirazlar bu sürenin bitiminden itibaren Komisyon tarafından en fazla on iş günü içinde incelenerek karara bağlanır. İtiraz sonucu adaya yazılı olarak bildirilir. İtirazların değerlendirilmesi üzerine verilen kararlar kesindir. İtiraz süresi içinde Kuruma ulaşmayan dilekçeler dikkate alınmaz.
+(6) Giriş sınavında yetmiş ve üzerinde puan almış olmak, sıralamaya giremeyen adaylar için müktesep hak teşkil etmez.

@@ -1,0 +1,3 @@
+Giriş sınavının duyurulması ve zamanı
+MADDE 11 – (1) Alınacak personelin unvan ve sayısı, giriş sınavı başvuru tarihi, istenecek belgeler, sınavın şekli, yeri ve zamanı ile KPSS sonuçlarına göre puan türü ve asgari puan Başkan tarafından belirlenerek, Resmî Gazete’de ve yurt düzeyinde yayımlanan en az iki ayrı günlük gazetede, en az birer defa yayımlanmak ve Kurum internet sitesinde ilan edilmek suretiyle duyurulur. Duyuru ayrıca Devlet Personel Başkanlığının resmi internet sitesinde de ilan edilir.
+(2) İlanlar, sınav tarihinden en az otuz gün önce başlayacak şekilde yapılır. Başvuru ve kayıt süresinin bitimi ile sınavın başlama tarihi arasında en az on iş günlük bir süre bulunur.

@@ -1,0 +1,6 @@
+Atama ve göreve başlama
+MADDE 21 – (1) Giriş sınavını kazananların atanmaları, göreve başlamaları ve adaylıklarına ilişkin işlemler, 657 sayılı Devlet Memurları Kanunu hükümlerine göre yapılır.
+(2) Sınavı kazananların atama işlemlerinin yapılmasına ilişkin olarak, tebligatta belirtilen süre içinde 20 nci maddede yer alan belgelerle şahsen Kuruma müracaat etmeleri gerekir.
+(3) Atama işlemlerinin yapılması için kendilerine bildirilen süre içinde belgelendirilmiş bir mazereti olmadığı halde müracaat etmeyenlerin atamaları yapılmaz.
+(4) Giriş sınavını kazananlardan başvuru belgelerinde gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavları geçersiz sayılır ve atamaları yapılmaz. Bu kişilerin atamaları yapılmış olsa dahi iptal edilir. Bu kişiler hiçbir hak talep edemezler ve haklarında, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun ilgili hükümleri uygulanmak üzere, ilgili Cumhuriyet Başsavcılığına suç duyurusunda bulunulur. Bu şekilde Kurumu yanıltanlar kamu görevlisi ise durumları çalıştıkları kurumlara bildirilir.
+(5) Giriş sınavında başarılı olup ataması yapılmayanların veya ataması yapılıp da göreve başlamayanların veya herhangi bir sebeple görevden ayrılanların yerine yedek listeden atama yapılabilir.
