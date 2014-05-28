@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "73903997-140.04.01[59-2014/6]-4161",
+  "source_id": 35934,
+  "date": "2014-05-28",
+  "title": "Vazife malullerinin faizsiz konut kredisinden faydalanarak gayrimenkul alması durumunda, 2985 sayılı Kanunun ek 2 nci maddesi kapsamında iktisap edecekleri gayrimenkul nedeniyle tapuda tesis olunacak ipotek işlemleri ile tescil işleminden muaf olup olmadı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35934",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "743b6201975bf4a9f48ccb92791170d776b2c304f39a3c410dd59a1d864948e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
