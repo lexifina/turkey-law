@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[18-14/5]-531",
+  "source_id": 21117,
+  "date": "2014-05-29",
+  "title": "Kumaş parçaları kullanılarak yapılan elişi resim çalışmaları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21117",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "ec5c51c37da895cdea66461801615a44accb629f29103a184504c76bd9da1ced",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
