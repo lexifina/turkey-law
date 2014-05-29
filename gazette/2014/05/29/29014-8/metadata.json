@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-05-29",
+  "issue": "29014",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2014/43)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140529-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140529.htm",
+  "index_sha256": "958e9b7b21e4b7861cf28df5649058e0199f82c9b6c42f25030f0a5adb9b317e",
+  "index_header": "29 Mayıs 2014 ... 29014 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/05/20140529.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
