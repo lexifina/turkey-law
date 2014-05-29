@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 2 – (1) Bu Yönetmelikte, Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununa atıf yapılan hükümler için, 5996 sayılı Kanun yürürlüğe girinceye kadar 27/5/2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun ile 29/5/1973 tarihli ve 1734 sayılı Yem Kanunu hükümleri uygulanır.

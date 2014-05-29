@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.14203",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GENETİK YAPISI DEĞİŞTİRİLMİŞ ORGANİZMALAR VE ÜRÜNLERİNE DAİR YÖNETMELİK",
+  "number": "14203",
+  "issuer": "Tarım ve Köyişleri Bakanı",
+  "issuer_slug": "tarim-ve-koyisleri-bakani",
+  "path": "regulation/tarim-ve-koyisleri-bakani/2010/14203",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14203&MevzuatTertip=5",
+  "source_sha256": "44245cb3900498a17d8d991dc7d258c111cc3ff915045eb87bac2edde112bf88",
+  "source_bytes": 213899,
+  "published": "2010-08-13",
+  "gazette": "27671",
+  "in_force": "2014-05-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/5/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-05-29",
+      "RG-29/5/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-05-29",
+      "29/5/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-02-22",
+      "RG-22/2/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-02-22",
+      "22/2/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 26/9/2010 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7563,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

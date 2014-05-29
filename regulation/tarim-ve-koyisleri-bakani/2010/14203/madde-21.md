@@ -1,0 +1,6 @@
+İzleme ve izlenebilirlik
+MADDE 21 – (1) İlgililer; 18 inci, 19 uncu ve 20 nci maddelere göre etiketledikleri GDO ve ürünleri ile GDO’lardan elde edilen ürünlerin son tüketiciye ulaşıncaya kadar izlenebilirliğini sağlamak için EK- 4’deki formu bulundurmak ve forma ilişkin kayıt sistemine sahip olmak zorundadır.
+(2) GDO ve ürünleri ile ilgili olarak Kurulun karar belgesinde belirtilen koşullara uyulup uyulmadığı Bakanlık tarafından izlenir. Bakanlık izleme sonuçlarına göre Biyogüvenlik Kanunu hükümleri ile birlikte Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu hükümlerine göre işlem yapar.
+(3) İzlenebilirliğin sağlanması amacıyla, GDO ve ürünlerinin ithalatı ve serbest dolaşımında, Bakanlığa beyanda bulunulur, gerekli kayıtlar tutulur ve etiketleme kurallarına uyulur.
+(4) İlgililer, ithalat aşamasından başlayarak işleme, depolama, piyasaya sürme aşamalarında kullanılan irsaliyeli fatura veya sevk irsaliyesi gibi belgelerde mübadele konusu yapılan GDO ve ürünlerinin GDO çeşidini ve ürün miktarını belirtmek zorundadır.
+(5) İlgililer, bu Yönetmelik kapsamındaki izleme ve izlenebilirliğin sağlanmasında müteselsilen sorumludur. İzlenebilirliğin sağlanamadığı aşamadaki ilgili taraflar sorumlu tutulur.

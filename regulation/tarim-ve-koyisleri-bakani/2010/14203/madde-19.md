@@ -1,0 +1,8 @@
+Yemlerin etiketlenmesi
+MADDE 19 – (1) Bu Yönetmelik kapsamında yer alan yemlerin, Bakanlık tarafından belirlenen eşik değerin üzerinde; GDO içermesi veya GDO’lardan oluşması veya onaylanmış GDO’lardan elde edilmiş olması hâlinde, 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununda yer alan etiket gerekliliklerine ilave olarak; her bir yem aşağıdaki şekilde etiketlenir.
+a) GDO içeren veya GDO’lardan oluşan yemin özel adının yanında parantez içinde “genetik yapısı değiştirilmiş ………” ibaresi bulunur. Bu ibare yem bileşen listesi altında dip not olarak da yer alabilir. Bu durumda yazı karakter büyüklüğü listede belirtilen ürünlerin karakter büyüklüğünden az olamaz.
+b) GDO’dan elde edilen yemin adının yanında parantez içinde “genetik yapısı değiştirilmiş ……… den elde edilmiştir” ibaresi yer alır. Bu ibare yem bileşen listesi altında dip not olarak da yer alabilir. Bu durumda yazı karakter büyüklüğü listede belirtilen ürünlerin karakter büyüklüğünden az olamaz.
+c) Bu Yönetmelik kapsamındaki dökme yemlerin beraberinde, etiket bilgilerini içeren belge bulundurulur.
+ç) Bu Yönetmelik kapsamındaki yemlerin GDO’suz eşdeğerinden farklı olması hâlinde bileşimi, besleme özellikleri, kullanım amacı, belirli hayvan türü ya da kategorisi için yapılan sağlık ile ilgili uyarılar etiket üzerinde bulundurulur.
+d) Bu Yönetmelik kapsamındaki yemlerin GDO’suz eşdeğeri yoksa, o yemin yapısı ve karakteristikleri ile ilgili bilgiler etiket üzerinde bulundurulur.
+e) GDO’suz eşdeğer yemlerin etiketlerinde GDO içermediğini, GDO’dan oluşmadığını, GDO’dan elde edilmediğini ifade eden beyanlar yer alabilir.
