@@ -1,0 +1,2 @@
+İdari ve Mali İşler Dairesi Başkanlığı :
+Madde 16 – (Mülga: 11/10/2011 - KHK - 662/23 md.)

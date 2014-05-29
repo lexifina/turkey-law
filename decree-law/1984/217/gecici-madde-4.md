@@ -1,0 +1,2 @@
+Geçici Madde 4 – Bu Kanun Hükmünde Kararname ile kaldırılan 160 sayılı Devlet Personel Dairesi Kurulması Hakkındaki Kanunun 2 nci maddesi gereğince atanmış bulunan "Devlet Personel Heyeti Üyeleri" bu görevde almakta oldukları aylık ek gösterge ve zam ve tazminat hakları ve kadroları şahsa bağlı kalmak kaydıyla Müşavir olarak görevlendirilirler. İstekleri halinde durumlarına uygun görevlere atanmak üzere genel hükümlere göre ilgili oldukları kurumlara iade edilir.
+246

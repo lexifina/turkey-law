@@ -1,0 +1,18 @@
+Görev
+Madde 3 – Devlet Personel Başkanlığı'nın görevleri şunlardır:
+a) Kamu personelinin hukuki ve mali statüsünün ve uygulanmasının esaslarını tespit etmek, bunların düzenlenmesi ve geliştirilmesiyle ilgili çalışmaları yapmak, gerekli kanun, tüzük ve yönetmelik tasarıları ile diğer idari metinleri hazırlamak,
+b) Kamu kurum ve kuruluşlarının personel ihtiyaçlarını karşılamak için uygulanacak usul ve esasları düzenlemek ve bu konuda gerekli çalışmaları yapmak,
+c) Personel ve teşkilatlanma konuları ile ilgili olarak kamu kurum ve kuruluşlarınca hazırlanan ve Başkanlığa sunulan kanun, tüzük ve yönetmelik tasarı ve tekliflerini incelemek, bunları görüş ve teklifleriyle birlikte Başbakanlığa sunmak,
+d) Personel idari usul ve esaslarla ilgili konulardaki uygulamaları takip ve değerlendirmek, kamu kurum ve kuruluşlarından raporlar ve teklifler istemek, gerektiğinde toplantılar düzenlemek değerlendirme sonuçlarına göre alınacak tedbirleri teklif etmek, bu alanda gerekli inceleme ve araştırmaları yapmak,
+e) Kadro ve ünvan standardizasyonu, iş analizleri de dahil olmak üzere görev alanına giren konularda gerekli her türlü araştırma ve incelemeleri yapmak veya yaptırmak, Personel rejimleri arasında uyum ve denge sağlamak, bu konularda gerekli ilke ve esasları tesbit etmek,
+f) Kamu personeli ile ilgili hususlarda her çeşit istatistiki bilgileri toplamak, umumi personel kayıtlarını merkezi olarak tutmak,
+g) Personel mevzuatı ve teşkilatlanma ile ilgili konularda, kamu kurum ve kuruluşlarında değişik uygulamaları önleyecek ve uygulama birliğini sağlıyacak tedbirleri tesbit etmek ve uygulamayı izlemek,
+h) Kamu kuruluşlarında, personel planlaması yapılması ve uygulamasına yardımcı olmak ve her kademede görevli personelin hizmet içinde eğitilmesi ve yetiştirilmesi ile ileriki kadrolara hazırlanmalarını sağlamak üzere gerekli eğitim programlarının hazırlanması, uygulanması ve bunların takip ve değerlendirilmesine ait esasları düzenlemek ve bu alandaki uygulamaları denetlemek,
+ı) Hizmet öncesi Eğitim Kurumlarının Müfredat Programlarına, Kamu görevlerinin gerektirdiği niteliklerin ve bilgi ve alışkanlıklarının kazandırılmasına yararlı konuların yansıması için gerekli koordinasyon ve çalışmaları yapmak,
+k) Bu Kanun Hükmünde Kararname kapsamına dahil kurumların görevlerinde, görevlerin bölünüşünde, teşkilatında, metotlarında ve mevzuatında ortaya çıkacak aksaklıkları, bozuklukları ve eksiklikleri giderecek çalışmalar yapmak ve bu amaçla hazırlanacak tasarı ve teklifler ile yeniden kurulacak kurumların teşkilat ve görevleri hakkında görüş vermek,
+l) Personel rejiminin esaslarını tesbit etmek, Devlet Personel Politikasının tesbitinde ve uygulanmasında Bakanlar Kuruluna yardımcı olmak ve koordinasyonu sağlamak,
+239
+m) Kamu Personeline ait hukuki ve mali statülerin esasları ile, insangücü istihdam planına ait ilke ve teklifleri tesbit ederek Bakanlar Kuruluna sunmak,
+n) (Ek: 11/10/2011 - KHK - 662/18 md.) İlgili kamu kurum ve kuruluşlarıyla işbirliği içinde, kamu görevlileri sendikalarına ilişkin mevzuatın uygulanmasında personel konularında ortaya çıkabilecek tereddütleri gidererek uygulama birliğini sağlayacak tedbirleri almak, kamu işverenini temsilen yetkili kurullar ile kamu görevlileri sendikaları ve üst kuruluşları arasında yürütülen çalışmalarda danışma, destek ve koordinasyon hizmetlerini yürütmek,
+o) (Ek: 11/10/2011 - KHK - 662/18 md.)Özelleştirme veya yeniden yapılandırma sürecinde bulunan kamu kurum ve kuruluşlarındaki istihdam fazlası ve nakle tâbi personele ilişkin işlemleri yürütmek,
+p) Kanunlarla ve Başbakanlıkça verilecek diğer görevleri yapmak.(1)

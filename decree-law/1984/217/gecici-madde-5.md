@@ -1,0 +1,1 @@
+Geçici Madde 5 – Başkanlık Teşkilatı bu Kanun Hükmünde Kararname esaslarına göre yeniden düzenleninceye ve bu düzenleme uyarınca Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname Hükümlerine göre yeni kadrolar tesbit ve ihdas edilinceye kadar bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihte uygulanmakta olan mevcut kadroların kullanımına devam olunur.

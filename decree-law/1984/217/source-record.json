@@ -1,0 +1,99 @@
+{
+  "source_id": "24.5.217",
+  "path": "decree-law/1984/217",
+  "number": "217",
+  "tertip": "5",
+  "title": "DEVLET PERSONEL BAŞKANLIĞI KURULUŞ VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1984-06-08",
+  "enacted_as_printed": "08.06.1984",
+  "published": "1984-06-18",
+  "gazette": "18435",
+  "in_force": "2014-05-29",
+  "in_force_basis": "latest date printed in the act's own entry-into-force list: \"Anayasa Mahkemesi’nin 3/4/2013 tarihli ve E.: 2011/142, K.: 2013/52 sayılı Kararı | 25 | 29/5/2014 tarihinden başlayarak dokuz ay sonra\"",
+  "date_evidence": [
+    [
+      "2014-05-29",
+      "Anayasa Mahkemesi’nin 3/4/2013 tarihli ve E.: 2011/142, K.: 2013/52 sayılı Kararı | 25 | 29/5/2014 tarihinden başlayarak dokuz ay sonra",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2013-05-03",
+      "6462 | 12/B | 3/5/2013",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-11-02",
+      "KHK/666 | Ek Madde 1 | 14/1/2011 tarihinden geçerli olmak üzere 2/11/2011",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-11-02",
+      "KHK/662 | 3, 6, 7, 12, 12/A, 12/B, 12/C, 13, 14, 15 ,16, 17, 23, 25, Geçici Madde 7, (1) sayılı Cetvel, (I) sayılı liste | 2/11/2011",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-10-11",
+      "(Mülga: 11/10/2011 - KHK - 662/23 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-11",
+      "(Ek:11/10/2011-KHK-662/19 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-11",
+      "(Ek: 11/10/2011-KHK-662/26 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-11",
+      "(Ek: 11/10/2011 - KHK - 662/26 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-11",
+      "(Ek: 11/10/2011 - KHK - 662/21 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-11",
+      "(Ek: 11/10/2011 - KHK - 662/18 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-11",
+      "(Değişik: 11/10/2011 - KHK - 662/27 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-11",
+      "(Değişik: 11/10/2011 - KHK - 662/24 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "yürürlükten kaldırılmıştır.",
+    "(1) Bu madde, 29/5/2009 tarihli ve 5902 sayılı Afet ve Acil Durum Yönetimi Başkanlığının Teşkilat ve Görevleri Hakkında Kanunun 25 inci maddesinin beşinci fıkrasıyla yürürlükten kaldırılmış olup, mezkur fıkrayla sivil savunma ve seferberlik hizmetlerini planlama ve yürütme görevlerinin, idari ve mali işler, destek hizmetleri veya bu amaçla kurulmuş hizmet birimleri tarafından yürütüleceği hüküm altına alınmıştır.",
+    "Madde 30 – Diğer kanunlarda geçen \"Devlet Personel Dairesi\" ibaresi \"Devlet Personel Başkanlığı\" olarak değiştirilmiş ve 13 Aralık 1960 gün ve 160 sayılı Devlet Personel Dairesi Kurulmasına Dair Kanun ile diğer kanunların bu Kanun Hükmünde Kararnameye aykırı hükümleri yürürlükten kaldırılmıştır.",
+    "(Mülga: 11/10/2011 - KHK - 662/23 md.)",
+    "(Mülga : 29/5/2009 – 5902/25 md.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=217&MevzuatTertip=5",
+  "source_sha256": "5d5318969feda6eb224adcfb9bd57f406e5a4300fa1376c527d991c327ea7bd2",
+  "source_bytes": 123805,
+  "words": 4195,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
