@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-155[ÖZG-2013-102]-48",
+  "source_id": 34811,
+  "date": "2014-05-29",
+  "title": "Esnaf ve Sanatkarlar Odaları Birliği tarafından satın alınacak taşınmazın 5362 sayılı Kanun'un 65 inci maddesi kapsamında harç ve damga vergisi istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/34811",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "b73095b3bb0f0229e25d815a2a29568dac1e09e54720ed81e685d69ace03f9e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
