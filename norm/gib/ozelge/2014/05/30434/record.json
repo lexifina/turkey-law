@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.9-1502",
+  "source_id": 30434,
+  "date": "2014-05-29",
+  "title": "Hurda plastik ve plastik hammaddeden üretilen hammaddelerin satışında tevkifat uygulanıp uygulanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30434",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "e11a7b10cf54e927b610ea1f23395f16214a422f5ebe21f24ec225b5df8134a0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
