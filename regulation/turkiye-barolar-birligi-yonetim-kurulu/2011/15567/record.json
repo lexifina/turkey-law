@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.15567",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BAROLAR BİRLİĞİ SOSYAL YARDIM VE DAYANIŞMA FONU YÖNETMELİĞİ",
+  "number": "15567",
+  "issuer": "Türkiye Barolar Birliği Yönetim Kurulu",
+  "issuer_slug": "turkiye-barolar-birligi-yonetim-kurulu",
+  "path": "regulation/turkiye-barolar-birligi-yonetim-kurulu/2011/15567",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15567&MevzuatTertip=5",
+  "source_sha256": "8d703075e48c35b69ac432b8abc434b6a1fad8d90934b74af6269fef3b718ba7",
+  "source_bytes": 57431,
+  "published": "2011-12-13",
+  "gazette": "28141",
+  "in_force": "2014-05-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/5/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-05-30",
+      "RG-30/5/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-05-30",
+      "30/5/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2174,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
