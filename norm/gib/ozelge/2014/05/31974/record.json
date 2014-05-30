@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[17-2013/36]-539",
+  "source_id": 31974,
+  "date": "2014-05-30",
+  "title": "Belediyelere Yapılacak Kanalizasyon ve Yağmur Suyu İnşaatı Kapsamında Yapılan Sözleşme Gereğince Kontrol Teşkilatının Hizmetine Tahsis Edilecek Araçlar İçin MTV, KDV, ÖTV Uygulanıp Uygulanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/31974",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "fa8ff593498956cb0c4b1dd14be8dce4a8e9ae079e44aa22c71a6ddaf3dfca6c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
