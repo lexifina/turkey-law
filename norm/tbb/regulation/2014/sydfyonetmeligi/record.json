@@ -1,0 +1,15 @@
+{
+  "kind": "regulation",
+  "issuer": "Türkiye Barolar Birliği",
+  "title": "TÜRKİYE BAROLAR BİRLİĞİ SOSYAL YARDIM VE DAYANIŞMA FONU YÖNETMELİĞİ",
+  "date": "2014-05-30",
+  "date_source": "official-amendment-annotation",
+  "in_force_basis": "Latest amendment annotation printed in the official TBB PDF: RG-30/5/2014-29015.",
+  "commit_kind": "consolidated",
+  "source": "http://d.barobirlik.org.tr//mevzuat/avukata_ozel/yonetmelikler/2011/sydfyonetmeligi.pdf",
+  "source_sha256": "7e16385c23124a869714621e18f3a3ae4321ce0c701947a142a58ce73161b7c4",
+  "text_status": "current-text",
+  "version_label": "oldest version available",
+  "text_file": "text.txt",
+  "personal_data": "general professional rule; no case-party publication in this record"
+}
