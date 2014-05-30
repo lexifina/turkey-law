@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "57062627-488-1-10",
+  "source_id": 34650,
+  "date": "2014-05-30",
+  "title": "İptal edilen ihale kararından sonra alınan ikinci ihale kararının damga vergisine tabi olup olmağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34650",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "dff120a9461d954a0b7e0d9e83853aa9c8e9e8c7a49d96e93cd18bf8714af7bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
