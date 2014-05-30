@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.19724",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET DESTEKLERİ BİLGİ SİSTEMİNE VERİ AKTARILMASI HAKKINDA YÖNETMELİK",
+  "number": "19724",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "issuer_slug": "hazine-mustesarliginin-bagli-oldugu-bakan",
+  "path": "regulation/hazine-mustesarliginin-bagli-oldugu-bakan/2014/19724",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19724&MevzuatTertip=5",
+  "source_sha256": "d835114ae18c82c5655addada882baa96671c4537c6ffaeae7dbef6eb57ba997",
+  "source_bytes": 19109,
+  "published": "2014-05-30",
+  "gazette": "29015",
+  "in_force": "2014-05-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.05.2014); own commencement article: \"Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 998,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
