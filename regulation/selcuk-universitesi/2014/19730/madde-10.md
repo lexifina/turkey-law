@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür ve Müdür yardımcıları ile Üniversitede tıp doktoru, sosyal çalışmacı, ebe, hemşire, psikolojik danışman, psikiyatrist, çocuk gelişimi uzmanı, beslenme ve diyet uzmanı, sosyolog olarak görev yapanlar arasından Müdürün önerisiyle Rektör tarafından üç yıl için görevlendirilen dört kişi olmak üzere toplam yedi üyeden oluşur.
+(2) Yönetim Kurulu yılda en az dört defa ve gerektiğinde Müdürün çağrısı üzerine salt çoğunlukla toplanır. Yönetim Kurulu kararları oy çokluğu ile alınır, oyların eşitliği halinde Müdürün kullandığı oy yönünde çoğunluk sağlanmış kabul edilir.
