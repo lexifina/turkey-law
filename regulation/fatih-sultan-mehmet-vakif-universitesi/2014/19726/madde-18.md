@@ -1,0 +1,3 @@
+Eğitim faaliyetleri ve gerçekleştirilmesi
+MADDE 18 – (1) Merkez tarafından Danışma Kurulunun belirlemiş olduğu konularda eğitim planlarının, dokümanların, makine/teçhizatın ve eğitim ortamlarının hazırlanması konularında Müdür tarafından en az iki kişiden oluşan eğitim ekibi oluşturulur. Eğitim ekibindeki kişilerden biri Müdür tarafından eğitim koordinatörü olarak görevlendirilir.
+(2) Eğitim personelinin oluşturulmaları, görevlendirilmeleri, ücret verilmesi koşulları, her bir araştırmacının aynı zamanda kaç projede görev alabilecekleri, proje bütçelerinin hazırlanması, kabulü gibi usul ve esaslar Müdürün teklifi ile Senato tarafından belirlenir.
