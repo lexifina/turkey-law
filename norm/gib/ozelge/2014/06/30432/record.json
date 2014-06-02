@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.9-1544",
+  "source_id": 30432,
+  "date": "2014-06-02",
+  "title": "Renk kartelası basım işinin tevkifat kapsamında olup olmadığı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30432",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "92ab0c2e6090b267ee0d6bd04c7b15c78c40b299f940d4694075655b87f753f8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
