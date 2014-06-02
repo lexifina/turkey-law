@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.2-1550",
+  "source_id": 30045,
+  "date": "2014-06-02",
+  "title": "Kat karş.inşaat işlerinde bağımsız birimlerin tesliminden önce arsanın veya arsa payının müteahhide devri ve konut KDV oranı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30045",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "85596bf2dd8e18859558ff46e452f676d3bb4269e41355c36ff564fc633a9a5d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
