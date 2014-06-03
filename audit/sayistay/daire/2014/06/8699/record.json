@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10345",
+  "decision_date": "2014-06-03",
+  "source_id": 8699,
+  "chamber": "1",
+  "ilam_number": "212",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8699/",
+  "source_sha256": "b6607ca4539fcb26d2c1897ac11970326ccdc21544c0c35632e54d2fc24e23ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
