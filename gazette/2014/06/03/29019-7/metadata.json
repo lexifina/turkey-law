@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-06-03",
+  "issue": "29019",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Bilgi Teknolojileri ve İletişim Kurumu Posta Sektöründe İdari Yaptırımlar Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140603-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140603.htm",
+  "index_sha256": "dbefe0ee3f9ef477f9fa25ae82ffa09053f189d8b0fda70e7b27ab7fca6740d3",
+  "index_header": "3 Haziran 2014 ... 29019 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140603.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
