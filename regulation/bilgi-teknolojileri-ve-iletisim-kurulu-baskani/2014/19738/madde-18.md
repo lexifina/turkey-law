@@ -1,0 +1,2 @@
+Kamu düzeninin ihlali
+MADDE 18 – (1) Kurumun ilgili mevzuatta belirtilen diğer idari yaptırımları uygulama hakkı saklı kalmak kaydıyla; hizmet sağlayıcısı veya çalışanları tarafından kamu düzeninin ihlal edildiğinin Kurum ya da yetkili makamlarca tespiti halinde; hizmet sağlayıcısı derhal ihlalin sonlandırılması ve gerekli tedbirlerin alınması hususunda uyarılır ya da hizmet sağlayıcısının posta hizmeti faaliyetlerinin üç aydan az olmamak üzere altı aya kadar durdurulmasına karar verilir veya hizmet sağlayıcısının yetkilendirmesi iptal edilir.

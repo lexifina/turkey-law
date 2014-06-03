@@ -1,0 +1,2 @@
+Tekerrür
+MADDE 26 – (1) İdari para cezası uygulanmış bir hizmet sağlayıcısı tarafından, söz konusu idari para cezasına ilişkin kararın ilgilisine tebliğinden itibaren üç yıl içinde aynı yükümlülüğün ihlal edilmesi durumunda söz konusu ihlal için, 13 üncü, 14 üncü ve 15 inci maddeleri saklı kalmak kaydıyla, hizmet sağlayıcısının bir önceki takvim yılındaki net satışlarının yüzde üçüne (%3) kadar idari para cezası uygulanır.

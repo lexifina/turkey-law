@@ -1,0 +1,2 @@
+Somut tedbirlerin uygulanması
+MADDE 22 – (Danıştay Onuncu Dairesinin 30/12/2021 tarihli ve E.:2014/4613; K.:2021/5536 sayılı kararı ile iptal madde; (1) Bu Yönetmelik kapsamındaki ihlallerin tespiti halinde, bu Yönetmelikte yer verilen idari yaptırımların yanı sıra, ihlalin niteliğine göre ilgili mevzuat kapsamında ihlalin tekerrürünü önlemek amacıyla Kurul tarafından somut tedbirlerin uygulanmasına karar verilebilir.)

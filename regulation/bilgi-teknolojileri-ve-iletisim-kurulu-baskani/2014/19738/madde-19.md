@@ -1,0 +1,2 @@
+Kamu hizmetinin gereği gibi yürütülmemesi
+MADDE 19 – (1) İlgili mevzuat gereği kamu hizmetinin gereği gibi yürütülmemesi halinde; idari para cezasına ilişkin hükümler saklı kalmak üzere, hizmet sağlayıcısı kamu hizmetinin gereği gibi yürütülmesi ve gerekli tedbirlerin alınması için uyarılır ya da hizmet sağlayıcısının posta hizmeti faaliyetlerinin üç aydan az olmamak üzere altı aya kadar durdurulmasına karar verilir veya hizmet sağlayıcısının yetkilendirmesi iptal edilir.
