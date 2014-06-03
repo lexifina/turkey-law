@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[229-2013-288]-562",
+  "source_id": 21933,
+  "date": "2014-06-03",
+  "title": "Ortak olunan ticari taksi hisse satışının vergi kanunları açısından değerlendirilmesi ve belge düzeni hk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21933",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "7998740de501089b4d2cd86d12b39f83b7e3c5518ca7a6d731b589fc0f4a84e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
