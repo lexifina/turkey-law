@@ -1,0 +1,11 @@
+Tarifelerin maliyet esasına göre onaylanması usulü
+MADDE 10 – (1) Kurum, tarifeleri maliyet esasına göre onaylanması usulüne tabi olan hizmet sağlayıcılarının tarifelerini aşağıdaki usul ve esaslar çerçevesinde onaylamaya yetkilidir:
+a) Kurum, onaya sunulan tarifeleri, sermayeden makul bir geri dönüşü de içerecek şekilde ilgili hizmetin maliyetine ne ölçüde dayandırıldığına bakmak suretiyle değerlendirir.
+b) Kurum maliyetleri değerlendirirken hizmet sağlayıcılarının etkinliğini göz önünde bulundurur. Bu doğrultuda, kaynakların etkin ve verimli kullanılmamasından doğan maliyet unsurlarının maliyetlerin değerlendirilmesinde kapsam dışında tutulması esastır.
+c) Bu fıkranın (a) bendine göre yapılan değerlendirmede; Kurum, karşılaştırılabilir pazarlarda birbirinin muadili hizmetleri sunan hizmet sağlayıcılarının imkân dâhilinde fiyatlarına ve maliyetlerine karşılaştırma amacıyla başvurabilir. Bu durumda referans alınan pazarların kendilerine has özellikleri dikkate alınır.
+ç) Kurum, tarifelerin maliyet esasına göre onaylanması kapsamında gerekli gördüğü hallerde uluslararası karşılaştırmaları uygun olduğu ölçüde dikkate alabilir.
+(2) Onaya sunulan tarife; Kurum tarafından ilgili hizmet sağlayıcısından istenen ilave bilgi ve belgeler de dâhil olmak üzere gerekli bütün bilgi ve belgelerin tam ve doğru bir şekilde Kurum evrak kayıtlarına girmesinin ardından değerlendirmeye alınır. Kurum, onaya sunulan tarife teklifini, değerlendirmeye alınmasını müteakip altmış gün içerisinde karara bağlar. Kurum bu süreyi otuz gün daha uzatabilir.
+(3) Maliyet beyanları, doğrudan maliyetler ile verilen hizmete doğrudan paylaştırılamayan ortak maliyetlerden oluşur. Ortak maliyetlere ilişkin beyanların bu maliyetlerin verilen hizmete nasıl paylaştırıldığını göstermesi zorunludur. Maliyet beyanlarında, asgari aşağıdaki bilgiler yer alır:
+a) Maliyetlerin belirlenmesinde kullanılan maliyet muhasebesi yöntemi.
+b) Malzeme maliyetleri, satış ve pazarlama giderleri, genel yönetim giderleri, maaş ve ücretler, amortisman, faiz ve diğer finansman giderleri.
+c) Her bir hizmet için özellikle hizmeti vermek için kullanılan altyapı unsurlarının maliyetini de içerecek şekilde hizmeti sağlamanın birim maliyeti ve bu maliyetin maliyet kalemlerine göre dağılımı.

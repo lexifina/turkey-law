@@ -1,0 +1,4 @@
+Bildirim usulü
+MADDE 8 – (1) Bildirim usulüne tabi olan hizmet sağlayıcılar tarafından uygulanacak tarifeler ile uygulanan tarifelerde yapılacak her türlü değişiklik; Kurum tarafından aksi belirtilmediği takdirde yürürlüğe girmesinden en az otuz gün önce Kuruma sunulur. Kurum tarifelerin bildirimine ilişkin usul ve esasları belirlemeye yetkilidir.
+(2) Kuruma yapılan bildirimde eksiklik ve/veya Kurum düzenlemelerine aykırılık olması veya başvuruya ilişkin ilave bilgi ve belge gerekmesi durumunda Kurum; birinci fıkra çerçevesinde yapılan bildirimi geçersiz kabul etmeye ve/veya hizmet sağlayıcısından söz konusu aykırılığın ve/veya eksikliğin giderilmesini veya ilave bilgi ve belgenin sunulmasını talep etmeye yetkilidir.
+(3) Yürürlüğe girdikten sonra ilgili tarife bildiriminde eksiklik tespit edilmesi durumunda Kurum, söz konusu tarifeyi derhal durdurmaya ve/veya belirleyeceği düzeltmelerin derhal yapılmasını hizmet sağlayıcısından talep etmeye yetkilidir.

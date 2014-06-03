@@ -1,0 +1,5 @@
+Kullanıcı şikâyetleri çözüm mekanizması
+MADDE 22 – (1) Hizmet sağlayıcılar, kullanıcı şikâyetlerinin cevaplanmasında şeffaf, hızlı ve kolay uygulanabilir bir şikâyet çözüm mekanizması oluşturmak ve işletmekle yükümlüdür. Kurum, gerekli görmesi halinde hizmet sağlayıcılarının kullanıcı şikâyetleri çözüm mekanizmalarına yönelik asgari hususları belirleyebilir.
+(2) Kullanıcı şikâyetleri ve bu şikâyetlere verilen cevaplar ile ilgili süreç hizmet sağlayıcılar tarafından kayıt altına alınır ve bu kayıtlar güvenlik tedbirleri alınarak asgari iki yıl muhafaza edilir.
+(3) Hizmet sağlayıcılar, kullanıcı şikâyetlerini; kayıp, çalıntı, hasar ve geç teslim gibi konularına göre tasnif etmekle ve talep edilmesi halinde rapor olarak Kuruma göndermekle yükümlüdür. Kurum, gerektiğinde kullanıcı şikâyetlerine ilişkin sınıflandırma konularını belirleyebilir.
+(4) Kurum, belirli bir konuya ilişkin şikâyetlerin yoğunlaştığı ve/veya şikâyet konusunun kullanıcı mağduriyetine yol açtığına kanaat getirmesi halinde, gerekli incelemeleri yaparak konuya ilişkin düzenleme veya denetleme yapabilir.

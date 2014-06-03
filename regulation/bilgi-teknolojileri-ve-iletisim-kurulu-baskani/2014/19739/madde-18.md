@@ -1,0 +1,5 @@
+Posta hizmetlerinin gizliliği ve güvenliği
+MADDE 18 – (1) Posta gönderileri, kanunla yetkili kılınan merciler dışındaki kişilerce alıkonulamaz, açılamaz ve içeriği araştırılamaz.
+(2) Hizmet sağlayıcıları ile posta hizmetlerinde çalışanlar veya herhangi bir şekilde posta hizmetleri ile ilgili bilgiye sahip olanların, bu bilgileri ve posta hizmetleri ile ilgili ilişkileri açığa vurmaları, gönderileri açmaları, içlerinde ne olduğunu araştırmaları, üçüncü kişilere bilgi vermeleri veya herhangi birinin bunları yapmasına neden olmaları, gönderileri zapt veya yok etmeleri yasaktır.
+(3) Hizmet sağlayıcısı, sunduğu posta hizmetlerinin gizliliği ve güvenliği ile ilgili olarak gerekli önlemleri almakla yükümlüdür.
+(4) Mücbir sebepler dışında ve ilgili mevzuat hükümleri saklı kalmak kaydıyla, kayıtlı gönderilerin kaybı, çalınması veya hasarı hâlinde sorumluluk hizmet sağlayıcısına aittir. Kullanıcı tarafından yanlış/yanıltıcı beyan verilmesi ve/veya posta gönderisinin hizmet sağlayıcısının hizmet sunum sözleşmesinde belirttiği şartlara aykırılık teşkil etmesinden dolayı meydana gelebilecek hasarlarda sorumluluk kullanıcıya aittir.

@@ -1,0 +1,4 @@
+Hizmetin kısıtlanması ya da durdurulması
+MADDE 21 – (1) İlgili mevzuatta belirtilen mücbir sebepler dışında, hizmet sağlayıcıları tarafından sunulan posta hizmetlerinin sürekli bir şekilde yerine getirilmesi esastır.
+(2) Hizmet sağlayıcısı, posta yoluyla gönderilmesi yasak maddeler ile kabulü şarta bağlı gönderilere ilişkin yükümlülükleri kapsamında, haberleşmenin gizliliğine ilişkin ilgili mevzuat hükümleri saklı kalmak kaydıyla, gönderinin kabulü aşamasında kullanıcıdan gönderinin içeriğine ilişkin bilgi talep edebileceği gibi kullanıcıdan gönderiyi açmasını da isteyebilir.
+(3) Hukuka aykırı ya da hileli bir faaliyetin varlığının, Kanunun 7 nci maddesindeki posta hizmetlerinin gizliliği ve güvenliğine ilişkin hükümleri ihlal etmeyecek bir şekilde anlaşılması halinde hizmet sağlayıcılar hizmeti derhal durdurarak ilgisine göre yetkili mercilere ve/veya ilgili kolluk görevlilerine gecikmeksizin haber verir.
