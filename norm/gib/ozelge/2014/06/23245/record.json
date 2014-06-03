@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[238-2013-13]-563",
+  "source_id": 23245,
+  "date": "2014-06-03",
+  "title": "Banka temsilcileri adına tahakkuk ettirildiği halde kendilerine ödenmeyip bankaya gelir kaydedilen tutarlarda belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23245",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "b713e9c948491b71f23fa2ad4333cc5ec2d02912410a7b793bcf1cd29ab0938a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
