@@ -1,0 +1,7 @@
+Kira Bedellerinin Tahsil Edilmemesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Denetçi tarafından sorguda; şehrin çeşitli cadde ve sokaklarında otopark olarak kullanılmak üzere uygulanan parkomat sisteminin Büyükşehir Belediye Şirketi olan...’ ya devredildiği, ancak kira bedeli tespiti yapılmadığı için kira tahsil edilmemiş olması nedeniyle (Denetçi sorgusunda belirtilen toplam ...TL kamu zararı tutarının, Oda tarafından Denetim Ekibine bildirilen rayiçlerde maliyet unsurlarının bulunmaması dolayısı ile revize edilerek) toplam ...TL kamu zararına sebep olunduğu iddiası ileri sürülmüşse de,
+
+Şehrin çeşitli cadde ve sokaklarında otopark olarak kullanılmak üzere uygulanan parkomat sisteminin kiralama ile ilgili işlemleri, Büyükşehir Belediye Meclisinin ...K. sayılı kararı ile mevzuata uygun hale getirilerek, sistem Büyükşehir Belediye Şirketi olan..’ya 10 yıllığına devredildiğinden ve kira bedeli olarak da, ...TL kira bedeli belirlenerek, söz konusu tutar 2010 yılından sonraki yıllar için kira artışı oranında artırılıp, gecikme cezaları ile birlikte ..tarihinde ...şirketi tarafından Büyükşehir Belediyesi’nin Banka hesabına (...Ticaret ve Sanayi Odası tarafından tespit edilip Denetim Ekibine gönderilen rayicin konu ile ilgili herhangi bir emsal teşkil edebilecek veriye dayanmadığı anlaşıldığından, revize edilen kamu zararı tutarı) toplam ...TL yatırılarak tahsil edildiğinden, ilişilecek bir husus kalmadığına oy birliğiyle,
