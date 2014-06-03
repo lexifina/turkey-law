@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-130[13/e-2014/5]-60",
+  "source_id": 31267,
+  "date": "2014-06-03",
+  "title": "Yağ seperatörü cihazı alımının KDV 13/e maddesine göre istisna olup olmadığı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31267",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "3f3cb4caf7e5e3d8496a0ee1c4cbc1eacf9c453f83eaf85ff03a5a41fed50932",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
