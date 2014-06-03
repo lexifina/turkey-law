@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-175.02[13-2013/7.1.12-8706]-1559",
+  "source_id": 37224,
+  "date": "2014-06-03",
+  "title": "Şirket tarafından düzenlenen faturalarda boş bırakılan alanların reklam ajansına tahsis edilerek bu alanların ilan ve reklam için kullanılması durumunda ilan ve reklam vergisine ilişkin olarak şirketin veya reklam ajansının vergi mükellefiyetinin veya sor",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37224",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "4c20143e1f5a5d86cb04ff47d228403945c8eb2a9c27fc77ae181a9433bd3d06",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
