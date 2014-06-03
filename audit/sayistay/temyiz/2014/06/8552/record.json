@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39109",
+  "decision_date": "2014-06-03",
+  "source_id": 8552,
+  "chamber": "1",
+  "file_number": "35904",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8552/",
+  "source_sha256": "22b518431534a5d2b65bdeb801645fd35ad3aa50bf9f8939e69865a50248f23a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
