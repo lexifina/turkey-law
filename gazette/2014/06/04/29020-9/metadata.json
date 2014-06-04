@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-06-04",
+  "issue": "29020",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 29/5/2014 Tarihli ve 5868 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140604-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140604.htm",
+  "index_sha256": "4334c8c785b9149ac9c91175dc09315f2dba6d939fac742c8e4c2444152cbb42",
+  "index_header": "4 Haziran 2014 ... 29020 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140604.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
