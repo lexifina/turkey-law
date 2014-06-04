@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5045/7",
+  "decision_date": "2014-06-04",
+  "title": "07/07/2012 tarihli ve 28346 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Benzin Türlerine Etanol Harmanlanması Hakkında Tebliğ’de yer alan harmanlama yükümlülüğü kapsamında Kuruma intikal eden bildirimlerin incelenmesine ilişkin",
+  "resmi_gazete_date": "2014-06-18",
+  "resmi_gazete_number": "29034",
+  "categories": [
+    "Teknik Düzenleme Faaliyetleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=91tHr4La1og=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=91tHr4La1og="
+  ],
+  "source_sha256": "6c19e641b973f26a8db2803b8faa68ad6108df241b51f08baaf3cdde3ccfb74f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4979,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-06-04",
+  "law_text_complete": false
+}
