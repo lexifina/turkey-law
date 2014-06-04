@@ -1,0 +1,2 @@
+Araştırma grupları
+MADDE 15 – (1) Yönetim Kurulu tarafından, Merkez amaçları doğrultusunda çalışmalar yapmak üzere gerekli görülen konularda araştırma grupları oluşturulur. Bu gruplar yapılacak çalışmanın niteliğine göre, Üniversite içindeki öğretim elemanlarından ve bu konuda uzmanlaşmış diğer kişilerden oluşturulabilir. Görev süreleri Yönetim Kurulu kararı ile belirlenir. Görev süresi tamamlanan araştırma grubu, proje ile ilgili bir raporu Müdüre sunmakla yükümlüdür.
