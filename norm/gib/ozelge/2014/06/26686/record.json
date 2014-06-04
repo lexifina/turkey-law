@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[313-2013-282]-569",
+  "source_id": 26686,
+  "date": "2014-06-04",
+  "title": "İşyeri kredisi için yapılan faiz ve KKDF ödemelerinin GMSİ beyannamesinde gider olarak gösterilip gösterilmeyeceği, amortisman hesaplamasının nasıl olacağı ile Kızılay'a yapılan canlı hayvan bağışının hangi tutardan indirim yapılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/26686",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e8ffcea29bfc29ee4ced301d974104d0221d0975cb55ec1c823a4abcf768762e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
