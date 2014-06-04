@@ -1,0 +1,2 @@
+İnceleme sonucu yapılacak işlemler
+MADDE 8 – (1) İnceleme kurullarınca yapılan inceleme sonunda, 7 nci maddenin birinci fıkrasının (a) ve (b) bentlerinde belirtilen konulardan herhangi birine göre olumsuz bulunan eserler yayınlanmaz. Genel müdürlükçe çıkarılan derginin incelenmesinde yayın ilkelerinde belirtilmiş olan esaslar geçerlidir. İnceleme kurulları, eserlerin belirgin maddi hatalarını düzelterek yayınlanmasına karar verebilir. Diğer hususlarda 1 inci madde hükmü uygulanır.

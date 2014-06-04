@@ -1,0 +1,2 @@
+Yayın Kurulunun görevleri
+MADDE 5 – (1) Yayın Kurulunun görevleri; yıllık yayın planını hazırlamak, yayınlanacak olan eserlerin değerlendirmesini yapmak, yayınlanacak eserleri inceleme kurullarına göndermek ve yayın toplantıları yapmak, 1 inci maddeye uygun eserlerin, yayınlanmakta olan periyodik dergi ve kitapların düzenli bir şekilde yayınlanmasını sağlayacak tedbirler almak, periyodik yayınlarda aksamaları önlemek, inceleme kurullarının kararlarını inceleyip onaylamaktır.
