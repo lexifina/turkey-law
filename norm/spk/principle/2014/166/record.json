@@ -1,0 +1,74 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "166",
+  "decision_number": "17/552",
+  "date": "2014-06-05",
+  "title": "Kurul’un i-SPK.61.2 (05.06.2014 Tarih ve 17/552 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/166",
+  "source_sha256": "6a7de45a44d30cd1b02817184ac38ae4444d2e8f814b218d7045d3873fce906f",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 166,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 1. Kurul’un i-SPK.61.2 (05.06.2014 tarih ve 17/552 s.k.) Sayılı İlke Kararı.",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2014-06-05",
+    "source_clauses": [
+      "1. Kurul’un i-SPK.61.2 (05.06.2014 tarih ve 17/552 s.k.) Sayılı İlke Kararı."
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "353c2b0a-4ca2-4ff2-9083-7eddeecc8692",
+    "contentSource": "IlkeKarari",
+    "contentID": 166,
+    "tur": "İlke Kararı",
+    "title": "Kurul’un i-SPK.61.2 (05.06.2014 Tarih ve 17/552 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2014-06-05T00:00:00",
+    "kurulKararTarih": "05.06.2014",
+    "kurulToplantiNo": "17/552",
+    "bultenYili": 2014,
+    "bultenNo": 16,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "178:Kira Sertifikaları Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 178,
+        "value": "Kira Sertifikaları Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "9:Konut ve Varlık Finansmanı İle İpotek Finansmanı Kuruluşları;113:Kira Sertifikaları",
+    "ilgiliKonular": [
+      {
+        "key": 9,
+        "value": "Konut ve Varlık Finansmanı İle İpotek Finansmanı Kuruluşları"
+      },
+      {
+        "key": 113,
+        "value": "Kira Sertifikaları"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/166",
+    "linkTarget": "_blank"
+  }
+}
