@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-125[5-2013/8]-343",
+  "source_id": 37468,
+  "date": "2014-06-05",
+  "title": "Serbest bölgede faaliyet gösteren şirketin devir alınması durumunda istisna uygulaması ve ruhsat değişimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37468",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "da086049f43b84a3efda824cf09d9a388fd9c8e45cd9180822620748239262a0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
