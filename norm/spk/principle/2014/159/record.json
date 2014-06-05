@@ -1,0 +1,74 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "159",
+  "decision_number": "17/563",
+  "date": "2014-06-05",
+  "title": "Kurul’un i-SPK.104.2 (05.06.2014 Tarihli ve 17/563 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/159",
+  "source_sha256": "f4d96dd09ac6b6de09a79bc03427ab2af3d4db64aad8f32fa04e3d10358a316f",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 159,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurul’un i-SPK.104.2 (05.06.2014 tarihli ve 17/563 s.k.) Sayılı İlke Kararı.",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2014-06-05",
+    "source_clauses": [
+      "Kurul’un i-SPK.104.2 (05.06.2014 tarihli ve 17/563 s.k.) Sayılı İlke Kararı."
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "0caf31d7-c69d-4e7e-a4a1-78ea32b76894",
+    "contentSource": "IlkeKarari",
+    "contentID": 159,
+    "tur": "İlke Kararı",
+    "title": "Kurul’un i-SPK.104.2 (05.06.2014 Tarihli ve 17/563 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2014-06-05T00:00:00",
+    "kurulKararTarih": "05.06.2014",
+    "kurulToplantiNo": "17/563",
+    "bultenYili": 2014,
+    "bultenNo": 16,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "84:Piyasa Bozucu Eylemler Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 84,
+        "value": "Piyasa Bozucu Eylemler Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "17:İdari Para Cezası Gerektiren Fiiller;87:Piyasa Bozucu Eylemler",
+    "ilgiliKonular": [
+      {
+        "key": 17,
+        "value": "İdari Para Cezası Gerektiren Fiiller"
+      },
+      {
+        "key": 87,
+        "value": "Piyasa Bozucu Eylemler"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/159",
+    "linkTarget": "_blank"
+  }
+}
