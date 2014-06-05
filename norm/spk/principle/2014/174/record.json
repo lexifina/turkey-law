@@ -1,0 +1,74 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "174",
+  "decision_number": "17/564",
+  "date": "2014-06-05",
+  "title": "Kurul’un i-SPK.103.1 (05.06.2014 Tarihli ve 17/564 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/174",
+  "source_sha256": "ab09c375931c068fed3bb341381354b9ca9866db1f0a5e3dbefb8213cc2379bc",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 174,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurul’un i-SPK.103.1 (05.06.2014 tarihli ve 17/564 s.k.) Sayılı İlke Kararı.",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2014-06-05",
+    "source_clauses": [
+      "Kurul’un i-SPK.103.1 (05.06.2014 tarihli ve 17/564 s.k.) Sayılı İlke Kararı."
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "176a1dd6-ebd8-41c7-8522-e2f0276ef425",
+    "contentSource": "IlkeKarari",
+    "contentID": 174,
+    "tur": "İlke Kararı",
+    "title": "Kurul’un i-SPK.103.1 (05.06.2014 Tarihli ve 17/564 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2014-06-05T00:00:00",
+    "kurulKararTarih": "05.06.2014",
+    "kurulToplantiNo": "17/564",
+    "bultenYili": 2014,
+    "bultenNo": 16,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "59:Yöneticilerin Net Alım Satım Kazançlarını İhraççılara Ödemeleri Hakkında Tebliğ",
+    "baglantiliTebligler": [
+      {
+        "key": 59,
+        "value": "Yöneticilerin Net Alım Satım Kazançlarını İhraççılara Ödemeleri Hakkında Tebliğ"
+      }
+    ],
+    "ilgiliKonularStr": "17:İdari Para Cezası Gerektiren Fiiller;123:Yöneticilerin Alım Satım Kazançları",
+    "ilgiliKonular": [
+      {
+        "key": 17,
+        "value": "İdari Para Cezası Gerektiren Fiiller"
+      },
+      {
+        "key": 123,
+        "value": "Yöneticilerin Alım Satım Kazançları"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/174",
+    "linkTarget": "_blank"
+  }
+}
