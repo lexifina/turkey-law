@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10346",
+  "decision_date": "2014-06-05",
+  "source_id": 8763,
+  "chamber": "1",
+  "ilam_number": "145",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8763/",
+  "source_sha256": "d576307e56b275b06e3dabf8e024896cdbb2ad95b581240fa865488a4f61d90b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
