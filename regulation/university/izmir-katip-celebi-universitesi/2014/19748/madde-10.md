@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+MADDE 10 – (1) Danışma Kurulu; Üniversitenin mezunlar derneği başkanı ile Yönetim Kurulunca öğretim üyeleri arasından önerilen ve Rektör tarafından üç yıl süre ile görevlendirilen en az yedi kişiden oluşur.
+(2) Danışma Kurulunun görevi; Üniversite mezunlarının istihdamını yönlendiren kamu ve özel sektör yöneticilerinin Merkezin çalışmalarını etkinleştirmesi yönünde kararlar almak, Merkez çalışmalarında görev almak, uzmanlık alanlarında ve mali konularda Merkez çalışmalarını desteklemek, her yıl Merkezin faaliyetlerine ilişkin gözlemleri yansıtan danışma raporunu hazırlamaktır.
