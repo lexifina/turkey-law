@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-125[15-2012/8]-342",
+  "source_id": 22331,
+  "date": "2014-06-05",
+  "title": "Derneğin kira ödemesi yaparken stopaj kesintisi mi yapacağı yoksa KDV mi ödeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22331",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "bef9649cc8cd317d24abb7bb5ddb6fb97d539cfb71d2babe923b00ea860ab3a6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
