@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-125[5-2013/8]-343",
+  "source_id": 37448,
+  "date": "2014-06-05",
+  "title": "Serbest bilgede faaliyet gösteren şirketin devir alınması durumunda istisna uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37448",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "99dba39b4eb67c932d691a70587862d23a979e8e2042ffa0426cbb545a72c5d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
