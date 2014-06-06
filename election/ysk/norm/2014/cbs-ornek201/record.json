@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2014/cbs-ornek201",
+  "list_number": "2911",
+  "genelge_number": "Örnek:201",
+  "decision_date": "2014-06-06",
+  "title": "Cumhurbaşkanı adaylarına yapılacak yardım ve bağışlar ile adayların mal bildirimine ilişkin usul ve esasları gösterir Örnek:201 sayılı genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1824/CBS-Ornek201.pdf",
+  "source_sha256": "ffcf89f571d6cf410dd2aed1031ae109ef07bf211915f81d60ab34be89317499",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 10,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-06-06",
+  "law_text_complete": false
+}
