@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[233-2014-2]-581",
+  "source_id": 24963,
+  "date": "2014-06-06",
+  "title": "Sağlık hizmeti sunucusunun seyyar EFT-POS cihazı kullanması durumunda Sosyal Güvenlik Kurumu adına tahsil edilen Katılım Payı' nın ödeme kaydedici cihaz fişinde yer alıp almayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/24963",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "22a601c21d3cfc6dd408e4cda6ac77a31047061556dcf934c4a81e69f46ef4eb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
