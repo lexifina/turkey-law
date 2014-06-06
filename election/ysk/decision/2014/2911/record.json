@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/2911",
+  "list_number": "2911",
+  "decision_date": "2014-06-06",
+  "title": "Cumhurbaşkanı adaylarına yapılacak yardım ve bağışlar ile adayların mal bildirimine ilişkin usul ve esasları gösterir Örnek: 201 sayılı genelgeye ilişkin Yüksek Seçim Kurulunun 2014/2911 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2422/2014-2911.pdf",
+  "source_sha256": "422e1f272c2e45ad16ae9b59fe6c87eeecb09c7b7d90bde75f781bcc6226d6bd",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 13,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-06-06",
+  "law_text_complete": false
+}
