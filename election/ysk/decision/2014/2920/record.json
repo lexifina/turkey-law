@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/2920",
+  "list_number": "2920",
+  "decision_date": "2014-06-07",
+  "title": "Cumhurbaşkanı Seçiminde; yurt dışı seçmen kütüğüne kayıtlı seçmenlerin temsilciliklerimizde ve ihtiyaç duyulması halinde diğer yerlerde kurulacak seçim sandıklarında oy verme işlemlerinin düzen içinde yürütülmesinin sağlanması bakımından Kurulumuzca belirlenen ilkeler çerçevesinde \"SEÇSİS Oy Verme Günü Belirleme Sistemi\"nden (Sistem) oy verecekleri gün ve saat aralığının belirlenmesine ilişkin usul ve esasların tespitine ilişkin Yüksek Seçim Kurulunun 2014/2920 sayılı kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2418/2014-2920.pdf",
+  "source_sha256": "3d37286ffbbc051b30d16ad4604ac0620cd4c767a5de30e4c8ffbc7e905485e8",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-06-07",
+  "law_text_complete": false
+}
