@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/2928",
+  "list_number": "2928",
+  "decision_date": "2014-06-08",
+  "title": "Seçmen kütüğünün güncelleştirilmesinin usul ve esaslarını gösterir Örnek:140/1 sayılı genelgeye ilişkin Yüksek Seçim Kurulunun 2014/2928 sayılı kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2412/2014-2928.pdf",
+  "source_sha256": "3024346b4e68fe65c58f4a727d3b325b8ac19c98ac875a20f9ebd35dc3151f30",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 11,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-06-08",
+  "law_text_complete": false
+}
