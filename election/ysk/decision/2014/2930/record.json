@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/2930",
+  "list_number": "2930",
+  "decision_date": "2014-06-08",
+  "title": "Cumhurbaşkanı Seçiminde Yurt Dışı İlçe Seçim Kurulunun, Yurt Dışı Sandık Kurullarının, Yurt Dışı Temsilciliklerde Oyları Saklamak Ve Yurt Dışı İlçe Seçim Kuruluna Ulaştırmakla Görevli Sandık Kurulları İle Yurt Dışı Oyların Sayım Ve Dökümü İle Görevli Sandık Kurullarının Görev ve Yetkileri İle Yurt Dışında Oy Verme İşlemlerini Gösterir Örnek: 202 sayılı genelgeye ilişkin Yüksek Seçim Kurulunun 2014/2930 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2408/2014-2930.pdf",
+  "source_sha256": "7cff0f2ca0bc3fac9da942afa193c28fa9f3b1c3db03eea384367a20b3c55415",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 22,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-06-08",
+  "law_text_complete": false
+}
