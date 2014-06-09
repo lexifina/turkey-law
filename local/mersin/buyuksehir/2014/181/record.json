@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "181",
+  "decision_date": "2014-06-09",
+  "title": "Akdeniz ilçesi- Hamidiye mahallesi-30 pafta-10",
+  "listed_as": "181 Akdeniz ilçesi- Hamidiye mahallesi-30 pafta-10",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/181-akdeniz-ilcesi--hamidiye-mahallesi-30-pafta-10621-ada-1-numarali-parsel",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk87--09-haziran-2014-meclis-kararlari",
+  "listing_sha256": "f4f3a6b3a0b28b451d7492feba6ed1d002ce061c5325306f715a1e8a2ab14a99",
+  "meeting_title": "MK87- 09 HAZİRAN 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
