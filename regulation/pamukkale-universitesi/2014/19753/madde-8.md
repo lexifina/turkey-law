@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; Merkezin kuruluş amaçları kapsamında araştırmaları bulunan, rehberlik ve psikolojik danışmanlık anabilim dalı öğretim üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdürün, Üniversite dışındaki görevlendirme süresinin altı ayı geçmesi halinde yerine yeni Müdür görevlendirilir.
+(2) Müdürün teklifi üzerine Yönetim Kurulu üyeleri arasından bir veya en çok iki kişi müdür yardımcısı olarak Rektör tarafından görevlendirilir. Müdürün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer. Müdür yardımcıları, Müdüre çalışmalarında yardımcı olur. Müdür görevi başında bulunmadığı zaman müdür yardımcılarından birini vekil bırakır.
