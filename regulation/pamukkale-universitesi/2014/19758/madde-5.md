@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Üniversite bünyesinde tüm bitkisel ve hayvansal tarım ürünlerinin üretimi konularında ortaya çıkan yenilikleri takip ederek uygulamaya aktarmak; bölgesel ve ulusal düzeyde tarımsal problemler için çözümler üretmek; etüt, planlama, araştırma, uygulama, eğitim ve yayım faaliyetlerini koordine etmek; ilgili akademik birimlerin eğitim-öğretim, gezi-inceleme, staj, proje ve tez çalışması gibi faaliyetlerine destek vermek; modern yetiştirme ve ıslah yöntemleri uygulayıp geliştirerek bunları üretici ve öğrencilere tanıtarak gerektiğinde onları eğitmek; bölgesel ve ulusal kalkınmaya katkı sağlayacak işbirliği mekanizmalarını kurarak sürdürülebilir hale getirmek; talep edilmesi durumunda kamu ve özel kurum, kuruluş veya kişilere danışmanlık hizmeti vermek için gerekli olan kurumsal ortamı oluşturmaktır.
