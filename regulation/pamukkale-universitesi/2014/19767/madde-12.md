@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu, Merkezin çalışma alanlarıyla ilgili bölüm, anabilim ve bilim dallarından birer temsilci öğretim elemanının katılmasıyla oluşturulur. Merkezin çalışma alanlarıyla ilgili bölüm, anabilim ve bilim dalları Yönetim Kurulunca belirlenir. Temsilciler, ilgili bölüm, anabilim ve bilim dalınca Merkeze teklif edilir ve Rektör tarafından görevlendirilir. Danışma Kurulu üyeleri üç yıllık bir süre için seçilir. Süresi biten üyeler yeniden seçilebilir.
