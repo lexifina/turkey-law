@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "195",
+  "decision_date": "2014-06-09",
+  "title": "SAYILI MEC_ KAR_ (kadro ihdası)",
+  "listed_as": "195 SAYILI MEC_ KAR_ (kadro ihdası)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/195-sayili-mec--kar--kadro-ihdasi",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk87--09-haziran-2014-meclis-kararlari",
+  "listing_sha256": "f4f3a6b3a0b28b451d7492feba6ed1d002ce061c5325306f715a1e8a2ab14a99",
+  "meeting_title": "MK87- 09 HAZİRAN 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
