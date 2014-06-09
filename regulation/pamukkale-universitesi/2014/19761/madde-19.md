@@ -1,0 +1,2 @@
+Yönetmelikte bulunmayan hükümler
+MADDE 19 – (1) Bu Yönetmelikte hüküm bulunmayan hallerde; 2547 sayılı Kanun, ilgili mevzuat hükümleri ve Senato kararları uygulanır.
