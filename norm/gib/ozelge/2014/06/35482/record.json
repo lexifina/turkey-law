@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-140.01.02[2013/161]-604",
+  "source_id": 35482,
+  "date": "2014-06-09",
+  "title": "Banka tarafından yapılan icra takipleri sonucu kısmi tahsil edilen tutarlardan icta tahsil harcı kesilip kesilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35482",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "0c7700c64ec742036b7f113c718f94e7423aa2a1a101ac32a213a8be7429d2bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
