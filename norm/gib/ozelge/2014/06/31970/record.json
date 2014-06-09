@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[11-2013/45]-594",
+  "source_id": 31970,
+  "date": "2014-06-09",
+  "title": "Hibe olarak yurtdışına gönderilen malların iadesinin alınıp alınamayacağı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31970",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "d7597d1c361f01983c5ce491d20ec8e07717a4b6ffe79c755a2de83878cd1e81",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
