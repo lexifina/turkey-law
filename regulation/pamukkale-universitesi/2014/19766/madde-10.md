@@ -1,0 +1,2 @@
+Müdür Yardımcısı
+MADDE 10 – (1) Pamukkale Üniversitesi Tıp Fakültesi öğretim üyeleri arasından, üç yıl süre ile Rektör tarafından görevlendirilir. Müdürün görevi başında olmadığı zamanlarda yerine Müdür Yardımcısı vekâlet eder. Süresi dolmadan ayrılan Müdür Yardımcısının yerine aynı usul ile yeni Müdür Yardımcısı görevlendirilir. Müdürün görevi sona erdiğinde Müdür Yardımcısının da görevi sona erer.
