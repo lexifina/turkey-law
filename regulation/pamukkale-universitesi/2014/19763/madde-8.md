@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; Yönetim Kurulu tarafından üyeler arasından seçilir. Rektör tarafından üç yıl için görevlendirilir. Süresi dolan Müdür tekrar görevlendirilebilir. Müdürün kesintisiz altı aydan fazla bir süre ile görevi başında bulunmaması durumunda yeni bir Müdür görevlendirilir. Müdür aynı zamanda Yönetim Kurulunun da başkanıdır.
+(2) Müdürün önerisi ile Yönetim Kurulu üyeleri arasından en fazla iki kişi müdür yardımcısı olarak görevlendirilebilir. Müdürün görevi başında olmadığı zamanlarda yerine müdür yardımcısı vekâlet eder. Müdürün görev süresinin dolması veya herhangi bir sebeple görevinden ayrılması halinde müdür yardımcılarının da görevi kendiliğinden sona erer.
