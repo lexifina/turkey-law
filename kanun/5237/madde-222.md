@@ -1,2 +1,2 @@
 Şapka ve Türk harfleri
-Madde 222- (1) 25.11.1925 tarihli ve 671 sayılı Şapka İktisası Hakkında Kanunla, 1.11.1928 tarihli ve 1353 sayılı Türk Harflerinin Kabul ve Tatbiki Hakkında Kanunun koyduğu yasaklara veya yükümlülüklere aykırı hareket edenlere iki aydan altı aya kadar hapis cezası verilir.
+Madde 222- (Mülga: 2/3/2014-6529/16 md.)
