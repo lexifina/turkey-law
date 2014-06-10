@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35222",
+  "decision_date": "2014-06-10",
+  "source_id": 23183,
+  "chamber": "2",
+  "item_number": 21,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2010,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23183/",
+  "source_sha256": "72128686147b58059a7bc4cca5f84d3273a4b5fafc69b16bf0b465a6fac7664a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
