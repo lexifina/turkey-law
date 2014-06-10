@@ -1,0 +1,3 @@
+Döner Sermaye İşletme bünyesinden yapılan katkı payı ödemelerinde bazı personelin kümülatif vergi matrahlarının yanlış hesaplanması sonucu eksik gelir vergisi kesilmesi.
+
+… Tıp Fakültesi bünyesinde çalışmakta olan bazı personelin Döner Sermaye İşletme bünyesinden yapılan katkı payı ödemelerinde kümülatif vergi matrahlarının yanlış hesaplanması sonucu …… TL eksik gelir vergisi kesildiği görülmüşse de, söz konusu tutarın …… TL’sinin ahiz ……’ten daha önce tahsil edildiği ve kalan …… TL’nin aşağıda yer alan tabloda yazılı belgelerle tahsil edildiği anlaşıldığından konu hakkında ilişik kalmadığına oybirliğiyle,
