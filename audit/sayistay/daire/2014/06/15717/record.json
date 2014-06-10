@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10347",
+  "decision_date": "2014-06-10",
+  "source_id": 15717,
+  "chamber": "1",
+  "ilam_number": "254",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15717/",
+  "source_sha256": "eda52b0a8ca05decc86bf4d1dc537d53c3a42de4b8badab791ab8edd53bebb7a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
