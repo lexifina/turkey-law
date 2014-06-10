@@ -2,4 +2,5 @@ Suç delillerini yok etme, gizleme veya değiştirme
 Madde 281- (1) Gerçeğin meydana çıkmasını engellemek amacıyla, bir suçun delillerini yok eden, silen, gizleyen, değiştiren veya bozan kişi, altı aydan beş yıla kadar hapis cezası ile cezalandırılır. Kendi işlediği veya işlenişine iştirak ettiği suçla ilgili olarak kişiye bu fıkra hükmüne göre ceza verilmez.
 (2) Bu suçun kamu görevlisi tarafından göreviyle bağlantılı olarak işlenmesi halinde, verilecek ceza yarı oranında artırılır.
 (3) İlişkin olduğu suç nedeniyle hüküm verilmeden önce gizlenen delilleri mahkemeye teslim eden kişi hakkında bu maddede tanımlanan suç nedeniyle verilecek cezanın beşte dördü indirilir.
-9032-1
+____________
+(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “özürlü” ibaresi “engelli” olarak değiştirilmiştir. 9032-1
