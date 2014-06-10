@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür, sosyal ve insani bilimler alanında çalışmaları bulunan ve bu alanda çalışmak isteyen Üniversitenin kadrolu öğretim üyeleri arasından, Rektör tarafından üç yıl için görevlendirilir. Süresi dolan Müdür yeniden görevlendirilebilir. Süresi dolmadan görevinden ayrılan Müdürün yerine Rektör tarafından aynı usulle yeniden görevlendirme yapılır.
+(2) Müdüre çalışmalarında yardımcı olmak üzere Yönetim Kurulu üyeleri arasından Müdürün önereceği bir üye, Rektör tarafından Müdür Yardımcısı olarak görevlendirilir. Müdürün görevi başında olmadığı zaman yardımcısı vekâlet eder. Müdürün görevi sona erdiğinde yardımcısının görevi de sona erer.

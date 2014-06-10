@@ -1,0 +1,2 @@
+Danışma Kurulunun görevleri
+MADDE 13 – (1) Danışma Kurulunun görevi; Merkezin faaliyetleriyle ilgili proje önerilerinde bulunmak, projelerin geliştirilmesine yardımcı olmak, Ankara ve çevresinin toplumsal, ekonomik, kültürel ve kültürel mirasın korunması konularında çalışan kişilerin Merkeze destek olmasını sağlamak, belirli konularda Yönetim Kuruluna yardımcı olmak üzere çalışmalar yapmak ve Merkezin elindeki kaynakların geliştirilmesi için destek olmaktır.
