@@ -1,0 +1,3 @@
+1447 sayılı ilamın 2. maddesiyle verilen tazmin hükmü, aynı tazmin hükmünde gerçekleştirme görevlisi sıfatıyla iştiraki bulunan ….’nin başvurusu üzerine düzenlenen 10.06.2014 tarih ve 39164 tutanak sayılı Temyiz Kurulu Kararının 1. maddesi ile bozulmuş bulunduğundan, dilekçinin işbu madde ile ilgili itirazı üzerine Kurulumuzca yapılacak işlem olmadığına ancak aynı mahiyette olan bu dosyanın da sözü edilen 36117 numaralı dosya ile birleştirilerek gereği yapılmak üzere kararı veren daireye TEVDİİNE karar verilmiştir.
+
+(BU KARAR SONUCUNUN İNTERNET SİTESİNDE YAYIMLANMASI, BİLGİLENDİRME AMACINI TAŞIMAKTA OLUP TEBLİĞ YERİNE GEÇMEMEKTEDİR.)
