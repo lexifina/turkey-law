@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "113",
+  "decision_date": "2014-06-10",
+  "source_id": 18017,
+  "chamber": "6",
+  "ilam_number": "337",
+  "item_number": 67,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18017/",
+  "source_sha256": "018943c15817c3d13428ea902482e7c1529bb65093c706b94c19a3fb208e2e38",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
