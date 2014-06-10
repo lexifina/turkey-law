@@ -22,3 +22,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 6460 | 263 | 30/4/2013
 6462 | 122, 278 | 3/5/2013
 Anayasa Mahkemesi’nin 10/4/2013 tarihli ve E.: 2013/14, K.: 2013/56 sayılı Kararı | 267 | 10/12/2013 tarihinden başlayarak altı ay sonra (10/6/2014)
+6526 | 135, 136, 138 | 6/3/2014
