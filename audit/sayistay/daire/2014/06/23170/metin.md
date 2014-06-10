@@ -1,0 +1,3 @@
+… Eğitim Fakültesi personeline raporlu olunan günler için yan ödeme tazminatı ile özel hizmet tazminatının tam olarak ödenmesi ve kuruluş geliştirme ödeneği ile eğitim öğretim ödeneğinin fiilen çalışılmayan süreler için de ödenmesi.
+
+… Eğitim Fakültesi personeline raporlu olunan günler için yan ödeme tazminatı ile özel hizmet tazminatının tam olarak ödenmesi ve kuruluş geliştirme ödeneği ile ilgili sorgu konusu edilen …… TL’nin … TL’sinin aşağıda yer alan tabloda yazılı belgelerle tahsil edildiği anlaşıldığından konu hakkında ilişik kalmadığına, kalan ….. TL’nin ahiz ……’un 2010 yılında … Eğitim Fakültesi kadrosunda bulunmaması nedeniyle ilişiğinin bulunmadığına oybirliğiyle,
