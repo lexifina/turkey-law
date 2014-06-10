@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "113",
+  "decision_date": "2014-06-10",
+  "source_id": 18012,
+  "chamber": "6",
+  "ilam_number": "337",
+  "item_number": 62,
+  "account_year": 2012,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18012/",
+  "source_sha256": "c0a8dd2bf8c96742761713eee7bae1af688dd2548330ca285ae9628b32bef58e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
