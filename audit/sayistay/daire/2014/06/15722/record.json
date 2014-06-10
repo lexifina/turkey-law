@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10347",
+  "decision_date": "2014-06-10",
+  "source_id": 15722,
+  "chamber": "1",
+  "ilam_number": "254",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15722/",
+  "source_sha256": "24156005f09d051ad588b94b63855a8171df040379254fd9da507ea23089a501",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
