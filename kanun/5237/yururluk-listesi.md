@@ -20,3 +20,5 @@ Anayasa Mahkemesi’nin 17/11/2011 tarihli ve E.: 2010/115, K.: 2011/154 sayıl�
 Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5237 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 6459 | 94, 215, 220, 235, 318, Geçici Madde 1 | 30/4/2013
 6460 | 263 | 30/4/2013
+6462 | 122, 278 | 3/5/2013
+Anayasa Mahkemesi’nin 10/4/2013 tarihli ve E.: 2013/14, K.: 2013/56 sayılı Kararı | 267 | 10/12/2013 tarihinden başlayarak altı ay sonra (10/6/2014)
