@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "113",
+  "decision_date": "2014-06-10",
+  "source_id": 17974,
+  "chamber": "6",
+  "ilam_number": "337",
+  "item_number": 25,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17974/",
+  "source_sha256": "deed8a83c9dd439ecbd92ffb10dbc37210f17926d72c65a15bd70be4e82f8533",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
