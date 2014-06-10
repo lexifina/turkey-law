@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35222",
+  "decision_date": "2014-06-10",
+  "source_id": 23186,
+  "chamber": "2",
+  "item_number": 24,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2010,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23186/",
+  "source_sha256": "1b48abba88e9c53cb0eb740f8ccb0500faafe39abce0d012af568ddda0ef1603",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
