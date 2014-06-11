@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; gerekli görüldüğü takdirde Yönetim Kurulunca önerilen ve Rektör tarafından görevlendirilen, Merkezin amacı doğrultusunda farklı alanlarda çalışma yapan Üniversiteden veya Üniversite dışından kişi ve/veya tüzel kişi temsilcilerinden olmak üzere en fazla on kişiden oluşur. Rektör, Danışma Kurulunun doğal üyesidir. Danışma Kurulu, Müdürün daveti üzerine toplanır. Toplantı konusuyla ilgili görüş ve önerilerini Müdüre yazılı olarak bildirir.

@@ -1,0 +1,13 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez, amacına ulaşabilmek için aşağıdaki faaliyetlerde bulunur:
+a) Afrika ülkeleri ile Türkiye arasında eğitim, kültür, din, tarih, sanat, hukuk, siyaset ve ekonomi alanlarında işbirliğinin sürekli geliştirilmesi ve iyileştirilmesi amacıyla bilimsel araştırmalar ve çalışmalar yapmak, çeşitli projeler ve alan araştırmaları ile bilgi birikimi oluşturmak ve bu bilgi birikiminin ulusal ve uluslararası düzeyde paylaşımını sağlamak.
+b) Türkiye’nin bölgesel konumu göz önünde bulundurulmak suretiyle, değişen dünya koşullarında Afrika ülkeleriyle eğitim, kültür, din, tarih, sanat, hukuk, siyaset ve ekonomi alanlarında geleceğe yönelik inceleme ve araştırmalar yapmak, hem ülkemiz hem de Afrika ülkelerinin refahına ve gelişimine yönelik alternatifler ve stratejiler üretmek.
+c) Merkezin ilgi alanına giren konularda faaliyette bulunan ulusal ve uluslararası, resmî veya özel kurumlar ve bilim insanları ile Merkezin amacı doğrultusunda işbirliği yapmak, uygulama ve araştırma projeleri gerçekleştirmek, bu projelere kaynak bulmak, projeleri uygulamak ve proje sonuçlarını çeşitli yöntemlerle (konferans, seminer, çalıştay, yayın vb.) yaygınlaştırmak.
+ç) Merkezin çalışma sahasına giren konularda eğitim programları hazırlamak ve uygulamak, meslekî kurslar, meslek içi eğitim ve sertifika programları, ulusal ve uluslararası düzeyde yaz okulları, konferans, sempozyum, çalıştay, seminer ve benzeri faaliyetlerde bulunmak.
+d) Bölgeyle ilgili araştırma yapmaya elverişli kütüphane ve arşiv oluşturmak, ulusal ve uluslararası bir elektronik iletişim ağı kurmak, bilimsel araştırma ve incelemeler sonucunda elde edilen bilgileri kitap, makale ve rapor hâlinde elektronik ortamda veya basılı olarak yayımlamak.
+e) Faaliyet alanı ile ilgili ulusal, bölgesel ve küresel kapsamda uzmanlar, deneyimli elemanlar ve öğrenciler yetiştirmek, bu amaçla eğitim ve araştırmaya yönelik kurslar, programlar düzenlemek ve sertifikalar vermek.
+f) Üniversitenin akademik birimleri ile disiplinler arası işbirliği sağlayarak projeler geliştirmek ve bu alanlarda yapılacak çalışmalara destek olacak şekilde genç akademisyenleri özendirmek.
+g) Çalışma alanları ile ilgili konularda kamu kurum ve kuruluşları ile özel kuruluşlara danışmanlık hizmeti vermek.
+ğ) Yurt içindeki ve yurt dışındaki üniversiteler, akademiler, meslekî ve teknik eğitim merkezleri ve enstitüler ile ön lisans, lisans, lisansüstü düzeylerde öğretim elemanı, öğrenci ve idarî personel değişimini sağlamak.
+h) Araştırma ve eğitim çalışmalarını yürütmek üzere Merkezin çalışma alanlarında alt birimler ve proje grupları oluşturmak.
+ı) Merkezin amacı ile ilgili diğer faaliyetlerde bulunmak.
