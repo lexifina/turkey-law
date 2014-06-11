@@ -1,0 +1,38 @@
+{
+  "source_id": "9.5.11703",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TERÖRÜN FİNANSMANINA YÖNELİK ŞÜPHELİ İŞLEMLERİN BİLDİRİMİ GENEL TEBLİĞİ",
+  "number": "11703",
+  "path": "teblig/2007/11703",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11703&MevzuatTertip=5",
+  "source_sha256": "3fb5e7e135e2a3fa9f9659b55953cf587dfb1c7d81566a64e76458bdbc01e785",
+  "source_bytes": 29073,
+  "published": "2007-11-07",
+  "gazette": "26693",
+  "in_force": "2014-06-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/6/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-06-11",
+      "RG-11/6/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-09-27",
+      "RG-27/9/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1445,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
