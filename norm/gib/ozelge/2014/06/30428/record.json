@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[009-2012/172]-610",
+  "source_id": 30428,
+  "date": "2014-06-12",
+  "title": "Yapı denetim hizmet bedeli içinde yer alan Bakanlık ve İdare payı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30428",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "89fd26c014a07d471e91c5d6057b94a16d206d69f45ebbbfffe2d192105f53ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
