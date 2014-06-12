@@ -1,0 +1,3 @@
+Verilerin derlenmesi, kontrolü ve koordinasyonundan sorumlu kişiler
+MADDE 7 – (1) Liman işleticileri, gemi acenteleri ve işletmeciler; istatistiki verilerin derlenmesi, elektronik programların kontrolü ve Deniz Ticareti Genel Müdürlüğü istatistik sorumlularıyla koordinasyonu sağlayacak personeli belirleyerek tüm iletişim bilgileriyle birlikte Bakanlığa bildirmekle sorumludurlar.
+(2) Kabotaj düzenli hat izni alan işletmeciler mücbir sebepler dışında faaliyetlerine son vereceklerse veya belirli bir süre faaliyet yapmayacaklarsa, faaliyetlerinin durdurulmasından en az yedi gün önce Bakanlığa bilgi verilmesi gereklidir.

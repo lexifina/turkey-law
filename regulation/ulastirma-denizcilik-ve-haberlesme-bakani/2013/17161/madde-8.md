@@ -1,0 +1,8 @@
+Verilerin hazırlanması ve Bakanlığa iletilmesi
+MADDE 8 – (1) Bu Yönetmelik kapsamında verilerin sağlanmasından sorumlu tüm birimler verilerin doğruluğu ve güvenirliliğinden de sorumlu olup, bu hususta gerekli elektronik veri akışı ve bilgisayar destekli yazılım programlarını tamamlamak zorundadır.
+(2) LÇB almadan kabotaj hattında taşımacılık yapan işletmeciler taşıdıkları araç, yük ve yolcu verilerini anlık olarak kaydedebilecekleri elektronik veri toplama bilgi sistemlerini ve bu sistemlerle bağlantılı elektronik altyapı sistemlerini kurar.
+(3) İlgili birimler bu Yönetmelik kapsamında sağlanmasından sorumlu oldukları verileri, Bakanlık tarafından belirlenen sürede, uygun standartta hazırlayarak elektronik ortamda Bakanlığa iletir.
+(4) İşletmeciler, kabotaj taşımalarına ait yolcu ve araç verilerinin doğru ölçeklerle ve anlık olarak aktarılabilmesi amacıyla gerekli elektronik tanımlama sistemlerini kurarak bu sistemin Bakanlığımız yönetimindeki KBS sistemiyle entegrasyonu sağlar.
+(5) Aylık veriler bir sonraki ayın onuncu gününe kadar elektronik sisteme girilir.
+(6) Yıl sonu verileri, izleyen yılın en geç Ocak ayının ikinci haftası cuma günü mesai bitimine kadar yazılı ve elektronik ortamda Bakanlığa iletilir.
+(7) Bakanlık, verileri tüm istatistiki birimlerden, belirlenen şekil, süre ve standartlarda doğrudan istemeye, doğruluğunu araştırmaya, kontrol etmeye, ilgililerden ek bilgi ve belge istemeye, istatistiklerin hazırlanmasına ilişkin standartları ve şeklini günün şartlarına göre belirlemeye, yazılı ve görsel kaynaklarla yayınlamaya ve raporlamaya yetkili olup bu hususta gerekli idari işlemleri yapmaya yetkilidir.

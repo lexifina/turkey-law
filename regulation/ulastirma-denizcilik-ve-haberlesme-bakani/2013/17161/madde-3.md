@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 26/9/2011 tarihli ve 655 sayılı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 11 inci maddesine, 10/11/2005 tarihli ve 5429 sayılı Türkiye İstatistik Kanununun 6 ncı maddesine ve 23/12/2011 tarihli ve 2011/2630 sayılı Bakanlar Kurulu Kararı eki Resmi İstatistik Programı (2012-2016) hakkında karara dayanılarak hazırlanmıştır.
