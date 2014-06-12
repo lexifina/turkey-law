@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.9-1624",
+  "source_id": 30429,
+  "date": "2014-06-12",
+  "title": "Penye, triko ve benzeri giyim ürünlerinin boncuk, payet, taş basma ve plastik nakış işi yapıldıktan sonra teslimi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30429",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "f5e7181f17f695e8d821c9f72b25e0fb0d35c4b4dde6408bc3db5e1a128dd20a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
