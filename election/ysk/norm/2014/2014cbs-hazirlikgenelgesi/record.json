@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2014/2014cbs-hazirlikgenelgesi",
+  "genelge_number": "1",
+  "decision_date": "2014-06-12",
+  "title": "Cumhurbaşkanı Seçimi için seçime hazırlık genelgesi",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1832/2014CBS-Hazirlikgenelgesi.pdf",
+  "source_sha256": "74660798ffbf1da679f9cf9080304f76a806c305d99bc3282516023e33811579",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2014-06-12",
+  "law_text_complete": false
+}
