@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "229",
+  "decision_date": "2014-06-13",
+  "title": "-Nusratiye Mah_4893 ada, 1-2-3-4-5-6-7-8-9-10 p",
+  "listed_as": "229-Nusratiye Mah_4893 ada, 1-2-3-4-5-6-7-8-9-10 p",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/229-nusratiye-mah-4893-ada-1-2-3-4-5-6-7-8-9-10-parseller-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk86-13-haziran-2014-meclis-kararlari",
+  "listing_sha256": "f1b75161481ccac0f0856f274b9d322c0d45f657796fb6a422f69a36c5828fe6",
+  "meeting_title": "MK86-13 HAZİRAN 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
