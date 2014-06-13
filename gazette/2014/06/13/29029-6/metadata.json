@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-06-13",
+  "issue": "29029",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Milli Emlak Genel Tebliği (Sıra No: 294)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 365)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140613-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140613.htm",
+  "index_sha256": "0cd0a2ca7ef037b534821c5722146dfa66583d7b5df4c36cdd21bebb7a563f4f",
+  "index_header": "13 Haziran 2014 ... 29029 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140613.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
