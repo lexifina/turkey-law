@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-06-14",
+  "issue": "29030",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Gıda Kodeksi Salça ve Püre Tebliği (No: 2014/6)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140614-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140614.htm",
+  "index_sha256": "961ace40c55874132c3c77947e45ea1c25d68bf5a0d7f4c3220bf24454465a77",
+  "index_header": "14 Haziran 2014 ... 29030 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140614.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
