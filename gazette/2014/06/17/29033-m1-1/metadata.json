@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-06-17",
+  "issue": "29033",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "BÖLÜMÜ",
+  "heading": "UYUŞMAZLIK MAHKEMESİ KARARLARI",
+  "title": "Uyuşmazlık Mahkemesine Ait Kararlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140617M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140617M1.htm",
+  "index_sha256": "723024378739b8f8a54a94172b342d6d867ad8d17aebc7636bb765668aeb013f",
+  "index_header": "17 Haziran 2014 ... 29033 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140617M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
