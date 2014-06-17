@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 3 – (1) Bu Tebliğde geçen;
+a) Alım, satım belgesi: 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununda belirtilen şartlara uygun olarak düzenlenen ve üreticiler tarafından ibraz edilen müstahsil makbuzunun ıslak imzalı bir nüshası, TMO alım fişi, ürün satış belgesinin fatura olması halinde ikinci sureti ya da onaylı fotokopisini,
+b) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+c) Banka: T.C. Ziraat Bankası Anonim Şirketini,
+ç) Borsa tescil beyannamesi: 18/5/2004 tarihli ve 5174 sayılı Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanununa göre düzenlenmiş belgeyi,
+d) ÇKS: Çiftçi kayıt sistemini,
+e) ÇKS belgesi: Üreticilerin 2014 yılı ÇKS veri tabanında kayıtlı olan veya ÇKS'ye kaydedilmek üzere çiftçilerden alınan Çiftçi Kayıt Formunun (C) bölümünde yer alan özlük, arazi ve ürün bilgilerini gösteren belgeyi,
+f) Destek kayıt formu: Başvuru sahibi üreticiye ait özlük, fark ödemesi desteğine esas üretim, verim, tohumluk, ürün satış bilgileri ve fark ödemesi desteğine esas değerlendirmenin yer aldığı sistemden alınacak belgeyi,
+g) Fark ödemesi desteği: Kütlü pamuk (yurt içerisinde üretilip sertifikalandırılan tohumları kullananlar), yağlık ayçiçeği, soya fasulyesi, kanola, dane mısır, aspir, zeytinyağı, buğday, arpa, çavdar, tritikale, yulaf, çeltik, kuru fasulye, nohut ve mercimek üreticilerine Kararname uyarınca yapılacak ödemeyi,
+ğ) İl komisyonu: Vali veya görevlendireceği vali yardımcısı başkanlığında; Bakanlık, Maliye Bakanlığı, Bilim, Sanayi ve Teknoloji Bakanlığı, Tapu ve Kadastro Genel Müdürlüğü, Ziraat Odaları Birliği, sanayi ve ticaret odalarının ildeki temsilcileri ile bulunan yerlerde Gümrük ve Ticaret Bakanlığı, Ekonomi Bakanlığı ile ticaret borsası temsilcisinden oluşturulan komisyonu,
+h) İl/ilçe müdürlüğü: İl/ilçe gıda, tarım ve hayvancılık müdürlüklerini,
+ı) İlçe komisyonu: Kaymakam başkanlığında; Bakanlık, Maliye Bakanlığı, Tapu ve Kadastro Genel Müdürlüğü, ilçe ziraat odası varsa sanayi ve ticaret odaları ile ticaret borsası temsilcilerinden oluşturulan komisyonu,
+i) Kararname: 07/04/2014 tarihli ve 2014/6091 sayılı Bakanlar Kurulu Kararını,
+j) Natürel zeytinyağı: Türk Gıda Kodeksi Zeytinyağı ve Prina Yağı Tebliğinde tanımlanan, zeytin ağacı meyvesinden doğal niteliklerinde değişikliğe neden olmayacak bir ısıl ortamda, sadece yıkama, dekantasyon, santrifüj ve filtrasyon işlemleri gibi mekanik veya fiziksel işlemler uygulanarak elde edilen; kendi kategorisindeki ürünlerin fiziksel, kimyasal ve duyusal özelliklerini taşıyan; natürel sızma zeytinyağı, natürel birinci zeytinyağı veya ham zeytinyağı/ rafinajlık zeytinyağlarını,
+k) Sertifikalı tohumluk: Yurt içinde üretilip, sertifikalandırılan elit, orijinal ve sertifikalı kademedeki tohumluğu,
+l) Sözleşme: 26/4/2008 tarihli Resmî Gazete’de yayımlanarak yürürlüğe giren sözleşmeli üretim ile ilgili usul ve esaslar hakkında yönetmelik hükümleri doğrultusunda üretici ile alıcı arasında düzenlenen tarımsal üretim sözleşmesini,
+m) Sözleşmeli üretim: 26/4/2008 tarihli ve 26858 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Sözleşmeli Üretim ile İlgili Usûl ve Esaslar Hakkında Yönetmelik doğrultusunda yapılan üretimi,
+n) Tarımsal Destekleme ve Yönlendirme Kurulu: 18/4/2006 tarihli ve 5488 sayılı Tarım Kanununun 16 ncı maddesine göre oluşturulan Kurulu,
+o) Tasiriye faturası: Maliye Bakanlığı tarafından bastırılan, müteselsil seri ve sıra numarası taşıyan, vergi dairesine kayıtlı gerçek ve tüzel kişi niteliğindeki zeytin sıkma tesislerince üreticiden teslim alınan zeytinin sıkma bedeli karşılığında düzenlenen ve üreticinin adı soyadı, bağlı olduğu il, ilçe ve köyünü gösterir şekilde açık adresi, üretici tarafından getirilen zeytinin kilosu, cinsi ve elde edilen yağ miktarını gösterir faturayı,
+ö) Tohumluk sertifikası: Tohumluğun sınıf ve kademesini belirten, Bakanlık tarafından görevlendirilmiş sertifikasyon kuruluşlarınca düzenlenen belgeyi,
+p) Üretici: 2014 yılında çiftçi kayıt sisteminde özlük, ürün, arazi bilgileri kayıtlı olan ve bu arazilerinde fark ödemesi desteğine esas ürünleri ürettiği il/ilçe müdürlüğü tarafından tespit edilen kamu tüzel kişilikleri hariç, gerçek ve tüzel kişileri,
+ifade eder.

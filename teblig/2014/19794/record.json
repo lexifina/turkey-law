@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19794",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE TARIM HAVZALARI ÜRETİM VE DESTEKLEME MODELİNE GÖRE 2014 YILI ÜRÜNÜ YAĞLI TOHUMLU BİTKİLER, HUBUBAT VE BAKLAGİL FARK ÖDEMESİ DESTEĞİNE İLİŞKİN BAKANLAR KURULU KARARI UYGULAMA TEBLİĞİ(TEBLİĞ NO: 2014/25)",
+  "number": "19794",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2014/19794",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19794&MevzuatTertip=5",
+  "source_sha256": "b51cdb0b7d5c83c39cc3477f7b5db57847f199ab9ea3c37a4c28f122818a3b4a",
+  "source_bytes": 51643,
+  "published": "2014-06-17",
+  "gazette": "29033",
+  "in_force": "2014-06-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.06.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3422,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19794-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
