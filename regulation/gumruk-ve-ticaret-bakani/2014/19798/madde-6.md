@@ -1,0 +1,4 @@
+Haksız şartların değerlendirilmesi
+MADDE 6 – (1) Bir sözleşme şartının haksızlığı; sözleşme konusu mal veya hizmetin niteliği, sözleşmenin kuruluşunda var olan şartlar ve sözleşmenin diğer hükümleri veya haksız şartın ilgili olduğu diğer bir sözleşmenin hükümleri de dikkate alınmak suretiyle sözleşmenin kuruluş anına göre belirlenir.
+(2) Sözleşme şartlarının haksızlığının takdirinde, bu şartların açık ve anlaşılır bir dille yazılmış olması kaydıyla, hem sözleşmeden doğan asli edim yükümlülükleri arasındaki hem de mal veya hizmetin piyasa değeri ile sözleşmede belirlenen fiyatı arasındaki dengeye ilişkin bir değerlendirme yapılamaz.
+(3) Sözleşme şartlarının yazılı olması halinde, tüketicinin anlayabileceği açık ve anlaşılır bir dilin kullanılmış olması gerekir. Sözleşmede yer alan bir hükmün açık ve anlaşılır olmaması veya birden çok anlama gelmesi hâlinde; bu hüküm, tüketicinin lehine yorumlanır.
