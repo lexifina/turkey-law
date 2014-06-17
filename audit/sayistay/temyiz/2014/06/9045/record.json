@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39227",
+  "decision_date": "2014-06-17",
+  "source_id": 9045,
+  "chamber": "7",
+  "file_number": "36588",
+  "account_year": "2003",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9045/",
+  "source_sha256": "e3e486dcb3d1f7fbaaf4adaa9c5221aeacf8d709f79e618dd5c2a06f3564033c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
