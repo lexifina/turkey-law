@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39216",
+  "decision_date": "2014-06-17",
+  "source_id": 9034,
+  "chamber": "8",
+  "file_number": "38349",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9034/",
+  "source_sha256": "99549991093833ef849395f99cab681753616fb8644e3a91764cd2416638bb2c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
