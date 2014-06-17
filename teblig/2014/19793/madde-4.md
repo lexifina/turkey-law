@@ -1,0 +1,3 @@
+Mevcut önlem
+MADDE 4 – (1) 18/6/2009 tarihli ve 27262 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2009/17 sayılı Tebliğ ile ÇHC menşeli önlem konusu ürüne yönelik olarak 20,85 ABD Doları/Kg dampinge karşı kesin önlem yürürlüğe konulmuştur.
+(2) 29/6/2013 tarihli ve 28692 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2013/11 sayılı Tebliğ ile mevcut önlemlerin yürürlükte kalma sürelerinin sona ereceği ve bahse konu ürünün yerli üreticilerinin mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir başvuru ile bir nihai gözden geçirme soruşturması açılması talebinde bulunabilecekleri ilan edilmiştir.

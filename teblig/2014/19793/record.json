@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.19793",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2014/19)",
+  "number": "19793",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2014/19793",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19793&MevzuatTertip=5",
+  "source_sha256": "67b57a62077d7377d5b0a52930274bdcf58c61723dae4544e36f765fe8846f0b",
+  "source_bytes": 22346,
+  "published": "2014-06-17",
+  "gazette": "29033",
+  "in_force": "2014-06-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.06.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1120,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
