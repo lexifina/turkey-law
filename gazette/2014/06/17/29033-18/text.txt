@@ -1,0 +1,209 @@
+17 Haziran 2014 SALI
+Resmî Gazete
+Sayı : 29033
+TEBLİĞ
+Orman ve Su İşleri Bakanlığından:
+RÜZGAR VE
+GÜNEŞ ENERJİSİNE DAYALI ÖNLİSANS BAŞVURULARI
+İÇİN YAPILACAK RÜZGAR
+VE GÜNEŞ ÖLÇÜMLERİ
+UYGULAMALARINA
+DAİR TEBLİĞ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Tebliğ, 2/11/2013 tarihli ve
+28809 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Lisans Yönetmeliği kapsamında yapılacak rüzgar ve güneş ölçümlerinin yapılmasına ve değerlendirilmesine ilişkin usul ve esasları belirlemek amacıyla düzenlenmiştir.
+Dayanak
+MADDE 2 – (1) 8/1/1986 tarihli ve 3254 sayılı Meteoroloji Genel Müdürlüğü Teşkilat ve Görevleri Hakkında Kanunun 2 nci
+maddesinin birinci fıkrasının (d) bendi ve 22 nci maddesi ile 14/3/2013 tarihli ve 6446 Sayılı Elektrik Piyasası Kanunu ve Elektrik Piyasası Lisans Yönetmeliği hükümlerine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Tebliğde geçen;
+a) Ana ölçüm seviyeleri: Rüzgar
+ölçüm istasyonlarında direğin 30 metre ve en üst seviyesinde yapılan rüzgar hız ve yön ölçümlerini,
+b) Başvuru merkezi: Meteoroloji Genel Müdürlüğü Gözlem Sistemleri Dairesi Başkanlığını,
+c) EPDK: Enerji
+Piyasası Düzenleme Kurumunu,
+ç) Firma: Yönetmelik ve Tebliğ kapsamında rüzgar veya güneş ölçümü için başvuru yapan tüzel kişiyi,
+d) IP : Her bir bilgisayar sistemine ait kimlik numarası olan Internet Protokolünü,
+e) MGM:
+Meteoroloji Genel Müdürlüğünü,
+f) Ölçüm istasyonu: Yönetmelik ve Tebliğ kapsamında kurulacak olan rüzgar
+veya güneş ölçüm sistemini,
+g) Proje: Ölçüm istasyonunun yerleşimi, direğin zemine bağlantısı, statik hesapları ve gergi tellerinin bağlantılarını içeren çizim ve hesaplamalar,
+ğ) Sensör:
+Meteorolojik parametreleri ölçmek için ölçüm istasyonunda kullanılan algılayıcıları,
+h) Tebliğ: Ölçümlere ilişkin uygulamaları düzenleyen bu Tebliği,
+ı) UTM koordinatı: Universal Transversal Mercator izdüşümünde altı derecelik dilim esasına göre verilen koordinatı (ED 50 Datum),
+i) Yönetmelik: Enerji Piyasası Düzenleme Kurumu tarafından yayımlanan Elektrik Piyasası Lisans Yönetmeliğini,
+ifade eder.
+İKİNCİ BÖLÜM
+Başvuru, Ölçüm İstasyonu Kontrolü ve Veri İletimi
+Başvuru sırasında yapılacak işlemler
+MADDE 4 – (1) Başvuru sırasında yapılacak işlemler şunlardır:
+a) Başvurular, firma yetkilisi veya yetkilendirilen firma
+temsilcileri tarafından EK-A başvuru formu ile şahsen başvuru merkezine yapılır.
+b) Firma, başvuru formu ile birlikte MGM tarafından belirlenen başvuru ücretinin Döner Sermaye İşletmesi Müdürlüğü banka hesabına yatırıldığına ilişkin makbuzun aslı veya kopyasını başvuru merkezine teslim eder.
+c) Firma,
+kuracağı her ölçüm istasyonu için ayrı başvuru yapar.
+ç) Ölçüm istasyonunun kontrolü, verilerin arşivlenmesi ve ölçüm sonuç raporunun onaylanması gibi hizmetler için firma tarafından yatırılması gereken başvuru ücreti, MGM Döner Sermaye İşletmesi Yönetim Kurulu tarafından her yıl belirlenerek, MGM’nin
+resmi internet sitesinde duyurulur. İlk ölçüm kontrolü yapıldıktan sonra, herhangi bir sebeple aynı ölçüm istasyonu için firma tarafından talep edilecek her bir kontrol işlemi için başvuru ücretinin %30’u hizmet bedeli olarak firma tarafından Döner Sermaye İşletmesi Müdürlüğü hesabına yatırılır. MGM’ye müracaat ederek başvuru numarası alındıktan sonra, bu başvuru için yatırılan başvuru ücreti geri ödenmez. Ancak, ücretini yatırıp başvuru numarası almamış olanlara talep etmeleri durumunda ücreti geri ödenir.
+d) Başvuru sırasında her bir ölçüm istasyonuna, başvuru merkezi tarafından bir istasyon numarası verilir.
+e) MGM tarafından ölçüm istasyonunun kontrol ve kabul işlemi yapıldıktan sonra; firma, verileri göndereceği cihaza/terminale ait sabit IP numarasını MGM’ye bildirir.
+MGM, verilerin MGM’ye gönderebilmesi için gerekli iletişim bilgilerini firmaya bildirecektir.
+f) Firma ölçüm yapacağı sahaya esas ölçüm izni ile ilgili olarak:
+1) Ölçüm yapılacak saha kendisine ait ise tapunun fotokopisini,
+2) Ölçüm yapılacak saha başvuru sahibine ait değilse, bu sahanın ölçüm yapmak üzere sahibinden kiralandığına veya sahanın sahibi tarafından başvuru sahibine bu sahada ölçüm yapılmasına izin verildiğine ilişkin noter veya ilgili muhtar onaylı sözleşmenin aslını veya fotokopisini,
+3) Ölçüm yapılacak saha kamu arazisi ise yetkili kamu
+idaresinden alınmış izin yazısının aslını veya fotokopisini,
+başvuru dosyası içerisinde başvuru merkezine teslim eder.
+g) Ölçüm istasyonunun kurulumuna ilişkin, başvuru sahibi veya ilgili mühendislerce (inşaat veya makine) onaylanmış proje başvuru dosyasına eklenir.
+ğ) MGM, ölçüm periyodu içindeki herhangi bir zamanda ölçüm istasyonunu yerinde veya uzaktan erişimle kontrol ederek, verilerin doğruluğunu teyit etme ve veri kayıt cihazından ölçülen verileri alma işlemlerini yapabilir.
+Kontrol yapacak personelin görevlendirilmesi
+MADDE 5 – (1) Ölçüm istasyonunun kurulum şartlarına uygunluğunun kontrolü, MGM tarafından görevlendirilecek meteorolojik ölçüm sistemleri konusunda bilgi ve tecrübeye sahip en az üç personel tarafından yapılır:
+Ölçüm
+istasyonunun kontrolü
+MADDE 6 – (1) Ölçüm istasyonunun kurulumunun kontrolünde, ekteki (EK-C ve EK-D) kontrol formlarına uygun olarak aşağıdaki işlemler yapılır:
+a) MGM, ölçüm istasyonunun kurulum kontrolünü, başvuru tarihinden itibaren 15 (onbeş)
+iş günü içerisinde yapar.
+b) Kurulum
+raporu, Yönetmelik eklerinde
+belirtilen formata uygun olarak (rüzgar ölçümleri için EK-3, güneş ölçümleri için EK-5) ölçüm istasyonlarının kontrolü için görevlendirilen MGM personeli tarafından sahada yapılacak incelemelerden sonra hazırlanır.
+c) Ölçüm istasyonu, rüzgar
+veya güneş enerjisine dayalı üretim tesisinin kurulacağı önlisans
+başvurusu yapılacak santral sahası alanında yer almalıdır.
+ç) Ölçüm istasyonunun bulunduğu nokta koordinatları, GPS cihazı ile kontrol edilir. GPS ölçüm cihazı hata miktarı en fazla beş metre olmalıdır.
+d) Firma, ölçüme başlandıktan sonra arıza veya hatalı ölçümden dolayı değiştirilen yeni sensör
+veya benzeri ekipmanın kalibrasyon ve uygunluk belgelerini başvuru merkezine 10 iş günü içinde ibraz ederek istasyonun kontrolünü talep eder. MGM değişiklikle ilgili kontrolü 15 (onbeş) iş günü içerisinde sahada yapar.
+e) Görevlendirilen personelin, ölçüm istasyonuna ulaşımı MGM tarafından sağlanır.
+f) Rüzgar
+ölçüm istasyonu kurulduktan sonra, istasyonun koordinat
+ve yükseklik bilgileri
+firma tarafından, Devlet Hava Meydanları İşletmesi Genel Müdürlüğü’ne bildirilir ve bu bildirime ilişkin belge, başvuru dosyasına eklenir.
+g) Rüzgar
+ölçüm istasyonu MGM’nin
+işletmekte olduğu EK-İ’de
+koordinatları belirtilen Meteoroloji Radarlarına kuş uçuşu en az 5 km. uzaklıkta olacaktır. Bu sahalarda rüzgar
+türbinleri
+kurulurken de, bu türbinlerin her birinin meteoroloji radarlarına en az 5 km uzaklıkta olma şartı korunacaktır. Diğer kurumların benzer sistemlerinin yakınlarına kurulacak olan rüzgar
+ölçüm istasyonları ve rüzgar türbinleri için bu kurumlardan uygun görüş almak firmanın sorumluluğundadır.
+Ölçüm
+verilerinin MGM’ye iletilmesi ve
+eksik verilerin tamamlanması
+MADDE 7 – (1) Yapılan ölçümler, ölçüm verileri üzerinde herhangi bir değişiklik ve harici bir müdahale olmaksızın, tebliğde belirtilen veri yapısı kullanılarak ölçümün yapıldığı günü takip eden gün içinde MGM’ye iletilir. Ölçülen verilerin MGM’ye
+iletilmesi aşağıdaki yöntemlerden biri kullanılarak yapılır.
+a) Sabit IP
+adresli bir sistemden MGM tarafından tahsis edilen sunucuya günün belli bir saatinde, otomatik olarak gönderilir.
+b) Verinin güvenli bir şekilde gönderilebileceği ve MGM tarafından uygun bulunacak başka bir yöntemle, günün belli bir saatinde, otomatik olarak gönderilir.
+(2) Ölçüm istasyonundan veri transferinin yapılamadığı durumlarda bağlantı sağlandıktan sonra veri kaydedicilerde saklanan veriler
+otomatik olarak MGM’ye iletilir.
+(3) Rüzgar
+ölçüm istasyonundan elde edilen; rüzgar verileri (yön, hız gibi) "*****_********_R.txt"
+adı verilen metin
+dosyasına, diğer veriler ise (sıcaklık, nem, basınç) "*****_********_D.txt"
+adı verilen metin
+dosyasına ayrı ayrı EK-E'deki formata uygun olarak kaydedilir. Rüzgar
+kayıtları, tüm seviyelerdeki rüzgar ölçümlerini içerir.
+(4) Güneş ölçüm istasyonundan elde edilen güneşlenme verileri "*****_********_G.txt" adı verilen metin dosyasına EK-E'deki formata
+uygun olarak kaydedilir.
+(5) Veriler
+metin dosyası biçiminde, birer günlük olarak hazırlanır. Gönderilen verinin dosya adı; istasyon numarası, ölçüm tarihi (yıl, ay, gün), ölçüm şekli (Güneşlenme: G, Rüzgar:
+R, rüzgar direğindeki diğer ölçümler: D) bilgilerini içerir. Bu bilgiler sırasıyla altçizgi ( _ ) karakteri kullanılarak aşağıdaki örnekte olduğu gibi oluşturulur.
+Örnek: 17141 numaralı istasyonda 14/04/2012 günü yapılan güneşlenme ölçüm kayıtlarını içeren dosya adı aşağıdaki gibi düzenlenmelidir.
+(17141_ 20120414_G.txt)
+(6) Gönderilecek olan metin dosya içindeki kayıtlar EK-E’de istenen
+formatta hazırlanır. Firma, MGM sunucusuna verileri göndermesine rağmen, EK-E’de istenen formata
+(istenen dışında ayraç kullanımı, veri sütun sayısının farklı olması, sütuna farklı karakter eklenmesi vb.) uygun olmaması nedeniyle MGM kayıt sistemine aktarılamayan veriler için, resmi başvuruda bulunarak, verilerin içeriğini değiştirmeden formatını düzeltip dosyaların güncellenmesini talep edebilir.
+(7) Sonuç raporunda, günlük periyotlarla hazırlanarak MGM’ye
+iletilen ölçüm verileri esas alınır. Firma, ölçüm periyodu sonunda, başvuru formunda yapılması istenen hesaplamaları bu verileri esas alarak yapar.
+(8) Rüzgar
+verileri için aşağıdaki hususlar dikkate alınarak işlem yapılır:
+a) 1 yıllık ölçüm verisinde, işletme, bakım, arıza vb. nedenlerle rüzgar
+veri kaybı % 20’den daha fazla olamaz. % 20 veri kaybı içerisinde değerlendirilecek veri kayıpları, ölçümün resmi olarak başladığı tarihten itibaren en az 1 yıllık ölçüm verisinin sağlanacağı süre dikkate alınarak hesaplanır.
+b) Ölçüm süresinin 1 yıldan fazla olduğu durumlarda ise; veri kayıplarının olmadığı veya %20’den az olduğu herhangi bir 1 yıllık periyot dikkate alınır. % 20 veri kaybı, ana ölçüm seviyelerindeki her bir rüzgar
+hızı ve yönü ile tek seviyede ölçülen hava sıcaklığı ve hava basıncı verileri için ayrı ayrı hesaplanır.
+c) Veri kaybının % 20’ye kadar olduğu durumlarda kayıp verilerin tamamlanması işlemi, mevcut veriler veya faaliyet alanını temsil edebilecek en yakın meteoroloji istasyonu verilerinden faydalanılarak, istatistiksel veri tamamlama yöntemleri kullanılarak yapılır. İstatistiksel olarak elde edilen veriler, yanındaki boş sütuna yıldız atılarak işaretlenir.
+ç) Eksik veri tamamlamada kullanılacak referans meteoroloji istasyonu, MGM’nin
+meteoroloji istasyonları arasından alanı temsil edebilen, ölçüm yapılan sahaya yakın bir veya birkaç istasyon olarak seçilebilir. Ayrıca aynı ölçüm sahasında aynı firma tarafından kurulan ve MGM tarafından kabulü yapılmış birden fazla istasyon olması durumunda bu istasyonların verileri birbirlerinin veri kayıplarını tamamlamak için de kullanılabilir.
+d) Rüzgar
+ölçüm istasyonunda ana ölçüm seviyelerindeki rüzgar hız ve yön ölçerlerdeki veri kaybı birbirlerinden veya aynı istasyonda ara seviyelerde de ölçüm yapılıyorsa bu ölçerlerin verilerini kullanarak yapılacak hesaplamalarla tamamlanabilir.
+e) Veri
+tamamlama işlemi, varsa aynı sahada kurulu bulunan başka bir firmaya ait ve MGM tarafından kabul işlemleri yapılmış bir ölçüm istasyonunun verisi kullanılarak da yapılabilir. Ancak bu işlemin yapılması için söz konusu ölçüm istasyonunun sahibinden bu verilerin kullanılması konusunda yazılı olarak izin alınması ve verinin bizzat bu ölçüm istasyonu sahibinden temin edilmesi şarttır.
+f) Sahayı temsil eden meteoroloji istasyonu olmadığı durumlarda; yüzde yirmiden az veri kaybı olmak şartı ile mevcut veriler kullanılarak ölçüm sonuç raporu hazırlanır.
+(9) Güneş verileri için aşağıdaki hususlar dikkate alınarak işlem yapılır.
+a) 1 yıllık ölçüm verisinde, işletme, bakım, arıza vb. nedenlerle güneş veri kaybı % 20’den daha fazla olamaz. % 20 veri kaybı içerisinde değerlendirilecek veri kayıpları, ölçümün resmi olarak başladığı tarihten itibaren en az 1 yıllık ölçüm verisinin sağlanacağı süre dikkate alınarak hesaplanır.
+b) Ölçüm süresinin 1 yıldan fazla olduğu durumlarda ise; veri kayıplarının olmadığı veya %20’den az olduğu herhangi bir 1 yıllık periyot dikkate alınır. % 20 veri kaybı, yatay yüzeye gelen yıllık toplam global güneş ışınımı, güneşlenme süresi ve hava sıcaklığı verilerinin her birisi için ayrı ayrı hesaplanır.
+c) Veri kaybının % 20’ye kadar olduğu durumlarda kayıp verilerin tamamlanması işlemi, faaliyet alanını temsil edebilecek en yakın bir veya birkaç meteoroloji istasyonu verileri kullanılarak veya meteoroloji istasyonu verilerinin
+istatistiksel metodlarla işlenmesiyle yapılır. İstatistiksel olarak elde edilen veriler, yanındaki boş sütuna yıldız atılarak işaretlenir.
+ç) Eksik veri tamamlamada kullanılacak referans meteoroloji istasyonu, MGM’nin
+meteoroloji istasyonları arasından ölçüm noktası ile aynı enlem kuşağına yakın bir veya birkaç istasyon olarak seçilebilir. Ayrıca aynı ölçüm sahasında aynı firma tarafından kurulan ve MGM tarafından kabul işlemleri yapılmış birden fazla ölçüm istasyonu olması durumunda bu istasyonların verileri birbirlerinin veri kayıplarını tamamlamak için de kullanılabilir.
+d) Veri
+tamamlama işlemi, varsa aynı sahada kurulu bulunan başka bir firmaya ait ve MGM tarafından kabul işlemleri yapılmış bir ölçüm istasyonunun verisi kullanılarak da yapılabilir. Ancak bu işlemin yapılması için söz konusu ölçüm istasyonunun sahibinden bu verilerin kullanılması konusunda yazılı olarak izin alınması ve verinin bizzat bu ölçüm istasyonu sahibinden temin edilmesi şarttır.
+(10) Rüzgar
+ve güneş ölçüm sonuç raporu için yapılacak müracaat esnasında, ölçülen ve tamamlanan tüm veriler elektronik ortamda (CD, DVD vb.) MGM’ye
+sunulur.
+ÜÇÜNCÜ BÖLÜM
+Verilerin
+Kontrolü ve Değerlendirilmesi
+Rüzgar verilerinin kontrolü ve değerlendirilmesi
+MADDE 8 – (1) Rüzgar
+verilerinin kontrolü ve değerlendirilmesi aşağıdaki şekilde yapılır:
+a) Yönetmeliğin ekinde yer alan EK-4’de belirtilen formata uygun olarak direğin tepe noktasında ölçülen rüzgar değerleri için rüzgar ölçüm sonuç raporu hazırlanır. Bu raporla birlikte Başvuru Formu (EK-B) ve Rüzgar/Güneş Verisi-Veri Tamamlama Bilgi Formu (EK-F) MGM’ye
+sunulur.
+b) MGM’ye
+iletilen verilerle sunulan veriler örnekleme yöntemiyle karşılaştırılarak kontrol edilir. Kontrol sonucu, sunulan
+verilerin MGM’deki verilerden farklı olması durumunda ölçüm sonuç raporunda bu husus belirtilir.
+c) Eksik veri
+tamamlamada kullanılan istatistiksel yöntemler (doğrusal enterpolasyon, hareketli
+ortalama, korelasyon, basit ortalamalarının alınması ve ortanca değer kullanımı vb.) ayrıntılı olarak EK-F’de
+belirtilir.
+ç) Veri kaybı, % 20’den daha fazla ise bu durum ölçüm sonuç raporunda belirtilir. % 20 veri kaybı, ölçüm periyodu boyunca kaydedilmesi gereken on dakikalık verilerin toplam kayıt sayısının % 20’si olarak kabul edilir.
+d) Ölçüm sonuç raporlarının, MGM’ye teslim
+edilmesinden sonra başvuru yoğunluğu ve başvuru sırası dikkate alınarak en fazla 30 (otuz) iş günü içerisinde değerlendirme ve onay işlemleri sonuçlandırılır.
+e) Rüzgar
+ölçüm sonuç raporunda; direğin en üst seviyesindeki ölçüm sonuçları kullanılır. Rüzgar hız, yön ve güç hesaplamaları on dakikalık veriler kullanılarak yapılır. Yıllık ortalama rüzgar hızı, hakim rüzgar yönü ile yönlere göre esme sayısı (frekans) ve güç bilgileri belirtilir. MGM tarafından EK-4’ deki Rüzgar Ölçüm Sonuç Raporu onaylanır.
+Güneş
+verilerinin kontrolü ve değerlendirilmesi
+MADDE 9 – (1) Güneş verilerinin kontrolü ve değerlendirilmesi aşağıdaki şekilde yapılır:
+a) Yönetmeliğin ekinde yer alan EK-6’da belirtilen formata uygun olarak güneş ölçüm sonuç raporu hazırlanır. Bu raporla birlikte Başvuru Formu (EK-B) ve Rüzgar/Güneş Verisi-Veri Tamamlama Bilgi Formu (EK-F) MGM’ye
+sunulur.
+b) MGM’ye
+iletilen verilerle sunulan veriler örnekleme yöntemiyle karşılaştırılarak kontrol edilir. Kontrol sonucu, sunulan
+verilerin MGM’deki verilerden farklı olması durumunda ölçüm sonuç raporunda bu husus belirtilir.
+c) Eksik veri
+tamamlamada kullanılan istatistiksel yöntemler (doğrusal enterpolasyon,
+hareketli ortalama, korelasyon, basit ortalamalarının alınması ve ortanca değer kullanımı vb.) ayrıntılı olarak EK-F’de
+belirtilir.
+ç) Veri kaybı, % 20’den daha fazla ise bu durum ölçüm sonuç raporunda belirtilir. % 20 veri kaybı, ölçüm periyodu boyunca kaydedilmesi gereken on dakikalık verilerin toplam kayıt sayısının % 20’si olarak kabul edilir.
+d) Ölçüm sonuç raporlarının, MGM’ye teslim
+edilmesinden sonra başvuru yoğunluğu ve başvuru sırası dikkate alınarak en fazla 30 (otuz) işgünü içerisinde değerlendirme ve onay işlemleri sonuçlandırılır.
+e) Güneş Ölçüm sonuç raporundaki; global güneş ışınımı yıllık toplamı (kWh/m²), güneşlenme süresi yıllık toplam saati (h) ve yıllık ortalama hava sıcaklığı (°C) onar dakikalık veriler kullanılarak hesaplanır. Bu rapor (EK-6), MGM tarafından onaylanır.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Sorumluluk
+MADDE 10 – (1) MGM’ye
+sunulan ölçülen ve tamamlanan veri ve bilgilerin doğruluğundan ve güvenilirliğinden başvuru sahibi sorumludur. MGM hukuki olarak sorumlu
+değildir. Yapılan değerlendirmeler, başvuru sahibinin MGM’ye
+ilettiği veri ve
+bilgilerin doğru olduğu kabul edilerek yapılır.
+(2) Bu bölüm hükümleri kapsamında MGM’ye sunulan
+veriler ile ticari sır niteliğinde olan bilgilerin saklanması ve korunması, MGM’nin sorumluluğundadır.
+(3) MGM, üzerinden 3 tam yıl geçen veri kayıt sistemindeki günlük veriler üzerinde her türlü tasarruf hakkına sahiptir. (Örnek; 08/02/2010 tarihinde
+ölçülen veri, 09/02/2013 tarihinden itibaren MGM tarafından kullanılabilir)
+(4) Rüzgar
+ölçüm istasyonu koordinat bilgilerinin, Devlet Hava
+Meydanları İşletmesi Genel Müdürlüğü’ne bildirilmesi ilgili firmanın sorumluluğundadır.
+Rüzgar ve güneş ölçüm
+istasyonunun özellikleri
+MADDE 11 – (1) Rüzgar
+ölçüm istasyonunun kurulumunun kontrolü yapılırken EK-C’ de, güneş ölçüm istasyonunun kurulumunun kontrolü yapılırken EK-D’de belirtilen
+hususlar dikkate alınır.
+Yürürlükten kaldırılan tebliğ
+MADDE 12 – (1) 10/07/2012 tarihli ve 28349 sayılı Resmî Gazete‘de yayımlanan “Rüzgar ve Güneş Enerjisine Dayalı Lisans Başvuruları İçin Yapılacak Rüzgar ve Güneş Ölçümleri Uygulamalarına Dair Tebliğ” yürürlükten kaldırılmıştır.
+Yürürlük
+MADDE 13 – (1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 14 – (1) Bu Tebliğ hükümlerini, Meteoroloji Genel Müdürlüğünün bağlı olduğu Bakan yürütür.
+Tebliğin
+ekleri için tıklayınız
