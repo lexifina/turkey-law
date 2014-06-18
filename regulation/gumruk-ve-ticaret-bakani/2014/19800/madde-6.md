@@ -1,0 +1,4 @@
+Promosyon uygulamasının süresi
+MADDE 6 – (1) Süreli yayının birden fazla sayıda satın alınmasını gerektiren ve belirli bir zamana yayılan promosyon uygulamalarının süresi; günlük süreli yayınlarda yetmiş beş günü, haftalık süreli yayınlarda on sekiz haftayı, daha uzun süreli yayınlarda ise on iki ayı geçemez.
+(2) Yönetmeliğin diğer hükümleri saklı kalmak kaydıyla, süreli yayınlara abone olunması durumunda promosyon olarak verilen ürünün 5 inci maddede sayılan ürünlerle sınırlı olması ve anında tüketicilere teslim edilmesi şartıyla birinci fıkrada belirtilen süreler uygulanmaz. Tüketicinin süreli yayın aboneliğini feshetmesi halinde, promosyon olarak verilen ürünün iadesi istenemez.
+(3) Kupon biriktirilerek yapılan promosyon uygulamalarında, son kuponun yayımlanmasından sonra toplam kupon sayısının en az yüzde onu kadar yedek kupon yayımlanması zorunludur.

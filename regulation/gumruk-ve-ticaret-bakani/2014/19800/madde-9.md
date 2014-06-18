@@ -1,0 +1,5 @@
+Diğer hususlar
+MADDE 9 – (1) Promosyon uygulaması süresince, süreli yayının satış fiyatı, ikinci ürün olarak verilmesi taahhüt edilen mal veya hizmetin yol açtığı maliyet artışı nedeniyle arttırılamaz. Promosyon uygulamasına konu olan mal veya hizmet bedelinin tamamının veya bir bölümünün tüketici tarafından karşılanması istenemez.
+(2) Promosyon uygulamasına konu olan mal veya hizmet taahhüdü ve dağıtımı bölünerek yapılamaz ve bu mal veya hizmetin ayrılmaz ya da tamamlayıcı parçaları da ayrı bir promosyon konusu hâline getirilemez.
+(3) Promosyon uygulamalarında ikinci ürün olarak verilmesi taahhüt edilen her bir mal veya hizmete ilişkin işlemler bağımsız bir promosyon uygulaması olarak kabul edilir.
+(4) Dağıtıldığı illerin nüfusunun toplamı, ülke nüfusunun en az yüzde yetmişini oluşturan süreli yayınların ülke genelinde dağıtıldığı kabul edilir. Elektronik ortamda indirilebilen süreli yayınlar aracılığıyla gerçekleştirilen promosyon uygulamalarının ülke genelinde düzenlendiği kabul edilir.
