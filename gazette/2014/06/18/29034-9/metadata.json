@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-06-18",
+  "issue": "29034",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Diyanet İşleri Başkanlığı Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140618-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140618.htm",
+  "index_sha256": "df8da47f589a5eeb1cde4dded34256c89cd76a614518dba911ff82052e8689c0",
+  "index_header": "18 Haziran 2014 ... 29034 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140618.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
