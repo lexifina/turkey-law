@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "605",
+  "decision_date": "2014-06-19",
+  "title": "Bursa İli, Gemlik İlçesi, Karacaali Mahallesi, 1540 parsel, 1804,00 m2 ve 1541 parsel, 8492,00 m2 yüzölçümlü taşınmazların sosyal amaçlı kullanılmak üzere Büyükşehir Belediyesi’ne tahsisi",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/9076_MEC2014-14_605.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=2014",
+  "listing_sha256": "42429b003e58682896d52cb606934b011bb8ba4a49137843fa9573171aa35161",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
