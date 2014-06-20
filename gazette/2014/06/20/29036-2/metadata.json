@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-06-20",
+  "issue": "29036",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2014/6431 İzmir İlinde Tesis Edilecek Tire Rüzgâr Elektrik Santralinin Yapımı Amacıyla Bazı Taşınmazların Maliye Bakanlığı Tarafından Acele Kamulaştırılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140620-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140620.htm",
+  "index_sha256": "b83cb412321d935f9bbca5fd47e189609ef8ea0bbf480a7af30c95eee71e0b3e",
+  "index_header": "20 Haziran 2014 ... 29036 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140620.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
