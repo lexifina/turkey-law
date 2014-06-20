@@ -1,0 +1,82 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "164",
+  "decision_number": "19/599",
+  "date": "2014-06-20",
+  "title": "Kurulun 20.06.2014 Tarih ve 19/599 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/164",
+  "source_sha256": "eae4fec3ecb31f903f241710d0247bd8d97a3d208a0696614b1c506c15bdad5b",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 164,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurulun 20.06.2014 tarih ve 19/599 sayılı Kararı ile;",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2014-06-20",
+    "source_clauses": [
+      "Kurulun 20.06.2014 tarih ve 19/599 sayılı Kararı ile;",
+      "01.07.2015 tarihine kadar"
+    ],
+    "deferred_start": "none accepted; later dates are explicit end/deadline clauses",
+    "source_deadline_dates": [
+      "2015-07-01"
+    ]
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "db60dc0d-c175-4aa3-a2f4-a01ec7f60c60",
+    "contentSource": "IlkeKarari",
+    "contentID": 164,
+    "tur": "Kurul Kararı",
+    "title": "Kurulun 20.06.2014 Tarih ve 19/599 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2014-06-20T00:00:00",
+    "kurulKararTarih": "20.06.2014",
+    "kurulToplantiNo": "19/599",
+    "bultenYili": 2014,
+    "bultenNo": 19,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "130:Yatırım Hizmetleri ve Faaliyetleri İle Yan Hizmetlere İlişkin Esaslar Hakkında Tebliğ;174:Portföy Saklama Hizmetine ve Bu Hizmette Bulunacak Kuruluşlara İlişkin Esaslar Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 130,
+        "value": "Yatırım Hizmetleri ve Faaliyetleri İle Yan Hizmetlere İlişkin Esaslar Hakkında Tebliğ"
+      },
+      {
+        "key": 174,
+        "value": "Portföy Saklama Hizmetine ve Bu Hizmette Bulunacak Kuruluşlara İlişkin Esaslar Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "1:Yatırım Kuruluşları;117:Portföy Saklama",
+    "ilgiliKonular": [
+      {
+        "key": 1,
+        "value": "Yatırım Kuruluşları"
+      },
+      {
+        "key": 117,
+        "value": "Portföy Saklama"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/164",
+    "linkTarget": "_blank"
+  }
+}
