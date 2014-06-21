@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-06-21",
+  "issue": "29037",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Mali Suçları Araştırma Kurulu Genel Tebliği (Sıra No: 12)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140621-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140621.htm",
+  "index_sha256": "303c7fd9a151cad8bf91b51cbb2e10f3e3a2723a6158ae2962a9d732e5deeb50",
+  "index_header": "21 Haziran 2014 ... 29037 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140621.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
