@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/3005",
+  "list_number": "3005",
+  "decision_date": "2014-06-21",
+  "title": "Cumhurbaşkanı Seçiminde yurt içinde görev alacak kişilere ödenecek gündelik miktarı ile sair harcamaların belirlenmesine ilişkin Yüksek Seçim Kurulunun 2014/3005 sayılı kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2396/2014-3005.pdf",
+  "source_sha256": "e1225d2b9c6eb41a49b6e0ac4401bbc799a506fc9458cfcd69d4d1e48e44603c",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 8,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-06-21",
+  "law_text_complete": false
+}
