@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/3006",
+  "list_number": "3006",
+  "decision_date": "2014-06-21",
+  "title": "\"Cumhurbaşkanı Seçiminde Gümrük Kapılarında Görev Yapacak Geçici Gümrük Kapısı Seçim Kurulları ve Sandık Kurullarının Görev ve Yetkileri ile Gümrük Kapılarındaki Oy Verme İşlemlerine İlişkin Örnek: 145/I sayılı Genelge\"nin kabulüne ilişkin Yüksek Seçim Kurulunun 2014/3006 sayılı kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2394/2014-3006.pdf",
+  "source_sha256": "1eb0da5abb3ca8f52bb12a20f884ee1deede5dda7d074b98c897a3e18a7fde26",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 26,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-06-21",
+  "law_text_complete": false
+}
