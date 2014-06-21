@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2014/2014-cbs-ornek145-1",
+  "list_number": "3006",
+  "genelge_number": "Örnek:145/1",
+  "decision_date": "2014-06-21",
+  "title": "Cumhurbaşkanı Seçiminde Gümrük Kapılarında Görev Yapacak Geçici Gümrük Kapısı Seçim Kurulları ve Sandık Kurullarının Görev ve Yetkileri ile Gümrük Kapılarındaki Oy Verme İşlemlerine İlişkin Örnek: 145/I sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1834/2014-CBS-Ornek145-1.pdf",
+  "source_sha256": "e4c23091dcefe14709959f936140e567ecfbf9c66b97a0c2f8d82304b90eb933",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 16,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-06-21",
+  "law_text_complete": false
+}
