@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-06-23",
+  "issue": "29039",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türk Hava Kurumu Üniversitesi Bilgi Toplumu Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140623-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140623.htm",
+  "index_sha256": "d2e2ad214c435ccde61ec77c61e71722c55d925aedd509242e27c3a3d84ebb71",
+  "index_header": "23 Haziran 2014 ... 29039 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140623.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
