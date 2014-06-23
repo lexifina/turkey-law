@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür, Müdür yardımcıları ve İMÜ-HADYEK başkanı ile Merkezin faaliyet alanları ile ilgili konularda veya deney hayvanları ile ilgili çalışması olan Üniversite öğretim üyelerinden/elemanlarından olmak üzere toplam yedi kişiden oluşur. Yönetim Kurulu üyeleri; Müdürün teklifi ile Rektör tarafından üç yıllık süreyle görevlendirilir.
+(2) Yönetim Kurulu, en az üç ayda bir kez, Müdürün daveti üzerine, Müdür tarafından belirlenen gündemle, üye tam sayısının salt çoğunluğu ile toplanır ve kararlar üye tam sayısının salt çoğunluğu ile alınır. Yönetim Kurulu gereken hallerde aynı usulle olağanüstü toplanabilir.
+(3) Gerektiğinde Yönetim Kurulu toplantılarına, Müdür tarafından düşünce ve deneyimlerinden yararlanılmak, görüşleri alınmak ve Merkez faaliyetleri hakkında kendilerine bilgi verilmek üzere, oy hakkı olmadan Danışma Kurulu üyeleri davet edebilir.
