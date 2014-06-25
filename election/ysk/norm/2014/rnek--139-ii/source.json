@@ -1,0 +1,29 @@
+{
+  "number": "rnek--139-ii",
+  "date": "2014-06-25",
+  "source_id": 1836,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1836/2014-CBS-Ornek139-2.pdf",
+  "source_sha256": "c78bab5eea86fe4181011f55f07d3f46ff9281e1feaf34a2c1b2d6d5590bd015",
+  "history": "as-enacted",
+  "words": 3031,
+  "in_force_basis": "Official adopted general rule, PDF p. 8: Bu Genelge Yüksek Seçim Kurulunun 25/06/2014 tarih ve 3060 sayılı kararı ile kabul edilmiştir",
+  "catalogue_date": "2014-06-25",
+  "source_images": 0,
+  "decorative_images": 0,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "attached_decision_numbers": [
+    "3060"
+  ],
+  "adoption_dates": [],
+  "approval_dates": [
+    {
+      "page": 8,
+      "date": "2014-06-25",
+      "quote": "Bu Genelge Yüksek Seçim Kurulunun 25/06/2014 tarih ve 3060 sayılı kararı ile kabul edilmiştir"
+    }
+  ],
+  "explicit_effective_dates": [],
+  "date_kind": "rule-adoption"
+}
