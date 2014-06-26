@@ -1,0 +1,3 @@
+… Üniversitesi Sağlık Araştırma ve Uygulama Merkezi abonesine ait elektrik faturası ödemelerinde çok zamanlı elektrik tüketim ölçümü yapabilen elektrik sayaçları kullanılmasına rağmen tek zamanlı tarife üzerinden fiyatlandırma yapılması.
+
+… Üniversitesi Sağlık Araştırma ve Uygulama Merkezi abonesine ait elektrik faturası ödemelerinde çok zamanlı elektrik tüketim ölçümü yapabilen elektrik sayaçları kullanılmasına rağmen tek zamanlı tarife üzerinden fiyatlandırma yapıldığı görülmüşse de, savunmalarda serbest tüketici belgesi alındığı, elektrik alımı ile ilgili açık ihale düzenlendiği ve tek terimli çok zamanlı tarifeye geçildiği belirtildiğinden … TL hakkında ilişik bulunmadığına oybirliğiyle,
