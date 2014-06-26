@@ -1,0 +1,3 @@
+… Üniversitesi … Kampüsü abonesine ait elektrik faturası ödemelerinde çok zamanlı elektrik tüketim ölçümü yapabilen elektrik sayaçları kullanılmasına rağmen tek zamanlı tarife üzerinden fiyatlandırma yapılması.
+
+.… Üniversitesi .… Kampüsü abonesine ait elektrik faturası ödemelerinde çok zamanlı elektrik tüketim ölçümü yapabilen elektrik sayaçları kullanılmasına rağmen tek zamanlı tarife üzerinden fiyatlandırma yapıldığı görülmüşse de, savunmalarda elektrik tüketimlerinin uzun vadeli olarak izleneceği, puant tarifesinin de buna uygun olarak belirleneceği belirtildiğinden .… TL hakkında ilişik bulunmadığına oybirliğiyle,
