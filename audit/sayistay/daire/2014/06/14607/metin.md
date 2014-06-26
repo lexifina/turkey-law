@@ -1,0 +1,3 @@
+“… Üniversitesi Sağlık Araştırma ve Uygulama Merkezi” için medikal malzeme alımlarında piyasa fiyat araştırmasının usulüne uygun yapılması ve ortalamanın üzerinde yüksek fiyatlı alımlar yapılması.
+
+ “… Üniversitesi Sağlık Araştırma ve Uygulama Merkezi” için medikal malzeme alımlarında piyasa fiyat araştırmasının usulüne uygun yapılmadığı ve ortalamanın üzerinde yüksek fiyatlı alımlar yapıldığı tespit edilmişse de, sorumlular tarafından yapılan savunmalar uyarınca ve malzeme bedellerinin Sosyal Güvenlik Kurumu’nca ödendiği anlaşıldığından kamu zararı oluşmadığı görülmüş olup … TL hakkında ilişik bulunmadığına oybirliğiyle;
