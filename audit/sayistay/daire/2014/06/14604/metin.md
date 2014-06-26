@@ -1,0 +1,3 @@
+Araştırma ve Uygulama Merkezi Döner Sermaye Saymanlık Müdürlüğünde görevli müdür ve memurlara 375 sayılı KHK’ye 666 sayılı KHK ile yapılan ek 9. madde uyarınca ek ödeme yapılırken aynı zamanda döner sermaye katkı payı da ödenmesi.
+
+Araştırma ve Uygulama Merkezi Döner Sermaye Saymanlık Müdürlüğünde görevli müdür ve memurlara 375 sayılı KHK’ye 666 sayılı KHK ile yapılan ek 9. madde uyarınca ek ödeme yapılırken aynı zamanda döner sermaye katkı payı da ödenmesi sonucu … TL kamu zararına sebebiyet verildiği belirtilmişse de, döner sermaye katkı payı ödemelerinin bir önceki döneme (Aralık 2011) ait olduğu anlaşıldığından konu hakkında ilişik bulunmadığına oybirliğiyle,
