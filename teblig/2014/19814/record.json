@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.19814",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ANTALYA İHRACATÇILAR BİRLİĞİNİN UNVANININ DEĞİŞTİRİLMESİNE İLİŞKİN TEBLİĞ(TEBLİĞ NO: İHRACAT 2014/4)",
+  "number": "19814",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2014/19814",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19814&MevzuatTertip=5",
+  "source_sha256": "a4191dca0e6555cbd95532d63caf9fd5c1521aa1ae5a6f7f0ea9b55a80339c7b",
+  "source_bytes": 7718,
+  "published": "2014-06-26",
+  "gazette": "29042",
+  "in_force": "2014-06-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.06.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 51,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
