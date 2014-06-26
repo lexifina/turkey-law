@@ -1,0 +1,3 @@
+İdareye şikayet başvurusunda bulunulması sonucu sözleşme ve işe başlama süresi geciken “… Üniversitesi Sağlık Araştırma ve Uygulama Merkezi Envanterindeki Tıbbi Cihazların Onarımı, Periyodik Bakımı, Kalibrayonu ve Biyomedikal Hizmeti” işine ilişkin olarak sözleşme bedelinin hatalı hesaplanması.
+
+İdareye şikayet başvurusunda bulunulması sonucu sözleşme ve işe başlama süresi geciken “… Üniversitesi Sağlık Araştırma ve Uygulama Merkezi Envanterindeki Tıbbi Cihazların Onarımı, Periyodik Bakımı, Kalibrayonu ve Biyomedikal Hizmeti” işine ilişkin olarak sözleşme bedelinin hatalı hesaplanması sonucu … TL kamu zararına sebebiyet verilmişse de, kamu zararının yılı içinde tahsil edildiği anlaşıldığından konu hakkında ilişik bulunmadığına oybirliğiyle,
