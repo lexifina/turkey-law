@@ -1,0 +1,3 @@
+“… Üniversitesi Sağlık Araştırma ve Uygulama Merkezi için Veri Hazırlama ve Otomasyon Sekreterliği ve Destek Hizmetleri alımı” işinde yüklenici tarafından emekli personel çalıştırıldığı halde, hakedişten emekli personel ile diğer personel maliyeti arasında sigorta priminden doğan fark düşülmeden ödeme yapılması.
+
+ “… Üniversitesi Sağlık Araştırma ve Uygulama Merkezi için Veri Hazırlama ve Otomasyon Sekreterliği ve Destek Hizmetleri alımı” işinde yüklenici tarafından emekli personel çalıştırıldığı halde emekli personel ile diğer personel maliyeti arasında sigorta priminden doğan fark düşülmeden ödeme yapılması sonucu oluşan … TL’nin ahiz … Bilgisayar Güv.Tic.Ltd.Şti.’nden …….. ile tahsil edildiği anlaşıldığından ilişiğinin kalmadığına oybirliğiyle,
