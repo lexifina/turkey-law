@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5095/2",
+  "decision_date": "2014-06-26",
+  "title": "01/07/2014 Tarihinden İtibaren Geçerli Olacak Tarife Tabloları",
+  "resmi_gazete_date": "2014-07-01",
+  "resmi_gazete_number": "29047",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a5LP/rGdN5M=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a5LP/rGdN5M=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nFTPV130xtI="
+  ],
+  "source_sha256": "caf51aed2c47a494989ae6216e11de3cef6c35486ca6c1efded406f7c8196514",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-06-26",
+  "law_text_complete": false
+}
