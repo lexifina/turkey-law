@@ -1,0 +1,3 @@
+Bilimsel Araştırma Projelerine ilişkin alımlarında % 8 ve % 1 oranında katma değer vergisi ödenmesi gereken malzeme için % 18 oranında KDV ödemesi yapılması.
+
+Bilimsel Araştırma Projelerine ilişkin olarak yapılan Isı değiştiricisi, EKG ve otoskop alımlarında % 8 ve % 1 oranında katma değer vergisi ödenmesi gerekirken % 18 oranında KDV ödemesi yapıldığı görülmüşse de, toplam … TL kamu zararı tutarından EKG ve otoskop cihazı alımlarına ilişkin fazla ödenen … TL’sinin … Kimyasal Maddeler Sağ.Ger. Tic.A.Ş.’den … tarihli … Bankası dekontu ile tahsil edildiği anlaşıldığından bu miktar için ilişik kalmadığına; kalan ve ısı değiştiricilerine ait olan … TL’nin savunmalar uyarınca ilişiğinin bulunmadığına oybirliğiyle,
