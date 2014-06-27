@@ -1,0 +1,69 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "181",
+  "decision_number": "20/659",
+  "date": "2014-06-27",
+  "title": "Kurulun 27.06.2014 Tarih ve 20/659 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/181",
+  "source_sha256": "78b49dd032f8fa9719cdac0498170114ee18a8ab314abce9de15445f599bcabd",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 181,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurulun 27.06.2014 tarih ve 20/659 sayılı kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2014-06-27",
+    "source_clauses": [
+      "Kurulun 27.06.2014 tarih ve 20/659 sayılı kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "df41c9d8-a86f-427e-bd51-0a8a41c89e88",
+    "contentSource": "IlkeKarari",
+    "contentID": 181,
+    "tur": "Kurul Kararı",
+    "title": "Kurulun 27.06.2014 Tarih ve 20/659 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2014-06-27T00:00:00",
+    "kurulKararTarih": "27.06.2014",
+    "kurulToplantiNo": "20/659",
+    "bultenYili": 2014,
+    "bultenNo": 19,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": null,
+    "baglantiliTebligler": null,
+    "ilgiliKonularStr": "20:Çeşitli Konular;139:Lisanslama",
+    "ilgiliKonular": [
+      {
+        "key": 20,
+        "value": "Çeşitli Konular"
+      },
+      {
+        "key": 139,
+        "value": "Lisanslama"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/181",
+    "linkTarget": "_blank"
+  }
+}
