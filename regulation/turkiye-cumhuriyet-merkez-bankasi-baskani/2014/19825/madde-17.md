@@ -1,0 +1,6 @@
+Sistem işleticisinin diğer faaliyetleri
+MADDE 17 – (1) Sistem işleticisi, sistemin işletimi ile dolaylı olarak ilgili olan veya sistemin işleyişi ile herhangi bir bağlantısı olmayan ancak sistem katılımcılarının faaliyetlerini geliştiren, güvenli kılan ve kolaylaştıran veya mevzuatla kendisine yetki verilen diğer faaliyetlerde bulunabilir.
+(2) Sistem işleticisinin bu madde uyarınca faaliyet gösterebilmesi için Bankanın bu faaliyetleri onaylamış ve sistem işleticisine verilen faaliyet izni kapsamına almış olması gerekir.
+(3) Banka, sistem işleticisine bu madde uyarınca faaliyet gösterebilmesi için ilave öz kaynak bulundurma yükümlülüğü getirebilir.
+(4) Sistem işleticisi bu madde uyarınca sunacağı diğer faaliyetlerden kaynaklanabilecek riskleri göz önünde bulundurur ve bu riskleri etkin bir şekilde yönetmek için gerekli önlemleri alır.
+(5) Banka, sistem işleticisinin bu madde uyarınca yürüttüğü diğer faaliyetlerin sistemin sorunsuz işleyişini olumsuz etkilediği kanaatine varması durumunda sistem işleticisinden bu faaliyetleri durdurmasını veya bu faaliyetlerin sistem işleticisine ayrı bir kanunla verilmiş olması durumunda sisteme ilişkin faaliyetlerin ayrı bir tüzel kişilik altında yürütülmesini istemeye yetkilidir.

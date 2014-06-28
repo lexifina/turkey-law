@@ -1,0 +1,10 @@
+Bilgi sistemleri
+MADDE 24 – (1) Sistem işleticisi, bilgi sistemlerini, gerçekleştirilen faaliyetlerin ve sunulan hizmetlerin sorunsuz bir şekilde sürdürülmesini sağlayacak şekilde tasarlar.
+(2) Bilgi sistemleri, gerçekleştirilen faaliyetler ve sunulan hizmetlerin özellikleri ve gerçekleşen işlemlerin ölçeğiyle uyumlu olmalıdır.
+(3) Bilgi sistemleri tasarlanırken tüm bilgilerin elektronik ortamda güvenli bir şekilde saklanmasına ve kullanılmasına imkan verecek bir yapı oluşturulmasına dikkat edilir. Sistem işleticisi, bilgi sistemleri ve bu sistemlerde yer alan verilerin gizliliği, bütünlüğü ve ulaşılabilirliğini sağlayacak kontrol önlemlerini alır.
+(4) Bilgi sistemlerinin güvenliğinin ve güvenilirliğinin sağlanması, bilgi sistemlerinden kaynaklanan risklerin tespit edilmesi, takibi, yönetimi ve bunlara ilişkin güvenlik kontrollerinin oluşturulması, bilgi sistemlerinin dayanıklılığı ve fiili kapasitesi gibi hususları ölçmek amacıyla stres testleri ve performans testleri uygulanması ile bilgi sistemlerinin düzenli olarak güncellenerek gerekli değişikliklerin yapılmasından sistem işleticisi sorumludur.
+(5) Sistem işleticisi bilgi güvenliği ihlaline ilişkin olayları izlemek ve dönemsel olarak değerlendirmekle yükümlüdür.
+(6) Sistem işleticisinin bilgi sistemleri yurt içinde kurulu olmak zorundadır. Sistem işleticisinin, faaliyetlerini yürütmede kullandığı bilgi sistemleri kapsamında bir dış hizmet alması halinde, dış hizmet sağlayıcısının bu kapsamdaki faaliyetlerini yürütmede kullandığı bilgi sistemleri ve bunların yedeklerinin de yurt içinde tutulması esastır.
+(7) Sistem işleticisi, bilgi sistemlerinin yönetimi ile ilgili unsurları organizasyon yapısı içerisinde uygun yere yerleştirmek ve bilgi sistemleri yönetiminin etkin bir şekilde yerine getirilebilmesi için gerekli finansman ve insan kaynağını tahsis etmekle yükümlüdür.
+(8) Sistem işleticisi, açık olarak tanımlanmış fiziksel güvenlik ve bilgi güvenliği politikalarına sahip olmalıdır.
+(9) Banka, bilgi sistemlerine ilişkin sistem işleticisinin dikkat etmesi gereken usul ve esasları çıkaracağı tebliğ, genelge ve talimatlarla belirlemeye yetkilidir.

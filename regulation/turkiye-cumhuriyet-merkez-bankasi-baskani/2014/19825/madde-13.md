@@ -1,0 +1,5 @@
+Finansal raporlama
+MADDE 13 – (1) Tabi olduğu özel mevzuatta aksi belirtilmediği sürece, sistem işleticisinin faaliyetlerinin muhasebeleştirilmesi Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunca yayımlanan muhasebe standartlarına uygun olarak yapılır.
+(2) Sistem işleticisi finansal tablo ve raporlarını Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunca yayımlanan muhasebe ve finansal raporlama standartlarına uygun olarak zamanında, tam ve doğru bir şekilde hazırlar ve Banka ile paylaşır.
+(3) Banka, gerek görmesi durumunda sistem işleticisinin faaliyetlerinin muhasebeleştirilmesine ve bunlara ilişkin finansal tablo ve raporların oluşturulmasına ilişkin Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunca yayımlanan standartlara ilave hususlar talep edebilir.
+(4) Sistem işleticisinin 17 nci madde uyarınca diğer faaliyetlerde bulunması durumunda Banka, sistem işleticisinden sistemin işletimine ilişkin faaliyetleri ile diğer faaliyetlerinin muhasebe bilgilerini ayrı sunmasını isteyebilir.

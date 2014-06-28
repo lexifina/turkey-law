@@ -1,0 +1,5 @@
+Muafiyetler
+MADDE 31 – (1) Kanunun 5 inci maddesinin üçüncü fıkrasında belirtilen tüzel kişiye bu Yönetmeliğin 13 üncü, 14 üncü, 15 inci, 26 ncı ve 27 nci maddelerinde yer alan hükümler uygulanmaz.
+(2) Kanunun 5 inci maddesinin altıncı fıkrasında belirtilen sistemlere bu Yönetmeliğin 10 uncu, 13 üncü, 14 üncü, 15 inci, 16 ncı, 17 nci, 18 inci, 26 ncı ve 27 nci maddeleri ile 7 nci maddesinin ikinci fıkrasının (r) bendi ve dördüncü fıkrası, 8 inci maddesinin altıncı fıkrası, 11 inci maddesinin birinci fıkrasının (ı) bendi, 12 nci maddesinin üçüncü ve dördüncü fıkraları, 19 uncu maddesinin ikinci, üçüncü ve dördüncü fıkraları ve 23 üncü maddesinin dördüncü ve onuncu fıkralarında yer alan hükümler uygulanmaz.
+(3) 20 nci maddenin ikinci fıkrası uyarınca finansal tablo ve raporların yayımlanması hükmü, Kanunun 5 inci maddesinin üçüncü ve altıncı fıkralarında belirtilen sistemlere uygulanmaz.
+(4) 9 uncu maddenin üçüncü fıkrasının (a) ve (l) bentleri bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla faaliyette bulunan sistemlere uygulanmaz.

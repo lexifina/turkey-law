@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 20/6/2013 tarihli ve 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanunun 4 üncü maddesinin ikinci ve üçüncü fıkralarına, 5 inci maddesinin beşinci fıkrasına, 22 nci maddesinin dördüncü fıkrasına, 25 inci maddesinin altıncı fıkrasına ve 26 ncı maddesinin üçüncü fıkrasına dayanılarak hazırlanmıştır.

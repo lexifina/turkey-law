@@ -1,0 +1,5 @@
+Diğer sistemlerle bağlantı
+MADDE 12 – (1) Sistem işleticisi, sistem ile ilgili olarak yurt içinde veya yurt dışında kurulu bulunan diğer sistemlerle doğrudan veya dolaylı bağlantı kurabilir.
+(2) Sistem işleticisi bağlantılı sistemlerden kaynaklanabilecek riskleri göz önünde bulundurur ve bu riskleri etkin bir şekilde yönetmek için gerekli önlemleri alır.
+(3) Diğer sistemlerle doğrudan veya dolaylı bağlantı kurulabilmesi için sistem işleticisinin Bankanın onayını alması şarttır. Banka, diğer sistemlerle kurulacak bağlantının sistemin sorunsuz işleyişini olumsuz etkileyeceği kanaatine varırsa sistem işleticisinin diğer sistemlerle bağlantı kurmasına izin vermez.
+(4) Banka yaptığı gözetim faaliyetleri sonucunda diğer sistemlerle olan bağlantının sistemin sorunsuz işleyişini olumsuz etkilediğini tespit etmesi durumunda, sistem işleticisinden gerekli önlemleri almasını ister, gerekli önlemlerin Bankaca belirlenecek makul bir sürede alınmaması durumunda ise söz konusu bağlantının sonlandırılmasını talep eder.

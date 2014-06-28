@@ -1,0 +1,5 @@
+Kanunun 10 uncu maddesinin uygulanmasına ilişkin bildirim
+MADDE 19 – (1) Sistem katılımcısı kendisiyle ilgili olarak Kanunun 10 uncu maddesinde yer alan hükümlerin uygulanmasına sebep olacak herhangi bir olayın ortaya çıkması durumunda, sistem işleticisini bu konu hakkında gecikmeksizin bilgilendirir.
+(2) Sistem işleticisi Kanunun 10 uncu maddesinde yer alan hükümlerin uygulanmasına sebep olacak herhangi bir olayın ortaya çıkması durumunda, Bankayı bu konu hakkında gecikmeksizin bilgilendirir.
+(3) Sistem işleticisi ikinci fıkra kapsamında yapacağı bildirimin ardından, Kanunun 10 uncu maddesinde yer alan hükümlerin uygulanacağı sistem içerisindeki varlık ve işlemleri belirler ve bunları gecikmeksizin Bankaya bildirir.
+(4) Kanunun 10 uncu maddesinde yer alan hükümlerin uygulanmasına sebep olan tedbir veya karara ilişkin işlemlerin sonuçlandırılmasının ardından, sistem işleticisi bu tedbir veya karara ilişkin tebligatın yapılmasından işlemlerin sonuçlandırılmasına kadar geçen sürede sistemde bu konu ile ilgili olarak yaşanan her türlü gelişmeyi içeren detaylı bir raporu gecikmeksizin Bankaya iletir.

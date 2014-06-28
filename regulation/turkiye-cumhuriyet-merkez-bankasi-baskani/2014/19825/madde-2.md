@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, ödeme ve menkul kıymet mutabakat sistemleri ile ilgili faaliyet iznine, sistem sözleşmesi ve kurallarına, yönetimden sorumlu kişilere, faaliyet esaslarına, teminat, kredi ve garanti mekanizmalarına, öz kaynaklara, bildirim yükümlülüklerine, pay edinim ve devirlerine, bilgi sistemlerine, iş sürekliliği planına, yedek merkez ile yedek sistemlere ve diğer hususlara ilişkin usul ve esasları kapsar.
