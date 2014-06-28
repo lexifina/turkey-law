@@ -1,0 +1,1060 @@
+28 Haziran 2014 CUMARTESİ
+Resmî Gazete
+Sayı : 29044
+YÖNETMELİK
+Türkiye
+Cumhuriyet Merkez Bankasından:
+ÖDEME VE
+MENKUL KIYMET MUTABAKAT SİSTEMLERİNİN
+FAALİYETLERİ
+HAKKINDA YÖNETMELİK
+BİRİNCİ
+BÖLÜM
+Amaç,
+Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu
+Yönetmeliğin amacı ödeme ve menkul kıymet mutabakat sistemlerinin sistem
+işleticilerinin faaliyet iznine ve faaliyetlerine ilişkin usul ve esasları
+düzenlemektir.
+Kapsam
+MADDE
+2 – (1)
+Bu Yönetmelik, ödeme ve menkul kıymet mutabakat sistemleri ile ilgili
+faaliyet iznine, sistem sözleşmesi ve kurallarına, yönetimden sorumlu
+kişilere, faaliyet esaslarına, teminat, kredi ve garanti mekanizmalarına,
+öz kaynaklara, bildirim yükümlülüklerine, pay edinim ve devirlerine, bilgi
+sistemlerine, iş sürekliliği planına, yedek merkez ile yedek sistemlere ve
+diğer hususlara ilişkin usul ve esasları kapsar.
+Dayanak
+MADDE 3 – (1) Bu
+Yönetmelik, 20/6/2013 tarihli ve 6493 sayılı Ödeme
+ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para
+Kuruluşları Hakkında Kanunun 4 üncü maddesinin ikinci ve üçüncü
+fıkralarına, 5 inci maddesinin beşinci fıkrasına, 22 nci
+maddesinin dördüncü fıkrasına, 25 inci maddesinin altıncı fıkrasına ve 26 ncı maddesinin üçüncü fıkrasına dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu
+Yönetmelikte geçen;
+a) Banka: Türkiye Cumhuriyet Merkez Bankası Anonim
+Şirketini,
+b) Denetim izi: Bir finansal ya da operasyonel
+işlemin başlangıcından bitimine kadar adım adım
+takip edilmesini sağlayacak kayıtları,
+c) Fon: Banknot, madeni para, kaydi
+para veya elektronik parayı,
+ç) Kanun: 20/6/2013 tarihli ve
+6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri
+ve Elektronik Para Kuruluşları Hakkında Kanunu,
+d) Katılımcı: Sisteme katılarak doğrudan transfer emri
+verme yetkisi bulunan ve sistem kurallarına uymakla yükümlü tüzel kişiyi,
+e) Kontrol: Bir tüzel
+kişinin; sermayesinin, asgari yüzde elli birine sahip olma şartı
+aranmaksızın, çoğunluğuna doğrudan veya dolaylı olarak sahip olunması veya
+bu çoğunluğa sahip olunmamakla birlikte imtiyazlı hisselerin elde
+bulundurulması veya diğer hissedarlarla yapılan anlaşmalara istinaden oy
+hakkının çoğunluğu üzerinde tasarrufta bulunulması suretiyle veya herhangi
+bir suretle yönetim kurulu üyelerinin karara esas çoğunluğunu atayabilme ya
+da görevden alma yetkisinin elde bulundurulmasını,
+f) Menkul kıymet mutabakat sistemi: Üç veya daha fazla
+katılımcı arasındaki transfer emirlerinden kaynaklanan menkul kıymet
+aktarımlarının gerçekleştirilmesini sağlamak amacıyla yapılan takas ve
+mutabakat işlemleri için gerekli altyapıyı sunan ve ortak kuralları olan
+yapıyı,
+g) Merkezî karşı taraf: Bir veya daha fazla piyasada
+işlem gören finansal sözleşmelerin tarafları arasında alıcıya karşı satıcı,
+satıcıya karşı da alıcı rolünü üstlenerek işlemlerin tamamlanmasını taahhüt
+eden kuruluşu,
+ğ) Mutabakat: İki ya da daha fazla taraf arasındaki fon
+ya da menkul kıymet aktarımından kaynaklanan yükümlülüklerin yerine
+getirilmesini,
+h) Mutabakat hesabı: Banka, bir mutabakat kuruluşu veya
+merkezi karşı taraf nezdinde bulunan, fon veya menkul kıymetleri muhafaza
+etmek ve sistemdeki katılımcılar arasındaki işlemlerin mutabakatını
+sağlamak amacıyla kullanılan hesabı,
+ı) Mutabakat kuruluşu: Nezdinde mutabakat hesabı
+bulunduran ve gerektiğinde katılımcıya mutabakat amacıyla kredi verebilen
+kuruluşu,
+i) Netleştirme: Bir katılımcının gönderdiği ve aldığı
+transfer emirlerinden kaynaklanan alacak ve borçların karşılıklı mahsup
+edilerek tek bir alacak veya borca dönüştürülmesini,
+j) Nitelikli pay sahibi: Sistem işleticisinin
+sermayesinin veya oy haklarının doğrudan veya dolaylı olarak yüzde on veya
+daha fazlasını teşkil eden paylar ile bu oranın altında olsa dahi yönetim
+kurullarına üye belirleme imtiyazı veren paylara sahip gerçek veya tüzel
+kişiyi,
+k) Ödeme sistemi: Üç veya daha fazla katılımcı
+arasındaki transfer emirlerinden kaynaklanan fon aktarımlarının
+gerçekleştirilmesini sağlamak amacıyla yapılan takas ve mutabakat işlemleri
+için gerekli altyapıyı sunan ve ortak kuralları olan yapıyı,
+l) Özel statülü katılımcı: Sistem işleticisi tarafından
+8 inci maddenin altıncı fıkrası uyarınca belirlenen ve sisteme katılım
+şartları ile sistem kurallarına ilişkin olarak diğer katılımcılardan farklı
+kurallara tabi tutulabilen tüzel kişiyi,
+m) Sistem: Ödeme sistemi ve menkul kıymet mutabakat
+sistemini,
+n) Sistem işleticisi: Sistemin günlük işleyişinden
+sorumlu olan ve sistem işletimi için gerekli olan faaliyet iznine sahip
+tüzel kişiyi,
+o) Takas: Sisteme gönderilen transfer emirlerinin
+aktarımı, bu emirlerin karşılıklı olarak iletilmesi ve mutabakat öncesi provizyon alındığı durumlarda provizyon alınmasına
+aracılık edilmesi ve bazı durumlarda bu emirlerin netleştirilmesi
+işlemlerini,
+ö) Transfer emri:
+1) Belirli miktarda fonun sistem içerisinde katılımcılar
+arasında devrolunmasına ilişkin katılımcı talimatını,
+2) Ödeme yükümlülüğünün üstlenilmesi veya yerine
+getirilmesi sonucunu doğuran, sistem kurallarına uygun talimatı,
+3) Menkul kıymetler ve diğer sermaye piyasası araçları
+üzerindeki hakları kaydi olarak veya sair şekilde
+sistem içerisinde devretmeye yönelik katılımcı talimatını,
+p) Yeniden yapılandırma planları: Sistem işleticisinin,
+23 üncü madde kapsamında oluşturulmuş mekanizmaların kullanılmasına rağmen,
+katılımcılarının veya kendisinin yaşadığı mali sorunlar, likidite
+sıkışıklığı, sermaye yeterliliğine ilişkin sıkıntılar veya yapısal
+zayıflıklar nedeniyle önemli fonksiyonlarını kesintisiz olarak
+sürdürmesinin tehlikeye girmesi durumunda kullanmak üzere oluşturduğu
+düzeltici ve iyileştirici yöntemleri içeren planları,
+ifade eder.
+İKİNCİ
+BÖLÜM
+Sistem
+Tanımı, Sistem Sözleşmesi ve Sistem Kuralları
+Sistem
+tanımının kapsamı
+MADDE 5 – (1) Bu
+Yönetmelik kapsamında sistem olarak değerlendirilecek yapıların asgari üç
+katılımcısının bulunması ve katılımcılar arasında gerçekleşen işlemlerin
+takas ve mutabakat işlemlerinden en az birini gerçekleştirmesi şarttır.
+(2) Finansal piyasalarda
+işlem yapan iki kuruluşun kendi arasında kuracağı ikili yapılar, üyeler
+arasında sadece mesaj alış verişini sağlayan ancak mesajın içeriğinde yer
+alan işleme ilişkin herhangi bir takas veya mutabakat faaliyetinde
+bulunmayan yapılar ve bir kuruluşun kendisi veya müşterileri adına
+gerçekleştireceği fon veya menkul kıymet aktarımı işlemleri ile ilgili
+olarak kendi içinde oluşturduğu yapılar bu Yönetmelik uyarınca sistem
+olarak değerlendirilmez.
+(3) Bir yapının bu Yönetmelik uyarınca sistem olarak
+kabul edilip edilmemesi hususunda nihai kararı vermeye Banka yetkilidir.
+Sistem
+sözleşmesi
+MADDE 6 – (1) Sistem
+işleticisi ile sistem katılımcıları arasında tarafların hak ve
+yükümlülüklerinin belirleneceği Bankanın uygun görüşünü almış sistem
+sözleşmesi yazılı olarak düzenlenir.
+(2) Birinci fıkrada düzenlenen sistem sözleşmesi, özel
+statülü katılımcılar dışındaki tüm katılımcılarla tek tip olarak yapılır.
+(3) Sistem işleticisi, birinci fıkrada belirtilen sistem
+sözleşmesi imzalanmadan önce 7 nci madde uyarınca
+düzenlenen sistem kurallarının katılımcıları ilgilendiren kısımları
+hakkında katılımcı adayının bilgilendirilmesini sağlar.
+Sistem
+kuralları
+MADDE 7 – (1) Sistem
+kuralları sistem işleticisi tarafından yazılı olarak belirlenir ve tüm
+katılımcılar için adil ve tarafsız şekilde uygulanır. Sistem işleticisi ile
+katılımcısı sistem kurallarında yer alan hususlara uymakla yükümlüdür.
+(2) Sistem kuralları içerisinde;
+a) Sistem işleticisinin kimliğinin ve açık adresinin,
+b) Sisteme katılım ile sistemden ayrılma ve çıkarılmaya
+ilişkin kural ve prosedürlerin,
+c) Sisteme katılıma ilişkin asgari teknik, mali ve idari
+gerekliliklerin,
+ç) Sistemdeki işlemlerin takası ile mutabakatına ilişkin
+kullanılacak yöntemlerin ve bu yöntemlerin uygulanmasına ilişkin esasların,
+d) Sistemdeki işlemlerin mutabakatının yapılması için
+oluşturulacak mutabakat hesabının hangi kuruluş nezdinde açılacağının, bu
+hesabın özelliklerinin ve çalışma esaslarının,
+e) Sistemin çalışma gün ve saatlerinin,
+f) Transfer emrinin sisteme giriş anının ve sistem
+içerisinde geri alınamaz duruma geldiği anın,
+g) Transfer emirlerine ilişkin mesajların içeriğinin,
+format yapısının ve iletilme yönteminin,
+ğ) Sistemde gerçekleşecek işlem türleri ile bu işlemlere
+konu varlık çeşitlerinin,
+h) Sistemde hangi para birimi veya birimleri ile işlem
+gerçekleştirilebileceğinin,
+ı) Sistemdeki bilgilerin güvenliğinin sağlanması için
+kullanılacak yöntemlerin,
+i) İş sürekliliği planının ve olağanüstü durum
+kurallarının,
+j) Sisteme ilişkin ücretlendirme esaslarının,
+k) Sistem kurallarına uyulmadığında sistem
+katılımcılarına verilecek disiplin cezalarının ve bu cezaların uygulanmasına
+ilişkin işlem ve prosedürlerin,
+l) Sisteme katılım seçenekleri ve her bir katılım
+seçeneği için katılımcının tabi olacağı kural ve prosedürlerin,
+m) Sisteme gelen transfer emirlerinin alıcı taraf olan
+katılımcı tarafından reddedilip reddedilemeyeceğinin, reddedilebilmesi
+durumunda buna ilişkin uygulanacak prosedürlerin,
+n) Yükümlülüklerin zamanında yerine getirilememesi
+durumunda kullanılmak üzere 23 üncü madde uyarınca oluşturulabilecek
+teminat, kredi ve garanti mekanizmalarının,
+o) 23 üncü madde uyarınca oluşturulabilecek teminat,
+kredi ve garanti mekanizmaları için kabul edilecek kıymet ve varlık
+çeşitlerine, sistem katılımcılarınca bu mekanizmalara yapılacak katkının
+hesaplanması yöntemine, bu katkıların nemalandırılmasına ve mekanizmalara
+ilişkin diğer hususlara ilişkin usul ve esasların,
+ö) Sistemin 12 nci madde
+uyarınca diğer sistemlerle bağlantı kurması halinde bu bağlantıya ilişkin
+esasların,
+p) Sistem katılımcısı ile sistem işleticisi arasında
+yaşanacak uyuşmazlıklarda kullanılabilecek yargı dışı çözüm yöntemlerinin
+bulunması durumunda, bu yöntemlere ilişkin uygulanacak prosedürlerin,
+r) Sisteme ilişkin yeniden yapılandırma planlarının,
+s) Sistemde gerçekleşen hatalı işlemlerin düzeltilmesine
+ve iptal işlemlerine ilişkin kuralların,
+ş) Sistemin faaliyetlerine ilişkin diğer hususların,
+açıkça belirlenmesi
+ve belirtilmesi gerekmektedir.
+(3) Sistem işleticisi, sistem kurallarında değişiklik
+yapmaya yetkilidir.
+(4) Sistem kurallarında yapılacak yapısal değişiklikler
+Bankanın onayına tabidir, onay verilmeyen yapısal değişiklikler uygulamaya
+konulamaz. Sistem kurallarında yapılan yapısal olmayan değişiklikler beş iş
+günü içerisinde Bankaya bildirilir. Banka bildirilen değişikliklerin
+iptalini veya düzeltilmesini istemeye yetkilidir.
+(5) Sistem işleticisi tarafından sistem kurallarında
+yapılacak yapısal değişiklikler yürürlüğe girmeden en az on beş gün önce
+sistem katılımcılarına tebliğ edilir, diğer değişiklikler ise makul bir
+sürede sistem katılımcılarına bildirilir.
+(6) Banka, sistem kuralları hazırlanırken ikinci fıkrada
+yer alan hususlara ilişkin ayrı dokümanlar oluşturulmasını isteyebilir.
+Sisteme
+katılım
+MADDE 8 – (1)
+Sisteme katılım kuralları, sistem işleticisi tarafından açık ve net bir
+şekilde belirlenir ve bilgi güvenliğine halel getirecek durumlar dışındaki
+katılım kuralları sistem işleticisinin internet sitesinde yayımlanarak
+kamuoyuna duyurulur. Bilgi güvenliğinin gerektirdiği durumlarda, gizlilik
+gerektiren katılım kuralları katılımcı adayının imzalayacağı gizlilik
+taahhüdü karşılığında verilir.
+(2) Sisteme katılım kuralları makul ve tarafsız olacak
+şekilde belirlenir. Sistem işleticisi sisteme katılım kurallarındaki
+şartları sağlayan tüm tüzel kişilerin sisteme katılımına izin vermekle
+yükümlüdür.
+(3) Sistem işleticisi, sisteme katılım kurallarını
+belirlerken sistemden kaynaklanacak riskleri asgari düzeye indirmeyi ve
+sistemin istikrarını gözetir.
+(4) Sisteme katılım kurallarında yapılan ve Bankanın
+onayını alan değişiklikler 7 nci maddenin beşinci
+fıkrasına istisna olarak yürürlüğe girmeden en az otuz gün önce sistem
+katılımcılarına tebliğ edilir ve 20 nci madde
+uyarınca oluşturulan internet sitesinde kamuoyuna duyurulur.
+(5) Sistem katılımcıları sisteme katılım kurallarında
+yapılan değişikliklere uymakla yükümlüdür. Yapılan değişikliklere uyum
+sağlamayan sistem katılımcılarının üyelikleri sistem işleticisi tarafından
+süreli veya süresiz olarak durdurulur.
+(6) Sistem işleticisi, Bankanın onayını almak kaydıyla
+özel statülü katılımcı tanımlayarak söz konusu katılımcı için özel katılım
+şartları ve prosedürleri belirleyebilir.
+(7) Sistem işleticisi sisteme katılım başvurusunda
+olması gereken bilgi ve belgelerde eksiklik tespit ederse durumu
+gecikmeksizin başvuru sahibine bildirir ve belirleyeceği makul bir süre
+içerisinde eksikliğin giderilmesini ister. Sistem işleticisi sisteme
+katılıma ilişkin başvuruları istenen bilgi ve belgelerin eksiksiz olarak
+tamamlanmasını müteakip üç ay içinde sonuçlandırır ve kararı ilgililere
+bildirir.
+ÜÇÜNCÜ
+BÖLÜM
+Faaliyet
+İzni ve Sistem İşleticisinin Yönetiminden Sorumlu Kişiler
+Faaliyet
+izni
+MADDE 9 – (1) Sistem
+işleticisi olarak faaliyette bulunmak isteyen kuruluşun sistem kurup
+işletebilmesi için Bankadan faaliyet izni alması şarttır.
+(2) Faaliyet izni verilebilmesi için başvuru sahibi
+kuruluşun Kanunun 5 inci maddesinin ikinci fıkrasında yer alan şartları
+haiz olması aranır.
+(3) Başvuru sahibi kuruluşun, faaliyet izni almak
+amacıyla Bankaya yapacağı başvurunun ekinde;
+a) Sistemin faaliyetinden beklenen faydayı analiz eden
+detaylı fizibilite raporu ile faaliyete geçilmesinden itibaren üç yıllık
+hedeflerin ortaya konulduğu tahmini bilânço ve gelir tablolarını da içeren
+bütçe planının,
+b) İç kontrolün nasıl sağlanacağını ve risk yönetim
+çerçevesini içeren iş planları ile sistem işleticisinin organizasyon
+yapısını ve organizasyon yapısı içerisindeki görev ve yetki dağılımını
+gösteren faaliyet programının,
+c) Nitelikli pay sahipleri tarafından Ek-1 veya Ek-2’de
+yer alan örneklere uygun olarak düzenlenecek ve noter huzurunda imza
+edilecek beyannamelerin,
+ç) Nitelikli pay sahiplerinin mali durumları hakkında
+Kamu Gözetimi Muhasebe ve Denetim Standartları Kurumu tarafından
+yetkilendirilmiş denetçilerce düzenlenecek bir raporun,
+d) Nitelikli pay sahiplerinin kimlik bilgilerini
+gösterir belge ile detaylı özgeçmişlerinin,
+e) Nitelikli pay sahipleri tarafından beyan edilen
+mevduat ve kredi hesapları konusunda ilgili bankalarca Bankaya hitaben
+düzenlenecek ve düzenlenme tarihi itibarıyla aktif hesap hareketlerinin
+gerçekleşmediğini gösteren her biri aynı tarihi taşıyan belgelerin,
+f) Nitelikli pay sahiplerinin müflis olmadıklarına,
+haklarında verilmiş iflasın ertelenmesi kararı bulunmadığına, tüzel
+kişilerin uzlaşma suretiyle yeniden yapılandırma başvurularının tasdik
+edilmiş olmadığına dair Asliye Ticaret Mahkemelerinden; konkordato
+ilan etmiş olmadıklarına dair yetkili İcra Mahkemesinden alınacak
+belgelerin,
+g) Gerçek kişi nitelikli pay sahiplerince son altı ay
+içinde alınmış ve arşiv kaydını da içeren adli sicil belgelerinin,
+ğ) Nitelikli pay sahiplerinin muaccel vergi ve prim
+borcu bulunmadığına dair ilgili vergi daireleri ve Sosyal Güvenlik
+Kurumundan alınacak belgelerin,
+h) Başvuru sahibi kuruluşun Ticaret Siciline tescil
+edildiğini gösterir son bir ay içerisinde ilgili Ticaret Sicil
+Müdürlüğünden alınmış belge ile başvuru sahibi kuruluşu temsile yetkili
+kişilerin imza sirkülerinin noter tasdikli suretleri ve şirket esas
+sözleşmesinin,
+ı) Başvuru sahibi kuruluşun Kanunun 5 inci maddesinin
+ikinci fıkrasının (b) bendinde belirlenmiş sermayeye sahip olduğunu
+gösterir belgenin,
+i) Başvuru sahibi kuruluş başka bir sistemin katılımcısı
+ise buna ilişkin belgenin,
+j) Başvuru sahibi kuruluşun ana faaliyetlerine ilişkin
+dış hizmet sağlayıcı kullanmayı planlaması durumunda, dış hizmet
+sağlayıcının hangi alanda ve ne amaçla kullanılacağını içeren açıklamanın,
+k) Yönetimden sorumlu kişilerin kimlik bilgileri ve
+detaylı özgeçmişleri ile 10 uncu maddenin ikinci fıkrasında yer alan
+özellikleri haiz olduklarını gösterir belgelerin,
+l) Tüzel kişilerin, başvuru sahibi kuruluşa ortak
+olmalarına ilişkin yetkili kurullarından alınmış karar örneklerinin,
+m) Nitelikli pay sahiplerinin tasfiyeye tabi tutulan
+bankalar, bankerler, sigorta şirketleri ile para ve sermaye piyasalarında
+faaliyet gösteren kurumlar ve Tasarruf Mevduatı Sigorta Fonuna devredilen
+bankalarda devirden önce nitelikli pay sahibi olmadıklarına ilişkin Ek-3’te
+yer alan beyanları ile bu hususlara ilişkin olarak ilgili kurumdan temin
+edecekleri belgelerin,
+n) Sistem kuralları ve sisteme katılım koşulları ile
+bunlara ilişkin detaylı açıklamanın,
+o) Sisteme katılması planlanan özel statülü katılımcılarının
+bulunması durumunda hangi nedenle bu kapsamda değerlendirildiklerine
+ilişkin açıklamanın,
+ö) Sistemin teknik altyapısını, bilgi sistemlerini ve
+sistemdeki bilgilerin güvenliği ve güvenilirliği ile iş sürekliliğine dair
+alınan tedbirleri gösterir ayrıntılı dokümanların,
+p) Tüzel kişi nitelikli pay sahiplerine ve bunların
+dahil olduğu sermaye grubuna ait varsa uluslararası muhasebe standartlarına
+uygun ve uluslararası kabul gören bir bağımsız denetim şirketi tarafından
+onaylanmış son üç yıla ait konsolide finansal
+tabloların,
+r) Sermayedeki dolaylı pay sahipliklerinin tespitini teminen, gerçek kişiye ulaşıncaya kadar, tüzel kişi
+nitelikli pay sahiplerinin tüzel kişi ortaklarının ve bu ortakların
+sermayelerinde pay sahibi tüzel kişilerin paydaşlarını ve pay oranlarını
+gösterir cetvellerin,
+s) Nitelikli pay sahiplerini temsile yetkili kişi veya
+kişilere verilmiş vekâletname örneklerinin,
+ş) Nitelikli pay sahiplerinin, gerekli kaynağı kendi
+ticari, sınai ve sair yasal faaliyetleri sonucunda
+her türlü muvazaadan ari olarak sağladıklarına dair Ek-4’te yer alan örneğe
+uygun olarak düzenleyip imzalayacakları birer taahhütnamenin,
+t) Tüzel kişi nitelikli pay sahipleri için varsa
+derecelendirme şirketlerinden biri tarafından hazırlanmış raporun,
+bulunması gerekmektedir.
+(4) Türkiye'de sistem işleticisi olarak faaliyette
+bulunmak üzere başvuruda bulunan kuruluş ortaklarından hiçbirinin bu
+Yönetmelikte tanımlanan nitelikli pay sahibi vasfını haiz olmaması halinde,
+en büyük paya sahip beş ortaktan bu madde çerçevesinde gerekli bilgi ve
+belgeler istenir.
+(5) Herhangi bir değişikliğin üçüncü fıkradaki bilgi ve
+belgelerin geçerliliğini etkilemesi durumunda, sistem işleticisi Bankayı bu
+konuda gecikmeksizin bilgilendirir.
+(6) Yabancı uyruklu kişilerce temin edilecek bilgi ve
+belgeler hakkında da bu madde hükümleri uygulanır. Yabancı
+uyruklu kişilere bu madde hükümleri uygulanırken üçüncü fıkrada yer alan
+bilgi ve belgelerin uygun olduğu ölçüde, ilgili ülkenin yetkili
+makamlarınca ve Türkiye’nin o ülkedeki büyükelçiliği yahut konsolosluğunca
+veya Lahey Devletler Özel Hukuku Konferansı çerçevesinde hazırlanan Yabancı
+Resmi Belgelerin Tasdiki Mecburiyetinin Kaldırılması Sözleşmesi hükümlerine
+göre onaylanmış olması ve noter tasdikli çevirilerinin de belge asılları
+ile birlikte sunulması zorunludur.
+(7) Sistem işleticisinin faaliyet izni aldıktan sonra
+yeni bir sistem kurmak istemesi veya mevcut sistem içerisinde yapısal bir
+değişikliğe gitmeyi planlaması durumunda Bankanın onayını alması
+zorunludur.
+(8) Sistem işleticisi tarafından yedinci fıkra uyarınca
+Bankaya yapılacak başvurunun ekinde yeni sisteme veya mevcut sistemde
+yapılacak yapısal değişikliğe ilişkin olarak;
+a) Beklenen faydayı, oluşacak ilave maliyeti ve
+maliyetlerin karşılanma yöntemlerini analiz eden detaylı fizibilite
+raporunun,
+b) Sistem işleticisinin iç kontrolünün, risk yönetim
+çerçevesinin, organizasyon yapısının ve organizasyon yapısı içerisindeki
+görev ve yetki dağılımının nasıl değişeceğini gösteren iş planları ile
+faaliyet programının,
+c) Sistem işleticisinin dış hizmet sağlayıcı kullanmayı
+planlaması durumunda, dış hizmet sağlayıcının hangi alanda ve ne amaçla
+kullanılacağını içeren açıklamanın,
+ç) Sistem kuralları ile sisteme katılım konularında
+yapılacak değişikliklere ilişkin detaylı açıklamanın,
+d) Özel statülü katılımcılara ilişkin değişiklik
+yaşanması durumunda buna ilişkin detaylı açıklamanın,
+e) Teknik altyapıda, bilgi sistemlerinde ve bilgilerin
+güvenliği ve güvenilirliği ile iş sürekliliğine dair alınan tedbirlerde
+yapılacak değişiklikleri gösterir ayrıntılı dokümanların,
+bulunması
+gerekmektedir.
+(9) Sistem işleticisi tarafından yedinci fıkra uyarınca
+yapılacak başvurunun Banka tarafından uygun görülmemesi durumunda sistem
+işleticisi yeni bir sistem kuramaz veya mevcut sistemde yapısal bir değişiklik
+yapamaz.
+(10) Faaliyet izni başvurusu sırasında, başvuruyu yapan
+kuruluşun birden fazla sistemin işletimi için talepte bulunması durumunda;
+a) Sistemin faaliyetinden beklenen faydayı, oluşacak
+maliyeti ve maliyetlerin karşılanma yöntemlerini analiz eden detaylı
+fizibilite raporunun,
+b) Sisteme ilişkin iç kontrolün ve risk yönetiminin
+nasıl gerçekleştirileceğini içeren iş planları ile bu sisteme ilişkin
+birimlerin sistem işleticisinin organizasyon yapısı içerisindeki yerini
+gösteren faaliyet programının,
+c) Sistem ile ilgili olarak dış hizmet sağlayıcı
+kullanılmasının planlanması durumunda, dış hizmet sağlayıcının hangi alanda
+ve ne amaçla kullanılacağını içeren açıklamanın,
+ç) Üçüncü fıkranın (n), (o) ve (ö) bentlerinde yer alan
+açıklama ve dokümanların,
+her sistem
+için ayrı ayrı verilmesi zorunludur.
+(11) Banka, bu maddenin uygulanması bakımından gerekli
+göreceği ilave bilgi ve belgeleri talep edebileceği gibi, bu maddede yer
+alan bilgi ve belgeleri farklı kapsam ve içeriklerde talep etmeye
+yetkilidir.
+(12) Kanun ve bu Yönetmelik hükümleri uyarınca Bankaya
+yapılan sistem işleticiliğine ilişkin faaliyet izni başvurusu, başvuruya
+ilişkin istenen bilgi ve belgelerin eksiksiz olarak tamamlanmasını müteakip
+altı ay içinde Banka tarafından sonuçlandırılır. Yedinci fıkra uyarınca
+yapılacak başvurularda da bu fıkra hükümleri uygulanır.
+(13) Banka, izin başvurusunda olması gereken bilgi ve
+belgelerde eksiklik tespit ederse durumu gecikmeksizin başvuru sahibine
+bildirir ve belirleyeceği makul bir süre içerisinde eksikliğin
+giderilmesini ister. Bankaca verilen süre içerisinde başvuru dosyasının
+tamamlanmaması durumunda başvuru yapılmamış sayılır. Bu kişilerin yeniden
+faaliyet izni başvurusunda bulunmak istemesi durumunda faaliyet iznine
+ilişkin süreç yeniden başlar.
+(14) Bu Yönetmeliğin uygulanmasında dolaylı pay
+sahipliğinin tespitinde 1/11/2006 tarihli ve 26333
+sayılı Resmî Gazete’de yayımlanan Bankaların İzne Tabi İşlemleri ile
+Dolaylı Pay Sahipliğine İlişkin Yönetmeliğin 13 üncü maddesi hükümleri
+kıyasen uygulanır.
+(15) Banka, başvuru sahibi kuruluşun faaliyet konusunun 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanunu
+kapsamında olması halinde faaliyet izni başvurusu ile ilgili olarak Sermaye
+Piyasası Kuruluyla bilgi paylaşımında bulunur. Sermaye Piyasası Kurulu da
+başvuru sahibinin sistem işleticisi olması halinde, kendisine yapılan başvurularla
+ilgili olarak Bankayla bilgi paylaşımında bulunur.
+(16) Banka, başvuru sahibi kuruluşun faaliyet konusunun 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanunu veya
+23/2/2006 tarihli ve 5464 sayılı Banka Kartları ve Kredi Kartları Kanunu
+kapsamında olması halinde faaliyet izni başvurusu ile ilgili olarak
+Bankacılık Düzenleme ve Denetleme Kurumuyla bilgi paylaşımında bulunur.
+Bankacılık Düzenleme ve Denetleme Kurumu da başvuru sahibinin sistem
+işleticisi olması halinde, kendisine yapılan başvurularla ilgili olarak
+Bankayla bilgi paylaşımında bulunur.
+Sistem
+işleticisinin yönetiminden sorumlu kişiler
+MADDE 10 – (1) Sistem
+işleticisinin yönetiminden sorumlu hangi unvanların bu maddeye tabi olacağı
+sistem işleticisinin organizasyon yapısına göre Bankaca belirlenir.
+(2) Sistem işleticisinin yönetiminden sorumlu kişilerin;
+a) 5411 sayılı Bankacılık Kanununun 8 inci maddesinin
+birinci fıkrasının (a), (b), (c) ve (d) bentlerinde yer alan şartları haiz
+olması,
+b) Faaliyet izni Bankaca iptal edilmiş veya 5411 sayılı
+Bankacılık Kanununun 8 inci maddesinin birinci fıkrasının (b) ve (c)
+bentlerinde zikredilen müeyyidelere maruz kalan kuruluşlarda, müeyyideyi
+gerektiren olayda sorumluluğu bulunan kişilerden olmaması,
+c) Yükseköğrenim görmüş; maliye, iktisat, bankacılık,
+bilişim veya ödeme ve menkul kıymet mutabakat sistemleri alanlarında bilgi
+ve tecrübe sahibi olması,
+zorunludur.
+(3) Bu maddede belirlenen nitelikleri haiz olmayan kişiler
+sistem işleticisinin yönetiminden sorumlu unvanlara atanamaz. Ataması
+yapıldıktan sonra bu maddede belirlenen nitelikleri kaybeden sistem
+işleticisinin yönetiminden sorumlu kişiler sistem işleticisi tarafından
+görevden alınır. Sistem işleticisi, yönetiminden sorumlu kişilerin görevde
+bulundukları sürece bu maddede belirtilen şartları haiz olduklarını takiple
+yükümlüdür.
+(4) Sistem işleticisinin yönetiminden sorumlu kişilere
+ilişkin atama ve görevden alma işlemleri işlemin gerçekleşmesinin ardından
+beş iş günü içerisinde Bankaya bildirilir.
+DÖRDÜNCÜ
+BÖLÜM
+Faaliyet
+Usul ve Esasları
+Sistem
+işleticisinin faaliyet esasları
+MADDE 11 – (1) Sistem
+işleticisinin, faaliyetleri sırasında sistemin kesintisiz, güvenli, etkin
+ve verimli bir şekilde çalışmasını sağlamak amacıyla;
+a) 24 üncü madde uyarınca gerekli bilgi sistemlerini ve
+teknolojik altyapıyı kurması ve bu sistem ve altyapıların güvenliği ile
+ilgili önlemleri alması,
+b) Gerekli bilgi, belge ve muhasebe kayıt sistemleri ile
+düzenli iş akışı ve haberleşmeyi sağlayacak yeterli altyapıya sahip olması,
+c) Sistemde gerçekleşen işlemlere ilişkin kayıtlar ile
+bu kayıtlarda değişikliğe sebep olan işlemlere ait denetim izlerini yeterli
+detay ve açıklıkta oluşturması,
+ç) Yeterli ve nitelikli personel ile öz kaynağa sahip
+olması,
+d) Sistemde gerçekleşebilecek hata, sahtekarlık,
+menfaat çatışması, bilgi manipülasyonu ve kaynakların kötüye kullanımı gibi
+olayların önlenmesi ve bu tür olayların gerçekleşmesi durumunda sorumluluğu
+bulunanların net bir şekilde belirlenmesine imkan sağlayacak şekilde
+işlevsel görev ayrımına gitmesi, sistem içindeki tüm birimlerin, yönetim
+organlarının ve personelin yetki ve sorumluluklarını açıkça ve yazılı
+olarak belirlemesi,
+e) Sistemin Kanun ve ilgili diğer düzenlemeler ile
+sisteme özgü kural, prosedür ve teammüllere uyumlu bir şekilde çalıştığını kontrol
+etmek üzere yeterli ve etkin bir iç kontrol sistemi oluşturması,
+f) Sistem katılımcılarının işlemlerini ve
+sistem kurallarına uyumunu düzenli olarak izlemesi, takas ve mutabakat
+faaliyetlerinin sorunsuz ve kesintisiz bir şekilde sürdürülebilmesi için
+gerekli önlemleri alması, sistemin Kanun ve ilgili diğer düzenlemeler ile
+getirilen yükümlülüklere uyumu konusunda sistem katılımcılarının yerine
+getirmesi gereken hususları takip etmesi, söz konusu yükümlülüklere uymayan
+sistem katılımcılarının işlemlerini sınırlandırması, geçici olarak
+durdurması veya bu katılımcıları sistemden çıkarması,
+g) Takas ve mutabakat işlemlerinin sorunsuz bir şekilde
+gerçekleşmesini tehlikeye sokabilecek faaliyetlerde bulunmaması,
+ğ) Sistem katılımcıları ile iş birliği içinde çalışması
+ve sistem katılımcılarının şikayet ve önerilerini
+dile getirebilecekleri uygun platformlar oluşturması,
+h) 22 nci madde uyarınca
+kurulacak etkin bir risk yönetim çerçevesine sahip olması,
+ı) Yeniden yapılandırma planlarını hazırlaması,
+i) 25 inci madde uyarınca sorun yaşadığında devreye
+girecek yedek merkez ve sistemleri kurması, iş sürekliliği planı
+oluşturması,
+gerekmektedir.
+(2) Sistem işleticisi, çalışanlarının kendilerine
+verilen işin yapılması sırasında yaptıkları işlerden sorumludur.
+Diğer
+sistemlerle bağlantı
+MADDE 12 – (1) Sistem
+işleticisi, sistem ile ilgili olarak yurt içinde veya yurt dışında kurulu
+bulunan diğer sistemlerle doğrudan veya dolaylı bağlantı kurabilir.
+(2) Sistem işleticisi bağlantılı sistemlerden
+kaynaklanabilecek riskleri göz önünde bulundurur ve bu riskleri etkin bir
+şekilde yönetmek için gerekli önlemleri alır.
+(3) Diğer sistemlerle doğrudan veya dolaylı bağlantı
+kurulabilmesi için sistem işleticisinin Bankanın onayını alması şarttır.
+Banka, diğer sistemlerle kurulacak bağlantının sistemin sorunsuz işleyişini
+olumsuz etkileyeceği kanaatine varırsa sistem işleticisinin diğer
+sistemlerle bağlantı kurmasına izin vermez.
+(4) Banka yaptığı gözetim faaliyetleri sonucunda diğer
+sistemlerle olan bağlantının sistemin sorunsuz işleyişini olumsuz
+etkilediğini tespit etmesi durumunda, sistem işleticisinden gerekli
+önlemleri almasını ister, gerekli önlemlerin Bankaca belirlenecek makul bir
+sürede alınmaması durumunda ise söz konusu bağlantının sonlandırılmasını
+talep eder.
+Finansal
+raporlama
+MADDE 13 – (1) Tabi
+olduğu özel mevzuatta aksi belirtilmediği sürece, sistem işleticisinin
+faaliyetlerinin muhasebeleştirilmesi Kamu Gözetimi, Muhasebe ve Denetim
+Standartları Kurumunca yayımlanan muhasebe standartlarına uygun olarak
+yapılır.
+(2) Sistem işleticisi finansal tablo ve raporlarını Kamu
+Gözetimi, Muhasebe ve Denetim Standartları Kurumunca yayımlanan muhasebe ve
+finansal raporlama standartlarına uygun olarak zamanında, tam ve doğru bir
+şekilde hazırlar ve Banka ile paylaşır.
+(3) Banka, gerek görmesi durumunda sistem işleticisinin
+faaliyetlerinin muhasebeleştirilmesine ve bunlara ilişkin finansal tablo ve
+raporların oluşturulmasına ilişkin Kamu Gözetimi, Muhasebe ve Denetim
+Standartları Kurumunca yayımlanan standartlara ilave hususlar talep
+edebilir.
+(4) Sistem işleticisinin 17 nci
+madde uyarınca diğer faaliyetlerde bulunması durumunda Banka, sistem
+işleticisinden sistemin işletimine ilişkin faaliyetleri ile diğer
+faaliyetlerinin muhasebe bilgilerini ayrı sunmasını isteyebilir.
+Öz
+kaynaklar
+MADDE 14 – (1) Sistem
+işleticisinin öz kaynakları faaliyette bulunmaya devam ettiği sürece
+Kanunun 5 inci maddesinin ikinci fıkrasının (b) bendinde belirlenmiş
+tutarın altına düşemez.
+(2) Banka, sistem işleticisinin gerçekleştirdiği
+faaliyetler ve üstlendiği riskleri göz önünde bulundurarak sistem
+işleticisinden faaliyette bulunduğu sürece ilave öz kaynak bulundurmasını
+istemeye yetkilidir.
+(3) Banka gerek duyması durumunda sistem işleticisinin
+öz kaynaklarına ilişkin ilave usul ve esaslar belirlemeye yetkilidir.
+Sisteme
+ilişkin faaliyetlerin ve varlıkların devri
+MADDE 15 – (1) Sistem
+işleticisi tarafından yürütülmekte olan sisteme ilişkin faaliyetlerin başka
+bir sistem işleticisine devredilebilmesi Bankanın onayına tabidir.
+(2) Banka, sisteme ilişkin faaliyetlerin başka bir
+sistem işleticisine devredilmesine ilişkin yapacağı değerlendirmede
+faaliyetlerin kesintisiz, etkin, güvenli ve verimli bir şekilde
+sürdürülmesi ile finansal istikrar gibi hususları göz önünde bulundurur.
+(3) Sistem işleticisi yürüttüğü faaliyetleri birinci
+fıkra uyarınca devrederken katılımcıların onayının alınması kaydıyla
+sistemde yer alan katılımcılara ait varlıkları da diğer sistem işleticisine
+devredebilir.
+Dış hizmet
+sağlayıcı kullanımı
+MADDE 16 – (1) Sistem
+işleticisi, sistem ile ilgili ana faaliyetlerine ilişkin konularda
+dışarıdan hizmet almak istediğinde bu durumu Bankaya bildirir.
+(2) Sistem işleticisi, birinci fıkra uyarınca ana
+faaliyetleri için dışarıdan hizmet aldığında;
+a) Dış hizmet sağlayıcı kuruluşun seçiminde gerekli
+özeni göstermekle,
+b) Dışarıdan hizmet alımını, iç kontrol ve risk yönetim
+çerçevesinin kalitesini düşürmeyecek ve Bankanın sistem işleticisine
+ilişkin gözetim faaliyetlerinin etkinliğini azaltmayacak şekilde yapmakla,
+c) Dış hizmet alımına ilişkin hususları iş sürekliliği
+planını da göz önünde bulundurarak düzenlemekle,
+ç) Dış hizmet sağlayıcı kuruluşun yükümlülüklerini
+sözleşme ile netleştirmekle,
+d) Dışarıdan hizmet alımının doğuracağı ilave riskleri
+göz önünde bulundurarak bu riskleri etkin bir şekilde yönetmek için gerekli
+önlemleri almakla,
+e) Sistemde gerçekleşen işlemlere ve katılımcılara
+ilişkin verilerin gizliliği ve güvenliği için gerekli önlemleri almakla,
+yükümlüdür.
+(3) Sistem işleticisi, sistem ile ilgili ana
+faaliyetlerine ilişkin konularda dışarıdan hizmet alımı yolunu seçtiğinde
+aşağıdaki kurallar geçerlidir:
+a) Sistem işleticisinin yönetiminden sorumlu kişilerin
+sorumluluğu devam eder.
+b) Sistem işleticisinin sistem katılımcılarına karşı
+yükümlülükleri devam eder.
+c) Kanun ve bu Yönetmelik kapsamında sistem işleticisine
+faaliyet izni verilmesi ve faaliyet izninin sürdürülmesi konusunda sistem
+işleticisinin uyacağı koşullarda herhangi bir değişiklik olmaz.
+(4) Sistem işleticisi dış hizmete konu edilen
+faaliyetler bakımından dış hizmet sağlayıcısının işlemlerinden sorumludur.
+(5) Banka, sistem işleticisinin dışarıdan hizmet
+almasının sistemin sorunsuz işleyişini olumsuz etkilediği kanaatine varması
+veya hizmeti sağlayan kuruluşun Bankanın sistemin gözetimi ile ilgili
+faaliyetlerini engellemesi durumlarında, sistem işleticisinden dışarıdan
+hizmet alımını durdurmasını isteyebilir.
+Sistem
+işleticisinin diğer faaliyetleri
+MADDE 17 – (1) Sistem
+işleticisi, sistemin işletimi ile dolaylı olarak ilgili olan veya sistemin
+işleyişi ile herhangi bir bağlantısı olmayan ancak sistem katılımcılarının
+faaliyetlerini geliştiren, güvenli kılan ve kolaylaştıran veya mevzuatla
+kendisine yetki verilen diğer faaliyetlerde bulunabilir.
+(2) Sistem işleticisinin bu madde uyarınca faaliyet
+gösterebilmesi için Bankanın bu faaliyetleri onaylamış ve sistem
+işleticisine verilen faaliyet izni kapsamına almış olması gerekir.
+(3) Banka, sistem işleticisine bu madde uyarınca
+faaliyet gösterebilmesi için ilave öz kaynak bulundurma yükümlülüğü
+getirebilir.
+(4) Sistem işleticisi bu madde uyarınca sunacağı diğer
+faaliyetlerden kaynaklanabilecek riskleri göz önünde bulundurur ve bu
+riskleri etkin bir şekilde yönetmek için gerekli önlemleri alır.
+(5) Banka, sistem işleticisinin bu madde uyarınca
+yürüttüğü diğer faaliyetlerin sistemin sorunsuz işleyişini olumsuz
+etkilediği kanaatine varması durumunda sistem işleticisinden bu
+faaliyetleri durdurmasını veya bu faaliyetlerin sistem işleticisine ayrı
+bir kanunla verilmiş olması durumunda sisteme ilişkin faaliyetlerin ayrı
+bir tüzel kişilik altında yürütülmesini istemeye yetkilidir.
+Bankaya
+bildirim yükümlülüğü
+MADDE 18 – (1) Sistem
+işleticisi sistem katılımcılarını Bankaya bildirir. Bu bildirimlerde
+değişiklik olması durumunda, sistem işleticisi bu değişikliği de
+gecikmeksizin Bankaya bildirir.
+(2) Sistem işleticisi sistem katılımcıları ile ilgili
+sistemin sorunsuz işleyişini olumsuz etkileyebilecek bir bilgiyi öğrenmesi
+durumunda, bu bilgiyi gecikmeksizin Bankaya bildirir.
+(3) Sistem işleticisi, sistemin olağan işleyişini
+aksatan, kesintiye sebep olan veya sistemin kapanışını engelleyen hususları
+gecikmeksizin Bankaya bildirir.
+(4) Banka sistem işleticisinden sistem katılımcılarına
+ilişkin, katılımcıların sistem işleticisine vermekle yükümlü olduğu her
+türlü bilgi, belge ve kayıtları istemeye yetkilidir. Sistem işleticisi
+Banka tarafından bu fıkra uyarınca istenen bilgi, belge ve kayıtları
+gecikmeksizin sağlamakla yükümlüdür.
+(5) Sistem işleticisi, Banka tarafından istenen bilgi,
+belge ve kayıtların geçerliliğini ve doğruluğunu etkileyecek bir değişiklik
+olduğunda bu durumu gecikmeksizin Bankaya bildirir.
+Kanunun 10
+uncu maddesinin uygulanmasına ilişkin bildirim
+MADDE 19 – (1) Sistem
+katılımcısı kendisiyle ilgili olarak Kanunun 10 uncu maddesinde yer alan
+hükümlerin uygulanmasına sebep olacak herhangi bir olayın ortaya çıkması
+durumunda, sistem işleticisini bu konu hakkında gecikmeksizin
+bilgilendirir.
+(2) Sistem işleticisi Kanunun 10 uncu maddesinde yer
+alan hükümlerin uygulanmasına sebep olacak herhangi bir olayın ortaya
+çıkması durumunda, Bankayı bu konu hakkında gecikmeksizin bilgilendirir.
+(3) Sistem işleticisi ikinci fıkra kapsamında yapacağı
+bildirimin ardından, Kanunun 10 uncu maddesinde yer alan hükümlerin
+uygulanacağı sistem içerisindeki varlık ve işlemleri belirler ve bunları
+gecikmeksizin Bankaya bildirir.
+(4) Kanunun 10 uncu maddesinde yer alan hükümlerin
+uygulanmasına sebep olan tedbir veya karara ilişkin işlemlerin
+sonuçlandırılmasının ardından, sistem işleticisi bu tedbir veya karara
+ilişkin tebligatın yapılmasından işlemlerin sonuçlandırılmasına kadar geçen
+sürede sistemde bu konu ile ilgili olarak yaşanan her türlü gelişmeyi
+içeren detaylı bir raporu gecikmeksizin Bankaya iletir.
+İnternet
+sitesi, şeffaflık ve yayımlanacak bilgiler
+MADDE 20 – (1) Sistem
+işleticisinin sistemler ile ilgili şeffaflık ilkesi ve bilgi toplumu
+açısından açıklanması zorunlu bilgileri kamuoyu ile paylaşmasına imkan tanıyacak bir internet sitesinin olması
+zorunludur.
+(2) Sistem işleticisi, finansal tablo ve raporlarını,
+ücretlendirme esaslarını, sistemde gerçekleşen işlemlere ilişkin istatistiki verileri, organizasyon yapısını, sistemin
+çalışma esaslarını, bilgi güvenliğine halel getirecek durumlar dışındaki
+sisteme katılım kurallarını ve katılımcıların listesini internet sitesinde
+yayımlar ve bu bilgilerin güncel tutulmasını sağlar.
+(3) Banka, sistem işleticisinin ikinci fıkrada yer alan
+hususlara ilave olarak başka bilgi ve belgeleri de internet sitesinde
+yayımlamasını isteyebilir.
+Gizlilik ve
+sır saklama yükümlülüğü
+MADDE 21 – (1) Sistem
+işleticisi sistemde gerçekleşen işlemlere ilişkin bilgilerin gizliliği ve
+güvenliği ile ilgili olarak gerekli önlemleri alır.
+(2) Sistem işleticisinin
+yönetiminden sorumlu kişiler ve diğer tüm personeli ile dış hizmet sağlayıcılarının
+çalışanları; sıfat ve görevleri dolayısıyla öğrendikleri sırları, görevden
+ayrılmış olsalar dahi gizli tutmakla, kanunen açıkça görevli ve yetkili
+kılınmış kişi ve mercilerden başkasına herhangi bir suretle açıklamamakla
+ve kendilerinin veya üçüncü kişilerin yarar veya zararına kullanmamakla
+yükümlüdür.
+BEŞİNCİ
+BÖLÜM
+Risk
+Yönetimine İlişkin Hükümler
+Risk
+yönetim çerçevesi
+MADDE
+22 – (1)
+Sistem işleticisinin, takas ve mutabakat işlemlerine ilişkin
+faaliyetlerinden, 17 nci madde uyarınca gerçekleştirdiği
+diğer faaliyetlerden, katılımcıların ve sisteme dolaylı olarak bağlanan
+kuruluşların faaliyetlerinden, diğer sistemlerle olan bağlantılardan, dış
+hizmet sağlayıcılarca gerçekleştirilen faaliyetlerden ve sistemin işleyişi
+ile ilgili diğer hususlardan kaynaklanabilecek ve sistemin sorunsuz bir
+şekilde işlemesini tehlikeye sokabilecek tüm risklerin tespit edilip,
+ölçülmesi, izlenmesi, etkin bir şekilde yönetilmesini sağlayacak bir risk
+yönetim çerçevesine sahip olması gerekir.
+(2) Risk yönetim çerçevesinin, katılımcıların sisteme
+yükledikleri ve sistem nedeniyle maruz kaldıkları riskleri takip etmelerine
+ve bu riskleri etkin bir şekilde yönetmelerine imkan
+vermesi gerekir.
+(3) Birinci ve ikinci fıkralar uyarınca oluşturulacak
+risk yönetim çerçevesi kredi riski, likidite riski, hukuki risk ve operasyonel risk gibi sistemin sorunsuz işleyişini
+tehlikeye sokabilecek her türlü risk unsurunu dikkate alır.
+(4) Sistem işleticisi risk yönetim çerçevesi ile ilgili
+kural, prosedür ve politikalar ile bunlarda yapacağı
+değişiklikleri yazılı olarak oluşturur ve ilgili tüm taraflarla paylaşır.
+(5) Sistem işleticisi risk yönetim çerçevesinin birinci,
+ikinci ve üçüncü fıkralarda yer alan nitelikleri taşıyacak şekilde
+güncelliğini sağlar.
+Teminat,
+kredi ve garanti mekanizmaları
+MADDE 23 – (1) Sistem
+işleticisi, sistem katılımcısından sistemdeki yükümlülüklerini yerine
+getiremediğinde kullanılmak üzere teminat bulundurmasını talep edebilir.
+(2) Sistem işleticisi, sistem katılımcısının likidite
+sıkışıklığı yaşaması durumunda kullanılmak üzere özel bir kredi mekanizması
+oluşturabilir.
+(3) Sistem işleticisi, sistemdeki işlemlerin herhangi
+bir sebeple sonlandırılamaması durumunda kullanılmak üzere sisteme özgü
+garanti mekanizması oluşturabilir.
+(4) Bu madde uyarınca oluşturulacak teminat, kredi ve
+garanti mekanizmalarının usul ve esasları sistem kurallarında açıkça
+belirlenir ve Bankanın onayı ile uygulamaya girer.
+(5) Sistem işleticisi, bu madde uyarınca oluşturulan
+teminat, kredi ve garanti mekanizmalarının uygulamaya alınma sırasını
+sistem kurallarında açıkça belirler.
+(6) Banka, sistem işleticisinden bu madde uyarınca
+teminat, kredi ve garanti mekanizmaları oluşturmasını veya oluşturulmuş
+mekanizmalarda değişiklik yapmasını isteyebilir.
+(7) Birinci, ikinci ve
+üçüncü fıkralarda belirtilen mekanizmaların sistemdeki işlemlerin
+sonlandırılmasında yeterli olmaması, sistem sözleşmesinde açıkça ifade
+edilmesi ve bu fıkra kapsamında teminatı kullanılacak sistem katılımcısının
+bu fıkranın uygulanmaması durumunda uğrayacağı zararı aşmaması şartıyla;
+sistem katılımcısının, yükümlüğünü yerine getiremeyen diğer bir
+katılımcının yükümlülüğünün sistem işleticisi tarafından belirlenen
+miktarını üstlenmesi suretiyle, birinci fıkra uyarınca bulundurduğu
+teminatının, üstlenilen ilave yükümlülüğün karşılanması için kullanılması
+mümkündür. Bu fıkra kapsamında üstlenilen ilave yükümlülük tutarı,
+katılımcının birinci fıkra uyarınca bulundurduğu teminatı aşamaz.
+(8) Yedinci fıkranın uygulanması sırasında, varlıkları
+başka bir katılımcının yükümlülüğünün yerine getirilmesi için kullanılacak
+sistem katılımcısının mali durumu, sistem işleticisi tarafından göz önünde
+bulundurulur.
+(9) Yedinci, onuncu ve onüçüncü
+fıkralarda yer alan hükümler saklı kalmak kaydıyla, bu madde uyarınca oluşturulan
+mekanizmalara sistem katılımcılarınca sağlanan varlıklar amaçları dışında
+kullanılamaz.
+(10) Bu madde uyarınca oluşturulan mekanizmalara sistem
+katılımcılarınca sağlanan nakit varlıkların nemalandırılacak olması
+durumunda, sistem işleticisi sistem katılımcılarınca sağlanan varlıkları
+riski düşük, likiditesi yüksek yatırım araçlarında değerlendirebilir.
+Sistem işleticisince kullanılabilecek yatırım araçları için Bankanın
+onayının alınması şarttır.
+(11) Katılımcılar tarafından bu madde uyarınca verilen
+teminatlar ile garanti mekanizmasına sağlanan varlıklar, katılımcıların
+sistemde bulunan diğer varlıklarından ve sistem işleticisinin kendi
+varlıklarından ayrı izlenir.
+(12) Sistem işleticisi, katılımcılardan bu madde
+uyarınca kabul edilen varlıkların kredi, likidite ve piyasa risklerinin
+düşük olmasına özen gösterir, nakit dışı varlıkların fiyatlamasını ve iskonto oranlarını mali piyasalardaki gelişmeler
+paralelinde günceller ve bu varlıkların yönetimi ve izlenmesi için etkin
+bir sistem kurar.
+(13) Sistemdeki işlemler sonlandırılamadığında, sistem
+işleticisinin Bankanın likidite imkanlarına
+ulaşmasının mümkün olması veya finansal bir kuruluş nezdinde teminat
+karşılığı borçlanarak likidite sağlama imkanının bulunması durumunda,
+katılımcılarca bu madde uyarınca sağlanan varlıklar, sistem işleticisi
+tarafından bu fıkra hükümleri çerçevesinde likidite imkanından yararlanmak
+amacıyla Bankaya veya kredi imkanı sağlayan finansal kuruluşa, bu kuruluşların
+teminatlara ilişkin kurallarına uygun olmak kaydıyla teminat olarak
+verilebilir. Bu fıkranın uygulanabilmesi için sistem işleticisinin
+devredilecek varlıklara ilişkin gerekli hukuki izinleri almış olması
+gerekir.
+(14) Bu madde uyarınca katılımcılar tarafından sağlanan
+varlıkların tamamen veya kısmen kullanılması durumunda, sistem işleticisi
+piyasa koşullarını ve katılımcıların mali durumlarını da dikkate alarak
+kullanılan varlıkların yeniden tesis edilmesi için gerekli kural ve prosedürleri oluşturur.
+Bilgi
+sistemleri
+MADDE 24 – (1) Sistem
+işleticisi, bilgi sistemlerini, gerçekleştirilen faaliyetlerin ve sunulan
+hizmetlerin sorunsuz bir şekilde sürdürülmesini sağlayacak şekilde
+tasarlar.
+(2) Bilgi sistemleri, gerçekleştirilen faaliyetler ve
+sunulan hizmetlerin özellikleri ve gerçekleşen işlemlerin ölçeğiyle uyumlu
+olmalıdır.
+(3) Bilgi sistemleri tasarlanırken tüm bilgilerin
+elektronik ortamda güvenli bir şekilde saklanmasına ve kullanılmasına imkan verecek bir yapı oluşturulmasına dikkat edilir.
+Sistem işleticisi, bilgi sistemleri ve bu sistemlerde yer alan verilerin
+gizliliği, bütünlüğü ve ulaşılabilirliğini sağlayacak kontrol önlemlerini
+alır.
+(4) Bilgi sistemlerinin güvenliğinin ve güvenilirliğinin
+sağlanması, bilgi sistemlerinden kaynaklanan risklerin tespit edilmesi,
+takibi, yönetimi ve bunlara ilişkin güvenlik kontrollerinin oluşturulması,
+bilgi sistemlerinin dayanıklılığı ve fiili kapasitesi gibi hususları ölçmek
+amacıyla stres testleri ve performans testleri uygulanması ile bilgi sistemlerinin
+düzenli olarak güncellenerek gerekli değişikliklerin yapılmasından sistem
+işleticisi sorumludur.
+(5) Sistem işleticisi bilgi güvenliği ihlaline ilişkin
+olayları izlemek ve dönemsel olarak değerlendirmekle yükümlüdür.
+(6) Sistem işleticisinin bilgi sistemleri yurt içinde
+kurulu olmak zorundadır. Sistem işleticisinin, faaliyetlerini yürütmede
+kullandığı bilgi sistemleri kapsamında bir dış hizmet alması halinde, dış
+hizmet sağlayıcısının bu kapsamdaki faaliyetlerini yürütmede kullandığı
+bilgi sistemleri ve bunların yedeklerinin de yurt içinde tutulması esastır.
+(7) Sistem işleticisi, bilgi sistemlerinin yönetimi ile
+ilgili unsurları organizasyon yapısı içerisinde uygun yere yerleştirmek ve
+bilgi sistemleri yönetiminin etkin bir şekilde yerine getirilebilmesi için
+gerekli finansman ve insan kaynağını tahsis etmekle yükümlüdür.
+(8) Sistem işleticisi, açık olarak tanımlanmış fiziksel
+güvenlik ve bilgi güvenliği politikalarına sahip olmalıdır.
+(9) Banka, bilgi sistemlerine ilişkin sistem
+işleticisinin dikkat etmesi gereken usul ve esasları çıkaracağı tebliğ,
+genelge ve talimatlarla belirlemeye yetkilidir.
+Yedek
+merkez, yedek sistemler ve iş sürekliliği planı
+MADDE 25 – (1) Sistem
+işleticisi, faaliyetlerinin kesintisiz devam etmesini sağlamak amacıyla
+yedek sistemler kurmak ve bunları dönemsel olarak test etmek zorundadır.
+Yedek sistemlerin tasarımının, acil ve beklenmedik durumlar karşısında
+birincil sistemlerde yaşanabilecek sorunların yedek sistemlerde de
+yaşanmasını engelleyecek şekilde yapılmasına özen gösterilir.
+(2) Sistem işleticisi, acil ve beklenmedik durumlar
+sonucunda sistemde bulunan verilerin kaybının önlenmesi amacıyla veri
+yedekleme merkezi oluşturmakla yükümlüdür. Veri yedekleme merkezi, veriye
+yetkisiz erişim riskleri dikkate alınarak tasarlanır ve asgari olarak
+birincil sistemlerle aynı seviyede güvenlik özellikleri içerir.
+(3) Sistem işleticisi, acil
+ve beklenmedik durumların ortaya çıkması nedeniyle birincil merkezin
+kullanılamaz hale gelmesi durumunda faaliyetlerinin kesintisiz devam
+etmesini sağlamak amacıyla birincil merkezden farklı bir yerde yedek bir
+merkez oluşturur, bu durumlarda görev alacak acil durum personelini ve
+bunların görevlerini belirler ve acil durum personelinin bu merkezde
+çalışabilmesi için gerekli önlemleri alır. Yedek
+merkezin, acil durum personelinin yedek sistemleri ve veri yedekleme
+merkezlerini etkin bir şekilde kullanabilmesini sağlayacak şekilde tasarlanması
+şarttır.
+(4) Yedek merkez, yedek sistemler ve veri yedekleme
+merkezi yurt içinde bulunmak zorundadır. Yedek merkezin, yedek sistemlerin
+ve veri yedekleme merkezinin yeri, acil ve beklenmedik durumların,
+yedekleri birincil sistem ve merkezlerle aynı anda ve oranda etkilemesini
+engelleyecek şekilde belirlenir.
+(5) Sistem işleticisi, sistemin kesintisiz işlemesini
+olumsuz etkileyebilecek acil ve beklenmedik durumlara ilişkin senaryolar
+ile bu senaryoların gerçekleşmesi nedeniyle sistemde yaşanabilecek
+kesintilerin, makul bir süre içinde ve veri kaybı olmaksızın giderilmesine
+ilişkin hususları da içerecek iş sürekliliği planını oluşturmak ve düzenli
+olarak test etmek zorundadır.
+(6) İş sürekliliği planı oluşturulurken acil ve
+beklenmedik durumların ortaya çıkması durumunda ağ ve iletişim altyapısı,
+birincil ve yedek sistemler, personel dahil olmak
+üzere kritik kaynaklar, kritik operasyonlar, katılımcılarca yapılması
+gerekenler ve dış hizmet sağlayıcı kullanımı gibi sistemin işletimi ile
+yakından ilgili hususlar konusunda yapılması gerekenler belirlenir.
+(7) Acil ve beklenmedik durumlar ortaya çıktığında
+mümkün olan en kısa süre içerisinde bu durumdan ve olayların boyutundan
+haberdar olunması ile etkilenen katılımcıların ve hasarın boyutunun tespit
+edilmesini sağlayacak mekanizmaların oluşturulması iş sürekliliği planının
+ayrılmaz bir parçasını oluşturur.
+(8) İş sürekliliği planı yazılı olarak hazırlanır ve
+ilgili kısımları katılımcılarla paylaşılır.
+(9) Sistem işleticisi, sistem katılımcısı tarafından iş
+sürekliliği planı kapsamında yapılması gerekenleri yazılı olarak
+katılımcılarla paylaşır. Sistem katılımcısı, sistem işleticisi tarafından
+bu fıkra uyarınca kendisine bildirilen hususları yerine getirmekle yükümlüdür.
+(10) Yedek merkez, yedek sistem veya veri yedekleme
+merkezi ile ilgili olarak dış hizmet sağlayıcı kuruluş kullanılması
+durumunda sistem işleticisi, iş sürekliliği planına ilişkin yapılan
+testlere bu kuruluşları dahil etmek zorundadır.
+Acil durum
+iletişim yetkilisi
+MADDE 26 – (1) Sistem
+işleticisi, Bankanın acil durumlarda sistem işleticisiyle iletişime
+geçebilmesi için acil durum iletişim yetkililerini belirler.
+(2) Birinci fıkra uyarınca en az bir asil bir yedek acil
+durum iletişim yetkilisi belirlenir.
+(3) Bu madde uyarınca belirlenecek acil durum iletişim
+yetkililerinin 10 uncu maddenin birinci fıkrası uyarınca belirlenmiş sistem
+işleticisinin yönetiminden sorumlu kişilerden seçilmesi zorunludur.
+(4) Bu madde uyarınca belirlenen acil durum iletişim
+yetkililerinin kimlik ve iletişim bilgileri ile unvanları Bankaya
+bildirilir.
+(5) Banka, sistem işleticisinden ilave acil durum
+iletişim yetkilileri belirlemesini veya mevcut acil durum iletişim
+yetkililerini değiştirmesini isteyebilir.
+(6) Sistem işleticisi acil durum iletişim yetkilileri
+ile ilgili değişiklikleri gecikmeksizin Bankaya bildirir.
+ALTINCI
+BÖLÜM
+Pay Edinim
+ve Devirleri
+Pay edinim
+ve devirleri
+MADDE
+27 – (1)
+Bir kişinin, sistem işleticisinde doğrudan veya dolaylı pay sahipliği
+yoluyla sermayenin yüzde onunu ve daha fazlasını temsil eden payları
+edinmesi veya bir ortağa ait doğrudan veya dolaylı payların sermayenin
+yüzde on, yüzde yirmi, yüzde otuz üç veya yüzde ellisini aşması sonucunu
+veren pay edinimleri ile bir ortağa ait payların bu oranların altına
+düşmesi sonucunu veren pay devirleri Bankanın iznine tâbidir.
+(2) Sistem işleticisinin yönetim kuruluna veya denetim
+komitesine üye belirleme imtiyazı veren payların tesisi, devri veya yeni
+imtiyazlı pay ihracı birinci fıkrada yer alan oransal sınırlara
+bakılmaksızın Bankanın iznine tâbidir.
+(3) Sistem işleticisinin sermayesinde yüzde on ve üzeri
+paya sahip olan tüzel kişilerin kontrolünün el değiştirmesi sonucunu
+doğuran pay devirleri Bankanın iznine tâbidir.
+(4) Bu madde uyarınca izne tabi pay devirlerinde pay
+devralacakların, 5411 sayılı Bankacılık Kanununda banka kurucuları için
+aranan nitelikleri haiz olması şarttır.
+(5) Birinci, ikinci ve üçüncü fıkralar uyarınca pay
+edinim ve devirlerine ilişkin Bankaya yapılacak başvuruya pay edinimi ve devri
+ile ilgili yapılacak sözleşmenin bir örneği eklenir. Bu fıkra uyarınca
+hazırlanacak başvurunun ekinde pay devrini ve edinimini gerçekleştiren
+kişilerle ilgili olarak sistem işleticisinin nitelikli pay sahipleri ve yönetiminden
+sorumlu kişiler için faaliyet izni başvurusu sırasında 9 uncu maddenin
+üçüncü fıkrası uyarınca istenen bilgi ve belgelerin kıyasen yer alması
+gerekir.
+(6) Banka, bu maddenin uygulanması bakımından gerekli
+göreceği ilave bilgi ve belgeleri talep edebileceği gibi, bu maddede yer
+alan bilgi ve belgeleri farklı kapsam ve içeriklerde talep etmeye de
+yetkilidir.
+(7) Birinci, ikinci ve üçüncü fıkralar kapsamına
+girmeyen pay devirleri, ilgili taraflarca devrin gerçekleşmesinden itibaren
+beş iş günü içerisinde Bankaya bildirilir.
+(8) Bankanın izin vermediği pay devirlerine ilişkin
+işlemler hükümsüzdür. Bu hükme aykırı pay devirleri ortaklık pay defterine
+kaydolunmaz ve bu şekilde yapılan kayıtlar hüküm ifade etmez.
+(9) Sistem işleticisinin yurt dışında kurulu sistemlerle
+ortaklık kurması, sistemlere ilişkin kurulmuş ortaklıklara katılması, yurt
+dışında bir sistemi tamamen devralması veya yurt dışında yeni bir sistem
+kurması hususları Bankanın iznine tabidir.
+YEDİNCİ
+BÖLÜM
+Diğer
+Hükümler
+Kurumlar
+arası iş birliği
+MADDE 28 – (1)
+Bankacılık Düzenleme ve Denetleme Kurumu ve Sermaye Piyasası Kurulu
+tarafından, sistem işleticisi ve katılımcılarıyla ilgili olarak mevzuat
+gereğince kendilerine bildirilen veya kendilerince tespit edilen ve
+sistemin sorunsuz işleyişini olumsuz etkileyebilecek gelişmeler Bankayla
+paylaşılır.
+(2) Banka, Kanun ve Kanun
+uyarınca hazırlanan ilgili mevzuat kapsamında kendisine bildirilen veya
+tespit ettiği, sistemin sorunsuz işleyişini olumsuz etkileyebilecek
+hususlar arasından, 5411 sayılı Kanun veya 5464 sayılı Kanun kapsamındaki
+kuruluşların işleyişini olumsuz etkileyebilecek gelişmeleri Bankacılık
+Düzenleme ve Denetleme Kurumuyla; 6362 sayılı Kanun kapsamındaki
+kuruluşların işleyişini olumsuz etkileyebilecek gelişmeleri ise Sermaye
+Piyasası Kuruluyla paylaşır.
+Kayıt ve
+duyuru
+MADDE 29 – (1) Banka,
+faaliyet izni verdiği sistem işleticilerine ilişkin bir liste oluşturur,
+oluşturulan listeyi internet sitesinde yayımlar ve bu listenin güncelliğini
+sağlar.
+(2) Banka, Kanunun 5 inci ve 6 ncı
+maddeleri ile bu Yönetmeliğin 9 uncu maddesi uyarınca verdiği faaliyet izni
+kararını Resmî Gazete’de yayımlar.
+(3) Banka, Kanunun 7 nci
+maddesinin birinci fıkrasında düzenlenen durumların sistem işleticisi
+tarafından Bankaya bildirilmesini veya bu durumların Bankaca tespitini
+takiben, sistem işleticisinin faaliyet izninin sona erdiğini Resmî
+Gazete’de yayımlar.
+(4) Banka, Kanunun 9 uncu maddesinin ikinci fıkrasının
+(ç) ve (d) bentleri uyarınca sistem işleticisi ile ilgili olarak
+uygulayacağı tedbire ilişkin kararı Resmî Gazete’de yayımlar ve bu maddenin
+birinci fıkrası uyarınca oluşturulan listede uygulanacak tedbirin
+niteliğine ilişkin açıklama yapar.
+Uygulama
+esasları
+MADDE 30 – (1) Banka,
+bu Yönetmelik hükümlerini yorumlamaya, bu Yönetmelikte yer almayan ya da
+açıklık bulunmayan konularda genel hükümleri de göz önünde bulundurarak
+karar vermeye, uygulamayı düzenlemek ve yönlendirmek için tebliğ, genelge
+ve talimat yayımlamaya yetkilidir.
+Muafiyetler
+MADDE 31 – (1)
+Kanunun 5 inci maddesinin üçüncü fıkrasında belirtilen tüzel kişiye bu
+Yönetmeliğin 13 üncü, 14 üncü, 15 inci, 26 ncı ve
+27 nci maddelerinde yer alan hükümler uygulanmaz.
+(2) Kanunun 5 inci
+maddesinin altıncı fıkrasında belirtilen sistemlere bu Yönetmeliğin 10
+uncu, 13 üncü, 14 üncü, 15 inci, 16 ncı, 17 nci, 18 inci, 26 ncı ve 27 nci maddeleri ile 7 nci
+maddesinin ikinci fıkrasının (r) bendi ve dördüncü fıkrası, 8 inci
+maddesinin altıncı fıkrası, 11 inci maddesinin birinci fıkrasının (ı)
+bendi, 12 nci maddesinin üçüncü ve dördüncü
+fıkraları, 19 uncu maddesinin ikinci, üçüncü ve dördüncü fıkraları ve 23
+üncü maddesinin dördüncü ve onuncu fıkralarında yer alan hükümler
+uygulanmaz.
+(3) 20 nci maddenin ikinci
+fıkrası uyarınca finansal tablo ve raporların yayımlanması hükmü, Kanunun 5
+inci maddesinin üçüncü ve altıncı fıkralarında belirtilen sistemlere
+uygulanmaz.
+(4) 9 uncu maddenin üçüncü fıkrasının (a) ve (l)
+bentleri bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla faaliyette
+bulunan sistemlere uygulanmaz.
+SEKİZİNCİ
+BÖLÜM
+Son
+Hükümler
+Geçiş
+hükümleri
+GEÇİCİ
+MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte
+faaliyette bulunan sistem işleticileri, sistemlerini bir yıl içinde Kanunla
+ve bu Yönetmelikle uyumlu hâle getirmek ve Bankaya başvurarak gerekli
+izinleri almak zorundadır.
+(2) Birinci fıkrada belirtilen süre içinde faaliyet izni
+alması gereken kuruluşlar, söz konusu izni almamaları durumunda Kanun ve bu
+Yönetmelik kapsamında faaliyette bulunamazlar.
+Yürürlük
+MADDE 32 – (1) Bu
+Yönetmelik yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 33 – (1) Bu
+Yönetmelik hükümlerini Türkiye Cumhuriyet Merkez Bankası Başkanı yürütür.
+Ekleri için tıklayınız.
