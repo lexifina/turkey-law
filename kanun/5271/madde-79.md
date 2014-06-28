@@ -217,13 +217,13 @@ Madde 115 – (1) Hükümlü, 113 üncü maddenin birinci fıkrasının (a) bend
 DÖRDÜNCÜ BÖLÜM
 Arama ve Elkoyma
 Şüpheli veya sanıkla ilgili arama
-Madde 116 – (1) Yakalanabileceği veya suç delillerinin elde edilebileceği hususunda somut delillere dayalı kuvvetli şüphe varsa; şüphelinin veya sanığın üstü, eşyası, konutu, işyeri veya ona ait diğer yerler aranabilir.(1)
+Madde 116 – (1) Yakalanabileceği veya suç delillerinin elde edilebileceği hususunda makul şüphe varsa; şüphelinin veya sanığın üstü, eşyası, konutu, işyeri veya ona ait diğer yerler aranabilir.(1)(2)
 Diğer kişilerle ilgili arama
 Madde 117 – (1) Şüphelinin veya sanığın yakalanabilmesi veya suç delillerinin elde edilebilmesi amacıyla, diğer bir kişinin de üstü, eşyası, konutu, işyeri veya ona ait diğer yerler aranabilir.
 (2) Bu hâllerde aramanın yapılması, aranılan kişinin veya suçun delillerinin belirtilen yerlerde bulunduğunun kabul edilebilmesine olanak sağlayan olayların varlığına bağlıdır.
 (3) Bu sınırlama, şüphelinin veya sanığın bulunduğu yerler ile, izlendiği sırada girdiği yerler hakkında geçerli değildir.
 ____________
-(1) 21/2/2014 tarihli ve 6526 sayılı Kanunun 9 uncu maddesiyle bu fıkrada yer alan “makul” ibaresi “somut delillere dayalı kuvvetli” şeklinde değiştirilmiştir.
+(1) 21/2/2014 tarihli ve 6526 sayılı Kanunun 9 uncu maddesiyle bu fıkrada yer alan “makul” ibaresi “somut delillere dayalı kuvvetli” şeklinde değiştirilmiş, daha sonra 2/12/2014 tarihli ve 6572 sayılı Kanunun 40 ıncı maddesiyle bu fıkrada yer alan “somut delillere dayalı kuvvetli” ibaresi “makul” şeklinde değiştirilmiştir.
 9131
 Gece yapılacak arama
 Madde 118 – (1) Konutta, işyerinde veya diğer kapalı yerlerde gece vaktinde arama yapılamaz.
@@ -304,16 +304,16 @@ a) Türk Ceza Kanununda tanımlanan;
 14. İrtikap (madde 250)
 15. Rüşvet (madde 252),
 16. Devletin Güvenliğine Karşı Suçlar (madde 302, 303, 304, 305, 306, 307, 308),
-17. Silahlı örgüt (madde 314) veya bu örgütlere silah sağlama (madde 315) suçları,
+––––––––––––––––
+(1) 21/2/2014 tarihli ve 6526 sayılı Kanunun 10 uncu maddesiyle bu fıkrada yer alan “elde edildiğine dair” ibaresinden sonra gelmek üzere “somut delillere dayanan” ve “Elkonulabilir.” ibaresinden sonra gelmek üzere “Somut olarak belirlenen” ibareleri eklenmiştir.
+9134
+17. (Değişik: 2/12/2014-6572/41 md.) Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar (madde 309, 311, 312, 313, 314, 315, 316),
 18. Devlet Sırlarına Karşı Suçlar ve Casusluk (madde 328, 329, 330, 331, 333, 334, 335, 336, 337) suçları.
 b) Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunda tanımlanan silah kaçakçılığı (madde 12) suçları,
 c) Bankalar Kanununun 22 nci maddesinin (3) ve (4) numaralı fıkralarında tanımlanan zimmet suçu,
 d) Kaçakçılıkla Mücadele Kanununda tanımlanan ve hapis cezasını gerektiren suçlar,
 e) Kültür ve Tabiat Varlıklarını Koruma Kanununun 68 ve 74 üncü maddelerinde tanımlanan suçlar,
 Hakkında uygulanır.
-––––––––––––––––
-(1) 21/2/2014 tarihli ve 6526 sayılı Kanunun 10 uncu maddesiyle bu fıkrada yer alan “elde edildiğine dair” ibaresinden sonra gelmek üzere “somut delillere dayanan” ve “Elkonulabilir.” ibaresinden sonra gelmek üzere “Somut olarak belirlenen” ibareleri eklenmiştir.
-9134
 (3) Taşınmaza elkonulması kararı, tapu kütüğüne şerh verilmek suretiyle icra edilir.
 (4) Kara, deniz ve hava ulaşım araçları hakkında verilen elkoyma kararı, bu araçların kayıtlı bulunduğu sicile şerh verilmek suretiyle icra olunur.
 (5) Banka veya diğer malî kurumlardaki her türlü hesaba elkonulması kararı, teknik iletişim araçlarıyla ilgili banka veya malî kuruma derhâl bildirilerek icra olunur. Söz konusu karar, ilgili banka veya malî kuruma ayrıca tebliğ edilir. Elkoyma kararı alındıktan sonra, hesaplar üzerinde yapılan bu kararı etkisiz kılmaya yönelik işlemler geçersizdir.
@@ -324,6 +324,7 @@ Hakkında uygulanır.
 Postada elkoyma
 Madde 129 – (1) Suçun delillerini oluşturduğundan şüphe edilen ve gerçeğin ortaya çıkarılması için soruşturma ve kovuşturmada adliyenin eli altında olması zorunlu sayılıp, posta hizmeti veren her türlü resmî veya özel kuruluşta bulunan gönderilere, hâkimin veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının kararı ile elkonulabilir.
 (2) Hâkim kararının veya Cumhuriyet savcısının emrinin kendilerine bildirilmesi üzerine elkoyma işlemini yerine getiren kolluk memurları, birinci fıkrada belirtilen gönderilerin içinde bulunduğu zarfları veya paketleri açamazlar. Elkonulan gönderiler, ilgili posta görevlilerinin huzuru ile mühür altına alınıp derhâl elkoyma kararını veya emrini veren hâkim veya Cumhuriyet savcısına teslim edilir.
+9134-1
 (3) Soruşturma ve kovuşturmanın amacına zarar vermek olasılığı bulunmadıkça, alınmış tedbirler ilgililere bildirilir.
 (4) Açılmamasına veya açılıp da içeriği bakımından adliyenin eli altında tutulmasına gerek bulunmadığına karar verilen gönderiler, hemen ilgililerine teslim olunur.
 Avukat bürolarında arama, elkoyma ve postada elkoyma
@@ -374,13 +375,19 @@ Madde 134(1) – (1) Bir suç dolayısıyla yapılan soruşturmada, somut delill
 BEŞİNCİ BÖLÜM
 Telekomünikasyon Yoluyla Yapılan İletişimin Denetlenmesi
 İletişimin tespiti, dinlenmesi ve kayda alınması(1)(2)
-Madde 135 – (1) (Değişik: 21/2/2014–6526/12 md.) Bir suç dolayısıyla yapılan soruşturma ve kovuşturmada, suç işlendiğine ilişkin somut delillere dayanan kuvvetli şüphe sebeplerinin varlığı ve başka suretle delil elde edilmesi imkânının bulunmaması durumunda, ağır ceza mahkemesi veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının kararıyla şüpheli veya sanığın telekomünikasyon yoluyla iletişimi tespit edilebilir, dinlenebilir, kayda alınabilir ve sinyal bilgileri değerlendirilebilir. Cumhuriyet savcısı kararını derhâl mahkemenin onayına sunar ve mahkeme, kararını en geç yirmi dört saat içinde verir. Sürenin dolması veya mahkeme tarafından aksine karar verilmesi hâlinde tedbir Cumhuriyet savcısı tarafından derhâl kaldırılır. Bu fıkra uyarınca alınacak tedbire ağır ceza mahkemesince oy birliğiyle karar verilir. İtiraz üzerine bu tedbire karar verilebilmesi için de oy birliği aranır.
+Madde 135 – (1) (Değişik: 21/2/2014–6526/12 md.) Bir suç dolayısıyla yapılan soruşturma ve kovuşturmada, suç işlendiğine ilişkin somut delillere dayanan kuvvetli şüphe sebeplerinin varlığı ve başka suretle delil elde edilmesi imkânının bulunmaması durumunda, ağır ceza mahkemesi veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının kararıyla şüpheli veya sanığın telekomünikasyon yoluyla iletişimi (…)(3) dinlenebilir, kayda alınabilir ve sinyal bilgileri değerlendirilebilir. Cumhuriyet savcısı kararını derhâl mahkemenin onayına sunar ve mahkeme, kararını en geç yirmi dört saat içinde verir. Sürenin dolması veya mahkeme tarafından aksine karar verilmesi hâlinde tedbir Cumhuriyet savcısı tarafından derhâl kaldırılır. Bu fıkra uyarınca alınacak tedbire ağır ceza mahkemesince oy birliğiyle karar verilir. İtiraz üzerine bu tedbire karar verilebilmesi için de oy birliği aranır. (3)
 (2) (Ek: 21/2/2014–6526/12 md.) Talepte bulunulurken hakkında bu madde uyarınca tedbir kararı verilecek hattın veya iletişim aracının sahibini ve biliniyorsa kullanıcısını gösterir belge veya rapor eklenir.(2)
-(3) Şüpheli veya sanığın tanıklıktan çekinebilecek kişilerle arasındaki iletişimi kayda alınamaz. Kayda alma gerçekleştikten sonra bu durumun anlaşılması hâlinde, alınan kayıtlar derhâl yok edilir. (1)(2)
+(3) Şüpheli veya sanığın tanıklıktan çekinebilecek kişilerle arasındaki iletişimi kayda alınamaz. Kayda alma gerçekleştikten sonra bu durumun anlaşılması hâlinde, alınan kayıtlar derhâl yok edilir. (1) (2)
 (4) Birinci fıkra hükmüne göre verilen kararda, yüklenen suçun türü, hakkında tedbir uygulanacak kişinin kimliği, iletişim aracının türü, telefon numarası veya iletişim bağlantısını tespite imkân veren kodu, tedbirin türü, kapsamı ve süresi belirtilir. Tedbir kararı en çok iki ay için verilebilir; bu süre, bir ay daha uzatılabilir. (Ek cümle: 25/5/2005 – 5353/17 md.) Ancak, örgütün faaliyeti çerçevesinde işlenen suçlarla ilgili olarak gerekli görülmesi halinde, mahkeme yukarıdaki sürelere ek olarak her defasında bir aydan fazla olmamak ve toplam üç ayı geçmemek üzere uzatılmasına karar verebilir.(2)
+––––––––––––––––––––––––––––––––––
+(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 17 nci maddesiyle; bu maddenin ikinci fıkrasında geçen "Şüphelinin" ibaresi "Şüpheli veya sanığın" olarak değiştirilmiş, dördüncü fıkrasındaki "kullanmakta olduğu" ve "kullanılan" ibareleri madde metninden çıkarılmıştır.
+(2) 21/2/2014 tarihli ve 6526 sayılı Kanunun 12 nci maddesiyle, bu maddeye birinci fıkrasından sonra gelmek üzere ikinci fıkra eklenmiş ve fıkra numaraları buna göre teselsül ettirilmiş; dördüncü fıkrasında yer alan “üç ay”, “bir defa” ve “hâkim bir aydan fazla olmamak üzere sürenin müteaddit defalar” ibareleri sırasıyla, “iki ay”, “bir ay” ve “mahkeme yukarıdaki sürelere ek olarak her defasında bir aydan fazla olmamak ve toplam üç ayı geçmemek üzere” şeklinde değiştirilmiştir.
+(3) 2/12/2014 tarihli ve 6572 sayılı Kanunun 42 nci maddesiyle, bu fıkrada yer alan “tespit edilebilir,” ibaresi madde metninden çıkarılmıştır.
+9138
 (5) Şüpheli veya sanığın yakalanabilmesi için, (…) (1) mobil telefonun yeri, hâkim veya gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısının kararına istinaden tespit edilebilir. Bu hususa ilişkin olarak verilen kararda, (…) (1) mobil telefon numarası ve tespit işleminin süresi belirtilir. Tespit işlemi en çok iki ay için yapılabilir; bu süre, bir ay daha uzatılabilir.(2)
-(6) Bu madde hükümlerine göre alınan karar ve yapılan işlemler, tedbir süresince gizli tutulur. (2)
-(7) Bu madde kapsamında dinleme, kayda alma ve sinyal bilgilerinin değerlendirilmesine ilişkin hükümler ancak aşağıda sayılan suçlarla ilgili olarak uygulanabilir: (1) (2)
+(6) (Ek: 2/12/2014-6572/42 md.) Şüpheli ve sanığın telekomünikasyon yoluyla iletişiminin tespiti, soruşturma aşamasında hâkim, kovuşturma aşamasında mahkeme kararına istinaden yapılır. Kararda, yüklenen suçun türü, hakkında tedbir uygulanacak kişinin kimliği, iletişim aracının türü, telefon numarası veya iletişim bağlantısını tespite imkân veren kodu ve tedbirin süresi belirtilir. (3)
+(7) Bu madde hükümlerine göre alınan karar ve yapılan işlemler, tedbir süresince gizli tutulur. (2)
+(8) Bu madde kapsamında dinleme, kayda alma ve sinyal bilgilerinin değerlendirilmesine ilişkin hükümler ancak aşağıda sayılan suçlarla ilgili olarak uygulanabilir: (1) (2)
 a) Türk Ceza Kanununda yer alan;
 1. Göçmen kaçakçılığı ve insan ticareti (madde 79, 80),
 2. Kasten öldürme (madde 81, 82, 83),
@@ -395,17 +402,19 @@ a) Türk Ceza Kanununda yer alan;
 11. İhaleye fesat karıştırma (madde 235), (1) (2)
 12. Rüşvet (madde 252), (1) (2)
 13. Suçtan kaynaklanan malvarlığı değerlerini aklama (madde 282), (1) (2)
-14. Silahlı örgüt (madde 314) veya bu örgütlere silah sağlama (madde 315), (1) (2)
-15. Devlet Sırlarına Karşı Suçlar ve Casusluk (madde 328, 329, 330, 331, 333, 334, 335, 336, 337) suçları. (1) (2)
+14. (Değişik: 2/12/2014-6572/42 md.) Devletin birliğini ve ülke bütünlüğünü bozmak (madde 302) , (1)(2)(3)
+15. (Ek: 2/12/2014-6572/42 md.) Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar (madde 309, 311, 312, 313, 314, 315, 316), (3)
+16. Devlet Sırlarına Karşı Suçlar ve Casusluk (madde 328, 329, 330, 331, 333, 334, 335, 336, 337) suçları. (1) (2)(3)
 ––––––––––––––––––––––––––––––––––
-(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 17 nci maddesiyle; ikinci fıkrasında geçen "Şüphelinin" ibaresi "Şüpheli veya sanığın" olarak değiştirilmiş, dördüncü fıkrasındaki "kullanmakta olduğu" ve "kullanılan" ibareleri madde metninden çıkarılmış, altıncı fıkrasında geçen "hükümleri" ibaresi "kapsamında dinleme, kayda alma ve sinyal bilgilerinin değerlendirilmesine ilişkin hükümler" olarak değiştirilmiş, altıncı fıkranın (a) bendine (8) numaralı alt bentten sonra gelmek üzere (9) numaralı alt bent eklenmiş ve diğer alt bentler buna göre teselsül ettirilmiştir.
-(2) 21/2/2014 tarihli ve 6526 sayılı Kanunun 12 nci maddesiyle, bu maddeye birinci fıkrasından sonra gelmek üzere ikinci fıkra eklenmiş ve fıkra numaraları buna göre teselsül ettirilmiş; dördüncü fıkrasında yer alan “üç ay”, “bir defa” ve “hâkim bir aydan fazla olmamak üzere sürenin müteaddit defalar” ibareleri sırasıyla, “iki ay”, “bir ay” ve “mahkeme yukarıdaki sürelere ek olarak her defasında bir aydan fazla olmamak ve toplam üç ayı geçmemek üzere” şeklinde değiştirilmiş; maddenin beşinci fıkrasında yer alan “üç ay” ve “bir defa” ibareleri sırasıyla “iki ay” ve “bir ay” şeklinde değiştirilmiş; mevcut altıncı fıkrasının (a) bendinin (5) numaralı alt bendinden sonra gelmek üzere “6. Nitelikli hırsızlık (madde 142) ve yağma (madde 148, 149),” alt bendi eklenmiş, diğer alt bentler buna göre teselsül ettirilmiş ve yedinci fıkrasının (a) bendinin (10) numaralı alt bendinde yer alan “, fıkra 3” ibaresi madde metninden çıkarılmıştır.
-9138
+(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 17 nci maddesiyle; bu maddenin dördüncü fıkrasındaki "kullanmakta olduğu" ve "kullanılan" ibareleri madde metninden çıkarılmış, altıncı fıkrasında geçen "hükümleri" ibaresi "kapsamında dinleme, kayda alma ve sinyal bilgilerinin değerlendirilmesine ilişkin hükümler" olarak değiştirilmiş, altıncı fıkranın (a) bendine (8) numaralı alt bentten sonra gelmek üzere (9) numaralı alt bent eklenmiş ve diğer alt bentler buna göre teselsül ettirilmiştir.
+(2) 21/2/2014 tarihli ve 6526 sayılı Kanunun 12 nci maddesiyle, bu maddenin beşinci fıkrasında yer alan “üç ay” ve “bir defa” ibareleri sırasıyla “iki ay” ve “bir ay” şeklinde değiştirilmiş; mevcut altıncı fıkrasının (a) bendinin (5) numaralı alt bendinden sonra gelmek üzere “6. Nitelikli hırsızlık (madde 142) ve yağma (madde 148, 149),” alt bendi eklenmiş, diğer alt bentler buna göre teselsül ettirilmiş ve yedinci fıkrasının (a) bendinin (10) numaralı alt bendinde yer alan “, fıkra 3” ibaresi madde metninden çıkarılmıştır.
+(3) 2/12/2014 tarihli ve 6572 sayılı Kanunun 42 nci maddesiyle, bu maddeye beşinci fıkradan sonra gelmek üzere (6) numaralı fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiş, mevcut yedinci fıkranın (a) bendinin (14) numaralı alt bendi metne işlendiği şekilde değiştirilmiş, bu alt bentten sonra gelmek üzere (15) numaralı alt bent eklenmiş ve diğer alt bent buna göre teselsül ettirilmiştir.
+9138-1
 b) Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunda tanımlanan silah kaçakçılığı (madde 12) suçları.
 c) (Ek: 25/5/2005 – 5353/17 md.) Bankalar Kanununun 22 nci maddesinin (3) ve (4) numaralı fıkralarında tanımlanan zimmet suçu, (1)
 d) Kaçakçılıkla Mücadele Kanununda tanımlanan ve hapis cezasını gerektiren suçlar. (1)
 e) Kültür ve Tabiat Varlıklarını Koruma Kanununun 68 ve 74 üncü maddelerinde tanımlanan suçlar. (1)
-(8) Bu maddede belirlenen esas ve usuller dışında hiç kimse, bir başkasının telekomünikasyon yoluyla iletişimini dinleyemez ve kayda alamaz.
+(9) Bu maddede belirlenen esas ve usuller dışında hiç kimse, bir başkasının telekomünikasyon yoluyla iletişimini dinleyemez ve kayda alamaz.
 Müdafiin bürosu ve yerleşim yeri
 Madde 136 – (1) Şüpheli veya sanığa yüklenen suç dolayısıyla müdafiin bürosu, konutu ve yerleşim yerindeki telekomünikasyon araçları hakkında, 135 inci madde hükmü uygulanamaz.
 Kararların yerine getirilmesi, iletişim içeriklerinin yok edilmesi
@@ -415,11 +424,11 @@ Madde 137 – (1) 135 inci maddeye göre verilecek karar gereğince Cumhuriyet s
 (4) Tespit ve dinlemeye ilişkin kayıtların yok edilmesi halinde soruşturma evresinin bitiminden itibaren, en geç onbeş gün içinde, Cumhuriyet Başsavcılığı, tedbirin nedeni, kapsamı, süresi ve sonucu hakkında ilgilisine yazılı olarak bilgi verir. (2)
 Tesadüfen elde edilen deliller
 Madde 138 – (1) Arama veya elkoyma koruma tedbirlerinin uygulanması sırasında, yapılmakta olan soruşturma veya kovuşturmayla ilgisi olmayan ancak, diğer bir suçun işlendiği şüphesini uyandırabilecek bir delil elde edilirse; bu delil muhafaza altına alınır ve durum Cumhuriyet Savcılığına derhâl bildirilir.
-(2) Telekomünikasyon yoluyla yapılan iletişimin denetlenmesi sırasında, yapılmakta olan soruşturma veya kovuşturmayla ilgisi olmayan ve ancak, 135 inci maddenin altıncı fıkrasında sayılan suçlardan birinin işlendiği şüphesini uyandırabilecek bir delil elde edilirse; bu delil muhafaza altına alınır ve durum Cumhuriyet Savcılığına derhâl bildirilir.
 –––––––––––––––––––
 (1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 17 nci maddesiyle (b) bendinden sonra gelmek üzere (c) bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.
 (2) 25/5/2005 tarihli ve 5353 sayılı Kanunun 18 inci maddesiyle bu fıkrada geçen "halinde" ibaresinden sonra gelmek üzere "soruşturma evresinin bitiminden itibaren" ibaresi eklenmiş ve metne işlenmiştir.
-9139
+9138-2
+(2) Telekomünikasyon yoluyla yapılan iletişimin denetlenmesi sırasında, yapılmakta olan soruşturma veya kovuşturmayla ilgisi olmayan ve ancak, 135 inci maddenin altıncı fıkrasında sayılan suçlardan birinin işlendiği şüphesini uyandırabilecek bir delil elde edilirse; bu delil muhafaza altına alınır ve durum Cumhuriyet Savcılığına derhâl bildirilir.
 ALTINCI BÖLÜM
 Gizli Soruşturmacı ve Teknik Araçlarla İzleme
 Gizli soruşturmacı görevlendirilmesi
@@ -436,29 +445,33 @@ a) Türk Ceza Kanununda yer alan;
 3. Silahlı örgüt (madde 314) veya bu örgütlere silah sağlama (madde 315).
 b) Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunda tanımlanan silah kaçakçılığı (madde 12) suçları.
 c) Kültür ve Tabiat Varlıklarını Koruma Kanununun 68 ve 74 üncü maddelerinde tanımlanan suçlar.
-Teknik araçlarla izleme(1)(2)
+9139
+Teknik araçlarla izleme(1)(2)(3) (4)
 Madde 140 – (1) Aşağıdaki suçların işlendiği hususunda somut delillere dayanan kuvvetli şüphe sebepleri bulunması ve başka suretle delil elde edilememesi hâlinde, şüpheli veya sanığın kamuya açık yerlerdeki faaliyetleri ve işyeri teknik araçlarla izlenebilir, ses veya görüntü kaydı alınabilir:(1)
 a) Türk Ceza Kanununda yer alan;
 1. Göçmen kaçakçılığı ve insan ticareti (madde 79, 80),
 2. Kasten öldürme (madde 81, 82, 83),
-3. (Ek:21/2/2014–6526/14 md.) Nitelikli hırsızlık (madde 142) ve yağma (madde 148, 149),(1)
+3. (Ek:21/2/2014–6526/14 md.) Nitelikli hırsızlık (madde 142) ve yağma (madde 148, 149),(3)
 4. Uyuşturucu veya uyarıcı madde imal ve ticareti (madde 188),(1)
 5. Parada sahtecilik (madde 197), (1)
 6. (Mülga:21/2/2014–6526/14 md.) (1)
 7. (Ek: 25/5/2005 – 5353/19 md.) Fuhuş (madde 227) (1)(2)
 8. İhaleye fesat karıştırma (madde 235), (1)(2)
 9. Rüşvet (madde 252), (1)(2)
-–––––––––––––––
-(1) 21/2/2014 tarihli ve 6526 sayılı Kanunun 14 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “hususunda” ibaresinden sonra gelmek üzere “somut delillere dayanan” ibaresi eklenmiş; aynı fıkranın (a) bendinin (2) numaralı alt bendinden sonra gelmek üzere “3. Nitelikli hırsızlık (madde 142) ve yağma (madde 148, 149),” alt bendi eklenmiş, diğer alt bentler buna göre teselsül ettirilmiş, mevcut (5) numaralı alt bendi yürürlükten kaldırılmış, mevcut (6) numaralı alt bendinde yer alan “, fıkra 3” ibaresi madde metninden çıkarılmıştır.
-(2) 25/5/2005 tarihli ve 5353 sayılı Kanunun 19 uncu maddesiyle (5) numaralı alt bentten sonra gelmek üzere (6) numaralı alt bent eklenmiş, diğer alt bentler buna göre teselsül ettirilmiştir.
-9140
 10. Suçtan kaynaklanan malvarlığı değerlerini aklama (madde 282), (1) (2)
-11. Silahlı örgüt (madde 314) veya bu örgütlere silah sağlama (madde 315), (1) (2)
-12. Devlet Sırlarına Karşı Suçlar ve Casusluk (madde 328, 329, 330, 331, 333, 334, 335, 336, 337), (1)(2)
+11. (Değişik: 2/12/2014-6572/43 md.) Devletin birliğini ve ülke bütünlüğünü bozmak (madde 302), (1) (2)
+12. (Ek: 2/12/2014-6572/43 md.) Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar (madde 309, 311, 312, 313, 314, 315, 316), (4)
+13. Devlet Sırlarına Karşı Suçlar ve Casusluk (madde 328, 329, 330, 331, 333, 334, 335, 336, 337), (1)(2)(4)
 Suçları.
 b) Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunda tanımlanan silah kaçakçılığı (madde 12) suçları.
 c) Kaçakçılıkla Mücadele Kanununda tanımlanan ve hapis cezasını gerektiren suçlar.
 d) Kültür ve Tabiat Varlıklarını Koruma Kanununun 68 ve 74 üncü maddelerinde tanımlanan suçlar.
+–––––––––––––––
+(1) 21/2/2014 tarihli ve 6526 sayılı Kanunun 14 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “hususunda” ibaresinden sonra gelmek üzere “somut delillere dayanan” ibaresi eklenmiş; aynı fıkranın (a) bendinin (2) numaralı alt bendinden sonra gelmek üzere “3. Nitelikli hırsızlık (madde 142) ve yağma (madde 148, 149),” alt bendi eklenmiş, diğer alt bentler buna göre teselsül ettirilmiş, mevcut (5) numaralı alt bendi yürürlükten kaldırılmış, mevcut (6) numaralı alt bendinde yer alan “, fıkra 3” ibaresi madde metninden çıkarılmıştır.
+(2) 25/5/2005 tarihli ve 5353 sayılı Kanunun 19 uncu maddesiyle (5) numaralı alt bentten sonra gelmek üzere (6) numaralı alt bent eklenmiş, diğer alt bentler buna göre teselsül ettirilmiştir.
+(3) 21/2/2014 tarihli ve 6526 sayılı Kanunun 14 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan (a) bendinin (2) numaralı alt bendinden sonra gelmek üzere “3. Nitelikli hırsızlık (madde 142) ve yağma (madde 148, 149),” alt bendi eklenmiş, diğer alt bentler buna göre teselsül ettirilmiştir.
+(4) 2/12/2014 tarihli ve 6572 sayılı Kanunun 43 üncü maddesiyle, bu maddenin birinci fıkrasının (a) bendinin (11) numaralı alt bendinden sonra gelmek üzere aşağıdaki alt bent eklenmiş ve diğer alt bent buna göre teselsül ettirilmiştir.
+9140
 (2) (Değişik:21/2/2014–6526/14 md.) Teknik araçlarla izlemeye ağır ceza mahkemesi tarafından oy birliğiyle karar verilir. İtiraz üzerine bu tedbire karar verilebilmesi için de oy birliği aranır.
 (3) (Değişik:21/2/2014–6526/14 md.) Teknik araçlarla izleme kararı en çok üç haftalık süre için verilebilir. Bu süre gerektiğinde bir hafta daha uzatılabilir. Ancak, örgütün faaliyeti çerçevesinde işlenen suçlarla ilgili olarak gerekli görülmesi hâlinde, mahkeme yukarıdaki sürelere ek olarak her defasında bir haftadan fazla olmamak ve toplam dört haftayı geçmemek üzere uzatılmasına karar verebilir.
 (4) Elde edilen deliller, yukarıda sayılan suçlarla ilgili soruşturma ve kovuşturma dışında kullanılamaz; ceza kovuşturması bakımından gerekli olmadığı taktirde Cumhuriyet savcısının gözetiminde derhâl yok edilir.
@@ -478,12 +491,11 @@ h) Yakalanmaları veya tutuklanmaları yakınlarına bildirilmeyen,
 i) Hakkındaki arama kararı ölçüsüz bir şekilde gerçekleştirilen,
 j) Eşyasına veya diğer malvarlığı değerlerine, koşulları oluşmadığı halde elkonulan veya korunması için gerekli tedbirler alınmayan ya da eşyası veya diğer malvarlığı değerleri amaç dışı kullanılan veya zamanında geri verilmeyen,
 k) (Ek: 11/4/2013-6459/17 md.) Yakalama veya tutuklama işlemine karşı Kanunda öngörülen başvuru imkânlarından yararlandırılmayan,
-–––––––––––––––––––
-(1) 25/5/2005 tarihli ve 5353 sayılı Kanunun 19 uncu maddesiyle (5) numaralı alt bentten sonra gelmek üzere (6) numaralı alt bent eklenmiş, bu alt bentler buna göre teselsül ettirilmiştir.
-(2) 21/2/2014 tarihli ve 6526 sayılı Kanunun 14 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan (a) bendinin (2) numaralı alt bendinden sonra gelmek üzere “3. Nitelikli hırsızlık (madde 142) ve yağma (madde 148, 149),” alt bendi eklenmiş, diğer alt bentler buna göre teselsül ettirilmiştir.
 9141
 Kişiler, maddî ve manevî her türlü zararlarını, Devletten isteyebilirler.
 (2) Birinci fıkranın (e) ve (f) bentlerinde belirtilen kararları veren merciler, ilgiliye tazminat hakları bulunduğunu bildirirler ve bu husus verilen karara geçirilir.
+(3) (Ek:18/6/2014-6545/70 md.) Birinci fıkrada yazan hâller dışında, suç soruşturması veya kovuşturması sırasında kişisel kusur, haksız fiil veya diğer sorumluluk hâlleri de dâhil olmak üzere hâkimler ve Cumhuriyet savcılarının verdikleri kararlar veya yaptıkları işlemler nedeniyle tazminat davaları ancak Devlet aleyhine açılabilir.
+(4) (Ek:18/6/2014-6545/70 md.) Devlet, ödediği tazminattan dolayı görevinin gereklerine aykırı hareket etmek suretiyle görevini kötüye kullanan hâkimler ve Cumhuriyet savcılarına bir yıl içinde rücu eder.
 Tazminat isteminin koşulları
 Madde 142 – (1) Karar veya hükümlerin kesinleştiğinin ilgilisine tebliğinden itibaren üç ay ve her hâlde karar veya hükümlerin kesinleşme tarihini izleyen bir yıl içinde tazminat isteminde bulunulabilir.
 (2) İstem, zarara uğrayanın oturduğu yer ağır ceza mahkemesinde ve eğer o yer ağır ceza mahkemesi tazminat konusu işlemle ilişkili ise ve aynı yerde başka bir ağır ceza dairesi yoksa, en yakın yer ağır ceza mahkemesinde karara bağlanır.
@@ -495,7 +507,7 @@ Madde 142 – (1) Karar veya hükümlerin kesinleştiğinin ilgilisine tebliğin
 (8) Karara karşı, istemde bulunan, Cumhuriyet savcısı veya Hazine temsilcisi, istinaf yoluna başvurabilir; inceleme öncelikle ve ivedilikle yapılır.
 Tazminatın geri alınması
 Madde 143 – (1) Kovuşturmaya yer olmadığına ilişkin kararı sonradan kaldırılarak, hakkında kamu davası açılan ve mahkûm edilenlerle, yargılamanın aleyhte yenilenmesiyle beraat kararı kaldırılıp mahkûm edilenlere ödenmiş tazminatların mahkûmiyet süresine ilişkin kısmı, Cumhuriyet savcısının yazılı istemi ile aynı mahkemeden alınacak kararla kamu alacaklarının tahsiline ilişkin mevzuat hükümleri uygulanarak geri alınır. Bu karara itiraz edilebilir.
-(2) (Değişik: 25/5/2005 - 5353/21 md.) Devlet, ödediği tazminattan dolayı, koruma tedbiriyle ilgili olarak görevinin gereklerine aykırı hareket etmek suretiyle görevini kötüye kullanan kamu görevlilerine rücu eder.
+(2) (Mülga: 18/6/2014 - 6545/103 md.)
 (3) İftira konusunu oluşturan suç veya yalan tanıklık nedeniyle gözaltına alınma ve tutuklama halinde; Devlet, iftira eden veya yalan tanıklıkta bulunan kişiye de rücu eder.
 Tazminat isteyemeyecek kişiler
 Madde 144 – (1) Kanuna uygun olarak yakalanan veya tutuklanan kişilerden aşağıda belirtilenler tazminat isteyemezler:
@@ -574,10 +586,23 @@ Madde 152 – (1) Yararları birbirine uygun olan birden fazla şüpheli veya sa
 (1) Bu madde başlığı " Müdafi görevini yerine getirmediğinde yapılacak işlem" iken 25/5/2005 tarihli ve 5353 sayılı Kanunun 22 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 9144-1
 Müdafiin dosyayı inceleme yetkisi
-Madde 153 – (1) Müdafi, soruşturma evresinde dosya içeriğini inceleyebilir ve istediği belgelerin bir örneğini harçsız olarak alabilir.
-(2) (Mülga:21/2/2014–6526/19 md.)
-(3) (Mülga:21/2/2014–6526/19 md.)
-(4) (Mülga:21/2/2014–6526/19 md.)
+Madde 153 – (Değişik: 2/12/2014-6572/44 md.)
+(1) Müdafi, soruşturma evresinde dosya içeriğini inceleyebilir ve istediği belgelerin bir örneğini harçsız olarak alabilir.
+(2) Müdafiin dosya içeriğini inceleme veya belgelerden örnek alma yetkisi, soruşturmanın amacını tehlikeye düşürebilecek ise Cumhuriyet savcısının istemi üzerine hâkim kararıyla kısıtlanabilir. Bu karar ancak aşağıda sayılan suçlara ilişkin yürütülen soruşturmalarda verilebilir:
+a) 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununda yer alan;
+1. Kasten öldürme (madde 81, 82, 83),
+2. Cinsel saldırı (birinci fıkra hariç, madde 102),
+3. Çocukların cinsel istismarı (madde 103),
+4. Uyuşturucu veya uyarıcı madde imal ve ticareti (madde 188),
+5. Suç işlemek amacıyla örgüt kurma (madde 220),
+6. Devletin Güvenliğine Karşı Suçlar (madde 302, 303, 304, 307, 308),
+7. Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar (madde 309, 310, 311, 312, 313, 314, 315, 316),
+8. Devlet Sırlarına Karşı Suçlar ve Casusluk (madde 326, 327, 328, 329, 330, 331, 333, 334, 335, 336, 337).
+b) 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunda tanımlanan silah kaçakçılığı (madde 12) suçları.
+c) 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununun 160 ıncı maddesinde tanımlanan zimmet suçu.
+d) 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanununda tanımlanan suçlar.
+(3) Yakalanan kişinin veya şüphelinin ifadesini içeren tutanak ile bilirkişi raporları ve adı geçenlerin hazır bulunmaya yetkili oldukları diğer adli işlemlere ilişkin tutanaklar hakkında, ikinci fıkra hükmü uygulanmaz.
+(4) Müdafi, iddianamenin mahkeme tarafından kabul edildiği tarihten itibaren dosya içeriğini ve muhafaza altına alınmış delilleri inceleyebilir; bütün tutanak ve belgelerin örneklerini harçsız olarak alabilir.
 (5) Bu maddenin içerdiği haklardan suçtan zarar görenin vekili de yararlanır.
 Müdafi ile görüşme
 Madde 154 – (1) Şüpheli veya sanık, vekâletname aranmaksızın müdafii ile her zaman ve konuşulanları başkalarının duyamayacağı bir ortamda görüşebilir. Bu kişilerin müdafii ile yazışmaları denetime tâbi tutulamaz.
@@ -589,7 +614,6 @@ Madde 156 – (1) 150 nci maddede yazılı olan hâllerde, müdafi;
 a) Soruşturma evresinde, ifadeyi alan merciin veya sorguyu yapan hâkimin istemi üzerine,
 b) Kovuşturma evresinde, mahkemenin istemi üzerine,
 Baro tarafından görevlendirilir.
-9144-2
 9145
 (2) Yukarıda belirtilen hâllerde müdafi soruşturmanın veya kovuşturmanın yapıldığı yer barosunca görevlendirilir.
 (3) Şüpheli veya sanığın kendisinin sonradan müdafi seçmesi halinde, baro tarafından görevlendirilen avukatın görevi sona erer.
@@ -700,18 +724,19 @@ Kovuşturmaya yer olmadığına dair karar
 Madde 172 – (1) Cumhuriyet savcısı, soruşturma evresi sonunda, kamu davasının açılması için yeterli şüphe oluşturacak delil elde edilememesi veya kovuşturma olanağının bulunmaması hâllerinde kovuşturmaya yer olmadığına karar verir. Bu karar, suçtan zarar gören ile önceden ifadesi alınmış veya sorguya çekilmiş şüpheliye bildirilir. Kararda itiraz hakkı, süresi ve mercii gösterilir.
 (2) Kovuşturmaya yer olmadığına dair karar verildikten sonra yeni delil meydana çıkmadıkça, aynı fiilden dolayı kamu davası açılamaz.
 (3) (Ek: 11/4/2013-6459/19 md.) Kovuşturmaya yer olmadığına dair kararın etkin soruşturma yapılmadan verildiğinin Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararıyla tespit edilmesi üzerine, kararın kesinleşmesinden itibaren üç ay içinde talep edilmesi hâlinde yeniden soruşturma açılır.
-Cumhuriyet savcısının kararına itiraz (1)
-Madde 173 – (1) Suçtan zarar gören, kovuşturmaya yer olmadığına dair kararın kendisine tebliğ edildiği tarihten itibaren onbeş gün içinde, bu kararı veren Cumhuriyet savcısının yargı çevresinde görev yaptığı ağır ceza mahkemesine en yakın ağır ceza mahkemesine itiraz edebilir.
+Cumhuriyet savcısının kararına itiraz (1)(2)
+Madde 173 – (1) Suçtan zarar gören, kovuşturmaya yer olmadığına dair kararın kendisine tebliğ edildiği tarihten itibaren onbeş gün içinde, bu kararı veren Cumhuriyet savcısının yargı çevresinde görev yaptığı ağır ceza mahkemesinin bulunduğu yerdeki sulh ceza hâkimliğine itiraz edebilir.(2)
 (2) İtiraz dilekçesinde, kamu davasının açılmasını gerektirebilecek olaylar ve deliller belirtilir.
-(3) (Değişik: 25/5/2005 - 5353/26 md.) Mahkeme, kararını vermek için soruşturmanın genişletilmesine gerek görür ise bu hususu açıkça belirtmek suretiyle, o yer sulh ceza hâkimini görevlendirebilir; kamu davasının açılması için yeterli nedenler bulunmazsa, istemi gerekçeli olarak reddeder; itiraz edeni giderlere mahkûm eder ve dosyayı Cumhuriyet savcısına gönderir. Cumhuriyet savcısı, kararı itiraz edene ve şüpheliye bildirir.
-(4) (Değişik: 25/5/2005 - 5353/26 md.) Mahkeme istemi yerinde bulursa, Cumhuriyet savcısı iddianame düzenleyerek mahkemeye verir.
+(3) (Değişik: 18/6/2014-6545/71 md.) Sulh ceza hâkimliği, kararını vermek için soruşturmanın genişletilmesine gerek görür ise bu hususu açıkça belirtmek suretiyle, o yer Cumhuriyet başsavcılığından talepte bulunabilir; kamu davasının açılması için yeterli nedenler bulunmazsa, istemi gerekçeli olarak reddeder; itiraz edeni giderlere mahkûm eder ve dosyayı Cumhuriyet savcısına gönderir. Cumhuriyet savcısı, kararı itiraz edene ve şüpheliye bildirir.
+(4) (Değişik: 25/5/2005 - 5353/26 md.) Sulh ceza hâkimliği istemi yerinde bulursa, Cumhuriyet savcısı iddianame düzenleyerek mahkemeye verir.(2)
 (5) Cumhuriyet savcısının kamu davasının açılmaması hususunda takdir yetkisini kullandığı hâllerde bu madde hükmü uygulanmaz.
-(6) İtirazın reddedilmesi halinde; Cumhuriyet savcısının, yeni delil varlığı nedeniyle kamu davasını açabilmesi, önceden verilen dilekçe hakkında karar vermiş olan ağır ceza mahkemesinin bu hususta karar vermesine bağlıdır.
+(6) İtirazın reddedilmesi halinde; Cumhuriyet savcısının, yeni delil varlığı nedeniyle kamu davasını açabilmesi, önceden verilen dilekçe hakkında karar vermiş olan sulh ceza hâkimliğinin bu hususta karar vermesine bağlıdır.(2)
 İddianamenin iadesi
 Madde 174 – (Değişik: 25/5/2005 - 5353/27 md.)
 (1) Mahkeme tarafından, iddianamenin ve soruşturma evrakının verildiği tarihten itibaren onbeş gün içinde soruşturma evresine ilişkin bütün belgeler incelendikten sonra, eksik veya hatalı noktalar belirtilmek suretiyle;
 ––––––––––––––––
 (1) 31/3/2011 tarihli ve 6217 sayılı Kanunun 22 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “ağır ceza mahkemesi başkanına” ibaresi “ağır ceza mahkemesine”, üçüncü ve dördüncü fıkralarında yer alan “Başkan” ibareleri “Mahkeme” ve altıncı fıkrasında yer alan “ağır ceza mahkemesi başkanının” ibaresi “ağır ceza mahkemesinin” şeklinde değiştirilmiş ve metne işlenmiştir.
+(2) 18/6/2014 tarihli ve 6545 sayılı Kanunun 71 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “ağır ceza mahkemesine en yakın ağır ceza mahkemesine” ibaresi “ağır ceza mahkemesinin bulunduğu yerdeki sulh ceza hâkimliğine” şeklinde; dördüncü fıkrasında yer alan “Mahkeme” ibaresi “Sulh ceza hâkimliği” şeklinde ve altıncı fıkrasında yer alan “ağır ceza mahkemesinin” ibaresi “sulh ceza hâkimliğinin” şeklinde değiştirilmiştir.
 9150
 a) 170 inci maddeye aykırı olarak düzenlenen,
 b) Suçun sübûtuna etki edeceği mutlak sayılan mevcut bir delil toplanmadan düzenlenen,
@@ -745,7 +770,7 @@ Madde 178 – (1) Mahkeme başkanı veya hâkim, sanığın veya katılanın gö
 Çağrılan tanıkların ad ve adreslerinin sanığa ve Cumhuriyet savcısına bildirilmesi
 Madde 179 – (1) Sanık, doğrudan doğruya davet ettireceği veya duruşma sırasında getireceği bilirkişi ve tanıkların ad ve adreslerini Cumhuriyet savcısına makul süre içinde bildirir.
 (2) Cumhuriyet savcısı da, iddianamede gösterilen veya sanığın istemi üzerine davet edilen tanık ve bilirkişiler dışında gerek mahkeme başkanı veya hâkim kararıyla, gerek kendiliğinden başka kimseleri davet ettirecek ise bunların ad ve adreslerini sanığa yine makul süre içinde bildirir.
-9150-2 9151
+9151
 Tanık ve bilirkişinin naiple veya istinabe yoluyla dinlenmeleri
 Madde 180 – (1) Hastalık veya malûllük veya giderilmesi olanağı bulunmayan başka bir nedenle bir tanık veya bilirkişinin uzun ve önceden bilinmeyen bir zaman için duruşmada hazır bulunmasının olanaklı bulunmayacağı anlaşılırsa, mahkeme onun bir naiple veya istinabe yoluyla dinlenmesine karar verebilir.
 (2) Bu hüküm, konutlarının yetkili mahkemenin yargı çevresi dışında bulunmasından dolayı getirilmesi zor olan tanık ve bilirkişinin dinlenmesinde de uygulanır.
@@ -777,7 +802,7 @@ Madde 187 – (1) Kapalı duruşmada mahkeme, bazı kişilerin hazır bulunması
 (3) Açık duruşmanın içeriği, millî güvenliğe veya genel ahlâka veya kişilerin saygınlık, onur ve haklarına dokunacak veya suç işlemeye kışkırtacak nitelikte ise; mahkeme, bunları önlemek amacı ile ve gerektiği ölçüde duruşmanın içeriğinin kısmen veya tamamen yayımlanmasını yasaklar ve kararını açık duruşmada açıklar.
 Duruşmada hazır bulunacaklar
 Madde 188 – (1) Duruşmada, hükme katılacak hâkimler ve Cumhuriyet savcısı ile zabıt kâtibinin ve Kanunun zorunlu müdafiliği kabul ettiği hâllerde müdafiin hazır bulunması şarttır.
-(2) Sulh ceza mahkemelerinde yapılan duruşmalarda Cumhuriyet savcısı bulunmaz.
+(2) (Mülga: 18/6/2014 - 6545/103 md.)
 (3) Bir oturumda bitmeyecek davada, herhangi bir nedenle bulunamayacak üyenin yerine geçmek ve oya katılmak üzere yedek üye bulundurulabilir.
 Birden çok Cumhuriyet savcısı ve avukatın duruşmaya katılması
 Madde 189 – (1) Birden çok Cumhuriyet savcısı ve birden çok avukat aynı zamanda duruşmaya katılabilecekleri gibi aralarında işbölümü de yapabilirler.
@@ -1004,7 +1029,7 @@ b) Mahkemece, sanığın kişilik özellikleri ile duruşmadaki tutum ve davran�
 c) Suçun işlenmesiyle mağdurun veya kamunun uğradığı zararın, aynen iade, suçtan önceki hale getirme veya tazmin suretiyle tamamen giderilmesi,
 gerekir. (Ek cümle: 22/7/2010 - 6008/7 md.) Sanığın kabul etmemesi hâlinde, hükmün açıklanmasının geri bırakılmasına karar verilmez.
 (7) (Ek: 6/12/2006-5560/23 md.) Açıklanmasının geri bırakılmasına karar verilen hükümde, mahkûm olunan hapis cezası ertelenemez ve kısa süreli olması halinde seçenek yaptırımlara çevrilemez.
-(8) (Ek: 6/12/2006-5560/23 md.) Hükmün açıklanmasının geri bırakılması kararının verilmesi halinde sanık, beş yıl süreyle denetim süresine tâbi tutulur. Bu süre içinde bir yıldan fazla olmamak üzere mahkemenin belirleyeceği süreyle, sanığın denetimli serbestlik tedbiri olarak;
+(8) (Ek: 6/12/2006-5560/23 md.) Hükmün açıklanmasının geri bırakılması kararının verilmesi halinde sanık, beş yıl süreyle denetim süresine tâbi tutulur. (Ek cümle: 18/6/2014-6545/72 md.) Denetim süresi içinde, kişi hakkında kasıtlı bir suç nedeniyle bir daha hükmün açıklanmasının geri bırakılmasına karar verilemez. Bu süre içinde bir yıldan fazla olmamak üzere mahkemenin belirleyeceği süreyle, sanığın denetimli serbestlik tedbiri olarak;
 a) Bir meslek veya sanat sahibi olmaması halinde, meslek veya sanat sahibi olmasını sağlamak amacıyla bir eğitim programına devam etmesine,
 b) Bir meslek veya sanat sahibi olması halinde, bir kamu kurumunda veya özel olarak aynı meslek veya sanatı icra eden bir başkasının gözetimi altında ücret karşılığında çalıştırılmasına,
 c) Belli yerlere gitmekten yasaklanmasına, belli yerlere devam etmek hususunda yükümlü kılınmasına ya da takdir edilecek başka yükümlülüğü yerine getirmesine,
@@ -1020,7 +1045,7 @@ Madde 232 – (1) Hükmün başına, "Türk Milleti adına" verildiği yazılır
 (2) Hükmün başında;
 a) Hükmü veren mahkemenin adı,
 b) Hükmü veren mahkeme başkanının ve üyelerinin veya hâkimin, Cumhuriyet savcısının ve zabıt kâtibinin, katılanın, mağdurun, vekilinin, kanunî temsilcisinin ve müdafiin adı ve soyadı ile sanığın açık kimliği,
-9160-2 9161
+9161
 c) Beraat kararı dışında, suçun işlendiği yer, tarih ve zaman dilimi,
 d) Sanığın gözaltında veya tutuklu kaldığı tarih ve süre ile halen tutuklu olup olmadığı,
 Yazılır.
@@ -1074,7 +1099,7 @@ Katılma usulü
 Madde 238 – (1) Katılma, kamu davasının açılmasından sonra mahkemeye dilekçe verilmesi veya katılma istemini içeren sözlü başvurunun duruşma tutanağına geçirilmesi suretiyle olur.
 (2) Duruşma sırasında şikâyeti belirten ifade üzerine, suçtan zarar görenden davaya katılmak isteyip istemediği sorulur.
 (3) Cumhuriyet savcısının, sanık ve varsa müdafiinin dinlenmesinden sonra davaya katılma isteminin uygun olup olmadığına karar verilir.
-(4) Sulh ceza mahkemesinde açılmış olan davalarda katılma hususunda Cumhuriyet savcısının görüşü alınmaz.
+(4) (Mülga: 18/6/2014 - 6545/103 md.)
 9163
 Katılanın hakları
 Madde 239 – (1) (Değişik: 24/7/2008-5793/41 md.) Mağdur veya suçtan zarar gören davaya katıldığında, cinsel saldırı suçu ile alt sınırı beş yıldan fazla hapis cezasını gerektiren suçlarda, baro tarafından kendisine avukat görevlendirilmesini isteyebilir.
@@ -1234,7 +1259,7 @@ BİRİNCİ KISIM
 Genel Hükümler
 Kanun yollarına başvurma hakkı
 Madde 260 – (1) Hâkim ve mahkeme kararlarına karşı Cumhuriyet savcısı, şüpheli, sanık ve bu Kanuna göre katılan sıfatını almış olanlar ile katılma isteği karara bağlanmamış, reddedilmiş veya katılan sıfatını alabilecek surette suçtan zarar görmüş bulunanlar için kanun yolları açıktır.
-(2) Asliye ceza mahkemesinde bulunan Cumhuriyet savcıları, mahkemenin yargı çevresindeki sulh ceza mahkemelerinin; ağır ceza mahkemelerinde bulunan Cumhuriyet savcıları, ağır ceza mahkemesinin yargı çevresindeki asliye ve sulh ceza mahkemelerinin; bölge adliye mahkemesinde bulunan Cumhuriyet savcıları, bölge adliye mahkemelerinin kararlarına karşı kanun yollarına başvurabilirler.
+(2) (Değişik: 18/6/2014-6545/73 md.) Ağır ceza mahkemelerinde bulunan Cumhuriyet savcıları, ağır ceza mahkemesinin yargı çevresindeki asliye ceza mahkemelerinin; bölge adliye mahkemesinde bulunan Cumhuriyet savcıları, bölge adliye mahkemelerinin kararlarına karşı kanun yollarına başvurabilirler.
 9170
 (3) Cumhuriyet savcısı, sanık lehine olarak da kanun yollarına başvurabilir.
 Avukatın başvurma hakkı
@@ -1266,8 +1291,8 @@ Madde 267 – (1) Hâkim kararları ile kanunun gösterdiği hâllerde, mahkeme 
 Madde 268 – (1) Hâkim veya mahkeme kararına karşı itiraz, kanunun ayrıca hüküm koymadığı hâllerde 35 inci maddeye göre ilgililerin kararı öğrendiği günden itibaren yedi gün içinde kararı veren mercie verilecek bir dilekçe veya tutanağa geçirilmek koşulu ile zabıt kâtibine beyanda bulunmak suretiyle yapılır. Tutanakla tespit edilen beyanı ve imzayı mahkeme başkanı veya hâkim onaylar. 263 üncü madde hükmü saklıdır.
 (2) Kararına itiraz edilen hâkim veya mahkeme, itirazı yerinde görürse kararını düzeltir; yerinde görmezse en çok üç gün içinde, itirazı incelemeye yetkili olan mercie gönderir.
 (3) İtirazı incelemeye yetkili merciler aşağıda gösterilmiştir:
-a) Sulh ceza hâkiminin kararlarına yapılan itirazların incelenmesi, yargı çevresinde bulundukları asliye ceza mahkemesi hâkimine aittir.
-b) Sulh ceza işleri, asliye ceza hâkimi tarafından görülüyorsa itirazı inceleme yetkisi ağır ceza işlerini gören mahkeme başkanına aittir.
+a) (Değişik: 18/6/2014-6545/74 md.) Sulh ceza hâkimliği kararlarına yapılan itirazların incelenmesi, o yerde birden fazla sulh ceza hâkimliğinin bulunması hâlinde, numara olarak kendisini izleyen hâkimliğe; son numaralı hâkimlik için bir numaralı hâkimliğe; ağır ceza mahkemesinin bulunmadığı yerlerde tek sulh ceza hâkimliği varsa, yargı çevresinde görev yaptığı ağır ceza mahkemesinin bulunduğu yerdeki sulh ceza hâkimliğine; ağır ceza mahkemesinin bulunduğu yerlerde tek sulh ceza hâkimliği varsa, en yakın ağır ceza mahkemesinin bulunduğu yerdeki sulh ceza hâkimliğine aittir.
+b) (Değişik: 18/6/2014-6545/74 md.) İtiraz üzerine ilk defa sulh ceza hâkimliği tarafından verilen tutuklama kararlarına itiraz edilmesi durumunda da (a) bendindeki usul uygulanır. Ancak, ilk tutuklama talebini reddeden sulh ceza hâkimliği, tutuklama kararını itiraz mercii olarak inceleyemez.
 c) Asliye ceza mahkemesi hâkimi tarafından verilen kararlara yapılacak itirazların incelenmesi, yargı çevresinde bulundukları ağır ceza mahkemesine ve bu mahkeme ile başkanı tarafından verilen kararlar hakkındaki itirazların incelenmesi, o yerde ağır ceza mahkemesinin birden çok dairesinin bulunması hâlinde, numara olarak kendisini izleyen daireye; son numaralı daire için birinci daireye; o yerde ağır ceza mahkemesinin tek dairesi varsa, en yakın ağır ceza mahkemesine aittir.
 d) Naip hâkim kararlarına yapılacak itirazların incelenmesi, mensup oldukları ağır ceza mahkemesi başkanına, istinabe olunan mahkeme kararlarına karşı yukarıdaki bentlerde belirtilen esaslara göre bulundukları yerdeki mahkeme başkanı veya mahkemeye aittir.
 e) Bölge adliye mahkemesi ceza dairelerinin kararları ile Yargıtay ceza dairelerinin esas mahkeme olarak baktıkları davalarda verdikleri kararlara yapılan itirazlarda; üyenin kararını görevli olduğu dairenin başkanı, daire başkanı ile ceza dairesinin kararını numara itibarıyla izleyen ceza dairesi; son numaralı daire söz konusu ise birinci ceza dairesi inceler.
@@ -1296,10 +1321,9 @@ Karşı istinaf yoluna başvurulamaz.
 İstinaf istemi ve süresi
 Madde 273 – (1) İstinaf istemi, hükmün açıklanmasından itibaren yedi gün içinde hükmü veren mahkemeye bir dilekçe verilmesi veya zabıt kâtibine bir beyanda bulunulması suretiyle yapılır; beyan tutanağa geçirilir ve tutanak hâkime onaylattırılır. Tutuklu sanık hakkında 263 üncü madde hükmü saklıdır.
 (2) Hüküm, istinaf yoluna başvurma hakkı olanların yokluğunda açıklanmışsa, süre tebliğ tarihinden başlar.
-(3) Asliye ceza mahkemelerinde bulunan Cumhuriyet savcıları, mahkemelerinin yargı çevresi içerisindeki sulh ceza mahkemelerinin; ağır ceza mahkemelerinde bulunan Cumhuriyet savcıları, mahkemelerinin yargı çevresi içerisindeki asliye ve sulh ceza mahkemelerinin hükümlerine karşı, kararın o yer Cumhuriyet Başsavcılığına geliş tarihinden itibaren yedi gün içinde istinaf yoluna başvurabilirler.
+(3) (Değişik: 18/6/2014-6545/75 md.) Ağır ceza mahkemelerinde bulunan Cumhuriyet savcıları, mahkemelerinin yargı çevresi içerisindeki asliye mahkemelerinin hükümlerine karşı, kararın o yer Cumhuriyet başsavcılığına geliş tarihinden itibaren yedi gün içinde istinaf yoluna başvurabilirler.
 (4) Sanık ve bu Kanuna göre katılan sıfatını almış olanlar ile katılma isteği karara bağlanmamış, reddedilmiş veya katılan sıfatını alabilecek surette suçtan zarar görmüş bulunanların dilekçe veya beyanında, başvuruya ilişkin nedenlerin gösterilmemesi inceleme yapılmasına engel olmaz.
-(5) Cumhuriyet savcısı, istinaf yoluna başvurma nedenlerini gerekçeleriyle birlikte yazılı isteminde açıkça gösterir. Bu istem ilgililere tebliğ edilir. İlgililer, tebliğ tarihinden itibaren yedi gün içinde bu husustaki cevaplarını bildirebilirler.
-9173
+(5) Cumhuriyet savcısı, istinaf yoluna başvurma nedenlerini gerekçeleriyle birlikte yazılı isteminde açıkça gösterir. Bu istem ilgililere tebliğ edilir. İlgililer, tebliğ tarihinden itibaren yedi gün içinde bu husustaki cevaplarını bildirebilirler. 9173
 Eski hâle getirme süresi içinde istinaf süresinin işlemesi
 Madde 274 – (1) Sanık, yokluğunda aleyhine verilen hükümlere karşı eski hâle getirme isteminde bulunabilir. Eski hâle getirme süresi içinde de istinaf süresi işler. Sanığın eski hâle getirme isteminde bulunduğu hâllerde, ayrıca istinaf isteminde bulunması gerekir. Bu hâlde istinaf istemi ile ilişkili işler, eski hâle getirme istemi hakkında karar verilinceye kadar ertelenir.
 İstinaf başvurusunun etkisi
@@ -1318,13 +1342,14 @@ Dosya üzerinde ön inceleme
 Madde 279 – (1) Dosya üzerinde yapılan ön inceleme sonunda;
 a) Bölge adliye mahkemesinin yetkili olmadığının anlaşılması hâlinde dosyanın yetkili bölge adliye mahkemesine gönderilmesine,
 b) Bölge adliye mahkemesine başvurunun süresi içinde yapılmadığının, incelenmesi istenen kararın bölge adliye mahkemesinde incelenebilecek kararlardan olmadığının, başvuranın buna hakkı bulunmadığının anlaşılması hâlinde istinaf başvurusunun reddine,
-Karar verilir.
+Karar verilir. (Ek cümle: 18/6/2014-6545/76 md.) Bu kararlar itiraza tabidir.
 9174
-Bölge adliye mahkemesinde inceleme ve kovuşturma
+Bölge adliye mahkemesinde inceleme ve kovuşturma(1)
 Madde 280 – (1) Bölge adliye mahkemesi, Cumhuriyet Başsavcılığının tebliğnamesini, dosyayı ve dosyayla birlikte sunulmuş olan delilleri inceledikten sonra;
-a) İlk derece mahkemesinin kararında usule veya esasa ilişkin herhangi bir hukuka aykırılığın bulunmadığını, delillerde veya işlemlerde herhangi bir eksiklik olmadığını, ispat bakımından değerlendirmenin yerinde olduğunu saptadığında istinaf başvurusunun esastan reddine,
+a) İlk derece mahkemesinin kararında usule veya esasa ilişkin herhangi bir hukuka aykırılığın bulunmadığını, delillerde veya işlemlerde herhangi bir eksiklik olmadığını, ispat bakımından değerlendirmenin yerinde olduğunu saptadığında istinaf başvurusunun esastan reddine, 303 üncü maddenin birinci fıkrasının (c), (e), (f), (g) ve (h) bentlerinde yer alan ihlallerin varlığı hâlinde hukuka aykırılığın düzeltilerek istinaf başvurusunun esastan reddine, (1)
 b) İlk derece mahkemesinin kararında 289 uncu maddede belirtilen bir hukuka aykırılık nedeninin bulunması hâlinde hükmün bozulmasına ve dosyanın yeniden incelenmek ve hükmolunmak üzere hükmü bozulan ilk derece mahkemesine veya kendi yargı çevresinde uygun göreceği diğer bir ilk derece mahkemesine gönderilmesine,
-c) Diğer hâllerde, gerekli tedbirleri aldıktan sonra ilk derece mahkemesinin kararını kaldırarak davanın yeniden görülmesine ve duruşma hazırlığı işlemlerine başlanmasına,
+c) Diğer hâllerde, gerekli tedbirleri aldıktan sonra (…) davanın yeniden görülmesine ve duruşma hazırlığı işlemlerine başlanmasına,(1)
+(2) (Ek: 18/6/2014-6545/77 md.) Duruşma sonunda bölge adliye mahkemesi istinaf başvurusunu esastan reddeder veya ilk derece mahkemesi hükmünü kaldırarak yeniden hüküm kurar.
 Karar verir.
 Duruşma hazırlığı
 Madde 281 – (1) Duruşma hazırlığı aşamasında bölge adliye mahkemesi başkanı veya görevlendireceği üye, 175 inci madde hükümlerine uygun olarak duruşma gününü saptar; gerekli çağrıları yapar. Tutuksuz sanığa yapılacak çağrıda kendi başvurusu üzerine açılacak davanın duruşmasına gelmediğinde davasının reddedileceği ayrıca bildirilir.
@@ -1342,19 +1367,21 @@ Madde 284 – (1) Bölge adliye mahkemesi karar ve hükümlerine karşı direnil
 (2) İtiraz ve temyize ilişkin hükümler saklıdır.
 Özel kanunların temyize ilişkin hükümleri
 Madde 285 – (1) Türk Ceza Kanununun 18 inci maddesinin dördüncü fıkrası hükmü hariç; diğer kanunlarda temyiz edilebileceği veya haklarında Yargıtaya başvurulabileceği belirtilmiş olup da bölge adliye mahkemelerinin görev alanına giren dava ve işlere ilişkin ilk derece mahkemelerinin karar ve hükümlerine karşı istinaf yoluna başvurulur.
+______________
+(1) 18/6/2014 tarihli ve 6545 sayılı Kanunun 77 nci maddesiyle, bu maddenin birinci fıkrasının (a) bendine “303 üncü maddenin birinci fıkrasının (c), (e), (f), (g) ve (h) bentlerinde yer alan ihlallerin varlığı hâlinde hukuka aykırılığın düzeltilerek istinaf başvurusunun esastan reddine,” ibaresi eklenmiş; (c) bendinde yer alan “ilk derece mahkemesinin kararını kaldırarak” ibaresi madde metninden çıkarılmıştır.
 9175
 ÜÇÜNCÜ BÖLÜM
 Temyiz
-Temyiz
+Temyiz(1)
 Madde 286 – (1) Bölge adliye mahkemesi ceza dairelerinin bozma dışında kalan hükümleri temyiz edilebilir.
 (2) Ancak;
 a) İlk derece mahkemelerinden verilen beş yıl veya daha az hapis cezaları ile miktarı ne olursa olsun adlî para cezalarına karşı istinaf başvurusunun esastan reddine dair bölge adliye mahkemesi kararları,
 b) İlk derece mahkemelerinden verilen beş yıl veya daha az hapis cezalarını artırmayan bölge adliye mahkemesi kararları,
-c) Sulh ceza mahkemesinin görevine giren suçlarla ilgili olarak ilk derece mahkemelerinden verilen hükümlere ilişkin her türlü bölge adliye mahkemesi kararları,
-d) Adlî para cezasını gerektiren suçlarda ilk derece mahkemelerinden verilen hükümlere ilişkin suç niteliğini değiştirmeyen bölge adliye mahkemesi kararları,
-e) Sadece eşya veya kazanç müsaderesine veya bunlara yer olmadığına ilişkin ilk derece mahkemesi kararlarını değiştirmeyen bölge adliye mahkemesi kararları,
-f) On yıl veya daha az hapis cezasını veya adlî para cezasını gerektiren suçlardan, ilk derece mahkemesince verilen beraat kararları ile ilgili olarak bölge adliye mahkemesince verilen beraat kararları ile istinaf başvurusunun esastan reddine dair kararları,
-g) Davanın düşmesine, ceza verilmesine yer olmadığına, güvenlik tedbirine ilişkin ilk derece mahkemesi kararları ile ilgili olarak bölge adliye mahkemesince verilen davanın düşmesine, ceza verilmesine yer olmadığına, güvenlik tedbirine veya istinaf başvurusunun reddine dair kararlar,
+c) (Değişik: 18/6/2014-6545/78 md.) İlk derece mahkemelerinin görevine giren ve kanunda üst sınırı iki yıla kadar (iki yıl dâhil) hapis cezasını gerektiren suçlar ve bunlara bağlı adli para cezalarına ilişkin her türlü bölge adliye mahkemesi kararları,
+d) Adlî para cezasını gerektiren suçlarda ilk derece mahkemelerinden verilen hükümlere ilişkin her türlü bölge adliye mahkemesi kararları,(1)
+e) (Değişik: 18/6/2014-6545/78 md.) Sadece eşya veya kazanç müsaderesine veya bunlara yer olmadığına ilişkin ilk derece mahkemesi kararları ile ilgili olarak istinaf başvurusunun esastan reddine dair kararları,
+f) On yıl veya daha az hapis cezasını veya adlî para cezasını gerektiren suçlardan, ilk derece mahkemesince verilen beraat kararları ile ilgili olarak (…)(1) istinaf başvurusunun esastan reddine dair kararları,(1)
+g) (Değişik: 18/6/2014-6545/78 md.) Davanın düşmesine, ceza verilmesine yer olmadığına, güvenlik tedbirine ilişkin ilk derece mahkemesi kararları ile ilgili olarak bölge adliye mahkemesince verilen bu tür kararlar veya istinaf başvurusunun esastan reddine dair kararlar,
 h) Yukarıdaki bentlerde yer alan sınırlar içinde kalmak koşuluyla aynı hükümde, cezalardan ve kararlardan birden fazlasını içeren bölge adliye mahkemesi kararları,
 Temyiz edilemez.
 Hükümden önceki kararların temyizi
@@ -1368,6 +1395,8 @@ a) Mahkemenin kanuna uygun olarak teşekkül etmemiş olması.
 b) Hâkimlik görevini yapmaktan kanun gereğince yasaklanmış hâkimin hükme katılması.
 c) Geçerli şüphe nedeniyle hakkında ret istemi öne sürülmüş olup da bu istem kabul olunduğu hâlde hâkimin hükme katılması veya bu istemin kanuna aykırı olarak reddedilip hâkimin hükme katılması.
 d) Mahkemenin kanuna aykırı olarak davaya bakmaya kendini görevli veya yetkili görmesi.
+____________
+(1) 18/6/2014 tarihli ve 6545 sayılı Kanunun 78 inci maddesiyle bu maddenin ikinci fıkrasının (d) bendinde yer alan “suç niteliğini değiştirmeyen” ibaresi “her türlü” şeklinde değiştirilmiş; (f) bendinde yer alan “bölge adliye mahkemesince verilen beraat kararları ile” ibaresi madde metninden çıkarılmıştır.
 9176
 e) Cumhuriyet savcısı veya duruşmada kanunen mutlaka hazır bulunması gereken diğer kişilerin yokluğunda duruşma yapılması.
 f) Duruşmalı olarak verilen hükümde açıklık kuralının ihlâl edilmesi.
