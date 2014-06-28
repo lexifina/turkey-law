@@ -1,4 +1,10 @@
 Temyizen verilen karar üzerine yapılacak işlem:
-Madde 50 – (Değişik: 5/4/1990 - 3622/19 md.)
-Temyiz incelemesi sonucunda verilen karar, dosyayla birlikte kararı veren mahkeme veya Danıştay dairesine gönderilir. Bu karar, dosyanın mahkeme veya Danıştay dairesine geldiği tarihten itibaren yedi gün içinde taraflara tebliğ edilir.
+Madde 50 – (Değişik: 18/6/2014-6545/23 md.)
+1. Temyiz incelemesi sonucunda verilen karar, dosyayla birlikte kararı veren mercie gönderilir. Bu karar, dosyanın geldiği tarihten itibaren yedi gün içinde taraflara tebliğe çıkarılır.
+2. Temyiz incelemesi sonucunda verilen bozma kararı üzerine ilgili merci, dosyayı öncelikle inceler ve varsa gerekli tahkik işlemlerini tamamlayarak yeniden karar verir.
+3. Bölge idare mahkemesi, Danıştayca verilen bozma kararına uyabileceği gibi kararında ısrar da edebilir.
+4. Danıştayın bozma kararına uyulduğu takdirde, bu kararın temyiz incelemesi, bozma kararına uygunlukla sınırlı olarak yapılır.
+5. Bölge idare mahkemesi, bozmaya uymayarak kararında ısrar ederse, ısrar kararının temyizi hâlinde, talep, konusuna göre Danıştay İdari veya Vergi Dava Daireleri Kurulunca incelenir ve karara bağlanır. Danıştay İdari ve Vergi Dava Daireleri Kurulları kararlarına uyulması zorunludur.
+–––––––––––––––
+(1) Bu madde başlığı “Kararın bozulması:” iken, 18/6/2014 tarihli ve 6545 sayılı Kanunun 22 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 5482

@@ -8,5 +8,8 @@ e) 3/b bendinde yazılı halde dilekçelerin görevli idare merciine tevdiine,
 Karar verilir.
 2. Dilekçelerin görevli mercie tevdii halinde, Danıştaya veya ilgili mahkemeye başvurma tarihi, merciine başvurma tarihi olarak kabul edilir.
 3. Dilekçelerin 3 ncü maddeye uygun olmamaları dolayısıyla reddi halinde yeni dilekçeler için ayrıca harç alınmaz.
-4. (Değişik: 10/6/1994 - 4001/7 md.) İlk inceleme üzerine Danıştay veya mahkemelerce verilen; bu maddenin 1/a bendinde belirtilen idari yargının görevli olduğu konularda davanın görev ve yetki yönünden reddine ilişkin kararlarla, 1/c bendinde yazılı gerçek hasma tebliğ ve 1/d bendindeki dilekçe red kararları dışında, kararın düzeltilmesi veya temyiz yoluna; tek hakim kararına karşı ise itiraz yoluna başvurulabilir.
+4. (Değişik: 10/6/1994 - 4001/7 md.) İlk inceleme üzerine Danıştay veya mahkemelerce verilen; bu maddenin 1/a bendinde belirtilen idari yargının görevli olduğu konularda davanın görev ve yetki yönünden reddine ilişkin kararlarla, 1/c bendinde yazılı gerçek hasma tebliğ ve 1/d bendindeki dilekçe red kararları dışında, ilgisine göre istinaf ya da temyiz yoluna başvurulabilir. (1)
 5. (Ek: 5/4/1990 - 3622/6 md.) 1 inci fıkranın (d) bendine göre dilekçenin reddedilmesi üzerine, yeniden verilen dilekçelerde aynı yanlışlıklar yapıldığı takdirde dava reddedilir.
+–––––––––––––––
+(1) 18/6/2014 tarihli ve 6545 sayılı Kanunun 15 inci maddesiyle, bu fıkrada yer alan “kararın düzeltilmesi veya temyiz yoluna; tek hâkim kararına karşı ise itiraz yoluna” ibaresi “ilgisine göre istinaf ya da temyiz yoluna” şeklinde değiştirilmiştir.
+5472

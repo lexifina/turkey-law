@@ -1,2 +1,2 @@
 Denetleme
-Madde 48- Bölge adliye mahkemeleri ve bölge adliye mahkemeleri Cumhuriyet başsavcılıkları ile bölge adliye mahkemeleri adalet komisyonlarının denetimleri, adalet başmüfettişlerince yapılır.
+Madde 48- Bölge adliye mahkemeleri ve bölge adliye mahkemeleri Cumhuriyet başsavcılıkları ile bölge adliye mahkemeleri adalet komisyonlarının denetimleri, ilgisine göre Hâkimler ve Savcılar Yüksek Kurulu başmüfettişleri veya adalet başmüfettişlerince yapılır.(2)

@@ -1,2 +1,1 @@
-Madde 30 – Yargıtay Birinci Başkanı ve Yargıtay Cumhuriyet Başsavcısı seçilebilmek için en az dört yıl, Birinci Başkanvekili, daire başkanı ve Yargıtay Cumhuriyet Başsavcıvekili seçilebilmek için en az üç yıl süre ile Yargıtay üyeliği yapmış olmak zorunludur. Bu süreler Yargıtay üyeliğine başlama tarihinden hesaplanır.
-5591
+Madde 30 – (Değişik birinci cümle: 18/6/2014-6545/33 md.) Yargıtay Birinci Başkanı seçilebilmek için en az on yıl, Yargıtay Cumhuriyet Başsavcısı, Birinci Başkanvekili ve Yargıtay Cumhuriyet Başsavcıvekili seçilebilmek için en az beş yıl, daire başkanı seçilebilmek için en az üç yıl süreyle Yargıtay üyeliği yapmış olmak zorunludur. Bu süreler Yargıtay üyeliğine başlama tarihinden hesaplanır.

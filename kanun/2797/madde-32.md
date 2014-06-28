@@ -1,5 +1,5 @@
 Madde 32 – Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili, Yargıtay Büyük Genel Kurulunun, kendi üyeleri içinden göstereceği adaylar arasından Cumhurbaşkanı tarafından seçilir.
-Yargıtay Büyük Genel Kurulu, Yargıtay Cumhuriyet Başsavcısı adaylarını belirlemek için üye tamsayısının çoğunluğu ile toplanır. Adaylar gizli oyla tespit edilir. İlk oylamada en çok oy alan beş üye aday gösterilmiş olur.
+Yargıtay Büyük Genel Kurulu, Yargıtay Cumhuriyet Başsavcısı adaylarını belirlemek için üye tamsayısının çoğunluğu ile toplanır. (Ek cümle: 18/6/2014-6545/35 md.) Her üye, ancak bir adaya oy verebilir. Adaylar gizli oyla tespit edilir. İlk oylamada en çok oy alan beş üye aday gösterilmiş olur.
 İlk oylamada oy alanların sayısı beşten az ise, aynı gün yapılacak diğer oylamalarla noksan adaylar tamamlanır.
 Aday tespiti için yapılan oylamada ; oyların eşitliği nedeniyle beşten fazla aday belirlenmesi halinde, eşit oy alan adaylardan Yargıtay üyeliğinde kıdemli olanı, kıdem eşitliği halinde ise yaşlı olanı aday gösterilmiş sayılarak beş aday tespit edilir.
 _________________________

@@ -1,6 +1,6 @@
 Birinci Başkanlık Kurulu Üyelerinin nitelik ve seçimleri:
 Madde 33 –(Mülga birinci fıkra: 9/2/2011 – 6110/14 md.)
-Birinci Başkanlık Kuruluna seçilecek iki asıl daire başkanı ile bir yedek daire başkanı ve iki asıl üye ile bir yedek üye hukuk dairelerinden; iki asıl daire başkanı ile bir yedek daire başkanı ve iki asıl üye ile bir yedek üye ceza dairelerinden olmak üzere Yargıtay Büyük Genel Kurulunca seçilir. Birinci Başkanlık Kurulu üyeliğine aynı daireden birden fazla kimse seçilemez.
+Birinci Başkanlık Kuruluna seçilecek üç asıl daire başkanı ile iki yedek daire başkanı ve üç asıl üye ile iki yedek üye hukuk dairelerinden; üç asıl daire başkanı ile iki yedek daire başkanı ve üç asıl üye ile iki yedek üye ceza dairelerinden olmak üzere Yargıtay Büyük Genel Kurulunca seçilir. (Ek cümle: 18/6/2014-6545/36 md.) Birinci Başkanlık Kuruluna üye seçilebilmek için üç yıl süreyle Yargıtay üyeliğinde çalışmış olmak şarttır. Birinci Başkanlık Kurulu üyeliğine aynı daireden birden fazla kimse seçilemez. (1)
 Asıl üyelerden birinin Kurula katılamaması halinde noksanlık yedeği ile tamamlanır.
 Birinci Başkanlık Kurulu, üye tam sayısı ile toplanır.
 Birinci Başkanlık Kurulu üyeleri kendileri ile ilgili konularda kurul toplantılarına katılamazlar.

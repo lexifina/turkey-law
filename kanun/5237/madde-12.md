@@ -6,3 +6,4 @@ a) Suçun, Türk kanunlarına göre aşağı sınırı üç yıldan az olmayan h
 8968
 b) Suçluların geri verilmesi anlaşmasının bulunmaması veya geri verilme isteminin suçun işlendiği ülkenin veya failin uyruğunda bulunduğu devletin hükûmeti tarafından kabul edilmemiş olması.
 (4) Birinci fıkra kapsamına giren suçtan dolayı yabancı mahkemece mahkûm edilen veya herhangi bir nedenle davası veya cezası düşen veya beraat eden yahut suçu kovuşturulabilir olmaktan çıkan yabancı hakkında Adalet Bakanının istemi üzerine Türkiye'de yeniden yargılama yapılır.
+(5) (Ek: 18/6/2014-6545/56 md.) Birinci fıkra kapsamına giren hâllerde rüşvet ve nüfuz ticareti suçlarından dolayı yargılama yapılması Adalet Bakanının istemine bağlı değildir.
