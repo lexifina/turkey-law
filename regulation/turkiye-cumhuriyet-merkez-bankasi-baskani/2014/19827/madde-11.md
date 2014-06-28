@@ -1,0 +1,4 @@
+Önlem alınmasını gerektiren haller ve alınacak tedbirler
+MADDE 11 – (1) Banka, gözetim faaliyetleri sonucunda sistemin sorunsuz işleyişini olumsuz etkileyebilecek bulgular tespit etmesi durumunda sistem işleticisinin alması gereken önlemleri belirlemeye ve belirleyeceği süre içerisinde sistem işleticisinden bu önlemlerin uygulanmasını istemeye yetkilidir. Banka sistem işleticisinin talebi üzerine bu süreyi uzatabilir.
+(2) Banka, gözetim faaliyetleri kapsamında Kanunun 9 uncu maddesinin birinci fıkrasındaki hususları tespit etmesi durumunda, ihlalin ağırlığına göre Kanunun 9 uncu maddesinin ikinci fıkrasında yer alan tedbirlerden birini veya birkaçını uygular.
+(3) Banka, gözetim faaliyetleri kapsamında Kanunda, Kanuna ilişkin düzenlemelerde ve alınan kararlarda yer alan ve Kanunda ayrı bir cezai yaptırım öngörülmeyen hususlara aykırı davrandığını tespit ettiği sistem işleticisi hakkında Kanunun 27 nci maddesi hükümlerini uygular.

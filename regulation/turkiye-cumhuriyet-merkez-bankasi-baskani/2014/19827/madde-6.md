@@ -1,0 +1,4 @@
+Gözetim çalışmalarında istenecek kayıt, bilgi ve belgeler
+MADDE 6 – (1) Banka, yürüteceği gözetim faaliyetleri kapsamında ilgili kişi, kurum ve kuruluşlardan her türlü kayıt, bilgi ve belgeyi istemeye yetkilidir.
+(2) Sistem işleticisi, 5 inci maddenin ikinci fıkrasında sayılan kişiler ile sistem işleticisinin ortakları, bağlı ortaklıkları, iştirakleri ve birlikte kontrol edilen ortaklıklarına ilişkin olanlar da dahil, Banka tarafından Kanunun 8 inci maddesi uyarınca istenen her türlü bilgi ve belgeyi vermekle yükümlüdür. Bu fıkra uyarınca Banka ile bilgi ve belge paylaşılması Kanun ve diğer kanunlarda yer alan sır saklama yükümlülüğüne ve gizlilik kurallarına aykırılık oluşturmaz.
+(3) Gözetim faaliyetleri kapsamında istenecek bilgi ve belgelerin hangi yollarla ve hangi sıklıkta Bankaya iletileceği Bankaca belirlenir.

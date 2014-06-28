@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Bilgi Sistemlerinin Gözetimi, Öz Değerlendirme ve Bağımsız Denetim
+Bilgi sistemlerinin gözetimi
+MADDE 7 – (1) Sistem işleticisinin bilgi sistemlerine ilişkin yürütülen gözetim faaliyetleri Bankanın gözetim faaliyetlerinin ayrılmaz bir parçasını oluşturur.
+(2) Banka gerek gördüğü durumlarda kendi gözetim çalışmalarına ilave olarak sistem işleticisinin bilgi sistemlerinin bağımsız denetim kuruluşlarınca denetlenmesini isteyebilir.
+(3) İkinci fıkra uyarınca sistem işleticisinin bilgi sistemlerine ilişkin yürütülecek denetim faaliyeti Bankacılık Düzenleme ve Denetleme Kurumu tarafından yayımlanan Bankalarda Bilgi Sistemi Denetimi Yapmaya Yetkili Bağımsız Denetim Kuruluşları listesinde yer alan bağımsız denetim kuruluşlarınca yapılır. Banka, gerek görmesi durumunda sistem işleticileri tarafından, bu listede yer alan bir bağımsız denetim kuruluşundan bu madde uyarınca bağımsız denetim hizmeti alınmamasına veya bu listede yer almayan bir bağımsız denetim kuruluşunun sistem işleticileri nezdinde bilgi sistemleri denetimi yapabilmesine karar vermeye yetkilidir.
+(4) Bağımsız denetim kuruluşu, ikinci fıkra uyarınca gerçekleştirdiği denetim faaliyetleri sonucunda oluşturacağı raporları sistem işleticisi ile eşzamanlı olarak Bankayla da paylaşır. Banka, ihtiyaç duyması halinde bağımsız denetim faaliyetine ilişkin hususlarda bağımsız denetim kuruluşundan veya sistem işleticisinden ilave açıklama talep edebilir.
+(5) Banka, gerek görmesi durumunda bilgi sistemlerine ilişkin yürütülecek bağımsız denetim faaliyetlerine ilişkin ilke, usul ve esasları belirlemek üzere tebliğ, genelge ve talimat çıkarmaya yetkilidir.
