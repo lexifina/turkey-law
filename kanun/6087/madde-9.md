@@ -21,8 +21,6 @@ b) Genel Kurul tarafından verilen diğer işleri yapmak.
 (3) Üçüncü Dairenin görevleri şunlardır:
 a) Hâkim ve savcı adaylarını mesleğe kabul etmek.
 b) Hâkim ve savcıların görevlerini; kanun, tüzük, yönetmelik ve genelgelere (hâkimler için idarî nitelikteki genelgelere) uygun olarak yapıp yapmadıklarına ilişkin denetleme işlemlerini Teftiş Kuruluna yaptırmak.
-_____________________
-(1) Bu fıkranın birinci ve ikinci cümleleri, Anayasa Mahkemesi’nin 10/4/2014 tarihli ve E.: 2014/57, K.: 2014/81 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 14/5/2014 tarihinden başlayarak üç ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
 10690
 c) Hâkim ve savcılar hakkındaki ihbar ve şikâyetleri inceleyip gereğini yapmak.
 ç) Hâkim ve savcıların görevlerinden dolayı veya görevleri sırasında suç işleyip işlemediklerini, hâl ve eylemlerinin sıfat ve görevleri icaplarına uyup uymadığını Kurul müfettişleri veya müfettiş yetkilerini haiz kıdemli hâkim veya savcı eliyle araştırma ve gerektiğinde haklarında inceleme ve soruşturma işlemleri ile inceleme ve soruşturma yapılmasına yer olmadığına ilişkin işlemler için teklifte bulunmak.(1)

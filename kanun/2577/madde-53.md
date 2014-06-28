@@ -1,6 +1,11 @@
 Yargılamanın yenilenmesi:
 Madde 53 – 1. (Değişik birinci cümle: 5/4/1990 - 3622/22 md.) Danıştay ile bölge idare, idare ve vergi mahkemelerinden verilen kararlar hakkında, aşağıda yazılı sebepler dolayısıyla yargılamanın yenilenmesi istenebilir.
 a) Zorlayıcı sebepler dolayısıyla veya lehine karar verilen tarafın eyleminden doğan bir sebeple elde edilemeyen bir belgenin kararın verilmesinden sonra ele geçirilmiş olması,
+–––––––––––––––
+(1) Bu madde başlığı “Kanun yararına bozma:” iken, 18/6/2014 tarihli ve 6545 sayılı Kanunun 24 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(2) 18/6/2014 tarihli ve 6545 sayılı Kanunun 24 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “Bölge idare mahkemesi kararları ile idare ve vergi mahkemelerince ve Danıştayca ilk derece mahkemesi olarak verilip” ibaresi “İdare ve vergi mahkemeleri ile bölge idare mahkemelerinin kesin olarak verdiği kararlar ile istinaf veya” şeklinde ve ikinci fıkrasında yer alan “mahkeme veya Danıştay” ibaresi “merci” şeklinde değiştirilmiştir.
+(3) 18/6/2014 tarihli ve 6545 sayılı Kanunun 25 inci maddesiyle, bu maddenin başlığında yer alan “itiraz” ibaresi “istinaf” şeklinde; birinci fıkrasında yer alan “itiraz yoluna” ibaresi “istinaf yoluna” şeklinde; “itirazı” ibaresi “istinaf başvurusunu” şeklinde ve son cümlesinde yer alan “kararların temyizi” ibaresi “kararlara karşı temyiz ya da istinaf yoluna başvurulması” şeklinde değiştirilmiştir.
+5482-1
 b) Karara esas olarak alınan belgenin, sahteliğine hükmedilmiş veya sahte olduğu mahkeme veya resmi bir makam huzurunda ikrar olunmuş veya sahtelik hakkındaki hüküm karardan evvel verilmiş olup da, yargılamanın yenilenmesini isteyen kimsenin karar zamanında bundan haberi bulunmamış olması,
 c) Karara esas olarak alınan bir ilam hükmünün, kesinleşen bir mahkeme kararıyla bozularak ortadan kalkması,
 d) Bilirkişinin kasıtla gerçeğe aykırı beyanda bulunduğunun mahkeme kararıyla belirlenmesi,
@@ -11,6 +16,3 @@ h) (Değişik: 10/6/1994 - 4001/23 md.) Tarafları,konusu ve sebebi aynı olan b
 ı) (Ek: 15/7/2003-4928/6 md.) Hükmün, İnsan Haklarını ve Ana Hürriyetleri Korumaya Dair Sözleşmenin veya eki protokollerin ihlâli suretiyle verildiğinin, Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararıyla tespit edilmiş olması.
 2. Yargılamanın yenilenmesi istekleri esas kararı vermiş olan mahkemece karara bağlanır.
 3. (Değişik birinci cümle: 15/7/2003-4928/6 md.)Yargılamanın yenilenmesi süresi, (1) numaralı fıkranın (h) bendinde yazılı sebep için on yıl, (1) numaralı fıkranın (ı) bendinde yazılı sebep için Avrupa İnsan Hakları Mahkemesi kararının kesinleştiği tarihten itibaren bir yıl ve diğer sebepler için altmış gündür. Bu süreler,dayanılan sebebin istemde bulunan yönünden gerçekleştiği tarihi izleyen günden başlatılarak hesaplanır.(1)
-__________________
-(1) 3 numaralı fıkra, 10/6/1994 tarihli ve 4001 sayılı Kanunun 23 üncü maddesi hükmüdür.
-5483

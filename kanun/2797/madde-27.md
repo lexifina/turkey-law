@@ -14,7 +14,7 @@ Madde 27 – Yargıtay Cumhuriyet Başsavcısının görevleri şunlardır:
 12. Yargıtay Büyük Genel Kurulu ile Ceza Genel Kurulundaki içtihadların birleştirilmesi müzakere ve kararlarına katılıp oyunu kullanmak,
 13. Siyasi partiler ve diğer kanunlarla verilen görevleri yerine getirmek.
 Yargıtay Cumhuriyet Başsavcıvekilinin görevleri şunlardır:
-Yargıtay Cumhuriyet Başsavcısının kanuni nedenlerle görevi başında bulunmaması halinde, kanunların bizzat Yargıtay Cumhuriyet Başsavcısı tarafından yapılmasını öngördüğü görevler dahil, Yargıtay Cumhuriyet Başsavcısının tüm görevlerini yerine getirmek,
+1. Yargıtay Cumhuriyet Başsavcısının kanuni nedenlerle görevi başında bulunmaması halinde, kanunların bizzat Yargıtay Cumhuriyet Başsavcısı tarafından yapılmasını öngördüğü görevler dahil, Yargıtay Cumhuriyet Başsavcısının tüm görevlerini yerine getirmek,
 2. Ayrıca, Yargıtay Cumhuriyet Başsavcısı görevi başında bulunsa dahi kanunların bizzat Yargıtay Cumhuriyet Başsavcısı tarafından yapılmasını öngördüğü görevler dahil olmak üzere Yargıtay Cumhuriyet Başsavcısının vereceği işleri ifa etmek,
 3. Yargıtay Büyük Genel Kurulu ile Ceza Genel Kurulundaki içtihadların birleştirilmesi müzakere ve kararlarına katılıp oyunu kullanmak.
 Yargıtay Cumhuriyet Başsavcı Başyardımcısı ile yardımcılarının görevleri:

@@ -721,11 +721,12 @@ b) (Anayasa Mahkemesi’nin 20/10/2011 tarihli ve E.: 2011/54,
 K.: 2011/142 sayılı Kararı ile.) (…) (…)
 c) Danıştaya yapılacak temyiz başvurularında (123,60 T.L) 90 TL
 d) Yürütmenin durdurulmasına ilişkin itirazlar dahil olmak üzere bölge
-idare mahkemelerine itirazen yapılacak başvurularda (68,60 T.L) 50 TL
+idare mahkemelerine yapılacak istinaf yolu başvurularında(4) (68,60 T.L) 50 TL
 ––––––––––––––––––––
 (1) Bu alt bentlerde yer alan “Bölge Adliye Mahkemeleri” ibaresi, 26/9/2004 tarihli ve 5235 sayılı Kanunun 52 nci maddesiyle, 1/4/2005 tarihinden geçerli olmak üzere eklenmiş ve metne işlenmiştir.
 (2) Bu kısmın başlığı “Temyiz ve itiraz harçları: “ iken, 31/3/2011 tarihli ve 6217 sayılı Kanunun 13 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 (3) Bu kısmın (b) fıkrası Anayasa Mahkemesi’nin 20/10/2011 tarihli ve E.: 2011/54, K.: 2011/142 sayılı Kararı ile iptal edilmiş olup, Kararın Resmi Gazete’de yayımlandığı 29/12/2011 tarihinden başlayarak altı ay sonra yürürlüğe girmesi hüküm altına alınmıştır.
+(4) Bu alt bentte yer alan “itirazen yapılacak başvurularda” ibaresi, 18/6/2014 tarihli ve 6545 sayılı Kanunun 2 nci maddesiyle “yapılacak istinaf yolu başvurularında” şeklinde değiştirilmiştir.
 3928-1
 e) Bölge adliye mahkemeleri hukuk dairelerine yapılacak istinaf yolu
 başvurularında (68,60 T.L) 50 TL
@@ -919,7 +920,7 @@ b) Danıştaya başvurma (52,40 TL.) 121.600 TL.
 c) (Ek: 4/6/2008-5766/11 md.) Danıştay’a temyiz başvu-
 rularında (109,20 TL.) 60 YTL
 d) (Ek: 4/6/2008-5766/11 md.) Bölge İdare Mahkemesi-
-ne itirazen yapılan başvurularda (72,80 TL.) 40 YTL
+ne yapılacak istinaf yolu başvurularında(2) (72,80 TL.) 40 YTL
 II–Nispi harçlar :
 a)Vergi mahkemesi ile bölge idare mahkemesi kararlarında :
 Tarhiyata ve ceza kesme işlemlerine karşı mükellefin dava açması üzerine vergi mahkemesinin nihai kararları ile bölge idare mahkemesinin kararlarında, karar altına alınan uyuşmazlık konusu vergi, resim, harç ve benzeri mali yükümler ile bunlara bağlı zam ve cezaların toplam değeri üzerinden 60.000 (25,20 TL.) liradan az olmamak üzere (Binde 4,55) Binde 2,4
@@ -944,6 +945,7 @@ I–Tapu İşlemleri :
 cilinden takdir olunan değer üzerinden (Binde 11,38) Binde 6
 ——————————
 (1) Bu tarifede 4/5/1994 tarihli ve 3986 sayılı Kanunla getirilmiş olan miktarlar aynen bırakılmış olup, 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının 71 Seri No’lu Tebliği ile 1/1/2014 tarihinden itibaren uygulanacak maktu harç miktarları metne parantez içinde siyah punto ile işlenmiştir. Daha önce bu tarifede değişiklik yapan mevzuat için, Kanunun sonunda yer alan Mevzuat İzleme Cetveline bakınız.
+(2) Bu alt bentte yer alan “itirazen yapılacak başvurularda” ibaresi, 18/6/2014 tarihli ve 6545 sayılı Kanunun 2 nci maddesiyle “yapılacak istinaf yolu başvurularında” şeklinde değiştirilmiştir.
 3934
 Uygulanan Kanunla Getirilen
 Miktar Miktar
