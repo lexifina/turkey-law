@@ -1,0 +1,25 @@
+İhracat kayıtları
+MADDE 5 – (1) İhracat işlemleri ile ilgili olarak oluşturulacak elektronik kayıtlarda, asgari olarak aşağıdaki unsurlara yer verilmesi gerekmektedir.
+a) Yevmiye tarihi,
+b) Yevmiye numarası,
+c) Belge tarihi,
+ç) Belge seri-sıra no,
+d) Alıcı adı veya unvanı,
+e) Alıcı soyadı,
+f) Alıcının ülkesi,
+g) Alıcının kodu,
+ğ) İhracatın gerçekleştirildiği gümrük idaresi,
+h) Fiili ihracat tarihi,
+ı) Gümrük beyannamesi tescil tarihi,
+i) Gümrük beyannamesi tescil numarası,
+j) İhraç edilen malın G.T.İ.P. numarası,
+k) Ürün kodu,
+l) İhraç edilen her bir mal veya sunulan her bir hizmetin cinsi (ad, marka, model ve benzeri ayırt edici özellikler),
+m) İhraç edilen her bir mal cinsine ilişkin brüt miktar,
+n) İhraç edilen her bir mal cinsine ilişkin net miktar,
+o) Ölçü birimi (lt, adet, kg vb),
+ö) İhraç edilen her bir mal veya sunulan her bir hizmet cinsine ilişkin birim fiyat,
+p) İhraç edilen her bir mal veya sunulan her bir hizmet cinsine ilişkin toplam tutar,
+r) Belge toplam tutarı,
+s) İhracat bedelinin ödendiği hesaba ilişkin bankanın adı/şubesi ve IBAN’ı.
+(2) Mükellefler, ihracat işlemlerine ilişkin kayıtlarda yer alan mal ve hizmet tanımlamaları için kullanacakları ifadenin tekilliğini sağlamak zorundadır.

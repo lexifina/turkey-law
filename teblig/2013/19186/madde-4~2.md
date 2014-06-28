@@ -1,0 +1,27 @@
+İthalat kayıtları
+MADDE 4 – (1) İthalat işlemleri ile ilgili olarak oluşturulacak elektronik kayıtlarda, asgari olarak aşağıdaki unsurlara yer verilmesi gerekmektedir;
+a) Yevmiye tarihi,
+b) Yevmiye numarası,
+c) Belge tarihi,
+ç) Belge seri-sıra no,
+d) Satıcının adı veya unvanı,
+e) Satıcının soyadı,
+f) Satıcının ülkesi,
+g) Satıcının kodu,
+ğ) İthalatın gerçekleştirildiği gümrük idaresi,
+h) Fiili ithalat tarihi,
+ı) Fiili ithalat miktarı,
+i) Gümrük beyannamesi tescil tarihi,
+j) Gümrük beyannamesi tescil numarası,
+k) İthal edilen malın G.T.İ.P. numarası,
+l) Ürün kodu,
+m) İthal edilen her bir mal veya sunulan her bir hizmetin cinsi (ad, marka, model ve benzeri ayırt edici özellikler),
+n) İthal edilen her bir mal cinsine ilişkin brüt miktar,
+o) İthal edilen her bir mal cinsine ilişkin net miktar,
+ö) Ölçü birimi (lt, adet, kg vb),
+p) İthal edilen her bir mal veya sunulan her bir hizmet cinsine ilişkin birim fiyat,
+r) İthal her bir mal veya sunulan her bir hizmet cinsine ilişkin toplam tutar,
+s) İthalat işlemleri ile ilgili her bir vergi türü itibarıyla vergi yükümlülükleri (KDV, ÖTV gibi.),
+ş) Belge toplam tutarı,
+t) İthalat bedelinin ödendiği hesaba ilişkin bankanın adı/şubesi ve IBAN’ı.
+(2) Mükellefler, ithalat işlemlerine ilişkin kayıtlarda yer alan mal ve hizmet tanımlamaları için kullanacakları ifadenin tekilliğini sağlamak zorundadır.

@@ -1,0 +1,36 @@
+{
+  "source_id": "9.5.19186",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 431)",
+  "number": "19186",
+  "path": "teblig/2013/19186",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19186&MevzuatTertip=5",
+  "source_sha256": "698995eeaba024f5c90625dabca52089c4b1e793ece041fb260fe9afc84b3580",
+  "source_bytes": 37842,
+  "published": "2013-12-29",
+  "gazette": "28866",
+  "in_force": "2014-06-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/6/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-06-28",
+      "RG-28/6/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ (Değişik ibare:RG-28/6/2014-29044) 1/1/2015 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2598,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

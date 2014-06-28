@@ -1,0 +1,3 @@
+Kayıtların oluşturulması, muhafazası ve ibrazı
+MADDE 4 – (1) Bu Tebliğ ile belirlenen usul ve esaslara uygun kayıtların, elektronik ortamda oluşturulması ve istenildiğinde ibraz edilmek üzere yine elektronik ortamda muhafaza edilmesi zorunludur. Tebliğ ekinde belirlenen konulara ilişkin kayıtlar, Tebliğ ekinde belirlenen asgari içeriğe sahip olacak şekilde ve yasal defterlerin tutulduğu para birimi kullanılarak oluşturulur. Ancak mükellefler, ihtiyaç duymaları halinde söz konusu kayıtlara, belirlenen asgari içeriğe ilave bilgiler de ekleyebilirler. Bu durumda, muhafaza ve ibraz yükümlülüğü ilave bilgileri de kapsar.
+(2) Mükellefler, bu Tebliğ kapsamındaki kayıtlara ilişkin oluşturma işlemini, işlemlerin yasal defterlere kaydedilmesi ile birlikte tamamlamak zorundadır.
