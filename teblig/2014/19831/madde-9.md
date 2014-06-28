@@ -1,0 +1,3 @@
+İthal eşyasının Türkiye’de çoğaltılması hakkı için yapılan ödemeler
+MADDE 9 – (1) İthal eşyasının gümrük kıymetinin belirlenmesi sırasında, Türkiye'de çoğaltılması hakkı için yapılan ödemeler ve Türkiye'ye ihraç amacıyla satışında bir satış koşulu olmaması kaydıyla, dağıtım veya tekrar satış hakları için alıcının yaptığı ödemeler, Gümrük Kanununun 27 nci maddesinin birinci fıkrasının (c) bendi kapsamında değerlendirilmez ve fiilen ödenen veya ödenecek fiyata ilave edilmez.
+(2) Çoğaltma hakkı ifadesi; ithal eşyasının fiziki olarak çoğaltılmasının ötesinde bir anlam içermekte olup, ithal eşyasına dahil edilen buluş, kreasyon, düşünce veya fikirleri de kapsayabilmektedir.

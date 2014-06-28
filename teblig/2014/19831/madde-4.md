@@ -1,0 +1,3 @@
+İthal eşyasına ilişkin royalti veya lisans ücretleri
+MADDE 4 – (1) 4458 sayılı Gümrük Kanununun 27 nci maddesinin birinci fıkrasının (c) bendi uyarınca kıymeti belirlenecek eşyanın satış koşulu olarak, alıcının doğrudan veya dolaylı olarak ödemesi gereken, fiilen ödenen veya ödenecek fiyata dahil edilmemiş royalti veya lisans ücretleri gümrük kıymetine dahil edilir.
+(2) Royalti veya lisans ücretlerine ilişkin alınacak kararlar nesnel ve ölçülebilir verilere dayanmalıdır. Bu tür verilerin olmadığı anlaşıldığında satış bedeli 24 üncü madde hükümlerine göre belirlenemez. Bu durumda eşyanın gümrük kıymeti Gümrük Kanununun 25 ve 26 ncı maddelerine göre tespit edilir.

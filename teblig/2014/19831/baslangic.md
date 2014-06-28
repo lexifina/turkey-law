@@ -1,0 +1,1 @@
+GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK KIYMETİ) (SERİ NO: 2)

@@ -1,0 +1,10 @@
+Royalti veya lisans ücretinin ithal eşyasının satış koşulu olması
+MADDE 7 – (1) Royalti veya lisans ücretinin kıymeti belirlenecek eşyanın satış koşulu olması, ithal edilen eşyaya ilişkin olarak ithalatçı tarafından yapılan veya yapılacak royalti veya lisans ödemesinin ihracatçı ve ithalatçı arasındaki alım-satımın gerçekleşmesinde vazgeçilmez ve esaslı bir unsur olmasını ifade eder.
+(2) Alıcının royalti veya lisans ücretini satış koşulu olarak ödeyip ödemediğinin tespitinde belirleyici unsurlardan biri, alıcının söz konusu eşyaları royalti veya lisans ödemesi yapmadan alıp alamayacağıdır. Royalti veya lisans ücreti satışın koşulu olarak ödendiği sürece üçüncü kişiye ödeme yapılmasının satıcıya yapılan ödemeden bir farklılığı yoktur. Üçüncü taraflara ödenen royalti veya lisans ücretleri de dahil olmak üzere royalti veya lisans ödemesinin ithal edilen eşyaların satış koşulu olarak yapılıp yapılmadığının tespit edilmesi için her olay bazında, satış ve lisans anlaşmaları ile diğer ilgili bilgiler arasındaki bağlantı da dahil olmak üzere satış ve ithalatı ilgilendiren tüm faktörlerin değerlendirilmesi gerekir.
+(3) Royalti veya lisans ödemesinin satış koşulu olup olmadığının tespitinde;
+a) Satış sözleşmesi veya ilgili dökümanlarda royalti veya lisans ödemesine bir atıfta bulunulması,
+b) Royalti veya lisans sözleşmesinde eşyaların satışına ilişkin bir atıfta bulunulması,
+c) Satış sözleşmesi veya royalti veya lisans sözleşmesi şartlarına göre; satış sözleşmesinin, royalti veya lisans ücretinin lisans verene ödenmemesi sebebiyle söz konusu sözleşmeye aykırı davranıştan dolayı sona ereceği şeklinde bir hüküm içerip içermediği,
+ç) Royalti veya lisans sözleşmesinde royalti veya lisans ücretinin ödenmemesi durumunda imalatçının lisans verenin hakları ile ilişkili eşyayı imal etmesini veya satmasını yasaklayan bir hüküm bulunması,
+d) Royalti veya lisans sözleşmesinin, kalite kontrolünü aşan, lisans verenin imalatçı ve ithalatçı arasındaki üretim veya satışı kontrol edebilmesine imkan veren hükümler içermesi,
+hususları dikkate alınır. Söz konusu şartlardan en az birinin bulunması halinde royalti veya lisans ödemesi eşyanın satış koşuludur.
