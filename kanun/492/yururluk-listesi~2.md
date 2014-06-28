@@ -134,3 +134,4 @@ Anayasa Mahkemesi’nin 1/11/2012 tarihli ve E.:2011/64, K.: 2012/168 sayılı K
 6518 | (1) sayılı Tarife | 19/2/2014
 6528 | (8) sayılı Tarife | 14/3/2014
 6458 | 88 | 11/4/2013 tarihinden bir yıl sonra (11/4/2014)
+6545 | (1) ve (3) sayılı Tarife | 28/6/2014

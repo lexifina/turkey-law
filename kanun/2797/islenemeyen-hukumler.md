@@ -13,11 +13,11 @@ Geçici Madde 1- Bu Kanunla yapılan değişiklikler halen devam etmekte olan se
 Geçici Madde 1- (1) Danıştay Başkanlık Kurulu ile Yargıtay Başkanlar Kurulu, bu Kanunla ihdas edilen üye kadrolarına seçim yapılmasından ve dairelerde çalışacak üyelerin belirlenmesinden itibaren bir ay içinde toplanarak daireler arasındaki işbölümüne ilişkin karar tasarısını hazırlar, Danıştayda Genel Kurulun ve Yargıtayda Büyük Genel Kurulun onayına sunar. Danıştayda Genel Kurulun, Yargıtayda Büyük Genel Kurulun işbölümünün onaylanmasına ilişkin kararları Resmî Gazetede yayımlanıp yürürlüğe girinceye kadar bu Kanunla yapılan değişiklikten önceki işbölümüne ilişkin hükümler uygulanmaya devam olunur.
 _________________________
 (1) Bu maddede sözü geçen kadrolar için 14/2/2011 tarihli ve 27846 sayılı Resmi Gazete’ye bakınız.
-5605-5606
+5606
 (2) Daha önce başka dairelerde görülmekte olup da dairesi değiştirilen dava dosyaları mevcut hâlleriyle ilgili daireye gönderilir.
 (3) Bu Kanunla Yargıtayda ihdas edilen üye kadrolarına seçim yapılmasından itibaren onbeş gün içinde Birinci Başkanlık Kurulu yeniden belirlenir. Üyelerin hangi dairelerde görev yapacağını, dairelerin iş durumunu ve ihtiyaçlarını göz önünde tutarak, oluşturulan yeni Başkanlık Kurulu belirler.
 6- 31/3/2011 tarihli ve 6217 sayılı Kanunun 17 nci maddesi: (1)
 MADDE 17 – Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Danıştay Başkanlığına ait bölümüne, ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne eklenmiştir.
 –––––––––––––––
 (1) Bu maddede yer alan kadrolarla ilgili olarak 14/4/2011 tarihli ve 27905 sayılı Resmi Gazete’ye bakınız.
-5607-5613
+5607

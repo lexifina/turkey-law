@@ -1,5 +1,5 @@
 Bilgi İşlem Merkezi Müdürlüğü ve görevleri
-Madde 53/A –(Ek: 9/2/2011 – 6110/10 md.)
+Madde 53/A – (Ek: 9/2/2011 – 6110/10 md.)
 Bilgi İşlem Merkezi, Yargıtay Birinci Başkanlığına bağlı olarak görev yapar ve bir müdür yönetiminde yeteri kadar şef, mühendis, programcı, çözümleyici, bilgisayar işletmeni, veri hazırlama ve kontrol işletmeni ile teknisyenden oluşur.
 Bilgi İşlem Merkezi Müdürlüğünün görevleri şunlardır:
 a) Yargıtay Başkanlığında bilgi işlem sistemini ilk derece ve bölge adliye mahkemeleri bilişim sistemiyle koordineli olarak kurmak, işletmek, bakım ve onarımlarını yapmak veya yaptırmak, bilgi işlem sistemleri ile ilgili teknolojileri ve gelişmeleri takip ederek ihtiyaçlara göre gerekli güncellemeleri yapmak, Yargıtay Başkanlığının ihtiyaçlarına göre projeler üreterek yazılım geliştirmek ve güncellemek.

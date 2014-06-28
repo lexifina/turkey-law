@@ -5,3 +5,4 @@ b) Sair hallerde Danıştaya,
 Gönderilir.
 2. Danıştay ve bölge idare mahkemesi görevli ve yetkili mahkemeyi kararlaştırır.
 3. Danıştay ve bölge idare mahkemesinin bu konuda vereceği kararlar kesindir.
+5480

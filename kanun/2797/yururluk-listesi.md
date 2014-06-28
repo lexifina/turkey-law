@@ -20,3 +20,4 @@ KHK/666 | 55 | 31/12/2011 tarihinden geçerli olmak üzere 2/11/2011
 Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı | 56 ncı maddenin dördüncü fıkrası | 1/1/2013 tarihinden başlayarak altı ay sonra (1/7/2013)
 6494 | 29, 56 | 7/7/2013
 Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı | 55 | 10/10/2013
+5608

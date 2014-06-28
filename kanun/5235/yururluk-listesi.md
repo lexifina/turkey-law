@@ -7,3 +7,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 6110 | 5, 33, 36 ve İşlenemeyen Hüküm | 14/2/2011
 6460 | 5, Geçici Madde 4 | 30/4/2013
 6526 | 12 | 6/3/2014
+6545 | 5, 8, 9, 10, 11, 43, 44, 45, 47, 48, Geçici Madde 5 | 28/6/2014

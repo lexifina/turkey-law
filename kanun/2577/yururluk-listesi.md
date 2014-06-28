@@ -16,6 +16,7 @@ KHK/650 | 61 | 1/1/2012
 Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı | 61 inci maddenin birinci fıkrasının birinci cümlesi | 1/1/2013 tarihinden başlayarak altı ay sonra (1/7/2013)
 6494 | 61 | 7/7/2013
 Anayasa Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/107 K.: 2013/90 sayılı Kararı | 28 | 22/11/2013
-5484-4
+5484-5
 Değiştiren Kanunun/ KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numarası | 2577 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 6526 | 27, 28 | 6/3/2014
+6545 | 15, 17, 20, 20/A, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, Ek Madde 1, Geçici Madde 8 | 28/6/2014

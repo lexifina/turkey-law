@@ -7,4 +7,4 @@ d) Danıştayın ilk derece mahkemesi olarak, bu Kanunun yürürlüğe girdiği 
 2 – 10/6/1994 tarihli ve 4001 sayılı Kanunun geçici maddeleri:
 Geçici Madde 1 – Bu Kanunun 2577 sayılı İdari Yargılama Usulü Kanunun 28 inci maddesinin 1 ve 4 üncü fıkralarında değişiklik yapan hükümleri,Kanunun yürürlüğe girdiği tarihten sonra verilicek kararlar hakkında uygulanır.
 Geçici Madde 2 – (İptal: Ana.Mah.nin 21/9/1995 gün ve E.1995/46, K.1995/49 sayılı Kararı ile.)
-5484-3
+5484-4
