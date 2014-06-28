@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6547",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti ile Avrupa Birliği Arasında İzinsiz İkamet Eden Kişilerin Geri Kabulüne İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-06-28",
+  "gazette_issue": "29044",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140628-11.htm",
+  "source_sha256": "998666579b4550e82903362dc70bde8b57754d1cb695dd43fca937431eebc9fa",
+  "text_sha256": "bf79cf2749c0686b970908845abb98ff5ca3c2baa4a6dcd0ec6b760efee849f7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/06/28/29044-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/06/20140628-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
