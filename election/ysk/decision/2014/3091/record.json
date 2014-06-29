@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/3091",
+  "list_number": "3091",
+  "decision_date": "2014-06-29",
+  "title": "Cumhurbaşkanı Seçiminde Sandık Kurullarının Oluşumu ile Görev ve Yetkilerini Gösterir Örnek: 138 sayılı genelge ile ilgili Yüksek Seçim Kurulunun 2014/3091 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2386/2014-3091.pdf",
+  "source_sha256": "32f7d991b8bfb8eea3e1edca8bf6a699d45a9a09c65d81824a5c12ca2a360780",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 24,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-06-29",
+  "law_text_complete": false
+}
