@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-06-29",
+      "29.06.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29045",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-06-29",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Gelişim Üniversitesi",
+  "issuer_slug": "istanbul-gelisim-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-gelisim-universitesi/2014/19828",
+  "published": "2014-06-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19828&MevzuatTertip=5",
+  "source_bytes": 19106,
+  "source_id": "8.5.19828",
+  "source_sha256": "c49c7daec6e03a326663cb1effe1043233829fc447db0052f3e23a0e62a4c4e2",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL GELİŞİM ÜNİVERSİTESİ YENİ NESİL GİRİŞİMCİLİK VE İNOVASYON UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 321,
+  "word_count": 872
+}
