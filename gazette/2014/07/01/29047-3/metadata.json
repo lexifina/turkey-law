@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-07-01",
+  "issue": "29047",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2014/6470 154 kV (Karaman TM-Gezende HES TM)-Mut RES TM (Girdi-Çıktı) Enerji İletim Hattı Projesi Kapsamında Bazı Taşınmazların Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Tarafından Acele Kamulaştırılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140701-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140701.htm",
+  "index_sha256": "265ee741322598f7176fd37a8e995d4b4732192dd0bf9450d3a152631760197d",
+  "index_header": "1 Temmuz 2014 ... 29047 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140701.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
