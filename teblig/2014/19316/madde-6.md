@@ -1,0 +1,7 @@
+Bilgi suistimali veya piyasa dolandırıcılığı suçları hakkında bildirim yükümlülüğü
+MADDE 6 – (1) Yatırım kuruluşları karşılaştıkları şüpheli işlemleri en geç beş iş günü içerisinde yazılı olarak Kurula bildirirler.
+(2) Bilgi suistimali suçu işlendiğine ilişkin bir bilginin veya şüphenin bulunduğu hallerde yapılacak bildirimler, ihraççıya ilişkin içsel bilgi, sürekli bilgi, bu bilgilere dayalı olarak yapılan işlemler ve işlemlerle ilişkili olan şahısları gösteren; her türlü bilgi, belge, doküman, kimlik bilgisi mevzuat uyarınca tutulan ses kaydı ve diğer delillerle birlikte yapılır.
+(3) Piyasa dolandırıcılığı suçu işlendiğine ilişkin bir bilginin veya şüphenin bulunduğu hallerde yapılacak bildirimler, gerçekleştirilen işlemler, işleme konu paylar, birlikte hareket eden kişiler, kullanılan hesaplar, hesapları kullanan şahıslar ve bu kişilerin aralarındaki ilişkiyi gösteren; her türlü bilgi, belge, doküman, kimlik bilgisi, mevzuat uyarınca tutulan ses kaydı ve diğer delillerle birlikte yapılır.
+(4) Şüpheli işlem hakkında bildirimde bulunulması veya bulunulacak olması söz konusu işlemlerin yerine getirilmesine engel teşkil etmez.
+(5) Kanun ve bu Tebliğ kapsamında bildirim yapılmış olması, 5549 sayılı Kanun ve bu kanuna dayanılarak yürürlüğe konulan mevzuatla getirilen bildirim yükümlülüğünü ortadan kaldırmaz.
+(6) 5549 sayılı Kanun ve ilgili mevzuat uyarınca Mali Suçları Araştırma Kurulu Başkanlığına şüpheli işlem bildirimi yapılmış olması, Kanun ve bu Tebliğ kapsamında yapılması gereken bildirim yükümlülüğünü ortadan kaldırmaz.

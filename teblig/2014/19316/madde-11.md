@@ -1,0 +1,6 @@
+Diğer hükümler
+MADDE 11 – (1) Bilgi suistimali veya piyasa dolandırıcılığı suçlarına ilişkin olarak şüpheli işlemlerin tespitinde yatırım kuruluşlarına yardımcı olması için Ek/2'de yer alan şüpheli işlem kalıpları belirlenmiştir. Bildirimde bulunmak için şüpheye konu olan hususun burada belirtilen kalıplara uyması şartı aranmamalıdır. Şüphe doğuran hususlar, sayılan kalıplardan farklı olsa dahi bilgi suistimali veya piyasa dolandırıcılığı suçunu teşkil edebileceğine dair bir bilgi edinilmesi veya şüphe duyulması durumunda bildirimde bulunulması gerekmektedir.
+(2) İşlemlerin şüpheli işlem kalıplarına uygunluğu değerlendirilirken sermaye piyasası mevzuatında yer alan müşteri tanıma kuralı göz önünde bulundurulmalı ve değerlendirme müşteri ve işlem bazında yapılmalıdır. Şüphe veya şüpheyi gerektiren bir hususun olup olmadığı, gerektiğinde birden çok işlem bir arada ele alınarak değerlendirilir.
+(3) İşlemin şüpheli olup olmadığı değerlendirilirken müşterinin genel profili, geçmiş yatırım karakteri ve tecrübesi gibi hususların da dikkate alınması gerekmektedir.
+(4) Kurul kendisine ulaşan bildirimleri güvenli ve tasnifli bir şekilde arşivler.
+(5) Kurul kendisine ulaşan bildirimleri gizlilik kurallarına riayet etmek suretiyle incelenmek üzere Borsa İstanbul’a iletebilir.
