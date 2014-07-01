@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39316",
+  "decision_date": "2014-07-01",
+  "source_id": 8715,
+  "chamber": "3",
+  "file_number": "37523",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8715/",
+  "source_sha256": "d3c4ee6280d4ef055bb48f9a9f4c6da239081cd3ad1ab2b3eef5349c098d61ba",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
