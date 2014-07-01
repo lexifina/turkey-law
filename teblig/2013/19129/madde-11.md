@@ -1,0 +1,5 @@
+DÖRDÜNCÜ BÖLÜM
+Performans Sunumuna İlişkin Esaslar
+Performans sunum dönemi
+MADDE 11 – (1) Kurulun kolektif yatırım kuruluşlarına ilişkin düzenlemelerinde aksi belirtilmedikçe, kamuya ilan edilecek sunumlar son 5 yıl için Ocak-Aralık dönemini kapsayacak şekilde ve yıllık olarak yapılır. Cari yıl içindeki sunumlar ise aylık dönemler itibari ile yapılabilir. Aylık sunum yapılması halinde; dönem başı olarak ay içindeki herhangi bir gün seçilemez, cari yıl içindeki ara dönemlerde hesaplanan getiriler yıllığa çevrilemez. 5 yıldan kısa süreli portföylerde ise ilk halka arz tarihi veya portföy yönetim hizmeti verilmeye başlandığı tarihten, yatırım stratejisinin tür değişikliğine bağlı olarak değiştirilmesi durumunda ise değişiklik tarihinden sonraki dönemler için sunum yapılır.
+(2) Performans sunum dönemi içerisinde kolektif yatırım kuruluşlarının yatırım stratejisinin tür değişikliğine bağlı olarak değiştirilmesi durumunda, aylık ve yıllık bazda performans sunumu yeni yatırım stratejisi değişikliğini izleyen ilk takvim yılından itibaren yapılabilir.

@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19129",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BİREYSEL PORTFÖYLERİN VE KOLEKTİF YATIRIM KURULUŞLARININ PERFORMANS SUNUMUNA, PERFORMANSA DAYALI ÜCRETLENDİRİLMESİNE VE KOLEKTİF YATIRIM KURULUŞLARINI NOTLANDIRMA VE SIRALAMA FAALİYETLERİNE İLİŞKİN ESASLAR HAKKINDA TEBLİĞ (VII-128.5)",
+  "number": "19129",
+  "issuer": "Kurul",
+  "path": "teblig/2013/19129",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19129&MevzuatTertip=5",
+  "source_sha256": "23a541a6588cee1742493f941c4a1a3350ce9729bd02d005e4de9acb813e6c0e",
+  "source_bytes": 41581,
+  "published": "2013-12-17",
+  "gazette": "28854",
+  "in_force": "2014-07-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/7/2014 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/7/2014 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2778,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19129%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

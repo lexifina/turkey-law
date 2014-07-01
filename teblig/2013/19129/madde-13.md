@@ -1,0 +1,4 @@
+Performans sunumuna ilişkin ilan ve reklamlar
+MADDE 13 – (1) Performans sunumuna ilişkin ilan ve reklamlarda performans sunum raporunun nerede yayımlandığı bilgisine yer verilmesi şarttır. Tebliğde belirlenen esaslara uygun bir performans sunum raporunun hazırlanmamış olması halinde, ilan ve reklamlarda performans bilgisi verilemez.
+(2) Performans sunumuna ilişkin ilan ve reklamlarda, ölçeklerde farklılık yaratmak suretiyle görsel olarak yatırımcıyı yanıltıcı grafik ve şekiller kullanılamaz. Kolektif yatırım kuruluşları ile yetkili kurum hakkında “en iyi”, “en güvenilir”, “en sağlam” ve buna benzer subjektif ve abartılı bir imaj yaratmaya yönelik ifadelere yer verilmez.
+(3) Yatırımcılara yapılacak bireysel sunumlarda performans sunum raporunda yer alan bilgiler, portföyün performansı hakkında herhangi bir yanılgıya yol açmaması kaydıyla özet olarak kullanılabilir.
