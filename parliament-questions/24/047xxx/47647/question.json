@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 24,
+  "legislative_year": 4,
+  "esas_no": "7/47647",
+  "submitted": "2014-07-02",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Alim IŞIK",
+  "province": "Kütahya",
+  "summary": "Seçim dönemleri öncesinde taşeron şirketler aracılığıyla işçi alımlarının artış gösterdiği iddialarına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bf-cba6-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "1bb1fc73a4fd600cb67916eaf232c74246aaec1f1f49ba03e65d7bde61322a31",
+  "in_force": "2014-07-02",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
