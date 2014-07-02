@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 9 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2006-12-21",
+      "21.12.2006",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2014-07-02",
+      "RG:2/7/2014-29048",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2007-11-05",
+      "5/11/2007",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2014-07-02",
+      "2/7/2014",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG:2/7/2014-29048",
+  "first_law": null,
+  "gazette": "26383",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-07-02",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Erciyes Üniversitesi",
+  "issuer_slug": "erciyes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/erciyes-universitesi/2006/10877",
+  "published": "2006-12-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10877&MevzuatTertip=5",
+  "source_bytes": 28193,
+  "source_id": "8.5.10877",
+  "source_sha256": "6981f7744883ff12f339d23c20c1a41b6611929523907cb4fd64f9daa3cd6c4e",
+  "text_status": "current-consolidated",
+  "title": "ERCİYES ÜNİVERSİTESİ ÖĞRETİM ELEMANLARININ TEKNOLOJİ GELİŞTİRME BÖLGELERİNDE GÖREVLENDİRİLME VE ŞİRKET KURABİLMELERİNE DAİR YÖNETMELİK",
+  "university_id": 192,
+  "word_count": 828
+}

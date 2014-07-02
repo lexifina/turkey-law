@@ -1,0 +1,4 @@
+Şirket kurma ve şirket ortaklığı
+MADDE 6 – (1) Yaptıkları araştırmaların sonuçlarını ticarileştirmek isteyen öğretim elemanları, Üniversiteye başvurur. Yönetim Kurulu bu başvuruyu; ilgili bölümün görüşü, Fakülte/ Enstitü Yönetim Kurulunun kararı ve Rektörün onayı ile inceleyerek, öğretim elemanına bölgede şirket kurma, kurulu bir şirkete ortak olma ve/veya bu şirketlerin yönetiminde görev alma izni verebilir. İlgili öğretim elemanının şirket yönetiminde görev alması hususunda bu Yönetmeliğin 5 inci maddesindeki görevlendirme ile ilgili süre ve esaslar uygulanır.
+(2) Öğretim elemanları tarafından kurulan şirketlerden bu kapsamda, Üniversite adına alınacak patent hakkı, imtiyaz karşılığı ve benzeri gelirlerin miktarları, Yönetim Kurulu tarafından belirlenir.
+(3) Bu madde ile ilgili olarak Yönetim Kurulunca, öğretim elemanlarının başvurularını incelemek ve izlemek üzere bir komisyon oluşturulur.
