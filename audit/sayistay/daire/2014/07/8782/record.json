@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "74",
+  "decision_date": "2014-07-03",
+  "source_id": 8782,
+  "chamber": "5",
+  "ilam_number": "151",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8782/",
+  "source_sha256": "5c6ee65135a0b29c9e072e7500623e90553a029dd7c8e9d40cfe4f6431fb2a11",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
