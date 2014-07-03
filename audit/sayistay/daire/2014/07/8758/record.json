@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10348",
+  "decision_date": "2014-07-03",
+  "source_id": 8758,
+  "chamber": "1",
+  "ilam_number": "243",
+  "item_number": 1,
+  "public_body_type": "Diğer",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8758/",
+  "source_sha256": "e003f2c99d5dd8bdfac0549cd6f1db457d8da3356a9392f0e1c4f3d673128ef9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
