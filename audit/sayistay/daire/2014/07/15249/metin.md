@@ -1,0 +1,13 @@
+Gecikme cezası
+
+............. Şti. yükleniminde yaptırılan “............. İşinde; söz konusu Yapım İşinin Yüklenici tarafından sözleşmesinde öngörülen sürede bitirilmemesi karşılığı olarak Yüklenici firmaya yapılan hakediş ödemesinden sözleşme hükümleri çerçevesinde kesilmesi gereken gecikme cezasının yanlış hesaplanarak eksik kesinti yapılması sonucunda .............TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+Yüklenici ............. Şti. ile idare arasında 31.03.2008 tarihinde imzalanan ............. İşine ait sözleşmenin İşe Başlama ve Bitirme Tarihi başlıklı 10.1. inci maddesinde “ Yüklenici taahhüdünün tümünü İş yeri teslim tarihinden itibaren 270 gün içinde tamamlanarak geçici kabule hazır hale getirilecektir.” denilmektedir.
+
+İdari Şartnamenin İşe başlama ve İş Bitirme tarihi başlıklı 49.2 nci maddesinde; İşin Süresi, yer tesliminin yapıldığı tarihten itibaren 270 (ikiyüzyetmiş) takvim günüdür.” hükmü yer almaktadır.
+
+Yukarıda yer alan mevzuat hükümleri ve savunmaların birlikte değerlendirilmesi sonucu, İş Yeri Teslim Tutanağından yüklenici ............. Şti.’e iş yerinin 07.04.2008 tarihinde teslim edilmiş olduğu, işin süresi 270 takvim günü olarak sözleşmede belirlendiği anlaşılmaktadır. Buna göre iş bitim tarihinin 30.12.2008 tarihi olması gerektiği, ancak bu iş kapsamında 25.12.2008 tarih 2008/2934 sayılı Süre Uzatım kararıyla işin süresinin 31.01.2009 tarihine kadar ve 05.02.2009 tarih 1059 sayılı süre uzatım kararıyla da işin süresinin 13.04.2009 tarihine kadar uzatıldığı anlaşılmıştır. Ayrıca 27.04.2009 tarihi itibar edilerek geçici kabulü yapılan işe ilişkin olarak 123 maddeden oluşan eksik veya kusurlu yapılan imalat tespit edilmiş ve buna dair tutanak düzenlenmesini takiben de yüklenici firmaya bu eksik ve kusurlu imalatları bitirmesi için 60 gün ek süre verildiği anlaşılmaktadır. 26.06.2009 tarihi itibariyle 60 günlük ek sürenin bittiği ancak idare tarafından tutulan tarihsiz ve sayısız tutanakta “............. Şti.’ye 60 gün ek süre verildiği, eksiklik ve noksanların bu süre zarfında tamamlanmadığı, idare tarafından yüklenicinin nam-ı hesabına yapıldığı ve işin 30.04.2010 tarihinde tamamlandığı ve 368 gün gecikme cezası uygulandığı karar altına alınmıştır.” denilmektedir.
+
+Bu tutanağa istinaden de toplam .............. TL’lik bir gecikme cezasının yüklenicinin hakedişinden kesildiği tespit edilmiştir.
+
+Bu itibarla, sorumluların yaptıkları savunmalardan, uygulanan gecikme cezası kesintisinin mevzuatına uygun olduğu anlaşıldığından, ............... TL ile ilgili olarak ilişilecek husus bulunmadığına oybirliğiyle karar verildi.
