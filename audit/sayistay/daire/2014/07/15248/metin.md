@@ -1,0 +1,23 @@
+Usulsüz atama
+
+............. Büyükşehir Belediyesinde avukat olarak çalışmakta iken, 20.08.2004 tarihinde .............. Büyükşehir Belediyesi Teftiş Kurulu Başkanlığına atanan .............. ’ın atamasının, 17.08.2007 tarihine kadar yürürlükte kalan ............. Büyükşehir Belediye Meclisinin .......gün ve .....sayılı kararı ile kabul edilen ............. Büyükşehir Belediyesi Teftiş Kurulu Yönetmeliğine aykırı yapıldığı ve bu şekilde usulsüz bir şekilde ataması yapılmış olan avukat ...............’a Teftiş Kurulu Başkanı maaşı ödenmek suretiyle (avukat ve Teftiş Kurulu Başkanı maaşları arasındaki fark tutarın da)  ............... TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+657 sayılı Devlet Memurları Kanununun 68/B maddesinde, “Eğitim ve Öğretim hizmetleri sınıfı hariç, sınıfların 1, 2, 3 ve 4 üncü derecelerindeki kadrolarına, derece yükselmesindeki süre kaydı aranmaksızın, atanmasındaki usule göre daha aşağıdaki derecelerden atama yapılabilir.
+
+	Ancak, bu şekilde bir atamanın yapılabilmesi için ilgilinin;
+
+	a) 1 inci dereceli görevlerden ek göstergesi daha yukarıda olanlar için en az 12 yıl,
+
+	b) 1 ve 2 nci derece görevlerden ek göstergesi az olanlar için en az 10 yıl
+
+	c) 3 ve 4 üncü görevler için en az 8 yıl
+
+	08/06/1984 tarih ve 217 sayılı Kanun Hükmünde Kararnamenin fiilen çalışmış olması ve yüksek öğrenim görmesi şarttır. Ancak dört yıldan daha az süreli yüksek öğrenim görenler için yukarıdaki sürelere ikişer yıl ilave edilir. Yasama Organı Üyeliğinde, Kanunlarla kurulan fonlarda, muvazzaf askerlikte ve okul devresi dahil yedek subaylıkta ve uluslar arası kuruluşlarda geçen sürelerin tamamı ile yüksek öğrenim gördükten sonra özel kurumlarda veya serbest olarak çalıştıkları sürenin 6 yılı geçmemek üzere ¾’ ü yukarıdaki sürelerin hesabında dikkate alınır.” şeklinde yapılan genel düzenlemeden ayrı olarak yapılan atamalarda 657 sayılı Kanun ile birlikte diğer alt mevzuatta (tüzük, yönetmelik vb.) yer alan düzenlemelerdeki şartlara uyulması esastır.
+
+.............. Büyükşehir Belediye Meclisinin ...... gün ve ..... sayılı kararı ile kabul edilen .............. Büyükşehir Belediyesi Teftiş Kurulu Yönetmeliğinin 4 üncü maddesinde; “Teftiş Kurulu, müfettişlik sıfatını kazanmış olanlar arasından atanan bir başkanla, derece ve ünvanları kadrolarında belirtilen yeteri kadar müfettiş ve müfettiş yardımcılarından oluşur. Kurulun hesap ve işleri büro tarafından yürütülür.” denilmiş, 17 nci maddesinde ise; “Müfettiş yardımcılığına tayin edilebilmek için giriş sınavını kazanmak şarttır. Müfettiş yardımcısı olarak giren ve üç yıllık staj dönemini tamamlayarak özel yeterlilik sınavını kazananlar müfettişliğe atanır.” düzenlemesine yer verilmiştir.
+
+Yönetmeliğin bu iki maddesinin hükümleri birlikte değerlendirildiğinde, görüleceği üzere, müfettiş yardımcılığı sınavını kazanarak üç yıllık staj dönemini tamamlayanların müfettişlik sıfatını kazanacağı ve Teftiş Kurulu Başkanının da müfettişler arasından atanacağı açıktır.
+
+Diğer taraftan, 02.12.1992 gün ve 5/53 sayılı kararı ile kabul edilen .............. Büyükşehir Belediyesi Teftiş Kurulu Yönetmeliği 17.08.2007 tarihine kadar yürürlükte kalmıştır. ................ Büyükşehir Belediye Meclisinin ....... tarih ve ..... sayılı Belediye Meclis Kararı ile kabul edilen .............. Büyükşehir Belediyesi Teftiş Kurulu Yönetmeliğinin yürürlüğe girmesiyle birlikte, ......... tarihi itibariyle ....... gün ve ...... sayılı kararı ile kabul edilen Yönetmelik yürürlükte kalkmıştır. 17.08.2007 tarih ve 213 sayılı yeni Teftiş Kurulu Yönetmeliği’nin 7.maddesiyle; Teftiş Kurulu Başkanlığa atanma süresi “5 yıl Müfettiş olarak çalışma” şartına bağlanmış ve bu haliyle onaylanmıştır. Buna göre, 20.08.2004 tarihinde ............. Büyükşehir Belediyesi Teftiş Kurulu Başkanlığına atanan ............... ’ın ataması, atamasına esas olan 02.12.1992 gün ve 5/53 sayılı kararı ile kabul edilen Yönetmelik hükümlerine aykırı olduğu gibi, bu yönetmeliğin yerine 17.08.2007 tarihinde yürürlüğe giren 17.08.2007 tarih ve 213 sayılı yeni Teftiş Kurulu Yönetmeliği’ne de aykırıdır. Uygulamada ise, usulsüz atama yapılmış ve ataması yapılan avukat ............. ’a Teftiş Kurulu Başkanı maaşı ödenmek suretiyle (avukat ve Teftiş Kurulu Başkanı maaşları arasındaki fark tutarın da) ..............TL tutarında kamu zararına neden olunmuştur. Ancak, sorumlular tarafından, söz konusu ...............TL tutarındaki kamu zararının tahsil edildiği bildirilmiştir.
+
+Bu itibarla, usulsüz atama yapılmasından kaynaklanan ...............TL tutarındaki kamu zararı ...............tarih ve ............... nolu alındı belgesi ile ahiz Avukat .............. ’ dan tahsil edildiğinden ilişilecek bir husus kalmadığına oy birliğiyle karar verildi.
