@@ -1,0 +1,15 @@
+Gecikme cezası
+
+.............. Şti. yükleniminde yaptırılan “.............. İşi’nde; söz konusu Yapım İşinin Yüklenici tarafından sözleşmesinde öngörülen sürede bitirilmemesi karşılığı olarak Yüklenici firmaya yapılan hakediş ödemesinden sözleşme hükümleri çerçevesinde kesilmesi gereken gecikme cezasının yanlış hesaplanarak eksik kesinti yapılması sonucunda ..............TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+Yüklenici .............. Şti  ile İdare arasında 31.03.2008 tarihinde imzalanan .............. İşine ait sözleşmenin İşe Başlama ve Bitirme Tarihi başlıklı 10.1. inci maddesinde “ Yüklenici taahhüdünün tümünü İş yeri teslim tarihinden itibaren 180 gün içinde tamamlanarak geçici kabule hazır hale getirilecektir.” denilmektedir.
+
+İdari Şartnamenin İşe başlama ve İş Bitirme tarihi başlıklı 49.2 nci maddesinde; İşin Süresi, yer tesliminin yapıldığı tarihten itibaren 270 (ikiyüzyetmiş) takvim günüdür.” hükmü yer almaktadır.
+
+Yukarıda yer alan mevzuat hükümleri ile savunmalar ve savunma eklerinin birlikte değerlendirilmesi sonucu, İş Yeri Teslim Tutanağından yüklenici .............. Şti.’ne iş yerinin 28.03.2008 tarihinde teslim edilmiş olduğu, işin süresinin 180 takvim günü olarak sözleşmede belirlendiği anlaşılmaktadır. Buna göre iş bitim tarihinin 24.09.2008 tarihi olması gerektiği, ancak bu iş kapsamında 23.09.2008 tarih 2313 sayılı kararla %10 iş artışına gidildiği ve 3 ay süre uzatımı verildiği ve böylelikle iş bitim tarihinin 23.12.2008 tarihine kadar uzatıldığı anlaşılmaktadır. Ancak, bu işe ilişkin Geçici Kabul Tutanağı incelendiğinde işin 02.03.2009 tarihi itibar edilmek suretiyle kabul edildiği, fakat işin sözleşme ve eklerine uygun olmayan bazı imalatların tamamlanması için Yükleniciye 90 gün ek süre verildiği tespit edilmiştir. Oysaki kesin hakedişe esas hakediş raporu incelendiğinde; 01.12.2009 tarihine kadar yapılan işler listesinin görüldüğü, yani eksik imalatlarının yapımının 01.12.2009 tarihine kadar devam ettiği ve 90 günlük ek sürenin fazlasıyla aşıldığı, sonuç olarak kabul noksanlarının 01.12.2009 tarihine kadar bitirilmediği tespit edilmiştir. Dolayısıyla, gecikme cezası uygulanması gereken gün sayısı 342 dir.
+
+Yüklenici .............. Şti. ile idare arasında 21.03.2008 tarihinde imzalanan ............. İşine ait sözleşmenin Gecikme Halinde Alınacak Cezalar başlıklı 10.2 nci maddesinde; “İdarece verilen süre uzatımı hariç, iş zamanında bitirilmediği takdirde geçen her takvim günü için yüklenicinin hakedişinden sözleşme bedelinin %0.05 (onbindebeş) oranında gecikme cezası kesilir. İşin tümünün süresinde bitmemesi halinde işin tamamına ilişkin günlük gecikme cezası alınır ayrıca kısmi gecikme cezası uygulanmaz.” denilmektedir.
+
+Anılan mevzuat hükümleri ve sorumluların yaptıkları savunmadan, kesilmesi gereken cezanın ...............TL değil, .............. TL olduğu ve herhangi bir kamu zararı oluşmadığı anlaşılmıştır.
+
+Bu itibarla, sorumluların yaptığı savunmadan, uygulanan gecikme cezası kesintisinin mevzuatına uygun olduğu anlaşıldığından, ............... TL ile ilgili olarak ilişilecek husus bulunmadığına oybirliğiyle karar verildi.
