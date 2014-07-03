@@ -1,0 +1,16 @@
+{
+  "case_number": "2014/123",
+  "decision_date": "2014-07-03",
+  "in_force": "2014-07-03",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-norm-review",
+  "number": "2014/114",
+  "omitted_images": 0,
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/2014/114",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "db83f83f9e5b6d4ed7846642970b259e44f0d8e918804217bbace15444e1936b",
+  "version_label": "as-enacted"
+}
