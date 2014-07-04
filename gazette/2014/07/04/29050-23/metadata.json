@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-07-04",
+  "issue": "29050",
+  "edition": "regular",
+  "item": 23,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Ulusal Havza Yönetim Stratejisi (2014-2023) ile İlgili Yüksek Planlama Kurulunun 13/6/2014 Tarihli ve 2014/11 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140704-23.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140704.htm",
+  "index_sha256": "abf0d707f94a27ffc1eb924b5c5b8a24ffde4ad9cdbb4d55b248b745f6c28be5",
+  "index_header": "4 Temmuz 2014 ... 29050 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140704.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
