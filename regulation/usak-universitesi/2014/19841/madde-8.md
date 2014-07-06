@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; Rektör tarafından enerji, çevre ve sürdürülebilirlik konularının tümünde eğitimi veya çalışmaları olan Yönetim Kurulu mensubu öğretim üyeleri arasından seçilerek üç yıl süreyle görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesinden, geliştirilmesinden doğrudan Rektöre karşı sorumludur ve aynı zamanda Yönetim Kurulunun başkanıdır.
+(2) Müdürün kendisine yardımcı olmak üzere Yönetim Kurulu üyeleri arasından önereceği en çok iki kişi müdür yardımcısı olarak Rektör tarafından görevlendirilir. Müdür, görevi başında bulunmadığı zaman yardımcılarından birisini vekil bırakır.
