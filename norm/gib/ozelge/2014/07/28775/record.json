@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125[33-2014]-103",
+  "source_id": 28775,
+  "date": "2014-07-08",
+  "title": "Yurt dışında elde edilen faiz gelirlerine ilişkin yapılan kesintilerin kurumlar vergisi ve geçici vergiden mahsubu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28775",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "58a6145a63565f71de8ac5163137c7abc704f42acc726a455c7fa51f145816f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
