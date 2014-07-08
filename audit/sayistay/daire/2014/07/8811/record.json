@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "72",
+  "decision_date": "2014-07-08",
+  "source_id": 8811,
+  "chamber": "4",
+  "ilam_number": "259",
+  "item_number": 1,
+  "public_body_type": "Sosyal Güvenlik Kurumları",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8811/",
+  "source_sha256": "016cc89b4523b4ce6c9c1c61adcb93c0f4d64171cc915444b840baef5bafd6d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
