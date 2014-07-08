@@ -1,0 +1,86 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "151",
+  "decision_number": "21/687",
+  "date": "2014-07-08",
+  "title": "Kurul’un 08.07.2014 Tarih ve 21/687 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/151",
+  "source_sha256": "8c98b6c8461d51a89993a22ad5f01ba9f455166a067d0036bb5187f6b39b0a30",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 151,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurul’un 08.07.2014 tarih ve 21/687 sayılı kararı;",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2014-07-08",
+    "source_clauses": [
+      "Kurul’un 08.07.2014 tarih ve 21/687 sayılı kararı;"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "92b93143-a7f5-4c13-8fcb-f332edc03b54",
+    "contentSource": "IlkeKarari",
+    "contentID": 151,
+    "tur": "Kurul Kararı",
+    "title": "Kurul’un 08.07.2014 Tarih ve 21/687 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2014-07-08T00:00:00",
+    "kurulKararTarih": "08.07.2014",
+    "kurulToplantiNo": "21/687",
+    "bultenYili": 2014,
+    "bultenNo": 20,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "86:Kurumsal Yönetim Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 86,
+        "value": "Kurumsal Yönetim Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "4:Halka Açık Ortaklıklar;8:Kolektif Yatırım Kuruluşları;45:Kurumsal Yönetim İlkeleri;24:Girişim Sermayesi Yatırım Ortaklıkları;25:Gayrimenkul Yatırım Ortaklıkları",
+    "ilgiliKonular": [
+      {
+        "key": 4,
+        "value": "Halka Açık Ortaklıklar"
+      },
+      {
+        "key": 8,
+        "value": "Kolektif Yatırım Kuruluşları"
+      },
+      {
+        "key": 45,
+        "value": "Kurumsal Yönetim İlkeleri"
+      },
+      {
+        "key": 24,
+        "value": "Girişim Sermayesi Yatırım Ortaklıkları"
+      },
+      {
+        "key": 25,
+        "value": "Gayrimenkul Yatırım Ortaklıkları"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/151",
+    "linkTarget": "_blank"
+  }
+}
