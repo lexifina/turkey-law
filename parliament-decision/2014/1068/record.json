@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1068",
+  "year": 2014,
+  "title": "Ekonomi Eski Bakanı Mehmet Zafer Çağlayan, İçişleri Eski Bakanı Muammer Güler, Avrupa Birliği Eski Bakanı Egemen Bağış ile Çevre ve Şehircilik Eski Bakanı Erdoğan Bayraktar Hakkında Kurulan Meclis Soruşturması Komisyonuna Üye Seçimine İlişkin Karar 1068)",
+  "adopted": "2014-07-08",
+  "adopted_as_published": "08/07/2014",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.07.2014 No: 29058",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc098/karartbmmc098/karartbmmc09801068.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 98",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 24,
+      "kayit_no": 4141098,
+      "title": "Ekonomi Eski Bakanı Mehmet Zafer Çağlayan, İçişleri Eski Bakanı Muammer Güler, Avrupa Birliği Eski Bakanı Egemen Bağış ile Çevre ve Şehircilik Eski Bakanı Erdoğan Bayraktar Hakkında Kurulan Meclis Soruşturması Komisyonuna Üye Seçimine İlişkin Karar 1068)",
+      "adopted_as_published": "08/07/2014",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc098/karartbmmc098/karartbmmc09801068.pdf",
+      "committee_reports": [],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "15827fd0c83261c402c659f99ca2ff18a1bdf2e2c3d33a6dfebf53b072c161ba"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "15827fd0c83261c402c659f99ca2ff18a1bdf2e2c3d33a6dfebf53b072c161ba",
+  "issuer": "TBMM",
+  "in_force": "2014-07-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 08/07/2014; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
