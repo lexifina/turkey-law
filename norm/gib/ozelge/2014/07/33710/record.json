@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "88945244-ÖTV-2014/3-9",
+  "source_id": 33710,
+  "date": "2014-07-09",
+  "title": "Kapalı Kasa Kamyonete Yapılan Koltuk İlavesinden Sonra Ek ÖTV Uygulanıp Uygulanmaması Hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33710",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "7dd34b5ff4785afbf0ab9d52b6e2382f2320c81fe269241ec6492fce8d38594a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
