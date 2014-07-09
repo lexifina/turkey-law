@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[4-14/3]-696",
+  "source_id": 27683,
+  "date": "2014-07-09",
+  "title": "Kooperatifin Orman İşletme Müdürlüğüne vermiş olduğu taahhüte göre Toprak Muhafaza sahalarında fidan sulama ve çanak yapımı işlerinin kurumlar vergisine tabi olunup olmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27683",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "dcce765e6012f74eb4c73f9887a6e60efb923520e3080fa54828f36561228a18",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
