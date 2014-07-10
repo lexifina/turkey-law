@@ -1,0 +1,3 @@
+2012 yılı içerisinde satın alınan bazı ilaç ve tıbbi malzemelerin stoklarda bekletilmesi.
+
+……….. Üniversitesinde satın alınan ilaç ve tıbbi malzemelerin stoklarda bekletilmesi hususunda, sorumluların savunmaları ile ekindeki belgelerden ilaç ve tıbbi malzemelerin miatlarına göre kullanıldığı, bazı ilaçların polikliniklerde kullanım sayılarına göre alındığı, bunun stoklarda fazlalık oluşturduğu, ilaç ve tıbbi malzemelerin zamanı geldiğinde kullanıldığı anlaşıldığından, mevzuata aykırılık bulunmadığına, söz konusu ilaç ve tıbbi malzemeler için ödenen ………… TL hakkında ilişilecek bir husus bulunmadığına oybirliğiyle,
