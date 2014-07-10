@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "114",
+  "decision_date": "2014-07-10",
+  "source_id": 22693,
+  "chamber": "6",
+  "ilam_number": "332",
+  "item_number": 28,
+  "account_year": 2012,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22693/",
+  "source_sha256": "78f0d45d9fde12cad1c65707217ed2ddb58c922c38d1d1fed2c3d544582ed538",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
