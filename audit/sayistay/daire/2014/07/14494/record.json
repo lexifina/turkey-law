@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35235",
+  "decision_date": "2014-07-10",
+  "source_id": 14494,
+  "chamber": "2",
+  "ilam_number": "277",
+  "item_number": 5,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14494/",
+  "source_sha256": "2c2a4bb6a92a052b9d80700648713ca34dc2fe79d32eec6c30c5cd37c281e420",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
