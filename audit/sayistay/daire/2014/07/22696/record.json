@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "114",
+  "decision_date": "2014-07-10",
+  "source_id": 22696,
+  "chamber": "6",
+  "ilam_number": "332",
+  "item_number": 31,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22696/",
+  "source_sha256": "2ff05b35019ccb5d96a1f7f7c6ba7e7e2218d0bd878a274ac4e0571e6b80ae37",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
