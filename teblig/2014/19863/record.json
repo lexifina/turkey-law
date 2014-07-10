@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19863",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ARA DÖNEM FİNANSAL BİLGİLERİN, İŞLETMENİN YILLIK FİNANSAL TABLOLARININ BAĞIMSIZ DENETİMİNİ YÜRÜTEN DENETÇİ TARAFINDAN SINIRLI BAĞIMSIZ DENETİMİ (SBDS 2410) HAKKINDA TEBLİĞ TÜRKİYE DENETİM STANDARTLARI TEBLİĞİ NO: 38",
+  "number": "19863",
+  "issuer": "Kurum Başkanı",
+  "path": "teblig/2014/19863",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19863&MevzuatTertip=5",
+  "source_sha256": "da025cf892816f8eb9a18011af2b78921eb1c2245feccffa52034b1b1e0c3eec",
+  "source_bytes": 8573,
+  "published": "2014-07-10",
+  "gazette": "29056",
+  "in_force": "2014-07-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.07.2014); own commencement article: \"Bu Tebliğ 1/1/2014 tarihinde ve sonrasında başlayacak hesap dönemlerinden itibaren uygulanmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2014 tarihinde ve sonrasında başlayacak hesap dönemlerinden itibaren uygulanmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 217,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19863-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
