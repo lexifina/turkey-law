@@ -1,0 +1,24 @@
+{
+  "number": "5",
+  "number_as_published": "2014/02/05",
+  "year": 2014,
+  "title": "Denetim ve Toplu Taşıma Şube Müdürlüğü’nün 03/07/2014 tarih ve 101 sayılı yazısına istinaden Okul Servis Aracı İzin Belgesi için istenilen belgelerin belirlenmesi talebi",
+  "decision_date": "2014-07-10",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=07.2014",
+  "official_document": null,
+  "source_sha256": "e02a7e76f88ffbde16b563b982199469d4262ae9dc8279d7082804a60b49356f",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2014-07-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.07.2014; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "02",
+  "listed_subjects": 1
+}
