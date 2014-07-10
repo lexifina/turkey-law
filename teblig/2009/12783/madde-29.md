@@ -1,0 +1,5 @@
+Dampingli ithalatın fiyatlarının gelişimi
+MADDE 29 – (1) TÜİK kayıtları esas alınarak yapılan incelemede, soruşturmaya konu ülkelerin ağırlıklı ortalama CIF ihraç fiyatları 2004 yılı 2,3 ABD Doları/Kg iken; 2005 yılında 2,4 ABD Doları/Kg; 2006 yılında 2,7 ABD Doları/Kg ve SD’nde 3 ABD Doları/Kg olmuştur.
+(2) Soruşturma konusu ülkeler haricindeki 3 üncü ülkelerin ağırlıklı ortalama CIF ihraç fiyatları ise 2004 yılı 3,3 ABD Doları/Kg iken; 2005 yılında 3,4 ABD Doları/Kg; 2006 yılında 3,4 ABD Doları/Kg ve SD’nde 3,7 ABD Doları/Kg olmuştur.
+(3) İthalat ağırlıklı ortalama CIF ihraç fiyatları ise 2004 yılı 2,6 ABD Doları/Kg iken; 2005 yılında 2,6 ABD Doları/Kg; 2006 yılında 2,8 ABD Doları/Kg ve SD’nde 3,1 ABD Doları/Kg olmuştur.
+(4) Soruşturmaya konu ülkeler menşeli ithalatın fiyatları, zarar inceleme dönemi boyunca üçüncü ülkelerden ithalatın ortalama birim fiyatının ciddi ölçüde altında seyretmiştir. Bu fiyat farkı 2004 yılında %44, 2005 yılında %41, 2006 yılında %29 ve 2007 yılında %22 düzeyinde gerçekleşmiştir.

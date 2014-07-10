@@ -1,0 +1,52 @@
+{
+  "source_id": "9.5.12783",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (2009/1)",
+  "number": "12783",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2009/12783",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12783&MevzuatTertip=5",
+  "source_sha256": "335a1ff18b49fde8fd936c89103a4bd76bf0dc54026a53f41d9b670bd82e6d94",
+  "source_bytes": 178599,
+  "published": "2009-01-12",
+  "gazette": "27108",
+  "in_force": "2014-07-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/7/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-07-10",
+      "RG-10/7/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-07-10",
+      "10/7/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-03-20",
+      "RG-20/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-03-20",
+      "20/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8318,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

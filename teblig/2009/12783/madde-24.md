@@ -1,0 +1,4 @@
+İthalatın etkisinin toplu değerlendirilmesi
+MADDE 24 – (1) ÇHC, Endonezya ve Hindistan için hesaplanan damping marjlarının ve soruşturmaya tabi her bir ülkeden yapılan ithalat miktarlarının ihmal edilebilir oranlardan fazla olduğu görülmüştür.
+(2) Yapılan incelemeler sırasında, soruşturmaya konu her bir ülke kaynaklı ürünün benzer fiziksel özelliklere sahip olduğu, aynı dağıtım kanallarından geçtiği ve aynı piyasaya hitap ettiği anlaşılmıştır. Bu çerçevede soruşturmaya tabi her bir ülkeden ithal edilen soruşturma konusu ürünlerin kendi aralarında ve yerli benzer ürünle rekabet ettiği sabit görülmüştür.
+(3) Bu çerçevede, aşağıda yer alan değerlendirmelerde dampingli ithalat ifadesi soruşturmaya konu ülkelerden yapılan soruşturma konusu madde dampingli ithalatının toplamına karşılık gelmektedir.

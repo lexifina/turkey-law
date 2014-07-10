@@ -1,0 +1,5 @@
+Dampingli ithalatın tüketime göre artışı
+MADDE 28 – (1) Maddenin yurtiçi tüketimi, şikayet başvurusunda verisi bulunan 22 şikayetçi firma ile 3 şikayeti destekleyen firmanın iç piyasa satışları ile genel ithalatın toplanması suretiyle hesaplanmıştır.
+(2) Bu çerçevede belirlenen toplam tüketim endeks olarak 2004 yılında 100 iken SD’de 135 seviyesine yükselmiştir.
+(3) 2004-SD’de dampingli ithalatın pazar payı endeks olarak 100’den 119’a yükselmiştir. Dampingli ithalatın hızla büyüyen pazarda satışlarını arttırmanın da ötesinde yerli üretim dalı ve üçüncü ülkeler aleyhine pazar payını ciddi oranda arttırmış olması dikkat çekmektedir. Söz konusu pazar payı artışının özellikle 2006-2007 döneminde ortaya çıkmış olduğu da ayrıca üzerinde durulması gereken bir husus olarak ortaya çıkmaktadır.
+(4) Aynı dönemde yerli üreticilerin yurtiçi satışları %13 yükselmesine karşın pazar payı %17 azalmıştır. Her ne kadar yerli üreticilerin satışları 2004-07 arasında kaybedilen pazar payına karşın artış göstermiş olsa da 2006-07 döneminde büyüyen pazara rağmen satışlardaki ciddi boyutlu azalma dikkat çekicidir.

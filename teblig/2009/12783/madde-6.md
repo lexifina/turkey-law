@@ -1,0 +1,6 @@
+İlgili tarafların bilgilendirilmesi ve dinlenmesi
+MADDE 6 – (1) Soruşturma açılmasını müteakip, soruşturma konusu ülkelerin Ankara’daki Büyükelçiliklerine ve bilinen üretici-ihracatçı firmalara şikayetin gizli olmayan metni ve soruşturma açılış Tebliği gönderilmiştir.
+(2) Tüm taraflara, soruşturma boyunca soruşturma ile ilgili görüşlerini ve bu görüşlerle alâkalı bilgi ve belgeleri sunma imkanı verilmiştir. Buna ilave olarak, yerli üreticiler ve ithalatçıların katılımıyla özellikle pazarın durumu ve yerli üretim dalında zarara ilişkin görüşlerin karşılıklı olarak dile getirilebilmesinin teminen 17/9/2008 tarihinde bir kamu dinleme toplantısı yapılmıştır.
+(3) Soruşturma sırasında ilgili taraflardan alınan bilgi ve belgelerin gizli olmayan özetleri talep eden bütün ilgili tarafların bilgisine sunulmuştur.
+(4) Nihai bildirimin ilgili taraflara gönderilmesini müteakip örnekleme dahil üretici/ihracatçı firmalardan talep edenler için 4-5 Aralık 2008 tarihlerinde dinleme toplantıları gerçekleştirilerek taraflara soruşturmayla ilgili konularda nihai görüş ve iddialarını sözlü ve yazılı olarak sunma imkanı tanınmıştır.
+(5) İlgili tarafların soruşturma sırasında gündeme getirdiği nesnel iddialar ile belgeler değerlendirilmiş olup ilgili hususlara işbu Tebliğ içerisinde yeri geldiğince değinilmiştir.
