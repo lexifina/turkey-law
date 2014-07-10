@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6549",
+  "year": 2014,
+  "title": "Vatansız Kişilerin Statüsüne İlişkin Sözleşmeye Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-07-10",
+  "gazette_issue": "29056",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140710-2.htm",
+  "source_sha256": "1477d91dac9b3066617c41653171ccc5b297e28cc9cd966e782fa44247b669df",
+  "text_sha256": "2b255ec24a7dd8b1032cd3be4010de1fd84c2fef7a8da8606c0ac872cee0db73",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/07/10/29056-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140710-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
