@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76071283-130[9-2014-2]-21",
+  "source_id": 30427,
+  "date": "2014-07-10",
+  "title": "TÜİK'e fatura edilen konaklama bedeli üzerinden tevkifat yapılıp yapılmayacağı ve yapılacaksa tevkifat oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30427",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "883cd1de3bfd24f66308b69dbeefb06862732527483a9910f3508d15d301c820",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
