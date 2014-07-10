@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5120/1",
+  "decision_date": "2014-07-10",
+  "title": "Tarife revizyonu",
+  "resmi_gazete_date": "2014-08-07",
+  "resmi_gazete_number": "29081",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=m8Ie+2WUDAs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=m8Ie+2WUDAs="
+  ],
+  "source_sha256": "a4047d671ad2fa3c5026f4174ad2fb054686be587aeb0e817baaf304871dd9d6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-07-10",
+  "law_text_complete": false
+}
