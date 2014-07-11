@@ -1,0 +1,3 @@
+Üçüncü ülkelerden gerçekleştirilen ithalat
+MADDE 17 – (1) Soruşturmaya konu ÇHC dışında zarar inceleme döneminde Türkiye’ye ihracat yapan diğer ülkeler incelendiğinde İtalya Cumhuriyeti’nin (İtalya) ÇHC’den sonra miktar temelinde toplam ithalat içinde en yüksek paya sahip ülke olduğu görülmüştür. Bu itibarla 2010 yılında ihracatı bulunmayan İtalya’nın 2011 yılında 2.421 adet ürünle % 4,09 oranında; 2012 yılında ise 2.485 adet ürünle toplam ithalattan %5,54 oranında pay aldığı tespit edilmiştir.
+(2) İtalya haricinde kalan ülkeler bakımından ise ülke payının 2010-2012 döneminde sırasıyla % 4,30; %2,49 ve %0,69 seviyesinde gerçekleştiği görülmüştür.

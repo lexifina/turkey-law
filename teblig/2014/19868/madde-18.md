@@ -1,0 +1,5 @@
+Türkiye toplam benzer mal tüketimi ve pazar payları
+MADDE 18 – (1) Türkiye toplam benzer mal tüketiminin hesaplanmasında başvuru sahibi yerli üretici ile 2011 ve 2012 yıllarında piyasada üretim yapmaya başlayan soruşturmayı destekleyen iki üreticinin yurt içi satışları, tüm ülkelerden gerçekleşen ithalatın miktarı ile toplanmıştır. Yerli üretim dalının yurt içi satışlarının ve soruşturma konusu ülkelerden gerçekleştirilen ithalatın toplam tüketime oranlanmasıyla pazar payları hesaplanmıştır.
+(2) Bu çerçevede 2010-2012 döneminde şikayeti destekleyen firmaların Türkiye toplam tüketiminden aldıkları pay hesaplanırken üretime başladıkları yıl olan 2011 yılı temel alınmıştır. Bu itibarla anılan firmalar için pazar payı 2011 yılında %9,16 seviyesindeyken izleyen yılda ise %27,85 seviyesinde oluşmuştur.
+(3) 2012 üretim rakamları itibariyle yerli üretim dalının Türkiye pazarından aldığı pay ise sırasıyla %64,78, %46,97 ve %34,61 seviyelerinde tezahür etmiştir.
+(4) Soruşturma konusu ülke olan ÇHC’nin pazar payı ise %33,71, %40,99 ve %35,20 olarak gerçekleşmiştir.

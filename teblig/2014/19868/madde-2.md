@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) 5/5/2013 tarihli ve 28638 sayılı Resmî Gazete’de yayımlanan 2013/9 sayılı İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (2013/9 sayılı Tebliğ) vasıtasıyla başlatılan söz konusu soruşturma T.C. Ekonomi Bakanlığı (Bakanlık) İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından tamamlanmıştır.
+(2) Bu Tebliğ, 14/6/1989 tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun (Kanun), 20/10/1999 tarihli ve 99/13482 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar (Karar) ile 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik (Yönetmelik) hükümleri çerçevesinde yürütülen damping soruşturması sonuçlarını içermektedir.

@@ -1,0 +1,2 @@
+Diğer ülkelerden ithalat
+MADDE 23 – (1) Üçüncü ülkeler menşeli ithalatın birim fiyatlarının soruşturma konusu ülkelerden gerçekleştirilen ithalatın birim fiyatlarının üstünde seyrettiği, bu haliyle üçüncü ülkeler menşeli ithalatın yerli üretim dalında zarara yol açmasının mümkün olmadığı değerlendirilmektedir. Nitekim üçüncü ülkeler menşeli ithalat görece yüksek fiyat düzeylerinin rekabet üzerinde bozucu etki yaratmaması nedeniyle yerli üretim dalı tarafından şikâyete konu edilmemiştir.
