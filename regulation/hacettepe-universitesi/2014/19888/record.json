@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-07-12",
+      "12.07.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29058",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-07-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2014/19888",
+  "published": "2014-07-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19888&MevzuatTertip=5",
+  "source_bytes": 23577,
+  "source_id": "8.5.19888",
+  "source_sha256": "59469c17b77f285ce6a91b73a5a554ae17858661dcbe8536cc83514fb8cbb6c8",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ NÜKLEER SİSTEMLER UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 854
+}
