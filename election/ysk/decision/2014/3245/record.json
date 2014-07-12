@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/3245",
+  "list_number": "3245",
+  "decision_date": "2014-07-12",
+  "title": "Kolluk kuvvetlerine aranan şahısların oy kullanacağı mahalle isminin ve sandık numarasının verilemeyeceğine ilişkin Yüksek Seçim Kurulunun 2014/3245 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2354/2014-3245.pdf",
+  "source_sha256": "4ebe17779ee57211c5f2314cc8736f966b50e71c8e4684aeb716a1a44d77d18d",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-07-12",
+  "law_text_complete": false
+}
