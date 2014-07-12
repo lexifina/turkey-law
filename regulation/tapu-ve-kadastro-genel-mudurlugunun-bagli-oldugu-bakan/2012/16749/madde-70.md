@@ -1,0 +1,3 @@
+Teftiş programına ara verilmesi veya iptal edilmesi
+MADDE 70 – (1) Teftiş programlarının belirlenen tarih ve dönemler arasında kesintisiz uygulanması asıldır. Ancak, iş yoğunluğu, acil ve zorunlu durumlarda, teftiş programına Başkanın teklifi ve Genel Müdürün izni ve onayı ile ara verilebilir veya ertelenebilir.
+(2) Teftiş programının tamamlanmasının iş durumu veya bütçe imkânları itibariyle mümkün olmaması halinde, Başkan programın iptali için durumu Genel Müdüre intikal ettirir ve alacağı talimata göre gereğini yerine getirir. Programın iptali durumunda, teftişi yapılamayan birimlerin teftişleri bir sonraki programda öncelikle yaptırılır.

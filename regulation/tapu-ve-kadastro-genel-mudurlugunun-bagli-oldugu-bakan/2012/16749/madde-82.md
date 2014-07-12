@@ -1,0 +1,2 @@
+Suç ihbar raporu
+MADDE 82 – (1) Müfettiş ve müfettiş yardımcıları teftiş, inceleme veya idari soruşturma sırasında 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun kapsamında suç tespit ettiğinde veya kendisine ihbar veya şikâyet vuku bulduğunda, konuya ilişkin somut delillerini derhal toplayıp, suç ihbar raporu düzenleyerek, en kısa sürede mezkûr Kanuna göre yetkili merci olarak belirtilen yere, makama bildirir ve raporun bir örneği ve eklerini Teftiş Kurulu Başkanlığına gönderir.

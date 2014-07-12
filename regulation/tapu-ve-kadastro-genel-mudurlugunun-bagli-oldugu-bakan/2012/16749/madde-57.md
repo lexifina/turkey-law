@@ -1,0 +1,2 @@
+Yeterlik sınavından önce Kuruldan çıkarılma
+MADDE 57 – (1) Müfettiş yardımcılığı döneminde, performansına ve çalışmasına göre müfettişlikte başarı gösteremeyeceği anlaşılanlar, müfettişlik göreviyle bağdaşmayacak tutum ve davranışları saptananlar, yeterlik sınavı beklenmeksizin, Genel Müdürlük merkez ve taşra birimlerinde durumlarına uygun kadrolara naklen atanırlar. Bu hususların en az iki müfettiş raporu ve Teftiş Kurulu Başkanının görüşü ile belgelendirilmesi esastır.

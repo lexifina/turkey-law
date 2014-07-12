@@ -1,0 +1,3 @@
+Araştırma raporu
+MADDE 85 – (1) Araştırma raporu, yürürlükteki kanun, tüzük, yönetmelik, karar, genelge ve emirlerin uygulanmasında görülen noksanlıklar ve bunların düzeltilmesi yolları ile yeniden düzenlenmesi gereken hüküm ve usuller hakkındaki görüş ve önerilerin, Başkanlıkça araştırma yaptırılan çeşitli konular hakkındaki düşüncelerin ve araştırmaların, mesleki ve bilimsel çalışmaların sonuçlarının bildirilmesi maksadıyla düzenlenir.
+(2) Araştırma raporları, konularının ilgilendirdiği birimler göz önünde tutularak, yeterli sayıda hazırlanır. Bu raporlar Teftiş Kurulu Başkanlığınca gereği yapılmak ve yararlanılmak üzere ilgili birim ve yerlere gönderilir.

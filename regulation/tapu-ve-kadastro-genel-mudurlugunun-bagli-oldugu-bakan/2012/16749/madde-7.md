@@ -1,0 +1,6 @@
+Görev merkezi
+MADDE 7 – (1) Teftiş Kurulunun görev merkezi Ankara’dır.
+(2) Genel Müdürün teklifi ve Bakan oluru ile Teftiş Kurulu Başkanlığınca, devamlı denetim ve teftişi sağlamak amacıyla, Genel Müdürlük merkez teşkilatının bulunduğu yer dışında müfettiş bulundurulması gerekli görülen bölge müdürlüklerinin bulunduğu il merkezlerinde en az üç müfettişten oluşmak üzere görev merkezleri kurulabilir veya aynı usulle kaldırılabilir.
+(3) Bu merkezlerde görev yapmak isteyen Teftiş Kurulunda müfettiş yardımcılığı dâhil en az dört yıl görev yapan müfettişler, Başkanın teklifi ve Genel Müdürün onayı ile beş yıllık süre ile görevlendirilebilir.
+(4) Ankara dışındaki görev merkezlerinde bulunan müfettiş sayısı, görevlendirme süreleri, bu merkezlerdeki müfettişlerin çalışma koşulları, performansları ve hizmet gerekleri dikkate alınarak sınırlandırılabileceği gibi belirlenen süre dolmasa da gerektiğinde Başkanın teklifi ve Genel Müdürün onayı ile bu görevlendirme sona erdirilebilir.
+(5) Bu görev merkezlerinde görev yapan müfettişlerden biri, Teftiş Kurulu Başkanı ve Genel Müdür tarafından verilen emirlerin yerine getirilmesi, büro hizmetlerinin yürütülmesi, müfettişlerin büroyla ilişkilerinin düzenlenmesi ve koordinasyonun sağlanması konularında, Başkanın teklifi ve Genel Müdürün onayıyla Grup Başkanı olarak görevlendirilebilir.

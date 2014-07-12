@@ -1,0 +1,3 @@
+Haberleşme
+MADDE 99 – (1) Müfettiş ve müfettiş yardımcıları, görev merkezleri dışındaki yerlere görevli giderken, Teftiş Kurulu Başkanlığına hangi iş için nereye ve hangi tarihte gidileceğini belirten görev emirlerini ilgi tutarak varış ve ayrılış yazısı verirler.
+(2) Müfettiş ve müfettiş yardımcıları; görevli olarak gittikleri yerlere varış ve buradan görev bitimi veya izinli ayrılışlarını, aynı gün içinde telefon, faks ve elektronik posta gibi haberleşme araçlarıyla Teftiş Kurulu Başkanlığına bildirirler. Müfettiş ve müfettiş yardımcıları görevli bulundukları yerlerden Başkana bilgi vermeden ayrılamazlar.

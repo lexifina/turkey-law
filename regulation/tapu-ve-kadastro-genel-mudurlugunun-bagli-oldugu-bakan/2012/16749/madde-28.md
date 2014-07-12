@@ -1,0 +1,2 @@
+Sınav Kurulu
+MADDE 28 – (1) Müfettiş yardımcılığı yarışma sınavını yapacak olan Sınav Kurulu, Teftiş Kurulu Başkanının teklifi ve Genel Müdürün onayı ile Genel Müdürün kendisinin veya Teftiş Kurulu Başkanının Başkanlığında, Teftiş Kurulunda müfettişlik yapmış idari görevdeki yöneticiler ile Teftiş Kurulundaki başmüfettiş ve müfettişler arasından seçilen toplam beş kişiden oluşur. Ayrıca aynı usulle üç yedek üye belirlenir.

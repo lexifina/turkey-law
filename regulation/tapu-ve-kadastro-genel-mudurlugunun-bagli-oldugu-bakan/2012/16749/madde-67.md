@@ -1,0 +1,3 @@
+Diğer denetim faaliyetlerinin izlenmesi
+MADDE 67 – (1) Bölge Müdürlüklerinin yıllık denetim, inceleme, ön inceleme ve soruşturma çalışmalarını Teftiş Kurulunun çalışmaları ile koordine edebilmek amacıyla; bu birimler Teftiş Kurulunca bildirilen esaslar çerçevesinde her yıl ocak ayı içerisinde çalışma programlarını yaparak onaylanmak üzere Genel Müdürlüğe gönderirler. Teftiş Kurulu Başkanlığınca incelenen bu programlar kesinleştirilerek, uygulanmak üzere ilgili birimine gönderilir ve sonuçları takip edilir.
+(2) Bu denetim çalışmalarının izlenmesi için düzenlenmiş formlarla, ilgili birimler tarafından Teftiş Kurulu Başkanlığına bilgi verilir.

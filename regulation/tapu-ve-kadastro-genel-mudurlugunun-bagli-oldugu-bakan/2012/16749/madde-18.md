@@ -1,0 +1,2 @@
+Yurt dışına gönderilme
+MADDE 18 – (1) Müfettişler, tapu ve kadastro hizmetleri ile bu hizmetlerin denetimi ile ilgili konularda inceleme, araştırma yapmak ve mesleki bilgilerini arttırmak üzere 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri çerçevesinde yurt dışına gönderilebilir.

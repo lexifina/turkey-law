@@ -1,0 +1,5 @@
+Yazılı sınav sonuçlarının duyurulması ve sözlü sınav hazırlık işlemleri
+MADDE 36 – (1) Yazılı sınavı kazananların listesi, ilgilinin ad-soyadı, aday numarası ve aldığı puan belirtilmek suretiyle Sınav Kurulunca Genel Müdürlükte ve internet sitesinde ilan edilir ve bu kişiler yapılacak sözlü sınava çağırılır. İlan ve çağrıda sözlü sınavın yeri ve zamanı belirtilir.
+(2) Yazılı sınav sonucuna ilandan itibaren yedi gün içinde itiraz edilebilir ve Sınav Kurulunca bu itiraz en geç yedi gün içinde sonuçlandırılarak ilgiliye tebligat yapılır.
+(3) Yazılı sınavı kazanan adaylardan; kendi el yazıları ile eğitim durumu, mesleği ve yaptığı işleri, kendisi hakkında bilgi verebilecek iki kişinin adları, telefonları ve adreslerini belirten kısa özgeçmişleri istenir ve alınır.
+(4) Yazılı sınavı kazanan adayların müfettişlik mesleğinin gerektirdiği davranış, karakter ve nitelikleri taşıyıp taşımadıklarının belirlenmesi amacıyla, sözlü sınavdan önce Teftiş Kurulu Başkanlığınca en az iki müfettişe inceleme yaptırılır.

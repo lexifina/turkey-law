@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.16749",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TAPU VE KADASTRO GENEL MÜDÜRLÜĞÜ TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "16749",
+  "issuer": "Tapu ve Kadastro Genel Müdürlüğünün bağlı olduğu Bakan",
+  "issuer_slug": "tapu-ve-kadastro-genel-mudurlugunun-bagli-oldugu-bakan",
+  "path": "regulation/tapu-ve-kadastro-genel-mudurlugunun-bagli-oldugu-bakan/2012/16749",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16749&MevzuatTertip=5",
+  "source_sha256": "805cf92b10984d37f00a65ddc7b6f4955329e019d2daf3920d2f702c0154d167",
+  "source_bytes": 197416,
+  "published": "2012-11-09",
+  "gazette": "28462",
+  "in_force": "2014-07-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/7/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-07-12",
+      "RG-12/7/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-07-12",
+      "12/7/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11758,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

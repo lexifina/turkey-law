@@ -1,0 +1,7 @@
+Yazılı sınav kâğıtlarının okunması ve puana göre sıralama esasları
+MADDE 35 – (1) Yazılı sınav kâğıtlarının değerlendirmesi 100 tam puan üzerinden yapılır.
+(2) Değerlendirmede; sınav klasik yöntemle yapılmış ise her sorunun cevabına her üye tarafından ayrı ayrı not verilir. Her üyenin notlarının ortalaması alınarak sınav cevap kâğıdının notu verilir. Test usulü uygulanmışsa Sınav Kurulunun kendi arasında belirlediği en az iki üyenin gözetiminde cevap anahtarına göre adayın notu belirlenir. Bu not sınav notu olarak tespit edilir.
+(3) Genel Müdürlüğün yaptığı yazılı sınava giren müfettiş yardımcısı adayları, alan bilgisinden yapılan yazılı sınav notlarına göre, en yüksek puanlı adaydan başlamak üzere puan sıralamasına tabi tutulur. Puana göre sıralama; hukuk ve teknik bölüm için ayrı ayrı yapılır.
+(4) Yazılı sınavda, asgari 70 ve üzerinde puan almış olmak koşuluyla, alan bilgisi sınav notlarına göre yapılan puan sıralamasında, sınavın yapıldığı dönem alanlara ayrılmış kontenjana göre alınması öngörülen müfettiş yardımcısı sayısının 3 katını oluşturacak sayı kadar aday yazılı sınavı kazanmış sayılır.
+(5) Alan bilgisi puanları eşit olan adayların kendi aralarındaki sıralamasında, yabancı dil puanı yüksek olan adaya öncelik verilir. Alan bilgisi ve yabancı dil puanlarının her ikisi de eşit olan adayların kendi aralarındaki sıralamasında ise, Genel Müdürlüğün esas aldığı KPSS puanı yüksek olan adaya öncelik verilir.
+(6) Sınav cevap kâğıtları değerlendirilip not verildikten sonra sonuçları ile birlikte bir tutanakla Teftiş Kurulu Başkanlığına teslim edilir.
