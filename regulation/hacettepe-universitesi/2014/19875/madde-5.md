@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Üniversitenin ilgili bölüm, anabilim dalları ve ilgili diğer kuruluşların işbirliği ile odağı kaliteli, mutlu, yaratıcı ve sağlıklı bir kent yaşamı olan, paylaşımcı, katılımcı, ekolojiye, tarihi mirasa saygılı, tarihin repertuar zenginliğini geleceğe yaratıcı kentler olarak evirmeyi amaç edinmiş, erişilebilirliği arttıran, sürdürülebilir kalkınma etiği çerçevesinde kenti bütüncül ve disiplinler arası bir yaklaşımla değerlendiren, hızla değişen demografik yapı ve kentin sektörel değişiminin getirdiği sorunlara çözüm arayan projeler tasarlamak, yurt içinde ve yurt dışında kent araştırmaları ile ilgili bilimsel araştırma, faaliyet ve uygulamalar yapmak, kent çalışmaları alanında eğitim faaliyetlerinde bulunmaktır.
