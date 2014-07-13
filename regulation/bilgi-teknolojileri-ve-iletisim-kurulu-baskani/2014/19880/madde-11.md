@@ -1,0 +1,4 @@
+İş sürekliliği
+MADDE 11 – (1) İşletmeci, yetkilendirmesine ilişkin tüm hizmetlerin ve kritik sistemlerin doğal afetler, çevresel tehditler, kazalar, donanım arızaları, kasti eylemler veya siber saldırılar sonucunda kesintiye uğramasını önlemek ve sahip olduğu varlıklarda oluşabilecek kayıpları en aza indirmek amacıyla iş sürekliliği planları yapar ve uygular.
+(2) Planlarda asgari olarak; iş süreçlerini kesintiye uğratabilecek olayların tanımları, söz konusu olayların gerçekleşmesi durumunda yapılacak faaliyetler, her bir faaliyetten sorumlu personel, planın devreye alınması için gerekli koşullar, plan kapsamında kullanılacak ekipman ve malzeme yer alır.
+(3) Planlar tatbikat, simülasyon gibi tekniklerle her yıl test edilir ve test sonuçları kayıt altına alınır. Test sonuçlarına göre ya da planları etkileyebilecek yazılım, donanım, personel değişiklikleri gibi durumlarda iş sürekliliği planları güncellenir.

@@ -1,0 +1,5 @@
+Elektronik ortam yönetimi
+MADDE 20 – (1) İşletmeci elektronik ortamda tutulan bilgilerin yetkisiz olarak erişilmesine, bu bilgilerin yetkisiz olarak değiştirilmesine, silinmesine ve zarar görmesine karşı gerekli önlemleri alır.
+(2) Kullanımdan kaldırılması veya başka amaçlarla yeniden kullanılması planlanan ekipmanda veya elektronik ortamda yer alan kritik bilgilerin yedekleri ile birlikte geri döndürülemez şekilde silinmesi sağlanır. Silme işleminin mümkün olmaması durumunda söz konusu bilgi depolayan parçalar kullanılamaz hale getirilir.
+(3) Taşınabilir ortamlardan veya mobil cihazlardan kaynaklanabilecek güvenlik zafiyetlerine yönelik tedbirler belirlenir; söz konusu ortam ve cihazlarda yer alan kritik bilgilerin yetkisiz erişim, değiştirme ve ifşa edilmeye karşı korunması amacıyla önlemler alınır ve çalışanların bunlara uymaları sağlanır.
+(4) Kritik bilgiler içeren dokümanlar veya sayısal kayıtları içeren ortamlar kullanımda olmadıkları zamanlarda kilitli dolaplarda veya şifre koruması altında tutulur.

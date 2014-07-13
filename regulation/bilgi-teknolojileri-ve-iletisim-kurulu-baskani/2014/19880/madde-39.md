@@ -1,0 +1,3 @@
+Felaket kurtarma merkezi
+MADDE 39 – (1) İşletmeci bir felaket, arıza veya hata durumunda sunulan elektronik haberleşme hizmetinin sürekliliğinin veya zamanında kurtarılmasının sağlanması için, ilgili bilgi sistemlerinin ve merkezi şebeke yönetim sistemlerinin bulunduğu yerde meydana gelebilecek bir felaketten etkilenmeyecek uzaklıkta felaket kurtarma merkezi kurar veya kurulu felaket kurtarma merkezlerinden hizmet satın alır.
+(2) Felaket kurtarma merkezi kurma yükümlülüğüne tabi olan işletmeci, yükümlülük durumunun değiştiği yılın sonundan itibaren iki yıl içerisinde felaket kurtarma merkezi kurar.

@@ -1,0 +1,28 @@
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Belgelendirme kuruluşu: TS ISO/IEC 27001 veya ISO/IEC 27001 standardına göre belgelendirme yapmak üzere akredite edilmiş kurum veya kuruluşu,
+b) BGYS standardı: TS ISO/IEC 27001 veya ISO/IEC 27001 standardını,
+c) Bilgi güvenliği yönetim sistemi (BGYS): Bilginin gizliliğini, bütünlüğünü ve erişilebilirliğini sağlamak üzere sistemli, kuralları koyulmuş, planlı, yönetilebilir, sürdürülebilir, dokümante edilmiş, işletmecinin yönetimince kabul görmüş ve uluslararası güvenlik standartlarının temel alındığı faaliyetler bütününü,
+ç) Bilgi sistemi: İşletim sistemlerinin, veritabanlarının, sunucuların, altyapının, iş uygulamalarının, kullanıma hazır ürünlerin, donanımların, yazılımların ve hizmetlerin tamamını,
+d) Bütünlük: Varlıkların doğruluğunu ve tamlığını koruma özelliğini,
+e) Donanım: Elektronik haberleşme altyapısı, bilgisayarlar, veri kaydetmek için kullanılan taşınabilir veya sabit diskleri,
+f) Dos: Hizmet dışı bırakmayı,
+g) Ddos: Dağıtık hizmet dışı bırakmayı,
+ğ) Erişilebilirlik: Yetkili bir varlık tarafından talep edildiğinde erişilebilir ve kullanılabilir olma özelliğini,
+h) Gizlilik: Bilginin yetkisiz kişiler, varlıklar ya da süreçler tarafından erişilememesini, kullanılamamasını, değiştirilmemesini, depolanmamasını, başka bir ortama kaydedilmemesini veya ifşa edilmemesini,
+ı) IP adresi: İnternet protokol adresini,
+i) İşletmeci: Yetkilendirme çerçevesinde elektronik haberleşme hizmeti sunan ve/veya elektronik haberleşme şebekesi sağlayan ve alt yapısını işleten şirketi,
+j) Köle bilgisayar: Herhangi bir amaçla kullanılmak üzere, zararlı yazılımlar veya kötü niyetli kişiler tarafından uzaktan yönetilen internete bağlı bilgisayarı,
+k) Kritik bilgi: Değiştirilmesi, bozulması, kaybolması, kötüye kullanılması veya yetkisiz bir şekilde ifşa edilmesi durumunda şebeke ve bilgi güvenliği açısından zararlara yol açacak bilgiyi,
+l) Kritik sistem: İşletmecinin kontrolü altında yer alan elektronik haberleşme altyapısı ile işlevselliğinin bozulması halinde veya maruz kalacağı etkiler neticesinde şebeke ve bilgi güvenliğini zafiyete uğratabilecek sistemleri,
+m) Kurul: Bilgi Teknolojileri ve İletişim Kurulunu,
+n) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+o) Risk değerlendirme: Risklerin analizi, seviyelerinin tanımlanması, derecelendirilmesi ve tahmin edilmesi ile kabul edilebilir risk seviyesinin belirlenmesini,
+ö) Risk işleme: Riski azaltmaya yönelik önlemlerin seçilmesi ve uygulanması ile kabul edilen risklerin gerekçelerinin belirlenmesini,
+p) Risk temelli değerlendirme: Abone sayısı, yıllık net satış, müşteri beklentileri, yasal ve düzenleyici yükümlülükler, hizmet verilen yerleşim alanları, işletilen altyapının kritikliği veya büyüklüğü gibi kriterler dikkate alınarak Kurum tarafından yapılan değerlendirmeyi,
+r) Siber Güvenlik Kurulu: 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanununun EK 1 inci maddesinin birinci fıkrası kapsamında kurulan kurulu,
+s) SOME: Siber olaylara müdahale ekibini,
+ş) USOM: 20/6/2013 tarihli ve 28683 sayılı Resmî Gazete’de yayımlanan 2013/4890 sayılı Bakanlar Kurulu Kararı’nın ekinde yer alan Ulusal Siber Güvenlik Stratejisi ve 2013-2014 Eylem Planı’nın 4 üncü maddesi gereğince kurulan ulusal siber olaylara müdahale merkezini,
+t) Varlık: İşletmeci için değeri olan herhangi bir şeyi,
+ifade eder.
+(2) Bu Yönetmelikte geçen ve birinci fıkrada yer almayan tanımlar için ilgili mevzuatta yer alan tanımlar geçerlidir.
