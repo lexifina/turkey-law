@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-07-13",
+  "issue": "29059",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Selçuk Üniversitesi Sanat ve Tasarım Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140713-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140713.htm",
+  "index_sha256": "a494f8dc4b9aae02eb2b35b60302c5d255888b45c887f775ad20d7344f748c9d",
+  "index_header": "13 Temmuz 2014 ... 29059 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140713.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
