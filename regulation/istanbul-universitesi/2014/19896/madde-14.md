@@ -1,0 +1,3 @@
+Transkript
+MADDE 14 – (1) Öğrencinin katıldığı her dönem sonunda hazırlanan transkript bilgi amacı ile diğer üniversiteye gönderilir. Öğrencinin genel not çizelgesi her iki üniversitede hazırlanır.
+(2) Ayrıca, uluslararası ortak program kapsamında eğitim ve öğretim süresini tamamlayıp Üniversiteye geri dönen öğrenciler, almış oldukları dersleri gösteren transkripti uluslararası ortak program koordinatörüne teslim etmekle yükümlüdür. Koordinatörler, transkriptin bir kopyasını kendi dosyalarında muhafaza ederek, asıllarını, dosyalarına konulmak üzere öğrencinin bağlı olduğu enstitüye gönderirler.

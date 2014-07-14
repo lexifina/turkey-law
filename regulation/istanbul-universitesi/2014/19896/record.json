@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 22 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-07-14",
+      "14.07.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 22 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29060",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-07-14",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Üniversitesi",
+  "issuer_slug": "istanbul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-universitesi/2014/19896",
+  "published": "2014-07-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19896&MevzuatTertip=5",
+  "source_bytes": 30471,
+  "source_id": "8.5.19896",
+  "source_sha256": "34903ba6d4b4b6b16bdd2d75015fa63f146b7f31f249bc7496d366e746fa7b8a",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL ÜNİVERSİTESİ ÇİFT VEYA ORTAK TEK DİPLOMAYA YÖNELİK ULUSLARARASI ORTAK LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM PROGRAMLARI YÖNETMELİĞİ",
+  "university_id": 202,
+  "word_count": 1413
+}
