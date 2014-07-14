@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70903105-165.01.03[208]-74209",
+  "source_id": 37592,
+  "date": "2014-07-14",
+  "title": "İhraç edilen eşyalardan bir kısmının alıcı tarafından kalite şartlarını sağlamadığı gerekçesiyle iade edilmesi halinde KKDF uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/37592",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "c686526c9f8d115eaa110926f978efd5018dd8c453fea67316d7fccc4b2b3de3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
