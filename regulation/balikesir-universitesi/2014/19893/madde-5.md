@@ -1,0 +1,9 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Çalışma Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları şunlardır:
+a) Devletin sosyal korumaya ihtiyacı olan kesimlerde dahil olmak üzere toplumsal refahı artırmak için eğitim, sağlık, istihdam, sosyal güvenlik, barınma, sosyal hizmet alanları başta olmak üzere; kamu hizmetlerinin tasarımı, sunumu, izlenmesi, değerlendirilmesi, geliştirilmesi; bu hizmetlerin kolay ve yaygın erişebilirlik, şeffaflık, sürdürülebilirlik, niteliklerinin iyileştirilmesi, amaçlı politikalar ve uygulamalar konusunda çalışmalar yürütmek, analizler ve politika önerileri geliştirmek, ilgili kurum ve kuruluşların bilgisine sunmak, işbirliği yapmak ve oluşturulan bilgi birikiminin paylaşılmasını sağlamak.
+b) Türkiye’de işsizliğin azaltılması, işgücü piyasalarının etkin çalışmasının sağlanması, insan gücünün niteliğinin iyileştirilmesi, katılım ve gönüllülük faaliyetlerinin teşvik edilmesi, beceri uyumsuzluğunun giderilmesi, kayıtsız istihdam ile mücadele, iç ve dış göçün izlenmesi ve yönetilmesi, doğal afet ve felaketlerin toplumsal sonuçlarına uygun ve çabuk müdahale edilmesi alanlarında veriler toplanmasına, analizler yapılmasına, politikalar geliştirilmesine ve uygulanmasına katkıda bulunmak.
+c) Engelliler, kadınlar, çocuklar, öğrenciler, yaşlı nüfus ve tüm dezavantajlı gruplara yönelik araştırmalar yapılması, uygun sosyal politikaların geliştirilmesine ve uygulanmasına katkıda bulunmak.
+ç) İhtiyaç duyulan sosyal politikaların bilgi toplumu politikaları ile uyumlu ve gerektiğinde etkileşimli biçimde tasarlanması ve değerlendirilmesini teşvik etmek.
+d) Avrupa Birliğine uyum süreci ve Lizbon Stratejisi kapsamında, inovasyon, öğrenen ekonomi ve sosyal ve çevresel yenilenme problemlerini çok boyutlu ve disiplinler arası biçimde incelemek ve Türkiye’nin kendi koşullarına uygun çözüm ve politika önerileri üretmek.
