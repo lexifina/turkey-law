@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "236",
+  "decision_date": "2014-07-14",
+  "title": "- Akdeniz ilçesi, 55 ada, 3 numaralı parsel",
+  "listed_as": "236- Akdeniz ilçesi, 55 ada, 3 numaralı parsel",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/236--akdeniz-ilcesi-55-ada-3-numarali-parsel",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk85-14-temmuz-2014-meclis-kararlari",
+  "listing_sha256": "0eefd26273b2a5091fa63ded8a3c9a20d50d17f8468d8a17d5b690543c7cd267",
+  "meeting_title": "MK85-14 TEMMUZ 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
