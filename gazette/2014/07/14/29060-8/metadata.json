@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-07-14",
+  "issue": "29060",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Üniversitesi Çift veya Ortak Tek Diplomaya Yönelik Uluslararası Ortak Lisansüstü Eğitim ve Öğretim Programları Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140714-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140714.htm",
+  "index_sha256": "32c3b4ecb5fd3ff866f3beb5f507e7b5e9e106989cc8117299d1c9f0cf7c160f",
+  "index_header": "14 Temmuz 2014 ... 29060 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140714.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
