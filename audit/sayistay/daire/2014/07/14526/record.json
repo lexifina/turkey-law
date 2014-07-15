@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35236",
+  "decision_date": "2014-07-15",
+  "source_id": 14526,
+  "chamber": "2",
+  "ilam_number": "305",
+  "item_number": 6,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14526/",
+  "source_sha256": "85f5acfea04e78069da47cb9c79856036509cdb3dd2fd156f9aa9c17973768ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
