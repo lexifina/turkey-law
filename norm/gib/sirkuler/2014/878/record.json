@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-33/2014-3 / Yatırım İndirimi - 23",
+  "source_id": 878,
+  "date": "2014-07-15",
+  "title": "Geçici Vergi Dönemlerinde Yeniden Değerleme Oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/878",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "171a6d6c2ccbf72fe261aa2a013ced9f4f67139e694723701ccfeb9370e13e42",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
