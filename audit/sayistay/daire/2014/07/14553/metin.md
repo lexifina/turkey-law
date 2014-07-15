@@ -1,0 +1,3 @@
+“Et ve Dondurulmuş Gıda Alımı” işi kapsamında alınan “yufka” için %1 yerine %8 oran üzerinden katma değer vergisi ödenmesi.
+
+30.12.2007 tarih ve 26742 sayılı Resmi Gazetede yayımlanan “Mal ve Hizmetlere Uygulanacak Katma Değer Vergisi Oranlarının Tespitine İlişkin Karar”a ekli I sayılı cetvelde yer alan teslim ve hizmetler için katma değer vergisi oranı %1 olarak tespit edilmesine ve Üniversite tarafından satın alınan “yufka” bu cetvelde yer almasına rağmen, “Et ve Dondurulmuş Gıda Alımı” işi kapsamında alınan yufka için %8 oran üzerinden katma değer vergisi ödenmesi sonucu sebep olunan … TL kamu zararı …………. ile tahsil edildiğinden konu hakkında ilişilecek bir husus kalmadığına oybirliğiyle,
