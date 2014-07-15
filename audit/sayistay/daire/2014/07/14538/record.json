@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35236",
+  "decision_date": "2014-07-15",
+  "source_id": 14538,
+  "chamber": "2",
+  "ilam_number": "305",
+  "item_number": 18,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14538/",
+  "source_sha256": "07d96305aeb9cdb1adeaa177dda827a3c442e666631dd2f031a32069d491d9d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
