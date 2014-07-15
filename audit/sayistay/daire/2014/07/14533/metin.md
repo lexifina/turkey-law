@@ -1,0 +1,3 @@
+Bilimsel Araştırma Projelerine ilişkin alımlarda %8 ve %1 oranında katma değer vergisi ödenmesi gereken malzemeler için %18 oranında katma değer vergisi ödenmesi.
+
+Bilimsel Araştırma Projelerine ilişkin alımlarda %8 ve %1 oranında katma değer vergisi ödenmesi gereken malzemeler için %18 oranında katma değer vergisi ödenmesi hususuna ilişkin … TL’nin … TL’si aşağıda yer alan belgelerle tahsil edildiğinden bu miktar için ilişilecek bir husus kalmadığına, geriye kalan … TL’sine ilişkin işlemlerin, sorumluların gönderdikleri savunmalardan Bilimsel Araştırma Projeleri kapsamında alınan bazı malzemelerin katma değer vergisi oranının %18 olduğu anlaşıldığından yasal düzenlemeler uygun olduğuna ve bu miktar için ilişilecek bir husus bulunmadığına oybirliğiyle,
