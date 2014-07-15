@@ -1,0 +1,3 @@
+2010 yılı temizlik ihalesini kazanan yüklenici ..… İnş. Tem. Yem. San. Ltd. Şti.’nin çalıştırdığı işçilere fazla çalışma ve genel tatil ücretlerini ödememesi üzerine açılan dava sonucunda İdare tarafından ödenen ücretler için firmaya rücu edilmemesi.
+
+2010 yılı temizlik ihalesini kazanan yüklenici ..… İnş. Tem. Yem. San. Ltd. Şti.’nin çalıştırdığı işçilere fazla çalışma ve genel tatil ücretlerini ödememesi üzerine açılan dava sonucunda İdare tarafından ödenen ücretler için firmaya rücu edilmemesi hususuna ilişkin .… TL hakkında, sorumluların savunmaları ile ekindeki belgelerden konu hakkında verilen mahkeme kararlarının temyiz edildiği ve yüklenici firma hakkında rücu davası açıldığı anlaşıldığından ilişilecek bir husus kalmadığına oybirliğiyle,
