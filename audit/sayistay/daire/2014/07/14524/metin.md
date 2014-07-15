@@ -1,0 +1,3 @@
+Personel destek hizmeti sağlanması işinde katma değer vergisi tevkifatının yanlış oran üzerinden uygulanması.
+
+ “… Üniversitesi Rektörlüğü ve Bağlı Birimlerine Personel Destek Hizmeti [12 ay (01 Ocak 2012-31 Aralık 2012) /ayda 4 işçi] Sağlanması” işine ilişkin olarak düzenlenen hakedişlerden 9/10 oranında katma değer vergisi tevkifatı yapılması gerekirken, 7/10 oranında tevkifat yapıldığı görülmüşse de, sorumluların gönderdikleri savunmalar ve eki belgelerden katma değer vergilerinin beyan edilip ödendiği anlaşıldığından kamu zararı oluşmadığına ve konuya ilişkin .… TL için ilişilecek bir husus bulunmadığına oybirliğiyle,
