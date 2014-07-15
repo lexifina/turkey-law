@@ -1,0 +1,4 @@
+Deneyler ve Tip Onayı İşlemleri
+Madde 6- Deneyler ve tip onayı işlemlerine ait hususlar aşağıda belirtilmiştir.
+a) Deneyler; 2/8/2001 tarihli ve 24481 sayılı Resmi Gazetefde yayımlanan Dar İzli Tekerlekli Tarım ve Orman Traktörlerinin Sürücü Koltuğu Önüne Monte Edilmiş Devrilmeye Karşı Koruma Çerçevesi İle İlgili Tip Onayı Yönetmeliğinin (87/402/AT) eklerinde belirtilen usul ve esaslara göre yapılır.
+b) 87/402/AT Yönetmeliğinde belirtilen deneyleri sağlayan ve bu Yönetmeliğin Ek Ifinde yer alan şartlara uyan koruma çerçevelerine, 87/402/AT Yönetmeliğinin Ek VIfsında örneği bulunan ve Ulusal Tip Onayına uygun olarak Teknik Servis tarafından düzenlenecek rapora göre Onay Kuruluşu tarafından örneği Ek IIfde bulunan Ulusal Tip Onayı Belgesi verilir. Örneği Ek IIIfde yer alan belge traktörün Tip Onayı Belgesine eklenir.
