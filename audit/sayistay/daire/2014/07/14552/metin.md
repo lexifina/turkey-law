@@ -1,0 +1,5 @@
+“… Üniversitesi Diş Hekimliği Fakültesi Bilgi Otomasyonu Hizmeti Alım İşi”nde katma değer vergisi ödenmesi.
+
+ “… Üniversitesi Diş Hekimliği Fakültesi Bilgi Otomasyonu Hizmeti Alım İşi”nde yükleniciye sözleşme bedeli ile birlikte katma değer vergisi ödendiği görülmüştür.
+
+Ancak her ne kadar işe ait sözleşmede katma değer vergisinin sözleşme bedeline dahil olup olmadığına ilişkin bir hüküm bulunmasa da;  Mal Alımı İhaleleri Uygulama Yönetmeliği eki Mal Alımlarına Ait Tip Sözleşmenin 7 nci maddesinin 1 inci fıkrasının birinci bendinde “Taahhüdün yerine getirilmesine ilişkin … sözleşme bedeline dahildir.”, ikinci fıkrasında “İlgili mevzuatı uyarınca hesaplanacak katma değer vergisi sözleşme bedeline dahil olmayıp İdare tarafından yükleniciye ödenecektir.” denildiğinden ve iş için yüklenici tarafından verilen teklif mektubunda teklif edilen tutar katma değer vergisi hariç olarak belirtildiğinden, söz konusu katma değer vergisi ödemelerinin yasal düzenlemelere uygun olduğuna ve konuya ilişkin … TL için ilişilecek bir husus bulunmadığına oybirliğiyle,
