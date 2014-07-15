@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35236",
+  "decision_date": "2014-07-15",
+  "source_id": 8927,
+  "chamber": "2",
+  "ilam_number": "305",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8927/",
+  "source_sha256": "d41f02f13e56b6866fe4eb9c523e7959f95bdf4af377e38e94712ad9eb7ab5f5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
