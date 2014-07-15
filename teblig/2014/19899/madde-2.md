@@ -1,0 +1,3 @@
+Başvuru usul ve esasları
+MADDE 2 – (1) Bu Tebliğin 3 üncü maddesinde belirtilen İran menşeli eşyaya yönelik kota başvurularının değerlendirmeye alınabilmesi için, Ek-1’de yer alan İthal Lisansı Başvuru Formunun usulüne uygun bir şekilde doldurulması ve Ek-2’de yer alan belgelerle birlikte tam ve eksiksiz bir şekilde Ekonomi Bakanlığına (Bakanlık) iletilmesi gerekmektedir.
+(2) Bu Tebliğ kapsamında yapılan beyanın doğruluğuyla ve ithal mallarla ilgili incelemeleri yapmaya veya yaptırmaya Bakanlık yetkilidir. Başvuruda sunulan bilgi ve belgelerde tutarsızlık olduğu durumlarda söz konusu tutarsızlık başvuru sahibi tarafından giderilinceye kadar talep karşılanmaz. Bakanlık, gerekli görmesi halinde, ek bilgi ve belge isteyebilir.
