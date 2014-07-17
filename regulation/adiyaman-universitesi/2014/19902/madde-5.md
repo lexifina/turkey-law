@@ -1,0 +1,22 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı ve faaliyet alanları
+MADDE 5 – (1) Merkezin amacı günümüz dünyasında oldukça önemli bir konumda bulunan uzaktan algılama ve coğrafi bilgi sistemleri teknolojilerini kullanarak doğal ve kültürel kaynakların sürdürülebilir kullanımına yönelik stratejiler geliştirilmesine katkı sağlamak, lisans ve lisansüstü düzeyde eğitim programlarına altyapı oluşturmak, ilgili bilimsel etkinlikleri ve uygulamaları organize etmek, yürütmek, desteklemek, geliştirmek ve ilgili kuruluşlarla işbirliğinin gelişmesine katkıda bulunmaktır.
+(2) Merkez aşağıdaki faaliyetlerde bulunur:
+a) Bölgedeki jeolojik ve hidrojeolojik yapı değişimlerinin ve özelliklerinin tespiti ve haritalanması, maden ve diğer hammadde yataklarının tespiti ve kullanımlarının izlenmesi, içme ve kullanma amaçlı potansiyel su kaynaklarının bulunması ve mevcut su kaynaklarının korunması, tektonik çizgiselliklerin ve kırık-çatlak formasyonlarının tespiti ve jeolojik duyarsızlık ve deprem risk analizlerinin yapılması.
+b) Bölgenin çeşitli yönlerden risk durumlarının (taşkın alma olasılığı olan yerlerin, don alma tehlikesi olan alanların, erozyon ve heyelan bölgelerinin ve kar yüklerinin) tespiti ve izlenmesi ile baraj ve göletlerin kapasitelerinin yönetimi.
+c) Tarımsal üretimi sınırlandıran tuzluluk, drenaj sorunu ve toprak kaybı gibi olumsuz faktörlerin tespitinin yapılması, gelişiminin izlenmesi ve alınacak önlemlerin bilimsel olarak belirlenmesi ve önlemlerin hızlı bir şekilde uygulamaya aktarılabilmesinin sağlanması.
+ç) Bölgedeki kentsel yer seçimlerinin ekolojik, fiziksel ve sosyo-ekonomik kriterlere dayalı olarak planlanması, kent bilgi sistemlerinin kurulması, kriz ve afet yönetim planlarının desteklenmesi, yeni yerleşim alanlarının ve katı atık depolama alanlarının tespitinin ve kent içi değişimlerle birlikte varsa gecekondulaşmanın takibinin yapılması.
+d) Bölgedeki tarımsal arazi kullanımının ekolojik, fiziksel ve sosyo-ekonomik kriterlere dayalı olarak planlanması, iç ve dış pazar koşullarından daha etkin yararlanmak amacıyla her üretim döneminde ve o üretim döneminin ekolojik ve ekonomik göstergelerine bağlı olarak tarım ürünlerinde üretim planlamasına olanak sağlayacak verilerin toplanması ve tarımsal ürün bazında alan ve rekolte tahminlerinin yapılması.
+e) Biyolojik çeşitliliğin korunması ve gen kaynaklarının sürdürülebilir şekilde kullanılmasına yönelik çalışmalar yürütülmesi.
+f) Biyolojik çeşitlilik ile ilgili bilginin değişimi ve eşgüdümünü sağlamak amacı ile yurt içi ve yurt dışındaki üniversiteler, kamu kurum ve kuruluşları ile işbirliği yapılması ve ortak projeler üretilmesi.
+g) İklim değişikliklerine sebep olan faaliyetlerin azaltılmasına yönelik projeler geliştirilmesi ve bu projelerin uygulanmasının sağlanması.
+ğ) İklim değişikliği konusunda bölgesel veriler toplanması ve bu verileri “İklim Değişikliği Bilgi Ağı’na” ekleyerek, toplumların iklim değişikliği konusunda daha etkin adımlar atmalarına yardımcı olunması.
+h) Kuraklık ve çölleşme tehdidine karşı alınacak önlemlerin belirlenmesi ve bunların uygulanmasının sağlanması.
+ı) Kuraklık ve çölleşme tehdidi altında olan bölgelerde, yaşam koşullarının iyileştirilmesine yönelik olarak, sürdürülebilir arazi ve su kaynakları yönetimi konularında uzun vadeli planlar oluşturulması ve bunların uygulanmasının sağlanması.
+i) Biyolojik çeşitliliğin korunması, iklim değişiklikleri, kuraklık ve çölleşmenin önlenmesi konularında halkın bilinçlenmesini sağlamak amacıyla etkinlikler yürütülmesi.
+j) Yukarıda anılan konularda çalışan biyoloji, jeoloji, hidroloji, hidrojeoloji, tarım ve diğer doğa bilimlerinde destek sağlanması.
+k) Merkezin çalışma alanına giren konularda ulusal ve uluslararası düzeyde kurs, seminer, konferans, kongre, sempozyum ve benzer bilimsel toplantılar düzenlemek ve bu toplantılara katılmak.
+l) Yurt içi, yurt dışı, kamu ve özel kuruluşların, gerçek ve tüzel kişilerin istek ve ihtiyaçları doğrultusunda etüt, proje ve buna benzer çalışmaların yapılması, rapor hazırlanması, danışmanlık ve bilirkişilik hizmetleri verilmesi.
+m) Merkezin ihtiyacı olan elemanların yurt içinde ve yurt dışında yetiştirilmesine yönelik çalışmalar yapılması, yurt dışından bu amaçlarla gelecek kişilere olanak hazırlanması, öneriler geliştirilmesi.
+n) Yurt içindeki ve dışındaki üniversiteler, diğer araştırma kurumları, uluslararası kuruluşlar ve merkezlerle işbirliği ve ortak çalışmalar yapılması, finansal kaynakların teminine çalışılması.
