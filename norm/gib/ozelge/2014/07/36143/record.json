@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-140[57-2014/48]-1886",
+  "source_id": 36143,
+  "date": "2014-07-17",
+  "title": "6306 sayılı Kanun kapsamında yeniden inşa olunacak gayrimenkulün tapu harcından istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36143",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "5efb4932192f0087620864417049284133a6b607551954c789d3b6f29bce79d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
