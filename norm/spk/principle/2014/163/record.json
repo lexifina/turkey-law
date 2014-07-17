@@ -1,0 +1,82 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "163",
+  "decision_number": "22/711",
+  "date": "2014-07-17",
+  "title": "Kurulun i-SPK.45.2 (17.07.2014 Tarih ve 22/711 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/163",
+  "source_sha256": "ac9a7035e00d0fbc97e5ff658b60d14761d7f17e6c0ef7212816a6a1dea6cb31",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 163,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 1. Kurulun İ-SPK.45.2 (17.07.2014 tarih ve 22/711 s.k.) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2014-07-17",
+    "source_clauses": [
+      "1. Kurulun İ-SPK.45.2 (17.07.2014 tarih ve 22/711 s.k.) sayılı İlke Kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "c0f99758-f49c-47af-b285-0ad4df109ee0",
+    "contentSource": "IlkeKarari",
+    "contentID": 163,
+    "tur": "İlke Kararı",
+    "title": "Kurulun i-SPK.45.2 (17.07.2014 Tarih ve 22/711 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2014-07-17T00:00:00",
+    "kurulKararTarih": "17.07.2014",
+    "kurulToplantiNo": "22/711",
+    "bultenYili": 2014,
+    "bultenNo": 21,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "77:Sermaye Piyasasında Finansal Raporlamaya İlişkin Esaslar Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 77,
+        "value": "Sermaye Piyasasında Finansal Raporlamaya İlişkin Esaslar Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "3:Kamunun Aydınlatılmasına İlişkin Esaslar;4:Halka Açık Ortaklıklar;15:Finansal Raporlama;50:Sermaye Kaybı ve Borca Batıklık",
+    "ilgiliKonular": [
+      {
+        "key": 3,
+        "value": "Kamunun Aydınlatılmasına İlişkin Esaslar"
+      },
+      {
+        "key": 4,
+        "value": "Halka Açık Ortaklıklar"
+      },
+      {
+        "key": 15,
+        "value": "Finansal Raporlama"
+      },
+      {
+        "key": 50,
+        "value": "Sermaye Kaybı ve Borca Batıklık"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/163",
+    "linkTarget": "_blank"
+  }
+}
