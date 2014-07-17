@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-140.10.01[2013/72]-728",
+  "source_id": 34807,
+  "date": "2014-07-17",
+  "title": "Limited şirket statüsünde bulunan şirketin anonim şirkete dönüştürülmesine ilişkin olarak yapılacak işlemlerin ticaret sicili harcı ve noter harcından, bu kapsamda düzenlenecek kağıtların ise damga vergisinden istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/34807",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "e8af7c3ab6390934fa4e5a44dbce6b1c8b979a327260d890e37c05ea89c0f751",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
