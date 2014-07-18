@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.19909",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BVA BELGELENDİRME VE DIŞ TİCARET LTD. ŞTİ.’NİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (MHG/2014-20)",
+  "number": "19909",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2014/19909",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19909&MevzuatTertip=5",
+  "source_sha256": "61e3fd73c579b87d1f1861db9eed337b71b8bb96a700e638fa070e89545c64ed",
+  "source_bytes": 36272,
+  "published": "2014-07-18",
+  "gazette": "29064",
+  "in_force": "2014-07-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.07.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 605,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
