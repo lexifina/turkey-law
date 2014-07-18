@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "313",
+  "decision_date": "2014-07-18",
+  "title": "-Mezitli, 30 L-ID pafta, 11111 ada, 2 no_lu par",
+  "listed_as": "313-Mezitli, 30 L-ID pafta, 11111 ada, 2 no_lu par",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/313-mezitli-30-l-id-pafta-11111-ada-2-no-lu-parsel",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk84-18-temmuz-2014-meclis-kararlari",
+  "listing_sha256": "b5f1da711fe975b7e12ecda0d5c0432b3001d5c7ca4358603ecd12c49845d994",
+  "meeting_title": "MK84-18 TEMMUZ 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
