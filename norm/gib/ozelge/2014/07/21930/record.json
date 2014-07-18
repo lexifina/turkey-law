@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-120[37-65-2013/61]-121",
+  "source_id": 21930,
+  "date": "2014-07-18",
+  "title": "Limanlarda gemilere yapılan yükleme ve boşaltma işlerinde gözetim, danışmalık, hasar kontrolü ve raporlama faaliyetinden elde edilen kazancın niteliği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21930",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "439f377e4d36eb3b78802a8d7bf5ef0be017870b74fc9176bb3076c90a6a3fdb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
