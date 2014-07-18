@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-019.01-1900",
+  "source_id": 26719,
+  "date": "2014-07-18",
+  "title": "Arsa ve üzerindeki bina için amortisman ayrılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26719",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4d502295d7d20838b35a9b06dc8f974cd2f3c3c2f37f79069c679f3cfa3d91f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
