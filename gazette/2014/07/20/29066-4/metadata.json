@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-07-20",
+  "issue": "29066",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Pamukkale Üniversitesi Tıp Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140720-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140720.htm",
+  "index_sha256": "9ad5b09042f7ca8fb7c4cee67b526cf89302f7e0e59bcabc5deed8bda5437573",
+  "index_header": "20 Temmuz 2014 ... 29066 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140720.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
