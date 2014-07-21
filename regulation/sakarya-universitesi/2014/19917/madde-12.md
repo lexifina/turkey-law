@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; Yönetim Kurulu tarafından belirlenen çalışma gruplarının başkanları ile Tıp Fakültesi Dekanından oluşur. Danışma Kurulu; Müdürün teklifi ve Rektörün onayı ile yılda en az bir kez toplanır. Danışma Kurulu Rektör başkanlığında toplanır. Toplantılarda Yönetim Kurulu üyeleri de hazır bulunurlar. Rektör gerekli gördüğü öğretim üyelerini veya ilgilileri bu toplantıya davet edebilir. Toplantıda alınan kararlar tutanak haline getirilir.
