@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.17.4-1906",
+  "source_id": 31889,
+  "date": "2014-07-21",
+  "title": "KDV Kanunun 17/4-y maddesinin yayım tarihinden önceki tarihli sözleşmeye ilişkin işlemlere etkisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/31889",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "d31d7a0fa470d36dc1224237e98e480dca9de83939d760681387acfd58667661",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
