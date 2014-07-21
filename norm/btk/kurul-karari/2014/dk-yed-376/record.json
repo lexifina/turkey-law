@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2014/DK-YED/376",
+  "date": "2014-07-21",
+  "title": "3N Kapsama Yükümlülüğü",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2014-07-21",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=120",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/909cadc7-6e48-414f-be71-7f67b4ff814c.pdf",
+  "source_sha256": "30cb297b2b9628d6da717921990e2bac3d804b9c9459d29b11a89efdb8969853",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2014-07-21",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 21.07.2014; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
