@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.11-1916",
+  "source_id": 30912,
+  "date": "2014-07-21",
+  "title": "Rulo halinde bulunan ve kesim-dilme işlemleri yapılarak levha haline getirilen sacların imalatçı sıfatıyla teslim edilip edilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30912",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "d46b5ff4591f9acb8a86b32f258ad4afb5ee2ff8f12061652afd7625857844de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
