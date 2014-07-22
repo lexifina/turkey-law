@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-07-22",
+  "issue": "29068",
+  "edition": "mükerrer 1",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Ondokuz Mayıs Üniversitesi Öğretim Elemanlarının Teknoloji Geliştirme Bölgelerinde Görevlendirilme ve Şirket Kurabilmelerine Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140722M1-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140722M1.htm",
+  "index_sha256": "548fa0c195e8e978b1e4456b9ca14e84a424a38846663a2e94f9b4775cfb8ee6",
+  "index_header": "22 Temmuz 2014 ... 29068 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140722M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
