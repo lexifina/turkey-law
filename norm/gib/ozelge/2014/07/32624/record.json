@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130-1920",
+  "source_id": 32624,
+  "date": "2014-07-22",
+  "title": "Linoleum (döşemelik muşamba) teslimi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32624",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "ac7eee27abb07d9ef0a410b1d5f3704cbdb011ce262acc44f74c7b758c71cb8b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
