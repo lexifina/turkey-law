@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-07-22",
+  "issue": "29068",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 16/7/2014 Tarihli ve 2014/61 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140722-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140722.htm",
+  "index_sha256": "ecd655e66320a22bf2282b97fa28bcf04c3ca2a15e09a986fc26d94136f17f49",
+  "index_header": "22 Temmuz 2014 ... 29068 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140722.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
