@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37009108-175.01.01.02[4.Md.-2014/1541-]-94",
+  "source_id": 37003,
+  "date": "2014-07-23",
+  "title": "Derneklerin Emlak Vergisi Muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37003",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "077216a0c8d68b076a7cf6114fc67a81862d5e5fa3e43e0b1e1328678644213d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
