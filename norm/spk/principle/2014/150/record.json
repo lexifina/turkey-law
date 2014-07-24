@@ -1,0 +1,82 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "150",
+  "decision_number": "23/759",
+  "date": "2014-07-24",
+  "title": "Kurulun i-SPK.22.1 (24.07.2014 Tarih ve 23/759 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/150",
+  "source_sha256": "b3d7d234b545a8e995cbeb546b1a70cc6bab4a54024fbd82a0a4670558d8f5ac",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 150,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 1. Kurulun İ-SPK.22.1 (24.07.2014 tarih ve 23/759 s.k.) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2014-07-24",
+    "source_clauses": [
+      "1. Kurulun İ-SPK.22.1 (24.07.2014 tarih ve 23/759 s.k.) sayılı İlke Kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "f7284758-6e87-422b-a7ee-9a818ee5a5e4",
+    "contentSource": "IlkeKarari",
+    "contentID": 150,
+    "tur": "İlke Kararı",
+    "title": "Kurulun i-SPK.22.1 (24.07.2014 Tarih ve 23/759 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2014-07-24T00:00:00",
+    "kurulKararTarih": "24.07.2014",
+    "kurulToplantiNo": "23/759",
+    "bultenYili": 2014,
+    "bultenNo": 22,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "91:Geri Alınan Paylar Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 91,
+        "value": "Geri Alınan Paylar Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "4:Halka Açık Ortaklıklar;6:Sermaye Piyasası Araçları;119:Sermaye Azaltımı;72:Geri Alınan Paylar",
+    "ilgiliKonular": [
+      {
+        "key": 4,
+        "value": "Halka Açık Ortaklıklar"
+      },
+      {
+        "key": 6,
+        "value": "Sermaye Piyasası Araçları"
+      },
+      {
+        "key": 119,
+        "value": "Sermaye Azaltımı"
+      },
+      {
+        "key": 72,
+        "value": "Geri Alınan Paylar"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/150",
+    "linkTarget": "_blank"
+  }
+}
