@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-07-24",
+  "issue": "29070",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özel Tüketim Vergisi Genel Tebliği Seri No:1’de Değişiklik Yapılmasına Dair Tebliğ (Seri No:35)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140724-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140724.htm",
+  "index_sha256": "1ffe3395073878feff398292fd17faeafc5fc9dc6d8102e67dbc0aff92bb6453",
+  "index_header": "24 Temmuz 2014 ... 29070 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140724.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
