@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-130[29/2-2013]-121",
+  "source_id": 33275,
+  "date": "2014-07-24",
+  "title": "İndirimli orana tabi ihraç kayıtlı teslimlerle ilgili yılı içerisinde mahsup edilemeyen tutarların beyannamede gösterilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33275",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "f387765c4f0a993d361cf73923155593c3e820a1e6e241d1e94e5b8e6da7e4db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
