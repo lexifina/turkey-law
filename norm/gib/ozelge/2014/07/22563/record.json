@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-019.01-1949",
+  "source_id": 22563,
+  "date": "2014-07-24",
+  "title": "Faydalı ömrünü tamamlamadan ölen sualtı canlılarının vergi kanunları karşısındaki durumu ile bu canlıların yavrularının değerlemesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22563",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "4c15a6f9fc55ca0ee4a0889e9c3357f2af59bfc19b6f35f7ff2e3ada2c83d1db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
