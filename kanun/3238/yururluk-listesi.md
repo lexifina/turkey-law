@@ -20,6 +20,8 @@ Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numara
 KHK/649 | 7, 8, Geçici Madde 9 | 17/8/2011
 KHK/661 | 6, 10, 17 | 2/11/2011
 KHK/666 | 8 | 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011
+Anayasa Mahkemesi’nin 22/11/2012 tarihli ve E.: 2011/107, K.: 2012/184 sayılı Kararı | 8 | 24/1/2014 tarihinden başlayarak altı ay sonra (24/7/2014)
+6808-1/6809
 3238 SAYILI KANUNUN ÇEŞİTLİ MADDELERİNDEKİ ORAN
 VE MİKTARLARDA KARARNAMELER İLE YAPILAN DEĞİŞİKLİKLER CETVELİ
 Değişiklik yapan
