@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-68 / 2014 -1",
+  "source_id": 773,
+  "date": "2014-07-25",
+  "title": "31.07.2014 tarihine kadar elektronik ortamda gönderilmesi gereken 2014/Haziran dönemine ilişkin Ba ve Bs bildirim formlarının süresinin uzatılmasına dair açıklama.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/773",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "2011809b83b3f848aa3f2d1c2a8ed59a124ef4812ef5032741f3930360b5001d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
