@@ -1,0 +1,6 @@
+Zarar ve nedensellik iddiası
+MADDE 5 – (1) 2013 yılında ÇHC menşeli şikayet konusu ürünün ithalatı bir önceki yıla göre hem mutlak hem de nispi olarak artmıştır. Aynı dönemde bahse konu ülke menşeli ithalatın toplam tüketim içerisindeki payının da arttığı tespit edilmiştir.
+(2) Şikâyet konusu ülke menşeli ithalatın ortalama birim fiyatlarının başvuru sahibi yerli üreticinin yurt içi satış fiyatlarını önemli ölçüde kırdığı belirlenmiştir. Dampingli ithalat nedeniyle ÇHC’nin Türkiye kaynak makineleri pazarından aldığı pay artarken yerli üretim dalının 2013’te büyüyen Türkiye pazarından yeterince pay alamadığı ve hatta payının 2012’ye göre azaldığı görülmüştür.
+(3) Yerli üretim dalının düşük fiyatlı ithalatın hacmi nedeniyle üretim kapasitesinin büyük kısmını kullanamadığı tespit edilmiştir.
+(4) Başvuru aşamasında sunulan deliller ışığında, yerli üretim dalının üretim, yurt içi satış, karlılık, kapasite kullanım oranı, verimlilik, ürün nakit akış hızı ve pazar payı gibi önemli göstergelerinde olumsuzluklar görülmesi nedeniyle maddi zararın söz konusu olduğu değerlendirilmiştir.
+(5) Başvuru aşamasında sunulan deliller ve ithalata ilişkin resmî istatistikler esas alınarak yapılan tespitler ışığında, dampingli olduğu iddia edilen ithalatın yerli üretim dalının ekonomik göstergelerinde zararı ortaya koyacak olumsuzluğa yol açtığı değerlendirilmiştir.
