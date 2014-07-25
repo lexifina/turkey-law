@@ -1,0 +1,3 @@
+Üçüncü ülkelerden gerçekleştirilen ithalat
+MADDE 22 – (1) Üçüncü ülkelerden gerçekleştirilen ithalata bakıldığında 2009 yılında 1.905 adet olan ithalat miktarının 2010 ve 2011 yıllarında sırasıyla 7.922 ve 12.651 adet olarak gerçekleştiği görülmektedir. Üçüncü ülkeler menşeli ithalatın genel ithalat içerisindeki payı ise 2009 yılında %22, 2010 ve 2011 yıllarında ise %35 düzeyindedir.
+(2) Soruşturmaya konu olmayan üçüncü ülkelerden gerçekleştirilen ithalatın ortalama birim fiyatlarına bakıldığında da 2009 yılında 1.337 ABD Doları/Adet olan ortalama birim fiyatın 2010 yılında 1.041 ABD Doları/Adede gerilediği, 2011 yılında ise 1.163 ABD Doları/Adet olarak gerçekleştiği görülmektedir.

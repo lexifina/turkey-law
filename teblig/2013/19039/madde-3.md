@@ -1,0 +1,2 @@
+Yerli üretim dalı
+MADDE 3 – (1) Başvuru sahibi Anadolu Motor firması, soruşturma dönemi olarak belirlenen 2011 yılında soruşturma konusu ürünün Türkiye’deki üretiminin %85’ini gerçekleştirmektedir. Bu nedenle, Yönetmeliğin 20 nci maddesi çerçevesinde yerli üretim dalını temsil niteliğini haiz olduğu tespit edilmiştir. Soruşturma sürecinde bu tespiti değiştirecek herhangi bir somut bilgi alınmamıştır.

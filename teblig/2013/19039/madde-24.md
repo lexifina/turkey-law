@@ -1,0 +1,2 @@
+Dampingli ithalatın yerli üretim dalının fiyatları üzerindeki etkisi
+MADDE 24 – (1) Yönetmeliğin 17 nci maddesinin ilgili hükümleri çerçevesinde dampingli ithalatın yerli üretim dalının satış fiyatları üzerindeki etkisi değerlendirilirken işbirliğine gelen ihracatçıların sunduğu fiyatlar ile ithalatın fiyatları kullanılarak fiyat kırılması hesaplanmış; ayrıca, yerli üretim dalının yurt içi birim fiyatlarının reel gelişimini göstermek üzere fiyat yıpranması tespiti yapılmıştır.

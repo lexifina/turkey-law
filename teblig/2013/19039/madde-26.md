@@ -1,0 +1,2 @@
+Fiyat yıpranması
+MADDE 26 – (1) Fiyat yıpranması yerli üretim dalının birim fiyatlarında dampingli ithalat nedeniyle yaşanan reel gerilemedir. Yerli üretim dalının yurt içi birim satış fiyatlarında gerileme olup olmadığı enflasyondan arındırılarak incelendiğinde, 2009 yılında 100 birim olan fiyatların 2010 yılında 99, 2011 yılında ise 94 birime gerilediği görülmüştür. Bu bağlamda, yerli üretim dalının yurt içi birim fiyatlarında 2009-2011 yılları arasındaki dönemde %6 oranında fiyat yıpranması tespit edilmiştir.

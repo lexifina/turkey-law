@@ -1,0 +1,3 @@
+Oluşturulmuş normal değer
+MADDE 15 – (1) Yönetmeliğin 7 nci maddesi çerçevesinde ve yukarıdaki açıklamalar ışığında, ÇHC'de yerleşik işbirliğinde bulunan Changfa firmasının piyasa ekonomisinde faaliyet göstermediği kabul edildiğinden normal değer, Türkiye'de benzer malın birim imalat maliyetine genel, idari ve satış giderleri ile makul bir kârın eklenmesiyle oluşturulmuştur.
+(2) Normal değer tespiti yapılırken Türkiye’deki veriler olduğu gibi alınmamış, uluslararası piyasa koşulları göz önüne alınarak, ÇHC’de yerleşik Changfa firmasının lehine olacak şekilde hammadde, işgücü, enerji, amortisman ve genel, idari ve satış giderlerinde çeşitli ayarlamalar yapılmıştır.

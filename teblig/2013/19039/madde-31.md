@@ -1,0 +1,2 @@
+Zarara neden olabilecek diğer unsurlar
+MADDE 31 – (1) Yönetmeliğin 17 nci maddesi hükümleri uyarınca, yerli üretim dalında maddi zarara yol açabileceği düşünülen diğer bilinen unsurlar incelenmiştir. Yapılan inceleme neticesinde, dampingli ithalat dışında diğer bilinen unsurlardan herhangi birinin yerli üretim dalında tespit edilen maddi zarar üzerinde önemli olumsuz etkiye neden olamayacağı belirlenmiştir.

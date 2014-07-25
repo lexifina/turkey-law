@@ -1,0 +1,2 @@
+Yerinde doğrulama soruşturmaları
+MADDE 5 – (1) Yönetmeliğin 21 inci maddesi çerçevesinde yerli üretici Anadolu Motor firmasının İstanbul Kartal’daki idari ofisleri ve üretim tesislerinde 26-27/2/2013 tarihlerinde, Hindistan’da yerleşik bulunan Greaves firmasının Mumbai ve Aurangabad’da bulunan idari ofisleri ile üretim tesislerinde ise 20-25/5/2013 tarihlerinde yerinde doğrulama soruşturmaları gerçekleştirilmiştir.
