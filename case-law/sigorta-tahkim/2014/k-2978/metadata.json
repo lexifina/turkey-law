@@ -1,0 +1,15 @@
+{
+  "number": "K-2014/2978",
+  "award_date": "2014-07-25",
+  "heading_as_published": "25.07.2014 tarih ve K-2014/2978 sayılı Hakem Kararı",
+  "issue": "Hakem Karar Dergisi 21 Ocak - Mart 2015",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs21.pdf",
+  "source_sha256": "ad3024c43568cdcdf9af2b89d76ab30faf236cfd64ca54d401a501cf410776aa",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
