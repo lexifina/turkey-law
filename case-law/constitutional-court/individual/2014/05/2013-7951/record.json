@@ -1,0 +1,23 @@
+{
+  "applicant": "İZÇAĞ İZMİR ÇAĞDAŞ KİTABEVİ YAYINCILIK BİLGİ İŞLEM TURİZM SANAYİ VE TİCARET LTD. ŞTİ.",
+  "applicant_form": "entity",
+  "application_date": "2013-10-21",
+  "application_number": "2013/7951",
+  "database_publication_date": "2017-12-19",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2014-05-28",
+  "gazette_number": 29071,
+  "history_type": "metadata",
+  "id": "c3024ee3-db70-fcac-3574-137a335bd3e5",
+  "in_force": "2014-07-25",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "law_text_complete": false,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2014-07-25",
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmMzMDI0ZWUzLWRiNzAtZmNhYy0zNTc0LTEzN2EzMzViZDNlNQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_listing": "evidence/list/BireyselBasvuru-2014-01-01-2014-12-31-p1.json (official API answer, read 2026-11-15)",
+  "source_listing_sha256": "0e4fbecfbaa2a45dbed980f92a6dd2c6611837215ad3f6ad146b556aadb2122c",
+  "text_status": "metadata-only: official database listing fields; the decision text is on the linked official page, not transcribed"
+}
