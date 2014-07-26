@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-07-26",
+  "issue": "29072",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Gözetim Uygulanmasına İlişkin Tebliğ (Tebliğ No: 2007/2)’in Yürürlükten Kaldırılmasına İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140726-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140726.htm",
+  "index_sha256": "fbe7e9403eba2e6b7e9e5578423d5ad6a25ef0b2b451c9a06d99d400ae6609ef",
+  "index_header": "26 Temmuz 2014 ... 29072 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/07/20140726.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
