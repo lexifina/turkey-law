@@ -1,0 +1,2 @@
+Dampingli ithalatın yerli üretim dalının fiyatları üzerindeki etkisi
+MADDE 20 – (1) Yönetmeliğin 17 nci maddesinin ilgili hükümleri çerçevesinde dampingli ithalatın yerli üretim dalının satış fiyatları üzerindeki etkisi değerlendirilirken işbirliği olmaması nedeniyle TÜİK verileri kullanılarak ÇHC menşeli ürünlerin CIF birim ithal fiyatları kullanılmıştır. Hesaplamalarda soruşturma dönemi olan 2013 yılının 9 aylık dönemi esas alınmıştır.

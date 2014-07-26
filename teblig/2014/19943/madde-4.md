@@ -1,0 +1,10 @@
+İlgili tarafların bilgilendirilmesi, dinlenmesi ve bilgilerin değerlendirilmesi
+MADDE 4 – (1) Soruşturma açılmasını müteakip, söz konusu ürünün Bakanlıkça tespit edilen ithalatçılarına, soruşturma konusu ülkede yerleşik bilinen üretici/ihracatçı firmalarına ve soruşturmaya konu ülkenin Ankara’daki Büyükelçiliğine soruşturmanın açılışına ilişkin bildirimde bulunulmuştur.
+(2) Bildirimde, soruşturma açılış Tebliğine, şikâyetin gizli olmayan metnine ve soru formlarına nereden erişilebileceği hususunda bilgi verilmiştir.
+(3) Taraflara görüş bildirme ve soru formunu yanıtlamaları için posta süresi dâhil 37 gün süre tanınmıştır. Ayrıca, ilgili tarafların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+(4) YÜD, soruşturma süresi boyunca Bakanlık ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgi ve belgeleri temin etmiştir.
+(5) Soruşturma konusu ürünün ithalatını yaptığı belirlenen 24 ithalatçı firmadan 10 tanesi soru formunu cevaplandırmıştır.
+(6) Soruşturma konusu ülkede yerleşik üretici/ihracatçı firmalardan soru formuna yanıt veren olmamıştır.
+(7) Soruşturma sonucunda alınacak karara esas teşkil edecek bilgi, bulgu, tespit ve değerlendirmeleri içeren “Nihai Bildirim” ÇHC’nin Ankara’daki Büyükelçiliği ile soruşturma sırasında işbirliğinde bulunan ithalatçılara ve yerli üreticilere iletilmiştir. Tüm ilgili taraflara nihai bildirime ilişkin görüş bildirmeleri için yeterli süre tanınmıştır.
+(8) Nihai bildirim sonrasında, tarafların nihai bildirime ilişkin görüş ve savlarını sözlü olarak da sunmalarına imkan tanımak amacıyla tüm ilgili tarafların katılımı ile 20/6/2014 tarihinde kamu dinleme toplantısı düzenlenmiştir.
+(9) Tarafların soruşturma boyunca ve nihai bildirim sonrasında ortaya koyduğu tüm bilgi, belge ve görüşler incelenmiş, mezkûr görüşlerden soruşturma kapsamında değerlendirilebilecek olanlara bu Tebliğin ilgili bölümlerinde yer verilmiştir. Ayrıca, ilgili taraflardan alınan bilgi ve belgelerin gizli olmayan nüshaları, talep eden bütün ilgili tarafların bilgisine sunulmak üzere hazır tutulmuştur.
