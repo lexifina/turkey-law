@@ -1,0 +1,28 @@
+{
+  "number": "month-07-2",
+  "year": 2014,
+  "month": 7,
+  "title": "Temmuz 2014 Meclis Kararı",
+  "decision_date": null,
+  "index_date": "2014-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2014",
+  "source": "https://www.kozan.bel.tr/2014-yili-meclis-kararlari.html",
+  "official_page": null,
+  "official_document": "http://www.kozan.bel.tr/upload/2014/07/temmuz-ayi-meclis-kararlari.docx",
+  "source_sha256": "8f895dc3094cce7d5a642548ff1390b23e0b9bd99734e224128b78643a4c6c43",
+  "issuer": "Kozan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2014-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2014); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Temmuz 2014 Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
