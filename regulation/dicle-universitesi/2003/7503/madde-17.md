@@ -1,0 +1,3 @@
+Kayıt Yenileme
+Madde 17 — (Değişik:RG-16/8/2013-28737)
+Fakültenin normal öğrenim süresini aşmış öğrenciler öğrenci katkı payını yatırmak suretiyle akademik takvimde belirtilen kayıt yenileme/ders kaydı süresi içerisinde ders kaydı yaparlar. Normal süre içerisinde öğrenim gören öğrenciler ise katkı payı yatırmadan sadece kayıt yenileme/ders kaydı işlemini yaparlar. Akademik takvimde belirtilen kayıt yenileme süresi içerisinde haklı ve geçerli bir nedenle kaydını yenileyemeyenlere, kayıt süresinin bitiminden itibaren beş gün içinde mazeretlerini Dekanlığa bildirmeleri ve mazeretlerinin Fakülte Yönetim Kurulunca kabul edilmesi koşuluyla ek süre verilebilir. Bu süre sonunda da kaydını yenilemeyen öğrenci devamsız sayılır ve hiçbir ders ve sınava alınamaz.

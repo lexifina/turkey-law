@@ -1,0 +1,1 @@
+Geçici Madde 1 — 2003-2004 öğretim yılından önce Fakülteye kayıt yaptırmış olan ve halen Fakültede kayıtlı bulunan öğrenciler 43 üncü maddede belirtilen yönetmelik hükümlerine tabidirler. 2002-2003 öğretim yılında başarısız olan 1 inci sınıf öğrencilerine Bu Yönetmelik hükümleri uygulanır.

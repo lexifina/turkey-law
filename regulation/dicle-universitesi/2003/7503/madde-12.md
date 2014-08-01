@@ -1,0 +1,3 @@
+Eğitim-Öğretim Süresi
+Madde 12 — (Değişik:RG-16/8/2013-28737)
+Fakültede normal eğitim-öğretim süresi 6 yıl, azami öğrenim süresi ise 9 yıldır. Ancak azami öğrenim süresi sonunda eğitimini başarı ile tamamlayarak mezun olamayanlar, 2547 sayılı Yükseköğretim Kanununun 46 ncı maddesinde belirtilen koşullara göre ilgili döneme ait öğrenci katkı payı veya öğrenim ücretlerini ödemek koşulu ile öğrenimlerine devam etmek için kayıt yaptırabilirler. Bu durumda, ders ve sınavlara katılma ile tez hazırlama hariç, öğrencilere tanınan diğer haklardan yararlandırılmaksızın öğrencilik statüleri devam eder. Kayıt dondurma süreleri eğitim-öğretim süresinden sayılmaz.

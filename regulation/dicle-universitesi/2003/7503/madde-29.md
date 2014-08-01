@@ -1,0 +1,3 @@
+Sınav Kapsamındaki Her Bir Derste Sağlanan Başarının Sınav Sonucuna Etkisi
+Madde 29 — (Değişik:RG-1/8/2014-29075)(2)
+Birinci, ikinci ve üçüncü sınıflarda yapılan bir sınav kapsamındaki bütün branşlardan elde edilen puanların toplamı o sınavın başarı notunu tayin eder. Ancak, ders kurulu, yarı yıl sonu sınavı veya bütünleme sınavında, öğrenci sınav kapsamındaki derslerin bir veya birkaçından % 50’nin altında not alırsa o dersten elde ettiği puan ile o dersin toplam puanının % 50’si arasındaki puan farkı, sınav toplam puanından düşülür. Eksi puan hesaplamasında her bir sınav oturumu için, soru sayısı toplam soru sayısının % 5’i ve aşağısında olan derslerin soruları birleştirilerek toplu olarak işlem yapılır.

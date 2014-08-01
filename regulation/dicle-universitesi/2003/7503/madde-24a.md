@@ -1,0 +1,4 @@
+Küçük Grup Uygulaması Ders Kurulu Sınavı
+MADDE 24/A – (Ek:RG-13/10/2010-27728)(1) (Değişik:RG-1/8/2014-29075) (2)
+Küçük grup uygulamalarının ders kurulu sınavından alınan not, Fakülte Kurulunca onaylanan ders kurulu kredisi ile çarpılarak bu Yönetmeliğin 28 inci maddesinde belirtilen ağırlıklı not ortalaması hesabına katılır.
+Küçük grup uygulaması ders kurulu sınavı her ders kurulunun sonunda yapılır. Küçük grup uygulaması ders kurulu sınavı bölünerek birden fazla aşamalı da yapılabilir. Küçük grup uygulaması ders kurulunda, bu Yönetmeliğin 29 uncu maddesinde belirtilen eksi puan uygulaması yapılmaz. Ayrıca bu Yönetmeliğin 25 inci maddesinde yer alan yarıyıl sonu sınavı ve bu Yönetmeliğin 26 ncı maddesinde yer alan bütünleme sınavı kapsamına küçük grup uygulaması ders kurulu dahil edilmez.

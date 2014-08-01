@@ -1,0 +1,2 @@
+Üst Sınıfa İntibak
+Madde 19 — Başka bir tıp fakültesinden Fakülteye yatay geçiş yaparak kesin kaydını yaptıran öğrencilerin önceden devam almış ve başarmış oldukları eğitim-öğretim programları, Eğitim Komisyonu tarafından, Fakülte eğitim-öğretim programına uygunluğu ve eşdeğerliği açısından incelenir. Eğitim Komisyonunun olumlu görüşünün Fakülte Yönetim Kurulunca kabul edilmesi durumunda, bu öğrencilerin intibakları yapılarak bir üst sınıfa geçişleri sağlanır.

@@ -1,0 +1,3 @@
+Kayıt Dondurma
+Madde 22 — Kayıt dondurmak için yapılacak başvurular birinci yarı yılın ilk on beş günü içerisinde yapılır. Sağlık nedenleriyle yapılacak kayıt dondurma istekleri bu sürenin dışındadır. Haklı ve geçerli nedenler çerçevesinde, kayıt eğitim-öğretim süresince en çok iki yıl süreyle dondurulabilir.
+Bu haklardan ancak kayıt yaptıranlar yararlanabilirler. 1., 2. ve 3 üncü sınıf öğrencilerinin kayıt dondurma isteği bir yıldan az olamaz. İlgili kurullarca raporu geçerli sayılan 4., 5. ve 6 ncı sınıf öğrencilerinin kayıt veya eğitimlerini dondurma istekleri ise rapor süresince uygulanabilir.
