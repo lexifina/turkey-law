@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "TÜRKİYE İLAÇ VE TIBBİ CİHAZ KURUMU",
+  "category": "Özel Bütçeli İdareler - B",
+  "category_id": "27-ozel-butceli-idareler---b",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/wDNYnv9Y7b-turkiye-ilac-ve-tibbi-cihaz-kurumu",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/wDNYnv9Y7b-turkiye-ilac-ve-tibbi-cihaz-kurumu",
+  "source_sha256": "eab21c97a625e7e4d6843ec0923f4e2a8e9ea662d6fd261bc1390fa3d36800d6",
+  "pdf_pages": 15,
+  "listing": "https://www.sayistay.gov.tr/reports/category/27-ozel-butceli-idareler---b?page=50",
+  "listing_sha256": "16e709c62c3d34c3ad63d24ce60a0efe179767c91d549c5f07f5c636cb0f5361",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
