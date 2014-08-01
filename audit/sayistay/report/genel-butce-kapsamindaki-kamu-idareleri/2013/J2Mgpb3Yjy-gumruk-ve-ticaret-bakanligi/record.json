@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "GÜMRÜK VE TİCARET BAKANLIĞI",
+  "category": "Genel Bütçe Kapsamındaki Kamu İdareleri",
+  "category_id": "6-genel-butce-kapsamindaki-kamu-idareleri",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/J2Mgpb3Yjy-gumruk-ve-ticaret-bakanligi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/J2Mgpb3Yjy-gumruk-ve-ticaret-bakanligi",
+  "source_sha256": "67481961c5b01413b010c665b21fe680b4e7482f71760093991328538426f226",
+  "pdf_pages": 46,
+  "listing": "https://www.sayistay.gov.tr/reports/category/6-genel-butce-kapsamindaki-kamu-idareleri?page=50",
+  "listing_sha256": "1d5e945a109f1f180e078106437050bede70f6f38ad13e71e704bb84e53dad1e",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
