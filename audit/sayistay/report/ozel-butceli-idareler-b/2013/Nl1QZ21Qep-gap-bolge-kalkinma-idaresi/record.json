@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "GAP BÖLGE KALKINMA İDARESİ",
+  "category": "Özel Bütçeli İdareler - B",
+  "category_id": "27-ozel-butceli-idareler---b",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/Nl1QZ21Qep-gap-bolge-kalkinma-idaresi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/Nl1QZ21Qep-gap-bolge-kalkinma-idaresi",
+  "source_sha256": "05ea0f17569d0fd3f7589aab047551e1147483a77af7861271c326526e32b2b6",
+  "pdf_pages": 36,
+  "listing": "https://www.sayistay.gov.tr/reports/category/27-ozel-butceli-idareler---b?page=48",
+  "listing_sha256": "82fb62265de69fa5a0e1afaec09c758bc285188a36b7e772d5c57891743f47b3",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
