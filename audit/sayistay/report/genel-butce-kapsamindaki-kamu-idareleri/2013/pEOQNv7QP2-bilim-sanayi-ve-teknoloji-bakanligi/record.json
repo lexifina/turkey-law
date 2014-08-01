@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "BİLİM, SANAYİ VE TEKNOLOJİ BAKANLIĞI",
+  "category": "Genel Bütçe Kapsamındaki Kamu İdareleri",
+  "category_id": "6-genel-butce-kapsamindaki-kamu-idareleri",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/pEOQNv7QP2-bilim-sanayi-ve-teknoloji-bakanligi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/pEOQNv7QP2-bilim-sanayi-ve-teknoloji-bakanligi",
+  "source_sha256": "f8d8fc80f3fec525955a6398913eec7cdd94492e9e43483c5c87aead91b289b8",
+  "pdf_pages": 16,
+  "listing": "https://www.sayistay.gov.tr/reports/category/6-genel-butce-kapsamindaki-kamu-idareleri?page=48",
+  "listing_sha256": "e27fac17deb67f09b9da4060798c6cf85ad142431dd1eaa1e4a1d9bd4b254112",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
