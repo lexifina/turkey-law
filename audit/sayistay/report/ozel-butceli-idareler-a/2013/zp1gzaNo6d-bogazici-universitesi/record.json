@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "BOĞAZİÇİ ÜNİVERSİTESİ",
+  "category": "Özel Bütçeli İdareler - A",
+  "category_id": "7-ozel-butceli-idareler---a",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/zp1gzaNo6d-bogazici-universitesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/zp1gzaNo6d-bogazici-universitesi",
+  "source_sha256": "c51cb6f73d9e0f3c3e7521997c98d01a7ffc3a6359500a987a63cbf94e6bc0de",
+  "pdf_pages": 39,
+  "listing": "https://www.sayistay.gov.tr/reports/category/7-ozel-butceli-idareler---a?page=124",
+  "listing_sha256": "48528dc713a61998f22203753cc672ff1a69710f11ff0413996566c5ad2c3eaf",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
