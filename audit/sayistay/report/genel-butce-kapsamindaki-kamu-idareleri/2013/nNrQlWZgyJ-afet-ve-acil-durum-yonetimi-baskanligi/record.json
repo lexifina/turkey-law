@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "AFET VE ACİL DURUM YÖNETİMİ BAŞKANLIĞI",
+  "category": "Genel Bütçe Kapsamındaki Kamu İdareleri",
+  "category_id": "6-genel-butce-kapsamindaki-kamu-idareleri",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/nNrQlWZgyJ-afet-ve-acil-durum-yonetimi-baskanligi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/nNrQlWZgyJ-afet-ve-acil-durum-yonetimi-baskanligi",
+  "source_sha256": "8927ff68053348e666cb26cb7bc394c0fe52b58d19e918f6c36d6282c23ab50f",
+  "pdf_pages": 30,
+  "listing": "https://www.sayistay.gov.tr/reports/category/6-genel-butce-kapsamindaki-kamu-idareleri?page=48",
+  "listing_sha256": "e27fac17deb67f09b9da4060798c6cf85ad142431dd1eaa1e4a1d9bd4b254112",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
