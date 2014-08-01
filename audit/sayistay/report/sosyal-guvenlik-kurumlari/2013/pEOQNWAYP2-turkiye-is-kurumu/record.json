@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "TÜRKİYE İŞ KURUMU",
+  "category": "Sosyal Güvenlik Kurumları",
+  "category_id": "29-sosyal-guvenlik-kurumlari",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/pEOQNWAYP2-turkiye-is-kurumu",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/pEOQNWAYP2-turkiye-is-kurumu",
+  "source_sha256": "19532ba4f0bad399ccfcbddc4e916e430c226f579f02399db77e3917e7eb5db6",
+  "pdf_pages": 33,
+  "listing": "https://www.sayistay.gov.tr/reports/category/29-sosyal-guvenlik-kurumlari?page=3",
+  "listing_sha256": "d12acbc01538d005f3c235b384918d1b136b9ebc451359b9d687ccf4d4a8f779",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
