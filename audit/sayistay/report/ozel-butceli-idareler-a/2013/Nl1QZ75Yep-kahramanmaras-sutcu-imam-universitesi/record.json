@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+  "category": "Özel Bütçeli İdareler - A",
+  "category_id": "7-ozel-butceli-idareler---a",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/Nl1QZ75Yep-kahramanmaras-sutcu-imam-universitesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/Nl1QZ75Yep-kahramanmaras-sutcu-imam-universitesi",
+  "source_sha256": "3c86407f13b17f3f835ee4fa7a28fcf8fbc6dca37ec9ff2500938c671b9eb2fe",
+  "pdf_pages": 37,
+  "listing": "https://www.sayistay.gov.tr/reports/category/7-ozel-butceli-idareler---a?page=126",
+  "listing_sha256": "e19014b188588e6fe10274a74b34516e4b021151b78076500a181c47b465cc87",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
