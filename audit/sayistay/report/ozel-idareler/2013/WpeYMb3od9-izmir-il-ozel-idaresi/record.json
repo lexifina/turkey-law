@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "İZMİR İL ÖZEL İDARESİ",
+  "category": "Özel İdareler",
+  "category_id": "30-ozel-idareler",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/WpeYMb3od9-izmir-il-ozel-idaresi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/WpeYMb3od9-izmir-il-ozel-idaresi",
+  "source_sha256": "394de4dbf712cbc6ac81c944a9fef9a64fb59d4b43ba038f1b3108cfd6641658",
+  "pdf_pages": 25,
+  "listing": "https://www.sayistay.gov.tr/reports/category/30-ozel-idareler?page=34",
+  "listing_sha256": "6dde6a413ecc6e5e068b5ed9237a82306761c25e838caf98b64b0d69ddd24b07",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
