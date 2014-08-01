@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19774",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BANKALAR VE KAMU İDARELERİ TARAFINDAN YAPILACAK OLAN SİGORTALILIK KONTROLÜ İLE KURUM VE KURULUŞLARDAN ALINACAK BİLGİ VE BELGELERE DAİR TEBLİĞ",
+  "number": "19774",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "path": "teblig/2014/19774",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19774&MevzuatTertip=5",
+  "source_sha256": "f730b9f811590bf03b143ca1bb0085a3f450cb52d686c43b3cc573adf977a4c3",
+  "source_bytes": 126668,
+  "published": "2014-06-10",
+  "gazette": "29026",
+  "in_force": "2014-08-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ hükümleri 1/8/2014 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ hükümleri 1/8/2014 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7058,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19774-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

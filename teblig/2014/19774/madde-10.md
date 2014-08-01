@@ -1,0 +1,3 @@
+Çevre ve Şehircilik Bakanlığı
+MADDE 10 – (1) Tapu ve Kadastro Genel Müdürlüğünce; Kuruma borçlu olanların taşınmaz mal bilgilerinin Kuruma elektronik ortamda görüntülenmesi sağlanır.
+(2) Yapı denetim şirketlerinin çalıştırdığı denetçileri, kontrol ve yardımcı kontrol elemanlarının çalıştığı firma ve çalışma sürelerine ilişkin bilgilerin Çevre ve Şehircilik Bakanlığınca Ulusal Yapı Denetim Sistemi üzerinden sorgulanabilmesi sağlanır ya da çalışan kişilerin T.C. Kimlik Numaralı işyeri sahibi/işyeri çalışanı ayrımlı kimlik bilgileri ve çalışılan yerin unvanı ve açık adresi bilgileri Kuruma bildirilir.

@@ -1,0 +1,4 @@
+Gümrük ve Ticaret Bakanlığı
+MADDE 14 – (1) Gümrük ve Ticaret Bakanlığınca; MERSİS (Merkezi Sicil Kayıt Sistemi), HKS (Hal Kayıt Sistemi), ESBİS (Esnaf Bilgi Sistemi) ve KOOP-BİS’e (Kooperatif Bilgi ve Denetim Sistemi) kayıtlı gerçek ve tüzel kişilere ait taraflar arasında belirlenen bilgilerin Gümrük ve Ticaret Bakanlığınca açılacak web servis ya da başka bir elektronik ortamda sorgulanması sağlanır.
+(2) Gümrük ve Ticaret Bakanlığınca; 7/9/2009 tarihli ve 27369 mükerrer sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğinin 30 uncu maddesinin ikinci fıkrası kapsamında Türkiye’ye giriş-çıkış yapan ticari araçlara ilişkin olarak ilgili taraflarca belirlenen bilgi ve verilerin paylaşımı sağlanır.
+(3) Ticaret sicili müdürlüklerince; Kurumca talep edilmesi durumunda ticaret şirketi ve ortakları hakkında MERSİS (Merkezi Sicil Kayıt Sistemi) veri tabanından karşılanamayan bilgiler Kuruma gönderilir.

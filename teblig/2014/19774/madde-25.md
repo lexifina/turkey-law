@@ -1,0 +1,3 @@
+Borsa İstanbul
+MADDE 25 – (1) Merkezi Kayıt Kuruluşu A.Ş. tarafından, Kuruma borçlarını vadesinde ödemeyen borçluların hisse senetlerine haciz konulmasını teminen, borçluların hesaplarının ve kayden izlenen kıymetlerinin elektronik ortamda Kuruma görüntülenmesi sağlanır.
+(2) İstanbul Takas ve Saklama Bankası A.Ş. tarafından, Kuruma borçlarını vadesinde ödemeyen borçluların Borsa İstanbul’da işlem sırası kapalı olduğundan kayda tabi tutulmamış hisse senetleri ile bireysel emeklilik fon katılım paylarına 4632 sayılı Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanununun 17 nci maddesi uyarınca hesaplanan muafiyet miktarını aşan kısmı ile sınırlı olmak üzere haciz konulmasını teminen, yapılan işlemlerin elektronik ortamda Kuruma görüntülenmesi sağlanır.

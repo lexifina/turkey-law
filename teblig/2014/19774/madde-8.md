@@ -1,0 +1,2 @@
+Bilim, Sanayi ve Teknoloji Bakanlığı
+MADDE 8 – (1) Bilim, Sanayi ve Teknoloji Bakanlığınca; 12/3/2014 tarihli ve 28939 sayılı Resmî Gazete’de yayımlanan Teknoloji Geliştirme Bölgeleri Uygulama Yönetmeliği kapsamında AR-GE'ye dayalı üretim faaliyetlerinde çalışanlar ile girişimci olan gerçek ve tüzel kişilere ilişkin çalışan kişilerin T.C. Kimlik Numaralı işyeri sahibi / işyeri çalışanı ayrımlı kimlik bilgileri, ve çalışılan yerin unvanı ve açık adresi bilgileri ile varsa ücreti ve işe başlama tarihi bilgileri Kuruma gönderilir.

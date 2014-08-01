@@ -1,0 +1,7 @@
+Çalışma ve Sosyal Güvenlik Bakanlığı
+MADDE 9 – (1) Çalışma Genel Müdürlüğünce, yabancıların çalışma izin bilgileri Kuruma gönderilir.
+(2) Türkiye İş Kurumunca teşvik uygulamalarına ilişkin görev alanına giren konulardaki sigortalılara ilişkin bilgiler Kuruma gönderilir.
+(3) Türkiye İş Kurumunca işsizlik ödeneği alan sigortalıların ödeme başlama ve bitiş tarihleri Kuruma gönderilir.
+(4) Türkiye İş Kurumunca yetki verilen özel istihdam bürolarınca işe yerleştirilen kişilerin T.C. Kimlik Numaralı işyeri sahibi/işyeri çalışanı ayrımlı kimlik bilgileri ve çalışılan yerin unvanı ve açık adresi bilgileri ile varsa ücreti ve işe başlama tarihi bilgilerini içeren üçer aylık dönemlere ait rapor Kuruma gönderilir.
+(5) Türkiye İş Kurumu tarafından aktif işgücü programları kapsamında eğitici gideri ödenen kişilerin kimlik bilgileri, işe başlama tarihi, işten ayrılış tarihi ve işyeri unvanı ve adres bilgileri Türkiye İş Kurumu tarafından Kuruma gönderilir.
+(6) 10/6/2003 tarihli ve 4857 sayılı İş Kanununun 91 inci ve 92 nci maddeleri kapsamında işçi şikâyetlerini inceleyen Çalışma ve İş Kurumu İl Müdürlüğü memurları tarafından düzenlenen ve istihdama yönelik bilgiler içeren tutanaklarda sigortasız olduğu, ücret ya da gün sayısı açısından kayıt dışı olduğu tespit edilen çalışan kişilerin T.C. Kimlik Numarası, işyeri sahibi/işyeri çalışanı ayrımlı kimlik bilgileri, çalışılan yerin unvanı ve açık adresi bilgileri ile varsa ücreti ve işe başlama tarihi bilgileri Kuruma gönderilir.

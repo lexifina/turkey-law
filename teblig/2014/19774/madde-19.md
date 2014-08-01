@@ -1,0 +1,2 @@
+Milli Savunma Bakanlığı
+MADDE 19 – (1) Milli Savunma Bakanlığınca; sigortalıların askerlikle ilişiklerinin olup olmadığına veya askerlik sürelerine ve durumuna ilişkin er, erbaş olarak geçen sürelerin, silahaltında iken sıhhi izinde geçen sürelerin ve normal izinde geçen sürelerin, firarda geçen sürelerin, erken terhis durumunda erken terhis süresinin bilgileri, askerlik sevkinin ertelenmesi, uzatılması veya mevcut ertelenmesinin sonuç durumları, askerlik hizmet bilgileri ve yedek subaylık eğitimine ilişkin bilgilerin Kurumca sorgulanması sağlanır.

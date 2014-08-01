@@ -1,0 +1,2 @@
+İdari para cezaları
+MADDE 35 – (1) Bu Tebliğ kapsamında belirtilen sigortalılık kontrolleri ve buna müteakip bildirme yükümlülüklerini yerine getirmeyen kamu idareleri ve bankalar ile diğer kuruluşlara, Kanunun 102 nci maddesinin birinci fıkrasının (g) bendi, Kanunun 11 inci maddesinin altıncı fıkrasında belirtilen yükümlülüğü yasal süresi içinde yerine getirmeyen kurum ve kuruluşlara Kanunun 102 nci maddesinin birinci fıkrasının (h) bendi, bilgi ve belgeleri belirtilen şekilde ve sürede vermeyenlere aynı maddenin (i) bendindeki işledikleri fiillere göre işlem yapılır.

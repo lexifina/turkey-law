@@ -1,0 +1,2 @@
+Ekonomi Bakanlığı
+MADDE 11 – (1) Ekonomi Bakanlığınca; 10/3/1993 tarihli ve 21520 sayılı Resmî Gazete’de yayımlanan Serbest Bölgeler Uygulama Yönetmeliği kapsamında Ekonomi Bakanlığı tarafından faaliyet ruhsatı verilen gerçek ve tüzel kişilere ilişkin çalışan kişilerin T.C. Kimlik Numaralı işyeri sahibi/işyeri çalışanı ayrımlı kimlik bilgileri ve çalışılan yerin unvanı ve açık adresi bilgileri ile varsa ücreti ve işe başlama tarihi bilgileri Kuruma gönderilir.

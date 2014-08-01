@@ -1,0 +1,5 @@
+Aile ve Sosyal Politikalar Bakanlığı
+MADDE 7 – (1) Aile ve Sosyal Politikalar Bakanlığınca;
+a) Sosyal Yardım Bilgi Sisteminden (SOYBİS) gelir tespiti ve araştırması için Kurumca belirlenen personele sorgulama yetkisi verilir.
+b) Sosyal hizmet kuruluşlarında okutulacak ders saatlerinin sayısı, ders görevi alacakların nitelikleri ve benzeri diğer hususların tespitine dair esaslar kapsamında resmî görevi olmayıp ders ücreti karşılığında kuruluşlarda görevlendirilen çalışan kişilerin T.C. Kimlik Numaralı işyeri sahibi/işyeri çalışanı ayrımlı kimlik bilgileri ve çalışılan yerin unvanı ve açık adresi bilgileri ile varsa ücreti ve işe başlama tarihi bilgileri Kuruma gönderilir.
+c) 2/5/2006 tarihli ve 26156 sayılı Resmî Gazete’de yayımlanan Özel Mesleki Rehabilitasyon Merkezleri Hakkında Yönetmelik kapsamında çalışan kişilerin T.C. Kimlik Numaralı işyeri sahibi/işyeri çalışanı ayrımlı kimlik bilgileri ve çalışılan yerin unvanı ve açık adresi bilgileri ile varsa ücreti ve işe başlama tarihi bilgileri Kuruma gönderilir.

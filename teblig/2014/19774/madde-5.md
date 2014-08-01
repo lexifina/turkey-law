@@ -1,0 +1,6 @@
+Diğer bankacılık iş ve işlemleri
+MADDE 5 – (1) Kurumca kimlik bilgileri ile talep edilmesi halinde, Kanununun 8 inci ve 100 üncü maddelerinin uygulanması ile genel sağlık sigortalılığında gelir testinin yapılmasına ilişkin olarak ilgililerin banka hesaplarında paralarının bulunup bulunmadığı bilgisi kimlik bilgileri ile birlikte Kuruma gönderilir.
+(2) Kuruma borçlarını vadesinde ödemeyen borçluların, işyeri ve yerleşim yeri adresleri ile hesap bilgileri Kurumca talep edilmesi halinde Kuruma gönderilir.
+(3) Kurumca, gerekli alt yapının sağlanması ile Kuruma borçlu olanların, bankalardaki hesaplarına elektronik ortamda haciz konularak, hacze tabi meblağların Kurum hesaplarına aktarılması sağlanır.
+(4) Kurumca elektronik alt yapı sağlanıncaya kadar bankalar, kamu kurumları hariç olmak üzere maaş ödemesi yapılanlara ait çalışan kişilerin T.C. Kimlik Numaralı işyeri sahibi/işyeri çalışanı ayrımlı kimlik bilgileri, çalışılan yerin unvanı ve açık adresi bilgileri ile ödenen ücret bilgileri, varsa meslek bilgileri ile işe başlama tarihi bilgileri ile birlikte iller bazında Kuruma gönderilir.
+(5) Ticari kredi niteliği taşımayan kredi talepleri ile kredi kartı verilmesinde, bir işyerinde hizmet akdiyle çalışanlardan ücret bordrosu alınması halinde ücret bordrosu bilgileri Kurum tarafından sağlanan elektronik alt yapı üzerinden veya manuel olarak Kuruma gönderilir.

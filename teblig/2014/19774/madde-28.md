@@ -1,0 +1,2 @@
+Türkiye Seyahat Acenteleri Birliği
+MADDE 28 – (1) Türkiye Seyahat Acenteleri Birliğince; 5/10/2007 tarihli ve 26664 sayılı Resmî Gazete’de yayımlanan Seyahat Acentaları Yönetmeliği kapsamında seyahat acentalarında çalışması zorunlu enformasyon memurlarının çalışan kişilerin T.C. Kimlik Numaralı işyeri sahibi / işyeri çalışanı ayrımlı kimlik bilgileri ve çalışılan yerin unvanı ve açık adresi bilgileri ile varsa ücreti ve işe başlama tarihi bilgileri Kuruma gönderilir.
