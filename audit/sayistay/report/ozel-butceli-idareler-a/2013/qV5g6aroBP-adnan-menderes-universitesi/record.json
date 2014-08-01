@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "ADNAN MENDERES ÜNİVERSİTESİ",
+  "category": "Özel Bütçeli İdareler - A",
+  "category_id": "7-ozel-butceli-idareler---a",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/qV5g6aroBP-adnan-menderes-universitesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/qV5g6aroBP-adnan-menderes-universitesi",
+  "source_sha256": "0335ec22226d0b632734336fbec92df01846e0908d24db82bb4a9836cab13bc3",
+  "pdf_pages": 60,
+  "listing": "https://www.sayistay.gov.tr/reports/category/7-ozel-butceli-idareler---a?page=123",
+  "listing_sha256": "e2442cba434f1e5dcb992e6d00e152c71a6e322b896d64e09a247ed2dc509fda",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
