@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "YARGITAY",
+  "category": "Genel Bütçe Kapsamındaki Kamu İdareleri",
+  "category_id": "6-genel-butce-kapsamindaki-kamu-idareleri",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/qV5g699oBP-yargitay",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/qV5g699oBP-yargitay",
+  "source_sha256": "89603608ff2dacf17de142239d4f06529579482e489d18a0ea15215c417827d7",
+  "pdf_pages": 30,
+  "listing": "https://www.sayistay.gov.tr/reports/category/6-genel-butce-kapsamindaki-kamu-idareleri?page=52",
+  "listing_sha256": "2e936318a3ca795f97db707d26034f826ffdb5a92a516895964e8842943eb9ac",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
