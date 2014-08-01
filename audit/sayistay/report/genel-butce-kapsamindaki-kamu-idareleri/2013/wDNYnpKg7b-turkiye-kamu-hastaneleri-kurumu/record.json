@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "TÜRKİYE KAMU HASTANELERİ KURUMU",
+  "category": "Genel Bütçe Kapsamındaki Kamu İdareleri",
+  "category_id": "6-genel-butce-kapsamindaki-kamu-idareleri",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/wDNYnpKg7b-turkiye-kamu-hastaneleri-kurumu",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/wDNYnpKg7b-turkiye-kamu-hastaneleri-kurumu",
+  "source_sha256": "6478b10134235f62e84802c74c4e2f7a1a04fe32259e727656f8abe738f69fe3",
+  "pdf_pages": 99,
+  "listing": "https://www.sayistay.gov.tr/reports/category/6-genel-butce-kapsamindaki-kamu-idareleri?page=52",
+  "listing_sha256": "2e936318a3ca795f97db707d26034f826ffdb5a92a516895964e8842943eb9ac",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
