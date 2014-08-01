@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "NİĞDE ÜNİVERSİTESİ",
+  "category": "Özel Bütçeli İdareler - A",
+  "category_id": "7-ozel-butceli-idareler---a",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/VZwoR2NoLJ-nigde-universitesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/VZwoR2NoLJ-nigde-universitesi",
+  "source_sha256": "2c63a1dd42a58a08e874ed63d8fee8ab3d8ed2e870675dde53acffe229d327ca",
+  "pdf_pages": 35,
+  "listing": "https://www.sayistay.gov.tr/reports/category/7-ozel-butceli-idareler---a?page=127",
+  "listing_sha256": "879674c57666e61bf6e0078d52626d1eec27e091e7249c85f2e0508ebc43e829",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
