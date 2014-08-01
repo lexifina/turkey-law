@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "AMASYA İL ÖZEL İDARESİ",
+  "category": "Özel İdareler",
+  "category_id": "30-ozel-idareler",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/m5pok3RoDW-amasya-il-ozel-idaresi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/m5pok3RoDW-amasya-il-ozel-idaresi",
+  "source_sha256": "897478c0e1f4a849a71c829d4bc9fa2adae459eba337bc3674fb73bd93de7469",
+  "pdf_pages": 15,
+  "listing": "https://www.sayistay.gov.tr/reports/category/30-ozel-idareler?page=30",
+  "listing_sha256": "328454de46c2358428cf38830935c07f4861b18364c73530f4a086465a17c94e",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
