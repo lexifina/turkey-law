@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "EGE ÜNİVERSİTESİ",
+  "category": "Özel Bütçeli İdareler - A",
+  "category_id": "7-ozel-butceli-idareler---a",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/yeaYwJwQX1-ege-universitesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/yeaYwJwQX1-ege-universitesi",
+  "source_sha256": "b048919fe033147161fb6b5bf7ebd49096282f98c1c3f4eecf93f4d0133bd10e",
+  "pdf_pages": 40,
+  "listing": "https://www.sayistay.gov.tr/reports/category/7-ozel-butceli-idareler---a?page=125",
+  "listing_sha256": "1c4e5a8a3d488c4c5b0d4a4cbb4898aed4a5b001b690d34bc32c7cf871c34a53",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
