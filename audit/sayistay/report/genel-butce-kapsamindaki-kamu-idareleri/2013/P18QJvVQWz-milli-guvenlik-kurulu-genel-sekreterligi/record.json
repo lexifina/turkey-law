@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "MİLLİ GÜVENLİK KURULU GENEL SEKRETERLİĞİ",
+  "category": "Genel Bütçe Kapsamındaki Kamu İdareleri",
+  "category_id": "6-genel-butce-kapsamindaki-kamu-idareleri",
+  "report_year": 2013,
+  "report_date": "2014-08-01",
+  "date_precision": "month",
+  "date_as_printed": "Ağustos 2014",
+  "source": "https://www.sayistay.gov.tr/reports/P18QJvVQWz-milli-guvenlik-kurulu-genel-sekreterligi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/P18QJvVQWz-milli-guvenlik-kurulu-genel-sekreterligi",
+  "source_sha256": "a0c4688e09d6b1404eae771badae6c4b335d38f2d4c6efa5c489bab0d882f619",
+  "pdf_pages": 9,
+  "listing": "https://www.sayistay.gov.tr/reports/category/6-genel-butce-kapsamindaki-kamu-idareleri?page=51",
+  "listing_sha256": "8840c9b873e2913193165cbcea11d8c6690015beea0a14ea9848cca8ac0085f6",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-08-01",
+  "in_force_basis": "Official report PDF cover: \"Ağustos 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
