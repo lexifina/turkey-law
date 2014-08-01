@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; her türlü tıbbi bitkinin yetiştiği yerlerin belirlenmesi, tür tayininin yapılması ve geleneksel ilaç olarak tedavide kullanılmasını gerçekleştirmek, uygulamaya aktarmak, bitkilerde aktivite ve etken madde taramaları yapıp bileşik yapılarının belirlenmesi ve benzerlerinin kimyasal ve biyolojik yollarla sentezlenmesine imkan sağlamak, bölgesel sorunlar için çözüm üretmek ve dünyada bitkisel alanda tedavi amacı ile kullanılan ilaçların pazarını genişleterek Ülkemizde üretmek ve piyasayı yönlendirmeye yönelik araştırma ve eğitim çalışmaları yapmak, kullanılan materyallerde kalite ve standardizasyon denetimleri yapabilecek alt yapıyı oluşturmak, bu alanda kurumsal ve bireysel talepleri karşılamak amacı ile bölgesel ölçekte etüt, planlama ve danışmanlık hizmetleri vermektir.
