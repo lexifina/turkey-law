@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-08-02",
+  "issue": "29076",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2014/6587 Devlet Su İşleri Genel Müdürlüğünün 2014 Yılı Sulama ve Tahliye Tesisleri İşletme ve Bakım Ücret Tarifelerine İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140802-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140802.htm",
+  "index_sha256": "4bb12bd209dc41b5785e1e0bc8072c7211f7722cb49c41808bddb39289c359f0",
+  "index_header": "2 Ağustos 2014 ... 29076 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140802.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
