@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[Mük 80/13/33]-759",
+  "source_id": 24164,
+  "date": "2014-08-04",
+  "title": "Ölünceye kadar bakma sözleşmesi ile edinilen gayrimenkulün tapuda, kendi numarası yerine sehven başkasına ait dairenin numarasının yazılması nedeniyle söz konusu hatanın tapuda trampa yoluyla düzeltildikten sonra bahse konu gayrimenkulün satışının vergile",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24164",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "d2b2be628e0454ae6bea020f4cad8d63db672c661f5ae29c068341a8509c16bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
