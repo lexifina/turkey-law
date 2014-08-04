@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155.15[2013/2950]-761",
+  "source_id": 34646,
+  "date": "2014-08-04",
+  "title": "5104 sayılı Kanunla kurulan şirkete ihale edilen müşavirlik ve kontrolörlük işine ilişkin olarak alınan ihale kararı ile düzenlenen sözleşmenin 775 sayılı Kanun kapsamında damga vergisinden istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34646",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "8a9ea4681cf8ec371b3157aa3c6227a6460b1c61d05f66c667ca6df4c8b76a46",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
