@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/3540",
+  "list_number": "3540",
+  "decision_date": "2014-08-05",
+  "title": "Örnek: 138 sayılı Genelge'nin 54. maddesi ile Seçim Takvimindeki çelişkinin giderilmesine ilişkin Yüksek Seçim Kurulunun 2014/3540 sayılı kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2338/2014-3540.pdf",
+  "source_sha256": "efa3774f075f35bf18abed8cf387c5e346d735b27561e26353846e91bfa7d1d9",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-08-05",
+  "law_text_complete": false
+}
