@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "41931384-105[313-2014-10]-48",
+  "source_id": 26980,
+  "date": "2014-08-06",
+  "title": "Elektrik enerjisi ölçümlerine ilişkin sayaçların faydalı ömür ve amortisman oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26980",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "f83be66998b02459f69cc5b7ef29dc987fb2f68dbf3fe5ab39723aee8f638ed5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
