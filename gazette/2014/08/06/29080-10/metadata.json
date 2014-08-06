@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-08-06",
+  "issue": "29080",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2014/6588 Yatırımlarda Devlet Yardımları Hakkında Kararda Değişiklik Yapılmasına Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140806-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140806.htm",
+  "index_sha256": "ef855d084c5c38e059432d9c8c0d12862fe783c0955451a872ffd5c766421dcc",
+  "index_header": "6 Ağustos 2014 ... 29080 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140806.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
