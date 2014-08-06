@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "31977385-205[2013/1]-52",
+  "source_id": 36672,
+  "date": "2014-08-06",
+  "title": "2 No.lu KDV beyannamesi ile beyan edilen alışların karşıt incelemeye tabi tutulup tutulmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/36672",
+  "related_law": "3568 sayılı SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU (*)",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "22a39394b9ea06f363403b274954f098a378b690d845db3acaf4a63b0543d820",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
