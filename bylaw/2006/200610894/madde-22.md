@@ -1,0 +1,2 @@
+Çalışma biçimi
+MADDE 22 – (1) Müfettişler görevlendirildikleri konularda müstakilen çalışırlar. Ancak, gerekli görülen durumlarda teftiş, inceleme ve soruşturma işlemlerinin birden fazla müfettiş tarafından birlikte yürütülmesi de mümkündür. Bu tür çalışmalarda en kıdemli müfettiş iş bölümünü yapmak, işlerin sağlıklı ve süratle sonuçlandırılmasını sağlamak ve Kurul Başkanlığıyla haberleşmeyi yürütmekle görevli ve yetkilidir.
