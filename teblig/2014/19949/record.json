@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.19949",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ MEYVE SUYU VE BENZERİ ÜRÜNLER TEBLİĞİ (TEBLİĞ NO: 2014/34)",
+  "number": "19949",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2014/19949",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19949&MevzuatTertip=5",
+  "source_sha256": "1992f5ba8f2adf06fd9351c0dbfddd6892523e66b5c2570cc641538cb9e728ae",
+  "source_bytes": 92222,
+  "published": "2014-08-06",
+  "gazette": "29080",
+  "in_force": "2014-08-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.08.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2982,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
