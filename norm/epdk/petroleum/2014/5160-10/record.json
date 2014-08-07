@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5160/10",
+  "decision_date": "2014-08-07",
+  "title": "Altınbaş Petrol ve Ticaret A.Ş.’nin; PİL/2023-3/25760 sayılı iletim lisansı tarife ücret değişimi",
+  "resmi_gazete_date": "2014-08-24",
+  "resmi_gazete_number": "29098",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oexzz6WCaBE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oexzz6WCaBE="
+  ],
+  "source_sha256": "c77eca5b6133a10982ee69c8b53a190cb3885c2513563e35ab84e5573319825c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-08-07",
+  "law_text_complete": false
+}
