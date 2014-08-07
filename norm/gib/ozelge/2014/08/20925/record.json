@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-120[40.01.42]-75",
+  "source_id": 20925,
+  "date": "2014-08-07",
+  "title": "Teleskopla verilen hizmetin esnaf muaflığı kapsamında değerlendirilip değerlendirilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20925",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "7d851a506d42a0305595b7a0c6a48d470a960f1daf3ca09d568eb2ec1a77c958",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
