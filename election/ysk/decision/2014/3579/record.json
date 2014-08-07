@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/3579",
+  "list_number": "3579",
+  "decision_date": "2014-08-07",
+  "title": "Adalet ve Kalkınma Partisinin (Ak Parti) ile Halkların Demokratik Partisinin (HDP) izni alınmadan isimlerinin kullanılması nedeniyle, \"AK PARTİ, CHP, MHP, HDP DEMEDEN TÜRK MİLLETİNİN GURURU, sevgiyi, saygıyı, dirliği, birliği ekmek için EKMELEDDİN\" diye başlayan ilânlardan \"AK PARTİ ve HDP\" isimlerinin 8 Ağustos 2014 Cuma günü saat 08.00'e kadar çıkartılması/kapatılması gerektiğine, bu tarih ve saate kadar çıkarılmadığı/kapatılmadığı takdirde bu tür ilânların bilboardlardan ve diğer tüm ilân panolarından kaldırılmasına ilişkin Yüksek Seçim Kurulunun 2014/3579 sayılı kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2336/2014-3579.pdf",
+  "source_sha256": "7124997644820402fdb27f28d340419f4ffcef7690e1d1c616bbf6410083c2ca",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-08-07",
+  "law_text_complete": false
+}
