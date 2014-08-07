@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5160/11",
+  "decision_date": "2014-08-07",
+  "title": "Altınbaş Petrol ve Ticaret A.Ş.’nin; DEP/2023-4/25774 sayılı depolama lisansı tarife ücret değişimi",
+  "resmi_gazete_date": "2014-08-24",
+  "resmi_gazete_number": "29098",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Gxgy28b6bHY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Gxgy28b6bHY="
+  ],
+  "source_sha256": "4243b187f82a19a033957b0285119fa2d5f889710c2721c76bc180791e848b66",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-08-07",
+  "law_text_complete": false
+}
