@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-125[ÖZG-14/12]-228",
+  "source_id": 27682,
+  "date": "2014-08-07",
+  "title": "Bekçi ve mevsimlik işçi çalıştırmanın ortak dışı işlem sayılıp sayılmayacağı ile üst birliğe üye olma şartı bulunup bulunmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27682",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e2eca696f59c3ee5f14901fdbbba12b9703bd4d314424efd8528049731897041",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
