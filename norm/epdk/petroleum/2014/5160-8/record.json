@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5160/8",
+  "decision_date": "2014-08-07",
+  "title": "Altınbaş Petrol ve Ticaret A.Ş.’nin; PİL/2023-3/25759 sayılı iletim lisansı",
+  "resmi_gazete_date": "2014-08-24",
+  "resmi_gazete_number": "29098",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TqxkJGsybb0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TqxkJGsybb0="
+  ],
+  "source_sha256": "46aa0b199062164cd0fe7d450a78a154dd0099485461ea1a014f67a745614311",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-08-07",
+  "law_text_complete": false
+}
