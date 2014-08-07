@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-08-07",
+  "issue": "29081",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "2014/6668 Merkezi Kayıt Kuruluşunun Kuruluş, Faaliyet, Çalışma ve Denetim Esasları Hakkında Yönetmeliğin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140807-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140807.htm",
+  "index_sha256": "bac22d72024f7f0f093f3e7f6f8cafdcaec4575d07b1cf8b81c5c5bc5c177756",
+  "index_header": "7 Ağustos 2014 ... 29081 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140807.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
