@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-08-09",
+  "issue": "29083",
+  "edition": "regular",
+  "item": 23,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Zorunlu Sigorta Takibine İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140809-23.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140809.htm",
+  "index_sha256": "40cd2a6868f9c164d006dd5be6a7e095974e08274c1d24c16d5af07fef442e14",
+  "index_header": "9 Ağustos 2014 ... 29083 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140809.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
