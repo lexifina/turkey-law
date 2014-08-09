@@ -1,0 +1,3 @@
+Üçüncü ülkelerden ithalat
+MADDE 21 – (1) 2010–2013 (Ocak-Eylül) dönemde üçüncü ülkelerden yapılan ithalat incelendiğinde, 2010 yılında 885.128 kg olan ithalat 2011 yılında 1.024.801 kg, 2012 yılında 758.516 kg ve 2013 (Ocak-Eylül) dönemde 1.077.854 kg olarak gerçekleşmiştir. Söz konusu ithalatın birim fiyatları ise 2010 yılında 7,36 ABD Doları/kg iken 2011 yılında 8,55 ABD Doları/kg, 2012 yılında 8,76 ABD Doları/kg ve 2013 (Ocak-Eylül) dönemde ise 8,34 ABD Doları/kg seviyesinde gerçekleşmiştir.
+(2) Üçüncü ülkelerden yapılan ithalatın pazar payı ise 2010 yılında %38,37 iken 2011 yılında %41,97, 2012 yılında %35,93 ve 2013 (Ocak-Eylül) dönemde ise %55,89 olarak gerçekleşmiştir.

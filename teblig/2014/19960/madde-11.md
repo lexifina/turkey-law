@@ -1,0 +1,4 @@
+Ürünün soruşturma konusu ülkeden ithalatı ve birim fiyatı
+MADDE 11 – (1) 2010-2013 (Ocak-Eylül) döneminde ÇHC’den önlem konusu ürün ithalatı miktar bazında 2010 yılında 147.109 kg, 2011 yılında 133.325 kg, 2012 yılında 108.026 kg ve 2013 (Ocak-Eylül) döneminde de 90.772 kg olmuştur. Gerçekleşen ithalatın değeri ise 2010 yılında 1.250.240 ABD doları, 2011 yılında 1.368.635 ABD doları, 2012 yılında 905.470 ABD doları ve 2013 (Ocak-Eylül) döneminde de 1.040.200 ABD doları seviyesinde gerçekleşmiştir.
+(2) ÇHC’den yapılan ithalatın birim fiyatı ise 2010 yılında 8,50 ABD doları/kg, 2011 yılında 10,27 ABD doları/kg, 2012 yılında 8,38 ABD doları/kg ve 2013 (Ocak-Eylül) döneminde de 11,46 ABD Doları/kg olarak gerçekleşmiştir.
+(3) ÇHC kaynaklı ithalatın toplam ithalat içindeki payı ise 2010 yılında % 14,25, 2011 yılında % 11,51, 2012 yılında % 12,47 ve 2013 (Ocak-Eylül) döneminde de %7,77 seviyesindedir.

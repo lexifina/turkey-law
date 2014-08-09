@@ -1,0 +1,8 @@
+İlgili tarafların bilgilendirilmesi ve toplanan bilgilerin değerlendirilmesi
+MADDE 4 – (1) Soruşturma açılmasını müteakip, söz konusu ürünün tespit edilen ithalatçılarına, ÇHC’de yerleşik bilinen üretici/ihracatçılara ve ayrıca anılan ülkede yerleşik diğer üretici/ihracatçılara iletilebilmesini sağlamak amacıyla ÇHC’nin Ankara Büyükelçiliğine ilgili soru formları, başvurunun gizli olmayan özeti ve soruşturma açılış Tebliğine ulaşmalarını sağlamak için soruşturma açılışına ilişkin bildirim yapılmıştır.
+(2) Taraflara soru formunu yanıtlamaları için posta süresi dâhil 37 gün süre tanınmış olup tarafların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+(3) Yerli üretim dalı soruşturma süresince Bakanlığımız ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgileri temin etmiştir.
+(4) Kendilerine soru formu gönderilen 20 ithalatçı firmanın ikisinden cevap alınmıştır.
+(5) ÇHC’de yerleşik 24 firmaya soru formu gönderilmiş ancak bu firmalardan cevap alınmamıştır. Öte yandan tacir sıfatıyla soruşturma döneminde Türkiye’ye ihracat yapan İspanyol Jovi S.A firması süre uzatım talebinde bulunmuş, bu talebine olumlu karşılık verilmiştir. Söz konusu firma Türkiye’ye, üçüncü ülkelere ve kendi iç pazarına yapmış olduğu ürün satışlarını gösteren verileri dilekçesi ekinde Genel Müdürlüğe iletmiştir.
+(6) Ayrıca ilgili taraflardan alınan bilgi ve belgelerin gizli olmayan özetleri talep eden bütün ilgili tarafların bilgisine sunulmak üzere hazır tutulmuştur.
+(7) Tarafların soruşturma boyunca ortaya koyduğu tüm bilgi, belge ve görüşler incelenmiş, mezkûr görüşlerden ilgili mevzuat kapsamında değerlendirilebilecek olanlara bu Tebliğin ilgili bölümlerinde cevap verilmiştir.

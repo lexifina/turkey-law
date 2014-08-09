@@ -1,0 +1,9 @@
+Soruşturmaya konu ülkedeki yerleşik kapasite ve ihracat potansiyeli
+MADDE 16 – (1) ÇHC’nin soruşturma konusu üründeki üretim kapasitesi ve ihracat kabiliyeti Uluslararası Ticaret Merkezi (UTM-International Trade Center) verilerine dayanılarak dörtlü GTP temelinde incelenmiştir. Buna göre;
+a) 2012 yılı itibariyle soruşturma konusu üründe %58’lik pazar payı ile dünyanın en büyük ihracatçısı olan ÇHC’nin ihracatı miktar bazında 2010 yılında 133.647.000 kg iken 2011 yılında 127.558.000 kg ve 2012 yılında da 125.081.000 kg olarak gerçekleşmiştir.
+b) Söz konusu ihracatın değer bazında ise 2010 yılında 399.188.000 ABD Doları, 2011 yılında 464.839.000 ABD Doları ve 2012 yılında da 472.212.000 ABD Doları olarak gerçekleştiği görülmektedir.
+c) Gerçekleşen bu ihracatın birim fiyatları ise 2010 yılında 2,99 ABD Doları/kg (dünya ortalaması 8,43 ABD Doları/kg), 2011 yılında 3,64 ABD Doları/kg (dünya ortalaması 8,27 ABD Doları/kg) ve 2012 yılında da 3,78 ABD Doları/kg (dünya ortalaması 8,88 ABD Doları/kg) düzeyindedir. ÇHC’nin şikâyet konusu üründeki ihraç birim fiyatları dünya ortalamasının önemli ölçüde altında seyretmektedir.
+(2) Yine Japon Yazı Gereçleri Üreticileri Birliği (JWIMA-Japan Writing Instruments Manufacturers Association)’nin Aralık 2012 Raporunda belirtildiği üzere ÇHC’nin şikayet konusu ürün ihracatı (yalnızca kurşun kalem ve kurşun boyama kalemleri);
+a) Miktar bazında 2009 yılında 56.123.000 kg iken 2010 yılında 71.013.000 kg ve 2011 yılında da 68.861.000 kg düzeyindedir.
+b) Yine aynı dönemde gerçekleşen ihracatın değer bazındaki gelişimi ise, 2009 yılında 217.364.000 ABD Doları iken 2010 yılında 289.402.000 ABD Doları ve 2011 yılında da 342.017.000 ABD Doları seviyesine yükselmiştir.
+c) Bu dönemde birim fiyatlar ise 2009 yılında 3,87 ABD Doları/kg, 2010 yılında 4,08 ABD Doları/kg ve 2011 yılında da 4,97 ABD Doları/kg olarak gerçekleşmiştir.

@@ -1,0 +1,4 @@
+Önlem konusu ithalatın pazar payı
+MADDE 12 – (1) Soruşturma konusu ürünün yurt içi tüketimi, yerli üretim dalının yurt içi satışları ile soruşturma konusu ürünün genel ithalatının toplanması suretiyle hesaplanmıştır.
+(2) Bu veriler çerçevesinde Türkiye benzer mal tüketimi endeks değeri 2010 yılı için 100 olarak alındığında 2011 yılında 106, 2012 yılında 92, 2013 (Ocak-Eylül) döneminde 115 ve yıllıklandırılmış 2013 endeks değeri ise 153’e yükselmiştir. YÜD’ün pazar payı ise 2010 yılında % 55,25, 2011 yılında %52,57, 2012 yılında % 58,96 ve 2013 (Ocak-Eylül) döneminde ise % 55,89 olarak gerçekleşmiştir.
+(3) ÇHC’nin benzer mal tüketim pazar payı 2010 yılında 100 iken 2011 yılında 86, 2012 yılında 80 ve 2013 (Ocak-Eylül) döneminde 54 iken yıllıklandırılmış 2013 yılı pazar payı ise 72 olarak gerçekleşmiştir.

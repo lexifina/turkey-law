@@ -1,0 +1,4 @@
+Ürünün genel ithalatı
+MADDE 10 – (1) Soruşturma konusu ürünün Türkiye’ye genel ithalatı ve önlem konusu ülkeden yapılan ithalatının incelenmesinde TÜİK verileri kullanılmıştır. Tablolarda 2010-2013 (Ocak-Eylül) dönemine ilişkin veriler, ithalatın gelişiminin analizinde kullanılmıştır. Buna göre, 2010 yılında 1.032.237 kg olan soruşturma konusu ürün genel ithalatı, 2011 yılında 1.158.126 kg, 2012 yılında 866.542 kg ve 2013 (Ocak-Eylül) döneminde ise 1.168.626 kg seviyesinde gerçekleşmiştir.
+(2) Bahse konu ürünün genel ithalatının değer bazında 2010 yılında 7.762.917 ABD Doları, 2011 yılında 10.131.223 ABD Doları, 2012 yılında 7.551.330 ABD Doları ve 2013 (Ocak-Eylül) döneminde de 10.031.417 ABD Doları düzeyinde gerçekleştiği görülmektedir.
+(3) Genel ithalatın birim fiyatları ise 2010 yılında 7,52 ABD Doları/kg, 2011 yılında 8,75 ABD Doları/kg, 2012 yılında 8,71 ABD Doları/kg ve 2013 (Ocak-Eylül) döneminde de 8,58 ABD Doları/kg olarak gerçekleşmiştir.
