@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.19966",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ(TEBLİĞ NO: 2014/29)",
+  "number": "19966",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2014/19966",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19966&MevzuatTertip=5",
+  "source_sha256": "2aba3c18fb29bce11951b1c2e88dbd9d0e609871f2c8d13c59b76a1f16046013",
+  "source_bytes": 18259,
+  "published": "2014-08-11",
+  "gazette": "29085",
+  "in_force": "2014-08-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.08.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 743,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
