@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97677631-140.04[57-2014/3]-24",
+  "source_id": 35701,
+  "date": "2014-08-13",
+  "title": "Kat karşılığı inşaat sözleşmesine istinaden arsa sahiplerine devredilen bağımsız bölümlerde harç matrahı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35701",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "db1426c86186bcf63dda14c7b53943b77f9fc417ecfdee6e97a8382a3408e016",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
