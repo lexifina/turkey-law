@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-08-14",
+  "issue": "29088",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tarım ve Orman Araçlarının Tip Onayı ve Piyasa Gözetimi ve Denetimi Hakkında Yönetmelik (AB/167/2013)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140814-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140814.htm",
+  "index_sha256": "992dfd2124408aa7b488ad96537f6b16f0f37300e8d04c7c84abe6f0a3be5b00",
+  "index_header": "14 Ağustos 2014 ... 29088 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140814.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
