@@ -1,0 +1,2 @@
+Pasaport defterlerinin şekli ve muhtevası
+MADDE 20 – (1) Ülkemiz adına verilen pasaportların şekli ve muhtevası Uluslararası Sivil Havacılık Teşkilatı (ICAO) Makinede Okunabilir Seyahat Belgeleri Standartları (MRTD) çerçevesinde 9303 sayılı belge ve eklerine uygun olarak, İçişleri Bakanlığı ve Dışişleri Bakanlığı ile Darphane ve Damga Matbaası Genel Müdürlüğü arasında önceden yapılmış ve bu Yönetmeliğin yayımı tarihinden sonra yapılacak protokoller çerçevesinde düzenlenir.

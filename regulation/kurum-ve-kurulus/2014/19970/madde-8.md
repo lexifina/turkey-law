@@ -1,0 +1,2 @@
+Hizmet pasaportu
+MADDE 8 – (1) Hizmet pasaportu; Kanunun 14 üncü maddesinin (B) fıkrasında belirtilen şartları taşıyanlara, altı aydan az olmamak kaydıyla pasaport sahibinin görevinin müddetine göre İçişleri Bakanlığınca tespit edilecek sürelerde yurt içinde İçişleri Bakanlığının vereceği yetkiye göre Valilikler, yurt dışında ise İçişleri Bakanlığının muvafakatı ve Dışişleri Bakanlığının talimatı ile dış temsilcilikler vermeye yetkilidir.
