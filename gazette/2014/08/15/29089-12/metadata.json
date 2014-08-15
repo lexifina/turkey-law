@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-08-15",
+  "issue": "29089",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Bartın Üniversitesi Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140815-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140815.htm",
+  "index_sha256": "85dbad2383fdc09b54c300a1d473a91fda917ed7b13fb2207beccfa39c36f9c7",
+  "index_header": "15 Ağustos 2014 ... 29089 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140815.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
