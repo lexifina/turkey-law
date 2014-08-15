@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-120[ÖZG-2013-28]-81",
+  "source_id": 21928,
+  "date": "2014-08-15",
+  "title": "Diş Hekiminin Aldığı İmplant Dişin Giderleştirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21928",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "5994ab31cd2c233f89eaac62fdf94e43383628c6ad82a5c0ed93ea999ff22592",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
