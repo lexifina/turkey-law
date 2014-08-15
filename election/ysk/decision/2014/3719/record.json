@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/3719",
+  "list_number": "3719",
+  "decision_date": "2014-08-15",
+  "title": "10 Ağustos 2014 Pazar günü yapılan 12. Cumhurbaşkanı Seçimi kesin seçim sonuçlarına ilişkin Yüksek Seçim Kurulunun 2014/3719 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2332/2014-3719.pdf",
+  "source_sha256": "942ee807e9d67059cf882ca8a3344e7dca03b6283d1b0392ae37d6559d65e483",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-08-15",
+  "law_text_complete": false
+}
