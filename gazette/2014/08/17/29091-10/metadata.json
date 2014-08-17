@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-08-17",
+  "issue": "29091",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2014/66)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140817-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140817.htm",
+  "index_sha256": "f585a0d493e3daa35a0eb65caf3615f680325e9138b1e4e784942d51525f7088",
+  "index_header": "17 Ağustos 2014 ... 29091 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140817.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
