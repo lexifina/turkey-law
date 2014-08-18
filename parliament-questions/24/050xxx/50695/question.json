@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 24,
+  "legislative_year": 4,
+  "esas_no": "7/50695",
+  "submitted": "2014-08-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet ŞANDIR",
+  "province": "Mersin",
+  "summary": "Mersin'deki okullara yapılacak yönetici görevlendirmelerine yönelik çalışmalara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bf-d210-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "217264045f3a3807e7950f597bec4da1483ab08ec574f53268870994f64bb793",
+  "in_force": "2014-08-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
