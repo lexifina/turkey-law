@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "67854564-010-483",
+  "source_id": 36567,
+  "date": "2014-08-18",
+  "title": "Yeni Nesil Ö.K.C.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36567",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "ed7c6c3602c75d6342449266f8df6dac749f9e3d3e31d2b81d19007b64d3a868",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
