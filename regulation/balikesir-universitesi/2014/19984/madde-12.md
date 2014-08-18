@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+MADDE 12 – (1) Danışma Kurulu; Yönetim Kurulunun önerisi üzerine, enerji konusunda çalışmaları bulunan kamu ve özel sektör kurum ve kuruluş temsilcileri ve uzmanlar arasından istekleri halinde, üç yıllık süre ile Rektör tarafından görevlendirilen kişilerden oluşur. Bu üyelerin görev süreleri ve yeniden görevlendirilmeleri, Yönetim Kurulu üyeleri ile aynı şekilde olur. Danışma Kurulu Müdürün çağrısı üzerine toplanır.
+(2) Danışma Kurulunun görevi; Yönetim Kuruluna bilimsel ve teknolojik konularda danışmanlık yapmak ve kendisine sunulan konularda incelemeler yaparak görüş bildirmektir.
