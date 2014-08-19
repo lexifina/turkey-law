@@ -1,0 +1,1 @@
+MADDE 8 – (1) 10/9/2004 tarihli ve 25579 sayılı Resmî Gazete’de yayımlanan Nargilelik Tütün Mamulünün Etiketlenmesinde ve Tüketim Yerlerinin İşletilmesinde Uyulması Gerekli Hususlar Hakkında Tebliğ yürürlükten kaldırılmıştır.

@@ -1,0 +1,1 @@
+MADDE 3 – (1) Nargilelik tütün mamulü içimi yapılan işyerine ait alan/alanlar için Tütün Mamulleri ve Alkollü İçkilerin Satışına ve Sunumuna İlişkin Usul ve Esaslar Hakkında Yönetmelik kapsamında Tütün ve Alkol Piyasası Düzenleme Kurumu (Kurum)’ndan Nargilelik Tütün Mamulü Sunum Uygunluk Belgesi alınması zorunludur.

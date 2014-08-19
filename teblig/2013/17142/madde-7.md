@@ -1,0 +1,5 @@
+MADDE 7 – (Değişik:RG-8/10/2013-28789)
+(1) Bu Tebliğe konu ürünlerin, Nargilelik Tütün Mamulü Sunum Uygunluk Belgesi alınan iş yerlerinin varsa kapalı alanlarında tüketime sunulması halinde, 4207 sayılı Kanunun 5 inci maddesinin ikinci fıkrası hükmüne göre idarî para cezası verilir. Söz konusu fiilin bir yıllık dönemde tekerrürü halinde aynı maddenin onaltıncı fıkrası hükmü uygulanır.
+(2) Bu Tebliğe konu ürünleri, Nargilelik Tütün Mamulü Sunum Uygunluk Belgesi alınan iş yerlerinin varsa kapalı alanlarında tüketen kişilere, 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun 39 uncu maddesinin üçüncü fıkrası hükmüne göre idarî para cezası verilir.
+(3) Bu Tebliğe konu ürünleri onsekiz yaşını doldurmamış kişilere satanlara veya tüketimlerine sunanlara, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 194 üncü maddesi hükmüne göre yaptırım uygulanır.
+(4) Bu Tebliğin diğer hükümlerine aykırı hareket edenler hakkında ise 4207 sayılı Kanun, 4733 sayılı Kanun ve 4703 sayılı Kanun hükümleri kapsamında gerekli idarî yaptırımlar uygulanır.

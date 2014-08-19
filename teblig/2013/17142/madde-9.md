@@ -1,0 +1,1 @@
+MADDE 9 – (1) Bu Tebliğin yayımlandığı tarihten önce faaliyette bulunan nargilelik tütün mamulü içilen işyerine ait alan/alanlar, bu Tebliğin yürürlüğe girdiği tarihten itibaren en geç 27/7/2013 tarihine kadar bu Tebliğe uygun hale getirilir.
