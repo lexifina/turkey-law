@@ -1,0 +1,5 @@
+İçme-kullanma suyu temin edenlerce ibraz edilecek belgeler
+MADDE 8 – (1) İçme suyu temin edenler, Müdürlükçe yapılacak denetimlerde ibraz edilmek üzere aşağıdaki belge ve kayıtları tutar.
+a) Sözleşme yapılmış su işleticisinden temin edilen suyun her bir işleminin hangi tarihte, kaç litre olarak gerçekleştiği ile suyu veren ve teslim alan kişilerin isim ve imzalarının yer alacağı ve müdürlükçe onaylanmış kayıt defteri bulundurulur.
+b) İçme-kullanma suyu temin edenlere ait depo ve tankın dezenfeksiyon işlemlerine yönelik bilgilerin yer aldığı ve Müdürlükçe onaylanmış dezenfeksiyon kayıt defteri bulundurulur. Kayıt defterinde asgari olarak, dezenfeksiyon işlemini yapan kişi veya kuruluşun adı, dezenfeksiyon işleminde kullanılan maddenin adı, işlemin gerçekleştirildiği tarih, işlemi gerçekleştiren kişinin adı ve imzası ile Müdürlükçe gerekli görülen diğer bilgiler yer alır.
+c) Kayıt defterinde yer alan işlemlere yönelik olarak bir dosya içerisinde tarih sırasına göre tutulan irsaliye veya faturalar bulundurulur.

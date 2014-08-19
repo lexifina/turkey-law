@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19987",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TANKERLE İÇME-KULLANMA SUYU TEMİNİ VE NAKLİ HAKKINDA TEBLİĞ",
+  "number": "19987",
+  "issuer": "Sağlık Bakanı",
+  "path": "teblig/2014/19987",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19987&MevzuatTertip=5",
+  "source_sha256": "802f620a7e010f84018f08943273fd99bc11b1bac43b53b0482987a8d732a746",
+  "source_bytes": 27220,
+  "published": "2014-08-19",
+  "gazette": "29093",
+  "in_force": "2014-08-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.08.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1825,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19987-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
