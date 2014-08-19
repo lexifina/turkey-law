@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66491453-009-9",
+  "source_id": 30823,
+  "date": "2014-08-19",
+  "title": "Organize Sanayi Bölgesinde Doğalgaz Dağıtım Şebekesi Yapım İşine ilişkin yapılan hakediş ödemelerinde damga vergisi ve katma değer vergisi tevkifatı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/30823",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "ee1a967373098fd0d10f98e80b29cc18a27abd8797e421d0a111607f58728e9a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
