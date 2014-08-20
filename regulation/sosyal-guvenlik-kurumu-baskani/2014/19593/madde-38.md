@@ -1,0 +1,7 @@
+YEDİNCİ BÖLÜM
+Genel Sağlık Sigortası Bakımından Rücu ve Yersiz Ödemelerin Geri Alınması
+İşverenin iş kazası ve meslek hastalığı hâlinde sorumluluğu ve rücu
+MADDE 38 – (1) İşveren, iş kazasına uğrayan veya meslek hastalığına tutulan genel sağlık sigortalısına, sağlık durumunun gerektirdiği sağlık hizmetlerini derhal sağlamakla yükümlüdür. Bu amaçla işveren tarafından yapılan ve belgelere dayanan sağlık hizmeti giderleri ve yol gideri, gündelik ve refakatçi giderleri, Sağlık Hizmetleri Fiyatlandırma Komisyonu tarafından belirlenen tutarı geçmemek üzere Kurum tarafından karşılanır.
+(2) Birinci fıkrada belirtilen yükümlülüklerin yerine getirilmesindeki ihmalinden veya gecikmesinden dolayı, genel sağlık sigortalısının tedavi süresinin uzamasına veya malul kalmasına veya malullük derecesinin artmasına sebep olan işveren, Kurumun bu nedenle yaptığı her türlü sağlık hizmeti giderini öder.
+(3) İş kazası ile meslek hastalığı, işverenin kastı veya sigortalının iş sağlığını koruma ve iş güvenliği ile ilgili mevzuat hükümlerine aykırı hareketi sonucu olmuşsa, Kurumca yapılan veya yapılacak iş kazasına ve meslek hastalığına yönelik sağlık hizmetine ilişkin giderler ile yol gideri, gündelik ve refakatçi giderleri işverene tazmin ettirilir. İşverenin sorumluluğunun tespitinde kaçınılmazlık ilkesi dikkate alınır.
+(4) İşverenin bu maddenin uygulanmasına ilişkin sorumlulukları, yurt dışında geçici ya da sürekli görevlendirme hâlinde de devam eder.

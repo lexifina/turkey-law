@@ -1,0 +1,4 @@
+Fatura İncelenmesi ve Ödeme İşlemleri
+Sağlık hizmetleri ile yol gideri, gündelik ve refakatçi giderlerinin Kurumca ödenecek tutarlarının belirlenmesi
+MADDE 34 – (1) Kanunun 63 üncü maddesi gereği Kurumca tespit edilen finansmanı sağlanacak sağlık hizmetlerinin ve yol gideri, gündelik ve refakatçi giderlerinin Kurumca ödenecek tutarları; sağlık hizmetinin sunulduğu il ve basamak, sağlık hizmetlerinin maliyeti, Devletin doğrudan veya dolaylı olarak sağlamış olduğu sübvansiyonlar, sağlık hizmetinin niteliği itibarıyla hayati öneme sahip olup olmaması, kanıta dayalı tıp uygulamaları, teşhis ve tedavi maliyetini esas alan maliyet-etkililik ölçütleri ve genel sağlık sigortası bütçesi dikkate alınmak suretiyle, her sınıf için tek tek veya gruplandırılarak Sağlık Hizmetleri Fiyatlandırma Komisyonu tarafından belirlenir.
+(2) Kurumca finansmanı sağlanan sağlık hizmetlerinin bedeli, Sağlık Hizmetleri Fiyatlandırma Komisyonu tarafından belirlenen tutar üzerinden ödenir.

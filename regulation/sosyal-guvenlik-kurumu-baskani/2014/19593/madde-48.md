@@ -1,0 +1,4 @@
+Sağlık hizmeti sunucularının kayıt ve bildirim zorunluluğu ve sağlık bilgilerinin gizliliği
+MADDE 48 – (1) Kurum ile sözleşmeli sağlık hizmeti sunucuları, sağlık hizmeti sunduğu kişilere Kurumun bildirilmesini istediği bilgileri, belirlenen yöntemlere ve süreye uygun biçimde elektronik ortamda veya yazılı olarak Kuruma göndermek zorundadır. Bu bilgiler gönderilmeksizin genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilere ait talep edilen sağlık hizmeti giderleri, bilgiler gönderilinceye kadar ödenmez.
+(2) Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişiler ile bildirimi yapılan diğer kişilere ait sağlık bilgilerinin gizliliği esastır.
+(3) (Danıştay Onbeşinci Dairesinin 28/11/2018 tarihli ve E.:2014/4689; K.:2018/7934 sayılı kararı ile iptal fıkra; Danıştay İDDK’nın 12/11/2020 tarihli E.:2019/1729, K.:2020/2402 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.)

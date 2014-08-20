@@ -1,0 +1,3 @@
+Yol Gideri, Gündelik ve Refakatçi Giderleri
+Finansmanı sağlanan sağlık hizmetlerinin amacı ve kapsamı
+MADDE 7 – (1) Genel sağlık sigortalısının ve bakmakla yükümlü olduğu kişilerin sağlıklı kalmaları; hastalanmaları hâlinde sağlıklarını kazanmaları; iş kazası ile meslek hastalığı, hastalık ve analık sonucu tıbben gerekli görülen sağlık hizmetlerinin karşılanması, iş göremezlik hâllerinin ortadan kaldırılması veya azaltılması, iş kazası ve meslek hastalığına, kazaya, hastalıklara veya konjenital (doğuştan) nedenlere bağlı olarak ortaya çıkan durumlarda vücut bütünlüğünün sağlanması amacıyla Kanunun 63 üncü maddesinin birinci fıkrasının (a), (b), (c), (d), (e) ve (f) bentlerinde sayılan sağlık hizmetlerinin finansmanı Kurumca sağlanır.

@@ -1,0 +1,3 @@
+Sağlık hizmeti sunucularının duyurulması ve sağlık hizmeti sunucusunu seçme serbestisi
+MADDE 47 – (1) Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin sağlık hizmetinden yararlanmak için başvuracakları yurt içinde veya yurt dışındaki sözleşmeli sağlık hizmeti sunucularının unvan, isim ve adresleri Kurumca elektronik veya internet ortamında veya diğer yöntemlerle duyurulur.
+(2) Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişiler, sözleşmeli sağlık hizmeti sunucuları arasından, genel sağlık sigortasıyla ilgili 5510 sayılı Kanunun diğer madde hükümlerine uymak şartıyla istediğini seçme hakkına sahiptir.

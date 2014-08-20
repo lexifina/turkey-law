@@ -1,0 +1,2 @@
+Acil hâller ve acil sağlık hizmetleri
+MADDE 27 – (1) Acil hâller; ani gelişen hastalık, kaza, yaralanma ve benzeri durumlarda olayın meydana gelmesini takip eden ilk 24 saat içinde tıbbî müdahale gerektiren durumlar ile ivedilikle tıbbî müdahale yapılmadığı veya başka bir sağlık kuruluşuna nakli hâlinde hayatın ve/veya sağlık bütünlüğünün kaybedilme riskinin doğacağı kabul edilen durumlardır. Bu nedenle sağlanan sağlık hizmetleri acil sağlık hizmeti olarak kabul edilir.

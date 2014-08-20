@@ -1,0 +1,3 @@
+Komisyonlar
+MADDE 15 – (1) Kurum, finansmanı sağlanan sağlık hizmetlerinin teşhis ve tedavi yöntemleri ile teşhis ve tedavileri için gerekli olabilecek kan ve kan ürünleri, kemik iliği, aşı, ilaç, ortez, protez, tıbbî araç ve gereç, kişi kullanımına mahsus tıbbî cihaz, tıbbî sarf, iyileştirici nitelikteki tıbbî sarf malzemelerinin sağlanması, takılması, garanti süresi sonrası bakımı, onarılması ve yenilenmesi hizmetlerinin türlerinin, miktarlarının ve kullanım sürelerinin, ödeme usul ve esaslarının belirlenmesine yönelik olarak komisyonlar kurabilir, üniversiteler, ulusal ve uluslararası tüzel kişilerle işbirliği yapabilir.
+(2) Komisyonların görev ve yetkileri ile çalışma usul ve esasları Maliye Bakanlığı ile Sağlık Bakanlığının görüşü alınarak Kurumca belirlenir.

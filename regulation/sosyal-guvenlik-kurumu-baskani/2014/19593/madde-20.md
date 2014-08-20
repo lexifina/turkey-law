@@ -1,0 +1,2 @@
+Yatarak tedavide katılım payı
+MADDE 20 – (1) Kurumca belirlenecek hastalık gruplarına göre yatarak tedavide finansmanı sağlanan sağlık hizmetleri bedelinin yüzde birine kadar katılım payı alınabilir. Yüzde birine kadar tespit edilen katılım payını almamaya, yarısına kadar indirmeye veya bir katına kadar artırmaya, gerektiğinde bu tutarları kanuni tutarlarına getirmeye veya indirmeye Kurum yetkilidir. Yatarak tedavide katılım payı tutarı, bir takvim yılında asgari ücret tutarını geçmemek kaydıyla her bir yatarak tedavi için asgari ücretin dörtte birini geçemez.
