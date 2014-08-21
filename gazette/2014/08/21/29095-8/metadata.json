@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-08-21",
+  "issue": "29095",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme İdaresi Başkanlığının 19/8/2014 Tarihli ve 2014/ÖİB-K-54 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140821-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140821.htm",
+  "index_sha256": "8238d1fee3c0006baa48b65941c8051211b21bc6ea24c37b633f409e55a53fea",
+  "index_header": "21 Ağustos 2014 ... 29095 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140821.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
