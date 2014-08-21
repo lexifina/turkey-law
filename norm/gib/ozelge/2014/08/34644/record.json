@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76464994-155.01[2014/6]-199",
+  "source_id": 34644,
+  "date": "2014-08-21",
+  "title": "Konşimentoların damga vergisine tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34644",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "ff2d5a5724ac5cb4ba21d1fc64815edc4bf187c802ff982b73eb8ebc4bd1fb82",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
