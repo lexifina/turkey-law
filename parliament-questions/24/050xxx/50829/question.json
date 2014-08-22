@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 24,
+  "legislative_year": 4,
+  "esas_no": "7/50829",
+  "submitted": "2014-08-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Melda ONUR",
+  "province": "İstanbul",
+  "summary": "İzmir'in Gaziemir ilçesinde bir arazide bulunan radyoaktif atıkların temizlenmesinde TAEK'in sorumluluğuna ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bf-f959-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "dd3f0ecf4063b1bd7a648d0421198c33af86af22828d4b610c4863e0a1232994",
+  "in_force": "2014-08-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
