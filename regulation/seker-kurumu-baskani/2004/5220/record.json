@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.5220",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ŞEKER DEPOLAMA KESİNTİSİ VE PRİM ÖDEMELERİ YÖNETMELİĞİ",
+  "number": "5220",
+  "issuer": "Şeker Kurumu Başkanı",
+  "issuer_slug": "seker-kurumu-baskani",
+  "path": "regulation/seker-kurumu-baskani/2004/5220",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5220&MevzuatTertip=5",
+  "source_sha256": "95df5a5943b3f689ee547a7562722c5ac980ee52aa631042f204e878ba3f6f56",
+  "source_bytes": 31374,
+  "published": "2004-01-27",
+  "gazette": "25359",
+  "in_force": "2014-08-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/8/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-08-23",
+      "RG-23/8/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-05-06",
+      "RG-6/5/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-05-16",
+      "RG-16/5/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-05-16",
+      "R.G.16/5/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1534,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

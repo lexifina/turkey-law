@@ -1,0 +1,4 @@
+Tahsilat ve Ödemeler
+Madde 9 — (Değişik:R.G.16/5/2009-27230)
+(Değişik cümle:RG-23/8/2014-29097) Kurum, prime hak kazanmış veya kesintiye tabi olacak her şirketin; almaya hak kazandığı aylık prim tutarlarını ve tahakkuk eden aylık kesinti tutarlarını, birincisi Eylül-Şubat ve ikincisi Mart-Ağustos olmak üzere altı aylık dilimler halinde gerçekleşen bütçe dönemine ilişkin olan ortalama fiyata göre hesaplar. Hak kazandıkları prim tutarları ile ödeyecekleri kesinti tutarlarını birbirine mahsup ederek, oluşan net kesinti tutarlarını ve net prim alacağı tutarlarını ilgili şirketlere bildirir.
+Birinci fıkrada belirlenen tutarlar ile ilgili ödeme veya tahsilat; altı aylık dilimler halinde olmak üzere, ilk dilim ilgili pazarlama yılının Nisan ayı içinde, ikinci dilim ise izleyen pazarlama yılının Ekim ayı içinde yapılır.
