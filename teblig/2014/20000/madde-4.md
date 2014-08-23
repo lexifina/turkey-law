@@ -1,0 +1,26 @@
+Tanımlar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Ambalaj salamurası: Tuzlu su çözeltisine gerektiğinde gıda katkı maddeleri, sirke, zeytinyağı, bitki adı ile anılan yağlar, baharat, aromalı veya aromasız bitkiler ve diğer uygun gıdalar ilave edilerek hazırlanan karışımı,
+b) Bütün zeytinler: Doğal şeklini muhafaza eden, çekirdeği çıkartılmamış, saplı veya sapsız olan ve 5 inci maddenin dördüncü fıkrasının (a) bendinde belirtilen formlarda satışa sunulabilen zeytinleri,
+c) Çekirdeği çıkartılmış zeytinler: Çekirdeği çıkartılmış olan ve 5 inci maddenin dördüncü fıkrasının (b) bendinde belirtilen formlarda satışa sunulabilen zeytinleri,
+ç) Çeşit/varyete: Bir veya birden fazla genotipin buluşmasından ortaya çıkan ve kendine has özelliklerle tanımlanan, sözü edilen özelliklerden en az biri ile herhangi bir bitki grubundan ayrılan, değişmeksizin çoğaltılmaya uygunluğu bakımından bir bütün olan, botanik taksonomi içinde yer alan genetik yapıyı,
+d) Dane iriliği: Bir kilogram zeytinin dane adedini (Dane sayısı/kg),
+e) Doğal kurutulmuş zeytin: Alkali kullanılmaksızın olgun zeytin danelerinin tekniğine uygun olarak suyunun uzaklaştırılması ile elde edilen zeytini,
+f) Doğal salamura zeytin: Uygun olgunluk döneminde hasat edilen danelerin alkali kullanılmaksızın salamurada yenilebilme olgunluğu kazandırılması ile elde edilen zeytini,
+g) Doğal zeytin: Alkali kullanılmaksızın tam veya kısmi fermantasyon işlemine tabii tutularak kuru tuz veya salamurada hazırlanan, asitlik düzenleyici eklenerek ya da eklenmeksizin muhafaza edilen yeşil, rengi dönük veya siyah zeytini,
+ğ) Dolgulu zeytin: Çekirdeksiz zeytinin havuç, kırmızıbiber, badem içi, kereviz, ançuez, portakal veya limon kabuğu, fındık içi, kapari gibi uygun dolgu maddeleri ile veya bunlardan hazırlanan maddelerle doldurulması suretiyle elde edilen ürünü,
+h) Hurma zeytin: Çeşide ve ekolojik şartlara bağlı olarak, zeytin danelerinin ağaçta iken kendiliğinden yenilebilme olgunluğuna erişmesi sonucu elde edilen ürünü,
+ı) İşlem görmüş kurutulmuş zeytin: Acılığı alkali kullanılarak giderilmiş zeytin danelerinin tekniğine uygun olarak suyunun uzaklaştırılması ile elde edilen siyah zeytinleri,
+i) İşlem görmüş salamura zeytin: Uygun olgunluk döneminde hasat edilen danelerin alkali kullanılarak salamurada yenilebilme olgunluğu kazandırılması ile elde edilen zeytini,
+j) İşlem görmüş zeytin: Alkali ile işlem gören, sonrasında tam veya kısmi fermantasyon işlemine tabi tutularak salamurada hazırlanan, asitlik düzenleyici eklenerek ya da eklenmeksizin muhafaza edilen yeşil, rengi dönük veya siyah zeytini,
+k) Oksidasyonla karartılmış zeytin: Yeşil, siyah veya rengi dönük zeytinin alkali ile işlemden geçirilerek, oksidasyon ile karartıldıktan sonra fermente edilerek veya edilmeden elde edilen zeytini,
+l) Rengi dönük/pembe zeytin: Tam olgunlaşma periyodundan önce, renk değişim döneminde pembe, kırmızı, şarabi, açık kahverengi renklerde iken hasat edilen meyveleri,
+m) Salamura: Zeytinlerin yenilebilme olgunluğu kazanması ve korunması için gerektiğinde gıda katkı maddeleri de ilave edilerek hazırlanan belirli derişimdeki tuzlu su çözeltisini,
+n) Salata zeytin: Zeytinin değişik soslar, baharat veya diğer yenilebilir maddeler ile karıştırılması veya marine edilmesi ile aromalı veya aromasız elde edilen ürünü,
+o) Sele zeytini: Tam olgunluk döneminde hasat edilen doğal siyah zeytinlerin alkali kullanılmaksızın tuz ile kat kat karıştırılarak yenilebilme olgunluğu kazandırılmış ve dış yüzeyi kırışmış siyah zeytini,
+ö) Siyah zeytin: Tam olgunlaşma döneminde ya da bu dönemin hemen öncesinde hasat edilen, rengi siyah veya siyaha yakın, koyu mor, yeşilimsi siyah, koyu kahverengi veya kırmızı siyahtan menekşe siyahına kadar olan meyveleri,
+p) Sofralık zeytin: Kültüre alınmış zeytin ağacı (Olea europaea L.) meyvelerinin tekniğine uygun olarak acılığının giderilip, fermantasyona tâbi tutularak veya tutulmayarak gerektiğinde laktik asit ve/veya diğer katkı maddeleri ilave edilen, pastörizasyon veya sterilizasyon işlemine tabi tutularak veya tutulmadan elde edilen zeytini,
+r) Su: 17/2/2005 tarihli ve 25730 sayılı Resmî Gazete’de yayımlanan İnsani Tüketim Amaçlı Sular Hakkında Yönetmelik’te yer alan özelliklere uygun insani tüketim amaçlı suları,
+s) Yabancı madde: Salamurada, zeytinde veya ambalâj salamurasında bulunmasına izin verilen maddeler dışındaki gözle görülebilir her türlü maddeyi,
+ş) Yeşil zeytin: Yeşilden sarımsı yeşile kadar olan olgunlaşma periyodu başlangıcında, renk değişiminden önce hasat edilen ve normal iriliğe erişmiş meyveleri
+ifade eder.

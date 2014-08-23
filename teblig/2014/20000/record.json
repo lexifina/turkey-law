@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20000",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ SOFRALIK ZEYTİN TEBLİĞİ (TEBLİĞ NO: 2014/33)",
+  "number": "20000",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2014/20000",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20000&MevzuatTertip=5",
+  "source_sha256": "a4a26be8ecf3decf9a2659e294d543bb0ef8d8ecdd2f06fb8e383e893f42adb9",
+  "source_bytes": 28728,
+  "published": "2014-08-23",
+  "gazette": "29097",
+  "in_force": "2014-08-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.08.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1801,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20000-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
