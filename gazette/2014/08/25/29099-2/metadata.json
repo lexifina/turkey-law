@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-08-25",
+  "issue": "29099",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Hacettepe Üniversitesi Sözlük Bilimi Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140825-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140825.htm",
+  "index_sha256": "83fd52bd4197f2214320c3b049bcfda7fb5c7254be16e7097c8a493bbd364432",
+  "index_header": "25 Ağustos 2014 ... 29099 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140825.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
