@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84412373-140[111.-2013/2053]-55",
+  "source_id": 36065,
+  "date": "2014-08-26",
+  "title": "Gümrük bölgesi içinde bulunan geçici depolama alanındaki malların bir kısmının baişka bir firmaya devrinde ruhsat harcı uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36065",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "8c158f84ce0433b0b45c63030aa2a9d539cc43db4ea929e61a3c78c7733c4f30",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
