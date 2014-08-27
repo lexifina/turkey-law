@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5187/2",
+  "decision_date": "2014-08-27",
+  "title": "Kullanıcı Tarafından Dağıtım Varlıklarının Tesis Edilme Metodolojisi",
+  "resmi_gazete_date": "2014-08-23",
+  "resmi_gazete_number": "29128",
+  "categories": [
+    "Kullanıcı Tarafından Dağıtım Varlıklarının Tesis Edilme Metodolojisine İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qIRG2ZMv0NM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qIRG2ZMv0NM="
+  ],
+  "source_sha256": "0b7f43c8a90acd3d2af2893a95657076b6b65a773ee6cfb6c521f36141a33be7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33867,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-08-27",
+  "law_text_complete": false
+}
