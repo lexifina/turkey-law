@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20006",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2014/5)",
+  "number": "20006",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2014/20006",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20006&MevzuatTertip=5",
+  "source_sha256": "4e1bb8745176c06784d9c7d504eb11b06a3d96615af2de8059dcc66ce8253c37",
+  "source_bytes": 10015,
+  "published": "2014-08-27",
+  "gazette": "29101",
+  "in_force": "2014-08-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.08.2014); own commencement article: \"Bu Tebliğ 14/8/2014 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 14/8/2014 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 360,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20006-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
