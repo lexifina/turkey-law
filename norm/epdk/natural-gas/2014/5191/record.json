@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5191",
+  "decision_date": "2014-08-27",
+  "title": "Bursa Şehiriçi Doğal Gaz Dağıtım Tic. ve Taah. Anonim Şirketi’nin 2012-2016 yılları arası perakende satış tarifelerine yönelik alınmış olan 03/01/2013 tarih ve 4229 sayılı Kurul Kararının revize edilmesine yönelik",
+  "resmi_gazete_date": "2014-09-02",
+  "resmi_gazete_number": "29107",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ouUSmeLcGNs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ouUSmeLcGNs="
+  ],
+  "source_sha256": "7ca685fda36c150a4d8b6c5fc344113b50a443afeb5fe8eff0c472bc19f81e98",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-08-27",
+  "law_text_complete": false
+}
