@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.20007",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 64)",
+  "number": "20007",
+  "path": "teblig/2014/20007",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20007&MevzuatTertip=5",
+  "source_sha256": "5a3e4c4801e71b48bb4ff89d462cc6fbd0b954c07bcd4e9ac1526e22372c3001",
+  "source_bytes": 7324,
+  "published": "2014-08-27",
+  "gazette": "29101",
+  "in_force": "2014-08-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.08.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 169,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20007-ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
