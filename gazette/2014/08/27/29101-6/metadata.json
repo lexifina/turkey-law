@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-08-27",
+  "issue": "29101",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Emlak Vergisi Kanunu Genel Tebliği (Seri No: 64)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140827-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140827.htm",
+  "index_sha256": "9be3dba515a388bff9e1c96904d543064b3c75326ae3dd8fe56a078c4881cc17",
+  "index_header": "27 Ağustos 2014 ... 29101 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140827.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
