@@ -1,0 +1,3 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ, 2917.36.00.00.11 gümrük tarife istatistik pozisyonunda yer alan eşyanın ithalatında 16/6/2014 tarihli ve 2014/6493 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Tereftalik Asit İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar çerçevesinde açılan tarife kontenjanının başvuru ve dağıtım ile kullanım usul ve esaslarını içermektedir.
+(2) Tarife kontenjanı miktarı, ek mali yükümlülüğün uygulandığı her bir dönem için, Bakanlar Kurulu Kararı ekinde yer alan ülkeler ve gümrük bölgeleri menşeli tarife kontenjanı kapsamı eşyanın tamamı için toplam 25.984 ton olarak belirlenmiştir. Ancak, her bir ülke veya gümrük bölgesi menşeli eşya için bir dönemde verilecek tarife kontenjanı 8.661 tonu geçemez.
