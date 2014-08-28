@@ -1,0 +1,3 @@
+Müdür ve müdür yardımcıları
+MADDE 10 – (1) Müdür, Üniversitede tam gün çalışan öğretim üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir.
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere Üniversitede tam gün çalışan öğretim üyeleri arasından en çok üç kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür görevi başında bulunmadığı zamanlarda yerine müdür yardımcılarından biri vekâlet eder. Vekâlet süresi altı ayı geçemez. Müdürün görev süresinin dolması veya herhangi bir sebeple görevinden ayrılması halinde müdür yardımcılarının da görevleri kendiliğinden sona erer.
