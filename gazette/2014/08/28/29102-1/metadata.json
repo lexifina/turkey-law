@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-08-28",
+  "issue": "29102",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI SÖZLEŞME",
+  "title": "2014/6690 2004 Gemi Balast Suyu ve Sedimanlarının Kontrolü ve Yönetimi Hakkında Uluslararası Sözleşmeye Çekince ile Birlikte Katılmamız Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140828-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140828.htm",
+  "index_sha256": "d1230fed937fa6b14bae9aab4fae5e49d4593addbe7e03b1f5cef41fcf989fcb",
+  "index_header": "28 Ağustos 2014 ... 29102 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/08/20140828.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
