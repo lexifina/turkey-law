@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-120[94-2014]-131",
+  "source_id": 24012,
+  "date": "2014-08-28",
+  "title": "4632 sayılı Kanunun Geçici 1. maddesi kapsamında vakıf/sandıklardan bireysel emeklilik sistemine yapılan aktarımlarda vergilendirme hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24012",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c13106e0c9264cfee6c4dbf862f5150bafa24a24e6071caad37969c726ad4cbf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
