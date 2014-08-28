@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "51421814-130[29-2014/29]-116",
+  "source_id": 25611,
+  "date": "2014-08-28",
+  "title": "Kiracı olarak faaliyette bulunulan işyerinin elektrik su doğalgaz harcamalarının gider yazılıp indirim konusu yapılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25611",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "c7c9c32a4e32fcbaa24d014d05e8611a2c62176089674e4f8f1dd494b8fd9d5d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
