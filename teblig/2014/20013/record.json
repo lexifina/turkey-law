@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20013",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİNİN TABİ OLACAĞI KRİTERLER HAKKINDA YÖNETMELİK KAPSAMINDAKİ ULUSAL TEKNİK ŞARTNAMELERE UYGULANACAK GEÇİŞ SÜRESİ HAKKINDA TEBLİĞ (TEBLİĞ NO: MHG/2014-21)",
+  "number": "20013",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2014/20013",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20013&MevzuatTertip=5",
+  "source_sha256": "a90433f6e448cd849d905bbbdfb6716823eeb4930693ec833a8bfd223f7f287c",
+  "source_bytes": 13213,
+  "published": "2014-08-29",
+  "gazette": "29103",
+  "in_force": "2014-08-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.08.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 635,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
