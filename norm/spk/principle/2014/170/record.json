@@ -1,0 +1,70 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "170",
+  "decision_number": "26/856",
+  "date": "2014-08-29",
+  "title": "Kurulun i-SPK.128.8 (29.08.2014 Tarihli ve 26/856 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/170",
+  "source_sha256": "f6794046d08521ff3a727b3edf710b39c5f675ee8e4604b1ed0a8619e4dd61c4",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 170,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 1. Kurulun i-SPK.128.8 (29.08.2014 tarihli ve 26/856 s.k.) sayılı ilke kararı;",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2014-08-29",
+    "source_clauses": [
+      "1. Kurulun i-SPK.128.8 (29.08.2014 tarihli ve 26/856 s.k.) sayılı ilke kararı;"
+    ],
+    "deferred_start": "none accepted; later dates are explicit end/deadline clauses",
+    "source_deadline_dates": []
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "f6be7acb-7673-423f-9f2e-d46d5c34dfe5",
+    "contentSource": "IlkeKarari",
+    "contentID": 170,
+    "tur": "İlke Kararı",
+    "title": "Kurulun i-SPK.128.8 (29.08.2014 Tarihli ve 26/856 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2014-08-29T00:00:00",
+    "kurulKararTarih": "29.08.2014",
+    "kurulToplantiNo": "26/856",
+    "bultenYili": 2014,
+    "bultenNo": 25,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": null,
+    "baglantiliTebligler": null,
+    "ilgiliKonularStr": "6:Sermaye Piyasası Araçları;119:Sermaye Azaltımı",
+    "ilgiliKonular": [
+      {
+        "key": 6,
+        "value": "Sermaye Piyasası Araçları"
+      },
+      {
+        "key": 119,
+        "value": "Sermaye Azaltımı"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/170",
+    "linkTarget": "_blank"
+  }
+}
