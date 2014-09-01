@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "ENERJİ PİYASASI DÜZENLEME KURUMU",
+  "category": "Düzenleyici ve Denetleyici Kurumlar",
+  "category_id": "28-duzenleyici-ve-denetleyici-kurumlar",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/m5pokL7gDW-enerji-piyasasi-duzenleme-kurumu",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/m5pokL7gDW-enerji-piyasasi-duzenleme-kurumu",
+  "source_sha256": "102fd7baefc794dd8cab13e442a40b0d2b5bbfa18624c9ffb21df9f5b81d2734",
+  "pdf_pages": 18,
+  "listing": "https://www.sayistay.gov.tr/reports/category/28-duzenleyici-ve-denetleyici-kurumlar?page=12",
+  "listing_sha256": "e05aea58341cf99e67ce33a82527979725048c0dc0541a3bc3eaa02e643ae6fa",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
