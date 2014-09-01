@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "2013 Yılı Kalkınma Ajansları Genel Denetim Raporu",
+  "category": "Kalkınma Ajansları Genel Denetim Raporları",
+  "category_id": "9-kalkinma-ajanslari-genel-denetim-raporlari",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "EYLÜL 2014",
+  "source": "https://www.sayistay.gov.tr/reports/zG0YEqWYj3-2013-yili-kalkinma-ajanslari-genel-denetim-raporu",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/zG0YEqWYj3-2013-yili-kalkinma-ajanslari-genel-denetim-raporu",
+  "source_sha256": "9c1bc318be3c7650ad14426cdd84124c2aa6ff9ddc50580276d8d95e5a8bb860",
+  "pdf_pages": 32,
+  "listing": "https://www.sayistay.gov.tr/reports/category/9-kalkinma-ajanslari-genel-denetim-raporlari",
+  "listing_sha256": "041cf30a003f5ac9467ca60ccd2150439e4a8c63afb6bcf1806e6c82bd53eff6",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"EYLÜL 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
