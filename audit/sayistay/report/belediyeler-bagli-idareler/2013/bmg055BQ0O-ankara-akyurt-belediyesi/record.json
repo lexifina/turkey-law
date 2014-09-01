@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "ANKARA AKYURT BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/bmg055BQ0O-ankara-akyurt-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/bmg055BQ0O-ankara-akyurt-belediyesi",
+  "source_sha256": "2e50bffe6c21f3882d554a21c0b8b97c638e438665eaaee9facd622cca83c51b",
+  "pdf_pages": 36,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=298",
+  "listing_sha256": "494d808317dbb69e31b02f1157975933bc7fde00daa1c5d05f22d202b7116eb6",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
