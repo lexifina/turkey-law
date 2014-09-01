@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "KIRŞEHİR BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/V5g6kbEQBP-kirsehir-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/V5g6kbEQBP-kirsehir-belediyesi",
+  "source_sha256": "5ec6e51c9c928bf02ac743636f50307428dbf44a17ea4e7770bdaaa943f8a4ec",
+  "pdf_pages": 25,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=306",
+  "listing_sha256": "54c1f7e51709b637ec17f7557881e9580535c52fc18f48dcad02c471ae8fa99f",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
