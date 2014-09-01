@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "BİLECİK İL ÖZEL İDARESİ",
+  "category": "Özel İdareler",
+  "category_id": "30-ozel-idareler",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/qV5g6lrYBP-bilecik-il-ozel-idaresi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/qV5g6lrYBP-bilecik-il-ozel-idaresi",
+  "source_sha256": "e049858bc1f068e5bf3bcaee34cebed83fdd6e3ed937bc6db80899039e3fef84",
+  "pdf_pages": 25,
+  "listing": "https://www.sayistay.gov.tr/reports/category/30-ozel-idareler?page=31",
+  "listing_sha256": "85c3601b2ff5ceb50d53ba2733bb5152797717a3527dd900533afbffa13c878e",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
