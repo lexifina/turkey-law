@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "ANKARA ELEKTRİK HAVAGAZI VE OTOBÜS İŞLETME MÜESSESESİ GENEL MÜDÜRLÜĞÜ (EGO)",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/zlgX665YAZ-ankara-elektrik-havagazi-ve-otobus-isletme-muessesesi-genel-mudurlugu-ego",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/zlgX665YAZ-ankara-elektrik-havagazi-ve-otobus-isletme-muessesesi-genel-mudurlugu-ego",
+  "source_sha256": "91f15a70dafa1a38a2afe3af238d66310c1795ace28934be509befe5534568a7",
+  "pdf_pages": 35,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=298",
+  "listing_sha256": "494d808317dbb69e31b02f1157975933bc7fde00daa1c5d05f22d202b7116eb6",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
