@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "MANİSA İL ÖZEL İDARESİ",
+  "category": "Özel İdareler",
+  "category_id": "30-ozel-idareler",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/Xl3g4K6oKO-manisa-il-ozel-idaresi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/Xl3g4K6oKO-manisa-il-ozel-idaresi",
+  "source_sha256": "18d1103e5ee552b4eb51573fd8c3d88d5eb51fc843ea54b60ac4dbbabb2a901b",
+  "pdf_pages": 19,
+  "listing": "https://www.sayistay.gov.tr/reports/category/30-ozel-idareler?page=35",
+  "listing_sha256": "30b5826e20bf5b23903a3488bca898706a618ebd9169cf4c151006a370fd5395",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
