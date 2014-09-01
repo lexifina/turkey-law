@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "2013 Yılı Mali İstatistikleri Değerlendirme Raporu",
+  "category": "Mali İstatistikleri Değerlendirme Raporları",
+  "category_id": "2-mali-istatistikleri-degerlendirme-raporlari",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "EYLÜL 2014",
+  "source": "https://www.sayistay.gov.tr/reports/zp1gzMWo6d-2013-yili-mali-istatistikleri-degerlendirme-raporu",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/zp1gzMWo6d-2013-yili-mali-istatistikleri-degerlendirme-raporu",
+  "source_sha256": "b32048fb8258f00a564a4af4e857a67536fe0ecdb09b784b134c7bc3cbd343ef",
+  "pdf_pages": 46,
+  "listing": "https://www.sayistay.gov.tr/reports/category/2-mali-istatistikleri-degerlendirme-raporlari?page=2",
+  "listing_sha256": "9af1ecfeda328c678f73312f158e62c27910ee2f47fa49f75904a237aae483c0",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"EYLÜL 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
