@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "ESKİŞEHİR BÜYÜKŞEHİR BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/18QrOvmYjk-eskisehir-buyuksehir-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/18QrOvmYjk-eskisehir-buyuksehir-belediyesi",
+  "source_sha256": "a792c45de176151e2e165a92d21b9b0e9fb6fc21137af967bfa5352f6df18c68",
+  "pdf_pages": 46,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=302",
+  "listing_sha256": "ec245f29963cecb26e63a9a6cb3429b7b03d8bdfbfd5a919a28c7ffb95740909",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
