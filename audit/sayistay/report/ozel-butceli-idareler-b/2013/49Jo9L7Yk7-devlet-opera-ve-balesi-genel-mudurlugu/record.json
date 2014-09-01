@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "DEVLET OPERA VE BALESİ GENEL MÜDÜRLÜĞÜ",
+  "category": "Özel Bütçeli İdareler - B",
+  "category_id": "27-ozel-butceli-idareler---b",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/49Jo9L7Yk7-devlet-opera-ve-balesi-genel-mudurlugu",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/49Jo9L7Yk7-devlet-opera-ve-balesi-genel-mudurlugu",
+  "source_sha256": "5b20c566e6d167b48231c98fe30d6620d92aaea237a6ec2cffd5eef7af9b03df",
+  "pdf_pages": 15,
+  "listing": "https://www.sayistay.gov.tr/reports/category/27-ozel-butceli-idareler---b?page=47",
+  "listing_sha256": "b07fe25d9259a2899e001ebded4c01919296d60057340cb9bdcecd7a3529ee7b",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
