@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "DENİZLİ İL ÖZEL İDARESİ",
+  "category": "Özel İdareler",
+  "category_id": "30-ozel-idareler",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/pEOQN93gP2-denizli-il-ozel-idaresi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/pEOQN93gP2-denizli-il-ozel-idaresi",
+  "source_sha256": "c0671721d4f183302a2a61098a4e5c0f7411809da1869b0e7adfbf5fedbdb361",
+  "pdf_pages": 21,
+  "listing": "https://www.sayistay.gov.tr/reports/category/30-ozel-idareler?page=32",
+  "listing_sha256": "ed9359e026aa94ffa7b1512d887c3a9f2d3d3b3d24c1701ba8fb93ccab12ba13",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
