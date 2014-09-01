@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "TEKİRDAĞ BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/qZox1d3g5P-tekirdag-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/qZox1d3g5P-tekirdag-belediyesi",
+  "source_sha256": "0d3ab15f5cff235b3d28a8e4170348378f8d04bf3c47b94b8eea7273dc83a023",
+  "pdf_pages": 23,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=310",
+  "listing_sha256": "4c49d90b7b335de99641e92cd086f1d65a5e54406f096ee2ccdd9b7c34e8f0ec",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
