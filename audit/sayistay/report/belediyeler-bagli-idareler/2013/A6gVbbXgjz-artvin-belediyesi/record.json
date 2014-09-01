@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "ARTVİN BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/A6gVbbXgjz-artvin-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/A6gVbbXgjz-artvin-belediyesi",
+  "source_sha256": "8573dd097e33c2de5219f4044bc5eda0c35923424842a9b5e5813c1e6cab1e77",
+  "pdf_pages": 25,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=300",
+  "listing_sha256": "6577be99c1c5062756f9305ac955a15e73eed0f78ae9208c6f42995d92a91549",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
