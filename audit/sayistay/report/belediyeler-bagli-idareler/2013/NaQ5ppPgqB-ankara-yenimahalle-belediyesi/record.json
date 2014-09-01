@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "ANKARA YENİMAHALLE BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/NaQ5ppPgqB-ankara-yenimahalle-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/NaQ5ppPgqB-ankara-yenimahalle-belediyesi",
+  "source_sha256": "ed5996137d13505235d8aed0df6b41421ee1d2e7586c7988198375c0edeb1373",
+  "pdf_pages": 39,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=299",
+  "listing_sha256": "a9a3c5270f0302d28e690209c5ddff4b072f119943e8f13b92d7fc1f0c035a6b",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
