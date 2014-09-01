@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "» ÇUKUROVA KALKINMA AJANSI",
+  "category": "Kalkınma Ajansları",
+  "category_id": "33-kalkinma-ajanslari",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/eaYwzjWQX1-cukurova-kalkinma-ajansi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/eaYwzjWQX1-cukurova-kalkinma-ajansi",
+  "source_sha256": "58ec2f4e078519a47b79ec1cbc6c0fe781e833cc19e0febe00fae1d589494752",
+  "pdf_pages": 27,
+  "listing": "https://www.sayistay.gov.tr/reports/category/33-kalkinma-ajanslari?page=11",
+  "listing_sha256": "0f5e115b2a26354c452d1684fb96adefa2f5b92f9217919e287f48d495848174",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
