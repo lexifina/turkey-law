@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "YALOVA İL ÖZEL İDARESİ",
+  "category": "Özel İdareler",
+  "category_id": "30-ozel-idareler",
+  "report_year": 2013,
+  "report_date": "2014-09-01",
+  "date_precision": "month",
+  "date_as_printed": "Eylül 2014",
+  "source": "https://www.sayistay.gov.tr/reports/v18QrEegjk-yalova-il-ozel-idaresi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/v18QrEegjk-yalova-il-ozel-idaresi",
+  "source_sha256": "0c46f3a0febecd3adb6cc3a9be475905a2b3e40a744f65ac6f688ffe8dd56974",
+  "pdf_pages": 26,
+  "listing": "https://www.sayistay.gov.tr/reports/category/30-ozel-idareler?page=38",
+  "listing_sha256": "7d22282cd5638a93bf255f85cd3c546204cbcf9f24ab54770ee87877f41346f9",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-01",
+  "in_force_basis": "Official report PDF cover: \"Eylül 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
