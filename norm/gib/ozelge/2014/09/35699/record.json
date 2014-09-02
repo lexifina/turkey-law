@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-140[59-2012/186]-2150",
+  "source_id": 35699,
+  "date": "2014-09-02",
+  "title": "Serbest bölge sınırları içinde bulunan gayrimenkulün satın alınması işleminde harç alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35699",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "db855a0f45ee58f759c26c7f20cfe199fd7f9d6fc1a038269c99bb4187921e9f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
