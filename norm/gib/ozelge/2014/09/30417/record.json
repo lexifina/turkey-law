@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[ I.14.182]-238",
+  "source_id": 30417,
+  "date": "2014-09-03",
+  "title": "Ticaret ve Sanayi odasına yapılan dergi tasarımı ve tanıtım filmi çekimi işinin KDV tevkifatına tabi olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30417",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "4eaf2e8046d8948e2e12b9f159529c9dc3193ae0c473d6265fb587f8a18ec636",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
