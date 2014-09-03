@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37009108-140.01.03[ md/2013-3570-100",
+  "source_id": 35425,
+  "date": "2014-09-03",
+  "title": "Şirket merkez adresinin, şirket şube adresine nakledilmesi işlemi ile daha önce ticaret siciline tescil edilmiş şirket yetkililerinin şirket nakli nedeniyle yeni adreste bulunan ticaret siciline tescil edilmesinde tekrar harç alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35425",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "764ed21448684e64941e08efaac6595cec686a02a84da7670339a3625e55b855",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
