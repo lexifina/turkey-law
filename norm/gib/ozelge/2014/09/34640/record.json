@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-155[1-2012/242]-2158",
+  "source_id": 34640,
+  "date": "2014-09-03",
+  "title": "Personel taşımacılığı sözleşmesinin damga vergisi matrahının nasıl hesaplanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34640",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "7979fd0460a728b5a72e982fb7363a12dfd9c06127285bdf9fc463ed70ba4082",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
