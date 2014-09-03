@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[88-2014/257]-2153",
+  "source_id": 24285,
+  "date": "2014-09-03",
+  "title": "Terk edilen faaliyetten kaynaklanan zararın mahsubu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24285",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "8cdc5af7e689ec0d754e6968317b9863429c107e51871bb8ffb1c95410f56ef2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
