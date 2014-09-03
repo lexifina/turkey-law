@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-09-03",
+  "issue": "29108",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURULUŞUN BAĞLI OLDUĞU BAKANLIĞIN DEĞİŞTİRİLMESİ İLE İLGİLİ İŞLEM",
+  "title": "Başbakanlığa Bağlı Kamu Düzeni ve Güvenliği Müsteşarlığı’nın İçişleri Bakanlığına Bağlanmasına Dair Tezkere",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140903-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140903.htm",
+  "index_sha256": "f4565d0d9dd090943a8d75b1fdc6bd429c7842adbe9b7de6627270204ff035d2",
+  "index_header": "3 Eylül 2014 ... 29108 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140903.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
