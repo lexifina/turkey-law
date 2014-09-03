@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür, Gazi Üniversitesi Tıp Fakültesi öğretim üyeleri arasından Rektör tarafından üç yıl için seçilerek görevlendirilir. Süresi dolan Müdür yeniden görevlendirilebilir.
+(2) Müdür tarafından, Gazi Üniversitesi Tıp Fakültesi öğretim üyeleri arasından bir kişi Müdür Yardımcısı olarak önerilir ve Rektör tarafından görevlendirilir. Müdür Yardımcısı; Müdürün bulunmadığı zamanlarda Müdüre vekâlet eder ve Müdür tarafından verilen görevleri yapar. Görevden ayrılma ve vekâlet altı ayı aşamaz. Müdürün görev süresinin dolması veya herhangi bir sebeple görevinden ayrılması halinde Müdür Yardımcısının da görevi kendiliğinden sona erer.
