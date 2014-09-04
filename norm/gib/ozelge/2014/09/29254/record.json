@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[01-2014/22]-870",
+  "source_id": 29254,
+  "date": "2014-09-04",
+  "title": "Vekalet Ücretinin KDV'nin Konusuna Girip Girmediği Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29254",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "71b0f3e45d44739842ab91f814a988f049ac1a7f20a5f26f1ab15ecf1bed058a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
