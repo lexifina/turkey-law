@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "57062627-Harçlar Kanunu-492-24",
+  "source_id": 35906,
+  "date": "2014-09-04",
+  "title": "Bakanlar Kurulunca vergi maufiyeti tanınan vakfa gayrimenkul bağışlanmasında, gayrimenkulün sadece kuru mülkiyetinin bağışlanması halinde tapu harcı ödenip ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35906",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "1e29dcac27ce37fdda9a0e5f38a88a801fc58dfea6592f34331f9f63d7103193",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
