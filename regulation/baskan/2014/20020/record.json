@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20020",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE YAZMA ESERLER KURUMU BAŞKANLIĞI ESER SAĞLAMA KURULU ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "20020",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2014/20020",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20020&MevzuatTertip=5",
+  "source_sha256": "780aa2454171c146425a24d625366d88670e3ae95975efce93148891c22597c5",
+  "source_bytes": 37461,
+  "published": "2014-09-04",
+  "gazette": "29109",
+  "in_force": "2014-09-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.09.2014); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1867,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
