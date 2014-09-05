@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "genel-yazi",
+  "number": null,
+  "source_id": 154,
+  "date": "2014-09-05",
+  "title": "MALUL VE ENGELLİLERİN MİRASÇILARINA İNTİKAL EDEN TAŞITLARIN TESCİLİNE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/genelyazilar/154",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/genelYazilar/list",
+  "source_listing": "evidence/list/2026-11-16/genelYazilar-p000.json",
+  "source_listing_sha256": "7fa6cf53cc6e422afa260107b4b730e46ac896bef1c1d196cf603add29126053",
+  "source_sha256": "3672e514f9d829528a6fc3478f4e35cb7dfed227a295b4750f34e81f362720fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
