@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "16700543-12-515-15-33",
+  "source_id": 34562,
+  "date": "2014-09-08",
+  "title": "Bakım ve Onarım Hizmetlerinin KDV, KV ve Damga Vergisi açısından durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/34562",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "842de024ad0191a1db4662e921169d2d330d367920b2e3c3491e900fb7d8b9c1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
