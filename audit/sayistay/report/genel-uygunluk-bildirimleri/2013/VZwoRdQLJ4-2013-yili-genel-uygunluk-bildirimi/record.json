@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "2013 Yılı Genel Uygunluk Bildirimi",
+  "category": "Genel Uygunluk Bildirimleri",
+  "category_id": "1-genel-uygunluk-bildirimleri",
+  "report_year": 2013,
+  "report_date": "2014-09-08",
+  "date_precision": "day",
+  "date_as_printed": "gereğince hazırlanmış ve Sayıştay Genel Kurulunun 08/09/2014 tarihli ve 5377/1 sayılı Kararıyla son şekli",
+  "source": "https://www.sayistay.gov.tr/reports/VZwoRdQLJ4-2013-yili-genel-uygunluk-bildirimi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/VZwoRdQLJ4-2013-yili-genel-uygunluk-bildirimi",
+  "source_sha256": "cf9065271b025330283e1ebaff8469bd7520b0d2a325095a8b7956613b4f8076",
+  "pdf_pages": 184,
+  "listing": "https://www.sayistay.gov.tr/reports/category/1-genel-uygunluk-bildirimleri?page=2",
+  "listing_sha256": "0cdfa404eec4cb6bceff775feace39210c4264693ff98e231ca9b08c56086c25",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-08",
+  "in_force_basis": "Official report PDF, first pages: \"gereğince hazırlanmış ve Sayıştay Genel Kurulunun 08/09/2014 tarihli ve 5377/1 sayılı Kararıyla son şekli\" (report approval date); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
