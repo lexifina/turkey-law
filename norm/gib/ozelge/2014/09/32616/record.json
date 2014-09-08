@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.28-2183",
+  "source_id": 32616,
+  "date": "2014-09-08",
+  "title": "2207.10.00.10.12, 7017.90.00.00.00, 2902.30 G.T.İ.P. numaralı ürünlerin yurtiçi KDV satış oranları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32616",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "67726b0ff7fcbcdde3a393612f3aba6004a3507b59a31cb86b071a89ae6ea60d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
