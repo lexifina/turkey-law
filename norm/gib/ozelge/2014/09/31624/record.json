@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-010.01-2179",
+  "source_id": 31624,
+  "date": "2014-09-08",
+  "title": "Engellerin kullanımına mahsus üretilen engelsiz tuvalet ve bebek bakım kabini teslimininde istisna uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31624",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "0dd94df7b2a225f68d9aeeb5f3048119861306074c32c1196f5011b04a224143",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
