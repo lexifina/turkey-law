@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-130[17/4-r-2013/5]-92",
+  "source_id": 27756,
+  "date": "2014-09-08",
+  "title": "Üst hakkı tesis edilen taşınmaz üzerinde inşa edilen tesislerin KDV'den istisna tutulmasında ruhsat tarihinin esas alınıp alınamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27756",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "f67b9f66618a8e3bfa9280f002126e73105c291855debd2633dd6a6757eae55c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
