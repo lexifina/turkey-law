@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "416",
+  "decision_date": "2014-09-08",
+  "title": "MEC. KAR. (toroslar karaisalı mahallesi)",
+  "listed_as": "416 MEC. KAR. (toroslar karaisalı mahallesi)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/416-mec--kar--toroslar-karaisali-mahallesi",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk83-08-eylul-2014-meclis-kararlari",
+  "listing_sha256": "8585cb5720f153a6f92040bb63c7933d0afa91ac96c11dfd242bb69a9eb548c8",
+  "meeting_title": "MK83-08 EYLÜL 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
