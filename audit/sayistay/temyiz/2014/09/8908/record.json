@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39370",
+  "decision_date": "2014-09-09",
+  "source_id": 8908,
+  "chamber": "7",
+  "file_number": "38123",
+  "account_year": "2006",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8908/",
+  "source_sha256": "a9088c35c26979ac83f31cfac7564f66dfe5c40af4b9e8a9b960af5026bccc29",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
