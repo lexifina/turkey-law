@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39377",
+  "decision_date": "2014-09-09",
+  "source_id": 8915,
+  "chamber": "8",
+  "file_number": "37488",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8915/",
+  "source_sha256": "d842847552c69edbfa6b9f9a83935b798dd6aaeb1e5b486f0602f306e7be030c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
