@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39341",
+  "decision_date": "2014-09-09",
+  "source_id": 8879,
+  "chamber": "1",
+  "file_number": "37151",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8879/",
+  "source_sha256": "c27df83a19a825320b7bbfc9e377b7def32510971b71e1d145110592c8885e13",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
