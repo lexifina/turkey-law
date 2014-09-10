@@ -1,0 +1,6 @@
+4 – 4/7/1988 tarih ve 336 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 35)
+Madde 35 – (20/4/1967 tarih ve 854 sayılı Kanunun hükmüdür.)
+Bu kanuna tabi gemilerde gemiadamları tahsis edilen yatma, dinlenme ve yemek yerleriyle gemide bulundurulacak ilaç, tıbbi alet ve malzeme ve revirlerde bulunması gereken şartlar ve gemi adamlarına verilecek iaşe maddelerinin ölçü ve nitelikleri bu şart ve niteliklerden hangilerinin önemleri bakımından esasa ilişkin ve 1 inci derecede ve hangilerinin ise ikinci derecede sayılacakları ve iaşe ile ilgili ne çeşit kurullar kurulacağı ve bu kurulların görev ve yetkileri
+Çalışma, Sağlık ve Sosyal Yardım ve Ulaştırma Bakanlıkları tarafından beraberce hazırlanacak bir tüzükte gösterilir.
+966
+Gemiadamı, işveren veya işveren vekili tarafından sağlanacak iaşenin yukarıda sözü geçen tüzükte gösterilen ölçülerden noksan olması halinde aradaki farkın bedelini veya iaşenin hiç verilmemesi halinde tamamının bedelini işveren veya işveren vekilinden isteyebilir. Şu kadar ki, gemiadamının iddiasını, tazminde esas teşkil edecek iaşe ve şartlardaki aksamanın vuku bulduğu günde durumu işverene veya işveren vekiline veya kaptana bildirmesi şarttır.

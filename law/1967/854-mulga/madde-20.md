@@ -1,0 +1,7 @@
+Madde 20 – (20/4/1967 tarih ve 854 sayılı Kanunun hükmüdür.)
+Hizmet aktinin 14 üncü maddesinin II, III ve IV numaralı bentlerinde gösterilen sebeplerle bozulması veya muvazzaf askerlik hizmeti dolayısiyle çözülmesi halinde üç yıldan fazla çalışmış olmak şartiyle işe başladığından itibaren her bir tam takvim yılı için gemiadamına onbeş günlük ücreti tutarında bir tazminat verilir.
+İhtiyarlık aylığı bakımından bağlı bulundukları kurum veya sandıklardan aylık veya toptan ödeme almak amaciyle hizmet aktini çözen gemiadamları da yukarıki bentte yazılı bulunan tazminata hak kazanır. Ancak aylık veya toptan ödeme almak için akti çözen gemiadamına verilecek tazminatın hesabına gemi adamının yalnız 1 Nisan 1950 tarihinden önceki hizmet süreleri nazara alınır.
+Gemiadamının bu bent hükmünden faydalanabilmesi için aylık veya toptan ödemeye hak kazanmış bulunduğunu ve kendisine aylık bağlanması veya toptan ödeme yapılması için ihtiyarlık sigortası bakımından bağlı bulunduğu kurum veya sandığa başvurmuş olduğunu alacağı bir belge ile belgelemek zorundadır.
+Gemiadamlarının kıdemleri, hizmet aktinin devam etmiş veya fasılalarla yeniden yapılmış olmasına bakılmaksızın aynı işverenin değişik gemilerinde ve hizmetinde çalıştıkları süreler gözözüne alınarak hesaplanır. Geminin devir ve intikali, yahut diğer bir suretle işverenden diğer bir işverene geçmesi halinde kıdem tazminatı yeni işverene aittir.
+Ölen gemiadamlarının kıdem tazminatı kanuni varislerine ödenir.
+Aynı kıdem süresi için bir defadan fazla kıdem tazminatı ödenmez.

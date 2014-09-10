@@ -1,0 +1,86 @@
+{
+  "source_id": "5.5.854",
+  "path": "law/1967/854-mulga",
+  "number": "854",
+  "tertip": "5",
+  "title": "DENİZ İŞ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "document": "repealed-provisions",
+  "companion_of": "law/1967/854",
+  "enacted": "1967-04-20",
+  "enacted_as_printed": "20.04.1967",
+  "published": "1967-04-29",
+  "gazette": "12586",
+  "in_force": "2014-09-10",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"8- 10/9/2014 tarihli ve 6552 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları:11, 50.)\"",
+  "date_evidence": [
+    [
+      "2014-09-10",
+      "8- 10/9/2014 tarihli ve 6552 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları:11, 50.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2008-04-17",
+      "7 – 17/4/2008 tarihli ve 5754 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:29.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2008-01-23",
+      "6 – 23/1/2008 tarihli ve 5728 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:50, 51,Ek Madde 1.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2003-04-24",
+      "5 – 24/4/2003 tarihli ve 4854 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:50)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1988-07-04",
+      "4 – 4/7/1988 tarih ve 336 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 35)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1982-12-10",
+      "3 – 10/12/1982 tarih ve 2762 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 20)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1980-10-17",
+      "2 – 17/10/1980 tarih ve 2319 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 20)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1980-10-17",
+      "(Ek: 17/10/1980 - 2319/2 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "1975-07-04",
+      "1 – 4/7/1975 tarih ve 1926 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 20)",
+      "a repeal note (enactment date of the repealing act)"
+    ]
+  ],
+  "repeal_notes": [
+    "1 – 4/7/1975 tarih ve 1926 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 20)",
+    "2 – 17/10/1980 tarih ve 2319 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 20)",
+    "3 – 10/12/1982 tarih ve 2762 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 20)",
+    "4 – 4/7/1988 tarih ve 336 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 35)",
+    "5 – 24/4/2003 tarihli ve 4854 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:50)",
+    "6 – 23/1/2008 tarihli ve 5728 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:50, 51,Ek Madde 1.)",
+    "7 – 17/4/2008 tarihli ve 5754 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:29.)",
+    "8- 10/9/2014 tarihli ve 6552 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları:11, 50.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=854&MevzuatTertip=5",
+  "source_sha256": "ecb513029f537dda0b1757248cf23012e61e7b3d556c7e7842896dcb194bb1f4",
+  "source_bytes": 41618,
+  "words": 2141,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
