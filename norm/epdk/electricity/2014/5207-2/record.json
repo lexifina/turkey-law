@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5207/2",
+  "decision_date": "2014-09-10",
+  "title": "Kayseri ve Civarı Elektrik Türk A.Ş. için verilen ek yatırımlar ilişkin karar",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZI6k5d0aNNM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZI6k5d0aNNM="
+  ],
+  "source_sha256": "f7c14a012387568cac570a77f4b7512de81f4065d58d75d10081c698185c1e80",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-09-10",
+  "law_text_complete": false
+}
