@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5207/1",
+  "decision_date": "2014-09-10",
+  "title": "Aydem Elektrik Dağıtım A.Ş. için verilen ek yatırımlara ilişkin karar",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WOf5DK851Gs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WOf5DK851Gs="
+  ],
+  "source_sha256": "b92c35f7a242af2f7761838018779a4d46a4bb63c9ac66f7eff5e75e9f2592e9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-09-10",
+  "law_text_complete": false
+}
