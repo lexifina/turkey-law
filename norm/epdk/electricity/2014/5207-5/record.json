@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5207/5",
+  "decision_date": "2014-09-10",
+  "title": "Başkent Elektrik Dağıtım A.Ş. için verilen ek yatırımlar ilişkin karar",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1FtvUkX+A2w=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1FtvUkX+A2w="
+  ],
+  "source_sha256": "269ac40f0063a35225e7e4a5db675bbf23f0afe2cf46582095ca0efef08fa9bd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-09-10",
+  "law_text_complete": false
+}
