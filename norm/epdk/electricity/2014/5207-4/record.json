@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5207/4",
+  "decision_date": "2014-09-10",
+  "title": "Meram Elektrik Dağıtım A.Ş. için verilen ek yatırımlar ilişkin karar",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7RksqjreZ1s=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7RksqjreZ1s="
+  ],
+  "source_sha256": "67074437d206891ed81f9a1157cd0cef6dc9709886e9068dd9bbdc27acfd9898",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-09-10",
+  "law_text_complete": false
+}
