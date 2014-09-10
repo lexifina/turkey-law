@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-09-10",
+  "issue": "29115",
+  "edition": "regular",
+  "item": 16,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme İdaresi Başkanlığının 9/9/2014 Tarihli ve 2014/ÖİB-K-59 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140910-16.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140910.htm",
+  "index_sha256": "55422ba7e880fd50f2ca62e317189b01e7e9cc74d5a7d3d6254f6f48f696f624",
+  "index_header": "10 Eylül 2014 ... 29115 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140910.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
