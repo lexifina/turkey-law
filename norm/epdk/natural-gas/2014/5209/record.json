@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5209",
+  "decision_date": "2014-09-10",
+  "title": "UDAŞ Uşak Doğalgaz Dağıtım Sanayi ve Ticaret Anonim Şirketi?nin (UDAŞ) 2012-2016 yılları arası perakende satış tarifelerine yönelik karar",
+  "resmi_gazete_date": "2014-09-13",
+  "resmi_gazete_number": "29118",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dzluuRoUUJg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dzluuRoUUJg=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/h4y40+uIvw="
+  ],
+  "source_sha256": "d7ee2f2e43c1107a507fb723df8276565faaabefdd178fa463f1016d75243c1e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-09-10",
+  "law_text_complete": false
+}
