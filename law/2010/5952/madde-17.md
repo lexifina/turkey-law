@@ -1,0 +1,3 @@
+İhdas edilen kadrolar
+MADDE 17 – (1) Ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvele "Kamu Düzeni ve Güvenliği Müsteşarlığı" olarak eklenmiştir.
+(2) Ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin İçişleri Bakanlığına ait bölümüne eklenmiştir. (1)

@@ -1,0 +1,4 @@
+İstihbarat Değerlendirme Merkezi
+MADDE 8 – (1) Terörle mücadele alanında oluşturulacak politika ve stratejiler ile alınacak tedbirlere esas olmak üzere, ilgili birimlerden stratejik istihbaratın alınması ve değerlendirilmesi amacıyla doğrudan Müsteşara bağlı İstihbarat Değerlendirme Merkezi oluşturulur. Bu çerçevede güvenlik kuruluşları ve istihbarat birimleri ile Dışişleri Bakanlığınca elde edilecek stratejik bilgi ve istihbarat bu merkezde değerlendirilir.
+(2) Terörle mücadeleye yönelik strateji belirlemek amacıyla ihtiyaç duyulan istihbari bilgiler; Genelkurmay Başkanlığı, Dışişleri Bakanlığı, Milli İstihbarat Teşkilatı Müsteşarlığı, Jandarma Genel Komutanlığı, Emniyet Genel Müdürlüğü ve Sahil Güvenlik Komutanlığı tarafından Müsteşarlığa verilir. Bu bilgiler doğrultusunda yapılacak analiz ve değerlendirmeler ilgili birimlerle paylaşılır.
+10507

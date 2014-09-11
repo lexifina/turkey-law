@@ -1,0 +1,4 @@
+Terörle Mücadele Koordinasyon Kurulu
+MADDE 4 – (1) Güvenlik kuruluşları ve ilgili kurumlar arasında terörle mücadele alanında gerekli koordinasyonu sağlamak, bu alandaki politika ve uygulamaları değerlendirmek amacıyla Terörle Mücadele Koordinasyon Kurulu kurulmuştur.
+(2) Kurul, İçişleri Bakanının başkanlığında, Genelkurmay İkinci Başkanı, Jandarma Genel Komutanı, Milli İstihbarat Teşkilatı Müsteşarı, Adalet Bakanlığı Müsteşarı, İçişleri Bakanlığı Müsteşarı, Dışişleri Bakanlığı Müsteşarı, Kamu Düzeni ve Güvenliği Müsteşarı, Emniyet Genel Müdürü ve Sahil Güvenlik Komutanından oluşur. Gerektiğinde gündemle ilgili diğer kurum ve kuruluş temsilcileri de toplantıya davet edilebilir. Kurul İçişleri Bakanının daveti üzerine toplanır. Toplantı gündemi, Kurul üyelerinin görüşleri alınarak İçişleri Bakanı tarafından belirlenir. Kurulun sekreterya görevi Müsteşarlık tarafından yerine getirilir.
+10506
