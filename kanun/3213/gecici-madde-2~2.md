@@ -5,4 +5,4 @@ Ruhsat sahipleri, bu Kanunun yürürlüğe girdiği tarihten itibaren altı ay i
 Taşocağı ruhsatlarının faaliyet koordinatları ile ruhsat koordinatlarında farklılık olması durumunda, valiliklerin görüşü alınarak intibak yapılır.
 Çimento, kireç fabrikası veya asfalt üretim tesisinden herhangi birine sahip olan taşocağı ruhsat sahipleri, bu Kanuna intibaklarında mevcut taşocağı intibak alanlarını bir defaya mahsus olmak üzere azami 50 hektarı geçmeyecek şekilde genişletme talebinde bulunabilir. Genişletme talebinde bulunulan alanda maden veya mermer ruhsatı bulunmaması halinde, genişletme elli hektarı geçmeyecek şekilde Maden İşleri Genel Müdürlüğü tarafından uygun görülecek alan kadar yapılır.
 Süresinde intibakı yaptırılmayan ruhsatlar iptal edilir.
-6744-1
+6744-1/6744-3

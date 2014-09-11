@@ -11,6 +11,8 @@ h) Rehabilite edilenler hakkında,
 ı) 507 sayılı Esnaf ve Sanatkârlar Kanununun 2 nci maddesinin tarifine uygun üç kişinin çalıştığı işyerlerinde.
 ––––––––––––––––––
 (1) 20/6/2012 tarihli ve 6331 sayılı Kanunun 37 nci maddesiyle, bu bentte yer alan “İş sağlığı ve güvenliği hükümleri saklı kalmak üzere” ibaresi madde metninden çıkarılmıştır.
+(2) 10/9/2014 tarihli ve 6552 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “altı iş günü” ibareleri “otuz iş günü” şeklinde değiştirilmiştir.
+(3) 10/9/2014 tarihli ve 6552 sayılı Kanunun 1 inci maddesinde 4857 sayılı İş Kanununun 3 üncü maddesinin ikinci fıkrasının beşinci cümlesinin değiştirilmesi hüküm altına alınmış olmakla birlikte, iki cümle şeklindeki düzenleme yerine işlenmiştir.
 8425
 Şu kadar ki;
 a) Kıyılarda veya liman ve iskelelerde gemilerden karaya ve karadan gemilere yapılan yükleme ve boşaltma işleri,

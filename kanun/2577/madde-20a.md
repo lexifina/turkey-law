@@ -19,4 +19,4 @@ h) Temyiz dilekçeleri üç gün içinde incelenir ve tebliğe çıkarılır. Bu
 ı) Temyiz dilekçelerine cevap verme süresi on beş gündür.
 i) Danıştay evrak üzerinde yaptığı inceleme sonunda, maddi vakıalar hakkında edinilen bilgiyi yeterli görürse veya temyiz sadece hukuki noktalara ilişkin ise yahut temyiz olunan karardaki maddi yanlışlıkların düzeltilmesi mümkün ise işin esası hakkında karar verir. Aksi hâlde gerekli inceleme ve tahkikatı kendisi yaparak esas hakkında yeniden karar verir. Ancak, ilk inceleme üzerine verilen kararlara karşı yapılan temyizi haklı bulduğu hâllerde kararı bozmakla birlikte dosyayı geri gönderir. Temyiz üzerine verilen kararlar kesindir.
 j) Temyiz istemi en geç iki ay içinde karara bağlanır. Karar en geç bir ay içinde tebliğe çıkarılır.
-5473
+5472-3

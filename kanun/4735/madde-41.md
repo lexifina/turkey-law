@@ -1,2 +1,2 @@
 Yürütme
-MADDE 41 - Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+Madde 41- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.

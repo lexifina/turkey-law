@@ -133,7 +133,7 @@ e) 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununda ve bu Kanuna göre
 f) Tâbi tutulacakları temel askerlik eğitiminde başarılı olmak.
 Geçici Madde 2 – (Ek : 11/2/2014-6519/54 md.)
 Muvazzaf askerlik görevini yaptıktan sonra uzman erbaşlığa alınanlardan bu maddenin yürürlüğe girdiği tarihten önce bu görevleri sona ermiş olanların, uzman erbaşlık statüsünün sona erdiği tarihteki kazanılmış hak aylık derece ve kademeleri, muvazzaf askerlikte geçen süreleri kademe ilerlemesi yapılmak suretiyle derece yükseltilmesinde de değerlendirilerek yeniden tespit olunur.
-Yapılan bu tespit dolayısıyla emeklilik keseneği ve kurum karşılığı veya sigorta primi (genel sağlık sigortası primi dâhil) çalışan ve işveren paylarında oluşacak fark tutarı; gecikme cezası, gecikme zammı veya faiz uygulanmaksızın, bu maddenin yürürlüğe girdiği tarihten itibaren 6 ay içinde ilgisine göre Millî Savunma Bakanlığı veya İçişleri Bakanlığı tarafından Sosyal Güvenlik Kurumuna ödenir. Ancak, birinci fıkra kapsamında kazanılmış hak aylık derece ve kademesi yükseltilecek olanlara, bu maddenin yürürlüğe girdiği tarihten önceki dönem için aylık ve emekli aylığı veya diğer özlük haklarına ilişkin olarak herhangi bir fark ödenmez.
+Yapılan bu tespit dolayısıyla emeklilik keseneği ve kurum karşılığı veya sigorta primi (genel sağlık sigortası primi dâhil) çalışan ve işveren paylarında oluşacak fark tutarı; gecikme cezası, gecikme zammı veya faiz uygulanmaksızın, bu maddenin yürürlüğe girdiği tarihten itibaren 1 yıl içinde ilgisine göre Millî Savunma Bakanlığı veya İçişleri Bakanlığı tarafından Sosyal Güvenlik Kurumuna ödenir. Ancak, birinci fıkra kapsamında kazanılmış hak aylık derece ve kademesi yükseltilecek olanlara, bu maddenin yürürlüğe girdiği tarihten önceki dönem için aylık ve emekli aylığı veya diğer özlük haklarına ilişkin olarak herhangi bir fark ödenmez.(1)
 Yürürlük
 Madde 22 – Bu Kanun yayımı tarihinde yürürlüğe girer.
 Yürütme
@@ -152,4 +152,6 @@ Dereceler | Kademeler
 9 | 620 | 630 | 645 | 660 | 675 | 690 | 705 | 720 | 740
 10 | 590 | 600 | 610 | 620 | 630 | 645 | 660 | 675 | 690
 11 | 560 | 570 | 580 | 590 | 600 | 610 | 620 | 630 | 645
+_____________
+(1) 10/9/2014 tarihli ve 6552 sayılı Kanunun 106 ncı maddesiyle bu fıkrada yer alan “6 ay” ibaresi “bir yıl” olarak değiştirilmiştir.
 6840-4

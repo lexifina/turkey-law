@@ -1,5 +1,5 @@
 Sözleşme kapsamında yaptırılabilecek ilave işler, iş eksilişi ve işin tasfiyesi (1)
-MADDE 24 - (Değişik: 30/7/2003-4964/46 md.)
+Madde 24- (Değişik: 30/7/2003-4964/46 md.)
 Mal ve hizmet alımlarıyla yapım sözleşmelerinde, öngörülemeyen durumlar nedeniyle bir iş artışının zorunlu olması halinde, artışa konu olan iş;
 a) Sözleşmeye esas proje içinde kalması,
 b) İdareyi külfete sokmaksızın asıl işten ayrılmasının teknik veya ekonomik olarak mümkün olmaması,

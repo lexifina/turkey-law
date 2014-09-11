@@ -1,5 +1,5 @@
 Mücbir sebepler
-MADDE 10 - Mücbir sebep olarak kabul edilebilecek haller aşağıda belirtilmiştir:
+Madde 10- Mücbir sebep olarak kabul edilebilecek haller aşağıda belirtilmiştir:
 a) Doğal afetler.
 b) Kanuni grev.
 c) Genel salgın hastalık.
