@@ -1,4 +1,4 @@
-Emeklilik Hizmetleri Genel Müdürlüğü (1)
+Emeklilik Hizmetleri Genel Müdürlüğü(1)
 MADDE 13 - (Değişik: 11/10/2011-KHK-665/11 md.)
 Emeklilik Hizmetleri Genel Müdürlüğünün görevleri şunlardır:
 a) Sosyal güvenlik mevzuatında yer alan emeklilik işlemlerini yürütmek.
