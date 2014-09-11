@@ -1,5 +1,5 @@
 Feshin geçerli sebebe dayandırılması
-Madde 18 - Otuz veya daha fazla işçi çalıştıran işyerlerinde en az altı aylık kıdemi olan işçinin belirsiz süreli iş sözleşmesini fesheden işveren, işçinin yeterliliğinden veya davranışlarından ya da işletmenin, işyerinin veya işin gereklerinden kaynaklanan geçerli bir sebebe dayanmak zorundadır.
+Madde 18 - Otuz veya daha fazla işçi çalıştıran işyerlerinde en az altı aylık kıdemi olan işçinin belirsiz süreli iş sözleşmesini fesheden işveren, işçinin yeterliliğinden veya davranışlarından ya da işletmenin, işyerinin veya işin gereklerinden kaynaklanan geçerli bir sebebe dayanmak zorundadır. (Ek cümle: 10/9/2014-6552/2 md.) Yer altı işlerinde çalışan işçilerde kıdem şartı aranmaz.
 Altı aylık kıdem hesabında bu Kanunun 66 ncı maddesindeki süreler dikkate alınır.
 Özellikle aşağıdaki hususlar fesih için geçerli bir sebep oluşturmaz:
 a) Sendika üyeliği veya çalışma saatleri dışında veya işverenin rızası ile çalışma saatleri içinde sendikal faaliyetlere katılmak.

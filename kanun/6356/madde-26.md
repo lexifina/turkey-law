@@ -11,3 +11,4 @@ MADDE 26 – (1) Kuruluşlar, tüzüklerinde yer alan konularda serbestçe faali
 (7) Kuruluşlar siyasi partilerin ad, amblem, rumuz veya işaretlerini kullanamaz.
 (8) Kuruluşlar ticaretle uğraşamaz. Ancak, kuruluşlar genel kurul kararıyla nakit mevcudunun yüzde kırkından fazla olmamak kaydıyla sanayi ve ticaret kuruluşlarına yatırımda bulunabilir.
 (9) Kuruluşlar elde ettikleri gelirleri üyeleri ve mensupları arasında dağıtamaz. Ancak sendikaların grev ve lokavt süresince tüzüklerine göre üyelerine yapacakları yardımlar ile kuruluşların eğitim amaçlı yardımları bu hükmün dışındadır.
+(10) (Ek: 10/9/2014-6552/19 md.) İşveren sendikaları, tüzüklerinde hüküm bulunmak ve şartları genel kurul kararıyla belirlenmek kaydıyla, işçilerin sigorta primlerinin işveren payının ödemelerinde kullanılmak ve nakit mevcudunun yüzde yirmi beşini aşmamak üzere karşılıksız yardıma dayalı dayanışma ve yardım fonu oluşturabilir.

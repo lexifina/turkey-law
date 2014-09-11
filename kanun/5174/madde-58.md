@@ -1,6 +1,6 @@
 Türk-yabancı veya yabancı-Türk odalar ile Dış Ekonomik İlişkiler Kurulu
 Madde 58- Türkiye ile diğer ülkeler arasında ekonomik ve ticarî ilişkilerin geliştirilmesine yardımcı olmak amacıyla Dışişleri Bakanlığının görüşü alınarak, tek taraflı veya çok taraflı Türk-yabancı veya yabancı-Türk ticaret, sanayi ve deniz ticaret odası adı ile kurulacak dernekler için Birliğin izni aranır. Müşterek odaların, izlenme ve denetlenme esasları, Birlik Yönetim Kurulunun teklifi ve Bakanlık tarafından çıkarılacak yönetmelikle tespit olunur. Bu odalardan yurt dışında kurulmuş olanların faaliyetlerinin izlenmesi, yurt içindekilerin çalışmalarının denetlenmesi ve izlenmesi, Birlik tarafından yapılır. Bu şekilde kurulan dernekler, bu maddede yer alan hükümler dışında, genel hükümlere tâbidir.
 Birinci fıkra uyarınca kurulan dernekler dışındaki tüzel kişiler, ticaret, sanayi ve deniz ticaret odası adını kullanamazlar.
-Birliğin gözetim ve denetimi altında özel sektörün dış ekonomik ilişkilerini yürütmek üzere, özel hukuk hükümlerine tâbi ve tüzel kişiliğe sahip, kuruluş ve faaliyet amaçları aynı olan ve Birlikçe belirlenecek özel sektör kuruluşlarından Dış Ekonomik İlişkiler Kurulu oluşur. Kurulun kısa adı DEİK’tir. Kurul ikili ekonomik ilişkilerini, yönetim kurulunun kararları doğrultusunda iş konseyleri aracılığı ile yürütür.
-Kurul ile iş konseylerinin görev ve yetkileri teşkilâtlanma ve işleyişleri, organları, bütçeleri, yönetim ve denetimleri ile üyeliğe ilişkin esaslar Birlik tarafından çıkarılacak yönetmelikle düzenlenir.
-Kurulun bütçesi, kurucu kuruluşların Kurul yönetim kurulu tarafından belirlenen yıllık üyelik aidatlarından, iş konseyi üyelik aidatlarından, Birliğin ödeyeceği katkı payı ve diğer gelirlerden oluşur. Kurul bütçesini Birlik denetler.
+(Mülga: 10/9/2014-6552/144 md.)
+(Mülga: 10/9/2014-6552/144 md.)
+(Mülga: 10/9/2014-6552/144 md.)
