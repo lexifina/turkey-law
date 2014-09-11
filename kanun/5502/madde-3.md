@@ -4,5 +4,5 @@ Kurumun görevleri şunlardır:
 a) Ulusal kalkınma strateji ve politikaları ile yıllık uygulama programlarını dikkate alarak sosyal güvenlik politikalarını uygulamak, bu politikaların geliştirilmesine yönelik çalışmalar yapmak.
 b) Hizmet sunduğu gerçek ve tüzel kişileri hak ve yükümlülükleri konusunda bilgilendirmek, haklarının kullanılmasını ve yükümlülüklerinin yerine getirilmesini kolaylaştırmak.
 c) Sosyal güvenliğe ilişkin konularda; uluslararası gelişmeleri izlemek, Avrupa Birliği ve uluslararası kuruluşlar ile işbirliği yapmak, yabancı ülkelerle yapılacak sosyal güvenlik sözleşmelerine ilişkin gerekli çalışmaları yürütmek, usûlüne göre yürürlüğe konulmuş uluslararası antlaşmaları uygulamak.
-ç) Sosyal güvenlik alanında, kamu idareleri arasında koordinasyon ve işbirliğini sağlamak.
+ç) Sosyal güvenlik alanında, eğitim, araştırma ve danışmanlık faaliyetleri yapmak ve yaptırmak, kamu idareleri arasında koordinasyon ve işbirliğini sağlamak. (1)
 d) Bu Kanun ve diğer kanunlar ile Kuruma verilen görevleri yapmak.

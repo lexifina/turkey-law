@@ -4,7 +4,7 @@ Sigorta Primleri Genel Müdürlüğünün görevleri şunlardır:
 a) Kurumun prim ve prime ilişkin diğer alacaklarının tahsilatını yapmak, tahsil edilemeyen prim ve prime ilişkin diğer alacakları gecikme süresi ve miktarına göre sınıflandırarak takibine öncelik vermek, süresi içerisinde tahsil edilemeyen prim ve prime ilişkin diğer alacaklar ile ilgili olarak borçlular hakkında gerekli idari ve icrai takibatı yapmak, bunlardan kaynaklanan davaların kadrolu veya vekâlet akdine dayanılarak çalıştırılan sözleşmeli avukatlarca yetkili mercilerde her derecede takip edilmesini, savunulmasını ve sonuçlandırılmasını sağlamak üzere Hukuk Müşavirliğine iletilmesini sağlamak.
 b) 25/8/1999 tarihli ve 4447 sayılı Kanun gereği tahsil edilmesi gereken işsizlik sigortası primlerinin tahsil ve takip işlemlerini yapmak.
 c) Yönetim Kurulunca gerekli görülen durumlarda, Kurumun süresinde ödenmeyen prim ve prime ilişkin alacakları ile diğer kanunlarla tahsil ve takip yetkisi Kuruma verilen alacakların tahsilat işlemlerini, yapılan protokoller çerçevesinde kısmen veya tamamen kamu gelirlerinin toplanması ve takibinden sorumlu olan kamu idarelerinden hizmet almak suretiyle gerçekleştirmek.
-________________________
+_______________
 (1) Bu maddenin başlığı “Sosyal Sigortalar Genel Müdürlüğü” iken 11/10/2011 tarihli ve 665 sayılı KHK’nin 11 inci maddesiyle, “Emeklilik Hizmetleri Genel Müdürlüğü şeklinde değiştirilmiştir.
 9762-1
 ç) Kapsamda olduğu halde tescili yapılmayan sigortalıların, genel sağlık sigortalılarının ve işyerlerinin işlemlerini re’sen sonuçlandırmak, kayıtdışı çalışmanın önlenmesi amacıyla diğer kamu idareleri, bankalar, aracı kurumlar, oda, borsa, birlik ve meslek kuruluşları ve her türlü gerçek ve tüzel kişilerle sigortalılık ve işyeri denetimi, veri paylaşımı ve kontrolü konusunda işbirliği yapmak, projeler oluşturmak, geliştirmek ve uygulamak.
@@ -79,7 +79,8 @@ c) Kurumun taraf olduğu davalarda Başkanlığı temsil etmek, (…)(1) Kurum t
 ç) Kurum tarafından talep edilen hukukî konular ile hukukî, malî ve cezaî sonuçlar doğuracak işlemler hakkında görüş bildirmek.
 _____________________
 (1) 11/10/2011 tarihli ve 665 sayılı KHK’nın 13 üncü maddesiyle, 20 nci maddenin ikinci fıkrasında yer alan “4” ibaresi “5” şeklinde değiştirilmiş ve 21 inci maddenin birinci fıkrasının (c) bendinde yer alan “prim ve prime ilişkin davalar hariç;” ibaresi yürürlükten kaldırılmıştır.
-(2) 6/2/2014 tarihli ve 6518 sayılı Kanunun 78 inci maddesiyle bu fıkrada yer alan “5” ibaresi “6” olarak değiştirilmiştir. 9766
+(2) 6/2/2014 tarihli ve 6518 sayılı Kanunun 78 inci maddesiyle bu fıkrada yer alan “5” ibaresi “6” olarak değiştirilmiştir.
+9766
 d) İhtilaflı konuları analiz ederek Kurumun taraf olduğu anlaşmazlıkları en aza indirecek tedbirlere ilişkin görüş ve önerilerde bulunmak.
 e) 7 nci maddenin birinci fıkrasının (f) bendinde belirtilen hususlarda önerilerde bulunmak.
 f) Başkan tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
@@ -95,11 +96,12 @@ MADDE 23- Kurumun yardımcı hizmet birimleri şunlardır:
 a) İnsan Kaynakları Daire Başkanlığı.
 b) Destek Hizmetleri Daire Başkanlığı.
 c) (Ek: 31/7/2008-5797/11 md.) İnşaat ve Emlak Daire Başkanlığı
+ç) (Ek: 10/9/2014-6552/32 md.) Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığı.
 İnsan Kaynakları Daire Başkanlığı
 MADDE 24- İnsan Kaynakları Daire Başkanlığının görevleri şunlardır:
 a) Kurumun insan gücü plânlaması ve politikası konusunda çalışmalar yapmak, tekliflerde bulunmak.
 b) Kurum personelinin atama, nakil, sicil, terfi, ücret, emeklilik ve benzeri özlük işlemlerini yürütmek.
-c) Kurum personelinin eğitim plânını hazırlamak, uygulamak ve değerlendirmek.
+c) (Mülga: 10/9/2014-6552/144 md.)
 ç) Başkan tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
 Destek Hizmetleri Daire Başkanlığı
 MADDE 25- Destek Hizmetleri Daire Başkanlığının görevleri şunlardır:
@@ -117,6 +119,18 @@ c) Kurum gayrimenkul ve demirbaşlarını sigorta yapmak, kiraya vermek, işletm
 d) Kurum gayrimenkul ve demirbaşlarının bakım ve onarım işlerini yürütmek.
 e) Kurum iştiraklerine ait gayrimenkullerle ilgili iş ve işlemleri yürütmek, izlemek, denetlemek ve gerekli önlemler hakkında önerilerde bulunmak.
 f) Başkan tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
+Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığı
+MADDE 25/B – (Ek: 10/9/2014-6552/33 md.)
+Eğitim, Araştırma ve Geliştirme Merkezi Başkanlığının görevleri şunlardır:
+a) Sosyal güvenliğe ve sağlık sigortasına ilişkin alanlarda ulusal ve uluslararası düzeyde araştırma, eğitim, inceleme, yayın ve danışmanlık faaliyetleri yapmak ve yaptırmak.
+b) Kurumsal kapasitenin arttırılmasına yönelik hizmet içi eğitim programını hazırlamak ve görevde yükselme sınavlarında başarılı olan personeli özel eğitim programı hazırlayarak eğitmek.
+c) Kurum personelinin eğitim planını hazırlamak, uygulamak ve değerlendirmek.
+ç) Sosyal güvenlik ekonomisi ve finansmanı alanında gelişmeleri takip etmek.
+d) Sosyal güvenlik mevzuatına ilişkin sertifika programları hazırlamak.
+e) Üniversite ve araştırma enstitüleri ile iş birliği yaparak veya hizmet satın alınması suretiyle eğitim programları, araştırma, geliştirme çalışmaları yapmak veya yaptırmak.
+f) Kamu kurum ve kuruluşlarına, tüzel kişi ve kurumlara sosyal güvenlik konularında eğitim vermek, seminer ve konferans düzenlemek.
+g) İkili sosyal güvenlik sözleşmesi bulunan ülkelerdeki dış temsilcilikler ve ilgili kurum ve kuruluşlarla eğitim, seminer, staj ve personel değişimi çalışmalarını yürütmek.
+ğ) Başkan tarafından verilecek benzer nitelikteki diğer görevleri yapmak.
 9767
 YEDİNCİ BÖLÜM
 Sosyal Güvenlik Yüksek Danışma Kurulu
@@ -135,19 +149,21 @@ Personelin statüsü, ücret ve malî haklar
 MADDE 28- Kurum hizmetlerinin gerektirdiği aslî ve sürekli görevler, 657 sayılı Devlet Memurları Kanunu hükümlerine tâbi olarak istihdam edilen personel tarafından yürütülür. Kurumun kadrolu memurları hakkında sosyal güvenlikleri bakımından 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu hükümleri uygulanır.
 9768
 (Mülga ikinci fıkra: 11/10/2011-KHK-666/1 md.) (1)
+(Ek fıkra: 10/9/2014-6552/34 md.) Genel Sağlık Sigortası Genel Müdürlüğü bünyesinde çalıştırılmak ve yirmi kişiyi geçmemek üzere sözleşmeli olarak uzman personel istihdam edilebilir. Bu kapsamda sözleşmeli olarak istihdam edilecek personel, 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılır. Bu şekilde çalıştırılacak olanlardan Kurumca belirlenecek en fazla on kişiye ödenecek ücret, 657 sayılı Kanunun 4 üncü maddesinin (B) fıkrasına göre istihdam edilenlerin sözleşme ücreti tavanının dört katını, geri kalanlar için ise üç katını geçemez ve bunlara bu fıkrada belirtilen ücret dışında herhangi bir ödeme yapılamaz. Bu kapsamda istihdam edilecek personel Kurum tarafından yürütülen özel bilgi ve ihtisas gerektiren projeler kapsamında görevlendirilir ve bu şekilde sözleşmeli personel istihdam edilen projelerin süresi en fazla üç yıldır. Bu kapsamda çalıştırılan bir kişi aralıksız olarak en fazla bir proje süresince görevlendirilebilir ve farklı projelerde de olsa üç yıldan daha uzun süre istihdam edilemez. Bu suretle çalıştırılacakların nitelikleri, alınma usulü, sözleşme usul ve esasları, bunlara ödenecek ücret ile diğer hususlar Maliye Bakanlığının görüşü üzerine Kurum tarafından çıkarılan yönetmelikle düzenlenir.
 Kurumda bilişim hizmetlerini yürütmek ve 80 kişiyi geçmemek üzere sözleşmeli olarak uzman personel çalıştırılabilir. (Değişik ikinci cümle: 8/3/2007-5597/3 md.) Bu şekilde çalıştırılacak olanlardan Kurumca belirlenecek en fazla beş kişiye ödenecek ücret, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 4 üncü maddesinin (B) bendine göre istihdam edilenlerin sözleşme ücreti tavanının beş katını, diğer beş kişiye dört katını, geri kalanlara ise üç katını geçemez ve bunlara bu fıkrada belirtilen ücret dışında herhangi bir ödeme yapılamaz.Bu personele ödenecek ücret ile sözleşme usûl ve esasları Devlet Personel Başkanlığı ile Maliye Bakanlığının görüşü alınarak Yönetim Kurulunca belirlenir. (Değişik son cümle: 8/3/2007-5597/3 md.) Bu şekilde istihdam edilecek personelin, mühendislik fakülteleri veya fen-edebiyat fakültelerinin 4 yıllık istatistik, matematik, fizik bölümlerinden mezun olmaları ve yükseköğretimi sırasında bilgisayar alanında aldığı derslerde öğrendiği programlama dillerine ilişkin belge veya üniversitelerin ya da Millî Eğitim Bakanlığının onaylı bilgisayar kurslarını bitirdiğine ilişkin sertifika sahibi olması şarttır. (2)
 (Mülga dördüncü fıkra: 11/10/2011-KHK-666/1 md.) (1)
 (Mülga beşinci fıkra: 11/10/2011-KHK-666/1 md.) (1)
 Yönetim Kurulu üyeleri ile Kurum personeli, 5237 sayılı Türk Ceza Kanununun uygulanmasında kamu görevlisi sayılır ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun, 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu ve 6245 sayılı Harcırah Kanunu hükümlerine tâbidir.
-Kurum lehine sonuçlanan dava ve icra takipleri nedeniyle hükme bağlanarak karşı taraftan tahsil edilen vekâlet ücretlerinin; hukuk müşavirlerine, avukatlara ve dava ve icra takibi işlerinde fiilen görev yapan diğer personele dağıtımı hakkında 1389 sayılı Devlet Davalarını İntaç Eden Avukat ve Saireye Verilecek Ücreti Vekâlet Hakkında Kanun hükümleri kıyas yoluyla uygulanır. Vekâlet ücretinin dağıtımının usûl ve esasları yönetmelikle belirlenir.
-(Ek fıkra: 11/10/2011-KHK-666/5 md.) Kurumun merkez ve taşra teşkilatı kadrolarında bulunup, sağlık harcamalarına esas olan fatura ve reçetelerin incelenmesi işlerinde ve Kurum sağlık kurullarında çalışan; tabip, diş tabibi, eczacı ve tıpta uzmanlık mevzuatında belirtilen dallarda bu mevzuat hükümlerine göre uzman olanlara en yüksek Devlet memuru aylığının (ek gösterge dahil) %700’ünü, sağlık hizmetleri ve yardımcı sağlık hizmetleri sınıfına dahil diğer personele ise %225’ini geçmemek üzere ek ödeme yapılabilir. (Ek cümle: 12/7/2013-6495/37 md.) Genel İdare Hizmetleri Sınıfında yer alan kadrolara asaleten veya vekâleten atanan ve Genel Sağlık Sigortası Genel Müdürlüğünde fiilen çalışan doktor, diş hekimi ve eczacılara en yüksek Devlet memuru aylığının (ek gösterge dâhil) %700’ünü geçmemek üzere ek ödeme yapılabilir. Yapılacak ek ödemelerden damga vergisi hariç herhangi bir vergi kesintisi yapılmaz. İş hacmi, görev mahalli, görevin önem ve güçlüğü, personelin kadro unvanı, derecesi, performansı ile kullanılan izin ve istirahat raporları gibi kriterler göz önünde bulundurularak yapılacak ek ödeme tutarları ile ödemeye ilişkin diğer usul ve esaslar, Yönetim Kurulunun teklifi ve Maliye Bakanlığının uygun görüşü üzerine Bakan tarafından belirlenir.
 ––––––––––––––––––
 (1) 11/10/2011 tarihli ve 666 sayılı KHK ile bu fıkralarda yapılan düzenlemeler; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
 (2) 17/1/2012 tarihli ve 6270 sayılı Kanunun 3 üncü maddesiyle, bu fıkrada yer alan “50 kişiyi” ibaresi “80 kişiyi” şeklinde değiştirilmiş ve metne işlenmiştir.
+9768-1
+Kurum lehine sonuçlanan dava ve icra takipleri nedeniyle hükme bağlanarak karşı taraftan tahsil edilen vekâlet ücretlerinin; hukuk müşavirlerine, avukatlara ve dava ve icra takibi işlerinde fiilen görev yapan diğer personele dağıtımı hakkında 1389 sayılı Devlet Davalarını İntaç Eden Avukat ve Saireye Verilecek Ücreti Vekâlet Hakkında Kanun hükümleri kıyas yoluyla uygulanır. Vekâlet ücretinin dağıtımının usûl ve esasları yönetmelikle belirlenir.
+(Ek fıkra: 11/10/2011-KHK-666/5 md.) Kurumun merkez ve taşra teşkilatı kadrolarında bulunup, sağlık harcamalarına esas olan fatura ve reçetelerin incelenmesi işlerinde ve Kurum sağlık kurullarında çalışan; tabip, diş tabibi, eczacı ve tıpta uzmanlık mevzuatında belirtilen dallarda bu mevzuat hükümlerine göre uzman olanlara en yüksek Devlet memuru aylığının (ek gösterge dahil) %700’ünü, sağlık hizmetleri ve yardımcı sağlık hizmetleri sınıfına dahil diğer personele ise %225’ini geçmemek üzere ek ödeme yapılabilir. (Ek cümle: 12/7/2013-6495/37 md.) Genel İdare Hizmetleri Sınıfında yer alan kadrolara asaleten veya vekâleten atanan ve Genel Sağlık Sigortası Genel Müdürlüğünde fiilen çalışan doktor, diş hekimi ve eczacılara en yüksek Devlet memuru aylığının (ek gösterge dâhil) %700’ünü geçmemek üzere ek ödeme yapılabilir. Yapılacak ek ödemelerden damga vergisi hariç herhangi bir vergi kesintisi yapılmaz. İş hacmi, görev mahalli, görevin önem ve güçlüğü, personelin kadro unvanı, derecesi, performansı ile kullanılan izin ve istirahat raporları gibi kriterler göz önünde bulundurularak yapılacak ek ödeme tutarları ile ödemeye ilişkin diğer usul ve esaslar, Yönetim Kurulunun teklifi ve Maliye Bakanlığının uygun görüşü üzerine Bakan tarafından belirlenir.
 9769
 Kadrolar ve atama
 MADDE 29- Kurum kadrolarının tespiti, ihdası, kullanılması ve iptali ile kadrolara ilişkin diğer hususlar 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname hükümleri, atamalarda ise bu Kanunda hüküm bulunmayan hallerde 23/6/1981 tarihli ve 2477 sayılı Kanun hükümleri uygulanır.
-(Değişik ikinci fıkra: 11/10/2011-KHK-665/14 md.) Başkan, Başkan Yardımcısı, Genel Müdür, Rehberlik ve Teftiş Başkanı, Strateji Geliştirme Başkanı, Genel Müdür Yardımcısı, Aktüerya ve Fon Yönetimi Daire Başkanı ve I. Hukuk Müşaviri kadrolarına müşterek kararname, diğer Daire Başkanı ile Sosyal Güvenlik İl Müdürü kadrolarına Başkanın önerisi üzerine Bakan onayı, bunların dışında kalan Kurum kadrolarına ise Başkan onayı ile atama yapılır.(1)
+(Değişik ikinci fıkra: 11/10/2011-KHK-665/14 md.) Başkan, Başkan Yardımcısı, Genel Müdür, Rehberlik ve Teftiş Başkanı, Strateji Geliştirme Başkanı, Genel Müdür Yardımcısı, Aktüerya ve Fon Yönetimi Daire Başkanı ve I. Hukuk Müşaviri kadrolarına müşterek kararname, diğer Daire Başkanı, Eğitim, Araştırma ve Geliştirme Merkezi Başkanı ve Yardımcısı ile Sosyal Güvenlik İl Müdürü kadrolarına Başkanın önerisi üzerine Bakan onayı, bunların dışında kalan Kurum kadrolarına ise Başkan onayı ile atama yapılır.(1)(2)
 İkinci fıkrada sayılan kadrolar ile daire başkanı, sosyal güvenlik il müdürü, sosyal güvenlik il müdür yardımcısı ve sosyal güvenlik merkezi müdürü kadrolarına yapılacak atamalarda 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde sayılan genel şartlara ilave olarak, en az dört yıllık eğitim veren yüksek öğretim kurumlarından mezun olmak şartı aranır.
 Sosyal Güvenlik Uzmanı, Müfettiş ve bunların yardımcıları
 MADDE 30- Kurumda sosyal güvenlik uzman yardımcısı veya müfettiş yardımcısı kadrolarına atanabilmek için 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde sayılan genel şartlara ilave olarak;
@@ -160,6 +176,7 @@ c) Sınavın yapıldığı yılın Ocak ayının ilk gününde otuz yaşını do
 (Mülga dördüncü fıkra: 12/7/2013-6495/38 md.)
 _____________
 (1) 6/2/2014 tarihli ve 6518 sayılı Kanunun 79 uncu maddesiyle bu fıkraya “Strateji Geliştirme Başkanı,” ibaresinden sonra gelmek üzere “Genel Müdür Yardımcısı,” ibaresi eklenmiştir.
+(2)10/9/2014 tarihli ve 6552 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “diğer Daire Başkanı” ibaresinden sonra gelmek üzere “, Eğitim, Araştırma ve Geliştirme Merkezi Başkanı ve Yardımcısı” ibaresi eklenmiştir.
 9770
 Sosyal güvenlik uzman yardımcılarının ve müfettiş yardımcılarının mesleğe alınma, tez hazırlama, yetiştirilme, yeterlik sınavları ile diğer konulara ilişkin usûl ve esaslar Kurumca çıkarılacak yönetmeliklerle belirlenir.
 (Ek fıkra:6/2/2014-6518/80 md.) Başkanlık merkez teşkilatında genel müdür yardımcısı, daire başkanı veya taşra teşkilatında il müdürü kadrolarında toplam en az üç yıl görev yapmış olanlar, atama tarihi itibarıyla fiilen bu kadrolardan birinde bulunmak şartıyla Sosyal Güvenlik Uzmanı kadrosuna atanabilir.
@@ -186,21 +203,21 @@ Kurumun finansal hedeflerinin belirlenmesi ve izlenmesi
 MADDE 33- Kurum, merkezî yönetim bütçesinden kendisine ayrılan yıllık sosyal sigortalar, genel sağlık sigortasına ilişkin ayrı ayrı olmak üzere transfer tutarını, üç yıllık transfer projeksiyonunu ve uzun dönemli emeklilik ve genel sağlık sigortası finansman hedeflerini gerçekleştirmekle görevlidir. Finansman hedefleri, her yıl en geç Ekim ayında bir sonraki yıl uygulanmak üzere Yönetim Kurulunun önerisi üzerine Bakanın başkanlığında, Maliye Bakanlığı, Sağlık Bakanlığı, Devlet Planlama Teşkilatı ve Hazine müsteşarları ile Başkanın katılımıyla oluşan Komisyon tarafından belirlenir. Komisyonun sekreterya işlemleri Kurum tarafından yürütülür.(1)
 Kurum, bu hedeflerin gerçekleştirilmesi için gerekli tedbirleri almak, mevzuat değişikliği önerilerini Bakanlığa sunmak, yetki alanına girmeyen hususlarda ise ilgili kurumlarca alınması gereken tedbirleri gerekçeleri ile birlikte Bakanlığa önermekle yükümlüdür. Kamu idareleri, Kurumun finansman hedeflerinin gerçekleştirilmesini doğrudan etkileyecek düzenlemeler ve uygulamalar konusunda Kurumun görüşünü almak zorundadır.
 –––––––––––––
-(1) 3/6/2011 tarihli ve 633 sayılı KHK’nin 35 inci maddesiyle, bu fıkrada yer alan "genel sağlık sigortası ile primsiz ödemelere ilişkin" ibaresi "genel sağlık sigortasına ilişkin" şeklinde değiştirilmiş ve metne işlenmiştir.
-9771
+(1) 3/6/2011 tarihli ve 633 sayılı KHK’nin 35 inci maddesiyle, bu fıkrada yer alan "genel sağlık sigortası ile primsiz ödemelere ilişkin" ibaresi "genel sağlık sigortasına ilişkin" şeklinde değiştirilmiş ve metne işlenmiştir. 9771
 Başkan, belirlenen hedeflerin gerçekleşmesine yönelik alınan ve plânlanan tedbirleri, elde edilen sonuçları ve diğer kamu idarelerinden yapılan önerileri ve sonuçlarını içeren bir raporu altı aylık dönemler halinde Bakanlar Kuruluna, Türkiye Büyük Millet Meclisi Sağlık, Aile, Çalışma ve Sosyal İşler Komisyonuna ve Plan ve Bütçe Komisyonuna sözlü ve yazılı olarak sunar.
 Kurum, belirlenen hedeflere ilan edilen sürelerde ulaşılamaması ya da ulaşılamama olasılığının ortaya çıkması halinde, nedenlerini ve alınması gereken önlemleri Bakanlığa yazılı olarak bildirir ve kamuoyuna açıklar.
-Kurumun gelirleri ve giderleri
+Kurumun gelirleri ve giderleri (1)
 MADDE 34- Kurumun gelirleri şunlardır:
 a) Sosyal sigorta ve genel sağlık sigortası prim gelirleri, idarî para cezaları, gecikme cezaları, gecikme zamları ve katılım payları.
 b) Sosyal sigorta ile genel sağlık sigortasına yapılan Devlet katkısı.
 c) Taşınır ve taşınmaz gelirleri.
 ç) (Mülga: 3/6/2011-KHK-633/35 md.)
-d) Kurumca hazırlanan her türlü standart form, manyetik, elektronik veya akıllı kart satışından elde edilecek gelirler ile her türlü data hattı, internet kullanımı ve benzeri kira gelirleri.
+d) (Değişik: 10/9/2014-6552/36 md.) Kurumca hazırlanan her türlü standart form, manyetik, elektronik veya akıllı kart satışından elde edilecek gelirler ile her türlü data hattı, internet kullanımı ve benzeri kira gelirleri, Kurumun ödeme kapsamındaki listelere girmek veya bu listelerde kalmak veya değişiklik yapmak için yapılan başvurulardan ve sözleşmelerden elde edilen gelirler.
 e) Merkezî yönetim bütçesinden yapılacak diğer transferler.
 f) Gerçek veya tüzel kişiler tarafından doğrudan veya vasiyet yoluyla yapılan bağışlar.
 g) Primlerin ve diğer gelirlerin değerlendirilmesinden elde edilen gelirler.
-h) Diğer gelirler.
+h) (Ek: 10/9/2014-6552/36 md.) Eğitim ve danışmanlık hizmetlerinden elde edilen gelirler. (1)
+ı) Diğer gelirler. (1)
 Kurumun giderleri şunlardır:
 a) Sosyal sigorta kapsamında sigortalı ve hak sahiplerine ödenecek olan gelir, aylık ve ödenekler.
 b) Genel sağlık sigortası kapsamında yapılacak giderler.
@@ -209,22 +226,35 @@ c) (Mülga: 3/6/2011-KHK-633/35 md.)
 d) Faiz giderleri.
 e) Eğitim, araştırma, danışmanlık hizmet giderleri.
 f) Diğer giderler.
-Kurumun taşınmaz edinimi ve mal varlıklarının hukukî durumu
+––––––––––––––––––
+(1) 10/9/2014 tarihli ve 6552 sayılı Kanunun 36 ncı maddesiyle, bu maddenin birinci fıkrasına (g) bendinden sonra gelmek üzere (h) bendi eklenmiş ve mevcut (h) bendi teselsül ettirilmiştir.
+9772
+Kurumun taşınmaz edinimi, taşınır ve taşınmaz mal varlıkları ile gayri maddi haklarının hukuki durumu (1)
 MADDE 35- Kurum, görevlendirildiği hizmetlerin gereği ve bağışlar dışında taşınmaz edinemez.
 Kurumun malları, alacakları, banka hesapları 2004 sayılı İcra ve İflâs Kanunu ile 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun bakımından Devlet malı hükmünde olup, alacakları imtiyazlı alacaklardır.
 Kurumun taşınır ve taşınmazları, bankalardaki mevduatları dahil her türlü hak ve alacakları haczedilemez, hakkında 2004 sayılı İcra ve İflâs Kanununun haciz ve iflas hükümleri uygulanmaz.
-9772
 Kurum her türlü dava ve icra işlemlerinde teminat yatırmak mükellefiyetinden muaftır.
+(Ek fıkra: 10/9/2014-6552/37 md.) Kurumca, işverenlerin, sigortalıların, genel sağlık sigortalılarının, emeklilerin, bunların hak sahipleri ile dul ve yetimlerinin ve Kurumdan aylık alan diğer kişilerin bireysel veri ve hakları, bireysel veri ve haklarından oluşan toplu veri ve hakları ile işletmelerin ticari sırları satılamaz ve paylaşılamaz. Kurum bunların dışında sahip olduğu gayri maddi haklarını Yönetim Kurulunun onayı ile satabilir veya paylaşabilir. Bu fıkranın aksine davrananlar hakkında Türk Ceza Kanununun ilgili hükümleri uygulanır.
 Kurum, 2886 sayılı Devlet İhale Kanunu hükümlerine tâbi değildir. 2886 sayılı Kanun kapsamına giren işlerde uygulanacak usûl ve esaslar Kurumca çıkarılacak yönetmelikle düzenlenir.
 Kurumun sahibi bulunduğu taşınmazların kira artış oranları, 213 sayılı Vergi Usul Kanunu uyarınca her yıl belirlenen yeniden değerleme oranından az olmamak üzere rayiç değerle belirlenir. (Ek cümle: 17/1/2012-6270/4 md.) Ancak ekonomik koşullar göz önünde bulundurularak kira bedellerini belirlemeye Yönetim Kurulu yetkilidir.
-Vergi ve fon muafiyeti
-MADDE 36- İlgili kanunlarda yer verilmemiş olsa dahi, Kuruma ait taşınır ve taşınmazlar, bunların alım ve satım işlemleri ile Kuruma yapılacak bağış ve yardımlar, Kurumun taraf olduğu davalar, icra kovuşturmaları ile ilâmlar, Kurum tarafından satın alınan taşınmazlar ile ilgili tüm tapu işlemleri, Kurum tarafından yapılan bütün işlemler ve bu işlemler için ilgililere verilmesi veya bunlardan alınması gereken yazı ve belgeler ve bunların suretleri; damga vergisi ve harçlar ile belediyelerde yürütülecek her türlü hizmet karşılığı alınan ücret ve katılma payından müstesnadır.
+Muafiyetler (2)
+MADDE 36- (Değişik: 10/9/2014-6552/38 md.)
+Kurum, bu Kanun kapsamındaki faaliyetleri dolayısıyla yapılan işlemler yönünden ilgili kanunlarında yer almamış olsa dahi 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununa göre alınan harçlardan, elektrik ve havagazı tüketim vergisi ve yangın sigortası vergisi hariç olmak üzere 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanunu gereğince alınan vergi, harç, katılma payı ile tasdik ücretlerinden, düzenleyeceği kağıtlar nedeniyle damga vergisinden, sahip olduğu taşınmazlar dolayısıyla emlak vergisinden, satın alınan ve satılan taşınmazlar ile ilgili olarak tapu ve kadastro döner sermaye bedellerinden ve her türlü dava ve icra işlemlerinde teminat yatırma mükellefiyetinden muaftır.
+––––––––––––––––––
+(1) Bu madde başlığı “Kurumun taşınmaz edinimi ve mal varlıklarının hukukî durumu” iken, 10/9/2014 tarihli ve 6552 sayılı Kanunun 37 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(2) Bu madde başlığı “Vergi ve fon muafiyeti” iken, 10/9/2014 tarihli ve 6552 sayılı Kanunun 38 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+9772-1
+Kurumun taraf olduğu her türlü davalarda, Kurum aleyhine hükmedilen asıl alacak ile vekalet ücreti ve yargılama giderleri, alacaklı veya vekilinin Kuruma ödemeye dayanak makbuz ve belgelerle birlikte yazılı şekilde yapacağı müracaat üzerine bildireceği banka hesap numarasına, müracaat tarihinden itibaren otuz gün içinde ödenir. Bu süre geçmeden Kurum aleyhine cebri icra yollarına başvurulamaz. Belirtilen sürede ödeme yapılamaması hâlinde, söz konusu alacaklar genel hükümler dairesinde tahsil olunur. Mahkeme kararlarında yer alan miktarların kararın kesinleşmesinden önce ödenmesi hâlinde, söz konusu kararların ilgili mercilerce bozulmasını müteakip ödenen miktarlar, ödeme tarihinden itibaren işleyecek kanuni faizi ile birlikte ilgililerden tahsil edilir.
+Kurumu vekil sıfatıyla temsile yetkili olan I. hukuk müşaviri, hukuk müşaviri ve kadrolu avukatlarının bir listesi Kurumca yazılı olarak veya Adalet Bakanlığınca belirlenen esaslar dairesinde elektronik ortamda ilgili Cumhuriyet başsavcılığına, bölge idare mahkemesi başkanlıklarına, askerî savcılıklara ve Askerî Yüksek İdare Mahkemesi Başkanlığına verilir. Bu listeler, Cumhuriyet başsavcılığı tarafından adli yargı çevresinde, bölge idare mahkemesi başkanlığınca idari yargı çevresinde bulunan mahkemelere gönderilir. Yüksek mahkemeler ve bölge adliye mahkemesindeki duruşmalarda temsil yetkisini kullanacakların isimleri ilgili mahkemelerin başsavcılıklarına veya başkanlıklarına bildirilir. Listede isimleri yer alanlar Baroya kayıt ve vekaletname ibrazı gerekmeksizin Kurum vekili sıfatıyla her türlü dava ve icra işlemlerini takip edebilirler. Vekil sıfatıyla temsil yetkisi sona erenlerin isimleri anılan mercilere aynı usulle derhâl bildirilir.
 Çeşitli malî hükümler
 MADDE 37- Genel yönetim giderleri, Kurumun yıllık toplam gelirinin % 5'ini aşamaz.
 Kurumun elde ettiği her türlü gelirin; riskin dağıtılması ilkesi ve basiretli yönetim kurallarına göre Kurum lehine en yüksek getiriyi sağlayacak şekilde yönetilmesi esastır.
 Süresi içinde ödenmeyen sosyal sigorta ve genel sağlık sigortası primleri, işsizlik sigortası primleri, idarî para cezaları, gecikme zamları, katılım payları Kurum alacağına dönüşür ve bu alacakların tahsilinde, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci, 102 nci ve 106 ncı maddeleri hariç diğer maddeleri uygulanır.
 (Mülga birinci cümle: 3/6/2011-KHK-633/35 md.) Diğer giderlerin primler ve primlerin değerlendirilmesinden elde edilecek gelirler ile karşılanması esastır. Sosyal güvenlik kanunları dışında Kurum giderlerini artıracak yasal düzenlemelerin Kuruma getireceği malî yükün merkezî yönetim bütçesinden karşılanması zorunludur.
 Sosyal sigorta fonu, genel sağlık sigortası fonu ile (…)(1), hiçbir şekilde birleştirilemez ve fonlar arasında kaynak aktarılamaz. (1)
+––––––––––––––––––––
+(1) 3/6/2011 tarihli ve 633 sayılı KHK’nin 35 inci maddesiyle, bu fıkrada yer alan "primsiz ödemelere ilişkin fon" ibaresi yürürlükten kaldırılmıştır.
+9772-2
 ONBİRİNCİ BÖLÜM
 Sorumluluk ve Yetkiler
 Yöneticilerin sorumlulukları ve yetki devri
@@ -232,8 +262,6 @@ MADDE 38- Kurumun her kademedeki yöneticileri görevlerini; mevzuata, stratejik
 Kurumda her kademedeki yöneticiler, sınırlarını açıkça belirtmek ve yazılı olmak şartıyla yetkilerinden bir kısmını astlarına devredebilir. Yetki devri, uygun araçlarla ilgililere duyurulur.
 Tebligat
 MADDE 39- Bu Kanun gereğince yapılacak tebligatlar hakkında, 7201 sayılı Tebligat Kanunu hükümleri uygulanır.
-––––––––––––––––––––
-(1) 3/6/2011 tarihli ve 633 sayılı KHK’nin 35 inci maddesiyle, bu fıkrada yer alan "primsiz ödemelere ilişkin fon" ibaresi yürürlükten kaldırılmıştır.
 9773
 ONİKİNCİ BÖLÜM
 Çeşitli Hükümler
@@ -369,14 +397,19 @@ Merkez Teşkilâtı
 Yardımcı Hizmet
 Ana Hizmet Birimleri Danışma Birimleri Birimleri
 Başkan Başkan Yardımcısı Emeklilik Hiz. Genel Müdürlüğü(1) Strateji Geliştirme Başkanlığı İnsan Kaynakları Daire Başkanlığı
-Sigorta Primleri Genel Müdürlüğü(1)
-Başkan Yardımcısı Genel Sağlık Sigortası Genel Müdürlüğü Hukuk Müşavirliği Destek Hizmetleri Daire Başkanlığı
-(Ek:31/7/2008-5797/11 md.) İnşaat ve Emlak
+Sigorta Primleri Genel Müdürlüğü (1)
+Başkan Yardımcısı Genel Sağlık Sigortası Genel Müdürlüğü Hukuk Müşavirliği Destek Hizmetleri
 Daire Başkanlığı
+(Ek:31/7/2008-5797/11 md.) İnşaat ve Emlak Daire
+Başkanlığı
+(Ek: 10/9/2014-6552/39 md.)
+Eğitim, Araştırma ve Geliştirme
+Merkezi Başkanlığı
 Başkan Yardımcısı (Mülga: 3/6/2011-KHK-633/35 md.) Basın ve Halkla İlişkiler Müşavirliği
 Hizmet Sunumu Genel Müdürlüğü
 Rehberlik ve Teftiş Başkanlığı
-Aktüerya ve Fon Yönetimi Daire Başkanlığı
+Aktüerya ve Fon Yönetimi Daire
+Başkanlığı
 Taşra Teşkilâtı
 Sosyal Güvenlik İl Müdürlükleri
 Sosyal Güvenlik Merkezleri
