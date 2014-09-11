@@ -1,0 +1,21 @@
+Su Borçlarına Faiz İndirimi Yapılması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Belediye Meclisinin 07.03.2013 tarih ve 46 sayılı kararıyla su borçlarına kademeli faiz indirimi uygulanarak kamu zararına neden olunduğu görülmüştür.
+
+5393 sayılı Belediye Kanununun 15’inci maddesinin (d) bendinde “Özel kanunları gereğince belediyeye ait vergi, resim, harç, katkı ve katılma paylarının tarh, tahakkuk ve tahsilini yapmak; vergi, resim ve harç dışındaki özel hukuk hükümlerine göre tahsili gereken doğal gaz, su, atık su ve hizmet karşılığı alacakların tahsilini yapmak veya yaptırmak” belediyenin yetkileri arasında sayılmıştır.
+
+Aynı kanunun 18’inci maddesinin (h) bendinde ise “Vergi, resim ve harçlar dışında kalan ve miktarı beşbin TL'den fazla dava konusu olan belediye uyuşmazlıklarını sulh ile tasfiyeye, kabul ve feragate karar vermek” Belediye Meclisinin görevi olduğu hüküm altına alınmıştır.
+
+… Belediye Meclisi 07.03.2013 tarihinde aldığı kararla su borçlarının faizlerine 01.04.2013-30.04.2013 tarihleri arasında %90, 01.05.2013-31.05.2013 tarihleri arasında %70, 01.06.2013-30.06.2013 tarihleri arasında ise % 50 indirim uygulanmasını kabul etmiş ve bu karar doğrulusunda da borçlardan belirlenen indirimler yapılarak su bedelleri tahsil edilmiştir.
+
+5393 sayılı Kanununun 15’inci maddesinin birinci fıkrasının (d) bendinde su alacaklarının tahsilini yapmak veya yaptırmak belediyelere görev olarak verilmektedir. Aynı Kanunun 18’inci maddesinde ise, belediye meclisinin görev ve yetkilerinin neler olduğu sayılmış belediye alacaklarının veya bu alacaklardan doğan gecikme bedellerinin kısmen veya tamamen affedilmesi ile ilgili olarak belediye meclislerine bir yetki verilmemiştir.
+
+5393 sayılı Kanununun 18’inci maddesinin birinci fıkrasının (h) bendi ile belediye meclislerine verilen yetki de dava konusu olan uyuşmazlıkların sulh yolu ile çözümüne yönelik olup, dava konusu edilmeyen anlaşmazlıklar için bu yetkinin kullanılmasına imkan bulunmamaktadır.
+
+Sorumluların savunmalarında her ne kadar 5393 sayılı Belediye Kanununda Belediye Meclislerinin görevleri arasında su alacaklarına uygulanan faizlere ilişkin indirim ya da taksitlendirme yetkisinin açıkça düzenlenmediğini ancak bu işlemleri yapamayacağına ilişkin bir düzenlemenin de bulunmadığını, vatandaşların maddi imkansızları nedeniyle su borçlarını ödeyemediklerini, faizin indirilmesi halinde borçlarını ödeyebilecekleri için bu uygulamanın yapıldığını, yapılan indirimden dar gelirli vatandaşların yararlandığını, 5393 sayılı Kanunda dar gelirli vatandaşlara yardım etmenin belediye görevleri arasında bulunduğunu ifade etmişlerse de;
+
+ Yukarıda açıkça belirtildiği üzere 5393 sayılı Belediye Kanununda Belediye Meclislerinin görev ve yetkileri açıkça sayılmış, belediye alacaklarının ya da bu alacaklardan doğan gecikme bedellerinin affedilmesi ile ilgili olarak Belediye Meclislerine bir yetki verilmemiştir. Belediye Meclisinin kanunun kendisine yetki vermediği bir konuda düzenleme yapması mümkün değildir. Belediye Meclislerine 5393 sayılı Belediye Kanununun 18’inci maddesinin birinci fıkrasının (h) bendi ile verilen yetki sadece dava konusu olan uyuşmazlıkların sulh yoluyla çözümüne yöneliktir. Belediye Meclisinin su borçlarına faiz indirimi genel bir uygulama olup belediyeye su borcu olan tüm mükellefleri kapsamaktadır. Bu mükelleflerin maddi durumu ile ilgili Belediyenin herhangi bir tespiti yoktur. Bununla birlikte dar gelirli vatandaşlara yardım amacıyla su borçlarının affedilmesi de mümkün değildir.
+
+İçişleri Bakanlığı Mahalli İdareler Genel Müdürlüğünün 23/01/2009 tarih ve B.05.0.MAH.0.01.00/2210-45043 sayılı su borç faizlerinin affı ile ilgili genelgesinde de Belediye Meclislerinin belediye alacaklarını veya bu alacaklardan doğan gecikme bedellerini ortadan kaldırma yetkilerinin bulunmadığı belirtilmektedir.
+
+ Bu itibarla, belediye meclislerinin su borçlarına uygulanan gecikme bedelleri de dahil, belediye alacaklarının veya bu alacaklardan doğan gecikme bedellerinin kısmen veya tamamen ortadan kaldırılmasına yetkileri bulunmadığından su borçlarına kademeli faiz indirimi uygulanması sonucu meydana gelen …. TL kamu zararının  müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53’üncü maddesi gereği hüküm tarihinden itibaren işleyecek faizleri ile ödettirilmesine oy birliğiyle,

@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "127",
+  "decision_date": "2014-09-11",
+  "source_id": 8827,
+  "chamber": "6",
+  "ilam_number": "11",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8827/",
+  "source_sha256": "401bb1821f8cc9d4859bed521f6292a2b9d6add89f07bac741e546348b31bfd0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
