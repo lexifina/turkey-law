@@ -42,7 +42,7 @@ Aşağıdaki teslim ve hizmetler vergiden müstesnadır.
 a) (Değişik : 25/5/1995 - 4108/33 md.) Faaliyetleri kısmen veya tamamen deniz, hava ve demiryolu taşıma araçlarının, yüzer tesis ve araçların kiralanması veya çeşitli şekillerde işletilmesi olan mükelleflere bu amaçla yapılan deniz, hava ve demiryolu taşıma araçlarının, yüzer tesis ve araçlarının teslimleri, bu araçların imal ve inşaası ile ilgili olarak yapılan teslim ve hizmetler ile bunların tadili, onarım ve bakımı şeklinde ortaya çıkan hizmetler ve faaliyetleri deniz taşıma araçları ile yüzer tesis ve araçların imal ve inşası olanlara bu araçların imal ve inşası ile ilgili olarak yapılacak teslim ve hizmetler, (2)
 b) (Mülga: 25/12/2003-5035/49 md.;Yeniden düzenleme:16/7/2004-5228/14 md.) Deniz ve hava taşıma araçları için liman ve hava meydanlarında yapılan hizmetler,
 c) (Değişik: 28/3/2007-5615/12 md.) Altın, gümüş, platin arama, işletme, zenginleştirme, rafinaj ve Türk Petrol Kanunu hükümlerine göre petrol arama faaliyetlerine ilişkin olmak üzere, bu faaliyetleri yürütenlere yapılan teslim ve hizmetler ile aynı Kanun hükümlerine göre boru hattıyla taşımacılık yapanlara bu hatların inşa ve modernizasyonuna ilişkin yapılan teslim ve hizmetler,
-d) (Ek : 22/7/1998 - 4369/59 md.) Yatırım Teşvik Belgesi sahibi mükelleflere belge kapsamındaki makina ve teçhizat teslimleri (Şu kadar ki, yatırım teşvik belgesinde öngörüldüğü şekilde gerçekleşmemesi halinde,zamanında alınmayan vergi alıcıdan, vergi ziyaı cezası uygulanarak gecikme faizi ile birlikte tahsil edilir. Zamanında alınmayan vergiler ile vergi cezalarında zamanaşımı, verginin tarhini veya cezanın kesilmesini gerektiren durumun meydana geldiği tarihi takip eden takvim yılının başından itibaren başlar).
+d) (Ek : 22/7/1998 - 4369/59 md.) Yatırım Teşvik Belgesi sahibi mükelleflere belge kapsamındaki makina ve teçhizat teslimleri (Şu kadar ki, yatırım teşvik belgesinde öngörüldüğü şekilde gerçekleşmemesi halinde,zamanında alınmayan vergi alıcıdan, vergi ziyaı cezası uygulanarak gecikme faizi ile birlikte tahsil edilir. Zamanında alınmayan vergiler ile vergi cezalarında zamanaşımı, verginintarhini veya cezanın kesilmesini gerektiren durumun meydana geldiği tarihi takip eden takvim yılının başından itibaren başlar).
 –––––––––––––––
 (1) Bu bölüm ve13 üncü maddenin başlığı" Araçlar ve Petrol Aramalarında İstisna"iken, 22/7/1998 tarih ve 4369 sayılı Kanunun 59 uncu maddesi ile "Araçlar, Petrol Aramaları ve Teşvik Belgeli Yatırımlarda İstisna" şeklinde değiştirilmiş; daha sonra 13 üncü maddenin başlığı 16/7/2004 tarihli ve 5228 sayılı Kanunun 14 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 (2) 13/2/2011 tarihli ve 6111 sayılı Kanunun 85 inci maddesiyle, bu bentte yer alan “çıkan hizmetler,” ibaresi “çıkan hizmetler ve faaliyetleri deniz taşıma araçları ile yüzer tesis ve araçların imal ve inşası olanlara bu araçların imal ve inşası ile ilgili olarak yapılacak teslim ve hizmetler,” şeklinde değiştirilmiş ve metne işlenmiştir.
@@ -74,7 +74,7 @@ b) (Değişik : 27/1/2000 - 4503/1 md.) 4458 sayılı Gümrük Kanununun 167 nci
 c) (Değişik : 25/12/2003 - 5035/7 md.) Gümrük Kanunundaki transit ve gümrük antrepo rejimleri ile geçici depolama ve serbest bölge hükümlerinin uygulandığı mallar,
 ——————————
 (1) Bakanlar Kurulu tarafından belirlenecek taşıma işleri ile ilgili olarak bu Kanunun sonundaki "KARARNAMELER İLE YAPILAN DEĞİŞİKLİKLER CETVELİ"ne bakınız.
-6479
+6478-2 6479
 2) (Değişik : 27/1/2000 - 4503/1 md.) Gümrük Kanununa göre geri gelen eşyanın dışarıda bir işleme tabi tutulması veya asli kısmına bir ilave yapılması halinde eşyanın kazandığı değer farkı istisnaya dahil değildir.
 ALTINCI BÖLÜM
 Sosyal ve Askeri Amaçlı İstisnalarla Diğer İstisnalar
@@ -91,7 +91,7 @@ c) (Ek : 23/11/2000 – 4605/6 md.) Yabancı devletlerin Türkiye’deki diploma
 (2) Bu bentte yer alan "Üniversite ve yüksekokullar ile 8.6.1965 tarihli ve 625 sayılı Kanun hükümlerine tâbi özel okullar tarafından ilgili dönemdeki kapasitelerinin % 10 unu" ibaresi, 28/3/2007 tarihli ve 5615 sayılı Kanunun 13 üncü maddesiyle "8/2/2007 tarihli ve 5580 sayılı Kanun hükümlerine tâbi özel okullar tarafından ilgili dönemdeki kapasitelerinin % 10’unu, üniversite ve yüksekokullarda ise % 50’sini" şeklinde değiştirilmiş ve metne işlenmiştir.
 (3) 16/6/2009 tarihli ve 5904 sayılı Kanunun 13 üncü maddesiyle; bu bentte yer alan “özel okullar tarafından ilgili dönemdeki kapasitelerinin % 10’unu” ibaresi “özel okullarca bedelsiz verilen eğitim, öğretim hizmetlerinde ilgili dönemdeki kapasitelerinin % 10’unu, 24/3/1950 tarihli ve 5661 sayılı Yüksek Öğrenim Öğrenci Yurtları ve Aşevleri Hakkındaki Kanuna Ek Kanun ile 30/4/1992 tarihli ve 3797 sayılı Milli Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanun hükümlerine göre kurulan öğrenci yurtları tarafından bedelsiz verilen yurt hizmetlerinde ilgili dönemdeki kapasitelerinin % 10’unu,” şeklinde değiştirilmiş ve metne işlenmiştir.
 (4) 23/7/2010 tarihli ve 6009 sayılı Kanunun 28 inci maddesiyle, bu bendin sonunda yer alan “teslim ve hizmetleri” ibaresi “teslim ve hizmetleri ile bunlardan sağlık hizmeti sunanların teşhis ve tedaviye yönelik olarak birbirlerine yapacakları teslim ve hizmetler” şeklinde değiştirilmiş ve metne işlenmiştir.
-(5) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu bentte yer alan “sakat” ibaresi “engelli” olarak değiştirilmiştir.
+(5) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “sakat” ibaresi “engelli” şeklinde değiştirilmiştir.
 6480
 Maliye Bakanlığı, istisna kapsamına girecek mal ve hizmetler ile bunların asgari tutarlarını ve bu bendin uygulamasına ilişkin usul ve esasları tespit etmeye yetkilidir.
 d) (Ek: 14/7/2004-5226/19md.) 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamındaki tescilli taşınmaz kültür varlıklarının rölöve, restorasyon ve restitüsyon projelerine münhasır olmak üzere, bu projelendirmelerden yararlananlara verilen mimarlık hizmetleri ile projelerin uygulanması kapsamında yapılacak teslimler.
@@ -113,20 +113,21 @@ d) İktisadi işletmelere dahil olmayan gayrimenkullerin kiralanması işlemleri
 6480-1
 e) (Değişik: 9/4/2003-4842/23 md.) Banka ve sigorta muameleleri vergisi kapsamına giren işlemler ve sigorta aracılarının sigorta şirketlerine yaptığı sigorta muamelelerine ilişkin işlemleri ile Kurumlar Vergisi Kanununun 7 nci maddesinin (24) numaralı bendinde belirtilen kurumların kredi teminatı sağlama işlemleri, (1)
 f) (Değişik: 14/3/2007-5602/10 md.) Darphane ve Damga Matbaası tarafından yapılan teslim ve hizmetler, (2)
-g) (Değişik: 16/7/2004-5228/15 md.) Külçe altın, külçe gümüş, kıymetli taşlar (elmas, pırlanta, yakut, zümrüt, topaz, safir, zebercet, inci, kübik virconia) döviz, para, damga pulu, değerli kâğıtlar, hisse senedi, tahvil, varlık kiralama şirketleri tarafından ihraç edilen kira sertifikaları, Türkiye’de kurulu borsalarda işlem gören sermaye piyasası araçları ile metal, plastik, lastik, kauçuk, kâğıt, cam hurda ve atıklarının teslimi,(3)(4)(5)(6)
-h)Zirai amaçlı su teslimleri ile köy tüzel kişiliklerince köyde ikamet edenlere yapılan ticari amaçlı olmayan perakende içme suyu teslimleri, kamu kuruluşları, tarımsal kooperatifler ve çiftçi birliklerince yapılan arazi ıslahına ait hizmetler, (7)
+g) (Değişik: 16/7/2004-5228/15 md.) Külçe altın ve külçe gümüş teslimleri ile kıymetli taşların (elmas, pırlanta, yakut, zümrüt, topaz, safir, zebercet, inci) 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununa göre Türkiye’de kurulu borsalarda işlem görmek üzere ithali, borsaya teslimi ve borsa üyeleri arasında el değiştirmesi, döviz, para, damga pulu, değerli kâğıtlar, hisse senedi, tahvil, varlık kiralama şirketleri tarafından ihraç edilen kira sertifikaları, Türkiye’de kurulu borsalarda işlem gören sermaye piyasası araçları ile metal, plastik, lastik, kauçuk, kâğıt, cam hurda ve atıklarının teslimi,(3)(4)(5)(6)(7)
+h)Zirai amaçlı su teslimleri ile köy tüzel kişiliklerince köyde ikamet edenlere yapılan ticari amaçlı olmayan perakende içme suyu teslimleri, kamu kuruluşları, tarımsal kooperatifler ve çiftçi birliklerince yapılan arazi ıslahına ait hizmetler, (8)
 ı) (Ek:6/12/1984-3099/1 md.;Değişik: 16/7/2004-5228/15 md.) Serbest bölgelerde verilen hizmetler,
 j) (Ek : 3/6/1986 - 3297/6 md.) Boru hattı ile yapılan yabancı ham petrol, gaz ve bunların ürünlerinin taşınması hizmetleri.
-k) (Ek : 22/7/1998 - 4369/60 md.) Organize sanayi bölgeleri ile küçük sanayi sitelerinin kurulması amacıyla oluşturulan iktisadi işletmelerin arsa ve işyeri teslimleri(…) (8) .
+k) (Ek : 22/7/1998 - 4369/60 md.) Organize sanayi bölgeleri ile küçük sanayi sitelerinin kurulması amacıyla oluşturulan iktisadi işletmelerin arsa ve işyeri teslimleri(…) (9) .
 ––––––––––––
-(1) /6/2008 tarihli ve 5766 sayılı Kanunun 12 nci maddesiyle; bu bentte yer alan "tali acenteler dahil sigorta acente ve prodüktörlerinin" ibaresi , 1/8/2008 tarihinden geçerli olmak üzere"sigorta aracılarının sigorta şirketlerine yaptığı" şeklinde değiştirilmiş ve metne işlenmiştir.
+(1) 4/6/2008 tarihli ve 5766 sayılı Kanunun 12 nci maddesiyle; bu bentte yer alan "tali acenteler dahil sigorta acente ve prodüktörlerinin" ibaresi , 1/8/2008 tarihinden geçerli olmak üzere"sigorta aracılarının sigorta şirketlerine yaptığı" şeklinde değiştirilmiş ve metne işlenmiştir.
 (2) Bu bent 16/7/2004 tarihli ve 5228 sayılı Kanunun 15 inci maddesiyle “Darphane ve Damga Matbaası tarafından yapılan teslim ve hizmetler ile Milli Piyango İdaresi Genel Müdürlüğünce düzenlenen piyango,sayısal loto,hemen kazan ve benzeri oyunların tertiplenmesi veya oynanması,” şeklinde değiştirilmiştir.Ancak 5228 sayılı Kanunun yürürlüğünü düzenleyen 61 inci maddesinde bu değişikliğin “Milli Piyango İdaresi Genel Müdürlüğünün şans oyunlarına ilişkin işletme hakkını devrettiği işletici firmanın sözleşme ile belirlenen şans oyunlarını fiilen oynatmaya başladığı tarihte” yürürlüğe gireceği belirtilmektedir.
-(3) /6/2008 tarihli ve 5766 sayılı Kanunun 12 nci maddesiyle; bu bentte yer alan "atıkları (hurda metalden elde edilen külçeler dahil) teslimi" ibaresi "atıklarının teslimi" olarak değiştirilmiş ve metne işlenmiştir.
+(3) 4/6/2008 tarihli ve 5766 sayılı Kanunun 12 nci maddesiyle; bu bentte yer alan "atıkları (hurda metalden elde edilen külçeler dahil) teslimi" ibaresi "atıklarının teslimi" olarak değiştirilmiş ve metne işlenmiştir.
 (4) Bu bendin 2011 yılında uygulanması ile ilgili olarak 29/12/2010 tarihli ve 27800 (6.Mükerrer) sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığı’nın 114 seri numaralı Tebliğine bakınız.
 (5) 13/2/2011 tarihli ve 6111 sayılı Kanunun 85 inci maddesiyle, bu bentte yer alan “tahvil” ibaresi “tahvil, varlık kiralama şirketleri tarafından ihraç edilen kira sertifikaları” şeklinde değiştirilmiş ve metne işlenmiştir.
 (6) 31/5/2012 tarihli ve 6322 sayılı Kanunun 21 inci maddesiyle;bu bentte yer alan “kira sertifikaları” ibaresinden sonra gelmek üzere “, Türkiye’de kurulu borsalarda işlem gören sermaye piyasası araçları” ibaresi eklenmiştir.
-(7) Bu bentte bulunan; “Zirai sulama amaçlı su teslimleri.” ibaresi, 28/6/2001 tarihli ve 4697 sayılı Kanunla,"Zirai amaçlı su teslimleri ile köy tüzel kişiliklerince köyde ikamet edenlere yapılan ticari amaçlı olmayan parekende içme suyu teslimleri”şeklinde Kanunun yayımı tarihi olan 10/7/2001 tarihinden geçerli olmak üzere değiştirilmiştir.
-(8) 16/6/2009 tarihli ve 5904 sayılı Kanunun 13 üncü maddesiyle;bu bentte yer alan “ile konut yapı kooperatiflerinin üyelerine konut teslimleri” ibaresi madde metninden çıkarılmıştır.
+(7) 10/9/2014 tarihli ve 6552 sayılı Kanunun 26 ncı maddesiyle, bu bentte yer alan “Külçe altın, külçe gümüş, kıymetli taşlar (elmas, pırlanta, yakut, zümrüt, topaz, safir, zebercet, inci, kübik virconia)” ibaresi “Külçe altın ve külçe gümüş teslimleri ile kıymetli taşların (elmas, pırlanta, yakut, zümrüt, topaz, safir, zebercet, inci) 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununa göre Türkiye’de kurulu borsalarda işlem görmek üzere ithali, borsaya teslimi ve borsa üyeleri arasında el değiştirmesi,” şeklinde değiştirilmiştir.
+(8) Bu bentte bulunan; “Zirai sulama amaçlı su teslimleri.” ibaresi, 28/6/2001 tarihli ve 4697 sayılı Kanunla,"Zirai amaçlı su teslimleri ile köy tüzel kişiliklerince köyde ikamet edenlere yapılan ticari amaçlı olmayan parekende içme suyu teslimleri”şeklinde Kanunun yayımı tarihi olan 10/7/2001 tarihinden geçerli olmak üzere değiştirilmiştir.
+(9) 16/6/2009 tarihli ve 5904 sayılı Kanunun 13 üncü maddesiyle;bu bentte yer alan “ile konut yapı kooperatiflerinin üyelerine konut teslimleri” ibaresi madde metninden çıkarılmıştır.
 6480-2
 l) (Ek: 9/4/2003-4842/23 md.) 30.1.2002 tarihli ve 4743 sayılı Kanun hükümlerine göre kurulan varlık yönetim şirketlerinin bankalar, özel finans kurumları ve diğer mali kurumlardan devraldığı alacakların tahsili amacıyla bu alacakların teminatını oluşturan mal ve hakların (müzayede mahallinde satışı dahil) teslimi ile aynı Kanuna göre finansal yeniden yapılandırma çerçeve anlaşmaları hükümleri kapsamında yeniden yapılandırılan borçların ödenmemesi nedeniyle bu borçların teminatını oluşturan mal ve hakların (müzayede mahallinde satışı dahil) teslimi,
 m) (Ek: 9/4/2003-4842/23 md.; Değişik: 16/7/2004-5228/15 md.) Bankalar Kanunu uyarınca; mal ve hakların Tasarruf Mevduatı Sigorta Fonuna teslimi ile bunların Tasarruf Mevduatı Sigorta Fonu tarafından (müzayede mahallinde satışı dahil) teslimi, bu Fonun devraldığı alacakların tahsili amacıyla, bunların teminatını oluşturan mal ve hakların (müzayede mahallinde satışı dahil) teslimi ve temettü hariç ortaklık haklarıyla yönetim ve denetimleri devralınan şirketlerin aktiflerinin Fon alacaklarının tahsili amacıyla (müzayede mahallerinde yapılan satışlar dahil) teslimi,
@@ -494,10 +495,14 @@ ______________
 Geçici Madde 32 – (Ek: 24/5/2013-6487/23 md.)
 Şehir içi raylı ulaşım sistemleri, metro, tramvay, teleferik, telesiyej ve füniküler ile bunların hatları, istasyonları, yolcu terminalleri ve durakları ve bu iş ve işlemlerle ilgili tesisler ile eklenti veya bütünleyici parçalarının Ulaştırma, Denizcilik ve Haberleşme Bakanlığı, belediyeler ve bunların bağlı kuruluşları arasında yapılacak devir ve teslimleri 31/12/2023 tarihine kadar katma değer vergisinden müstesnadır.
 Bu kapsamda yapılan teslim ve hizmet ifaları için yüklenilen vergiler, vergiye tabi işlemler nedeniyle hesaplanan vergiden indirilir. İndirimle giderilemeyen vergiler iade edilmez. Maliye Bakanlığı, istisnaya ilişkin usul ve esasları belirlemeye yetkilidir.
+Geçici Madde 33 – (Ek: 10/9/2014-6552/27 md.)
+31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun geçici 41 inci maddesi kapsamında taşınmazların Sosyal Güvenlik Kurumuna devir ve teslimi ile bu taşınmazların Sosyal Güvenlik Kurumu tarafından (müzayede mahallerinde yapılan satışlar dâhil) devir ve teslimi 31/12/2023 tarihine kadar katma değer vergisinden müstesnadır.
+Bu kapsamda vergiden istisna edilen işlemler bakımından 30 uncu maddenin birinci fıkrasının (a) bendi hükmü uygulanmaz. Maliye Bakanlığı, istisnaya ilişkin usul ve esasları belirlemeye yetkilidir.
 Yürürlük:
 Madde 62 – Bu Kanunun Bakanlar Kurulu ile Maliye ve Gümrük Bakanlığına yetki veren hükümleri yayımı tarihinde, diğer hükümleri 1/1/1985 tarihinde yürürlüğe girer.
 Yürütme:
 Madde 63 – Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+6492-6
 25/10/1984 TARİHLİ VE 3065 SAYILI ANA KANUNA EKLENEMEYEN GEÇiCİ MADDELER:
 1 - 6/12/1984 tarih ve 3099 Sayılı Kanunun geçici maddesi:
 Geçici Madde – Katma Değer Vergisi Kanununun 17 nci maddesinin 3 üncü fıkrasının (c) bendi hükmü 31/12/1985'te, 4 üncü fıkrasının (ı) bendi hükmü 31/12/1988 de yürürlükten kalkar.
@@ -510,7 +515,7 @@ Geçici Madde 1 – Bu Kanunun yürürlüğe girdiği tarihten önce plaka tahdi
 Geçici Madde 1 – Bu Kanunun yürürlüğe girdiği tarihe kadar (bu tarih dahil) her bir vergi türü, vergilendirme dönemi ve vergi dairesi itibariyle miktarı 500.000 lirayı aşmayan ve vadesi geldiği halde ödenmemiş olan vergiler ile bu tarih itibariyle ihtilaflı hale getirilmiş ya da dava açma süresi henüz geçmemiş olan ve miktarı 500.000 lirayı aşmayan vergilerin % 30 fazlasıyla ve ihtilaf yaratmamak, yaratılmış ihtilaftan vazgeçmek kaydıyla 31.12.1988 tarihi sonuna kadar ödenmesi halinde, ödenen bu vergilere isabet eden gecikme zammı, gecikme faizi ve vergi cezalarının tahsilinden vazgeçilir.
 Bu Kanunun yürürlüğe girdiği tarihten önce her bir vergi türü, vergilendirme dönemi ve vergi dairesi itibariyle asılları kısmen veya tamamen ödenmiş bulunan vergilere ait olan ve her vergi türü itibariyle miktarı 500.000 lirayı aşmayan gecikme zammı, gecikme faizi ve vergi cezalarının % 30'unun 31.12.1988 tarihi sonuna kadar ödenmesi halinde, kalan % 70'inin tahsilinden vazgeçilir.
 Bu maddenin uygulanmasına ait usul ve esaslar Maliye ve Gümrük Bakanlığınca belirlenir.
-6492-6
+6492-7
 3065 Sayılı Kanunun Çeşitli Maddelerindeki Oran ve Miktarlarda
 ÇEŞİTLİ MEVZUAT İLE YAPILAN
 DEĞİŞİKLİKLER CETVELİ
@@ -537,7 +542,7 @@ Mükerrer
 Mükerrer
 13/10/1988 88/13383 15/10/1988 19960 28
 22/12/1988 88/13601 30/12/1988 20035 28
-6492-7
+6492-8
 3065 Sayılı Kanunun Çeşitli Maddelerindeki Oran ve Miktarlarda
 ÇEŞİTLİ MEVZUAT İLE YAPILAN
 DEĞİŞİKLİKLER CETVELİ
@@ -586,5 +591,4 @@ Tebliğ 73 21/1/2000 23940 28
 12/6/2009 2009/15081 16/6/2009 27260 Mük. 28
 19/8/2009 2009/15315 22/8/2009 27327 28
 27/8/2012 2012/3594 12/9/2012 28409 28
-6492-8
 6493
