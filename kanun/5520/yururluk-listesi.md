@@ -16,5 +16,7 @@ Değiştiren Kanunun Numarası | 5520 sayılı Kanunun değişen veya iptal edil
 6456 | 4 | 29/6/2012 tarihinden geçerli olmak üzere 18/4/2013
 6487 | 5 | 11/6/2013 tarihinden itibaren kaynak kuruluşlarca devredilen taşınmazlara uygulanmak üzere yayımı tarihinde
 6495 | 5 | 2/8/2013
-6815 | 5/B | 1/1/2015 tarihinden itibaren elde edilen kazanç ve iratlara ve bu tarihten itibaren yapılacak vergi kesintilerine uygulanmak üzere yayımı tarihinde (19/2/2014)
+6518 | 5/B | 1/1/2015 tarihinden itibaren elde edilen kazanç ve iratlara ve bu tarihten itibaren yapılacak vergi kesintilerine uygulanmak üzere yayımı tarihinde (19/2/2014)
 6518 | 10 | 19/2/2014
+6525 | 10 | 27/2/2014
+6552 | 10 | 11/9/2014

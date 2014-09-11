@@ -4,3 +4,5 @@ GÖSTERİR LİSTE
 Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numarası | 6446 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 6495 | GEÇİCİ MADDE 17 | 2/8/2013
 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı R. G.’de yayımlanan Tebliğ | 16 | 1/1/2014
+6552 | 15 | 11/9/2014
+12/12/2014 tarihli ve 29203 sayılı R. G.’de yayımlanan Tebliğ | 16 | 1/1/2015

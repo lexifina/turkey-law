@@ -248,7 +248,7 @@ A CETVELİ
 8318
 2711.19.00.00.11 | Sıvılaştırılmış petrol gazı (L.P.G.) |  |  | 
  | Motorlu Taşıtlarda Yakıt Olarak Kullanılacak Olanlar (Otogaz) | 1,2780 | 1,5780 (1) | Kilogram
- | Diğerleri | 1,2100 | 1,2100 (1) | Kilogram
+ | Diğerleri (2) | 1,2100 | 1,2100 (1) | Kilogram
  | (Gaz halinde) |  |  | 
 2711.21.00.00.00 | Doğal gaz |  |  | 
  | Motorlu Taşıtlarda Yakıt Olarak Kullanılacak Olanlar | 0,6964 | 0,8599 (1) | Metreküp
@@ -272,6 +272,7 @@ A CETVELİ
 3824.90.97.90.55 | Yakıt Biodizel |  | 1,1209 (1) | Litre
 ––––––––––––
 (1) Bu mallara ilişkin ÖTV tutarları 22/9/2012 tarihli ve 28419 sayılı Resmi Gazete’de yayımlanan 20/9/2012 tarihli ve 2012/3735 sayılı Bakanlar Kurulu Kararı eki Kararın 3 üncü maddesiyle 22/9/2012 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
+(2) 17/10/2014 tarihli ve 29148 sayılı Resmi Gazete’de yayımlanan 30/9/2014 tarihli ve 2014/6881 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle, bu cetveldeki vergi tutarı uygulanrak teslim edilen 2711.19.00.00.11 G.T.İ.P numaralı “Sıvılaştırılmış Petrol Gazı (L.P.G) Diğerleri” isimli malın imalatçılar tarafından aerosol üretiminde kullanılmış olduğunun tespiti halinde sözkonusu malın vergi tutarının sıfır olarak uygulanacağı hüküm altına alınmıştır.
 8318-1
 (Değişik Cetvel: 24/5/2013-6487/30 md.)
 (1) Sayılı Cetvel
@@ -400,48 +401,48 @@ NOT : Bu listedeki malların aksam ve parçaları kapsama dahil değildir. |  |
 (Değişik: 13/2/2011-6111/87 md.)
  | Mal İsmi | Vergi Oranı (%) | Uygulanacak Vergi Oranı (%) | Asgari Maktu Vergi Tutarı (TL/Lt) | Uygulanacak Asgari Maktu Vergi Tutarı (TL/Lt)
 2202.10.00.00.13 | Kolalı Gazozlar | 25 | 25 (1) | - | -
-2203.00 | Malttan üretilen biralar | 63,3 | 63 (1) | 0,44 | 0,74(1)
-22.04 | Taze üzüm şarabı (kuvvetlendirilmiş şaraplar dahil); üzüm şırası (20.09 pozisyonunda yer alanlar hariç) (2204.10 köpüklü şaraplar ve 2204.30 diğer üzüm şıraları hariç) | 63,3 | 0 (1) | 2,44 | 3,97 (1)
-2204.10 | Köpüklü şaraplar | 275,6 | 0 (1) | 16,12 | 26,83 (1)
-22.05 | Vermut ve diğer taze üzüm şarapları (bitkiler veya kokulu maddelerle aromalandırılmış) (2205.10.10.00.00, 2205.10.90.00.12 hariç) | 275,6 | 0 (1) | 22,1 | 36,81 (1)
-2205.10.10.00.00 | Alkol derecesi hacim itibariyle % 18 veya daha az olanlar | 275,6 | 0 (1) | 17,55 | 29,22 (1)
-2206.00 | Fermente edilmiş diğer içecekler (elma şarabı, armut şarabı, bal şarabı gibi), tarifenin başka yerinde belirtilmeyen veya yer almayan fermente edilmiş içeceklerin karışımları ve fermente edilmiş içeceklerle alkolsüz içeceklerin karışımları | 275,6 | 0 (1) | 2,44 | 3,97 (1)
-2205.10.90.00.12 | Alkol derecesi hacim itibariyle % 22'den fazla olanlar | 275,6 | 0 (1) | 85,8 | 118,18 (1)
-2207.20 | Alkol derecesi ne olursa olsun tağyir (denatüre) edilmiş etil alkol ve damıtım yoluyla elde edilen diğer alkollü içkiler (Alkol derecesi ne olursa olsun tağyir (denatüre) edilmiş etil alkol hariç) | 275,6 | 0 (1) | 85,8 | 118,18 (1)
-22.08 | Alkol derecesi hacim itibariyle % 80'den az olan tağyir (denatüre) edilmemiş etil alkol; damıtım yoluyla elde edilen alkollü içkiler, likörler ve diğer alkollü içecekler [(2208.90.91; 2208.90.99) Alkol derecesi hacim itibariyle % 80'den az olan tağyir (denatüre) edilmemiş etil alkol hariç, (2208.20; 2208.50; 2208.60; 2208.70 ve 2208.90 hariç)] | 275,6 | 0 (1) | 85,8 | 118,18 (1)
+2203.00 | Malttan üretilen biralar | 63,3 | 63 (1) | 0,44 | 0,85(1)
+22.04 | Taze üzüm şarabı (kuvvetlendirilmiş şaraplar dahil); üzüm şırası (20.09 pozisyonunda yer alanlar hariç) (2204.10 köpüklü şaraplar ve 2204.30 diğer üzüm şıraları hariç) | 63,3 | 0 (1) | 2,44 | 4,59 (1)
+2204.10 | Köpüklü şaraplar | 275,6 | 0 (1) | 16,12 | 31,02 (1)
+22.05 | Vermut ve diğer taze üzüm şarapları (bitkiler veya kokulu maddelerle aromalandırılmış) (2205.10.10.00.00, 2205.10.90.00.12 hariç) | 275,6 | 0 (1) | 22,1 | 42,56 (1)
+2205.10.10.00.00 | Alkol derecesi hacim itibariyle % 18 veya daha az olanlar | 275,6 | 0 (1) | 17,55 | 33,80 (1)
+2206.00 | Fermente edilmiş diğer içecekler (elma şarabı, armut şarabı, bal şarabı gibi), tarifenin başka yerinde belirtilmeyen veya yer almayan fermente edilmiş içeceklerin karışımları ve fermente edilmiş içeceklerle alkolsüz içeceklerin karışımları | 275,6 | 0 (1) | 2,44 | 4,59 (1)
+2205.10.90.00.12 | Alkol derecesi hacim itibariyle % 22'den fazla olanlar | 275,6 | 0 (1) | 85,8 | 124,23 (1)
+2207.20 | Alkol derecesi ne olursa olsun tağyir (denatüre) edilmiş etil alkol ve damıtım yoluyla elde edilen diğer alkollü içkiler (Alkol derecesi ne olursa olsun tağyir (denatüre) edilmiş etil alkol hariç) | 275,6 | 0 (1) | 85,8 | 124,23 (1)
+22.08 | Alkol derecesi hacim itibariyle % 80'den az olan tağyir (denatüre) edilmemiş etil alkol; damıtım yoluyla elde edilen alkollü içkiler, likörler ve diğer alkollü içecekler [(2208.90.91; 2208.90.99) Alkol derecesi hacim itibariyle % 80'den az olan tağyir (denatüre) edilmemiş etil alkol hariç, (2208.20; 2208.50; 2208.60; 2208.70 ve 2208.90 hariç)] | 275,6 | 0 (1) | 85,8 | 124,23 (1)
 ––––––––––––
-(1) Bu mallara ilişkin vergi oranları ve asgari maktu vergi tutarları, 1/1/2014 tarihli ve 28869 sayılı Resmi Gazete’de yayımlanan 31/12/2013 tarihli ve 2013/5761 sayılı Bakanlar Kurulu Kararı eki Kararın 4 üncü maddesiyle 1/1/2014 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
+(1) Bu mallara ilişkin vergi oranları ve asgari maktu vergi tutarları, 1/1/2015 tarihli ve 29223 sayılı Resmi Gazete’de yayımlanan 30/12/2014 tarihli ve 2014/7127 sayılı Bakanlar Kurulu Kararı eki Kararın 3 üncü maddesiyle 1/1/2015 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
 8321
- | 2208.20 | Üzüm şarabı veya üzüm cibresinin damıtılması yolu ile elde edilen alkollü içkiler | 275,6 | 0 (1) | 71,5 | 112,45 (1) | 
- | 2208.50 | Cin ve Geneva | 275,6 | 0 (1) | 57,2 | 94,09 (1) | 
- | 2208.60 | Votka (2208.60.91.00.00, 2208.60.99.00.00 hariç) | 275,6 | 0 (1) | 57,2 | 94,09 (1) | 
- | 2208.60.91.00.00 | Muhtevası 2 litreyi geçmeyen kaplarda olanlar (Alkol derecesi hacim itibariyle % 45.4'den fazla olanlar) | 275,6 | 0 (1) | 85,8 | 118,18 (1) | 
- | 2208.60.99.00.00 | Muhtevası 2 litreyi geçen kaplarda olanlar (Alkol derecesi hacim itibariyle % 45.4'den fazla olanlar) | 275,6 | 0 (1) | 85,8 | 118,18 (1) | 
- | 2208.70 | Likörler | 275,6 | 0 (1) | 78,65 | 118,18 (1) | 
- | 2208.90 | Diğerleri (2208.90.48.00.11, 2208.90.71.00.11 hariç) | 275,6 | 0 (1) | 85,8 | 118,18 (1) | 
- | 2208.90.48.00.11 | Rakı (Muhtevası 2 litreyi geçmeyen kaplarda olanlar) | 275,6 | 0 (1) | 51,48 | 89,11(1) | 
- | 2208.90.71.00.11 | Rakı (Muhtevası 2 litreyi geçen kaplarda olanlar) | 275,6 | 0 (1) | 51,48 | 89,11 (1) | 
+ | 2208.20 | Üzüm şarabı veya üzüm cibresinin damıtılması yolu ile elde edilen alkollü içkiler | 275,6 | 0 (1) | 71,5 | 124,23 (1) | 
+ | 2208.50 | Cin ve Geneva | 275,6 | 0 (1) | 57,2 | 110,48 (1) | 
+ | 2208.60 | Votka (2208.60.91.00.00, 2208.60.99.00.00 hariç) | 275,6 | 0 (1) | 57,2 | 110,48 (1) | 
+ | 2208.60.91.00.00 | Muhtevası 2 litreyi geçmeyen kaplarda olanlar (Alkol derecesi hacim itibariyle % 45.4'den fazla olanlar) | 275,6 | 0 (1) | 85,8 | 124,23 (1) | 
+ | 2208.60.99.00.00 | Muhtevası 2 litreyi geçen kaplarda olanlar (Alkol derecesi hacim itibariyle % 45.4'den fazla olanlar) | 275,6 | 0 (1) | 85,8 | 124,23 (1) | 
+ | 2208.70 | Likörler | 275,6 | 0 (1) | 78,65 | 124,23 (1) | 
+ | 2208.90 | Diğerleri (2208.90.48.00.11, 2208.90.71.00.11 hariç) | 275,6 | 0 (1) | 85,8 | 124,23 (1) | 
+ | 2208.90.48.00.11 | Rakı (Muhtevası 2 litreyi geçmeyen kaplarda olanlar) | 275,6 | 0 (1) | 51,48 | 107,72(1) | 
+ | 2208.90.71.00.11 | Rakı (Muhtevası 2 litreyi geçen kaplarda olanlar) | 275,6 | 0 (1) | 51,48 | 107,72 (1) | 
 (B) CETVELİ (1) |  |  |  | 
  | G.T.İ.P. NO | Mal İsmi | Vergi Oranı (%) | Uygulanacak Vergi Oranı (%) | Asgari Maktu Vergi Tutarı (TL) | Uygulanacak Asgari Maktu Vergi Tutarı (TL) | Uygulanacak Maktu Vergi Tutarı (TL) | 
- | 2402.10.00.00.11 | Tütün içeren purolar | 63 | 40 | 0,1325 | 0,1875 | 0,13 | 
- | 2402.10.00.00.12 | Uçları açık purolar | 63 | 40 | 0,1325 | 0,1875 | 0,13 | 
- | 2402.10.00.00.19 | Sigarillolar | 63 | 40 | 0,1325 | 0,1875 | 0,13 | 
+ | 2402.10.00.00.11 | Tütün içeren purolar | 63 | 40 | 0,1325 | 0,1971 | 0,1866 | 
+ | 2402.10.00.00.12 | Uçları açık purolar | 63 | 40 | 0,1325 | 0,1971 | 0,1866 | 
+ | 2402.10.00.00.19 | Sigarillolar | 63 | 40 | 0,1325 | 0,1971 | 0,1866 | 
 ––––––––––––
-(1) Bu listede yer alan mallara ilişkin vergi oranları , asgari maktu vergi tutarları ve maktu vergi tutarları, 1/1/2014 tarihli ve 28869 sayılı Resmi Gazete’de yayımlanan 31/12/2013 tarihli ve 2013/5761 sayılı Bakanlar Kurulu Kararı eki Kararın 4 üncü maddesiyle 1/1/2014 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
+(1) Bu listede yer alan mallara ilişkin vergi oranları , asgari maktu vergi tutarları ve maktu vergi tutarları, 1/1/2015 tarihli ve 29223 sayılı Resmi Gazete’de yayımlanan 30/12/2014 tarihli ve 2014/7127 sayılı Bakanlar Kurulu Kararı eki Kararın 3 üncü maddesiyle 1/1/2015 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
 8322
 G.T.İ.P. NO | Mal İsmi | Vergi Oranı (%) | Uygulanacak Vergi Oranı (%) | Asgari Maktu Vergi Tutarı (TL) | Uygulanacak Asgari Maktu Vergi Tutarı (TL) | Uygulanacak Maktu Vergi Tutarı (TL)
-2402.20 | Tütün içeren sigaralar | 63 | 65,25 (1) | 0,1325 | 0,1875 (1) | 0,13 (1)
+2402.20 | Tütün içeren sigaralar | 63 | 65,25 (1) | 0,1325 | 0,1971 (1) | 0,1866 (1)
 2402.90.00.00.00 | Diğerleri (Tütün yerine geçen maddelerden yapılmış purolar, uçları açık purolar, sigarillolar ve sigaralar) |  |  |  |  | 
--Tütün yerine geçen maddelerden yapılmış purolar, uçları açık purolar ve sigarillolar | 63 | 40 (1) | 0,1325 | 0,1875 (1) | 0,13(1)
--Tütün yerine geçen maddelerden yapılmış sigaralar | 63 | 65,25 (1) | 0,1325 | 0,1875 (1) | 0,13(1)
-2403.10 | İçilen tütün (Herhangi bir oranda tütün yerine geçen maddeleri içersin içermesin) (2403.10.10.00.19 ve 2403.10.90.00.19 hariç) | 63 | 65,25 (1) | 0,1325 | 0,1875 (1) | 0,13(1)
-2403.10.10.00.19 | Diğerleri (Net muhtevası 500 gramı geçmeyen ambalajlarda olanlar) | 63 | 65,25 (1) | 0,1325 | 0,0490(1) | 0,13(1)
-2403.10.90.00.19 | Diğerleri (Net muhtevası 500 gramı geçen ambalajlarda olanlar) | 63 | 65,25 (1) | 0,1325 | 0,0490(1) | 0,13(1)
-2403.99.10.00.00 | Enfiye ve çiğnemeye mahsus tütün | 63 | 65,25 (1) | 0,1325 | 0,1875 (1) | 0,13(1)
+-Tütün yerine geçen maddelerden yapılmış purolar, uçları açık purolar ve sigarillolar | 63 | 40 (1) | 0,1325 | 0,1971 (1) | 0,1866 (1)
+-Tütün yerine geçen maddelerden yapılmış sigaralar | 63 | 65,25 (1) | 0,1325 | 0,1971 (1) | 0,1866 (1)
+2403.10 | İçilen tütün (Herhangi bir oranda tütün yerine geçen maddeleri içersin içermesin) (2403.10.10.00.19 ve 2403.10.90.00.19 hariç) | 63 | 65,25 (1) | 0,1325 | 0,1971 (1) | 0,1866 (1)
+2403.10.10.00.19 | Diğerleri (Net muhtevası 500 gramı geçmeyen ambalajlarda olanlar) | 63 | 65,25 (1) | 0,1325 | 0,0515(1) | 0,1866 (1)
+2403.10.90.00.19 | Diğerleri (Net muhtevası 500 gramı geçen ambalajlarda olanlar) | 63 | 65,25 (1) | 0,1325 | 0,0515(1) | 0,1866 (1)
+2403.99.10.00.00 | Enfiye ve çiğnemeye mahsus tütün | 63 | 65,25 (1) | 0,1325 | 0,1971 (1) | 0,1866 (1)
 ––––––––––––
-(1) Bu listede yer alan mallara ilişkin vergi oranları , asgari maktu vergi tutarları ve maktu vergi tutarları, 1/1/2014 tarihli ve 28869 sayılı Resmi Gazete’de yayımlanan 31/12/2013 tarihli ve 2013/5761 sayılı Bakanlar Kurulu Kararı eki Kararın 4 üncü maddesiyle 1/1/2014 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
+(1) Bu listede yer alan mallara ilişkin vergi oranları , asgari maktu vergi tutarları ve maktu vergi tutarları, 1/1/2015 tarihli ve 29223 sayılı Resmi Gazete’de yayımlanan 30/12/2014 tarihli ve 2014/7127 sayılı Bakanlar Kurulu Kararı eki Kararın 3 üncü maddesiyle 1/1/2015 tarihinden geçerli olmak üzere metne işlendiği şekilde tespit edilmiştir.
 8323
-(IV) SAYILI LİSTE
+(IV) SAYILI LİSTE (1)
 (Değişik: 13/2/2011-6111/87 md.)
 G.T.İ.P. NO | Mal İsmi | Vergi Oranı (%)
 1604.30 | Havyar ve havyar yerine kullanılan ürünler | 20
@@ -458,9 +459,11 @@ G.T.İ.P. NO | Mal İsmi | Vergi Oranı (%)
 4103.90.90.00.13 | Diğer hayvanların pikle derileri (Koyun ve kuzuların pikle derileri hariç) [Yalnız develerin (tek hörgüçlü dahil) ham derileri] | 20
 4103.90.90.00.19 | Diğerleri (Koyun ve kuzu ile keçi ve oğlakların ham postları hariç) [Yalnız develerin (tek hörgüçlü dahil) ham derileri] | 20
 43 | Postlar, kürkler ve taklit kürkler; bunların mamülleri [Bu fasılda yer alan koyun, kuzu, keçi, oğlak ve sığırların (bufalo dahil) postları, kürkleri ve taklit kürkleri ile bunlardan mamul giyim eşyası, aksesuarları ve diğer eşya hariç] | 20
+–––––––––––––––
+(1) 10/9/2014 tarihli ve 6552 sayılı Kanunun 116 ncı maddesiyle, bu cetvelde yer alan 71.01, 71.02, 71.03, 7104.90.00.00.19, 71.05, 71.16 G.T.İ.P. numaraları ile vergi oranları belirtilen mallar listeden çıkarılmıştır.
+8324
 49.01 | Kitaplar, broşürler, risaleler ve benzeri matbuat (ayrı ayrı sayfalar halinde olsun olmasın) (Yalnız 3266 sayılı Kanunla değişik 1117 sayılı Kanun hükümlerine göre poşetlenerek satılanlar) | 20
 49.02 | Gazeteler ve periyodik yayınlar (resimli olsun olmasın veya reklam içersin içermesin) (Yalnız 3266 sayılı Kanunla değişik 1117 sayılı Kanun hükümlerine göre poşetlenerek satılanlar) | 20
-8324
 7013.10.00.10.00 | (Cam seramiğinden sofra ve mutfak eşyası) Sofra ve mutfak işleri için olanlar | 20
 7013.22.10.00.00 | (Kurşun kristalden ayaklı bardak) El imali olanlar | 20
 7013.22.90.00.00 | (Kurşun kristalden ayaklı bardak) Makine imali olanlar | 20
@@ -472,12 +475,6 @@ G.T.İ.P. NO | Mal İsmi | Vergi Oranı (%)
 7013.41.90.00.00 | (Kurşun kristalden sofra ve mutfak eşyası) Makine imali olanlar (Bardak hariç) | 20
 7013.91.10.00.00 | (Kurşun kristalden tuvalet, yazıhane ve ev tezyinatı ve benzeri işler için diğer cam eşya) El imali olanlar | 20
 7013.91.90.00.00 | (Kurşun kristalden tuvalet, yazıhane ve ev tezyinatı ve benzeri işler için diğer cam eşya) Makine imali olanlar | 20
-71.01 | Tabii inci veya kültür incileri (işlenmiş veya tasnife tabi tutulmuş olsun olmasın) (fakat ipliğe dizilmemiş, mıhlanmamış veya takılmamış); tabii inci veya kültür incileri (taşınmasında kolaylık sağlamak amacıyla geçici olarak ipliğe dizilmiş) | 20
-71.02 | Elmaslar (işlenmiş olsun olmasın, fakat mıhlanmamış veya takılmamış) (Sanayide kullanılanlar hariç) | 20
-71.03 | Kıymetli taşlar (elmaslar hariç) veya yarı kıymetli taşlar (işlenmiş veya tasnife tabi tutulmuş olsun olmasın) (fakat ipliğe dizilmemiş, mıhlanmamış veya takılmamış); kıymetli taşlar (elmaslar hariç) veya yarı kıymetli taşlar (tasnife tabi tutulmamış) (taşınmasında kolaylık sağlamak amacıyla geçici olarak ipliğe dizilmiş) | 20
-7104.90.00.00.19 | (Sanayide kullanılmayan sentetik veya terkip yoluyla elde edilen kıymetli veya yarı kıymetli taşlar) Diğerleri | 20
-71.05 | Tabii veya sentetik, kıymetli veya yarı kıymetli taşların toz ve pudraları (Sanayide kullanılanlar hariç) | 20
-71.16 | Tabii inci veya kültür incilerinden, kıymetli ya da yarı kıymetli taşlardan eşya (tabii, sentetik veya terkip yoluyla elde edilmiş) | 20
 8214.20.00.00.00 | Manikür ve pedikür takım ve aletleri (tırnak törpüleri dahil) | 20
 8325
 8215.10.20.00.11 | (Kaşık, çatal vb. takım halinde) Altın ve gümüşle kaplamalı olanlar | 20
@@ -657,4 +654,6 @@ B.K.K | 2012/3735 | 22/9/2012 | 28419 |
 B.K.K | 2012/3792 | 9/10/2012 | 28436 | 
 B.K.K | 2013/5595 | 1/12/2013 | 28838 | 
 B.K.K | 2013/5761 | 1/1/2014 | 28869 | 
+B.K.K | 2014/6881 | 17/10/2014 | 29148 | 
+B.K.K | 2014/7127 | 1/1/2015 | 29223 | 
 8328-1

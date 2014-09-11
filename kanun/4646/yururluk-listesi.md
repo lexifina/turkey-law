@@ -21,3 +21,4 @@ TEBLİĞ 23/12/2011 tarihli ve 28151 sayılı R.G | 9 | 1/1/2012 tarihinden geç
 TEBLİĞ 19/12/2012 tarihli ve 28502 sayılı R.G | 9 | 1/1/2013 tarihinden geçerli olmak üzere
 6491 | 4 | 11/6/2013
 TEBLİĞ 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı R.G | 9 | 1/1/2014
+6552 | 4 | 11/9/2014

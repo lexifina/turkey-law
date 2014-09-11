@@ -20,3 +20,4 @@ Anayasa Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/107 K.: 2013/90 sayılı K
 Değiştiren Kanunun/ KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numarası | 2577 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 6526 | 27, 28 | 6/3/2014
 6545 | 15, 17, 20, 20/A, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, Ek Madde 1, Geçici Madde 8 | 28/6/2014
+6552 | 20/B, 28 | 11/9/2014

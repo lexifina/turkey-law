@@ -15,3 +15,4 @@ Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numara
 6287 | 22, 24, 25, 26, Geçici Madde 3 | 11/4/2012
 6518 | 4 | 19/2/2014
 6528 | 43, Geçici Madde 4 | 14/3/2014
+6552 | 43 | 11/9/2014

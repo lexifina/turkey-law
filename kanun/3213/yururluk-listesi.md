@@ -11,3 +11,5 @@ Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numara
 5686 | 47 | 13/6/2007
 5995 | 2, 3, 7, 9, 10, 12, 13, 14, 16, 17, 24, 29, 30, 31, 32, 47, Ek Madde 7, 8, Geçici Madde 13, 14, 15, 16, 17, 18, 19 | 24/6/2010
 6353 | Geçici Madde 20 | 12/7/2012
+Anayasa Mahkemesi’nin 24/5/2012 tarihli ve E.: 2011/110, K.: 2012/79 sayılı Kararı | Ek Madde 1 | 21/7/2012 tarihinden başlayarak bir yıl sonra
+6552 | Ek Madde 9 | 11/9/2014

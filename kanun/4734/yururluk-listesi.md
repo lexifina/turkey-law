@@ -16,7 +16,7 @@ Değiştiren Kanunun/ KHK’nin/ Tebliğin Numarası | 4734 sayılı Kanunun de�
 5680 | 2, Ek Madde 2 | 7/6/2007
 5726 | 3, Geçici Madde 4 | 5/1/2008 tarihinden altı ay sonra
 5737 | 3, Geçici Madde 4 | 27/2/2008
-8258-17
+8258-19
 Değiştiren Kanunun/ KHK’nin/ Tebliğin Numarası | 4734 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 5763 | 22, Ek Madde 3 | 26/5/2008
 5784 | 3 | 26/7/2008
@@ -33,7 +33,7 @@ KHK/661 | 53, Geçici Madde 11, Geçici Madde 12 | 2/11/2011
 2013/1 Numaralı Tebliğ | 3, 8, 13, 21, 22, 53, 62, 67 | 1/2/2013
 6461 | 3 | 1/5/2013
 6462 | 53 | 3/5/2013
-8258-18
+8258-20
 Değiştiren Kanunun/ KHK’nin/ Tebliğin Numarası | 4734 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 6475 | Geçici Madde 4 | 23/5/2013
 6496 | 3 | 
@@ -41,3 +41,4 @@ Anayasa Mahkemesi 27/9/2012 tarihli ve E:2012/20, K:2012/132 | 65 | 26/7/2013
 6504 | 22 | 28/11/2013
 Anayasa Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/104, K.: 2013/87 sayılı Kararı | 62 | 10/12/2013 tarihinden başlayarak altı ay sonra (10/6/2014)
 6518 | 54, Ek Madde 7, Geçici Madde 14, Geçici Madde 15 53 38, 43 3, 10, 63, Geçici Madde 4 | 19/2/2014 19/2/2014 tarihinden otuz gün sonra 19/2/2014 tarihinden doksan gün sonra 19/2/2014 tarihinden yüz seksen gün sonra
+6552 | Geçici Madde 16 62, Ek Madde 8 | 11/9/2014 11/9/2014 tarihinden dört ay sonra (11/1/2015)

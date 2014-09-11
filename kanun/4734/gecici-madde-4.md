@@ -6,7 +6,7 @@ c) Bu Kanunun 3 üncü maddesinin (f) bendi gereğince yapılacak mal ve hizmet 
 Bu Kanunun 3 üncü maddesinin (e) bendi gereğince (Ek ibare: 12/6/2002-4761/18 md.) yapılacak alımlarda uygulanacak esas ve usuller Kurum tarafından, Devlet Malzeme Ofisinden yapılacak alımlara ilişkin esas ve usuller ise gerekli görülmesi halinde Maliye Bakanlığı tarafından belirlenebilir. (1)
 ––––––––––––––––––––––––––––––––––
 (1) Bu fıkrada bulunan “yapılacak alımlarda uygulanacak esas ve usuller Kurum tarafından,” ibaresi 12/6/2002 tarihli ve 4761 sayılı Kanunla eklenmiştir.
-8258-10
+8258-11
 (Ek: 12/6/2002-4761/18 md.; Değişik son fıkra: 30/7/2003-4964/40 md.) Bu Kanunun 3 üncü maddesinin (g) bendi kapsamındaki mal ve hizmetler, ilgili kuruluşların talebi üzerine Kurum tarafından belirlenir.
 (Ek fıkra: 30/7/2003-4964/40 md.) Bu Kanunun 3 üncü maddesinin (h) bendine ilişkin esas ve usuller, Sağlık Bakanlığı ve Kurumun görüşleri alınarak Maliye Bakanlığı tarafından hazırlanacak yönetmelikle belirlenir.
 (Ek fıkra: 30/7/2003-4964/40 md.) Enerji, su, ulaştırma ve telekomünikasyon sektöründe faaliyet gösteren teşebbüs, işletme ve şirketler, özel kanunları yürürlüğe girinceye kadar bu Kanunun 3 üncü maddesinin (g) bendi hükmüne, bu bent kapsamında yer almayan mal ve hizmet alımları ile yapım işlerinde ise Kanunun diğer hükümlerine tâbi olurlar. (Ek cümle: 22/12/2005-5436/13 md.) Bu Kanunun 3 üncü maddesinin (g) bendinde yer alan parasal limit, Posta ve Telgraf Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet alımları ile Türkiye Petrolleri Anonim Ortaklığının Türkiye karasuları ile uluslararası sular dahilinde petrol ve doğalgaz arama, sondaj, üretim ve taşıma faaliyetleri ile ilgili olarak yapılacak her türlü mal ve hizmet alımları ile yapım işlerinde uygulanmaz.(1)
@@ -18,4 +18,4 @@ Bu Kanunun 3 üncü maddesinin (e) bendi gereğince (Ek ibare: 12/6/2002-4761/18
 (Ek fıkra: 6/2/2014-6518/52 md.) Bu Kanunun 3 üncü maddesinin (u) bendine ilişkin usul ve esaslar, Bilim, Sanayi ve Teknoloji Bakanlığı tarafından, Kurum ile diğer ilgili kurum ve kuruluşların görüşleri alınarak belirlenir.
 ––––––––––––––––––––––––––––––––––
 (1) 9/5/2013 tarihli ve 6475 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan “Bu Kanunun 3 üncü maddesinin (g) bendinde yer alan parasal limit,” ibaresinden sonra gelmek üzere “Posta ve Telgraf Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet alımları ile” ibaresi eklenmiştir.
-8258-11
+8258-12

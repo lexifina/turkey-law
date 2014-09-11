@@ -6,5 +6,5 @@ Madde 1 – Bu kanuna göre alınacak harçlar aşağıda gösterilmiştir:
 5. Konsolosluk harçları,
 6. Pasaport, ikamet tezkeresi vize ve Dışişleri Bakanlığı tasdik harçları,
 7. Gemi ve liman harçları,
-8. İmtiyazname, ruhsatname ve diploma harçları,
+8. İmtiyazname,ruhsatname ve diploma harçları,
 9. Trafik harçları.

@@ -12,3 +12,4 @@ Anayasa Mahkemesi’nin 1/11/2012 tarihli ve E.: 2010/83, K.: 2012/169 sayılı 
 6459 | 10 | 30/4/2013
 6487 | Geçici Madde 6 ve 7 | 11/6/2013
 6495 | 22, 25, Geçici Madde 8 | 2/8/2013
+6552 | 4, 22, 23, Geçici Madde 9 | 11/9/2014

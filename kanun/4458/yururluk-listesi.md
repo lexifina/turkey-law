@@ -21,5 +21,6 @@ KHK/666 (1) | 221 222 | 1/1/2012 (1) 14/1/2012 tarihinden geçerli olmak üzere 
 6495 | 221 | 2/8/2013
 Anayasa Mahkemesinin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı | 221 222 | 10/10/2013 tarihinden başlayarak doku ay sonra (10/7/2014) 10/10/2013
 Gümrük ve Ticaret Bakanlığının 111 Seri Numaralı Tebliği | 241 | 1/1/2014
+6552 | 218, 218/A | 11/9/2014
 ––––––––––––––––
 (1) Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile 666 sayılı KHK’nin bu maddenin yürürlüğünü düzenleyen 8 inci maddesinin birinci fıkrasının (d) bendinde yer alan “ …ile 5 inci maddesinin (b), (e) ve (j) fıkraları” ibaresi iptal edilmiştir.

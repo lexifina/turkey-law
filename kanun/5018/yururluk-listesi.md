@@ -58,3 +58,6 @@ KHK/663 | (I) ve (II) Sayılı Cetvel | 2/11/2011
 6410 | (II) Sayılı Cetvel | 31/1/2013
 6458 | (I) Sayılı Cetvel | 11/4/2013
 6456 | Geçici Madde 21 | 18/4/2013
+6501 | (II) Sayılı Cetvel | 7/11/2013
+6514 | 28, Geçici Madde 19 | 18/1/2013
+6552 | 28 | 11/9/2014

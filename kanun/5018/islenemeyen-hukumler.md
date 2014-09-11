@@ -157,7 +157,7 @@ A) YÜKSEKÖĞRETİM KURULU, ÜNİVERSİTELER VE YÜKSEK TEKNOLOJİ ENSTİTÜLER
 72) (Ek: 17/5/2007-5662/9 md.) Ağrı Dağı Üniversitesi (1)
 73) (Ek: 17/5/2007-5662/9 md.) Sinop Üniversitesi
 74) (Ek: 17/5/2007-5662/9 md.) Siirt Üniversitesi
-75) (Ek: 17/5/2007-5662/9 md.) Nevşehir Üniversitesi
+75) (Ek: 17/5/2007-5662/9 md.;Değişik: 30/10/2013-6501/3 md.) Nevşehir Hacı Bektaş Veli Üniversitesi
 76) (Ek: 17/5/2007-5662/9 md.) Karabük Üniversitesi
 77) (Ek: 17/5/2007-5662/9 md.) Kilis 7 Aralık Üniversitesi
 78) (Ek: 17/5/2007-5662/9 md.) Çankırı Karatekin Üniversitesi
@@ -190,7 +190,7 @@ A) YÜKSEKÖĞRETİM KURULU, ÜNİVERSİTELER VE YÜKSEK TEKNOLOJİ ENSTİTÜLER
 105) (Ek: 31/3/2011-6218/2 md.) Adana Bilim ve Teknoloji Üniversitesi
 106) (Ek: 22/1/2013-6410/5 md.) Ankara Sosyal Bilimler Üniversitesi
 –––––––––––––––––
-(1) 19/6/2008 tarihli ve 5773 sayılı Kanunun 2 nci maddesiyle 28/3/1983 tarihli ve 2809 sayılı Kanuna eklenen Geçici 38 inci maddesinde; 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununda Ağrı Dağı Üniversitesine yapılmış olan atıfların Ağrı İbrahim Çeçen Üniversitesine yapılmış sayılacağı hüküm altına alınmıştır.
+(1)19/6/2008 tarihli ve 5773 sayılı Kanunun 2 nci maddesiyle 28/3/1983 tarihli ve 2809 sayılı Kanuna eklenen Geçici 38 inci maddesinde; 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununda Ağrı Dağı Üniversitesine yapılmış olan atıfların Ağrı İbrahim Çeçen Üniversitesine yapılmış sayılacağı hüküm altına alınmıştır.
 8690-10
 B) ÖZEL BÜTÇELİ DİĞER İDARELER(1)(2)(3)(4)(5)
 1) Savunma Sanayi Müsteşarlığı
@@ -238,7 +238,7 @@ _____________________
 35) Ceza ve İnfaz Kurumları ile Tutukevleri İş Yurtları Kurumu(3)
 36) (Ek: 21/9/2006-5544/31 md.) Meslekî Yeterlilik Kurumu(3)
 37) (Ek: 24/3/2010-5978/30 md.) Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı
-38) (Ek: 28/12/2010-6093/14 md.) Türkiye Yazma Eserler Başkanlığı
+38) (Ek: 28/12/2010-6093/14 md.) Türkiye Yazma Eserler Kurumu Başkanlığı
 39) (Ek: 6/3/2011-KHK-643/13 md.) Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı
 40) (Ek: 6/3/2011-KHK-643/13 md.) Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı
 41) (Ek: 8/8/2011-KHK-649/60 md.)Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı

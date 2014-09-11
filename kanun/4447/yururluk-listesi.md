@@ -24,3 +24,4 @@ Değiştiren Kanunun/ KHK’nin Numarası | 4447 sayılı Kanunun değişen veya
 6462 | 60 | 3/5/2013
 6518 | 49 | 19/2/2014
 6545 | Geçici Madde 12 | 28/6/2014
+6552 | 46, 50 | 11/9/2014
