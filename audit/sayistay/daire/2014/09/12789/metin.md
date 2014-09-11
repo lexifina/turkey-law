@@ -1,0 +1,3 @@
+İş Kazaları ve Meslek Hastalıkları Sigorta Prim Oranının Yüklenici Tarafından Eksik Belirlenmesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …’ye ihale edilen “Tekniker, Büro Görevlisi ve Şöfor Hizmeti Alımı” işinde İdari Şartnamede İş Kazaları ve Meslek Hastalıkları Sigorta Prim Oranı %3 olarak belirlendiği halde yüklenicinin söz konusu primi Sosyal Güvenlik Kurumuna  %1 oranı üzerinden ödenmesi sonucunda  ….. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizi …’den …. tarih ve        …. nolu tahsilat makbuzu ile tahsil edildiğinden ilişilecek husus kalmadığına   oy birliğiyle,
