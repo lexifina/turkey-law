@@ -1,0 +1,3 @@
+Bütçe İçi İşletme Olarak Faaliyet Gösteren Belediye Ekmek Fırınına Ait Kasadan Çalınan Paranın İlgili Personelden Tahsil Edilmemesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; … Belediyesi bünyesinde bütçe içi işletme olarak faaliyet gösteren Belediye Ekmek Fırınına ait kasadan çalınan ve 197 Sayım ve Tesellüm Noksanları hesabında yer alan tutarın belediye muhasebe kayıtlarında yer almaması ve ilgililerden söz konusu tutarın tahsil edilmemesi sonucu ….TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizlerinden  … tarih ve …. nolu tahsilat makbuzu ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle,
