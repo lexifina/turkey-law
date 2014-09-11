@@ -11,5 +11,5 @@ g) Genel müdürler: Emeklilik Hizmetleri Genel Müdürü, Sigorta Primleri Gene
 ifade eder.
 ––––––––––––––
 (1) 3/6/2011 tarihli ve 633 sayılı KHK’nin 35 inci maddesiyle, bu maddenin birinci fıkrasının (g) bendinde yer alan "Primsiz Ödemeler Genel Müdürü" ibaresi yürürlükten kaldırılmıştır.
-(2) 11/10/2011 tarihli ve 665 sayılı KHK’nin 9 uncu maddesiyle, bu bentte yer alan “Sosyal Sigortalar Genel Müdürü” ibaresi “Emeklilik Hizmetleri Genel Müdürü, Sigorta Primleri Genel Müdürü” şeklinde değiştirilmiş ve metne işlenmiştir.
+(2) 11/10/2011 tarihli ve 665 sayılı KHK’nin 9 uncu maddesiyle, bu bentte yer alan “Sosyal Sigortalar Genel Müdürü” ibaresi “Emeklilik Hizmetleri Genel Müdürü, Sigorta Primleri Genel Müdürü” şeklinde değiştirilmiştir.
 9756
