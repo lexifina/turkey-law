@@ -1,0 +1,3 @@
+ İş Kazaları ve Meslek Hastalıkları Sigorta Prim Oranının Yüklenici Tarafından Eksik Belirlenmesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …’a ihale edilen “İçme Suyu Kanalizasyon, Yağmur Suyu ve İş Makinası Hizmeti Alımı” işinde, İdari Şartnamede İş Kazaları ve Meslek Hastalıkları Sigorta Prim Oranı %3 olarak belirlendiği halde yüklenicinin söz konusu Primi Sosyal Güvenlik Kurumuna  %1,5 oranı üzerinden ödenmesi sonucunda ….. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizinden …. tarih ve ….. nolu muhasebe işlem fişi ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle,
