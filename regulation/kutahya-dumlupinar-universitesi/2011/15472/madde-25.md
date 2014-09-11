@@ -1,0 +1,2 @@
+Muafiyet
+MADDE 25 – (1) Bir yükseköğretim kurumundan yatay geçişle kabul olunan veya herhangi bir yükseköğretim programında okurken ÖSYM tarafından yapılan sınava girerek yeniden kayıt hakkı kazanan öğrencilerin ilgili programa intibaklarında, önceden izledikleri programda almış oldukları veya Üniversitenin ortak zorunlu derslerde açmış olduğu muafiyet sınavlarına girerek başarılı olunan dersler için Fakülte Yönetim Kurulu kararı ile muafiyet tanınır.

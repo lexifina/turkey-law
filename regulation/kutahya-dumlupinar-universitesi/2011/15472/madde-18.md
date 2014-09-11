@@ -1,0 +1,4 @@
+Mazeret sınavı
+MADDE 18 – (1) Ders kurulu sınavlarına mazereti nedeni ile giremeyen ve mazereti Fakülte Yönetim Kurulunca kabul edilenler için mazeret sınavı açılır. Ders kurulu veya stajda yeterli devamı sağlamış ve mazereti Fakülte Yönetim Kurulu tarafından kabul edilen öğrenci için ilgili ders kurulu ve staj için akademik takvimde belirtilen tarihlerde sınav hakkı verilir.
+(2) Mazeret ile ilgili başvuru, mazeret süresinin başlangıcından itibaren iki hafta içinde bizzat veya faksla yazılı olarak Dekanlığa yapılır. Bu süre dışında yapılan başvurular geçersizdir. Ancak, sağlık raporlarında bu süre, raporun veriliş tarihinden itibaren başlar.
+(3) Mazereti Fakülte Yönetim Kurulu tarafından kabul edilen öğrenci, mazeret süresi içinde derslere devam edemez ve sınavlara giremez. Aksine hareket eden öğrencinin girmiş olduğu sınavlar iptal edilir ve öğrenci hakkında ilgili mevzuat hükümlerine göre işlem yapılır.

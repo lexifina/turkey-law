@@ -1,0 +1,7 @@
+Bütünleme sınavı
+MADDE 19 – (1) Dönem sonu genel sınavı sonunda ve staj sonu sınavında başarısız olanlar bütünleme sınavlarına girebilir.
+(2) Dönem I, II ve III’ de bütünleme sınavı teorik ve/veya pratik olarak, sınavlardan en az onbeş gün sonra yapılır. Bütünleme sınavı sonunda da başarısız olan öğrenciler aynı dönemi tekrar eder.
+(3) Dönem IV veya V’de öğrenciler, dönem içinde veya dönem sonunda başarısız olduğu stajın bütünleme sınavına girebilir. Staj sınavında başarısız olan öğrenci izleyen staj grubunda staja başlatılır. Öğrenci bütünleme sınav hakkını kullanmak istediğine dair Dekanlığa yazılı dilekçe verir. Staj sonu bütünleme sınavları dönemin en son stajının bitiminden en erken onbeş gün sonra yapılır. Bütünleme sınavları otuz günlük süre içinde tamamlanır.
+(4) Dönem IV veya V’de bütünleme sınavlarının herhangi birisinden başarısız olan öğrenci stajı tekrarlar. Bir dönemin stajlarını tamamlayamayan öğrenciler, bir üst dönemden staj alamazlar.
+(5) Dönem IV veya V’deki son stajlarını tamamlayan öğrencilerin bir üst dönemin staj gruplarından birisine intibakları, dönemin hangi aşamasında olursa olsun en geç otuz gün içinde Dekanlıkça yapılır. İntibaklar, Dekanlığın belirleyeceği staj takvimi çerçevesinde uygulanır.
+(6) Dönem VI’da stajların bir veya daha fazlasından yetersizlik (başarısızlık) alan öğrencinin bütünleme sınavı hakkı olmaz. Mezun olabilmek için, yetersiz olduğu stajlarda aynı süre çalışmak ve başarı sağlamak zorundadır.

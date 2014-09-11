@@ -1,0 +1,3 @@
+Fakülteye kayıt
+MADDE 8 – (1) Fakülteye kayıt hakkı kazanan adaylar, Rektörlükçe belirlenen ve ilan edilen süre içinde bizzat veya mazeretleri varsa belirledikleri kişiler aracılığı ile kayıt yaptırabilirler. İstenen belgelerin aslı veya Fakülte tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır.
+(2) Fakülteye sadece tam zamanlı öğrenci kabul edilir. Kesin kaydını yaptıran öğrenciler birinci dönemde yer alan derslere de kaydını yaptırmış sayılır. Süresi içinde kesin kaydını yaptırmayan aday kayıt hakkını kaybeder.

@@ -1,0 +1,5 @@
+Derslere devam zorunluluğu
+MADDE 14 – (1) Öğrenci, dönem I, II ve III’ de yer alan her ders kurulunun sınavına girebilmek için, o ders kurulunda yer alan her dersin teorik % 70, pratik uygulamaların % 80’ine mazereti olmadığı sürece katılmak zorundadır.
+(2) Dönem IV ve V’de, her staj için, staj kapsamında bulunan teorik derslerin % 70’ine, pratik uygulamaların % 80’ine, dönem VI’ da ise her bir staj süresinin en az % 80’ine mazereti olmadığı sürece devam zorunluluğu vardır.
+(3) Pratik ve/veya teorik derslerden devamsızlık sınırlarını aşan öğrenciler, ilgili ders kurulunun veya stajın sınavlarına giremezler. Öğrencilerin derslere devamları, dersi veren öğretim elemanı tarafından izlenir. Devamsızlıkları nedeniyle sınavlara girme hakkı kazanamayan öğrenciler, ders kurulu sınavları, dönem sonu sınavı ve staj sınavları öncesinde Dekanlıkça ilan edilir.
+(4) (Ek:RG-11/9/2014-29116) Birinci dereceden yakınını kaybetme veya sağlık sorunları gibi haklı ve geçerli nedenle derse devam edemeyen öğrencilerin devamsızlığı uygun belge ile belgelendirmek ve toplamda üç haftayı geçmemek kaydı ile devamsızlık süresinin hesabında dikkate alınmaz.

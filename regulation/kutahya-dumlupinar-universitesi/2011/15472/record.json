@@ -1,0 +1,104 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 34 – (1) Bu Yönetmelik 2011-2012 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-11-03",
+      "03.11.2011",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2013-08-01",
+      "RG-1/8/2013-28725",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-08-01",
+      "RG-1/8/2013-28725",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-08-01",
+      "RG-1/8/2013-28725",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-11",
+      "RG-11/9/2014-29116",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-08-01",
+      "RG-1/8/2013-28725",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-08-01",
+      "RG-1/8/2013-28725",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-11",
+      "RG-11/9/2014-29116",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-11",
+      "RG-11/9/2014-29116",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-11",
+      "RG-11/9/2014-29116",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-11",
+      "RG-11/9/2014-29116",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-11",
+      "RG-11/9/2014-29116",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-08-01",
+      "1/8/2013",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2014-09-11",
+      "11/9/2014",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-11/9/2014-29116",
+  "first_law": null,
+  "gazette": "28104",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-09-11",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Kütahya Dumlupınar Üniversitesi",
+  "issuer_slug": "kutahya-dumlupinar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kutahya-dumlupinar-universitesi/2011/15472",
+  "published": "2011-11-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15472&MevzuatTertip=5",
+  "source_bytes": 69688,
+  "source_id": "8.5.15472",
+  "source_sha256": "2d1749cdb4fd8917a9e66442e8e9b9a519cd04b405988c2fd0cd52fbe59bdaa3",
+  "text_status": "current-consolidated",
+  "title": "DUMLUPINAR ÜNİVERSİTESİ TIP FAKÜLTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 190,
+  "word_count": 3351
+}
