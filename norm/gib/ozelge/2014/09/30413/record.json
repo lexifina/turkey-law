@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[9-2010/41]-876",
+  "source_id": 30413,
+  "date": "2014-09-12",
+  "title": "Eski damacanaların VUK, KV ve KDV açısından değerlendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30413",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "90e71d60a581b1af3afcbfb1af8cce8e2112deba521bc57f559a41cb69b7141e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
