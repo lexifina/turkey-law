@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[32-14/1]-875",
+  "source_id": 21683,
+  "date": "2014-09-12",
+  "title": "Eczacı olarak çalışan eşten dolayı, ücretli çalışan eşin asgari geçim indiriminden yararlanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21683",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "21f358cf26c7692ec3c902bf54a335c870d2886f2d68d929d315fc82b8f20a83",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
