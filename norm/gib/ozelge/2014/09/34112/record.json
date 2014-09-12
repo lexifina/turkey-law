@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37538499-135[15-2014-1]-27",
+  "source_id": 34112,
+  "date": "2014-09-12",
+  "title": "Beton mikserinin sökülüp, beton pompası monte edilen kamyonda ÖTV farkı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34112",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "a229ce44216f4215e4a5d9d5992ce5872a6083c68ef3c30a6d2b2878c3b9071f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
