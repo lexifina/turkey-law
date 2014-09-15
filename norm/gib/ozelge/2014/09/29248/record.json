@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "25947440-130-13",
+  "source_id": 29248,
+  "date": "2014-09-15",
+  "title": "Engelliler için yönlendirici levha teslimlerinin KDV'den istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29248",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "4c679577ba4438b51ac6e95a58105f82ca220eb44ba716dbda13f41d1113f6aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
