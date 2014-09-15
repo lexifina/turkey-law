@@ -1,0 +1,2 @@
+Oda meslekî denetim uygulamasının yapılma aşaması
+MADDE 23 – (1) Oda meslekî denetim uygulaması, serbest peyzaj mimarlığı hizmetinin onay makamına sunulduğu aşamada yapılır. Meslekî denetim uygulaması çerçevesinde yapılan incelemede varılan sonuçlar, peyzaj mimarlığı hizmetleri denetim formuna üç nüsha olarak işlenir. Formun bir örneği serbest peyzaj mimarlığı bürosuna, bir örneği ilgili idareye gönderilir. Bir nüsha Odada arşivlenir.

@@ -1,0 +1,2 @@
+Ücretli çalışmada çalışma esasları
+MADDE 34 – (1) Serbest peyzaj mimarlığı bürosunda ücretli olarak çalışan peyzaj mimarlarının sözleşmeli ve sigortalı çalıştırılması zorunludur. Serbest peyzaj mimarlığı bürosunda, peyzaj mimarlığı hizmeti yaparak ücretli olarak çalışan peyzaj mimarları haftada kırk saat ve beş iş günü esasına göre ücret alırlar. Bunun dışındaki çalışmalarda yüzde elli zamlı fazla mesai ücreti ödenir. Resmî tatil günleri ve hafta sonlarında fazla mesai ücreti yüzde yüz zamlı olarak ödenir. Yarı zamanlı çalışma ücreti de yukarıdaki esaslara göre belirlenir.

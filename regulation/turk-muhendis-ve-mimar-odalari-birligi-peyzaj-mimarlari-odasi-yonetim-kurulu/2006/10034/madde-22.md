@@ -1,0 +1,2 @@
+Serbest peyzaj mimarlığı bürosunun çalışma esasları
+MADDE 22 – (1) Serbest peyzaj mimarlığı bürosunun, yıl içinde faaliyetine başladığında, bu Yönetmelikte kayıt ve tescil için belirlenen belgelerle otuz gün içinde Odaya başvurması gereklidir. Süresi içinde yapılmayan kayıt ve tescil başvurularında ilk ay Büro Tescil Belgesi ücreti iki ile çarpılarak, sonraki her ay için yasal gecikme zammı ile birlikte alınır.

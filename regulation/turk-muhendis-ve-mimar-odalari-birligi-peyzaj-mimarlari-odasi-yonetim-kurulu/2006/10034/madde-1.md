@@ -1,0 +1,5 @@
+BÜROLARIN TESCİLİ VE ASGARÎ ÜCRET YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmelik, serbest peyzaj mimarlığı hizmetlerinde meslekî sorumlulukları tanımlayarak, ülke, toplum, meslek ve meslektaş yararına, meslek etiği doğrultusunda, bilimsel ve teknik esaslar ile yasal standartlara, Oda yönetmeliklerine uygun olarak yapılmasını sağlamak, serbest peyzaj mimarlığı hizmetleri üreten gerçek veya tüzel kişiler ile kuruluşların; eşit ve adil koşullar içerisinde çalışmalarını sağlamak ve haksız rekabeti önlemek amacı ile çalışma ve tescil esaslarını düzenlemek, belgelendirmek, yeterlik, kapasite, uzmanlaşma ve meslekî denetim yönlerinden değerlendirilmelerine esas olacak kayıtları tutmak ve kriterlerin saptanmasını sağlamak, uygulamaları izlemek, denetlemek, serbest peyzaj mimarlığı hizmetleri üreten gerçek veya tüzel kişiler ile kuruluşlarda ücretli çalışan meslektaşların ve stajyerlerin çalışma koşulları ve meslekî haklarını tanımlamak, asgarî ücretlerini belirlemek, üretilen peyzaj mimarlığı hizmetleri için asgarî ücretleri belirlemek ve meslekî denetimini sağlamak amacıyla hazırlanmıştır.

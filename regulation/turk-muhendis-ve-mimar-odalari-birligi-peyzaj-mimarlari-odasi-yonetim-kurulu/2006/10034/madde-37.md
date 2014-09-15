@@ -1,0 +1,2 @@
+Ücretli çalışanlarla ilgili hükümlere uyulmaması
+MADDE 37 – (1) Bu Yönetmeliğin ücretli çalışanlarla ilgili hükümlerine uymayan serbest peyzaj mimarlığı büroları bu Yönetmelik hükümlerine uymaları için yazılı olarak uyarılırlar. Otuz gün içinde düzeltme yoluna gidilmezse serbest peyzaj mimarlığı bürolarının tescilleri üç ay süre ile iptal edilir. Tekrarı halinde, her defasında tescil kapatma süresi iki kat artırılır. Serbest peyzaj mimarlığı bürosunun sahipleri ile yetkilileri ve ücretli çalışanları Onur Kuruluna sevk edilir.

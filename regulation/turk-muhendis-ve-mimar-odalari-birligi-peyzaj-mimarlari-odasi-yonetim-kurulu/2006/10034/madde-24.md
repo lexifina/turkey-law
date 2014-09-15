@@ -1,0 +1,2 @@
+Meslekî denetim uygulamasının onay içeriği
+MADDE 24 – (1) Serbest peyzaj mimarlığı hizmeti kapsamında gerçekleştirilen meslekî denetim uygulaması ve bu amaçla yapılan onaylama işlemi "görülmüştür" ibaresinin, Oda mührü ve yetkili kişinin imzasının dokümanlar üzerinde bulunmasıyla ve/veya meslekî denetim uygulaması yapıldığına ilişkin bir belge ile belirtilir. Bu işlem, içeriğin denetlenmesi ve onaylanması anlamına gelmez.

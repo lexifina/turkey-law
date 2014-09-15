@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.10034",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ PEYZAJ MİMARLARI ODASI SERBEST PEYZAJ MİMARLIK MÜŞAVİRLİK HİZMETLERİ UYGULAMA, MESLEKÎ DENETİM, BÜROLARIN TESCİLİ VE ASGARÎ ÜCRET YÖNETMELİĞİ",
+  "number": "10034",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Peyzaj Mimarları Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-peyzaj-mimarlari-odasi-yonetim-kurulu",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-peyzaj-mimarlari-odasi-yonetim-kurulu/2006/10034",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10034&MevzuatTertip=5",
+  "source_sha256": "51e771b63d4a7c3d8ceff5df47f2ab736bf4e0f7c5cfc4cdd4cdb376c145cd4e",
+  "source_bytes": 129064,
+  "published": "2006-03-21",
+  "gazette": "26115",
+  "in_force": "2014-09-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/9/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-09-15",
+      "RG-15/9/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-09-15",
+      "15/9/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7543,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

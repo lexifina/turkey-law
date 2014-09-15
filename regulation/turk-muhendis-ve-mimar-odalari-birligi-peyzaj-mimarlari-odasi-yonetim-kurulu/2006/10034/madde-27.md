@@ -1,0 +1,2 @@
+Tescilsiz serbest peyzaj mimarlığı faaliyetinde bulunma
+MADDE 27 – (1) Odaya kayıt ve tescilini veya yıllık tescil yenileme işlemini yaptırmadan serbest peyzaj mimarlığı hizmeti yapan serbest peyzaj mimarlığı büroları, yazılı uyarıdan sonra onbeş gün içinde düzeltme yoluna gitmezlerse; serbest peyzaj mimarlığı bürosunun yetkili serbest peyzaj mimarlarını meslekten geçici olarak uzaklaştırılma istemi ile tekrarı halinde ise uzaklaştırma süresinin iki katı arttırılması istemi ile Oda Onur Kuruluna sevkedilirler.

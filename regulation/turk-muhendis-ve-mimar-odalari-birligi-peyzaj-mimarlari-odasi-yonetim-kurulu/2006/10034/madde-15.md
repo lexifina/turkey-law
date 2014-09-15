@@ -1,0 +1,17 @@
+Serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesi verilmesi ve yenilenmesinde uyulacak esaslar
+MADDE 15 – (1) Odaya tescilini ve tescil yenilemesini yapan peyzaj mimarlarına peyzaj mimarlığı hizmetleri yapmaya yetkili olduğunu belirten serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesi verilir.
+(2) Serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesi olmayan peyzaj mimarları, serbest peyzaj mimarlığı hizmeti yapamazlar.
+(3) Serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesi verilmesi ve yenilenmesi aşağıda yazılı kurallara uygun olarak yürütülür:
+a) Serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesi, serbest peyzaj mimarı adına düzenlenir.
+b) Peyzaj mimarına birden fazla serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesi verilmez.
+c) Bu Yönetmeliğin 8 inci, 9 uncu veya 10 uncu maddelerinde belirtilen koşullardan birini sağlayan peyzaj mimarı, ilgili maddede belirtilen belgeleri tamamlayarak, iş yerinin bulunduğu ilin bağlı olduğu oda birimine yazılı olarak başvurur.
+ç) Belgeler şubeler ve temsilcilikler kanalıyla yedi gün içinde Oda Genel Merkezine iletilir. Oda, başvuru tarinden itibaren en geç otuz gün içinde tescil işlemini inceleyip sonuçlandırır.
+d) Oda Merkezi tarafından düzenlenen ve onaylanan serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesi, ilgili Oda birimlerine gönderilir. Serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesi, serbest peyzaj mimarına ilgili oda birimlerince elden verilir.
+e) Serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesi ilk tescilde, o yıl sonuna dek geçerli olmak üzere verilir. Tescil ücreti ve o yılın üyelik aidatı tam olarak alınır.
+f) Serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesi her yıl ocak ayı sonuna kadar, serbest peyzaj mimarının yazılı başvurusu ile o yıl sonuna dek geçerli olmak üzere yenilenir. Tescil yenileme ücreti ve o yılın üyelik aidatı tam olarak alınır. Belirlenmiş süresi içerisinde tescil yenilemesi yapılmamış ise yenileme işlemi yapılırken ilk tescil ücreti ve o yılın üyelik aidatı alınır.
+g) Tescil ve tescil yenileme ücretleri, her yıl Oda Yönetim Kurulu tarafından en geç aralık ayı sonunda belirlenir ve ilân edilir.
+ğ) Serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesinin kaybedilmesi durumunda, kaybın ve geçersizliğinin belgelenmesi koşulu ile yapılacak başvuru ve tescil ücretinin yatırılması durumunda, serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesi yeniden düzenlenir.
+h) Unvan, adres, statü değişikliği gibi tescile esas koşullarda olan değişiklikler, serbest peyzaj mimarının en geç otuz gün içinde yapacağı yazılı başvuru sonucunda değiştirilir.
+ı) Serbest peyzaj mimarlığı hizmetleri büro tescil belgeleri ülke çapında, karışıklığa ve tekrara neden olmaması için Oda merkezi tarafından, tescil tarihi esas alınarak, il koduna göre numaralandırılır. İptal edilen tescil numarası, bir başka serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesine verilmez. Tescili silinen serbest peyzaj mimarının, yeniden başvurusu durumunda eski belge numarası verilir.
+i) Şube veya temsilcilik değiştiren serbest peyzaj mimarı, serbest peyzaj mimarlığı hizmetleri Büro Tescil Belgesini kayıtlı olduğu şube veya temsilciliğe iade eder, yeni serbest peyzaj mimarlığı hizmetleri Tescil Belgesi nakil olduğu şube veya temsilcilik tarafından kendisine verilir.
+j) Tescil ile ilgili evraklar, Oda tarafından, üyenin meslekî faaliyeti süresince saklanır.
