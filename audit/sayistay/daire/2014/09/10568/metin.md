@@ -1,0 +1,27 @@
+Katma Değer Vergisi
+
+.......... Belediyesi tarafından basit usulde vergilendirilen mükelleflerden yapılan alımlarda, Katma Değer Vergisi Kanununun 17/4-a maddesi hükmüne göre basit usulde vergilendirilen mükelleflerin teslim ve hizmetleri katma değer vergisinden istisna olmasına rağmen, KDV ilave edilerek ödemede bulunulması sonucunda .......... -TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+3065 sayılı Katma Değer Vergisi Kanununun17/4-a maddesi ndeki düzenleme ile, Gelir Vergisi Kanununa göre vergiden muaf esnaf ile basit usulde vergilendirilen mükellefler tarafından yapılan teslim ve hizmetler katma değer vergisinden istisna tutulmuştur.
+
+Katma değer vergisi uygulamalarına ilişkin açıklamalara yer verilmiş olan 88 Seri No.lu Katma Değer Vergisi Genel Tebliği’nin “A-GELİR VERGİSİ KANUNUNA GÖRE BASİT USULDE GÖREVLENDİRİLEN MÜKELLEFLERE İLİŞKİN İSTİSNA” bölümünün 1 numaralı sırasında;
+
+“Katma Değer Vergisi Kanununun 17/4-a maddesinde 4842 sayılı Kanunla yapılan değişiklikle, Gelir Vergisi Kanununa göre basit usulde vergilendirilen mükelleflerin teslim ve hizmetleri 1/7/2003 tarihinden geçerli olmak üzere Katma Değer Vergisinden istisna edilmiştir. Bu mükelleflerin 1/7/2003 tarihinden sonra yapacakları işlemler için katma değer vergisi beyannamesi verilmeyecek, mükellefiyetleri de terkin edilecektir.
+
+Ortaklarının tamamı basit usule tabi olan adi ortaklıkların teslim ve hizmetleri de bu hüküm kapsamında değerlendirilecektir. Ancak ortaklarından en az birisi Gelir Vergisi Kanununa göre gerçek usulde vergilendirilen adi ortaklıkların teslim ve hizmetleri istisna kapsamına girmemektedir.
+
+Gelir Vergisi Kanununa göre basit usulde vergilendirilen mükelleflerin 1/7/2003 tarihinden sonra yaptıkları teslim ve hizmetlerde işlem bedeli üzerinden Katma Değer Vergisi hesaplanmayacak, bu işlemlerle ilgili olarak düzenlenecek belgelerde Katma Değer Vergisi gösterilmeyecek veya "KDV dahildir" mealinde bir şerhe yer verilmeyecektir.
+
+Ancak, hu mükelleflerin düzenleyecekleri belgelerin özel gider indirimi ve vergi iadesinde geçerli belge olarak kullanımına devam edilecektir. Kayıtları meslek odaları bünyesinde oluşturulan bürolarda tutulan basit usule tabi mükelleflerin bürolara belge tesliminde eski uygulama geçerli olacaktır.
+
+Diğer taraftan basit usule tabi mükelleflerin ellerinde bulunan belgelerde yer alan Katma Değer Vergisi sütunu, mükellefler tarafından üzeri çizilerek söz konusu belgelerin kullanılmasına devam edilecektir.” denilmektedir.
+
+3065 sayılı Katma Değer Vergisi Kanununun17/4-a maddesi ndeki hükümden ve 88 Seri No.lu Katma Değer Vergisi Genel Tebliği ile yapılan bu açıklamalardan anlaşıldığı üzere; basit usulde vergilendirilen mükelleflerden alınacak olan mal ve hizmet alımlarına karşılık ödeme yapılırken ayrıca KDV ödenmemesi gerektiği anlaşılmaktadır. Zira, böyle bir durumda ilgililerin vergi dairelerine KDV Beyannamesi vermemeleri nedeniyle tahsil ettikleri KDV’lerin üzerlerinde kalmaktadır. Denetçi iddiasında, .......... Belediyesi tarafından basit usulde vergilendirilen mükelleflerden yapılan alımlarda, KDV ilave edilerek ödemede bulunulması sonucunda .......... -TL tutarında kamu zararına neden olunduğu ileri sürülmüştür. Ancak, yapılan savunmalarında dikkate alınması suretiyle yapılan yeniden inceleme ve değerlendirilme neticesinde, Belediye tarafından yapılan söz konusu alımlara ilişkin olarak, .........nolu ödeme emri belgeleri ile .......... ’den yapılan alımlar karşılığında ödenen toplam .......... -TL tutarındaki KDV’nin, basit usulde vergilendirilen mükelleflerden yapılan alımlar neticesinde ödenmemesi gerektiği halde ödenmiş katma değer vergisi olduğu, diğer bir ifade ile kamu zararı niteliğinde olduğu görülmüştür. Ancak, yapılan savunmalar ve gönderilen savunma eki belgelerden .......... -TL tutarındaki kamu zararının ahizinden tahsil edildiği anlaşılmıştır. .......... no.lu ödeme emirleri ile .......... ’dan yapılan alımlar karşılığında ödenen toplam .......... -TL tutarındaki KDV’nin kamu zararı olduğu yönündeki tespite ise katılmak mümkün görünmemektedir. Belirtilen ödeme emri belgeleri ile çay ve meşrubat gibi ikram malzemeleri satın alınan .......... ’nın, savunmalarda da belirtildiği üzere, küçük bir çay ocağı işletttiği ve basit usulde vergiye tabi olduğu anlaşılmaktadır. .......... ’nın düzenlediği fatura defterlerinin ........Konfederasyonunca bastırıldığı ve bu faturalarda, basit usulde vergiye tabi olması sebebiyle, KDV satırına yer verilmemiştir. Bu itibarla, .......... tarafından söz konusu faturaların üzerine, KDV satırı olmamasına rağmen, “KDV dahildir.” diye not düşülmesinin, Belediye tarafından ayrıca katma değer vergisi istenmemesi amacıyla yapıldığı anlaşılmaktadır. Dolayısıyla, yapılan alımlarla ilgili olarak ayrıca KDV ödenmediğinden, kamu zararına neden olunması gibi bir durumda mevcut değildir.
+
+Bu itibarla;
+
+Basit usulde vergilendirilen mükelleflere katma değer vergisi ödemesi yapılmasından kaynaklanan .......... -TL tutarındaki kamu zararının .......... tarih ve ......no.lu tahzilat makbuzuyla Ahiz .......... ’den, ....... tahsil edildiğinden, tahsil edilmiş olan .......... TL için ilişilecek husus kalmadığına,
+
+Basit usulde vergilendirilen mükelleflere katma değer vergisi ödemesi yapılmasından kaynaklandığı iddia olunmakla birlikte, mevzuatına uygun olduğu anlaşılan .......... -TL tutarındaki ödeme için ise, ilişilecek husus bulunmadığına,
+
+Oybirliğiyle karar verildi.
