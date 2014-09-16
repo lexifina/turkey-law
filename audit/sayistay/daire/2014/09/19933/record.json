@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "130",
+  "decision_date": "2014-09-16",
+  "source_id": 19933,
+  "chamber": "6",
+  "ilam_number": "303",
+  "item_number": 29,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19933/",
+  "source_sha256": "cdbc73e5429808982893b40d364927fb4eda899b1fe6b64462547c49ae9cd433",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
