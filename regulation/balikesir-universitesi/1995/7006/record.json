@@ -1,0 +1,77 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [],
+  "date_evidence": [
+    [
+      "1995-08-08",
+      "08.08.1995",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2014-09-16",
+      "RG-16/9/2014-29121",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-16",
+      "RG-16/9/2014-29121",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-16",
+      "RG-16/9/2014-29121",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-16",
+      "RG-16/9/2014-29121",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-06-15",
+      "RG-15/6/2012-28324",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-16",
+      "RG-16/9/2014-29121",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-16",
+      "RG-16/9/2014-29121",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-16",
+      "RG-16/9/2014-29121",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-16/9/2014-29121",
+  "first_law": null,
+  "gazette": "22368",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-09-16",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Balıkesir Üniversitesi",
+  "issuer_slug": "balikesir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/balikesir-universitesi/1995/7006",
+  "published": "1995-08-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7006&MevzuatTertip=5",
+  "source_bytes": 23787,
+  "source_id": "8.5.7006",
+  "source_sha256": "57ea585f6cfac6521bc848aa4d5552a1e2f626616251f5ffc575dd1b31eeb8a6",
+  "text_status": "current-consolidated",
+  "title": "BALIKESİR ÜNİVERSİTESİ\r\nDİPLOMA, DİPLOMA DEFTERİ, MEZUNİYET BELGESİ İLE DİĞER BELGELERİN DÜZENLENMESİNE İLİŞKİN YÖNETMELİK",
+  "university_id": 182,
+  "word_count": 938
+}

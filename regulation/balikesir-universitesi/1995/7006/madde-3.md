@@ -1,0 +1,2 @@
+Diploma
+Madde 3- Her sınav dönemi sonunda, öğrenimlerini başarı ile tamamlayıp ilgili Yükseköğretim Kurumu Yönetim Kurulunca mezuniyetlerine karar verilen ve bir liste halinde Rektörlüğe bildirilen öğrenciler için Rektörlük tarafından birer diploma düzenlenir. Diplomalar için Rektörlüğe gelen mezuniyet listelerindeki sıralamaya göre hazırlanan diploma defterindeki bilgiler esas alınır. Mezuniyet listeleri, yarıyıl sonu sınav dönemi mezunlarına öncelik verilerek hazırlanır.

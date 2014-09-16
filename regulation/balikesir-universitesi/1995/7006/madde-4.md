@@ -1,0 +1,2 @@
+Mezuniyet Belgesi
+Madde 4- Diploması henüz düzenlenmemiş mezunlara, öğrenim gördükleri Kurumca mezuniyet belgesi verilir. Mezuniyet belgesinde fotoğraf yer almaz. Diploma teslim edilirken mezuniyet belgesinin iadesi gerekmez. Mezuniyet belgesini kaybedenlere dosyasındaki ikinci nüshasının fotokopisi, üzerine kaybolma nedeniyle verildiğini gösteren bir kayıt konularak verilir. (Mülga cümle:RG-16/9/2014-29121) (…)
