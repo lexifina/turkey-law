@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39398",
+  "decision_date": "2014-09-16",
+  "source_id": 8936,
+  "chamber": "8",
+  "file_number": "35230",
+  "account_year": "2008",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8936/",
+  "source_sha256": "f68811c3d97d8073cfa8173770467fc3520ff134e2df838f9b078d1c0e1ebf94",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
