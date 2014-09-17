@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-160.01.03[2013/53]-888",
+  "source_id": 22236,
+  "date": "2014-09-17",
+  "title": "Taşınmazların sahibi tarafından çocuklarına ivazsız intikalinde vergisel durum hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/22236",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "fe00c757ea5ce585d578f6bac2783b9377a27b7779e62559d818bc94dfbcffc8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
