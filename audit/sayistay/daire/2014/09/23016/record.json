@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "131",
+  "decision_date": "2014-09-18",
+  "source_id": 23016,
+  "chamber": "6",
+  "ilam_number": "320",
+  "item_number": 16,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23016/",
+  "source_sha256": "0915fee2b2302672a2f304b8e6e1f9e97c9ded597feb30e8e1ae04eb52540efd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
