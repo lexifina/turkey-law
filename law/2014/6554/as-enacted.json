@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6554",
+  "year": 2014,
+  "title": "TÜRKİYE CUMHURİYETİ HÜKÜMETİ İLE AZERBAYCAN CUMHURİYETİ HÜKÜMETİ ARASINDA TRANS ANADOLU DOĞAL GAZ BORU HATTI SİSTEMİNE İLİŞKİN MUTABAKAT ZAPTININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-09-18",
+  "gazette_issue": "29123",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140918-25.htm",
+  "source_sha256": "81e22184ffa2d94c637bf870c6f1283067e651fd973028da84359464f845b3ee",
+  "text_sha256": "6d2fd4b016b36bb2cd2442b410e6212705fa498fa23b8bb6a188c268fd55c778",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/09/18/29123-25",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140918-25.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
