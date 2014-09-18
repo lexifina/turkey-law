@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2014/49",
+  "meeting_date": "2014-09-18",
+  "meeting_date_as_published": "18.9.2014",
+  "decision_no": "37",
+  "source_id": 6545,
+  "title": "RTÜK kararı 2014/49-37",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/6545",
+  "source_sha256": "550be7bc91ab7faacb321940e83bf145381fdb8f0923c683a72edce6a8df9725",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
