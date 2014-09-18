@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6555",
+  "year": 2014,
+  "title": "TÜRKİYE CUMHURİYETİ İLE İRAN İSLAM CUMHURİYETİ ARASINDA TERCİHLİ TİCARET ANLAŞMASININ ONAYLANMASININ UYGUN BULUNDUĞUNA DAİR KANUN",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-09-18",
+  "gazette_issue": "29123",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140918-26.htm",
+  "source_sha256": "933f1becabad8852e9d6a3ad507af00b8f512b12213c2afa9ae87d1a7b654341",
+  "text_sha256": "1ec9d418d05778db33509bcb3b5cdfac8486147a9f03beb17cb1410bfcd51a4f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/09/18/29123-26",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140918-26.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
