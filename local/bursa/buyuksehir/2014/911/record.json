@@ -1,0 +1,15 @@
+{
+  "issuer": "Bursa Büyükşehir Belediye Meclisi",
+  "number": "911",
+  "decision_date": "2014-09-18",
+  "title": "Osmangazi İlçesi, Tuna Mahallesi, 1785 ada, 1-2-3-4-5-6-7-8-9-11 parsellerin 350 kişi ha Yoğunluklu Meskun Konut Alanı ndan, Parklar ve Dinlenme Alanı na alınmasına ilişkin 1 5000 ölçekli Osmangazi Nazım İmar Planı ve Dini Tesis Alanı ndan Park Alanı na alınmasına ilişkin 1 1000 ölçekli Kanalboyu Doğusu Dönüşüm Sağlıklaştırma Amaçlı Uygulama İmar Planı değişiklikleri",
+  "official_document": "https://www.bursa.bel.tr/storage/medya/meclis_karar_yeni/9227_MEC2014-20_911.pdf",
+  "source_listing": "https://www.bursa.bel.tr/meclis-kararlari?yil=2014",
+  "listing_sha256": "42429b003e58682896d52cb606934b011bb8ba4a49137843fa9573171aa35161",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision PDF linked, text not transcribed (no OCR)",
+  "date_basis": "official register Tarih column (decision date)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
