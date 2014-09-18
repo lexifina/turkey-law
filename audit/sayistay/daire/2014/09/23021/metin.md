@@ -1,0 +1,3 @@
+Teknik Personelin İşin Başında Bulundurulmaması
+
+........ Belediyesi Fen İşleri Müdürlüğünce 10.02.2012 tarihinde ……… İnşaat San. Tic. Ltd. Şti.’ye ihale edilen ve halen yapımı devam eden ………  TL sözleşme bedelli ………. Restorasyon Yapım İşinde yüklenici firma sözleşme gereği işin başında bulundurulması gereken teknik personeli işin başında bulundurmadığı halde hakediş ödemelerinden ceza kesintisi yapılmadığı ve bu suretle kamu zararına neden olunduğu görülmüş ise de; söz konusu kamu zararı 16.04.2013 tarih ve …….. no’lu ödeme emri belgesi ile tahsil edildiğinden ilişilecek husus kalmadığına, oy birliğiyle, karar verildi.
