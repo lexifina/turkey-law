@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-09-18",
+  "issue": "29123",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Finansal Araçlara İlişkin Türkiye Finansal Raporlama Standardı (TFRS 9) Hakkında Tebliğ (Sıra No: 211)’de Değişiklik Yapılmasına İlişkin Tebliğ (Sıra No: 21)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140918-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140918.htm",
+  "index_sha256": "a8a4bee119030cdbbc77dffc1d66ca89bf5e374b80ca68ad681cc0445d83c66f",
+  "index_header": "18 Eylül 2014 ... 29123 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140918.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
