@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-135[12-2013/1]-95",
+  "source_id": 38105,
+  "date": "2014-09-22",
+  "title": "ÖTV'siz alınan yakıtın kullanılamayarak ikinci döneme devredilmek istenmesi halinde YMM raporu gerekip gerekmediği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38105",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "a28484b0c4a3a220fbce921ac20e3f700b840b27b3e5ad6452d2125fec5f45a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
