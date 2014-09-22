@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2014/DK-YED/456",
+  "date": "2014-09-22",
+  "title": "157 Kısa Numarasının Devri",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2014-09-22",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=117",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/4c7b3380-79cd-4076-91e0-061e13bc26e4.pdf",
+  "source_sha256": "a9557624a965b19af29d2b1cf0746489bbf6cc74aaa1eee5d0c6813aee37848b",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2014-09-22",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 22.09.2014; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
