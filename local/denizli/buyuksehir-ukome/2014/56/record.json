@@ -1,0 +1,24 @@
+{
+  "number": "56",
+  "number_as_published": "2014/05/56",
+  "year": 2014,
+  "title": "Bozkurt İlçe Milli Eğitim Müdürlüğünün 09.09.2014 tarih ve 69495451-410.02.00.00/1577 sayılı yazısında belirtilen direksiyon sınavı güzergahı onaylanması talebi",
+  "decision_date": "2014-09-22",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=09.2014",
+  "official_document": null,
+  "source_sha256": "e8c1387d100427807b4f0a93971de4e976e7e9da6b4ef9e3716a3365f29986c3",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2014-09-22",
+  "in_force_basis": "Decision date as printed in the official council listing: 22.09.2014; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "05",
+  "listed_subjects": 1
+}
