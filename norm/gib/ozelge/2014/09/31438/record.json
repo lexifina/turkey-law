@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "35672403-010.01[130-14-32-01-2013]-139",
+  "source_id": 31438,
+  "date": "2014-09-22",
+  "title": "Uluslararası taşımacılıkta KDV iadesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31438",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "5f10ec983662c38d3d30855fb959b6a04a9762394a79a472f8fc3428ab1b4569",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
