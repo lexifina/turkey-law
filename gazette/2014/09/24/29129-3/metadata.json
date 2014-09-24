@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-09-24",
+  "issue": "29129",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "El Sanatları Eğitim Merkezi Müdürlükleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140924-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140924.htm",
+  "index_sha256": "a2aa9df37ae75d2132e88ec90e9a7c35382d6cb8d4ee8678825b054adb7cf8e2",
+  "index_header": "24 Eylül 2014 ... 29129 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140924.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
