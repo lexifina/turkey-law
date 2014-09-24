@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.20065",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 440)",
+  "number": "20065",
+  "path": "teblig/2014/20065",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20065&MevzuatTertip=5",
+  "source_sha256": "b98106770edfe6034de863bbeb9b6514273e9862129bcd869926f7527846ffc1",
+  "source_bytes": 12795,
+  "published": "2014-09-24",
+  "gazette": "29129",
+  "in_force": "2014-09-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.09.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 624,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
