@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "223",
+  "decision_date": "2014-09-25",
+  "source_id": 8916,
+  "chamber": "3",
+  "ilam_number": "300",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8916/",
+  "source_sha256": "36fb41a4b0a7263a27a5533e0c00a1c857ea8bc4e1c71ffe2305b2353ccd6650",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
