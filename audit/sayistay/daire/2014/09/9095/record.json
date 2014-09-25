@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10365",
+  "decision_date": "2014-09-25",
+  "source_id": 9095,
+  "chamber": "1",
+  "ilam_number": "65",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9095/",
+  "source_sha256": "70f94ad6a385a7496087b4c358d51fb00825a72c0173996173f3b35eb51cbc11",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
