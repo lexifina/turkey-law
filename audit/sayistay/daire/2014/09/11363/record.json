@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10366",
+  "decision_date": "2014-09-25",
+  "source_id": 11363,
+  "chamber": "1",
+  "ilam_number": "18",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11363/",
+  "source_sha256": "876a50bfc5091c87df1eac72163841a540b3023f62bbf936834fd762d7ee23e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
