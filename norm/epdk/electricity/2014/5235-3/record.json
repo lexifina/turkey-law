@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5235/3",
+  "decision_date": "2014-09-25",
+  "title": "Sakarya Elektrik Dağıtım Anonim Şirketi’nin 2014 Yılı Gelir Gereksinimi ve Dağıtım Gelir Tavanı",
+  "resmi_gazete_date": "2014-10-14",
+  "resmi_gazete_number": "29145",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lmr8l07IREo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lmr8l07IREo="
+  ],
+  "source_sha256": "2f359a098066a434c484258313b6ce1de0230216568e78b0223a394c7af692ed",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-09-25",
+  "law_text_complete": false
+}
