@@ -1,0 +1,1 @@
+Geçici Madde 1- Bu yönetmeliğin yürürlüğe girdiği tarihte 3233 Sayılı Kanunun yürürlük tarihinden sonra durumları Yönetmeliğe uygun olup da hakkında dava henüz sonuçlanmamış bulunan polisin müracaatı halinde vekalet verdiği avukatın ücreti bu Yönetmelikte belirtilen esaslar dahilinde ödenebilir.
