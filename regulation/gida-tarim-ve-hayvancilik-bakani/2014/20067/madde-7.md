@@ -1,0 +1,2 @@
+Çeşit ve çeşit adaylarında azami satış süresi
+MADDE 7 – (1) Çeşit veya çeşit adayına ait tohumluk üretimi ve pazarlama hakkı en fazla 10 yıl süre ile satılır. Süre dolduğunda araştırma kurumu çeşidi tekrar satışa sunabilir. Önceki periyotta tohumluk satış hakkını devralan tohumculuk kuruluşu/kuruluşları yeni ihaleyi kazanması durumunda veya satışın bu Yönetmeliğin 9 uncu maddesinin ikinci fıkrasına göre yapılması durumunda tekrar çeşidin tohumluk üretim ve pazarlama hakkını devralabilir.

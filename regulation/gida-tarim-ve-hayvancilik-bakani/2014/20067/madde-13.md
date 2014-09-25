@@ -1,0 +1,3 @@
+Satışı yapılacak tohumluk miktarı, elit-orijinal tohumluk üretimi
+MADDE 13 – (1) Yabancı ve kendine döllenen bitkilerde çeşit, çeşit adayı ve ıslah materyalinin satışı veya devrinde verilecek tohum/tohumluğun miktarı adet veya ağırlık olarak, araştırma kurumu ve tohumculuk kuruluşu arasında yapılacak sözleşmede belirtilir.
+(2) Araştırma kurumları; özel sektöre satış işlemini tamamladıkları çeşitlerin elit ve orijinal kademedeki tohumluk üretiminin her birini veya tamamını ek bir anlaşma ile tohumculuk kuruluşlarına devredebilir veya araştırma kurumları teknik denetimi altında tohumculuk kuruluşlarına ait tarlalarda birlikte yapabilirler. Sözleşme detayları 17 nci maddede tanımlanan Komisyon tarafından aynı çalışma esasları ile belirlenir.

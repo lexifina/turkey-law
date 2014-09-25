@@ -1,0 +1,4 @@
+Tohumluk Üretim ve Pazarlama Hakkı Satışına İlişkin Hükümler
+Satış işleminin duyurulması
+MADDE 5 – (1) Araştırma kurumlarında bu Yönetmelik kapsamında satışı yapılacak veya tohumluk üretim hakkı lisans ücreti karşılığı devredilecek çeşit, çeşit adayı ve ıslah materyali listesi ve materyalin özellikleri ve muhtemel satış zamanı araştırma kurumlarında 17 nci maddede tanımlanan Komisyon tarafından belirlenir. Belirlenen liste her yıl ocak ve temmuz ayı içerisinde TAGEM ve ıslah materyali sahibi araştırma kurumunun internet sayfalarında yayınlanır. Ayrıca internet sayfalarında yayınlanmak ve üyelerine duyurulmak üzere TÜRKTOB ve BİSAB’a ve gerekli görülen diğer kurum, kuruluş ve organizasyonlara iletilir.
+(2) TAGEM, satış işleminin her aşamasında tarımla ilgili sivil toplum kuruluşları veya kamu kurumu niteliğindeki meslek kuruluşları ile işbirliği yapabilir.

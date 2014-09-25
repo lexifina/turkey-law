@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 8/1/2004 tarihli ve 5042 sayılı Yeni Bitki Çeşitlerine Ait Islahçı Haklarının Korunmasına İlişkin Kanun, 18/4/2006 tarihli ve 5488 sayılı Tarım Kanunu, 31/10/2006 tarihli ve 5553 sayılı Tohumculuk Kanunu ve 3/6/2011 tarihli ve 639 sayılı Gıda, Tarım ve Hayvancılık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname hükümlerine dayanılarak hazırlanmıştır.

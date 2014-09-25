@@ -1,0 +1,2 @@
+Yurt dışı kullanım
+MADDE 20 – (1) Araştırma kurumunun çeşidi, çeşit adayı veya ıslah materyalini kullanarak ortaya çıkarılacak çeşidin, yurt dışı kullanım hakkı araştırma kurumunun yazılı iznini almak kaydıyla materyali devralan tohumculuk kuruluşuna aittir. Araştırma kurumu ve tohumculuk kuruluşu yurt dışında kullanımdan doğacak ıslahçı hakkının nasıl ödeneceğine dair anlaşma yaparlar. Tohumculuk kuruluşu yurt dışı satışlarından doğacak ıslahçı hakkını araştırma kurumuna öder. Ödeme yapılmaz ise satışı yapılan materyalin sahipliği satışı yapan araştırma kurumuna geçer.
