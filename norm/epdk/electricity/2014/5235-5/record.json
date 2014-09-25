@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5235/5",
+  "decision_date": "2014-09-25",
+  "title": "Başkent Elektrik Dağıtım Anonim Şirketi’nin 2014 Yılı Gelir Gereksinimi ve Dağıtım Gelir Tavanı",
+  "resmi_gazete_date": "2014-10-14",
+  "resmi_gazete_number": "29145",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ewk+yNAO8R0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ewk+yNAO8R0="
+  ],
+  "source_sha256": "07f03e2ff92434a64e7959289f5e09a31764b94de629581e180501ee9add6a98",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-09-25",
+  "law_text_complete": false
+}
