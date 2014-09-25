@@ -1,0 +1,19 @@
+Harcırah
+
+Genel Sekreterlik Makamı tarafından Destek Hizmetleri Müdür Vekili …, Dönüşüm …  Kurumu tarafından düzenlenecek “C Sınıfı İş Güvenliği Uzmanlığı Eğitimi”ne katılmak üzere … tarihleri arasında …’da görevlendirilmiştir.
+
+           6045 sayılı Harcırah Kanununun “Yurtiçi ve Yurtdışında Kurslara Katılanlara Verilecek Gündelik” başlıklı 37 nci maddesinde, mesleki bilgilerini arttırmak amacıyla memuriyet mahalli dışında açılan kurs veya okullara gönderilenlere geçici görev gündeliğinin verileceği hüküm altına alınmıştır.
+
+          Devlet memurlarının mesleki bilgilerinin artırılmasına bir başka deyişle yetiştirilmelerine ilişkin esas ve usuller, 657 sayılı Kanunun 214 ilâ 220 nci maddeleriyle düzenlenmiş bulunmaktadır.
+
+          Memurların mesleki bilgilerinin artırılmasına yönelik faaliyetler, anılan kanunun 214 üncü maddesinde, “hizmet içi eğitim” olarak adlandırılmış ve Devlet memurlarının yetiştirilmelerini sağlamak, verimliliğini artırmak ve daha ileriki görevlere hazırlamak amacıyla uygulanacak eğitim biçiminde tanımlanan hizmet içi eğitimin, Devlet Personel Dairesi tarafından ilgili kurumlarla birlikte hazırlanacak yönetmelikler dahilinde yürütüleceği ifade edilmiş; aynı kanunun değişik 2 nci maddesinde ise, bu kanunda öngörülen yönetmeliklerin Bakanlar Kurulu Kararıyla yürürlüğe konulacağı belirtilmiştir.
+
+           657 sayılı Kanun hükümleri çerçevesinde “C Sınıfı İş Güvenliği Eğitimi”ne katılmak üzere görevlendirilen destek hizmetleri personeline yurt içi geçici görev yolluğu ile konaklama gideri ödenebilmesi için, verilen kurs ya da eğitimin hizmet içi eğitim kapsamında değerlendirilmesi gerekmekte olup, bunun için usulüne uygun olarak hazırlanmış bir hizmet içi eğitim yönetmeliğinin bulunması ve yönetmelikte söz konusu kurs ya da eğitime katılmanın hizmet içi eğitim niteliğinde olduğu açıkça belirtilmiş olması şarttır.
+
+	Dolayısıyla idarenin görevlendirmesi neticesinde iştirak edilen bir eğitim ya da kurs programına harcırah ödenebilmesi için kursun ya da eğitimin meslekle alakalı olması gerekmektedir.
+
+            Öte yandan, İş Sağlığı ve Güvenliğini düzenleyen 6331 sayılı İş Sağlığı ve Güvenliği Kanununun 8 inci maddesinde; “Kamu kurum ve kuruluşlarında ilgili mevzuata göre çalıştırılan işyeri hekimi veya iş güvenliği uzmanı olma niteliğini haiz personel, gerekli belgeye sahip olmaları şartıyla asli görevlerinin yanında, belirlenen çalışma süresine riayet ederek çalışmakta oldukları kurumda veya ilgili personelin muvafakati ve üst yöneticinin onayı ile diğer kamu kurum ve kuruluşlarında görevlendirilebilir. Bu şekilde görevlendirilecek personele, görev yaptığı her saat için (200) gösterge rakamının memur aylık katsayısı ile çarpımı tutarında ilave ödeme, hizmet alan kurum tarafından yapılır. Bu ödemeden damga vergisi hariç herhangi bir kesinti yapılmaz. Bu durumdaki görevlendirmeye ilişkin ilave ödemelerde, günlük mesai saatlerine bağlı kalmak kaydıyla, aylık toplam seksen saatten fazla olan görevlendirmeler dikkate alınmaz.” şeklindeki hükümden hareketle iş güvenliği uzmanı niteliğine haiz personelin sahip olduğu belge ve görevlendirilmesi üzerine aldığı ücret kişisel nitelikte olup kurumsal bir kazanım da söz konusu olmamaktadır. Bu açıdan personelin bu nitelikteki kurs ve eğitimlere iştiraki nedeniyle idare tarafından herhangi bir ödeme yapılabilmesi mümkün değildir.
+
+Sorumlular savunmalarında, kamu zararının tahsil edildiğini bildirmişlerdir.
+
+Bu itibarla, …’a görev mahalli dışında “…. Eğitimi”ne iştiraki nedeniyle yurtiçi geçici görev yolluğu ile konaklama giderinin yersiz ödenmesi sonucu oluşan toplam … TL kamu zararının sorumlulara ortaklaşa ve zincirleme olarak ödettirilmesine karar verilmesi gerekmekte ise de, kamu zararının tamamının … tarih ve … nolu banka dekontu ile tahsil edilmiş olduğu anlaşıldığından ilişik kalmadığına oy birliğiyle,
