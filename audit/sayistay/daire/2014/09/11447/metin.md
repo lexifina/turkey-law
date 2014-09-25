@@ -1,0 +1,3 @@
+Mevzuata aykırı maktu fazla çalışma ücreti ödenmesi.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ….. Belediyesi Zabıta Müdürlüğü’nde görevli bazı zabıta personeline, 5393 sayılı Belediye Kanunu’nun 51’inci maddesine aykırı olarak fazla çalışma ücreti verilmesi sonucu …..-TL tutarında kamu zararına neden olunduğu görülmüş ise de; söz konusu kamu zararının …… ve …… ile ilgili kısmının 2014 Mart ayı bordrolarından kesinti yapılmak suretiyle; ….. ile ilgili kısmının ise ...tarih ve...no.lu tahsilât makbuzu ile tahsil edildiği anlaşıldığından, ilişilecek husus kalmadığına oy birliğiyle,
