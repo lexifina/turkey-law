@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "222",
+  "decision_date": "2014-09-25",
+  "source_id": 10603,
+  "chamber": "3",
+  "ilam_number": "27",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10603/",
+  "source_sha256": "f5835aec08199597ae7cbbe7118ee57cd9ea376f1e43d2c011beb45c0cb45fb0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
