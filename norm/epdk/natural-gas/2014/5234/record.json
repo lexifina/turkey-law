@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5234",
+  "decision_date": "2014-09-25",
+  "title": "İzmirgaz Şehir İçi Doğalgaz Dağıtım Tic. ve Taah. A.Ş.?nin (İZMİRGAZ) 2012-2016 yılları arası perakende satış tarifeleri",
+  "resmi_gazete_date": "2014-12-13",
+  "resmi_gazete_number": "29204",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=M5OkgJZQvQY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=M5OkgJZQvQY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rPf1KJ7btOM="
+  ],
+  "source_sha256": "5504960dfd4791d48f8a2b535e258a8c4b566a12c17b0c13ec10e8730284e99f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-09-25",
+  "law_text_complete": false
+}
