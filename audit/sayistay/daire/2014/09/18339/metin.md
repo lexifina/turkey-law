@@ -1,0 +1,11 @@
+Kira İşlemleri
+
+...Müdürlüğü’ne ait ...adet otobüsün dış ve iç yüzeylerinin (tavan-taban hariç) reklam alanı olarak kullanılması ve 10 (On) yıl süreyle 2886 Sayılı Devlet İhale Kanunu hükümlerine göre kiraya verilmesi ihalesinin ...Müdürlüğü yerine Büyükşehir Belediye Başkanlığı tarafından yapıldığı ve ihale sonucu elde edilen gelirin ...Müdürlüğü bütçesi ile ilişkilendirilmediği iddiasıyla iligili olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi ve duruşmada hazır bulunan sorumlularca yapılan sözlü açıklamaların dinlenilmesi sonucunda,
+
+Denetçi sorgusunda; ...Müdürlüğü’ne ait ..adet otobüsün dış ve iç yüzeylerinin (tavan-taban hariç) reklam alanı olarak kullanılması ve 10 (On) yıl süreyle 2886 Sayılı Devlet İhale Kanunu hükümlerine göre kiraya verilmesi ihalesinin ...Müdürlüğü yerine ...Belediye Başkanlığı tarafından yapıldığı ve ihale sonucu elde edilen gelirin ...Müdürlüğü bütçesi ile ilişkilendirilmediği iddia edilmekteyse de;
+
+(..ve...)’ye ait yerlerin (İşin tek elden yönetilmesinin faydaları nedeniyle) ...Belediye Encümenine verilmesine ilişkin ...Belediye Meclisi’nin ...tarih ve ... sayılı kararı çerçevesinde gerçekleştirildiği,
+
+...’nun kuruluş dayanağı olan Kanunun 13’üncü maddesinin (G)  fıkrasında ‘Kanun maddesinin diğer fıkralarında yazılı masraflar, karşılıklar ve hisseler çıkarılıp geri kalacak safi gelirden genişletme ihtiyatı olarak lüzumlu paralar da ayrıldıktan sonra kalanı belediyeler bütçelerine irat kaydolunur.’ hükmü yer aldığı,
+
+...Kanunun 13’üncü maddesi ve yukarıdaki açıklamalardan da anlaşılacağı üzere; 5216 sayılı yasanın ...belediyesine vermiş olduğu yetki çerçevesinde işlerin tek elde toplanması ile daha fazla verimliliğin sağlanması amaçlandığından, ...adet otobüse reklam alma işi ....Belediye Meclisi kararı gereği, ....Belediyesine devredilmiş olduğu, bu nedenle adı geçen işten sağlanan gelirin ...Belediyesine aktarılmasında herhangi bir sakınca bulunmadığı, Kuruluşa ...Belediyesinden ödenek aktarılmakta olduğu, bütçe kaynağı açısından herhangi bir fark olmadığı, kaldı ki ....Belediyesine bağlı bir kuruluş olan ...gelirinin ...Belediyesine aktarılmasında kamu kaynağında bir azalış meydana gelmediğinden kamu zararından söz edilemeyeceği görülmüş olmakla sorgu tutarı ...-TL ile ilgili olarak konu hakkında ilişilecek bir husus bulunmadığına oy birliğiyle,
