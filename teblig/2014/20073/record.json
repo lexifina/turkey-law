@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20073",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2014/2)",
+  "number": "20073",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2014/20073",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20073&MevzuatTertip=5",
+  "source_sha256": "e15e59dc4a8a9ff140c95fff5ddc7aca554b646268f8150a527c894706bcb0c7",
+  "source_bytes": 52626,
+  "published": "2014-09-26",
+  "gazette": "29131",
+  "in_force": "2014-09-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.09.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 818,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
