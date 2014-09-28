@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-09-28",
+  "issue": "29133",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Hukuk Muhakemeleri Kanunu Tanık Ücret Tarifesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140928-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140928.htm",
+  "index_sha256": "2589f4fa1798da82bd3ddb3869657d7b7421bd16a5e7f9d74dbdfeed0028e4c7",
+  "index_header": "28 Eylül 2014 ... 29133 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140928.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
