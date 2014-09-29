@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[65-2013/779]-2303",
+  "source_id": 23439,
+  "date": "2014-09-29",
+  "title": "Doktorun çeşitli alanlarda almış olduğu uzmanlık eğitimleri ile ilgili olarak icra edeceği serbest meslek faaliyetleri (danışmanlık, eğitim vb.)için POS cihazı kullanıp kullanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/23439",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "a693bfdda1c4f2dd64ae3cfc42337ef7e55477da17cb04a17d4e023ae4820a4d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
