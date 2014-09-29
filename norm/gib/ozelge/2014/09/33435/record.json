@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.32-2298",
+  "source_id": 33435,
+  "date": "2014-09-29",
+  "title": "Şirket adına tescil edilmeyen simülatör yapmak ve kalan parçalarını piyasada satmak için alınan binek otonun KDV'sinin indirim konusu yapılıp yapılamaycağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33435",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "92362997be3a7a882a4c344212eeb7249fb2001ef422e36ef6d3ae4d66039457",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
