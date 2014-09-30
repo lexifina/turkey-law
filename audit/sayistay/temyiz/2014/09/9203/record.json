@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39490",
+  "decision_date": "2014-09-30",
+  "source_id": 9203,
+  "chamber": "4",
+  "file_number": "37202",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9203/",
+  "source_sha256": "93e40ae36c55c80bf28d97f11cb93578805266379a4ffa9412c566ff39292e1d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
