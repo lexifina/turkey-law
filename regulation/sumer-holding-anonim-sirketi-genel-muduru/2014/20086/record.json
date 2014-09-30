@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20086",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SÜMER HOLDİNG ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "20086",
+  "issuer": "Sümer Holding Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "sumer-holding-anonim-sirketi-genel-muduru",
+  "path": "regulation/sumer-holding-anonim-sirketi-genel-muduru/2014/20086",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20086&MevzuatTertip=5",
+  "source_sha256": "56733c042e4444d86cf7af2f637260a5eaf1b2c82d40b4c6f41269fa34aa8dec",
+  "source_bytes": 49986,
+  "published": "2014-09-30",
+  "gazette": "29135",
+  "in_force": "2014-09-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.09.2014); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2573,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
