@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[257-2012/VUK-1- . . .]-2312",
+  "source_id": 26832,
+  "date": "2014-09-30",
+  "title": "Bedelsiz Ortaklık Payının Muhasebeleştirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/26832",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "0bb07089db888fd0cbd78f29d06e0599d2a8fd883c309ed8e105ff82f3400681",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
