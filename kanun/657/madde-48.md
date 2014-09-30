@@ -8,7 +8,6 @@ A) Genel şartlar:
 2. Bu Kanunun 40 ncı maddesindeki yaş şartlarını taşımak,
 3. Bu Kanunun 41 nci maddesindeki öğrenim şartlarını taşımak,
 4. Kamu haklarından mahrum bulunmamak,
-(Dikkat! devamı 4199 uncu sayfadadır.)
 ———————————
 (1) Bulgaristan'dan Türkiye'ye mecburi göç eden Türk soyundan olanlarda bu şartın aranmıyacağı 27/6/1989 tarih ve 375 sayılı KHK'nin geçici 5 inci maddesi ile hükme bağlanmıştır.
 4199
