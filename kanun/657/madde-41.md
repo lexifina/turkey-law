@@ -1,8 +1,3 @@
 Sınıflandırmada öğrenim unsuru:
 Madde 41 – (Değişik: 30/5/1974 - KHK - 12/1 md.; Aynen kabul: 15/5/1975 - 1897/1 md.)
 Genel olarak ortaokulu bitirenler memur olabilirler. Ortaokul mezunlarından istekli bulunmadığı takdirde ilkokulu bitirenlerin de alınması caizdir. Bir sınıfta belli görevlere atanabilmek veya bu görevlerde belli derecelere yükselebilmek için, kuruluş kanunları veya bu kanun ve kuruluş kanunlarına dayanılarak çıkarılacak yönetmelikler ile işin gereğine göre daha yüksek öğrenim dereceleri veya muayyen fakülte, okul veya öğrenim dallarını veya meslek içi veya meslekle ilgili eğitim programlarını bitirmiş olmak veya yabancı dil bilmek gibi şartlar konulabilir.
-–––––––––––
-(1) 11/10/2011 tarihli ve 666 sayılı KHK’nın 5 inci maddesiyle bu fıkrasında yer alan “, ek gösterge, makam tazminatı ve benzeri mali haklar ile intibak ve diğer özlük haklarının” ibaresi “ile intibak ve diğer haklarının” şeklinde değiştirilmiştir.
-(2) 1/12/2011 tarihli ve 6253 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer “Cumhurbaşkanlığı Genel Sekreterliği ve Türkiye Büyük Millet Meclisi Genel Sekreterliği teşkilatlarında” ibaresi “Cumhurbaşkanlığı Genel Sekreterliğinde ve Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatında” şeklinde değiştirilmiş ve metne işlenmiştir.
-(3) 13/2/2011 tarihli ve 6111 sayılı Kanunun 117 nci maddesiyle, bu maddede yer alan “son altı yıllık sicil notu ortalaması doksan ve daha yukarı olanlardan son sicil notu olumlu bulunanların” ibaresi “son sekiz yıllık süre içinde herhangi bir disiplin cezası almayanların” olarak değiştirilmiş ve metne işlenmiştir.
-4194
