@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-09-30",
+  "issue": "29135",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sümer Holding Anonim Şirketi Genel Müdürlüğü Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140930-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140930.htm",
+  "index_sha256": "4111983d77d3b957b8c6a1d3aa387ac0727586d26260475f2583c687758b541a",
+  "index_header": "30 Eylül 2014 ... 29135 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/09/20140930.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
