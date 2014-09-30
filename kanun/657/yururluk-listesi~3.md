@@ -27,3 +27,4 @@ Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/89, K.: 2013/29 sayılı K
 6519 | Ek Madde 41 | 22/2/2014
 6525 | 36, 104, 152, I sayılı Cetvel, IV sayılı Makam Tazminatı Cetveli | 27/2/2014
 Anayasa Mahkemesi’nin 14/11/2013 tarihli ve E.: 2013/15, K.: 2013/131 sayılı Kararı | 57 | 28/2/2014
+6528 | 36, 152, I sayılı Cetvel | 14/3/2014
