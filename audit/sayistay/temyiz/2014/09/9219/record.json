@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39506",
+  "decision_date": "2014-09-30",
+  "source_id": 9219,
+  "chamber": "4",
+  "file_number": "37558",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9219/",
+  "source_sha256": "29802a9a3c4205aaf4959a56a9988276b1a5dc613cd94b7b4c1844b60f564f63",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
