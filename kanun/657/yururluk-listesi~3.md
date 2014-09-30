@@ -20,3 +20,4 @@ Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı 
 Anayasa Mahkemesi’nin 22/11/2012 tarihli ve E.: 2011/148, K.: 2012/186 sayılı Kararı | (II) sayılı Ek Gösterge cetveli | 8/10/2013 tarihinden altı ay sonra (8/4/2014)
 Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı | 152 | 10/10/2013
 Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/89, K.: 2013/29 sayılı Kararı | Geçici Madde 38 | 31/12/2013 tarihinden dokuz ay sonra (30/9/2014)
+6514 | 28, Ek Madde 33 | 18/1/2014
