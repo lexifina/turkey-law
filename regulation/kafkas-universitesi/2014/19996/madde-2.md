@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 ve 49 uncu maddeleri, 4/12/2008 tarihli ve 27074 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik ile 28/8/2012 tarihli ve 28395 sayılı Resmî Gazete’de yayımlanan Kafkas Üniversitesi Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği hükümlerine dayanılarak hazırlanmıştır.

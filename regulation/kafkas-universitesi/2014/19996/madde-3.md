@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Alt birim koordinatörlüğü: Hazırlık Birimi, Kurslar Birimi, Kafkasya ve Slav Dilleri Birimi, Doğu ve Uzak Doğu Dilleri Birimi ve Batı Dilleri Birimi Koordinatörlüğünü,
+b) AODK: Avrupa ortak dil kriterlerini (Common Europen Framework of Reference for Languages: CEFR),
+c) Ara sınavlar: Yabancı dil hazırlık programı eğitim-öğretim süresince yılda en az iki kez yapılan sınavları,
+ç) Birim: Kafkas Üniversitesine bağlı fakülte/yüksekokul/konservatuar/meslek yüksekokulunu,
+d) Bütünleme sınavı: Eğitim-öğretim yılı sonunda yapılan, hazırlık sınıfına devam eden ve yılsonu sınavında başarısız olan öğrencilerin girdiği sınavı,
+e) Dönem ara sınav notu: Dört temel dil becerisi için ayrı ayrı yapılan sınavlardan elde edilen puanların ağırlığına göre saptanan döneme ait vize notunu,
+f) Dört temel dil becerisi: Avrupa Ortak Dil Kriterleri düzey tanımlamalarında kullanılan okuma, yazma, dinleme-anlama ve konuşma becerilerini (Ek),
+g) Meslekî yabancı dil dersleri: Yabancı dil hazırlık programını başarmış veya muaf tutulmuş önlisans ve lisans öğrencilerine eğitimleri boyunca verilen mesleğe yönelik yabancı dil derslerini,
+ğ) Muafiyet ve düzey belirleme sınavı: Eğitim-öğretim yılı başında yapılan, hazırlık programına dahil olan öğrencilerden; hazırlık sınıfından muaf olacaklar ile hazırlık sınıfına devam edeceklerin yabancı dil seviyelerini ve bu seviyelerine göre sınıflarını belirleyen sınavı,
+h) Ortak zorunlu yabancı dil dersleri muafiyet sınavı: 2547 sayılı Yükseköğretim Kanununun 5 inci maddesinin birinci fıkrasının (ı) bendinde belirtilen zorunlu yabancı dil derslerinden muaf olmak için girilen sınavı,
+ı) Rektör: Kafkas Üniversitesi Rektörünü,
+i) Senato: Kafkas Üniversitesi Senatosunu,
+j) Üniversite: Kafkas Üniversitesini,
+k) Yabancı dil hazırlık programı: Yüksekokul tarafından yürütülen yabancı dil hazırlık eğitim-öğretimini,
+l) Yabancı dil/seçmeli ikinci yabancı dil dersleri: 2547 sayılı Yükseköğretim Kanununun 5 inci maddesinin birinci fıkrasının (ı) bendine göre verilen ortak zorunlu yabancı dil derslerini ve bunun dışındaki diğer yabancı dil derslerini,
+m) Yaz okulu: Yaz döneminde uygulanan yabancı dil ve Türkçe hazırlık destek programını,
+n) Yılsonu Sınavı: Hazırlık sınıflarının eğitim-öğretim yılı sonunda yapılan sınavı,
+o) Yüksekokul Kurulu: Kafkas Üniversitesi Yabancı Diller Yüksekokulu Kurulunu,
+ö) Yüksekokul Müdürlüğü (Müdürlük): Kafkas Üniversitesi Yabancı Diller Yüksekokulu Müdürlüğünü,
+p) Yüksekokul Yönetim Kurulu: Kafkas Üniversitesi Yabancı Diller Yüksekokulu Yönetim Kurulunu,
+ifade eder.

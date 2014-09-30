@@ -1,0 +1,2 @@
+Seçmeli ikinci yabancı dil ve ileri yabancı dil dersleri
+MADDE 19 – (1) Hazırlık programı olan birimlerin anabilim dalı/bölümlerinde hangi dilde/dillerde seçmeli ikinci yabancı dil ve ileri yabancı dil dersleri okutulacağına birimin kendisi karar verir. Bunun için ilgili birim, açılacak derslerin kapsamı, içeriği ve kredilerini tespit ederek eğitim-öğretim yılı başlamadan iki ay önce Yüksekokul Müdürlüğüne bildirir. Bu talep üzerine Yüksekokul Müdürlüğü seçmeli ikinci yabancı dil ve ileri yabancı dil dersini/derslerini açar ve yürütür.

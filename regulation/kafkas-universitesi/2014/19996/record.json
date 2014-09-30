@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 23 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-08-24",
+      "24.08.2014",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2014-09-30",
+      "RG-30/9/2014-29135",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-30/9/2014-29135",
+  "first_law": null,
+  "gazette": "29098",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-09-30",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Kafkas Üniversitesi",
+  "issuer_slug": "kafkas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kafkas-universitesi/2014/19996",
+  "published": "2014-08-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19996&MevzuatTertip=5",
+  "source_bytes": 53606,
+  "source_id": "8.5.19996",
+  "source_sha256": "d031a17c59443c11239ad4c0ddaab97d77d0df584a2bfc646d83aa99dc5b3ba0",
+  "text_status": "current-consolidated",
+  "title": "KAFKAS ÜNİVERSİTESİ YABANCI DİLLER YÜKSEKOKULU YABANCI DİL VE TÜRKÇE HAZIRLIK SINIFLARI EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 206,
+  "word_count": 3102
+}

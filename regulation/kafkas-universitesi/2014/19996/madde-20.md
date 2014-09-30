@@ -1,0 +1,2 @@
+Mesleki yabancı dil dersleri
+MADDE 20 – (1) Mevzuat veya ders programında mesleki yabancı dil dersi/dersleri bulunan birimler, bu derslerin eğitim-öğretiminde Yüksekokuldan faydalanabilir. Bunun için ilgili birim, açılacak derslerin kapsamı, içeriği ve kredilerini tespit ederek eğitim-öğretim yılı başlamadan iki ay önce Yüksekokul Müdürlüğüne bildirir. Bu talep üzerine Yüksekokul Müdürlüğü mesleki yabancı dil dersini/derslerini açar ve yürütür.

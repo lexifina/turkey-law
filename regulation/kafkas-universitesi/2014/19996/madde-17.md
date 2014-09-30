@@ -1,0 +1,2 @@
+Hazırlık sınıfları yaz okulu
+MADDE 17 – (1) Yüksekokul Yönetim Kurulunun teklifi ve Senatonun onayı ile yaz okulu programı açılabilir. Eğitim-öğretim yılı sonunda başarısızlıktan veya devamsızlıktan kalan öğrenciler bu haktan yararlanabilirler. Bu Yönetmelik hükümleri yaz okulunda da uygulanır. Kafkas Üniversitesi Yaz Okulu Yönetmeliğinin 6 ncı ve 7 nci maddeleri gereğince yaz okulu programı süresi yedi hafta olup başlama ve bitiş tarihleri Senato tarafından belirlenir.
