@@ -24,3 +24,4 @@ Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayıl�
 Anayasa Mahkemesi’nin 14/2/2013 tarihli ve E.: 2011/89, K.: 2013/29 sayılı Kararı | Geçici Madde 38 | 31/12/2013 tarihinden dokuz ay sonra (30/9/2014)
 6514 | 28, Ek Madde 33 | 18/1/2014
 6518 | 72 | 19/2/2014
+6519 | Ek Madde 41 | 22/2/2014
