@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "» ANKARA KALKINMA AJANSI",
+  "category": "Kalkınma Ajansları",
+  "category_id": "33-kalkinma-ajanslari",
+  "report_year": 2013,
+  "report_date": "2014-10-01",
+  "date_precision": "month",
+  "date_as_printed": "Ekim 2014",
+  "source": "https://www.sayistay.gov.tr/reports/47o8XVDoy6-ankara-kalkinma-ajansi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/47o8XVDoy6-ankara-kalkinma-ajansi",
+  "source_sha256": "576c3d70f3ed415d6470ce277d000d25baba697ccdefd73079f25f9cca6f223a",
+  "pdf_pages": 29,
+  "listing": "https://www.sayistay.gov.tr/reports/category/33-kalkinma-ajanslari?page=10",
+  "listing_sha256": "aebbc3dfaf53e966ebfe981636dcb6f487fb30539b2cba4b4ae7991f6a6492ff",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-10-01",
+  "in_force_basis": "Official report PDF cover: \"Ekim 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
