@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "TÜRK DİL KURUMU",
+  "category": "Özel Bütçeli İdareler - B",
+  "category_id": "27-ozel-butceli-idareler---b",
+  "report_year": 2013,
+  "report_date": "2014-10-01",
+  "date_precision": "month",
+  "date_as_printed": "Ekim 2014",
+  "source": "https://www.sayistay.gov.tr/reports/r14QO4XYb3-turk-dil-kurumu",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/r14QO4XYb3-turk-dil-kurumu",
+  "source_sha256": "be9eebb56fcb41c45bac3ceea53c864b17f4b903c3cf27a64ea22d5074faa1fd",
+  "pdf_pages": 18,
+  "listing": "https://www.sayistay.gov.tr/reports/category/27-ozel-butceli-idareler---b?page=49",
+  "listing_sha256": "da7c0de47cf0239e13aca837330a0e780f4da36224500b5329be1833df739daa",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-10-01",
+  "in_force_basis": "Official report PDF cover: \"Ekim 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
