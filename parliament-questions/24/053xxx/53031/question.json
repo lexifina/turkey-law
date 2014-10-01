@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 24,
+  "legislative_year": 5,
+  "esas_no": "7/53031",
+  "submitted": "2014-10-01",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Özcan YENİÇERİ",
+  "province": "Ankara",
+  "summary": "30 Mart 2013-30 Mart 2014 tarihleri arasında Aksaray Belediyesinin belediye şirketlerine sattığı ve kiraladığı taşınmazlara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bf-e16a-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "01443c675fa868ddb04eb24c51294829ab771ef3b84d78c73a0d7bda67a56849",
+  "in_force": "2014-10-01",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
