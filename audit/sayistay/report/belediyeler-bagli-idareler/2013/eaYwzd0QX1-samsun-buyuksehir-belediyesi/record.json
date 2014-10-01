@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "SAMSUN BÜYÜKŞEHİR BELEDİYESİ",
+  "category": "Belediyeler - Bağlı İdareler",
+  "category_id": "31-belediyeler---bagli-idareler",
+  "report_year": 2013,
+  "report_date": "2014-10-01",
+  "date_precision": "month",
+  "date_as_printed": "Ekim 2014",
+  "source": "https://www.sayistay.gov.tr/reports/eaYwzd0QX1-samsun-buyuksehir-belediyesi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/eaYwzd0QX1-samsun-buyuksehir-belediyesi",
+  "source_sha256": "8a5ec2560c8dc9b1565e86b2d8165c077a9e925c16c7cbdc746fcf19032e3709",
+  "pdf_pages": 30,
+  "listing": "https://www.sayistay.gov.tr/reports/category/31-belediyeler---bagli-idareler?page=309",
+  "listing_sha256": "ac87b087f2067724e61b746c8403d5a0c7e80d111c97d253b5daa9f759dcd9cf",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-10-01",
+  "in_force_basis": "Official report PDF cover: \"Ekim 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
