@@ -1,0 +1,47 @@
+{
+  "source_id": "9.5.11433",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SİGORTA BRANŞLARINA İLİŞKİN TEBLİĞ TEBLİĞ NO: (2007/1)",
+  "number": "11433",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2007/11433",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11433&MevzuatTertip=5",
+  "source_sha256": "1dd95aa6f6b343c4dba42f0cc15b2f7fceac2a1bfced5356bab1d37b09730ad7",
+  "source_bytes": 34652,
+  "published": "2007-07-11",
+  "gazette": "26579",
+  "in_force": "2014-10-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/10/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-10-01",
+      "RG-1/10/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-10-01",
+      "1/10/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-08-05",
+      "RG-5/8/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 918,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
