@@ -1,0 +1,25 @@
+{
+  "kind": "audit-report",
+  "issuer": "Sayıştay Başkanlığı",
+  "title": "» TRAKYA KALKINMA AJANSI",
+  "category": "Kalkınma Ajansları",
+  "category_id": "33-kalkinma-ajanslari",
+  "report_year": 2013,
+  "report_date": "2014-10-01",
+  "date_precision": "month",
+  "date_as_printed": "Ekim 2014",
+  "source": "https://www.sayistay.gov.tr/reports/0wgv5XMolL-trakya-kalkinma-ajansi",
+  "official_document": "https://www.sayistay.gov.tr/reports/download/0wgv5XMolL-trakya-kalkinma-ajansi",
+  "source_sha256": "accafeb705c82efcc270a50650423c117c79398aa9b50fe3e39040d0c2cc09a2",
+  "pdf_pages": 30,
+  "listing": "https://www.sayistay.gov.tr/reports/category/33-kalkinma-ajanslari?page=13",
+  "listing_sha256": "55e39efabb0a7b864dc8dc06b7f606bc6125a79c384ce9a68115e20a8e7bf2d1",
+  "history_type": "metadata",
+  "text_status": "metadata-only: report text is in the linked official PDF, not transcribed",
+  "in_force": "2014-10-01",
+  "in_force_basis": "Official report PDF cover: \"Ekim 2014\" (month of the report as printed; the report prints no day, so the 1st of that month is used); audit report, no legislative commencement inferred",
+  "missing": [
+    "official report text"
+  ],
+  "law_text_complete": false
+}
