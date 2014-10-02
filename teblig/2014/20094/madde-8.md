@@ -1,0 +1,9 @@
+Görüntüleme
+MADDE 8 – (1) Sınıflandırılacak radyografiler ve standart radyografilerin görüntülenebilmesi için negatoskoplar; okuyucunun çapı sadece bir milimetre olan opasiteleri görebilmesi için yaklaşık 250 milimetrelik bir mesafede olmalıdır. Gerektiğinde bu mesafe iki misline kadar çıkartılabilir. Aynı zamanda radyografinin tümünü değerlendirmek esastır.
+(2) Akciğer radyografisinin konulacağı negataskop en az iki gözlü olmalıdır. Sınıflandırılacak radyografi ile ILO standart radyografiler arası kıyaslamaya olanak veren en az üç gözlü negatoskopun kullanılması önerilmektedir.
+(3) Değerlendirilecek radyografi ortaya, karşılaştırma için kullanılacak ILO standart radyografileri yanlara konulmalıdır. Diğer ILO standart radyografileride karşılaştırma için okuyucunun kolayca erişebileceği bir mesafede olmalıdır.
+(4) Dijital akciğer radyografilerinde rehberdeki kriterlere ve standartlara uyularak okuma yapılır.
+(5) Dijital akciğer radyografilerinin görüntüsünün incelenmesi, değerlendirilmesi ve sınıflandırılması işleminde, ILO’dan temin edilen, ILO standart radyografilerinin dijital görüntüleri kullanılır.
+(6) Dijital akciğer radyografi görüntüleri, tanısal radyoloji için tasarlanmış medikal düz panel monitörlerde görüntülenmelidir. Diyagonal ekran, her görüntü için en az 21 inç (54 cm), maksimuma minimum aydınlatma oranı en az 50, maksimum en az 250 kandela/m , piksel aralığı 210 µm daha büyük olmayacak şekilde ve çözünürlük an az 2,5 çizgi çifti/mm olacak şekilde olmalıdır. Dijital akciğer radyografi görüntüsü ve ILO standart radyografilerinin dijital görüntüleri, eş zamanlı, aynı boyutlarda ve yan yana görüntülenmelidir.
+(7) Görüntüleme yüzeyleri temiz ve aydınlatma yoğunluğu bütün yüzeylerde aynı olmalıdır.
+(8) Odadaki genel aydınlatma, doğrudan gün ışığı olmaksızın düşük düzeyde olmalıdır. Oda sessiz, rahat ve dikkat dağıtıcı şeylerden uzak olmalı ve radyografi oturur pozisyonda okunmalıdır.

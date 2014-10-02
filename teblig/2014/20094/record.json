@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20094",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TOZLA MÜCADELE İLE İLGİLİ UYGULAMALARA İLİŞKİN TEBLİĞ",
+  "number": "20094",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "path": "teblig/2014/20094",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20094&MevzuatTertip=5",
+  "source_sha256": "e592d86ace824426ffcb94378314a1a09158f650a9d2be2f4dabf9ea36634970",
+  "source_bytes": 25322,
+  "published": "2014-10-02",
+  "gazette": "29137",
+  "in_force": "2014-10-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.10.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1118,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
