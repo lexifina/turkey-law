@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-130[28-2014/200]-149",
+  "source_id": 29240,
+  "date": "2014-10-03",
+  "title": "0909.22.00.00.00 ve 0909.62.00.00.00 GTİP No.lu ürünlerin KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29240",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "944942624dd5d065e005e5f7734e98481a363219e119e1ffcf4675f4f512cde9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
