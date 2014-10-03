@@ -1,0 +1,69 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-08-08",
+      "08.08.2010",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2012-10-10",
+      "RG-10/10/2012-28437",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-10-10",
+      "RG-10/10/2012-28437",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-10-10",
+      "RG-10/10/2012-28437",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-10-03",
+      "RG-3/10/2014-29138",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-10-10",
+      "10/10/2012",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2014-10-03",
+      "3/10/2014",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-3/10/2014-29138",
+  "first_law": null,
+  "gazette": "27666",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-10-03",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/2010/14189",
+  "published": "2010-08-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14189&MevzuatTertip=5",
+  "source_bytes": 32572,
+  "source_id": "8.5.14189",
+  "source_sha256": "4748d317ede8a3718acb849715e5370ed29bf4fdeca9085dc187d108addcf082",
+  "text_status": "current-consolidated",
+  "title": "GAZİANTEP ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 839
+}
