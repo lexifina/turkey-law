@@ -1,0 +1,8 @@
+Merkez İşletme Direktörünün görevleri
+MADDE 19 – (1) Merkez İşletme Direktörünün görevleri şunlardır:
+a) Genel Müdürün belirlediği ve koordine ettiği hedeflerin gerçekleştirilmesi konusunda işletme yönünden birinci derecede sorumlu kişi olmak.
+b) Merkezin ve Merkeze bağlı diğer ünite veya birimlerin işletilmesine destek sağlamak, bunların kısa, orta ve uzun vadeli amaçlarının ve stratejik planının hazırlanmasında ve uygulanmasında Merkez Genel Müdürüne yardımcı olmak.
+c) Merkezin hasta ilişkileri, yurt içi ve yurt dışı iş geliştirme, kat hizmetleri, mutfak, teknik hizmetler, güvenlik, otopark, satın alma-lojistik, biomedikal, kurumsal iletişim ve çağrı merkezi hizmet birimlerinin Merkezin amaç ve hedefleri doğrultusunda düzenli, uyumlu, etkin, sürekli ve verimli biçimde çalışmasını sağlamak ve bunun için gerekli fiziki şartların oluşturulması, personel ihtiyacının tespiti ve giderilmesi için gerekli planlama, koordinasyon ve denetimi sağlamak ve hizmet içi eğitim alt yapı imkânlarını oluşturmak.
+ç) İşletme Direktörlüğüne bağlı idari ve teknik tüm personelin yönetim, koordinasyon, denetim ve genel gözetimini yapmak.
+d) Merkezin hasta ilişkileri, yurt içi ve yurt dışı iş geliştirme, kat hizmetleri, mutfak, teknik hizmetler, güvenlik, otopark, satın alma-lojistik, biomedikal, kurumsal iletişim ve çağrı merkezi hizmet birimlerinin gerekçeli bütçe, ödenek, kadro ve personel ihtiyaçlarını ve yıllık faaliyet raporunu Genel Müdüre sunmak.
+e) Merkezdeki araştırma ve proje çalışmalarında; proje ekiplerinin kurulmasında, koordinasyonunda, yönetiminde, denetiminde ve yıllık faaliyet raporunun hazırlanmasında işletme yönünden Merkez Genel Müdürüne yardımcı olmak.
