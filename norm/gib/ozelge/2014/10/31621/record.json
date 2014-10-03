@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-130[17-2013/146]-148",
+  "source_id": 31621,
+  "date": "2014-10-03",
+  "title": "Atıkların sevkiyatı sırasında kullanılan fıçı ve plastik bidonların tesliminde KDV uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31621",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "cb17fe4270484f496ac7ddaf76b021add15e8f18f5c101953cb1216e946b5c54",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
