@@ -1,0 +1,2 @@
+Müdür Yardımcısı ve görevleri
+MADDE 10 – (1) Müdür, kendisine çalışmalarında yardımcı olmak üzere Üniversitenin aylıklı öğretim üyeleri arasından bir öğretim üyesini üç yıl için Müdür Yardımcısı olarak görevlendirip Rektörlüğe bildirir. Süresi dolan Müdür Yardımcısı tekrar atanabilir. Müdürün görevi bitince Müdür Yardımcısının da görevi sona erer. Müdürün katılamadığı toplantılara Müdür Yardımcısı başkanlık eder.
