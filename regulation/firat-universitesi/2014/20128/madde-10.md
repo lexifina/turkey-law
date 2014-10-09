@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+MADDE 10 – (1) Danışma Kurulu; Merkezin çalışma alanlarıyla ilgili üniversite, kamu ve özel sektör kurum ve kuruluşlarında uzmanlıklarıyla tanınan temsilcilerden ve alanında uzman bağımsız araştırmacılardan, Merkezin ihtiyaç duyduğu diğer alanlardan katılan üç yıllığına görevlendirilen kişilerden oluşur. Kurul üye sayısı üç kişiden az olmamak kaydıyla, Yönetim Kurulunun kararıyla belirlenir. Danışma Kurulu üyeliğine görevlendirme ve üyeliğin sona ermesi, Yönetim Kurulunun salt çoğunluğunun kararı ve Rektörün onayına bağlıdır.
+(2) Danışma Kurulu, Müdürün yazılı daveti üzerine yılda en az iki kez toplanan ve Merkezin faaliyet alanlarıyla ilgili konularda görüş ve tavsiyelerde bulunan bir danışma ve yardım organıdır.
