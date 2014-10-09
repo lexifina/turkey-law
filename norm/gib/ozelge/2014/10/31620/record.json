@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.17-2355",
+  "source_id": 31620,
+  "date": "2014-10-09",
+  "title": "Sigorta şirketleri tarafından katılma payı olarak ödenen prim tutarının kurumlar vergisi ve katma değer vergisine tabi olup olmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31620",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "1c32218d396814a1acf3e25b3de24c2bdc256e246e11870492db1b0b4a2db29a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
