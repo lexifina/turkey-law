@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.20131",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2015-2017 DÖNEMİ BÜTÇE ÇAĞRISI",
+  "number": "20131",
+  "path": "teblig/2014/20131",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20131&MevzuatTertip=5",
+  "source_sha256": "c65f92f1d96332e57d57fb4015b99d539db219353a902fe2540d2ff5d26f3baf",
+  "source_bytes": 9447,
+  "published": "2014-10-11",
+  "gazette": "29142",
+  "in_force": "2014-10-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.10.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 308,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20131-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
