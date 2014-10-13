@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-10-13",
+  "issue": "29144",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Ankara Sosyal Bilimler Üniversitesi Döner Sermaye İşletmesi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141013-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141013.htm",
+  "index_sha256": "db765b78486222c6fe00b94bc5077c8382454e4d68718f66d476a4dd4fb584aa",
+  "index_header": "13 Ekim 2014 ... 29144 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141013.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
