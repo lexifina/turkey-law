@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "475",
+  "decision_date": "2014-10-13",
+  "title": "MEC. KAR. (sosyal hizmetler ödenek aktarma 400",
+  "listed_as": "475 MEC. KAR. (sosyal hizmetler ödenek aktarma 400",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/475-mec--kar--sosyal-hizmetler-odenek-aktarma-400-000",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk81-13-ekim-2014-meclis-kararlari",
+  "listing_sha256": "e07310f006cfd9bf1a0613e49108a0c21285c139af1191efae496ae75633853e",
+  "meeting_title": "MK81-13 EKİM 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
