@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-10-13",
+      "13.10.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29144",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-10-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Tokat Gaziosmanpaşa Üniversitesi",
+  "issuer_slug": "tokat-gaziosmanpasa-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/tokat-gaziosmanpasa-universitesi/2014/20135",
+  "published": "2014-10-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20135&MevzuatTertip=5",
+  "source_bytes": 30306,
+  "source_id": "8.5.20135",
+  "source_sha256": "632f7d2134a23b94a2e3e2804fe0c3f92782cb60fe45a5769d7e4730e18ab768",
+  "text_status": "as-enacted",
+  "title": "GAZİOSMANPAŞA ÜNİVERSİTESİ PALYATİF BAKIM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 197,
+  "word_count": 1380
+}
