@@ -1,0 +1,25 @@
+{
+  "number_in_summary": 10,
+  "number_basis": "item number printed in the summary",
+  "official_decision_number": null,
+  "title": "Konya İli 1/5000 Ölçekli Nazım İmar Planı notlarına “Otopark Düzenlenmesi ile İlgili Plan Kararları”nın görüşülmesine dair İmar ve Bayındırlık Komisyonu raporunun aynen kabulüne,",
+  "decision_date": "2014-10-13",
+  "meeting_date": "2014-10-13",
+  "summary_heading": "13 Ekim 2014 Meclis Toplantısı Karar Özeti",
+  "summary_title": "KARAR ÖZETİ (13.10.2014)",
+  "source": "https://www.konya.bel.tr/meclis/icerik-getir?tarih=2014-10-13&tur=2",
+  "source_page": "https://www.konya.bel.tr/meclis-encumen/meclis-gundemi-ve-kararlari?karar_yil=2014&karar_ay=10",
+  "source_sha256": "b6255516bb8344c729e9edd88c0e7a337d2da71b4a3d2dc65d945329d726a6b4",
+  "issuer": "Konya Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary item as published in the council's Karar Özeti; complete decision text is not published in this register",
+  "in_force": "2014-10-13",
+  "in_force_basis": "Official Karar Özeti heading: 13 Ekim 2014 Meclis Toplantısı Karar Özeti; adoption date for the summary item; legal commencement not asserted",
+  "missing": [
+    "official decision number (not printed in the summary)",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
