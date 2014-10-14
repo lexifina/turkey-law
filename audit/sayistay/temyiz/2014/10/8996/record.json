@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39543",
+  "decision_date": "2014-10-14",
+  "source_id": 8996,
+  "chamber": "8",
+  "file_number": "34636",
+  "account_year": "2008",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/8996/",
+  "source_sha256": "ebf58754eb37713e16ed9eb2507b7f05ff14061269f6d3a0b0f8a3b20da6a64a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
