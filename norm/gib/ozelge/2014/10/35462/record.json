@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76464994-140[2012/113]-231",
+  "source_id": 35462,
+  "date": "2014-10-14",
+  "title": "Üst hakkı bedelinde artış olması durumunda tapu harcı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35462",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "4e894993fdf978839fd93fb3e067751de0bdb97a0d7cff4dfc72510712f183ce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
