@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-10-15",
+  "issue": "29146",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Rapor Değerlendirme Komisyonlarının Oluşturulması ile Çalışma Usul ve Esasları Hakkında Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141015-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141015.htm",
+  "index_sha256": "9bfd768ae56e5fab499567f4a6d6824c5b71f6cfbdbb550a23f4ef558fba8c7b",
+  "index_header": "15 Ekim 2014 ... 29146 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141015.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
