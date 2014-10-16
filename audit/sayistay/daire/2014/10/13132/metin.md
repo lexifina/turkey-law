@@ -1,0 +1,3 @@
+Yurtdışı geçici görev yolluğu (Uçak Bilet Bedeli)
+
+2547 sayılı Yükseköğretim Kanununun 10 uncu maddesine dayanılarak hazırlanan Öğretim Üyesi ve Araştırmacı Yetiştirilmesi Amacıyla Yurtdışına Gönderilecek Öğretim Elemanlarına Sağlanacak Destekler ile Diğer Hususlara İlişkin Esas ve Usullere göre yurtdışına gönderilen kişiye ödenebilecek ABD uçak bileti 2500 Dolar olması nedeniyle, ………….’a yurtdışı geçici görev yolluğu bildirimine göre ödenen uçak bilet bedeli 2500 Doların ödeme günündeki döviz kuruyla çarpılması sonucu bulunan …………. TL olmasının mevzuatına uygun olduğu anlaşıldığından ilişikli bir husus bulunmadığına oybirliğiyle,
