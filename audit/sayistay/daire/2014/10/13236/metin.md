@@ -1,0 +1,9 @@
+Mal Alım İhalesi
+
+………….. Üniversitesi tarafından yapılan makine, teçhizat ve laboratuvar cihazları alımına ait ihalede, Mühendislik Fakültesi tarafından gönderilen teknik şartnameye uygun alım yapılmadığı ve yine Mühendislik Fakültesi tarafından hazırlanan yaklaşık maliyete kıyasla daha yüksek fiyatlardan alım yapıldığı görülmüştür.
+
+Savunmalarda, söz konusu alım ihalesinin, Tıp Fakültesi, Sağlık Bilimleri Fakültesi, Mühendislik Fakültesi, ……… Uygulamalı Bilimler Yüksekokulu, Teknik Bilimler Meslek Yüksekokulu, ……….. Meslek Yüksekokulu ve Sağlık Hizmetleri Meslek Yüksekokulunun makine teçhizat ihtiyaçları için yapıldığı, bunlardan sadece Mühendislik Fakültesinin resmi talep yazısı ekinde teknik şartname ve yaklaşık maliyet araştırması gönderildiği, Mühendislik Fakültesi tarafından hazırlanan teknik şartname diğer birimlerle ortak olan ihtiyaçları karşılamadığından, idarece alanlarında uzman öğretim üyelerinden oluşan komisyon tarafından, tüm birimlerin ihtiyaçlarına hitap eden ortak bir teknik şartname hazırlandığı, Mühendislik Fakültesinin de yapılan alıma itiraz etmediği, diğer taraftan, Mühendislik Fakültesinden gelen yaklaşık maliyet evrakının altında bu evrakı hazırlayan kişilerin imzalarının bulunmadığı, ayrıca söz konusu herhangi bir firmanın kaşesinin olmadığı ve zaten Mühendislik Fakültesinden gelen teknik şartname kullanılmadığından o şartnameye göre hazırlanmış olan yaklaşık maliyetin kullanılmasının da söz konusu olmadığı ifade edilmiştir.
+
+Üniversitenin farklı birimleri için tek bir ihale ile alım yapılmasında ve bu alımla ilgili ortak bir teknik şartname hazırlanıp ona göre yaklaşık maliyet tespitinde mevzuata aykırılık bulunmamaktadır.
+
+Bu itibarla, ……….. Üniversitesi tarafından gerçekleştirilen makine, teçhizat ve laboratuvar cihazları alımlarında ilişilecek bir husus bulunmadığına oybirliğiyle,
