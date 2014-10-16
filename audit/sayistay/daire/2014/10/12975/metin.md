@@ -1,0 +1,9 @@
+İzinli Olunan Günlerde Yemek Servisinden Yararlanılması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …. Belediyesi’nde çalışan memur ve sözleşmeli personelin izinli oldukları günler için de yemek servisini sağlayan ….. Ltd. Şti.’ne ödeme yapılması sonucu kamu zararına neden olunduğu görülmüştür.
+
+657 sayılı Devlet Memurları Kanunun “Yiyecek yardımı” başlıklı 212’inci maddesinde “Devlet memurlarının hangi hallerde yiyecek yardımından ne şekilde faydalanacakları ve bu yardımın uygulanması ile ilgili esaslar Maliye Bakanlığı ile Başbakanlık Devlet Personel Başkanlığının birlikte hazırlayacakları bir yönetmelik ile tespit olunur” hükmü yer almaktadır. Bu hüküm uyarınca 19/11/1986 tarihli ve 86/11220 sayılı Bakanlar Kurulu Kararı ile Devlet Memurları Yiyecek Yardımı Yönetmeliği 11/12/1986 tarihli ve 19308 sayılı Resmi gazetede yayımlanarak yürürlüğe konulmuştur.
+
+Anılan Yönetmeliğin “Yardım Şekli” başlıklı 3’üncü maddesinde; yiyecek yardımının yemek verme şeklinde yapılacağı hüküm altına alınmıştır. Dolayısıyla yıllık izin, hastalık izni, görevden uzaklaştırma gibi personellerin görevde bulunmadığı dönemlerde personellere yemek yardımı verilmesi mümkün değildir. Yapılan incelemede …. Belediyesi’nde çalışan memur ve sözleşmeli personellerin yıllık izinli oldukları günlerde de yemek servisini sağlayan firmaya ödeme yapıldığı tespit edilmiştir.
+
+Bu itibarla …. Belediyesi’nde çalışan memur ve sözleşmeli personelin izinli olduğu günler için de yemek servisini sağlayan …. Ltd. Şti.’ne ödeme yapılması sonucu meydana gelen …. TL kamu zararının  Harcama Yetkilisi (İnsan Kaynakları ve Eğitim Müdürü) …………. ile Gerçekleştirme Görevlisi (Memur) …………’ya müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53’üncü maddesi gereği hüküm tarihinden itibaren işleyecek faizleri ile ödettirilmesine oy birliğiyle,
