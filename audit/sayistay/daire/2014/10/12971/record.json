@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "141",
+  "decision_date": "2014-10-16",
+  "source_id": 12971,
+  "chamber": "6",
+  "ilam_number": "20",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12971/",
+  "source_sha256": "f1a1d61dec807c4e4adbfffa9d54b4e84aae893c9d821c1d52eecd9cad292ffc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
