@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35254",
+  "decision_date": "2014-10-16",
+  "source_id": 8926,
+  "chamber": "2",
+  "ilam_number": "29",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8926/",
+  "source_sha256": "426ffc504a89a614b142a5bde985f5e07f1919814f1e482702caae1c998c1118",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
