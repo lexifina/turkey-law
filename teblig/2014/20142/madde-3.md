@@ -1,0 +1,2 @@
+Yerli üretim dalı
+MADDE 3 – (1) Yönetmeliğin 18 ve 20 nci maddeleri çerçevesinde yapılan inceleme sonucunda, soruşturma konusu üründe 2012 yılında toplam Türkiye üretiminin %82’sinin başvuru sahibi Korteks firması tarafından, geri kalan kısmının ise başvuruya destek veren yukarıda adı geçen firmalar tarafından gerçekleştirildiği tespit edilmiştir. Bu tespit neticesinde, Korteks firmasının tek başına yerli üretim dalını temsil niteliğini haiz olduğu anlaşıldığından adı geçen firma bu Tebliğin ilgili bölümlerinde “yerli üretim dalı” (YÜD) olarak anılacaktır.

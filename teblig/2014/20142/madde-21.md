@@ -1,0 +1,3 @@
+Üçüncü ülkelerden gerçekleştirilen ithalat
+MADDE 21 – (1) Üçüncü ülkelerden gerçekleştirilen ithalata bakıldığında, 2010 yılında 28.440 ton olan ithalat miktarının 2011 ve 2012 yıllarında sırasıyla 30.211 ve 29.906 ton olarak gerçekleştiği görülmektedir. Üçüncü ülkeler menşeli ithalatın genel ithalat içerisindeki payı ise 2010 yılında %38,5, 2011 yılında %32, 2012 yılında %27 olarak gerçekleşerek incelenen dönem süresince gerilemiştir.
+(2) Bahse konu üçüncü ülkelerden gerçekleştirilen ithalatın ortalama birim fiyatlarına bakıldığında da, 2010 yılında 2,80 ABD Doları/Kg olan ortalama birim fiyatın 2011 yılında yükselerek 3,09 ABD Doları/Kg’a ulaştığı görülmektedir. 2012 yılı ortalama birim fiyat ise 3,02 ABD Doları/Kg olarak kaydedilmiştir.
