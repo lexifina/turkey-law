@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "550",
+  "decision_date": "2014-10-17",
+  "title": "MEC.KAR.(Sos. Hiz. Dairesi Bşk. Amatör Spor Ku",
+  "listed_as": "550 MEC.KAR.(Sos. Hiz. Dairesi Bşk. Amatör Spor Ku",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/550-mec-kar-sos--hiz--dairesi-bsk--amator-spor-kulupleri-odenek-aktarilmasi",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk80-17-ekim-2014-meclis-kararlari",
+  "listing_sha256": "9f0b44b627dae7174607170cbc8cb09efb79ca68f32b01826c9cede858d9e15d",
+  "meeting_title": "MK80-17 EKİM 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
