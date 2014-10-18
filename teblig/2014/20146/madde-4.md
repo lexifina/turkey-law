@@ -1,0 +1,5 @@
+Zarar ve nedensellik iddiası
+MADDE 4 – (1) ABD menşeli inceleme konusu ürünün ithalatının mutlak olarak 2011-2013 dönemi arasında artış eğiliminde olduğu; toplam Türkiye pazarının büyümesine rağmen yerli üretim dalında ABD menşeli ithalat nedeniyle pazar kaybı yaşandığı belirlenmiştir.
+(2) Yerli üretim dalının üretim, satış, karlılık, istihdam ve kapasite kullanım oranı gibi göstergelerinde 2011-2013 döneminde bozulmaların ortaya çıktığı tespit edilmiştir.
+(3) ABD menşeli ithalatın yerli üretim dalının fiyatlarını 2012 yılı haricinde kırdığı belirlenmiştir. Öte yandan, yerli üretim dalının üretim maliyetlerini fiyatlarına tam olarak yansıtamaması neticesinde 2011-2013 döneminde yurtiçi satış fiyatlarının dampingli ithalat nedeniyle baskı altında kaldığı, maliyet altı satışlar nedeniyle fiyatlarının bastırıldığı ve fiyatlarının enflasyon karşısında reel olarak yıprandığı tespit edilmiştir.
+(4) İnceleme aşamasında elde edilen deliller ve ithalata ilişkin resmî istatistikler esas alınarak yapılan tespitler ışığında, dampingli olduğu iddia edilen ithalatın yerli üretim dalının ekonomik göstergelerinde zarara yol açtığı değerlendirilmiştir.
