@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/4098",
+  "list_number": "4098",
+  "decision_date": "2014-10-18",
+  "title": "Hâkimler ve Savcılar Yüksek Kurulu Üyeliği seçimi kesin sonuçları ile ilgili Yüksek Seçim Kurulunun 2014/4098 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2300/2014-4098.pdf",
+  "source_sha256": "560e47b093255bb0f5687f098490e2097bba8f6a18cef41efafa9703bea4d09a",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-10-18",
+  "law_text_complete": false
+}
