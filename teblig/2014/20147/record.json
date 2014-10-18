@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20147",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ HIZLI DONDURULMUŞ GIDALAR TEBLİĞİ (TEBLİĞ NO: 2014/47)",
+  "number": "20147",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2014/20147",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20147&MevzuatTertip=5",
+  "source_sha256": "53fe47267ad21a54ef2a50e0e01d2ad430966b1634187aed638ee824fbe3d6cd",
+  "source_bytes": 16580,
+  "published": "2014-10-18",
+  "gazette": "29149",
+  "in_force": "2014-10-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.10.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 997,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

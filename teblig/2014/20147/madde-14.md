@@ -1,0 +1,2 @@
+Numune alma ve analiz metotları
+MADDE 14 – (1) Bu Tebliğ kapsamında yer alan ürünlerden Türk Gıda Kodeksi Yönetmeliğinde belirtilen kurallara uygun olarak numune alınır ve uluslararası kabul görmüş analiz metotları uygulanır. Bu kurallara ek olarak; bu Tebliğ kapsamında yer alan ürünlerin sıcaklık kontrolleri; 17/1/2002 tarihli ve 24643 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Hızlı Dondurulmuş Gıdaların Sıcaklık Kontrolü İçin Numune Alma ve Analiz Metotları Tebliğine (Tebliğ No: 2001/45) uygun olarak gerçekleştirilir.
