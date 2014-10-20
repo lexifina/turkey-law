@@ -1,0 +1,5 @@
+Kayıt yenileme esasları
+MADDE 10 – (1) Öğrenciler her yarıyıl başında ve akademik takvimle birlikte ilan edilen süreler içinde öğrenim ücretlerini ödeyerek ve ders alma işlemlerini tamamlayarak kayıtlarını yenilemek zorundadır. Öğrenciler, tüm kayıt yenileme işlemlerinin takibinden ve tamamlanmasından bizzat sorumludur.
+(2) Öğrenciler, Üniversitede ders ekleme-çıkarma süresi içinde geç kayıt yaptırabilirler. Bu süre içinde de kaydını mazereti nedeni ile yenileyemeyen öğrenci, daha sonra cezalı kayıt denilen dönemde öğrenim ücretini cezalı olarak ödeyerek kaydını yenileyebilir.
+(3) Cezalı kayıt süresi içinde de kaydını yenilemeyen öğrenci bir defaya mahsus olmak üzere birim yönetim kurulu kararı ile ertesi dönem başında, kayıtsız geçirdiği döneme ait öğrenim ücretini de cezalı olarak ödeyerek kaydını yenileyebilir. Aksi halde öğrencilik haklarını tümüyle kaybeder. Bu şekilde kayıt yaptıran öğrencinin, kayıt yaptırmadığı dönemde kaybettiği süre azami öğrenim süresinden düşülür.
+(4) Kayıt yenilemeye ilişkin hususlarda, Üniversitenin ve diğer üniversitenin kendi ilgili mevzuat hükümleri uygulanır.
