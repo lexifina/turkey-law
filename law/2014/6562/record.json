@@ -1,0 +1,61 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6562",
+  "year": 2014,
+  "title": "Yükseköğretim Kurumları Teşkilatı Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2014-10-21",
+  "adopted_as_published": "21/10/2014",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "04.11.2014 No: 29165",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc099/kanuntbmmc099/kanuntbmmc09906562.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 99",
+  "committee_reports": [
+    {
+      "label": "TBMM 645 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c089/tbmm24089006ss0645.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 24,
+      "kayit_no": 808790,
+      "title": "Yükseköğretim Kurumları Teşkilatı Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "21/10/2014",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc099/kanuntbmmc099/kanuntbmmc09906562.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 645 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c089/tbmm24089006ss0645.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 89,
+          "sitting": 6,
+          "sitting_date": "2014-10-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c089/tbmm24089006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c089/tbmm24089fih.pdf",
+          "pages": [
+            "314:324",
+            "324:345"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=414&v_gelecek_sayfa=301&v_kullanici_id=27483204",
+      "page_sha256": "25bc5f32eaed35757956e885d3259211a59e81c5f5f0d38da827c7ebdbb7e220"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "25bc5f32eaed35757956e885d3259211a59e81c5f5f0d38da827c7ebdbb7e220",
+  "issuer": "TBMM",
+  "in_force": "2014-10-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/10/2014; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
