@@ -1,0 +1,4 @@
+Sınav Komisyonu
+MADDE 11 – (1) Sınav Komisyonu, Genel Müdür veya görevlendireceği bir Genel Müdür Yardımcısı başkanlığında; birim amirleri, hukuk müşavirleri veya avukatlar arasından Genel Müdür tarafından görevlendirilecek iki üye ile I. Hukuk Müşaviri ve İnsan Kaynakları Dairesi Başkanı olmak üzere beş asil üyeden oluşur. Ayrıca, Genel Müdür tarafından bu fıkrada belirtilenler arasından üç yedek üye tespit edilir ve asıl üyelerin herhangi bir nedenle Sınav Komisyonuna katılamamaları halinde yedek üyeler tespit sırasına göre Sınav Komisyonuna katılır.
+(2) Sınav Komisyonu üye tam sayısıyla toplanır ve oy çokluğu ile karar alır. Oylama sırasında çekimser oy kullanılamaz.
+(3) Sınav Komisyonu başkan ve üyeleri; kendilerinin, boşanmış olsalar dahi eşlerinin, ikinci dereceye kadar (bu derece dahil) kan ve kayın hısımlarının veya evlatlıklarının katıldığı sınavlarda görev alamazlar.
