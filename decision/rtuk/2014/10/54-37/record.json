@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2014/54",
+  "meeting_date": "2014-10-22",
+  "meeting_date_as_published": "22.10.2014",
+  "decision_no": "37",
+  "source_id": 6434,
+  "title": "RTÜK kararı 2014/54-37",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/6434",
+  "source_sha256": "4e40fbbf8d23255899db7d88aff6760533e84e4fa6c1e0ad92c6ae009abadbf9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (16 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
