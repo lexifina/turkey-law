@@ -1,0 +1,13 @@
+{
+  "number": "14-42/771-345",
+  "type": "Rekabet İhlali",
+  "decision_date": "2014-10-22",
+  "publication_date": "2015-01-08",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=25ee6c05-fe54-4172-8c56-7aec41b671f4",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=461",
+  "pdf_sha256": "4c101ea5a71ad7e7f2a69b264999d74e50e71cc70294cfb7370126cb6934b2d8",
+  "pdf_bytes": "189378",
+  "pages": "6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
