@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10377",
+  "decision_date": "2014-10-23",
+  "source_id": 11619,
+  "chamber": "1",
+  "ilam_number": "34",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11619/",
+  "source_sha256": "e6faae7c5aa45f3bb06903b1f2e3a90d20dc309e0e044cc49f1effc0cd728111",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
