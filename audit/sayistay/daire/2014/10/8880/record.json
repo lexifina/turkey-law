@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10370",
+  "decision_date": "2014-10-23",
+  "source_id": 8880,
+  "chamber": "1",
+  "ilam_number": "16",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8880/",
+  "source_sha256": "6e6d1a237253a16fda35d542a62969ca536c583ae10a4f7100ed9d6fd433f0b0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
