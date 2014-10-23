@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10377",
+  "decision_date": "2014-10-23",
+  "source_id": 11944,
+  "chamber": "1",
+  "ilam_number": "34",
+  "item_number": 12,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11944/",
+  "source_sha256": "9c4e2e646dee839a64f9efa06c3a69a13099e8e8375d498a77227c77e0a0df0e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
