@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-10-24",
+  "issue": "29155",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Karamanoğlu Mehmetbey Üniversitesi Sosyal, Ekonomik ve Politik Araştırmalar Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141024-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141024.htm",
+  "index_sha256": "2e040a7b2e52b5ffe9d88cf804e0d0cc5570f42f71418f1e1f561d1e8cfca7c4",
+  "index_header": "24 Ekim 2014 ... 29155 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141024.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
