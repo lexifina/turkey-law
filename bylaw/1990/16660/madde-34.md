@@ -1,0 +1,4 @@
+Dairelerde Görüşmelerin Yöntemi
+Madde 34 - Dairelerde görüşmeleri Başkan yönetir. Görevli sözcü üye veya tetkik hâkimleri açıklamalarını yaptıktan sonra Kurulca gerekli görülmesi hâlinde, düşüncelerini gerekçesi ile sunarlar. Eksik kalan yönler bulunursa, Başkan veya Üyelerce açıklama istenerek bu husus görevliye tamamlattırılır. Yönteme ilişkin konuşma istemleri esas konusundaki konuşmalardan önce yapılır.
+İnceleme konusunun önceki aşamalarında azınlıkta kalan üyeler sonraki aşamalarda oy kullanmak zorundadırlar. Çekimser oy kullanılamaz. Görüşmelerin yeterliği konusunda çıkan uyuşmazlık, kurulda bulunanların çoğunluk oyu ile çözümlenir.
+Konunun daha ayrıntılı araştırılması gerekli görülürse, görüşme ertelenir. Erteleme nedeniyle kurulun sonraki toplantılarına ve evveliyatlı dosyaların görüşmelerine engelleri bulunmadıkça aynı üyeler katılır. Daire Başkanı oyunu en son kullanır.
