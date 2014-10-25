@@ -1,0 +1,3 @@
+İçtüzüğün Değiştirilmesi
+Madde 99 - Askerî Yargıtay İçtüzüğünün değiştirilmesini Askerî Yargıtay Başkanı doğrudan doğruya isteyebileceği gibi, Genel Kurul mevcut üye sayısının 1/5'i veya Başsavcı veya Daire Başkanları, değişiklik istedikleri konular hakkındaki metinlerini gerekçeleri ile birlikte ve yazı ile Askerî Yargıtay Başkanı’ndan isteyebilirler. Başkan bu istekleri Genel Kurulun toplanacağı gün ve saati belirterek en az on beş gün önceden bütün üyelere duyurur.
+Genel Kurul, İçtüzüğün kabulünde izlediği yöntem ile değişiklik isteğini görüşür ve karara bağlar. Değişiklik Resmi Gazetede yayımlanarak yürürlüğe girer.

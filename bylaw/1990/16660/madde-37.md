@@ -1,0 +1,6 @@
+Görevlilerce İşin İncelenmesi ve Takriri
+Madde 37 - Askerî Yargıtay incelemesi için Daireler Kuruluna verilen dosya1ar, görevliler tarafından bekletilmeksizin görev, temyiz veya itiraz edilebilir nitelikte bulunup bulunmadığı, temyiz isteğinin veya itirazın süresinde olup olmadığı ve diğer noksanlıklar yönünden ön incelemeye tabi tutulur. Beliren duruma göre bu dava dosyaları Daireler Kurulunda öncelikle incelenip karara bağlanır.
+Görevliler kendilerine verilen işi, daha önceden haftanın belirlenen günlerinde Daireler Kurulunda takrir ederler.
+Görüşmeler sonucunda verilen kararlar bir belgeye yazılarak kurul başkanı ve üyelerce imza edilir. Bu belge karar yazılıp imzalanıncaya kadar görevlilerce saklanır. Ayrıca, Başkan oylama sonuçlarını gündemi belirleyen çizelgede gösterir. Karar yazılıncaya kadar bu çizelge Başkan tarafından saklanır.
+Görüşmeler tamamlanınca görevli sözcü üyeler veya tetkik hâkimleri verilen kararın taslağını uygun zaman içerisinde hazırlayıp kurul başkanına verirler ve kararın yazımı için kurul başkanınca verilen diğer işlemleri yerine getirirler.
+Sözcü üyenin bu görevinin devamı süresince Dairesi tarafından kendisine dosya verilmez ve zorunlu nedenler dışında Dairesi kuruluna katılmaz.

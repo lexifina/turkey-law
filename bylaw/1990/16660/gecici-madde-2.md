@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2- 6 Nisan 1990 tarihinden evvel emekliye ayrılmış Başkan, Başsavcı, İkinci Başkan, Daire Başkanı ve Üyelere; görevde iken vefat edenlerle emekli olduktan sonra vefat edenlerin eşlerine veya çocuklarına onur belgesi verilmesi esas ve usulleri Başkanlar Kurulunca kararlaştırılır.

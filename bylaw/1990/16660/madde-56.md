@@ -1,0 +1,7 @@
+Dosyaların Dağıtımı
+Madde 56 - Askerî Yargıtay Başkanı veya görevlendirmesi halinde İkinci Başkan, Başsavcılıktan tebliğname ile gelen dava dosyalarını, haftanın belirli günlerinde mevcut üye ve tetkik hâkimi sayısını da dikkate alarak Dairelere dağıtır.
+İtiraz veya direnmeye ilişkin tebliğname ile gelen dava dosyalarını, Daireler Kurulunda görevli sözcü üye ve tetkik hâkimlerini belirleyerek Daireler Kurulu Kalemine verir.
+Dağıtılan dosyalar ilgili kalem teşkilatında tutulan Genel Evrak ve Esas Defterlerine kaydedilerek, TUTUKLU, AÇIKLI veya DURUŞMALI gibi işaretlerde noksanlık bulunması hâlinde bunlar da tamamlanarak başkâtip (yazı işleri müdürü) tarafından kurulların başkanlarına arz edilir.
+Dairelerde dosyaların üye ve tetkik hâkimlerine, Daireler Kurulunda görüşülecek işler için ise sözcü üye ve tetkik hâkimlerine dağıtım zamanının ve dosyaların seçiminin takdiri Daire veya Daireler Kurulu Başkanına aittir.
+Herhangi bir nedenle yedi günden fazla görevinden uzaklaşan üye ve tetkik hâkimlerine dosya verilmez ve Dairelere dosya dağıtımında bu husus dikkate alınır. Ancak, daha önce bu üye veya tetkik hâkiminin incelemesinden geçmiş olup da, ivediliği olmayan dosyalar bundan müstesnadır.
+Dosya dağıtılması veya mevcudun hesaplanmasında adli tetkik hâkimlerinin sadece sıkıyönetim mahkemelerinden verilen kararlara ilişkin dava dosyalarına ait incelemede bulunabilecekleri hususu da göz önünde bulundurulur.
