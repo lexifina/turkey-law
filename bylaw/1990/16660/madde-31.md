@@ -1,0 +1,9 @@
+ALTINCI BÖLÜM
+Kurulların Çalışması
+Dairelerin Çalışması
+Madde 31 - Daireler bir Başkan ile dört Üyenin katılmasıyla toplanır; oybirliği sağlanamadığı hallerde kararlar oyçokluğu ile verilir. Oylar sözcü üye ve onu takiben en kıdemsiz üyeden başlanılarak toplanır. Başkan herhalde oyunu en son kullanır. (Ek cümle: RG-5/10/2012-28432) Dairelerin ilk yargı yeri olarak baktığı davalarda ise oylar en kıdemsiz üyeden başlanılarak toplanır.
+(Ek fıkra: RG-6/1/2004-25338) Görüşme ve duruşmalara katılacak üyeler, adlî yıl başında, bir adlî yılı kapsayacak biçimde dönüşümlü listeler hâlinde daire başkanınca saptanır. Önceden saptanan üyelerin mazereti nedeniyle kurula katılamamaları hâlinde kurul; görüşmelere katılmayan diğer üyelerin en kıdemlisinden başlanarak tamamlanır. Daha önce Dairede incelenmiş olan dosyalar, mümkün oldukça önceki kurul üyelerince incelenir.
+Görüşmeye katılan Başkan ve üyelerin adları mahallerine gönderilecek karar örneklerine de yazılır. Karar çoğunluk ile verilmişse karşı oy yazısı kararların asıl ve örneklerinde gösterilir.
+(Değişik fıkra: RG-6/1/2004-25338) Karşı oy gerekçesini ayrıca yazmak isteyen üye, bunu en geç kararın yazılmasından itibaren bir hafta içinde Kurul Başkanına vermek zorundadır.
+Çoğunluk ve azınlık görüşlerinde karşı düşünceyi küçültücü üslûp kullanılamaz.
+(Ek fıkra: RG-5/10/2012-28432) İlk yargı yeri olarak bakılacak davalarla ilgili iddianamenin kabul ve iadesi kararları, Başkanlar Kurulu kararına bağlı soruşturma dosyasının Daire Başkanlığına teslimini müteakip 15 gün içinde verilir. İddianamenin kabulü kararı verilmesi ile birlikte davanın tensibi yapılarak duruşma için gerekli hazırlıklar tamamlanır. Belirlenen duruşma gününden duruşmada iddia makamını teşkil edecek olan Başsavcılık haberdar edilir. İddianamenin iadesine karar verilmesi hâlinde soruşturma dosyası, iddianameyi düzenleyen askerî savcıya gönderilmek üzere Askerî Yargıtay Başkanlığına teslim edilir.

@@ -1,0 +1,10 @@
+SEKİZİNCİ BÖLÜM
+Kalemler İle İlgili Müşterek Hükümler
+Kalemlerde Dosya İncelemesi ve Örnek Çıkarılması
+Madde 52 – (Değişik: RG-5/10/2012-28432)
+Kanun yollarına başvurulması nedeniyle Askerî Yargıtay’a gönderilen dava dosyalarının müdafi ve katılan vekilince incelenmesi ve örnek alınması, Dairelerde Daire Başkanının, Daireler Kurulunda İkinci Başkanın izniyle yazı işleri müdürü veya görevlendireceği bir kalem personelinin yanında ve gözetiminde gerçekleştirilir. Müdafi ve katılan vekili, bütün tutanak ve belgelerin örneklerini gerekli giderleri karşılayarak harçsız olarak alabilir. Müdafi ve vekilin onanmasını istediği örnekler için 492 sayılı Harçlar Kanunu (1) sayılı Tarife gereğince hesaplanan harcın Maliye Veznesine yatırılması sağlanır.
+Kanun yolu evresinde vekâletnamesi olmaksızın davayı alıp almayacağı konusunda kanaat edinebilmek isteğiyle başvuran avukatın ve görevlendirdiği stajyerinin dava dosyasını incelemesine izin verilir.
+Askerî Yargıtay Dairelerinin iddianamenin kabulü kararı vererek ilk yargı yeri olarak bakmaya başladığı dava dosyalarının ve bu davalara ilişkin muhafaza altına alınmış delillerin, sanık ve müdafi, katılan ve vekili, mağdur ya da şikâyetçi ile suçtan zarar gören ve vekillerince veya görevlendirilmiş avukat stajyerlerince incelenmesi ve örnek alınması, Daire Başkanının izniyle yukarıda belirtilen esaslara göre yerine getirilir.
+Dava dosyalarından örnek alınması, yazı işleri müdürü ya da kalem personelinin gözetim görevini yapabilecek olanağı elde etmiş olması koşuluna bağlı olup bu işlemlerle ilgili olarak Dairelerde Daire Başkanı, Daireler Kurulunda İkinci Başkan tarafından, savunma hakkı gözetilerek verilecek talimat uygulanır.
+Kanun yollarına başvurulması nedeniyle Askerî Yargıtay’a gönderilen ve aşama itibarıyla Genel Sekreterlikte bulunan dava dosyalarının incelenmesi ve örnek alınması, Genel Sekreterin iznine bağlıdır.
+Dosyaları incelemek ve örnek almak isteyen ilgililerin, kimliklerini ve durum gerektiriyorsa vekâletname, görevlendirme veya yetki belgesini göstermeleri zorunludur.

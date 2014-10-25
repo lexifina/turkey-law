@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1- Bu İçtüzüğün yurtdışına gidecek üyelerin tespitine dair 91 inci maddesinin (a) fıkrası hükümlerindeki öncelik, daha önce Askerî Yargıtay bütçe faslından yurtdışına gitmiş olan Askerî Yargıtay Başsavcı Başyardımcısı veya yardımcılarından üye seçilenler yönünden kullanılmış sayılır.
