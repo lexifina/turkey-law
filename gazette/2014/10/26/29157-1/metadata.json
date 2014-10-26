@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-10-26",
+  "issue": "29157",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMA",
+  "title": "2014/6867 Türkiye Cumhuriyeti Hükümeti ve Azerbaycan Cumhuriyeti Hükümeti Arasında Basın ve Enformasyon Alanlarında İşbirliği Protokolünün Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141026-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141026.htm",
+  "index_sha256": "11d5ea27625b02fa0cffb538fe4e97f8cf1e7519d3f1a55b6c8acc626d29b143",
+  "index_header": "26 Ekim 2014 ... 29157 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141026.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
