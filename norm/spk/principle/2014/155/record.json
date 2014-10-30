@@ -1,0 +1,82 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "155",
+  "decision_number": "31/1043",
+  "date": "2014-10-30",
+  "title": "Kurulumuzun 30.10.2014 Tarih ve 31/1043 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/155",
+  "source_sha256": "c637145816c674b82fade4cce4de190dfd5243c685458f81a55c089fe90157b4",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 155,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurulumuzun 30.10.2014 tarih ve 31/1043 sayılı kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2014-10-30",
+    "source_clauses": [
+      "Kurulumuzun 30.10.2014 tarih ve 31/1043 sayılı kararı:",
+      "31.12.2014 tarihine kadar"
+    ],
+    "deferred_start": "none accepted; later dates are explicit end/deadline clauses",
+    "source_deadline_dates": [
+      "2014-12-31"
+    ]
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "eca8dc2c-dcc0-4aa2-ad24-7c15d3aba5f7",
+    "contentSource": "IlkeKarari",
+    "contentID": 155,
+    "tur": "Kurul Kararı",
+    "title": "Kurulumuzun 30.10.2014 Tarih ve 31/1043 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2014-10-30T00:00:00",
+    "kurulKararTarih": "30.10.2014",
+    "kurulToplantiNo": "31/1043",
+    "bultenYili": 2014,
+    "bultenNo": 30,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "86:Kurumsal Yönetim Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 86,
+        "value": "Kurumsal Yönetim Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "4:Halka Açık Ortaklıklar;55:Kurumsal Yönetim;45:Kurumsal Yönetim İlkeleri",
+    "ilgiliKonular": [
+      {
+        "key": 4,
+        "value": "Halka Açık Ortaklıklar"
+      },
+      {
+        "key": 55,
+        "value": "Kurumsal Yönetim"
+      },
+      {
+        "key": 45,
+        "value": "Kurumsal Yönetim İlkeleri"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/155",
+    "linkTarget": "_blank"
+  }
+}
