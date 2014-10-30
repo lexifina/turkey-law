@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "79",
+  "decision_date": "2014-10-30",
+  "source_id": 10806,
+  "chamber": "4",
+  "ilam_number": "32",
+  "item_number": 3,
+  "public_body_type": "Sosyal Güvenlik Kurumları",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10806/",
+  "source_sha256": "48ea7cbca11022335396adb5857d8214dcc5e304ee3c4d35b93b7effb3a7e7bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
