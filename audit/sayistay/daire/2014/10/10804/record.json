@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "79",
+  "decision_date": "2014-10-30",
+  "source_id": 10804,
+  "chamber": "4",
+  "ilam_number": "32",
+  "item_number": 2,
+  "public_body_type": "Sosyal Güvenlik Kurumları",
+  "account_year": 2013,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10804/",
+  "source_sha256": "1f546e1fa73ed4bf3383ccdb625043579739ebbf3aa973f9e73dd2ceff7e5db1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
