@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "79",
+  "decision_date": "2014-10-30",
+  "source_id": 8968,
+  "chamber": "4",
+  "ilam_number": "32",
+  "item_number": 1,
+  "public_body_type": "Sosyal Güvenlik Kurumları",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8968/",
+  "source_sha256": "ec5941c196f4235e3a3619d58f24c994eeaa61976a2c3fb1fe5f278b77dd0963",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
