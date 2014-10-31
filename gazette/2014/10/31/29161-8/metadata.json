@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-10-31",
+  "issue": "29161",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Özelleştirme Yüksek Kurulunun 27/10/2014 Tarihli ve 2014/108 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141031-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141031.htm",
+  "index_sha256": "e9cfb7816e66aca44946311be7d1b873f848cb8f2a4220d2d48dfb4048469c9c",
+  "index_header": "31 Ekim 2014 ... 29161 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/10/20141031.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
