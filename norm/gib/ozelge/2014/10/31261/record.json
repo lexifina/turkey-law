@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130-2440",
+  "source_id": 31261,
+  "date": "2014-10-31",
+  "title": "Liman inşaa sahası içinde yer alan LPG boru hattının taşınmazı hizmetinin Kanunun 13/e kapsamında değerlendirilip değerlendirilemeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31261",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "879dee143cad4d257fc9c24bd9475393a877181e3eb0827d59105ae47d0aac9a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
