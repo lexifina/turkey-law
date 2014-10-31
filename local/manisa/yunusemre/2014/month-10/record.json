@@ -1,0 +1,30 @@
+{
+  "number": "month-10",
+  "year": 2014,
+  "month": 10,
+  "title": "Ekim 2014 Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2014-10-31",
+  "date_precision": "month",
+  "period": "Ekim 2014",
+  "source": "https://www.yunusemre.bel.tr/siteApi/services/meclisGundemVeKararlari.json?month=0&year=2014&type=karar",
+  "official_page": null,
+  "official_document": "https://www.yunusemre.bel.tr/fileserver/uploads//img/uploads/pdf/2017/02/2a4991ea4f2a2539aa6dd84e437e0e71643b6ae7.pdf",
+  "source_sha256": "4f39120023cbfde1e4b233e7734d76d1bb8de8ced0a8821ceac054c3a224dec5",
+  "issuer": "Yunusemre Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2014-10-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ekim 2014); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Ekim 2014 Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "list_date": "8 Ekim 2014",
+  "list_year": 2014
+}
