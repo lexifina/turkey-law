@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5280",
+  "decision_date": "2014-10-31",
+  "title": "Kullanıcı Tarafından Dağıtım Varlıklarının Tesis Edilme Metodolojisi”nin Geçici 1 inci maddesinde yer alan “bu Metodolojinin yürürlüğe girdiği tarihten itibaren bir ay içinde” ifadesinin “15/12/2014 tarihine kadar” şeklinde değiştirilmesine ilişkin",
+  "resmi_gazete_date": "2014-11-06",
+  "resmi_gazete_number": "29167",
+  "categories": [
+    "Kullanıcı Tarafından Dağıtım Varlıklarının Tesis Edilme Metodolojisine İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cEcXo6k4c/Y=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cEcXo6k4c/Y="
+  ],
+  "source_sha256": "c232d14a8b1b1a0fb248d25fdfda5275edd3ab852ec0474fabe7858718254f9f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33867,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-10-31",
+  "law_text_complete": false
+}
