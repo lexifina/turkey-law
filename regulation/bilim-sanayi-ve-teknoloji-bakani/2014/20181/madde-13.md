@@ -1,0 +1,2 @@
+Eser sahiplerine verilecek yayınlar
+MADDE 13 – (1) Bakanlığa devredilen eserlerin yazarlarına talepleri halinde yayımlanan eserlerin yer aldığı kitap ve manyetik depolama ünitelerinden en çok 100 adet, dergi ve benzeri periyodik yayınlardan 5 adet, sözlüklerden 5 adet, ansiklopedilerde yazılarının çıktığı her fasikülden 5 adet, ders kitaplarını inceleyen komisyon üyeleri ile kitabın içeriğine katkıları bulunanlara 5 adet ücretsiz kitap veya manyetik depolama ünitelerinden verilir.
