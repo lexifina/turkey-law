@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/izmir-katip-celebi-universitesi/2014/20187",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29164",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-11-03",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İzmir Katip Çelebi Üniversitesi",
+  "issuer_slug": "izmir-katip-celebi-universitesi",
+  "kind": "regulation",
+  "published": "2014-11-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20187&MevzuatTertip=5",
+  "source_id": "8.5.20187",
+  "source_sha256": "27452aec0acc01c5b892604dac0cb8c8131d7df6096dd9866dda29a3b75a4bba",
+  "title": "İZMİR KÂTİP ÇELEBİ ÜNİVERSİTESİ KADIN SAĞLIĞI VE YARDIMLI ÜREME TEKNİKLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 389,
+  "version_label": "oldest version available",
+  "word_count": 1199
+}
