@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "35",
+  "decision_date": "2014-11-04",
+  "source_id": 10771,
+  "chamber": "8",
+  "ilam_number": "51",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10771/",
+  "source_sha256": "f1091113155a17bce98ddd15a39e687ee2b351a3f12d9b43219f86868edf929f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
