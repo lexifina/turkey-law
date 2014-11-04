@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "149",
+  "decision_date": "2014-11-04",
+  "source_id": 12215,
+  "chamber": "6",
+  "ilam_number": "55",
+  "item_number": 9,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12215/",
+  "source_sha256": "cbe79f54d1334f60bd05cfe4b6bffa1ff9758fb95f7afe7682d7ff9f331d87b5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
