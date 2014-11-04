@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "33",
+  "decision_date": "2014-11-04",
+  "source_id": 10775,
+  "chamber": "8",
+  "ilam_number": "25",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10775/",
+  "source_sha256": "b955ab09a3d9f3f0cd37dadb463ef636a5cc8578e6a0ffaee08840202c8ec591",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
