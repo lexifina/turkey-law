@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "33",
+  "decision_date": "2014-11-04",
+  "source_id": 10779,
+  "chamber": "8",
+  "ilam_number": "25",
+  "item_number": 3,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10779/",
+  "source_sha256": "4ddffd1b30ef49e2a946d65a6eac5b9c9e8ce8997af1e126fe88bdf26e90d834",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
