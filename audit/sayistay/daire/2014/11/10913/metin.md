@@ -1,0 +1,49 @@
+HİZMET ALIMI-FİYAT FARKI
+
+………….’nın yükleniminde bulunan “………….” alımı işine ilişkin hakediş ödemelerinde;
+
+A) Asgari ücret fiyat farkı hesabı yapılırken; Asgari ücret artışından kaynaklanan fark ile bu fark için hesaplanan İşveren SSK Payı ve İşveren İşsizlik Sigortası artışı dışında fark hesaplandığı görülmüştür.
+
+Taraflar arasında akdedilen Hizmet Alımları Sözleşmesi’nin Fiyat Farkını düzenleyen 14.2 nci maddesinde; “Fiyat farkı verilecektir. Yürürlükteki fiyat farkı kararnamesi hükümlerine göre fiyat farkı verilecektir.31 Aralık 2002 gün ve 24980 sayılı (3. mükerrer) Resmi Gazetede yayımlanarak yürürlüğe giren 2002/5037 sayılı fiyat farkı kararına uygun olarak fiyat fakı kararnamesinin 8. maddesine göre ödenecektir.” denilmektedir.
+
+Anılan Kararnamenin 8 inci maddesinde; “İhale konusu hizmetin gerçekleştirilebilmesi için çalıştırılacak 506 sayılı Sosyal Sigortalar Kanununa tabi personelin, sayı ve günlük çalışma saatinin belirtilmesi kaydıyla;
+
+a) Asgari ücret tespit komisyonunca ihale (son teklif verme) tarihinde 16 yaşını doldurmuş işçiler için belirlenmiş asgari ücretin değiştirilmesi halinde eski ve yeni asgari ücret arasındaki fark, b) İhale (son teklif verme) tarihi itibarıyla işveren tarafından karşılanacak olan sosyal sigorta primi ve işsizlik sigortası primine ilişkin toplam tutarda; asgari ücret değişikliği veya sigorta primi alt sınır değişikliği ile prim oranlan değişikliği gibi sebeplerle meydana gelecek fark, c) 506 sayılı Kanunun 77 nci maddesinin ikinci fıkrası çerçevesinde sözleşmede öngörülen ücret ekleri nedeniyle, işveren tarafından karşılanmakta olan sosyal sigorta primi ve işsizlik sigorta primine ilişkin toplam tutarda meydana gelecek fark, toplamı (a), (b) ve (c) bentleri toplamı), 506 sayılı Kanun gereğince işveren nâm ve hesabına Hazinece yapılacak olan ödemeler de dikkate alınmak suretiyle bu Esasların 7 nci maddesi uygulanmaksızın ödenir veya kesilir.” hükmü yer almaktadır.
+
+Asgari ücret artışına dayalı olarak fiyat farkı verilmesini öngören bu hükme göre,  asgari ücretin artırılması halinde, eski ve yeni asgari ücretler arasındaki fark ile bu farktan doğan ve işverence karşılanması gereken sosyal sigorta primleri ile sigorta primi alt sınır artışından kaynaklanan fark ve bu farklara ait işsizlik ödeneğinin her işçi için aynı miktarda ödenmesi gerekmektedir.
+
+ Uygulamada ise anılan mevzuat hükümlerine aykırı şekilde olmak üzere, bazı personel için asgari ücret artışından kaynaklanan fark miktarının belirli oranda artırılarak ödeme yoluna gidilmiştir.
+
+Bu durum Kamu İhale Genel Tebliği’nin 83 üncü maddesinin “Personel Ücretleri ile İlgili Fiyat Farkı Hesabı” bölümünde de açıklandığı üzere, Esasların sadece 8 inci maddesine göre fiyat farkı öngörülen ihalelerde, ihale tarihi itibarıyla geçerli brüt asgari ücretin artması halinde, anılan madde gereği sadece asgari ücretteki artış miktarı ve bu artış miktarından kaynaklanan işveren payı kadar fiyat farkı hesaplanacak, vasıflı işçilik için asgari ücret artış oranında fiyat farkı verilmesi ancak Fiyat Farkı Esaslarının bütün olarak uygulandığı ve vasıflı işçiliğin 7 nci madde gereği a2 olarak belirlendiği hizmet alımı ihalelerinde mümkün olacaktır.
+
+Bu itibarla, Esasların sadece 8 inci maddesi gereğince asgari ücret fiyat farkı verilmesi öngörülen işte, asgari ücret artış miktarı ile bu artış miktarı için hesaplanan işveren payı kadar fiyat farkı verilmesi gerekmektedir. Bunun üzerinde fark hesaplanması suretiyle ödeme yapılması sonucu …………. TL tutarında kamu zararı oluşmuştur.
+
+B)  Adı geçen yüklenicinin 4857 sayılı İş Kanunu’nun 30 uncu maddesinde düzenlenen özürlü sigortalılara yönelik Hazine teşvikinden yararlanmasına karşın fiyat farkı hesabında bu teşvik dikkate alınmadan ödemede bulunulduğu görülmüştür.
+
+…………. Devlet Hastanesi ile …………. arasında akdedilen Sözleşme’nin “Fiyat Farkı” başlıklı 14.2 nci maddesinde; “Bu sözleşme kapsamında yapılan işler için fiyat farkı verilecektir.
+
+Fiyat farkı; 4734 sayılı Kamu İhale Kanununa Göre İhalesi Yapılacak Olan Hizmet Alımlarına İlişkin Fiyat Farkı Hesabında Uygulanacak Esaslar ve 07.05.2004 tarih ve 25455 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren bu Esaslarda Değişiklik Yapılmasına Dair Esaslar çerçevesinde, Esasların 8 inci maddesine göre fiyat farkı verilecektir.
+
+Esasların 8 inci maddesinde; “İhale konusu hizmetin gerçekleştirilebilmesi için çalıştırılacak 506 sayılı Sosyal Sigortalar Kanununa tabi personelin, sayı ve günlük çalışma saatinin belirtilmesi kaydıyla; a) Asgari ücret tespit komisyonunca ihale (son teklif verme) tarihinde 16 yaşını doldurmuş işçiler için belirlenmiş asgari ücretin değiştirilmesi halinde eski ve yeni asgari ücret arasındaki fark, b) İhale (son teklif verme) tarihi itibarıyla işveren tarafından karşılanacak olan sosyal sigorta primi ve işsizlik sigortası primine ilişkin toplam tutarda; asgari ücret değişikliği veya sigorta primi alt sınır değişikliği ile prim oranlan değişikliği gibi sebeplerle meydana gelecek fark, c) 506 sayılı Kanunun 77 nci maddesinin ikinci fıkrası çerçevesinde sözleşmede öngörülen ücret ekleri nedeniyle, işveren tarafından karşılanmakta olan sosyal sigorta primi ve işsizlik sigorta primine ilişkin toplam tutarda meydana gelecek fark, toplamı (a), (b) ve (c) bentleri toplamı), 506 sayılı Kanun gereğince işveren nâm ve hesabına Hazinece yapılacak olan ödemeler de dikkate alınmak suretiyle bu Esasların 7 nci maddesi uygulanmaksızın ödenir veya kesilir.” denilmektedir.
+
+4857 sayılı İş Kanunun 30 uncu maddesinin 6 ncı fıkrasında;
+
+“Özel sektör işverenlerince bu madde kapsamında çalıştırılan 17/7/1964 tarihli ve 506 sayılı Sosyal Sigortalar Kanununa tabi özürlü sigortalılar ile 1/7/2005 tarihli ve 5378 sayılı Kanunun 14 üncü maddesinde belirtilen korumalı işyerlerinde çalıştırılan özürlü sigortalıların, aynı Kanunun 72 nci ve 73 üncü maddelerinde sayılan ve 78 inci maddesiyle belirlenen prime esas kazanç alt sınırı üzerinden hesaplanan sigorta primine ait işveren hisselerinin tamamı, kontenjan fazlası özürlü çalıştıran, yükümlü olmadıkları halde özürlü çalıştıran işverenlerin bu şekilde çalıştırdıkları her bir özürlü için prime esas kazanç alt sınırı üzerinden hesaplanan sigorta primine ait işveren hisselerinin yüzde ellisi Hazinece karşılanır… ” hükmü yer almaktadır.
+
+Yukarıdaki madde hükmünden de açıkça anlaşılacağı üzere, özel sektör işverenlerince Sosyal Sigortalar Kanunu’na tabi özürlü işçiler ile korumalı işyerlerinde özürlü işçi istihdam edilmesi durumunda, istihdam edilen işçilerin (sigortalıların) prime esas kazanç alt sınırı üzerinden hesaplanan sigorta primlerine ait işveren hissesinin belli bir yüzdesi Hazinece karşılanacaktır.
+
+2008/77 sayılı “Özürlü Sigortalıların İstihdamına İlişkin İşveren Hissesi Prim Teşviki” konulu SGK Genelgesinin “4857 Sayılı Kanunun 30 uncu Maddesinde Düzenlenen Sigorta Primi İşveren Hissesi Teşvikinden Yararlanılmasına İlişkin Usul ve Esaslar” başlıklı 2.1 inci maddesinde aynen;
+
+“4857 sayılı Kanunun 30 uncu maddesine 5763 sayılı Kanunla getirilen sigorta primi işveren hissesi teşviki; özel sektöre ait işyerlerinde çalıştırılan özürlü sigortalıların, sigorta primine esas kazanç alt sınırı üzerinden hesaplanan sigorta primi işveren hisselerinin, anılan maddede belirtilen oran ve şartlar dahilinde Hazinece karşılanmasını düzenlemektedir.
+
+Anılan maddenin altıncı fıkrasına göre, yalnızca özel sektör işverenlerince çalıştırılan özürlü sigortalılardan dolayı sigorta primi işveren hissesi teşvikinden yararlanılması söz konusu olup, kamu işyerlerinde (genel ve katma bütçeli idareler, il özel idareleri, belediyeler, köyler ile bunlara bağlı işletmeler, sermayesinin yarısından fazlası bunlara ait olan işyerleri ve diğer kamu işyerlerinde) çalıştırılan özürlü sigortalılar için, bahse konu sigorta prim teşvikinden yararlanılması mümkün bulunmamaktadır. Buna göre; mahiyet kodu (1) ve (3) olarak tescil edilen veya resmi nitelikte olduğu halde (2) mahiyet kodu verilen işyerleri kapsama dâhil edilmeyecektir. Mahiyet kodu daha önce (1) veya (3) olarak verildiği halde, özel sektör işyeri olduğu iddia edilerek bu Kanunla getirilen teşvikten yararlanmak isteyen işverenlerin durumları üniteler tarafından mevzuat çerçevesinde araştırılacak ve sonucuna göre işlem yapılacaktır.” hükmü yer almaktadır.
+
+Fiyat Farkı Kararnamesinin 8 inci maddesinin (b) bendi ile yukarıda belirtilen özürlü sigortalılara ait Hazine teşviki birlikte değerlendirildiğinde; normal şartlar altında işverenlerce karşılanması gereken sigorta primleri Hazinece karşılandığından ve işverenlerin katlandığı sigorta prim yükü azaldığından, fiyat farkı verilmesi öngörülen personel çalıştırılmasına dayalı hizmet alımı ihalelerinde Hazinece karşılanan prim tutarlarının yüklenicilerin hak ediş ödemelerinden düşülmesi gerekmektedir. Nasıl ki idarelerce işverenlerin sigorta prim yükünde artış meydana geldiği zaman fiyat farkı ödeniyorsa, aynı şekilde işverenlerin sigorta prim yükü azaldığı durumda da, fiyat farkı kesintisi yoluna gidilmelidir.
+
+Üstenci tarafından istihdam edilen sigortalılara ait prim bildirgeleri üzerinde yapılan incelemede; adı geçen yüklenicinin 4857 sayılı İş Kanunu’nun 30 uncu maddesinde düzenlenen özürlü sigortalılara yönelik Hazine teşvikinden yararlandığı; ancak bu hususun fiyat farkı hesabında dikkate alınmadığı görülmüştür.
+
+Bu itibarla; adı geçen yüklenici tarafından istihdam edilen özürlü sigortalıların sigorta primlerinden, işveren hissesinin tamamı Hazine tarafından karşılandığından, aynı mahiyetteki ikinci kez prim ödenmesinin önlenmesi için buradaki ödemeden Hazinece karşılanan prim tutarının düşülmesi gerekirken ödemeye devam edilmesi sonucu …………. TL tutarında kamu zararı oluşmuştur.
+
+(A) ve (B) fıkralarında sorgu konusu edilen toplam …………. TL kamu zararı …………. no.lu banka dekontu ile …………. Devlet Hastanesi hesabına yılı içerisinde yatırıldığından söz konusu tutar için ilişik bulunmadığına oybirliğiyle,
+
+Karar verildi.
