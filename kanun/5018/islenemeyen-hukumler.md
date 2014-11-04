@@ -120,7 +120,7 @@ A) YÜKSEKÖĞRETİM KURULU, ÜNİVERSİTELER VE YÜKSEK TEKNOLOJİ ENSTİTÜLER
 36) Çanakkale Onsekiz Mart Üniversitesi
 37) Dumlupınar Üniversitesi
 38) Gaziosmanpaşa Üniversitesi
-39) Gebze Yüksek Teknoloji Enstitüsü
+39) (Değişik: 21/10/2014-6562/4 md.) Gebze Teknik Üniversitesi
 40) Harran Üniversitesi
 41) İzmir Yüksek Teknoloji Enstitüsü
 42) Kafkas Üniversitesi
