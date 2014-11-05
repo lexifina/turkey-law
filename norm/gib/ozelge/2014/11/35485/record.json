@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37009108-140[57-2014/2601]-121",
+  "source_id": 35485,
+  "date": "2014-11-05",
+  "title": "Taşınmaz hatalı olarak yapılan satışı işleminin Mahkeme kararına istinaden iptal edilmesi ile eski sahibi adına yeniden yapılacak tescil işleminden şekilde harç aranılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35485",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "f90432e87553cf3f0463f437c6b37f186a2e2704839051b541c0166c92c7a770",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
