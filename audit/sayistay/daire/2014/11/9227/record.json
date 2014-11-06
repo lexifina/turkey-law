@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "152",
+  "decision_date": "2014-11-06",
+  "source_id": 9227,
+  "chamber": "6",
+  "ilam_number": "170",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9227/",
+  "source_sha256": "4752670a4bb7c170c1de413cad3717bd96e27ca3337ac1869534eefc92803f48",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
