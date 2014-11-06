@@ -1,0 +1,3 @@
+Hatalı Birim Fiyat Üzerinden Ödeme Yapılması.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; AS.Y.002 Poz Nolu "Asfalt Betonu Aşınma Tabakası İle Kaplama Yapılması" iş kalemi birim fiyatı ile ödenmesi gereken bazı imalatların,  AS.Y.001 Poz Nolu "Asfalt Betonu Aşınma Tabakası İle Yama ve Onarım Yapılması" iş kalemi birim fiyatı ile ödenmesi sonucunda …..-TL tutarında kamu zararına neden olunduğu görülmüş ise de; bahse konu kamu zararı savunma ekinde  gönderilen …. tarih ve Bila no.lu Kesin Hesap Fişi ile ….. tarih ve seri …..-Alındı No …… numaralı alındı ile mahsuben tahsil edildiği görüldüğünden ilişilecek husus kalmadığına oy birliğiyle,
