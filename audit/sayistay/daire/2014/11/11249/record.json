@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10379",
+  "decision_date": "2014-11-06",
+  "source_id": 11249,
+  "chamber": "1",
+  "ilam_number": "83",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11249/",
+  "source_sha256": "46803b47b3d06e542167c927984ab0f78b432d0703674dcaadcf1b8df926973c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
