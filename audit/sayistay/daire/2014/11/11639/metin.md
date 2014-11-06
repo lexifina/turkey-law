@@ -1,0 +1,7 @@
+Kefalet aidatı
+
+2489 sayılı Kefalet Kanununun 1 inci maddesinin 25.06.2009 tarihli 5917 sayılı Kanunun 4 üncü maddesiyle değişik birinci fıkrasında; “10.12.2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I) ve (II) sayılı cetvellerde yer alan kamu idareleri ile bu idarelere bağlı döner sermayeli kuruluşlarda para, menkul kıymet ve ayniyatı alıp veren ve elinde tutan; memur, sözleşmeli personel ve işçiler (geçici işçiler hariç) için müteselsil kefalet usulü kabul edilmiş ve bu maksatla tüzel kişiliği haiz Kefalet Sandığı kurulmuştur. Bu Kanundaki memur ve müstahdem ibarelerinden bu fıkrada geçen kefalete tabi personel anlaşılır.” hükmü yer almaktadır.
+
+Buna göre Kamu idarelerinde görevlendirilen taşınır kayıt ve kontrol yetkililerinin 2489 sayılı Kanun’un 5917 sayılı Kanunun 5 inci maddesiyle değişik 2 inci maddesi gereğince kefalete bağlanarak aylık ve ücretlerinden 100 gösterge rakamının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunan tutar üzerinden aylık aidat kesilmesi de kefalete bağlanarak aylık aidat kesilmesi gerekir.
+
+…. İlçesi Özel İdare Müdürlüğünde Taşınır Kayıt ve Kontrol Yetkilisi görevini de yapan ……  ……. ….’a ödenen aylıklarından kefalet aidatı kesintisi yapılmaması sonucu oluşan toplam ….. TL kamu zararının sorumlulara ortaklaşa ve zincirleme ödettirilmesine karar verilmesi gerekmekte ise de,  bahsi geçen kamu zararının tamamının …. tarih ve …. no’lu banka dekontu ile tahsil edilmiş olduğu anlaşıldığından, bu tutar için ilişecek bir husus kalmadığına oy birliğiyle,
