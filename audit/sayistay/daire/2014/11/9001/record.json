@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "82",
+  "decision_date": "2014-11-06",
+  "source_id": 9001,
+  "chamber": "5",
+  "ilam_number": "67",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9001/",
+  "source_sha256": "48e763cb2dac4e8c77d88d6e354a9ce875d01b31c91e1789163e5715af0af6b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
