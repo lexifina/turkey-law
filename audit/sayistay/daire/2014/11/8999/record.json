@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "84",
+  "decision_date": "2014-11-06",
+  "source_id": 8999,
+  "chamber": "5",
+  "ilam_number": "104",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8999/",
+  "source_sha256": "8b1d5948684aee6163b84315a846d94a3316794d660d89b5f8383be037cd087c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
