@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10378",
+  "decision_date": "2014-11-06",
+  "source_id": 11640,
+  "chamber": "1",
+  "ilam_number": "19",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11640/",
+  "source_sha256": "a0b101766320f5a373c874deefc99ef59c1f923d58afcbb6449adee7a9598a09",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
