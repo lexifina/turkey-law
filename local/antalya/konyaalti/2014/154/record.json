@@ -1,0 +1,24 @@
+{
+  "number": "154",
+  "number_as_published": "154",
+  "year": 2014,
+  "title": "06/11/2014 Yılı Kasım Ayı  Karar Özetleri",
+  "decision_date": "2014-11-06",
+  "source": "https://www.konyaalti.bel.tr/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "5969d31829233c46e4830c688789692955571c2547678fe745135c1c602b3a5a",
+  "issuer": "Konyaaltı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2014-11-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06 Kasım 2014; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "06/11/2014 Yılı Kasım Ayı  Karar Özetleri",
+  "meeting_no": "2014/10",
+  "official_document_kind": null
+}
