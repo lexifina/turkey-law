@@ -81,3 +81,4 @@ Yemler | Ziraat mühendisi, veteriner hekim
 Veteriner sağlık ürünleri | Veteriner biyolojik ürünler | Veteriner hekim
 Diğer veteriner sağlık ürünleri | Veteriner hekim, kimyager, kimya mühendisi, eczacı
 Bitki koruma ürünleri | Ziraat mühendisi, kimyager, kimya mühendisi
+10606
