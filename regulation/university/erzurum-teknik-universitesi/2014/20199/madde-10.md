@@ -1,0 +1,2 @@
+Yönetim Kurulunun toplantı zaman ve usulü
+MADDE 10 – (1) Yönetim Kurulu ayda en az bir defa olağan olarak toplanır. Müdür gerekli gördüğü durumlarda veya üyelerden üçünün yazılı talebi üzerine Yönetim Kurulunu olağanüstü toplantıya çağırır. Toplantı günü ve yeri üyelere toplantı tarihinden en az bir hafta önce yazılı olarak bildirilir. Yönetim Kurulu, üye tam sayısının salt çoğunluğu ile toplanır ve toplantıya katılan üyelerin oy çokluğu ile karar alınır. Yönetim Kurulu toplantısına üst üste üç defa özürsüz katılmayan üyenin üyeliği kendiliğinden düşer.

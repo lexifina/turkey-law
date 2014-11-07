@@ -1,0 +1,3 @@
+Müdür ve Müdür Yardımcıları
+MADDE 12 – (1) Müdür, Merkezin çalışma alanı ile ilgili konularda görev yapan Erzurum Teknik Üniversitesi öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Müdür, Merkezin tüm faaliyetlerinden Rektöre karşı sorumludur. Süresi dolmadan ayrılan Müdürün yerine, Rektör tarafından yeni bir Müdür görevlendirilir.
+(2) Müdür, Merkezin çalışma alanı ile ilgili konularda görev yapan Üniversite öğretim elemanlarından ikisini Müdür Yardımcıları olarak görevlendirir. Müdür görevi başında bulunmadığı zaman Müdür Yardımcılarından birisini, onlar da bulunmazsa Yönetim Kurulu üyelerinden birini yerine vekil olarak bırakır.

@@ -1,0 +1,10 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez amaçları çerçevesinde aşağıda belirtilen alanlarda faaliyet gösterir:
+a) Mikro ve nanoteknoloji alanında hassas aygıt üretimi yapacak araştırmacılar için merkez bünyesinde 1.000 ve 10.000 sınıfı ultra-temiz oda ortamları sağlamak.
+b) Biyoteknoloji, biyomedikal ve biyomalzeme alanlarında çalışmalar yaparak bunların en önemli uygulama alanlarından biri olan biyoaygıtların gelişimine ülkemizde öncülük etmek. Kurulacak altyapı ile karmaşık yapılı ve kişiye özel implant malzemelerini üretmek ve bu malzemelerin yüzey özelliklerini iyileştirerek kullanım ömürlerini artırmak.
+c) Nanoakışkanlar ve Mikro Akışlı Cihazlar Birimi kurarak her türlü nanoakışkanın sentezlenmesini, mikro boyutta cihazların tasarım ve geliştirilmesini, mikro pompa ve mikro pillerdeki manyetik ve elektromanyetik olarak zorlanmış mikro akışların analizlerini gerçekleştirmek. Bunların yanı sıra, havacılık ve otomotiv endüstrisi, savunma sanayi, uzay endüstrisi gibi stratejik alanlara yönelik komponent tasarım ve geliştirilmesine katkı sağlamak.
+ç) Yüksek teknolojinin vazgeçilmezlerinden olan nanofotonik ve kuantum bilgi işleme alanlarında projeler gerçekleştirerek ülkemizde lazer teknolojisinin ve kuantum bilgisayarların gelişimine katkıda bulunmak.
+d) Malzeme teknolojisinin günümüz elektronik/makine/bilgisayar sektöründeki ve nanoteknolojinin gelişimindeki büyük payını göz önünde bulundurarak organik, polimer ve akıllı malzemeler üzerine araştırmalar yapmak ve projeler gerçekleştirmek.
+e) Zamanımızın en stratejik konularından biri olan yenilenebilir enerji kaynakları (özellikle güneş ve hidrojen teknolojileri) üzerine çalışmalar gerçekleştirmek ve özellikle güneş pilleri teknolojisinin ülkemizde yaygınlaşması için projeler yürütmek.
+f) Yapılar İçin Sismik Performans Değerlendirme Birimi kurarak, mevcut yapıların deprem davranış ve dayanımlarının incelenmesini ve yeni yapı projelerinin depreme dayanıklı tasarım ilkeleri açısından kontrolünü gerçekleştirmek.
+g) Yukarıda sözü edilen teknolojik alanlarda mühendislik, teknik müşavirlik, danışmanlık yapmak ve laboratuvar hizmetleri vermek.
