@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-11-08",
+  "issue": "29169",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2014/82)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141108-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141108.htm",
+  "index_sha256": "1ca772036bfa95ab40d58273de0a8cd3a0acd130e7afafb55b1f11ea99ff87f9",
+  "index_header": "8 Kasım 2014 ... 29169 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141108.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
