@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-11-11",
+  "issue": "29172",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Ankara Üniversitesi Lisansüstü Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141111-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141111.htm",
+  "index_sha256": "9c8ec7978aeeb785a3c219a7b5e299436b66bee85a421754d3bac158a31d5701",
+  "index_header": "11 Kasım 2014 ... 29172 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141111.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
