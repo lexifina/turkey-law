@@ -1,0 +1,69 @@
+{
+  "source_id": "9.5.11482",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO:2007/26)",
+  "number": "11482",
+  "path": "teblig/2007/11482",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11482&MevzuatTertip=5",
+  "source_sha256": "322caed28b5015e46fe3934832e36d864ed147c5ec6d7ce3028ecc20f6fe7596",
+  "source_bytes": 27947,
+  "published": "2007-08-02",
+  "gazette": "26601",
+  "in_force": "2014-11-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/11/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-11-11",
+      "RG-11/11/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-11-11",
+      "11/11/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-07-11",
+      "RG-11/7/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-07-11",
+      "11/7/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-07-28",
+      "28/7/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-01-22",
+      "22/1/2009",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2007-12-13",
+      "13/12/2007",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımını takip eden 30 uncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 444,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.11482%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
