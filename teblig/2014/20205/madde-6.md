@@ -1,0 +1,2 @@
+Bir vergi aslına bağlı olmaksızın kesilmiş olan idari para cezaları
+MADDE 6 – (1) 11/9/2014 tarihi itibarıyla vadesi geldiği halde ödenmemiş olan ya da ödeme süresi henüz geçmemiş bulunan ve bir vergi aslına bağlı olmaksızın 4458 sayılı Kanun ve ilgili diğer kanunlar kapsamında kesilmiş olan idari para cezaları ile 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun iştirak hükümleri nedeniyle kesilmiş olan idari para cezalarının % 50’sinin bu Tebliğde belirtilen süre ve şekilde tamamen ödenmesi şartıyla cezaların kalan % 50’sinin tahsilinden vazgeçilir.

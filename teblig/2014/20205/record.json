@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20205",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "6552 SAYILI KANUN KAPSAMINDA YENİDEN YAPILANDIRILACAK GÜMRÜK ALACAKLARINA İLİŞKİN TEBLİĞ",
+  "number": "20205",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2014/20205",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20205&MevzuatTertip=5",
+  "source_sha256": "40bb9853f68e2936615664d22015db6625a53e4d15fa72ad4945ebe8da0c22bc",
+  "source_bytes": 38356,
+  "published": "2014-11-12",
+  "gazette": "29173",
+  "in_force": "2014-11-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.11.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2843,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20205-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
