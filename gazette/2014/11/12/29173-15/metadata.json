@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-11-12",
+  "issue": "29173",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Müşterek Anlaşmalara İlişkin Türkiye Finansal Raporlama Standardı (TFRS 11) Hakkında Tebliğ (Sıra No: 217)’de Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 37)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141112-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141112.htm",
+  "index_sha256": "4aae29b622e93bf6ded51d172fb3ee577d084f159f6c26bbf92acd4e9c48f2a7",
+  "index_header": "12 Kasım 2014 ... 29173 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141112.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
