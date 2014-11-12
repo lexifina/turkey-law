@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155.13.01.01[2014/2559]-1137",
+  "source_id": 21528,
+  "date": "2014-11-12",
+  "title": "Manevi tazminatın icra müdürlüğüne ödenmesinde gelir ve damga vergisi istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21528",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "1929a818518da8d981f99c969933ba6c7f39938af938cd39de40a2d58408ee1c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
