@@ -1,0 +1,47 @@
+{
+  "source_id": "9.5.9960",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KİRALAMA İŞLEMLERİNE İLİŞKİN TÜRKİYE MUHASEBE STANDARDI (TMS 17) HAKKINDA TEBLİĞ SIRA NO: 21",
+  "number": "9960",
+  "issuer": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu Başkanı",
+  "path": "teblig/2006/9960",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9960&MevzuatTertip=5",
+  "source_sha256": "360640db3de22691bc728f8d518b735bbca8c8736d95512aefcee7e987374c80",
+  "source_bytes": 88851,
+  "published": "2006-02-24",
+  "gazette": "26090",
+  "in_force": "2014-11-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/11/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-11-12",
+      "RG-12/11/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-08-13",
+      "RG-13/8/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-07-15",
+      "RG-15/07/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 31/12/2005 tarihinden sonra başlayan hesap dönemleri için geçerli olmak üzere yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5162,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
