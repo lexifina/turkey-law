@@ -1,0 +1,7 @@
+Türkiye pazarının önemi ve talebi etkileyen unsurlar
+MADDE 23 – (1) Yerli üreticilerden temin edilen veriler doğrultusunda, polyester elyaf tüketimi 2011-2013 yılları arasında %24 oranında artış kaydetmiştir.
+(2) Önlem konusu ürün pazarının büyümekte olduğu ancak yerli üretim dalının artan ithalat baskısı nedeniyle pazar payını koruyamadığı görülmüştür.
+(3) Polyester elyaf kullanım alanları itibarıyla hazır giyim ve konfeksiyon sektörü için önemli bir hammaddedir. İhracatçı birlikleri kayıt rakamlarına göre, Türkiye’nin hazır giyim ve konfeksiyon ihracatı 2013 yılında %8,3 artmış ve toplam ihracattan %12 pay alarak 17,4 milyar dolar olmuştur.
+(4) Yapılan yerinde doğrulama soruşturmasında, YÜD’ü oluşturan yerli üretici firmanın esas ve ilk nihai gözden geçirme soruşturmasında da belirlendiği üzere yeterli deneyim ve üretim teknolojisine sahip olduğu ve çeşitli tiplerde polyester elyaf üretebildiği belirlenmiştir.
+(5) İthalatçı firmalar tarafından önlem konusu üründe fiyatın talebi etkileyen öncelikli bir unsur olduğu belirtilmiştir. Öte yandan, polyester elyaf üretiminde maliyeti temel olarak hammadde fiyatları belirlemektedir. Bu kapsamda, petrokimya türevi olan önlem konusu ürünün fiyatları söz konusu sektördeki fiyat dalgalanmalarına paralel olarak değişim gösterebilmektedir.
+(6) Talebi etkileyen diğer önemli unsurlar, ürünün kalitesi ve istenilen sürede temin edilebilmesidir.
