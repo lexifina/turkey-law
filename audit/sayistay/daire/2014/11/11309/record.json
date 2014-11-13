@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10386",
+  "decision_date": "2014-11-13",
+  "source_id": 11309,
+  "chamber": "1",
+  "ilam_number": "33",
+  "item_number": 3,
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11309/",
+  "source_sha256": "d45454e11028dce3927b439cba56ffd81bb876c44bf4becc68dd981c676a9c4a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
