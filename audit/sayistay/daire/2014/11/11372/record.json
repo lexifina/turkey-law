@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10387",
+  "decision_date": "2014-11-13",
+  "source_id": 11372,
+  "chamber": "1",
+  "ilam_number": "73",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11372/",
+  "source_sha256": "014463b3b99511c6114664473e21b8c3de2a2ac083089ade0e5173c569d34124",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
