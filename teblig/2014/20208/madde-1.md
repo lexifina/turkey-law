@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı; Cinnah Caddesi 73/6 06690 Çankaya/ANKARA adresinde yerleşik Yapı Araştırma Derneği İnşaat Teknik Değerlendirme ve Bilimsel Araştırma Kurumu İktisadi İşletmesi’nin 10/7/2013 tarihli ve 28703 sayılı Resmî Gazete’de yayımlanan Yapı Malzemeleri Yönetmeliği (305/2011/AB) çerçevesinde Çevre ve Şehircilik Bakanlığı tarafından ek-1’de yer alan kapsamda Avrupa Teknik Değerlendirme Kuruluşu olarak görevlendirilmesine ilişkin duyuruyu yapmaktır.

@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20208",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİ YÖNETMELİĞİ (305/2011/AB) KAPSAMINDA YAPI ARAŞTIRMA DERNEĞİ İNŞAAT TEKNİK DEĞERLENDİRME VE BİLİMSEL ARAŞTIRMA KURUMU İKTİSADİ İŞLETMESİ’NİN AVRUPA TEKNİK DEĞERLENDİRME KURULUŞU OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (TEBLİĞ NO: MHG/2014-27)",
+  "number": "20208",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2014/20208",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20208&MevzuatTertip=5",
+  "source_sha256": "756f9574c451e11745dd8585f8deb7677956697b1b65abbd539579a2041e44d8",
+  "source_bytes": 6543,
+  "published": "2014-11-13",
+  "gazette": "29174",
+  "in_force": "2014-11-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.11.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 113,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20208-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
