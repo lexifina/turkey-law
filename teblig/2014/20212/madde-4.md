@@ -1,0 +1,10 @@
+İlgili tarafların bilgilendirilmesi, bilgilerin toplanması ve değerlendirilmesi
+MADDE 4 – (1) Soruşturma açılmasını müteakip, soruşturma konusu ürünün Bakanlık tarafından bilinen ABD ve Kanada’daki üreticilerine/ihracatçılarına, Türkiye’de yerleşik ithalatçılarına ve ayrıca soruşturmaya konu ülkelerde yerleşik diğer üreticilere/ihracatçılara iletilebilmesini teminen anılan ülkelerin Ankara’daki Büyükelçiliklerine soruşturmanın açılışına ilişkin bildirimde bulunulmuştur.
+(2) Bildirimde, soruşturma açılış Tebliğine, başvurunun gizli olmayan metnine ve soru formlarına nereden erişileceği hususunda bilgi verilmiştir.
+(3) Taraflara soru formunu yanıtlamaları için posta süresi dâhil 37 gün süre tanınmıştır. Tarafların süre uzatımı yönündeki makul talepleri karşılanmıştır.
+(4) YÜD, soruşturma süresi boyunca Bakanlık ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgileri temin etmiştir.
+(5) Kendilerine bildirim yapılan ithalatçı firmaların beşinden cevap alınmıştır.
+(6) Üretici/İhracatçı soru formuna ilişkin olarak ise ABD’de yerleşik Langdale International Trading Corp. ihracatçı firmasından cevap alınmıştır.
+(7) Soruşturmaya ilişkin bilgi ve bulguların tamamlanması akabinde, soruşturma sonucunda alınacak karara esas teşkil edecek bilgi, bulgu, tespit ve değerlendirmeleri içeren nihai bildirim; 16-17/9/2014 tarihlerinde soruşturma konusu ülkelerin Ankara Büyükelçilikleri ile soruşturma sırasında görüş bildiren üretici/ihracatçı, ithalatçılar, YÜD ve başvuruyu destekleyen yerli üreticiye iletilmiştir.
+(8) Kendisine bildirim yapılmış olan firmalardan hiçbiri nihai bildirime ilişkin görüş bildirmemiştir.
+(9) Tarafların soruşturma boyunca ve nihai bildirim sonrası ortaya koyduğu tüm bilgi, belge ve görüşler incelenmiş, bu görüşlerin mevzuat kapsamında değerlendirilebilecek olanlarına bu Tebliğin ilgili bölümlerinde değinilmiştir. Ayrıca, ilgili taraflardan alınan bilgi ve belgelerin gizli olmayan nüshaları, talep eden bütün ilgili tarafların bilgisine sunulmak üzere hazır tutulmuştur.
