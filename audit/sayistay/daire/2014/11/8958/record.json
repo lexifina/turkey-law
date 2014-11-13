@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10384",
+  "decision_date": "2014-11-13",
+  "source_id": 8958,
+  "chamber": "1",
+  "ilam_number": "128",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8958/",
+  "source_sha256": "57c7f51041cc6bab2ccb535fdd11a9613a4ba63ba19c4918baffe6ed1701d485",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
