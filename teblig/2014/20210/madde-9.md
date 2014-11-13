@@ -1,0 +1,3 @@
+Esas soruşturmada tespit edilen damping marjları
+MADDE 9 – (1) Soruşturma konusu üründeki mevcut dampinge karşı önlemlerin hukuki ve idari altyapısını teşkil eden damping soruşturması çerçevesinde, ilgili taraflardan elde edilen bilgi ve belgeler temelinde tespit edilen damping marjı incelenmiştir. Esas soruşturma sırasında üretici-ihracatçı firmalar için damping marjları, ÇHC için mutlak olarak 3,86 ABD Doları/Kg, nispi olarak ise CIF bedelinin %115’i; Çin Tayvanı içinse mutlak olarak 1,83 ABD Doları/Kg ve nispi olarak CIF bedelinin %34’ü olarak tespit edilmiştir.
+(2) Diğer taraftan, 2008/36 sayılı Tebliğ ile tamamlanan NGGS çerçevesinde damping marjı hesabı yapılmamış, esas soruşturmada hesaplanan marjlar dikkate alınmıştır.

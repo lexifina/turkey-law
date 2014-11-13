@@ -1,0 +1,3 @@
+Türkiye pazarının önemi ve talebi etkileyen unsurlar
+MADDE 21 – (1) Önlem konusu ürünün talebini etkileyen başlıca unsurlar fiyat ve kalitedir. Önleme konu ülkelerin önlemin yürürlükten kalkması durumunda ciddi üretim ve ihracat kapasitesini haiz olmaları ve düşük birim ihraç fiyatları dolayısıyla Türkiye pazarında yeniden hakim konuma ulaşmalarının muhtemel olduğu değerlendirilmektedir.
+(2) Önlem konusu cırt bant ürününün özellikle tekstil sektöründe kullanıldığı düşünüldüğünde, Türkiye ekonomisinin ve tekstil sektörünün büyümesine paralel olarak, cırt bant talebinin de artacağı ve yerli üretim dalının kapasitesinin söz konusu talebi karşılayabilecek düzeyde olduğu değerlendirilmiştir.

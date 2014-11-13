@@ -1,0 +1,2 @@
+Yerli üretim dalının ekonomik göstergelerinin değerlendirilmesi
+MADDE 18 – (1) Yerli üretim dalından temin edilen veriler ışığında yapılan incelemeler sonucunda yerli üretim dalının bazı ekonomik göstergelerinde önlemden sonraki dönemde toparlanma olmasına karşın bazı olumsuzlukların halen devam ettiği görülmektedir. Buna göre, yerli üretim dalının verimlilik, stoklar ve kapasite kullanım oranlarındaki olumsuzlukların önlem sonrası dönemde devam ettiği, bu olumsuzlukların önlemin sona ermesiyle beraber artarak devam edeceği değerlendirilmektedir.

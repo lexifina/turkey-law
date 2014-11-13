@@ -1,0 +1,9 @@
+İlgili tarafların bilgilendirilmesi, bilgilerin toplanması ve değerlendirilmesi
+MADDE 4 – (1) Soruşturma açılmasını müteakip, soruşturma konusu ürünün Bakanlık tarafından bilinen ÇHC’deki ve Çin Tayvanı’ndaki üreticilerine/ihracatçılarına, Türkiye’de yerleşik ithalatçılarına ve ayrıca soruşturmaya konu ülkelerde yerleşik diğer üreticilere/ihracatçılara iletilebilmesini teminen ÇHC ve Çin Tayvanı’nın Ankara’daki resmi temsilciliklerine soruşturmanın açılışına ilişkin bildirimde bulunulmuştur.
+(2) Bildirimde, soruşturma açılış Tebliğine, başvurunun gizli olmayan metnine ve soru formlarına nereden erişileceği hususunda bilgi verilmiştir.
+(3) Taraflara soru formunu yanıtlamaları için posta süresi dâhil 37 gün süre tanınmıştır.
+(4) Yerli üretim dalı, soruşturma süresi boyunca Bakanlık ile işbirliği içinde olmuş ve gerektiğinde talep edilen ilave bilgileri temin etmiştir.
+(5) Soruşturma ve zarar inceleme döneminde ithalat gerçekleştirdiği tespit edilen 16 ithalatçı firmaya soru formu gönderilmiş ve bu firmaların 8 inden cevap alınmıştır.
+(6) Üretici/İhracatçı soru formuna ise ÇHC ve Çin Tayvanı’nda yerleşik ihracatçılardan yanıt veren ve işbirliğinde bulunan herhangi bir firma olmamıştır.
+(7) Soruşturmaya ilişkin bilgi ve bulguların tamamlanması akabinde, soruşturma sonucunda alınacak karara esas teşkil edecek bilgi, bulgu, tespit ve değerlendirmeleri içeren nihai bildirim, ÇHC ve Çin Tayvanı’nın Ankara’daki resmi temsilcilikleri ile soruşturma sırasında görüş bildiren ithalatçılar ve yerli üretim dalına iletilmiştir. Nihai bildirime ilişkin herhangi bir görüş alınmamıştır.
+(8) Tarafların soruşturma boyunca ortaya koyduğu tüm bilgi, belge ve görüşler incelenmiş, bu görüşlerin mevzuat kapsamında değerlendirilebilecek olanlarına bu raporun ilgili bölümlerinde değinilmiştir. Ayrıca, ilgili taraflardan alınan bilgi ve belgelerin gizli olmayan nüshaları, talep eden bütün ilgili tarafların bilgisine sunulmak üzere hazır tutulmuştur.
