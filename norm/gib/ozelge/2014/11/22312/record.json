@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[229-2012/VUK-1- . . .]--2491",
+  "source_id": 22312,
+  "date": "2014-11-14",
+  "title": "Yurt dışından ithal edilen ürünlerle ilgili yapılan masrafların yurtdışı mukimi firmaya yansıtılmasının kurumlar vergisi ve kdv açısından durumu ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22312",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "a81c1a231adba016226db5d6c6dee1a6e9f2e7fa2653cf05697bed68d9b8c48e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
