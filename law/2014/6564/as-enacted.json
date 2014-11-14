@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6564",
+  "year": 2014,
+  "title": "Yükseköğretim Personel Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-11-14",
+  "gazette_issue": "29175",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141114-1.htm",
+  "source_sha256": "ec885376969a7309bd03fab4fad26db1d5e935b656497278344a53fd1b629282",
+  "text_sha256": "95c641f4373ff1a6fe3584fe4b7679efcd76da9f2c7ed437d243d03862d5e3c0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/11/14/29175-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141114-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
