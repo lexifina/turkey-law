@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6565",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Macaristan Hükümeti Arasında Kültür Merkezlerinin Kuruluşu, İşleyişi ve Faaliyetleri Hakkında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-11-14",
+  "gazette_issue": "29175",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141114-2.htm",
+  "source_sha256": "feb034acbb626978b379a431fe05ad57b270765d033eec5cbfb9501736c5bf26",
+  "text_sha256": "cd5373dcb398f737ac2c9cbafdf720cd5ab44464765d3f86df64615ef900a7aa",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/11/14/29175-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141114-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
