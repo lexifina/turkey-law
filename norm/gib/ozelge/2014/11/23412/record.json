@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155[5824-2012/2042]-1146",
+  "source_id": 23412,
+  "date": "2014-11-14",
+  "title": "Avrupa Birliği tarafından desteklenen proje kapsamında kamu görevlisine yapılan ücret ödemesinin gelir vergisi ve damga vergisine tabi olup olmadığı ile tabi olması halinde vergi matrahının nasıl hesaplanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/23412",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "4db9ac5cd786a468753ba2e64f17b234faec8a244a7f0382d167467b8182811b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
