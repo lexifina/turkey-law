@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6566",
+  "year": 2014,
+  "title": "Eczacılar ve Eczaneler Hakkında Kanun ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-11-14",
+  "gazette_issue": "29175",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141114-3.htm",
+  "source_sha256": "b3210656ea170c3fd7a989fff332cb74b9c25e36d54650ddc3c76f08d12a74e3",
+  "text_sha256": "3a5da3f8947be9383a438ddc89220da4ae0e7ffee18f2c212afa1e3222fc7190",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/11/14/29175-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141114-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
