@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-11-15",
+      "15.11.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29176",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-11-15",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ege Üniversitesi",
+  "issuer_slug": "ege-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ege-universitesi/2014/20213",
+  "published": "2014-11-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20213&MevzuatTertip=5",
+  "source_bytes": 21073,
+  "source_id": "8.5.20213",
+  "source_sha256": "5fb53e357f0154ac8aacf5ac43dc1df7a52d4f96db6221521645f1a5beb38a6b",
+  "text_status": "as-enacted",
+  "title": "EGE ÜNİVERSİTESİ KORDON KANI, HÜCRE-DOKU UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 191,
+  "word_count": 1156
+}
