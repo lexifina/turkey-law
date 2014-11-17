@@ -1,0 +1,4 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; Merkez projelerine özel uzmanlık alanlarında katkı sağlamak ve Merkez faaliyetleri ile ilgili olarak değerlendirmede bulunmak üzere oluşturulan bir kuruldur.
+(2) Danışma Kurulu; konuyla ilgili öğretim elemanları ve Merkezin çalışma alanlarına katkıda bulunabilecek Üniversite öğretim elemanları ve diğer yerli ve yabancı akademik kuruluşlar, araştırma kuruluşları, resmi veya özel kurum ve kuruluşların temsilcileri ile bu konuda değerli hizmetler vermiş olan kişiler arasından Müdürün önerisi üzerine, Rektör tarafından üç yıl için seçilen uzman kişilerden oluşur. Danışma Kurulu üye sayısı en fazla yirmi olabilir. Süresi dolmadan görevlerinden ayrılan üyelerin yerine, kalan süreyi doldurmak için aynı yöntemle yeni üyeler seçilir. Süresi biten üye tekrar seçilebilir.
+(3) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir kez toplanır. Danışma Kuruluna Müdür başkanlık eder.
