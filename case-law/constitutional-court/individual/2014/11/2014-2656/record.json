@@ -1,0 +1,20 @@
+{
+  "applicant": "S.A. VE L.A.",
+  "application_date": "2014-02-25",
+  "application_number": "2014/2656",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2014-11-17",
+  "id": "ee2746c6-e981-9452-668b-e190a1e0bc68",
+  "in_force": "2014-11-17",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmVlMjc0NmM2LWU5ODEtOTQ1Mi02NjhiLWUxOTBhMWUwYmM2OA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "626ef1ec472af217fa9f39c87dcc21ab62a2c6568e1226169e372fd761e406ab",
+  "version_label": "as-enacted"
+}
