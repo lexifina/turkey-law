@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-11-17",
+  "issue": "29178",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Celal Bayar Üniversitesi Nüfus ve Göç Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141117-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141117.htm",
+  "index_sha256": "9ed2ee5ba77351beb20fb997d41008101e7685f2f31ee9fe501e5c2552f9d20d",
+  "index_header": "17 Kasım 2014 ... 29178 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141117.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
