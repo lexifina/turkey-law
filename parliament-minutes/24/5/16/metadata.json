@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 24,
+  "legislative_year": 5,
+  "sitting": 16,
+  "sitting_date": "2014-11-19",
+  "listed_date": "19 Kasım 2014 Çarşamba",
+  "status": "Basılmış",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/24/5/16/6bcb5635-c8ae-4466-bb94-6c733c7f2569.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=af1cb0f8-0785-4db0-91ac-0185ceac6a7c",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=24&YasamaYili=5",
+  "source_sha256": "14dd070d9304bb90b8762ea4957e61670813eb217586fa99d55eed719ab02d00",
+  "source_bytes": 1340234,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
