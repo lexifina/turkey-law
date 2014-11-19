@@ -1,0 +1,20 @@
+{
+  "applicant": "F.Ö.",
+  "application_date": "2013-07-24",
+  "application_number": "2013/5895",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2014-11-19",
+  "id": "2e558bef-fbe1-2fb7-9a73-a1b4e219fe37",
+  "in_force": "2014-11-19",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjJlNTU4YmVmLWZiZTEtMmZiNy05YTczLWExYjRlMjE5ZmUzNw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "f2c2de36b6e13b80fc1dc74b0fd5d400b5faf0f8ddf62605ebb76ad8680b5fc1",
+  "version_label": "as-enacted"
+}
