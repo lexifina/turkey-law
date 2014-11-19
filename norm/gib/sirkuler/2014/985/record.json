@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "ÖTV-1/2014-3",
+  "source_id": 985,
+  "date": "2014-11-19",
+  "title": "2014/6881 sayılı Kararname Kapsamında Aerosol Üretiminde Kullanılacak L.P.G. yi Üreten Dağıtıcılara Verilecek Raporu Düzenlemeye Yetkili Akredite Laboratuvarlar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/sirkuler/985",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "0c583289d23ae6418e2fb169ec4c5be4b0c86f10ff4395ba04f2c892afc93bae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
