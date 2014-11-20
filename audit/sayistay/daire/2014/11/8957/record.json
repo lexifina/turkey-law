@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10388",
+  "decision_date": "2014-11-20",
+  "source_id": 8957,
+  "chamber": "1",
+  "ilam_number": "295",
+  "item_number": 1,
+  "public_body_type": "Diğer",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8957/",
+  "source_sha256": "92316d43d8f03ac7b2b7dcfd1d0ab31a8f3720a10e04d2b249b5daf7debb72d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
