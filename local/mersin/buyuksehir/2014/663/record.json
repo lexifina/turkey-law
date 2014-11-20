@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "663",
+  "decision_date": "2014-11-20",
+  "title": "MEC_ KAR_ (Silifke-Mut Devlet Karayolu)",
+  "listed_as": "663 MEC_ KAR_ (Silifke-Mut Devlet Karayolu)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/663-mec--kar--silifke-mut-devlet-karayolu",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk77-20-kasim-2014-meclis-kararlari",
+  "listing_sha256": "c7f85a32e0058b0346b09cd96634d4d15fa82637692bfb0c8d14be7019224f1c",
+  "meeting_title": "MK77-20 KASIM 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
