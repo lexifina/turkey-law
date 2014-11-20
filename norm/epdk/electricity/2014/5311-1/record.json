@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5311/1",
+  "decision_date": "2014-11-20",
+  "title": "EPDK Kurul Kararı 5311/1",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fAVW6BHtP8c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fAVW6BHtP8c="
+  ],
+  "source_sha256": "2a9d18d88eebcff9667582e43759e1315efefa3086dc29747b88acd7a2d68dbf",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-11-20",
+  "law_text_complete": false
+}
