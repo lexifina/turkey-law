@@ -1,0 +1,3 @@
+Konu:Katma Değer Vergisi
+
+………….. Şti. yükleniminde yaptırılan Ocak ayına ait bir, Şubat ve Mart aylarına ait iki aylık ……….. Üniversitesi Hastaneleri 2013 yılı Ev İdaresi Hizmetleri alım işlerine ait hakedişlerde, yemek bedelleri idare tarafından karşılanıp yükleniciye % 18 KDV ile ödenmekteyken, ilgili aylara ait yemek bedellerinin hakediş raporunda KDV öncesi kesinti olarak yer alması gerektiği halde, işletme müdürlüğünce % 8 KDV hesaplanarak fatura düzenlenip ödeme emri belgesi üzerinden kesinti yapılması sonucu oluşan …… TL kamu zararı ………… ahizi…………. Şti.’den tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle,
