@@ -1,0 +1,29 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5313/1",
+  "decision_date": "2014-11-20",
+  "title": "Enerji Piyasası Bildirim Sistemi Kullanım Talimatı",
+  "resmi_gazete_date": "2014-12-24",
+  "resmi_gazete_number": "29215",
+  "categories": [
+    "Lisans İşlemleri Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PNGVvQhPjHc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PNGVvQhPjHc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vrRtFbxib6A=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IRN9G8llQOA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iTs8L/qyOWE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HmFwZqtFLXc="
+  ],
+  "source_sha256": "bd586b3bfcd1676f62364cb57ef234324d1ac234dec23917177e4e59f463cb9d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4913,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-11-20",
+  "law_text_complete": false
+}
