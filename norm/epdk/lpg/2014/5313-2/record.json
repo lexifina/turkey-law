@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "5313/2",
+  "decision_date": "2014-11-20",
+  "title": "Sıvılaştırılmış Petrol Gazları (LPG) Piyasasında Lisans Başvurusu ve Bildirim Açıklamalarına İlişkin Kurul Kararının 11 inci maddesinin yürürlükten kaldırılmasına dair",
+  "resmi_gazete_date": "2014-12-24",
+  "resmi_gazete_number": "29215",
+  "categories": [
+    "Lisans Başvuruları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bHuaCWqJHog=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bHuaCWqJHog=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=o8HrgrTD9Z8="
+  ],
+  "source_sha256": "acd3c5e4a57e880d5188645df65a450cd9eee9f9274a839bbfc203b35db08385",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5098,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-11-20",
+  "law_text_complete": false
+}
