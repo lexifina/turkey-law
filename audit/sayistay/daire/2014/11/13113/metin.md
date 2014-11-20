@@ -1,0 +1,25 @@
+Konu:Ek ders ücreti
+
+…………… Üniversitesi Bilişim Enstitüsünde ikinci öğretim kapsamında yürütülen tezsiz yüksek lisans programlarında ek ders ücretlerinin hatalı ödendiği görülmüştür.
+
+2547 sayılı Yükseköğretim Kanununa 17.09.2004 tarihli ve 5234 sayılı Kanunun 2 nci maddesiyle eklenen Ek 27 nci maddesinde;
+
+"Üniversite veya yüksek teknoloji enstitülerinde hukuk, uluslararası ilişkiler, iktisat, işletme, bilgi teknolojileri ve ileri teknolojiler ile öğretmenlik alanlarında ikinci öğretim kapsamında yürütülecek tezsiz yüksek lisans programlarının açılması, öğrencilerden alınacak öğretim ücretleri, bu programlarda fiilen ders veren öğretim üyelerine ödenecek ek ders ve sınav ücretleri, aşağıda belirtilen esaslara uyulmak kaydıyla ilgili üniversite veya yüksek teknoloji enstitüsü yönetim kurulunun teklifi üzerine Yükseköğretim Kurulu tarafından belirlenir.
+
+Üniversite veya yüksek teknoloji enstitüsü yönetim kurulu kararlarında belirtilecek tarihlerde asgarî iki eşit taksitte alınan öğretim ücretleri, üniversite veya yüksek teknoloji enstitüsü adına kamu bankalarından birinde açtırılacak hesaba yatırılır. Bu tutarlar, Rektörlükçe en geç onbeş gün içinde ilgili bütçe dairesi başkanlığının hesabına yatırılır.
+
+Toplanan öğretim ücretlerinin % 30'undan az olmamak üzere üniversite veya yüksek teknoloji enstitüsü yönetim kurulunca belirlenecek kısmı, bilimsel araştırma projelerinde kullanılmak üzere yüksek öğretim kurumlarında yer alan mevcut veya yeniden açılacak tertiplere ödenek kaydedilir. Geri kalanı ise, ilgili kurumların bütçesinin mevcut veya yeni açılacak tertiplerine bir yandan gelir, diğer yandan özel ödenek kaydedilerek 11.10.1983 tarihli ve 2914 sayılı Kanunun 11 inci maddesi (son fıkrasının ilk cümlesi hariç) ve 19.11.1992 tarihli ve 3843 sayılı Kanunun 10 uncu maddesi hükümleri dikkate alınarak 2914 sayılı Kanunun 11 inci maddesinin dördüncü fıkrasında akademik unvanlar itibarıyla öngörülen ek ders ücretinin her halükârda on katını ve aynı maddede öngörülen sınav ücretinin beş katını geçmemek üzere bu eğitim programında fiilen ders veren öğretim üyelerine ek ders ve sınav ücreti; 3843 sayılı Kanunun 12 nci maddesinde belirtilen esaslara göre bu program için görevlendirilen idarî personele fazla çalışma ücreti olarak ödenir. Özel ödeneğin harcanmayan kısmı, üniversite veya yüksek teknoloji enstitüsünün mal ve hizmet alımlarında kullanılmak üzere ertesi yılın bütçesine devren gelir ve ödenek kaydedilir.
+
+Özel ödeneğin yeterli olmadığı gerekçe gösterilerek öğretim üyelerine kurum bütçesi, döner sermaye, bilimsel araştırma projesi ve sair kaynaklardan ayrıca ders ve sınav ücreti ödenemez; herhangi bir ödeme yapılamaz.
+
+Bu maddenin uygulanmasında yukarıda belirtilmeyen hususlar hakkında 2914 sayılı Kanun ile 3843 sayılı Kanun hükümleri uygulanır.
+
+Gerektiğinde yukarıda yer alan hükümler kısmen veya tamamen, ileri uzaktan eğitim teknolojileri kullanılmak suretiyle ikinci öğretim kapsamında yürütülecek tezsiz yüksek lisans programları için de uygulanır.
+
+Bu maddenin uygulanmasına ilişkin esas ve usuller Maliye Bakanlığının uygun görüşü üzerine Yükseköğretim Kurulunca tespit edilir." hükmü yer almaktadır.
+
+2914 sayılı Yükseköğretim Personel Kanununun 3 üncü maddesinde ise öğretim elemanları; öğretim üyeleri sınıfı, öğretim görevlileri ve okutmanlar sınıfı ve öğretim yardımcıları sınıfı olmak üzere üç sınıfa ayrılmıştır.
+
+Anılan mevzuat hükümleri uyarınca, Enstitüde açılan ikinci öğretim tezsiz yüksek lisans programlarında ders verenlerden yalnızca öğretim üyelerine 2914 sayılı Kanunun 11 inci maddesinin dördüncü fıkrasında akademik unvanlar itibariyle öngörülen ek ders ücretinin on katı ödenebilecektir. Dolayısıyla, 2547 sayılı Kanunun Ek 27 nci maddesinde yalnızca öğretim üyelerinden bahsedildiğinden öğretim görevlilerine on katı ek ders ücreti verilmesi mümkün bulunmamaktadır. Buna göre, Enstitüde görevli öğretim görevlilerine 2914 sayılı Kanunun 11 inci maddesinde öngörülen ek ders ücreti kadar ödeme yapılması gerekmektedir.
+
+Bu itibarla, ………….. Üniversitesi Bilişim Enstitüsünde ikinci öğretim kapsamında yürütülen tezsiz yüksek lisans programlarında 2547 sayılı Kanunun Ek 27 nci maddesine aykırı olarak, öğretim üyeleri dışında 2914 sayılı Kanunun 11 inci maddesinde yer alan ek ders ücretlerinin on katı üzerinden öğretim görevlilerine de ödeme yapılması sonucu oluşan ………… TL kamu zararının; …… TL’si için Yrd. Doç. Dr. …………’in kadro unvanının üniversite kayıtlarına sehven öğretim görevlisi olarak girildiği anlaşıldığından buna ilişkin hesap ve işlemlerin yasal düzenlemelere uygunluğuna, ………. TL’si aşağıdaki tabloda tarih ve numaraları yazılı Muhasebe İşlem Fişleri ile tahsil edildiğinden ilişilecek bir husus kalmadığına, henüz tahsil edilmediği anlaşılan ……… TL tutarındaki kamu zararının ise Harcama Yetkilisi (Enstitü Müdürü) Prof. Dr. ………… ve Gerçekleştirme Görevlisi (Enstitü Sekreteri V.) ……………..’den müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizi ile birlikte tazminine oybirliğiyle,
