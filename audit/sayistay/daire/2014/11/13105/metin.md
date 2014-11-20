@@ -1,0 +1,9 @@
+Konu:Damga vergisi
+
+Kurumun ………. ve …………… kampüsünde yer alan ve irtifak hakkına konu edilen taşınmazlara ilişkin damga vergilerinin hatalı oran ve matrah üzerinden tahsil edildiği görülmüştür.
+
+488 sayılı Damga Vergisi Kanununun 1 inci maddesinde bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olacağı, 4 üncü maddesinde bir kağıdın tabi olacağı verginin tayini için o kağıdın mahiyetine bakılacağı ve buna göre tabloda yazılı vergisinin bulunacağı, kağıtların mahiyetlerinin tayininde, şekli kanunlarda belirtilmiş olanlarda kanunlardaki adlarına, belirtilmemiş olanlarda üzerindeki yazının tazammun ettiği hüküm ve manaya bakılacağı, 10 uncu maddesinde damga vergisinin nispi veya maktu olarak alınacağı, nispi vergide kağıtların nevi ve mahiyetlerine göre, bu kağıtlarda yazılı belli para, maktu vergide kağıtların mahiyetlerinin esas olacağı, belli para teriminin kağıtların ihtiva ettiği veya bunlarda yazılı rakamların hasıl edeceği parayı ifade edeceği, 14 üncü maddesinde ise kağıtların damga vergisinin bu Kanuna ekli (1) sayılı tabloda yazılı nispet veya miktarlarda alınacağı hükme bağlanmış bulunmaktadır. Kanuna ekli (1) sayılı tablonun “I-Akitlerle ilgili kağıtlar” başlıklı bölümün A/1 inci fıkrasında, belli parayı ihtiva eden mukavelenamelerin, “II.Kararlar ve mazbatalar” başlıklı bölümünün 2 nci fıkrasında da, İhale Kanunlarına tabi olan veya olmayan resmi daire ve kamu tüzel kişiliğini haiz kurumların her türlü ihale kararlarının hangi nispette damga vergisine tabi tutulacağı belirtilmiştir.
+
+Anılan hükümler uyarınca, kurumun ………. ve ………. kampüsünde yer alan ve irtifak hakkına konu edilen taşınmazlara ilişkin irtifak hakkı sözleşmeleri ve ihale kararları üzerinden irtifak hakkı süreleri dikkate alınarak 488 sayılı Kanuna ekli (1) sayılı tabloda belirtilen nispette damga vergilerinin alınması gerekmektedir.
+
+Ancak, konunun Vergi Dairesine intikal ettiği anlaşıldığından yapılacak işlem bulunmadığına oybirliğiyle,
