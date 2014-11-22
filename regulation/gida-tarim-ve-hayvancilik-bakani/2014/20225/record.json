@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20225",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BUZAĞILARIN KORUNMASI İLE İLGİLİ ASGARİ STANDARTLARA İLİŞKİN YÖNETMELİK",
+  "number": "20225",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2014/20225",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20225&MevzuatTertip=5",
+  "source_sha256": "6698e41777b83e37d727e73b83c33e839611557c3e30c3b08b1236b14b5c2cf1",
+  "source_bytes": 17680,
+  "published": "2014-11-22",
+  "gazette": "29183",
+  "in_force": "2014-11-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.11.2014); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1071,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,3 @@
+Kontrol
+MADDE 7 – (1) İşletme binalarında barındırılan buzağılar, sahipleri veya hayvanlardan sorumlu kişi tarafından günde en az iki defa kontrol edilmeli ve dışarıda tutulan buzağılar ise günde en az bir defa kontrol edilir. Hasta veya yaralı olduğu tespit edilen buzağının gecikmeksizin uygun bir şekilde tedavisi veteriner hekime yaptırılır. Söz konusu tedaviye cevap vermeyen herhangi bir buzağı ile ilgili olarak, derhal, veteriner hekime yeniden başvurulur. Gerekirse hasta veya yaralı buzağılar, kuru ve rahat bir yerde diğerlerinden ayrı bir şekilde izole edilerek tutulur.
+(2) Buzağıların herhangi bir zamanda kontrol edilebilmelerine imkân tanıyan, sabit ya da taşınabilir yeterli düzeyde aydınlatma sağlanır.
