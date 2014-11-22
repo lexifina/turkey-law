@@ -1,0 +1,4 @@
+Kontrol
+MADDE 7 – (1) Hayvan sahibi veya bakıcısı tarafından sıklıkla dikkat edilmesinin gerekli olduğu yetiştirme sistemlerinde barındırılan çiftlik hayvanlarının refahlarının sağlanması amacıyla, günde en az bir kere kontrol edilir. Bunun dışındaki sistemlerde bakılan ve yetiştirilen çiftlik hayvanları ise herhangi bir mental veya fiziksel acıdan kaynaklanan olumsuzluğun önlenmesi için yeterli olacak aralıklarla kontrol edilir.
+(2) Çiftlik hayvanları için, herhangi bir zamanda kontrol edilebilmelerine imkân tanıyan sabit ya da taşınabilir yeterli düzeyde aydınlatma sağlanır.
+(3) Hasta ya da yaralı olabilecek herhangi bir çiftlik hayvanının gecikmeksizin uygun bir şekilde tedavisi veteriner hekime yaptırılır. Söz konusu tedaviye cevap vermeyen hayvanlar için; derhal veteriner hekime yeniden başvurulur. Gerekli olması durumunda, hasta ya da yaralı hayvanlar kuru, rahat altlığı olan uygun bir ayrı bölmede izole edilir.
