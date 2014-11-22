@@ -1,0 +1,3 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ 3907.60.20.00.00 gümrük tarife istatistik pozisyonunda yer alan eşyanın ithalatında 13/10/2014 tarihli ve 2014/6911 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Polietilen Tereftalat (PET) İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar çerçevesinde açılan tarife kontenjanının başvuru ve dağıtım ile kullanım usul ve esaslarını içermektedir.
+(2) Tarife kontenjanı miktarı, ek mali yükümlülüğün uygulandığı her bir dönem için, Bakanlar Kurulu Kararı ekinde yer alan ülkeler ve gümrük bölgeleri menşeli tarife kontenjanı kapsamı eşyanın tamamı için toplam 8.509 ton olarak belirlenmiştir. Ancak her bir ülke veya gümrük bölgesi menşeli eşya için bir dönemde verilecek tarife kontenjanı 2.836 tonu geçemez.
