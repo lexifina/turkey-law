@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2014/4244",
+  "list_number": "4244",
+  "decision_date": "2014-11-22",
+  "title": "10 Ağustos 2014 tarihinde yapılan Cumhurbaşkanı seçiminde adaylara yapılan bağış ve yardımlar ile adaylar tarafından yapılan harcamalara ilişkin Yüksek Seçim Kurulunun 2014/4244 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2286/2014-4244.pdf",
+  "source_sha256": "5e337f697ad3a4be7ba9b70ecde76fbc20421153737bd92836f930bf564dc0f0",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 7,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2014-11-22",
+  "law_text_complete": false
+}
