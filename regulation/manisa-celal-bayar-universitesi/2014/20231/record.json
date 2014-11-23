@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme MADDE 20 – (1) Bu Yönetmelik hükümlerini Celal Bayar Üniversitesi Rektörü yürütür."
+  ],
+  "date_evidence": [
+    [
+      "2014-11-23",
+      "23.11.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer. Yürütme MADDE 20 – (1) Bu Yönetmelik hükümlerini Celal Bayar Üniversitesi Rektörü yürütür.",
+  "first_law": null,
+  "gazette": "29184",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-11-23",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Manisa Celal Bayar Üniversitesi",
+  "issuer_slug": "manisa-celal-bayar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/manisa-celal-bayar-universitesi/2014/20231",
+  "published": "2014-11-23",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20231&MevzuatTertip=5",
+  "source_bytes": 35865,
+  "source_id": "8.5.20231",
+  "source_sha256": "0fee23876c9e6c104edac7fead54093bb8298d88122a39527701af78defd57f7",
+  "text_status": "as-enacted",
+  "title": "CELAL BAYAR ÜNİVERSİTESİ SOSYAL HİZMETLER EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 184,
+  "word_count": 2330
+}
