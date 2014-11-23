@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-11-23",
+      "23.11.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29184",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-11-23",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Boğaziçi Üniversitesi",
+  "issuer_slug": "bogazici-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bogazici-universitesi/2014/20230",
+  "published": "2014-11-23",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20230&MevzuatTertip=5",
+  "source_bytes": 18643,
+  "source_id": "8.5.20230",
+  "source_sha256": "ce40893a23359532ea4ce1091f3d088da2a645957faf7aa38acba1172b7e89bd",
+  "text_status": "as-enacted",
+  "title": "BOĞAZİÇİ ÜNİVERSİTESİ HALET ÇAMBEL VE NAİL ÇAKIRHAN ARKEOLOJİ, GELENEKSEL MİMARLIK VE TARİH UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 183,
+  "word_count": 990
+}
