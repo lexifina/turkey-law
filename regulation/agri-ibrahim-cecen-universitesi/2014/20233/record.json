@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-11-24",
+      "24.11.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29185",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-11-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ağrı İbrahim Çeçen Üniversitesi",
+  "issuer_slug": "agri-ibrahim-cecen-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/agri-ibrahim-cecen-universitesi/2014/20233",
+  "published": "2014-11-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20233&MevzuatTertip=5",
+  "source_bytes": 24790,
+  "source_id": "8.5.20233",
+  "source_sha256": "8a007796ce3146e86df36950f0bc5b763dd7263deab66f7b237342a92d724d43",
+  "text_status": "as-enacted",
+  "title": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 323,
+  "word_count": 1406
+}
