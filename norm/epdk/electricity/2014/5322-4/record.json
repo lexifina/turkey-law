@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5322/4",
+  "decision_date": "2014-11-25",
+  "title": "Kayseri ve Civarı Elektrik T.A.Ş.",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oy4AeBwAKaQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oy4AeBwAKaQ="
+  ],
+  "source_sha256": "57edfb4fc34d3794db9b539e8d917da4e4d9522f0bc687972e35e6958ebbea1d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-11-25",
+  "law_text_complete": false
+}
