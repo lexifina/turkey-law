@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5323",
+  "decision_date": "2014-11-25",
+  "title": "Elektrik Piyasasında Gelir ve Tarife Düzenlenmesi Kapsamında Düzenlemeye Tabi Unsurlar ve Raporlamaya İlişkin Esaslar Hakkında Tebliğ eki tablolarının onaylanmasına ilişkin",
+  "resmi_gazete_date": "2014-12-03",
+  "resmi_gazete_number": "29194",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mQrTz1G1wBk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mQrTz1G1wBk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JI72koCnuxI="
+  ],
+  "source_sha256": "85563d6a4ad6552b52b42666c04043edc9fc11afab2c92dc46341d5bbced41ec",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-11-25",
+  "law_text_complete": false
+}
