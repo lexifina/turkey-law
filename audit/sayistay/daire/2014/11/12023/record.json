@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35265",
+  "decision_date": "2014-11-25",
+  "source_id": 12023,
+  "chamber": "2",
+  "ilam_number": "97",
+  "item_number": 45,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12023/",
+  "source_sha256": "c3e22fbd6ba425b8b7e8adff217206c09e84f0910a0e4b02ce4ebd10f0a34f07",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
