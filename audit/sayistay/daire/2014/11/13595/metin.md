@@ -1,0 +1,11 @@
+ Boya ve boya malzemelerin fiyatının piyasa rayicinin üzerinde olması
+
+Sağlık Kültür ve Spor Dairesi Başkanlığı tarafından alımı yapılan boya ve boya malzemelerin fiyatının piyasa rayicinin üzerinde olması sonucu………. TL kamu zararına sebebiyet verildiği görülmüştür.
+
+Yapılan incelemede, Sağlık Kültür ve Spor Dairesi Başkanlığı Kültür Toplulukları ve Spor Şube Müdürlüğünden boya ve boya malzemesine ihtiyaç duyulduğu, söz konusu ihtiyaçların 4734 sayılı Kanunun 22 nci maddesinin (d) bendine göre doğrudan temin yöntemi ile piyasa fiyat araştırması yapılarak ………….tarihinde ……………’dan satın alındığı, ancak alımı yapılan bazı ürünlerin fiyatlarının Kütüphane ve Dokümantasyon Daire Başkanlığı tarafından ………… tarihinde …………….’dan satın alınan aynı tipteki ürünlere göre çok daha yüksek fiyatlara alındığı, ………………….’dan Sağlık Kültür ve Spor Dairesi Başkanlığının satın aldığı boya ve boya malzemeleri için alınan teklif toplamının ……….. TL (KDV hariç) olduğu, ……………………..’ın aynı ürünler için düzenlediği faturanın ……….. TL (KDV hariç) olarak düzenlendiği, ……… TL (KDV dahil) kamu zararı oluştuğu ve ayrıca ……….2014. tarihli tutanakla ……….. 2013 tarihli faturada “Plastik Boya DYO” olarak yer alan üründen kullanımdan arta kalan 2 adedinin “Plastik Boya DYO”, 8 adedinin “CUBO” isimli boya olduğu anlaşılmıştır.
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunun 71 inci maddesinde, kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması, kamu zararı olarak tarif edilmiş olup; kamu zararının belirlenmesinde iş, mal veya hizmetin rayiç bedelinden daha yüksek fiyatla alınması veya yaptırılmasının esas alınacağı hükmüne yer verilmiştir.
+
+Bu itibarla, Sağlık Kültür ve Spor Dairesi Başkanlığı tarafından alımı yapılan boya ve boya malzemelerin rayiç bedelinden daha yüksek fiyatla alınması sonucu oluşan toplam ………. TL’lik kamu zararının Harcama Yetkilisi (Sağlık Kültür ve Spor Dairesi Başkanı) ………………. ile Gerçekleştirme Görevlisi (Şube Müdürü) ………….’dan müştereken ve müteselsilen,
+
+6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizi ile birlikte tazminine oybirliğiyle,

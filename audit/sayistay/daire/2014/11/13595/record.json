@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35265",
+  "decision_date": "2014-11-25",
+  "source_id": 13595,
+  "chamber": "2",
+  "ilam_number": "97",
+  "item_number": 13,
+  "account_year": 2013,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13595/",
+  "source_sha256": "5c1e997e18dfb9af75b1a33095aeca3791b7e0726c6b0c91958af730a90bf470",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
