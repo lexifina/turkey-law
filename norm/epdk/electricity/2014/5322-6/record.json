@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5322/6",
+  "decision_date": "2014-11-25",
+  "title": "AKEDAŞ",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1WvZ5vp292c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1WvZ5vp292c="
+  ],
+  "source_sha256": "bb9c7dff77f3604d36232c7ace7b97c6791c3135949cc9c80d60a42ffc531493",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-11-25",
+  "law_text_complete": false
+}
