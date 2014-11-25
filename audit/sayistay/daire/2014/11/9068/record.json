@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "93",
+  "decision_date": "2014-11-25",
+  "source_id": 9068,
+  "chamber": "5",
+  "ilam_number": "90",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9068/",
+  "source_sha256": "47dc7e5652b6027b5f4b37768dcc41e14e2021d974e7aeba11b2dc1e47c68a38",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
