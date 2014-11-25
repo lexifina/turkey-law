@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5322/5",
+  "decision_date": "2014-11-25",
+  "title": "GDZ EDAŞ",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iG5rxfg8PBs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iG5rxfg8PBs="
+  ],
+  "source_sha256": "977f969b9c3f584a4edafbb2104e9118710f9ca7001b0c692092a66b31763bf3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-11-25",
+  "law_text_complete": false
+}
