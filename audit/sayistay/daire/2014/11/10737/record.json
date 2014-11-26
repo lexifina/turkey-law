@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "82",
+  "decision_date": "2014-11-26",
+  "source_id": 10737,
+  "chamber": "4",
+  "ilam_number": "80",
+  "item_number": 6,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10737/",
+  "source_sha256": "ea0c70bb165190a18de885e0257862b3ad21fc98f36af13cf3b5fbc61e464c33",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
