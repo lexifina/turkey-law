@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": null,
+  "source_id": 670,
+  "date": "2014-11-26",
+  "title": "BAZI ALACAKLARIN 6552 SAYILI KANUN KAPSAMINDA YAPILANDIRILMASINA DAİR İÇ GENELGE SERİ NO: 2014/2",
+  "source": "https://gib.gov.tr/mevzuat/kanun/461/icgenelge/670",
+  "related_law": "6552 sayılı İŞ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI İLE BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/icGenelge/list",
+  "source_listing": "evidence/list/2026-11-16/icGenelge-p000.json",
+  "source_listing_sha256": "f67e0a2102f72bb235e1a5040899d9489b05b3d457ed0145b7ee616be10187e7",
+  "source_sha256": "ea998c01701c8ba3d47f9ebdf8ace4deb95d4ff389789bf5b8dc15070671c945",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
