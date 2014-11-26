@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70903105-165.01.03[220]-114695",
+  "source_id": 37590,
+  "date": "2014-11-26",
+  "title": "Yurt dışında bulunan müşteriye yapılan satışla (ihracat) ilgili olarak müşterinin ülkesindeki yerleşik banka aracılığı ile açılan akreditifin akreditifi açan banka nezdinde iskonto ettirilmesi halinde KKDF uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/37590",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "8693a1387d557962d9cd7733a326fad54a40ac2d29b9169fb62bb04cb6eaee31",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
