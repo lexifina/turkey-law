@@ -22,17 +22,19 @@ m) Öğretim Üyeleri: Yükseköğretim kurumlarında görevli profesör, doçen
 n) Öğretim Görevlisi: Ders vermek ve uygulama yaptırmakla yükümlü bir öğretim elemanıdır.
 o) Okutman: Eğitim - öğretim süresince çeşitli öğretim programlarında ortak zorunlu ders olarak belirlenen dersleri okutan veya uygulayan öğretim elemanıdır.
 p) Öğretim Yardımcıları: Yükseköğretim kurumlarında, belirli süreler için görevlendirilen, araştırma görevlileri, uzmanlar, çeviriciler ve eğitim - öğretim planlamacılarıdır.
+5349
 r) (Değişik: 13/2/2011-6111/170 md.) Ön Lisans: Ortaöğretim yeterliliklerine dayalı, en az iki yıllık bir programı kapsayan nitelikli insan gücü yetiştirmeyi amaçlayan veya lisans öğretiminin ilk kademesini teşkil eden bir yükseköğretimdir.
 s) Lisans: Ortaöğretime dayalı, en az sekiz yarı yıllık bir programı kapsayan bir yükseköğretimdir.
-t) Lisans Üstü: Yüksek lisans, doktora, tıpta uzmanlık ve sanatta yeterlik eğitimini kapsar ve aşağıdaki kademelere ayrılır.
+t) (Değişik birinci cümle: 19/11/2014-6569/25 md.) Lisans Üstü: Yüksek lisans ve doktora ile tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ve sanatta yeterlik eğitimini kapsar ve aşağıdaki kademelere ayrılır.
 (1) Yüksek Lisans: (Bilim uzmanlığı, yüksek mühendislik, yüksek mimarlık, master): Bir lisans öğretimine dayalı, eğitim - öğretim ve araştırmanın sonuçlarını ortaya koymayı amaçlayan bir yükseköğretimdir.
-5349
 (2) Doktora: Lisansa dayalı en az altı veya yüksek lisans veya eczacılık veya fen fakültesi mezunlarınca Sağlık ve Sosyal Yardım Bakanlığı tarafından düzenlenen esaslara göre bir laboratuvar dalında kazanılan uzmanlığa dayalı en az dört yarı yıllık programı kapsayan ve orijinal bir araştırmanın sonuçlarını ortaya koymayı amaçlıyan bir yükseköğretimdir.
 (3) Tıpta Uzmanlık: Sağlık ve Sosyal Yardım Bakanlığı tarafından düzenlenen esaslara göre yürütülen ve tıp doktorlarına belirli alanlarda özel yetenek ve yetki sağlamayı amaçlayan bir yükseköğretimdir.
 (4) Sanatta Yeterlik: Lisansa dayalı en az altı,yüksek lisansa dayalı en az dört yarı yıllık programı kapsayan ve orijinal bir sanat eserinin ortaya konulmasını, müzik ve sahne sanatlarında ise üstün bir uygulama ve yaratıcılığı amaçlayan doktora düzeyinde lisans üstü bir yükseköğretim eşdeğeridir.
+(5) (Ek: 19/11/2014-6569/25 md.) Veteriner Hekimlikte Uzmanlık: Gıda, Tarım ve Hayvancılık Bakanlığı tarafından düzenlenen esaslara göre yürütülen ve veteriner hekimlere belirli alanlarda özel yetenek ve yetki sağlamayı amaçlayan bir yükseköğretimdir.
 u) Yükseköğretim Eğitim Türleri: Yükseköğretimde eğitim - öğretim türleri örgün, açık, dışarıdan (ekstern) ve yaygın eğitimdir.
 (1) Örgün Eğitim: Öğrencilerin, eğitim - öğretim süresince ders ve uygulamalara devam etme zorunluluğunda oldukları bir eğitim - öğretim türüdür.
 (2) Açık Eğitim: Öğrencilere radyo, televizyon ve eğitim araçları vasıtasıyla yapılan bir eğitim - öğretim türüdür.
 (3) Dışarıdan Eğitim (Ekstern Eğitim): Yükseköğretimin belirli dallarında, devam zorunluluğu olmaksızın sadece yarı yıl içi ve sonu sınavlarına katılma zorunluluğu bulunan bir eğitim - öğretim türüdür. Bu eğitimi izleyen öğrenciler ortak zorunlu dersler ile gerekli görülen bazı dersleri, ilgili yükseköğretim kurumlarınca mesai saatleri dışındaki uygun saatlerde düzenlenecek derslerde alırlar.
 (4) Yaygın Eğitim: Toplumun her kesimine ve değişik alanlarda bilgi ve beceri kazandırma amacı güden bir eğitim - öğretim türüdür.
 v) (Ek : 29/6/2001 - 4702/1 md.) Mesleki ve Teknik Eğitim Bölgesi : Bir veya daha fazla meslek yüksekokulu ile öğretim programları bütünlüğü ve devamlılığı içinde ilişkilendirilmiş mesleki ve teknik orta öğretim kurumlarından oluşan eğitim bölgesidir.
+5350
