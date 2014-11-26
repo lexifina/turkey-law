@@ -11,5 +11,4 @@ a) Öğrencilerini;
 (6) Beden, zihin, ruh, ahlak ve duygu bakımından dengeli ve sağlıklı şekilde gelişmiş,
 (7) İlgi ve yetenekleri yönünde yurt kalkınmasına ve ihtiyaçlarına cevap verecek, aynı zamanda kendi geçim ve mutluluğunu sağlayacak bir mesleğin bilgi, beceri, davranış ve genel kültürüne sahip, vatandaşlar olarak yetiştirmek,
 b) Türk Devletinin ülkesi ve milletiyle bölünmez bir bütün olarak, refah ve mutluluğunu artırmak amacıyla; ekonomik, sosyal ve kültürel kalkınmasına katkıda bulunacak ve hızlandıracak programlar uygulayarak, çağdaş uygarlığın yapıcı, yaratıcı ve seçkin bir ortağı haline gelmesini sağlamak,
-5350
 c) Yükseköğretim kurumları olarak yüksek düzeyde bilimsel çalışma ve araştırma yapmak, bilgi ve teknoloji üretmek, bilim verilerini yaymak, ulusal alanda gelişme ve kalkınmaya destek olmak, yurt içi ve yurt dışı kurumlarla işbirliği yapmak suretiyle bilim dünyasının seçkin bir üyesi haline gelmek, evrensel ve çağdaş gelişmeye katkıda bulunmaktır.

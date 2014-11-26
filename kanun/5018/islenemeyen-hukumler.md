@@ -246,6 +246,7 @@ _____________________
 43) (Ek: 10/10/2011-KHK-658/12 md.)Türkiye Su Enstitüsü
 44) (Ek: 11/10/2011-KHK-663/58 md.) Türkiye İlaç ve Tıbbî Cihaz Kurumu
 45) (Ek: 21/6/2012-6332/22 md.) Türkiye İnsan Hakları Kurumu
+46) (Ek: 19/11/2014-6569/40 md.) Türkiye Sağlık Enstitüleri Başkanlığı
 (III) SAYILI CETVEL (4)
 (Değişik: 22/12/2005-5436/12 md.)
 DÜZENLEYİCİ VE DENETLEYİCİ KURUMLAR

@@ -26,3 +26,5 @@ Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayıl�
 6528 | 53 | 14/3/2014
 Anayasa Mahkemesi’nin 9/4/2014 tarihli ve E.: 2014/61, K.: 2014/6 (Yürürlüğü Durdurma) sayılı Kararı ile | Geçici Madde 64 | 11/4/2014
 6552 | Geçici Madde 66 | 11/9/2014
+Anayasa Mahkemesi’nin 7/11/2014 tarihli ve E.: 2014/61, K.: 2014/17(Yürürlüğü Durdurma) sayılı Kararı | Geçici Madde 64 | 8/11/2014
+6569 | 3, 35, 40, 44, 46, 49, 50, Ek Madde 11, Geçici Madde 67, 68, 69, 70 | 26/11/2011

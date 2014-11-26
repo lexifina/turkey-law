@@ -1,7 +1,7 @@
 YEDİNCİ BÖLÜM
 Öğretim ve Öğrenciler
 Lisans düzeyinde öğretim:
-Madde 43 – Yükseköğretim, harca tabi olup bu kanunda belirlenen amaç ve anailkelere göre aşağıdaki şekilde düzenlenir.
+Madde 43 – Yükseköğretim, harca tabi olup bu kanunda belirlenen amaç ve ana ilkelere göre aşağıdaki şekilde düzenlenir.
 a. Yükseköğretim kurumlarında, kuruluş özelliklerine ve ihtiyaçlarına göre yapılan eğitim - öğretim ve buna dayalı olarak verilen diplomalarla ilgili esaslar her üniversitece hazırlanacak öğretim ve sınav yönetmeliğinde belirtilir.
 b. (Değişik: 17/8/1983 - 2880/24 md.) Aynı meslek ve bilim dallarında, eğitim - öğretim yapan üniversitelerde, eğitim - öğretim, metod, kapsam, öğretim süresi ve yıl içindeki değerlendirme esasları bakımından eşdeğer olması ve öğrenimden sonra kazanılan unvanların aynı ve elde edilen hakların eşdeğer sayılması hususu Üniversitelerarası Kurulun önerisi üzerine; öğretmen yetiştiren birimler için belirtilen esasların tespiti Milli Eğitim Bakanlığı ile de işbirliği yapılarak, Yükseköğretim Kurulunca düzenlenir.
 c. Yükseköğretim kurumları, örgün, yaygın ve açık öğretim yöntemleri ile her türlü eğitim - öğretim yapabilirler.

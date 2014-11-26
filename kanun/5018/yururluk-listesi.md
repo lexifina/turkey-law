@@ -27,6 +27,7 @@ Anayasa Mahkemesi’nin 25/12/2008 tarihli ve E.: 2006/140, K.: 2008/185 sayıl�
 5952 | (I) Sayılı Cetvel | 4/3/2010
 5978 | (II) Sayılı Cetvel | 6/4/2010
 8690-14
+Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5018 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 5979 | (II) Sayılı Cetvel | 10/4/2010
 6001 | (I) ve (II) Sayılı Cetvel | 13/7/2010
 6005 | (II) Sayılı Cetvel | 21/7/2010
@@ -43,6 +44,7 @@ KHK/649 | (II) Sayılı Cetvel | 17/8/2011
 KHK/655 | (I) Sayılı Cetvel | 1/11/2011
 KHK/656 | (II) Sayılı Cetvel | 2/11/2011
 8690-15
+Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5018 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 KHK/657 | (I) Sayılı Cetvel | 2/11/2011
 KHK/662 | (I) ve (II) Sayılı Cetvel | 2/11/2011
 KHK/658 | (II) Sayılı Cetvel | 2/11/2011
@@ -62,3 +64,4 @@ KHK/663 | (I) ve (II) Sayılı Cetvel | 2/11/2011
 6514 | 28, Geçici Madde 19 | 18/1/2013
 6552 | 28 | 11/9/2014
 6562 | (II) Sayılı Cetvel | 4/11/2014
+6569 | (II) Sayılı Cetvel | 26/11/2014
