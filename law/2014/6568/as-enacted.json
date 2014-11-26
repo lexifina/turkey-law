@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6568",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Makedonya Cumhuriyeti Hükümeti Arasında Kültür Merkezlerinin Kuruluşu ve Faaliyetleri Hakkında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-11-26",
+  "gazette_issue": "29187",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141126-2.htm",
+  "source_sha256": "6ab5da6b9ad2a9b66bbc5c7042a79ae46246d950dffef274123b5f95dcec8d53",
+  "text_sha256": "d7cf4e9b2135020db8795cf7bd9b3110cded75bf92ccadb98096632c5c9d2a7a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/11/26/29187-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141126-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
