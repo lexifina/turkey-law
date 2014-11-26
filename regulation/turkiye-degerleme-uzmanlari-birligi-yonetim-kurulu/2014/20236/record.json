@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20236",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE DEĞERLEME UZMANLARI BİRLİĞİ ÜYELİĞE GİRİŞ ÜCRETLERİ İLE ÜYELİK AİDATLARININ TAHSİL ŞEKLİ VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "20236",
+  "issuer": "Türkiye Değerleme Uzmanları Birliği Yönetim Kurulu",
+  "issuer_slug": "turkiye-degerleme-uzmanlari-birligi-yonetim-kurulu",
+  "path": "regulation/turkiye-degerleme-uzmanlari-birligi-yonetim-kurulu/2014/20236",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20236&MevzuatTertip=5",
+  "source_sha256": "62599d7f410e898129e3d0b38c66c692bfeda9589d44edff7c67a495854c8aa9",
+  "source_bytes": 15532,
+  "published": "2014-11-26",
+  "gazette": "29187",
+  "in_force": "2014-11-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.11.2014); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 910,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
