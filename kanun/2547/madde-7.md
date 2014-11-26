@@ -6,15 +6,13 @@ b) Yükseköğretim kurumları arasında bu Kanunda belirlenen amaç, ilke ve he
 c) Üniversite çalışmalarının en verimli düzeyde sürdürülmesi için büyümenin sınırlarını tespit etmek ve yaz öğretimi, gece öğretimi, ikili öğretim gibi tedbirler almak,
 d) Devlet kalkınma planlarının ilke ve hedefleri doğrultusunda ve yükseköğretim planlaması çerçevesi içinde;
 (1) Yeni üniversite kurulmasına ve gerektiğinde birleştirilmesine ilişkin önerilerini veya görüşlerini Milli Eğitim Bakanlığına sunmak,
+5352-2
 (2) Bir üniversite içinde fakülte, enstitü ve yüksekokul açılmasına, birleştirilmesi veya kapatılması ile ilgili olarak doğrudan veya üniversitelerden gelecek önerilere dayalı kararlar almak ve gereği için Milli Eğitim Bakanlığına sunmak,
 Yükseköğretim kurumları içinde bölüm, anabilim ve anasanat dalları ile uygulama ve araştırma merkezi açılması, birleştirilmesi veya kapatılması; konservatuvar, meslek yüksekokulu veya destek, hazırlık okul veya birimleri kurulması ile ilgili olarak doğrudan veya üniversitelerden gelecek öneriler üzerine karar vermek,
 Eğitim - öğretimin aksaması sonucunu doğuracak olaylar dolayısıyla öğrenime ara verilmesine veya tekrar başlatılmasına ilişkin olarak üniversitelerden gelecek önerilere göre veya doğrudan karar verip uygulatmak,
-5352-1
 (3) Bakanlıklar tarafından kurulacak yükseköğretim kurumlarının kuruluş, amaç ve esaslarını inceleyerek görüşlerini ilgili makama sunmak,
 e) Yükseköğretim kurumlarında eğitim - öğretim programlarının asgari ders saatlerini ve sürelerini,öğrencilerin yatay ve dikey geçişleriyle ve yüksekokul mezunlarının bir üst düzeyde öğrenim yapmalarına ilişkin esasları Üniversitelerarası Kurulun da görüşlerini alarak tespit etmek,
 f) Üniversitelerin ihtiyaçlarını, eğitim - öğretim programlarını,bilim dallarının niteliklerini, araştırma faaliyetlerini, uygulama alanlarını, bina, araç, gereç ve benzeri imkanlar ve öğrenci sayılarını ve diğer ilgili hususları dikkate alarak; üniversitelerin profesör, doçent ve yardımcı doçent kadrolarını dengeli bir oranda tespit etmek,
-Dikkat: (Devamı 5353‘üncü sayfadadır.)
-5352-2
 5353
 g) Her yıl üniversitelerin verecekleri faaliyet raporlarını inceleyerek değerlendirmek;
 üstün başarı gösterenlerle, yeterli görülmeyenleri tespit etmek ve gerekli önlemleri almak,

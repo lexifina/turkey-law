@@ -13,5 +13,4 @@ Madde 10 – (Değişik: 17/8/1983 - 2880/6 md.)
 (Ek fıkra: 25/6/2009-5917/19 md.) Bilimsel araştırma projelerinin desteklenmesi için özel hesaba aktarılan tutarların harcanması ve muhasebeleştirilmesi ile yurt içi ve yurt dışı öğretim elemanı ve öğrenci değişim programlarının desteklenmesi amacıyla özel hesaba aktarılan tutarların kullanımı, bu kapsamda yapılacak ödemeler ile diğer hususlara ilişkin usul ve esaslar Maliye Bakanlığı ile Yükseköğretim Kurulunca müştereken belirlenir. Bu kapsamda yapılan harcamalar 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa göre denetlenir.
 ––––––––––––––––––
 (1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “Öğrenci Seçme ve Yerleştirme Merkezinin önceki yıldan devreden finansman fazlasının” ibaresi “Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının bir önceki yıla ait bütçe geliri ile bütçe gideri farkının” olarak değiştirilmiş ve metne işlenmiştir.
-5354-2
 5355

@@ -1,4 +1,4 @@
-Geçici Madde 53- (Ek: 29/6/2006-5535-2 md.)
+Geçici Madde 53- (Ek: 29/6/2006-5535/2 md.)
 33 üncü maddeye göre lisansüstü eğitim-öğretim amacıyla yurt dışına gönderilenler ile 35 inci maddeye göre yurt içinde başka bir üniversiteye lisansüstü eğitim-öğretim amacıyla gönderilenlerden veya üniversitelerinde görev yapanlardan bu maddenin yürürlüğe girdiği tarihe kadar;
 a) Lisansüstü eğitim-öğretim amacıyla yurt dışında kalmaları gereken süre içerisinde öğrenimlerini tamamlayamamaları nedeniyle kadroları ile ilişikleri kesilenlerden veya ilişiği kesilmeyip devam edenler ile başka bir kamu kurumuna naklen atananlardan,
 b) Eğitimin herhangi bir aşamasında, her ne sebeple olursa olsun Türkiye'ye çağrılmış olanlardan,

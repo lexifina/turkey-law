@@ -4,4 +4,4 @@ Madde 48 – (Değişik: 26/6/2001 - 4689/1 md.)
 Ders kitapları, bilgisayar ve elektronik ortamlarda hazırlanan eğitim-öğretim ve uzaktan öğretim ilkelerine göre oluşturulan her türlü materyalle ilgili olarak uygulanacak esaslar ve ödenecek telif hakları Maliye Bakanlığının uygun görüşü üzerine Yükseköğretim Kurulunca belirlenir.
 ——————————
 (1) Bu maddenin başlığı, “Ders kitapları ve teksirlerin basılması” iken, 26/6/2001 tarih ve 4689 sayılı Kanunun 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-5372 5373
+5373
