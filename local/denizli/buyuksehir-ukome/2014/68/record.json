@@ -1,0 +1,24 @@
+{
+  "number": "68",
+  "number_as_published": "2014/08/68",
+  "year": 2014,
+  "title": "UKOME’nin 31.10.2014 tarih ve 2014/07/66 Sayılı Kararına istinaden 40 adet plaka satışı ihale edilmesi",
+  "decision_date": "2014-11-27",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=11.2014",
+  "official_document": null,
+  "source_sha256": "c9e332a9d35973ecfa6de2e258597e7b0a70fbc9b5262420a54d73257190a115",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2014-11-27",
+  "in_force_basis": "Decision date as printed in the official council listing: 27.11.2014; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "08",
+  "listed_subjects": 1
+}
