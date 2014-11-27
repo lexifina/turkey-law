@@ -1,0 +1,2 @@
+Kesinleşen ihale/alım sonucunun bildirilmesi
+MADDE 25 – (1) İhale sonucu, ihale/alım kararlarının ihale yetkilisi tarafından onaylandığı, ön mali kontrol yapılması gereken hallerde bu kontrolün tamamlandığı günü izleyen beş gün içinde, ihale üzerinde bırakılan istekli de dahil ihaleye teklif veren bütün isteklilere Kanunun 65 inci maddesinde belirtilen şartlarda ve usulde tebliğ edilir. İhale kararlarının ihale yetkilisi tarafından iptal edilmesi durumunda da isteklilere aynı şekilde bildirim yapılır.

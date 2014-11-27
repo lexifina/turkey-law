@@ -1,0 +1,6 @@
+Diğer hususlar
+MADDE 34 – (1) Bu Yönetmeliğe göre yapılacak ihalelerde/alımlarda sözleşme yapılmasında isteklinin ve idarenin görev ve sorumluluğu, ihalenin/alımın sözleşmeye bağlanması, sözleşmeye davet, idare tarafından şikâyetlerin incelenmesi, sözleşmesinde sözleşme değişikliği yapılacak durumlar belirtilmek kaydıyla ek sözleşme düzenlenmesi, gizlilik içinde yürütülmesi gereken alımlarla, denetim-muayene ve kabul işlemleri ile ilgili esaslar Bakanlıkça belirlenir.
+(2) İhtiyaç makamlarınca ihtiyaç duyulması halinde hizmet alımları kapsamında yapılan uyuyan ve garanti edilmiş yararlanma hakkı anlaşma/sözleşmelerinin sözleşme hükümleri doğrultusunda tatbikat, deneme, gösteri ve benzeri faaliyetler yapılabilir.
+(3) Kanunun 53 üncü maddesinde yer alan Kamu İhale Kurumu geliri, bu Yönetmeliğe göre yapılan ihalelerde/alımlarda alınmaz. Kanunun şikayet ve itirazen şikayet incelemelerine ilişkin ikinci bölüm hükümleri bu Yönetmeliğe göre yapılan ihale/alımlarda uygulanmaz.
+(4) Bu Yönetmelikte yer alan düzenlemelerin uygulanmasına yönelik olarak Bakanlıkça ilave düzenlemeler yapılabilir.
+(5) 4734 sayılı Kanun kapsamında yer alan işlerin ihalelerinde 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu hükümleri uygulanmaz.

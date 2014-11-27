@@ -1,0 +1,3 @@
+Geçici ve kesin teminat
+MADDE 14 – (1) İhalelerde/alımlarda teklif edilen bedelin % 3’ünden az olmamak üzere, isteklice belirlenecek tutarda geçici teminat, ihale bedeli üzerinden % 6 oranında kesin teminat alınır. Ancak, özellikli durumlarda ve gerekçe belirtmek suretiyle Bakan onayı ile geçici ve/veya kesin teminat alınmamasına karar verilebilir. Bakan geçici ve kesin teminat alınmaması ile ilgili olarak ihale yetkililerine yetki verebilir.
+(2) Onay belgesinde ve idari şartnamesinde belirtilmek şartıyla yabancı para birimiyle yapılan ihale/alımlarda geçici/kesin teminat, teklif edilen para birimi üzerinden alınır.

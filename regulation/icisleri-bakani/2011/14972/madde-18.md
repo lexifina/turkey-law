@@ -1,0 +1,4 @@
+Tekliflerin hazırlanması ve sunulması
+MADDE 18 – (1) Teklif mektubu ve istenmiş ise geçici teminata ilişkin belge de dahil olmak üzere ihaleye katılabilme şartı olarak istenilen bütün belgeler bir zarfa konulur. Zarfın üzerine isteklinin adı, soyadı veya ticaret unvanı, tebligata esas açık adresi, telefonu, varsa faks numarası ve elektronik posta adresi, teklifin hangi işe ait olduğu ve ihaleyi yapan idarenin açık adresi yazılır. Zarfın yapıştırılan yeri istekli tarafından imzalanarak kaşelenir/mühürlenir.
+(2) Teklifler ihale dokümanında belirtilen ihale tarih ve saatine kadar sıra numaralı alındılar karşılığında idareye verilir. Bu saatten sonra verilen teklifler kabul edilmez ve açılmaksızın iade edilir.
+(3) Verilen teklifler, zeyilname düzenlenmesi hali hariç, herhangi bir sebeple geri alınamaz ve değiştirilemez.

@@ -1,0 +1,2 @@
+Sözleşmede yer alması zorunlu hususlar
+MADDE 30 – (1) Bu Yönetmeliğe göre düzenlenecek sözleşmelerde; mal ve hizmetin özelliğine göre ihale dokümanında belirtilmesi kaydıyla, 4735 sayılı Kanunun 7 nci maddesinde sayılan sözleşmede yer alması zorunlu hususlara ilave hususlar eklenebilir veya çıkarılabilir. Bu Yönetmeliğe göre düzenlenecek sözleşmelerde Türkçenin yanında başka bir dilde de sözleşme düzenlenebilir. Bu durumda sözleşmenin yorumunda Türkçe metin esas alınır. Ancak, sözleşmenin eki olan Türkçeye çevrilememiş bölümlerde yabancı dil geçerli olarak kabul edilebilir.

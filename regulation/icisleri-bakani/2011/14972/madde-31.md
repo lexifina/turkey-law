@@ -1,0 +1,2 @@
+Sözleşme kapsamında yapılacak işin artışı ve eksilişi
+MADDE 31 – (1) Bu Yönetmelik kapsamında yapılacak sözleşmelerde idari şartnamesinde belirtilmek kaydıyla sözleşme ile alınacak mal veya hizmetin, sözleşme bedelinin %20’si oranına kadar az veya fazla alım, sözleşmesi gereğince fiyat farkı verilen durumlar hariç sözleşme birim fiyatı değişmeksizin ve ek sözleşme yapılmadan ihale yetkilisinden alınacak onay ile yapılabilir.
