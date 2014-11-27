@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "37",
+  "decision_date": "2014-11-27",
+  "source_id": 10765,
+  "chamber": "8",
+  "ilam_number": "50",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10765/",
+  "source_sha256": "2ab8a1eb8417077a44103e53750b4552c4229c27fa694f47210997eec41a47a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
