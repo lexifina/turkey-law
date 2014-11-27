@@ -1,0 +1,3 @@
+Taahhüt süresi ve ek süreler
+MADDE 3 – (1) Başka ülkeye yapılan satışlar karşılığında Serbest Bölgelerde faaliyette bulunan kullanıcılardan; üretim ruhsatı sahibi firmaların üretim, yatırım ve/veya satış/sevkiyat öncesine; alım-satım ruhsatı sahibi firmaların satış/sevkiyat öncesine yönelik finansman ihtiyaçlarının karşılanmasına ilişkin vade dâhil kredi koşulları ile satışların taahhüt gerçekleştirme süresi ve ek süreler Türk Eximbank tarafından belirlenir.
+(2) Serbest bölgeden başka bir ülkeye taahhüt edilen satış gerçekleştirilmeden kredi riskinin kapatılması, taahhüdü ortadan kaldırmaz. Kredinin vadeden önce/erken ödenmesi halinde, taahhüt süresi içinde yapılan satış kredi taahhüdüne sayılır.

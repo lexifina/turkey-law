@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ; Serbest Bölgelerden başka bir ülkeye yapılan satışların, Türkiye İhracat Kredi Bankası A.Ş. (Türk Eximbank) tarafından; kendi kaynağından, Türkiye Cumhuriyet Merkez Bankası kaynağından, yerel veya uluslararası finansman kuruluşlarından sağladığı kaynaklardan kullandırılan kredi, sigorta ve garanti hizmetlerinden yararlandırılmasına ve bu kapsamda başka bir ülkeye satış yükümlülüğünden doğan taahhüdün kapatılmasına ilişkin usul ve esasları kapsar.

@@ -1,0 +1,2 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin yayımı tarihinden önce kullanılan krediler 8 inci madde ile yürürlükten kaldırılan Serbest Bölgelerden Başka Bir Ülkeye Yapılan Satışların Türkiye İhracat Kredi Bankası A.Ş.’nin Kredi, Sigorta ve Garanti Hizmetlerinden Yararlandırılması Hakkında Tebliğ (İhracat: 2009/5) hükümlerine tabidir. Ancak, henüz satış taahhüdü kapatılmamış olan kredilere bu Tebliğin lehe olan hükümleri uygulanabilir.
