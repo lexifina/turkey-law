@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.20243",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARCIRAH KANUNU GENEL TEBLİĞİ (SERİ NO: 39)",
+  "number": "20243",
+  "path": "teblig/2014/20243",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20243&MevzuatTertip=5",
+  "source_sha256": "fe56400442b0b18ef5e679a393d20b9af6ecb3c20dd88a7b7e026d67abaa5bf8",
+  "source_bytes": 18704,
+  "published": "2014-11-27",
+  "gazette": "29188",
+  "in_force": "2014-11-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.11.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1303,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
