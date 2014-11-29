@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; Müdür, müdür yardımcıları ve Üniversitenin dil ve edebiyatla ilgili bölümlerinin öğretim elemanları arasından Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıl için seçilen en az on, en fazla onbeş üyeden oluşur. Danışma Kurulu üyeliğine Üniversite dışından ya da yurt dışından da aynı usulle üye seçilebilir. Danışma Kurulu, Müdürün başkanlığında yılda iki defa olağan olarak toplanır. Müdür gerekli gördüğü hallerde olağanüstü olarak da Danışma Kurulunu toplantıya çağırabilir.
