@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-11-29",
+  "issue": "29190",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2014/6965 Türkiye Cumhuriyeti Hükümeti ile Kırgız Cumhuriyeti Hükümeti Arasında Meteoroloji Alanında İşbirliği Anlaşmasının Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141129-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141129.htm",
+  "index_sha256": "8db98a902cf4baf5c94c54b6792ba3a959897e1add5931f007ab11cda758623b",
+  "index_header": "29 Kasım 2014 ... 29190 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141129.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
