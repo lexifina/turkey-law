@@ -1,0 +1,3 @@
+Müdür ve Müdür Yardımcıları
+MADDE 8 – (1) Müdür, Rektör tarafından istatistik, biyometri, biyoistatistik veya ekonometri alanında çalışan Üniversitenin kadrolu öğretim üyeleri arasından üç yıl süre için görevlendirilir. Süresi dolan Müdür tekrar görevlendirilebilir. Müdür, Merkezi temsil eder ve Rektöre karşı sorumludur.
+(2) Müdürün önerisi ile Rektör tarafından, Üniversitede görev yapan; istatistik, biyometri, biyoistatistik veya ekonometri alanında çalışan Üniversitenin kadrolu öğretim üyeleri arasından iki kişi üç yıl için Müdür Yardımcısı olarak görevlendirilir. Müdürün görevi sona erdiğinde, Müdür Yardımcılarının da görevleri sona erer.
