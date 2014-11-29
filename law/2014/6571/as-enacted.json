@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6571",
+  "year": 2014,
+  "title": "167 Sayılı İnşaat İşlerinde Güvenlik ve Sağlık Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-11-29",
+  "gazette_issue": "29190",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141129-2.htm",
+  "source_sha256": "ea0c670bf7714c3e06e427a055dff220a7a528f81e6b81e792f1f7818f04dbb2",
+  "text_sha256": "4ecf3b21d452bc610de895253209b85f986749c7166676de5ae311df1b41cca9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/11/29/29190-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/11/20141129-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
