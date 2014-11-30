@@ -1,0 +1,2 @@
+Proje Grupları, İnceleme Birimleri ve Bunların Görevleri
+MADDE 12 – (1) Merkezde; bu Yönetmeliğin 5 inci maddesindeki amaçlar doğrultusunda, Müdürün önerisi ve Yönetim Kurulunun kararı ile obezite ve egzersiz araştırmaları, inceleme, planlama, danışmanlık, eğitim, yayın konularında ve bu Yönetmeliğin 6 ncı maddesindeki faaliyet alanlarında görev yapmak üzere inceleme birimleri veya proje grupları kurulur. Bu birim ve gruplar içinde çalışma konularına göre personel değişimi yapılabilir.
