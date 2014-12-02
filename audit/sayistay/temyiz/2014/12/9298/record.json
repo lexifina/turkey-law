@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39718",
+  "decision_date": "2014-12-02",
+  "source_id": 9298,
+  "chamber": "4",
+  "file_number": "37368",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9298/",
+  "source_sha256": "0b40a7ee06efadc1e0bc5d01b8c07b7f03d446dab78eeb782fab589b69933d0b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
