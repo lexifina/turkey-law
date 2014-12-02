@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "96",
+  "decision_date": "2014-12-02",
+  "source_id": 10648,
+  "chamber": "5",
+  "ilam_number": "85",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10648/",
+  "source_sha256": "52038a5bca5aa5e83a3ddf6de53dbf6a897dfb1a0d560ba08067097b8e19faac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
