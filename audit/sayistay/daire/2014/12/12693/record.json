@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "23",
+  "decision_date": "2014-12-02",
+  "source_id": 12693,
+  "chamber": "7",
+  "ilam_number": "75",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12693/",
+  "source_sha256": "c8d7411b6b9e33ac6f642929c22656d0020bc2d0b668006ca978249fa9462d32",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
