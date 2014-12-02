@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39736",
+  "decision_date": "2014-12-02",
+  "source_id": 9316,
+  "chamber": "5",
+  "file_number": "37673",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9316/",
+  "source_sha256": "d86283dffe266253ef2b0250cd30114010da61f428eb758164bd1e5fd85729c5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
