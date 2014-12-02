@@ -1,0 +1,7 @@
+Kesin hakediş eki ataşmanlar da gösterilen çizgi genişliklerinin metrajlara hatalı aktarılması
+
+.......... Belediyesi tarafından ..........  A.Ş’ye ihale edilen “.......... işi” nde; kesin hakediş eki ataşmanlar da gösterilen çizgi genişliklerinin, metrajlara hatalı aktarılması ve bu hatalı veriler baz alınarak tanzim edilmiş olan hakedişe dayanılarak Yükleniciye ödemede bulunulması sonucunda .......... -TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+Söz konusu işe ait ataşmanların incelenmesi neticesinde, düz çizgilerin genişliğinin 1 cm., kesikli çizgilerin genişliğinin ise 0,5 cm. olduğu tespit edilmiştir. Ancak, ilgili verilerin metraj cetveline aktarılırken, “çift kompetanlı boya ile yaya geçitleri yavaşlama ve uyarı şerit çizgilerinin çizilmesi” iş kaleminde, “alt geçitler düz” olarak belirlenen kalemde 1 cm olarak alınması gereken çizgi genişliği 3 cm olarak alınmıştır. Söz konusu yol çizgi genişliklerinin 1 cm. yerine 3 cm. üzerinden hakediş hesaplarına esas alınarak ödemede bulunulması neticesinde ise, Yükleniciye .......... TL tutarında fazla ödeme yapılmak suretiyle kamu zararına yol açılmıştır. Ancak, sorumlular tarafından yapılan savunmalardan, .......... TL tutarındaki kamu zararının tahsil edildiği anlaşılmıştır.
+
+Bu itibarla, hakediş ödemesinin hatalı yapılması sonucu neden olunan .......... -TL tutarındaki kamu zararı ......tarih ve ....nolu tahsilat makbuzu ile ahizinden (..........) tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle karar verildi.
