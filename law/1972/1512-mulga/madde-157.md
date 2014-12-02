@@ -1,0 +1,5 @@
+Madde 157 – (18/1/1972 tarihli ve 1512 sayılı Kanunun hükmüdür.)
+50 nci maddenin 3 üncü fıkrası hükümlerine aykırı hareket eden noterlere ilk defasında 1 000 liradan 5 000 liraya kadar ağır para cezası verilir. Eylemin tekerrürü halinde verileck ceza 3 000 liradan aşağı olamaz.
+Noterin yukarda yazılı eyleminde aracılık yapan kimseye de 500 liradan 2000 liraya kadar ağır para cezası verilir.
+Aracı Türk Ceza Kanununun uygulanmasında memur sayılan bir kimse veya noter katibi yahut katip adayı ise, 1 inci fıkra uyarınca cezalandırılır.
+Noterler arasında rekabete sebep olacak eylem ve harekette bulunan, noterlik işlemlerini şahsına veya mensup olduğu kuruluşa menfaat sağlıyan bir noterde yaptıran kişiler ve özellikle bu kanunun 166 ncı maddesinin 12 numaralı bendi uyarınca düzenlenen protokole taraf teşkil eden resmi ve özel kuruluşlar memur vesair görevlilerinden protokoldeki esaslara aykırı eylem ve harekette bulunanlarla bu suça iştirak eden noterler, eylem ve hareketleri daha ağır bir cezayı gerektirmedikçe, bu maddenin birinci fıkrası gereğince cezalandırılırlar.

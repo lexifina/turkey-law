@@ -1,0 +1,8 @@
+Madde 110 – (18/1/1972 tarih ve 1512 sayılı Kanunun hükmüdür.)
+109 uncu maddede yazılı noterlik işlemlerinin yapılmasından elde edilecek her çeşit ücret ve noter hissesi tutarı, işlemi yapan görevli noterlikçe, milli bir bankada açtırılan (Noterlikler ortak cari hesabı) na en geç işlemin yapıldığı günü takibeden üç iş günü içinde yatırılır. Görevli noterliklerin ilk masraflarına karşılık olarak, bütün noterlerce eşit miktarda ödenecek avans da, açılmasını izliyen 15 gün içinde aynı hesaba yatırılır. Noterlikler ortak cari hesabı, yıl başından önce o yerdeki noterliklerin bağlı bulunduğu oda yönetim kurulunca açtırılır ve aynı kurul tarafından tespit edilecek avans miktarı ile birlikte Adalet Bakanlığına ve Türkiye Noterler Birliğine bildirilir.
+Görevli noterin, bu görevin yerine getirilmesi sebebiyle yaptığı ve yapacağı bütün masrafları karşılamak üzere, ortak hesapta toplanan gelirden gerekli miktar kendisine ödenir. Ödenecek bu miktar, ödemenin zamanı ve şekli oda genel kurulunun yıllık olağan toplantısında tespit olunur. Şu kadar ki, bu masraflar ödeme tarihinde toplanmış olan ortak gelirin yüzde onbeşini geçemez.
+Madde 111 fıkra bir – (18/1/1972 tarih ve 1512 sayılı Kanunun hükmüdür.)
+Yukardaki madde uyarınca yapılacak ödemelerden sonra, ortak cari hesapta kalan miktardan birinci fıkrada gösterilen avans tutarı ayrıldıktan sonra gerisi, her üç ayda bir ilgili noterlere veya bu kanuna göre görevlendirilmiş noter vekili varsa, vekile eşit miktarda ödenir. Ödemenin şekli, oda genel kurulunun yıllık olağan toplantısında tespit edilir.
+1152-3
+Madde 112 son fıkra – (19/2/1980 tarih ve 2258 sayılı Kanunun hükmüdür.)
+Tarifede gerekli görülecek değişiklikler iki yılda bir yapılır. Yeni tarife yürürlüğe girinceye kadar eski tarife uygulanır.

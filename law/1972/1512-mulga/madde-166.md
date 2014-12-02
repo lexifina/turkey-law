@@ -1,0 +1,2 @@
+Madde 166 -fıkra bir -15 - (2/3/2005 tariuhli ve 5309 sayılı Kanunun hükmüdür.) Bir ilin büyükşehir belediyesi sınırları içerisinde birden fazla ilçe bulunduğu takdirde, noterliklerin her nevi ortak hesap paylaşım esaslarını noterlerin ve noterliklerin kıdem ve sınıflarını gözeterek dört yılda bir o yerdeki noter odasının da görüşünü almak sureti ile belirleyerek Adalet Bakanlığının onayına sunmak,
+1152-9

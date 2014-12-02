@@ -1,0 +1,2 @@
+12 –2/12/2014 tarihli ve 6572 sayılı Kanun ile yürürlükten kaldırılmış ve değiştirilmiş olan hükümlerin metinleri (Madde numaraları: 22, 27.)
+Madde 22 – birinci fıkra - (18/1/1972 tarihli ve 1512 sayılı Kanunun hükmüdür.) Boşalan, açılan veya dördüncü sınıftan üçüncü sınıfa geçirilen noterlikler, o yerde, İstanbul ve Ankara'da ve Adalet Bakanlığınca uygun görülecek diğer yerlerde çıkan birer gazete ve Resmi Gazete'de birer defa ilan olunur.

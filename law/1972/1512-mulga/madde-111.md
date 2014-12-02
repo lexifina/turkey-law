@@ -1,0 +1,1 @@
+Madde 111 – fıkra bir - ( 16/11/1989 tarihli ve 3588 sayılı Kanunun hükmüdür.) 109 uncu madde uyarınca yatırılıp ortak hesapta toplanan paralar, her üç ayda bir o yerdeki ilgili noterlere veya bu Kanuna göre görevlendirilmiş noter vekili varsa vekile, eşit miktarda ödenir. Ödemenin şekli oda genel kurulunun yıllık olağan toplantısında tespit edilir.

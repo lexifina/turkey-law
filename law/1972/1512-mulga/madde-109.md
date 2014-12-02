@@ -1,0 +1,7 @@
+Noterliklerin görevlendirilmesi ve ilanı :
+Madde 109 – (18/1/1972 tarih ve 1512 sayılı Kanunun hükmüdür.)
+Bir asliye mahkemesinin yargı çevresi içinde birden çok noterlik bulunması veya bir belediye hudutları içinde birden çok asliye mahkemesi yargı çevresinin yer alması halinde, harca tabi değeri bir milyon lira ve daha fazla olan noterlik işlemleri, aşağıdaki maddeler hükümlerine göre bir takvim yılı için görevlendirilecek noterliklerde yapılır.
+Adalet Bakanlığı, yukarki fıkrada gösterilen yerlerde, görevlendirilecek noterlikleri, en geç bir evvelki takvim yılının Kasım ayı içinde, Türkiye Noterler Birliğinin ve gerekli gördüğü diğer kuruluşların düşüncelerini almak suretiyle tespit eder. Bakanlığın bildirmesi üzerine keyfiyet Türkiye Noterler Birliğince Resmi Gazete ile Ticaret Sicil Gazetesinde ve Ankara, İstanbul, İzmir ile mahallinde yayınlanan birer günlük gazetede en geç 15 Aralık tarihinde ilan edilir.
+Görevlendirilecek noterliklerin sayısı, o yerin nüfusu ve iş yoğunluğu ile ulaştırma durumu göz önünde tutularak tespit olunur. Aynı mahkemenin yargı çevresi içindeki bütün noterliklerin sonu alınmadıkça bir noterlik üst üste görevlendirilemez.
+Görevlendirilecek noterliklerin isimleri, en geç 31 Aralık tarihinde aynı yargı çevresi içindeki diğer noterlik dairelerinin giriş kısmına göze çarpacak şekilde asılacak bir levhada gösterilir.
+Birinci fıkrada gösterilen işleri, görevlendirilen noterliklerden başka bir noterlik yapamaz.

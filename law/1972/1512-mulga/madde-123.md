@@ -1,0 +1,16 @@
+Madde 123 – (18/1/1972 tarih ve 1512 sayılı Kanunun hükmüdür.)
+Suç teşkil eden fiillerden dolayı haklarında Adalet müfettişi, Cumhuriyet savcısı, sorgu hakimi veya ceza mahkemesi tarafından soruşturma veya kovuşturma yapılan noterler, soruşturma ve kovuşturmanın selameti bakımından Adalet Bakanlığı tarafından gerekli görüldüğü takdirde, soruşturma veya kovuşturma kesin bir karar veya hükümle sonuçlanıncaya kadar işten el çektirilirler.
+Şu kadar ki, meslekten çıkarma cezasını gerekli kılacak bir fiilden dolayı noter hakkında ceza mahkemesince kovuşturma yapılmakta ise işten el çektirilmesi zorunludur. Kovuşturma sonunda noterin böyle bir suçunun sabit olması halinde, işten el çektirme durumu hükümlülük sebebiyle verilen meslekten çıkarma cezasının kesinleşmesine kadar devam eder.
+Birinci fıkra gereğince soruşturma veya kovuşturma sırasında eli işten çektirilmemiş olup, kovuşturma sonunda 2 nci fıkrada gösterilen bir suçtan hüküm giyen notere, hükmün kesinleşmesi beklenilmeksizin işten el çektirilir. İkinci fıkranın ikinci cümlesi hükmü bu halde de uygulanır.
+7 – 14/4/2004 tarihli ve 5134 sayılı Kanun ile yürürlükten kaldırılmış ve değiştirilmiş olan hükümlerin metinleri (Madde numarası: 6 )
+Madde 6 fıkra bir – (18/1/1972 tarih ve 1512 sayılı Kanunun hükmüdür.)
+(...)(1) atanmış veya avukat unvanını kazanmış olan veya Avukatlık Kanununa göre staj ve avukatlık sınavı şartlarından bağışıklı olarak avukatlığa kabul olunmaya hak kazanmış bulunanlar, noterlik stajına tabi değildirler.
+_______________
+(1) Burada yer alan “Adli veya askeri hakimlik yahut savcılıklara” ibaresi, Anayasa Mahkemesinin 12/11/2002 tarihli ve E.:2001/252, K.:2002/102 sayılı Kararı ile iptal edilmiştir. İptal hükmü, Kararın Resmi Gazete’de yayımlandığı 27/2/2003 tarihinden başlayarak 1 yıl sonra yürürlüğe girecektir.
+1152-6
+8 – 2/3/2005 tarihli ve 5309 sayılı Kanun ile yürürlükten kaldırılmış ve değiştirilmiş olan hükümlerin metinleri (Madde numaraları:32, 33, 35 ve 197)
+Madde 32 fıkra bir– (18.1.1972 tarihli ve 1512 sayılı Kanunun hükmüdür.) Dördüncü sınıf noterlikler, o yerin bağlı bulunduğu Adalet Komisyonunun inhası üzerine, Adalet Bakanlığınca görevlendirilecek katip sınıfından bir adalet memuru tarafından geçici olarak yönetilir.
+Madde 33 fıkra iki birinci cümle- (16/11/1989 tarihli ve 3588 sayılı Kanunun hükmüdür.) Noterlikte bu işi görecek katip bulunmadığı takdirde, Cumhuriyet Savcılığının bildirmesi üzerine, adalet komisyonu tarafından atanacak yeterli bir adalet memuruna bu iş gördürülür.
+Madde 35 fıkra üç- (18.1.1972 tarihli ve 1512 sayılı Kanunun hükmüdür.) Bunlardan birisinin bulunmadığı hallerde, noterin Cumhuriyet savcılığına başvurması üzerine bu görev, adalet memuruna, 33 üncü maddenin 3 üncü fıkrası uyarınca takdir edilecek ücret karşılığında gördürülür.
+Madde 197 fıkra iki- (18.1.1972 tarihli ve 1512 sayılı Kanunun hükmüdür.) Noterlere vekalet eden adalet memurları ile geçici noter yardımcıları hakkında noterlik görevlerinden dolayı verilen meslekten çıkarma cezası, bunların esas görevlerinden de çıkarılmalarını gerektirir.
+Madde 197 fıkra beş- (18.1.1972 tarihli ve 1512 sayılı Kanunun hükmüdür.) Bu kanunun noterlerin atanması, Türkiye Noterler Birliği, topluluk sigortası, hastalık ve izne ilişkin hükümleri adalet memurlarından tayin edilen noter vekilleri ile geçici yetkili noter yardımcıları hakkında uygulanmaz.
