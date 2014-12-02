@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "96",
+  "decision_date": "2014-12-02",
+  "source_id": 10639,
+  "chamber": "5",
+  "ilam_number": "85",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10639/",
+  "source_sha256": "0496dffc9813ece29ed97155be0b0df7dddf9b8fb4a44f75ee0476ef2d5e5482",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
