@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39717",
+  "decision_date": "2014-12-02",
+  "source_id": 9297,
+  "chamber": "3",
+  "file_number": "36501",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9297/",
+  "source_sha256": "aa86f98e12381f520308deaac7db22d868ad38b02f2e638cee7819aea31a3689",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
