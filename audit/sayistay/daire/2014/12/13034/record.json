@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35272",
+  "decision_date": "2014-12-04",
+  "source_id": 13034,
+  "chamber": "2",
+  "ilam_number": "68",
+  "item_number": 13,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2013,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13034/",
+  "source_sha256": "519bf3a3089b998e935b7f02b5f18d3637bf0d1abb455bc6504fda643419a212",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
