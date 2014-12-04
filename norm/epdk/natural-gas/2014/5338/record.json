@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5338",
+  "decision_date": "2014-12-04",
+  "title": "Aksa Manisa Doğal Gaz Dağıtım Anonim Şirketi?nin 2012-2016 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2014-12-11",
+  "resmi_gazete_number": "29202",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+FQNjkNN1S8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+FQNjkNN1S8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZjWsDhn6mtg="
+  ],
+  "source_sha256": "0238c7c18fd3d0422472343db70d52ef7a90d33a245bfdd45232f1af4577418f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2014-12-04",
+  "law_text_complete": true
+}
