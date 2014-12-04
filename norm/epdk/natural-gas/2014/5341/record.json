@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5341",
+  "decision_date": "2014-12-04",
+  "title": "Boru Hatları İle Petrol Taşıma Anonim Şirketi?nin birinci uygulama dönemine ilişkin",
+  "resmi_gazete_date": "2014-12-13",
+  "resmi_gazete_number": "29204",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hfUPHZpbFzU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hfUPHZpbFzU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XF8MXOWu6gs="
+  ],
+  "source_sha256": "c71ad12c859b003c8fa058e67afb320a03d621f063f33a346f40e1f1b8b50375",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-04",
+  "law_text_complete": false
+}
