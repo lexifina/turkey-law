@@ -1,0 +1,20 @@
+{
+  "applicant": "S.Ö.",
+  "application_date": "2013-09-13",
+  "application_number": "2013/7087",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2014-09-18",
+  "id": "475b0757-d97f-15a1-d575-12f844e0ee9b",
+  "in_force": "2014-12-04",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2014-12-04",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjQ3NWIwNzU3LWQ5N2YtMTVhMS1kNTc1LTEyZjg0NGUwZWU5Yg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "9e5c7e25f5b55821f5121d29bf95171525ce460fd9e51589e96adaa6f8d9c06f",
+  "version_label": "as-enacted"
+}
