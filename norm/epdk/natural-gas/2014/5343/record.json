@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5343",
+  "decision_date": "2014-12-04",
+  "title": "01/01/2015 tarihinden bu konuda yeni bir düzenleme yapılıncaya kadar sıvılaştırılmış doğal gaz (LNG) iletim ve sıkıştırılmış doğal gaz (CNG) iletim tarifelerinin ilgili tüzel kişiler arasında serbestçe belirlenmesine ve söz konusu Kararın Resmi Gazete’de yayımlanmasına ilişkin",
+  "resmi_gazete_date": "2014-12-13",
+  "resmi_gazete_number": "29204",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XnejwMM/HEw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XnejwMM/HEw="
+  ],
+  "source_sha256": "156fe67ecfbc4cb6d759fe83e2f768ad87849cf652a8f607979baf31f7c30e50",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-04",
+  "law_text_complete": false
+}
