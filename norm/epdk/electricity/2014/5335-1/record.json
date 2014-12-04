@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5335/1",
+  "decision_date": "2014-12-04",
+  "title": "1/1/2015 tarihinden itibaren uygulanan güvence bedelleri",
+  "resmi_gazete_date": "2014-12-13",
+  "resmi_gazete_number": "29204",
+  "categories": [
+    "Güvence Bedelleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=18Jz96+NaME=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=18Jz96+NaME="
+  ],
+  "source_sha256": "3b83ff4f51b0837ff1efed939f2aea9ee346c7e665a48ab6f5344e05f7b2d89f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1331,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-04",
+  "law_text_complete": false
+}
