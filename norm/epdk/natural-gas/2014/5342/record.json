@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5342",
+  "decision_date": "2014-12-04",
+  "title": "Boru Hatları İle Petrol Taşıma Anonim Şirketi’nin 2015 yılı iletim ve sevkiyat kontrol bedellerinin belirlenmesine yönelik",
+  "resmi_gazete_date": "2014-12-13",
+  "resmi_gazete_number": "29204",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4bQSz1xW9Qs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4bQSz1xW9Qs="
+  ],
+  "source_sha256": "3d97706694db9e6945ea652c62e12549b0a5a0ec8737d91f5e8a712ed5e41d88",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-04",
+  "law_text_complete": false
+}
