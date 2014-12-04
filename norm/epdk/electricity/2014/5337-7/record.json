@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5337/7",
+  "decision_date": "2014-12-04",
+  "title": "ULUDAĞ EDAŞ’ın 2011-2015 uygulama dönemi yatırım planını teşkil eden tarife revizyonu",
+  "resmi_gazete_date": "2014-12-13",
+  "resmi_gazete_number": "29204",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u0o++VPKfgM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u0o++VPKfgM="
+  ],
+  "source_sha256": "82a1905fd52f0f8c22f91c69c780425a630b0d71ddf2c36e4f5b2c4b1690140d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-04",
+  "law_text_complete": false
+}
