@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5337/6",
+  "decision_date": "2014-12-04",
+  "title": "ÇAMLIBEL EDAŞ’ın 2011-2015 uygulama dönemi yatırım planını teşkil eden tarife revizyonu",
+  "resmi_gazete_date": "2014-12-13",
+  "resmi_gazete_number": "29204",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2YjOMWKBGCU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2YjOMWKBGCU="
+  ],
+  "source_sha256": "44de04ef3c282b1df24888318fac5d7d85daf55ca4e4d3d3ee902af74ad2dfe1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-04",
+  "law_text_complete": false
+}
