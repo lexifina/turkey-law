@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[01-2013/74]-1208",
+  "source_id": 36908,
+  "date": "2014-12-05",
+  "title": "TTSanal Santral Demo Paketinin Sunumunda KDV ve ÖİV Hesaplanıp Hesaplanmayacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36908",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "3373efc38d2dc008a934178667c0dbd288136e22faaa9923b8ac5fefa1d41b83",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
