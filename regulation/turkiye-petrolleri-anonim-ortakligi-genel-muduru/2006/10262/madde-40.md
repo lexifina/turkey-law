@@ -1,0 +1,2 @@
+Gizlilik
+MADDE 40 – (1) İhale dosyası hazırlanmasıyla ilgili işlemler, İhale Komisyonunun karara dönük çalışmaları ve ihale kararı kesinleşinceye kadar ihalenin kime verileceği gizli tutulur. Bu hususlarla ilgili işlemleri açıklayan, gizlilik icaplarına riayet etmemek suretiyle bunların duyurulmasına sebebiyet veren ve lüzumsuz bir surette işlemleri geciktiren şahıslar ilgili mevzuata göre cezalandırılır ve Ortaklığın uğradığı zarar şahıs ve/veya şahıslardan müteselsilen, hapis hakkı da kullanılmak üzere, tahsil edilir.

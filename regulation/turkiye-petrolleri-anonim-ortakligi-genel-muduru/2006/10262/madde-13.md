@@ -1,0 +1,9 @@
+Açık Arttırma Usulü
+MADDE 13 – (1) Açık Arttırma Usulü ile yapılacak ihaleler aşağıdaki esaslar dâhilinde yapılır.
+(2) Açık Arttırma Usulüne göre ihaleler, isteklilerin ihale komisyonları önünde tekliflerini sözlü olarak belirtmeleri suretiyle yapılır.
+(3) Bu usulde geçici teminat miktarı Ortaklıkça belirlenir.
+(4) İhale Komisyonu, ilanda belirtilen ihale saati gelince, ihaleye katılacakların şartname, geçici teminat ve diğer belgelerini inceleyerek kimlerin ihaleye katılabileceğini bildirir. İhaleye katılamayacakların geçici teminatlarının ve diğer belgelerinin iade edilmesi kararlaştırılır. Bu işlemler istekliler önünde bir tutanakla tespit edilir.
+(5) Tutanaktan sonra, ihaleye katılamayacaklar ihale yerinden çıkartılır. İhaleye iştirake hak kazanan istekliler şartnameyi imzaya ve daha sonra sırası ile tekliflerini belirtmeye çağrılır. Yapılacak teklifler, ihaleye ait artırma kağıdına yazılır ve teklif sahipleri tarafından imzalanır.
+(6) İhaleden çekilen isteklilerin bu durumları ihaleye ait artırma formuna yazılır ve imzaları alınır. İlgilinin imzadan çekinmesi hâlinde durum ayrıca belirtilir. İhaleden çekilenler yeniden teklifte bulunamazlar ve ihale yerinden çıkartılırlar.
+(7) Tekliflerin yapıldığı sırada, yapılan artırımların işi uzatacağı anlaşılırsa, isteklilerden son tekliflerini, ihale yerini terk etmeksizin yazılı olarak bildirmeleri istenebilir. Daha önce ihaleden çekilmiş olanlar bu durumda yazılı teklif veremezler.
+(8) Açık Arttırma Usulünde isteklilerin, rekabetini kıracak sözler söylenmesi veya istekliler arasında anlaşmaya daveti ima edecek işaretler veya hareketlerde bulunulması, ihalenin doğruluğunu bozacak şekilde görüşme ve münakaşalar yapılması yasaktır. Bu yasağa karşı gelenler, İhale Komisyonu kararı ile artırma yapılan yerden uzaklaştırılır ve durum bir tutanakla tespit edilir.

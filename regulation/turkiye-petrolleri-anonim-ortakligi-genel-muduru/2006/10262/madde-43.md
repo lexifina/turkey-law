@@ -1,0 +1,2 @@
+Sözleşme yapılmasında ortaklığın görev ve sorumluluğu
+MADDE 43 – (1) Ortaklık, 41 inci maddede yazılı süre içinde sözleşme yapılması hususunda kendisine düşen görevleri yapmakla yükümlüdür. Ortaklığın bu yükümlülüğü yerine getirmemesi hâlinde, alıcı sürenin bitmesini izleyen günden itibaren en geç beş gün içinde, on gün süreli bir noter ihbarnamesi ile Ortaklığa bildirmek şartıyla, taahhüdünden vazgeçebilir. Bu takdirde geçici teminat geri verilir ve alıcı, teminat vermek için yaptığı belgelendirilmiş giderleri istemeye hak kazanır.

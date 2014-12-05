@@ -1,0 +1,3 @@
+İhalenin sözleşmeye bağlanması
+MADDE 44 – (1) (Değişik:RG-5/12/2014-29196) Sözleşmeler Ortaklıkça hazırlanır veya Ortaklık ilgili birimlerinin görüşü alınmak suretiyle hizmet sunulan/satılan kurum, kuruluş, firma veya şirketlerin kendi sözleşmeleri ile bu hizmete özgün uluslararası kabul görmüş matbu sözleşmeler kullanılır. Ortaklık adına; ihale yetkilisi ile İhale Komisyonu Başkanı ve alıcı tarafından imzalanır. Alıcının ortak girişim olması halinde, sözleşmeler ortak girişimin bütün ortakları tarafından imzalanır. İhale dokümanında, aksi belirtilmedikçe sözleşmelerin notere tescili ve onaylattırılması zorunlu değildir.
+(2) İhale dokümanında belirtilen şartlara aykırı sözleşme düzenlenemez.

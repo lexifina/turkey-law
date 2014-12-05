@@ -1,0 +1,2 @@
+Bütün tekliflerin reddedilmesi ve ihalenin iptali
+MADDE 37 – (1) İhale Komisyonu kararı üzerine Ortaklık, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi hâlinde bu durum bütün isteklilere derhâl bildirilir. Ortaklık bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. Ancak, Ortaklık isteklilerin talepte bulunması hâlinde, ihalenin iptal edilme gerekçelerini talep eden isteklilere bildirir.

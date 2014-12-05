@@ -1,0 +1,5 @@
+Doğrudan satım, kiraya verme ve değerlendirme
+MADDE 15 – (1) Hizmet satışları, taşınır veya taşınmazları kiraya verilmesini, MKE Kurumuna yapılan hurda satışlarını, petrol hakkı sahibi kuruluşlarla yapılan malzeme devir işlemlerini kapsar.
+(2) (Değişik:RG-5/12/2014-29196) Ortaklık taşınır veya taşınmazları, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun (I) ve (II) sayılı cetvellerinde yer alan idareler ile Kamu İktisadi Teşebbüslerinin ve sermayesinin yüzde ellisinden fazlasının doğrudan veya dolaylı olarak Ortaklığa ait olduğu alt kuruluşlarının talepleri halinde tahmini bedel veya Yönetim Kurulunun onaylayacağı bedel üzerinden doğrudan kiraya verilebilir veya satışı yapılabilir.
+(3) Hizmet talepleri; hizmeti verecek birim tarafından değerlendirilerek, asli görevlerini aksatmayacak şekilde, hizmetin nevi, yeri, tarihi, süresi ve tarifesi ile ödeme şartları ve şeklini içeren Genel Müdürlük veya Bölge Müdürlüğü Olur’u ile bir sözleşmeye bağlanmak suretiyle hizmet satışı yapılır.
+(4) Bu usulde; teminat alınması, şartname hazırlanması ve ilana çıkılması zorunlu değildir.
