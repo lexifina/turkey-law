@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "DV-20/2014-1/ İmza atamayanlar",
+  "source_id": 1009,
+  "date": "2014-12-05",
+  "title": "Noterde düzenlenen belgelerde imza atamayanlara ilişkin damga vergisi ve harç uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/sirkuler/1009",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "8521ce1999dbd18e67419e03c251a6361f1fae3977f18ef624ceded597f79060",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
