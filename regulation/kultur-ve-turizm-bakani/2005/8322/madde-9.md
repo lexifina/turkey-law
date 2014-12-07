@@ -1,0 +1,2 @@
+Taşınmaz kültür varlıklarında esaslı onarım
+Madde 9 — Esaslı onarımlarda, tescilli yapı için hazırlanacak rölöve, restitüsyon, restorasyon projeleri ve diğer belgeler koruma bölge kuruluna sunulur. Koruma bölge kurulunun onayladığı proje ve koşullarda uygulama gerçekleştirilir. Uygulamalara ilişkin denetleme; Koruma, Uygulama ve Denetim Büroları, Proje Büroları ile Eğitim Birimlerinin Kuruluş, İzin, Çalışma Usul ve Esaslarına Dair Yönetmeliğe göre yapılır.
