@@ -1,0 +1,4 @@
+Müdür ve müdür yardımcısı
+MADDE 10 – (1) Müdür, küresel kamu hukuku alanında çalışmaları bulunan veya bu alanda çalışmak isteyen Üniversitenin kadrolu öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Görev süresi biten Müdür aynı usulle yeniden görevlendirilebilir. Müdürün altı aydan daha fazla süre ile görevi başında bulunmaması durumunda görevi sona erer. Süresi dolmadan görevinden ayrılan Müdürün yerine Rektör tarafından aynı usulle yeniden görevlendirme yapılır.
+(2) Müdür; Merkezin çalışma kapasitesinin etkin bir şekilde kullanılmasından, çalışmaların düzenli bir şekilde yürütülmesinden, faaliyetlerin gözetim ve denetiminin yapılmasından Araştırma ve Geliştirmeden Sorumlu Rektör Yardımcılığına karşı sorumludur.
+(3) Müdür; Merkezin çalışmalarını Araştırma ve Geliştirmeden Sorumlu Rektör Yardımcılığına rapor eder ve Üniversitenin Hukuk Fakültesi Dekanlığı ile iş birliği içinde çalışır.
