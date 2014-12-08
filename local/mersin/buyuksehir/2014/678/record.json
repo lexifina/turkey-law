@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "678",
+  "decision_date": "2014-12-08",
+  "title": "MEC_ KAR_ (çamlıyayla fakılar 109 ada plan tad",
+  "listed_as": "678 MEC_ KAR_ (çamlıyayla fakılar 109 ada plan tad",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/678-mec--kar--camliyayla-fakilar-109-ada-plan-tadilati",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk76--08-aralik-2014-meclis-kararlari",
+  "listing_sha256": "07f290e4dd0652b98078a8b3a00c98de20ab22273ea0f09e533c4f24f415af4d",
+  "meeting_title": "MK76- 08 ARALIK 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
