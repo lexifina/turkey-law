@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-12-08",
+      "08.12.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29199",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-12-08",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Üniversitesi",
+  "issuer_slug": "istanbul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-universitesi/2014/20277",
+  "published": "2014-12-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20277&MevzuatTertip=5",
+  "source_bytes": 18481,
+  "source_id": "8.5.20277",
+  "source_sha256": "ce2d0fe198178599a8a898d4704bf65127355c06f14231d6023be6c2943f2d88",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL ÜNİVERSİTESİ YEŞİLAY BAĞIMLILIK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 202,
+  "word_count": 828
+}
