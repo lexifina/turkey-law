@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[01-2014/30]-1218",
+  "source_id": 29233,
+  "date": "2014-12-08",
+  "title": "İndirimli Teminat Uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29233",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "46ce6cba3f4126898211ff3b8affa0b9415de23b1b59e861312a17aeedcc81d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
