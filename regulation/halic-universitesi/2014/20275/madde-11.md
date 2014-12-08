@@ -1,0 +1,2 @@
+Sermaye kaynakları ve gelirler
+MADDE 11 – (1) İşletmenin kaynakları; Üniversite bütçesine konulacak ödenekler, Üniversite ve üçüncü kişiler tarafından yapılacak aynî ve nakdî bağış ve yardımlar, döner sermaye çalışmalarından elde edilecek gelirler ile Üniversitenin eğitim alanları içerisinde kalan her türlü iş ve hizmetlerinden ve sportif faaliyet ve yarışmalardan sağlanacak kaynak ve gelirlerden oluşur.
