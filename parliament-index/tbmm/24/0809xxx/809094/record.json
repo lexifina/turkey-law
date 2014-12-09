@@ -1,0 +1,37 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 809094,
+  "assembly": "TBMM",
+  "term": 24,
+  "heading": "KANUN TEKLİFLERİ",
+  "heading_as_published": "Kanun Teklifleri",
+  "name": "MUSTAFA ELİTAŞ (KAYSERİ)",
+  "summary": "Ve Adıyaman Milletvekili Ahmet Aydın, Kahramanmaraş Milletvekili Mahir Ünal, İstanbul Milletvekili Mihrimah Belma Satır ve Amasya Milletvekili Mehmet Naci Bostancı'nın; (Adalet ve Kalkınma Partisi Grup Baş-kanvekilleri) Askerlik Kanunu ile Sözleşmeli Erbaş ve Er Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi, Cumhuriyet Halk Partisi Grup Başkanvekili İstanbul Milletvekili Mehmet Akif Hamzaçebi'nin; Askerlik Kanu-nunda Değişiklik Yapılması Hakkında Kanun Teklifi, İstanbul Milletvekili Mustafa Sezgin Tanrıkulu'nun; Askerlik Kanununa Geçici Madde Eklenmesi Hakkında Kanun Teklifi ve Tokat Milletvekili Orhan Düzgün'ün; Askerlik Kanu-nunda Değişiklik Yapılması Hakkında Kanun Teklifi (2/2512, 2/1851, 2/2513, 2/2515) (S. Sayısı: 665)",
+  "title": "Ve Adıyaman Milletvekili Ahmet Aydın, Kahramanmaraş Milletvekili Mahir Ünal, İstanbul Milletvekili Mihrimah Belma Satır ve Amasya Milletvekili Mehmet Naci Bostancı'nın; (Adalet ve Kalkınma Partisi Grup Baş-kanvekilleri) Askerlik Kanunu ile Sözleşmeli Erbaş ve Er Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi, Cumhuriyet Halk Partisi Grup Başkanvekili İstanbul Milletvekili Mehmet Akif Hamzaçebi'nin; Askerlik Kanu-nunda Değişiklik Yapılması Hakkında Kanun Teklifi, İstanbul Milletvekili Mustafa Sezgin Tanrıkulu'nun; Askerlik Kanununa Geçici Madde Eklenmesi Hakkında Kanun Teklifi ve Tokat Milletvekili Orhan Düzgün'ün; Askerlik Kanu-nunda Değişiklik Yapılması Hakkında Kanun Teklifi (2/2512, 2/1851, 2/2513, 2/2515) (S. Sayısı: 665)",
+  "first_sitting_date": "2014-12-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 94,
+      "sitting": 24,
+      "sitting_date": "2014-12-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c094/tbmm24094024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c094/tbmm24094fih.pdf",
+      "pages": [
+        "440:490"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=5&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20TEKL%DDFLER%DD&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20TEKL%DDFLER%DD&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "64b752a3854991d4a21ad65465a287c61e4b3fad8bdeb2ddfff381023de43a3b",
+  "in_force": "2014-12-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
