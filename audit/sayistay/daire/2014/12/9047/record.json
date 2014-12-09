@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10395",
+  "decision_date": "2014-12-09",
+  "source_id": 9047,
+  "chamber": "1",
+  "ilam_number": "321",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9047/",
+  "source_sha256": "54a31f16a37cf60659ee76d5913a55bc794e1abbdf91c7b0ca6a614548d08def",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
