@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10391",
+  "decision_date": "2014-12-09",
+  "source_id": 8956,
+  "chamber": "1",
+  "ilam_number": "1",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/8956/",
+  "source_sha256": "b467195b3ffd338859715262fa1f91c6117265af3e3b85ed040e47a745de0497",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
