@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10393",
+  "decision_date": "2014-12-09",
+  "source_id": 9045,
+  "chamber": "1",
+  "ilam_number": "81",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9045/",
+  "source_sha256": "64f12327be9d56122ac6b7b15adc8a3107196192ba6e823bc24e1eb6fb5ed954",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
