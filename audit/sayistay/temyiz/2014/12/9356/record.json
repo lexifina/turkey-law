@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39776",
+  "decision_date": "2014-12-09",
+  "source_id": 9356,
+  "chamber": "8",
+  "file_number": "34415",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9356/",
+  "source_sha256": "b1724e0d0b1b55d3bcb7c852fb6fc1d845c2245dac9e7ea5de68595406a9d2d6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
