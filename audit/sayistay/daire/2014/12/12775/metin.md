@@ -1,0 +1,5 @@
+Sorumluluk ve Sendika Üyeliği Hakkında
+
+Denetçi görüşünde özetle; …… Genel Müdürlüğü’nün yanı sıra, tüzel kişiliği olmayan bölge müdürlüklerinin de ………. Sendikasına üye yapılması neticesinde oluşan ……… TL kamu zararının sorumlularına ödettirilmesi istenilmekte ise de,
+
+Bölge müdürlüklerinin sendika üyesi yapılması uygulaması öteden beri süregelen bir uygulamadır ve bunun aksine bir hüküm bulunmaması sebebiyle mevcut uygulamayı devam ettiren kamu görevlilerine bu konuda bir sorumluluk yüklemek mümkün değildir. Sorumlularca gönderilen savunmalarda ……. bölge müdürlüğünün sendika üyeliğinden çıkarıldığı ve söz konusu uygulamanın kaldırılarak ………. Genel Müdürlüğü’nün tüm teşkilatını kapsayacak şekilde bir düzenleme için gerekli girişimlerin başlatıldığı anlaşıldığından konu hakkında ilişilecek bir husus bulunmadığına, ( Başkan ………..’in “Bölge Müdürlüklerinin tüzel kişiliği olmaması sebebiyle sendikaya üye olmaları ve bu üyelik için aidat ödemeleri mümkün olmadığından sorgu konusu tutarın sorumlularına ödettirilmesi gerekir” şeklindeki ayrışık görüşüne karşın) oy çokluğuyla karar verildi

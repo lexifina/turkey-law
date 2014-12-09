@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "25",
+  "decision_date": "2014-12-09",
+  "source_id": 12775,
+  "chamber": "7",
+  "ilam_number": "126",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12775/",
+  "source_sha256": "3d9596c08a4dd9f0ae9f43f006467fb6ad94b81170a5f3cc338be9ef327ab38d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
