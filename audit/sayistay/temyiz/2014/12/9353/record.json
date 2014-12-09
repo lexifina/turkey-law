@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39773",
+  "decision_date": "2014-12-09",
+  "source_id": 9353,
+  "chamber": "8",
+  "file_number": "37543",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9353/",
+  "source_sha256": "fcab514a5721358599465a09eec0c26ed725653658dba3fb57aa662b168fa130",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
