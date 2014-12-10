@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "86",
+  "decision_date": "2014-12-10",
+  "source_id": 10904,
+  "chamber": "4",
+  "ilam_number": "149",
+  "item_number": 11,
+  "public_body_type": "Diğer",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10904/",
+  "source_sha256": "46c8c62450faaac2376443f80edfc7e458b6a169de86e896b5b4bb988d10e1d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
