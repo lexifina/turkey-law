@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "86",
+  "decision_date": "2014-12-10",
+  "source_id": 10895,
+  "chamber": "4",
+  "ilam_number": "149",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10895/",
+  "source_sha256": "c87ee76d36edb65fd9d336b6b3e7f3d4f2d91e433a7e618939298033b5fdf4b5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
