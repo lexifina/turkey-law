@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "86",
+  "decision_date": "2014-12-10",
+  "source_id": 9130,
+  "chamber": "4",
+  "ilam_number": "149",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9130/",
+  "source_sha256": "55170c101aa851a464efc82d7444a9965f3856bbee6f0c3dafbe2f1b8d02d445",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
