@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10400",
+  "decision_date": "2014-12-10",
+  "source_id": 9049,
+  "chamber": "1",
+  "ilam_number": "2",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9049/",
+  "source_sha256": "fb18421a398fcfabb6b86d5a498f796a14e0498ed47be006fabacfe2d351c774",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
