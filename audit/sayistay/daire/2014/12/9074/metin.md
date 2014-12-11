@@ -1,0 +1,9 @@
+Uçak biletlerinin ödeme emri belgelerine eklenmemesi
+
+6245 sayılı Harcırah Kanununa göre yapılan uçak yolculuğu ödemelerinde Merkezi Yönetim Harcama Belgeleri Yönetmeliğinin 27 nci maddesi hükmüne aykırı olacak şekilde Vergi Usul Kanununa göre fatura olarak kabul edilen uçak biletlerinin ödeme emri belgelerine eklenmediği görülmüştür.
+
+Merkezi Yönetim Harcama Belgeleri Yönetmeliğinin 27/b maddesine göre, yolluklarla ilgili giderlerin ödenmesinde, uçakla yapılan seyahatlerde yolcu biletinin ödeme belgesine bağlanması gerekir. 213 Sayılı Vergi Usul Kanununun verdiği yetkiye dayanılarak Maliye Bakanlığı tarafından yayımlanan 334 Sıra Nolu Vergi Usul Kanunu Genel Tebliği hükümlerine göre ise, havayolu taşımacılığı yapan IATA üyesi şirketler tarafından fatura yerine geçen elektronik yolcu biletlerinin içermesi gereken asgari bilgilerle birlikte düzenlenebileceği belirtilmiştir.
+
+Buna göre, sorumlular savunmalarının eki olarak ödeme emri belgelerine sehven eklenmeyen uçak bileti ile elektronik yolcu biletlerini göndermişlerdir. …… nolu ödeme emri belgesine ilişkin Doç. Dr. …………….’ya ait uçak yolculuğu ödemesi ile ilgili olarak, uçak biletinin internet ortamından satın alındığını gösteren, elektronik bilet numarası dahil yolcuya ait bilgileri içeren belge ile bu uçak yolculuğunun bedelini gösteren ahize ait hesap özeti; ….. nolu ödeme emri belgesine ilişkin Yrd. Doç. Dr. …………..’a ait uçak yolculuğu ödemesi ile ilgili olarak ise, elektronik bilet numarası dahil uçak yolculuğu hakkında bilgileri içeren acentenin kaşesi ve imzasının bulunduğu belgeler ile fatura gönderilmiştir.
+
+ Bu itibarla, uçak bileti, elektronik yolcu biletleri ve elektronik bilet numaraları ile yolcuya ait bilgileri içeren belgeler savunma ile gönderildiğinden kamu zararı oluşmadığına ve ilişilecek bir husus bulunmadığına oybirliğiyle,
