@@ -1,0 +1,7 @@
+Yurtdışı Yüksek Lisans Giderleri:
+
+ Kurum tarafından yüksek lisans (master) eğitimi için yurt dışına gönderilen personelin Kurumca karşılanması mevzuata uygun olmayan bazı giderlerinin (TOEFL sınav ücreti, GRE dil sınavı bedeli, IELTS dil sınavı bedeli) bütçeden ödenmesi ile ilgili olarak;
+
+2813 sayılı Bilgi Teknolojileri ve İletişim Kurumunun Kuruluşuna İlişkin Kanun’un 5’inci maddesine göre kurum personeli, ücret, sosyal ve diğer mali haklar ile bu Kanun’da yer alan hükümler dışında 657 sayılı Kanun’a tabi olduğundan, Kurum personelinin yurtdışı yüksek lisans eğitimine gönderilmesinde 657 sayılı Kanun’un 78, 79 ve 80’inci maddelerinin esas alınması gerekmektedir. Bu Kanun’un 80’inci maddesi uyarınca çıkarılan ve 01.02.1974 tarih ve 14786 sayılı Resmi Gazete’de yayımlanan “Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik’in “Aranılacak Şartlar” başlıklı 6’ncı maddesinin (g) bendi gereğince, yurt dışına gönderilecek devlet memurlarında, Kurumlarınca, söz konusu Yönetmelikle belirlenen yabancı dil bilgisi düzeyine sahip olmak şartı arandığından bu sınavlara yapılan harcamaların yurtdışına gönderilmesine karar verilen kişilerce karşılanması gerekmektedir.
+
+Bu itibarla yetiştirilmek amacıyla yurt dışına gönderilecek devlet memurlarının TOEFL sınav ücreti, GRE dil sınavı bedeli, IELTS dil sınavı bedelinin Kurum tarafından karşılanması sonucu oluşan .......TL. tutarındaki kamu zararının sorumlularına ödettirilmesine, oybirliğiyle, karar verildi
