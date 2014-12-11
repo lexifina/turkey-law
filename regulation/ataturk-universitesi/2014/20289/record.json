@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-12-11",
+      "11.12.2014",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29202",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-12-11",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Atatürk Üniversitesi",
+  "issuer_slug": "ataturk-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ataturk-universitesi/2014/20289",
+  "published": "2014-12-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20289&MevzuatTertip=5",
+  "source_bytes": 27043,
+  "source_id": "8.5.20289",
+  "source_sha256": "6a0cacd05811099c7524903cb562b5350c14be1792542202b7c074dfa4c39189",
+  "text_status": "as-enacted",
+  "title": "ATATÜRK ÜNİVERSİTESİ İNSANİ DEĞERLER EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 181,
+  "word_count": 1099
+}
