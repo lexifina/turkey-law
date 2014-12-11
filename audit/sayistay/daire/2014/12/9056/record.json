@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10404",
+  "decision_date": "2014-12-11",
+  "source_id": 9056,
+  "chamber": "1",
+  "ilam_number": "63",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9056/",
+  "source_sha256": "815d2d33b6e2bc39ea85630136e3c69c3c5333254d81808b21f75936afbc8bb8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
