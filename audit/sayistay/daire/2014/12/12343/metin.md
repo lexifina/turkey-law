@@ -1,0 +1,3 @@
+KDV tevkifatı
+
+Tedarikçisi ……………. Şti. olan tanıtım kataloğu basımı işinde ve tedarikçisi …………. Üniversitesi Döner Sermaye İşletmesi Müdürlüğü olan diploma/transkript basımı işinde, 14.04.2012 tarih ve 28264 sayılı Resmi Gazetede yayımlanan 117 Seri Nolu Katma Değer Vergisi Genel Tebliğinin “3.2.12. Her Türlü Baskı ve Basım Hizmetleri” başlıklı bölüme göre KDV tevkifatı yapılması gerekirken yapılmadığı görülmüştür. Ancak, ilgili firma ve işletme tarafından gönderilen belgelerden, ……………. Şti. tarafından KDV tutarı …………..Vergi Dairesine, ……………. Üniversitesi Döner Sermaye İşletmesi Müdürlüğü tarafından KDV tutarı …….. Vergi Dairesine beyan edildiği anlaşıldığından kamu zararı oluşmadığına ve ilişilecek bir husus bulunmadığına oybirliğiyle,
