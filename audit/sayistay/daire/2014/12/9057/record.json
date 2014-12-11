@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10406",
+  "decision_date": "2014-12-11",
+  "source_id": 9057,
+  "chamber": "1",
+  "ilam_number": "62",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9057/",
+  "source_sha256": "b7ded3fad8703458c6fa599cef1de8d709c74f8109821eaf1f588c2a15b7a9ee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
