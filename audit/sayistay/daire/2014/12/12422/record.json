@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "26",
+  "decision_date": "2014-12-11",
+  "source_id": 12422,
+  "chamber": "7",
+  "ilam_number": "157",
+  "item_number": 3,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12422/",
+  "source_sha256": "fa774f52d418ee1fa9063d56bba90e544824f57195e620e0b11419066115924b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
