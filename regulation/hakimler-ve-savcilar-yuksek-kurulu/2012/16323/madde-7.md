@@ -1,0 +1,8 @@
+Görüşme usulü
+MADDE 7 – (1) Genel Kurul toplantılarını Başkan veya Başkanvekili açar, yönetir ve gerektiğinde toplantıya ara verir. Toplantı açıldıktan sonra toplantı yeter sayısının bulunduğu tespit edilirse gündeme geçilir. Toplantı yeter sayısının bulunmaması durumunda gündem ertelenir.
+(2) Daire toplantılarında da yukarıdaki fıkrada belirtilen usul uygulanır. Ancak toplantı yeter sayısının oluşmaması durumunda Genel Kurulca her bir daire için ayrı ayrı belirlenen tamamlayıcı üyeler sırasına göre daire başkanının daveti üzerine toplantıya katılır.
+(3) Üyeler, toplantı sonuna kadar ayrılamazlar. Mazeretlerinin çıkması hâlinde durumu Genel Kurul toplantıları bakımından (Ek ibare:RG-12/12/2014-29203 mükerrer) ilgisine göre Başkan veya Başkanvekiline; daire toplantıları bakımından ise daire başkanına bildirmek suretiyle toplantıdan ayrılabilirler. (Ek ibare:RG-12/12/2014-29203 mükerrer) İlgisine göre Başkan veya Başkanvekili ya da daire başkanı, mazeretinin çıkması durumunda vekilini belirleyerek toplantıdan ayrılabilir.
+(4) Gündemdeki işler hakkında, ilgisine göre Genel Sekreter ve yardımcıları, Teftiş Kurulu Başkanı ve yardımcıları, Kurul müfettişleri ve tetkik hâkimleri görüşlerini açıklayabilir.
+(5) İlgisine göre (Ek ibare:RG-12/12/2014-29203 mükerrer) Başkan veya Başkanvekili ya da daire başkanı tarafından veya onların onayı ile ihtiyaç duyulması halinde belirli bir konuda görüşlerinden yararlanılmak üzere daire ya da genel kurul toplantılarına uzman kişiler davet edilebilir.
+(6) Görüşünü belirtmek isteyen üyelere başkan tarafından talep sırasına göre söz verilir.
+(7) Genel Kurul ve dairedeki işler, gündemdeki sıraya göre incelenir ve karara bağlanır.

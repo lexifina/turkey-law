@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.16323",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HÂKİMLER VE SAVCILAR YÜKSEK KURULU ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "16323",
+  "issuer": "Hâkimler ve Savcılar Yüksek Kurulu",
+  "issuer_slug": "hakimler-ve-savcilar-yuksek-kurulu",
+  "path": "regulation/hakimler-ve-savcilar-yuksek-kurulu/2012/16323",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16323&MevzuatTertip=5",
+  "source_sha256": "0d811778ac4fdb34dba4d915a9e9d44d187bdf926f7e06c3cc49b876ea2a4045",
+  "source_bytes": 53865,
+  "published": "2012-07-04",
+  "gazette": "28343",
+  "in_force": "2014-12-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/12/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-12-12",
+      "RG-12/12/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-12-12",
+      "12/12/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2422,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

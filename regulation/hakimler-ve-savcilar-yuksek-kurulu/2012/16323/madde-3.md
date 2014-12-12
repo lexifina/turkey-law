@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Başkan: Hâkimler ve Savcılar Yüksek Kurulu Başkanını,
+b) Başkanvekili: Hâkimler ve Savcılar Yüksek Kurulu Başkanvekilini,
+c) Daire: Hâkimler ve Savcılar Yüksek Kurulunun birinci, ikinci ve üçüncü dairelerinden her birini,
+ç) Daire başkanı: Hâkimler ve Savcılar Yüksek Kurulunun birinci, ikinci ve üçüncü daire başkanlarından her birini,
+d) Genel Kurul: Hâkimler ve Savcılar Yüksek Kurulu Genel Kurulunu,
+e) Genel Sekreter: Hâkimler ve Savcılar Yüksek Kurulu Genel Sekreterini,
+f) (Ek:RG-12/12/2014-29203 mükerrer)(1) Genel Sekreter yardımcısı: Hâkimler ve Savcılar Yüksek Kurulu Genel Sekreter yardımcılarını,
+g)(1) Genel Sekreterlik: Hâkimler ve Savcılar Yüksek Kurulu Genel Sekreterliğini,
+ğ)(1) Hâkim: 24/2/1983 tarihli ve 2802 sayılı Hâkimler ve Savcılar Kanununda tanımlanan hâkim ile geçici yetki veya herhangi bir görevlendirmeyle başka bir kurum veya kuruluşta görev yapan hâkimi,
+h)(1) Kurul: Hâkimler ve Savcılar Yüksek Kurulunu,
+ı)(1) Kurul müfettişi: Hâkimler ve Savcılar Yüksek Kurulu Teftiş Kurulu Başkanlığında görev yapan (Mülga ibare:RG-12/12/2014-29203 mükerrer) (…) başmüfettiş ve müfettişleri,
+i)(1) Kurulun seçimle gelen üyesi: Hâkimler ve Savcılar Yüksek Kurulunun, Adalet Bakanı ve Adalet Bakanlığı Müsteşarı dışındaki asıl üyelerinden her birini,
+j)(1) Kurul üyesi: Hâkimler ve Savcılar Yüksek Kurulunun asıl üyelerinden her birini,
+k)(1) Savcı: 2802 sayılı Kanunda tanımlanan savcı ile geçici yetki veya herhangi bir görevlendirmeyle başka bir kurum veya kuruluşta görev yapan savcıyı,
+l)(1) Teftiş Kurulu: Hâkimler ve Savcılar Yüksek Kurulu Teftiş Kurulunu,
+m)(1) Teftiş Kurulu Başkanı: Hâkimler ve Savcılar Yüksek Kurulu Teftiş Kurulu Başkanını,
+n) (Ek:RG-12/12/2014-29203 mükerrer)(1) Teftiş Kurulu Başkan yardımcısı: Hâkimler ve Savcılar Yüksek Kurulu Teftiş Kurulu Başkan yardımcılarını,
+o) (1) Tetkik hâkimi: Kurulda görev yapan hâkim ve savcıları,
+ö) (1) UYAP: Ulusal Yargı Ağı Bilişim Sistemini,
+ifade eder.
