@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6579",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kırgız Cumhuriyeti Hükümeti Arasında Turizm İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-12-12",
+  "gazette_issue": "29203",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141212-31.htm",
+  "source_sha256": "a358e639357ea908f44584aa528bd060f2bc64b93bbaabf5ae5882a0d03d41e3",
+  "text_sha256": "5ad5751d1a114cbcf47ff93d9c8eba44dbada36e8c190d0278474231668b7e06",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/12/12/29203-31",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141212-31.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
