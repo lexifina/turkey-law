@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "727",
+  "decision_date": "2014-12-12",
+  "title": "MEC_ KAR_(Toroslar, Karaisalı, 73091 ve 73101",
+  "listed_as": "727 MEC_ KAR_(Toroslar, Karaisalı, 73091 ve 73101",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/727-mec--kar-toroslar-karaisali-73091-ve-73101-ve-108441--ada",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk75--12-aralik-2014-meclis-kararlari",
+  "listing_sha256": "ce5ccff868c7502f8ec45a3a02e5f6966bf922557e2f77f9161b2abb59bec7b6",
+  "meeting_title": "MK75- 12 ARALIK 2014 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
