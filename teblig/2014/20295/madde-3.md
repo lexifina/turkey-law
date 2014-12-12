@@ -1,0 +1,3 @@
+Önlemlerin etkisiz kılınmasına ilişkin bulgular
+MADDE 3 – (1) Soruşturma konusu eşyanın dampinge karşı önlem uygulanan ÇHC ve Tayvan’dan ithalatında önlem sonrası dönemde düşüş yaşanırken, Vietnam ve Malezya menşeli ithalatında ise ciddi bir artış gözlemlenmiştir. Ancak bu husus, uluslararası veri kaynaklarından elde edilen Vietnam’ın ülkemize ihracat verileriyle farklılıklar göstermektedir.
+(2) Malezya ve Vietnam’da paslanmaz çelik boru üretimi yapan firmalara ilişkin ilgili ülkelerdeki Ticaret Müşavirliklerimiz aracılığıyla elde edilen bilgiler doğrultusunda, paslanmaz çelik boru üretim sürecinde firmaların yeterli katma değer yaratıp yaratmadıkları hususunda şüphe hasıl olmuştur.
