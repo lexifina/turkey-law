@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6572",
+  "year": 2014,
+  "title": "Hâkimler ve Savcılar Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-12-12",
+  "gazette_issue": "29203",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141212M1-1.htm",
+  "source_sha256": "1be15f4ca91c574fe875281d9ab898fc6e0c9f18eb967c073a2343203559de07",
+  "text_sha256": "d20d7fc3d6e9df86b33b35d8713ff45ccb5f51201b21d9b669c40f6bf93962b7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/12/12/29203-m1-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141212M1-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
