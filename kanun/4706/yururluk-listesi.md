@@ -21,3 +21,5 @@ KHK/666 | 7 | 2/11/2011
 Değiştiren Kanunun/KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numarası | 4706 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 6456 | 2, Ek Madde 2 | 18/4/2013
 Anayasa Mahkemesi’nin 6/6/2013 tarihli ve E.: 2013/22, K.:2013/73 sayılı kararı ile | Geçici Madde 8 | 22/11/2013
+6528 | Geçici Madde 16 | 14/3/2014
+Anayasa Mahkemesi’nin 3/7/2014 tarihli ve E.: 2014/9, K.:2014/121 sayılı kararı ile | 5 | 12/12/2014

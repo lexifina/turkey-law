@@ -18,6 +18,9 @@ _________________________
 (3) Bu Kanunla Yargıtayda ihdas edilen üye kadrolarına seçim yapılmasından itibaren onbeş gün içinde Birinci Başkanlık Kurulu yeniden belirlenir. Üyelerin hangi dairelerde görev yapacağını, dairelerin iş durumunu ve ihtiyaçlarını göz önünde tutarak, oluşturulan yeni Başkanlık Kurulu belirler.
 6- 31/3/2011 tarihli ve 6217 sayılı Kanunun 17 nci maddesi: (1)
 MADDE 17 – Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Danıştay Başkanlığına ait bölümüne, ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne eklenmiştir.
+7- 2/12/2014 tarihli ve 6572 sayılı Kanunun 49 uncu maddesi: (2)
+MADDE 49- Bu Kanuna ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (II) sayılı cetvelin Adalet Bakanlığına ait bölümüne; ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin, (3) sayılı listede yer alan kadrolar ihdas edilerek (II) sayılı cetvelin Yargıtay Başkanlığına ait bölümüne; ekli (4) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin, (5) sayılı listede yer alan kadrolar ihdas edilerek (II) sayılı cetvelin Danıştay Başkanlığına ait bölümüne; ekli (6) sayılı listede yer alan kadrolar ihdas edilerek l90 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Adalet Bakanlığına ait bölümüne eklenmiştir.
 –––––––––––––––
 (1) Bu maddede yer alan kadrolarla ilgili olarak 14/4/2011 tarihli ve 27905 sayılı Resmi Gazete’ye bakınız.
+(2) Bu maddede yer alan kadrolarla ilgili olarak 12/12/2014 tarihli ve 29203 Mükerrer sayılı Resmi Gazete’ye bakınız.
 5607

@@ -23,3 +23,4 @@ Değiştiren Kanunun/ Tebliğin/İptal Eden Anayasa Mahkemesinin Kararının Num
 6455 | 1, 2, 3, 4, 5, 7, 13, 14, 16, 18, 19, 20, Ek Madde 3, 4, 5 ve Geçici Madde 5 | 11/4/2013
 6462 | 2 | 3/5/2013
 30/12/2013 tarihli ve 28867 (Mükerrer) sayılı R. G.’de yayımlanan Tebliğ | 19 | 1/1/2014
+12/12/2014 tarihli ve 29203 sayılı R. G.’de yayımlanan Tebliğ | 19 | 1/1/2015
