@@ -3,7 +3,7 @@ Madde 16 – Yargıtay Büyük Genel Kurulunun görevleri şunlardır:
 1. Birinci Başkanı, birinci başkanvekillerini, daire başkanlarını ve bu Kanunda gösterilen kurulların üyelerini seçmek,
 2. Yargıtay Cumhuriyet Başsavcısı ve Yargıtay Cumhuriyet Başsavcıvekili adaylarını belirlemek,
 __________________
-(1) 26/9/2004 tarihli ve 5235 sayılı Kanunun 51 inci maddesiyle 1/4/2005 tarihinden geçerli olmak üzere (2) numaralı bende (a) bendi eklenmiş ve mevcut (a) ve (b) bentleri (c) ve (d) bentleri olarak teselsül ettirilmiştir.
+(1) 26/9/2004 tarihli ve 5235 sayılı Kanunun 51 inci maddesiyle 1/4/2005 tarihinden geçerli olmak üzere (2) numaralı bende (a) bendi eklenmiş ve mevcut (a) ve (b) bentleri (b) ve (c) bentleri olarak teselsül ettirilmiştir.
 5584/5586-2
 3. Özel kanunların Yargıtay üyelerinin katılmasını öngördüğü kurullara üye seçmek veya üye adayı belirlemek,
 4. Yargıtay İç Yönetmeliğini yapmak ve gerektiğinde değiştirmek,

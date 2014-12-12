@@ -1,7 +1,5 @@
 Hukuk ve Ceza Genel Kurulları:
 Madde 7 – Hukuk Genel Kurulu, hukuk dairelerinin başkan ve üyelerinden; Ceza Genel Kurulu, ceza dairelerinin başkan ve üyelerinden oluşur.
-–––––––––––––
-(1) 18/6/2014 tarihli ve 6545 sayılı Kanunun 29 uncu maddesiyle, bu maddede yer alan “yirmiüç hukuk, onbeş ceza dairesi” ibaresi “otuz sekiz daire” şeklinde değiştirilmiştir.
 5580
 Hukuk ve Ceza Genel Kurullarının içtihadı birleştirme toplantılarında; bu kurullara bağlı dairelerin her birinin mevcudu beş itibar edilerek toplamının en az üçte ikisi kadar üyenin, diğer toplantılarında, işi görüşme konusu olan daireden beşten fazla üyenin katılmaması koşuluyla bu kurullara bağlı daire sayısının en az iki katı üyenin bulunması zorunludur.
 Toplantılarda daire başkanlarının en az yarısından fazlasının ve başkanlarının katıldığı dairelerden bir, katılmadığı dairelerden iki üyenin bulunması zorunludur.

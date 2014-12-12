@@ -1,5 +1,5 @@
 Yönetmelik ve Yürürlükten Kaldırılan ve Uygulanmayacak Hükümler
-İdari para cezaları (1)
+İdari para cezaları(1)
 Madde 19- (Değişik: 28/3/2013-6455/44 md.)
 Bu Kanuna göre idari para cezalarının veya idari yaptırımların uygulanması, bu Kanunun diğer hükümlerinin uygulanmasına engel oluşturmaz. Bu Kanuna göre verilen ceza ve tedbirler diğer kanunlar gereği yapılacak işlemleri engellemez.
 Bu Kanuna göre;
@@ -20,8 +20,8 @@ e) Aşağıdaki hallerde, sorumlulara üç yüz elli bin Türk Lirası idari par
 4) 12 nci maddede yer alan hükümler dahilinde iletim ve depolama tesislerine erişimin dolaylı veya dolaysız olarak engellenmesi.
 f) 4 üncü maddenin dördüncü fıkrasının (l) bendi kapsamındaki ihlaller hariç olmak üzere bayiler için (e) bendinde yer alan cezanın beşte biri uygulanır.
 g) Ulusal marker ekleme işlemlerine nezaret etmek üzere yetki verilen bağımsız gözetim firmalarının yükümlülüklerini yerine getirmemeleri halinde (a) bendinde belirtilen cezanın dörtte biri uygulanır.
-_____________________
-(1) Bu maddede yer alan para cezası miktarlarının 1/1/2014 tarihinden itibaren uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
+__________________
+(1) Bu maddede yer alan para cezası miktarlarının 1/1/2015 tarihinden itibaren uygulanması ile ilgili olarak Kanunun sonundaki tabloya bakınız.
 8654-1
 h) 16 ncı madde uyarınca ulusal petrol stoğu tutma yükümlülüğü bulunan lisans sahiplerine, eksik tuttukları her bir ton ürün için iki yüz Türk Lirası idari para cezası verilir. Eksik tutulan stok miktarının hesabında ton küsuratı dikkate alınmaz.
 Ceza uygulanan bir fiilin iki takvim yılı geçmeden aynı kişi tarafından tekrarı halinde, cezalar iki kat olarak uygulanır.
