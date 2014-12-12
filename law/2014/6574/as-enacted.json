@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6574",
+  "year": 2014,
+  "title": "Engellilerin Haklarına İlişkin Sözleşmeye Ek İhtiyari Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-12-12",
+  "gazette_issue": "29203",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141212-26.htm",
+  "source_sha256": "8751217c08e62884b81ce37842245965c2a750ac6df5c401e3d0c2615389645a",
+  "text_sha256": "ae95b9c7f241432cf6421a64865c2df88cd2d0b6de3228881776f6d93d0fbc9d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/12/12/29203-26",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141212-26.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
