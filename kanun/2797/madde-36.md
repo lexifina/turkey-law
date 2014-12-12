@@ -1,5 +1,4 @@
 Tetkik Hakimlerinin nitelikleri ve atanmaları:
-Madde 36 – Yargıtayda yeteri kadar tetkik hakimi bulunur. Tetkik hakimleri meslekte en az beş yılını fiilen doldurmuş adli yargı hakim ve Cumhuriyet savcıları arasından Birinci Başkanlık Kurulunun görüşü alınarak yetkili Kurulca atanır.
-Atamanın gecikeceği ve tetkik hakimine ihtiyacın zorunlu bulunduğu hallerde boş bulunan tetkik hakimliği kadrolarına, bu kadrolara atanmak niteliğine sahip hakimler ve Cumhuriyet savcıları ilgili kurulca geçici yetki ile görevlendirilebilirler.
-Yukarıdaki fıkralar uyarınca atanan veya görevlendirilenler, kurul veya daire başkanının gösterdiği lüzum ve Birinci Başkanlık Kurulunun kararı üzerine yetkili kurulca Yargıtay dışında bir göreve atanabilirler.
+Madde 36 – (Değişik: 2/12/2014-6572/25 md.)
+Yargıtayda yeteri kadar tetkik hâkimi bulunur. Tetkik hâkimleri, meslekte en az beş yılını fiilen doldurmuş adli yargı hâkim ve Cumhuriyet savcıları arasından Hâkimler ve Savcılar Yüksek Kurulunca atanır.
 Yargıtay Cumhuriyet Başsavcı Başyardımcısı ile Yargıtay Cumhuriyet Başsavcı Yardımcısının nitelikleri ve atanmaları:

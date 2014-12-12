@@ -1,3 +1,2 @@
 Adli yılın açılışı:
-Madde 59 – Her adli yıl Ankara‘da bir törenle açılır. Yargıtay Birinci Başkanı bir konuşma yapar.
-Açılış konuşmasının metni ve tören gündemi üzerinde daha önceden Başkanlar Kurulunun düşüncesi alınır.
+Madde 59 – (Mülga: 2/12/2014-6572/26 md.)
