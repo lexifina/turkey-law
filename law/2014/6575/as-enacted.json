@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6575",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Aile, Kadın ve Çocuk Politikaları Alanında İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-12-12",
+  "gazette_issue": "29203",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141212-27.htm",
+  "source_sha256": "0d5a395766fff778caeebe5f6a09b1dfa579132db6a64a36da04fc39dfe418ac",
+  "text_sha256": "06b9dadd0ac113c6c098c244325af6542ee535eba572597f75c7aa5a3407fbb4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/12/12/29203-27",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141212-27.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
