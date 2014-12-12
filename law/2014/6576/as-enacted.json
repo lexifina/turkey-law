@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6576",
+  "year": 2014,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Ormancılık Alanında Yardım ve İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-12-12",
+  "gazette_issue": "29203",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141212-28.htm",
+  "source_sha256": "09b3798e17217c1267bab1ad890fc9b92ca269d4655896f28f87338f4d615731",
+  "text_sha256": "c1f000e257328a6ddaffb2833f8e7e086f8a87e876a75bd244b3d93f021926fa",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/12/12/29203-28",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141212-28.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
