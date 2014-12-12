@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6580",
+  "year": 2014,
+  "title": "176 Sayılı Maden İşyerlerinde Güvenlik ve Sağlık Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-12-12",
+  "gazette_issue": "29203",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141212-32.htm",
+  "source_sha256": "0cb025eceb718db9f33588d160dec2a854f22e8ad9ce5a34fef82255a68c497b",
+  "text_sha256": "6eb140eaada942b254b470d9a502fef6cb999af3d226f79e2ad85108c57c495b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/12/12/29203-32",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141212-32.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
