@@ -6,3 +6,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 6
 6413 | 6 | 16/2/2013
 6496 | 4, 5, 7, 8, Ek Madde 1 | 31/7/2013
 6519 | Ek Madde 2 | 22/2/2014
+6582 | 3, 6, Ek Madde 3 | 13/12/2014
