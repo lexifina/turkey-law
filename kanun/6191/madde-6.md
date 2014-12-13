@@ -17,7 +17,7 @@ e) Yabancı uyruklu kişilerle yapılan evliliklerde, evlilikleri ilgili mevzuat
 f) Yetkili sağlık kurullarınca ilgili yönetmelik doğrultusunda verilen kararlara göre sözleşmeli erbaş ve er olarak göreve devamı mümkün olmamak.
 g) İstihdam edildikleri sınıf ve branşlarda görev yapamayacaklarına dair yetkili sağlık kurullarınca karar verilenlerden, idarece başka bir sınıfta istihdamına gerek duyulmamak.
 ğ) Herhangi bir suç sebebiyle doksan günden fazla tutuklu kalmak ve göreve başlama tarihinden önce işlediği 3 üncü maddede belirtilen bir suç nedeniyle soruşturması devam edenlerden, haklarında verilecek olan mahkûmiyet hükmü göreve başladıktan sonra kesinleşmiş olmak.
-(5) Sözleşmesi feshedilerek ilişiği kesilenler, yedekte erbaş ve er kaynağına alınırlar.
+(5) (Değişik: 10/12/2014-6582/3 md.) Askerlik hizmetini tamamlayanlar ile tamamlamış sayılanlardan sözleşmesi feshedilerek ilişiği kesilenler, yedekte erbaş ve er kaynağına alınırlar.
 11453
 (6) Dördüncü fıkranın (f) ve (g) bentleri gereğince sözleşmeleri idarece feshedilenler 7 nci maddenin beşinci ve altıncı fıkralarında belirtilen haklardan istifade ederler.
 (7) Görevde başarısız olma ve kendilerinden istifade edilememe hâlleri ile bunlara yapılacak işlemler yönetmelikle düzenlenir.

@@ -1,7 +1,11 @@
 İKİNCİ BÖLÜM
 Kaynak, Yetiştirme, Hizmet Şartları, Yedeklik Dönemi, Görev ve Sözleşme Süreleri
 Kaynak
-MADDE 3 – (1) (Değişik: 26/6/2012-6336/ 22 md.) Sözleşmeli er kaynaklarını; en az ilköğretim veya yurt dışındaki dengi okul mezunu olup askerlik hizmetini erbaş ve er olarak tamamlamış ve terhislerinin üzerinden üç yıldan fazla süre geçmemiş ve düzeltilmemiş nüfus kaydına göre müracaat yapılan yılın ocak ayının ilk günü itibarıyla yirmibeş yaşını bitirmemiş olanlar teşkil eder.
+MADDE 3 – (1) (Değişik: 10/12/2014-6582/ 2 md.) Sözleşmeli er kaynaklarını;
+a) En az ilköğretim veya yurt dışındaki dengi okul mezunu olup, askerlik hizmetini erbaş ve er olarak tamamlamış ve düzeltilmemiş nüfus kaydına göre müracaat yapılan yılın ocak ayının ilk günü itibarıyla yirmi beş yaşını bitirmemiş olanlar,
+b) En az ortaöğretim veya yurt dışındaki dengi okul mezunu olup, askerlik hizmetine başlamamış veya askerlik hizmetini tamamlamamış olanlardan, düzeltilmemiş nüfus kaydına göre müracaat yapılan yılın ocak ayının ilk günü itibarıyla yirmi yaşından gün almış ve yirmi beş yaşını bitirmemiş olanlar,
+teşkil eder.
+Ayrıca, (a) bendinde sayılanlardan askerlik hizmetine başlamamış veya askerlik hizmetini tamamlamamış olanların, (b) bendi kapsamında sözleşmeli erliğe alınıp alınmayacakları kaynak ihtiyacı dikkate alınarak Millî Savunma Bakanlığı tarafından belirlenir.
 (2) Askerî okullardan ve Türk Silahlı Kuvvetlerinden her ne sebeple olursa olsun ilişikleri kesilen personel sözleşmeli er olarak alınmaz.
 (3) Sözleşmeli erlik için aşağıdaki nitelikler aranır:
 a) Türk vatandaşı olmak.
