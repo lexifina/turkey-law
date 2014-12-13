@@ -1,5 +1,6 @@
 Yürütme
 MADDE 12 – (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+11458-1
 (1) SAYILI CETVEL
 SÖZLEŞMELİ ERBAŞ/ERLER İÇİN AYLIK GÖSTERGE TABLOSU
 Hizmet Yılı | Oran
@@ -20,4 +21,4 @@ Hizmet Yılı | Oran
 5 | 37,5
 6 | 43,7
 7 ve üzeri | 62,3
-11458-1
+11458-2
