@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-12-14",
+  "issue": "29205",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Reeskont ve Avans İşlemlerinde Uygulanacak Faiz Oranlarının Tespiti",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141214-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141214.htm",
+  "index_sha256": "0a52582803a3483e21d083373764cc7d10813e0ba5d82c94cfae2d9dbd279680",
+  "index_header": "14 Aralık 2014 ... 29205 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141214.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
