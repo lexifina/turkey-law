@@ -1,0 +1,2 @@
+İzin ve izin süreleri
+MADDE 16 – (1) Öğrenciler belgelemek koşuluyla; yurt dışında eğitim, ailevi, kişisel ve sağlık gibi nedenlerle Senatonun belirlediği esaslar doğrultusunda dönem izni alarak kayıt dondurabilir. Bu öğrenciler izinli oldukları yıla ait eğitim ve öğretim ücretinin yarısını öderler. Dönem izni alan öğrenci eğitim-öğretime başladığında, yeterlik sınavına alınır ve sınavdan aldığı puana göre belirlenecek olan kurda eğitim-öğretime devam eder.

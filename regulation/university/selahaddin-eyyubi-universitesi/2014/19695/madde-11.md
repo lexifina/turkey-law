@@ -1,0 +1,2 @@
+Hazırlık bölümünde yükselme
+MADDE 11 – (1) İngilizce hazırlık öğrencileri bir sonraki kura doğrudan geçemezler. Her kurun sonunda öğrencilerin sınavlarından aldıkları notlar hesaplanır. Her kurun puanlama sistemi ile ilgili devam, derse katılım, ev ödevleri, sınıf içi ödevler, testler, ara sınavlar ve final sınavları, öğretmen kanaati gibi kriterler, kur başladığında öğretim elemanları tarafından öğrencilere bildirilir.

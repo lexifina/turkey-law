@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/selahaddin-eyyubi-universitesi/2014/19695",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 22 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-14/12/2014",
+  "first_law": null,
+  "gazette": "29007",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2014-12-14",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Selahaddin Eyyubi Üniversitesi",
+  "issuer_slug": "selahaddin-eyyubi-universitesi",
+  "kind": "regulation",
+  "published": "2014-05-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19695&MevzuatTertip=5",
+  "source_id": "8.5.19695",
+  "source_sha256": "47c53f4b8a9ceb07df9ea23534d73f154471ac5104f9503c29c67cf59c79ba7c",
+  "title": "SELAHADDİN EYYUBİ ÜNİVERSİTESİ İNGİLİZCE HAZIRLIK BÖLÜMÜ EĞİTİM, ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 448,
+  "version_label": "oldest version available",
+  "word_count": 1596
+}

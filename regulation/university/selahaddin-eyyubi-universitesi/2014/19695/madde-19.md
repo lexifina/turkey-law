@@ -1,0 +1,4 @@
+Üniversiteden ayrılma ve kayıt sildirme
+MADDE 19 – (1) Öğrenciler, bir dilekçe ile Öğrenci İşleri Müdürlüğüne başvurarak, kendi istekleri ile Üniversiteden ayrılma talebinde bulunabilir.
+(2) Kendi istekleri veya ilişik kesilmesi gibi sebeplerle Üniversiteden ayrılan öğrencilerin, belgelerini alabilmeleri için; kayıt sildirme işlemini tamamlamaları, dosyasına borçlarının olmaması, kendisine eğitim ve öğretim süresi zarfında kullanılmak üzere Üniversite tarafından sağlanan mal ve teçhizatı hasarsız olarak iade etmiş olması, ayrılma sebebini ve ayrılma tarihini belgeleyerek kayıtlara geçirme işlemini yaptırmaları gerekir. Kaydını sildiren öğrenci, kaydın silindiği dönem de dahil olmak üzere eğitim ve öğretim ücretinin tamamını öder.
+(3) Üniversiteden ayrılan öğrencinin lise diplomasının arkasına, Üniversiteden ayrılış tarihi ve sebebi yazılır ve diplomanın bir kopyası öğrencinin dosyasına konulduktan sonra diploma aslı öğrenciye iade edilir.

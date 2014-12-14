@@ -1,0 +1,3 @@
+Yeterlik sınavı
+MADDE 6 – (Değişik:RG-14/12/2014-29205)
+(1) Üniversiteye yeni kayıt yaptıran öğrenciler, akademik yılın başında İngilizce yeterlik sınavına alınır. Bu sınavdan en az 70 puan alanlar başarılı sayılarak lisans ve önlisans derslerini almaya hak kazanırlar. 70’in altında puan alan öğrenciler başarısız kabul edilir ve İngilizce hazırlık programında seviyelerine uygun modüllere yerleştirilirler. İngilizce hazırlık sınıfına devam etmekte olan öğrenciler için birinci ve ikinci yarıyıl sonlarında İngilizce yeterlik sınavı yapılır. Bu sınava herhangi bir modülde eğitim gören öğrenciler girebilir. Yarıyıl sonlarında yapılan yeterlik sınavından en az 70 puan alan öğrenciler hazırlık sınıfını başarıyla tamamlamış kabul edilir.
