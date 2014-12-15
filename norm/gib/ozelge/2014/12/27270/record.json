@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-BSMV-2649",
+  "source_id": 27270,
+  "date": "2014-12-15",
+  "title": "Bedelsiz edinilen ortaklık payının vergilendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27270",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "5254139b7f5cb95f0e3defe7cd9bde1d082bfeacbf866282aac2fc52d4415fc0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
