@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "163",
+  "decision_date": "2014-12-16",
+  "source_id": 12931,
+  "chamber": "6",
+  "ilam_number": "199",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12931/",
+  "source_sha256": "3f534a1ebeedf7a00e124f11deb80bbb182a89a6faa98f47a6b0626b82d7e434",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
