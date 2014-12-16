@@ -1,0 +1,74 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "158",
+  "decision_number": "35/1207",
+  "date": "2014-12-16",
+  "title": "Kurulumuzun i-SPK. 23.2 (16.12.2014 Tarih ve 35/1207 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/158",
+  "source_sha256": "3df18c87fb4036a3bcd767f7ce81b1943b15b99167305e0ae129fc461c0a3ccd",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 158,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 1. Kurulumuzun i-SPK. 23.2 (16.12.2014 tarih ve 35/1207 s.k.) sayılı ilke kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2014-12-16",
+    "source_clauses": [
+      "1. Kurulumuzun i-SPK. 23.2 (16.12.2014 tarih ve 35/1207 s.k.) sayılı ilke kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "59330c6a-aa93-4239-8bc3-fe14aa85217a",
+    "contentSource": "IlkeKarari",
+    "contentID": 158,
+    "tur": "İlke Kararı",
+    "title": "Kurulumuzun i-SPK. 23.2 (16.12.2014 Tarih ve 35/1207 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2014-12-16T00:00:00",
+    "kurulKararTarih": "16.12.2014",
+    "kurulToplantiNo": "35/1207",
+    "bultenYili": 2014,
+    "bultenNo": 34,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "93:Birleşme ve Bölünme Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 93,
+        "value": "Birleşme ve Bölünme Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "4:Halka Açık Ortaklıklar;109:Birleşme ve Bölünme",
+    "ilgiliKonular": [
+      {
+        "key": 4,
+        "value": "Halka Açık Ortaklıklar"
+      },
+      {
+        "key": 109,
+        "value": "Birleşme ve Bölünme"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/158",
+    "linkTarget": "_blank"
+  }
+}
