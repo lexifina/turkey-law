@@ -1,0 +1,82 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "173",
+  "decision_number": "35/1256",
+  "date": "2014-12-16",
+  "title": "Kurulumuzun 16.12.2014 Tarih ve 35/1256 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/173",
+  "source_sha256": "02e33f9a170745e24bef0b3000623b19a4ffd0e90ec139abe33e72b1893d4130",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 173,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurulumuzun 16.12.2014 tarih ve 35/1256 sayılı kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2014-12-16",
+    "source_clauses": [
+      "Kurulumuzun 16.12.2014 tarih ve 35/1256 sayılı kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "918589ff-31c0-48c9-94d2-66e80d950811",
+    "contentSource": "IlkeKarari",
+    "contentID": 173,
+    "tur": "Kurul Kararı",
+    "title": "Kurulumuzun 16.12.2014 Tarih ve 35/1256 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2014-12-16T00:00:00",
+    "kurulKararTarih": "16.12.2014",
+    "kurulToplantiNo": "35/1256",
+    "bultenYili": 2014,
+    "bultenNo": 34,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "132:Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları Hakkında Tebliğ;133:Aracılık Faaliyetinde Belge ve Kayıt Düzeni Hakkında Tebliğ",
+    "baglantiliTebligler": [
+      {
+        "key": 132,
+        "value": "Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları Hakkında Tebliğ"
+      },
+      {
+        "key": 133,
+        "value": "Aracılık Faaliyetinde Belge ve Kayıt Düzeni Hakkında Tebliğ"
+      }
+    ],
+    "ilgiliKonularStr": "1:Yatırım Kuruluşları;134:Repo;122:Aracı Kurum Faaliyet İzni",
+    "ilgiliKonular": [
+      {
+        "key": 1,
+        "value": "Yatırım Kuruluşları"
+      },
+      {
+        "key": 134,
+        "value": "Repo"
+      },
+      {
+        "key": 122,
+        "value": "Aracı Kurum Faaliyet İzni"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/173",
+    "linkTarget": "_blank"
+  }
+}
