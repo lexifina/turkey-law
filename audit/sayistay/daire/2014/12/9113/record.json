@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "90",
+  "decision_date": "2014-12-16",
+  "source_id": 9113,
+  "chamber": "4",
+  "ilam_number": "135",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9113/",
+  "source_sha256": "c1996321dad91c30ab48fde142261ee1eb5776a7d85b9e836c5a4bd7632f48e8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
