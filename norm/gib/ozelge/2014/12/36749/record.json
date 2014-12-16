@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-180[28-2014]-152",
+  "source_id": 36749,
+  "date": "2014-12-16",
+  "title": "Bankanın faktoring sirketlerinin ihracat alacagı olan müsterilerinin finansmanını teminen faktoring sirketlerine kullandırdıgı kredilerde BSMV hesaplanıp hesaplanmayacagı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36749",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "dac0255d7a42d083a59e8e0bb43b399e5323fdf54661815c140278e1b31a65e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
