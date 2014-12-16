@@ -1,0 +1,9 @@
+Fiyat Farkı
+
+İdare ile …İşi yüklenicisi …arasında imzalanan sözleşmenin 14 üncü maddesinde, sözleşmenin yürütülmesi sırasında yükleniciye fiyat farkı verileceği ve fiyat farkının 2002/5039 sayılı Bakanlar Kurulu Kararı eki “4734 Sayılı Kamu İhale Kanununa Göre İhalesi Yapılacak Olan Yapım İşlerine İlişkin Fiyat Farkı Hesabında Uygulanacak Esaslar” çerçevesinde hesaplanacağı belirtilmektedir.
+
+Esasların “Fiyat Farkı Hesabı” başlıklı 6 ncı maddesinde fiyat farkının;“F = An x B x ( Pn- 1)” formülüne göre hesaplanacağı belirtilmiş, formülde yer alan (Pn) değerinin bileşenleri arasında bulunan temel indeks ile güncel indeksin tanımına Esasların 5 inci maddesinde yer verilmiştir. Buna göre; temel indeks; ihale (son teklif verme) tarihinin içinde bulunduğu aydan bir önceki aya ait indeksi, güncel indeks ise hakedişin düzenlendiği tarihin içinde bulunduğu aydan bir önceki aya ait indeksi ifade etmektedir.
+
+Yapılan incelemede, güncel indeks olarak her bir hakedişin düzenlendiği tarihin içinde bulunduğu aydan bir önceki aya ait indeks değil, iki önceki aya ait indeksin esas alındığı görülmüştür.
+
+“4734 Sayılı Kamu İhale Kanununa Göre İhalesi Yapılacak Olan Yapım İşlerine İlişkin Fiyat Farkı Hesabında Uygulanacak Esaslar” çerçevesinde ödenmesi gereken fiyat farkının hesabında, güncel indeks rakamlarının hatalı alınması nedeniyle fiyat farkının yanlış hesaplanması sonucu oluşan … TL kamu zararının sorumlularına müştereken ve müteselsilen ödettirilmesi gerekmekte ise de, söz konusu tutarın tamamının tahsil edildiği anlaşıldığından ilişilecek bir husus bulunmadığına oy birliğiyle,

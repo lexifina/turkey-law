@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10409",
+  "decision_date": "2014-12-16",
+  "source_id": 12068,
+  "chamber": "1",
+  "ilam_number": "61",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12068/",
+  "source_sha256": "2ec49f9ece87a1282aafc6d055227163a2a38560dfc52a7b263a2747c31c7b41",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
