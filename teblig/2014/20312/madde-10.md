@@ -1,0 +1,3 @@
+Genel açıklamalar
+MADDE 10 – (1) Yönetmeliğin 35 inci maddesi çerçevesinde önlemlerin yürürlükte olduğu dönemde, YÜD’deki zarar durumu ve önlemlerin yürürlükten kalkması halinde zarara etki edebilecek muhtemel gelişmeler incelenmiştir. Bu çerçevede, ithalatın miktarı ve gelişimi, fiyatların gelişimi, fiyat baskısı ve kırılması ile YÜD’nin ekonomik göstergeleri incelenmiştir. İthalat verileri incelenirken, önlemlerin etkisini ve önlem sonrası duruma ilişkin eğilimleri görebilmek amacıyla 2010-2013 (Ocak-Eylül) dönemi gözden geçirme dönemi olarak alınmıştır.
+(2) Önlem konusu ürünün genel ithalatı ve önleme konu ülkelerden yapılan ithalatın incelenmesinde Türkiye İstatistik Kurumu (TÜİK) verileri kullanılmıştır.
