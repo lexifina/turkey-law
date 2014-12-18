@@ -1,0 +1,9 @@
+Sosyal Destek Kartı
+
+Denetçi sorgusunda yer alan;... Belediyesi tarafından verilmesi kararlaştırılan; ancak muhtaç sahipleri tarafından kullanılmayan Sosyal Destek Kartlarının bakiyelerinde kalan paraların ... Belediyesi hesabına geri transfer edilmemesi sonucu toplam ...TL kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+5018 sayılı Kamu Mali Yönetim ve Kontrol Kanunu’nun “Hesap Verme Sorumluluğu” başlıklı 8’inci maddesi uyarınca, her türlü kamu kaynağının elde edilmesi ve kullanılmasında görevli ve yetkili olanlar, kaynakların etkili, ekonomik, verimli ve hukuka uygun olarak kullanılmasından, muhasebeleştirilmesinden, raporlanmasından ve kötüye kullanılmaması için gerekli önlemlerin alınmasından sorumludurlar.
+
+Bahse konu olayda, ...Belediyesi ve … arasında imzalanan Sosyal Destek Kartı Protokolü uyarınca, ...Belediyesince Sosyal Destek Kartı verilmek istenen vatandaşların isimlerinin anılan Bankaya bildirildiği, bunun üzerine Banka tarafından bu kişiler adına Sosyal Destek Kartı tanımlandığı ve Belediyenin verdiği yazılı talimat üzerine de Belediyenin Bankada bulunan ilgili vadesiz hesabından kartlara para transferi yapıldığı anlaşılmıştır. Buna karşın Denetçisince yapılan incelemede, bazı ihtiyaç sahiplerinin adlarına tanımlanan Sosyal Destek Kartlarına hiç teslim almadıkları ve bu şekilde söz konusu yardım hesabına Belediyenin talimatı ile aktarılan ancak kullanılmayan bakiye tutarın, ayrıntısı aşağıda gösterildiği üzere, ...TL’ye ulaştığı görülmüş ise de, söz konusu tutarın, sorumlularca yine aynı şekilde ilgili banka hesabında kaldığı belirlenen ...TL para ile birlikte toplam ...TL olarak, ..tarih ve ..nolu muhasebe işlem fişi ve ...tarih ve ... no.lu dekont ile ahizi … tarafından ... Belediyesi hesabına iade edildiği görülmüştür.
+
+Bu itibarla, sorumlularca tahsil edildiği anlaşılan ...TL için ilişilecek husus kalmadığına, oy birliğiyle,
