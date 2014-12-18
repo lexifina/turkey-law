@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-12-18",
+  "issue": "29209",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Boğaziçi Üniversitesi Feza Gürsey Fizik ve Matematik Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141218-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141218.htm",
+  "index_sha256": "245c037041f866aa27bd95ba0032928e36e9b24acbb4898633851d0a9ad39b1b",
+  "index_header": "18 Aralık 2014 ... 29209 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141218.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
