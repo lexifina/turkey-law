@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5365/3",
+  "decision_date": "2014-12-18",
+  "title": "EPDK Kurul Kararı 5365/3",
+  "resmi_gazete_date": "2014-12-20",
+  "resmi_gazete_number": "29211",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wXcaFwF2anA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wXcaFwF2anA="
+  ],
+  "source_sha256": "f5e6829287619548b594e8a8cd5eee192e50c120879faf0ce98a913dd6fd4984",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-18",
+  "law_text_complete": false
+}
