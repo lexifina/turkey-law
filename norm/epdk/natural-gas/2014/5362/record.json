@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5362",
+  "decision_date": "2014-12-18",
+  "title": "2015 yılı boyunca Doğal Gaz Piyasasındaki tüketicilere uygulanmak üzere, serbest tüketici olma sınırına ilişkin",
+  "resmi_gazete_date": "2014-12-26",
+  "resmi_gazete_number": "29217",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jwi6KOagfAw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jwi6KOagfAw="
+  ],
+  "source_sha256": "9ed4847f798d0e42c8644cbaf076cc436a6d931fd14698994c7457896affe154",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-18",
+  "law_text_complete": false
+}
