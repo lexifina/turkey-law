@@ -1,0 +1,9 @@
+Arazi Tazminatı
+
+Denetçi sorgusunda yer alan; ...Belediyesi Park ve Bahçeler Müdürlüğünde görevli bir kısım personele, Bakanlar Kurulunca yayımlanan 17.06.2006 tarih ve 2006/10344 sayılı “Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Karar”ın ilgili hükümlerine aykırı olarak fiilen arazide çalışmadıkları halde arazi tazminatı ödenmesi sonucu toplam ...TL kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+05.05.2006 tarih ve 28159 sayılı Resmi Gazete’de yayımlanan 17.06.2006 tarih ve 2006/10344 sayılı “Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Karar”a ekli II sayılı cetvelin (E) teknik hizmetler bölümünün 6’ncı fıkrası hükümleri uyarınca, Teknik Hizmetler Sınıfına ait kadrolarda bulunan personelden; büro, atölye, ısı santralı, laboratuar, tesis (sosyal tesisler dahil), işletme, fabrika ve hizmet binaları dışında olmak şartıyla arazi, şantiye, inşaat, baraj, park, bahçe, maden ve yol gibi açık çalışma mahallerinde fiilen çalışanlara veya kontrollük hizmetlerinde bulunanlara, çalışılan her gün için anılan Kararnamede belirtilen oran ve sınırlar dahilinde ek özel tazminatı ödenecek olup bu tazminatın kimlere ödeneceği üçer aylık dönemler itibarıyla ilgili birim amirlerince belirlenecektir.
+
+Bahse konu olayda, her ne kadar Denetçi sorgusuyla ...Belediyesi Park ve Bahçeler Müdürlüğünde görevli bir kısım personele fiilen arazide çalışmadıkları halde arazi tazminatı ödendiği ve bu suretle toplam ....TL kamu zararına neden olunduğu iddia edilmiş ise de, sorumlularca yapılan savunmalar ve gönderilen belgelerden, bahse konu ek tazminat ödemelerinin, anılan Kararname hükümlerine uygun olarak, ilgili birim amirlerince görevlendiren personelin açık çalışma mahallerinde gerçekleştirdikleri fiili çalışmalara istinaden yapıldığı anlaşılmıştır.
+
+Bu itibarla, Denetçi sorgusuyla kamu zararı olarak hesap edilen ...TL için ilişilecek husus bulunmadığına, oy birliğiyle,
