@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130[13-2013/20]-1284",
+  "source_id": 31259,
+  "date": "2014-12-19",
+  "title": "Öğrenci yurdu yapım ve işletim hizmeti işine ilişkin olarak yatırım teşvik belgesi kapsamında yurt için gerekli olan masa, sandalye, dolap ve yatak gibi demirbaşların tesliminde KDV istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31259",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "094bdbf97d157f39d95aa2a26b87376ea81cbf54169f254940c3f8ac0c574529",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
