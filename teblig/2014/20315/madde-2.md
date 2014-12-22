@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 3/6/2011 tarihli ve 635 sayılı Bilim, Sanayi ve Teknoloji Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname, 10/6/1930 tarihli ve 1705 sayılı Ticarette Tağşişin Men’i ve İhracatın Murakabesi ve Korunması Hakkında Kanun ile 18/11/1960 tarihli ve 132 sayılı Türk Standardları Enstitüsü Kuruluş Kanununa dayanılarak hazırlanmıştır.

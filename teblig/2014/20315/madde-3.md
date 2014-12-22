@@ -1,0 +1,2 @@
+Uygulamaya konma
+MADDE 3 – (1) 26/12/2013 tarihli ve 28863 sayılı Resmî Gazete’de yayımlanan Tebliğ (Tebliğ No: MSG-MS-2013/44) ile mecburi uygulamaya konulan TS 11939 “Sıvılaştırılmış Petrol Gazları (LPG)-İkmal İstasyonu-Karayolu Taşıtları İçin-Emniyet Kuralları” standardının T3 (Kasım 2014) metninde; 3.19 uncu, 4.1 inci, 5.2.6 ncı ve 5.3.8 inci maddeleri tadil edilmiş ve Türk Standardları Enstitüsü Teknik Kurulu’nun 13/11/2014 tarihli toplantısında kabul edilerek yayımına karar verilmiştir.
