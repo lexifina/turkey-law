@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "41",
+  "decision_date": "2014-12-23",
+  "source_id": 10798,
+  "chamber": "8",
+  "ilam_number": "88",
+  "item_number": 7,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10798/",
+  "source_sha256": "baae1f34f8b4108e734fdd28ed572ffc08c3bf85935c0bc3903fb84c9130b6ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
