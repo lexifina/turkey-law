@@ -1,0 +1,3 @@
+Merkez Müdürü
+Madde 7 — (Başlığı ile birlikte değişik:RG-23/12/2014-29214)
+Merkez Müdürü, Üniversitenin aylıklı öğretim elemanları arasından Rektör tarafından iki yıl için görevlendirilir. Süresi biten müdür yeniden görevlendirilebilir. Müdür; çalışmalarında kendisine yardımcı olmak üzere belirleyeceği en fazla iki öğretim elemanını müdür yardımcısı olarak görevlendirilmesi için Rektöre önerebilir. Müdür yardımcısı müdür görevi başında olmadığı zaman yerine vekalet eder. Müdürün görevden ayrılması veya vekaletin altı aydan fazla sürmesi halinde, Rektör tarafından yerine yeni müdür görevlendirilir.

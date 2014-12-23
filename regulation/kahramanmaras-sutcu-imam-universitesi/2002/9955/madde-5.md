@@ -1,0 +1,3 @@
+Yönetim Kurulu
+Madde 5 — (Başlığı ile birlikte değişik:RG-23/12/2014-29214)
+Yönetim Kurulu; Merkez Müdürü ve Merkezin faaliyetleriyle ilgili alanlardan Rektör tarafından görevlendirilen iki üye olmak üzere toplam üç üyeden oluşur. Yönetim Kurulu Merkez Müdürünün daveti üzerine ayda en az bir defa salt çoğunluk ile toplanır ve oy çokluğu ile karar alır. Yönetim Kurulu kendi içinden bir üyeyi Yönetim Kurulu Başkanı seçer. Merkez Yönetim Kurulu üyelerinin görev süresi iki yıldır. Süresi biten üye yeniden görevlendirilebilir. Süresi dolmadan ayrılan üyenin yerine aynı şekilde görevlendirme yapılır.
