@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20321",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DİĞER HAZİNE ALACAKLARININ YÖNETİMİ, TAKİP VE TAHSİLİ İLE KAYDEDİLMESİNE DAİR YÖNETMELİK",
+  "number": "20321",
+  "issuer": "Bakan",
+  "issuer_slug": "bakan",
+  "path": "regulation/bakan/2014/20321",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20321&MevzuatTertip=5",
+  "source_sha256": "9948f6dbeaf91af0c97b719c1c167ece434552f36cefa29fa324e8ff56701203",
+  "source_bytes": 14201,
+  "published": "2014-12-23",
+  "gazette": "29214",
+  "in_force": "2014-12-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.12.2014); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 724,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
