@@ -1,0 +1,13 @@
+Ücret ve Tazminat Ödemelerinin Hatalı Yapılması:
+
+.............Dairesi Başkanının ücret ve tazminat ödemelerinin 666 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı cetvelin 8 inci sırası yerine 7 nci sırasında yer alan göstergeler üzerinden hesaplanması sonucu oluşan .........TL. tutarındaki kamu zararı ile ilgili olarak;
+
+666 sayılı Kanun Hükmünde Kararnamenin (II) sayılı cetvelinin 7’nci sırasında yer alan;
+
+“ ….. müstakil daire başkanı (Başbakanlık, bakanlık ve müsteşarlıklarda teşkilat kanunlarında hizmet birimi olarak tanımlanmış birimlerde)….” hükmü ile, daire başkanının müstakil olması yeterli görülmemiş, aynı zamanda müstakil daire başkanının Başbakanlık, bakanlık veya müşteşarlıkta olması ve bununla birlikte, teşkilat kanunlarında hizmet birimi olarak tanımlanmış bulunması şartı getirilmiştir. Kanun koyucu, hangi müstakil daire başkanlarının cetvelin 7’nci sırasında yer alacağını sınırlamak suretiyle tanımlamıştır. Buna göre, müstakil daire başkanının cetvelin 7’nci sırasında yer alabilmesi için bu üç şartı bir arada taşıması gerekmektedir.
+
+................. Kurumu Başkanlığı, Kültür ve Turizm Bakanlığına bağlı, tüzel kişiliği haiz ve özel bütçeli bir kuruluştur. Yukarıda yer verilen madde hükmünde ise, bakanlık bağlı kuruluşunda yer alan müstakil daire başkanı ya da kurum başkanlığında yer alan müstakil daire başkanları kapsam içerisinde yer almamaktadır. Ayrıca, 666 sayılı Kanun Hükmünde Kararname’de bağlı kuruluşlarla ilgili özel düzenlemeler yorum ve kıyas yapmaya gerek bırakmayacak şekilde açıkça düzenlenmiş olduğundan, .............Kurumu Başkanlığı............... Dairesi Başkanının ücret ve tazminat ödemelerini, 666 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı cetvelin 8’inci sırası yerine 7’nci sırasında yer alan göstergeler üzerinden almaları mümkün görülmemektedir.
+
+Bu nedenle, ...............Dairesi Başkanının ücret ve tazminat ödemelerinin 666 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı cetvelin 8’inci sırası yerine 7’nci sırasında yer alan göstergeler üzerinden hesaplanması sonucu oluşan ..............TL. tutarındaki kamu zararının;
+
+6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereğince işleyecek faizleriyle birlikte sorumlularına müştereken ve müteselsilen ödettirilmesine, oy birliğiyle karar verildi
