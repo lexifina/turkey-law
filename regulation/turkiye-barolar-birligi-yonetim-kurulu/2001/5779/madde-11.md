@@ -1,0 +1,3 @@
+Kredi Başvurusunun Kabul veya Reddi
+Madde 11 — (Değişik:RG-23/12/2014-29214)
+Kredi isteminin koşullara uygunluğu Türkiye Barolar Birliği Yönetim Kurulunun yetkilendirdiği üyeleri tarafından incelenerek kabul veya ret edilir. Kredi başvurusu ile ilgili karar kredi başvurusunun tam ve eksiksiz olarak Türkiye Barolar Birliğine ulaştığı tarihten itibaren 30 gün içinde stajyere bildirilir. Ret kararları aleyhine, stajyer tarafından, kendisine yapılan tebliğ tarihinden itibaren 10 gün içinde Türkiye Barolar Birliğine itiraz edilebilir. İtirazlar, Türkiye Barolar Birliği Yönetim Kurulunda incelenir. İtiraz üzerine verilen kararlar kesindir.

@@ -1,0 +1,4 @@
+Kredinin Ödenmesi
+Madde 13 — (Değişik:RG-03/07/2002-24804)
+(Değişik birinci fıkra:RG-23/12/2014-29214) Kredi tahsis edilen stajyer için Türkiye Barolar Birliğinde bir dosya açılır ve krediden yararlanan stajyer ile ilgili kayıt ve ödemeler bu dosyada saklanır. Uyumsuzluk ve uyuşmazlık durumunda bu dosya içeriği ve Türkiye Barolar Birliği Bilgi İşlem Merkezi tarafından tutulan kayıtlar esas alınır.
+Kredi başvurusu kabul edilen stajyere kredi tahsis numarası verilir. Kredi ödemeleri için Türkiye Barolar Birliği bir banka ile anlaşabileceği gibi günün koşullarına göre hızlı, pratik ve güvenli bir başka ödeme sistemine de geçebilir. Kredi ödemeleri staj süresince aylık peşin taksitlerle yapılabileceği gibi fon hesaplarının müsait olması koşulu ile üç aya kadar peşin ödeme de yapabilir. Banka kanalıyla ödemelerde stajyerin hesabına yatırılan taksitler yatırıldığı tarihte stajyere ödenmiş sayılır.

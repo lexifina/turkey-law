@@ -1,0 +1,2 @@
+Dağıtım Esasları
+Madde 23 — Kredi ödemelerinden arta kalan miktarın belirlenebilmesi için Türkiye Barolar Birliği tarafından her yılın Ocak ayı sonunda bir önceki yılın kesin hesabı çıkarılır. Yeni dönem pul bedelinin ve olası kredi isteklisi stajyer sayısının da belirlenmesinden sonra arta kalacağı anlaşılan miktarın; %25’i Türkiye Barolar Birliği’nin hesabına, %30’u da Barolar arasında eşit olarak paylaştırılıp Baroların hesabına yatırılır. Kalan miktar, hesabı yapılan yıl sonu itibariyle Baro levhasında kayıtlı avukat sayısına oranlanarak Baroların hesabına yatırılır.

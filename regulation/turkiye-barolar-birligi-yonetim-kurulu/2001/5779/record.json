@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.5779",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BAROLAR BİRLİĞİ STAJ KREDİ YÖNETMELİĞİ",
+  "number": "5779",
+  "issuer": "Türkiye Barolar Birliği Yönetim Kurulu",
+  "issuer_slug": "turkiye-barolar-birligi-yonetim-kurulu",
+  "path": "regulation/turkiye-barolar-birligi-yonetim-kurulu/2001/5779",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5779&MevzuatTertip=5",
+  "source_sha256": "fb90e9bbcf04a0db987689579fb694b91b798584383d6ea1e0bfd116ed419af7",
+  "source_bytes": 38084,
+  "published": "2001-12-19",
+  "gazette": "24615",
+  "in_force": "2014-12-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/12/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-12-23",
+      "RG-23/12/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-11-30",
+      "RG-30/11/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-10-22",
+      "RG-22/10/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-02-12",
+      "RG-12/2/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2002-07-03",
+      "RG-03/07/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1585,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

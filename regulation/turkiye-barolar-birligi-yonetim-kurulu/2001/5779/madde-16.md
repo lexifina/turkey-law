@@ -1,0 +1,3 @@
+Kredinin Kesilme Nedenleri
+MADDE 16 – (Değişik:RG-23/12/2014-29214)
+Kredi almakta olan stajyerin, bir başka Baroya nakil dışındaki nedenlerle adının staj listesinden silinmesi, staja başlama anındaki niteliklerini yitirmesi, kredi isteminde bulunurken yaptığı başvurunun veya beyanlarının aksinin ortaya çıkması, Avukatlık Kanunu ve bu Kanun gereği çıkartılan yönetmelikler ile meslek kurallarında gösterilen esaslara uyulmadığının tespiti, verilen görevlerin yerine getirilmemesi, kendisinin talep etmesi gibi durumlarda, kredi ödemesine son verilir. Bu durumda kredi borcunun tamamı ihtar çekilmesine gerek kalmadan otuz gün sonra muaccel hale gelir. Bu borç, yasal faiziyle borçludan ve kefillerinden müştereken ve müteselsilen tahsil edilir.
