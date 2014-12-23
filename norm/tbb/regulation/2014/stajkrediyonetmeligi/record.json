@@ -1,0 +1,15 @@
+{
+  "kind": "regulation",
+  "issuer": "Türkiye Barolar Birliği",
+  "title": "TÜRKİYE BAROLAR BİRLİĞİ STAJ KREDİ YÖNETMELİĞİ",
+  "date": "2014-12-23",
+  "date_source": "official-amendment-annotation",
+  "in_force_basis": "Latest amendment annotation printed in the official TBB PDF: RG-23/12/2014-29214.",
+  "commit_kind": "consolidated",
+  "source": "http://d.barobirlik.org.tr/stajkrediyonetmeligi.pdf",
+  "source_sha256": "0616d32fbf76d820cbcc5172e5174cfc67b216ba8beb8ad2e94feda75047b0e8",
+  "text_status": "current-text",
+  "version_label": "oldest version available",
+  "text_file": "text.txt",
+  "personal_data": "general professional rule; no case-party publication in this record"
+}
