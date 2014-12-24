@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-12-24",
+  "issue": "29215",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Lisans Yönetmeliğinde Değişiklik Yapılmasına İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141224-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141224.htm",
+  "index_sha256": "0269130f40af4aed8b0322c3e5915ec0ef811e8094bbd53bb7bd469cbeb6a5e9",
+  "index_header": "24 Aralık 2014 ... 29215 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141224.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
