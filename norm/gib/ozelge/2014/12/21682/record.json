@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120.03.06.01[32-2014-2]-719",
+  "source_id": 21682,
+  "date": "2014-12-24",
+  "title": "Serbest bölgelerde ücret istisnası ve asgari geçim indirimi uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21682",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "e8f210efbe85af00e46015c7593bd616c45c867139b8387fff17e83907d420d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
