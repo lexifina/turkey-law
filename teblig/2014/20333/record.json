@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20333",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ VE İLGİLİ ODALAR ÜZERİNDE ÇEVRE VE ŞEHİRCİLİK BAKANLIĞINCA İDARİ VE MALİ DENETİM YAPILMASINA DAİR TEBLİĞ",
+  "number": "20333",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2014/20333",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20333&MevzuatTertip=5",
+  "source_sha256": "654f9edbf5557ae3d7d2ba7d4d0f762a95b15d530ad9b63711a740ce9e061d31",
+  "source_bytes": 11478,
+  "published": "2014-12-24",
+  "gazette": "29215",
+  "in_force": "2014-12-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.12.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 538,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

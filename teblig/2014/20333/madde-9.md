@@ -1,0 +1,4 @@
+Yürütme
+MADDE 9 – (1) Bu Tebliğ hükümlerini Çevre ve Şehircilik Bakanı yürütür.
+____________
+(1) Danıştay Sekizinci Dairesinin 24/10/2018 tarihli ve Esas No: 2015/816; Karar No:2018/6148 sayılı Kararı ile Tebliğin 7 nci maddesinin ikinci fıkrasında yer alan “Türk Mühendis ve Mimar Odaları Birliğini veya odaları temsil etmek üzere uluslararası toplantı ve kongrelere katılmak, Bakanlığın iznine bağlıdır. Bu kapsamda gerçekleştirilecek yurtdışı seyahatleri için ilgili oda tarafından en az 15 gün öncesinden Bakanlığa yazılı izin talebinde bulunulur. Bakanlık tarafından talebin konusuna bağlı olarak gerekli görülmesi halinde diğer Bakanlıkların da görüşleri alınarak yapılacak değerlendirme sonucunda uygun bulunanların toplantılara katılmalarına izin verilir.” şeklindeki düzenlemenin iptaline karar verilmiştir.

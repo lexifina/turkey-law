@@ -1,0 +1,3 @@
+Toplantılara ilişkin işlemler
+MADDE 7 – (1) Bakanlık Türk Mühendis ve Mimar Odaları Birliği Yüksek Haysiyet Divanını gerekli durumlarda toplantıya çağırır.
+(2) Türk Mühendis ve Mimar Odaları Birliğini veya odaları temsil etmek üzere uluslararası toplantı ve kongrelere katılmak, Bakanlığın iznine bağlıdır. Bu kapsamda gerçekleştirilecek yurtdışı seyahatleri için ilgili oda tarafından en az 15 gün öncesinden Bakanlığa yazılı izin talebinde bulunulur. Bakanlık tarafından talebin konusuna bağlı olarak gerekli görülmesi halinde diğer Bakanlıkların da görüşleri alınarak yapılacak değerlendirme sonucunda uygun bulunanların toplantılara katılmalarına izin verilir.(1)

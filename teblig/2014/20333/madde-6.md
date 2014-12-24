@@ -1,0 +1,5 @@
+Şikâyet ve ihbar üzerine yapılacak işlemler
+MADDE 6 – (1) Şikâyet ve ihbar üzerine, Genel Müdürlükçe gerekli araştırma yapılır. Bu amaçla, ilgili valilikten (Çevre ve Şehircilik İl Müdürlüğü) şikâyet veya ihbarla ilgili inceleme yapması istenir. Müdürlük tarafından, şikâyet veya ihbar sahibinin ifadeleri ile Türk Mühendis ve Mimar Odaları Birliği, ilgili odalar ve odaların şubeleri veya temsilcilikleri nezdinde yapılacak incelemeler neticesinde elde edilecek bilgi, belge ve açıklamaların değerlendirilmesi sonucunda en az birisi teknik personel olmak üzere Müdürlüğün en az üç personeli tarafından hazırlanan ve en az il müdür yardımcısı seviyesinde onaylanmış olan inceleme raporu Genel Müdürlüğe gönderilir.
+(2) Hazırlanan inceleme raporu ile;
+a) Şikâyet ve ihbar konusunun denetim gerektirdiğinin Genel Müdürlükçe değerlendirilmesi halinde, elde edilen bilgi ve belgeler Bakanlığın Rehberlik ve Teftiş Başkanlığına iletilir.
+b) Şikâyet ve ihbar konusunun denetim gerektirmediğinin Genel Müdürlükçe değerlendirilmesi halinde, Genel Müdürlükçe yapılan araştırmaların neticesine göre ilgilisine bilgi verilir.
