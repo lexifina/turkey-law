@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "237",
+  "decision_date": "2014-12-25",
+  "source_id": 9091,
+  "chamber": "3",
+  "ilam_number": "141",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9091/",
+  "source_sha256": "0588e368ccc024d0abc5146d86e031c38ac74f98609bb03b0ac365417201a44e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
