@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5374/5",
+  "decision_date": "2014-12-25",
+  "title": "Çamlıbel Elektrik Dağıtım Anonim Şirketinin; 2015 yılı dağıtım, iletim ve sayaç okuma gelir tavanına ilişkin",
+  "resmi_gazete_date": "2014-12-30",
+  "resmi_gazete_number": "29221",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kH3Y4JwMsOg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kH3Y4JwMsOg="
+  ],
+  "source_sha256": "df8ac46eb5bbce1af380c592d4a0d183a63a779a67be70f6c120b0624d77e92e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-25",
+  "law_text_complete": false
+}
