@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5374/11",
+  "decision_date": "2014-12-25",
+  "title": "Toroslar Elektrik Dağıtım Anonim Şirketinin; 2015 yılı dağıtım, iletim ve sayaç okuma gelir tavanına ilişkin",
+  "resmi_gazete_date": "2014-12-30",
+  "resmi_gazete_number": "29221",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Mw9/Rl6kDFQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Mw9/Rl6kDFQ="
+  ],
+  "source_sha256": "17f8da9361ec254f9ec5019bb07a5e2dbccf47f7992493fa5c5b38c602a44788",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-25",
+  "law_text_complete": false
+}
