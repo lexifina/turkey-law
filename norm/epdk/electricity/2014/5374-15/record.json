@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5374/15",
+  "decision_date": "2014-12-25",
+  "title": "Yeşilırmak Elektrik Dağıtım Anonim Şirketinin; 2011-2015 ikinci uygulama dönemi dağıtım gelir gereksinimine ilişkin",
+  "resmi_gazete_date": "2014-12-30",
+  "resmi_gazete_number": "29221",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FrNTQbAVwbk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FrNTQbAVwbk="
+  ],
+  "source_sha256": "91fcdf0febf1c921fa0faa56e949d9c7b7d9e7a8e8c2aa836fbf4c1e9011a0a1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-25",
+  "law_text_complete": false
+}
