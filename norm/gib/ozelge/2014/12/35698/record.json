@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "73903997-140[28-2014/13]-9747",
+  "source_id": 35698,
+  "date": "2014-12-25",
+  "title": "6306 sayılı Kanun kapsamında \"riskli yapıdır\" şerhi bulunan arsa vasıflı taşınmazın dönüşüme tabi tutulmadan önce yapılacak ilk satış işleminde tapu harcı uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35698",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "59223c0b73531040e5ff612961e4a1c64ed9ca994137000dc685579893044405",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
