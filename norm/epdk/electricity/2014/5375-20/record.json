@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5375/20",
+  "decision_date": "2014-12-25",
+  "title": "Balıkesir Organize Sanayi Bölgesi Müteşebbis Heyet Başkanlığı Tüzel KişiliğininOrganize Sanayi Bölgelerinin onaylı sınırları içerisindeki katılımcılarına 2015 yılı için uygulanmak üzere dağıtım bedellerine ilişkin kararOrganize Sanayi Bölgelerinin onaylı sınırları içerisindeki katılımcılarına 2015 yılı için uygulanmak üzere dağıtım bedellerine ilişkin kararOrganize Sanayi Bölgelerinin onaylı sınırları içerisindeki katılımcılarına 2015 yılı için uygulanmak üzere dağıtım bedellerine ilişkin karar",
+  "resmi_gazete_date": "2014-12-30",
+  "resmi_gazete_number": "29221",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8qhY/wlKfvY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8qhY/wlKfvY="
+  ],
+  "source_sha256": "1cc45a586c3606df8170aba68ff43358cd86a4f8355f110f090fbf84e0a09501",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-25",
+  "law_text_complete": false
+}
