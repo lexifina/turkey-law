@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5374/7",
+  "decision_date": "2014-12-25",
+  "title": "Dicle Elektrik Dağıtım Anonim Şirketinin; 2015 yılı dağıtım, iletim ve sayaç okuma gelir tavanına ilişkin",
+  "resmi_gazete_date": "2014-12-30",
+  "resmi_gazete_number": "29221",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Vzt0Y+ngZaA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Vzt0Y+ngZaA="
+  ],
+  "source_sha256": "120af79bbaf1dd4025878f210b152cffbf665061b1e2ed1a13bf23fbdc3a62e1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-25",
+  "law_text_complete": false
+}
