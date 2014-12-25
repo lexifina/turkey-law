@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5375/150",
+  "decision_date": "2014-12-25",
+  "title": "Yozgat Organize Sanayi Bölgesi Yönetim Kurulu Başkanlığı Tüzel KişiliğininOrganize Sanayi Bölgelerinin onaylı sınırları içerisindeki katılımcılarına 2015 yılı için uygulanmak üzere dağıtım bedellerine ilişkin kararOrganize Sanayi Bölgelerinin onaylı sınırları içerisindeki katılımcılarına 2015 yılı için uygulanmak üzere dağıtım bedellerine ilişkin kararOrganize Sanayi Bölgelerinin onaylı sınırları içerisindeki katılımcılarına 2015 yılı için uygulanmak üzere dağıtım bedellerine ilişkin karar",
+  "resmi_gazete_date": "2014-12-30",
+  "resmi_gazete_number": "29221",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hcSlEKo2bk8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hcSlEKo2bk8="
+  ],
+  "source_sha256": "d09a713acd40fd0875b394f5a673c6138f3482c2f549ef2737fa6506171ae680",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-25",
+  "law_text_complete": false
+}
