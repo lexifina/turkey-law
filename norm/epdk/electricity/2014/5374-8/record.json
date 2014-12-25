@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5374/8",
+  "decision_date": "2014-12-25",
+  "title": "Fırat Elektrik Dağıtım Anonim Şirketinin; 2015 yılı dağıtım, iletim ve sayaç okuma gelir tavanına ilişkin",
+  "resmi_gazete_date": "2014-12-30",
+  "resmi_gazete_number": "29221",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p7iW/i6V/DQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p7iW/i6V/DQ="
+  ],
+  "source_sha256": "45d2d0af59939953aa5d5ca319066cb013cf12b07bed444ad8c44967b286576f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-25",
+  "law_text_complete": false
+}
