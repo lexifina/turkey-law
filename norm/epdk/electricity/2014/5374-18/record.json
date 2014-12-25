@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5374/18",
+  "decision_date": "2014-12-25",
+  "title": "Kayseri ve Civarı Elektrik Türk Anonim Şirketinin; 2015 yılı dağıtım, iletim ve sayaç okuma gelir tavanına ilişkin",
+  "resmi_gazete_date": "2014-12-30",
+  "resmi_gazete_number": "29221",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XcqmgpCVCl8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XcqmgpCVCl8="
+  ],
+  "source_sha256": "94fb41e7ce6384786807cc4464a10f4a071b6d331fc079b90105aeeb500ab30c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-25",
+  "law_text_complete": false
+}
