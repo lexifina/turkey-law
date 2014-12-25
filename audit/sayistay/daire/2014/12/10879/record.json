@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "92",
+  "decision_date": "2014-12-25",
+  "source_id": 10879,
+  "chamber": "4",
+  "ilam_number": "124",
+  "item_number": 15,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10879/",
+  "source_sha256": "77538ba3c2999824a4e71453a2e6c9e97e1478c8830dcdf321bcab2488c536a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
