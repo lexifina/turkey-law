@@ -1,0 +1,2 @@
+Tarifelerin ikinci kısmına göre ücret
+MADDE 8 – (1) Tarifenin birinci kısmının birinci bölümünde ve ikinci bölümünde gösterilen hukuki uyuşmazlıkların konusu para veya para ile değerlendirilebiliyor ise; uyuşmazlık ister dava açılmadan önce arabuluculuk yoluyla çözüme kavuşturulmuş olsun isterse de dava açıldıktan sonra arabuluculuk yoluyla çözüme kavuşturulmuş olsun arabuluculuk ücreti, Tarifenin ikinci kısmına göre belirlenir.
