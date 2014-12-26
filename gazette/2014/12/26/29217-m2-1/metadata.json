@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-12-26",
+  "issue": "29217",
+  "edition": "mükerrer 2",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "6584 2013 Yılı Merkezi Yönetim Kesin Hesap Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141226M2-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141226M2.htm",
+  "index_sha256": "9b71dddcd6e1987b771923f3173879f9670a6892c75929691e887c7a279bc4eb",
+  "index_header": "26 Aralık 2014 ... 29217 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141226M2.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
