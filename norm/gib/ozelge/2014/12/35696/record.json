@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-140[ 14.46]-337",
+  "source_id": 35696,
+  "date": "2014-12-26",
+  "title": "6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkındaki Kanun kapsamında riskli yapı olan lojmanda ikamet eden kiracı tarafınca söz konusu taşınmazın satın alınmasından harç aranılıp aranılmayacağı hususunda.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35696",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "23d0ddcabe6bbaecad9c100b4fb0a862342906e6d7b99f2374cd2fb1f1e9f954",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
