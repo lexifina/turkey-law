@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6583",
+  "year": 2014,
+  "title": "2015 Yılı Merkezi Yönetim Bütçe Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2014-12-26",
+  "gazette_issue": "29217",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141226M1-1.htm",
+  "source_sha256": "99b02311888a6d5c6f2f619ddf35781f6746a4ef7b4529d902f8a1def694c3f8",
+  "text_sha256": "330aca3a445e109d4f714e44749a442a8c42f1fb4b487a635d5f9ec41bba9e26",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2014/12/26/29217-m1-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141226M1-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
