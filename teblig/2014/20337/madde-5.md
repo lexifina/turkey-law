@@ -1,0 +1,5 @@
+Zarar ve nedensellik iddiası
+MADDE 5 – (1) 2011-2013 arasındaki yıllar ile 2014 yılının ilk üç aylık dönemi dikkate alındığında, şikâyet konusu ürünün genel ithalatı içinde ÇHC’den gerçekleştirilen ithalatın payının en yüksek olduğu; İsrail’in payının ise yıllar itibariyle sürekli olarak arttığı tespit edilmiştir.
+(2) YÜD’ün üretim, yurt içi satış, verimlilik, kapasite kullanım oranı, ürün nakit akışı ve yurt içi satışlardan kârlılık gibi temel ekonomik göstergelerinde 2011-2013 arasındaki yıllar ile 2014 yılının ilk üç ayını kapsayan dönemde bozulmalar yaşandığı görülmüştür.
+(3) Şikâyete konu ülkeler menşeli ithalatın YÜD’ün fiyatlarını 2011-2013 arasındaki yıllar ile 2014 yılının ilk üç aylık döneminde ciddi oranlarda kırdığı ve baskı altında tuttuğu tespit edilmiştir.
+(4) Başvuru aşamasında sunulan deliller ve ithalata ilişkin resmî istatistikler esas alınarak yapılan tespitler ışığında, dampingli olduğu iddia edilen ithalatın YÜD’ün ekonomik göstergelerinde zarara yol açtığı değerlendirilmiştir.
