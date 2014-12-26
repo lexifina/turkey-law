@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-12-26",
+  "issue": "29217",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "6583 2015 Yılı Merkezi Yönetim Bütçe Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141226M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141226M1.htm",
+  "index_sha256": "0da84fa4593100821098dcd57820969b18dea93b00f4d69c11c9f9190d8be1f7",
+  "index_header": "26 Aralık 2014 ... 29217 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141226M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
