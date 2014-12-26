@@ -1,0 +1,24 @@
+{
+  "number": "111",
+  "number_as_published": "2014/10/111",
+  "year": 2014,
+  "title": "Denetim ve Toplu Taşıma Şube Müdürlüğü’nün 25.12.2014 tarih ve 922 sayılı yazısına istinaden: Büyükşehir statüsü ile İlçe Belediyeleri sınırı içerisinde faaliyet gösteren ticari ruhsatlı taksilerin Çalışma ruhsatı verilmesi ile ilgili istenen evrak ve çalışma koşullarının belirlenmesi için UKOME gündemine alınması talebi",
+  "decision_date": "2014-12-26",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=12.2014",
+  "official_document": null,
+  "source_sha256": "1444f98561120cf4fdd59dd01507fbb472f3814148eaa496f1ff01da80a42507",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2014-12-26",
+  "in_force_basis": "Decision date as printed in the official council listing: 26.12.2014; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "10",
+  "listed_subjects": 1
+}
