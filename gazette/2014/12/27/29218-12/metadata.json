@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-12-27",
+  "issue": "29218",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Yapı Malzemeleri Yönetmeliği (305/2011/AB) Kapsamında Uygulanacak Teknik Şartnamelerin Yayımlanması Hakkında Tebliğ (No: MHG/2014-30)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141227-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141227.htm",
+  "index_sha256": "cf9c6dfc7bbd435eb5264f1d6db43e09665f0481f16a364089a052bd6928cf75",
+  "index_header": "27 Aralık 2014 ... 29218 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141227.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
