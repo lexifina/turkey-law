@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.19815",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜKETİCİ ÖDÜLLERİ YÖNETMELİĞİ",
+  "number": "19815",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "issuer_slug": "gumruk-ve-ticaret-bakani",
+  "path": "regulation/gumruk-ve-ticaret-bakani/2014/19815",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19815&MevzuatTertip=5",
+  "source_sha256": "d2ff127fd08ba8ec811d80d2aa8437d9fa0c09e45b5c6f7fbd6d5feb8bee2d83",
+  "source_bytes": 29815,
+  "published": "2014-06-27",
+  "gazette": "29043",
+  "in_force": "2014-12-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/12/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-12-27",
+      "RG-27/12/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-12-27",
+      "27/12/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1125,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
