@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2014-12-27",
+  "issue": "29218",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2014/7034 İstanbul İli, Fatih İlçesi, Beyazıtağa ve Fatma Sultan Mahallelerinde Bulunan ve Yenileme Alanı Olarak Kabul Edilen Bazı Taşınmazların Bedelsiz Olarak Fatih Belediye Başkanlığına Devredilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141227-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141227.htm",
+  "index_sha256": "cf9c6dfc7bbd435eb5264f1d6db43e09665f0481f16a364089a052bd6928cf75",
+  "index_header": "27 Aralık 2014 ... 29218 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2014/12/20141227.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
