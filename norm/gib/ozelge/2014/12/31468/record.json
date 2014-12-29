@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-155[9-2013-80]-729",
+  "source_id": 31468,
+  "date": "2014-12-29",
+  "title": "Serbest Bölgedeki şirketin Damga Vergisi ve KDV muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/31468",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "9b0ca80f94f3b1a5ce0e6808369458f8c0046e022b55253b63b46b1b17dc2ceb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
