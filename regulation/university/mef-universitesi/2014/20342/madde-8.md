@@ -1,0 +1,2 @@
+Müdür ve görevleri
+MADDE 8 – (1) Müdür; Üniversite içinden veya dışından MEF Üniversitesi Mütevelli Heyetinin görüşü alınarak, iki yıl için Rektör tarafından görevlendirilir. Müdür aynı zamanda Yönetim Kurulu üyesidir. Süresi sona eren Müdür tekrar aynı usul ve süre ile görevlendirilebilir. Müdür, Yönetim Kurulu kararları ile Kurulca hazırlanan çalışma programını uygular. Her akademik yılsonu hazırladığı raporu Yönetim Kuruluna sunar.
