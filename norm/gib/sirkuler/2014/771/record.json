@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-70/2014-3",
+  "source_id": 771,
+  "date": "2014-12-29",
+  "title": "431 sıra numaralı Vergi Usul Kanunu Genel Tebliğine ilişkin açıklamalar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/771",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "9c1ca29e33c64b9030fa61487ac4c6fa10ab5fc2a8c2046688bb62dc3ad408b9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
