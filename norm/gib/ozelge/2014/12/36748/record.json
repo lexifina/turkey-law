@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-180-2753",
+  "source_id": 36748,
+  "date": "2014-12-29",
+  "title": "6306 sayılı Kanun Kapsamında yapılan insaat için kullanılan kredilerin BSMV'den muaf olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36748",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "61854688b69b23daf8a5dd9a494b8a07bbb60aec55588bea58367572a20593f3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
