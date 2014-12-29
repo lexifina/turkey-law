@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5403",
+  "decision_date": "2014-12-29",
+  "title": "KARGAZ Doğal Gaz Dağıtım Sanayi ve Ticaret A.Ş?nin 2012-2016 tarife döneminde uygulayacak olduğu perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2014-12-31",
+  "resmi_gazete_number": "29223",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hTCfa9sChuA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hTCfa9sChuA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=I/AxUmv/3yc="
+  ],
+  "source_sha256": "1f8d6be66d3a01e0f7fbae210f3a31a5c70f4e0fcec7ae50eb02996f57702df8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-29",
+  "law_text_complete": false
+}
