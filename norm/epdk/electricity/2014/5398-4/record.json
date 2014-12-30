@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5398-4",
+  "decision_date": "2014-12-30",
+  "title": "EPDK Kurul Kararı 5398-4",
+  "categories": [
+    "EDAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zvjliIjGfd8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zvjliIjGfd8="
+  ],
+  "source_sha256": "c9b896b65024b0baafd635d07edac3137172e09f1765622434a155ca974ea320",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14798,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-30",
+  "law_text_complete": false
+}
