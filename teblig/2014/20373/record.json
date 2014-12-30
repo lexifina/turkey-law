@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.20373",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 74)",
+  "number": "20373",
+  "path": "teblig/2014/20373",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20373&MevzuatTertip=5",
+  "source_sha256": "8bb870c03980240512f9fc00bf89070a403deac06da93eb370a60ae0dabdc29d",
+  "source_bytes": 8629,
+  "published": "2014-12-30",
+  "gazette": "29221",
+  "in_force": "2014-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 215,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
