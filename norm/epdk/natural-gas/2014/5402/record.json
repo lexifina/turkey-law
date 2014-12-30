@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5402",
+  "decision_date": "2014-12-30",
+  "title": "SÜRMELİGAZ Doğal Gaz Dağıtım Sanayi ve Ticaret A.Ş?nin 2012-2016 tarife döneminde uygulayacak olduğu perakende satış tarifelerine yönelik 5402 No?lu Kurul Kararı",
+  "resmi_gazete_date": "2014-12-01",
+  "resmi_gazete_number": "29223",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/kySzO68gwQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/kySzO68gwQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qAPAHhU9Ek4="
+  ],
+  "source_sha256": "0216e9c56e0493cd446f58e40db0e49627ccb415ba289e47e8650db7271142fa",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-30",
+  "law_text_complete": false
+}
