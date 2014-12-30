@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.20368",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ (SERİ NO: 46)",
+  "number": "20368",
+  "path": "teblig/2014/20368",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20368&MevzuatTertip=5",
+  "source_sha256": "6351e9418c9a41db95060b444a25a38f2aaae23c521bcfde92f5d8c9dc348ddd",
+  "source_bytes": 48407,
+  "published": "2014-12-30",
+  "gazette": "29221",
+  "in_force": "2014-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 720,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
