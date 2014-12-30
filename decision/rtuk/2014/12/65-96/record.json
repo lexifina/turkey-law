@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2014/65",
+  "meeting_date": "2014-12-30",
+  "meeting_date_as_published": "30.12.2014",
+  "decision_no": "96",
+  "source_id": 6095,
+  "title": "RTÜK kararı 2014/65-96",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/6095",
+  "source_sha256": "947ccc532bff55c1dff09cec1fecd2091989450ec5e013ff945dcc1919b45f39",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (10 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
