@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.20371",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 65)",
+  "number": "20371",
+  "path": "teblig/2014/20371",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20371&MevzuatTertip=5",
+  "source_sha256": "6be5e55ed9de9a1fb9f4f266f38993611c56be81d31d6e019dd6af8281e644d7",
+  "source_bytes": 32165,
+  "published": "2014-12-30",
+  "gazette": "29221",
+  "in_force": "2014-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1051,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
