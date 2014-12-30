@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19208",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 285)",
+  "number": "19208",
+  "path": "teblig/2013/19208",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19208&MevzuatTertip=5",
+  "source_sha256": "f7703a591d09cf9c10321e705d952bc34eb9c2af0743eecd4e97bf1e7c94a160",
+  "source_bytes": 33973,
+  "published": "2013-12-30",
+  "gazette": "28867 (mükerrer)",
+  "in_force": "2014-12-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/12/2014\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2014-12-30",
+      "RG-30/12/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1591,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
