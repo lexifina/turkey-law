@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5398/3",
+  "decision_date": "2014-12-30",
+  "title": "2015 yılı Lisanssız Yıllık İşletim Bedeli",
+  "resmi_gazete_date": "2015-01-01",
+  "resmi_gazete_number": "29223",
+  "categories": [
+    "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EYMVRwXipSY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EYMVRwXipSY="
+  ],
+  "source_sha256": "bdad59a907a60511a9991ab590ce71f39aa178272309163d0503ff75f93025ba",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1853,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2014-12-30",
+  "law_text_complete": true
+}
