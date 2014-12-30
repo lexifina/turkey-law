@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39858",
+  "decision_date": "2014-12-30",
+  "source_id": 9438,
+  "chamber": "8",
+  "file_number": "38965",
+  "account_year": "2008",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9438/",
+  "source_sha256": "e54adb57c7955a9612047d25fdec9a1c2f2f270ef0bad0c731e496078c217db2",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
