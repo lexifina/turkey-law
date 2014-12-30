@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5399",
+  "decision_date": "2014-12-30",
+  "title": "AKSA BİLECİK BOLU Doğal Gaz Dağıtım A.Ş.?nin 2012-2016 tarife döneminde uygulayacak olduğu perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2014-12-01",
+  "resmi_gazete_number": "29223",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZezEjT39CiQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZezEjT39CiQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9H1QTBlK4s8="
+  ],
+  "source_sha256": "2f6ba4ef74ab8a2c24a2af21eccdf994bf6367f5349c6054ca1011d924dc45d4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2014-12-30",
+  "law_text_complete": false
+}
