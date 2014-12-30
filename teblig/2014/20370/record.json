@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.20370",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DAMGA VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 58)",
+  "number": "20370",
+  "path": "teblig/2014/20370",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20370&MevzuatTertip=5",
+  "source_sha256": "c4b06c6df9e2cb5f4c455c90b5209d441442222dfd2f197918ac27bc13860943",
+  "source_bytes": 54033,
+  "published": "2014-12-30",
+  "gazette": "29221",
+  "in_force": "2014-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 877,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
