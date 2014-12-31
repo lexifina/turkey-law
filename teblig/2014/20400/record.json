@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20400",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2015 YILI SERBEST MUHASEBECİLİK, SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK ASGARİ ÜCRET TARİFESİ",
+  "number": "20400",
+  "path": "teblig/2014/20400",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20400&MevzuatTertip=5",
+  "source_sha256": "b053721f02f5e6800940949672b49296b2e08465431a149c83d6f9495a21b62f",
+  "source_bytes": 9543,
+  "published": "2014-12-31",
+  "gazette": "29222 (4.mükerrer)",
+  "in_force": "2014-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2014)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 118,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20400-ek.pdf",
+    "http://www.resmigazete.gov.tr/eskiler/2014/12/20141231M4-23-1.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
