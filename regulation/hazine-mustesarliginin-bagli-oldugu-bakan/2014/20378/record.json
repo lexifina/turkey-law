@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20378",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "RİSK HESABI İLE İLGİLİ UYGULANACAK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "20378",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "issuer_slug": "hazine-mustesarliginin-bagli-oldugu-bakan",
+  "path": "regulation/hazine-mustesarliginin-bagli-oldugu-bakan/2014/20378",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20378&MevzuatTertip=5",
+  "source_sha256": "0cf8e3ee071c043e236e89d511d4d7430728b3e91094c23951f005a4925d9359",
+  "source_bytes": 16784,
+  "published": "2014-12-31",
+  "gazette": "29222",
+  "in_force": "2014-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2014); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 765,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
