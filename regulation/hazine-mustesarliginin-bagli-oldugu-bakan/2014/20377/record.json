@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20377",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAZİNE GARANTİLİ YÜKÜMLÜLÜKLERİN ÜSTLENİLMESİNDE UYGULANACAK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "20377",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "issuer_slug": "hazine-mustesarliginin-bagli-oldugu-bakan",
+  "path": "regulation/hazine-mustesarliginin-bagli-oldugu-bakan/2014/20377",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20377&MevzuatTertip=5",
+  "source_sha256": "b6695e88d1976e14fa1cccca062bf336e3cc27f137e562f228d92eeb4713f704",
+  "source_bytes": 15827,
+  "published": "2014-12-31",
+  "gazette": "29222",
+  "in_force": "2014-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2014); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 736,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

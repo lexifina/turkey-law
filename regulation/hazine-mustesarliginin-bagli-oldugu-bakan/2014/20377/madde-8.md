@@ -1,0 +1,4 @@
+Sorumluluk ve denetim
+MADDE 8 – (1) Müsteşarlık üstlenim talebine esas teşkil eden ve Borçlu tarafından ibraz edilen bilgilerin doğruluğunun ve sağlanan Hazine garantisinin gerektiği gibi kullanılıp kullanılmadığının tespiti maksadıyla ilgili kuruluşlar nezdinde denetim yapabilir.
+(2) Müsteşarlık, Borçlu tarafından usulüne uygun olarak yapılmayan başvurulardan ve borcun gerektiği gibi izlenmemesinden kaynaklanan gecikme faizi, gecikme cezası ve benzeri mali yükümlülükler doğduğunun ve Yönetmelikte belirlenen hususlara aykırı işlemlerin yapıldığının tespiti halinde, garanti üstlenim ve ikraz anlaşması hükümleri ile genel hükümlerin uygulanması yönünde girişimde bulunur.
+(3) Hazine garantisi altındaki yükümlülüklerin geri ödenmesinde aksamaya sebebiyet verdiği tespit edilenlere, Kanunun 8 inci maddesinin yedinci fıkrası gereği bu aksamadan doğan zarar ölçüsünde rücu olunur.
