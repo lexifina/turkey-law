@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20424",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MUHASEBAT GENEL MÜDÜRLÜĞÜ GENEL TEBLİĞİ (SIRA NO: 39) TAŞINIR MAL KAPSAMINDAKİ TESİSLER VE DETAY KODLARI",
+  "number": "20424",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2014/20424",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20424&MevzuatTertip=5",
+  "source_sha256": "fbad70883f0e0867a6cd3cde1c5c09d07d5fb21c5b414ed121f7a7fc03802989",
+  "source_bytes": 13661,
+  "published": "2014-12-31",
+  "gazette": "29222 (4.mükerrer)",
+  "in_force": "2014-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2014); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 786,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

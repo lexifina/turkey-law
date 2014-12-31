@@ -1,0 +1,6 @@
+Taşınır mal kapsamındaki tesislerin kaydedileceği taşınır detay kodları
+MADDE 5 – (1) Taşınır kapsamında sayılan tesislerin kaydına mahsus olmak üzere Taşınır Mal Yönetmeliği eki “Taşınır Kod Listesi”nin “B- Dayanıklı Taşınırlar” bölümünün “253.01- Tesisler Grubu” kodu altında aşağıdaki alt detay kodlar açılmıştır.
+a) 253.01.01- İletişim/Haberleşme Tesisleri: Bu koda; haberleşme amaçlı baz istasyonları ile binalarda kurulu bulunan elektronik veya mekanik telefon santralleri kaydedilebilecektir.
+b) 253.01.02- Enerji Tesisleri: Bu koda; kamu binası veya yerleşkesine enerji sağlayan ve taşınır kod listesinin 253.02 kodunun alt detay kodlarına kaydedilenler dışında kalan büyük jeneratörler kaydedilecektir.
+c) 253.01.03- Görüntüleme, Bilgi Toplama ve Takip Sitemleri: Bu koda; kamu binalarında kurulu bulunan kameralı güvenlik sistemleri, personel ve ziyaretçi için turnikeli-kameralı geçiş sistemleri ile balıkçı gemileri, uçak ve TIR’ların takibi için kurulan uydulu takip sistemleri ve uluslararası suyolu gemi trafiği yönetim sistemleri kaydedilecektir.
+d) 253.01.99- Diğer Tesis ve Sistemler: Yukarıdaki kodlara kaydedilemeyen tesisler, bu kodun altına, gerekli görülmesi halinde alt detay kod açmak suretiyle kaydedilecektir.

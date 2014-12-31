@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğ; 253-Tesis, Makine ve Cihazlar ana hesabı bazında düzenlenen mali tablolarda taşınır ve taşınmaz mal ayrımının yapılabilmesini temin bakımından, genel yönetim kapsamındaki kamu idarelerinin muhasebe hesap planında yer alan “253-Tesis, Makine ve Cihazlar” ana hesabının yalnızca taşınır malları kapsayacak şekilde yeniden sınıflandırılması ve taşınır mal kapsamındaki tesislere ilişkin taşınır II nci düzey kodları ve alt detay kodlarının belirlenmesi amacıyla hazırlanmıştır.
