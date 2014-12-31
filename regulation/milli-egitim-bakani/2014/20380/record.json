@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20380",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI YAYINLARI VE EĞİTİM ARAÇLARI SATIŞ İŞLERİ YÖNETMELİĞİ",
+  "number": "20380",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2014/20380",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20380&MevzuatTertip=5",
+  "source_sha256": "36c71996b4dede7e0f6cf61699fd8f014b5e8d6ffef66a782081dd5b7237f96e",
+  "source_bytes": 12899,
+  "published": "2014-12-31",
+  "gazette": "29222",
+  "in_force": "2014-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2014); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 759,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

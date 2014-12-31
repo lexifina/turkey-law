@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, kültür kitapları ile örgün ve yaygın eğitim kurumlarında kullanılacak ders kitaplarının, öğretmen ve öğrencilere kaynak ve yardımcı olacak basılı ve dijital materyallerinin eğitim ve Türk millî eğitiminin genel amaçlarının gerçekleşmesine yararlı olacak diğer eğitim araç ve gereçlerinin satışını yapan kamu kurum ve kuruluşları ile özel ve tüzel kişilerin uyması gereken hükümleri kapsar.

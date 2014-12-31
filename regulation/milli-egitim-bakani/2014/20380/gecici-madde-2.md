@@ -1,0 +1,2 @@
+Telif haklarının devri
+GEÇİCİ MADDE 2 – (1) 1/3/2014 tarihli ve 6528 sayılı Millî Eğitim Temel Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun yayımı tarihinden önce okutulmak üzere kabul edilen ve telif hakkı Devlet Kitapları Döner Sermaye Müdürlüğüne ait olan ders kitaplarının iş ve işlemleri okutulma süreleri bitene kadar adı geçen Müdürlükçe yürütülmeye devam edilir. Kültür yayınları ise bütün hakları ile Bakanlık Döner Sermayesine devredilir.
