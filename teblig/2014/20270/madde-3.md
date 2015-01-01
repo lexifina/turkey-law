@@ -1,0 +1,2 @@
+4458 Sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Kararda Yer Alan Çalışma Ücretlerinin Yeniden Belirlenmesi
+MADDE 3 – (1) 4458 sayılı Gümrük Kanununun Bazı Maddelerinin Uygulanması Hakkında Kararın 122 nci maddesinin birinci fıkrasının (a) bendinde belirtilen fazla çalışma ücreti ihracat için 7,48 TL, diğer işlemler için 17,95 TL, (b) bendinde belirtilen Türk plakalı kamyonlar için fazla çalışma ücreti kamyon başına ihracat için 17,95 TL, diğer işlemler için 28,43 TL olarak uygulanır.

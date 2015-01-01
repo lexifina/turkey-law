@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20270",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ(GÜMRÜK İŞLEMLERİ) (SERİ NO: 119)",
+  "number": "20270",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2014/20270",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20270&MevzuatTertip=5",
+  "source_sha256": "a1d67e97c40673ca520eb16a6e31712e5aef648a854fc2f10524c7c18ac390f0",
+  "source_bytes": 8027,
+  "published": "2014-12-05",
+  "gazette": "29196",
+  "in_force": "2015-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2015 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2015 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 329,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
