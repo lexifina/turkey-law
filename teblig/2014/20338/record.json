@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20338",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BİLİMSEL ÇALIŞMA, DENEME VE ÇEŞİT ISLAHI AMACIYLA BİTKİ, BİTKİSEL ÜRÜN VE DİĞER MADDELER İLE ZARARLI ORGANİZMALARIN ÜLKEYE GİRİŞİ VE/VEYA ÜLKE İÇİNDE DOLAŞIMI HAKKINDA TEBLİĞ (TEBLİĞ NO: 2014/59)",
+  "number": "20338",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2014/20338",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20338&MevzuatTertip=5",
+  "source_sha256": "c9cb153d7c4be325212aba1537f977180d41f4060e870f4abcff21dd499789f1",
+  "source_bytes": 28242,
+  "published": "2014-12-26",
+  "gazette": "29217",
+  "in_force": "2015-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2015 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2015 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1365,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20338-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
