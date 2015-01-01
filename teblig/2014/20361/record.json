@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20361",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "6502 SAYILI TÜKETİCİNİN KORUNMASI HAKKINDA KANUNUN 68 İNCİ VE TÜKETİCİ HAKEM HEYETLERİ YÖNETMELİĞİNİN 6 NCI MADDELERİNDE YER ALAN PARASAL SINIRLARIN ARTTIRILMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: TGM-2014/2)",
+  "number": "20361",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2014/20361",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20361&MevzuatTertip=5",
+  "source_sha256": "508ea466bab06a6e9cc53f696b73d2497f7655d385550cabaff248f474b22f2a",
+  "source_bytes": 9154,
+  "published": "2014-12-27",
+  "gazette": "29218",
+  "in_force": "2015-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2015 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2015 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 226,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
