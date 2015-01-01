@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20402",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4703 SAYILI ÜRÜNLERE İLİŞKİN TEKNİK MEVZUATIN HAZIRLANMASI VE UYGULANMASINA DAİR KANUNLA DÜZENLENMİŞ OLAN İDARİ PARA CEZALARININ YENİ DEĞERLERİNİN DUYURULMASINA İLİŞKİN TEBLİĞ (ÜRÜN GÜVENLİĞİ VE DENETİMİ: 2015/13)",
+  "number": "20402",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2014/20402",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20402&MevzuatTertip=5",
+  "source_sha256": "dfff3c4ba1b444ecdba56fa12c9ebdcb1fdf913d24fd683cf0bfdd498098ed8d",
+  "source_bytes": 16607,
+  "published": "2014-12-31",
+  "gazette": "29222 mükerrer",
+  "in_force": "2015-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2015 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2015 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 210,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
