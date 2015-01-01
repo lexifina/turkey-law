@@ -1,0 +1,1 @@
+<p><strong><u>Karar Sayısı : 2014/7127</u></strong></p><p>Ekli Kararın yürürlüğe konulması; Maliye Bakanlığının 30/12/2014 tarihli ve 788 sayılı yazısı üzerine, Bakanlar Kurulu'nca 30/12/2014 tarihinde kararlaştırılmıştır.</p><p>Kararı görmek için <a href="fileadmin/mevzuatek/20147127_bkk.pdf">tıklayınız.</a></p>
