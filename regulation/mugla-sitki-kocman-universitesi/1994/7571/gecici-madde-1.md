@@ -1,0 +1,1 @@
+Geçici Madde 1- Merkezin ilk Genel kurulu, (Değişik ibare:RG-14/11/2012-28467) Muğla Sıtkı Koçman Üniversitesi Senatosu tarafından Merkez kurucu üyesi olmak üzere başvuran öğretim üyeleri arasından seçilerek Rektör'e önerilir ve Rektör tarafından atanır.
