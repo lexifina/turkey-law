@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-01-04",
+  "issue": "29226",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Muğla Sıtkı Koçman Üniversitesi Turizm İşletmeciliği Araştırma ve Uygulama Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150104-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150104.htm",
+  "index_sha256": "fe2d02e8b9cdcf11b8862d6b9d82d49f287b0b8898563e896a1dd8f12a6ceb19",
+  "index_header": "4 Ocak 2015 ... 29226 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150104.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
