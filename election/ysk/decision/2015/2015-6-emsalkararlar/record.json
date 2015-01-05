@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/2015-6-emsalkararlar",
+  "list_number": "6",
+  "decision_date": "2015-01-05",
+  "title": "7 Haziran 2015 tarihinde yapılacak olan 25. Dönem Milletvekili Genel Seçiminde milletvekili adayı olabilmek için kanun gereği çekilmesi veya görevlerinden ayrılması gerekenlerin çekilme veya görevlerinden ayrılma isteğinde bulunma tarihlerinin belirlenmesine ilişkin Yüksek Seçim Kurulunun 2015/6 sayılı kararı ve konu ile ilgili 2014 Mahalli İdareler Genel Seçimine yönelik alınan emsal kararları",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2282/2015-6-EmsalKararlar.pdf",
+  "source_sha256": "cb7efd59e18cc6ec1508e8a68bdc4129a9f03cfe20512900ae5d91eb19650c8b",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 39,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-01-05",
+  "law_text_complete": false
+}
