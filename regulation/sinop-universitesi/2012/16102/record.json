@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-04-29",
+      "29.04.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2012-06-21",
+      "RG-21/6/2012-28330",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2015-01-05",
+      "RG-5/1/2015-29227",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2012-06-21",
+      "21/6/2012",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2015-01-05",
+      "5/1/2015",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-5/1/2015-29227",
+  "first_law": null,
+  "gazette": "28278",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-01-05",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Sinop Üniversitesi",
+  "issuer_slug": "sinop-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sinop-universitesi/2012/16102",
+  "published": "2012-04-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16102&MevzuatTertip=5",
+  "source_bytes": 31940,
+  "source_id": "8.5.16102",
+  "source_sha256": "4d02e597f11d43d17dd7e8661edd25cc23c73a1b5dcf315c6c14ff73a2c5b6f9",
+  "text_status": "current-consolidated",
+  "title": "SİNOP ÜNİVERSİTESİ OKUL ÖNCESİ EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 312,
+  "word_count": 1081
+}
