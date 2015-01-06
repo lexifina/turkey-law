@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39890",
+  "decision_date": "2015-01-06",
+  "source_id": 9470,
+  "chamber": "5",
+  "file_number": "36699",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9470/",
+  "source_sha256": "a0f018096312dc360809388b0f236b977784192dc9da2b70d427594a801cbcc9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
