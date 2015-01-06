@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39887",
+  "decision_date": "2015-01-06",
+  "source_id": 9467,
+  "chamber": "5",
+  "file_number": "36083",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9467/",
+  "source_sha256": "5d526dd3c251f0d0caf25e44b27dd786a1021f6827fb8931e978ec2caacc31f2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
