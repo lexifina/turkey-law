@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "240",
+  "decision_date": "2015-01-06",
+  "source_id": 10708,
+  "chamber": "3",
+  "ilam_number": "139",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10708/",
+  "source_sha256": "5b6eaacabb2669b86aef503e439b1ea3e1a737bda9b424ce3a71539785562028",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
