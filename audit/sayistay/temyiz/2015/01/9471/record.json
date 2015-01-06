@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39891",
+  "decision_date": "2015-01-06",
+  "source_id": 9471,
+  "chamber": "5",
+  "file_number": "38456",
+  "account_year": "2010",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9471/",
+  "source_sha256": "d10f633cf95801c848e6b61b972ec5eda1d9bb2fed62c68c08833f4c45513de5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
