@@ -1,0 +1,13 @@
+{
+  "number": "15-02/2-1",
+  "type": "Özelleştirme",
+  "decision_date": "2015-01-08",
+  "publication_date": "2015-03-30",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=01889cbf-4a59-48b9-80f6-d346450c0575",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=452",
+  "pdf_sha256": "7396583a231da2d39dfd136f7ca18dd9f71ce9c47866be0c52d6a48aa8568e71",
+  "pdf_bytes": "164787",
+  "pages": "6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
