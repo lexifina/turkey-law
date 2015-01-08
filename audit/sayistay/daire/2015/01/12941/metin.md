@@ -1,0 +1,3 @@
+Belediye Bütçesinden Ödenen Mahkeme Masraflarının Sorumluluğu Bulunan Personele Rücu Edilmemesi
+
+	Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …. Mahallesi … adada özel mülkiyette bulunan taşınmaza ilişkin kamulaştırma işlemi yapılmadan idare tarafından haksız el atma sonucu belediye bütçesinden yapılan mahkeme masraflarının sorumluluğu bulunan personele rücu edilmemesi sonucu …. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararına ilişkin tutar arsa maliki tarafından bağış suretiyle belediyeye iade edilerek  …. tarih ve ….  nolu muhasebe işlem fişiyle gelir kaydedildiğinden ilişilecek husus kalmadığına oy birliğiyle,
