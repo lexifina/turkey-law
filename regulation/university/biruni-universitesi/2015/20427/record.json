@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/biruni-universitesi/2015/20427",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29230",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-01-08",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Biruni Üniversitesi",
+  "issuer_slug": "biruni-universitesi",
+  "kind": "regulation",
+  "published": "2015-01-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20427&MevzuatTertip=5",
+  "source_id": "8.5.20427",
+  "source_sha256": "0ffc537410982c9abe9a3be5a361ca2433e6f9679f3fd9693c98a89db8424f60",
+  "title": "BİRUNİ ÜNİVERSİTESİ BİRUNİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 451,
+  "version_label": "oldest version available",
+  "word_count": 1167
+}
