@@ -1,0 +1,2 @@
+Merkez Müdürü
+MADDE 10 – (1) Merkez Müdürü; en az lisans düzeyinde eğitim almış kişiler arasından Rektörün teklifi ve Mütevelli Heyetinin onayı ile iki yıl için görevlendirilir. Görev süresi biten Merkez Müdürü aynı usulle yeniden görevlendirilebilir. Merkez Müdürü sağlıkla ilgili bağlı birimlerin de yöneticisidir. Merkez Müdürü, gerektiğinde Rektörün teklifi ve Mütevelli Heyetinin onayı ile iki yıllık süre dolmadan da görevinden alınabilir. Merkez Müdürünün önerisi ve Mütevelli Heyetinin onayı ile Merkez Müdürü yardımcıları görevlendirilebilir.
