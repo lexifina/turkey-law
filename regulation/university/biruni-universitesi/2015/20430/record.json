@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/biruni-universitesi/2015/20430",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29230",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-01-08",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Biruni Üniversitesi",
+  "issuer_slug": "biruni-universitesi",
+  "kind": "regulation",
+  "published": "2015-01-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20430&MevzuatTertip=5",
+  "source_id": "8.5.20430",
+  "source_sha256": "f69592338b5bcdd9a39c5d0b46030dafe0ecd814018b1fbc2430feac8a0fac02",
+  "title": "BİRUNİ ÜNİVERSİTESİ TÜRKÇE VE YABANCI DİL UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 451,
+  "version_label": "oldest version available",
+  "word_count": 1176
+}
