@@ -1,0 +1,3 @@
+Katma Değer Vergisi Oranlarının Yanlış Uygulanması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …. Belediyesi tarafından satın alınan “Sahipsiz Sokak Hayvanlarının Toplanması,Rehabilitasyon ve Kısırlaştırılmasına” ilişkin hizmet alımı işinde  …. Ltd.Şti.’ne yapılan ödemede KDV’nin 2007/130333 sayılı Bakanlar Kurulunun Mal ve Hizmetlere Uygulanacak Katma Değer Vergisi Oranlarının Tespitine İlişkin Karar’ın 1’inci maddesinin (c) bendine aykırı belirlenerek ödenmesi sonucu …. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizinden … tarih ve …. nolu muhasebe işlem fişiyle tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle,
