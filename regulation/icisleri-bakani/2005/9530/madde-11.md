@@ -1,0 +1,11 @@
+Görüşmeler ve yönetim
+Madde 11 — Başkanlık divanı yerini aldıktan sonra başkan yoklama yaptırır, toplantı yeter sayısının olduğu anlaşıldığı takdirde birleşimi açar. Gündeme geçilmeden bir önceki birleşimde alınan kararlara ilişkin tutanakta maddi hata bulunması durumunda, hata meclis kararı ile düzeltilerek başkanlık divanınca imzalanır.
+Başkan gündeme geçilmeden önce meclise sunulacak konular varsa bildirir, meclis başkanlığına hitaben verilmiş olan dilekçeleri kabul eder ve meclise sunar.
+Üyelerin gündem dışı konuşma isteği yazılı olarak başkana bildirilir. Söz verip vermemek ve söz verildiğinde süresini ve zamanını belirlemek yetkisi başkana aittir.
+Gündem konusunda ve usul hakkında leh ve aleyhte olmak üzere birer üyeye söz verilir. Yapılacak konuşmalar en fazla on dakika ile sınırlıdır.
+Daha sonra gündem maddeleri sırası ile okunur ve görüşülür. Gündem sırasında değişiklik yapılmasına, başkan veya üyeler tarafından yapılan teklifler üzerine gündeme madde ilave edilmesine meclisçe karar verilir. Vali tarafından önerilen konular meclis başkanı tarafından gündeme eklenir.
+Görüşmelerde konuşmak için önceden başkanlıktan söz istenir. İhtisas komisyonuna ve siyasi parti gruplarına söz almada öncelik tanınır. Siyasi parti gruplarına üye sayısı en çok olandan başlamak suretiyle; üyelere söz isteme sırasına göre söz verilir. Bütçe görüşmesinde komisyon raporu okunduktan sonra üyelere söz verilir.
+Meclisteki konuşmalar başkana hitaben yapılır. Başkan her zaman söz hakkına sahiptir.
+İhtisas komisyonları ve siyasi parti grupları adına yapılacak konuşmalar 20 şer dakika, üyelerin konuşmaları ise 10 dakika ile sınırlıdır. Bütçe ve program görüşmelerinde parti grupları için bu süreler iki kat olarak uygulanır. Meclis, bu sürelerin değiştirilmesine karar verebilir. Görüşmelerin yeterli olduğu meclisçe kabul edildiği takdirde başka üyeye söz verilmez.
+Faaliyet raporu mart ayı toplantısında vali veya genel sekreter tarafından meclise sunulur.
+Meclis toplantıları halka açıktır. Meclis başkanı veya üyelerden herhangi birinin gerekçeli teklifi üzerine kapalı oturum yapılmasına karar verilebilir. Kapalı oturumda başkan ve üyeler dışında gerektiğinde meclis kararıyla görevli bulundurulabilir.
