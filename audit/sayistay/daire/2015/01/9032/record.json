@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "178",
+  "decision_date": "2015-01-08",
+  "source_id": 9032,
+  "chamber": "6",
+  "ilam_number": "101",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9032/",
+  "source_sha256": "b4046a20df038ec07c9c5d74a5318946a401b52d461ceec394436afcb0299495",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
