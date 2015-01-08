@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35283",
+  "decision_date": "2015-01-08",
+  "source_id": 11405,
+  "chamber": "2",
+  "ilam_number": "106",
+  "item_number": 7,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2013,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11405/",
+  "source_sha256": "749a1e88955b398bb1116828b812cd7f3720c3fe4464d9ec556dd7e8154b6da0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
