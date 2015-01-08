@@ -1,0 +1,3 @@
+Damga Vergisi Kesintisi Yapılmaması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …. Belediyesi tarafından … A.Ş’ye  yapılan ödemelerden 488 sayılı Damga Vergisi Kanunu hükümleri gereğince damga vergisi kesintisinin yapılmaması sonucu …. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararının  …. TL’sinin  muhasebe işlem fişleriyle hesap yılı içinde tahsil edildiğinden ilişilecek husus bulunmadığına,  kalan …. TL’nin …. TL’sinin  … tarih ve … nolu muhasebe işlem fişiyle  …. A.Ş’den,  …. TL’sinin  … tarih ve … nolu muhasebe işlem fişiyle …. A.Ş’den tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle,
