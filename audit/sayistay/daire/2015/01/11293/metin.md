@@ -1,0 +1,7 @@
+Hakediş-yeni fiyat analizi
+
+……………..Şti. & …………..Şti. Adi Ortaklığı yüklenimindeki ………….Acil Yardım ve Yoğun Bakım Ünitesi İkmal İnşaatı işinde, 19.055/A3 pozlu 5 cm taşyünü ısı yalıtım levhalarla dış duvarların dıştan ısı yalıtımı, ısı yalıtım sıvası imalatı ile ÖF.DCG pozlu 600*1200*9 mm ebatlarında parlak granit seramik levhalarla dış cephe kaplaması yapılması imalatlarının gerçekleştirildiği; ancak, kaplama imalatı yapıldığından yalıtım imalatı analizinde olup fiilen imalatta yer almayan file ve sıva imalatları ve ilgili işçilik bedellerinin düşülmesi gereken yeni analiz yapılmaması sonucu kamu zararına sebebiyet verildiği görülmüştür.
+
+Yapılan incelemede, .......... TL’lik 19.055/A3 poz nolu 5 cm taşyünü ısı yalıtım levhalarla dış duvarların dıştan ısı yalıtımı, ısı yalıtım sıvası imalatının tamamen çıkarıldığı, bunun yerine uygulaması yapılan ………… TL’lik 19.055/A3/A poz nolu 5 cm taşyünü ısı yalıtım levhalarla dış duvarların dıştan ısı yalıtımı (ısı yalıtım sıvası hariç) imalatı analizinin yapıldığı, kesinti tutarının …………….. TL ve KDV dahil toplam ………….. TL olduğu görülmüştür.
+
+Bu itibarla,…………… . Şti. &………….. Şti. Adi Ortaklığı yüklenimindeki …………. Acil Yardım ve Yoğun Bakım Ünitesi İkmal İnşaatı işinde, yeni analiz yapılmaması sonucu oluşan ……….. TL’lik kamu zararı ……………. ödeme emri belgesine ekli …..  nolu hak edişte düzeltildiğinden ilişilecek bir husus kalmadığına oybirliğiyle,
