@@ -1,0 +1,3 @@
+Temininde Güçlük Zammı Puanının Yanlış Hesaplanması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …. Belediyesi Destek Hizmetleri Müdürlüğünde görevli Şef … 2006/10344 sayılı Devlet Memurlarına Ödenecek Zam ve Tazminatlara ilişkin Bakanlar Kurulu Kararına ekli I sayılı cetvelin Genel İdare Hizmetleri Bölümünün 27/b sırasındaki 200 olan temininde güçlük zammı puanının 750 puan üzerinden hesaplanarak ödenmesi sonucu …. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizinden …. tarih ve …. nolu muhasebe işlem fişiyle tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle,
