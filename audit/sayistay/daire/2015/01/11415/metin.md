@@ -1,0 +1,7 @@
+Ek Ödeme
+
+…….. Meslek Yüksekokulu kadrosunda bulunan Öğretim Görevlisi ……………..’a ……….. Üniversitesi …….. …….. Uygulama ve Araştırma Merkezi Döner Sermaye Gelirlerinden Yapılacak Ek Ödemenin Dağıtılmasında Uygulanacak Usul ve Esaslar ile Yükseköğretim Kurumlarında Uzaktan Öğretime İlişkin Usul ve Esaslar çerçevesinde hizmet karşılığında ders saat ücreti ödendiği görülmüştür.
+
+Yapılan incelemede, Öğretim Görevlisi ………………..’ın kadrosunun …….. Meslek Yüksekokulunda olduğu, ilgiliye yapılan ödemelerin 2547 sayılı Kanunun 58 inci maddesinin (f) fıkrası kapsamında yöneticilere düzenli olarak yapılan ödemelerden olmadığı, yapılan ödemelerin farklı zamanlarda düzenlenen kişisel gelişim ve yetkinlik kurslarındaki dersleri yürütmesinin karşılığının ders saat ücreti olarak ödendiği ve bu ödemelerin ………. Üniversitesi …….. …….. Uygulama ve Araştırma Merkezi Döner Sermaye Gelirlerinden Yapılacak Ek Ödemenin Dağıtılmasında Uygulanacak Usul ve Esaslar ile Yükseköğretim Kurumlarında Uzaktan Öğretime İlişkin Usul ve Esaslar dikkate alınarak yapıldığı anlaşılmıştır.
+
+Bu itibarla, …….. Meslek Yüksekokulu kadrosunda bulunan Öğretim Görevlisi …………….’a ........... Üniversitesi ……..…….. Uygulama ve Araştırma Merkezi Döner Sermaye Gelirlerinden Yapılacak Ek Ödemenin Dağıtılmasında Uygulanacak Usul ve Esaslar ile Yükseköğretim Kurumlarında Uzaktan Öğretime İlişkin Usul ve Esaslar çerçevesinde hizmet karşılığında ders saat ücreti ödenmesi mevzuatına uygun olduğu anlaşıldığından ilişikli bir husus bulunmadığına oybirliğiyle,
