@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "179",
+  "decision_date": "2015-01-08",
+  "source_id": 12911,
+  "chamber": "6",
+  "ilam_number": "161",
+  "item_number": 16,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12911/",
+  "source_sha256": "74c268d99410ca6099f53f4274a880b6936a1e1af5460e6f655e02956ffc4cc2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
