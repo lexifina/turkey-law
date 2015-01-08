@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35283",
+  "decision_date": "2015-01-08",
+  "source_id": 11406,
+  "chamber": "2",
+  "ilam_number": "106",
+  "item_number": 8,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11406/",
+  "source_sha256": "39077575acdb96047bd9c6602fe73a97e0b00781bd647799965656d3a12c9421",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
