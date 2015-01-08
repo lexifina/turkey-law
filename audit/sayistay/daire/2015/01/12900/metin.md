@@ -1,0 +1,3 @@
+Damga Vergisi Kesintisi Yapılmaması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …. Belediyesi tarafından …. Ltd. Şti.’ne ihale edilen “Sahipsiz sokak hayvanlarının toplanması,rehabilitasyon ve kısırlaştırılması” işine ilişkin düzenlenen sözleşmeden 488 sayılı Damga Vergisi Kanunu’na ekli 1 sayılı Tablonun “I. Akitlerle ilgili kağıtlar” başlığının A/1’inci bendi uyarınca alınması gereken damga vergisinin alınmaması sonucu …. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizi ….. Ltd. Şti.’den  …. tarih ve ….  nolu muhasebe işlem fişiyle tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle,
