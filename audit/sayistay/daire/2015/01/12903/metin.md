@@ -1,0 +1,3 @@
+Damga Vergisi Kesintisi Yapılmaması
+
+	Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …. Belediyesi tarafından … Ltd. Şti’ne ihale edilen “…. Kaldırım Yapılması İşi”ne ilişkin yapılan ödemelerden  488 sayılı Damga Vergisi Kanunu’na ekli 1 sayılı Tablonun “IV.Makbuzlar ve Diğer Kağıtlar” başlığının 1/a bendi uyarınca ödemeler üzerinden kesilmesi gereken damga vergisi kesintisinin yapılmaması sonucu ….TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizi ….. Ltd. Şti’den …. tarih ve …. nolu muhasebe işlem fişiyle tahsil edildiğinden ilişilecek husus kalmadığına   oy birliğiyle,
