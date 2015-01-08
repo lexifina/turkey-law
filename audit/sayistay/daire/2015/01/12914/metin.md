@@ -1,0 +1,3 @@
+   Mükerrer Ödeme Yapılması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ….. Belediyesi bütçesinden … A.Ş’ne ait …..numaralı telefonun mart ve nisan ayları faturalarının ödenmiş olmasına rağmen, aynı faturaların toplam tutarının mükerrer olarak ödenmesi sonucu …. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı hesap yılı içinde …. tarih ve …. yevmiye nolu muhasebe işlem fişiyle düzeltme kaydı yapılmak suretiyle giderildiğinden konu hakkında ilişilecek husus bulunmadığına oy birliğiyle,
