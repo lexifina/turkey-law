@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5408/23",
+  "decision_date": "2015-01-08",
+  "title": "6446 sayılı Kanunun 8. Maddesinin 4. Fıkrası hükmü kapsamında TEİAŞ ile SEE CAO (South East Europe Coordinated Auction Office) arasında imzalanan anlaşma gereğince hazırlanan ihale dokümanının (Auction Rules-İhale Kuralları) onaylanmasına ilişkin",
+  "categories": [
+    "Elektrik İthalat ve İhracatına İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DXx/tN0tJbs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DXx/tN0tJbs="
+  ],
+  "source_sha256": "0626f4952eb2add9d46d751ae9af1508106ac659c8eb5b26bf3b0ad9f4d6bfc3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33875,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2015-01-08",
+  "law_text_complete": false
+}
