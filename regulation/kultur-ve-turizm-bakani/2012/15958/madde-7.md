@@ -1,0 +1,6 @@
+Tescil kararı
+MADDE 7 – (1) Taşınmaz kültür varlıklarından ve sitlerden Bakanlıkça tespiti yapılanlar koruma bölge kurullarınca değerlendirilerek tescil olunur.
+(2) Vakıflar Genel Müdürlüğünün idaresinde veya denetiminde bulunan mazbut ve mülhak vakıflara ait taşınmaz kültür varlıkları, gerçek ve tüzel kişilerin mülkiyetinde bulunan cami, türbe, kervansaray, medrese, han, hamam, mescit, zaviye, sebil, mevlevihane, çeşme ve benzeri korunması gerekli taşınmaz kültür varlıklarının tespiti ve envanterlenmesi Vakıflar Genel Müdürlüğünce yapılır ve tespiti yapılan taşınmaz kültür varlıkları koruma bölge kurullarınca değerlendirilerek tescil olunur.
+(3) Vakıflar Genel Müdürlüğünce tespiti yapılıp, koruma bölge kurullarınca değerlendirilerek tescil olunan taşınmaz kültür varlıklarının korunması ve değerlendirilmesi Vakıflar Genel Müdürlüğünce yürütülür.
+(4) (Ek:RG-9/1/2015-29231) Bakanlık uzmanları tarafından tespiti yapılan Vakıflar Genel Müdürlüğünün idaresinde veya denetiminde bulunan korunması gerekli taşınmaz kültür varlıklarıyla ilgili kültür varlıklarını koruma bölge kurulunca tescile yönelik değerlendirme yapılmadan önce Vakıflar Genel Müdürlüğü’nün görüşü alınır.
+(5) (Ek:RG-9/1/2015-29231) Tek yapılara ilişkin tescil kararı alınırken Koruma Yüksek Kurulu kararlarına uygun olarak taşınmaz kültür varlığının yapı grubu ve korunma alanı belirlenir.
