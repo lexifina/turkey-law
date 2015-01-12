@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "27",
+  "decision_date": "2015-01-12",
+  "title": "MEC_ KAR_ (erdemli kumkuyu merkez mah 17 ada 16",
+  "listed_as": "27 MEC_ KAR_ (erdemli kumkuyu merkez mah 17 ada 16",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/27-mec--kar--erdemli-kumkuyu-merkez-mah-17-ada-160-parsel-plan-tadilati",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk99--12-ocak-2015-meclis-kararlari",
+  "listing_sha256": "d13c114588985058c2a52ebab5f37aa6ba7329ac8df381f931d50696f9568a10",
+  "meeting_title": "MK99- 12 OCAK 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
