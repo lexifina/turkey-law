@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "24",
+  "decision_date": "2015-01-12",
+  "title": "MEC_ KAR_ (toroslar çavuşlu 23 K-II 24 K-III Pa",
+  "listed_as": "24 MEC_ KAR_ (toroslar çavuşlu 23 K-II 24 K-III Pa",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/24-mec--kar--toroslar-cavuslu-23-k-ii-24-k-iii-pafta-cv118-cv119-ada-parsel-plan-tadilati",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk99--12-ocak-2015-meclis-kararlari",
+  "listing_sha256": "d13c114588985058c2a52ebab5f37aa6ba7329ac8df381f931d50696f9568a10",
+  "meeting_title": "MK99- 12 OCAK 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
