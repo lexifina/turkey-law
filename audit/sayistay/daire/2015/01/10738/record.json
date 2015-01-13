@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "93",
+  "decision_date": "2015-01-13",
+  "source_id": 10738,
+  "chamber": "4",
+  "ilam_number": "137",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10738/",
+  "source_sha256": "66810691c83529ec21a6ccf68e7f482712cefb153c235062db41453c776bb539",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
