@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "242",
+  "decision_date": "2015-01-13",
+  "source_id": 10661,
+  "chamber": "3",
+  "ilam_number": "142",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10661/",
+  "source_sha256": "748374a03d53e02e0955592a49cbc99c6854db4f6dfb334ee62eec6df15b05f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
