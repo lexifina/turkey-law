@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20441",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EV TİPİ FIRINLAR, OCAKLAR VE ASPİRATÖRLER İLE İLGİLİ ÇEVREYE DUYARLI TASARIM GEREKLERİNE DAİR TEBLİĞ (SGM-2015/7)",
+  "number": "20441",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2015/20441",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20441&MevzuatTertip=5",
+  "source_sha256": "b24bad09a48fda19cccc65cfae1fdbea7d8ac20e1a3d615b3a0ea1cdff66c6b4",
+  "source_bytes": 26316,
+  "published": "2015-01-14",
+  "gazette": "29236",
+  "in_force": "2015-01-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.01.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1206,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20441-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
