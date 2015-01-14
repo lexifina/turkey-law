@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-01-14",
+  "issue": "29236",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Paket Tur Sözleşmeleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150114-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150114.htm",
+  "index_sha256": "6ad95fec15faf646c7f4fd1368c9d03aae015a7491628de37cdb1b0e0e033515",
+  "index_header": "14 Ocak 2015 ... 29236 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150114.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
