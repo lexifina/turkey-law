@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20443",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EV TİPİ FIRINLARIN VE ASPİRATÖRLERİN ENERJİ ETİKETLEMESİNE DAİR TEBLİĞ (SGM-2015/8)",
+  "number": "20443",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2015/20443",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20443&MevzuatTertip=5",
+  "source_sha256": "7f21a3923d63a2bbc1e3a2833a3a3b4eaabc58c5684432e460d02bcdde720108",
+  "source_bytes": 35356,
+  "published": "2015-01-14",
+  "gazette": "29236",
+  "in_force": "2015-01-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.01.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1897,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20443-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
