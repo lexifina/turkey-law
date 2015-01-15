@@ -1,0 +1,3 @@
+Sözleşme Damga Vergisi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Denetçi sorgusunda, .....Belediyesi tarafından .... Ltd.Şti. yükleniminde bulunan belediye sınırları içerisinde bulunan ...m2 eski vahşi çöp toplama alanında yapılmakta olan reklerasyon alanı için ÇED raporunun hazırlanmasında gerekli olan sondaj, jeo-jeoteknik, jeofizik etüd çalışma ve raporunun hazırlanması işinde yükleniciye yapılan hakediş ödemelerinde mevzuatına göre kesilmesi gereken sözleşme damga vergisinin düzenlenen her nüsha için ayrı ayrı kesinti yoluna gidilmemesi nedeniyle, eksik kesilmesi suretiyle ortaya çıkan ...-TL’nin ...tarih ve ... numaralı tahsilat makbuzu ile tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle
