@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10421",
+  "decision_date": "2015-01-15",
+  "source_id": 9195,
+  "chamber": "1",
+  "ilam_number": "110",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9195/",
+  "source_sha256": "41820a627c286ba14b67a9219d855cb2419bf500e794e9696cf43a61669f3bf3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
