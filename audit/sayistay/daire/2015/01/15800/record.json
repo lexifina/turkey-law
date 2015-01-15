@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10423",
+  "decision_date": "2015-01-15",
+  "source_id": 15800,
+  "chamber": "1",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15800/",
+  "source_sha256": "d8d14526a41659dde523cd1ed2319fee315e2f2af18dec22097bc09dff42f4dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
