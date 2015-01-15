@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10423",
+  "decision_date": "2015-01-15",
+  "source_id": 15798,
+  "chamber": "1",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15798/",
+  "source_sha256": "8624107a4c012cfb52df88aeaab72afacfc9df1e6782855d56e029d7f5ad05ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
