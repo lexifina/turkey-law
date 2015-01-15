@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "243",
+  "decision_date": "2015-01-15",
+  "source_id": 9120,
+  "chamber": "3",
+  "ilam_number": "143",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9120/",
+  "source_sha256": "f6b659784694df167006ff90cba0298faaedf6a6c42740d7e54aa15800fc5ba5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
