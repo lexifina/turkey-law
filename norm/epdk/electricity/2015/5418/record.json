@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5418",
+  "decision_date": "2015-01-15",
+  "title": "2015 yılı için uygulanacak serbest tüketici limiti",
+  "resmi_gazete_date": "2015-01-21",
+  "resmi_gazete_number": "29243",
+  "categories": [
+    "Serbest Tüketici"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lPxnuLv8zBI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lPxnuLv8zBI="
+  ],
+  "source_sha256": "36a8b7f35020591dd452b1d13d2f70f2a87973ea89cfa1ffcaa73d0fca9e7579",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33857,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-01-15",
+  "law_text_complete": false
+}
