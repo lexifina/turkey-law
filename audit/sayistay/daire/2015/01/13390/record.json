@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "29",
+  "decision_date": "2015-01-15",
+  "source_id": 13390,
+  "chamber": "7",
+  "ilam_number": "125",
+  "item_number": 5,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13390/",
+  "source_sha256": "a12aa8738a05059ae93327883715c7a2c32b655575b5f2cc0ed33c7a764ad3e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
