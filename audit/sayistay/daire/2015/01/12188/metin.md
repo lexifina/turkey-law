@@ -1,0 +1,7 @@
+Hakediş
+
+………... Üniversitesi Rektörlüğü ………….. Konağı Rekonstrüksiyon İnşaatı işinde;
+
+A) 14.023/1 poz numaralı “Kazılara tam ahşap kaplamalı iksa yapılması” imalatı yerine 14.023/2 poz numaralı “Kazılara sık aralıklı ahşap iksa yapılması” imalatı üzerinden ödeme yapılması sonucu ……….. TL (Katma değer vergisi dahil) kamu zararına sebep olunmuşsa da; söz konusu tutarının yükleniciye işe ilişkin 5 no.lu hakedişin (………… ödeme emri belgesine ekli) yapılan işler listesinde yer alan 30 sıra ve 14.023/1 poz numaralı “Kazılara tam ahşap kaplamalı iksa yapılması” imalatı tutarı eksiltilerek ödeme yapılması suretiyle tahsil edildiği anlaşıldığından konuya ilişkin ………. TL (düzeltilmiş hakedişlerin tutarları üzerinden katma değer vergisi hesaplandığından ilk kamu zararı tutarı katma değer vergisi hariç olarak kabul edilmiştir.) ile ilgili olarak ilişilecek bir husus kalmadığına oybirliğiyle,
+
+B) Geniş derin araştırma hafriyatı yapılması (V.0513) pozu için “düz işçi” yerine “usta” esas alınarak ödeme yapıldığı görülmüşse de; savunmalar ekinde gönderilen belgelerden söz konusu pozun analizinden usta işçi çıkartılarak ve analize düz işçi eklenerek poz için ödenen tutarın eksiltildiği, Özel 18 poz numaralı “Geniş Alanda Derin Araştırma Hafriyatı Yapılması” imalatı için yeni birim fiyat analizi yapılarak bu fiyat üzerinden yükleniciye 3 no.lu hakedişin ödendiği anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına oybirliğiyle,
