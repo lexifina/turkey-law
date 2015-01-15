@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "28",
+  "decision_date": "2015-01-15",
+  "source_id": 9097,
+  "chamber": "7",
+  "ilam_number": "158",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9097/",
+  "source_sha256": "9e566d108eb6fba20599aed175e41ccac0da5a5d468a604c2dc5ab477b7411ce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
