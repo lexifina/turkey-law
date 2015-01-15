@@ -1,0 +1,43 @@
+Belediyenin mülkiyetinde bulunan bazı taşınmazların bedelsiz olarak amatör spor kulübüne devri
+
+...................Belediyesi tarafından, Belediyenin mülkiyetinde bulunan bazı taşınmazların bedelsiz olarak ...........Belediyespor’a tahsis edilmesi sonucunda ......................TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+5018 sayılı kanunun 'Taşınmaz tahsisi' başlıklı 47 nci maddesinde; “(Değişik: 22/12/2005-5436/4 md.)Kamu idareleri, kanunlarında belirtilen kamu hizmetlerini yerine getirebilmek için mülkiyetlerindeki taşınmazlarla Devletin hüküm ve tasarrufu altındaki yerleri, birbirlerine ve köy tüzel kişiliklerine bedelsiz olarak tahsis edebilirler. Tahsis edilen taşınmaz, amaç dışı kullanılamaz.
+
+Hazinenin özel mülkiyetindeki taşınmazlarla Devletin hüküm ve tasarrufu altındaki yerleri tahsis etmeye, kamu ihtiyaçları için gerekli olmayanların tahsisini kaldırmaya Maliye Bakanlığı; diğer taşınmazları tahsis etmeye ve tahsisini kaldırmaya ise maliki kamu idaresi yetkilidir. Bu maddenin uygulanmasına ilişkin esas ve usûller Maliye Bakanlığınca çıkarılacak yönetmelikle belirlenir.
+
+Kanunlardaki özel hükümler saklıdır.” hükmü bulunmaktadır.
+
+Diğer taraftan ise,5393 sayılı Belediye Kanunu’nun “Diğer kuruluşlarla ilişkiler” başlıklı 75 inci maddesinin (d) bendinde; Belediyelerin, kendi meclislerinin kararı üzerine yapacağı anlaşmaya uygun olarak görev ve sorumluluk alanlarına giren konularda; “Kendilerine ait taşınmazları, aslî görev ve hizmetlerinde kullanılmak üzere bedelli veya bedelsiz olarak mahallî idareler ile diğer kamu kurum ve kuruluşlarına devredebilir veya süresi yirmibeş yılı geçmemek üzere tahsis edebilir. Bu taşınmazlar aynı kuruluşlara kiraya da verilebilir. Bu taşınmazların, tahsis amacı dışında kullanılması hâlinde, tahsis işlemi iptal edilir. Tahsis süresi sonunda, aynı esaslara göre yeniden tahsis mümkündür.
+
+Kamu kurum ve kuruluşlarına belediyeler, bağlı kuruluşları ve belediye şirketlerince devir veya tahsis edilen taşınmazlar, kamu konutu ve sosyal tesis olarak kullanılamaz.
+
+(Ek fıkra: 12/11/2012-6360/19 md.) 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 29 uncu maddesinin birinci fıkrasının ikinci cümlesi ile 5253 sayılı Dernekler Kanununun 10 uncu maddesi; belediyeler, il özel idareleri, bağlı kuruluşları ve bunların üyesi oldukları birlikler ile ortağı oldukları Sayıştay denetimine tabi şirketler için uygulanmaz.” düzenlemesine yer verilmiştir.
+
+Denetçi iddiasında; yukarıda belirtilen mevzuat hükümlerine göre, kamu kurumlarının kendilerine ait taşınmazları bedelli veya bedelsiz 25 yılı geçmemek üzere tahsis amacında kullanmak koşulu ile kamu kurum ve kuruluşlarına tahsis edebileceği, diğer bir açıdan bakıldığında da, kamu kurum ve kuruluşlarının tahsis işlemini ancak kendi aralarında mevzuatta belirtilen hükümleri esas almak suretiyle gerçekleştirmeleri gerektiği, buna göre belediyelerin, kendilerine ait taşınmazları asli görev ve hizmetlerde kullanılmak üzere bedelli veya bedelsiz olarak kendi meclis kararları üzerine mahalli idareler ile diğer kamu kurum ve kuruluşlarına tahsis edebilmelerinin mümkün olduğu, ancak, bu idareler dışında kalan dernek ve sivil toplum kuruluşlarına süresi ne olursa olsun belediye taşınmazlarının tahsis edilebilmesine olanak bulunmadığı belirtilmiş ve belirtilen mevzuat hükümlerine aykırı olduğu halde, ............Belediyesinin mülkiyetinde bulunan bazı taşınmazların bedelsiz olarak ............. Belediyespor’a tahsis edilmesi sonucunda, ..................Belediyesi tarafından mahrum kalınan muhtemel kira gelirleri olarak, ..................... TL tutarında kamu zararına neden olunduğu ifade edilmiştir.
+
+Söz konusu bedelsiz devir sonrasında neden olunduğu iddia olunan ...................... TL tutarındaki kamu zararı ise, Denetçi tarafından; ................ Belediyespor kulübüne bedelsiz olarak tahsis edilmiş olan taşınmazların emsal rayiç kira bedellerinin .................. Ticaret Odasından yazılı olarak istenmesi suretiyle belirlenmiştir.
+
+Ancak, Denetçi tarafından yapılan bu tespitlere katılmak mümkün görünmemektedir. Yapılan tahsisler mevzuatına uygun olarak gerçekleştirilmiş olan tahsislerdir ve dolayısıyla da herhangi bir kamu zararına neden olunmamıştır. Şöyle ki; 5393 sayılı Belediye Kanunu’nun; 18/p maddesinde; “ekonomik ve sosyal ilişkileri geliştirmek amacıyla kültür, sanat ve spor gibi alanlarda faaliyet ve projeler gerçekleştirilmesine; bu çerçevede arsa, bina ve benzeri tesisleri yapma, yaptırma, kiralama veya tahsis etmeye karar vermek” Belediye Meclisinin görev ve yetkileri içinde sayılmıştır. Aynı kanunun 14 üncü maddesinin (a) bendinde; “Belediyenin Görev, Yetki ve Sorumlulukları içinde; mahallî müşterek nitelikte olmak şartıyla; …gençlik ve spor… hizmetleri yapmak veya yaptırmak,”, (b) bendinde ise; “……gerektiğinde, sporu teşvik etmek amacıyla gençlere spor malzemesi vermek, amatör spor kulüplerine ayni ve nakdî yardım yapmak ve gerekli desteği sağlamak”  bulunmaktadır.
+
+Diğer taraftan ise, 5018 Sayılı Kamu Malî Yönetimi ve Kontrol Kanununun 45,47 ve geçici 12 nci maddeleri ile Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 13 üncü maddesine dayanılarak hazırlanan Kamu İdarelerine Ait Taşınmazların Tahsis ve Devri Hakkında Yönetmeliğin 4/1 maddesinde; “Özel bir hüküm olmaması durumunda kamu idareleri, tahsis işlemini Kanunun 47 nci maddesine dayanarak yapabilirler. Ancak mülkiyetlerinde bulunan taşınmazların tahsisini; belediyeler, 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 15 inci maddesinin (h) bendine (müşterek nitelikteki hizmetlerin yerine getirilmesi amacıyla, belediye ve mücavir alan sınırları içerisinde taşınmaz almak, kamulaştırmak, satmak, kiralamak veya kiraya vermek, trampa etmek, tahsis etmek, bunlar üzerinde sınırlı aynî hak tesis etmek.), il özel idareleri ise, 22/2/2005 tarihli ve 5302 sayılı İl Özel İdaresi Kanununun 64 üncü maddesinin (d) bendine göre yaparlar.”  hükmüne yer verilmiştir.
+
+Dolayısıyla, sorumlular tarafından yapılan savunmalardan ve savunma eki olarak gösterilen belgelerden de anlaşılacağı üzere, ................. Belediyesinin aslî görev ve hizmetlerinden olan; “araç park yerlerini tespit etmek ve işletmek, işlettirmek” ve “amatör spor kulüplerine ayni ve nakdî yardım yapmak ve gerekli desteği sağlamak” faaliyetlerini gerçekleştirmek ve spor faaliyetleri ve gençliğin spora teşvik edilmesi amacıyla ............... Belediye Meclisi tarafından alınan Karar’a uygun olarak söz konusu taşınmazların (Otopark ve Futbol Sahası)  bedelsiz olarak tahsisi yapılmıştır.
+
+Yapılan tahsis işlemleri;
+
+5393 sayılı Belediye Kanunu’nun;
+
+14 üncü maddesinin (a) bendinde, “Belediyenin Görev, Yetki ve Sorumlulukları” arasında sayılan; mahallî müşterek nitelikte olmak şartıyla; …gençlik ve spor… hizmetleri yapmak veya yaptırmak,”,
+
+Aynı maddesinin (b) bendinde yine “Belediyenin Görev, Yetki ve Sorumlulukları” arasında yer alan “……gerektiğinde, sporu teşvik etmek amacıyla gençlere spor malzemesi vermek, amatör spor kulüplerine ayni ve nakdî yardım yapmak ve gerekli desteği sağlamak” ,
+
+15 inci maddesinin (h) bendinde, “Belediyenin yetkileri ve imtiyazları” arasında gösterilen “ Mahallî müşterek nitelikteki hizmetlerin yerine getirilmesi amacıyla, belediye ve mücavir alan sınırları içerisinde taşınmaz almak, kamulaştırmak, satmak, kiralamak veya kiraya vermek, trampa etmek, tahsis etmek, bunlar üzerinde sınırlı aynî hak tesis etmek.”,
+
+18 inci maddesinin (p) bendinde, “Belediye meclisinin görev ve yetkileri” arasında sayılan; “Yurt içindeki ve İçişleri Bakanlığının izniyle yurt dışındaki belediyeler ve mahallî idare birlikleriyle karşılıklı iş birliği yapılmasına; kardeş kent ilişkileri kurulmasına; ekonomik ve sosyal ilişkileri geliştirmek amacıyla kültür, sanat ve spor gibi alanlarda faaliyet ve projeler gerçekleştirilmesine; bu çerçevede arsa, bina ve benzeri tesisleri yapma, yaptırma, kiralama veya tahsis etmeye karar vermek.”,
+
+Düzenlemelerine uygun olarak gerçekleştirilmiştir. Söz konusu tahsis işlemleri, aynı zamanda, Kamu İdarelerine Ait Taşınmazların Tahsis ve Devri Hakkında Yönetmeliğin hükümlerine de uygundur.
+
+Bu itibarla, mevzuatına uygun olduğu anlaşılan tahsis işlemleri ile ilgili olarak ilişilecek husus bulunmadığına,
+
+Üye ............... ’un; “5018 sayılı Kanununun 47 nci maddesi ve 5393 sayılı Kanunun 75 nci maddesi 1 nci fıkrası d bendi uyarınca belediye mülkiyetindeki taşınmazların amatör spor kulüplerine bedelsiz tahsili mümkün olmadığından oluşan kamu zararının sorumlulara ödettirilmesi şeklinde karar verilmesi gerekir.” şeklindeki ayrışık görüşüne karşı, çoğunlukla karar verildi.
