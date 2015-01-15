@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10426",
+  "decision_date": "2015-01-15",
+  "source_id": 9207,
+  "chamber": "1",
+  "ilam_number": "107",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9207/",
+  "source_sha256": "9b372cc7406d93ab718be44f4792edff81b584905d85405e6a9befac69885dba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
