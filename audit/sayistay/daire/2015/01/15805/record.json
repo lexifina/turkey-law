@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10423",
+  "decision_date": "2015-01-15",
+  "source_id": 15805,
+  "chamber": "1",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15805/",
+  "source_sha256": "210374fd910c86b360e954eb1c403e00ef0997d594636e6f0b91b8f6a3da8d21",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

@@ -1,0 +1,1 @@
+Asıl ilamın 10, 13 ve 17 nci maddelerine ilişkin .. tarih ve … nolu, … tarih ve … nolu, … tarih ve … nolu banka dekontları ile … tarih ve … nolu ödeme emri belgesiyle yapılan tahsilatlar hüküm tarihi …. sonrasına ait olduğundan, ilamın infazı niteliğindeki bu tahsilatlarla ilgili yapılacak bir işlem bulunmadığına, oy birliğiyle,
