@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.18480",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BAĞIMSIZ DENETİME TABİ OLACAK TARIM SATIŞ KOOPERATİF BİRLİKLERİNİN BELİRLENMESİNE DAİR TEBLİĞ",
+  "number": "18480",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2013/18480",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18480&MevzuatTertip=5",
+  "source_sha256": "dd3faf1ea82cfc4504f19b3a05530183249edeb78abf1f39ca176cf52fb0d203",
+  "source_bytes": 86393,
+  "published": "2013-06-14",
+  "gazette": "28677",
+  "in_force": "2015-01-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/1/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-01-17",
+      "RG-17/1/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-01-17",
+      "17/1/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ, denetime tabi birliğin içinde bulunduğu hesap döneminin başlangıç tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2270,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
