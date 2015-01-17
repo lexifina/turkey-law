@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-01-17",
+  "issue": "29239",
+  "edition": "regular",
+  "item": 16,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 413)’nin Yürürlükten Kaldırılmasına Dair Tebliğ (Sıra No: 444)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150117-16.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150117.htm",
+  "index_sha256": "68692bedeec4fb7dc2c325729707167d626b8fc947a582ce2e1df3fc3ed1c74f",
+  "index_header": "17 Ocak 2015 ... 29239 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150117.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
