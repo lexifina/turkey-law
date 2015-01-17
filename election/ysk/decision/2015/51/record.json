@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/51",
+  "list_number": "51",
+  "decision_date": "2015-01-17",
+  "title": "2820 sayılı Siyasi Partiler Kanunu'nun 37, Cumhuriyet Halk Partisi Tüzüğü'nün 58 ve Cumhuriyet Halk Partisi Milletvekili Aday Saptama Yönetmeliği'nin 12. maddelerine uygun olarak, yargı gözetim ve denetimi altında olmayıp eğilim yoklaması suretiyle tamamen parti örgütü tarafından sandık konularak belirlenen milletvekili adaylarının, %15 oranındaki merkez yoklaması kotasına dahil edilmemeleri gerektiğine ilişkin Yüksek Seçim Kurulunun 2015/51 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2274/2015-51.pdf",
+  "source_sha256": "3150460998feeaf91eb015ab7b1c75d7f6cce0f787090039fa9b1c76dcd8a61c",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 14,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-01-17",
+  "law_text_complete": false
+}
