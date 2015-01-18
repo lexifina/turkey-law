@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+MADDE 10 – (1) Danışma Kurulu; bilimsel araştırma ve uygulamalarla doğrudan ilgisi olan Üniversite öğretim elemanları ve Merkezin faaliyetleri ile ilgili önemli çalışmalar yapmış bilim adamları, araştırmacılar, sektör temsilcileri ve sanatçılar arasından Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıllığına görevlendirilen üyelerden oluşur. Müdür, Danışma Kurulunun başkanıdır. Danışma Kurulunun üye sayısı on beşten fazla olamaz.
+(2) Danışma Kurulu, başkanın daveti üzerine yılda en az bir kere toplanarak Merkezin çalışmaları ile ilgili değerlendirmeler yapar ve Yönetim Kuruluna önerilerde bulunur.
