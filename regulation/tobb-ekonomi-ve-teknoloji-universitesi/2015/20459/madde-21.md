@@ -1,0 +1,7 @@
+Ders kurulları yıl sonu notu ve sınıf geçme
+MADDE 21 – (1) Birinci, ikinci ve üçüncü sınıflarda sınıf geçmede sadece TIP kodlu ders kurullarında başarılı olma şartı aranır.
+(2) Ders kurulları yıl sonu notu, ders kurulları ağırlıklı ortalama notunun yüzde 60’ı ile yıl sonu genel sınavı notunun yüzde 40’ı toplanarak elde edilir.
+(3) Bütünlemeye kalan öğrencilerin yıl sonu notu hesaplanırken, yıl sonu bütünleme sınavı notu dikkate alınır.
+(4) Ders kurulları ağırlıklı not ortalaması 90 ve üzerinde olan öğrenciler isterlerse sınav tarihinden en az yedi gün önce yazılı olarak Dekanlığa başvurarak yıl sonu genel sınavına girmeyebilirler. Bu durumdaki öğrencilerin ders kurulları yıl sonu notu, ders kurulları ağırlıklı ortalama notudur. Ders kurulları ağırlıklı not ortalaması 90 ve üzerinde olan öğrencilerin yıl sonu genel sınavına girmeleri durumunda, bu sınavdan aldıkları not yıl sonu notunun hesaplanmasında esas alınır.
+(5) Öğrencinin bir üst sınıfa geçebilmesi için yıl sonu genel sınavı notunun en az 50, ders kurulları yıl sonu notunun en az 60 olması şarttır. Yıl sonu bütünleme sınavı notu 50’nin altında veya ders kurulları yıl sonu notu 60’ın altında olan öğrenciler, o yılın tüm ders kurulu programlarını bir kez daha tekrarlar ve sınavlara yeniden girerler.
+(6) Muafiyeti olmadığı halde yıl sonu genel sınavına girmeyen öğrenci, yıl sonu bütünleme sınavına da girmemesi halinde o yıl sınıfta kalır. Bu durumdaki öğrencinin ders kurulları ortalaması dikkate alınmaz.
