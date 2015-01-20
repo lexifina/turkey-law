@@ -1,0 +1,8 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Dilbilim, sözlükbilim, dil öğrenme, öğretme ve dil seviyesi ölçme yöntem ve teknikleri; özellikle ana dili ve yabancı dil olarak Arapça öğretimi, Arapça eğitim programları, Arapça seviyesinin ölçülmesi, Arap dili ve kültürü ile bunlara ilişkin eserler üzerine araştırmalar yapmak, bu konularda materyal ve ölçme-değerlendirme araçları geliştirmek.
+b) Kampüs içinde ve dışında, gerektiğinde İstanbul 29 Mayıs Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi ile işbirliği yaparak, Türk vatandaşı ve yabancı uyruklu Üniversite öğrencileri, personeli, mezunları ve toplumun her kesiminden insanların bu fıkranın (a) bendinde belirtilen alanlardaki ihtiyaçlarını karşılamalarına, bilgilerini arttırıp becerilerini geliştirmelerine katkı sağlayacak eğitim programları, kurs, seminer, çalıştay, ulusal ve uluslararası toplantılar düzenlemek, internet imkanlarından yararlanarak her yaşa ve çeşitli ilgi gruplarına yönelik elektronik eğitim programları hazırlayıp sunmak, Merkezce düzenlenen programlara katılanlara Üniversitenin yetkili organlarınca belirlenen usul ve esaslara göre belge vermek.
+c) Merkezin amaçlarıyla uyumlu konularda danışmanlık ve proje hizmetleri vermek, fiziki ve sanal ortamda yayınlar yapmak.
+ç) Dil seviyelerini ölçüp belgelendirmek.
+d) Gerektiğinde Merkezin faaliyet alanlarında Rektörlüğün onayını alarak kamu kuruluşları, özel kuruluşlar, sivil toplum örgütleri veya uluslararası kuruluşlarla işbirliği ve koordinasyon içerisinde çalışmalar yapmak.
+e) Merkezin amaçları doğrultusunda Yönetim Kurulunca önerilen ve Rektörlükçe uygun görülen diğer faaliyetleri gerçekleştirmek.
