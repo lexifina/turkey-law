@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39940",
+  "decision_date": "2015-01-20",
+  "source_id": 9520,
+  "chamber": "5",
+  "file_number": "36732",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9520/",
+  "source_sha256": "dfb9943cc480c8697d29c840710560d62dae20c07cc9e0db782ce6f17c9ebde1",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
