@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/57",
+  "list_number": "57",
+  "decision_date": "2015-01-20",
+  "title": "Siyasi partilerin genel merkez organlarında görev alan parti mensuplarının bağımsız milletvekili adayı olabilmek için partilerinden istifa etmelerine ve istifa etmeleri gereken tarihin belirlenmesine ilişkin Kurulumuzun 2015/57 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2272/2015-57.pdf",
+  "source_sha256": "def8725b949b366386767cc206e38fb022037e69875673b612685adfa6eaefff",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-01-20",
+  "law_text_complete": false
+}
