@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39939",
+  "decision_date": "2015-01-20",
+  "source_id": 9519,
+  "chamber": "4",
+  "file_number": "36525",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9519/",
+  "source_sha256": "a5d8cbed8f92afc3296cf866442983aaee1e96c3d269bc59b1f792bcd7165ea4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
