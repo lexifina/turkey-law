@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/66",
+  "list_number": "66",
+  "decision_date": "2015-01-21",
+  "title": "2820 sayılı Kanun'un Ek 7. maddesi uyarınca, siyasi partiler tarafından üyelik kayıtları için tutulması zorunlu olan üye kayıt defteri, sicil, dosya, defter ve kayıtların elektronik ortamda tutulabileceğine ilişkin Yüksek Seçim Kurulunun 2015/66 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2270/2015-66.pdf",
+  "source_sha256": "f0d73de1e58ad9642f2fd738a965ac493594dd916be597a4fb4717b67ff87219",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-01-21",
+  "law_text_complete": false
+}
