@@ -1,0 +1,4 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; Müdür, müdür yardımcısı veya yardımcıları ile İşbirliği ve Gelişim Mali Destek Programı tarafından desteklenmiş olan TR41/14/IG/0004 "Endüstriye Dayalı Mesleki Eğitim Merkezi" projesinde çalışan proje ekibi doğal üyeler olmak üzere; bilimsel ve teknolojik araştırma ve uygulamalarla doğrudan ilgisi olan ve sahip olduğu mesleki birikim ve deneyimlerinden yararlanılabilecek Üniversite içinden veya dışından Yönetim Kurulu tarafından önerilen ve Rektör tarafından görevlendirilen toplam en fazla onbeş kişiden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Görev süresi dolan üyeler yeniden görevlendirilebilir. Süreleri bitmeden ayrılan üyelerin yerine, kalan süreyi doldurmak üzere yenileri aynı yöntemle görevlendirilir.
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az iki defa toplanır.
+(3) Danışma Kurulu, üyelerin salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır.
