@@ -1,0 +1,3 @@
+Hakediş-mesai ücreti ve fiyat farkı
+
+…………. Şti. yükleniminde bulunan “…………….. Sekreterlik Hizmet Alımı” işi ile ilgili olarak yüklenici tarafından eksik personel çalıştırılmasına karşın çalışılmayan günler için mesai ücreti ve fiyat farkı ödenmesi sonucu …… TL kamu zararına sebebiyet verildiği belirtilmişse de, savunmalarda açıklanan gerekçelerle ve savunma ekinde gönderilen belgelerin incelenmesi sonucunda, eksik çalışılan günlerin fatura üzerinde gösterilerek toplam tutardan düşüldüğü; dolayısıyla firmaya bu günler için ödeme yapılmadığı anlaşıldığından konu hakkında ilişik bulunmadığına oybirliğiyle,
