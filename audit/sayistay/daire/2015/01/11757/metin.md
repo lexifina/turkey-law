@@ -1,0 +1,3 @@
+Harcırah
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ….. Belediyesi’nde görevli bulunan Başkan Yardımcısı ….., Plan Proje Müdür Vekili ….. ve Park Bahçeler Müdürü …..’nın, 25.12.2012 tarihinde ....’e yapmış oldukları inceleme gezisi sırasında, havaalanı ile görev mahalli arasındaki taksi ücreti dışında şehir içerisinde kullanmış oldukları taksi ücretlerinin de belediye bütçesinden karşılanması nedeniyle …..-TL tutarında kamu zararına neden olunduğu görülmüş ise de; söz konusu kamu zararının ...tarih ve ...no.lu tahsilat makbuzu ile tahsil edildiği anlaşıldığından, ilişilecek husus kalmadığına oy birliğiyle,
