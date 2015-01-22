@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5432/15",
+  "decision_date": "2015-01-22",
+  "title": "Motorin ve benzin türlerinde 31/12/2015 tarihine kadar “mangan içeriği” parametresinin aranmamasına ilişkin",
+  "categories": [
+    "Teknik Düzenleme Faaliyetleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S2hQhc42AfE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S2hQhc42AfE="
+  ],
+  "source_sha256": "734f3b0a63713ed3815d8a526aaba014e204325407d65086bf0d59580e30b0f0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4979,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-01-22",
+  "law_text_complete": false
+}
