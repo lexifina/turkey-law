@@ -1,0 +1,5 @@
+Sürekli görev yolluğu- yer değiştirme masrafı
+
+Üniversite personeline ait sürekli görev yolluklarının hesaplanmasında, yer değiştirme masrafına esas mesafelerin Karayolları Genel Müdürlüğünce belirlenen resmi mesafelerden daha fazla alınması sonucu toplam ….. TL kamu zararına sebebiyet verildiği belirtilmişse de, bu mesafelerin ………. Belediyesinden alınan tarifelere göre hesaplandığı anlaşılmıştır.
+
+6245 sayılı Harcırah Kanununun “Hesaba Esas Tutulacak Kilometre veya Deniz Mili” başlıklı 47 nci maddesinde, yer değiştirme masrafının hesabında iki mahal arasında mutat olan, gidip gelmeye elverişli en kısa kara veya deniz yolunun esas alınacağı ifade edilmiştir. Söz konusu harcırah beyannamelerinin incelenmesinde, kilometre hesabının ………. Belediyesince belirlenen tarifenin esas alınmak suretiyle belirlendiği ve ödemelerin bu tarifeye göre yapıldığı anlaşıldığından, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 71 inci maddesi bakımından kamu zararı oluşmadığı görüldüğünden ilişilecek bir husus bulunmadığına oybirliğiyle,
