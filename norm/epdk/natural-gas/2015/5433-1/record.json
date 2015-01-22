@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5433/1",
+  "decision_date": "2015-01-22",
+  "title": "Asfalt plenti tahsisi/hibesi",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hXNjGUjRmzs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hXNjGUjRmzs="
+  ],
+  "source_sha256": "4420ad9868cd1a2124a3ef4108d9a8a21fcb155b3da46a5277c6fbfe7737afac",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-01-22",
+  "law_text_complete": false
+}
