@@ -1,0 +1,5 @@
+Yabancı yatırım fonu paylarının satışına ilişkin Kurula yapılacak başvuru
+MADDE 25 – (1) Yabancı yatırım fonu paylarının halka arz edilerek veya halka arz edilmeksizin satışı için temsilci tarafından, yabancı yatırım fonu paylarının Türkiye’de satışına ilişkin fon izahnamesinin onaylanması talebiyle, izahname, yatırımcı bilgi formu ve Kurulca esasları belirlenen başvuru formu ile Kurulca istenen diğer bilgi ve belgelerle birlikte eksiksiz olarak Kurula başvurulması zorunludur. Kurul gerek gördüğü takdirde, fonun kurulu olduğu ülkedeki yetkili otoriteden fon ve fon yetkilileri hakkında görüş isteyebilir.
+(2) Yabancı yatırım fonu paylarının satışına ilişkin izahnamenin onaylanması başvurusu için gerekli bilgi ve belgeler Kurul tarafından belirlenir ve ilan edilir.
+(3) Birden çok portföyden oluşan fon başvurularında, her bir portföy bu Tebliğ kapsamında ayrı bir fon olarak değerlendirilir.
+(4) Bir banka tarafından yabancı yatırım fonu paylarının Türkiye’de satışına ilişkin izahnamenin onaylanması talebiyle Kurula başvurulması halinde Bankacılık Düzenleme ve Denetleme Kurumunun görüşü alınır.

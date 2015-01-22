@@ -1,0 +1,2 @@
+Yabancı yatırım fonları için kurul ücreti
+MADDE 34 – (1) Kanunun 130 uncu maddesinin üçüncü fıkrası uyarınca takvim yılı esas alınarak üçer aylık dönemlerin son iş gününde fon net varlık değerinin Türkiye’de satılan kısmına denk gelen büyüklüğün yüzbinde beşinin aynı gün itibarıyla açıklanan TCMB döviz satış kuru ile çarpılması suretiyle temsilci tarafından hesaplanan ücret, izleyen 10 iş günü içerisinde temsilci tarafından Kurul hesabına yatırılır ve ilgili dekontlar ile hesaplama tablosunun bir örneği Kurula iletilir.

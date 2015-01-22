@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Yabancı Ortaklıkların Kamuyu Aydınlatma ve Diğer Yükümlülükleri
+Kamuyu aydınlatma
+MADDE 13 – (1) Yabancı ortaklıklar, sermaye piyasası araçları benzer nitelikteki ve/veya borsanın aynı pazarında/platformunda işlem gören Türkiye’de yerleşik ortaklıkların tabi olduğu kamuyu aydınlatmaya ilişkin tüm yükümlülükleri bu maddede ve 14, 15 ve 16 ncı maddelerde farklılaştırılan haller dışında yerine getirmek zorundadır.
+(2) Yabancı sermaye piyasası araçlarının değerini, fiyatını veya yatırımcıların yatırım kararlarını etkileyebilecek nitelikteki bilgi, olay ve gelişmelerde yabancı ortaklık, yabancı ortak, depocu kuruluş ya da ilgili diğer taraflarca kamuya açıklanacak özel durumlar ile bunların açıklanma esaslarında benzer nitelikteki ve/veya borsanın aynı pazarında/platformunda işlem gören Türkiye’de yerleşik ortaklıkların tabi olduğu Kurulun ilgili düzenlemelerine uyulur. Yapılacak açıklamada, yurt dışında duyurulan açıklamanın yer aldığı internet sitesi hakkında bilgiye yer verilir. Özel durum açıklamalarının dili Türkçe’dir.

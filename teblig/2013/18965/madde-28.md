@@ -1,0 +1,3 @@
+Fon izahnamesi ve yatırımcı bilgi formunda yapılacak değişiklikler
+MADDE 28 – (1) İzahname ve yatırımcı bilgi formu ile halka açıklanan konularda satışa başlanmadan veya satış tarihinden itibaren ortaya çıkan ve bu Tebliğ hükümlerine aykırılık teşkil etmeyen değişikliklerin ve yeni hususların, temsilci tarafından en geç, bunların öğrenildiği tarihi izleyen iş günü Kurula bildirilmesi zorunludur. Yapılan değişiklikler, Kurul tarafından aksi belirtilmedikçe, bildirimin Kurul kaydına girdiği tarihi takip eden 10 iş günü içerisinde temsilcinin resmi İnternet sitesi ile KAP’ta ilan edilir.
+(2) İzahname değişikliklerinin bu Tebliğde yer alan hükümlere aykırılık teşkil etmesi halinde payların satışı Kurul tarafından gerekçe gösterilerek durdurulabilir.

@@ -1,0 +1,2 @@
+Türk parası kıymetini koruma mevzuatı çerçevesinde yapılan işlemlere ilişkin bildirim
+MADDE 33 – (1) Türkiye’de yerleşik kişilerin bu Tebliğ kapsamı dışında, Türk Parası Kıymetini Koruma Mevzuatı çerçevesinde, yabancı yatırım fonu payı alım satımlarına ilişkin bilgilerin, bu işlemlere aracılık eden kuruluşlar tarafından, Ek/5’te yer alan tablo çerçevesinde, her ay itibarıyla, ay sonunu izleyen altı iş günü içinde Kurula bildirilmesi zorunludur.

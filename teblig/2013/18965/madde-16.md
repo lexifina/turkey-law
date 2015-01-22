@@ -1,0 +1,4 @@
+Diğer sermaye piyasası mevzuatı düzenlemelerine uyum
+MADDE 16 – (1) Yabancı sermaye piyasası aracına bağlı mali ve yönetimsel haklar ile bunların kullanımı yabancı ortaklığın kurulduğu ülke mevzuatına tabidir. Bu haklara dair ülke düzenlemeleri ile bu hakların MKK düzenlemeleri çerçevesinde ne şekilde kullanılacağına ilişkin bilgiye izahnamede yer verilir.
+(2) Depo sertifikalarında yabancı paylara ilişkin oy hakkı, depo sertifikası sahiplerince talimat verilmedikçe depocu kuruluş tarafından vekil sıfatıyla resen kullanılamaz.
+(3) Yabancı ortaklıklar, Kurulun kâr dağıtımı ve kurumsal yönetime ilişkin düzenlemelerinden Kurulun gerekli gördüğü haller dışında muaftır. Ayrıca, zorunlu pay alım teklifi düzenlemelerine ilişkin olarak zorunlu pay alım teklifi doğuran koşullar açısından yatırımcı lehine olan ülke mevzuatı uygulanacaktır.

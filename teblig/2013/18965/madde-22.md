@@ -1,0 +1,3 @@
+Fon temsilcisi ve temsilcilik sözleşmesi
+MADDE 22 – (1) Fonun Türkiye'de bir temsilcisinin olması ve fon ile bu temsilci arasında asgari olarak Ek/3’te yer alan hususları içeren yazılı bir sözleşmenin imzalanması şarttır. Sözleşmenin sona ermesi halinde, bu sözleşmeden ve bu Tebliğden doğan tüm yükümlülükler yeni bir sözleşme imzalanması ve bu sözleşmenin Kurulca uygun görülmesine kadar devam eder.
+(2) Temsilcilerin kendi özel mevzuatları ve sermaye piyasası mevzuatı çerçevesinde faaliyetlerinin tamamen veya belirli faaliyet alanları itibarıyla sürekli veya son bir yıl içinde bir ay veya daha fazla süreyle geçici olarak durdurulması kararı verilmemiş olması gerekmektedir.

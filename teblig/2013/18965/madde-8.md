@@ -1,0 +1,3 @@
+İzahnamede yer verilecek hususlar
+MADDE 8 – (1) Yabancı sermaye piyasası aracı ve depo sertifikası halka arzında 7, 10, 11, 14, 15 ve 16 ncı maddelerde izahnamede yer almasının gerekli olduğu belirtilen hususlar ile EK/1’in 8, 9 ve 13 üncü maddelerindeki bilgilere izahnamede yer verilmesi, izahname ekinde ise EK/1’in 2, 3, 4, 5 ve 6 ncı maddelerinde yer alan ve Kurul’a sunulması talep edilen beyanlara yer verilmesi zorunludur.
+(2) İzahnamede, yabancı sermaye piyasası aracı için varsa, yurt dışında yayımlanan veya yayımlanacak izahname, duyuru ve diğer ilanların yayım yerleri hakkında bilgiye yer verilmesi zorunludur.
