@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "189",
+  "decision_date": "2015-01-22",
+  "source_id": 11774,
+  "chamber": "6",
+  "ilam_number": "193",
+  "item_number": 12,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11774/",
+  "source_sha256": "ccc321b660a0ad8c0e378946aa5da2395f20107c112648bb252bcd8b8386ec6b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
