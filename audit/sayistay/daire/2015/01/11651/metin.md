@@ -1,0 +1,3 @@
+Revize birim fiyat.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ….. Ltd.Şti.-…..Ltd.Şti. İş Ortaklığına 01.04.2013’de ihale edilen …..-TL Sözleşme Bedelli ….. Yağmur Suyu İnşaatı Yapım İşine ait 06.12.2013 tarihli 4 no.lu kesin hakedişte revize birim fiyat hesaplamalarının hatalı yapılması sonucu …..-TL tutarında kamu zararına neden olunduğu görülmüş ise de; söz konusu kamu zararının ilgilisinden ….. Bankasına ait ... tarih ve ... işlem numaralı dekont ile tahsil edildiği ve tahsil edilen tutarın ...tarih ve ...yevmiye numaralı muhasebe işlem fişi ile de gelir hesabına alındığı anlaşıldığından, ilişilecek husus kalmadığına oy birliğiyle,
