@@ -1,0 +1,13 @@
+{
+  "number": "15-04/51-24",
+  "type": "Rekabet İhlali",
+  "decision_date": "2015-01-22",
+  "publication_date": "2015-03-30",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=842c7240-41b1-494d-b0f3-2e0bc896f47a",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=452",
+  "pdf_sha256": "e8f1463802d2e1672dc4ddd9c97f06c3dc4f4ac167821e8bf60cf64309d19da9",
+  "pdf_bytes": "256376",
+  "pages": "10",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
