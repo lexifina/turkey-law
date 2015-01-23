@@ -1,0 +1,2 @@
+year,number,published,title,source,source_sha256,representation,act_path,words,omitted_sections,note
+2015,72,2015-01-23,Kurul’un 23.01.2015 Tarih ve 2/32 Sayılı Kararı,https://mevzuat.spk.gov.tr/api/IlkeKarari/File/72,08f7f3af9c0cf206d57145a72a70ea8bac33f35e5d1f8cf69d78aac57401b9b5,regulatory-text,norm/spk/principle/2015/72,93,,whole official standalone text; decision date independently present in PDF
