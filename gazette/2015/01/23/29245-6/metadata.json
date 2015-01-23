@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-01-23",
+  "issue": "29245",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Özelleştirme İdaresi Başkanlığının 21/1/2015 Tarihli ve 2015/ÖİB-K-01 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150123-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150123.htm",
+  "index_sha256": "0f27c21eb065602ca5f2939eaa3c6a0cb933396c48cdf2db79257cac62eeaf66",
+  "index_header": "23 Ocak 2015 ... 29245 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150123.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
