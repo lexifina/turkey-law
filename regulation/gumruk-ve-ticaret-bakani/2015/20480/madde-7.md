@@ -1,0 +1,2 @@
+Sözleşmede bulunması gereken şartların eksikliği
+MADDE 7 – (1) Abonelik sözleşmesinde, 6 ncı maddede yer alan hususlardan bir veya birkaçının bulunmaması sözleşmenin geçerliliğini etkilemez ve bu durumda, satıcı veya sağlayıcı malın teslimini veya hizmetin ifasını durduramaz. Sözleşmedeki eksiklik, sözleşmeyi düzenleyen tarafından tüketiciden ilave bir ödemede bulunmasını istemeksizin derhal giderilir. Aksi takdirde, tüketici cezai şart, tazminat ve benzeri adlarla herhangi bir ödemede bulunmaksızın sözleşmeyi feshedebilir.

@@ -1,0 +1,6 @@
+Feshin sonuçları
+MADDE 25 – (1) Satıcı veya sağlayıcı, abonelik sözleşmesinin feshedildiği bilgisini yazılı olarak veya kalıcı veri saklayıcısı ile tüketiciye bildirmekle yükümlüdür.
+(2) Aboneliğin belirlenen süreler içinde feshedilmediği durumlarda, bu sürelerin bitiminden itibaren mal veya hizmetten yararlanılmış olsa dahi, tüketiciden herhangi bir bedel talep edilemez.
+(3) Satıcı veya sağlayıcı, fesih bildiriminin hüküm ifade etmesinden itibaren on beş gün içinde tüketici tarafından ödenmiş olan tutarın geri kalan kısmını ve varsa tüketiciden güvence, depozito veya teminat adı altında alınan ücretlerin güncel tutarlarını kesinti yapmaksızın iade etmekle yükümlüdür.
+(4) Satıcı veya sağlayıcı, fesih bildiriminin hüküm ifade ettiği tarihe kadar olan dönem için tüketime konu bedele ilişkin ödeme bildirimini, fesih bildiriminin hüküm ifade etmesinden itibaren on gün içinde tüketiciye göndermek zorundadır. Ancak, elektronik haberleşme sektöründe faaliyet gösteren sağlayıcılar için bu süre dört aya kadar uzatılabilir.
+(5) Satıcı veya sağlayıcı, üçüncü ve dördüncü fıkralarda belirtilen yükümlülükleri yerine getirirken tüketiciye ilave bir maliyet yüklemeden mahsuplaşma yöntemini de kullanabilir.

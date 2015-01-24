@@ -1,0 +1,3 @@
+Ödeme bildirimine itiraz
+MADDE 21 – (1) Tüketiciler, ödeme bildiriminde yer alan tutarın hatalı olduğu gerekçesiyle bildirimin düzenlendiği tarihten itibaren bir yıl içerisinde itiraz edebilir. İtiraz, satıcı veya sağlayıcı tarafından başvurunun yapıldığı tarihten itibaren en geç otuz gün içerisinde incelenerek sonuçlandırılır ve inceleme sonuçları tüketiciye yazılı olarak veya kalıcı veri saklayıcısı ile bildirilir.
+(2) İnceleme sonucuna göre itirazın haklı bulunması halinde, itiraza konu tüketim bedeline dair fazla tahsil edilen bedel, kullanım dönemindeki birim fiyat dikkate alınarak gecikme zammı ile birlikte tüketicinin tercih etmesi halinde bir sonraki tüketim dönemine ait bedelden mahsup edilir veya tüketiciye beş gün içinde iade edilir.
