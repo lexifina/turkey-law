@@ -1,0 +1,5 @@
+Komisyon kuruluş ve işleyiş esasları
+MADDE 11 – (1) Komisyon, mahalli mülki amirin onayı ile illerde il müdürü veya görevlendirilen il müdür yardımcısı başkanlığında, ilçelerde ise ilçe müdürü başkanlığında, biri vakadan sorumlu olmak üzere en az dört sosyal çalışma görevlisinden, sayının yetersiz olması halinde iki sosyal çalışma görevlisinden oluşur.
+(2) Komisyona, koruyucu aile hizmetine ilişkin sosyal çalışma görevlisi veya çocukla ilgili diğer uzmanlar tarafından kendi uzmanlık alanlarıyla ilgili konularda hazırlanan raporlar sunulur. Komisyon ihtiyaç duyduğu kişileri dinleyebilir. Vaka süreci ve çocuğun üstün yararı doğrultusunda karar verilir. Kararlar oy çokluğu ile alınır. Gerekli görülmesi halinde tekrar inceleme yapılmasına karar verilebilir.
+(3) İhtiyaç duyulması halinde birden çok komisyon oluşturulabilir.
+(4) Koruyucu aile hizmetinin etkin ve verimli yürütülebilmesi için sekretarya işlemleri il (Mülga ibare:RG-24/1/2015-29246) (…) müdürlüklerindeki koruyucu aile birimlerince yürütülür, komisyon için uygun koşullara sahip çalışma ortamları oluşturulur.

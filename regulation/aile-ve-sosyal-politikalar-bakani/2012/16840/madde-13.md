@@ -1,0 +1,3 @@
+İtiraz
+MADDE 13 – (1) Koruyucu aile başvurusunun reddedilmesine, askıya alınmasına veya işlemden kaldırılmasına ilişkin işlemler, il veya ilçe müdürlüğü tarafından başvuru sahiplerine yazılı olarak tebliğ edilir.
+(2) Bu işlemlere karşı tebliğ tarihinden itibaren ilgili kişi veya aile tarafından onbeş gün içinde il (Mülga ibare:RG-24/1/2015-29246) (…) müdürlüğüne itiraz edilebilir. İtiraz, ilk kararı veren kişiler dışında mahalli mülki amirin onayı ile il müdürlüğünce oluşturulacak bir başka komisyon tarafından görüşülerek en geç bir ay içinde karara bağlanır. Karar itiraz edene yazılı olarak tebliğ edilir.

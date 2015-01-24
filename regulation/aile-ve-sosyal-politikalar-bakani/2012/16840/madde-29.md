@@ -1,0 +1,3 @@
+Düzenlenecek belgelerin şekli
+MADDE 29 – (1) Koruyucu aile hizmetinin işleyişinde ihtiyaç duyulacak koruyucu aile sözleşmesi, yerleştirme ve sonlandırma formları ile sürecin her aşamasında kullanılacak benzeri belgelerin şekil, standart ve içerikleri ilgili mevzuata uygun olarak Genel Müdürlük tarafından belirlenerek ilgili birimlere duyurulur.
+(2) Hizmet sürecinde, Genel Müdürlük tarafından geliştirilen standart formlar kullanılır. Hizmete ilişkin bilgiler ve değişiklikler zamanında bilişim sistemine yansıtılır. Formlar ve düzenli istatistikî bilgiler, il müdürlüğü tarafından Genel Müdürlüğe belirtilen zamanlarda gönderilir.

@@ -1,0 +1,5 @@
+İzin
+MADDE 17 – (1) Koruyucu aile yanına yerleştirilen çocuk, dosya bilgileri ve yapılan sosyal inceleme sonucuna göre uygun bulunması ve çocuğun istemesi halinde yaşantısını etkilemeyecek aralıklarla ve sürelerle, tatil günlerinde olmak üzere yıl içerisinde en fazla otuz güne kadar öz ailesine izinli verilebilir. İzinli verilen çocuk, koruyucu aileden öz ailesine veya yakınlarına verilmek üzere koruyucu aile birimince alınır ve izin bitiminde aynı yöntemle koruyucu aileye verilir.
+(2) İzinli verilen çocuklar için izin tutanağı doldurulur ve bir sureti dosyasında saklanır, diğer sureti izinli verilen kişiye teslim edilir.
+(3) İzin sırasında veya dönüşünde çocuğun ihmal edildiği, istismara uğradığı ya da kötü muamele gördüğünün belirlenmesi hallerinde durum hakkında tutanak düzenlenir, gerekli mesleki çalışmalar yapılır, planlanarak uygulanır, izinli verilen kişi hakkında yasal işlemlerin başlatılması için gerekli başvurular yapılır, çocuk bir daha bu kişiye izinli verilmez ve hakkındaki hizmet planı yeniden değerlendirilir.
+(4) İzin süresi biten çocuğun koruyucu aile birimine getirilmemesi halinde çocuk, kollukla birlikte bulunduğu adresten hemen geri alınır.

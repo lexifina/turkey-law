@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetler Kanununun 22 nci ve 23 üncü maddeleri ile 3/6/2011 tarihli ve 633 sayılı Aile ve Sosyal Politikalar Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 2 nci maddesinin birinci fıkrasının (c) ve (d) bentleri, 8 inci maddesinin birinci fıkrasının (ç), (d) ve (ı) bentleri, 22 nci maddesinin birinci fıkrasının (d) bendi ile 28 inci ve geçici 6 ncı maddelerine dayanılarak hazırlanmıştır.

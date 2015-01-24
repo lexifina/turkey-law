@@ -1,0 +1,3 @@
+Araştırma ve inceleme
+MADDE 9 – (1) Başvurusu kabul edilenler hakkında kişilik özellikleri, evlilik ve sosyal ilişkileri, tek başına yaşayıp yaşamadığı, yaşantısının genel kabul görmüş toplum kural ve değerlerine uygun olup olmadığı, çocuk yetiştirme konusundaki yeterliliği, yaşları, diğer aile üyelerinin bu konudaki düşünceleri, iş ve ekonomik koşulları gibi çocuk ile koruyucu aile ilişkileri açısından önem taşıyan temel mesleki değerlendirme hususları dikkate alınarak sosyal inceleme yapılır.
+(2) Sosyal inceleme sonucunda koruyucu ailenin 4 üncü maddede tanımlanan hizmet modellerinden hangisine uygun olduğu belirlenir, hazırlanan dosya komisyona sunulur.
