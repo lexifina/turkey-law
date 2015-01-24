@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-01-24",
+  "issue": "29246",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Karayolu Dışında Kullanılan Hareketli Makinalara Takılan İçten Yanmalı Motorlar ile İlgili Tip Onayı Yönetmeliğinin Uygulama Usul ve Esasları Hakkında Tebliğ (No: SGM-2014/41)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150124-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150124.htm",
+  "index_sha256": "504342e71b0c35571f63cbd706d814a8cbfbfd80def66d326fca27519486e886",
+  "index_header": "24 Ocak 2015 ... 29246 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150124.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
