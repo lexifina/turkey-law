@@ -1,0 +1,2 @@
+Danışma Kurulunun görevleri
+MADDE 13 – (1) Danışma Kurulunun görevi; Merkezin faaliyetleri ve faaliyet alanlarına giren diğer tüm konularda görüş bildirmek, ilgili proje önerilerinde bulunmak, projelerin geliştirilmesine yardımcı olmak, tasarım ve yaratıcı endüstriler üzerine çalışan kişilerin Merkeze destek olmasını sağlamak, belirli konularda Yönetim Kuruluna yardımcı olmak üzere çalışmalar yapmak ve Merkezin elindeki kaynakların geliştirilmesi için destek olmaktır.
