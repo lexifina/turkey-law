@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-01-27",
+  "issue": "29249",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "HÂKİMLER VE SAVCILAR YÜKSEK KURULU KARARI",
+  "title": "Hâkimler ve Savcılar Yüksek Kuruluna Ait Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150127-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150127.htm",
+  "index_sha256": "1b7202af86560e36274d26ce1a8846d5165cc0427c4b4c387a1a9efa13fd1ee4",
+  "index_header": "27 Ocak 2015 ... 29249 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150127.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
