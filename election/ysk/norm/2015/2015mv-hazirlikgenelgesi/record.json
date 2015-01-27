@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2015/2015mv-hazirlikgenelgesi",
+  "genelge_number": "-",
+  "decision_date": "2015-01-27",
+  "title": "25. Dönem Milletvekili Genel Seçimi - Seçime Hazırlık Genelgesi",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1845/2015MV-HazirlikGenelgesi.pdf",
+  "source_sha256": "d417776488f5bb6a3843e583b59ec203fcae9b78b4f649d088127c271316069c",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2015-01-27",
+  "law_text_complete": false
+}
