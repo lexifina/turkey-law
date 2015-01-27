@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39964",
+  "decision_date": "2015-01-27",
+  "source_id": 9544,
+  "chamber": "3",
+  "file_number": "39123",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9544/",
+  "source_sha256": "67798d4237024b8bb1b632d93a86103ae360887f83e664d6d17a89a3abe208ab",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
