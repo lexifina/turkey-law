@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39963",
+  "decision_date": "2015-01-27",
+  "source_id": 9543,
+  "chamber": "3",
+  "file_number": "39121",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9543/",
+  "source_sha256": "e7767fd3ba29cc5fcf4d485feab34a9e01e25c9d77d05a7c2adc3509ddda8095",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
