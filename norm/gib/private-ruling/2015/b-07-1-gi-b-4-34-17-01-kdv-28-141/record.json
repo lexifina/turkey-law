@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-01-28T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-01-28",
+  "official_number": "B.07.1.GİB.4.34.17.01-KDV.28-141",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30123",
+  "source_id": "ozelge:30123",
+  "source_row_sha256": "2a2c6fa873eb327ce8811f308f6b8da383680bba0b29a1ce442fb87bcaf518d2",
+  "title": "Riskli yapı raporu alınan bina ve yanındaki parsellerin tevhid edilerek bina inşa edilmesi durumunda inşa edilecek bina tesliminde uygulanacak KDV oranı",
+  "version_label": "as-enacted",
+  "word_count": 636
+}
