@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; işyeri hekimliği ve iş güvenliği uzmanlığı eğitici belgesine ve pedagojik formasyon eğitimine sahip Üniversitenin öğretim üyeleri arasından, Üniversite Yönetim Kurulunca önerilen adaylar arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdürün altı aydan fazla görevi başında bulunmaması durumunda görevi sona erer.
+(2) Müdür, Yönetim Kurulu üyeleri arasından iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür yardımcısı, Müdürün bulunmadığı durumlarda Müdüre vekalet eder ve görev süresi üç yıldır. Müdürün görev süresi bitince, yardımcısının da görevi sona erer.
