@@ -1,0 +1,76 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 809097,
+  "assembly": "TBMM",
+  "term": 24,
+  "heading": "KANUN TEKLİFLERİ",
+  "heading_as_published": "Kanun Teklifleri",
+  "name": "MÜLKİYE BİRTANE (KARS)",
+  "summary": "Ve Ankara Milletvekili Emine Ülker Tarhan ve Kocaeli Milletvekili Mehmet Hilal Kaplan'ın Benzer Mahiyetteki Kanun Teklifleri ile Maden Kanunu ile Bazı Kanunlarda Değişiklik Yapıl-masına Dair Kanun Tasarısı (2/423, 2/2309, 2/2481, 1/1012) (S. Sayısı: 683)",
+  "title": "Ve Ankara Milletvekili Emine Ülker Tarhan ve Kocaeli Milletvekili Mehmet Hilal Kaplan'ın Benzer Mahiyetteki Kanun Teklifleri ile Maden Kanunu ile Bazı Kanunlarda Değişiklik Yapıl-masına Dair Kanun Tasarısı (2/423, 2/2309, 2/2481, 1/1012) (S. Sayısı: 683)",
+  "first_sitting_date": "2015-01-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 101,
+      "sitting": 48,
+      "sitting_date": "2015-01-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c101/tbmm24101048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c101/tbmm24101fih.pdf",
+      "pages": [
+        "632:663"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=5&v_cilt="
+    },
+    {
+      "cilt": 101,
+      "sitting": 49,
+      "sitting_date": "2015-01-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c101/tbmm24101049.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c101/tbmm24101fih.pdf",
+      "pages": [
+        "803:825",
+        "829:906"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=5&v_cilt="
+    },
+    {
+      "cilt": 101,
+      "sitting": 50,
+      "sitting_date": "2015-02-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c101/tbmm24101050.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c101/tbmm24101fih.pdf",
+      "pages": [
+        "1103:1116"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=5&v_cilt="
+    },
+    {
+      "cilt": 102,
+      "sitting": 51,
+      "sitting_date": "2015-02-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c102/tbmm24102051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c102/tbmm24102fih.pdf",
+      "pages": [
+        "35:58",
+        "59:69",
+        "90:107"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=5&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20TEKL%DDFLER%DD&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20TEKL%DDFLER%DD&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "64b752a3854991d4a21ad65465a287c61e4b3fad8bdeb2ddfff381023de43a3b",
+  "in_force": "2015-01-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
