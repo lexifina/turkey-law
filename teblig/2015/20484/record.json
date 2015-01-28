@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20484",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2015/1)",
+  "number": "20484",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2015/20484",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20484&MevzuatTertip=5",
+  "source_sha256": "650b7d0d1a3ccbcb1866424c27853603840ebb74b9c935061e83be144dd72f62",
+  "source_bytes": 13492,
+  "published": "2015-01-28",
+  "gazette": "29250",
+  "in_force": "2015-01-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.01.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 551,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20484-ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
