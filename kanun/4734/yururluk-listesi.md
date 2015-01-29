@@ -42,3 +42,4 @@ Anayasa Mahkemesi 27/9/2012 tarihli ve E:2012/20, K:2012/132 | 65 | 26/7/2013
 Anayasa Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/104, K.: 2013/87 sayılı Kararı | 62 | 10/12/2013 tarihinden başlayarak altı ay sonra (10/6/2014)
 6518 | 54, Ek Madde 7, Geçici Madde 14, Geçici Madde 15 53 38, 43 3, 10, 63, Geçici Madde 4 | 19/2/2014 19/2/2014 tarihinden otuz gün sonra 19/2/2014 tarihinden doksan gün sonra 19/2/2014 tarihinden yüz seksen gün sonra
 6552 | Geçici Madde 16 62, Ek Madde 8 | 11/9/2014 11/9/2014 tarihinden dört ay sonra (11/1/2015)
+2015/1 Numaralı Tebliğ | 3, 8, 13, 21, 22, 53, 62, 67 | 1/2/2015
