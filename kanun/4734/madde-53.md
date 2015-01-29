@@ -65,7 +65,7 @@ Kurul Başkan ve üyeliklerine atananlardan atama yapılmadan önce kanunla kuru
 ––––––––––––
 (1) 20/11/2008 tarihli ve 5812 sayılı Kanunun 20 nci maddesiyle; bu paragrafın başına “Kamu ihale uzmanlığı hariç olmak üzere” ibaresi eklenmiş ve metne işlenmiştir.
 8255
-j) Kurumun gelirleri aşağıda belirtilmiştir:
+j) Kurumun gelirleri aşağıda belirtilmiştir:(1)
 1) (Değişik: 30/7/2003-4964/32 md.) Bu Kanun kapsamında yapılan ihalelere ilişkin düzenlenecek sözleşmelerden, bedeli yüzmilyar Türk Lirasını aşanlar için yükleniciden tahsil edilecek sözleşme bedelinin onbinde beşi. (İdareler ve noterler bu tutarın yüklenici tarafından Kurum hesaplarına yatırıldığını sözleşmelerin imzalanması aşamasında aramak zorundadır.)
 2) (Değişik: 6/2/2014-6518/49 md.) Yaklaşık maliyeti beş yüz bin Türk Lirasına kadar olan ihalelerde üç bin Türk Lirası, beş yüz bin Türk Lirasından iki milyon Türk Lirasına kadar olanlarda altı bin Türk Lirası, iki milyon Türk Lirasından on beş milyon Türk Lirasına kadar olanlarda dokuz bin Türk Lirası, on beş milyon Türk Lirası ve üzerinde olanlarda on iki bin Türk Lirası tutarındaki itirazen şikâyet başvuru bedeli.
 3) Eğitim, kurs, seminer ve toplantı faaliyetlerinden elde edilecek gelirler.
@@ -77,4 +77,6 @@ Kurumun mal ve varlıkları Devlet malı sayılır, haczedilemez, rehnedilemez. 
 k) Kurumun giderleri, Kurul kararıyla yürürlüğe giren yıllık bütçeye göre yapılır. Kurumun bütçe yılı takvim yılıdır. Bütçe, bütçe yılının başlamasından önceki otuz gün içinde hazırlanır.
 Kurumun bütçe uygulama sonuçlarına ilişkin yıllık malî raporu ve bütçe kesin hesabı Bakanlar Kurulu Kararı ile ibra edilir.
 Kurumun yıllık hesapları ile gelir ve harcamalarına ilişkin iş ve işlemleri, Sayıştay denetimine tâbidir.
+________________
+(1) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2015 tarihinden itibaren uygulanması ile ilgili olarak, 29/1/2015 tarihli ve 29251 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2015/1 No.’lu Kamu İhale Tebliğine bakınız.
 8256

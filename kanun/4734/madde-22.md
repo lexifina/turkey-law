@@ -5,7 +5,7 @@ a) İhtiyacın sadece gerçek veya tüzel tek kişi tarafından karşılanabilec
 b) Sadece gerçek veya tüzel tek kişinin ihtiyaç ile ilgili özel bir hakka sahip olması.
 c) Mevcut mal, ekipman, teknoloji veya hizmetlerle uyumun ve standardizasyonun sağlanması için zorunlu olan mal ve hizmetlerin, asıl sözleşmeye dayalı olarak düzenlenecek ve toplam süreleri üç yılı geçmeyecek sözleşmelerle ilk alım yapılan gerçek veya tüzel kişiden alınması.
 –––––––––––––––––––––
-(1) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2013 tarihinden itibaren uygulanması ile ilgili olarak, 30/1/2013 tarihli ve 28544 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2013/1 No.’lu Kamu İhale Tebliğine bakınız.
+(1) Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2015 tarihinden itibaren uygulanması ile ilgili olarak, 29/1/2015 tarihli ve 29251 sayılı Resmi Gazete’de yayımlanan Kamu İhale Kurumunun 2015/1 No.’lu Kamu İhale Tebliğine bakınız.
 8238-1
 d) Büyükşehir belediyesi sınırları dahilinde bulunan idarelerin onbeş milyar, diğer idarelerin beşmilyar Türk Lirasını aşmayan ihtiyaçları ile temsil ağırlama faaliyetleri kapsamında yapılacak konaklama, seyahat ve iaşeye ilişkin alımlar. (1)
 e) İdarelerin ihtiyacına uygun taşınmaz mal alımı veya kiralanması.
