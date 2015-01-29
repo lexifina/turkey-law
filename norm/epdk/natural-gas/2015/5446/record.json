@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5446",
+  "decision_date": "2015-01-29",
+  "title": "Aksa Tokat Amasya Doğal Gaz Dağıtım A.Ş.?nin 2012-2016 tarife döneminde uygulayacak olduğu perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2015-01-31",
+  "resmi_gazete_number": "29253",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xxw8CJErgoo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xxw8CJErgoo=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eDQQEPo0JU8="
+  ],
+  "source_sha256": "dd4c837c422704cc9212c1fc4c88d8b03f6018ba4f7e990493f6f2a9d8f3659c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-01-29",
+  "law_text_complete": false
+}
