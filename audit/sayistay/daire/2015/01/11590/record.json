@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10429",
+  "decision_date": "2015-01-29",
+  "source_id": 11590,
+  "chamber": "1",
+  "ilam_number": "156",
+  "item_number": 17,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11590/",
+  "source_sha256": "f4e8954a66dbb38aaeed6ba21acc3b65e98c721efba3ae574c35643372e8f082",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
