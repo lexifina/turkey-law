@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10429",
+  "decision_date": "2015-01-29",
+  "source_id": 11594,
+  "chamber": "1",
+  "ilam_number": "156",
+  "item_number": 19,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11594/",
+  "source_sha256": "edd9ca9946a1496cd86f9459cf8619700711ddeacba6756e7a8855d35f592ab5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
