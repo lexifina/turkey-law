@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "30",
+  "decision_date": "2015-01-29",
+  "source_id": 9224,
+  "chamber": "7",
+  "ilam_number": "175",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9224/",
+  "source_sha256": "01abdcba049c26730c9ead1c60b1ce865825cc5945d091b6a189cf11de6abfa3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
