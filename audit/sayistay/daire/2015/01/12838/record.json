@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "30",
+  "decision_date": "2015-01-29",
+  "source_id": 12838,
+  "chamber": "7",
+  "ilam_number": "175",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12838/",
+  "source_sha256": "f374a5ac640a5d14d227b59917ab2b73fdd6026a16a2c844ee4c32903c97c151",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
