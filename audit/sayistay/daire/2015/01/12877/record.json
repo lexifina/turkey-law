@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "30",
+  "decision_date": "2015-01-29",
+  "source_id": 12877,
+  "chamber": "7",
+  "ilam_number": "175",
+  "item_number": 10,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12877/",
+  "source_sha256": "e883706a05719b2f090f7348ecacc718bcd5936d15f2acc3ac38a1bee506eb2a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
