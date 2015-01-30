@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/82",
+  "list_number": "82",
+  "decision_date": "2015-01-30",
+  "title": "25. Dönem Milletvekili Genel Seçimi yasaklarına uyulmak kaydıyla oy verme günü olan 7 Haziran 2015 Pazar günü saat 18.00'den itibaren düğün yapılabileceğine ilişkin Yüksek Seçim Kurulunun 2015/82 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2268/2015-82.pdf",
+  "source_sha256": "cc050acd532d6e93ff87f1026d11fde7db912c81ee0a197192d5fbd16efb7304",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-01-30",
+  "law_text_complete": false
+}
