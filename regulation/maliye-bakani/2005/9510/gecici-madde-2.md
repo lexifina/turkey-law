@@ -1,0 +1,1 @@
+Geçici Madde 2 — Kanunun Geçici 5 inci maddesi hükmünce sertifika eğitimi ve sınavına tabi tutulmadan iç denetçi olarak atanan denetim elemanlarına, iç denetim sisteminin uygulanmasına yönelik iç denetim sertifika programında yer alan eğitim konularını ihtiva edecek şekilde Maliye Bakanlığınca üç ay eğitim verilir.

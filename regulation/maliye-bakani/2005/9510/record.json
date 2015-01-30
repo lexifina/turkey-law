@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.9510",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İÇ DENETÇİ ADAYLARI BELİRLEME, EĞİTİM VE SERTİFİKA YÖNETMELİĞİ",
+  "number": "9510",
+  "issuer": "Maliye Bakanı",
+  "issuer_slug": "maliye-bakani",
+  "path": "regulation/maliye-bakani/2005/9510",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9510&MevzuatTertip=5",
+  "source_sha256": "792d0e1816f423dcf1ccff9e2c3a7135a6a5374d141117f30b83f881da1305f3",
+  "source_bytes": 42195,
+  "published": "2005-10-08",
+  "gazette": "25960",
+  "in_force": "2015-01-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/1/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-01-30",
+      "RG-30/1/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-01-15",
+      "RG-15/1/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-04-03",
+      "RG-3/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-02-18",
+      "RG-18/2/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-06-16",
+      "RG-16/6/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-12-20",
+      "RG-20/12/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1673,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
