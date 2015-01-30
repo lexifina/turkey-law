@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-01-30",
+  "issue": "29252",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "2015/7191 Türk Silahlı Kuvvetleri, Millî İstihbarat Teşkilatı ve Emniyet Genel Müdürlüğü Taşınır Mal Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150130-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150130.htm",
+  "index_sha256": "669b4f3d120d16372fea65ccc7fb50735e77c247a590182cefedfd2859d16264",
+  "index_header": "30 Ocak 2015 ... 29252 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/01/20150130.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
