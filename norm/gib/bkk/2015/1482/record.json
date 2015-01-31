@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2015/7205",
+  "source_id": 1482,
+  "date": "2015-01-31",
+  "title": "MAL VE HİZMETLERE UYGULANACAK KATMA DEĞER VERGİSİ ORANLARININ TESPİTİNE İLİŞKİN KARARDA DEĞİŞİKLİK YAPILMASINA DAİR KARAR",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/bkk/1482",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "905622de23479832c43c9107ffdb15f667919e714bab07f1b32e85ca2accc5db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
