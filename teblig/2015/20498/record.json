@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.20498",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 445)",
+  "number": "20498",
+  "path": "teblig/2015/20498",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20498&MevzuatTertip=5",
+  "source_sha256": "06b3200541120b6fd2a5f66e2bfcfa02246644eab5cc55f9e439c3d3961bf02f",
+  "source_bytes": 8458,
+  "published": "2015-01-31",
+  "gazette": "29253",
+  "in_force": "2015-01-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.01.2015)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 191,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20498-EK.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
