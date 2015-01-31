@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.20497",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 288)",
+  "number": "20497",
+  "path": "teblig/2015/20497",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20497&MevzuatTertip=5",
+  "source_sha256": "c895c9b317f79e4e85596a02caea469a64471f70dbeb131f6b05c23352693b32",
+  "source_bytes": 10218,
+  "published": "2015-01-31",
+  "gazette": "29253",
+  "in_force": "2015-01-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.01.2015)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 366,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
