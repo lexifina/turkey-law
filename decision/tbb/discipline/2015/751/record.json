@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "751",
+  "date": "2015-01-31",
+  "title": "T. 31.01.2015 E. 2014/858 K. 2015/104",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/751",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=13&yil=2015",
+  "listing_sha256": "78ec6a08edb5f7779f080303069408d14decbe10ac5d924a73fc06509c9884db",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
