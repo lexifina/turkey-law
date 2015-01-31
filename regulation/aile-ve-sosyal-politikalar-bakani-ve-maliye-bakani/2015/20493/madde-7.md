@@ -1,0 +1,5 @@
+Harçlığın ödenmesi
+MADDE 7 – (1) Bakanlık tarafından; Bakanlık sosyal hizmet kuruluşlarında kalan engelli ve yaşlıların harçlıkları için gerekli ödenek ilgili kuruluşa; Darülaceze Müessesesinde, Bakanlıkça yardım yapılmak suretiyle desteklenen resmî sosyal hizmet kuruluşlarında ve özel sosyal hizmet kuruluşlarında kalan engelli ve yaşlıların harçlıkları için gerekli ödenek ilgili il müdürlüğüne gönderilir.
+(2) Para kavramı gelişmiş ve parasını koruyabilen engelli ve yaşlıların harçlıkları kendilerine elden verilir veya talepleri halinde adlarına bir kamu bankasında açılacak hesaba yatırılır.
+(3) Kuruluşta yapılacak değerlendirme neticesinde; para kavramının gelişmediğine veya parasını koruyamayacağına karar verilen engellilerin ve yaşlıların harçlıkları, kuruluş tarafından bir kamu bankasında açılacak özel hesaba yatırılır.
+(4) Kuruluş tarafından harçlık ödemesine başlanan veya vefat haricinde harçlığı kesilen engelli ve yaşlılara ait bilgiler, on iş günü içinde, adrese dayalı nüfus kayıt sisteminde bağlı oldukları sosyal yardımlaşma ve dayanışma vakfına resmi yazı ile bildirilir.
