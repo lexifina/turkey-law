@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "749",
+  "date": "2015-01-31",
+  "title": "T. 31.01.2015 E. 2014/839 K. 2015/99",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/749",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=12&yil=2015",
+  "listing_sha256": "99a9951cf760be5ee103068671cec7f7c421e0abcbb83cd3768d56b984984fb1",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
