@@ -1,0 +1,21 @@
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Acil durum: Toplumun tamamının veya belli kesimlerinin normal hayat ve faaliyetlerini durduran veya kesintiye uğratan ve acil müdahaleyi gerektiren olayları ve bu olayların oluşturduğu kriz halini,
+b) Afet: Toplumun tamamı veya belli kesimleri için fiziksel, ekonomik ve sosyal kayıplar doğuran, normal hayatı ve insan faaliyetlerini durduran veya kesintiye uğratan, etkilenen toplumun baş etme kapasitesinin yeterli olmadığı doğal, teknolojik veya insan kaynaklı olayları,
+c) Başkan: Afet ve Acil Durum Yönetimi Başkanını,
+ç) Başkanlık: Afet ve Acil Durum Yönetimi Başkanlığını,
+d) Büyükşehir belediyesi: Sınırları il mülki sınırı olan ve sınırları içerisindeki ilçe belediyeleri arasında koordinasyonu sağlayan; idarî ve malî özerkliğe sahip olarak kanunlarla verilen görev ve sorumlulukları yerine getiren, yetkileri kullanan; karar organı seçmenler tarafından seçilerek oluşturulan kamu tüzel kişisini,
+e) Değerlendirme Komisyonu: Başkan veya Başkanın belirleyeceği kişinin başkanlığında, Başkan tarafından görevlendirilen toplam üç kişiden oluşan komisyonu,
+f) Gerçekleşen en son yıl bütçe gideri: Bu Yönetmelik kapsamındaki idarelerin ilgili meclislerinde görüşülerek kabul edilen kesin hesabında yer alan en son yıl bütçe giderini,
+g) İl müdürlüğü: İl Afet ve Acil Durum Müdürlüklerini,
+ğ) İl özel idaresi: İl halkının mahallî müşterek nitelikteki ihtiyaçlarını karşılamak üzere kurulan ve karar organı seçmenler tarafından seçilerek oluşturulan, idarî ve malî özerkliğe sahip kamu tüzel kişisini,
+h) İlgili birim: Başkanlık daire başkanlıkları ile Hukuk Müşavirliğini,
+ı) KBRN: Kimyasal, biyolojik, radyolojik ve nükleeri,
+i) Ödenek: Büyükşehir belediyesinin ve il özel idaresinin, Başkanlıkça uygun görülen afet ve acil durumlar ile sivil savunmaya ilişkin hizmetler kapsamındaki yatırım projeleri için bütçelerinden ayrılması gereken tutarı,
+j) Proje teklif formu: Başkanlık tarafından hazırlanan ve Başkanlık internet adresinden yayınlanan proje teklif formunu,
+k) SGDB: Strateji Geliştirme Dairesi Başkanlığını,
+l) Sivil savunma: Düşman saldırılarına karşı halkın can ve mal kaybının en az seviyeye indirilmesi, hayati önem taşıyan her türlü resmi ve özel tesis ve kuruluşların korunması ve faaliyetlerinin devamını sağlayacak iyileştirmenin yapılması, savunma gayretlerinin halk tarafından en yüksek seviyede desteklenmesi ve halkın moralini yüksek tutmak için alınacak her türlü silahsız koruyucu ve kurtarıcı tedbir ve faaliyetleri,
+m) Türkiye Afet Müdahale Planı: Tüm afet türleri ve ölçeğine uyarlanabilir, esnek ve modüler yapıya sahip ulusal ve yerel boyutta müdahale çalışmalarının nasıl yürütüleceğini açıklayan ulusal ölçekli planı,
+n) Yapısal olmayan önlemler: Riskleri ve etkilerini azaltmak için fiziksel yapılar dışındaki bilgi, uygulama, anlaşma, politika ve mevzuat yoluyla alınan tedbir, planlama faaliyetleri, halkın farkındalığının arttırılması ve eğitim - öğretim faaliyetleri, afet yönetiminde kurumsal ve sistematik yaklaşım, arazi kullanım planlaması gibi çalışmaları,
+o) Yapısal önlemler: Tehlikenin olası etkilerini azaltmak veya önlemek adına, yapılacak herhangi bir fiziksel yapım ya da yapılar veya sistemlerin tehlikeye dayanaklılığı için gerekli mühendislik uygulamaları olup; barajlar, taşkın setleri, tsunami bariyerleri, depreme dayanıklı yapılar gibi fiziksel uygulamaları,
+ifade eder.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20502",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BÜYÜKŞEHİR BELEDİYELERİ VE İL ÖZEL İDARELERİ TARAFINDAN AFET VE ACİL DURUMLAR İLE SİVİL SAVUNMAYA İLİŞKİN YATIRIMLARA AYRILAN BÜTÇEDEN YAPILACAK HARCAMALARA DAİR YÖNETMELİK",
+  "number": "20502",
+  "issuer": "Afet ve Acil Durum Yönetimi Başkanlığının bağlı olduğu Bakan",
+  "issuer_slug": "afet-ve-acil-durum-yonetimi-baskanliginin-bagli-oldugu-bakan",
+  "path": "regulation/afet-ve-acil-durum-yonetimi-baskanliginin-bagli-oldugu-bakan/2015/20502",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20502&MevzuatTertip=5",
+  "source_sha256": "edef82902ff368935df3bff5c3a7b9775013aadce9998160b9e1e48972203f33",
+  "source_bytes": 24456,
+  "published": "2015-02-01",
+  "gazette": "29254",
+  "in_force": "2015-02-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.02.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1514,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
