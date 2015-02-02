@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2015/2015mv-genelge125",
+  "list_number": "112",
+  "genelge_number": "125",
+  "decision_date": "2015-02-02",
+  "title": "25. Dönem Milletvekili Genel Seçiminde uygulanacak \"Siyasi Partilerin Önseçim veya Aday Yoklaması Yöntemleriyle Aday Tespitine İlişkin Usul ve Esaslar\" hakkında 125 sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1848/2015MV-Genelge125.pdf",
+  "source_sha256": "2dfe4e1f0912bc621781357037bb5c76f607def5c6bd36a7e9ce61f38059caec",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 8,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-02-02",
+  "law_text_complete": false
+}
