@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/112",
+  "list_number": "112",
+  "decision_date": "2015-02-02",
+  "title": "25. Dönem Milletvekili Genel Seçiminde siyasi partilerin önseçim veya aday yoklaması yöntemiyle seçim kurullarının yönetim ve denetimi altında yapacakları aday tespitine ilişkin Kurulumuzun 02/02/2015 tarihli, 2015/112 sayılı kararı ile kabul edilen 25. Dönem Milletvekili Genel Seçiminde uygulanacak \"Siyasi Partilerin Önseçim veya Aday Yoklaması Yöntemleriyle Aday Tespitine İlişkin Usul ve Esaslar\" hakkında 125 sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2260/2015-112.pdf",
+  "source_sha256": "61ab9122c47863852bd2b5d146d9d91a999e5213fb85c0f6fd36a4110f2bf5ad",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 10,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-02-02",
+  "law_text_complete": false
+}
