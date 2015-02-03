@@ -1,2 +1,3 @@
 VI – İzin sürelerinin hizmetten sayılması:
-Madde 130 – İzin süreleri subay ve astsubayların hizmetlerinden sayılır.
+Madde 130 – (Değişik: 22/1/2015 - 6586/54 md.)
+Aylıksız izin süreleri hariç olmak üzere, izin süreleri subay ve astsubayların hizmetlerinden sayılır.

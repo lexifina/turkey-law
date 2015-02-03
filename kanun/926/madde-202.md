@@ -2,16 +2,18 @@
 Ödüller
 I – Ödül: (2)
 Madde 202 – (Değişik: 21/7/2000 - KHK - 607/14 md.; Aynen kabul: 10/5/2006-5497/12 md.)
-Türk Silâhlı Kuvvetlerine mensup (Jandarma ve Sahil Güvenlik Komutanlığı dahil) subay, astsubay, uzman jandarma, uzman erbaş, sözleşmeli erbaş ve erler, erbaş ve erlerden;
+Türk Silâhlı Kuvvetlerine mensup (Jandarma ve Sahil Güvenlik Komutanlığı dahil) subay, astsubay, uzman jandarma, uzman erbaş, sözleşmeli erbaş ve erler, askerî öğrenciler ile erbaş ve erlerden;(3)
 a) Muharebe harekâtında, iç güvenlik ve terörle mücadelede, tabii afetlerde ve diğer olağanüstü hal ve durumlarda liyakat, feragat, yüksek hizmet veya yaşamını ortaya koyarak büyük yararlılık gösterenler,
 __________________
 (1) 12/6/2003 tarihli ve 4891 sayılı Kanunun 1 inci maddesiyle, madde başlığı, “Madalya ve nişanların mirascılra intikali:“ iken metne işlendiği şekilde değiştirilmiş olup, maddeye birinci fıkra eklenmiş ve diğer fıkralar teselsül ettirilmiştir.
 (2) 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan “uzman erbaş,” ibaresinden sonra gelmek üzere “sözleşmeli erbaş ve erler,” ibaresi eklenmiş ve metne işlenmiştir.
+(3) 22/1/2015 tarihli ve 6586 sayılı Kanunun 58 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “erbaş ve erlerden” ibaresi “askerî öğrenciler ile erbaş ve erlerden” şeklinde değiştirilmiştir.
 4442
 b) Eğitimde, atışta, sporda, idarî ve lojistik faaliyetlerde bulundukları kıt'a, karargah ve kurumlarda yurt içi ve yurt dışında yapılan çeşitli müsabakalarda emsallerine nazaran üstün başarı sağlayanlar,
 c) Yeni projeler ortaya koyarak mevcut usûllerde olumlu yenilikler getirenler veya yeni buluşlar yapanlar,
 d) Mesleğine ait eser yazanlar veya tercüme yapanlar,
 e) Askeri okullardan yönetmelikte tespit edilecek derecelerle mezun olanlar,
+f) (Ek: 22/1/2015 - 6586/58 md.) Askerî öğrencilerden ulusal ve uluslararası müsabakalarda dereceye girenler, proje ve sempozyumlarda Türk Silâhlı Kuvvetlerini başarıyla temsil edenler ile eğitim, öğretim aşamalarında başarılı olanlar,
 yönetmelikte belirtilen esaslar dahilinde ödül verilmek suretiyle taltif olunurlar.
 II – Madalya yapımının giderleri ve ödüller:
 Madde 203 –(Değişik: 17/6/1992 - 3815/2 md.)
@@ -46,7 +48,7 @@ Bu tazminat ve zamların hangi işi yapanlara, hangi görevde bulunanlara ödene
 (Ek fıkra: 9/4/1990 - KHK - 418/19 md.); Mülga: 13/7/1993 - KHK - 486/27 md.)
 Harb okulları ve harb akademilerinde ders görevi verilenlerin ücreti:
 Ek Madde 4 – (Ek: 31/7/1970 - 1323/13 md.)
-Harp okulları, sınıf okulları ve harp akademilerinde ders görevi verilen üniversite öğretim üyeleri, öğretim görevlileri veya profesör, doçent unvanını kazanmış asker ve sivil kişiler ile öğretim görevliliği niteliği üniversite senatosunca kabul edilen asker ve sivil kişilere ders saati başına ödenecek ücret her yıl bütçe kanunlarında gösterilir.
+Harp okulları, astsubay meslek yüksek okulları, sınıf okulları ve harp akademilerinde ders görevi verilen üniversite öğretim üyeleri, öğretim görevlileri veya profesör, doçent, yardımcı doçent unvanını kazanmış asker ve sivil kişiler ile öğretim görevliliği niteliği üniversite senatosunca kabul edilen asker ve sivil kişilere ders saati başına ödenecek ücret her yıl bütçe kanunlarında gösterilir.(2)
 144 ve 223 sayılı kanunların ve 926 sayılı kanunun 49 uncu maddesinin uygulanmasına esas olacak albay maaşı:
 Ek Madde 5 – (Mülga: 27/6//1989 - KHK - 375/23 md; Yeniden düzenleme: 9/8/1993-KHK - 499/23 md.) 49 uncu maddenin (d) bendi gereğince aynı rütbede hizmete devam ettirilen general ve amirallerden ve rütbe bekleme süresini dolduran albaylardan kendi isteği üzerine emekliye ayrılanlara da 49 uncu maddenin (f) bendi esaslarına uygun olarak kadrosuzluk tazminatı ödenir.
 Denizaltı, dalgıç ve kurbağaadam personelinin tazminat yüzdeleri:
@@ -55,6 +57,7 @@ Yedeksubay okulu öğrencilerinin harçlıkları:
 Ek Madde 7 – (Ek: 31/7/1970 - 1323/13 md.; Mülga : 3/7/1975 - 1923/52 md.)
 ––––––––––––
 (1) 11/2/2014 tarihli ve 6519 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “ödeme usul ve esasları” ibaresinden sonra gelmek üzere “ile görevine devam etmesine engel teşkil etmemekle birlikte göreve yönelik faaliyetlerden belirli bir süre muaf tutulan personelin zam ve tazminatlarından hangi oranda kesinti yapılmasına ilişkin hususlar” ibaresi eklenmiştir.
+(2) 22/1/2015 tarihli ve 6586 sayılı Kanunun 59 uncu maddesiyle, bu fıkrada yer alan “Harp okulları” ibaresinden sonra gelmek üzere “, astsubay meslek yüksek okulları” ibaresi ve “veya profesör, doçent” ibaresinden sonra gelmek üzere “, yardımcı doçent” ibaresi eklenmiştir.
 4443
 Askeri lise öğrencilerinin harçlıkları :
 Ek Madde 8 – (Ek: 31/7/1970 - 1323/13 md.; Mülga : 3/7/1975 - 1923/52 md.)
@@ -74,7 +77,7 @@ Ek Madde 14 – (Mülga: 1/3/2000 - 4541/8 md.)
 Ek Madde 15 – (Ek: 3/7/1975 - 1923/50 md.)
 Türk Silahlı Kuvvetleri mensuplarına verilecek şerit rozetlerin verilme usul ve esasları yönetmelikte belirtilir.
 Ek Madde 16 – (Ek: 3/7/1975 - 1923/50 md.)
-Muvazzaflık hizmeti dışında olmak üzere, seferde ya da talim veya manevra maksadıyle barışta silah altına alınan yedek subay ve yedek astsubaylara, rütbe, kıdem ve kademelerine göre kıt'aya iltihaklarından itibaren, silah altında bulundukları sürece aylık ve her türlü özlük hakları Milli Savunma Bakanlığınca ödenir.
+(Değişik birinci fıkra: 22/1/2015 - 6586/60 md.) Muvazzaflık hizmeti dışında olmak üzere, seferde ya da talim veya manevra maksadıyla barışta silâh altına alınan yedek subay ve yedek astsubaylar ile yedek uzman jandarmalar, erbaş ve erlerden, önceden tabi oldukları sosyal güvenlik mevzuatı çerçevesinde emeklilik veya yaşlılık aylığı ya da malullük aylığı bağlanmış olanlar hakkında 21/4/2005 tarihli ve 5335 sayılı Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun 30 uncu maddesi hükümleri uygulanmaz ve bu aylıkları aynı şekilde ödenmeye devam olunur. Ancak, ödenmeye devam olunacak emeklilik veya yaşlılık aylığı ya da malullük aylığı tutarının, yukarıda belirtilen sebeplerle kıtaya iltihaklarından itibaren silâh altında bulundukları günlere karşılık gelen kısmının, aynı süre için Türk Silâhlı Kuvvetlerinden ayrıldıkları tarihteki rütbe, kıdem ve kademelerine göre hesaplanacak kıst ya da tam aya ilişkin aylık veya harçlık tutarından daha düşük olması hâlinde aradaki fark ilgisine göre Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığınca ödenir. Ayrıca, bu fıkrada belirtilen sebeplerle silâh altına alınmış olanlardan, sigortalılık ilişkisi kurulmasını gerektirmemekle birlikte bunlardan silâh altında bulundukları dönemde 5510 sayılı Kanunun 47 nci maddesinde belirtilen sebeplerle malul olan ya da hayatını kaybedenler hakkında tabi oldukları sosyal güvenlik mevzuatının bu malullüğe ilişkin hükümleri uygulanır.
 Özel kanunları gereğince, silah altında bulundukları sürece aylıklarının ödenmesine devam edilenler hakkında o kanunlar hükümleri saklıdır.
 4444
 Ek Madde 17 - (Ek: 2/2/1981 - 2379/2 md.; Değişik: 19/12/1996 – KHK- 568/2 md.) (1)
@@ -165,7 +168,7 @@ Kıdemli Üsteğmen | 420 | 280 | 285 | 165
 Üsteğmen | 420 | 280 | 285 | 165
 Teğmen | 380 | 250 | 280 | 160
 Asteğmen | 370 | 240 | 270 | 130
-Türk Silahlı Kuvvetleri kadrolarında görevli sivil öğretim üyesi tabiplere ve 657 sayılı Devlet Memurları Kanununa tabi olarak görev yapan uzman tabip, uzman diş tabibi, tabip ve diş tabiplerine aşağıda belirtilen oranları geçmemek üzere en yüksek devlet memuru aylığının (ek gösterge dahil) brüt tutarı ile çarpımı sonucu bulunan miktarda sağlık hizmetleri tazminatı ayrıca ödenir.
+Türk Silahlı Kuvvetleri kadrolarında görevli sivil öğretim üyesi tabiplere ve 657 sayılı Devlet Memurları Kanununa tabi olarak görev yapan uzman tabip, uzman diş tabibi, tabip ve diş tabiplerine aşağıda belirtilen oranları geçmemek üzere en yüksek devlet memuru aylığının (ek gösterge dahil) brüt tutarı ile çarpımı sonucu bulunan miktarda sağlık hizmetleri tazminatı ayrıca ödenir. (Ek cümleler: 22/1/2015 - 6586/61 md.) Diğer kamu kurum ve kuruluşları kadrolarında 657 sayılı Devlet Memurları Kanununa tabi olarak istihdam edilen tabip ve diş tabiplerinden Gülhane Askerî Tıp Akademisinde tıpta ve diş hekimliğinde uzmanlık eğitimi alanlara ve bu Kanunun ek 26 ncı maddesi kapsamında, Türk Silâhlı Kuvvetlerine bağlı sağlık kurum ve kuruluşlarında görevlendirilen öğretim üyesi, uzman tabip, uzman diş tabibi, tabip ve diş tabiplerine de sağlık hizmetleri tazminatı ödenir. Bunlardan tıpta ve diş hekimliğinde uzmanlık eğitimi alanlara, kurumlarınca döner sermaye gelirlerinden ödenenler de dâhil olmak üzere herhangi bir ad altında ek ödeme yapılmaz. Ek 26 ncı madde kapsamında görevlendirilenlere ödenecek sağlık hizmetleri tazminatına ilişkin hususlar aşağıda belirtilen usul ve esaslar çerçevesinde ayrıca belirlenir.
 DERECE | TAZMİNAT ORANLARI (%)
 Öğretim Üyesi Tabip/Uzman Tabip | Tabip/Tıpta uzmanlık mevzuatına göre uzman olanlar | Uzman Diş Tabibi | Diş Tabibi
 1 | 535 | 400 | 365 | 235
@@ -178,6 +181,7 @@ Sağlık hizmetleri tazminatından yararlanan personele, (…)(1) 17/11/1983 tar
 –––––––––––––
 (1) 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, bu paragrafta yer alan “bu maddenin (C) fıkrası ile” ibaresi yürürlükten kaldırılmış ve aynı paragrafta yer alan “ek 3 üncü” ibaresi “ek 9 uncu” şeklinde değiştirilmiş ve metne işlenmiştir.
 4446-1
+(Ek fıkra: 22/1/2015 - 6586/61 md.) Bu fıkraya göre yapılacak ödeme, ilgili mevzuatı uyarınca ödenmekte olan zam, tazminat, ödenek, döner sermaye ödemesi, ikramiye, ücret ve her ne ad altında olursa olsun yapılan benzeri ödemelerin hesabında dikkate alınmaz.
 D) Bu maddede belirtilen tazminatlar aylıklarla birlikte ödenir ve damga vergisi hariç herhangi bir vergiye tabi değildir. (Ç) fıkrası hariç sözkonusu tazminatların hakedilmesinde ve ödenmesinde aylıklara ilişkin hükümler uygulanır. (1)
 Ek Madde 18 – (Ek: 12/2/1982 - 2596/3 md.; Değişik: 24/12/1986 - KHK 265/3 md.)
 a) (Değişik: 9/4/1990 - KHK - 418/22 md.; İptal: Ana. Mah'.nin 5/2/1992 tarih ve E. 1990/22, K. 1992/6 sayılı Kararı ile; Yeniden düzenleme: 18/5/1994 - KHK - 527/15 md.) Bu Kanuna ekli V sayılı makam tazminatı cetvelinde yazılı rütbe ve görevlerde bulunanlara hizalarında gösterilen gösterge rakamlarının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunan miktarda makam tazminatı ödenir. Makam tazminatı damga vergisi hariç herhangi bir vergiye tabi tutulmaz ve ödemelerde aylıklara ilişkin hükümler uygulanır. (2)
@@ -243,6 +247,8 @@ Astsubay Çavuş ve Kıdemli Çavuş 43
 Başçavuş 54
 Kıdemli Başçavuş 55
 Uzman erbaşlar bulundukları derece ve kademelerine bir kademe ilave edilerek astsubay nasbedilirler. Yaş hadleri dışında kalan hususlar için bunlara astsubaylar hakkındaki hükümler uygulanır.
+Ek Madde 34- (Ek: 22/1/2015-6586/62 md.)
+Subay ve astsubayların bu Kanun esaslarına göre yapılacak nasıp düzeltme işlemlerinin onayı, ilgili kuvvet komutanlığı (Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı için bu komutanlıklar) Kurmay Başkanı tarafından yapılır.
 ONBEŞİNCİ KISIM
 Geçici Maddeler
 General ve amirallerin hizmete devamları:
@@ -426,12 +432,12 @@ Ek Geçici Madde 6 – (Ek: 31/7/1970 - 1323/17 md.)
 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun 14 üncü maddesi 2 nci fıkrası gereğince, bu kanunun yayımı tarihine kadar muvazzaf subaylığa nakledilen astsubaylardan durumları 14 üncü maddenin 2 nci fıkrasına uyanlar hakkında da bu fıkra hükümleri uygulanır.
 Kademe ilerlemesinden faydalanacak subaylar:
 Ek Geçici Madde 7 – (Ek: 31/7/1970 - 1323/17 md.)
-4273 sayılı Kanun ve 926 sayılı Kanunun geçici 8 inci maddesi hükümlerine göre kendilerine tahsil, ihtisas, başasistanlık kıdemleri verilenler hariç olmak üzere halen Silahlı Kuvvetlerde görevli subaylardan durumları bu kanunun 141 inci maddesinin 2 nci fıkrası hükümlerine uyanlar aynı madde esaslarına göre kademe ilerlemesinden faydalandırılırlar.
+4273 sayılı Kanun ve 926 sayılı Kanunun geçici 8 inci maddesi hükümlerine göre kendilerine tahsil, ihtisas, başasistanlık kıdemleri verilenler hariç.olmak üzere halen Silahlı Kuvvetlerde görevli subaylardan durumları bu kanunun 141 inci maddesinin 2 nci fıkrası hükümlerine uyanlar aynı madde esaslarına göre kademe ilerlemesinden faydalandırılırlar.
 İhtisas kıdemi alıp da başasistanlık kıdemi verilmeyenlere, 141 inci maddenin 2 nci fıkrası esaslarına göre bir kademe ilerlemesi uygulanır.
 4456
 144 ve 223 sayılı kanunların uygulanmasında geçici hüküm:
 Ek Geçici Madde 8 – (Ek: 31/7/1970 - 1323/17 md.)
-657 sayılı Devlet Memurları Kanunu hükümlerine göre çıkarılacak genel kadro kanununun yürürlüğe girdiği tarihi takibeden ay başına kadar 144 sayılı Uçuş Hizmetleri Tazminat Kanunu ve ek ve değişiklikleri ile 223 sayılı Denizaltı, Dalgıç ve Kurbağaadam Tazminat Kanununun uygulanmasına esas olacak albay maaşı 2 700 liradır.
+657 sayılı Devlet Memurları Kanunu hükümlerine göre çıkarılacak genel kadro kanununun yürürlüğe girdiği tarihi takibeden ay başına kadar 144 sayılıUçuş Hizmetleri Tazminat Kanunu ve ek ve değişiklikleri ile 223 sayılı Denizaltı, Dalgıç ve Kurbağaadam Tazminat Kanununun uygulanmasına esas olacak albay maaşı 2 700 liradır.
 Açıkta, tutuklu, firar veya izin tecavüzünde bulunanlar:
 Ek Geçici Madde 9 – (Ek: 31/7/1970 - 1323/17 md.)
 Açıkta, tutuklu, firar veya izin tecavüzünde bulunan subay veya astsubayların rütbe terfileri, rütbe kıdemlilikleri ve kademe ilerlemesi işlemleri yargılama sonucuna kadar yapılmaz.
@@ -995,8 +1001,9 @@ Bu Kanuna tabi olup Profesör ve Doçent ünvanına sahip olanlardan Öğretim G
 27/7/1967 TARİHLİ VE 926 SAYILI ANA KANUNA İŞLENEMİYEN HÜKÜMLER
 1 – 31/7/1970 tarihli ve 1323 sayılı Kanunun 18 inci maddesi:
 Madde 18 – 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun mali hükümlerinin yürürlüğe girmesi;
-a) 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun aylık ödemeleri ile ilgili hükümleri "14/7/1965 gün ve 657 sayılı Devlet Memurları Kanununun bazı maddelerinin değiştirilmesi ve bu kanuna bazı maddeler eklenmesine ve bu kanunun kapsamı dışında kalan kamu personelinin aylık ve ücretlerinin dair Kanun’un aylık ödemelerinin yürürlüğü ile ilgili hükümleri ile birlikte ve aynı usul ve esaslara göre uygulanır.
+a) 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun aylık ödemeleri ile ilgili hükümleri "14/7/1965 gün ve 657 sayılı Devlet Memurları Kanununun bazı maddelerinin değiştirilmesi ve bu kanuna bazı maddeler eklenmesine ve bu kanunun kapsamı dışında kalan kamu personelinin aylık ve ücretlerinin dair Kanun’un
 4470
+aylık ödemelerinin yürürlüğü ile ilgili hükümleri ile birlikte ve aynı usul ve esaslara göre uygulanır.
 b) Mahrumiyet yeri ödeneği, öğrenim yurtları ve bursları, aile yardımı ödeneği, doğum yardımı ödeneği, ölüm yardımı ödeneği, temsil giderleri ve yakacak yardımına ait hükümleri 657 sayılı Devlet Memurları Kanununun bu konuları düzenleyen hükümleri ile birlikte uygulanır.
 c) Öğrenci harçlıkları ile ilgili hükümleri bu maddenin (a) fıkrası esaslarına göre uygulanır.
 d) 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun 153, 158, 176 ve 181 inci maddeleri 1970 mali yılında uygulanamaz.2005 sayılı Kanunun pansiyon ücret indirimi hakkındaki 2 nci maddesi hükmü ile çocuk zammı ödenmesine ilişkin 5049 ve doğum yardımı ödenmesine ilişkin 5504 sayılı Kanun hükümlerinin uygulanmasına 1970 mali yılında da devam olunur.
@@ -1046,6 +1053,7 @@ Madde 36 – Aylıklarını 657 sayılı Devlet Memurları Kanunu ile ek ve değ
 Madde 44 – Bu Kanun Hükmünde Kararname ile yapılan değişiklikler yürürlüğe girinceye kadar mevcut hükümlerin uygulanmasına devam edilir. Bu Kanun Hükmünde Kararnamenin uygulanması sırasında doğacak tereddütleri gidermeye Maliye ve Gümrük Bakanlığı yetkilidir.
 8) 23/1/1992 tarih ve 3768 sayılı Kanunun geçici maddesi:
 Geçici Madde 1 – 9.6.1991 tarihli 3755 sayılı Kamu Kurum ve Kuruluşlarının Görev ve Yetkileri ile Bunların Personelinin Mali ve Sosyal Haklarında Düzenleme Yapılmasına Dair Yetki Kanunu İle Bakanlar Kuruluna verilen Kanun Hükmünde Kararname Çıkarma Yetkisi "Türk Silahlı Kuvvetleri Personel Kanunu" için adı geçen Yetki Kanunuyla verilen süre bitimine kadar geçerlidir.
+4470-2
 9) 6/5/1993 tarih ve 3909 sayılı Kanunun geçici maddesi:
 Geçici Madde – 10 Eylül 1992 tarihinden, bu Kanunun yürürlüğe girdiği tarihe kadar geçen süre içerisinde, asteğmen rütbesi ile terhis edilen yedek subaylar, sicil notu ortalaması sicil tam notunun % 60 ve daha yukarısı olmak kaydıyla terhis tarihinden geçerli olmak üzere teğmenliğe yükseltilirler.
 4471
