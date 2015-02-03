@@ -1,0 +1,2 @@
+Yabancı Ülke Harp Akademilerini Bitirenler
+Madde 18 – Genelkurmay Başkanlığının izniyle Kuvvet Harp Akademilerine giriş hakkını kazanan subaylardan seçilenler, yabancı ülke Harp Akademileri veya eşidi öğretim kurumlarına öğrenim için gönderilebilirler. Bunların seçim esasları, görecekleri öğrenimin Türk Harp Akademileri öğrenimi ile ne şekilde denk sayılacağı ve bunlarla ilgili diğer hususlar yönetmelikte düzenlenir.

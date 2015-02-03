@@ -1,0 +1,10 @@
+Kurullar ve Görevleri
+Madde 5 – (Değişik: 5/2/2003 – 4805/4 md.)
+Harp Akademileri Komutanlığında; Harp Akademileri Yüksek Kurulu ile Akademiler bünyesinde birer Akademik Kurul; Enstitüler bünyesinde ise birer Enstitü Kurulu teşkil edilir. Bu kurulların genel görevi, eğitim-öğretimi düzenlemek ve değerlendirmektir.
+Harp Akademileri Yüksek Kurulu; eğitim ve öğretim konularında, Akademi ve Enstitü kurullarınca karara bağlanamayan hususları, bu Kanun ve Genelkurmay Başkanlığının emirleri çerçevesinde karara bağlayan üst kuruldur. Bu Kurul, Harp Akademileri Komutanları, Askerî Bilimler Araştırma Merkezi Başkanı, Harp Akademileri Komutanlığı Öğretim Başkanından oluşur. Enstitülerdeki eğitim-öğretim ile ilgili olan, ancak Enstitü kurulları tarafından karara bağlanamayan konuların incelenmesinde Harp Akademileri Yüksek Kuruluna, Enstitü müdürleri de iştirak eder.
+Akademi kurulları; Kuvvet Harp Akademilerinin, ve Silahlı Kuvvetler Yüksek Sevk ve İdare Akademisinin bünyelerinde oluşturulan kurullardır. Akademi kurulları; Akademi Komutanının başkanlığında, Akademi Öğretim Başkanı ve Akademi öğretim elemanı kadrolarına atanan subaylardan oluşur. Eğitim-öğretimin düzenlenmesi ile ilgili konularda kurullara, Harp Akademilerinde daimi görevli üniversite öğretim üyeleri ile eğitim-öğretim planlamacıları da katılır. Harp Akademileri Komutanı, gerek duyduğu hallerde Akademi kurullarının toplantılarına katılır.(1)
+Enstitü kurulları; Enstitülerin bünyesinde oluşturulan kurullardır. Enstitü müdürü başkanlığında, müdür yardımcıları ve Enstitülerde eğitim ve öğretimi yapılan ana bilim dalları başkanlarından oluşur.
+Kurullarda başarı durumlarının tespiti ile ilgili kararlar toplantıya katılanların üçte iki çoğunluğu ile alınır. Her üye oyunu kabul veya ret yoluyla belirlemek zorundadır.
+___________
+(1) 26/6/2012 tarihli ve 6336 sayılı Kanunun 3 üncü maddesi ile bu fıkrada yer alan “, Silahlı Kuvvetler Akademisinin ve Milli Güvenlik Akademisinin” ibaresi “ve Silahlı Kuvvetler Yüksek Sevk ve İdare Akademisinin” şeklinde değiştirilmiştir.
+7076
