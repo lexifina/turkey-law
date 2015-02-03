@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "39983",
+  "decision_date": "2015-02-03",
+  "source_id": 9563,
+  "chamber": "6",
+  "file_number": "36526",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9563/",
+  "source_sha256": "9686d2d8f0c28b80e728cd5fcbc73d349374b6c777d9ddd645cd716f6d342bf6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
