@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6587",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti ile Avrupa Nükleer Araştırma Örgütü (CERN) Arasında CERN'de Ortak Üye Statüsü Verilmesi Hakkında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-03",
+  "gazette_issue": "29256",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150203-13.htm",
+  "source_sha256": "0d715782343dff6633c41c0bc4dd01d08c6c745b1e623fe81fc6889ef96a4267",
+  "text_sha256": "dcb6e4b635b246d5e9ecbdce46af8ecd4f2da64b53f2e58798d544151c42e311",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/03/29256-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150203-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
