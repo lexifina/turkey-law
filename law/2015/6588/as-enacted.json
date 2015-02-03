@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6588",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Gençlik ve Spor Bakanlığı Yurtdışı Koordinasyon Ofisinin Kurulması ve Faaliyetlerine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-03",
+  "gazette_issue": "29256",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150203-14.htm",
+  "source_sha256": "e607b0395a650022ebe1ec411a6442e8da8826949b56f0713c66cbefd657f381",
+  "text_sha256": "d12ee39bb7f8b835f2b2ebbf7bbbc5bde0a3efab27719ccb4d31ba8ce7fb381c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/03/29256-14",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150203-14.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
