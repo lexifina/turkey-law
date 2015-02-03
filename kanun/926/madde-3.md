@@ -37,7 +37,7 @@ p) (Değişik: 28/7/1998 - 4374/1 md.) Yeterlik notu:
 2. Albay rütbesinde; sicil notu ortalaması ile değerlendirme notunun toplamıdır.
 r) (Değişik: 11/2/2014-6519/23 md.) Sicil tam notu: Sicil tam notu yüzdür.
 s) (Ek: 17/4/1975 - 1875/1 md.; Değişik: 26/3/1982 - 2642/1 md.) Lisansüstü öğrenim: Kuvvet Harp Akademileri, yüksek lisans (bilim uzmanlığı, yüksek mühendislik, yüksek mimarlık, master) veya doktora öğrenimleri ile tıpta,diş tabipliğinde, veterinerlikte ve eczacılıkta uzmanlık öğrenimine veya doçentlik için yapılan öğrenime bu Kanunun uygulanmasında lisansüstü öğrenim denir.
-ş) (Ek: 29/9/1988 - 3475/1 md.; Mülga: 28/7/1998 - 4374/6 md.)
+ş) (Ek: 29/9/1988 - 3475/1 md.; mülga: 28/7/1998 - 4374/6 md.)
 4392-2
 t) (Ek: 29/9/1988 - 3475/1 md.; İptal: Ana. Mah.’nin 31/12/1992 tarih ve E: 1992/40, K: 1992/55 sayılı Kararı ile.)
 u) (Ek: 29/9/1988 - 3475/1 md.; İptal: Ana. Mah.'nin 31/12/1992 tarih ve E: 1992/40, K: 1992/55 sayılı Kararı ile.)

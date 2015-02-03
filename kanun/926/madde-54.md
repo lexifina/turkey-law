@@ -3,4 +3,6 @@ Madde 54 – (Değişik birinci fıkra: 18/6/2003 - 4902/23 md.) Yüksek Askerî
 (Değişik: 22/7/1981 - 2497/5 md.) Ancak, bir üst rütbeye yükselecek Tuğgeneral - Tuğ-amiral, Tümgeneral - Tümamiral ile Korgeneral - Koramiral sayısı, yükselecekleri rütbenin birinci yıl kontenjanına eşit veya az ise, bunların üst rütbeye yükseltilme durumları Yüksek Askerî Şura üyelerinin üçte ikisinin kabulüne bağlıdır.
 (Ek fıkra: 11/2/2014-6519/32 md.) Rütbe bekleme süresini tamamlamaya bir yıl kalanlar da Yüksek Askerî Şûra değerlendirmesine alınırlar. Bunlardan terfi ettirilenler ile kadrosuzluktan emekli edilenler rütbe bekleme sürelerini tamamlamış sayılır.
 (Ek: 3/7/1975 - 1923/23 md.) Savaş hali ilanından itibaren bu Kanunda öngörülen Yüksek Askerî Şuraya ait görev ve yetkiler Genelkurmay Başkanına intikal eder.
+____________
+(1) 22/1/2015 tarihli ve 6586 sayılı Kanunun 44 üncü maddesiyle, bu bente yer alan “Ertelenmiş, para cezasına veya tedbire çevrilmiş” ibaresi “Ertelenmiş, seçenek yaptırımlara çevrilmiş, hükmün açıklanmasının geri bırakılmasına karar verilmiş” şeklinde değiştirilmiştir.
 4412

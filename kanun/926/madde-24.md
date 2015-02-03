@@ -5,8 +5,7 @@ Beden kabiliyeti yönetmeliği ve sınıflandırma işlemi neticesinde, birden f
 4397
 b) (Değişik: 9/8/1991 - KHK - 445/1 md.; Aynen kabul 23/1/1992 - 3768/1 md.) Uçuştan ayrılanlar:
 Uçuculuk niteliğini kaybeden veya uçmak istemeyen uçucu subaylar yeniden sınıflandırılırlar. Ancak sınıf değişikliğini gerektirecek nitelikteki sıhhi sebepler hariç olmak üzere, kara havacılık ve pilot sınıfındaki kıdemli yüzbaşı ve daha üst rütbelerdeki uçuculuk niteliğini kaybeden veya uçmak istemeyen subaylar yeniden sınıflandırılmazlar. Bunların uçuculuk statüleri sona erer.
-c) Özel hizmet niteliğini kaybedenler:
-Denizaltı, dalgıç, kurbağa adam, sualtı komando birliklerinde ve denizdeki patlayıcı maddeleri zararsız hale getiren personelden, özel hizmet niteliklerini kaydeben subaylar, yeniden sınıflandırılarlar.
+c) (Mülga: 19/4/2000-4564/4 md.)
 d) İkinci bir tahsil yapanlar:
 Subay iken Silahlı Kuvvetler hesabına üniversite veya yüksek okullardan birini bitirenler tahsilleri ile ilgili sınıflara geçirilebilirler.
 e) İdarece görülecek lüzum üzerine:
