@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-02-05",
+  "issue": "29258",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Uluslararası Gözetim Şirketlerinin Faaliyetten Süreli Men’i Hakkında Tebliğ (Ürün Güvenliği ve Denetimi: 2015/26)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150205-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150205.htm",
+  "index_sha256": "ae743d86db58548bf2c1f4b816f33f8a73bda514e09ee999abe9ce6d46d044c2",
+  "index_header": "5 Şubat 2015 ... 29258 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150205.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
