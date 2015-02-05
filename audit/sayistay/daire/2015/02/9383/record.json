@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "110",
+  "decision_date": "2015-02-05",
+  "source_id": 9383,
+  "chamber": "5",
+  "ilam_number": "206",
+  "item_number": 17,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9383/",
+  "source_sha256": "8e07697bf17a4d01f09f557ddd8bd8ac14f5c4d7b6170cd81e8d47f90becb6e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
