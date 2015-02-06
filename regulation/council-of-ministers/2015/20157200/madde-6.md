@@ -1,0 +1,9 @@
+Sorumluluk ve yaptırımlar
+MADDE 6 – (1) 4734 sayılı Kanunun 62 nci maddesinin birinci fıkrasının (e) bendi kapsamında, personel çalıştırılmasına dayalı hizmet alımı ihalesine çıkılmaması gerektiği hâllerde ihaleye çıkılamaz.
+(2) 5 inci maddenin ikinci fıkrasında belirtilen işler hariç, bu Yönetmelik kapsamında uygun görüş alınması gereken işler için kamu idarelerince uygun görüş alınmadan personel çalıştırılmasına dayalı hizmet alımı ihalesine çıkılamaz.
+(3) 4734 sayılı Kanunun 62 nci maddesinin birinci fıkrasının (e) bendi uyarınca yapılan personel çalıştırılmasına dayalı hizmet alımı ihaleleri çerçevesinde çalıştırılan personel ihale ve sözleşme konusu iş dışında başka bir işte çalıştırılamaz ve görevlendirilemez.
+(4) 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 2 nci maddesinin yedinci fıkrası hükmüne aykırılık teşkil edecek şekilde işlem ve eylem yapılamaz.
+(5) 4857 sayılı Kanunun 3 üncü maddesinin ikinci fıkrasında belirtilen itiraz veya diğer kanun yollarına başvurulması zorunludur.
+(6) Birinci, ikinci, üçüncü ve dördüncü fıkralarda belirtilen kurallara aykırı olarak işlem ve eylem yapılması nedeniyle idare aleyhine zarar ortaya çıkması hâlinde, oluşan bu zararlar, bu zarara neden olduğu tespit edilenlere rücu edilmek suretiyle tahsil edilir. Ayrıca, bu kişiler hakkında uygulanacak ceza ve disiplin hükümleri saklı kalmak üzere, bu kişilere idarelerce, her türlü aylık, ödenek, zam, tazminat dâhil yapılan bir aylık net ödemelerin beş katı tutarında idari para cezası uygulanır.
+(7) Beşinci fıkrada öngörülen itiraz veya diğer kanun yollarına başvurmayan kişilere idarelerce, her türlü aylık, ödenek, zam, tazminat dâhil yapılan bir aylık net ödemelerin iki katı tutarında idari para cezası uygulanır.
+(8) Bu maddede belirtilen idari para cezalarına ilişkin olarak 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanunu hükümleri uygulanır.
