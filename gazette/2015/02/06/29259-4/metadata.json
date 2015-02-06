@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-02-06",
+  "issue": "29259",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI SÖZLEŞME",
+  "title": "2015/7164 167 Sayılı İnşaat İşlerinde Güvenlik ve Sağlık Sözleşmesinin Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150206-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150206.htm",
+  "index_sha256": "dc79991158efaa2a46550c59279f4a768701b233355a98a86dd36e915a6e5c0b",
+  "index_header": "6 Şubat 2015 ... 29259 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150206.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
