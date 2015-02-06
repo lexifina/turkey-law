@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6590",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Güney Afrika Cumhuriyeti Hükümeti Arasında İkili Ulusal Komisyon Kurulmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-06",
+  "gazette_issue": "29259",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150206-1.htm",
+  "source_sha256": "775b2bc6072501ad6fa9a62adc5ee91a3d1840351fcd40d5e578b223abf7339f",
+  "text_sha256": "4d201e1e73ceac9b58c8947bfce1c3aed522699d419b1cad6ff99da307b378de",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/06/29259-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150206-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
