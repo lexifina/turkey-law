@@ -1,0 +1,1 @@
+Madde 9 – Deneticilerin, yukarıdaki maddeyle tayin edilen görev ve yetkileri, icraya müdahaleyi kapsamıyacağı gibi hernangi bir görüş veya itirazları Genel Müdürlükce icranın durdurulmasına yada ertelenmesine sebep teşkil etmez.

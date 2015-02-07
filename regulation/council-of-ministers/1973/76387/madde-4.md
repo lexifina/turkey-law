@@ -1,0 +1,1 @@
+Madde 4 – Genel Müdürlüğü her türlü idare ve yargı organları önünde ve 3. kişilere karşı Genel Müdür temsil eder. Lüzumu halinde Genel Müdür ilgili kanun hükümleri ile bu Yönetmelikte yer alan esaslar dahilinde bu işler için vekalet veya yetki verebilir.

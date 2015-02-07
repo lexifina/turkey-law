@@ -1,0 +1,1 @@
+Madde 8 – Deneticiler Genel Müdürlüğün mevcutlarını ve her türlü işlemlerini sarf evrakına göre tetkik ve denetlemekle yükümlü olup 3 ayda bir yapılan işlemler hakkında Bakanlık ve Maliye Bakanlığına vermeye mecbur oldukları raporların birer suretlerini de Genel Müdürlüğe verirler.

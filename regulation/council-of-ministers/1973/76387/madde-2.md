@@ -1,0 +1,1 @@
+Madde 2 – Bu Yönetmeliğin 16 ncı maddesine göre çıkarılacak İç Yönetmelik ve sirküler (Genelge) ler Yönetmeliğin bütünleyicisi ve eklentisi niteliğini taşır. İşbu Yönetmelikte bahsi geçen Maden Tetkik ve Arama Genel Müdürlüğü kısaca "Genel Müdürlük" Genel Müdürlüğün bağlı bulunduğu "Enerji ve Tabii Kaynaklar Bakanlığı" kısaca "Bakanlık" olarak anılacaktır.

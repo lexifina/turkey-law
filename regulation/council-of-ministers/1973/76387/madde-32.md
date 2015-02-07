@@ -1,0 +1,1 @@
+Madde 32 – 2804 sayılı Kanunun 23 üncü maddesi hükmüne göre hazırlanmış olan ve bu Yönetmelik hükümleri Resmi Gazete'de yayımlandığı tarihten itibaren yürürlüğe girer,25/5/1948 tarih ve 3/7504 sayılı Kararla yürürlüğe konulan Yönetmelik yürürlükten kaldırılmıştır.

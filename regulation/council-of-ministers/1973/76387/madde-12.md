@@ -1,0 +1,1 @@
+Madde 12 – Deneticiler görevlerini iyi yapmamalarından dolayı sorumludurlar. Deneticiler ancak tayin edildikleri Makamlar tarafından azledilebilir; ancak bundan dolayı hiçbir surette tazminat isteyemezler.
