@@ -1,0 +1,8 @@
+MADDE 32 – (1) Vergi dairesi müdür yardımcıları, müdür yardımcıları, şefler ve bağlı olduğu müdür tarafından servisi yönetmekle görevlendirilen gelir uzmanları:
+a) Kendilerine bağlı birimlerin iş ve işlemlerinin mevzuata uygun olarak ve zamanında yerine getirilmesi ile görevlidirler.
+b) Sahip oldukları yetkiler ile grup müdürü ve müdür tarafından devredilen yetkileri kötüye kullanmaktan, devrettiği yetkilerin kötüye kullanılmasından ve görevlerinin mevzuata uygun ve zamanında yapılmamasından dolayı, ilgililerle birlikte grup müdürüne ve/veya müdüre karşı sorumludurlar.
+c) Tahakkuk ve tahsilata ilişkin iş ve işlemlerin zamanında ve doğru olarak yerine getirilmemesinden doğan Hazine zararlarından, o iş ve işlemi yapan personelle birlikte sorumlu tutulurlar.
+(2) Gelir uzmanları, vergi istihbarat uzmanları, gelir uzman yardımcıları ve diğer personel:
+a) İlgili mevzuatta belirtilen iş ve işlemlerden kendilerine verilenleri yapmakla görevlidirler.
+b) Görevlendirildikleri birimin yönetiminden sorumlu vergi dairesi müdürü, müdür, koordinatör olarak görevlendirilen avukat, vergi dairesi müdür yardımcısı, müdür yardımcısı, şef ve servisi yönetmekle görevlendirilen gelir uzmanı tarafından kendilerine verilen işleri, belirlenen usul ve esaslar çerçevesinde yerine getirmekle yükümlü olup, kendilerine verilen görevleri mevzuata uygun olarak ve zamanında yerine getirmemekten dolayı vergi dairesi müdürüne, müdüre, koordinatör olarak görevlendirilen avukata, vergi dairesi müdür yardımcısına, müdür yardımcısına, şefe ve servisi yönetmekle görevlendirilen gelir uzmanına karşı sorumludurlar.
+c) Tahakkuk ve tahsilata ilişkin işlemlerin zamanında ve doğru olarak yerine getirilmemesinden doğan Hazine zararlarından sorumlu tutulurlar.

@@ -1,0 +1,2 @@
+Grup müdürlüklerinin; komisyonlar, vergi dairesi müdürlükleri ve şubelere yönelik görevleri
+MADDE 23 – (1) Vergi dairesi başkanlığının takdir, uzlaşma ve satış işlemlerini yürütmekle görevli komisyonları ile başkanlığın yetki alanında faaliyette bulunan vergi daireleri ve şubeler, vergi dairesi başkanına bağlı olup bu komisyonların, vergi dairesi müdürlüklerinin ve şubelerin çalışmaları vergi dairesi başkanının uygun göreceği grup müdürlüğü ile ilişkili olarak yürütülür.

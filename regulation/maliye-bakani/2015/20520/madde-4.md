@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Vergi Dairesi Başkanlıklarının Kuruluş Esasları
+Vergi dairesi başkanlıkları
+MADDE 4 – (1) Vergi dairesi başkanlıkları; yetki alanı içindeki mükellefi tespit eden, vergi ve benzeri mali yükümlülüklere ilişkin tarh, tebliğ, tahakkuk, tahsil, terkin, tecil, iade, ödeme, muhasebe ve benzeri işlemleri yapan, bu işlemlere ilişkin olarak yaratılan ihtilaflarla ilgili yargı mercileri nezdinde talep ve savunmalar ile gerektiğinde kanun yollarına gitme talebinde bulunan, yargı kararlarının uygulanması işlemlerini yürüten, vergi uygulamalarını geliştiren ve iyileştiren, mükelleflere kanunların uygulanması ile ilgili görüş bildiren, mükellefleri hak ve ödevleri konusunda bilgilendiren ve uygulamalarında mükellef haklarını gözeten, mükellef hizmetleri ile bilgi işlem, istatistik, bilgi toplama, insan kaynakları yönetimi, satın alma, kiralama, vergi inceleme ve denetim, uzlaşma, takdir ve benzeri görevleri ve işlemleri yürüten dairelerdir.
+(2) Vergi dairesi başkanlığı; 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununa göre “Vergi Dairesi”, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre de “Tahsil Dairesi”dir.

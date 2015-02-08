@@ -1,0 +1,7 @@
+Grup müdürü, vergi dairesi müdürü, müdür ve koordinatör olarak görevlendirilen avukatların yetki ve sorumlulukları
+MADDE 30 – (1) Grup müdürü, vergi dairesi müdürü, müdür ve koordinatör olarak görevlendirilen avukatlar:
+a) Görevlerinin ifası sırasında çeşitli mevzuatla doğrudan doğruya kendilerine verilmiş olan ve bir daire yöneticisi olarak sahip olduğu yetkiler ile vergi dairesi başkanı ve/veya grup müdürü tarafından devredilen yetkileri kullanır.
+b) Sahip oldukları yetkilerden, doğrudan doğruya kendilerine verilmiş olanlar hariç olmak üzere mevzuatta aksine bir hüküm bulunmamak kaydıyla, uygun gördüklerini, sınırlarını belirlemek koşuluyla yazılı olarak astlarına devredebilirler. Ancak, bu yetki devri denetim sorumluluklarını ortadan kaldırmaz.
+c) Sahip oldukları ve kendilerine devredilen yetkileri kullanmamaktan, devrettiği yetkilerin iyiye kullanılmamasından ve görevlerinin mevzuata uygun ve zamanında yapılmamasından dolayı ilgililerle birlikte sorumludur.
+ç) Kanunların uygulanması ile ilgili olarak verdiği emirlerden doğan Hazine zararlarından sorumludurlar.
+(2) Muhasebe grup müdürlüğünde görevli müdür, muhasebe yetkilisi sıfatıyla şahsen, düzeltme, red ve iadelere ilişkin işlemlerden dolayı vergilendirme grup müdürlüğünde görevli ilgili müdürler, tahsilata ilişkin işlemlerden dolayı ise tahsilat grup müdürlüğünde görevli ilgili müdürler, koordinatör olarak görevlendirilen avukat, şubeyi yönetmekle görevlendirilenler ve diğer personel ile birlikte Sayıştaya karşı sorumludurlar.
