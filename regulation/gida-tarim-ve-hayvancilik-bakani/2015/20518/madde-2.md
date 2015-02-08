@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, hedef dışı yemlere taşınması önlenemeyen koksidiyostatların ve histomonostatların hayvansal gıdalarda bulunabilecek maksimum miktarları ile ilgili hususları kapsar.
+(2) Bu Yönetmelik, 4/5/2012 tarihli ve 28282 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Hayvansal Gıdalarda Bulunabilecek Farmakolojik Aktif Maddelerin Sınıflandırılması ve Maksimum Kalıntı Limitleri Yönetmeliği ve 18/7/2013 tarihli ve 28711 sayılı Resmî Gazete’de yayımlanan Hayvan Beslemede Kullanılan Yem Katkı Maddeleri Hakkında Yönetmelik hükümlerine aykırılık teşkil etmeyecek şekilde uygulanır.
