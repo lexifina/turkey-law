@@ -1,0 +1,3 @@
+Farklı kamu kurum veya kuruluşunda çalışanlar
+MADDE 6 – (1) Aynı alt işveren tarafından ve aynı iş sözleşmesine tabi olarak farklı kamu kurum veya kuruluşlarında çalıştırılan işçilerin kıdem tazminatına esas hizmet süreleri, 4734 sayılı Kanunun 62 nci maddesinin birinci fıkrasının (e) bendi kapsamında farklı kamu kurum veya kuruluşuna ait işyerlerinde geçen hizmet sürelerinin toplamı esas alınarak tespit olunur.
+(2) Farklı kamu kurum veya kuruluşlarda çalıştırılan işçilerden son alt işvereni ile yapılmış olan iş sözleşmeleri kıdem tazminatı ödenmesini gerektirecek şekilde sona erenlerin birinci fıkraya göre tespit edilen sürelere ilişkin kıdem tazminatları, çalıştırıldığı son kamu kurum veya kuruluşu tarafından ödenir.

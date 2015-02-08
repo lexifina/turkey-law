@@ -1,0 +1,3 @@
+Aynı kamu kurum veya kuruluşunda çalışanlar
+MADDE 5 – (1) Alt işverenlerinin değişip değişmediğine bakılmaksızın aralıksız olarak aynı kamu kurum veya kuruluşuna ait işyerlerinde çalışan işçilerin kıdem tazminatına esas hizmet süreleri, bu işyerlerinde 4734 sayılı Kanunun 62 nci maddesinin birinci fıkrasının (e) bendi uyarınca yapılan ihaleler kapsamında geçen toplam çalışma süreleri esas alınarak tespit olunur.
+(2) Son alt işverenleri ile yapılmış olan iş sözleşmeleri kıdem tazminatına hak kazanacak şekilde sona eren işçilerin birinci fıkraya göre tespit edilen sürelere ilişkin kıdem tazminatları, ilgili kamu kurum veya kuruluşu tarafından ödenir.

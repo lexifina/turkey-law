@@ -1,0 +1,3 @@
+Hizmet cetvelinin düzenlenmesi
+MADDE 11 – (1) Bu Yönetmelik kapsamında kıdem tazminatı talebinde bulunan ve iş sözleşmesi kıdem tazminatını hak edecek şekilde sona ermiş olan işçinin kıdem tazminatına esas toplam süresi, 4734 sayılı Kanunun 62 nci maddesinin birinci fıkrasının (e) bendi uyarınca yapılan ihaleler kapsamında çalışmasının bulunduğu kamu kurum veya kuruluşlarınca düzenlenmiş olan hizmet cetvelleri esas alınarak tespit edilir.
+(2) Ödemeyi yapacak olan ilgili kamu kurum veya kuruluşu, işçinin çalıştığını beyan ettiği kamu kurum veya kuruluşlarından düzenlenecek hizmet cetvelinin gönderilmesini ister. Hizmet cetvelinin kamu kurum veya kuruluşu tarafından herhangi bir nedenle düzenlenememesi halinde Sosyal Güvenlik Kurumu kayıtları esas alınır.

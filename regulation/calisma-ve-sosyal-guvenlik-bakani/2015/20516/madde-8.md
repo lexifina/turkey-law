@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Kıdem Tazminatı Ödeme Usulü ve Ödemeye Esas Belgeler
+Ödeme usulü
+MADDE 8 – (1) 4734 sayılı Kanunun 62 nci maddesinin birinci fıkrasının (e) bendi kapsamında alt işveren tarafından çalıştırılan işçilerin bu Yönetmelik hükümlerine göre tespit edilen sürelere ilişkin kıdem tazminatları, ilgili kamu kurum veya kuruluşunca mülga 1475 sayılı Kanunun yürürlükte olan 14 üncü maddesi kapsamında ödenir.
+(2) Kamu kurum veya kuruluşları tarafından yapılacak olan kıdem tazminatı ödemeleri, 10 uncu maddede belirtilen belgeler esas alınarak doğrudan işçinin banka hesabına yapılır.
+(3) Bu Yönetmelik kapsamında hesaplanan kıdem tazminatı tutarı, 4734 sayılı Kanunun Ek 8 inci maddesinin birinci fıkrasının (a) bendinde belirtilen işyerlerinde kıdem tazminatı ile ilgili olarak açılacak bütçe tertibinden, (b) bendinde belirtilen işyerlerinde ise hizmet alımı gider kaleminden, ödeneğin yetip yetmediğine bakılmaksızın doğrudan işçinin banka hesabına ödenir.
+(4) Farklı kamu kurum veya kuruluşlarına ait işyerlerinde geçen hizmet sürelerinin toplamı üzerinden kıdem tazminatı ödenmesi halinde, kıdem tazminatı ödemesini gerçekleştiren son kamu kurum veya kuruluşu, ödenen kıdem tazminatı tutarının diğer kamu kurum veya kuruluşlarında geçen hizmet süresine ilişkin kısmını ilgili kamu kurum veya kuruluşundan tahsil eder. Ancak, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununa ekli (I), (II) ve (III) sayılı cetvellerinde yer alan kamu kurum veya kuruluşları arasında bu fıkra hükümlerine göre bir tahsil işlemi yapılmaz.

@@ -1,0 +1,3 @@
+İşçinin başvurusu
+MADDE 9 – (1) Bu Yönetmelik kapsamında kıdem tazminatı ödenmesi talebinde bulunan işçilerin veya ölümü halinde kanuni mirasçılarının, ilgili kamu kurum veya kuruluşuna banka hesap/IBAN numarasıyla birlikte yazılı olarak başvuruda bulunması ve çalıştığı kamu kurum veya kuruluşlarının listesi ile iş sözleşmesinin hangi nedenle sona erdiğine ilişkin olarak alt işverenden alacağı belgeyi eklemesi zorunludur.
+(2) İş sözleşmesinin hangi nedenle sona erdiğine ilişkin olarak alt işverenden alacağı belgenin alt işveren tarafından düzenlenmemesi halinde Sosyal Güvenlik Kurumu kayıtları esas alınır. Düzenlenen belgede yer alan bilgilere ilişkin uyuşmazlık durumunda mahkemece verilecek karara göre işlem yapılır.
