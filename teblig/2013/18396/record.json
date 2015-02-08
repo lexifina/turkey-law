@@ -1,0 +1,38 @@
+{
+  "source_id": "9.5.18396",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU PERSONELİ GENEL TEBLİĞİ (SERİ NO: 4)",
+  "number": "18396",
+  "path": "teblig/2013/18396",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18396&MevzuatTertip=5",
+  "source_sha256": "7a8bcfeeffb1d1ec46cc94f4ad6c00613334dba8952dcfe98b30941acf314739",
+  "source_bytes": 36416,
+  "published": "2013-05-24",
+  "gazette": "28656",
+  "in_force": "2015-02-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/2/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-02-08",
+      "RG-8/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-08",
+      "8/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2017,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
