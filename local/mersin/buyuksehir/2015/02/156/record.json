@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "156",
+  "decision_date": "2015-02-09",
+  "title": "-MEC_ KAR_ (Yenişehir, Bozön Mh_ Kent Mezarlığı",
+  "listed_as": "156-MEC_ KAR_ (Yenişehir, Bozön Mh_ Kent Mezarlığı",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/156-mec--kar--yenisehir-bozon-mh--kent-mezarligi-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk97--09-subat-2015-meclis-kararlari",
+  "listing_sha256": "51d888991ec2f57c0440da11b50dbe268481eaec946cdddb6551d350063cf6b3",
+  "meeting_title": "MK97- 09 ŞUBAT 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
