@@ -1,0 +1,2 @@
+Kredi puanı
+MADDE 11 – (1) Referans Belgesi almak veya yenilemek isteyenler başvuru tarihinde veya yenileme dönemi sonunda bu Yönetmeliğin ilgili maddelerinde belirtilen kredi puanını toplamak zorundadır. Kredi puanları; mesleki faaliyet, mesleki deneyim, meslek içi eğitim, mesleki etkinlik ve akademik unvan olmak üzere beş ana konu çerçevesinde verilir. Bu puanlar her uzmanlık alanı için ayrı ayrı değerlendirilir.

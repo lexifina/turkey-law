@@ -1,0 +1,6 @@
+Sınavlar
+MADDE 12 – (1) B Düzeyi Referans Belgesi almak üzere başvurmuş olan adaylar aşağıda açıklanan sınava katılırlar:
+a) B Düzeyi Sınavı: Aynı dönemde B Düzeyi Referans Belgesi için açılan bütün alanlar için ortak bir sınavdır. İnşaat mühendisliğinin çeşitli alanlarındaki genel ilke ve kavramları kapsar. Bu sınavda, değişik alanlardan çok sayıda soru verilir ve herbir alan için yanıtlanması zorunlu olan sorular belirtilir. Zorunlu sorular içinde olmak üzere, en az bütün soruların yarısının doğru yanıtlanması istenir.
+(2) A Düzeyi Referans Belgesi almak üzere başvurmuş olan adaylar, aşağıda açıklanan iki yazılı sınava katılırlar:
+a) Genel Konular Sınavı: Aynı dönemde A Düzeyi Referans Belgesi için açılan bütün alanlara yönelik ortak bir sınavdır. İnşaat mühendisliğinin çeşitli alanlarındaki temel ilke ve kavramlar ile mühendisin uygulama bilgisini kapsar. Bu sınav, genel değerlendirmede 1/3 oranında ağırlık taşır.
+b) Özel Konular Sınavı: Başvurulan alanın kapsadığı temel konuları ve bunlarla ilgili yönetmelik ilke ve kuralları ile bu alandaki sistemlerin tasarımına ve yapımına ilişkin uygulama kurallarını kapsayan bu sınav, genel değerlendirmede 2/3 ağırlık taşır. Bu sınavın en az yüzde 20 ağırlık taşıyan bir bölümü, 10 uncu maddenin birinci fıkrasının (ç) bendindeki raporun değerlendirmesine ayrılır.

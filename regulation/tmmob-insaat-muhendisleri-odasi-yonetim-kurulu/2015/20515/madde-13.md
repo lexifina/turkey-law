@@ -1,0 +1,4 @@
+Değerlendirme
+MADDE 13 – (1) C Düzeyi Referans Belgesi almak üzere başvurmuş olan adayların başvuru dosyaları, Referans Belgesi Kurulu 2 tarafından değerlendirilerek, belge verilecek adaylar belirlenir.
+(2) B Düzeyi ve A Düzeyi Referans Belgesi almak üzere başvurmuş olan adayların sınav sonuçları ve başvuru dosyaları, Referans Belgesi Kurulu 1 tarafından değerlendirilerek, belge verilecek adaylar belirlenir.
+(3) İMO’ya kayıtlı üyeliği B Düzeyi Referans Belgesi başvurularında oniki yıl, A Düzeyi Referans Belgesi başvurularında yirmi yıl ve üzerinde olup sınavsız Referans Belgesi almak üzere başvuran adayların, dosyaları Referans Belgesi Kurulu 1 tarafından değerlendirilerek başvuru sahibinin sınava davet edilmesine gerek bulunup bulunmadığına karar verilir. Sınava davet edilmesine gerek görülmeyen adaylara, A Düzeyi veya B Düzeyi Referans Belgesi doğrudan verilir.

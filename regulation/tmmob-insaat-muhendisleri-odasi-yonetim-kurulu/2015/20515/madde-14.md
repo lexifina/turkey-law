@@ -1,0 +1,2 @@
+İtiraz
+MADDE 14 – (1) Referans Belgesi almaya hak kazanamayanlar ya da belgesi yenilenmeyenler, Oda Yönetim Kurulu tarafından belirlenen itiraz ücretini yatırdıktan sonra, Referans Belgesi Üst Kurulu’na itiraz edebilir. Referans Belgesi Üst Kurulu, itirazı üç ay içerisinde sonuçlandırır. İtiraz haklı görülürse, itiraz ücreti başvuru sahibine geri verilir; aksi durumda, itiraz ücreti geri ödenmez. Belgesi verilmeyen ya da yenilenmeyenlerin, eksiklikleri giderilmedikçe yeni basvuruları kabul edilmez.

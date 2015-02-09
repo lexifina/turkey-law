@@ -1,0 +1,2 @@
+Referans mektubu alınması
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yürürlüğe girmesinden başlayarak yedi yıl süreyle, bu Yönetmeliğin 10 uncu maddesinin birinci fıkrasının (b) bendi gereği olan referans mektubu; aynı uzmanlık alanında en az yirmi yıl fiilen mesleğini icra eden ve bu Yönetmeliğin 7 nci maddesinin birinci fıkrasının (c) ve (ç) bentlerindeki koşulları sağlayan bir inşaat mühendisinden alınabilir.

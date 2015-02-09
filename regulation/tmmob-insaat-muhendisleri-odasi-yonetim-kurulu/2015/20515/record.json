@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20515",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TMMOB İNŞAAT MÜHENDİSLERİ ODASI REFERANS BELGESİ YÖNETMELİĞİ",
+  "number": "20515",
+  "issuer": "TMMOB İnşaat Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "tmmob-insaat-muhendisleri-odasi-yonetim-kurulu",
+  "path": "regulation/tmmob-insaat-muhendisleri-odasi-yonetim-kurulu/2015/20515",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20515&MevzuatTertip=5",
+  "source_sha256": "c48ce538fa3336f4a907ba969e16caa0fabc3409acc7e9b19c0dd910035390e5",
+  "source_bytes": 27075,
+  "published": "2015-02-09",
+  "gazette": "29262",
+  "in_force": "2015-02-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.02.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2310,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,3 @@
+Kazanılmış haklar
+GEÇİCİ MADDE 3 – (1) Önceki yıllarda İnşaat Mühendisleri Odası Yetkin İnşaat Mühendisliği Yönetmeliği çerçevesinde “Yetkin İnşaat Mühendisi” ünvanı veya İnşaat Mühendisleri Odası Yetkinlik Belgesi Yönetmeliği çerçevesinde “Yetkinlik” belgesi almaya hak kazanmış olan inşaat mühendisleri, bu Yönetmeliğin yürürlüğe girdiği günden başlayarak bir yıl içerisinde A Düzeyi Referans Belgesi almak hakkına sahiptirler.
+(2) Bu Yönetmeliğin 7 nci maddesindeki koşulları sağlayan Serbest İnşaat Mühendisliği Belgesi sahibi her üye, bu Yönetmeliğin yürürlüğe girmesinden itibaren bir yıl içerisinde herhangi bir bedel ödemeksizin C Düzeyi Referans Belgesi alma hakkına sahiptir.

@@ -1,0 +1,2 @@
+Referans Belgelendirme uygulama ilkeleri
+MADDE 21 – (1) Bu Yönetmelikte tanımlanan belgelendirme düzeninin uygulama ilkeleri ve bu Yönetmeliğin 11 inci maddesinde belirtilen kredi puanlarının dağılımı, Referans Belgesi Üst Kurulu tarafından düzenlenen ve Oda Yönetim Kurulunca onaylanarak yürürlüğe konulan TMMOB İnşaat Mühendisleri Odası Referans Belgesi Yönetmeliği Uygulama Esasları ile düzenlenir.

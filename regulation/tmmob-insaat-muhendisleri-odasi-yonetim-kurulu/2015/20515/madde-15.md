@@ -1,0 +1,5 @@
+Referans Belgesinin yıllık onayı ve yenilenmesi
+MADDE 15 – (1) Belge ilk veriliş tarihinden başlayarak; C ve B Düzeyi Referans Belgeleri üç yılda bir, A Düzeyi Referans Belgesi ise beş yılda bir yenilenir. Ancak, her üç düzeydeki belgenin de yenilenme süresi içerisinde Oda tarafından yıllık onayının yapılması gereklidir. Ayrıca belgelerin yenileme süresi içerisinde geçerli kalabilmesi için aşağıdaki koşulların yerine getirilmesi gereklidir:
+a) Yıllık onay formunu doldurarak ekleri ile birlikte vermek ve Belge yıllık onayını yaptırmış olmak. Geçmiş yıllara ilişkin onayları yaptırılmayan belgelerin geçmiş yıllar onay ücreti, onayın yapıldığı yıl ücreti üzerinden alınır,
+b) Yenileme dönemi boyunca, C Düzeyi Referans Belgesi için en az seksen kredi puanı, B Düzeyi Referans Belgesi için ise en az altmış kredi puanı toplamış olmak. Bu konudaki mazeretler ve katılınan etkinliklerin eşdeğerliği, ilgili Kurullar tarafından değerlendirilir,
+c) Yenileme süresi içerisinde, bu Yönetmeliğin 7 nci maddesinin birinci fıkrasının (c) ve (ç) bentlerinde belirtilen türden cezaları almamış olmak. Bu tür bir ceza alınırsa, belge cezanın kesinleştiği tarihte geçerliliğini yitirir.

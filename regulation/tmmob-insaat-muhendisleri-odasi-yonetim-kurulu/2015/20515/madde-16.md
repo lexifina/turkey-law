@@ -1,0 +1,3 @@
+Referans Belgesi Kurulları
+MADDE 16 – (1) Referans Belgesi Kurulu 1 ve Referans Belgesi Kurulu 2, İMO Yönetim Kurulu tarafından belirlenen ve her biri, Kurul 1’de A düzeyi, Kurul 2’de en az C Düzeyi Referans Belgesi sahibi olan beşer üyeden oluşur. Kurul toplantı ve karar yeter sayısı üçtür. Beş üyeden ikisi, izleyen dönemde üçü her iki yılda bir seçilen yeni Yönetim Kurulu tarafından yenilenir.
+(2) Her bir kurulda üyelik süresi dört yıl olup bir üye Kurul’da ardarda en çok iki dönem görev yapabilir. Bir dönem iki yıldır. Herhangi bir nedenle Kurul’dan ayrılan bir üyenin yerine Yönetim Kurulu tarafından atanacak üye, yerini aldığı üyenin görev dönemini tamamlar.
