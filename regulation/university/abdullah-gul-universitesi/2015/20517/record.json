@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/abdullah-gul-universitesi/2015/20517",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29262",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-02-09",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Abdullah Gül Üniversitesi",
+  "issuer_slug": "abdullah-gul-universitesi",
+  "kind": "regulation",
+  "published": "2015-02-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20517&MevzuatTertip=5",
+  "source_id": "8.5.20517",
+  "source_sha256": "72fefe0bb5c0519eb1536664cd4d5eaa90352c2420075ef7407f7acc54755dce",
+  "title": "ABDULLAH GÜL ÜNİVERSİTESİ GENÇLİK ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 415,
+  "version_label": "oldest version available",
+  "word_count": 1051
+}
