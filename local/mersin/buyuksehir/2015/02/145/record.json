@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "145",
+  "decision_date": "2015-02-09",
+  "title": "-MEC_ KAR_ (Yenişehir, Bahçe Mah, 2225 ada 1, 2",
+  "listed_as": "145-MEC_ KAR_ (Yenişehir, Bahçe Mah, 2225 ada 1, 2",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/145-mec--kar--yenisehir-bahce-mah-2225-ada-1-2-7-8-9-parsel",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk97--09-subat-2015-meclis-kararlari",
+  "listing_sha256": "51d888991ec2f57c0440da11b50dbe268481eaec946cdddb6551d350063cf6b3",
+  "meeting_title": "MK97- 09 ŞUBAT 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
