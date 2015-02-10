@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40016",
+  "decision_date": "2015-02-10",
+  "source_id": 9596,
+  "chamber": "6",
+  "file_number": "32391",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9596/",
+  "source_sha256": "71127aa3b638e9071ecc5fa85d94fedef27ce5816be677c62a5aa504ef5ed163",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
