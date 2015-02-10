@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40000",
+  "decision_date": "2015-02-10",
+  "source_id": 9580,
+  "chamber": "3",
+  "file_number": "38438",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2007",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9580/",
+  "source_sha256": "35e4956a68da2263b96462ae19dd4fa0e341a65b6c0db0329498f4b884576628",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
