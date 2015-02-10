@@ -1,0 +1,9 @@
+Aynı Teknik Personelin Farklı İşlerde Teknik Personel Olarak Çalışması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Denetçi sorgusunda, …. Mühendislik –…. yükleniminde bulunan “…. Mah. II. Etap Tretuvar ve Kilit Parke Yapım ” işinde Teknik Personel olarak taahhüt edilen kişilerin, yine aynı şirketin yükleminde bulunan “ …. Kilitli Parke Taşı ile Tretuar ve Yürüyüş Yolu Yapım” işinde de teknik personel olarak görev yapmaları suretiyle kamu zararına neden olunduğu iddia edildiği görülmüşse de;
+
+Gönderilen savunmalardan; aynı teknik personelin noter kanalıyla başka yapım işlerine de atanmış ve çalıştırılmış olduğu, çalıştırılan teknik personelin 7 gün 24 saat sorumluluğunun bulunduğu, dolayısıyla çalışma saatleri bakımından belli bir mesai sıkıntısının olmadığı, kontrolü altında olan iş için firma tarafından atanan teknik personelin sözleşme tarihinden önce veya sonra, kurumun, …. Belediyesinin veya başka bir kurumun yapım işlerinde de teknik personel olarak atandığının tespit edilmesinin sorumlularca mümkün olmadığı, ayrıca bahse konu yapım ihalelerinin   tam ve eksiksiz olarak yerine getirildiği ve kontrollerinin yapıldığı, sonuçta kamu zararı bulunmadığı anlaşılmış olmakla ve  denetim ekibince de  aynı durum ifade edilerek kamu zararı oluşmadığından ilişilecek husus bulunmadığına,
+
+(……….’in “…. Mühendislik –…. yükleniminde bulunan ….Mah. II. Etap Tretuvar ve Kilit Parke  Yapım” işinde Teknik Personel olarak taahhüt edilen kişinin, yine aynı şirketin yükleminde bulunan “…. Kilitli Parke Taşı ile Tretuar ve Yürüyüş Yolu  Yapım” işinde teknik personel olarak görev yapan kişi ile aynı olması nedeniyle sözleşmede belirtilen teknik personelin işin başında bulunacağı hükmüne aykırı davranılması sonucu uygulanması gereken cezai şartın uygulanmamasından kaynaklanan …. TL’lik kamu zararının sorumlularına tazmini gerekir.” şeklindeki ayrışık görüşlerine karşın)
+
+ oy çokluğuyla,
