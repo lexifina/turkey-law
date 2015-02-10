@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40018",
+  "decision_date": "2015-02-10",
+  "source_id": 9598,
+  "chamber": "6",
+  "file_number": "36590",
+  "account_year": "2005",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9598/",
+  "source_sha256": "962a1a4240ecfff7a53bd9f5f12df08ce59494fafa97215985acd6d8fe34d7c1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
