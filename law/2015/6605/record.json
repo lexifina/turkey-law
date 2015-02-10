@@ -1,0 +1,48 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6605",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Türkmenistan Hükümeti Arasında Eğitim Alanında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "adopted": "2015-02-10",
+  "adopted_as_published": "10/02/2015",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.2.2015 No: 29280",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc099/kanuntbmmc099/kanuntbmmc09906605.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 99",
+  "committee_reports": [
+    {
+      "label": "TBMM 663 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c103/tbmm24103053ss0663.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 24,
+      "kayit_no": 808832,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Türkmenistan Hükümeti Arasında Eğitim Alanında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+      "adopted_as_published": "10/02/2015",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc099/kanuntbmmc099/kanuntbmmc09906605.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 663 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c103/tbmm24103053ss0663.pdf"
+        }
+      ],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=414&v_gelecek_sayfa=301&v_kullanici_id=27483204",
+      "page_sha256": "25bc5f32eaed35757956e885d3259211a59e81c5f5f0d38da827c7ebdbb7e220"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "25bc5f32eaed35757956e885d3259211a59e81c5f5f0d38da827c7ebdbb7e220",
+  "issuer": "TBMM",
+  "in_force": "2015-02-10",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 10/02/2015; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
