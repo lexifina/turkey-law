@@ -1,0 +1,2 @@
+Şûra sekreteri, sekreter yardımcıları ve raportörlerin görevlendirilmesi
+MADDE 15 – (1) Genel Müdürün teklifi ve Bakanın Onayı ile Bakanlık ilgili birimlerinden seçilecek Şûra sekreteri ve beş sekreter yardımcısı görevlendirilir. Şûra sekretaryasında ilgili birimlerden yeterli sayıda raportör görevlendirilebilir. Şûra sekretaryası için gerekli fiziki mekân, donanım ve malzemeler Genel Müdürlükçe sağlanır.

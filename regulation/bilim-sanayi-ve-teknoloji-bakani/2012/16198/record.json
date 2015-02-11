@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.16198",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SANAYİ ŞÛRASI YÖNETMELİĞİ",
+  "number": "16198",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2012/16198",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16198&MevzuatTertip=5",
+  "source_sha256": "58090222e50ad69b6760bd80f8d62a59f3f69a2f6bf212ab7d85ac98125021b0",
+  "source_bytes": 33030,
+  "published": "2012-06-03",
+  "gazette": "28312",
+  "in_force": "2015-02-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/2/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-02-11",
+      "RG-11/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-02-11",
+      "11/2/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1174,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

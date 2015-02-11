@@ -1,0 +1,6 @@
+Şûra toplantısı
+MADDE 11 – (1) Şûra Bakanın başkanlığında üyelerin salt çoğunluğu ile toplanır. Açılışın ardından toplantıların yönetiminde Şûra başkanına yardımcı olmak üzere açık oylama suretiyle üyeler arasından Şûra başkan vekili, üç başkan yardımcısı ve en az dört raportör seçilerek başkanlık divanı oluşturulur. Oyların eşitliği halinde Bakanın bulunduğu taraf çoğunluğu sağlamış sayılır.
+(2) Şûra toplantıları iki günden az, beş günden fazla olamaz.
+(3) Şûra oturumları çağrı ile birlikte gönderilen gündemde belirlenen konu ve sürelere bağlı kalınarak yapılır.
+(4) Oturumlarda gündemle ilgili söz almak isteyen üyeler bu taleplerini başkanlık divanına ad bildirmek suretiyle iletirler ve başkanlık divanı söz almak isteyen her üyenin görüşünü belirtmesini sağlayacak şekilde konuşma sürelerini belirler.
+(5) Tavsiye kararı içeren komisyon raporları özeti başkanlık divanınca okutulur, söz almak isteyen üyelerin tümünün görüşünü belirtmesi suretiyle müzakere edilerek görüşmeler tamamlanır ve tavsiye kararları hakkında açık oylama yapılır. Tavsiye kararlarına ilişkin olarak yapılan oylamada her üye kabul veya ret şeklinde oy kullanır. Çekimser oy kullanılmaz. Tavsiye kararları oylama sonucuna göre kabul ya da reddedilerek Şûra kararına dönüştürülür. Oyların eşitliği halinde Bakanın bulunduğu taraf çoğunluğu sağlamış sayılır.
