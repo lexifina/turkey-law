@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-02-11T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-02-11",
+  "official_number": "93767041-140[108-2014/5]-7",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36071",
+  "source_id": "ozelge:36071",
+  "source_row_sha256": "74177e568afc85c5a184ee5d7a4ceb8c838fcacbaeeac2a5c3a162fe7dcc5703",
+  "title": "Özelleştirme bedeli, lisans ihale bedeli ve su kullanım bedeli ödenmesi durumunda, elektrik üretimi lisans harcı ödenip ödenmeyeceği hk.",
+  "version_label": "as-enacted",
+  "word_count": 250
+}
