@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5468/2",
+  "decision_date": "2015-02-12",
+  "title": "Enerji Piyasası Bildirim Sistemi Kullanım Talimatına İlişkin Kurul Kararında Değişiklik Yapılmasına Dair Kurul Kararı",
+  "categories": [
+    "Lisans İşlemleri Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5GXes2cbh1g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5GXes2cbh1g="
+  ],
+  "source_sha256": "2420fbd0e5d874e6674d1e5130a5f6bf196f329c31668b344d78ff8713e8a247",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4913,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-02-12",
+  "law_text_complete": false
+}
