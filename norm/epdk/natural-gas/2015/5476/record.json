@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5476",
+  "decision_date": "2015-02-12",
+  "title": "AKSA ÇANAKKALE Doğal Gaz Dağıtım A.Ş.’nin 2012-2016 tarife döneminde uygulayacak olduğu perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2015-02-15",
+  "resmi_gazete_number": "29628",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BVyT7EsqkPQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BVyT7EsqkPQ="
+  ],
+  "source_sha256": "30baae49879f5bbf02553ccfddd81e9cc7143cc560faae8d20882d97d8d7d9a4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-02-12",
+  "law_text_complete": false
+}
