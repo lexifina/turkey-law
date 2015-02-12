@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.20170",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "A1 BELGELENDİRME VE MUAYENE HİZMETLERİ LİMİTED ŞİRKETİ’NİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (SGM: 2014/36)",
+  "number": "20170",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2014/20170",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20170&MevzuatTertip=5",
+  "source_sha256": "267d184d0bc3a80d050d2db805b187589687ef7035e0a8ac705d3476403a93d4",
+  "source_bytes": 14647,
+  "published": "2014-10-26",
+  "gazette": "29157",
+  "in_force": "2015-02-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/2/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-02-12",
+      "RG-12/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-12",
+      "12/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 177,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
