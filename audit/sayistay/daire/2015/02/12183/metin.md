@@ -1,0 +1,17 @@
+İhale Usulü Yerine Doğrudan Temin Usulünün Kullanılması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Denetçi sorgusunda, .......... Büyükşehir Belediyesi Ulaşım Daire Başkanlığı tarafından  yolcu taşıma hizmeti  için kullanmak üzere deniz otobüsü kiralanırken ihale yapılması gerektiği halde ihale yapılmadığı ve  doğrudan temin usulünün  kullanıldığı  iddia edilmekte  ise de;
+
+Sorumluların savunmalarından, Halen yürürlükte olan 193  sayılı Gelir Vergisi Kanunu’nun 70/7’nci maddesinde; gemi ve gemi payları ( motorlu olup, olmadıklarına ve tonilatolarına bakılmaz) ile bilumum motorlu tahmil ve tahliye vasıtalarının mal ve hakların sahipleri, mutasarrıfları, zilyetleri, irtifak ve intifa hakkı sahipleri veya kiracıları tarafından kiraya verilmesinden elde edilen iratların gayrimenkul sermaye iradı olarak belirtildiği,
+
+            6102  sayılı Türk Ticaret Kanunu’nun 936’ncı maddesine göre; sicile kayıtlı olup, olmadıklarına bakılmaksızın bütün gemilerin bu Kanunun ve diğer kanunların uygulanmasında taşınır eşyadan sayıldığı, ancak aynı Kanun’un 937’nci maddesine göre; İcra ve İflas Kanunu’nun taşınmazlara ilişkin hükümlerine tabi olacağı açıkça bildirilen gemiler hakkında 936’ncı madde hükmünün uygulanamayacağı,.
+
+           Halen yürürlükte olan 2004  sayılı İcra İflas Kanunu 136’ncı maddesine göre; taşınmaz malların satışına ilişkin hükümlerin, bayrağı dikkate alınmaksızın gemi siciline kayıtlı bütün gemiler hakkında da uygulanacağını, bu hükümlerde geçen "tapu sicili" teriminin gemi sicilini, "ipotek" teriminin gemi ipoteklerini ve "irtifak hakkı" teriminin sicile kayıtlı gemiler üzerindeki intifa hakkını ifade ettiği, yani taşınmazların satışına ilişkin hükümlerin gemilere de uygulanacağı, bu durumda Türk Ticaret Kanunu 936’ncı maddesinde yer alan gemilerin taşınmaz olduğuna dair düzenlemenin 937’nci madde uyarınca uygulanamayacağı,
+
+           Yargıtay 11’inci Hukuk Dairesi’nin  2009/8060 E. 2010/3 karar  sayılı kararında ve Yargıtay 12’nci Hukuk Dairesi’nin 2008/21383 E. 2009/2233 K.  sayılı kararında belirtildiği üzere; taşınmaz tabirinin gemi siciline kayıtlı olan gemileri de kapsamakta olduğu,
+
+           Ayrıca; Deniz yolundan yapılan yolcu taşımacılığının, her bölgenin nüfus yapısına, insan hareketlerine, ulaşım mesafelerine, iskelelerin birbirine olan uzaklığına ve konumuna göre farklı özellikler arz ettiğini, .......... ........indeki yerleşim yerleri, ........in yapısı, seferlerin birbiri ile bağlantılı olması, bazı seferlerin ........in yapısı itibari ile aynı anda hem kıyıya paralel hem de kıyıya dik özellikte olması, sefer sıklığının fazla olması, sefer saatlerinin sabahın erken saatlerinde  başlaması ve akşamın geç saatlerinde bitmesi gibi özellikler göz önüne alındığında yapılan uygulamanın yerinde olduğu,
+
+Deniz ulaşımının ihale yolu ile yapılan kiralama modeli baz alınarak kiralama yapılmış olsa idi karşılaşılacak maliyetin daha yüksek olacağı, mer'i mevzuata göre gemilerin taşınmaz hükümlerine tabi olacağı, 4734  sayılı Kamu İhale Kanunun temel ilkeler kısmında idarelerin kaynakların verimli kullanılmasını sağlamakla sorumlu olduğu gerçeği ve piyasa koşullarından yapılan kiralama maliyeti göz önüne alındığında, kiralama işinin 4734  sayılı Kamu İhale Kanunu 22/e maddesine göre yapılmasında bir sakınca olmadığı, bu nedenle yapılan işlemlerin yasal düzenlemelere uygun olduğu   anlaşılmış olup bu konuda ilişilecek husus bulunmadığına,  oy birliğiyle,
