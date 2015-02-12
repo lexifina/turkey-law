@@ -1,0 +1,4 @@
+Tarife kontenjanı dağıtımı
+MADDE 4 – (1) Tarife kontenjanı, öncelikli olarak söz konusu ürünü üretimlerinde girdi olarak kullanan firmalara dağıtılır.
+(2) Değerlendirmeye alınabilecek nitelikteki başvurularda talep edilen toplam tarife kontenjanı miktarının, açılmış olan tarife kontenjanı miktarına eşit veya daha az olması durumunda talepler tam olarak karşılanır.
+(3) Değerlendirmeye alınabilecek nitelikteki başvurularda talep edilen toplam tarife kontenjanı miktarının açılan tarife kontenjanı miktarından daha fazla olması durumunda ise dağıtım, geçerli başvuru sayısı, toplam talep miktarı, 2012, 2013 yılları ile 2014 yılı ilk altı ayına ait ithalat performansı, üretim, üretim kapasitesi, tüketim kapasitesi, fiili sarfiyatlar, istihdam ve ödenen/tahakkuk eden vergiler dikkate alınmak suretiyle gerçekleştirilir.
