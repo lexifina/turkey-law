@@ -1,0 +1,49 @@
+{
+  "source_id": "7.5.17270",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇAY İŞLETMELERİ GENEL MÜDÜRLÜĞÜ ANA STATÜSÜ",
+  "number": "17270",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1996/17270",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=17270&MevzuatTertip=5",
+  "source_sha256": "de0cf4e27ad5ac4ab843acf21845e08983a170b41a139faf5c71c7bc201515bd",
+  "source_bytes": 52983,
+  "published": "1996-12-20",
+  "gazette": "22853",
+  "in_force": "2015-02-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/2/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-02-12",
+      "RG-12/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-12",
+      "12/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-04-11",
+      "RG-11/4/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-04-11",
+      "11/4/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2853,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

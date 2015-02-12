@@ -1,0 +1,4 @@
+Geçici Madde 2 — 1 - Hazinenin veya çeşitli kamu kuruluş ve kurumlarının mevcut iştiraklerdeki hisseleri, iştirakın faaliyet alanına en yakın teşebbüslere veya bağlı ortaklıklara devredilir. Devir işlemleri KHK’nin yürürlüğe girdiği tarihi izleyen bir yıl içinde tamamlanır.
+2 — Birinci fıkra gereğince yapılacak devir işlemlerini gerçekleştirebilmek amacıyla teşebbüslerin sermayelerini yeterince arttırmaya, gerekli takas ve mahsup işlemlerini yapmaya Hazine Müsteşarlığı yetkilidir. Hazine Müsteşarlığınca yapılan bu işlemlerin sonucuna göre cari yıl bütçesine gelir kaydetmeye, mevcut veya yeniden açılacak tertiplere ödenek koymaya ve gider kaydetmeye Başbakanlık yetkilidir.
+3 — Bu madde gereğince yapılacak iştirak paylarının devrinde nominal değerler esas alınır.
+4 — Bu madde gereğince yapılacak iştirak paylarının devri sonunda Türk Ticaret Kanununun 277 nci maddesindeki beş ortak şartı aranmaz.
