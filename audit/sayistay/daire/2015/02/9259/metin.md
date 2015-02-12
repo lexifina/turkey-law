@@ -1,0 +1,3 @@
+Damga Vergisi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …. Belediyesi tarafından 23.10.2013 tarihinde 2886 sayılı Devlet İhale Kanunu’nun 45’inci maddesi gereğince açık teklif usulü ile ihalesi yapılan “…. Mahallesi …. ada … nolu parselde bulunan 6104 m² yüzölçümlü arsanın satışı” işine dair düzenlenmiş ihale kararından, 488 sayılı Damga Vergisi Kanunu’na ekli 1 sayılı Tablonun “II. Kararlar ve Mazbatalar” başlığının 2’nci bendi uyarınca damga vergisi kesintisinin yapılmaması sonucu ….. TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararı ahizinden ....tarih ve ....nolu makbuzla tahsil edildiğinden ilişilecek husus kalmadığına  oy birliğiyle,
