@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/168",
+  "list_number": "168",
+  "decision_date": "2015-02-13",
+  "title": "25. Dönem Milletvekili Genel Seçiminde \"Siyasi Partilerin Aday Bildirimine İlişkin Usul ve Esaslar\"ın belirlenmesine ilişkin Yüksek Seçim Kurulunun 2015/168 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2252/2015-168.pdf",
+  "source_sha256": "34800d4313f96a94e945be588028943e8232b79bf68b877fc8b4714667885974",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 6,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-02-13",
+  "law_text_complete": false
+}
