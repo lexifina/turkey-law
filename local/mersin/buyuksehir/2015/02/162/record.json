@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "162",
+  "decision_date": "2015-02-13",
+  "title": "MEC_ KAR_ (Toroslar kavşak ve yol güzergâhı )",
+  "listed_as": "162 MEC_ KAR_ (Toroslar kavşak ve yol güzergâhı )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/162-mec--kar--toroslar-kavsak-ve-yol-guzergâhi-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk96--13-subat-2015-meclis-kararlari",
+  "listing_sha256": "53a459880bd83c1b9fddca2d568352d9552580fa4db970a2a9d4118c88450424",
+  "meeting_title": "MK96- 13 ŞUBAT 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
