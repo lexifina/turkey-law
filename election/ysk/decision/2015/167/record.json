@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/167",
+  "list_number": "167",
+  "decision_date": "2015-02-13",
+  "title": "25. Dönem Milletvekili Genel Seçiminde bağımsız adayların başvurularında uyulması zorunlu usuller ile yatıracakları teminat miktarının saptanması ve sair hususların belirlenmesine ilişkin Yüksek Seçim Kurulunun 2015/167 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2254/2015-167.pdf",
+  "source_sha256": "b5caa98f2cbe1fdd4ab285997718bc245faa03fb62beaad499e5d5fc10f14e4e",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-02-13",
+  "law_text_complete": false
+}
