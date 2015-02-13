@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "168",
+  "decision_date": "2015-02-13",
+  "title": "MEC_ KAR_ (Almanya Oberhausen )",
+  "listed_as": "168 MEC_ KAR_ (Almanya Oberhausen )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/168-mec--kar--almanya-oberhausen-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk96--13-subat-2015-meclis-kararlari",
+  "listing_sha256": "53a459880bd83c1b9fddca2d568352d9552580fa4db970a2a9d4118c88450424",
+  "meeting_title": "MK96- 13 ŞUBAT 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
