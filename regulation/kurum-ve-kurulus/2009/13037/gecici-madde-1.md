@@ -1,0 +1,2 @@
+Mesleki deneyim kazanma
+GEÇİCİ MADDE 1 – (1) Mesleki deneyim kazanma çalışmaları; serbest meslek mensupları ve serbest yeminli meslek mensuplarınca kurulan ormancılık ve orman ürünleri büroları sayılarının, yüksek öğretim kurumlarından bir yılda mezun olan mühendislerin sayısına ulaşıncaya kadar, uzmanlık alanlarına uygun ormancılık, orman endüstrisi ve ağaç işleri endüstrisiyle uğraşan kamu kurum ve kuruluşları ile ruhsatlı serbest meslek mensubu çalıştıran gerçek kişilere ve özel hukuk tüzel kişilerine ait işyerlerinde de yapılabilir.

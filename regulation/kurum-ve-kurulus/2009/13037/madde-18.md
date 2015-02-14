@@ -1,0 +1,3 @@
+Mesleki deneyim kazanma çalışmalarına başlama
+MADDE 18 – (1) TEMDEM tarafından mesleki deneyim kazanma çalışmalarına başlamalarına karar verilen aday meslek mensubunun, hangi meslek mensubunun yanında veya gözetim ve denetiminde çalışmalara başlayacağı Oda tarafından (Mülga ibare:RG-14/2/2015-29267) (…) yanında çalışma yapacak meslek mensubuna bildirilir.
+(2) Aday meslek mensubu, ilgili mesleki deneyim kazanma döneminin ilk on günü içinde çalışmaya başlamak zorundadır. Yanında mesleki deneyim kazanma çalışmalarına başlanan meslek mensubu; durumu bir yazıyla Odaya bildirir ve bu yazı aday meslek mensubunun dosyasında saklanır.

@@ -1,0 +1,2 @@
+Tezkiyeler
+MADDE 26 – (1) Meslek mensupları, yanında veya gözetim ve denetiminde mesleki deneyim kazanma çalışmaları yapan aday meslek mensupları hakkında çalışma bitiminde 100 puan üzerinden not vermek suretiyle gizli tezkiye düzenler ve bu değerlendirmeyi aday meslek mensubunun dosyasına konulmak üzere Odaya gönderir. 3 aydan az mesleki deneyim kazanma çalışması yapan adaylar için tezkiye düzenlenmez. Tezkiye formunun şekli ve içeriği TEMDEM tarafından belirlenir.

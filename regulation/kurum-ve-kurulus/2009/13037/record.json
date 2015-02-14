@@ -1,0 +1,62 @@
+{
+  "source_id": "7.5.13037",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMAN MÜHENDİSLERİ ODASI MESLEKİ DENEYİM KAZANMA VE MESLEK MENSUPLUĞU SINAV YÖNETMELİĞİ",
+  "number": "13037",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2009/13037",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13037&MevzuatTertip=5",
+  "source_sha256": "a9b83a4fc21cbc1bdd012fe1383c8fdf0301dab51567820e6bf87bd3d51bd444",
+  "source_bytes": 120015,
+  "published": "2009-05-06",
+  "gazette": "27220",
+  "in_force": "2015-02-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/2/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-02-14",
+      "RG-14/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-14",
+      "14/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-07-21",
+      "RG-21/7/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-07-21",
+      "21/7/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-12-31",
+      "RG-31/12/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-12-31",
+      "31/12/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 27/2/2007 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6476,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
