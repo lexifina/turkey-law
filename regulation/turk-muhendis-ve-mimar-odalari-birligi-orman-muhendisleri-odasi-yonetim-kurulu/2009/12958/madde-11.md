@@ -1,0 +1,4 @@
+Mesleki faaliyete başlama
+MADDE 11 – (1) Ruhsatını alıp meslek kütüğüne kayıtları yapılan serbest meslek mensupları; Odanın çalışanlar listesine (Değişik ibare:RG-31/12/2009-27499 4.mükerrer) (Ek-7) kayıt yaptırdıktan ve vergi mükellefi olduktan sonra mesleki faaliyetlere başlayabilirler. Ruhsat almayanlar, vergi mükellefi olmayanlar ile odanın çalışanlar listesine kayıt olmayanlar mesleki faaliyette bulunamazlar.
+(2) Ormancılık ve orman ürünleri büroları ile gerçek ve özel hukuk tüzel kişilerine ait iş yerlerinde hizmet akdiyle çalışan ruhsat belgeli meslek mensupları aynı zamanda, ormancılık ve orman ürünleri büroları açamazlar ve şirket kuramazlar.
+(3) Bu hususa uymadan mesleki faaliyette bulunanlar hakkında 27/1/1954 tarihli ve 6235 sayılı Türk Mühendis ve Mimar Odaları Birliği Kanunu disiplin hükümleri uygulanır ve Cumhuriyet Başsavcılığına suç duyurusunda bulunulur.

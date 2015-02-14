@@ -1,0 +1,3 @@
+En az ücretin altında iş kabul etme
+MADDE 42 – (1) Meslek mensupları, hizmetlerine karşılık alacakları ücretin en az miktarının tespitine dair usul ve esaslara göre Odaca belirlenen ücretin altında iş kabulü yapamaz. Bunun üzerindeki ücret ise meslek mensubu ile iş sahipleri arasında serbestçe belirlenebilir.
+(2) (Değişik:RG-19/7/2012-28358) Meslek mensupları, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu esaslarına göre yapılacak mesleki hizmet alımı ihalelerinde, ihaleyi yapan kurum ve kuruluşa, Kanunun 13 üncü maddesine göre Oda tarafından belirlenen asgari ücret tarifesi altında teklif veremez.

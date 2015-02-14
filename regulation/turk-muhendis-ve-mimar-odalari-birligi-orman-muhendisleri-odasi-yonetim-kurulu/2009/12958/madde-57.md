@@ -1,0 +1,2 @@
+Denetimin planlaması
+MADDE 57 – (1) Yetkili meslek mensubu, denetimin zaman sürecini, denetimde görevlendirilecek eleman sayısını ve iş bölümünü, iç kontrol organizasyonundan yararlanıp yararlanılmayacağını, denetimde ağırlık verilecek hususları içeren yazılı bir denetleme programı hazırlar. Hazırlanan denetleme programı, denetlemeyi isteyen iş sahibinin mutabakatına sunulur. Mutabakatın sağlanması halinde, çalışma dosyası açılarak denetime başlanır.

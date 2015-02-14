@@ -1,0 +1,5 @@
+Bilgi ve belgelerin toplanması
+MADDE 59 – (1) (Değişik cümle:RG-19/7/2012-28358) Serbest yeminli meslek mensubu, gerçek ve tüzel kişilerin tablolarında yer alan teknik çalışma ve uygulama sonuçlarının gerçeği yansıtıp yansıtmadığının ve kayıtlara doğru olarak geçirildiğinin tespiti için gerekli bilgi ve belgeleri toplamak ve değerlendirmek amacı ile aşağıdaki çalışmaları yerine getirmekle yükümlüdür.
+a) Teknik denetimde; saptanan doküman ve bilgiler ışığında uygulamaların yerinde olup olmadığı, arazi ve işyerinde yapılacak çalışmalarla karşılaştırmalı olarak incelenir. Bu tespit edilen doküman ve bilgiler, yapılan fiili çalışmaların kayıtlara uygunluğu ve ilgili mevzuatına uygunluğunun tespitinde kullanılır.
+b) İdari denetimde; tespit edilen doküman ve bilgiler ışığında (a) bendinde belirlenen şekilde ve denetim amacına uygun olacak şekilde hareket edilir.
+(2) (Değişik:RG-19/7/2012-28358) Gerçek ve tüzel kişilerce istenilecek denetim hizmetlerinde birinci fıkrada belirtilen hususlara göre denetim yapılır.

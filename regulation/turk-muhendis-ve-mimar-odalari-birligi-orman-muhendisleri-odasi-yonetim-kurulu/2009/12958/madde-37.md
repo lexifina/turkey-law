@@ -1,0 +1,2 @@
+İnceleme ve nakil talebinin kabulü
+MADDE 37 – (1) Başvurulan Oda şube yönetim kurulu nakil başvurusu üzerine gerekli incelemeleri yapar. Talebin kabulü halinde meslek mensubunu oda şubesine kayıt eder. Kayıt günü, Odaya ve geldiği şubeye bildirilir. Meslek mensubunun geldiği oda şubesi, bu bildiri üzerine meslek mensubunun adını kayıtlarından siler, dosyasını naklolduğu oda şubesine gönderir ve durumu Oda genel merkezine bildirir.

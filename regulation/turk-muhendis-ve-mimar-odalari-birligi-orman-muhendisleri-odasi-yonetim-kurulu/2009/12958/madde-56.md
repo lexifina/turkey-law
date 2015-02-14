@@ -1,0 +1,2 @@
+Denetim öncesi saptanacak hususlar
+MADDE 56 – (1) Serbest yeminli meslek mensupları, uzmanlık deneyimlerini ve yeteneklerini göz önünde bulundurarak, teklif edilen işi kabul edip etmemekte serbesttirler. (Değişik cümle:RG-19/7/2012-28358) Serbest yeminli meslek mensupları, gerçek ve tüzel kişilerde denetlenmesi istenen hususlara ait her türlü dosya, doküman, bilgi ve belgeyi kullanarak işin kabul edilmesine karar verir ve denetim ücretini, denetimin kapsamını ve planlamasını tespit eder.

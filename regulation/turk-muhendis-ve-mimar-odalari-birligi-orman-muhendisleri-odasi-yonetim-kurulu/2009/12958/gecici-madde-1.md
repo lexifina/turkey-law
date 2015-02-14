@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Kanunun Resmî Gazete’de yayınlandığı 8/7/2006 tarihinden önce fakülte veya lisans düzeyinde eğitim veren yüksek okullardan mezun mühendislere, istedikleri takdirde ve kanunî bir engelleri yok ise Odaca serbest meslek mensupluğu ruhsatı verilir.

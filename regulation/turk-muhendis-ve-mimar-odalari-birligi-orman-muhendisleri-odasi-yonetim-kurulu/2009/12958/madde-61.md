@@ -1,0 +1,3 @@
+Kanunsuz işlemleri bildirim yükümlülüğü
+MADDE 61 – (1) Meslek mensupları; denetim faaliyeti sırasında mevzuat hükümlerine aykırı, hatalı ve kusurlu işlemleri tespit ettikleri takdirde, ilgililere hata ve kusurların düzeltilmesini teklif ederler. Bu teklife rağmen, hata ve kusurların düzeltilmemesi halinde, durum bu Yönetmeliğin 63 üncü maddesinin birinci fıkrasının (c) bendinde belirtilen olumsuz raporla birlikte ilgili (Değişik ibare:RG-19/7/2012-28358) yerlere aksettirilir.
+(2) (Değişik:RG-19/7/2012-28358) Denetim sonunda, yargıya intikali gerekli olan ve konusu suç teşkil eden durumlar yetkili mercilere duyurulur.

@@ -1,0 +1,3 @@
+Ruhsatlı meslek mensuplarının hakları ve ödevleri
+MADDE 9 – (1) Ruhsat almış meslek mensupları; mesleki faaliyette bulunmadıkları, meslek konusu dışında başka işlerde çalıştıkları veya bağımlı olarak çalıştıkları halde meslek kütüğündeki kayıtları kanunlarında mani bir durum yoksa veya kendi istekleri dışında silinemez. Meslek kütüğüne kayıtlı olmaları halinde; Odanın faaliyetlerine katılırlar ve üyelikten doğan haklarını kullanırlar.
+(2) Ruhsat alan meslek mensupları; mesleki faaliyetlerde bulunmadıkları, meslek konusu dışında başka işlerde çalıştıkları veya bağımlı olarak çalıştıkları takdirde unvanlarını ve tasdik yetkilerini kullanamazlar. Odaya karşı üyelikten doğan ödevlerini yerine getirirler.

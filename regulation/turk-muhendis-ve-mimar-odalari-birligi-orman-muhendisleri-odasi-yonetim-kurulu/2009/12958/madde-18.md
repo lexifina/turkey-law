@@ -1,0 +1,4 @@
+Ormancılık ve orman ürünleri bürolarının denetimi
+MADDE 18 – (1) (Değişik:RG-14/2/2015-29267) Serbest ormancılık ve orman ürünleri büroları ile şirketlerin arazi ve büro çalışmaları, Oda Yönetim Kurulunun kararı ile belirlenecek usul ve esaslar ve yapılacak plan doğrultusunda, Oda Denetleme Kurulunca veya Oda Yönetim Kurulunun belirleyeceği ücret karşılığında serbest meslek mensupluğu hakkını kazanmış iki kişiden oluşan denetim heyetince denetlenir. Denetim heyet üyeleri, Oda mevzuatına göre birlikte ya da ayrı olmak üzere soruşturmacı olarak da görevlendirilebilir.
+(2) Meslek mensuplarınca idareye iş yapılması durumunda ve idarece gerek görülmesi halinde, denetim elemanlarınca yapılacak denetimler dışında teftiş kuruluna işin yapım aşamasında veya bitiminde denetim yaptırabilir.
+(3) Oda yönetim kurulu, bu denetimler sonucunda düzenlenen raporlar doğrultusunda gerekli işlemleri yerine getirir.

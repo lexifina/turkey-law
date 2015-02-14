@@ -1,0 +1,2 @@
+Defter ve belgelerin saklanması ve iadesi
+MADDE 50 – (1) Meslek mensupları, kendilerine tevdi edilen defter ve belgeleri işlerinin gerektirdiği süre içinde iyiniyetle muhafaza ve işin bitiminde iade etmek zorundadır. Şu kadar ki, defter ve belgelerin geri alınması, sahibine yazı ile bildirilmiş olduğu hallerde saklama mükellefiyeti bildirme tarihinden itibaren bir ay içinde sona erer. İşin bitiminden itibaren bir ay içinde sahipleri tarafından alınmayan defter ve belgeler bir yazı ile ilgililere teslim edilir.
