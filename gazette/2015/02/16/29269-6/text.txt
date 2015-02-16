@@ -1,0 +1,314 @@
+16 Şubat 2015 PAZARTESİ
+Resmî Gazete
+Sayı : 29269
+TEBLİĞ
+Bilgi Teknolojileri ve İletişim Kurumundan:
+3N MOBİL HABERLEŞME HİZMETLERİNDE HİZMET KALİTESİ
+ÖLÇÜTLERİNİN ELDE EDİLMESİNE İLİŞKİN TEBLİĞ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, IMT–2000/UMTS
+Altyapılarının Kurulması ve İşletilmesi ile Hizmetlerinin Sunulmasına
+İlişkin İmtiyaz Sözleşmesinin kapsama alanı yükümlülüğü hükümlerinde
+belirlenen yerleşim alanlarında hizmet kalitesi ölçütlerine ilişkin ölçüm
+ve saha test yöntemlerinin belirlenmesine yönelik usul ve esasları
+düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Tebliğ, 3N mobil haberleşme
+hizmeti sunan işletmeciler tarafından kapsama alanı yükümlülükleri
+çerçevesinde sunulan 3N mobil haberleşme hizmetlerine ilişkin hizmet
+kalitesi ölçütlerini kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Tebliğ, 5/11/2008 tarihli
+ve 5809 sayılı Elektronik Haberleşme Kanununun 4 üncü, 6 ncı, 12 nci, 48
+inci ve 52 nci maddeleri ile 12/9/2010 tarihli ve 27697 sayılı Resmî
+Gazete’de yayımlanan Elektronik Haberleşme Sektöründe Hizmet Kalitesi
+Yönetmeliğine dayanılarak hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) 3N: IMT-2000/UMTS standartlarında veya bu
+standartlar temel alınarak geliştirilen standartlarda kurulan üçüncü nesil
+mobil elektronik haberleşme sistemini,
+b) Arama başarısızlık oranı: Başarılı olarak
+kurulan ancak abonenin isteği dışında herhangi bir nedenle sonlanan arama
+sayısının toplam başarılı arama sayısına oranını,
+c) Arama blokaj oranı: Kapsama alanı içinde yapılan
+aramalarda, radyo link, transmisyon, anahtarlama gibi sistemlerdeki kaynak
+yetersizliğinden dolayı bağlantı kurulamayan arama girişimi sayısının
+toplam arama girişimi sayısına oranını,
+ç) Başarısız erişim oranı (HTTP): Http hizmetine erişim
+için başarısız erişim teşebbüsü sayısının tüm erişim teşebbüsü sayısına
+oranını,
+d) Başarısız veri indirme oranı (HTTP): İnternet
+sayfası içeriğinin başarılı bir şekilde görüntülenmesi için; indirme işlemi
+başlatılan ancak tamamlanamayan veri indirme sayısının toplam başarılı
+olarak başlatılan veri indirme sayısına oranını,
+e) Döngü: Veri hizmetlerine yönelik hizmet kalitesi
+ölçüt değerlerinin elde edilmesi amacıyla saha testlerinde belirli sayıda
+yinelenen işlemleri,
+f) En yoğun saat: 24 saat boyunca yapılan ölçümler
+sonucunda her gün için ayrı olarak ve saat başı dikkate alınarak belirlenen
+trafik yoğunluğunun en fazla olduğu bir (1) saati,
+g) Hücre: Bir 3N baz verici istasyonu (NodeB)
+tarafından kapsama alanı içine alınan ve servis verilen en küçük coğrafi
+alanı,
+ğ) HTTP: Bağlantılı Metin Aktarım Protokolünü
+(Hyper Text Transfer Protocol)
+h) İmtiyaz sözleşmesi: 3N işletmecileri ile Kurum
+arasında imzalanan IMT–2000/UMTS Altyapılarının Kurulması ve İşletilmesi
+ile Hizmetlerinin Sunulmasına İlişkin İmtiyaz Sözleşmesini,
+ı) KMH (SMS): Kısa mesaj hizmetini,
+i) KMH tamamlanma oranı: Kapsama alanı içerisinde
+aktif durumda bulunan aboneler arasında üretilen ve uçtan uca KMH teslim
+süresi içerisinde bir terminal cihazından diğer bir terminal cihazına
+başarılı bir şekilde iletilen toplam KMH sayısının gönderilen toplam KMH
+sayısına oranını,
+j) Kurul: Bilgi Teknolojileri ve İletişim Kurulunu,
+k) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+l) OKD (MOS): Uçtan uca ses kalitesi ölçümlerinde
+kullanılan ve ölçüm yöntemi ITU-T P.862 tavsiye kararında tanımlanan
+ortalama kanaat değerini,
+m) Ölçüm: Hizmet kalitesi ölçütlerine ilişkin
+bilgilerin işletmecilerin kendi 3N şebekesi üzerinden bilgisayar ve yazılım
+imkânlarıyla derlenmesi ve analiz edilmesi suretiyle elde edilmesini,
+n) Saha testi: Hizmet kalitesi ölçütlerine ilişkin
+bilgilerin, mahallinde havadan alınan sinyal üzerinden analiz sistemleri
+kullanılarak elde edilmesini,
+o) TÜİK: Türkiye İstatistik Kurumunu,
+ö) Uçtan uca KMH teslim süresi: Kapsama alanı
+içerisinde aktif durumda bulunan aboneler tarafından üretilen KMH’nin, kısa
+mesaj merkezinden aboneye iletildiği ve abone tarafından alındı mesajının
+kısa mesaj merkezine gönderildiği ve saniye cinsinden ölçülen süreyi,
+p) Yönetmelik: 12/9/2010 tarihli ve 27697 sayılı
+Resmî Gazete’de yayımlanan Elektronik Haberleşme Sektöründe Hizmet Kalitesi
+Yönetmeliğini,
+ifade eder.
+İKİNCİ BÖLÜM
+Yerleşim Alanları, Standartlar ve Ölçüt
+Değerlerinin Elde Edilme Yöntemi
+Yerleşim
+alanları
+MADDE 5 –
+(1) Ölçüm ve saha testleri,
+imtiyaz sözleşmesi hükümlerine istinaden kapsama alanı yükümlülüğü bulunan
+yerleşim alanları üzerinden yapılır.
+(2) Birinci fıkranın uygulanmasında, TÜİK’in en son
+resmi nüfus sayımı sonuçları esas alınır.
+Hizmet
+kalitesine ilişkin standartlar
+MADDE 6 – (1) İşletmeci, hizmet kalitesi ölçütlerine ilişkin
+ölçümler ve saha testlerinde ilgili mevzuat ve bu Tebliğde belirtilmeyen
+hususlarda; uluslararası standart ve usullere, ITU tavsiye dokümanlarına ve
+ETSI standartlarına uymakla yükümlüdür.
+Bildirimler
+için ölçüt değerlerinin elde edilme yöntemi
+MADDE 7 – (1) Kuruma yapılacak bildirimlerde; arama blokaj
+oranı, arama başarısızlık oranı, KMH tamamlanma oranı ve uçtan uca KMH
+teslim süresi ölçüt değerleri ölçüm yöntemi ile OKD, başarısız erişim
+oranı, başarısız veri indirme oranı ve veri aktarım hızı ölçüt değerleri
+ise saha testi ile elde edilir.
+(2) Bütün ölçümler ve saha testleri şebeke
+sonlandırma noktasından ve gerçek haberleşme trafiği üzerinden elde edilir.
+(3) Saha testleri hariç, deneysel arama ve bağlantı
+kurmak suretiyle elde edilecek ölçüm değerleri Kuruma yapılacak
+bildirimlerde kullanılamaz.
+ÜÇÜNCÜ BÖLÜM
+Ölçüm Verileri ve İlgili Ölçütlerin Hesaplanması
+Ölçüm
+yönteminde kullanılan veriler
+MADDE 8 – (1) Arama başarısızlık ve arama blokaj oranı
+hesaplamalarında her bir yerleşim alanındaki toplam trafiği içerecek
+şekilde; bütün geçerli girişimler üzerinden ve her bir hücrenin günlük
+toplam trafik içindeki en yoğun saatine ait veriler kullanılır. KMH
+tamamlanma oranı ve uçtan uca KMH teslim süresinin elde edilmesinde ise;
+kısa mesaj merkezinde/merkezlerinde en yoğun trafiğin gerçekleştiği saatte
+elde edilen veriler kullanılır.
+(2) KMH tamamlanma oranı ve uçtan uca KMH teslim
+süresi ölçütlerine ilişkin hesaplamalar GSM ve 3N şebeke ayrımı
+yapılmaksızın ortak yapılacak olup, bildirimi 17/4/2012 tarihli ve 28267
+sayılı Resmî Gazete’de yayımlanan GSM Mobil Telefon Hizmetlerinde Hizmet
+Kalitesi Ölçütlerinin Elde Edilmesine İlişkin Tebliğ kapsamında yapılır.
+Ölçüm
+yöntemi ile elde edilen ölçütlerin hesaplanması
+MADDE 9 – (1) Ölçümler, işletmeci tarafından yerleşim
+alanları bazında ayrı ayrı olmak üzere kendi 3N şebekesindeki trafiğin
+tamamı üzerinden elde edilir.
+(2) Yerleşim alanı sınırları içerisine hizmet veren
+bütün hücrelerin en yoğun saatlerinde elde edilen verilerin toplanması ile
+bulunan toplam başarısız arama sayısının toplam başarılı kurulan arama
+sayısına oranlanması ile hesaplanan değer, o yerleşim alanının ilgili
+bildirim döneminde ilgili olduğu aya ait arama başarısızlık oranı olarak
+alınır.
+(3) Yerleşim alanı sınırları içerisine hizmet veren
+bütün hücrelerin en yoğun saatlerinde elde edilen verilerin toplanması ile
+bulunan toplam bloke olan arama girişimi sayısının toplam arama girişimi
+sayısına oranlanması ile hesaplanan değer, o yerleşim alanının ilgili
+bildirim döneminde ilgili olduğu aya ait arama blokaj oranı olarak alınır.
+(4) Ölçümlerde ve ölçütlerin hesaplanmasında, son
+kullanıcıları doğrudan etkileyen ve Kurum tarafından belirlenen sayaçlar
+kullanılır.
+DÖRDÜNCÜ BÖLÜM
+Saha Testleri, Kapsamı ve İlgili Ölçütlerin
+Hesaplanması
+Saha
+testleri ve kapsamı
+MADDE 10
+– (1) Hizmet kalitesi ölçütleri
+için yapılacak saha testlerinde:
+a) ITU ve ETSI standart ve usullerine uygun saha
+testi yapabilecek, test verileri ile birlikte test yapılan noktanın coğrafi
+konumunu ve zamanını kaydedebilecek cihaz ve/veya cihaz setleri kullanılır.
+b) Cihaz ve antenlerin araca monteli olduğu
+durumda, testin araç içi veya dışı anten değerlerinden hangisine karşılık
+geldiği belirtilir ve varsa anten ekipmanlarının kayıp/kazancına
+hesaplamalarda yer verilir.
+(2) Saha testleri durağan ve/veya hareketli olarak
+yapılabilecek olup, hareket halindeki saha testlerinde, trafik kuralları ve
+yol koşulları nedeniyle aksine bir zorunluluk olmadıkça araç hızı şehir içi
+için ortalama 30-50 km/saat, şehirler arası için ortalama 80-120 km/saat
+olacaktır.
+(3) Kuruma yapılacak bildirimlere ilişkin saha
+testleri hareketli olarak yapılır.
+(4) Saha testleri ilgili yerleşim alanının en yoğun
+saatini de içerecek zaman aralığında yapılacak olup en yoğun olduğu bir
+saat içerisinde bitirilme zorunluluğu bulunmamaktadır.
+(5) Saha testi gerçekleştirilirken her işletmeci kendisine
+ait sunucuları kullanır.
+(6) Kurum re’sen veya şikâyet durumunda hizmet
+kalitesi ölçütleri için saha testi yapabilir veya 3N işletmecilerine ve
+Kurumdan yetki almak şartıyla üçüncü şahıslara yaptırabilir.
+(7) Kurumun gerçekleştireceği saha testlerinde
+kendi sunucularını kullanması esastır.
+Saha
+testi ile elde edilecek ölçütlerin hesaplanması
+MADDE 11
+– (1) İşletmeci kapsama
+yükümlülüğü bulunan yerleşim alanlarında OKD, başarısız erişim oranı,
+başarısız veri indirme oranı ve veri aktarım hızı ölçütleri için belirlenen
+hedef değerleri sağlamakla yükümlüdür. Ancak OKD, başarısız erişim oranı,
+başarısız veri indirme oranı ve veri aktarım hızı bildirimleri, Kurum
+tarafından belirlenecek ve sayısı her dönem için 20’yi geçmeyecek şekilde
+yerleşim alanları bazında yapılır.
+(2) OKD ölçütü, saha testleri sonucunda elde edilen
+değerlerin aritmetik ortalaması alınarak hesaplanır.
+(3) Veri aktarım hızı (ftp) ölçütü
+hesaplamalarında;
+a) Tüm başarılı indirme işlemlerinin en hızlı
+%95’inin ortalama veri aktarım hızı hesaplanırken, tüm başarılı indirme
+işlemlerinin en hızlı %95’inin aritmetik ortalaması alınır.
+b) Başarılı indirme işlemlerinin %99’unun her biri
+için ortalama asgari veri aktarım hızı hesaplanırken, tüm oturumların en
+hızlıdan en yavaşa doğru sıralanan saha testi değerlerinin %99’uncu
+sırasındaki başarılı indirme hızı (%99’uncu sıra = Hızlıdan yavaşa doğru
+sıralanan başarılı oturum sayısı x 0,99) alınır.
+c) Tüm başarılı gönderme işlemlerinin en hızlı
+%95’inin ortalama veri aktarım hızı hesaplanırken, tüm başarılı gönderme
+işlemlerinin en hızlı %95’inin aritmetik ortalaması alınır.
+ç) Yüzde hesaplamalarında çıkan değer tam sayı
+değilse bir sonraki tam sayıya yuvarlanır.
+(4) Başarısız erişim oranı (http) ölçütünün hesaplanmasında,
+erişim teşebbüsünü müteakip herhangi bir veri paketinin alınamadığı tüm
+başarısız erişim teşebbüsü sayısının tüm erişim teşebbüsü sayısına oranı
+kullanılır.
+(5) Başarısız veri indirme oranı (http) ölçütünün
+hesaplanmasında, internet sayfası içeriğinin başarılı bir şekilde
+görüntülenmesi için indirme işlemi başlatılan ancak tamamlanamayan indirme
+sayısının başarılı olarak başlatılan toplam indirme sayısına oranı
+kullanılır.
+(6) OKD, başarısız erişim oranı, başarısız veri
+indirme oranı ve veri aktarım hızı ölçütleri için; bildirim yapılacak
+yerleşim alanları, saha test güzergâhları, döngü, saha test senaryosu ve
+detaylı rapora ilişkin hususlar her yıl Aralık ayı içerisinde takip eden
+yıl için Kurum tarafından işletmecilere bildirilir.
+(7) Ölçüm güzergâhı belirtilmeyen saha testleri,
+saha testi yapılacak bölge içerisindeki tüm bulvar ve ana caddeleri
+içerecek şekilde yapılır.
+(8) Kurum gerek görmesi halinde, ilgili bildirim
+dönemi başlangıcından en az 15 (onbeş) gün önce bildirilen yerleşim alanlarında,
+saha test güzergahlarında, döngü, saha test senaryosu ve detaylı rapora
+ilişkin hususlarda değişiklik yapabilir.
+BEŞİNCİ BÖLÜM
+Ölçüm ve Saha Test Sonuçlarının Bildirimi,
+Doğrulanması ve Yaptırımlar
+Ölçüm ve
+saha test sonuçlarının bildirimi
+MADDE 12
+– (1) Ölçüm yöntemi ile elde
+edilen ölçütler, yerleşim alanları bazında Ek-1’de yer alan tablo aylık
+olarak tasnif edilerek geriye dönük üç aylık dönemlere ilişkin bilgileri
+içerecek şekilde doldurulmak suretiyle her yılın Ocak, Nisan, Temmuz ve
+Ekim aylarının sonuna kadar bildirilir veya Kurum tarafından belirtilecek
+yöntem ve ortam üzerinden Kuruma iletilir.
+(2) Saha testi ile elde edilen ölçütler bu Tebliğin
+Ek-2’sinde yer alan tablo doldurularak detaylı bir rapor ile bu maddenin
+birinci fıkrasında belirtilen dönemlerde Kuruma bildirilir.
+(3) Kurumun talebi veya şikâyet üzerine, 3N
+işletmecileri ve Kurumdan yetki almak şartıyla üçüncü şahıslar tarafından
+bu Tebliğe uygun olarak yapılan saha testleri ve elde edilen sonuçlar Ek-2
+tablo doldurularak, detaylı bir rapor ile Kuruma bildirilir.
+Verilerin
+saklanması
+MADDE 13
+– (1) Ölçümlerde kullanılan
+veriler, hesaplamalarda kullanılan detayları ile birlikte hücre bazına
+kadar, bildirimi takip eden 12 ay boyunca işletmeci tarafından muhafaza
+edilir ve istendiğinde Kuruma verilir.
+(2) Saha testlerinde elde edilen ham veriler
+bildirimi takip eden 12 ay boyunca işletmeci tarafından muhafaza edilir ve
+istendiğinde Kuruma verilir.
+Ölçüm ve
+saha test sonuçlarının doğrulanması
+MADDE 14
+– (1) Kurum, gerek gördüğü takdirde,
+ölçüm ve saha test sonuçları için hizmet kalitesi ölçütlerinin hedef
+değerleri sağlayıp sağlamadığının doğrulamasını yapabilir ve/veya Kurumdan
+yetki almak şartıyla üçüncü şahıslara yaptırabilir.
+(2) Ölçüm ve saha test sonuçları ile Kurumun
+yaptığı ve/veya yaptırdığı analiz ve saha test sonuçları arasında farklılık
+gözlenmesi halinde Kurum tarafından yapılan ve/veya yaptırılan sonuçlar
+esas alınır.
+İdari
+para cezaları ve diğer yaptırımlar
+MADDE 15
+– (1) Bu Tebliğ kapsamında ölçüm
+yöntemi ile elde edilen ölçütlere ilişkin yerleşim alanı bazında aylık
+olarak tasnif edilerek geriye dönük üç aylık dönemlere ait Kuruma yapılan
+bildirimlerde; bir raporlama döneminin bir veya daha fazla ayında hedef
+değerlerden herhangi birinin sağlanamaması durumunda ilgili yerleşim alanı
+için Yönetmeliğin 9 uncu maddesi hükümleri uygulanır.
+(2) Bu Tebliğ kapsamında herhangi bir yerleşim
+alanında veya yerleşim alanının bir bölgesinde Kurum tarafından yapılan
+ve/veya yaptırılan veya işletmeciler tarafından yapılarak Kuruma bildirilen
+saha testleri sonucunda; bir veya daha fazla hedef değerin sağlanamaması
+durumunda işletmeci ilgili bölge için hizmet kalitesi yükümlülüğünü yerine
+getirmemiş kabul edilir ve Yönetmeliğin 9 uncu maddesi ile 15/2/2014
+tarihli ve 28914 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren Bilgi
+Teknolojileri ve İletişim Kurumu İdari Yaptırımlar Yönetmeliği hükümleri
+uygulanır.
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Saha
+testi yapılacak yerleşim yerleri ilk bildirimi
+GEÇİCİ
+MADDE 1 – (1) Bu Tebliğin 11 inci
+maddesinin altıncı fıkrasına göre saha testi yapılacak yerleşim alanları,
+saha test güzergâhları, döngü, saha test senaryosu ve detaylı rapora
+ilişkin hususlar; Tebliğin yayımlanmasını takip eden ilk bildirim dönemi
+için Tebliğin yayımlandığı tarihten sonraki bir ay içerisinde Kurum
+tarafından işletmecilere bildirilir.
+(2) Bu Tebliğin 12 nci maddesi kapsamında yapılacak
+bildirimler, Tebliğin yürürlüğe girdiği tarihten sonraki ilk bildirim
+döneminde başlar.
+Yürürlük
+MADDE 16
+– (1) Bu Tebliğ yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 17
+– (1) Bu Tebliğ hükümlerini Bilgi
+Teknolojileri ve İletişim Kurumu Başkanı yürütür.
+Ekleri için tıklayınız.
