@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40036",
+  "decision_date": "2015-02-17",
+  "source_id": 9616,
+  "chamber": "6",
+  "file_number": "38033",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9616/",
+  "source_sha256": "af95c26f31b852206c4562b9447044e1c3ec041d05f66567cbf4e79295be4f4b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
