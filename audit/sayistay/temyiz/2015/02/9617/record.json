@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40037",
+  "decision_date": "2015-02-17",
+  "source_id": 9617,
+  "chamber": "6",
+  "file_number": "38021",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9617/",
+  "source_sha256": "cb0669c8a5894e3b346096e822ef1c9b50ed70064472e4fbe6924e9f520b552b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
