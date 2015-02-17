@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "96",
+  "decision_date": "2015-02-17",
+  "source_id": 9139,
+  "chamber": "4",
+  "ilam_number": "140",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9139/",
+  "source_sha256": "5ce8ea64d05b5665cbc0f4f469abed2021a5c3845b1163377aca8e35973afa16",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
