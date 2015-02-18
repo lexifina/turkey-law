@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/2015mv-oykulltemkararlari",
+  "list_number": "4320,2,38,158,172",
+  "decision_date": "2015-02-18",
+  "title": "25. Dönem Milletvekili Genel Seçiminde Yurt Dışı Seçmen Kütüğüne kayıtlı seçmenlerin yurt dışında kurulacak sandıklarda oy kullanabilecekleri temsilciliklerimize ilişkin Yüksek Seçim Kurulu kararları",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2248/2015MV-OyKullTemKararlari.pdf",
+  "source_sha256": "a12e3e8923cd99a7d0790e7521a9e5b13400ce43c65e44747b772fb2334859c6",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 15,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-02-18",
+  "law_text_complete": false
+}
