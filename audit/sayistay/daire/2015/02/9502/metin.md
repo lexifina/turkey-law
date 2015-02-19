@@ -1,0 +1,3 @@
+Usulsüz Avans Kullanımı.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …… Belediyesi ….. Müdürlüğü’nde makam şoförü olarak çalışan iki şoförün şehir dışı göreve giderken aldıkları avansları gerçek dışı belgelerle kapatarak paraları kendilerinin aldığı görülmüş ise de; bu kişilerin İşçi Disiplin Kurulunca cezalandırıldığı ve …..-TL tutarındaki kamu zararının …..  tarih ve …… sayılı tahsilat makbuzları ile ilgili kişilerden faizi ile birlikte tahsil edildiği, ….. tarih ve ….. sayılı Muhasebe İşlem Fişi ile de bu tutarın muhasebeleştirildiği anlaşıldığından, ilişilecek husus kalmadığına oy birliğiyle,
