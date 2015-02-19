@@ -1,0 +1,3 @@
+Damga Vergisi.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ….. Belediyesi Ulaşım Hizmetleri Müdürlüğü ile ….. Tic. Ltd. şirketi arasında 08.01.2013 tarihinde sözleşmesi imzalanan, ….-TL bedelli Motorin Alımı işinde; sözleşme tarihi ve işe ilişkin hakedişlerin ödenme tarihi 2013 yılı olmasına rağmen, sözleşme damga vergisi ve hakediş ödemelerine ilişkin damga vergilerinin 2012 yılı damga vergisi oranlarına göre hesaplanarak tahsil edilmesi nedeniyle …..-TL tutarında kamu zararına neden olunduğu görülmüş ise de; söz konusu kamu zararının ..tarih ve...numaralı tahsilat makbuzu ile tahsil edildiği anlaşıldığından, ilişilecek husus kalmadığına oy birliğiyle,
