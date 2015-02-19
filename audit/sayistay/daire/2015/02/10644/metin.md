@@ -1,0 +1,27 @@
+Ek Gösterge
+
+………. İl Nüfus ve Vatandaşlık Müdürlüğü bünyesinde görev yapan İl Nüfus ve Vatandaşlık Müdürleri ………. ve ……….’a 3600 ek gösterge rakamının ödenmesi sonucu konu edilen toplam ………. TL tutarındaki kamu zararı hususunda;
+
+657 sayılı Devlet Memurları Kanununun “Kadroların tespiti” başlıklı 33 üncü maddesi, “Kadroların hazırlanması” başlıklı 34 üncü maddesi ve “Kadro cetvelleri” başlıklı 35 inci maddesi hükümleri gereğince Devlet memurlarına ilişkin kadroların Maliye Bakanlığı, Devlet Personel Başkanlığı ve ilgili kurumca hazırlanarak Genel Kadro Kanununda ve eki kadro cetvellerinde gösterilmesi gerektiği,
+
+Söz konusu kadroların yer aldığı 190 sayılı Genel Kadro Usulü Hakkında Kararnamenin 7 ve 9 uncu maddelerinin verdiği yetkiye istinaden çıkarılan 91/2344 sayılı Bakanlar Kurulu Kararı ile …………  Bakanlığı Taşra Teşkilatı için öngörülen “Nüfus ve Vatandaşlık Müdürü”, “Plan ve Koordinasyon Müdürlüğü”, “Sivil Savunma Müdürlüğü” unvanlarının “İl Nüfus ve Vatandaşlık Müdürü”, “İl Plan ve Koordinasyon Müdürlüğü”, “İl Sivil Savunma Müdürlüğü”, “İl Yazı İşleri Müdürlüğü” unvanları ile değiştirildiği,
+
+3046 sayılı Kanunun “Bakanlık taşra teşkilatı” başlıklı 8 inci maddesi, “Taşra teşkilatı” başlıklı 17 nci maddesi, …………  Bakanlığının kurulmasına, teşkilat ve görevlerine ilişkin esaslarını düzenleyen 3152 sayılı İçişleri Bakanlığı Teşkilat ve Görevleri Hakkındaki Kanunun “ Teşkilat” başlıklı 3 üncü maddesi, “Taşra Teşkilatı” başlıklı 28 inci maddesinin birinci fıkrası, “Ana hizmet birimleri” başlıklı 8 inci maddesi ile “Bakanlığın düzenleme ve görev yetkisi” başlıklı 33 üncü maddesi hükümlerinin birlikte değerlendirilmesi neticesinde; 3046 sayılı Kanun gereğince bakanlık taşra teşkilatlarının il valisine bağlı il kuruluşları, kaymakama bağlı ilçe kuruluşları ve doğrudan merkeze bağlı taşra kuruluşlarının birkaçından ya da tamamından meydana geleceği, 3046 sayılı Kanun uyarınca çıkarılan ve ………… Bakanlığının teşkilat yapısına ilişkin esas ve usulleri de düzenleyen 3152 sayılı Kanun gereğince ………… Bakanlığı teşkilatının merkez ve taşra teşkilatı ile bağlı kuruluşlarından oluştuğu, 657 sayılı Kanun gereğince kadroların belirlendiği 190 sayılı KHK’ya ekli kadro cetvellerinde söz konusu unvanlara “İl” ibaresinin eklendiği, ………… Bakanlığının il müdürlerinin ise kendilerine kanun, tüzük ve yönetmeliklerle verilen görevleri …………  Bakanlığı adına taşrada re’sen yürüttükleri ve bu hizmetleri il düzeyinde deruhte etmeleri nedenleriyle “Bakanlık il müdürü” statüsünde oldukları, bu nedenle de 657 sayılı Kanuna ekli “Kadroları Genel İdare Hizmetleri Sınıfının Birinci Derecesinde Bulunanların Ek Göstergeleri” başlıklı II sayılı Cetvelin “1.Başbakanlık ve Bakanlıklarda” bölümü gereğince Ankara, İstanbul ve İzmir illerindeki diğer Bakanlık İl Müdürlerinin 3600, “4. Başbakanlık ve Bakanlıklarda” gereğince de diğer illerdeki Bakanlık il müdürlerinin 3000 ek gösterge rakamına hak kazandıkları, her ne kadar 657 sayılı Kanuna ekli “Kadroları Genel İdare Hizmetleri Sınıfının Birinci Derecesinde Bulunanların Ek Göstergeleri” başlıklı II sayılı Cetvelinde nüfus ve vatandaşlık müdürleri 3000 ek gösterge rakamına ilişkin “4. Başbakanlık ve Bakanlıklarda” bölümünde açıkça zikredilmiş olsalar da, Ankara, İstanbul ve İzmir illerinde görev yapan nüfus ve vatandaşlık müdürlerinin de Bakanlık il müdürü statüsünde olmaları sebebiyle 3600 ek gösterge rakamını almalarının mevzuata uygun olduğu görüldüğünden,
+
+ ………. TL ilgili olarak ilişilecek husus bulunmadığına,
+
+Üye ………. ve ……….’nın; “657 sayılı Devlet Memurları Kanununa tabi kurumların kadrolarında bulunan personelin aylıklarının; hizmet sınıfları, görev türleri ve aylık alınan dereceleri dikkate alınarak, bu Kanuna ekli I ve II sayılı cetvellerde gösterilen ek gösterge rakamları üzerinden hesaplanacağı hükme bağlanmıştır.
+
+Anılan II sayılı cetvelin l inci sırasında yer alan Bakanlık İl Müdürlerinden Ankara, İstanbul ve İzmir illerinde görev yapanlar için 3600, 4 üncü sırasında sayılan ve diğer illerde görev yapan Bakanlık İl Müdürleri ile nüfus ve vatandaşlık müdürleri için ise 3000 ek gösterge üzerinden ödeme yapılması öngörülmüştür.
+
+657 sayılı Kanuna ekli II sayılı cetvelde kimlere, hangi rakamlar üzerinden ek gösterge verileceği; personelin hizmet sınıfları, görev türleri ve aylık alınan dereceleri dikkate alınarak yoruma imkan vermeyecek şekilde açıkça gösterilmiştir.
+
+Kanun koyucu tarafından Ankara, İstanbul ve İzmir illerinde görev yapan nüfus ve vatandaşlık müdürleri için ayrı bir sınıflandırma yapılmamıştır. Söz konusu iller için böyle bir sınıflandırma yapılmadığına göre; diğer illerde görev yapan Bakanlık İl Müdürleri ile ayrım yapılmaksızın tüm nüfus ve vatandaşlık müdürlükleri eş değer unvanlı görevler olarak kabul edilmiştir.
+
+Dolayısıyla tüm nüfus ve vatandaşlık müdürlükleri eş değer unvanlı görevler olarak kabul edildiğinden Ankara, İstanbul ve İzmir illerinde görev yapan nüfus ve vatandaşlık müdürlerine kendi unvanları için belirlenmiş olan 3000 ek gösterge yerine, aynı illerde görev yapan Bakanlık il müdürleri için belirlenmiş olan 3600 ek gösterge rakamı üzerinden ödeme yapılması 657 sayılı Kanunun amir hükmüne açıkça aykırılık teşkil etmektedir.
+
+Bu nedenle …………  İl Nüfus ve Vatandaşlık Müdürlerine ödenen toplam ………… TL’nin sorumlularına tazmin ettirilmesi gerekir.” şeklindeki ayrışık görüşlerine karşı,
+
+6085 sayılı Sayıştay Kanununun 55 ve 56 ncı maddelerinde yer alan kanun yolları açık olmak üzere,
+
+oy çokluğuyla karar verildi.
