@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "246",
+  "decision_date": "2015-02-19",
+  "source_id": 9160,
+  "chamber": "3",
+  "ilam_number": "151",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9160/",
+  "source_sha256": "6d0ecd615d864cf1bf1db3dceb09d0141d99afb53a37c11e2d9d2875987adb4c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
