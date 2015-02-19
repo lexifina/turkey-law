@@ -1,0 +1,69 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "69",
+  "decision_number": "4/174",
+  "date": "2015-02-19",
+  "title": "Kurul’un 19.02.2015 Tarih ve 4/174 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/69",
+  "source_sha256": "bdfd1663f4146da25cb1d41b70c36a9446c4f5e9cc5ad7b8a1824e17b89af59f",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 69,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurul’un 19.02.2015 tarih ve 4/174 sayılı Kararı ile;",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2015-02-19",
+    "source_clauses": [
+      "Kurul’un 19.02.2015 tarih ve 4/174 sayılı Kararı ile;"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "47a66dc0-8299-451c-84fb-c5daa8f2558b",
+    "contentSource": "IlkeKarari",
+    "contentID": 69,
+    "tur": "Kurul Kararı",
+    "title": "Kurul’un 19.02.2015 Tarih ve 4/174 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2015-02-19T00:00:00",
+    "kurulKararTarih": "19.02.2015",
+    "kurulToplantiNo": "4/174",
+    "bultenYili": 2015,
+    "bultenNo": 4,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": null,
+    "baglantiliTebligler": null,
+    "ilgiliKonularStr": "10:İkili Opsiyon;147:İkili Opsiyon",
+    "ilgiliKonular": [
+      {
+        "key": 10,
+        "value": "İkili Opsiyon"
+      },
+      {
+        "key": 147,
+        "value": "İkili Opsiyon"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/69",
+    "linkTarget": "_blank"
+  }
+}

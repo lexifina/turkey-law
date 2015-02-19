@@ -1,0 +1,2 @@
+year,number,published,title,source,source_sha256,representation,act_path,words,omitted_sections,note
+2015,69,2015-02-19,Kurul’un 19.02.2015 Tarih ve 4/174 Sayılı Kararı,https://mevzuat.spk.gov.tr/api/IlkeKarari/File/69,bdfd1663f4146da25cb1d41b70c36a9446c4f5e9cc5ad7b8a1824e17b89af59f,regulatory-text,norm/spk/principle/2015/69,162,,whole official standalone text; decision date independently present in PDF
