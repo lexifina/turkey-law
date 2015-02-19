@@ -1,0 +1,2 @@
+year,number,published,title,source,source_sha256,representation,act_path,words,omitted_sections,note
+2015,70,2015-02-19,Kurul’un 19.02.2015 Tarih ve 4/206 Sayılı Kararı,https://mevzuat.spk.gov.tr/api/IlkeKarari/File/70,74c505fa98d29610c709c5a2f5357ef1a0c0da9d53ceb46dce0270d17e4342a1,regulatory-text,norm/spk/principle/2015/70,101,,whole official standalone text; decision date independently present in PDF

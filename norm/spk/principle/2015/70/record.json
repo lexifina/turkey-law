@@ -1,0 +1,78 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "70",
+  "decision_number": "4/206",
+  "date": "2015-02-19",
+  "title": "Kurul’un 19.02.2015 Tarih ve 4/206 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/70",
+  "source_sha256": "74c505fa98d29610c709c5a2f5357ef1a0c0da9d53ceb46dce0270d17e4342a1",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 70,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurul’un 19.02.2015 tarih ve 4/206 sayılı Kararı ile;",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2015-02-19",
+    "source_clauses": [
+      "Kurul’un 19.02.2015 tarih ve 4/206 sayılı Kararı ile;"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "86218bfb-fb1c-47f9-b1bb-0d39201dda35",
+    "contentSource": "IlkeKarari",
+    "contentID": 70,
+    "tur": "Kurul Kararı",
+    "title": "Kurul’un 19.02.2015 Tarih ve 4/206 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2015-02-19T00:00:00",
+    "kurulKararTarih": "19.02.2015",
+    "kurulToplantiNo": "4/206",
+    "bultenYili": 2015,
+    "bultenNo": 4,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "167:Yatırım Fonlarına İlişkin Esaslar Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 167,
+        "value": "Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "8:Kolektif Yatırım Kuruluşları;71:Serbest Fonlar;36:Yatırım Fonları",
+    "ilgiliKonular": [
+      {
+        "key": 8,
+        "value": "Kolektif Yatırım Kuruluşları"
+      },
+      {
+        "key": 71,
+        "value": "Serbest Fonlar"
+      },
+      {
+        "key": 36,
+        "value": "Yatırım Fonları"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/70",
+    "linkTarget": "_blank"
+  }
+}
