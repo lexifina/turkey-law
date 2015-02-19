@@ -1,0 +1,3 @@
+Kıstas Ücreti Üzerinde Ödeme Yapılması
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ….. Ltd. Şirketi yükleniminde bulunan …..-TL sözleşme bedelli “...Hizmet Alımı” işinde, Başkanlıkça çalıştırılmasına karar verilen 2 adet personele (harita teknikeri ve şoför) sözleşme hükümleri ve teknik şartnameye göre kıstas olarak ödenmesi gereken ücretin üzerinde bir ücret ödendiği iddia edilmiş ise de; Hizmet İşleri Genel Şartnamesinin 53’üncü ve 37’nci maddeleri ile Tip Sözleşmenin 29’uncu maddesine uygun olarak, iş artışına gidilmesi ve idare ile yüklenicinin anlaşarak yeni birim fiyat belirlemesi nedeniyle mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına oy birliğiyle,
