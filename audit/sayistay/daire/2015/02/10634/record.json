@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "246",
+  "decision_date": "2015-02-19",
+  "source_id": 10634,
+  "chamber": "3",
+  "ilam_number": "151",
+  "item_number": 4,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10634/",
+  "source_sha256": "a1cad884f2668be38cce2a28795993b4bfe0d814e966b1a8083540f86385236a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
