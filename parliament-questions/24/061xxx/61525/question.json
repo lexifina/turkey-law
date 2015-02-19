@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 24,
+  "legislative_year": 5,
+  "esas_no": "7/61525",
+  "submitted": "2015-02-19",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Altan TAN",
+  "province": "Diyarbakır",
+  "summary": "Kadına yönelik şiddetin ve kadın cinayetlerinin önlenmesi için yapılan yasal düzenleme çalışmalarına ilişkin",
+  "status": "Yasama Dönemi Sona Erdiğinden Hükümsüz Sayıldı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bf-beef-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "2c6ca68403b947e7c93d2114745e0a60bfa5c007714d170fd2ecb2a6c39468eb",
+  "in_force": "2015-02-19",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
