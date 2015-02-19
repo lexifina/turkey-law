@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "207",
+  "decision_date": "2015-02-19",
+  "source_id": 12393,
+  "chamber": "6",
+  "ilam_number": "250",
+  "item_number": 8,
+  "public_body_type": "Diğer",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12393/",
+  "source_sha256": "73234ce05666437d7d90515c61b877667956f20a2de248c42602e8d2bcc51c61",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

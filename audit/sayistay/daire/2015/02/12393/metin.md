@@ -1,0 +1,7 @@
+Yeni fiyat yapılması.
+
+….. tarihinde …..’a ihale edilen …..-TL sözleşme bedelli “….. işi” ile ilgili dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …. tarihli yeni fiyat olurunda, suni mermer temini ve döşenmesi, bazalt bordür temini ve döşenmesi ile görme engelli takip taşı döşenmesi iş kalemlerinin yeni fiyatlarının ….. taahhüdünde yapılan …. işi dosyasında yer alan yaklaşık maliyetteki birim fiyatlar esas alınarak belirlendiği ancak yüklenicinin bu işle ilgili yaklaşık maliyete göre teklifindeki tenzilatın dikkate alınmadığı ve bu suretle kamu zararına neden olunduğu görülmüş ise de; söz konusu …..-TL tutarındaki kamu zararının yükleniciden ….. tarih ve ….. no.lu tahsilat makbuzu ile tahsil edildiği, ….. tarih ve ….. no.lu Muhasebe İşlem Fişi ile de muhasebe kaydının yapıldığı anlaşıldığından, ilişilecek husus kalmadığına,
+
+(Üye …..’in “Gerek 4734 sayılı Kamu İhale Kanunu gerekse 4735 sayılı Kamu İhale Sözleşmeleri Kanunu ile bu Kanunlara istinaden çıkartılarak yayımlanan ikincil ve üçüncül mevzuatta, ihaleye ilişkin yaklaşık maliyetle, verilen teklifin arasındaki farkın tenzilat yada ihale indirimi olarak kabul edilmesi ve bu tenzilatın sözleşme süresince oluşturulan yeni birim fiyatlara uygulanmasına ilişkin herhangi bir düzenleme bulunmamaktadır. Bu nedenle yapılan yersiz tahsilatın ahizine iadesine karar verilmesi gerekir.” şeklindeki ayrışık görüşlerine karşı),
+
+oy çokluğuyla,
