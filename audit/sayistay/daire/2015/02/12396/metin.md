@@ -1,0 +1,3 @@
+Şartnamesine aykırı olarak eksik imalat yapılması.
+
+….. Ltd. Şirketine ihale edilen …..-TL sözleşme bedelli “….. işi” ile ilgili dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda, ….. tarihinde düzenlenen tutanakla yapılan tespite göre, beton parke taşı altına kullanılan kumun 4 cm, bordür altına serilmesi gereken harcın da 3 cm eksik olduğu ve bu suretle kamu zararına neden olunduğu görülmüş ise de; söz konusu …..-TL tutarındaki kamu zararının yükleniciden ….. tarih ve ….. no.lu tahsilat makbuzu ile tahsil edildiği, ….. tarih ve ….. no.lu Muhasebe İşlem Fişi ile de muhasebe kaydının yapıldığı anlaşıldığından, ilişilecek husus kalmadığına oy birliğiyle,
