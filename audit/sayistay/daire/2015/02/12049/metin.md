@@ -1,0 +1,3 @@
+Ek Özel Hizmet Tazminatı
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …… Belediyesi'nde Teknik Hizmetler Sınıfına ait kadrolarda bulunan bazı personele arazi, şantiye, inşaat, baraj, park, bahçe, maden, açık alanlarda kurulu tarım ve hayvancılık uygulama birimleri ve yol gibi açık çalışma mahallerinde fiilen çalışmadıkları halde Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Karar eki Cetvellerde belirtilen oranlarda ayrıca özel hizmet tazminatı ödendiği iddia edilmiş ise de; söz konusu teknik personele fiilen arazide çalıştıkları günler için ek özel hizmet tazminatı ödenmesi nedeniyle mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına oy birliğiyle,
