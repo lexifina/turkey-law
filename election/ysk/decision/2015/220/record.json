@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/220",
+  "list_number": "220",
+  "decision_date": "2015-02-19",
+  "title": "7 Haziran 2015 tarihinde yapılacak Milletvekili Genel Seçiminde \"YURT DIŞI SEÇMEN KÜTÜĞÜNÜN GÜNCELLEŞTİRİLMESİNİN USUL VE ESASLARI\"na ilişkin 140/II sayılı Genelgeye ilişkin Yüksek Seçim Kurulunun 2015/220 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2244/2015-220.pdf",
+  "source_sha256": "5c5513f861d85cc92aa1f74e54760b3fcd99be8ca2c09a281e2fcbbb8f8398bf",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 6,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-02-19",
+  "law_text_complete": false
+}
