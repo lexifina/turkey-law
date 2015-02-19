@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/219",
+  "list_number": "219",
+  "decision_date": "2015-02-19",
+  "title": "7 Haziran 2015 tarihinde yapılacak Milletvekili Genel Seçiminde \"YURT İÇİ SEÇMEN KÜTÜĞÜNÜN GÜNCELLEŞTİRİLMESİNİN USUL VE ESASLARI\"na ilişkin 140/I sayılı Genelgeye ilişkin Yüksek Seçim Kurulunun 2015/219 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2246/2015-219.pdf",
+  "source_sha256": "59fc5fc5f7397eddad9769b2f24400124d6c5e7096894222a0886e1758566f64",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 10,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-02-19",
+  "law_text_complete": false
+}
