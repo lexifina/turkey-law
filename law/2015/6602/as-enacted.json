@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6602",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Şili Cumhuriyeti Hükümeti Arasında Savunma Sanayi İş Birliği Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-20",
+  "gazette_issue": "29273",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150220-8.htm",
+  "source_sha256": "b4f0eeab11b48332a3112b8c3fceacc3a8607e29b50384eba1734c0eaba5703a",
+  "text_sha256": "e1940b5c12aa82d47e7ad4e3742021ee570be2f0a9500c34ad65eb1f0655887a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/20/29273-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150220-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
