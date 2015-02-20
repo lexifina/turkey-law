@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6597",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Kolombiya Cumhuriyeti Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-20",
+  "gazette_issue": "29273",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150220-6.htm",
+  "source_sha256": "b5bb684e71f8a472b3f42ddf89e2e94654bd524d43498e6fc949fb778ffff393",
+  "text_sha256": "472cfbb937a8aee503cdde6fe3f1c39f354284e1233fcb6d7b98181d51bc320a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/20/29273-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150220-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
