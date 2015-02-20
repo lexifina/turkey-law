@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-02-20",
+  "issue": "29273",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2015/7260 Diyanet İşleri Başkanlığı Dinî Yayınlar Döner Sermaye İşletmesine Tahsis Edilen Sermayenin 40.000.000 (Kırkmilyon) TL’ye Çıkarılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150220-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150220.htm",
+  "index_sha256": "a992278fe600729b654e9e084c4cf963bba5115bb80e973e005fc85f34b97752",
+  "index_header": "20 Şubat 2015 ... 29273 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150220.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
