@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6596",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Birleşik Meksika Devletleri Hükümeti Arasında Gümrük Konularında Karşılıklı İdari Yardım ve Bilgi Paylaşımı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-20",
+  "gazette_issue": "29273",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150220-5.htm",
+  "source_sha256": "7d85352aa031dacce6d345a8d7ac7886767a2dab598581775c6509bd68cab5d4",
+  "text_sha256": "1b6d6624876385b23c274f83917568aef46801dd0024e2deecfb280b3cd9539e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/20/29273-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150220-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
