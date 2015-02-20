@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6594",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Birleşik Meksika Devletleri Hükümeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşmasının ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-20",
+  "gazette_issue": "29273",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150220-3.htm",
+  "source_sha256": "2442374cc9835cd759325ac66808c233b61087c22f2bb0bbb866831d49b47fb5",
+  "text_sha256": "8a3662985f0e2d7e4a3d008c05230e97ee22f8abb142f8d33b0f5205a3a5c880",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/20/29273-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150220-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
