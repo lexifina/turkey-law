@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6595",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Birleşik Meksika Devletleri Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-20",
+  "gazette_issue": "29273",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150220-4.htm",
+  "source_sha256": "2d8349b2fe1439e0ded2309faab4b79169b72c58b32d1fb1159891b7bc77a762",
+  "text_sha256": "6cd010e8e4a79e0145acb237208e6158c28b6ece7cd944a98ccac45f6154577f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/20/29273-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150220-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
