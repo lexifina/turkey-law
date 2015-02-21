@@ -1,0 +1,10 @@
+Sedimentten kimyasal analiz için numune alma şartları
+MADDE 11 – (1) Sedimentten numune alınmasına ilişkin işlemler “TS 9547 ISO 5667-12 Su Kalitesi-Numune Alma-Bölüm 12: Dip Sedimentlerinden Numune Alma Kılavuzu”na göre yapılır.
+(2) Sedimentten numune alma noktaları seçimi aşağıdaki ilkelere göre yapılır:
+a) Numune alma noktaları, numune alma bölgesindeki sediment kalitesini ve bu kalitenin bölge içerisindeki değişimini karakterize edecek şekilde ve sayıda belirlenir.
+b) Numune alma noktaları seçilirken sediment birikmesinin ve sedimentte kirlenmenin oluşabileceği yerler tespit edilir. Bu yerler belirlenirken suyun hidrolojik bilgisi dikkate alınır.
+c) Numune alma noktaları seçilirken sedimentte kirlilik oluşturabilecek potansiyel kirlilik kaynakları belirlenir. Bu yerler belirlenirken endüstri bölgelerinin, atık deşarj yerlerinin ve atıksu arıtım tesislerinin bulunduğu bölgeler dikkate alınır.
+ç) Numune alma alanındaki homojenlik, pilot bir alan belirlenerek, numune alınacak alanın boyutuna göre enlemesine bir veya daha fazla kesitler alınılarak kontrol edilir. Her bir numune alma noktasından, beş ya da daha fazla temsili numune alınıp analiz edilerek homojenlik testleri yapılır. Ayrı kesitlerden alınan numuneler ve aynı kesit farklı numune alma noktalarından alınan numunelerin homojenlikleri ölçülür. Eğer aynı kesit, farklı numune alma noktalarından alınan numunelerden aynı neticeler elde edilirse, söz konusu kesit tek bir numune alanı olarak değerlendirilir.
+(3) Numune alınacak sedimente öncesinde fiziksel olarak hiçbir müdahalede bulunulmadığından emin olunmalıdır.
+(4) Numune alınırken sedimentin bozulmamış kısmından numune alınmasına dikkat edilir. Birikim hızına bağlı olarak sedimentin en üst katmanından 1 ila 5 cm arası derinlikten numune alınır. Akış hızının yüksek olduğu bölgelerde numune alma derinliği 5 cm’den daha fazla olabilir.
+(5) Sedimentten numune alma sıklığı sedimentasyon ve suyun akış hızı ile değişmekle birlikte yılda en az bir kez olacak şekilde belirlenir. Örnekleme için akış hızının az olduğu yaz dönemleri tercih edilir.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, jeotermal kaynaklar ve deniz suları hariç, su kaynaklarının denize döküldüğü noktalardaki kıyı suları dahil, diğer kıyı suları hariç, kıta içi yer üstü, yer altı ve geçiş sularından ve sedimentten numune alınması, numunelerin taşınması, korunması ve saklanması ile yer üstü sularında biyolojik kalite unsurlarının örneklenmesi ve saklanmasına ilişkin hususları kapsar.

@@ -1,0 +1,35 @@
+İKİNCİ BÖLÜM
+Numune Alma, Taşıma, Saklama ve Koruma ile
+Örneklemeye İlişkin Genel Hükümler
+İlkeler
+MADDE 5 – (1) Bu Tebliğin uygulanmasında;
+a) Yer üstü ve yer altı suları ile sedimentten numune alınmasında, numunelerin taşınmasında, saklanmasında, korunmasında ve yer üstü sularının örneklenmesinde TSE standartlarına ve uluslararası kabul görmüş standartlara uyulması ve bu Tebliğde bahsi geçen TSE standartlarından herhangi birisi güncellendiğinde, güncellenen standart veya muadilinin güncellendiği tarihten itibaren geçerli olması,
+b) Yer üstü ve yer altı suları ile sedimentten numune alınması, numunelerin taşınması, saklanması, korunması ve yer üstü sularının örneklenmesi arazi çalışmaları öncesinde, “TS EN ISO 5667-1 Su Kalitesi - Numune Alma - Bölüm 1: Numune Alma Programlarının ve Numune Alma Tekniklerinin Tasarımına Dair Kılavuz” kapsamında numunelerin alınması ile ilgili tüm hususları içeren numune alma programlarının oluşturulması,
+c) Yer üstü ve yer altı sularından alınan numunelerin saklanmasının, taşınmasının ve korunmasının “TS EN ISO 5667-3 Su Kalitesi-Numune Alma-Bölüm 3: Su Numunelerinin Muhafazası ve Taşınması İçin Kılavuz”a göre yapılması,
+ç) Sediment numunelerinin saklanmasının, taşınmasının ve korunmasının “TS EN ISO 5667-15 Su Kalitesi-Numune Alma-Bölüm 15: Çamur ve Sediment Örneklerinin Koruma ve Taşıma Rehberi”ne göre yapılması,
+d) Yer üstü ve yer altı suyundan numune alma sıklığının, su kalitesine ve yıllık kalite değişimlerine, su kaynağına karışan suların ve atıksu deşarjlarının kirlilik durumuna, suyun hidrolojik karakterine, ekolojik duruma, kullanım maksadına bağlı olarak Bakanlık tarafından hazırlanan izleme programlarında belirlenmesi,
+e) Numune alma sıklığının, kirliliğin yoğun olduğu bölge ve/veya su kalite kriterlerinin iyileştirilmesi gereken alıcı su ortamlarında Bakanlığın göreceği lüzum üzerine arttırılması,
+f) Kimyasal, fiziksel ve mikrobiyolojik analizler için numune alacak personelin sulardan ve sedimentten numune alma konusunda Bakanlık veya Çevre ve Şehircilik Bakanlığı’ndan eğitim almış ve numune alma sertifikasına sahip olması,
+g) Kimyasal ve mikrobiyolojik analiz için belli bir zamanda ve belli bir yerden alınan numunenin sadece o yeri ve zamanı temsil etmesi,
+ğ) Numune alma noktalarının koordinatlarının GPS ile belirlenmesi,
+h) Kimyasal ve mikrobiyolojik analiz için alınan numunelerin temsil edici ve yapılacak analize göre yeterli hacimde olması,
+ı) Kimyasal ve mikrobiyolojik analiz için şahit numune alınması durumunda şahit numunenin yetkili laboratuvara mühürlü olarak teslim edilmesi,
+i) Yer üstü ve yer altı suları ile sedimentten alınan numunelerin analizden önce gerekli koruma önlemleri alınarak laboratuvara getirilmesi ve taşınma esnasında kirletilmemesi için gerekli tedbirlerin alınması,
+j) Yer üstü ve yer altı suları ile sedimentten alınan numunelerin cam veya plastik kaplarda taşınarak saklanması,
+k) Yer üstü ve yer altı suları ile sedimentten alınan her numune için ek-1’de yer alan etiketin hazırlanması ve numune kabının üzerine yapıştırılması,
+l) Yer üstü ve yer altı suları ile sedimentten numune alınması sırasında ek-2’de yer alan numune alma tutanağının doldurulması ve imza altına alınması,
+m) Kimyasal analiz için numuneler alındığında numune alma tutanağının numune alma sertifikası bulunan kişi veya kişiler tarafından imza altına alınması,
+n) İnorganik parametrelerin analizi için yer üstü ve yer altı suyundan numune alınmadan hemen önce numune kabının alınacak numune ile 2-3 defa çalkalanması ve dökülmesi,
+o) Organik parametrelerin analizi için yer üstü ve yer altı suyundan numune alınmadan önce numune kabının numune ile çalkalanmaması,
+ö) Sedimentten numune alınmadan hemen önce numune kabının ortam suyu ile 2-3 defa çalkalanması ve dökülmesi ve ayrıca numune alma araç gereçleri ve şişelerinin, içlerindeki muhtemel birikimleri ve biyolojik oluşumları önlemek için temizlenmesi,
+p) Kimyasal analiz için numune alındıktan sonra, kapak ile numunenin üst yüzeyi arasında hava kalmayacak şekilde şişenin ağzının kapakla kapatılması,
+r) İstenen kimyasal analizin türüne göre her bir numunenin ayrı numune alma kabına alınması, ayrı saklama ve koruma işlemine tabi tutulması,
+s) Kimyasal ve mikrobiyolojik analiz için alınan numunelerde ek-3’te yer alan parametrelere özgü numune alma kabı tipi, saklama ve koruma şartları ve saklama süreleri kriterlerinin dikkate alınması,
+ş) Aynı numunenin kimyasal, mikrobiyolojik ve mikroskobik tayinler için kullanılmaması,
+t) Kimyasal analiz için alınan numunelerin en kısa süre içinde analiz edilmesi ve numuneler bir gün içerisinde analiz edilecekse, düşük sıcaklıklarda (+4°C) saklanması,
+u) Kimyasal analiz için alınan numunelerde, analizi yapılacak parametre ile girişim yapmıyorsa kimyasal koruma maddeleri kullanılabilir. Koruma maddelerinin kullanılması durumunda, koruma maddesinin önceden numune kabına konulması ve alınan numune ile iyice karışmasının sağlanması,
+ü) pH, sıcaklık, çözünmüş oksijen ve elektriksel iletkenlik parametrelerinin analizlerinin yerinde hemen yapılması,
+v) Biyolojik izleme kapsamında bentik makroomurgasız, fitoplankton, fitobentoz, balık, makrofit, makroalg ve angiospermin örneklenmesi,
+y) Biyolojik örneklemenin nehir, göl, kıyı ve geçiş suyu kütlelerinde yapılması,
+z) Biyolojik örneklemenin, sucul ekosistemlerden biyolojik örnekleme yapılması hususunda tecrübeli ve bu konuda mesleki yeterliliği olan personel tarafından yapılması,
+esastır.

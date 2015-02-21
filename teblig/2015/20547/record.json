@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20547",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YER ÜSTÜ SULARI, YER ALTI SULARI VE SEDİMENTTEN NUMUNE ALMA VE BİYOLOJİK ÖRNEKLEME TEBLİĞİ",
+  "number": "20547",
+  "issuer": "Orman ve Su İşleri Bakanı",
+  "path": "teblig/2015/20547",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20547&MevzuatTertip=5",
+  "source_sha256": "95277e1158ca9ef9af8ef35813c133e66d6dcad62d8c81e8d867fc22ad5eeb44",
+  "source_bytes": 56991,
+  "published": "2015-02-21",
+  "gazette": "29274",
+  "in_force": "2015-02-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.02.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3240,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20547-ek.dot"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
