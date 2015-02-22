@@ -1,0 +1,7 @@
+Merkezin faaliyet alanları
+MADDE 6 – (l) Merkezin faaliyet alanları şunlardır:
+a) Bitlis Yöresinde çıkarılan pomza ve perlitin özellikleri konusunda yurt içi ve yurt dışında araştırma ve incelemeler yapmak, yapanları desteklemek, konu ile ilgili kitap, makale, belge, doküman ve diğer arşiv malzemelerini tespit etmek ve bunların teminine çalışmak,
+b) Bölgede yürütülen maden ve endüstri faaliyetlerini yakından takip etmek, konu ile ilgili paydaşlar oluşturmak ve görüşler almak, görüşler doğrultusunda katma değeri yüksek ürünler konusunda akademik niteliği olan faaliyetler yürütmek,
+c) Üniversite bünyesinde pomza ve perlit çalışmalarına destek olacak mevcut altyapıyı ve akademisyen potansiyelini değerlendirmek, akademik kadroyu ve yüksek lisans öğrencilerini konu ile ilgili çalışma yapmaya teşvik etmek,
+ç) Merkezin çalışma alanlarıyla ilgili olarak, yurt içinde ve yurt dışında uluslararası düzeyde kongre, sempozyum, konferans, seminer, panel, çalıştay ve sergiler düzenlemek veya düzenlenmesine yardımcı olmak, konuyla ilgili yerli ve yabancı bilim adamlarını bu çalışmalara davet etmek,
+d) Üniversitede mevcut malzeme üretim ve test cihazlarını pomza ve perlit ham maddelerini katma değeri yüksek bir ürüne dönüştürmek üzere değerlendirmek, pomza ve perlit tabanlı geliştirilecek malzemenin endüstride tanıtımını yaparak hammaddenin daha değerli bir ürüne dönüştürülmesine katkıda bulunmak.
