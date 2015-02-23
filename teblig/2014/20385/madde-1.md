@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) 15/1/1997 tarihli ve 97/9196 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türk Ürünlerinin İhracatının Arttırılmasına Yönelik Teknik Mevzuatı Hazırlayacak Kurumların Belirlenmesine İlişkin Kararın 2 nci maddesinde verilen yetkiye istinaden Ekonomi Bakanlığınca yeniden belirlenen Karar ekinin 11 ve 32 nci bölümlerindeki sorumlu/koordinatör, katkıda bulunacak kuruluşlar ile 15 ve 19 uncu bölümlerine ilave edilen alt ürün grubu başlıklarındaki sorumlu/koordinatör, katkıda bulunacak kuruluşlar Ek 1’de yer almaktadır.

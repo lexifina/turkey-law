@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20385",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK ÜRÜNLERİNİN İHRACATININ ARTTIRILMASINA YÖNELİK TEKNİK MEVZUATI HAZIRLAYACAK KURUMLARIN BELİRLENMESİNE İLİŞKİN KARARIN EKİNDE YAPILAN DÜZENLEMENİN DUYURULMASI HAKKINDA TEBLİĞ (ÜRÜN GÜVENLİĞİ VE DENETİMİ: 2015/25)",
+  "number": "20385",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2014/20385",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20385&MevzuatTertip=5",
+  "source_sha256": "948b90f26d063be177bc0d828bbfe6f1401e37f24de128f56847ff395a9f37db",
+  "source_bytes": 6769,
+  "published": "2014-12-31",
+  "gazette": "29222",
+  "in_force": "2015-02-23",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 23/2/2015 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 23/2/2015 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 138,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20385-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
