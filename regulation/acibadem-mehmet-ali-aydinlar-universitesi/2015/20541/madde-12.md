@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; Yönetim Kurulunun önerisi üzerine, çalışma konularıyla ilgili kamu kurum ve kuruluşları ile özel sektör temsilcileri ve uzmanlar arasından istekleri halinde, üç yıllık süreyle Rektör tarafından görevlendirilen en az sekiz kişiden oluşur. Görev süreleri ve yeniden görevlendirilmeleri Yönetim Kurulu üyeleri ile aynı şekilde olur. Danışma Kurulu Müdürün çağrısı üzerine toplanır.
