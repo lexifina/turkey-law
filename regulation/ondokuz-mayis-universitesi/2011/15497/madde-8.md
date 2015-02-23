@@ -1,0 +1,4 @@
+Merkez müdürü
+MADDE 8 – (Değişik:RG-23/2/2015-29276)
+(1) Merkez Müdürü; Hastanede uygulamalı eğitim yapan ve tam gün statüsünde çalışan uzman tıp doktoru öğretim üyeleri arasından Rektör tarafından 3 yıl süreyle görevlendirilir. Merkez Müdürüne Hastane Başhekimi görevi de verilebilir. Rektör gerekli gördüğü hallerde Merkez Müdürünü değiştirebilir.
+(2) Merkez Müdürünün önerisiyle, Hastanede tam gün statüsünde çalışan uzman tıp doktoru öğretim üyeleri arasından en az üç, en fazla beş kişi merkez müdür yardımcısı olarak Rektör tarafından görevlendirilir. Müdür yardımcıları, Merkez Müdürünün yapacağı yetki devrine göre, hizmetlerin yürütülmesinde Merkez Müdürüne yardımcı olurlar. Müdür yardımcılarının görev süresi Merkez Müdürünün görev süresiyle aynıdır. Merkez Müdürünün görevi başında bulunmadığı zamanlarda yerine, müdür yardımcılarından biri vekalet eder. Vekalet süresi kesintisiz altı ayı geçemez.
