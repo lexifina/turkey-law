@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 9 – (1) Yönetim Kurulu; Müdür, müdür yardımcıları, Müdürün teklifi ve Rektörün onayı ile tarih ile ilgili konularda çalışan iki öğretim üyesi ile kamu kurum ve kuruluşlarının Sivas ilindeki temsilciliklerince görevlendirilen iki temsilci olmak üzere toplam yedi kişiden oluşur. Görev süresi dolan üyeler yeniden görevlendirilebilir. Süresi dolmadan ayrılan, Üniversite dışında altı aydan daha uzun süreyle görevlendirilen ya da mazeretsiz olarak üst üste üç toplantıya katılmayan üyelerin yerine, kalan süreyi tamamlamak üzere aynı usulle Rektör tarafından yeni üyeler görevlendirilebilir.
+(2) Yönetim Kurulu, Müdürün çağrısı üzerine en az üç ayda bir defa salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır.
