@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-02-24T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-02-24",
+  "official_number": "39044742- KDV.21-315",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29213",
+  "source_id": "ozelge:29213",
+  "source_row_sha256": "801bc2feff9cff18e49a7cbaa1e0fb2a440d5edb7cfaa1ef1a0db75d136aca06",
+  "title": "Tıbbi cihaz ve hastane malzemelerinin tesliminde uygulanacak KDV oranı",
+  "version_label": "as-enacted",
+  "word_count": 188
+}
