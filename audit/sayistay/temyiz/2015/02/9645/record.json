@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40065",
+  "decision_date": "2015-02-24",
+  "source_id": 9645,
+  "chamber": "2",
+  "file_number": "37702",
+  "account_year": "2007",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9645/",
+  "source_sha256": "3f2b4e2ebe4669cf4bf0d3f51058255698c021960f069a35b3422229bd31eb48",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
