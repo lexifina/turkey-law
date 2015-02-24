@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40053",
+  "decision_date": "2015-02-24",
+  "source_id": 9633,
+  "chamber": "8",
+  "file_number": "37372",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9633/",
+  "source_sha256": "f0ff5f5c9d018c211f9f597ec5fe9cc95737cb32ce83e95236c1aa2e02f476bb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
