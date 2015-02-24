@@ -1,0 +1,21 @@
+Vekalette özel hizmet tazminatı ve ek ödeme
+
+ ...........Müdürlüğü’nde müdürlük görevini vekâleten yerine getiren personele özel hizmet tazminatı ve ek ödeme farklarının fazla ödenmesi sonucunda .......... TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak,
+
+	657 Sayılı Devlet Memurları Kanununun “Vekalet Görevi ve Aylık Verilmesinin Şatları” başlıklı 86. maddesinde “Memurların kanuni izin, geçici görev, disiplin cezası uygulaması veya görevden uzaklaştırma nedenleriyle işlerinden geçici olarak ayrılmaları halinde yerlerine kurum içinden veya diğer kurumlardan veya açıktan vekil atanabilir.
+
+Bir görevin memurlar eliyle vekaleten yürütülmesi halinde aylıksız vekalet asıldır…”
+
+denilmiş ve aynı kanunun “Vekalet, İkinci Görev Aylık ve Ücretleri ile Diğer Ödemeler” başlıklı 175. maddesinde “Bir göreve vekaleten atanan memurlara vekalet edilen görevin kadro derecesinin birinci kademesinin üçte biri, açıktan atananlara ise (Köy ve kasaba imamlığı kadrolarına atananlara 146 ncı maddede yazılı asgari ücret aylık tutarından aşağı olmamak üzere) üçte ikisi verilir. Bulundukları yerden başka bir yerdeki bir göreve vekalet suretiyle atananlara, Harcırah Kanununun geçici görevle başka yere gönderilenlere ilişkin hükümleri uygulanır.
+
+Ancak, kurum içinden veya diğer kurumlardan vekalet edenlere vekalet aylığı ödenebilmesi için, vekilin asilde aranan şartları taşıması zorunludur…” hükümlerine yer verilmiştir.
+
+02.11.2011 tarih ve 28103 mükerrer sayılı Resmi Gazete’de yayımlanan 666 Kanun Hükmünde Kararname’ye eklenen 30.06.1989 tarih ve 20211 mükerrer sayılı Resmi Gazete’de yayımlanan 375 sayılı Kanun Hükmünde Kararnamenin Ek 9. maddesinin (5) inci fıkrasında; “Birinci fıkra kapsamına giren personelden; kurumlarınca bir kadroya kurum içinden veya kurum dışından vekalet ettirilenlere, vekaletin 657 sayılı Kanunun 86 ncı maddesine istinaden yapılmış ve bu hususun onayda belirtilmiş olması, vekalet görevinin Bakanlar Kurulu kararı veya müşterek karar ile atama yapılması gereken kadrolar için ilgili bakan, diğer kadrolar için asili atamaya yetkili amir tarafından verilmesi, vekalet eden personelin asaleten atanmada aranan tüm şartları (asaleten atanmada sınav şartı aranılan kadrolar için bu sınavlara girebilme hakkının elde edilmiş olması dahil) taşıması kaydıyla vekalet ettikleri kadro için öngörülen ek ödemenin asli kadroları için öngörülen ek ödemeden fazla olması halinde, aradaki fark, vekalet görevine başlanıldığı tarihten itibaren ve bu görev fiilen yapıldığı sürece ödenir. Ancak, mehil müddeti, yıllık izin, mazeret izni, hastalık ve refakat izni, geçici görev, vekalet, görevden uzaklaştırma, hizmet içi eğitim, seminer ve kurs nedenleriyle görevlerinden ayrılanlara vekalet edenlere bu şekilde ödeme yapılmaz” hükümleri yer almaktadır. Bu hükümler uyarınca, ............ Müdürlüğü’nde müdürlük kadrosuna vekalet eden personele, vekalet ettiği kadroya ilişkin öngörülen özel hizmet tazminatı ve ek ödeme tutarları ile kendisine fiilen ödenen özel hizmet tazminatı ve ek ödeme tutarları arasındaki farkın ödenebilmesi için, bu kadrolara asaleten atanacaklar için aranan tüm şartları taşıması gerekmektedir.
+
+Son olarak 04.07.2009 tarih ve 27278 mükerrer sayılı Resmi Gazete’de yayımlanan Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslara Dair Yönetmeliğin “Görevde Yükselme Sınavına Tabi Olarak Atanacaklarda Aranacak Özel Şartlar” başlıklı 7 nci maddesinde; Müdür ve Şube Müdürü kadrosuna atanabilmek için fakülte veya en az dört yıllık yüksek okul mezunu olmak; şartı hükme bağlanmıştır.
+
+Yapılan incelemede, .............. Müdürü kadrosuna vekalet eden .......... ’ın meslek lisesi mezunu olduğu ve bu yönüyle Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslara Dair Yönetmeliğin söz konusu kadro için asaleten atanacaklarda aranan eğitim şartını taşımadığı değerlendirilmektedir.
+
+Bu itibarla .......... Belediyesi ............Müdürlüğü’nde müdürlük görevini vekâleten yerine getiren personele özel hizmet tazminatı ve ek ödeme farklarının fazla ödenmesi neticesinde oluşan .......... TL kamu zararı, ahizi .......... ’dan .......tarih ve ....... no.lu tahsilat makbuzu ile tahsil edildiğinden ilişilecek husus kalmadığına,
+
+	Oybirliğiyle karar verildi.
