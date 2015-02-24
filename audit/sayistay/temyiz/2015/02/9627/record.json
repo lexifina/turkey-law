@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40047",
+  "decision_date": "2015-02-24",
+  "source_id": 9627,
+  "chamber": "8",
+  "file_number": "37471",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9627/",
+  "source_sha256": "26afb755ee080b1820b99c7d736b2c04e4db69ddc7f5168b736100488b506054",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
