@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "115",
+  "decision_date": "2015-02-24",
+  "source_id": 9154,
+  "chamber": "5",
+  "ilam_number": "138",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9154/",
+  "source_sha256": "6659591c16478d96c5185715d82790ee7424f2237f0c19e1c57f182ba6727594",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
