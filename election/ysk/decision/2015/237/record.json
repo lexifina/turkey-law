@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/237",
+  "list_number": "237",
+  "decision_date": "2015-02-24",
+  "title": "Yüksek Seçim Kurulunun 2014/4320 sayılı kararının İsveç'te 31 Mayıs 2015 tarihinde Stokholm Büyükelçiliğinde kiralanacak binada 30 sandık kurulmasına dair kısmının değiştirilmesinin reddine ilişkin Kurulumuzun 2015/237 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2232/2015-237.pdf",
+  "source_sha256": "4c5b0cf1e610272caade260c589550f61419aef388347071489b338ea4f9badc",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-02-24",
+  "law_text_complete": false
+}
