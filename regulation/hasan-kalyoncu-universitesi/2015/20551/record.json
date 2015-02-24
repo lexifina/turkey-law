@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2015-02-24",
+      "24.02.2015",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29277",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-02-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hasan Kalyoncu Üniversitesi",
+  "issuer_slug": "hasan-kalyoncu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hasan-kalyoncu-universitesi/2015/20551",
+  "published": "2015-02-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20551&MevzuatTertip=5",
+  "source_bytes": 19478,
+  "source_id": "8.5.20551",
+  "source_sha256": "8e60c3bac4b239a671610b806503ad29c5bdd44513bac7f703ed5d1da7de934e",
+  "text_status": "as-enacted",
+  "title": "HASAN KALYONCU ÜNİVERSİTESİ ÇEVRE UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 338,
+  "word_count": 1114
+}
