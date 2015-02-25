@@ -1,0 +1,210 @@
+25 Şubat 2015 ÇARŞAMBA
+Resmî Gazete
+Sayı : 29278
+YÖNETMELİK
+Enerji ve Tabii Kaynaklar Bakanlığından:
+RÜZGAR ENERJİSİ
+SANTRALLERİNİN RÜZGAR GÜCÜ İZLEME VE TAHMİN
+MERKEZİNE BAĞLANMASI HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı, rüzgar enerjisi
+santrallerinin Rüzgar Gücü İzleme ve Tahmin Merkezine bağlanmalarına ve
+bağlantı şartlarına ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, rüzgar enerjisi santrallerinin
+Rüzgar Gücü İzleme ve Tahmin Merkezine bağlanmaları, lisans sahibinin
+bağlantı için yerine getirmesi gereken yükümlülükler, merkezde üretilecek
+rüzgar gücü tahminlerinden yararlanma usulleri ile tahminlerden yararlanma
+için fiyatlandırmada uygulanacak usul ve esasları kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 19/2/1985 tarihli ve 3154
+sayılı Enerji ve Tabii Kaynaklar Bakanlığının Teşkilat ve Görevleri
+Hakkında Kanunun 2 nci maddesinin birinci fıkrasının (b) bendine, 10/B
+maddesinin birinci fıkrasının (a) bendine ve 28 inci maddesine dayanılarak
+hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 4 –
+(1) Bu Yönetmeliğin
+uygulanmasında;
+a) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını
+(ETKB),
+b) Bağlantı Belgesi: RES sahibi tüzel kişinin
+RİTM’e bağlanma işlemlerini tamamladığını gösteren ve Yenilenebilir Enerji
+Genel Müdürlüğü tarafından düzenlenen belgeyi,
+c) Bilgi Formu: RİTM’e bağlantı başvurusu sırasında
+RES sahibi tüzel kişi tarafından hazırlanan ve Genel Müdürlüğe verilen,
+santrale ilişkin bilgileri içeren bilgi formunu,
+ç) Genel Müdürlük: Yenilenebilir Enerji Genel
+Müdürlüğünü (YEGM),
+d) Hizmet Bedeli: Rüzgar Gücü İzleme ve Tahmin
+Merkezinde üretilen rüzgar gücü tahminlerinden yararlanmak isteyen RES
+sahibi tüzel kişinin Yenilenebilir Enerji Genel Müdürlüğüne ödeyeceği
+bedeli,
+e) Rüzgar Enerjisi Santrali (RES): Rüzgar
+enerjisine dayalı elektrik üretim tesisi ile yardımcı tesislerini,
+f) Rüzgar Gücü Çözümleyicisi (RGÇ): Rüzgar enerjisi
+santrallerinin anlık elektriksel büyüklüklerini ölçebilen cihazı,
+g) RİTM: Rüzgar Gücü İzleme ve Tahmin Merkezini,
+ğ) Scada: Yönetsel kontrol ve veri edinimi
+sistemini,
+ifade eder.
+İKİNCİ BÖLÜM
+Genel Hükümler
+RİTM’e
+bağlanma zorunluluğu olan RES’ler
+MADDE 5 – (1) 10 MW ve üzeri üretim lisanslı bütün RES’lerin
+RİTM’e bağlanması zorunludur.
+(2) 10 MW altı üretim lisanslı tesislerin RİTM’e
+bağlanması zorunlu değildir. Talep etmeleri halinde bu Yönetmelik hükümleri
+kapsamında RİTM’e bağlantıları yapılır.
+Bağlantı
+başvurusunun yapılması
+MADDE 6 – (1) RES sahibi tüzel kişi, santralinin geçici
+kabulünün yapılabilmesi için Bakanlığa başvuruda bulunmadan önce RİTM’e
+bağlantı işlemlerini tamamlar. RİTM’e bağlanmayan RES’lerin geçici kabulü
+yapılmaz.
+(2) RİTM’e bağlantı başvurusu geçici kabul
+başvurusundan en az 30 takvim günü önce yapılır.
+(3) RES sahibi tüzel kişi, RİTM’e bağlanmak üzere 8
+inci maddede belirtilen alt yapıyı tamamlar ve bağlantı için Genel
+Müdürlüğe başvuruda bulunur. Alt yapının bu Yönetmeliğe uygun şekilde tesis
+edilmesinden başvuru sahibi sorumludur.
+(4) Alt yapıyı tamamlayan RES sahibi tüzel kişi
+başvuru için;
+a) EK-1’de örneği verilen bilgi formunu elektronik
+ortamda hazırlayarak elektronik posta yolu ile veya elden CD ile Genel
+Müdürlüğe iletir.
+b) RGÇ cihazı ile RİTM bağlantısının kurulması için
+IP adresini Genel Müdürlüğe bildirir.
+c) RİTM verilerine uzaktan erişim için paylaşım
+sağlanmasını uygun bulduğu kullanıcıların elektronik posta adreslerini
+Genel Müdürlüğe bildirir. Genel Müdürlük tarafından paylaşıma
+yetkilendirilen kullanıcıların her birine özel kullanıcı adı, parola tahsis
+edilir.
+(5) Başvuru işlemleri tamamlandıktan sonra en geç
+takvim günü içerisinde izleme verilerine, 90 takvim günü sonunda tahmin
+verilerine erişim sağlanır.
+(6) Bağlantı süreci tamamlanan RES için Genel
+Müdürlük tarafından EK-2’de örneği verilen bağlantı belgesi iki nüsha
+olarak düzenlenir, belgelerin birisi santral sahibine verilir, diğer nüsha
+Genel Müdürlükte muhafaza edilir.
+Kapasite
+artırımına giden RES’ler
+MADDE 7 – (1) RİTM’e bağlandıktan sonra kapasite artırımına
+giden RES’ler bu konudaki lisans tadili işlemlerini tamamladıktan ve bunu
+belgelendirdikten sonra Genel Müdürlüğe başvurur. EK-1’deki bilgi formunun,
+değişiklikleri içerecek şekilde düzenlenerek 6 ncı maddenin dördüncü
+fıkrasının (a) bendine göre Genel Müdürlüğe iletilmesi yeterlidir. Bu
+konuda ilave işlem yapılması gerekmemektedir.
+RİTM’e
+bağlanacak RES’in kuracağı alt yapı
+MADDE 8 – (1) RİTM’e bağlanacak RES sahibi tüzel kişi;
+bağlantı başvurusu öncesinde EK-3’te verilen teknik özelliklere sahip
+RGÇ’yi santraline tesis eder.
+(2) RİTM’e bağlanacak RES sahibi tüzel kişi;
+bağlantı başvurusu öncesinde scada sistemini EK-4’te verilen teknik
+özelliklere uygun hale getirir.
+(3) EK-3 ve EK-4’te verilen teknik özellikler Genel
+Müdürlüğün resmî internet sitesinde yayımlanır.
+(4) Genel Müdürlüğün kurulacak alt yapının teknik
+özelliklerinde değişiklik yapma hakkı saklıdır. Yapılan değişiklikler ve
+güncellemeler Genel Müdürlüğün resmî internet sitesinde duyurulur.
+(5) Alt yapının kurulması ile ilgili bütün
+harcamalar RES sahibi tüzel kişi tarafından karşılanır.
+Veri
+paylaşımı
+MADDE 9 – (1) Genel Müdürlüğün uygun bulacağı kamu kurum ve
+kuruluşları Genel Müdürlük ile yapılacak karşılıklı EK-5’te örneği verilen
+protokol ile RİTM izleme ve tahmin verilerine erişim sağlayabilirler.
+Erişim ile ilgili hususlar protokol içeriğinde hükme bağlanır.
+(2) RİTM’e bağlanacak RES sahibi tüzel kişi, sadece
+kendi izleme ve tahmin verilerine erişim sağlayabilir.
+(3) RES sahibi tüzel kişi, kendi santralinin izleme
+verilerine ücretsiz erişim sağlayabilir. Santralinin 48 saatlik tahmin
+verilerine erişim sağlamak isterse 10 uncu maddede belirtilen hizmet
+bedelini Genel Müdürlüğe öder.
+(4) İzleme verileri anlık olarak verilir.
+(5) Kısa süreli tahmin verileri günlük olarak
+sonraki 48 saati gösterecek şekilde Türkiye saati ile 10.00’da verilir. Çok
+kısa süreli tahmin verileri her saat başında yenilenerek verilir.
+(6) RİTM’de üretilen izleme ve tahmin verilerinin
+RES sahibi tüzel kişi tarafından kullanılması zorunlu değildir. Tahmin
+verileri RES sahibi tüzel kişinin elektrik üretim tahminlerini
+gerçekleşecek üretime yakın yapabilmesine katkı sağlamayı amaçlamaktadır.
+Tahminlerden
+yararlanma için fiyatlandırmada uygulanacak usul ve esaslar
+MADDE 10
+– (1) Hizmet bedeli; bağlanma
+işlemleri tamamlanarak, bağlantı belgesi düzenlenmesinden itibaren 15
+takvim günü içerisinde genel bütçenin (B) işaretli cetveline gelir
+kaydedilmek üzere Enerji ve Tabii Kaynaklar Bakanlığı saymanlık hizmetini
+yürüten muhasebe birimi hesabına yıllık ve peşin olarak ödenir. Hizmet
+bedeli hiçbir koşulda geri ödenmez.
+(2) O yıla ait yıllık hizmet bedeli, Ocak ayı
+başından Aralık ayı sonuna kadar geçerlidir. Yıl içinde yapılan bağlanma
+başvurularında o yıla ait ilk hizmet bedeli, bağlanma işlemlerinin
+tamamlandığı aya göre hesaplanır.
+(3) Yıllık hizmet bedeli 2015 yılı için 1200 TL
+olarak belirlenmiştir.
+(4) Bir sonraki yıl için geçerli olacak hizmet
+bedeli; her yılın Ekim ayı
+içerisinde Ekim ayı Yİ-ÜFE katsayısı ile güncellenerek Genel Müdürlüğün
+resmî internet sitesinde yayımlanır.
+(5) Tahminlere erişim, bağlanma işlemlerinin
+tamamlanmasından sonraki 90 takvim gününün sonunda sağlanır. RES sahibi
+tüzel kişi tahminlere erişim sağlamasından sonraki ilk üç aylık hizmet
+bedelinden muaf tutulur. Hizmet bedeli muafiyeti sadece RİTM’e ilk bağlantı
+için geçerlidir. RES sahibi tüzel kişi tahmin erişimini sonlandırdıktan bir
+süre sonra tekrar tahminlere erişim talebinde bulunduğunda muafiyet
+uygulanmaz.
+(6) RES sahibi tüzel kişi istediği zaman tahminlere
+erişimini sonlandırmayı talep edebilir. Bu durumda kendisinden 10 uncu
+maddenin birinci fıkrası kapsamında ödemiş olduğu hizmet bedelinden başka
+ödeme talep edilmez ve cezai bir müeyyide uygulanmaz.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Gizlilik
+MADDE 11
+– (1) Genel Müdürlük, RES’ten
+alınan her türlü verinin, bilginin gizliliği ve güvenliğinin sağlanması,
+başka bir amaç için kullanılmaması ve bu verilerin tüzel kişi veya gerçek
+kişilerle paylaşılmamasından sorumludur.
+(2) 9 uncu madde kapsamındaki kamu kurum ve
+kuruluşları da her türlü verinin, bilginin gizliliği ve güvenliğinin
+sağlanması, başka amaçlarla kullanılmaması ve bu verilerin tüzel kişi veya
+gerçek kişilerle paylaşılmamasından sorumludurlar. 9 uncu madde
+kapsamındaki kamu kurum ve kuruluşlarının bu konuya ilişkin yükümlülükleri
+9 uncu madde içeriğinde belirtilen protokol ile hükme bağlanır.
+(3) Genel Müdürlük, RİTM kapsamındaki çalışmalarını
+tüzel veya gerçek kişilere açık toplantılarda sunarken veya yayınlarken,
+RES sahibi tüzel kişinin bilgi gizliliği ve güvenliğini sağlamakla
+yükümlüdür.
+Yükümlülüklerin
+yerine getirilmemesi halinde alınacak tedbirler
+MADDE 12
+– (1) Bu Yönetmelikteki
+yükümlülüklerin yerine getirilmemesi durumunda Bakanlık bu yükümlülüklerin
+yerine getirilmesini teminen bu Yönetmelik ve ilgili mevzuat hükümlerine
+uygun olarak gerekli tedbirleri alır.
+RİTM’in
+kurulmasından önce işletmeye alınan RES’ler
+GEÇİCİ
+MADDE 1 – (1) Bu Yönetmeliğin
+yürürlüğe girdiği tarihten önce işletmeye alınan ve 5 inci madde
+kapsamındaki RES’ler, 28/5/2014 tarihli ve 29013 mükerrer sayılı Resmî
+Gazete’de yayımlanan Elektrik Şebeke Yönetmeliğinin Geçici 4 üncü
+maddesinin ikinci fıkrası hükümlerine göre RİTM’e bağlanma işlemlerini
+tamamlamakla yükümlüdürler.
+Yürürlük
+MADDE 13
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 14
+– (1) Bu Yönetmelik hükümlerini
+Enerji ve Tabii Kaynaklar Bakanı yürütür.
+Ekler için tıklayınız
