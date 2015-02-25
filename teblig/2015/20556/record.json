@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20556",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK AKREDİTASYON KURUMUNCA UYGULANACAK AKREDİTASYON KULLANIM ÜCRETİ/PAYINA İLİŞKİN TEBLİĞ (TÜRKAK: 2015/1)",
+  "number": "20556",
+  "issuer": "Türk Akreditasyon Kurumu Yönetim Kurulu",
+  "path": "teblig/2015/20556",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20556&MevzuatTertip=5",
+  "source_sha256": "6ac8bc59d24c4cb95c34955c7d9c7c05d3923b511d49525ece590bc4315beefe",
+  "source_bytes": 7476,
+  "published": "2015-02-25",
+  "gazette": "29278",
+  "in_force": "2015-02-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.02.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 210,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
