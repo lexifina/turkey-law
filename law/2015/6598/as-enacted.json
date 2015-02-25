@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6598",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Arjantin Cumhuriyeti Hükümeti Arasında Kendi Ülkeleri Arasında Hava Hizmetlerine İlişkin Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-25",
+  "gazette_issue": "29278",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150225-1.htm",
+  "source_sha256": "78860969b77dfa9d7d45cc0980e1077fc95dbde30c19177cd2ed8df50fb778d2",
+  "text_sha256": "e049cd8e30dc4ebb5e3791917d30fcd3eeb27ec2eabb122d9309cb62a0ea14e9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/25/29278-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150225-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
