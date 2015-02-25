@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-02-25T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-02-25",
+  "official_number": "39044742-KDV.17.4-329",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31615",
+  "source_id": "ozelge:31615",
+  "source_row_sha256": "72db8809e1e6ed44dda3966c8cc2698a16bee22535481470d383745253ecd600",
+  "title": "Holding şirketin iştirak ettiği başka şirkete ait gayrimenkulleri aktifine geçirerek satması halinde kurumlar vergisi ve KDV istisna olup olmayacağı.",
+  "version_label": "as-enacted",
+  "word_count": 900
+}
