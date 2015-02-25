@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2015-02-25",
+      "25.02.2015",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29278",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-02-25",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Sinop Üniversitesi",
+  "issuer_slug": "sinop-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sinop-universitesi/2015/20554",
+  "published": "2015-02-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20554&MevzuatTertip=5",
+  "source_bytes": 19662,
+  "source_id": "8.5.20554",
+  "source_sha256": "054d58beb56cf5bb19a8fd4eae67784aee2fc71fb73b6b6fc218cf26b31458c4",
+  "text_status": "as-enacted",
+  "title": "SİNOP ÜNİVERSİTESİ MAHMUT KEFEVÎ İSLAMİ İLİMLER UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 312,
+  "word_count": 1061
+}
