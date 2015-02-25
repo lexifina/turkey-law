@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-02-25",
+  "issue": "29278",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sakarya Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150225-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150225.htm",
+  "index_sha256": "f56d95fb5d19f0c55fc4de92c419d17a7e3c2f41ef60508b6831ae51354d0ecc",
+  "index_header": "25 Şubat 2015 ... 29278 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150225.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
