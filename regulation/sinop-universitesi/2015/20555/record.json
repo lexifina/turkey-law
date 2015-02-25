@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2015-02-25",
+      "25.02.2015",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29278",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-02-25",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Sinop Üniversitesi",
+  "issuer_slug": "sinop-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sinop-universitesi/2015/20555",
+  "published": "2015-02-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20555&MevzuatTertip=5",
+  "source_bytes": 20732,
+  "source_id": "8.5.20555",
+  "source_sha256": "1cc1706747be50c1952a8127fd08a1e8d6520c73d329af5af295f68d8152b379",
+  "text_status": "as-enacted",
+  "title": "SİNOP ÜNİVERSİTESİ ULUSLARARASI İLİŞKİLER UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 312,
+  "word_count": 1119
+}
