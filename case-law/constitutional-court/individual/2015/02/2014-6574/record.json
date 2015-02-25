@@ -1,0 +1,20 @@
+{
+  "applicant": "M.T.K.",
+  "application_date": "2014-05-14",
+  "application_number": "2014/6574",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2015-02-25",
+  "id": "28d1955b-4082-5606-9cb2-ab4a1c08792b",
+  "in_force": "2015-02-25",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjI4ZDE5NTViLTQwODItNTYwNi05Y2IyLWFiNGExYzA4NzkyYg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "b0c70c9670a2a20131e26df58883c818819993939e009c960d1c15b696b3b1aa",
+  "version_label": "as-enacted"
+}
