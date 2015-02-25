@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6601",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti ile Brezilya Federal Cumhuriyeti Arasında Diplomatik Misyon ve Konsolosluk Görevlilerinin Aile Üyelerinin Kazanç Getirici İşlerde Çalışmalarına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-25",
+  "gazette_issue": "29278",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150225-3.htm",
+  "source_sha256": "d26bd1337a5888ee879a3653fa7cec460530884a026988da2e7eb6ef8e68204c",
+  "text_sha256": "1b84ca5eede608f9f44fd46470f8f7e986e382206d0ae206af2891cc4b514c49",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/25/29278-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150225-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
