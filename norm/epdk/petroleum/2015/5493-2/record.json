@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5493/2",
+  "decision_date": "2015-02-26",
+  "title": "EPDK Kurul Kararı 5493/2",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5mdHW5Vdm8Y=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5mdHW5Vdm8Y="
+  ],
+  "source_sha256": "9c6c33ea95290ae917553e94ddb2bb61c82abe60c7d245b7cc57e1e139079994",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-02-26",
+  "law_text_complete": false
+}
