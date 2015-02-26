@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğ, Türkiye Hazır Beton Birliği-Kalite Güvence Sistemi İktisadi İşletmesi’nin (KGS), Yapı Malzemelerinin Tabi Olacağı Kriterler Hakkında Yönetmeliğine göre gerçekleştireceği uygunluk değerlendirme faaliyetleri için Bayındırlık ve İskan Bakanlığı tarafından görevlendirilmiş olduğunun 26/6/2009 tarih ve 27270 sayılı Resmî Gazete’de yayımlanan Yapı Malzemelerinin Tabi Olacağı Kriterler Hakkında Yönetmeliğin 19 uncu maddesinin 3 üncü fıkrasında belirtildiği üzere duyurulması amacıyla hazırlanmıştır.

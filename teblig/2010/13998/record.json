@@ -1,0 +1,50 @@
+{
+  "source_id": "9.5.13998",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİNİN TABİ OLACAĞI KRİTERLER HAKKINDA YÖNETMELİK KAPSAMINDA TÜRKİYE HAZIR BETON BİRLİĞİ-KALİTE GÜVENCE SİSTEMİ İKTİSADİ İŞLETMESİNİN UYGUNLUK DEĞERLENDİRME KURULUŞU OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (TEBLİĞ NO: YİG / 2010-05)",
+  "number": "13998",
+  "issuer": "Bayındırlık ve İskân Bakanı",
+  "path": "teblig/2010/13998",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13998&MevzuatTertip=5",
+  "source_sha256": "6640d6406b4c925bbb83fce39630f57ebdb2d0e4763a806652872bbfad6c9f4e",
+  "source_bytes": 25865,
+  "published": "2010-05-27",
+  "gazette": "27593",
+  "in_force": "2015-02-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/2/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-02-26",
+      "RG-26/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-26",
+      "26/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-06-26",
+      "26/06/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 466,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "https://www.tse.org.tr/TSEIntWeb/Standard/Standard/Standard.aspx?081118051115108051104119110104055047105102120088111043113104073088071105107074082112069079088117"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
