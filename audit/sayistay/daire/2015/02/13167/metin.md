@@ -1,0 +1,3 @@
+Bütçe Kanunu K Cetveli Hükmüne Aykırı Olarak Fazla Mesai Ücreti Ödenmesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …Belediyesi Sosyal Yardım İşleri Müdürlüğü’nde çalışan bazı memur personele Bütçe Kanunu K cetveli hükmüne aykırı olarak fazla mesai ücreti ödenmesi sonucu … TL’lik kamu zararına neden olunduğu görülmüşse de; bu kamu zararının … TL’sinin …’dan … tarih ve … seri nolu,  … TL’sinin …’den … tarih ve … seri nolu, … TL’sinin  …’dan … tarih ve  … seri nolu, ve …. TL’sinin …’dan … tarih ve …. seri nolu alındı makbuzlarıyla tahsil edildiğinden ilişilecek husus kalmadığına  oy birliğiyle,
