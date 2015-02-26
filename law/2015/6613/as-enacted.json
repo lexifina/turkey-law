@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6613",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Enerji ve Tabii Kaynaklar Bakanlığı ile Yunanistan Cumhuriyeti Çevre, Enerji ve İklim Değişikliği Bakanlığı Arasında Enerji Alanında İşbirliği Hakkında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-26",
+  "gazette_issue": "29279",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150226-2.htm",
+  "source_sha256": "5e5384d5360a77874f32a7abb0cc1bfd6bbfeff2beb4c968985b19e354e5fe07",
+  "text_sha256": "ee86fd6eaafe4a32011522bf756fe316993e9f6262764d3ac2fbf95d1c1f8014",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/26/29279-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150226-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
