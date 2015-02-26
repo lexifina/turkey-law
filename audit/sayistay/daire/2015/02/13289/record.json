@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "32",
+  "decision_date": "2015-02-26",
+  "source_id": 13289,
+  "chamber": "7",
+  "ilam_number": "229",
+  "item_number": 24,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13289/",
+  "source_sha256": "85c4727d9fa9dd0b3f3fc713884afe172bfbae429b0d680e7aa402e7399b6bf7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
