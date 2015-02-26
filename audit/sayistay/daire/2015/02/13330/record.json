@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "32",
+  "decision_date": "2015-02-26",
+  "source_id": 13330,
+  "chamber": "7",
+  "ilam_number": "229",
+  "item_number": 42,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13330/",
+  "source_sha256": "4afe132ffe7e79adfc38710f58b5b57dfbc00940f6781f4658af297ac894afd9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
