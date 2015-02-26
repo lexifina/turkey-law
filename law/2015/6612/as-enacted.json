@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6612",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Enerji ve Tabii Kaynaklar Bakanlığı ve Gürcistan Enerji Bakanlığı Arasında Türkiye-Gürcistan Elektrik Enterkonneksiyonlarının Geliştirilmesi Hakkında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-26",
+  "gazette_issue": "29279",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150226-1.htm",
+  "source_sha256": "74c03da6427c40d7a92bb1b9dc32aba50e49fee032c394004ee7531987f62f68",
+  "text_sha256": "a0a4d0bbc5c289a3ecf4ea414117f733ce37fd1ffad0a7f08c5886001cf6763d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/26/29279-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150226-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
