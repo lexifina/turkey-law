@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-02-26T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-02-26",
+  "official_number": "43626428-001.03-4",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32576",
+  "source_id": "ozelge:32576",
+  "source_row_sha256": "9461e95bef8c2759c15ef7ce1c6e2bbfaf7924718f606a57df39605f8f048609",
+  "title": "Ceset Torbasının KDV Oranı",
+  "version_label": "as-enacted",
+  "word_count": 325
+}
