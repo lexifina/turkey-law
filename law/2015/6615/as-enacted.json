@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6615",
+  "year": 2015,
+  "title": "30 Eylül 1957 Tarihli Tehlikeli Malların Karayolu ile Uluslararası Taşımacılığına İlişkin Avrupa Anlaşmasının (ADR) Madde 1 (A), Madde 14 (1) ve Madde 14 (3) (B)'sini Tadil Eden Protokole Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-26",
+  "gazette_issue": "29279",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150226-4.htm",
+  "source_sha256": "ddf35eddccc42ae6bd5348e2fd58848bf59fd3b17e5433d99ea71d8dd1000db1",
+  "text_sha256": "60dac25cc93149833ab3d5c52c267ced878dd042164d5635e7d244e395e8529a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/26/29279-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150226-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
