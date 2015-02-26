@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6618",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Arnavutluk Cumhuriyeti Bakanlar Kurulu Arasında Diplomatik Misyon ve Konsolosluk Üyelerinin Aile Bireylerinin Kazanç Getirici Bir İşte Çalışmalarına Olanak Sağlayan Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-26",
+  "gazette_issue": "29279",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150226-7.htm",
+  "source_sha256": "a6c631f65fa53d29774734909b4aac3697d35e2e652f75d98e0d1b2b9a5563fc",
+  "text_sha256": "743c829d804817bed85295b6f09b588aca6aa6440337b892da4a1f51639dbf9c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/26/29279-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150226-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
