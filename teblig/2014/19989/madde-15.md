@@ -1,0 +1,4 @@
+Uygun çıkmayan suların takibi
+MADDE 15 – (1) Su satış yerlerinde satışa sunulan kaynak ve içme suları ile doğal mineralli sulardan üç ayda bir su numunesi alınarak kontrol izlemesi parametreleri ile arsenik, florür, bromat ve bromoform yönünden analizleri yapılır. Analiz sonuçları Yönetmelikte belirtilen parametrelere göre değerlendirilir.
+(2) Analiz sonuçları herhangi bir parametre yönünden uygunsuz çıkması halinde, tesis sahipleri aynı parti veya seri nolu suları toplatıp Müdürlüğün denetiminde imha etmekle yükümlüdür. Uygunsuz ürün başka bir ilde üretilmiş ise durum derhal o ilin Müdürlüğüne ve üretici firmaya bildirilir.
+(3) Ayrıca, uygunsuzluk durumu Kuruma da bildirilir. Kuruma bildirim sırasında suya ait analiz raporu, numune alma tutanağı, şahit numune teslimi ve üretimi yapan firmaya itiraz hakkı verilip verilmediğine ilişkin bilgi ve belgeler de gönderilir.

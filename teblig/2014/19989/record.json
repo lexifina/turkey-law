@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.19989",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AMBALAJLI SU SATIŞ YERLERİ İLE AMBALAJLI SU NAKİL ARAÇLARININ TABİ OLACAĞI USUL VE ESASLAR HAKKINDA TEBLİĞ",
+  "number": "19989",
+  "issuer": "Sağlık Bakanı",
+  "path": "teblig/2014/19989",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19989&MevzuatTertip=5",
+  "source_sha256": "8f1343f41364d66695b00ef5d4b3653e487b88c639c86a3400dfe027ccc3f972",
+  "source_bytes": 37711,
+  "published": "2014-08-20",
+  "gazette": "29094",
+  "in_force": "2015-02-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/2/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-02-26",
+      "RG-26/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-26",
+      "26/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2075,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19989-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

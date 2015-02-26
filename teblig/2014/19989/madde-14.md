@@ -1,0 +1,9 @@
+Denetim
+MADDE 14 – (1) Su satış ve depolama yerleri ile su nakil araçları toplum sağlığı merkezlerince üçer aylık aralıklarla, Müdürlükçe gerektiğinde denetlenir. Denetimlerde aşağıdaki hususlara uyulur.
+a) Ambalajlı su satış ve depolama yerinde izin işlemlerine esas belgeler, denetim tutanakları, çalışan personele ilişkin 1593 sayılı Umumi Hıfzıssıhha Kanununun 126 ve 127 nci maddeleri gereğince istenen belgeler bulundurulur. İşletmeci ilgili belgeleri istenildiğinde denetçilere ibraz etmek zorundadır.
+b) Ambalajlı su satış ve depolama yerinde birden fazla su satılması halinde, satılan her bir su için su üreticisi ile yapılan sözleşme ve suya ait üretim izin belgesi ibraz edilir.
+c) Ambalajlı su satış ve depolama yerinde damacana kaplarda satışa sunulan suyun etiket üzerinde yer alan su ismi ile kapak üzerinde bulunan shiring üzerindeki su isminin aynı olup olmadığı kontrol edilir.
+ç) Damacana kapların organoleptik incelemesi yapılır ve suyun rengini göstermeyecek şekilde eski, yıpranmış ve deforme olmuş kapların kullanımı önlenir.
+d) Ambalajlı su nakil ve satış yerlerinden üçer aylık periyotlarda Yönetmelik hükümlerine göre numune alınır ve Ek-3’te yer alan tutanak tanzim edilerek numune alma, taşıma ve nakil esasları doğrultusunda yetkili laboratuvara analize gönderilir. Alınan numunelerin uygunsuz bulunması halinde 15 inci maddede belirtilen işlemler ile Yönetmelikte belirtilen cezai işlemler uygulanır.
+e) Su satış yerinde damacana kaplar ile pet, pvc ve benzeri kaplarda su satışı yapılması halinde sular satış yeri önünde teşhir edilemez. Bu hükümler büfe, bakkal, market vb. işyerleri için de geçerlidir.
+f) Denetimlerde eksiklik tespit edilmesi halinde eksikliklerin tamamlanması için 15 gün süre verilir. Verilen süre içinde eksikliklerini tamamlamayan su satış yerleri ile su nakil araçlarına cezai işlem uygulanır.
