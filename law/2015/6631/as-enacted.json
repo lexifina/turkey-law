@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6631",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Türkmenistan Hükümeti Arasında Tarım Alanında Teknik, Bilimsel ve Ekonomik Alanda İşbirliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-26",
+  "gazette_issue": "29279",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150226-20.htm",
+  "source_sha256": "0a9869aba9d48da6876416bbe90e40b4be00f6a9b3c7e97953cf92019e4786cf",
+  "text_sha256": "4a766c16d9b5ff18c96f269898b45b37be7274115e2073fc7fab08398f3c7006",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/26/29279-20",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150226-20.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
