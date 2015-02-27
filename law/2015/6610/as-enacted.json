@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6610",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Singapur Cumhuriyeti Hükümeti Arasında Sağlık ve Tıp Bilimleri Alanlarında İşbirliğine Dair Mutabakat Zaptının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-27",
+  "gazette_issue": "29280",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-7.htm",
+  "source_sha256": "a961febfd311a581d509fbcb3052762e042a297483a217a87cbdb00d2dfa0431",
+  "text_sha256": "b827be47e13108d503feb9dbe59887ffd12a78e8b92cc2ff588a628f4af883f1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/27/29280-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
