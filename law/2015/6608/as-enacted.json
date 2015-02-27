@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6608",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Romanya Hükümeti Arasında Bükreş'teki Yunus Emre Türk Kültür Merkezi ve İstanbul'daki Dimitrie Cantemir Romen Kültür Enstitüsünün İşleyişi ve Faaliyetlerine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-27",
+  "gazette_issue": "29280",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-5.htm",
+  "source_sha256": "4b12cf50667e65b2e37cb06df90dfaa0f977d4ef1f0006fca3f669bedd0d4983",
+  "text_sha256": "6fd63279e3d7c7ff3bc942edf4f528145fa9377bf8dc6f8fe4d613eb9da239ff",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/27/29280-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
