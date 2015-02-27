@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6607",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Uluslararası Kombine Yük Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-27",
+  "gazette_issue": "29280",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-4.htm",
+  "source_sha256": "cd35305d34df09906aefca74d55c4e95c64401929674290b30b0a47c8a0df611",
+  "text_sha256": "237c9ff8ec7ec7d7217d6f93fcf49ec7ddf2354cd7ba39839e8bb374b0a516cd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/27/29280-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
