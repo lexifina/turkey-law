@@ -1,0 +1,2 @@
+Kolluk tedbirleri
+MADDE 10 – (1) Kararın 6 ncı maddesinin ikinci fıkrası gereğince adli ve idari kolluk kuvvetleri, jandarma ve mahalli idareler denetimleri sırasında sigorta poliçesinin mevcudiyetini araştırmakla yükümlüdür. Yapılan denetimlerde, bu Yönetmelik kapsamına giren sigortaları yaptırmadığı tespit edilen gerçek ve tüzel kişiler, ruhsat, lisans veya izin veren mercilere derhal bildirilir.
