@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6606",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti ile Kosova Cumhuriyeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-27",
+  "gazette_issue": "29280",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-3.htm",
+  "source_sha256": "c2d78bdca6f0f1d9631f3782b805925d23292a93e3078fcd1876b11fb6a6ff9b",
+  "text_sha256": "1b3cde7560103a61ddd4667b3c945d0ef12ef98c70fc16ad3b18a879f6b57eaa",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/27/29280-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
