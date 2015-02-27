@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6605",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Türkmenistan Hükümeti Arasında Eğitim Alanında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-27",
+  "gazette_issue": "29280",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-2.htm",
+  "source_sha256": "aba1728bec81ba64f08753bf7ed33f07dda717afadf7392f5652a19d9a01d712",
+  "text_sha256": "544c3a7d6fbe421cc3125b77432bba5032d8c5767309764b17c67c4dc959556e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/27/29280-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
