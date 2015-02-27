@@ -1,0 +1,78 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "74",
+  "decision_number": "5/225",
+  "date": "2015-02-27",
+  "title": "Kurulumuzun i-SPK. 17.4 (27.02.2015 Tarih ve 5/225 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/74",
+  "source_sha256": "5abbfd9e07277f53a1ca0549c9ba97fee4af3b1109bda614b0ed5e4c921126d3",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 74,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurulumuzun i-SPK. 17.4 (27.02.2015 tarih ve 5/225 s.k.) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2015-02-27",
+    "source_clauses": [
+      "Kurulumuzun i-SPK. 17.4 (27.02.2015 tarih ve 5/225 s.k.) sayılı İlke Kararı:",
+      "30.06.2015 tarihine kadar"
+    ],
+    "deferred_start": "none accepted; later dates are explicit end/deadline clauses",
+    "source_deadline_dates": [
+      "2015-06-30"
+    ]
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "97039d98-3aa7-489f-bb43-6baa4d9ad2f8",
+    "contentSource": "IlkeKarari",
+    "contentID": 74,
+    "tur": "İlke Kararı",
+    "title": "Kurulumuzun i-SPK. 17.4 (27.02.2015 Tarih ve 5/225 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2015-02-27T00:00:00",
+    "kurulKararTarih": "27.02.2015",
+    "kurulToplantiNo": "5/225",
+    "bultenYili": 2015,
+    "bultenNo": 5,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "86:Kurumsal Yönetim Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 86,
+        "value": "Kurumsal Yönetim Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "4:Halka Açık Ortaklıklar;55:Kurumsal Yönetim",
+    "ilgiliKonular": [
+      {
+        "key": 4,
+        "value": "Halka Açık Ortaklıklar"
+      },
+      {
+        "key": 55,
+        "value": "Kurumsal Yönetim"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/74",
+    "linkTarget": "_blank"
+  }
+}
