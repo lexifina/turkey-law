@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6604",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile İsveç Krallığı Hükümeti Arasında Çevre Teknolojileri Alanında Ticaret, Yatırım ve İşbirliğinin Geliştirilmesine İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-27",
+  "gazette_issue": "29280",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-1.htm",
+  "source_sha256": "2da681a900203e062030c7ee7957f692d3a96adf24b93e3a2e4e1ea8ec887541",
+  "text_sha256": "1bcf2f0dafaf4752c747dac0244b70fc7296befba168074afac33094083ee37c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/27/29280-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
