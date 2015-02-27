@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6609",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile İsveç Krallığı Hükümeti Arasında Askeri Alanda Eğitim, Teknik ve Bilimsel İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-02-27",
+  "gazette_issue": "29280",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-6.htm",
+  "source_sha256": "b8e37549d4595a0b3ac2fc191c37bc755285a780c85ac1914ae9391b3b492874",
+  "text_sha256": "e688cc02e40c697d279c449bb2f532b6720b93df55de4c4ae5998fdc3f72f24a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/02/27/29280-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/02/20150227-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
