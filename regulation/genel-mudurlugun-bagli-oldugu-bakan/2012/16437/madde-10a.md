@@ -1,0 +1,4 @@
+Yer değiştirme talep süreleri
+MADDE 10/A – (Ek:RG-7/3/2014-28934) (Başlığı ile birlikte değişik:RG-28/2/2015-29281)
+(1) Genel Müdürlük merkez ve taşra teşkilatında ilk defa aday memur olarak göreve başlayanlar (terör eylemleri etkisi ve nedeniyle atananlar hariç) ile diğer kamu kurum ve kuruluşlarından naklen atanan personel, atandığı birim emrinde en az 5 yıl süre ile çalışmadan yer değiştirme talebinde bulunamaz. Ancak, aynı il ile bölge ve merkez teşkilatı birimleri arasında yapılacak atamalar ile sağlık, aile birliği ve can güvenliği mazeretleri ile engellilik durumuna bağlı değiştirmelerde 5 yıl şartı aranmaz.
+(2) Mazeret durumlarına bağlı yer değiştirmeleri hariç olmak üzere, atandığı yerde bir atanma dönemi geçmeden yer değişikliği yapılmaz. Görevde yükselme ve unvan değişikliği sonucu yapılan atamalarda, atanılan birimde 2 yıl çalışmadan isteğe bağlı yer değişikliği yapılmaz.

@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.16437",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "METEOROLOJİ GENEL MÜDÜRLÜĞÜ PERSONELİNİN YER DEĞİŞTİRME SURETİYLE ATANMALARINA İLİŞKİN YÖNETMELİK",
+  "number": "16437",
+  "issuer": "Genel Müdürlüğün bağlı olduğu Bakan",
+  "issuer_slug": "genel-mudurlugun-bagli-oldugu-bakan",
+  "path": "regulation/genel-mudurlugun-bagli-oldugu-bakan/2012/16437",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16437&MevzuatTertip=5",
+  "source_sha256": "5bf222753907731c3dd20cf15b91ef9f33035409354a119d57b538b709e261da",
+  "source_bytes": 38893,
+  "published": "2012-07-31",
+  "gazette": "28370",
+  "in_force": "2015-02-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/2/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-02-28",
+      "RG-28/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-28",
+      "28/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-03-07",
+      "RG-7/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-03-07",
+      "7/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1410,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16437%20ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

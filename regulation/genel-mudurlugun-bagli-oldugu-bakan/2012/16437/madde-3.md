@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 657 sayılı Devlet Memurları Kanununun 72 nci maddesi, 8/1/1986 tarihli ve 3254 sayılı Meteoroloji Genel Müdürlüğü Teşkilat ve Görevleri Hakkında Kanunun 22 nci maddesi ile 19/4/1983 tarihli ve 83/6525 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmeliğin 28 inci maddesi hükümlerine dayanılarak hazırlanmıştır.

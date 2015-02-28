@@ -1,0 +1,9 @@
+Hizmet birimlerinin ilanı ve personelin başvuru şekilleri
+MADDE 14 – (1) İnsan Kaynakları ve Eğitim Dairesi Başkanlığı, başvuruların ne şekilde yapılacağı ile atama yapılacak hizmet birimleri ve kadro unvanlarını, her yılın en geç Mart ayı sonuna kadar Genel Müdürlüğün intranet ağında duyurur.
+(2) Hizmet bölgesinde zorunlu çalışma süresini tamamlayanlar ile isteğe bağlı olarak yer değiştirme talebinde bulunan diğer personel; bu Yönetmeliğin ekinde yer alan EK-2’de yer alan formu doldurur. Bu formda atanmak istedikleri hizmet birimlerinin belirtilmesi zorunludur.
+(3) Genel Müdürlük taşra teşkilatında Başvurular her yılın 1-20 Nisan tarihleri arasında ilgili meteoroloji müdürlüklerine yapılır. İlgili müdürlükler başvuru formlarını, kendi görüşleri ile birlikte 1-10 Mayıs tarihleri arasında Bölge Müdürlüklerine, Bölge Müdürlükleri de 15-25 Mayıs tarihleri arasında kendi görüşlerini de ekleyerek; İnsan Kaynakları ve Eğitim Dairesi Başkanlığına intikal ettirirler.
+(4) Genel Müdürlük merkez teşkilatı birimleri, atanma taleplerini bu maddenin üçüncü fıkrasında belirtilen tarihlere uygun olarak görüşleri ile birlikte İnsan Kaynakları ve Eğitim Dairesi Başkanlığına intikal ettirirler.
+(5) Yer değiştirmeye tabi personelin talepte bulunmaması, personelin yer değiştirme suretiyle atanmasına engel teşkil etmez.
+(6) İhtiyaç hasıl olması halinde bu maddede belirlenen tarihler dışında da atama yapılabilir.
+(7) (Ek:RG-7/3/2014-28934) Zorunlu çalışma yükümlülüğünü yerine getirmeyenlerin ikinci ve üçüncü hizmet bölgelerinde ilan edilen birimleri tercih etmeleri zorunludur. Tercih yapmayanların ya da yaptıkları tercihe yerleştirilemeyenlerin atamaları re’sen yapılır.
+(8) (Ek:RG-7/3/2014-28934) Bu Yönetmeliğin 7 nci maddesinin dördüncü fıkrası kapsamına girenler ile zorunlu hizmet süresini yerine getirmiş olanlardan emeklilik nedeniyle yerinde kalmak isteyenlerin talepleri 15 Mart’a kadar Genel Müdürlüğe bildirilir.

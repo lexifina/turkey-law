@@ -1,0 +1,7 @@
+Hizmet bölgeleri ve çalışma süreleri
+MADDE 7 – (1) Hizmet Bölgeleri EK-1 sayılı cetvelde gösterilmiştir. Zorunlu çalışma süresi ikinci hizmet bölgesinde dört yıl, üçüncü hizmet bölgesinde üç yıldır.
+(2) (Mülga cümle:RG-7/3/2014-28934) (…) Zorunlu çalışma yükümlülüğü ikinci veya üçüncü hizmet bölgelerinden birinde yerine getirilerek tamamlanır.
+(3) Zorunlu yer değiştirmeye tabi unvanların herhangi birinde zorunlu çalışma yükümlülüğünü yerine getiren personelin zorunlu yer değiştirmeye tabi diğer unvanlara atanması halinde tekrar zorunlu çalışma yükümlülüğüne tabi tutulmaz.
+(4) İkinci veya üçüncü hizmet bölgelerinde zorunlu çalışma süresini tamamlayan zorunlu yer değiştirmeye tabi personelin bulundukları hizmet bölgelerinde kalma veya bir alt hizmet bölgelerindeki hizmet alanlarına atanma talepleri hizmet gerekleri de dikkate alınarak Genel Müdürlükçe yerine getirilebilir.
+(5) (Değişik:RG-28/2/2015-29281) Genel Müdürlük merkez ve taşra teşkilatında, atamaların yapılacağı yılın 30 Nisan tarihi itibariyle, bulunduğu hizmet biriminde kesintisiz en fazla çalışma süresi; Bölge Müdürü ve Bölge Müdür Yardımcısı kadrolarında 5 yıl, Şube Müdürü ve Meteoroloji Müdürü kadrosunda 7 yıldır.
+(6) (Ek:RG-7/3/2014-28934) (Değişik:RG-28/2/2015-29281) Bu maddenin beşinci fıkrasında belirtilen süreyi doldurmuş olanlardan; hizmet gereği, eleman temininde güçlük çekilmesi veya diğer birimlerde uygun kadro bulunmaması hallerinde bulundukları hizmet birimlerinde görevlerine devam ettirilebilir.
