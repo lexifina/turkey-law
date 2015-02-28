@@ -1,0 +1,3 @@
+Ek rapor alma yükümlülüğü
+GEÇİCİ MADDE 2 – (Ek:RG-21/9/2013-28772)
+(1) MTHS hizmeti vermek amacıyla bu maddenin yürürlüğe girdiği tarihten önce teknik rapor almak için Türkiye Bilimsel ve Teknolojik Araştırma Kurumuna başvuranların talepleri, Yönetmeliğin bu maddenin yürürlüğe girmeden önceki hükümlerine göre sonuçlandırılır. Bu maddeye göre teknik rapor alan MTHS’ler, belirlenen kriterlerin sağlandığını gösterir ek raporu, teknik raporun alındığı tarihi takip eden bir yıl içinde almak ve Bakanlığa vermekle yükümlüdür. (Ek cümle:RG-28/2/2015-29281) Haklı gerekçelerin varlığı halinde, MTHS’lere talepleri üzerine Bakanlıkça birer yılı geçmemek üzere en çok iki kere ek süre verilebilir.

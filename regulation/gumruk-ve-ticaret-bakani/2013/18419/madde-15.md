@@ -1,0 +1,4 @@
+Bakanlık izni
+MADDE 15 – (1) Özel hukuk tüzel kişileri, MTHS olma talebini içeren dilekçeyi 14 üncü madde uyarınca aldığı teknik raporla birlikte Bakanlığa ibraz etmek suretiyle izin talebinde bulunurlar. Ancak MTHS hizmeti vermek için izin başvurusunda bulunan sermaye şirketlerinin, Kanun ve bu Yönetmelik hükümlerine uygun olarak kendi bilgilerini özgüleyecekleri internet sitesine sahip olmaları gerekir.
+(2) Bakanlık, izin taleplerini bir ay içinde sonuçlandırır. İzin şartlarını eksiksiz olarak yerine getiren MTHS’ye Bakanlıkça faaliyet izni verilir.
+(3) Bakanlık, inceleme sonucunda izin şartlarından bir veya birkaçının eksikliğini veya yerine getirilmediğini tespit ederse bu eksikliklerin giderilmesi için talep sahibine, bir ayı geçmemek üzere süre verebilir. Eksikliklerin bu süre içinde giderilmesi halinde ikinci fıkra uyarınca faaliyet izni verilir.

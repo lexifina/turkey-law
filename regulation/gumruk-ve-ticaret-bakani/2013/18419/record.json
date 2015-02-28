@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.18419",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SERMAYE ŞİRKETLERİNİN AÇACAKLARI İNTERNET SİTELERİNE DAİR YÖNETMELİK",
+  "number": "18419",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "issuer_slug": "gumruk-ve-ticaret-bakani",
+  "path": "regulation/gumruk-ve-ticaret-bakani/2013/18419",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18419&MevzuatTertip=5",
+  "source_sha256": "86ffa338a0e8c1696e15e232f48ad239c4f2cf29eeef6fd22a292e0045ffc449",
+  "source_bytes": 64131,
+  "published": "2013-05-31",
+  "gazette": "28663",
+  "in_force": "2015-02-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/2/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-02-28",
+      "RG-28/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-28",
+      "28/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-09-21",
+      "RG-21/9/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-09-21",
+      "21/9/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/7/2013 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3344,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

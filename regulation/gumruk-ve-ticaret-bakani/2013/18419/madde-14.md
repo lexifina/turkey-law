@@ -1,0 +1,4 @@
+Teknik rapor
+MADDE 14 – (1) (Mülga ibare:RG-28/2/2015-29281) (…) MTHS’ler internet sitelerinin özgülenmiş kısımlarının bu Yönetmelik ve Kanunun 1524 üncü madde hükümlerine uygunluğunu, (Değişik ibare:RG-21/9/2013-28772) Türkiye Bilimsel ve Teknolojik Araştırma Kurumuna tespit ettirmek ve söz konusu kurum tarafından düzenlenen teknik raporu Bakanlığa vermekle yükümlüdür. MTHS hizmeti verecek sermaye şirketleri ayrıca kendi bilgilerini özgüledikleri internet sitelerinin uygunluğunu da bu raporda tespit ettirir.
+(2) (Değişik:RG-28/2/2015-29281) Düzenlendiği tarih dikkate alınarak teknik rapor, MTHS’lerce üç yılda bir yenilenir ve Bakanlığa verilir. Haklı gerekçelerin varlığı halinde, MTHS’lere talepleri üzerine Bakanlıkça toplamı bir yılı geçmemek üzere ek süre verilebilir.
+(3) Teknik raporda, (Mülga ibare:RG-28/2/2015-29281) (…) MTHS’lerin 8, 10 ve 11 inci maddelerde belirtilen hususlara uygunluğu tespit edilir.

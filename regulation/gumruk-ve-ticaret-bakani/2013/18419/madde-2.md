@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, 6102 sayılı Kanunun 397 nci maddesi uyarınca Bakanlar Kurulu tarafından belirlenen denetime tabi sermaye şirketleri tarafından açılacak internet sitelerinde ilan edilecek ve erişime açık tutulacak asgari içeriğe, denetime tabi sermaye şirketleri ile Merkezi Veri Tabanı Hizmet Sağlayıcıların yapacakları işlemlere ve bu işlemlerden kaynaklanan yükümlülüklere ilişkin usul ve esasları kapsamaktadır.

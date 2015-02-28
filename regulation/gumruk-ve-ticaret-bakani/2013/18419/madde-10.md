@@ -1,0 +1,7 @@
+Şirketlerin yükümlülükleri
+MADDE 10 – (1) (Değişik ibare:RG-21/9/2013-28772) MTHS’lerden destek hizmeti alan şirketler, Kanunun 1524 üncü maddesi ve bu Yönetmelik hükümleri uyarınca internet sitesinin özgülenmiş kısmında bulunması öngörülen içeriği Bakanlık tarafından bir format belirlenmiş ise o formatta, belirlenmemişse elektronik ortamda MTHS’ye bildirir.
+(2) Şirketler tarafından internet sitesinin bilgi toplumu hizmetlerine ayrılmış bölümünün şirkete ait internet sitesi üzerinden veya MTHS’ler üzerinden arama motorları tarafından kolay bulunabilmesi için, ana sayfada "bilgi toplumu hizmetleri (Mülga ibare:RG-21/9/2013-28772) (…)" şeklinde bir ibareye yer verilir.
+(3) Sahip oldukları internet sitesi üzerinde bu bilgileri sağlayan şirketler, internet sitesinde yer alan içeriğin sitede yayımlanması, değiştirilmesi ve yenilenmesi gibi işlemlerde güvenli elektronik imza ve zaman damgası kullanırlar.
+(4) (Değişik:RG-21/9/2013-28772) Sahip oldukları internet sitesi üzerinde bu bilgileri sağlayan şirketler, ilgili bilgilere erişim için internet sitesi içinde “http://firmaalanadi/bilgitoplumuhizmetleri” adresinden ya da ikinci fıkra doğrultusunda doğrudan MTHS'ye yönlenmeyi sağlarlar.
+(5) Şirketler, sahip oldukları internet sitelerinde erişime açık bulundurdukları bilgi ve belgeleri 12 nci maddeye uygun olarak elektronik ortamda arşivlerler.
+(6) Şirketlerin sahip oldukları internet siteleri, 11 inci maddede öngörülen teknik hususlar ve güvenlik kriterlerine uygun olarak işletilir.
