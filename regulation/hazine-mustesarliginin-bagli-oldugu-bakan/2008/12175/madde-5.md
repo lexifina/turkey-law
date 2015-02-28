@@ -1,0 +1,9 @@
+Merkezin görev ve faaliyetleri
+MADDE 5 – (1) Merkez, sigortacılıkla ilgili özellik taşıyan mesleki nitelikteki konular için gerekli sınavların tarafsız bir şekilde yapılması; toplumda risk ve sigorta bilincinin oluşturulması; sigorta sektörüne yetişmiş eleman istihdamına katkıda bulunulması; sigortacılık konusunda mevcut eğitim programlarının geliştirilmesine ve etkinliğine katkı sağlanması, yurt içinde, yurt dışında ya da uluslararası anlaşmalar çerçevesindeki eğitim taleplerinin eşgüdümünün sağlanması, sektörün gelişmesine katkı sağlayacak inceleme ve araştırmalarda bulunulması, elde edilecek bilgilerin ilgililerin paylaşımına sunulması ile bu konularda gerekli organizasyonların yapılmasını temin eder.
+(2) Merkez aşağıdaki faaliyetleri yerine getirir:
+a) Sigortacılık alanındaki eğitim ihtiyacının belirlenmesine yönelik araştırmalar yapmak ve yaptırmak,
+b) Sigortacılık alanındaki uygulamalara ve gelişmelere ilişkin eğitim programları hazırlamak, ilgili mevzuatta öngörülen ile yurt içi ve dışından gelen eğitim talepleri doğrultusunda yerinde veya bilgisayar destekli uzaktan eğitim faaliyetlerinin eşgüdümünü sağlamak,
+c) Merkez tarafından yapılacak sınavların ilgili mevzuatlarda belirlenmiş olan sınav düzenleme kurullarınca alınacak kararlar uyarınca yapılmasına yönelik gerekli hazırlıkları yapmak, sınav uygulamalarında birlikteliği sağlamak ve sınavlara ilişkin Müsteşarlıkça yetki verilen diğer iş ve işlemleri yürütmek,
+ç) Sınavların tarafsız olarak uygulanması ve değerlendirilmesine ilişkin olarak gerekli tedbirleri almak,
+d) Türkiye’de sigortacılık alanında yapılan eğitim faaliyetlerine ilişkin olarak yurt içi ve yurt dışındaki ilgili kuruluşlarla gerektiğinde işbirliği tesis etmek ve ilişkiler kurmak, teknik bilgi almak, seminer, konferans ve eğitim programları düzenlemek, kitap, dergi ve broşürler yayımlamak.
+(3) Merkez, eğitim faaliyetlerini dışarıdan hizmet satın alımı yoluyla yürütebilir.

@@ -1,0 +1,6 @@
+Merkez müdürü ve diğer personel
+MADDE 8 – (1) Merkezde, Yönetim Komitesince Merkezin amaç ve görevlerinin yerine getirilmesi ve sekretarya hizmetlerinin yürütülmesi amacıyla bir Merkez müdürü ve iki müdür yardımcısı ile yeterli sayıda personel çalıştırılır.
+(2) Merkez müdürü Yönetim Komitesi tarafından atanır. Atama yapıldıktan sonra durum en geç on iş günü içinde Müsteşarlığa yazılı olarak bildirilir.
+(3) Merkez müdürünün, en az yüksek lisans seviyesinde eğitim görmüş olması, yedi yıldan az olmamak üzere sigortacılık, iktisat, işletme, muhasabe, hukuk, maliye, matematik, istatistik, aktüerya veya mühendislik alanlarının en az birinde deneyime sahip olması, Kanunun 3 üncü maddesinin ikinci fıkrasının (a) bendinin (4) numaralı alt bendinde yer alan suçlardan dolayı hüküm giymemiş, müflis veya konkordato ilan etmiş olmaması gerekir.
+(4) Merkez müdürü, Merkezin hesaplarının ve kayıtlarının düzenli olarak tutulmasından, Merkezin işlerinin bu Yönetmelikte amaçlanan hususlara ve Yönetim Komitesi kararlarına uygun şekilde yürütülmesinden sorumludur.
+(5) Eğitim ve sınav faaliyetleri ile bilgi teknolojilerinden sorumlu olmak üzere Yönetim Komitesi tarafından atanacak Merkez müdür yardımcılarında lisans düzeyinde eğitim görmüş olma ve en az iki yıllık sigortacılık deneyimi ve kendi alanında en az beş yıl tecrübe şartı aranır.
