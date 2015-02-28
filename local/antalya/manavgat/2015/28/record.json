@@ -1,0 +1,29 @@
+{
+  "number": "28",
+  "number_as_published": "MEC-2015-2-",
+  "year": 2015,
+  "month": 2,
+  "title": "MEC-2015-2- 28 - Evrenseki (Seki) Mah.251 ada 5 par.189,00 m2.lik belediye hissesinin satışı için yetki verilmesi.",
+  "decision_date": null,
+  "index_date": "2015-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2015",
+  "source": "https://www.manavgat.bel.tr/meclis-kararlari/2015-yili-meclis-kararlari",
+  "official_page": "https://www.manavgat.bel.tr/meclis-kararlari/2015-yili-meclis-kararlari",
+  "official_document": "https://d10fbf87uv1xiy.cloudfront.net/655/kicerik/30439/191774.pdf",
+  "source_sha256": "41afca5c0933137678065cec98abd44eba7b262dd6c460f0fffdb939ef9e544d",
+  "issuer": "Manavgat Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2015-02-28",
+  "in_force_basis": "The official listing gives only the month of this decision (Şubat 2015); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "2015 Yılı Meclis Kararları",
+  "record_scope": "one council decision (official code MEC-year-month-number)"
+}
