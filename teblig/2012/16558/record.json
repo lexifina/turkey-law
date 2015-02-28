@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.16558",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TİCARET ŞİRKETLERİNDE ANONİM ŞİRKET GENEL KURULLARI DIŞINDA ELEKTRONİK ORTAMDA YAPILACAK KURULLAR HAKKINDA TEBLİĞ",
+  "number": "16558",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2012/16558",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16558&MevzuatTertip=5",
+  "source_sha256": "0bb6118abf576985803e1a028572a89bdc5299bf56677a3e8c5b02c01b461ef6",
+  "source_bytes": 39596,
+  "published": "2012-08-29",
+  "gazette": "28396",
+  "in_force": "2015-02-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/2/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-02-28",
+      "RG-28/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-28",
+      "28/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/10/2012 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1724,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

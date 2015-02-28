@@ -1,0 +1,5 @@
+Elektronik ortamda katılım isteğinin bildirimi
+MADDE 9 – (1) Bu Tebliğ kapsamındaki toplantılara elektronik ortamda katılmaya imkan tanıyan şirketlerdeki toplantı çağrıları ilgili düzenlemeleri uyarınca yapılır. Çağrı ile birlikte elektronik ortamda toplantıya katılma ve oy kullanmaya ilişkin bilgi ve belgeler şirketin internet sitesinde erişime hazır bulundurulur.
+(2) Toplantıya katılma hakkı bulunanlar, şirketin internet sitesinde birinci fıkra uyarınca hazır bulundurulacak elektronik ortamda toplantıya katılma talepnamesini, toplantı tarihinden bir gün öncesine kadar güvenli elektronik imza ile imzalayarak şirketin KEP hesabına iletirler.
+(3) Şirket, iletilen bu talepleri aldıktan sonra talepte bulunan kişinin toplantı anında Elektronik Toplantı Sistemine erişmesi için gerekli tanımlamaları yapar ve hak sahibinin KEP hesabına bu durumu bildirir.
+(4) Şirketler, yönetim kurulu veya müdürler kurulu toplantılarına ilişkin olarak bu maddenin diğer fıkralarında belirtilen usuli işlemlerden farklı esaslar da belirleyebilirler. Bunun için şirket yönetim kurulu veya müdürler kurulunun bu yönde karar alması zorunludur.

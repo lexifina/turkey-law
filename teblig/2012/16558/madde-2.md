@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ; sermaye şirketlerinde yönetim kurulu ve müdürler kurulu toplantılarına, kollektif, komandit, limited ve sermayesi paylara bölünmüş komandit şirketlerin ortaklar kurulu veya genel kurul toplantılarına, elektronik ortamda katılma, öneride bulunma, görüş açıklama, oy kullanma ve Elektronik Toplantı Sisteminin işleyişine, denetimine ilişkin usul ve esaslar ile şirket sözleşmesi hükmünün örneğini içerir.

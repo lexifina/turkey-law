@@ -1,0 +1,2 @@
+Sermaye şirketlerinde yönetim kurulu ve müdürler kurulu toplantılarına elektronik ortamda katılım
+MADDE 5 – (1) Sermaye şirketlerinde yönetim kurulu ve müdürler kurulu toplantılarına isteyen hak sahipleri Elektronik Toplantı Sistemi aracılığıyla elektronik ortamda katılabilirler. Üyelerden herhangi birinin toplantıya fiziken katılacağını beyan etmemesi halinde toplantı tamamen elektronik ortamda da yapılabilir.
