@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/276",
+  "list_number": "276",
+  "decision_date": "2015-03-02",
+  "title": "7 Haziran 2015 Pazar günü yapılacak olan 25. Dönem Milletvekili Genel Seçiminde siyasi partilerin aday listelerini vermelerinde eklenmesi gereken belgelere ilişkin Yüksek Seçim Kurulunun 2015/276 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2220/2015-276.pdf",
+  "source_sha256": "edb3c7c45ee962702e953e17c593e0acbc11c497f0c81d0207bea200f59d378d",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-03-02",
+  "law_text_complete": false
+}
