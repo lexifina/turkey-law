@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/272",
+  "list_number": "272",
+  "decision_date": "2015-03-02",
+  "title": "4721 sayılı Türk Medeni Kanunu'nun 429. maddesine göre yasal danışman olarak atama yapılan kişilerin oy kullanmalarına engel bulunmadığına ve kısıtlama kararı kesinleşenlerin mahkeme ilamlarının 9 Mart 2015 tarihine kadar işlenmesi gerektiğine ilişkin Yüksek Seçim Kurulunun 2015/272 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2222/2015-272.pdf",
+  "source_sha256": "00b5012b6cbf680b11e68309b5c90b399d9c5616a416ca19713518f500fab162",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-03-02",
+  "law_text_complete": false
+}
