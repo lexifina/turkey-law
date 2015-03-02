@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-03-02",
+  "issue": "29283",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Işık Üniversitesi Temel ve Uygulamalı Psikoloji Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/03/20150302-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/03/20150302.htm",
+  "index_sha256": "c7c749f9e10e755315e463fbceba68c0009d56debfd7bd732cf57e4d5233cb3c",
+  "index_header": "2 Mart 2015 ... 29283 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/03/20150302.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
