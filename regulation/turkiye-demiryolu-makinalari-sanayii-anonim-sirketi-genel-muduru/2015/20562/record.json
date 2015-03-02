@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20562",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE DEMİRYOLU MAKİNALARI SANAYİİ ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ AVANS VERME İŞLEMLERİ HAKKINDA YÖNETMELİK",
+  "number": "20562",
+  "issuer": "Türkiye Demiryolu Makinaları Sanayii Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "turkiye-demiryolu-makinalari-sanayii-anonim-sirketi-genel-muduru",
+  "path": "regulation/turkiye-demiryolu-makinalari-sanayii-anonim-sirketi-genel-muduru/2015/20562",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20562&MevzuatTertip=5",
+  "source_sha256": "86812c3151b2521b0cc3fb80f94e22b5a8adf36083ce679acf046dcc148352de",
+  "source_bytes": 13883,
+  "published": "2015-03-02",
+  "gazette": "29283",
+  "in_force": "2015-03-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.03.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 637,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
