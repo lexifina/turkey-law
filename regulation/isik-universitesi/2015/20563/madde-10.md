@@ -1,0 +1,2 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdürün başkanlığında Müdür Yardımcısı ve birim başkanlarından oluşur. Yönetim Kurulu akademik bir organ olup, merkezin eğitim, öğretim, bilimsel araştırma ve yayın faaliyetleri ile bu faaliyetlerle ilgili esasları kararlaştırır. Yönetim Kurulu yılda en az dört kez ve gerektiğinde Müdürün çağrısı üzerine salt çoğunlukla toplanır. Yönetim Kurulunun kararları oy çokluğu ile alınır.

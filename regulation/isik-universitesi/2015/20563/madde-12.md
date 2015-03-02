@@ -1,0 +1,2 @@
+Merkez birimleri
+MADDE 12 – (1) Merkez bünyesinde Merkezin amaç ve faaliyet alanları doğrultusunda çalışmalarda bulunmak üzere birimler oluşturulabilir. Birimler Yönetim Kurulu tarafından oluşturulur. Birim başkanları Üniversite Yönetim Kurulunun önerisi üzerine Rektör tarafından üniversitenin ilgili birimlerinde görev yapan öğretim elemanları arasından üç yıl için görevlendirilir. Birim başkanlarının görev, yetki ve sorumlulukları Yönetim Kurulunca belirlenir.
