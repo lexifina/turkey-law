@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5502",
+  "decision_date": "2015-03-03",
+  "title": "BOTAŞ İletim Şebekesi İşleyiş Düzenlemelerine İlişkin Esaslar'ın Değiştirilmesi hakkında Karar",
+  "resmi_gazete_date": "2015-03-13",
+  "resmi_gazete_number": "29294",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=s87ZrNsF5Ag=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=s87ZrNsF5Ag=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+ouMwMvsGjE="
+  ],
+  "source_sha256": "abf51bbdcffc3bed777504b68bb1f9abfdc2c95edd6808aba951f7c4ab2b895a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-03-03",
+  "law_text_complete": false
+}
