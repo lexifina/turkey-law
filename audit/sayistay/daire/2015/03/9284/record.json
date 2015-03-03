@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10431",
+  "decision_date": "2015-03-03",
+  "source_id": 9284,
+  "chamber": "1",
+  "ilam_number": "355",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9284/",
+  "source_sha256": "273b5e68e6253333459f9ddf0eabcc30f80027eb9fc1a6fdd6c869e1fbadbf37",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
