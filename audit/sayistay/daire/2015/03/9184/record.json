@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10435",
+  "decision_date": "2015-03-03",
+  "source_id": 9184,
+  "chamber": "1",
+  "ilam_number": "350",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9184/",
+  "source_sha256": "3dc48cff85914d4e8b8ec22f7d86b46cd213e876d7fa818ac1086499da3cfe5e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
