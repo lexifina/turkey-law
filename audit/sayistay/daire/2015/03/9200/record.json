@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10434",
+  "decision_date": "2015-03-03",
+  "source_id": 9200,
+  "chamber": "1",
+  "ilam_number": "343",
+  "item_number": 1,
+  "public_body_type": "Diğer",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9200/",
+  "source_sha256": "11e6d081ccb838564ed1be8e236c4a4c047d461376d2ea1105c48d2776e1c81e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
