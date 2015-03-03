@@ -1,0 +1,9 @@
+Asıl ilamın 28/b maddesi ile asıl raporun sonuç bölümünde sorgunun (b) bendine ilişkin … TL’lik tutarın hangi gerekçelerle … TL’ye düşürüldüğüne ilişkin açıklama ve kamu zararı tablosu yapılmadığından; savunmalar uyarınca konunun tekrar ele alınarak incelenmesi ve sonucunun ek raporla Dairemize bildirilmesi amacıyla … TL’nin hüküm dışı bırakılarak denetçisine muhtıra verilmesine karar verilmişti.
+
+Bu defa, ek rapor ile yapılan açıklamalara göre; 2914 sayılı Yükseköğretim Personel Kanununun “Eğitim Öğretim Ödeneği” başlıklı ek 1 inci maddesinde; “4.11.1981 tarih ve 2547 sayılı Kanunun 33 üncü maddesi ve 39 uncu maddesinin ikinci fıkrası uyarınca yurtdışına gönderilenler ile anılan Kanunun 38 inci maddesine göre diğer kurum ve kuruluşlarda görevlendirilenlerden yükseköğretim kurumlarındaki kadro görevini yapmayanlar hariç olmak üzere Yükseköğretim Kurumlarında görevli öğretim elemanlarına en yüksek Devlet memuru aylığı (ek gösterge dahil) brüt tutarının on ikide biri, her ay aylıklarla birlikte Eğitim Öğretim Ödeneği olarak ödenir. Bu ödenek damga vergisi hariç herhangi bir vergi ve kesintiye tabi tutulmaz.” hükmü yer almaktadır.
+
+Buna göre, 2547 sayılı Kanunun 33 üncü maddesi ve 39 uncu maddesinin ikinci fıkrası uyarınca yurtdışına gönderilenlere eğitim öğretim ödeneği ödenmeyecektir.
+
+Yapılan incelemede, …’in 31.12.2010-31.12.2011 yurtdışında görevlendirildiği, işyerinden 04.03.2011-04.01.2012 tarihleri arasında 10 ay için ayrıldığı, eğitim öğretim ödeneğinin ise 9 ay için kesildiği anlaşılmıştır.
+
+Bu itibarla, … TL’ye ilişkin olarak hüküm dışı kaydının kaldırılarak … TL için ilişilecek bir husus bulunmadığına, yurtdışında görevlendirilen …’e eğitim öğretim ödeneği ödenmesi sonucu oluşan … TL’lik kamu zararının Harcama Yetkilisi .… ile Gerçekleştirme Görevlisi .…’a müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizleriyle birlikte ödettirilmesine oybirliğiyle,
