@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10430",
+  "decision_date": "2015-03-03",
+  "source_id": 9270,
+  "chamber": "1",
+  "ilam_number": "167",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9270/",
+  "source_sha256": "c1865c41b9a41e77e74ecb651006114fa815b48e373d61447d729d64844820ee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
