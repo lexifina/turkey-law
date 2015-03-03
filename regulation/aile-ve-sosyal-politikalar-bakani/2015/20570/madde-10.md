@@ -1,0 +1,7 @@
+Sosyal ve ekonomik destek hizmetinden faydalanma
+MADDE 10 – (1) Bakanlıkça yapılacak ekonomik destekler karşılıksızdır. Ekonomik desteklerden, bu Yönetmelikte belirtilen esaslar çerçevesinde, bakım tedbiri kararına bakılmaksızın öncelikle muhtaç çocuklar faydalanır. Sosyal ve ekonomik destek hizmetinden yararlanacakların kapsamı ile destek tutarının belirlenmesinde, kişilerin her türlü kaynaklardan elde ettikleri yardımlar ve gelirleri dikkate alınır.
+(2) Ekonomik destek verilmesi uygun görülenlere onayda belirtilen aydan geçerli olmak üzere ekonomik yardım yapılır.
+(3) İtiraz edilen veya tereddüde düşülen vakalar hakkında, bir idareci ve asgari iki meslek elemanından oluşacak bir komisyon tarafından değerlendirme yapılarak karar verilir. İtirazlarda, incelemeyi yapan meslek elemanı dışında bir veya birden fazla meslek elemanınca gerekirse yeniden sosyal inceleme yapılır ve komisyonca karar verilir.
+(4) Sosyal ve ekonomik destek yapılması uygun bulunmayanlara her türlü elektronik bilgi iletişim aracı ortamında veya resmi yazı ile bilgi verilir.
+(5) Reddedilen ve yardımı sonlandırılan vakalarda müracaatçı, şartlarının değiştiğine ilişkin yeni bilgi ve belge ibraz etmeden hakkında üç aydan önce tekrar sosyal inceleme yapılmaz. Müracaatçının talebine bu maddenin dördüncü fıkrası kapsamında bilgi verilir.
+(6) Yardımların yapılmasında ve muhtaçlık tespitinde yardımlardan daha önce faydalanmış olmak bir hak doğurmaz.

@@ -1,0 +1,3 @@
+Süreli ekonomik desteğin kesilmesi
+MADDE 16 – (1) Süreli ekonomik destek ödemesi yapılan çocuğun ve ailenin durumu takip edilir ve muhtaçlık durumu ile yardımın amaca uygun kullanıp kullanılmadığı hususlarında ayrıntılı bilgi ve belge toplanır. Yardım yapılan kişilerin yardım almadan hayatını sürdürebileceği maddi şartlara sahip olduğunun veya yardımın amacı dışında kullanıldığının tespiti halinde izleyen aybaşından itibaren ekonomik destek ödemesi sonlandırılır. Çocuk durumuna uygun hizmet modelinden faydalandırılır.
+(2) Süreli ekonomik destek almakta iken süresi dolmadan sonlandırılması gereken yardımlar, yetkili makamın onayı ile iptal edilir.
