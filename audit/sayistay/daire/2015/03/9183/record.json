@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10433",
+  "decision_date": "2015-03-03",
+  "source_id": 9183,
+  "chamber": "1",
+  "ilam_number": "349",
+  "item_number": 1,
+  "public_body_type": "Diğer",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9183/",
+  "source_sha256": "8516689ba860235ae240ae913f15131b145209ddcc8c0b486e935b217b2ce0bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
