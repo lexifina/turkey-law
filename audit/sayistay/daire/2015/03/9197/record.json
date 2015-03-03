@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10437",
+  "decision_date": "2015-03-03",
+  "source_id": 9197,
+  "chamber": "1",
+  "ilam_number": "344",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9197/",
+  "source_sha256": "4906892b3c3bb1f7c1b7979c239bdd85d3d95d9ffb37f02b92f7d7454c6beb0c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
