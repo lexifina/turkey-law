@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "audit",
+  "document_type": "board-decision",
+  "number": "5507",
+  "decision_date": "2015-03-03",
+  "title": "Enerji Piyasasında Faaliyet Gösteren Gerçek ve Tüzel Kişilerin Faaliyetlerini Bağımsız Denetim Kuruluşlarına Denetletmesi Hakkında <p style=\"color:red\"><b>(Son Hali)</b> </p>",
+  "resmi_gazete_date": "2015-03-18",
+  "resmi_gazete_number": "29299",
+  "categories": [
+    "Denetim Dairesi Kurul Kararları Bağımsız Denetim Kuruluşları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/nkw5+3omtM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/nkw5+3omtM="
+  ],
+  "source_sha256": "d753712829e84d2b147081a3919183b5bc2d511732d0cb89565b1457fc692060",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-136/kurul-kararlari",
+  "official_list_leaf": 12242,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2015-03-03",
+  "law_text_complete": true
+}
