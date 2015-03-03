@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10437",
+  "decision_date": "2015-03-03",
+  "source_id": 17079,
+  "chamber": "1",
+  "ilam_number": "344",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17079/",
+  "source_sha256": "24fbc8db65461b5c7c4b666ff8b460c69c918de861cd8f300aa63560890e349d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
