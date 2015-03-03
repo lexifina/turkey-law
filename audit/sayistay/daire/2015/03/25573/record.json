@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35296",
+  "decision_date": "2015-03-03",
+  "source_id": 25573,
+  "chamber": "2",
+  "ilam_number": "176",
+  "item_number": 7,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25573/",
+  "source_sha256": "fdcaeb7fc9fb36cc4d3164334309af5fb618d3b6e16d620544dfc5e42b15b59c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
