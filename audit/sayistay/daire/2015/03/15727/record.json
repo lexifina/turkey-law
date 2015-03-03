@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10436",
+  "decision_date": "2015-03-03",
+  "source_id": 15727,
+  "chamber": "1",
+  "ilam_number": "348",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15727/",
+  "source_sha256": "42f8912c2886fcd717baa60de4dcc82f27dcaa0481bc3dd6ecf6ad5e1b4570c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
