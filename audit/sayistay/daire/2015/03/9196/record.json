@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10436",
+  "decision_date": "2015-03-03",
+  "source_id": 9196,
+  "chamber": "1",
+  "ilam_number": "348",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9196/",
+  "source_sha256": "920f9c8785b0772e48f435598324d96ddd8396789de217752c4ff77c6fa66dce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
