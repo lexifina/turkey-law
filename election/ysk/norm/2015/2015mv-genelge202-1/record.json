@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2015/2015mv-genelge202-1",
+  "list_number": "296",
+  "genelge_number": "202/I\t",
+  "decision_date": "2015-03-04",
+  "title": "Yurt Dışı İlçe Seçim Kurulunun, Yurt Dışı Sandık Kurullarının, Yurt Dışı Temsilciliklerde Oyları Saklamak ve Yurt Dışı İlçe Seçim Kuruluna Ulaştırmakla Görevli Sandık Kurulları ile Yurt Dışı Oyların Sayım ve Dökümü ile Görevli Sandık Kurullarının Görev ve Yetkileri ile Yurt Dışında Oy Verme İşlemleri hakkında 202/I sayılı genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1860/2015MV-Genelge202-1.pdf",
+  "source_sha256": "81a44bb161a33dbad9cc3bd38a0746e565842bcee6372cea36239da978ca7efc",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 17,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-03-04",
+  "law_text_complete": false
+}
