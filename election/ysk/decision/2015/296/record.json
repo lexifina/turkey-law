@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/296",
+  "list_number": "296",
+  "decision_date": "2015-03-04",
+  "title": "25. Dönem Milletvekili Genel Seçiminde \"Yurt Dışı İlçe Seçim Kurulunun, Yurt Dışı Sandık Kurullarının, Yurt Dışı Temsilciliklerde Oyları Saklamak ve Yurt Dışı İlçe Seçim Kuruluna Ulaştırmakla Görevli Sandık Kurulları ile Yurt Dışı Oyların Sayım ve Dökümü ile Görevli Sandık Kurullarının Görev ve Yetkileri ile Yurt Dışında Oy Verme İşlemleri\" hakkındaki 202/I sayılı genelgeye ilişkin Yüksek Seçim Kurulunun 2015/296 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2202/2015-296.pdf",
+  "source_sha256": "fb3631cbd1bb0a952ead7679c4f194c2947a325a3857f6bedb339e833b5a5b1f",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 18,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-03-04",
+  "law_text_complete": false
+}
