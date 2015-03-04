@@ -1,0 +1,29 @@
+{
+  "number": "139",
+  "date": "2015-03-04",
+  "source_id": 1857,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1857/2015MV-Genelge139.pdf",
+  "source_sha256": "988fad23ae36b1911284825fe9d0a9301528b941d16061f8ead1c093da44f7b8",
+  "history": "as-enacted",
+  "words": 2475,
+  "in_force_basis": "Official adopted general rule, PDF p. 5: Bu Genelge Yüksek Seçim Kurulunun 04/03/2015 tarih ve 2015/295 sayılı kararı ile kabul edilmiştir",
+  "catalogue_date": "2015-03-04",
+  "source_images": 0,
+  "decorative_images": 0,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "attached_decision_numbers": [
+    "295"
+  ],
+  "adoption_dates": [],
+  "approval_dates": [
+    {
+      "page": 5,
+      "date": "2015-03-04",
+      "quote": "Bu Genelge Yüksek Seçim Kurulunun 04/03/2015 tarih ve 2015/295 sayılı kararı ile kabul edilmiştir"
+    }
+  ],
+  "explicit_effective_dates": [],
+  "date_kind": "rule-adoption"
+}
