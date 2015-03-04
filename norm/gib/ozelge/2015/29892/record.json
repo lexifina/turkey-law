@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV. 28-348",
+  "source_id": 29892,
+  "date": "2015-03-04",
+  "title": "6306 sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun kapsamındaki binaların yıkılıp yeniden yapılması için imzalanan kat karşığı sözleşmesine istinaden inşaatı yapımı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/29892",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "612217cac2b9138d972a4e25c0bba0c268f57ef01c540339808bb29e728e4c5e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
