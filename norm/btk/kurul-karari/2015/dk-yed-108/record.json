@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2015/DK-YED/108",
+  "date": "2015-03-04",
+  "title": "Tahsisli Olmayan Numara Kullanımı",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2015-03-04",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=110",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/b77146d6-f2fc-4803-8560-466d55a28e0c.pdf",
+  "source_sha256": "be926febb990456b2b9b08b83020ba2b53f445032fc1fb1ed9b6e89f3d95f433",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2015-03-04",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 04.03.2015; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
