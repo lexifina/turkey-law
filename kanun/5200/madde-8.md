@@ -1,6 +1,6 @@
 Yönetim kurulu; görev, yetki ve sorumlulukları
 Madde 8- Yönetim kurulu, genel kurulun dört yıl için kendi üyeleri arasından seçtiği en az beş, en çok yedi üyeden oluşur. Ayrıca aynı sayıda yedek üye seçilir.
-Üst üste iki dönem yönetim kurulu başkanlığı görevinde bulunanlar, aradan bir seçim dönemi geçmedikçe aynı göreve seçilemezler.
+(İptal ikinci fıkra: Anayasa Mahkemesi’nin 22/10/2014 tarihli ve E.: 2014/154, K.: 2014/159 sayılı Kararı ile.)
 Yönetim kurulunun görev ve yetkileri şunlardır:
 a) Üye kabul etmek.
 b) Genel kurul gündemini tespit etmek, faaliyet programlarını hazırlamak ve genel kurulu toplantıya çağırmak.
