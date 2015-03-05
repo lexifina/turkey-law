@@ -1,0 +1,3 @@
+ Yurt dışı geçici görev yolluğu
+
+2547 Sayılı Yükseköğretim Kanununun 39. Maddesi Kapsamında Yurtdışına Gönderilecek Öğretim Üyelerine Yükseköğretim Kurulu Tarafından Sağlanacak Desteklere İlişkin Usul ve Esaslar uyarınca yurt dışında görevlendirilen İktisadi ve İdari Bilimler Fakültesi öğretim üyesi …..’ün görevlendirme süresi Yükseköğretim Kurulu Başkanlığının ….. sayılı yazısında 92 gün olarak belirtilmesine rağmen ilgiliye 94 gün üzerinden geçici görev yolluğu ödenmesi sonucu kamu zararına sebep olunduğu görülmüşse de; konuya ilişkin ….. TL kamu zararının …………. tahsil edildiği anlaşıldığından bu miktar için ilişilecek bir husus kalmadığına oybirliğiyle,
