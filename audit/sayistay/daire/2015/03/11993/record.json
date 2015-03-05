@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35299",
+  "decision_date": "2015-03-05",
+  "source_id": 11993,
+  "chamber": "2",
+  "ilam_number": "188",
+  "item_number": 9,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11993/",
+  "source_sha256": "a2f0b8cca1abcf401a9eb14558615bca6ba9105966412237bd4748ea56c955f3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
