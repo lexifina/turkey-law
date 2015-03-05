@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10438",
+  "decision_date": "2015-03-05",
+  "source_id": 9280,
+  "chamber": "1",
+  "ilam_number": "183",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9280/",
+  "source_sha256": "b565772c36a9efced2a01fee5a517e3c85ffc73d91016d4ce3cdd295f3b4e287",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
