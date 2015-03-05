@@ -1,0 +1,22 @@
+{
+  "number": "192",
+  "number_as_published": "2014/192",
+  "year": 2014,
+  "title": "2014/192",
+  "decision_date": "2015-03-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2015-mart-ayi-meclis-kararlari/277",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2014-192/286",
+  "source_sha256": "ea36a53bad93defbc21479528f6cf13fe4fe321ca419a3e617c69689651fd691",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-03-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.03.2015 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "6e6e7c262ddf6834b5e2b81ce78793f465b6a4dd5945141ad8b43913ee463c66"
+}
