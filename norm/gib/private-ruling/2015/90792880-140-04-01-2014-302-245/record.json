@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-03-06T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-03-06",
+  "official_number": "90792880-140.04.01[2014/302]-245",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35688",
+  "source_id": "ozelge:35688",
+  "source_row_sha256": "168e3f1e4f0448f9855dd68554a8c2905e0d83468a10dc0c1e8063fecb1df001",
+  "title": "Sözleşmeyle satın alınan taşınmazın mahkeme kararına istinaden tescilinde tapu harcının hangi bedel üzerinden ödeneceği hk.",
+  "version_label": "as-enacted",
+  "word_count": 678
+}
