@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 24,
+  "legislative_year": 5,
+  "esas_no": "7/62253",
+  "submitted": "2015-03-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa Sezgin TANRIKULU",
+  "province": "İstanbul",
+  "summary": "2014-2015 yılları arasında yapılan ihalelere ilişkin",
+  "status": "Yasama Dönemi Sona Erdiğinden Hükümsüz Sayıldı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bf-e1fb-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "d3bf4da26ca2931af1f150994f5d5ccc753aeb3f6c4046005d6004a09b3e0706",
+  "in_force": "2015-03-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
