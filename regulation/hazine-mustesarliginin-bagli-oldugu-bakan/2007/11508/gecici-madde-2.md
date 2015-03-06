@@ -1,0 +1,2 @@
+Meslekî uygulama ve faaliyet
+GEÇİCİ MADDE 2 – (1) 3/8/1995 tarihli ve 22363 sayılı Resmî Gazete’de yayımlanan Aktüerler Yönetmeliğinin 6 ncı maddesinin (ı) bendinin uygulanmasında, yurt içinde veya yurt dışında; özel kurumların, kamu kurumlarının veya üniversitelerin aktüeryayla ilgili birim veya bölümlerindeki veya aktüerin refakatinde aktüeryayla ilgili meslekî uygulama veya faaliyetler de dikkate alınır.

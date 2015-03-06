@@ -1,0 +1,4 @@
+Sicil veya Listeden silinme
+MADDE 18 – (1) Sicile kayıt için bu Yönetmeliğin aradığı şartların gerçekleşmediğinin veya sonradan kaybedildiğinin anlaşılması, kişinin kendi isteği ile kaydının silinmesini istemesi durumunda veya 17 nci madde kapsamında Sicilden silinme cezasının verildiği hâllerde, Sicil kayıtları Müsteşarlıkça silinir. Bu durum, kaydı silinen kişinin bildirdiği adrese Müsteşarlıkça gönderilecek yazıyla bildirilir.
+(2) Yukarıdaki fıkra hükmü Liste için de uygulanır.
+(3) Kendi isteğiyle Liste veya Sicil kaydı silinenler, kayıt yenileme talep tarihinden önceki bir yıl içinde Müsteşarlıkça belirlenen eğitim faaliyetine devam etmiş olduklarını belgelendirmeleri hâlinde yeniden Listeye veya Sicile kaydedilirler. 17 nci madde kapsamında kaydı silinenler yeniden kayıt yaptırmak için başvuruda bulunamazlar.

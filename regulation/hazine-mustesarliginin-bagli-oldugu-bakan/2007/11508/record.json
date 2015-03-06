@@ -1,0 +1,50 @@
+{
+  "source_id": "7.5.11508",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AKTÜERLER YÖNETMELİĞİ",
+  "number": "11508",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "issuer_slug": "hazine-mustesarliginin-bagli-oldugu-bakan",
+  "path": "regulation/hazine-mustesarliginin-bagli-oldugu-bakan/2007/11508",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11508&MevzuatTertip=5",
+  "source_sha256": "f52c9e113099602245a9b029aae0217e7e2555277723a8bec9ebabd110637aa5",
+  "source_bytes": 61754,
+  "published": "2007-08-15",
+  "gazette": "26614",
+  "in_force": "2015-03-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/3/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-03-06",
+      "RG-6/3/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-03-06",
+      "6/3/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-09-28",
+      "RG-28/9/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-09-28",
+      "28/9/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2725,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

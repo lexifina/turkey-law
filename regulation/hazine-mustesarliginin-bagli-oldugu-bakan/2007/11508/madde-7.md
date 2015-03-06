@@ -1,0 +1,3 @@
+Muafiyetler
+MADDE 7 – (1) Uluslararası kabul görmüş sınavlar veya usullerle aktüer unvanını alanlar, Birinci, İkinci ve Üçüncü Seviye Sınavlarından muaftır. Bu kişiler, Türk Sigortacılık, Uygulamaları ve Yasal Çerçeve Sınavlarında(1) başarılı olmaları, 5 inci maddede belirtilen nitelikleri taşımaları ve yabancı uyruklu kişilerin TÖMER (Ankara Üniversitesi Türkçe ve Yabancı Dil Araştırma ve Uygulama Merkezi) tarafından açılan Türkçe Dil Bilgisi Seviye Tespit Sınavından yeterli puan aldıklarını gösterir belge alması veya denkliği Müsteşarlıkça kabul edilen Türkçe yeterliğini gösteren belgeye sahip olması hâlinde Sicile kaydedilirler.
+(2) Bu maddedeki sınav muafiyetlerine ilişkin tereddütler, Kurul görüşü üzerine Müsteşarlık tarafından giderilir.
