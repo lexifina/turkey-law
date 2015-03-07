@@ -1,0 +1,2 @@
+Ek şart belirleme
+MADDE 7 – (1) Kurum, belirli alanların düzenlenmesi ve denetlenmesinden sorumlu kurum, kurul veya kuruluşların görüşlerini alarak, Yönetmeliğin 13 üncü maddesinin dördüncü fıkrası ile 14 üncü maddesinin üçüncü fıkrası uyarınca, bu alanlarda denetim yapacak denetim kuruluşları ve denetçiler için ek şartlar belirleyebilir ve bu şartları sağlayan denetim kuruluşları ve denetçileri listeler halinde ayrıca ilan eder.
