@@ -1,0 +1,4 @@
+Ödemelerin iadesi
+MADDE 20 – (1) Hak sahipleri, sorumlulardan uğradıkları zararların tamamen veya kısmen tazmin etmeleri halinde, Hesaptan yapılan ödemeler nedeniyle sebepsiz zenginleşmeye yol açan tutarı beş iş günü içinde Hesaba iade etmekle yükümlüdür. Aksi takdirde, bu durumu öğrenen Hesap haksız kazanca yol açan ödemelerin gecikme faizi ile birlikte geri alınması için gereken yasal işlemleri başlatır.
+(2) (Değişik:RG-19/6/2009-27263) Hesaptan bu Yönetmelik uyarınca tahsilat yapan sigorta şirketleri riziko tarihi itibariyle geçerli sigorta teminat limitleri dahilinde sorumlulardan mükerrer tahsilat yapamazlar.
+(3) Bu madde hükmüne aykırı işlem yapan sigorta şirketlerinin, ilgili mevzuatta öngörülen adli veya idari yaptırımlar saklı kalmak kaydıyla, Hesaptan tahsil ettikleri tutarı tahsil tarihinden itibaren 12 nci maddenin ikinci fıkrasına göre Hesaba iade etmeleri zorunludur.

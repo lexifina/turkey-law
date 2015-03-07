@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.11467",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÜVENCE HESABI YÖNETMELİĞİ",
+  "number": "11467",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "issuer_slug": "hazine-mustesarliginin-bagli-oldugu-bakan",
+  "path": "regulation/hazine-mustesarliginin-bagli-oldugu-bakan/2007/11467",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11467&MevzuatTertip=5",
+  "source_sha256": "55979cd49f78f7b10ccc99c08b62c817fa1bdc1d605b9577236829c8d4bd73e0",
+  "source_bytes": 58378,
+  "published": "2007-07-26",
+  "gazette": "26594",
+  "in_force": "2015-03-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/3/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-03-07",
+      "RG-7/3/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-03-07",
+      "7/3/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-03-05",
+      "RG-5/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-05",
+      "5/3/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-06-19",
+      "RG-19/6/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-06-19",
+      "R.G.19/6/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-06-19",
+      "19/6/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2160,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
