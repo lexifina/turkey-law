@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.17054",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BAĞIMSIZ DENETİM RESMİ SİCİL TEBLİĞİ",
+  "number": "17054",
+  "issuer": "Kurum Başkanı",
+  "path": "teblig/2013/17054",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17054&MevzuatTertip=5",
+  "source_sha256": "49500605891c0dad929b5678fb7c5f5f7b76ad87d57106fbc8b8923b68b82520",
+  "source_bytes": 49208,
+  "published": "2013-01-25",
+  "gazette": "28539",
+  "in_force": "2015-03-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/3/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-03-07",
+      "RG-7/3/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-03-07",
+      "7/3/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1848,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

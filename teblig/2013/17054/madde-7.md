@@ -1,0 +1,2 @@
+Sicil dili
+MADDE 7 – (1) Sicil kayıtları Türkçe tutulur. EYBİS’te kaydı tutulan bilgilerle ilgili olarak yurt dışından temin edilecek belgelerin ilgili ülkenin yetkili makamlarınca veya Türkiye’nin o ülkedeki konsolosluğunca ya da Lahey Devletler Özel Hukuku Konferansı çerçevesinde hazırlanan Yabancı Resmi Belgelerin Tasdiki Mecburiyetinin Kaldırılması Sözleşmesi hükümlerine göre onaylanmış olması ve müracaata belgelerin tercümelerinin de eklenmesi şarttır.

@@ -1,0 +1,4 @@
+Tescil işlemlerinde süreler
+MADDE 19 – (1) Denetim kuruluşları, yetkilendirme işleminin kendilerine tebliğinden itibaren tescil ve ilana yönelik işlemlerin tekemmülü için doksan gün içinde Kuruma müracaatta bulunurlar.
+(2) Sicilde tadil veya terkine konu olacak işlemler, bilgi veya belgede meydana gelen değişikliğin gerçekleştiği günden sonraki on gün içinde Kuruma bildirilir.
+(3) Tescil, tadil ve terkine ilişkin bu maddedeki işlemlere dair müracaat ve bildirim yükümlülüğünün süresi içinde yerine getirilmediğinin Kurumca tespit edilmesi halinde müracaata yetkili kişilerden, bu tespiti takip eden otuz gün içinde müracaat ve bildirimde bulunmama sebebi hakkında açıklama istenir. Bu sürenin sonunda Kurum, ilgili hususun tescil edilmemesi ile varsa konu hakkındaki önceki kararının iptali cihetine gidebilir veya işlemi resen tescil ederek ilgililer hakkında idari veya adli işlem başlatır.

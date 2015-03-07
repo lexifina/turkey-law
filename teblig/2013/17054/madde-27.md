@@ -1,0 +1,6 @@
+Sicil işlemlerinin elektronik ortamda güvenli elektronik imza kullanılarak gerçekleştirilmesi
+MADDE 27 – (1) Bu Tebliğ kapsamında yapılacak müracaat, bildirim, itiraz ve diğer işlemler, elektronik ortamda ve 5070 sayılı Kanunun 4 üncü maddesinde tanımlanan “Güvenli Elektronik İmza” kullanılarak yapılır.
+(2) Bağımsız denetim kuruluşlarında (Değişik ibare:RG-7/3/2015-29288) temsil ve ilzama yetkili kişilerin kuruluş namına ve kendi adlarına üretilen güvenli elektronik imzayla kuruluşu temsil etmeleri durumunda, kullanılacak nitelikli elektronik sertifikalarda sertifika sahibi alanı içine, sertifika sahibinin adı ve soyadı ile birlikte temsil ettiği tüzel kişiliğin ticaret unvanının, ticaret sicil numarasının ve denetim kuruluşu sicil numarasının yazılması ve bu hususun sicile kaydı şarttır.
+(3) Elektronik ortamda üretilen belgelerin tescile dayanak olabilmesi için bu belgelerde güvenli elektronik imza ile birlikte zaman damgasının da kullanılması zorunludur. Elektronik ortamda güvenli elektronik imza ile imzalanmış belgelerde noter onayı aranmaz.
+(4) EYBİS’te elektronik ortamda işlem yapılamaması halinde işlemler, daha sonra elektronik ortama aktarılmak üzere, yazılı ortamda ve Kurumca uygun görülen sürede yürütülür.
+(5) Bu Tebliğ uyarınca yapılacak tebligatlar hakkında 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümleri uygulanır.
