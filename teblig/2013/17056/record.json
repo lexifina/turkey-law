@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.17056",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BAĞIMSIZ DENETÇİLİK UYGULAMALI MESLEKİ EĞİTİM TEBLİĞİ",
+  "number": "17056",
+  "issuer": "Kurum Başkanı",
+  "path": "teblig/2013/17056",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17056&MevzuatTertip=5",
+  "source_sha256": "3d6c8280d2a9e8c542dc3ef1ab89d0671b1f3b9af01b7249b3a15cecb8ee1d56",
+  "source_bytes": 45784,
+  "published": "2013-01-25",
+  "gazette": "28539",
+  "in_force": "2015-03-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/3/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-03-07",
+      "RG-7/3/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-03-07",
+      "7/3/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1652,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

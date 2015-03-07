@@ -1,0 +1,9 @@
+Eğitimden sayılan süreler
+MADDE 8 – (1) 1/6/1989 tarihli ve 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanunu çerçevesinde tasdik ve vergi denetimi hizmetlerinde geçen süreler ile aynı Kanunun 6 ncı maddesinin ikinci fıkrasında yer alan kamu kurum ve kuruluşlarında denetim yetkisini haiz olanların, bu kamu kurum ve kuruluşlarında geçirdikleri süreler uygulamalı mesleki eğitim süresinden sayılır.
+(2) En az on beş yıl mesleki tecrübeye sahip olan meslek mensuplarında uygulamalı mesleki eğitim şartı aranmaz.
+(3) Mesleki tecrübe süresi, mesleki faaliyetlere başlandığı tarihte başlar ve mesleki faaliyetlerde geçirilen süreyi kapsar. Bu sürenin hesabında,
+a) 3568 sayılı Kanun kapsamındaki staj ve stajdan sayılan hizmetler ile aynı Kanun uyarınca mesleki faaliyetlerde bulunulan süreler,
+b) Bağımsız denetimde geçirilen süreler,
+c) 3568 sayılı Kanun çerçevesinde tasdik ve vergi denetimi hizmetlerinde geçen süreler ile aynı Kanunun 6 ncı maddesinin ikinci fıkrasında yer alan kamu kurum ve kuruluşlarında denetim yetkisini haiz olanların, kamu kurum ve kuruluşlarında geçirdikleri süreler,
+dikkate alınır. Mesleki tecrübe süresine dört yılı aşmamak üzere, Yönetmeliğin 14 üncü maddesinin birinci fıkrasının (a) bendinde öngörülen lisans veya lisansüstü eğitim süreleri ilave edilir. Kamu kurum ve kuruluşlarında geçirilen süreler hariç olmak üzere, bir yıldan fazla süreyle bu maddede belirtilen faaliyetlere ara verilmesi durumunda, ara verilen fazla süreler mesleki tecrübe süresinin hesabında dikkate alınmaz.
+(4) 3568 sayılı Kanun uyarınca meslek mensuplarınca yapılan staj süresinin bir yılı veya lisansüstü diplomasının ibraz edilmesi şartıyla iktisat, maliye, işletme, muhasebe, finansman, denetim ve vergi ile ilgili alanlarda lisansüstü eğitim görenlerin bu eğitimde geçen sürelerinin bir yılı eğitimden sayılır.
