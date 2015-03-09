@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/314",
+  "list_number": "314",
+  "decision_date": "2015-03-09",
+  "title": "25. Dönem Milletvekili Genel Seçiminde oy kullanılacak gümrük kapılarının tespiti ve Gümrük Kapılarında Görev Yapacak İlçe Seçim Kurulları ve Sandık Kurullarının Görev ve Yetkileri ile Gümrük Kapılarındaki Oy Verme İşlemlerine ilişkin 145/I sayılı Genelge ile ilgili Yüksek Seçim Kurulunun 2015/314 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2198/2015-314.pdf",
+  "source_sha256": "c7d5821c67a21c1379b7dca9c7f0d822858e6fb9129c4f161f2c6c2ff8806b78",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 21,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-03-09",
+  "law_text_complete": false
+}
