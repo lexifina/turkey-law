@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "245",
+  "decision_date": "2015-03-09",
+  "title": "MEC_ KAR_ (GÖKSU DELTASI)",
+  "listed_as": "245 MEC_ KAR_ (GÖKSU DELTASI)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/245-mec--kar--goksu-deltasi",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk95-09-mart-2015-meclis-kararlari",
+  "listing_sha256": "381916f8a4bc23c42631f56d991df3cac36bd503b370b34484c9e7ae63cb7322",
+  "meeting_title": "MK95-09 MART 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
