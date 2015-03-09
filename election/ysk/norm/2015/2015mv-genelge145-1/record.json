@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2015/2015mv-genelge145-1",
+  "list_number": "314",
+  "genelge_number": "145/I",
+  "decision_date": "2015-03-09",
+  "title": "Gümrük Kapılarında Görev Yapacak İlçe Seçim Kurulları ve Sandık Kurullarının Görev ve Yetkileri ile Gümrük Kapılarındaki Oy Verme İşlemlerine ilişkin 145/I sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1862/2015MV-Genelge145-1.pdf",
+  "source_sha256": "730baf19d644e7bff809f9306fd25b226f5e8f4a17033e4b3465e89c2c38f9f4",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 14,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-03-09",
+  "law_text_complete": false
+}
