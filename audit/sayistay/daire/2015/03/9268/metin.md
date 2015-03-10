@@ -1,0 +1,3 @@
+Doğrudan Temin yöntemiyle piyasa rayicinin üzerinde alım yapılması.
+
+Doğrudan temin yöntemiyle gerçekleştirilen “Fen Edebiyat Fakültesi Moleküler Biyoloji ve Genetik Bölümünde Kullanılan Santrifüj İçin Rotor Alımı” işinde piyasa rayicinin üzerinde alım yapıldığı hususu sorgu konusu yapılmışsa da, sözü edilen rotor alımının yanında kefeleri, adaptörü, 6*100 ml’li tüpü, 18 mikroplaka ve 336 RIA tüpünün de teslim alınması, ………………… Şti. tarafından rotorun takılması ve ultrasantrifüj cihazına garanti sonrası 2 yıl parça dahil bakım sözleşmesi yapılması sebebiyle ……… TL için kamu zararı oluşmadığına ve ilişilecek bir husus bulunmadığına oybirliğiyle,
