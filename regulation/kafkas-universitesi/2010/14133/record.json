@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-07-25",
+      "25.07.2010",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2013-08-12",
+      "RG-12/8/2013-28733",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2015-03-10",
+      "RG-10/3/2015-29291",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2015-03-10",
+      "RG-10/3/2015-29291",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-08-12",
+      "12/8/2013",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2015-03-10",
+      "10/3/2015",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-10/3/2015-29291",
+  "first_law": null,
+  "gazette": "27652",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-03-10",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Kafkas Üniversitesi",
+  "issuer_slug": "kafkas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kafkas-universitesi/2010/14133",
+  "published": "2010-07-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14133&MevzuatTertip=5",
+  "source_bytes": 29888,
+  "source_id": "8.5.14133",
+  "source_sha256": "b3bb31ca0845e32f8a16502587f96eed4c1583a6425193d9303a9b592e8da8f9",
+  "text_status": "current-consolidated",
+  "title": "KAFKAS ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 206,
+  "word_count": 817
+}
