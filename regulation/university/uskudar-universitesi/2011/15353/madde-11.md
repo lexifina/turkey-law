@@ -1,0 +1,2 @@
+Tıbbi direktör
+MADDE 11 – (1) Tıbbi Direktör, Genel Direktörün önerisi ile Üniversite öğretim elemanları veya konusunda uzman kişiler arasından Rektör tarafından görevlendirilir. Merkezin tıbbi hizmet ve araştırmada görev yapan sağlık hizmetleri sınıfındaki çalışanların organizasyonundan sorumludur. Görev süresi üç yıldır. Görev süresi dolduğunda tekrar görevlendirilebilir. Rektör tarafından süresi dolmadan görevden alınabilir.

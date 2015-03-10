@@ -1,0 +1,2 @@
+Uygulama birimleri
+MADDE 16 – (1) Merkez; nöroloji, psikiyatri, psikoloji alanında yapılan sağlık, araştırma, eğitim ve uygulamalara destek sağlamak amacıyla uygulama birimleri kurar ve işletir, ilgili uzmanları bünyesinde çalıştırır. Nöroloji, psikiyatri, iç hastalıkları, çocuk ve ergen psikiyatrisi, çocuk nörolojisi, anestezi ve rehabilitasyon uzmanları gibi ilgili uzmanları, psikologları, sosyal çalışmacıları bünyesinde görevlendirir.
