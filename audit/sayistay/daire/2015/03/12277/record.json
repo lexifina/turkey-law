@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35300",
+  "decision_date": "2015-03-10",
+  "source_id": 12277,
+  "chamber": "2",
+  "ilam_number": "187",
+  "item_number": 5,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2013,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12277/",
+  "source_sha256": "62239c404591d0c3ba0ef72c56c3383d6ae21c3fd0d23f220a9ae11b7a4aef30",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
