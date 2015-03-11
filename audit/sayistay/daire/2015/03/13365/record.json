@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10446",
+  "decision_date": "2015-03-11",
+  "source_id": 13365,
+  "chamber": "1",
+  "ilam_number": "207",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13365/",
+  "source_sha256": "8bcfcccf73e4eeb1f7bfa491cd936831925a769558532a8a97ebfdcbe1f38b15",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
