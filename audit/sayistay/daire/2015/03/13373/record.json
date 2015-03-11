@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10446",
+  "decision_date": "2015-03-11",
+  "source_id": 13373,
+  "chamber": "1",
+  "ilam_number": "207",
+  "item_number": 10,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13373/",
+  "source_sha256": "3594877157fd4445bedb17be581597f5bcd8b40665c8830cd12bd96ceeed3d9b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
