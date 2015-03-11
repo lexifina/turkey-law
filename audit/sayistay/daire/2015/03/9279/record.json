@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10445",
+  "decision_date": "2015-03-11",
+  "source_id": 9279,
+  "chamber": "1",
+  "ilam_number": "190",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9279/",
+  "source_sha256": "492378865a9c6704f22cd8a3ea77a250e3b6d2413e400c15c2a12b19a0bd5394",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
