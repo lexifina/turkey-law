@@ -1,0 +1,2 @@
+Aidatlarını ve her türlü para cezalarını ödemeyenler
+MADDE 115 – (1) Aidatları ile haysiyet divanınca verilmiş her türlü para cezalarını kendilerine yapılan tebligata karşın, tebliğ tarihinden otuz gün içinde ödemeyen oda üyeleri hakkında, Kanunun 56 ncı maddesi gereğince İcra ve İflas Kanunu hükümleri uygulanır. Üyelik vecibelerini yerine getirmeyenler hakkında ayrıca disiplin işlemi de yürütülür.

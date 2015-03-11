@@ -1,0 +1,2 @@
+Etik Kurulun kuruluşu
+MADDE 74 – (1) Veteriner hekim herhangi bir hayvan türü üzerinde yapacağı deneysel amaçlı uygulamalarda ulusal ve uluslararası etik kurallara uymak zorundadır. Bu kurallar, Bakanlık merkezinde oluşturulan etik kurul ile araştırma yapan kurum ve kuruluşlarda oluşturulan yerel ve etik kurullar aracılığıyla denetlenir. Bu çerçevede yapılan tüm araştırmalar için Etik Kurulun onayı aranır.

@@ -1,0 +1,2 @@
+Oda başkanının görev ve yetkileri
+MADDE 28 – (1) Başkan, odayı idarî ve adlî makamlar ile gerçek ve tüzel kişilere karşı temsil eder. Oda çalışmalarını kanunlara, oda mevzuatına, genel kurul ve yönetim kurulu kararlarına uygun olarak yürütür. Oda amaç ve görevleri doğrultusunda, basın toplantısı, basın açıklaması, basınla görüşme gibi, kamuoyu oluşturmaya yönelik her türlü etkinlikte bulunur. Oda yönetim kurulu toplantılarına başkanlık eder. Oylarda eşitlik durumunda, başkanın katıldığı taraf çoğunluk sayılır.

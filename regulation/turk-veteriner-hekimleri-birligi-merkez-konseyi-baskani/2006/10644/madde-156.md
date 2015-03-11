@@ -1,0 +1,5 @@
+Dergilerin kredilendirilmesi
+MADDE 156 – (1) Dergilerin kredilendirilmesinde aşağıdaki hususlar dikkate alınır.
+a) VETSEG etkinliklerine katkıda bulunan dergiler kredilendirilme isteği ile başvurabilir. Başvuru sırasında bir form doldurularak VETSEG Yürütme Kuruluna teslim edilir. Kredilendirilme isteği kabul edilen dergi kredilendirilmiş dergi unvanını kazanır. Kredilendirilme isteği reddedilen dergi bir yıl süreyle tekrar kredilendirilme isteği ile başvuramaz. Kredilendirilmiş dergi, her sayısının bir örneğini yayınlandıktan sonraki bir ay içinde VETSEG Yürütme Kuruluna göndermekle yükümlüdür. Kredilendirilmiş dergi kredilendirildiğini etik kurallara uygun olmak şartı ile istediği yöntemle okuyucularına duyurma hakkına sahiptir.
+b) Kredilendirilmiş veya yurt dışındaki dergilere abone olan veteriner hekimlere aboneliklerini belgeledikleri taktirde her sayı için 3 kredi verilir.
+(2) Abonelere yönelik soru formu hazırlayan dergiler bu sorulara verilen cevapların puanlandırılmış dökümünü VETSEG Yürütme Kuruluna gönderdikleri taktirde aboneler bu Kurulun belirleyeceği kredileri alırlar.

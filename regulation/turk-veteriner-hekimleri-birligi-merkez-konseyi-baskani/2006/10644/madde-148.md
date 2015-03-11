@@ -1,0 +1,2 @@
+VETSEG sertifika programlarında sınavlar ve değerlendirme
+MADDE 148 – (1) Sertifika programlarının katılımcıları program süresince ve program sonunda yazılı ve/veya uygulamalı sınavlara tabi tutulurlar. Sınavların sayısı, şekli ve başarı notunun nasıl hesaplanacağı program başında katılımcılara duyurulur. Gerektiğinde eğitim-öğretim programı başlamadan önce adaylar üzerinde seviye tespit sınavları yapılabilir.

@@ -1,0 +1,2 @@
+VETSEG programı ücretleri
+MADDE 152 – (1) Eğitim–öğretim programına katılım için öngörülen ücretler, katılımcıların ödeme güçleri, piyasa koşulları ve öğretim elemanlarına ödenecek katkı payları ve program giderleri dikkate alınarak program önerisini hazırlayan oda/odalar tarafından önerilir. Sertifika programları için Büyük Kongre onayından sonra, seminer ve kurs programları için Merkez Konseyi onayından sonra yürürlüğe girer. Ücretler program duyurularında ilan edilen hesaba yatırılır.

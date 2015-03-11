@@ -1,0 +1,2 @@
+VETSEG Yürütme Kurulunun oluşumu
+MADDE 162 – (1) VETSEG Yürütme Kurulu; bir başkan, bir raportör ve beş üyeden oluşur. VETSEG Yürütme Kurulu; Merkez Konseyini temsilen iki, veteriner Fakültelerini temsilen iki, ihtisas derneklerini temsilen bir ve Bakanlığı temsilen iki üyeden oluşur. Kurul Başkanı, Merkez Konseyi tarafından, raportörü ise Kurul kendi üyeleri arasından seçer. Kurula aynı sayıda yedek üye seçilir. VETSEG Yürütme Kurulunun sekreteryasını Merkez Konseyi yürütür.

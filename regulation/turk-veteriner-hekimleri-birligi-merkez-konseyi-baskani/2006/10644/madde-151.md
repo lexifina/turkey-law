@@ -1,0 +1,2 @@
+VETSEG sertifikası
+MADDE 151 – (1) Sertifika almak için bulunulan tarihten iki yıl geriye gidilerek kredi puanları toplanır. Sertifikaların geçerlilik süresi iki yıldır. Sertifika iki ay içinde teslim edilmek zorundadır. Sertifikaların şekli ve VETSEG Logosu, VETSEG Yürütme Kurulunun önerisi üzerine Merkez Konseyi tarafından belirlenir. Sertifikada, Birlik ve VETSEG Logosu bulunmak zorundadır. Sertifikayı, Merkez Konseyi Başkanı ve VETSEG Yürütme Kurulu Başkanı imzalar.

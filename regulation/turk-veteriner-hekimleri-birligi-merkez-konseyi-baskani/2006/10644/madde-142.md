@@ -1,0 +1,5 @@
+VETSEG sertifika, seminer ve kurs programları
+MADDE 142 – (1) Sertifika programları, konu başlığı ve amaçlarına uygun bilgi ve becerilerin kazandırılıp sınanabileceği asgari eğitim süresinde planlanan ve dönem sonunda katılımcıların başarısının değerlendirilerek Başarı Belgesi verilmesini mümkün kılan eğitim-öğretim programlarıdır.
+(2) Sertifika programlarının içeriği ve süresi öneriler dikkate alınarak VETSEG Yürütme Kurulu tarafından hazırlanarak Merkez Konseyine sunulur. Program Büyük Kongre kararı ile kesinleşir.
+(3) Seminer ve kurs programları, sahada çalışan konu uzmanları veya üniversite birimlerinde çalışan öğretim elemanlarının uzmanı oldukları alanlarda kamu ve özel sektörde çalışan veya serbest veteriner hekimlerin bilgilendirilmesi, aydınlatılması ve beceri kazandırılmasına yönelik, kısa süreli, başarı sınavı gerektirmeyen ve tüm katılımcılar için Katılım Belgesi ile sonuçlanan eğitim-öğretim programlarıdır.
+(4) Seminer ve kurs programlarının içeriği ve süresi öneriler dikkate alınarak VETSEG Yürütme Kurulu tarafından hazırlanarak Merkez Konseyine sunulur. Merkez Konseyi kararı ile uygulanır.

@@ -1,0 +1,2 @@
+Birlik Denetleme Kurulunun kuruluş ve çalışma şekli
+MADDE 20 – (1) Birlik Denetleme Kurulu, Büyük Kongre tarafından seçilen üç asıl ve üç yedek üyeden oluşur. Çalışma şekli yönetmelik veya yönergelerle belirlenir. Nedeni ne olursa olsun, üst üste üç kez toplantıya ya da denetimlere katılmayan ya da katılamayacağını bildiren Birlik Denetleme Kurulu üyesi çekilmiş sayılır ve yerine sıradaki ilk yedek üye geçer.

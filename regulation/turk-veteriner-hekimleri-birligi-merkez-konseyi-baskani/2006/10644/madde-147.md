@@ -1,0 +1,3 @@
+VETSEG programlarında öğretim elemanı görevlendirilmesi
+MADDE 147 – (1) Eğitim-öğretim programlarında öğretim elemanı görevlendirilmesi, ilgili oda yönetim kurulunun önerisi üzerine Merkez Konseyi tarafından kesinleştirilir ve ilgili üniversiteden öğretim görevlisinin görevlendirilmesi talebinde bulunulur. Gerekli hâllerde eğitim-öğretim programında çalışmak üzere ilgili sektörden öğretim elemanları da görevlendirilebilir. Merkez Konseyi gerekli görmesi hâlinde ilgili VETSEG Yürütme Kurulu Alt Komisyonu raporuna dayanarak öğretim elemanı görevlendirmelerinde değişiklik yapabilir.
+(2) Birden fazla odanın birlikte düzenleyeceği eğitim-öğretim programlarında öğretim elemanı görevlendirilmesi önerisi ise, koordinasyonu sağlayan odanın yönetim kurulu tarafından yapılır.

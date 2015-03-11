@@ -1,0 +1,3 @@
+Veteriner hekim odalarının denetimi
+MADDE 58 – (1) Merkez Konseyi, Kanunun 47 nci maddesinin (a) bendi gereğince odaları, odaların çalışmalarını Kanun ve yönetmeliklere uygun yürütülüp yürütülmediklerini denetler. Denetleme, Merkez Konseyi üyelerince veya Merkez Konseyinin görevlendireceği denetçiler tarafından gerçekleştirilir. Denetleyiciler, denetleme sonuçlarını, odaların tutacakları denetleme defterine yazarlar. Bu yazıların bir örneği de Merkez Konseyinde saklanır.
+(2) Denetleme raporlarının birer sureti odanın ilk olağan ya da olağanüstü kongresinde sunulacak çalışma raporunun arkasına eklenerek üyelerin tartışmasına açılır. Ayrıca, yapılan işlemlerde suç unsuru bulunduğu takdirde, idarî ve hukukî işlem uygulanması için gerekli prosedür yerine getirilir.

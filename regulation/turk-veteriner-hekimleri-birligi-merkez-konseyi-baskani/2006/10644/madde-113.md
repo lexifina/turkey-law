@@ -1,0 +1,9 @@
+DOKUZUNCU BÖLÜM
+Kamu Dışında İstihdam ve Serbest Çalışma
+MADDE 113 – (1) Kamu dışında çalışacak veteriner hekimler, işverenle aralarında düzenledikleri sözleşmeyi bağlı bulundukları odaya onaylatmak zorundadırlar. Oda yönetimleri veteriner hekimlerin ücret, sosyal haklar ve çalışma şartlarıyla ilgili hükümleri asgari şartları içermesi kaydıyla onaylar.
+(2) Kamu dışındaki işyerlerinde çalışan veteriner hekimlerin meslek icrası ile çalıştıkları kurumun verdiği hizmetlerde, Birlikçe belirlenen asgari ücret tarifesine uyulmasından veteriner hekim sorumludur.
+(3) Veteriner hekimler, mevzuat hükümleri çerçevesinde muayenehane, poliklinik veya hastane açmak suretiyle mesleklerini serbestçe icra ederler. Kamu ve diğer kurumlarda çalışan veteriner hekimler de ancak bu şartın yerine getirilmesi ile özel meslekî hizmet verebilirler.
+(4) Gerçek veya tüzel kişilere veyahut kurumlara süreli/sürekli meslekî hizmet verecek olan serbest çalışan veteriner hekimler bu kuruluşlarla hizmetin kapsamı, şartları ve ücretlendirilmesini içeren oda onaylı sözleşme yapmak mecburiyetindedirler.
+(5) Oda yönetim kurulları, sözleşme hükümlerinin asgari çalışma şartlarını içermesi hâlinde onbeş gün içinde onaylar. Asgari çalışma şartlarını içermeyen sözleşmeler gerekçeleri belirtilmek suretiyle yeniden düzenlenmek üzere aynı süre içinde iade edilir.
+(6) Sözleşmeleri yapılan veya yenilenen veteriner hekimler ile serbest çalışacak veteriner hekimlere, iş yerine asılmak üzere Merkez Konseyi tarafından sıra numarası verilerek düzenlenmiş, düzenlenme yılı için geçerli, fotoğraflı Veteriner Hekim Çalışma Belgesi, oda tarafından verilir. Veteriner hekim çalışma belgeleri ilk düzenlenme tarihine bakılmaksızın her yıl Ocak ayında yenilenir.
+(7) Veteriner hekimler, Kanunda belirtilen yetkilerini kullanarak görevlerini ifa ederler ve sorumluluklarını yerine getirirler. Belirtilen usul ve esaslar çerçevesinde görev yapmalarına ilişkin denetimler odalarca yapılır.

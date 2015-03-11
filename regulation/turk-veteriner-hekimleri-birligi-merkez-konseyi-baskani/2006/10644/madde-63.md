@@ -1,0 +1,2 @@
+Veteriner hekimlerin görevleri
+MADDE 63 – (1) Veteriner hekimlerin başta gelen görevleri; görevleri gereği ilişkili oldukları iş, meslek sahipleri ve meslektaşları ile tam bir uyum ve anlayış içerisinde çalışarak hayvan refahı kurallarına uymak ve uygulamasını temin etmek, hayvan sağlığını korumak, hayvan varlığının ve hayvansal ürünlerin arttırılmasını sağlamak, veteriner halk sağlığını ve gıda güvenliğini sağlamak, hayvan sahiplerinin duygu ve düşüncelerine saygı göstermektir.

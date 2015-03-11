@@ -1,0 +1,6 @@
+Oda yönetim kurulu
+MADDE 26 – (1) Oda yönetim kurulu; iki yıl için seçilen beş üyeden oluşur. Ayrıca aynı sayıda yedek üye seçilir. Asıl üyelerden açılan yerlere en çok oy alan yedek üye getirilir.
+(2) Yönetim kurulu onbeş günde bir toplanır. Mazereti olmadığı hâlde üst üste üç toplantıya iştirak etmeyen üye istifa etmiş sayılır. Toplantıya katılmayan üyeler toplantı saatinden önce yazılı olarak bildirmedikleri takdirde mazeretleri geçersiz sayılır. Yönetim kurulu, mevcudunun ekseriyeti ile karar verir. Oylamada eşitlik hâlinde başkanın bulunduğu taraf çoğunluk sayılır.
+(3) Yönetim kurulu asıl üyeleri aralarında bir başkan, bir sekreter ve bir veznedar seçerek görev taksimi yapar. Yazışmalarda başkan ile sekreterin imzası asıldır. Her hangi birisinin bulunamaması hâlinde tek imza yeterlidir. Başkanın bulunamadığı toplantılarda idare heyetine sekreter başkanlık eder.
+(4) Parayla ilgili işlerde başkanla veznedarın veya sekreter ile veznedarın ortak imzaları zorunludur.
+(5) Oda yönetim kurulu, denetleme kurulu ve haysiyet divanından birisine seçilmiş olanlar, Merkez Konseyi ve Birlik Denetleme Kurulu üyeliklerinden birine seçilebilirler. Ancak, oda yönetim ve haysiyet divanı üyeleri, Yüksek Haysiyet Divanı üyeliğine seçilemezler.

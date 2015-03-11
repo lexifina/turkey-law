@@ -1,0 +1,6 @@
+İlk incelemeci ve soruşturmacı atanması
+MADDE 123 – (1) Bildirim ve yakınmanın konusu çok ivedi ise yönetim kurulu derhâl toplanır. İvedi olmayan durumlarda bildirim veya yakınmanın yapılmasından sonra gelen ilk yönetim kurulu toplantısında konuyu inceler. Bildirim ve yakınmayı önemsiz görürse soruşturmaya yer olmadığına dair karar alarak şikâyetçiye bildirir.
+(2) Yönetim kurulu bildirim veya yakınmayı soruşturmaya değer görürse;
+a) Bildirim veya yakınma konusunu yedi gün içinde yazılı olarak ilgiliye bildirir. Otuz gün içinde açıklamasını varsa kanıtlarını göndermesini ister. Bu süre sonunda gelen yanıt ile birlikte konuyu değerlendirerek dosyanın haysiyet divanına sevk edilip edilmemesi konusunda kararını verir.
+b) Yönetim kurulu, gerekli gördüğü durumlarda oda üyelerinden birini veya birkaçını soruşturmacı olarak atar. Soruşturmacı olarak atanan kişinin atandığına dair yönetim kurulu kararı alınması zorunludur. Soruşturmacı veya soruşturmacılar bu kararın bir örneğini, hakkında soruşturma yapılacak kişiye bildirmek zorundadır. Soruşturmacı olarak atanan oda üyesi veteriner hekim geçerli sebepleri varsa görevi kabul etmeyebilir.
+(3) Bu atamanın görüşüleceği toplantıya, eğer yakınmacı yönetim kurulu üyesi ise katılamaz.

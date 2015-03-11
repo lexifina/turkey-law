@@ -1,0 +1,2 @@
+Toplantılara katılım
+MADDE 165 – (1) Bir görev döneminde mazeretsiz olarak üst üste üç toplantıya veya toplam altı toplantıya katılmayan üyenin yerine yedek üye alınır. Asıl üyenin istifa, ölüm ve benzeri nedenlerle yeri boşaldığında dönem sonuna dek, yedek üye, asıl üyenin görev ve yetkilerini üstlenir. VETSEG Yürütme Kurulu toplantıları üye tam sayısının salt çoğunluğu ile yapılır ve kararlar hazır bulunanların salt çoğunluğu ile alınır, oylarda eşitlik hâlinde başkanın oy verdiği taraf yönünde karar alınmış sayılır.

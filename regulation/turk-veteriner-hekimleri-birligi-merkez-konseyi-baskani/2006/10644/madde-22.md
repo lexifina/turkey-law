@@ -1,0 +1,7 @@
+DÖRDÜNCÜ BÖLÜM
+Odalar
+Veteriner hekim odalarının kurulması
+MADDE 22 – (1) Hudutları içinde en az otuz veteriner hekim bulunan her vilayet merkezinde veya mücavir vilayetler birleştirilmek suretiyle en az otuz veteriner hekim bulunan bölgelerde Merkez Konseyi kararıyla veteriner hekim odaları kurulur. Veteriner hekim odaları tüzel kişiliğe sahip kamu kurumu niteliğinde meslek kuruluşlarıdır.
+(2) Yeni bir odanın açılması durumunda, bu odaya kaydolması gereken üyelerle ilgili her türlü kayıt evrakı ve belgeler, bu üyelerin daha önce kayıtlı bulunduğu oda tarafından yeni kurulan odanın yazılı isteği üzerine, bu odaya en geç bir ay içinde gönderilir.
+(3) Yeni kurulacak odanın ilk genel kurul çağrısı ve açılışı, Birlik denetiminde yapılır. Genel Kurul hazırlık çalışmalarını yürütmek üzere, Merkez Konseyi tarafından beş üyeli kurucu yönetim kurulu atanır. Kuruluş genel kurulu, en geç üç ay içinde gerçekleştirilir. Oda kuruluşuyla ilgili tüm harcamalar gerektiğinde Birlik bütçesinden karşılanır. Merkez Konseyi kararıyla yeni kurulan odadan, bir yıllık süre için birlik katılım payı alınmayabilir.
+(4) Odalar, Kanunda ve bu Yönetmelikte belirtilen kurulların oluşturulmasına olanak kalmadığı ya da toplantı yeter sayısı bulunamaması nedeniyle üst üste iki genel kurul toplantısını yapmadığı ya da oda genel kurulunda alınan karara dayanarak; Merkez Konseyi önerisi ve Büyük Kongre kararı ile kapatılır veya en yakın oda ile birleştirilir.

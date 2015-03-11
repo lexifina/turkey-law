@@ -1,0 +1,6 @@
+Yüksek Haysiyet Divanı kararları
+MADDE 18 – (1) Yüksek Haysiyet Divanının aldığı kararların uygulanmasında aşağıdaki hususlara dikkat edilir.
+a) Haklarında Yüksek Haysiyet Divanınca geçici olarak meslek icrasından men veya tatil cezası kararı verilen veteriner hekimler, hiçbir suretle mesleklerini icra edemezler. Varsa muayenehane, laboratuvar veya müesseseleri kapatılır. Bu cezayı alan kişi memur ise memuriyet vazifesine halel gelmez.
+b) Yüksek Haysiyet Divanının verdiği kararlar, ilgili oda haysiyet divanına bildirilir ve keyfiyet, hakkında disiplin işlemi yapılan kimseye tebliğ edilir. Kesinleşen kararlar, Merkez Konseyi tarafından Tarım ve Köyişleri Bakanlığı ile ilgilinin bağlı olduğu odanın bulunduğu yerdeki Cumhuriyet savcısına bildirilir. Bu bildirimle birlikte Merkez Konseyi, kararı münasip yollarla ilan eder ve tatbik imkânlarını sağlar.
+c) Oda haysiyet divanlarınca haklarında meslek icrasından men kararı verilen veteriner hekimler, bu kararın Yüksek Haysiyet Divanınca tasdik edilmiş bulunmasına rağmen mesleklerini icra ederlerse haklarında oda haysiyet divanlarınca ayrıca para cezası verilir.
+ç) Giriş ve yıllık aidatı ile haysiyet divanınca verilmiş her türlü para cezalarını kendilerine yapılan yazılı tebligata rağmen, tebliğ tarihinden itibaren otuz gün içinde ödemeyen oda üyeleri hakkında İcra ve İflas Kanunu hükümleri tatbik olunur.

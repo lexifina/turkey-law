@@ -1,0 +1,2 @@
+Meslektaşlar arası ilişkiler
+MADDE 99 – (1) Veteriner hekimler, kendi aralarında olumlu ve uyumlu meslektaş ilişkileri kurarlar, maddi ve manevi bakımdan birbirlerine yardımcı olurlar, meslekî düşünce ve eylemlerine uzmanlıklarına, bilimsel yetenek ve kişisel becerilerine karşılıklı saygı duyarlar. Uyuşmazlıklarında önce aralarında anlaşma yolu ararlar, bu sağlanamazsa meslek organlarının aracılığına başvurmak zorundadırlar.

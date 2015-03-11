@@ -1,0 +1,3 @@
+Üyelikten ayrılma
+MADDE 43 – (1) Herhangi bir nedenle meslekî etkinliği sürdürmek istemeyen, yedek subaylık, er ve erbaşlık hariç olmak üzere silahlı kuvvetler mensubu olan veya Kanun ve ilgili yönetmeliklere göre üyelikten ayrılmak isteyen üyeler; bu durumu oda yönetim kuruluna yazılı olarak bildirmek, gerektiğinde belgelemek, Oda Kimlik Belgesini geri vermek ve o tarihe kadar ki üyelik ödentilerinin tamamını ödemek koşuluyla odadan ayrılabilirler.
+(2) Kanun ve bu Yönetmelikteki istisna hükümleri saklı kalmak üzere, kaydı silinen üye yeniden üyelik niteliğini kazanıncaya kadar, mesleğini hiçbir surette yapamaz ve veteriner hekim unvanını kullanamaz.

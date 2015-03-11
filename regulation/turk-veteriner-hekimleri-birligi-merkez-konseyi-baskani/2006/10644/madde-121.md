@@ -1,0 +1,5 @@
+Bildirim veya yakınma
+MADDE 121 – (1) Sözlü bildirim veya yakınma, herhangi bir kişinin Merkez Konseyine veya odaya başvurması ve hakkında bildirimde bulunduğu veteriner hekimi ve bu Yönetmeliğin kapsadığı diğer kişileri belirtip iddialarını açıklamasıyla yapılmış olur.
+(2) Bildirim veya yakınmanın sözlü yapılması durumunda yakınmada bulunan kişinin açık kimliği, adresi, hakkında bildirim yapılan veya yakınılan kişinin kimliği, yakınmanın veya bildirimin konusu, maddi olaylar, bildirim günü, varsa konuyla ilgili kanıtları içeren Merkez Konseyi veya oda yönetim kurulu üyelerinden biriyle bildirim veya yakınmada bulunan kişi ve sekreter tarafından imzalanan bir tutanak tutulması zorunludur.
+(3) Yazılı bildirim veya yakınma, ilgili odaya ve Merkez Konseyine verilecek yazıyla yapılır. Bu yazı yukarıdaki hususları içermelidir. Aksi hâlde yakınmayı veya bildirimi yapan kişiden bu hususlar Merkez Konseyi veya oda yönetim kurulları tarafından sağlanmalıdır.
+(4) Kimliksiz, adressiz ve imzasız bildirim veya yakınmalar işleme konmaz.

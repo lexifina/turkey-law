@@ -1,0 +1,2 @@
+Yolluk ödemesi
+MADDE 60 – (1) Oda organları üyeleri ve oda çalışmaları için görevlendirilen üyeler, ikamet ettikleri il sınırları dışında olan oda görevleri nedeniyle, oda yönetim kurulu tarafından belirlenen miktarda yolluk ödeneği alırlar. Büyük Kongre toplantılarına katılacak üyelerin yolluk ve benzeri giderleri, gerekli durumlarda oda bütçesinin ilgili bölümlerinden oda yönetim kurulunca belirlenen miktarlarda ödenir.

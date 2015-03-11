@@ -1,0 +1,9 @@
+BEŞİNCİ BÖLÜM
+Üyelikle İlgili Hususlar
+Üyelik
+MADDE 36 – (1) Veteriner hekimler, Kanun ve ilgili yönetmeliklere göre, veteriner hekim olarak çalışabilmek ve meslekî eğitim yaptırabilmek için bulundukları yerin odasına kaydolmak, Birlik tarafından düzenlenen veteriner hekim kimlik belgesini almak, kimlik belgesini her yıl ocak ayı içinde vize ettirmek ve vecibelerini yerine getirerek üyeliklerini sürdürmek zorundadır.
+(2) Kamu kurum ve kuruluşları ile kamu iktisadî teşebbüslerinde asli ve sürekli görevlerde çalışanlar ve herhangi bir sebeple meslek ve sanatı ile uğraşmayanlardan isteyenler veteriner hekim odalarına üye olabilirler.
+(3) Silahlı kuvvetler mensupları odaya üye olamaz ve organlarında görev alamaz. Ancak, üye olamamaları, kanunlarda belirtilen diğer koşullara uymak kaydı ile meslekleriyle ilgili görevlerde çalışmalarına, meslekî eğitim ve öğretim yaptırmalarına, kurum amirlerinin izniyle kuruluşun bilimsel çalışmalarına katılmalarına, meslekî kural ve koşullara uyma yükümlülüklerine, haklarında haysiyet divanınca disiplin cezası uygulanmasına, kanunların öngördüğü koşullarla mesleklerini serbestçe uygulamalarına resmî veya özel bir görev almalarına engel oluşturmaz.
+(4) Askerlik yükümlülüğünü yerine getirmekte olan yedek subaylar ile er ve erbaşların üyelikleri askerlik hizmetleri süresince dondurulur. Bu durum ilgililerin kanunlardan doğan yükümlülüklerini ve haklarını ortadan kaldırmaz.
+(5) Özel kanunlarında meslek kuruluşlarına üye olamayacaklarına dair hüküm bulunanlar veya üye olmak mecburiyetinde bulunmayan veteriner hekimler meslekî hak, yetki, sorumluluk ve disiplin bakımından bu Yönetmelik hükümlerine tabidirler.
+(6) Oda üyeleri, oda ile ilgili işlemler sırasında Kanun ile kendilerine verilmiş olan unvandan başka herhangi bir unvanı kullanamazlar. Resmî veya özel kurumlarda çalışanlar, bu kadro unvanı yanında meslekî unvanlarını da kullanabilirler.

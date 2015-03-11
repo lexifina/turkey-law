@@ -1,0 +1,5 @@
+Oda haysiyet divanı
+MADDE 31 – (1) Haysiyet divanı, iki yıl için seçilen beş üyeden oluşur. Haysiyet divanı, üyelerinden en az üçü hazır bulunursa toplanır. Kararlar, üye tamsayısının salt çoğunluğuyla alınır. Oylarda eşitlik hâlinde, başkanın bulunduğu taraf üstün tutulur.
+(2) Haysiyet divanı yedek üyeleri, asıl üyeliklerde eksilme oluştuğu takdirde divana, aldıkları oy sırasına göre çağrılır. Haysiyet divanı, ilk toplantısında gizli oyla aralarından bir başkan, bir sözcü ve bir sekreter seçmek suretiyle görev taksimi yapar.
+(3) Haysiyet divanına seçilebilmek için meslekte en az on sene çalışmış olmak şarttır. Odaya kayıtlı üyeler arasında bu özelliğe sahip üye bulunmadığı takdirde beş sene hizmet etmiş bulunanlar arasından seçim yapılır. Haysiyet divanı, en az yedi gün evvel başkanın yazılı daveti üzerine toplanır. İki defa mazeretsiz olarak toplantıya gelmeyen üye istifa etmiş sayılır.
+(4) Haysiyet divanı tutanak ve kararları gizli olur. Kararlar, haysiyet divanı başkanının sorumluluğu altında emin bir yerde saklanır. Haysiyet divanının, kendisine verilen işleri yürütmek için gerekli gördüğü her türlü gider, oda tarafından ödenir.

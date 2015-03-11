@@ -1,0 +1,2 @@
+Kendiliğinden soruşturma
+MADDE 122 – (1) Merkez Konseyi, bildirim veya yakınma olmadan da Kanuna, bu Yönetmeliğe ve Birlik yetkili organlarınca çıkarılan deontoloji ve etik kurallara aykırı hareketlerin varlığı hâlinde, ayrıca; mesleğin, meslektaşlarının, odaların ve Birliğin onur ve itibarını sarsıcı her tür eylem, beyan ve yayında bulunan bu Yönetmelik kapsamındaki kişiler hakkında ilgili odaca soruşturma açılmasını isteyebilir.

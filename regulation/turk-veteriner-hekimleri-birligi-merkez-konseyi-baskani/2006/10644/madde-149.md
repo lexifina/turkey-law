@@ -1,0 +1,2 @@
+VETSEG programlarında devam koşulları
+MADDE 149 – (1) Programa devam etme zorunluluğu en az yüzde yetmiştir. İlgili odanın gerek görmesi hâlinde devam zorunluluğu bu oranın üzerine çıkabilir. Uzun süreli hastalık, kaza, aile fertlerinin birinin vefatı gibi istenmeyen durumlar nedeniyle devam oranının tamamlanamaması hâlinde, ilgili katılımcı hakkında Program Koordinatörünün raporuna dayanılarak Merkez Konseyi tarafından karar verilir.

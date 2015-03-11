@@ -1,0 +1,63 @@
+Disiplin cezaları
+MADDE 116 – (1) Haysiyet divanı, odaya üye olmayan veya Kanunun kendilerine tahmil ettiği diğer vecibeleri yerine getirmeyen ve evrakı divana tevdi edilen oda üyeleri hakkında fiil ve hareketlerinin mahiyetine göre aşağıda yazılı disiplin cezaları verir.
+a) Yazılı ihtar,
+b) Kanunda belirtilen miktarlarda para cezası,
+c) Onbeş günden altı aya kadar meslek icrasından geçici olarak men kararı.
+(2) Cezaların verilmesinde sıra gözetilmez. Ancak, suç sayılan davranışın nitelik ve sonuçlarına göre, bu cezalardan biri uygulanır. Oda haysiyet divanı ve Yüksek Haysiyet Divanı suçun oluşumunu dikkate alarak, gerekçesini belirtmek suretiyle bir üst ceza verebileceği gibi suçun tekrarlanması hâlinde de bir üst ceza uygulanır. Kararda, cezanın niçin verildiği gerekçesi ile birlikte açıklanır.
+(3) Hangi hâllerde ne tür disiplin cezası verileceği aşağıda belirtilmiştir.
+a) Yazılı İhtar: Veteriner hekime veya bu Yönetmelik kapsamındaki kişilere mesleğini uygularken ve/veya meslektaşları ile olan ilişkilerinde daha düzenli bir tutum ve davranış içinde olması gerektiğinin yazı ile bildirilmesidir. Yazılı ihtarı gerektiren fiil ve hâller şunlardır:
+1) Meslektaşları, diğer meslek üyeleri, hasta sahipleri ve halkla ilişkilerinde bu Yönetmelik hükümlerine aykırı davranmak,
+2) Meslekî çalışmaları sırasında öğrendiği sırları kanunî zorunluluk olmadıkça açıklamak,
+3) Mesleğini icra ederken meslek çıkarlarını toplum çıkarlarının üstünde tutmak,
+4) Meslekî nüfuz ve imkânlarını kişisel çıkarları yolunda kullanmak,
+5) Tabela, ilan ve reçete kâğıtlarında kanunen kazanılmış sıfatlar dışında unvanlar kullanmak,
+6) Propaganda ve reklam mahiyetinde çalışma yerlerini ve ihtisaslarını bildirir ilanlar tertip etmek, tabela, ilan, reçete ve bunun gibi yerlerde reklam ve propaganda mahiyetinde biçim ve işaretler kullanmak, yazılı ve görsel yolla reklam ve propaganda yapmak,
+7) Mevzuata uygun olmayan reçete kâğıdı kullanmak,
+8) Mevzuata uygun olmayan biçim ve miktarda ilaç, aşı ve serum bulundurmak,
+9) Birden fazla yerde muayenehane, poliklinik veya hastane açmak,
+10) Meslekten olmayan bir kişinin ya da veteriner hekim unvanı kazanmamış bir yardımcının veteriner hekimliği faaliyetine izin vermek,
+11) Hastaya ilgi göstermemek veya özensiz davranmak,
+12) Başlamış olduğu tedaviyi, hasta hayvanın yaşamının tehlikeye girmesini, sahibinin ekonomik zarar görmesini veya hasta hayvanın çevresine zarar vermesini önleyici tedbirleri almadan bırakmak,
+13) Meslektaşları ile uyumsuz ve olumsuz ilişki içinde olmak, meslektaşını yermek, küçük düşürücü söz, yazı veya harekette bulunmak veya meslekten olmayan birinin meslektaşına karşı bu tür eylemlerine karşı meslektaşını korumamak,
+14) İş yerini bir ayı geçen süreden fazla geçici olarak başka meslektaşına devrettiğinde bağlı olduğu odaya bildirmemek,
+15) Meslek organlarınca düzenlenen eğitim, etkinlik ve toplantılara çağrıldığı hâlde katılmamak,
+16) Görevli olduğu kurumlar ve meslek organlarınca kendilerine verilen görevleri yapmamak, verilen göreve özen ve ivedilik göstermemek,
+17) Stajyer meslektaşlarının yetişmesinde bilgi ve görgülerini aktarabilecek ortamı hazırlamamak, meslekî sevgi ve saygının yerleşmesini, olumlu yönde gelişmesini sağlayacak şekilde hareket etmemek,
+18) Taşıdığı sıfatın gerektirdiği vakara yakışmayan tutum ve davranışta bulunmak,
+19) Görevine ve iş sahiplerine ilgisiz kalmak,
+20) Özel bir maksada dayalı olmaksızın yetkili olmadığı hâlde, mesleğiyle ilgili bilgi sızdırmak,
+21) Mesleği ile ilgili asılsız bilgiler yaymak,
+22) Görev mahallinde uygulanması gereken usul ve esaslara aykırı davranmak,
+23) Hizmet içi ve dışında konumunun gerektirdiği itibar ve güven duygusunu sarsacak nitelikte davranışta bulunmak,
+24) İş arkadaşlarına, hasta ve iş sahiplerine söz veya hareketle sataşmak,
+25) Görev yerinde genel ahlak ve edep dışı davranışlarda bulunmak,
+26) Çıkar sağlamak amacıyla hasta ve iş sahiplerine bilerek yanlış uygulamalar yapmak,
+27) Görevin gereği hazırladığı belgelerde ilgili kanunlarca belirlenen usul ve esaslara uymamak veya bu belgelerde tahrifat yapmak,
+28) Kanun, yönetmelik, yönerge ve Birlik organlarının karar ve talimatlarına uygun hareket etmemek.
+b) Para cezasını gerektiren fiil ve hâller şunlardır:
+1) Mevzuata uygun olarak muayenehane, poliklinik, hastane veya laboratuvar açmadan muayene ve tedavi yapmak,
+2) İş ve ikamet adresi değişikliklerini odaya bildirmemek,
+3) Veteriner hekimin ikametgahı dışında veya birden fazla yerde muayenehane açması,
+4) Genel hekimlik kuralarına aykırı teşhis ve tedavi yapmak,
+5) Mevzuatın gerektirdiği kayıtları tutmamak, usulüne uygun reçete ve evrak kullanmamak,
+6) Oda asgari ücret tarifesinin altında ücret almak,
+7) Kamu dışında çalışan veteriner hekimlerin iş sözleşmelerini odaya onaylatmamaları, odanın uygun görmediği ücret ve sosyal haklar ile çalışmak,
+8) Oda onaylı iş sözleşmesi olmadan gerçek veya tüzel kişi veyahut kurumlara süreli/sürekli hizmet vermek veya bu kuruluşlar adına hizmet vermek,
+9) Meslekî şeref ve haysiyet ihlal edici bir cürüm yüzünden üç yıl veya daha fazla hapis cezasına mahkûm olmak,
+10) Kanunen kazanılmamış meslekî ve akademik unvanları kullanmak,
+11) Geçerli bir mazereti olmaksızın seçimle ilgili oda genel kurulu toplantılarına veya delege olduğu hâlde Büyük Kongreye katılmamak,
+12) Aidat ve oda yönetim kurulu tarafından belirlenen ödentileri zamanında ödemeyerek kanunî takibata sebebiyet vermek, oda üyelik görevlerini yerine getirmemek,
+13) İş yerlerinde, 28/2/2001 tarihli ve 4631 sayılı Hayvan Islahı Kanununa göre, hayvan sağlığında kullanılan ilaçları bulunduran ve satan veteriner hekimlerin etiket üzeri fiyat uygulamasına uymamaları,
+14) Kanunun 55 inci maddesi gereğince haklarında meslek icrasından men kararı verilen veteriner hekimlerin, cezaları Yüksek Haysiyet Divanınca tasdik edilmiş ve tebliğ edilmiş bulunmasına rağmen mesleklerini icra etmeleri,
+15) Yürüttüğü görevle ilgili konularda yalan ve/veya yanlış beyanda bulunmak,
+16) Görevi gereği verilen belgelerde tahrifat yapmak, tahrif edilmiş belgeleri kullanmak veya başkalarına kullandırmak,
+17) Gerçeğe aykırı rapor veya belge düzenlemek,
+18) Mesleğini ve diplomasını başkalarının rant sağlaması amacına uygun kullanılmasına imkân vermek,
+19) Hayvan sağlığını korumada ihmalde bulunmak.
+c) Meslek icrasından geçici olarak men cezasını gerektiren fiil ve hâller şunlardır:
+1) Görev yaptığı bölgenin odasına kayıtlı olmadan veteriner hekimlik mesleğini icra etmek,
+2) Çıkar sağlamak amacıyla bilerek usule uygun olmayan tedavi yapmak veya ekonomik kayba yol açmak,
+3) Duyurulması zorunlu hayvan hastalıklarının ilgili kurumlara bildirilmesine kayıtsız kalmak,
+4) Salgın hayvan hastalıklarıyla savaşta uyulması gereken kuralları yerine getirmemek,
+5) Hayvanlara eziyet etmek,
+6) İnsan sağlığını tehdit eden hayvansal gıdaların üretimi, korunması ve tüketimi sürecinde görevini savsaklamak.

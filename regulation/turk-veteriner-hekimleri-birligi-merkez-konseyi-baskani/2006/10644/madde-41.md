@@ -1,0 +1,3 @@
+Kayıtların güncelleştirilmesi
+MADDE 41 – (1) Odalar üye kayıtlarını takip etmekle yükümlüdür. Her takvim yılının son ayında kayıtlı üyelerin durumları gözden geçirilerek üyeye ait tüm bilgilerin güncel hâle getirilmesi zorunludur. Güncellenen üye bilgileri her yıl ocak ayı içinde Merkez Konseyine gönderilir.
+(2) Merkez Konseyince hazırlanan program ile üye kayıtları Birliğin merkezi üye kayıt sistemi içerisinde düzenlenir ve takip edilir. Üye kayıt listelerinin kontrolü ile odalarda mükerrer kayıtların düzeltilmesi için gerekli işlemler, Merkez Konseyince yönlendirilir ve oda yönetim kurullarınca düzeltilir.
