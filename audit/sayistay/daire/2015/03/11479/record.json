@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10445",
+  "decision_date": "2015-03-11",
+  "source_id": 11479,
+  "chamber": "1",
+  "ilam_number": "190",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11479/",
+  "source_sha256": "ee46e6684894987bcb9aa4574b448d089cae46b77e81a5da60aaa08faef15f32",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
