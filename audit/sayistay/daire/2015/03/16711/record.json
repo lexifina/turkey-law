@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10447",
+  "decision_date": "2015-03-12",
+  "source_id": 16711,
+  "chamber": "1",
+  "ilam_number": "358",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16711/",
+  "source_sha256": "be800d0c73c7abb401fa3db3c3eb4a77dd358b3f5bbc0aecdcf3112faafa3e87",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
