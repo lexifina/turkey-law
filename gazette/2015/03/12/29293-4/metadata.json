@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-03-12",
+  "issue": "29293",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Teknik Üniversitesi Öğrenci Yurtları Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/03/20150312-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/03/20150312.htm",
+  "index_sha256": "8b80e33160c12f054b64cde9427afb50ad22bd30bc9891d37d4d6858e8a45a79",
+  "index_header": "12 Mart 2015 ... 29293 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/03/20150312.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
