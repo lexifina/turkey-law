@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-03-12T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-03-12",
+  "official_number": "57062627-Katma Değer Vergisi-3",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30396",
+  "source_id": "ozelge:30396",
+  "source_row_sha256": "b39ef002bd9f78d1573d12a22bc10a7826d93605681dceadc83f235f199f865c",
+  "title": "Anket hizmetinde KDV tevkifatı hk.",
+  "version_label": "as-enacted",
+  "word_count": 425
+}
