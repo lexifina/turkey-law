@@ -1,0 +1,7 @@
+Taşınmaz Satışı
+
+Belediye taşınmazlarının, gelirlerinin incelenmesinde ve Sayıştaya intikal eden dilekçeler ve eklerinin incelenmesinde, Belediye tarafından, “… Mahallesi … ada … no.lu parseldeki … m2, … ada … parseldeki … m2, Merkez … Mahallesi … ada … parseldeki … m2, … ada … parseldeki, … ada ... parseldeki … m2, Merkez … Köyü … ada … parseldeki … m2, … ada … parseldeki … m2, … ada … parseldeki … m2”  satışında, söz konusu taşınmazların, birim m2 ve toplam piyasa rayiç fiyatlarının belirlenmesinde, mevzuatın zorunlu olarak öngördüğü hesaplama ve araştırmaların yapılmadığı, muhammen bedel tespitlerinde, ilgili dayanakların da eklendiği hesap tutanaklarının bulunmadığı iddia edilmiş olsa da;
+
+Denetçi tarafından yapılan sorgu konusunun; gayrimenkullerin satışına ilişkin bedel belirlenmesinde araştırma ve hesaplamanın yapılmadığı şeklindeki iddia ve imar uygulamalarına ait tespit ve değerlemelerine ait olduğu anlaşılmışsa da, konu ile ilgili kamu zararı tespiti yapılmamış olduğu, konu ile ilgili hukuka aykırılıkların net olarak ortaya konulmadığı, buna mukabil muğlak ifadelerle hukuka uygunluk veya aykırılık iddialarında bulunulduğu, sorgu konusu hususların ele alınış tarzı ile Sayıştay Yargısına konu edilemeyecek boyutta bulunduğu, 3194 sayılı İmar Kanununun 17’nci maddesi uyarınca gerekli araştırmalar ve fiyat tespitleri yapılarak satışı yapılan ve idarenin rutin imar uygulamaları çerçevesinde gerçekleştirdiği iş ve işlemlerle ilgili olduğu görüldüğünden,
+
+Sorgu konusu hakkında ilişilecek bir husus bulunmadığına oy birliğiyle,
