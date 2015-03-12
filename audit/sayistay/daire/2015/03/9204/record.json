@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10449",
+  "decision_date": "2015-03-12",
+  "source_id": 9204,
+  "chamber": "1",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9204/",
+  "source_sha256": "71fb682b968e91534d7aac1987479e9422ef022630fea7df5b014fd7315d8d45",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
