@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10447",
+  "decision_date": "2015-03-12",
+  "source_id": 16708,
+  "chamber": "1",
+  "ilam_number": "358",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16708/",
+  "source_sha256": "1909193761d2136b11928d8881da2fe52a742b94b9fa6186f2bcb247e7b1b77b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
