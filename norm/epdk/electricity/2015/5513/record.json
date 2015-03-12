@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5513",
+  "decision_date": "2015-03-12",
+  "title": "20/11/2014 tarihli ve 5313-1 sayılı Kurul Kararı ile kabul edilen ve 24/12/2014 tarihli ve 29215 sayılı Resmî Gazete’de yayımlanan “Enerji Piyasası Bildirim Sistemi Kullanım Talimatı”nın değiştirilmesine İlişkin Karar",
+  "resmi_gazete_date": "2015-03-20",
+  "resmi_gazete_number": "29301",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lVtE8wvHJNw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lVtE8wvHJNw="
+  ],
+  "source_sha256": "786aef27976f5e92073417442d630796cd7a3ef8273f7db9fe4e897cc8319b6f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2015-03-12",
+  "law_text_complete": true
+}
