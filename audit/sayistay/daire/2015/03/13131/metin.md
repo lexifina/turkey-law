@@ -1,0 +1,7 @@
+YİD Modeli İhaleye Çıkılması
+
+Yüksek Planlama Kuruluna müracaat edilmeden ve izin alınmadan, “Yap-işlet-devret modeli ile 20 yıllığına Portatif Sistem Çelik Konstrüksiyon katlı otopark yapılması işi” için otoparkın yapılacağı yerde, henüz mülkiyeti belediyeye geçmeyen ve hukuki açıdan geçip geçmeyeceği de kesin olarak belli olmayan dava konusu parsellerin bulunmasına rağmen işin ihalesine çıkıldığı iddia edilmiş olsa da;
+
+Gönderilen savunmalarda yer alan; “... Söz konusu yapım işi ihalesi 2886 sayılı Kanun çerçevesinde değerlendirilmiş olup; yapım işinin  “yap işlet devret modeli” ile olması durumu; dolayısıyla 3996 sayılı Kanun ve maddeleri sehven incelenmemiş ve gerekleri yerine getirilmemiştir. Ancak söz konusu ihale gerçekleşmemiş olup encümen tarafından ilgili müdürlüğe iade edilmiştir. Dolayısıyla kamu zararı oluşmamıştır. …”
+
+Şeklindeki açıklamalar uyarınca, söz konusu işin, “yap işlet devret modeli” ile olması durumunun, sehven incelenmemiş ve gereklerinin yerine getirilmemiş olduğu, denetim sonrası ihalenin gerçekleştirilmemiş olduğu, mevzuat açısından, hukuki açıdan yeterli hazırlık yapılmadan encümen gündemine getirildiği ve özetle sonuç olarak bundan sonraki ihalelere ve diğer resmi işlemlere yönelik uygulamalarda hukuki gerekçelere dayandırılarak uygulamaların yapılmasına özen gösterileceği ifade edildiğinden sorgu konusu hakkında ilişilecek bir husus bulunmadığına oy birliğiyle,
