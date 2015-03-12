@@ -1,0 +1,37 @@
+Yemek parası istisna tutarındaki artış, eksik işçi çalıştırılması
+
+...............Belediyesi tarafından .......tarihinde Yüklenici ........’ye ihale edilen “................................Alımı İşi” nde;
+
+A-) Söz konusu hizmet alım işi kapsamında çalışan işçiler için, Belediye tarafından Yükleniciye yapılacak hakediş ödemeleri kapsamında ödenmesi gereken işçi ücretlerinin unsurlarından olan yemek parasının, Belediye tarafından ödenecek olan sigorta primine esas alınan matrahtan istisna tutulan kısmında, ihale tarihinden sonra asgari ücretin artırılmasına bağlı olarak meydana gelen artıştan kaynaklanan farkın Yükleniciye yapılan hakediş ödemelerinden kesilmemesi sonucunda ..................TL tutarında kamu zararına neden olunduğu,
+
+B-) Söz konusu hizmet alım işi kapsamında çalışan işçiler için, eksik işçilik olmadığı aylarda hizmet gün toplamı 1800 gün olmakla birlikte, sigorta hizmet döküm belgelerinin incelenmesinden anlaşıldığı üzere, eksik işçi çalışmış olması sebebiyle aylık hizmet gün toplamının 1800 gün olmadığı aylarda da işçilere tam gün üzerinden ödemede bulunulması sonucunda .....................TL tutarında kamu zararına neden olunduğu,
+
+Konularıyla ilgili olarak;
+
+A-) 07.05.2004 tarih ve 25455 sayılı Resmi Gazete’de yayımlanan 4734 sayılı Kamu İhale Kanununa Göre İhalesi Yapılacak Olan Hizmet Alımlarına İlişkin Fiyat Farkı Hesabında Uygulanacak Esaslar (Değişikliklerin İşlenmiş Hali)’ın Asgari ücret ve diğer işçilik maliyetlerindeki değişiklikten kaynaklanan fark (Değişik: 07.05.2004- 25455/ 3 md.) başlıklı 8 inci maddesinde; “İhale konusu hizmetin gerçekleştirilebilmesi için çalıştırılacak 506 sayılı Sosyal Sigortalar Kanununa tabi personelin, sayı ve günlük çalışma saatinin belirtilmesi kaydıyla;
+
+a) Asgari ücret tespit komisyonunca ihale (son teklif verme) tarihinde 16 yaşını doldurmuş işçiler için belirlenmiş asgari ücretin değiştirilmesi halinde eski ve yeni asgari ücret arasındaki fark,
+
+b) İhale (son teklif verme) tarihi itibarıyla işveren tarafından karşılanacak olan sosyal sigorta primi ve işsizlik sigortası primine ilişkin toplam tutarda; asgari ücret değişikliği veya sigorta primi alt sınır değişikliği ile prim oranlan değişikliği gibi sebeplerle meydana gelecek fark,
+
+c) 506 sayılı Kanunun 77 nci maddesinin ikinci fıkrası çerçevesinde sözleşmede öngörülen ücret ekleri nedeniyle, işveren tarafından karşılanmakta olan sosyal sigorta primi ve işsizlik sigorta primine ilişkin toplam tutarda meydana gelecek fark,
+
+toplamı (a), (b) ve (c) bentleri toplamı), 506 sayılı Kanun gereğince işveren nâm ve hesabına Hazinece yapılacak olan ödemeler de dikkate alınmak suretiyle bu Esasların 7 nci maddesi uygulanmaksızın ödenir veya kesilir.” denilmek suretiyle prim oranları değişikliği gibi sebeplerle meydana gelecek farkların yükleniciye ödeneceği yada yükleniciye ödenecek olan hakedişlerden kesileceği ifade edilmiştir.
+
+29.01.2004 tarih ve 25361 sayılı Resmi Gazete’de yayımlanan “Sigorta Primlerinin Hesabına Esas Tutulacak Kazançların Aylık Tutarının Tespitinde Nazara Alınmayacak Olan Yemek Parası ile Çocuk ve Aile Zamlarının Günlük ve Aylık Tutarlarının Tespitine İlişkin Tebliğ” in 4 üncü maddesinin (a) bendinin Yemek Paraları başlıklı kısmında;
+
+“506 sayılı Kanunun yukarıda açıklanan madde hükmünün uygulanmasında, sigortalılara yemek parası adı altında yapılan ödemelerin işyerinde veya müştemilatında yemek verilmemesi şartıyla fiilen çalışılan gün sayısı dikkate alınarak 16 yaşından büyükler için her yıl belirlenen günlük asgari ücretin %6'sının yemek verilecek olan gün sayısı ile çarpılması sonucunda bulunacak miktarının aylık sigorta primine esas kazançların hesaplanmasında dikkate alınmaması, dolayısıyla bu tutardan sigorta primi kesilmemesi,” hükmü yer almaktadır.
+
+Yukarıda belirtilen mevzuat hükümlerine göre, günlük asgari ücretin %6'sının yemek verilecek olan gün sayısı ile çarpılması sonucunda bulunacak olan rakamın aylık sigorta primine esas matraha dahil edilmeden prim hesaplanması gerekmektedir. Diğer bir ifade ile, sigorta primlerinin hesabına esas tutulacak kazançların aylık tutarının tespitinde nazara alınmayacak olan yemek parası söz konusu matrahtan düşülecektir. Ayrıca, her asgari ücret artışında da, söz konusu yemek parası istisna tutarının yeniden hesaplanarak prim matrahından indirilmesi mevzuatın öngördüğü prim hesaplama yöntemidir. Bu şekilde yapılmadığı takdirde, ihale tarihinden sonraki her asgari ücret artışında, Belediye tarafından ödenecek olan sigorta primine esas alınan matrahtan düşülmesi gereken aylık yemek parası istisna tutarında bir artış meydana gelecek ve matrahtan düşülmeyen bu istisna artışı Yüklenici için haksız bir kazanç oluşturacaktır.
+
+Uygulamada ise, .............Belediyesi tarafından ihale edilen “............................................... İşi” nde; ihale tarihinden sonraki yıllarda, (asgari ücretin artması sebebi ile) aylık yemek parası istisna tutarındaki artıştan kaynaklanan prim eksilişinin Yükleniciye yapılan hakediş ödemelerinden kesilmemesi sonucunda......................TL tutarında kamu zararına yol açılmıştır. Ancak, sorumlular tarafından gönderilen ortak nitelikteki savunmada, ......................TL tutarındaki kamu zararının tahsil edildiği bildirilmiştir.
+
+Bu itibarla, .................................. İşi kapsamında çalışan işçiler için hesaplanan sigorta prim hesabından istisna tutulan yemek parası istisna tutarındaki artıştan kaynaklanan farkların, Yükleniciye ödenen hakedişlerden kesilmemesi sonucunda neden olunan ................TL tutarındaki kamu zararı ...... tarih ve ..... muhasebe işlem fişi ile Ahiz ...............A.Ş.’den tahsil edildiğinden ilişilecek husus kalmadığına oybirliğiyle,
+
+B-) 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu’nun Prim alınması zorunluluğu başlıklı 79 uncu maddesinde; “Kısa ve uzun vadeli sigortalar ile genel sağlık sigortası için, bu Kanunda öngörülen her türlü ödemeler ile yönetim giderlerini karşılamak üzere Kurum prim almak, ilgililer de prim ödemek zorundadır.
+
+Kurumca tahsil edilen genel sağlık sigortası primleri, tahsil edilmesini müteakip doğrudan Kurum bütçesinin genel sağlık sigortası kalemine aktarılır.” denilmektedir.
+
+....... Kurumuna ödenecek olan sigorta primleri hesabının ilgili firmanın ......Kurumu'na  bildirmiş olduğu İşçilik hizmet dökümülerine ilişkin Tahakkuk Fişlerinde belirtilen çalışılan gün sayısı üzerinden yapılması gerekmektedir. Diğer taraftan da, Belediye tarafından yüklenici firmaya ödenecek olan işçilik giderlerinin hesap şeklide, aynı şekilde söz konusu Tahakkuk Fişlerinde belirtilmiş olan çalışılan gün sayısına uygun olmalıdır. Dolayısıyla, söz konusu Hizmeti Alımı İşinde çalışan işçilere, eksik çalışılan günler için ödeme yapılması mümkün değildir. Uygulamada ise, bahsi geçen “................................... İşi” nde; Yükleniciye çalışılmayan günler için işçilik ödemesi yapılmak suretiyle toplam ............................TL tutarında kamu zararına yol açılmıştır. Ancak, sorumlular tarafından gönderilen ortak nitelikteki savunmada, ............................TL tutarındaki kamu zararının tahsil edildiği bildirilmiştir.
+
+Bu itibarla, ............................................ Alımı İşi kapsamında çalışan işçiler için İşçilik hizmet dökümünde belirtilen çalışılmayan günler için ödeme yapılması sonucu neden olunan ........................TL tutarındaki kamu zararı .......tarih ve ..... nolu muhasebe işlem fişi ile Ahiz ................. A.Ş.’den tahsil edildiğinden ilişilecek husus kalmadığına oybirliğiyle karar verildi.
