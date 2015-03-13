@@ -1,0 +1,3 @@
+Ödemeler için gerekli finansman ve ödeme planı
+MADDE 8 – (1) Mazot, gübre ve toprak analizi destekleme ödemeleri için gerekli finansman bütçenin ilgili kalemlerine tahsis edilen ödeneklerden karşılanır. Ödemeler, Bakanlık tarafından Bankaya kaynak aktarılmasını müteakip, il/ilçe müdürlüklerince ÇKS’deki kayıtlara göre oluşturulan onaylı MGTAD İcmal 1’lere göre, Banka aracılığıyla, ilgili şubelerde daha önce çiftçiler adına açılan veya açılacak olan hesaplara yapılır.
+(2) 2014 üretim yılı mazot, gübre ve toprak analizi destekleme ödemesi planı, mazot, gübre ve toprak analizi desteklemesi başvurusu yapan çiftçilere ait bilgilerin, ÇKS’ye girişinin il ve ilçelerde tamamlanmasını müteakiben Bakanlık tarafından belirlenir.

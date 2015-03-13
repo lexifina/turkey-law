@@ -1,0 +1,55 @@
+{
+  "source_id": "9.5.19732",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÇİFTÇİ KAYIT SİSTEMİNE DAHİL OLAN ÇİFTÇİLERE MAZOT, GÜBRE VE TOPRAK ANALİZİ DESTEKLEME ÖDEMESİ YAPILMASINA DAİR TEBLİĞ(TEBLİĞ NO: 2014/20)",
+  "number": "19732",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2014/19732",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19732&MevzuatTertip=5",
+  "source_sha256": "1150f9a6fb593dfda8b7481011426c85d4b60b6e7f3e677bfc95edae53ecc38d",
+  "source_bytes": 51117,
+  "published": "2014-06-03",
+  "gazette": "29019",
+  "in_force": "2015-03-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/3/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-03-13",
+      "RG-13/3/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-03-13",
+      "13/3/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-08-30",
+      "RG-30/8/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-08-30",
+      "30/8/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2014 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2208,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19732-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
