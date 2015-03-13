@@ -1,0 +1,7 @@
+Üst kurulun toplanması, karar nisabı ve gündem
+MADDE 6 – (1) Üst Kurul, tam gün esasına göre çalışır, haftada birden az olmamak üzere en az beş üye ile toplanır ve en az beş üyenin aynı yönde oyuyla karar alır. Çekimser oy kullanılamaz. Geçerli mazereti olmaksızın üst üste iki, bir ay içerisinde üç defa toplantıya katılmayan Üst Kurul üyeleri üyelikten çekilmiş sayılır. Bu durum, Üst Kurul kararı ile tespit edilir ve Türkiye Büyük Milleti Meclisi Başkanlığına bildirilir. Üyeler, geçerli mazeretlerini Üst Kurula sunulmak üzere yazılı olarak Başkana bildirirler. Toplantı gün ve saati Başkan, yokluğunda Başkan Vekili tarafından belirlenir.
+(2) Toplantı gündemi Başkan, yokluğunda Başkan Vekili tarafından hazırlanır. Gündem ile gündem konularına ilişkin yazı ve ekleri toplantıdan en az bir gün önce Üst Kurul büro hizmetlerinden sorumlu müdür vasıtasıyla Üst Kurul üyelerine bildirilir.
+(3) Üst Kurul, gündemine hakimdir.
+(4) Toplantılarda gündeme bağlılık esastır. Ancak, toplantıda gündeme yeni bir madde eklenmesi bir üyenin önerisi üzerine Üst Kurulca karara bağlanır. Başkanın gerekli hallerde gündem dışı madde ilave etme hakkı saklıdır.
+(5) Bir toplantıda gündem maddelerinin görüşülmesi bitirilemezse, görüşülemeyen maddeler herhangi bir işleme gerek kalmaksızın bir sonraki toplantı gündemine taşınır.
+(6) Toplantılar esas itibariyle Üst Kurul merkezinde yapılır. Üst Kurul merkezi dışındaki yerlerde de toplantı yapılabilmesi Üst Kurulca kararlaştırılabilir.
