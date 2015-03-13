@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-03-13T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-03-13",
+  "official_number": "39044742-KDV. 28-439",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32568",
+  "source_id": "ozelge:32568",
+  "source_row_sha256": "ca80f26e3ea76a43c8ef7c840ce4c91f13bb437e6fada48ef37589a6ae6e5701",
+  "title": "Mum boya kaleminin KDV oranı hk.",
+  "version_label": "as-enacted",
+  "word_count": 295
+}
