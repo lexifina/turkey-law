@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/360",
+  "list_number": "360",
+  "decision_date": "2015-03-14",
+  "title": "Sandık kurulu başkanlarının belirlenmesi için ilçe seçim kurulunun, siyasi partilerden seçilmiş asıl üyelerince verilecek listelerin teslimi sırasında belge istenemeyeceğine, itiraz halinde 298 sayılı Kanun'un 22. maddesi uyarınca yapılacak işlemlerde istenecek belgelerin ilçe seçim kurulunun takdirinde olduğuna ilişkin Yüksek Seçim Kurulunun 2015/360 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2178/2015-360.pdf",
+  "source_sha256": "635da08502217e607d064d8ec2a36d6f46aed75be329fa8e5e8aa5a1e6acccd0",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-03-14",
+  "law_text_complete": false
+}
