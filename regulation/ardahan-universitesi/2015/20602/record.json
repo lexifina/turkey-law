@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2015-03-14",
+      "14.03.2015",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29295",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-03-14",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ardahan Üniversitesi",
+  "issuer_slug": "ardahan-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ardahan-universitesi/2015/20602",
+  "published": "2015-03-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20602&MevzuatTertip=5",
+  "source_bytes": 25960,
+  "source_id": "8.5.20602",
+  "source_sha256": "ae93b269d3a0bb905d5874161e656eb9809e7a4ba8933e4a774fc599c29a05b0",
+  "text_status": "as-enacted",
+  "title": "ARDAHAN ÜNİVERSİTESİ ARDAHAN EKONOMİK VE SOSYAL UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 325,
+  "word_count": 1003
+}

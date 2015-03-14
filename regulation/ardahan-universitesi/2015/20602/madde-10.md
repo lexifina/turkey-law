@@ -1,0 +1,2 @@
+Müdür yardımcıları
+MADDE 10 – (1) Müdürün önerisi üzerine, Üniversitenin ilgili bölümlerinde görevli öğretim elemanları arasından en çok iki kişi, Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdür yardımcıları, faaliyetlerinin yürütülmesinde Müdüre yardımcı olmakla görevlidir. Müdürün katılmadığı toplantılara müdür yardımcısı başkanlık eder. Müdürün görev süresinin dolması veya herhangi bir sebeple görevinden ayrılması halinde müdür yardımcılarının da görevi sona erer.
