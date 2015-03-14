@@ -1,0 +1,20 @@
+{
+  "applicant": "B.Ç.",
+  "application_date": "2013-04-09",
+  "application_number": "2013/2349",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2014-11-20",
+  "id": "33c09f48-8226-f6fd-c124-dc71f3ec4f0a",
+  "in_force": "2015-03-14",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2015-03-14",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjMzYzA5ZjQ4LTgyMjYtZjZmZC1jMTI0LWRjNzFmM2VjNGYwYQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "73bac37487ebbe55fc114750ec86d8e0daafb72a3423f655bba4c2209538a550",
+  "version_label": "as-enacted"
+}
