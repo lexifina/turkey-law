@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-03-15",
+  "issue": "29296",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Osmangazi Üniversitesi Yunusemre Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/03/20150315-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/03/20150315.htm",
+  "index_sha256": "e9df2e10ec4325bb0daae0ecd457e47a13bfef6e2dbb5c7a75ce2fb08c027807",
+  "index_header": "15 Mart 2015 ... 29296 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/03/20150315.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
