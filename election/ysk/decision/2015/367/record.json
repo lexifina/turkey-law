@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/367",
+  "list_number": "367",
+  "decision_date": "2015-03-15",
+  "title": "7 Haziran 2015 tarihinde yapılacak 25. Dönem Milletvekili Seçiminde Muhafazakar Yükseliş Partisi, Özgürlük ve Dayanışma Partisi ile Türkiye Komünist Partisi'nin, 2820 sayılı Siyasi Partiler Kanunu'nun 37. maddesinin ikinci fıkrası uyarınca, adaylarını merkez yoklaması usulü ile belirleyebileceğine ilişkin Yüksek Seçim Kurulunun 2015/367 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2172/2015-367.pdf",
+  "source_sha256": "1c9812798536c1815bd8ac1f44b0467baa86a43b5757bb5bc398c1d0b8e0ae2f",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-03-15",
+  "law_text_complete": false
+}
