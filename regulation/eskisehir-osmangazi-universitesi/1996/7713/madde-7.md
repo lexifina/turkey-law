@@ -1,0 +1,1 @@
+Madde 7- Genel Kurul her yılın Kasım ayında bir defa olağan, ayrıca Müdürün gerekli gördüğü durumlarda Müdürünün çağrısı üzerine, Müdürün başkanlığında olağanüstü toplanır. Genel Kurul salt çoğunlukla toplanır.

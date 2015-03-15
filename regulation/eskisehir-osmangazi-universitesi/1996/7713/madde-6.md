@@ -1,0 +1,2 @@
+Madde 6-(Değişik :RG-15/3/2015-29296)
+Genel Kurul; Rektör, Fen-Edebiyat Fakültesi Dekanı, Sosyal Bilimler Enstitüsü Müdürü, YUMER Müdür ve Müdür Yardımcıları ile Türk Dili ve Edebiyatı, Tarih, Karşılaştırmalı Edebiyat Bölümlerinden ikişer, İlahiyat, İktisadi ve İdari Bilimler, Eğitim ve Turizm Fakültelerinden birer olmak üzere Rektör tarafından görevlendirilen on öğretim üye veya elemanından oluşur.

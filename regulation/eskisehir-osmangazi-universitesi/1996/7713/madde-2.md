@@ -1,0 +1,2 @@
+Tanımlar
+Madde 2- Bu Yönetmelikte Üniversite, (Değişik ibare:RG-15/3/2015-29296) Eskişehir Osmangazi Üniversitesi’ni; Rektör, bu üniversiteni Rektör’ünü; Fakülte, (Değişik ibare:RG-15/3/2015-29296) Eskişehir Osmangazi Üniversitesi Fen Edebiyat Fakültesini; Dekan, bu fakültenin dekanını; Merkez, (Değişik ibare:RG-15/3/2015-29296) Eskişehir Osmangazi Üniversitesi (Değişik ibare:RG-15/3/2015-29296) Yunus Emre Araştırma Merkezini ve Müdür, bu merkezin müdürünü ifade eder. Ayrıca bölümler, Fen Edebiyat Fakültesinin adı belirtilen bölümlerini ifade eder.
