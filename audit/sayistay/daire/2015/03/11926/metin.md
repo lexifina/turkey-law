@@ -1,0 +1,5 @@
+Döner sermaye katkı payı
+
+“Sürekli Eğitim Merkezi bünyesinde ............. Çalışma ve İş Kurumu İl Müdürlüğü ile imzalanan sözleşme kapsamında yürütülen istihdam garantili “Moda Tasarımcısı” eğitiminde, görevlendirilen kişilere görev süresi dışında ödeme yapılması, bazı dönemler için mükerrer ödemede bulunulması ve görevli bulunmayan kişilere ödeme yapılması konuları sorgu konusu edilmiştir.
+
+Her ne kadar ödemelere ilişkin Yönetim Kurulu Kararının 15.02.2013 tarihinde alındığı görülmüşse de, savunma ekinde gönderilen belgelerden eğitimle ilgili fiili sürecin (ilk grubun eğitimi) 17.07.2012 tarihinde başladığı ve eğitimlerin (onuncu grubun eğitimi) 03.05.2013 tarihinde bittiği; … nolu ödeme emri belgesi ile yapılan ödemelerin 01 Ocak-15 Şubat arası dönemi, … nolu ödeme emri belgesi ile yapılan ödemelerin ise Mart-Nisan arası dönemi kapsadığı, 15.02.2013 tarihli Yönetim Kurulu Kararının 6 ncı maddesinde isimleri bulunmayan danışman öğretim üyelerine yapılan toplam ………… TL ödemenin savunmada belirtilen nedenlerle fiili olarak bu görevi yürüten kişilere yapıldığı ve mevzuatına uygun olduğu anlaşıldığından konu hakkında ilişik bulunmadığına oybirliğiyle,
