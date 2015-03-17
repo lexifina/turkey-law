@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "214",
+  "decision_date": "2015-03-17",
+  "source_id": 11864,
+  "chamber": "6",
+  "ilam_number": "215",
+  "item_number": 13,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11864/",
+  "source_sha256": "6dc4e5e9f7b02395515112f4d0de5abc84d3b6595f0e54d412b95293b3e6decb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
