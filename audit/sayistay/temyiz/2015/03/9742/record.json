@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40163",
+  "decision_date": "2015-03-17",
+  "source_id": 9742,
+  "chamber": "8",
+  "file_number": "36205",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9742/",
+  "source_sha256": "27018a798c8b02db4f86423b505ff92471fc0d6ee4d4ab916664b0fea98542a3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
