@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "214",
+  "decision_date": "2015-03-17",
+  "source_id": 11858,
+  "chamber": "6",
+  "ilam_number": "215",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11858/",
+  "source_sha256": "3105dd30d79b025318861f5ac55861b9a31787e918ba776c977376e67a1d945f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
