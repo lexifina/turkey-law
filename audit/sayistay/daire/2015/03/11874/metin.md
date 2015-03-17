@@ -1,0 +1,9 @@
+Gelir Otomasyon Sisteminde Gerçekleştirilen İptal İşlemleri
+
+Denetçi sorgusunda yer alan; ….Belediyesinin gelir otomasyon sisteminde gerçekleştirilen iptal işlemlerine ilişkin olarak; muhasebe tahakkuk ve sicil kayıtlarında gerçekleştirilen nihai işlemlere, mükelleflerin mükellefiyet durumlarının devam edip etmediğine ve iptal edilen işlemlerin iptal sebepleri ve yasal dayanaklarına ilişkin somut gerekçe ve belge bilgilerine (belge türü, sayı, tarih vb.) yer verilmediği, ayrıca iptal edilen işlemlerin yerine başka bir işlem tesis edilip edilmediğine ilişkin benzer bağlantı ve açıklama bilgilerinin bulunmadığı iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+10.03.2006 tarih ve 26104 sayılı Mahalli İdareler Bütçe ve Muhasebe Yönetmeliği’nin “Kayıtların belgeye dayanması ve işlemlerin muhasebe kayıtlarında gösterilmesi ” başlıklı 461’inci maddesi uyarınca, her muhasebe kaydının bir belgeye dayanması ve mali sonuç doğuran bütün işlemlerin muhasebe kayıtlarında gösterilmesi zorunludur.
+
+Bahse konu Rapor maddesinde ise, her ne kadar Denetçisince ….Belediyesinin gelir otomasyon sisteminde mükellefiyet işlemlerinde yapılan iptal işlemlerine ilişkin bilgilere yer verilmediği iddia edilmiş ise de, sorumlularca yapılan açıklamalardan, sonlandırılan mükellefiyetlere ilişkin bilgilerin otomasyon sisteminde her kayıt için gerekçe ve nedenleriyle mevcut olduğu ve otomasyon programının işleyişi gereği herhangi bir gerekçe göstermeden (gerekçe kodları sisteme girilmeden) mükellefiyet sonlandırma işlemi yapılamadığı ve sicil ve mükellef isimleri ile sorgulama yapıldığı takdirde ayrıntılı bilgilere ulaşılabildiği anlaşılmıştır.
+
+Bu itibarla, sorgu konusu edilen mükellefiyet iptal işlemlerine ilişkin olarak sorumlularca yapılan savunmalar doğrultusunda yapılacak işlem bulunmadığına, oy birliğiyle
