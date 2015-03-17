@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35306",
+  "decision_date": "2015-03-17",
+  "source_id": 11920,
+  "chamber": "2",
+  "ilam_number": "189",
+  "item_number": 7,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11920/",
+  "source_sha256": "a9cdef92be781112bd6d0f2e9ab657b5f9fa52611b8ef1c9e1160cdca8aaeff7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
