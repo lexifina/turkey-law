@@ -1,0 +1,3 @@
+Ek Ders Ücreti
+
+Fen Bilimleri Enstitüsünde ders veren bazı öğretim elemanlarına, geçici görevle yurtdışında ya da yurtiçinde başka bir ilde bulundukları ve ders görevini fiilen gerçekleştirmelerinin mümkün olmadığı dönemler ile izin kullandıkları dönemler için ek ders ücreti ödendiği görülmüşse de, toplam kamu zararı tutarı olan ….. TL’den ….. TL’sinin aşağıda yer alan tabloda yazılı belgelerle tahsil edildiği görüldüğünden konu hakkında ilişik kalmadığına; kalan ….. TL’den ….. TL’sinin Doç. Dr. ………’in yurtdışı görevlendirmesinin iptal edilmesi, ….. TL’sinin Prof. Dr. ………’nin izin bilgisinin sisteme yanlış girilmesi nedeni ile oluştuğu anlaşıldığından …… TL için hesap ve işlemlerin yasal düzenlemelere uygunluğuna oybirliğiyle,
