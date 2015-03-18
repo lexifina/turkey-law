@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/379",
+  "list_number": "379",
+  "decision_date": "2015-03-18",
+  "title": "10 Şubat 2015 tarihinden önce görevine son verilenlerden, milletvekili aday adayı olmak için müracaatlarından sonra mahkeme kararıyla göreve iade edilmeleri durumunda, fiilen memuriyet görevine başladığı takdirde aday olamayacağına ilişkin Yüksek Seçim Kurulunun 2015/379 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2166/2015-379.pdf",
+  "source_sha256": "1028a90b8724cc96e1d3042caa35dc42bce0395fd0203ca71ad0b2426ac71ca9",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-03-18",
+  "law_text_complete": false
+}
