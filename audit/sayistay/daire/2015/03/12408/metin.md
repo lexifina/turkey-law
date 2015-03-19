@@ -1,0 +1,3 @@
+Kamu zararının sorumlularına rücu edilmemesi.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ….. Belediyesi alacakları arasında yer alan asfalt katılım paylarının zamanında tahsil edilmediği ve zamanaşımına uğratıldığı, zamanaşımına uğratılan asfalt katılım paylarının ise dava konusu edildiği ve Belediyenin davaları kaybettiği, dolayısıyla vekalet ücreti, yargılama gideri, harçlar ve dosyada yapılan diğer masraflar için de ayrıca ödeme yapıldığı, ancak İdare tarafından bunlara sebebiyet veren sorumlulara kamu zararlarının rücu edilmediği iddia edilmiş ise de; idarece sorumluların tespiti için gerekli işlemlerin yapılması ve konu edilen hususta kamu zararı oluşmaması nedenleriyle ilişilecek husus bulunmadığına oybirliğiyle,
