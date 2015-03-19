@@ -1,0 +1,3 @@
+Kamulaştırmasız El Atma.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ….. Belediyesi tarafından 1/1000 ölçekli imar planında yer alan bazı taşınmazlara, Kamulaştırmasız (hukuki) el atıldığı, lehine tahsis kararı verilen İdarelerden bu konuda görüş alınmadığı ayrıca 5 yıllık imar programının hazırlanmadığı dolayısıyla Belediye aleyhine açılan “Kamulaştırmasız el atma nedeniyle tazminat” istemli davaların kaybedildiği iddia edilmiş ise de; raporda kamulaştırmasız el atma ile ilgili ne somut bir olayın ne de bu somut olayda ….. Belediyesinin kusuru nedeniyle ödenen herhangi bir tazminat tutarının ortaya konulmaması ve konu edilen hususta kamu zararı oluşmaması nedenleriyle ilişilecek husus bulunmadığına oybirliğiyle,
