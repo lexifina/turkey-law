@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20613",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2015/3)",
+  "number": "20613",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2015/20613",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20613&MevzuatTertip=5",
+  "source_sha256": "d7ba6f555bc5f553852c2c8c3cbf59db8629972fa99ac477ea298622106da129",
+  "source_bytes": 7770,
+  "published": "2015-03-19",
+  "gazette": "29300 mükerrer",
+  "in_force": "2015-03-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.03.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 94,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20613-ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
