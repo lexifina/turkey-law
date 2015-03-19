@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10452",
+  "decision_date": "2015-03-19",
+  "source_id": 9276,
+  "chamber": "1",
+  "ilam_number": "362",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9276/",
+  "source_sha256": "5e37a58f37932a04b66c9d7f7aa21bf8a9bbe615e552d28c36ab680f05514d0d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
