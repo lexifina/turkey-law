@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10453",
+  "decision_date": "2015-03-19",
+  "source_id": 12483,
+  "chamber": "1",
+  "ilam_number": "216",
+  "item_number": 10,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12483/",
+  "source_sha256": "f032c4fcd0229df6eb618936c3919633b4ffe2f9c78c003cdea41081bb6785c7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
