@@ -1,0 +1,2 @@
+Müdür yardımcıları
+MADDE 11 – (1) Müdür tarafından kendisine çalışmalarında yardımcı olmak üzere Üniversitenin öğretim elemanları arasından; sosyal faaliyetlerden, bilimsel faaliyetlerden, teknik ve malî işlerden sorumlu olmak üzere en fazla iki kişi üçer yıllığına müdür yardımcısı olarak görevlendirilir. Müdür görev başında bulunmadığı zaman kendisine yardımcılarından görevlendireceği birisi vekâlet eder. Müdür istediği zaman yardımcılarını değiştirebilir.
