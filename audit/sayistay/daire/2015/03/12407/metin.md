@@ -1,0 +1,13 @@
+Katma Değer Vergisi.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ….. Belediyesine ait olup ticari amaçla kiraya verilen taşınmazlardan kira geliri tahsil edilmesine rağmen katma değer vergisi tahsil edilmeyerek kamu zararına neden olunduğu görülmüştür.
+
+3065 sayılı Katma Değer Vergisi Kanunu’nun “Verginin konusunu teşkil eden işlemler” başlıklı 1’nci maddesinin (f) bendi ve “Sosyal ve Askeri Amaçlı İstisnalarla Diğer İstisnalar” başlıklı 17’nci maddesinin 4’üncü fıkrasının (d) bendi ile 193 sayılı Gelir Vergisi Kanunu’nun “Gayrimenkul sermaye iradının tarifi” başlıklı 70’nci maddesi hükümleri uyarınca; 193 sayılı Gelir Vergisi Kanunu’nun “Gayrimenkul sermaye iradının tarifi” başlıklı 70’nci maddesinde sayılan mal ve hakların kiralanması işlemleri Katma Değer Vergisine tabi olmakla beraber, iktisadi işletmelere dâhil olmayan gayrimenkullerin kiralanması işlemleri KDV’den istisna tutulmuştur. Dolayısıyla, belediyelerce kiraya verilen gayrimenkullerden elde edilen iratlar KDV’den istisna olup bunlardan ancak bizatihi iktisadi işletme niteliğine sahip olanların kiralanması durumunda, artık işletme hakkının kiralanması söz konusu olacağından, KDV tahsil edilmesi gerekmektedir. Nitekim Maliye Bakanlığı’nca yayımlanan 1 Seri No’lu Katma Değer Vergisi Genel Tebliği’nde (30/11/1984 tarih ve 18591 nolu R.G.);“…Dolayısıyla, belediyeler vb. kamu idareleri iktisadi işletme sayılmadıkları için bunlara ait gayrimenkullerin kiralanması işlemleri söz konusu istisna kapsamına girmekle beraber belediye vb. kamu idarelerine ait otopark, büfe, kafeterya vb. gayrimenkuller bizatihi iktisadi işletme niteliğinde olduklarından bunların kiralanması da işletme hakkının kiralanması mahiyetinde olup katma değer vergisinin konusunu teşkil etmektedir…” denilmektedir.
+
+….. Belediyesince kiraya verilen söz konusu taşınmazların da otopark, büfe, kafeterya veya hal olarak işletilmek üzere kiraya verilmesi nedeniyle ayrıca katma değer vergisine konu edilmesi gerekmektedir.
+
+Dolayısı ile ticari amaçla kiraya verilen taşınmazlardan ….. Belediyesince katma değer vergisi tahsil edilmemesi sonucu oluşan …..-TL tutarındaki kamu zararının sorumlularına müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereği hüküm tarihinden itibaren işleyecek faizleri ile ödettirilmesine,
+
+ (Üye …..’in “….. Belediyesince otopark, büfe, kafeterya, hal vb. şekilde kiraya verilen yerlerden elde edilen kira gelirleri üzerinden KDV tahsil edilip edilmeyeceği hususunun bu konuda yetkili idare olan Maliye Bakanlığınca değerlendirilip sonuçlandırılması gerekmektedir. Bu itibarla konunun Maliye Bakanlığına yazılması gerekir.” şeklindeki ayrışık görüşlerine karşı),
+
+oy çokluğuyla,
