@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-03-19",
+  "issue": "29300",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kaymakam Adayları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/03/20150319-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/03/20150319.htm",
+  "index_sha256": "0dd4e62bb90a3eca9dca642f3932a650d9e36753a37871c2b280ec73fd932e26",
+  "index_header": "19 Mart 2015 ... 29300 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/03/20150319.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
