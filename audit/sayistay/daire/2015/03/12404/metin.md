@@ -1,0 +1,7 @@
+Yüklenicinin yeterlik kriterlerini sağlamaması-Kesin Teminat Mektubunun Süresinin Kısa Olması.
+
+….. Belediye Başkanlığı tarafından Açık İhale Usulü ile ….. tarihinde KDV hariç toplam …..-TL bedelle ihalesi yapılan “….. İşi” ile ilgili dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+a) İhaleye teklif vererek ihaleyi alan ….. Ltd. Şti. firmasının ihale için gerekli yeterlik kriterlerini sağlamamasına rağmen, bu firmadan KDV hariç ….-TL bedelle hizmet satın alındığı, ihale usulüne aykırı davranıldığı ve yükleniciye vekaletsiz iş görme hükümlerine göre iş yaptırıldığı iddia edilmiş ise de; ihaleye Belediye şirketi olan …. Ltd. şirketinden başka firmanın katılmaması, firmanın teklifinin yaklaşık maliyetin altında olması, firmanın edimini eksiksiz olarak yerine getirmesi ve konu edilen hususta kamu zararı oluşmaması nedenleriyle ilişilecek husus bulunmadığına oybirliğiyle,
+
+b) İdare tarafından taahhüdün sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla, sözleşmenin yapılmasından önce, ihale üzerinde kalan istekliden ihale bedeli üzerinden hesaplanarak % 6 oranında alınan kesin teminat mektubunun süresinin eksik bir şekilde 2 yıllık olduğu iddia edilmiş ise de; 2’nci yılın sonunda teminatın süresinin 3 yıla tamamlattırılması ve firmaca yükümlülüklerin yerine getirilmesi nedeniyle mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına oybirliğiyle,
