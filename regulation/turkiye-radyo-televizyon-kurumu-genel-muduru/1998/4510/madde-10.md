@@ -1,0 +1,2 @@
+Teminatın İadesi
+MADDE 10. - (Değişik:RG-19/3/2015-29300) Kurumla bandrol ilişkisi olan gerçek ve hükmî şahısların, bu ilişkiden kaynaklanan yükümlülüklerinin sona ermesi veya bandrol ilişkisi devam etmekle beraber teminatlı alımdan nakit alıma geçmek istemeleri halinde, yazılı olarak talep etmeleri ve Kuruma borçlarının bulunmaması kaydıyla, banka teminat mektupları, hesap mutabakatından sonra kendilerine iade edilir.

@@ -1,0 +1,2 @@
+Teminatın Paraya Çevrilmesi ve İrat Kaydı
+MADDE 11. - (Değişik:RG-19/3/2015-29300) Gerçek ve hükmî şahısların Kanunda belirtilen süre içinde Kuruma olan bandrol borçlarını ödememeleri halinde, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 56 ncı maddesi uyarınca borcun 7 gün içinde ödenmesi, aksi halde teminatın paraya çevrileceği veya diğer şekillerle cebren tahsile devam olunacağı borçluya bildirilir. 7 gün içinde borç ödenmediği takdirde teminat paraya çevrilerek Kurum alacağı tahsil edilir.
