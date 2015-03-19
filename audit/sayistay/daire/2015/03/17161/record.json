@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10452",
+  "decision_date": "2015-03-19",
+  "source_id": 17161,
+  "chamber": "1",
+  "ilam_number": "362",
+  "item_number": 16,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17161/",
+  "source_sha256": "63056b92487966942ef0e355246431862eee05ef5002b080cd201c32fa860400",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
