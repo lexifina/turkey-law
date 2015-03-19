@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10453",
+  "decision_date": "2015-03-19",
+  "source_id": 12521,
+  "chamber": "1",
+  "ilam_number": "216",
+  "item_number": 17,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12521/",
+  "source_sha256": "24c5c3f21138982adfd2ff902e579681b105751aff67b781650639d99eb76cef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
