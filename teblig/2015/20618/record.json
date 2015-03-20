@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20618",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SERMAYE ŞİRKETLERİNİN TASFİYESİNDE ŞİRKET ALACAKLILARININ ALACAKLARININ YATIRILACAĞI BANKANIN BELİRLENMESİNE İLİŞKİN TEBLİĞ",
+  "number": "20618",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2015/20618",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20618&MevzuatTertip=5",
+  "source_sha256": "dfdafe68a3dbf25cbe2af9a234ff4e85b6709208c73b8f835f5e469c1fac79ae",
+  "source_bytes": 16413,
+  "published": "2015-03-20",
+  "gazette": "29301",
+  "in_force": "2015-03-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.03.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 710,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

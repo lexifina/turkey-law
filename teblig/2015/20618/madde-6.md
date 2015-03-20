@@ -1,0 +1,4 @@
+Alacağın yatırılacağı banka
+MADDE 6 – (1) 5 inci maddenin birinci fıkrasında sayılan kişiler yapılan çağrılara rağmen tasfiye halinde bulunan şirketin tasfiye memurlarına herhangi bir bildirimde bulunmazlarsa, muaccel olan veya hakkında herhangi bir uyuşmazlık bulunmayan alacaklarının tutarı, tasfiye halinde bulunan şirketin merkezinin kayıtlı bulunduğu Müdürlüğe en yakın Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketi şubesinde veya şirket merkezinin bulunduğu yerde anılan Banka şubesinin bulunmaması durumunda en yakın yerdeki şubede açılacak hesaba yatırılır.
+(2) Tasfiye halinde bulunan şirketin borçları ödendikten sonra, ulaşılamayan şirket ortaklarının pay bedelleri ile pay bedelleri geri verildikten sonra kalan varlıktan üzerine düşen pay da yine birinci fıkra hükümlerine tabidir.
+(3) Muaccel olmayan veya hakkında uyuşmazlık bulunan borçlar bu kapsamda değildir.
