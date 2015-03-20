@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik Bakanlıklararası Harita İşlerini Koordinasyon ve Planlama Kurulunun görevli olduğu konularda, üretici ve istek sahibi kuruluşlar ile jeodezi ve fotogrametri mühendisliği, harita mühendisliği, jeodezi ve coğrafi bilgi teknolojileri mühendisliği, geomatik mühendisliği ve benzeri harita, coğrafi veri ve coğrafi bilgi konularında mühendislik bölümü bulunan üniversiteleri ve Türk Mühendis ve Mimar Odaları Birliği Harita ve Kadastro Mühendisleri Odasını kapsar.
