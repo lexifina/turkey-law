@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/424",
+  "list_number": "424",
+  "decision_date": "2015-03-22",
+  "title": "Önseçimde, kişinin ancak kayıtlı olduğu yerde oy kullanabileceğine ilişkin Yüksek Seçim Kurulunun 2015/424 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2162/2015-424.pdf",
+  "source_sha256": "79ce135e3d5c8ff79af169507cf8f08f9aa72f529ae7b0ab23f41fd25020f1ef",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-03-22",
+  "law_text_complete": false
+}
