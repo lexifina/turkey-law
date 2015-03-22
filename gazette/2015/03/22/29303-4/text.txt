@@ -1,0 +1,891 @@
+22 Mart 2015 PAZAR
+Resmî Gazete
+Sayı : 29303
+TEBLİĞ
+Çevre ve Şehircilik Bakanlığından:
+SÜREKLİ ATIKSU İZLEME SİSTEMLERİ TEBLİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı; sürekli atıksu
+izleme sistemlerinin özelliklerinin belirlenmesi; kurulması, işletilmesi
+ile ilgili uyulması gereken usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Tebliğ,
+kurulu kapasitesi 10.000 m3/gün ve üzerinde olan; atıksu arıtma tesisleri, ön arıtma tesisleri, derin
+deniz deşarjı yapan ve suyu ısı transferi amaçlı (soğutma-ısıtma suları)
+kullanarak alıcı ortama deşarj eden tesislerin çıkışlarına kurulacak
+sürekli atıksu izleme istasyonlarının özellikleri
+ile kurulumuna ilişkin usul ve esasları kapsar.
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 9/8/1983
+tarihli ve 2872 sayılı Çevre Kanununun 12 nci
+maddesi, 29/6/2011 tarihli ve 644 sayılı Çevre ve Şehircilik Bakanlığının
+Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 9 uncu
+maddesinin (b) ve (c) bentleri ve 31/12/2004 tarihli ve 25687 sayılı Resmî
+Gazete’de yayımlanan Su Kirliliği Kontrolü Yönetmeliğinin 54 üncü maddesine
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Alıcı Ortam: Hava, su, toprak ortamları ile bu
+ortamlarla ilişkili ekosistemleri,
+b) Askıda Katı Madde (AKM): Bir su numunesinde
+çökebilen veya çökemeyen 1 mikron ve üzerindeki büyüklükte katı maddeleri,
+c) Bakanlık: Çevre ve Şehircilik Bakanlığını,
+ç) Bütünleşik Karşılaştırma Testi: SAİS kurulumu
+tamamlanmış endüstriyel tesisler 3 ayda bir, evsel/kentsel tesisler 6 ayda
+bir olmak üzere SAİS ile eş zamanlı alınan numunelerin yetkili laboratuvara gönderilerek tesisin ilgili Su Kirliliği
+Kontrolü Yönetmeliği sektör tablosunda yer alan parametrelerin tamamının
+analiz edilmesini,
+d) Çok Fazlı Sistemler: Yağlı, buzlu, katı
+partiküllü ve benzeri farklı yoğunlukta kısımlar içeren, fiziksel bileşimi
+heterojen olan atıksuyu,
+e) Doğrulama: Bir metodun sertifikalı referans
+madde ve/veya değeri bilinen çözeltilerle teyidini,
+f) İl Müdürlüğü: Çevre ve Şehircilik İl
+Müdürlüğünü,
+g) Kabin: Alıcı ortama deşarj noktasında yer alan
+ölçüm cihazlarının ve numunelerin dış şartlardan etkilenmesini önleyecek
+ısı yalıtımlı yapıyı,
+ğ) Kalibrasyon: Belirlenmiş koşullar altında,
+doğruluğu bilinen bir ölçüm standardını veya sistemini kullanarak diğer
+test ve ölçüm aletinin doğruluğunun ölçülmesi, sapmalarının belirlenmesi ve
+doküman haline getirilmesi için kullanılan ölçümler dizisini,
+h) Karşılaştırma: Aynı numunenin farklı bir laboratuvarda ölçüm ve/veya analiz yapılarak aynı
+parametre sonuçlarının mukayese edilmesini,
+ı) Kimyasal Oksijen İhtiyacı (KOİ): Bir su
+örneğindeki organik ve oksitlenebilir inorganik bileşikleri yükseltgemek
+için gerekli oksijen miktarını ölçen su kalitesi ile ilgili göstergeyi,
+i) Kurulu Kapasite: Atıksu
+arıtma tesisinin proje onay dosyasında yer alan maksimum arıtabileceği atık
+su miktarını,
+j) Parametre: Ölçüm/analizi yapılan değişkeni,
+k) Performans Testi: SAİS’te
+yer alan ölçüm ve analiz cihazlarının TS EN ISO 15839 sayılı Su kalitesi -
+Su için hatta sensörler/analiz cihazı-Özellikler
+ve performans deneyi standardının güncel halinde belirtilen prosedüre göre
+gerçekleştirilen performans testlerini,
+l) Sürekli Atık Su İzleme Sistemi (SAİS):
+Tesislerin çıkış suyunun alıcı ortama karışmadan hemen önceki noktada,
+sürekli ölçüm ve analizinin yapılıp, verilerin gerçek zamanlı olarak
+Bakanlık merkezi veri tabanına aktarılmasını sağlayan sistemi,
+m) SAİS Proje Başvuru Dosyası: SAİS kurulmadan önce
+kurulum yapacak tesis tarafından bu Tebliğde yer alan bilgi ve belgeleri
+içerecek şekilde hazırlanmış dosyayı,
+n) Sertifikalı Referans Madde (SRM): İçerisindeki
+bir veya birkaç türün miktarı bilinen, yüksek saflıktaki kimyasal maddeyi,
+o) Sistem Onay Dosyası: Bakanlıktan ön onay alan,
+kurulum ve kalibrasyonu tamamlanmış sistemlere ait bilgi ve belgeleri
+içeren dosyayı,
+ö) Sistem Onayı: Sistem Onay Dosyasının kabulüne
+müteakip SAİS’in yerinde incelenerek Bakanlıkça onaylanmasını,
+p) Standart Metot: Ulusal veya uluslararası kabul
+görmüş metotları,
+r) SAİS Numune Alma Cihazı: SAİS’le
+eş zamanlı olarak numune alabilen, dijital sinyal ile otomatik numune
+alabilecek kabiliyette, alınan numuneyi soğutarak koruyan, otomatik sıralı
+soğutmalı çoklu, TS ISO-5667-10 standardına uyumlu numune alma cihazı,
+s) Tesis: Atıksu arıtma
+tesisleri, ön arıtma tesisleri, derin deniz deşarjı yapan ve suyu ısı
+transferi amaçlı (soğutma-ısıtma suları) kullanarak alıcı ortama deşarj
+eden bütün işletmeleri,
+ş) Yerinde İnceleme ve Denetim: SAİS’in
+Bakanlıkça ve/veya İl Müdürlüğünce yerinde ve uygulamalı olarak
+değerlendirilmesini,
+t) Yetkili Laboratuvar:
+25/12/2013 tarihli ve 28862 sayılı Resmî Gazete’de yayımlanan Çevre Ölçüm
+ve Analiz Laboratuvarları Yeterlik Yönetmeliği
+kapsamında Bakanlıktan belge alan laboratuvarı,
+u) Yüklenici: SAİS’in
+kurulumunu yapan firmayı,
+ifade eder.
+İKİNCİ BÖLÜM
+Görev, Yetki ve
+Sorumluluklar
+Bakanlığın
+görev ve yetkileri
+MADDE 5 – (1) Bakanlık;
+a) SAİS kurulacak tesislerde; Proje Başvuru
+Dosyasını inceleme ve onay vermeye,
+b) Proje Başvuru Dosyası onaylanmış sistemlerde
+Sistem Onay Dosyasını inceleme ve onay vermeye,
+c) SAİS’te her türlü
+düzenleme, yerinde inceleme, denetim yapma ve yaptırım uygulamaya
+yetkilidir.
+İl
+müdürlüğünün görev ve yetkileri
+MADDE 6 – (1) İl müdürlüğü;
+a) Bu Tebliğdeki hususlar doğrultusunda, tesis
+yetkilileri ile birlikte SAİS’in kurulacağı
+numune alma noktası ve kabin yeri koordinatlarını belirlemeye,
+b) SAİS kurulan tesisi bu Tebliğ kapsamında yerinde
+incelemeye,
+c) SAİS’e iletilen ölçüm
+değerleri sınır değerleri aştığında veya gerek görüldüğü takdirde otomatik
+alınmış olan numuneyi, koruma altına alarak yetkili laboratuvara
+ve Bakanlık Çevre Referans Laboratuvarına
+iletilmek üzere mühürlemeye,
+ç) Bütünleşik karşılaştırma testi için otomatik
+numune alınması esnasında hazır bulunmaya ve numuneyi yetkili laboratuvara iletilmek üzere koruma altına almaya,
+yerinde ölçülecek parametreleri ölçmeye ve mühürlemeye,
+d) SAİS’te her türlü yerinde
+inceleme, denetim yapma ve yaptırım uygulamaya
+yetkilidir.
+Tesisin
+yükümlülükleri
+MADDE 7 – (1) Tesis;
+a) Bu Tebliğin 9 uncu maddesindeki hususlara uygun
+olarak SAİS’in kurulacağı yeri İl Müdürlüğü
+koordinasyonunda belirlemekle,
+b) Kabin güvenliğinin sağlanması ile ilgili her
+türlü tedbiri almakla,
+c) SAİS’i ve ilgili tüm
+cihaz ve ekipmanları bu Tebliğde belirtilen hususlara uygun olarak kurmak
+veya kurdurmakla,
+ç) Tüm sistemin bakım ve onarımını düzenli olarak
+yaptırarak, sürekli ve hatasız çalışmasını temin etmekle,
+d) Bu Tebliğin hüküm ve esaslarının takip edilmesi
+ve yükümlülüklerin yerine getirilmesi için tesis bünyesinde çalışan en az
+bir personeli SAİS’ten de sorumlu teknik personel
+olarak görevlendirmekle,
+e) SAİS teknik personelinin, kabin içerisindeki tüm
+cihazlara ait kullanıcı eğitimlerini ve Bakanlıkça verilen Su ve Atıksudan Numune Alma Eğitimi’ni SAİS kurulumunu
+müteakip bir yıl içerisinde almasını sağlamakla,
+f) Çalışanların mesleki riskler konusunda
+bilgilendirilmesini, temel iş sağlığı ve güvenliği eğitimini yetkilendirilmiş
+eğitim kurumlarından ya da ilgili konuda yeterliliği olan kuruluşlardan
+almasını sağlamakla,
+g) TS EN ISO 15839 sayılı standarda uygun olarak
+kalibrasyon, bakım, performans testi ve benzeri işlemler için plan yaparak
+çizelge oluşturmak, söz konusu çizelgeyi kabinde bir dosyada ve sistem
+yazılımında saklamakla,
+ğ) Tüm cihazların performans testlerini,
+kalibrasyonlarını ve doğrulamalarını yapmak ve/veya yaptırmakla, kayıtları
+muhafaza etmekle,
+h) SAİS’e iletilen ölçüm
+değerleri sınır değerleri aştığında, otomatik alınmış olan numuneyi, İl
+Müdürlüğü gözetiminde yetkili laboratuvara
+Bakanlık Çevre Referans Laboratuvarına iletmekle,
+Su Kirliliği Kontrolü Yönetmeliği ilgili sektör tablosunda yer alan tüm
+parametrelerin analizini yaptırmakla ve masrafları karşılamakla,
+ı) Bütünleşik karşılaştırma testi için İl Müdürlüğü
+gözetiminde otomatik alınan numuneyi
+yetkili laboratuvara ileterek Su Kirliliği
+Kontrolü Yönetmeliği ilgili sektör tablosunda yer alan tüm parametrelerin
+analizini yaptırmakla, sonuçlarını pdf formatında
+kabin bilgisayarında uzaktan erişime açık biçimde bulundurmakla,
+i) Sistemin sürekli ve sorunsuz çalışabilmesi için
+tüm sistemin bakım ve onarımını periyodik olarak en az altı ayda bir
+yaptırarak, sistemin düzenli olarak çalışmasını temin etmek ve ilgili
+belgeleri kabin içerisinde yer alan bir dosyada ve sistem yazılımında
+saklamakla,
+j) Tesisinde yer alacak SAİS ile ilgili; kurulum ve
+işletime dair her türlü bilgi ve belgeyi kayıt altına almak ve hazır bulundurmakla,
+k) Analizlerde kullanılacak cihazlara ilişkin ölçüm
+aralıkları, TS EN ISO 15839 standardına göre performans testlerinin
+yapıldığına dair sertifika, belge veya raporları yüklenici firmadan temin
+etmekle,
+l) Cihazların fotometrik,
+kolorimetrik, titrimetrik
+gibi ölçüm yöntemine ilişkin Türkçe bilgileri yükleniciden temin etmekle,
+m) Cihazların tüm işlevlerine ilişkin Türkçe
+kullanma talimatlarını temin etmekle,
+n) Cihazlarda kullanılacak tüm sarf malzeme, yedek
+parça ve reaktif bilgileri temin ederek muhafaza etmekle,
+o) Reaktiflerin saklama sürelerini ve bunların
+saklanması için gerekli olan her türlü cihaz ve ekipmanlara ilişkin
+bilgileri muhafaza etmekle,
+ö) Cihazın çalışması esnasında ölçüm sonuçlarını
+etkileyecek fiziksel, kimyasal ve biyolojik girişimler, sınır değerler ve
+bunların önlenmesine dair yapılan tüm işlemlerle ilgili bilgileri tedarik
+ederek muhafaza etmekle,
+p) Bu Tebliğde adı geçen tüm standartların en
+güncel halini kullanmakla,
+r) Tüm kayıtları en az beş yıl boyunca saklamakla,
+s) Hizmet alımı yoluyla sağladığı tüm iş ve
+işlemlerden,
+Bakanlığa karşı yükümlüdür.
+ÜÇÜNCÜ BÖLÜM
+SAİS Kurulum
+Esasları
+SAİS
+numune alma noktası ve kabin yerinin belirlenmesi
+MADDE 8 – (1) Numune alma noktası, 10/10/2009 tarihli ve
+27372 sayılı Resmî Gazete’de yayımlanan Su Kirliliği Kontrolü Yönetmeliği
+Numune Alma ve Analiz Metodları Tebliği ve TS ISO
+5667-10 sayılı Atıksulardan Numune Alma
+Kılavuzu’nda belirtilen usul ve esaslara uygun olarak, arıtma tesisi çıkış
+suyunun verildiği hat üzerinde seçilir.
+(2) Numune alma noktası seçilirken, çözünmüş gaz ve
+uçucu maddeler analizi etkileyebileceğinden, herhangi bir türbülansın
+meydana geldiği nokta numune alma noktası olarak seçilmez. Numune alma
+noktası, suyun akış yönünde, türbülansın meydana geldiği noktadan ileride
+bir yerde belirlenir.
+(3) Numune alma noktası, tesis çıkış suyunun
+bütününü temsil edecek şekilde belirlenir. Numune alma noktası ile analiz
+ve ölçümlerin yapılacağı kabinin arası mümkün olan en kısa mesafede olmak
+zorundadır.
+(4) Tesise ait sistemin diğer kısımlarından
+kaynaklanabilecek ters akışın numune alma noktasında kirlenmeye sebebiyet
+vermediğinden emin olunur.
+(5) Çözünmüş kirleticiler, katılar, uçucu maddeler
+veya yağlı yüzey katmanlarının oluştuğu hallerde bu birikintileri bertaraf
+edecek, geçerli ve temsil özelliği bulunan numuneler elde etmek üzere
+tasarlanmış numune alma sistemleri kullanılır.
+(6) Tesis içinde arıtma tesisi çıkış suları
+haricinde seyrelmeye sebebiyet verecek, yağmur suyu tahliye kanalları veya
+şehir içi içme suyu şebekesi haricinde işletmeye ait ayrı bir sanayi
+şebekesi veya soğutma amaçlı suların tahliyesinin yapıldığı sistemler var
+ise bu sistemler kroki üzerinde belirtilerek İl Müdürlüğüne ibraz edilir.
+Numune alma noktası, suyun akış yönünde, bu suların karıştığı karışımından
+önce bir noktada tespit edilir.
+(7) Numune alma noktası, tesis içerisinde
+arıtılmamış atıksuyun numuneye karışma ihtimali
+dikkate alınarak seçilmelidir.
+(8) Yukarıda belirtilen hususların kontrolü İl
+Müdürlüğü tarafından gerçekleştirilir. Kontrol sonrasında numune alma
+noktası ve kabinin yeri için İl Müdürlüğü tarafından onay verilir. Su
+Kirliliği Kontrolü Yönetmeliğinin 29 uncu maddesine göre daha önceden
+kurulmuş olan numune alma bacalarının kullanılması planlandığı durumlarda
+da İl Müdürlüğünce yeniden aynı incelemeler gerçekleştirilerek onayları
+alınır.
+(9) Çevre iznine tabi olup, tesisten çıkan atıksularını herhangi bir arıtmaya tabi tutmadan
+doğrudan bir hat üzerinden deşarj eden veya ön arıtma yapan soğutma suları,
+derin deniz deşarjı, ısı transferi ve benzeri tesisler için numune alma
+noktası, tesise ait atıksuyun deşarj hattı
+üzerinde ve alıcı ortama karışmadan hemen önce belirlenecek en uygun
+noktada seçilmelidir.
+Numune
+alma sistemi için genel şartlar
+MADDE 9 – (1) Numuneler, herhangi bir değişikliğe uğramaması
+için, TS EN ISO 5667-3 sayılı Su Kalitesi - Numune Alma - Bölüm 3: Su
+Numunelerinin Muhafaza, Taşıma ve Depolanması İçin Kılavuzun 3 üncü
+maddesinde belirtilen esaslara uygun olarak alınır.
+(2) Numune alma hattının iç çapı en az 25 mm
+olmalıdır.
+(3) Meteorolojik şartların su kalitesinde yol
+açabileceği değişiklikler dikkate alınarak gerekli tedbirler alınır.
+(4) Paslandırıcı ve aşındırıcı sıvılardan numune
+alınırken bu şartlara dayanabilecek yapıda malzemeler kullanılır.
+(5) Atıksuyun içeriğine
+bakılmaksızın, numune alma noktası ile kabin arasında, teflon/paslanmaz
+çelik gibi dayanıklı malzemeden üretilmiş borular kullanılır ve bu borular
+ısı yalıtımı malzemesiyle kaplanır. İzleme sisteminde kullanılan diğer
+kısımlarda da korozyona karşı dayanıklı malzeme kullanılır. Söz konusu boru
+hattı, hareket etmeyecek şekilde sabitlenir.
+(6) Hat boyunca ve ölçüm kabininde faz ayrışmasının
+engellenmesi amacıyla, su 0,5 m/sn ile 1,0 m/sn aralığında bir hızda
+pompalanmalı ve bu hız verisi elektromanyetik debimetre ile ölçülmeli,
+sistem yazılımından sürekli izlenebilmelidir.
+(7) Numune alma hattı boyunca, özellikle dirsek ve
+boruların bağlantı yerlerinde, numunenin kirlenmesine sebep olabilecek
+malzemeler kullanılmaz.
+(8) Numune alma hattı kolayca temizlenebilmeli,
+pürüzsüz yüzeyli olmalıdır. Yıkama aşamasında, kirli su hattı ile temiz su
+hattı birbiriyle temas etmemelidir. Sistemdeki temiz su hattından numune
+alma noktasına ters akış ile temiz su deşarjı yapılarak, boru ile filtrenin
+de temizlenmesi sağlanmalıdır. Akışı olumsuz yönde etkileyebilecek
+bağlantıdan kaçınılmalı, dirsek sayısı asgari sayıda tutulmalıdır.
+(9) Çok fazlı sistemlerden gelen sulardan numune
+alınması durumunda ortaya çıkacak sorunlara karşı gerekli tedbirler alınır.
+(10) Tüm borular alınan atıksu
+ile tamamen doldurulur. Bakım, kalibrasyon ve tamir gibi sistemin durduğu durumlarda
+atıksu en az 5 dakika sistemden geçirildikten
+sonra sistemin analiz ve ölçüm yapmaya başlaması sağlanır.
+(11) Numune alınacak noktanın derinliği TS ISO
+5667-10 sayılı Atıksulardan Numune Alma Kılavuzu
+dikkate alınarak belirlenir.
+(12) Büyük partiküllerin neden olacağı muhtemel
+tıkanmaları önlemek üzere numune alma sisteminde filtre/elek kullanılır.
+Söz konusu filtre veya elekler AKM parametresi ölçümlerini etkilemeyecek
+dizaynda, gözenek çapı 0,5-1,5 cm olacak şekilde teşkil edilir.
+(13) Atıksuyun akış
+hızının sabit olması için akış hızı ayarlanabilen, frekans konvertörlü bir tanesi yedek olmak üzere iki adet peristaltik ve benzeri pompa kullanılır. Dalgıç pompa
+kullanılmayacaktır.
+DÖRDÜNCÜ BÖLÜM
+Sürekli Atıksu İzleme Sistemi
+SAİS
+genel özellikleri
+MADDE 10
+– (1) SAİS ile; bu Tebliğ
+kapsamına giren tesislerin çıkış suyunda sürekli ve otomatik olarak pH, sıcaklık, çözünmüş oksijen, iletkenlik, debi,
+kimyasal oksijen ihtiyacı (KOİ), askıda katı madde (AKM) parametreleri
+ölçülerek sonuçları periyodik ve gerçek zamanlı olarak Bakanlık merkezi
+veri tabanına aktarılır. SAİS, Bakanlıkça gerekli görüldüğü takdirde ilave
+parametreler ölçülmesine imkan verecek şekilde tasarlanır.
+(2) SAİS başlıca şu kısımlardan oluşur;
+a) İçerisinde analiz ve ölçümlerin yapılacağı,
+cihaz ve ekipmanların yer alacağı ve taban alanı içten içe en az 8 m2
+olan bir adet kabin,
+b) Numune alma hattı, kabin içi ölçüm hattı ve
+kabin çıkış hattı,
+c) Akış hızını ayarlayabilen, frekans konvertörlü 1 tanesi yedek olmak üzere 2 adet peristaltik vb. dalgıç harici pompa,
+ç) Üzerinde sürekli izleme için kullanılacak en az
+6 adet sensör yuvası, yukarı akışlı bir adet
+sütundan oluşan takılıp çıkarılmaya imkan veren çoklu sensör
+sistemi,
+d) Kabin içi ölçüm hattı üzerinde yer alabilen veya
+çoklu sensör sistemine monte edilebilen KOİ
+parametresi ölçüm cihazı,
+e) Kabin içi ölçüm hattı üzerinde yer alabilen,
+çoklu sensör sistemine monte edilebilen veya
+tesis çıkış suyuna direk daldırılan AKM parametresi ölçüm cihazı, (eğer
+kabin dışında çıkış suyuna daldırılan AKM cihazı kullanılacak ise bir
+kamera ile görüntülenebilmeli ve görüntüler kabin bilgisayarına
+aktarılabilmelidir.)
+f) SAİS Numune Alma Cihazı,
+g) Ölçüm cihazlarından gelen verileri bilgisayara
+iletebilecek özellikte bir kontrol ünitesi veya üniteleri,
+ğ) Verileri depolayabilecek ve merkeze iletebilecek
+özellikte, yeterli donanıma sahip bir adet bilgisayar veya veri iletimini
+sağlayacak sistem, tarayıcı özellikli yazıcı,
+h) Verilerin, Bakanlık merkezi veri tabanına
+aktarılmasını sağlayacak internet hattı ve bağlantı için gerekli donanım.
+(3) Tüm sistem kurulurken, ileride başka model ve
+özellikte cihazların istasyona eklenebileceği göz önünde bulundurulur.
+(4) Debisi 10.000 m3/gün ve üzeri olup
+suyu ısı transferi amaçlı soğutma ve benzeri kullanarak doğrudan bir hat
+üzerinden deşarj eden tesisler; pH, çözünmüş
+oksijen, iletkenlik, sıcaklık ve debi parametrelerini bu Tebliğ hükümlerine
+göre izlemekle yükümlüdür. KOİ, AKM ve SAİS Numune Alma Cihazını
+sistemlerine entegre etmek zorunlulukları yoktur.
+SAİS
+sinyal durumları ve sınır değerler
+MADDE 11
+– (1) SAİS ile alınacak
+numunelerin alınacağı sinyal durumları, sınır değerler, verilerin iletimi
+ve ayrıntılı diğer teknik hususlar Bakanlıkça belirlenir.
+Kabin
+özellikleri
+MADDE 12
+– (1) Kabin numune alma noktasına
+mümkün olan en yakın mesafeye kurulur.
+(2) Kabinde sıcaklık kontrolünü ve havalandırmayı
+sağlayacak invertör klima bulunur. Söz konusu
+klima elektrik tasarrufu gözetilerek seçilir.
+(3) Kabin, ısı ve su yalıtımını sağlamak için uygun
+malzemeyle kaplanır.
+(4) Kabin, bir subasman
+üzerine oturtulur ve sabitlenir.
+(5) Kabinde kolay ulaşılabilecek bir yerde, kabin
+boyutlarına uygun hacimde, yangın
+tüpü bulunur.
+(6) Olası bir su taşmasında cihazları korumak için,
+kabin tabanında ölçüm hattının olduğu ıslak zemin ile bilgisayar ve kuru
+sistemin olduğu kuru zemin arasında tabanda en az 10 cm kot farkı bulunmak
+zorundadır. Bu Tebliğin yürürlüğe girdiği tarihten önce kurulan kabinlerde
+bu şart aranmaz.
+(7) İstasyonun ve cihazların yıldırımdan zarar
+görmemesi için paratoner bulunur.
+(8) Elektrik kesintilerine karşı, pompa ve klima hariç
+bütün sistemi en az 120 dakika besleyebilen kesintisiz bir güç kaynağı
+bulunur. Elektrik tasarrufu ile ilgili güneş paneli, atıksu
+akış hızından yararlanabilen tribün vb. çözümler düşünülerek gereken
+tedbirler alınır.
+(9) Kabin içerisinde kabin kapısının açıldığını
+Bakanlık merkezi veri tabanına iletebilecek bir sistem bulunur.
+(10) Kabin içerisinde sensörlerde
+meydana gelebilecek yapışkan çamur, biyofilm ve
+benzeri kirlenmeyi önleyebilecek şekilde otomatik basınçlı püskürtmeli
+yıkama sistemi kurulur. Bu otomatik yıkama sistemi, yıkamaya başlamadan
+önce numune hattındaki atıksuyu otomatik olarak
+tamamen boşaltmalı ve sonrasında yıkama yapmalıdır.
+(11) Kabin içinde sıcaklık ve duman sensörü bulunur. Kabin içi sıcaklık verileri yazılıma
+aktarılır.
+(12) Kabin içerisinin izlenmesini sağlayan harekete
+duyarlı bir kamera sistemi bulunur. Bu kamera kabin kapısı açıldığında
+devreye girer. Kamera kabin içerisinde bulunan bilgisayara bağlanır ve
+kaydedilen veriler bu bilgisayarda en az bir yıllık geçmişi içerecek
+şekilde depolanır.
+(13) Bu Tebliğ yürürlüğe girdikten sonra kurulacak
+kabinlerin taban alanı içten içe en az 8 m2 olmak zorundadır.
+(14) SAİS’lerin kabin dış
+duvarında beyaz zemin üzerine lacivert yazı ile dikey yüksekliği en az 20
+cm olacak şekilde “T.C. ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI SÜREKLİ ATIKSU İZLEME
+İSTASYONU” yazısı ile 30x40 cm ebatlarında Bakanlık logosu yer alır.
+Cihaz
+özellikleri
+MADDE 13
+– (1) Ölçüm ve analiz cihazlarının
+tümü ulusal/uluslararası standart ve metotlara göre ölçüm yapar.
+(2) Su Kirliliği Kontrolü Yönetmeliğinin 29 uncu
+maddesine göre kurulması gereken debimetreden alınan ölçüm sonuçları
+sisteme aktarılır.
+(3) Cihazlar, atıksuyun
+özelliklerine uygun sıcaklık aralığında çalışabilecek özellikte seçilir.
+(4) Cihazlar, Türkçe menülü olmalı, ölçüm
+verilerini kendi hafızasında saklayabilmeli ve sisteme veri aktarabilmelidir.
+(5) Çoklu sensör
+sisteminde akış suyunun atmosfer basıncına eşit basınçta olabilmesi için
+sistemin üzerinde bir miktar boşluk olmalıdır. Kolonun üstü elle açılabilir
+kapaklı olmalı, karşılaştırma yapılırken kullanılacak ölçüm probunun sisteme takılabilmesi için veya fiziksel bir
+temizlik yapılabilmesi için bu kapak kullanılmalıdır.
+(6) Ölçüm sisteminde atıksuyun
+sürekli akışı için tahliye kanalı bulunur.
+(7) Sistemde SAİS Numune Alma Cihazı bulunur.
+Cihaz, sistemde herhangi bir ölçüm değeri Bakanlıkça belirlenen sınır
+değeri aştığında dijital sinyal ile otomatik numune alabilmelidir. Cihaz,
+entegre soğutmalı hava sirkülasyon ünitesi içeren, aldığı numuneleri +4°C'de koruyabilen sıralı çoklu numune alma özelliklerine
+sahip olmalıdır. Cihazın numune alma programı Bakanlıkça belirlenir.
+(8) Sınır değer aşıldığında SAİS Numune Alma Cihazı
+ile alınan numuneye İl Müdürlüğü haricinde tesis yetkilisi veya başka
+taraflarca müdahale edilemez. Söz konusu numunenin güvenliği kabin içi
+kamera kayıtlarından İl Müdürlüğünce kontrol edilir ve tutanak altına
+alınır. SAİS numune alma cihazı tarafından alınan numuneler İl Müdürlüğünce
+takip eden ilk iş günü içerisinde mühürlenerek tesise teslim edilir. Alınan
+numunelerden biri yetkili laboratuvara, Su
+Kirliliği Kontrolü Yönetmeliği ilgili sektör tablosunda yer alan tüm
+parametrelerin analizi yapılmak üzere, gönderilir. Sonuçlar numunenin
+alınmasını müteakip en geç 1hafta sonra İl Müdürlüğüne ve Bakanlığa rapor
+edilir. Eş zamanlı alınan diğer numune ise Bakanlık Çevre Referans Laboratuvarına gönderilir. Bakanlığın gerekli görmesi
+ya da tesis tarafından analiz sonucuna bir hafta içerisinde itiraz edilmesi
+durumunda, numune Bakanlık Çevre
+Referans Laboratuvarında analiz edilir. Analiz
+sonuçlarında ihtilaf olması durumunda Bakanlık Çevre Referans Laboratuvarında elde edilen analiz sonuçları
+geçerlidir.
+(9) SAİS Numune Alma Cihazı kabin dışında ise
+harekete duyarlı, gece görüşlü kamera sistemi ile izlenir ve kayıtları
+yazılımda yer alır. Dijital kilit veya anahtar eklenerek güvenliği
+sağlanır.
+(10) Çoklu sensör
+sisteminde yer alan sensörler sisteme yataya
+mümkün olan en yakın açı ile takılır. Atıksuyun
+niteliği ve sektörel özellikler dikkate alınarak
+ileride izlenmesi istenecek parametrelere ait sensörlerin
+entegrasyonu dikkate alınır. Sensör sisteminde
+yer alan her bir sensör altı saatte bir beş
+dakika boyunca otomatik olarak yıkanır. Yıkama temiz su veya su-hava
+karışımı ile basınçlı püskürtme şeklinde yapılır ve su tasarrufu göz önünde
+bulundurulur. Temiz su hattı girişinde filtre olmak zorundadır.
+(11) Filtre ünitesi, numune alma hattı ve çoklu sensör sisteminin temizliği; haftada bir kez 20 dakika
+boyunca ters akış ile temiz su geçirilerek otomatik olarak yapılır.
+(12) AKM, KOİ ölçüm cihazlarının temizlik ve
+bakımı; kullanım kılavuzlarında tarif edilen periyodik bakım prosedürüne
+uygun şekilde yapılır, kayıt altına alınır.
+(13) Atıksuyun niteliğine
+göre yıkama sisteminin yeterli olmaması durumunda problar
+temizlik maddesi ile yıkanır ve/veya temizlemede fırça kullanılır. Yapışkan
+çamur oluşumunun engellenememesi halinde ise kimyasal veya ultrasonik temizleme sistemi kullanılır.
+(14) Sezonluk çalışan ve üretim sezonu dışında atıksu deşarjı olmayan işletmeler için sezon dışındaki
+dönemde SAİS’in korumaya alınarak cihazların
+bekleme döneminde bozulmamalarını sağlayacak uygun koşulların hazırlanması
+gerekmektedir. Söz konusu tesisler için tesisin devreye alınacağı ve
+kapatılacağı zamanın Bakanlığa bildirilmesi, SAİS’te
+ölçüm kalitesi ve verilerin Bakanlık merkezi veri tabanına aktarımında
+herhangi bir aksamaya mahal verilmemesi için gereken koşulların
+oluşturulması zorunludur.
+Verilerin
+iletimi
+MADDE 14
+– (1) Tesiste, kullanıcı adı ve
+şifre ile giriş yapılabilecek, SAİS’ten elde
+edilen verileri kaydedebilecek, Bakanlık merkezine iletebilecek yetenekte
+bir sistem ve veri iletim yapısı bulunur. Bu sistemin, mevcut ölçüm ve
+analiz cihazlarının bağlı olduğu kontrol ünitesine veya ünitelerine bağlı
+olması gerekir.
+(2) SAİS’ten elde edilen
+verilerin Bakanlık merkezi veri tabanına aktarımı, Bakanlıkça belirlenen
+format kullanılarak gerçekleştirilir.
+(3) Verilerin aktarımı sırasında kullanılan tüm
+sistemler; kesintisiz çalışabilecek, tesisteki sisteme yapılabilecek
+fiziksel müdahaleleri elektronik olarak tespit edebilecek, sistemin
+kapatılıp açılması durumunda, log kayıt girdileri
+yapabilecek ve veri kaybına neden olmayacak özelliklere sahip olmalıdır.
+(4) Ölçüm cihazlarından elde edilen veriler,
+doğrudan veri iletimi yapacak sisteme aktarılmalıdır. Arada aktarılan
+verilere müdahale edilmesine imkan tanıyabilecek herhangi bir ünite
+bulunmamalıdır. Veri toplama sistemine kaydedilen tüm veriler zamanları ile
+birlikte düzenli olarak depolanır ve beş yıl boyunca saklanır.
+(5) Bu Tebliğin yayımı tarihinden sonra kurulmuş ya
+da kurulacak olan sistemlerden veri toplama işleminde, dijital bağlantı
+protokolleri kullanılır. Bu Tebliğin yayımlandığı tarihten önce kurulmuş
+olan sistemlerde analog bağlantıların dijital bağlantıya
+çevrilebilmesi için dönüştürücü kullanılabilir. Bu durumda kullanılacak
+dönüştürücülerin çözünürlüğü en az 16 bit, karşılıklı okumalarının
+doğruluğu ise en az ±% 0,1 olur.
+(6) pH, Sıcaklık, Çözünmüş
+Oksijen, İletkenlik, Debi ve akış hızı ölçüm cihazları, 10-20 saniyelik periyodlarla ölçüm yapar. Ölçülen verilerin 5 dakikalık
+aritmetik ortalamaları Bakanlık merkezi veri tabanına aktarılır. Kabin
+yazılımında ise tüm anlık veriler tutulur.
+(7) KOİ ve AKM parametreleri ölçüm periyotları;
+cihazların ölçüm prensibine göre en az 5 dakikalık en fazla 1 saatlik
+aritmetik ortalamalar halinde Bakanlık merkezi veri tabanına aktarılır.
+Kabin yazılımında ölçüm anlık verileri saklanır.
+(8) Bakanlık ilerleyen dönemde periyodik ölçüm
+süresinde değişikliğe gidebilir.
+(9) Ölçümü yapılan parametrelerle birlikte çoklu sensör sistemindeki numunenin akış hızı ile tesisin
+bakım-onarım, yıkama, kalibrasyon, enerji kesintisi ve benzeri durumlarda
+belirtilen veriler, veri tabanına kaydedilir.
+(10) Kabin yazılımı Bakanlıkça belirlenen sınır
+değer aşımlarını Bakanlık, İl Müdürlüğü ve tesis yetkililerinden belirlenen
+kişilere kısa mesaj (SMS) veya elektronik posta ile haber veren özellikte
+olmalıdır.
+(11) SAİS üzerinde yapılan tüm değişiklik ve
+işlemler, değişikliğin türü, zamanı ve açıklaması ile birlikte veri
+tabanında kayıt altına alınmalı, yazılımda görüntülenebilmelidir.
+(12) Cihazlardan gelen tüm alarmlar, zamanları ile
+birlikte veri tabanında kayıt altına alınır.
+(13) SAİS’te yer alan
+bilgisayar ve cihazların zaman ayarlarına müdahale edilemez ve gerekli
+tedbirler alınır.
+(14) Tüm veri aktarım sistemi, ileride başka model
+ve özellikte cihazların istasyona eklenebileceği düşünülerek tasarlanır.
+(15) Ölçülen değerler istasyon içerisinde kurulu
+olan bilgisayarın ekranında sürekli olarak görülmeli ve sistem yazılımı,
+verileri sürekli olarak Bakanlığa iletebilecek yetenekte, kolay
+anlaşılabilir ve Türkçe olmalıdır. Verilerin gönderilemediği internet
+kesintileri, Bakanlık sunucularındaki bakım ve benzeri durumlarda; yazılım
+üretilen tüm verileri, zaman sırasına uygun şekilde kayıpsız olarak
+Bakanlığa gönderebilecek yetenekte olmalıdır.
+(16) Kullanılan yazılım; beş dakikalık, saatlik,
+günlük, haftalık, aylık ve yıllık periyodlarda
+raporlama yapacak ve raporları grafik olarak gösterebilecek yetenekte olmak
+zorundadır.
+(17) Yazılım, çıktı alabilme özelliğine sahip
+olacaktır.
+(18) Veri ve ölçüm güvenliği hususunda tesis
+gereken tedbirleri alır.
+(19) SAİS’te toplanan
+veriler Bakanlık merkezi veri toplama servisleri ile iletişime geçecek
+yapıda tasarlanmış olmalıdır.
+(20) Herhangi bir sebeple veri iletiminin
+sağlanamadığı durumlarda, 72 saat içinde sorun giderilerek, veri kaybı
+olmaksızın veriler Bakanlık merkezi yazılımına gönderilir.
+(21) Tesis faaliyette olduğu süre içerisinde aylık
+en az %80 geçerli veri gönderme yüzdesini sağlamalıdır.
+(22) Bakanlığın, tesislere ait kabin bilgisayarına
+uzaktan erişimi sağlanır.
+BEŞİNCİ BÖLÜM
+Performans
+Testi, Kalibrasyon, Doğrulama ve Bütünleşik Karşılaştırma Testi
+Genel
+hususlar
+MADDE
+15 – (1) Cihazların kalibrasyonları, doğrulamaları ve
+performans testleri yapılmalıdır. Tesis; tüm cihazların performans
+testlerini ilk kurulum esnasında ve kalibrasyon veya doğrulamalarla
+hassasiyet kayıpları tespit edildiğinde yapar/yaptırır. Tesis, tüm
+cihazların kalibrasyonlarını yılda bir ve gerektiğinde, doğrulamalarını ise
+ayda bir yapar/yaptırır. Bu işlemlerden sonra bir rapor düzenlenerek kabin
+içerisinde bulunan dosyada ve sistem yazılımında kayıtlar, sertifikalar ve
+benzeri saklanmalıdır.
+(2) SAİS sorumlu teknik personeli Bakanlıkça
+verilen numune alma sertifikasına sahip olmalıdır, sertifikaya sahip değil
+ise SAİS kurulumunu müteakip bir yıl içerisinde temin etmelidir.
+(3) Tüm cihazların kalibrasyonu, doğrulamaları ve
+bakımları için plan yapılır ve gerçekleştirilen kalibrasyonlar,
+doğrulamalar ve bakımlar bu plana işlenir. Bu planlar, referans
+çözeltilerin sertifikaları ve benzeri tüm kayıtlar kabin içerisinde yer
+alan bir dosyada ve sistem yazılımında saklanmalıdır.
+(4) Kullanılacak tüm ölçüm cihazlarının tayin
+limitleri, tesisin Su Kirliliği Kontrolü Yönetmeliği’nde belirtilen sınır
+değerleri karşılamalıdır.
+(5) Tesis, TS EN ISO 15839 sayılı standarda uygun
+olarak kalibrasyon, bakım vb. işlemler için, planlanmış durma zamanı
+çizelgesi oluşturur. Sistemin çalışma ve durma zamanları, TS EN ISO 15839
+sayılı standartta gösterildiği şekilde hesaplanır.
+Performans
+testi
+MADDE 16
+– (1) Kullanılan ölçüm ve analiz
+cihazlarının TS EN ISO 15839 sayılı Su Kalitesi - Su İçin Hatta Sensörler/Analiz Cihazı-Özellikler ve Performans Deneyi
+standardında belirtilen prosedüre göre performans testlerinin yapılmış
+olması gerekir.
+(2) Performans testi için, TS EN ISO 15839 sayılı
+standardın Ek-E’sinde verilen rapor formatları
+kullanılır. Test sonucunda, ölçüm ve analiz cihazlarının aşağıdaki
+özellikleri sağlaması gerekir.
+Sıcaklık
+pH
+İletkenlik
+Çözünmüş Oksijen
+°C
+pH Birimi
+Ölçüm aralığının
+yüzdesi
+Ölçümün yüzdesi
+Ortalama Hata
+0,3
+0,2
+1
+5 veya 0,2mg/L
+Doğrusallık
+0,2
+0,1
+0,2
+2,5
+Tekrarlanabilirlik
+0,2
+0,1
+0,5
+2,5 veya 0,1mg/L
+Numuneden Gelen Matriks Etkisi
+-
+-
+-
+2,5
+Sapma
+0,2
+0,1
+0,5
+2,5
+Bileşik Performans
+Özelliği
+0,5
+0,3
+1,5
+6
+(3) Yukarıdaki tabloda belirtilen “Bileşik
+Performans Özelliği” değerinin, TS EN ISO 15839 sayılı standardın Ek-E’sine göre düzenlenen belgede bulunmaması halinde, bu
+değer hesaplanırken; cihazın ortalama hata, doğrusallık, tekrarlanabilirlik
+ve sapma değerleri ile birlikte cihazın niteliğine göre çıkış direnci,
+besleme gerilimi, ortam sıcaklığı, ışık etkisi, örnek sıcaklığı, örnek akış
+hızı ve örnek basıncı gibi diğer etkiler de göz önüne alınarak hazırlanır.
+(4) KOİ ve AKM ölçüm cihazlarının performans
+testleri yapılarak kayıtları saklanır.
+(5) Tüm cihazların performans testleri ilgili firma
+teknik servisi tarafından yapılır.
+Kalibrasyon
+MADDE 17
+– (1) Kalibrasyonlar ve
+hesaplamalar TS EN ISO 8466-1 Analitik Metotların Kalibrasyonu, Değerlendirilmesi
+ve Performans Özelliklerinin Tahmini Bölüm 1: Lineer (Doğrusal) Kalibrasyon
+Fonksiyonunun İstatistiksel Değerlendirilmesi Standardına uygun yapılır.
+(2) Tüm cihazların kalibrasyonları sertifikalı
+referans maddeler kullanılarak yapılır.
+(3) pH parametresi için
+kalibrasyon, 4-10 aralığında kapsayacak şekilde yapılır.
+(4) Oksijen için yapılan ölçümler, genellikle %
+100’lük çözünmüş oksijen doygunluğuna kadar doğrusal olduğundan, cihazların
+doygunluk derecesi % 0 ile % 100 arasında seçilir.
+(5) İletkenlik parametresi için atıksuyun
+niteliğine göre üretici/tedarikçi veya yüklenici tarafından uygun aralıklardan
+biri belirlenir ve kalibrasyonu yapılır.
+(6) pH, ÇO ve İletkenlik
+ölçümleri için kalibrasyonlar; TS 9748 EN 27888 “Elektrik İletkenliği
+Tayini”, TS EN ISO 10523 sayılı “Su Kalitesi - pH
+Tayini”, TS 5677 EN 25814 “Çözünmüş Oksijen Tayini” standartlar veya diğer
+ulusal/uluslararası standartlar kullanılarak yapılır.
+(7) KOİ parametresi kalibrasyonu 10-1000 mg/L
+aralığında yapılır.
+(8) KOİ ve AKM ölçüm cihazlarının kalibrasyonları,
+ulusal/uluslararası standartlar ile sertifikalı referans madde veya değeri
+bilinen referans madde kullanmak suretiyle yapılır.
+(9) SAİS Numune Alma Cihazı +4°C’de
+kalibreli olmalı ve her yıl kalibrasyonu tekrar edilmelidir.
+Doğrulama
+MADDE 18
+– (1) Doğrulama testleri TS
+5822-1 ISO 5725-1 sayılı Ölçme
+Metotlarının ve Sonuçlarının Doğruluğu (Gerçeklik ve Kesinlik) Bölüm 1:
+Genel Prensipler ve Tarifler standardında belirtilen yöntemlerle yapılır.
+(2) Cihaz doğrulaması sonucunda, ölçülen değerlerin
+±%10 saptığı durumlarda kalibrasyon yenilenerek doğrulama testi
+tekrarlanır.
+Bütünleşik
+karşılaştırma testi
+MADDE 19
+– (1) Bütünleşik Karşılaştırma
+Testi; sistemden SAİS numune alma cihazı ile İl Müdürlüğü gözetiminde
+otomatik olarak alınan numunelerin Su Kirliliği Kontrolü Yönetmeliği sektör
+tablosunda yer alan parametreler ile SAİS ölçümlerinin karşılaştırması
+amacıyla yapılır. Bütünleşik karşılaştırma testi için endüstriyel
+tesislerden, 3 ayda 1 kez, evsel/kentsel tesislerden 6 ayda 1 kez numuneler
+alınarak yetkili çevre laboratuvarlarında analiz
+edilir. Analiz sonuçları İl Müdürlüğü’ne raporlanır. Raporlar kabin
+içerisindeki bilgisayarda pdf formatında saklanır
+ve Bakanlığın uzaktan erişimle raporlara ulaşımı sağlanır. Raporda, Su
+Kirliliği Kontrolü Yönetmeliği sektör sınır değerleri ile otomatik alınan
+numunenin SAİS ölçüm sonuçları ve laboratuvar
+analiz sonuçları bir arada yer almak zorundadır. Tesis, Bütünleşik
+Karşılaştırma Testi numunesine ait anlık SAİS ölçüm değerlerini sistemden
+alınan bir çıktı ile raporda yer almak üzere yetkili laboratuvara
+verir.
+ALTINCI BÖLÜM
+Kurulum ve
+Kabul İşlemleri
+SAİS
+proje başvuru dosyası
+MADDE 20
+– (1) SAİS kurulumu yapacak tesis,
+başvuru dilekçesi ile birlikte aşağıda yer alan bilgi ve belgeler ile Proje
+Başvuru Dosyasını hazırlar. Proje Başvuru Dosyasında;
+a) Numune alma noktası ve kabinin yeri için İl
+Müdürlüğü tarafından verilen onay belgesi,
+b) Ölçüm problarının/cihazlarının
+Türkçe olarak çalışma prensibi, dayandığı ulusal/ uluslararası standartları
+gösteren metot seçimi ile cihazı tanıtan diğer dokümanlar,
+c) SAİS Numune Alma Cihazı teknik özellikleri ve
+sertifikası,
+ç) Önceden kurulumu tamamlanmış SAİS’lerde
+ilave probların, ölçüm cihazlarının (KOİ, AKM) ve
+SAİS numune alma cihazının sisteme entegrasyonuna ilişkin bilgiler,
+d) Tesisin geriye dönük 1 yıllık iç izleme
+verileri, atıksu karakteri ve girişim unsurları,
+e) Yazılım ve veri aktarımına ilişkin tasarım,
+ile ilgili tüm bilgiler yer almak zorundadır.
+Başvuru
+MADDE 21
+– (1) SAİS kurulumu bu Tebliğce
+zorunlu olan tesisler, 19 uncu maddede belirtilen bilgi ve belgelerle Proje
+Başvuru Dosyasını hazırlar ve Bakanlığa sunar. SAİS ile ilgili başvurular
+Bakanlık tarafından değerlendirilir. Eksiklik tespit edilmesi halinde
+başvuru reddedilir. Tesis tüm belgeleri tamamlayarak yeniden başvuru yapar.
+(2) Eksiklikleri bulunmayan veya eksikliklerini
+tamamlamış olan tesislere, Bakanlıkça dosya onayı verilir.
+(3) Dosya onayı almış tesis SAİS kurulumunu en geç
+60 gün içerisinde tamamlar.
+(4) SAİS istasyon kurulumu tanınan süre içerisinde
+tamamlandıktan sonra 30 gün süre ile
+kalibrasyon, karşılaştırma ve doğrulama çalışmaları yapılarak
+kurulum için gerekli tüm işlemler
+tamamlanır. Karşılaştırma çalışmaları SAİS’te
+ölçülen tüm parametrelerin yetkili bir laboratuvarla
+haftada 2 kez eş zamanlı olarak, toplam 8 kez ölçüm ve analiz edilmesidir. Karşılaştırma
+sonuçları 21 inci maddede belirtilen sistem onay dosyasında Bakanlığa
+sunulmak üzere yer alır.
+SAİS
+sistem onay dosyası
+MADDE 22
+– (1) Kurulumu tamamlanmış ve 30
+gün süre ile kalibrasyonu yapılmış SAİS’lerin
+Bakanlık merkezi veri tabanına bağlantıları yapılabilmesi için tesis
+tarafından Bakanlığa sunulmak üzere Sistem Onay Dosyası aşağıdaki bilgi ve
+belgeleri içerecek şekilde hazırlanır:
+a) Tüm cihazların performans testleri,
+kalibrasyonları ve doğrulamaları,
+b) Veri kalitesi ve güvenirliği için numunelerin SAİS’te ölçülen tüm parametrelerde yetkili bir laboratuvarla haftada 2 kez eş zamanlı karşılaştırma
+çalışmaları,
+c) Bakanlık merkez yazılımına veri aktarımına
+ilişkin prosedür,
+ç) SAİS Numune Alma Cihazı örnek numune alma
+çalışmaları,
+d) SAİS yetkili personelinin aldığı eğitimler,
+e) Önceden kurulan SAİS’lere
+ilave ölçüm cihazları ve SAİS numune alma cihazı entegrasyonu ile ilgili
+belgeler yer alır.
+Sistemin
+yerinde incelenmesi ve sistemin onayı
+MADDE 23
+– (1) Sistem Onay Dosyasını
+Bakanlığa sunan tesislere kurulan SAİS, Bakanlıkça ve/veya İl Müdürlüğünce
+yerinde incelenir.
+a) Yerinde inceleme, SAİS’in;
+iç ve dış özelliklerinin, cihaz, alet ve ekipmanlarının, işletiminin,
+teknik personelin yeterliliğinin, dokümanlarının, kayıtlarının, veri güvenilirliğinin
+ve ölçüm kalitesinin, Bakanlık merkezi veri tabanına bağlantıların,
+yazılımın yerinde ve uygulamalı olarak değerlendirilmesini ve bu Tebliğ
+hükümlerine uygunluğunu kapsar.
+b) İnceleme sırasında Bakanlık/İl Müdürlüğü
+görevlilerine her türlü bilgi ve belgenin ibraz edilmesi ve inceleme
+komisyonunca gerekli görülen analiz ve ölçümlerin yapılması zorunludur.
+c) İncelemelerde tesis yetkilisi, SAİS sorumlu
+personeli ve yüklenici firma yetkilisi hazır bulunur.
+ç) İncelemelerde, Bakanlık ve/veya İl Müdürlüğü
+yetkilileri tarafından sistemin uygunluğu kontrol edilir. Tespit edilen
+hususlar; Bakanlık ve/veya İl Müdürlüğü, tesis yetkilisi ve yüklenici firma
+olmak üzere en az üç kişiden oluşan komisyon ile tutanak altına alınır. İl
+müdürlüğü tarafından resmi yazı ile tesise ve Bakanlığa bildirilir. Kurulumu
+tamamlanan sistemlerin Bakanlık merkez yazılımından verilerinin kesintisiz
+en az on gün süresince izlenmesini müteakip, sistem onayları Bakanlık
+tarafından verilir.
+d) İnceleme sonucunda eksiklik tespit edildiyse, il
+müdürlüğü tarafından resmi yazı ile tesise ve Bakanlığa bildirilir. Tesis
+bir ay içerisinde eksikliğini gidermelidir. Eksiklikleri giderilen
+sistemler gerekli hallerde yeniden denetlenir. Bakanlık merkez yazılımından
+verilerinin kesintisiz en az on gün süresince izlenmesini müteakip, sistem
+onayları Bakanlık tarafından verilir.
+e) Belirtilen süre içerisinde eksiklikler
+tamamlanamamış veya yine eksiklik tespit edilmişse sistemin onayı yapılmaz.
+Bu durumda tesis, revize Proje Başvuru Dosyasını hazırlar ve Bakanlığa
+sunar.
+YEDİNCİ BÖLÜM
+Cezai İşlemler
+ve Yaptırım
+Cezai
+işlemler ve yaptırım
+MADDE 24
+– (1) SAİS ile ölçülen
+parametrelerin ölçüm sonuçlarında, veri iletiminde veya numunelerle ilgili
+herhangi bir değişiklik yapıldığı tespit edilmesi halinde; 2872 sayılı
+Çevre Kanununun ilgili hükümleri uygulanır.
+(2) SAİS kurmakla yükümlü tesisler kurulum
+işlemlerini bu Tebliğde belirtilen süre içerisinde tamamlamaz ise Çevre
+Kanununun ilgili hükümleri uygulanır.
+SEKİZİNCİ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Genel
+güvenlik önlemleri
+MADDE 25
+– (1) SAİS’lerin
+kurulması, işletilmesi ve bakımı aşamalarında TS EN ISO 5667-1 sayılı Su
+Kalitesi - Numune Alma - Bölüm 1: Numune Alma Programlarının ve Numune Alma
+Tekniklerinin Tasarımına Dair Kılavuzun 4 üncü maddesinde belirtilen genel
+güvenlik önlemleri alınır.
+(2) Herhangi bir sebeple sistemden numune
+alınmasının gerektiği durumlarda, tüm güvenlik önlemlerinin alındığından
+emin olunur.
+(3) İlgili
+sağlık ve güvenlik mevzuatında belirtilen hususlara dikkat edilir.
+(4) Toksik sıvıların veya
+dumanların bulunabileceği ve patlayıcı buhar oluşabilecek durumlarda SAİS’in işletmesi ve bakımı aşamalarında gerekli
+tedbirler alınır.
+(5) Atıksuyun tahliye
+edildiği noktalar fiziksel erişimin zor olduğu ve uzak noktalarda bulunan borular
+veya açık kanallar şeklinde olabilir. Bu ve benzeri durumlarda,
+gerekebilecek güvenlik önlemleri özel donanımlar ile alınır.
+(6) Endüstriyel işlemlerde kullanılmış olan ve atıksuda bulunabilecek yağ gres, asidik ve bazik
+maddeler, yüksek oranda askıda katı madde veya alevlenebilir sıvılar ve
+gazlar gibi bazı bileşenlerin bulunabileceği durumlarda, olası kaza
+risklerinin önüne geçmek amacıyla kişisel koruyucu donanım, dış ortam
+kamerası, alarm ve benzeri güvenlik çözümleri kullanılarak gereken tedbirler
+alınır.
+(7) Tesisler, TS EN ISO 5667-1 sayılı, TS EN ISO
+5667-3 sayılı ve TS ISO 5667-10 sayılı standartlarda yer alan ve bu
+Tebliğde belirtilmeyen diğer tüm güvenlik hususlarına uymakla yükümlüdür.
+Debi ve
+parametrelerde değişiklik yapılması
+MADDE 26 – (1) Bakanlık gerekli gördüğü takdirde kurulu
+kapasitesi 10.000 m3/gün’den daha düşük debili tesislere izleme
+sistemi kurulmasını sağlar.
+(2) Bakanlık SAİS’te
+izlenecek parametre sayısında değişik yapabilir.
+(3) Daha düşük debili tesislere kurulacak sistem
+veya izlenecek parametre değişikliğine ilişkin hususlar Bakanlıkça
+belirlenir.
+İç
+izlemeler
+MADDE 27
+– (1) Su Kirliliği Kontrolü
+Yönetmeliği Numune Alma ve Analiz Metotları Tebliğinin 4 üncü maddesinin
+üçüncü fıkrasında yer alan kentsel,
+evsel ve endüstriyel nitelikli atıksular için
+numune alma sıklığını gösteren Tablo 1: Debiye göre numune alma sıklığı
+başlığında belirtilen endüstriyel nitelikli atıksular
+ve kentsel - evsel nitelikli atıksuların iç
+izlemeleri, debisi 10.000 m3/gün ve üzerinde olan tesislerde SAİS’in devreye alınması ve Bakanlık onayına müteakip
+ilgili tesis için kaldırılır.
+SAİS
+geçiş süreci
+GEÇİCİ
+MADDE 1 – (1) Bu Tebliğin
+yürürlüğe girdiği tarihte Bakanlığın 2012/24 sayılı Genelgesi ile arıtma
+tesisi çıkışlarına Gerçek Zamanlı Atıksu İzleme
+Sistemi kurulumunu tamamlamış tesisler, bu Tebliğin yayımlandığı tarihten
+itibaren en geç 4 ay içerisinde bu Tebliğde yer alan hükümlere göre
+sistemlerini uygun hale getirerek KOİ, AKM parametreleri için ölçüm
+cihazları ve SAİS Numune Alma Cihazını mevcut sistemlerine entegre etmekle
+yükümlüdür.
+(2) Atıksu debisi 10.000
+m3/gün ve üzerinde olan ve ilk defa SAİS kuracak tesisler, bu
+Tebliğin yürürlüğe girdiği tarihten itibaren, en geç 4 ay içerisinde arıtma
+tesisleri çıkışlarına bu Tebliğ hükümlerine göre SAİS kurmakla yükümlüdür.
+Yürürlük
+MADDE 28
+– (1) Bu Tebliğ yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 29
+– (1) Bu Tebliğ hükümlerini Çevre
+ve Şehircilik Bakanı yürütür.
