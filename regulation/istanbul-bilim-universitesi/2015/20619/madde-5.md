@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Üniversitenin ilgili bölüm ve anabilim dallarının iş birliği ile her türlü hücre, doku ve organ nakli uygulamalarını uluslararası kalite ve standartlarda doğru ve güvenilir biçimde sürekli ve mümkün olan en kısa zamanda yapmak, ilgili kanun hükümleri çerçevesinde kadavradan elde edilecek tüm insan dokularını işleyip ihtiyacı olan hastalara tedavi amaçlı kullanmak, hastalara transfer edilecek her türlü hücre ve dokunun dünyaca kabul edilen GMP koşullarında üretimini ve hastaya uygulanmasını sağlamak, toplumun her kesiminde hücre, doku, organ nakli ve organ bağışı ile beyin ölümü konularında bilinçlendirmeyi sağlamak, hücre, doku ve organ nakli konularında tüm kurumlarla iş birliği yapmak, hücre, doku ve organ nakli konularında yeni teknikler geliştirmek, bilimsel araştırma ve projeler yapmak.
