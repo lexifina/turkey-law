@@ -1,0 +1,17 @@
+ Başka Bİr Belediyeye Ait İmalatın Yapılması
+
+Denetçi sorgusunda yer alan; ……... ...Şti. yükleniminde bulunan …TL sözleşme bedelli “…...İşi” kapsamında, aralarında kabul edilebilir doğal bir bağlantı olmadığı halde, …Belediyesi’nin ihtiyacını karşılamak amacıyla beton parke, beton bordür ve beton su oluğu alımı işinin de gerçekleştirildiği ve bu suretle ……….. Şirketine yersiz yere yüklenici karı ödenerek toplam …TL kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+4734 sayılı Kamu İhale Kanunu’nun “Temel İlkeler” başlıklı 5’inci maddesi uyarınca, aralarında kabul edilebilir doğal bir bağlantı olmadığı sürece mal alımı, hizmet alımı ve yapım işlerinin bir arada ihale edilmesi mümkün bulunmamaktadır.
+
+Bahse konu olayda ise, …Belediyesince kardeş şehir olarak kabul edilen …Belediyesinin beton parke, beton bordür ve beton su oluğu ihtiyaçlarının karşılanmasına yönelik olarak …ilinde fiyat araştırması yapıldığı ve …Ticaret ve Sanayi Odası Başkanlığı’ndan alınan fiyat doğrultusunda uygun fiyat teklif ettiği tespit edilen …Ltd. Şirketinin bahse konu malzemeleri KDV dahil …TL karşılığında …Belediyesine teslim ettiği, ancak, söz konusu alımın, aralarında doğal bir bağlantı olmadığı halde, …….. Ltd. Şti. yükleniminde bulunan “…İnşaatı İşi” kapsamına dahil edilerek yeni birim fiyat tespit edilmek suretiyle ve …Belediyesince ………. firmasına ödenen KDV dahil toplam …TL bedel karşılığında gerçekleştirildiği anlaşılmıştır.
+
+Her ne kadar sorumlularca yapılan savunmalarda, Yapım İşleri Genel Şartnamesinin “Sözleşmede bulunmayan işlerin fiyatının tespiti” başlıklı 22’nci maddesinin (ç ) bendinde “İdarece kabul edilmek şartıyla, ticaret ve/veya sanayi odasınca onaylanmış uygulama ayma ait yerel rayiçleri” kullanılarak yeni birim fiyat tespit edilebileceği ve bu fiyat üzerinden müteahhit firmaya ödeme yapılabileceği, bahse konu olayda da, …Ticaret ve Sanayi Odası tarafından bildirilen birim fiyatlara %12,5 müteahhit karı ve genel giderler eklenerek ödeme yapıldığı ve anılan Genel Şartname’de “müteahhit firmanın imalatı gerçekleştiren veya malzemeyi temin ettiği firmadan aldığı fatura bedeli üzerinden ödeme yapılabilir” şeklinde bir hüküm bulunmadığı ve iki firma arasındaki ticari ilişkilere müdahale veya takibinin mümkün olmadığı ifade edilerek ödemenin mevzuatına uygun olduğu ileri sürülmüş ise de, …Belediyesi tarafından …Belediyesine yardım yapılması amacıyla satın alınan ve …ilinde bizzat …Belediyesi tarafından gerçekleştirilen fiyat araştırmasına dayalı olarak tespit edilen bir firmadan temin edilerek yine bu firma tarafından …Belediyesine teslim edilen malzemelerin, bu alımla hiçbir ilgisi olmayan “…Yapı İnşaatı İşi” hak edişlerine yeni birim fiyat şeklinde eklenerek söz konusu alımın gerçekleştirilmesinde fiilen yer almayan …….. firmasına ödeme yapılması, 4734 sayılı Kanun’un anılan 5’inci maddesi uyarınca, mümkün bulunmamaktadır.
+
+Sonuç olarak, …. Şirketine ödenen KDV dahil…TL ile …….. …Ltd. Şirketine ödenen …TL arasındaki …TL kamu zararı oluşturmakla beraber, sorumlularca bu tutardan …TL’sinin …tarih ve …nolu vezne alındısıyla tahsil edildiği görülmüştür.
+
+Bu itibarla, sorgu konusu edilen mal alımlarına ilişkin olarak neden olunan kamu zararı tutarı …TL’nin;
+
+…TL’si tahsil edildiği anlaşıldığından, bu tutar için ilişilecek bir husus kalmadığına,
+
+Kalan …TL’sinin ise; sorumlulara…müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faizleri ile ödettirilmesine, oy birliğiyle,
