@@ -1,0 +1,7 @@
+Terminal İşletme Bedelinin Teknik Şartnameye Aykırı Hesaplanması
+
+Denetçi sorgusunda yer alan; 2886 Sayılı Devlet İhale Kanunu kapsamında ihale edilen …Şehirlerarası ve Uluslararası Otobüs Terminali ve Müştemilatının 3 yıl müddetle işletilmesi işinde, iki ve üçüncü yıla ilişkin işletme bedellerinin söz konusu işe ait Teknik Şartname’nin işletme süresi ve bedeli başlıklı 5’inci maddesine aykırı olarak belirlenmesi sonucunda Belediyenin …TL gelir kaybına uğratıldığı iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Bahse konu işe ait Teknik Şartname’nin “İşletme süresi ve bedeli” başlıklı 5’inci maddesinde, birinci yıl sonunda ve sonraki yıllarda aylık işletme bedelinin rayiç değer ve enflasyon oranı nazara alınarak Belediye Encümenince tespit edileceği belirtilmesine rağmen, söz konusu işin ikinci ve üçüncü yıllarına ilişkin işletme bedelinin anılan Şartname hükmüne aykırı olarak herhangi bir artış yapılmadan alınmaya devam edilmesi sonucunda Belediyenin …TL gelir kaybına uğratıldığı anlaşılmış ise de, sorumlularca yapılan savunmalar ve gönderilen belgelerden, söz konusu tutarın KDV dahil işletme bedeli farkı ve gecikme bedeli ile birlikte toplam …TL olarak yüklenici ………... Tic. A.Ş.’den …tarih ve …sayılı vezne alındıları ile tahsil edildiği görülmüştür.
+
+Bu itibarla, sorgu konusu edilen eksik belirlenen işletme bedeline ilişkin kamu zararı tutarı …TL’nin tahsil edildiği anlaşıldığından, bu tutar için ilişilecek bir husus kalmadığına, oy birliğiyle,
