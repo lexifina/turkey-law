@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40194",
+  "decision_date": "2015-03-24",
+  "source_id": 9773,
+  "chamber": "8",
+  "file_number": "37262",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9773/",
+  "source_sha256": "f80d1d2670eaf6edc36bf045045ceb936690bf0a79746c81050bc437c27c1e0f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
