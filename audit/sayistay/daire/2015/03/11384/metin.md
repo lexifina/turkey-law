@@ -1,0 +1,7 @@
+Teknik Şartnameye Uygun Olmayan İmalat Bedeli
+
+Denetçi sorgusunda yer alan; Müteahhit ………… .... Tic. Ltd. Şti. yükleniminde bulunan …TL sözleşme bedelli …. ..Yapımı işinde, A.0099 ve A.0100 poz no’lu imalatlarda kullanılan kerestenin imalatlara ait tariflere ve Teknik Şartnameye uygun olmadığı, dolayısıyla, söz konusu imalatta farklı kalite ve fiyatta kereste kullanılması suretiyle …TL kamu zararına neden olunduğu iddiasına ilişkin olarak dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Söz konusu yapım işiyle ilgili olarak, her ne kadar Denetçisince, bu işte kullanılan A.0099 ve A.0100 poz no’lu imalatlarda 1’nci sınıf çam kereste yerine idare ve yüklenicinin bilgisi dahilinde kalitesi ve birim fiyatı farklı olan 2’nci sınıf çam kereste kullanıldığı, dolayısıyla, söz konusu imalatların sözleşme eki birim fiyat tariflerine uygun yapılmaması suretiyle …TL kamu zararına neden olunduğu iddia edilmiş ise de, sorumlularca yapılan savunmalar ve gönderilen belgelerden, sorguya konu edilen her iki poz için de özel birim fiyat tarifleri verildiği ve bu pozlarda geçen kereste için Denetçi sorgusuna esas alınan Vakıflar Birim Fiyat pozlarında yer verilen; “çok az budaksız, çatlaksız ve burgacı bulunmayan çıralı çamdan” şeklinde bir tarif getirilmediği, dolayısıyla, bahse konu imalatlara kullanılan kerestenin, imalatlara ait tarifler ve şartnamesine uygun olduğu anlaşılmıştır.
+
+Bu itibarla, sorgu konusu …TL için ilişilecek husus bulunmadığına, oy birliğiyle,
