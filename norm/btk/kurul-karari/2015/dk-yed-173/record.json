@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2015/DK-YED/173",
+  "date": "2015-03-25",
+  "title": "Yetkilendirme Devri (Kobikom)",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2015-03-25",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=109",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/ef808609-e9a5-455c-a36d-fbca9e7fa464.pdf",
+  "source_sha256": "82a397681ddf3d3867dddbbf7ad9942aec2ea05a9b8cacc6a4bcdf5d1a0e367c",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2015-03-25",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 25.03.2015; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
