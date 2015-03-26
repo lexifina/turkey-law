@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10454",
+  "decision_date": "2015-03-26",
+  "source_id": 9411,
+  "chamber": "1",
+  "ilam_number": "208",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9411/",
+  "source_sha256": "56bfce7cb34f625eebe5c5aeb8a9f8e658f87240de3dc32c7dea6401ff6232b2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
