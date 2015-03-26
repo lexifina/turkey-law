@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10454",
+  "decision_date": "2015-03-26",
+  "source_id": 12589,
+  "chamber": "1",
+  "ilam_number": "208",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12589/",
+  "source_sha256": "337d4667ef39d19eb172e1417f419c091a2c5a6b7e5b8f90d0d17af9f0116bec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
