@@ -1,0 +1,6 @@
+Görüşülen raporlarla ilgili yapılacak işlemler
+MADDE 14 – (1) Kanunun 43 üncü maddesi kapsamında düzenlenen raporların Kurulda görüşülmesini müteakip en geç beş iş günü içerisinde; rapora eklenmesi, çıkarılması veya değiştirilmesi kararlaştırılan hususları içeren karar özeti, gereği yapılmak üzere ilgili grubuna gönderilir. Grupça karar özeti doğrultusunda gerekli düzeltmeler yapılan rapor, yeterli sayıda çoğaltılarak ve birinci nüshası grup başkanınca imzalanarak raportörlüğe iade edilir. Kurulca son şekli verilen rapor, gereği yapılmak üzere Başkanlığa sunulur.
+(2) Kanunun 43 üncü maddesi kapsamı dışında kalan raporların Kurulda görüşülmesini müteakip en geç beş iş günü içerisinde; rapora eklenmesi, çıkarılması veya değiştirilmesi kararlaştırılan hususları içeren karar özeti, gereği yapılmak üzere Başkanlığa sunulur.
+(3) Yukarıda belirtilen işlem süreçlerinin tamamı veya bir kısmı, gerekli prosedürler hazırlanmak kaydıyla elektronik ortamda da yürütülebilir.
+(4) Görüşülen raporlarla ilgili gerekçeli kararlar, raportörlük tarafından müzakerelere uygun şekilde düzenlenir.
+(5) Görüşülmek üzere Kurula intikal eden raporların, görüşülmeden önceki nüshaları ve son şekli verilmiş nüshaları raportörlük arşivinde saklanır. Fiziki yetersizlik durumunda raporlar basılı nüsha yerine sadece elektronik ortamda saklanabilir.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20629",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAYIŞTAY RAPOR DEĞERLENDİRME KURULUNUN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "20629",
+  "issuer": "Sayıştay Başkanı",
+  "issuer_slug": "sayistay-baskani",
+  "path": "regulation/sayistay-baskani/2015/20629",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20629&MevzuatTertip=5",
+  "source_sha256": "c6ccbcff85436137eab1455e8921b1a4be601301d283216c47940063bb56a92c",
+  "source_bytes": 39669,
+  "published": "2015-03-26",
+  "gazette": "29307",
+  "in_force": "2015-03-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.03.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1419,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
