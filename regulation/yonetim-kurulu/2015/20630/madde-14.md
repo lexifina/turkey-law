@@ -1,0 +1,3 @@
+Yönetim kurulu kararı ve tebligat
+MADDE 14 – (1) Yönetim Kurulu, Komitenin verdiği kararı aynen kabul edebileceği gibi, gerekçesini belirtmek suretiyle farklı bir karar da alabilir. Yönetim Kurulu, ihbar, şikayet ya da re’sen başlattığı soruşturmayı bu Yönetmelik hükümleri doğrultusunda, mevzuat, örf ve adet ile hakkaniyet ilkeleri uyarınca inceleyerek karara bağlar.
+(2) Yönetim Kurulunun kararı, alındığı günü izleyen beş iş günü içinde iadeli taahhütlü mektupla, ihbar veya şikayette bulunan kişinin ve hakkında inceleme yapılan üyenin Birliğe bildirdiği adreslerine göndermek veya elden imza karşılığı teslim edilmek suretiyle tebliğ edilir.

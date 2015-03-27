@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20630",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE SERMAYE PİYASALARI BİRLİĞİ DİSİPLİN YÖNETMELİĞİ",
+  "number": "20630",
+  "issuer": "Yönetim Kurulu",
+  "issuer_slug": "yonetim-kurulu",
+  "path": "regulation/yonetim-kurulu/2015/20630",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20630&MevzuatTertip=5",
+  "source_sha256": "0ba84ae5f6dc676e3f8478fcbca4ab0e1b061f0e97ab15bcf1e3381be41af990",
+  "source_bytes": 40125,
+  "published": "2015-03-27",
+  "gazette": "29308",
+  "in_force": "2015-03-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.03.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2170,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,6 @@
+Soruşturma yöntemi
+MADDE 13 – (1) Yapılacak soruşturmada, yazılı savunma istenmesi zorunludur.
+(2) Savunma için verilecek süre suçlamanın üyeye tebliği tarihinden itibaren on iş günüdür. Komite, savunma istemesi için Komite Raportörünü yetkili kılabilir. Belirlenen süre içinde savunmasını vermeyen üye, savunma hakkından vazgeçmiş sayılır. Geçerli mazeret bildiren veya mücbir sebeple savunma yapmadığı anlaşılan üye için savunma verme süresi suçlamanın üyeye tebliği tarihinden itibaren yirmi iş günüdür.
+(3) Komite, hakkında soruşturma yapılan üyenin talebi üzerine veya re’sen, ilgilileri ayrı ayrı dinlemek üzere davet edebilir. Görüşme sonuçları tutanağa bağlanır ve ilgililerce imzalanır. Haklı bir gerekçeye dayanmaksızın davete uymayanların dinlenmesinden vazgeçilir.
+(4) Komite, başvuruyla ilgili kanıtları toplamak, olayla ilgili kişilerin bilgilerine başvurmak hakkına sahiptir. Komite, delillerin gösterilme ve incelenme şeklini olayın niteliğini dikkate alarak belirler.
+(5) Komite, disiplin dosyası ile ilgili raporunu savunma için verilecek süreler hariç en geç altmış iş günü içinde düzenler ve kararını Yönetim Kurulunun onayına sunulmak üzere Başkana bildirir. Başkan, Komite kararını ilk Yönetim Kurulu toplantısının gündemine alır. Yönetim Kurulu raporda eksiklik görürse, eksikliği en fazla yirmi iş günü içinde tamamlatmak üzere dosyayı iade eder.

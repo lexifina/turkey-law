@@ -1,0 +1,3 @@
+Kararların kesinleşmesi
+MADDE 16 – (1) Kararlar, 15 inci maddede belirtilen süreler içinde üyelerin Kurula itiraz etmemeleri halinde veya üyelerce Kurul nezdinde yapılan itiraz hakkında Kurul kararının üyeye tebliğiyle kesinleşir. Ancak Birlik üyeliğinden geçici ve sürekli çıkarmaya dair kesinleşmiş olan disiplin cezalarının uygulanması için Yönetim Kurulu tarafından ilave bir süre gerektiğine kanaat getirilirse, bu süre disiplin cezasının kesinleştiği tarihten itibaren on iş gününden fazla olmamak üzere belirlenir.
+(2) Bu Yönetmelik uyarınca Birlik üyeleri hakkında yürütülen disiplin soruşturmaları sonucu kesinleşen kararlar hakkında bilgiler, Yönetim Kurulunun belirlediği esaslar çerçevesinde duyurulur.
