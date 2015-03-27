@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5537",
+  "decision_date": "2015-03-27",
+  "title": "01/04/2015 Tarihinden İtibaren Geçerli Olacak Tarife Tabloları",
+  "resmi_gazete_date": "2015-03-31",
+  "resmi_gazete_number": "29312",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eNimJjjNn58=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eNimJjjNn58=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=m3AMqRCSAbI="
+  ],
+  "source_sha256": "3f6442811cf9019816129d4cc8d6f614c3149fdad9c5345534d3855eb460106c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-03-27",
+  "law_text_complete": false
+}
