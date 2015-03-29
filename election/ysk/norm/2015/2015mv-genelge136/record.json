@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2015/2015mv-genelge136",
+  "list_number": "474",
+  "genelge_number": "136",
+  "decision_date": "2015-03-29",
+  "title": "25. Dönem Milletvekili Genel Seçiminde \"İl Seçim Kurullarının Seçim Sonuçlarına İlişkin Görevleri ile Yurt Düzeyi Seçim Sonuçlarının Belirlenmesinde Uygulanacak Esas ve İlkeleri\" gösterir 136 sayılı genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1866/2015MV-Genelge136.pdf",
+  "source_sha256": "bc513006e7d9b79a2145261b1c964072b7ac33750df9fc7da83746bae8d72928",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-03-29",
+  "law_text_complete": false
+}
