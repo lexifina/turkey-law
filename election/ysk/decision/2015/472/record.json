@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/472",
+  "list_number": "472",
+  "decision_date": "2015-03-29",
+  "title": "Yüksek Seçim Kurulunun Cumhurbaşkanının faaliyetlerini denetleme yetkisinin bulunmadığına ilişkin 2015/472 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2156/2015-472.pdf",
+  "source_sha256": "1a9f38b65f718482bc4b92d7a6f1e79ceded6cef58a4104418a6fcdcee671978",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-03-29",
+  "law_text_complete": false
+}
