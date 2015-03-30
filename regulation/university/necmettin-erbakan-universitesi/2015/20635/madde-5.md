@@ -1,0 +1,14 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları şunlardır:
+a) Uzman kişiler tarafından, davranış sağlığı ve bilimlerine disiplinler arası bir eğitim yaklaşımı ile toplumda ailenin gelişmesi ve güçlenmesi için aile bireylerinin katılımcı ve üretken olmaları, kendilerine yetebilmeleri ve sorun çözme kapasitelerinin geliştirilmesi amacıyla koruyucu, önleyici, eğitici, bilgilendirici, bilinçlendirici, geliştirici, beceri kazandırıcı, rehberlik ve rehabilite edici hizmetler verilmesini sağlamak, bu çerçevede geniş kapsamlı eğitim etkinlikleri düzenlemek, eğitim programları sunmak ve bu yönde akademik çalışmalar yapmak.
+b) Ailelerin ve gençlerin yaşadıkları sorunları tespit etmek ve çözüme yönelik öneriler geliştirmek.
+c) Öncelikle Üniversitenin öğrencileri olmak üzere, aile fertleri ve gençlerin yaşadıkları gelişimsel, psikolojik ve toplumsal sorunların anlaşılması ve çözümüne yönelik uygulamalarda bulunulması amacıyla kamu ve özel kurum ve kuruluşlarla, gerçek ve tüzel kişilerle işbirliği yapmak, Üniversite-sivil toplum işbirliğini destekleyerek bunların ilişkilerini güçlendirmek.
+ç) Üniversitenin çeşitli birimleri ile işbirliği içinde, aile ve gençlere yönelik yapılmış ulusal ve uluslararası çalışmaları incelemek; yapılmakta olan yerel, ulusal, araştırma ve projelerden haberdar olmak, yürütülen projeleri izlemek, desteklemek ve bu çerçevede işbirliği yapmak.
+d) Değişen toplumsal dinamiklerle birlikte kadın ve erkek rollerindeki algılamalara bağlı olarak değişen ve/veya yitirilen aile değerlerinin korunmasına yönelik fedakarlık, sadakat, güven, karşılıksız sevgi, saygı ve benzeri konularda aileyi güçlendirici çalışmalar yapmak.
+e) Talep doğrultusunda psikolojik danışma hizmetleri vermek.
+f) Aile kurumunu içinde bulunduğu sosyal, kültürel ve çevresel faktörlerle değerlendiren bütüncül bir anlayışla; aile kurma niyetinde olan birey ve çiftlere, evlilik öncesi aile eğitimleri vererek güçlü ailelerin kurulmasına yönelik rehberlik, eğitim ve destek hizmetleri vermek; aile kurumu içinde sorun yaşayan birey ve çiftlere yönelik rehberlik, eğitim ve destek hizmetleri vermek; aile kurumunu sonlandırma kararı almış, boşanmış ya da ayrılık-boşanma süreci yaşayan birey ve çiftlere yönelik rehberlik, eğitim ve destek hizmetleri vermek.
+g) Sağlıklı bir gençlik, aile ve toplum hizmetini sunabilmek için sorunların azaltılması yönünde çalışmalar yapmak, her türlü şiddet mağduru bireylerin etkin ve kaliteli rehabilitasyon hizmetlerinden faydalanmasını sağlamak ve mağdur bireylerle planlı şekilde iletişimde bulunarak bu bireylerin yaşam kalitelerini artırmak için çalışmalar yapmak.
+ğ) Yukarıda öngörülen durumlar dışında sorunlar yaşayan bireylere yönelik rehberlik, eğitim ve destek hizmetleri vermek.
+h) Yönetim Kurulunun uygun gördüğü diğer etkinliklerde bulunmak.
