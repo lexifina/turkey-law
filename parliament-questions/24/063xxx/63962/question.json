@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 24,
+  "legislative_year": 5,
+  "esas_no": "7/63962",
+  "submitted": "2015-03-31",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Özcan YENİÇERİ",
+  "province": "Ankara",
+  "summary": "Kars Kafkas Üniversitesinde okuyan bir kız öğrencinin kaldığı yurtta hayatını kaybetmesine ilişkin",
+  "status": "Yasama Dönemi Sona Erdiğinden Hükümsüz Sayıldı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877bf-f71b-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "9b395ecb6e39481bee39fd38b409568afc6225f476e2ac433a9992c289dfa175",
+  "in_force": "2015-03-31",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
