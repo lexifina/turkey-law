@@ -1,0 +1,1 @@
+Madde 18 - Müdür, Genel Kurul üyelerinin seçildiği bilim ya da anabilim dalı öğretim elemanları arasından kendisine iki Müdür Yardımcısı seçer. Müdür Yardımcıları, Müdürün verdiği işleri yapar ve Müdürün bulunmadığı zamanlarda vekalet eder.

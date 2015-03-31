@@ -1,0 +1,1 @@
+Madde 23 - Merkezin akademik personel ihtiyacı Rektörlükçe karşılanır. Gerekli durumlarda, öğretim elemanı ihtiyacını karşılamak üzere Müdürün önerisi üzerine, ilgili mevzuat hükümlerine göre, Üniversite'nin farklı birimlerinde görevli öğretim elemanları Rektör tarafından Merkez'de görevlendirilebilir.
