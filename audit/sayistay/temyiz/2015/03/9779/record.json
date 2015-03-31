@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40200",
+  "decision_date": "2015-03-31",
+  "source_id": 9779,
+  "chamber": "1",
+  "file_number": "38970",
+  "account_year": "2010",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9779/",
+  "source_sha256": "e22f1b8cc66316df832b08eaa6d32083a04bf0595f55d22a4202ec470ea7832f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
