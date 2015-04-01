@@ -1,0 +1,58 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6644",
+  "year": 2015,
+  "title": "Yargıtay Kanunu ile Hukuk Muhakemeleri Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "2015-04-01",
+  "date_basis": "last-sitting",
+  "official_gazette_as_published": "11.4.2015 No: 29323",
+  "committee_reports": [
+    {
+      "label": "TBMM 704 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c111/tbmm24111088ss0704.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 24,
+      "kayit_no": 808873,
+      "title": "Yargıtay Kanunu ile Hukuk Muhakemeleri Kanununda Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [
+        {
+          "label": "TBMM 704 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c111/tbmm24111088ss0704.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 111,
+          "sitting": 88,
+          "sitting_date": "2015-04-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c111/tbmm24111088.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d24/c111/tbmm24111fih.pdf",
+          "pages": [
+            "304:323"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d24&v_yasama_yili=5&v_cilt="
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=414&v_gelecek_sayfa=401&v_kullanici_id=27484852",
+      "page_sha256": "301911cf339df5dec1a24d9f804cac9b19d5cf9760684b7226c248711723fa7e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=24&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "301911cf339df5dec1a24d9f804cac9b19d5cf9760684b7226c248711723fa7e",
+  "issuer": "TBMM",
+  "in_force": "2015-04-01",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2015-04-01); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
