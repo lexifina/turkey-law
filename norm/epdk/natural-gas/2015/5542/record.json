@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5542",
+  "decision_date": "2015-04-01",
+  "title": "İnegöl Doğalgaz Dağıtım Sanayi ve Ticaret A.Ş.?nin 2012-2016 yılları arası perakende satış tarifelerine yönelik alınmış olan 23/05/2013 tarih ve 4414 sayılı Kurul Kararının revize edilmesine yönelik",
+  "resmi_gazete_date": "2015-04-05",
+  "resmi_gazete_number": "29317",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9MO7IrYLBZw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9MO7IrYLBZw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BC9fSBgXqzE="
+  ],
+  "source_sha256": "72e42dc19708c3398dc55389dc25a2ae73b61eb2bb8d170cb1341b504d658bcf",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-04-01",
+  "law_text_complete": false
+}
