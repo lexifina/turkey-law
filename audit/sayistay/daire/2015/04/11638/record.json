@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10455",
+  "decision_date": "2015-04-02",
+  "source_id": 11638,
+  "chamber": "1",
+  "ilam_number": "184",
+  "item_number": 17,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11638/",
+  "source_sha256": "4cefbf4a4066a7510d4f01efed66b51623f259939922f35bac54dc7f83b8f409",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
