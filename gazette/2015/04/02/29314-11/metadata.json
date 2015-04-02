@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-04-02",
+  "issue": "29314",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Varlık Yönetim Şirketlerinin Kuruluş ve Faaliyet Esasları Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150402-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150402.htm",
+  "index_sha256": "8ed2c5dbcb42755622e7925eda86329b5d36de529cd1ca0cd946124f7baa8e8a",
+  "index_header": "2 Nisan 2015 ... 29314 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150402.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
