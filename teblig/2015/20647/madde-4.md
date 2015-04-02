@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Tebliğin uygulanmasında;
+a) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+b) Birlik: Her türden hayvan için ıslah esas olmak üzere, yetiştirme ve pazarlama faaliyetlerini gerçekleştirmek amacıyla, gerçek ve tüzel kişiliği haiz yetiştiriciler ile kurum ve kuruluşların oluşturdukları birlikleri,
+c) Hayvan ıslah komitesi: Hayvan Islahı Komitesi Çalışma Usul ve Esasları Hakkında Yönetmelik kapsamında Bakan Oluru ile oluşturulan komiteyi,
+ç) Hayvan sahibi/yetiştirici: Hayvanların mülkiyet hakkını üzerinde bulunduran gerçek veya tüzel kişiyi,
+d) Islah programı: Türkiye koşullarına uyumlu kaliteli damızlıklar elde etmek amacıyla ulusal veya bölgesel olarak planlanan ıslah çalışmalarını düzenlemek ve yönlendirmek amacıyla yapılan programı,
+e) İl/ilçe müdürlüğü: Bakanlık il/ilçe müdürlüğünü,
+f) Kanun: 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununu,
+g) Kısıtlama: Hayvanların piyasaya arzının, taşınmasının veya işletmeye giriş ve çıkışının yasaklanması, işletmede ve veri tabanında hayvan hareketlerini önlemeye yönelik tedbirleri,
+ğ) Merkez birliği: İl yetiştirici birliklerinin bir araya gelerek oluşturdukları ve faaliyetleri tüm yurdu kapsayacak şekilde her türden hayvan için Kanuna göre kurulmuş merkez birliklerini,
+h) Ön soy kütüğü: Sadece yetiştirme kayıtları tutulan işletmelerde, mensup olduğu ırkın özelliklerini taşıyan hayvanlar için oluşturulan veri tabanını,
+ı) Damızlık belgesi: Soy kütüğüne kayıt edilen damızlıkların numara, isim, orijin, ırk, renk, cinsiyet, doğum tarihi, verim kayıtları, yetiştirici ve sahibi ile hayvanın cetlerine ait bilgileri ve verimlerini belirten belgeyi,
+i) Performans testi: Sığırların damızlık değerlerinin belirlenmesi, verim özelliklerinin genetik değerlendirilmesi ve döl kontrolü çalışmalarını,
+j) Safkan damızlık: Ana ve babası ile bunların ana ve babaları aynı ırka ait bir soy kütüğüne kayıtlı, kendisi de bu soy kütüğüne kaydedilmiş veya soy kütüğüne kaydının yapılabilmesi için ırkının özelliklerini taşıyan sığır cinsi hayvanı,
+k) Sığır cinsi hayvan: Et üretimi, süt üretimi, damızlık veya diğer amaçlarla yetiştirilen Bison bison ve Bubalus bubalus türü hayvanlar dâhil her yaştaki sığır ve mandaları,
+l) Soy kütüğü: Damızlık belgesi düzenlemeye esas olacak bilgilerin düzenli olarak toplandığı veri tabanını,
+m) Test merkezi: Damızlık hayvanların bir ya da birden çok özelliğini benzer koşullarda tespit etmek için Bakanlık tarafından yetki almış kuruluş ve/veya hayvancılık işletmesini,
+n) Tanımlama: Yeni doğan hayvanların ilgili mevzuata göre kimliklendirilmesi ve kayıt edilmesini,
+o) Veri tabanı: Soy kütüğü ve ön soy kütüğü sisteminde toplanan tüm kayıtların tutulduğu elektronik ortamı,
+ifade eder.

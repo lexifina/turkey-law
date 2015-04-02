@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20647",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SAFKAN DAMIZLIK SIĞIR YETİŞTİRİCİLİĞİ HAKKINDA TEBLİĞ (TEBLİĞ NO: 2015/11)",
+  "number": "20647",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2015/20647",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20647&MevzuatTertip=5",
+  "source_sha256": "0e59f881f3a1e533ffe253e110ab7e51aab6147d1e2651fdd9d2c99771198d9e",
+  "source_bytes": 50088,
+  "published": "2015-04-02",
+  "gazette": "29314",
+  "in_force": "2015-04-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.04.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2622,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20647-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

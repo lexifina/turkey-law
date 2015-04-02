@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, her yaştaki safkan damızlık sığır cinsi hayvanların yetiştiriciliğini, soy kütüğüne kayıt şartlarını, kayıt için gerekli bilgileri, üzerinde durulan özellikler için verim kontrolünün yapılmasını, bilgilerin kayıt edilmesini, damızlık değer tahminini, damızlıkların belgelendirilmesini ve safkan damızlık sığıra ait sperma, ovum ve embriyoların her aşamadaki kayıt ve belgelendirilmesini kapsar.
