@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10455",
+  "decision_date": "2015-04-02",
+  "source_id": 11613,
+  "chamber": "1",
+  "ilam_number": "184",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11613/",
+  "source_sha256": "38238ea3a23f7ab80deb8ba24d3fe621a867f49cd6d6771168e5b20899bf1882",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
