@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10455",
+  "decision_date": "2015-04-02",
+  "source_id": 11604,
+  "chamber": "1",
+  "ilam_number": "184",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11604/",
+  "source_sha256": "d6cd1d90f4d9bf5b0f37c19ac93bf79240b0f8b41718a6b49b72be88f64b17d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
