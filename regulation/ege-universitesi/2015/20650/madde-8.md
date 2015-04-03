@@ -1,0 +1,4 @@
+Müdür
+MADDE 8 – (1) Müdür; güncel ulusal mevzuat hükümleri doğrultusunda Merkez Müdürü olabilme kriterlerine sahip Merkezin faaliyet göstereceği alanda en az beş yıl deneyime sahip tıp fakültesi öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesinden ve geliştirilmesinden doğrudan Rektöre karşı sorumludur.
+(2) Müdürün görevden alınması veya Müdürün süresini doldurmadan görevden ayrılması durumunda, ayrılan Müdürün kalan görev süresini doldurmak üzere Rektör tarafından müdür yardımcılarından biri vekâleten görevlendirilir.
+(3) Müdür görevi başında bulunmadığı zaman müdür yardımcılarından birini vekil bırakır. Müdür yardımcısı da bulunmazsa, Yönetim Kurulu üyelerinden biri vekil olarak bırakılır.
