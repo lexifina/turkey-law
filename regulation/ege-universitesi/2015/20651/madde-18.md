@@ -1,0 +1,2 @@
+Personel ihtiyacı
+MADDE 18 – (1) Merkezin akademik, teknik ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilecek personel ile karşılanır. Ancak, başka kurum veya kuruluş ile iş birliği yapılması durumunda merkezde Rektörlük tarafından personel görevlendirilmesine gerek kalmayabilir ve bu durum taraflar arasındaki protokolde net olarak belirtilir.
