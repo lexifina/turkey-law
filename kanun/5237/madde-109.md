@@ -405,28 +405,34 @@ Madde 186- (1) Kişilerin hayatını ve sağlığını tehlikeye sokacak biçimd
 Kişilerin hayatını ve sağlığını tehlikeye sokacak biçimde ilaç yapma veya satma
 Madde 187- (1) Kişilerin hayatını ve sağlığını tehlikeye sokacak biçimde ilaç üreten veya satan kimseye bir yıldan beş yıla kadar hapis ve adlî para cezası verilir.
 (2) Bu suçun tabip veya eczacı tarafından ya da resmi izne dayalı olarak yürütülen bir meslek ve sanatın icrası kapsamında işlenmesi halinde, verilecek ceza üçte bir oranında artırılır.
-Uyuşturucu veya uyarıcı madde imal ve ticareti(3)
-Madde 188- (1) Uyuşturucu veya uyarıcı maddeleri ruhsatsız veya ruhsata aykırı olarak imal, ithal veya ihraç eden kişi, yirmi yıldan otuz yıla kadar hapis ve yirmibin güne kadar adlî para cezası ile cezalandırılır.(3)
+Uyuşturucu veya uyarıcı madde imal ve ticareti(2)
+Madde 188- (1) Uyuşturucu veya uyarıcı maddeleri ruhsatsız veya ruhsata aykırı olarak imal, ithal veya ihraç eden kişi, yirmi yıldan otuz yıla kadar hapis ve yirmibin güne kadar adlî para cezası ile cezalandırılır.(2)
 (2) Uyuşturucu veya uyarıcı madde ihracı fiilinin diğer ülke açısından ithal olarak nitelendirilmesi dolayısıyla bu ülkede yapılan yargılama sonucunda hükmolunan cezanın infaz edilen kısmı, Türkiye'de uyuşturucu veya uyarıcı madde ihracı dolayısıyla yapılacak yargılama sonucunda hükmolunan cezadan mahsup edilir.
-(3) Uyuşturucu veya uyarıcı maddeleri ruhsatsız veya ruhsata aykırı olarak ülke içinde satan, satışa arz eden, başkalarına veren, sevk eden, nakleden, depolayan, satın alan, kabul eden, bulunduran kişi, on yıldan az olmamak üzere hapis ve yirmibin güne kadar adlî para cezası ile cezalandırılır.(1)(3) (Ek cümle: 18/6/2014 – 6545/66 md.) Ancak, uyuşturucu veya uyarıcı madde verilen veya satılan kişinin çocuk olması hâlinde, veren veya satan kişiye verilecek hapis cezası on beş yıldan az olamaz.
-(4) Uyuşturucu veya uyarıcı maddenin eroin, kokain, morfin veya bazmorfin olması halinde, yukarıdaki fıkralara göre verilecek ceza yarı oranında artırılır.(2)
-(5) (Değişik: 18/6/2014 – 6545/66 md.) Yukarıdaki fıkralarda gösterilen suçların, üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde verilecek ceza yarı oranında, suç işlemek için teşkil edilmiş bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde, verilecek ceza bir kat artırılır.
-(6) Üretimi resmi makamların iznine veya satışı yetkili tabip tarafından düzenlenen reçeteye bağlı olan ve uyuşturucu veya uyarıcı madde etkisi doğuran her türlü madde açısından da yukarıdaki fıkralar hükümleri uygulanır. (Ek cümle: 29/6/2005 – 5377/22 md.) Ancak, verilecek ceza yarısına kadar indirilebilir.
-(7) Uyuşturucu veya uyarıcı etki doğurmamakla birlikte, uyuşturucu veya uyarıcı madde üretiminde kullanılan ve ithal veya imali resmi makamların iznine bağlı olan maddeyi ülkeye ithal eden, imal eden, satan, satın alan, sevk eden, nakleden, depolayan veya ihraç eden kişi, sekiz yıldan az olmamak üzere hapis ve yirmibin güne kadar adlî para cezası ile cezalandırılır.(1)(3)
+(3) Uyuşturucu veya uyarıcı maddeleri ruhsatsız veya ruhsata aykırı olarak ülke içinde satan, satışa arz eden, başkalarına veren, sevk eden, nakleden, depolayan, satın alan, kabul eden, bulunduran kişi, on yıldan az olmamak üzere hapis ve yirmibin güne kadar adlî para cezası ile cezalandırılır.(1)(2) (Ek cümle: 18/6/2014 – 6545/66 md.) Ancak, uyuşturucu veya uyarıcı madde verilen veya satılan kişinin çocuk olması hâlinde, veren veya satan kişiye verilecek hapis cezası on beş yıldan az olamaz.
 _________________________
 (1) Bu fıkralarda geçen "nakleden" ibaresinden önce gelmek üzere, 29/6/2005 tarihli ve 5377 sayılı Kanunun 22 nci maddesiyle, "sevk eden," ibaresi eklenmiş ve metne işlenmiştir.
-(2) Bu fıkrada geçen "uyuşturucu" ibaresinden sonra gelmek üzere, 29/6/2005 tarihli ve 5377 sayılı Kanunun 22 nci maddesiyle "veya uyarıcı" ibaresi eklenmiş ve metne işlenmiştir.
-(3) 18/6/2014 tarihli ve 6545 sayılı Kanunun 66 ncı maddesiyle, bu maddenin birinci fıkrasında yer alan “on yıldan az olmamak üzere” ibaresi “yirmi yıldan otuz yıla kadar” şeklinde, üçüncü fıkrasında yer alan “beş yıldan onbeş yıla kadar” ibaresi “on yıldan az olmamak üzere” ve yedinci fıkrasında yer alan “dört” ibaresi “sekiz” şeklinde değiştirilmiştir.
+(2) 18/6/2014 tarihli ve 6545 sayılı Kanunun 66 ncı maddesiyle, bu maddenin birinci fıkrasında yer alan “on yıldan az olmamak üzere” ibaresi “yirmi yıldan otuz yıla kadar” şeklinde, üçüncü fıkrasında yer alan “beş yıldan onbeş yıla kadar” ibaresi “on yıldan az olmamak üzere” ve yedinci fıkrasında yer alan “dört” ibaresi “sekiz” şeklinde değiştirilmiştir.
 9012
+(4) (Değişik: 27/3/2015-6638/11 md.) a) Yukarıdaki fıkralarda belirtilen uyuşturucu veya uyarıcı maddelerin eroin, kokain, morfin, sentetik kannabinoid ve türevleri veya bazmorfin olması,
+b) Üçüncü fıkradaki fiillerin; okul, yurt, hastane, kışla veya ibadethane gibi tedavi, eğitim, askerî ve sosyal amaçla toplu bulunulan bina ve tesisler ile bunların varsa çevre duvarı, tel örgü veya benzeri engel veya işaretlerle belirlenen sınırlarına iki yüz metreden yakın mesafe içindeki umumi veya umuma açık yerlerde işlenmesi,
+hâlinde verilecek ceza yarı oranında artırılır.
+(5) (Değişik: 18/6/2014 – 6545/66 md.) Yukarıdaki fıkralarda gösterilen suçların, üç veya daha fazla kişi tarafından birlikte işlenmesi hâlinde verilecek ceza yarı oranında, suç işlemek için teşkil edilmiş bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde, verilecek ceza bir kat artırılır.
+(6) Üretimi resmi makamların iznine veya satışı yetkili tabip tarafından düzenlenen reçeteye bağlı olan ve uyuşturucu veya uyarıcı madde etkisi doğuran her türlü madde açısından da yukarıdaki fıkralar hükümleri uygulanır. (Ek cümle: 29/6/2005 – 5377/22 md.) Ancak, verilecek ceza yarısına kadar indirilebilir.
+(7) Uyuşturucu veya uyarıcı etki doğurmamakla birlikte, uyuşturucu veya uyarıcı madde üretiminde kullanılan ve ithal veya imali resmi makamların iznine bağlı olan maddeyi ülkeye ithal eden, imal eden, satan, satın alan, sevk eden, nakleden, depolayan veya ihraç eden kişi, sekiz yıldan az olmamak üzere hapis ve yirmibin güne kadar adlî para cezası ile cezalandırılır.(1)(2)
 (8) Bu maddede tanımlanan suçların tabip, diş tabibi, eczacı, kimyager, veteriner, sağlık memuru, laborant, ebe, hemşire, diş teknisyeni, hastabakıcı, sağlık hizmeti veren, kimyacılıkla veya ecza ticareti ile iştigal eden kişi tarafından işlenmesi halinde, verilecek ceza yarı oranında artırılır.
 Tüzel kişiler hakkında güvenlik tedbiri uygulanması
 Madde 189- (1) Uyuşturucu veya uyarıcı madde imal ve ticareti suçlarının bir tüzel kişinin faaliyeti çerçevesinde işlenmesi halinde, tüzel kişi hakkında bunlara özgü güvenlik tedbirlerine hükmolunur.
-Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma(1)
+Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma(3)
 Madde 190- (1) Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırmak için;
 a) Özel yer, donanım veya malzeme sağlayan,
 b) Kullananların yakalanmalarını zorlaştıracak önlemler alan,
 c) Kullanma yöntemleri konusunda başkalarına bilgi veren,
-Kişi, beş yıldan on yıla kadar hapis cezası ile cezalandırılır.(1)
+Kişi, beş yıldan on yıla kadar hapis cezası ile cezalandırılır.(3)
+_________________________
+(1) Bu fıkralarda geçen "nakleden" ibaresinden önce gelmek üzere, 29/6/2005 tarihli ve 5377 sayılı Kanunun 22 nci maddesiyle, "sevk eden," ibaresi eklenmiş ve metne işlenmiştir.
+(2) 18/6/2014 tarihli ve 6545 sayılı Kanunun 66 ncı maddesiyle, bu maddenin birinci fıkrasında yer alan “on yıldan az olmamak üzere” ibaresi “yirmi yıldan otuz yıla kadar” şeklinde, üçüncü fıkrasında yer alan “beş yıldan onbeş yıla kadar” ibaresi “on yıldan az olmamak üzere” ve yedinci fıkrasında yer alan “dört” ibaresi “sekiz” şeklinde değiştirilmiştir.
+(3) 18/6/2014 tarihli ve 6545 sayılı Kanunun 67 nci maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer alan “iki yıldan beş” ibareleri “beş yıldan on” şeklinde değiştirilmiştir.
+9012-1
 (2) Uyuşturucu veya uyarıcı madde kullanılmasını alenen özendiren veya bu nitelikte yayın yapan kişi, beş yıldan on yıla kadar hapis cezası ile cezalandırılır.(1)(2)
 (3) Bu maddede tanımlanan suçların tabip, diş tabibi, eczacı, kimyager, veteriner, sağlık memuru, laborant, ebe, hemşire, diş teknisyeni, hastabakıcı, sağlık hizmeti veren, kimyacılıkla veya ecza ticareti ile iştigal eden kişi tarafından işlenmesi halinde, verilecek ceza yarı oranında artırılır.(1)
 Kullanmak için uyuşturucu veya uyarıcı madde satın almak, kabul etmek veya bulundurmak ya da uyuşturucu veya uyarıcı madde kullanmak (3)
@@ -440,6 +446,11 @@ b) Tekrar kullanmak için uyuşturucu veya uyarıcı madde satın alması, kabul
 c) Uyuşturucu veya uyarıcı madde kullanması,
 hâlinde, hakkında kamu davası açılır.
 (5) Erteleme süresi zarfında kişinin kullanmak için tekrar uyuşturucu veya uyarıcı madde satın alması, kabul etmesi veya bulundurması ya da uyuşturucu veya uyarıcı madde kullanması, dördüncü fıkra uyarınca ihlal nedeni sayılır ve ayrı bir soruşturma ve kovuşturma konusu yapılmaz.
+__________________________
+(1) 18/6/2014 tarihli ve 6545 sayılı Kanunun 67 nci maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer alan “iki yıldan beş” ibareleri “beş yıldan on” şeklinde değiştirilmiştir.
+(2) 29/6/2005 tarihli ve 5377 sayılı Kanunun 23 üncü maddesiyle, bu maddenin ikinci fıkrası üçüncü fıkra, üçüncü fıkrası ise ikinci fıkra olarak değiştirilmiştir.
+(3) Bu maddenin başlığı “Kullanmak için uyuşturucu veya uyarıcı madde satın almak, kabul etmek veya bulundurmak” iken, 18/6/2014 tarihli ve 6545 sayılı Kanunun 68 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+9012-2
 (6) Dördüncü fıkraya göre kamu davasının açılmasından sonra, birinci fıkrada tanımlanan suçun tekrar işlendiği iddiasıyla açılan soruşturmalarda ikinci fıkra uyarınca kamu davasının açılmasının ertelenmesi kararı verilemez.
 (7) Şüpheli erteleme süresi zarfında dördüncü fıkrada belirtilen yükümlülüklere aykırı davranmadığı ve yasakları ihlal etmediği takdirde, hakkında kovuşturmaya yer olmadığı kararı verilir.
 (8) Bu Kanunun;
@@ -447,10 +458,7 @@ a) 188 inci maddesinde tanımlanan uyuşturucu veya uyarıcı madde imal ve tica
 b) 190 ıncı maddesinde tanımlanan uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma,
 suçundan dolayı yapılan kovuşturma evresinde, suçun münhasıran bu madde kapsamına girdiğinin anlaşılması hâlinde, sanık hakkında bu madde hükümleri çerçevesinde hükmün açıklanmasının geri bırakılması kararı verilir.
 (9) Bu maddede aksine düzenleme bulunmayan hâllerde, Ceza Muhakemesi Kanununun kamu davasının açılmasının ertelenmesine ilişkin 171 inci maddesi veya hükmün açıklanmasının geri bırakılmasına ilişkin 231 inci maddesi hükümleri uygulanır.
-___________________________
-(1) 18/6/2014 tarihli ve 6545 sayılı Kanunun 67 nci maddesiyle, bu maddenin birinci ve ikinci fıkralarında yer alan “iki yıldan beş” ibareleri “beş yıldan on” şeklinde değiştirilmiştir.
-(2) 29/6/2005 tarihli ve 5377 sayılı Kanunun 23 üncü maddesiyle, bu maddenin ikinci fıkrası üçüncü fıkra, üçüncü fıkrası ise ikinci fıkra olarak değiştirilmiştir.
-(3) Bu maddenin başlığı “Kullanmak için uyuşturucu veya uyarıcı madde satın almak, kabul etmek veya bulundurmak” iken, 18/6/2014 tarihli ve 6545 sayılı Kanunun 68 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(10) (Ek: 27/3/2015-6638/12 md.) Birinci fıkradaki fiillerin; okul, yurt, hastane, kışla veya ibadethane gibi tedavi, eğitim, askerî ve sosyal amaçla toplu bulunulan bina ve tesisler ile bunların varsa çevre duvarı, tel örgü veya benzeri engel veya işaretlerle belirlenen sınırlarına iki yüz metreden yakın mesafe içindeki umumi veya umuma açık yerlerde işlenmesi hâlinde verilecek ceza yarı oranında artırılır.
 9013
 Etkin pişmanlık
 Madde 192- (1) Uyuşturucu veya uyarıcı madde imal ve ticareti suçlarına iştirak etmiş olan kişi, resmi makamlar tarafından haber alınmadan önce, diğer suç ortaklarını ve uyuşturucu veya uyarıcı maddelerin saklandığı veya imal edildiği yerleri merciine haber verirse, verilen bilginin suç ortaklarının yakalanmasını veya uyuşturucu veya uyarıcı maddenin ele geçirilmesini sağlaması halinde, hakkında cezaya hükmolunmaz.
@@ -859,7 +867,7 @@ Madde 272- (1) Hukuka aykırı bir fiil nedeniyle başlatılan bir soruşturma k
 (3) Üç yıldan fazla hapis cezasını gerektiren bir suçun soruşturma veya kovuşturması kapsamında yalan tanıklık yapan kişi hakkında iki yıldan dört yıla kadar hapis cezasına hükmolunur.
 (4) Aleyhine tanıklıkta bulunulan kişi ile ilgili olarak gözaltına alma ve tutuklama dışında başka bir koruma tedbiri uygulanmışsa, yüklenen fiili işlemediğinden dolayı hakkında beraat kararı veya kovuşturmaya yer olmadığına dair karar verilmiş olması koşuluyla, yukarıdaki fıkralara göre verilecek ceza yarı oranında artırılır.
 (5) Aleyhine tanıklıkta bulunulan kişinin gözaltına alınması veya tutuklanması halinde; yüklenen fiili işlemediğinden dolayı hakkında beraat kararı veya kovuşturmaya yer olmadığına dair karar verilmiş olması koşuluyla; yalan tanıklık yapan kişi, ayrıca kişiyi hürriyetinden yoksun kılma suçuna ilişkin hükümlere göre dolaylı fail olarak sorumlu tutulur.
-(6) Aleyhine tanıklıkta bulunulan kimsenin ağırlaştırılmış müebbet hapis veya müebbet hapis cezasına mahkûmiyeti halinde, yirmi yıldan otuz yıla kadar hapis cezasına; süreli hapis cezasına mahkûmiyeti halinde, mahkûm olunan cezanın üçte ikisi kadar hapis cezasına hükmolunur.
+(6) Aleyhine tanıklıkta bulunulan kimsenin ağırlaştırılmış müebbet hapis veya müebbet hapis cezasına mahkûmiyeti halinde, yirmi yıldan otuz yıla kadar hapis cezasına; süreli hapis cezasına mahkûmiyeti halinde, mahkûm olunan cezanın üçte ikisi kadar hapis cezasına hükmolunur.(1)
 (7) Aleyhine tanıklıkta bulunulan kimsenin mahkûm olduğu hapis cezasının infazına başlanmış ise, altıncı fıkraya göre verilecek ceza yarısı kadar artırılır.
 (8) Aleyhine tanıklıkta bulunulan kişi hakkında hapis cezası dışında adlî veya idari bir yaptırım uygulanmışsa; yalan tanıklıkta bulunan kişi, üç yıldan yedi yıla kadar hapis cezası ile cezalandırılır.
 Şahsi cezasızlık veya cezanın azaltılmasını gerektiren sebepler
@@ -867,6 +875,8 @@ Madde 273- (1) Kişinin;
 a) Kendisinin, üstsoy, altsoy, eş veya kardeşinin soruşturma ve kovuşturmaya uğramasına neden olabilecek bir hususla ilgili olarak yalan tanıklıkta bulunması,
 b) Tanıklıktan çekinme hakkı olmasına rağmen, bu hakkı kendisine hatırlatılmadan gerçeğe aykırı olarak tanıklık yapması,
 Halinde, verilecek cezada indirim yapılabileceği gibi, ceza vermekten de vazgeçilebilir.
+_____________
+(1) Anayasa Mahkemesinin 14/1/2015 tarihli ve E:2014/116, K:2015/4 sayılı kararıyla bu bentte yer alan “…süreli hapis cezasına mahkûmiyeti halinde, mahkûm olunan cezanın üçte ikisi kadar hapis cezasına…” ibaresi iptal edilmiş olup, kararın Resmi Gazetede yayımlandığı 29/4/2015 tarihinden başlayarak altı ay sonra yürürlüğe gireceği hüküm altına alınmıştır.
 9031
 (2) Birinci fıkra hükmü, özel hukuk uyuşmazlıkları kapsamında yapılan yalan tanıklık hallerinde uygulanmaz.
 Etkin pişmanlık
