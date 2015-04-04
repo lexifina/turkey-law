@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.19582",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "D KARE GÖZETİM TEST VE BELGELENDİRME TİCARET LİMİTED ŞİRKETİNİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (SGM: 2014/10)",
+  "number": "19582",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2014/19582",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19582&MevzuatTertip=5",
+  "source_sha256": "3e6a6042c6e81852f033c7104021beb68d9c1be53a556a65088d3f636b118c55",
+  "source_bytes": 8242,
+  "published": "2014-04-17",
+  "gazette": "28975",
+  "in_force": "2015-04-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/4/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-04-04",
+      "RG-4/4/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 143,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
