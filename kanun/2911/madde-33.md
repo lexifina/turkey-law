@@ -1,4 +1,7 @@
 Toplantı ve yürüyüşe silahlı katılanlar
 Madde 33 – (Değişik: 22/7/2010 - 6008/2 md.)
-Toplantı ve gösteri yürüyüşlerine 23 üncü maddenin (b) bendinde sayılan silah veya araçları taşıyarak katılanlar, altı aydan üç yıla kadar hapis cezası ile cezalandırılır. Silah veya aracın ateşli silah ya da patlayıcı veya yakıcı madde olması durumunda, cezanın alt sınırı bir yıldan az olamaz. Silah veya aracın bulundurulmasının suç oluşturması halinde, ayrıca bu suçtan dolayı da ilgili hakkında kanun hükümlerine göre cezaya hükmolunur.
+(Değişik birinci fıkra: 27/3/2015-6638/8 md.) Toplantı ve gösteri yürüyüşlerine;
+a) Ateşli silahlar veya havai fişek, molotof ve benzeri el yapımı olanlar dâhil patlayıcı maddeler veya her türlü kesici, delici aletler veya taş, sopa, demir ve lastik çubuklar, boğma teli veya zincir, demir bilye ve sapan gibi bereleyici ve boğucu araçlar veya yakıcı, aşındırıcı, yaralayıcı eczalar veya diğer her türlü zehirler veya her türlü sis, gaz ve benzeri maddeler taşıyarak veya kimliklerini gizlemek amacıyla yüzlerini tamamen veya kısmen bez vesair unsurlarla örterek katılanlar iki yıl altı aydan dört yıla kadar,
+b) Yasadışı örgüt ve topluluklara ait amblem ve işaret taşıyarak veya bu işaret ve amblemleri üzerinde bulunduran üniformayı andırır giysiler giyerek katılanlar ile kanunların suç saydığı nitelik taşıyan afiş, pankart, döviz, resim, levha, araç ve gereçler taşıyarak veya bu nitelikte sloganlar söyleyerek veya ses cihazları ile yayınlayarak katılanlar altı aydan üç yıla kadar,
+hapis cezası ile cezalandırılırlar.
 Toplantı ve gösteri yürüyüşünün kanuna aykırı olması halinde ve dağılmamak için direnildiği takdirde, ayrıca 32 nci madde hükümlerine göre cezaya hükmolunur.
