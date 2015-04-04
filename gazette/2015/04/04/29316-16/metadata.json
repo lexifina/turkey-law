@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-04-04",
+  "issue": "29316",
+  "edition": "regular",
+  "item": 16,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 397)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 447)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150404-16.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150404.htm",
+  "index_sha256": "ab20f2b28aa65db807bafc0efefb748d2977c14463ce2e962ac5774dbdc74323",
+  "index_header": "4 Nisan 2015 ... 29316 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150404.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
