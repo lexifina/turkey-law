@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-04-07",
+  "issue": "29319",
+  "edition": "regular",
+  "item": 3,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARLARI",
+  "title": "1087 Dilekçe Komisyonunun Türkiye Büyük Millet Meclisinin Tatili Sırasında Çalışabilmesine İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150407-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150407.htm",
+  "index_sha256": "f7194941e47fc517923cfecccef2c05bc29b3bf30f4bf04bd15ae08414c04188",
+  "index_header": "7 Nisan 2015 ... 29319 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150407.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
