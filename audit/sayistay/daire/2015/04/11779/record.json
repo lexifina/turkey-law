@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "225",
+  "decision_date": "2015-04-07",
+  "source_id": 11779,
+  "chamber": "6",
+  "ilam_number": "245",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11779/",
+  "source_sha256": "683d8d56e7da384da69e082f560d9b00398b548ee9f0e8524a4dd858e8e77fac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
