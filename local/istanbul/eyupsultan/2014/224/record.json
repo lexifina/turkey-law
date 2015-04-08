@@ -1,0 +1,22 @@
+{
+  "number": "224",
+  "number_as_published": "2014/224",
+  "year": 2014,
+  "title": "2014/224",
+  "decision_date": "2015-04-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2015-nisan-ayi-meclis-kararlari/340",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2014-224/345",
+  "source_sha256": "8910150fb1cfa800a502f1809743288f6c91c4e79a344f3006aeeb65b02cb7fc",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-04-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.04.2015 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "8edf6de7ef5c02b59374f50cf1cc04674580b91928bc9e7358ab691dd65df6c4"
+}
