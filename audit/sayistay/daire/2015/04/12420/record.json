@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10460",
+  "decision_date": "2015-04-09",
+  "source_id": 12420,
+  "chamber": "1",
+  "ilam_number": "186",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12420/",
+  "source_sha256": "c76253dc086d00199698f9015612926272d038e1d63ce9698af0cff213e3fbf3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
