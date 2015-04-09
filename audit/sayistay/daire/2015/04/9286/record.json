@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10460",
+  "decision_date": "2015-04-09",
+  "source_id": 9286,
+  "chamber": "1",
+  "ilam_number": "186",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9286/",
+  "source_sha256": "f2ad489a7cf2dca095f7e382650cf391477a3838ca73e00f42b5a2d8fa0240d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
