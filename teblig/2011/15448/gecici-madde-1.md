@@ -1,0 +1,2 @@
+Geçiş süreci
+GEÇİCİ MADDE 1 – (1) İsteyen işletmeler bu hükümler çerçevesinde, bu Tebliği ve bu Tebliğin 1 no’lu ekinde yer alan “TMS 27 Bireysel Finansal Tablolar” Standardını 1/1/2013 tarihi öncesi hesap dönemlerine ilişkin finansal tablolarında uygulayabilirler. Bu TMS’nin 1/1/2013 öncesi hesap dönemlerine ilişkin finansal tablolarda uygulanması halinde, bu durum dipnotlarda açıklanır ve söz konusu tablolarda TFRS 10, TFRS 11, TFRS 12 ve TMS 28 (2011’de yayımlanan) Standartları da uygulanır.
