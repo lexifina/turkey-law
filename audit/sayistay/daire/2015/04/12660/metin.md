@@ -1,0 +1,3 @@
+Hazır beton içindeki bileşen malzemelerin standartlara uygun olmaması.
+
+….. Ltd. Şirketi yükleniminde bulunan …..-TL sözleşme bedelli “….. İşine” ilişkin dosya kapsamındaki bilgi ve belgelerin incelenmesi ile sorumluların sözlü savunmalarının dinlenmesi sonucunda; hazır beton içindeki bileşen malzemelerin standartlara uygun olmamasına rağmen kabulünün yapıldığı iddia edilmiş ise de; sorumlularca, yüklenici firma ….. Ltd. Şirketine ait İmalat Kontrol Belgesinin sunulması, dolayısı ile imal edilen betonun, Çizelge B-1’e göre değerlendirildiğinde, standartlara uygun olduğunun görülmesi nedeniyle mevzuata uygun olduğu anlaşılan konu hakkında ilişilecek husus bulunmadığına oy birliğiyle,

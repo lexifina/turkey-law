@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "226",
+  "decision_date": "2015-04-09",
+  "source_id": 12660,
+  "chamber": "6",
+  "ilam_number": "260",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12660/",
+  "source_sha256": "4b7eb684c0fe5972b110cc9ee7545c0bea414214afbcb874ce787d963b9f0c71",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
