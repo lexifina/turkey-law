@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10460",
+  "decision_date": "2015-04-09",
+  "source_id": 12567,
+  "chamber": "1",
+  "ilam_number": "186",
+  "item_number": 13,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12567/",
+  "source_sha256": "0577d776165110fd9ce65b7375e6b5c02748c001457cae7cc1a74fe9c0eeb5bb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
