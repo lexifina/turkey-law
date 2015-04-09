@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "226",
+  "decision_date": "2015-04-09",
+  "source_id": 12654,
+  "chamber": "6",
+  "ilam_number": "260",
+  "item_number": 2,
+  "account_year": 2013,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12654/",
+  "source_sha256": "b14baf0a796f4115c021e1c75174f7dbe4e09d50c1b7522f22d25a639574c1cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
