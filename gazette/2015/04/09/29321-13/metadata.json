@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-04-09",
+  "issue": "29321",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Çalışanlara Sağlanan Faydalara İlişkin Türkiye Muhasebe Standardı (TMS 19) Hakkında Tebliğ (Sıra No: 9)’de Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 48)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150409-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150409.htm",
+  "index_sha256": "7c8cf55044147058390ea1be55bdb6391d9f14581f14fa372a741835bafa389c",
+  "index_header": "9 Nisan 2015 ... 29321 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150409.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
