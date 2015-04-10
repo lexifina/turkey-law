@@ -1,0 +1,4 @@
+Resmî ve özel katılımcı sözleşmesi
+MADDE 13 – (1) EXPO 2016 Antalya’da yer almak isteyen resmî katılımcılar, tema beyanları ve sergi planları onaylandıktan sonra (Değişik ibare:RG-10/4/2015-29322) Genel Komiser ile bir katılım sözleşmesi akdederler. Sergi alanının tahsisi, katılım sözleşmesi imzalanıncaya kadar bağlayıcı değildir.
+(2) EXPO 2016 Antalya’ya katılmayı talep eden özel katılımcılar 12 nci maddede yer alan hükümler doğrultusunda organizatöre başvuruda bulunurlar. Tüm özel katılımcıların yasal temsilcileri, (Değişik ibare:RG-10/4/2015-29322) Genel Komiser ile katılım sözleşmesi akdederler. Özel durumlarda organizatör ayrıntılı bir sözleşme imzalanmasını talep edebilir.
+(3) Resmî katılımcı, EXPO 2016 Antalya’ya özel katılımcı olarak kabul edilmesi halinde organizatörden herhangi bir talepte bulunamaz.

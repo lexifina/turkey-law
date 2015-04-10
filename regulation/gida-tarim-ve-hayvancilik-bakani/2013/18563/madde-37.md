@@ -1,0 +1,3 @@
+Sergi logosunun ve organizatörün diğer belirleyici işaretlerinin kullanımı
+MADDE 37 – (1) Resmî katılımcılar, EXPO 2016 Antalya’nın logosunu ve tescilli marka ve isim hakları gibi organizatörün diğer belirleyici işaretlerini, yalnızca EXPO 2016 Antalya ile ilgili ticari olmayan amaçlar için ücret ödemeden kullanabilirler. Bu hak devredilemez.
+(2) Özel katılımcılar ve bayiler EXPO 2016 Antalya logosunu ve tescilli marka ve isim hakları gibi diğer belirleyici işaretlerini kullanma hakkına sahip değillerdir. Bunların kullanımı, her bir durum için ayrı ayrı olmak üzere organizatörün yazılı ön onayına tabidir.

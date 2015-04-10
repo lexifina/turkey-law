@@ -1,0 +1,15 @@
+Kapalı mekân çiçek ve bitki sergileri
+MADDE 15 – (1) Kapalı mekân sergileri EXPO 2016 Antalya alanı içerisindeki salonlarda yapılır. Kapalı mekân sergileri değişen biçimlerde ve farklı temalarla bahçe bitkileri ürünleri ve hizmetlerinin sunumu şeklindedir. EXPO 2016 Antalya süresince, aylık, haftalık ve günlük olarak değişen çeşitli kapalı mekân gösterileri yapılır. Gösterilerin tarihleri organizatör tarafından ayrıca duyurulur.
+(2) Çiçek ya da bitki gösterilerine katılım başvurusu 13 üncü maddede yer alan hükümler uyarınca, ilgili kapalı mekân gösterisinin yapılmasından en az oniki hafta önce organizatöre sunulur.
+(3) Resmî ve özel katılımcılar stantlarını kendileri kurarlar ve kurulum maliyetlerini karşılarlar. Resmî ve özel katılımcılar stant tasarımı için bir stant tasarımcısıyla anlaşabilir. Bazı hallerde ise masrafları kendilerince karşılanmak suretiyle stant tasarımının yaptırılması için organizatörle de anlaşabilirler.
+(4) Resmî ve özel katılımcılar, standın tasarımının genel tasarımla bağdaşır şekilde olmasını sağlar. Aksi durumlarda organizatör maliyeti resmî veya özel katılımcı tarafından karşılanmak üzere kurulmuş olan stantta değişiklikler yapmaya ya da standın kaldırılması kararını vermeye yetkilidir.
+(5) Stantların inşa süreci, sözleşme imzalandıktan sonra ya da organizatör tarafından kapalı mekân bitki ve çiçek sergilemesine katılımları yazılı olarak onaylandıktan sonra resmî veya özel katılımcıya uygun zamanda ulaştırılacak kurulum ve sökme rehberlerinde belirtilir.
+(6) Stant, sergi süresince resmî ve özel katılımcı tarafından muhafaza edilir. Bu görevin üçüncü şahıslara yaptırılması halinde organizatör bilgilendirilir.
+(7) Sergilenme kalitesi bozulan ürünler masrafları kendilerine ait olmak üzere resmî katılımcı ve özel katılımcı tarafından değiştirilir veya yenilenir. Organizatörün uyarısı ile katılımcı sergilenen ürünün değiştirilmesini veya kaldırılmasını sağlar.
+(8) Organizatör, ortak alanlar ve hollerdeki temizlik, atıkların toplanması, ışıklandırma ve iklimlendirme hizmetlerini sağlar.
+(9) Resmî ve özel katılımcıların stantlarının bakımına ilişkin özel istekleri organizatörle yapılacak ayrı bir anlaşma ile belirlenir ve tüm masrafları resmî veya özel katılımcı tarafından ödenir.
+(10) Resmî ve özel katılımcılar, organizatör tarafından belirlenen süre içerisinde stantların sökülmesinden sorumludurlar.
+(11) Organizatör, sökülme işinin başlama zamanını, kurulum ve sökme rehberinde belirler. Resmî ve özel katılımcıların, sergileme süresince stantlarında bulunmaları esastır.
+(12) Standın söküm işleminin üçüncü bir şahsa devredilmesi ya da söküm işleminin zamanında bitirilemeyecek olması hallerinde organizatör en kısa sürede bilgilendirilir. Söküm işleminin zamanında bitirilememesi durumunda organizatör, masrafları resmî veya özel katılımcı tarafından karşılanmak üzere standı söker.
+(13) Kurulum ve söküm rehberinde belirtilen tarihten önce stantların söküm işlemine izin verilmez.
+(14) Organizatörün onayı alınmadan sergi alanındaki sergiler ve sunumlar satılamaz ya da üçüncü şahıslara devredilemez.

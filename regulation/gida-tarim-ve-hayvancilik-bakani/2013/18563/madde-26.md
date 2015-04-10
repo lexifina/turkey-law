@@ -1,0 +1,3 @@
+Oturma ve çalışma izinleri
+MADDE 26 – (1) Resmî ve özel katılımcılar sergilerinin kurulumu, sökümü ve bakımı için ilgili Türk mevzuatı ve çalışma izinleri hükümlerine uygun olması koşuluyla yabancı işçi çalıştırabilir.
+(2) Resmî katılımcı çalışanları ya da işçileri EXPO 2016 Antalya kapsamında çalışmak amacıyla geldiklerini ve çalışma sürelerini resmî olarak (Değişik ibare:RG-10/4/2015-29322) Genel Komisere bildirmelerini müteakip, bu talebin Emniyet Genel Müdürlüğünün uygun görüşünün alınması ve organizatörce uygun bulunması hâlinde, 27/2/2003 tarihli ve 4817 sayılı Yabancıların Çalışma İzinleri Hakkında Kanun hükümleri ile düzenlenen çalışma izni aranmaz.
