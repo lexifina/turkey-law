@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6642",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Japonya Hükümeti Arasında Türkiye Cumhuriyetinde Nükleer Güç Santrallerinin ve Nükleer Güç Sanayisinin Geliştirilmesi Alanında İşbirliğine İlişkin Anlaşma ile Türkiye Cumhuriyetinde Nükleer Güç Santrallerinin ve Nükleer Güç Sanayisinin Geliştirilmesine Dair İşbirliği Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-04-10",
+  "gazette_issue": "29322",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150410-12.htm",
+  "source_sha256": "47d1ce5136f2a68c83b63be171279ce2d45871e52f74d1ad5bf90ca9b44c9eda",
+  "text_sha256": "8d540e496686e587ca2a14daa727302628211368a01dcb3bb875ed1ceb76279b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/04/10/29322-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150410-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
