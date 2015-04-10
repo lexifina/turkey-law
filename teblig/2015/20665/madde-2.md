@@ -1,0 +1,4 @@
+Önleme tabi ürün
+MADDE 2 – (1) Önleme tabi ürün 54.07 gümrük tarife pozisyonu (GTP) altında perdelik ve döşemelik mensucat için olanlar ile 5810.92.10.00.00, 5810.92.90.00.00, 6005.31.10.00.00, 6005.32.10.00.00, 6005.33.10.00.00, 6005.34.10.00.00, 6006.31.10.00.00, 6006.32.10.00.00, 6006.33.10.00.00, 6006.34.10.00.00, 6303.12.00.00.00 gümrük tarife istatistik pozisyonları (GTİP) ve 6303.92 GTP altında yer alan suni veya sentetik liflerden belirli mensucat veya tekstil ürünleridir. Önlem kapsamında olan GTİP’ler Ek’te verilmektedir.
+(2) Bahse konu GTİP’ler, yalnızca bilgi amaçlı verilmiş olup, bağlayıcı mahiyette değildir.
+(3) Önleme tabi ürünün Türk Gümrük Tarife Cetvelinde yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına halel getirmez.
