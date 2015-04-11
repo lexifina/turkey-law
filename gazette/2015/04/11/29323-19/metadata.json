@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-04-11",
+  "issue": "29323",
+  "edition": "regular",
+  "item": 19,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 9/4/2015 Tarihli ve 6268 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150411-19.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150411.htm",
+  "index_sha256": "ea0b41cfaf58b454edcbcea985d2d22b413057c54e7ad1dc04be095e38c898c3",
+  "index_header": "11 Nisan 2015 ... 29323 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150411.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
