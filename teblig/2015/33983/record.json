@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.33983",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2015/1)",
+  "number": "33983",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2015/33983",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=33983&MevzuatTertip=5",
+  "source_sha256": "04e546a100703b9eb9ed2ab22f7581bf887e5ef99def4d310a8efaf2ae7de46c",
+  "source_bytes": 54068,
+  "published": "2015-04-11",
+  "gazette": "29323",
+  "in_force": "2015-04-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.04.2015); own commencement article: \"Bu Tebliğ yayımı tarihini takip eden otuzuncu gün yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihini takip eden otuzuncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 788,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
