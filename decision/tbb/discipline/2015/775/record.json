@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "775",
+  "date": "2015-04-11",
+  "title": "T. 11.04.2015 E. 2015/161 K. 2015/293",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/775",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=10&yil=2015",
+  "listing_sha256": "9cfec5257e5de8993c3fa74dc0a195339cd229e40ab4f713ec1749d99ce28ccd",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
