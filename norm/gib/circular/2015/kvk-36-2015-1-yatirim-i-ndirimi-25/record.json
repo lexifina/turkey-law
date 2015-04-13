@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB sirkulerTarih: 2015-04-13T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "circular",
+  "official_date": "2015-04-13",
+  "official_number": "KVK-36/ 2015-1 / Yatırım İndirimi - 25",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/875",
+  "source_id": "sirkuler:875",
+  "source_row_sha256": "8258cb094cca60725419f0a2963109a2331c853204bbb1ea17a52e1e67d5a022",
+  "title": "Geçici Vergi Dönemlerinde Yeniden Değerleme Oranı",
+  "version_label": "as-enacted",
+  "word_count": 117
+}
