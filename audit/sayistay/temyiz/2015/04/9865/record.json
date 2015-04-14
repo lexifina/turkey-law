@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40286",
+  "decision_date": "2015-04-14",
+  "source_id": 9865,
+  "chamber": "6",
+  "file_number": "38601",
+  "account_year": "2011",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9865/",
+  "source_sha256": "925caafe84b6f5f0c890db5e6e21c9619e061cf3f75843793499df1b264bed10",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
