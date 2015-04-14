@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40257",
+  "decision_date": "2015-04-14",
+  "source_id": 9836,
+  "chamber": "1",
+  "file_number": "38694",
+  "account_year": "2011",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9836/",
+  "source_sha256": "bc261722029bfc804b9e74522bed8ada63e6eab119446ab50f10244ba1018a15",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
