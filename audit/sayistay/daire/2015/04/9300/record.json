@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35314",
+  "decision_date": "2015-04-14",
+  "source_id": 9300,
+  "chamber": "2",
+  "ilam_number": "203",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9300/",
+  "source_sha256": "f42071c0d3a7b8e900f26fd857e1573d24f5bcb2b9cd423fc565465771262d63",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
