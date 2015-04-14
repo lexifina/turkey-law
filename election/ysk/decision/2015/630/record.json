@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/630",
+  "list_number": "630",
+  "decision_date": "2015-04-14",
+  "title": "25. Dönem Milletvekili Genel Seçimi Geçici Aday Listesi",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2136/2015-630.pdf",
+  "source_sha256": "55eccd8d38899c691db69a44ef9d3eb1226ac1557fd6c75cb15d74cc44020a53",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-04-14",
+  "law_text_complete": false
+}
