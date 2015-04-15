@@ -14,3 +14,4 @@ Anayasa Mahkemesi’nin 1/11/2012 tarihli ve E.: 2010/83, K.: 2012/169 sayılı 
 6495 | 22, 25, Geçici Madde 8 | 2/8/2013
 6552 | 4, 22, 23, Geçici Madde 9 | 11/9/2014
 Anayasa Mahkemesi’nin 13/11/2014 tarihli ve E.: 2013/95, K.: 2014/176 sayılı Kararı | Geçici Madde 6 Geçici Madde 7 | 13/3/2015 13/3/2015 tarihinden başlayarak altı ay sonra (13/9/2015)
+6639 | 4 | 15/4/2015

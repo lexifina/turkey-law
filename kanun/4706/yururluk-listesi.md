@@ -23,3 +23,4 @@ Değiştiren Kanunun/KHK’nin İptal Eden Anayasa Mahkemesinin Kararının Numa
 Anayasa Mahkemesi’nin 6/6/2013 tarihli ve E.: 2013/22, K.:2013/73 sayılı kararı ile | Geçici Madde 8 | 22/11/2013
 6528 | Geçici Madde 16 | 14/3/2014
 Anayasa Mahkemesi’nin 3/7/2014 tarihli ve E.: 2014/9, K.:2014/121 sayılı kararı ile | 5 | 12/12/2014
+6639 | Ek Madde 4, Geçici Madde 17 | 15/4/2015

@@ -30,3 +30,4 @@ Anayasa Mahkemesi’nin 14/11/2013 tarihli ve E.: 2013/15, K.: 2013/131 sayılı
 6528 | 36, 152, I sayılı Cetvel | 14/3/2014
 Anayasa Mahkemesi’nin 27/3/2014 tarihli ve E.: 2013/101, K.: 2014/63 sayılı Kararı | 36 | 22/7/2014
 6552 | 4, 57, 152, Ek Madde 33, II sayılı Cetvel, | 11/9/2014
+6639 | 176, Ek Madde 33 | 15/4/2015

@@ -9,3 +9,4 @@ Değiştiren Kanunun/KHK’nin/ İptal Eden Anayasa Mahkemesi Kararının Numara
 6486 | Geçici Madde 4, (1) Sayılı Liste | 29/5/2013
 6495 | GEÇİCİ MADDE 6, 7 | 2/8/2013
 6552 | GEÇİCİ MADDE 8 | 11/9/2014
+6639 | GEÇİCİ MADDE 9 | 15/4/2015
