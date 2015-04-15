@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "397",
+  "decision_date": "2015-04-15",
+  "title": "MEC_ KAR_ ( 2014 yılı faaliyet raporu)",
+  "listed_as": "397 MEC_ KAR_ ( 2014 yılı faaliyet raporu)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/397-mec--kar---2014-yili-faaliyet-raporu",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk92-15-nisan-2015-meclis-kararlari",
+  "listing_sha256": "e2e7053803f7620caaaa17dd18ffc6cb11be8ec732278aa2bde0362620e49e76",
+  "meeting_title": "MK92-15 NİSAN 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
