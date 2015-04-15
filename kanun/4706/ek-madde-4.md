@@ -1,0 +1,3 @@
+Ek Madde 4 – (Ek: 27/3/2015-6639/15 md.)
+Türkiye Kızılay Derneği, Türkiye Yeşilay Cemiyeti ve Türkiye Yeşilay Vakfı tarafından kuruluş amaçlarına uygun olarak kullanılmak üzere ihtiyaç duyulan mülkiyeti Hazineye, kamu kurum ve kuruluşlarına ait taşınmazlar üzerinde adı geçen Dernek, Cemiyet ve Vakıf lehine kırk dokuz yıl süre ile bedelsiz irtifak hakkı tesis edilebilir, Devletin hüküm ve tasarrufu altında bulunan yerler üzerinde ise bunlar adına bedelsiz kullanma izni verilebilir. Bunlardan ayrıca hasılat payı alınmaz. İrtifak hakkı tesis edilen taşınmazların tapu kütüğüne, taşınmazların amacı dışında kullanılmayacağına ilişkin şerh konulur.
+8040-5

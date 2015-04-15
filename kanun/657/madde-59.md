@@ -937,7 +937,7 @@ Bir göreve vekaleten atanan memurlara vekalet edilen görevin kadro derecesinin
 Ders ve konferans ücretleri:
 Madde 176 – (Değişik: 3/4/1998 - 4359/1 md.)
 (Değişik birinci fıkra: 21/3/2006 – 5473/3 md.) Bu Kanunun 89 uncu maddesine göre kendilerine ders görevi verilenlere, ders saati başına gündüz öğretimi için 140, örgün ve yaygın eğitim kurumlarında yarıyıl ve yaz tatillerinde, cumartesi ve pazar günleri ile saat 18.00'den sonra başlayan öğretim faaliyetleri için 150 gösterge rakamının bu Kanuna göre belirlenen aylık katsayısı ile çarpımından oluşan miktar üzerinden ek ders ücreti ödenir.
-(Değişik ikinci fıkra: 21/3/2006 – 5473/3 md.) Bu ücretler, özel eğitime muhtaç öğrencilerin eğitim ve öğretim gördüğü kurumlarda görevli öğretmen ve yöneticiler ile bu öğrencilere yönelik olarak açılan özel sınıf öğretmenlerine ve cezaevlerinde görevli öğretmenlere % 25 fazlasıyla ödenir.
+(Değişik ikinci fıkra: 27/3/2015 – 6639/9 md.) Bu ücretler, özel eğitime muhtaç öğrencilerin eğitim ve öğretim gördüğü kurumlarda görevli öğretmen ve yöneticiler ile bu öğrencilere yönelik olarak açılan özel sınıf öğretmenlerine ve cezaevlerinde görevli öğretmenlere %25, Millî Eğitim Bakanlığı Örgün ve Yaygın Eğitimi Destekleme ve Yetiştirme Kursları Yönergesi kapsamında görev alan yönetici ve öğretmenlere %100 fazlasıyla ödenir.
 Bu madde kapsamında ücretle ders vermek üzere yükseköğretim kurumlarından görevlendirilen öğretim elemanlarına 2914 sayılı Kanun hükümlerine göre ek ders ücreti ödenir.
 Konferans ücreti her yıl bütçe kanunlarında gösterilir.(2)
 ___________________
@@ -1266,13 +1266,14 @@ Yataklı tedavi kurumları, seyyar hastaneler, ağız ve diş sağlığı merkez
 (2) 4/6/2010 tarihli ve 5984 sayılı Kanunun 4 üncü maddesiyle bu maddenin birinci fıkrasında yer alan “İlköğretim Müfettişleri hariç” ibaresi madde metninden çıkarılmıştır.
 (3) 10/9/2014 tarihli ve 6552 sayılı Kanunun 69 uncu maddesiyle, bu fıkranın birinci cümlesine “ağız ve diş sağlığı merkezleri” ibaresinden sonra gelmek üzere “, aile sağlığı merkezleri, toplum sağlığı merkezleri” ibaresi, üçüncü cümlesine “ayda” ibaresinden sonra gelmek üzere “aile sağlığı ve toplum sağlığı merkezlerinde 60 saatten, diğer yerlerde ve hiçbir şekilde” ibaresi eklenmiştir.
 4249
+(Değişik tablo: 27/3/2015-6639/10 md.)
  | Gösterge
-a) Eğitim görevlisi(1), başasistan, uzman tabip | 100
-b) Tabip, tıpta uzmanlık mevzuatında belirtilen dallarda, bu mevzuat hükümlerine göre uzmanlık belgesi alan tabip dışı personel, aynı dallarda doktora belgesi alanlar | 90
-c) Diş tabibi ve eczacılar | 80
-ç) Mesleki yüksek öğrenim görmüş sağlık personeli | 60
-d) Lise dengi mesleki öğrenim görmüş sağlık personeli | 50
-e) Diğer personel | 35
+a) Eğitim görevlisi, başasistan, uzman tabip | 150
+b) Tabip, tıpta uzmanlık mevzuatında belirtilen dallarda, bu mevzuat hükümlerine göre uzmanlık belgesi alan tabip dışı personel, aynı dallarda doktora belgesi alanlar | 135
+c) Diş tabibi ve eczacılar | 120
+ç) Mesleki yükseköğrenim görmüş sağlık personeli | 90
+d) Lise dengi mesleki öğrenim görmüş sağlık personeli | 75
+e) Diğer personel | 55
 Bu madde hükmü, üniversitelerin yataklı tedavi kurumlarında çalışan ve 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 50 nci maddesinin (e) bendi kapsamında bulunanlar ile yataklı tedavi kurumlarında çalışan ve 11/4/1928 tarihli ve 1219 sayılı Kanunun ek 14 üncü maddesinin dördüncü fıkrası kapsamında bulunanlar hakkında da uygulanır. (2)
 İcap nöbeti tutan ve bu nöbet karşılığında kurumunca izin kullanmasına müsaade edilmeyen memurlar ile sözleşmeli personele, izin suretiyle karşılanamayan her bir icap nöbeti saati için, icap nöbeti süresi kesintisiz 12 saatten az olmamak üzere, yukarıda nöbet ücreti için belirlenen ücretin yüzde 40'ı tutarında icap nöbet ücreti ödenir. Bu şekilde ücretlendirilebilecek toplam icap nöbeti süresi aylık 120 saati geçemez.
 Bu madde uyarınca yapılacak ödemeler, döner sermayesi bulunan kurumlarda döner sermaye bütçesinden karşılanır.
