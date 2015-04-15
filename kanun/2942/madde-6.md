@@ -2,6 +2,8 @@ Onay mercii
 Madde 6 – Kamu yararı kararı;
 a) Köy ihtiyar kurulları ve belediye encümenleri kararları, ilçelerde kaymakamın, il merkezlerinde valinin,
 b) İlçe idare kurulları, il daimi encümenleri ve il idare kurulları kararları, valinin,
+_________
+(1) 27/3/2015 tarihli ve 6639 sayılı kanunun 28 inci maddesiyle bu fıkrada yer alan “raylı taşıma sistemleri” ibaresinden sonra gelmek üzere “ile tünel” ibaresi eklenmiştir.
 6205
 c) Üniversite yönetim kurulu kararları, rektörün,
 d) Yükseköğretim Kurulu kararları, Kurul başkanının,
