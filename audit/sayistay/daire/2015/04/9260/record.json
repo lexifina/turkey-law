@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "252",
+  "decision_date": "2015-04-16",
+  "source_id": 9260,
+  "chamber": "3",
+  "ilam_number": "211",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9260/",
+  "source_sha256": "7b9ab32afb240430efdaec6b1afda7a48a12e9474ef13ba0160784572635597b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
