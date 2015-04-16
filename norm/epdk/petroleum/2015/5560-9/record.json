@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5560/9",
+  "decision_date": "2015-04-16",
+  "title": "Madeni Yağ Lisansı Süresi Hakkında Kurul Kararı",
+  "categories": [
+    "Lisans İşlemleri Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+6IajO4NmEg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+6IajO4NmEg="
+  ],
+  "source_sha256": "72f90a4de0c0815df9787965bdf2e5ea17d141e19a184b44c834d493db62fe10",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4913,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2015-04-16",
+  "law_text_complete": false
+}
