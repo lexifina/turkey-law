@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-04-18",
+  "issue": "29330",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özel Tüketim Vergisi (II) Sayılı Liste Uygulama Genel Tebliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150418-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150418.htm",
+  "index_sha256": "e2979048934745bece5117689fe1afdc8f08692339ec6f5af1930055429d3223",
+  "index_header": "18 Nisan 2015 ... 29330 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150418.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
