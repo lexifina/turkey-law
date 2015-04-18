@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğ, gümrük işlemlerine ilişkin olarak elektronik ortamda beyanda bulunmak isteyen gerçek/tüzel kişilerin ve bu kişiler hesabına gümrük idarelerinde doğrudan veya dolaylı temsil yoluyla işlem yapma yetkisini haiz kişilerin bilgilerinin elektronik ortamda takibi ve kontrolü ile bu bilgilerden risk analizi yapılması, inceleme ve soruşturmalarda yararlanılması amacıyla kullanılan Yükümlü Kayıt ve Takip Sistemine kayıtların yapılması, güncellenmesi ve gümrük idaresince kontrolüne ilişkin usul ve esasları belirlemek amacıyla hazırlanmıştır.

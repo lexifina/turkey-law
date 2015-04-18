@@ -1,0 +1,2 @@
+Yetki
+MADDE 9 – (1) Gümrük ve Ticaret Bakanlığı (Risk Yönetimi ve Kontrol Genel Müdürlüğü), bu Tebliğin uygulanmasını temin etmek amacıyla gerekli göreceği her türlü tedbiri almaya, Tebliğde belirtilen veri alanlarında her türlü değişikliği yapmaya, zorunlu hallerde Yükümlü Kayıt ve Takip Sisteminde onaylı kayıt bulundurma zorunluluğunu askıya almaya, özel ve zorunlu durumlar ile bu Tebliğde yer almayan hususları inceleyip sonuçlandırmaya yetkilidir.
