@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-04-19",
+  "issue": "29331",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Ufuk Üniversitesi Hukuk Fakültesi Lisans Eğitim Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150419-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150419.htm",
+  "index_sha256": "7e4d856cda0f0e9f4e3d36beb140712c913aba3571f5fb061804ce1d698517c2",
+  "index_header": "19 Nisan 2015 ... 29331 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150419.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
