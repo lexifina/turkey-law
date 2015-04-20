@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 11 – (1) Yönetim Kurulu; Müdürün Başkanlığında, müdür yardımcıları ile Tıp Fakültesinden üç ve Fen Fakültesinden bir öğretim üyesi olmak üzere Rektör tarafından üç yıl için görevlendirilen toplam yedi üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere yeni bir üye görevlendirilir.
+(2) Yönetim Kurulu; Merkezin eğitim, öğretim, bilimsel araştırma, danışmanlık ve yayın faaliyetleri ile bu faaliyetlerle ilgili esasları kararlaştırır.
+(3) Yönetim Kurulu; Müdürün çağrısı üzerine yılda en az iki kez, üye tam sayısının salt çoğunluğu ile toplanır. Kararlar, katılanların salt çoğunluğu ile alınır. Oyların eşitliği halinde başkanın görüşü yönünde çoğunluk sağlanmış sayılır. Geçerli mazereti olmadan üç kez Yönetim Kurulu toplantısına katılmayanların Yönetim Kurulu üyeliği sona erer.
