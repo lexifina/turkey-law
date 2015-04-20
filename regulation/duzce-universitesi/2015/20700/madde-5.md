@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; çocukların ve gençlerin bilimsel bilgiye erişebilirliğini artırmak, ilgi duydukları bilimsel, sanatsal ve sportif alanlar hakkında güvenilir ve güncel bilgiyi bilim insanlarından almalarını sağlamak, ilgi duydukları alanlarda öğretim programlarının ötesinde bilgi sahibi olmak isteyen öğrencilere bu bilgiyi sağlamak, çocukların ve gençlerin liderlik ve problem çözücülük özelliklerini ve düşünme yeteneklerini geliştirmek, bilim, sanat ve spor eğitimi ve etkinlikleri yaparak çocuklarda Üniversite kültürünün oluşturulmasını sağlamak, çocukların çeşitli meslek alanlarıyla tanışarak kendilerine mesleklerle ilgili amaçlar koymalarına katkıda bulunmak ve konuyla ilgili olarak toplumla Üniversite arasındaki iletişimi sağlamaktır.

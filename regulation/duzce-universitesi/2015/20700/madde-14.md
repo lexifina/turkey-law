@@ -1,0 +1,3 @@
+Alan koordinatörleri ve görevleri
+MADDE 14 – (1) Alan koordinatörü; Müdürün önerisi ile Rektör tarafından görevlendirilir.
+(2) Alan koordinatörünün görevi; sorumlusu olduğu alanda Merkezde yürütülecek programların açılmasını sağlamak, açılacak programlara katılacak çocukların ve gençlerin seçim ölçütlerini, derslerini, akademik takvimini, ders programlarını belirleyerek Merkez yönetimine sunmak, programın eğitmenlerini ve görev dağılımlarını, olanak ve ihtiyaçlarını saptamak, onaylanan programı çocukların ve gençlerin sağlık ve güvenlikleri için gerekli önlemleri alarak yürütmek ve ilgili görevin tamamlanmasından sonra hazırlanan raporu Müdürlüğe sunmaktır.
