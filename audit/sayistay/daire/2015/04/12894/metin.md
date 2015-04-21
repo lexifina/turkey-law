@@ -1,0 +1,3 @@
+Personelin çalışmadığı günler için de yol ve yemek bedellerinin yükleniciye ödenmesi
+
+….. Belediyesi ile ….. Ortak Girişimi arasında ….. tarihinde, ….. ihale kayıt numaralı, …..-TL bedelle sözleşmesi imzalanan, “….. işine” ilişkin dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; yol ve yemek bedellerinin personelin çalışmadığı günler için de ödenmesi sonucu kamu zararına neden olunduğu görülmüş ise de; kamu zararı tutarı olan …..-TL’nin ….. tarih ve ….. yevmiye numaralı Ödeme Emri Belgesi ile gelir kaydedilerek tahsil edildiği anlaşıldığından, ilişilecek husus kalmadığına oy birliğiyle,
