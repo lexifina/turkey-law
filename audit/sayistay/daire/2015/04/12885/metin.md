@@ -1,0 +1,3 @@
+Gecikme Cezası.
+
+….. Belediyesi’nin yüklenici firma ….. Limited Şirketi’nden …… alımı işine ilişkin dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ilk parti malın geç teslim edilmesi nedeniyle kesilmesi gereken gecikme cezasının kesilmediği ve kamu zararına neden olunduğu görülmüş ise de; …..-TL tutarındaki kamu zararının, …..-TL’sinin yüklenicinin bütçe emanetleri hesabındaki alacağından kesilerek ….. tarih ve ….. nolu yevmiye kaydı ile gelir kaydedildiği ve kalan …..-TL’sinin ise ….. tarih ve ….. numaralı tahsil fişi ile düzenlenen ….. tarih ve ….. Seri No’lu Tahsilat Makbuzu ile tahsil edildiği anlaşıldığından, ilişilecek husus kalmadığına oy birliğiyle,
