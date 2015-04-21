@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40337",
+  "decision_date": "2015-04-21",
+  "source_id": 9915,
+  "chamber": "6",
+  "file_number": "38805",
+  "account_year": "2010",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9915/",
+  "source_sha256": "380c839ee458371e535a772db076f617e5f6ac78cb020ff86c536e1dc9932a78",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
