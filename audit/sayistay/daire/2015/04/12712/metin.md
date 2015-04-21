@@ -1,0 +1,3 @@
+Organizasyon giderleri.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ….. Yönetiminin  talebi üzerine, …… Müzik Orkestrasının ….. tarihleri arasında yapacağı konser programının organizasyon giderlerinin, 5393 sayılı Belediye Kanunu’na aykırı olarak ….. Belediyesi bütçesinden karşılandığı iddia edilmiş ise de; söz konusu organizasyonun 5393 sayılı Belediye Kanunu’nun 14’üncü maddesi kapsamında kültür ve sanat etkinliği olarak bir protokol çerçevesinde yapılması ve ilçe halkının …… konser salonunda düzenlenen programa katılımının sağlanması nedenleriyle mevzuata uygun olduğu anlaşılan …..-TL ile ilgili olarak ilişilecek husus bulunmadığına oy birliğiyle,
