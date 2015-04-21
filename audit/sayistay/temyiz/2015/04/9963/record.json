@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40385",
+  "decision_date": "2015-04-21",
+  "source_id": 9963,
+  "chamber": "6",
+  "file_number": "38763",
+  "account_year": "2011",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9963/",
+  "source_sha256": "58df84c2b23d91bf41161f9376c51f564645f360a61080c2ddc1ff73ea62216d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
