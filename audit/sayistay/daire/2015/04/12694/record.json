@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "232",
+  "decision_date": "2015-04-21",
+  "source_id": 12694,
+  "chamber": "6",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12694/",
+  "source_sha256": "efb0fb1c50f3b4dff0dfcdb38e98fb979106008908b65db0043d5d2d584cb367",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
