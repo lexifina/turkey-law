@@ -1,0 +1,3 @@
+Personellerin genel tatil ve yıllık izinli oldukları günlere ilişkin yemek ve yol bedellerinin yükleniciye ödenmesi.
+
+….. Belediyesi ile ….. iş ortaklığı arasında imzalanan ……-TL bedelli “…. İşine” ilişkin dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; personellerin genel tatil ve yıllık izinli oldukları günlere ilişkin yemek ve yol bedellerinin yükleniciye ödendiği görülmüş ise de; kamu zararı tutarı olan ……-TL’nin, ……-TL’sinin yüklenici firmanın …… no.lu Mart 2014 hakedişinden, …..-TL’sinin ….. no.lu Nisan 2014 hakedişinden, …-TL’sinin de ….. no.lu Mayıs 2014 hakedişinden kesilerek, ….. tarih ve …… no.lu yevmiye ile Mali Hizmetler Müdürlüğü tarafından gelir kaydının yapıldığı anlaşıldığından, ilişilecek husus kalmadığına oy birliğiyle,
