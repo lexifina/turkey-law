@@ -1,0 +1,3 @@
+…..  Derneğine  verilmek  üzere  müzik aletleri alınması.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …..Belediyesinin, …..  Derneğine  verilmek  üzere  4734  sayılı Kanunun  22/d  maddesi  uyarınca  doğrudan  temin  ile …..’dan  aldığı  altı  adet bağlama,  birer  adet  anfi  ve  kablosuz  yaka  mikrofonu  ile iki  adet  hoparlör  müzik  aletleri  ve  aksesuarları  alım  işinin  ilgili  mevzuat  hükümlerine aykırı  olarak  gerçekleştirildiği iddia edilmiş ise de; söz konusu müzik aletleri ve aksesuarlarının teslim alma komisyonu raporuna istinaden ….. Müdürlüğü envanterine kaydedildiği anlaşıldığından, kamu zararı oluşmayan …..-TL ile ilgili olarak ilişilecek husus bulunmadığına oy birliğiyle,
