@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40314",
+  "decision_date": "2015-04-21",
+  "source_id": 9892,
+  "chamber": "6",
+  "file_number": "38834",
+  "account_year": "2010",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/9892/",
+  "source_sha256": "859c8bd3090008282efbced6de7decd5ef652dc7c1ac68faed2693bfb07f872f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
