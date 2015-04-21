@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-04-21",
+  "issue": "29333",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme İdaresi Başkanlığının 17/4/2015 Tarihli ve 2015/ÖİB-K-22 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150421-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150421.htm",
+  "index_sha256": "ed9235914ae5545d786929e2879ca398c939545b5eb08442e7f47f6dbf0f859e",
+  "index_header": "21 Nisan 2015 ... 29333 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150421.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
