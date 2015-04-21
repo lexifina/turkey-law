@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "232",
+  "decision_date": "2015-04-21",
+  "source_id": 12755,
+  "chamber": "6",
+  "item_number": 14,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12755/",
+  "source_sha256": "b2fe37fe29f2fe5f677ac86626a13a04823159c1e3a165da4a1a2131bedd80bc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
