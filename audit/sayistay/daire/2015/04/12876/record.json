@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "232",
+  "decision_date": "2015-04-21",
+  "source_id": 12876,
+  "chamber": "6",
+  "item_number": 17,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12876/",
+  "source_sha256": "b1a5c7228e7bfc5be8b111bc98cd7c32066f51577db6d6d28d1fd1dcd403a785",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
