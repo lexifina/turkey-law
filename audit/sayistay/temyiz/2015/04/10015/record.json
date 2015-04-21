@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40437",
+  "decision_date": "2015-04-21",
+  "source_id": 10015,
+  "chamber": "6",
+  "file_number": "38769",
+  "account_year": "2011",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10015/",
+  "source_sha256": "24bba5eedff551680bb0d4a4eb4507b82ea5961cb982766a0ee331c95c483bd2",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
