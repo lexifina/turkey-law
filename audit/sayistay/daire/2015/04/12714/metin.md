@@ -1,0 +1,3 @@
+Yol ve yemek bedellerinin personelin çalışmadığı günler için de ödenmesi.
+
+….. Belediyesi ile yüklenici ….. Ltd. Şti. arasındaki ….. tarihli sözleşmeye göre gerçekleştirilen “….. işine” ilişkin dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; yol ve yemek bedellerinin personelin çalışmadığı günler için de ödendiği görülmüş ise de; …..-TL tutarındaki kamu zararının, …..-TL’lik kısmının …… no.lu ara hakedişten; geriye kalan ……-TL’lik kısmının ise ….. no.lu ara hakedişten kesinti yapılarak tahsil edildiğinden ve ….. tarih ve ….. no.lu Ödeme Emri Belgesi ile de Gelirler Hesabına kaydedildiğinden, ilişilecek husus kalmadığına oy birliğiyle,
