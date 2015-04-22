@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6646",
+  "year": 2015,
+  "title": "Karadeniz Ekonomik İşbirliği Örgütü ile Türkiye Cumhuriyeti Hükümeti Arasında Merkez Anlaşma-sının Ekinde Değişiklik Yapılmasına ve KEİ Merkezinin Kalıcı Olarak Taşınmasının Usullerine İlişkin Karadeniz Ekonomik İşbirliği Örgütü ile Türkiye Cumhuriyeti Hükümeti Arasında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-04-22",
+  "gazette_issue": "29334",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150422-1.htm",
+  "source_sha256": "b8d5684fabb89b83e1ab22ee2919b9e0f649df4dc2b35eec94bd51a706b9577b",
+  "text_sha256": "585869445813fb2a09590f578159794660e431550ff904e9dfe388209f4c3315",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/04/22/29334-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150422-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
