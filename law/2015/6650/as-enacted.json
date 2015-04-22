@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6650",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Arama ve Kurtarma Hizmetlerinin Koordinasyonuna Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-04-22",
+  "gazette_issue": "29334",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150422-4.htm",
+  "source_sha256": "6663b8c50646b11bc450db6d61866e827819c5f4c1545a4927659154b9da843c",
+  "text_sha256": "c6c52c5cce3ac5bce94777695e49a20ab617c3eb402bb49397a1a293f5cc3a74",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/04/22/29334-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150422-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
