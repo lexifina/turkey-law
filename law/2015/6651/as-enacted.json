@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6651",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Türkmenistan Hükümeti Arasında Gençlik ve Spor Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-04-22",
+  "gazette_issue": "29334",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150422-5.htm",
+  "source_sha256": "01e83bc6dcb6f65c2cb74d01782fa3d08cf4c3ec0b70a3504a7b48fd23708f99",
+  "text_sha256": "ac057c8c83bb142b872cefb3a460fa5c43a2163b8563eea66810b6106c437196",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/04/22/29334-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150422-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
