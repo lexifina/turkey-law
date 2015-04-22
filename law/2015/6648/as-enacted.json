@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6648",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sudan Cumhuriyeti Hükümeti Arasında İkili Tarımsal İşbirliği ve Ortaklığına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-04-22",
+  "gazette_issue": "29334",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150422-2.htm",
+  "source_sha256": "126e60155f4ed53d3125783441f0c69c4ba0425da29bc0d175e31da83d77e46d",
+  "text_sha256": "6dca5f92a5e759380f77cc48dea1dfd4c90502b698115de766bdf433c9acee7f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/04/22/29334-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150422-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
