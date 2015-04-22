@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6652",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kosova Cumhuriyeti Hükümeti Arasında Kültür Merkezlerinin Kuruluşu, İşleyişi ve Faaliyetleri Hakkında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-04-22",
+  "gazette_issue": "29334",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150422-6.htm",
+  "source_sha256": "ae67f3c079082c1e1585c10b022b9a5e7baedd22ec5513f564b9e1b3095f3623",
+  "text_sha256": "0b1a48fc3c7d3055866113e8928462da95f2df8e9a6527b32e85077d85c797a3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/04/22/29334-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150422-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
