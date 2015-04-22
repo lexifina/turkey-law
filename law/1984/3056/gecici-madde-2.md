@@ -1,0 +1,2 @@
+Geçici Madde 2 – Bu Kanun ile yapılan yeni düzenleme sebebi ile kadro ve görev unvanları değişmeyenler mevcut kadrolara atanmış sayılırlar.
+Kadro dereceleri veya görev unvanları değişenler veya kaldırılanlar yeni bir kadroya atanıncaya kadar, durumlarına uygun işlerle görevlendirilirler ve eski kadrolarına ait aylık, ek gösterge ve her türlü hakları yeni görevlerinde kaldıkları sürece şahıslarına bağlı olarak saklı tutulur.

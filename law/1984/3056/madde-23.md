@@ -1,0 +1,3 @@
+Başbakanlık Müşavirleri:
+Madde 23 – (Değişik birinci fıkra : 27/12/1991 - KHK - 475/3 md.) Başbakanlıkta ve Devlet bakanlıklarında özel ve öncelik taşıyan konularda, Başbakan veya Devlet bakanlarına yardımcı olmak üzere ençok seksenbeş Başbakanlık Müşaviri görevlendirilebilir. (Ek cümle: 29/6/2011-KHK-644/37 md.) Bu kadroya atananların varsa emeklilik veya yaşlılık aylıkları kesilmez.
+(Değişik ikinci fıkra: 24/10/2011-KHK-661/32 md.) Başbakanlık Müşavirleri, Başbakan veya Müsteşar tarafından belirlenen birimlerde, Başbakan Yardımcılıklarında, Sektörel İzleme ve Değerlendirme birimi bünyesinde veya ihtiyaç halinde diğer kamu kurum ve kuruluşlarında görevlendirilebilir.

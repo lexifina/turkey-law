@@ -1,0 +1,1 @@
+Madde 1 – Bu Kanunun amacı, bakanlıklar arasında işbirliğini sağlamak, Hükümetin genel siyasetinin yürütülmesini gözetmek, Devlet Teşkilatının düzenli bir şekilde işlemesini temin etmek, Anayasa ve kanunlarla Başbakana verilen görevleri yerine getirmek için Başbakanlık Teşkilatının kurulmasına, teşkilat ve görevlerine ait esasları düzenlemektir.

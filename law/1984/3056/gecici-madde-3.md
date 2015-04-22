@@ -1,0 +1,2 @@
+Geçici Madde 3 – Bu Kanuna göre yeniden düzenleme yapılıncaya kadar değişen veya yeniden kurulan birimlere verilen görevler daha önce bu görevleri yapmakta olan birimler tarafından yapılmaya devam edilir.
+Bu Kanuna göre Başbakanlık teşkilatı ve kadroları en geç 6 ay içerisinde hazırlanır ve Bakanlar Kurulu kararı ile yürürlüğe girer. Yeni kadrolar alınıncaya kadar mevcut kadroların kullanılmasına devam olunur.

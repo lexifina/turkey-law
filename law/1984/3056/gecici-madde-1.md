@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Kanunun yürürlüğe girdiği tarihte Başbakanlık Merkez teşkilatında çalışan personel en geç 3 ay içinde müracaat etmek kaydıyla, iki defaya mahsus olmak üzere yeterlik sınavına girmek hakkını kazanır. Bu sınavlarda başarılı olanlar "Başbakanlık Uzmanı" unvanını alır.

@@ -1,0 +1,10 @@
+Sektörel İzleme ve Değerlendirme Birimi:
+Ek Madde 11- (Ek : 24/10/2011-KHK-661/39 md.)
+Sektörel İzleme ve Değerlendirme Birimi; ekonomi, tarım, enerji, sosyal politika, adalet, güvenlik, eğitim, kültür, bilim, teknoloji, iletişim, ulaştırma, çevre, şehircilik ve uluslararası ilişkiler alanları ile Başbakan tarafından belirlenecek diğer alanlarda Başbakanlığa danışmanlık yapar.
+Sektörel İzleme ve Değerlendirme Birimi, görevlerini Başbakan tarafından görevlendirilen bir Başbakan Başmüşavirinin başkanlığında yerine getirir.
+Birinci fıkrada belirtilen alanlarda yürütülecek izleme ve değerlendirme faaliyetleri, Başbakanlık Başmüşaviri, Başbakan Müşaviri, Başbakanlık Müşaviri, Sektörel İzleme ve Değerlendirme Raportörleri, Başbakanlık personeli veya 36 ncı maddeye göre Başbakanlıkta görevlendirilen kamu görevlilerinin koordinasyonunda oluşturulacak çalışma grupları tarafından yürütülür.(1)
+Birimin görevlerine ilişkin olarak gerektiğinde sürekli veya geçici ihtisas komisyonları ile geçici çalışma grupları kurulabilir.
+(Mülga beşinci fıkra: 10/9/2014-6552/102 md.)
+Birimin sekreterya hizmetleri Personel ve Prensipler Genel Müdürlüğünce yürütülür.
+(Ek fıkra: 10/9/2014-6552/102 md.) Sektörel İzleme ve Değerlendirme Raportörleri, mali ve sosyal haklar ile emeklilik hakları bakımından 375 sayılı Kanun Hükmünde Kararnamenin eki (III) sayılı Cetvelin birinci sırasında yer alanlar ile denk kabul edilir.
+(Ek fıkra: 10/9/2014-6552/102 md.) 375 sayılı Kanun Hükmünde Kararnamenin eki (III) sayılı Cetvelin birinci sırasında yer alan kadrolarda bulunanlar ile 5018 sayılı Kanunun eki (III) sayılı Cetvelde yer alan düzenleyici ve denetleyici kurumların uzmanları ve murakıpları Başbakanlıkça Sektörel İzleme ve Değerlendirme Raportörü kadrolarına atanabilir. Ayrıca, anılan personel; aylık, ödenek, her türlü zam ve tazminatlar ile diğer mali ve sosyal hak ve yardımları kurumlarınca ödenmek kaydıyla 36 ncı madde hükümlerine göre Sektörel İzleme ve Değerlendirme Raportörü kadrolarında geçici olarak görevlendirilebilir.

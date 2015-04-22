@@ -1,0 +1,2 @@
+Ek Madde 3 – (18/5/2000 - KHK - 600/5 md.)
+583 sayılı Kanun Hükmünde Kararname ile ihdas edilerek 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnameye eklenen ekli (1) sayılı listede yer alan kadro iptal edilmiş ve Başbakanlık merkez teşkilatında kullanılmak üzere ekli (2) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin ilgili bölümüne eklenmiştir.(2)
