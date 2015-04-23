@@ -22,6 +22,4 @@ t) Sözleşmenin feshine ilişkin şartlar.
 u) Yüklenicinin sözleşme konusu iş ile ilgili çalıştıracağı personele ilişkin sorumlulukları.
 v) İhale dokümanında yer alan bütün belgelerin sözleşmenin eki olduğu.
 y) Anlaşmazlıkların çözümü.
-––––––––––––––––––––––
-(1) 20/11/2008 tarihli ve 5812 sayılı Kanunun 32 nci maddesiyle; bu fıkrada yer alan “Çerçeve sözleşme” ibaresi “Çerçeve anlaşma”, “kısa” ibaresi “münferit” olarak değiştirilmiş ve metne işlenmiştir.
-8261
+z) (Ek: 4/4/2015-6645/33 md.) İş sağlığı ve güvenliğine ilişkin yükümlülükler.

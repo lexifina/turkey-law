@@ -1,8 +1,4 @@
-Ulusal Yeterlilik Çerçevesi
+Türkiye Yeterlilikler Çerçevesi[7]
 MADDE 23/A- (Ek: 11/10/2011 - KHK - 665/41 md.)
-(1) Ulusal Yeterlilik Çerçevesinin oluşturulmasına, geliştirilmesine ve güncelliğinin korunmasına ilişkin işlemler Kurum tarafından yürütülür.
-(2) Kalite güvencesi sağlanmış tüm yeterlilikler Ulusal Yeterlilik Çerçevesine dahil edilir. Ulusal Yeterlilik Çerçevesinde yer alacak meslekî ve teknik yeterliliklerin kalite güvencesi Kurum tarafından sağlanır. Ulusal Yeterlilik Çerçevesine dahil edilecek yeterliliklerin kalite güvence ölçütlerine, meslekî ve teknik yeterlilikler dışında kalan yeterliliklerin kalite güvencesini sağlayacak kurum ve kuruluşların belirlenmesine, farklı yeterlilikler arasındaki yatay ve dikey geçişler ile Ulusal Yeterlilik Çerçevesinin uygulanmasına ilişkin usul ve esaslar Bakanlar Kurulu kararı ile yürürlüğe konulan yönetmelikle belirlenir.
-______________
-(1) Bu maddenin başlığı “Sınav” iken 11/10/2011 tarihli ve 665 sayılı KHK’nin 39 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
-(2) Bu maddenin başlığı “Belgelendirme” iken 11/10/2011 tarihli ve 665 sayılı KHK’nin 40 ıncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
-9955
+(1) Türkiye Yeterlilikler Çerçevesinin oluşturulmasına, geliştirilmesine ve güncelliğinin korunmasına ilişkin işlemler Kurum tarafından yürütülür.[8]
+(2) (Değişik: 4/4/2015-6645/70 md.) Kalite güvencesi sağlanmış tüm yeterlilikler Türkiye Yeterlilikler Çerçevesine dâhil edilir. Yeterliliklerin kalite güvencesinin sağlanmasına ilişkin ölçütler Kurum tarafından belirlenir. Türkiye Yeterlilikler Çerçevesinin oluşumu ve yürütülmesi için Millî Eğitim Bakanlığı, Yükseköğretim Kurulu, Kurum ve ilgili tarafların temsilcilerinden oluşan kurul, komisyon ve çalışma grupları gibi danışma, karar ve uygulama birimleri oluşturulabilir. Bu birimlerin oluşturulmasına, işletilmesine, kalite güvence ölçütlerine, kalite güvencesini belirleyecek kurum ve kuruluşların belirlenmesine ve Türkiye Yeterlilikler Çerçevesinin uygulanmasına ilişkin usul ve esaslar Bakanlar Kurulu Kararı ile yürürlüğe konulan yönetmelikle belirlenir.

@@ -5,10 +5,9 @@ b) Kadın işçilerin 74 üncü madde gereğince doğumdan önce ve sonra çalı
 c) İşçinin muvazzaf askerlik hizmeti dışında manevra veya herhangi bir kanundan dolayı ödevlendirilmesi sırasında işine gidemediği günler (Bu sürenin yılda 90 günden fazlası sayılmaz.).
 d) Çalışmakta olduğu işyerinde zorlayıcı sebepler yüzünden işin aralıksız bir haftadan çok tatil edilmesi sonucu olarak işçinin çalışmadan geçirdiği zamanın onbeş günü (işçinin yeniden işe başlaması şartıyla).
 e) 66 ncı maddede sözü geçen zamanlar.
-8443
 f) Hafta tatili, ulusal bayram, genel tatil günleri.
-g) 3153 sayılı Kanuna dayanılarak çıkarılan tüzüğe göre röntgen muayenehanelerinde çalışanlara pazardan başka verilmesi gereken yarım günlük izinler.
+g) 3153 sayılı Kanuna dayanılarak çıkarılan yönetmeliğe göre röntgen muayenehanelerinde çalışanlara pazardan başka verilmesi gereken yarım günlük izinler.[18]
 h) İşçilerin arabuluculuk toplantılarına katılmaları, hakem kurullarında bulunmaları, bu kurullarda işçi temsilciliği görevlerini yapmaları, çalışma hayatı ile ilgili mevzuata göre kurulan meclis, kurul, komisyon ve toplantılara yahut işçilik konuları ile ilgili uluslararası kuruluşların konferans, kongre veya kurullarına işçi veya sendika temsilcisi olarak katılması sebebiyle işlerine devam edemedikleri günler.
-ı) İşçilerin evlenmelerinde üç güne kadar, ana veya babalarının, eşlerinin, kardeş veya çocuklarının ölümünde üç güne kadar verilecek izinler.
+ı) (Değişik: 4/4/2015-6645/35 md.) Ek 2 nci maddede sayılan izin süreleri,
 j) İşveren tarafından verilen diğer izinler ile 65 inci maddedeki kısa çalışma süreleri.
 k) Bu Kanunun uygulanması sonucu olarak işçiye verilmiş bulunan yıllık ücretli izin süresi.
