@@ -1,8 +1,8 @@
 ÜÇÜNCÜ BÖLÜM
 Üst Kuruluşlar
-Yükseköğretim Kurulu: (1)
+Yükseköğretim Kurulu: (2)
 Madde 6 – (Değişik: 2/12/1987 - KHK - 301/1 md.)
-a. Yükseköğretim Kurulu, tüm yüksek öğretimi düzenleyen ve yükseköğretim kurumlarının faaliyetlerine yön veren, bu kanunla kendisine verilen görev ve yetkiler çerçevesinde özerkliğe ve kamu tüzel kişiliğine sahip, bir kuruluştur. Yükseköğretim Kuruluna; Yükseköğretim Denetleme Kurulu (…) (1) ile gerekli planlama, araştırma, geliştirme, değerlendirme, bütçe, yatırım ve koordinasyon faaliyetleri ile ilgili birimler bağlıdır.
+a. Yükseköğretim Kurulu, tüm yüksek öğretimi düzenleyen ve yükseköğretim kurumlarının faaliyetlerine yön veren, bu kanunla kendisine verilen görev ve yetkiler çerçevesinde özerkliğe ve kamu tüzel kişiliğine sahip, bir kuruluştur. Yükseköğretim Kuruluna; Yükseköğretim Denetleme Kurulu (…) (2) ile gerekli planlama, araştırma, geliştirme, değerlendirme, bütçe, yatırım ve koordinasyon faaliyetleri ile ilgili birimler bağlıdır.
 b.Yükseköğretim Kurulu;
 (1) Cumhurbaşkanı tarafından, rektörlük ve öğretim üyeliğinde başarılı hizmet yapmış profesörlere öncelik vermek suretiyle seçilen yedi,
 (2) (Değişik: 23/12/1988 - KHK - 351/13 md.) Bakanlar Kurulunca temayüz etmiş üst düzeydeki Devlet görevlileri veya emeklileri arasından, (hakim ve savcı sınıfından olanlar için Bakanlığın ve kendilerinin muvafakatı alınmak kaydıyla) seçilen yedi,
@@ -10,7 +10,8 @@ b.Yükseköğretim Kurulu;
 (4) (İptal: Anayasa Mahkemesi'nin 14/5/1997 tarihli ve E.: 1997/21, K.: 1997/48 sayılı Kararı ile.)
 (5) Üniversitelerarası Kurulca, Kurul üyesi olmayan profesör öğretim üyelerinden seçilen yedi, kişiden oluşur.
 –––––––––––––
-(1) 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu maddede yer alan “, Öğrenci Seçme ve Yerleştirme Merkezi” ibaresi madde metninden çıkarılmıştır.
+(1) 4/4/2015 tarihli ve 6645 sayılı Kanunun 11 inci maddesiyle, bu bentte yer alan “yabancı dil” ibaresinden sonra gelmek üzere “, 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanununa göre iş güvenliği uzmanı olabilecek mezunları yetiştiren fakültelerde iş sağlığı ve güvenliği” ibaresi eklenmiştir.
+(2) 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu maddede yer alan “, Öğrenci Seçme ve Yerleştirme Merkezi” ibaresi madde metninden çıkarılmıştır.
 5352
 (2), (3), (...) (1) ve (5) inci bentlere göre seçilenlerin üyelikleri Cumhurbaşkanının onayı ile kesinleşir. Bu bentlerde belirtilenlerin seçimleri biray içinde, Cumhurbaşkanı tarafından onaylanmayanların yerine yeni adayların seçimleri ise iki hafta içinde yapılmadığı takdirde, Cumhurbaşkanınca doğrudan atama yapılır.
 Kamu kurum ve kuruluşlarında görevli olanlardan üyeliğe seçilenlerin kurumlarıyla ilişkileri devam eder.
