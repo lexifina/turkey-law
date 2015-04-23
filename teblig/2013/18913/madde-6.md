@@ -1,0 +1,4 @@
+Kullanıcıların yetkilendirilmesi
+MADDE 6 – (1) İhracatçılar tarafından EVİS’e giriş ve başvuru işlemleri elektronik imza veya mobil imza aracılığı ile yapılır. (Değişik cümle:RG-23/4/2015-29335) İhracatçılar, kullanıcılara ait bilgileri EK-1 de yer alan form ile Şeker Kurumu’na iletir.
+(2) İletilen bu bilgiler Kurum tarafından EVİS’e tanıtılır. Başvurular elektronik imza yetkilileri tarafından yetki seviyelerine göre imzalanır. İhracatçı, lüzumlu görmesi halinde; üçüncü kişilere, ihracatçıyı temsil ve ilzama kişi veya kişilerce imzalanmak kaydıyla EK-4’te yer alan noter onaylı taahhütname ile yetki verilebilir. İhraç ön izin belgesi başvurularının elektronik ortamda imza yetkilisi tarafından imzalanmasını müteakip, başvuru Kurum tarafından değerlendirmeye alınır.
+(3) (Mülga:RG-23/4/2015-29335)
