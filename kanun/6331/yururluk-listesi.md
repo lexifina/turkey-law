@@ -5,3 +5,4 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 6
 6462 | 3 | 3/5/2013
 6495 | 3, GEÇİCİ MADDE 4, 38 | 2/8/2013
 6552 | 2, 6, 15, 30 | 11/9/2014
+6645 | 8, 25, 25/A, 26, 30, GEÇİCİ MADDE 4, GEÇİCİ MADDE 9 | 23/4/2015

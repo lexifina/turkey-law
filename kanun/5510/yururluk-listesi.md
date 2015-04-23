@@ -26,7 +26,7 @@ KHK/666 | 80, Geçici Madde 4 | 15/1/2012 |
 6283 | 67, 68, 102, Geçici 20, İşlenemeyen Hüküm Geçici 39 ve Geçici 40 | 8/3/2012 2013 yılı Ocak döneminde
 6322 | Ek Madde 2, Geçici Madde 41 | 15/6/2012
 6353 | 6, 41, 47, 69, 73, Geçici Madde 4, 14,18, 42, 43, 44 | 12/7/2012
-6385 | 40 67 73, Geçici Madde 38, 45, 46, 47, 48 81, 83, 84, Ek Madde 8 | 2008 yılı Ekim ayı başından geçerli olmak üzere 19/1/2013 1/6/2012 tarihinden geçerli olmak üzere 19/1/2013 19/1/2013 1/9/2013
+6385 | 40 67 73, Geçici Madde 38, 45, 46, 47, 48 81, 83, 84, Ek madde 8 | 2008 yılı Ekim ayı başından geçerli olmak üzere 19/1/2013 1/6/2012 tarihinden geçerli olmak üzere 19/1/2013 19/1/2013 1/9/2013
 9880-2
 Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5510 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
 6458 | 3, 60, 61 | 11/4/2013
@@ -37,3 +37,7 @@ Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5
 6518 | 63 | 19/2/2014
 Anayasa Mahkemesi’nin 28/11/2013 tarihli ve E.: 2013/40, K.: 2013/139 sayılı Kararı | 102 | 9/5/2014
 Anayasa Mahkemesi’nin 29/1/2014 tarihli ve E.: 2013/126, K.: 2014/17 sayılı Kararı | GEÇİCİ MADDE 36 | 9/5/2014
+6552 | 6, 28, 40, 41, 61, 63, 64, 68, 72, 73, 87, 88, 97, 103, GEÇİCİ MADDE 41, 53, 54, 55, 56, 57, 58, 60 GEÇİCİ MADDE 59 82 6 ncı maddedeki ibare değişikliği ve EK MADDE 9 | 11/9/2014 13/5/2014 tarihinden geçerli olmak üzere 11/9/2014 tarihinde 11/9/2014 tarihini izleyen aybaşında 1/4/2015 tarihinden itibaren
+9880-3
+Değiştiren Kanunun/ İptal Eden Anayasa Mahkemesinin Kararının Numarası | 5510 sayılı Kanunun değişen veya iptal edilen maddeleri | Yürürlüğe Giriş Tarihi
+6645 | 80/2 nci fıkrasının (b) bendi GEÇİCİ MADDE 59 5, 30, 81, 102, EK MADDE 10, GEÇİCİ MADDE 14, GEÇİCİ MADDE 20, GEÇİCİ MADDE 43, GEÇİCİ MADDE 61, GEÇİCİ MADDE 62, GEÇİCİ MADDE 63, GEÇİCİ MADDE 64, GEÇİCİ MADDE 65, GEÇİCİ MADDE 66 | 1/10/2008 tarihinden geçerli olmak üzere yayımı tarihinde (23/4/2015) 13/5/2014 tarihinden geçerli olmak üzere yayımı tarihinde (23/4/2015) 23/4/2015

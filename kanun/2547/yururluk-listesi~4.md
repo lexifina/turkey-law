@@ -30,3 +30,4 @@ Anayasa Mahkemesi’nin 7/11/2014 tarihli ve E.: 2014/61, K.: 2014/17(Yürürlü
 6569 | 3, 35, 40, 44, 46, 49, 50, Ek Madde 11, Geçici Madde 67, 68, 69, 70 | 26/11/2014
 Anayasa Mahkemesi’nin 14/1/2015 tarihli ve E.: 2014/100, K.: 2015/6 sayılı Kararı | 53 | 7/4/2015 tarihinden başlayarak dokuz ay sonra (7/1/2016)
 6637 | 46, Geçici Madde 71 | 7/4/2015
+6645 | 5 | 23/4/2015
