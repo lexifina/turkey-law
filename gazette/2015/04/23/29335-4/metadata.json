@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-04-23",
+  "issue": "29335",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2015/7535 Birleşmiş Milletler Güvenlik Konseyinin 1267 (1999), 1988 (2011) ve 1989 (2011) Sayılı Kararlarıyla Listelenen Kişi, Kuruluş veya Organizasyonların Tasarrufunda Bulunan Malvarlığının Dondurulması Hakkındaki 30/9/2013 Tarihli ve 2013/5428 Sayılı Bakanlar Kurulu Kararının Eki (1) Sayılı Listede Değişiklik Yapılmasına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150423-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150423.htm",
+  "index_sha256": "0b86fa38137fe70ee240d592ef69c469ee0ebf5a02bb9a60ed7a3f97b2df54a7",
+  "index_header": "23 Nisan 2015 ... 29335 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150423.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
