@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, 4634 sayılı Kanunun 2 nci maddesinde tanımlanan pancar şekeri, nişasta bazlı şeker gibi şeker türlerinden, küp şeker, kahverengi şeker, pudra şekeri, invert şeker çözeltisi, invert şeker şurubu, şeker çözeltisi gibi 4634 sayılı Kanun kapsamındaki bir başka şeker türünün üretimi ile 4634 sayılı Kanun kapsamındaki tüm şeker türlerinin ambalajlanması ve pazarlanmasına ilişkin usul ve esasları kapsar.

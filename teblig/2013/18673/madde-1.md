@@ -1,0 +1,3 @@
+BİR ŞEKER TÜRÜNDEN BAŞKA BİR ŞEKER TÜRÜNÜN ÜRETİLMESİ VE ŞEKERLERİN AMBALAJLANMASI İLE PAZARLANMASINA DAİR TEBLİĞ
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, 4/4/2001 tarihli ve 4634 sayılı Şeker Kanununda şeker fabrikası olarak tanımlanan işletmelerin yanı sıra, şeker fabrikası tanımına girmeyen işletmelerde; 4634 sayılı Kanunun 2 nci maddesinde tanımlanan şeker türlerinden biri temin edilerek, küp şeker, kahverengi şeker, pudra şekeri gibi 4634 sayılı Kanun kapsamındaki şeker türlerinden bir diğerinin üretilmesi ile 4634 sayılı Kanun kapsamındaki şeker türlerinin ambalajlanması ve pazarlanmasına dair usul ve esasların düzenlenmesidir.
