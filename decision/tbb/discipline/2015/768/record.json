@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "768",
+  "date": "2015-04-25",
+  "title": "T. 25.04.2015 E. 2015/88 K. 2015/326",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/768",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=10&yil=2015",
+  "listing_sha256": "9cfec5257e5de8993c3fa74dc0a195339cd229e40ab4f713ec1749d99ce28ccd",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
