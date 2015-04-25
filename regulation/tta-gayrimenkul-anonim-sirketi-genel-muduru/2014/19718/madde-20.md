@@ -1,0 +1,7 @@
+Atama
+MADDE 20 – (1) Bu Yönetmelikte belirtilen görevlere ilişkin boş kadrolara; Şube Müdürü kadrolarına atanacaklar için yazılı ve sözlü sınav puanlarının aritmetik ortalaması; diğer görevler bakımından yazılı sınav sonuçları esas alınarak oluşturulan başarı listeleri üzerinden, tercihler de dikkate alınarak puan üstünlüğüne göre atama yapılır. Eşitlik hâlinde Şube Müdürü bakımından sırasıyla yazılı sınav puanı yüksek olana, daha üst öğrenimi bitirmiş olana, hizmet süresi fazla olana; diğer kadrolar bakımından ise sırasıyla daha üst öğrenimi bitirmiş olana, hizmet süresi fazla olana öncelik verilir.
+(2) Aylıksız izinde olanlar dâhil, atanmaya hak kazandıkları kadro veya pozisyona ilişkin görevlere atananlardan mevzuatla öngörülen süre içinde göreve başlamayanların söz konusu atanma hakları sona erer.
+(3) Duyurulan kadro veya pozisyonlardan;
+a) Atanma şartlarını taşımadıkları için sınavların geçersiz sayılması veya bu sebeple atamaların iptal edilmesi, atanılan göreve geçerli bir mazeret olmaksızın süresi içinde başlanılmaması ya da atanma hakkından vazgeçilmesi,
+b) Emeklilik, ölüm, memurluktan çekilme veya çıkarılma, başka unvanlı kadro veya pozisyonlara ya da başka bir kuruma naklen atanma,
+sebepleriyle boş kalan veya boşalanlara, başarı sıralamasının ilan edildiği tarihten itibaren altı aylık süreyi aşmamak üzere, aynı unvan için yapılacak müteakip sınava ilişkin duyuruya kadar belirlenen yedekler arasından başarı sıralamasına göre atama yapılabilir.

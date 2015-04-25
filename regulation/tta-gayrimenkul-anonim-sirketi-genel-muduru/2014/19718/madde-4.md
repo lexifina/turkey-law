@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alt görev: 27/9/1984 tarihli ve 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+b) Aynı düzeydeki görevler: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+c) Bağlı Şirket: Genel Müdürlüğe bağlı Anonim Şirketleri,
+ç) Genel Müdür: tta Gayrimenkul A.Ş. Genel Müdürünü,
+d) Genel Müdürlük Merkezi: tta Gayrimenkul A.Ş. Genel Müdürlüğü Merkez Teşkilatını,
+e) Görevde yükselme: Bu Yönetmelikte belirtilen görevlere aynı veya başka hizmet gruplarından yükselme yoluyla yapılacak atamaları,
+f) Görevde yükselme sınavı: Bu Yönetmelik hükümlerine göre şube müdürü ve aynı düzeydeki diğer görevlere görevde yükselme suretiyle atanacakların belirlenmesi amacıyla yapılan yazılı ve sözlü sınavı; diğer görevlere görevde yükselme suretiyle atanacakların belirlenmesi amacıyla yapılan yazılı sınavı,
+g) Hizmet grupları: Benzer veya aynı düzeydeki unvanlardan oluşan grupları,
+ğ) Hizmet süresi: Aylıksız izinli geçen süreler hariç muvazzaf askerlik süresi dahil olmak üzere, 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) bendine göre hesaplanan süreleri,
+h) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç, diğer günleri,
+ı) Müessese: Genel Müdürlüğe bağlı tüzel kişiliği haiz Müessese Müdürlüklerini,
+i) Personel: 657 sayılı Kanuna tabi olarak çalışanlar ile 399 sayılı Kanun Hükmünde Kararnamenin 3 üncü maddesinin; (b) bendinde tanımı yapılan kadrolu personel ve (c) bendinde tanımı yapılan sözleşmeli personel olarak çalışanları,
+j) Personel Dairesi Başkanlığı: Genel Müdürlük merkez ve taşra teşkilatında istihdam edilen personelden sorumlu Daire Başkanlığını,
+k) tta Gayrimenkul A.Ş.: tta Gayrimenkul Anonim Şirketi Genel Müdürlüğü, Bağlı Şirketler ile Müessese Müdürlükleri merkez ve taşra teşkilatlarını,
+l) Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara bu Yönetmelik kapsamında yapılan atamaları,
+m) Unvan değişikliği sınavı: Bu Yönetmelik hükümlerine göre unvan değişikliği suretiyle atanacakların belirlenmesi amacıyla yapılan yazılı sınavı,
+n) Üst görev: 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+ifade eder.

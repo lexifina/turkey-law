@@ -1,0 +1,2 @@
+Sınav belgelerinin saklanması
+MADDE 19 – (1) Sınavla ilgili belgeler, Genel Müdürlük Merkezinde Personel Dairesi Başkanlığı; bağlı birimlerde ise Personel Şubesi Müdürlüğü tarafından dava açma süresinden az olmamak üzere bir sonraki sınava kadar saklanır. Sınav sonuçları, başarı sıralamasının ilan edildiği tarihten itibaren altı aylık süreyi aşmamak üzere, aynı unvan için yapılacak müteakip sınava ilişkin duyuruya kadar geçerlidir.
