@@ -1,0 +1,4 @@
+Görüşlerin sunulması ve bilgi verilmesi
+MADDE 6 – (1) İlgili taraf başvuru formunu doldurarak 5 inci maddede belirtilen süre içerisinde gönderenlerin 1 inci maddede belirtilen bağlantıdan ulaşılabilen ilgili taraf soru formunu elektronik ortamda doldurarak 4 üncü maddede belirtilen e-posta adresine bu Tebliğin yayımı tarihinden itibaren otuz gün içinde göndermeleri gerekmektedir. İlgili taraf soru formunun doldurulmasıyla ilgili olarak Genel Müdürlük ile temas kurulması mümkün bulunmaktadır.
+(2) Bakanlık gerekli görmesi halinde ilgililerden ek bilgi ve belge isteyebilir.
+(3) Soruşturmaya ilişkin yazılı ve sözlü iletişim Türkçe yapılacaktır. İlgili tarafların soru formuna ilişkin yanıtlarını ve bu yanıtlar dışında kalan tüm bilgi, belge, görüş ve taleplerini yazılı olarak Türkçe sunmaları gerekmektedir.
