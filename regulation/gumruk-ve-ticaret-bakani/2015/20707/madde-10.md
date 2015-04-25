@@ -1,0 +1,6 @@
+Çok elyaflı tekstil ürünleri
+MADDE 10 – (1) Tekstil ürünleri, kendisini oluşturan tüm bileşen elyafın isimleri ve ağırlık yüzdeleri ile birlikte azalan sırayla etiketlenir ya da işaretlenir.
+(2) Birinci fıkradan farklı olarak ve 8 inci maddenin ikinci fıkrası hükümleri saklı kalmak üzere, bir tekstil ürününün toplam ağırlığının en fazla % 5’ini oluşturan bir elyaf veya toplu olarak tekstil ürününün toplam ağırlığının % 15’ine kadar olan elyaflar, üretim aşamasında kolayca tespit edilememeleri halinde, ağırlıkça toplam yüzdelerinin hemen öncesi veya sonrasında “diğer elyaf” terimi ile belirtilebilir.
+(3) Keten yüzdesinin kolalanmamış kumaşın toplam ağırlığının en az % 40’ı olduğu saf pamuk çözgüsü ve saf keten atkısı olan ürünler, “saf pamuk çözgü - saf keten atkı” şeklinde kompozisyon ayrıntıları ile beraber olmak şartıyla “pamuk keten birleşimi” olarak isimlendirilebilir.
+(4) 6 ncı maddenin birinci fıkrası hükümleri saklı kalmak üzere, üretim aşamasında kompozisyonlarının belirlenmesi zor olan tekstil ürünleri için, etiket veya işaretlemede “karışık elyaf” terimi ya da “belirlenmemiş tekstil kompozisyonu” terimi kullanılabilir.
+(5) Birinci fıkradan farklı olarak, ek-1’de yer almayan elyaf, ağırlıkça toplam yüzdelerinin hemen öncesi veya sonrasında “diğer elyaf” terimi ile belirtilebilir.

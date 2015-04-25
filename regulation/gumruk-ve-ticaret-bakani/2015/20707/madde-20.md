@@ -1,0 +1,11 @@
+İhtiyat payları
+MADDE 20 – (1) Tekstil ürünlerinin elyaf kompozisyonlarını belirlemek amacıyla ikinci, üçüncü ve dördüncü fıkralarda belirtilen ihtiyat payları dikkate alınır.
+(2) 9 uncu maddenin üçüncü fıkrası hükümleri saklı kalmak üzere, 10 uncu madde uyarınca belirlenecek elyaf kompozisyonundaki harici elyafların varlığı, bu elyafların yüzdesi aşağıdaki değerlere ulaşmadığı sürece belirtilmek zorunda değildir:
+a) Ürünün üretimi sırasında teknik olarak kaçınılmaz olduğu ve rutin olarak eklenmediği sürece, tekstil ürününün toplam ağırlığının %2’si veya,
+b) Ürünün üretimi sırasında teknik olarak kaçınılmaz olduğu ve rutin olarak eklenmediği sürece, karde işlemi geçirmiş tekstil ürünlerinin toplam ağırlığının %5’i.
+(3) Etiket veya işaretleme üzerinde gösterilen elyafların toplam ağırlığı ile ilgili olarak, 10 uncu madde gereğince sağlanacak elyaf kompozisyonu beyanı ile 19 uncu madde gereğince yürütülen analizden elde edilen yüzdeler arasında %3 oranında üretim ihtiyat payına izin verilir. Bu ihtiyat payı, ayrıca aşağıdaki durumlarda uygulanır:
+a) 10 uncu madde uyarınca ‘diğer elyaf’ ifadesi ile adlandırılmış elyaflar
+b) 9 uncu maddenin ikinci fıkrasının (b) bendinde belirtilen yün yüzdesi
+analizin amacına uygun olarak, ihtiyat payları ayrı hesaplanır. Bu fıkrada değinilen ihtiyat payı hesaplanırken hesaba alınacak toplam ağırlık, nihai ürünün elyaflarının ağırlığından bu maddenin ikinci fıkrasında değinilen ihtiyat payı uygulanırken bulunan herhangi bir harici elyafın ağırlığının düşürülmesiyle bulunur.
+(4) İkinci ve üçüncü fıkralarda bahsedilen ihtiyat paylarının kümülatif uygulamasına, ikinci fıkrada belirtilen ihtiyat payını uygularken, etiket veya işaretleme üzerinde gösterilen elyafların, aynı kimyasal türün bir veya daha fazla olduğunu kanıtlayan analizler sonucunda yalnızca harici elyafların bulunması durumunda izin verilir.
+(5) Üretim süreci, ikinci ve üçüncü fıkralarda belirtilenlerden daha yüksek ihtiyat payı gerektiren belirli tekstil ürünlerinde, Bakanlık, daha yüksek ihtiyat payına izin verebilir. Tekstil ürününü piyasaya arz etmeden önce üretici, olağanüstü üretim koşulları için yeterli neden ve kanıt sağlayarak, Bakanlığa yetkilendirilme talebini sunar. Yetkilendirme sadece olağanüstü hallerde ve üretici tarafından yeterli gerekçe sağlandığı durumlarda verilebilir.
