@@ -1,0 +1,2 @@
+Yüksek Yargı Organlarında ve Diğer Kamu Kurum ve Kuruluşlarında Eğitim
+Madde 13 - Askeri hakimler; yüksek mahkemelerde ve diğer resmi kurum ve kuruluşlarda meslekle ilgili konularda düzenlenen toplantı, seminer, konferans ve sempozyumlara gönderilebilirler. Karşılığı Bakanlık bütçesinden ödenmek üzere, Adalet Bakanlığı Eğitim Merkezinde uygulanan programın bir kısmını veya tamamını izleyebilirler.

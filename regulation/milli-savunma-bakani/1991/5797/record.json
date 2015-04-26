@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.5797",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ASKERİ HAKİMLER MESLEK İÇİ EĞİTİM YÖNETMELİĞİ",
+  "number": "5797",
+  "issuer": "Milli Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/1991/5797",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5797&MevzuatTertip=5",
+  "source_sha256": "33e4817eb2e5265633f352668f336872b4cdf0350797538e4f9f7600a095cc1d",
+  "source_bytes": 45013,
+  "published": "1991-04-05",
+  "gazette": "20836",
+  "in_force": "2015-04-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/4/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-04-26",
+      "RG-26/4/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-03-17",
+      "RG-17/03/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik Resmi Gazete'de yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1812,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
