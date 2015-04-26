@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-04-26",
+  "issue": "29338",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2015/7424 Türkiye Cumhuriyeti Hükümeti ile Karadağ Hükümeti Arasında Sağlık ve Tıp Bilimleri Alanlarında İşbirliğine Dair Anlaşmanın Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150426-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150426.htm",
+  "index_sha256": "6c81d3c22514646ccb5ec439a2af2ab69ac3337c6e5ce2d89d3282803f18515c",
+  "index_header": "26 Nisan 2015 ... 29338 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150426.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
