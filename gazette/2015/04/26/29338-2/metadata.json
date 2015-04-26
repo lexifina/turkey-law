@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-04-26",
+  "issue": "29338",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2015/7459 Türkiye Cumhuriyeti Enerji ve Tabii Kaynaklar Bakanlığı ile Rusya Federasyonu Enerji Bakanlığı Arasında Nükleer Güç Mühendisliği Alanında İşbirliği Protokolü ile Notaların Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150426-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150426.htm",
+  "index_sha256": "6c81d3c22514646ccb5ec439a2af2ab69ac3337c6e5ce2d89d3282803f18515c",
+  "index_header": "26 Nisan 2015 ... 29338 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150426.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
