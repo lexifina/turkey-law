@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40448",
+  "decision_date": "2015-04-28",
+  "source_id": 10026,
+  "chamber": "6",
+  "file_number": "39333",
+  "account_year": "2010",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10026/",
+  "source_sha256": "cddcd8da1a0e4fb82f84782eaa0f3f1357d9728892557fdb374e27e9e27ff2c0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
