@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5581/1",
+  "decision_date": "2015-04-28",
+  "title": "BOTAŞ - Boru Hatları ile Petrol Taşıma A.Ş.’nin PİL/480/110/11077 sayılı iletim lisansı kapsamında Petrol İşletmeleri Bölge Müdürlüğü Pk.73 01921 Ceyhan/ADANA adresinde faaliyette bulunan iletim tesisine ilişkin iletim tarifesi",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ro482HQ+E0U=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ro482HQ+E0U="
+  ],
+  "source_sha256": "4b65f6b76e97f927de51af4e39636dd7db607f285310baed8154f03c1f3824d3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-04-28",
+  "law_text_complete": false
+}
