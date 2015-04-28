@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6653",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bulgaristan Cumhuriyeti Hükümeti Arasında Acil Durumlar Alanında İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-04-28",
+  "gazette_issue": "29340",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150428-12.htm",
+  "source_sha256": "b46dca0834defb2f4da3606a237cf17e5d66ba388f23ceab9e6f356ac0ee4e9d",
+  "text_sha256": "6a2bacea07880a7d8af2fd8c7f60380785dfb7e0b7a801e4f9c2635a5e2b90f7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/04/28/29340-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150428-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
