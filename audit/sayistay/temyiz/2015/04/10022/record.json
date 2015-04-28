@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40444",
+  "decision_date": "2015-04-28",
+  "source_id": 10022,
+  "chamber": "6",
+  "file_number": "39329",
+  "account_year": "2010",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10022/",
+  "source_sha256": "26ef9fc33562096375fcb46263ebb4ac9119e67dcc39691d28616a952d1f6fce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
