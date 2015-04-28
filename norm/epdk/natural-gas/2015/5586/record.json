@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5586",
+  "decision_date": "2015-04-28",
+  "title": "Bahçeşehir Gaz Dağıtım A.Ş.?nin 2012-2016 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2015-04-30",
+  "resmi_gazete_number": "29342",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wTBgJEmvGwA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wTBgJEmvGwA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wjCaBOTaNxw="
+  ],
+  "source_sha256": "a36c97c9041095d7466f3c85f6e26c2011f540dfba1a49f43f1dd6ebaa143066",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-04-28",
+  "law_text_complete": false
+}
