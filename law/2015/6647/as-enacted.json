@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6647",
+  "year": 2015,
+  "title": "Türkiye Cumhuriyeti ve Avrupa Komisyonu Arasında Katılım Öncesi Yardım Aracı (IPA II) Çerçevesinde Birlik Tarafından Türkiye Cumhuriyetine Yapılacak Mali Yardımın Uygulanmasına İlişkin Düzenlemeler Hakkında Çerçeve Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-04-28",
+  "gazette_issue": "29340",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150428-11.htm",
+  "source_sha256": "c18e770b30d25b3838ddbe692d6c3468714ee70630d535369b0d7ea057cb0bb5",
+  "text_sha256": "04d1ad73d586e635d706f514ad10a950bcb41b84a489209dc2ae87e57bc06279",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/04/28/29340-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/04/20150428-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
