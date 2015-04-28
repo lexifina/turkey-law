@@ -1,0 +1,2 @@
+Müdür
+MADDE 7 – (1) Müdür, Üniversitenin konu ile ilgili öğretim üyeleri arasından üç yıl süreyle Rektör tarafından görevlendirilir. Müdür aynı zamanda Yönetim Kurulunun başkanıdır. Görev süresi dolan Müdür, yeniden görevlendirilebilir. Müdürün altı aydan fazla süreyle görevinin başında bulunmaması halinde görevi sona erer. Müdür, altı ayı geçmeyen ayrılmalarda müdür yardımcısını ya da bir Yönetim Kurulu üyesini vekil olarak görevlendirir ve Rektörlüğe bilgi verir.
