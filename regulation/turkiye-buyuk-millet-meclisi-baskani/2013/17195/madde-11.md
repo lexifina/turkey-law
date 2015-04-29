@@ -1,0 +1,3 @@
+Parlamento muhabiri araç giriş kartı
+MADDE 11 – (1) Parlamento muhabiri kartı taşıyanların beyan edeceği sadece bir araca, parlamento muhabiri kartı ve araç tescil belgesinin önlü arkalı fotokopisi ile birlikte başvurusu halinde parlamento muhabiri araç giriş kartı verilir.
+(2) Araç başkası adına kayıtlı ise başvuru sahibinden TBMM araç giriş kartı taahhütnamesi ve araç sahibinin nüfus cüzdanı fotokopisi alınır. Araç bir şirket adına kayıtlı ise basın ve yayın kuruluşu ile şirket arasında düzenlenen araç kiralama sözleşmesinin bir örneği istenir. Parlamento muhabiri araç giriş kartı alınacak aracı makam veya şirket sürücüsü kullanması halinde, sürücünün nüfus cüzdanı fotokopisi alınır.

@@ -1,0 +1,3 @@
+Geçici basın giriş kartı
+MADDE 9 – (1) Parlamento muhabiri kartı sahibi olmayan basın ve yayın mensuplarından, TBMM'de belli bir toplantıyı izlemek veya bir görüşme yapmak üzere gelenlere, basın kartı sahibi olmaları koşuluyla ve bu kart karşılığında Basın Bürosundan geçici basın kartı verilir.
+(2) Geçici basın kartı alanlar, Genel Kurul salonunda ve komisyon salonlarında basına ayrılan yerlerde oturur. Genel Kurul çalışmaları sürerken, TBMM kulislerine kesinlikle giremezler. Geçici basın kartlı basın ve yayın mensupları, çalışmalarını tamamlayınca geçici basın kartını geri vererek TBMM'den ayrılırlar.

@@ -1,0 +1,2 @@
+Geçici basın özel giriş kartı
+MADDE 10 – (1) Basın şeref kartı veya sürekli basın kartı taşıyanlar ile 4 üncü maddenin birinci fıkrasının (c) bendinde tanımlanan basın ve yayın kuruluşlarının sahibi, genel yayın yönetmeni, Ankara temsilcisi ve köşe yazarlarına, TBMM çalışmalarını izleyebilmeleri amacıyla, sahip oldukları basın kartlarıyla değiştirmek üzere Basın Bürosundan geçici basın özel kartı verilir. Geçici basın özel kartlı basın ve yayın mensupları, çalışmalarını tamamlayınca geçici basın özel kartını geri vererek TBMM'den ayrılırlar.
