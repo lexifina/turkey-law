@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "46",
+  "decision_date": "2015-04-30",
+  "source_id": 11121,
+  "chamber": "8",
+  "ilam_number": "233",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2013,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11121/",
+  "source_sha256": "de51708c63a4f63579dfe1f0f45ffe3c34e6b0f805958dacc34d2ab059616961",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
