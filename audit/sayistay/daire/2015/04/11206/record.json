@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "44",
+  "decision_date": "2015-04-30",
+  "source_id": 11206,
+  "chamber": "8",
+  "ilam_number": "235",
+  "item_number": 3,
+  "public_body_type": "Diğer",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11206/",
+  "source_sha256": "d12dec19bd426c104efaf7f00c297eac5ff59f2fe16854995e8a8f907ac1028f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
