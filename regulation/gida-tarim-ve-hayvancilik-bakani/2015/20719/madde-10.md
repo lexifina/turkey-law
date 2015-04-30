@@ -1,0 +1,6 @@
+Denetim ve idari yaptırımlar
+MADDE 10 – (1) Süs bitkisi üreticileri ile süs bitkileri ve çoğaltım materyallerinin bu Yönetmelik hükümlerine uygun olup olmadığının kontrolü, denetimi ve alınacak önlemlere ilişkin uygulamalar 5996 sayılı Kanun ile 5553 sayılı Kanun hükümleri çerçevesinde Genel Müdürlükçe belirlenen esaslara göre başvuru kuruluşu ve bitki sağlığı kontrol kuruluşu tarafından yürütülür.
+(2) Kontrol ve denetimlerle ilgili görev alan kontrolörlere süs bitkileri ve çoğaltım materyali üreticisi tarafından her türlü kolaylık sağlanır ve kontrolörün talep ettiği bilgi ve belgeler beyan edilir.
+(3) Kontrolör gerektiğinde süs bitkileri ve çoğaltım materyali üreticisinin tesislerinden numuneler alarak testler için en yakın bitki sağlığı kontrol kuruluşuna gönderir.
+(4) Kontrol ve denetimlerle ilgili görev alan kontrolör süs bitkisi üreticisi ile süs bitkileri ve çoğaltım materyallerini örnekleme metoduyla kontrol eder.
+(5) Bu Yönetmelik hükümlerine aykırı hareket edenler hakkında 5553 sayılı Kanun hükümleri çerçevesinde ve yapılan kontrol ve denetimlerde zararlı organizmalardan temiz olmadığı anlaşılan süs bitkileri ve çoğaltım materyallerine 5996 sayılı Kanunun 38 inci maddesine göre işlem yapılır.

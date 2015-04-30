@@ -1,0 +1,2 @@
+Ücretler
+MADDE 13 – (1) Bu Yönetmelik kapsamındaki belgeler ve kontrol hizmetleri ücrete tabidir. Ücretler, 31/1/2015 tarihli ve 29253 sayılı Resmî Gazete’de yayımlanan, Gıda, Tarım ve Hayvancılık Bakanlığı Döner Sermaye İşletmeleri Uygulama Yönetmeliği hükümlerine göre, hizmeti veren kuruluşun döner sermaye işletmesi hesabına peşin olarak yatırılır. Bu ücretler, Bakanlık tarafından yeniden değerleme oranında arttırılarak her yıl Ocak ayında belirlenir.
