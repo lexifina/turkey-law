@@ -1,0 +1,7 @@
+Birlik Katılım Paylarının Eksik Tahsil Edilmesi:
+
+...........Sulama Birliğinin ana statüsünün Orman ve Su İşleri Bakanlığı tarafından 13.04.2012 tarihinde onaylanarak DSİ.......... Bölge Müdürlüğü tarafından bu statünün Birliğe tebliğ edilmek üzere kaydının yapıldığı 15.05.2012 tarihine kadar, Birlik tarafından 704 üye kaydı yapıldığı ancak bunlardan 166 tanesinden arazinin her bir dekarı için belirlenen (da/0,50 TL) katılım payının tahsil edilmemesi sonucu oluştuğu iddia edilen ............. TL tutarındaki kamu zararı konusunda;
+
+............ Sulama Birliğinin ana statüsünün 7’nci maddesine göre su kullanma suretiyle yapılan üyelikler ile tapu kayıtları ile yapılan üyelikler olmak üzere iki tip üyelik kaydı olduğu, tapu kayıtları ile yapılan üyelerden katılım payının alındığı, su kullanımı suretiyle yapılan üyelerden ise katılım payının alınmadığı, raporda herhangi bir bedelin alınmadığı iddia edilen 166 üyenin 141 tanesinin su kullanma suretiyle yapılan üyelerden, 25 tanesinin ise tapu kaydı ile yapılan üyelerden olduğu üye kayıt defterlerinden anlaşıldığından ve 15.05.2012 tarihinden önce tapu kaydı ile üye olan söz konusu 25 üye tarafından katılım paylarının ...........TL olarak Birliğin Ziraat Bankasındaki hesabına yatırıldığı gönderilen dekontlardan anlaşılmış olduğundan,
+
+Denetim raporunda kamu zararı olarak gösterilen ...........TL’den ...........TL’sine ilişkin hesap ve işlemlerin yasal düzenlemelere uygunluğuna, arta kalan ...............TL ise tahsil edildiğinden ilişilecek husus kalmadığına, tahsilatın ilamda gösterilmesine, oybirliğiyle,
