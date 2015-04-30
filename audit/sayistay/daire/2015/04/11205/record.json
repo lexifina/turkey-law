@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "44",
+  "decision_date": "2015-04-30",
+  "source_id": 11205,
+  "chamber": "8",
+  "ilam_number": "235",
+  "item_number": 2,
+  "public_body_type": "Diğer",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11205/",
+  "source_sha256": "5b021113efd77b9f10516afed2099b357979b80077202c71c7e76812a398fc12",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
