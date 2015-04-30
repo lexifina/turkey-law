@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "45",
+  "decision_date": "2015-04-30",
+  "source_id": 11200,
+  "chamber": "8",
+  "ilam_number": "234",
+  "item_number": 1,
+  "public_body_type": "Diğer",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11200/",
+  "source_sha256": "ed852c8443c0c5c7c24958e832580d1f4acf89634471ccce81be1fb0f4b09451",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
