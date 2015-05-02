@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-05-02",
+  "issue": "29343",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Demiryolu Altyapı Erişim ve Kapasite Tahsis Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150502-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150502.htm",
+  "index_sha256": "ca44f0ebf3878be20e297108deb18475b1c6e4ba32f3532fa8d18c0c8deb8f5b",
+  "index_header": "2 Mayıs 2015 ... 29343 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150502.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
