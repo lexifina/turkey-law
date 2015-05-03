@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Başvurular, Değerlendirme ve Değerlendirme Nihai Kararı
+Başvuru şekli, yeri ve zamanı
+MADDE 14 – (1) Başvurular, bu Tebliğin 8 inci maddesinin birinci fıkrasında belirtilen bireysel sulama makine ve ekipman alımlarını gerçekleştirmek amacıyla, güncel Uygulama Rehberinde yer alan başvuru formu ve eklerine uygun olarak hazırlanır.
+(2) Başvurular, bu Tebliğin yayımı tarihinden başlayarak 60 gün içerisinde son başvuru tarihi mesai bitimine kadar il müdürlüğüne başvuru sahipleri tarafından dosya halinde tek nüsha olarak elden teslim edilerek yapılır. Ayrıca, güncel Uygulama Rehberinde formatı ve içeriği belirlenen dosya teslim alma/dosya iade belgesi iki nüsha olarak düzenlenir ve başvuru sahibi tarafından imzalanmış olarak dosya ile birlikte verilir. Başvuruların geçerli olabilmesi için, başvuruya ait bilgiler veri tabanına girilir ve veri tabanından başvuru numarası alınır. Başvuru son gününün tatil gününe denk gelmesi halinde, takip eden ilk iş günü mesai bitimine kadar başvuru yapılabilir. Başvuruya ilişkin işlemler güncel Uygulama Rehberinde belirtildiği şekilde yapılır.

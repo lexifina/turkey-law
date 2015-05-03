@@ -1,0 +1,3 @@
+Başvuruların idari yönden incelenmesi
+MADDE 16 – (1) Başvurunun idari yönden incelenmesi il proje yürütme birimi tarafından yapılır. Gerektiğinde bu birime konu ile ilgili ilave personel il müdürlüğünce görevlendirilebilir.
+(2) İl müdürlükleri öncelikli olarak başvuru evraklarını, başvuru sahibinin bu Tebliğin 10 uncu maddesinde belirtilen niteliklere sahip olup olmadığı yönünden inceler. Teslim alma belgesinde yer alan belgelerin “var” olması, bu belgelerin içeriklerinin uygun olduğu anlamına gelmez. Başvuru evraklarının içeriklerinin uygunluk kontrollerinde, uygunluk kriterlerini sağlamayan hususlar bir tutanağa bağlanarak başvuru reddedilir.

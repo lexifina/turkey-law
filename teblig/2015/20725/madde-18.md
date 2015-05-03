@@ -1,0 +1,4 @@
+Değerlendirme nihai kararı
+MADDE 18 – (1) Program kapsamında başvuruların yapıldığı her il için Genel Müdürlük tarafından tahsis edilen ödenek miktarı kadar başvuruya hibe desteği sağlanır, değerlendirme nihai kararı söz konusu ödenek esas alınarak verilir. İllere tahsis edilecek ödenek tutarı, iller bazında toplam başvuru sayısı ve talep edilen hibe miktarına göre bütçe imkânları çerçevesinde belirlenir.
+(2) Uygun görülen başvurulara ait hibe tutarının, illere tahsis edilmiş ödenek tutarından fazla olması durumunda; hibe desteği verilecek başvuru sayısı, güncel Uygulama Rehberinde formatı ve içeriği verilen Başvuru Değerlendirme Kriterleri Tablosu puanlama sonuçlarına göre il müdürlüğünce belirlenir ve bu değerlendirme il müdürlüğünün onayı ile kesinleşir.
+(3) İl müdürlüğünün bir başvuruyu reddetme ya da hibe vermeme kararı kesindir.
