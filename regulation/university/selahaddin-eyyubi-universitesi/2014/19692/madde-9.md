@@ -1,0 +1,5 @@
+Satın alma usulleri
+MADDE 9 – (1) Bu Yönetmelik hükümleri kapsamındaki alımlarda duruma göre aşağıdaki satın alma usullerinden herhangi biri uygulanabilir;
+a) Doğrudan temin usulü: Bu satın alma usulünde satın alma komisyonları, istekli veya isteklilerden alım veya kiralama şartlarını elektronik posta, faks, elden veya mektup yoluyla temin eder. Görüşmeler sonunda seçilen istekliden nihai teklif alınır ve alım sonuçlandırılır.
+b) Pazarlık usulü: Bu satın alma usulünde belirlenen işlerin niteliklerine, özelliklerine ve gereklerine göre belirlenen mal ve hizmet için istekli/isteklilerden elektronik posta, faks, elden veya mektup yoluyla teklif alınır. Aranan koşulları taşıyan isteklilerle alım, satım veya kiralama şartları ve bedel üzerinde pazarlık yapılır ve satın alma sonuçlandırılır.
+c) Açık teklif usulü: Bu Yönetmelik hükümlerine göre doğrudan temin veya pazarlık usulü ile yapılması mümkün olmayan veya bu usullerin uygulanmasının uygun görülmediği hallerde satın alma komisyonu tarafından uygulanan usuldür. Açık teklif usulünün uygulandığı hallerde ilgili birim tarafından idari şartname hazırlanır.

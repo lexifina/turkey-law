@@ -1,0 +1,4 @@
+İhaleye katılamayacak olanlar
+MADDE 8 – (1) Aşağıda sayılanlar doğrudan veya dolaylı ya da alt yüklenici olarak kendileri veya başkaları adına ihale işlemlerine katılamazlar:
+a) Daha önce kendisine iş verildiği halde, usulüne göre sözleşme yapmak istemeyenler ile sözleşme ve şartname hükümlerine uygun olarak yerine getirmediği tespit edilip, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 58 inci maddesi uyarınca kamu ihalelerine katılmaktan yasaklama getirilenler ve 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlardan ve organize suçlardan dolayı hükümlü bulunanlar,
+b) İlgili mevzuat hükümlerine göre geçici veya devamlı olarak, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununda belirtilen merkezi yönetim kapsamındaki kamu idareleri ve özel kanunlarla kurulmuş bankalar ile iktisadi devlet teşekküllerinin ihalelerine girmekten men edilmiş olanlar.

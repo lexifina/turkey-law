@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/selahaddin-eyyubi-universitesi/2014/19692",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-3/5/2015",
+  "first_law": null,
+  "gazette": "29007",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-05-03",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Selahaddin Eyyubi Üniversitesi",
+  "issuer_slug": "selahaddin-eyyubi-universitesi",
+  "kind": "regulation",
+  "published": "2014-05-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19692&MevzuatTertip=5",
+  "source_id": "8.5.19692",
+  "source_sha256": "4fdccc3eed51e16cd6838a490b4ec17cb5fb02b2834e0b7d75e52404db1d49d8",
+  "title": "SELAHADDİN EYYUBİ ÜNİVERSİTESİ SATIN ALMA VE İHALE YÖNETMELİĞİ",
+  "university_id": 448,
+  "version_label": "oldest version available",
+  "word_count": 1378
+}
