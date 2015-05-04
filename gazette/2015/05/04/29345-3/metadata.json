@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-05-04",
+  "issue": "29345",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İpek Üniversitesi Lisansüstü Eğitim Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150504-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150504.htm",
+  "index_sha256": "fec715e29520dea164bf62b3b46663dec04ac1b5b786586c75573820dbd5a1c9",
+  "index_header": "4 Mayıs 2015 ... 29345 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150504.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
