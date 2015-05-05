@@ -1,0 +1,3 @@
+1505 sayılı ek ilam ile verilen tazmin hükmü, aynı tazmin hükmünde harcama yetkilisi sıfatıyla iştiraki bulunan ….’nın başvurusu üzerine düzenlenen 05.05.2015 tarih ve 40472 tutanak sayılı Temyiz Kurulu Kararı ile bozulmuş bulunduğundan, dilekçinin işbu madde ile ilgili itirazı üzerine Kurulumuzca yapılacak işlem olmadığına ancak aynı mahiyette olan bu dosyanın da sözü edilen 39446 numaralı dosya ile birleştirilerek gereği yapılmak üzere kararı veren daireye TEVDİİNE karar verilmiştir.
+
+(BU KARAR SONUCUNUN İNTERNET SİTESİNDE YAYIMLANMASI, BİLGİLENDİRME AMACINI TAŞIMAKTA OLUP TEBLİĞ YERİNE GEÇMEMEKTEDİR.)
