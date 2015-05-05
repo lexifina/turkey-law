@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-05-05",
+  "issue": "29346",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Afyon Kocatepe Üniversitesi Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150505-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150505.htm",
+  "index_sha256": "8da2c2a0e12a32f68efceab9c9285b614e6424edf873412a89c5a6ffbe335f71",
+  "index_header": "5 Mayıs 2015 ... 29346 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150505.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
