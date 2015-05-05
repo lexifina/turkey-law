@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40500",
+  "decision_date": "2015-05-05",
+  "source_id": 10078,
+  "chamber": "5",
+  "file_number": "38974",
+  "account_year": "2012",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10078/",
+  "source_sha256": "a925ae8007c83465c58f5cb76a309b78f337ac5e21c04c04138f30a8325617f2",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
