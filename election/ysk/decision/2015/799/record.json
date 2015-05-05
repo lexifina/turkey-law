@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/799",
+  "list_number": "799",
+  "decision_date": "2015-05-05",
+  "title": "Yüksek Seçim Kurulunun Cumhurbaşkanının faaliyetlerini denetleme yetkisi olmadığına ilişkin 2015/799 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2128/2015-799.pdf",
+  "source_sha256": "9445cf3e16e041ebf6b3571a7872b43de4b73cf8c7c7ea48104e6e4704a55890",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-05-05",
+  "law_text_complete": false
+}
