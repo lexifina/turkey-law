@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2015-05-05",
+      "05.05.2015",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29346",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-05-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Bezm-i Alem Vakıf Üniversitesi",
+  "issuer_slug": "bezm-i-alem-vakif-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bezm-i-alem-vakif-universitesi/2015/20733",
+  "published": "2015-05-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20733&MevzuatTertip=5",
+  "source_bytes": 27544,
+  "source_id": "8.5.20733",
+  "source_sha256": "5361801f977d57bd4db5e3e03339709b04c018c1561699576c9cd514c69def07",
+  "text_status": "as-enacted",
+  "title": "BEZM-İ ALEM VAKIF ÜNİVERSİTESİ DENEYSEL UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 358,
+  "word_count": 1153
+}
