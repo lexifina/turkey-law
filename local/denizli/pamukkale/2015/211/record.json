@@ -1,0 +1,24 @@
+{
+  "number": "211",
+  "number_as_published": "2015/211",
+  "year": 2015,
+  "title": "Pamukkale Ilçesi, Kervansaray Mahallesi, 118 ve 119 nolu imar adalari ve çevresinde imar hatlarinin düzenlenmesi ile ilgili hazirlanan ekli 1/1000 ölçekli uygulama imar plani degisikligi, plan açiklama raporu ve plan hükümlerinin uygun görüldügüne dair Imar Komisyonunca hazirlanan raporun kabulü hk.",
+  "decision_date": "2015-05-06",
+  "source": "https://www.pamukkale.bel.tr/y-198-2015-mayis-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "821b11e2c51513040e1b215004c94c5cbc1f4f94104d970cb5926a8f3d105a27",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2015-05-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.05.2015; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.pamukkale.bel.tr/y-198-2015-mayis-ayi-meclis-karar-ozetleri",
+  "listing_label": "2015 MAYIS AYI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one council decision (published decision summary)"
+}
