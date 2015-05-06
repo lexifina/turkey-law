@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2015/DK-YED/226",
+  "date": "2015-05-06",
+  "title": "Türkiye Belediyeler Birliği'nin Kısa Numara Tahsis Talebi",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2015-05-06",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=108",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/8edf848a-6d98-424f-9bec-9e4ea37b43bc.pdf",
+  "source_sha256": "9491b832bf463b86b63c054775e98bc6c255aceaec19ae7838e7b9167780dfc9",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2015-05-06",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 06.05.2015; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
