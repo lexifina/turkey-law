@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/821",
+  "list_number": "821",
+  "decision_date": "2015-05-06",
+  "title": "Yüksek Seçim Kurulunun Cumhurbaşkanının faaliyetlerini denetleme yetkisi olmadığına ilişkin 2015/821 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2126/2015-821.pdf",
+  "source_sha256": "564c9d721a75a398e557d03ee44f834043f95befc56f17d24ef2c89281477651",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-05-06",
+  "law_text_complete": false
+}
