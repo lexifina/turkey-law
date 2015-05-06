@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20739",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4572 SAYILI TARIM SATIŞ KOOPERATİF VE BİRLİKLERİ HAKKINDA KANUNUN GEÇİCİ 5 İNCİ MADDESİNİN UYGULANMASINA İLİŞKİN USUL VE ESASLARIN BELİRLENMESİNE DAİR TEBLİĞ",
+  "number": "20739",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2015/20739",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20739&MevzuatTertip=5",
+  "source_sha256": "96a1a3c64808ef3d493aa731894f5a33f0d47700a3bb8005a979bb409e9efb92",
+  "source_bytes": 14918,
+  "published": "2015-05-06",
+  "gazette": "29347",
+  "in_force": "2015-05-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.05.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 509,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
