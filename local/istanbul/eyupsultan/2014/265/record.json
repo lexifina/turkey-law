@@ -1,0 +1,22 @@
+{
+  "number": "265",
+  "number_as_published": "2014/265",
+  "year": 2014,
+  "title": "2014/265",
+  "decision_date": "2015-05-07",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2015-mayis-ayi-meclis-kararlari/377",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2014-265/381",
+  "source_sha256": "79bbf774a7e8e826ba773d5eff37c91ce7f9a4ea55dd491147bf070b24fe500c",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-05-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.05.2015 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "c6e994b7e8d3a6f01723e617c1cf0899ac13993a109c1a88fdf9465f7644f15f"
+}
