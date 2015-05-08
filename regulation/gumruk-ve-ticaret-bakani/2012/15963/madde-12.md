@@ -1,0 +1,2 @@
+Sınav sonucunun duyurulması
+MADDE 12 – (1) Sınavda başarılı olan adayların ad, soyad, atanacağı unvan ve aday numaralarının yer aldığı asil ve yedek listeleri (Danıştay Onikinci Dairesinin 23/12/2020 tarihli ve E.:2018/9058; K.:2020/4621 sayılı kararı ile iptal ibare; sözlü) sınavın bitimi tarihinden itibaren en geç on beş iş günü içerisinde Bakanlık kurumsal internet sitesinde ilân edilir; ayrıca tebligat yapılmaz.

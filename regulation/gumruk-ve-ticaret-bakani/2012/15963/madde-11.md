@@ -1,0 +1,5 @@
+Başarı sıralamasının tespit edilmesi
+MADDE 11 – (1) Adayların başarılı olabilmesi için (Danıştay Onikinci Dairesinin 23/12/2020 tarihli ve E.:2018/9058; K.:2020/4621 sayılı kararı ile iptal ibare; sözlü) sınav puanının en az yetmiş olması şarttır.
+(2) Başarı puanı, adayların KPSS puanı ve sözlü puanının aritmetik ortalamasıdır.
+(3) Yapılan sınav sonucunda sınav komisyonu, başarı puanı en yüksek adaydan başlamak suretiyle başarı puanı sırası esas alınarak atama yapılacak kadro ve pozisyon sayısını geçmeyecek kadar asil aday belirler. (Değişik ikinci cümle:RG-6/8/2013-28730) Asil aday sayısının yüzde yirmisini geçmeyecek kadar da yedek aday belirleyebilir. Yedek listede yer alan adayların hakları, bir sonraki sınav ilan tarihine kadar geçerlidir.
+(4) Asil ve yedek liste sıralaması yapılırken adayların başarı puanının eşit olması halinde; KPSS puanı yüksek olana, bunun eşit olması halinde aynı puanı alan adaylar arasından diploma tarihi itibariyle önce mezun olmuş olana, bunun aynı olması halinde de yaşı büyük olan adaya öncelik verilir.
