@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10462",
+  "decision_date": "2015-05-08",
+  "source_id": 12711,
+  "chamber": "1",
+  "ilam_number": "220",
+  "item_number": 3,
+  "public_body_type": "Diğer",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12711/",
+  "source_sha256": "c78d7e5a611e186d9d64d8996aba655c96b5f6829d81ef034eb72ff5f3e8f69d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
