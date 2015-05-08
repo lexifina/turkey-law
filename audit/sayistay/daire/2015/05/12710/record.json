@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10462",
+  "decision_date": "2015-05-08",
+  "source_id": 12710,
+  "chamber": "1",
+  "ilam_number": "220",
+  "item_number": 2,
+  "public_body_type": "Diğer",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12710/",
+  "source_sha256": "635f3fc545c77248a1540610cec6a32450cc6ceac4b418efcf6a10c07f009fcf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
