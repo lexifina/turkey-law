@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10461",
+  "decision_date": "2015-05-08",
+  "source_id": 11398,
+  "chamber": "1",
+  "ilam_number": "221",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11398/",
+  "source_sha256": "3a11c776b35caac5c8f76fc9124de693d11c26dee7c51e483d6305c8b544ffed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
