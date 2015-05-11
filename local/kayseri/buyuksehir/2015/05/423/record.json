@@ -1,0 +1,23 @@
+{
+  "number": "423",
+  "number_as_published": "423",
+  "year": 2015,
+  "title": "Develi Belediyesinin, 183 ada, 3 parsel numaralı taşınmazın bulunduğu alanda 1/5000 ölçekli ilave nazım imar planı yapılması talebi.",
+  "decision_date": "2015-05-11",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/11-mayis-2015-tarihli-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "6ac68e6958c45c93280ba38909dd161eccf36e57ada03fd2c0fbb69c0127d02c",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2015-05-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.05.2015; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "11 Mayıs 2015 Tarihli Meclis Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=11"
+}
