@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.9577",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ İNŞAAT MÜHENDİSLERİ ODASI SERBEST İNŞAAT MÜHENDİSLİĞİ HİZMETLERİ UYGULAMA, TESCİL, DENETİM VE BELGELENDİRME YÖNETMELİĞİ",
+  "number": "9577",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği İnşaat Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-insaat-muhendisleri-odasi-yonetim-kurulu",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-insaat-muhendisleri-odasi-yonetim-kurulu/2005/9577",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9577&MevzuatTertip=5",
+  "source_sha256": "10461e915163a412f7bdaa22f41459726bc61cb6f9bfb5b7ebaf3730aeb66045",
+  "source_bytes": 63970,
+  "published": "2005-10-30",
+  "gazette": "25981",
+  "in_force": "2015-05-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/5/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-05-11",
+      "RG-11/5/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-08-27",
+      "RG-27/8/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-07-26",
+      "RG-26/7/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-09-08",
+      "RG-8/9/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2006 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2635,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

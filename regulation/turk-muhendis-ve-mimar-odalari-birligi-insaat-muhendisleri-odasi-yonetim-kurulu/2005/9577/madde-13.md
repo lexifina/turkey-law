@@ -1,0 +1,2 @@
+İtiraz
+Madde 13 — SİM veya SYD belgesi almaya hak kazanamayanlar ya da belgesi yenilenmeyenler, Oda Yönetim Kuruluna itiraz edebilir. Oda Yönetim Kurulu, Mesleki Değerlendirme Kurulunun görüşünü de alarak itirazı bir ay içerisinde sonuçlandırır. Yönetim Kurulunun vereceği karar kesindir. Belgesi verilmeyen ya da yenilenmeyenlerin, gerekçesinde belirtilen eksiklikleri gidermedikçe yeni başvuruları kabul edilmez.

@@ -1,0 +1,12 @@
+Yaptırımlar, soruşturma ve yaptırımların uygulanması
+MADDE 22 – (Başlığı ile birlikte değişik:RG-8/9/2007–26637)
+Bu Yönetmelik kapsamında SİM, SYD ve İTB sahibi işyerleri için;
+a) SİM ve SYD’lerin, bu Yönetmelik hükümlerine uymadıklarının belirlenmesi hâlinde haklarında 10/7/2002 tarihli ve 24811 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Disiplin Yönetmeliği gereğince işlem yapılır.
+b) İTB sahibi işyerlerinin bu Yönetmelik kapsamına giren hizmetleri yürütürken bu Yönetmelik hükümlerine uymadıklarının belirlenmesi hâlinde;
+1) Şikâyet üzerine veya denetimler sırasında belirlenen eksiklik ve/veya aykırılığın giderilmesi için şube yönetim kurulunca onbeş günden az olmamak üzere süre verilerek yazılı ihtarda bulunulur.
+2) Verilen süre içinde eksiklik ve/veya aykırılık giderilmez ise ilgili dosya Oda Yönetim Kuruluna gönderilir. Oda Yönetim Kurulu soruşturma başlatarak konunun uzmanı bir üyeyi soruşturmacı olarak belirler. Soruşturmacı tarafından İTB sahibi işyerine onbeş gün süre verilerek savunması istenir.
+3) İTB sahibi işyerine tanınan onbeş günlük sürenin bitimi tarihini takiben, soruşturmacı onbeş gün içinde raporunu hazırlayarak Oda Yönetim Kuruluna verir. Raporun verilişini izleyen ilk iki olağan yönetim kurulu toplantısında o dosyayla ilgili karar verilir.
+4) Oda Yönetim Kurulu, soruşturmacı raporu doğrultusunda veya onbeş gün içinde savunma gönderilmemesi hâlinde dosyayı inceleyerek, Yönetmelik hükümlerinin ihlal edilmiş olduğuna karar verirse; nedeni oluşturan olayın içeriği ve sonuçlarına göre onbeş günden iki yıla kadar İTB’nin süreli iptaline karar verir.
+5) Tescile esas bilgi ve belgelerin Odaya verilmesinde, gerçeğe aykırı beyanda bulunulması ve/veya belgeler üzerinde tahrifatta bulunulması, tescile esas şartlarda meydana gelen değişikliklerin Odaya bildirilmemesi durumunda Oda Yönetim Kurulu tarafından İTB’nin süresiz iptaline karar verilir. Ayrıca, suç unsuru varsa Cumhuriyet Savcılığına suç duyurusunda da bulunulur.
+6) Haklarında süreli yaptırım kararı verilen İTB sahibi işyerlerinin bu yaptırım kararına uymamaları veya aynı yaptırım ve/veya yaptırımları gerektiren Yönetmelik hükümlerini ikinci kez ihlal etmeleri durumunda Oda Yönetim Kurulu tarafından İTB’nin süresiz iptaline karar verilebilir.
+7) Oda, haklarında yaptırım uygulanan SİM, SYD ve İTB sahibi işyerini ve yaptırım türünü ilgili kurum ve kuruluşlara bildirir ve Oda yayın organları aracılığıyla kamuoyuna duyurur.

@@ -1,0 +1,1 @@
+Geçici Madde 4 — Bu Yönetmeliğin yürürlüğe girdiği tarih ile 1/1/2008 tarihleri arasında, bu Yönetmeliğin 8 inci maddesinin birinci fıkrasının (c) bendinde belirtilen süre bir (1) yıl olarak uygulanır.

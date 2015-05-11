@@ -1,0 +1,1 @@
+Geçici Madde 2 — Mevcut Büro Tescil Belgesi sahipleri, bu Yönetmeliğin ilgili maddelerine uygun olarak 31/3/2006 tarihine kadar mevcut belgeleri yerine Serbest İnşaat Mühendisliği İş Yeri Tescil Belgesi (İTB) ni almak zorundadır.

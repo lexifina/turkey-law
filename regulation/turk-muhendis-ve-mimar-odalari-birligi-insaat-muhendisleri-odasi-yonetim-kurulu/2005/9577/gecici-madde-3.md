@@ -1,0 +1,1 @@
+Geçici Madde 3 — Bu Yönetmeliğin yürürlüğe girdiği tarih ile 1/1/2008 tarihleri arasında, ilk defa SİM veya SYD belgesi almak üzere başvuran inşaat mühendislerinden, bu Yönetmeliğin 8 inci maddesinin ikinci fıkrasının (g) bendinde ve 9 uncu maddesinin ikinci fıkrasının (g) bendinde belirtilen belgeler istenmez.
