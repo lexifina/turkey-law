@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "494",
+  "decision_date": "2015-05-11",
+  "title": "MEC_KAR_ (ERDEMLİ, AYAŞ, 819 PARSEL)",
+  "listed_as": "494 MEC_KAR_ (ERDEMLİ, AYAŞ, 819 PARSEL)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/494-mec-kar--erdemli-ayas-819-parsel",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk90-11-mayis-2015-meclis-kararlari",
+  "listing_sha256": "874441b3b631db5bf2ce260754f8a4903913d6dc1113196f27e469eee0b8eed1",
+  "meeting_title": "MK90-11 MAYIS 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
