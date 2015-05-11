@@ -1,0 +1,20 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Enerji teknolojileri alanlarında ve yenilenebilir enerji kaynaklarının kullanımı ile ilgili sorunları tespit etmek, incelemek, araştırmalar yapmak, yapılan araştırmaları teşvik etmek, desteklemek, bu konularda konferanslar, seminerler ve sempozyumlar düzenlemek, ilgili kuruluşlara önerilerde bulunmak,
+b) Enerji teknolojileri ile yenilenebilir enerji kaynakları kullanım alanlarında ilgili çalışmalara ve aynı zamanda ilgili kurum ve kuruluşlar arasındaki koordinasyona yardımcı olmak ve karşılıklı bilgi ve tecrübe aktarımını sağlamak, ilgili kurum ve kuruluşlara önerilerde bulunmak, danışmanlık/bilirkişilik yapmak, projeler sunmak ve yapmak,
+c) Enerji teknolojileri ve yenilenebilir enerji kaynakları alanlarında eğitim ile ilgili programlar yapmak, eğitim, yönetim ve araçlarının geliştirilmesi için çalışmalar yapmak,
+ç) Enerji teknolojileri ve yenilenebilir enerji kaynakları konuları ile ilgili eğitim ve sertifikasyon faaliyetlerini yürütmek, bu eğitim programları sonunda sertifika vermek, bu bağlamda bina enerji yöneticisi sertifikasyon programı gibi programları yürütmek, bu konuda çalışan sivil toplum kuruluşlarıyla işbirliği yapmak ve gerekli koordinasyonu sağlamak,
+d) Yurt içindeki ve yurt dışındaki üniversitelerle proje konularında işbirliği yapmak, ulusal ve uluslararası öğrenci/öğretim üyesi değişimi imkânları oluşturmak,
+e) Kamu kurum ve kuruluşları ile özel sektöre çevre ve enerji teknolojileri, enerjinin etkin/verimli kullanımı ve yenilenebilir enerji kaynakları kullanımı konularında araştırma, danışmanlık, proje, tasarım, üretim, onarım, bakım ve benzeri hizmetler sunmak,
+f) Yapılan çalışma ve araştırma sonuçlarını yurt dışında ve yurt içinde bilim ve teknoloji dergilerinde yayınlamak, süreli ve süresiz yayınlar çıkarmak,
+g) Enerji kullanımından kaynaklanan çevre kirliliğinin azaltılması için enerji ve çevre ilişkileri konusunda ve küresel iklim değişimine azaltıcı etki yapan yenilenebilir enerji kaynaklarıyla ilgili araştırmalar yapmak, ulusal ve uluslararası düzeyde farkındalık yaratmak,
+ğ) Yenilenebilir enerji konusundaki mevcut teknolojilerin ülkemize kazandırılması için çalışmalar yapmak,
+h) Biyoenerji üretiminde; enerji ormanlarının tesisi ve bakımı ile orman ve tarım işletmeciliği ürün ve artıklarından; ısı, elektrik, pelet, biyoyakıt, biyoyağ, biyogaz, biyoetanol, biyometanol, odun kömürü gibi yeşil enerji üretimlerinin ve uygun atıklardan enerji üretim imkânlarının gerçekleştirilebilmesi konularında araştırma yapmak, kamu ve özel sektöre uygulama aşamalarında destek olmak,
+ı) Türkiye’de sürdürülebilir kalkınmanın öncelikle yerli ve temiz enerji kaynakları ile sağlanabilmesi için projeler yürütmek,
+i) Merkez ile teknopark ve sanayi işbirliği çerçevesinde yenilenebilir enerji kaynakları ile ilgili sistem ve bileşenleri üretmek, performans testlerini gerçekleştirmek ve sertifikalandırmak,
+j) Yenilenebilir enerji kaynaklarının yerel ve küresel bazdaki öneminin toplum ve karar vericiler tarafından yeterince algılanabilmesi için; bölgesel, ulusal ve uluslararası düzeyde kurs, seminer, konferans, kongre, sempozyum ve benzeri toplantılar ile televizyon programları düzenlemek,
+k) Kamu ve özel kuruluşların ülkemiz yenilenebilir enerji kaynaklarının potansiyelleri, kullanılabilirlikleri, verimlilikleri gibi konularda gereksinim duyduğu araştırmaları ve uygulamaları; planlamak, gerçekleştirmek ve kurumlar arası koordinasyonu sağlamak,
+l) Üniversitede yenilenebilir enerji konusunda yapılan araştırmaları desteklemek ve kamuoyunu yenilenebilir enerji konusunda bilinçlendirmek, aydınlatmak ve bilgilendirmek,
+m) Merkez ile diğer merkezler, enstitüler ve üniversiteler arası işbirliğini sağlamak, ortak çalışmalar yapmak, bilimsel ve teknik bilgi ve hizmet alışverişinde bulunmak,
+n) Kırklareli İli ve çevresindeki yenilenebilir enerji kaynaklarının araştırılması ve bu kaynaklardan yararlanılması konusunda yapılacak çalışmaların koordinasyonunu sağlamak,
+o) Enerji uygulamaları konusunda, ilgili bakanlık ve kamu kurum ve kuruluşlarıyla işbirliği yapmak.
