@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40503",
+  "decision_date": "2015-05-12",
+  "source_id": 10098,
+  "chamber": "2",
+  "file_number": "37786",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10098/",
+  "source_sha256": "d38c440254f6a7dd983f3347b349d3ab7ca4d23ec3d12f826d3df212191329b9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
