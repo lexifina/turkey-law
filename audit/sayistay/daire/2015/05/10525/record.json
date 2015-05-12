@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "237",
+  "decision_date": "2015-05-12",
+  "source_id": 10525,
+  "chamber": "6",
+  "ilam_number": "254",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10525/",
+  "source_sha256": "11f5492b6b7dc87ef56cedc84d9b73a100a5f160a3dc6145c8a9eedad8c62ace",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
