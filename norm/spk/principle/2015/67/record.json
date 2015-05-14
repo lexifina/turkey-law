@@ -1,0 +1,78 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "67",
+  "decision_number": "12/588",
+  "date": "2015-05-14",
+  "title": "Kurul’un 14.05.2015 Tarih ve 12/588 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/67",
+  "source_sha256": "c60febf346e61c317fc92d9e0684d8ff2994744f5c157e56ee0d229375833108",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 67,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurul’un 14.05.2015 tarih ve 12/588 sayılı Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2015-05-14",
+    "source_clauses": [
+      "Kurul’un 14.05.2015 tarih ve 12/588 sayılı Kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "fd2e8185-cce6-44c7-a73c-d0f78f5b67b6",
+    "contentSource": "IlkeKarari",
+    "contentID": 67,
+    "tur": "Kurul Kararı",
+    "title": "Kurul’un 14.05.2015 Tarih ve 12/588 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2015-05-14T00:00:00",
+    "kurulKararTarih": "14.05.2015",
+    "kurulToplantiNo": "12/588",
+    "bultenYili": 2015,
+    "bultenNo": 12,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "167:Yatırım Fonlarına İlişkin Esaslar Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 167,
+        "value": "Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "8:Kolektif Yatırım Kuruluşları;36:Yatırım Fonları;68:Fon Unvanı",
+    "ilgiliKonular": [
+      {
+        "key": 8,
+        "value": "Kolektif Yatırım Kuruluşları"
+      },
+      {
+        "key": 36,
+        "value": "Yatırım Fonları"
+      },
+      {
+        "key": 68,
+        "value": "Fon Unvanı"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/67",
+    "linkTarget": "_blank"
+  }
+}

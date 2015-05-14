@@ -1,0 +1,2 @@
+year,number,published,title,source,source_sha256,representation,act_path,words,omitted_sections,note
+2015,67,2015-05-14,Kurul’un 14.05.2015 Tarih ve 12/588 Sayılı Kararı,https://mevzuat.spk.gov.tr/api/IlkeKarari/File/67,c60febf346e61c317fc92d9e0684d8ff2994744f5c157e56ee0d229375833108,regulatory-text,norm/spk/principle/2015/67,118,,whole official standalone text; decision date independently present in PDF
