@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20751",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET SU İŞLERİ GENEL MÜDÜRLÜĞÜNCE 6183 SAYILI AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUNA GÖRE KULLANILACAK YETKİLERE İLİŞKİN YÖNETMELİK",
+  "number": "20751",
+  "issuer": "Devlet Su İşleri Genel Müdürü",
+  "issuer_slug": "devlet-su-isleri-genel-muduru",
+  "path": "regulation/devlet-su-isleri-genel-muduru/2015/20751",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20751&MevzuatTertip=5",
+  "source_sha256": "6c7d003479a36a390ec79370f0b1525f1d7ccbacc6b442097b3a040111d3050e",
+  "source_bytes": 40316,
+  "published": "2015-05-14",
+  "gazette": "29355",
+  "in_force": "2015-05-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.05.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2270,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
