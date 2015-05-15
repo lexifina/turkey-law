@@ -1,0 +1,2 @@
+Danışma kurulu ve görevleri
+MADDE 13 – (1) Danışma Kurulu; Yönetim Kurulu tarafından önerilen ve Rektörlük tarafından uygun görülen, Üniversite fakültelerinin bölüm temsilcileri, konu ile ilgili kamu ve özel sektör kuruluşlarının temsilcileri ve/veya konu ile ilgili uzman kişilerden oluşur. Danışma Kurulu Müdürün çağrısı üzerine yılda en az iki kez toplanır. Merkezin çalışmaları konusunda ve yeni çalışma alanları üzerine görüş ve önerilerini bildirir.
