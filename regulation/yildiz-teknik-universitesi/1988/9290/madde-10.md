@@ -1,0 +1,1 @@
+Madde 10-Merkez Yönetim Kurulu, Müdürün çağrısı ile ve belli gündemle toplanır. Toplantı yeter sayısının sağlanabilmesi için Müdürün, bulunmadığı durumda Müdür Yardımcısının, dışın da üç kişinin daha hazır bulunması gerekir. Kararlar oyçokluğu ile alınır. Oyların eşitliği halinde Müdürün, bulunmadığı takdirde Yardımcısının oy verdiği taraf çoğunluğu sağlamış olur.
