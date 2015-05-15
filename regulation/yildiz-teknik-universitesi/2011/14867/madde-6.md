@@ -1,0 +1,23 @@
+Faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Sektördeki kuruluşların ilgili sorunlarına yönelik araştırmalar, tasarımlar ve incelemelerle birlikte, pilot uygulama ve endüstriyel ölçekte deneyler yapmak, uygulama ve araştırma ve eğitim birimleri laboratuarları kurmak ve işletmek; Üniversitenin ve Üniversiteye bağlı mühendislik birimlerinin mevcut altyapısından yararlanarak, yeterli sayıda ve nitelikte personel istihdam etmek,
+b) Merkezde kurulacak test ve sertifikalandırma laboratuvarları ile hizmet vermek; bu amaçla dünyadaki benzer kurumları inceleyerek en modern sistemlerin kurulmasını sağlamak,
+c) Enerji sahasında halkı bilinçlendirecek ve eğitecek geniş kapsamlı ve enerji konusunda yetkin bir web sitesini kurmak ve siteyi devamlı olarak güncellemek; teknolojik imkanlardan yararlanarak, ilgili konularda ulusal ve uluslararası işbirliği çerçevesinde yazışmalarda bulunmak ve eserler yayınlamak; Türkiye ve yabancı ülkelerde yayımlanmakta olan rapor, bülten, kitap, dergi, broşür, tebliğ ve benzeri her türlü belge ve eserleri toplayarak arşiv kitaplık ve bilgi merkezi oluşturmak,
+ç) Eğitim ve bilgilendirme faaliyetleri yürütmek ve bu amaçla gerektiğinde ulusal veya uluslararası bilimsel ve teknolojik işbirliği de yaparak, hizmet içi eğitim programları, kurslar, seminerler, konferanslar, kongreler, sempozyumlar, paneller, sergiler, fuarlar ve benzeri toplantılar düzenlemek ve başka kuruluşlarca düzenlenenlere katılmak; resim, fotoğraf, şiir, şarkı, kompozisyon, karikatür, senaryo, afiş gibi etkinlikler ve yarışmalar düzenlemek ve ödül vermek,
+d) Halkı bilgilendirmek için medya kuruluşları ile işbirliği yapmak; broşürler, kitaplar, videolar, basın bildirileri hazırlamak,
+e) Sürekli eğitim faaliyetleri yürütmek, sertifika verilmesine yönelik faaliyetlerde bulunmak ve bu amaç doğrultusunda ilgili kuruluşlarla işbirliği yapmak,
+f) Türkiye için katma değer sağlıyacak çalışmalara öncelik vermek,
+g) Enerji teknolojilerinin değerlendirilmesi ve geliştirilmesi çalışmalarını yürütmek, enerji teknolojilerinin dünyadaki gelişimini izlemek ve Türkiye’ye adapte edilmesinde öncülük etmek,
+ğ) Enerji üretiminde ve tüketiminde verimliliğin arttırılmasını sağlamak,
+h) Enerji sektörünün atık enerjilerinin geri kazanılması ve çevreye uygun hale getirilmesi konularında çalışmalar yapmak ve bu tür projeleri hayata geçirmek,
+ı) Enerji politikaları geliştirmek ve ilgili kuruluşlarla paylaşmak,
+i) Konu ile ilgili olarak yurt içinde ve yurt dışında projeler hazırlayarak kamu kurum ve kuruluşları ya da özel sektör kuruluşları ile ortak çalışmalar yürütmek, destek sağlamak,
+j) Enerji kaynakları konusunda ihtiyaç duyulan laboratuar, test, analiz, muayene ve sertifikasyon hizmetleri için Merkez laboratuvarları oluşturmak,
+k) Üniversite öğrencilerinin enerji sektöründe çalışabilecek bilgi ve gerekli becerilerle donanımını sağlamak,
+l) Enerji yöneticisi sertifika programları açmak ve yürütmek, bu amaçla diğer kurumlarla işbirliği yapmak,
+m) Kamu ve özel sektör kuruluşları ile uluslararası kuruluşlara ve kişilere danışmanlık hizmetleri vermek,
+n) Pilot tesisler kurmak ve sıfır net enerji binaları gibi halkın ziyaretine açık örnek uygulamaları hayata geçirmek,
+o) Her türlü ulusal ve uluslararası kamu ve özel teşebbüs kesimlerinin ihtiyaç duydukları alanlarda karşılaştıkları sorunların belirlenmesine ve çözümüne yönelik çalışmalar yapmak; Merkezin çalışma sonuçları hakkında bilimsel görüş bildirmek, rapor vermek, proje ve benzeri bilimsel ve teknik araştırmalar, yayınlar ve eserler hazırlamak ve gerçekleştirilmesini sağlamak; danışmanlık, uzmanlık, bilirkişilik ve benzeri işlevleri yapmak; bu hususlarla ilgili belge ve sertifikalar düzenlemek ve vermek,
+ö) Ürün, yöntem ve teknolojilerin standartlaştırılması ve kalite kontrolleri ile ilgili çalışmalar yapmak; bu konularda gerekli düzenleyici işlemlerin yapılmasına katkıda bulunmak,
+p) Merkezin çalışmaları sonucu geliştirilen ürün ve teknolojiler için patent almak,
+r) Benzer amaçlı ulusal ve uluslararası merkezlerle işbirliği yapmak ve bu merkezlerle bir program çerçevesinde eleman değişimlerini gerçekleştirmek.
