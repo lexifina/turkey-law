@@ -1,0 +1,4 @@
+Eğitim sonucunda yapılacak sınav ve başarı koşulu
+MADDE 23 – (1) (Değişik:RG-16/5/2015-29357) (1) Eğitim tamamlandıktan sonra yapılacak sınav, Birlik tarafından yapılabileceği gibi bu konuda yetkin diğer merkezi kurum ve kuruluşlara da yaptırılabilir. Sınava ilişkin başarı koşulları, sınavdan 100 puan üzerinden asgari 50 puan almak, sınavın alan esaslı yapılması durumunda ise her bir alan için sınavdan 100 puan üzerinden asgari 50 puan almak kaydıyla Birlik tarafından belirlenir ve sınava ilişkin ayrıntılı bilgilendirme Birliğin internet sitesinde duyurulur.
+(2) Sınav sonucunda başarılı olanlar Birliğin internet sitesinde duyurulur. Her bir kamu iktisadi teşebbüsüne ise kendi personeline ilişkin sınav sonuçları ayrıca iletilir.
+(3) Eğitim programına mazeretsiz beş günden fazla süreyle katılmayanlar sınava kabul edilmez.
