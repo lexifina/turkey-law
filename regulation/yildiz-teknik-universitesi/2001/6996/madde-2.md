@@ -1,0 +1,5 @@
+Amaç
+Madde 2 — a) Üniversitelerin ilgili bilim dallarında çalışan öğretim elemanlarının sahip olduğu bilgi ve deneyimleriyle ülkemizin ulaşım sorunlarının çözülmesine etkili bir şekilde katkıda bulunmaları,
+b) Ulaşım projelerinin uygulamacısı durumundaki merkezi ve yerel yönetim otoritelerinin büyük projelerini hayata geçirmeden önce, projelerin önceliği ve verimliliğini tartışabilecekleri ulaşım konusunda uzman bilimsel bir kuruma sahip olunması,
+c) Endüstriyel kuruluşların araştırma ve geliştirmeye teşvik edilerek, Uygar Merkez bünyesinde yer alan geniş laboratuar olanakları sayesinde işbirliği ve ortak çalışmalar yapılması,
+d) Ulaştırmanın geliştirilebilmesi için temel bilim dallarının yanı sıra inşaat, jeodezi ve fotogrametri, geoteknik, makine, elektrik, elektronik ve haberleşme, çevre, işletme vb. mühendislik bilim dalları ile sosyoloji, psikoloji, ekonomi ve sosyal bilim dallarının katılacağı disiplinlerarası çalışmaların gerçekleştirilmesi ile ülkemiz ekonomisine önemli katkıda bulunacak yeni imkanların elde edilmesi amaçlanmaktadır.

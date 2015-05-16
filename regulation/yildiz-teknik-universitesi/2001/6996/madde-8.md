@@ -1,0 +1,2 @@
+Merkez Danışma Kurulu (MDK) ve Görevleri
+Madde 8 — Merkez Yönetim Kurulu tarafından önerilen ve Rektörlükçe uygun görülen, Yıldız Teknik Üniversitesi içinden ve dışından konu ile ilgili Kamu ve Özel Kuruluşların temsilcisi üyelerden oluşur. Merkez Danışma Kurulu, yılda en az bir kere toplanarak, merkezin çalışmaları konusunda görüşlerini bildirir ve yeni çalışma alanları üzerinde Merkez Yönetim Kurulu’na önerilerde bulunur.
