@@ -1,0 +1,2 @@
+Merkez danışma kurulu ve görevleri
+Madde 13 — Merkez Yönetim Kurulu tarafından önerilen ve Rektörlük tarafından uygun görülen, Üniversite içinden ve dışından konu ile ilgili kamu ve özel kuruluşların temsilcisi üyelerden ve/veya konu ile ilgili uzman kişilerden oluşur. Merkez Danışma Kurulu Merkez Müdürünün çağrısı üzerine yılda en az bir kez toplanır, Merkezin çalışmaları ve yeni çalışma alanları üzerine görüş ve önerilerini bildirir.
