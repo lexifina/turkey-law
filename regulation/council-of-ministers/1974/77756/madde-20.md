@@ -1,0 +1,3 @@
+Mecburi Hizmet:
+Madde 20 – Bu Yönetmelik hükümlerine göre yurtdışına gönderilenler yurtdışında kaldıkları sürenin iki katı kadar, kurumlarına mecburi hizmet görmekle yükümlüdürler. Evvelce yüklendiği mecburi hizmeti tamamlamadan, Yönetmeliğe göre yurtdışına gönderilenlerin, eski yükümlülüklerinin artan kısmı yenisine eklenir.
+Mecburi hizmetlerini tamamlamadan görevlerinden ayrılanlar veya bir ceza nedeniyle memurluktan çıkarılmış olanlar, hizmetlerinin eksik kalan kısmına ait giderleri 657 sayılı Devlet Memurları Kanununun mecburi hizmetle ilgili bölümünde belirtilen esaslara göre öderler. Askerlikte geçen süreler mecburi hizmetten sayılmaz.

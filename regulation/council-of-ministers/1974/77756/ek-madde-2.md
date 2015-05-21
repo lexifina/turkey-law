@@ -1,0 +1,4 @@
+Ek Madde 2 - (Ek: 13/4/2005 - 2005/8831 K.)
+Bu Yönetmeliğin 4 üncü maddesi çerçevesinde bütçe olanaklarıyla yurt dışına gönderilecekler için kurumlara ayrılan kontenjanlar, kontenjanlarda belirtilen ülkeler dışında kullanılamaz. Kontenjanların 4’üncü madde çerçevesinde kurumlara tahsis edilen dış burslarla aynı konuda olması halinde, ayrılan kontenjanlar dış bursların düşülmesi suretiyle kullanılır. (Mülga son cümle: 27/4/2015 - 2015/ 7682 K.)
+Ancak, kurumlara tahsis edilen en az yirmi dört ay süreli kontenjanların bir yıldan az süreli dış kaynaklı burslarla aynı konuda olması durumunda yukarıdaki fıkra hükmü uygulanmaz.
+Geçici Madde – Bu Yönetmeliğin yürürlüğe girdiği tarihte, yabancı memleketlere gönderilmek üzere işlemleri tamamlanmış olanlar bu Yönetmeliğin ikinci bölümü dışındaki hükümlere tabidirler.
