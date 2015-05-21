@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-05-21",
+  "issue": "29362",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Muğla Sıtkı Koçman Üniversitesi Yaz Okulu Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150521-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150521.htm",
+  "index_sha256": "649e9ec0b63d52d11e2c71d5a2bf2bc2e30040670b01b0c5aba9daa332bc5b0e",
+  "index_header": "21 Mayıs 2015 ... 29362 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150521.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
