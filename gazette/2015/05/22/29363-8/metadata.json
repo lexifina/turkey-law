@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-05-22",
+  "issue": "29363",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 15/5/2015 Tarihli ve 2015/19 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150522-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150522.htm",
+  "index_sha256": "2d1a2ff39e3d973df927a883b684b5c813bfabd5fb4f7c14c1d793b1f6610c30",
+  "index_header": "22 Mayıs 2015 ... 29363 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150522.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
