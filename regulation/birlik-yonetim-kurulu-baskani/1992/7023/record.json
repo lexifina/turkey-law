@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.7023",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SERBEST MUHASEBECİ MALİ MÜŞAVİRLER VE YEMİNLİ MALİ MÜŞAVİRLERCE TUTULACAK DEFTER VE KAYITLAR İLE MESLEK MENSUPLARININ BİLDİRİM MECBURİYETİ HAKKINDA YÖNETMELİK",
+  "number": "7023",
+  "issuer": "Birlik Yönetim Kurulu Başkanı",
+  "issuer_slug": "birlik-yonetim-kurulu-baskani",
+  "path": "regulation/birlik-yonetim-kurulu-baskani/1992/7023",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=7023&MevzuatTertip=5",
+  "source_sha256": "c7c28c0fd6d57016856063ee8e8f88ed1cbb67e9b3b878abcd138acc45c75968",
+  "source_bytes": 35623,
+  "published": "1992-07-15",
+  "gazette": "21285",
+  "in_force": "2015-05-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/5/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-05-25",
+      "RG-25/5/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1997-08-22",
+      "RG-22/8/1997",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1007,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
