@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1023",
+  "list_number": "1023",
+  "decision_date": "2015-05-25",
+  "title": "Seçim sonucu sayım ve döküm işlemlerinin kamerayla tespiti seçimin insicamını bozacağından uygun görülmediğine ilişkin Yüksek Seçim Kurulunun 2015/1023 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2116/2015-1023.pdf",
+  "source_sha256": "8f356f0767695aa2e318ec6c70837f6d9a938d40a73acfde064fe4840781e59f",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-05-25",
+  "law_text_complete": false
+}
