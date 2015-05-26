@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10465",
+  "decision_date": "2015-05-26",
+  "source_id": 12416,
+  "chamber": "1",
+  "ilam_number": "230",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12416/",
+  "source_sha256": "4a184b18653c93caa6047dbaaf9194c3b61ecafeed8d0e7914e320fc12b737ec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
