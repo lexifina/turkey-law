@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10465",
+  "decision_date": "2015-05-26",
+  "source_id": 9464,
+  "chamber": "1",
+  "ilam_number": "230",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9464/",
+  "source_sha256": "3d5408d079a12194ca5de8b9ae1aaff9aeb524735f8644477668edb51d620f3b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
