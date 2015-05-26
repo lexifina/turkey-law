@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40560",
+  "decision_date": "2015-05-26",
+  "source_id": 10138,
+  "chamber": "3",
+  "file_number": "37415",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10138/",
+  "source_sha256": "adab89b50dba82526b9105411b3c4d6f0a2ba1c16195d7ab86cddb78e53ce3c7",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
