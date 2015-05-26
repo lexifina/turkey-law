@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-05-26",
+  "issue": "29367",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Celal Bayar Üniversitesi Sivil Toplum Kuruluşları Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150526-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150526.htm",
+  "index_sha256": "1b5f1fefc2b05c973c64f4b28576268bc77cf75ea6bc07f5694fb1b5edefb183",
+  "index_header": "26 Mayıs 2015 ... 29367 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150526.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
