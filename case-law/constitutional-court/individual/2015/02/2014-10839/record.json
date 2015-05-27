@@ -1,0 +1,20 @@
+{
+  "applicant": "S.K.",
+  "application_date": "2014-06-26",
+  "application_number": "2014/10839",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2015-02-25",
+  "id": "e02d1f01-bd35-83d5-69e2-2379955c59b0",
+  "in_force": "2015-05-27",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2015-05-27",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmUwMmQxZjAxLWJkMzUtODNkNS02OWUyLTIzNzk5NTVjNTliMA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "6660bdb831828dd646577040c5933b0edfaf4f99795cda216a13ee46c39ebcb1",
+  "version_label": "as-enacted"
+}
