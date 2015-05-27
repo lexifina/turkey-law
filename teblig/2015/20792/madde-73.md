@@ -1,0 +1,12 @@
+SEKİZİNCİ BÖLÜM
+Portföy Türlerine Özel Esaslar
+Serbest portföyler
+MADDE 73 – (1) Serbest portföyler 65 ilâ 72 nci maddelerde yer alan portföy ve işlem sınırlamalarına tabi olmaksızın bilgilendirme dokümanlarında yer alan yatırım stratejileri ve limitleri dahilinde yatırım yapabilirler.
+(2) Payları serbest portföylere alınacak yabancı yatırım fonları için ilgili otoriteden izin alınmış olma şartı aranır. Bu kapsamda, hangi ülkelerde kurulu fonların ortaklık portföyüne alınabileceğine ihraç belgesi ve yatırımcı bilgi formunda yer verilir. Kurul serbest portföylere alınacak yabancı yatırım fonu paylarına ilişkin kısıtlamalar getirebilir.
+(3) Serbest portföylerin paylarının satışını yapacak kuruluşlar, pay satışlarının bu konuda yeterli bilgi ve deneyime sahip satış personeli tarafından gerçekleştirilmesini temin ederler. Söz konusu kuruluşlar, satış yapılan yatırımcıların nitelikli yatırımcı vasıflarını haiz olduklarına dair bilgi ve belgeleri temin etmek ve düzenli olarak tutmakla yükümlüdürler.
+(4) Serbest portföylerin portföy yöneticilerinin tümünün Sermaye Piyasası Faaliyetleri Düzey 3 Lisans Belgesi ile Türev Araçlar Lisans Belgesine ve bu portföyler konusunda gerekli bilgi ve tecrübeye sahip olmaları gereklidir.
+(5) 76 ncı madde ve 77 nci maddenin ikinci fıkrası serbest portföyler için uygulanmaz.
+(6) Serbest portföye 3 üncü maddenin birinci fıkrasının (cc) bendinde tanımlanan türev araçların yanı sıra swap sözleşmeleri de dahil edilebilir. Serbest portföylerde yer alan vadeli işlem ve opsiyon sözleşmeleri ile swap sözleşmeleri nedeniyle maruz kalınan risklere ilişkin limitler ihraç belgesinde belirtilir. Limitlerin aşılması halinde ortaklık yönetim kurulu tarafından limitlere uyumun sağlanması amacıyla gerekli tedbirler alınır ve pay sahiplerine en uygun haberleşme vasıtasıyla bildirilir.
+(7) 51 inci maddenin ikinci fıkrası kapsamında yapılacak ihraç belgesi değişiklikleri yürürlüğe giriş tarihinden en az 30 gün önce pay sahiplerine en uygun haberleşme vasıtasıyla bildirilir. Esas sözleşme ve ihraç belgesi değişikliklerine ilişkin duyuruların KAP’ta ilan edilmesi hükmü serbest portföyler için uygulanmaz.
+(8) Serbest portföylerin pay fiyatlarının en az ayda bir kere hesaplanması ve yatırımcılara bildirilmesi zorunludur. Net aktif değerin hesaplanması ve ilan edilmesine ilişkin olarak 52 nci maddenin dördüncü fıkrası uygulanmaz.
+(9) Serbest portföylerin ihraç belgesinde, yatırımcı paylarının ortaklık portföyüne iadesi için pay fiyatlarının ilan süresinden daha farklı ve uzun süreler belirlenebilir.

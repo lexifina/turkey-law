@@ -1,0 +1,4 @@
+Tanıtım ve reklam amaçlı ilanlar
+MADDE 37 – (1) Sabit sermayeli ortaklıklar tarafından payların halka arzı ve satışına ilişkin izahnamenin onaylanması sürecinde yapılacak tanıtım ve reklam amaçlı ilanlarda Kurulun konuya ilişkin düzenlemelerine uyulur.
+(2) Halka arz dönemi ve bu dönem dışında yapılacak ilan ve reklamlarda yer alan bilgilerin, yanlış, yanıltıcı, temelsiz, abartılı veya eksik olmaması, sabit sermayeli ortaklığın mevcut koşullarına ilişkin olarak tasarruf sahiplerinin yanlış fikirler edinmelerine neden olmaması, sabit sermayeli ortaklığın verimliliği, kârlılığı, mali durumu hakkında yanıltıcı ifadeler içermemesi ve bu ilan ve reklamlarda portföyde yer alan varlıkların gerçek durumları ile örtüşmeyen yazı, resim, fotoğraf veya görüntü kullanılmaması gerekir.
+(3) Bu maddeye aykırı yapılacak işlemlerden yönetim kurulu veya yönetim kurulunca yetkilendirilmiş olması halinde ilgili murahhas üye sorumludur.

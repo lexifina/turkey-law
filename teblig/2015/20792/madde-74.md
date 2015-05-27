@@ -1,0 +1,8 @@
+DOKUZUNCU BÖLÜM
+Diğer Esaslar
+Bilgi verme yükümlülüğü
+MADDE 74 – (1) Değişken sermayeli ortaklık ve portföy yönetim şirketi, 65 inci maddenin üçüncü fıkrasında sayılan kişi ve ihraççıların unvanları, adresleri ve iştirak oranları ile portföy saklama kuruluşunun Kanun kapsamındaki yükümlülüklerini yerine getirmesi için gerekli diğer bilgileri her yılın Ocak ayında ve bunlardaki değişikliklerin meydana geldiği tarihten itibaren altı iş günü içinde portföy saklama kuruluşuna yazılı olarak bildirir.
+(2) Kurul gerektiğinde, bu Tebliğde yer alan sürelere bağlı olmaksızın ortaklık portföyü hakkında bilgi verilmesini isteyebilir.
+(3) Savaş, doğal afetler, ekonomik kriz, iletişim sistemlerinin çökmesi, ortaklık portföyündeki varlıkların ilgili olduğu pazarın, piyasanın, platformun kapanması, bilgisayar sistemlerinde meydana gelebilecek arızalar, ortaklık portföyünün mali durumunu etkileyebilecek önemli bir bilginin ortaya çıkması gibi olağanüstü durumların meydana gelmesi halinde, değerleme esaslarının tespiti hususunda değişken sermayeli ortaklık yönetim kurulu karar alabilir. Bu durumda değerleme esaslarının gerekçeli olarak karar defterine yazılarak, Kurula ve portföy saklama kuruluşuna bildirilmesi zorunludur. Ayrıca söz konusu olaylarla ilgili olarak KAP’ta açıklama yapılır.
+(4) KAP’ta ilan edilmesi gereken bilgi ve belgelerin eksiksiz olarak yayımlanması, doğruluğu ve güncel tutulması yönetim kurulu üyelerinin veya yönetim kurulunca yetkilendirilmiş olması halinde ilgili murahhas üyenin sorumluluğundadır.
+(5) Değişken sermayeli ortaklığın reklam ve ilanları ile ilgili olarak Kurulun bu konudaki düzenlemelerine uyulur.

@@ -1,0 +1,3 @@
+Portföye alınacak katılma paylarına ilişkin sınırlamalar
+MADDE 25 – (1) Net aktif değerin en fazla %20’si Kanun kapsamında ihracına izin verilen yatırım fonu katılma paylarına yatırılmak suretiyle değerlendirilir. Ancak tek bir yatırım fonuna yapılan yatırım tutarı, net aktif değerin %5'ini geçemez. Katılma payları portföye dahil edilen yatırım fonlarına giriş, çıkış veya erken çıkış komisyonu ödenemez.
+(2) Portföye katılma payı satışına ilişkin izahnamesi Kurulca onaylanan yatırım fonlarının katılma paylarının dahil edilmesi esastır. Şu kadar ki yabancı borsalarda işlem gören borsa yatırım fonlarının katılma payları için birinci fıkrada yer alan sınırlama dahilinde kalmak kaydıyla söz konusu şart aranmaz.

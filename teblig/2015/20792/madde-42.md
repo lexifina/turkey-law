@@ -1,0 +1,5 @@
+Ortaklık portföyüne ilişkin esaslar
+MADDE 42 – (1) Ortaklık portföyünün, yönetim stratejisi doğrultusunda, portföye dahil edilebilecek varlıklar konusunda yeterli bilgi ve sermaye piyasası alanında en az üç yıllık tecrübeye sahip portföy yöneticileri tarafından, yatırımcı lehine ve yatırımcının çıkarını gözetecek şekilde Kurulun portföy yönetim şirketlerine ilişkin düzenlemeleri çerçevesinde yönetilmesi zorunludur.
+(2) Portföydeki varlıkların, Kurulun portföy saklama hizmetine ilişkin düzenlemeleri çerçevesinde bir portföy saklama kuruluşu nezdinde saklanması zorunludur.
+(3) Ortaklık portföyü, portföy hesabına olması ve esas sözleşmede ve izahnamede hüküm bulunması şartıyla kredi almak, türev araç işlemleri veya portföy adına taraf olunan benzer nitelikteki işlemlerde bulunmak haricinde teminat gösterilemez ve rehnedilemez. Bu fıkra kapsamında yapılacak teminat ve rehin işlemlerinden doğabilecek yükümlülükler ortaklık portföyü ile sınırlıdır.
+(4) Portföyün üçüncü kişilere olan borçları ve yükümlülükleri ile portföyün aynı üçüncü kişilerden olan alacakları birbirlerine karşı mahsup edilemez.

@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20792",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MENKUL KIYMET YATIRIM ORTAKLIKLARINA İLİŞKİN ESASLAR TEBLİĞİ (III-48.5)",
+  "number": "20792",
+  "issuer": "Kurul",
+  "path": "teblig/2015/20792",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20792&MevzuatTertip=5",
+  "source_sha256": "9142601c6261c6c2e523c8a8bf635280947268432d15a352f491923403066423",
+  "source_bytes": 268725,
+  "published": "2015-05-27",
+  "gazette": "29368",
+  "in_force": "2015-05-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.05.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 18135,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20792-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

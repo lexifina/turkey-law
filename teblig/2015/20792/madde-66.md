@@ -1,0 +1,3 @@
+Portföye alınacak kolektif yatırım kuruluşu paylarına ilişkin sınırlamalar
+MADDE 66 – (1) Katılma payları bir şemsiye fona bağlı olarak ihraç edilen yatırım fonu ile borsa yatırım fonu katılma payları ve diğer sabit ve değişken sermayeli ortaklıkların paylarının toplam değeri net aktif değerin %20’sini aşamaz.
+(2) Portföye, katılma payı satışına ilişkin izahnamesi/ihraç belgesi Kurulca onaylanan fonların katılma payları ile diğer sabit ve değişken sermayeli ortaklıkların paylarının dahil edilmesi esastır. Şu kadar ki, yabancı borsalarda işlem gören borsa yatırım fonlarının payları için bu maddenin birinci fıkrasında yer alan sınırlama dahilinde kalmak kaydıyla söz konusu şart aranmaz.

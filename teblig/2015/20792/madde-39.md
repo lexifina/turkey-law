@@ -1,0 +1,4 @@
+Kâr payı dağıtımına ilişkin esaslar
+MADDE 39 – (1) Sabit sermayeli ortaklıkların net dağıtılabilir kârlarının en az %20’sinin birinci kâr payı olarak nakden dağıtılması zorunludur. Sabit sermayeli ortaklıkların kâr payı dağıtımlarında halka açık anonim ortaklıklar için Kurulca belirlenen esaslara uyulur.
+(2) Net dağıtılabilir kâr, hesap dönemi kârından kanunlara göre ayrılması gereken yedek akçeler ile vergi, fon ve mali ödemeler ve varsa geçmiş yıl zararları düşüldükten sonra kalan tutardır.
+(3) Sabit sermayeli ortaklıkların finansal tablolarındaki net dönem ve geçmiş yıl zararlarının uygun özsermaye kalemleriyle mahsup edilmesi zorunludur. Ancak mevzuat gereği veya vergisel yükümlülük doğurması nedeniyle mahsup edilemeyen geçmiş yıl zararları net dağıtılabilir kârın tespitinde indirime konu edilebilir.

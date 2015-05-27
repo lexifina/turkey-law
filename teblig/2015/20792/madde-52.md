@@ -1,0 +1,9 @@
+Payların değeri
+MADDE 52 – (1) Değişken sermayeli ortaklık paylarının itibari değeri yoktur.
+(2) Değişken sermayeli ortaklığın pay başı net aktif değeri, ortaklık portföy değerine hazır değerler, alacaklar ve diğer aktiflerin eklenerek toplam borçların düşülmesi suretiyle bulunan değerin yatırımcı ve kurucu pay sayısının toplamına bölünmesiyle elde edilir.
+(3) Pay başı net aktif değer, payların alım satımına esas teşkil eden fiyattır.
+(4) Pay başı net aktif değerin günlük olarak hesaplanması ve ilan edilmesi esastır. Bilgilendirme dokümanlarında hüküm bulunmak kaydı ile aynı gün içinde iki fiyat açıklanabilir. Kurul pay fiyatının günlük olarak hesaplanmasına ve açıklanmasına bu Tebliğde belirtilen haller dışında da istisna getirebilir.
+(5) Para piyasası portföyleri ile kısa vadeli borçlanma araçları portföyleri dışındaki ortaklık portföylerinde, pay alım satım emirleri, emrin verilmesini takip eden ilk hesaplamada bulunacak pay fiyatı üzerinden yerine getirilir. Para piyasası portföyleri ve kısa vadeli borçlanma araçları portföylerinde ise, alım satım emirleri en son ilan edilen birim pay fiyatı üzerinden gerçekleştirilir. Bununla birlikte, bilgilendirme dokümanlarında belirtilmek koşuluyla, para piyasası portföyleri ve kısa vadeli olan borçlanma araçları portföylerinde pay alım işlemi ve satım işlemi farklı birim pay fiyatı üzerinden gerçekleştirilebilir.
+(6) Bilgilendirme dokümanlarında belirlenen esaslara göre hesaplanan pay başı net aktif değer, payların alım-satım yerlerinde duyurulur.
+(7) 74 üncü maddenin üçüncü fıkrasında belirtilen durumlarda, Kurulca uygun görülmesi halinde, pay başı net aktif değer hesaplanmayabilir ve payların alım satımı durdurulabilir.
+(8) Pay sahiplerine kâr payı dağıtılması mümkündür. Kâr payı dağıtımında ve yedek akçe ayrılmasında TTK’nın yedek akçe ayrılması ile ilgili hükümleri uygulanmaz.

@@ -1,0 +1,3 @@
+SPL’ye yapılan bildirimler
+MADDE 81 – (1) SPL bu Tebliğ uyarınca kendisine değişken sermayeli ortaklık tarafından yapılan bildirimler kapsamında bir veri tabanı oluşturur ve söz konusu veri tabanını anlık olarak Kurulun erişimine açar. SPL’ye yapılacak tüm bildirimler elektronik imzalı olarak da alınabilir.
+(2) SPL, bu Tebliğ uyarınca kendisine değişken sermayeli ortaklıklar tarafından yapılan bildirimler kapsamında değişken sermayeli ortaklık, yönetim kurulu üyeleri ve personeli hakkında bu Tebliğ hükümlerine aykırı bir durum tespit etmesi halinde üç iş günü içinde Kurula yazılı olarak bildirimde bulunur.
