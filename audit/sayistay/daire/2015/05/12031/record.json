@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10473",
+  "decision_date": "2015-05-28",
+  "source_id": 12031,
+  "chamber": "1",
+  "ilam_number": "237",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12031/",
+  "source_sha256": "cb1e1fe3088d23ecf6e6bf44a435e363b6c17bf0af1114e280760577d63442ee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
