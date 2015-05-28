@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1063",
+  "list_number": "1063",
+  "decision_date": "2015-05-28",
+  "title": "135 sayılı Genelge'nin 47. maddesinin titizlikle uygulanması gerektiğine ilişkin Yüksek Seçim Kurulunun 2015/1063 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2112/2015-1063.pdf",
+  "source_sha256": "aff384a9bef4dcc0db51498d76a19891dfdc0d80860abd2b007e05af52e4feb3",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-05-28",
+  "law_text_complete": false
+}
