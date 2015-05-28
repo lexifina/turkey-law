@@ -1,0 +1,2 @@
+Yasak bölgelerde yabancı uyrukluların kullanacakları telsiz cihaz ve sistemleri
+MADDE 15 – (1) Genelkurmay Başkanlığınca ilan edilen yasak bölgelerde bulunmalarına müsaade edilen yabancı uyruklulara radyo ve televizyon yayınlarını almaya yarayan cihazlar dışındaki telsiz verici, verici-alıcı veya alıcı cihazları için telsiz kurma ve kullanma izni ile telsiz ruhsatnamesi verilmesi Genelkurmay Başkanlığının müsaadesine bağlıdır.

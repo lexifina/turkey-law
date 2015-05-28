@@ -1,0 +1,8 @@
+Yetkilendirme kapsamındaki telsiz cihaz ve sistemler
+MADDE 16 – (1) Kurum tarafından yetkilendirilmiş işletmecilerin elektronik haberleşme şebekesinde veya altyapısında yer alan telsiz cihaz ve sistemleri aşağıda belirtilen hususlara tabidir:
+a) İşletmeciler, altyapıyı oluşturan her türlü telsiz cihaz ve sistemleri için ilgili BTK Başvuru Formu ve cihazların kurulacağı yerleri içeren listeler ile sistem kurma ve kullanma izni başvurusunda bulunur.
+b) Yapılan başvurunun yetkilendirme kapsamında Kurum tarafından değerlendirilmesini müteakip sistem kurma ve kullanma izni verilir.
+c) İşletmeciler izin alarak kurduğu sisteme ait bilgileri ilgili BTK Bildirim Formlarına doldurarak Kuruma bildirmekle yükümlüdür. Ortak Kullanımlı Telsiz Hizmetleri işletmecileri ise ayrıca, elektronik haberleşme şebekesinde veya altyapısında yer alan telsiz cihaz ve sistemlerine ilişkin bildirimler ile birlikte hizmet sunulan sistem kapsama alanı haritalarını da Kuruma göndermekle yükümlüdür.
+ç) İşletmeciler yetkilendirme ve verilen izin kapsamında kurduğu altyapı sistemlerinde yaptığı değişiklikleri ilgili BTK Bildirim Formlarına doldurarak Kuruma bildirir.
+d) İşletmecilerin elektronik haberleşme şebekesinde veya altyapısında yer alan telsiz cihaz ve sistemlerinin tümüne başlangıçta tek genel bir ruhsatname düzenlenir.
+(2) İşletmecilerin elektronik haberleşme şebekesinde veya altyapısında yer alan telsiz cihaz ve sistemleri için öncelikle işletmecilerin yetkilendirme belgesinde belirtilen hükümler ve işletmeciler ile Kurum arasında imzalanmış bir sözleşme ve/veya protokol var ise bu sözleşme ve/veya protokol hükümleri uygulanır.

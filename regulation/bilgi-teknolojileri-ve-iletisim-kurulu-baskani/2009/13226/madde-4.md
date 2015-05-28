@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen,
+a) Abone: Bir işletmeci ile telsiz haberleşme hizmetinin sunumuna yönelik olarak yapılan bir sözleşmeye taraf olan gerçek ya da tüzel kişiyi,
+b) Amatör telsizci: Hiçbir maddi, kişisel veya siyasi çıkar gözetmeden, sadece kendi istek ve çabası ile telsiz iletişim teknikleri alanında kendini yetiştirmek amacıyla ulusal ve uluslararası amatör telsizcilik faaliyetinde bulunan gerçek kişiyi,
+c) Amatör telsiz haberleşmesi: Amatör telsizciler arasında yapılan ve maddi çıkar sağlamayan, sadece hobi amacı taşıyan haberleşmeyi,
+ç) BTK başvuru formu: Formatı kurum tarafından belirlenen, kurum internet adresinde yayımlanan ve telsiz cihaz ve sistemi kurup kullanmak için müracaat edecek işletmeci veya kullanıcıların doldurmakla yükümlü oldukları her bir formu,
+d) BTK bildirim formu: Formatı kurum tarafından belirlenen, kurum internet adresinde yayımlanan ve telsiz cihaz ve sistemi kuran işletmecilerin doldurmakla yükümlü oldukları her bir formu,
+e) İşletmeci: Yetkilendirme çerçevesinde elektronik haberleşme hizmeti sunan ve/veya elektronik haberleşme şebekesi sağlayan ve alt yapısını işleten şirketi,
+f) Kanun: 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanununu,
+g) Kullanıcı: Aboneliği olup olmamasına bakılmaksızın telsiz haberleşme hizmetlerinden yararlanan gerçek veya tüzel kişiyi,
+ğ) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+h) Kurul: Bilgi Teknolojileri ve İletişim Kurulunu,
+ı) Telsiz: Aralarında herhangi bir fiziki bağlantı olmaksızın elektromanyetik dalgalar yoluyla açık, kodlu veya kriptolu ses ve veri vermeye, almaya veya yalnızca vermeye veya almaya yarayan sistemleri,
+i) Telsiz kurma ve kullanma izni: Bu Yönetmelik kapsamında kurulacak ve kullanılacak telsiz cihaz ve sistemleri için Kurum tarafından verilen izni,
+j) Telsiz ruhsatnamesi: Bu Yönetmelik kapsamında kurulacak ve kullanılacak telsiz cihaz ve sistemleri için Kurum tarafından verilen ruhsatnameyi,
+k) Üretici: Bir cihazın imalatçısını, imalatçının yurt dışında yerleşik olması halinde Türkiye’de yerleşik yetkili temsilcisini ve/veya bu cihazın ithalatçısını ve faaliyetleri bu cihazın güvenliğe ilişkin özelliklerini etkileyen tedarik zincirindeki diğer kişileri,
+l) Veri: Sistematik erişim imkânı olan, yönetilebilir, güncellenebilir, taşınabilir, birbirleri arasında tanımlı ilişkiler bulunabilen analog veya sayısal metin, resim, görüntü ve benzeri bilgiler kümesini,
+m) Yasak bölge: Yurt savunması bakımından hayati önem taşıyan askeri tesis ve bölgelerin çevre duvarı, tel örgü veya benzeri engel veya işaretlerle belirlenen dış sınırlarından en az yüz en fazla dört yüz metre uzağından alınan noktaların birleştirilmesi suretiyle meydana gelen alanlarda kara sınır hattı boyunca ve lüzum görülen kıyılarda otuz ile altı yüz metre derinliklerdeki sahaları,
+n) Yetkilendirme: Elektronik haberleşme hizmetlerinin sunulması ve/veya elektronik haberleşme şebekesi sağlanmasını teminen şirketlerin, Kurum nezdinde kayıtlanmasını veya kayıtlanmasıyla birlikte bu şirketlere elektronik haberleşme hizmetlerine özel, belirli hak ve yükümlülükler verilmesini
+ifade eder.

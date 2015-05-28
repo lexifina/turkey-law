@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.13226",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TELSİZ İŞLEMLERİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "13226",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "issuer_slug": "bilgi-teknolojileri-ve-iletisim-kurulu-baskani",
+  "path": "regulation/bilgi-teknolojileri-ve-iletisim-kurulu-baskani/2009/13226",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13226&MevzuatTertip=5",
+  "source_sha256": "6255d8bd91b5792f379013ca2e5be8a8ff0849f9ff4384cae167eeb9fd94d332",
+  "source_bytes": 55248,
+  "published": "2009-07-17",
+  "gazette": "27291",
+  "in_force": "2015-05-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/5/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-05-28",
+      "RG-28/5/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-05-28",
+      "28/5/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2835,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
