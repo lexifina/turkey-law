@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5612/1",
+  "decision_date": "2015-05-29",
+  "title": "Petrol Piyasasında Lisans Başvurusu Açıklamaları Hakkında Kurul Kararı ile Petrol Piyasasında Lisans Tadili Başvurularında Aranacak Bilgi ve Belgelere İlişkin Kurul Kararı’nda Değişiklik Yapılmasına Dair Kurul Karar",
+  "resmi_gazete_date": "2015-06-02",
+  "resmi_gazete_number": "29374",
+  "categories": [
+    "Lisans Başvuruları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XkNqKds5KaI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XkNqKds5KaI="
+  ],
+  "source_sha256": "400f4e35f1e2e2e82f745a79f8e86fbcdcfc0378291875f58530f19fc95b2029",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4870,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2015-05-29",
+  "law_text_complete": true
+}
