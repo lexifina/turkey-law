@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-05-31",
+  "issue": "29372",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2015/7564 İstanbul İli, Ataşehir İlçesi, İçerenköy Mahallesi Sınırları İçerisinde Bulunan Alanın Riskli Alan İlan Edilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150531-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150531.htm",
+  "index_sha256": "19e068cb3278e872b12fc8c6c23bf0704f3ed69937ae41d68672175b00309cd8",
+  "index_header": "31 Mayıs 2015 ... 29372 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/05/20150531.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
