@@ -1,0 +1,27 @@
+{
+  "number": "meeting-06-01",
+  "number_as_published": "meeting-06-01",
+  "year": 2015,
+  "title": "01.06.2015 Tarihli Ödemiş Belediye Meclisi Toplantı Karar Özetleri",
+  "decision_date": "2015-06-01",
+  "source": "https://www.odemis.bel.tr/mecliskararlari",
+  "official_document": "https://www.odemis.bel.tr/upload/mecliskararlari/Gtq6HGxyn2ozEO0.pdf",
+  "source_sha256": "1122622a1a22d6b82eac10322a93dbcde8ce5017280008773dc8a862ee6381db",
+  "issuer": "Ödemiş Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-06-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.06.2015; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.06.2015 Tarihli Ödemiş Belediye Meclisi Toplantı Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "20150601_kararlar.pdf",
+  "list_date": "2015-06-01",
+  "list_number": "55-64",
+  "official_page": "https://www.odemis.bel.tr/mecliskararlari"
+}
