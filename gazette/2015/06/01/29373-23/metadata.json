@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-06-01",
+  "issue": "29373",
+  "edition": "regular",
+  "item": 23,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARLARI",
+  "title": "2015/7702 Samsun İlinde “Samsun Kızılırmak Deltası Koruma ve Geliştirme Birliği”nin Kurulmasına İzin Verilmesi Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/06/20150601-23.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/06/20150601.htm",
+  "index_sha256": "dcaa9762ae325afa2ad1681495ddd897557f3e43552dfbf098225b3df6b3e3a7",
+  "index_header": "1 Haziran 2015 ... 29373 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/06/20150601.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
