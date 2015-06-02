@@ -1,0 +1,2 @@
+Merkez Birimleri ve Proje Grupları
+MADDE 13 – (1) Araştırma, geliştirme ve eğitim çalışmalarını iş bölümü çerçevesinde yürütmek üzere Müdürün önerisi ve Yönetim Kurulu kararıyla Merkezin çalışma alanlarında uygulama ve araştırma yapmak üzere Merkez Birimleri ve Proje Grupları kurulabilir. Merkez Birimleri ve Proje Gruplarının kuruluş ve çalışmaları Yönetim Kurulunca belirlenen esaslar çerçevesinde yürütülür. Merkez Birimlerinde her türlü personel görevlendirmesi Müdürün önerisi ve Rektörün onayı ile yapılır.
