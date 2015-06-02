@@ -1,0 +1,15 @@
+{
+  "number": "K-2015/4647",
+  "award_date": "2015-06-02",
+  "heading_as_published": "02/06/2015 tarih ve K-2015/4647 sayılı Hakem Kararı.",
+  "issue": "Hakem Karar Dergisi 22 Nisan - Haziran 2015",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs22.pdf",
+  "source_sha256": "6bef33f8ed6df5ecefc6a95b3e043cdf1820f88717ed93a4a7983a013c1e0305",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "personal-data field (ID number / birth date / address) in the published text",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
