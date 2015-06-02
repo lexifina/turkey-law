@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1129",
+  "list_number": "1129",
+  "decision_date": "2015-06-02",
+  "title": "İsteyen bağımsız adayların seçime girdiği seçim çevresi ile sınırlı olmak üzere Yüksek Seçim Kurulunca yayın izni verildiği saatten sonra harici bellek ile başvurduğu taktirde sandık ölçekli seçim sonuçlarını alabileceğine ilişkin Yüksek Seçim Kurulunun 2015/1129 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2108/2015-1129.pdf",
+  "source_sha256": "f31396088a77bebca6fe71a39de6ea9f6e61ed2c9718a694ddd2a5dc41d65773",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-06-02",
+  "law_text_complete": false
+}
