@@ -1,0 +1,2 @@
+İntibak süreci
+GEÇİCİ MADDE 1 – (1) Kanser bildiriminden sorumlu olan tüm sağlık kurum ve kuruluşları, patoloji, sitoloji raporlarında ve hematoloji klinikleri raporlarında USVS’deki doldurulması zorunlu asgari standart bilgileri içeren ek-1’deki Patoloji, Sitoloji, Hematoloji Laboratuvarları Kanser Bildirim Formunu bilgi işlem sistemlerine en geç bir yıl içinde entegre ederek uygulamaya geçerler.

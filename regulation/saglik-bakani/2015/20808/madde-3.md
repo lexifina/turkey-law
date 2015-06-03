@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 64 üncü maddesi, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin (b) ve (f) bentleri ile 9 uncu maddesinin (c) bendi ve 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 26 ncı ve 40 ıncı maddelerine dayanılarak hazırlanmıştır.
