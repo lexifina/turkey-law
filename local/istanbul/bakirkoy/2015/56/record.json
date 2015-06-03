@@ -1,0 +1,23 @@
+{
+  "number": "56",
+  "number_as_published": "56",
+  "year": 2015,
+  "title": "Personel Ücret Tarifesi ve Ücretsiz Yemek Verilecek Yerler ile Kreşler İbaresinin Çocuk Bakım Evleri Olarak Değiştirilmesi",
+  "decision_date": "2015-06-03",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/56",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/56-yemek-ucret-tarifesi-ucretsiz-yemek-cocuk-bakim-evleri-03062015.pdf",
+  "source_sha256": "e5b1e96b72cb3f7461a3152d5dc180326ab38a5b0db12feab3f242125e05566f",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-06-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03 Haziran 2015 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
