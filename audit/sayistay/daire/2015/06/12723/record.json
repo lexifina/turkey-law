@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "39",
+  "decision_date": "2015-06-04",
+  "source_id": 12723,
+  "chamber": "7",
+  "ilam_number": "5",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12723/",
+  "source_sha256": "032a799498974236a060f3c3c046e3382d08ca4ba95fd8c1e1d7014616761f76",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
