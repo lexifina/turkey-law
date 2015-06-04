@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Kalkınma ajanslarının bütçelerinin hazırlanması, içeriğinin belirlenmesi, kabulü, gelirlerinin tahsilatı, giderlerinin yapılması, bunlara ait varlıkların yönetimi, bu işlemlere ilişkin hesap ve kayıtların muhasebenin temel kavramları ve genel kabul görmüş muhasebe ve bütçe ilkeleri ile ilgili mevzuata ve uluslararası standartlara uygun olarak tutulması ve bunların şeffaf ve anlaşılır şekilde kamuoyuna duyurulması bu Yönetmelik hükümlerine tabidir.
+(2) Ajans Avrupa Birliği ve diğer yurt dışı kaynaklardan sağlanan fonların kullanımı ve muhasebeleştirilmesi, uluslararası mevzuat hükümleri saklı kalmak kaydıyla, bu Yönetmelik hükümlerine tabidir.

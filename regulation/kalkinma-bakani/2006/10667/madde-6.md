@@ -1,0 +1,2 @@
+Giderlerin gerçekleştirilmesi
+MADDE 6 – (1) Bütçelerden bir giderin yapılabilmesi için; desteklenen proje ve faaliyetin yada iş, mal veya hizmetin belirlenmiş usul ve esaslara uygun olarak gerçekleştirildiğinin, görevlendirilmiş kişi veya komisyonlarca onaylanması ve gerçekleştirme belgelerinin düzenlenmiş olması gerekir. Giderlerin gerçekleştirilmesi, gerçekleştirme görevlisi tarafından düzenlenen ödeme emri belgesinin harcama yetkilisince imzalanması ve tutarın hak sahibine ödenmesiyle tamamlanır.

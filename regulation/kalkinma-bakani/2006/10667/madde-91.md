@@ -1,0 +1,4 @@
+Ajans faaliyet raporu
+MADDE 91 – (1) Ajansın faaliyet sonuçlarını gösterecek şekilde, Ek-1’de yer alan şekle uygun olarak, Yönetim Kurulu tarafından hazırlanan Ajans faaliyet raporu, altı aylık ara rapor ve yıllık faaliyet raporu şeklinde düzenlenir. Altı aylık ara rapor eylül ayı sonuna kadar, yıllık rapor ise izleyen malî yılın en geç mart ayı sonuna kadar kamuoyuna açıklanır. Bu raporların birer örneği aynı süre içinde İçişleri Bakanlığına ve (Değişik ibare: RG-4/6/2015-29376)1 Bakanlığa gönderilir ve ayrıca ilk Kalkınma Kurulu toplantısında görüşülmek üzere Kalkınma Kuruluna sunulur. Ajans faaliyet raporlarında Yönetim Kurulu başkanının sunuş metni de yer alır.
+(2) (Değişik ibare: RG-4/6/2015-29376)1 Bakanlık gerek görmesi hâlinde Ajans faaliyet raporunun şekli ve muhteviyatında değişiklik yapabilir.
+(3) Yönetim Kurulu, Ajans faaliyet raporlarının içeriğinden ve raporlarda yer alan bilgilerin doğruluğundan sorumludur.

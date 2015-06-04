@@ -1,0 +1,3 @@
+İç kontrol sistemi
+MADDE 11 – (1) İç kontrol sistemi, Ajans gelir, gider, varlık ve yükümlülüklerinin etkili, ekonomik ve verimli bir şekilde yönetilmesi, Ajansın mevzuata uygun olarak faaliyet göstermesi, her türlü malî karar ve işlemlerde usulsüzlük ve yolsuzluğun önlenmesi, karar oluşturmak ve izlemek için düzenli, zamanında ve güvenilir bilgi edinilmesi amaçlarını gerçekleştirmek üzere, iç denetçinin görüşü alınmak suretiyle, Genel Sekreterin teklifi ve Yönetim Kurulunun kararı ile belirlenir.
+(2) İç kontrol sistemi, iç ve dış denetim raporları, öneriler, ihtiyaçlar ve şikayetler çerçevesinde yılda en az bir defa Yönetim Kurulu tarafından değerlendirilir ve (Değişik ibare: RG-4/6/2015-29376)1 Bakanlığa rapor hâlinde sunulur.

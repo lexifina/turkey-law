@@ -1,0 +1,2 @@
+Amortisman ve sigorta
+MADDE 85 – (1) Ajans tarafından satın alınan taşınmaz mallar, taşıtlar, demirbaş, mefruşat, araç-gereç ve teçhizat gibi Ajansa ait iktisadi kıymetler için her yıl (Değişik ibare: RG-4/6/2015-29376)1 Maliye Bakanlığınca genel yönetim kapsamındaki kamu idareleri için belirlenen usul ve esaslara göre amortisman ayrılır ve Genel Sekreter tarafından gerekli görülenler ile yasal olarak zorunlu tutulanlar için sigortaları yaptırılır.

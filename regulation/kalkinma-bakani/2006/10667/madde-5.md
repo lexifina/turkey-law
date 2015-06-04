@@ -1,0 +1,9 @@
+İKİNCİ BÖLÜM
+Görev, Yetki ve Sorumluluklar
+Harcama yetkilisi
+MADDE 5 – (1) Harcama yetkilisi, Ajans Genel Sekreteridir. Ancak, Genel Sekreter görevlendirilinceye kadar harcama yetkilisi Yönetim Kurulu başkanıdır. Harcama yetkilisinin izin, hastalık, geçici görev ve benzeri nedenlerle geçici olarak görevinden ayrılması hâlinde, harcama yetkisi, bu görevi yürüten kişi tarafından kullanılır.
+(2) Harcama yetkilisi, yazılı olarak sınırlarını açıkça belirlemek ve Ajansın yılı bütçesinde gösterilen tutarı geçmemek kaydıyla, harcama yetkisini, birim yöneticilerine devredebilir. Harcama yetkisinin devredilmesi, yetkiyi devredenin sorumluluğunu ortadan kaldırmaz. Harcama yetkisinin devrini sınırlandırmaya Yönetim Kurulu yetkilidir.
+(3) Bütçelerden harcama yapılabilmesi, harcama yetkilisinin harcama talimatı vermesiyle mümkündür. Harcama talimatında hizmet gerekçesi, yapılacak işin konusu ve tutarı, süresi, kullanılabilir ödeneği, gerçekleştirme usulü ile gerçekleştirmeyle görevli olanlara ilişkin bilgiler yer alır.
+(4) Harcama yetkilisi, harcama talimatının bütçe ilke ve esaslarına, Yönetim Kurulu kararlarına, Ajans mevzuatı ile diğer ilgili mevzuata uygun olmasından, ödeneklerin etkili, ekonomik ve verimli kullanılmasından ve ilgili mevzuat çerçevesinde yapması gereken diğer işlemlerden sorumludur.
+(5) Harcama yetkilisi; harcamanın yeri, ödeneği, hukuki dayanağı, tutarı, kime yapılacağını içerecek şekilde gerçekleştirme görevlisi tarafından hazırlanan ödeme emrini imzalamak suretiyle harcama yapılmasına karar verir ve muhasebe yetkilisine gönderir. Muhasebe yetkilisinin yapacağı kontrol hariç olmak üzere ilgililer tarafından ödeme emri üzerine düşülen şerhler harcamanın yapılmasına engel değildir.
+(6) Ajans mal ve haklarının gereği gibi muhafaza edilmesinin sağlanması ve yönetilmesinden de harcama yetkilisi sorumludur.
