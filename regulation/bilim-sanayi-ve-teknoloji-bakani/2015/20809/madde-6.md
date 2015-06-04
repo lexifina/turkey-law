@@ -1,0 +1,2 @@
+MADDE 6 – (1) Bu Yönetmelik hükümlerine uygun olan hazır ambalajlara, EK I madde 3.3’de öngörülen “℮” işareti yerleştirilebilir.
+(2) Hazır ambalajlar bu Yönetmeliğin ekinde yer alan EK I’in “5. Bakanlık Tarafından Dolum İşletmecisinde, İthalatçıda veya Topluluk İçinde veya Türkiye'de Yerleşik Temsilcisinde Yapılacak Kontroller” bölümünde ve EK II’de belirtilen şartlarda metrolojik kontrollere tabidir.

@@ -1,0 +1,4 @@
+Nominal miktarın gösterimi
+MADDE 7 – (1) 6 ncı maddede anılan bütün hazır ambalajlar, EK I’e göre içermesi gerekli olan “nominal ağırlık” veya “nominal hacim” olarak bilinen ürünün ağırlığı veya hacminin işaretini taşır.
+(2) İçlerinde sıvı ürün bulunan hazır ambalajlı mamuller nominal hacimleriyle, diğer ürünleri içeren hazır ambalajlı mamuller nominal ağırlıklarıyla işaretlenir. Benzer olması kaydıyla, Avrupa Birliği Ülkeleri ile Türkiye’deki ticari teamüller ve ulusal düzenlemelerin aksini ifade etmesi veya tersine bir Avrupa Topluluğu kuralı olması halinde bu kural uygulanmayabilir.
+(3) Belirli ürün türlerine veya belirli hazır ambalajlı mamullere ilişkin ticari teamüller veya düzenlemeler Avrupa Birliği Ülkeleri ile Türkiye’de benzer değilse, bu hazır ambalajlı mamullere en azından, gönderileceği ülkenin ticari teamüllerine veya o ülkede geçerli ulusal düzenlemelere uygun olan metrolojik bilgilerin yazılması zorunludur.
