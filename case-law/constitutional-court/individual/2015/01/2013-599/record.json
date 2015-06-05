@@ -1,0 +1,20 @@
+{
+  "applicant": "C.S.",
+  "application_date": "2013-01-18",
+  "application_number": "2013/599",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2015-01-22",
+  "id": "efdd86b2-7c5c-f3e5-8c65-c65d482ba6a9",
+  "in_force": "2015-06-05",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2015-06-05",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmVmZGQ4NmIyLTdjNWMtZjNlNS04YzY1LWM2NWQ0ODJiYTZhOQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "227fbfed4eb22bc41951a8cdcc78d4354306a6346781a91ca29078276267780d",
+  "version_label": "as-enacted"
+}
