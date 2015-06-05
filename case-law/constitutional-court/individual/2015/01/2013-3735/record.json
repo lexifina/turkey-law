@@ -1,0 +1,20 @@
+{
+  "applicant": "G.K.",
+  "application_date": "2013-06-04",
+  "application_number": "2013/3735",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2015-01-22",
+  "id": "0ad8ed26-e8ce-884b-245c-a78deb77b8a8",
+  "in_force": "2015-06-05",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2015-06-05",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjBhZDhlZDI2LWU4Y2UtODg0Yi0yNDVjLWE3OGRlYjc3YjhhOA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "c8fcf18e11f7df4849b21c787639d8756311bb61844e691f0af6de3f75ef0229",
+  "version_label": "as-enacted"
+}
