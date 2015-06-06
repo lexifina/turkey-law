@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.20817",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİTKİSEL ATIK YAĞLARIN KONTROLÜ YÖNETMELİĞİ",
+  "number": "20817",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2015/20817",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20817&MevzuatTertip=5",
+  "source_sha256": "ec0ad2ca8220f364f2fce08d0037d2691828748add68edab758f82daf2907835",
+  "source_bytes": 62663,
+  "published": "2015-06-06",
+  "gazette": "29378",
+  "in_force": "2015-06-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.06.2015)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3530,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

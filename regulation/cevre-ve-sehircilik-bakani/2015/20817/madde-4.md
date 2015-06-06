@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Çevre ve Şehircilik Bakanlığını,
+b) Bertaraf: İkincil amacı enerji geri kazanımı olsa dahi geri kazanım olarak kabul edilmeyen ve Atık Yönetimi Yönetmeliğinin ek-2/A’sında yer alan işlemlerden herhangi birini,
+c) Bitkisel atık yağ: Atık Yönetimi Yönetmeliğinde yer alan atık tanımına uygun bitkisel yağlar ile kullanılmış kızartmalık yağları,
+ç) Bitkisel atık yağ ara depolama tesisi: Bitkisel atık yağların işleme tesislerine ulaştırılmadan önce, atık miktarı yeterli kapasiteye ulaşıncaya kadar güvenli bir şekilde depolandığı tesisi,
+d) Bitkisel atık yağ sahibi: Bitkisel atık yağ üreticisi ya da atığı zilyetliğinde veya mülkiyetinde bulunduran gerçek ve/veya tüzel kişiyi,
+e) Bitkisel atık yağ üreticisi: Faaliyetleri sonucu bitkisel atık yağ oluşumuna neden olan konut, işletme, resmî veya özel kurum veya kuruluşlar ile yemek hizmeti konusunda anlaşma yapılması halinde anlaşmalı olan işletmeyi,
+f) Bitkisel yağ: Bitkisel kökenli ve kullanım amacına uygun olarak piyasaya arz edilen gıda yağlarını,
+g) Biyodizel: Her türlü biyolojik orijinli yağlar ile hayvansal yağların bir katalizatör eşliğinde kısa zincirli bir alkol ile (metanol veya etanol) reaksiyonu sonucunda açığa çıkan ve yakıt olarak kullanılan ürünü,
+ğ) Biyogaz: Organik maddelerin anaerobik mikroorganizmalarla ayrışması sırasında meydana gelen çok adımlı biyokimyasal reaksiyonlardan oluşan gazı,
+h) Çevresel etki değerlendirmesi (ÇED): Gerçekleştirilmesi planlanan projelerin çevreye olabilecek olumlu ve olumsuz etkilerinin belirlenmesinde, olumsuz yöndeki etkilerin önlenmesi ya da çevreye zarar vermeyecek ölçüde en aza indirilmesi için alınacak önlemlerin, seçilen yer ile teknoloji alternatiflerinin belirlenerek değerlendirilmesinde ve projelerin uygulanmasının izlenmesi ve kontrolünde sürdürülecek çalışmaları,
+ı) Çevre lisansı: 10/9/2014 tarihli ve 29115 sayılı Resmî Gazete’de yayımlanan Çevre İzin ve Lisans Yönetmeliğinde düzenlenen lisansı,
+i) Geçici depolama: Bitkisel atık yağların, atık üreticisi/sahibi tarafından işleme tesislerine ulaştırılmadan önce üretildikleri yerde güvenli bir şekilde bekletilmesini,
+j) Geri kazanım: Piyasada ya da bir tesiste kullanılan maddelerin yerine ikame edilmek üzere atıkların faydalı bir amaç için kullanıma hazır hale getirilmesinde yer alan ve Atık Yönetimi Yönetmeliğinin ek-2/B’sinde listelenen işlemleri,
+k) İl Müdürlüğü: Çevre ve Şehircilik İl Müdürlüğünü,
+l) İşleme tesisi: Ara depolama tesisleri dâhil olmak üzere, Atık Yönetimi Yönetmeliğine göre bitkisel atık yağları doğrudan veya dolaylı olarak gıda amaçlı kullanım hariç geri kazanan ve/veya bertaraf eden tesisi,
+m) Kullanılmış kızartmalık yağlar: Yüksek sıcaklık altında okside olmuş, tekrar kullanımı sağlık açısından uygun olmayan kızartma işlemlerinde kullanılan yağları,
+n) Rafinasyon: Ham yağların rafine edilerek, ulusal veya uluslararası standartlar ile şartnamelere uygun yemeklik bitkisel yağ elde edilmesi işlemlerini,
+o) Ulusal atık taşıma formu (UATF): Atık Yönetimi Yönetmeliğinde tanımlanan formu,
+ö) Yemeklik bitkisel yağ üreticisi: Gıda için kullanım amacına uygun olarak yağ üreten veya bu yağları ithal ederek piyasaya süren gerçek ve tüzel kişileri,
+p) Yetkilendirilmiş kuruluş: Yemeklik bitkisel yağ üreticilerinin bu Yönetmelikte belirtilen yükümlülüklerini yerine getirmek üzere oluşturdukları ve Bakanlık tarafından yetkilendirilen tüzel kişiliği haiz kuruluşları,
+ifade eder.

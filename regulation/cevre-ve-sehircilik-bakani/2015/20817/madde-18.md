@@ -1,0 +1,2 @@
+Bitkisel atık yağların bertaraf edilmesi
+MADDE 18 – (1) Geri kazanım ürünlerine dönüştürülemeyen bitkisel atık yağlar ile bitkisel atık yağ depolama tanklarının dip çamurları, geri kazanım işlemlerinde ortaya çıkan atıklar ve bunlarla kirlenmiş malzemeler, bitkisel atık yağ ara depolama tesislerinde süresi dolan bitkisel atık yağlar ve geri kazanım tesislerinde süresi içerisinde geri kazanımı gerçekleştirilmeyen bitkisel atık yağların özelliklerine göre çevre lisanslı tesislerde bertaraf edilmesi zorunludur.
