@@ -1,0 +1,6 @@
+Müdür
+MADDE 7 – (1) Müdür; Üniversite bünyesinde görev yapan, Merkezin faaliyet kapsamına giren alanlarda görevli bulunan öğretim üyeleri arasından üç yıllık bir süre için Rektör tarafından görevlendirilir. Müdür seçiminde hayvan deneyleri konusunda deneyimli öğretim üyeleri öncelikli tercih edilir. Görev süresi dolan Müdür tekrar görevlendirilebilir.
+(2) Müdürün önerisi üzerine Rektör tarafından, Müdüre çalışmalarında yardımcı olmak üzere Üniversitenin ilgili alanlarında tam gün çalışan, aylıklı görev yapan öğretim üyeleri arasından bir öğretim üyesi müdür yardımcısı olarak üç yıl için görevlendirilir. Müdürün önerisi ve Rektörün onayı ile müdür yardımcılarının yerine yenileri görevlendirilebilir.
+(3) Müdürün olmadığı hallerde müdür yardımcısı, müdür yardımcısı da bulunmazsa Yönetim Kurulu üyelerinden birisi Müdürlüğe vekâlet eder.
+(4) Müdürün altı aydan fazla süreyle görevi başında bulunmadığı durumlarda yeni bir Müdür görevlendirilir.
+(5) Müdürün görevi sona erdiğinde müdür yardımcısının görevi de sona erer. Müdürün üstlendiği tüm görev ve sorumlulukların yerine getirilmesinde Müdüre yardımcı olur. Müdürün önerileri doğrultusunda Merkezin alt birimlerinin sorumluluklarını yürütür.
