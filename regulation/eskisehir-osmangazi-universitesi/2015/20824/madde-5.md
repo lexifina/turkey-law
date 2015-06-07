@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Üniversitenin tüm birimlerinde araştırma faaliyetlerinde ihtiyaç duyulan deney hayvanlarının uluslararası bilimsel metotlarla standartlara uygun olarak üretiminin ve bakımının yapılması, Hayvan Deneyleri Etik Kurulu denetiminden geçmiş, deney hayvanları kullanılarak gerçekleştirilecek, her türlü deneysel araştırma, eğitim, tez ve uygulamaların, bilimsel metotlara uygun olarak deneylerde kullanılması, yapılan işlemler sırasında hayvanların gereksiz acı ve ağrıya maruz bırakılmamaları, hayvanların yaşam koşullarının deneyin özüne zarar vermeyecek şekilde iyileştirilmesi ve hayvan deneylerinin sadece gerekli eğitimi almış araştırmacılar tarafından yapılmasını sağlamak amacıyla gerekli alt yapının oluşturulması, deneysel araştırmalar için temel laboratuvar gereksinimleri ve teknik koşulların sağlanmasıdır.

@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; deney hayvanları üzerinde deneysel araştırma sertifikası olan ve bu alanda deneysel araştırma yapmış Tıp Fakültesi öğretim üyeleri arasından üç yıl süreyle Rektör tarafından görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Müdürün altı aydan fazla süre ile görev başında bulunmaması durumunda görevi sona erer. Müdürün görevinden ayrılması halinde yerine kalan süreyi tamamlamak üzere Rektör tarafından aynı yöntemle görevlendirme yapılır. Müdür gerektiğinde süresi dolmadan Rektör tarafından görevden alınabilir.
+(2) Müdürün olmadığı hallerde müdür yardımcısı, müdür yardımcısı da bulunmazsa Yönetim Kurulu üyelerinden biri Müdürlüğe vekâlet eder.
