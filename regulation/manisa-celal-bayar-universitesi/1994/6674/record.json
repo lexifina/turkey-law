@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 14- Bu Yönetmelik yayımlandığı tarihten itibaren yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1994-04-19",
+      "19.04.1994",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2015-06-07",
+      "RG-7/6/2015-29379",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2015-06-07",
+      "RG-7/6/2015-29379",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-7/6/2015-29379",
+  "first_law": null,
+  "gazette": "21910",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-06-07",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Manisa Celal Bayar Üniversitesi",
+  "issuer_slug": "manisa-celal-bayar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/manisa-celal-bayar-universitesi/1994/6674",
+  "published": "1994-04-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6674&MevzuatTertip=5",
+  "source_bytes": 28468,
+  "source_id": "8.5.6674",
+  "source_sha256": "610bdef369239ad42ff5af3fdd315ba44b4fadef065b377bcdb38985871ed93c",
+  "text_status": "current-consolidated",
+  "title": "CELAL BAYAR ÜNİVERSİTESİ MAHALLİ İDARELER UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 184,
+  "word_count": 786
+}

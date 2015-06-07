@@ -1,0 +1,2 @@
+Amaç ve Görevler
+Madde 2- Merkezin amacı, mahalli idarelerin karşılaştıkları sorunların çözümüne yardımcı olmak; merkezi idare ile mahalli idareler arasındaki ilişkilerin daha düzenli, uyumlu ve etkin olmasını sağlamak; ve seçimle iş başına gelmiş mahalli idarecilerin, meclis üyelerinin ve atanmış mahalli idare personeli ile halkın idari, teknik ve genel bilgi seviyelerini arttırıcı eğitim ve uygulamalar yapmak ve yaptırmaktır.
