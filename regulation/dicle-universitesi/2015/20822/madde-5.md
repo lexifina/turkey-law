@@ -1,0 +1,21 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı ve faaliyet alanları
+MADDE 5 – (1) Merkezin amacı ve faaliyet alanları şunlardır:
+a) Ulusal kalkınma hedeflerini ve dünyadaki gelişmeleri göz önünde tutarak doğal florada bulunan tıbbi, aromatik ve kokulu bitki türlerini belirlemek, kaybolmaya yüz tutmuş ve endemik bitki türlerini koruma altına almak, üretim, herbaryum ve koleksiyon parselleri oluşturmak, bitki kaynaklarının korunmasına yönelik tohum bankaları oluşturmak.
+b) Öncelikle ekonomik önemi olan tıbbi, aromatik ve kokulu bitkilerin ekolojik variyabiltelerini araştırmak, kültüre alma çalışmaları yapmak, yetiştirmek, üretmek ve kullanıma sunmak.
+c) Halk arasında çeşitli amaçlarla kullanılan bitkilerin kullanımları ile ilgili bilgileri derlemek ve ilaç olarak değerlendirme çalışmalarına temel olacak bilgileri tespit etmek.
+ç) Tıbbi, aromatik ve kokulu bitkisel ürünler ile doğal gıda katkısı, ilaç ve kozmetik ürünlerin biyolojik, kimyasal, farmakolojik, teknolojik, biyoteknolojik ve endüstriyel açılardan incelenmesini sağlamak amacıyla gerekli laboratuvarları ve üretim tesislerini kurmak.
+d) Doğal kaynaklı her türlü farmasötik, kozmetik ve diğer endüstriyel hammadde ve ürünlerin geliştirilmesi, formülasyonu, kalite kontrolleri; biyolojik, toksikolojik, farmakolojik ve klinik değerlendirmeleri ile biyo-yararlanım ve biyo-eşdeğerlilik çalışma ve araştırmaları yapmak ve yaptırmak.
+e) Tıbbi, aromatik ve kokulu bitkilerin hastalıklara karşı potansiyel tedavi edici özelliklerini belirleme, etken maddelerin etki mekanizmalarını ortaya çıkaracak, etken maddelerin ilaç olarak alımı ve hedef dokuya dağılımı ile ilgili AR-GE yapmak, elde edilen materyallerin ilaç ve besin takviyesi olarak kullanımı için özel sektör ile işbirliği yaparak katma değeri yüksek ürünler geliştirmek.
+f) Tıbbi, aromatik ve kokulu bitkiler konusunda yeni teknolojiler üretmek ve dünyada yeni geliştirilen teknolojileri takip etmek, transfer etmek, adaptasyon çalışmalarını yaparak elde edilen sonuçları Üniversiteler, diğer araştırma kurumları, ilgili kamu ve özel sektörün kullanabileceği şekle getirmek, Üniversite-sanayi işbirliği için yardımcı olmak.
+g) Genelde tüm Türkiye’de özelde ise Diyarbakır İli ve çevre illerde, tıbbi, aromatik ve kokulu bitkiler tarımı, ticareti ve sanayisinin gelişmesine öncülük etmek.
+ğ) Türkiye’de mevcut flora zenginliği ile biyolojik çeşitliliğin envanterinin çıkarılması, korunması ve verimli şekilde değerlendirilerek ekonomiye kazandırılması konularında bilimsel araştırmalar yapmak, biyolojik çevrenin korunması bilincinin yerleşmesine katkı sağlamak.
+h) Ulusal ve uluslararası düzeyde kurslar, seminerler, konferanslar, kongreler, çalıştaylar, sempozyumlar, tanıtımlar ve benzeri bilimsel toplantılar ile özel bilgi ve beceri kazandırmaya yönelik alanlarda sertifikalı/sertifikasız eğitim ve öğretim programları düzenlemek ve yürütmek, uluslararası kuruluşlarla işbirliği yapmak.
+ı) Ulusal ve uluslararası kuruluşların ihtiyaç duydukları alanda inceleme ve araştırma yapmak, işbirliği yapmak, kamu ve özel kuruluşlara danışmanlık yapmak ve bu kuruluşlardan talep edilecek projeleri yapmak ve uygulamak.
+i) Ekonomik ve endüstriyel öneme sahip bitkilerin araştırma, üretim, ara ürün üretimini yapmak, üretimlerinin yaygınlaştırılması için bitki tür ve çeşitlerinden tohum, fide ve fidan üretimi yaparak yetiştiricilere dağıtmak.
+j) İnsan sağlığı için dünyada kullanılmakta olan doğal ilaç ve gıda katkı maddelerini taramak, bunların bileşimine giren doğal ürünleri belirlemek ve Türkiye'de bulunanların analizini yaparak bunlardan ilaç hammaddesi elde etme imkanlarını araştırmak, ürün geliştirme ve pilot ölçekte üretme ile ilgili faaliyetleri gerçekleştirmek.
+k) Doğal kaynaklı preparatların üretimi, standartlaştırılması ve kalite kontrolüyle ilgili çalışmalar yapmak.
+l) İlaç, kozmetik, uçucu yağ, gıda, boya, koku ve tat endüstrileri ile kimya sektörünün gereksinim duyduğu doğal hammadde, ara madde ve ürünlerin üretiminde dış ülkelere bağımlılığı en aza indirecek araştırmalar yapmak, bilimsel önerilerde bulunmak, teknoloji seçimi ve üretimi konularında danışmanlık yapmak.
+m) Merkezin kuruluş amacına, Yükseköğretim Kanunu’nun amaç ve ilkelerine uygun diğer çalışmaları yapmak.
+n) Yönetim Kurulunun kararlaştıracağı diğer faaliyetlerde bulunmaktır.
