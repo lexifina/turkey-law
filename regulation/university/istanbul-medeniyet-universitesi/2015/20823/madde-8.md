@@ -1,0 +1,5 @@
+Müdür
+MADDE 8 – (1) Müdür, tercihen otizm spektrum bozukluğu ile ilgili alanlarda çalışan profesör veya doçent unvanlı tıp fakültesi veya eğitim fakültesi öğretim üyeleri arasından üç yıl süre ile Rektör tarafından görevlendirilir.
+(2) Müdür, öğretim üyeleri arasından iki kişiyi müdür yardımcısı olarak üç yıl süre ile görevlendirir. Müdür yardımcıları, Müdürün gözetim ve denetimi altında Müdürün verdiği görevleri yerine getirir.
+(3) Müdür görevi başında bulunmadığı durumlarda Müdür tarafından belirlenen müdür yardımcılarından biri, müdür yardımcıları da bulunmadığı durumda Yönetim Kurulu üyelerinden biri Müdüre vekâlet eder.
+(4) Müdürün görev süresinin dolması, altı aydan daha uzun süre için Üniversite dışında tam zamanlı olarak görevlendirilmesi veya herhangi bir nedenle görevinden ayrılması durumunda müdür yardımcılarının da görevi sona erer. Aynı usulle yeni Müdür görevlendirilinceye kadar Rektör tarafından Yönetim Kurulu üyelerinden biri vekâleten Müdür olarak görevlendirilir. Görev süresi dolan Müdür veya müdür yardımcıları aynı usulle yeniden atanabilirler.

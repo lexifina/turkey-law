@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-medeniyet-universitesi/2015/20823",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29380",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-06-08",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İstanbul Medeniyet Üniversitesi",
+  "issuer_slug": "istanbul-medeniyet-universitesi",
+  "kind": "regulation",
+  "published": "2015-06-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20823&MevzuatTertip=5",
+  "source_id": "8.5.20823",
+  "source_sha256": "71b25c931f987d50aea31e7dd6b8ed008831454f19b07f92842708d492f6e563",
+  "title": "İSTANBUL MEDENİYET ÜNİVERSİTESİ OTİZM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 414,
+  "version_label": "oldest version available",
+  "word_count": 1423
+}
