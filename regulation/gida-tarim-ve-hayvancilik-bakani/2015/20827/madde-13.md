@@ -1,0 +1,2 @@
+İzinsiz çıkarılan materyalin geri kazanımı
+MADDE 13 – (1) Yurt dışında izinsiz olarak SÜGK kullanıldığının tespiti veya bu Yönetmelik hükümlerine aykırılık teşkil eden uluslararası işlemlerde Biyolojik Çeşitlilik Sözleşmesi hükümleri ve bu sözleşmenin Taraflar Konferansı kararları ile onaylanan uluslararası düzenlemeler gereğince, izinsiz çıkartılan materyalin veya bu materyalden elde edilen faydaların geri kazanımına yönelik uluslararası süreç Bakanlıkla işbirliği halinde Dışişleri Bakanlığı tarafından görev ve yetkisi çerçevesinde yürütülür.

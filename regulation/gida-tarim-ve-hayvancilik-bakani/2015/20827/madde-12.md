@@ -1,0 +1,5 @@
+Denetim
+MADDE 12 – (1) Bu Yönetmelik hükümleri kapsamında Genel Müdürlük tarafından düzenlenecek yurt dışına çıkış ve yurt içine giriş izni, araştırma çalışmalarında kullanılacak SÜGK için düzenlenen MTA ve Başvuru ve İzin Belgesi gümrük işlemleri sırasında gümrük idarelerince aranır.
+(2) Gümrük ve Ticaret Bakanlığı, bu Yönetmeliğin gümrük uygulamaları çerçevesinde gerekli düzenlemeleri yapar.
+(3) SÜGK’nın ülkeye izinsiz giriş ve çıkışının önlenmesi amacıyla bu madde kapsamındaki belgelerin kontrolü; gümrüklü saha dışında kalan deniz alanlarında Sahil Güvenlik Komutanlığı tarafından, kara alanlarında ise Jandarma Genel Komutanlığı ve Emniyet Genel Müdürlüğü tarafından yapılır ve bu Yönetmelik hükümleri çerçevesinde İçişleri Bakanlığı gerekli tedbirleri alır.
+(4) Bakanlık, Veteriner Sınır Kontrol Noktası Müdürlükleri ile İl Müdürlüklerinde konuyla ilgili Su Ürünleri Mühendisi, Ziraat Fakültesi Su Ürünleri Bölümü, Balıkçılık Teknolojisi Mühendisi, Biyolog, Veteriner Hekim gibi uzman istihdam edilmesini sağlar.
