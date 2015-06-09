@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, MARTOY un Ek II sinde tanımlanan M1 kategorisi araçlar ile N1 kategorisi araçların 24/9/2003 tarihli ve 25239 sayılı Resmî Gazete’de yayımlanan Motorlu Araçların Motorlarından Çıkan Gazların Havayı Kirletmesine Karşı Alınacak Tedbirlerle İlgili Tip Onayı Yönetmeliğinin (70/220/AT) Ek I inin madde 5.3.1.4 ünde belirtilen çizelgede yer alan Sınıf I deki araçları kapsar.

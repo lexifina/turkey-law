@@ -1,0 +1,14 @@
+Araç tip onayı uygulama takvimi
+MADDE 6 – (1) Bu Yönetmeliğin yayımı tarihinden itibaren 150 nin üzerinde küresel ısıtma potansiyeline sahip florlu sera gazı içerecek şekilde tasarlanmış iklimlendirme sistemleri ile teçhiz edilmiş bir aracın bu Yönetmeliğin şartlarına uygun olması halinde, iklimlendirme sistemlerinden kaynaklanan emisyonlarla ilgili gerekçelerle;
+a) Yeni bir araç tipi için, AT tip onayı ya da ulusal tip onayı verilmesi reddedilemez,
+b) Yeni araçların tescili, satışı veya hizmete girişi yasaklanamaz.
+(2) 1/1/2010 tarihinden itibaren geçerli olmak üzere, tekli bir evaporatör sistemi için sızma oranı yılda 40 gram florlu sera gazını, ikili evaporatör sistemi için ise 60 gram florlu sera gazını geçmeyenler hariç, 150 nin üzerinde küresel ısıtma potansiyeline sahip florlu sera gazı içerecek şekilde tasarlanmış iklimlendirme sistemleri ile teçhiz edilmiş ilk defa tip onayı alacak bir araca AT tip onayı ya da ulusal tip onayı verilmez.
+(3) 1/1/2011 tarihinden itibaren geçerli olmak üzere, tekli bir evaporatör sistemi için sızma oranı yılda 40 gram florlu sera gazını, ikili evaporatör sistemi için ise 60 gram florlu sera gazını geçmeyenler hariç, 150 nin üzerinde küresel ısıtma potansiyeline sahip florlu sera gazı içerecek şekilde tasarlanmış iklimlendirme sistemleri ile teçhiz edilmiş tip onayı mevcut yeni araçların;
+a) MARTOY un 9 uncu maddesinin amaçları bakımından uygunluk belgeleri geçersiz kabul edilir,
+b) Tescili yapılamaz ve satışına ve hizmete girmesine izin verilmez.
+(4) (Değişik:RG-9/6/2015-29381) 31/12/2016 tarihinden itibaren 150’nin üzerinde küresel ısıtma potansiyeline sahip florlu sera gazı içerecek şekilde tasarlanmış iklimlendirme sistemleri ile teçhiz edilmiş olan ve ilk defa tip onayı alacak bir araç tipine AT tip onayı veya ulusal tip onayı verilmez.
+(5) (Değişik:RG-9/6/2015-29381) 31/12/2017 tarihinden itibaren 150’nin üzerinde küresel ısıtma potansiyeline sahip florlu sera gazı içerecek şekilde tasarlanmış iklimlendirme sistemleri ile teçhiz edilmiş tip onayı mevcut yeni araçların;
+a) Tip onayları geçerliliğini yitirir ve uygunluk belgeleri geçersiz kabul edilir,
+b) Tip onayları 31/12/2017 tarihinden itibaren geçerliliğini kaybeden ve uygunluk belgesi tarihi 31/12/2017 öncesi olan; tam araçlar 31/12/2017 tarihinden itibaren 12 ay içerisinde satılmalı ve tescil edilmeli, tamamlanmamış araçlar ise 31/12/2017 tarihinden itibaren 18 ay içerisinde satılmalı ve temel aracın tip onayı tarihinde geçerli olan hükümleri çerçevesinde tamamlanarak bu süre içerisinde tescil edilmelidir.
+(6) Verimli, yenilikçi ve iklim değişikliğine tesiri azaltıcı olan iklimlendirme sitemlerinin takılması desteklenir.
+(7) İkinci ve üçüncü fıkralarda belirtilen izin verilen azami sızma sınırlarının aşılıp aşılmadığının tespitine yönelik uyumlaştırılmış sızıntı tespit testi Ek II de belirtilmiştir.
