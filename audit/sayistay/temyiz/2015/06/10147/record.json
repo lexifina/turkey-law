@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40600",
+  "decision_date": "2015-06-09",
+  "source_id": 10147,
+  "chamber": "3",
+  "file_number": "39188",
+  "account_year": "2012",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10147/",
+  "source_sha256": "30998eb08a74f7dfc9ad767da319cf4cff05db6359733f9b58d4d0b1c7cbc120",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
