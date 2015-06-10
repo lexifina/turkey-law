@@ -1,0 +1,9 @@
+Ders alma ve devam
+MADDE 7 – (1) Yaz Öğretiminde açılan her ders için, güz ve bahar yarıyıllarında yapılması gereken kredi saati kadar ders yapılır.
+(2) (Değişik:RG- 10/6/2015-29382) Yaz öğretiminde her öğrenci, Üniversite içinden ve dışından (YÖK’ün Atatürk İlkeleri ve İnkılap Tarihi ile Türk Dili gibi zorunlu saydığı dersler ile açık ve uzaktan eğitim sistemi ile verilen zorunlu UFND dersleri dahil) toplam on beş AKTS kredisine kadar ders alabilir. Mezuniyet durumunda olan öğrenciler için bu sınır yirmi AKTS kredisidir. Bu Yönetmelik hükümlerine göre yaz öğretimi başlamadan önce, programın mezuniyet kredisinden (staj dersi hariç) en fazla yirmi AKTS ders kredi eksiği olan öğrenci mezuniyet durumunda sayılır.
+(3) (Değişik:RG- 10/6/2015-29382) Bir dersin Üniversitede açılmaması durumunda öğrencinin dilekçeyle başvurusu ve ilgili fakülte/yüksekokul/enstitü kurulları tarafından eşdeğerliliği kabul edilmek şartıyla öğrenciler, bir başka üniversiteden en fazla on beş AKTS kredisi kadar ders alabilirler.
+(4) Zorunlu dersler hariç olmak üzere bir dersin Üniversitede açılmaması durumunda ve İlgili fakülte/yüksekokul/enstitü kurulları tarafından ders içeriği, birim saati ve kredisi konusunda eşdeğerliliği kabul edilmek şartıyla öğrenciler bir başka üniversiteden en fazla iki ders alabilir.
+(5) Yaz Öğretiminde kesin kayıttan sonra ders değiştirme ve bırakma uygulanmaz.
+(6) Öğrenime ara verme izni alan öğrenciler, izin aldıkları yarıyılların derslerini Yaz Öğretiminde alamazlar.
+(7) Yaz Öğretiminde derslere devam zorunludur. Bir dersin daha önce devam şartı yerine getirilmiş olsa bile devam zorunluluğu kaldırılmaz.
+(8) Devam sınırı, Yaşar Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği ile Yaşar Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliğinde belirtildiği biçimde uygulanır.
