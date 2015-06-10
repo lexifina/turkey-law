@@ -1,0 +1,20 @@
+{
+  "applicant": "Ö.Ö.",
+  "application_date": "2013-05-14",
+  "application_number": "2013/3157",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2015-06-10",
+  "id": "55629f6e-cf3f-77a7-ab05-295f7b406438",
+  "in_force": "2015-06-10",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjU1NjI5ZjZlLWNmM2YtNzdhNy1hYjA1LTI5NWY3YjQwNjQzOA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "70172a40ca18c50b95e59a1450f0dd598a64cf3386fa4885b0e133a045dade05",
+  "version_label": "as-enacted"
+}
