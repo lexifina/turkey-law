@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5634",
+  "decision_date": "2015-06-11",
+  "title": "ÇORDAŞ Çorlu Doğalgaz Dağıtım A.Ş.?nin 2012-2016 yılları arası perakende satış tarifelerine yönelik alınmış olan 01/08/2013 tarih ve 4530 sayılı Kurul Kararının revize edilmesine yönelik",
+  "resmi_gazete_date": "2015-06-13",
+  "resmi_gazete_number": "29385",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=600WZM/rCfY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=600WZM/rCfY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RQizxsNHSOE="
+  ],
+  "source_sha256": "ef39bf837991646a623df3f28c8129665b37fd71823f9bb42fd1cc5f7e3df4ac",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-06-11",
+  "law_text_complete": false
+}
