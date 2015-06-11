@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-06-11T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-06-11",
+  "official_number": "16700543-130-31",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30044",
+  "source_id": "ozelge:30044",
+  "source_row_sha256": "a879a7954c105421b58b729c3d2f7ede7a62dd1e8969a08c68541778d6d9ab3f",
+  "title": "KDV Oranı",
+  "version_label": "as-enacted",
+  "word_count": 855
+}
