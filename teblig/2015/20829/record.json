@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20829",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KİŞİSEL KORUYUCU DONANIMLARLA İLGİLİ UYUMLAŞTIRILMIŞ ULUSAL STANDARTLARA DAİR TEBLİĞ",
+  "number": "20829",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "path": "teblig/2015/20829",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20829&MevzuatTertip=5",
+  "source_sha256": "ffb1e44fbaee016ff8c48c606b5eae7c59a780682ee1af581280aa7d93dd72a4",
+  "source_bytes": 9340,
+  "published": "2015-06-11",
+  "gazette": "29383",
+  "in_force": "2015-06-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.06.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 164,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20829-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
