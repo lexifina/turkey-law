@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-06-12",
+  "issue": "29384",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Hizmet Alımı İhaleleri Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/06/20150612-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/06/20150612.htm",
+  "index_sha256": "ba4ffa1cee7b63280b607a247cc487cc16364417bd0298f6848b6fc00137aa3c",
+  "index_header": "12 Haziran 2015 ... 29384 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/06/20150612.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
