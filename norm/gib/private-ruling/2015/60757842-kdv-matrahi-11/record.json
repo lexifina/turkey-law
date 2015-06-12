@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-06-12T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-06-12",
+  "official_number": "60757842-KDV Matrahı-11",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29186",
+  "source_id": "ozelge:29186",
+  "source_row_sha256": "ae8b0760c5169adbe64ce11fe772b92ea7a79e7b1f2ced5f278c0d4b5b51a2d7",
+  "title": "KDV Oranı",
+  "version_label": "as-enacted",
+  "word_count": 449
+}
