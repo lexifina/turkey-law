@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20836",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ TAHİN HELVASI TEBLİĞİ (TEBLİĞ NO: 2015/28)",
+  "number": "20836",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2015/20836",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20836&MevzuatTertip=5",
+  "source_sha256": "e181acc86769e0468e1f8f116d901d4c62477424ad5fd4b688f0ea7ace235365",
+  "source_bytes": 37771,
+  "published": "2015-06-13",
+  "gazette": "29385",
+  "in_force": "2015-06-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.06.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1299,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
