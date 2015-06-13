@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20835",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ TAHİN TEBLİĞİ (TEBLİĞ NO: 2015/27)",
+  "number": "20835",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2015/20835",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20835&MevzuatTertip=5",
+  "source_sha256": "521ec73c20d8b23aa67ce4067f8375d600cbaf3adf4c0b0a3a85ade9801f544c",
+  "source_bytes": 28501,
+  "published": "2015-06-13",
+  "gazette": "29385",
+  "in_force": "2015-06-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.06.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 714,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
