@@ -1,0 +1,2 @@
+Sağlık Kayıtları Kurulu
+Madde 19- Tıp Merkezinin verimli yönetimi için gerekli olan sağlık kayıtlarının saptanan sağlık kayıt politikası doğrultusunda düzenlenmesi için kararlar almak ve Tıp Merkezi yönetim kuruluna önerilerde bulunmakla görevlidir. Kurul, Başhekimin uygun göreceği bir Başhekim Yardımcısı, Başmüdür ile Dahili ve Cerrahi Tıp bölümlerinden Tıp Fakültesi dekanının görevlendireceği birer uzmanından oluşur ve 2 ayda bir toplanır. Kurul başkanı Başhekim Yardımcısıdır.

@@ -1,0 +1,2 @@
+Döner Sermaye İşletme Müdürlüğü
+Madde 12 – Yönetim Kurulunun teklifi Rektörün onayı ile tercihen işletmecilik konusunda lisans veya yüksek lisans yapmış Üniversite personeli arasından görevlendirilir. Döner Sermaye gelirlerinin ve giderlerinin takibinden sorumludur. 2547 sayılı Yüksek Öğretim Kanunu’ nun 58 inci maddesine göre çıkarılmış olan Döner Sermaye İşletmelerinin kurulmasında uyulacak esaslara ilişkin yönetmeliğin 12 nci maddesinde zikredilen ve Tıp Fakültesi Yönetim Kurulunca Tıp Merkezi Yönetim Kurulunun görüşleri alınarak verilen görevleri yapar.

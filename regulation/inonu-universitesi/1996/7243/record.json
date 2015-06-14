@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 24- Bu Yönetmelik yayımlandığı tarihten itibaren yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1996-03-18",
+      "18.03.1996",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2006-08-28",
+      "RG-28/08/2006-26273",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2015-06-14",
+      "RG-14/6/2015-29386",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2015-06-14",
+      "RG-14/6/2015-29386",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-14/6/2015-29386",
+  "first_law": null,
+  "gazette": "22584",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-06-14",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İnönü Üniversitesi",
+  "issuer_slug": "inonu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/inonu-universitesi/1996/7243",
+  "published": "1996-03-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7243&MevzuatTertip=5",
+  "source_bytes": 44039,
+  "source_id": "8.5.7243",
+  "source_sha256": "7bad794403901f0943c0055746298f726cf059e286348ecdaa4f6bce1b20993a",
+  "text_status": "current-consolidated",
+  "title": "İNÖNÜ ÜNİVERSİTESİ TURGUT ÖZAL TIP MERKEZİ\r\n(ARAŞTIRMA VE UYGULAMA HASTANESİ) YÖNETMELİĞİ",
+  "university_id": 201,
+  "word_count": 2049
+}

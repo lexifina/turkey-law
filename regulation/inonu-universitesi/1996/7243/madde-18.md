@@ -1,0 +1,2 @@
+Kalite Kontrol Kurulu:
+Madde 18- Tıp Merkezinde verilen başta tedavi edici sağlık hizmetleri olmak üzere hizmeti alanları doğrudan direkt etkileyen hizmetlerin istenilen ve önceden tanımlanan standartla da olup olmadığını denetlemekle görevlidir. Kurul Başhekimin uygun göreceği bir Başhekim Yardımcısı, Başmüdür, Tıp Fakültesi Dekanlığınca belirlenecek Dahili ve Cerrahi Tıp Bölümlerinden bir uzman hekim, Tıp Fakültesi dekan yardımcılarından biri ile Hemşirelik Müdüründen oluşur. Kurul 2 ayda bir toplanır. Kurul Başkanı Tıp Fakültesi Dekan Yardımcısıdır.

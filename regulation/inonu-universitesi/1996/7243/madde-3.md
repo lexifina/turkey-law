@@ -1,0 +1,1 @@
+Madde 3 – Tıbbi eğitim, öğretim, araştırma ve uygulama Tıp Fakültesi Dekanının, Tıp Merkezinin İşletilmesi ve yönetilmesi ise Tıp Merkezi Yönetim Kurulunun direktifleri doğrultusunda Rektör tarafından atanan Başhekimin gözetim ve sorumluluğunda yapılır.

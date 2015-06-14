@@ -1,0 +1,2 @@
+Tıp Merkezi (Hastane) Teknik Hizmetler Müdürlüğü
+Madde 16- Mühendislik Fakültelerinden mezun olmuş, kendi alanında en az 5 yıl başarı ile hizmet vermiş olanlar arasından başhekimin teklifi ile rektör tarafından atanır. Tıp Merkezi Başteknisyenliğini kurar. Araç, gereç ve tıbbi aletlerin yıllık bakım ve onarımlarını sağlar. Biyomedikal, Mühendislik ve Endüstri Mühendisliği birimlerini kurar ve çalışmaları koordine eder. Hastanenin elektrik, sıhhi tesisat, ısınma ve mutfak tesisatları dahil teknik hizmetlerini boya, badana, onarım ve bakım işlerini yürütür.

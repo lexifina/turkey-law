@@ -1,0 +1,5 @@
+Tıp Merkezi (Hastane) Başmüdürü ve Görevleri
+Madde 10 – Hastane Başmüdürü, temel eğitimi idare ve işletmecilik olan Fakülte, Yüksekokul veya Sağlık İdaresi Yüksekokulu mezunu ya da Sağlık Yönetimi konusunda lisansüstü eğitim yapmış ve alanlarında en az 10 yıl deneyimli adaylar arasından, 2547 Sayılı Yasanın 52. maddesi hükümlerine göre Üniversite Yönetim Kurulunun görüşü alınarak Rektör tarafından atanır.
+Hastanenin idari, mali ve teknik konularında, planlama, örgütlenme, koordinasyon ve denetim gibi temel yönetim işlevlerini Başhekime karşı sorumlu olarak yürütür.
+İlgili yasa, tüzük ve yönetmeliklere uygun olarak, hastanenin gereksinmelerinin tespit ve temin edilmesini, depolanmasını ve birimlere dağıtılmasını sağlar. Hastanenin iaşe hizmetlerini yürütür ve güvenliği sağlayıcı önlemler alır.
+Başmüdürlüğe bağlı; idari ve mali işler, personel, destek hizmetler, iç düzen ve çevre hizmetleri, tıbbi dökümantasyon ve arşiv işlerinden sorumlu hastane müdürlerinin çalışmasını sağlar. Tıp Merkezi Yönetim Kurulu ve Başhekim tarafından kendisine verilen diğer görevleri yapar.
