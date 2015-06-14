@@ -1,0 +1,40 @@
+{
+  "source_id": "7.5.18562",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SENDİKA ÜYELİĞİNİN KAZANILMASI VE SONA ERMESİ İLE ÜYELİK AİDATININ TAHSİLİ HAKKINDA YÖNETMELİK",
+  "number": "18562",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2013/18562",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18562&MevzuatTertip=5",
+  "source_sha256": "24960d9d6cc0936205cb29fd674c4199e95b4d15e0146c04a75ffe0d60acf136",
+  "source_bytes": 30626,
+  "published": "2013-07-09",
+  "gazette": "28702",
+  "in_force": "2015-06-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/6/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-06-14",
+      "RG-14/6/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-06-14",
+      "14/6/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1536,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

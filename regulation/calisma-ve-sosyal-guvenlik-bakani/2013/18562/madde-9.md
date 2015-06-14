@@ -1,0 +1,5 @@
+Aidatların sendika hesabına yatırılması
+MADDE 9 – (1) Üyelik ve dayanışma aidatları, yetkili işçi sendikasının işverene yazılı başvurusu üzerine, işçinin ücretinden kesilerek ilgili sendikaya ödenir. Genel kurul kararı ile aidatlarda değişiklik yapıldığı takdirde, en geç bir ay içinde sendika tarafından aidat miktarı işverene bildirilir. (Ek cümle:RG-14/6/2015-29386) Yetkili işçi sendikası, üyelik değişikliklerini de en geç bir ay içerisinde işverene bildirmekle yükümlüdür.
+(2) İşyerinde uygulanan toplu iş sözleşmesinin tarafı olan işçi sendikası veya toplu iş sözleşmesi yapılmamışsa ya da sona ermişse yetki belgesi alan işçi sendikası, aidatların işçilerin ücretlerinden kesilmesi için işverene yazılı talepte bulunur.
+(3) İşveren aidatları kesmeye, kestiği aidatın türünü belirterek tutarı ile kesinti listesini sendikaya göndermekle yükümlüdür.
+(4) Yukarıdaki hükümlere göre ödenmesi gereken aidatı kesmeyen veya kesmesine rağmen bir ay içinde ilgili işçi sendikasına ödemeyen işveren, bildirim şartı aranmaksızın aidat miktarını bankalarca işletme kredilerine uygulanan en yüksek faiziyle birlikte ödemekle yükümlüdür.

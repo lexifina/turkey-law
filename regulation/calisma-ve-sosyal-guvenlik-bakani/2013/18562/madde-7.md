@@ -1,0 +1,10 @@
+İşveren sendikası üyeliğinin kazanılması
+MADDE 7 – (1) Sendika üyelik başvurusu, işveren tarafından işyerinin veya işletmenin kurulu bulunduğu işkolunda faaliyet gösteren işveren sendikasına yazılı olarak yapılır. İşverenin tüzel kişilik olması halinde yetkili organının almış olduğu kararın örneği başvuruya eklenir. İşveren sendikasına yapılan üyelik başvurusu sendika tarafından e-Devlet kapısı üzerinden Bakanlığa bildirilir.
+(2) Üyelik, yetkili organının başvuruyu kabulünü e-Devlet kapısı üzerinden Bakanlığa bildirmesi ile kazanılır. Üyeliğin başlangıç tarihi, yetkili organ tarafından üyelik başvurusunun kabul edildiğinin e-Devlet kapısı üzerinden Bakanlığa bildirildiği tarihtir.
+(3) Üyelik başvurusu, yetkili organ tarafından otuz günlük süre içerisinde reddedilmediği takdirde otuzuncu günün sonunda üyelik talebi kabul edilmiş sayılır.
+(4) İşveren, üyelik başvurusu hakkında yetkili organ tarafından işlem yapılıncaya kadar üyelik başvurusunu geri alma hakkına sahiptir.
+(5) Üyelik başvurusu yetkili organ tarafından reddedilirse, ret kararı sendika tarafından gerekçesi ile birlikte e-Devlet kapısı üzerinden Bakanlığa bildirilir ve yazılı olarak işverene tebliğ edilir.
+(6) Üyelik başvurusunun haksız bir nedenle reddedildiğini iddia eden işveren, beşinci fıkrada belirtilen bildirimin tebliğinden itibaren otuz gün içinde mahkemede dava açabilir. Mahkemenin kararı kesindir. Mahkemenin davacı lehine karar vermesi hâlinde, işveren mahkeme kararını Bakanlığa bildirir, karar Bakanlık tarafından e-Devlet kapısına tanımlanır.
+(7) Mahkeme kararı ile kazanılan üyeliğin başlangıç tarihi, üyelik başvurusunun yetkili organ tarafından reddedildiği tarihtir.
+(8) Kesinleşen üyelikler, yetkili organ tarafından e-Devlet kapısı üzerinden Bakanlığa bildirilir.
+(9) Sendika yetkili organı tarafından Bakanlığa bildirilen kişilere sendika adına e-Devlet kapısı üzerinden işlem yapma yetkisi verilir. Sendika yetkili kullanıcıları aynı usulle değiştirilebilir veya yetkileri kaldırılabilir. e-Devlet kapısı üzerinden yapılacak tüm işlemler, ilgili sendikanın Bakanlığa bildirileceği yetkili kullanıcı tarafından gerçekleştirilir.

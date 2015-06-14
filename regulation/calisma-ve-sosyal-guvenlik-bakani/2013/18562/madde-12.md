@@ -1,0 +1,6 @@
+Sendika üyeliğinin çekilme ve çıkarılma dışındaki nedenlerle sona ermesi
+MADDE 12 – (1) İşkolunu değiştiren işçi veya işverenin sendika üyeliği kendiliğinden sona erer.
+(2) Bir yıldan fazla süreyle işsiz kalan işçinin sendika üyeliği kendiliğinden sona erer.
+(3) İşçi ve işverenlerin konfederasyon, sendika veya şubelerinin yönetim, denetleme ya da disiplin kurullarında görev almaları sendika üyeliğini sona erdirmez.
+(4) Sosyal Güvenlik Kurumundan yaşlılık veya malullük aylığı ya da toptan ödeme alarak işten ayrılan işçilerin sendika üyeliği sona erer. Ancak bir yıl içerisinde aynı işkolunda çalışmaya devam edenler veya ara verdikten sonra bir yıl içerisinde tekrar çalışmaya başlayanlar ile konfederasyon, sendika ve şubelerinin yönetim, denetleme ve disiplin kurullarındaki görevleri sırasında yaşlılık veya malullük aylığı ya da toptan ödeme alanların üyeliği, görevleri süresince ve yeniden seçildikleri sürece devam eder.
+(5) İşveren veya işveren vekili sıfatını kaybedenlerin sendika ve konfederasyonlardaki üyelikleri ve görevleri, bu sıfatı kaybettikleri tarihte kendiliğinden sona erer. Ancak, tüzel kişiliği temsilen işveren vekili sıfatı ile işveren sendikalarına üye olanların bu sıfatı kaybetmeleri hâlinde tüzel kişiliğin üyeliği sona ermez. Bu durumda işveren vekilinin sendika organları ve konfederasyonlardaki görevleri sona erer.
