@@ -1,0 +1,2 @@
+İşlemlerde usulsüzlük veya yolsuzluk
+MADDE 10 – (1) Denetleme kurulu ve yeminli mali müşavirler tarafından yapılan denetimler sonucu işlemlerde usulsüzlük veya yolsuzluk tespit edildiğinde; 6356 sayılı Kanun, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu ve diğer kanunlar ile sendika ve konfederasyonların tüzük hükümlerine göre yapılması gereken işlemler denetimi yapanlar tarafından on beş gün içinde yerine getirilir.

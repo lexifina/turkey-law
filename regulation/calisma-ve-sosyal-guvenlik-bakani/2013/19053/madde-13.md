@@ -1,0 +1,2 @@
+Gelir makbuzları
+MADDE 13 – (1) Sendika ve konfederasyonların gelirlerini makbuz karşılığında tahsil etmeleri esastır. Makbuzlara sıra numarası, sendika ve konfederasyonların açık unvanı, tahsil olunan paranın miktarıyla dayanağı, parayı veren ve tahsil edenin kimlik bilgileri yazılır. Bir nüshası makbuz cildinde kalmak üzere en az iki nüsha olarak düzenlenir. Doğrudan sendika ve konfederasyonların kasasına veya banka hesaplarına yapılan ödemelerde kasa fişi veya banka dekontu yeterlidir.
