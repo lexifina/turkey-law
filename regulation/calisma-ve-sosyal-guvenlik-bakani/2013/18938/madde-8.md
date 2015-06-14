@@ -1,0 +1,4 @@
+Olumlu yetki tespiti
+MADDE 8 – (1) İşçi veya işveren sendikası ya da sendika üyesi olmayan işveren tarafından yetki tespit başvurusunda bulunulması halinde Bakanlık, başvuru tarihi itibariyle yetki şartlarına sahip işçi sendikasına olumlu yetki tespiti verir.
+(2) Yetki tespit yazısında; yetki şartlarını taşıyan sendikanın adı, yetki kapsamına giren işyeri veya işyerleri ile işçi ve üye sayıları, toplu iş sözleşmesinin düzeyi ve görevli makamın neresi olduğu hususları yer alır.
+(3) Olumlu yetki tespit yazısı, yetki şartlarını taşıyan sendikaya, o işkolunda kurulu diğer işçi sendikalarına, taraf olacak işveren sendikası veya sendika üyesi olmayan işverene ve ilgili çalışma ve iş kurumu il müdürlüklerine, başvuru tarihinden itibaren altı iş günü içinde bildirilir. Ancak kurulu bulunduğu işkolunda çalışan işçilerin (Değişik ibare:RG-14/6/2015-29386) yüzde birinden daha az üyesi bulunan sendikalara bildirim yapılmaz.

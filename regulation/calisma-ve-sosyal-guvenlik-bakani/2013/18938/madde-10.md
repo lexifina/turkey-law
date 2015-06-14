@@ -1,0 +1,6 @@
+Yetki tespitine itiraz
+MADDE 10 – (1) Kendilerine tespit yazısı gönderilen işçi veya işveren sendikaları veya sendika üyesi olmayan işveren; taraflardan birinin veya her ikisinin yetki şartlarına sahip olmadığı veya kendisinin bu şartları taşıdığına dair itirazda bulunabilir. Kurulu bulunduğu işkolunda çalışan işçilerin (Değişik ibare:RG-14/6/2015-29386) yüzde birinden daha az üyesi bulunan işçi sendikası yetki itirazında bulunamaz.
+(2) Yetki tespitine itiraz, nedenleri belirtilmek suretiyle yazının kendilerine tebliğ edildiği tarihten itibaren altı iş günü içinde mahkemeye yapılır. İtiraz dilekçesinin mahkemeye verilmeden önce görevli makama kayıt ettirilmesi gerekir.
+(3) İşçi ve üye sayılarının tespitinde maddi hata ve süreye ilişkin itirazlar mahkeme tarafından altı iş günü içinde duruşma yapılmaksızın kesin olarak karara bağlanır.
+(4) Yetki şartlarına sahip olmadığı bildirilen işçi sendikası, altı iş günü içerisinde yetkili olup olmadığının tespiti için dava açabilir. Mahkeme açılan davayı o işkolunda çalışan işçilerin en az (Değişik ibare:RG-14/6/2015-29386) yüzde birini üye kaydeden işçi sendikaları ile işveren sendikası veya sendika üyesi olmayan işverene de bildirir. Mahkeme davayı iki ay içinde sonuçlandırır.
+(5) İtiraz, karar kesinleşinceye kadar yetki işlemlerini durdurur.

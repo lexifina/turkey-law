@@ -1,0 +1,4 @@
+Olumsuz yetki tespiti
+MADDE 9 – (1) Bakanlık, yetki tespit başvurusunda bulunan işçi sendikasının başvuru tarihinde yetki şartlarına sahip olmadığını tespit ettiğinde, olumsuz yetki tespitini sadece başvuruyu yapan sendikaya bildirir. Olumsuz yetki tespit yazısında, işyeri ya da işletmenin unvan ve adresi ile çalışan işçi sayısı ve kendi üye sayısı yer alır.
+(2) Bakanlık, işveren sendikası veya sendika üyesi olmayan işverenin yetki tespit başvurusu halinde, başvuru tarihinde yetki şartlarına sahip bir işçi sendikasının bulunmadığını tespit ettiğinde, durumu sadece işveren sendikasına veya sendika üyesi olmayan işverene bildirir.
+(3) (Ek:RG-14/6/2015-29386) Başvuru tarihi itibariyle işletmede yetki şartlarını sağlayan birden fazla sendikanın üye sayılarının eşit olması halinde olumsuz yetki tespiti verilir.
