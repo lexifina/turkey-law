@@ -1,0 +1,2 @@
+Askerî personelle astlık üstlük ilişkisi
+MADDE 15 – (1) İstisnaî memurların görevlendirildikleri kadro derecesinin karşılığı subay rütbeleri, askeri personelle aralarında astlık üstlük ilişkisine yol açmaz. Ancak amir vazifesi alanlar, maiyetindeki bütün askerî ve sivil personele hizmetin icap ettirdiği emirleri verebilirler. Ceza vermek salahiyetleri yoktur. Maiyetin cezalandırılması icabeden hallerde en yakın askeri amire müracaat edilir.

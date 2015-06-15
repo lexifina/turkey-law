@@ -1,0 +1,2 @@
+Atamada istisnai hükümler
+MADDE 9 – (1) Hizmet gerekleri itibarıyla zorunlu hallere münhasır olmak üzere, bu Yönetmeliğin 6 ncı maddesi ile bu Yönetmeliğin 7 nci maddesinin birinci fıkrasının (e) bendinde belirtilen şartlar aranmaksızın atama yapılması; Genelkurmay Başkanlığında, Genelkurmay Başkanının; Millî Savunma Bakanlığında, Millî Savunma Bakanının; Kuvvet Komutanlıklarında, Kuvvet Komutanının; Jandarma Genel Komutanlığında, Jandarma Genel Komutanının; Sahil Güvenlik Komutanlığında, Sahil Güvenlik Komutanının uygun görmesi ile mümkündür.
