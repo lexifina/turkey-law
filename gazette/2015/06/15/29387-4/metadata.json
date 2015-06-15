@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-06-15",
+  "issue": "29387",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Karadeniz Teknik Üniversitesi Teratojenite Araştırma ve Uygulama Merkezi (TAUM) Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/06/20150615-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/06/20150615.htm",
+  "index_sha256": "f604c33a24766585a2bd5c11970b4df4411715b48ba5e03e358f2e285af4258b",
+  "index_header": "15 Haziran 2015 ... 29387 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/06/20150615.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
