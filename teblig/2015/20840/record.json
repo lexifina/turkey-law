@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20840",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ ÇAY TEBLİĞİ (TEBLİĞ NO: 2015/30)",
+  "number": "20840",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2015/20840",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20840&MevzuatTertip=5",
+  "source_sha256": "69a84f372a71f4149ab242b77ffe22d73d565e5f4be5dca5ef686cece0d79293",
+  "source_bytes": 20778,
+  "published": "2015-06-17",
+  "gazette": "29389",
+  "in_force": "2015-06-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.06.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 926,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20840-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
