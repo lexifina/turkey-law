@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5646/2",
+  "decision_date": "2015-06-17",
+  "title": "28/05/2014 tarihli ve 5036 sayılı Kurul Kararı’nda değişiklik yapılmasına ilişkin",
+  "resmi_gazete_date": "2015-06-21",
+  "resmi_gazete_number": "29393",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZZqAHUiuf18=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZZqAHUiuf18="
+  ],
+  "source_sha256": "8a40942c213abebc1ff5690794479ce1e9652226596a9a2270a1537394e217f6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-06-17",
+  "law_text_complete": false
+}
