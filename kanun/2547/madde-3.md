@@ -6,7 +6,7 @@ b) Üst Kuruluşlar: Yükseköğretim Kurulu ve Üniversitelerarası Kuruldur.
 c) (Değişik birinci paragraf: 29/6/2001 - 4702/1 md.) Yükseköğretim Kurumları: Üniversite ile yüksek teknoloji enstitüleri ve bunların bünyesinde yer alan fakülteler, enstitüler, yüksekokullar, konservatuvarlar, araştırma ve uygulama merkezleri ile bir üniversite veya yüksek teknoloji enstitüsüne bağlı meslek yüksekokulları ile bir üniversite veya yüksek teknoloji enstitüsüne bağlı olmaksızın ve kazanç amacına yönelik olmamak şartı ile vakıflar tarafından kurulan meslek yüksekokullarıdır.
 (Değişik:3/4/1991 - 3708/1 md.) Yüksek teknoloji enstitüsü, özellikle teknoloji alanlarında yüksek düzeyde araştırma, eğitim - öğretim, üretim, yayın ve danışmanlık yapan, kamu tüzel kişiliğine ve bilimsel özerkliğe sahip bir yükseköğretim kurumudur.
 5348
-d) Üniversite: Bilimsel özerkliğe ve kamu tüzelkişiliğine sahip yüksek düzeyde eğitim - öğretim, bilimsel araştırma,yayın ve danışmanlık yapan; fakülte, enstitü, yüksekokul ve benzeri kuruluş ve birimlerden oluşan bir yükseköğretim kurumudur.
+d) Üniversite: Bilimsel özerkliğe ve kamu tüzelkişiliğine sahip yüksek düzeyde eğitim - öğretim, bilimsel araştırma, yayın ve danışmanlık yapan; fakülte, enstitü, yüksekokul ve benzeri kuruluş ve birimlerden oluşan bir yükseköğretim kurumudur.
 e) Fakülte: Yüksek düzeyde eğitim - öğretim, bilimsel araştırma ve yayın yapan; kendisine birimler bağlanabilen bir yükseköğretim kurumudur.
 f) Enstitü: Üniversitelerde ve fakültelerde birden fazla benzer ve ilgili bilim dallarında lisans üstü, eğitim - öğretim, bilimsel araştırma ve uygulama yapan bir yükseköğretim kurumudur.
 g) Yüksekokul: Belirli bir mesleğe yönelik eğitim öğretime ağırlık veren bir yükseköğretim kurumudur.
