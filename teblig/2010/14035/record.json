@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.14035",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİNİN TABİ OLACAĞI KRİTERLER HAKKINDA YÖNETMELİK KAPSAMINDA UNİVERSAL SERTİFİKASYON VE GÖZETİM HİZMETLERİ TİC. LTD. ŞTİ.’NİN UYGUNLUK DEĞERLENDİRME KURULUŞU OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (TEBLİĞ NO: YİG/2010-08)",
+  "number": "14035",
+  "issuer": "Bayındırlık ve İskân Bakanı",
+  "path": "teblig/2010/14035",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14035&MevzuatTertip=5",
+  "source_sha256": "ffcabc05dac868594d364c58b5b6de81d0739da11e1f253f8797724b3398d15d",
+  "source_bytes": 11628,
+  "published": "2010-06-10",
+  "gazette": "27607",
+  "in_force": "2015-06-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/6/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-06-20",
+      "RG-20/6/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 322,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14035-ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

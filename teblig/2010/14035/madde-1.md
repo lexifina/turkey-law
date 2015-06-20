@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğ, Universal Sertifikasyon ve Gözetim Hizmetleri Tic. Ltd. Şti.’nin, 26/6/2009 tarih ve 27270 sayılı Resmî Gazete’de yayımlanan Yapı Malzemelerinin Tabi Olacağı Kriterler Hakkında Yönetmeliğe (Yönetmelik) göre gerçekleştireceği uygunluk değerlendirme faaliyetleri için Bayındırlık ve İskan Bakanlığı tarafından görevlendirilmiş olduğunun Yönetmeliğin 19 uncu maddesinin 3 üncü fıkrasında belirtildiği üzere duyurulması amacıyla hazırlanmıştır.
