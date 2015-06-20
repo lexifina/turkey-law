@@ -1,0 +1,4 @@
+YEDİNCİ BÖLÜM
+Değerlendirme
+Değerlendirme
+MADDE 23 – (1) Uygulanmakta olan dampinge karşı önlemlerin sona ermesi halinde, damping ve zararın devam edip etmeyeceği veya yeniden meydana gelmesinin muhtemel olup olmadığı konusu incelenmiş olup, önlemlerin yürürlükten kalkması durumunda üretici/ihracatçı firmaların önlemlerin yokluğundaki davranışlarını yeniden yansıtacak olan esas soruşturmada tespit edilen damping marjının önemli seviyelerde olduğu; YÜD’ün ürün karlılığı, üretim, kapasite kullanım oranı, yurtiçi satışlar, istihdam ve pazar payı gibi göstergelerinin olumlu seyir izlediği; bunun yanı sıra soruşturma konusu ülkelerin yüksek üretim ve kapasiteleri ile dünya ihracatındaki lider konumunu sürdürdüğü görülmüştür. Bu kapsamda, mevcut önlemin ortadan kalkması durumunda dampingli ithalatın ve zararın devamı veya yeniden meydana gelmesinin muhtemel olduğu sonucuna varılmıştır.

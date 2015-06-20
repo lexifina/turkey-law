@@ -1,0 +1,5 @@
+Genel ithalat
+MADDE 10 – (1) Önlem konusu ürünün Türkiye’ye genel ithalatı ve şikâyet konusu ülkelerden yapılan ithalatın analizinde Türkiye İstatistik Kurumu (TÜİK) verileri kullanılmıştır.
+(2) Maddenin genel ithalatındaki eğilime bakmak için önleme tabi ürünün, 2011-2013 döneminde tüm ülkelerden gerçekleştirilen genel ithalat verileri incelenmiştir. Bu çerçevede, 2011 ve 2012 yıllarında söz konusu madde ithalatının sırasıyla 180.581 ton ve 182.215 ton seviyesinde, 2013 yılında ise 192.897 ton seviyesinde gerçekleştiği görülmektedir.
+(3) Ürünün ithalatına değer olarak bakıldığında ise 2011 yılında 737.019.297 ABD Doları seviyelerinde olan genel ithalatın, 2012 yılında 638.539.129 ABD Doları seviyesine gerilediği, 2013 yılında ise 649.970.979 ABD Doları seviyesine yükseldiği gözlenmiştir.
+(4) Maddenin genel ithalatının ortalama birim fiyatlarının 2011-2013 döneminde yıllar itibarıyla sırasıyla 4,08 ABD Doları/Kg, 3,50 ABD Doları/Kg ve 3,37 ABD Doları/Kg olarak gerçekleştiği görülmektedir.

@@ -1,0 +1,4 @@
+Üçüncü ülkelerden ithalat
+MADDE 21 – (1) Önlem konusu üründe önleme konu ülkeler haricindeki ülkelerden yapılan ithalatın, genel ithalat içindeki payının 2008 yılında %24 iken, önlemin yürürlüğe girdiği yıl olan 2009’da %49, 2010’da %58, 2011’de %61, 2012’de %66 ve 2013’te ise %57 seviyesinde gerçekleştiği görülmektedir.
+(2) Öte yandan ÇHC, Endonezya ve Hindistan’ın yanı sıra, soruşturma konusu üründe 8/4/2014 tarihli ve 28966 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2014/2) ile Malezya, Pakistan, Vietnam ve Tayland menşeli ithalat için de değişen oranlarda dampinge karşı önlem 8/4/2014 tarihi itibarıyla yürürlüktedir.
+(3) Bununla birlikte, bahse konu hususların soruşturma konusu önlemin yürürlükten kaldırılması halinde dampingin ve zararın tekrar meydana gelebileceğine ilişkin bu Tebliğdeki tespitleri ortadan kaldıracak nitelikte olmadığı görülmektedir.
