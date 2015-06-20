@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20847",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "PASLANMAZ ÇELİKTEN SOĞUK HADDELENMİŞ SAC İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "20847",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2015/20847",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20847&MevzuatTertip=5",
+  "source_sha256": "4a0c4d373f8c4f50215ed9f0d0eb699c093aaeff49acf5e67a582a439ae9593d",
+  "source_bytes": 103238,
+  "published": "2015-06-20",
+  "gazette": "29392",
+  "in_force": "2015-06-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.06.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1751,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
