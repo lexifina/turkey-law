@@ -1,0 +1,2 @@
+Gerçeğe aykırı beyan
+MADDE 37 – (1) Bu Yönetmelik kapsamında gerçeğe aykırı beyanda bulunduğu tespit edilenlerin ataması yapılmaz; yapılsa bile iptal edilir. Bu kişiler hiçbir hak talep edemez ve haklarında kanuni işlem yapılmak üzere Cumhuriyet başsavcılığına suç duyurusunda bulunulur. Bu şekilde Kurumu yanıltanlar, kamu görevlisi ise durumları çalıştıkları kurumlara bildirilir. Hataen yapılan beyanlar veya atama işleminin kurucu unsuruna ilişkin olmayan hususlarda bu madde hükmü uygulanmaz.

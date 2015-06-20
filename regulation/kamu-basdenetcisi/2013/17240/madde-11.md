@@ -1,0 +1,4 @@
+Giriş sınavı ön hazırlık çalışmaları
+MADDE 11 – (1) Giriş sınavı ön hazırlık çalışmaları, Komisyon tarafından yürütülür.
+(2) Komisyon, öngörülen süre içerisinde yapılan başvuruları inceleyerek adaylarda aranan şartların mevcut olup olmadığını tespit eder. Aranılan nitelikleri taşıyan adaylar, ilanda belirtilen KPSS puan türünden en yüksek puanı alan adaydan başlanmak üzere bir sıralamaya tâbi tutulur. Yazılı sınav yapılması halinde atama yapılacak kadro sayısının yirmi; sadece sözlü sınav yapılması halinde dört katını geçmemek üzere, ilanda duyurulan sayıda aday tutanakla belirlenir ve Kurumun resmi internet sitesinde ilan edilir. KPSS puan türü itibariyle sıralamadaki en son adayın aldığı puanla aynı puana sahip adaylar da giriş sınavına çağrılır.
+(3) Adaylar, sınav giriş belgelerini sınav saatine kadar elden teslim alır. Sınav giriş belgesinde fotoğraf, kimlik bilgileri, sınav yeri ve tarihi yer alır.

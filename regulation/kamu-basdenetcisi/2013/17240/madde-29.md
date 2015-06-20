@@ -1,0 +1,2 @@
+Başarısızlık hali
+MADDE 29 – (1) Verilen ilave süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci sınavda da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliği şartını yerine getiremeyenler, uzman yardımcısı unvanını kaybeder ve istekleri halinde Kurumda veya Devlet Personel Başkanlığınca diğer kamu kurum ve kuruluşlarında durumlarına uygun memur unvanlı kadrolara atanır.

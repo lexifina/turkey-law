@@ -1,0 +1,8 @@
+Yeterlik sınavı
+MADDE 27 – (1) Uzmanlık tezi kabul edilen uzman yardımcısı, aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izinleri hariç olmak üzere adaylıkta geçen süre dâhil Kurumda en az üç yıl fiilen çalışması kaydıyla yeterlik sınavına girmeye hak kazanır.
+(2) Yeterlik sınavı yazılı ve sözlü olmak üzere iki aşamalı olarak yapılır. Yazılı sınavda başarılı olamayan uzman yardımcısı sözlü sınava alınmaz.
+(3) Yeterlik sınavı, tezin kabulünden itibaren en geç üç ay içinde kurul tarafından yapılır. Yeterlik sınavı, Kurumun mevzuatı ile Kurumun görev alanına giren ve sınavdan en az altı ay önce ilan edilen konulardan yapılır. Yeterlik sınavının tarihi, Başdenetçi tarafından belirlenir.
+(4) Kurul üyeleri, yazılı ve sözlü sınavın her bir aşamasında ayrı ayrı not verir. Yazılı sınavda sorulan sorular ve verilen cevaplar bir tutanağa bağlanır. Sınav başarı notu, kurul üyelerinin yeterlik sınavının yazılı ve sözlü aşamalarında verdikleri puanların aritmetik ortalamalarının birlikte değerlendirilmesi ile bulunur.
+(5) Adayın başarılı sayılması için yeterlik sınavının her aşamasında üyelerin verdiği notların aritmetik ortalamasının yüz puan üzerinden en az yetmiş puan olması şarttır.
+(6) Yeterlik sınavında başarılı olamayan veya sınava girmeye hak kazandığı halde geçerli mazereti olmaksızın sınav hakkını kullanmayanlara, bir yıl içinde ikinci kez sınav hakkı verilir. İkinci sınavda başarılı olamayan veya sınav hakkını kullanmayanlar hakkında 29 uncu madde hükümleri uygulanır.
+(7) Yeterlik sınavı sonunda, kurul başkanı, her bir üyenin verdiği notu gösteren bir çizelge ve sınav tutanağı tanzim ederek sonucu Genel Sekreterliğe bildirir. Sonuçlar, Başdenetçinin onayından sonra Genel Sekreterlik tarafından ilgililere tebliğ edilir.

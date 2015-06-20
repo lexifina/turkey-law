@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.17240",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAMU DENETÇİLİĞİ UZMANLIĞI YÖNETMELİĞİ",
+  "number": "17240",
+  "issuer": "Kamu Başdenetçisi",
+  "issuer_slug": "kamu-basdenetcisi",
+  "path": "regulation/kamu-basdenetcisi/2013/17240",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=17240&MevzuatTertip=5",
+  "source_sha256": "8469af3f240e1b1c59d94239f3695c21b14018541da045b743f867df765e541c",
+  "source_bytes": 81421,
+  "published": "2013-03-28",
+  "gazette": "28601 (mükerrer)",
+  "in_force": "2015-06-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/6/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-06-20",
+      "RG-20/6/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-06-20",
+      "20/6/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4033,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

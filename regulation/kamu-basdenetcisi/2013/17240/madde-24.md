@@ -1,0 +1,3 @@
+Tez değerlendirme ve yeterlik sınavı kurulu
+MADDE 24 – (1) Kurul; Başdenetçi veya görevlendireceği denetçinin başkanlığında, Başdenetçi tarafından belirlenen denetçiler ile Genel Sekreter ve uzman yardımcısının bağlı olduğu denetçiden oluşmak üzere en az beş kişiden teşekkül eder. Gerek görülmesi halinde Kurulda kamu denetçiliği uzmanları veya yükseköğretim kurumlarından öğretim üyeleri de görevlendirilebilir. Üyelerden herhangi birinin kurula katılamaması halinde yerine katılacak üyeyi Başdenetçi belirler.
+(2) Kurul başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının veya evlatlıklarının katıldığı sınavlarda görev alamaz.

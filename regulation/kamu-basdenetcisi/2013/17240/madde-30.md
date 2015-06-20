@@ -1,0 +1,2 @@
+Kurumsal eğitim
+MADDE 30 – (1) Uzmanlar, Kurumun görev ve faaliyetleri çerçevesinde; politika oluşturulması, strateji geliştirilmesi, analiz yapılması, verimliliğin artırılması, iş görme kapasitesinin yükseltilmesi, kariyerin geliştirilmesi, bilimsel ve teknolojik değişim ve gelişmelere uyum sağlanması, bilgi ve birikimlerinin artırılması ile yeteneklerinin geliştirilmesi amacıyla kurumsal eğitime tâbi tutulabilir.
