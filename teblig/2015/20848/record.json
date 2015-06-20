@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.20848",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 453)",
+  "number": "20848",
+  "path": "teblig/2015/20848",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20848&MevzuatTertip=5",
+  "source_sha256": "b19094f016c8ef161f1e5fecb4b321d14ee8350d034fb605e9794b1db033dd24",
+  "source_bytes": 18185,
+  "published": "2015-06-20",
+  "gazette": "29392",
+  "in_force": "2015-06-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.06.2015)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 877,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
