@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-06-22",
+  "issue": "29394",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Yıldız Üniversitesi Fotoğrafçılık Araştırma ve Uygulama Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/06/20150622-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/06/20150622.htm",
+  "index_sha256": "a5fedc4652592d2bc636b96ac95c9ed30daae1125d9d569fbc761dc13354d70c",
+  "index_header": "22 Haziran 2015 ... 29394 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/06/20150622.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
