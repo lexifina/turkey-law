@@ -1,0 +1,20 @@
+{
+  "applicant": "M.H.U.",
+  "application_date": "2014-05-06",
+  "application_number": "2014/6134",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2015-06-22",
+  "id": "88f2777d-6818-7400-12b4-f9f9f2f914fa",
+  "in_force": "2015-06-22",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjg4ZjI3NzdkLTY4MTgtNzQwMC0xMmI0LWY5ZjlmMmY5MTRmYQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "5158cea8deb1baf98a737247745fad51f3c814a83442a247aaf110f3597d1ff5",
+  "version_label": "as-enacted"
+}
