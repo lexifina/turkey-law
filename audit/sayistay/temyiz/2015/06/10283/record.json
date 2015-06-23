@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40705",
+  "decision_date": "2015-06-23",
+  "source_id": 10283,
+  "chamber": "5",
+  "file_number": "38906",
+  "account_year": "2011",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10283/",
+  "source_sha256": "1d96f193be976c7b86084ea8c563eaac900cd211cf9684f96f3cb7284cdaa91c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
