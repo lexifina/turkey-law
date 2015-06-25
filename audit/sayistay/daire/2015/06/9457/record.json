@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10475",
+  "decision_date": "2015-06-25",
+  "source_id": 9457,
+  "chamber": "1",
+  "ilam_number": "381",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9457/",
+  "source_sha256": "20a79810b55551712a7dcc5bdc48a9d0556d8c4111a049b73fb5c06f29108d39",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
