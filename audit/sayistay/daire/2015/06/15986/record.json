@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10485",
+  "decision_date": "2015-06-25",
+  "source_id": 15986,
+  "chamber": "1",
+  "ilam_number": "385",
+  "item_number": 2,
+  "public_body_type": "Diğer",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15986/",
+  "source_sha256": "87baeaaf228045fd6df4809cbc46f2ebc557d40df69f4f0d3861faa8fcbc21ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
