@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10483",
+  "decision_date": "2015-06-25",
+  "source_id": 9459,
+  "chamber": "1",
+  "ilam_number": "384",
+  "item_number": 1,
+  "account_year": 2012,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9459/",
+  "source_sha256": "85db0753ff3c2590768fed674169d8a63d0bf5c5f8c2a487f80f3733161d738f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
