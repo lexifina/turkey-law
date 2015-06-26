@@ -1,2 +1,1 @@
-Geçici Madde 8 – (Ek: 10/9/2014 - 6552/123 md.)
-15 inci maddenin son fıkrası hükümleri, devam eden her türlü icra takipleri hakkında da uygulanır. Bu maddenin yürürlük tarihinden önce yapılmış icra takipleri gereğince konulan tüm hacizler, söz konusu fıkra hükümleri dikkate alınarak kaldırılır.
+Geçici Madde 8- (Ek: 10/9/2014-6552/123 md.; İptal: Anayasa Mahkemesinin 17/6/2015 tarihli ve E.: 2014/194, K.: 2015/55 sayılı Kararı ile.)
