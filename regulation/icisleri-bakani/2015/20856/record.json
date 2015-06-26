@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.20856",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EMNİYET TEŞKİLATINDA KULLANILACAK TANITICI BAYRAKLAR VE İŞARETLER HAKKINDA YÖNETMELİK",
+  "number": "20856",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2015/20856",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20856&MevzuatTertip=5",
+  "source_sha256": "54441231f1d431f43805f69afab394cfe6bf8337ee2bac9058e0d6d37acec97e",
+  "source_bytes": 28209,
+  "published": "2015-06-26",
+  "gazette": "29398",
+  "in_force": "2015-06-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.06.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1136,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.20856-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
