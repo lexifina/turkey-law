@@ -1,0 +1,5 @@
+Denetim
+Madde 11 — (Değişik:RG-24/11/2006-26356)
+Özel müzeler, denetim açısından bağlı bulunduğu müze müdürlüğü uzmanları tarafından, yılda en az bir defa denetlenir.
+Özel müze yetkilileri, denetim esnasında istendiği takdirde, her türlü bilgi ve belgeyi vermekle yükümlüdürler.
+Denetlemelerde özel müzedeki kültür ve tabiat varlıklarının sağlığı ve güvenliği ile ilgili tedbirlerin alınıp alınmadığı, ayrıntılı envanter bilgilerinin olup olmadığı incelenir. Denetleme raporu üç nüsha olarak düzenlenir. Tespit edilen aksaklıklar kültür ve tabiat varlıklarının güvenliğini ve sağlığını ciddi biçimde tehlikeye atmayacak nitelikte ise rapor özel müzeye tebliğ edilerek en geç iki ay içerisinde aksaklıkların düzeltilmesi istenir. İki aylık sürenin sonunda yeniden denetim yapılır ve nihai raporun bir nüshası özel müzeye verilir, bir nüshası denetlemeyi yapan ilgili müzede saklanır, bir nüshası da usulüne uygun olarak düzenlenmiş özel müze istatistik formu ile beraber yıl sonunda Bakanlığa gönderilir.

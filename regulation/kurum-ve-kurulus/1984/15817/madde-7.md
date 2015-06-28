@@ -1,0 +1,3 @@
+Değerlendirme
+Madde 7 — Başvuruyu alan Kültür ve Turizm Bakanlığı durumu bu yönetmelik hükümlerine göre inceler. Değerlendirme yapılırken sergilenecek eserlerin bir müze için yeterli nicelik ve nitelikte bulunması, müzenin sürekli hizmet vereceğinin sağlanmış olması hususları da dikkate alınır. Sonuç olumlu görüldüğü takdirde özel müze açma izni verilir.
+(Değişik fıkra:RG-24/11/2006-26356) Gerçek ve tüzel kişilerle vakıflar tarafından kurulacak müzelerin faaliyet konuları ve alanları, yapılacak başvuruda beyan olunan istekleri değerlendirilerek Kültür ve Turizm Bakanlığınca verilecek izin belgesinde belirlenen konu alanına inhisar etmek şartı ile her çeşit taşınır kültür ve tabiat varlığı bulundurabilir ve teşhir edebilirler.

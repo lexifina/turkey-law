@@ -1,0 +1,4 @@
+Yeni Kültür ve Tabiat Varlıklarının Alımı ve Kaydı
+Madde 10 — (Başlığı ile birlikte değişik:RG-24/11/2006-26356)
+Kültür ve tabiat varlıklarını öncelikli satın alma yetkisi Devlet müzelerine aittir. Özel müzelere yeni alınan kültür ve tabiat varlıkları en geç otuz günlük sürede her iki envanter defterinin devam eden sıra numarasına uyularak usulüne göre kaydedilir. Bir envanter numarasına birden fazla kültür ve tabiat varlığı kaydedilemez.
+Özel müzeler, koleksiyonlarındaki her türlü taşınır kültür ve tabiat varlığını, Bakanlıktan onay almak ve koleksiyonun bütünlüğünü korumak şartı ile kendi aralarında değiştirebilir veya satabilir. Satın almada öncelik Bakanlığa bağlı müzelere ait olup satış ve değiştirme işleminden on beş gün önce, denetim açısından bağlı bulunduğu müze müdürlüğüne konuyla ilgili kültür ve tabiat varlıkları hakkında satış veya devir sözleşmesi örneği gönderilerek haber verilir.
