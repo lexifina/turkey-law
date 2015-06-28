@@ -1,0 +1,2 @@
+Yürütme
+MADDE 18 – (1) Bu Yönetmelik hükümlerini Orta Doğu Teknik Üniversitesi Rektörü yürütür.
