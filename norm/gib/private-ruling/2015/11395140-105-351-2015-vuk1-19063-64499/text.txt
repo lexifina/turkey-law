@@ -1,0 +1,31 @@
+T.C.
+GELİR İDARESİ BAŞKANLIĞI
+İSTANBUL VERGİ DAİRESİ BAŞKANLIĞI
+Mükellef Hizmetleri Usul Grup Müdürlüğü
+Sayı
+:
+11395140-105[351-2015/VUK1-19063]-64499
+29/06/2015
+Konu
+:
+Fatura
+İlgi özelge talep formunuzda; kampanya kapsamında teslim edilen cihaz için düzenlemiş olduğunuz faturada, fatura tutarının bir kısmının faturanın vadesi yerine müşteri ile anlaşılan taksitlendirme sistemi ile takip eden aylık hizmet faturalarına ilave edilen taksitlendirme satırı ile tahsil edilmesi durumunda, taksitler tamamlanıncaya kadar "Fatura Tutarı" ile "Ödenecek Tutar" satırlarındaki tutarların eşit olmadığını belirterek, bu şekildeki fatura düzenleme yönteminin vergi mevzuatı ve elektronik fatura kılavuzlarındaki yönlendirmelere aykırı olup olmadığı hususunda Başkanlığımız görüşünü talep ettiğiniz anlaşılmıştır.
+213 sayılı Vergi Usul Kanununun 229 uncu maddesinde fatura, satılan emtia veya yapılan iş karşılığında müşterinin borçlandığı meblağı göstermek üzere emtiayı satan veya işi yapan tüccar tarafından müşteriye verilen ticari vesika olarak tanımlanmış, 230 uncu maddesinde "Faturada en az aşağıdaki bilgiler bulunur:
+1. Faturanın düzenlenme tarihi, seri ve sıra numarası;
+2. Faturayı düzenleyenin adı, varsa ticaret unvanı, iş adresi, bağlı olduğu vergi dairesi ve hesap numarası;
+3. Müşterinin adı, ticaret unvanı, adresi, varsa vergi dairesi ve hesap numarası;
+4. Malın veya işin nevi, miktarı, fiyatı ve tutarı ;
+5. Satılan malların teslim tarihi ve irsaliye numarası..." hükmüne yer verilmiştir.
+Anılan Kanunun 231 inci maddesinin (5) numaralı bendinde faturanın, malın teslimi veya hizmetin yapıldığı tarihten itibaren azami yedi gün içinde düzenleneceği, bu süre içerisinde düzenlenmeyen faturanın hiç düzenlenmemiş sayılacağı, 232 nci maddesinde ise fatura kullanma mecburiyetinde (fatura vermek ve almak zorunda) olanlar hükme bağlanmıştır.
+Öte yandan, 416, 421, 424, 433 ve 447 sıra numaralı Vergi Usul Kanunu Genel Tebliğleri ile değişik 397 sıra numaralı Vergi Usul Kanunu Genel Tebliğinde, Vergi Usul Kanununun Bakanlığımıza verdiği yetkiye istinaden faturanın elektronik belge olarak düzenlenmesi, elektronik ortamda iletilmesi, muhafaza ve ibraz edilmesine ilişkin usul ve esaslar açıklanmıştır. Söz konusu 397 sıra numaralı Genel Tebliğin 3 üncü bölümünde, elektronik faturanın (e-fatura) yeni bir belge olmadığı, kağıt fatura ile aynı hukuki niteliklere sahip olduğu, 5 inci bölümünde, mükelleflerin e-fatura düzenlerken, bu Tebliğde belirtilmeyen hususlarda süreler başta olmak üzere Vergi Usul Kanunu ve ilgili diğer kanun ve düzenlemelerde yer alan usul ve esaslara uymak zorunda olduğu düzenlemelerine yer verilmiştir.
+Yukarıda yer verilen hüküm ve düzenlemelerden de anlaşılacağı üzere;
+- Vergi Usul Kanunu bakımından fatura, satılan emtia veya yapılan işe ilişkin bedelin ödenmiş olup olmadığına bakılmaksızın düzenlenmesi zorunlu olan ve tahakkuka ilişkin bir ticari vesikadır. Ödenecek tutarı gösteren bir ödeme belgesi değildir.
+- Vergi Usul Kanununda faturada bulunması zorunlu olan asgari bilgiler sayılmış olup, başka bilgilerin bulunmayacağına ilişkin bir hükme yer verilmemiştir. Dolayısıyla, faturada bulunması zorunlu olan bilgilerin okunmasına engel teşkil etmeyecek ve faturanın esas niteliğini bozmayacak şekilde bilgilendirme notları eklenmesi (reklâm, logo, slogan, resim, bilgilendirme notları, barkod) mümkün bulunmaktadır.
+- 397 sıra numaralı Vergi Usul Kanunu Genel Tebliğinde açıkça belirtildiği üzere e-fatura yeni bir belge değildir ve e-fatura düzenlenirken Vergi Usul Kanununu hükümlerine uyulması zorunludur.
+Öte yandan e-Fatura uygulaması açısından kullanıcıların ihtiyaç duyacağı temel bilgileri vermek amacıyla hazırlanan ve www.efatura.gov.tr adresinde yayınlanan "Ek-4 UBL-TR Klavuzları" bölümünde yer alan UBL-TR (Ortak Elemanlar) Klavuzunun 2.2.18 MonetaryTotal alanının altında ödenecek tutara karşılık gelen PayableAmount kısmının zorunlu alan olduğu belirtilmiştir.
+Bu itibarla, "ödenecek tutar" bilgisinin Vergi Usul Kanunu hükümlerine göre faturada bulunması zorunlu olmadığından, istenilmesi halinde faturanın esas niteliğini bozmayacak şekilde belgenin farklı bir yerinde gösterilebilmesi mümkündür.
+Ancak e-fatura uygulaması içerisinde "Ödenecek Tutar" alanı UBL-TR açısından faturada girilmesi zorunlu bir alan olduğundan "Fatura Tutarı" ile "Ödenecek Tutar" kısmının birbirinden farklı olması faturanın Vergi Usul Kanunu açısından geçerliliğini etkilemeyeceği tabiidir.
+Bilgi edinilmesini rica ederim.
+(*) Bu Özelge 213 sayılı Vergi Usul Kanununun 413.maddesine dayanılarak verilmiştir.
+(**) İnceleme, yargı ya da uzlaşmada olduğu halde bu konuya ilişkin olarak yanlış bilgi verilmiş ise bu özelge geçersizdir.
+(***) Talebiniz üzerine tayin edilmiş olan bu özelgeye uygun işlem yapmanız hâlinde, bu fiilleriniz dolayısıyla vergi tarh edilmesi icap ederse, tarafınıza vergi cezası kesilmeyecek ve tarh edilen vergi için gecikme faizi hesaplanmayacaktır.
