@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2015-06-30",
+      "30.06.2015",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29402",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-06-30",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/2015/20870",
+  "published": "2015-06-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20870&MevzuatTertip=5",
+  "source_bytes": 19371,
+  "source_id": "8.5.20870",
+  "source_sha256": "c21a3b1c30096dad02fe115a8c2febb6e3310e1d907c543b2b2d1e1b8d4828f5",
+  "text_status": "as-enacted",
+  "title": "AKDENİZ ÜNİVERSİTESİ DEPREM ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 665
+}
