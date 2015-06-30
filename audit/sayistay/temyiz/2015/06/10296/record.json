@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40718",
+  "decision_date": "2015-06-30",
+  "source_id": 10296,
+  "chamber": "5",
+  "file_number": "39536",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10296/",
+  "source_sha256": "8a73ddec1ea007270ee332af9a51e89c7d7c4515c0d0a30ab42bffddd9812951",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
