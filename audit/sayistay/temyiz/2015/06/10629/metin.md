@@ -1,0 +1,5 @@
+3- 1128 sayılı ilamın 8 inci maddesiyle; Belediyelerin açık hesap şeklinde çalışan kısa vadeli borçlanmasına yetki veren hukuki bir düzenleme olmadığı halde, ……….. Belediyesi ile ………..bank A.Ş. arasında, 10.07.2009 tarih ve 108 sayılı yurtiçi ticari bankalardan borçlanmaya yetki veren meclis kararına istinaden, diğer bankalar ve finans kuruluşları nezdinde bir piyasa araştırmasında bulunulmaksızın, 09.09.2009 tarihinde cari (açık) hesap şeklinde kullanılması öngörülen ve limiti ………..TL olan Genel Kredi Sözleşmesi imzalandığı, bu kapsamda ………..liralık bir kredi çekilerek, bu sözleşmeye dayalı olarak yersiz komisyon ve masraf ödemesinde bulunulduğu gerekçesiyle ………..TL.’ye tazmin hükmü verilmiştir.
+
+Sorumlu 1128 sayılı ilamın 8 nci maddesiyle verilen tazmine dair hükme itiraz etmekte ise de, aynı tazmin hükmünde Harcama Yetkilisi sıfatıyla sorumluluğu bulunan ………..adına Av. ………..’ın başvurusu üzerine düzenlenen 30.06.2015 tarih ve 40713 tutanak sayılı Temyiz Kurulu İlamı ile kaldırılmış bulunduğu anlaşılmakla dilekçinin iş bu madde ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA,
+
+30.06.2015 tarihinde karar verildi.
