@@ -1,0 +1,29 @@
+{
+  "number": "33",
+  "number_as_published": "33",
+  "year": 2015,
+  "month": 6,
+  "title": "33.KARAR HAZİRAN 2015 (japonya hiroşima GEZİSİ)",
+  "decision_date": null,
+  "index_date": "2015-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2015",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=51",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=51",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/905f6b41f261d4e97ee6a3ada64f54fd905f6b41f261d4e97ee6a3ada64f54fd.doc",
+  "source_sha256": "e5cbdc3ead28f2b6d2abbb3d89a95a18d6968af08612c263fb715e08d1f4473f",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2015-06-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Haziran 2015); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "29.06.2015",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
