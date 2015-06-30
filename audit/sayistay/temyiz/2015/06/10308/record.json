@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40730",
+  "decision_date": "2015-06-30",
+  "source_id": 10308,
+  "chamber": "1",
+  "file_number": "40064",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10308/",
+  "source_sha256": "5438e733ab635d4c239b463311c8c1e154beda5b98b20a988f29ae61a3169f0d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
