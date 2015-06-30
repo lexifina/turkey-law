@@ -1,0 +1,30 @@
+{
+  "number": "month-06",
+  "year": 2015,
+  "month": 6,
+  "title": "2015 Haziran",
+  "decision_date": null,
+  "index_date": "2015-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2015",
+  "source": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=90",
+  "official_page": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=90",
+  "official_document": "https://susehri.bel.tr/img/belgeler/meclis-kararlari/2015/2015-6.doc",
+  "source_sha256": "2fe8d8e772d993e12f12545024f79ec1c09812f5b55eaa27ea0bc903fe30ab3a",
+  "issuer": "Suşehri Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2015-06-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Haziran 2015); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2015 Haziran",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2015 Haziran",
+  "file_label": "2015-6"
+}
