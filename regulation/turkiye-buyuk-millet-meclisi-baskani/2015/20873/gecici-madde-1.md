@@ -1,0 +1,3 @@
+Mevcut Yasama Uzmanı ve Yasama Uzman Yardımcıları
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımı tarihinde TBMM'de Yasama Uzmanı ve Yasama Uzman Yardımcısı kadrolarında bulunanlar, ikinci fıkra hükmü saklı kalmak kaydıyla bu Yönetmelik hükümlerine tabidir.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihte, Yasama Uzman Yardımcısı kadrolarında bulunanların yeterlik sınavları ve Yasama Uzmanlığı kadrolarına atanmaları hakkında göreve başladıkları tarihte yürürlükte bulunan 16/2/2007 tarihli ve 26436 sayılı Resmî Gazete’de yayımlanan Türkiye Büyük Millet Meclisi Yasama Uzmanlığı Yönetmeliği hükümleri uygulanır.

@@ -1,0 +1,5 @@
+Yeterlik sınavının sözlü aşaması
+MADDE 27 – (1) Yeterlik sınavının yazılı aşamasında başarılı olan Yasama Uzman Yardımcıları, sonucun açıklanmasından itibaren yirmi gün içinde Yeterlik Sınavı Kurulu tarafından sözlü sınava alınır.
+(2) Sözlü sınav, yazılı sınav konularından yapılır. Sözlü sınavda; 15 inci madde de belirtilen yazılı sınav sonuçları, 16 ncı madde uyarınca Yasama Uzman Yardımcısı tarafından hazırlanan araştırma raporu veya makale ile refakatinde bulunduğu Yasama Uzmanları tarafından Yasama Uzman Yardımcısı hakkında sunulan değerlendirme raporları dikkate alınır. Sözlü sınavda ayrıca Yasama Uzman Yardımcıları 12 nci maddenin ikinci fıkrasının (b), (c) ve (d) bentleri hükümlerine göre değerlendirilir.
+(3) Sözlü sınava ilişkin değerlendirme, Yeterlik Sınavı Kurulu üyelerince verilen puanların aritmetik ortalaması alınarak yapılır ve bir tutanakla tespit edilir. Sözlü sınavda başarılı olabilmek için yüz tam puan üzerinden en az yetmiş puan almak şarttır.
+(4) Geçerli bir mazereti olmaksızın sözlü sınava girmeyenler yeterlik sınavında başarısız olmuş sayılır. Mazereti olanlar, mazeret bitiminden itibaren iki ay içinde sınava alınır.

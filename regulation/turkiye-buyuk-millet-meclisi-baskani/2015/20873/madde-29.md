@@ -1,0 +1,2 @@
+Yasama Uzmanlığına atanma
+MADDE 29 – (1) Yeterlik sınavında başarılı olanların Yasama Uzmanı kadrolarına atanabilmeleri, YDS’den asgari (C) düzeyinde puana veya dil yeterliği bakımından bunlara denkliği kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye yeterlik sınavından itibaren en geç iki yıl içinde sahip olma şartına bağlıdır. Yeterlik sınavında başarılı olarak dil yeterlik şartını yerine getirenler Yasama Uzmanı kadrosuna atanır ve bunlara ayrıca bir derece yükselmesi uygulanır.

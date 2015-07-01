@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20873",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BÜYÜK MİLLET MECLİSİ BAŞKANLIĞI YASAMA UZMANLIĞI YÖNETMELİĞİ",
+  "number": "20873",
+  "issuer": "Türkiye Büyük Millet Meclisi Başkanı",
+  "issuer_slug": "turkiye-buyuk-millet-meclisi-baskani",
+  "path": "regulation/turkiye-buyuk-millet-meclisi-baskani/2015/20873",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20873&MevzuatTertip=5",
+  "source_sha256": "d203d6004168741237a420c7427baec84ba45cb1cc7ba15943685e4c6a682754",
+  "source_bytes": 237653,
+  "published": "2015-07-01",
+  "gazette": "29403",
+  "in_force": "2015-07-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.07.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5890,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

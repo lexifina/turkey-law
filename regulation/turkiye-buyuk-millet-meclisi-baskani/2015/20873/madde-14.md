@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Yasama Uzman Yardımcılarının Yetiştirilmesi ve Eğitim Dönemleri
+Yetiştirilme esasları
+MADDE 14 – (1) Yasama Uzman Yardımcısı olarak atananlar, Yasama Uzmanlığının gerektirdiği bilgi, beceri ve etik değerleri kazanmaları amacıyla birimlerin görüşü alınarak İnsan Kaynakları Başkanlığınca hazırlanan ve Genel Sekreter tarafından onaylanan takvim çerçevesinde toplamda en az üç yıldan oluşan üç eğitim döneminden geçerler. Hazırlanacak takvim üç eğitim dönemini kapsayacak şekilde düzenlenir ve birinci eğitim döneminin başında Yasama Uzman Yardımcısına tebliğ edilir.
+(2) Eğitim dönemleri içinde görev alanları ile ilgili olarak İdari Teşkilat yöneticileri ve Yasama Uzmanları ile birlikte konusunda uzman kişiler tarafından Yasama Uzman Yardımcılarına eğitim verilir. Bu süre içinde üç ayı aşan hastalık izni ile doğum izni verilenler, askerlik nedeniyle görevinden ayrı kalanlar, 25/6/1958 tarihli ve 7163 sayılı Türkiye ve Orta-Doğu Amme İdaresi Enstitüsü Teşkilat Kanununun 15 inci maddesi kapsamında tahsillerine devam edenler ve ücretsiz izin kullananların yardımcılık süreleri, ayrı kaldıkları süre kadar uzatılır.

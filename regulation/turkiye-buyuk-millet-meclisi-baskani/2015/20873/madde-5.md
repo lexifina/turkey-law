@@ -1,0 +1,2 @@
+Giriş sınavı ilanı
+MADDE 5 – (1) Giriş sınavı başvuru şartları, sınav konuları, başvuru tarihi, öğrenim dalları, KPSS (A) sonucunda aranacak puan türleri, taban puanları, atama yapılacak Yasama Uzman Yardımcısı kadro sayısı, başvuruda istenen belgeler ile TBMM Başkanlığınca gerekli görülen diğer hususlar, yazılı sınav tarihinden en az iki ay; sınavın yalnızca sözlü olarak yapılması hâlinde sözlü sınav tarihinden en az bir ay önce Resmî Gazete’de ve TBMM’nin resmî internet sitesinde ilan edilir.
