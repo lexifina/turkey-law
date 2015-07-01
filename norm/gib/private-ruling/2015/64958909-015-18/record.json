@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-07-01T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-07-01",
+  "official_number": "64958909-015-18",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29181",
+  "source_id": "ozelge:29181",
+  "source_row_sha256": "944a0b0418d7953a6132d48b0f41826779a3b7a4d30177319224a176552c4435",
+  "title": "KDV İade Talebi (Mahsuben)",
+  "version_label": "as-enacted",
+  "word_count": 769
+}
