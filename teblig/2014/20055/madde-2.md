@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Tebliğ; İmar Kanununun 22 nci maddesi, 29/6/2011 tarihli ve 644 sayılı Çevre ve Şehircilik Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 2 nci maddesi, 2/11/1985 tarihli ve 18916 sayılı Resmî Gazete’de yayımlanan Planlı Alanlar Tip İmar Yönetmeliğinin 57 nci maddesi ile 2/11/1985 tarihli ve 18916 sayılı Resmî Gazete’de yayımlanan Plansız Alanlar İmar Yönetmeliğinin 36 ncı maddelerine dayanılarak hazırlanmıştır.

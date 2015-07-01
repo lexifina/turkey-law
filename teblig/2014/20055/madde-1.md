@@ -1,0 +1,4 @@
+AHŞAP VE ÖN YAPIMLI ÇELİK İLE ALÜMİNYUM ALAŞIMLI BİLEŞENLERDEN OLUŞAN DIŞ CEPHE İŞ İSKELELERİNE DAİR TEBLİĞ
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı; yapılan işin niteliği veya iş yeri alanının çevresel özelliklerinden dolayı imalatların dış cephede yapılmasının zaruri ve çalışanların yüksekten düşme riskinin olduğu bina inşaatlarının dış cephelerinde gerçekleştirilen; duvar, sıva, ısı-ses-su yalıtımı, kaplama, boya, montaj işleri, restorasyon, yıkım-söküm ve benzeri yapım işleri ile onarım ve güçlendirme işleri için kullanılan ahşap ile ön yapımlı çelik ve alüminyum alaşımlı bileşenlerden oluşan dış cephe iş iskelelerinin detay çizimlerinin yapılması ile ruhsat eki statik projeler dâhilinde idareye sunulmasına ilişkin usul ve esasları düzenlemektir.
+(2) Bu Tebliğ 3/5/1985 tarihli ve 3194 sayılı İmar Kanununa göre yapı ruhsatına tabi bina inşaatlarındaki dış cephe iş iskelelerini kapsar.

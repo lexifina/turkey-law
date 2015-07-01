@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20055",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AHŞAP VE ÖN YAPIMLI ÇELİK İLE ALÜMİNYUM ALAŞIMLI BİLEŞENLERDEN OLUŞAN DIŞ CEPHE İŞ İSKELELERİNE DAİR TEBLİĞ",
+  "number": "20055",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2014/20055",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20055&MevzuatTertip=5",
+  "source_sha256": "cbfef443250df5e33f7ac81ba9e3a3c5c4df442d5ccc90e705ea22242671ff60",
+  "source_bytes": 12957,
+  "published": "2014-09-19",
+  "gazette": "29124",
+  "in_force": "2015-07-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/7/2015 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/7/2015 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 571,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20055-ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
