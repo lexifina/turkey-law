@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte yer alan;
+a) Üniversite: Kurucu Vakıf tarafından, 2547 sayılı Kanun ile 2809 sayılı Kanuna göre kurulmuş İstanbul Bilgi Üniversitesini,
+b) Kurucu Vakıf: Bilgi Eğitim ve Kültür Vakfını,
+c) Mütevelli Heyet: İstanbul Bilgi Üniversitesi Mütevelli Heyetini,
+ç) Rektör: İstanbul Bilgi Üniversitesi Rektörünü,
+d) Başkan: Mütevelli Heyetin Başkanını,
+e) Yönetim Kurulu: Üniversitenin Yönetim Kurulunu,
+f) Akademik Kurul: Üniversitenin Akademik Kurulunu,
+g) Fakülte: Üniversitenin fakültelerini,
+ğ) Dekan: Fakültelerin dekanlarını,
+h) Fakülte Kurulu: Fakültelerin fakülte kurullarını,
+ı) Fakülte Yönetim Kurulu: Fakültelerin yönetim kurullarını,
+i) Enstitü: Üniversitenin Enstitülerini,
+j) Müdür: Üniversitenin yüksekokul, meslek yüksekokulu, enstitü, uygulama ve araştırma merkezlerinin müdürlerini,
+k) Bölüm: Üniversitenin akademik birimlerindeki bölümleri,
+l) Bölüm Başkanı: Bölümlerin başkanlarını,
+m) Genel Sekreter: Üniversitenin Genel Sekreterini,
+n) Öğretim elemanları: Üniversitede ders veren öğretim üyeleri, öğretim görevlileri, okutmanlar ile öğretim yardımcılarını,
+ifade eder.

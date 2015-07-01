@@ -1,0 +1,6 @@
+Rektör
+MADDE 13 – (1) Rektör, Yükseköğretim Kurulunun olumlu görüşü alındıktan sonra Mütevelli Heyet tarafından dört yıl süreyle atanır. Rektör olarak atanacak kişinin, profesör akademik unvanına sahip ve 2547 sayılı Kanunun 13 üncü maddesinde öngörülen yaş haddini doldurmamış olması gerekir.
+(2) Mütevelli Heyet, gerekli gördüğü takdirde atanmasındaki usulle Rektörü görevden alabilir.
+(3) Rektörlüğün herhangi bir nedenle boşalması halinde, Mütevelli Heyet, yeni rektör atanıncaya kadar rektörlük kriterlerine uygun bir profesörü, Rektör vekili olmak üzere Yükseköğretim Kuruluna önerir ve Yükseköğretim Kurulunun olumlu görüşü alındıktan sonra Rektör vekili olarak atar. Rektöre vekalet etme süresi altı aydan fazla sürerse, yeni Rektör atanır ve yeni Rektörün atanmasıyla vekillik görevi sona erer.
+(4) Üçüncü fıkra hükümleri saklı kalmak üzere, Rektörün görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil bırakır.
+(5) Rektör, çalışmalarında kendisine yardımcı olmak üzere, Üniversitenin kadrolu profesörleri arasından en çok üç kişiyi Rektör yardımcısı olarak atayabilir. Rektör yardımcılarının sayısı Mütevelli Heyet tarafından tespit edilir. Rektörün görevi sona erdiğinde Rektör yardımcılarının da görevi sona erer. Rektör yardımcıları, görevlendirilmelerindeki usule uygun olarak görevden alınabilirler.
