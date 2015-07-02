@@ -1,0 +1,2 @@
+Yazılı sınav sonuçlarının duyurulması ve sözlü sınava çağrı
+MADDE 14 – (1) Yazılı sınav yapılması halinde yüz tam puan üzerinden en az yetmiş puan alan adaylar arasındaki başarı puan sıralamasına; sadece sözlü sınav yapılması halinde ise KPSSP3 puanı en yüksek olan adaydan başlamak üzere yapılacak puan sıralamasına göre, ilan edilen kadro sayısının en fazla beş katı kadar aday sözlü sınava alınmak üzere Bakanlık resmi internet sitesinde ilan edilerek duyurulur.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.20877",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İÇİŞLERİ BAKANLIĞINA AİT HUKUK MÜŞAVİRİ VE AVUKAT KADROLARINA ATAMA YAPMAK İÇİN UYGULANACAK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "20877",
+  "issuer": "Bakan",
+  "issuer_slug": "bakan",
+  "path": "regulation/bakan/2015/20877",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20877&MevzuatTertip=5",
+  "source_sha256": "05f65f079e8859d4ec435fd4b3572d9f5f8fd24cc3ff907e4b4edcac4cc28b2f",
+  "source_bytes": 41128,
+  "published": "2015-07-02",
+  "gazette": "29404",
+  "in_force": "2015-07-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.07.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2176,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

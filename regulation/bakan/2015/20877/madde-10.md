@@ -1,0 +1,6 @@
+Giriş sınavı komisyonu ve görevleri
+MADDE 10 – (1) Giriş sınavı komisyonu, bir başkan ve dört üye olmak üzere Bakan Onayı ile oluşturulur. Giriş sınavı komisyonu, Personel Genel Müdürünün başkanlığında I. Hukuk Müşaviri ile Bakanlığın diğer birim başkanları arasından belirlenecek üç üyeden teşekkül ettirilir. Mazereti nedeniyle komisyonda görev alamayan asil üyenin yerine vekaleten birim amirliği görevini yürüten Mülki İdare Amiri yedek üye olarak belirlenir. Personel Genel Müdürü ve I. Hukuk Müşaviri, Komisyonun doğal üyesidir.
+(2) Sınav komisyonu başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının katıldığı sınavlarda görev alamazlar.
+(3) Giriş sınavı komisyonu üye tam sayısıyla toplanır ve oy çokluğu ile karar alır. Oylama sırasında çekimser oy kullanılamaz. Karara katılmayanlar karşı oylarını gerekçeleriyle birlikte belirtmek zorundadırlar.
+(4) Giriş sınavı komisyonu; giriş sınavı ile ilgili iş ve işlemler ile giriş sınavının Bakanlıkça yapılması durumunda sınav sorularının hazırlanması, sınav sonuçlarının değerlendirilmesi, ilanı ve yapılacak itirazların sonuçlandırılması ile bu konuya ilişkin diğer iş ve işlemleri yürütür.
+(5) Giriş sınavı komisyonunun sekretarya hizmetleri Personel Genel Müdürlüğü tarafından yürütülür.

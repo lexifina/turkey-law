@@ -1,0 +1,4 @@
+Giriş sınavının değerlendirilmesi ve sonuçlarının duyurulması
+MADDE 16 – (1) Yazılı sınav yapılması halinde, giriş sınavına girenlerin kesin başarı sıralaması yazılı ve sözlü sınavlarda alınan puanların aritmetik ortalamasına göre yapılır. Yalnızca sözlü sınav yapılması durumunda kesin başarı sıralaması adayın sözlü sınavda aldığı puana göre yapılır. Her iki durumda da başarılı olabilmek için en az 70 puan almış olmak gerekir.
+(2) Başarı puanı en yüksek olan adaydan başlanmak suretiyle giriş sınavı duyurusunda belirtilen kadro sayısı kadar asil aday, kadro sayısının yarısını geçmemek üzere komisyon tarafından belirlenen sayıda yedek adayın isimleri ilan edilir.
+(3) Başarı puanının eşitliği halinde; giriş sınavı yazılı ve sözlü olarak iki aşamalı yapıldığı takdirde yazılı puanı yüksek olan adaya, sözlü olarak tek aşamalı yapıldığı takdirde KPSSP3 puanı yüksek olan adaya öncelik verilir.

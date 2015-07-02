@@ -1,0 +1,3 @@
+Giriş sınavı duyurusu
+MADDE 6 – (1) Giriş sınavına katılma şartları, sınavın şekli, sınav tarihi ve yeri, KPSSP3 taban puanı, başvuru yeri, ilk ve son başvuru tarihleri, başvuruda istenecek belgeler, atama yapılması planlanan kadro sayısı ile gerekli görülen diğer hususlar sınav tarihinden en az otuz gün önce Resmî Gazete’de, Türkiye genelinde yayımlanan tirajı en yüksek ilk beş gazetenin en az birinde en az bir defa, Devlet Personel Başkanlığı ile Bakanlık resmi internet sitesinde ilan edilmek suretiyle duyurulur.
+(2) Bakanlıkça ilan edilen kadrolar için adaylardan görev yeri tercih sıralaması istenilmesi durumunda; tercihlerin nasıl yapılacağı ile ilgili hususlar birinci fıkrada belirtilen diğer hususlar arasına ilave edilir.
