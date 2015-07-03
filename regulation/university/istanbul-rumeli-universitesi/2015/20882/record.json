@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-rumeli-universitesi/2015/20882",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29405",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-07-03",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İstanbul Rumeli Üniversitesi",
+  "issuer_slug": "istanbul-rumeli-universitesi",
+  "kind": "regulation",
+  "published": "2015-07-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20882&MevzuatTertip=5",
+  "source_id": "8.5.20882",
+  "source_sha256": "3da3b1f96d303cc46036fb956e849f2dddf657be784855c387f08d318a3bea71",
+  "title": "İSTANBUL RUMELİ ÜNİVERSİTESİ ANA YÖNETMELİĞİ",
+  "university_id": 462,
+  "version_label": "oldest version available",
+  "word_count": 1431
+}
