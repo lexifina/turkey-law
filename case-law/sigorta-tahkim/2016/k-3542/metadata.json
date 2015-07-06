@@ -1,0 +1,15 @@
+{
+  "number": "K-2016/3542",
+  "award_date": "2015-07-06",
+  "heading_as_published": "06.07.2015 Tarih ve K-2016/3542 Sayılı Hakem Kararı",
+  "issue": "Hakem Karar Dergisi 25 Ocak - Mart 2016",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs25.pdf",
+  "source_sha256": "c753501ba3635f9e62b2264b8e65134e563cd05c17e67efbaac3161c30e696ab",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "award text too short in the text layer (image-only pages; no OCR)",
+  "source_images": 5,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
