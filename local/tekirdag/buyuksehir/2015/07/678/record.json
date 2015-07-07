@@ -1,0 +1,20 @@
+{
+  "number": "678",
+  "title": "council decision",
+  "decision_date": "2015-07-07",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/445",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/445/678",
+  "source_sha256": "1f741e8bc0ef80d580421e20636b405fd190c43774d064a7dc19e02954e3cb31",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: catalogue summary appears to concern individual persons; official link only",
+  "in_force": "2015-07-07",
+  "in_force_basis": "Official Birleşim Tarihi: 07.07.2015; adoption date for catalogue metadata; legal commencement not asserted",
+  "session": "1 / Oturum No : 1",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
