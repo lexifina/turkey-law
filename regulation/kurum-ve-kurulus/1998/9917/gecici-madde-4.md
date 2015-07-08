@@ -1,0 +1,1 @@
+Geçici Madde 4- TDİ AŞ ‘nin taraf olduğu kurulan, teşebbüs ile ilgili ( Kıyı Emniyeti ve Gemi Kurtarma İşletmesi ) dava ve icra takipleri ana statünün yürürlüğe girdiği tarihten itibaren kurulan teşebbüs tarafından yürütülür.

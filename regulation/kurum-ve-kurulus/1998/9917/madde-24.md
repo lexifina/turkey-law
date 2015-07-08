@@ -1,0 +1,1 @@
+Madde 24-Kuruluşun ana statüsünde belirtilen tekel konusu işleri münferiden veya ticari maksatla yapanlar, Genel Müdürlüğün tüm zarar ve ziyanını ( kar mahrumiyeti dahil ) meri mevzuat çerçevesinde gidermekle beraber, bu eylem dolayısıyla 815 sayılı Kabotaj Kanunu ve diğer mevcut mevzuat hükümleri uygulanır.

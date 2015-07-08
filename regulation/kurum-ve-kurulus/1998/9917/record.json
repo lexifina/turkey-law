@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.9917",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KIYI EMNİYETİ VE GEMİ KURTARMA İŞLETMELERİ GENEL MÜDÜRLÜĞÜ ANA STATÜSÜ",
+  "number": "9917",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1998/9917",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9917&MevzuatTertip=5",
+  "source_sha256": "3c5076412378655a089251036ef217c711ff44a9b6f6873648d2c5de3d702a60",
+  "source_bytes": 63440,
+  "published": "1998-09-30",
+  "gazette": "23479",
+  "in_force": "2015-07-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/7/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-07-08",
+      "RG-8/7/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3261,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,1 @@
+Geçici Madde 3- Kıyı Emniyeti ve Gemi Kurtarma İşletmesinin 854 ve 1475 sayılı Kanunlara tabi çalışan kapsam içi ve dışı bulunan personelin eski statüleri görev ve sorumlulukları ile almakta oldukları aylık, yan ödeme, ikramiye ve sosyal haklar ile özlük hakları aynen devam eder.

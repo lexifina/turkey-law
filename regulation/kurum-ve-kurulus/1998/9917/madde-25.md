@@ -1,0 +1,4 @@
+Personele İlişkin Hükümler
+Madde 25- Kuruluş ve bağlı ortaklıklarda hizmetler (Değişik ibare:RG-8/7/2015-29410) 4857 Sayılı İş Kanunu ile 854 Sayılı Deniz İş Kanunu hükümlerine göre çalışan işçiler ( Kapsam içi ve Kapsam dışı ) eliyle yürütülür. Kuruluş kapsam dışı personelinin; istihdam şekilleri, atama, göreve son verme, sorumlulukları ve kadro tespiti, ücret, prim, ikramiyeler, yurtdışına gönderme, siyasi faaliyet yasağı vekalet ücretlerinin dağıtımı ile yönetim kurulu üyesi denetçi ve tasfiye kurulu üyelerinin hakları konusunda 399 sayılı KHK’ye 408 sayılı kararname ile eklenen ek madde 1 misüllü işlem yapılır. Kuruluşun kapsam dışı personeli hakkında 399 sayılı KHK‘nın ek birinci maddesinde belirtilen kamu kuruluşlarının 233 sayılı KHK’den önce tabi oldukları iş kanunu hükümleri uygulanır.
+(Mülga ikinci fıkra:RG-8/7/2015-29410)
+(Mülga Üçüncü fıkra:RG-8/7/2015-29410)

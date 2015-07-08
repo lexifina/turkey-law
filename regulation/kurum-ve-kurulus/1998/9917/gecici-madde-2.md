@@ -1,0 +1,1 @@
+Geçici Madde 2- Kıyı Emniyeti ve Gemi Kurtarma İşletmesinin mevcut ve bu ana statüye aykırı olmayan yönetmelikleri, sirküleri, ve genelgeleri, usulüne uygun olarak yenileri yürürlüğe konuluncaya kadar uygulanmaya devam olunur.

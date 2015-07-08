@@ -1,0 +1,2 @@
+Müessese Yönetim Komitesi
+Madde 15- 1. Müessese Yönetim Komitesinin teşkili, görev ve yetkileri ile yönetim komitesi üyelerinin atanmaları, nitelik ve şartları hakkında KHK hükümleri uygulanır. Müessese Müdürünün bulunmadığı hallerde, Kuruluş Genel Müdürünün Yönetim Komitesi Üyeleri arasından görevlendireceği kişi veya Yönetim kurulunun Müessese mensupları arasından tefrik edeceği kimse, Müessese Müdür Vekili olarak Yönetim Komitesine başkanlık yapar.

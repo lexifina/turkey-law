@@ -1,0 +1,1 @@
+Geçici Madde 7- 12.05.1997 Tarih ve 97/9466 sayılı kararname eki kararın 3. maddesinde belirtilen devre konu tüm menkul, gayrimenkul, kara ve deniz araçlarının tescilinden dolayı herhangi bir vergi, resim, harç, intikal vergisi ve KDV alınmaz.
