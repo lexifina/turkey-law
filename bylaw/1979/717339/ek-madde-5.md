@@ -1,0 +1,2 @@
+Ek Madde 5 – (Ek: 16/2/1998 - 98/10653 K.)
+Devlet malı araçla ya da görevliyken trafik kazası sonucu kusuruyla yaralamaya sebebiyet veren memura aylıktan kesme cezasının üst sınırı, ölüme sebebiyet veren memura 10 ay kısa süreli durdurma cezası verilir. Ancak, olayın şekline ya da kusurun derecesine göre; aylıktan kesme cezası gerektiren halde 4 ay kısa süreli durdurma cezası, 10 ay kısa süreli durdurma cezası gerektiren halde ise 12 ay uzun süreli durdurma cezası da verilebilir.
