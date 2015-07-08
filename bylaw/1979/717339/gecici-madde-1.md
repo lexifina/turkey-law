@@ -1,0 +1,2 @@
+Geçici Madde 1 – (Değişik: 28/5/1988 - 88/12992 K.)
+Bu Tüzüğün yürürlüğe girmesinden önce işlenmiş ve henüz cezası verilmemiş veya itiraz ya da dava konusu yapılıp karara bağlanmamış disiplin bozucu eylem, işlem, tutum ve davranışlar için, Bakanlar Kurulunun 23/3/1979 günlü ve 7/17339 sayılı Kararıyla yürürlüğe konulan Tüzük ve anılan Tüzüğün Bakanlar Kurulunun 26/7/1983 tarihli ve 83/6883 sayılı kararıyla yürürlüğe konulan Tüzükle değiştirilen hükümleriyle bu Tüzük hükümleri arasında öngörülen cezalar yönünden fark varsa, memurun lehine olan hükümler uygulanır.

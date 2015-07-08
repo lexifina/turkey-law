@@ -1,0 +1,4 @@
+Ek Madde 1 – (Ek: 26/7/1983 - 83/6883 K.)[8]
+Emniyet Teşkilatı memurlarından, Devlet memurluğundan ya da meslekten çıkarma cezasından başka bir disiplin cezasına çarptırılmış olanlar hakkında, uyarma ve kınama cezalarının uygulanmasından başlayarak beş yıl, diğer cezaların uygulanmasından başlayarak on yıl geçtikten sonra, ilgili, atamaya yetkili amire başvurarak verilmiş olan disiplin cezalarının özlük dosyasından silinmesini isteyebilir.
+İlgilinin yukarıda yazılı süreler içerisindeki davranışları bu isteğini haklı kılacak nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek, bu karar, özlük dosyasına işlenir.
+Kısa süreli ve uzun süreli durdurma cezasının özlük dosyasından silinmesinde, ilgilinin son rütbesine göre yetkili disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.

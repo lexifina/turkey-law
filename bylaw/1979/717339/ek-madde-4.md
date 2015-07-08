@@ -1,0 +1,2 @@
+Ek Madde 4 – (Ek: 28/5/1988 - 88/12992 K.)
+Denetleme ve soruşturmaları uzatan, denetleme raporları ve soruşturma fezlekelerini süresinde ilgili yerlere vermeyen veya göndermeyen ya da neden olmadan soruşturmayı eksik bırakanlara 10 günlükten 15 günlüğe kadar aylık kesimi cezası verilir. Bu durum hizmetin gecikmesine durmasına, aksamasına neden olmuş veya Devlet ya da kişileri zarara uğratmışsa, durumun ağırlığına yahut zararın derecesine göre bir üst derece ceza uygulanabilir.
