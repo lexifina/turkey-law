@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5684",
+  "decision_date": "2015-07-09",
+  "title": "Aksa Gemlik Doğal Gaz Dağıtım A.Ş.’nin 2012-2016 tarife döneminde uygulayacak olduğu perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2015-07-15",
+  "resmi_gazete_number": "29417",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sILIJb6obxc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sILIJb6obxc="
+  ],
+  "source_sha256": "f1c873c7997885ce5c5b798a04c25411d5a61dcf7f66195fd9bf95e09b187bff",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-07-09",
+  "law_text_complete": false
+}
