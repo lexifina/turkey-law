@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 25,
+  "legislative_year": 1,
+  "sitting": 6,
+  "sitting_date": "2015-07-09",
+  "listed_date": "09 Temmuz 2015 Perşembe",
+  "status": "Basılmış",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/25/1/6/f24c92e9-913f-4ade-9cdb-21cca873f6c4.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=fd116b75-9f61-4fea-b4da-0185ceac6960",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=25&YasamaYili=1",
+  "source_sha256": "acbe0d7390c4d80bf7022f163ee0211a1c234b248819e7dca45e34aa21962eff",
+  "source_bytes": 190452,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
