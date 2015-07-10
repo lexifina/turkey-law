@@ -1,0 +1,24 @@
+{
+  "number": "76",
+  "number_as_published": "2015/06/76",
+  "year": 2015,
+  "title": "UKOME’nin 25.08.2014 tarih ve 2014/04/27 sayılı kararı doğrultusunda S plaka satışı için 6. dönemde 51 adet plaka satışı ihale edilmesi",
+  "decision_date": "2015-07-10",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=07.2015",
+  "official_document": null,
+  "source_sha256": "bfa742c02cee9418041825c639b1e593fb4495365eddc7aa941e3b55ba1ff183",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2015-07-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.07.2015; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "06",
+  "listed_subjects": 1
+}
