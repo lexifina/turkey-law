@@ -1,0 +1,2 @@
+Yerli üretim dalı ve başvurunun temsil niteliği
+MADDE 3 – (1) Başvuru aşamasında yapılan incelemede, Yönetmeliğin 20 nci maddesi çerçevesinde başvuru sahibi Petkim Petrokimya Holding A.Ş (Petkim) dışında bilinen başka yerli üretici bulunmadığından Petkim’in yerli üretim dalını temsil niteliğini haiz olduğu tespit edilmiş olup, soruşturma sırasında bu bulguyu değiştirecek bir bilgiye ulaşılmamıştır.

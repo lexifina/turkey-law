@@ -1,0 +1,2 @@
+Genel ithalat
+MADDE 11 – (1) PVC-S ürününün 2011-2013 döneminde tüm ülkelerden gerçekleşen ithalat rakamları incelendiğinde 2011’de 742.595 ton olan ithalatın, 2012 yılında 724.460 tona gerilediği, 2013 yılında ise 844.115 tona yükseldiği görülmektedir. 2011 yılında 1.143 ABD Doları/Ton olan birim fiyatın, 2012 yılında düşerek 1.040 ABD Doları/Ton, 2013 yılında ise 1,106 ABD Doları/Ton olduğu görülmektedir.

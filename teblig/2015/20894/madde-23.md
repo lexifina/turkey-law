@@ -1,0 +1,4 @@
+Üçüncü ülkelerce uygulanan ticaret politikası önlemleri
+MADDE 23 – (1) Hindistan tarafından Çin Tayvanı, Çin Halk Cumhuriyeti, Endonezya, Japonya, Güney Kore, Malezya, Tayland ve ABD menşeli önlem konusu ürüne yönelik olarak 23/1/2008 tarihinde (ref:11/2008) 9,47-147,96 ABD Doları/Ton düzeyindeki uygulanan dampinge karşı önlemler, 6/12/2012 tarihinde (ref:52/2012) 5 yıl daha uzatılmıştır.
+(2) Avustralya tarafından ABD ve Japonya’ya karşı 22/10/1992 yılında uygulamaya konan dampinge karşı önlemler 19/10/2012 tarihinde 5 yıl süreyle uzatılmıştır.
+(3) Çin Halk Cumhuriyeti tarafından, ABD, Çin Tayvanı, G.Kore ve Japonya menşeli PVC-S ürününe 29/9/2003 tarihli ve 48 sayılı Çin Halk Cumhuriyeti resmi gazetesinde yayımlanan kararla %6 ile %84 arasında dampinge karşı önlem yürürlüğe konmuş olup, söz konusu önlemler mezkur ülkenin 28/9/2009 tarihli ve 69 sayılı resmi gazetesinde yayımlanan kararla 5 yıl süreyle uzatılmıştır.
