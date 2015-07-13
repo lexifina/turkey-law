@@ -1,0 +1,4 @@
+Danışma Kurulu
+MADDE 12 – (1) Müdür ve Müdür yardımcıları, Danışma Kurulunun doğal üyeleridir. Danışma Kurulu; bilimsel ve teknolojik araştırma ve uygulamalarla doğrudan ilgisi olan ve sahip olduğu birikim ve deneyimlerinden yararlanılabilecek Üniversite içindeki ve/veya dışındaki kişiler arasından Yönetim Kurulu tarafından seçilir. Danışma Kurulu en az sekiz, en çok on beş kişiden oluşturulur. Danışma Kuruluna özel ve kamu sektörlerinden en az üç temsilci seçilir. Danışma Kurulu üyelerinin görev süreleri üç yıldır.
+(2) Danışma Kurulu yılda en az bir kez Müdürün çağrısı üzerine toplanır. Toplantının gündemi Müdür tarafından hazırlanır. Toplantılarda çoğunluk koşulu aranmaz. Danışma Kurulu Merkezin çalışmaları konusunda ve yeni çalışma alanları üzerine görüş ve önerilerini bildirir.
+(3) Danışma Kurulunun aldığı tavsiye kararları Merkezin faaliyet konularında politika belirlenmesinde dikkate alınır.
