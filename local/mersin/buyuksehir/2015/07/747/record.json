@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "747",
+  "decision_date": "2015-07-13",
+  "title": "- MEC_KAR_ ( yenişehir bahçe 20 L2 PAFTA 1677 A",
+  "listed_as": "747- MEC_KAR_ ( yenişehir bahçe 20 L2 PAFTA 1677 A",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/747--mec-kar---yenisehir-bahce-20-l2-pafta-1677-ada-52-parsel-hisse-satis--",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk86-13-temmuz-2015-meclis-kararlari",
+  "listing_sha256": "1cf7fcbd4e3178c544fc0d29bdd2ffc8396aed9c391544809105fe824c688580",
+  "meeting_title": "MK86-13 TEMMUZ 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
