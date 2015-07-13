@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "680",
+  "decision_date": "2015-07-13",
+  "title": "MEC_ KAR_ (Toroslar,Bahçe Mah,169,3206,3207,32",
+  "listed_as": "680 MEC_ KAR_ (Toroslar,Bahçe Mah,169,3206,3207,32",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/680-mec--kar--toroslarbahce-mah1693206320732083209321032113212-ve-3220322132223223-adalar",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk86-13-temmuz-2015-meclis-kararlari",
+  "listing_sha256": "1cf7fcbd4e3178c544fc0d29bdd2ffc8396aed9c391544809105fe824c688580",
+  "meeting_title": "MK86-13 TEMMUZ 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
