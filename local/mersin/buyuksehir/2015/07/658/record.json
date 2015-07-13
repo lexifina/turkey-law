@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "658",
+  "decision_date": "2015-07-13",
+  "title": "MEC_ KAR_ (Erdemli, Alata mahallesi 032C12D2D",
+  "listed_as": "658 MEC_ KAR_ (Erdemli, Alata mahallesi 032C12D2D",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/658-mec--kar--erdemli-alata-mahallesi-032c12d2d-pafta-334-ada-ve-335-ada-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk86-13-temmuz-2015-meclis-kararlari",
+  "listing_sha256": "1cf7fcbd4e3178c544fc0d29bdd2ffc8396aed9c391544809105fe824c688580",
+  "meeting_title": "MK86-13 TEMMUZ 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
