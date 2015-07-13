@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 9/3/1954 tarihli ve 6343 sayılı Veteriner Hekimliği Mesleğinin İcrasına, Türk Veteriner Hekimleri Birliği ile Odalarının Teşekkül Tarzına ve Göreceği İşlere Dair Kanunun 4, 5, 14, 15, 33 ve 47 nci maddeleri ile 13/9/2006 tarihli ve 26288 sayılı Resmî Gazete’de yayımlanan Türk Veteriner Hekimler Birliği Hizmetlerinin Yürütülmesine İlişkin Uygulama Yönetmeliğinin 113 üncü maddesine dayanılarak hazırlanmıştır.

@@ -1,0 +1,2 @@
+Yaptırım
+MADDE 11 – (1) Bu Tebliğ hükümlerine aykırı davranan veteriner hekimler hakkında, 6343 sayılı Veteriner Hekimliği Mesleğinin İcrasına, Türk Veteriner Hekimleri Birliği ile Odalarının Teşekkül Tarzına ve Göreceği İşlere Dair Kanun ve Türk Veteriner Hekimleri Birliği Hizmetlerinin Yürütülmesine İlişkin Uygulama Yönetmeliği çerçevesinde oda tarafından soruşturma açılarak gerekli disiplin cezası uygulanır. Ayrıca 6343 sayılı Kanunun ilgili maddesi uyarınca, gerektiğinde ilgili Cumhuriyet Savcılığına suç duyurusunda bulunulur.
