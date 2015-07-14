@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-07-14",
+  "issue": "29416",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Hâkimler ve Savcılar Yüksek Kurulu Personeli Disiplin Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150714-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150714.htm",
+  "index_sha256": "48f93fd1678d07571fe94a5cfd90f082ebfcbfe1ac7673200cda813c38318646",
+  "index_header": "14 Temmuz 2015 ... 29416 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150714.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
