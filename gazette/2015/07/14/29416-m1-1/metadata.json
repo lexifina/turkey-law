@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-07-14",
+  "issue": "29416",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI ANDLAŞMALAR",
+  "title": "2015/7801 Türkiye Cumhuriyeti ile Kosova Cumhuriyeti Arasında Serbest Ticaret Anlaşmasının Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150714M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150714M1.htm",
+  "index_sha256": "316070d1c650e7f9ab6de0c94b82889a1c8f890ee3d00dd2f404a8bce6282e3b",
+  "index_header": "14 Temmuz 2015 ... 29416 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150714M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
