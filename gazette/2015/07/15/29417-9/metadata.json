@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-07-15",
+  "issue": "29417",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Taşkömürü Kurumu Genel Müdürlüğü Avukatlık Sınav ve Atama Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150715-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150715.htm",
+  "index_sha256": "3adebbf61e3ec1f8fb589ef70b261610b744fe271342dd1bc96247ccc9ff471b",
+  "index_header": "15 Temmuz 2015 ... 29417 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150715.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
