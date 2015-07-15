@@ -1,0 +1,2 @@
+Tesislere ad verme veya değiştirilme usulü
+MADDE 9 – (1) Genel Müdürlük mülkiyeti ve/veya kullanımında bulunan tesislere verilecek adlar ile Genel Müdürlük mülkiyetinde veya kullanımında olup kulüplere, diğer kurum ve kuruluşlara devredilen, kiralanan, sınırlı ayni hak tesis edilen gençlik ve spor tesislerinin adları Genel Müdürün teklifi ve Bakanın onayı ile (Değişik ibare:RG-15/7/2015-29417) verilebilir ve değiştirilebilir.
