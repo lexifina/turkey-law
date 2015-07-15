@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.20905",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İFLAS İDARESİ ÜCRETİ, YAZI VE TEBLİĞ MASRAFI TARİFESİ HAKKINDA TEBLİĞ",
+  "number": "20905",
+  "issuer": "Adalet Bakanı",
+  "path": "teblig/2015/20905",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20905&MevzuatTertip=5",
+  "source_sha256": "8f5b1b988ac1df4265d70247579051751812947d291a73504b6924602c5e8f9f",
+  "source_bytes": 19126,
+  "published": "2015-07-12",
+  "gazette": "29414",
+  "in_force": "2015-07-15",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 15/7/2015 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 15/7/2015 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 562,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
