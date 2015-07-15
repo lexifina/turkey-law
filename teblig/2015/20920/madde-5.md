@@ -1,0 +1,3 @@
+Gerekçe
+MADDE 5 – (1) 21/3/2015 tarihli ve 29302 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/4) ile mevcut önlemlerin yürürlükte kalma sürelerinin sona ereceği ve bu kapsamda önlem konusu ilgili ürünün yerli üreticilerinin Mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir başvuru ile bir NGGS açılması talebinde bulunabilecekleri ilan edilmiştir.
+(2) Yapılan başvurunun incelenmesi neticesinde, ÇHC, Hindistan, Güney Kore ve Tayvan menşeli önleme konu ürüne uygulanan dampinge karşı önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin olarak bir NGGS açılması için yeterli delillerin bulunduğu anlaşılmıştır.
