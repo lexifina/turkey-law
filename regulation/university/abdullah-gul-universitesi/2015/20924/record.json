@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/abdullah-gul-universitesi/2015/20924",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29419",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-07-18",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Abdullah Gül Üniversitesi",
+  "issuer_slug": "abdullah-gul-universitesi",
+  "kind": "regulation",
+  "published": "2015-07-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20924&MevzuatTertip=5",
+  "source_id": "8.5.20924",
+  "source_sha256": "9310832a0faf8db138262506fcdc8d30aed1f84272d75ca7a44315fff81f26cd",
+  "title": "ABDULLAH GÜL ÜNİVERSİTESİ ÜSTÜN YETENEKLİ ÇOCUKLAR EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 415,
+  "version_label": "oldest version available",
+  "word_count": 1169
+}
