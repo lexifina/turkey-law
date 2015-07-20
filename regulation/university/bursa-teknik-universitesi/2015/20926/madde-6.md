@@ -1,0 +1,23 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Mühendislik, ileri teknolojiler, temel bilimler ve toplum bilimleri alanlarında danışmanlık hizmetleri vermek,
+b) Merkezin amacına uygun olarak, teknoloji geliştirme ve transferi, teknik sorunların çözümü, işletmelerde ve endüstriyel tesislerde kalite ve verimliliğin arttırılması konularında araştırma ve inceleme yapmak,
+c) Seminer, çalıştay, konferans gibi eğitim ve Ar-Ge kültürü oluşturmaya yönelik bilgilendirme toplantıları ile amaca uygun kurslar düzenlemek,
+ç) Laboratuvar analiz ve deneylerinin yapılması ile ilgili teknik destek ve koordinasyon görevlerini yerine getirmek,
+d) Üniversite bünyesinde yürütülen araştırma projeleri ile yüksek lisans ve doktora tez konularında iş dünyası ve sanayicinin bilgilendirilmesini sağlayacak bir mekanizma oluşturmak,
+e) Üniversitede var olan bilgi birikiminin kamu ve özel sektöre sunumu ve bu yolla işbirliğinin geliştirilebilmesine yönelik olarak Üniversite birimleri ile ortak çalışmalar yapmak ve teknik imkânların birimler arası ortak kullanıma açılmasını sağlamak,
+f) Çalışma alanına giren; yenilik (inovasyon) içeren, ürün geliştirme, kalite artırımı ve ürün güvenliğine yönelik Ar-Ge çalışmalarının yapılabilmesi için Üniversitenin çeşitli birimlerinde mevcut laboratuvar ve benzeri tesislerden yaygın ve etkin bir biçimde yararlanılmasını sağlamak,
+g) İlgili kurum ve kuruluşlar, sivil toplum örgütleri ve benzerleri ile ortak projeler üretmek, ortak çalışmalar planlamak,
+ğ) Ar-Ge amaçlı ortak projelerde kullanıma sunulabilecek teknik altyapı için Üniversitede mevcut laboratuvar ve makina-teçhizat envanter çalışması yürütebilecek birim oluşturmak,
+h) Küçük ve orta büyüklükte işletmelerde (KOBİ) kalite bilincinin yerleşmesi, yönetimde kalite uygulamalarının yaygınlaşmasıyla ilgili çalışmalar yapmak, KOBİ’lerin teknolojiyi geliştirme aracı olarak Ar-Ge kaynaklarını kullanımlarına yönelik bilgilendirme ve proje danışmanlığı yapmak, KOBİ’lerin yeni ve ileri teknolojilere uyumunu sağlama, verimliliği arttırma, üretim maliyetlerini düşürme ve teknolojik bilgiyi ticarileştirmek amacıyla iş dünyası ile ortak çalışmalar yapmak,
+ı) İş dünyası temsilcilerinin deneyimlerini Üniversite öğrencileri ile derslerde paylaşmalarını sağlamak,
+i) Üniversitenin lisans ve lisansüstü eğitim-öğretimi yürüten birimlerinde uygulanan müfredatın iş dünyasının beklentilerini de karşılayacak biçimde düzenlenmesi için gerekli girişimlerde bulunmak,
+j) Üniversite öğrencilerinin eğitilmesine ve mezuniyet sonrasında istihdam imkânlarının geliştirilmesine yönelik etkin staj programları oluşturma amaçlı girişimlerde bulunmak,
+k) Yüksek lisans ve doktora öğrencilerinin tez konularının seçiminde ve öğretim elemanları tarafından yürütülen araştırmalarda iş dünyasının beklentilerinin göz önünde bulundurulmasını ve çalışmaların sonuçlarının iş dünyası ile paylaşılmasını sağlamak,
+l) Yerel, ulusal ve uluslararası Ar-Ge amaçlı fon kaynaklarının sanayi yatırımlarında kullanımını sağlayacak bilgilendirme çalışmalarına öncülük yapmak,
+m) Üniversite öğretim elemanlarının eğitim, danışmanlık ve araştırma projelerin de yer almalarını önermek, küçük ve orta ölçekli işletmeler ile aile işletmelerinin kurumsallaşmalarına ve Ar-Ge kapasitelerini arttırmaya yönelik çalışmalara destek vermek,
+n) Üniversitede yürütülen temel ve uygulamalı araştırma sonuçlarını teknolojiye dönüştürerek bölge ve ülke ekonomisine katma değer olarak yansımasını sağlamak, üretim ve hizmet sektörlerinin yeni ve yüksek teknolojileri kullanmasını destekleyerek rekabet gücünü geliştirmeye yardımcı olmak,
+o) Başta proje pazarı ve proje yarışması olmak üzere Merkezin amacı çerçevesinde paneller, bilgi masaları, stantlar, söyleşilerin planlandığı etkinliklerle Üniversite ile toplumun farklı kesimlerini bir araya getirip geleceğe dönük stratejik ortaklıklar için zemin hazırlamak,
+ö) Üniversite-sanayi-iş dünyası-hizmet sektöründen gelebilecek sanayiye uygulanabilir ve ticarileştirilebilir projeleri yatırımcılarla tanıştırarak bir platform oluşturmak,
+p) Gerçekleştirilen başarılı işbirliği örneklerini Üniversite, iş dünyası ve kamuoyuna sunmak üzere çalışmalar yapmak,
+r) Üniversite bünyesinde kurulmuş ve kurulacak olan, merkez laboratuvarı, teknoloji geliştirme bölgesi (teknokent) ve benzeri ekonomik gelişmeye katkı sunan birimlerin koordinasyonunu sağlamak.
