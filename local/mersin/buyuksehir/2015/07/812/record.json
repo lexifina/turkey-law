@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "812",
+  "decision_date": "2015-07-21",
+  "title": "MEC_KAR_ ( makina ikmal çalışma yönetmeliği)",
+  "listed_as": "812 MEC_KAR_ ( makina ikmal çalışma yönetmeliği)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/812-mec-kar---makina-ikmal-calisma-yonetmeligi",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk85-21-temmuz-2015-meclis-kararlari",
+  "listing_sha256": "3385aac07fccb6b61532ddc1393450aeff76c320ab495b89aa49034ed467d764",
+  "meeting_title": "MK85-21 TEMMUZ 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
