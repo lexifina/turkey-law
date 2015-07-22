@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-07-22",
+  "issue": "29422",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Fırat Üniversitesi Yaz Okulu Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150722-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150722.htm",
+  "index_sha256": "015a662182c5e90cc4ee6d9b5fa8c76ef328a45f2e317ad4f84d49bb339bbc6e",
+  "index_header": "22 Temmuz 2015 ... 29422 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150722.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
