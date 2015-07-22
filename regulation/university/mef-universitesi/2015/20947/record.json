@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/mef-universitesi/2015/20947",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29422",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-07-22",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "MEF Üniversitesi",
+  "issuer_slug": "mef-universitesi",
+  "kind": "regulation",
+  "published": "2015-07-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20947&MevzuatTertip=5",
+  "source_id": "8.5.20947",
+  "source_sha256": "d5b376e8771105bd973cff8a68eabfe02d67508a8c8e636d99b87471a1507925",
+  "title": "MEF ÜNİVERSİTESİ ULUSLARARASI GÜVENLİK ÇALIŞMALARI VE STRATEJİK ARAŞTIRMALAR UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 426,
+  "version_label": "oldest version available",
+  "word_count": 968
+}
