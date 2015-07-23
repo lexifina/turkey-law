@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-07-23T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-07-23",
+  "official_number": "B.07.1.GİB.4.34.17.01-KDV 28-70104",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32543",
+  "source_id": "ozelge:32543",
+  "source_row_sha256": "421cbfac366a03db04e264974338546f20d3ddc5ded383b2c1e8b7bd3b38d64a",
+  "title": "Ayakkabı imalinde kullanılacak malzemelerin tesliminde uygulanacak KDV oranı.",
+  "version_label": "as-enacted",
+  "word_count": 570
+}
