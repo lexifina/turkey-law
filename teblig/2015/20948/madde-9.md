@@ -1,0 +1,4 @@
+Süreler
+MADDE 9 – (1) 8 inci maddenin birinci fıkrasında belirtilen bildirimin gönderildiği bütün ilgili taraflar için soru formunu cevaplandırma süresi, soruşturmanın açılışına ilişkin bildirimin gönderildiği tarihten itibaren posta süresi dâhil 37 gündür.
+(2) 8 inci maddenin üçüncü fıkrasında belirtilen bildirimin gönderilmediği bütün ilgili taraflar, soruşturma ile ilgili görüşlerini ve soru formuna ilişkin cevaplarını bu Tebliğin yayımı tarihinden itibaren başlayacak 37 günlük süre içerisinde sunabilirler.
+(3) Soruşturmanın sonucundan etkilenebileceklerini iddia eden 8 inci maddenin altıncı fıkrası kapsamına giren diğer ilgili taraflar, soruşturma ile ilgili görüşlerini bu Tebliğin yayımı tarihinden itibaren soruşturmanın akışını etkilemeyecek şekilde soruşturma süreci içerisinde sunabilirler.

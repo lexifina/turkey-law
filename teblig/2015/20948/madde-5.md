@@ -1,0 +1,5 @@
+Zarar ve nedensellik iddiası
+MADDE 5 – (1) ÇHC menşeli başvuruya konu ithalatın 2012-2014 yılları arasında mutlak olarak arttığı tespit edilmiştir. Aynı dönemde ÇHC menşeli ithalatın toplam Türkiye tüketiminden aldığı payın da artmış olduğu belirlenmiştir.
+(2) 2012-2014 yılları arasındaki dönemde yerli üretim dalının ÇHC menşeli ithalatın birim fiyatları karşısında önemli ölçüde fiyat baskısına maruz kaldığı ve yurt içi birim fiyatlarını üretim maliyetlerini karşılayacak düzeyde belirleyemediği anlaşılmıştır.
+(3) Yerli üretim dalının ekonomik göstergelerine bakıldığında, 2012-2014 yılları arasındaki dönemde üretim miktarı, yurt içi satış miktar ve hasılatı ile toplam kârlılık gibi hayati göstergelerinde önemli ölçüde olumsuzluklar yaşandığı gözlenmiştir. Düşen üretim miktarına paralel olarak firmanın kapasite kullanım oranı ve verimlilik gibi göstergelerinde de olumsuz bir tablonun ortaya çıktığı görülmüştür.
+(4) Başvuru aşamasında sunulan deliller ve ithalata ilişkin resmî istatistikler esas alınarak yapılan tespitler ışığında, dampingli olduğu iddia edilen ithalatın yerli üretim dalının ekonomik göstergelerinde zarara yol açtığı değerlendirilmiştir.
