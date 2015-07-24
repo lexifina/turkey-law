@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-07-24",
+  "issue": "29424",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Ulusal Meslek Standartlarına Dair Tebliğ (No: 2015/11)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150724M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150724M1.htm",
+  "index_sha256": "84fed954d8691cfeb337f0331138fcc7c3710e50b1740e83be26bf58c2091cc3",
+  "index_header": "24 Temmuz 2015 ... 29424 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/07/20150724M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
