@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; Üniversite içinden ve dışından, arıcılık konusunda özellikle Bayburt ve çevresinde arı ırkı ile ilgili çalışmalar yapan, arı yetiştiren, bal üreten, bu alanla doğrudan ilgili ve bu çalışmaları destekleyen; bilgi ve deneyimleri ile tanınan sivil toplum örgütleri, kişi ve istekleri halinde kurum temsilcileri arasından Yönetim Kurulu tarafından belirlenerek Rektör tarafından üç yıl için görevlendirilen en fazla beş üyeden oluşur. Danışma Kurulu, gerektiğinde Müdürün teklifi üzerine Yönetim Kurulu toplantılarına katılır.
