@@ -1,0 +1,23 @@
+Faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Türkiye’nin kalkınmasına, gelişmesine yardımcı olacak ve bölge ülkelerinden gelebilecek talepler için bilimsel ve teknolojik araştırma, geliştirme ve uygulama için gerekli laboratuvar alt yapısını hazırlayarak araç ve gereçlerin teminini ve işlerliğini sağlamak,
+b) Üniversitemiz, ulusal ve uluslararası kamu ve özel sektör kuruluşları ile diğer ülke üniversitelerindeki araştırmacıların, araştırma ve geliştirme çalışmalarına destek vermek, işbirliğini geliştirmek, karşılaştıkları sorunların belirlenmesine ve çözümüne yönelik çalışmalar yapmak,
+c) Çalışma alanına giren araştırmaların yapılabilmesi için gerekli laboratuvar, atölye, gözlem yerleri ve diğer tesisleri kurmak; Üniversitenin çeşitli birimlerinde mevcut laboratuvar ve benzeri tesislerden yaygın ve etkin bir biçimde yararlanılmasını sağlamak,
+ç) İleri analiz, test ve ölçme teknikleri ile ölçme sonuçlarının yorumlanması konularında çeşitli yayınlar yapmak, konferans, panel, kurs, seminer, kongre ve bilimsel toplantılar düzenlemek; yurt içinde ve yurt dışında bu tür etkinliklere katılmak; kütüphane, dokümantasyon merkezi ve sanal laboratuvar kurmak ve bu alanlarda her türlü yayın ve yayım faaliyetlerinde bulunmak,
+d) Disiplinler arası alanlarla ilgili yurt içi ve yurt dışı projeler hazırlamak ya da kamu kurum ve kuruluşlarıyla işbirliği içerisinde çalışmalar yürütmek, destek sağlamak,
+e) Sanayi kuruluşlarının, diğer kamu ve özel sektör kuruluşlarının istekleri doğrultusunda gerekli analiz ve ölçümleri yapmak, raporlarını düzenlemek ve yorumlamak,
+f) Kamu ve özel sektör kuruluşları ile uluslararası kuruluşlara ve kişilere danışmanlık, uzmanlık, bilirkişilik ve benzeri hizmetleri vermek,
+g) Disiplinler arası teknolojilerin değerlendirilmesi ve geliştirilmesi çalışmalarını yürütmek; dünyadaki gelişimini izlemek ve yeni geliştirilen bilimsel bilgilerden yararlanmak,
+ğ) Ürün, yöntem ve teknolojileri standartlaştırmak ve kalite kontrolleri ile ilgili çalışmalar yapmak, bu konularla ilgili düzenleyici işlemlerin değiştirilmesi veya yenilenmesi çalışmalarına katkıda bulunmak,
+h) Merkez çalışmaları sonucu geliştirilen ürün ve teknolojiler için patent almak, patent inceleme birimi kurmak ve patentlerden ürün, üretim teknolojileri geliştirmek ve bunların uygulamasına katkıda bulunmak; Merkezin geliştirdiği teknikleri, teknoloji transferi ve benzeri yasal buluş haklarını ve uygulamalarını öncelikle yurt içi ihtiyacını karşılamak suretiyle yurt dışı kurumların da kullanımına sunmak,
+ı) Benzer amaçlı ulusal ve uluslararası merkezlerle işbirliği yapmak ve bu merkezlerle bir program çerçevesinde eleman değişimlerini gerçekleştirmek,
+i) Araştırma politikaları geliştirmek, çalıştaylar düzenlemek ve bu alandaki birikimleri ilgili kuruluşlarla paylaşmak,
+j) Üniversite öğrencilerinin farklı endüstriyel sektörlerde çalışabilecek bilgi ve becerilerle donanımını sağlamak, mühendislik ve bilimsel çalışmalarını teşvik etmek, öğrenci ve bilim adamı adaylarının uygulama becerilerini geliştirmek,
+k) Sektördeki kuruluşların ilgili sorunlarına yönelik araştırmalar, tasarımlar ve incelemelerle birlikte, endüstriyel ölçekte deneyler yapmak; araştırma, uygulama, eğitim birimleri laboratuvarları kurmak ve işletmek,
+l) Proje fikir pazarı gibi faaliyetlerde bulunmak, Üniversitede geliştirilen bilgi ve uygulama yöntemlerinin ticarileşmesini desteklemek,
+m) Eğitim ve bilgilendirme faaliyetleri yürütmek ve bu amaçla gerektiğinde ulusal veya uluslararası bilimsel ve teknolojik işbirliği de yaparak, hizmet içi eğitim programları, kurslar, seminerler, konferanslar, kongreler, sempozyumlar, paneller, sergiler, fuarlar ve benzeri toplantılar düzenlemek ve başka kuruluşlarca düzenlenenlere katılmak; resim, fotoğraf, şiir, şarkı, kompozisyon, karikatür, senaryo, afiş ve benzeri faaliyetlerle ilgili yarışmalar düzenlemek ve ödül vermek,
+n) Halkı bilgilendirmek için medya kuruluşları ile işbirliği yapmak, broşürler, kitaplar, videolar, basın bildirileri hazırlamak, çağrılı toplantılar düzenlemek,
+o) Laboratuvarların akreditasyonu için çalışmalar yapmak,
+ö) Teknolojik gelişmeleri sürekli izleyerek laboratuvardaki cihazların günün koşullarına uygun olarak geliştirilmesini sağlamak,
+p) Faaliyet alanı kapsamına giren bütün konularda özel sektör ve kamu personeline yönelik eğitimler düzenlemek,
+r) Rektör tarafından Merkezin amaçlarına uygun olarak verilen diğer görevleri yerine getirmek.
