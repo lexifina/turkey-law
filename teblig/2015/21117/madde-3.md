@@ -1,0 +1,2 @@
+Karar
+MADDE 3 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, 4802.55.15.10.00, 4802.55.25.10.00, 4802.55.30.10.00, 4802.55.90.10.00, 4802.56.20.20.00, 4802.56.80.10.00, 4802.57.00.10.00, 4802.58.10.10.00 ve 4802.58.90.10.00 Gümrük Tarife İstatistik Pozisyonları (GTİP)’nda yer alan “baskı ve yazı kağıtları” eşyası ithalatına karşı korunma önlemi uygulanması için İthalatta Korunma Önlemlerine İlişkin Mevzuat kapsamında gerekli şartların oluşmadığına, bu itibarla soruşturmanın önlemsiz kapatılmasına karar vermiştir.
