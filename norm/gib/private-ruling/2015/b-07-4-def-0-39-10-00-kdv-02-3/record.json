@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-07-28T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-07-28",
+  "official_number": "B.07.4.DEF.0.39.10.00-KDV-02-3",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33260",
+  "source_id": "ozelge:33260",
+  "source_row_sha256": "acf4810e2606f6b33944509fdac59b6583628117d54d295e7ae005e7bcea856a",
+  "title": "Doğalgaz kombisine ait yüklenilen KDV nin iadesi",
+  "version_label": "as-enacted",
+  "word_count": 360
+}
