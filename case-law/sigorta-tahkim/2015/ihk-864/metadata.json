@@ -1,0 +1,15 @@
+{
+  "number": "İHK-2015/864",
+  "award_date": "2015-07-28",
+  "heading_as_published": "28/07/2015 tarih ve İHK-2015/864 sayılı İtiraz Hakem Heyeti Kararı.",
+  "issue": "Hakem Karar Dergisi 23 Temmuz - Eylül 2015",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs23.pdf",
+  "source_sha256": "88e75c430004c11bfc225734acd85b2ea047b5956ac717884ebfd73640b94ad3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the published text",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
