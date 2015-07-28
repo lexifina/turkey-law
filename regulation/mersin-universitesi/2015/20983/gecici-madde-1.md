@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte Mersin Üniversitesi Atatürk İlkeleri ve İnkılâp Tarihi Araştırma ve Uygulama Merkezinin tüm yönetim organlarının görevleri sona erer ve bu Merkezin yapılanması bu Yönetmelik hükümlerine göre yeniden düzenlenir.
