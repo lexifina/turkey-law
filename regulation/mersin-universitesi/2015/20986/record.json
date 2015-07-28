@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 22 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2015-07-28",
+      "28.07.2015",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 22 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29428",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-07-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Mersin Üniversitesi",
+  "issuer_slug": "mersin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/mersin-universitesi/2015/20986",
+  "published": "2015-07-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20986&MevzuatTertip=5",
+  "source_bytes": 41825,
+  "source_id": "8.5.20986",
+  "source_sha256": "cf2dc4ad588f27f925f85d779a262c16c7e23e1e78c024bf1a08b1aec5b74d10",
+  "text_status": "as-enacted",
+  "title": "MERSİN ÜNİVERSİTESİ ÇOCUK EĞİTİMİ UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 211,
+  "word_count": 2172
+}

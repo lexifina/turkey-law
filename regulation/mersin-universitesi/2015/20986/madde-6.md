@@ -1,0 +1,21 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları aşağıda sıralanmaktadır:
+a) Çocukların üniversite ortamında genel bilgi ve birikimlerini artırmak, böylece bilimin, sanatın ve kültürün topluma yayılmasına ve bilimsel ve sanatsal araştırma yöntemleriyle erken yaşta tanışan kuşakların yetişmesine katkıda bulunmak,
+b) Okul öncesi, ilköğretim ve ortaöğretim çağındaki bireylerin çağımızın çok yönlü insanı olarak yetişmelerine katkı sağlamak amacı ile çeşitli alanlarda eğitim programları, bilim ve doğa kampları, sergiler, bilim okulları ve uygulamalı öğrenme etkinlikleri düzenlemek,
+c) Akademik çerçevede bilim, sanat, spor ve kültür alanlarında uygulama ortamları yaratarak, çocukların etkileşimli olarak çalışma alışkanlıklarının oluşmasını sağlamak, herhangi bir alanda bilgi sahibi olmak isteyen hedef kitleye bu bilgiyi sağlamak,
+ç) Çocukların erken yaşlarda üniversite ortamı ile tanışmalarını sağlayarak üniversite okumaya olan ilgi ve heyecanlarını artırmak ve hedefler oluşturmasında rehber olmak,
+d) Öğrencilerin meslek tercihinde bulunurken yapacakları hataların önceden giderilmesi ve bu yolla oluşabilecek kaynak dağılımı ve emek piyasası problemlerinin ortadan kaldırılmasına katkı sağlamak,
+e) Öğrencilerin meslek tercihinde bulunurken yapacakları hataların önceden giderilmesi ve bu yolla oluşabilecek kaynak dağılımı ve emek piyasası problemlerinin ortadan kaldırılmasına katkı sağlamak,
+f) Okul öncesi ve ilköğretimde sürdürülebilir eğitimi yaygınlaştırmak,
+g) Toplumun bilimsel bilgiye erişebilirliğini artırmak,
+ğ) Üniversitenin çocuklarla çalışmalar yapması yoluyla toplumla ilgili sorumluluklarını yerine getirmesine ve toplumla daha iç içe olmasına yardımcı olmak,
+h) Çocuklarda bilim, sanat ve spor eğitimi ve etkinlikleri yolu ile Üniversite kültürünün oluşturulmasını sağlamak,
+ı) Çocukların, ailelerin ve eğitmenlerin üniversite ortamında yeni eğitim modellerini tanımalarını sağlamak,
+i) Herhangi bir nedenle bilim, sanat, spor ve kültür alanlarında eğitim alma şansına sahip olamayan çocukların, diğer bireylerle aynı ortamda eğitim almalarını sağlamak, eğitim-öğretim sürecini destekleyecek yazılı ve elektronik yayınlar hazırlamak,
+j) Üniversite imkânlarının Merkezin faaliyetleri kapsamında değerlendirilmesini sağlamak, bilimsel, sanatsal, sportif ve kültürel nitelikli her türlü ulusal ve uluslararası düzeyde faaliyetler düzenlemek, yayın ve yayım etkinliklerinde bulunmak,
+k) Ulusal ve uluslararası düzeyde projeler yazmak, yürütmek ve çocuk faaliyetleri kapsamında yapılan organizasyonlarda işbirliği yapmak,
+l) Yapılacak eğitim-öğretim faaliyetleri ile ilgili olarak akademisyenlerin bilimsel uygulama ve araştırma yapmasına imkân sağlamak,
+m) Hedef kitlenin eğitimi amacı ile yeni etkinlikler geliştirmek, bunların değerlendirilmesini yapmak ve uygulamaları yerel, ulusal ve uluslararası çapta paylaşıma sunmak,
+n) Hedef kitlenin eğitimi ile ilgili stratejiler geliştirmek, bu alandaki mevcut uygulamaları değerlendirmek ve yerel, ulusal ve uluslararası düzeyde güncel yöntemler geliştirilmesine katkı sunmak,
+o) Bilim, kültür ve sanattaki yenilikleri ve birikimleri, eğitim-öğretim müfredatlarıyla ilişkilendirerek çocuklar, öğretmenler ve ailelerle paylaşmak,
+ö) Merkezin programlarına katılan çocuk ve gençlere katılım belgesi vermek.
