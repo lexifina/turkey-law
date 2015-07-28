@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 22 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2015-07-28",
+      "28.07.2015",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 22 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29428",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-07-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Mersin Üniversitesi",
+  "issuer_slug": "mersin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/mersin-universitesi/2015/20989",
+  "published": "2015-07-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20989&MevzuatTertip=5",
+  "source_bytes": 37183,
+  "source_id": "8.5.20989",
+  "source_sha256": "7aef6cec532e0db2cbf20dacea6e0416bf75083d611625c795bb2c85b5dbe49f",
+  "text_status": "as-enacted",
+  "title": "MERSİN ÜNİVERSİTESİ DIŞ TİCARET VE LOJİSTİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 211,
+  "word_count": 1891
+}
