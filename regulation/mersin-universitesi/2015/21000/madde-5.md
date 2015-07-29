@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Devlet sanatçısı Prof. Nevit Kodallı’nın eserlerini toplayarak bir arşiv oluşturmak, el yazması olan notaların tekrar basılmasını sağlayarak gelecek kuşaklara kalmasını temin etmek, eserlerini seslendirerek onların kayıtlarının yapılmasını sağlamak, geleneksel Osmanlı Saray Müziğini kayıt altına almak, çağdaş Türk bestecilerinin eserlerinin notasyonunun tekrar yapılmasını ve bu eserlerin kaydının yapılmasını sağlamak, müzikle ilgili kuruluşlarla ilişkileri kuvvetlendirmek, mevcut bilgi ve deneyimlerle ülkenin bilimsel, sanatsal alt yapısının güçlendirilmesine katkı vermek, ulusal ve uluslararası müzik eğitim öğretimine katkı sağlamak, müzik sanatının tüm alanlarının uygulanması ve geliştirilmesi için sanatsal çalışmalar gerçekleştirmektir.

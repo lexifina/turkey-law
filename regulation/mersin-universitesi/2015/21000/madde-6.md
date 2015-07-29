@@ -1,0 +1,10 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları aşağıda sıralanmaktadır:
+a) Bütün tür ve dalları itibari ile müzik bilimi ve sanatının ulusal ve uluslararası düzeyde geliştirilmesine yönelik bilimsel araştırma, çalışma ve uygulamaların yapılmasını sağlamak, bilimsel araştırma, uygulama ve eğitim faaliyetlerini planlamak, düzenlemek, yönlendirmek, bu faaliyetlere katılmak ve destek vermek,
+b) Merkezin bünyesinde oda orkestrası, çeşitli oda müziği grupları ve benzeri faaliyetleri yürütmek amacıyla oluşturulan çalışma gruplarının yıllık programları ile davet ettiği uluslararası nitelikli yerli ve yabancı sanatçılara öğrencilerle çalışma yaptırmak, özellikle Türk bestecilerinin eserlerini seslendirmek ve kayda almak,
+c) Merkezin amacına yönelik faaliyetlerinin gerçekleştirilmesi yolunda yurt içi ve dışındaki benzer kuruluşlarla işbirliği yapmak, ortak bilimsel-sanatsal proje ve çalışmalar için gerekli girişimlerde bulunmak,
+ç) Ulusal ve uluslararası düzeyde konferans, seminer, sempozyum, kongre, resital, konser, yarışma, kurs, sergi ve benzeri çalışmalar düzenlemek,
+d) Müzik bilim ve sanatına ilişkin tüm bilgilerin öğrenilmesi, geliştirilmesi, yaygınlaştırılması amacıyla, geniş kitlelerin katılımına açık bilimsel/sanatsal çalışmalar düzenlemek, düzenlenen çalışmalara katılmak, görsel/işitsel, süreli/süresiz yayınlar yapmak veya yapılmasına destek olmak,
+e) Müzik kitaplığı, nota koleksiyonu, basma/yazma müzik belgeleri, fotoğraf, afiş, broşür, taş plak, LP, CD, kaset, bant, DVD, LCD, video bandı, film, ses kayıt ve yansıtma cihazları ve benzeri yazılı/sesli/görsel dokümanın yer aldığı müzik arşivi, müziğe ve müzikçilere ilişkin her türlü obje, kişisel eşya ve benzeri koleksiyon ve müze malzemeleri ile çalgı birikimleri oluşturmak, bu birikimleri araştırmacıların ve eğitimin hizmetine sunmak,
+f) Müzik alanlarına ilişkin çalışmalarda danışmanlık ve bilirkişilik yapmak,
+g) Müzik alanındaki çalışmaları ve eğitimi destekleme yönünde başarılı araştırmacı, uygulamacı ve öğrencilere ödüller vermek, verilmesini teşvik etmek.
