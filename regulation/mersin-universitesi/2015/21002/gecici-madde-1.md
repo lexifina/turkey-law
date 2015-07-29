@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte Mersin Üniversitesi Restorasyon ve Koruma Merkezinin tüm yönetim organlarının görevleri sona erer ve bu Merkezin yapılanması bu Yönetmelik hükümlerine göre yeniden düzenlenir.
