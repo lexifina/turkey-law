@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 22 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2015-07-29",
+      "29.07.2015",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 22 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29429",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-07-29",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Mersin Üniversitesi",
+  "issuer_slug": "mersin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/mersin-universitesi/2015/20996",
+  "published": "2015-07-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20996&MevzuatTertip=5",
+  "source_bytes": 39336,
+  "source_id": "8.5.20996",
+  "source_sha256": "9551a44d73d3697ce5ff159576e77b0e279555761b89105baff1f00d3a8dbc77",
+  "text_status": "as-enacted",
+  "title": "MERSİN ÜNİVERSİTESİ KADIN SORUNLARINI ARAŞTIRMA VE\r\nUYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 211,
+  "word_count": 2018
+}
