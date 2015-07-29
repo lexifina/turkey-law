@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.20993",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ BELİRLİ GIDALARDA DİOKSİNLERİN, DİOKSİN BENZERİ POLİKLORLU BİFENİLLERİN VE DİOKSİN BENZERİ OLMAYAN POLİKLORLU BİFENİLLERİN SEVİYESİNİN RESMİ KONTROLÜ İÇİN NUMUNE ALMA, NUMUNE HAZIRLAMA VE ANALİZ METODU KRİTERLERİ TEBLİĞİ (TEBLİĞ NO: 2015/32)",
+  "number": "20993",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2015/20993",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20993&MevzuatTertip=5",
+  "source_sha256": "ddc923945e04d4d22e22339dae34ac0c6c9d21718fdde6373d2d9e45179f3d07",
+  "source_bytes": 24013,
+  "published": "2015-07-29",
+  "gazette": "29429",
+  "in_force": "2015-07-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.07.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1116,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20993-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
