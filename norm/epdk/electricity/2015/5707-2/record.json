@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5707/2",
+  "decision_date": "2015-07-30",
+  "title": "Tahmini Tüketim Değeri Belirleme Metodolojisi",
+  "resmi_gazete_date": "2015-08-08",
+  "resmi_gazete_number": "29439",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QJjvxM94VoU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QJjvxM94VoU="
+  ],
+  "source_sha256": "37db47aeed4bfc9a4c6f3d54b0ec24b2a3bf7b3616647737a3831cd140a650c7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-07-30",
+  "law_text_complete": false
+}
