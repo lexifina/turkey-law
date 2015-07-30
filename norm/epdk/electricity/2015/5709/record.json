@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5709",
+  "decision_date": "2015-07-30",
+  "title": "2016 yılı Ekim ayında alınacak rüzgâr enerjisine dayalı önlisans başvurularına ilişkin Kurul Kararı",
+  "resmi_gazete_date": "2015-08-08",
+  "resmi_gazete_number": "29439",
+  "categories": [
+    "Başvuru"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HJsVlPil0fw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HJsVlPil0fw="
+  ],
+  "source_sha256": "79ec7742dc8bb0c125ba6292b5e2ea01bff3120cd5d31c09b1f153399aefd2ee",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33883,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-07-30",
+  "law_text_complete": false
+}
