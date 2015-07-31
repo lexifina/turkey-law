@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.21008",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ İNSAN TÜKETİMİNE SUNULAN HIZLI DONDURULMUŞ GIDALARDA SICAKLIĞIN RESMİ KONTROLÜ İÇİN KONTROL NOKTALARININ SEÇİLMESİ VE ÖLÇÜM METODU TEBLİĞİ (TEBLİĞ NO: 2015/34)",
+  "number": "21008",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2015/21008",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21008&MevzuatTertip=5",
+  "source_sha256": "42d216969670893e63bebc6299e8f2d368deebdef95c43c2ce2f7c0c75310d85",
+  "source_bytes": 23334,
+  "published": "2015-07-31",
+  "gazette": "29431",
+  "in_force": "2015-07-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.07.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 903,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
