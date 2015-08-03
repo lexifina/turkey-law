@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-08-03",
+  "issue": "29434",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2015/7983 İthalat Rejimi Kararına Ek Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150803M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150803M1.htm",
+  "index_sha256": "bf4e985e17fd4b947c90450cd5e1dc354d6bcef23e26ce1e1ca3e95a13b37328",
+  "index_header": "3 Ağustos 2015 ... 29434 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150803M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
