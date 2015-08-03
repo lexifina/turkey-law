@@ -1,0 +1,2 @@
+Yönetim kurulunun görevleri
+MADDE 11 – (1) Yönetim Kurulunun görevleri; Başhekim ve Hastane Başmüdürünce veya gündeme göre ilgili birimlerce hazırlanan çalışma raporlarını, istatistikî verileri görüşmek ve yapılan çalışmaları denetlemek, tüm hastane birimlerinin verimli bir işletmecilik anlayışı içinde çalışmasını sağlamak amacıyla gerekli işbirliği ve koordinasyonu sağlamak, yeni hedefleri belirlemek ve gelişme planlarını onaylamaktır.
