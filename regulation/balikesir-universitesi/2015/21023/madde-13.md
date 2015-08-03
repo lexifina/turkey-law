@@ -1,0 +1,3 @@
+Birim Sorumluları ve görevleri
+MADDE 13 – (1) Merkezin bünyesinde amaca uygun olarak oluşturulmuş birimlere Müdür tarafından, Üniversitede alanlarında uzman olan en az doktora derecesine sahip akademik personel arasından, Birim Sorumluları atanabilir. Müdür gerekli gördüğünde Birim Sorumlularını değiştirebilir. Müdürün görevi sona erdiğinde Birim Sorumlularının da görevi sona erer.
+(2) Birim Sorumluları Merkezdeki cihazlar ve diğer malzemelerin etkin kullanımından, personelin çalışması ve işlerin hızla sonuçlandırılmasından, test, ölçüm ve analizlerin etik kurallara uygun olarak yürütülmesinden, Müdüre ve/veya ilgili Müdür Yardımcısına karşı sorumludurlar.
