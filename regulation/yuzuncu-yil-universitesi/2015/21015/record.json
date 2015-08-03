@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.21015",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "YÜZÜNCÜ YIL ÜNİVERSİTESİ YABANCI DİLLER YÜKSEKOKULU HAZIRLIK SINIFI EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "21015",
+  "issuer": "YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+  "issuer_slug": "yuzuncu-yil-universitesi",
+  "path": "regulation/yuzuncu-yil-universitesi/2015/21015",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=21015&MevzuatTertip=5",
+  "source_sha256": "129439af521bbb6783abe2e8cc2fbc2da3b6f1d48e0cd759d705549713f0d31e",
+  "source_bytes": 31146,
+  "published": "2015-08-03",
+  "gazette": "29434",
+  "in_force": "2015-08-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.08.2015); own commencement article: \"Bu Yönetmelik 2015-2016 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2015-2016 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1589,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

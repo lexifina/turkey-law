@@ -1,0 +1,4 @@
+Yabancı dil hazırlık sınıfı eğitim-öğretim programları
+MADDE 11 – (1) Yabancı dil hazırlık sınıfı eğitim-öğretim programı, Senato tarafından belirlenen akademik takvime göre bir akademik yılda iki dönem olarak uygulanır; her dönem içi ve sonu sınavlarıyla birlikte 260 saatten az olmamak üzere programlanır.
+(2) Yabancı dil hazırlık sınıfında her dönem haftada 24 ders saati uygulanır. Bu program akademik yılın başında ilgili Yabancı Dil Hazırlık Birim Koordinatörü tarafından belirlenen ve Avrupa Birliği Ortak Çerçeve Programı standartlarını karşılayan bir kaynak kitap serisinin ek materyallerle desteklenmesi suretiyle yürütülür.
+(3) Dönemlerin haftalık ders programları ve saatleri akademik yıl başlangıcında, Yabancı Diller Müdürlüğü ve Hazırlık Programı Birim Koordinatörlerinin ortaklaşa çalışmaları ile belirlenir ve ilan edilir.

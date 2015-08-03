@@ -1,0 +1,2 @@
+Hazırlık Birim Koordinatörü
+MADDE 6 – (1) Yabancı Diller Yüksekokulu müdürü her yabancı dil için bir Hazırlık Birim Koordinatörü tayin eder. Hazırlık Birim Koordinatörü; tayin edildiği yabancı dil hazırlık programında görev alacak öğretim elemanlarının belirlenmesi, öğretim planının hazırlanması, sınıfların oluşturulması, birimdeki öğretim elemanları arasındaki koordinasyonun sağlanması, ders materyallerinin ve sınav sorularının hazırlanması ve değerlendirilmesinden sorumludur.
