@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-08-04",
+  "issue": "29435",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Mevlana Değişim Programına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150804-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150804.htm",
+  "index_sha256": "f0720b6ce00a744d0f864b24a05c5de9d6fad53257e61fc8da92d3753cbe280e",
+  "index_header": "4 Ağustos 2015 ... 29435 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150804.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
