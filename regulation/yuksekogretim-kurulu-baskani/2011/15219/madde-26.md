@@ -1,0 +1,2 @@
+Öğretim elemanı hareketliliği belgeleri
+MADDE 26 – (1) Faaliyete katılan öğretim elemanları, faaliyet sonrası eğitim-öğretim programının süresini de belirtecek şekilde gidilen yükseköğretim kurumunca hazırlanan imzalı ve mühürlü Faaliyet Katılım Belgesi ile kendileri tarafından hazırlanan Öğretim Elemanı Hareketliliği Nihai Raporunu, faaliyetin tamamlanmasından sonra en geç 15 gün içinde ilgili yurtiçi yükseköğretim kurumlarının Mevlana Değişim Programı kurum koordinasyon ofisine elden, posta veya elektronik posta yoluyla teslim ederler.

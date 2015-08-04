@@ -1,0 +1,2 @@
+Akademik tanınırlık
+MADDE 16 – (1) Yükseköğretim kurumları, eğitim-öğretim faaliyetlerine tam tanınırlık sağlar. Öğrenim hareketliliği başlamadan önce tanımlanmış derslerle ilgili program, tüm taraflarca öğrenim protokolü imzalanması suretiyle yazılı olarak teyit edilir. Yükseköğretim kurumları değişim programı sonunda başarılı olunan tüm derslerin kredileri ile denkliklerini kabul etmek ve başarılı saymak zorundadır. Bu dersler diploma ekinde belirtilir.

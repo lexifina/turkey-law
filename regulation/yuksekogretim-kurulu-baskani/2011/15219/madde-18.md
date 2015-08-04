@@ -1,0 +1,2 @@
+Öğrenci kabul belgesi
+MADDE 18 – (1) Öğrenciyi kabul eden yükseköğretim kurumu, öğrenim protokolünün imzalanmasından sonra, bir nüshası ilgili öğrenciye diğer nüshası öğrencinin asıl kaydının bulunduğu yükseköğretim kurumuna verilmek üzere, ilgili öğrencinin Mevlana Değişim Programı öğrencisi olarak kabul edildiğini gösteren onaylı ve imzalı bir Öğrenci Kabul Belgesi hazırlar. Mevlana Değişim Programı öğrencisi olmaya hak kazanan tüm öğrencilere Mevlana Değişim Programı Öğrencisi Beyannamesi imza karşılığı teslim edilir.

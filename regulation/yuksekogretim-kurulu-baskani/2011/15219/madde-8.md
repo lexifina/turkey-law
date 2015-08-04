@@ -1,0 +1,2 @@
+Yurtdışı işlemler
+MADDE 8 – (1) Protokollerde imzası bulunan yurtiçi yükseköğretim kurumları değişimin gerçekleştirilmesi ile ilgili tüm işlemlerin imzacı yurtdışı yükseköğretim kurumlarınca yerine getirilmesi konusunda gerekli tedbirleri almakla yükümlüdür. Mevlana Değişim Programını imzalayarak bu programa katılan yurtdışı yükseköğretim kurumları, değişimin işleyişi konusunda bu Yönetmelik hükümlerine tabi olduklarını protokollerde kabul ederler.

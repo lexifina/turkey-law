@@ -1,0 +1,2 @@
+Özel burslu ya da burssuz öğrenci değişimi
+MADDE 21 – (1) Mevlana Değişim Programı öğrencisi değişimi için yükseköğretim kurumuna ayrılan kaynağın yetersiz kalması durumunda, programın diğer şartlarına uyulması kaydıyla öğrencinin kendi imkânı ya da özel burslar yoluyla değişimi gerçekleştirmesine imkân sağlanabilir. Özel burslu ya da burssuz Mevlana Değişim Programı öğrencileri için de bu Yönetmelik hükümleri geçerlidir.
