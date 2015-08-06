@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5716/1",
+  "decision_date": "2015-08-06",
+  "title": "Elektrik Piyasasında Perakende Satış Sözleşmesi",
+  "resmi_gazete_date": "2015-08-25",
+  "resmi_gazete_number": "29456",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=58aKbaf08Hs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=58aKbaf08Hs="
+  ],
+  "source_sha256": "643916307cb2c587acae6696e583b926b0f08c341b57682d3ccac750173c6254",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2015-08-06",
+  "law_text_complete": false
+}
