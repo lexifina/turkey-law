@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5723/2",
+  "decision_date": "2015-08-06",
+  "title": "2015 (4.Çeyrek) Primer Frekans Kontrol Birim Hizmet Bedeli Tarifesi",
+  "resmi_gazete_date": "2015-08-09",
+  "resmi_gazete_number": "29440",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=18iJT/Oj9ME=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=18iJT/Oj9ME="
+  ],
+  "source_sha256": "b0e53787fd2cbb7bb41793e13ce64cbd4dfc9b23cc847f30d0464dced49423a4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2015-08-06",
+  "law_text_complete": true
+}
