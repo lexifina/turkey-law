@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Danışma Kurullarının Oluşumu, Görevleri ve Çalışma Usulleri
+Danışma kurullarının oluşumu ve görevleri
+MADDE 5 – (1) Kurumun 2954 sayılı Kanunda belirtilen görevleri çerçevesinde; radyo ve televizyon yayınları hakkında kamuoyunun düşünce ve dileklerini tespit etmek, ilmi veya teknik araştırmalar yaptırmak veya lüzumlu görülecek konularda özel ihtisaslarından yararlanmak amacıyla Yönetim Kurulu veya Genel Müdür tarafından, (Mülga ibare:RG-6/8/2015-29437) (…) geçici danışma kurulları oluşturulabilir.
+(2) (Ek:RG-6/8/2015-29437) Danışma kurulları, en az 3, en fazla 9 kişiden oluşmak üzere ihtisas konusuna göre ayrı ayrı oluşturulur. Radyo ve Televizyon yayınları hakkında kamuoyunun düşünce ve dileklerini tespit etmek üzere oluşturulacak kurul Yönetim Kurulu tarafından, diğer konularda oluşturulacak kurullar Genel Müdür tarafından oluşturulur.
+(3) (Ek:RG-6/8/2015-29437) Kurulda görev alacak üyelerde, kurulun oluşturulduğu konuda; kurum çalışanlarının, özel yarışma sınavı ile girilerek belirli süreli meslek içi eğitimden sonra özel bir yeterlik sınavı sonunda atama yapılan kadrolarda veya avukat, mühendis, uzman tabip kadrolarında veya kurumun ilgili birimlerinde en az müdür düzeyinde görev almış olması, kurum dışı kişilerde ise kamu veya özel sektörde ilgili konuda temayüz etmiş olması şartı aranır.
+(4)(1) Belirlenen danışma kurulu üyelerine; danışma konusu, kurul bütçesi, kurul üyelerinin isimleri, ihtisas konuları ve çalışma süreleri bildirilir.
