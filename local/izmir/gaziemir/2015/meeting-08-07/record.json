@@ -1,0 +1,24 @@
+{
+  "number": "meeting-08-07",
+  "number_as_published": "meeting-08-07",
+  "year": 2015,
+  "title": "07.08.2015 KARAR ÖZETİ",
+  "decision_date": "2015-08-07",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=50",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/5018368607133c4adae4805bb265e8b95018368607133c4adae4805bb265e8b9.doc",
+  "source_sha256": "51299262de6f7e40bece6f5ac701d6615967900d88a5d8feee28bf724f52923b",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-08-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.08.2015; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07.08.2015 KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "28.08.2015"
+}
