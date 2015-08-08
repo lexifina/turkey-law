@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 10 – (1) Öğrenciler, sınav sonuçlarına, sınav sonuçlarının ilan tarihini izleyen günden itibaren 7 gün içinde maddi hata yönünden itiraz edebilirler. İtiraz bir dilekçe ile Yüksekokul Müdürlüğüne yapılır. İtiraz müdür yardımcısı başkanlığında Bölüm Başkanı ve ilgili dersin öğretim elemanından oluşan komisyon tarafından incelenir. Yapılan inceleme sonucunda herhangi bir maddi hata tespit edilmesi durumunda söz konusu hata, Yüksekokul Yönetim Kurulu kararı ile düzeltilir ve sonuç ilan edilir.
