@@ -1,0 +1,12 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Mevcut ulaşım teknolojileri ve politikalarındaki gelişmeleri takip ederek bunlar için bir standart oluşturmak ve öneriler geliştirip yetkili kurumlara sunmak.
+b) Gelecekte uygulanabilir ulaşım teknolojileri üretmek.
+c) Günümüz ulaşım teknolojilerinin uygulanmasında, yürütülmesinde ve denetiminde ilgili mercilere danışmanlık ve müşavirlik hizmeti vermek.
+ç) Türkiye ve bölge düzeyinden başlamak üzere, strateji planları, bölge planları, milli park ve koruma alanları, uzun devre gelişme planları, çevre düzeni planları, çeşitli ölçeklerdeki nazım ve uygulama imar planları, coğrafi bilgi sistemi çalışmaları, haritalama çalışmaları, yaya ulaşım planları, otopark ulaşım planları, engelsiz mekân, lojistik ulaşım planları, taksi ulaşım planları, afet, kampüs planlaması, havza planlaması, fizibilite projeleri, trafik etütleri, kent merkezi, alış veriş merkezleri, eğitim kurumları, sağlık kurumları, organize sanayi bölgeleri için uygulama projeleri ve çözümlemeleri yapmak.
+d) Merkezi Hükümetin kurum ve kuruluşları, yerel yönetim idareleri, valilik, kaymakamlık, büyükşehir, il, ilçe belediyeleri, kalkınma ajansları, özel kişiler, şirketler, birlikler, kooperatifler, odalar, organize sanayi bölgeleri ve ulusal veya uluslararası kurum/kuruluşlar ile yapılacak protokoller ile nazım imar planı, ulaşım ana planı ve benzeri planlama çalışmalarını yapmak ve bu planların alt bileşenleri olan trafik ana planı, trafik etüdü, yaya ana planı, otopark ana planı, kentsel erişilebilirlik etütleri gibi alt planlama çalışmalarını yapmak, gerektiğinde yapılan bu planlama çalışmalarının kontrolörlüğünü ve danışmanlığını yapmak.
+e) Güncel ulaşım teknolojilerini ve uygulamalarını yerinde incelemek amacıyla yurt içi ve dışı teknik geziler tertip etmek.
+f) Güncel ulaşım teknolojileri ve politikaları konusundaki en son gelişmeleri takip etmek için bilimsel toplantılar düzenlemek ve bu tip toplantılara Merkez ekibinin katılımını sağlamak.
+g) Yurt dışı ya da yurt içinden kamu ya da özel sektör kurum/kuruluşlarından talep edilen ve uygun görülen hizmetlerin verilmesi için ortak projeler geliştirmek.
+ğ) Bünyesinde görev alan Türkiye Cumhuriyeti vatandaşı ya da yabancı uyruklu lisans ve lisansüstü öğrencileri ile akademisyenlerin çalışma konularına ilişkin laboratuvarlar kurmak, akademik faaliyetleri için mekân ve staj imkânı sağlamak.
+h) Yurt dışı ve yurt içi yükseköğretim kurumları ile öğretim elemanı ve araştırmacı hareketliliğine katkıda bulunmak, olanak sağlamak.
