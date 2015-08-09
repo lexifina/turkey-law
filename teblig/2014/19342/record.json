@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.19342",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE HAZIR BETON BİRLİĞİ-KALİTE GÜVENCE SİSTEMİ İKTİSADİ İŞLETMESİ ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (MHG/2014-03)",
+  "number": "19342",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2014/19342",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19342&MevzuatTertip=5",
+  "source_sha256": "fa58a5036de88e42b15de8aff072ca1c48a377a9ea186fde84e548337a0c4b35",
+  "source_bytes": 32648,
+  "published": "2014-01-24",
+  "gazette": "28892",
+  "in_force": "2015-08-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/8/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-08-09",
+      "RG-9/8/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-03-05",
+      "RG-5/3/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 526,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://ec.europa.eu/enterprise/newapproach/nando/index.cfm?fuseaction=notification.html&dir_id=3&ntf_id=206761&version_no=23&lst_version_no=23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1&max_version=23&history_flg=Y##"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
