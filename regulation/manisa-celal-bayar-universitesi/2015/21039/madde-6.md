@@ -1,0 +1,4 @@
+Ders muafiyeti ve intibaklar
+MADDE 6 – (1) Fakülteye ilk kez kayıt yaptıran bir öğrenci, daha önceki yüksek öğretim kurumlarından almış ve başarmış olduğu ortak zorunlu dersler için muaf olma başvurusunu, kayıttan sonraki ilk hafta içinde yapar. Başvurular iki hafta içerisinde karara bağlanır.
+(2) Öğrencinin ders muafiyetine, MÖEK görüşü dikkate alınarak Fakülte Yönetim Kurulu tarafından karar verilir. Muafiyet, ders kurulları için uygulanmaz.
+(3) Öğrenciler ortak zorunlu yabancı dil dersi seviye tespit sınavından 65 ve üstü not almaları durumunda veya Üniversitelerarası Kurul tarafından denkliği kabul edilen diğer yabancı dil sınavlarından başarılı olması durumunda ortak zorunlu yabancı dil dersinden muaf sayılırlar. Diğer yabancı dil sınavlarından alınan puanların denkliği senato tarafından belirlenir.

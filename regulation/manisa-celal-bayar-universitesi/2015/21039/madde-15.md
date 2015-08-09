@@ -1,0 +1,7 @@
+Ortak zorunlu ve seçmeli dersler
+MADDE 15 – (1) Fakültede, Yükseköğretim Kurulunun belirlediği esaslara göre 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde yer alan ortak zorunlu ve seçmeli dersler okutulur.
+(2) Ortak zorunlu derslerden alınan notlar, genel başarı notunun hesaplanmasına dahil edilmez.
+(3) Ders programı kitabı oluşturulmadan önce, öğrencilerin geri bildirimleri ve/veya öğretim üyelerinin önerileri doğrultusunda seçmeli ders havuzu oluşturulur. İlgili öğretim üyesi, seçmeli dersin amaç, hedef, başarı kriterleri ve varsa ön koşulları ile ders içeriklerini dönem koordinatörü aracılığı ile MÖEK’e sunar. MÖEK tarafından uygun görülen seçmeli dersler, Fakülte Kurulu tarafından onaylanarak ders programı kitabına alınır.
+(4) Öğrenciler, eğitim döneminin ilk haftası içinde seçmeli dersler için en az 3 tercih yaparlar. Seçmeli dersin açılabilmesi için en az 5 öğrenci tarafından tercih edilmesi gerekir. Tercih sırasına ve dersin kontenjanına göre öğrencilerin seçmeli derslerden birine kaydı yapılır.
+(5) Seçmeli derslere devam zorunluluğu vardır. Başarı durumu, “Başarılı” veya “Başarısız” şeklinde dersi veren öğretim üyesi tarafından belirlenir. Seçmeli dersten başarısız olan bir öğrenci kaldığı veya başka bir seçmeli dersi alır.
+(6) Fakülteden mezun olabilmek için öğrencinin ilk 4 yarıyıl içerisinde en az 2 seçmeli dersten başarılı olması gereklidir.

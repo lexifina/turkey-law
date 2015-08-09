@@ -1,0 +1,2 @@
+Öğrenime ara verme
+MADDE 20 – (1) Öğrenciler, belgeleyecekleri önemli ve haklı nedenlerinin bulunması veya eğitim-öğretimlerine katkıda bulunacak yurtdışı burs, staj ve araştırma gibi imkânların doğması halinde, Fakülte Yönetim Kurulu kararı ile normal öğrenim süresinin yarısı kadar süre akademik izinli sayılabilirler. Bu süreler azami öğrenim süresinden sayılmaz. Ancak sürekli sağlık sorunları olan ve bu durumu sağlık raporu ile belgeleyenler bu süre kısıtlaması dışındadır. Bu şekilde izin alan öğrenciler derslere devam edemez ve öğrencilik haklarından yararlanamaz.
