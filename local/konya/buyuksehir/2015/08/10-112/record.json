@@ -1,0 +1,25 @@
+{
+  "number_in_summary": 112,
+  "number_basis": "item number printed in the summary",
+  "official_decision_number": null,
+  "title": "(Büyükşehir Belediyesi) Meram İlçesi, Karaağaç Mahallesi, M28C14D pafta, 126 ada, 7 parsel ile ilgili imar plan tadilat teklifinin görüşülmesine dair İmar ve Bayındırlık Komisyonu raporunun aynen kabulüne,",
+  "decision_date": "2015-08-10",
+  "meeting_date": "2015-08-10",
+  "summary_heading": null,
+  "summary_title": "KARAR ÖZETİ (10.08.2015)",
+  "source": "https://www.konya.bel.tr/meclis/icerik-getir?tarih=2015-08-10&tur=2",
+  "source_page": "https://www.konya.bel.tr/meclis-encumen/meclis-gundemi-ve-kararlari?karar_yil=2015&karar_ay=8",
+  "source_sha256": "d253f3c45a0d441be43c234efd565f610df9b6ac695f9d3d324cbc6ac55c1bc9",
+  "issuer": "Konya Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary item as published in the council's Karar Özeti; complete decision text is not published in this register",
+  "in_force": "2015-08-10",
+  "in_force_basis": "Official toplantı tarihi 2015-08-10 (the summary prints no dated heading); adoption date for the summary item; legal commencement not asserted",
+  "missing": [
+    "official decision number (not printed in the summary)",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
