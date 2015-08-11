@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-08-11",
+  "issue": "29442",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "MİLLETLERARASI SÖZLEŞME",
+  "title": "2015/7936 Tır Karneleri Himayesinde Uluslararası Eşya Taşınmasına Dair Gümrük Sözleşmesinde Değişiklik Yapılmasına İlişkin Farklı Tarihlerde Kabul Edilen Metinlerin Onaylanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150811-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150811.htm",
+  "index_sha256": "49c69f5dc81ff329313724035f570f61fd16e88750164d55eb635d65013f1d3e",
+  "index_header": "11 Ağustos 2015 ... 29442 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150811.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
