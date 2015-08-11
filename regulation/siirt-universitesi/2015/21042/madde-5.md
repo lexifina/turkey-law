@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları; veteriner sağlık sistemini etkinleştirmek, Merkeze başvuran acil ve diğer hasta hayvanlara modern poliklinik ve klinik sağlık hizmeti sunmak, veteriner hekim ve veteriner sağlık personeli yetiştirmek, bilimsel uygulama ve araştırma yapma olanağı sağlamak amacıyla Veteriner Fakültesi ve Üniversite bünyesindeki veteriner sağlık hizmetleri ile ilgili alanlarda eğitim-öğretim veren fakülte, enstitü, yüksekokullar, uygulama ve araştırma merkezleri başta olmak üzere, diğer kurumlarla işbirliği yapmak, eğitim ve sağlık hizmetlerinin verimliliğini ve niteliğini artırmak, bilimsel uygulama ve araştırmaların en üst düzeyde gerçekleşmesi için araştırma koşullarını hazırlamak, Merkezin stratejik planı ve hedefleri çerçevesinde modern hastane işletme yönetimi ilkeleri doğrultusunda faaliyette bulunması ve bölgesel kaliteli hayvan sağlık hizmeti vermesini sağlamaktır.
