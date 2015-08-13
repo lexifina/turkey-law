@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-02-04",
+      "04.02.2011",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2015-08-13",
+      "RG-13/8/2015-29444",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2015-08-13",
+      "13/8/2015",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-13/8/2015-29444",
+  "first_law": null,
+  "gazette": "27836",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-08-13",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Şehir Üniversitesi",
+  "issuer_slug": "istanbul-sehir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-sehir-universitesi/2011/14712",
+  "published": "2011-02-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14712&MevzuatTertip=5",
+  "source_bytes": 33083,
+  "source_id": "8.5.14712",
+  "source_sha256": "cad2d894e0052020763aa09c913518fad6c70d7ee73e7383091177ac62ec6208",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL ŞEHİR ÜNİVERSİTESİ YAŞAM BOYU ÖĞRENİM, UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 341,
+  "word_count": 1168
+}
