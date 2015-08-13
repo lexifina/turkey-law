@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.21045",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DOĞU ANADOLU PROJESİ BÖLGE KALKINMA İDARESİ BAŞKANLIĞI PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "21045",
+  "issuer": "Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanı",
+  "issuer_slug": "dogu-anadolu-projesi-bolge-kalkinma-idaresi-baskani",
+  "path": "regulation/dogu-anadolu-projesi-bolge-kalkinma-idaresi-baskani/2015/21045",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21045&MevzuatTertip=5",
+  "source_sha256": "c6918c0138d2a5ea881837afdb52e6b780b25cebf45321db3a7d6bf30d56873a",
+  "source_bytes": 44646,
+  "published": "2015-08-13",
+  "gazette": "29444",
+  "in_force": "2015-08-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.08.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2114,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
