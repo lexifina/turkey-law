@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-08-15",
+  "issue": "29446",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Boğaziçi Üniversitesi Yurtlar Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150815-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150815.htm",
+  "index_sha256": "8b74c603038cc4d20a0e2c1b9a3f2cb9e7d8646a70f6bc9bee1292aa46b8d99b",
+  "index_header": "15 Ağustos 2015 ... 29446 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150815.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
