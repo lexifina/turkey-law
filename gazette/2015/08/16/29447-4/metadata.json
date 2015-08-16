@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-08-16",
+  "issue": "29447",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Orta Doğu Teknik Üniversitesi Yabancı Diller Yüksekokulu Temel İngilizce Bölümü Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150816-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150816.htm",
+  "index_sha256": "e7a9c032bb68848f8c7f39e28b00f93e3879b10929b432fef2bd333ab00d4c97",
+  "index_header": "16 Ağustos 2015 ... 29447 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150816.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
