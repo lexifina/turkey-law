@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-155[1-2014/207]-73770",
+  "source_id": 34592,
+  "date": "2015-08-18",
+  "title": "Nama Yazılı Pay Senedinin Ciro Edilmesi Halinde Damga Vergisi Muafiyeti Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34592",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "85c87f2f4384b388895c0a5fddd84169fdc6feb2427b1bdbf9a992217b9a7824",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
