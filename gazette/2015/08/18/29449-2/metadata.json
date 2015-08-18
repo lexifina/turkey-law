@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-08-18",
+  "issue": "29449",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sayıştay Yönetim Mensuplarının Görevde Yükselme ve Unvan Değişikliği Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150818-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150818.htm",
+  "index_sha256": "cf63c685f8db7d6af3d00d4016a3a762991d5f3cc3103dc619fa4e96ab6fd107",
+  "index_header": "18 Ağustos 2015 ... 29449 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150818.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
