@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-08-20",
+  "issue": "29451",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Ulusal Meslek Standartlarına Dair Tebliğ (No: 2015/12)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150820M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150820M1.htm",
+  "index_sha256": "15e8bf25204a694371c6754a63827884b47b4353ace0f753b7eeb6efe5858390",
+  "index_header": "20 Ağustos 2015 ... 29451 Sayılı",
+  "issue_pdf": null,
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
