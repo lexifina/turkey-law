@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.21073",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AİLE VE SOSYAL POLİTİKALAR BAKANLIĞI DÖNER SERMAYE İŞLETMELERİ YÖNETMELİĞİ",
+  "number": "21073",
+  "issuer": "Aile ve Sosyal Politikalar Bakanı",
+  "issuer_slug": "aile-ve-sosyal-politikalar-bakani",
+  "path": "regulation/aile-ve-sosyal-politikalar-bakani/2015/21073",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21073&MevzuatTertip=5",
+  "source_sha256": "56fe900529e2464178f60affd1d4dff851f3c30ee08b1363fe093c9c50134148",
+  "source_bytes": 123456,
+  "published": "2015-08-22",
+  "gazette": "29453",
+  "in_force": "2015-08-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.08.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7332,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
