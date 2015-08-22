@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.21078",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2015/42)",
+  "number": "21078",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2015/21078",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21078&MevzuatTertip=5",
+  "source_sha256": "15c4fb10c73b0f986cdb2375d2358c0574d30a243670fccfd13976b6150bd5e6",
+  "source_bytes": 19761,
+  "published": "2015-08-22",
+  "gazette": "29453",
+  "in_force": "2015-08-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.08.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 965,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

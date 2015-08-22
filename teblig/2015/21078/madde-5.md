@@ -1,0 +1,4 @@
+Soru formları ve bilgilerin toplanması
+MADDE 5 – (1) Soruşturma için gerekli bilgilerin temini amacıyla, söz konusu eşyanın bilinen ithalatçılarına ve soruşturma kapsamına giren bilinen yabancı üretici/ihracatçılarına soruşturmanın açılışına ilişkin bildirim gönderilecektir. Bildirimi almayan tarafların soru formunu Ekonomi Bakanlığı internet sayfasındaki ilgili bölümden indirmeleri mümkün bulunmaktadır.
+(2) Öte yandan, ilgili üretici ve ihracatçılara iletilmesini kolaylaştırmak ve çabuklaştırmak amacıyla, soruşturmaya konu Tayvan’ın Türkiye’deki temsilciliğine de soru formu gönderilecektir.
+(3) Soruşturmaya ilişkin yazılı ve sözlü iletişim Türkçe yapılacaktır. İlgili tarafların soru formuna ilişkin yanıtlarını ve bu yanıtlar dışında kalan tüm bilgi, belge, görüş ve taleplerini yazılı olarak Türkçe sunmaları gerekmektedir.
