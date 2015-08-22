@@ -1,0 +1,2 @@
+Soruşturma konusu ürün ithalatının gelişimi
+MADDE 7 – (1) Soruşturma konusu eşyanın ülkemize ithalatı 2011 yılından itibaren sırasıyla 60 bin ton, 70 bin ton, 67 bin ton ve 81 bin ton olarak gerçekleşmiştir. 2014 ve 2015 yıllarının ilk 6 aylık dönemlerinde ise sırasıyla 41,6 bin ve 41,3 bin ton ithalat yapılmıştır. Bu grupta yer alan Bulgaristan menşeli/çıkışlı ithalatın payı 2011 yılında %0,3’ten 2014 yılında %1,6’ya yükselmiştir.

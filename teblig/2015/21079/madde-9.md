@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Sonuç ve Karar
+Sonuç
+MADDE 9 – (1) Bulgaristan’da mukim üretici/ihracatçı firmalar ile bu firmalarca üretilmiş olduğu beyan edilen soruşturma konusu sentetik filament ipliklerinden dokunmuş mensucatı Türkiye’ye ihraç eden firmaların, yürürlükteki dampinge karşı vergiden kaçınma dışında yeterli bir haklı nedeni veya ekonomik gerekçesi bulunmayan bir uygulama, işlem veya iş sonucunda, İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/3) ile ÇHC menşeli sentetik filament ipliklerinden dokunmuş mensucatın ithalatında yürürlükte bulunan dampinge karşı kesin önlemi etkisiz kıldığı sonuç ve kanaatine ulaşılmıştır.
+(2) Diğer taraftan, Bulgaristan’da yerleşik E. MIROGLIO EAD ve BELOTEX 95 JSC firmalarının bahsekonu önlemi etkisiz kılmaya yönelik bir faaliyetleri bulunmadığı ve üretimlerini Bulgaristan’daki fabrikalarında gerçekleştirdikleri anlaşılmıştır. Bu çerçevede, Bulgaristan’da mukim E. MIROGLIO EAD ve BELOTEX 95 JSC firmalarında üretildiği belirlenen ürünlere ilişkin işlemlerde üretici sertifikası aranarak söz konusu dampinge karşı önlemin uygulanmaması gerektiği değerlendirilmiştir.
