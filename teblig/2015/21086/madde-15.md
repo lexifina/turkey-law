@@ -1,0 +1,25 @@
+Yürütme
+MADDE 15 – (1) Bu Tebliğ hükümlerini Ekonomi Bakanı yürütür.
+EK-1
+Sadece soğuk haddelenmiş tavlanmış olanlar:
+7219.31.00.00.00 (Kalınlığı 4,75 mm’den fazla olanlar)
+7219.32.10.00.00 (Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler)
+7219.32.90.00.00 (Ağırlık itibariyle % 2,5’den az nikel içerenler)
+7219.33.10.00.00 (Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler)
+7219.33.90.00.00 (Ağırlık itibariyle % 2,5’den az nikel içerenler)
+7219.34.10.00.00 (Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler)
+7219.34.90.00.00 (Ağırlık itibariyle % 2,5’den az nikel içerenler)
+7219.35.10.00.00 (Ağırlık itibariyle % 2,5 veya daha fazla nikel içerenler)
+7219.35.90.00.00 (Ağırlık itibariyle % 2,5’den az nikel içerenler)
+7220.20.21.00.11 (Genişliği 500 mm.yi geçenler)
+7220.20.21.00.12 (Genişliği 500 mm.yi geçmeyenler)
+7220.20.29.00.11 (Genişliği 500 mm.yi geçenler)
+7220.20.29.00.12 (Genişliği 500 mm.yi geçmeyenler)
+7220.20.41.00.11 (Genişliği 500 mm.yi geçenler)
+7220.20.41.00.12 (Genişliği 500 mm.yi geçmeyenler)
+7220.20.49.00.11 (Genişliği 500 mm.yi geçenler)
+7220.20.49.00.12 (Genişliği 500 mm.yi geçmeyenler)
+7220.20.81.00.11 (Genişliği 500 mm.yi geçenler)
+7220.20.81.00.12 (Genişliği 500 mm.yi geçmeyenler)
+7220.20.89.00.11 (Genişliği 500 mm.yi geçenler)
+7220.20.89.00.12 (Genişliği 500 mm.yi geçmeyenler)
