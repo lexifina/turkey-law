@@ -1,0 +1,3 @@
+Hasılatın alınması ve yatırılması:
+Madde 16- (Değişik birinci cümle:RG-3/8/2012-28373) Satışlardan elde edilen hasılat, yönetim kurulu başkanının görevlendireceği kasa ve vezne görevlisi üye tarafından imza karşılığı alınır ve aynı gün ya da en geç bir sonraki iş günü çalışma saati bitimine kadar o yerdeki kamu bankalarından birinde açılacak bir hesaba yatırılır. Kantin sermayesinin de yatırılmış olduğu bu hesaptan elde edilen faiz ve diğer gelirler kantin gelirine katılır. Bankalardan para çekilmesi için iki imza şarttır.
+Kantin Kurulu Başkanı ve üyeleri üzerinde kantin parası bulundurulamaz. Kasada bir ay önceki günlük satış ortalamasının üç katında fazla nakit para bulunamaz. Bu miktardan fazla olanlar Kantin Kurulu adına Devlet Bankasından birine yatırılır.

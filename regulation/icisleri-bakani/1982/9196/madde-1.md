@@ -1,0 +1,1 @@
+Madde 1- Bu Yönetmelik, Emniyet Teşkilatı personelinin çeşitli ve zorunlu (Değişik ibare:RG-3/8/2012-28373) ihtiyaçlarını kaliteli, ucuz ve kolay biçimde sağlamak üzere açılacak Polis Kantinlerinin kuruluşlarını, gelirlerini, yönetim, denetim ve işletme esas ve usullerini tespit etmek amacıyla hazırlanmıştır.

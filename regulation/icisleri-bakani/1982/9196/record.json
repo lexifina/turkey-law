@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.9196",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EMNİYET TEŞKİLATI KANTİN YÖNETMELİĞİ",
+  "number": "9196",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/1982/9196",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9196&MevzuatTertip=5",
+  "source_sha256": "5055481a51cbc5e15c3f8031b70eee4252c612559ecff2989b0ac83c8c11cccc",
+  "source_bytes": 68651,
+  "published": "1982-02-19",
+  "gazette": "17610",
+  "in_force": "2015-08-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/8/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-08-22",
+      "RG-22/8/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-08-03",
+      "RG-3/8/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-04-12",
+      "RG-12/04/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik Resmi Gazete’de yayım tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2813,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

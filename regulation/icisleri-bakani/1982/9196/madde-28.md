@@ -1,0 +1,3 @@
+İdari Denetleme:
+Madde 28- Polis Kantinlerinin idari denetlemeleri, o yerin Mülki İdare Amiri ve bünyesinde Kantinin bulunduğu kuruluşların en yetkili amirleri, bu amirlerin hiyerarşik meslek amirleri veya bunların görevlendirecekleri personel tarafından, yılda iki defadan az olmamak üzere yapılır.
+Bu denetleme sırasında; kantinlerin tertip, tanzim ve temizlik durumları, satılan malların ihtiyaçlara uygunluğu ve kar oranları, hesapların tam ve günü gününe tutulup tutulmadığı, kantin sermayesi ile kantin borçları ve giderlerinin birbirlerine uyup uymadıkları ve gerek görülecek diğer konular incelenir, inceleme sonuçları bir raporla tespit edilir ve ilgili makamlara verilir.
