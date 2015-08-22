@@ -1,0 +1,4 @@
+Ekonomik göstergelerin değerlendirilmesi
+MADDE 15 – (1) Yukarıdaki veriler ışığında dampinge karşı önlemin varlığında yerli üretim dalının yurt içi satışlarının arttığı ancak üretim rakamının, stoklarının ve kapasite kullanım oranının sabit kaldığı, ürün istihdamında ise azalma yaşandığı görülmüştür.
+(2) Diğer taraftan YÜD önleme rağmen artan fiyat kırılması ve baskısı altında pazar payından feragat etmemek için fiyatlama politikasını maliyetleriyle uyumlu bir şekilde belirleyememektedir. Bunun neticesinde, ürün maliyeti altında satış yapılmasına bağlı olarak da yerli üretim dalının söz konusu ürünler için incelenen dönem boyunca zarar ettiği ve nakit akışı ve yatırımların geri dönüşünün de dalgalı ancak negatif olduğu anlaşılmaktadır.
+(3) Önlemin varlığının da etkisiyle YÜD’ün, tevsi yatırımlarının bulunduğu ve önlem sonrasında kapasite artırımına gittiği görülmüştür.

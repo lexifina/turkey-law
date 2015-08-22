@@ -1,0 +1,4 @@
+Genel ithalat
+MADDE 9 – (1) Önlem konusu ürüne ilişkin GTP’lerin toplamından oluşan genel ithalat istatistiklerine bakıldığında, şikayet konusu ürünün 2011 yılında miktar bazında 36.927 ton olan toplam ithalatının 2012 yılında 37.211 tona, 2013 yılında ise 41.028 tona yükseldiği görülmektedir.
+(2) Önlem konusu ürün ithalatı değer olarak incelendiğinde ise 2011 yılında 54 milyon ABD Doları seviyelerinde olan söz konusu ithalatın birim fiyatlardaki düşüş neticesinde 2012 yılında 45,4 milyon ABD Doları, 2013 yılında ise 48,7 milyon ABD Doları seviyelerinde gerçekleştiği tespit edilmiştir.
+(3) Yukarıdaki veriler çerçevesinde ürün ithalatının ortalama birim fiyatları hesaplanmıştır. Buna göre ithalatın ortalama birim fiyatlarının azalan bir trend izlediği ve 2011, 2012 ve 2013 yılları için sırasıyla 1,47 ABD Doları/Kg, 1,22 ABD Doları/Kg ve 1,19 ABD Doları/Kg olarak gerçekleştiği görülmektedir.
