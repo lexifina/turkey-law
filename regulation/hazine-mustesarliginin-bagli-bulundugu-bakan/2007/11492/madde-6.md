@@ -1,0 +1,8 @@
+Teminatların değerlemesi
+MADDE 6 – (1) Bloke edilen döviz ve döviz üzerinden açılan mevduat ile döviz üzerinden veya dövize endeksli olarak ihraç edilen menkul kıymetler, Türkiye Cumhuriyet Merkez Bankası tarafından ilan edilen günlük döviz alış değerleri ile işleyen faizin ilave edilmesi suretiyle değerlenir.
+(2) Devlet tahvilleri, Hazine bonoları ile Devletin ihraç edeceği diğer menkul kıymetler, Türkiye Cumhuriyet Merkez Bankası tarafından ilan edilen günlük değerleri, bu değerler yoksa borsa değerleri, borsa değerleri de yoksa kayıtlı değerlerine gün esasına göre işleyen faizin ilave edilmesi suretiyle bulunan değerleri ile dikkate alınır.
+(3) Türkiye Cumhuriyeti garantisi ile ihraç edilen ve yukarıda sayılanların dışında kalan finansal varlıkların varsa borsa değerleri, yoksa kayıtlı değerlerine gün esasına göre işleyen faizin ilavesi suretiyle bulunan değerleri dikkate alınır.
+(4) Borsada işlem gören hisse senetleri borsa değerlerinin % 80’i, borsada işlem gören özel sektör tahvilleri ise borsa değerlerinin % 90’ı oranında kabul edilir.
+(5) Yatırım fonu katılma belgeleri ilan edilen günlük değerleriyle değerlenir.
+(6) Teminat olarak gösterilen gayrimenkullerin maliyet bedellerinin veya sermaye piyasası mevzuatı çerçevesinde değerleme hizmeti veren şirketlerin raporlarında belirtilen değerlerin % 80’i dikkate alınır.
+(7) Sermayesinin en az % 51’i Türkiye Cumhuriyeti Devletine ait şirketlerin İstanbul Menkul Kıymetler Borsasında işlem görmeyen hisse senetlerinin nominal değerleri, bu şirketlerce ihraç olunan ve borsada işlem görmeyen tahvil ve benzeri menkul kıymetlerin ise kayıtlı değerlerine gün esasına göre işleyen faizin ilave edilmesi suretiyle bulunan değerleri esas alınır.

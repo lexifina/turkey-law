@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.11492",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGORTA VE REASÜRANS İLE EMEKLİLİK ŞİRKETLERİNİN MALİ BÜNYELERİNE İLİŞKİN YÖNETMELİK",
+  "number": "11492",
+  "issuer": "Hazine Müsteşarlığının bağlı bulunduğu Bakan",
+  "issuer_slug": "hazine-mustesarliginin-bagli-bulundugu-bakan",
+  "path": "regulation/hazine-mustesarliginin-bagli-bulundugu-bakan/2007/11492",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11492&MevzuatTertip=5",
+  "source_sha256": "ad8a9a246111f0b67c85b5031ad6e8bfaf0842d568c166a28dbddfd89732a623",
+  "source_bytes": 104961,
+  "published": "2007-08-07",
+  "gazette": "26606",
+  "in_force": "2015-08-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/8/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-08-23",
+      "RG-23/8/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-08-23",
+      "23/8/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-02-28",
+      "RG-28/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-28",
+      "28/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-03-29",
+      "RG-29/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-03-29",
+      "29/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-07-27",
+      "RG-27/7/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-07-27",
+      "27/7/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-03-17",
+      "RG-17/3/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-03-17",
+      "17/3/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-03-01",
+      "RG-1/3/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-03-01",
+      "1/3/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5205,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

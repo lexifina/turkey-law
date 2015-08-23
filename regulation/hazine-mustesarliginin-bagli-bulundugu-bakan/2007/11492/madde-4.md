@@ -1,0 +1,13 @@
+İKİNCİ BÖLÜM
+Teminatlar
+Teminat tesis edilmesi
+MADDE 4 – (1) Sigorta şirketleri ile hayat ve ferdi kaza branşında faaliyet gösteren emeklilik şirketleri Türkiye’de akdetmiş oldukları sigorta sözleşmelerinden doğan taahhütleriyle orantılı olarak teminat tesis etmek zorundadır.
+(2) Hayat dışı sigorta branşları için minimum garanti fonu sermaye yeterliliği hesaplama döneminde teminat olarak tesis edilir.
+(3) Ancak, minimum garanti fonu asgari kuruluş sermaye miktarları toplamının üçte birinden az olamaz.
+(4) Hayat branşı için, sermaye yeterliliği hesabı dönemleri sonu itibarıyla ayrılan matematik karşılıkları ile muallak tazminat karşılıklarının toplamından, 6762 sayılı Türk Ticaret Kanunu uyarınca yapılan ikrazlar ve henüz tahsil edilmemiş prim alacakları tutarına isabet eden matematik karşılıkların düşülmesinden sonra kalan tutar kadar teminat tesis edilir. Bir yıldan uzun süreli yapılan ferdi kaza, hastalık ve sağlık sigorta sözleşmeleri için de bu fıkra hükmü uygulanır.
+(5) Yeni kurulan sigorta şirketleri, ilk sermaye yeterliliği hesaplama dönemine kadar ödenmiş sermayelerinin % 33’ü tutarında teminat tesis eder.
+(6) Müsteşarlık, Kanunun 20 nci maddesine göre işlem yapılan şirketler ile tasfiye halinde olan veya yeni sözleşme yapma yetkisi kaldırılan bir sigorta veya emeklilik şirketinin belirli bir tarih itibarıyla teminat miktarını yeniden belirleyebilir. Bu durumda teminat açığı olması halinde ilave teminat bir ay içinde tesis edilir.
+(7) (Ek:RG-9/7/2008-26931) (1) Şirketler, son üç yılın her birinde kredi sigortası branşında prim üretimlerinin beş milyon Yeni Türk Lirasını veya son üç yılın her birinde bu branşın prim üretimi toplamının hayat dışı prim üretiminin yüzde dördünü aşması halinde, bu branş için iki milyon sekiz yüz bin Yeni Türk Lirasından aşağı olmamak kaydıyla teminat tesis ederler.
+(8) (Ek:RG-9/7/2008-26931) (1) Kredi sigortasına ilişkin yukarıda belirtilen prim üretimi şartını taşımayan şirketler, kredi sigortası branşı için sekiz yüz bin Yeni Türk Lirasından aşağı olmamak kaydıyla teminat tesis ederler.
+(9) (Ek:RG-9/7/2008-26931) (1) Kredi sigortası branşı teminat hesabının yapılması sırasında, kredi branşı prim üretiminin hayat dışı sigorta branşları toplam prim üretimi içerisindeki payı, hayat dışı branşlar için gerekli minimum garanti fonu ile çarpılarak bulunan tutar, kredi branşı için gerekli olan ve yukarıda belirtilen minimum teminat tutarları ile karşılaştırılır. Büyük olan tutar kredi branşı için gerekli nihai teminat tutarı olarak minimum garanti fonuna ilave edilir.
+(10) (Ek:RG-9/7/2008-26931) (1) Müsteşarlık; söz konusu miktarları Türkiye İstatistik Kurumu tarafından açıklanan Üretici Fiyatları Endeksi artış oranını aşmamak kaydıyla artırabilir.

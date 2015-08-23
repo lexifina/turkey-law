@@ -1,0 +1,7 @@
+Teminatın kullanılması
+MADDE 8 – (1) Teminat, sigortalıların alacaklarına karşılık teşkil eder ve şirketlerin mali bünye zafiyeti nedeniyle sürekli olarak bütün branşlarda ruhsatlarının iptal edilmesi hali ile tasfiyesi veya iflası halinde öncelikle tesis edildiği sigorta branşındaki sigortalıların alacaklarının ödenmesine tahsis edilir; artan kısım, diğer branşlara ait bulunan teminatlara eklenir.
+(2) Bir veya birkaç branşta veya bütün branşlarda sigortacılık faaliyetlerine son vermek isteyen şirketlerin ilgili branştaki teminatı, sigortalıların tüm alacaklarının ödenmiş olması şartıyla serbest bırakılır.
+(3) Faaliyete son verme ve tasfiye işlemlerinin yürütülmesi sırasında teminatların öncelikle sigortalıların alacaklarına tahsisi için Müsteşarlıkça gerekli tedbirler alınır.
+(4) Tasfiye halinde, en son ilan tarihinden itibaren bir yıl geçtikten ve bütün yükümlülüklerin yerine getirildiğinin belgelendirilmesinden sonra, teminatlar ilgililere iade olunur.
+(5) İflas halinde teminatların sigortalıların alacaklarına tahsis edilmesine ilişkin usul ve esaslar Müsteşarlıkça yayımlanacak Tebliğle belirlenir.
+(6) Teminatlar, sigortalılaların tüm alacakları ödenmeden iflas veya tasfiye masasına dahil edilemez, haczolunamaz, üzerlerine ihtiyati tedbir ve haciz konulamaz. Ancak, Müsteşarlığın sigortalı alacaklarının korunması amacıyla teminatlar üzerinde ihtiyati tedbir koydurtma hakları saklıdır.
