@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21096",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DEZENFEKSİYON TEKNİK TEBLİĞİ",
+  "number": "21096",
+  "issuer": "Orman ve Su İşleri Bakanı",
+  "path": "teblig/2015/21096",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21096&MevzuatTertip=5",
+  "source_sha256": "5c58869ff8ad0f815ef67ccceca7fe30cc50304e0d1642c1c8a7174d5eb2a854",
+  "source_bytes": 18709,
+  "published": "2015-08-26",
+  "gazette": "29457",
+  "in_force": "2015-08-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.08.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 701,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21096-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
