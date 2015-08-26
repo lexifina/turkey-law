@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1544",
+  "list_number": "1544",
+  "decision_date": "2015-08-26",
+  "title": "26. Dönem Milletvekili Genel Seçiminde Yurt Dışı Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir 140/II sayılı Genelgeye ilişkin Yüksek Seçim Kurulunun 2015/1544 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2080/2015-1544.pdf",
+  "source_sha256": "ac8230aa89cca01a3ba710af88ba268d068887ec16109afc152560b6456b7b9e",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 6,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-08-26",
+  "law_text_complete": false
+}
