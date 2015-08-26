@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1545",
+  "list_number": "1545",
+  "decision_date": "2015-08-26",
+  "title": "26. Dönem Milletvekili Genel Seçiminde uygulanacak \"Siyasi Partilerin Önseçim veya Aday Yoklaması Yöntemleriyle Aday Tespitine İlişkin Usul ve Esaslar\" hakkında 125 sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2078/2015-1545.pdf",
+  "source_sha256": "64392c800e73b14777c11555a48aba0058cb6b953b60b059c26b3f853a17868e",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-08-26",
+  "law_text_complete": false
+}
