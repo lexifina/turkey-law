@@ -1,0 +1,29 @@
+{
+  "number": "200-i",
+  "date": "2015-08-26",
+  "source_id": 1874,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/1874/2015MVES-Genelge200-1.pdf.pdf",
+  "source_sha256": "d810a14e19a97da9e1dcfb7c2abfe20e6499461edbe0c8ec1c773033c32ac8df",
+  "history": "as-enacted",
+  "words": 1048,
+  "in_force_basis": "Official adopted general rule, PDF p. 4: bu Genelge Yüksek Seçim Kurulunun 26/08/2015 tarih ve 1547 sayılı kararı ile 200/I sayılı Genelge olarak kabul edilmiştir",
+  "catalogue_date": "2015-08-26",
+  "source_images": 0,
+  "decorative_images": 0,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "attached_decision_numbers": [
+    "1547"
+  ],
+  "adoption_dates": [],
+  "approval_dates": [
+    {
+      "page": 4,
+      "date": "2015-08-26",
+      "quote": "bu Genelge Yüksek Seçim Kurulunun 26/08/2015 tarih ve 1547 sayılı kararı ile 200/I sayılı Genelge olarak kabul edilmiştir"
+    }
+  ],
+  "explicit_effective_dates": [],
+  "date_kind": "rule-adoption"
+}
