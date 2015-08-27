@@ -1,0 +1,33 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5750",
+  "decision_date": "2015-08-27",
+  "title": "Doğal Gaz Dağıtım Sektörü Düzenleyici Hesap Planı ve İzahnamesi",
+  "resmi_gazete_date": "2015-09-09",
+  "resmi_gazete_number": "29470",
+  "categories": [
+    "Düzenleyici Hesap Planı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BG+YgboFP/8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BG+YgboFP/8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uge0JtUJ53Q=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=klpWtucy25E=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=f0xm5Vb2P68=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LQqIGEiicuU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6dmBRtjtpnA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PrxzH7MG5BI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dSi1MNSOBlw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aleDO7xi6zI="
+  ],
+  "source_sha256": "9a9bafeea566b3a474a70964a1c5f3ac65cada0bb5c307a10327b78f9b638271",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7224,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-08-27",
+  "law_text_complete": false
+}
