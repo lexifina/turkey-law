@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2015/DK-ETD/402",
+  "date": "2015-08-27",
+  "title": "BTK Kurul Kararı 2015/DK-ETD/402",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2015-09-04",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=104",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/c1d8e943-d7c3-4e54-9259-632f661a3ad8.pdf",
+  "source_sha256": "816aaf58342092c37a559677651a953629aa6ba644d545c9ca3c619e661f9866",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official link only",
+  "in_force": "2015-08-27",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 27.08.2015; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
