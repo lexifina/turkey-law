@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-08-28",
+  "issue": "29459",
+  "edition": "mükerrer 3",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Gözetim Uygulanmasına İlişkin Tebliğ (Tebliğ No: 2010/5)’de Değişiklik Yapılması Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150828M3-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150828M3.htm",
+  "index_sha256": "116b3b383bb0f1eb140b86132f2d85834e0a0ab985591f33596c767a429073d6",
+  "index_header": "28 Ağustos 2015 ... 29459 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/08/20150828M3.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
