@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.21104",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AFET VE ACİL DURUM YÖNETİMİ BAŞKANLIĞI TÜRKİYE DEPREM VERİ MERKEZİ SİSTEMİ YÖNETMELİĞİ",
+  "number": "21104",
+  "issuer": "Afet ve Acil Durum Yönetimi Başkanlığının bağlı olduğu Bakan",
+  "issuer_slug": "afet-ve-acil-durum-yonetimi-baskanliginin-bagli-oldugu-bakan",
+  "path": "regulation/afet-ve-acil-durum-yonetimi-baskanliginin-bagli-oldugu-bakan/2015/21104",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21104&MevzuatTertip=5",
+  "source_sha256": "5b7498020e190644b7c52a2181e78cd32249fd0a6d0d916c0cea00ab6e9ff445",
+  "source_bytes": 29767,
+  "published": "2015-08-28",
+  "gazette": "29459",
+  "in_force": "2015-08-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.08.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1277,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
