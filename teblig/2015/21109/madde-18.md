@@ -1,0 +1,5 @@
+DÖRDÜNCÜ BÖLÜM
+Zarara İlişkin Ön Belirlemeler
+Genel açıklamalar
+MADDE 18- (1) Yönetmeliğin 17 nci maddesi çerçevesinde, soruşturma konusu ülkeler menşeli dampingli ithalatın hacminde önemli ölçüde bir artış olup olmadığı ile bu ithalatın iç piyasadaki benzer mal fiyatları ile YÜD üzerindeki etkisi incelenmiştir. Bu çerçevede, dampingli ithalatın miktarı ve gelişimi, dampingli ithalatın fiyatlarının gelişimi, yurtiçi tüketim ve pazar payları, fiyat baskısı ve fiyat kırılması ile YÜD’ün ekonomik göstergeleri incelenmiştir. Söz konusu inceleme, 5 inci maddede belirtilen zarar inceleme dönemi için yapılmıştır.
+(2) Yönetmeliğin 28 inci maddesine göre damping marjları için ihmal edilebilir oran %2’dir. Tebliğin 17 nci maddesinde damping marjları ihmal edilebilir oranın altında tespit edilen firmalar kaynaklı ithalat zarar incelemesinden hariç tutulmuştur. Ancak, Tebliğin 19 uncu maddesinde yer alan genel ithalata ilişkin analizde dampingli ya da dampingsiz tüm ithalat verileri dikkate alınmıştır.

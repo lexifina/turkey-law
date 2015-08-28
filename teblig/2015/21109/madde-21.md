@@ -1,0 +1,4 @@
+Diğer ülkelerden ithalat
+MADDE 21- (1) Sıcak haddelenmiş yassı çeliğin üçüncü ülkelerden 2012 yılında 529.703 Ton olarak gerçekleşen ithalat miktarı, 2013 yılında 376.977 Tona, 2014 yılında ise 359.345 Tona gerilemiştir. Değer olarak ise, aynı ürünün üçüncü ülkelerden 2012-2014 yılları arasındaki ithalatı gittikçe azalarak sırasıyla 347.122.305 ABD Doları, 236.854.447 ABD Doları ve 220.048.933 ABD Doları olarak gerçekleşmiştir.
+(2) Üçüncü ülkeler menşeli ithalatın, genel ithalat içerisindeki payı ise, 2012 yılında %18, 2013 yılında %11,9, 2014 yılında ise %11,8 olarak gerçekleşmiştir.
+(3) Üçüncü ülkeler menşeli ithalatın ortalama birim fiyatlarına bakıldığında ise, 2012 yılında 655 ABD Doları/Ton olan birim fiyatın, 2013 yılında 628 ABD Doları/Tona, 2014 yılında ise 612 ABD Doları/Tona gerilediği görülmüştür.

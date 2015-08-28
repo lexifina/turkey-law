@@ -1,0 +1,2 @@
+Japonya için normal değerin belirlenmesi
+MADDE 9- (1) 4 üncü maddenin dördüncü fıkrasında ifade edildiği üzere, Japonya’da yerleşik üretici-ihracatçı firmalardan soru formuna cevap verenler için damping marjı tespiti yapılırken Yönetmeliğin 26 ncı maddesi hükmüne uygun olarak eldeki mevcut veriler kullanılmıştır. Buna göre, Japonya için normal değer, Türkiye’de benzer malın birim imalat maliyetine genel, idari ve satış giderleri ile makul bir kârın eklenmesi suretiyle oluşturulmuştur.
