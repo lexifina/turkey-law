@@ -1,0 +1,2 @@
+İhale işlem dosyası
+MADDE 16 – (1) İhalesi yapılacak her iş için araştırma altyapısı tarafından bir işlem dosyası düzenlenir. Bu dosyada satın alma oluru, yaklaşık maliyeti, ihale dokümanı, davet mektupları veya yapılmış ise ilan metinleri, adaylar veya istekliler tarafından yapılan başvurular, ihale teklifleri ve varsa diğer belgeler, ihale komisyonu tutanak ve kararları gibi ihale süreci ile ilgili bütün belgeler bulunur.

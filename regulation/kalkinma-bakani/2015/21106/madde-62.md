@@ -1,0 +1,4 @@
+Yasaklar ve sorumluluklar
+MADDE 62 – (1) Araştırma altyapısının ihalelerinin hazırlığında, uygulanmasında ve diğer ihale süreçlerinde görev alanlar ile taahhüdünü sözleşme ve şartname hükümlerine uygun olarak yerine getirmeyenler, araştırma altyapısına verdikleri her türlü zarardan sorumludur.
+(2) 23 üncü maddede belirtilen fiil veya davranışlarda bulundukları anlaşılanlar, bu fiil ve davranışlar ihale safhasında ortaya çıkmış ise araştırma altyapısı tarafından o ihaleye iştirak ettirilmezler, işe başlama tarihi sonrasında ortaya çıkmış ise araştırma altyapısı satın alma işlemini iptal edebilir ve bu maddenin üçüncü fıkrası çerçevesinde suç duyurusunda bulunur.
+(3) Bu Yönetmelik kapsamındaki ihalelerde, Türk Ceza Kanunu kapsamında suç teşkil eden fiil ve davranışlarda bulunanlar hakkında araştırma altyapısı tarafından ayrıca Cumhuriyet Savcılığına suç duyurusunda bulunulur.

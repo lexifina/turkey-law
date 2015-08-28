@@ -1,0 +1,2 @@
+Bütün tekliflerin reddedilmesi ve ihalenin iptali
+MADDE 37 – (1) İhale ve satın alma yetkilisinin onayından önceki herhangi bir aşamada, ihale komisyonu kararı üzerine araştırma altyapısı, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere derhal bildirilir. Araştırma altyapısı, bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. Ancak, araştırma altyapısı isteklilerin talepte bulunması halinde, ihalenin iptal edilme gerekçelerini talep eden isteklilere bildirir.

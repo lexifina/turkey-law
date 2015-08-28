@@ -1,0 +1,2 @@
+Kesin teminat
+MADDE 42 – (1) Taahhüdün sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla, sözleşmenin yapılmasından önce ihale üzerinde kalan istekliden ihale bedeli üzerinden hesaplanmak suretiyle % 4 oranında kesin teminat alınır. Ancak, 20 iş günü içinde yerine getirilecek taahhütlerde ve yurtdışından yapılması zorunlu olan alımlarda ihale ve satın alma yetkilisinin onayı ile kesin teminat alınmayabilir.

@@ -1,0 +1,2 @@
+Sözleşmeye davet
+MADDE 41 – (1) 40 ıncı maddede belirtilen sürelerin bitimini izleyen günden itibaren üç iş günü içinde ihale üzerinde kalan istekliye, tebliğ tarihini izleyen on iş günü içinde kesin teminat ile 18’inci maddede sayılan belgeleri vermek suretiyle sözleşmeyi imzalaması hususu bildirilir. Yabancı istekliler için bu süreye on iki iş günü ilave edilir. Sözleşmenin imzalanacağı tarihte ihale üzerinde kalan isteklinin ihalelere katılmaktan yasaklı olup olmadığı Kamu İhale Kurumundan kontrol edilir. Yasaklılarla sözleşme imzalanmaz.

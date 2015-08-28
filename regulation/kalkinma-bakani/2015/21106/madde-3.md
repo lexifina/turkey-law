@@ -1,0 +1,22 @@
+Tanımlar ve kısaltmalar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Araştırma altyapısı: 6550 sayılı Araştırma Altyapılarının Desteklenmesine Dair Kanun kapsamında yeterlik almış araştırma altyapısını,
+b) Bakanlık: Kalkınma Bakanlığını,
+c) Eşik değer: Doğrudan alım ve pazarlık usulü ile yapılacak alımlarda yurt içi ve dışından alımlar için ayrı ayrı olacak şekilde her yılın ocak ayı içinde Kurul tarafından belirlenen parasal limitleri,
+ç) İhale ve satın alma yetkilisi: Yönetim kurulunu ve/veya yönetim kurulu tarafından usulüne uygun olarak harcama yapmaya yetkili kılınmış kişi, komite ve kurulları,
+d) İhale dokümanı: İhale konusu işe ilişkin idari şartname, teknik şartname, sözleşme taslağı ve gerekli diğer belge ve bilgileri,
+e) İstekli: Alım için teklif veren yerli veya yabancı gerçek veya tüzel kişiler ile bunların oluşturdukları iş ortaklığı ve konsorsiyumu,
+f) Kamu kurum ve kuruluşu: Hukuki statüleri dikkate alınmaksızın bir kamu görevi veya belirli kamu hizmetlerini yerine getiren devlet kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşlarını,
+g) Kanun: 6550 sayılı Araştırma Altyapılarının Desteklenmesine Dair Kanunu,
+ğ) Kurul: Araştırma Altyapıları Kurulunu,
+h) Müdür: Araştırma altyapısı müdürünü,
+ı) Ortak girişim: Birden fazla gerçek veya tüzel kişinin aralarında yaptıkları anlaşma ile oluşturulan iş ortaklığı veya konsorsiyumu,
+i) Satın alma: Doğrudan alım veya ihale yöntemlerinden biri kullanılmak suretiyle mal, hizmet veya yapım işlerine ilişkin her türlü alım işlemini,
+j) Satın alma birimi: Müdür tarafından satın alma işleriyle görevlendirilen birimi veya bu konuda destek alınan ilgili kurumdaki birimi,
+k) Sözleşme: Araştırma altyapısı ile yüklenici arasında yapılan yazılı anlaşmayı,
+l) Teklif: İsteklinin araştırma altyapısına sunduğu teklif ile değerlendirmeye esas belge ve/veya bilgileri,
+m) Yerli istekli: Türkiye Cumhuriyeti vatandaşı gerçek kişiler ile Türkiye Cumhuriyeti kanunlarına göre kurulmuş tüzel kişilikleri,
+n) Yönetim kurulu: Araştırma altyapısı yönetim kurulunu,
+o) Yüklenici: Üzerine ihale bırakılan veya doğrudan alım yöntemiyle mal, hizmet veya yapım işi alımı yapılan ve sözleşme imzalanan istekliyi,
+ö) Yükseköğretim kurumu: Üniversite ve yüksek teknoloji enstitüleri ile vakıf yükseköğretim kurumlarını,
+ifade eder.

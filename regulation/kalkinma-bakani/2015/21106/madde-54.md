@@ -1,0 +1,3 @@
+Denetim, muayene ve kabul işlemleri
+MADDE 54 – (1) Araştırma altyapısı tarafından teslim alınan mal veya hizmetin muayene ve kabul işlemleri, ihale ve satın alma yetkilisi tarafından belirlenen bir başkan ve en az iki üyeden oluşan Muayene ve Kabul Komisyonu tarafından yapılır. Sözleşmesinde hüküm bulunması halinde; imalat veya üretim süreci gerektiren işler, ihale dokümanında belirtilen kalite ve özelliklere göre yapılıp yapılmadığı hususunda, araştırma altyapısı tarafından belirli aşamalarda ve aralıklarla denetlenebilir.
+(2) Taahhüdün tamamlanan ve müstakil kullanıma elverişli bölümleri için kısmi kabul yapılabilir.
