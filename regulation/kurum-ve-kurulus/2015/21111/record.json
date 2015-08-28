@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.21111",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMAN BİTKİSİ VE BİTKİSEL ÜRÜNLERİNE ARIZ OLAN ZARARLI ORGANİZMALAR İLE TEKNİK MÜCADELE YÖNETMELİĞİ",
+  "number": "21111",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2015/21111",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21111&MevzuatTertip=5",
+  "source_sha256": "d90c65bd4357728155f5f39bc84543415e5fe2c02a3e909f7f9ff9801071bb54",
+  "source_bytes": 6532,
+  "published": "2015-08-28",
+  "gazette": "29459",
+  "in_force": "2015-08-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.08.2015)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 44,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
