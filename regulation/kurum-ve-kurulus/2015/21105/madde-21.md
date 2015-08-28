@@ -1,0 +1,3 @@
+Bütçenin hazırlanması
+MADDE 21 – (1) Yeni yılın bütçe hazırlık çalışmaları başlamadan önce yönetim kurulu, geçmiş yıla ilişkin faaliyet raporunu ve içinde bulunulan yılın gerçekleşmelerini görüşmek üzere özel olarak toplanır ve geçmiş yılın değerlendirmesini yapmak suretiyle yeni yılın bütçe hazırlık çalışmaları için müdüre talimat verir.
+(2) Bütçe, kuruluş protokolüne, eylem planlarına ve yeterlik kararında öngörülen mali destek tutarına uygun olarak, müdür tarafından hazırlanır ve hazırlanan bütçe teklifi eylem planı ile birlikte en geç ağustos ayının ilk haftası içinde yönetim kuruluna sunulur.

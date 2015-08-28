@@ -1,0 +1,3 @@
+Ön ödeme
+MADDE 84 – (1) Harcama yetkilisinin uygun görmesi ve karşılığı ödeneğin saklı tutulması kaydıyla, ilgili mevzuatta belirtilen hâller ile gerçekleştirme işlemlerinin tamamlanması beklenilemeyecek ivedi veya zorunlu giderler için, avans vermek suretiyle ön ödeme yapılabilir. Verilecek avansın üst sınırı Yönetim Kurulu tarafından belirlenir.
+(2) Her görevli avanslardan harcadığı tutara ilişkin kanıtlayıcı belgeleri, ilgili mevzuatında ayrı bir süre belirtilmemiş olması hâlinde bir ay içinde muhasebe yetkilisine vermek ve artan tutarı iade etmekle yükümlüdür. Süresi içinde mahsup edilmeyen avanslar hakkında genel hükümler uygulanır.

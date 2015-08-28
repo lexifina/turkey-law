@@ -1,0 +1,3 @@
+Gerçekleştirme görevlisi
+MADDE 7 – (1) Gerçekleştirme görevlisi, ödeneği dahilinde olmak şartıyla her türlü harcamayı, kanıtlayıcı belgelerine dayanarak ve usulüne uygun olarak gerçekleştirmek üzere harcama yetkilisi tarafından belirlenmiş bir veya daha fazla kişidir.
+(2) Gerçekleştirme görevlisi, harcama talimatı üzerine; işin yaptırılması, mal veya hizmetin alınması, teslim almaya ilişkin işlemlerin yapılması, belgelendirilmesi ve ödeme için gerekli belgelerin hazırlanması görevlerini yürütür. Elektronik ortamda oluşturulan ortak bir veri tabanından yararlanmak suretiyle yapılacak harcamalarda, veri giriş işlemleri gerçekleştirme görevi sayılır.

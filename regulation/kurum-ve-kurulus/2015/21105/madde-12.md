@@ -1,0 +1,4 @@
+Sorumluluk
+MADDE 12 – (1) Araştırma altyapısının kaynaklarının elde edilmesi ve kullanılmasında görevli ve yetkili olanlar; kaynakların etkili, ekonomik, verimli ve hukuka uygun olarak elde edilmesinden, kullanılmasından, muhasebeleştirilmesinden, raporlanmasından ve kötüye kullanılmaması için gerekli önlemlerin alınmasından sorumludur.
+(2) 8 inci maddenin ikinci fıkrası uyarınca yapılacak kontrol sonucunda, muhasebe yetkilisince ödeme yapılamayacağına karar verilen durumlarda, ödeme yapılamaz. Eksiklik ve hatalar muhasebe yetkilisince bir iş günü içerisinde harcama yetkilisine bildirilir. Eksiklikler tamamlandıktan sonra hak sahibinin kendisi veya yetkili temsilcisine yapılacak ödeme geciktirilemez.
+(3) Araştırma altyapılarında ortaya çıkacak kamu zararının tespiti ve tahsili hususlarında 2006/11058 sayılı Bakanlar Kurulu Kararıyla yürürlüğe giren Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmelik hükümleri kıyasen uygulanır.

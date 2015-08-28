@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.21105",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ARAŞTIRMA ALTYAPILARI BÜTÇE VE MUHASEBE YÖNETMELİĞİ",
+  "number": "21105",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2015/21105",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21105&MevzuatTertip=5",
+  "source_sha256": "00b862d3befdff3f0a87a3b7de65864e08a4a0c20da8c1796082b3bab0e95cb1",
+  "source_bytes": 204667,
+  "published": "2015-08-28",
+  "gazette": "29459",
+  "in_force": "2015-08-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.08.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11032,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
