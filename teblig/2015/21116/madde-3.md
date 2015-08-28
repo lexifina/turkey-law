@@ -1,0 +1,2 @@
+Tarife kontenjanının dağıtılması
+MADDE 3 – (1) Tarife kontenjanı, söz konusu ürünü üretimlerinde girdi olarak kullanan firmalara dağıtılır. Dağıtım, ilgililerin 2013, 2014 yılları ve 2015 yılı ilk altı ayına ait ithalatları, üretim kapasiteleri, üretimleri, tereftalik asit (PTA) tüketim kapasiteleri, PTA fiili sarfiyatları, istihdam ve ödenen/tahakkuk eden vergileri dikkate alınmak suretiyle yapılabilecektir.
