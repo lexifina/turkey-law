@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1573",
+  "list_number": "1573",
+  "decision_date": "2015-08-31",
+  "title": "26. Dönem Milletvekili Genel Seçiminde uygulanacak Seçim Takvimi uyarınca, bağımsız adayların başvurularında uyulması zorunlu usuller ile yatıracakları teminat miktarının saptanması ve sair hususların tespitine ilişkin Yüksek Seçim Kurulunun 2015/1573 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2047/2015-1573.pdf",
+  "source_sha256": "da7afcf72b6394db823c83e151602c5e7872d9532e04dfdeba642be5acd6d118",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 7,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-08-31",
+  "law_text_complete": false
+}
