@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1563",
+  "list_number": "1563",
+  "decision_date": "2015-08-31",
+  "title": "26. Dönem Milletvekili Genel Seçimi yasaklarına uyulmak kaydıyla oy verme günü olan 1 Kasım 2015 Pazar günü saat 18.00'den itibaren düğün yapılabileceğine ilişkin Yüksek Seçim Kurulunun 2015/1563 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2056/2015-1563.pdf",
+  "source_sha256": "d7dce6148265b836102582603f1efe2b6856ee9e1fa4fe5fd508576046978a82",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-08-31",
+  "law_text_complete": false
+}
