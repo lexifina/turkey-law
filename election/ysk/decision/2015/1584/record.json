@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1584",
+  "list_number": "1584",
+  "decision_date": "2015-09-01",
+  "title": "Demokratik Gelişim Partisi, Doğru Yol Partisi, Emek Partisi, Genç Parti, Muhafazakâr Yükseliş Partisi, Özgürlük ve Dayanışma Partisi ile Türkiye Komünist Partisi'nin, 2820 sayılı Siyasi Partiler Kanunu'nun 37. maddesinin ikinci fıkrası uyarınca, adaylarını merkez yoklaması usulü ile belirleyebileceklerine ilişkin Yüksek Seçim Kurulunun 2015/1584 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2041/2015-1584.pdf",
+  "source_sha256": "164837f941e2939c5321b50a9213a7f8be8702a4f84a7b88c49bda4b2355c49a",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-09-01",
+  "law_text_complete": false
+}
