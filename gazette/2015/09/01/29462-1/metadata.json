@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-09-01",
+  "issue": "29462",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Muğla Sıtkı Koçman Üniversitesi Ekonomik, Siyasal ve Sosyal Sorunlar Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150901-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150901.htm",
+  "index_sha256": "168abed85ec079610b5a309da6a2c2b71b594027c834c98dccc57031db9d0663",
+  "index_header": "1 Eylül 2015 ... 29462 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150901.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
