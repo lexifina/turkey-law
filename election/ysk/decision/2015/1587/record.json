@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1587",
+  "list_number": "1587",
+  "decision_date": "2015-09-01",
+  "title": "Sandık Kurullarının Oluşumu, Görev Ve Yetkilerini Gösterir 135 Sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2035/2015-1587.pdf",
+  "source_sha256": "fb986a149b3aa267ef8edc1c28c06d69c2f7f55a28ac5ea5c9328f97c20d4528",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 22,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-09-01",
+  "law_text_complete": false
+}
