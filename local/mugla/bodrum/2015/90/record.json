@@ -1,0 +1,24 @@
+{
+  "number": "90",
+  "number_as_published": "2015-90",
+  "year": 2015,
+  "title": "03.07.2015 tarih ve 2015/74 sayılı Meclis Kararı ile Özel Kalem Müdürlüğüne “Cenaze Hizmetleri Birimi” adı ile bağlanmış olan Mezarlıklar Müdürlüğüne ait gider bütçesinde yer alan tüm kalemlerin, Özel Kalem Müdürlüğüne ait gider bütçesine aktarılmasının kabulüne.",
+  "decision_date": "2015-09-02",
+  "source": "https://www.bodrum.bel.tr/meclis_kararlari",
+  "official_document": null,
+  "source_sha256": "36f43b06e3286682d4de72a2f9f74706691b0d695f1c5dc1c19278c417ce11e6",
+  "issuer": "Bodrum Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2015-09-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 2.9.2015; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.bodrum.bel.tr/meclis_karari.php?id=1427",
+  "summary_shortened_in_listing": false,
+  "record_scope": "one council decision (summary as listed)"
+}
