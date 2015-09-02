@@ -1,0 +1,5 @@
+İlişik kesme
+MADDE 38 – (1) Kendi isteği ile kayıt sildiren, başarısız olan veya Meslek Yüksekokulundan çıkarma cezası alan ya da mezun olmak suretiyle Meslek Yüksekokulundan ayrılan öğrencilerin, diplomalarını veya dosyalarındaki kendilerine ait belgeleri alabilmeleri için Meslek Yüksekokulu tarafından belirlenen ilişik kesme işlemlerini eksiksiz tamamlamaları gerekir.
+(2) Meslek Yüksekokulu ile ilişik kesen öğrenci, ÖSYM tarafından yeniden Meslek Yüksekokuluna yerleştirilmediği takdirde Meslek Yüksekokuluna yeniden kayıt yaptıramaz.
+(3) İlişik kesme posta yoluyla yapılmaz. Öğrencinin bizzat müracaatı gerekir. Ancak, özel hallerde, mali yükümlülüklerin yerine getirilmiş olması koşuluyla ilişik kesme yetkisini taşıyan noter onaylı vekaletname ile yetkilendirilen kişi tarafından ilişik kesilebilir.
+(4) Üç yarıyıl üst üste kayıt yenilemeyen ve mali yükümlülüklerini yerine getirmeyen öğrencinin, bu süreyi izleyen dördüncü yarıyılda da kayıt yenilememesi halinde Meslek Yüksekokulu ile ilişiği kesilir.

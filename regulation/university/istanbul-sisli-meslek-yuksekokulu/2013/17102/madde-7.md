@@ -1,0 +1,3 @@
+Eğitim-öğretim yılı
+MADDE 7 – (1) Bir eğitim-öğretim yılı her biri on dört haftadan az olmamak üzere en az iki yarıyıldan oluşur. Ara sınavlar bu sürenin içindedir. Gerektiğinde yaz öğretimi açılabilir. Yaz öğretimi, ilgili mevzuat hükümlerine göre yürütülür. Akademik yılın kapsadığı kayıt, ders, sınav ve benzeri faaliyetlerin süre ve tarihlerine ait hususlar, Meslek Yüksekokulu tarafından ilan edilen akademik takvim ile düzenlenir.
+(2) Resmi tatil günlerinde öğretim ve sınav yapılmaz. Ancak, gerektiğinde dersi veren birimlerce önerilen ve Müdür tarafından uygun görülen ders ve sınavlar Cumartesi ve Pazar günleri de yapılabilir.

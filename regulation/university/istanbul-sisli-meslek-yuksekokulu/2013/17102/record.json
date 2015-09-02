@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-sisli-meslek-yuksekokulu/2013/17102",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 42 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-2/9/2015",
+  "first_law": null,
+  "gazette": "28551",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-09-02",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "İstanbul Şişli Meslek Yüksekokulu",
+  "issuer_slug": "istanbul-sisli-meslek-yuksekokulu",
+  "kind": "regulation",
+  "published": "2013-02-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=17102&MevzuatTertip=5",
+  "source_id": "8.5.17102",
+  "source_sha256": "7f334d94637ff59185a34f705d16ec678018fd0a80c74ee0564c9efe6bf9f4dc",
+  "title": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU ÖN LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 433,
+  "version_label": "oldest version available",
+  "word_count": 5513
+}

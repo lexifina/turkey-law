@@ -1,0 +1,6 @@
+Derse devam zorunluluğu
+MADDE 17 – (1) Öğrenciler; derslere, laboratuvar ve uygulamalara devam etmek, yarıyıl içinde her türlü sınava ve öğretim elemanlarının uygun gördüğü diğer çalışmalara katılmakla yükümlüdürler. Öğrencilerin devam durumları, ilgili öğretim elemanı tarafından izlenir. Bir yarıyıl içinde, zorunlu yabancı dil hazırlık sınıfı derslerine % 80, diğer programların teorik derslerine % 70, uygulamalı derslerine % 80 devam zorunluluğu vardır.
+(2) Derslere devam zorunluluğunu yerine getirmemiş öğrencilere ait her ders için bir liste, yarıyıl sonunda akademik takvimde belirtilen derslerin bittiği gün ilgili öğretim elemanı tarafından Yüksekokul Müdürlüğüne verilir ve sınavlardan önce ilan edilir.
+(3) Bir dersin devam zorunluluğunu bir kere yerine getiren öğrenci, bu dersi tekrar aldığında derse devam şartı aranmaz.
+(4) Yabancı dilde öğretim yapılan programlarda zorunlu hazırlık sınıfı okuyan öğrenci, devam zorunluluğunu yerine getirmiş olsa dahi birinci yıl sonunda başarısız olup dersi tekrar aldığında bir sonraki yıl hazırlık sınıfını tekrar okurken derse devam etmek zorundadır.
+(5) Meslek Yüksekokulunu temsilen yurt içi ve yurt dışı sportif, kültürel, bilimsel ve sanatsal faaliyetlere katılan öğrenciler, bu faaliyetlerde bulunduğu günler için izinli sayılırlar ve bu süre devamsızlık hesabında dikkate alınmaz.
