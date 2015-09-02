@@ -1,0 +1,3 @@
+Müdürlük birimleri, program koordinatörleri ve program rehberleri
+MADDE 10 – (1) Merkez; bu Yönetmeliğin 5 inci maddesinde belirtilen amaçlarını gerçekleştirmek amacıyla; Merkez bünyesinde müdürlük birimleri, program koordinatörleri veya program rehberleri şeklinde alt birimler oluşturabilir.
+(2) Müdürlük birimleri ve alt birimlerinin sayısı, görevleri, çalışma usul ve esasları Yönetim Kurulu tarafından belirlenir.
