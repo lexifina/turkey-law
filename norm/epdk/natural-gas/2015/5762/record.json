@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5762",
+  "decision_date": "2015-09-03",
+  "title": "Boru Hatları ile Petrol Taşıma Anonim Şirketinin (BOTAŞ) Transit Doğal Gaz İletimi Dahil Ulusal İletim Şebekesi Yatırım Programının Onaylanmasına İlişkin",
+  "resmi_gazete_date": "2015-09-09",
+  "resmi_gazete_number": "29470",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=guuec6q/WK0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=guuec6q/WK0="
+  ],
+  "source_sha256": "cce39074e616e0a47d5f174306b9a776f44397ae31ef1154f2730b2d803978be",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-09-03",
+  "law_text_complete": false
+}
