@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-09-04",
+  "issue": "29465",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARLARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 27/8/2015 Tarihli ve 6428 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150904-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150904.htm",
+  "index_sha256": "9b49a41890cbf8ed69a7d45c1080815ff342a4952cea48549df0d8939d13f7ec",
+  "index_header": "4 Eylül 2015 ... 29465 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150904.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
