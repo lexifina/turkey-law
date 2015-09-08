@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-09-08T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-09-08",
+  "official_number": "B.07.1.GİB.4.34.17.01- KDV.21-79404",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30895",
+  "source_id": "ozelge:30895",
+  "source_row_sha256": "da0f87107fb34e4a79bd5f1e72ef3a8d30682ebcd9d8be781e77186c4a1e4f76",
+  "title": "DİİB sahibi mükellefin ihraç kaydıyla yaptığı teslime ilişkin iade edilecek KDV.",
+  "version_label": "as-enacted",
+  "word_count": 702
+}
