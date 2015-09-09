@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2015/2015mves-genelge136",
+  "list_number": "1643",
+  "genelge_number": "136",
+  "decision_date": "2015-09-09",
+  "title": "İl Seçim Kurullarının Seçim Sonuçlarına İlişkin Görevleri ile Yurt Düzeyi Seçim Sonuçlarının Belirlenmesinde Uygulanacak Esas ve İlkeleri",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1886/2015MVES-Genelge136.pdf",
+  "source_sha256": "46424db636651d123e4577502e8584940b839a0b068bde00882f6dc19783a673",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-09-09",
+  "law_text_complete": false
+}
