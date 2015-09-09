@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.21017",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULAŞTIRMA, DENİZCİLİK VE HABERLEŞME BAKANLIĞI KAZA ARAŞTIRMA VE İNCELEME KURULU TARAFINDAN BİLİRKİŞİ GÖREVLENDİRİLMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ",
+  "number": "21017",
+  "issuer": "Ulaştırma, Denizcilik ve Haberleşme Bakanı",
+  "path": "teblig/2015/21017",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21017&MevzuatTertip=5",
+  "source_sha256": "123bddbe50eede73cf0eeb4361ff24d46ffc4f83035f90bad448f18c2979c1ba",
+  "source_bytes": 62766,
+  "published": "2015-08-01",
+  "gazette": "29432",
+  "in_force": "2015-09-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/9/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-09-09",
+      "RG-9/9/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-09-09",
+      "9/9/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1667,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

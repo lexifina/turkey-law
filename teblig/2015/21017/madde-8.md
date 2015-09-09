@@ -1,0 +1,3 @@
+Başvuruların değerlendirilmesi
+MADDE 8 – (1) Başvurular, Değerlendirme ve Ücret Takdir Komisyonunca ön değerlendirmeye tabi tutularak, aynı Komisyon tarafından 7 nci maddede belirtilen belgelerin eksik olması ya da başvuru sahibinin 5 inci maddedeki şartları haiz olmaması hâlinde talebin reddine karar verilir.
+(2) Talepleri uygun görülenlerin adları, bölüm ve uzmanlık alanları, varsa çalıştıkları kurum ve kuruluşların adları, açık adresleri, telefon numaraları yazılarak, uzmanlık alanlarına göre sınıflandırılmak suretiyle oluşturulan liste en az on beş gün süre ile kurulun resmi internet sayfasında ilan olunur.
