@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-09-10",
+  "issue": "29471",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Medikal Gazların Üretim, Dolum, Depolama ve Satışını Yapan Tesisler Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150910-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150910.htm",
+  "index_sha256": "5577ae42e85f1a4d0ff14e298502692f44f13102b0eda272089995197e392d66",
+  "index_header": "10 Eylül 2015 ... 29471 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150910.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
