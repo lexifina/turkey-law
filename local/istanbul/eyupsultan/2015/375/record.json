@@ -1,0 +1,22 @@
+{
+  "number": "375",
+  "number_as_published": "2015/375",
+  "year": 2015,
+  "title": "2015/375",
+  "decision_date": "2015-09-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2015-eylul-ayi-meclis-kararlari/404",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2015-375/410",
+  "source_sha256": "0d62b510e75b89bd2b3887fe276ca52a163137b5026ce408b66baec2e650d43b",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-09-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.09.2015 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "df3e00b4292eb012441f081b46012b484d397d8f00ffa65652dccd4f8b4af509"
+}
