@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21138",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MEDİKAL GAZLARIN ÜRETİM, DOLUM, DEPOLAMA VE SATIŞINI YAPAN TESİSLER HAKKINDA TEBLİĞ",
+  "number": "21138",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "path": "teblig/2015/21138",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21138&MevzuatTertip=5",
+  "source_sha256": "c3eef34ac85151ab6687ba2bf63f9d4c6a94e2876c5159389597c65db35a4dba",
+  "source_bytes": 23955,
+  "published": "2015-09-10",
+  "gazette": "29471",
+  "in_force": "2015-09-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.09.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1195,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21138-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
