@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5781/3",
+  "decision_date": "2015-09-10",
+  "title": "Enerji Piyasaları İşletme Anonim Şirketi’nin (EPiAŞ) 01/09/2015 tarihinde başlayacağı piyasa işletim faaliyeti ile ilgili olarak 01/09/2015-31/12/2015 tarihleri için gelir tavanı",
+  "categories": [
+    "EPİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Kcm11cUCEx4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Kcm11cUCEx4="
+  ],
+  "source_sha256": "dcbf0584d51a69555b17b5aaa2bbc6d398eba41742b1a0ea82bf66eb348b0c71",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1521,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2015-09-10",
+  "law_text_complete": false
+}
