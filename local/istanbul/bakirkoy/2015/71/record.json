@@ -1,0 +1,23 @@
+{
+  "number": "71",
+  "number_as_published": "71",
+  "year": 2015,
+  "title": "Zuhuratbaba Mahallesi 498 ada 4 parselin bir kısmı ile kadastral yolun bir kısmına ilişkin uygulama imar planı teklifi ve 500 ada 20-21-22 parsellerin bir kısmına ilişkin 1/1000 ölçekli uygulama imar planı tadilatı teklif",
+  "decision_date": "2015-09-11",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/56",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/71-zuhuratbaba-498-ada-4-parsel-uip-ve-500-ada-20-21-22-parsel-uip-tadilat-teklifi-11092015.pdf",
+  "source_sha256": "e5b1e96b72cb3f7461a3152d5dc180326ab38a5b0db12feab3f242125e05566f",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-09-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11 Eylül 2015 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
