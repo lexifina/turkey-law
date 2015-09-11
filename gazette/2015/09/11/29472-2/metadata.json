@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-09-11",
+  "issue": "29472",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çay İşletmeleri Genel Müdürlüğü Satış İşlemleri Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150911-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150911.htm",
+  "index_sha256": "af702811d8d9efcde9481a17b78cf119d74b61cb78071677f53268a85bf328d3",
+  "index_header": "11 Eylül 2015 ... 29472 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150911.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
