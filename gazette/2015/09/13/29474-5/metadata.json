@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-09-13",
+  "issue": "29474",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Özel Tıbbi Amaçlı Diyet Gıdaların Üretim Yerleri Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150913-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150913.htm",
+  "index_sha256": "45db48ac5d3737709c731ab8d34b160bedbbf22b353fb582b6c4c7318bdf034e",
+  "index_header": "13 Eylül 2015 ... 29474 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150913.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
