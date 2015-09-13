@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.21144",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÖZEL TIBBİ AMAÇLI DİYET GIDALARIN ÜRETİM YERLERİ HAKKINDA TEBLİĞ",
+  "number": "21144",
+  "issuer": "Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanı",
+  "path": "teblig/2015/21144",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21144&MevzuatTertip=5",
+  "source_sha256": "ced2f58a443ff1f0a849f186b3cf71da84a9f6555145055e795397f0cfed7ce0",
+  "source_bytes": 42798,
+  "published": "2015-09-13",
+  "gazette": "29474",
+  "in_force": "2015-09-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.09.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2049,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
