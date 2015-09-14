@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "852",
+  "decision_date": "2015-09-14",
+  "title": "MEC_KAR_(Karaduvar 2518ada,Bahçe Mah_ 1619 ve",
+  "listed_as": "852 MEC_KAR_(Karaduvar 2518ada,Bahçe Mah_ 1619 ve",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/852-mec-kar-karaduvar-2518adabahce-mah--1619-ve-1621-adalarin-satisiyla-ilgili-encumene-yetki-verilmesi",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk84-14-eylul-2015-meclis-kararlari",
+  "listing_sha256": "cd357cff2403ae1025983832290bc86954c8a2eefa9132e9f89f835e765cba9e",
+  "meeting_title": "MK84-14 EYLÜL 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
