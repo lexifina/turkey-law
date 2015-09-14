@@ -1,0 +1,23 @@
+{
+  "number": "780",
+  "number_as_published": "780",
+  "year": 2015,
+  "title": "Kayseri Orman Bölge Müdürlüğü ve Belediyemiz arasında hazırlanacak protokolün imzalanması için Büyükşehir Belediye Başkanına veya yetkilendireceği birine yetki verilmesi talebi.",
+  "decision_date": "2015-09-14",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/14-eylul-2015-tarihli-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "6a5226051ee5d92ba5daec6b81f442c8140258efb99a62d7ab38baec5bf6fa13",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2015-09-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14.09.2015; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "14 Eylül 2015 Tarihli Meclis Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=11"
+}
