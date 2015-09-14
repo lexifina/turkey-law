@@ -1,0 +1,3 @@
+İptal
+MADDE 13 – (1) Tohumluk kontrolörlerinin yetkilerini kötüye kullandıklarının veya bu Yönetmeliğin 12 nci maddesinde belirtilen hizmet içi eğitim sonrasında yapılan denetimlerde de hizmet içi eğitime alınmasına neden olan eksikliklerinin devam ettiğinin tespit edilmesi halinde, yetkileri ve tohumluk kontrolörü kartları, kartı düzenleyen kuruluş tarafından iptal edilir. Bu kişiler tekrar tohumluk kontrolörü olamaz.
+(2) Kartları iptal edilen kişiler, iptal işleminin tebliğinden itibaren yedi gün içinde Genel Müdürlüğe itiraz edebilir. İtiraz, Genel Müdürlükten iki ve Tohumluk Tescil ve Sertifikasyon Merkezi Müdürlüğünden bir personelin katılımı ile kurulacak komisyon tarafından değerlendirilerek karara bağlanır.
