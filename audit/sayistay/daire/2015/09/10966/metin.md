@@ -1,0 +1,3 @@
+TATİL GÜNLERİNDE ÇALIŞMA RUHSAT HARCI
+
+Denetçi sorgusunda, …………. Belediyesi’nce 2464 sayılı Belediye Gelirleri Kanunu’nun 58 ve 59’uncu maddelerine aykırı bir biçimde, hafta tatili ve ulusal bayram günlerinde fiilen çalışmasına rağmen tatil günlerinde çalışma ruhsat harcı almayan akaryakıt ve LPG İstasyonlarından tatil günlerinde çalışma ruhsat harcı tahsil edilmemesi nedeniyle oluşan …………. TL kamu zararının, …………. TL’si tahsil edildiğinden ilişilecek bir husus kalmadığına,  …………. TL’sinin ise mevzuata uygun olduğu anlaşıldığından ilişilecek bir husus bulunmadığına, oy birliğiyle karar verildi.
