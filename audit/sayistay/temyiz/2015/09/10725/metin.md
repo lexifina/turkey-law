@@ -1,0 +1,53 @@
+KONU: 5302 sayılı İl Özel İdaresi Kanununun 28 ve 63 üncü maddeleri gereğince vali ve vali yardımcılarına ödenen ödenekten gelir vergisi kesilmemesi.
+
+3) 109 sayılı ilamın 13 üncü maddesinde, İl Özel İdaresi Genel Sekreteri …………..’a Valinin katılmadığı İl Encümen toplantılarına başkanlık etmesi nedeniyle 5302 sayılı Kanunun 28 inci maddesine göre ödenek verilmesi nedeniyle ………….. TL.ye tazmin hükmolunmuştur.
+
+Sorumlu dilekçesinde, 5302 Sayılı İl Özel İdaresi Kanununun İl Encümeni başlıklı 25. Maddesi; "İl encümeni valinin başkanlığında, il genel meclisinin her yıl kendi üyeleri arasından bir yıl için gizli oyla seçeceği beş üye ile biri mali hizmetler birim amiri olmak üzere valinin her yıl birim amirleri arasından seçeceği beş üyeden oluşur.
+
+Valinin katılamadığı encümen toplantısına Genel sekreter başkanlık eder. Encümen toplantılarına gündemdeki konularla ilgili olarak, ilgili birim amirleri vali tarafından oy hakkı olmaksızın görüşleri alınmak üzere çağrılabilir" hükmünden de anlaşılacağı üzere Valinin katılamadığı encümen toplantısına genel sekreterin başkanlık etmesinin Yasa gereği olduğunu, İl Valisinin her hangi bir seçim ve şarta bağlı olmaksızın İl Encümeninin başkanı olduğunu, Valinin katılamadığı encümen toplantısına, Genel sekreterin başkanlık edeceğinin yasa ile belirlendiğini,
+
+Yine 5302 Sayılı İl Özel İdaresi Kanununun Encümen üyelerine verilecek ödenek başlıklı 28. Maddesinde; "Encümen başkanına 14000, üyelerine 12000 gösterge rakamının Devlet memurları için belirlenen aylık katsayı ile çarpımı sonucu bulunacak miktarda aylık brüt ödenek verilir. Encümenin memur üyelerine encümen üyeleri için belirlenen gösterge rakamının yarısı ödenir" denildiğini, Yasa hükmünde Valiye değil, Encümen başkanına huzur hakkı verileceğinin belirtildiğini,  Encümen Başkanı ibaresinde her hangi bir ayrımda yapılmadığını, Encümene başkanlık eden Genel Sekreterin bu görevi yasadan alarak görev yetki ve sorumluluğunu da İdari, Mali, Hukuki olarak üstlenmiş bulunduğunu, sorumluluğun Yasa gereği başkanlık edip imzayı atanda olduğunu, Encümen Başkanlığı fiili görev olup, encümen başkanlığı ödeneğinin maaş değil fiilen başkanlık edildiği sürece alınan bir ödenek ve huzur hakkı niteliğinde olduğunu,  ödeme yapılmamasının Anayasamızın 18.maddesinin; "Hiç kimse zorla çalıştırılamaz. Angarya yasaktır." hükmüne de aykırı olduğunu,
+
+Ayrıca Büyükşehir Belediyelerinde Genel sekreterin, hem Belediye Encümenin daimi üyesi hem de Belediye başkanının katılamadığı toplantılarda, encümen toplantılarına Genel sekreter başkanlık ederek huzur hakkı aldığını,  Oysa İl Özel idaresi Genel Sekreterinin Encümen üyesi olmadığı halde, Yasa gereği İl Encümenine başkanlık ettiğini,  İçişleri Bakanlığı, Mahalli İdareler Genel Müdürlüğünün 14.02.2006 tarih 1293 sayılı Görüş yazısında, Valinin katılmadığı encümen toplantılarına başkanlık etmesi halinde ise huzur hakkı ödeneceği hususunda vermiş olduğu Görüşe dayanılarak ödeme yapıldığını,  2007-2009 ve 2011 yılı denetimleri sırasında aynı konu olmasına rağmen 2007-2009 yılları için tazmin kararı verilmediğini, aynı konuda iki daire tarafından farklı hükümler verildiğini,
+
+Ayrıca, 6289 sayılı Kamu Görevlileri Sendikaları Kanununda Değişiklik Yapılmasına Dair Kanunla 4688 sayılı Kamu Sendikaları Kanununa eklenen geçici 14.maddesinde;"Konusu suç teşkil etmemek ve kesinleşmiş bir yargı kararına müstenit olmamak kaydıyla, 15/3/2012 tarihine kadar, memur temsilcileri ile toplu iş sözleşmesi akdederek veya başka bir tasarrufta bulunarak 375 sayılı Kanun Hükmünde Kararnamenin ek 15 inci maddesi kapsamındaki idarelerde çalışan kamu personeline her ne ad altında olursa olsun ek ödemede bulunmaları nedeniyle kamu görevlileri hakkında idari veya mali takibat ve yargılama yapılamaz, başlatılanların ise işlemden kaldırılacağı hükmü bulunduğunu,
+
+Bu durumun düzeltilmesinin,  haksızlığın önlenmesi ve hukuka saygının güçlendirilip hukuk birliğinin sağlanması açısından yararlı olacağını belirterek ilam hükmünün bozulmasını talep etmektedir.
+
+Sayıştay Başsavcılığı; “5302 sayılı Kanun'un 25 ve 29. maddelerine göre Vali Encümen başkanı olup bu sıfatı nedeniyle aynı Kanunun 28. maddesi gereği aylık ödenek verilir. Yapılan ödeme encümen toplantısına katılma şartına bağlı değildir. Bu hükme göre encümen üyesi olmayan kişilere 5302 sayılı Kanun'un 28. maddesi gereği ödeme yapılması mümkün olmadığından,
+
+Diğer taraftan, 6009 sayılı Kanunun Geçici 8'inci maddesiyle getirilen düzenleme, sadece memur temsilcileri ile toplu iş sözleşmesi akdederek veya başka bir tasarrufta bulunarak belediye, büyükşehir belediyesi ve il özel idaresinde çalışan kamu personeline yapılan ödemelere ilişkin olup tazmine konu olan olayla bir ilgisi bulunmadığından,
+
+Tazmin hükmünün tasdikine karar verilmesi uygun olur.” şeklinde görüş belirtmiştir.
+
+5302 sayılı İl Özel İdaresi Kanununun 25. maddesinde;
+
+“İl encümeni valinin başkanlığında, il genel meclisinin her yıl kendi üyeleri arasından bir yıl için gizli oyla seçeceği beş üye ile biri mali hizmetler birim amiri olmak üzere valinin her yıl birim amirleri arasından seçeceği beş üyeden oluşur. Valinin katılamadığı encümen toplantısına genel sekreter başkanlık eder.”
+
+28 nci maddesinde; “Encümen başkanına 14.000, üyelerine 12.000 gösterge rakamının Devlet memurları için belirlenen aylık katsayı ile çarpımı sonucu bulunacak miktarda aylık brüt ödenek verilir. Encümenin memur üyelerine encümen üyeleri için belirlenen gösterge rakamının yarısı ödenir.”
+
+29 uncu maddesinde; “Vali, il özel idaresinin başı ve tüzel kişiliğin temsilcisidir.”
+
+32 nci maddesinde; “Vali, görev ve yetkilerinden bir kısmını uygun gördüğü takdirde, vali yardımcılarına, yöneticilik sıfatı bulunan il özel idaresi görevlileri ile ilçelerde kaymakamlara devredebilir.”
+
+35 inci maddesinde; “Genel Sekreter, il özel idaresi hizmetlerini vali adına ve onun emirleri yönünde, mevzuat hükümlerine, il genel meclisi ve il encümeni kararlarına, il özel idaresinin amaç ve politikalarına, stratejik plan ve yıllık çalışma programına göre yürütür. Bu amaçla il özel idaresi kuruluşlarına gereken emirleri verir ve bunların uygulanmasını gözetir ve sağlar.
+
+Genel Sekreter yukarıda belirtilen hizmetlerin yürütülmesinden valiye karşı sorumludur.” hükümleri yer almaktadır.
+
+Söz konusu hükümlerde ifade edildiği üzere vali, encümenin başkanı olup kendisine 14000, il genel meclisince seçilen üyelere 12000 ve vali tarafından birim amirleri arasından seçilen memur üyelere de 6000 gösterge rakamı üzerinden aylık ödenek ödenecektir. Madde metninde genel sekreterin valinin katılmadığı toplantılara başkanlık edeceği belirtilmiş ancak bu durumda kendisine başkanın alacağı ödeneğin verileceğinden bahsedilmemiştir. Zira bu ödenek üyelerin encümen toplantılarına katılıp katılmamasına göre değil, encümen üyesi sıfatını taşımaları nedeniyle ödenmektedir. Encümen üyesi olmayan kişilere ise bahsi geçen 28 inci madde gereğince her hangi bir ödeme yapılması söz konusu değildir. 5302 sayılı Kanunun 35 inci maddesinde ifade edildiği üzere Valinin katılmadığı Encümen toplantılarına başkanlık etmek İl Özel İdaresi Genel Sekreterinin kanunen verilmiş asli görevlerindendir. Diğer taraftan, bir şahıs tarafından yerine getirilen görev veya hizmet için iki kişiye ücret ödenmesi hukuken mümkün değildir.
+
+Sorumlu, 6289 sayılı kanunun 30. Maddesi ile 4688 sayılı kanuna eklenmiş olan geçici 14. Maddesinin 2. Fıkrasında yer alan hükmün dikkate alınmasını istemişse de; sözkonusu hüküm sosyal yardım ödemeleri gibi hiçbir mevzuata dayanmadan yapılan ödemeleri kapsadığından tazmine konu ödemeyi bu kanun kapsamında değerlendirmek mümkün değildir.
+
+Açıklanan nedenlerle, sorumlu  iddialarının reddi ile 109 sayılı ilamın 13 üncü maddesiyle toplam ………….. TL.ye dair tazmin hükmünün TASDİKİNE, (…………..Başkanı ………….., Üyeler ………….., ………….., …………..ile …………..’ in “5302 sayılı İl Özel İdaresi Kanununun 25. maddesinde;
+
+“İl encümeni valinin başkanlığında, il genel meclisinin her yıl kendi üyeleri arasından bir yıl için gizli oyla seçeceği beş üye ile biri mali hizmetler birim amiri olmak üzere valinin her yıl birim amirleri arasından seçeceği beş üyeden oluşur.
+
+Valinin katılamadığı encümen toplantısına genel sekreter başkanlık eder.”
+
+28 nci maddesinde; “Encümen başkanına 14.000, üyelerine 12.000 gösterge rakamının Devlet memurları için belirlenen aylık katsayı ile çarpımı sonucu bulunacak miktarda aylık brüt ödenek verilir. Encümenin memur üyelerine encümen üyeleri için belirlenen gösterge rakamının yarısı ödenir.” Hükümleri yer almaktadır.
+
+Kanunun 25 inci maddesinde, genel sekreterin valinin katılmadığı toplantılara başkanlık edeceği belirtilmiş, 28 inci maddede ise encümen başkanına ödenek verilmesi öngörülmüştür. Sözkonusu hükümlere göre, Valinin katılmadığı İl Encümen toplantılarına başkanlık etmeleri nedeniyle, ödeneğin genel sekretere verilmesinde mevzuata aykırılık bulunmadığından tazmin hükmünün kaldırılması gerektiği şeklindeki ayrışık görüşleri ile;
+
+Üye …………..’ın ödeneğin encümen başkanına ödenmesi kanun hükmü gereği olduğundan, Valinin katılmadığı İl Encümen toplantılarına başkanlık etmeleri nedeniyle genel sekretere ödenmesinde mevzuata aykırılık bulunmamaktadır. Ancak  ilamda, sözkonusu ödeneğin valiye ödenip ödenmediği anlaşılamadığından, konunun araştırılarak encümene kim başkanlık etmişse ona ödenmesi hususu dikkate alınarak, mükerrer ödeme sözkonusu ise kamu zararının buna göre yeniden belirlenmesi amacıyla, hükmün bozularak dairesine tevdii gerekir şeklindeki ayrışık görüşlerine  karşı), Oyçokluğu ile,
+
+Karar verildiği 15.09.2015 tarih ve 40788 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
