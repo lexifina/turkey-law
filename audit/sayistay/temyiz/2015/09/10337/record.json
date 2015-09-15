@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40759",
+  "decision_date": "2015-09-15",
+  "source_id": 10337,
+  "chamber": "5",
+  "file_number": "37473",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2009",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10337/",
+  "source_sha256": "ccadc58ae90cc2434cbf0d23485f485b09cbf8861395842cc1ea9923416b164f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
