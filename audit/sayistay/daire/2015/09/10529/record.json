@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "41",
+  "decision_date": "2015-09-15",
+  "source_id": 10529,
+  "chamber": "7",
+  "ilam_number": "18",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10529/",
+  "source_sha256": "dc02ff3eb7fa5d452afb0c1bf432ce3a33e2b08e661054a7ae69417d199cf25f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
