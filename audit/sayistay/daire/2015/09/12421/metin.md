@@ -1,0 +1,13 @@
+ARİTMETİK HATA- BİRİM FİYAT TEKLİF CETVELİNDE FİRMA YETKİLİLERİNİN İMZASININ BULUNMAMASI
+
+4)- Denetçi sorgusunda, …………. Belediyesi …………. Daire Başkanlığı tarafından gerçekleştirilen “………….” işinde;
+
+A) Tekliflerin değerlendirilmesi aşamasında en düşük teklif veren …………. Ltd. Şti. firmasının teklifinin ihale komisyonu tarafından, birim fiyat teklif cetvelinde aritmetik hata olduğu gerekçesiyle mevzuata aykırı bir biçimde değerlendirme dışı bırakılması sonucu ihalenin en düşük teklif veren bir sonraki bir firma olan …………. Ltd. Şti.’ne bırakılması sonucu, …………. TL kamu zararına neden olunduğu,
+
+B) …………. Ltd. Şti. firmasına ait birim fiyat teklif cetvelinde, sadece firma kaşesinin bulunması ve firma yetkililerinin imzasının bulunmaması nedeniyle, söz konusu firmanın ihale komisyonunca değerlendirme dışı bırakılması gerekirken, buna uyulmayarak anılan firmanın teklifinin değerlendirmeye alınarak ihalenin adı geçen firmada bırakılmasının mevzuata aykırı olduğu iddia edilmekle beraber,
+
+A) …………. Ltd. Şti. firmasına ait teklifin, iş kalemindeki miktar ile bu iş kaleminin birim fiyatının çarpımı sonucu çıkan tutarın, Kamu İhale Genel Tebliği’nin 16.5 inci maddesi ile 39’uncu maddeleri uyarınca isteklilere tanınan takdir yetkisi çerçevesinde ya virgülden sonra iki ondalık basamaklı sayıdan fazla olacak şekilde ………….,905 (………….,903 m3 x ………….,00-TL ) TL olarak yazılması ancak toplam teklif tutarının virgülden sonra en yakın iki ondalık basamaklı sayıya yuvarlanmak suretiyle ………….,91 TL olarak verilmesi, ya da iş kalemindeki miktar ile iş kaleminin birim fiyatının çarpımı sonucunda bulunan tutarın, doğrudan virgülden sonra en yakın iki ondalık basamaklı sayıya yuvarlanarak ………….,91 TL (………….,903 m3 x ………….,00-TL ) olarak verilmesi gerekirken, buna uyulmayarak toplam teklifin virgülden sonra sadece iki ondalık basamaklı sayıyı içerecek şekilde ………….,90 TL olarak verilmesi nedeniyle, söz konusu teklifin aritmetik hata bulunduğu gerekçesiyle idarece değerlendirme dışı bırakılmasında mevzuata aykırılık bulunmadığı anlaşıldığından, …………. TL ile ilgili olarak ilişilecek bir husus bulunmadığına ........... oy birliğiyle,
+
+B) Yapım İşleri İhaleleri Uygulama Yönetmeliğinin 54’üncü maddesinin 2’nci fıkrasının (e) bendinde belirtilen “Ad ve soyadı veya ticaret unvanı yazılmak suretiyle yetkili kişilerce imzalanmış olması.” şartını taşımayan, bir başka ifadeyle, usulüne uygun olmayan, …………. Ltd. Şti.’ne ait …………. TL tutarındaki teklifin ihale komisyonunca ihale dışı bırakılması gerekirken, ekonomik açıdan en avantajlı teklif olarak belirlenmesi, ihale mevzuatına aykırı olmakla birlikte, kamu zararı oluşturmayan bu işlemle ilgili olarak ilişilecek bir husus bulunmadığına............ oy birliğiyle,
+
+Karar verildi.
