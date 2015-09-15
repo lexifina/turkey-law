@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40792",
+  "decision_date": "2015-09-15",
+  "source_id": 10364,
+  "chamber": "7",
+  "file_number": "39988",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2013",
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10364/",
+  "source_sha256": "4e7691d0bb7c1a8bd28f029a31afaf367b81a039ade65bd7144d6c89743f9f22",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
