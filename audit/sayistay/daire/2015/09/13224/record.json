@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "41",
+  "decision_date": "2015-09-15",
+  "source_id": 13224,
+  "chamber": "7",
+  "ilam_number": "18",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13224/",
+  "source_sha256": "d79bb4c264fbb4dc2a1da7357fa2d41206261f754e994cb91745dc29a1915be2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
