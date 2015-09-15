@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40757",
+  "decision_date": "2015-09-15",
+  "source_id": 10672,
+  "chamber": "6",
+  "file_number": "36748",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2008",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10672/",
+  "source_sha256": "dd0c8241f6248c215b08db8b702a264e2413f34ba9d9c6aab23539ec85c21dd3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
