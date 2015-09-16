@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Değerlendirme ve Sonuç
+Sübvansiyonun devamına ilişkin belirlemeler
+MADDE 27 – (1) Bu Tebliğin üçüncü bölümünde yer alan tespit ve değerlendirmeler çerçevesinde mevcut önlemin yürürlükten kaldırılması halinde sübvansiyonlu soruşturma konusu ithalatın devamlılık arz edeceği düşünülmektedir. Nitekim 15 inci maddede belirtildiği üzere, mevcut sübvansiyon programlarının yanı sıra esas soruşturmada incelemeye konu olmamış olan önlem alınabilir nitelikte yeni programların da yürürlükte bulunduğu anlaşılmaktadır.
+(2) Bu çerçevede, bu Tebliğin sekizinci maddesinde de ifade edildiği üzere, Yönetmelik’in 35’inci ve 41’inci maddeleri çerçevesinde yapılan çalışma sübvansiyon oranlarının hesaplamasına yönelik olmayıp mevcut önlemin yürürlükte olmadığı bir ortamda soruşturmaya konu Hindistan’da yerleşik üretici/ihracatçıların sübvansiyonlu olarak Türkiye’ye ihracat yapıp yapmayacaklarına ilişkindir. Yapılan çalışma neticesinde ortaya çıkan belirleme ve ilk soruşturmada ulaşılan tespitler mevcut önlemin ortadan kaldırılması halinde sübvansiyonlu ithalatın devam edeceğine ilişkin somut, nesnel ve kanıtlanabilir nitelik taşımaktadır.

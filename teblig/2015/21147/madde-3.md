@@ -1,0 +1,2 @@
+Yerli üretim dalının temsil niteliği
+MADDE 3- (1) Başvuru aşamasında sunulan delillerden, başvurunun Yönetmelik’in 18 inci maddesinin birinci fıkrası ile 20 nci maddesinin üçüncü fıkrası çerçevesinde yerli üretim dalını temsil niteliğini haiz olduğu anlaşılmıştır. Soruşturma süresince ilgili taraflarca, bu tespiti değiştirecek yeni bir bilgi veya değerlendirme sunulmamıştır. Bu Tebliğin ilerleyen bölümlerinde Süper Film firması “yerli üretim dalı” olarak anılacaktır.

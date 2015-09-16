@@ -1,0 +1,3 @@
+Sübvansiyonlu ithalat
+MADDE 19 – (1) Önleme konu ürünün Hindistan’dan gerçekleştirilen ithalatı incelendiğinde 2011 yılında 1.983 ton olan ithalat miktarının 2012 yılında 1.161 tona gerilediği, 2013 yılında ise 323 ton olarak gerçekleştiği görülmektedir. Hindistan menşeli ithalatın önlem konusu ürünün genel ithalatı içerisindeki payı incelendiğinde ise 2011 yılında %7 olan payın 2012 yılında %3,6’ya gerilediği, 2013 yılında ise %1’e düştüğü görülmektedir.
+(2) Hindistan menşeli ithalatın birim fiyatları incelendiğinde 2011 yılında 3.080 ABD Doları/ton olan ağırlıklı ortalama birim fiyatın 2012 yılında 2.300 ABD Doları/tona gerilediği, 2013 yılında ise 2.980 ABD Doları/ton olarak gerçekleştiği tespit edilmiştir.

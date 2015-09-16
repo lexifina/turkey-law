@@ -1,0 +1,13 @@
+Sermaye malları ithalatı teşvik programı
+MADDE 11- (1) 1 Nisan 1992’de uygulanmaya başlanan bu programın yasal dayanağı Hindistan Hükümeti tarafından hazırlanan İİPB’nin ve PEK’in 5 inci bölümleridir.
+(2) Bu programdan üretici/ihracatçılar, üreticilerle ilişkili olan tacir ihracatçılar ve hizmet sağlayıcılar faydalanabilmektedir. Program çerçevesinde, üretim öncesinde ve sonrasında kullanılmak üzere yeni veya on yaşına kadar ikinci el sermaye mallarının ithalatta uygulanan mevcut vergilerden daha düşük oranda bir vergi ile ithal edilmesi mümkündür. Bununla beraber, bu avantajdan yararlanan firmalar için sekiz yıl içerisinde, elde edilen vergi avantajının sekiz katı kadar ihracat yapma zorunluluğu bulunmaktadır.
+(3) Hindistan Hükümeti kendisinden talep edilmesine rağmen soruşturma konusu ürünleri üreten hangi üretici/ihracatçıların bu programdan yararlandığına ve elde edilen faydanın ne boyutta olduğuna dair herhangi bir veri sunmamıştır.
+(4) Esas soruşturma esnasında;
+a) Hindistan Hükümeti’nin firmaların ihracat yapma taahhüdüne karşılık olarak sermaye malları ithalatında tahsil etmesi gereken vergilerin tamamını veya bir kısmını tahsil etmediği, verilen ihracat yapma taahhüdüne karşılık olarak vergi gelirlerinden feragat ettiği;
+b) Anılan program çerçevesinde sermaye malları ithalatında vergi avantajından yararlanan firmaların karşılıksız olarak sağlanan bir kaynaktan yararlandıkları;
+c) Bahse konu programın Anlaşmanın 1.1 maddesi ile İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliğin 12 nci maddesi çerçevesinde Hindistan Hükümetince verilen ve programdan yararlananlara fayda sağlayan bir mali katkı teşkil etmesi nedeniyle sübvansiyon olduğu;
+ç) Programı düzenleyen mevzuat incelendiğinde, programın uygulanmasının ihracat performansına bağlı olduğunun görüldüğü, programdan yararlanmak isteyen firmaların ihracat taahhüdünde bulunma zorunluluğunda olduğu, bu bağlamda Anlaşmanın 3.1 maddesi hükmünce programın ihracat sübvansiyonu olduğu ve yine Anlaşmanın 2.3 maddesi çerçevesinde özgül bir sübvansiyon teşkil ettiği;
+sonucuna varılmıştır.
+(5) Mevcut soruşturma kapsamında da esas soruşturmada yapılan bu belirlemeleri geçersiz kılacak bir bulguya rastlanmamıştır.
+(6) Programa ilişkin olarak gözden geçirme döneminde geçerli olan mevzuat incelendiğinde, programın uygulanmasının ihracat performansına bağlı olduğu anlaşıldığından Anlaşmanın 3.1 maddesi ve EK III çerçevesinde programın bir ihracat sübvansiyonu olduğu ve yine Anlaşmanın 2.3 maddesi çerçevesinde özgül bir sübvansiyon teşkil ettiği sonucuna varılmıştır.
+(7) Bu bulgu ve değerlendirmeler çerçevesinde, programın önlem alınabilir nitelikte olduğuna ilişkin olarak esas soruşturmada yapılmış olan tespitlerin geçerliliğini koruduğu düşünülmektedir.

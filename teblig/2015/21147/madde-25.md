@@ -1,0 +1,2 @@
+Önleme konu ülkenin üretim kapasitesi ve ihracat kabiliyeti
+MADDE 25 – (1) Uluslararası Ticaret Merkezi (International Trade Center – ITC) verileri kullanılarak Hindistan’ın önlem konusu ürünlerde gerçekleştirdiği ihracata bakıldığında 2008 yılında 106 bin ton olan ihracatın 2013 yılında 200 bin tona çıktığı ve Hindistan’ın halihazırda önemli bir ihracat potansiyeli ve kapasitesi bulunduğu görülmektedir. Hâlihazırda yürürlükte olan önlem dolayısıyla Türkiye’ye yapılan ihracatın düşük seviyelerde kaldığı ancak önlemin kalkması halinde tekrar artacağı düşünülmektedir.
