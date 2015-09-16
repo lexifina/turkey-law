@@ -1,0 +1,27 @@
+{
+  "number": "meeting-09-16",
+  "number_as_published": "meeting-09-16",
+  "year": 2015,
+  "title": "16.09.2015 tarihli meclis kararları",
+  "decision_date": "2015-09-16",
+  "source": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=93",
+  "official_document": "https://susehri.bel.tr/img/belgeler/meclis-kararlari/2015/2015-09-16.doc",
+  "source_sha256": "5146604da8260e0852e4352beaea4f40d95eb82b1c6f5220f7b64d7b1ab43927",
+  "issuer": "Suşehri Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-09-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16.09.2015; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "16.09.2015 tarihli meclis kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=93",
+  "item_title": "2015 Eylul",
+  "file_label": "2015-09-16",
+  "date_read_from": "official file name (MK-yyyy-mm-dd)"
+}
