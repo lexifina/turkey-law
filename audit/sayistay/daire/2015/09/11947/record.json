@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10492",
+  "decision_date": "2015-09-17",
+  "source_id": 11947,
+  "chamber": "1",
+  "ilam_number": "6",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11947/",
+  "source_sha256": "510c137bb65a042ed85f05611adef1fee84e8cb749ec8dcb2cd1add2d709a01d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
