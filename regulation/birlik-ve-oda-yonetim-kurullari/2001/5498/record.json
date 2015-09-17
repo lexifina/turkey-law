@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.5498",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK DİŞHEKİMLERİ BİRLİĞİ VE DİŞHEKİMLERİ ODALARININ ANLAŞMALI DİŞHEKİMLERİNİN ÇALIŞMA ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "5498",
+  "issuer": "Birlik ve Oda Yönetim Kurulları",
+  "issuer_slug": "birlik-ve-oda-yonetim-kurullari",
+  "path": "regulation/birlik-ve-oda-yonetim-kurullari/2001/5498",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5498&MevzuatTertip=5",
+  "source_sha256": "1b6e4a09fcb13c109757e160be89896ff4d78a78e728330f3b69ff402832b973",
+  "source_bytes": 25002,
+  "published": "2001-07-04",
+  "gazette": "24452",
+  "in_force": "2015-09-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/9/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-09-17",
+      "RG-17/9/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-05-05",
+      "RG-05/05/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1066,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,1 @@
+Geçici Madde 1 — Bu Yönetmeliğin yürürlüğe girdiği tarihten önce anlaşmalı dişhekimliği hizmeti veren dişhekimleri ile hizmetten faydalanan kurumlar, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren bir ay içinde sözleşmelerini Yönetmeliğe uygun hale getirirler ve onaylanmaları için ilgili dişhekimleri tarafından odaya başvurulur.
