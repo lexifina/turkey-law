@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10486",
+  "decision_date": "2015-09-17",
+  "source_id": 10542,
+  "chamber": "1",
+  "ilam_number": "7",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10542/",
+  "source_sha256": "7039596e15fb98e9a099962ed375a5a09d00c6799758eaa68c5e3995e2903504",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
