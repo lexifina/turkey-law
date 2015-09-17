@@ -1,0 +1,3 @@
+Gecikme Cezası
+
+Yüklenici …. Yükleniminde bulunan … TL sözleşme bedelli “… Yapımı” işi sözleşmesinde iş bitim tarihi … olarak tespit edildikten sonra … tarihli idare oluru ile yükleniciye 30 gün ek süre verilerek iş bitim tarihi … olarak belirlenmiştir. Yüklenicinin bu süre içerisinde işi bitiremediği … tarihli … nolu hakedişte anlaşıldığından; gecikilen günler için %0003 oranında gecikme cezası kesilmemesi sonucu oluşan … TL tutarındaki kamu zararının sorumlulara ortaklaşa ve zincirleme ödettirilmesine karar verilmesi gerekmekte ise de,  bahsi geçen kamu zararının … tarih ve … nolu banka dekontu ile tahsil edilmiş olduğu anlaşıldığından, bu tutar için ilişilecek bir husus olmadığına oy birliğiyle,
