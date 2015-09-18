@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1702",
+  "list_number": "1702",
+  "decision_date": "2015-09-18",
+  "title": "Toplumsal Uzlaşma Reform ve Kalkınma Partisinin 1 Kasım 2015 tarihinde yapılacak olan 26. Dönem Milletvekili Genel Seçimine katılma yeterliliğine sahip olmadığına ilişkin Yüksek Seçim Kurulunun 2015/1702 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2015/2015-1702.pdf",
+  "source_sha256": "e8e5fcd9be3e5ef131a497b12abe6125e534ce3538907a902ca13574fa3dfabb",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 10,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-09-18",
+  "law_text_complete": false
+}
