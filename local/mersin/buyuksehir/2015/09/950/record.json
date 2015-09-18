@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "950",
+  "decision_date": "2015-09-18",
+  "title": "MEC_ KAR_ ( Tarsus, fevziçakmak 183 ada, 4 p",
+  "listed_as": "950 MEC_ KAR_ ( Tarsus, fevziçakmak 183 ada, 4 p",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/950-mec--kar-----tarsus-fevzicakmak-183-ada-4-parsel",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk83-18-eylul-2015-meclis-kararlari",
+  "listing_sha256": "3dcf5961f415812beb8a342a790baaee1671c6b646bbd558302db15ab7db5613",
+  "meeting_title": "MK83-18 EYLÜL 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
