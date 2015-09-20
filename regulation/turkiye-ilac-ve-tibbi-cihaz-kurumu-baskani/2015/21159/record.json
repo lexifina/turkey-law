@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.21159",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KOZMETİK ÜRÜN VEYA HAMMADDELERİNİN ETKİNLİK VE GÜVENLİLİK ÇALIŞMALARI İLE KLİNİK ARAŞTIRMALARI HAKKINDA YÖNETMELİK",
+  "number": "21159",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2015/21159",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21159&MevzuatTertip=5",
+  "source_sha256": "4f84ad8d53092f10483a42e7ab0234fea22c840d64926d8039895edf7b6b7243",
+  "source_bytes": 68556,
+  "published": "2015-09-20",
+  "gazette": "29481",
+  "in_force": "2015-09-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.09.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3997,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
