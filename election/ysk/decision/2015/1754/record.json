@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1754",
+  "list_number": "1754",
+  "decision_date": "2015-09-22",
+  "title": "26. Dönem Milletvekili Genel Seçimine Bağımsız milletvekili adayı olarak başvuranlara ait bilgi ve belgeler ile ilgili Yüksek Seçim Kurulunun 2015/1754 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2009/2015-1754.pdf",
+  "source_sha256": "35680dd516f6e50deeb8a4b5cacc16814e7ce28b754d59d809dde0dded8a206f",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-09-22",
+  "law_text_complete": false
+}
