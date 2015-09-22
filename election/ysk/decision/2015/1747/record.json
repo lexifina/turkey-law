@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1747",
+  "list_number": "1747",
+  "decision_date": "2015-09-22",
+  "title": "Merkez Partisinin 2839 sayılı Kanun'un 13. maddesinin ikinci fıkrası uyarınca 1 Kasım 2015 Pazar günü yapılacak 26. Dönem Milletvekili Genel Seçimine katılamayacağına ilişkin Yüksek Seçim Kurulunun 2015/1747 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2011/2015-1747.pdf",
+  "source_sha256": "9bc06589ac5d4914fc1a11c6ac0c8fb7dff88a456147031d6cefcadabfb53f02",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-09-22",
+  "law_text_complete": false
+}
