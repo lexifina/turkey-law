@@ -1,0 +1,4 @@
+Kayıt yenileme
+MADDE 11 – (1) Lisansüstü programlara kayıt hakkı elde eden veya öğrenimlerine devam eden öğrencilerin kayıt yenileme işlemleri, her yarıyıl/dönem akademik takvimde belirtilen süre içinde yapılır. Öğrenciler, ders ve tez kayıtlarını program koordinatörü ya da akademik danışmanlarına onaylatarak yenilemek ve yükümlü olmaları halinde katkı payı/öğrenim ücretini yatırmak zorundadırlar.
+(2) Süresi içinde 2547 sayılı Kanunun 46 ncı maddesinde belirtilen mali yükümlülükleri yerine getirmeyen öğrenciler o dönem için kayıt yaptıramazlar ve öğrencilik haklarından yararlanamazlar. Kayıt yaptırılmayan dönem öğrenim süresinden sayılır.
+(3) Ortak programlara ve benzer programlara katılan öğrencilerin katkı paylarının ve/veya öğrenim ücretlerinin nasıl ödeneceği üniversiteler arasında yapılan ikili anlaşmalarla belirlenir.

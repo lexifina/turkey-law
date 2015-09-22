@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) AKTS: Öğrencilerin yurt içinde ve yurt dışında aldıkları ve başarılı oldukları öğrenci iş yüküne dayalı ders kredilerinin ve notlarının bir yükseköğretim kurumundan diğerine transferini sağlayan Avrupa Kredi Transfer Sistemini,
+b) ALES: İlgili mevzuatta geçerlilik süresi tanımlanmış Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+c) Anabilim Dalı: 3/3/1983 tarihli ve 17976 sayılı Resmî Gazete’de yayımlanan Lisans Üstü Eğitim Öğretim Enstitülerinin Teşkilat ve İşleyiş Yönetmeliğinin 5 inci maddesinde Enstitü için tanımlanan ve Enstitüde eğitim programı bulunan anabilim dalını,
+ç) Anabilim Dalı Başkanı: Lisans Üstü Eğitim Öğretim Enstitülerinin Teşkilat ve İşleyiş Yönetmeliğinin 5 inci maddesinde tanımlanan ve Enstitüde eğitim programı bulunan anabilim dalının başkanını,
+d) Danışman: Enstitüde kayıtlı öğrenciye ders ve tez çalışması dönemlerinde rehberlik etmek üzere Enstitü Yönetim Kurulu tarafından atanan öğretim üyesini,
+e) Diploma eki: Kayıtlı oldukları programları başarıyla tamamlayarak diploma almaya hak kazanan öğrencilere, uluslararası şeffaflığı ve alınan eğitim sonucunda edindikleri niteliklerin akademik ve mesleki tanınırlığını sağlamak amacıyla Üniversite tarafından diplomalarına ek olarak verilen, ancak diplomanın yerini almayan belgeyi,
+f) Doktora Yeterlik Komitesi: Enstitüye bağlı anabilim dalı başkanlıkları tarafından önerilen ve Enstitü Yönetim Kurulunun onayı ile kurulan, üç yıl süreyle görev yapacak tam zamanlı beş öğretim üyesinden oluşan komiteyi,
+g) Enstitü: Galatasaray Üniversitesi Fen Bilimleri Enstitüsünü,
+ğ) Enstitü Kurulu: Enstitü Müdürünün başkanlığında, Enstitü müdür yardımcıları ve Enstitüde eğitim programları bulunan anabilim dalı başkanlarından oluşan kurulu,
+h) Enstitü Yönetim Kurulu: Enstitü Müdürünün başkanlığında, Enstitü müdür yardımcıları ve Müdürün göstereceği altı aday arasından Enstitü Kurulu tarafından üç yıl için seçilen üç öğretim üyesinden oluşan kurulu,
+ı) Lisansüstü ikinci öğretim programı: Mesai saatleri dışında yapılan, ücreti Üniversite tarafından belirlenen öğretim programını,
+i) Milletlerarası Antlaşma ve Ek Protokol: Bakanlar Kurulunun 4/5/1992 tarihli ve 92/2991 sayılı Kararıyla onaylanan, Galatasaray Eğitim ve Öğretim Kurumu’na ilişkin olarak Fransız Cumhuriyeti Hükümeti ile Türkiye Cumhuriyeti Hükümeti Arasında Anlaşma ve Bakanlar Kurulunun 24/10/1995 tarihli ve 95/7434 sayılı Kararıyla onaylanan, Türkiye Cumhuriyeti Hükümeti ile Fransız Cumhuriyeti Hükümeti Arasındaki Galatasaray Eğitim ve Öğretim Kurumu’na İlişkin 14 Nisan 1992 Anlaşması’na Ek Protokol ile bu Ek Protokol’a ekli mektuplar ve 19 Ekim 1995 tarihli mektupları,
+j) Müdür: Fen Bilimleri Enstitüsü Müdürünü,
+k) Program Koordinatörü: Anabilim dalı başkanlığının önerisi ve Enstitü Yönetim Kurulu kararı ile atanan anabilim dalı altındaki lisansüstü eğitim programı koordinatörünü,
+l) ÖYP: Öğretim üyesi yetiştirilmesi amacıyla Yükseköğretim Kurulunun uygun gördüğü yükseköğretim kurumlarında açılan Öğretim Üyesi Yetiştirme Programını,
+m) Senato: Galatasaray Üniversitesi Senatosunu,
+n) Tez: Yüksek lisans tezi, doktora tezini,
+o) Üniversite (GSÜ): Galatasaray Üniversitesini,
+ö) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+p) YDS eşdeğeri sınavlar: Yükseköğretim Kurulu yetkili kurullarınca YDS’ye eşdeğer kabul edilen sınavları,
+ifade eder.

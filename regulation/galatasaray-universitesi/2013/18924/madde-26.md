@@ -1,0 +1,5 @@
+Sınav programları ve sınavlarda disiplin
+MADDE 26 – (1) Yarıyıl/dönem sonu ve bütünleme sınavları, ilgili Enstitü Müdürlüğü tarafından bu Yönetmelik hükümlerine göre hazırlanan ve Enstitü Yönetim Kurulunca onaylanan programa göre yapılır.
+(2) Öğrencilerin sınavlara bu programa göre hazırlanan listelerdeki gün ve saatlerde girmeleri ve öğrenci kimlik kartlarını yanlarında bulundurmaları gerekir.
+(3) Sınavlarda kopya çeken, kopya veren, bunlara teşebbüs eden öğrenciler ile sınav yerine geçen çalışmalarda intihal yapan veya bu fiilleri işledikleri sonradan anlaşılan öğrencilerin durumları bir tutanakla tespit edilir ve bu öğrencilere 18/8/2012 tarihli ve 28388 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği hükümleri uygulanır.
+(4) Yazılı sınav belgeleri, sınavın yapıldığı tarihten itibaren iki yıl süreyle saklanır. Bu süre sonunda sınav belgeleri Enstitü Müdürlüğü tarafından imha edilir ve durum bir tutanakla tespit edilir. Ancak, bir davaya konu olan belgeler, yargılamanın sonuna kadar saklanır.

@@ -1,0 +1,4 @@
+Tezsiz yüksek lisans diplomaları
+MADDE 43 – (1) Kredili derslerini ve dönem projesini başarıyla tamamlayan yüksek lisans öğrencisine Tezsiz Yüksek Lisans Diploması verilir.
+(2) Tezsiz Yüksek Lisans Diploması üzerinde öğrencinin izlemiş olduğu Enstitü anabilim dalındaki programın onaylanmış adı bulunur. Diploma ile birlikte verilecek öğrenim belgesinde öğrencinin aldığı dersler ve notları belirtilir.
+(3) Tezsiz yüksek lisans programına devam edenler, aynı isimde bir tezli yüksek lisans programı bulunması halinde başvurdukları yükseköğretim kurumunca tezli yüksek lisans programı için belirlenmiş olan asgari koşulları yerine getirmek kaydıyla, bu programa geçiş yapabilirler. Bu durumda tezsiz yüksek lisans programında alınan dersler Enstitü Yönetim Kurulu kararıyla tezli yüksek lisans programındaki derslerin yerine sayılır.

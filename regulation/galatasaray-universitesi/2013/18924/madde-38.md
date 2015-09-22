@@ -1,0 +1,5 @@
+Tez önerisi savunması
+MADDE 38 – (1) Doktora yeterlik sınavını başarı ile tamamlayan öğrenci, en geç altı ay içinde, yapacağı araştırmanın amacını, yöntemini ve çalışma planını kapsayan tez önerisini tez izleme komitesi önünde sözlü olarak savunur. Öğrenci, tez önerisi ile ilgili yazılı bir raporu sözlü savunmadan en az on beş gün önce komite üyelerine ve Enstitü Müdürlüğüne verir.
+(2) Tez izleme komitesi, öğrencinin sunduğu tez önerisinin kabul veya reddine salt çoğunlukla karar verir ve bu kararını en geç üç gün içinde Enstitü Müdürlüğüne tutanakla bildirir. Tez önerisinin kabul edilmesi durumunda tez konusu, Enstitü Yönetim Kurulu kararı ile onaylanır.
+(3) Tez önerisi reddedilen öğrenci, yeni bir danışman ve tez konusu seçme hakkına sahiptir. Böyle bir durumda yeni bir tez izleme komitesi atanabilir. Programa aynı danışmanla devam etmek isteyen bir öğrenci üç ay içinde, danışman değiştiren bir öğrenci ise altı ay içinde tekrar tez önerisi savunmasına alınır.
+(4) (Ek:RG-17/2/2015-29270) Tez önerisi kabul edilen ancak tez çalışmasına iki yarıyıl içinde başlamayan öğrenciden tekrar yeni bir tez önerisi vermesi istenir.

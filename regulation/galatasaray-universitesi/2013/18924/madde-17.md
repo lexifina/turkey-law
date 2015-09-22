@@ -1,0 +1,3 @@
+Yurtiçi ve yurtdışındaki üniversitelerle öğrenci değişimi
+MADDE 17 – (1) Üniversite ile yurtdışında bir üniversite arasında yapılan Erasmus ve benzeri anlaşmalar uyarınca, öğrenci değişim programı çerçevesinde yurtdışındaki üniversitelerle bir veya iki yarıyıl süreyle öğrenci değişimi, değişim programlarının uygulanması ilgili mevzuat hükümlerine göre yapılır.
+(2) Üniversite ile yurtiçindeki yükseköğretim kurumları arasında; 18/2/2009 tarihli ve 27145 sayılı Resmî Gazete’de, yayımlanan, Yükseköğretim Kurumları Arasında Öğrenci ve Öğretim Üyesi Değişim Programına İlişkin Yönetmelik hükümlerine göre öğrenci değişim programı uygulanır.
