@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1759",
+  "list_number": "1759",
+  "decision_date": "2015-09-23",
+  "title": "1 Kasım 2015 tarihinde yapılacak olan 26. Dönem Milletvekili Genel Seçimi geçici aday listeleri ile ilgili Yüksek Seçim Kurulunun 2015/1759 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2007/2015-1759.pdf",
+  "source_sha256": "36f9a294ddf1a4048ecc62282430fdbb238028db017604eff6d9ec08a71dc4f7",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-09-23",
+  "law_text_complete": false
+}
