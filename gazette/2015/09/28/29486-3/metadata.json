@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-09-28",
+  "issue": "29486",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Bilgi Üniversitesi Uluslararası Ticaret ve Tahkim Hukuku Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150928-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150928.htm",
+  "index_sha256": "c3ba2fcb2e6f0d7cb94d7e73f5c156def3c24ce75aec689c5c3dd090bcf1d575",
+  "index_header": "28 Eylül 2015 ... 29486 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/09/20150928.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
