@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1794",
+  "list_number": "1794",
+  "decision_date": "2015-09-28",
+  "title": "1 Kasım 2015 tarihinde yapılacak olan 26. Dönem Milletvekili Genel Seçimi kesin aday listeleri ile ilgili Yüksek Seçim Kurulunun 2015/1794 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/2005/2015-1794.pdf",
+  "source_sha256": "a1182fe1dacc9dbccc6a08112f46c14719908f35756f74213ce532ec6c6b2a5f",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-09-28",
+  "law_text_complete": false
+}
