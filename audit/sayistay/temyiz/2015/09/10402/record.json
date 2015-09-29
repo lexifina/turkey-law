@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40830",
+  "decision_date": "2015-09-29",
+  "source_id": 10402,
+  "chamber": "6",
+  "file_number": "39186",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2011",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10402/",
+  "source_sha256": "6976bf960e0b8256d20b7cdee6fc413f5a4c39c6b8574232025c631a4049a87a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
