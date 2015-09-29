@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40843",
+  "decision_date": "2015-09-29",
+  "source_id": 10415,
+  "chamber": "5",
+  "file_number": "39246",
+  "account_year": "2012",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10415/",
+  "source_sha256": "fa7e629a4e0f1541847dbd7fe770ea8191816d2253897757f503326c2d5aaa33",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
