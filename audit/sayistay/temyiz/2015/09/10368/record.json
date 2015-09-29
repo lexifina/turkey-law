@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40796",
+  "decision_date": "2015-09-29",
+  "source_id": 10368,
+  "chamber": "2",
+  "file_number": "39654",
+  "account_year": "2010",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10368/",
+  "source_sha256": "5e444073cb9d48d0c4f27266753a20ab97d4769d780cf14d61bbfc7b234c4090",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
