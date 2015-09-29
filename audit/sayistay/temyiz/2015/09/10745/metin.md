@@ -1,0 +1,33 @@
+Konu: Mükerrer Danışmanlık Hizmeti
+
+20-) 162 sayılı İlam’ın 20’nci maddesi ile, ……… A.Ş. yüklenimindeki “……… İnşaatı için yükleniciye ödeme yapılmasına rağmen “………” gerekçe gösterilerek aynı iş için ……… Üniversitesinde görevli öğretim üyelerinden danışmanlık hizmeti alınması nedeniyle ………-TL’ye tazmin hükmü verilmiştir.
+
+İlgililer temyiz dilekçesinde özetle, ……… A.Ş. firması ile 05.08.2005 tarihinde imzalanan sözleşme gereği sözleşmenin 6. maddesinde belirtilen ……… Metro Hattı İnşaatı Tamamlama İşleri kapsamında yapılacak inşaatların proje yönetimi, iş programı, yapım kalite kontrolü, bütçe ve maliyet kontrolü, sözleşme yönetimi ve hak talebi, geçici kabul hizmetleri konusunda danışmanlık ve kontrollük hizmetleri verdiğini; kendi sözleşmesi çerçevesinde ……… Merkezi yapısı ile ilgili olarak periyodik incelemelerini yaptığını ve bilgilendirme raporlarını sunduğunu; yapılan bu işler karşılığında sözleşmenin 7. maddesinde belirtildiği üzere danışman firmanın ücretinin, sözleşme gereği birim fiyat esasına göre ödendiğini;
+
+……… Merkezi yapısının, birinci kata kadar betonarme, bu kattan itibaren ise tamamen çelik olduğunu; böylesine önemli bir çelik yapıda, yapıya ait projelerin ve bu projelere ait statik hesapların işin müşavirinin dışında deneyimi ve uzmanlığı olan bir Kuruma inceletilmesinin Kurum İdare Encümenince gerekli görüldüğünü; yurtiçinde bu kapasitede bir çelik yapının projesinin ve statik hesaplarının incelenmesinde ………’den başka bir Kurumun olmadığının tespit edildiğini; ……… yetkilileri ile yapılan görüşmede söz konusu iş için ihale yapılsa bile mevzuatları gereği ihaleye giremeyeceklerini ve teklif veremeyeceklerini ifade ettiklerini; bunun üzerine söz konusu işin …….. ve ……… arasında yapılacak protokol ile yapılmasının kararlaştırıldığını;
+
+Bu işle ilgili hizmet alımı sözleşmesinin 16. maddesinde “Alt Yükleniciye İlişkin Bilgiler ve Sorumluklar” başlığı altında “16.1. Danışman sözleşme konusu işte alt yüklenici çalıştırmayacaktır.” denildiğini; bu nedenle danışman tarafından ……… yetkililerine bu işin ne sıfatla yaptırılacağı ve ……… yetkililerinden danışman firmanın elemanı gibi söz konusu işleri yapabilme imkanı olmaması nedeni ile danışman firmanın ……… yetkililerine bu işle ilgili ödeme yapmalarının mümkün görünmediğini;
+
+Mevcut danışmanlık sözleşmesindeki idari ve özel teknik şartnamenin 3. maddesindeki “Personel” tanım ve listesinde müşavir kadrosunda bulunacak elemanların sayısının ve niteliklerinin belirlendiğini; yüklenici firmanın bu listedeki elemanlarla ilgili alınacak ücretleri birim fiyat teklif mektubu ekindeki “Birim Fiyat Teklif Cetvelinde”  çalıştırılacak ve iş talep edilecek personelin ücretlerinin bildirildiğini; İdare tarafından talep edilmesi halinde bu personel haricinde görevlendirilecek personel ve ücretlerinin yeniden belirlenip İdarenin onayı sonucu hayata geçirileceğini; dolayısı ile söz konusu işte başka bilgi ve tecrübeye sahip personel çalıştırılmasını İdare olarak talep edebileceğinin danışman firmanın sözleşmesinde belirtildiğini; fakat ilgili maddede belirtildiği üzere bu durumda ek ücret ödeneceğini ve yeniden ödenecek bu ücretle ilgili yeni bir birim fiyat teklifinin sunulup İdarenin onayı sonucu bu ücretin mevcut personele ek olarak İdareye ilave ödeme yükümlülüğü getireceğini; İdarenin talep ettiği ve Firmanın sunduğu mevcut personel listesinde akademik formasyona sahip (Prof., Doç. vs. gibi) eleman talebi ve sunumunun bulunmadığını;
+
+……… yetkilileri proje kapsamında çalıştırılabilse bile ayrı bir ücret belirlenmesi yolu ile çalıştırılabileceğini ve bunun için de İdarenin bütçesinden ayrıca ödeme yapılacağını; dolayısıyla danışmana verilen işin bir başkasına yeniden yaptırıldığı iddiasının yerinde olmadığını;
+
+Tüm bu nedenlerle işin yeterli deneyim, bilimsel otorite ve akademik kariyere sahip olma gibi her kişi ve kuruluşta bulunmayan özel bilgi ve birikim de gerektiren özellikler isteyen zor ve meşakkatli iş olması nedeni ile benzeri işlerde diğer kamu ve özel sektör kuruluşlarının da başvurduğu, uyguladığı bir yöntemle bu alanda uzman kuruluş olarak görülen ……… Üniversitesi’nin uzman öğretim görevlilerine yaptırıldığını;
+
+Bu konuda danışmanlık ve hizmet alım işini yürüten firmanın yetersiz olmasından ziyade, bu işin kamu ve kurum menfaati gözetilerek ilerde doğabilecek olumsuzlukları önlemek ve meydana getirebileceği zararı asgariye indirmek için alınabilecek tedbirleri önceden almak amacıyla ve danışmanlık sözleşmesi de bu konuda ücret ödemeyi gerektirdiğinden herhangi bir kamu zararından bahsetmenin mümkün olmadığını belirterek tazmin hükmünün kaldırılmasını talep etmiştir.
+
+Başsavcılık karşılama yazısında; “İlamın 20’nci maddesine ilişkin olarak; ……… İnşaatı için danışmanlık hizmeti alınmasının mevzuatına uygun olduğu belirtilerek verilen tazmin hükmünün kaldırılmasına karar verilmesi istenilmektedir.
+
+Ortaya konulanlar karar gerekçelerini karşılamamaktadır. Bu itibarla, Daire tarafından verilen hükmün tasdikine hükmedilmesinin uygun olacağı mütalâa olunmaktadır.” denilmiştir.
+
+Rapor dosyası ve ekli belgelerin incelenmesi neticesinde;
+
+……… Büyükşehir Belediyesi …….. Genel Müdürlüğü ile ……… A.Ş. arasında 05.08.2005 tarihinde ……… ……………… Hizmeti Alımı Sözleşmesi imzalandığı;
+
+İşin tanımının, sözleşme kapsamındaki inşaatların proje yönetim, iş programı, yapım kalite kontrolü, bütçe ve maliyet kontrolü, sözleşme yönetimi ve hak talebi, geçici kabul hizmetleri konusunda danışmanlık ve kontrollük hizmetleri verilmesi şeklinde yapıldığı;
+
+Daha sonra ise, …….. Genel Müdürlüğü İdare Encümeni tarafından 24.01.2006 tarihinde alınan karar gereği, ……… İnşaatının Çelik Konstrüksiyonunun Proje Kontrollüğünün Yapılması ile ilgili olarak ……… Üniversitesi ile 17.02.2006 tarihinde protokol imzalandığı görülmüştür.
+
+……… inşaatı, birinci kata kadar betonarme, bu kattan itibaren ise tamamen çelik konstrüksiyon yapıda olması ve çelik konstrüksiyondaki büyük açıklıklar için özel çözümler gerektirmesi nedeniyle, ……… A.Ş. ile yapılmış olan ………Hizmeti Alımı Sözleşmesi kapsamındaki diğer inşaatlardan çok farklı bir yapıya sahiptir. Bu nedenle, yapıya ilişkin periyodik incelemelerin ve bilgilendirme raporlarının hazırlanması dışında, çelik konstrüksiyon yapı bölümünün özel yapı elemanları etkileri de dikkate alınarak, özellikle deprem yükleri altındaki davranışlarının incelenmesi amacıyla "………'' kapsamında hizmet alımı yapılmasında mevzuata aykırı bir husus bulunmamaktadır. Zira, İlam’a konu edilen hizmet alımları birbirinden farklı konulara ilişkin olup, ikisi de yerine getirilerek karşılığında ödemede bulunulmuştur.
+
+Bu itibarla, dilekçede öne sürülen hususların kabul edilerek 162 sayılı İlam’ın 20’nci maddesi ile verilen tazmin hükmünün KALDIRILMASINA,
