@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5800/2",
+  "decision_date": "2015-09-30",
+  "title": "Mevcut otoprodüktör lisanslarının sona erdirilerek verilecek üretim lisanslarına yönelik alınan 03/04/2014 tarihli ve 4952-18 sayılı Kurul kararının 5 inci fıkrasının değiştirilmesine ilişkin",
+  "resmi_gazete_date": "2015-12-01",
+  "resmi_gazete_number": "29549",
+  "categories": [
+    "Önlisans ve Lisansa ilişkin Diğer Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JqdTpYi/Zzc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JqdTpYi/Zzc="
+  ],
+  "source_sha256": "6e3f9f42830f3167688354bf342dd4c93fc6c9d5815171daa85d3c941fde6685",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33886,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-09-30",
+  "law_text_complete": false
+}
