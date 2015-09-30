@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2015/42",
+  "meeting_date": "2015-09-30",
+  "meeting_date_as_published": "30.9.2015",
+  "decision_no": "38",
+  "source_id": 7175,
+  "title": "RTÜK kararı 2015/42-38",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/7175",
+  "source_sha256": "710075c9044c968a9a956e6399bd463295d934212049d2abbc64b040e78cd217",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (8 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
