@@ -1,0 +1,30 @@
+{
+  "number": "month-09",
+  "year": 2015,
+  "month": 9,
+  "title": "Eylül 2015 / 51 Sayılı Meclis Kararı",
+  "decision_date": null,
+  "index_date": "2015-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2015",
+  "source": "https://piraziz.bel.tr/wp-json/wp/v2/posts?categories=26&per_page=100&page=1&_fields=id,date,link,title",
+  "official_page": "https://piraziz.bel.tr/eylul-2015-51-sayili-meclis-karari/",
+  "official_document": "https://piraziz.bel.tr/eylul-2015-51-sayili-meclis-karari/",
+  "source_sha256": "84712cf78cdc05362c356d4750b4f5d924f0e8ddc0ed796021220c4f500e036e",
+  "issuer": "Piraziz Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2015-09-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Eylül 2015); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Eylül 2015 / 51 Sayılı Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "post_date": "2015-10-01T18:43:02",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
