@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2015/42",
+  "meeting_date": "2015-09-30",
+  "meeting_date_as_published": "30.9.2015",
+  "decision_no": "35",
+  "source_id": 7205,
+  "title": "RTÜK kararı 2015/42-35 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/7205",
+  "source_sha256": "46cb2f5c9a93c2e1e23779b9e15b9091101bec9d1e645dacaceefdd96963f919",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (2 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
