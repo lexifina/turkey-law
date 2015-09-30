@@ -1,0 +1,20 @@
+{
+  "applicant": "D.M.",
+  "application_date": "2015-03-06",
+  "application_number": "2015/4176",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2015-09-30",
+  "id": "56c15414-9c84-6419-75e4-ab22812d6090",
+  "in_force": "2015-09-30",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjU2YzE1NDE0LTljODQtNjQxOS03NWU0LWFiMjI4MTJkNjA5MA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "28981b6415697c41fc8ac237f5d30faf6560458043d4ed7b4b981aff1d1720d7",
+  "version_label": "as-enacted"
+}
