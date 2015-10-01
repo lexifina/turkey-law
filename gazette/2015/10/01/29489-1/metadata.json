@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-10-01",
+  "issue": "29489",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": null,
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151001-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151001.htm",
+  "index_sha256": "6a0dcca0dbd190804e3e50cc820f4b9036ce3434c28a0d6e55a0ed3bf31facda",
+  "index_header": "1 Ekim 2015 ... 29489 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151001.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "title_withheld": "personal-data rule: the listed title names a private person; see the official link",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
