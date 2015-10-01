@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 25,
+  "legislative_year": 2,
+  "sitting": 1,
+  "sitting_date": "2015-10-01",
+  "listed_date": "01 Ekim 2015 Perşembe",
+  "status": "Basılmış",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/25/2/1/9ae6341c-bf7c-4626-82d9-64589f2c38ac.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=98ee8bf8-a9f1-4636-8018-0185ceac6957",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=25&YasamaYili=2",
+  "source_sha256": "3064b5ec318feca788a94cf9b1a6a01a3bb6ef745b54fc8a7bcdf014015a59e9",
+  "source_bytes": 474502,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
