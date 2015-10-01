@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35335",
+  "decision_date": "2015-10-01",
+  "source_id": 10532,
+  "chamber": "2",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10532/",
+  "source_sha256": "d693c041bc6853cb3d377b4cc40943bd96c606e66e794f47f65898acbea57fd7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
