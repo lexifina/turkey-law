@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1837",
+  "list_number": "1837",
+  "decision_date": "2015-10-03",
+  "title": "Güvenlik nedeniyle sandık yerlerinin seçim bölgesi dışına çıkartılması hususunda görüş istenilmesi üzerine Yüksek Seçim Kurulunca verilen 2015/1837 sayılı karar",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/1969/2015-1837.pdf",
+  "source_sha256": "89265c7050abc73176191135808006741f3f079a66d390a730d6b176ef0955f1",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 13,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-10-03",
+  "law_text_complete": false
+}
