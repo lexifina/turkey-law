@@ -1,0 +1,30 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-10-03",
+  "issue": "29491",
+  "edition": "regular",
+  "item": 6,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ÇEŞİTLİ İLÂNLAR",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Yenimahalle Belediye Başkanlığı İmar ve Şehircilik Müdürlüğünden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2015/10/20151003-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (8 = 8)",
+  "ilan_codes": [
+    "8688/1-1",
+    "8689/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2015/10/20151003-4.htm",
+  "category_page_sha256": "c4d71e5067b91d5e87dbb1e8571446e71fafa0e6f0855c49d28350196d7b2e72",
+  "issue_on_category_page": "29491",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2015/10/20151003.htm",
+  "index_sha256": "dc3bea16fa61f29c1c9b93fb3d08702e0b55ecb762dddfef03ada511eba2f1e6",
+  "index_header": "3 Ekim 2015 ... 29491 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
