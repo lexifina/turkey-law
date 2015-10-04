@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21209",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KARAYOLU YOLCU TAŞIMACILIĞINDA KULLANILAN TERMİNALLERE İLİŞKİN TAVAN ÜCRET TARİFELERİ HAKKINDA TEBLİĞ (TEBLİĞ NO: 70)",
+  "number": "21209",
+  "issuer": "Ulaştırma, Denizcilik ve Haberleşme Bakanı",
+  "path": "teblig/2015/21209",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21209&MevzuatTertip=5",
+  "source_sha256": "2e3613f49a67eaf38b8009f9d67a203495ad2737831674fc06944910712a1e48",
+  "source_bytes": 17755,
+  "published": "2015-10-04",
+  "gazette": "29522",
+  "in_force": "2015-10-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.10.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 625,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21209-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
