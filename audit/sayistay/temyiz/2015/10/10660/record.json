@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40850",
+  "decision_date": "2015-10-06",
+  "source_id": 10660,
+  "chamber": "8",
+  "file_number": "39777",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10660/",
+  "source_sha256": "ae683cbc27790e930a1959be1c6721144f697645b2988f880a23567e0c94769f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
