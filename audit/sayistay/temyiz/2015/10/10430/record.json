@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40857",
+  "decision_date": "2015-10-06",
+  "source_id": 10430,
+  "chamber": "2",
+  "file_number": "38468",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2011",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10430/",
+  "source_sha256": "eeda3c2be7fa41e0557d3d39d10aa508f2f78dd6a1b56746303dc8cd467adc32",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
