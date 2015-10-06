@@ -1,0 +1,24 @@
+{
+  "number": "407",
+  "number_as_published": "2015/407",
+  "year": 2015,
+  "title": "council decision",
+  "decision_date": "2015-10-06",
+  "source": "https://www.pamukkale.bel.tr/y-202-2015-yili-ekim-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "8f55b767dfaa4d5df071b9ca02078e47ef1d4dce72f95a054d45744041c691d8",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2015-10-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.10.2015; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.pamukkale.bel.tr/y-202-2015-yili-ekim-ayi-meclis-karar-ozetleri",
+  "listing_label": "2015 YILI EKİM AYI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one council decision (published decision summary)"
+}
