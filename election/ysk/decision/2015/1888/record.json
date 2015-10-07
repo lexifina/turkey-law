@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2015/1888",
+  "list_number": "1888",
+  "decision_date": "2015-10-07",
+  "title": "Yurt Dışı Seçmen Kütüğüne kayıtlı seçmenlerin de, Yurt İçi Seçmen Kütüğüne kayıtlı seçmenler için aranan belgeler (Türkiye Cumhuriyeti kimlik numarasını taşıyan; nüfus cüzdanı, resmî dairelerce verilen soğuk damgalı kimlik kartı, pasaport, evlenme cüzdanı, askerlik belgesi, sürücü belgesi, hâkim ve savcılar ile yüksek yargı organı mensuplarına verilen mesleki kimlik kartı, avukat, noter ve askerî kimlik kartı gibi kimliğini tereddütsüz ortaya koyan resimli, resmî nitelikteki belgelerden biri) ile oy kullanmalarının mümkün olduğuna ilişkin Yüksek Seçim Kurulunun 2015/1888 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/1943/2015-1888.pdf",
+  "source_sha256": "1596eb3d467f3ad61a67ed14b03520cd49473822596fb86272d012b0c7e77855",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-10-07",
+  "law_text_complete": false
+}
