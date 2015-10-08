@@ -1,0 +1,2 @@
+Sicil raporu vermeye yetkili amirler
+Madde 4 — Genel Müdürlük merkez ve taşra teşkilatında çalışan sözleşmeli personelin sicil ve başarı değerlemesi raporlarını doldurmaya yetkili birinci ve ikinci sicil amirleri bu Yönetmeliğe ekli Ek-1 ve Ek-2 sayılı cetvellerde gösterilmiştir. Birinci ve/veya ikinci sicil amiri bulunmayan birimlerdeki sözleşmeli personelin sicil raporları, üst sicil amirleri tarafından doldurulur.

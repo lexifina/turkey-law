@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.9035",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ETİ MADEN İŞLETMELERİ GENEL MÜDÜRLÜĞÜ SÖZLEŞMELİ PERSONEL SİCİL VE BAŞARI DEĞERLEMESİ RAPORU VERMEYE YETKİLİ AMİRLER YÖNETMELİĞİ",
+  "number": "9035",
+  "issuer": "Eti Maden İşletmeleri Genel Müdürü",
+  "issuer_slug": "eti-maden-isletmeleri-genel-muduru",
+  "path": "regulation/eti-maden-isletmeleri-genel-muduru/2005/9035",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9035&MevzuatTertip=5",
+  "source_sha256": "aa724ae9bc9d6158c3185df547822ad82d13092af547d47c517c132787766d5a",
+  "source_bytes": 27835,
+  "published": "2005-06-07",
+  "gazette": "25838",
+  "in_force": "2015-10-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/10/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-10-08",
+      "RG-8/10/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 420,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

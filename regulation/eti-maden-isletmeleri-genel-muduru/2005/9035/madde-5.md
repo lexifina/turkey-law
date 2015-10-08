@@ -1,0 +1,2 @@
+Sicile ilişkin usul ve esaslar bakımından uygulanacak mevzuat
+Madde 5 — Sicile ilişkin usul ve esaslar bakımından 399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair Kanun Hükmünde Kararname ile 13/9/1990 tarihli ve 90/915 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu İktisadi Teşebbüsleri Sözleşmeli Personel Sicil ve Başarı Değerlemesi Hakkında Yönetmelik hükümleri uygulanır.
