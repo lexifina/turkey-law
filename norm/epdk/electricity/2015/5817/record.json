@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5817",
+  "decision_date": "2015-10-08",
+  "title": "2016 yılında uygulanacak iletim ek ücretine ilişkin",
+  "resmi_gazete_date": "2015-10-24",
+  "resmi_gazete_number": "29512",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QnGv7vRpluQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QnGv7vRpluQ="
+  ],
+  "source_sha256": "75d3e96a9c0aba7382a604feb16b5bebe984ad87680a7b946c61d0a646bc8df3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2015-10-08",
+  "law_text_complete": true
+}
