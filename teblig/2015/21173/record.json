@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.21173",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2016-2018 DÖNEMİ BÜTÇE ÇAĞRISI",
+  "number": "21173",
+  "path": "teblig/2015/21173",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21173&MevzuatTertip=5",
+  "source_sha256": "7b928d33b78da411607193416f1a090366e41041fdee85306d254f81f4009033",
+  "source_bytes": 13345,
+  "published": "2015-10-11",
+  "gazette": "29499",
+  "in_force": "2015-10-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.10.2015)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 293,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21173-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
