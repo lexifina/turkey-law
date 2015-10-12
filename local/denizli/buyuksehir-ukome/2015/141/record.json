@@ -1,0 +1,24 @@
+{
+  "number": "141",
+  "number_as_published": "2015/08/141",
+  "year": 2015,
+  "title": "Karayolları Trafik Yönetmeliği’nin 122. Maddesi’nde belirtilen çekilen, trafikten men edilen veya muhafaza altına alınan veya bulunduğu yerden kaldırılan araçların çekilmesi, kurtarılması, götürülmesi ve muhafazası işlemlerinin ve denetiminin yapılması için Ulaşım Dairesi Başkanlığı, Zabıta Dairesi Başkanlığı, Denizli Şoförler ve Otomobilciler Esnaf Odası, İl Jandarma Komutanlığı ve İl Emniyet Müdürlüğü temsilcilerinden oluşacak komisyon oluşturulması talebi",
+  "decision_date": "2015-10-12",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=10.2015",
+  "official_document": null,
+  "source_sha256": "0fb39c8c6688dae1ff90daa2eb1c0a1bcaebd5f547e265c9acc9eed57bd0509d",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2015-10-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12.10.2015; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "08",
+  "listed_subjects": 1
+}
