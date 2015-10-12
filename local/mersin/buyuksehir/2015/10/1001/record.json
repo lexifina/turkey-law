@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "1001",
+  "decision_date": "2015-10-12",
+  "title": "MEC_KAR_ ( Mezitli İlçesi, Trafo Alanı)",
+  "listed_as": "1001 MEC_KAR_ ( Mezitli İlçesi, Trafo Alanı)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/1001-mec-kar----mezitli-ilcesi-trafo-alani",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk82-12-ekim-2015-meclis-kararlari",
+  "listing_sha256": "1c815c487b11b0e0533ea99ea6325118a14d52514516d69b9a64e9e77c0c53fb",
+  "meeting_title": "MK82-12 EKİM 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
