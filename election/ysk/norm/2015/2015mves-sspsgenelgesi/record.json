@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2015/2015mves-sspsgenelgesi",
+  "list_number": "1926",
+  "genelge_number": "SSPS Genelgesi",
+  "decision_date": "2015-10-12",
+  "title": "Sandık Sonuçları Paylaşım Sistemi (SSPS) Kullanımına İlişkin Usul ve Esasları Gösterir Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/1888/2015MVES-SSPSGenelgesi.pdf",
+  "source_sha256": "6072e0516b84ab6373c6d6361a9a8e6c47b80a084182eef5aeba41c1c19098ae",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2015-10-12",
+  "law_text_complete": false
+}
