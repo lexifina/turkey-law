@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40870",
+  "decision_date": "2015-10-13",
+  "source_id": 10486,
+  "chamber": "1",
+  "file_number": "39262",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10486/",
+  "source_sha256": "e3709d06da8e30d25eb0b750b93ad7ebe7f0b499bb5730dccb4dccd261d8567a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
