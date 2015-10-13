@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "273",
+  "decision_date": "2015-10-13",
+  "source_id": 9493,
+  "chamber": "3",
+  "ilam_number": "393",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/9493/",
+  "source_sha256": "08602af19b4c9639e70e9da34f50ab00cee928db382355a403cec8b0d0730e54",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
