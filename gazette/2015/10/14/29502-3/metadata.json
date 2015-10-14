@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-10-14",
+  "issue": "29502",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARLARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 08/10/2015 Tarihli ve 6477 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151014-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151014.htm",
+  "index_sha256": "d925cd45e1575b5a868d54f459cacad4d966c30024d22e206b6b80234112ac54",
+  "index_header": "14 Ekim 2015 ... 29502 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151014.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
