@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.21180",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MESLEKİ YETERLİLİK KURUMU SINAV, ÖLÇME, DEĞERLENDİRME VE BELGELENDİRME YÖNETMELİĞİ",
+  "number": "21180",
+  "issuer": "Mesleki Yeterlilik Kurumu Başkanı",
+  "issuer_slug": "mesleki-yeterlilik-kurumu-baskani",
+  "path": "regulation/mesleki-yeterlilik-kurumu-baskani/2015/21180",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21180&MevzuatTertip=5",
+  "source_sha256": "00d7f9e8c0faf99cff0c79d88b056b54f3dcf5236a68a55bde838790441c0416",
+  "source_bytes": 87319,
+  "published": "2015-10-15",
+  "gazette": "29503",
+  "in_force": "2015-10-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.10.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4952,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
