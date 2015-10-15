@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "45",
+  "decision_date": "2015-10-15",
+  "source_id": 15369,
+  "chamber": "7",
+  "ilam_number": "61",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15369/",
+  "source_sha256": "06ff30a472e6443547b77bf368333c6bc1975943ccca897a2b576aa25d6910f9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
