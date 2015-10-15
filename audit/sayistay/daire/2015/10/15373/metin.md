@@ -1,0 +1,21 @@
+Yersiz Fiyat Farkı Ödenmesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+A) ... Adi İş Ortaklığına ihale edilen “Refüjlerin ve Yeşil Alanların Bakım ve Sulama Hizmet Alım İşi” ne ilişkin hakediş ödemelerinde raporlu ve işe gelmeyen personel kesintisine fiyat farkı dahil edilmeyerek kamu zararına neden olunduğu görülmüştür.
+
+4734 Sayılı Kamu İhale Kanununa Göre İhale Edilen Hizmet Alımlarında Uygulanacak Fiyat Farkına İlişkin Esaslar’ın 6’ncı maddesinde fiyat farkının "(...) haftalık çalışma saatinin tamamının idarede kullanılmasının öngörüldüğü işçilikler için" ödeneceği belirtilmektedir. Denetçi sorgusunda söz konusu işe ait 641 nolu ödeme emrinde 8 gün, 1983 nolu ödeme emrinde  28 gün, 2817 nolu ödeme emrinde 50 gün, 3526 nolu ödeme emrinde 23 gün, 4266 nolu ödeme emrinde 17 gün raporlu ve işe gelmeyen personel kesintisi yapıldığı, ancak bu kesintiler hesaplanırken ödenen fiyat farkına ilişkin kesintinin dahil edilmediği iddia edilmekte ise de; sadece 641 ve 1983 nolu ödeme emri belgelerinde söz konusu kesintilerin yapılmadığı, belirtilen diğer ödeme emri belgelerinde hak ediş tutarlarına fiyat farkı kesintisinin dahil edildiği anlaşılmıştır.  Savunmalarda bu doğrultuda gönderilen ancak KDV hariç olarak hesaplanan revize kamu zararı hesap tablosunun denetçi tarafından da kabul olunduğu görülmüştür. Ancak kamu zararına neden olan eksik fiyat farkı kesintisi, fatura toplamı üzerinden KDV hesabı yapıldığı dikkate alınarak, belediye bütçesinden yersiz ve fazla KDV ödenmesi neticesini doğuracağından, kamu zararının KDV dahil olarak hesap edilmesi gerekmektedir.
+
+Bu itibarla; ... Adi İş Ortaklığına ihale edilen “Refüjlerin ve Yeşil Alanların Bakım ve Sulama Hizmet Alım İşi” nde 641 ve 1983 nolu ödeme emri eki hakedişlerde işe gelmeyen personel için yapılan kesintiye fiyat farkının dahil edilmemesi sonucu oluşan toplam ...TL (...TL + KDV) tutarındaki kamu zararının;
+
+...TL’sinin ...’e,
+
+...TL’sinin ...’ya, müştereken ve müteselsilen 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faizleri ile ödettirilmesine oy birliğiyle,
+
+B) ... Adi İş Ortaklığına ihale edilen “Refüjlerin ve Yeşil Alanların Bakım ve Sulama Hizmet Alım İşi” ne ilişkin hakediş ödemelerinde işe gelmeyen personel için teknik şartnamede öngörülen ceza kesintisi yapılmayarak kamu zararına neden olunduğu görülmüştür.
+
+Birim fiyat teklif usulü ile ihale edilen söz konusu işe ait teknik şartnamenin 5’ inci maddesinde çalışacak işçi sayısı toplam 93 adet olarak belirtilmiş ve yüklenici tarafından aynı sayıda işçi için teklif verilmiştir. Teknik Şartnamenin 8’ inci maddesinde “personelin belirtilen saatlerde işinin başında olmaması, geç gelmesi, gelmemesi, işi erken bırakması veya verilen işi yapmaması durumunun tutanakla tespiti halinde her bir personel 50 TL ceza uygulanacaktır.” denilmektedir. Maddenin ikinci bendinde ise “İhale konusu hizmet işinin yapılması için, belirtilen sayıda eleman bulundurmadığı eksik eleman çalıştırıldığı, tutanakla tespiti durumunda gün itibariyle personel başına 100,00-TL,” ceza kesintisi yapılacağı belirtilmiştir. Şartname hükmüne göre yüklenicinin istihdam ettiği personelin işe gelmemesi halinde (raporlu olma durumu hariç) kesilmesi gereken cezanın personel/gün başına 50 TL olarak hesap edilmesi ve ceza kesintileri fatura eki hak edişler üzerinden yapıldığı için kesilmeyen ceza tutarlarının hesabına KDV miktarının dahil edilmemesi gerekmektedir.
+
+Ayrıca bu yönde bir itiraz bulunmamasına rağmen, belirtilen kamu zararından muhasebe yetkilisinin 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun 61’inci maddesi uyarınca sorumlu olmadığına;
+
+Bu itibarla; ... Adi İş Ortaklığı yüklenimindeki “Refüjlerin ve Yeşil Alanların Bakım ve Sulama Hizmet Alım İşi” ne ilişkin hakediş ödemelerinde işe gelmeyen personel için teknik şartnamede öngörülen personel/gün başına 50,00 TL ceza kesintisi yapılmayarak hesabı aşağıdaki tabloda görüleceği üzere toplam ... TL kamu zararına neden olunduğu anlaşılmış olup, söz konusu tutarın; ...’e müştereken ve müteselsilen 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faizleri ile ödettirilmesine oy birliğiyle,
