@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "45",
+  "decision_date": "2015-10-15",
+  "source_id": 15378,
+  "chamber": "7",
+  "ilam_number": "61",
+  "item_number": 12,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15378/",
+  "source_sha256": "e7531de73169960a72c3d00700687343d8bed3d9050498a911eab934e1a5115f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
