@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10495",
+  "decision_date": "2015-10-15",
+  "source_id": 11353,
+  "chamber": "1",
+  "ilam_number": "11",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11353/",
+  "source_sha256": "3ff9caaee467cccbff70d83180caaeee11c1ac692cbf276dd381595e65d77f9b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
