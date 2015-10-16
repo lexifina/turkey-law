@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-10-16",
+  "issue": "29504",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Ahi Evran Üniversitesi Türkçe ve Yabancı Dil Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151016-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151016.htm",
+  "index_sha256": "1a83a86271081f10fd95cfe6f346f1e98c39f648d73f727ebede554b8c89ab33",
+  "index_header": "16 Ekim 2015 ... 29504 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151016.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
