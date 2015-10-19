@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2015-10-19T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2015-10-19",
+  "official_number": "B.07.1.GİB.4.34.19.02-105[229-2014/VUK1-18823]-87659",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/25677",
+  "source_id": "ozelge:25677",
+  "source_row_sha256": "b631efc3e0930bfdea3a9784f1b89ddb00fbc1013c79f1d287de2c698dd1e6e2",
+  "title": "Elektronik fatura kullanıcısının nihai tüketiciye faturayı e-posta yoluyla gönderip gönderemeyeceği",
+  "version_label": "as-enacted",
+  "word_count": 889
+}
