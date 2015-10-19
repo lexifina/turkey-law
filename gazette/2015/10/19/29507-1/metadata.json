@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-10-19",
+  "issue": "29507",
+  "edition": "regular",
+  "item": 1,
+  "section": null,
+  "heading": "YÖNETMELİK",
+  "title": "Ulusal Meslek Standartlarının ve Ulusal Yeterliliklerin Hazırlanması Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151019-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151019.htm",
+  "index_sha256": "53f71f56a0f8f11dd6953d844b2fa6e2fa0fb0ffc207e201ae307f8c22dd11ab",
+  "index_header": "19 Ekim 2015 ... 29507 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151019.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
