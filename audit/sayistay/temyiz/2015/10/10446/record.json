@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40912",
+  "decision_date": "2015-10-20",
+  "source_id": 10446,
+  "chamber": "4",
+  "file_number": "39569",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2012",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10446/",
+  "source_sha256": "ef32cb435ff7e5939532ce73adb9ea59ad8c76e201404bc7c4182e0b6a053858",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
