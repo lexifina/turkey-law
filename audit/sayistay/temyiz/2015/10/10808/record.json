@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40937",
+  "decision_date": "2015-10-20",
+  "source_id": 10808,
+  "chamber": "6",
+  "file_number": "40172",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2008",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10808/",
+  "source_sha256": "8bfd0bf20529c6ec9a6af652ae69d90049f6e656bc0e67246370390e440761f4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
