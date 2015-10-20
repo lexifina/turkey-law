@@ -1,0 +1,318 @@
+20 Ekim 2015 SALI
+Resmî Gazete
+Sayı : 29508
+YÖNETMELİK
+Enerji ve Tabii Kaynaklar Bakanlığından:
+RÜZGAR KAYNAĞINA DAYALI ELEKTRİK ÜRETİMİ
+BAŞVURULARININ
+TEKNİK DEĞERLENDİRMESİ HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amaç ve kapsamı; elektrik
+enerjisi üretiminde rüzgar enerjisinin etkin ve verimli kullanımını
+sağlamak, rüzgar kaynağına dayalı olarak yapılan önlisans veya lisanssız
+elektrik üretimi başvurularının teknik değerlendirmelerini yapmak, teknik değerlendirmeleri
+olumlu sonuçlandırılmış olan önlisanslı, lisanslı veya lisanssız projelerin
+koordinat değişikliği, kapasite artışları ve türbin teknik özellikleri ile
+ilgili değişiklik talepleri hakkında uygunluk yazısının düzenlenmesine
+ilişkin usul ve esasları belirlemektir.
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 19/2/1985 tarihli ve 3154
+sayılı Enerji ve Tabii Kaynaklar Bakanlığının Teşkilat ve Görevleri
+Hakkında Kanunun 2 nci maddesinin birinci fıkrasının (b) ve (h) bentleri ve
+10/B maddesi ile 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası
+Kanununun 7 nci maddesinin dördüncü fıkrasının (ç) bendi ve 14 üncü
+maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bağdaşmaz alan: Uygun bulma kararı alınmış,
+önlisans veya lisans verilmiş, ilgili mevzuatı kapsamında Kurum tarafından
+önlisans verilmesine yönelik Kurul Kararı alınmış, santral sahası
+değişikliği talepleri kapsamında Kurum tarafından kamuoyuna ilan edilerek
+Genel Müdürlük tarafından uygun bulunmuş santral sahalarını ve/veya YEKA
+Yönetmeliği kapsamında duyurulan alanları,
+b) Bağlantı bölgesi: Önlisans başvurusu yapılacak
+rüzgar enerjisine dayalı bir üretim tesisinin elektrik sistemine noktasal
+ve/veya bölgesel bazda bağlanabilecekleri il ve/veya illerin idari
+sınırlarını,
+c) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+ç) Başvurunun yarışmaya gireceği bölge adı:
+Önlisans başvurusunda belirtilen santral sahasının alansal büyüklük olarak
+fazla olduğu ilin yer aldığı bölgeyi,
+d) Genel Müdürlük: Yenilenebilir Enerji Genel
+Müdürlüğünü,
+e) Kullanılamaz alan: Genel Müdürlük ve/veya
+Kurumun resmi internet sayfalarında duyurulan ve üzerinde ilgili mevzuatı
+uyarınca RÖİ ve/veya rüzgar türbini bulundurulamayacak alanı,
+f) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+g) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+ğ) LÜY: 2/10/2013 tarihli ve 28783 sayılı Resmî
+Gazete’de yayımlanan Elektrik Piyasasında Lisanssız Elektrik Üretimine
+İlişkin Yönetmeliği,
+h) REPA: Genel Müdürlük tarafından yayımlanan
+Türkiye Rüzgar Enerjisi Potansiyeli Atlasını,
+ı) RES: Rüzgar enerjisine dayalı elektrik üretim
+santralini,
+i) RGY-RÖİ (Rüzgar ölçüm noktasındaki rüzgar güç
+yoğunluğu): Ek-1’de belirtilen yönteme göre hesaplanan düşey serbest atmosfere
+dik doğrultuda hareket eden hava kütlesinin birim kesit alanındaki gücünü
+(W/m2),
+j) RÖİ: Rüzgar ölçüm istasyonunu,
+k) RÖİ kurulum uygunluk belgesi: Genel Müdürlük
+tarafından düzenlenen ve içeriğinde RÖİ kurulmak istenilen noktanın
+koordinatları ile kullanılamaz alanlar ve/veya bağdaşmaz alanlarla
+ilişkisinin gösterildiği belgeyi,
+l) Santral sahası: Köşe koordinatları; önlisans
+ve/veya lisanssız üretim başvurularında yer alan ve Ek-2’de belirtilen usul
+ve esaslara göre belirlenecek alanı,
+m) SSKGY (Santral sahası kurulu güç yoğunluğu):
+Santral sahası içerisindeki türbinlerin toplam mekanik güçlerinin santral
+sahasının yüzölçümüne bölünmesi ile elde edilen değeri (MWm/km2),
+n) TDR: Önlisans veya lisanssız elektrik üretimi
+başvuruları için Genel Müdürlük tarafından Ek-3’deki formata göre
+düzenlenen teknik değerlendirme raporunu,
+o) UTM koordinatı: “Universal Transversal Mercator”
+izdüşümünde altı veya üç derecelik dilim esasına göre verilen koordinatı
+(ED 50 Datum),
+ö) YEKA Yönetmeliği: 27/11/2013 tarihli ve 28834
+sayılı Resmî Gazete’de yayımlanan Elektrik Enerjisi Üretimine Yönelik
+Yenilenebilir Enerji Kaynak Alanlarının Belirlenmesi, Derecelendirilmesi,
+Korunması ve Kullanılmasına İlişkin Usul ve Esaslara Dair Yönetmeliği,
+ifade eder.
+İKİNCİ BÖLÜM
+Rüzgar Kaynağına Dayalı Elektrik Üretimi
+Başvurularının Teknik Değerlendirmesi
+Önlisans
+başvurularının teknik değerlendirmesi
+MADDE 4 – (1) Özel hukuk hükümlerine tabi tüzel kişilerin
+önlisans başvuruları kapsamında sundukları bilgi ve belgeler arasından
+Ek-4’te tanımlanmış olanları Kurum tarafından teknik değerlendirme yapılmak
+üzere Genel Müdürlüğe gönderilir.
+(2) Genel Müdürlüğe gönderilen bilgi ve belgelerin
+incelenmesi sonucunda aşağıda belirtilen durumların tespit edilmesi halinde
+başvurunun teknik değerlendirmesi uygun bulunmaz ve bu durum Kuruma
+bildirilir:
+a) Bilgi formu, rüzgar ölçüm istasyonu kurulum
+raporu ve rüzgar ölçüm sonuç raporunda belirtilen RÖİ koordinatlarından
+herhangi birinin farklı olması,
+b) Bilgi formunda belirtilen RÖİ koordinatlarının
+başvuruda belirtilen santral sahasında bulunmaması,
+c) RGY-RÖİ değerinin 150 W/m2 değerinden küçük olması,
+ç)
+SSKGY değerinin 2 MWm/km2 değerinden küçük olması,
+d) Önlisans başvurusunda belirtilen santral sahası
+köşe koordinatlarının tamamının kullanılamaz alanlar ve/veya bağdaşmaz
+alanlar içerisinde bulunması,
+e) Başvuruda belirtilen santral sahasının,
+kullanılamaz alanlar ve/veya bağdaşmaz alanlarla kesişmesi durumunda
+kesişilen alan dışında kalan kısmı içerisinde kalacak şekilde sadece türbin
+koordinatları kullanılarak yeni bir santral sahasının belirlenemeyecek
+olması,
+f) RGY-RÖİ hesabında kullanılacak ardışık
+sıralanmış kullanılabilir ölçüm verisinin Genel Müdürlüğe gönderilmemiş
+olması,
+g) Başvuruda belirtilen ve birbirlerine komşu olan
+türbinler ve/veya RÖİ’ler arasındaki mesafenin 2.800 metreden fazla olması.
+(3) Bu Yönetmelik ve eklerinde belirtilen usul ve
+esaslara göre yapıldığı tespit edilen önlisans başvurularının teknik
+değerlendirmesi uygun görülerek başvuruya ait TDR düzenlenir ve Kuruma
+gönderilir.
+(4) Aşağıdaki durumlardan herhangi birinin tespit
+edilmesi halinde, önlisans başvurusunun teknik değerlendirmesi uygun
+görülmekle birlikte türbin ve santral sahası köşe koordinatlarına yer
+verilmeyen ve ilgili hataların belirtildiği TDR düzenlenerek Kuruma
+gönderilir:
+a)
+Başvuruda belirtilen santral sahasının, ikinci fıkranın (g) bendinde
+belirtilen durum hariç olmak üzere Ek-2’de belirtilen diğer mesafeler ve
+usullere göre belirlenmemiş olması,
+b) Başvuruda belirtilen herhangi bir türbin
+koordinatının, Ek-5’te tanımlanan yönteme göre komşu santral sahalarında
+bulunan ve teknik değerlendirmesi uygun bulunmuş geçerli bir TDR’de
+belirtilen türbin/türbinleri etkileyen koordinatlarda olması,
+c) Başvuruda belirtilen santral sahasının emniyet
+bandı üzerinde türbin ve/veya RÖİ bulundurulması,
+ç) Başvuruda belirtilen santral sahasının
+kullanılamaz alanlar ve/veya bağdaşmaz alanlarla kesişmesi.
+(5) Teknik değerlendirmesi uygun görülerek Kuruma
+gönderilen TDR’lere ait önlisans başvurularının başvuru kapasitesinden daha
+az miktarda bağlantı hakkı kazanması halinde santral sahası köşe
+koordinatları başvuru sahibi tarafından ilk başvuruda belirtilen santral
+sahası içerisinde kalacak şekilde mevcut veya yeni türbin koordinatlarına
+göre yeniden belirlenir ve teknik değerlendirmenin yapılabilmesi için
+Ek-4’te tanımlanmış olan bilgi ve belgelerin tamamı Kurum üzerinden Genel
+Müdürlüğe gönderilir.
+(6) Teknik değerlendirmesi uygun görülmekle
+birlikte dördüncü fıkrada belirtilen durumlara yer verilerek Kuruma
+gönderilen TDR’lere ait önlisans başvurularının bağlantı hakkı kazanması
+halinde santral sahası köşe koordinatları başvuru sahibi tarafından ilk
+başvuruda belirtilen santral sahası içerisinde kalacak şekilde mevcut veya
+yeni türbin koordinatlarına göre yeniden belirlenir ve teknik değerlendirmenin
+yapılabilmesi için Ek-4’te tanımlanmış olan bilgi ve belgelerin tamamı
+Kurum üzerinden Genel Müdürlüğe gönderilir.
+(7) Beşinci fıkra ve altıncı fıkra kapsamında
+yapılan teknik değerlendirme sonucunda bu Yönetmelikte belirtilen usul ve
+esaslara uyulmadığının tespit edilmesi halinde başvurunun teknik
+değerlendirmesi uygun bulunmaz ve bu durum Kuruma bildirilir.
+(8) Bağlantı bölgesi başvuruda belirtilen santral
+sahasının alansal olarak en fazla yer kapladığı ilin bulunduğu bölgedir.
+(9) Önlisans ve/veya lisans alınmış bir RES projesi
+için önlisans ve/veya lisans sahibi tarafından Genel Müdürlükten alınacak
+uygunluk belgesi, proje onay ve onaylı projelerine göre yapılan tesislerin
+kabul işlemlerinde ibraz edilmek zorundadır. Uygunluk belgesinin düzenlenebilmesi
+için her bir türbinin her türlü ve her ölçekteki imar planlarına
+işlendiğinin belgelendirilmesi gerekir.
+(10) Genel Müdürlükten alınacak RÖİ kurulum
+uygunluk belgesi ibraz edilmeden yetkili hiçbir kamu kurum ve kuruluşlarına
+kuruluşuna RÖİ kurma izni için başvuru yapılamaz ve rüzgar ölçüm istasyonu
+kurulum raporu düzenlenemez.
+(11) Yetkili kamu kurumları veya akredite
+kuruluşlar tarafından onaylanmış rüzgar ölçüm istasyonu kurulum raporunun
+bir örneği ölçüm sahibi kişilerce onay tarihinden itibaren 30 takvim günü
+içerisinde Genel Müdürlüğe bildirilir. Bildirilmeyen RÖİ’ler ile yapılan
+önlisans başvurularının teknik değerlendirmesi yapılmaz.
+(12) Genel Müdürlük, RÖİ’lerin standartlarına ve
+RÖİ kurulum uygunluk belgesine göre kurulup kurulmadığını ve işletme
+şartlarını denetleyebilir. Denetleme sonucunda eksiklik belirlenmesi
+durumunda, bu RÖİ’ler kapsamında yapılacak önlisans başvurularının teknik
+değerlendirmesi yapılmaz.
+Önlisans
+ve/veya üretim lisansı alınmış başvurular için talep edilen değişikliklerin
+teknik değerlendirmesi
+MADDE 5 – (1) Rüzgar enerjisine dayalı üretim önlisans veya
+lisansı sahibi şirketlerin ünite bilgilerinde değişiklik amacıyla yaptığı
+tadil başvuruları hakkındaki teknik değerlendirmenin yapılabilmesi için
+Ek-4’te tanımlanan bilgi formunun basılı, onaylı ve sayısal ortamda
+hazırlanarak Kuruma sunulması gerekir. Ek-5’te tanımlanan esaslara göre
+komşu santral sahalarındaki türbinlerle etkileşime girmeyenler ve Ek-2’de
+belirtilen yönteme göre uygun yerlerde türbin bulunduranlar için uygunluk
+yazısı düzenlenerek Kuruma gönderilir.
+(2) Önlisans ve/veya lisansta belirtilen santral
+sahası köşe koordinatlarının tadil edilmek istenmesi durumunda Ek-4’te yer
+alan birinci ve ikinci maddelerde belirtilenler Kurum tarafından teknik
+değerlendirme yapılmak üzere Genel Müdürlüğe gönderilir. Talep kapsamında
+aşağıda belirtilen kriterleri sağlayanlar için uygun TDR düzenlenir:
+a) Talep kapsamında belirtilen türbinlerin, Ek-5’te
+tanımlanan esaslara göre komşu santral sahalarındaki türbinlerle etkileşime
+girmemesi,
+b) Talep kapsamında belirtilen santral sahası köşe
+koordinatlarından herhangi birinin kullanılamaz alanlar ve/veya bağdaşmaz
+alanlar içerisinde bulunmaması,
+c) Yeni santral sahasına ait SSKGY değerinin,
+önlisans ve/veya lisans başvurusunun teknik değerlendirmesi kapsamında
+uygun görülerek Kuruma gönderilmiş olan TDR’de belirtilen SSKGY değerine
+eşit veya bu değerden büyük olması,
+ç) Yeni santral sahasının, Ek-2’de belirtilen
+santral sahası belirleme yöntemine uygun olarak belirlenmiş olması.
+(3) Santral sahaları arasındaki mesafeleri 300 metrenin
+altında olan önlisans ve/veya lisans almış başvuru sahipleri, 300 metrenin
+altındaki mesafeleri içeren santral sahalarının sınır çizgilerine ait
+emniyet bantlarında türbin bulundurabilirler. Bu türden taleplerin önlisans
+ve/veya lisans sahibi kişilerce birlikte yapılması, komşu sahalardaki
+türbinlerin birbirlerinden olumsuz etkilenmemesi ve talebin Genel Müdürlük
+tarafından uygun görülmesi esastır.
+(4) İşletmeye alınmış bir RES’e ait türbinler için
+koordinat değişikliği ile elektriksel ve/veya mekanik kapasite artışları
+kapsamında santral sahası emniyet bandında aşağıdaki koşullarda türbin
+bulundurulması mümkündür:
+a) Emniyet bandında bulundurulmak istenen her bir
+türbinin rotor kanat çapının 150 metre olduğu kabul edilerek Ek-5’te
+belirtilen yönteme göre çizilen elipsler içerisine başka şirketler
+tarafından önlisans başvurusu kapsamında bir türbin konulamayacağının
+tespit edilmesi,
+b) Emniyet bandındaki her bir türbin koordinatı
+merkez kabul edilerek yarıçapı 1.000 metre olacak şekilde çizilen dairesel
+bir alanın santral sahasının dışında kalan kısmına, ilgili kamu kurum ve
+kuruluşlarınca mevzuatı çerçevesinde türbin konulmasına izin
+verilemeyeceğinin belgelendirilmesi.
+(5) Bu madde kapsamında Genel Müdürlük tarafından
+Kuruma gönderilen uygunluk yazıları veya TDR’ye istinaden verilen önlisans
+ve/veya lisans tadil kararları Kurum tarafından karar tarihinden itibaren
+20 iş günü içinde Genel Müdürlüğe gönderilir.
+LÜY
+kapsamında teknik değerlendirme raporunun düzenlenmesi ve tadilat talepleri
+hakkında uygunluk yazısının oluşturulması
+MADDE 6 – (1) Genel Müdürlük tarafından rüzgar kaynağına
+dayalı olarak LÜY kapsamında bağlantı başvurusu olumlu bulunanlar için
+mevzuatı kapsamında ilgili şebeke işletmecisi tarafından çağrı mektubu
+verilmeden önce TDR düzenlenmek üzere Genel Müdürlük internet sayfasında
+duyurulan bilgi ve belgeler Genel Müdürlüğe gönderilir.
+(2) LÜY kapsamında rüzgar kaynağına dayalı olarak
+kurulmak istenen bir tesis için aşağıda belirtilen durumlardan en az
+birinin tespit edilmesi halinde başvurunun teknik değerlendirmesi olumsuz
+sonuçlandırılır:
+a) Genel Müdürlük internet sayfasında duyurulan
+bilgi ve belgelerin eksik veya usulüne uygun olmayan şekilde hazırlanmış
+olması,
+b) Başvuruda belirtilen türbinlerin kullanılamaz
+alanlar ve/veya bağdaşmaz alanlar içerisinde veya LÜY kapsamında
+geçerliliği devam eden bir TDR’de belirtilen türbin/türbinlerin rüzgarını
+etkileyecek noktalarda bulunması,
+c) Başvuruda belirtilen türbin koordinatları merkez
+kabul edilerek yarıçapı türbin rotor kanat uzunluğu olacak şekilde
+çizilecek olan dairesel bir alanın, başvuruda belirtilen arazi sınırının
+dışına taşması,
+ç) Kamu kurum ve kuruluşları hariç olmak üzere
+başka gerçek veya tüzel kişilerce yapılan lisanssız üretim başvurularında
+belirtilen santral sahasının, Hazinenin özel mülkiyetindeki veya devletin
+hüküm ve tasarrufu altındaki taşınmazlar üzerinde bulunması.
+(3) LÜY kapsamında rüzgar kaynağına dayalı olarak
+birbirlerine komşu olacak şekilde konumlandırılmak istenen ve Genel
+Müdürlük tarafından Ek-5’te belirtilen esaslara göre birbirlerinin
+rüzgarını olumsuz yönde etkilediği belirlenen LÜY başvuruları için başvuru
+sahiplerinin bu olumsuzluğu kabul ettiklerine dair birbirlerine verecekleri
+izinler dikkate alınmaz ve bu tür başvurular için TDR düzenlenmez.
+(4) Rüzgar kaynağına dayalı olarak yapılan
+lisanssız elektrik üretimi başvuruları kapsamında Genel Müdürlük tarafından
+TDR düzenlenmiş olan başvurularda belirtilen türbin teknik özellikleri ve
+koordinat bilgilerinde yapılabilecek tadilat talepleri için ilk başvuru
+esnasında ilgili şebeke işletmecisine sunulan mülkiyeti gösteren belgede
+belirtilen taşınmaz/taşınmazlarda olmak kaydıyla ilgili mevzuatı kapsamında
+TDR tekrar düzenlenir.
+(5) Önlisans başvurularının alındığı tarihten
+bağlantı yarışması sonuçlanıncaya kadar geçen süre içerisinde önlisans
+başvurularında belirtilen santral sahaları içerisinde kalan LÜY
+kapsamındaki başvuruların teknik değerlendirmesi yapılmaz. Bu fıkra
+kapsamındaki başvurularda ilgili mevzuatta tanımlanan teknik değerlendirme
+için verilen süre yarışma tarihinden itibaren işletilir.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 7 –
+(1) 9/11/2008 tarihli ve 27049
+sayılı Resmî Gazete’de yayımlanan Rüzgar Enerjisine Dayalı Lisans
+Başvurularının Teknik Değerlendirilmesi Hakkında Yönetmelik yürürlükten
+kaldırılmıştır.
+Mevcut
+önlisans başvurularında SSKGY ve RGY-RÖİ değerlerinin hesaplanması
+GEÇİCİ
+MADDE 1 – (1) 3/10/2016 tarihinden
+önce yapılan önlisans başvuruları için aranan asgari SSKGY değeri 0,6
+MWm/km2 olup bu başvurular için asgari RGY-RÖİ
+değeri hesaplanmaz.
+Başvuruda
+belirtilen santral sahasının lisanslı bir santral sahası ile kesişmesi
+nedeniyle teknik değerlendirmesi yapılmamış olan başvuruların
+sonuçlandırılması
+GEÇİCİ
+MADDE 2 – (1) Bu Yönetmeliğin
+yürürlüğe girdiği tarihten önce lisans başvurularının teknik değerlendirmeleri
+kapsamında, başvuruda belirtilen türbin koordinatlarının tamamının
+kesişilen lisanslı bir santral sahası içerisinde bulunması nedeniyle
+başvurunun teknik değerlendirmesinin yapılmadığı hususu Kuruma bildirilmiş
+olan başvurular için sistem bağlantı hakkının halen geçerli olması, ilk
+lisans başvurusunda belirtilen santral sahasının içerisinde kalınması ve
+ilk başvuruda belirtilen santral sahası içerisindeki türbinlerin başka santral
+sahalarındaki türbinlerle etkileşmemesi durumlarında bu Yönetmelik
+esaslarına göre uygun TDR düzenlenir.
+Yürürlük
+MADDE 8 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe
+girer.
+Yürütme
+MADDE 9 –
+(1) Bu Yönetmelik hükümlerini
+Enerji ve Tabii Kaynaklar Bakanı yürütür.
+Ekleri için tıklayınız.
