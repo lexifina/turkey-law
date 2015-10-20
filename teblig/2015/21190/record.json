@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21190",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ALBERK QA ULUSLARARASI TEKNİK KONTROL VE BELGELENDİRME ANONİM ŞİRKETİ’NİN TIBBİ CİHAZ YÖNETMELİĞİ KAPSAMINDA ONAYLANMIŞ KURULUŞ OLARAK ATAMASININ YENİLENMESİNE DAİR TEBLİĞ",
+  "number": "21190",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "path": "teblig/2015/21190",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21190&MevzuatTertip=5",
+  "source_sha256": "62ecee4e05ed2de1efa908d3fdb3ea3ccf24ed34ed965e837923de1747268397",
+  "source_bytes": 8868,
+  "published": "2015-10-20",
+  "gazette": "29508",
+  "in_force": "2015-10-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.10.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 191,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21190-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
