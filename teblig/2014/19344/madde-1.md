@@ -1,0 +1,3 @@
+TEBAR TEST BELGELENDİRME ARAŞTIRMA VE GELİŞTİRME TİC. A.Ş.’NİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE
+DAİR TEBLİĞ (MHG/2014-05)
+MADDE 1 – (1) Avrupa Komisyonu tarafından 2164 kimlik kayıt numarası tahsis edilen ve Şerif Ali Çiftliği Hendem Cad. No.58 Yukarı Dudullu 34775 Ümraniye/ İSTANBUL adresinde bulunan TEBAR Test Belgelendirme Araştırma ve Geliştirme Tic. A.Ş. 10/7/2013 tarihli ve 28703 sayılı Resmî Gazete’de yayımlanan Yapı Malzemeleri Yönetmeliği (305/2011/AB) çerçevesinde Ek-1’de yer alan kapsamda performansın değişmezliğinin değerlendirmesi ve doğrulaması faaliyetini yürütmek üzere Çevre ve Şehircilik Bakanlığı tarafından onaylanmış kuruluş olarak görevlendirilmiştir.
