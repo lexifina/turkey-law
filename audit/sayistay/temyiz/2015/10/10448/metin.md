@@ -1,0 +1,3 @@
+224 sayılı ilamın 29. maddesiyle verilen tazmin hükmü, aynı tazmin hükmünde gerçekleştirme görevlisi sıfatıyla iştiraki bulunan ………’in başvurusu üzerine düzenlenen 20.10.2015 tarih ve 40912 tutanak sayılı Temyiz Kurulu Kararı ile bozulmuş bulunduğundan, dilekçinin işbu madde ile ilgili itirazı üzerine Kurulumuzca yapılacak işlem olmadığına, ancak aynı mahiyette olan bu dosyanın da sözü edilen 39569 numaralı dosya ile birleştirilerek gereği yapılmak üzere kararı veren daireye TEVDİİNE oybirliği ile,
+
+Karar verildiği 20.10.2015 tarih ve 40914 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
