@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2015/45",
+  "meeting_date": "2015-10-21",
+  "meeting_date_as_published": "21.10.2015",
+  "decision_no": "91",
+  "source_id": 6998,
+  "title": "RTÜK kararı 2015/45-91",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/6998",
+  "source_sha256": "45a152b3e65c6df4f3f3191f987f5db7c65d4a2a13bd4f83f45aae106537bd38",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (17 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
