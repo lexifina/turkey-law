@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35341",
+  "decision_date": "2015-10-22",
+  "source_id": 10967,
+  "chamber": "2",
+  "ilam_number": "20",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/10967/",
+  "source_sha256": "6c3531bf0aca81e2b307dd8f42baac1186d2a5d86af1d51a0955840821f219cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
