@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "48",
+  "decision_date": "2015-10-22",
+  "source_id": 13285,
+  "chamber": "7",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13285/",
+  "source_sha256": "6815b9dacb48aad9bdf2daa4b838d20530fba6f7fa423b9425aeefbd56cc5140",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
