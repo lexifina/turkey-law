@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "46",
+  "decision_date": "2015-10-22",
+  "source_id": 13356,
+  "chamber": "7",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13356/",
+  "source_sha256": "eea99a7b24a0c90d653352ea2b71f7b0964e6360c0b3d963e6854e26d67ad136",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
