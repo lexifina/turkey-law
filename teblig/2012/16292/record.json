@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.16292",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "OPSİYONLARDAN KAYNAKLANAN PİYASA RİSKİ İÇİN STANDART METODA GÖRE SERMAYE YÜKÜMLÜLÜĞÜ HESAPLANMASINA İLİŞKİN TEBLİĞ",
+  "number": "16292",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "path": "teblig/2012/16292",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16292&MevzuatTertip=5",
+  "source_sha256": "875f2ecdeef71e3b7912835b6bb0d27b2cb22bb0d352ee1fd1c4f205a8d458e0",
+  "source_bytes": 51616,
+  "published": "2012-06-28",
+  "gazette": "28337",
+  "in_force": "2015-10-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/10/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-10-23",
+      "RG-23/10/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-10-23",
+      "23/10/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/7/2012 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2311,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

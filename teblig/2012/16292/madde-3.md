@@ -1,0 +1,31 @@
+Tanımlar
+MADDE 3- (1) (2) Bu Tebliğde yer alan;
+a) Alım opsiyonu: Opsiyonu alan tarafa, sözleşmenin vadesinde veya vadeye kadar olan süre içinde sözleşmeye konu varlığı, sözleşmede belirtilen fiyat ve miktardan satın alma hakkı veren opsiyonu,
+b) Banka: Kanunun 3 üncü maddesinde tanımlanan bankaları,
+c) Başabaş-opsiyon: Sözleşmeye konu varlığın piyasa fiyatının opsiyonun kullanım fiyatına eşit olması durumu,
+ç) (Değişik:RG-23/10/2015-29511)(1) Delta: Opsiyonun fiyatının, opsiyon sözleşmesine konu varlığın fiyatında meydana gelebilecek değişmeye olan duyarlılığını,
+d) Faiz tabanı: Değişken faizli sözleşmeye konu varlığa uygulanacak faiz oranının alt limitini,
+e) Faiz tavanı: Değişken faizli sözleşmeye konu varlığa uygulanacak faiz oranının üst limitini,
+f) (Değişik:RG-23/10/2015-29511)(1) Gama: Opsiyon deltasının, opsiyon sözleşmesine konu varlığın fiyatında meydana gelebilecek değişmeye olan duyarlılığını,
+g) (Değişik:RG-23/10/2015-29511)(1) Genel piyasa riski oranı: Yönetmeliğin 18 ve 21 inci maddelerinde yer alan ilgili pozisyon ve finansal araçlara ilişkin genel piyasa riski sermaye yükümlülüğü oranlarını,
+ğ) Kârda-opsiyon: Sözleşmeye konu varlığın piyasa fiyatının opsiyonun kullanım fiyatıyla karşılaştırıldığında, opsiyon hakkını kullanmanın opsiyon sahibine kazanç sağladığı durumu,
+h) Kısa alım opsiyonu pozisyonu: Alım opsiyonunu satan tarafın pozisyonunu,
+ı) Kısa satım opsiyonu pozisyonu: Satım opsiyonunu satan tarafın pozisyonunu,
+i) Kullanım fiyatı: Sözleşmeye konu varlığın alım veya satım hakkının vade süresince veya vade sonunda kullanabileceği fiyatı,
+j) Kurum: Bankacılık Düzenleme ve Denetleme Kurumunu,
+k) Opsiyonun delta eşdeğeri: Opsiyon sözleşmesine konu varlığa ilişkin pozisyonun bu varlığın piyasa fiyatı ve sonrasında da bu opsiyonun deltası ile çapımı sonucu bulunan tutarı
+l) Opsiyon primi/opsiyon fiyatı: Opsiyonu satın alan tarafın opsiyonu satan tarafa, sözleşmede yer alan hakları karşılığında yaptığı ödemeyi,
+m) Opsiyon sözleşmesi: Opsiyonu alan tarafa, önceden belirlenen fiyat, miktar ve nitelikte ekonomik veya finansal göstergeyi, para veya sermaye piyasası aracını, emtiayı veya dövizi, belirlenen vade sonunda (Avrupa tipi opsiyon) veya belirli bir vade süresi içinde herhangi bir zamanda (Amerikan tipi opsiyon) satın alma veya satma hakkı veren; opsiyonu satan tarafı ise yükümlü kılan sözleşmeyi,
+n) Opsiyonun gerçek değeri: Kârda opsiyonun kullanım fiyatı ile opsiyon sözleşmesine konu varlığın piyasa fiyatı arasındaki farkı,
+o) (Değişik:RG-23/10/2015-29511)(1) Ro: Opsiyonun fiyatının, faiz oranındaki değişime olan duyarlılığını,
+ö) Satım opsiyonu: Opsiyonu alan tarafa, sözleşmenin vadesinde veya vadeye kadar olan süre içinde sözleşmeye konu varlığı, sözleşmede belirtilen fiyat ve miktardan satma hakkı veren opsiyonu,
+p) (Değişik:RG-23/10/2015-29511)(1) Spesifik risk oranı: Yönetmeliğin Üçüncü Kısmının İkinci Bölümü ile 21 inci maddesinde yer alan ilgili pozisyon ve finansal araçlara ilişkin spesifik risk sermaye yükümlülüğü oranlarını,
+r) Swaptions: Değişken faiz (sabit faiz) karşılığında sabit faiz (değişken faiz) elde etme hakkı veren opsiyon türünü,
+s) (Değişik:RG-23/10/2015-29511)(1) Teta: Opsiyonun fiyatının, zamana göre değişim oranını,
+ş) Uzun alım opsiyonu pozisyonu: Alım opsiyonunu satın alan tarafın pozisyonunu,
+t) Uzun satım opsiyonu pozisyonu: Satım opsiyonunu satın alan tarafın pozisyonunu,
+u) (Değişik:RG-23/10/2015-29511)(1) Vega: Opsiyonun fiyatının, opsiyon sözleşmesine konu finansal aracın fiyatının volatilitesindeki değişime olan duyarlılığını,
+ü) Volatilite: Finansal varlıkların fiyat veya oranındaki dalgalanmaların büyüklük ve sıklık derecesinin ölçüsünü,
+v)Yönetmelik: Bankaların Sermaye Yeterliliğinin Ölçülmesine ve Değerlendirilmesine İlişkin Yönetmeliği,
+y) Zararda-opsiyon: Sözleşmeye konu varlığın piyasa fiyatı opsiyonun kullanım fiyatıyla karşılaştırıldığında, opsiyon hakkını kullanmanın opsiyon sahibinin zararına yol açtığı durumu
+ifade eder.
