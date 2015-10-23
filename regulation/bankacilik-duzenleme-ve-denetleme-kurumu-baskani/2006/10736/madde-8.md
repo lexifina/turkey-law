@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Yıllık Faaliyet Raporunun Sunumu ve Yayımlanması
+Yıllık faaliyet raporunun sunumu
+MADDE 8 – (1) Hesap dönemi sonunda hazırlanan ve bu Yönetmeliğin 6 ncı maddesinde belirtilen bilgiler ile 7 nci maddesinin ikinci fıkrası kapsamında verilecek ilave bilgileri içeren yıllık faaliyet raporu, bankanın yönetim kurulu başkanı, denetim komitesi üyeleri, genel müdür ile finansal raporlamadan sorumlu genel müdür yardımcısı ve ilgili birim müdürü veya bu unvanlara eşdeğer kişiler tarafından ad, soyad ve unvan belirtilmek suretiyle imzalanarak bu Yönetmelikte belirlenen usul ve esaslar çerçevesinde hazırlandığını ihtiva eden beyanları ve varsa ilave görüş ve önerileri ile yönetim kurulunun onayına sunulur.
+(2) Yönetim kurulu kararı ile genel kurula sunulması uygun görülen yıllık faaliyet raporu bu Yönetmeliğin 9 uncu maddesi çerçevesinde değerlendirilir ve aynı maddenin birinci veya üçüncü fıkraları uyarınca verilecek bağımsız denetçi görüşü ile birlikte yıllık genel kurul toplantısından en az onbeş gün önce ortakların incelemesine sunulur.

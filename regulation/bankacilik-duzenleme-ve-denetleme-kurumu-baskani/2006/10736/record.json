@@ -1,0 +1,54 @@
+{
+  "source_id": "7.5.10736",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BANKALARCA YILLIK FAALİYET RAPORUNUN HAZIRLANMASINA VE YAYIMLANMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "10736",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2006/10736",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10736&MevzuatTertip=5",
+  "source_sha256": "615e5e604cf5814a1cc37b61640971a9e1322f7c01ff344d2220701775d12e48",
+  "source_bytes": 38421,
+  "published": "2006-11-01",
+  "gazette": "26333",
+  "in_force": "2015-10-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/10/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-10-23",
+      "RG-23/10/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-10-23",
+      "23/10/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-03-06",
+      "RG-6/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-06",
+      "6/3/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer",
+    "Bu Yönetmelik hükümlerini Bankacılık Düzenleme ve Denetleme Kurumu Başkanı yürütür __________ (1) Bu değişiklik 31/3/2016 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1552,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
