@@ -1,0 +1,9 @@
+İleri Ölçüm Yaklaşımına ilişkin nitel standartlar
+MADDE 5 – (Değişik:RG-23/10/2015-29511)(1)
+(1) İleri Ölçüm Yaklaşımına ilişkin olarak aşağıda belirtilen nitel standartların sağlanması şarttır:
+a) Bankanın operasyonel risk ölçüm sisteminin, günlük risk yönetim süreçlerine entegre olması gerekir. Söz konusu ölçüm sisteminin, operasyonel risk için hesaplanan sermaye yükümlülüğünün faaliyet kollarına tahsisini ilgili faaliyet kollarında operasyonel risk yönetiminin geliştirilmesi için teşvikler yaratacak şekilde sağlaması ve bankanın bu amaç için kullanmak üzere özel tekniklere sahip olması gerekir.
+b) Operasyonel risk yönetimi, risk yönetimi birimi ya da risk yönetimi birimi ile aynı iç sistemler sorumlusuna bağlı olarak çalışacak bankanın diğer faaliyetlerinden bağımsız olarak örgütlendirilecek bir birim tarafından gerçekleştirilir. Anılan faaliyetler, bankanın ilgili birimleri ile işbirliği içerisinde gerçekleştirilir.
+c) Operasyonel riskler ve kayıplar düzenli olarak bankanın ilgili faaliyet kollarına ve üst yönetimine rapor edilir. Bu raporlarda yer alan bilgiler çerçevesinde gerekli tedbirlerin alımına yönelik prosedürlere sahip olunması gerekir.
+ç) Operasyonel risk yönetim sistemlerinin yazılı hale getirilmesi ve sisteme uyumun sağlanması amacına yönelik rutin kontrollere ve uyumsuzluğun giderilmesine yönelik alınacak tedbirleri düzenleyen politikalara sahip olunması gerekir.
+d) Operasyonel risk yönetim süreçleri ve ölçüm sistemleri, faaliyet kolları ve operasyonel risk fonksiyonu bazında iç denetim birimi tarafından düzenli olarak incelenir.
+e) Operasyonel risk ölçüm sisteminin validasyon sürecinde; içsel validasyon süreçlerinin etkin ve yeterli, operasyonel risk ölçüm sistemine ilişkin veri akışları ve süreçlerinin, şeffaf ve erişilebilir olması gerekir. Sistemin özelliklerine ve parametrelerine Kurum tarafından kolayca erişim sağlanır.

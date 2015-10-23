@@ -1,0 +1,2 @@
+Operasyonel riske esas tutar hesaplanması
+MADDE 7 – (1) Operasyonel riske esas tutar, beklenen kayıp ve beklenmeyen kayıp tutarları toplamının onikibuçuk ile çarpılması suretiyle hesaplanır. Beklenen kayıp tutarı için karşılık ayrılmış olması halinde, bu tutar operasyonel riske esas tutar hesaplanmasına konu edilmez. Bu Tebliğ uyarınca hesaplanan operasyonel riske esas tutar, Temel Gösterge Yöntemi ile hesaplanan operasyonel riske esas tutarın yüzde yetmişinden az olamaz.
