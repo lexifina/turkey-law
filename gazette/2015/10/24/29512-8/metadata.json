@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-10-24",
+  "issue": "29512",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Bazı Alacakların 6552 Sayılı Kanun Kapsamında Yeniden Yapılandırılmasına Dair Genel Tebliğ (Seri No: 3)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151024-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151024.htm",
+  "index_sha256": "ae28893f2024e0e953fe91783638da446d54531409f6ef98ded1dcb136166263",
+  "index_header": "24 Ekim 2015 ... 29512 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151024.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
