@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21199",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜBERKÜLOZ LABORATUVARLARININ ÇALIŞMA USUL VE ESASLARINA DAİR TEBLİĞ",
+  "number": "21199",
+  "issuer": "Sağlık Bakanı",
+  "path": "teblig/2015/21199",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21199&MevzuatTertip=5",
+  "source_sha256": "a6a9b8076ab963eaa003bf22ebaa659c5f93f37e13304bc96aea87da17f7ca17",
+  "source_bytes": 49646,
+  "published": "2015-10-25",
+  "gazette": "29513",
+  "in_force": "2015-10-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.10.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2238,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21199-ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
