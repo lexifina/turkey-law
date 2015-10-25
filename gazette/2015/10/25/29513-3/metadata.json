@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-10-25",
+  "issue": "29513",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Tüberküloz Laboratuvarlarının Çalışma Usul ve Esaslarına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151025-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151025.htm",
+  "index_sha256": "efaa659b458e049e0ec7bc532fce533c6a6d4e1adb74fae3f0cb3c0a65302a18",
+  "index_header": "25 Ekim 2015 ... 29513 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/10/20151025.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
