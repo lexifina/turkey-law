@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35345",
+  "decision_date": "2015-10-27",
+  "source_id": 11124,
+  "chamber": "2",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11124/",
+  "source_sha256": "ff977e5d822e05f67357a682cd0bf33b570dc0767e4df64439c8852b02932369",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
