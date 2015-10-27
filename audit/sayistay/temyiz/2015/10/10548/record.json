@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40946",
+  "decision_date": "2015-10-27",
+  "source_id": 10548,
+  "chamber": "1",
+  "file_number": "36533",
+  "public_body_type": "Diğer",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10548/",
+  "source_sha256": "5a13d19e76115fd7a66032d00ced9ac923579c4cdd43941c322dc0436c32d779",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
