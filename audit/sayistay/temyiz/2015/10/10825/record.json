@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40960",
+  "decision_date": "2015-10-27",
+  "source_id": 10825,
+  "chamber": "2",
+  "file_number": "38049",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2009",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10825/",
+  "source_sha256": "88ab3c49e459d57c93d4d237d8a9efab30d8f3e3d98f838f30e42e9e1b571808",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
