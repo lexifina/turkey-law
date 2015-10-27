@@ -1,0 +1,7 @@
+1- 24.06.2014 tarih ve 39267 tutanak sayılı Temyiz Kurulu Kararının 4 üncü maddesiyle; 1589 sayılı ilamın 12 inci maddesiyle; …………… Bakım Hizmeti Alımı İşine ait şartnamede belirtilen sayıda personel ve araç işyerinde bulundurulmadığı halde, bu durum için sözleşmeyle belirlenen cezaların yükleniciye ödenen tutarlardan kesilmediği gerekçesiyle ……………….. TL.’ye tazmin hükmü verilmiştir.
+
+………….. Ltd. Şti. ( Alt Yüklenici ………….. Ltd. Şti. ) emrinde çöp toplama ve sokakların süpürülmesi hizmetinde çalıştırılması gererken 22 personelin, Belediyenin ana hizmet birimlerinde büro elemanı olarak çalıştırıldığı, dolayısıyla fiilen belediye personeli olarak istihdam edilmiş ve belediye tarafından başka işlerde çalıştırıldığı anlaşılmış olduğundan bu konuda dilekçi iddialarının kabul edilmesine ve mevzuata uygun olduğuna,
+
+Bu itibarla, 2.Daire tarafından 1589 sayılı ilamın 12 inci maddesiyle verilen ………… TL tazmin hükmünden mevzuata uygun ödenen …………… TL. düşülerek geriye kalan ve mevzuata aykırı ödenen …………….. TL.’nin aynı sorumluların uhdesinde kalmak üzere DÜZELTİLMEK SURETİYLE tasdik edilmiştir.
+
+1589 nolu ilamın 12 nci maddesi ile verilen tazmin hükmüne harcama yetkilisi sıfatı ile iştiraki bulunan ……………’in başvurusu üzerine düzenlenen 27.10.2015 gün ve 40949 tutanak sayılı Temyiz Kurulu Kararı ile hükmün bozularak yeniden hüküm verilmesini sağlamak üzere 37174 sayılı dosyanın ilgili Daireye gönderilmesine karar verilmiş olduğundan, bu dosyanın da söz konusu dosya ile birleştirilerek ilgili Daireye gönderilmesine,
