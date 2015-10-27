@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.18497",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TEKNOLOJİK ÜRÜNLERİN TANITIM VE PAZARLANMASINA İLİŞKİN DESTEK YÖNETMELİĞİ",
+  "number": "18497",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2013/18497",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18497&MevzuatTertip=5",
+  "source_sha256": "5087f47eec735d6414e99ded0eab8e7ca0815ed557758e64a5f0d2a4759c198e",
+  "source_bytes": 51859,
+  "published": "2013-06-20",
+  "gazette": "28683",
+  "in_force": "2015-10-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/10/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-10-27",
+      "RG-27/10/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-10-27",
+      "27/10/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-10-16",
+      "RG-16/10/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-10-16",
+      "16/10/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2137,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
