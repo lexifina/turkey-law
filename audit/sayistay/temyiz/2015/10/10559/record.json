@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40957",
+  "decision_date": "2015-10-27",
+  "source_id": 10559,
+  "chamber": "2",
+  "file_number": "37077",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2008",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10559/",
+  "source_sha256": "a2e13f749c8f447522c466afeb1bc9a5f79163e7ff0613db34f1ce1182d448e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
