@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "129",
+  "decision_date": "2015-10-27",
+  "source_id": 13816,
+  "chamber": "5",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13816/",
+  "source_sha256": "5af2f0eed6a7895a698c3cd18bf234679f6162ff13bd50aa0004b13cd4c12d49",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
