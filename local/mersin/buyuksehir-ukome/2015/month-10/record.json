@@ -1,0 +1,28 @@
+{
+  "number": "month-10",
+  "year": 2015,
+  "month": 10,
+  "title": "10-2015 EKİM KARARLARI",
+  "decision_date": null,
+  "index_date": "2015-10-31",
+  "date_precision": "month",
+  "period": "Ekim 2015",
+  "source": "https://www.mersin.bel.tr/dokumanlar/2015-yili-mbb-ukome-kararlari",
+  "official_page": "https://www.mersin.bel.tr/dokumanlar/2015-yili-mbb-ukome-kararlari",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/10-2015-ekim-kararlari",
+  "source_sha256": "48f339213a33dc2848174c8c966e4db744c3fcf70b600b86d79835de4cf90003",
+  "issuer": "Mersin Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2015-10-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ekim 2015); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "10-2015 EKİM KARARLARI",
+  "record_scope": "one official UKOME decision file (month)"
+}
