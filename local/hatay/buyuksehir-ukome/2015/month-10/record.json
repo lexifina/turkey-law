@@ -1,0 +1,29 @@
+{
+  "number": "month-10",
+  "year": 2015,
+  "month": 10,
+  "title": "2015 YILI EKİM AYI UKOME KARARLARI",
+  "decision_date": null,
+  "index_date": "2015-10-31",
+  "date_precision": "month",
+  "period": "Ekim 2015",
+  "source": "https://www.hatay.bel.tr/api/documents?menuItemId=4bc3bb41-7c7e-4536-9103-8c5932801e2c&page=2&pageSize=10&search=",
+  "official_page": "https://www.hatay.bel.tr/ukome-kararlari",
+  "official_document": "https://www.hatay.bel.tr/icerik/dosyalar/2015-yili-ekim-ayi-ukome-kararlari.pdf",
+  "source_sha256": "686abcdb8d8f24c826fb4afe0f43d561d8ba0705400d64ab0d5badef67b5d01c",
+  "issuer": "Hatay Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2015-10-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ekim 2015); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2015 YILI EKİM AYI UKOME KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "listing_date": "27.02.2026"
+}
