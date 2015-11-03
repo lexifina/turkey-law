@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "40993",
+  "decision_date": "2015-11-03",
+  "source_id": 10528,
+  "chamber": "8",
+  "file_number": "39892",
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": "2013",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10528/",
+  "source_sha256": "4707a35c9c64b4a0c4f49ccf65fc0755156e43b3073533558a460fbf2498da86",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
