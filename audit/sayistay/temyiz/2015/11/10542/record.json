@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41007",
+  "decision_date": "2015-11-03",
+  "source_id": 10542,
+  "chamber": "4",
+  "file_number": "39518",
+  "account_year": "2012",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10542/",
+  "source_sha256": "965f695beb535c592e4b164d976670457feb9a02915a8b0fad731c73ec1474c4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
