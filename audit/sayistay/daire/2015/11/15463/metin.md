@@ -1,0 +1,3 @@
+İdari Para Cezası
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Mülkiye Müfettişi ……….tarafından düzenlenen ……….tarih ve ……….sayılı  raporunda;.... Belediye Encümeninin ……….tarih ve ………. sayılı kararıyla uygulanmasına karar verilen idari para cezası miktarının yanlış hesap edilmesi suretiyle ……….-TL tutarında kamu zararına neden olunduğu iddia edilmiş ise de; söz konusu parselin ilgili kişi tarafından Toplu Konut İdaresinden satın alınması, parselin rekreasyon alanı içerisinde olması ve ilgili kişinin  E=0,10 inşaat yapma hakkı bulunması, ayrıca parsele ait ……….tarih ve ……….no.lu yapı ruhsatının mevcut olması nedenleri ile mevzuatına uygun olduğu anlaşılan ……….-TL ile ilgili olarak ilişilecek husus bulunmadığına oy birliği ile karar verildi.
