@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-11-03",
+  "issue": "29521",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Şehir İçi Yollarda Bisiklet Yolları, Bisiklet İstasyonları ve Bisiklet Park Yerleri Tasarımına ve Yapımına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151103-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151103.htm",
+  "index_sha256": "51edeea1eded67890d79c06eff010e3db588cdcf072fd4cb4179e1772009aa66",
+  "index_header": "3 Kasım 2015 ... 29521 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151103.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
