@@ -1,0 +1,22 @@
+{
+  "number": "419",
+  "number_as_published": "2015/419",
+  "year": 2015,
+  "title": "2015/419",
+  "decision_date": "2015-11-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2015-kasim-ayi-meclis-kararlari/422",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2015-419/426",
+  "source_sha256": "79265ad308d7135beeccd59a5bb810d4627642b3fbdc0ac4f84d93a23e9a110d",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-11-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.11.2015 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "25572746b65ce90b7fef2bcc4b4ca6b362970afaef8142d44aae9bd4cf8eec77"
+}
