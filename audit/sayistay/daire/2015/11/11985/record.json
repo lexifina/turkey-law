@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10500",
+  "decision_date": "2015-11-05",
+  "source_id": 11985,
+  "chamber": "1",
+  "ilam_number": "13",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11985/",
+  "source_sha256": "35998efffbd85bed5e72ef29e6640688d473e6d08ec5ed9e997f23b742cfb264",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
