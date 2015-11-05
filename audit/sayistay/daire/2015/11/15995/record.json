@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "131",
+  "decision_date": "2015-11-05",
+  "source_id": 15995,
+  "chamber": "5",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15995/",
+  "source_sha256": "889a26b671cedd01d98bfbce8737b09c4243c02c6c03f1fe400585cf66457d42",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
