@@ -1,0 +1,554 @@
+6 Kasım 2015 CUMA
+Resmî Gazete
+Sayı : 29524
+YÖNETMELİK
+Enerji ve Tabii Kaynaklar Bakanlığından:
+ELEKTRİK ÜRETİM TESİSLERİ KABUL YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı, elektrik üretim tesislerinin
+modern teknolojiye uyumlu olarak tesis edilip işletilebilmesi için kabul
+işlemlerinin ilgili mevzuat ve standartlara uygun olarak yapılmasına, söz
+konusu tesislerin iletim veya dağıtım şebekelerine uyumlu olarak bağlanması
+ile test, kontrol ve kabul işlemlerini yapacak tüzel kişilerin
+yetkilendirilmesine ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, elektrik üretim tesislerine
+ilişkin test, kontrol, kabul süreçleri ve işletme döneminde uyulması gerekli
+hususlar ve bu faaliyetleri yapacak tüzel kişilerin yetkilendirilmesi ile
+hak ve yükümlülüklerine ilişkin esasları kapsar.
+(2) Bu Yönetmelik, enterkonnekte elektrik
+şebekesine 1 kV altı gerilim seviyesinden bağlı elektrik üretim tesisleri
+hariç olmak üzere, 30/12/2014 tarihli ve 29221 mükerrer sayılı Resmî
+Gazete’de yayımlanan Elektrik Tesisleri Proje Yönetmeliği kapsamındaki
+elektrik üretim tesislerini kapsar.
+(3) Kamu kurum ve kuruluşlarınca yatırım programına
+alınarak yapılan ya da yaptırılan elektrik üretim tesislerinin kabul
+işlemleri yapılırken kamu ihale mevzuatındaki hükümler bu Yönetmelik
+hükümleriyle birlikte uygulanır.
+(4) Herhangi bir tesisin bu Yönetmelik kapsamına
+girip girmeyeceği konusunda bir tereddüt ortaya çıkarsa Enerji ve Tabii Kaynaklar
+Bakanlığının bu konuda vereceği karar geçerlidir.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 19/2/1985 tarihli ve 3154
+sayılı Enerji ve Tabii Kaynaklar Bakanlığının Teşkilat ve Görevleri
+Hakkında Kanunun 28 inci maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte yer alan;
+a) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+b) Elektrik Tesisi İşletme Personeli (ETİP)
+belgesi: Elektrik üretim tesislerinin işletilmesine ilişkin olarak Bakanlık
+tarafından yetkilendirilen eğitim kuruluşlarınca düzenlenen eğitimlerde
+başarılı olan mühendislere verilen belgeyi,
+c) Geçici kabul: Ünitenin veya ünitelerin
+senkronizasyonu sonrası şebeke gereksinimleri de dâhil olmak üzere Kontrol
+Firması (KF) nezaretinde yapılan saha test, kontrol, raporlama ve gerekli
+izin işlemlerinin tamamlanarak emniyetli bir şekilde senkronizasyona ve
+elektrik piyasasında ticari faaliyetine devam edebilmesi için yapılan kabul
+işlemlerini,
+ç) Geçici kabul heyeti: Tesisin geçici kabule hazır
+olmasını müteakip, tesis sahibinin talebi üzerine, Bakanlık tarafından
+yetkilendirilmiş olan Proje Onay Birimi (POB) tarafından oluşturulan
+heyeti,
+d) Güvenilir işletme raporu: Tesislerin geçici
+kabulünü müteakip işletme aşamasında can, mal, çevre emniyeti ve şebeke
+gereklilikleri açısından işletme şartlarını sağladıklarına ilişkin üç yıl
+içerisinde alınması, her beş yılda periyodik olarak düzenlenmesi zorunlu
+olan lisans veya tesis sahibi ile birlikte imzalanan raporu,
+e) Kontrol Firması
+(KF): Tesisin yapım sürecinin tamamlanmasını müteakip, saha
+testlerine nezaret etmek, tesisin onaylı projelerine uygunluğunu kontrol
+etmek ve bu amaçla gereken test ve uygulamayı yaptırarak sonuçlarını
+raporlamak ve Güvenilir İşletme Raporunu hazırlamak üzere Bakanlık
+tarafından yetkilendirilen tüzel kişileri,
+f) Nihai rapor: KF nezaretinde yapılan
+senkronizasyon öncesi ve sonrası test ve kontrol işlemlerini kapsayan,
+ünitenin/ünitelerin son durumunu gösteren ve KF tarafından hazırlanarak
+lisans/tesis sahibi ile birlikte imzalanan ve ilgili Proje Onay Birimine
+(POB’a) sunulan raporu,
+g) Ön kabul: Ünite/ünitelerin senkronizasyonu
+öncesinde KF nezaretinde yapılan saha test, kontrol ve gerekli rapor
+işlemlerinin tamamlanarak emniyetli bir şekilde senkronizasyonunu müteakip,
+geçici kabulü öncesi elektrik piyasasında ticari faaliyet gösterilebilmesi
+için yapılan kabul işlemini,
+ğ) Ön kabul raporu: Senkronizasyon öncesi KF
+nezaretinde yapılan test ve kontrol işlemlerini kapsayan ve ünitenin/ünitelerin
+emniyetli bir şekilde senkronizasyona hazır olduğunu gösteren ve KF
+tarafından hazırlanarak lisans/tesis sahibi ile birlikte imzalanan ve
+ilgili POB’a sunulan raporu,
+h) Proje Onay Birimi (POB): Elektrik tesislerinin,
+hesap ve raporlarını inceleyerek proje paftalarını onaylamak üzere
+görevlendirilmiş Bakanlık birimini veya bu amaçla Bakanlık tarafından
+yetkilendirilen Devlet Su İşleri Genel Müdürlüğü (DSİ), Türkiye Elektrik
+İletim Anonim Şirketi (TEİAŞ), Türkiye Elektrik Dağıtım Anonim Şirketi
+(TEDAŞ), Elektrik Dağıtım Anonim Şirketleri (EDAŞ), Elektrik Üretim Anonim
+Şirketi (EÜAŞ), Organize Sanayi Bölgeleri (OSB), Türk Standartları
+Enstitüsü Kurumu (TSE), İller Bankası (İB), Türkiye Elektromekanik Sanayi
+Anonim Şirketi (TEMSAN), Tarım ve Kırsal Kalkınmayı Destekleme Kurumu
+(TKDK) ve benzeri ihtisas sahibi kurum ve kuruluşları,
+ı) Saha testi: Tesisin yapım sürecinin
+tamamlanmasını müteakip, Bakanlık tarafından belirlenen senkronizasyon
+öncesi ve sonrası testleri,
+i) Senkronizasyon: Gerekli şartlar sağlanarak
+mevcut bir baraya ilave ünitelerin elektriksel bağlanmasını,
+j) Yüksek gerilim: Etkin değeri 1000 voltun üstünde
+olan fazlar arası gerilimi,
+ifade eder.
+(2) Bu Yönetmelikte geçen diğer ifade ve
+kısaltmalar, Elektrik Tesisleri Proje Yönetmeliğindeki anlam ve kapsama
+sahiptir.
+İKİNCİ BÖLÜM
+Genel Hükümler
+Yetki
+devri
+MADDE 5 – (1) Bu Yönetmelik kapsamındaki elektrik üretim
+tesislerinin kabul işlemleri yetkisi Bakanlığa aittir. Bakanlık bu
+yetkisini doğrudan kullanabileceği gibi bu işlemleri ihtisas sahibi kurum,
+kuruluş veya tüzel kişilerle birlikte yapabilir ya da bu kurum, kuruluş
+veya tüzel kişilerden hizmet alarak ya da bu kurum, kuruluş veya tüzel
+kişilere yetki devretmek suretiyle yaptırabilir.
+(2) Kabul işlemlerini yürütecek olan kurum, kuruluş
+ya da tüzel kişilerin yetkilendirilmeleri,
+Elektrik Tesisleri Proje Yönetmeliğinin ilgili hükümleri uyarınca
+yapılır.
+Kontrol
+kuruluşunun yetkilendirilmesi
+MADDE 6 – (1) Bakanlık tarafından yetkilendirilen ihtisas
+sahibi kamu kurum ve kuruluşları haricinde, KF olarak yetkilendirilmek
+isteyen tüzel kişilerin;
+a) Türkiye’de 13/1/2011 tarihli ve 6102 sayılı Türk
+Ticaret Kanununa göre kurulmuş ve tescil edilmiş olması ve bu madde
+kapsamında belirtilen sertifika ve akreditasyon belgelerini tüzel kişinin
+veya tüzel kişide asgari %50’nin üzerinde doğrudan veya dolaylı olarak pay
+sahibi olan ortak veya ortaklarının sağlaması,
+b) KF’lerin Bakanlık tarafından
+yetkilendirilebilmesi için dilekçeleri ekinde, (c) ve (ç) bentlerinde
+belirtilenlerin yanı sıra istenebilecek diğer bilgi ve belgeleri Bakanlığa
+sunmaları,
+c) (TS) EN ISO/IEC 17020 standardına göre A tipi
+akredite muayene kuruluşu belgesini, 17021 Sistem belgelendirme belgesini
+ve 17065 Ürün belgelendirme belgesini sunması,
+ç) Elektrik Tesisleri Proje Yönetmeliğinin ekinde
+yer alan Ek-5’teki ve/veya muadil/ güncellenmiş olan standartlar dikkate
+alınarak test ve kontrol yapılabilmesi için tesis tiplerine göre gerekli
+sertifika ve akreditasyonlara sahip olduğuna dair belgeleri sağlaması,
+zorunludur.
+(2) Bakanlık bu Yönetmelik kapsamında yapılan
+başvuruları değerlendirir ve uygun gördüğü başvuru sahipleri ile protokol
+imzalayarak bunları yetkilendirir. Bakanlık tarafından uygun bulunmayan ve
+yetkilendirilmeyen başvuru sahipleri herhangi bir hak talebinde bulunamaz.
+(3) Bakanlık tarafından başvuru evrakları yeterli
+görülen başvuru sahiplerinin yetkilendirilebilmesi için Bakanlık ve KF
+arasında Yetkilendirme Protokolü imzalanır. KF tarafından yürütülecek olan
+hizmetlere ilişkin diğer hususlar yetkilendirme protokolünde belirtilir.
+(4) Yetkilendirilmiş KF’lerin, bu Yönetmelik
+kapsamında verecekleri hizmetlere ilişkin lisans/tesis sahiplerinden
+alacakları bedellerin üst sınırı, gerek görülmesi halinde, Bakanlık
+tarafından tesis türü ve yatırım büyüklükleri gibi hususlar dikkate
+alınarak belirlenir.
+ÜÇÜNCÜ BÖLÜM
+Tesisin Yapım Süreci, Tesise Gerilim Uygulanması,
+Kontrol ve
+Devreye Alma Çalışmaları
+Tesisin
+yapım süreci
+MADDE 7 – (1) Üretim tesislerinde hiçbir şekilde standart
+dışı malzeme ve ekipman kullanılamaz. Standardı bulunmayan konularda, ülke
+şartları ve ilgili uluslararası veya diğer ülkelerin standartları esas
+alınarak TSE tarafından kabul edilen, teknik özelliklere uygunluğunu
+belirten Uygunluk Belgesi veya ürün belgesi ya da dizayn sertifikasına
+sahip olma şartı aranır. Ayrıca tesislerde kullanılan ve Avrupa Birliği
+direktifleri kapsamında olan malzeme ve teçhizatın CE işareti taşıması
+gereklidir.
+(2) Üretim tesisleri için gerekli tüm izin ve onay
+süreçlerinin lisans/tesis sahibi tarafından süresi içerisinde tamamlanması
+zorunludur.
+(3) Üretim tesislerinin yapım sürecinde tesis ve
+kullanılan ekipmanlar için gerekli kontrol işlemleri, lisans/tesis
+sahibinin yükümlülüğündedir.
+Tesise
+gerilim uygulanması
+MADDE 8 – (1) İlgili POB tarafından onaylanmış projesi
+bulunmayan elektrik üretim tesislerine hiçbir şekilde gerilim uygulanmaz.
+(2) Senkronizasyon öncesi test çalışmaları için
+lisans/tesis sahibi tarafından talepte bulunulması durumunda, proje onayı
+mevcut olan elektrik üretim tesisine, TEİAŞ, TEDAŞ, dağıtım şirketi, OSB
+Müdürlüğü gibi ilgili tüzel kişi tarafından test çalışmaları süresince can
+ve mal emniyetinin sağlanması koşuluyla geçici olarak gerilim uygulanır.
+(3) Lisans/tesis sahibi, tesise gerilim uygulanması
+öncesinde; çevreyle ve işin niteliği ile ilgili ihtiyaç duyulan tüm emniyet
+tedbirlerini almak, gerekli yerlere uyarı ve işaret levhalarını koymak, her
+türlü can ve mal emniyetini sağlamak, çalışanlara, vatandaşlara, ilgili
+idarelere gerekli bildirimleri yapmakla yükümlüdür ve bununla ilgili doğabilecek
+her türlü zarardan sorumludur.
+(4) Tesise gerilim uygulanması sırasında ya da
+sonrasında can ve mal güvenliğini ihlal edici bir hususun tespiti halinde,
+bu durum giderilinceye kadar tesisin enerjisi, gerilimi uygulayan tüzel
+kişi tarafından kesilir.
+Kontrol
+ve devreye alma çalışmaları
+MADDE 9 –
+(1) Lisans/tesis sahibi, üretim tesisinin
+yapımının tamamlanmasını müteakip senkronizasyon öncesi test ve kontrol
+işlemlerinin başlangıcından itibaren geçici kabulün tamamlanmasına kadar
+geçen süreyi kapsamak üzere, KF ile sözleşme imzalamak ve tesisin test ve
+kontrol hizmetlerini bu Yönetmelik kapsamında üstlendiğine dair KF’den
+taahhütname almakla yükümlüdür.
+(2) KF, sahadaki test ve kontrol faaliyetlerine
+ilişkin raporları hazırlar ve sahada testlere nezaret eden ilgili branş
+mühendisleri ile birlikte imzalar. Bu raporların birer kopyası lisans/tesis
+sahibi tarafından tesis mahallinde muhafaza edilir.
+(3) KF, yapılan kontroller sırasında tesisin ilgili
+mevzuata, standartlara ve onaylı projelerine uygun olmadığını tespit etmesi
+halinde, durumu bir rapor ile lisans/tesis sahibine yazılı olarak
+ivedilikle bildirmekle yükümlüdür.
+(4) KF, senkronizasyon öncesi gerekli olan saha
+testlerinin tamamlanarak ünitenin/ünitelerin senkronize olmasını müteakip
+tesisin elektrik piyasasında ticari faaliyet gösterebilmesi için Ek-2’de
+yer alan belgeleri kontrol eder, tamamlanmasından sonra, Ek-3(a)’daki ön
+kabul belgesini hazırlar ve lisans/tesis sahibi ile birlikte imzalar. Bu
+belgeler, talep edilmesi halinde ilgili idareye lisans/tesis sahibi
+tarafından ibraz edilmek üzere tesis mahallinde muhafaza edilir.
+(5) KF, senkronizasyon sonrası gerekli olan saha
+testlerine nezaret eder. Ünitenin/ünitelerin yapım sürecinin, saha test ve
+kontrol işlemlerinin tamamlanmasını müteakip geçici kabulünün yapılabilmesi
+için nihai raporu düzenleyerek lisans/tesis sahibinin yetkili temsilcisi
+ile imzalar. Bu raporun bir nüshası lisans/tesis sahibi tarafından tesis
+mahallinde muhafaza edilir, bir nüshası da ilgili POB’a gönderilir.
+(6) KF, tesisin emniyetli çalışmasına engel teşkil
+etmeyen hata ve noksanları tespit
+etmesi halinde bu hususların giderilebilme yöntemlerini senkronizasyon
+öncesi ve sonrası düzenleyeceği raporlarda ayrıntılı olarak belirtir.
+DÖRDÜNCÜ BÖLÜM
+Ön Kabul ve
+Geçici Kabul
+Ön kabul
+MADDE 10
+– (1) Ön kabulün yapılabilmesi
+için lisans/tesis sahibi tarafından bir örneği Ek-3(a)’da yer alan ön kabul
+belgesi; ilgili sistem operatörü, Valilik ve POB’a Ek-1(a)’da yer alan
+dilekçe ile gönderilir.
+(2) Ön kabul tarihi, ön kabul belgesinin ilgili
+sistem operatörüne ulaşmasını müteakip, sistem operatörü tarafından ünitenin/ünitelerin
+kayda alındığı tarihtir.
+(3) Ön kabul belgesi 6 ay geçerlidir. Bu süre
+içerisinde geçici kabulü yapılmayan ünitenin/ünitelerin geçici kabulü
+yapılıncaya kadar enterkonnekte şebeke ile irtibatı ikinci bir işleme gerek
+kalmadan ilgili sistem operatörü tarafından kesilir. Bu durumda
+lisans/tesis sahibi uğrayabileceği zarardan dolayı hiçbir hak talebinde
+bulunamaz.
+Geçici
+kabul başvuru ve değerlendirme süreci
+MADDE 11
+– (1) Ünitenin/ünitelerin
+yapımının, senkronizasyon öncesi ve sonrası tüm saha test ve gerekli izin
+süreçleri ve nihai raporun tamamlanmasını müteakip geçici kabulünün
+yapılabilmesi için lisans/tesis sahibi tarafından bir örneği Ek-1(a)’da yer
+alan dilekçe ile ilgili POB’a müracaat edilir.
+(2) Geçici kabulün yapılabilmesi için eksik ve
+özürlü işlerin güvenli işletmeyi kesinlikle engellememesi, can ve mal
+emniyetinin talepte bulunan lisans/tesis sahibi tarafından sağlanmış olması
+gerekir.
+(3) Tesisin geçici kabulü için gerekli belgelerin
+ilgili POB’a sunulmasını müteakip;
+a) İlgili POB tarafından kendisini temsilen bir
+mühendisin başkanlığında; ilgili sistem operatörü temsilcileri, KF’yi
+temsilen ilgili branş mühendisleri ve lisans/tesis sahibi adına imzaya
+yetkili temsilci ile heyet üyeleri teşkil edilir.
+b) Geçici kabul heyeti en geç 15 gün içerisinde
+tesis mahallinde toplanmak üzere görevlendirilerek lisans/tesis sahibine,
+KF’ye ve sistem operatörüne yazılı olarak bildirilir.
+(4) Tesisin tümü bitirilmeden tamamlanan
+ünitenin/ünitelerin ayrı ayrı ön/geçici kabulü, ön/geçici kabulde izlenen
+iş akışına göre yapılabilir.
+(5) Ünitenin lisansında belirtilen elektrik kurulu
+gücüne ulaşmaksızın daha düşük bir güçte ön kabulünün talep edilmesi
+durumunda, bu hususun detaylı gerekçelerini içeren teknik rapor
+lisans/tesis sahibi tarafından ilgili POB’a sunulur. İlgili POB’un uygun
+görmesi durumunda, ünitenin kısmî ön kabulü, daha sonra ünite kurulu gücüne
+tamamlanmak üzere talep edilen güç üzerinden, ön kabulde izlenen iş akışına
+göre yapılabilir.
+Geçici
+kabulün yapılması
+MADDE 12
+– (1) Geçici kabulün amacı
+ünitenin/ünitelerin onaylı projesi ve bu Yönetmelik esaslarına göre
+kavramsal olarak incelenerek enterkonnekte sisteme senkronizasyonunun
+emniyetli bir şekilde sürdürüldüğünü ve ünitenin/ünitelerin tamamlandığını
+belgelemektir.
+(2) Geçici kabul heyeti, Ek-4(a)’ya uygun olarak
+belirtilen işlemlerin yapılması için tesis mahallinde toplanır.
+(3) Ek-4(a)’ya göre kavramsal olarak yapılan
+incelemeler sonucunda, tesisin geçici kabulünün yapılmasına engel teşkil
+edecek bir hususun bulunmadığı kanısına ulaşılması durumunda,
+a) Bir örneği Ek-3(b)’de yer alan geçici kabul
+tutanağı iki nüsha olarak düzenlenir,
+b) Geçici kabul tutanağı heyet üyelerince
+imzalanır,
+c) Tesisin geçici kabulünün yapıldığı, bir yazı ile
+tesisin bulunduğu ilin Valiliğine ve ilgili sistem operatörüne bildirilir,
+ç) Geçici kabul tutanaklarının bir nüshası
+lisans/tesis sahibi tarafından santral mahallinde muhafaza edilir, diğer
+nüshası heyet başkanı tarafından ilgili POB’a elektronik kopyası ile
+birlikte sunulur.
+(4) Kumanda binasının bulunduğu il, santralin
+bulunduğu il olarak kabul edilir.
+(5) Heyet üyelerinin kabul tutanaklarına
+itirazlarının bulunması durumunda, tutanakları itiraz kaydı ile imzalamaları
+gerekir. Bu üyelerin katılmadıkları konuları ayrı bir rapor şeklinde
+gerekçeleri ile birlikte belirtmeleri ve bu raporu kabul tutanaklarına
+eklemeleri gereklidir.
+Eksik,
+özürlü ve farklı işler
+MADDE 13
+– (1) Esasa ilişkin olmayan, can
+ve mal güvenliği ile tesisin temel çalışma ölçütleri kapsamında risk
+oluşturmayan önemsiz eksik, özürlü ve farklı işlerin geçici kabul
+sonrasında düzeltilmesine ve tamamlanmasına izin verilebilir.
+(2) Tesisin yapılması sırasında özel koşullar
+nedeniyle projenin esasına ilişkin olmayan ayrıntı niteliğinde değişikliklere
+ilişkin hususlardan lisans/tesis sahibi sorumludur.
+Geçici
+kabulün yapılmaması
+MADDE 14
+– (1) Elektrik üretim
+tesislerinde, esasa ilişkin veya can, mal ya da çevre güvenliği bakımından
+önemi olan eksik ve özürlü işler kabulün yapılmasını engelleyen neden
+sayılır ve geçici kabul yapılmaz.
+(2) Bu Yönetmelik hükümlerine göre geçici kabulü
+yapılamayan tesisler için kabulün yapılmasına engel olan hususlar ret
+tutanağı ile açıklanır. Bu tutanak geçici kabul heyeti başkanı tarafından
+ilgili POB’a bildirilir. İlgili POB’un kamu yararı gözeterek vereceği
+karara göre tesisin şebeke ile ilişkisinin kesilmesi ya da kestirilmesi
+sağlanabilir.
+(3) Ret tutanağındaki kabulün yapılmasına engel
+olan hususların ortadan kalktığının lisans/tesis sahibi tarafından belgelendirilerek
+ilgili POB’a sunulması ve bunun ilgili POB tarafından uygun görülmesi
+durumunda geçici kabul başvuru ve değerlendirme süreçlerinde izlenen iş
+akışı takip edilir.
+BEŞİNCİ BÖLÜM
+İşletme,
+Personel, Bakım
+Tesisin
+işletilmesi
+MADDE 15
+– (1) Bu Yönetmelik hükümlerine
+göre kabulü yapılacak tesisler için, geçici kabul tarihinden itibaren en
+geç üç yıl içinde lisans/tesis sahibi,
+kamu kurum/kuruluşları ile yapılan anlaşma, izin ve onay süreçlerini
+ve Ek-4(b)’de belirtilen belgeleri tamamlamak ile yükümlüdür.
+(2) Kabul işlemleri 7/5/1995 tarihli ve 22280
+sayılı Resmî Gazete’de yayımlanan Elektrik Tesisleri Kabul Yönetmeliği
+hükümlerine göre yapılan tesisler geçici 1 inci maddenin birinci fıkrasında
+belirtilen süreden başlamak üzere 3 yıl içerisinde kamu kurum/kuruluşları
+ile yapılan anlaşma, izin ve onay süreçlerini ve Ek-4(b)’de belirtilen
+belgeleri tamamlamak ile yükümlüdür.
+Tesislerde
+çalışan personelin vasıfları ve eğitimi
+MADDE 16
+– (1) Elektrik üretim tesislerinin
+işletilmesinde, görevin gerektirdiği vasıf ve eğitime sahip personel
+çalıştırılır. Personelin görev tanımı, eğitimi ve değerlendirilmesi ile
+eğitim yenileme sürelerini kapsayan program hazırlanıp uygulanır. Elektrik
+üretim tesislerinde ETİP belgesi sahibi mühendisler ile bu mühendislerin
+sorumluluğu ve gözetimi altındaki personel, ilgili mevzuat kapsamında
+çalışabilir.
+(2) Elektrik üretim tesislerinde görevli tüm
+personel; acil durum, yüksek gerilim ve potansiyel tehlikeler, yangınla
+mücadele ve ilk yardım konusunda eğitilir. Ayrıca ilgili personel kendi
+görev alanlarında uygulamalı eğitime tabi tutulur. Elektrik üretim
+tesislerinde, eğitimi başarılı şekilde tamamlayan personel görevlendirilir.
+Bu eğitimler belirli aralıklarla tekrarlanır.
+Tesislerin
+bakım ve onarımı
+MADDE 17
+– (1) Elektrik üretim tesislerinin
+işletme, bakım ve onarımı sırasında tesisin emniyeti ve çalışanların
+güvenliğine ilişkin ilgili mevzuat kapsamında önlemler alınır. Lisans/tesis
+sahibi, normal işletme ve bakım sırasında kullanılmak üzere tesislerin
+devreye alınma, işletme ve devre dışı bırakılma işlemleri sırasında gerekli
+emniyetin sağlanmasına yönelik kitapçıklar hazırlar. Bu kitapçıklar, normal
+olmayan işletme şartlarında gereken müdahale, düzeltme ve kontrol
+işlemlerini de içerir ve gerektikçe güncel hale getirilerek tesislerin
+ilgili bölümlerinde kullanıma hazır tutulur.
+(2) Elektrik kuvvetli akım tesislerinde yapılacak
+bakım/onarım çalışmaları sırasında çalışanların hayatının korunması
+açısından gerilimin kesilmesi, çalışılacak bölümün önceden topraklanmış
+olan bir düzenek üzerinden kısa devre edilmesi, çalışma yapılan tesis
+bölümünün gerilim altında olup olmadığının gerekli ölçü veya gösterge
+cihazları ile denetlenmesi ve çalışma sırasında yanlışlıkla bir başkası
+tarafından gerilim verilmesinin önlenmesi gerekir.
+(3) Tesislerin ve teçhizatın teknik belgelerinde
+belirtilen aralıklarda bakım ve onarımları yapılır. Tesisteki akıllı
+sensörlerden alınan verilerin değerlendirilmesi, periyodik bakım işlemi,
+beklenmedik arızaların yönetimi, stok kontrol takibi süreçleri; gerekli alt
+modüllerden oluşan bakım yönetim sistemi üzerinden gerçekleştirilir.
+Yapılan bakım ve onarımlar kalıcı bir şekilde hem yazılı çıktı olarak hem
+de elektronik ortamda kaydedilir.
+Acil
+durumda müdahale
+MADDE 18
+– (1) Lisans/tesis sahibi;
+oluşabilecek acil durumun mahiyet ve mahalline göre, müdahale edecek
+personel ve kullanılacak ekipmanları da içeren kitapçıklar hazırlar ya da
+hazırlatır. Bu kitapçıklar, tesislerin ilgili bölümlerinde kullanıma hazır
+tutulur ve gerektikçe güncel hale getirilir. Acil durum esnasında ihtiyaç
+duyulacak personel, ekipman, alet ve malzemeler hazır bulundurulur.
+Tesislerdeki potansiyel tehlikeler ve müdahale imkânları hakkında başta
+mülki idare amirlikleri olmak üzere ilgili makamlara bilgi verilir. Acil
+durum halinde, hazırlanan kitapçıklar doğrultusunda gerekli emniyet
+tedbirleri alınarak müdahale yapılır. Etki alanındaki personel ve halkın
+tahliyesi ile diğer gerekli önlemlerin alınması için ilgili yerel makamlar
+ile koordinasyon lisans/tesis sahibi tarafından sağlanır.
+ALTINCI BÖLÜM
+Çeşitli ve Son
+Hükümler
+Teknik ve
+idari sorumluluk
+MADDE 19
+– (1) KF, kontrol hizmetlerini
+yürütebilecek niteliklere sahip ilgili branş mühendisini/mühendislerini
+sahada bulundurmaktan, tesisin onaylı projelerine uygunluğundan, saha
+testlerinin tanımlanan prosedürler uyarınca yapılması ve ön kabulün uygun
+olarak gerçekleştirilmesinden, raporların eksiksiz ve doğru olarak
+düzenlenmesinden sorumludur.
+(2) Kabul işlemlerini gerçekleştiren kabul heyeti;
+tesisin onaylı projesine kavramsal olarak uygunluğundan sorumlu olup detay,
+uygulama ve imalattan doğabilecek her türlü sorumluluk müteselsilen
+lisans/tesis sahibi, yüklenici ve proje müellifinin sorumluluğundadır. Bu
+Yönetmeliğin yürürlüğe girdiği tarihten önce kabulü yapılmış ve bu Yönetmelik
+kapsamında kabulü yapılacak elektrik üretim tesisleri için kabul heyetinin
+sorumluluğu kabul tarihinden itibaren güvenilir işletme raporunun
+hazırlanmasına kadar olup en geç 3 yıl sonra sona erer.
+(3) Test edilen teçhizatın tasarım değerlerinde ve
+taahhüt edilen performans değerlerinde çalışması imalatçının/yüklenicinin
+sorumluluğundadır.
+(4) ETİP belgesi sahibi teknik personel;
+a) Tesisin can, mal ve çevre emniyetinin
+sağlanması, tesisin işletmesinin yürürlükteki ilgili teknik mevzuata uygun
+olarak gerçekleştirilmesi, tesisten kaynaklanan katı, sıvı ve gaz atıkların
+ilgili yönetmeliklerde belirlenen deşarj ölçütlerine uygun şekilde
+yönetilmesi ile periyodik bakım ve onarımından ve bunların kalıcı olarak
+kaydedilmesinden,
+b) Tesiste yapılacak onaylı proje dışı tadilat,
+uygun olmayan malzeme kullanımı, tesisin bakımsızlığı, yüklenici firma
+tarafından sağlanan işletme ve bakım talimatlarına uygun olarak tesisin
+çalıştırılmaması ve periyodik bakımlarının yapılmaması nedeniyle doğacak
+zarardan,
+c) Tesis ve çevresinde alınması gereken tüm
+önlemlerin alınmasından, gerektiğinde ilgili idarelere gerekli bildirimleri
+zamanında yapmaktan,
+lisans/tesis sahibi ile birlikte sorumludur.
+(5) Lisans/tesis sahibi;
+a) Elektrik üretim tesisinin projelendirilmesi,
+proje tadilatı, yapımı, yapım kontrolü, test ve devreye alma işlemleri ile
+gerekli uygun görüş, onay, izin, ruhsat ve belgelerin alınmasından,
+b) Tesisin can, mal ve çevre emniyetinin
+sağlanmasından,
+c) Tesis ve teçhizatın periyodik bakım ve
+onarımının yapılmasından ve bunların kalıcı olarak kaydedilmesinden,
+ç) Tesisten kaynaklanan katı, sıvı ve gaz atıkların
+ilgili yönetmeliklerde belirlenen deşarj ölçütlerine uygun şekilde
+yönetilmesinden,
+d) Tesiste yapılacak onaylı proje dışı tadilat,
+uygun olmayan malzeme kullanımı, tesisin bakımsızlığı, yüklenici firma
+tarafından sağlanan işletme ve bakım talimatlarına uygun olarak tesisin
+çalıştırılmaması ve periyodik bakımlarının yapılmaması nedeniyle doğacak
+zarardan,
+e) Tesiste görevli tüm personelin; acil durum,
+yüksek gerilim ve potansiyel tehlikeler, yangınla mücadele ve ilk yardım
+konusunda eğitilmesinden,
+f) Oluşabilecek acil durumun mahiyet ve mahalline
+göre, müdahale edecek personel ve kullanılacak ekipmanları da içeren
+kitapçıkların hazırlanmasından,
+g) Kabul tutanakları ile tesise ilişkin her türlü
+bilgi ve belgenin muhafazasından ve talep edilmesi durumunda kamu
+kurum/kuruluşlarına sunulmasından,
+sorumludur.
+Usul ve
+esaslar
+MADDE 20
+– (1) POB’lar, bu Yönetmelik
+hükümlerine aykırı olmamak kaydıyla ve Bakanlığın olumlu görüşünü almalarını
+müteakip kabul işlemlerine ilişkin usul ve esaslar belirleyerek
+yayımlayabilir.
+(2) Bu Yönetmeliğin usul ve esaslarının
+uygulanmasına ilişkin anlaşılamayan bir husus ortaya çıkarsa Bakanlığın bu
+konuda vereceği karar geçerlidir.
+(3) Bakanlık, gerekli görmesi durumunda, bu
+Yönetmeliğin hükümlerinin uygulanmasına ilişkin usul ve esaslar
+yayımlayabilir.
+Diğer
+hususlar
+MADDE 21
+– (1) Onaylı projesi olmayan ya da
+onaylı projesine göre tesis edilmeyen elektrik üretim tesisinin kabulü
+yapılamaz.
+(2) Hakkında, kabul heyetince can ve mal emniyeti
+olmadığı kanaati oluşan tesisin kabulü yapılmaz.
+(3) Ön kabul ya da geçici kabulü yapılmamış
+tesislerin işletilmesi yasaktır. Bu gibi tesisler, tespit edilmeleri
+durumunda, Bakanlıkça görevlendirilecek veya yetkilendirilecek gerçek
+ve/veya tüzel kişiler tarafından mühürlenerek inşaatları, montajları,
+çalıştırılmaları önlenir. Bakanlık gerekli görürse bu tesislerin sistemden
+beslenmesini önleyici tedbirler de alır veya aldırır.
+(4) 6446 sayılı Elektrik Piyasası Kanunu kapsamında
+özel sektör uhdesinde olan elektrik üretim tesislerine ilişkin keşif,
+ihale, hak ediş, sözleşme hazırlanması, tesisin yaptırılması, işçi
+çalıştırılması ve benzeri işlemlerde ilgili POB taraf değildir.
+(5) Lisanslı elektrik üretim tesislerinin kabulünde
+her bir ünitenin kurulu gücü olarak lisansında ve onaylı projesinde
+belirtilen ünite kurulu gücü esas alınır.
+(6) Lisans/tesis sahibi kabul sırasında gerekli
+araçları, gereçleri, inceleme ve deney olanakları ile talep edilmesi
+halinde her türlü bilgi ve belgeyi kabul heyetine sağlamakla yükümlüdür.
+(7) 4/1/2002 tarihli ve 4734 sayılı Kamu İhale
+Kanunu ve bu Kanunun ilgili mevzuatına uygun olarak yapılan tesislerin
+kabulleri farklı bir hüküm bulunmaması halinde bu Yönetmeliğe tabidir.
+Uygulanmayacak
+hüküm ve atıflar
+MADDE 22
+– (1) 7/5/1995 tarihli ve 22280
+sayılı Resmî Gazete'de yayımlanan Elektrik Tesisleri Kabul Yönetmeliğinde
+yer alan enterkonnekte elektrik şebekesine 1 kV ve üstü gerilim
+seviyesinden bağlı elektrik üretim tesislerine ilişkin hükümler, bu
+Yönetmelik kapsamındaki üretim tesislerine uygulanmaz. Söz konusu
+yönetmelikte 1kV ve üstü gerilim seviyesinden bağlı elektrik üretim
+tesislerine yapılmış atıflar bu Yönetmeliğe yapılmış sayılır.
+Devam
+eden iş ve işlemler
+GEÇİCİ
+MADDE 1 – (1) Bu Yönetmeliğin
+yürürlüğe girdiği tarihten itibaren 6 aya kadar kabul işlemleri, 7/5/1995
+tarihli ve 22280 sayılı Resmî Gazete’de yayımlanan Elektrik Tesisleri Kabul
+Yönetmeliği hükümlerine göre yürütülebilir. Bakanlık gerek görmesi
+durumunda bu süreyi 6 ay daha uzatabilir.
+(2) Bu Yönetmeliğin yayım tarihinden önce geçici
+kabulü yapılmış olan üretim tesislerine ilişkin güvenilir işletme raporunun
+hazırlanarak bir örneği Ek-1(b)’ye uygun bir dilekçe ile birlikte ilgili
+POB’a sunulması durumunda, herhangi bir işleme gerek kalmaksızın kabul
+tutanakları tüm sorumluluk lisans/tesis sahibine ait olmak üzere onaylanmış
+kabul edilir.
+(3) Enterkonnekte elektrik şebekesine 1 kV altı
+gerilim seviyesinden bağlı elektrik üretim tesislerine ilişkin kabul
+işlemleri Elektrik Tesisleri Kabul Yönetmeliği hükümlerine göre ilgili
+kurum ve kuruluşlarca yürütülür.
+ETİP
+eğitimi
+GEÇİCİ
+MADDE 2 – (1) Eğitim
+kuruluşlarının ETİP eğitimi ve belgelendirilmesi konusunda Bakanlık tarafından
+yetkilendirilmesine ilişkin usul ve esaslar, bu Yönetmeliğin yayımını
+müteakip bir yıl içerisinde yayımlanır.
+(2) 1/1/2019 tarihinden sonra lisanslı elektrik
+üretim tesislerinde ETİP belgeli personel çalıştırmak zorunludur.
+Yürürlük
+MADDE 23
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 24
+– (1) Bu Yönetmelik hükümlerini
+Enerji ve Tabii Kaynaklar Bakanı yürütür.
+Ekler için tıklayınız
