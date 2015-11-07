@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 - (1) Bu Tebliğin amacı, 2/3/2015 tarihli ve 2015/7358 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İthalatta Tarife Kontenjanı Uygulanması Hakkında Karar uyarınca, 5510.30.00.00.00 gümrük tarife istatistik pozisyonunda yer alan diğer iplikler (esas itibariyle veya sadece pamuk ile karışık olanlar) (yalnızca bambu iplikleri) ithalatında açılan 2.000 tonluk tarife kontenjanından kalan 1.540 ton için yapılacak dağıtıma ilişkin yöntem ile başvuru ve kullanım usul ve esaslarının düzenlenmesidir.

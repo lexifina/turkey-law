@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21220",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2015/4)",
+  "number": "21220",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2015/21220",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21220&MevzuatTertip=5",
+  "source_sha256": "288eeb1c2b47be793de3516314172b631dde054c9d2b26d66834beb1bee544e1",
+  "source_bytes": 28697,
+  "published": "2015-11-07",
+  "gazette": "29525",
+  "in_force": "2015-11-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.11.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 965,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21220-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
