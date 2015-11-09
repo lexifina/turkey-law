@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5862",
+  "decision_date": "2015-11-09",
+  "title": "Boru Hatları ile Petrol Taşıma Anonim Şirketinin (BOTAŞ) 2015 Yılı Yatırım Programının revize edilmesine yönelik",
+  "resmi_gazete_date": "2015-11-17",
+  "resmi_gazete_number": "29535",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=C1Lfnf5J6eg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=C1Lfnf5J6eg="
+  ],
+  "source_sha256": "10c4447933c54b6cf16de7cf34723c6db91303007d74cb9847982455311e2ed0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-11-09",
+  "law_text_complete": false
+}
