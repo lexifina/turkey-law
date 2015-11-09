@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 17 – (1) Danışma Kurulu; Dekanın başkanlığında, Müdür, anabilim dalı başkanları ve anabilim dalı başkanlarının seçecekleri birer araştırma görevlisi, Fakültenin dördüncü ve beşinci sınıfından birer stajyer öğrenci temsilcisi, hastane müdürü, başhemşire ve Müdürün daveti halinde ilgili birim/ünite sorumlularından oluşur.
+(2) Danışma Kurulu yılda en az iki kez salt çoğunlukla toplanarak, her kesimden gelen eleştiri ve önerileri değerlendirir ve bunlar arasından Merkezin amaçlarına uygun ve hastane hizmetleri açısından yararlı bulunanlarla ilgili olarak tavsiye niteliğindeki görüş ve önerilerde bulunarak prensip kararları alır.
+(3) Rektör, ihtiyaç halinde Danışma Kurulunu toplantıya çağırabilir. Danışma Kurulunun raportörlüğünü hastane müdürü yapar.
