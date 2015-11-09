@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "1093",
+  "decision_date": "2015-11-09",
+  "title": "MEC_KAR_ (ANAMUR ÖREN ARKEOLOJİK SİT ALANI)",
+  "listed_as": "1093 MEC_KAR_ (ANAMUR ÖREN ARKEOLOJİK SİT ALANI)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/1093-mec-kar--anamur-oren-arkeolojik-sit-alani",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk80-09-kasim-2015-meclis-kararlari",
+  "listing_sha256": "ef7de0100a24c3b53c7793e320f1e9c1912e8395a6957d3b113ce6315d172e6b",
+  "meeting_title": "MK80-09 KASIM 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
