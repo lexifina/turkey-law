@@ -1,0 +1,3 @@
+Tüketici hakem heyetleri ve tüketici mahkemelerinde ücret
+MADDE 12 – (1) Tüketici hakem heyetlerinin tüketici lehine verdiği kararlara karşı açılan itiraz davalarında, kararın iptali durumunda tüketici aleyhine, avukatlık asgari ücret tarifesine göre nisbi tarife üzerinden vekâlet ücretine hükmedilir.
+(2) İş bu tarifenin Birinci Kısım İkinci Bölümünün tüketici hakem heyetlerine ilişkin kuralı, tüketici hakem heyetlerinde avukat aracılığı ile takip edilen işlerde, avukat ile müvekkili arasında çıkabilecek uyuşmazlıkların Avukatlık Kanununun 164. maddesinin 4. fıkrası uyarınca çözülmesine ilişkindir.
