@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-11-09",
+  "issue": "29527",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Adıyaman Üniversitesi Diş Hekimliği Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151109-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151109.htm",
+  "index_sha256": "2f9fbbbfaeeb45999f3da25e3374a2d2cb521ab32a401a7b9f94b684d168fdc7",
+  "index_header": "9 Kasım 2015 ... 29527 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151109.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
