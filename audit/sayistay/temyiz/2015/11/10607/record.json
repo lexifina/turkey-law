@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41033",
+  "decision_date": "2015-11-10",
+  "source_id": 10607,
+  "chamber": "1",
+  "file_number": "38586",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2011",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10607/",
+  "source_sha256": "017ab5a5eeb6a08b2a98cd96aa1044e75d2d2d91675493deb00dcf9e6e6ead44",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
