@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41030",
+  "decision_date": "2015-11-10",
+  "source_id": 10604,
+  "chamber": "1",
+  "file_number": "40216",
+  "account_year": "2012",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10604/",
+  "source_sha256": "d96eb700104a3deb625f90d57f8cfdc165549115415521d3d27dd54109f07cea",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
