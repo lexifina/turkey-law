@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "270",
+  "decision_date": "2015-11-10",
+  "source_id": 23737,
+  "chamber": "6",
+  "ilam_number": "185",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23737/",
+  "source_sha256": "9f2c2cd06ba0a4f1f28fdeff834a9b582f4f66dc17fe0b098f9999987ac9b14e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
