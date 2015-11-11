@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.21233",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "Türk Mühendis ve Mimar Odaları Birliği Metalurji ve Malzeme Mühendisleri Odası Çalışma ve Faaliyet Alanları Yönetmeliği",
+  "number": "21233",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Metalurji ve Malzeme Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-metalurji-ve-malzeme-muhendisleri-odasi-yonetim-kur",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-metalurji-ve-malzeme-muhendisleri-odasi-yonetim-kur/2015/21233",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21233&MevzuatTertip=5",
+  "source_sha256": "776ddd7b2703a83433ac857fbcc1300b5fecde6182db6d6299b9de8fb08e05a5",
+  "source_bytes": 18518,
+  "published": "2015-11-11",
+  "gazette": "29529",
+  "in_force": "2015-11-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.11.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 740,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
