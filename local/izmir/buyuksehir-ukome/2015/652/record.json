@@ -1,0 +1,25 @@
+{
+  "number": "652",
+  "number_as_published": "652",
+  "year": 2015,
+  "title": "UKOME kararı 2015/652",
+  "decision_date": "2015-11-11",
+  "source": "https://www.izmir.bel.tr/tr/UkomeKararlari/UkomeKararlariGetirJS?draw=1&start=0&length=500&baslangicTarihi=01.01.2015&bitisTarihi=31.12.2015&kararNo=&konuKodu=&ilceId=&sokakKodu=&teklif=&asilKararNo=",
+  "official_document": null,
+  "source_sha256": "14099d1a705488ee41dae43ecfc1309606fc0555c8841224e4615287c816fab7",
+  "issuer": "İzmir Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2015-11-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11/11/2015; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.izmir.bel.tr/tr/UkomeKararlari/64",
+  "register_id": 5716,
+  "file_name": "2015.652.DOC",
+  "district": null
+}
