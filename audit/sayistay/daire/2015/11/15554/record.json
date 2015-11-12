@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "275",
+  "decision_date": "2015-11-12",
+  "source_id": 15554,
+  "chamber": "6",
+  "item_number": 18,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15554/",
+  "source_sha256": "4906b0e8798134f67f88feb9fb3b818413ba5ae8283814ce99d51e31d00de1bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
