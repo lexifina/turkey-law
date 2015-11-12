@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10504",
+  "decision_date": "2015-11-12",
+  "source_id": 11267,
+  "chamber": "1",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11267/",
+  "source_sha256": "2b75d0eb4b9c6bf505904b819aa16af0f8ad8c2c74f297e08370c0c9ee1c03a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
