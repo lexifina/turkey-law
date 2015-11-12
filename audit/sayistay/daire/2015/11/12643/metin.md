@@ -1,0 +1,5 @@
+Üniversite araçlarının bakım ve onarım giderlerinin bu giderlere neden olan hususlara ilişkin kişisel kusur araştırılmaksızın Üniversite bütçesinden ödenmesi.
+
+Üniversite araçlarının bakım ve onarım giderlerinin bu giderlere neden olan hususlara ilişkin kişisel kusur araştırılmaksızın Üniversite bütçesinden ödenmesi konusuna ilişkin yapılan inceleme sonucunda, araçlardan ……., ……. ve ……. plakalı olanlar için araç arıza/ihtiyaç formu düzenlendiği, formlarda araçlar için tespit edilen hususların yazıldığı ve formlar yetkili kişilerce imzalandıktan sonra arıza ve ihtiyaçların giderildiği, ……., …….., …….. ve ……. plakalı olanlarda çeşitli sebeplerle oluşan hasar ve arızalar için ilgililerce tutanak tutulduğu, düzenlenen bu form ve tutanaklara göre araçları kullananların arıza ve hasarların oluşmasında kişisel sorumluluklarının bulunmadığı anlaşılmıştır.
+
+Bu itibarla Üniversite araçlarının bakım ve onarım giderlerinin Üniversite bütçesinden ödenmesinin yasal düzenlemelere uygun olduğuna ve bakım ve onarım gideri olarak ödenen ……. TL ile ilgili ilişilecek bir husus bulunmadığına oybirliğiyle,
