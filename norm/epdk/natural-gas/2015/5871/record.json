@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5871",
+  "decision_date": "2015-11-12",
+  "title": "Aksa Elazığ Doğalgaz Dağıtım A.Ş.?nin 2012-2016 tarife döneminde uygulayacak olduğu perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2015-11-14",
+  "resmi_gazete_number": "29532",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0PNxIkdK1Fk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0PNxIkdK1Fk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gwKUzFA5QTs="
+  ],
+  "source_sha256": "996c9fcaf1e2ab699ea35a25f1637265197734f3a71ce43f021590ff70af652d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-11-12",
+  "law_text_complete": false
+}
