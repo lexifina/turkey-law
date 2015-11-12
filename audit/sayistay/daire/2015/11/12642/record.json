@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35347",
+  "decision_date": "2015-11-12",
+  "source_id": 12642,
+  "chamber": "2",
+  "ilam_number": "51",
+  "item_number": 4,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12642/",
+  "source_sha256": "85a82d47a1ea98cf9609b717fc969b15e7b97e6ab28db2f37b01f64815464dcc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
