@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "58",
+  "decision_date": "2015-11-12",
+  "source_id": 11943,
+  "chamber": "8",
+  "ilam_number": "39",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11943/",
+  "source_sha256": "40eb60ac1852b484cf118b81c289b484cf2857899f3d69851c0e7ebb4b2c8a30",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
