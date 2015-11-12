@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "1131",
+  "decision_date": "2015-11-12",
+  "title": "MEC_KAR_ (anamur performans ve bütçe )",
+  "listed_as": "1131 MEC_KAR_ (anamur performans ve bütçe )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/1131-mec-kar--anamur-performans-ve-butce-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk79-12-kasim-2015-meclis-kararlari",
+  "listing_sha256": "1ecd938ab385fdb2b0ebff07c6b63e8f4070993dbe99dbec2066ae8409cfd135",
+  "meeting_title": "MK79-12 KASIM 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
