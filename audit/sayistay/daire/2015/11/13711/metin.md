@@ -1,0 +1,19 @@
+hüküm Tarihinden Sonra Tahsilat
+
+Asıl ilamın 5, 8, 12, 15 ve 16 ncı maddeleriyle ilgili tahsilatlar, hüküm tarihinden sonra gerçekleşmiş olup, ilamın infazı mahiyetini taşımaktadır. 6085 sayılı Sayıştay Kanununun 33 üncü ve Sayıştay Başsavcılığı Çalışma Yönetmeliğinin 5 ve 9 uncu maddeleri uyarınca ilamların infazını izleme ve bu hususla ilgili gerekli işlemleri yapma, Başsavcılığın görev ve yetkisi dâhilinde bulunduğundan; söz konusu tahsilatlarla ilgili denecek olmadığına,
+
+Üye …’in, “6085 sayılı Sayıştay Kanununun Başsavcılık  başlıklı 33 üncü maddesinin ikinci fıkrasının (b) bendinde, “İlama ilişkin yargılamaya esas raporları hazırlayan denetçiler tarafından yapılan temyiz istemini gerçekleştirir veya temyiz isteminde bulunmama gerekçesini, ilgili denetçiye bildirilmek üzere Başkanlık makamına sunar. İlamların infazını izler ve bu hususla ilgili gerekli işlemleri yapar.” amir hükmü yer almaktadır.
+
+17 Aralık 2011 tarihli ve 28145 sayılı Resmî Gazetede yayımlanan Sayıştay Başsavcılığı Çalışma Yönetmeliğinin “Başsavcı” başlıklı 5 inci maddesinin ikinci fıkrasının (c) bendinde aynı hüküm tekrarlanmış olup, bu Yönetmeliğin “İlamların infazının izlenmesi” başlıklı 9 uncu maddesinde, “(1) Sayıştayın hesap yargılamasına tabi kurumların muhasebe birimlerince Sayıştay ilamına dayanılarak kişilerden alacaklar hesabına kaydedilmiş bulunan alacaklarla ilgili olarak nakden veya mahsuben yapılan tahsilat ile terkin, tenzil ve kaldırma işlemlerini gösteren “Sayıştay İlamları Bilgi Formu” her yılın Ocak ve Temmuz aylarının ilk haftasında bassavcilik@sayistay.gov.tr adresine elektronik posta yolu ile gönderilir. Herhangi bir nedenle elektronik posta yolu ile gönderilemeyen formlar belirtilen sürede Sayıştay Başkanlığına gönderilir.
+
+(2) Sayıştay İlamları Bilgi Formu her yılın ilamı için ayrı ayrı düzenlenir. Altı aylık süre içerisinde, herhangi bir yılın ilamı kapsamındaki alacakların durumunda tahsil, terkin, tenzil ve kaldırma gibi nedenlerle bir değişiklik yoksa o yılın ilamıyla ilgili o dönem için form düzenlenmez. Tahsilat, sorumluların rücu edebileceği kişilerden yapıldığı takdirde forma, tahsilatın yapıldığı kişinin ad ve soyadı ile birlikte, hangi sorumlu veya sorumluların müşterek veya münferit borcuna mahsup edildiği de yazılır.
+
+(3) Sayıştay İlamları Bilgi Formuna göre ilamları infaz etmediği tespit edilen ve gereklerini yerine getirmeyen üst yöneticiler hakkında Kanunun 9 uncu maddesi hükmünün uygulanması için Başsavcılıkça durum ilgili kuruma intikal ettirilir ve sonucu takip edilir.
+
+(4) İlgili birimden alınan bilgiler sonucu ilamların yıllar itibariyle infaz durumu ve infaz etmeyenler hakkında yapılan işlemlere ilişkin Başsavcılıkça, her yılın üçüncü ayında, Başkanlık makamına bilgi sunulur.” hükmü yer almaktadır.
+
+6085 sayılı Kanunumuzun amir hükmü ve Sayıştay Başsavcılığı Çalışma Yönetmeliğindeki düzenleme gereği ilamların infazı Sayıştay Başsavcılığınca yapılmak zorundadır. … İl Özel İdaresi 2011 yılı hesabı ile ilgili olarak … tarihli ek rapor düzenlenmiş, ek rapor içeriği ise tamamen ilamın infazı mahiyetindedir. Gerek Kanunumuzun 33 üncü maddesi gerekse Sayıştay Başsavcılığı Çalışma Yönetmeliğinin 5 inci ve 9 uncu maddelerindeki hükümler gereği ilamların infazı mahiyetindeki belgelerin dairelere gönderilmemesi, bunlara ilişkin ek raporların yazılmaması ve dairelerde görüşülmemesi gerekir.
+
+İlamın infazı mahiyetindeki başvuruların direk Başsavcılığımıza yapılması ve takibinin de bu birimce yapılması gerekir. Bu belgelerin yukarıda yazılı süreçlerden geçmesi ve ek rapora bağlanması, Kanunumuza ve Sayıştay Başsavcılığı Çalışma Yönetmeliğine aykırı işlem yapılması sonucunu doğurmaktadır. Ek raporun Başkanlığa iade edilmesi ve konu hakkında Başkanlığımıza yazılması gerekir.”
+
+Şeklindeki karşı oyuna karşın, oy çokluğuyla, karar verildi.
