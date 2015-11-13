@@ -1,0 +1,21 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Yurt içinde ve yurt dışında, koordinasyon alanı ile ilgili her konuda uygulama, araştırma, inceleme yapmak ve yapılmakta olan bu gibi çalışmalara katılmak ve bunları desteklemek, bu alanda proje hazırlamak, danışmanlık yapmak ve eğitimler sunmak,
+b) Üniversiteye yeni gelen uluslararası öğrencilere yönelik oryantasyon çalışması yapmak, uluslararası öğrencileri sosyal destek kaynakları, olanaklar ve koşullar hakkında bilgilendirmek,
+c) Uluslararası öğrencilerin kendilerini tanımaları, kişisel, sosyal, ailevi ve akademik başarısızlık sorunlarını çözmeleri, gerçekçi kararlar almaları, kapasitelerini geliştirmeleri, çevrelerine sağlıklı ve dengeli şekilde uyum sağlamaları, kendilerini geliştirmeleri amacıyla uluslararası öğrencilere rehberlik hizmeti sunmak,
+ç) İhtiyaç duyan ve başvuran uluslararası öğrencilere karşılaştıkları eğitsel ve meslekî iş seçimine ilişkin sorunlarını sağlıklı biçimde çözebilmeleri için rehberlik hizmeti sunmak,
+d) Çukurova Üniversitesi Uluslararası Öğrenci Sınavını (ÇUÖS) yurt içinde ve yurt dışında düzenlemek, sınavın hazırlama, uygulama ve değerlendirmesini yapmak,
+e) Çukurova Üniversitesi Önlisans ve Lisans Programları için Uluslararası Öğrenci Kabul ve Kayıt Yönergesini günün koşullarına göre güncelleştirmek üzere Üniversite yönetimine önerilerde bulunmak,
+f) Yüksek lisans ve doktora programlarına başvuran adayları Çukurova Üniversitesi Uluslararası Lisansüstü Öğrenci Kabul ve Kayıt Yönergesine göre yerleştirmek üzere ilgili birimlerle işbirliği yapmak,
+g) Programların uluslararası öğrencilere yönelik kontenjanları ve diğer önemli duyurularını güncel web sayfasında yayınlamak,
+ğ) Uluslararası öğrenciler için gerekli bilgileri içeren broşür ve kitapçıkları hazırlamak,
+h) Üniversitemize kayıtlı uluslararası öğrencilere kampüs, barınma ve sağlık hizmetleri hakkında bilgi sağlamak ve uyum programı hazırlamak,
+ı) Oturma izni müracaatını ilk defa yapacak öğrencilere, Göç İdaresi Genel Müdürlüğündeki işlemler konusunda rehberlik etmek,
+i) Uluslararası öğrencilerden sorumlu akademik danışmanlar aracılığıyla, ilgili birimlerde öğrencilerin akademik ve idari sorunlarına koordineli çözümler üretmek,
+j) Uluslararası öğrenciler için, Türkiye’yi, Adana’yı ve Çukurova Üniversitesini tanıtan sosyal, kültürel ve sanatsal etkinlikler düzenlemek,
+k) Kayıtlar sırasında, öğrencileri yetenek ve ilgi alanları doğrultusunda Üniversitede faaliyet gösteren öğrenci kulüplerine yönlendirmek,
+l) Uluslararası öğrencilerle ilgili projeler hazırlamak ve sunmak,
+m) Uluslararası öğrencilerle ilgili yapılacak etkinlikleri hem Üniversite bülteninde hem de web sayfasında duyurmak,
+n) Üniversitenin ilgili birimleriyle birlikte, uluslararası eğitim, tanıtım, fuar ve etkinliklere katılmak, bu tür uluslararası fuarların düzenlenmesine yardımcı olmak,
+o) Merkezin amaçları doğrultusunda yayın yapmak,
+ö) Yönetim Kurulunun kararlaştıracağı diğer faaliyetlerde bulunmak.

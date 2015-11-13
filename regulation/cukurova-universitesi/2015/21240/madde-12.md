@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu, Merkezin faaliyetleri ile ilgili alanlarda deneyim sahibi olan Üniversitenin öğretim elemanları veya istekleri halinde kamu ve özel kuruluşlardaki uzman kişiler arasından, Müdürün önerisi üzerine Rektör tarafından üç yıllığına görevlendirilen kişilerden oluşur. Süresi biten üyeler yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı yöntemle yeni bir üye görevlendirilir.
+(2) Merkezin faaliyetleri hakkında istişare niteliğinde görüş bildiren Danışma Kurulu, Müdürün başkanlığında, müdür yardımcılarının da katılımı ile yılda bir kez olağan olarak toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü toplantıya çağırabilir.
