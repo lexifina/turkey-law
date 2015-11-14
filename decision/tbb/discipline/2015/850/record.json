@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "850",
+  "date": "2015-11-14",
+  "title": "T. 14.11.2015 E. 2015/742 K. 2015/911",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/850",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?yil=2015",
+  "listing_sha256": "431923c08a57936a3d77ef177617e4249b415d39323556ffc8171637721dcc53",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
