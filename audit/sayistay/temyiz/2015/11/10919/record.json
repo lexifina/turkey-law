@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41066",
+  "decision_date": "2015-11-17",
+  "source_id": 10919,
+  "chamber": "1",
+  "file_number": "39661",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10919/",
+  "source_sha256": "356412a769c524ed4380d99c2301dac9a8b62275f5b0e2d8bf10e51d98c0fd7f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
