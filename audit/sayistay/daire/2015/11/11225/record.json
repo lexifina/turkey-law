@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "60",
+  "decision_date": "2015-11-17",
+  "source_id": 11225,
+  "chamber": "8",
+  "ilam_number": "38",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11225/",
+  "source_sha256": "127a2ccc9137a11fc3c773e06ba84b35702fb3e2c6c7c9f7996b87839be52475",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
