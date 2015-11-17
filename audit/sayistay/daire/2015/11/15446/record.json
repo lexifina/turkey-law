@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "62",
+  "decision_date": "2015-11-17",
+  "source_id": 15446,
+  "chamber": "8",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15446/",
+  "source_sha256": "f8497074940f47b7a787810daeb560450930cd5f6dd63fa61c66395068ab077f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

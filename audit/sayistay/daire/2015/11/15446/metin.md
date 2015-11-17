@@ -1,0 +1,11 @@
+İmalat Bayındırlık Pozu Kapsamında Olmasına Rağmen Özel Poz Belirlenmesi:
+
+................. Bakanlığı ............... Bölge Müdürlüğü’nde  “........... ..................... İşi” ne ait hakediş ve eklerinin incelenmesinde, ahşap görünümlü plastik doğrama imalatının sözleşmede esas alınan Y.23.241 nolu bayındırlık pozu kapsamında yer aldığı halde yeniden özel poz belirlemek suretiyle ilave ödeme yapılması ile ilgili olarak;
+
+Sözleşme eki Teknik Şartnamede Y.23.241 nolu pozun tarifi “Plastik Doğrama İmalatı Yapılması ve Yerine Konulması (Sert PVC Doğrama Profillerinden Her Çeşit Kapı, Pencere, Kaplama vb. İmalat)” şeklinde yapılmıştır.
+
+Söz konusu tarif içerisinde yer alan “Her Çeşit Kapı, Pencere, Kaplama vb. İmalat” ifadesinin “ahşap görünümlü imalat”ı da kapsadığı görüşüne ilişkin olarak yapılan inceleme ve sorumluların yapmış olduğu açıklamalar neticesinde, plastik imalatın yapım sürecinde ahşap görünümü elde etmek için farklı (ilave) bir işlemin gerçekleştirilmesi gerektiği, pozun açıklamasındaki “her çeşit” ibaresinin yapılacak pencere, kapı veya camekânın her çeşit olmasını ifade ettiği, PVC’nin ise ilk aşamada renksiz olarak (beyaz) elde edildikten sonra ikinci bir aşama ile ahşap renkli PVC elde edilmesi için beyaz plastik yüzeylerin çeşitli kalınlıklarda (genelde 200 mikron), desenlerde ve renklerde bir lamine ile kaplandığı, bu işlemin sıcak/soğuk presleme veya farklı bir teknikle yapıldığı, böylece hem malzemede hem de işçiliklerde farklı maliyetlerin oluştuğu ve ahşap renkli PVC’nin içerisinde daha fazla metal malzeme kullanılması gerektiğinden fiyatın da farklılaştığı anlaşılmış bulunduğundan;
+
+Söz konusu hesap ve işlemlerin yasal düzenlemelere uygun olduğuna,
+
+(Üye .......................’nun “Sözleşme hukuku gereğince imalatın ilgili tarif ile yapılması gerektiği, sözleşmede atıf yapılan Y.23.241 nolu imalatın ‘ahşap renkli (desenli)’ olanı kapsamıyor varsayımıyla yeni fiyat belirlenip daha yüksek bedel ödenmesinin hem sözleşme hukukuna hem de 4734 sayılı Kamu İhale Kanunu’nun 5’inci maddesinde hüküm altına alınan eşit muamele ve rekabet ilkelerine aykırı olduğu, dolayısıyla ..........TL tutarındaki kamu zararının sorumlulara ortaklaşa ve zincirleme tazmin ettirilmesi gerektiği” şeklindeki ayrışık görüşüne karşı) oy çokluğuyla karar verildi.
