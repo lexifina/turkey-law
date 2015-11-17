@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/selahaddin-eyyubi-universitesi/2014/19691",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-17/11/2015",
+  "first_law": null,
+  "gazette": "29007",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-11-17",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Selahaddin Eyyubi Üniversitesi",
+  "issuer_slug": "selahaddin-eyyubi-universitesi",
+  "kind": "regulation",
+  "published": "2014-05-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19691&MevzuatTertip=5",
+  "source_id": "8.5.19691",
+  "source_sha256": "0aa746f6b5ed4b79ddd442f58b1aa3c7e6f4a9e505d272107a363b29808762fa",
+  "title": "SELAHADDİN EYYUBİ ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 448,
+  "version_label": "oldest version available",
+  "word_count": 821
+}
