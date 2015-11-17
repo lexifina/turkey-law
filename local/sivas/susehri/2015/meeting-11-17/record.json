@@ -1,0 +1,27 @@
+{
+  "number": "meeting-11-17",
+  "number_as_published": "meeting-11-17",
+  "year": 2015,
+  "title": "17.11.2015 tarihli meclis kararları",
+  "decision_date": "2015-11-17",
+  "source": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=95",
+  "official_document": "https://susehri.bel.tr/img/belgeler/meclis-kararlari/2015/2015-11-17.doc",
+  "source_sha256": "cc24893716a7167f05caaa23642ec2566205ba6bb9b3283f579c6e043437c1e7",
+  "issuer": "Suşehri Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-11-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17.11.2015; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "17.11.2015 tarihli meclis kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=95",
+  "item_title": "2015 Kasim",
+  "file_label": "2015-11-17",
+  "date_read_from": "official file name (MK-yyyy-mm-dd)"
+}
