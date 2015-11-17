@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41089",
+  "decision_date": "2015-11-17",
+  "source_id": 10946,
+  "chamber": "6",
+  "file_number": "39808",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10946/",
+  "source_sha256": "db58369f4845c7547a6df24bb7c8a5052862e6890ba85e7d3e84b12407f210cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
