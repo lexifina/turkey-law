@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5876",
+  "decision_date": "2015-11-18",
+  "title": "Doğal gaz dağıtım lisansı sahibi tüzel kişilerin doğal gaz alımlarına ilişkin",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BStP1xWxGAo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BStP1xWxGAo="
+  ],
+  "source_sha256": "dc34adf7fce937ecfbffbdcc773a035a0518bbda7e5b7a430e54c47f15738f12",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-11-18",
+  "law_text_complete": false
+}
