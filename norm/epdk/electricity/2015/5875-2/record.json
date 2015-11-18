@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5875/2",
+  "decision_date": "2015-11-18",
+  "title": "Elektrik Dağıtım Şirketleri için III. Uygulama Dönemi Süresi",
+  "resmi_gazete_date": "2015-11-24",
+  "resmi_gazete_number": "29542",
+  "categories": [
+    "EDAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4qMk2/UeuiY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4qMk2/UeuiY="
+  ],
+  "source_sha256": "1a705ad31615a0c36d578aadef751372c04779e951f92ad1292eee2f87a9fd8e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14798,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2015-11-18",
+  "law_text_complete": false
+}
