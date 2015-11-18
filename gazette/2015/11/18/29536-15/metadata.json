@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-11-18",
+  "issue": "29536",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Muş Alparslan Üniversitesi Önlisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151118-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151118.htm",
+  "index_sha256": "36ef74f6ca3eee86f09b67c273c613fed64f80cd7475e3a8f00e64102fade7dd",
+  "index_header": "18 Kasım 2015 ... 29536 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151118.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
