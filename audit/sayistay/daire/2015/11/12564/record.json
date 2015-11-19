@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35349",
+  "decision_date": "2015-11-19",
+  "source_id": 12564,
+  "chamber": "2",
+  "item_number": 14,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12564/",
+  "source_sha256": "4a1736a00054a486c57714204a9262f6c4ccfc0ce12964244162264ac5e407f3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
