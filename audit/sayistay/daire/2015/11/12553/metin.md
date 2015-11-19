@@ -1,0 +1,3 @@
+ Doçent kadrosuna atanmadıkları halde Doçent unvanı aldığı tarihten itibaren  ek gösterge aylığı, geliştirme ödeneği ve eğitim öğretim ödeneği ödenmesi.
+
+Fen Edebiyat Fakültesinde görev yapmakta olan .....… ve .......…’ın .......... tarihli Atama Onayı ile Doçent kadrosuna atandıkları, adı geçen personele, bu tarihten itibaren Doçent unvanlı 1-3. derecelere karşılık gelen ek gösterge rakamı üzerinden ek gösterge aylığı ve aynı gösterge rakamı esas alınarak geliştirme ödeneği ve üniversite ödeneği ödenmesinde mevzuata aykırılık bulunmadığı anlaşıldığından hesap ve işlemlerin yasal düzenlemelere uygunluğuna oybirliğiyle,
