@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21260",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO: 22)",
+  "number": "21260",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2015/21260",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21260&MevzuatTertip=5",
+  "source_sha256": "ce9c73279bdab1a1e1d52f45f7f3b498587802ea9236eec9d8ee9c94fab463bb",
+  "source_bytes": 11159,
+  "published": "2015-11-19",
+  "gazette": "29537",
+  "in_force": "2015-11-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.11.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 263,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21260-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
