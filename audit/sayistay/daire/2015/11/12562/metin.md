@@ -1,0 +1,3 @@
+Herşey dâhil paket program olarak satın alınan eğitim seminerine giden personele eğitim yerinde geçen günler için yevmiye verilmesi.
+
+.........şirketi tarafından ........... tarihleri arasında her şey dâhil paket program şeklinde Lara - Antalya’da düzenlenen ve eğitim bedelinin idare tarafından ödendiği eğitim semineri ile; …..... şirketi tarafından ........ tarihleri arasından Antalya’da düzenlenen ve eğitim bedelinin idare tarafından ödendiği eğitim seminerlerine katılan personele yolda geçen günlerin yanı sıra eğitim yerinde geçen günler için de yevmiye verilerek …... TL kamu zararına yol açılmışsa da söz konusu tutar ….......  tahsil edildiğinden ilişilecek husus kalmadığına oybirliğiyle,
