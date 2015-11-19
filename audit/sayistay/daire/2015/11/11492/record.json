@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "136",
+  "decision_date": "2015-11-19",
+  "source_id": 11492,
+  "chamber": "5",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11492/",
+  "source_sha256": "b2ecf17a9284a313aaf3e806ef9b23a67d65d298f815f730585f2a927eec9a87",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
