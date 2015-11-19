@@ -1,0 +1,5 @@
+Dolu kadroya vekaleten atanan kişiye vekalete ilişkin zam ve tazminatların ödenmesi.
+
+Sağlık Kültür ve Spor Daire Başkanlığındaki dolu olan Daire Başkanlığı kadrosuna, İdari Mali İşler Daire Başkanlığı Şube Müdürü kadrosunda bulunan ........…’ın .......  tarihinde vekaleten atandığı ve bu görevinden doğan zam ve tazminatların kendisine ödendiği tespit edilmiştir.
+
+Denetçi raporunda, 2547 sayılı Yükseköğretim Kanunun 13/b-4 maddesi ile yapılan vekaleten görevlendirmelerde, vekalet nedeniyle öngörülen zam ve tazminat farklarının ödenemeyeceği ifade edilmiştir. Ancak vekaleten atama onayı incelendiğinde; her ne kadar 657 sayılı Kanunun 86 ncı maddesinden bahsedilmemişse de “…..........’ın, hizmetine duyulan ihtiyaç nedeniyle Sağlık Kültür ve Spor Daire Başkanlığında Daire Başkanı görevini vekaleten yürütmek üzere görevlendirilmesi” ifadesinin kullanıldığı, bu ifade ile vekaletin 657 sayılı Kanunun 86 ncı maddesine binaen yapıldığı anlaşıldığından hesap ve işlemlerin mevzuatına uygun olduğuna, ...… TL ile ilgili olarak ilişilecek husus bulunmadığına oybirliğiyle,
