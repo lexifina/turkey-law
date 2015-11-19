@@ -1,0 +1,2 @@
+Yükümlülüklerin yerine getirilmemesi
+MADDE 23 – (1) Spor müsabakaları öncesinde toplanan spor güvenlik kuruluna katılmayan, kurul kararlarına uymayan, Kanunda öngörülen sorumluluk ve görevlerini yerine getirmeyen kurum ve kuruluşlar ile ilk yardım ve itfaiye personeli, hakkında gerekli adli ve idari işlem başlatılmak üzere mahallin en büyük mülki amirine bildirilir. Bu yükümlülükleri yerine getirmeyen kulüpler ile taraftardan sorumlu temsilci ve kulüp görevlileri, hakkında gerekli işlemler yapılmak üzere ilgili federasyona bildirilir.

@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 –(1) Bu Yönetmeliğin uygulanmasında;
+a) Elektronik bilgi bankası: 6222 sayılı Kanuna göre haklarında spor müsabakalarını seyirden yasaklanma tedbiri bulunanların fotoğraflı olarak kayıtlarının tutulduğu ve takibinin yapıldığı, merkezi spor güvenlik biriminde kurulan ve spor kulüpleri, federasyonlar ve spor güvenlik birimlerinin erişimine açık tutulan veri tabanını,
+b) Federasyonlar: Spor Genel Müdürlüğü bünyesinde faaliyet gösteren federasyonlar ile bağımsız spor federasyonlarını ve Türkiye Futbol Federasyonunu,
+c) Genel Müdürlük: Spor Genel Müdürlüğünü,
+ç) Gözlemci polis: Futbol dalında en üst lig ve bir altındaki lig için spor güvenlik biriminden, bu birimin olmadığı yerlerde spor güvenliği ile ilgili iş ve işlemleri yürüten birimden görevlendirilen genel kolluk görevlisini,
+d) İl spor güvenlik kurulu: Her ilde oluşturulan spor güvenlik kurulunu,
+e) İlçe spor güvenlik kurulu: Spor kulübü bulunan ilçelerde oluşturulan spor güvenlik kurulunu,
+f) Kanun: 31/3/2011 tarihli ve 6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanunu,
+g) Kulüp görevlileri: Spor kulüplerinin müsabakalarda seyirci sağlığını ve emniyetini ilgilendiren konularda bulundurmakla yükümlü oldukları görevlileri,
+ğ) Kulüp güvenlik sorumlusu: Futbol dalında en üst lig ve bir alt liginde, basketbol, voleybol ve hentbol dallarında ise en üst ligde bulunan kulüpler tarafından belirlenen ve spor alanının ilgili federasyonun talimatları uyarınca oluşturulan birinci güvenlik çemberinden itibaren iç güvenliğinden sorumlu, federasyonlar tarafından belirlenen kriterlere göre eğitim almış görevliyi,
+h) Merkezi spor güvenlik birimi: Emniyet Genel Müdürlüğü bünyesinde kurulan ilgili birimi,
+ı) Müsabaka alanı: Spor müsabakasının yapılmasına tahsis edilen alanı,
+i) Müsabaka güvenlik amiri: Spor alanlarında güvenliğin sağlanması amacıyla mülki idare amiri tarafından görevlendirilmiş genel kolluk amirini,
+j) Özel güvenlik görevlileri: İlgili mevzuatta belirtilen görev ve yetkileri haiz, spor güvenliği alanında gerekli eğitimi almış, spor alanının birinci güvenlik çemberinden itibaren iç güvenliğinden sorumlu kişileri,
+k) Spor alanı: Spor müsabakalarının veya antrenmanların gerçekleştirildiği alanlar ile seyircilere ait seyir alanları, sporculara ait soyunma odası ve Kanunun uygulanması kapsamında spor yapmaya elverişli alanları,
+l) Spor alanı güvenlik planı: İlgili federasyonun ve spor güvenlik biriminin belirleyeceği kriterlere uygun olarak, ilgili kamu kurum ve kuruluşları ile koordineli biçimde kulüp tarafından her spor alanına özgü biçimde hazırlanan ve spor güvenlik kurulu tarafından onaylandıktan sonra uygulamaya konulan planı,
+m) Spor güvenlik birimi: Sorumluluk alanlarına göre il ve ilçe emniyet müdürlükleri veya jandarma komutanlıkları tarafından kurulan birimi,
+n) Spor kulübü: Belirli kurallara göre kurulan, amatör veya profesyonel spor dallarında faaliyette bulunan kuruluşu,
+o) Spor müsabakası: İlköğretim ve ortaöğretim okul sporları, kamu kurum ve kuruluşlarının düzenlemiş olduğu turnuvalar hariç olmak üzere, federasyonların düzenlediği veya düzenlenmesine izin verdiği ya da katkıda bulunduğu her türlü sportif karşılaşma ve yarışmayı,
+ö) Taraftar derneği: Her ne ad altında olursa olsun, bir spor kulübünü desteklemek amacıyla kurulan derneği,
+p) Taraftardan sorumlu kulüp temsilcisi: Spor kulüplerinin yönetim kurulu üyeleri arasından belirledikleri kişiyi,
+ifade eder.

@@ -1,0 +1,22 @@
+Emniyet müdürlükleri ile jandarma komutanlıklarının görev, yetki ve sorumlulukları
+MADDE 7 – (1) İl ve ilçe emniyet müdürlükleri ile il ve ilçe jandarma komutanlıklarının görev, yetki ve sorumlulukları şunlardır:
+a) Müsabaka güvenlik amirinin görevlendirilmesini sağlamak.
+b) Kulübün müsabakadan en az beş gün önceki başvurusu ve Türkiye Futbol Federasyonunun müsabakadan en az üç gün önceki talebi üzerine en üst profesyonel futbol ligi kulüplerinin müsabakalarıyla ilgili olarak, özel güvenlik görevlisi yerine il veya ilçe spor güvenlik kurulları tarafından belirlenen özel güvenlik görevlisi sayısının üçte birini geçmeyecek şekilde görevde olmayan genel kolluk görevlisi görevlendirmek ve bu şekilde görevlendirilen genel kolluk görevlilerinin müsabaka güvenlik amirinin talimatları doğrultusunda görev yapmasını sağlamak.
+c) Kanuna aykırı hareket eden kişiler hakkında gerekli adli işlemleri yapmak ve haklarında seyirden yasaklanma tedbiri bulunanların fotoğrafını almak ve kişilere ait bilgileri elektronik bilgi bankasına kaydedilmek üzere spor güvenlik birimine bildirmek.
+ç) Kanunda yazılı yasaklara aykırı davranan yabancı uyruklu kişilerin sınır dışı edilmeleri ile ilgili olarak 15/7/1950 tarihli ve 5683 sayılı Yabancıların Türkiye’de İkamet ve Seyahatleri Hakkında Kanun hükümlerine göre işlem yapmak.
+d) Spor müsabakalarını seyirden yasaklanan kişilerin yasaklanma kararının nedenini oluşturan fiilin işlendiği müsabakanın tarafı olan ve taraftarı olduğu takımın katıldığı spor müsabakalarının yapılacağı gün, yurtiçinde bulunduğu takdirde, müsabakanın başlangıç saatinde ve bundan bir saat sonra bulunduğu yere en yakın polis merkezi amirliğine yaptığı başvuruların elektronik bilgi bankasına kaydedilmesini sağlamak.
+e) Gerektiğinde takım ve taraftarların geçiş güzergâhlarında güvenlik timi ve trafik eskortu görevlendirmek.
+f) Spor müsabakalarına ilişkin olarak alınacak emniyet tedbirleri ile ihtiyaç duyulacak araç, gereç ve personel planlamasını yapmak.
+g) Spor alanlarında genel kolluk görevlileri ile bunların gözetiminde olmak üzere özel güvenlik görevlileri tarafından yapılacak üst araması konusunda mülki idare amirinden yazılı izin almak.
+ğ) Alkol ya da uyuşturucu veya uyarıcı madde etkisinde olduğu açıkça anlaşılan kişilerin spor alanına girmesini engellemek.
+h) Her türlü silah, kesici veya delici alet, sis bombası, ses bombası veya maytap gibi patlayıcı, parlayıcı, yanıcı, yakıcı maddeler ile taş, metal gibi fırlatılabilecek veya yaralayıcı nitelikte sert cisim veya tehlike arz edebilecek veya müsabaka düzenini bozabilecek diğer maddeler ile alkollü içecekler ve çevreyi kirletecek nitelikte konfeti ve benzeri cisimlerin spor alanına sokulmaması için gerekli tedbirleri almak.
+ı) Müsabaka öncesinde ve sonrasında, her iki takımın seyirci topluluklarını birbirinden ayıracak güvenlik tedbirlerini almak.
+i) Spor müsabakasının yapılacağı tesislere giden güzergâhtaki trafik akışının sağlanması için gerekli önlemleri almak.
+j) Özel güvenlik sayısının üçte birini geçmeyecek şekilde harcırahlı olarak görevlendirilen genel kolluk kuvvetlerinin listesini müsabaka sonrası üç iş günü içinde Türkiye Futbol Federasyonuna iletmek.
+k) Müsabakalarla ilgili risk analizi yaparak spor güvenlik kurullarına sunmak.
+l) Genel kolluk kuvvetlerini, spor alanlarında yer alan bekleme odalarında veya olaylara en kısa sürede müdahale edecek şekilde hazır kuvvet olarak uygun bir yerde bekletmek.
+m) 4/7/1934 tarihli ve 2559 sayılı Polis Vazife ve Salahiyet Kanunu hükümleri uyarınca, spor müsabakası öncesinde, esnasında ve sonrasında spor alanının çevresinde ve müsabakanın yapılacağı yere gidiş ve geliş güzergâhlarında, taraftarların üstünde, aracında ve eşyasında arama yapmak, Kanun kapsamında öngörülen yasak madde ve eşyalara el koymak.
+n) Müsabakalara girişte pankart, afiş ve diğer malzemelerin kontrolünü yapmak ve belirlenen esaslara aykırı yazı, şekil, ibare ve malzemeyi spor alanına almamak.
+o) Profesyonel futbol ligi ve basketbol dalının en üst ligindeki müsabakalarda genel kolluk kuvvetlerini spor alanı dışında görevlendirmek.
+(2) Jandarma sorumluluk bölgelerinde Kanuna istinaden yapılan işlemler ve seyirden yasaklanma tedbiri uygulananlar ile ilgili bilgiler, elektronik bilgi bankasına kaydedilmek üzere ilgili emniyet müdürlüğüne aktarılır.
+(3) Jandarma sorumluluk bölgelerinde seyirden yasaklı şahısların müsabakanın başlangıç saatinde ve bundan bir saat sonra yaptıkları başvurular en geç iki gün içerisinde elektronik bilgi bankasına kaydedilmek üzere ilgili emniyet müdürlüğüne bildirilir.

@@ -1,0 +1,1 @@
+[1] Danıştay Onuncu Dairesinin 30/5/2019 tarihli ve E.:2014/2151; K.:2019/4584 ve E.:2014/5529; K.:2019/4587 sayılı kararları ile bu bendin dördüncü cümlesinin “elektronik kart oluşturulmak amacıyla alınacak kişisel bilgilerin merkezi veri tabanında tutulması” yetkisinin “üçüncü kişilere devri yönünden” iptaline karar verilmiştir.
