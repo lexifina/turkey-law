@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35349",
+  "decision_date": "2015-11-19",
+  "source_id": 12558,
+  "chamber": "2",
+  "item_number": 9,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12558/",
+  "source_sha256": "fa62166728cc116a776def890b6cdd2bbe9055e4708ca666b78f3c84756012e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
