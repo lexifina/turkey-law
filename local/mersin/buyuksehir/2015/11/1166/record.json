@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "1166",
+  "decision_date": "2015-11-20",
+  "title": "MEC_KAR_ ( 2016 PERFORMANS )",
+  "listed_as": "1166 MEC_KAR_ ( 2016 PERFORMANS )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/1166-mec-kar---2016-performans-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk78-20-kasim-2015-meclis-kararlari",
+  "listing_sha256": "ee2bd7f42483685a94e0041686af9d5c6bffd139bc3b7fb7ac4dc8d7ec273e96",
+  "meeting_title": "MK78-20 KASIM 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
