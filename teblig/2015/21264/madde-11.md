@@ -1,0 +1,2 @@
+Dönem sonu raporuna ilişkin yapılacak işlemler
+MADDE 11 – (1) Denetim kurulu, 10 uncu maddeye uygun olarak hazırladığı denetim raporunu, yönetim kuruluna bir yazı ekinde sunar. Söz konusu rapor, diğer genel kurul belgeleriyle birlikte toplantıdan on beş gün önce ilgili esnaf ve sanatkârlar meslek kuruluşunun Bakanlık e-esnaf ve sanatkâr veri tabanındaki sayfasından üyelerinin bilgisine sunulur ve kuruluşun merkezinde ayrıca incelemeye açık tutulur. (1)

@@ -1,0 +1,7 @@
+Denetim kurulu raporlarına ilişkin genel ilkeler
+MADDE 6 – (1) Bu Tebliğde öngörülen aylık ve dört yıllık dönemlere ilişkin denetimler, denetim kurulu üyeleri tarafından birlikte veya konu itibariyle ve işbölümü içerisinde tek olarak yapılabilir. Ancak, denetim sonucunda düzenlenen raporlar, kurul olarak ve salt çoğunlukla karara bağlanır ve raporun tüm sayfaları denetim kurulu üyeleri tarafından imzalanır. Kararlara muhalif kalarak, muhalefet şerhi yazmak isteyen üyelerin şerhleri karara yazılır veya yazılı olarak verilen muhalefet şerhleri karara eklenir.
+(2) Denetim kurulu tarafından tanzim edilen raporlarda, incelemenin ait olduğu dönem veya tarih aralığı ile türü ve raporun düzenlenme tarihi belirtilir, ihtiyaç görülen istatistiki bilgilere yer verilir.
+(3) Raporlar, meslek kuruluşunun tüm işlem ve hesaplarını kapsayacak ve bu Tebliğde öngörülen hususları ihtiva edecek şekilde ayrıntılı bilgiler içerir.
+(4) Raporlar sade, açık ve anlaşılır bir dille yazılır ve bu raporlarda mümkün olan en basit kavram ve terimler kullanılır, tereddüde neden olabilecek belirsiz ifadelerden kaçınılır.
+(5) Raporlarda; gerçeğe aykırı, yanıltıcı, abartılı veya üyeler ve diğer kişiler nezdinde yanlış kanaat uyandırıcı ifadelere yer verilemez.
+(6) Denetim kurulu, bu Tebliğde öngörülen hususlar dışında, gerekli gördüğü konuları da ilave olarak inceleyebilir ve bunların sonuçlarına raporlarda yer verir.
