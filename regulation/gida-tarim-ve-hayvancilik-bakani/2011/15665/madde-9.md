@@ -1,0 +1,5 @@
+Resmi kontroller, bildirim ve işletmelerin kayıt altına alınması
+MADDE 9 – (1) Yem işletmecisi, kendi sorumluluğu altındaki faaliyetlerin bu Yönetmelik ve yem ile ilgili diğer mevzuata uygunluğunun sağlanmasında ve resmi kontroller ile ilgili hususlarda Bakanlıkla işbirliği yapar.
+(2) Yem işletmecileri, kendi kontrolleri altında yemlerin üretimi, işlenmesi, depolanması, dağıtımı ile ilgili faaliyetleri sürdüren işletmelerinin kayıt altına alınması için Ek-4’te yer alan başvuru formunu doldurarak Bakanlığa bildirimde bulunur. Kayda tabi yem işletmeleri Ek-5’te belirtilmiştir. Kayda tabi olan yem işletmelerinin Bakanlığa kaydının yaptırılması zorunludur. Kayıt yaptırmayan işletmeler faaliyetlerini sürdüremez. Yem işletmecileri, kontrolleri altındaki işletmeler ile ilgili bilgileri güncel tutar. Faaliyetlerinde önemli bir değişiklik olması veya işletmenin kapanması durumunda, bu durumu Bakanlığa bildirir.
+(3) Bakanlık yem işletmeleri için bir kayıt sistemi oluşturur.
+(4) (Değişik:RG-5/1/2013-28519) İşletmelere verilen işletme kayıt belgeleri, diğer kamu kurum veya kuruluşlardan ilgili mevzuat gereği izin veya ruhsat alma mükellefiyetini ortadan kaldırmaz.

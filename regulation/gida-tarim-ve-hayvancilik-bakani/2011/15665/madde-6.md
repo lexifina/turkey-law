@@ -1,0 +1,7 @@
+Özel yükümlülükler
+MADDE 6 – (1) Yem işletmecileri, yemlerin birincil üretimi ve bu yemlerin üretim yerlerinde taşınması, depolanması, muamele edilmesi veya üretim yerlerinden bir işletmeye taşınması veya kendi hayvanları için silaj katkı maddesi dışında hiçbir katkı ya da premiks kullanmadan yemlerin karıştırılması gibi faaliyetlerde bulunuyorsa yaptıkları işlerle ilgili Ek-1’de belirtilen şartlara uymakla yükümlüdür.
+(2) Kendi hayvanları için silaj katkısından başka yem katkı maddeleri ya da premiks kullanarak yem karışımı yapanlar dâhil birinci fıkrada belirtilen faaliyetler dışında faaliyet gösteren yem işletmecileri, yaptıkları işlerle ilgili Ek-2’de belirtilen şartlara uymakla yükümlüdür.
+(3) Yem işletmecisi, Bakanlıkça belirlenen mikrobiyolojik kriterlere uymak ve hedeflenen kriterleri karşılamak için gerekli tedbirleri almak ve uygulamakla yükümlüdür.
+(4) Yem işletmecileri, 14 üncü maddede belirtilen kılavuzları, bu Yönetmelikteki yükümlülüklerini yerine getirmede yardımcı olarak kullanabilirler.
+(5) Gıda amaçlı hayvan besleyen yetiştiriciler Ek-3’te belirtilen şartlara uymakla yükümlüdür.
+(6) Yem işletmecileri ve hayvan yetiştiricileri kullanacakları yemleri bu Yönetmelik hükümlerine uygun olarak onaylı veya kayıtlı işletmelerden temin etmekle yükümlüdürler. Çiftçi kayıt sisteminde veya Bakanlığın başka bir sisteminde kayıtlı olan birincil üretim yapan çiftçiler bu Yönetmelik kapsamında da kayıtlı kabul edilir.
