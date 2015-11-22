@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-11-22",
+  "issue": "29540",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme Yüksek Kurulunun 03/11/2015 Tarihli ve 2015/90 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151122-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151122.htm",
+  "index_sha256": "01d610ab4ac3a5a3af6201904c9a2baf5d2365dac5070513942c7b18d9301c12",
+  "index_header": "22 Kasım 2015 ... 29540 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151122.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
