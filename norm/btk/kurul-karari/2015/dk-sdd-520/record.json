@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2015/DK-SDD/520",
+  "date": "2015-11-23",
+  "title": "İnceleme-Fesih Denetimi",
+  "relevant_unit": "Sektörel Denetim Dairesi Başkanlığı",
+  "publication_date": "2015-11-23",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=102",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/57117059-fb7e-4449-8b42-64c9e08ebeda.pdf",
+  "source_sha256": "b0ea3362eddd5886d0f872bae73bf92e7e09bdd2f4fef8094e7e5d458ce51713",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2015-11-23",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 23.11.2015; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
