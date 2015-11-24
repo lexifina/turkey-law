@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41115",
+  "decision_date": "2015-11-24",
+  "source_id": 10870,
+  "chamber": "2",
+  "file_number": "39199",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2012",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10870/",
+  "source_sha256": "301e4197f9bf7b2cf1f4a4094905fd297a41437b00a88c276474307efd16efbb",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
