@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-11-24",
+  "issue": "29542",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARLARI",
+  "title": "Enerji Piyasası Düzenleme Kurulunun 18/11/2015 Tarihli ve 5875-9 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151124-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151124.htm",
+  "index_sha256": "9107a9cd6ff6d7ae9e8568c9bfb9a09a9a7114db71a1c1c22b44599da7bd9a85",
+  "index_header": "24 Kasım 2015 ... 29542 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151124.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
