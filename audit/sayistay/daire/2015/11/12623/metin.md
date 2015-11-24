@@ -1,0 +1,3 @@
+Üniversiteye bağlı değişik birimlerde tek ihale ile yapılan elektrik alımlarında fiyat farkı kesintisinin yapılmaması.
+
+………… Üniversitesi’ne bağlı değişik birimlerde tüketilmek üzere tek ihale ile yapılan elektrik alımlarında fiyat farkı kesintisinin uygulanmaması sonucu ……….. TL kamu zararına sebebiyet verildiği tespit edilmişse de, Üniversite birimlerinin 2014 Yılı Serbest Piyasadan Elektrik Enerjisi alımı için düzenlenen idari şartnamenin fiyat farkı hesaplanacağına ilişkin 45 inci maddesinin 17.09.2013 tarihinde düzenlenen zeyilname ile fiyat farkı verilmeyeceği şeklinde yeniden düzenlendiği görüldüğünden hesap ve işlemlerin yasal düzenlemelere uygunluğuna oybirliğiyle,
