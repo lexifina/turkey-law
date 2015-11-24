@@ -1,0 +1,3 @@
+30 sayılı ilamın 2. maddesiyle verilen … TL’nin tazminine dair hükümde Harcama Yetkilisi sıfatı ile iştiraki bulunan …’in itiraz başvurusu üzerine düzenlenen 39137 numaralı dosya, 24.11.2015 tarih ve 41092 tutanak sayılı Temyiz Kurulu İlamı ile; belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesinin 7’nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle dairesine gönderildiğinden aynı mahiyette olan 39136 sayılı bu dosyanın da sözü edilen (39137 numaralı) dosya ile birleştirilerek gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliği ile,
+
+Karar verildiği 24.11.2015 tarih ve 41093 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
