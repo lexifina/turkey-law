@@ -1,0 +1,3 @@
+Döner sermayeden ödenen katkı paylarının gelir vergisi hesabında, diğer aylık gelirleriyle birleştirilmeden ayrı vergilendirilme yapılması sonucu eksik vergi kesilmesi.
+
+193 sayılı Gelir Vergisi Kanununun “Ücretin Tarifi” başlıklı 63, “Esas tarife” başlıklı 103 ve “Verginin Hesaplanması” başlıklı 104 üncü maddelerine aykırı olarak Üniversitede görevli bazı personele döner sermayeden ödenen katkı paylarının gelir vergisi hesabında, kümülatif vergi matrahının dikkate alınmaması sonucu eksik vergi kesilmesi nedeniyle ……….TL kamu zararına sebebiyet verilmişse de, söz konusu tutarın aşağıda yer alan tabloda yazılı belgelerle tahsil edildiği anlaşıldığından konu hakkında ilişik kalmadığına oybirliğiyle,
