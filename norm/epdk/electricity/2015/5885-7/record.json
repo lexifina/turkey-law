@@ -1,0 +1,28 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5885/7",
+  "decision_date": "2015-11-24",
+  "title": "Elektrik Piyasası Dağıtım Sistemi Yatırımlarına İlişkin Usul ve Esaslar, Ek : Elektrik Piyasası Dağıtım Sistemi Yatırımlarına İlişkin Usul ve Esaslar (28.11.2015), Ek : Elektrik Piyasası Dagıtım Sistemi Yatırımlarına İlişkin Usul ve Esaslar (03.12.2016), Ek : Elektrik Piyasasi Dagitim Sistemi Yatirimlarina Iliskin Usul ve Esaslar(30_09_2017)",
+  "resmi_gazete_date": "2015-11-28",
+  "resmi_gazete_number": "29546",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qREfGLQjN+8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qREfGLQjN+8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8l1v2Fsn/gk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S+xtABolwLc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Kr/P9sVEruE="
+  ],
+  "source_sha256": "73b7eb15ed6f9fbc9acb75b87e10559618d1c965013d3cf236cf6bcbcea13cec",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-11-24",
+  "law_text_complete": false
+}
