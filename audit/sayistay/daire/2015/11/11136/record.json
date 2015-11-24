@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "113",
+  "decision_date": "2015-11-24",
+  "source_id": 11136,
+  "chamber": "4",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/11136/",
+  "source_sha256": "81f64495a4428912fd3de8e183fb37c0e2a5f5ad0d3a6467573fc7394db2a906",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
