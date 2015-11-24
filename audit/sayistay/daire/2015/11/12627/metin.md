@@ -1,0 +1,3 @@
+Yurtdışı geçici görev yolluğu-konaklama bedeli
+
+“Türkiye Ekranı Projesi” için 22-28 Şubat 2014 tarihleri arasında Almanya/Berlin’de görevlendirilen Özel Kalem Müdürü ………..’na ait harcırah beyannamesinin incelenmesinde, Yurtdışı Gündeliklerine Dair 2014/5832 sayılı Bakanlar Kurulu Kararının 4 üncü maddesinin ikinci fıkrası uyarınca yurtdışında yatacak yer bedelinin ödenebilmesi için faturada yer alan günlük yatacak yer ücretinin günlük harcırahın % 40’ını geçmesi gerekirken, bu sınırı aşmayan konaklama ücretinin tamamının ödenmesi sonucu ………… TL kamu zararına sebebiyet verildiği görülmüşse de, bu tutarın ………….. tahsil edildiği anlaşıldığından konu hakkında ilişik kalmadığına oybirliğiyle,
