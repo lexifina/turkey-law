@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41105",
+  "decision_date": "2015-11-24",
+  "source_id": 10858,
+  "chamber": "2",
+  "file_number": "39635",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2012",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10858/",
+  "source_sha256": "691dc7bd5492f394da781087dfccc9a59d14715622a7d441245e12c3591aef90",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
