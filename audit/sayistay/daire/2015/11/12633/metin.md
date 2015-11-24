@@ -1,0 +1,3 @@
+Aile yardımı ödeneği
+
+Devlet Konservatuvarında görevli öğretim üyesi Doç. Dr. …………’ye 657 sayılı Devlet Memurları Kanununun “Aile Yardım Ödeneği” başlıklı 202 nci maddesinde yer alan, bu yardımın, memurun her ne şekilde olursa olsun menfaat karşılığı çalışmayan veya herhangi bir sosyal güvenlik kuruluşundan aylık almayan eş ve çocukları için ödeneceği hükmüne aykırı olarak 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa tabi olarak çalışan eşi için aile yardım ödeneği ödenmesi suretiyle oluşan ………. TL kamu zararının ………………. tahsil edildiği anlaşıldığından konu hakkında ilişik kalmadığına oybirliğiyle,
