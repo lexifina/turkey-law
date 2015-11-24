@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41101",
+  "decision_date": "2015-11-24",
+  "source_id": 10848,
+  "chamber": "2",
+  "file_number": "39106",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2012",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10848/",
+  "source_sha256": "8e0b7f93084cef111c18241d0c22ae5a5045f3647121db56de0862fc3b47a039",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
