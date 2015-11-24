@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41102",
+  "decision_date": "2015-11-24",
+  "source_id": 10852,
+  "chamber": "8",
+  "file_number": "39703",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2010",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10852/",
+  "source_sha256": "4105825f1bd23ff43e0e5750e0a5d3c0af02d16b1fc497624d15f4814d4508c5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
