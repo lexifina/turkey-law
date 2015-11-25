@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "49",
+  "decision_date": "2015-11-25",
+  "source_id": 14666,
+  "chamber": "7",
+  "ilam_number": "62",
+  "item_number": 14,
+  "account_year": 2014,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14666/",
+  "source_sha256": "1cd5f1c9fc20ef25a5b10ec415cff5693a2ca709d27de30050c2e3c98ca43130",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
