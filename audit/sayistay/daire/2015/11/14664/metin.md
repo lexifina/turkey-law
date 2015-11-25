@@ -1,0 +1,11 @@
+Mali Hizmetler Uzman Yardımsına Ek Gösterge Verilemeyeceği
+
+Denetçi sorgusunda ... Büyükşehir Belediyesinde görevli Mali Hizmetler Uzman Yardımcısı ...’ya ek gösterge aylığı verilmek suretiyle kamu zararına neden olunduğunun iddia edildiği görülmüştür.
+
+657 sayılı Devlet Memurları Kanunu’na ekli I Sayılı Hizmet Sınıfları İtibariyle Unvan veya Aylık Alınan Derecelere Göre Ek Göstergeler  Cetvelinin “Genel İdare Hizmetleri” başlıklı birinci bölümünün h kısmında “En az 3 yıl süreli yükseköğrenim veren fakülte ve yüksekokulları bitirerek mesleğe özel yarışma sınavı ile giren ve belirli süreli meslek içi eğitimden sonra özel bir yeterlik sınavı sonunda atanan (…) Mali Hizmetler Uzmanları (…)” için, (i) kısmında ise “Bu sınıfa dahil olup da yukarıda sayılanlar dışında kalanlardan 1. Yükseköğretim görenler, 2. Diğerleri” için kadro derecelerine göre farklılaştırılmış ek gösterge oranları düzenlenmiştir.
+
+Mali Hizmetler Uzmanlığı özel yarışma sınavı ile girilen ve meslek içi eğitimden sonra özel bir yeterlik sınavı sonucunda başarılı olunduğu takdirde ataması yapılan bir kadro olup, ilgili kişinin Sağlık Hizmetleri ve Yardımcı Hizmetler Sınıfında görev yapmakta iken söz konusu kadroya geçmiş olması, 657 sayılı Devlet Memurları Kanunu’nun 71’ inci maddesine göre “bir sınıftan başka bir sınıfa geçme” şeklinde değerlendirilemez. 657 sayılı Kanunun I Sayılı Cetvelinin h kısmına göre, Mali Hizmetler Uzman Yardımcısının ek gösterge aylığına hak kazanabilmesi için meslek içi eğitimden sonra yapılan yeterlik sınavında başarılı olup atanması gerekmektedir. Yeterlik sınavı öncesinde geçen süre zarfında bu kadroda bulunan personele uzman yardımcısı denilmektedir ve bu süreçte cetvelin başka bir kısmında değerlendirilmesi mümkün değildir. Zira yeterlik sınavı sonucunda başarılı olunduğu takdirde daha önce memuriyette geçen süreler kadro derece ve kademelerine yansıyacağından herhangi bir hak kaybı da söz konusu değildir.
+
+Bu itibarla 657 sayılı Kanun’da ek gösterge ödenmesi öngörülmediği halde Mali Hizmetler Uzman Yardımcısı...’ya ek gösterge ödenmesi neticesinde sebep olunan toplam ...TL tutarındaki kamu zararının;
+
+sorumlularına müştereken ve müteselsilen 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faizleri ile ödettirilmesine oy birliğiyle,
