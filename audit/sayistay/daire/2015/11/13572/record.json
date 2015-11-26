@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "50",
+  "decision_date": "2015-11-26",
+  "source_id": 13572,
+  "chamber": "7",
+  "ilam_number": "48",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13572/",
+  "source_sha256": "ab5af4ff64c35c0644f67530e72ccc96a7d0df28de1ebafecbe1b79da2eb5c59",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
