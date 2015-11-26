@@ -1,0 +1,13 @@
+EKSİK İMALAT
+
+a) ……….. İşi” inşaatı mahallinde Sayıştay Denetçileri ile birlikte gerçekleştirilen fiziki ölçüm ve incelemede bir takım eksiklikler tespit edildiği görülmüştür.
+
+Sorumluların savunmalarında, izahı istenen eksik imalata gerekçe olarak, işin yaptırıldığı yükleniciye belediyenin, sorguya konu işten farklı olarak yevmiyeli işler yaptırması karşılığı, belediyece yapılması gereken ek ödemelerin hakedişlere eklenmesi, bu nedenle arada farkın doğması ve genel olarak belediye fen işleri personelinin yetersiz olması gösterilmiştir. Ancak yapılan bu savunmanın yasal anlamda bir dayanağı bulunmamaktadır.
+
+          Yapım İşleri Genel Şartnamesi’ne göre yüklenici, üstlenmiş olduğu işleri, sorumlu bir meslek adamı olarak fen ve sanat kurallarına uygun olarak yapmayı kabul etmiş olduğundan,  kendisine verilen projeye ve/veya teknik belgelere göre işi yapmakla, bu projenin ve/veya teknik belgelerin iş yerinin gereklerine, fen ve sanat kurallarına uygun olduğunu, ayrıca işin yapılacağı yere, kullanılacak her türlü malzemenin nitelik bakımından yeterliliğini incelemiş, kabul etmiş ve bu suretle işin teknik sorumluluğunu üstlenmiş sayılır. Yüklenicinin bu sorumluluğunu yerine getirip getirmediği muayene ve kabul komisyonunun nihai incelemesi ile belirlenmiş olunur. Sorguya konu işte görüldüğü üzere muayene ve kabul komisyonun, iş yerinde yaptığı denetim sonucu tespit edilen işçilik metrajının  513,88 m2 kilit parke taşı işleme imalatı olduğu halde muayene ve kabul komisyonu tutanağında 650 m2 olarak, 25 metre yağmur suyu tahliye hattı ve ızgarası imalatının ise yine aynı muayene ve kabul komisyonu tutanağında 75 metre olarak  kabul edilmiş ve ödemeye esas olmak üzere imza altına alınmış olduğunu ve bu durumun ilgililerin sorumluluğunu gerektirdiğini,
+
+Yukarıda açıklanan nedenlerle sorumluların göndermiş oldukları savunma, sorguda yer alan  hususları karşılamadığından; ……… TL toplam kamu zararının, ………..,
+
+müştereken ve müteselsilen, 6085  sayılı   Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faiziyle ödettirilmesine, iş bu ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere,  karar verildi.
+
+b) İş mahallinde yapılan incelemelerde imalatın eksik yapıldığı veya hiç yapılmadığı anlaşıldığı halde geçici kabul tutanağının yapılan işin sözleşme ve eklerine uygun olarak gerçekleştirildiği şeklinde gerçeğe aykırı olarak düzenlendiği iddia edilmekte ise de; Denetçi tarafından düzenlenen sorgu ile gerekli uyarılar yapılmış olması nedeniyle bu aşamada yapılacak işlem olmadığı anlaşıldığından bu konuda  ilişilecek  husus bulunmadığına,   oy birliğiyle karar verildi.
