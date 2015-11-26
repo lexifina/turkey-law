@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "277",
+  "decision_date": "2015-11-26",
+  "source_id": 15640,
+  "chamber": "6",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15640/",
+  "source_sha256": "2ea31009459bae99223d690c256ab23cd1e4dca4f81ebadcc3e36b7fe4a1e98a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

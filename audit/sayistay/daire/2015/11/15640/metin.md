@@ -1,0 +1,9 @@
+İDARİ PARA CEZASI
+
+a) ………Belediyesi temizlik işçilerine Toplu İş Sözleşmesi ile taahhüt edilen “iş riski ve sorumluluk zammının” haklı bir gerekçe gösterilmeden ödenmemesi nedeniyle İş Kurumu Genel Müdürlüğü Başmüfettişi tarafından düzenlenen 23.12.2013 Tarih ve İNC-105  sayılı   inceleme raporuna istinaden, belediyeye idari para cezası tahakkuk ettirilerek  kamu zararına sebebiyet verildiği iddia edilmekte ise de;
+
+Toplu İş Sözleşmesi 33’üncü maddesi (a) bendi gereği verilen “ iş riski ve sorumluluk zammı” verilmesi gerekenlerin tespitinin, kurulan tespit komisyonu marifetiyle yapıldığı, işçilerin performanslarının Toplu İş Sözleşmesi gereği oluşturulan 4 kişilik komisyon tarafından belirlenmekte olduğu, kriterlerin; işçilerin o ayki çalışmalarında kendisine verilen görevi yerine getirip getirmeme, savsaklama, çalışma arkadaşları ile uyumu, amirleriyle ilişkisi, rapor almayı alışkanlık haline getirme, sürekli izin alma, iş saatleri içindeki tutumları şeklinde belirlendiği, bu kriterlerin değerlendirilmesinin, birim amirleri dışında 4 kişilik komisyondaki temsilcilerin kararı ile yapıldığı, İşçi Sendikasının iki temsilcisinin de işçilerin haklarını komisyonda takip ettiği, kararların oybirliğiyle alındığı ve Başkanlık Makamının onayına sunulduğu anlaşıldığından bu konuda  ilişilecek  husus bulunmadığına,  oy birliğiyle  karar verildi.
+
+b) 5018  sayılı   Kanun’un “Giderin gerçekleştirilmesi” başlıklı 33’üncü maddesi uyarınca  ödeme evrakı üzerinde olması gereken gerçekleştirme görevlisinin imzasının olmadığı iddia edilmekte ise de;
+
+Söz konusu hatanın münferit olduğunun anlaşılması, sorgu ile gerekli uyarının yapılmış olması ve denetçisi tarafından konunun 2015 yılı denetimlerinde takip edileceğinin belirtilmiş olması nedeniyle, bu konuda  ilişilecek  husus bulunmadığına,oy birliğiyle    karar verildi.
