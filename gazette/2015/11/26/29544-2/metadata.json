@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-11-26",
+  "issue": "29544",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Avrupa Patentlerinin Verilmesi ile İlgili Avrupa Patent Sözleşmesinin Türkiye’de Uygulama Şeklini Gösterir Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151126-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151126.htm",
+  "index_sha256": "d877f531554928d7ebf35297c8f6a63cd2baf45782a70d639c6a97b0edf9873a",
+  "index_header": "26 Kasım 2015 ... 29544 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151126.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
