@@ -1,0 +1,37 @@
+İlan ve reklam vergisi
+
+Müstecir tarafından işletilen İlan ve reklam panolarında yayınlanan ilan ve reklamlardan işin Şartnamesinde belirtilen toplam reklam alanından eksik vergi alınması ve vergiye esas tarifenin hatalı belirlenmesi sonucu .......TL kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede,
+
+Müstecir ile yapılan Sözleşme eki Teknik Şartnameye göre; 100 adet Işıklı Billboard Reklam Panosu, 50 adet CLP Raket Işıklı Reklam Vitrini (iki yüzlü olduğundan 100 adet), 6 adet afiş değiştiricili megalight reklam panosu, 10 adet bisiklet parkı (10 adet clp), 5 adet lostra kabini (iki yüzlü olduğundan 10 adet clp), 2 adet reklam giydirmeli portakal büfe yaptırılarak reklam alınıp işletilmesi gerekmektedir.
+
+Ancak işi alan şirketin verdiği reklam vergisi beyannamesinden, 52 hafta üzerinden 76 adet billboard, 60 adet clp ve 4 adet megalight üzerinden vergi hesaplandığı anlaşılmaktadır.
+
+2464 sayılı Belediye Gelirleri Kanununun “İlan ve Reklam Vergisi” başlıklı İkinci Bölümünde;
+
+“Konu” başlıklı 12’nci maddesinde, belediye sınırları ile mücavir alanları içinde yapılan her türlü İlan ve reklamın, İlan ve Reklam Vergisine tabi olduğu;
+
+“Mükellef ve sorumlu” başlıklı 13’üncü maddesinde, ilan ve reklam işlerini mutat meslek olarak ifa edenlerin, başkaları adına yaptıkları ilan ve reklamlara ait vergileri mükellefler adına ilgili belediyeye yatırmaktan sorumlu oldukları;
+
+“Verginin tarhı ve ödenmesi” başlıklı 16’ıncı maddesinde, vergiye tabi ilan ve reklamlarda, ilan ve reklam işinin bu işi mutad meslek olarak ifa edenler tarafından yapılması halinde ilan ve reklam işini yapanlarca ilan veya reklamın yapıldığı ayı takip eden ayın 20’nci günü akşamına kadar verilecek beyanname üzerine, tarh ve tahakkuk ettirileceği;
+
+“Tarife ve nispet” başlıklı 15’inci maddesinde, ilan ve reklam vergisinin; “1. Dükkân, ticarî ve sınaî müessese ve serbest meslek erbabınca çeşitli yerlere asılan ve takılan her çeşit levha, yazı ve resim gibi tüm sabit ilân ve reklamların beher metrekaresinden yıllık olarak:” 2. “Motorlu taşıt araçlarının içine veya dışına konulan ilân ve reklamların beher metrekaresinden yıllık olarak:” 3. “Cadde, sokak ve yaya kaldırımları üzerine gerilen, binaların cephe ve yanlarına asılan bez veya sair maddeler vasıtasıyla yapılan geçici mahiyetteki ilân ve reklamların metrekaresinden haftalık olarak:” 4. “Işıklı veya projeksiyonlu ilân ve reklamlardan her metrekare için yıllık olarak:” 5. “İlân ve reklam amacıyla dağıtılan broşür, katalog, duvar ve cep takvimleri, biblolar veya benzerlerinin her biri için:” 6. Mahiyeti  ne olursa olsun yapıştırılacak çeşitli afişler ve benzerlerinin beherinin metrekaresinden: alınacağı;”
+
+Hükümleri yer almaktadır.
+
+Yukarıdaki mevzuat hükümlerinden anlaşılacağı üzere, belediye sınırları içerisinde kendileri ilan ve reklam yapanlar verginin mükellefi olmakta ancak işi ilan ve reklam yayınlamak olan yani mutad meslek olarak ilan ve reklam yayını yapanlar verginin mükellefi değil sorumlusu olmaktadırlar. Yine mevzuat hükmüne göre, mutad meslek olarak ilan ve reklam yayınlama işini yapanlar o ay yaptıkları reklamların mükelleflerinden tahsil ettikleri vergiyi sorumlu sıfatıyla her ay vergi dairesine yatırmak zorundadırlar.
+
+Vergi tarifesinin düzenlendiği 15’inci maddeye bakıldığında; 3 numaralı tarife, cadde, sokak ve yaya kaldırımları üzerine gerilen, binaların cephe ve yanlarına asılan bez veya sair maddeler vasıtasıyla yapılan geçici mahiyetteki ilân ve reklamlarla ilgilidir ve metrekare üzerinden haftalık olarak alınacaktır. 4 numaralı tarife, ışıklı veya projeksiyonlu ilân ve reklamlarla ilgilidir ve her metrekare için yıllık olarak alınacaktır. 6. numaralı tarife mahiyeti ne olursa olsun yapıştırılacak çeşitli afişler ve benzerleri ile ilgilidir ve beherinin metrekaresinden alınacaktır. Kent mobilyalarıyla yapılan ilan ve reklam vergileri 3, 4 veya 6 numaralı tarifeden hangisine göre alınırsa alınsın ilan ve reklam yapan şirketin her kent mobilyasında yaptığı ilan ve reklamları aylık olarak tespit edip beyanname vermesi gerekmektedir. Ancak, Belediyeye ait olan kent mobilyalarını (billboard, megalight, led ekran vs.) işletmek üzere kiralayan şirketin yıllık tek beyanname verdiği; beyannamede vergi tarifesi olarak 6 numaralı tarifeyi kullandığı; ancak Kanunda 6 numaralı tarife için süre belirtilmemişken yani yapıştırılan ilan 1 ay içinde yapıştırılsa 1 gün içinde yapıştırılsa alınacak vergi açısından fark etmezken her kent mobilyası için alınacak verginin 6 numaralı tarifeyi bir yılda 52 hafta olmasından hareketle 52 ile çarpılarak bulunduğu görülmüştür. Ayrıca, kiralanan kent mobilyalarının tümünün ışıklı olduğu düşünüldüğünde 6 numaralı tarifeden vergi alınması uygun değildir. Ancak, tarifeler incelendiğinde; 3 numaralı tarifenin kent mobilyaları ile geçici olarak ve hafta üzerinden yapılan ilanlara daha uygun olduğu düşünülmektedir. Dolayısıyla kent mobilyaları ile yapılan reklamların sorumlu şirket tarafından aylık olarak hangi kent mobilyasında hangi haftalarda ilan ve reklam yapıldığını içeren beyanname verilmesi ve beyanname üzerinden vergi tahakkuk ettirilmesi gerekmektedir.
+
+Savunmada; “2464 sayılı Kanunun 15inci maddesinin 3üncü bendinde; " Cadde, sokak ve yaya kaldırımlar üzerine gerilen, binaların cephe ve yanlarına asılan bez veya sair maddeler vasıtasıyla yapılan geçici mahiyetteki ilan ve reklamların metrekaresinden haftalık olarak alman vergi nispeti yer almaktadır. Tarifenin bu maddesinde tanımlanan ilan ve reklamlar cadde ve sokak ve yaya kaldırımlarına konulan kısa süreli ilan ve duyuruların yer aldığı, bez ve vinil gibi malzeme üzerine yazılmak suretiyle yapılan reklamlarla, binaların özellikle sağır cephelerine asılan bez ve vinil reklamlar için düzenlenmiştir. Tarifenin bu maddesinin reklam ünitelerinin içine takılan afişlerle hiçbir ilgisi bulunmamaktadır. 3. bentteki reklamlar kısa süreli olduğundan m2 için daha fazla vergi miktarı belirlenmiştir.” denilmektedir. Sorguda tam olarak ifade edilen de budur. Bilbord gibi kent mobilyalarına asılan reklamlar kısa süreli reklamlardır. Bilbord gibi kent mobilyalarının kendileri bir reklam içermemekte olup bilbordların üzerine geçici mahiyette reklamlar yapıştırılmaktadır. Hatta ilgili firmayı aradığınızda size fiyat olarak haftalık fiyat vermektedir. Sorguda detaylı olarak bahsedildiği üzere bilbordlar üzerine reklam alınmakta bu reklamlar geçici mahiyette olmaktadır. Yine sorguda belirtildiği üzere reklamın mükellefi reklamı veren kişilerdir. Söz konusu reklam işini yapan şirket aldığı reklamların vergisini yatırmaktan sorumludur. Kendisi reklam mükellefi değildir. Dolayısıyla mevcut tarifenin uygulanması mümkün değildir.
+
+Açıklanan nedenlerle, savunmadan, reklam panolarının %20’sinin belediyenin reklamları için kullanıldığı ve bisiklet parkı ve lostra kabinlerinde ilan ve reklamın yer almadığı yönündeki açıklamalar dikkate alınarak yeniden hesaplanan oluşan .........TL kamu zararının, Muhasebe Yetkilisi .......’tan,
+
+Münferiden,
+
+6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereğince işleyecek faizleri ile birlikte ödettirilmesine,
+
+.......... TL ile ilgili olarak, kamu zararı oluşmadığından ilişilecek bir husus bulunmadığına,
+
+İş bu ilamın tebliğ tarihinden itibaren aynı Kanunun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu ve 56 ncı maddesi gereğince beş yıl içinde Sayıştay Daireleri nezdinde yargılamanın iadesi yolu açık olmak üzere,
+
+Oybirliğiyle karar verildi.
