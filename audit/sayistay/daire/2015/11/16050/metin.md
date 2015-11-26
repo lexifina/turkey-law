@@ -1,0 +1,25 @@
+Yeni birim fiyatlı imalatın fiyat farkı
+
+..........yüklenimindeki ........İşi ile ilgili olarak; işin devamı sırasında ihtiyaç duyulan yeni birim fiyatların hatalı tespit edilmesi sonucu ........TL kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede,
+
+31.12.2012 tarih ve 24980/3 Mükerrer sayılı Resmi Gazetede yayınlanarak yürürlüğe giren 4734 Sayılı Kamu İhale Kanununa Göre İhale Edilen Hizmet Alımlarında Uygulanacak Fiyat Farkına İlişkin Esaslar’ın 7/h maddesinde; “Birim fiyat sözleşmelerde, sözleşmede birim fiyatı bulunmayan ve yapılması idarece istenen bir iş kalemi için işin devamı sırasında yeni birim fiyat yapılması halinde, bu fiyat, hazırlandığı uygulama ayının rayiçlerine ve şartlarına göre tespit edilir. Belirlenen bu yeni birim fiyatın uygulama ayı fiyat farkı katsayısına (Pn) bölünerek bulunan fiyatı, iş kaleminin miktarı ile çarpılır ve bulunan tutar hakedişteki sözleşme birim fiyatları ile yapılan işler sütununa dâhil edilerek yeni iş kaleminin sözleşme bazında bedeli yükleniciye ödenir. Bu iş kalemine ait fiyat farkı ise, uygulama ayının indeksleri üzerinden hesaplanarak bulunur.” denilmektedir.
+
+Anılan hüküm uyarınca, işin devamı sırasında idarece yapılması istenen yeni bir iş kalemi için birim fiyat yapılması gerektiğinde, bu fiyat, hazırlandığı uygulama ayının rayiçlerine ve şartlarına göre tespit edilir. Bu yeni birim fiyatın uygulama ayı fiyat farkı katsayısına (Pn) bölünerek bulunan fiyatı, iş kaleminin miktarı ile çarpılıp bulunan tutar hakedişteki sözleşme birim fiyatları ile yapılan işler sütununa dâhil edilir. Bu iş kalemine ait fiyat farkı ise, uygulama ayının indeksleri üzerinden hesaplanarak ayrıca ödenmesi gerekir.
+
+Uygulamada, uygulama ayının rayiç ve şartlarına göre tespit edilen yeni birim fiyat, birim fiyat (Pn) katsayısına bölünmeyerek hem uygulama ayı fiyatıyla imalat bedeli, hem de uygulama ayının indeksleri üzerinden fiyat farkı verilerek mevzuata aykırı olarak bir nevi mükerrer uygulama ayı fiyat farkının verilmesine yol açılmıştır.
+
+Her ne kadar fazla ödenen tutar düzeltilerek tahsil edilmiş olmakla birlikte,  Harcama Yetkilisi ve Feri Müdahil Yüklenicinin açıklamalarında özetle; Yapım işinde oluşan imalat değişiklikleri ile ilgili olarak; projeden kaynaklanan imalat değişikliklerine esas yeni imalat kalemleri, imalat detay çizimleri ve bu imalat kalemlerinin birim fiyatlarının belirlenmesi süresince “teknik zorunluluklar nedeniyle” yapım işinde aksamanın meydana geldiği; Bu nedenle de, onaylı iş programının gerisinde kalınarak ödenek dilimlerinin iş programına göre kullanılamadığı; dolayısıyla geçici hak edişlerdeki fiyat farkı hesaplamaları uygulama ayı baz alınarak değil, iş programına göre geriden yapıldığı; Sorgu konusu yapım işinin sözleşme ve eklerine göre (Yapım İşleri Genel Şartnamesi hükümlerine göre) yükleniciden kaynaklanmayan nedenlerle yapım işinde oluşan aksaklıklar nedeniyle iş programının revize edilmesi ve revize iş programına göre fiyat farkı ödemesi yapılması gerekirken revize iş programının yapılmaması sebebiyle yüklenicinin uğradığı kaybın dikkate alınarak bir hesaplamanın yapılması gerektiği belirtilmişse de; Yapım İşleri Genel Şartnamesi’nin “İş Programı” başlıklı 19. Maddesi’nin; “…Ancak zorunlu hallerde idarenin uygun görüşü ile iş programında değişiklik yapılabilir.” hükmü uyarınca, İdare tarafından onaylanmış revize iş programı bulunmadığından savunmayı bu yönü itibariyle kabul etme imkanı bulunmamaktadır.
+
+Ayrıca, Belediye Yapı Denetim Görevlileri ile Yüklenici arasında düzenlenen Tutanak ile yapım işinde oluşan iş artışlarının %20’yi geçmesi nedeni ile ..........TL (KDV ve fiyat farkı hariç) tutarındaki imalatlar için yasal iş artış sınırına ulaşılmış olması nedeni ile ödeme yapılmamış olsa bile bu bedel ve bu bedele ilişkin fiyat farkının da hesaplamada dikkate alınması gerektiği belirtilmişse de; İstenilen Söz konusu tutar kesin hakedişte yer almamaktadır. Miktarı, metrajı, hesabı, birim fiyatı hakediş kümülatif toplamına dahil değildir. Kaldı ki firma bu tutara ilişkin tutanakta karşılıklı alacak ve borç olmadığını (bilabedel) beyan etmiş ve imzalamıştır. Hal böyle iken hakedişte olmayan bir alacağın kamu zararından düşülmesi mümkün değildir.
+
+Açıklanan nedenlerle,
+
+işin devamı sırasında ihtiyaç duyulan yeni birim fiyatlar hesaplanırken uygulama ayının içinde bulunduğu aydan bir önceki ay yerine uygulama ayı indeksi esas alınarak hesaplama yapılması nedeniyle ........ TL’lik ödemenin yasal mevzuatına uygun olduğuna,
+
+Adı geçen işe ait 11 no’lu hakedişte imzası bulunmayan ..........’ın sorumluluğunun bulunmadığına,
+
+Savunmada yeniden hesaplanıp .........numaralı muhasebe işlem fişi ile .........’den tahsil edilen .......TL ile ilgili olarak ilişilecek bir husus kalmadığına,
+
+İş bu ilamın tebliğ tarihinden itibaren 6085 sayılı Sayıştay Kanununun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu ve aynı Kanunun 56 ncı maddesi gereğince beş yıl içinde Sayıştay Daireleri nezdinde yargılamanın iadesi yolu açık olmak üzere,
+
+Oybirliğiyle karar verildi.
