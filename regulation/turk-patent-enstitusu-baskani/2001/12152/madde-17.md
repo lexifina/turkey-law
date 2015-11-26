@@ -1,0 +1,2 @@
+İyi Niyetli Kullanım
+Madde 17 — Düzeltilmiş çevirinin yayımlanmasından sonra, iyi niyetli olarak buluşu önceden kullanmaya başlamış olan veya buluşu kullanım için ciddi hazırlıklara girmiş olan kişinin kullanımı, Avrupa patenti başvurusunun ya da Avrupa patenti fasikülünün ilk Türkçe çevirisine göre tecavüz sayılmadığı durumlarda, işletmenin gereksinimi nedeniyle, patent sahibinin iznini gerektirmeksizin ücretsiz olarak devam edebilir.

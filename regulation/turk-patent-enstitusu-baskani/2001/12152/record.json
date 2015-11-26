@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.12152",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AVRUPA PATENTLERİNİN VERİLMESİ İLE İLGİLİ AVRUPA PATENT SÖZLEŞMESİNİN TÜRKİYE’DE UYGULAMA ŞEKLİNİ GÖSTERİR YÖNETMELİK",
+  "number": "12152",
+  "issuer": "Türk Patent Enstitüsü Başkanı",
+  "issuer_slug": "turk-patent-enstitusu-baskani",
+  "path": "regulation/turk-patent-enstitusu-baskani/2001/12152",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12152&MevzuatTertip=5",
+  "source_sha256": "365b27348b78c2d07f44503b097282cc26f79d8020d2e962dcedacf441d436eb",
+  "source_bytes": 41513,
+  "published": "2001-01-09",
+  "gazette": "24282",
+  "in_force": "2015-11-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/11/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-11-26",
+      "RG-26/11/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-30",
+      "RG-30/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-05-22",
+      "RG-22/5/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-05-22",
+      "R.G.-22/5/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1612,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

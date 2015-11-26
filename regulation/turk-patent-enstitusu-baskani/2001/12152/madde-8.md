@@ -1,0 +1,2 @@
+Yayımlanmış Bir Avrupa Patenti Başvurusundan Doğan Haklar
+Madde 8 — Türkiye’nin seçildiği yayımlanmış bir Avrupa patenti başvurusu, Kanun Hükmünde Kararnamenin 82 nci maddesi hükmüne göre ulusal patent başvurularına verilen haklara, bu başvuruya ait istemlerin Türkçe çevirisinin bu Yönetmeliğin 10 uncu maddesine uygun olarak yayımlandığı veya Türkiye’de buluşu kullanan kişiye başvuru sahibi tarafından bildirildiği tarihten itibaren sahiptir.

@@ -1,0 +1,2 @@
+Hukuki Dayanak
+Madde 3 — Bu Yönetmelik, 551 sayılı Patent Haklarının Korunması Hakkında Kanun Hükmünde Kararname, Avrupa Patentlerinin Verilmesi ile İlgili Avrupa Patent Sözleşmesi ve 29/01/2000 tarihli ve 23948 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren 4504 sayılı Avrupa Patentlerinin Verilmesi ile İlgili Avrupa Patent Sözleşmesi ve Eklerine Katılmamızın Uygun Bulunduğuna Dair Kanuna dayanılarak hazırlanmıştır.
