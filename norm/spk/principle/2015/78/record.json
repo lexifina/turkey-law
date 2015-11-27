@@ -1,0 +1,77 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "78",
+  "decision_number": "32/1494",
+  "date": "2015-11-27",
+  "title": "Kurulumuzun i-SPK.128.11 (27.11.2015 Tarih ve 32/1494 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/78",
+  "source_sha256": "c108576d203620413942fc059178d5486db6730b91bb8a89dd11ef0bc9b4737f",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 78,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurulumuzun i-SPK.128.11 (27.11.2015 tarih ve 32/1494 s.k.) sayılı ilke kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2015-11-27",
+    "source_clauses": [
+      "Kurulumuzun i-SPK.128.11 (27.11.2015 tarih ve 32/1494 s.k.) sayılı ilke kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "04f4ebf7-c9cb-4ce6-9868-16b342f92614",
+    "contentSource": "IlkeKarari",
+    "contentID": 78,
+    "tur": "İlke Kararı",
+    "title": "Kurulumuzun i-SPK.128.11 (27.11.2015 Tarih ve 32/1494 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2015-11-27T00:00:00",
+    "kurulKararTarih": "27.11.2015",
+    "kurulToplantiNo": "32/1494",
+    "bultenYili": 2015,
+    "bultenNo": 31,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": null,
+    "baglantiliTebligler": null,
+    "ilgiliKonularStr": "13:Sermaye Piyasası Araçlarının İhracı;6:Sermaye Piyasası Araçları;80:Yüklenim Zorunluluğu;79:Halka Arz",
+    "ilgiliKonular": [
+      {
+        "key": 13,
+        "value": "Sermaye Piyasası Araçlarının İhracı"
+      },
+      {
+        "key": 6,
+        "value": "Sermaye Piyasası Araçları"
+      },
+      {
+        "key": 80,
+        "value": "Yüklenim Zorunluluğu"
+      },
+      {
+        "key": 79,
+        "value": "Halka Arz"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/78",
+    "linkTarget": "_blank"
+  }
+}
