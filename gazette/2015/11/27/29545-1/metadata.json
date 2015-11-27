@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-11-27",
+  "issue": "29545",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Entegre Devre Topoğrafyalarının Korunması Hakkında Kanunun Uygulama Şeklini Gösterir Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151127-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151127.htm",
+  "index_sha256": "ea727f1326f5a0715da0593a696a99d528c3dd05669d7d46b7c375ae25355fa2",
+  "index_header": "27 Kasım 2015 ... 29545 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/11/20151127.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
