@@ -1,0 +1,2 @@
+İdari para cezaları ve diğer yaptırımlar
+MADDE 15 – (1) Evrensel hizmet yükümlüsü sabit telefon hizmeti sunan işletmecilere, bu Tebliğde yer alan yükümlülüklerini yerine getirmemesi durumunda, 12/9/2010 tarih ve 27697 sayılı Resmî Gazete’de yayımlanan Elektronik Haberleşme Sektöründe Hizmet Kalitesi Yönetmeliğinin idari para cezaları ile diğer yaptırımlar başlıklı 9 uncu maddesi hükümleri uygulanır.

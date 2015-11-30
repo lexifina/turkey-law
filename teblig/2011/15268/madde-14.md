@@ -1,0 +1,2 @@
+Denetim
+MADDE 14 – (1) Kurum, evrensel hizmet yükümlüsü sabit telefon hizmeti sunan işletmeciler tarafından bildirilen ve yayımlanan hizmet kalitesine ilişkin bilgilerin doğruluğunu veya işletmecilerin belirlenen hedef değerlere uyum sağlayıp sağlamadıklarını re’sen veya şikâyet üzerine denetleyebilir veya denetletebilir, konu ile ilgili olarak gerekli gördüğü her türlü bilgi ve belgeyi talep edebilir.

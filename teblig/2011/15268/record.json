@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.15268",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SABİT TELEFON HİZMETİNE İLİŞKİN HİZMET KALİTESİ TEBLİĞİ",
+  "number": "15268",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "path": "teblig/2011/15268",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15268&MevzuatTertip=5",
+  "source_sha256": "367ce7ea1b599e1d7a93d77e8bb30bfaf58967f7312cd4fc8b3ea7b5128ca95a",
+  "source_bytes": 49162,
+  "published": "2011-08-27",
+  "gazette": "28038",
+  "in_force": "2015-11-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/11/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-11-30",
+      "RG-30/11/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-11-30",
+      "30/11/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ, 31/12/2011 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1988,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/9.5.15268-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Yükümlülükler, Denetim, İdari Para Cezaları ve Diğer Yaptırımlar
+Yükümlülükler
+MADDE 13 – (1) Evrensel hizmet yükümlüsü sabit telefon hizmeti sunan işletmeciler; her yılın Ocak, Nisan, Temmuz, Ekim ayının sonuna kadar bir önceki ölçüm dönemine ilişkin olarak yapılan hizmet kalitesi ölçümlerini, ek-4’te verilen tabloyu da içerecek şekilde bir rapor hazırlayarak Kuruma gönderir. Her bir ölçüm dönemine ilişkin hizmet kalitesi raporu, bir yıl boyunca işletmecinin internet ana sayfasından hizmet kalitesi ölçümleri bağlantısı aracılığıyla erişilebilecek şekilde yayımlanır. Ayrıca Kurum, söz konusu raporları yayımlama yetkisine sahiptir.
+(2) Evrensel hizmet yükümlüsü sabit telefon hizmeti sunan işletmeciler, hizmet kalitesi ölçümlerine ilişkin olarak raporlanan bilgilerin doğruluğunu sağlar, ilgili kayıtları, on iki ay süreyle muhafaza eder ve istendiğinde Kuruma verir. Yanlış veya eksik olduğu tespit edilen veri veya kayıtlarda gerekli düzeltmeleri verilen sürede yapar.
+(3) Evrensel hizmet yükümlüsü sabit telefon hizmeti işletmecisi, bu Tebliğin ek-4’ünde yer alan tablodaki ölçütlere ilişkin ölçümleri yapmak ve ilgili hedef değerleri ölçüm döneminde yer alan her bir ay için sağlamakla yükümlüdür.
+(4) Evrensel hizmet yükümlüsü sabit telefon hizmeti sunan işletmeciler, ölçümlere ilişkin ilgili mevzuatta yer almayan hususlarda ETSI EG 201 769, ETSI EG 202 057-1, ETSI EG 202 057-2 sayılı standartların güncel sürümlerini esas alır.
+(5) Bu Tebliğin yürürlülük tarihinden sonra evrensel hizmet yükümlüsü olan sabit telefon İşletmecisi, yükümlü olmasının altıncı ayından itibaren hizmet kalitesi ölçütlerine ilişkin bildirimlerini Kuruma birinci fıkrada belirtilen sürelerde düzenli olarak yapmakla yükümlüdür.
