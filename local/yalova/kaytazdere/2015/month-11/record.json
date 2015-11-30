@@ -1,0 +1,29 @@
+{
+  "number": "month-11",
+  "year": 2015,
+  "month": 11,
+  "title": "Meclis Kararları 2015/Kasım",
+  "decision_date": null,
+  "index_date": "2015-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2015",
+  "source": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2015-kasim.html",
+  "official_page": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2015-kasim.html",
+  "official_document": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2015-kasim.html",
+  "source_sha256": "6297a73edcd7d68a175b56556ff5f2f558f9913562eccac7e63e244be006f2e6",
+  "issuer": "Kaytazdere Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2015-11-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Kasım 2015); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Kararları 2015/Kasım",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 1 scanned image(s); not transcribed here"
+}
