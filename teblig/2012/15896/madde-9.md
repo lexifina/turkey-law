@@ -1,0 +1,2 @@
+Denetim
+MADDE 9 – (1) Kurum, bu Tebliğin 9 uncu maddesinin birinci fıkrasına göre yükümlü olan işletmeciler tarafından bildirilen ve yayımlanan hizmet kalitesine ilişkin bilgilerin doğruluğunu veya işletmecilerin belirlenen hedef değerlere uyum sağlayıp sağlamadıklarını re’sen veya şikâyet üzerine denetleyebilir veya denetletebilir, konu ile ilgili olarak gerekli gördüğü her türlü bilgi ve belgeyi talep edebilir.

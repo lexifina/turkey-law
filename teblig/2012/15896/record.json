@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.15896",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İNTERNET SERVİS SAĞLAYICILIĞI HİZMETİ SUNAN İŞLETMECİLERE İLİŞKİN HİZMET KALİTESİ TEBLİĞİ",
+  "number": "15896",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "path": "teblig/2012/15896",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15896&MevzuatTertip=5",
+  "source_sha256": "5b32d79f6f3d306c54f90e5ed6663b16c646bfc94ee6fb56377d04695f04daff",
+  "source_bytes": 48988,
+  "published": "2012-02-17",
+  "gazette": "28207",
+  "in_force": "2015-11-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/11/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-11-30",
+      "RG-30/11/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-11-30",
+      "30/11/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1926,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/9.5.15896-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
