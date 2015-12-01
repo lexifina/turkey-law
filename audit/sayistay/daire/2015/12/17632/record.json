@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "280",
+  "decision_date": "2015-12-01",
+  "source_id": 17632,
+  "chamber": "6",
+  "ilam_number": "421",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17632/",
+  "source_sha256": "a6f2ee3acb36bd91a4ddd6b63b7dc24c4548f6a7deac04915c080fbbbcb2d9e4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
