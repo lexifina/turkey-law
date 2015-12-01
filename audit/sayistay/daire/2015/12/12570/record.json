@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35352",
+  "decision_date": "2015-12-01",
+  "source_id": 12570,
+  "chamber": "2",
+  "ilam_number": "83",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12570/",
+  "source_sha256": "5e5755460e5198e594ff4bc634c94094a56a988bca4aa27e251382fba9e64467",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
