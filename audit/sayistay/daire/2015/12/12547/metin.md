@@ -1,0 +1,3 @@
+…………… Ltd. Şti – …………..Ltd. Şti. Ortak Girişimi yüklenimindeki “Malzemesiz Temizlik, Şoförlük, Büro Destek ve Teknik İşletme Hizmeti Alımı” işinde yükleniciye fazla ödenen tutara isabet eden Katma Değer Vergisinin tahsil edilmemesi.
+
+………... Ltd. Şti –…………… Ltd. Şti. Ortak Girişimine ………. TL bedelle ihale edilen “Malzemesiz Temizlik, Şoförlük, Büro Destek ve Teknik İşletme Hizmeti Alımı” işinde yükleniciye fazla ödenen tutara isabet eden …… TL Katma Değer Vergisinin yüklenici tarafından ilgili vergi dairesine beyan edilerek ödendiği anlaşıldığından kamu zararı oluşmadığına ve ilişilecek bir husus bulunmadığına oybirliğiyle,
