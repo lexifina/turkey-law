@@ -1,0 +1,3 @@
+Memurlara Yiyecek Yardımının Yemek Verme Yerine Para İle Temsil Edilen Araçlar Vasıtasıyla Yapılması
+
+1) 90 sayılı İlamın 4’üncü maddesi ile verilen ………… TL’nin tazminine dair hüküm, aynı tazmin hükmünde Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …………’nin başvurusu üzerine düzenlenen 01.12.2015 tarih ve 41131 tutanak sayılı Temyiz Kurulu İlamı ile bozulmuş bulunduğundan dilekçinin işbu madde ile ilgili itirazı üzerine Kurulumuzca yapılacak işlem olmadığına ancak aynı mahiyette olan bu dosyanın sözü edilen dosya ile Birleştirilerek gereği yapılmak üzere kararı veren DAİREYE GÖNDERİLMESİNE, Oybirliğiyle,
