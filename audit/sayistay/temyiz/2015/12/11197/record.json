@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41164",
+  "decision_date": "2015-12-01",
+  "source_id": 11197,
+  "chamber": "1",
+  "file_number": "38876",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2011",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11197/",
+  "source_sha256": "aceca11975c8163443602f5c39644d605bf74c79ff7594af97a4352c868b98e3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
