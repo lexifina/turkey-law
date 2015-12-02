@@ -1,0 +1,13 @@
+{
+  "number": "15-42/693-247",
+  "type": "Rekabet İhlali",
+  "decision_date": "2015-12-02",
+  "publication_date": "2016-02-01",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=c9323a12-02b8-4895-aad3-a141f8e2acea",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=428",
+  "pdf_sha256": "f947753764e9915ab62a3cd78742dd7f225fc686e25e225cd8c53e70d566e4fc",
+  "pdf_bytes": "152179",
+  "pages": "3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
