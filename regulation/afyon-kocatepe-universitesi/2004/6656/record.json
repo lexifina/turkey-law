@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 11 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2004-08-12",
+      "12.08.2004",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2015-12-03",
+      "RG-3/12/2015-29551",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-3/12/2015-29551",
+  "first_law": null,
+  "gazette": "25551",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2015-12-03",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Afyon Kocatepe Üniversitesi",
+  "issuer_slug": "afyon-kocatepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/afyon-kocatepe-universitesi/2004/6656",
+  "published": "2004-08-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6656&MevzuatTertip=5",
+  "source_bytes": 22326,
+  "source_id": "8.5.6656",
+  "source_sha256": "1c9585a488e301ecaa663db50633d41de5fcee444e37bd4370a295efb12719dd",
+  "text_status": "current-consolidated",
+  "title": "AFYON KOCATEPE ÜNİVERSİTESİ TEKNOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ (TUAM) YÖNETMELİĞİ",
+  "university_id": 177,
+  "word_count": 694
+}
