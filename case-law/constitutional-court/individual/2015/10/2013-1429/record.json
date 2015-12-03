@@ -1,0 +1,20 @@
+{
+  "applicant": "R. V. Y. A.Ş.",
+  "application_date": "2013-02-19",
+  "application_number": "2013/1429",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2015-10-14",
+  "id": "1ed150a7-3ae4-9dd9-2529-8410e9756a85",
+  "in_force": "2015-12-03",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2015-12-03",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjFlZDE1MGE3LTNhZTQtOWRkOS0yNTI5LTg0MTBlOTc1NmE4NQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "3194d795253f54ed06ebb70ccab40b09565e11406a45c56ca950e92f4553a6eb",
+  "version_label": "as-enacted"
+}
