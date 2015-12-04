@@ -1,0 +1,13 @@
+Damga Vergisi ve İhale Bedelinin Süresinde Ödenmemesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+A) … Belediyesi tarafından gerçekleştirilen … ada ve … parseldeki taşınmaz satışına ilişkin ihale kararından damga vergisinin alınmaması nedeniyle kamu zararına yol açılmıştır.
+
+488 sayılı Damga Vergisi Kanunu’nun 3’üncü maddesinde, Damga Vergisinin mükellefinin kağıtları imza edenler olduğu ve resmi dairelerle kişiler arasındaki işlemlere ait kağıtların damga vergisini kişilerin ödeyeceği, 8’inci maddesinde ise, bu Kanunda yazılı resmi daireden maksadın, genel ve katma bütçeli daire ve idarelerle, il özel idareleri, belediyeler ve köyler olduğu, yine aynı Kanun’a ekli (I) sayılı tablonun II. Kararlar ve mazbatalar kısmının 2’nci fıkrasında ihale kanunlarına tabi olan veya olmayan resmi daire ve kamu tüzel kişiliğini haiz kurumların her türlü ihale kararlarından Binde 5,69 oranında damga vergisi alınması gerektiği hükme bağlanmıştır.
+
+Öte yandan, … TL tutarındaki kamu zararının 18.05.2015 tarih ve 1708 sayılı muhasebe işlem fişiyle bütçeye gelir kaydedildiği anlaşıldığından ilişilecek husus kalmadığına oy birliğiyle,
+
+B) … Belediye Başkanlığı tarafından ihale yolu ile satışı gerçekleştirilen … Mah. … ada …nolu parsel, … Mah. … ada, … nolu parsel ile … Mah. … ada … nolu parselde bulunan taşınmazların ihale bedellerinin tamamının şartname hükümlerine göre ödenmesi gereken sürede ödenmemesi sonucunda, ihalenin idarece iptal edilerek teminatların irat kaydedilmesi gerekirken buna uyulmaması nedeniyle kamu zararına yol açıldığı iddia edilse de,
+
+Belediye’nin 2886 sayılı Devlet İhale Kanunu hükümlerine tabi olması nedeniyle, taşınmaz satışlarının bu kanun hükümlerine uygun olarak ihale edilmek suretiyle gerçekleştirildiği, şartnamelerin kanun hükümlerine uygun olarak hazırlandığı ve söz konusu 3 taşınmaza ilişkin ihale bedelinin büyük bir bölümünün bir aylık süre içerisinde, geri kalan kısmının ise en kısa sürede Belediye’ye yatırıldığı, ihalenin iptal edilmesi ile belediyenin yeniden ihaleye çıkması halinde yeni ihalenin nasıl sonuçlanacağı konusunda belirsizlik olduğu, ihale dokümanlarının hazırlanması ile oluşacak olan ihale masraflarının göz önünde tutularak Belediyenin yapmış olduğu yatırımların aksamaması açıdan bu kişilere ait ihalenin sonuçlandırıldığı yönünde, savunmalarda yapılan açıklamaların göz önünde bulundurulması ile söz konusu ihale sürecinin tamamlanmış olması nedeniyle, mevzuata uymayan ancak kamu zararı da oluşturmayan …. TL hakkında ilişilecek husus bulunmadığına, ancak söz konusu ihale şartnamesine uymayarak ihaleyi iptal etmeyen ve teminatı gelir kaydetmeyen sorumlular hakkında gerekli incelemenin yapılmasını teminen konunun …’na yazılmasına oy birliğiyle karar verildi.
