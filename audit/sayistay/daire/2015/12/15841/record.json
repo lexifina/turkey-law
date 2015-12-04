@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "52",
+  "decision_date": "2015-12-04",
+  "source_id": 15841,
+  "chamber": "7",
+  "ilam_number": "91",
+  "item_number": 24,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15841/",
+  "source_sha256": "3e72e7f9193642e149416761cbe6ccd10c5308e6e9b8f3e83bc8008477f93b5f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
