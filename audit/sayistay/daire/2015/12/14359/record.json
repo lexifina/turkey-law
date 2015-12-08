@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "56",
+  "decision_date": "2015-12-08",
+  "source_id": 14359,
+  "chamber": "7",
+  "ilam_number": "60",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14359/",
+  "source_sha256": "735cf0d326c59f821db8f865e82401d0207992520430bdfed71919f39a080668",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
