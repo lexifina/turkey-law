@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "56",
+  "decision_date": "2015-12-08",
+  "source_id": 14363,
+  "chamber": "7",
+  "ilam_number": "60",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/14363/",
+  "source_sha256": "f9f8ff7f284e28ae7c7200d5afddca5fcd55b58093c65abb5191d66115249e7b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
