@@ -1,0 +1,19 @@
+Birim fiyatlarının üzerinde gazete abonelik bedelleri ödenmesi.
+
+1) 610 sayılı ilamın 1. maddesiyle Belediyenin yapmış olduğu gazete aboneliklerinde gazete birim fiyatlarının çok üzerinde tutarlar üzerinden abonelik bedelleri ödenmesi nedeniyle …… TL’ye tazmin hükmü verilmiş; 24140 (27.01.2015 tarih ve 39945 tutanak) sayılı Temyiz Kurulu İlamının 1. maddesi ile de söz konusu tazmin hükmünün tasdikine karar verilmiştir.
+
+Karar düzeltmesine ilişkin dilekçede özetle; günlük yerel gazetelerin satın alma işlemlerinin diğer kamu idarelerinde olduğu gibi gazetelerinde ilan edilen abone ücreti üzerinden abone olunarak gerçekleştirildiği, yapılan abonelik sözleşmesinin Belediyenin dışarıdaki ve içerideki tüm birimlerine günlük zamanında teslimi öngördüğü, bu yöntemle belediyenin dışarıdaki birimlerine de gazetelerin zamanında getirildiği, adı geçen yerel gazetelerin birim fiyatları üzerinden farklı bayilerden satın alınması halinde ise bu iş için ayrıca araç ve personel görevlendirilmesi yapılması gerekeceğinden gazetelerin daha maliyetli olacağı, bu nedenle birim fiyat yerine abonelik sisteminin tercih edildiği belirterek 27.01.2015 tarih ve 39945 tutanak sayılı Temyiz Kurulu Kararının 1. maddesinin düzeltilmesi talebinin kabulüyle tasdik edilen tazmin hükmünün kaldırılması istenmiştir.
+
+Sayıştay Savcılığı karşılamasında; “Sorumlunun yapmış olduğu açıklamalardan, yerel günlük gazetelere belirlenen ve gazetelerde açık bir şekilde ilan edilen abone ücretleri üzerinden idarenin menfaatleri ve gerekleri bu yönde olması nedeniyle abone olunduğu, dağıtım ve diğer giderlerin gazete birim fiyatlarına dahil edilerek abone ücretlerinin gazete sahipleri tarafından belirlendiği, gazete alımı için yapılan ödemelerin belirlenen bu abone ücretleri üzerinden yapıldığı ve dolaysıyla fazla ve yersiz bir ödemenin oluşmadığı anlaşılmaktadır. Belediyenin ihtiyaçları doğrultusunda yerel gazetelere abone olunarak belirlenen abone ücretleri üzerinden ödeme yapılmış olması nedeniyle kamu zararının oluşmadığı değerlendirilmektedir.
+
+Yapılan değerlendirmeler ve sorumlunun yapmış olduğu açıklamalar çerçevesinde Karar Düzeltme talebi kabul edilerek verilen kararın kaldırılması yönünde karar verilmesi uygun olur.“ şeklinde görüş bildirmiştir.
+
+Duruşma talebinde bulunan …… ile Sayıştay Savcısının sözlü açıklamalarının dinlenmesinden ve dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü;
+
+Mevzuatta periyodik yayın alımlarının nasıl yapılacağı hususunda net bir düzenleme bulunmamaktadır. Diğer bir ifade ile periyodik yayın alımlarının birim fiyat üzerinden bayiden satın alma yoluyla mı yoksa abonelik sistemiyle mi yapılacağına dair emredici bir hüküm bulunmamaktadır. Karar düzeltme dilekçesindeki açıklamalardan, yerel gazetelere abonelik fiyatlarının bayi satış fiyatından yüksek olmasının nedeninin, bu gazetelerin aynı zamanda abonelere dağıtım bedelini de kapsamasından kaynaklandığı anlaşılmaktadır.
+
+Rapor dosyası ve ekleri incelendiğinde; gazete abonelikleri için doğrudan temin yöntemiyle ilgili yerel gazetelerden fiyat teklifi alındığı ve verilen fiyat teklifi üzerinden alımın gerçekleştirildiği görülmüştür.
+
+Ayrıca karar düzeltme dilekçesi ekinde yer alan gazete künyeleri incelendiğinde, gazetelerin 6 aylık veya 1 yıllık abonelik bedellerinin günlük bayi satış fiyatına göre daha yüksek olduğu, belediye tarafından ödenen abonelik bedellerinin gazete künyelerinde belirtilen abonelik bedelleri ve piyasa araştırmasında ilgili yerel gazeteler tarafından verilen fiyatlar ile uyumlu olduğu, dolayısıyla mevzuata aykırı bir durum bulunmadığı anlaşılmaktadır.
+
+Bu itibarla karar düzeltilmesi talebinin kabulüyle 24140 (27.01.2015 tarih ve 39945 tutanak) sayılı Temyiz Kurulu İlamının 1. maddesinin düzeltilerek 610 sayılı ilamın 1. maddesiyle verilen tazmin hükmünün KALDIRILMASINA,
