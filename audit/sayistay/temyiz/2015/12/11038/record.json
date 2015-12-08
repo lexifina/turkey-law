@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41188",
+  "decision_date": "2015-12-08",
+  "source_id": 11038,
+  "chamber": "7",
+  "file_number": "39723",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2012",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11038/",
+  "source_sha256": "6212905c0d45df980d42c495fc0a2d107f1d9c2e823edd95af752ae67331c1f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
