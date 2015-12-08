@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41181",
+  "decision_date": "2015-12-08",
+  "source_id": 11018,
+  "chamber": "7",
+  "file_number": "39821",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2012",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11018/",
+  "source_sha256": "8a7d472cd2072802e264c5e80130bb04c9d0df2a2665fafc9a26318f2dd47f86",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
