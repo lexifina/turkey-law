@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-12-09",
+  "issue": "29557",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Bingöl Üniversitesi Üniversite-Sanayi İş Birliğini Geliştirme Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151209-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151209.htm",
+  "index_sha256": "05618c0ea81ec2fa8bb5a3357ea4d5cb1133066206bebed21e3c0aeb590e0bfa",
+  "index_header": "9 Aralık 2015 ... 29557 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151209.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
