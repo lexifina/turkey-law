@@ -1,0 +1,7 @@
+Merkezin faaliyet alanları
+MADDE 5 – (1) Merkez, 4 üncü maddede belirtilen amaçlarını gerçekleştirmek için aşağıdaki faaliyetlerde bulunur:
+a) Ulusal ve uluslararası düzeyde sürdürülebilirlik ile ilgili konuları ve sorunları incelemek, araştırma, proje ve atölye çalışmaları yapmak, konferans, çalıştay, seminer, sempozyum, kongre ve benzeri bilimsel faaliyetleri düzenlemek, tasarım/model oluşturmak, ölçek, değerlendirme ve derecelendirme kriterleri geliştirmek, uygulamak ve akreditasyon yapmak, danışmanlık hizmeti vermek, analiz, Ar-Ge hizmeti ve proje desteği sağlamak,
+b) Sürdürülebilirlikle ilgili konularda, uzmanların katkısıyla, kısa ve/veya uzun dönemli ulusal ve/veya uluslararası düzeyde eğitim faaliyetleri düzenlemek, yürütmek, yürütülmesini sağlamak ve mevcut eğitim programlarına destek vermek, sertifika programları açmak ve devam ettirmek,
+c) Sürdürülebilirlikle ilgili konulardaki çalışmalara ve ilgili kuruluşlar arasındaki koordinasyona yardımcı olmak, sürdürülebilirlikle ilişkili her türlü kurum, kuruluş, kişi topluluğu ve bireyler arasında karşılıklı bilgi ve deneyim paylaşımı sağlamak,
+ç) Çevresel, sosyal ve ekonomik sürdürülebilirlik alanlarındaki sorunları gidermeye hizmet edebilecek araştırma ve projelerin yapılmasını, bunların devamının yaşama geçirilmesini özendirmek, bu amaca hizmet eden yarışmalar düzenlemek ve ödüller vermek,
+d) Merkez olarak faaliyet alanı ile ilgili konularda yayım yapmak.
