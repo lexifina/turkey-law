@@ -1,0 +1,11 @@
+“Mühendislik Fakültesi Binası İnşaatı Yapım İşi”ni üstlenen yükleniciye binanın yapımı süresince bedelsiz kullandığı su için ödeme yapılması.
+
+“Mühendislik Fakültesi Binası İnşaatı Yapım İşi”nde yüklenicinin abonelik tesis ettirmeden ve Belediyeye herhangi bir ödeme yapmadan kullandığı su bedeli için herhangi bir kesinti yapmaksızın Üniversitenin yükleniciye ödeme yaptığı görülmüştür.
+
+27.04.1995 tarihinde ……. Belediyesi ile ……. Üniversitesi arasında ……. Meslek Yüksekokulu kampüs alanı içinde su isale hattı ve su deposunun yapılması ve suyun kullanılması şartları ile taraflar arasında karşılıklı görev ve yükümlülüklerin belirlenmesi amacıyla düzenlenen protokolde, “Belediyenin Meslek Yüksekokulu kampüs alanı içindeki tüm eğitim öğretim binaları, yurt ve konutların içme ve kullanma suyunu kampüs sahası içerisinde su deposu ve müştemilatının yapılmasına izin verilmesine karşılık olmak üzere karşılayacaktır” denilmiş, protokolün imza tarihinden başlamak üzere geçerli olduğu, değişiklik için iki tarafın anlaşması gerektiği belirtilmiş ve bu protokol kampüs alanında 2007 yılında kurulan ……. Üniversitesi için bu zamana kadar uygulanmıştır.
+
+Yapılan incelemede Üniversitenin protokol gereğince 2014 yılında Belediyeye su bedeli ödemediği, Mühendislik Fakültesi Binası İnşaatı Yapım İşi yüklenicisinin de (…….) işe ilişkin şartname ve sözleşmede suyun bedelsiz kullanılacağına yönelik bir hüküm bulunmamasına rağmen işte kullandığı su için abonelik tesis ettirmediği ve Belediyeye ödeme yapmadığı, ancak Üniversitenin inşaat imalat kalemleri içerisindeki su miktarları için yükleniciye ödeme yaptığı görülmüştür. Yüklenicinin bedel ödemeksizin kullandığı su için de Üniversite tarafından yükleniciye hakediş ödemesi yapılması kamu zararına neden olmuştur.
+
+Bununla birlikte sorumlular ve ilgili diğer kişilerin savunmaları ile ekindeki belgelerin incelenmesi sonucunda kamu zararı tutarının tahsil edildiği anlaşılmıştır.
+
+Bu itibarla, “Mühendislik Fakültesi Binası İnşaatı Yapım İşi”nde yüklenicinin abonelik tesis ettirmeden ve Belediyeye herhangi bir ödeme yapmadan kullandığı su için de Üniversitenin yükleniciye hakediş ödemesi yapması sonucu sebep olunan ……. TL kamu zararının ……. tarih ve ……. numaralı muhasebe işlem fişi ile tahsil edildiği anlaşıldığından bu miktar için ilişilecek bir husus kalmadığına oybirliğiyle,
