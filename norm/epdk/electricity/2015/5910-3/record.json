@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5910/3",
+  "decision_date": "2015-12-10",
+  "title": "Akedaş Elektrik Perakende Satış A.Ş.’nin 2011-2015 uygulama döneminde 2015 yılı için talep ettiği ek yatırımın kabul edilerek, perakende satış hizmeti yatırım planının revize edilmesi",
+  "resmi_gazete_date": "2015-12-15",
+  "resmi_gazete_number": "29563",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jSMdt8NAZhY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jSMdt8NAZhY="
+  ],
+  "source_sha256": "df0466a915c46a3d4bc8f39568cbc1c525408a692a0546421cfc13ca0e30af08",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-10",
+  "law_text_complete": false
+}
