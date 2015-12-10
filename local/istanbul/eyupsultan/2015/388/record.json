@@ -1,0 +1,22 @@
+{
+  "number": "388",
+  "number_as_published": "2015/388",
+  "year": 2015,
+  "title": "2015/388",
+  "decision_date": "2015-12-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2015-aralik-ayi-meclis-kararlari/428",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2015-388/429",
+  "source_sha256": "fda4e728d921a3bd2e8794b9f059509588e565411d0a5b2bd0b7eab16357e75b",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-12-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.12.2015 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "15687ae00efd8f80775c0b6440fb3bcd5783abe8530eb2fcee07ff25bf83a44a"
+}
