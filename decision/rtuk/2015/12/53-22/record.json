@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2015/53",
+  "meeting_date": "2015-12-10",
+  "meeting_date_as_published": "10.12.2015",
+  "decision_no": "22",
+  "source_id": 6688,
+  "title": "RTÜK kararı 2015/53-22",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/6688",
+  "source_sha256": "dd9cdb42ff6652193a798552dbd6986fd425c9b180cb09ad9d1354b9b4795a52",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (43 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
