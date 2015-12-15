@@ -1,0 +1,20 @@
+{
+  "applicant": "C.K.",
+  "application_date": "2013-12-02",
+  "application_number": "2013/8728",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2015-12-15",
+  "id": "7eb42160-f1a7-d61a-6d9b-a3540abe9c35",
+  "in_force": "2015-12-15",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjdlYjQyMTYwLWYxYTctZDYxYS02ZDliLWEzNTQwYWJlOWMzNQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "f82d51fa9fdbe3e5e81a21fa2c5c8d87daa69ba1640f2884c5e4360f0bda8cca",
+  "version_label": "as-enacted"
+}
