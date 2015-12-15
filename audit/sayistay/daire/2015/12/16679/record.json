@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10515",
+  "decision_date": "2015-12-15",
+  "source_id": 16679,
+  "chamber": "1",
+  "ilam_number": "55",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16679/",
+  "source_sha256": "94f939ca42c2a4ea4004e7bff41653e21c9f5d1e8fdb1c4927222c95512af2fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
