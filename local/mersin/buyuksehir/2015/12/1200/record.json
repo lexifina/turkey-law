@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "1200",
+  "decision_date": "2015-12-15",
+  "title": "MEC_ KAR. ( Otogar Ücret Tarifesi 2016 )",
+  "listed_as": "1200 MEC_ KAR. ( Otogar Ücret Tarifesi 2016 )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/1200-mec--kar----otogar-ucret-tarifesi-2016-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk77-15-aralik-2015-meclis-kararlari",
+  "listing_sha256": "6355826ea50b97fd618c2a0a599e3e26dabb742b8918b4d01193e7123aaeaccc",
+  "meeting_title": "MK77-15 ARALIK 2015 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
