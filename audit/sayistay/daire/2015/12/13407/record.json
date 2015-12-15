@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "66",
+  "decision_date": "2015-12-15",
+  "source_id": 13407,
+  "chamber": "8",
+  "ilam_number": "45",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/13407/",
+  "source_sha256": "82b4d60de59edd075cd3bcb075ff5c45effa416e7d90abeed239a2f282c78473",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

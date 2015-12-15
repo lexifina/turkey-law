@@ -1,0 +1,13 @@
+Teminat Mektuplarının Takibinin Yapılmaması:
+
+… ....Bakanlığı Merkez Saymanlığının ......... yılı işlemlerinin incelenmesinde, 910 Teminat Mektupları Hesabı ile 911 Teminat Mektupları Emanetleri Hesabı kayıtlarında, süresi dolmuş teminat mektupları ile TMSF’ye devredilen bankaların yanı sıra bankacılık faaliyeti sona ermiş bankalara ait teminat mektuplarının yer aldığı görülmüştür.
+
+Bakanlık tarafından, ilgili iş sahipleri ile arasındaki ihale ve iş ilişkilerinin hukuken geçerliliğinin korunması bakımından, faaliyeti sona ermiş bankalara ait olanların, faaliyetteki bankalardan alınan teminat mektupları ile yenilenmesi gerekmektedir. Denetçi tarafından yazılan sorgu ile, sorguya ekli listede gösterilen 29 adet teminat mektubu ile ilgili olarak İdarece yapılan işlemler hakkında bilgi istenildiği görülmüştür.
+
+Sorumlular göndermiş olduğu benzer nitelikli savunmalarda özet olarak; Sorguya ekli listede yer alan 29 adet teminat mektubundan 5 adedinin muhasebe kayıtlarından çıkarılarak Hazineye irat kaydedildiğini, 13 adedinin kayıtlarda yer aldığını ve yenilenmesi için ilgili bankasına/firmasına yazı yazıldığını,  11 adedinin ise çeşitli sebeplerle ilgili bankasına/firmasına iade edildiğini, bildirmiş ve söz konusu işlemlere ilişkin belgeleri savunmalarına eklemişlerdir.
+
+Muhasebe kayıtlarında bekleyen teminat mektupları hakkında İdarece herhangi bir işlemin yapılmaması, mali denetim raporunda yer alması gereken bir konu olmakla birlikte İdarece teminat mektuplarının takip edilmemesi durumunda kamu zararının da ortaya çıkması söz konusu olabilecektir.
+
+Ancak burada sorgu üzerine İdare tarafından kayıtlarda bekleyen teminat mektupları hakkında gerekli işlemlerin yapıldığı görüldüğünden, bu aşamada kamu zararı oluşmayan 29 adet teminat mektubu toplam tutarı … TL ile ilgili olarak ilişilecek bir husus bulunmadığına,
+
+(Üye … ile Üye …’ın “6085 Sayıştay Kanunu’nun 48’inci maddesine göre denetim esnasında kamu zararına yol açan bir husus tespit edildiğinde yargılamaya esas rapor düzenlenecektir. Burada denetçi tarafından sorgu aşamasında herhangi bir kamu zararı tespiti yapılmadığı görülmektedir. 910 no.lu Teminat Mektupları Hesabında bekleyen teminat mektupları hakkında herhangi bir takibatın ve işlemin yapılmaması İdarenin iç kontrol sistemindeki zafiyetten kaynaklanmaktadır ve bu konunun mali denetim raporunda yer alması gerekmektedir.  Bu itibarla, Raporda Denetçi tarafından bir kamu zararı tespiti olmadığından, 6085 sayılı Sayıştay Kanunu’nun 48’inci maddesi gereğince konunun yargılamaya esas raporda yer almaması gerektiğinin ilgili Denetim Grup Başkanlığına bildirilmesi için Başkanlığa yazılması gerekir.” şeklindeki ayrışık görüşlerine karşın), oyçokluğuyla,
