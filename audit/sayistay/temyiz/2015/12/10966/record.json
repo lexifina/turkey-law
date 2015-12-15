@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41209",
+  "decision_date": "2015-12-15",
+  "source_id": 10966,
+  "chamber": "6",
+  "file_number": "39768",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10966/",
+  "source_sha256": "495359252c2be36ef2da3c1d49008b59df2794f76c338e9cec09cb5eeeddb2d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
