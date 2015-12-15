@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41211",
+  "decision_date": "2015-12-15",
+  "source_id": 10968,
+  "chamber": "6",
+  "file_number": "39920",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/10968/",
+  "source_sha256": "0c09cccb6e53229efeef9089cc40227b705c80697ecd9bf8920452156a602afe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
