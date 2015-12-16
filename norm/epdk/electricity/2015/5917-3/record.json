@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5917/3",
+  "decision_date": "2015-12-16",
+  "title": "Dağıtım Lisansı Sahibi Tüzel Kişiler ve Görevli Perakende Satış Şirketlerinin Tarife Uygulamalarına İlişkin Usul ve Esasların 4 üncü maddesine İlişkin",
+  "resmi_gazete_date": "2015-12-18",
+  "resmi_gazete_number": "29566",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zsTxxNYoqBk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zsTxxNYoqBk="
+  ],
+  "source_sha256": "bc9f85206e77f9fe301eab98a9a655328ad5c2d7a1fab6b9fb813c9833e6feb1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2015-12-16",
+  "law_text_complete": true
+}
