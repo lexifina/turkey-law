@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5917/1",
+  "decision_date": "2015-12-16",
+  "title": "Perakende Enerji Satış Fiyatlarının Düzenlenmesi Hakkında Tebliğ uyarınca 2016-2020 yıllarında geçerli olacak Brüt Kâr Marjı Tavanının % 2,38 olarak onaylanmasına ilişkin",
+  "resmi_gazete_date": "2015-12-18",
+  "resmi_gazete_number": "29566",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ITu3+zhoGXY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ITu3+zhoGXY="
+  ],
+  "source_sha256": "87e269f19c8b0c1c34967013230c6c30e497246cf99c66b037ea9f4bf469fedb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1920,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2015-12-16",
+  "law_text_complete": true
+}
