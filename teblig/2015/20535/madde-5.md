@@ -1,0 +1,18 @@
+Tedarikçilerin sorumlulukları
+MADDE 5 – (1) Bireysel ürün olarak piyasaya sunulan elektrik lambalarının tedarikçileri aşağıdaki şartları sağlamalıdır:
+a) Ek-II’de belirtilen ürün fişinin bulundurulması,
+b) Ek-III’te belirtilen teknik dosyanın istek üzerine Bakanlığa sunulması,
+c) Belirli bir lambaya yönelik enerjiyle ilgili bilgileri veya fiyat bilgilerini açıklayan herhangi bir reklam, resmi fiyat teklifi veya ihale teklifinde enerji verimlilik sınıfının belirtilmesi,
+ç) Belirli bir lambayla ilgili özel teknik parametreleri açıklayan herhangi bir teknik tanıtım malzemesinde söz konusu lambanın enerji verimlilik sınıfının belirtilmesi,
+d) Lambanın bir satış noktası yoluyla pazarlanması planlandığı takdirde, Ek-I’in 1 inci maddesinde belirtilen şekil ve bilgiyi içerecek şekilde üretilen bir etiketin, bireysel ürün ambalajının dış kısmına yerleştirilmesi, basılması veya eklenmesi ve etiketin dış kısmında belirtilen lamba nominal gücünün ambalajda gösterilmesi.
+e) (Ek:RG-16/12/2015-29564) 1/1/2016 tarihinden itibaren yeni bir model tanımlayıcısı ile piyasaya arz edilecek olan her lamba modeli için satıcılara Ek-I’in 1 inci maddesinde belirtilen şekil ve içeriğe uygun bir elektronik etiket temin edilir. Bu etiket, diğer lamba modelleri için de satıcılara temin edilebilir.
+(2) Nihai kullanıcılara pazarlanması planlanan armatürlerin tedarikçileri aşağıda belirtilenleri sağlamalıdırlar:
+a) Ek-III’te öngörülen teknik dosyanın istek üzerine Bakanlığa sunulması,
+b) Aşağıdaki durumlarda, Ek-I’in 2 nci maddesine göre etikette yer alan bilgilerin sağlanması:
+i) Belirli bir armatüre yönelik enerjiyle ilgili bilgileri veya fiyat bilgilerini açıklayan herhangi bir reklam, resmi fiyat teklifi veya ihale teklifi,
+ii) Belirli bir lambayla ilgili özel teknik parametrelerin belirtildiği herhangi bir teknik tanıtım malzemesi.
+Bu durumlarda bilgi Ek-I’in 2 nci maddesinde öngörülen şeklin dışında şekillerde (örneğin tamamen metin olarak) temin edilebilir.
+c) Armatürün bir satış noktası yoluyla pazarlanması istendiği takdirde, Ek-I’de öngörülen şekilde hazırlanmış ve öngörülen bilgileri içeren bir etiket, satıcılara elektronik olarak veya basılı biçimde ücretsiz olarak sağlanır. Tedarikçi, etiketlerin yalnızca satıcıların isteği üzerine temin edildiği bir teslimat sistemini seçtiği takdirde, etiketleri istek üzerine derhal teslim eder,
+ç) Armatür son kullanıcılar için bir ambalaj içerisinde piyasaya sunulduğu takdirde, bu ambalajın son kullanıcının armatüre takabileceği elektrik lambalarını içermesi durumunda bu lambaların orijinal ambalajları armatürün ambalajı içerisine dahil edilir. Dahil edilmediği takdirde, lambaların orijinal ambalajında yer alan bilgiler bu Tebliğ ve lambalara ilişkin çevreye duyarlı tasarım gerekliliklerini düzenleyen Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmelik uyarınca armatür ambalajının dış veya iç kısmında bir başka şekilde mevcut bulunmalıdır.
+d) (Ek:RG-16/12/2015-29564) 1/1/2016 tarihinden itibaren piyasaya arz edilecek olan her armatürü modeli için satıcılara Ek-I’in 2 nci maddesinde belirtilen şekil ve içeriğe uygun bir elektronik etiket temin edilir. Bu etiket, diğer aydınlatma armatürü modelleri için de satıcılara temin edilebilir.
+Bu Tebliğ kapsamında bilgi sağlayan, bir satış noktası yoluyla pazarlanması istenen armatürlerin tedarikçileri, Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmelik uyarınca çıkarılan uygulama tebliğlerinde belirtilen çevreye duyarlı tasarım gerekliliklerine ilişkin ürün bilgisi gereksinimlerine göre dağıtıcı olarak sorumluluklarını yerine getirmiş kabul edilir.

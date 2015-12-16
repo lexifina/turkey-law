@@ -1,0 +1,36 @@
+Tanımlar
+MADDE 4 – (1) Ürünlerin Enerji ve Diğer Kaynak Tüketimlerinin Etiketleme ve Standart Ürün Bilgileri Yoluyla Gösterilmesi Hakkında Yönetmeliğin 4 üncü maddesinde belirtilen tanımlara ek olarak aşağıda belirtilen tanımlar da bu Tebliğin amaçları için geçerlidir:
+a) Akkor lamba: Flamanın vakumlu bir ampul içinde çalıştığı veya soy gaz ile çevrildiği flamanlı lambayı,
+b) Armatür: Bir veya daha fazla lambadan yayılan ışığı dağıtan, filtreleyen veya dönüştüren ve elektrik kaynağına bağlantı araçlarıyla birlikte lambaları desteklemek, sabitlemek ve korumak için gereken tüm parçalar ile gerektiğinde devre yardımcı teçhizatını içeren cihazı,
+c) Aydınlatma: İnsanlar tarafından görünebilmesi için ışığın bir sahneye, nesnelere veya bunların çevresine uygulanmasını,
+ç) Bakanlık: Bilim, Sanayi ve Teknoloji Bakanlığını,
+d) Balast: İndüktans, kapasitans veya indüktans ve kapasitansın kombinasyonu yoluyla esas olarak lambanın/lambaların akımını gerekli değere kadar sınırlandırmaya yarayan, kaynak ile bir veya birden fazla deşarj lambası arasına takılan lamba kontrol düzeneğini,
+e) Deşarj lambası: Işığın doğrudan veya dolaylı olarak gaz, metal buharı veya çeşitli gaz ve buharların karışımı yoluyla elektriksel boşalma yoluyla üretildiği lambayı,
+f) Doğrusal lamba: Işığın en az %80’i π steradyan (π sr) içinde olan lamba anlamına gelir (120° lik bir koniye karşılık gelen),
+g) Doğrusal olmayan lamba: Doğrusal olmayan lambayı,
+ğ) Bütünleşik balast içermeyen floresan lamba: Bütünleşik balast içermeyen tek veya çift başlıklı floresan lambayı,
+h) Flamanlı lamba: Işığı elektrik akımı geçişi yoluyla akkor hale gelen ip gibi bir iletken aracılığıyla üretilen lambayı (Lamba akkorlaşma sürecini etkileyen gazlar içerebilir),
+ı) Floresan lamba: Işığın büyük bir kısmının deşarjdan kaynaklanan ultraviyole ışınım yoluyla uyarılan bir veya birden fazla fosfor katmanı yoluyla yayıldığı düşük basınçlı cıvalı tip deşarj lambasını (Floresan lambalar bütünleşik bir balast ile birlikte tedarik edilebilir),
+i) Halojen (Tungsten) lamba: Flamanın tungstenden yapıldığı ve halojenler veya halojen bileşenler içeren gazla çevrili olduğu flamanlı lambayı (Bütünleşik güç kaynağıyla birlikte tedarik edilebilir),
+j) Halojen lamba kontrol düzeneği: Şebeke voltajını halojen lambalar için aşırı düşük voltaja dönüştüren lamba kontrol düzeneğini,
+k) Harici lamba kontrol düzeneği: Bir lambanın veya armatür hücresinin dışına yerleştirilmek veya lambaya veya armatüre kalıcı zarar vermeden hücreden çıkarılmak üzere tasarlanan bütünleşik olmayan lamba kontrol düzeneğini,
+l) Işık kaynağı: Enerji dönüşümü yoluyla üretilen esas olarak görülebilir optik ışınım yaymak üzere tasarlanan yüzeyi veya nesneyi (‘Görülebilir’ terimi 380-780 nm dalga boyuna işaret eder),
+m) Işık yayan diyot (LED): P-N bağlantılı bir yarı iletken aygıtı içeren ışık kaynağını (bağlantı, elektrik akımı uygulandığında optik ışınım yayar),
+n) Kompakt floresan lamba: Lambanın çalışmaya başlaması ve kararlı çalışması için gerekli tüm bileşenleri içeren floresan lambayı,
+o) Kontrol cihazı: Lambanın ışık akısını zamanlayıcı düğme, meşgul sensörleri, ışık sensörleri ve gün ışığı düzenleme cihazları gibi lambaya yönelik güç dönüştürme dışında araçlarla kontrol eden veya izleyen elektronik veya mekanik cihazı (Buna ek olarak dahili ışık azaltıcı cihazlar da kontrol cihazları olarak kabul edilir),
+ö) Lamba: Performansı bağımsız olarak değerlendirilebilen ve bir veya birden fazla ışık kaynağından oluşan cihazı (Aşağıda anılan unsurların cihaza kalıcı olarak zarar vermeden çıkarılamadığı durumlarda lamba, cihazın çalıştırılması, güç kaynağı veya kararlı çalışması için veya optik ışınımın dağıtılması, filtre edilmesi ve dönüştürülmesi için gereken ilave unsurlar içerebilir),
+p) Lamba başlığı: Lambanın lamba duyu veya lamba konektörü yoluyla elektrik kaynağına bağlantı sağlayan, aynı zamanda lambayı lamba duyunda muhafaza etmeye de yarayabilecek olan kısmı,
+r) Lamba duyu veya yuvası: Genellikle lamba başlığının içine takılması suretiyle lambayı yerinde tutan, aynı zamanda lamba için elektrik kaynağına bağlantı aracı da sunan cihazı,
+ifade eder.
+s) Lamba kontrol düzeneği: Kaynak voltajının dönüştürülmesi, lamba akımının gereken değer ile sınırlandırılması, başlama gerilimi ve ön ısıtma akımı sağlanması ve soğuk çalıştırmanın önlenmesi, güç faktörünün düzeltilmesi veya radyo parazitinin azaltılması gibi lambanın/lambaların işleyişiyle ilgili bir işlev sunan bir veya daha fazla lamba ile elektrik kaynağı arasında bulunan cihazı ifade eder. Cihaz bu işlevleri yerine getirmek için diğer lamba kontrol düzeneğine bağlanmak üzere tasarlanabilir. Lamba kontrol düzeneği şunları içermez:
+- Kontrol cihazları,
+- Şebeke voltajını aynı tesisat içinde ihtiyacı karşılamak üzere tasarlanan bir başka kaynak voltajına dönüştüren güç kaynakları hem aydınlatma ürünleri hem de esas amacı aydınlatma olmayan ürünleri.
+ş) LED lamba: Bir veya birden fazla LED modülü içeren lambayı (Lamba bir başlıkla donatılmış olabilir),
+t) LED modülü: Baskı devre kartı üzerinde bir veya birden fazla LED paketi içeren, başlıksız düzeneği (Düzenek elektriksel, optik, mekanik ve ısıl bileşenler, arayüzler ve kumanda düzeneği içerebilir),
+u) LED paketi: Bir veya daha fazla LED içeren düzeneği (Düzenek optik bir unsur ve ısıl, mekanik ve elektriksel arayüzler içerebilir),
+ü) Nihai kullanıcı: Kendi işi veya mesleği dışında bir amaçla elektrik lambası veya armatür satın alan veya satın alması beklenen gerçek kişiyi,
+v) Nihai mal sahibi: Bir ürüne, yaşam döngüsünün kullanılması aşamasında sahip olan kişiyi veya kuruluşu, söz konusu kişi veya kuruluş adına hareket eden herhangi bir kişiyi veya kuruluşu,
+y) Satış noktası: Ürünün nihai kullanıcıya teşhir edildiği veya satış, kiralama veya taksitli satış amacıyla sunulduğu fiziki yeri,
+z) Vurgulu aydınlatma: Işığın bir nesneyi veya bir alanın bir kısmını öne çıkaracak şekilde yönlendirildiği aydınlatma türünü,
+aa) Yüksek yoğunluklu deşarj lambası: Işık üreten arkın duvar sıcaklığı ile dengelendiği ve arkın cm2 başına 3 Watt’tan fazla bir ampul duvar yüküne sahip olduğu elektrik deşarj lambasını,
+ifade eder.
