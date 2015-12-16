@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5917/4",
+  "decision_date": "2015-12-16",
+  "title": "Kayseri ve Civarı Elektrik Türk A.Ş’nin 2011-2015 Yatırım Harcamalarının Belirlenmesi ve Gerçekleşmesinin İzlenmesine İlişkin Usul ve Esasları \"Ek-1\"in revizyonu",
+  "resmi_gazete_date": "2015-12-18",
+  "resmi_gazete_number": "29566",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/WTT9YM9zos=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/WTT9YM9zos="
+  ],
+  "source_sha256": "73190d3c316a47e7768dee0f50af0740a8d958355eadfe9bb057e7d67d95d9b2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2015-12-16",
+  "law_text_complete": true
+}
