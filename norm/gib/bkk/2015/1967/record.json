@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2015/8300",
+  "source_id": 1967,
+  "date": "2015-12-17",
+  "title": "4736 sayılı Kanunun 1 inci maddesinin birinci fıkrası hükmünden muaf tutulacakların tespitine dair",
+  "source": "https://gib.gov.tr/mevzuat/kanun/505/bkk/1967",
+  "related_law": "4736 sayılı KAMU KURUM VE KURULUŞLARININ ÜRETTİKLERİ MAL VE HİZMET TARİFELERİ İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "0a2b63115df4c9179b4fceaa26fe1cd8f77687057386ddda3cd9b63b541aac3f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
