@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "5926",
+  "decision_date": "2015-12-17",
+  "title": "AKSA Gümüşhane Bayburt Doğalgaz Dağıtım Anonim Şirketi?nin (Aksa Gümüşhane A.Ş.) 2012-2016 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2015-12-19",
+  "resmi_gazete_number": "29567",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1TWZRVNIV4g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1TWZRVNIV4g=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lNmuXhbavVE="
+  ],
+  "source_sha256": "59a323e194cbe8f5940465387d5cf741c02e688ad6342f3fc9d79c6958b81301",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2015-12-17",
+  "law_text_complete": true
+}
