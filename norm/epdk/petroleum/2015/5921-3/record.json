@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5921/3",
+  "decision_date": "2015-12-17",
+  "title": "Dağıtıcı lisansı sahiplerinin, dağıtıcılar arası akaryakıt ticareti yapabilmesine ilişkin",
+  "resmi_gazete_date": "2015-12-19",
+  "resmi_gazete_number": "29567",
+  "categories": [
+    "Dağıtıcılar Arası Akaryakıt Ticaretine İlişkin Usul ve Esaslar Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=re1rvmVuO2A=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=re1rvmVuO2A="
+  ],
+  "source_sha256": "ed4190c5e27876f1fbbe26b3fb947a39afa2fcfeb1ecb52e0d6228f163584038",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4810,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-17",
+  "law_text_complete": false
+}
