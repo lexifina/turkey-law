@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "140",
+  "decision_date": "2015-12-17",
+  "source_id": 16570,
+  "chamber": "5",
+  "ilam_number": "142",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16570/",
+  "source_sha256": "0b1ed8c15e5c335c8d6e25f1bf3dd793583c6139bf4526bad97475ea70b75f1a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
