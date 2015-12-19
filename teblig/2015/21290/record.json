@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21290",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "FINDIK ÜRETİCİLERİNE ALAN BAZLI GELİR DESTEĞİ ÖDENMESİNE DAİR KARARIN UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2015/46)",
+  "number": "21290",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2015/21290",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21290&MevzuatTertip=5",
+  "source_sha256": "bf7db32c3c0f1637f6ffff60bd96997b424b8930a77a047286f1b7750f1e5f4d",
+  "source_bytes": 26720,
+  "published": "2015-12-19",
+  "gazette": "29567",
+  "in_force": "2015-12-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.12.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1207,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21290-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
