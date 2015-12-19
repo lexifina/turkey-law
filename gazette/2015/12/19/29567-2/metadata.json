@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-12-19",
+  "issue": "29567",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Aile ve Sosyal Politikalar Uzmanlığı Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151219-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151219.htm",
+  "index_sha256": "bcd0913272c0e9f5b6266420d470796f960691ef3673d42c144cb93867f92e42",
+  "index_header": "19 Aralık 2015 ... 29567 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151219.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
