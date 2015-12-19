@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5486",
+  "decision_date": "2015-12-19",
+  "title": "5015 sayılı Petrol Piyasası Kanununun 10 uncu maddesi uyarınca petrol piyasasında iki ay süreyle uygulanacak akaryakıt fiyatının tespitine ilişkin karar",
+  "categories": [
+    "Petrol Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=K3aw5fu/VzQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=K3aw5fu/VzQ="
+  ],
+  "source_sha256": "06e87066778b311d32f8f177d4dca713645fa0fd25385e4f1c23e6cc536b7036",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14725,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-19",
+  "law_text_complete": false
+}
