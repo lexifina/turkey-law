@@ -1,0 +1,2 @@
+Bütün tekliflerin reddedilmesi ve ihalenin iptali
+MADDE 26 – (1) Teklif Değerlendirme Komisyonunun teklifi ve ihale yetkilisinin onayı üzerine, verilmiş olan bütün teklifler reddedilerek ihale iptal edilebilir. İhalenin iptal edilmesi halinde, bu durum bütün isteklilere derhal bildirilir ve geçici teminatlar iade edilir. İhale Makamı bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. Ancak, isteklilerin talepte bulunması halinde, ihalenin iptal edilme gerekçeleri talep eden isteklilere bildirilir.

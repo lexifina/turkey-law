@@ -1,0 +1,5 @@
+Tekliflerin hesaplanması
+MADDE 24 – (1) Teklifler, Teklif Değerlendirme Planına göre Teklif Değerlendirme Komisyonunca puanlanarak değerlendirilir.
+(2) Teklif değerlendirme çalışmaları tamamlanmadan önce, kapsamı Teklif Değerlendirme Komisyonu tarafından belirlenmek üzere, isteklilerden bir kez en iyi ve en son tekliflerini vermeleri İhale Makamı tarafından yazılı olarak talep edilebilir. En iyi ve en son tekliflerin alınması halinde, toplam teklif puanları 20 nci maddede belirtilen esaslar çerçevesinde değerlendirilerek tekrar hesaplanır.
+(3) Yapılan değerlendirmeler sonucunda Teklif Değerlendirme Komisyonu tarafından hazırlanan Teklif Değerlendirme Raporu, ihale yetkilisinin onayına sunulur. Teklif Değerlendirme Raporunda isteklilerin adları veya ticaret unvanları, teklifleri, ihalenin tarihi ve tekliflerin hesaplanması sonucunda toplam teklif puanına göre en avantajlı teklifi verdiği belirlenen ilk üç isteklinin tekliflerine ilişkin gerekçeler ve ihale yapılmamış ise nedenleri belirtilir.
+(4) İhale yetkilisi tarafından onaylanan Teklif Değerlendirme Raporu, Sağlık Sanayi Geliştirme Komisyonuna sunulur.

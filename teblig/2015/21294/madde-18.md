@@ -1,0 +1,2 @@
+İhale işlem dosyası
+MADDE 18 – (1) İhale Makamı tarafından, ihalesi yapılacak her proje için bir ihale işlem dosyası düzenlenir. Bu dosyada, ihale onay belgesi ve eki yaklaşık maliyet hesap cetveli, ihale ve ön yeterlik dokümanı, ilân metinleri, aday ve istekliler tarafından sunulan başvurular ve teklifler ile aday ve isteklilere yapılan bildirimlere ilişkin tebligat ve alındı belgeleri, şikâyetler ve sonuçları, sözleşme suretleri ve diğer belgeler ile teklif değerlendirme tutanak ve kararları dahil, ihale süreciyle ilgili bütün belgeler bulunur.

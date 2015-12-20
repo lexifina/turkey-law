@@ -1,0 +1,9 @@
+SEKİZİNCİ BÖLÜM
+Sağlık Sanayi İşbirliği Programı Sözleşmelerinin Uygulanmasına İlişkin Esaslar
+Ön onay
+MADDE 29 – (1) Sağlık SİP Sözleşmesi ve eki Sağlık SİP Planında belirtilen Sağlık SİP faaliyetlerinin gerçekleştirilmesine yönelik herhangi bir işlem başlatılmadan önce veya faaliyete ilişkin değişiklik olması halinde, her bir Sağlık SİP faaliyeti için yüklenici tarafından Genel Müdürlüğe ek-2’de belirtilen formata uygun şekilde yazılı olarak ön onay başvurusu yapılır.
+(2) İlk ön onay başvurusu, yüklenici tarafından Sağlık SİP Sözleşmesinin imzalanmasını izleyen altmış gün içerisinde Genel Müdürlüğe verilmek zorundadır.
+(3) Ön onay başvurusu en geç otuz iş günü içerisinde Sağlık Proje Grubu tarafından değerlendirilir ve Başkanlıkça uygun bulunması halinde Genel Müdürlüğün onayına sunulur. Ön onay başvurusunun reddedilmesi halinde, ret kararı aynı süre içerisinde gerekçeleriyle birlikte yükleniciye yazılı olarak bildirilir ve başvurunun yenilenmesi istenir. Yeni ön onay başvurusu, ret kararının yazıldığı tarihi izleyen otuz gün içerisinde sunulmak zorundadır. Ön onay değerlendirme sonucu doksan gün içerisinde yükleniciye yazılı olarak bildirilmediği takdirde, başvuru reddedilmiş sayılır.
+(4) Bakanlık; ön onay başvurusunun üç kez yazılı olarak reddedilmesi halinde, hakemlik yapmak üzere ön onayla ilgili ihtilaf konusunu Sağlık Sanayi Geliştirme Komisyonuna havale eder. Sağlık Sanayi Geliştirme Komisyonunun kararına göre; Sağlık Ana Tedarik ve Sağlık SİP Sözleşmesi feshedilebilir veya alınan karar doğrultusunda ön onay işlemlerine devam edilir.
+(5) Ön onay başvurusu, gerekli hallerde süre, bedel, ürün, hizmet gibi hususlar bakımından sınırlandırılabilir.
+(6) Yazılı ön onay alınmadan ya da yenilenen ön onay başvurusu uygun görülmeden gerçekleştirilen faaliyetler, bu Tebliğ ve Sağlık SİP Sözleşmesinde yer alan diğer esaslara uygun olsa da Sağlık SİP faaliyeti olarak kabul edilmez ve kredilendirilmez.

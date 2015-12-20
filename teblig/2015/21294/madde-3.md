@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 13 üncü maddesinin birinci fıkrasının (f) bendi, 40 ıncı maddesi ile 50 nci maddesinin üçüncü fıkrasına ve 15/2/2015 tarihli ve 29268 sayılı Resmî Gazete’de yayımlanan 4734 Sayılı Kamu İhale Kanununun 3 üncü Maddesinin (U) Bendine Göre Yapılacak Mal ve Hizmet Alımlarına İlişkin Sanayi İşbirliği Programı Usul ve Esaslarına Dair Yönetmeliğe dayanılarak hazırlanmıştır.

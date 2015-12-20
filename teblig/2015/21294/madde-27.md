@@ -1,0 +1,10 @@
+YEDİNCİ BÖLÜM
+Yüklenici Seçimi ve Sözleşmelere İlişkin Esaslar
+Yüklenici seçimi
+MADDE 27 – (1) Sağlık Sanayi Geliştirme Komisyonunca tekliflerin müzakere edilmesi kararı alınması durumunda, müzakere sürecinin tamamlanmasını takiben Teklif Değerlendirme Komisyonu tarafından en avantajlı olduğu değerlendirilen teklif on iş günü içerisinde ihale yetkilisinin onayına sunulur. İhale yetkilisi, bu tarihten itibaren en geç beş iş günü içerisinde ihale kararını onaylar veya gerekçesini belirtmek suretiyle ihaleyi iptal eder.
+(2) Sağlık Sanayi Geliştirme Komisyonunca tekliflerin müzakere edilmesi kararı alınmadıkça, Teklif Değerlendirme Komisyonu tarafından en avantajlı olduğu değerlendirilen teklif on iş günü içerisinde ihale yetkilisinin onayına sunulur. İhale yetkilisi, bu tarihten itibaren en geç beş iş günü içerisinde ihale kararını onaylar veya gerekçesini belirtmek suretiyle ihaleyi iptal eder.
+(3) İhale; ana tedarike ilişkin teknik ve ekonomik yeterlik ile Sağlık SİP yeterliği açısından Teklif Değerlendirme Raporunda belirtilen üç istekli arasından en avantajlı teklifi veren isteklinin üzerinde bırakılır.
+(4) İhale sonucu, ihale kararının onaylandığı günü izleyen en geç üç iş günü içerisinde, ihale üzerinde bırakılan istekli dâhil olmak üzere ihaleye teklif veren bütün isteklilere bildirilir ve Bakanlığın internet sitesinde ilân edilir. İhale üzerinde bırakılan istekliye, ihale sonucunun tebliğ edildiği tarihi izleyen yirmi iş günü içerisinde kesin teminatı vermesi ve bu sürenin bitimini takiben sözleşmeleri imzalaması hususu bildirilir.
+(5) En avantajlı teklifi veren ikinci ve üçüncü isteklinin bulunması durumunda, bu isteklilerin geçici teminatları Teklif Değerlendirme Komisyonu tarafından sözleşmeler imzalanana kadar muhafaza edilir.
+(6) Teklif Değerlendirme Raporu, sözleşme konusu işin tamamlandığının yükleniciye bildirilmesinden itibaren en az beş yıl süreyle muhafaza edilir.
+(7) En avantajlı teklifi veren ilk üç istekli dışında kalan diğer isteklilerin teminatları yüklenici seçimi kararından itibaren yirmi iş günü içerisinde iade edilir.

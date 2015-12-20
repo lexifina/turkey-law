@@ -1,0 +1,7 @@
+Teklif Değerlendirme Komisyonunun kurulması ve çalışma esasları
+MADDE 19 – (1) İhale onayının alınmasını takiben, İhale Makamı bünyesinde, asil ve yedek üyelerden oluşan Teklif Değerlendirme Komisyonu kurulur.
+(2) Teklif Değerlendirme Komisyonu, ihale yetkilisinin onayıyla; biri başkan olmak üzere, mali ve hukuki alanlarda uzman iki personel, Sağlık Ana Tedarik Grubunun bir üyesi ve Sağlık Proje Grubunun teknik alanda uzman iki üyesinin katılımıyla en az beş ve tek sayıda kişiden oluşur.
+(3) İhale Makamında, ilgili alanlarda uzman, yeterli sayı veya nitelikte personel bulunmaması halinde, Bakanlığın başka birimlerinden veya diğer idarelerden Teklif Değerlendirme Komisyonuna üye alınabilir.
+(4) İhale işlem dosyasının birer örneği, gerekli incelemeyi yapmalarını sağlamak amacıyla, ihale onayını izleyen üç iş günü içerisinde, İhale Makamı tarafından Teklif Değerlendirme Komisyonu üyelerine verilir.
+(5) Teklif Değerlendirme Komisyonu üye tamsayısı ile toplanır. Komisyon kararları çoğunlukla alınır. Kararlarda çekimser kalınamaz. Komisyon başkanı ve üyeleri oy ve kararlarından sorumludur. Karşı oy kullanan komisyon üyeleri, gerekçesini komisyon kararına yazmak ve imzalamak zorundadır.
+(6) Teklif Değerlendirme Komisyonu teklif veya başvuru ekinde yer alan belgelerden gerekli gördüklerinin doğruluğunu, ilgili mercilerden teyit ettirebilir. Komisyon tarafından bu doğrultuda yapılan talepler, ilgili mercilerce ivedilikle karşılanır.

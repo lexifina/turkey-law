@@ -1,0 +1,3 @@
+Şikâyet
+MADDE 48 – (1) İhale sürecindeki işlem veya eylemlerin hukuka aykırılığı iddiasıyla, bu işlem veya eylemlerin farkına varıldığı veya farkına varılmış olması gereken tarihi izleyen günden itibaren on iş günü içerisinde ve sözleşmenin imzalanmasından önce Bakanlığa şikâyet başvurusu yapılabilir. Şikâyet başvurusu üzerine on iş günü içerisinde Bakanlık tarafından karar alınarak şikâyet başvurusu sahibine bildirilir. Şikâyet başvurusuna ilişkin kararın son bildirim tarihini izleyen tarihten itibaren yirmi iş günü geçmeden sözleşmeler imzalanamaz.
+(2) Bu Tebliğ kapsamındaki işlemlere karşı Kamu İhale Kurumuna itirazen şikâyet başvurusu yapılamaz.

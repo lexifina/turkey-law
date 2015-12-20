@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21294",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SAĞLIK HİZMETLERİ ALANINDA SANAYİ İŞBİRLİĞİ PROGRAMI UYGULAMALARI HAKKINDA TEBLİĞ",
+  "number": "21294",
+  "issuer": "Sağlık Bakanı",
+  "path": "teblig/2015/21294",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21294&MevzuatTertip=5",
+  "source_sha256": "eb3bc6732b0e5169d93c694e590c6a3dc818d192e549a1c366b25c0a7173cb67",
+  "source_bytes": 154353,
+  "published": "2015-12-20",
+  "gazette": "29568",
+  "in_force": "2015-12-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.12.2015); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10899,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21294-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

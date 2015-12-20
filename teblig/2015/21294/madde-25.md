@@ -1,0 +1,5 @@
+Müzakere
+MADDE 25 – (1) Sağlık Sanayi Geliştirme Komisyonu tarafından, Teklif Değerlendirme Raporu üzerinde yapılan değerlendirmeler sırasında raporda belirtilen en avantajlı teklif veren ilk üç istekli ile sözlü müzakere yapılmasına ilişkin karar alınabilir. Bu durumda; belirlenen istekliler, Sağlık Sanayi Geliştirme Komisyonu kararından itibaren on iş günü içerisinde müzakere yapılması amacıyla, İhale Makamı tarafından müzakereye davet edilir.
+(2) Müzakerede, Teklif Değerlendirme Komisyonu ile istekliler arasında isteklilerin Sağlık Ana Tedarike ilişkin teknik ve ekonomik teklifleri ile Sağlık SİP teklifleri görüşülür.
+(3) Üç istekliden herhangi biri, önceki teklifinden daha avantajlı olmak üzere teklifini yenilemek istediğinde, diğer isteklilere de on iş günü içerisinde tekliflerini yenileme hakkı verilir. En son teklifler dikkate alınarak on iş günü içerisinde müzakereler tamamlanır ve Teklif Değerlendirme Raporu nihai hale getirilerek ihale yetkilisinin onayına sunulur.
+(4) Sağlık SİP Sözleşmesi imzalanana kadar pazarlık ve müzakereye davet edilen tüm isteklilerin geçici teminat mektupları muhafaza edilir.

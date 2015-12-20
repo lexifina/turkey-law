@@ -1,0 +1,2 @@
+MADDE 39 – (1) Sağlık SİP taahhütleri kapsamında üniversiteler ve diğer kamu kurum ve kuruluşları bünyesindeki teknoloji ofislerine (teknokentler, teknoparklar gibi) verilecek Kategori-C kapsamındaki destek oranı, projenin özelliği dikkate alınarak Sağlık SİP şartnamesinde belirtilir.
+(2) Üniversiteler ve diğer kamu kurum ve kuruluşları bünyesindeki teknoloji ofislerine (teknokentler, teknoparklar gibi) verilecek Kategori-C kapsamındaki destek oranı, Sağlık SİP kredilendirme katsayı tablosunda belirlenen katsayılardan daha yüksek katsayı ile kredilendirilebilir.

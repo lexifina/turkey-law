@@ -1,0 +1,2 @@
+Tebligat
+MADDE 47 – (1) Bakanlık tarafından aday ve isteklilere yapılacak her türlü bildirim ve tebligat için, imza karşılığı elden veya 4734 sayılı Kanunun 65 inci maddesinin birinci fıkrasının (a) bendinde sayılan diğer yöntemlere başvurulabilir. Tebligatın haklı veya zorunlu nedenlerle belirtilen yöntemler kullanılarak yapılamaması halinde, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununun 7/a maddesinde sayılan yöntemlere başvurulabilir.

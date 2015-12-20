@@ -1,0 +1,5 @@
+Sağlık SİP için yeterlik şartları ve teminatlar
+MADDE 17 – (1) Sağlık Proje Grubu tarafından Sağlık SİP Şartnamesinde yer almak üzere Sağlık SİP yeterlik şartları belirlenirken Sağlık SİP uygulamasına ilişkin teknik yeterlikler, şirketlerin ekonomik ve malî kapasitelerine ilişkin hususlar, Sağlık SİP taahhütleri kapsamındaki iş deneyim belgeleri, alt yüklenicilere yaptırılabilecek işler ve alt yüklenicilere ilişkin bilgiler, şirketlerin istihdam edeceği teknik personele ilişkin hususları içeren bilgi ve belgeler dikkate alınır.
+(2) İsteklilerden teklif bedeli üzerinden alınan en az %3 oranında geçici teminat ile Sağlık Ana Tedarik Sözleşmesi bedelinin en az %6 oranında kesin teminata ilaveten; Sağlık SİP taahhüt oranını sağlayan bedel üzerinden en az %4 oranında kesin teminat alınır.
+(3) Sağlık Ana Tedarik Sözleşmesi ve Sağlık SİP Sözleşmesi kapsamında alınan kesin teminatlar, tüm Sağlık SİP taahhütlerinin tamamlanmasını takiben en fazla bir yıl boyunca ve Sosyal Güvenlik Kurumunca düzenlenmiş ilişiksizlik belgesi ibraz edilmedikçe serbest bırakılmaz.
+(4) Bakanlıkça hazırlanan standart forma aykırı olarak düzenlenmiş teminat mektupları geçerli kabul edilmez.

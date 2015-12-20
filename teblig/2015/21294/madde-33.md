@@ -1,0 +1,5 @@
+Takip ve denetim yetkisi
+MADDE 33 – (1) Sağlık Proje Grubu, Sağlık SİP taahhütlerini takip etme, taahhütlerin yerine getirilmesiyle ilgili olarak gerekli gördüğü her türlü bilgi ve belgeyi talep etme, yerinde denetim yapma veya yaptırma yetkisine sahiptir.
+(2) Sağlık Proje Grubu tarafından yapılan takip ve denetim neticesinde, Sağlık SİP taahhütlerine ilişkin aykırılıkların tespit edilmesi halinde, bu durum raporlanarak Genel Müdürlüğe sunulur ve yüklenici hakkında 36 ncı madde hükümleri uygulanır.
+(3) Sanayi işbirliğini gerçekleştiren firma, sanayi işbirliği yükümlülüğü ve sanayi işbirliği uygulamaları kapsamında gerçekleştirdiği veya gerçekleştireceği her türlü faaliyete ilişkin tüm belge, bilgi ve kayıtlarını ulusal ve uluslararası denetim ihtiyaçlarına cevap verebilecek nitelikte, uygun ve güvenilir şekilde, tüm sorumluluğu kendisine ait olmak üzere, talep halinde Başkanlık veya ilgili bağımsız denetim kuruluşuna temin etmekle yükümlüdür.
+(4) Sağlık SİP kapsamında üretilen ürünlerin ruhsatlandırma, denetim ve gözetim iş ve işlemlerinin ilgili kurum/kuruluşlar tarafından öncelikli değerlendirilmesi esastır.

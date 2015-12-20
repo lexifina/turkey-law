@@ -1,0 +1,3 @@
+Teklif değerlendirme planının hazırlanması
+MADDE 20 – (1) Teklifler alındıktan sonra, ancak açılmadan önce, Teklif Değerlendirme Komisyonu tarafından; Sağlık Ana Tedarik ve Sağlık SİP kapsamındaki teklif değerlendirme kriterleri, değerlendirme takvimi ve iş akışı, tekliflerin açılması ve puanlanması hususlarını içeren Teklif Değerlendirme Planı hazırlanır ve ihale yetkilisinin onayına sunulur. Teklif Değerlendirme Planında, ek-1’de yer alan Kriter Puanlama Yöntemi yer alır.
+(2) Teklif Değerlendirme Planının onaylanmasını takiben ve teklifler açılmadan önce, Teklif Değerlendirme Komisyonu tarafından, Başkanlıkça hazırlanan ve ek-1’de yer alan Kriter Puanlama Yöntemi kullanılır.
