@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5963-1",
+  "decision_date": "2015-12-22",
+  "title": "Akedaş Elektrik Dağıtım Anonim Şirketi ve Başkent Elektrik Dağıtım A.Ş.’nin Hedef Kayıp Oranı (HKO)",
+  "categories": [
+    "EDAŞ Hedef Kayıp Oranları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1EhepjmpDHI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1EhepjmpDHI="
+  ],
+  "source_sha256": "8e8491ffceb3c649aa5a512bc57d8830ade6f778861e88e744ef8d636354fcbc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 15926,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2015-12-22",
+  "law_text_complete": true
+}
