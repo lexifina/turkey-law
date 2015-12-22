@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41222",
+  "decision_date": "2015-12-22",
+  "source_id": 11271,
+  "chamber": "1",
+  "file_number": "39352",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11271/",
+  "source_sha256": "490f4101716571bb43cc5c9553d5d1d010bdc781ef7967d919f053ea9e157374",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
