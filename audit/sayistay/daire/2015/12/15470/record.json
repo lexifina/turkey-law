@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "63",
+  "decision_date": "2015-12-22",
+  "source_id": 15470,
+  "chamber": "8",
+  "ilam_number": "64",
+  "item_number": 8,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15470/",
+  "source_sha256": "404d7330bfc2eb4ad02cf86baefb90a3ed9b162a0c2b96928cc3e6f345f275aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
