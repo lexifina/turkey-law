@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "119",
+  "decision_date": "2015-12-22",
+  "source_id": 15410,
+  "chamber": "4",
+  "ilam_number": "59",
+  "item_number": 7,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15410/",
+  "source_sha256": "3c840bbf18b9c443438e85159cbadc08355bde301ec03f8b74420016c7252d9f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
