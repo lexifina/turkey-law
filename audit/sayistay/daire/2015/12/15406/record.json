@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "119",
+  "decision_date": "2015-12-22",
+  "source_id": 15406,
+  "chamber": "4",
+  "ilam_number": "59",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15406/",
+  "source_sha256": "30632a18f548a5b695f66d9202650714b151b91b213326d009ee38b480b1a8fb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
