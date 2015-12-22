@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "57",
+  "decision_date": "2015-12-22",
+  "source_id": 15365,
+  "chamber": "7",
+  "ilam_number": "63",
+  "item_number": 25,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15365/",
+  "source_sha256": "835c297a868030b97b635f09ba8bbb044a7016442ea909f628d352393af7101a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
