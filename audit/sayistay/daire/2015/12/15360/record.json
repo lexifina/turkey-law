@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "57",
+  "decision_date": "2015-12-22",
+  "source_id": 15360,
+  "chamber": "7",
+  "ilam_number": "63",
+  "item_number": 20,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15360/",
+  "source_sha256": "1746af8be1c86daf9567e87168bfa7f93391057de138f407f236375c141f5d6d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
