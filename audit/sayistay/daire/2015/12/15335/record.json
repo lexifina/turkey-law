@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "57",
+  "decision_date": "2015-12-22",
+  "source_id": 15335,
+  "chamber": "7",
+  "ilam_number": "63",
+  "item_number": 9,
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15335/",
+  "source_sha256": "2b9b78ac7ce6b356f786e9f355656c65c60714172e774ff7591929d76c8f3e53",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
