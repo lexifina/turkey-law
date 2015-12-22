@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "63",
+  "decision_date": "2015-12-22",
+  "source_id": 15490,
+  "chamber": "8",
+  "ilam_number": "64",
+  "item_number": 26,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15490/",
+  "source_sha256": "410c06111620bebefb14aa534da012a640b5f536f738528f3898ad8ffeb0a1b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
