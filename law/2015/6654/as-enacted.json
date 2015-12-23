@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6654",
+  "year": 2015,
+  "title": "2016 Yılı Merkezi Yönetim Geçici Bütçe Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2015-12-23",
+  "gazette_issue": "29571",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151223-1.htm",
+  "source_sha256": "9afe839fee21c60ab43376dd32a7d9f535c6ce62aab9021cb04cee2785e44b12",
+  "text_sha256": "2080edc5abd32e5db5ea9407dc79a076f70a5ff8f734c30171b33d73703aaf36",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2015/12/23/29571-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151223-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
