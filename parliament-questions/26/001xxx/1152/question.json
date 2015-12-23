@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 26,
+  "legislative_year": 1,
+  "esas_no": "7/1152",
+  "submitted": "2015-12-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Akın ÜSTÜNDAĞ",
+  "province": "Muğla",
+  "summary": "Muğla'nın Milas ilçesi Güllük Körfezi Pina Yarımadasında yaşanan yangın sonrasında başlatılan otel inşaatlarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-3339-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "29f9d75a237580b0dd6ab052eb21056e0f10ec3005a81e5edc956e7ae6b57d7e",
+  "in_force": "2015-12-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
