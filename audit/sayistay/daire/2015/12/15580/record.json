@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "278",
+  "decision_date": "2015-12-24",
+  "source_id": 15580,
+  "chamber": "3",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15580/",
+  "source_sha256": "b687cb23cd435784728dbd68e7943e08701e5465932dcf7ad25fbd581dcaa274",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
