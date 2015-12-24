@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5966/25",
+  "decision_date": "2015-12-24",
+  "title": "2016 yılı için Lisans sahibi bir tüzel kişinin bir takvim yılı içerisinde lisansına kayıtlı olan yıllık elektrik enerjisi üretim miktarının piyasada satabileceği oranı",
+  "resmi_gazete_date": "2015-12-31",
+  "resmi_gazete_number": "29579",
+  "categories": [
+    "Lisansa Kayıtlı Olan Yıllık Elektrik Enerjisi Üretim Miktarının Piyasada Satılabileceği Oranına İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CYmsEJjGKJY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CYmsEJjGKJY="
+  ],
+  "source_sha256": "668ec6aeadac83a48219cd336b54ba8bcc346b069ffe89ae0b6928b9f7506111",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33878,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-24",
+  "law_text_complete": false
+}
