@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.21304",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 464)",
+  "number": "21304",
+  "path": "teblig/2015/21304",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21304&MevzuatTertip=5",
+  "source_sha256": "6e19c6eb76253838f4ae2dac4febdf947b289dbdc5e577e91dea424d0a116847",
+  "source_bytes": 24230,
+  "published": "2015-12-24",
+  "gazette": "29572",
+  "in_force": "2015-12-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.12.2015)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1306,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
