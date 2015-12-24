@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "69",
+  "decision_date": "2015-12-24",
+  "source_id": 15950,
+  "chamber": "8",
+  "item_number": 3,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15950/",
+  "source_sha256": "f4df559b825789b8b938a56d0a15b50c5867b1f7aafe583be1041d7268d5b657",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
