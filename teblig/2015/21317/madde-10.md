@@ -1,0 +1,2 @@
+Bu Tebliğin Yürürlük Tarihinden Önce Satışı Yapılan Cihaz Bilgilerinin Kayıt İşlemleri
+MADDE 10 – Bu Tebliğin yürürlüğe girdiği tarihten önce satışı yapılmış olan YN ÖKC’lere ait “YN ÖKC Kayıt Listesi”, kullanıcı mükelleflere satışı yapılan cihazlara ait kayıt bilgileri ile “YN ÖKC Aktivasyon Listesi” bu cihazları imal ve ithal eden ödeme kaydedici cihaz firmalarınca, 1/3/2016 tarihine kadar bir defada ve toplu olarak ÖKC TSM Merkezlerinin ilgili ekranlarına girişi yapılarak GİB BS’ye gönderilecektir.

@@ -1,0 +1,2 @@
+Giriş
+MADDE 1 – 15/6/2013 tarihli ve 28678 sayılı Resmî Gazete'de yayımlanan 426 Sıra Numaralı Vergi Usul Kanunu Genel Tebliği ile kullanılma mecburiyeti getirilen yeni nesil ödeme kaydedici cihazların (YN ÖKC), Gelir İdaresi Başkanlığı Bilgi Sistemine (GİB BS) kaydı, kullanıcılara satışı ve satış sonrası servis ve benzeri işlemlerin elektronik ortamda yürütülmesine dair belirlenen usul ve esaslar bu Tebliğin konusunu oluşturmaktadır.

@@ -1,0 +1,4 @@
+Yeni Nesil Ödeme Kaydedici Cihazların Geçici Olarak Kullanım Dışı Bırakılması (Kapatılması)
+MADDE 7 – a) Mükellefler işi bırakma veya sair nedenlerle sahibi oldukları YN ÖKC’leri, ileride tekrar kullanmak veya satmak gibi amaçlarla kullanıma kapatmaları halinde, YN ÖKC’lerin kullanıma kapatma işlemleri ÖKC firmalarının yetkili servisleri tarafından yapılır.
+b) Yetkili servisler tarafından, kullanıma kapatma anına kadar YN ÖKC’de kayıtlı olan mükellef mali bilgilerini ihtiva eden son “Z” raporunun alınıp elektronik ortamda GİB BS’ye iletilmesi sağlanır. Bunu takiben ÖKC TSM Merkezinde tutulan “YN ÖKC Aktivasyon Listesi” ne kapatma şerhi düşülerek cihaz kullanıma kapatılır.
+c) Kullanıma kapatılan cihazın satılmak veya tekrar kullanılmak istenmesi halinde bu Tebliğin dördüncü ve beşinci maddelerinde belirtilen (alıcı mükellef sorgusu, aktivasyon ve benzeri) işlemler yapılır.
