@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.21309",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ (SERİ NO: 47)",
+  "number": "21309",
+  "path": "teblig/2015/21309",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21309&MevzuatTertip=5",
+  "source_sha256": "7348920021f15cde9e46ce90d04989cc8c53d8a3632d229eaa76ec799cca0d33",
+  "source_bytes": 65057,
+  "published": "2015-12-25",
+  "gazette": "29573",
+  "in_force": "2015-12-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.12.2015)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 709,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
