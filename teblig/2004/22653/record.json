@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.22653",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 334)",
+  "number": "22653",
+  "path": "teblig/2004/22653",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22653&MevzuatTertip=5",
+  "source_sha256": "3479b891d074f9038b3c974fa55950c16ff5b0ebd0db364dd0e9ce7d0bf79ca1",
+  "source_bytes": 15333,
+  "published": "2004-05-05",
+  "gazette": "25453",
+  "in_force": "2015-12-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/12/2015\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2015-12-25",
+      "RG-25/12/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 600,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
