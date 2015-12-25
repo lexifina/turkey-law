@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21305",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2016 YILINA AİT GENEL YATIRIM VE FİNANSMAN PROGRAMININ UYGULANMASINA İLİŞKİN USUL VE ESASLARIN BELİRLENMESİNE DAİR TEBLİĞ",
+  "number": "21305",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2015/21305",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21305&MevzuatTertip=5",
+  "source_sha256": "d1b007823a35ee9ee8ec46d5729842398a2346fa539ba86bc4f085bb6dba6472",
+  "source_bytes": 53150,
+  "published": "2015-12-25",
+  "gazette": "29573",
+  "in_force": "2015-12-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.12.2015); own commencement article: \"Bu Tebliğin 4 üncü, 10 uncu, 22 nci ve 23 üncü maddesi yayımı tarihinde, diğer maddeleri ise 1/1/2016 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğin 4 üncü, 10 uncu, 22 nci ve 23 üncü maddesi yayımı tarihinde, diğer maddeleri ise 1/1/2016 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3303,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21305-ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
