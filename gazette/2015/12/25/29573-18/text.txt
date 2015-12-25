@@ -1,0 +1,501 @@
+25 Aralık 2015 CUMA
+Resmî Gazete
+Sayı : 29573
+TEBLİĞ
+Maliye Bakanlığı (Gelir İdaresi Başkanlığı)’ndan:
+VERGİ USUL
+KANUNU GENEL TEBLİĞİ
+(SIRA NO: 462)
+Yetki
+MADDE 1 – 213 sayılı Vergi Usul Kanununun 5766 sayılı
+Kanunun 17 nci maddesi ile değişen mükerrer 242 nci maddesinin ikinci
+fıkrası ile Maliye Bakanlığı; elektronik defter, kayıt ve belgelerin
+oluşturulması, kaydedilmesi, iletilmesi, muhafazası ve ibrazı ile defter ve
+belgelerin elektronik ortamda tutulması ve düzenlenmesine ilişkin usul ve
+esasları belirlemeye, elektronik ortamda tutulmasına ve düzenlenmesine izin
+verilen defter ve belgelerde yer alması gereken bilgileri internet de dahil
+olmak üzere her türlü elektronik bilgi iletişim araç ve ortamında Maliye
+Bakanlığına aktarma zorunluluğu getirmeye, bilgi aktarımında uyulacak
+format ve standartlar ile uygulamaya ilişkin usul ve esasları tespit
+etmeye, Vergi Usul Kanunu kapsamına giren işlemlerde elektronik imza kullanım
+usul ve esaslarını düzenlemeye ve denetlemeye yetkili kılınmıştır.
+Söz konusu fıkrada, Vergi Usul Kanunu ve diğer
+vergi kanunlarında defter, kayıt ve belgelere ilişkin olarak yer alan
+hükümlerin elektronik defter, kayıt ve belgeler için de geçerli olduğu;
+Maliye Bakanlığının, elektronik defter, belge ve kayıtlar için diğer
+defter, belge ve kayıtlara ilişkin usul ve esaslardan farklı usul ve
+esaslar belirlemeye yetkili olduğu hükme bağlanmıştır.
+Aynı Kanunun 227 nci maddesinin birinci fıkrasında,
+aksine hüküm olmadıkça Vergi Usul Kanununa göre tutulan ve üçüncü
+şahıslarla olan münasebet ve muamelelere ait kayıtların tevsikinin mecburi
+olduğu; dördüncü fıkrasında da Maliye Bakanlığının, düzenlenmesi mecburi
+olan belgelerde bulunması gereken zorunlu bilgileri belirlemeye yetkili
+olduğu belirtilmiştir.
+Diğer taraftan, anılan Kanunun mükerrer 257 nci
+maddesinin birinci fıkrasının (1) numaralı bendinde Maliye Bakanlığının,
+Vergi Usul Kanununa göre tutulmakta olan defter ve belgeler ile bunlara
+ilaveten tutulmasını veya düzenlenmesini uygun gördüğü defter ve belgelerin
+mahiyet, şekil ve ihtiva etmesi zorunlu bilgileri belirlemeye, bunlarda
+değişiklik yapmaya, bu defter ve belgelere tasdik, muhafaza ve ibraz
+zorunluluğu getirmeye veya kaldırmaya, Vergi Usul Kanununa göre tutulacak
+defter ve düzenlenecek belgelerin tutulması ve düzenlenmesi zorunluluğunu
+kaldırmaya yetkili olduğu; (3) numaralı bendinde, tutulması ve düzenlenmesi
+zorunlu defter, kayıt ve belgelerin mikro film, mikro fiş veya elektronik
+bilgi ve kayıt araçlarıyla yapılması veya bu kayıt ortamlarında saklanması
+hususunda izin vermeye veya zorunluluk getirmeye, bu şekilde tutulacak
+defter ve kayıtların kopyalarının Maliye Bakanlığında veya muhafaza etmekle
+görevlendireceği kurumlarda saklanması zorunluluğu getirmeye; (4) numaralı
+bendinde ise Vergi Usul Kanununun 149 uncu maddesine göre devamlı bilgi
+vermek zorunda olanlardan istenilen bilgiler ile vergi beyannameleri ve
+bildirimlerin, şifre, elektronik imza veya diğer güvenlik araçları konulmak
+suretiyle internet de dâhil olmak üzere her türlü elektronik bilgi iletişim
+araç ve ortamında verilmesi, beyanname ve bildirimlerin yetki verilmiş
+gerçek veya tüzel kişiler aracı kılınarak gönderilmesi hususlarında izin
+vermeye veya zorunluluk getirmeye, beyanname, bildirim ve bilgilerin
+aktarımında uyulacak format ve standartlar ile uygulamaya ilişkin usul ve
+esasları tespit etmeye, bu zorunluluğu beyanname, bildirim veya bilgi
+çeşitleri, mükellef grupları ve faaliyet konuları itibarıyla ayrı ayrı
+uygulatmaya ilişkin usul ve esasları belirlemeye yetkili olduğu hükme
+bağlanmıştır.
+Söz konusu hükümlerin Maliye Bakanlığına verdiği
+yetkiye istinaden, hava yolu ile yurt içi veya yurt dışı yolcu taşımacılığı
+işi ile iştigal eden mükelleflerin, elektronik ortamda bilet düzenlemeleri,
+düzenledikleri e-Biletleri muhatabına iletmeleri ile bu belgeleri muhafaza
+ve ibraz etmelerine ilişkin usul ve esaslar bu Tebliğin konusunu oluşturmaktadır.
+Kapsam
+MADDE 2 – Bu Tebliğin kapsamına, hava yolu ile yurt içi veya
+yurt dışı yolcu taşımacılığı işi ile iştigal eden mükellefler girmektedir.
+Bu Tebliğ ile getirilen e-Bilet Uygulaması ihtiyari
+olup, kapsama giren mükellefler istemeleri ve Başkanlıkça kendilerine izin verilmesi
+halinde, e-Bilet Uygulamasından yararlanabileceklerdir.
+Tanımlar
+ve Kısaltmalar
+MADDE 3 – Bu Tebliğde geçen;
+Başkanlık: Gelir İdaresi Başkanlığını,
+Belge Numarası: Elektronik bilet seri ve sıra
+numarası yerine kullanılacak üç haneli birim kod ile on haneli sıra
+numarası olmak üzere on üç haneden oluşan numarayı,
+Bilgi İşlem Sistemi: Mükelleflerin belgeleri
+elektronik ortamda oluşturmak, kaydetmek, muhafaza etmek ve ilgili diğer
+işlemleri gerçekleştirmek amacı ile doğrudan ya da dolaylı olarak
+kullandıkları her türlü yazılım ve donanım ile saklama ortamlarını,
+Bilet: Hava yolu ile yapılan yolcu taşımacılığına
+ilişkin düzenlenen bileti,
+BİS Raporu: Bilgi İşlem Sistem Raporunu,
+Elektronik Belge: Şekil hükümlerinden bağımsız
+olarak Vergi Usul Kanununa göre düzenlenmesi zorunlu olan belgelerde yer
+alan bilgileri içeren elektronik kayıtlar bütününü,
+Elektronik Bilet (e-Bilet): Elektronik ortamda
+düzenlenen ve muhatabına elektronik veya kağıt ortamda teslim edilebilen
+bileti,
+Elektronik Bileti Temsil Eden Belge: Bilet
+muhteviyatını içeren mali değeri olmayan belgeyi,
+Elektronik Bilet Uygulaması (e-Bilet Uygulaması):
+Başkanlık tarafından belirlenen standartlara uygun olarak biletin
+elektronik ortamda oluşturulması, imzalanması, elektronik ortamda
+muhafazası, ibrazı ve raporlamasını kapsayan uygulamayı,
+Elektronik Bilet Raporu (e-Bilet Raporu): e-Bilet Uygulaması
+kapsamında Başkanlığın belirlediği veri formatı ve standardına uygun olarak
+hazırlanan ve elektronik sertifika ile imzalanan raporu,
+Elektronik Kayıt: Elektronik ortamda tutulan ve
+elektronik defter ve belgeleri oluşturan, elektronik yöntemlerle erişimi ve
+işlenmesi mümkün olan en küçük bilgi ögesini,
+Elektronik Saklama Hizmeti Veren Kurum: 14/12/2012
+tarihli ve 28497 sayılı Resmî Gazete’de yayımlanan Vergi Usul Kanunu Genel
+Tebliği (Sıra No: 421) kapsamında Başkanlıktan Saklama Hizmeti verme izni
+almış mükellefi,
+Elektronik Sertifika: Mali Mühür ve Nitelikli
+Elektronik Sertifikayı,
+Elektronik Sertifika ile İmzalama: Tüzel kişilerin
+mali mühürle onaylamasını, gerçek kişilerin ise nitelikli elektronik
+sertifika ile imzalamasını veya mali mühür ile onaylamasını,
+IATA : Uluslararası Hava Taşıyıcıları Birliğini,
+Mali Mühür: 5/3/2010 tarihli ve 27512 sayılı Resmî
+Gazete’de yayımlanan Vergi Usul Kanunu Genel Tebliği (Sıra No: 397)
+çerçevesinde Başkanlık için oluşturulan elektronik sertifika alt yapısını,
+Nitelikli Elektronik Sertifika (NES): 5070 sayılı
+Elektronik İmza Kanununun dokuzuncu maddesinde tanımlanan ve yalnızca
+gerçek kişi mükelleflerce kullanılabilen elektronik sertifikayı,
+Özel Entegratör: Vergi Usul Kanunu Genel Tebliği
+(Sıra No: 421) kapsamında Başkanlıktan özel entegrasyon izni almış
+mükellefi,
+TCKN: Türkiye Cumhuriyeti Kimlik Numarasını,
+TÜBİTAK-BİLGEM/KAMU SM: Türkiye Bilimsel ve
+Teknolojik Araştırma Kurumu-Bilişim ve Bilgi Güvenliği İleri Teknolojiler
+Araştırma Merkezi/Kamu Sertifikasyon Merkezini,
+VKN: Vergi Kimlik Numarasını,
+Zaman Damgası: Bir elektronik verinin üretildiği,
+değiştirildiği, gönderildiği, alındığı ve/veya kaydedildiği zamanın tespit
+edilmesi amacıyla elektronik sertifika hizmet sağlayıcısı tarafından
+doğrulanan kaydı,
+ifade eder.
+Başvuru
+Şartları ve Uygulamadan Yararlanma Yöntemleri
+MADDE 4 – e-Bilet düzenlemek isteyen mükelleflerin;
+a) Vergi Usul Kanunu Genel Tebliği (Sıra No: 397)
+kapsamında getirilen e-Fatura Uygulamasından yararlanma iznine sahip
+olmaları,
+b) Bu Tebliğde açıklanan usul ve esaslara uygun
+olarak, e-Biletleri düzenleyebilme ve e-Biletleri sunabilme konusunda hazırlıklarını
+tamamlamış olmaları,
+c) Bu Tebliğin 10 uncu maddesinde belirlenen
+raporlama gereksinimlerinin karşılanması hususunda gerekli altyapı ve
+hazırlıklarını tamamlamış olmaları,
+gerekmektedir.
+Mükellefler e-Bilet Uygulamasından, kendi bilgi
+işlem sistemleri üzerinden veya Başkanlıktan izin almış özel
+entegratörlerin bilgi işlem sistemleri üzerinden olmak üzere iki yöntemle
+yararlanabileceklerdir.
+Yukarıda yer alan şartları taşıyan ve uygulamayı kendi
+bilgi işlem sistemi üzerinden kullanarak bu Tebliğ kapsamında e-Bilet
+oluşturmak, e-Bilet sunmak, muhafaza ve ibraz etmek isteyen mükelleflerin,
+başvuru işlemlerini Gelir İdaresi Başkanlığının “www.efatura.gov.tr”
+internet adresinde yayımlanan “Elektronik Bilet Başvuru Kılavuzu”na uygun
+olarak yerine getirmeleri gerekmektedir.
+e-Bilet uygulamasını Başkanlıktan e-Bilet izni
+almış özel entegratörlerin bilgi işlem sistemi üzerinden kullanmak isteyen
+mükellefler, doğrudan özel entegratöre başvuracak olup ayrıca Başkanlığa
+başvuruda bulunmalarına gerek bulunmamaktadır.
+Değerlendirme
+ve İzin
+MADDE 5 – e-Bilet uygulamasını kendi bilgi işlem sistemi
+üzerinden kullanmak için Başkanlığa yapılan başvurular; mükellefe ait
+sistemin yapısı, işleyişi ile bu sistemde elektronik olarak düzenlenen
+e-Bilet ve e-Bilet Raporu örneklerinin, bu Tebliğde ve www.efatura.gov.tr
+internet adresinde yayımlanan “Elektronik Bilet Teknik Kılavuzu” nda
+belirlenen usul ve esaslara uygun olup olmadığı açısından
+değerlendirilecektir. Başkanlık gerek görmesi halinde ilave teknik bilgi ve
+belge talebinde bulunabilecektir.
+Başkanlıkça yapılacak değerlendirme sonrasında
+başvuruları uygun bulunan mükelleflere bir yazı ile e-Bilet Uygulamasından
+yararlanma izni verilecektir.
+Değerlendirme aşamasında eksiklikleri tespit edilen
+mükelleflere, söz konusu eksiklikleri gidermeleri için yazı ile bir yıl
+süre verilir. Bu süre içerisinde eksikliklerini gidermeyen mükelleflerin
+başvuruları reddedilir.
+Başvuruları reddedilen mükelleflerin reddi izleyen
+altı ay içerisinde yapacakları başvurular kabul edilmeyecektir. Bu durum,
+mükelleflerin e-Bilet Uygulaması kapsamında özel entegratörlük izni alan
+mükellefler vasıtasıyla e-Bilet Uygulamasından yararlanmalarına engel
+teşkil etmez.
+Özel
+Entegratörlük Hizmeti Verenler
+MADDE 6 – e-Bilet uygulamasından yararlanan ve
+düzenledikleri e-Biletleri muhatabına elektronik ortamda iletmeyi tercih
+eden mükelleflerin, düzenledikleri e-Biletleri ve e-Bilet raporlarını
+elektronik sertifika ile imzalamaları esastır. Başkanlıktan e-Bilet Uygulaması
+kapsamında özel entegratörlük izni alan mükellefler; bu Tebliğ kapsamında
+e-Bilet düzenlemeyi ve muhatabına elektronik ortamda iletmeyi isteyen
+mükelleflere; elektronik ortamda e-Bilet ve e-Bilet raporu oluşturma,
+elektronik sertifika ile imzalama, zaman damgası kullanma ve oluşturulan
+e-Bileti bu Tebliğin 7 nci maddesine uygun olarak elektronik veya kağıt
+ortamda alıcısına, e-Bilet raporlarını ise Başkanlığa iletme hizmeti
+verebilirler.
+Özel entegratörlerin bu hizmeti verebilmesi için
+Başkanlıktan ayrıca e-Bilet özel entegratörlüğü izni alması gerekmektedir.
+Bu izni alabilmek için gerekli koşullar www.efatura.gov.tr internet
+adresinde yayımlanan “e-Fatura Uygulaması Özel Entegrasyon Kılavuzu”nda yer
+almaktadır.
+Başkanlıktan izin alan özel entegratörler, anlaşma
+yaptıkları mükelleflere ilişkin bilgileri Başkanlık sistemine yüklemeleri
+ve www.efatura.gov.tr internet adresinde yayımlanan “e-Fatura Uygulaması
+Özel Entegrasyon Kılavuzu”nda açıklanan mesaj yapısına uygun onayı almaları
+halinde e-Bilet hizmeti vermeye başlayabileceklerdir.
+Başkanlıktan e-Bilet izni alan özel entegratörler,
+hizmet verdikleri mükelleflere ait e-Bilet bilgilerini e-Bilet oluşturma,
+imzalama, raporlama ve gönderme amacı dışında kullanamaz ve işleme taraf
+olanların yazılı izni olmaksızın üçüncü kişilerle paylaşamazlar. Özel
+entegratörler bu faaliyetleri kapsamında elde ettiği ticari sır
+niteliğindeki e-Bilet bilgilerinin güvenliğinden ve gizliliğinden
+sorumludurlar. Bu amaca aykırı olarak işleme taraf olmayan üçüncü kişilerle
+e-Bilet bilgilerini paylaştığı tespit olunan özel entegratörlerin, diğer
+kanunların öngördüğü cezai sorumlulukları dışında ayrıca Başkanlık
+tarafından özel entegratörlük izinleri iptal edilebilir.
+Elektronik
+Biletin Düzenlenmesi ve Teslimi
+MADDE 7 – 1.
+Elektronik Biletin Düzenlenmesi
+e-Biletlerin elektronik ortamda düzenlenmesi,
+muhafaza ve ibraz edilmesi esastır.
+Kullanılan e-Bilet formatı; üzerinde mali mühür/NES
+taşımaya, belge üzerinde doğrulamaya, görüntülemeye ve kâğıt baskı almaya
+imkân veren genel tanınırlığa sahip bir format olmalıdır.
+Hava yolu firmaları, elektronik ortamda
+düzenleyecekleri biletlerde, seri-sıra numarası yerine üç haneli birim kod
+ve on haneli sıra numarası olmak üzere toplam on üç haneden oluşan belge
+numarasını kullanacaklardır. Birim kodu, belgeyi düzenleyecek birim için
+belirlenecek alfa nümerik bir koddur. Mükellefler BİS raporunda yer vermek
+şartıyla, organizasyon yapıları içerisinde ihtiyaçlarına göre birim
+kodlarını serbestçe belirleyebileceklerdir.
+Hava yolu firmalarının IATA nezdindeki kod numarası ile başlayan
+toplam on üç haneli bilet numarası da belge numarası yerine
+kullanılabilecektir.
+e-Biletin kâğıt çıktısının birden fazla sayfaya
+taşması durumunda, her sayfada toplam sayfa sayısı ile birlikte sayfa
+numarası gösterilmesi koşuluyla aynı belge numarası kullanılacaktır.
+2.
+Elektronik Biletin Elektronik Ortamda Teslimi
+Hava yolu firmaları istemeleri halinde, elektronik
+ortamda oluşturdukları e-Biletleri
+muhatabına elektronik sertifika ile imzalanmış olarak elektronik
+ortamda teslim edebileceklerdir. Bu imkandan yararlanmak isteyen mükelleflerin
+Başkanlıktan elektronik ortamda iletim izni almaları gerekmektedir.
+Başkanlıktan elektronik ortamda iletim izni alan
+hava yolu firmaları muhatabı tarafından istenilmesi halinde, düzenledikleri
+e-Bileti ya da bunu temsil eden belgeyi kağıt olarak teslim edeceklerdir.
+e-Biletin ya da bunu temsil eden mali değeri bulunmayan kağıt çıktının
+muhatabına verilmesi halinde bunun ayrıca imzalanıp kaşelenmesine gerek
+bulunmamaktadır. Temsil eden belgenin verilmesi, e-Bilet izni alan hava
+yolu firmalarının yolcuya e-Bileti kağıt baskısı alınabilecek şekilde
+elektronik araç veya ortamlar vasıtasıyla sunma zorunluluğunu ortadan
+kaldırmamaktadır.
+3.
+Elektronik Biletin Kağıt Ortamında Teslimi
+Hava yolu firmaları istemeleri halinde, elektronik
+ortamda oluşturdukları e-Biletleri, muhatabına kağıt ortamda teslim
+edebileceklerdir. Bu imkandan yararlanmak isteyen mükelleflerin
+Başkanlıktan kağıt ortamda iletim izni almaları gerekmektedir.
+Söz konusu e-Biletlerin kağıt ortamda teslim
+edilmesi halinde hava yolu firmalarınca ayrıca elektronik sertifika ile imzalanmasına
+gerek bulunmamaktadır. Bu şekilde teslim edilen biletlerin muhatabı
+tarafından 213 sayılı Vergi Usul Kanunu uyarınca tevsik edici belge olarak
+kullanılabilmesi için hava yolu firmaları tarafından kaşe/damga tatbik
+edilmesi; acenteler tarafından ise kaşe/damga tatbik edilmesi ve
+imzalanması gerekmektedir.
+Hava Yolu
+Biletinde Bulunması Gereken Bilgiler
+MADDE 8 – e-Bilet düzenleme izni alan hava yolu firmalarının
+düzenleyecekleri e-Biletlerde, en az aşağıda yer alan bilgilerin bulunması
+zorunludur.
+1. Hava yolu firmasının unvanı,
+2. Yolcunun adı-soyadı,
+3. Belge numarası,
+4. Düzenlenme tarihi,
+5. Yapılan hizmetin nevi ve tutarı,
+6. Ödeme türü (Nakit/Kredi kartı/Banka
+kartı/Havale/Promosyon ve benzeri)
+Mükellefler bilet üzerinde zorunlu bilgilere ilave
+olarak ihtiyaçları doğrultusunda farklı bilgilere de yer verebileceklerdir.
+Elektronik
+Bilet Bedelinin Gider Kaydedilmesi ve Düzenlenecek e-Biletlerde Katma Değer
+Vergisi Uygulaması
+MADDE 9 –
+1. Hava Yolu Firmaları Tarafından Yapılan Satışlar
+Hava yolu firmaları tarafından yapılan satışlarda
+yolcu bilgilerinin kaydedildiği aşamada yolcu tarafından talep edilmesi
+halinde, yolcu bilgilerine ilaveten hesabına yolculuk yaptıkları
+mükellefin; yolcu ile hesabına yolculuk yapılan mükellefin aynı kişi olması
+durumunda yolcunun adı-soyadı/unvanı ve VKN/TCKN bilgileri de e-Bilet üzerinde
+gösterilecektir. Hava yolu firmalarının şube, çağrı merkezleri ve internet
+şubeleri aracılığıyla satışı yapılan biletler için de yukarıda izah
+edildiği şekilde işlem yapılacaktır.
+2.
+Acenteler Aracılığıyla Yapılan Satışlar
+e-Biletin Türkiye’de mükellefiyeti bulunan
+acenteler tarafından düzenlenmesi durumunda söz konusu acenteler, e-Bilet
+üzerinde yolcu bilgilerine ilave olarak kendilerine ait mükellefiyet
+bilgilerine ya da IATA nezdinde kendileri için oluşturulmuş bilgilere yer
+vererek yolcuya e-Bilet muhteviyatını da içeren bir fatura
+düzenleyeceklerdir. Bu fatura üzerinde yolcu bilgilerine ilaveten yolcu
+tarafından talep edilmesi halinde hesabına yolculuk yapılan mükellef
+bilgilerine de yer verilecektir.
+Acente tarafından düzenlenen ve e-Bilet
+muhteviyatını da içeren fatura, yolcu veya hesabına yolculuk yapılan
+mükellef tarafından; üzerinde acente bilgilerini de ihtiva eden e-Bilet ise
+acente tarafından gider/indirim konusu yapılacaktır.
+3. Bilet
+Bedelinin Gider Kaydedilmesi
+Hava yolu firmalarınca düzenlenen e-Biletler,
+Başkanlıkça kendilerine izin verilen iletim şekline uygun olarak
+muhatapları tarafından muhafaza ve ibraz edilmesi halinde, Vergi Usul
+Kanunu hükümlerine göre tevsik edici belge (bu Tebliğin 13 üncü maddesinin
+(e) bendinde belirtilen durumlar hariç) olarak kabul edilecektir.
+Muhatabı tarafından gider gösterilecek veya
+indirime konu edilecek e-Biletlerin yasal saklama süresince bu Tebliğin 7
+nci maddesinde açıklanan teslim şekline uygun olarak muhafaza ve ibraz
+edilmesi gerekmektedir. Elektronik iletim izni alan hava yolu firmalarınca
+düzenlenen e-Biletin kağıt çıktısı da e-Fatura uygulamasına dahil olmayanlar
+tarafından elektronik ortamdaki aslına uygun olmak koşuluyla, Vergi Usul
+Kanunu hükümlerine göre tevsik edici belge olarak kullanılabilecektir. Bu
+durumda söz konusu e-Bilet çıktısının ayrıca imzalanmasına kaşe/damga
+tatbik edilmesine gerek bulunmamaktadır.
+4.
+Düzenlenecek Elektronik Biletlerde Katma Değer Vergisi Uygulaması
+Hava yolu firmaları, katma değer vergisine tabi
+olan işlemleri için bilette yer alan tutardan matraha dahil olmayan
+unsurları ayrıştırdıktan sonra iç yüzde yoluyla katma değer vergisi
+hesaplayıp beyan edeceklerdir.
+Hava yolu taşımacılığı hizmetinden yararlanan
+mükellefler ise 3065 sayılı Katma Değer Vergisi Kanununun 29 ve müteakip
+maddelerinde düzenlenen vergi indirimine ilişkin hükümlere bağlı kalmak
+şartıyla, bu maddede belirtilen şekilde hesaplanan katma değer vergisini
+indirim konusu yapabileceklerdir.
+Katma Değer Vergisi Kanunu hükümleri çerçevesinde
+katma değer vergisinden istisna olan yurt dışı taşımalara ait e-Biletlerde
+katma değer vergisinin hesaplanmayacağı tabiidir.
+Raporlama
+MADDE 10 – e-Bilet izni alan mükellefler ve e-Bilet hizmeti
+verme konusunda Başkanlıktan izin alan özel entegratörler; elektronik
+ortamda oluşturdukları biletlere ilişkin olarak, Başkanlığın
+www.efatura.gov.tr internet adresinde yayımlanan “Elektronik Bilet Teknik Kılavuzu”nda
+yer alan veri formatı ve standardına uygun, aylık “e-Bilet Raporu”nu ait
+olduğu ayı takip eden ayın 15 inci günü saat 24:00’e kadar elektronik
+sertifika ile zaman damgalı olarak imzalamak ve Başkanlık sistemine
+yüklemek zorundadırlar.
+Herhangi bir kesinti veya sistem arızası nedeni ile
+raporlar Başkanlık sistemine yüklenemez ise, söz konusu raporların
+yüklenilmesini engelleyen kesinti veya arıza durumunun ortadan kalkmasını
+takiben raporlar Başkanlık sistemine yüklenecektir. Raporların süresinde
+yüklenememesi durumunu gerekçeleriyle açıklayan bir yazı beş iş günü
+içerisinde Başkanlığa gönderilecektir. Söz konusu işlem istisnai bir
+uygulama olup süreklilik arz etmesi halinde e-Bilet izni iptal
+edilebilecektir.
+Raporlama gereklerinin yerine getirilmiş olması,
+mükellefin söz konusu belgeleri muhafaza ve ibraz ödevlerini ortadan
+kaldırmamaktadır.
+e-Biletlerin, daha sonra iptal edilmesi ya da
+üzerlerinde değişiklik yapılması durumunda iptal veya değişikliğe ilişkin
+bilgilere, bu işlemlerin yapıldığı döneme ait “e-Bilet Raporu”nda yer
+verilmesi zorunludur.
+Başkanlık, gerekli görmek ve önceden haber vermek
+koşuluyla e-Bilet raporlarına ilişkin veri formatı ve standartlarında
+değişiklik yapabileceği gibi raporların iletim şeklini ve süresini de
+değiştirebilir.
+Muhafaza
+ve İbraz Yükümlülüğü
+MADDE 11 – e-Bilet oluşturma izni alan mükelleflerin
+düzenlemiş oldukları biletlerini aşağıda yer alan koşullara göre muhafaza
+ve ibraz etmeleri gerekmektedir.
+a) e-Bilet izni alan mükellefler, oluşturdukları
+e-Biletlerini ve raporlarını birbirleriyle ilişkili şekilde, vergi kanunları
+ve diğer kanuni düzenlemelerin öngörmüş olduğu süreler dâhilinde muhafaza
+ve istenildiğinde ibraz etmekle yükümlüdür.
+b) e-Bilet uygulamasından yararlanan mükellefler,
+uygulama kapsamında düzenledikleri e-Biletlerini ve e-Bilet raporlarını
+kendilerine ait bilgi işlem sistemlerinde muhafaza edebilecekleri gibi,
+Başkanlıktan elektronik saklama izni alan mükelleflerin bilgi işlem
+sistemlerinde de muhafaza edebilirler.
+c) Başkanlıktan saklama izni alan mükelleflerden
+elektronik saklama hizmetinin alınması mükelleflerin e-Bilet ve
+raporlarının muhafaza ve ibraz sorumluluğunu ortadan kaldırmaz.
+ç) Muhafaza ve ibraz yükümlülüğü, e-Bilet ile
+ilişkili raporların doğruluğuna, bütünlüğüne ve değişmezliğine ilişkin her
+türlü elektronik veri, veri tabanı dosyası, saklama ortamı veya doğrulama
+ve görüntüleme araçlarını kapsamaktadır.
+d) e-Bilet kâğıda basılabilen nüshaları ile aynı
+içerikte ve istenildiğinde aynı görüntüde basılabilecek şekilde
+saklanmalıdır.
+e) Muhafaza edilen e-Biletin yetkililerce sorgulanması,
+görüntülenmesi ve kâğıt çıktılarının alınması sırasında kullanılacak
+anahtarlardan birisinin belge numarası olması zorunludur.
+f) e-Bilet ve raporlarının Türkiye Cumhuriyeti
+sınırları içerisinde ve Türkiye Cumhuriyeti Kanunlarının geçerli olduğu
+alanlarda muhafaza edilmesi zorunludur. Bu zorunluluk, yurt dışında ikincil
+bir arşivleme yapılmasına engel teşkil etmez. Başkanlık e-Bilet
+uygulamasından yararlanmak için başvuran mükelleflerin gerekçeli talebi
+üzerine bu madde hükmünün uygulanmasında farklı usul ve esas
+belirleyebilir.
+Sorumluluk
+ve Cezai Müeyyideler
+MADDE 12 – e-Bilet oluşturma izni alan mükelleflerden bu
+Tebliğde ve Elektronik Bilet Teknik Kılavuzunda yer alan usul ve esaslara
+aykırı biçimde e-Bilet ve bunlara ait raporları düzenleyenler hakkında,
+işledikleri fiilin türüne göre Vergi Usul Kanununda öngörülen cezalar
+uygulanır.
+e-Bilet raporlarının süresinde hazırlanmaması,
+hazırlanan raporların elektronik sertifika ile zaman damgalı olarak
+imzalanmaması, raporlar ile ilişkili oldukları biletlere ait bilgiler
+arasında uyumsuzluk bulunması halinde mükellefler ve özel entegratörler
+tarafından konu ile ilgili haklı bir mazeret sunulamaması durumunda
+Başkanlık verilen izni iptal edebilir.
+e-Bilet uygulaması kapsamında hizmet verme izni
+iptal edilen özel entegratörler bu konuda hizmet verdiği mükellefleri
+uyarmak zorundadır. İzni iptal edilen özel entegratörden e-Bilet hizmeti
+alan mükellefler başka bir özel entegratörle anlaşmak veya genel hükümler
+çerçevesinde anlaşmalı matbaa işletmelerine bastırdıkları belgeleri kullanmak
+zorundadırlar. Bu durum, e-Bilet Uygulamasını kendi bilgi işlem sistemi
+üzerinden kullanma yöntemine engel teşkil etmemektedir.
+e-Bilet uygulamasını kendi bilgi işlem sistemi
+üzerinden kullanmak üzere izin alan mükelleflerden izinlerinin iptal
+edildiği kendisine bildirilenler, bildirimin yapıldığı tarihten itibaren 1
+yıl süre ile uygulamayı kendi bilgi işlem sistemleri üzerinden kullanmak
+üzere başvuru yapamazlar. Bu mükellefler Başkanlıktan izin alan özel
+entegratörlerden e-Bilet hizmeti almak ya da genel hükümler çerçevesinde
+anlaşmalı matbaa işletmelerine bastırdıkları belgeleri kullanmak
+zorundadırlar.
+e-Bilet uygulamasına geçen mükellefler bu Tebliğin
+13 üncü maddesinin (e) bendinde belirtilen durumlar haricinde biletlerini
+kağıt ortamında düzenleyemeyeceklerdir.
+Diğer
+Hususlar
+MADDE 13 – a) e-Bilet uygulamasını kendi sistemi üzerinden
+kullananlar, bilete ait elektronik kayıtların bozulması, silinmesi, zarar
+görmesi, işlem görememesi halleri ile olağanüstü durumların meydana gelmesi
+halinde, durumu Başkanlığa on beş gün içinde bildirerek bu kayıtları nasıl
+tamamlayacağına ilişkin ayrıntılı bir plan sunmak zorundadır.
+b) e-Bilet uygulamasını kendi sistemi üzerinden
+kullananlar, bilgi işlem sistemlerini oluşturan donanımların bir kısmının
+veya tamamının haczedilmesi veya yetkili mercilerce el konulması halinde,
+durumu en geç üç iş günü içerisinde Başkanlığa bildirmek zorundadır.
+c) e-Bilet uygulamasını kendi sistemi üzerinden
+kullananlar, bilgi işlem sistemini oluşturan yazılım, donanım, dosya,
+dokümantasyon ve benzeri unsurları, hiçbir şekilde kısmen veya tamamen
+vergi inceleme elemanlarının veya Başkanlıkça görevlendirilecek personelin
+erişimini ve denetlemesini engelleyecek bir sözleşme veya lisansa konu
+edemezler.
+ç) e-Bilet uygulamasını kendi sistemi üzerinden
+kullananlar, Başkanlığın talebi üzerine belgelere ait bilgilerin
+oluşturulması veya muhafazası sırasında kullanılan donanımların bulunduğu
+adres veya adreslerde inceleme ve tespit yapılabilmesi için gerekli olacak
+her türlü teknik ve fiziksel imkanı (uygun donanım ve yazılımlar, terminallere
+ulaşım izinleri ve uzman personel gibi) sunmak zorundadır.
+d) e-Bilet uygulamasını kendi sistemi üzerinden
+kullananların ve izin alan özel entegratörlerin, Defterdarlık veya Vergi
+Dairesi Başkanlıkları ile anlaşmalı matbaa işletmeciliği sözleşmesi yapma
+zorunlulukları bulunmamaktadır. e-Bilet izni kapsamında düzenlenmeyen
+belgeler ile başka mükelleflere ait belgeler bu kapsamın dışındadır.
+e) Bu Tebliğ uyarınca e-Bilet düzenleme yetkisi
+bulunan mükelleflerin, sistemlerinde arıza veya kesinti meydana gelmesi
+durumlarında; e-Bilet yerine IATA kurallarına uygun ya da genel hükümler
+çerçevesinde kağıt ortamında bilet düzenlemek zorundadırlar. Bu şekilde bilet düzenlemek istisnai bir
+uygulama olup süreklilik arz etmesi halinde verilen izin iptal edilebilecektir.
+IATA kurallarına uygun olarak kağıt veya basılı bilet kullanılması
+durumunda söz konusu biletlere ilişkin raporlama yükümlülüğü bu Tebliğin 10
+uncu maddesinde belirlenen esaslar çerçevesinde yerine getirilir.
+f) Başkanlık, ilgilisine bilgi vermek suretiyle,
+izin isteyen mükelleflerin başvurularının yanıtlanmasını belli bir süre
+erteleyebilir, başvurularını sıraya koyabilir.
+g) Başkanlık, önceden haber vermek ve hazırlıklar
+için yeterli zaman tanımak kaydıyla, bilet düzenleme ile ilgili zorunluluk
+getirebileceği gibi uluslararası standartlara uyma zorunluluğu da
+getirebilir.
+ğ) Bu Tebliğ uyarınca e-Bilet düzenleme izni alan
+mükellefler, bagaj ücreti, cezalar, ücret iadesi ve benzeri işlemleri için
+de e-Bilet düzenleyeceklerdir.
+h) Bu Tebliğin 8 inci maddesindeki şartları taşıyan
+biletler tutarına bakılmaksızın fatura yerine geçen belge olarak kabul
+edilecektir.
+ı) Başkanlık gerek görmesi halinde bu Tebliğ
+kapsamındaki hava yolu biletinde bulunması gereken bilgilerde değişiklik
+yapabilir.
+i) Bu Tebliğin 4 üncü maddesinin (a) bendinde
+belirtilen zorunluluk Türkiye’de tam mükellef olmayan hava yolu firmaları
+için aranmayacaktır.
+j) IATA üyesi olmayan hava yolu firmaları da
+istemeleri halinde bu Tebliğ hükümlerinden yararlanabilecektir.
+k) Türkiye’de faaliyette bulunan dar mükellef hava
+yolu firmalarının, sadece Türkiye'de elde edilmiş sayılan hasılatlarını
+içeren biletleri bu Tebliğ kapsamındadır.
+l) Başkanlık gerek görmek ve önceden haber vermek
+kaydıyla, e-Biletlerin elektronik sertifikayla imzalanması ve elektronik
+ortamda iletilmesi zorunluluğunu getirebilir.
+Yürürlükten
+Kaldırılan Tebliğ Hükümleri
+MADDE 14 – 5/5/2004 tarihli ve 25453 sayılı Resmî Gazete’de
+yayımlanan Vergi Usul Kanunu Genel Tebliği (Sıra No: 334)’nin “I. Hava Yolu
+Taşımacılığında Kullanılan Yolcu Biletleri” başlıklı bölümü yürürlükten
+kaldırılmıştır.
+Yürürlük
+MADDE 15 – Bu Tebliğin 14 üncü maddesi 1/7/2016 tarihinde,
+diğer maddeleri yayımı tarihinde yürürlüğe girer.
+Tebliğ olunur.
