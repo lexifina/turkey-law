@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.21310",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERASET VE İNTİKAL VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 47)",
+  "number": "21310",
+  "path": "teblig/2015/21310",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21310&MevzuatTertip=5",
+  "source_sha256": "7ed6538fcdd786dc0d42711d6a3a1e5c39747c0dd9b165aa42aefe5e44d5bb38",
+  "source_bytes": 17363,
+  "published": "2015-12-25",
+  "gazette": "29573",
+  "in_force": "2015-12-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.12.2015)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 333,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
