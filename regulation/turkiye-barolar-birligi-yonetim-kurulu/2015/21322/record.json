@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.21322",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİR AVUKAT YANINDA, AVUKATLIK ORTAKLIĞINDA VEYA AVUKATLIK BÜROSUNDA ÜCRET KARŞILIĞI BİRLİKTE ÇALIŞAN AVUKATLARIN ÇALIŞMA ESASLARINA İLİŞKİN YÖNETMELİK",
+  "number": "21322",
+  "issuer": "Türkiye Barolar Birliği Yönetim Kurulu",
+  "issuer_slug": "turkiye-barolar-birligi-yonetim-kurulu",
+  "path": "regulation/turkiye-barolar-birligi-yonetim-kurulu/2015/21322",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21322&MevzuatTertip=5",
+  "source_sha256": "b1aa0449aa08cd850cbdf138a0d504082769b338c2557c521c3b0e2143031480",
+  "source_bytes": 39310,
+  "published": "2015-12-26",
+  "gazette": "29574",
+  "in_force": "2015-12-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.12.2015); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2311,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.21322-ek.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
