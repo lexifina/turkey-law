@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5993/64",
+  "decision_date": "2015-12-28",
+  "title": "EPDK Kurul Kararı 5993/64",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IQoJwmaQ0Og=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IQoJwmaQ0Og="
+  ],
+  "source_sha256": "b287f37d9a34c2bcf42863d709e0eafc93aa92514e36b8529df3b8340ad2e5cf",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-28",
+  "law_text_complete": false
+}
