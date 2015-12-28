@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5993/96",
+  "decision_date": "2015-12-28",
+  "title": "Kocaeli Arslanbey Organize Sanayi Bölgesi Organize Sanayi Bölgelerinin onaylı sınırları içerisindeki katılımcılarına 2016 yılı için uygulanmak üzere dağıtım bedellerine ilişkin karar",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U5Rxk0Kj7pA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U5Rxk0Kj7pA="
+  ],
+  "source_sha256": "61019d003f910212823e2218aa305952bed50477a623f8498af00a39089d0796",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-28",
+  "law_text_complete": false
+}
