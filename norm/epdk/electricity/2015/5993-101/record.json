@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5993/101",
+  "decision_date": "2015-12-28",
+  "title": "Kocaeli-Gebze V (Kimya) İhtisas Organize Sanayi Bölgesi Organize Sanayi Bölgelerinin onaylı sınırları içerisindeki katılımcılarına 2016 yılı için uygulanmak üzere dağıtım bedellerine ilişkin karar",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/YptwKyWmA0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/YptwKyWmA0="
+  ],
+  "source_sha256": "9572b724291803d2bfaf625c7be9b52ebc274fe027cdc0bd28afaadcddbc523d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-28",
+  "law_text_complete": false
+}
