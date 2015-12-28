@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5993/14",
+  "decision_date": "2015-12-28",
+  "title": "Ankara Sanayi Odası 2. ve 3. Organize Sanayi Bölgesi Organize Sanayi Bölgelerinin onaylı sınırları içerisindeki katılımcılarına 2016 yılı için uygulanmak üzere dağıtım bedellerine ilişkin karar",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3Tpjju0c/Kc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3Tpjju0c/Kc="
+  ],
+  "source_sha256": "8a4033449a6a6c514f840259f6e397d22d5f5ff70be6583a946007b4c17e2333",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-28",
+  "law_text_complete": false
+}
