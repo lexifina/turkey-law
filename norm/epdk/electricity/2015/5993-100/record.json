@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5993/100",
+  "decision_date": "2015-12-28",
+  "title": "Kocaeli-Gebze Plastikçiler Organize Sanayi Bölgesi Organize Sanayi Bölgelerinin onaylı sınırları içerisindeki katılımcılarına 2016 yılı için uygulanmak üzere dağıtım bedellerine ilişkin karar",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=evcbiEv4UfI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=evcbiEv4UfI="
+  ],
+  "source_sha256": "daab732fff866539340e579f739880d08ef6c48f994c8b58eab2d9c9888d8ee9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-28",
+  "law_text_complete": false
+}
