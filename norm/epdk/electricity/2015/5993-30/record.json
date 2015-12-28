@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5993/30",
+  "decision_date": "2015-12-28",
+  "title": "EPDK Kurul Kararı 5993/30",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uwFdQXimab0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uwFdQXimab0="
+  ],
+  "source_sha256": "1407f78bd7ec15b4e4cbddcd27f0c7156f5f07953b51f19f00c2b693e777d5a4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-28",
+  "law_text_complete": false
+}
