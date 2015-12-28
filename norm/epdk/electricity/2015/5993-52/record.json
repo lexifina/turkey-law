@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5993/52",
+  "decision_date": "2015-12-28",
+  "title": "Erzurum Merkez I. OSB Organize Sanayi Bölgelerinin onaylı sınırları içerisindeki katılımcılarına 2016 yılı için uygulanmak üzere dağıtım bedellerine ilişkin karar",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wm69B0D/jlo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wm69B0D/jlo="
+  ],
+  "source_sha256": "39e313866dc2e0d8c44989b76935e5698f4c4f4226b781688915628b65dc13ec",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-28",
+  "law_text_complete": false
+}
