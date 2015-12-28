@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5993/60",
+  "decision_date": "2015-12-28",
+  "title": "Gürsu Organize Sanayi Bölgesi Müdürlüğü Organize Sanayi Bölgelerinin onaylı sınırları içerisindeki katılımcılarına 2016 yılı için uygulanmak üzere dağıtım bedellerine ilişkin karar",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LL9DQuKr/Ac=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LL9DQuKr/Ac="
+  ],
+  "source_sha256": "498647f32eca442fe82c82c6716c6e6c0dda1bfc25be703662fb1e6f3f463fb1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-28",
+  "law_text_complete": false
+}
