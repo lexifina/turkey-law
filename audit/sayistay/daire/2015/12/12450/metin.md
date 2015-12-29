@@ -1,0 +1,15 @@
+Üniversite aleyhine sonuçlanmış manevi tazminat davaları sonucunda tazminat bedelleri ile yargılama masraflarının Üniversite bütçesinden ödenmesi.
+
+Üniversite aleyhine sonuçlanmış manevi tazminat davaları sonucunda tazminat bedelleri ile yargılama masraflarının Üniversite bütçesinden ödenmesi sonucu toplam ..… TL kamu zararına sebebiyet verildiği belirtilmişse de, Prof. Dr. …… tarafından …… Üniversitesi Rektörlüğünce isnat ve iftiralara karşı korunma hakkının ihlal edildiği iddiası ile ….. TL manevi zararın tazmini istemiyle açılan davanın Bölge İdare Mahkemesine yapılan itiraz sonucu kaldırılması nedeniyle söz konusu kişiye ödenen ….. TL tazminat bedeli ve yargılama gideri toplamının kişiden tahsil edildiği; diğer davaların ise Üniversite tarafından üst mahkemeye itiraz edilmesi nedeniyle henüz kesinleşmediği görülmüştür.
+
+Anayasanın “Temel hak ve hürriyetlerin korunması” başlıklı 40 ıncı maddesinin son fıkrasında kişilerin resmi görevliler tarafından vaki haksız işlemler sonucu uğradığı zararın Devletçe tazmin edileceği belirtildikten sonra Devletin sorumlu olan ilgili görevliye rücu hakkının saklı olduğu hüküm altına alınmıştır. Anayasanın “Yürütme” başlıklı İkinci Bölümünün “İdare” başlıklı Dördüncü Kısmında yer alan “D. Kamu hizmeti görevlileriyle ilgili hükümler” başlığı altında yer alan “2. Görev ve sorumlulukları, disiplin kovuşturmasında güvence” başlıklı 129 uncu maddesinin beşinci fıkrasında ise aynen;
+
+“Memurlar ve diğer kamu görevlilerinin yetkilerini kullanırken işledikleri kusurlardan doğan tazminat davaları, kendilerine rücu edilmek kaydıyla ve kanunun gösterdiği şekil ve şartlara uygun olarak, ancak idare aleyhine açılabilir.”
+
+hükmü yer almaktadır.
+
+657 sayılı Devlet Memurları Kanununun “Kişilerin uğradıkları zararlar” başlıklı 13 üncü maddesinde de kişilerin kamu hukukuna tabi görevlerle ilgili olarak uğradıkları zararlardan ötürü, bu görevleri yerine getiren personel aleyhine değil, ilgili kurum aleyhine dava açacakları ve kurumun genel hükümlere göre sorumlu personele rücu hakkı bulunduğu ifade edilmiştir.
+
+Söz konusu hükümler uyarınca kamu görevlilerinin yetkilerini kullanırken işledikleri kusurlar nedeniyle idare aleyhine açılan davalarda tazminata hükmedilmesi halinde, idarenin ödemek zorunda kaldığı tazminatı yasal yollara başvurarak ilgili kamu görevlisinden tahsil etme zorunluluğu bulunmaktadır.
+
+Yapılan incelemede, Üniversite aleyhine açılan davalarda kişiler lehine karar verilmiş bulunan manevi tazminat bedelleri ile yargılama giderlerinin Üniversite bütçesinden ödendiği görülmüştür. Söz konusu ödemelerin Üniversite bütçesinden yapılmasında mevzuata aykırı bir durum bulunmamakla birlikte rücu davası açılarak sorumluluğu bulunan kamu görevlilerinden tahsili gerekmektedir. Savunmalarda rücu işlemlerinin başlatılması için ödemeyi yapan sorumlularca gerekli işlemlerin yapıldığı görülmüş olup mahkeme ilamını gerçekleştiren kamu görevlilerine sorumluluk tevcihi mümkün olmadığından ve açılan davaların kesinleşmediği anlaşıldığından söz konusu ödemeler hakkında ilişik bulunmadığına oybirliğiyle,
