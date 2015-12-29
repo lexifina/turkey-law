@@ -1,0 +1,57 @@
+Teknik Eğitim Fakültesinde döner sermaye gelirlerinden yapılan kurum payı kesintilerinin % 30 yerine % 15 ve % 24 oranları üzerinden yapılarak öğretim elemanlarına bu gelirlerden olması gerekenin üzerinde ek ödeme dağıtılması ve öğretim elemanı olmayan Fakülte personeline ek ödeme yapılması.
+
+..… Üniversitesi Teknik Eğitim Fakültesinde kurs ve eğitim faaliyetleri kapsamında elde edilen döner sermaye gelirlerinden ayrılan kurum payı kesintisinin % 30 yerine % 15 ve % 24 olarak uygulanması nedeniyle gelirlere katkısı olan öğretim elemanlarına dağıtılan ek ödemelerde 2547 sayılı Yükseköğretim Kanununun 58 inci maddesine aykırı olarak artış sağlandığı ve öğretim elemanı olmayan Fakülte personeline ek ödeme yapıldığı görülmüştür.
+
+2547 sayılı Yükseköğretim Kanununun “Döner sermaye” başlıklı 58 inci maddesinde;
+
+ “b) Döner sermaye gelirlerinden tahsil edilen kısmın, tıp ve diş hekimliği fakülteleri sağlık uygulama ve araştırma merkezleri ile açık öğretim hizmeti veren yükseköğretim kurumları için asgari yüzde 35'i, ziraat ve veteriner fakülteleri, sivil havacılık yüksekokulu, sürekli eğitim merkezleri ile bünyesinde atölye veya laboratuar bulunan yükseköğretim kurumları için asgari yüzde 30’u, diğer yükseköğretim kurumları için ise asgari yüzde 15'i, ilgili yükseköğretim kurumunun ihtiyacı olan mal ve hizmet alımları, her türlü bakım, onarım, kiralama,  devam etmekte olan projelerin tamamlanmasına yönelik inşaat işleri ve diğer ihtiyaçlar ile yönetici payları için kullanılır. Bu oranları yüzde 75'ine kadar artırmaya üniversite yönetim kurulu yetkilidir.
+
+c) Tıp ve diş hekimliği fakülteleri ile sağlık uygulama ve araştırma merkezlerinin hesabında toplanan döner sermaye gelirleri bakiyesinden, bu yerlerde;
+
+1) Gelir getiren görevlerde çalışan öğretim üyesi ve öğretim görevlilerine aylık (ek gösterge dahil), yan ödeme, ödenek (geliştirme ödeneği hariç) ve her türlü tazminat (28/3/1983 tarihli ve 2809 sayılı Kanunun geçici 3 üncü maddesinin beşinci fıkrası uyarınca ödenen tazminat dahil, makam, temsil ve görev tazminatı ile yabancı dil tazminatı hariç) toplamından oluşan ek ödeme matrahının yüzde 800'ünü, araştırma görevlilerine ise yüzde 500'ünü; bu yerlerde görevli olmakla birlikte gelire katkısı olmayan öğretim üyesi ve öğretim görevlilerine yüzde 600'ünü, araştırma görevlilerine ise yüzde 300'ünü,
+
+2) Diğer öğretim elemanlarına ve 657 sayılı Devlet Memurları Kanununa tabi personel (…)  ile aynı Kanunun 4 üncü maddesinin (B) bendine göre sözleşmeli olarak çalışan personele ek ödeme matrahının; uzman tabipler için yüzde 600’ünü, hastaneler başmüdürü ve eczacılar için yüzde 250'sini, başhemşireler için yüzde 200'ünü, diğer öğretim elemanları ile diğer personel için yüzde 150'sini, … geçmeyecek şekilde aylık ek ödeme yapılır…
+
+Nöbet hizmetleri hariç olmak üzere mesai saatleri dışında gelir getirici çalışmalarından doğan katkılarına karşılık olarak (1) numaralı bentte belirtilen personel için yüzde 50’sini, (2) numaralı bentte belirtilen personel için yüzde 20’sini geçmeyecek şekilde ayrıca aylık ek ödeme yapılır.
+
+…
+
+d) Ziraat ve veteriner fakülteleri, sivil havacılık yüksekokulu ve bünyesinde atölye veya laboratuvar bulunan kurumları ile sürekli eğitim merkezleri, açık öğretim hizmeti veren yükseköğretim kurumları ile düzenli döner sermaye geliri olan yükseköğretim kurumlarında üretilen mal ve hizmetlerden elde edilen döner sermaye gelirlerine katkısı bulunan öğretim elemanlarına yapılacak ek ödemeler hakkında da (c) fıkrası hükümleri uygulanır.
+
+e) Yükseköğretim kurumlarının (c) ve (d) fıkraları kapsamına girenler haricindeki diğer birimlerinde döner sermaye işletmesi hesabına yapılan iş veya hizmetler karşılığında tahsil edilen gelirlerden kanuni kesintiler ile varsa yapılan iş veya hizmetle bağlantılı giderler düşüldükten sonra geri kalan tutar, hizmet karşılığı olarak gelir tahsilatının yapıldığı tarihi izleyen bir ay içinde, veya hizmet bedelinin peşin tahsil edilmesi halinde hizmetin gerçekleşme oranına bağlı olarak aylara bölünerek hizmeti veren öğretim elemanına ödenir.
+
+Tıp ve diş hekimliği fakültelerindeki öğretim elemanlarının sağlık hizmeti dışında verdikleri hizmetler karşılığında döner sermaye hesabına tahsil edilen paradan pay alma hususunda bu fıkra hükümleri uygulanır. Bu kapsamda bulunan hizmetler ile öğretim elemanlarının yükseköğretim kurumlarının imkanlarını kullanmaksızın verdikleri hizmetler karşılığında elde edilen gelirlerden (b) fıkrasının birinci bendi uyarınca yapılacak kesintilerin uygulanmasında asgari yüzde 15 oranı uygulanır.”
+
+hükümleri bulunmaktadır.
+
+Aynı maddenin (g) fıkrasının ikinci paragrafında ise aynen;
+
+“Bu maddenin (c) ve (f) fıkraları kapsamında bulunanlar dışındaki 657 sayılı Devlet Memurları Kanununa tabi memurlar ile aynı Kanunun 4 üncü maddesinin (B) fıkrasına göre sözleşmeli olarak çalışan personele 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesi kapsamında ödeme yapılır ve bunlara bu madde uyarınca ayrıca ek ödeme yapılmaz.”
+
+denilmektedir.
+
+Yukarıda yer alan hükümlere göre döner sermaye gelirlerinden tahsil edilen kısmın ziraat ve veteriner fakülteleri, sivil havacılık yüksekokulu, sürekli eğitim merkezleri ile bünyesinde atölye veya laboratuar bulunan yükseköğretim kurumları için asgari yüzde 30’u, kurum payı olarak ayrıldıktan sonra kalan kısım, gelire katkısı olan öğretim elemanlarına maddenin (c) fıkrasında yer alan limitlere göre dağıtılacaktır. Bünyesinde atölye ve laboratuvar olan Teknik Eğitim Fakültesi için de söz konusu fıkra hükümlerine göre elde edilen döner sermaye gelirlerinin % 30’u oranında kurum payı ayrılması, kalanın maddenin (c) fıkrası hükümlerine göre sadece gelire katkısı bulunan öğretim elemanlarına dağıtılması gerekmekte iken, yapılan incelemede, kurum payının % 15 ve % 24 oranları üzerinden ayrıldığı; kalan kısmın ise gelirin elde edilmesine katkı sağlayan öğretim elemanları ile diğer personele dağıtıldığı anlaşılmıştır.
+
+Sorumlular savunmalarında her ne kadar Teknik Eğitim Fakültesi bünyesinde bulunan atölye ve laboratuvarların araştırma ve geliştirme amaçlı olmayıp öğrencilerin temel pratik eğitimlerini aldıkları derslik niteliğinde olduğunu; söz konusu atölye ve laboratuvarların akredite olmaması nedeniyle maddenin (b) ve (d) fıkralarında geçen “bünyesinde atölye ve laboratuvar bulunan yükseköğretim kurumları” arasında sayılamayacağı ve değerlendirmenin “diğer yükseköğretim kurumları” olarak yapılması sonucu % 15 oranında kurum payı ayrıldığını belirtmiş olsalar da, Kanunun ilgili maddesinde ve diğer mevzuatta atölye ve laboratuvarların akredite olması, araştırma geliştirme faaliyetleri için de kullanılması gibi şartlara yer verilmemiştir. Maddede tek kıstas “bünyesinde atölye ve laboratuvar olması” kıstasıdır. Anılan durumda, (b) fıkrasına göre kurum payının % 30 olarak ayrılması, (d) fıkrası hükmü uyarınca da, öğretim elemanlarına (c) fıkrasındaki limitler dahilinde ek ödeme yapılması gerekmektedir.
+
+Diğer taraftan, sorguda ve düzenlenen raporda 2012 ve 2013 yıllarına ait ödeme emri belgeleriyle yapılan ödemeler de konu edilmişse de, 2014 yılına ilişkin bu rapor çerçevesinde, 2012 ve 2013 yıllarında yapılan ..… lira tutarındaki ödemeler için yapılacak işlem bulunmamaktadır.
+
+Bu itibarla, Teknik Eğitim Fakültesinde döner sermaye gelirlerinden yapılan kurum payı kesintilerinin % 30 yerine % 15 ve % 24 oranları üzerinden yapılması sonucu 2014 yılında öğretim elemanlarına dağıtılan ek ödemelerde 2547 sayılı Yükseköğretim Kanununun 58 inci maddesine aykırı olarak artış sağlanması ve öğretim elemanları dışındaki Fakülte personeline de ek ödeme yapılması sonucu oluşan ..… TL kamu zararının Gerçekleştirme Görevlisi (İşletme Müdür V.) …… ile Harcama Yetkilisi (Rektör Yardımcısı) Prof. Dr. …….’dan müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizi ile birlikte tazminine oy çokluğuyla,
+
+Azınlık Görüşü:
+
+Başkan ……’in karşı oy gerekçesi:
+
+2547 sayılı Yükseköğretim Kanununun 58 inci maddesinin (b) fıkrasında, Döner sermaye gelirlerinden tahsil edilen kısmın, tıp ve diş hekimliği fakülteleri sağlık uygulama ve araştırma merkezleri ile açık öğretim hizmeti veren yükseköğretim kurumları için asgari yüzde 35'inin, ziraat ve veteriner fakülteleri, sivil havacılık yüksekokulu, sürekli eğitim merkezleri ile bünyesinde atölye veya laboratuar bulunan yükseköğretim kurumları için asgari yüzde 30’unun, diğer yükseköğretim kurumları için ise asgari yüzde 15'inin, ilgili yükseköğretim kurumunun ihtiyacı olan mal ve hizmet alımları, her türlü bakım, onarım, kiralama, devam etmekte olan projelerin tamamlanmasına yönelik inşaat işleri ve diğer ihtiyaçlar ile yönetici payları için kullanılacağı belirtilmiştir.
+
+58 inci maddenin (d) fıkrasında da “Ziraat ve veteriner fakülteleri, sivil havacılık yüksekokulu ve bünyesinde atölye veya laboratuvar bulunan kurumları ile sürekli eğitim merkezleri, açık öğretim hizmeti veren yükseköğretim kurumları ile düzenli döner sermaye geliri olan yükseköğretim kurumlarında üretilen mal ve hizmetlerden elde edilen döner sermaye gelirlerine katkısı bulunan öğretim elemanlarına yapılacak ek ödemeler hakkında da (c) fıkrası hükümleri uygulanır.” denilerek, ek ödemeler bakımından bu fıkra kapsamındaki kurumlar için (c) fıkrasında öngörülen oranların uygulanması öngörülmüştür.
+
+Diğer taraftan, aynı maddenin (e) fıkrasında, yükseköğretim kurumlarının (c) ve (d) fıkraları kapsamına girenler haricindeki diğer birimlerinde döner sermaye işletmesi hesabına yapılan iş veya hizmetler karşılığında tahsil edilen gelirlerden kanuni kesintiler ile varsa yapılan iş veya hizmetle bağlantılı giderler düşüldükten sonra geri kalan tutarın, hizmet karşılığı olarak gelir tahsilatının yapıldığı tarihi izleyen bir ay içinde, veya hizmet bedelinin peşin tahsil edilmesi halinde hizmetin gerçekleşme oranına bağlı olarak aylara bölünerek hizmeti veren öğretim elemanına ödeneceği belirtilmiştir.
+
+Ek ödeme olarak dağıtılan gelirler incelendiğinde, bunların Fakültenin bünyesindeki atölye veya laboratuarlarda üretilen hizmetler karşılığı olmadığı, (e) fıkrasında belirtilen döner sermaye işletmesi hesabına yapılan iş veya hizmetler karşılığında tahsil edilen gelirler olduğu görülmektedir.
+
+Bu itibarla, Teknoloji Fakültesinde elde edilen gelirlerden asgari % 15 oranında kurum payı ayrılması ve öğretim elemanlarına yapılacak ek ödemelerde (d) fıkrası hükmünün değil, (e) fıkrası hükmünün uygulanması gerektiğinden, söz konusu ek ödemelerin, öğretim elemanlarına ödenen kısmı için ilişik bulunmadığına karar verilmesi gerekir.
+
+Üye ……’ın karşı oy gerekçesi:
+
+Teknik Eğitim Fakültesinde elde edilen döner sermaye gelirlerinden ayrılan kurum payı kesintisinin % 30 yerine % 15 olarak uygulanması nedeniyle gelirlere katkısı olan personele dağıtılan ek ödemelerde 2547 sayılı Yükseköğretim Kanununun 58 inci maddesine aykırı olarak artış sağlanması sonucu kamu zararında bulunulduğu düşünülmekle birlikte, kamu zararı tutarının, kişilere yapılan ek ödemenin Kanunun 58 inci maddesinin (c) fıkrasında belirlenen limitler göz önüne alınarak değerlendirilmesi gerektiğinden, kamu zararı tutarının bu hususlar gözetilerek yeniden hesaplanması için raporun denetçiye iadesi gerekir.
