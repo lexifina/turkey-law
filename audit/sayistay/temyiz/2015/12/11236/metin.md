@@ -1,0 +1,39 @@
+Sözleşmeli personelin fazla mesai ücreti.
+
+75 sayılı ilamın 5 inci maddesinde, ………Genel Müdürlüğü bünyesinde kadro karşılığı sözleşmeli olarak çalışan personele 5831 sayılı “Tapu Kanunu İle Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun” un geçici 9 uncu maddesine istinaden fazla çalışma ücreti ödendiği gerekçesiyle toplam ……. TL. ye tazmin hükmolunmuştur.
+
+Sorumlular temyiz dilekçesinde; Daire kararının "Anayasa, yasa, tüzük, yönetmelik, talimat.... şeklindeki düzenleyici hukuk normları hiyerarşisine uyulmayarak 5831/9 maddesinde öngörülmüş bulunan fazla çalışma ücretinin ödeneceği yolundaki hükmüne rağmen, 6083/6 maddesine dayalı olan BK Kararınca belirlenen "ayrıca fazla ücret ödenmeyeceği" hükmüne uyulmak suretiyle hukukun temel ilkesine aykırı düşüldüğünü,
+
+Fazla çalışma ücreti ödemesinin 5831/Geçici 9. madde hükümlerine uygun yapıldığını, maddenin gerekçesinde; bu düzenleme ile ''...genel müdürlüğün merkez ve taşra teşkilatı kadrolarında görev yapan personel ile kadro karşılığı sözleşmeli ve sözleşmeli personeline normal mesai dışında yapmış oldukları çalışmalar karşılığında fazla mesai ücreti ödemesinin amaçlandığı" nın belirtilmiş bulunduğunu,
+
+Sözleşmeli personele yapılan fazla çalışma ücreti ödemesinin, İdarelerine özgü bir uygulama olmadığını, Maliye Bakanlığının tip sözleşmesine uyarak diğer kamu kurumlarının hizmet sözleşmesi akdettiklerini,
+
+666 sayılı KHK ve bunun uygulamasına ilişkin 161 no’lu DMK Genel Tebliğinde yer alan örneklerde fazla çalışma ücretinin maaşın bir unsuru olarak değerlendirildiğini ileri sürerek tazmin hükmünün kaldırılmasını talep etmişlerdir.
+
+Sayıştay Başsavcılığı: “…..
+
+Bilindiği üzere; 6083 sayılı Kanunla, bu konuda mevcut bulunan düzenlemenin dışına çıkılarak ücret yanında (6) adet ikramiye ödemesi yapılması buna ilişkin usul ve esaslarında BKK ile belirleneceği hükme bağlanmıştır.
+
+Dolayısıyla, konu birliği taşıyan iki kanun hükmünden sonraki tarih içeren kanun hükmünün önceki kanundan tamamen farklı değerlendirme taşıması ve bunun yaptırımını BK Kararına dayalı olarak gerçekleştirmesi hukuk normunun dikkate alınılmamış olması şeklinde görülmesinin hukuka uyar yanı bulunmamaktadır.
+
+Nitekim; Daire, "6083 sayılı Kanun*un 6. maddesine dayanılarak çıkarılan 2011/1442 sayılı BK Kararı'nın 7.maddesinde kadro karşılığı sözleşmesi personele fazla yaptıkları çalışmalar karşılığı ayrıca bir ücret ödenmeyeceği belirtilmişken, 5831 sayılı Kanun’un Geçici 9. maddesi ile personel ve sözleşmeli personele ödenmesi öngörülen fazla çalışma ücretinden kadro karşılığı sözleşmeli personelin de yararlanması mümkün görülmemektedir” şeklinde mevzuatı gerekçelendirip hükmünü kurmuştur. Daire kararı yerindedir. Talebin reddolunarak kararın korunmasının uygun olacağı mütalaa edilmektedir.” şeklindeki görüşünü, dosyanın duruşmalı görüşülmesi esnasında; “aynı konu hakkında 2012 yılında Dairesince tazmin hükmünün kaldırılmasına karar verildiğinden, 2011 yıl için verilen tazmin hükmünün kaldırılmasının uygun olacağı ” şeklinde değiştirmiştir.
+
+Tapu Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair 5831 Sayılı Kanun'un geçici 9 uncu maddesinde "31.12.2012 tarihine kadar, …… Genel Müdürlüğü'nün merkez ve taşra teşkilatı kadrolarında görev yapan personel ile sözleşmeli personele (3'üncü maddenin son fıkrasındaki ödemeden yararlananlar hariç), fiilen yaptıkları fazla çalışma karşılığında ayda 60 saati ve yılı Merkezi Yönetim Bütçe Kanununda belirtilen fazla çalışma saat ücretinin üç katını geçmemek üzere, Tapu ve Kadastro Genel Müdürlüğünce belirlenecek esaslar çerçevesinde döner sermaye bütçesinden fazla çalışma ücreti ödenir," ifadesine yer verilerek, …… Genel Müdürlüğünde çalışan personel ile sözleşmeli personele döner sermaye bütçesinden, 31/12/2012 tarihine kadar fazla çalışma ücretinin ödeneceği hüküm altına alınmıştır.
+
+Türkiye Büyük Millet Meclisi'nin 15.01.2009 tarihli birleşiminde kabul edilmiş olan madde gerekçesinde; "……… Genel Müdürlüğünün önümüzdeki dört yıl içinde yürüteceği tapu kayıtlarının elektronik ortama aktarılması ve yurt sathında kadastro çalışmalarının yoğunluğu dikkate alınarak bu süre zarfında anılan Genel Müdürlüğün merkez ve taşra teşkilatı kadrolarında görev yapan personel ile kadro karşılığı sözleşmeli ve sözleşmeli personeline normal mesai saatleri dışında yapmış oldukları çalışmalar karşılığında fazla çalışma ücreti ödenmesi amaçlanmaktadır. " ifadesinin bulunduğu görülmüş olup, kanun koyucunun "kadro karşılığı sözleşmeli personel" için de fazla mesai ödemesi öngördüğü anlaşılmıştır. Fazla çalışma yapmadıklarına dair bir tespitte bulunmayan kadro karşılığı sözleşmeli personele,  5831 sayılı Kanunun geçici 9 uncu maddesine istinaden fazla çalışma ücreti ödenmesinde mevzuata aykırılık bulunmamaktadır.
+
+Bu itibarla, 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesinin 7’nci fıkrası uyarınca, yukarıda belirtilen hususların tekrar değerlendirilmesini teminen 75  sayılı İlam’ın 5 inci maddesi ile ……. TL. ye verilen tazmin hükmünün BOZULARAK DAİRESİNE TEVDİİNE
+
+(….Daire Başkanı ………. ile Üye ……….’ın;
+
+5831 sayılı “Tapu Kanunu İle Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun”’un geçici 9 uncu maddesinde :
+
+“31/12/2012 tarihine kadar, Tapu ve Kadastro Genel Müdürlüğünün merkez ve taşra teşkilatı kadrolarında görev yapan personel ile sözleşmeli personele (3'üncü maddenin son fıkrasındaki ödemeden yararlananlar hariç), fiilen yaptıkları fazla çalışma karşılığında ayda 60 saati ve yılı Merkezi Yönetim Bütçe Kanununda belirtilen fazla çalışma saat ücretinin üç katını geçmemek üzere, Tapu ve Kadastro Genel Müdürlüğünce belirlenecek esaslar çerçevesinde döner sermaye bütçesinden fazla çalışma ücreti ödenir.” denilerek, …….. Genel Müdürlüğünde çalışan personel ile sözleşmeli personele döner sermaye bütçesinden fazla çalışma ücretinin ödeneceği hüküm altına alınmıştır.
+
+10.12.2010 tarih ve 27781 sayılı Resmi Gazetede yayınlanan 6083 sayılı Tapu ve Kadastro Genel Müdürlüğü Teşkilat ve Görevleri Hakkında Kanunla ise Tapu ve Kadastro Genel Müdürlüğünde kadro karşılığı sözleşmeli personel çalıştırılması hususu düzenlenmiş bulunmaktadır. Adı geçen Kanunun istihdam başlıklı 6 ncı maddesinde ise, merkez teşkilatında belli unvanlardaki personelin kadro karşılık gösterilmek üzere sözleşmeli olarak çalıştırılabileceği, bu personele ödenecek ücretlerin ayrı olarak belirleneceği, bu personele ücretlerinin yanında 6 adet ikramiye ödemesi yapılabileceği, buna ilişkin usul ve esaslar ile söz konusu personele yapılacak diğer ödemelerin Bakanlar Kurulunca tespit edileceği belirtilmiştir.
+
+6083 sayılı Kanun’un 6 ncı maddesine dayanılarak 28.04.2011 tarih ve 27918 sayılı resmi gazetede yayımlanan 2011/1442 sayılı Bakanlar Kurulu Kararı ile 10.12.2010 tarihinden itibaren geçerli olmak üzere “Tapu ve Kadastro Genel Müdürlüğü’nde Kadro Karşılığı Çalıştırılacak Sözleşmeli Personel Hakkında Hizmet Sözleşmesi Esasları” belirlenmiş bulunmaktadır. Söz konusu esasların 7. Maddesi ile kadro karşılığı çalışan sözleşmeli personelin çalışma saatleri belirlenmiş, ilgili maddede:
+
+“Sözleşmeli personel hakkında devlet memurları için tespit edilen çalışma saatleri ve süreleri aynen uygulanır. Belirli bir sürede bitirilmesi gereken işler söz konusu olduğunda sözleşmeli personel, normal çalışma saatleri dışında veya hafta tatili ve resmî tatillerde de çalıştırılabilir. Bu çalışma için ayrıca ücret ödenmez.” denilmiş, aynı ifadeye Genel Müdürlükle kadro karşılığı sözleşmeli personel arasında imzalanan hizmet sözleşmelerinin 3. maddesinde de yer verilmiştir.  Buna göre  5831 sayılı Kanun’un geçici 9 uncu maddesi ile personel ve sözleşmeli personele ödenmesi öngörülen fazla çalışma ücretinden kadro karşılığı sözleşmeli personelin de yararlanması mümkün görülmemektedir.
+
+Bu nedenle, tazmin hükmünün TASDİKİNE karar verilmesinin uygun olacağı şeklindeki ayrışık görüşlerine karşı), Oyçokluğu ile,
