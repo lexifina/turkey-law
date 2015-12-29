@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41276",
+  "decision_date": "2015-12-29",
+  "source_id": 11249,
+  "chamber": "1",
+  "file_number": "38641",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2011",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11249/",
+  "source_sha256": "970861ae780e770c9d15b8678eaf7a4540e31e40c82370021d898e35b9d782ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
