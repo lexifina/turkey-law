@@ -1,0 +1,3 @@
+Araştırma ve Uygulama Hastanesi Hizmet Binalarının 2014 Yılı Genel Temizlik işinde, raporlu olan personellerin yerine personel çalıştırılmadığı halde hakedişin tam çalışma üzerinden düzenlenmesi.
+
+….... yükleniminde bulunan “Araştırma ve Uygulama Hastanesi Hizmet Binalarının 2014 Yılı Genel Temizlik” işine ait idari şartnamenin 25 nci maddesine göre teklif edilen fiyata 130 işçi ile 12 aylık çalışma süresine ait bütün işçilik giderleri dahil olduğundan, raporlu personel yerine personel çalıştırılmadığı halde hakedişin tam çalışma sürelerine göre düzenlenmesi sonucu oluşan ….. TL kamu zararının ……… muhasebe işlem fişi ile tahsil edildiği görüldüğünden konu hakkında ilişik kalmadığına oybirliğiyle,
