@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41253",
+  "decision_date": "2015-12-29",
+  "source_id": 11219,
+  "chamber": "1",
+  "file_number": "40489",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11219/",
+  "source_sha256": "258173c59c443a8bd6f181af0da0b501559b62c9da70d27018c176a1f66a8df8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
