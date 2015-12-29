@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41243",
+  "decision_date": "2015-12-29",
+  "source_id": 11209,
+  "chamber": "1",
+  "file_number": "40285",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11209/",
+  "source_sha256": "429acf528e1953c7d8d84d79a0c63860e2d19e76a2f9c0d1c4bacb19af9131c4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
