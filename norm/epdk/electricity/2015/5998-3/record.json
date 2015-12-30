@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5998/3",
+  "decision_date": "2015-12-30",
+  "title": "2016-2020 uygulama döneminde uygulanacak genel kalite indikatörünün (GKİ) belirlenmesi",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MfPv+VznRM8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MfPv+VznRM8="
+  ],
+  "source_sha256": "ceffe7f2d28b6344da5271071c13d454fa188fd543c72862ef55cf7eb8b904f6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2015-12-30",
+  "law_text_complete": false
+}
