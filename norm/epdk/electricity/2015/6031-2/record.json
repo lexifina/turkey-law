@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6031/2",
+  "decision_date": "2015-12-30",
+  "title": "EPDK Kurul Kararı 6031/2",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=N4TYRa3WRNo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=N4TYRa3WRNo="
+  ],
+  "source_sha256": "f71d8924bbc5dcb4526612784229c9acfedca0507b331c1f5ccb0ce05905e145",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2015-12-30",
+  "law_text_complete": false
+}
