@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "5999/1",
+  "decision_date": "2015-12-30",
+  "title": "Enerji Piyasaları İşletme Anonim Şirketi’nin (EPiAŞ) 2016 yılı gelir tavanı",
+  "categories": [
+    "EPİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XOEtG18UdRY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XOEtG18UdRY="
+  ],
+  "source_sha256": "b8843f26bf3c510d9818a76a1b7b69a52ef81ac6e337b3631d2b124b556f4424",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1521,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2015-12-30",
+  "law_text_complete": false
+}
