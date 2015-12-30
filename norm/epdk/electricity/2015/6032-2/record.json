@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6032/2",
+  "decision_date": "2015-12-30",
+  "title": "GDZ EDAŞ",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZfxP8LxGpUY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZfxP8LxGpUY="
+  ],
+  "source_sha256": "1e6b5dce666a8e5e53e8f07081500e430dc7a7ec25950fdfcc532488ea0dc64f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2015-12-30",
+  "law_text_complete": false
+}
