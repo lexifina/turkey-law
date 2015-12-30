@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6029/1",
+  "decision_date": "2015-12-30",
+  "title": "EPDK Kurul Kararı 6029/1",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xfxo1K+mbQc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xfxo1K+mbQc="
+  ],
+  "source_sha256": "a3c795da8101cc9f1577f703da1b406dd030a1982a6a2878a2a07059fa50a197",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2015-12-30",
+  "law_text_complete": false
+}
