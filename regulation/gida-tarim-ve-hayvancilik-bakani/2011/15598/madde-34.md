@@ -1,0 +1,12 @@
+Balıkçılık ürünlerinin resmi kontrolleri
+MADDE 34 – (1) Balıkçılık ürünlerinin resmi kontrolleri asgari olarak aşağıda belirtilen hususları kapsar:
+a) Duyusal kontroller: Rastgele duyusal kontroller üretim, işleme ve dağıtımın tüm aşamalarında ilgili mevzuatla belirlenen tazelik kriterlerine uygunluğun doğrulanması amacıyla yürütülür.
+b) Tazelik kriterleri: Duyusal kontrol balıkçılık ürünlerinin tazeliğine ilişkin herhangi bir şüphe ortaya çıkardığında, toplam uçucu bazik nitrojen (TVB-N) seviyelerinin belirlenmesi için numune alınarak laboratuvar testlerine tabi tutulur. Bu kontrollerde, TVB-N için belirlenen limitler dikkate alınır. Duyusal kontrol, insan sağlığını etkileyecek diğer koşulların varlığına ilişkin bir şüphe yarattığında, doğrulama amacıyla uygun numuneler alınır.
+c) Histamin: Rastgele histamin analizleri mevzuatla belirlenen kabul edilebilir limitlere uygunluğunun doğrulanması için yürütülür.
+ç) Kalıntı ve bulaşanlar: Kalıntı ve bulaşan seviyelerinin kontrolüne yönelik izlemeler ilgili mevzuat uyarınca yapılır.
+d) Mikrobiyolojik kontroller: Mikrobiyolojik kontroller, gerektiğinde mevzuat kapsamında ortaya konulan ilgili kurallar ve kriterler uyarınca gerçekleştirilir.
+e) Parazitler: Rastgele parazit kontrolleri mevzuata uygunluğunun doğrulanması için yürütülür.
+f) Zehirli balıkçılık ürünlerinde aşağıdaki hususları sağlamak için resmi kontroller yapılır.
+1) Tetraodontidae, Molidae, Diotontidae ve Canthigasteridae familyalarının zehirli balıklarından elde edilen balıkçılık ürünleri piyasaya arz edilmez.
+2) Gempylidae familyasına özellikle Ruvettus pretiosus ve Lepidocybium flavobrunneum türlerine ait taze, hazırlanmış, dondurulmuş ve işlenmiş balıkçılık ürünleri sadece paketlenmiş/ambalajlanmış şekilde ve hazırlama/pişirme yöntemleri ile sindirim sistemi rahatsızlıklarına yol açan maddelerin varlığına ilişkin risk hakkında tüketiciye bilgi sağlayacak şekilde etiketlendikten sonra piyasaya arz edilir. Balıkçılık ürünlerinin bilimsel ve ticari adı etiket üzerinde yer alır.
+3) Ciguatera gibi biyotoksinler veya insan sağlığı için tehlikeli diğer toksinleri içeren balıkçılık ürünleri piyasaya arz edilemez. Bununla birlikte, Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinin 34 üncü maddesine uygun olarak üretilmiş ve 39 uncu maddesinin birinci fıkrasının (b) bendinde belirtilmiş olan standartlar ile uyumlu ise, çift kabuklu yumuşakçalardan, denizkestanelerinden, gömlekliler ve denizde yaşayan karından bacaklılardan elde edilen balıkçılık ürünleri piyasaya arz edilebilir.

@@ -1,0 +1,3 @@
+Sınıflandırılmış üretim alanları dışından toplanan pectinidae ve suyu süzerek beslenmeyen deniz karındanbacaklıları için resmi kontroller
+MADDE 31 – (1) Sınıflandırılmış üretim alanları dışından toplanan pectinidae ve suyu süzerek beslenmeyen deniz karındanbacaklılarına ilişkin resmi kontroller balık hallerinde, sevkıyat merkezlerinde ve işleme tesislerinde yapılır.
+(2) Bu tür resmi kontroller, Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinin 39 uncu maddesinde belirtilen canlı çift kabuklu yumuşakçaların sağlık standartları ile aynı zamanda 43 üncü maddesinde belirtilen kurallar ile uyumu doğrular.

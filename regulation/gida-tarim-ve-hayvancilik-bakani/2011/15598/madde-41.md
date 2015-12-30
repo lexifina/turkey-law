@@ -1,0 +1,9 @@
+İthalatına izin verilen belirli hayvansal gıdaları üreten işletmelerin listesi
+MADDE 41 – (1) 42 nci maddede belirtilen durumlar dışında, sadece bu maddeye uygun olarak hazırlanan ve güncellenen listelerde bulunan işletmelerde üretilen ve bu işletmelerden gönderilen hayvansal gıdaların ithalatına izin verilir.
+(2) Birinci fıkraya ilave olarak, çiğ et, kıyma, hazırlanmış et karışımları, et ürünleri ve mekanik olarak ayrılmış et (MAE) sadece bu maddeye uygun olarak hazırlanmış ve güncellenmiş listelere dahil olan kesimhanelerde ve parçalama tesislerinden elde edilen etten üretilmişse ithal edilebilir.
+(3) Menşe ülkenin yetkili makamının aşağıdaki hususlarda garanti vermesi durumunda bir işletme söz konusu listeye dahil edilebilir:
+a) Hayvansal gıdanın üretilmesinde kullanılan hammaddeyi işleyen işletmeler de dahil hayvansal gıda işletmeleri, ülkemizin gerekliliklerine, özellikle Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliği şartlarına veya 40 ıncı maddeye uygun olarak hazırlanan listeye ihracatçı ülkenin eklenmesi kararı verilirken dikkate alınan şartlara en az eşdeğer olduğu belirlenmiş şartlara uymalıdır.
+b) Menşe ülkedeki resmi denetim birimi işletmeleri denetlemeli ve ham maddeleri işleyen işletmelere ilişkin tüm bilgileri, gerektiğinde Bakanlığa sunar.
+c) Menşe ülkedeki resmi denetim birimi, bu fıkranın (a) bendinde belirtilen şartları karşılamakta yetersiz olan işletmelerin, ülkemize ihracat yapmalarını durdurabilecek yetkiye sahip olmalıdır.
+(4) 40 ıncı maddeye uygun olarak hazırlanan ve güncellenen listelerde bulunan ihracatçı ülkelerin yetkili makamları, birinci fıkrada belirtilen işletmelerin listesini hazırlar ve sürekli güncelleyerek Bakanlığa iletir.
+(5) Bakanlık güncel listelerin kamuoyu tarafından ulaşılabilir olması için gerekli düzenlemeleri yapar.

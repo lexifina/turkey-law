@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Resmi veya Yetkilendirilmiş Veteriner Hekimin Görevleri
+Resmi veya yetkilendirilmiş veteriner hekimin tetkik görevleri
+MADDE 8 – (1) İyi hijyen uygulamalarının tetkikine ilişkin 6 ncı maddenin dördüncü fıkrasında belirtilen genel gerekliliklere ilave olarak; resmi veya yetkilendirilmiş veteriner hekim, gıda işletmecisinin sorumluluğunda olan spesifik risk materyali de dahil, hayvansal yan ürünlerin toplanması, nakli, depolanması, işlenmesi, kullanımı ve bertarafına ilişkin gıda işletmecisinin oluşturduğu prosedürlerin sürekli olarak uygunluğunu doğrulamak zorundadır.
+(2) Resmi veya yetkilendirilmiş veteriner hekim tehlike analizi ve kritik kontrol noktaları/HACCP ilkelerine dayalı prosedürlerin tetkikine ilişkin 6 ncı maddenin beşinci ve altıncı fıkrasında belirtilen genel gerekliliklere ilave olarak, gıda işletmecisinin oluşturduğu prosedürlerin, etin; fizyopatolojik anormallikler veya değişiklikler taşımaması, dışkı veya başka bir madde ile bulaşmış olmaması ve spesifik risk materyali içerip içermediğini garanti ettiğini kontrol eder.
