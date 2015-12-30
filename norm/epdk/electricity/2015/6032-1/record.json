@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6032/1",
+  "decision_date": "2015-12-30",
+  "title": "GDZ EDAŞ",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qAyI95VH81s=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qAyI95VH81s="
+  ],
+  "source_sha256": "e8be3f675326cd721734a8448bc8557e975f4f567b92ff6726d0ca6bca5ba7d9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2015-12-30",
+  "law_text_complete": false
+}
