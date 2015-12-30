@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6000/1",
+  "decision_date": "2015-12-30",
+  "title": "AKEDAŞ",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3gVt815j8aU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3gVt815j8aU="
+  ],
+  "source_sha256": "2931c3f90769f5c2af273ce1e3350feaaa20e4f75cb68dc5c81074271b8b3ed9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2015-12-30",
+  "law_text_complete": false
+}
