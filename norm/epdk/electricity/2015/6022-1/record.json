@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6022/1",
+  "decision_date": "2015-12-30",
+  "title": "ADM EDAŞ",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qRXcNCBbKnA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qRXcNCBbKnA="
+  ],
+  "source_sha256": "67c9aac6340f336f44fca8fb3c765b76a5e1e3e92df84a011690d26ef6e74233",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2015-12-30",
+  "law_text_complete": false
+}
