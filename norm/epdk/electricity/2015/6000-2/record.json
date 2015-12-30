@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6000/2",
+  "decision_date": "2015-12-30",
+  "title": "AKEDAŞ",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+s0JUNa/IpE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+s0JUNa/IpE="
+  ],
+  "source_sha256": "6297622c481d6a544b4a820be5cb4aa311c8d6a6a8a241a81f968e01d27150e3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2015-12-30",
+  "law_text_complete": false
+}
