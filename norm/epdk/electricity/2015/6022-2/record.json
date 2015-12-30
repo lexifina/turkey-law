@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6022/2",
+  "decision_date": "2015-12-30",
+  "title": "ADM EDAŞ",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pWYf4them34=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pWYf4them34="
+  ],
+  "source_sha256": "8f4e1f60a9a166796d84db9f67aee57e46ba361c52996547023249ab6fcf31c5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2015-12-30",
+  "law_text_complete": false
+}
