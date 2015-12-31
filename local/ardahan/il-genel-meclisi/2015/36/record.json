@@ -1,0 +1,27 @@
+{
+  "number": "36",
+  "year": 2015,
+  "title": "Karar 36",
+  "decision_date": null,
+  "index_date": "2015-12-31",
+  "date_precision": "year",
+  "period": "2015",
+  "source": "https://www.ardahanozelidare.gov.tr/ardahanozelidaregovtril-genel-meclis-kararlari",
+  "official_page": "https://www.ardahanozelidare.gov.tr/ardahanozelidaregovtril-genel-meclis-kararlari",
+  "official_document": "https://www.ardahanozelidare.gov.tr/kurumlar/ardahanozelidare.gov.tr/Genel/meclis/2015%20y%C4%B1l%C4%B1%20kararlar/karar36.pdf",
+  "source_sha256": "9e572ec2325cbadbdafeb656797c5bdef254fd48b0f6fc1bb1d2f2b59c7763d5",
+  "issuer": "Ardahan İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number/subject as published (official list or file name); complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-12-31",
+  "in_force_basis": "The official source prints only the year of this decision (2015); date set to 31 December of that year (turkey-law date convention for year-only sources, Alan 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Karar: 36",
+  "item_title": "Eski İl Genel Meclis Kararları"
+}
