@@ -1,0 +1,25 @@
+{
+  "number": "meeting-12-31",
+  "number_as_published": "meeting-12-31",
+  "year": 2015,
+  "title": "31-12-2015 Meclis Karar Özetleri",
+  "decision_date": "2015-12-31",
+  "source": "https://www.hatay.bel.tr/api/documents?menuItemId=bbc57955-f40b-40e1-8097-3396c2320e15&page=11&pageSize=10&search=",
+  "official_document": "https://www.hatay.bel.tr/icerik/dosyalar/31-12-2015-meclis-karar-ozetleri.pdf",
+  "source_sha256": "70944ef8732a894d0c6b6341524e02920e24a8ff629a94c0a2bfc86b58938fdf",
+  "issuer": "Hatay Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2015-12-31",
+  "in_force_basis": "Decision date as printed in the official council listing: 31-12-2015; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "31-12-2015 Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "listing_date": "31.12.2015",
+  "official_page": "https://www.hatay.bel.tr/meclis-kararlari"
+}
