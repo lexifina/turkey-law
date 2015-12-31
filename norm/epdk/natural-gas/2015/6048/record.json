@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6048",
+  "decision_date": "2015-12-31",
+  "title": "Çinigaz Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi?nin 2012-2016 tarife dönemi perakende satış tarifelerinin revize edilmesi",
+  "resmi_gazete_date": "2015-12-31",
+  "resmi_gazete_number": "29579",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mc/rkmRDMYM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mc/rkmRDMYM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1dD8Qkor8e0="
+  ],
+  "source_sha256": "8078f4ce60b846a34b744f6d49bd3d7abe8cd32dc9d4b8a67dcbebf1c2a1d313",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-31",
+  "law_text_complete": false
+}
