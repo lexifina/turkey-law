@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-12-31",
+  "issue": "29579",
+  "edition": "mükerrer 3",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Ceza Muhakemesi Kanunu Gereğince Görevlendirilen Müdafi ve Vekillere Yapılacak Ödemelere İlişkin 2016 Yılı Tarifesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151231M3-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151231M3.htm",
+  "index_sha256": "4c094eb2434c89afc953b2171be8f5e7f8718c8db1f03673cab8b4fe07790b89",
+  "index_header": "31 Aralık 2015 ... 29579 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151231M3.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
