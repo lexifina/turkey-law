@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.21342",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2016 YILI SERBEST MUHASEBECİLİK, SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK ASGARİ ÜCRET TARİFESİ",
+  "number": "21342",
+  "path": "teblig/2015/21342",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21342&MevzuatTertip=5",
+  "source_sha256": "2ac278867770527fad605580dac6934b599dca9f4dd8c8c61d25c3d54eece4f6",
+  "source_bytes": 7646,
+  "published": "2015-12-31",
+  "gazette": "29579",
+  "in_force": "2015-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2015)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 87,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21342-ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
