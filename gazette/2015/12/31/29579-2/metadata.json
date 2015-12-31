@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2015-12-31",
+  "issue": "29579",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tehlikeli Maddelerin Karayoluyla Taşınması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151231-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151231.htm",
+  "index_sha256": "23dedac389708e717f1c3b03d6e179d08ca4c79f22c07204c7b68f66b5f8c727",
+  "index_header": "31 Aralık 2015 ... 29579 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2015/12/20151231.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
