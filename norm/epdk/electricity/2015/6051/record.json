@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6051",
+  "decision_date": "2015-12-31",
+  "title": "01/01/2016 Tarihinden İtibaren Geçerli Olacak Perakende Elektrik Tarife Tabloları,",
+  "resmi_gazete_date": "2015-12-31",
+  "resmi_gazete_number": "29579",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=T3X3H20RtcI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=T3X3H20RtcI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yW/DP+lMSYY="
+  ],
+  "source_sha256": "b94cc05a8fdc56d8e59d95639dada8b0e3a623ab436d682e2b419a3abf5faabe",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2015-12-31",
+  "law_text_complete": false
+}
