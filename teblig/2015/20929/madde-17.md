@@ -1,0 +1,2 @@
+Yerli üretim dalının ekonomik göstergelerin değerlendirilmesi
+MADDE 17 – (1) YÜD’ün ekonomik göstergeleri incelendiğinde, önlemin etkisiyle üretim, yurt içi satışlar, KKO, pazar payı, maliyetler, karlılık, verimlilik ve ürün nakit akışı gibi temel ekonomik verilerinde gözden geçirme döneminde iyileşmeler görülmüştür. Bununla birlikte, istihdam ve stoklar gibi bazı temel ekonomik göstergelerinde bozulmalar gözlenmiştir. Tüm bu verilerden, önlemin kalkması halinde zararın devamının veya yeniden meydana gelmesinin muhtemel olduğu değerlendirilmektedir.

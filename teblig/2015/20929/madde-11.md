@@ -1,0 +1,3 @@
+Genel ithalat
+MADDE 11 – (1) TÜİK’den alınan veriler çerçevesinde, soruşturma konusu ürünün genel ve önlem konusu ülkeden ithalatı incelenmiştir.
+(2) Türkiye’nin kilit ve aksam parçaları ithalatı, miktar bazında 2011 yılında 3.988.083 Kg, 2012 ve 2013’te ise sırasıyla, 2.803.150 Kg ve 2.740.583 Kg olarak gerçekleşmiştir. Değer bazında bakıldığında ise 2011 yılında 71.862.142 ABD Doları olan genel ithalatın değeri, 2012 yılında 55.669.473 ABD Doları ve 2013 yılında ise 54.385.943 ABD Doları olmuştur. Genel ithalatın birim fiyatlarına bakıldığında ise, 2011’de 18,02 ABD Doları/Kg, 2012’de 19,86 ABD Doları/Kg ve 2013’te ise 19,84 ABD Doları/Kg olduğu görülmüştür.
