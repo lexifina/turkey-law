@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21368",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE YETERLİLİKLER ÇERÇEVESİNE DAİR TEBLİĞ (TEBLİĞ NO: 2015/1)",
+  "number": "21368",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2016/21368",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21368&MevzuatTertip=5",
+  "source_sha256": "2f0b90cfca43211edb28c1bd4221591a36b2eab4fee97bec97bdfc6f08f17ed7",
+  "source_bytes": 7540,
+  "published": "2016-01-02",
+  "gazette": "29581",
+  "in_force": "2016-01-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.01.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 100,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21368-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
