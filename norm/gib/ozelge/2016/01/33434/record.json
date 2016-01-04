@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-010-186",
+  "source_id": 33434,
+  "date": "2016-01-04",
+  "title": "Engelli üzerine kayıtlı araç ile ilgili giderlerin indirim konusu yapılıp yapılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33434",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "f80dabf601e585346363b9232a21bdd28427b3430136d0a1b0667ef918989df1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
