@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41307",
+  "decision_date": "2016-01-05",
+  "source_id": 11084,
+  "chamber": "6",
+  "file_number": "40082",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11084/",
+  "source_sha256": "151a5725e767b09aa908812c948229be149a842733448862f19d05e10e9f6199",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
