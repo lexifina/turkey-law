@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-125[KVK.2014.ÖZ.24]-3",
+  "source_id": 27578,
+  "date": "2016-01-05",
+  "title": "İspanyadan alınan bilgisayar programı için ödenen bedellerden vergi tevkifatı yapılıp yapılmayacağı ve KDV ye tabi olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27578",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "76aa8f41bb0ee0b23650d32697dab5b7f2e6f3acc88a4ab77ef1bf3c172dfccb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
