@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41310",
+  "decision_date": "2016-01-05",
+  "source_id": 11100,
+  "chamber": "1",
+  "file_number": "37149",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2009",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11100/",
+  "source_sha256": "f97e6016eb7a759402d429ea5e1d40e834c2e707b229493bed5337072631ac85",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
