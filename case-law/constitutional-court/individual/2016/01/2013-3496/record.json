@@ -1,0 +1,20 @@
+{
+  "applicant": "A.H.Ö. VE L.D.",
+  "application_date": "2013-05-28",
+  "application_number": "2013/3496",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2016-01-06",
+  "id": "26bf2d40-a8be-b307-4e5e-1eef455504fd",
+  "in_force": "2016-01-06",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjI2YmYyZDQwLWE4YmUtYjMwNy00ZTVlLTFlZWY0NTU1MDRmZA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "14d66782abdb16700872c0eede4c23186c4e16cec74e6b605794f71acdb87cfb",
+  "version_label": "as-enacted"
+}
