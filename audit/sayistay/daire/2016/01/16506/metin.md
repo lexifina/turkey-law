@@ -1,0 +1,3 @@
+Sosyal Yardım:
+
+Denetçi tarafından gönderilen sorguda, 5393 sayılı Belediye Kanunu'nun 14’üncü maddesinin (a) bendi kapsamında sağlanmakta olan sosyal yardımlarla ilgili olarak yapılan muhtaçlık kontrollerinin yetersiz kaldığı ve bu nedenle mahalle muhtarlığınca "Fakirlik Kâğıdı" verilmiş olan …. ve ….'ın aynı zamanda Sosyal Güvenlik Kurumu kayıtlarına göre düzenli gelire sahip olduğu ifade edilmekte ise de, sorumlularca yapılan savunmalardan söz konusu kişilerin her hangi bir işte çalışmadığı ve muhtaçlıklarının muhtarlık tarafından belirlendiği görüldüğünden konu hakkında ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
