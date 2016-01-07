@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-01-07",
+  "issue": "29586",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Takograf Cihazları Muayene ve Damgalama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/01/20160107-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/01/20160107.htm",
+  "index_sha256": "6bc0188d62c2774b7719b1b0b3e09bd8693c0d8ee6838108a23c113f30cfca5c",
+  "index_header": "7 Ocak 2016 ... 29586 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/01/20160107.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
