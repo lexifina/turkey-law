@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "279",
+  "decision_date": "2016-01-07",
+  "source_id": 16037,
+  "chamber": "3",
+  "ilam_number": "104",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16037/",
+  "source_sha256": "f211ba06ae377d23fd06ea9216b7c9a07e688819a4dd1d38d823f8196a89ef81",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
