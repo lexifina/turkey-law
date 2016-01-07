@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "121",
+  "decision_date": "2016-01-07",
+  "source_id": 15976,
+  "chamber": "4",
+  "ilam_number": "93",
+  "item_number": 6,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15976/",
+  "source_sha256": "c55541b6065dca97dc358c9e63fb10a51118ef2f6498740cffe71cc2929df6af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
