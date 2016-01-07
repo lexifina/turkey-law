@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "71",
+  "decision_date": "2016-01-07",
+  "source_id": 15571,
+  "chamber": "8",
+  "ilam_number": "67",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15571/",
+  "source_sha256": "5f7c794991094955b8a1ffa82b93f443e40fcb467e55f6a5a8d0a250030dd13a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
