@@ -1,0 +1,22 @@
+{
+  "number": "1",
+  "number_as_published": "2016/01",
+  "year": 2016,
+  "title": "Belediye Meclisinin 07.01.2016 tarihinde yapılan 7. seçim dönemi 3. toplantı dönemi Ocak ayı Meclis toplantısı 2. birleşiminin Komisyondan gelen raporlar bölümünde; Hukuk Komisyonunun 05.01.2016 tarih ve 50 sayılı raporu Başkanlık Divanı tarafından meclise hitaben okundu.",
+  "decision_date": "2016-01-07",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2016-ocak-ayi-meclis-kararlari/436",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2016-01/441",
+  "source_sha256": "9db6b980f101adbdf086aa198f75a8e863c72b544dd9c03e2b5e96abaa5b4fc7",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2016-01-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.01.2016 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "8f6aaf55d6b8a0b265bad535e9af26c01451ed14fee1a879fbdf98e8d5134e28"
+}
