@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "60",
+  "decision_date": "2016-01-07",
+  "source_id": 16504,
+  "chamber": "7",
+  "ilam_number": "152",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16504/",
+  "source_sha256": "5ee7d371408d53e71497c88b15d6109f1156a74dc21062db990e2cd657af1955",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
