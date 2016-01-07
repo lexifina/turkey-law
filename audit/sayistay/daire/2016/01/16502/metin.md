@@ -1,0 +1,9 @@
+Haberleşme Gideri:
+
+Belediye Kanunu'na göre Belediyelerin görevleri arasında bulunmayan içeriğe sahip ve resmi olarak nitelendirilemeyecek ilanlar yayımlatılması, ayrıca bir firmaya 500 bin adet cep telefonu mesajı için ödemede bulunulması suretiyle oluşan kamu zararının sorumlularına ödettirilmesi istenilmekte ise de;
+
+5393 sayılı Belediye Kanununun “Belediyenin giderleri” başlıklı 60’ıncı maddesinin (k) bendinde temsil, tören, ağırlama ve tanıtım giderleri, belediye giderleri arasında sayılmıştır. Yine belediye bütçesinden yapılacak Temsil, Ağırlama ve Tören Giderleri Yönergesi’nin 3’üncü maddesinde; mahalli örf, adet ve sosyal yaşantı için de gerekli sayılan etkinlik ve törenler için harcama yapılabileceği hüküm altına alınmıştır.
+
+Yukarıda ifade edilen mevzuat hükümleri uyarınca,, belde sakinlerinin resmi, dini ve özel günlerinin kutlanması ile sosyal- güncel olayların ilanı ve reklamı için yapılan toplu SMS gönderim bedelleri ve ilan giderleri geleneklere ve sosyal yaşantıya uygun ve amirin takdir yetkisi içinde mütalaa edilebilecek türden harcamalardır. Her ne kadar Denetçi görüşünde sorgu konusu ödemelerin 'Temsil - Ağırlama ve Tören' giderlerinden değil, 'Diğer Haberleşme Giderleri' ekonomik kodundan yapıldığı ve tazmin kararı verilmesi gerektiği ifade edilmişse de, harcamanın hatalı koddan yapılmasının idari bir hatadan kaynaklanmakta olduğu ve ödemenin mahiyetini değiştirmeyeceğinden herhangi bir kamu zararından söz edilebilmesine olanak bulunmadığı anlaşılmıştır.
+
+Sonuç olarak, sözü edilen nedenlerle sorgu konusu …… TL ile ilgili olarak ilişilecek bir husus bulunmadığına, (Üye …..’in “Basın İlam Kurumu aracılığıyla verilmesi gereken ilanların bu kurum aracılığıyla verilmemesi ve kamusal niteliği bulunmayan mesajlar için ödemede bulunulması neticesinde oluşan kamu zararının sorumlularına ödettirilmesi gerekir” şeklindeki ayrışık görüşlerine karşın) oy çokluğuyla karar verildi.
