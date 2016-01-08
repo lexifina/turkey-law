@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğde, Artvin İline bağlı Murgul İlçesinde 11/11/2015 ve 13/11/2015 tarihleri arasında meydana gelen doğal afet nedeniyle Bakanlığımızca 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 13 üncü ve 15 inci maddeleri kapsamında mücbir sebep hali ilan edilen bu ilçedeki amme borçlularının Bakanlığımıza bağlı vergi dairelerine olan borçlarının 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesine istinaden tecil ve taksitlendirilmesine yönelik açıklamalar yapılması amaçlanmaktadır.
