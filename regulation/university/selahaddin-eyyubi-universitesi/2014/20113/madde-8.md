@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Akademik ve İdari Organlar ve Görevleri
+Rektör ve görevleri
+MADDE 8 – (1) Rektör, YÖK’ün olumlu görüşü alındıktan sonra Mütevelli Heyet tarafından dört yıl süre ile atanır. Rektörlüğün herhangi bir nedenle boşalması durumunda Mütevelli Heyet, yeni Rektör atanıncaya kadar YÖK’ün olumlu görüşünü aldıktan sonra Rektör vekili atar. Rektörlük için yaş haddi 67’dir. Ancak 67 yaşından önce atanmış olanlar görev süreleri bitinceye kadar Rektörlük görevini sürdürebilir. Görev süresi biten Rektör yeniden atanabilir.
+(2) Rektör, Mütevelli Heyet tarafından kendisine verilen yetkileri kullanır ve görevleri yapar. Rektör, Rektörlük tarafından hazırlanıp Mütevelli Heyet tarafından kabul edilen norm kadro sınırları içerisinde öğretim elemanları ile diğer personelin atamalarını, terfilerini ve sözleşmelerini yapar, görevden alınmalarını onaylar. Rektör, ilgili mevzuatla kendisine verilen diğer görevleri yapar.
+(3) Rektör, Üniversitenin aylıklı profesörleri arasından en fazla üç kişiyi Rektör yardımcısı olarak atanmak üzere Mütevelli Heyetin onayına sunar. Rektör yardımcıları Rektör tarafından verilen görevleri yerine getirir. Rektör yardımcılarının görev süreleri beş yıldır. Rektör, görevi başında bulunamadığı hallerde Rektör yardımcılarından birini vekil bırakır.

@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/selahaddin-eyyubi-universitesi/2014/20113",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 35 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-9/1/2016",
+  "first_law": null,
+  "gazette": "29139",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-01-09",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Selahaddin Eyyubi Üniversitesi",
+  "issuer_slug": "selahaddin-eyyubi-universitesi",
+  "kind": "regulation",
+  "published": "2014-10-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20113&MevzuatTertip=5",
+  "source_id": "8.5.20113",
+  "source_sha256": "58f98383bdaa8b2003df08a634001442830586fc49f7a3d55ea532a3fe7e9dbe",
+  "title": "SELAHADDİN EYYUBİ ÜNİVERSİTESİ ANA YÖNETMELİĞİ",
+  "university_id": 448,
+  "version_label": "oldest version available",
+  "word_count": 2626
+}

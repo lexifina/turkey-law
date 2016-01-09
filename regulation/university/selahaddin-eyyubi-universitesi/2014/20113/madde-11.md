@@ -1,0 +1,2 @@
+Dekan ve görevleri
+MADDE 11 – (1) Dekan, Rektörün önerisi ve YÖK’ün olumlu görüşü alındıktan sonra Rektör tarafından atanır. Görev süresi üç yıldır. Süresi biten dekan tekrar atanabilir. Dekan, Rektörün onayı ile fakültede görevli aylıklı öğretim üyeleri arasından en çok iki kişiyi üç yıl için dekan yardımcısı olarak seçebilir. Dekan görevde olmadığı zaman dekan yardımcılarından biri vekalet eder. Göreve vekalet altı aydan fazla sürerse yeni dekan atanır. Dekan, fakülte ve birimlerinin temsilcisi olup, 2547 sayılı Kanun ve ilgili diğer mevzuatla verilen görevleri yürütür.

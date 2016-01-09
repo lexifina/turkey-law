@@ -1,0 +1,2 @@
+Enstitü müdürü ve görevleri
+MADDE 12 – (1) Enstitü müdürü, Rektör tarafından atanır. Müdürün görev süresi üç yıldır. Süresi biten müdür yeniden atanabilir. Müdür, Rektörün onayı ile aylıklı öğretim elemanları arasından en çok iki kişiyi üç yıl için müdür yardımcısı olarak seçebilir. Müdür görevde olmadığı zaman müdür yardımcılarından biri vekalet eder. Göreve vekalet altı aydan fazla sürerse yeni müdür atanır. Müdür, 2547 sayılı Kanun ve ilgili diğer mevzuatla dekana verilen görevleri enstitü bakımından yerine getirir.

@@ -1,0 +1,2 @@
+Yüksekokul müdürü ve görevleri
+MADDE 13 – (1) Yüksekokul müdürü, üç yıl için Rektör tarafından atanır. Süresi biten müdür yeniden atanabilir. Müdür, Rektörün onayı ile yüksekokulda görevli aylıklı öğretim elemanları arasından en çok iki kişiyi müdür yardımcısı olarak seçebilir. Müdür, görevde olmadığı zaman yardımcılarından biri vekalet eder. Göreve vekalet altı aydan fazla sürerse yeni müdür atanır. Müdür, 2547 sayılı Kanun ve ilgili diğer mevzuatla dekana verilen görevleri yüksekokul bakımından yerine getirir.
