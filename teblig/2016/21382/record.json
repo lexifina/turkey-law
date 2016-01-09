@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.21382",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÖDEME VE MENKUL KIYMET MUTABAKAT SİSTEMLERİNDE KULLANILAN BİLGİ SİSTEMLERİ HAKKINDA TEBLİĞ (Sayı: 2015/7)",
+  "number": "21382",
+  "issuer": "Türkiye Cumhuriyet Merkez Bankası Başkanı",
+  "path": "teblig/2016/21382",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21382&MevzuatTertip=5",
+  "source_sha256": "5f068707d629b81fe695a49dcd11b7c788eff2784e0215b56cb80ccab8e520bc",
+  "source_bytes": 46182,
+  "published": "2016-01-09",
+  "gazette": "29588",
+  "in_force": "2016-01-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.01.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2633,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
