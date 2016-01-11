@@ -1,0 +1,23 @@
+{
+  "number": "22",
+  "number_as_published": "22",
+  "year": 2016,
+  "title": "Kocasinan Belediye Meclisinin 05.03.2015 tarih ve 56 sayılı kararının incelenmesi talebi.",
+  "decision_date": "2016-01-11",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/11-ocak-2016-tarihli-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "6e5e7842a5b7175d5fa73a9df473c3e0d4de9cd6cf94b1035f8e88c3b8ca2c08",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2016-01-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.01.2016; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "meeting": "11 Ocak 2016 Tarihli Meclis Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=11"
+}
