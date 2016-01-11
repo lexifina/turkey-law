@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.27.40.01-140[15-515-196]-662",
+  "source_id": 28531,
+  "date": "2016-01-11",
+  "title": "İki şirketin birleşmesi sonucu, infisah eden şirketin üretip sattığı elektriğe ilişkin harç bildiriminin ne zaman verileceği, elektronik olarak mı yoksa kağıt ortamında mı beyan edileceği, vergilendirme yılı ve döneminin ne olacağı ve ödemenin ne zaman yapılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/28531",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "c2c203af90bec78a2a537387b3ebd8bd0a25ed3bfffdb0f245124167100c8109",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
