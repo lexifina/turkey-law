@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "29",
+  "decision_date": "2016-01-11",
+  "title": "MEC_ KAR. ( Şartlı Bağış Yenişehir, Kocavilaye",
+  "listed_as": "29 MEC_ KAR. ( Şartlı Bağış Yenişehir, Kocavilaye",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/29-mec--kar----sartli-bagis-yenisehir-kocavilayet-10421-ada-1-parsel--",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk30-11-ocak-2016-meclis-kararlari",
+  "listing_sha256": "d41bada9bd54473772a052d323329f1c189345d37d7388ee070c3f8bed110520",
+  "meeting_title": "MK30-11 OCAK 2016 MECLIS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
