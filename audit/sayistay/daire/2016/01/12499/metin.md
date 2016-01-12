@@ -1,0 +1,3 @@
+İdari ve Mali İşler Daire Başkanlığınca İnsani Bilimler ve Edebiyat Fakültesi ile Sosyal Tesis ihtiyaçları için …………..’tan yapılan muhtelif mobilya alım işinde faturada yer alan 55 adet çalışma masası fiilen teslim alınmadığı halde, alınmış gibi faturaya dayalı ödeme yapılması.
+
+İdari ve Mali İşler Daire Başkanlığınca İnsani Bilimler ve Edebiyat Fakültesi ile Sosyal Tesis ihtiyaçları için …………..’tan yapılan muhtelif mobilya alım işinde faturada yer alan 55 adet çalışma masası fiilen teslim alınmadığı halde, alınmış gibi faturaya dayalı ödeme yapılması sonucu oluşan …… TL’lik kamu zararı ……… Muhasebe İşlem Fişi ile Bütçe Gelirleri Hesabına kaydedilerek tahsil edildiğinden ilişilecek bir husus kalmadığına oybirliğiyle,
