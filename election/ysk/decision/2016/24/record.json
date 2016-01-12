@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2016/24",
+  "list_number": "24",
+  "decision_date": "2016-01-12",
+  "title": "İl ve ilçe seçim kurullarıyla Yurt Dışı İlçe Seçim Kurulunun; 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun'un 15, 18 ve 19. maddelerinde yazılı usullere göre 2016 yılı Ocak ayının son haftasında (25 - 31 Ocak) ve iki yıl süre için yeniden kurulmalarına ilişkin Yüksek Seçim Kurulunun 2016/24 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/1911/2016-24.pdf",
+  "source_sha256": "d8b05027b08fa9f0d111c3f95a8b70881a0baf41f90a71dedb285d06c59353ee",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 10,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2016-01-12",
+  "law_text_complete": false
+}
