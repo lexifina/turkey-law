@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6065",
+  "decision_date": "2016-01-12",
+  "title": "Lisans başvurusu açıklamaları ve lisans tadili başvurularında aranacak bilgi ve belgelere ilişkin",
+  "resmi_gazete_date": "2016-01-23",
+  "resmi_gazete_number": "29602",
+  "categories": [
+    "Lisans Başvuruları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EExpxmuMk6Y=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EExpxmuMk6Y="
+  ],
+  "source_sha256": "d2e8afe5b8afe0788cc862c8db7fe17cee8ded1ad3fe6b5684e3526fd88db3ab",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4870,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-01-12",
+  "law_text_complete": false
+}
