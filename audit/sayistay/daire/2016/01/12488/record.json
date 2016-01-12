@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35363",
+  "decision_date": "2016-01-12",
+  "source_id": 12488,
+  "chamber": "2",
+  "ilam_number": "79",
+  "item_number": 6,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12488/",
+  "source_sha256": "ec22f4b9e66907ecbb78f651632cd06c134f07d06bf47357465fd759c254c98f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
