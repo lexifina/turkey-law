@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10518",
+  "decision_date": "2016-01-12",
+  "source_id": 16024,
+  "chamber": "1",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16024/",
+  "source_sha256": "01c5a89785bf787a01767fa9afdd7cca26bf4b90230cc01fd2f05314330085be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
