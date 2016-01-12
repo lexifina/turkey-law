@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2016/DK-ETD/17",
+  "date": "2016-01-12",
+  "title": "Genişbant Kampanyaları",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2016-02-02",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=99",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/812afae3-b12e-43d9-bd4f-dbba94a76570.pdf",
+  "source_sha256": "a253f9d947a24dc05bbcf6e555cb99a7f486a43e21660a3f762e53882b4171a7",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2016-01-12",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 12.01.2016; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
