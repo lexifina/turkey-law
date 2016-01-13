@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 26,
+  "legislative_year": 1,
+  "esas_no": "7/1631",
+  "submitted": "2016-01-13",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Fahrettin Oğuz TOR",
+  "province": "Kahramanmaraş",
+  "summary": "Kahramanmaraş'ta bulunan bir kömür işletmesinde yaşanan ve 11 kişinin hayatını kaybettiği kazaya ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-60ee-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "65eca90ab8964f0a691d8d39a2cca5c835041769c2dc70bf4340225ce0c11c5a",
+  "in_force": "2016-01-13",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
