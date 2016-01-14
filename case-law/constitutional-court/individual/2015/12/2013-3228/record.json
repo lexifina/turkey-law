@@ -1,0 +1,20 @@
+{
+  "applicant": "A.Z.",
+  "application_date": "2013-05-15",
+  "application_number": "2013/3228",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2015-12-10",
+  "id": "d219d53b-9632-af7c-2be3-bf4aaef79042",
+  "in_force": "2016-01-14",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2016-01-14",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmQyMTlkNTNiLTk2MzItYWY3Yy0yYmUzLWJmNGFhZWY3OTA0Mg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "878c39a7788f7a6763c55bb239a83cd31f93de9afedc7a67d2b9dae121f08034",
+  "version_label": "as-enacted"
+}
