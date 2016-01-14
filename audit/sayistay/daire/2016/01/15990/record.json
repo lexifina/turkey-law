@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "63",
+  "decision_date": "2016-01-14",
+  "source_id": 15990,
+  "chamber": "7",
+  "ilam_number": "124",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15990/",
+  "source_sha256": "93ea64a7398bcf2c7fee7eae67102ec8b5a760962c614964510f1a4a38c4489b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
