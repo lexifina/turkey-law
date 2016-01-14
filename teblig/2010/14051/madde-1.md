@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğ, (Değişik ibare:RG-30/10/2015-29517) Alberk QA Uluslararası Teknik Kontrol ve Belgelendirme A.Ş.’nin, 26/6/2009 tarih ve 27270 sayılı Resmî Gazete’de yayımlanan Yapı Malzemelerinin Tabi Olacağı Kriterler Hakkında Yönetmeliğe (Yönetmelik) göre gerçekleştireceği uygunluk değerlendirme faaliyetleri için (Değişik ibare:RG-14/1/2016-29593) Çevre ve Şehircilik Bakanlığı tarafından görevlendirilmiş olduğunun Yönetmeliğin 19 uncu maddesinin 3 üncü fıkrasında belirtildiği üzere duyurulması amacıyla hazırlanmıştır.
