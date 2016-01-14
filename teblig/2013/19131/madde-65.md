@@ -1,0 +1,14 @@
+ONÜÇÜNCÜ BÖLÜM
+Yatırım Kuruluşları Hakkında Tedbirler
+Faaliyet izinlerinin sınırlandırılması, faaliyetlerin geçici olarak durdurulması veya iptali
+MADDE 65 – (1) Kurul aşağıdaki hallerde, olayın mahiyet ve önemini göz önüne alarak, yatırım kuruluşlarının hizmet ve faaliyetlerinin kapsamını sermaye piyasası aracı, piyasa, merkez dışı örgüt veya yatırım hizmet ve faaliyetleri kapsamında iş ilişkisi kurulacak yatırım kuruluşları bazında sınırlandırabilir, tamamen veya belirli sermaye piyasası faaliyetleri itibarıyla faaliyetlerini geçici olarak durdurabilir veya faaliyet izinlerini iptal edebilir:
+a) Faaliyet izninin verildiği tarihten itibaren 2 yıl süreyle ilgili izin kapsamında herhangi bir faaliyette bulunulmaması
+b) Faaliyet izninin yanlış veya yanıltıcı beyanlarda bulunularak ya da hukuka aykırı diğer yollarla alınmış olması
+c) Yatırım kuruluşlarının kuruluş, faaliyete geçme, faaliyet izni alınmasına ilişkin olarak öngörülen şartlar ile aracı kurumun ortak ve yöneticilerinin, personelinin, merkez dışı örgütlerinin Kanunda ve Kurul düzenlemelerinde sayılan şart ve niteliklerden herhangi birini yerine getirmediğinin ya da yitirdiğinin Kurulca tespitinden itibaren 3 ayı geçmemek üzere Kurulca verilen süre içinde bu şartların yeniden sağlanamaması
+ç) Faaliyet izni alındıktan sonra teminatların yükseltilmesi veya tamamlanması gerektiği durumlarda, ilave veya eksik teminatın, bu durumun ortaya çıktığı tarihten itibaren 3 ayı geçmemek üzere Kurulca verilen süre içinde yatırılmamış olması
+d) 66 ncı madde kapsamında hukuka aykırı faaliyet veya işlemlerinin tespit edilmiş olması
+e) 67 nci madde kapsamında mali durumunun bozulmuş olması
+(2) Bu Tebliğ uyarınca faaliyetlerinin geçici olarak durdurulmasına karar verilen aracı kurumlara Kurulca 2 yılı geçmemek üzere uygun bir süre verilir. Verilen süre Kurul karar tarihinden itibaren başlar. Faaliyetlerin geçici olarak durdurulmasına ilişkin olarak verilen süre, toplamı 2 yılı geçmemek üzere aracı kurumun talebi üzerine veya Kurul tarafından resen uzatılabilir. Sürenin sonunda aracı kurumun yeniden faaliyete geçememesi durumunda tüm faaliyet izinleri iptal edilir.
+(3) 2 yıl içinde faaliyetlerinin tamamı iki kez geçici olarak durdurulan aracı kuruma bu tedbir üçüncü defa uygulanmaz, faaliyet izinleri iptal edilir. Yine bu süre içinde, aynı faaliyeti iki kez geçici olarak durdurulan aracı kuruma üçüncü kez aynı müeyyide uygulanmaz, sadece ilgili faaliyet izni iptal edilir.
+(4) Faaliyet izinlerinin tamamı Kurulca iptal edilen aracı kurumlar hakkında 59 uncu maddenin ikinci ve üçüncü fıkralarında yer alan hükümler uygulanır.
+(5) Ayrıca Kurul, birinci fıkradaki hallerin varlığı durumunda herhangi bir yan hizmetin sunulmasını, tüm yatırım kuruluşları veya münferit yatırım kuruluşu bazında geçici veya sürekli olarak durdurmaya yetkilidir.

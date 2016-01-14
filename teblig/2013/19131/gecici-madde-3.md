@@ -1,0 +1,2 @@
+Mevcut müşteriler ile ilgili geçiş süresi
+GEÇİCİ MADDE 3 – (1) Yatırım kuruluşları Kurulun yatırım hizmetleri ve faaliyetleri ile yan hizmetlere ilişkin esaslar ile ilgili düzenlemeleri uyarınca sunmak istedikleri yatırım hizmetleri ve faaliyetleri ile yan hizmetler için Kuruldan izin almalarını izleyen 1 yıl içinde mevcut müşterilerine ilişkin olarak, bu Tebliğin çerçeve sözleşmelerin imzalanması, müşterinin sınıflandırılması ve uygunluk testine tabi tutulmasına dair yükümlülüklerini yerine getirir.

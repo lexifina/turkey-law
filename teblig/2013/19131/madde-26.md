@@ -1,0 +1,7 @@
+Çerçeve sözleşme imzalama yükümlülüğü
+MADDE 26 – (1) Yatırım kuruluşları müşterileriyle işlem yapmaya başlamadan önce, sunulacak faaliyet ve hizmete ilişkin yazılı bir sözleşme yapmak zorundadır. Bu sözleşmede yer verilmesi gereken asgari hususlar Kurulca belirlenir. Bu sözleşme, yatırım kuruluşuyla müşterisi arasındaki ilişkiyi genel olarak düzenleyen, başlangıçta bir kez akdedilen ve münferit işlemlerin esasını oluşturan bir çerçeve anlaşmadır.
+(2) Her bir sözleşme için belirlenen gerekli asgari unsurlara yer verilmesi şartıyla birden fazla yatırım hizmet ve faaliyetine ilişkin olarak tek bir çerçeve sözleşme imzalanabilir.
+(3) Sözleşmeler, müteselsil sıra numaralı ve en az bir nüsha olarak düzenlenir ve aslına uygun olduğuna ilişkin onaylayanın imzasını ve yatırım kuruluşunun kaşesini ihtiva eden bir suret müşteriye verilir. Sözleşmenin yatırım kuruluşunda kalan aslının üzerine müşteri tarafından bir suretinin alındığı ibaresi yazılır ve imzalanır.
+(4) Sözleşmeye taraf olan müşterinin ya da müşterilerin, devir, birleşme, veraset, müşterek hesaplara yeni hak sahiplerinin dâhil olması ya da mevcutlardan bazılarının ayrılması gibi nedenlerle değişmesi halinde sözleşmenin yenilenmesi zorunludur.
+(5) Çerçeve sözleşmelerde sermaye piyasası mevzuatına aykırı hükümler ile müşterilerin haklarını ciddi şekilde zedeleyici ve yatırım kuruluşları lehine tek taraflı olağanüstü haklar sağlayan ve emirlerin ispatının müşteriye yüklenmesine ilişkin hükümlere yer verilmez.
+(6) Sözleşmelerde hüküm bulunmayan hallerde genel hükümler uygulanır.

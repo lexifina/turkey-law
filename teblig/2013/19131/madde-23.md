@@ -1,0 +1,3 @@
+Sır saklama ilkesi
+MADDE 23 – (1) Aracı kurumlar, aracı kurum personeli ve aracı kuruma dışarıdan hizmet verenler, işleri dolayısıyla yatırım hizmet ve faaliyetleri kapsamında aracı kurum ve müşterileri hakkında öğrendikleri sırları açıklayamaz, bu sırları kendilerinin veya üçüncü kişilerin menfaatine kullanamaz.
+(2) Kamuyu aydınlatma amacıyla mevzuat gereği yapılan ilan ve duyurular, mevzuat kapsamında yetkili kurumlardan veya şahıslardan alınan resmi belgelere dayalı olmak kaydıyla, idari her türlü inceleme ve soruşturma halleri ile suç oluşturan durumlara ilişkin bilgilerin yetkililere verilmesi sır kapsamında değildir.

@@ -1,0 +1,7 @@
+Talebe dayalı olarak profesyonel müşteri kabul edilecek müşteriler
+MADDE 32 – (1) Genel müşterilerden aşağıdaki nitelikleri haiz olanlar, yazılı olarak talep etmeleri ve aşağıdaki şartlardan en az ikisini sağladıklarını tevsik etmeleri durumunda, yatırım kuruluşunun sunabileceği hizmet ve faaliyetlerden profesyonel müşteri sıfatıyla yararlanabilir. Bir müşterinin profesyonel müşteri olarak kabul edilebilmesi için aşağıdaki şartlardan en az ikisini sağlaması gerekir:
+a) İşlem yapılması talep edilen piyasalarda son 1 yıl içinde, her 3 aylık dönemde en az 500.000 Türk Lirası hacminde ve en az 10 adet işlem gerçekleştirmiş olmaları
+b) Nakit mevduatlarının ve sahip olduğu sermaye piyasası araçlarının da dâhil olduğu finansal varlıkları toplamının 1.000.000 Türk Lirası tutarını aşması
+c) Finans alanında üst düzey yönetici pozisyonlarından birinde en az 2 yıl görev yapmış olması veya sermaye piyasası alanında en az 5 yıl ihtisas personeli olarak çalışmış olması veya Sermaye Piyasası Faaliyetleri İleri Düzey Lisansı veya Türev Araçlar Lisansına sahip olması
+(2) Bu madde ile 31 inci maddenin birinci fıkrasında belirtilen tutarlar gerekli görülmesi durumunda Kurul tarafından değiştirilebilir.
+(3) Kurulun ilgili düzenlemelerinde yer alan nitelikli yatırımcı tanımı kapsamında, talebe dayalı olarak profesyonel kabul edilecek müşterilerin belirlenmesinde bu maddenin birinci fıkrasında yer alan şartlardan sadece (b) bendindeki şartı sağlayanlar nitelikli yatırımcı olarak kabul edilir.

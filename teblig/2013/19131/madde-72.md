@@ -1,0 +1,2 @@
+Faaliyette olan aracı kurumların teminatlarının serbest bırakılması
+MADDE 72 – (1) Faaliyette olan aracı kurumların 70 inci maddenin birinci fıkrası uyarınca Takasbank nezdinde Kurul adına bloke edilen teminatları, bu teminatların bloke edilmesine ilişkin Kurul kararında belirtilen nedenin ortadan kalkması veya Kurulca belirlenen sürenin sona ermesini müteakip herhangi bir koşul öngörülmeksizin Kurulun bildirim yazısı üzerine Takasbank tarafından aracı kuruma iade edilir.

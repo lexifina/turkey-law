@@ -1,0 +1,2 @@
+Tedrîcî tasfiye ve iflas durumlarında uygulanacak tedbirler
+MADDE 68 – (1) Kurul, yatırım kuruluşlarının iflası veya Kanunun 86 ncı maddesi uyarınca tedrîcî tasfiyeye girmesi durumlarında, Kanunun 97 nci maddesi uyarınca sorumlulukları tespit edilmiş bulunmak kaydıyla; doğrudan veya dolaylı %10 undan fazla paya sahip ortaklarının, görevden ayrılmış olan veya görevde bulunan yönetim kurulu üyelerinin ve imzaya yetkili yöneticilerinin şahsen iflaslarını istemeye yetkilidir.

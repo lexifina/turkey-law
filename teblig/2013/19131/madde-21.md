@@ -1,0 +1,3 @@
+Mesleki özen ve titizlik ilkesi
+MADDE 21 – (1) Aracı kurum personeli, çalışmalarında ve karar almada gerekli mesleki özen ve titizliği göstermek zorundadır. Özen ve titizlik, dikkatli ve basiretli bir personelin aynı koşullar altında ayrıntılara vereceği önemi, göstereceği dikkat ve gayreti ifade eder.
+(2) Gerekli özen ve titizliğin asgari düzeyi, müşteriyle imzalanmış olan çerçeve sözleşmeye, bu Tebliğe ve Kurulun yatırım hizmetleri ve faaliyetleri ile yan hizmetlere ilişkin esaslar ile ilgili düzenlemelerinde yer alan hizmet ve faaliyet ilke ve esaslarına, Birliğin düzenlemeleri ile aracı kurumun iç düzenlemeleri ile belirlediği standartlara tamamen uyulmasıdır.

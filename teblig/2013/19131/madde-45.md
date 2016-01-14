@@ -1,0 +1,4 @@
+Şube ve irtibat bürosu izin süreci
+MADDE 45 – (1) Aracı kurumlar, şube veya irtibat bürosu açılmasına ilişkin noter onaylı yönetim kurulu kararı, şube veya irtibat bürosuna ilişkin fizibilite etüdü ile şube ve irtibat bürosu açılmasına ilişkin 43 veya 44 üncü maddelerde aranan şartları yerine getirdiklerini tevsik eden bilgi ve belgelerle izin almak üzere Kurula başvurur.
+(2) Kurul tarafından izin başvurusu olumlu karşılandığı takdirde, keyfiyetin tebliğini takiben aracı kurumlar kendi ticaret unvanları altında şube veya irtibat bürosunun adı ile kurulmasına ilişkin yönetim kurulu kararını tescil ve ilan ettirerek şube veya irtibat bürolarını faaliyete geçirir.
+(3) İzin başvuruları Kurul tarafından 30 iş günü içinde sonuçlandırılır. Kurulca istenecek eksik bilgi ve belgelerin tamamlanması için geçen süreler bu sürenin hesabında dikkate alınmaz.

@@ -1,0 +1,5 @@
+ONBİRİNCİ BÖLÜM
+Faaliyetlerin Kendi İsteği ile Durdurulması ve Faaliyet İzninin İptali
+Faaliyetlerin kendi isteği ile geçici olarak durdurulması
+MADDE 57 – (1) Aracı kurumlar faaliyetlerinin tamamının geçici olarak durdurulması talebiyle Kurula başvurabilir. Bu başvurunun olumlu karşılanması halinde aracı kurumlara Kurulca 2 yılı geçmemek üzere uygun bir süre verilir. Verilen süre Kurul karar tarihinden itibaren başlar. Aracı kurumun talebi üzerine, faaliyetlerin geçici olarak durdurulmasına ilişkin olarak verilen sürelerin toplamı 2 yılı geçmemek üzere ek süre verilebilir. Faaliyetleri kendi isteği ile durdurulan aracı kurumların yeniden faaliyete geçmelerinden itibaren 5 yıl içerisinde faaliyetlerini kendi isteği ile tekrar durdurmaları halinde 2 yıllık sürenin hesaplanmasında önceki kapalılık süresi de dikkate alınır.
+(2) Aracı kurumların verilen sürenin sonunda yeniden faaliyete geçmek için veya 63 üncü madde uyarınca yeni bir aracı kurum kurulması amacıyla tüm yetki belgelerinin iptali için Kurula başvurmaması halinde tüm faaliyet izinleri iptal olunur. Bu durumda 59 uncu maddede yer alan hükümler uygulanır.

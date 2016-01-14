@@ -1,0 +1,25 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Aracı Kurum: Kanunun 37 nci maddesinin birinci fıkrasındaki yatırım hizmet ve faaliyetlerinden (a), (b), (c), (e) ve (f) bentlerinde yer alanları münhasıran yapmak üzere Kurul tarafından yetkilendirilen yatırım kuruluşunu,
+b) Banka: 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununun 3 üncü maddesinde tanımlanan mevduat ve katılım bankaları ile kalkınma ve yatırım bankalarını,
+c) Birlik: Türkiye Sermaye Piyasaları Birliğini,
+ç) Borsa: Anonim şirket şeklinde kurulan, sermaye piyasası araçları, kambiyo ve kıymetli madenler ile kıymetli taşların ve Kurulca uygun görülen diğer sözleşmelerin, belgelerin ve kıymetlerin serbest rekabet şartları altında kolay ve güvenli bir şekilde alınıp satılabilmesini sağlamak ve oluşan fiyatları tespit ve ilân etmek üzere kendisi veya piyasa işleticisi tarafından işletilen ve/veya yönetilen, alım-satım emirlerini sonuçlandıracak şekilde bir araya getiren veya bu emirlerin bir araya gelmesini kolaylaştıran, Kanuna uygun olarak yetkilendirilen ve düzenli faaliyet gösteren sistemleri ve pazar yerlerini,
+d) Dar yetkili aracı kurum: Kurulun yatırım hizmetleri ve faaliyetleri ile yan hizmetlere ilişkin esaslar ile ilgili düzenlemeleri uyarınca emir iletimine aracılık ve/veya yatırım danışmanlığı faaliyetlerinden herhangi birini yürütecek olan aracı kurumu,
+e) Geniş yetkili aracı kurum: Kurulun yatırım hizmetleri ve faaliyetleri ile yan hizmetlere ilişkin esaslar ile ilgili düzenlemeleri uyarınca portföy aracılığı faaliyeti, genel saklama hizmeti ve/veya aracılık yüklenimi faaliyetinden herhangi birini yürütecek olan aracı kurumu,
+f) İhraç: Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp, halka arz edilerek veya halka arz edilmeksizin satışını,
+g) Kanun: 6362 sayılı Sermaye Piyasası Kanununu,
+ğ) Kısmi yetkili aracı kurum: Kurulun yatırım hizmetleri ve faaliyetleri ile yan hizmetlere ilişkin esaslar ile ilgili düzenlemeleri uyarınca işlem aracılığı, en iyi gayret aracılığı faaliyeti, sınırlı saklama hizmeti ve/veya portföy yöneticiliği faaliyetinden herhangi birini yürütecek olan aracı kurumu,
+h) Kurul: Sermaye Piyasası Kurulunu,
+ı) MKK: Kanunun 81 inci maddesinde tanımlanan Merkezi Kayıt Kuruluşu Anonim Şirketini,
+i) Önemli etkiye sahip ortak: Sermaye veya oy haklarının doğrudan veya dolaylı olarak %10 veya daha fazlasını temsil eden paylar ile bu oranın altında olsa dahi yönetim kurullarına üye belirleme imtiyazı veren paylara sahip ortağı,
+j) Özsermaye: Kurulun aracı kurumların sermayeleri ve sermaye yeterliliği ile ilgili düzenlemeleri uyarınca hesaplanan özsermayeyi,
+k) Sermaye piyasası araçları: Menkul kıymetler ve türev araçlar ile yatırım sözleşmeleri de dahil olmak üzere Kurulca bu kapsamda olduğu belirlenen diğer sermaye piyasası araçlarını,
+l) Sermaye piyasası faaliyetleri: Sermaye piyasası kurumlarının Kanun kapsamındaki faaliyetleri, Kanun kapsamına giren yatırım hizmetleri ve faaliyetleri ile bunlara ek olarak sunulan yan hizmetleri,
+m) SPL: Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu Anonim Şirketini,
+n) Takasbank: İstanbul Takas ve Saklama Bankası Anonim Şirketini,
+o) TTK: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununu,
+ö) Yan hizmetler: Kanunun 38 inci maddesinde sayılan hizmetleri,
+p) Yatırım hizmetleri ve faaliyetleri: Kanunun 37 nci maddesinde sayılan hizmet ve faaliyetleri,
+r) Yatırım kuruluşu: Aracı kurumlar ile yatırım hizmeti ve faaliyetinde bulunmak üzere kuruluş ve faaliyet esasları Kurulca belirlenen diğer sermaye piyasası kurumlarını ve bankaları,
+s) YTM: Kanunun 83 üncü maddesinde tanımlanan Yatırımcı Tazmin Merkezini
+ifade eder.

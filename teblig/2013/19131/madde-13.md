@@ -1,0 +1,6 @@
+Personele ilişkin şartlar
+MADDE 13 – (1) Aracı kurumda çalışan yönetici, ihtisas personeli, müfettiş, iç kontrol elemanı ve risk yönetim elemanının 6 ncı maddede kurucu ortaklara ilişkin aranan şartları, gerekli mali güç şartı hariç olmak üzere taşıması ve işlem yasaklı olmaması gerekir.
+(2) Aracı kurumda çalışan yönetici, ihtisas personeli, müfettiş, iç kontrol elemanı ve risk yönetim elemanının Kurulun lisanslama ve sicil tutma ile ilgili düzenlemelerinde aranan mesleki yeterliliklerini gösterir lisans belgesine sahip olması zorunludur.
+(3) Yönetim kurulu üyeleri hariç olmak üzere yöneticiler, müfettiş, iç kontrol elemanı ve risk yönetim elemanı ile araştırma uzmanı, yatırım danışmanı, kurumsal finansman uzmanı ve portföy yöneticisi olarak çalışacakların, mevzuatta aksi belirtilmedikçe en az 4 yıllık lisans eğitimi; müşteri temsilcisi, türev araçlar müşteri temsilcisi, borsa üye temsilcisi, takas ve operasyon sorumlusu ve türev araçlar muhasebe ve operasyon sorumlusu olarak çalışacakların ise en az 2 yıllık ön lisans eğitimi veren okullardan mezun olmaları gerekir.
+(4) Kurulca aracı kurum personeli için yürütecekleri faaliyetlere göre farklı eğitim ve mesleki tecrübe şartları aranabilir.
+(5) Bankalar için bu maddede yer alan şartlar tercih edilen faaliyet konularıyla ilgili hizmet birimlerinde çalışan yönetici ve ihtisas personeli bakımından aranır.

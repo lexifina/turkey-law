@@ -1,0 +1,6 @@
+ONİKİNCİ BÖLÜM
+Yeni Aracı Kurum Kurmak İçin Yetki Belgesi İptali
+Yeni aracı kurum kuruluşu amacıyla faaliyet izninin iptali
+MADDE 63 – (1) Halka açık olmayan en az bir aracı kurumun tüm faaliyet izinlerinin iptali için talepte bulunarak yatırım hizmet ve faaliyetlerinden çekilmesi durumunda, bu Tebliğde aracı kurum kuruluşu için aranan şartların sağlanması kaydıyla yeni bir aracı kurum kurulmasına izin verilebilir. Bu durumda, yatırım hizmet ve faaliyetlerinden çekilecek aracı kurum veya aracı kurumlar faaliyet izinlerinin iptaline ilişkin yönetim kurulu kararlarıyla Kurula başvuruda bulunur.
+(2) Faaliyet izinleri iptal edilecek aracı kurum veya aracı kurumların yerine kurulacak yeni aracı kurumun sermaye dağılımı, bu Tebliğde ortaklara ilişkin olarak öngörülen şartlar sağlanmak kaydıyla serbestçe belirlenebilir. Yeni kurulacak aracı kurumun kurucu ortaklarının yeni aracı kurum kurma ve faaliyet iznine ilişkin başvurusu bu Tebliğ hükümleri çerçevesinde değerlendirilerek Kurulca sonuçlandırılır.
+(3) Aracı kurum veya aracı kurumların faaliyet izinlerinin iptaline ilişkin başvuruları 59 uncu maddede yer alan hükümler çerçevesinde sonuçlandırılır ve sahip oldukları faaliyet izinleri, kurulacak yeni aracı kurumun tüm hukuki işlemleri tamamlayarak faaliyete geçtiği gün itibarıyla iptal edilir.

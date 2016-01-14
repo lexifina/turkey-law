@@ -1,0 +1,3 @@
+Faaliyetleri geçici olarak durdurulan aracı kurumların teminatlarının serbest bırakılması
+MADDE 73 – (1) Faaliyetleri geçici olarak durdurulan aracı kurumların 70 inci maddenin birinci fıkrası uyarınca yatırılan teminatları, yeniden faaliyete geçinceye veya faaliyet izinlerinin tamamı iptal edilinceye kadar serbest bırakılmaz.
+(2) Yeniden faaliyete geçen aracı kurumun teminatları, faaliyetlerine kesintisiz olarak en az 1 yıl süreyle devam etmiş olmaları şartıyla Kurulun bildirim yazısı üzerine Takasbank tarafından serbest bırakılır. Söz konusu 1 yıllık süreyi doldurmadan faaliyetleri yeniden geçici olarak durdurulan ve daha sonra yeniden faaliyete geçen aracı kurumlar için 1 yıllık sürenin hesaplanmasına son faaliyete geçme tarihinden itibaren başlanır.

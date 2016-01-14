@@ -1,0 +1,2 @@
+Konsolidasyon ve birleşme
+MADDE 69 – (1) Kurul, gerekli gördüğü hallerde bir aracı kurumun başka bir aracı kurumda %10 veya daha fazla paya sahip olması, yönetim kuruluna katılması, genel kurulunda asaleten oy kullanması, iki aracı kurumdan birinin diğerini doğrudan ya da dolaylı biçimde yönetimi altında tutması veya iki aracı kurumun hakim ortağının aynı gerçek veya tüzel kişi olması nedeniyle yönetim kontrolünde farklılık bulunmaması halinde, bu aracı kurumların tek bir ticaret unvanı altında birleşmelerini isteyebilir.

@@ -1,0 +1,6 @@
+Müşteri numarası ve müşteri hesapları
+MADDE 27 – (1) Çerçeve sözleşme imzalanan her müşteriye ayrı bir müşteri numarası tahsis edilir. İmzalanan sözleşme çerçevesinde müşteriye tahsis edilmiş olan numaraya bağlı olarak birden fazla hesap açılabilir. Bir müşteriye verilmiş olan müşteri ve hesap numarası, çerçeve sözleşmenin sona erme tarihi üzerinden 10 yıl geçmedikçe başka bir müşteriye verilemez.
+(2) Sözleşme yapılan her müşteri için söz konusu müşteriden emir kabul etmeden veya müşteri adına verilen emir gönderilmeden önce yetkili takas ve saklama kuruluşu ve/veya MKK nezdinde bir müşteri saklama alt hesabı açılır ya da açtırılması sağlanır ve sicil numarası alınarak müşteri numarası ile eşleşmesi sağlanır. Daha önce alınmış sicil numarası varsa müşteri numarası ile eşleşmesi sağlanır.
+(3) Müşteri hesap numaraları, yetkili takas ve saklama kuruluşu ve/veya MKK nezdindeki müşteri saklama alt hesabı için de aynen kullanılır.
+(4) Yatırım kuruluşları, yetkili takas ve saklama kuruluşu ve/veya MKK’da sicil almamış veya sicil ile eşleşmemiş hesaplardan emir kabul edemez. Kurul, sermaye piyasası araçları türleri itibariyle bu hükme istisna getirebilir.
+(5) Gerçek kişi müşterilerin isimlerinde, tüzel kişi müşterilerin unvanlarında meydana gelen değişiklikler, öğrenilmesini müteakip derhal yetkili takas ve saklama kuruluşlarına ve/veya MKK’ya bildirilir.

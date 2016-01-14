@@ -1,0 +1,3 @@
+Mesleki yeterlilik ilkesi
+MADDE 20 – (1) Aracı kurumlar, personelinde mesleki yeterliliği aramak ve sağlamak zorundadır. Mesleki yeterlilik, ön lisans veya lisans düzeyinde ve sonrasındaki eğitim ile mesleki deneyimlerin aracı kurumdaki ilgili görevi yapabilecek düzeyde olmasını ifade eder.
+(2) Aracı kurumlar, faaliyetleri süresince, nitelikli bir yatırım hizmet ve faaliyeti sunmak ve müşterinin kendilerinden bu yükümlülüğü yerine getirmelerini beklediğinin farkında olmak zorundadır. Bu amaçla istihdam ettikleri personelin mesleki eğitimini sağlamak veya eğitim düzeyini artıracak imkanlar sunmakla yükümlüdür.
