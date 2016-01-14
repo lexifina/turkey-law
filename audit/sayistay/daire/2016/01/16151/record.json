@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "73",
+  "decision_date": "2016-01-14",
+  "source_id": 16151,
+  "chamber": "8",
+  "ilam_number": "133",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16151/",
+  "source_sha256": "d70c705b36267f074c28df9feb280a8fa984cb052fefea75d400cc6394264e3d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
