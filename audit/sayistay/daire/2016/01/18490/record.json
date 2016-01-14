@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "288",
+  "decision_date": "2016-01-14",
+  "source_id": 18490,
+  "chamber": "6",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18490/",
+  "source_sha256": "e7c6ed3e91868d6e7233abbee284042e54fb7a3aa201b56ab233a8c266a711bb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
