@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "287",
+  "decision_date": "2016-01-14",
+  "source_id": 19956,
+  "chamber": "6",
+  "ilam_number": "227",
+  "item_number": 20,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19956/",
+  "source_sha256": "2e856f12f222a3d38bd11106a91cb63546e46f422f46f46cc6909de602e94dd6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
