@@ -1,0 +1,11 @@
+SOSYAL DENGE TAZMİNATI
+
+…. Belediyesi’nde görev yapan bir kısım personele mevzuat hükümlerine aykırı olarak sosyal denge tazminatı ödenmesi hususunda;
+
+4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'nun "Mahalli idarelerde sözleşmenin imzalanması" başlıklı 32 nci maddesinde aynen; "  … İlgili mahalli idarenin; vadesi geçmiş vergi, sosyal güvenlik primi ile Hazine Müsteşarlığına olan borç toplamının gerçekleşen en son yıl bütçe gelirlerinin yüzde onunu aşması, ödeme süresi geçtiği halde ödenmemiş aylık ve ücret borcu bulunması veya gerçekleşen en son yıla ilişkin toplam personel giderinin, gerçekleşen en son yıl bütçe gelirlerinin belediyelerde yüzde otuzunu, il özel idaresinde yüzde yirmibeşini aşması hallerinde bu madde kapsamında sözleşme yapılamaz. Sözleşmenin yapılmasından sonra bu koşulların oluşması durumunda mevcut sözleşme kendiliğinden hükümsüz kalır” hükmü yer almaktadır.
+
+Yukarıdaki mevzuat hükmünden açıkça anlaşılacağı üzere Belediye’nin, 2014 yılı içinde sözleşme imzalayabilmesi ya da imzalanmış sözleşmenin hükmünü devam ettirebilmesi için Belediye’nin  vadesi geçmiş vergi, sosyal güvenlik primi vb. borçlarının 2013 yılı gerçekleşen bütçe gelirinin % 10’ unu aşmamış olması gerekmektedir. Oysa ki, Belediyenin 2013 yılı faaliyet sonuçları tablosu ile 2013 yılı kesin mizanı incelendiğinde söz konusu şartın sağlanmadığı açıkça görülmektedir.
+
+Sorumlular göndermiş oldukları savunmalarında 4688 sayılı Kanun'un geçici 14 üncü maddesine atıf yapmış olsalar da, söz konusu maddede açıkça belirtildiği üzere, madde kapsamında olmanın öncelikli şartı sözleşmenin 15.03.2012 tarihinden önce imzalanmış olmasıdır. Oysa ki, sorgu konusu sosyal denge tazminatı ödemeleri 01.01.2013 tarihinde  imzalanan Sosyal Denge Sözleşmesi kapsamında yapılmıştır. Dolayısıyla …Belediyesi'nin çalışanlarına sosyal denge tazminatı ödemesi yapabilmesi için, 4688 sayılı Kanun’un geçici 14 üncü maddesinde sayılan istisnai hallerden faydalanması mümkün bulunmamaktadır ve aynı Kanun'un 32. maddesinde belirtilen şartları sağlaması gerekmektedir. Ancak Belediye sözü edilen şartları taşımamaktadır.
+
+Bu itibarla; yukarıda belirtilen gerekçelerle toplam …TL kamu zararının sorumlularına müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanununun 53’üncü maddesi gereği işleyecek faizleri ile ödettirilmesine oy birliğiyle,
