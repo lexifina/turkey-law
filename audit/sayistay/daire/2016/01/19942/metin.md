@@ -1,0 +1,5 @@
+Eksik gecikme cezası kesilmesi.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; …. yükleniminde bulunan ….. işinde malların zamanında teslim alınmamasına karşın, bu iş için yükleniciye yapılan ödemeden eksik gecikme cezası kesildiği, iddia edilmiş ise de;
+
+İdare ile yüklenici firma arasında ….. tarihinde imzalanan sözleşmenin “Gecikme halinde uygulanacak cezalar ve kesintiler ile sözleşmenin feshi” başlıklı 34’üncü maddesinde yer alan “… İdareye süresi içerisinde teslim edilen malların muayene ve kabulü için İdare tarafından yapılan inceleme sırasında geçen süreler işin süresinden sayılmaz. …” hükmüne göre sorguda belirtilen 67 günlük gecikme süresinin; …. ile …. arasındaki 31 günlük bölümünün malların muayene ve kabulü için İdare tarafından yapılan inceleme sırasında geçen süreler olması, firmadan kaynaklanan 36 günlük gecikme cezasının ise yükleniciden tahsil edilmesi nedenleri ile kamu zararı oluşmayan …..-TL ile ilgili olarak ilişilecek husus bulunmadığına oy birliğiyle,
