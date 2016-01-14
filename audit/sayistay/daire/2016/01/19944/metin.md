@@ -1,0 +1,5 @@
+Bazı malların, sayım tutanaklarında yer almasına rağmen yerlerinde olmaması.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ….. Belediyesi 2014 yılı Taşınır Yönetim Dönemi Hesabı sayım tutanakları esas alınarak, ….. tarihinde, Özel Kalem Müdürlüğünde Sayıştay Denetçileri ile birlikte gerçekleştirilen fiili ve fiziki inceleme sonucunda bazı mal ve malzemelerin, sayım tutanaklarında yer aldığı halde, yerinde olmadığı, iddia edilmiş ise de;
+
+Sorguya konu olan taşınırların tamamının ekonomik ömrünü tamamlayan ve kullanımda olmayan malzemeler olması, hurdaya ayırma ve kayıttan düşme işlemlerinin zamanında yapılmamasından dolayı kayıtlarda görünmesi, söz konusu malzemelerin kayıttan düşme teklif ve onay tutanağı ve taşınır işlem fişleri ile kayıttan düşme işlemleri yapılarak, kayıtlarda bulunan miktar ile mevcutta bulunan miktarların uyumlu hale getirilmesi, ayrıca bu işlemlere ilişkin muhasebe işlem fişlerinin savunma ekinde gönderilmesi nedenleri ile kamu zararı oluşmayan …..-TL ile ilgili olarak ilişilecek husus bulunmadığına oy birliğiyle,
