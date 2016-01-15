@@ -1,0 +1,3 @@
+Çalışma izni verilebilecek iller
+MADDE 7- (1) Geçici koruma sağlanan yabancılara çalışma iznine başvuru hakkı verilmesinde, Geçici Koruma Yönetmeliğinin 24 üncü maddesi uyarınca yabancının kalmasına izin verilen iller esas alınır.
+(2) Kamu düzeni, kamu güvenliği ya da kamu sağlığı yönüyle çalışma izni verilmesinde sakınca görüldüğünün İçişleri Bakanlığınca bildirildiği illerde çalışma izni verilmesi, Bakanlıkça durdurulur. Bu illerde, verilmiş çalışma izinleri uzatılmaz. Ancak, yabancının bu ilde kalma hakkı devam ediyorsa, önceden verilen ve geçerliliği devam eden çalışma izinleri, sona erdiği tarihe kadar kullandırılır.

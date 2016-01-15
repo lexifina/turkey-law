@@ -1,0 +1,4 @@
+İstihdam kotası
+MADDE 8- (1) Çalışma izni başvurularının değerlendirilmesinde, işyerinde çalışan Türk vatandaşı sayısı üzerinden sektör ve illere göre açık iş ve işe yerleştirmeler dikkate alınarak Bakanlıkça, geçici koruma sağlanan yabancı istihdamı kotası değişen oranlarda uygulanabilir. Üçüncü fıkra hükmü saklı kalmak üzere, çalışma iznine başvurulan işyerinde çalışan geçici koruma sağlanan yabancı sayısı, işyerinde çalışan Türk vatandaşı sayısının yüzde onunu geçemez.
+(2) Toplam çalışan sayısı ondan az olan işyerlerinde, en fazla bir geçici koruma sağlanan yabancının çalışmasına izin verilebilir.
+(3) İşveren tarafından; işyerinin kayıtlı bulunduğu Çalışma ve İş Kurumu İl Müdürlüğünden, çalışma izni başvurusu tarihinden önceki dört haftalık süre içerisinde yabancının çalıştırılacağı işi yapacak aynı nitelikte Türk vatandaşı bulunamadığının belgelendirildiği başvurularda istihdam kotası uygulanmayabilir.
