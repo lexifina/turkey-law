@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.21388",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ PİYANGO UZMANLIĞI YÖNETMELİĞİ",
+  "number": "21388",
+  "issuer": "Milli Piyango İdaresi Genel Müdürü",
+  "issuer_slug": "milli-piyango-idaresi-genel-muduru",
+  "path": "regulation/milli-piyango-idaresi-genel-muduru/2016/21388",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21388&MevzuatTertip=5",
+  "source_sha256": "25cd196280f4a16fc7cc282673997d1e8593e06604f46b1d06a38f362fb6f072",
+  "source_bytes": 60791,
+  "published": "2016-01-15",
+  "gazette": "29594",
+  "in_force": "2016-01-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.01.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3254,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
