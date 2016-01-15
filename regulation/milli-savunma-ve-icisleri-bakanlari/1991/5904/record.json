@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.5904",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK SİLÂHLI KUVVETLERİ İZİN YÖNETMELİĞİ",
+  "number": "5904",
+  "issuer": "Millî Savunma ve İçişleri Bakanları",
+  "issuer_slug": "milli-savunma-ve-icisleri-bakanlari",
+  "path": "regulation/milli-savunma-ve-icisleri-bakanlari/1991/5904",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5904&MevzuatTertip=5",
+  "source_sha256": "8f2cc22b094fcfa11feacd4513d075623d2d8e5cb3005251ea7bfd7978815c7f",
+  "source_bytes": 138211,
+  "published": "1991-01-28",
+  "gazette": "20769",
+  "in_force": "2016-01-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/1/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-01-15",
+      "RG-15/1/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-08-23",
+      "RG-23/8/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-04",
+      "RG-4/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-10-02",
+      "RG-2/10/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-12-14",
+      "RG-14/12/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-08-29",
+      "RG-29/8/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-08-16",
+      "RG-16/08/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-01-06",
+      "RG-6/1/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-09-08",
+      "RG-8/9/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-09-08",
+      "RG-08/09/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2001-01-30",
+      "RG-30/1/2001",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1999-05-26",
+      "RG-26/5/1999",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8536,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.5904-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
