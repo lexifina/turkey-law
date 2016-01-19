@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "292",
+  "decision_date": "2016-01-19",
+  "source_id": 15847,
+  "chamber": "6",
+  "ilam_number": "73",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15847/",
+  "source_sha256": "63ff496f5e938e596a2e52f6a5b08d9d2c64031ce31d992376c2356bf2848ef8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
