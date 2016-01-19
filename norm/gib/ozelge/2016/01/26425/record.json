@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[Mük.257-2015-396]-2253",
+  "source_id": 26425,
+  "date": "2016-01-19",
+  "title": "Nevi değişikliği yaparak limited şirketten anonim şirkete dönüşen şirket adına devir tarihinden sonra eski unvana düzenlenen faturaların Ba-Bs bildirim formlarında hangi unvanla beyan edileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26425",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "c52bf8aca7ed1a605089109c2c87fc7f2b3487a341abb97c911332eb9b481dea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
