@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "290",
+  "decision_date": "2016-01-19",
+  "source_id": 15858,
+  "chamber": "6",
+  "ilam_number": "77",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15858/",
+  "source_sha256": "03fc8ffd20641219f5014cda2c8de3d68b67d88e7062875f26e30631c2c01023",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
