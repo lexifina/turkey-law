@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "122",
+  "decision_date": "2016-01-19",
+  "source_id": 17417,
+  "chamber": "4",
+  "ilam_number": "139",
+  "item_number": 20,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17417/",
+  "source_sha256": "92fb2ac4e45fafaebe9a0ccec2f01245b4d88c343a957191e6ca35670a6e6267",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
