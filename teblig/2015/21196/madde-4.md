@@ -1,0 +1,2 @@
+İzin
+MADDE 4 - (1) Bankaların, piyasa riskine esas tutar kapsamında genel piyasa riski, spesifik risk, kur riski ve emtia riskine ilişkin sermaye yükümlülüklerinden herhangi birini ya da bir kaçını veya tümünü standart metot yerine risk ölçüm modeli kullanarak hesaplayabilmeleri için Kurumdan izin almaları zorunludur. İzinler, tüm riskleri kapsayan bir model izni veya belirli risk türleri için model ve modelce kapsanmayan risk türleri için standart metodun kullanılması şeklindeki kısmi kullanım izni olarak verilir.

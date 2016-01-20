@@ -1,0 +1,6 @@
+İçsel model ve standart metodun birlikte kullanımı
+MADDE 11 - (1) Bir risk faktöründe önemsiz düzeyde pozisyon taşınması durumu hariç olmak üzere, içsel model yaklaşımı prensipte bankanın entegre bir risk ölçüm sistemi kurmasını zorunlu kılmaktadır. Bir ya da birkaç risk faktörü için model kullanımına başlayan bir bankanın zamanla tüm risk faktörleri için model kullanmaya başlaması beklenir. Kurum tarafından model kullanımına verilen izin geri alınmadığı sürece bankalar model kullanımından vazgeçerek standart metot kullanmaya başlayamaz. Sermaye yeterliliği hesaplamasında model ile standart metodun birlikte kullanıldığı dönem boyunca;
+a) Her bir ana risk faktörü kategorisine ilişkin riskin model ya da standart metot ile ölçülmesi gerekir. Ancak uzak bir coğrafyada yer alan riskler, az miktarda pozisyon taşınan yabancı para pozisyonları veya ihmal edilebilir iş kollarından kaynaklanan risk standart metotla ölçülmeye devam edilebilir.
+b) Kullanıldığı müddetçe modelin bu Tebliğde yer alan kriterlerin tümüne uyumu aranır.
+c) İçsel model ile standart metodun birlikte kullanımına ilişkin Kurum tarafından verilmiş izin ancak geçerli bir nedenin banka tarafından Kuruma iletilmesi ve Kurumun onayı ile değiştirilebilir.
+ç) Herhangi bir piyasa riski unsurunun hesaplama dışında kalmaması gerekir.

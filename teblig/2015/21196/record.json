@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.21196",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "RİSK ÖLÇÜM MODELLERİ İLE PİYASA RİSKİNİN HESAPLANMASINA VE RİSK ÖLÇÜM MODELLERİNİN DEĞERLENDİRİLMESİNE İLİŞKİN TEBLİĞ",
+  "number": "21196",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "path": "teblig/2015/21196",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21196&MevzuatTertip=5",
+  "source_sha256": "df0ed1c6e602ce41def316dfa9eea79778cd34ef0d8550f8f34cb5458f96141f",
+  "source_bytes": 107154,
+  "published": "2015-10-23",
+  "gazette": "29511",
+  "in_force": "2016-01-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/1/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-01-20",
+      "RG-20/1/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-01-20",
+      "20/1/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 31/3/2016 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6282,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
