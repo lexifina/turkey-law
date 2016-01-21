@@ -1,0 +1,7 @@
+Hakediş
+
+…. yüklenimindeki … Yapım İşinde, işe ait zemin etüt raporunda zeminde sıvılaşma riski olduğu ve bu bölgenin kaldırılarak sıkıştırma yapılması ve iri taneli veya blok malzeme ile doldurulması önerilmesine rağmen gerekçe raporunda aynı gerekçeler gösterilerek iş artışı kapsamında ödeme yapılması sonucu kamu zararına yol açıldığı ileri sürülmektedir.
+
+Söz konusu işe ait iş artışı gerekçe raporunda, yapılan 2 metrelik kazı sonrasında yer altı su seviyesinin yapılan kazının üzerinde olduğu, bu durumun yapılacak tuvenan dolguyu işlevsiz hale getireceği, su seviyesinin çok yüksek olması nedeniyle mevcut zemini sıkıştırma işleminde büyük sorunlar çıkabileceği ayrıca istenilen ölçüde sıkışmadığından, 2 metre daha kazı yapılarak bu bölgenin kaba daneli veya bloklu dolgu ile zeminin iyileştirilmesi gerektiği belirtilmiştir. Her nekadar İhale öncesi hazırlanmış olan zemin etüt raporunda zeminin, iri taneli veya blok (kaya) ile dolgu yapılması önerilmiş ise de idare tarafından ihaleye katılacaklara önemli not olarak verilen bilgilendirme notunda dolgunun tuvenan dolgu olacağı belirtildiği, dolayısıyla tekliflerin tuvenan dolgu yapılacak şekilde hazırlandığı anlaşılmaktadır.
+
+Bu itibarla, … Yapım İşinde, söz konusu alanın zemin iyileştirmesi için kaba dolgu yapılmasının zorunlu olduğu ve tuvenan malzemeye ilişkin olarak herhangi bir bedel ödenmediği anlaşıldığından, yapılan işlemin yasal düzenlemelere uygunluğuna oy birliğiyle,
