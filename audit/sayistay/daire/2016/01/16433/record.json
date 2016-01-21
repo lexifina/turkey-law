@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "281",
+  "decision_date": "2016-01-21",
+  "source_id": 16433,
+  "chamber": "3",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16433/",
+  "source_sha256": "37bd623592d01b26103802a0167cdf6a09b4f87f2c5731af2dad3be809e429f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
