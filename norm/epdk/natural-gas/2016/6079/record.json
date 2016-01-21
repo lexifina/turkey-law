@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6079",
+  "decision_date": "2016-01-21",
+  "title": "Bildirim Sistemi Kullanım Talimatına İlişkin Kurul Kararında Değişiklik Yapılmasına Dair",
+  "resmi_gazete_date": "2016-01-27",
+  "resmi_gazete_number": "29606",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2QhilS/XfKA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2QhilS/XfKA="
+  ],
+  "source_sha256": "a0cd3d9736460115c236b625bfb2d6044f5499665c85ecc14d7986f3d949e1d2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-01-21",
+  "law_text_complete": false
+}
