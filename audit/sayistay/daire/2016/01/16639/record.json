@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "74",
+  "decision_date": "2016-01-21",
+  "source_id": 16639,
+  "chamber": "8",
+  "ilam_number": "151",
+  "item_number": 46,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16639/",
+  "source_sha256": "f8d3755cc32b4b897b5d84482dd33d9b0a173f677eb3e3770966c15e31e54fe3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
