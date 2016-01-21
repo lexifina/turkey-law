@@ -1,0 +1,6 @@
+Kurul kararları1
+MADDE 8 – (1) İl istihdam ve mesleki eğitim kurulu tarafından alınan kararlar bağlayıcıdır. Kurul, alınan kararlara ilişkin eylem planı hazırlar, sorumlu kurum ve kuruluşları belirler, uygulamaları ve sonuçlarını takip eder. Alınan kararlarda sorumlu olarak belirlenen kurum ve kuruluşun ildeki en üst düzeydeki yetkilisi bu kararlara ilişkin yapılan çalışmalar hakkında kurula bilgi verir.
+(2) Kararlar toplantıya katılan üyelerin oy çokluğuyla alınır. Oyların eşitliği hâlinde kurul başkanının kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+(3) (Ek:RG-25/8/2015-29456)1 Genel Müdürlük tarafından yazı ile bildirilen ve devletin genel işgücü piyasası politikaları ile uyumlu politikalar öncelikli olarak dikkate alınır.
+(4) Kurul Başkanı, alınan kararlar ve gerçekleşmeler hakkında basın yoluyla kamuoyuna bilgi verir. Alınan kararlar ayrıca valilik ile ilgili kurum ve kuruluşların resmi web sitesinde yayınlanır. 1
+(5) Kurul tarafından her yıl faaliyet raporu düzenlenir. Düzenlenen rapor izleyen yılın şubat ayı içerisinde Kuruma ve Mesleki Eğitim Kurulunda değerlendirilmek üzere Millî Eğitim Bakanlığına gönderilir. Kurumca hazırlanan nihai rapor Kurum Yönetim Kurulunca değerlendirildikten sonra Mart ayı içerisinde ilgili bakanlıklara gönderilir. 1

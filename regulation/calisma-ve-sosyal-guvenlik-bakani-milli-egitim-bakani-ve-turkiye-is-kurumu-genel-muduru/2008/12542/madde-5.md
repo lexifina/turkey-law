@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Kurulun Oluşumu, Görevleri ve Toplantı Zamanı
+Kurulun oluşumu
+MADDE 5 – (1) (Değişik:RG-25/8/2015-29456) Kurul; valinin başkanlığında, belediye başkanı, büyükşehir belediyesi bulunan illerde büyükşehir belediye başkanı veya genel sekreteri ya da genel sekreter yardımcısı, il özel idaresi genel sekreteri, il millî eğitim müdürü, il bilim, sanayi ve teknoloji müdürü, çalışma ve iş kurumu il müdürü, il ticaret ve sanayi odası başkanı veya başkanları, işçi konfederasyonlarından birer temsilci, işveren konfederasyonlarından birer temsilci, Sakatlar Konfederasyonundan bir temsilci, il esnaf ve sanatkârlar odaları birliği başkanı, ilde bulunan yükseköğretim kurumlarının çalışma ekonomisi ve endüstri ilişkileri bölümü veya mesleki teknik eğitim bölümlerinden valinin belirleyeceği bir öğretim üyesi, il gümrük ve ticaret müdürü, kalkınma ajansı temsilcisinden oluşur.
+(2) Kurulun gündem maddesindeki konularla ilgili olarak kurul başkanının gerekli görmesi hâlinde konuyla ilgili kurum ve kuruluşlardan bir temsilci kurula bilgi vermek veya görüş bildirmek amacıyla çağrılabilir.
+(3)(Ek:RG-25/8/2015-29456) Kurul toplantılarına Genel Müdürlükten İstihdam Uzmanları, Daire Başkanları ve üstü düzeyde katılım sağlanabilir.

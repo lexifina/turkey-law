@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.12542",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İL İSTİHDAM VE MESLEKİ EĞİTİM KURULLARI ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "12542",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı, Milli Eğitim Bakanı ve Türkiye İş Kurumu Genel Müdürü",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani-milli-egitim-bakani-ve-turkiye-is-kurumu-genel-muduru",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani-milli-egitim-bakani-ve-turkiye-is-kurumu-genel-muduru/2008/12542",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12542&MevzuatTertip=5",
+  "source_sha256": "3764ca2c70a3ad6f9bbe89f37082aed65350aa38654ea0e639cfc7058323cb36",
+  "source_bytes": 57191,
+  "published": "2008-10-21",
+  "gazette": "27031",
+  "in_force": "2016-01-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG:21/1/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-01-21",
+      "RG:21/1/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-01-21",
+      "21/1/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-08-25",
+      "RG-25/8/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-08-25",
+      "25/8/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-01-15",
+      "RG-15/1/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-01-15",
+      "15/1/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2277,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
