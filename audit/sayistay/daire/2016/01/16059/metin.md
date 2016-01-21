@@ -1,0 +1,15 @@
+Süre Uzatımın Yanlış Hesaplanması
+
+“Çok Amaçlı Kapalı Pazaryeri Proje Çizimi Hizmet Alım İşi”nde süre uzatımı kararına esas sürelerin yanlış hesaplandığı ve bu suretle kesilmeyen gecikme cezaları dolayısıyla kamu zararına sebebiyet verildiği iddia edilmiş ise de;
+
+İki etaptan oluşan söz konusu hizmet alımı işinin birinci etabında avan projelerin hazırlanması için 30 gün ve  avan projelerin koruma kurulu tarafından onaylanması için 30 gün, ikinci etabında ise uygulama projelerinin hazırlanması için 60 gün süre öngörülmüştür.
+
+Kamu İhale Kanunu’nun 4’ üncü maddesinde Avan Proje (Ön proje), “belli bir yapının kesin ihtiyaç programına göre, gerekli arazi ve zemin araştırmaları yapılmadan, bilgilerin hâlihazır haritalardan alındığı, çevresel etki değerlendirme ve fizibilite raporları dâhil elde edilen verilere dayanılarak hazırlanan plân, kesit, görünüş ve profillerin belirtildiği bir veya birkaç çözümü içeren proje”, Kesin Proje, “belli bir yapının onaylanmış ön projesine göre, mümkün olan arazi ve zemin araştırmaları yapılmış olan, yapı elemanlarının ölçülendirilip boyutlandırıldığı, inşaat sistem ve gereçleri ile teknik özelliklerinin belirtildiği proje” ve Uygulama Projesi ise “belli bir yapının onaylanmış kesin projesine göre yapının her türlü ayrıntısının belirtildiği proje” olarak tanımlanmıştır.
+
+Mevzuatta yer alan sıralama gereği ve mühendislik-mimarlık açısından avan proje yapılmadan kesin projenin yapılması, kesin proje yapılmadan uygulama projesinin yapılması mümkün değildir. Buna göre avan projenin Bursa Kültür ve Tabiat Varlıkları Koruma Kurulu tarafından onaylanması işi sözleşmenin birinci etabı olarak; uygulama projelerinin hazırlanması ise ikinci etap olarak belirlenmiştir.
+
+Tebligat Kanunu gereğince kazaî merciler, genel bütçe kapsamındaki kamu idareleri, özel bütçeli idareler, düzenleyici ve denetleyici kurumlar, belediyeler, barolar ve noterler tarafından yapılacak her türlü işlemin yürürlüğü ve geçerliliği tebligatla başlamaktadır. İlgilinin hakkında yapılacak ve yapılmış işlemleri öğrenmesi ve kendisine tanınan hakları kullanması tebligata bağlıdır.
+
+Dosya üzerinde yapılan incelemede Bursa Kültür ve Tabiat Varlıkları Koruma Kurulu tarafından avan projelerin onaylandığı 26.09.2013 tarihi ile bu kararın Belediye tarafından tebellüğ edildiği  06.11.2013 tarihi arasında geçen süre (41 gün) ile kurul kararının Belediyeye tebliğ edilmesinden sonra ikinci etaba başlanabileceğinin yüklenici tarafından tebellüğ edildiği 15.11.2013 tarihleri arasında geçen (9 gün) sürelerin sorguda dikkate alınmadığı görülmüştür.
+
+Netice itibariyle mevzuat gereği gerekli onaylar alınmadan bir sonraki proje çizim sürecine başlanılamayacağından, yükleniciye proje onaylarındaki gecikmeden kaynaklı verilen süre uzatımlarına esas sürelerin hesabında savunmalar doğrultusunda idarenin ve yüklenicinin söz konusu kararları tebellüğ ettikleri tarihlerin esas alınması gerekmektedir. Bu doğrultuda hesaplanan süreler ile verilen süre uzatımları arasında bir tutarsızlık görülmediğinden, sorgu konusu ...TL hakkında ilişilecek husus bulunmadığına oy birliğiyle,
