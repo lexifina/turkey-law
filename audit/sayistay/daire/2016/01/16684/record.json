@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10523",
+  "decision_date": "2016-01-21",
+  "source_id": 16684,
+  "chamber": "1",
+  "ilam_number": "101",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16684/",
+  "source_sha256": "50ad937d92cb2349d9e078019b19d6e85a38a752ca80fc8d72940c547b855c0f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
