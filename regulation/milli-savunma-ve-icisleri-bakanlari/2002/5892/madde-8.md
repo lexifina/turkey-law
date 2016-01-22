@@ -1,0 +1,7 @@
+ÜÇÜNCÜ KISIM
+Tespit ve Teklifle İlgili Esaslar, İnha ve Tevcih
+Tespit ve Teklif İşlemleri
+Madde 8 - Tespit ve teklifle ilgili esaslar aşağıda belirtilmiştir.
+a) (Değişik: RG-18/05/2004-25466) Savaşta ve barışta Türk Silâhlı Kuvvetleri Personel Kanunu hükümlerine uygun kahramanlık, fedakarlık, üstün başarı ve üstün hizmette bulunanlar; asgarî bölük (batarya), müstakil takım ve eşiti komutanlar ve kurum amirleri ile daha üst makam ve rütbe sahipleri veya en yakın görgü şahidi olarak bulunan üst ve amirlerce tespit edilir. Taltife esas olan olaya ait bir teklif sunuş yazısı, sıralı amirlerce, belirtilen esaslar dahilinde yapılan değerlendirmeyi müteakip uygun bulunanlar, EK-K'deki örneğe uygun olarak, sıralı üstler yolu ile Genelkurmay Başkanlığına gönderilir. Uygun olmayanlar ise birliğine iade edilir.
+b) Cumhurbaşkanı, Başbakan, Millî Savunma ve İçişleri Bakanlarının, Türk Silâhlı Kuvvetleri Personel Kanununun taltiflerle ilgili hükümlerine göre taltife lâyık gördükleri personel için, taltif olayını bildirir yazıları ise doğrudan Genelkurmay Başkanlığına gönderilir.
+c) Her iki halde de tespit işleminden sonra haksızlığa uğradıklarını iddia edenlerin, usulüne göre yapacakları müracaatları, tespit işini yapan makam üstündeki daha üst makamlarca incelenir. İnceleme neticesi müracaat edeni haklı çıkaracak şekilde sonuçlanırsa tespit işleminde gerekli düzeltmeler yapılır. Bu durum, ilgili makamlara ve müracaat edene duyurulur.

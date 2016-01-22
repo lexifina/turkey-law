@@ -1,0 +1,9 @@
+Birlik Sancaklarına Madalya Verilmesi
+Madde 11 -Birlik sancaklarına madalya verilme esasları aşağıda belirtilmiştir.
+a) Birlik sancaklarına İkinci Derece Devlet Savaş Madalyası, Türk Silâhlı Kuvvetleri Üstün Cesaret ve Feragat Madalyası ve Türk Silâhlı Kuvvetleri Başarı Madalyası verilebilir.
+b) Savaşta üstün derecede kahramanlık, cesaret ve şecaat (yiğitlik) gösteren birliklerin sancaklarına takılmak üzere Devlet Madalya ve Nişanları Yönetmeliğinde belirtilen esaslar doğrultusunda İkinci Derece Devlet Savaş Madalyası verilebilmesi için;
+1) Cereyan eden savaşların ve kazanılan zaferin büyüklüğünün,
+2) Elde edilecek sonucun genel duruma ve kesin neticeye olan tesirinin,
+3) Savaşın ağır şartlarına rağmen başarıya ulaşmak için birliklerin gösterdikleri iş birliği, gayret ve feragat, fedakarlık ve kahramanlıklarının, harp ceridelerine, bizzat müşahedeye dayanan komutanlık raporlarına göre tespiti zorunludur.
+c) İkinci Derece Devlet Savaş Madalyası haricinde, savaşta ve barışta görevin başarılmasında kahramanlık gösteren birlik sancaklarına madalyaların genel verilme prensipleri göz önünde bulundurularak, Türk Silâhlı Kuvvetleri Üstün Cesaret ve Feragat Madalyası ile Türk Silâhlı Kuvvetleri Başarı Madalyası da tevcih edilir.
+d) Devlet Savaş Madalyası Silâhlı Kuvvetler Komutanı tarafından Devlet Madalya ve Nişanları Yönetmeliğinde belirtilen esaslar doğrultusunda teklif edilir. Türk Silâhlı Kuvvetleri Üstün Cesaret ve Feragat Madalyası ile Türk Silâhlı Kuvvetleri Başarı Madalyası ise, Kuvvet Komutanları, Jandarma Genel Komutanı, Sahil Güvenlik Komutanı veya Millî Savunma Bakanlığının teklifleri üzerine; Genelkurmay Başkanlığınca inhayı müteakip barışta ve savaşta, Genelkurmay Başkanı (Türk Silâhlı Kuvvetleri Komutanı) veya yetkili kılacağı asgarî tuğgeneral veya tuğamiral tarafından tevcih olunur.
