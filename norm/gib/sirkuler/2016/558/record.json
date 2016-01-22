@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "GVK-99 /2016-1",
+  "source_id": 558,
+  "date": "2016-01-22",
+  "title": "Gelir ve kurumlar vergisi iade taleplerinde bazı bilgi ve belgelerin elektronik ortamda alınması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/sirkuler/558",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "de9fafa77ba23334acf3c42b66c197f8826c68479ba0e50265b966cd795e135e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
