@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-80 / 2016-1",
+  "source_id": 761,
+  "date": "2016-01-25",
+  "title": "25 Ocak 2016 günü sonuna kadar verilmesi gereken Muhtasar Beyannameler, Damga Vergisi Beyannameleri ve Katma Değer Vergisi Beyannamelerinin verilme sürelerinin uzatılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/761",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "29108e365394b7612fe072e61f2257986b398869127ba1028a8473852705d5ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
