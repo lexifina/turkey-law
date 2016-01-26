@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41397",
+  "decision_date": "2016-01-26",
+  "source_id": 11319,
+  "chamber": "1",
+  "file_number": "39479",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11319/",
+  "source_sha256": "c2770ac1e4693e41746f684e559c083cd55502d75ed854ab859bb77f928212d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
