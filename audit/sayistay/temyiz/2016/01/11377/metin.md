@@ -1,0 +1,3 @@
+Sözleşme uyarınca transit geçiş hasılatı üzerinden hesaplanması gereken işletme bedeli kar payı tutarının belediyeye ödenmemesi
+
+163 sayılı Ek İlam’ın 1’inci maddesi ile verilen ………… TL’nin tazminine dair hüküm, aynı tazmin hükmünde Üst Yönetici sıfatı ile iştiraki bulunan …………’nun başvurusu üzerine düzenlenen 26.01.2016 tarih ve 41363 tutanak sayılı Temyiz Kurulu İlamı ile bozulmuş bulunduğundan dilekçe sahibinin işbu madde ile ilgili itirazı üzerine Kurulumuzca yapılacak işlem olmadığına ancak aynı mahiyette olan bu dosyanın sözü edilen dosya ile Birleştirilerek gereği yapılmak üzere kararı veren Daireye Gönderilmesine, Oybirliğiyle,
