@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "123",
+  "decision_date": "2016-01-26",
+  "source_id": 16399,
+  "chamber": "4",
+  "ilam_number": "121",
+  "item_number": 3,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16399/",
+  "source_sha256": "dd1d07c8f768101a8e054445955fd85630487f7d7cebcbabd25dd3936c4b173d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
