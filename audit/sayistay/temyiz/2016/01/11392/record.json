@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41374",
+  "decision_date": "2016-01-26",
+  "source_id": 11392,
+  "chamber": "6",
+  "file_number": "39850",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11392/",
+  "source_sha256": "06857f54b34ee908ef39baa64f769c88352b76bb8c82e48e212530f2a3fb8988",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
