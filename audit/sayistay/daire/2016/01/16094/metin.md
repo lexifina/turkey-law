@@ -1,0 +1,47 @@
+Sayıştay İlamının etkisiz hale getirilmesi
+
+Asıl İlamın …..’inci maddesinin (………) bendi ile tazminine hükmolunan konuyla ilgili olarak Temyiz Kurulunun ……. tarih ve ………. tutanak numaralı kararının ………’üncü maddesiyle verilen bozma kararı üzerine 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesinin yedinci fıkrası hükmü gereğince konunun görüşülmesine karar verildi.
+
+Asıl İlamın …….’inci maddesinin (……..) bendiyle, ……..Büyükşehir Belediyesi Gençlik ve Spor Kulübünden tahsil edildiği bildirilen ve ……….Büyükşehir Belediyesi 2009 yılı hesabına ait …….. sayılı İlamın tahsilat tablosunda gösterilen …….-TL’nin söz konusu İlam hükmünün hilafına ve bu İlam hükmünü etkisiz kılacak şekilde ……. tarih ve ……….no.lu ödeme emri belgesiyle anılan Kulübe tekrar ödenmesi sonucunda neden olunan ……….-TL kamu zararının tazminine karar verilmişti.
+
+Bu tazmin hükmüne karşı ……..Büyükşehir Belediyesi Genel Sekreteri ……… tarafından Sayıştay Temyiz Kuruluna yapılan temyiz başvurusu üzerine anılan Kurulca  verilen ……. tarihli ve ……….. tutanak no.lu kararın ………’üncü maddesinde aynen,
+
+“....
+
+Yargı Raporunda İlam’ın ……. fıkrasına ilişkin ………. TL için harcama yetkilisi sıfatıyla ……… ve ………e, gerçekleştirme görevlisi sıfatıyla ……… ve …….. sorumluluk tevcih edilirken ……… fıkrasına ilişkin ………. TL için sorumluluk tevcihinin Gerçekleştirme Görevlisi …….. ile Harcama Yetkilisi ……….’e yapıldığı görülmüştür.
+
+Buna karşın İlam hükmünde sorumluluk tevcih edilenlerin tamamının ortak içerikli savunmasının özetinin ardından verilen hükümde;
+
+Raporun A fıkrasına konu tutar olan ………. TL için ilişilecek husus bulunmadığına,
+
+Raporun B fıkrasına konu tutar olan ……….. TL için ad, soyad ve unvanlarına yer verilmeden sorumlularına, müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanunun 53. maddesi gereğince ödettirilmesine karar verilmiştir.
+
+6085 sayılı Sayıştay Kanunu’nun “İlamlar” başlıklı 51. maddesinin 2. fıkrasının (c) bendi gereği İlamlarda sorumluların ve varsa vekil veya temsilcilerinin ad ve soyadları ile unvan ve adresleri bulunması gerekmekte olup ……ayılı İlamın ……. maddesinin (……..) fıkrasıyla tazmin hükmolunan tutara ilişkin sorumluluk tevcihinin yapılmadığı görülmüştür.
+
+Bu itibarla;
+
+A) ……. TL’ye ilişkin olarak ilişilecek husus bulunmadığına karar verildiği ve İlam hükmüne karşı herhangi bir itiraz da söz konusu bulunmadığı cihetle bu hususta Kurulumuzca Yapılacak İşlem Olmadığına,
+
+B) ……….. TL’ye ilişkin olarak tazmin hükmünün sorumluluk yönünden bozularak sorumlulukların belirlenmesi için dosyanın hükmü veren Daireye TEVDİİNE,”
+
+denilerek anılan İlamın ……..’nci maddesinin (………..) bendiyle verilen tazmin hükmünün sorumluluk yönüyle bozulmasına karar verilmiştir.
+
+Harcama Yetkilisi ………. ve Gerçekleştirme Görevlileri: ……….. ile ……….tarafından Sayıştay Temyiz Kuruluna yapılan temyiz başvurusu üzerine ise anılan Kurulca verilen ………. tarih ve …………. tutanak sayılı kararlarda, “……… sayılı İlam’ın ………’nci maddesi ile verilen ………. TL’nin tazminine dair hüküm, ………….’ın başvurusu üzerine düzenlenen ………. tarih ve ……….. tutanak sayılı Temyiz Kurulu İlamı ile bozulmuş bulunduğundan dilekçinin işbu madde ile ilgili itirazı üzerine Kurulumuzca yapılacak işlem olmadığına, ancak aynı mahiyette olan bu dosyanın sözü edilen dosya ile birleştirilerek gereği yapılmak üzere kararı veren Daireye Tevdiine,” karar verilmiştir.
+
+Temyiz Kurulunun anılan kararları üzerine Dairemize havale edilen söz konusu dosyaların incelenmesi sonucunda;
+
+Asıl İlamın …….’inci maddesinin (…………) bendinde de belirtildiği üzere ……….Büyükşehir Belediyesi Gençlik ve Spor Kulübünden tahsil edildiği bildirilen ve ……….Büyükşehir Belediyesi ……….. yılı hesabına ait 783 sayılı İlamın tahsilat tablosunda gösterilen ………-TL’nin söz konusu İlam hükmünün hilafına ve bu İlam hükmünü etkisiz kılacak şekilde ……….. tarih ve ……….. no.lu ödeme emri belgesiyle anılan Kulübe tekrar ödenmesi sonucunda ……..-TL tutarında kamu zararına neden olunduğu görülmüştür.
+
+Denetçisince ilişik tutulan ödemelerin gerçekleştirildiği tarihlerde yürürlükte bulunan mülga 832 sayılı Sayıştay Kanunu’nun1’inci maddesinde Sayıştayın, genel ve katma bütçeli dairelerin gelir ve giderleri ile mallarını Türkiye Büyük Millet Meclisi adına denetlemek ve sorumluların hesap ve işlemlerini yargı yolu ile kesin hükme bağlamak ve kanunlarla verilen inceleme, denetleme ve hükme bağlama işlerini yapmakla görevli olduğu, 14’üncü maddesinde, dairelerin, sorumluların hesap ve işlemlerini yargılayarak hükme bağlayacağı, 16’ncı maddesinin son fıkrasında, Temyiz Kurulunun Sayıştay dairelerince verilen ilamların son hüküm mercii olduğu, 45’inci maddesinde, sorumlularca gelir, gider, mal ve kıymetlerden mevzuata uygun olarak tahakkuk ettirilmediği, alınmadığı, harcanmadığı, verilmediği, saklanmadığı veya idare edilmediği Sayıştayca kesin hükme bağlananları, sorumluların keyfiyetin idarece kendilerine bildirilmesinden başlayarak üç ay içinde Hazineye ödemekle zorunlu bulundukları, 64’üncü maddesinde, Sayıştay ilamlarının kesinleştikten sonra 45’inci madde gereğince yerine getirileceği, ilamların yerine getirilmesini izlemekten, ilamların gönderildiği dairelerin en büyük amirinin sorumlu olduğu hüküm altına alınmıştır.
+
+……….. Büyükşehir Belediyesi 2009 mali yılı hesabı da yukarıda yer verilen hükümler çerçevesinde, Sayıştay …………’üncü Dairesince yargılanarak hükme bağlanmış ve ……….. sayılı ilam düzenlenmiş olup, bu ilamın kapsadığı ………… Büyükşehir Belediyesi Gençlik ve Spor Kulübüne yapılan ……….-TL tutarındaki nakdi yardıma ilişkin hükme karşı temyiz başvurusu yapılmadığından hüküm kesinleşmiştir.
+
+Şöyle ki; ………. Büyükşehir Belediyesi 2009 yılı hesabının yargılanması sonucunda düzenlenen ……… tarihli ve ……….. sayılı tutanağın ……….’inci maddesinde; “…………Büyükşehir Belediyesinden ………. Büyükşehir Belediyesi Gençlik ve spor Kulübü Derneğine yapılan nakdi yardımın amacı dışında sporcu transfer ve bonservis bedeli ile maaş ödemesi şeklinde harcanması neticesinde oluşan ………..TL kamu zararı Vakıflar Bankası Finans Market…….. Şubesinin ………. tarihli ve ………iş no.lu dekontu ile ilgililerden rızaen tahsil edildiği sorumlular tarafından bildirilmiş olmakla bu konuda ilişilecek kalmadığına ve yılından sonra yapılan ……….TL’lik tahsilatın ilamda gösterilmesine karar verildi.” denilmiş ve bu tutanağa istinaden düzenlenen …….. tarihli ve ………….. sayılı İlamın tahsilat tablosunda bu tahsilat gösterilmiş ve bu tahsilatı da kapsayan toplam tahsilat ile ilgili olarak tahsilat tablosundan sonra gelen paragrafta, “Yukarıda müfredatı yazılı toplam... TL fazla ve kanunsuz ödenmiş ise de; hizalarında tarih ve numarası yazılı belgelerle ahizlerinin rıza ve muvafakatiyle tahsil edildiğinden ilgililer hakkında başkaca hüküm verilmesine mahal kalmadığına,” karar verildiği belirtilmiş ve bu ilam hükmüne karşı yukarıda da belirtildiği üzere temyiz başvurusu yapılmadığından ilamın tebliğinden doksan gün sonra söz konusu ilam hükmü kesinleşmiştir.
+
+Ancak daha sonra sorumlularca, ………….. Büyükşehir Belediyesi Gençlik ve Spor Kulübünden tahsil edildiği bildirilen ve ……….. sayılı İlamın tahsilat tablosunda gösterilen ……….-TL, söz konusu İlam hükmünün hilafına ve bu İlam hükmünü etkisiz kılacak şekilde ………. tarih ve ……….. no.lu ödeme emri belgesiyle anılan Kulübe tekrar ödenmiştir.
+
+Her ne kadar sorumluların savunmalarında, 2009 yılı hesabına ait ………. sayılı İlama konu edilen ödemeyle, 2010 yılı hesabına ait ………ayılı İlamın ……….’nci maddesinin (…….) bendine konu edilen ödemelerin aynı mahiyette olduğu, ……. sayılı İlamın (……..) bendi ile söz konusu ödemeler hakkında ilişilecek husus bulunmadığına karar verildiği, ……….sayılı İlamda gösterilen tahsilatın konuya ilişkin sorgunun yeterince savunulmadan yapılan bir tahsilat olduğu, söz konusu İlamda konuyla ilgili bir tazmin hükmü bulunmadığı için temyize başvurulmadığı belirtilerek bu hususların dikkate alınarak tazmin hükmünün kaldırılması talep edilmiş ise de; ………..sayılı İlamın (…….) bendiyle aynı konuda ilişiksiz kararının verilmiş olması daha önce yargılama konusu edilmiş ve yapılan ödemenin mevzuata aykırı olduğuna karar verilmekle birlikte tahsil edildiği için ilişilecek husus bulunmadığına karar verilen ve ilamın tahsilat tablosunda da gösterilen konuya ilişkin tahsilatın ahizine geri ödenmesini haklı kılmaz.
+
+Sorgu üzerine tahsil edildiği için konu hakkında ilişilecek husus kalmadığına karar verilerek ilamın tahsilat tablosunda gösterilen tahsilatın ahizine geri ödenmesi, söz konusu ilamın yok sayılması ve uygulanmaması anlamına gelir. Bu da Anayasanın 138’inci maddesinin dördüncü fıkrasında yer alan “Yasama ve yürütme organları ile idare, mahkeme kararlarına uymak zorundadır; bu organlar ve idare, mahkeme kararlarını hiçbir suretle değiştiremez ve bunların yerine getirilmesini geciktiremez.” hükmüne ve yukarıda zikredilen 832 sayılı Sayıştay Kanunu hükümlerine aykırıdır.
+
+Sonuç olarak; ………. Büyükşehir Belediyesi Gençlik ve Spor Kulübünden tahsil edildiği bildirilen ve ………. Büyükşehir Belediyesi 2009 yılı hesabına ait ……….. sayılı İlamın tahsilat tablosunda gösterilen ……….-TL’nin söz konusu İlam hükmünün hilafına ve bu İlam hükmünü etkisiz kılacak şekilde ………. tarih ve ………. no.lu ödeme emri belgesiyle anılan Kulübe tekrar ödenmesi sonucunda neden olunan kamu zararı tutarı           ..……..-TL’nin Harcama Yetkilisi ……….. ve Gerçekleştirme Görevlisi ………. ………. müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faizleri ile ödettirilmesine ..oy birliğiyle karar verildi.
