@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41353",
+  "decision_date": "2016-01-26",
+  "source_id": 11364,
+  "chamber": "7",
+  "file_number": "39756",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2008",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11364/",
+  "source_sha256": "c622372bfba7bc6231e23a33dc34a064937c032dc47b547c7751ad294cc8f81b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
