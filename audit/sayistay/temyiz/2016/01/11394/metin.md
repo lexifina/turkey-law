@@ -1,0 +1,3 @@
+Belediyede 1, 2 ve 3’üncü derece yönetici kadrolarında çalışan bazı personele fazla çalışma ücreti ödenmesi
+
+365 sayılı İlam’ın 118’inci maddesi ile verilen ………… TL’nin tazminine dair hüküm, aynı tazmin hükmünde Harcama Yetkilisi sıfatı ile iştiraki bulunan …………’ın başvurusu üzerine düzenlenen 26.01.2016 tarih ve 41375 tutanak sayılı Temyiz Kurulu İlamı ile bozulmuş bulunduğundan dilekçe sahibinin işbu madde ile ilgili itirazı üzerine Kurulumuzca yapılacak işlem olmadığına ancak aynı mahiyette olan bu dosyanın sözü edilen dosya ile Birleştirilerek gereği yapılmak üzere kararı veren Daireye Gönderilmesine, Oybirliğiyle,
