@@ -1,0 +1,3 @@
+Kamulaştırmasız el atma bedeli ödemeleri ve bu ödemeleri düzenleyen sözleşme bedeli üzerinden damga vergisi kesilmemesi
+
+2) 286 sayılı İlam’ın 16’ncı maddesi ile verilen ………… TL’nin tazminine dair hüküm, aynı tazmin hükmünde Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …………’nün başvurusu üzerine düzenlenen 26.01.2016 tarih ve 41369 tutanak sayılı Temyiz Kurulu İlamı’nın 3’üncü maddesi ile bozulmuş bulunduğundan dilekçe sahibinin işbu madde ile ilgili itirazı üzerine Kurulumuzca yapılacak işlem olmadığına ancak aynı mahiyette olan bu dosyanın sözü edilen dosya ile Birleştirilerek gereği yapılmak üzere kararı veren Daireye Gönderilmesine, Oybirliğiyle,
