@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41401",
+  "decision_date": "2016-01-26",
+  "source_id": 11329,
+  "chamber": "7",
+  "file_number": "35023",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2008",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11329/",
+  "source_sha256": "022d4fb0dfc592a0b3157e2ea5d6802f0c329c9a7399c78498127e562b873cd9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
