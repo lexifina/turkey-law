@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2016/DK-ETD/62",
+  "date": "2016-01-27",
+  "title": "Karar Düzeltme (06.01.2016 tarihli ve 2016/DK-ETD/11 sayılı Karar)",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2016-01-27",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=100",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/78ce965b-4e82-4d07-91e3-c07529f86303.pdf",
+  "source_sha256": "b15c2b2b541c7984e02545eae99fc3217f33da25472b02bb14626723512a8ed1",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2016-01-27",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 27.01.2016; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
