@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6087/5",
+  "decision_date": "2016-01-28",
+  "title": "OMV Petrol Ofisi A.Ş.’nin; PİL/476-261/10970 sayılı İletim Lisansı kapsamında “Aliağa Terminal Müdürlüğü, Siteler Mah. Petrol Ofisi Cad. No:10 Aliağa/İzmir” adresinde faaliyette bulunan tesisine ilişkin",
+  "resmi_gazete_date": "2016-02-10",
+  "resmi_gazete_number": "29620",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GF3agj4IUYs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GF3agj4IUYs="
+  ],
+  "source_sha256": "ed16b635f8756408d45746c7e97b1c7c834195aa040e2856821996fdc8efe63d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-01-28",
+  "law_text_complete": false
+}
