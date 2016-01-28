@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2016/06",
+  "meeting_date": "2016-01-28",
+  "meeting_date_as_published": "28.1.2016",
+  "decision_no": "104",
+  "source_id": 8458,
+  "title": "RTÜK kararı 2016/06-104",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/8458",
+  "source_sha256": "5a2c71aa8859b180dac684f1d06dcc436ad062f1f7b120d281e339cea926aafc",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (18 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
