@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-01-29",
+  "issue": "29608",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 21/01/2016 Tarihli ve 6686 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/01/20160129-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/01/20160129.htm",
+  "index_sha256": "653345cf2094ae47f0045dc22a4d96437c33d097d8af152d402f7cdec7956977",
+  "index_header": "29 Ocak 2016 ... 29608 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/01/20160129.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
