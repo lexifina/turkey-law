@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6089",
+  "decision_date": "2016-01-30",
+  "title": "Esgaz Eskişehir Şehiriçi Doğal Gaz Dağıtım Ticaret ve Taah. A.Ş.?nin 2012-2016 yıllarıarası perakende satış tarifelerine ilişkin",
+  "resmi_gazete_date": "2016-01-28",
+  "resmi_gazete_number": "29609",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FePl1M8dNFU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FePl1M8dNFU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pJ7JySfO088="
+  ],
+  "source_sha256": "7411e4a2fee85c2b7a3f9d814dacda16d04b6f66b298ce7b4ec43066432a5e3b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-01-30",
+  "law_text_complete": false
+}
