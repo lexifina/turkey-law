@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "885",
+  "date": "2016-01-30",
+  "title": "T. 30.01.2016 E. 2015/912 K. 2016/91",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/885",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=10&yil=2016",
+  "listing_sha256": "e5a195aab2dcee45e4975754a7638460076cbefc1fb7fb15c1970d264e3cd909",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
