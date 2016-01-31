@@ -1,0 +1,29 @@
+{
+  "number": "month-01",
+  "year": 2016,
+  "month": 1,
+  "title": "OCAK AYI İL GENEL MECLİSİ KARARI İNDİRMEK İÇİN TIKLAYINIZ.",
+  "decision_date": null,
+  "index_date": "2016-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2016",
+  "source": "https://www.artvinozelidare.gov.tr/2016-yili-il-genel-meclisi-kararlari-",
+  "official_page": "https://www.artvinozelidare.gov.tr/2016-yili-il-genel-meclisi-kararlari-",
+  "official_document": "https://www.artvinozelidare.gov.tr/kurumlar/artvinozelidare.gov.tr/%C4%B0l%20Genel%20Meclisi%202016%20G%C3%BCndem%20ve%20Kararlar/2016%20OCAK%20KARARLARI.doc",
+  "source_sha256": "5b052954ddf066aafae5d9726e59ce85ef4ff6fdaff2ca464906c4c03635d0cd",
+  "issuer": "Artvin İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2016-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2016); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "OCAK AYI İL GENEL MECLİSİ KARARI İNDİRMEK İÇİN TIKLAYINIZ.",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2016 Yılı İl Genel Meclis Kararları"
+}
