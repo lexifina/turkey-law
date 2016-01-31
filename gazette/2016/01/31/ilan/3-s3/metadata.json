@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-01-31",
+  "issue": "29610",
+  "edition": "regular",
+  "item": 3,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ARTIRMA, EKSİLTME VE İHALE İLÂNLARI",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "EÜAŞ Afşin Elbistan B Termik Santralı İşletme Müdürlüğünden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/01/20160131-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (4 = 4)",
+  "ilan_codes": [
+    "635/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/01/20160131-3.htm",
+  "category_page_sha256": "6d81b7e4d9629237124177f44237c3f6ef26796ac356b196726b599ba456e2bd",
+  "issue_on_category_page": "29610",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/01/20160131.htm",
+  "index_sha256": "57e206750db4a4c63cb9925179ab8371f4b4c442d765fdf089f431a4f69e42bc",
+  "index_header": "31 Ocak 2016 ... 29610 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
