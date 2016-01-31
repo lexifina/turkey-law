@@ -1,0 +1,29 @@
+{
+  "number": "1",
+  "number_as_published": "01",
+  "year": 2016,
+  "month": 1,
+  "title": "01.KARAR OCAK 2016 (KENT KONSEYİ KOMİSYONU SEÇİLMESİ)",
+  "decision_date": null,
+  "index_date": "2016-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2016",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=48",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=48",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/895306fa8fbdce9cd43eec118dcc6c32895306fa8fbdce9cd43eec118dcc6c32.doc",
+  "source_sha256": "32b971001e6a27350851609d7f72140c064f6b56fad0bbb41c9254f1d5e6b099",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2016-01-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ocak 2016); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "29.01.2016",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
