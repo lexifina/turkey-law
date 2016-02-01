@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[Geç.8-15/2]-4377",
+  "source_id": 28800,
+  "date": "2016-02-01",
+  "title": "İktisadi İşletmenin AŞ’ye Dönüşmesi Durumunda Kar Dağıtımına Bağlı Vergi Kesintisi Muafiyeti Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28800",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "48a6181ab71c9420978f4908c8487e7bdb7f436c5bb197d7f27c885b0dff2b13",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
