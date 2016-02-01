@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21399",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÇİĞ SÜTÜN DEĞERLENDİRİLMESİNE YÖNELİK DESTEKLEME UYGULAMA ESASLARI TEBLİĞİ",
+  "number": "21399",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2016/21399",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21399&MevzuatTertip=5",
+  "source_sha256": "26a2727529f5e8a195298315409f678d962a0cf4351341dddcfd5101ba6403b5",
+  "source_bytes": 47651,
+  "published": "2016-02-01",
+  "gazette": "29611",
+  "in_force": "2016-02-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.02.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2695,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21399-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
