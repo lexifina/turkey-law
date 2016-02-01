@@ -1,0 +1,4 @@
+Giriş sınavı komisyonu
+MADDE 10 – (Başlığı ile Birlikte Değişik:RG-1/2/2016-29611)
+(1) Giriş sınavı komisyonu; Başkanın veya görevlendireceği başkan yardımcısının başkanlığında, I. Hukuk Müşaviri, daire başkanı, hukuk müşaviri ve uzmanlar arasından Başkan tarafından belirlenecek en az beş üyeden oluşur. Giriş sınav komisyonuna Başkanın başkanlık etmesi halinde bir başkan yardımcısı komisyon üyesi olarak görevlendirilir. Ayrıca iki yedek üye belirlenir. Giriş sınav komisyonu, üye tam sayısı ile toplanır ve kararlar oy çokluğu ile alınır. Asıl üyenin bulunmadığı toplantıya yedek üye iştirak eder.
+(2) Giriş sınavı komisyonu başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının ve evlatlıklarının katıldıkları sınavlarda görev alamazlar. Bu durumda olanların yerine yedek üyelerden görevlendirme yapılır.

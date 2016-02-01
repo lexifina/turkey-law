@@ -1,0 +1,2 @@
+Yeniden atanma
+MADDE 34 – (1) Bu Yönetmelik hükümlerine göre başuzman ve uzman unvanını kazandıktan sonra Kurumdan çeşitli sebeplerle ayrılanlar ile idari göreve geçenlerden yeniden uzmanlığa atanmak isteyenler, boş kadro olması ve Kurumun ihtiyacı çerçevesinde Kurumun düzenlemek ve denetlemekle yetkili olduğu sektörlerde faaliyet gösteren özel kurum ve kuruluşlarda görev yapmamış olmak kaydıyla yeniden atanabilirler. Kurumdan ayrılıp yeniden atananların dışarıda geçirdikleri süre uzmanlık kıdemlerinde dikkate alınmaz.

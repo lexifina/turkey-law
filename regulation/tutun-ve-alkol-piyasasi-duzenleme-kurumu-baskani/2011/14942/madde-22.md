@@ -1,0 +1,3 @@
+Yeterliğin değerlendirilmesi
+MADDE 22 − (1) Yeterlik değerlendirme notu yazılı ve tez jürisinin yaptığı değerlendirme sonucu 100 tam puan üzerinden alınan notlar ile (Değişik ibare:RG-1/2/2016-29611) YDS’den en az (C) olmak üzere alınan puan veya buna denk kabul edilen uluslararası geçerliliği bulunan yabancı dil puanının (Değişik ibare:RG-1/2/2016-29611) YDS puanına çevrilmesi sonucu bulunan puanların aritmetik ortalaması alınmak suretiyle belirlenir.
+(2) Başarılı sayılmak için, yazılı sınav ve tez jürisi değerlendirme notunun en az 70, (Değişik ibare:RG-1/2/2016-29611) YDS’den en az (C) düzeyinde veya buna denk kabul edilen uluslararası geçerliliği bulunan yabancı dil puanına sahip olunması gereklidir.

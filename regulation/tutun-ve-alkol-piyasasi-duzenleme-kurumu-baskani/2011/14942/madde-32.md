@@ -1,0 +1,2 @@
+Yurtdışında eğitim
+MADDE 32 − (1) Başuzman, uzman ve uzman yardımcıları İnsan Kaynakları ve Destek Hizmetleri Daire Başkanlığınca, Daire Başkanlıklarından alınacak görüşler de dikkate alınarak hazırlanan ve Kurul tarafından onaylanarak tespit edilen eğitim programları çerçevesinde belirlenmiş bir konuda eğitim, araştırma yapmak, mesleki bilgi ve görgüsünü artırmak amacıyla yurtdışına gönderilebilirler. Bu konuda 657 sayılı Devlet Memurları Kanunu ve ilgili mevzuat hükümleri uygulanır.

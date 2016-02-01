@@ -1,0 +1,7 @@
+Giriş sınavının değerlendirilmesi
+MADDE 13 – (Değişik:RG-1/2/2016-29611)
+(1) Giriş sınavının başarı sıralaması, yazılı sınav yapıldığı takdirde yazılı ve sözlü sınav puanlarının aritmetik ortalamasına, yalnızca sözlü sınav yapılması durumunda ise sözlü sınav puanlarına göre yapılır. Sınav puanlarının eşit olması durumunda yazılı sınav notu yüksek olan adaya öncelik tanınır. Sadece sözlü sınav yapıldığında puanların eşit olması durumunda ise 12 nci maddenin ikinci fıkrasının (a) bendi uyarınca verilen puanı yüksek olan adaya öncelik tanınır.
+(2) Başarı puanı en yüksek olan adaydan başlanmak ve duyuruda belirtilen kadro sayısını aşmamak suretiyle, giriş sınavında başarılı olanlar Kurumun internet sitesinde ilan edilir. Ayrıca yapılan sınavlarda başarılı olmak şartıyla, giriş sınavı duyurusunda belirtilen uzman yardımcısı kadro sayısının yarısını geçmemek üzere giriş sınavı komisyonu tarafından belirlenen sayıda yedek adayların isimlerini kapsayan bir liste belirlenerek ilan edilir.
+(3) Sınavı kazanan adaylara ayrıca tebligat yapılmaz.
+(4) Adaylar sınav sonuçlarına ilan tarihinden itibaren yedi gün içerisinde yazılı olarak itiraz edebilirler. İtirazlar onbeş gün içerisinde giriş sınavı komisyonu tarafından değerlendirilerek sonuçlandırılır ve adaylara yazılı olarak bildirilir.
+(5) Giriş sınavında başarı göstererek atananların sınavla ilgili belgeleri özlük dosyalarına konulur. Sınavı kazanamayan adayların belgeleri ise İnsan Kaynakları ve Destek Hizmetleri Daire Başkanlığında bir yıl süre ile saklanır.

@@ -1,0 +1,2 @@
+Giriş sınavı duyurusu
+MADDE 6 – (1) Sınava katılma şartları, son başvuru tarihi, başvuru yeri, KPSS taban puanı, uzman yardımcısı olarak en fazla kaç kişinin atanacağı, sınavın yeri, zamanı, içeriği ve değerlendirme yöntemi, başvuruda istenecek belgeler ile gerekli görülen diğer koşullar sınav tarihinden en az bir ay önce Resmî Gazete’de ve Türkiye genelinde yayınlanan tirajı en yüksek ilk beş gazetenin en az birinde ilan vermek ve Kurum internet sitesinde ilan edilmek suretiyle adaylara duyurur.
