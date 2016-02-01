@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120[32-15/3]-4323",
+  "source_id": 21680,
+  "date": "2016-02-01",
+  "title": "Mükellefin eşinin önceki evliliğinden olan ve velayeti eşinde bulunan çocuk için asgari geçim indiriminden yararlanıp yararlanamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21680",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "8315c7fec2388a781221e5795fa243bd034839057fcce722b3887d7b4a18f6a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
