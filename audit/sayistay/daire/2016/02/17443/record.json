@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "302",
+  "decision_date": "2016-02-02",
+  "source_id": 17443,
+  "chamber": "6",
+  "ilam_number": "165",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17443/",
+  "source_sha256": "a7e7e37da6bc092c954f0876d12cedb679efc8ee640f09e075d1a8e7bc831287",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
