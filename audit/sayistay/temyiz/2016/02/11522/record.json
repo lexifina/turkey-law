@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41432",
+  "decision_date": "2016-02-02",
+  "source_id": 11522,
+  "chamber": "6",
+  "file_number": "39968",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11522/",
+  "source_sha256": "0be847796c04dcb7f803e11e4b645d2046fa90653996340d1cd76103f6650136",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
