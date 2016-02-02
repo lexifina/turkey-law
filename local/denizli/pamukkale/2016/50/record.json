@@ -1,0 +1,24 @@
+{
+  "number": "50",
+  "number_as_published": "2016/50",
+  "year": 2016,
+  "title": "council decision",
+  "decision_date": "2016-02-02",
+  "source": "https://www.pamukkale.bel.tr/y-206-2016-yili-subat-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "9dc19961b21c11c89b488249e1e5e3df4a782331ece1996f7ab99f2657eb6c28",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2016-02-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.02.2016; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.pamukkale.bel.tr/y-206-2016-yili-subat-ayi-meclis-karar-ozetleri",
+  "listing_label": "2016 Yılı Şubat Ayı Meclis Karar Özetleri",
+  "record_scope": "one council decision (published decision summary)"
+}
