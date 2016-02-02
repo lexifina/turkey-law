@@ -1,0 +1,3 @@
+Sonuçlandırma
+MADDE 9 – (1) Proje veya programın bilimsel ve teknik tüm gelişimlerini içeren raporlar TÜBİTAK’a sunulduktan sonra TÜBİTAK sunulan bu raporları ve mali raporu dikkate alarak sonuçlandırma sürecini başlatır. TÜBİTAK sunulan raporlara ilişkin değişiklik ve düzeltme talep edebilir. Yapılan değerlendirme sonucunda projenin veya programın sonuçlandığına TÜBİTAK tarafından karar verilmesi durumunda bu karar ilgili taraflara iletilir.
+(2) TÜBİTAK sonuçlandırdığını belirttiği proje veya programın, sonuçlarının kullanımı, yaygınlaştırılması ve uygulanmasının izlenmesine ilişkin süreç geliştirebilir.

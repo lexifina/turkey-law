@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.21400",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BİLİMSEL VE TEKNOLOJİK ARAŞTIRMA KURUMU AR-GE TEMELLİ KAMU İHTİYAÇLARINA YÖNELİK DESTEK PROGRAMLARI YÖNETMELİĞİ",
+  "number": "21400",
+  "issuer": "TÜBİTAK Başkanı",
+  "issuer_slug": "tubitak-baskani",
+  "path": "regulation/tubitak-baskani/2016/21400",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21400&MevzuatTertip=5",
+  "source_sha256": "af77b9c81f13de173a1fd5679001c3f1c911384b6b8c15e7e6bf914679ad865e",
+  "source_bytes": 36716,
+  "published": "2016-02-02",
+  "gazette": "29612",
+  "in_force": "2016-02-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.02.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1802,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

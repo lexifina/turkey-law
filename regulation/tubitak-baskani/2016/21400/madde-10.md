@@ -1,0 +1,9 @@
+ÜÇÜNCÜ BÖLÜM
+Durum Değişiklikleri
+Durdurma, yürürlükten kaldırma, kapsam değişikliği ve iptal
+MADDE 10 – (1) Proje veya programın öngörülen amaç ve hedeflere uygun biçimde yürütülmediğinin veya sonuçlanmadığının belirlenmesi durumunda; proje veya programa ilişkin durdurulması, yürürlükten kaldırılması, kapsam değiştirilmesi veya iptal edilmesine ilişkin işlemler yapılabilir.
+(2) Desteklenen proje veya programın; izlenmesine ilişkin istenen bilgi, belge ve raporların TÜBİTAK tarafından belirlenen format ve tarihte gönderilmemesi, izleme sonucunda öngörülen amaç ve çalışma programına uygun biçimde yürütülmediğinin anlaşılması veya mücbir sebeplerle yürütülmelerinin geçici olarak olanaksız hale gelmesi durumunda, proje veya programlar TÜBİTAK tarafından durdurulur.
+(3) Durdurma gerekçelerinin ortadan kalktığının TÜBİTAK tarafından tespiti halinde, ilgili grubun görüşü ve Başkanlığın onayı ile proje veya program yeniden başlatılır. Durdurma süresi bitiş tarihine ilave edilir.
+(4) Durdurma işlemi sonrasında mücbir sebeplerle yürütülmeleri olanaksız hale geldiğine TÜBİTAK tarafından karar verilen proje veya program TÜBİTAK kararı ile yürürlükten kaldırılır. Bu durumda yürürlükten kaldırılan projelere Esasların yürürlükten kaldırılan projelere ilişkin hükümleri uygulanır.
+(5) Durdurma işlemi sonrasında proje veya program taraflarının kusurları veya ihmalleri nedeniyle olumsuzluk saptanan ve yürütülemeyeceği anlaşılan proje veya program ile etik ve/veya gizliliğe aykırı davranışların yapıldığı tespit edilen proje veya program, Bilim Kurulu kararıyla iptal edilir. Projenin iptal edilmesinde kusuru bulunan kişi ve kurum/kuruluşlar hakkında Esasların proje iptaline ilişkin hükümleri uygulanır.
+(6) TÜBİTAK’ın gerek görmesi halinde, proje veya programı durdurmadan da doğrudan yürürlükten kaldırma veya iptal işlemi yapılabilir.
