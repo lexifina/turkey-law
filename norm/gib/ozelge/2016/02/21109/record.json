@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120[18-15/22]-4448",
+  "source_id": 21109,
+  "date": "2016-02-02",
+  "title": "Resim, heykel ve enstalasyon (yerleştirme) çalışmalarının serbest meslek kazanç istisnasından yararlanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21109",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "49eb892768f2f98ed5e9687154becbeb5ab9398f7b9e7781492bd41672c183a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
