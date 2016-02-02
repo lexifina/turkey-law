@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6135",
+  "decision_date": "2016-02-02",
+  "title": "BOTAŞ İletim Şebekesi İşleyiş Düzenlemelerine İlişkin Esaslar’ın (ŞİD) 21. Bölümü çerçevesinde ŞİD’de değişiklik",
+  "resmi_gazete_date": "2016-03-09",
+  "resmi_gazete_number": "29648",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=weR45LYAIHQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=weR45LYAIHQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5N5XY248OsQ="
+  ],
+  "source_sha256": "3dc57bbcdcde5ef516ac5f29221d45347cbd0b5a7e34bde7eb02fbaa8bbf76cb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-02-02",
+  "law_text_complete": false
+}
