@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10525",
+  "decision_date": "2016-02-04",
+  "source_id": 16360,
+  "chamber": "1",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16360/",
+  "source_sha256": "2251a3b1fbfdbd91003fe124ead929a6754df9536b225502530a6e8d291f6e83",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
