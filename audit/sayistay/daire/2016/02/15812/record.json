@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10526",
+  "decision_date": "2016-02-04",
+  "source_id": 15812,
+  "chamber": "1",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/15812/",
+  "source_sha256": "58ffd91a144161af44026f7ad2edfd13f9a02a6f3ba7138cb36d04c259741ee9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
