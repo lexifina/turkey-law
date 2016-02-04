@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "303",
+  "decision_date": "2016-02-04",
+  "source_id": 16121,
+  "chamber": "6",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16121/",
+  "source_sha256": "275fd09a5f3591b9fa01bbb04f7fa4ee5f34b284101758957b52e9deafb7c77c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
