@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "74",
+  "decision_date": "2016-02-04",
+  "source_id": 16512,
+  "chamber": "7",
+  "ilam_number": "146",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16512/",
+  "source_sha256": "c046df07f61d50df441e4bfdc8882b7353a868c2697934729f15786ffffc3acb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
