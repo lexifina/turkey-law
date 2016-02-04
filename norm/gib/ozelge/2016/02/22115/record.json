@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.81.10.00-VUK-05-3",
+  "source_id": 22115,
+  "date": "2016-02-04",
+  "title": "Serbest meslek erbabının aynı zamanda proje ihalesi, inşaat vb. gibi işlerle uğraşması halinde vergisel açıdan yükümlülükleri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22115",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "e97e7d15bd4d67c9e390aa31e8879cc2607548b2854840a4d639e90424e12bd1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
