@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10524",
+  "decision_date": "2016-02-04",
+  "source_id": 16146,
+  "chamber": "1",
+  "ilam_number": "96",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16146/",
+  "source_sha256": "814a895f4911a50a26b4cc2a7f3d33e1464814e09be9fbe063973e5c9074da67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
