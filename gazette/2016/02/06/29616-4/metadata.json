@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-02-06",
+  "issue": "29616",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Muhasebat Genel Müdürlüğü Genel Tebliği (Sıra No: 51) (Parasal Sınırlar ve Oranlar)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160206-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160206.htm",
+  "index_sha256": "43ee31fd3092261b15957e78ea04ecec797bdc90c334b187fa33aa9a04d40969",
+  "index_header": "6 Şubat 2016 ... 29616 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160206.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
