@@ -1,0 +1,4 @@
+Toplantılara katılım
+MADDE 15 − (1) Hakem heyeti başkan ve üyelerinin bütün toplantılarda bulunmaları esastır. Toplantıya katılamayacak üyeler, hukuken geçerli mazeretlerini toplantıdan önce hakem heyeti başkanına yazılı olarak bildirir.
+(2) Hakem heyeti üyeleri, münhasıran kendileri, eşleri, ikinci derece dâhil kan veya kayın hısımları ve evlatlıkları ile bunların ortak veya üyesi oldukları tüzel kişiliklerini ilgilendiren işlere ilişkin gündem maddesi görüşülürken toplantılara katılamaz ve oy kullanamaz. Aksi halde, bu gündem maddesine ilişkin alınan karar ve bu karar uyarınca yapılan işlemler hükümsüz kalır.
+(3) Bu maddenin ikinci fıkrasında belirtilen sebeplerden dolayı toplantı yeter sayısının sağlanamaması halinde yedek üyeler münhasıran bu toplantı için çağırılır. Üyenin bu şekilde toplantının bir bölümüne katılmamış olması toplantının tamamına katılamayacağı veya katılmadığı sonucunu doğurmaz.
