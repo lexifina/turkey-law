@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "106",
+  "decision_date": "2016-02-08",
+  "title": "MEC_ KAR_ ( Yenişehir Menteş, Göçebelen eğitim",
+  "listed_as": "106 MEC_ KAR_ ( Yenişehir Menteş, Göçebelen eğitim",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/106-mec--kar---yenisehir-mentes-gocebelen-egitim-yeri-olarak-isaretlenmesi",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk28-08-subat-2016-meclis-kararlari",
+  "listing_sha256": "7f6b9c2fcf6f140a076618178e97fbe2f77718f24b616e2b34328fa898e9ff77",
+  "meeting_title": "MK28-08 ŞUBAT 2016 MECLIS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
