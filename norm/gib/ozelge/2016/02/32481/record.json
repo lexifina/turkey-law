@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-130[28-2015]-2337",
+  "source_id": 32481,
+  "date": "2016-02-08",
+  "title": "Bilgisayar ve doküman taşımaya elverişli çantaların ithali ve yurt içi tesliminde uygulanacak KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32481",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "b9fef7ad7710473174fd01a43cf8f40929f003a1501dcc409099163814c7ecd8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
