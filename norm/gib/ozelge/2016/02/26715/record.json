@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.10.15.02-105[313. Mad.2015/127-1057]-19",
+  "source_id": 26715,
+  "date": "2016-02-09",
+  "title": "Doğalgaz sayaçları için ölçü ayar mevzuatı kapsamında yapılan kalibrasyon giderlerinin amortisman yoluyla itfa edilip edilmeyceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26715",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "67c854ba5d863610fcdec0d7ac27b62b74b74ca07cb60a2f2be3eb82c5fec743",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
