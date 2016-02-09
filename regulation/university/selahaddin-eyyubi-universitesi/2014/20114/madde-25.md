@@ -1,0 +1,2 @@
+Danışman ataması
+MADDE 25 – (1) Tezsiz yüksek lisans programında, ilgili anabilim/ana sanat dalı başkanlığı her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesini veya ilgili anabilim/ana sanat dalı başkanlığı tarafından belirlenen niteliklere sahip bir öğretim görevlisini enstitü yönetim kurulunun kararıyla en geç birinci yarıyılın sonuna kadar belirler.

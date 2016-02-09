@@ -1,0 +1,6 @@
+Süre
+MADDE 19 – (1) Tezli yüksek lisans programını tamamlama süresi azami üç yıldır. Daha kısa sürede mezun olabilecek bir öğrenciyle ilgili düzenlemeler, enstitü kurulu tarafından belirlenir.
+(2) Tezli yüksek lisans programını azami üç yıl içinde başarı ile tamamlayamayan öğrenciler hakkında 2547 sayılı Kanunun 46 ncı maddesi hükümleri uygulanır.
+(3) Üç yıl sonunda mezun olamayan tezli yüksek lisans öğrencileri, Üniversite Yönetim Kurulunun önerisi üzerine Mütevelli Heyet tarafından belirlenen esaslara göre öğrenim ücreti öderler. Bu durumdaki öğrenciler ilgili döneme ait öğrenim ücretlerini ödemek koşulu ile öğrenimlerine devam etmek için kayıt yaptırabilir. Bu öğrencilerin, ders ve sınavlara katılma ile tez hazırlama hariç, öğrencilere tanınan diğer haklardan yararlandırılmaksızın öğrencilik statüleri devam eder.
+(4) Tez çalışmasını sürdüren öğrenciye tez danışmanı tarafından her yarıyıl sonunda başarı notu verilir. Üst üste iki kez veya aralıklı olarak üç kez başarısız not alan öğrencinin yeniden tez konusu önerisinde bulunması istenir.
+(5) Tezli yüksek lisans öğrencileri; her yarıyıl, akademik takvimde belirtilen tarihlerde kayıt yenilemek zorundadır. Öğrencinin kayıt yenilemediği dönemler, öğrenim süresinden sayılır.

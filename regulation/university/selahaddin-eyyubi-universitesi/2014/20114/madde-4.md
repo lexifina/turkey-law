@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Kontenjanlar, Öğrenci Kabulü, Kayıt ve Yatay Geçişlere İlişkin Esaslar
+Kontenjanların belirlenmesi ve ilanı
+MADDE 4 – (1) Her program için öğrenci kontenjanları ve başvuru koşulları ilgili anabilim/ana sanat dalları tarafından belirlenerek müdürlüğe teklif edilir. Kontenjanlar, başvuru koşulları, öğrencilerde aranacak nitelikler, başvuru tarihleri, istenilen belgeler, değerlendirme kriterleri ve diğer hususlar enstitü kurulunda görüşülerek karara bağlanmak üzere Senatoya sunulur ve Rektörlük tarafından ilan edilir. İlanda programların adları, son başvuru tarihi, başvuru koşulları, öğrencilerde aranacak nitelikler, istenen belgeler, var ise diğer açıklayıcı bilgiler ve diğer hususlar yer alır. Söz konusu ilan her yarıyıl başında verilebilir. Başvuruların değerlendirilmesi ile ilgili tüm işlemler, müdürlük tarafından yürütülür.

@@ -1,0 +1,3 @@
+Başarısızlık nedeniyle ders tekrarlama
+MADDE 14 – (1) Zorunlu bir dersten FF notu alan öğrenci, bu dersi ilk açıldığında tekrar almak zorundadır. Ancak FF alınan dersin ilgili dönemde açılmaması halinde, enstitü yönetim kurulu, ilgili anabilim/ana sanat dalı başkanlığının olumlu görüşünü alarak, zorunlu dersin kredi saatini karşılayan başka bir veya birkaç dersi almasına izin verebilir. Aynı şekilde, seçimlik bir dersten FF notu alan öğrenci de bu dersin yerine kredi saatini karşılayan başka bir dersi alabilir.
+(2) Tekrar edilen veya yeni dersten alınan ders başarı notu, FF notunun yerine geçer, ancak FF notu akademik kayıtlarda ve not dökümünde öğrenci mezun olana kadar gösterilir.

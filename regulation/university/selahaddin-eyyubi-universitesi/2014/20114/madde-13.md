@@ -1,0 +1,2 @@
+Notlara itiraz
+MADDE 13 – (1) Dönem sonunda ders notları Üniversitenin Öğrenci İşleri Daire Başkanlığı tarafından ilan edildikten sonra öğrencinin bir hafta içinde başvurusu üzerine maddi hata tespit edilmesi halinde, düzeltme işlemi, ilgili öğretim elemanlarının onayı ile bağlı olduğu anabilim/ana sanat dalı başkanlığının önerisi üzerine enstitü yönetim kurulunca karara bağlanır. Yarıyıl sonu sınavlarından sonra verilen notlarla ilgili maddi hataların en geç ertesi yarıyıl kayıt süresi içinde düzeltilmiş olması gerekir.

@@ -1,0 +1,4 @@
+Süre
+MADDE 26 – (1) Tezsiz yüksek lisans programını tamamlama süresi azami üç yıldır. Tezsiz yüksek lisans programını azami üç akademik yıl içinde başarı ile tamamlayamayan öğrenciler hakkında 2547 sayılı Kanunun 46 ncı maddesi hükümleri uygulanır.
+(2) Üç yılsonunda mezun olamayan tezsiz yüksek lisans öğrencileri, Üniversite Yönetim Kurulunun önerisi üzerine Mütevelli Heyet tarafından belirlenen esaslara göre öğrenim ücretini öderler. Bu durumdaki öğrenciler ilgili döneme ait öğrenim ücretlerini ödemek koşulu ile öğrenimlerine devam etmek için kayıt yaptırabilir. Bu öğrencilerin, ders ve sınavlara katılma hariç, öğrencilere tanınan diğer haklardan yararlandırılmaksızın öğrencilik statüleri devam eder.
+(3) Tezsiz yüksek lisans öğrencileri; her yarıyıl, akademik takvimde belirlenen tarihlerde kayıt yenilemek zorundadır. Öğrencinin kayıt yenilemediği dönemler, öğrenim süresinden sayılır.

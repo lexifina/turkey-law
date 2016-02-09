@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/selahaddin-eyyubi-universitesi/2014/20114",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 43 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-9/2/2016",
+  "first_law": null,
+  "gazette": "29139",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-02-09",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Selahaddin Eyyubi Üniversitesi",
+  "issuer_slug": "selahaddin-eyyubi-universitesi",
+  "kind": "regulation",
+  "published": "2014-10-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20114&MevzuatTertip=5",
+  "source_id": "8.5.20114",
+  "source_sha256": "0a896d83284662bdc0cefc71842566e9cc457ebdf917079a6a5e08e76dc453ab",
+  "title": "SELAHADDİN EYYUBİ ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 448,
+  "version_label": "oldest version available",
+  "word_count": 6805
+}

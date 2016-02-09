@@ -1,0 +1,3 @@
+Doktora diploması
+MADDE 35 – (1) Tez sınavında başarılı olmak ve diğer koşulları da sağlamak kaydıyla doktora tezinin ciltlenmiş en az üç kopyasını ve tezin tamamı ile Türkçe ve yabancı dilde özetlerini içeren üç adet elektronik kopyasını, tez sınavına giriş tarihinden itibaren bir ay içinde ilgili enstitüye teslim eden ve tezi şekil yönünden uygun bulunan doktora öğrencisine doktora diploması ile diploma eki verilir. Yazım kurallarına uymayan tez iade edilerek tekrar tamamlanabilmesi için müdürlükçe bir aya kadar ek süre tanınır. Diplomanın aslı hazırlanıncaya kadar diploma yerine geçen çıkış belgesi verilebilir, ancak, diploma eki verilmez.
+(2) Doktora diploması üzerinde, öğrencinin izlemiş olduğu enstitü anabilim/ana sanat dalındaki programın onaylanmış adı bulunur.
