@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41446",
+  "decision_date": "2016-02-09",
+  "source_id": 11528,
+  "chamber": "3",
+  "file_number": "39416",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2012",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11528/",
+  "source_sha256": "5ae1a9a47ed6d97fdd1ddc9c91028335b1e8866c7705def7a74807023316d94e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
