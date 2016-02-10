@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-105[236-2015/VUK-1-18922]-11024",
+  "source_id": 23657,
+  "date": "2016-02-10",
+  "title": "Vekalet ücretlerinde serbest meslek makbuzunun kimin adına ve nasıl düzenleneceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/23657",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "3f996e5006c56a818d12e4b7e784e512ffc9075bc9ed2343103c2ca4dbe2107a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
