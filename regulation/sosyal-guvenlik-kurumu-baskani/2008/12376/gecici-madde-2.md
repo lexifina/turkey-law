@@ -1,0 +1,2 @@
+Gündelik, yol, yatak ve yemek giderleri
+GEÇİCİ MADDE 2 – (1) Komisyonca belirlenen gündelik, yol, yatak ve yemek giderlerinin Kurumca ödenecek bedellerine ilişkin uygulama, Kanunun 108 inci maddesi gereği 2008 yılı Ekim ayı başında yürürlüğe konulur. Bu tarihe kadar geçecek sürede gündelik, yol, yatak ve yemek giderlerinin ödenmesinde, Kurum sağlık yardımlarından yararlandırılan kişilerin tabi oldukları mevzuat hükümleri uygulanır.

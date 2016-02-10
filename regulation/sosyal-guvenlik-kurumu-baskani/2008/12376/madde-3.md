@@ -1,0 +1,15 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Alt Komisyon: Sağlık Hizmetleri Fiyatlandırma Komisyonunca gerekli görülen hâllerde sağlık hizmetlerinin türlerine göre kurulan alt komisyonları,
+b) Diğer haklar: Kanunun 65 inci maddesi gereği ödenecek gündelik, yol, yatak, refakat ve yemek giderlerini,
+c) (Değişik:RG-25/12/2013-28862) Daire Başkanlığı: Komisyonunun görev alanına giren konularla ilgili sekretarya hizmetini yürüten, Genel Sağlık Sigortası Genel Müdürlüğü bünyesindeki Daire Başkanlığını,
+ç) Kanun: 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununu,
+d) Kurum: Sosyal Güvenlik Kurumunu,
+e) (Değişik:RG-25/12/2013-28862) Komisyon; Kurumca finansmanı sağlanan sağlık hizmetleri ile ödenecek gündelik, yol, yatak ve yemek giderlerinin Kurumca ödenecek bedellerinin belirlenmesi amacıyla Çalışma ve Sosyal Güvenlik Bakanlığını, Maliye Bakanlığını, Sağlık Bakanlığını ve Kalkınma Bakanlığını, Hazine Müsteşarlığını, üniversite sağlık hizmeti sunucuları ile özel sağlık hizmeti sunucularını temsilen Bakanlıkça belirlenecek birer üye ile Kurumu temsilen iki üye olmak üzere toplam dokuz üyeden oluşan komisyonu,
+f) (Değişik:RG:10/2/2016-29620) İlaç Geri Ödeme Komisyonu: Kurumca finansmanı sağlanan/sağlanacak beşeri tıbbi ürünlerin/beşeri ilaçların ödeme usul ve esaslarının belirlenmesi amacıyla Kurum tarafından oluşturulan komisyonu,
+g) Sağlık Uygulama Tebliği: Kurumca finansmanı sağlanan sağlık hizmetlerine ait ücretler ile tedavi yardımlarının verilmesine ilişkin usul ve esasların belirlendiği Kurumca yayımlanan ilgili yıl Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğini,
+ğ) Sağlık hizmeti: Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilere Kanunun 63 üncü maddesi gereği finansmanı sağlanacak tıbbî ürün ve hizmetleri ve 73 üncü maddesi kapsamında istisnai sağlık hizmetleri,
+h) Sağlık hizmeti sunucusu: Sağlık hizmetini sunan ve/veya üreten; gerçek kişiler ile kamu ve özel hukuk tüzel kişilerini ve bunların tüzel kişiliği olmayan şubelerini,
+ifade eder.
+ı) (Ek:RG:10/2/2016-29620) Sosyal Güvenlik Kurumu Genel Sağlık Sigortası Alternatif Geri Ödeme Komisyonu: Kurumca finansmanı sağlanan/sağlanacak olan sağlık hizmetleri ile ilgili alternatif geri ödeme modelleri ve bunlara ilişkin ödeme usul ve esasları ile sözleşme taslak metinleri hazırlamak amacıyla Kurum tarafından oluşturulan ve bu sağlık hizmeti bedellerinin belirlenmesinde Sağlık Hizmetleri Fiyatlandırma Komisyonu tarafından yetkilendirilen Sosyal Güvenlik Kurumu Genel Sağlık Sigortası Alternatif Geri Ödeme Komisyonunu,
+i) (Ek:RG:10/2/2016-29620) Alternatif geri ödeme modeli: Kurumca finansmanı sağlanan/sağlanacak olan sağlık alanındaki ürün ve hizmet gruplarının; ihtiyaç duyulan alanlarda mevcut ödeme usul, esas ve kuralları dışında mali veya tıbbi olarak getireceği faydaya göre ödeme kapsamına alınması veya mevcut ödeme usul, esas ve kurallarının değiştirilmesi ile yurtdışından temin edilen, ülkemizde imal edilemeyen veya bulunmayan ürün gruplarının üretiminin, ithal ürünlerin yerli üretime geçmesinin, piyasada bulunurluğunun sağlanması hususlarının teşvik edilmesi amacıyla oluşturulan geri ödeme modellerini,

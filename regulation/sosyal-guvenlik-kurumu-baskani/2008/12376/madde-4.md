@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Komisyonun ve Alt Komisyonların Oluşumu, Görevleri
+Komisyona katılacak temsilciler
+MADDE 4 – (1) (Değişik:RG-25/12/2013-28862) Komisyon; Kurum Başkanının başkanlığında, Genel Sağlık Sigortası Genel Müdürü ile Çalışma ve Sosyal Güvenlik Bakanlığını, Maliye Bakanlığını, Sağlık Bakanlığını, Kalkınma Bakanlığını ve Hazine Müsteşarlığını temsilen Genel Müdür düzeyinde birer üye ile üniversite sağlık hizmeti sunucularını temsilen Yükseköğretim Kurulu (YÖK) tarafından bildirilip Bakanlıkça belirlenecek olan bir üye ve özel sağlık hizmeti sunucularını temsilen Türkiye Odalar ve Borsalar Birliği (TOBB) tarafından bildirilip Bakanlıkça belirlenecek olan bir üye olmak üzere dokuz üyeden oluşur.
+(2) Kurum Başkanı, Komisyon Başkanı olarak Kurum Başkan Yardımcısı veya Genel Sağlık Sigortası Genel Müdürünü de görevlendirebilir. Genel Sağlık Sigortası Genel Müdürünün Komisyon Başkanı olarak görevlendirilmesi hâlinde Kurumu temsil edecek diğer üye (Değişik ibare:RG-25/12/2013-28862) Daire Başkanı olur.
+(3) Her bir kurumun Komisyondaki asıl üyesi kadar en az daire başkanı düzeyinde yedek üyesi de belirlenir. Komisyonun asıl üyelerinin toplantıya katılamadıkları durumlarda yerlerine yedek üyeler aynı yetkilerle toplantılara katılır.
