@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-105[229-2012/VUK-1- . . .]--10988",
+  "source_id": 26131,
+  "date": "2016-02-10",
+  "title": "Elektrik tüketimlerinin faturalandırma işleminin farklı endeksör cihazları ile yapılması durumunda, ayırt edici bilgilere yer verilmek suretiyle her bir cihazda ayrı seri ve sıra numarası takip edecek şekilde fatura kullanılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26131",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "bd6b60f9c4333125747b61422e6db3e40316cb7d8192ab6b8c46eaf1129595a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
