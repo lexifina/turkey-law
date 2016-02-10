@@ -1,0 +1,13 @@
+{
+  "number": "16-04/91-41",
+  "type": "Rekabet İhlali",
+  "decision_date": "2016-02-10",
+  "publication_date": "2016-05-02",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=81b1ee45-11ac-4076-9e2b-b09cf439eabb",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=420",
+  "pdf_sha256": "70701b4e0402de7ed27196db767e62e96c4f64fa288a4d953ea321401248e75d",
+  "pdf_bytes": "220103",
+  "pages": "10",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
