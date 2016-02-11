@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "306",
+  "decision_date": "2016-02-11",
+  "source_id": 17747,
+  "chamber": "6",
+  "ilam_number": "186",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17747/",
+  "source_sha256": "95cc5a3f449d77543d9cfc969bb3cc1939dc0acc15d5ef6bee7addd1a31cfcec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
