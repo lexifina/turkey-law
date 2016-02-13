@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-02-13",
+  "issue": "29623",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türk Gıda Kodeksi Belirli Gıdalarda Erusik Asit Seviyesinin Resmi Kontrolü İçin Numune Alma ve Analiz Metodu Kriterleri Tebliği (No: 2016/4)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160213-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160213.htm",
+  "index_sha256": "690f57b3dcf7de0400a5fd800bdc10ccc7c553ff816aa738a81a5dd17fbdffa2",
+  "index_header": "13 Şubat 2016 ... 29623 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160213.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
