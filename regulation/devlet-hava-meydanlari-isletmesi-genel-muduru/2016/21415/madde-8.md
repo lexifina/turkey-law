@@ -1,0 +1,3 @@
+İhale kararı onayı ve sözleşme yetkisi
+MADDE 8 – (1) Kuruluşça yapılan ihale konusu işe ilişkin ihale kararlarının ihale onayının alındığı makam tarafından onaylanması esastır. Yönetim Kurulundan alınan ihale onayına istinaden yapılıp, ihale bedeli Genel Müdürün yetki limitleri dahilinde gerçekleşen ihale kararı, Genel Müdür tarafından onaylanır.
+(2) Sözleşme, sözleşme bedelleri esas alınmak sureti ile 6 ncı maddede belirtilen yetki limitleri dahilinde ilgililerince imzalanır. Ancak, Kuruluş Yönetim Kurulundan alınan ihale onayına konu işe ilişkin sözleşmeler, tutarına bakılmaksızın Genel Müdür Yardımcısı ve Genel Müdür tarafından imzalanır.

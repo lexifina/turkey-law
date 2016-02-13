@@ -1,0 +1,2 @@
+Tekliflerin eşit olması
+MADDE 36 – (1) Ekonomik açıdan en avantajlı teklifin sadece fiyat esasına göre belirlendiği ihalelerde, birden fazla istekli tarafından teklif edilen fiyatın en düşük fiyat olması ve bu fiyatların da birbirine eşit olması durumunda, ekonomik açıdan en avantajlı teklifin belirlenmesinde; öncelik sırasıyla fiyat dışı unsur veya unsurlar, yerli malı olması ve iş deneyim belge tutarı esas alınır.

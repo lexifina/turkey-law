@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Devlet Hava Meydanları İşletmesi Genel Müdürlüğü Merkez ve Taşra Teşkilatlarında; parasal yetkilerin belirlenmesi, ihale komisyonlarının kurulması ile 4734 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (g) bendi uyarınca Kamu İhale Kurumu tarafından istisna kapsamında uygun görüş verilen ticari ve sınai faaliyetler çerçevesinde, doğrudan mal ve hizmet üretimine veya ana faaliyetlerine yönelik ihtiyaçlarının temini için yapacağı mal ve hizmet alım ihalelerini kapsar.
