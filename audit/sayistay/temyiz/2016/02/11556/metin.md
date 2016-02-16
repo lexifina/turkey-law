@@ -1,0 +1,35 @@
+1) 95 sayılı ilamın 1 inci maddesinde, Mali Hizmetler Müdür Vekili …., Temizlik İşleri Müdürü …., Yazı İşleri Müdür Vekili …. ve İtfaiye Müdür Vekili …..’a Bütçe Kanunu K cetveli hükmüne aykırı olarak fazla mesai ücreti ödenmesi nedeniyle …. TL. ye tazmin hükmolunmuştur.
+
+Sorumlular dilekçelerinde, 2011 yılı Merkezi Yönetim Bütçe Kanunu K Cetveli III. Fazla Çalışma Ücreti 2/b madde metninden anlaşılacağına göre, söz konusu ödemenin İl Belediye Başkanları ile çalışan personele yapılabilecek bir ödeme olduğunu,  Belediyenin de 3 memur başkan yardımcısı 1 seçilmiş başkan yardımcısı 20 adet müdürlük ve yaklaşık 200 memuru bulunduğunu, Belediye Başkanının kiminle çalışıp kiminle çalışmayacağını kendisi belirleyeceği için fazla çalışma mesai ücretlerinin de kimlerle çalıştıysa onların almasının doğal olduğunu,
+
+K cetvelinde İl Belediye Başkanları ile birlikte çalışan personele 90 saati geçmemek üzere makam onayına istinaden yapılacak ödeme şeklinde tarif edildiğini,  Müdürlere verilmez diye bir ibare olmadığını,
+
+5018 Sayılı yasa gereği mali hizmetler müdürü …. ın  muhasebe yetkilisi görevini de yürüttüğünden direk üst yöneticiye bağlı olarak çalıştığını, Yazı işleri müdürlüğünün meclis ve encümen çalışmaları dolayısıyla doğrudan başkana bağlı olduğunu, Temizlik ve İtfaiye Müdürlüğü görevleri gereği tam gün çalıştığından Belediye başkanından direk olarak talimat aldığını, ayrıca İtfaiye Müdür V. …. 2011 mali yılında vekaleten çalıştığından ve itfaiye maktu mesai ücreti almadığından fazla mesai ücreti verildiğini, Belediye başkanının oluruyla fazla çalışan müdürlere fazla çalışma mesai ücreti vermesinde herhangi bir kamu zararı oluşmadığını belirterek verilen kamu zararının kaldırılmasını talep etmişlerdir.
+
+Sayıştay Başsavcılığı; “2011 yılı Bütçe Kanunun K cetvelinin III. Fazla Çalışma Ücreti 2 nci maddesinde *' 657 sayılı Kanuna tabi personele, anılan Kanunun 178 inci maddesinde yer alan kısıtlamalara bağlı olmaksızın ve fiilen yapılan fazla çalışma karşılığında;...
+
+b) Her bir makam için aylık toplam 450 saati geçmemek üzere Kurul Başkanı (Bakanlıklar), Genel Müdür ve daha üst birim yöneticileri, Strateji Geliştirme Başkanı, Vali, General ve Amiral rütbesini haiz olmak kaydıyla Genelkurmay Başkanlığı, Milli Savunma Bakanlığı, kuvvet komutanlıkları ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığındaki Daire Başkanı ve daha üst birimlerin yöneticileri, Rektör, Büyükşehir ve İl Belediye Başkanları ile birlikte çalışan personele ayda 90 saati,...geçmemek üzere makam onayına istinaden yapılacak ödeme,
+
+g) Nüfusu en son resmi nüfus sayımına göre 250.000 ve daha yukarı olan belediyelerde (Büyükşehir belediyesi sınırları içindeki ilçe belediyeleri dahil) Hesap İşleri Müdürlüğüne ait kadrolara atanmış olup; vergi, harç, katılma payları ile ilgili tarh, tahakkuk, tahsilat, tebliğ, takip, yoklama ve benzeri gelir işlerinde fiilen çalışan 657 sayılı Kanuna tabi personele (bu konulara ilişkin olarak bilgi işlem merkezlerinde çalışan memurlar ve sözleşmeli personel dahil, işçiler hariç); bu görevler nedeniyle fiilen yaptıkları fazla mesailer karşılığında her bir saat için 2,65 Türk Lirasını geçmemek üzere belediye başkanlıklarınca belirlenecek esas, usul ve miktarlarda fazla mesai ücreti ödenebilir. Ancak, her bir personel için bu bende göre bir yılda ödenecek fazla mesai saat sayısı 300 saati geçemez." Hükmü yer almaktadır.
+
+Daha önce sunulan dışında yeni bilgi ve belge gönderilmediğinden Daire kararının onanması yönünde karar verilmesinin uygun olacağı” şeklinde görüş belirtmiştir.
+
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü;
+
+2011 yılı Merkezi Yönetim Bütçe Kanunu K Cetveli “III. Fazla Çalışma Ücreti/A. Saat Başı Fazla Çalışma Ücreti” başlıklı bölümünün 2/b maddesinde;
+
+“Her bir makam için aylık toplam 450 saati geçmemek üzere Kurul Başkanı (Bakanlıklar), Genel Müdür ve daha üst birim yöneticileri, Strateji Geliştirme Başkanı, Vali, General ve Amiral rütbesini haiz olmak kaydıyla Genelkurmay Başkanlığı, Milli Savunma Bakanlığı, kuvvet komutanlıkları ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığındaki Daire Başkanı ve daha üst birimlerin yöneticileri, Rektör, Büyükşehir ve İl Belediye Başkanları ile  birlikte çalışan personele ayda 90 saati geçmemek üzere makam onayına istinaden yapılacak ödeme”
+
+2/g maddesinde ise; “Nüfusu en son resmi nüfus sayımına göre 250.000 ve daha yukarı olan belediyelerde (Büyükşehir belediyesi sınırları içindeki ilçe belediyeleri dahil) Hesap İşleri Müdürlüğüne ait kadrolara atanmış olup; vergi, harç, katılma payları ile ilgili tarh, tahakkuk, tahsilat, tebliğ, takip, yoklama ve benzeri gelir işlerinde fiilen çalışan 657 sayılı Kanuna tabi personele (bu konulara ilişkin olarak bilgi işlem merkezlerinde çalışan memurlar ve sözleşmeli personel dahil, işçiler hariç); bu görevler nedeniyle fiilen yaptıkları fazla mesailer karşılığında her bir saat için 2,65 Türk Lirasını geçmemek üzere belediye başkanlıklarınca belirlenecek esas, usul ve miktarlarda fazla mesai ücreti ödenebilir……”denilmektedir.
+
+Anılan hükümlere göre fazla çalışma ücreti ödenebilecek belediye personeli belediye başkanları ile birlikte çalışan personel ile Hesap İşleri Müdürlüğüne ait kadrolara atanmış olan personelle sınırlı tutulmuştur. Belediye başkanları ile birlikte çalışan personel ise Özel Kalem Müdürlüğü çalışanları, sekreteri, odacısı, koruması, şoförü gibi, mesaisi tamamen Başkana tabi olan personeldir. Söz konusu ödeme, fiilen İl Belediye Başkanları ile birlikte çalışan personele yapılabilecek bir ödeme olduğundan, Belediye personelinden bu şartı taşımadığı halde istenilen kişilere verilmesi mümkün görülmemektedir.
+
+Sorumlular tarafından, İtfaiye Müdür V. …. 2011 mali yılında vekaleten çalıştığından ve itfaiye maktu mesai ücreti almadığından saat başı fazla mesai ücreti verildiği belirtilmekte ise de; ilamın konusu, 2011 yılı Merkezi Yönetim Bütçe Kanunu K Cetveli 2/b maddesine göre; İl Belediye Başkanları ile birlikte çalışan personele ayda 90 saati geçmemek üzere makam onayına istinaden yapılacak fazla çalışma ücreti ödenmesi olup, ilamın konusu dışında olan itfaiye maktu mesai ücreti ile ilgisi bulunmamaktadır.
+
+Açıklanan nedenlerle, sorumlu iddialarının reddi ile 95 sayılı ilamın 1 inci maddesiyle ….. TL. ye tazmin hükmünün TASDİKİNE
+
+(Üyeler …… nın “Adı geçen personelin, savunmada da belirtildiği üzere, Belediye Başkanıyla ve onun bilgisi dahilinde çalıştığı anlaşılmaktadır. Merkezi Yönetim Bütçe Kanunu K Cetveli III. Fazla Çalışma Ücreti 2/b maddesinde “Belediye Başkanıyla çalışan personel” denilmek suretiyle bu personelin kim olması gerektiğine dair bir açıklama da getirilmemiştir. Dolayısıyla fazla çalışma ücreti alacak personelin Belediye Başkanının bilgisi ve onayı doğrultusunda başkanla çalışma şartını taşıması yeterli görülmektedir. Bu nedenle tazmin hükmünün kaldırılması gerekir” şeklindeki ayrışık görüşlerine karşı),
+
+Oyçokluğuyla,
+
+Karar verildiği 16.02.2016 tarih ve 41469 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
