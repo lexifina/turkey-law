@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.65.10.00-492-7",
+  "source_id": 36026,
+  "date": "2016-02-16",
+  "title": "Şehit yakınının satın alacağı silah için 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkındaki Kanun kapsamında silah ruhsat harcı ödeyip ödemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36026",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "6d40b81f4b2b11f22c732154e1b2b597af93c093b906af333d6a90b348d60ae2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
