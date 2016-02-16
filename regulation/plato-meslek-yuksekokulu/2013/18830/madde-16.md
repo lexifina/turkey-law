@@ -1,0 +1,5 @@
+Ders yükü
+MADDE 16 – (1) Bir öğrencinin bir yarıyılda alacağı normal ders yükü öğrencinin ilgili olduğu programda belirlenen yüktür. Kredi değeri esasına göre bu yük Meslek Yüksek Okulu Kurulu tarafından belirlenir.
+(2) Öğrencinin bir yarıyılda alacağı ders yükü, öğrencinin isteği, danışman öğretim elemanının onayı ile belirlenir. Ders yükü, çift ve yan dal eğitimi yapan öğrenciler hariç, haftada 30 krediden fazla olamaz.
+(3) Plato Meslek Yüksekokulu Kurulu tarafından aksine bir karar alınmadıkça 2013-2014 Eğitim ve Öğretim yılından geçerli olmak üzere öğrencilerin, ön lisans diplomasını almaya hak kazanabilmeleri için her yarıyıl, kayıtlı olduğu programın, haftalık ders müfredat programlarında gösterilen dersleri alıp, bu derslerden başarılı olması ve bunun yanında 4 yarıyıllık öğrenim sonunda aldığı dersler karşılığı olarak en az 70 yerel krediyi tamamlaması gerekmektedir.
+(4) Ayrıca programların 4 yarıyıllık haftalık ders müfredat programlarının, öğrenci iş yüküne AKTS veya ECTS bağlı olarak tamamlanması gereken kredi miktarı 120 ECTS olmak üzere her yarıyıl 30 ECTS olacak şekilde gerçekleştirilmelidir.

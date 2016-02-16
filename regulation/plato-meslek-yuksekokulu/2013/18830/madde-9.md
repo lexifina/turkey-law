@@ -1,0 +1,3 @@
+Eğitim-öğretim ücreti
+MADDE 9 – (1) Öğrencilerden, her eğitim-öğretim yılında, Mütevelli Heyet tarafından belirlenen miktarda öğretim ücreti alınır. Öğretim ücretini yatırmayan öğrencinin kaydı yapılmaz, yenilenmez ve öğrencilik haklarından yararlanamaz. Kayıt yenilemeyen öğrenci öğrencilik haklarından yararlanamaz.
+(2) Azami öğretim süresi sonunda mezun olamayan öğrencilerden alacakları ders kredisine göre Mütevelli Heyet tarafından belirlenen miktarda ders kredi saat ücretine göre öğretim ücreti alınır. Öğrencinin alacağı ders kredi saat ücreti yıllık öğrenim ücretinden fazla olamaz, bu durumda eğitim-öğretim yılı için belirlenen öğretim ücreti alınır.

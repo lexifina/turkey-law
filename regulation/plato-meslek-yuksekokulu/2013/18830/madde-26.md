@@ -1,0 +1,2 @@
+Ders tekrarı
+MADDE 26 – (1) Yılsonunda yarıyıl başarı notu (FF) , (FD) ve (DZ) olan öğrenciler, derslerin açıldığı ilk yarıyılda öncelikle bu dersleri alırlar. (DZ) harf notu alınan dersler haricinde öğretim üyesi zorunlu görmedikçe devam mecburiyeti aranmaz. Tekrar alınan derslerin başarı notu, kronolojik transkriptte en son alındığı yarıyıla işlenir ve o yarıyılın ağırlıklı not ortalaması hesabında dikkate alınır.

@@ -1,0 +1,4 @@
+Öğretim süresi
+MADDE 6 – (1) Meslek Yüksekokulunda; hazırlık sınıfı hariç normal öğretim süresi iki, azami öğretim süresi dört yıldır.
+(2) Meslek Yüksekokulundan uzaklaştırma cezası alan öğrencinin ceza süresi öğrenim süresinden sayılır ve ceza süresi için öğretim ücretini ödemekle yükümlüdür.
+(3) Hazırlık sınıfı hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmadan ön lisans programlarını azami 4 yıl içinde başarı ile tamamlayarak mezun olamayan öğrenciler 9 uncu maddeye göre belirlenen öğretim ücretini ödemek koşulu ile öğrenimlerine devam etmek için kayıt yaptırabilir. Bu durumda, ders ve sınavlara katılma ile proje hazırlama hariç, öğrencilere tanınan diğer haklardan yararlandırılmadan öğrencilik statüleri devam eder.

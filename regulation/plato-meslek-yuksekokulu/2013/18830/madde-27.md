@@ -1,0 +1,2 @@
+Notlara itiraz
+MADDE 27 – (1) Öğrenci, öğrenci işleri birimi tarafından ilan edilen sınav sonuçlarında maddi hata olduğunu düşünüyorsa öncelikle dersin öğretim elemanına müracaatta bulunur. Öğrencinin itirazı bu şekilde sonuçlanmaz ise notların ilanından itibaren 5 iş günü içerisinde dilekçe ile Meslek Yüksekokulu Müdürlüğüne başvurur. Başvurular Yüksekokul Müdürlüğü gözetiminde ilgili program başkanlığı tarafından değerlendirilir ve sonucu 7 gün içinde ilgililerine duyurulur.

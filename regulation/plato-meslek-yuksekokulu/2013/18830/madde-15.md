@@ -1,0 +1,2 @@
+Çift dal ve yan dal programı
+MADDE 15 – (1) Başarılı öğrenciler, ÖSYM tarafından merkezî sistem ile yerleştirilerek kayıt yaptırdığı programla birlikte, kendi programı ile aynı bölüme bağlı programlardan olmak koşuluyla ikinci bir ön lisans programında çift dal programı veya yan dal programı öğretimi yapabilir. Çift ve yan dal programı öğretimi, ilgili mevzuat hükümleri çerçevesinde ve Meslek Yüksekokulu Kurulunun belirleyeceği esas ve usullere göre yapılır.

@@ -1,0 +1,4 @@
+Burslar
+MADDE 10 – (1) Meslek Yüksekokulunun burslu ön lisans programlarına yerleştirilen öğrencilere sağlanan burs, sadece öğretim ücretini kapsar. Burs; karşılıksız olarak verilir, İngilizce hazırlık programında geçirilecek süreyi de kapsar ve öğrenci Meslek Yüksekokulunca belirlenen başarı kriterlerine uyduğu sürece devam eder.
+(2) Türkçe eğitim yapan programlara burslu olarak yerleştirilen öğrenciler, ücretini ödemek şartıyla hazırlık programına kayıt olabilir. Öğrencilere tahsis edilecek burslar veya burslu öğrenciye ilişkin kararlar Mütevelli Heyet tarafından verilir.
+(3) Burslu olarak okuyan öğrencinin bursunun devam etmesi için, herhangi bir disiplin cezası almamış olması, normal öğrenim süresi olan iki yılı aşmaması, ders planı ve programlarında öngörülen derslere devamla ilgili şartları yerine getirmesi, ilk iki yarıyıl sonunda genel not ortalamasının 2.00’dan az olmaması gerekir, aksi takdirde öğrencinin bursu eğitim gördüğü yılsonu itibariyle kesilir.
