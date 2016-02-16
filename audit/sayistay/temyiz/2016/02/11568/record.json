@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41480",
+  "decision_date": "2016-02-16",
+  "source_id": 11568,
+  "chamber": "6",
+  "file_number": "39439",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11568/",
+  "source_sha256": "eac02907ce99c87cb5bbad0a0cabf49a15f5a01e2a10916f75e554e961d039f9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
