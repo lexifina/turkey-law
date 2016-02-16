@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120[61-15/16]-6507",
+  "source_id": 37514,
+  "date": "2016-02-16",
+  "title": "Ar-Ge Merkezinde çalışan personelin servis ve yemek giderlerinin Ar-Ge harcaması sayılıp sayılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37514",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "a355cb0fd54dcc3f1f6ae114e83538bcc3000680c23452168c435b52359a0460",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
