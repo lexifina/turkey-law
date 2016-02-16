@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-02-16",
+  "issue": "29626",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "6663 Sayılı Gelir Vergisi Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun ile İlgili",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160216-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160216.htm",
+  "index_sha256": "5c7257864e6259d38c6afba1085624366b709f43c1c2de20c81014a8b258756a",
+  "index_header": "16 Şubat 2016 ... 29626 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160216.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
