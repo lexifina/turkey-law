@@ -1,0 +1,25 @@
+Avukatlık vekalet ücretinden kesilen gelir vergisi tutarının, aynı takvim yılı içerisinde aynı personele ödenen ücretten kesilen gelir vergisi tutarına dahil edilmeyip, gelir vergisi tarifesinin bir üst dilime geçmemesi.
+
+2) 240 sayılı ilamın 7 nci maddesinde, .... Belediyesi Hukuk İşleri Müdürlüğü’nde görevli Hukuk İşleri Müdür Vekili ....’ a ödenen avukatlık vekalet ücretinden kesilen gelir vergisi tutarının, aynı takvim yılı içerisinde aynı personele ödenen ücretten kesilen gelir vergisi tutarına dahil edilmeyip, gelir vergisi tarifesinin bir üst dilime geçmemesi sonucu daha düşük oranda gelir vergisi ödenmesine sebebiyet verildiği gerekçesiyle …… TL. ye tazmin hükmolunmuştur.
+
+Sorumlu tarafından esas ile ilgili bir itirazda bulunulmayıp, ilamın 6 ncı maddesinde açıklandığı şekilde muhasebe işlem fişlerinden muhasebe yetkililerinin sorumlu tutulmaması gerektiğini belirterek üzerindeki tazmin hükmünün kaldırılmasını talep etmiştir.
+
+Başsavcılık görüşü ilamın 6 ncı maddesinde açıklandığı gibidir.
+
+Gereği görüşüldü:
+
+5018 sayılı Kanunun 61 inci maddesi ile Muhasebe Yetkililerinin Eğitimi, Sertifika Verilmesi ile Çalışma Usul ve Esasları Hakkında Yönetmeliğin 29 uncu maddesinde, muhasebe yetkilisinin taahhüt ve tahakkuk aşamaları tamamlanmış, ödeme emri belgesi düzenlenmiş ve ön mali kontrolden geçerek ödenmek üzere muhasebe birimine gelmiş bulunan gider ve muhasebe belgeleri ile ön ödeme belgeleri üzerinde, ödemeye ilişkin belgelerin tamam olup olmadığını ve maddi hata bulunup bulunmadığını kontrol etmekle yükümlü olduğu, ilgili mevzuatında belirtilen belgeler dışında belge aramayacağı ve sorumluluğunun görevi gereği incelemesi gereken belgelerle sınırlı olduğu belirtilmektedir.
+
+ Muhasebe Yetkililerinin Eğitimi, Sertifika Verilmesi ile Çalışma Usul ve Esasları Hakkında Yönetmeliğin 29 uncu maddesinin dördüncü fıkrasında; “Muhasebe yetkililerinin maddi hataya ilişkin sorumlulukları; bir mali işlemin muhasebeleştirilmesine dayanak teşkil eden karar, onay, sözleşme, hakediş raporu, bordro, fatura, alındı ve benzeri belgelerde; gelir, alacak, gider ya da borç tutarının tespit edilmesine esas rakamların hiçbir farklı yoruma yer vermeyecek biçimde, bilerek veya bilmeyerek yanlış seçilmesi, oranların yanlış uygulanması, aritmetik işlemlerin yanlış yapılması ve muhasebeleştirmeye esas toplamlarının muhasebeleştirme belgesinde ilgili hesaplara noksan veya fazla kaydedilmek suretiyle yapılan yersiz ve fazla alma, verme, ödeme ve gönderilmesiyle sınırlıdır. Teknik nitelikteki belgelerde, bu niteliğe ilişkin olarak yapılmış maddi hatalardan bu belgeleri düzenleyen ve onaylayan gerçekleştirme görevlileri sorumlu olup, muhasebe yetkililerinin bu belgelere ilişkin sorumlulukları aritmetik işlemlerdeki yanlışlıklarla sınırlıdır” şeklinde ifade edilmiş bulunmaktadır.
+
+Muhasebe işlem fişi eki belgelerin incelenmesinde, ilgili birim tarafından hesaplanarak hazırlanan bordrolarda belirlenen  tutarların; muhasebe yetkilisinin imzası ile  ödendiği görülmüştür.
+
+5018 sayılı Kanunun 31 inci maddesinde bütçeyle ödenek tahsis edilen her bir harcama biriminin en üst yöneticisinin harcama yetkilisi olduğu ifade edilmiş, 32 nci maddesinde ise; bütçeden harcama yapılabilmesi harcama yetkilisinin, harcama talimatı vermesine bağlanmış, harcama talimatlarında da hizmet gerekçesi, yapılacak işin konusu ve tutarı, süresi, kullanılabilir ödeneği, gerçekleştirme usulü ile gerçekleştirmeyle görevli olanlara ilişkin bilgilerin yer alacağı, harcama talimatlarının bütçe ilke ve esaslarına, kanun, tüzük ve yönetmelikler ile diğer mevzuata uygun olmasından, ödeneklerin etkili, ekonomik ve verimli kullanılmasından ve bu Kanun çerçevesinde yapmaları gereken işlemlerden harcama yetkililerinin sorumlu oldukları belirtilmiştir.
+
+ 5018 sayılı Kanunun 33 üncü maddesinde de, giderin gerçekleştirilmesinin, harcama yetkililerince belirlenen görevli tarafından düzenlenen ödeme emri belgesinin harcama yetkilisince imzalanması ve tutarın hak sahibine ödenmesi ile tamamlanacağı hüküm altına alınmıştır.
+
+Diğer taraftan, 6085 sayılı Sayıştay Kanunu’nun 7 nci maddesinin üçüncü fıkrasında; sorumluların, mevzuata aykırı karar, işlem veya eylemleri ile illiyet bağı kurularak oluşturulan ilamda yer alan kamu zararından tek başlarına veya birlikte tazmin ile yükümlü oldukları ifade edilmiştir.
+
+Bu hükümlere göre  kamu zararından; mevzuata aykırı  ödemeye dayanak teşkil eden belgeleri harcama yetkilisi ve gerçekleştirme görevlisi olarak imzalayanların sorumlu tutulması gerektiğinden; sorumluluğun  yeniden değerlendirilmesi için  240  sayılı ilamın 7 nci maddesiyle  toplam …… TL. ye  ilişkin olarak verilen tazmin hükmünün BOZULARAK, dosyanın hükmü veren DAİREYE GÖNDERİLMESİNE
+
+(Üye ….. nın, .... Belediyesi’nde görevli avukatlara ödenen vekalet ücreti ödemeleri ile aylık ücret ödemelerinin ayrı tahakkuk birimlerince gerçekleştirilmesi nedeniyle, bu ödemelerin kümülatif vergi matrahına dahil edilmemesinde mevzuata aykırılık bulunmamaktadır. Bu itibarla, verilen tazmin hükmünün kaldırılmasına karar verilmesi gerekir yönünde ayrışık görüşüne karşı), Oyçokluğu ile,
