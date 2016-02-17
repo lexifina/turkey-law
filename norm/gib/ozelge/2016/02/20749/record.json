@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-120[GVK.ÖZ.2014.83]-57",
+  "source_id": 20749,
+  "date": "2016-02-17",
+  "title": "Hindistan mukimi şirkete verilen danışmanlık hizmeti karşılığı Hindistan'da yetkili makama ödenen tevkifatın Türkiye'de ödenecek gelir vergisi ve gelir geçici vergiden mahsubu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20749",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "d2c8a972ed9a0f29ae9d3f932d48da7204b011b2b07584c8b4fc79d78954ddf2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
