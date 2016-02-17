@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "978985701-155[5366-3-2014/263]-13071",
+  "source_id": 35196,
+  "date": "2016-02-17",
+  "title": "5366 S. Kanun kapsamında ihalesi yapılan yenileme işi nedeniyle yüklenici firma tarafından sağlanan kredilere ilişkin lehe kalan paraların BSMV'ye tabi olup olmadığı ile yüklenicinin üçüncü kişilerle yaptığı sözleşmelerin damga vergisi karşısındaki durumu hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/35196",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "342fca2d31de273fdea71042cdac17531106d10a4eec7bda3e0c3fb7e3c673b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
