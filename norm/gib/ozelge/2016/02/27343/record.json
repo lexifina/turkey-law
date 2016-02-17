@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-125[KVK.2013.ÖZ.2]-55",
+  "source_id": 27343,
+  "date": "2016-02-17",
+  "title": "Büyükşehir Belediyesine bağlı su idaresinin IGPS Sabit Referans İstasyonunu kullanımı karşılığında alacağı bedelin kurumlar vergisine tabi olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27343",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "fe833c2e2de69e8cb5cca69b110d86f1d72883ca26bf5d1670a5d9c4af7be04e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
