@@ -1,0 +1,3 @@
+Onur Kurulu üyelerinin reddi ve çekilme
+MADDE 34 – (1) Onur Kurulu üyeleri, kendilerini ilgilendiren soruşturma konularına katılamazlar, 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 22 nci maddesinde yazılı benzer sebeplerin bulunması halinde duruşmadan çekilir veya taraflarca üyelerin bu durumları öğrenildiğinde yedi gün içinde Onur Kuruluna verilecek dilekçe ile reddi istenebilir. Ret istemi, reddi istenen üyenin dışındaki üyelerin toplanması suretiyle incelenir. Ret talebine karşı, Onur Kurulunun verdiği karar kesindir.
+(2) Çekilen veya reddedilenlerin yerine yedek üyeler Kurula katılır.

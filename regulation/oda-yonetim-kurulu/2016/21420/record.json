@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.21420",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMAN MÜHENDİSLİĞİ, ORMAN ENDÜSTRİ MÜHENDİSLİĞİ VE AĞAÇ İŞLERİ ENDÜSTRİ MÜHENDİSLİĞİ HAKKINDA KANUNA DAİR ODA ONUR KURULU ÇALIŞMA ESASLARI VE SERBEST YEMİNLİ MESLEK MENSUPLARI DİSİPLİN YÖNETMELİĞİ",
+  "number": "21420",
+  "issuer": "Oda Yönetim Kurulu",
+  "issuer_slug": "oda-yonetim-kurulu",
+  "path": "regulation/oda-yonetim-kurulu/2016/21420",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21420&MevzuatTertip=5",
+  "source_sha256": "4fd5c4194985c4d7e6235a697fe9d02db86079b8a3e6bf4c1ebc8cb8d70d29c7",
+  "source_bytes": 69178,
+  "published": "2016-02-17",
+  "gazette": "29627",
+  "in_force": "2016-02-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.02.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4163,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

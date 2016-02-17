@@ -1,0 +1,4 @@
+Ön inceleme
+MADDE 20 – (1) Oda Yönetim Kurulu, ivedi durumlar hariç olmak üzere, ihbar, şikâyet veya istem konusunun bildirilmesinden sonra gelen ilk toplantısında ihbar, şikâyet veya istem konusunu incelemek zorundadır.
+(2) İhbar veya şikâyette bulunanın kimliği, adresi ve imzası bulunmayan ihbar ve şikâyetler işleme konulmaz. Şu kadar ki; Oda Yönetim Kurulu gerek gördüğü durumlarda, bu gibi ihbar veya şikâyet konuları hakkında da ön inceleme yaptırabilir.
+(3) İhbar ve şikâyet dilekçeleri Oda Yönetim Kurulunda görüşüldükten sonra ön incelemenin yapılması amacıyla Yönetim Kurulundan bir veya birden çok üye veya meslek mensubu ön inceleme yapmak üzere soruşturmacı olarak görevlendirilir. Görevlendirilen soruşturmacıların hazırladığı ön inceleme raporu, Oda Yönetim Kurulunca değerlendirilerek kovuşturma açılmak üzere Oda Onur Kuruluna gönderilir.

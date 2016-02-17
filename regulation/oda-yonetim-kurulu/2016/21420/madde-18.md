@@ -1,0 +1,3 @@
+Oda kurulları üyeleri serbest yeminli meslek mensubu hakkında soruşturma
+MADDE 18 – (1) Oda kurullarının başkan ve üyeleri içinde serbest yeminli meslek mensubu bulunması ve bu üye hakkında bu görevler ile ilgili olarak, Oda Genel Kurulunun disiplin soruşturmasına karar vermesi halinde; Odanın Onur Kurulu, Kanun ve bu Yönetmelik hükümlerine göre gerekli inceleme ve araştırmaları yaparak kararını verir. Soruşturma süresince kurul üyeliği askıya alınır. Bu görev sıradaki yedek üye tarafından yürütülür.
+(2) Serbest yeminli meslek mensubunun Oda Onur Kurulu üyesi olması ve bu üye hakkında soruşturma yapılması halinde ise, onun yerine ilk yedek üye soruşturmalara katılmak üzere çağrılır.

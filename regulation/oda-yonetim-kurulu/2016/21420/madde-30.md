@@ -1,0 +1,6 @@
+Oda Onur Kurulu kararlarına itiraz
+MADDE 30 – (1) Oda Onur Kurulunun verdiği uyarma ve kınama kararları kesin olup, geçici olarak mesleki faaliyetten alıkoyma, yeminli sıfatını kaldırma ve meslekten çıkarma cezalarına, 30 gün içinde, ilgili meslek mensubunca Yüksek Onur Kuruluna, Oda aracılığıyla veya doğrudan itiraz edilebilir.
+(2) Yüksek Onur Kurulu, itiraza konu olan bu kararları dosya üzerinde inceler. Ancak, Onur Kurulu kararlarının itirazen incelenmesi sırasında ilgili meslek mensubunun isteği halinde veya Yüksek Onur Kurulunun gerek gördüğü takdirde, duruşma yapılmasına karar verilebilir.
+(3) Yüksek Onur Kurulu, inceleme konusu kararın onanmasına veya kararın bozularak kovuşturmanın derinleştirilmesi için dosyanın Oda Onur Kuruluna geri gönderilmesine karar verebilir.
+(4) Oda Onur Kurulu, Yüksek Onur Kurulunun bozma gerekçesine uyarak yeniden karar verebilir yahut bozma kararına uymadan ilk kararında ısrar edebilir. Her iki durumda da Oda Onur Kurulunun verdiği karar Yüksek Onur Kuruluna gönderilir. Yüksek Onur Kurulu nihai kararını vererek, Odaya ve Oda kanalıyla ilgili meslek mensubuna tebliğ eder. Yüksek Onur Kurulunun verdiği kararlar kesindir.
+(5) Yüksek Onur Kurulunun kararına karşı Oda Yönetim Kurulu veya ilgili meslek mensubu idari yargıya başvurabilir.
