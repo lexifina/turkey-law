@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76464994-180[BSMV2015.1]-60",
+  "source_id": 36737,
+  "date": "2016-02-17",
+  "title": "Vergi, Resim ve Harç İstisna Belgesinde belirtilen ihracat taahhüdünü aşan krediye ilişkin BSMV istisnası uygulanıp uygulanmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36737",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b47f5e1ec85f7e418d2f7609b3b9a96c5efdb480863b08133292e8f5c1f58786",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
