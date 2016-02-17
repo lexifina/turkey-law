@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-175.01[13-2015/16]-80",
+  "source_id": 37146,
+  "date": "2016-02-17",
+  "title": "Mahkeme Kararına İstinaden Belediyece Emlak Vergisi Tarhiyatı Yapılıp Yapılamayacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37146",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "674647ecb05e03eb5a8fd5772ef435aa682d51891b717441741bcf555e7d8a18",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
