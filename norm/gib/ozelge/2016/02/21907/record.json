@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.18.10.00-120-6",
+  "source_id": 21907,
+  "date": "2016-02-17",
+  "title": "Manavlık faaliyeti yanında K2 belgesine sahip olunan kamyonetin ticari amaçla kullanılması durumunda basit usulde vergilendirilmeye devam edilip edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21907",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "974a78f851b66410eaf91a1597379b84020d8b03394c3c0526eeed0427551042",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
