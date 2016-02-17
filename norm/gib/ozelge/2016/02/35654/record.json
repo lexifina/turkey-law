@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-140.04.01-13092",
+  "source_id": 35654,
+  "date": "2016-02-17",
+  "title": "6306 sayılı Kanun kapsamında riskli alan olarak belirlenen taşınmazda ikamet etmekte olan ve hak sahipliği tespit edilen kişilere \"Riskli Alan\" içinde inşa edilen gayrimenkullerden takas suretiyle konut tahsis edilmesinde tapu harcı uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35654",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "439245a6169aaede9e5b15c7e2a85621ba5de3eccec1eb2a20dd5ca28b89cafa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
