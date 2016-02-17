@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-120[40.GVK.ÖZ.2015.60]-58",
+  "source_id": 22433,
+  "date": "2016-02-17",
+  "title": "Stajer öğrencilere ödenen cep harçlığının safi kazancın tespitinde indirimi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/22433",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "f8070c78599ba310fa842e62d783b453f8800f20cf057dc52ad7996e1f7105d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
