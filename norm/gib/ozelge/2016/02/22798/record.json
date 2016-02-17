@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[42-2014/554]-13350",
+  "source_id": 22798,
+  "date": "2016-02-17",
+  "title": "Bina Yapımı ve Gayrimenkul Satış Vaadi Sözleşmesinin Gelir Vergisi Kanunu'nun 42'nci maddesi kapsamında değerlendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22798",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "897992f77ca7599af830857c1dd85be975a8048bf3ec2d412b56211d8cb398f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
