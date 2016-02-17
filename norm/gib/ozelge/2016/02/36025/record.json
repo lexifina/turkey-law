@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.33.15.01-155[2015-ÖZG-32]-18",
+  "source_id": 36025,
+  "date": "2016-02-17",
+  "title": "İl Gıda Tarım ve Hayvancılık Müdürlüğü adına kayıtlı su ürünleri kontrol teknesinin Bağlama Kütüğü Uygulama Yönetmeliği uyarınca yıllık vize harçlarından muaf olup olmadığı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36025",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "bfdd175f92f7f459fc9b66afcd944bb44d347d47afa1759ea905dc438e5fd7a0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
