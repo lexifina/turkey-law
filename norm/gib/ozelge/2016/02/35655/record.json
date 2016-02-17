@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-140[57.2015/17]-13096",
+  "source_id": 35655,
+  "date": "2016-02-17",
+  "title": "Boşanma sonucu tesis edilecek intifa hakkı ve kuru mülkiyet işleminden ne şekilde harç aranılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35655",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "919e3aa6cee6e5f3edbfe5784dd71abbc25ff96731c19a000dd8ea12e32884d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
