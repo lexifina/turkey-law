@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-140.04.01-13098",
+  "source_id": 35930,
+  "date": "2016-02-17",
+  "title": "Eski eser şerhi bulunan taşınmazın tapuda yapılacak cins değişikliği işlemlerinde harç istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35930",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "18ea5713a3e52bc137609e04f15081e4681bdf5e1e73ece68dd75811eca88599",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
