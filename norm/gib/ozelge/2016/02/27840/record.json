@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-125[5-2013-9]-88",
+  "source_id": 27840,
+  "date": "2016-02-17",
+  "title": "İstimlak edilen gayrimenkule ödenen bedeller için kurumlar vergisi istisnasından yararlanılıp yararlanılamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27840",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "6018111af541aa23557b723077d09f758adb28388e6793b5018af0ac85f0f588",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
