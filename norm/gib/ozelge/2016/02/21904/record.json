@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[MÜK.80-2014/855]-13348",
+  "source_id": 21904,
+  "date": "2016-02-17",
+  "title": "2008 yılında satın alınan işyerinin kayıtlara alındıktan 5 yıl sonra satışının yapılması halinde gelir vergisi ve KDV den istisna olup olmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21904",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "3cbe505909824b55d341e5dc62e922c694f0c8502732a35caf654019e29ae2f8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
