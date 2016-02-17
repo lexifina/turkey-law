@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-120[65.GVK.ÖZ.2014.81]-59",
+  "source_id": 23584,
+  "date": "2016-02-17",
+  "title": "İş Güvenliği Uzmanlığı ve haşere ilaçlama faaliyetinin vergilendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23584",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "da51315b055cdf01bc72d5bf9fc59c414451e79b36942550f087e17030dae8ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
