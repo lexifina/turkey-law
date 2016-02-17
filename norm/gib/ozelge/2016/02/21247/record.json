@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[37-2014/759]-13116",
+  "source_id": 21247,
+  "date": "2016-02-17",
+  "title": "Özel okullarda öğrenim hizmeti görecek öğrenciler adına eğitim ve öğretim karşılığı olarak Milli Eğitim Bakanlığı tarafından hizmeti veren kuruma verilen teşvik bedeli tutarlarının ödendiğinde ödenen bedellerin faturasının kimin adına düzenleneceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21247",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "ee2dd2e81be0f7b9c59e1d7973a7b11ec39471595ac70a8d5805bfb136de5af9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
