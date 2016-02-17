@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[6-2015/197]-13202",
+  "source_id": 28073,
+  "date": "2016-02-17",
+  "title": "6552 sayılı Kanunun 73üncü maddesine göre yapılandırılarak veya vergi dairesince taksite bağlanarak ödenen MTVnin kurum kazancından indirilip indirilemeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28073",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "a1a1b85c8b52e913a5dd43ca23c12e7ca2fa1797f3c63e4354bd96d45fbc6b72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
