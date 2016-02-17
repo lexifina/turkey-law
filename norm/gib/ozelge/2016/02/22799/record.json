@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-125[30-14/10]-6575",
+  "source_id": 22799,
+  "date": "2016-02-17",
+  "title": "Merkezi yurtdışında bulunan firmaca yapılan ekipman ve malzeme teslimleri ile Türkiye'deki şubece ifa edilen yerli malzeme temini ile kurulum hizmetlerinden tevkifat yapılıp yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22799",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "0365538d103ed168ab4a1f74fe3ec8b21d04aeaa2f9120aa11b6b44814f45c2d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
