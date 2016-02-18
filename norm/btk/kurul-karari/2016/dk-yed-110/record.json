@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2016/DK-YED/110",
+  "date": "2016-02-18",
+  "title": "THK Kapsamındaki Numaraların Taşınabilmesi",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2016-03-30",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=96",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/2167cfba-a997-45fa-b9fe-02f4ee27ab1e.pdf",
+  "source_sha256": "0e0fd358f8c60af260eea4c21a5ff2d089910520a7f68952d69e7438338bff07",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2016-02-18",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 18.02.2016; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
