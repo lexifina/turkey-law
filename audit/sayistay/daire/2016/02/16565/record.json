@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "308",
+  "decision_date": "2016-02-18",
+  "source_id": 16565,
+  "chamber": "6",
+  "ilam_number": "140",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16565/",
+  "source_sha256": "8f6dae7edab24f965221e1882bbfd821e5bb0f02aff6bdd336739a14037a9665",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
