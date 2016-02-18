@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-130[1-2014/20-1182]-40",
+  "source_id": 29150,
+  "date": "2016-02-18",
+  "title": "Belediyeden mahkeme kararı ile tahsil edilen ilam ve icra vekalet ücretinin Yargıtay bozma kararı üzerine bir kısmının belediyeye iade edilmesinin KDV karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29150",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "b10b342bba7b614a0364a3d26d196d465145af437b2c5c1def256b9fb9eacbe8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
