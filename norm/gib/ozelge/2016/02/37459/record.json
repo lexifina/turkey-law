@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[6-2015/206]-13427",
+  "source_id": 37459,
+  "date": "2016-02-18",
+  "title": "Serbest bölgede üretilen yazılım programının elektronik transfer yöntemi ile ihraç edilmesi durumunda ücret istisnasından yararlanılıp yararlanılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37459",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "aa03c2745961f1fe2a49cdc23a4cd0e398a10a88856780cf8c313559ebe59691",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
