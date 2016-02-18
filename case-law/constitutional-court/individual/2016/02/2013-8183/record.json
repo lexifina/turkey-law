@@ -1,0 +1,20 @@
+{
+  "applicant": "K.M. VE M.M.",
+  "application_date": "2013-11-04",
+  "application_number": "2013/8183",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2016-02-18",
+  "id": "492b4d4c-6581-48c2-649f-86254306d040",
+  "in_force": "2016-02-18",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjQ5MmI0ZDRjLTY1ODEtNDhjMi02NDlmLTg2MjU0MzA2ZDA0MA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "bb152eb5d25838c79240f459046c948cee34baf21abc3b14e0e9a657a954a6a0",
+  "version_label": "as-enacted"
+}
