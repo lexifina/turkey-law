@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[8-2014/437]-13733",
+  "source_id": 22570,
+  "date": "2016-02-18",
+  "title": "Makbuz Karşılığı KKTC Sağlık Bakanlığına Yapılacak Ödemenin Şirketin Kurum Kazancının Tespitinde Gider Olarak Dikkate Alınıp Alınmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22570",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "86399462c7137199a602a8e78f4077dd69e8eda7e3df65d95d41220e2dfc7725",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
