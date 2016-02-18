@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-155[9-2014/20-362]]-38",
+  "source_id": 34568,
+  "date": "2016-02-18",
+  "title": "Teknoloji Geliştirme Bölgesinde faaliyette bulunan yönetici şirketin damga vergisi ve harç muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34568",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "ae394d8983a946ff29d12eb9ff9ea01f422030c0f672f9140ca42bc4946c5db1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
