@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.55.15.01-160[17-2015/ÖZE-12]-26",
+  "source_id": 36409,
+  "date": "2016-02-19",
+  "title": "Mahkeme kararı ile ipotek terkininde veraset ve intikal vergisi ilişiğinin kesilmesi hakkında.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36409",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "88c84e71eed6312813bfb6a58fc35e1a76699ba5bc31ece337e1002962936f5d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
