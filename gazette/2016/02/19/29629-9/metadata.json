@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-02-19",
+  "issue": "29629",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Genel Bütçe Kapsamındaki Kamu İdarelerinin Ödeme ve Tahsilat İşlemlerinin Elektronik Ortamda Gerçekleştirilmesine İlişkin Usul ve Esaslarda Değişiklik Yapılmasına Dair Usul ve Esaslar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160219-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160219.htm",
+  "index_sha256": "d7bf518b51a57eb5aef6d22620a5f326195d1e51420dc247d39c02f4b9283352",
+  "index_header": "19 Şubat 2016 ... 29629 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160219.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
