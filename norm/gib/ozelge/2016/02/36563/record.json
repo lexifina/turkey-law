@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.17.02-105[ÖKC.ÖZLG-2015-3]-34",
+  "source_id": 36563,
+  "date": "2016-02-19",
+  "title": "Kahvehanelerin ihtiyari olarak aldıkları ödeme kaydedici cihazları hurdaya ayırıp adisyon tipi perakende satış fişi kullanıp kullanamayacakları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/36563",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "7a6e6a27c81dfc6c32191e37bdc9f327360bf3c64b3f509d6f10264e494db04a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
