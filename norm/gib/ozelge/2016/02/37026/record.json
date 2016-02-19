@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-175.01.01.02[2015/112]-7063",
+  "source_id": 37026,
+  "date": "2016-02-19",
+  "title": "Turizm İşletme Belgesine istinaden geçici emlak vergisi muafiyeti uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37026",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "4f75ada5d5687c4fb222b2a0a5361d5bc4bf4c0e4860cccac587d706f884f212",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
