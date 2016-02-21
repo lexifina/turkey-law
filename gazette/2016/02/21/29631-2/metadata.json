@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-02-21",
+  "issue": "29631",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Emniyet Genel Müdürlüğü Adına Polis Akademisi Başkanlığına Bağlı Eğitim Kurumları ile Diğer Fakülte ve Yüksekokullarda Okuyan Öğrencilerden Alınacak Tazminata Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160221-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160221.htm",
+  "index_sha256": "1e34e89500df6d3d2af02d1f1897f66a4e1ea7865dcd77cd50c830d724489d77",
+  "index_header": "21 Şubat 2016 ... 29631 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160221.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
