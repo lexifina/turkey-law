@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130-14564",
+  "source_id": 30058,
+  "date": "2016-02-22",
+  "title": "Festival organizasyonu firmanın sponsor aracılığı ile çekiliş ile vermiş olduğu araba ve ev için ödenen KDV'nin indirimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30058",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "de2d8a9f64ba9254d397cc5e8dcfadb3a7b38d4f4ce2163031c7367fdc8327cd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
