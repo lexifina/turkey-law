@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10534",
+  "decision_date": "2016-02-23",
+  "source_id": 16481,
+  "chamber": "1",
+  "ilam_number": "195",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16481/",
+  "source_sha256": "16d0672786f1af45776774813f82b12a8d3414143ed4865c33c24e2e55f5b339",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
