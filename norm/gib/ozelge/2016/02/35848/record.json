@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.26.15.01-140[57-2014/ 18]-13368",
+  "source_id": 35848,
+  "date": "2016-02-23",
+  "title": "6306 Sayılı Kanuna Göre, Riskli Yapı Şerhi Bulunan Taşınmazların Harç Muafiyeti Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/35848",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "6ef9af32afb53ca48a4992d2a5b81a598e8bedef9c78325335297b7d72a9635e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
