@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "80",
+  "decision_date": "2016-02-23",
+  "source_id": 17146,
+  "chamber": "7",
+  "ilam_number": "170",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17146/",
+  "source_sha256": "bb196ecf8ae6c577fbd18aecfabc8ac6feb7df637c791f22a92d23e7c6b96897",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
