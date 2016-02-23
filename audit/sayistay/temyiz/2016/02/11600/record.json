@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41489",
+  "decision_date": "2016-02-23",
+  "source_id": 11600,
+  "chamber": "3",
+  "file_number": "40169",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2008",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11600/",
+  "source_sha256": "368541fb49d9e65b6829370c496d8dceb98be8c9ed3e68975e9b537f7d1ae507",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
