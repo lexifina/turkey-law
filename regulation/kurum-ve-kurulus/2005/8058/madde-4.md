@@ -1,0 +1,28 @@
+Tanımlar
+Madde 4 — Bu Yönetmelikte geçen;
+a) (Değişik:RG-23/2/2016-29633) Bakanlık: Gümrük ve Ticaret Bakanlığı,
+b) (Değişik:RG-23/2/2016-29633) Bölge Müdürlüğü: Gümrük ve Ticaret Bölge Müdürlüğü,
+c) Sözleşme: 2/12/1993 tarihli ve 3930 sayılı Kanunla onaylanması uygun bulunan "1972 Konteynerlerle İlgili Gümrük Sözleşmesi" ve 31/03/2004 tarihli ve 5108 sayılı Kanunla onaylanması uygun bulunan "Geçici İthalat Sözleşmesi" ile bu sözleşmenin eki EK B3,
+d) İthalat vergileri: Eşyanın ithalatıyla ilgili olarak alınması gereken gümrük vergileri ve gümrük vergisine eş etkili bütün mali yükler,
+e) Geçici ithalat rejimi: Serbest dolaşıma girmemiş eşyanın ithalat vergilerinden tamamen ya da kısmen muaf olarak ve ticaret politikası önlemlerine tabi tutulmaksızın, Türkiye Gümrük Bölgesi içinde kullanılması ve bu kullanım sırasındaki olağan yıpranma dışında, herhangi bir değişikliğe uğramaksızın yeniden ihracına olanak sağlayan hükümlerin uygulandığı rejim,
+f) Konteyner: 1972 Konteynerlerle İlgili Gümrük Sözleşmesinin 4 No.lu Ekinde yer alan teknik şartlara uygun olarak imal edilmiş, yine bu Sözleşmenin 5 No.lu Ekinde gösterilen yöntemlerden birine göre onaylanmış, iç hacmi en az bir metreküp olan ve taşıma işlerinde kullanılan büyük sandık, müteharrik sarnıç veya benzerleri ile,
+1) İçerisine eşya koymak için kompartıman oluşturacak şekilde tamamen veya kısmen kapatılmış,
+2) Sürekli kullanım özelliğine sahip ve buna uygun olarak defalarca kullanılacak kadar sağlam,
+3) Taşıma türü veya vasıta değişmesini gerektiren hallerde içindeki eşyanın boşaltılıp yüklenmesine yol açmayacak şekilde özel olarak imal edilmiş,
+4) Özellikle bir taşımacılık türünden diğerine transfer hallerinde, pratik kullanım özelliğine sahip biçimde yapılmış,
+5) Kolayca doldurulup boşaltılabilecek şekilde imal edilmiş bir taşıma aracı,
+(Üzerinde taşınması koşulu ile tipine uygun çıkarılıp takılabilen özellikte olan aksam, parça ve teçhizat, konteyner kapsamında işlem görür. Taşıma araçları, bunların aksamı, yedek parçaları, ambalajlar ile paletler konteyner tanımı içinde değerlendirilemez.)
+g) Kısmen kapalı konteyner: Kapalı konteynere benzer bir taban ve üst çatıdan oluşan ve yükleme yeri vazifesi gören tertibatla ilgili olan, üst çatısı genel olarak bir konteynerin çerçevesini oluşturan metal unsurlardan yapılmış, aynı zamanda bir ya da daha fazla yan ve ön duvarlar içeren, bazı durumlarda, sadece tabana direklerle bağlı bir tavandan oluşan ve özellikle havaleli eşyanın (örneğin; motorlu taşıtlar) taşınmasında kullanılan konteyner,
+h) Aksam, parça ve teçhizat: Çıkarılabilir olmalarına rağmen özellikle aşağıdakileri kapsayan,
+1) Konteynerin içindeki ısıyı kontrol ve muhafaza eden veya değiştiren aletler,
+2) Çevre şartlarındaki değişmeleri ve çarpmaları kaydedecek veya gösterecek şekilde yapılmış ısı veya çarpma kaydedici küçük aletler,
+3) Konteyner içindeki bölmeler, paletler, raflar, destekler, çengeller ve eşyayı istiflemede kullanılan benzer aletler,
+ı) Dahili taşıma: Tekrar ihraç edilmeden önce ülke sınırları içinde bir mahalde yüklenilen ve yine ülke sınırları içinde boşaltılan eşyanın taşınması,
+j) Kişi: Gerçek veya tüzel kişiler ile hukuken tüzel kişilik statüsüne sahip olmamakla birlikte yürürlükteki mevzuat uyarınca hukuki tasarruflar yapma yetkisi tanınan kişiler ortaklığı,
+k) Konteyner işletmecisi: Sahibi olsun veya olmasın ülke sınırları içinde konteynerin kullanımı üzerinde her türlü tasarruf hakkı bulunan ve gümrük idarelerine karşı yükümlü olan kişiler,
+l) Yükümlü: Gümrük yükümlülüklerini yerine getirmekle sorumlu bütün kişiler,
+m) (Değişik:RG-23/2/2016-29633) Giriş Konteyner Kayıt ve Takip Formu: Geçici olarak girecek konteynerlerin hareketinin takibi amacıyla sahipleri, işletmecisi veya bunların temsilcileri tarafından bu Yönetmeliğin EK-1’inde yer alan örneğe uygun olarak veri işleme tekniği yoluyla veya yazılı olarak verilen belge,
+n) (Değişik:RG-23/2/2016-29633) Çıkış Konteyner Kayıt ve Takip Formu: Geçici olarak çıkacak konteynerler için sahipleri, işletmecisi veya bunların temsilcileri tarafından bu Yönetmeliğin EK-2’sinde yer alan örneğe uygun olarak veri işleme tekniği yoluyla veya yazılı olarak verilen belge,
+o) (Değişik:RG-23/2/2016-29633) Sistem: Giriş konteyner kayıt ve takip formu ile çıkış konteyner kayıt ve takip formunun veri işleme tekniği yoluyla verildiği ve söz konusu formlara ilişkin işlemlerin elektronik olarak gerçekleştirildiği sistem,
+ö) (Ek:RG-23/2/2016-29633) Veri işleme tekniği: 5070 sayılı Elektronik İmza Kanununa uygun olarak elektronik imza içeren elektronik veri değişimi standart mesajlarının gümrük idareleri ile değişimini ve/veya gümrük işlemlerinin tamamlanması için gerekli bilgilerin gümrük idaresinin bilgisayar sistemine girilmesi,
+anlamına gelir.
