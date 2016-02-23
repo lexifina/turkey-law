@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.01-120[ÖZG-15-54]-39",
+  "source_id": 20914,
+  "date": "2016-02-23",
+  "title": "Çinicilik ile yüzük kolye ve benzeri süs eşyaları üstüne çini taşının işlenmesi faaliyetinin esnaf muaflığı kapsamında olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20914",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "08270a519dacc6bf1773332c0126998b89212dcc09f5e668e530fb6c0ecf831a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
