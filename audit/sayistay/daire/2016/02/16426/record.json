@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "311",
+  "decision_date": "2016-02-23",
+  "source_id": 16426,
+  "chamber": "6",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16426/",
+  "source_sha256": "80b43845f84904e2899df851d1a5bd24e0c3a18625907cc765d3c4c2d79fc359",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
