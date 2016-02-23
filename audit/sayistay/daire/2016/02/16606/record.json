@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10529",
+  "decision_date": "2016-02-23",
+  "source_id": 16606,
+  "chamber": "1",
+  "ilam_number": "120",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16606/",
+  "source_sha256": "14f879ba6d88a1a3506ed52a2c9a4591d2b965be518be03c0670fb27429cf2b0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
