@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2016/12",
+  "meeting_date": "2016-02-24",
+  "meeting_date_as_published": "24.2.2016",
+  "decision_no": "20",
+  "source_id": 8144,
+  "title": "RTÜK kararı 2016/12-20",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/8144",
+  "source_sha256": "073970582778e6094d67c3f34fd3e9b4a791c359d8e1a8e1fe84c13ba6fe8505",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (13 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
