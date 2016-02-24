@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.18.02-105[3100-2015-253]-7670",
+  "source_id": 27342,
+  "date": "2016-02-24",
+  "title": "Kurumlar vergisinden muaf olan özel bütçeli kamu kurumunun ÖKC kullanıp kullanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27342",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7f2bac3f1bae12596852b5b48aae8d28b4cf9f3d157e7b4d7e0377c4ea69425b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
