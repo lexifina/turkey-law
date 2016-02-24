@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-135[12/4-2015]-3522",
+  "source_id": 38104,
+  "date": "2016-02-24",
+  "title": "ÖTV Kanununa ekli (II) sayılı listede yer alan araçların tesliminde matrah.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38104",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "1099311f81bd19dd7d403ace6b3b90d1d68981a08dee2d04332b23f4d211e3cf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
