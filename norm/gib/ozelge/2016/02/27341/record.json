@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[94-2014/450]-15441",
+  "source_id": 27341,
+  "date": "2016-02-24",
+  "title": "Vakfa ait gayrimenkullerin kiraya verilmesi dolayısıyla kurumlar vergisi mükellefiyeti oluşup oluşmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27341",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "97530357efbbae7921bef6356127c6038885a33db9f7078d0a1c184e4ea0ce97",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
