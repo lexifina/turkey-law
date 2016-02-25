@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-135-15678",
+  "source_id": 33984,
+  "date": "2016-02-25",
+  "title": "Fabrika çıkışı gaz - fren tertibatlı aracın engelli tarafından ilk iktisabında ÖTV istisna uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33984",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "a19dcf913c9c159f3906e1b2047e02c74e9ce7dced4c7d9ddc3999348445663e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
