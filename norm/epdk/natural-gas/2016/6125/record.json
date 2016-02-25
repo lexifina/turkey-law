@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6125",
+  "decision_date": "2016-02-25",
+  "title": "2016 yılı ulusal doğal gaz tüketim tahmini",
+  "resmi_gazete_date": "2016-02-27",
+  "resmi_gazete_number": "29637",
+  "categories": [
+    "Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+pb6i8K6fek=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+pb6i8K6fek="
+  ],
+  "source_sha256": "781c601b82046acad9a369c418a3694ae073b4a045c594c547dd9f006133fe28",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7233,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-02-25",
+  "law_text_complete": true
+}
