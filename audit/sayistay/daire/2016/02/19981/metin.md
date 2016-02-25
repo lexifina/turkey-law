@@ -1,0 +1,11 @@
+Harcırah Ödemesi.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; eğitim, seminer vb. etkinlikler için görevlendirilen memurların konaklama bedellerine “her şey dahil” olmasına rağmen söz konusu memurlara ayrıca yevmiye ödendiği, iddia edilmiş ise de;
+
+6245 sayılı Harcırah Kanunu’nun 5’inci maddesinde yevmiyenin harcırahın unsurları arasında sayılması, 14’üncü maddesinde de muvakkat vazife ile görevlendirilenlere yevmiye ödeneceğinin belirtilmiş olması, yevmiyenin tanımının yapılmaması ve içeriğinin açıkça belirtilmemesi, genel olarak yevmiyenin konaklama ve yemek bedelini kapsadığı kabul edilmekle birlikte Kanun’un 41’inci maddesinin 11.12.1981 tarih ve 2562 sayılı Yasanın 28’inci maddesi ile, 37’nci maddesinin 2’nci fıkrasının ise 14.01.1988 tarih ve 311 sayılı KHK’nin 15’inci maddesi ile ilgası sonucu yevmiyenin konaklama ve yemek bedeli karşılığı olmaktan çıkması, yevmiyenin memuriyet mahalli dışına çıkma karşılığı verilen bir tazminat haline dönüşmesi, ayrıca Harcırah Kanununda, geçici görevlendirmelerde yemek ve konaklama gibi ihtiyaçların karşılanması durumunda yevmiyeden indirim yapılacağına veya yevmiye ödenmeyeceğine dair herhangi bir düzenlemeye yer verilmemesi nedenleriyle mevzuatına uygun olduğu anlaşılan …..-TL ile ilgili olarak ilişilecek husus bulunmadığına,
+
+(Üye ….. ve Üye …..’nın “6245 sayılı Harcırah Kanunu’nun Memuriyet mahalli dışına gönderilenlerin gündeliği başlıklı 39’uncu maddesinde yer alan “(Değişik: 11/12/1981 - 2562/16 md.) Resmi bir görevle memuriyet mahalli içinde bir yere gönderilenlere gündelik verilmez. Geçici bir görevle memuriyet mahalli dışındaki bir yere gönderilenlerden, buralarda ve yolda öğle (saat 13.00) ve akşam (saat 19.00) yemeği zamanlarından birini geçirenlere 1/3, ikisini geçirenlere 2/3 oranında ve geceyi de geçirenlere tam gündelik verilir.” hükmüne göre yevmiyenin iaşe ve ibate giderlerinin karşılanması amacıyla verildiği görülmektedir.
+
+Dolayısı ile eğitim, seminer vb. etkinlikler için görevlendirilen memurların söz konusu programlara katılım bedellerine “her şey dahil” olmasına rağmen programa katılan söz konusu memurlara ayrıca yevmiye ödenemez. Bu nedenle …..-TL tutarındaki kamu zararının sorumlularına ödettirilmesi uygun olur.” şeklindeki ayrışık görüşlerine karşı)
+
+Oy çokluğuyla,
