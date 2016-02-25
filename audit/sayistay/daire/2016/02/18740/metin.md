@@ -1,0 +1,5 @@
+İşyerinde bulundurulmayan teknik personel için ceza kesilmemesi
+
+….. Şti. yüklenimindeki ….. Yapım işinde ihale dokümanına göre işyerinde bulundurulması gereken teknik personellerin işyerinde bulundurulmaması nedeniyle kesilmesi gereken cezasının kesilmediği görülmüştür.
+
+İşe ait Sözleşmenin 23’üncü maddesinde yer alan; “Yüklenici işyerinde, bir şantiye şefi (inşaat mühendisi), iki mühendis (inşaat mühendisi), iki tekniker (inşaat teknikeri), iki topograf ve bir laborantı iş programına göre iş başında bulundurmak zorundadır. Yüklenicinin bu zorunluluğa uymaması halinde, mühendis için 300,00-TL, tekniker için 200,00-TL, topoğraf için 300,00-TL ve laborant için 200,00-TL günlük ceza kesilir.” hükmüne göre yüklenicinin işyerinde bulundurmadığı teknik personeller için kesilmesi gereken cezanın yükleniciden tahsil edilmemesi sonucu …..-TL tutarında kamu zararına neden olunmuş ise de; bu kamu zararı ….. tarih ve ….. no.lu Ödeme Emri Belgesi ile mahsuben tahsil edildiğinden ilişilecek husus kalmadığına oy birliğiyle,
