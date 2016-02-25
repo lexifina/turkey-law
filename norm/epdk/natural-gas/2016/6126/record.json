@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6126",
+  "decision_date": "2016-02-25",
+  "title": "Samsun Doğal Gaz Dağıtım A.Ş.’nin 2012-2016 tarife döneminde uygulayacak olduğu perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2016-02-27",
+  "resmi_gazete_number": "29637",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=x0kzWW9Ifk8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=x0kzWW9Ifk8="
+  ],
+  "source_sha256": "0f054fd720b9bca639ef28128e090435bd4077ed090a8909fbc952e31be5a0e6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2016-02-25",
+  "law_text_complete": false
+}
