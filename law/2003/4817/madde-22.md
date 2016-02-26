@@ -1,0 +1,3 @@
+Yönetmelik
+Madde 22- Her türlü çalışma izninin verilmesi, sınırlandırılması, iptali, çalışma izninden muaf tutulacak yabancılar ile bildirim yükümlülüklerinin nasıl yerine getirileceğine ilişkin usul ve esaslar bu Kanuna göre çıkarılacak yönetmelikle düzenlenir.
+Bu Kanunun uygulanmasına ilişkin yönetmelik; Bakanlık, İçişleri Bakanlığı, Dışişleri Bakanlığı, Maliye Bakanlığı, Bayındırlık ve İskân Bakanlığı, Sağlık Bakanlığı, Turizm Bakanlığı, Devlet Planlama Teşkilatı Müsteşarlığı, Hazine Müsteşarlığı, Denizcilik Müsteşarlığı ve Dış Ticaret Müsteşarlığı ile müştereken, ilgili görülen diğer bakanlıklar, kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşlarının da görüşleri alınmak suretiyle Kanunun yayımı tarihini izleyen altı ay içinde çıkarılır.

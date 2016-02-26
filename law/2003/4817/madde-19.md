@@ -1,0 +1,2 @@
+Bakanlığa bilgi verilmesi
+Madde 19- Yabancılara çalışma izni verme yetkisi bulunan bakanlıklar ile kamu kurum ve kuruluşları, çalışma iznini verdikleri, çalışma izin süresini uzattıkları ve çalışma iznini iptal ettikleri tarihten, yabancı istihdam eden bakanlıklar ile kamu kurum ve kuruluşları ise çalıştırmaya başladıkları tarihten itibaren en geç otuz gün içinde yabancı ile ilgili tüm bilgileri Bakanlığa bildirirler.

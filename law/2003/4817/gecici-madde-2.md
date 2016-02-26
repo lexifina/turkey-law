@@ -1,0 +1,1 @@
+Geçici Madde 2- Bu Kanunun yürürlüğe girdiği tarihten önce kamu kurum ve kuruluşlarının çalışma izni verdiği veya istihdam ettiği yabancılara ait bilgiler izni veren mercilerce, Kanunun yürürlüğe girmesinden itibaren doksan gün içinde Bakanlığa bildirilir.

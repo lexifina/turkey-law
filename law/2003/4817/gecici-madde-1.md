@@ -1,0 +1,1 @@
+Geçici Madde 1- Bağımlı veya bağımsız olarak çalışan yabancılara, bu Kanunun yürürlüğe girdiği tarihten önceki mevzuat hükümlerine göre verilmiş olan çalışma izinleri, bu Kanun uyarınca Bakanlıkça iptal edilmediği veya hükmünü kaybetmediği müddetçe sürelerinin sonuna kadar geçerlidir.

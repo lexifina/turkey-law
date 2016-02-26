@@ -1,0 +1,1 @@
+Geçici Madde 3- Bu Kanunun yürürlüğe girdiği tarihten önce çalışma izni başvurusu yapılan ve işlemleri devam eden yabancıların çalışma izinlerini, Kanunun yürürlüğe girdiği tarihten önceki yetkili kamu kurum ve kuruluşları verirler ve çalışma izninin veriliş tarihinden itibaren otuz gün içinde gerekli bilgileri Bakanlığa iletirler.

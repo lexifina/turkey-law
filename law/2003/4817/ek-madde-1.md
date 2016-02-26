@@ -1,0 +1,2 @@
+Ek Madde 1- (Ek: 16/2/2016-6676/20 md.)
+28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanun kapsamında Ar-Ge merkezi ve tasarım merkezi olan firmalarda ve 26/6/2001 tarihli ve 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu kapsamında kurulan teknoloji geliştirme bölgeleri ve ihtisas teknoloji geliştirme bölgelerinde faaliyet gösteren işletmelerde Ar-Ge, yenilik ve tasarım personeli olarak çalışacak yabancıların çalışma izni başvuruları, Bilim, Sanayi ve Teknoloji Bakanlığının olumlu görüşü üzerine karara bağlanır.

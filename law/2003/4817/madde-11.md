@@ -1,0 +1,2 @@
+Çalışma izninin sınırlandırılması
+Madde 11- Türkiye’nin taraf olduğu ikili veya çok taraflı sözleşmelerle sağlanan haklar saklı kalmak kaydıyla ve karşılıklılık ilkesi çerçevesinde çalışma izinleri, iş piyasasındaki durum ve çalışma hayatındaki gelişmeler, istihdama ilişkin sektörel ve ekonomik konjonktür koşullarının gerekli kıldığı hallerde, belirli bir süre için, tarım, sanayi veya hizmet sektörleri, belirli bir meslek, işkolu veya mülkî ve coğrafi alan itibariyle sınırlandırılabilir.

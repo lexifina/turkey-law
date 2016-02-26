@@ -1,0 +1,5 @@
+Denetleme yetkisi
+Madde 20- (Değişik: 13/2/2011-6111/75 md.)
+Bu Kanun kapsamına giren yabancıların ve işverenlerin bu Kanundan doğan yükümlülüklerini yerine getirip getirmedikleri Bakanlık iş müfettişleri ve Sosyal Güvenlik Kurumu müfettişleri tarafından denetlenir. Bu Kanun gereğince yapılacak teftiş, denetim ve soruşturmalar 22/5/2003 tarihli ve 4857 sayılı İş Kanununda yer alan teftiş, denetim ve soruşturma hükümlerine göre yapılır ve bu hükümlere göre ilgili yaptırımlar uygulanır.
+Genel ve özel bütçeli idarelerin teftiş ve denetim elemanları ile kolluk kuvvetlerinin kendi mevzuatları gereğince işyerlerinde yapacakları her türlü denetim, inceleme ve kontrol sırasında yabancı çalıştıran işverenler ile yabancıların bu Kanundan doğan yükümlülükleri yerine getirmediklerini tespit etmeleri halinde, durum Bakanlığa bildirilir.
+Birinci fıkraya göre yapılan denetimler ve ikinci fıkraya göre yapılan bildirimler üzerine Bakanlık bölge müdürünce, gönderilen tutanaklara ve denetim raporlarına göre bu Kanunda yer alan idari yaptırımlar uygulanır.
