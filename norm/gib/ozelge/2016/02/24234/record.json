@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.02-130[I-15-143]-42",
+  "source_id": 24234,
+  "date": "2016-02-26",
+  "title": "Adi ortaklığın tüm aktif ve pasifiyle yeni kurulacak sermaye şirketine devredilmesinin gelir vergisi ve katma değer vergisi karşısındaki durumu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24234",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "d33ffb9f2985b0aee7c5bd910992b05aca6c126a80e19ec386734eca9c0146ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
