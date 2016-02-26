@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-105[MÜK.257-2015/VUK1-19211]-16025",
+  "source_id": 26074,
+  "date": "2016-02-26",
+  "title": "Yeni nesil ödeme kaydedici cihaz kullanmak suretiyle yapılan satışın belgelendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26074",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "ad5e0c72783d5aacffcb867a6fa57c780890573cf295e5907547a0db074e1501",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
