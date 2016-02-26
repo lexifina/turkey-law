@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[5-2015/98]-16298",
+  "source_id": 27837,
+  "date": "2016-02-26",
+  "title": "Yurt dışında alt yüklenici olarak yapılan asma germe membran işinden elde edilen kazancın kurumlar vergisi istisnasından yararlanıp yararlanamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27837",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "c5bc0ed7069e4d925eb09e0c0e82faed5af0dcff44fd54447a7bb59050902a6c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
