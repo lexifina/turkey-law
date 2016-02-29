@@ -1,0 +1,29 @@
+{
+  "number": "20",
+  "number_as_published": "MEC-2016-2-",
+  "year": 2016,
+  "month": 2,
+  "title": "MEC-2016-2- 20 - A. Pazarcı Mah. Atatürk ve Fevzi Paşa Cad. düzenlenmesi ve işyeri tabela Yön., tip detay projeye uyulması ve dış cephe boyasının yenilenmesi konusunun görüşülmesi",
+  "decision_date": null,
+  "index_date": "2016-02-29",
+  "date_precision": "month",
+  "period": "Şubat 2016",
+  "source": "https://www.manavgat.bel.tr/meclis-kararlari/2016-yili-meclis-kararlari",
+  "official_page": "https://www.manavgat.bel.tr/meclis-kararlari/2016-yili-meclis-kararlari",
+  "official_document": "https://d10fbf87uv1xiy.cloudfront.net/655/kicerik/38184/273876.pdf",
+  "source_sha256": "596cad1a3ff3d63c036c215e874427046d53075fa0a0d1eb1d67bc58904a8d27",
+  "issuer": "Manavgat Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2016-02-29",
+  "in_force_basis": "The official listing gives only the month of this decision (Şubat 2016); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "2016 Yılı Meclis Kararları",
+  "record_scope": "one council decision (official code MEC-year-month-number)"
+}
