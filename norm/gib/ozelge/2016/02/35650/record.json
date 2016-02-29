@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.17.10.00-140[59-2015/3]-4",
+  "source_id": 35650,
+  "date": "2016-02-29",
+  "title": "Tarım Kredi Kooperatifinden 2462 sayılı Belediye Gelirleri Kanunu gereğince yapı kullanma izin harcı ve 492 sayılı Harçlar Kanunu gereğince cins tashih harcı alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35650",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "1a36337aa8b3888d38ee9610636be7acf2d8e092584fcda6b7ee4558f11e1170",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
