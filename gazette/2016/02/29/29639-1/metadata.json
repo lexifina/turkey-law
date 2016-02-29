@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-02-29",
+  "issue": "29639",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Evrensel Posta Hizmetleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160229-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160229.htm",
+  "index_sha256": "6ae9ef9b2a414336ccbca7da34b377548ed865ce0d834f88cb2e285b80816605",
+  "index_header": "29 Şubat 2016 ... 29639 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/02/20160229.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
