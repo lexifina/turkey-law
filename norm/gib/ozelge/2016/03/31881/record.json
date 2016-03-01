@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.78.10.00-KV-5",
+  "source_id": 31881,
+  "date": "2016-03-01",
+  "title": "Yapılan bağışların gelir kaydedildiği ve bu gelirlerin nasıl kaydedileceği fatura düzenlenip düzenlenmeyeceği ve bağışların kdv ye tabi olup olmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/31881",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "62172be44ff5bab05d391434705000f8f9cda947d7327f1ca27e81bee74005b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
