@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41579",
+  "decision_date": "2016-03-01",
+  "source_id": 11482,
+  "chamber": "6",
+  "file_number": "38706",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2011",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11482/",
+  "source_sha256": "a8af5ae75349c0e449d41f2d4c46a886c423711cd11b571da852ca4bc80ef7a1",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
