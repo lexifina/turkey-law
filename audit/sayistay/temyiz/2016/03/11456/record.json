@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41558",
+  "decision_date": "2016-03-01",
+  "source_id": 11456,
+  "chamber": "6",
+  "file_number": "38721",
+  "account_year": "2011",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11456/",
+  "source_sha256": "0eb9b7fd70fa69dcf80f4d98f2279fdf3835f7221085bab2a592732ad0ddfdd8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
