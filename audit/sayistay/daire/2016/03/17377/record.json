@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10537",
+  "decision_date": "2016-03-03",
+  "source_id": 17377,
+  "chamber": "1",
+  "ilam_number": "157",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17377/",
+  "source_sha256": "ecf2d2aae68704892d46654c4d97c8f0cb5d4658aea0e2e3f6c4b6847a992049",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
