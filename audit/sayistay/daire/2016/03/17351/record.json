@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "131",
+  "decision_date": "2016-03-03",
+  "source_id": 17351,
+  "chamber": "4",
+  "ilam_number": "134",
+  "item_number": 8,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17351/",
+  "source_sha256": "fd5ea76e510bf2c15be0ef0950467b43c0097cd9e67a8f601cab5b008e945467",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
