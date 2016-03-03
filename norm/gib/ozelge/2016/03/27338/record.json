@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.05.10.00-120[4-2014/7]-4",
+  "source_id": 27338,
+  "date": "2016-03-03",
+  "title": "Köy tüzel kişiliğince ekmek imalatı yapılması halinde kurumlar vergisi mükellefiyeti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27338",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "fd6e644f5775342eb9fbf06ab7227c466d4c87393d9fd22bd2c6f9e537628287",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
