@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "131",
+  "decision_date": "2016-03-03",
+  "source_id": 17346,
+  "chamber": "4",
+  "ilam_number": "134",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17346/",
+  "source_sha256": "f7b12b5c5231a793a1174f70a0d7fa112d65a6c82f8650d878f848ed3b4949af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
