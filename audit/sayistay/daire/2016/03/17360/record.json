@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "131",
+  "decision_date": "2016-03-03",
+  "source_id": 17360,
+  "chamber": "4",
+  "ilam_number": "134",
+  "item_number": 17,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17360/",
+  "source_sha256": "b74f7aab78be0650568aeb36186d3721b51f0d9bad00ef20bab6307a439d424c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
