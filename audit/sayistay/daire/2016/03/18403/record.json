@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "158",
+  "decision_date": "2016-03-03",
+  "source_id": 18403,
+  "chamber": "5",
+  "ilam_number": "203",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18403/",
+  "source_sha256": "849dc1439eeeeaa54f9621876ebb890ae022c38ee7fcb0bc675a982c7520bd90",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
