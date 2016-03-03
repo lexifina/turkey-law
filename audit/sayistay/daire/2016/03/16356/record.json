@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10536",
+  "decision_date": "2016-03-03",
+  "source_id": 16356,
+  "chamber": "1",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2010,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16356/",
+  "source_sha256": "b193968c14e414e8739bc133ef2dd8155639507a569bb3356a97a9ef8257d65b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
