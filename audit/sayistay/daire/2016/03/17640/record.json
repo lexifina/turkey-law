@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "84",
+  "decision_date": "2016-03-03",
+  "source_id": 17640,
+  "chamber": "7",
+  "ilam_number": "200",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17640/",
+  "source_sha256": "c959989bfe0d5f34de7afc1bed47dbe5d27551136bc07b1844482390c2d4afc1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
