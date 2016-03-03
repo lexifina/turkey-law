@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "131",
+  "decision_date": "2016-03-03",
+  "source_id": 17361,
+  "chamber": "4",
+  "ilam_number": "134",
+  "item_number": 18,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17361/",
+  "source_sha256": "dc7a5b3e4f1154af44db6fa882f2886e8459c0a49b43cc7afe5f0367ffd44c7b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
