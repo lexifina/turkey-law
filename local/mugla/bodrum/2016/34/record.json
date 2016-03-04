@@ -1,0 +1,24 @@
+{
+  "number": "34",
+  "number_as_published": "2016-34",
+  "year": 2016,
+  "title": "Mülkiyeti Belediyemize ait, İlçemiz Konacık Mahallesi, tapunun N18c-18c-2c pafta 108 ada 4 parsel numarasında kayıtlı, 5.152,99 m² yüzölçümlü taşınmazın, hissemize karşılık gelen 3.264,09 m² lik kısmının, 2886 sayılı Devlet İhale Kanununa göre satışının kabulüne",
+  "decision_date": "2016-03-04",
+  "source": "https://www.bodrum.bel.tr/meclis_kararlari",
+  "official_document": null,
+  "source_sha256": "36f43b06e3286682d4de72a2f9f74706691b0d695f1c5dc1c19278c417ce11e6",
+  "issuer": "Bodrum Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2016-03-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 4.3.2016; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.bodrum.bel.tr/meclis_karari.php?id=1510",
+  "summary_shortened_in_listing": false,
+  "record_scope": "one council decision (summary as listed)"
+}
