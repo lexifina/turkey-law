@@ -1,0 +1,4 @@
+Kapsam
+MADDE 1 – (1) Yerli üretici tarafından 8517.12.00.00.11 gümrük tarife istatistik pozisyonunda “alıcısı bulunan verici portatif (cellular) telsiz telefon cihazları” tanımı altında sınıflandırılan eşyanın ithalatında korunma önlemi alınması için Ekonomi Bakanlığı İthalat Genel Müdürlüğüne başvuruda bulunulmuştur.
+(2) Bu başvuru sonucunda, 5/12/2014 tarihli ve 29196 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin Tebliğ (Tebliğ No: 2014/10) ile korunma önlemi soruşturması başlatılmıştır.
+(3) Bu Tebliğ, 10/5/2004 tarihli ve 2004/7305 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İthalatta Korunma Önlemleri Hakkında Karar ve 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği çerçevesinde yürütülen söz konusu soruşturmaya ilişkin olarak alınan kararı içermektedir.
