@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.58.10.00-125[2015/8]-1",
+  "source_id": 22317,
+  "date": "2016-03-07",
+  "title": "Avrupa İnsan Hakları Mahkemesi kararı sonucu elde edilen kazancın vergisel boyutu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22317",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "ab0f7878eed7b8413fc585248df953b648c43f8ab48f10b73c2ab65c2a3e5562",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
