@@ -1,0 +1,21 @@
+Hüküm dışı bırakılmasına karar verilen konu hakkında temyiz başvurusunda bulunulması
+
+47 sayılı İlam’ın 1’inci maddesi ile Mali Hizmetler Müdürlüğüne vekalet eden ………… ile Basın Yayın ve Halkla İlişkiler Müdürlüğüne vekalet eden …………'a asaleten atamada aranan şartları taşımadıkları halde, vekalet ettikleri kadroya ilişkin ödemelerin yapılması nedeniyle hüküm tesis edilebilmesi için atamaya yetkili amirin de savunmasının alınmasına gerek duyulduğundan söz konusu savunmanın alınarak, düzenlenecek Ek Raporla Daireye intikali için konunun hüküm dışı bırakılmasına karar verilmiştir.
+
+Dilekçe sahibi dilekçesinde özetle; İlam konusu ilgililerin bu görevi 28.06.2011 tarih ve 2504 sayılı Valilik Makamının onayı ile yürüttüklerini, 666 sayılı Kanun Hükmünde Kararnamenin 02.11.2011 tarihinde yayınlanması ile vekâlet ücreti idare tarafından ilgilere ödenmeye başlandığını, daha öncesinde ise herhangi bir vekalet ücreti ödemesi yapılmadığını, Danıştay 2’nci Dairesinin 2012/9842 sayılı kararında belirtildiği üzere 2006/10344 sayılı Bakanlar Kurulu kararında "davacının hilesinin, gerçek dışı beyanının neden olmadığı, ayrıca açık hatanın da bulunmadığı görülmesi" halinde yapılan ödemelerin geri istenilmesinde hukuki isabetin görülmediğinin ifade edildiğini; Nitekim 31 Ağustos 2013 tarih ve 287851 sayılı resmi gazetede yayımlanan "Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına dair Genel Yönetmelik"te görevde yükselme sınavı ile Müdürlüğe atanmak için gerekli unvanlarda çalışılması gerekli olan 3 yıllık sürenin kaldırıldığını, bunun yanısıra; İçişleri Bakanlığı Mahalli İdareler Genel Müdürlüğü tarafından 07.05.2014 tarihinde yayınlanan "Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmelik"inde yapılan değişiklikle alt unvanlarda çalışma süresi 2 yılla sınırlandırıldığını belirterek tazmin hükmünün kaldırılmasını talep etmiştir.
+
+Başsavcılık karşılamasında; “Dilekçesinde: ‘İlçe Özel İdaresi Müdürlüğünün Mali Hizmetler Müdürlüğü ve Halkla İlişkiler Müdürlüğüne 657 Sayılı Kanun'un 86. maddesi gereği vekaleten yapılan atamanın Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğine ile Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmeliğini, ayrıca dilekçe ekinde benzeri olaylarla ilgili Danıştay ikinci Dairesinin E.2012/9842 K. Nolu kararına uygun olduğunu, ileri sürerek Daire kararının kaldırılmasını’ istemektedir.
+
+USUL YÖNÜNDEN:
+
+1. Dairenin 47 sayılı ilamının 1. maddesi İl Özel İdaresinde yapılan atamalar Valilik Oluru ile tekamül ettirildiğinden hüküm tesis ettirilmesi için atamaya yetkili amirin de savunmasının alınması için ek rapor düzenlenmek üzere hüküm dışı bırakılmasına karar verilmiştir. Bahse konu ilam maddesinde yapılan ödeme ile ilgili verilmiş karar bulunmadığından 6185 sayılı Kanun'un 55. maddesi gereği davacının temyiz talebinin esasa girilmeden reddine,
+
+ESAS YÖNÜNDEN:
+
+657 sayılı Kanun'un 86. maddesi gereği vekaleten atananın, 2013/4156 sayılı BKK.nın 4. ile 2006/10344 sayılı BKK.nın 9. maddeleri gereği asilde olması gereken şartları taşımadığından ek ödeme yapılmak suretiyle neden olunan ………… kamu zararı ile ilgili atamayı yapan Daire Amirinin sorumlu olması için anılan maddenin hüküm dışı bırakılmasına ilişkin Daire Kararının korunmasına, hükmedilmesi uygun olur görüşündeyim.” şeklinde görüş bildirmiştir.
+
+Dosyada mevcut belgelerin okunup incelenmesinden sonra gereği görüşüldü;
+
+Sorumlu 47 sayılı İlam’ın 1’inci maddesine itiraz etmekteyse de, 47 sayılı İlam’ın 1’inci maddesi hükmü yeniden hüküm tesis edilmek suretiyle 14.04.2015 tarih ve 166 sayılı Ek İlam düzenlenerek yeniden karara bağlandığından, yapılacak temyiz müracaatının da 166 sayılı Ek İlam esas alınarak yapılması gerekmektedir. Temyiz müracaatı 47 sayılı İlam’ın 1’inci maddesi hükmüne karşı yapılması nedeniyle ve bahse konu İlam maddesinin hüküm dışı bırakılmasına karar verilmiş olup bu maddede yapılan ödeme ile ilgili 47 sayılı İlam ile verilmiş bir karar bulunmadığından bu hususta kurulumuzca Yapılacak İşlem Olmadığına, Oybirliğiyle,
+
+Karar verildiği 08.03.2016 tarih ve 41609 sayılı tutanakla yazılı olmakla iş bu ilam tanzim kılındı.
