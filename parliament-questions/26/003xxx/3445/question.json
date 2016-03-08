@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 26,
+  "legislative_year": 1,
+  "esas_no": "7/3445",
+  "submitted": "2016-03-08",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gürsel TEKİN",
+  "province": "İstanbul",
+  "summary": "İstanbul'da yapımı devam eden 3. havalimanı inşaatında yaşanan iş kazalarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-2779-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "63c2f2c1cdd638e4679ecf208b3bb4a10b69c0bf4bb9f623b3adec83559019e4",
+  "in_force": "2016-03-08",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
