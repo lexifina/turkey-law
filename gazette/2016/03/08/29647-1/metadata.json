@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-03-08",
+  "issue": "29647",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Milletlerarası Tahkim Ücret Tarifesi Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/03/20160308-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/03/20160308.htm",
+  "index_sha256": "ad43011dac553f6581f7edf33e98084ee3e5c678990766096fd221e49e75f139",
+  "index_header": "8 Mart 2016 ... 29647 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/03/20160308.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
