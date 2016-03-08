@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "132",
+  "decision_date": "2016-03-08",
+  "source_id": 17432,
+  "chamber": "4",
+  "ilam_number": "413",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17432/",
+  "source_sha256": "3d9441f26c3344e7fe32af174f44fd1ea96e3032a19b83c88255fac19adbced5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
