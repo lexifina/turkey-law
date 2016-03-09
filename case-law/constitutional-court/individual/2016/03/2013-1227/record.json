@@ -1,0 +1,20 @@
+{
+  "applicant": "A.Ö.G.",
+  "application_date": "2013-02-04",
+  "application_number": "2013/1227",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2016-03-09",
+  "id": "2b552c7f-640c-84e9-1aa0-facb0377c8dc",
+  "in_force": "2016-03-09",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjJiNTUyYzdmLTY0MGMtODRlOS0xYWEwLWZhY2IwMzc3YzhkYw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "b9316ea060fa5d5d11e7de0b0b81fb206b6d0f5352b9972e90e722db62d1b2ab",
+  "version_label": "as-enacted"
+}
