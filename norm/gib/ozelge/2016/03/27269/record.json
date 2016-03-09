@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130[30-2014/01]-11215",
+  "source_id": 27269,
+  "date": "2016-03-09",
+  "title": "Ekonomik ömrünü tamamlamış yazar kasaların hurdaya ayrılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27269",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "df5c496638d0d655e0af8fc3bca26e6d927013b392749baf5b94f96ce0cec2d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
