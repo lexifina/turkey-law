@@ -1,0 +1,3 @@
+Ödenen kurumsal hat GSM bedellerinin sözleşmede belirtilen tutardan fazla olması.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ….. Belediyesi ile ….. İletişim Hizmetleri A.Ş. arasında imzalanan sözleşme uyarınca kurumsal hat GSM bedeli olarak ödenen tutarın sözleşmede belirtilen tutardan daha fazla olduğu iddia edilmiş ise de; ..... tarihinde sözleşme bedeli üzerinden %20 oranında ve …..-TL tutarında iş artışı yapılması, ayrıca söz konusu iş için ….. İletişim Hizmetleri A.Ş’ye ödenen toplam miktarın iş artışı dahil sözleşme bedelini aşmaması nedeniyle mevzuatına uygun olduğu anlaşılan sorgu konusu …..-TL ile ilgili olarak ilişilecek husus bulunmadığına oy birliğiyle,
