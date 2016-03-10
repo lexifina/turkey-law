@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "160",
+  "decision_date": "2016-03-10",
+  "source_id": 17598,
+  "chamber": "5",
+  "ilam_number": "169",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17598/",
+  "source_sha256": "fc231bcf8c24efa458fa2de042255599d51015fcc1612e36ed9406114e74f840",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
