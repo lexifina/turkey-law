@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6148/5",
+  "decision_date": "2016-03-10",
+  "title": "Elektrik Dağıtım Şirketlerinin Hedef Kayıp Oranlarının Belirlenmesine İlişkin Usul ve Esasların 5 inci maddenin üçüncü fıkrasının değiştirilmesine ilişkin, Ek : Elektrik Dağıtım Şirketlerinin Hedef Kayıp Oranlarının Belirlenmesine İlişkin Usul ve Esaslar",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WpMLqapmk8Q=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WpMLqapmk8Q=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=o3RMo3nTnMk="
+  ],
+  "source_sha256": "e01da75fc71653dd32a261c6d0f56a73265cf7d8f8a467d212bba4791940fb57",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-03-10",
+  "law_text_complete": true
+}
