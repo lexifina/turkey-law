@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6145/4",
+  "decision_date": "2016-03-10",
+  "title": "Yüzen LNG Terminalinde faaliyette bulunmak ozere lisans başvurusuna ilişkin",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0AU4XisCGHs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0AU4XisCGHs="
+  ],
+  "source_sha256": "5beb3949baaa0cb1fbe1441c419fdaaa61bf708757e8ea98183aecd76c1b2d5c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-03-10",
+  "law_text_complete": true
+}
