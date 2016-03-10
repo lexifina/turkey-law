@@ -1,0 +1,13 @@
+BÜTÇE İÇİ İŞLETMELERDE YAPILAN İNDİRİMLER
+
+Kurumun bütçe içi işletme ile işlettiği yerlerde sunulan hizmetlerin bazı kişilere  indirimli olarak sunulması suretiyle kamu zararına neden olunduğu hususunda;
+
+4736 sayılı Kamu Kurum Ve Kuruluşlarının Ürettikleri Mal Ve Hizmet Tarifeleri İle Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun’un 1 inci maddesinde;
+
+“Genel bütçeye dahil daireler ile katma bütçeli idareler, bunlara bağlı döner sermayeli kuruluşlar, kanunla kurulan fonlar, kefalet sandıkları, sosyal güvenlik kuruluşları, genel ve katma bütçelerin transfer tertiplerinden yardım alan kuruluşlar, kamu iktisadi teşebbüsleri ve bağlı ortaklıkları ile müesseseleri, il özel idareleri ve belediyeler ile bunların kurdukları birlik, müessese ve işletmeler, özel bütçeli kuruluşlar, özelleştirme işlemleri tamamlanıncaya kadar, 24.11.1994 tarihli ve 4046 sayılı Kanuna tâbi kuruluşlar ve özel hukuk hükümlerine tâbi, kamunun çoğunluk hissesine sahip olduğu kuruluşlar, kamu banka ve kuruluşları ile bunlara bağlı iş yerleri ve diğer kamu kurum ve kuruluşlarınca üretilen mal ve hizmet bedellerinde işletmecilik gereği yapılması gereken ticarî indirimler hariç herhangi bir kişi veya kuruma ücretsiz veya indirimli tarife uygulanmaz.
+
+(…)
+
+Bakanlar Kurulu birinci fıkra hükmünden muaf tutulacak kişi veya kurumları tespit etmeye yetkilidir. …”denilmektedir.
+
+ Belediyenin işlettiği kafeteryalarda ve düğün ve toplantı salonlarında belediye meclis üyeleri, kurum personeli ve hizmet alımı suretiyle istihdam edilen taşeron işçileri için indirimli tarifeler uygulandığı, … numaralı Meclis Kararı ve … sayılı Belediye Encümen kararlarında belediye meclis üyeleri, kurum personeli ve hizmet alımı suretiyle istihdam edilen taşeron işçileri için %20 indirim uygulanacağı şeklinde kararlar alındığı anlaşılmıştır. Ancak Belediye Meclis kararı ile yapılmış olan personel indiriminin bireysel amaçlı değil, ticari amaçlı olarak yapılmış bir indirim olarak değerlendirilmesi gerekmektedir. Bu itibarla, yapılan personel indiriminin mevzuatına uygun olduğu anlaşıldığından ilişilecek husus bulunmadığına, (Üye …’in “4736 sayılı Kamu Kurum Ve Kuruluşlarının Ürettikleri Mal Ve Hizmet Tarifeleri İle Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun’un 1 inci maddesi gereğince belediyenin işlettiği kafe, restoran, düğün ve toplantı salonu gibi yerlerde üretilen hizmetlerin ve malların herhangi bir kişi veya kuruma ücretsiz veya indirimli tarife uygulanmak suretiyle sunulması ancak Bakanlar Kurulunca muafiyet tanınması ile mümkündür. Fakat savunmalarda bu muafiyeti sağlayacak bir Bakanlar Kurulu Kararı gösterilmemiştir. Bu itibarla söz konusu tutarın tazmini gerekir” şeklindeki ayrışık görüşüne karşı), oy çokluğuyla karar verildi.
