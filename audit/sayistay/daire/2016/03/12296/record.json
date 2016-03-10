@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35385",
+  "decision_date": "2016-03-10",
+  "source_id": 12296,
+  "chamber": "2",
+  "ilam_number": "162",
+  "item_number": 9,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12296/",
+  "source_sha256": "a68c0c7cab6a9ca3e908db89b99ef5738bd56701232a8303b9927c3701a079da",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
