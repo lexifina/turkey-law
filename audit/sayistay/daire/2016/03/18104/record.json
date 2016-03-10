@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "86",
+  "decision_date": "2016-03-10",
+  "source_id": 18104,
+  "chamber": "7",
+  "ilam_number": "206",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18104/",
+  "source_sha256": "087cdc94f28deab6d81b7884491022bb0e732ebc8cba8ec9a4aba5175236953d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
