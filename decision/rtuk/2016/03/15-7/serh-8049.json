@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2016/15",
+  "meeting_date": "2016-03-10",
+  "meeting_date_as_published": "10.3.2016",
+  "decision_no": "7",
+  "source_id": 8049,
+  "title": "RTÜK kararı 2016/15-7 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/8049",
+  "source_sha256": "96686276717a60ab6fe9b9eff1dc7c38e7ebd519c640b7d6ba030e739eec9cc2",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (3 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
