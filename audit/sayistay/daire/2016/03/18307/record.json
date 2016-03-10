@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "159",
+  "decision_date": "2016-03-10",
+  "source_id": 18307,
+  "chamber": "5",
+  "ilam_number": "205",
+  "item_number": 16,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18307/",
+  "source_sha256": "ec46e3a1bc1360cb8b121fd7c0e3cf0e8a2cbb2675c3d68592145d402a9d728c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
