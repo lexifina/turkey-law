@@ -1,0 +1,20 @@
+{
+  "applicant": "Z.M. VE I.M.",
+  "application_date": "2015-02-03",
+  "application_number": "2015/2037",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2016-01-06",
+  "id": "b7a9a770-8776-3a5e-1203-0496b6cdab1b",
+  "in_force": "2016-03-11",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2016-03-11",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmI3YTlhNzcwLTg3NzYtM2E1ZS0xMjAzLTA0OTZiNmNkYWIxYg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "9e95fafe3be2dc632ac0933688f506b502b181f0199ca7acbe021dd31e40fc3b",
+  "version_label": "as-enacted"
+}
