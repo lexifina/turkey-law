@@ -1,0 +1,8 @@
+Atama
+MADDE 7 – (1) Yaş sınırı nedeniyle Türk Silahlı Kuvvetlerinden ayrılan ya da ayrılacak olan uzman erbaşlardan müracaat edenlerin atamaları, merkezi yönetim bütçe kanunlarında yer alan sınırlamalara tabi olmaksızın yapılır.
+(2) Yaş sınırı nedeniyle Türk Silahlı Kuvvetlerinden ayrılacak olan uzman erbaşların atama işlemleri yaş sınırının dolmasından önce yapılır.
+(3) Müracaat edenlerin atamaları, Genelkurmay Başkanlığı, Millî Savunma Bakanlığı, Kuvvet Komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığının ihtiyaç öncelikleri dikkate alınarak yapılır.
+(4) Kuvvet Komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı dışına atanacak olan personelin müracaatının değerlendirme neticeleri bu makamlar tarafından atamaya yetkili makamlara gönderilir. Atamaya yetkili makamlar atamaları bu neticelere göre yapar.
+(5) Atanılan görevin aylık ve diğer mali haklarına göreve başlanılan tarihten itibaren hak kazanılır.
+(6) (Mülga fıkra:RG-11/3/2016-29650)
+(7) Devlet memuru olarak atanan uzman erbaşların yer değiştirme istekleri, 26/2/2010 tarihli ve 27505 sayılı Resmî Gazete’de yayımlanan Millî Savunma Bakanlığı, Genelkurmay Başkanlığı ve Kuvvet Komutanlıklarında Görevli Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmelik, 13/4/1987 tarihinde İçişleri Bakanı tarafından onaylanarak yürürlüğe giren Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığında Görevli Devlet Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmelik ile 4/1/2009 tarihli ve 27100 sayılı Resmî Gazete’de yayımlanan Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı Personeli Yer Değiştirme Suretiyle Atanma Esaslarına Dair Yönetmelik hükümlerine göre değerlendirilir.

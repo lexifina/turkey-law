@@ -1,0 +1,2 @@
+Derece ve kademe
+MADDE 8 – (1) Yaş sınırı nedeniyle Türk Silahlı Kuvvetlerinden ayrılan ya da ayrılacak olan uzman erbaşlardan Devlet memurluğuna atananların uzman erbaşlıkta geçen hizmet süreleri 2/2/2005 tarihli ve 5289 sayılı Memurlar ve Diğer Kamu Görevlilerine Bir Derece Verilmesi Hakkında Kanun hükümleri de dikkate alınmak suretiyle, öğrenim durumlarına göre yükselebilecekleri tavanı aşmamak kaydıyla kazanılmış hak aylık derece ve kademelerinin tespitinde değerlendirilir.

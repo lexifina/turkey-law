@@ -1,0 +1,2 @@
+Aranacak şartlar
+MADDE 5 – (1) Yaş sınırı nedeniyle Türk Silahlı Kuvvetlerinden ayrılan ya da ayrılacak olan uzman erbaşlardan Millî Savunma Bakanlığı, MSB ANT Başkanlığı ve Türk Silahlı Kuvvetleri kadrolarında Devlet memuru olarak istihdam edilmek isteyenlerde, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin birinci fıkrasının (A) bendinin (6) numaralı alt bendi hariç bu maddede yer alan genel ve özel şartlar aranır.

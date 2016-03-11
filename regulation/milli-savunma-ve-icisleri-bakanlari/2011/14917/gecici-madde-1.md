@@ -1,0 +1,4 @@
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Memuriyet için başvurular
+GEÇİCİ MADDE 1 – (1) 19/6/2010 tarihli ve 6000 sayılı Kanunun yürürlüğe girdiği tarihten önce yaş sınırı nedeniyle Türk Silahlı Kuvvetlerinden ayrılan ve emeklilik aylığına hak kazanamamış olan uzman erbaşlar bu Kanunun 26 ncı maddesinin yürürlüğe girdiği tarihten itibaren üç ay içerisinde Türk Silahlı Kuvvetlerinden yaş sınırı nedeniyle ayrıldığını gösterir terhis belgesi gibi belgeler ile birlikte Millî Savunma Bakanlığına müracaat eder. Bu personel ile birlikte, 1/1/2011 tarihine kadar yaş sınırı nedeniyle Türk Silahlı Kuvvetlerinden ayrılmış olanlar kura çekilmesi yöntemiyle, öncelikli olarak Millî Savunma Bakanlığı ve MSB ANT Başkanlığının kadrolarında, Genelkurmay Başkanlığı tarafından talep edilmesi durumunda ise Genelkurmay Başkanlığı kadroları da kuraya dahil edilmek suretiyle Devlet memuru olarak istihdam edilir.
