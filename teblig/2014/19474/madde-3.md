@@ -1,0 +1,16 @@
+MADDE 3 – (1) Bu Tebliğ hükümlerini Çevre ve Şehircilik Bakanı yürütür.
+(Değişik:RG-11/3/2016-29650) Ek-1
+MHG/2016-3 Numaralı Tebliğ Çerçevesinde
+ALBERK QA Uluslararası Teknik Kontrol ve Belgelendirme A.Ş.’nin
+Görevlendirme Kapsamı
+Avrupa Komisyonu Karar No. | Ürün(ler)/ Kullanım Amacı | Performansın Değişmezliğinin Değerlendirilmesi ve Doğrulanması Sistemi | Şartnameler | Görevler
+98/214/EC | Strüktürel metalik kesitler/profiller Sıcak haddelenmiş, soğuk şekillendirilmiş veya başka şekilde üretilmiş çeşitli şekillerdeki kesitler/profiller(T, L, H, U, Z, I, kanallar, köşebent, oluk, boru) ,yassı ürünler (tabaka, levha, şerit) çeşitli metal malzemelerden yapılmış, korozyona karşı astarlanarak (kaplanarak) korunmuş ya da korunmamış dökme, dövme ve çubuk demirler. (Metal yapılarda veya metal ve beton karma yapılarda kullanılmak üzere) | Sistem 2+ | TS EN 10025-1 TS EN 10088-4 TS EN 10088-5 TS EN 10210-1 TS EN 10219-1 TS EN 10340 TS EN 10340/AC TS EN 10343 TS EN 15048-1 TS EN 15088 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/214/EC | Strüktürel metalden yapılmış inşaat malzemeleri: -Makaslar, kirişler, kolonlar, merdivenler, döşeme mertekleri, taşıyıcı direkler ve palplanj (perde) gibi bitmiş metal ürünler. Belirli uygulamalar için tasarlanarak uygun büyüklüklerde kesilmiş parçalar, raylar, traversler. Bunlar astarlanarak korozyona karşı korunmuş ya da korunmamış olabilir, kaynaklı ya da kaynaksız olabilir. | Sistem 2+ | TS EN 1090-1:2009+A1 TS EN 1090-1+A1 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/214/EC | Kaynak malzemeleri (Strüktürel metal yapı işlerinde kullanmak için) | Sistem 2+ | TS EN 13479 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/214/EC | Strüktürel bağlayıcılar Metal perçinler, cıvatalar (somunlar ve pullar) ve H. R. Cıvataları (yüksek mukavemetli öngerilimli cıvatalar-High Resistance), başlı çiviler, vidalar, demiryolu sürgüleri. ( Strüktürel metal işlerde kullanmak için) | Sistem 2+ | TS EN 14399-1 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC | Agregalar -Beton, harç ve enjeksiyon için agregalar ve dolgu malzemeleri ( Yapılar, yollar ve diğer altyapı işlerinde) | Sistem 2+ | TS 706 EN 12620+A1 TS 1114 EN 13055-1 TS EN 13055-1/AC TS 2717 EN 13139 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC | Agregalar - Bağlı olmayan ve hidrolik bağlı olan karışımlar için ( Yol ve diğer altyapı işlerinde) | Sistem 2+ | TS EN 13242+A1 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC | Agregalar - Bitümlü karışımlar, yüzeye uygulamaları (Yol ve diğer altyapı işlerinde) | Sistem 2+ | TS EN 13043 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC | Agregalar -Kuşanıktaşlar (Su yapıları ve diğer altyapı çalışmalarında.) | Sistem 2+ | TS EN 13383-1 TS EN 13383-1/AC | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+98/598/EC | Agregalar -Demiryolu balastı (Demiryolu işlerinde) | Sistem 2+ | TS 7043 EN 13450 TS 7043 EN 13450/AC TS EN 13450/AC | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
+99/469/EC | Beton, harç ve çimento şerbetiyle ilgili malzemeler -Katkılar (tip1) ( Beton, harç ve çimento şerbeti için) | Sistem 2+ | TS EN 934-2+A1 TS EN 934-3+A1 TS EN 934-4 TS EN 934-5 | Fabrika Üretim Kontrolü Belgelendirme Kuruluşu
