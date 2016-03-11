@@ -1,0 +1,4 @@
+Arıza giderme süresi yükümlülüğü
+MADDE 7/B – (1) İşletmeciler, bu Yönetmeliğin 7/A maddesi kapsamındaki arıza giderme süresi ölçümlerine ilişkin bilgilerin doğruluğunu sağlar ve ilgili kayıtları on iki ay süreyle muhafaza ederek istendiğinde Kuruma verir.
+(2) İşletmeciler, söz konusu arızaları teknik imkânlar çerçevesinde ivedilikle giderir. İşletmeciler, il ve ilçe merkezlerindeki AYÇH’ye ilişkin elektronik haberleşme hizmeti arızalarının tamamına azami 4 saatte müdahale eder ve 12 saat içerisinde giderir. Diğer yerlerdeki arızaların tamamını ise azami 24 saat içerisinde giderir. Belirtilen süre içerisinde giderilmeyen arızalara ilişkin olarak, arızaların giderilememe sebebini de içerecek bir rapor ile altı ayda bir, yılın ilk altı ayı için Temmuz ayının, ikinci altı ayı için Ocak ayının sonuna kadar, işletmeciler tarafından yazılı olarak Kuruma bildirilir.
+(Değişik bölüm başlığı:RG-14/7/2013-28707)

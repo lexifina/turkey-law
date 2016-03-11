@@ -1,0 +1,4 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin 4 üncü maddesinin birinci ve ikinci fıkrası ile 5 inci maddesinin birinci fıkrasında yer verilen yükümlülüklerin kapsamında olan ancak bu Yönetmeliğin yayımından önce söz konusu hizmetleri sağlayamayan işletmeciler, bu Yönetmeliğin yayımından itibaren 1 yıl içerisinde söz konusu yükümlülüklerini yerine getirir.
+(2) Bu Yönetmeliğin 5 inci maddesinin birinci fıkrasının (a) bendinde yer alan adres verisi sağlama yükümlülüğünün coğrafi koordinatlar cinsinden de sağlanması hususu ilgili işletmeciler tarafından bu Yönetmeliğin yayımından itibaren en geç 5 yıl içerisinde yerine getirilir.
+(3) (Ek:RG-14/7/2013-28707) Bu Yönetmeliğin 7/B maddesinde yer alan arıza giderme süresine ilişkin yükümlülükler işletmeciler tarafından 1/11/2013 tarihinden itibaren yerine getirilir.

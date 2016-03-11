@@ -1,0 +1,78 @@
+{
+  "source_id": "7.5.16200",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRONİK HABERLEŞME SEKTÖRÜNDE ACİL YARDIM ÇAĞRI HİZMETLERİNE İLİŞKİN YÖNETMELİK",
+  "number": "16200",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "issuer_slug": "bilgi-teknolojileri-ve-iletisim-kurulu-baskani",
+  "path": "regulation/bilgi-teknolojileri-ve-iletisim-kurulu-baskani/2012/16200",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16200&MevzuatTertip=5",
+  "source_sha256": "653a2548cfa5ca3a9bc5a265f104d4dfb93039ae111dd728ff060d9c76ef1f81",
+  "source_bytes": 59530,
+  "published": "2012-06-05",
+  "gazette": "28314",
+  "in_force": "2016-03-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/3/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-03-11",
+      "RG-11/3/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-03-11",
+      "11/3/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-10-24",
+      "24/10/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-04-04",
+      "4/4/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-01-17",
+      "RG-17/1/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-01-17",
+      "17/1/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-07-14",
+      "RG-14/7/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-07-14",
+      "14/7/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-06-15",
+      "15/6/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1685,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
