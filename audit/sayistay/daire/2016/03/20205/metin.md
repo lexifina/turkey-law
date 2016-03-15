@@ -1,0 +1,15 @@
+İşletme hakkı kiraya verilen yerlerden KDV alınmaması.
+
+Dosya kapsamındaki bilgi ve belgeler ile ….. Belediyesi 2014 Mali Yılı Yönetim Dönemi Hesabının incelenmesi neticesinde; mülkiyeti ….. Belediyesine ait olup işletme hakkı kiraya verilen yerlerden, Katma Değer Vergisi alınmaması suretiyle kamu zararına sebebiyet verildiği iddia edilmiş ise de;
+
+3065 sayılı Katma Değer Vergisi Kanunu’nun 1/1’inci maddesinde, Türkiye'de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetlerin;   1/3-f maddesinde, Gelir Vergisi Kanunu’nun 70’inci maddesinde belirtilen mal ve hakların kiralanması işlemlerinin KDV'nin konusuna girdiği hüküm altına alınmıştır. Aynı Kanun’un 17/4-d maddesinde ise iktisadi işletmelere dahil olmayan gayrimenkullerin kiralanması işlemleri KDV'den müstesnadır. Buna göre, iktisadi işletmelerin her türlü kiralama işlemleri KDV Kanunu’nun 1/1’inci maddesine göre KDV'ye tabidir. Gelir Vergisi Kanunu’nun 70’inci maddesinde sayılan mal ve hakların kiralanması işlemleri KDV Kanununun 1/3-f maddesine göre KDV'ye tabi olmakla birlikte iktisadi işletmelere dahil olmayan gayrimenkullerin kiralanması işlemleri KDV'den müstesnadır. Bu çerçevede, gelir vergisi açısından gayrimenkul sermaye iradı olarak tanımlansa dahi bir işletme veya müessesenin belirli bir bedel ve süre dahilinde başkasının kullanımına bırakılması şeklindeki işletme hakkının kiralanması işlemleri Kanun’un 1/3-f maddesine göre KDV'ye tabi tutulacaktır.
+
+Ancak; mülkiyeti ….. Belediyesine ait taşınmazların kira sözleşmeleri incelendiğinde, 6098 sayılı Türk Borçlar Kanunu’na tabi olarak kiralama işlemlerinin yapıldığı ve taşınmazların boş olarak kiraya verildiği, herhangi bir tesis veya işletmenin ise mevcut olmadığı anlaşılmıştır.
+
+Dolayısı ile kiraya verilen yerlere ilişkin olarak kira öncesinde kurumlar vergisi ve katma değer vergisi yönünden herhangi bir mükellefiyetin ve işletmenin bulunmaması, kira sözleşmelerinin 6098 sayılı Türk Borçlar Kanunu’na göre düzenlenmesi, söz konusu gayrimenkul kiralama işlemlerinin 3065 sayılı Kanun’un Sosyal ve Askeri Amaçlı İstisnalarla Diğer İstisnalar başlıklı 17’nci maddesinin 4’üncü fıkrasının (d) bendindeki “..... iktisadi işletmelere dahil olmayan gayrı menkullerin kiralanması işlemleri.....” kapsamında değerlendirilmesi ve KDV'den istisna tutulması nedenleriyle kamu zararı oluşmayan ……-TL ile ilgili olarak ilişilecek husus bulunmadığına,
+
+(Üye …..’ın “….. Belediyesi hesabı açısından kamu zararı oluşmaması nedeniyle konu hakkında ilişilecek husus bulunmadığına, ancak katma değer vergisi açısından gerekli incelemenin yapılması için konunun Maliye Bakanlığı’na yazılmasına, karar verilmesi uygun olur”
+
+Üye …..’in “Sorgu konusu edilen taşınmaz kiralamaları incelendiğinde bazı taşınmazların boş olarak kiraya verildiği, bazı taşınmazlarda ise işletme hakkının devredildiği, ancak sorguda herhangi bir ayrım yapılmadığı görülmektedir. Dolayısı ile söz konusu kiralama işlemlerinin tekrar incelenerek ve tasnif edilerek kamu zararının yeniden tespiti amacıyla konunun Denetçisine iadesine karar verilmesi uygun olur.” şeklindeki ayrışık görüşüne karşı),
+
+Oy çokluğuyla,

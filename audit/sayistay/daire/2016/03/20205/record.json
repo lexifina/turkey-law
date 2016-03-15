@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "319",
+  "decision_date": "2016-03-15",
+  "source_id": 20205,
+  "chamber": "6",
+  "ilam_number": "235",
+  "item_number": 16,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20205/",
+  "source_sha256": "a0401005e1345d5e582868a2cea52b914fea4d53f80c110b7d7b052c9db8528c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
