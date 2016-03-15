@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41641",
+  "decision_date": "2016-03-15",
+  "source_id": 11697,
+  "chamber": "6",
+  "file_number": "40556",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11697/",
+  "source_sha256": "e4fc011344c502627e24a49bdd6f847e145c7c06eae43d23ee4e1ddf2209fa4a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
