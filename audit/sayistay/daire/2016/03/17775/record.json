@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "87",
+  "decision_date": "2016-03-15",
+  "source_id": 17775,
+  "chamber": "7",
+  "ilam_number": "197",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17775/",
+  "source_sha256": "867934078e26ad59f2edb3507ea18611741243630524e1dcdd8551c7e8a06464",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
