@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "135",
+  "decision_date": "2016-03-15",
+  "source_id": 17430,
+  "chamber": "4",
+  "ilam_number": "281",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17430/",
+  "source_sha256": "25f03ef595ff26e534e78a5502ce0997627e2b031645b0eff00df6be5cd7c683",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
