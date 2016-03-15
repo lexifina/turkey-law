@@ -1,0 +1,3 @@
+Sosyal Tesisin iş ve işlemlerindeki eksiklikler.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Belediye tarafından işletilmekte olan "….." adlı sosyal tesiste, fatura ve adisyon belgesi bulunmayan veresiye alacaklar ile çeşitli sipariş silme-iptal kayıtları ve indirimlerinin bulunduğu, ayrıca silmelerde-iptallerde stok bağlantısı bulunmadığı, iddia edilmiş ise de; sorguya konu edilen hususun yargı raporu konusu olmayıp denetim raporuna konu edilebilir olması, ayrıca denetçinin raporun sonuç kısmında sorumlularca gönderilen savunmalar karşısında ilişilecek husus kalmadığını belirtmesi nedenleri ile mevzuata uygun olduğu anlaşılan konu ile ilgili olarak ilişilecek husus bulunmadığına oy birliğiyle,
