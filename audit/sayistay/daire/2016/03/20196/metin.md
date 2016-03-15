@@ -1,0 +1,3 @@
+Yer altı suyu işletme sahalarından Belediye payının alınmaması.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; Belediye sınırları içerisinde yer alan yeraltı suyu işletme sahalarından mevzuatta öngörülen belediye payının alınmadığı, iddia edilmiş ise de; Kaynak Suları Harcı alınmasını gerektirecek işletmelerin, 6360 sayılı Kanun ile ….. Belediyesine mahalle olarak bağlanan Belde Belediyelerinin görev ve sorumluluk alanında bulunan işletmeler olması, 6360 sayılı Kanun ile ….. Belediyesine bağlanmanın da 30.03.2014 tarihi itibari ile gerçekleşmesi, dolayısı ile Kaynak Suları Harcı tahsilinin mümkün olmaması nedeniyle kamu zararı oluşmayan konu ile ilgili olarak ilişilecek husus bulunmadığına oy birliğiyle,
