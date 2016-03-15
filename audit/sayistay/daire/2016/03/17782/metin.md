@@ -1,0 +1,9 @@
+Mevzuata aykırı olarak asgari ücret fiyat farkı verilmesi
+
+... Ltd.Şti. yüklenimindeki ...TL ihale bedelli Hal Otomasyon Sisteminde Veri Girişi Yapacak Personel Hizmet Alımı İşinde, asgari ücret fiyat farkı hesabında kararnameye aykırı olarak, ihale tarihinden sonra asgari ücretin değişmemesine rağmen asgari ücret fiyat farkı hesaplanmak suretiyle kamu zararına sebebiyet verildiği tespit edilmiştir.
+
+4734 Sayılı Kamu İhale Kanunu’na Göre İhalesi Yapılacak Olan Hizmet Alımlarına İlişkin Fiyat Farkı Hesabında Uygulanacak Esasların; “Asgari ücret ve diğer işçilik maliyetlerindeki değişiklikten kaynaklanan fark” başlıklı değişik 8’inci maddesi hükmü gereği asgari ücret fiyat farkı, eski ve yeni asgari ücret arasındaki farka işveren tarafından katlanılması zorunlu işveren primi, işsizlik sigortası işveren primi ilave edilerek bulunan tutarın işçi sayısı ile çarpılarak hesaplanacaktır. Bu bağlamda ihale tarihi ile uygulama ayları asgari ücretleri farklı olması durumunda asgari ücret fiyat farkı hesaplanması mümkün olacaktır. Oysa söz konusu iş 07.01.2014 tarihinde ihale edilmiş olup, ihale tarihindeki asgari ücret ile uygulama ayları olan 2014 yılı ilk altı aylık dönemdeki asgari ücret aynıdır. Bu durumda 2014 yılı ilk altı ayı için asgari ücret fiyat farkı ödenmesi mümkün değildir.2014 yılı ikinci altı ayı için ise 2014 yılı ikinci altıncı ayında geçerli asgari ücret ile 2014 yılı birinci altı ayında geçerli asgari ücret arasındaki farkın ödenmesi mümkündür.
+
+Bu itibarla; ... Ltd.Şti. yüklenimindeki Hal Otomasyon Sisteminde Veri Girişi Yapacak Personel Hizmet Alımı İşinde mevzuata aykırı asgari ücret fiyat farkı hesaplanması suretiyle sebep olunan toplam ...TL’lik kamu zararının ...TL'sinin ..nolu makbuzla, ...TL'sinin ...nolu makbuzla ahizlerinden tahsil olunduğu anlaşıldığından ilişilecek husus kalmadığına
+
+Oybirliğiyle karar verildi.
