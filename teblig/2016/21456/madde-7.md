@@ -1,0 +1,11 @@
+Muafiyetin genel koşulları
+MADDE 7 – (1) Aşağıda belirtilen koşulları sağlayan anlaşmalar bu Tebliğ kapsamındaki muafiyetten yararlanır:
+a) Anlaşma, sonuçlardan ortak faydalanmayı içermekte ve taraflardan en az ikisi ilgili pazarda rakip teşebbüsler konumunda ise, tarafların tümünün ilgili pazardaki toplam pazar paylarının %40’ı aşmaması,
+b) Anlaşma, sonuçlardan ortak faydalanmayı içermekte ve taraflardan en az ikisi ilgili pazarda rakip teşebbüsler konumunda ise, bedelli AR-GE’de, bir tarafın aynı sözleşme konusu ürün ve teknolojileri içeren birden çok AR-GE anlaşmasında finanse eden taraf olması durumunda, finanse eden taraf dahil tarafların tümünün ilgili pazardaki toplam pazar paylarının %40’ı aşmaması,
+c) AR-GE’nin kapsamı ve amacının anlaşmada açıkça tanımlanmış olması,
+ç) Ortak veya bedelli AR-GE’de anlaşmaya taraf tüm teşebbüslerin, faydalanma anlamında uzmanlaşma söz konusu olduğunda sonuçlara erişimin uygun ölçüde sınırlanması haricinde çalışma sonuçlarına tam erişiminin sağlanması,
+d) Anlaşmanın yalnızca AR-GE'ye yönelik olması halinde, taraflara ait ticari sırlar ve gizli bilgiler hariç olmak üzere, tarafların teknik bilgileri ve AR-GE sonuçlarını birbirlerinden bağımsız kullanabilmelerinin engellenmemesi,
+e) Ortak faydalanmanın AR-GE sonuçları ile sınırlı kalması ve bu sonuçların sözleşme konusu ürünlerin üretiminde ya da sözleşme konusu teknolojilerin uygulanmasında asli unsuru teşkil etmesi,
+f) Faydalanma anlamında uzmanlaşma içeren anlaşmalarda, sözleşme konusu ürünlerin birlikte oluşturulan bir ekip, organizasyon veya teşebbüs tarafından ya da birlikte tayin edilen üçüncü bir teşebbüs aracılığıyla yürütülmesi anlamında ortak dağıtımına veya yalnızca üreten taraf tarafından dağıtılmasına karar verilmemiş ise, üretimi üstlenen teşebbüs veya teşebbüslerin, tarafların sözleşme konusu ürünlere ilişkin siparişlerini karşılamaları.
+(2) Sözleşme konusu ürünler taraflarca başka bir mal veya hizmetin üretiminde kullanılan hammadde veya ara malı niteliğindeyse, bu ürünlerin nihai mal veya hizmetin asli unsurunu teşkil etmesi halinde, tarafların pazar payının hesaplanmasında söz konusu nihai mal veya hizmete ilişkin pazar esas alınır.
+(3) Tarafların ilgili pazarda rakip teşebbüs olmadığı AR-GE anlaşmaları, birinci fıkrada öngörülen pazar payı eşiği koşullarına tabi değildir.
