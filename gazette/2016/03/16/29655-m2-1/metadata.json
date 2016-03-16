@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-03-16",
+  "issue": "29655",
+  "edition": "mükerrer 2",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "6683 2014 Yılı Merkezi Yönetim Kesin Hesap Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/03/20160316M2-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/03/20160316M2.htm",
+  "index_sha256": "57ea3e9645a7fe3619594444b1cf25afd4cec2e3459af13e79ec7221c6ef03ff",
+  "index_header": "16 Mart 2016 ... 29655 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/03/20160316M2.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
