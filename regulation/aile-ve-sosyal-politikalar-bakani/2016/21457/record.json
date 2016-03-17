@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.21457",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ŞİDDET ÖNLEME VE İZLEME MERKEZLERİ HAKKINDA YÖNETMELİK",
+  "number": "21457",
+  "issuer": "Aile ve Sosyal Politikalar Bakanı",
+  "issuer_slug": "aile-ve-sosyal-politikalar-bakani",
+  "path": "regulation/aile-ve-sosyal-politikalar-bakani/2016/21457",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21457&MevzuatTertip=5",
+  "source_sha256": "501eef96ad961eda63d7533640694672eb440c7e5c4ed49bb59cdc5644e2cfd3",
+  "source_bytes": 103711,
+  "published": "2016-03-17",
+  "gazette": "29656",
+  "in_force": "2016-03-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.03.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5529,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
