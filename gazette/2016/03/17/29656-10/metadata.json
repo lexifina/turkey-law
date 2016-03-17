@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-03-17",
+  "issue": "29656",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Polis Akademisi Başkanlığı Döner Sermaye İşletmesi Gelirlerinden Ek Ödeme Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/03/20160317-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/03/20160317.htm",
+  "index_sha256": "1b97b5b9d79b9356a7c081836c76c1fba5ebfd7816ac06b0a6f4ad3db801ac02",
+  "index_header": "17 Mart 2016 ... 29656 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/03/20160317.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
