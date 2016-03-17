@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6155/4",
+  "decision_date": "2016-03-17",
+  "title": "CNG ve LNG İle Dağıtım Faaliyeti Yapılması Hakkında",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6cXtpwSETgk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6cXtpwSETgk="
+  ],
+  "source_sha256": "b6c503a4521eb30cdcd8b07dcd4f051d09f131447c4090534780b68bc3fce31b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-03-17",
+  "law_text_complete": true
+}
