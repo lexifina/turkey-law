@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35386",
+  "decision_date": "2016-03-17",
+  "source_id": 17662,
+  "chamber": "2",
+  "ilam_number": "182",
+  "item_number": 8,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17662/",
+  "source_sha256": "2685953281a8ab48a93d34a45a266507790a2e335f841b780faeb55e29868167",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
