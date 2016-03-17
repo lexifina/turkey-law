@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "285",
+  "decision_date": "2016-03-17",
+  "source_id": 16699,
+  "chamber": "3",
+  "ilam_number": "416",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16699/",
+  "source_sha256": "bca4a2253b3552b51f87a77249aea0126a1241de7858684b936987e4ef82315c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
