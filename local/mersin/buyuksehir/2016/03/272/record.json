@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "272",
+  "decision_date": "2016-03-18",
+  "title": "MEC_KAR. ( akdeniz evlendirme dairesi TAŞINMAZ",
+  "listed_as": "272 MEC_KAR. ( akdeniz evlendirme dairesi TAŞINMAZ",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/272-mec-kar---akdeniz-evlendirme-dairesi-tasinmaz-tahsisi-mahmudiye-mh-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk25-18-mart-2016-meclis-kararlari",
+  "listing_sha256": "a1d0be9edeb3d4384f7e232a8921d21eb546f87e0246db366f8ae4e167007ce0",
+  "meeting_title": "MK25-18 MART 2016 MECLIS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
