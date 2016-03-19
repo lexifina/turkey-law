@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21464",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GENELLEŞTİRİLMİŞ TERCİHLER SİSTEMİ ÇALIŞMALARINA İLİŞKİN TEBLİĞ (İTHALAT: 2016/2)",
+  "number": "21464",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2016/21464",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21464&MevzuatTertip=5",
+  "source_sha256": "28021857a9627eb119532e6f6d8731958a175c91f63e80c96aa92e1cad3bdf22",
+  "source_bytes": 10050,
+  "published": "2016-03-19",
+  "gazette": "29658",
+  "in_force": "2016-03-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.03.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 275,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21464-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
