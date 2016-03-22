@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10551",
+  "decision_date": "2016-03-22",
+  "source_id": 16582,
+  "chamber": "1",
+  "ilam_number": "130",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16582/",
+  "source_sha256": "b164e1ace7225809e8758712a846f01ca5330e9d0ad83671c21098a239db868a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
