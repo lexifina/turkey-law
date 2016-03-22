@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10551",
+  "decision_date": "2016-03-22",
+  "source_id": 16585,
+  "chamber": "1",
+  "ilam_number": "130",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/16585/",
+  "source_sha256": "c7cd1664c49f0160e2517d26663459defa676445f4405cbab132634a3c2649a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
