@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21469",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ETİLEN GLİKOL (ETANDİOL) İTHALATINDA TARİFE KONTENJANI UYGULANMASI HAKKINDA TEBLİĞ",
+  "number": "21469",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2016/21469",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21469&MevzuatTertip=5",
+  "source_sha256": "1a5bc9fdf09841951e857a0d68e0ead35e83e8b10b2b6f21f731fe2b82fe8958",
+  "source_bytes": 19722,
+  "published": "2016-03-22",
+  "gazette": "29661",
+  "in_force": "2016-03-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.03.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 832,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21469-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
