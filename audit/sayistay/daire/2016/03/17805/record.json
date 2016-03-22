@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "321",
+  "decision_date": "2016-03-22",
+  "source_id": 17805,
+  "chamber": "6",
+  "ilam_number": "189",
+  "item_number": 19,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17805/",
+  "source_sha256": "81098d065bc121ec286208dee8fd83a4fb1cc7c1c7021ed44633dd8f26c6d39c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
