@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10553",
+  "decision_date": "2016-03-22",
+  "source_id": 17004,
+  "chamber": "1",
+  "ilam_number": "195",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17004/",
+  "source_sha256": "5d26e7989f6225bc381ff56490884fcb8c3f5c5e3d83c375a450b0ff29888a70",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
