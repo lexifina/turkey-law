@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2016/17",
+  "meeting_date": "2016-03-23",
+  "meeting_date_as_published": "23.3.2016",
+  "decision_no": "9",
+  "source_id": 7731,
+  "title": "RTÜK kararı 2016/17-9",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/7731",
+  "source_sha256": "9090b61415bb9303e6cb9d3efd76ddc5956f9b71badb01f84e514a325add4e5e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (2 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
