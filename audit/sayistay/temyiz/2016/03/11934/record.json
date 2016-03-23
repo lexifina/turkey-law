@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41727",
+  "decision_date": "2016-03-23",
+  "source_id": 11934,
+  "chamber": "6",
+  "file_number": "40099",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11934/",
+  "source_sha256": "dde080e5b22e1c3c38b68e90aa0c2b6e9e67323c3d2797b9810ac76084853b87",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
