@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41671",
+  "decision_date": "2016-03-23",
+  "source_id": 11869,
+  "chamber": "6",
+  "file_number": "39076",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2010",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11869/",
+  "source_sha256": "2cc6a0a7567579d453c03b972aef81fdc12f4fc03471db8395c2042e06adaf44",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
