@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-81 / 2016 -2",
+  "source_id": 760,
+  "date": "2016-03-23",
+  "title": "2015 Takvim Yılı Yıllık Gelir Vergisi Beyannamelerinin Verilme Süresinin Uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/760",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "6121106a72befafcab9b3a8fe685a9c4cebd529d8e90d74d88240bf2e8f93df4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
