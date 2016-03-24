@@ -1,0 +1,3 @@
+Genel kurulun ertelenmesi
+Madde 12 — Oda Yönetim Kurulu, Genel Kurul toplantısının düzenli bir şekilde yapılamayacağının anlaşılması durumunda, toplantı başlamadan önce, bir kez olmak üzere toplantıyı erteleyebilir. Bu durumda Oda Yönetim Kurulu, yeni Genel Kurul toplantısının tarihini ve yerini görevli hakimin onayını da alarak belirler ve toplantı tarihinden en az on gün önce üyelere duyurur ve Oda merkezinin bulunduğu yerde bir gazetede ilan eder.
+Ertelenen Genel Kurul toplantısının en geç iki ay içinde yapılması zorunludur. Bu süre içinde Odanın günlük işleri eski Yönetim Kurulu tarafından yürütülür.

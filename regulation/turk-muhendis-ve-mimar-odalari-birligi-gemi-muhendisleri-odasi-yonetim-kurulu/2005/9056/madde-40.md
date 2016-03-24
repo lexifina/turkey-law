@@ -1,0 +1,5 @@
+Oda danışma kurulu görev ve yetkileri
+Madde 40 — (Değişik:RG-24/3/2016-29663)
+Oda Danışma Kurulu, meslekte belirli bir süre hizmet vermiş Oda üyeleri ile meslek açısından önem taşıyan kurum ve kuruluşlarda üst düzey yönetici konumundaki Oda üyesi iş, bilim ve meslek insanları ile Oda üyesi üst düzey bürokratlar ve Oda üyesi siyaset insanlarından, meslek alanında emeği geçmiş kişiler ile kurum ve kuruluş temsilcileri arasından Oda Genel Kurulu tarafından seçilenlerden ve Oda organ ve komisyonlarında görev yapan ve meslekle ilgili sektörlerdeki çeşitli kurum ve kuruluşlarda Odayı temsil eden ve gemi mühendisliği lisans eğitimi veren yükseköğretim kurumlarında yönetim kademesinde bulunan Oda üyelerinden oluşur.
+Danışma Kurulu, Oda Yönetim Kurulunun çalışmalarına katkı sağlamak ve yardımcı olmak amacı ile Oda ve meslek alanına ilişkin sorunların tespiti ve bu sorunların çözümünde alınması gereken tedbir ve hedeflerin belirlenmesinde görüş oluşturmak, önerilerde bulunmak ve eğilim belirlemek üzere oluşturulan ve tavsiye niteliğinde kararlar alan yardımcı organdır.
+Oda Danışma Kurulunun oluşum ve işleyişine ilişkin esaslar, ayrı bir iç yönetmelikle düzenlenir.

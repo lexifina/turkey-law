@@ -1,0 +1,2 @@
+Oda yönetim kurulu üyelerinin boşalması
+Madde 20 — Oda Yönetim Kurulu üyelerinin hepsinin birden çekilmesi ya da herhangi bir nedenle ayrılan üyenin yerine gelecek yedek üye kalmaması durumunda Oda Genel Kurulu, Oda Yönetim Kurulu, Başkan ve Başkan yardımcısı, bunlar yoksa TMMOB Yönetim Kurulu tarafından yapılacak çağrı ile Olağanüstü Genel Kurul yapılır. Bu Olağanüstü Genel Kurulda oda organlarına seçilenler ilk Olağan Genel Kurul toplantısına kadar görev yapar.

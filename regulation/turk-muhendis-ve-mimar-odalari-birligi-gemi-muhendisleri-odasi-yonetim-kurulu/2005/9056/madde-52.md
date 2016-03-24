@@ -1,0 +1,2 @@
+Yabancı uyruklu mühendis ve yüksek mühendislerin Türkiye’de çalışabilme esasları
+Madde 52 — Türkiye’de mesleklerini uygulamalarına kanunlar gereğince izin verilen yabancı uyruklu meslek mensupları, Gemi Mühendisleri Odasına geçici üye olarak kaydolur. Geçici üyelik, çalışma izin süreleri ile sınırlı olup, bu meslek mensupları hakkında 1/2/2005 tarihli ve 25714 sayılı Resmî Gazete’de yayımlanan TMMOB Yabancı Mühendis, Mimar ve Şehir Plancılarının Çalışma İznine Esas Değerlendirilmesi ve Geçici Üyelik Müracaatları Hakkında Yönetmelik hükümleri uygulanır.

@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.9056",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ GEMİ MÜHENDİSLERİ ODASI ANA YÖNETMELİĞİ",
+  "number": "9056",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Gemi Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-gemi-muhendisleri-odasi-yonetim-kurulu",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-gemi-muhendisleri-odasi-yonetim-kurulu/2005/9056",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9056&MevzuatTertip=5",
+  "source_sha256": "a0246fc6c24fd774c168191aeaae4a4e1d068f786101f4d974db7048e0263604",
+  "source_bytes": 97196,
+  "published": "2005-07-10",
+  "gazette": "25871",
+  "in_force": "2016-03-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/3/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-03-24",
+      "RG-24/3/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-03-25",
+      "RG-25/3/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, Resmî Gazete’de yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5757,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

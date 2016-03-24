@@ -1,0 +1,2 @@
+Oda genel kuruluna katılma
+Madde 16 — Oda Genel Kurulunda bulunmak, görüşmelere katılmak için, Oda Yönetim Kurulunca hazırlanıp, görevli hakim tarafından kesinleştirilmiş delege listelerinin imzalanması yoluyla alınan Genel Kurul giriş kartının gösterilmesi zorunludur. Görevli hakim denetiminde yapılan seçimler sırasında Oda kimlik kartı yerine, Resmi kuruluşlarca verilmiş kimlik kartları da kullanılabilir.
