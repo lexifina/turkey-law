@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21477",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MESLEKÎ YETERLİLİK KURUMU MESLEKÎ YETERLİLİK BELGESİ ZORUNLULUĞU GETİRİLEN MESLEKLERE İLİŞKİN TEBLİĞ (SIRA NO: 2016/1)",
+  "number": "21477",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "path": "teblig/2016/21477",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21477&MevzuatTertip=5",
+  "source_sha256": "5c4cecb38f87876df4a8697f77a13d976a470f98e44f3b3489a9944664daf559",
+  "source_bytes": 10881,
+  "published": "2016-03-24",
+  "gazette": "29663",
+  "in_force": "2016-03-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.03.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 247,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21477-EK.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
