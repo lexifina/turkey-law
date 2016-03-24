@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10556",
+  "decision_date": "2016-03-24",
+  "source_id": 17201,
+  "chamber": "1",
+  "ilam_number": "417",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17201/",
+  "source_sha256": "c635406087ef6c870ee0ffd6bb7b5caeb524a2e11a80753e1dc8f89e8b6f9b2a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
