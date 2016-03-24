@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6167",
+  "decision_date": "2016-03-24",
+  "title": "Enerya Ereğli Gaz Dağıtım A.Ş.’nin 2012-2016 tarife döneminde uygulayacak olduğu perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2016-03-31",
+  "resmi_gazete_number": "29670",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=o+AAjo11Eg8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=o+AAjo11Eg8="
+  ],
+  "source_sha256": "f0864ce0eb8da512a305882bbb46fa786549bdbae9cf9b192b6b23cbd61b14f0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-03-24",
+  "law_text_complete": true
+}
