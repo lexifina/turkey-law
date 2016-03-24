@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "90",
+  "decision_date": "2016-03-24",
+  "source_id": 17764,
+  "chamber": "7",
+  "ilam_number": "196",
+  "item_number": 6,
+  "public_body_type": "Diğer",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17764/",
+  "source_sha256": "00ab880ce4e11df9ff559323aa9d40a830ac7fa8c4821583bf8db6df7b359f0c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
