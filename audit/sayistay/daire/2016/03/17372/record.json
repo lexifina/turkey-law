@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10557",
+  "decision_date": "2016-03-24",
+  "source_id": 17372,
+  "chamber": "1",
+  "ilam_number": "160",
+  "item_number": 11,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17372/",
+  "source_sha256": "a1bb25c15c1e7b2f51fe34b7a709edd557919adb88e85baf9a25f79493eda196",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
