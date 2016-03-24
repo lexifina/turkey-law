@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "136",
+  "decision_date": "2016-03-24",
+  "source_id": 17634,
+  "chamber": "4",
+  "ilam_number": "166",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17634/",
+  "source_sha256": "2c89418f2dbea6367ac846e21f31451306531200ddf6bd98b915870644aefc67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
