@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2016/18",
+  "meeting_date": "2016-03-24",
+  "meeting_date_as_published": "24.3.2016",
+  "decision_no": "1",
+  "source_id": 7833,
+  "title": "RTÜK kararı 2016/18-1 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/7833",
+  "source_sha256": "1ccabfd6b674900cd494cff524d63208b57dcf369155571e341ecdf56a2bbaad",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (7 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
