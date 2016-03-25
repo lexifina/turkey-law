@@ -1,0 +1,9 @@
+Konaklama Faturasının Harcırah Beyannamesine Eklenmemesi.
+
+Belediye Başkanı ….'ın 24-28 Aralık 2013 tarihlerindeki geçici görevi nedeniyle almış olduğu harcırahı gösterir beyannamesinde konaklama ücreti tahakkuk edilip ödenmesine karşın eki belgelerde konaklama faturasının bulunmadığı görülmüştür.
+
+Mahalli İdareler Harcama Belgeleri Yönetmeliği’nin “Yurtiçi geçici görev yolluğu” başlıklı 19’uncu maddesinde; yurtiçi geçici görev yolluklarının ödenmesinde yatacak yer temini için ödenen ücretlere ilişkin faturanın ödeme belgesine ekleneceği hüküm altına alınmıştır. Ancak yapılan incelemede ödeme emri ekinde konaklama faturasının bulunmadığı tespit edilmiştir.
+
+Sorumlulardan Gerçekleştirme Görevlisi …. savunmasında; konaklama faturasının evraklar hazırlandığında olduğunu, ancak daha sonra konaklama faturasının sehven başka bir nedenden çıkarıldığının görüldüğünü, ….’ın 24-28/12/2013 tarihlerinde konaklama yaptığının otelden teyit edildiğini ve gerekli evrakın gönderilmesinin istendiğini belirtmişse de; Yönetmelikte açıkça yurtiçi geçici görev yolluklarının ödenmesinde yatacak yer temini için ödenen ücretlere ilişkin faturanın ödeme emri belgesine ekleneceği hüküm altına alınmıştır. Harcamalara ilişkin ispat edici belgelerin ödeme emri ekinde  bulunması gerekeceğinden savunmaların kabulü mümkün değildir.
+
+Bu itibarla,  …'ın geçici görevi nedeniyle düzenlemiş olduğu harcırah beyannamesinde konaklama ücreti tahakkuk edilip ödenmesine karşın eki belgelerde konaklama faturasının bulunmaması sonucu meydana gelen kamu zararı tutarı …. TL’nin Harcama Yetkilisi (Özel Kalem Müdürü) …. ile Gerçekleştirme Görevlisi (Memur) …’a müştereken ve müteselsilen 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faizleriyle ödettirilmesine oy birliğiyle karar verildi.
