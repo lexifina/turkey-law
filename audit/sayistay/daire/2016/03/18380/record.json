@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "322",
+  "decision_date": "2016-03-25",
+  "source_id": 18380,
+  "chamber": "6",
+  "ilam_number": "204",
+  "item_number": 32,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18380/",
+  "source_sha256": "71f69e912d20de9b5fc187b44dbbed830f525c6ceadbf63eaccba01b6e28df1c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
