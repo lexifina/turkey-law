@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "322",
+  "decision_date": "2016-03-25",
+  "source_id": 18358,
+  "chamber": "6",
+  "ilam_number": "204",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18358/",
+  "source_sha256": "be036f6255018c47c0674d884fa7a426f2488c4a85829198b4f55a8526fe5e09",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
