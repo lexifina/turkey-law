@@ -1,0 +1,23 @@
+Genel ilkeler
+MADDE 5 – (1) Finansmanı sağlanan sağlık hizmetleri; Kurum ile yurt içindeki ve/veya yurt dışındaki sağlık hizmeti sunucuları arasında yapılan sözleşmeler/protokoller yoluyla sağlanır.
+(2) Sözleşmeler/protokoller yoluyla satın alınacak sağlık hizmetleri, bu hizmetlerin 24/3/2013 tarihli ve 28597 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliğinde tanımlanan sağlık hizmeti sunucularının hangilerinden karşılanacağı ile sağlık hizmetlerinin satın alımına ilişkin kurallar Kurum tarafından belirlenir.
+(3) Kurum, sunulan sağlık hizmetleri karşılığında, SHS’lere ilgili mevzuat ile sözleşmelerde/protokollerde belirlenen usul ve esaslar doğrultusunda ödeme yapar.
+(4) Kurumca genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişiler ile sağlık hizmeti sunucularına, fazla veya yersiz olarak yapıldığı tespit edilen her türlü ödeme, ilgili mevzuata göre geri alınır.
+(5) Kurum, sağlık hizmetleri sunumunda gerekli gördüğü hallerde SHS tarafından sözleşme/protokol kapsamında sunulan hizmetlere ilişkin veri ve bilgiye ulaşma ve temin etme hakkına sahiptir. Genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin sağlık bilgilerinin gizliliği esastır.
+(6) Sözleşmelerin/protokollerin akdedilmesine ilişkin süreç ile bu aşamada ibraz edilmesi gereken belgeler Kurum tarafından belirlenir.
+(7) Sözleşmelerde/protokollerde, ceza koşulu ve/veya fesih gerektiren fiiller, fesih uygulama kriterleri ve sözleşme/protokol yapılmayacak sürelere yer verilebilir. (Danıştay Onbeşinci Dairesinin 27/11/2018 tarihli ve E.:2016/3732; K.:2018/7862 sayılı kararı ile iptal ikinci cümle; Danıştay İDDK’nın 17/1/2022 tarihli E.:2021/545, K.:2022/1 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.)
+(8) Sözleşmelerde/protokollerde ceza koşulu veya fesih uygulamasını gerektiren fiillerin 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu yönünden de suç oluşturması halinde ilgililer hakkında Cumhuriyet Savcılığına suç duyurusunda bulunulur.
+(9) Kurumca bu Yönetmelikte belirlenen koşulların gerçekleşmesi halinde ilgili mevzuata uygun şekilde sözleşmelerde/protokollerde değişiklik yapılabilir.
+(10) Sözleşmelerde/protokollerde SHS’nin, Kurumdan doğmuş ve doğacak alacaklarını devir ve temlik edemeyeceğine ilişkin hükümlere yer verilir.
+(11) Sözleşmelerde/protokollerde SHS’nin, kişilere ve Kuruma ait bilgilerin gizliliği ile ilgili yasal yükümlülüklere uyacağına ilişkin hükümlere yer verilir.
+(12) Sözleşmelerde/protokollerde, SHS’nin; sahip, unvan, ortak ve adres değişiklikleri ile devri halinde hak ve yükümlülüklerine ilişkin hükümlere yer verilebilir.
+(13) SHS’nin işletme hakkının devri, kiralama da dahil olmak üzere işletmenin devri gibi sonuç doğurur. Bu kapsamda devreden ile devralanın her türlü Kurum alacakları yönünden müşterek ve müteselsil sorumluluğu devam eder. Hem devredenin hem de devralanın Kurum alacakları tahsil edilmeden devralan SHS ile sözleşme/protokol yapılmaz.
+(14) Kurum tarafından sözleşmesi feshedilmiş SHS ile feshe neden olan fiillere bağlı olarak oluşan Kurum alacakları tahsil edilmeden ve fesih süresi tamamlanmadan yeni bir sözleşme yapılmaz.
+(15) Kurum tarafından sözleşmesi feshedilmiş SHS’nin devri halinde feshe neden olan Kurum alacakları tahsil edilmeden ve fesih süresi geçmeden devralan sağlık hizmeti sunucusu ile sözleşme yapılmaz. Sözleşme yapılmayan veya sözleşmesi feshedilen sağlık hizmeti sunucusunun muayene ve işlemlere ilişkin fatura bedelleri ödenmez.
+(16) Sözleşmelerde/protokollerde, mücbir sebeplerin varlığı halinde, ceza koşulu ve feshe ilişkin yaptırımların uygulanmayacağına ilişkin hükümlere yer verilebilir.
+(17) Sözleşmelerde/protokollerde, ek sözleşmelerin/ek protokollerin SHS’ler tarafından imzalanmaması durumunda, sözleşmelerin/protokollerin feshedileceğine ilişkin hükümlere yer verilebilir.
+(18) Kurum, sözleşme/protokol kapsamında her türlü inceleme ve denetim yapmaya ve buna ilişkin kurallar belirlemeye yetkilidir.
+(19) Kurum, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununa tabi sağlık hizmeti sunucuları tarafından yatan ve/veya günübirlik tedavi kapsamındaki hastalarda kullanılacak ve Kurumca belirlenecek olan tıbbi malzemeleri ve temini zorunlu ilaç ve/veya ilaç gruplarını, tıbbi malzeme tedarikçilerinden veya ecza depolarından temin etmek amacıyla sözleşme yapabilir, Kurum tarafından bu SHS’lere yapılan ödemeler, sağlık hizmeti sunucusunun Kurumdaki alacağından mahsup edilir.
+(20) 18/4/2014 tarihli ve 28976 sayılı Resmî Gazete’de yayımlanan Genel Sağlık Sigortası Uygulamaları Yönetmeliğinin, sözleşmelerin/protokollerin hazırlanması, akdedilmesi ve yürürlüğe konulmasına ilişkin hükümleri birlikte uygulanır.
+İKİNCİ BÖLÜM
+Sözleşmelerin/Protokollerin, Ek Sözleşmelerin/Ek Protokollerin Hazırlanması,
