@@ -1,0 +1,73 @@
+{
+  "source_id": "7.5.12403",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK SİLAHLI KUVVETLERİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "number": "12403",
+  "issuer": "Millî Savunma Bakanı ile İçişleri Bakanı",
+  "issuer_slug": "milli-savunma-bakani-ile-icisleri-bakani",
+  "path": "regulation/milli-savunma-bakani-ile-icisleri-bakani/2008/12403",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12403&MevzuatTertip=5",
+  "source_sha256": "2c08973a441bd19545748794a08abd3e5ca3ed9438c2da65dae920a42a8edb1e",
+  "source_bytes": 70755,
+  "published": "2008-09-06",
+  "gazette": "26989",
+  "in_force": "2016-03-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/3/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-03-27",
+      "RG-27/3/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-04-05",
+      "RG-5/4/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-04-05",
+      "5/4/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-03-18",
+      "RG-18/3/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-03-18",
+      "18/3/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-02-11",
+      "RG-11/2/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-02-11",
+      "11/2/2010",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "1989-10-30",
+      "30/10/1989",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2677,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

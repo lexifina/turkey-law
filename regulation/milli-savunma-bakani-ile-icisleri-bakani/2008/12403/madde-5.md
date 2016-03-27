@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Lisansüstü Eğitime İlişkin Hususlar
+Kuvvet nam ve hesabına lisansüstü eğitim
+MADDE 5 – (1) Kuvvet nam ve hesabına eğitim yaptırılacak kurumların seçiminde öncelik Türk Silahlı Kuvvetleri bünyesindeki enstitülere verilir.
+(2) (Ek:RG-27/3/2016-29666) (1) Bilimsel hazırlık ve yabancı dil hazırlık süresi hariç olmak üzere; kuvvet nam ve hesabına yüksek lisans eğitimi en fazla altı yarıyıl olmak üzere üç yılda, doktora eğitimi en fazla on iki yarıyıl olmak üzere altı yılda, doktora eğitimine lisans derecesi ile kabul edilenler için ise en fazla on sekiz yarıyıl olmak üzere dokuz yılda tamamlanır. Belirtilen azamî sürelerin ne kadarının nasıl kullanılacağı hususu Kuvvet Komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından çıkarılacak yönergelerle düzenlenir. Tahsis edilen süreler içerisinde eğitimini tamamlayamayan personele 926 sayılı Kanunun 36 ncı maddesinin birinci fıkrasının (b) bendi hükümleri uygulanır.
+(3) Personelin hangi hizmet yılları arasında kuvvet nam ve hesabına lisansüstü eğitime gönderileceği ve bu kapsamda müracaat edebileceği yıllar kuvvet komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından belirlenir.

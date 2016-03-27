@@ -1,0 +1,3 @@
+Kendi nam ve hesabına lisansüstü eğitim
+MADDE 9 – (1) (Değişik:RG-27/3/2016-29666) Kendi nam ve hesabına yurt dışında veya yurt içinde lisansüstü eğitime iştirak edecek subay ve astsubaylar eğitime kabul edilmesinden itibaren iki ay içinde ilgili kuvvet komutanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığına, Türk Silahlı Kuvvetleri personelinin lisansüstü eğitim durumunun takip edilebilmesi amacıyla bilgi verir.
+(2) Kendi nam ve hesabına yurt içinde lisansüstü eğitime iştirak eden personele, talebi üzerine öğretim programının özelliğine göre ve programın safhaları dikkate alınarak ihtiyaç duyulan sürelerde yıllık iznine mahsuben izin verilebilir.
