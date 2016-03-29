@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "92",
+  "decision_date": "2016-03-29",
+  "source_id": 17860,
+  "chamber": "7",
+  "ilam_number": "209",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17860/",
+  "source_sha256": "2495f5efef0031cbc2a7a19f07e2610db46e8512f34c2495f9adcb81b2e47c37",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
