@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41740",
+  "decision_date": "2016-03-29",
+  "source_id": 11731,
+  "chamber": "5",
+  "file_number": "39745",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2011",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11731/",
+  "source_sha256": "e2364e2c36f9747163177bc9fd0cea2aeec1acbd652eaaa506f4d8857b4ba80e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
