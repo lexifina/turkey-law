@@ -1,0 +1,11 @@
+Yapım İşinde işin kısmen alt yükleniciye yaptırılması
+
+... İnşaat yüklenimindeki ...Caddeleri Kaldırım Düzenlemesi İşinde ihale mevzuatına ve ihale dokümanına aykırı olarak işin tamamının alt yükleniciye yaptırılmasının “izinsiz sözleşme devri” hükmünde olduğundan bahisle teminatların gelir kaydedilmemesi suretiyle kamu zararına neden olunması iddia edilmiş ise de;
+
+Yapım İşleri Genel Şartnamesi’nin 20’nci maddesinde,“İşin tamamı hiçbir suretle alt yükleniciler marifetiyle yaptırılamaz.”, İşe ait İdari Şartnamenin 18’inci maddesinde,“İhale konusu işte idarenin onayı ile alt yüklenici çalıştırılabilir. Ancak işin tamamı alt yüklenicilere yaptırılamaz. İstekliler, ihale konusu yapım işinde alt yüklenicilere yaptırmayı düşündükleri işlere ait listeyi teklif ekinde vereceklerdir. İhalenin bu şekilde teklif veren istekli üzerinde kalması durumunda isteklinin işe ait sözleşme imzalanmadan önce alt yüklenicilerin listesini İdarenin onayına sunması gerekir. Bu durumda alt yüklenicilerin yaptıkları işlerle ilgili sorumluluğu yüklenicinin sorumluluğunu ortadan kaldırmaz.”Sözleşmenin15.2’nci maddesinde ise,“İşin tamamı alt yüklenicilere yaptırılamaz. Alt yüklenicilerin yaptıkları işlerle ilgili sorumluluğu yüklenicinin sorumluluğunu ortadan kaldırmaz.” denilmekte olup, işin tamamının alt yüklenicilere yaptırılması yasaklanmıştır.
+
+	Savunmalar doğrultusunda; belirtilen iş kapsamında teklif mektubunda belirtilen 13 kalem işten 12’sinin ve sözleşme bedelinin %95’inin alt yükleniciye yaptırıldığı anlaşılmıştır. Yukarıda yer verildiği üzere; Yapım İşleri Genel Şartname’sinde ve sözleşmede işin alt yükleniciye yaptırılması yasağı ile ilgili olarak herhangi bir oran zikredilmemiştir. Bu bağlamda, işin tamamının alt yükleniciye yaptırılamayacağı hükmünün “tamamına yakını” veya “belli bir oranı” şeklinde değerlendirilmesi mümkün değildir.
+
+	Diğer taraftan, sözleşme devri durumunda sözleşmenin tarafları değiştiği için işin alt yükleniciye yaptırılması, işin izinsiz devri olarak nitelendirilemez. Bu nedenle “izinsiz sözleşme devri” hükümlerine dayanarak teminatın gelir kaydedilmesi de kamu zararı olarak nitelendirilemez.
+
+            Bu itibarla, ... İnşaat yüklenimindeki ...Kaldırım Düzenlemesi İşinin kısmen alt yükleniciye yaptırılması konusunda ilişilecek husus bulunmadığına oy birliğiyle karar verilmiştir.
