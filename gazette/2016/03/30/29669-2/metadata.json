@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-03-30",
+  "issue": "29669",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu Bilim Kurulu Çalışma Usul ve Esaslarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/03/20160330-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/03/20160330.htm",
+  "index_sha256": "949e33771f77a146eae13a26337b861dd491b516bc39b36e033c780061ee4dd2",
+  "index_header": "30 Mart 2016 ... 29669 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/03/20160330.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
