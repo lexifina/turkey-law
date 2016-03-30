@@ -1,0 +1,28 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6193",
+  "decision_date": "2016-03-30",
+  "title": "Dağıtım Sistemi Sistem Kullanım Anlaşması, Tüketiciler İçin Dağıtım Sistemine Bağlantı Anlaşması, Üretim Faaliyeti Gösteren Tüzel Kişiler İçin Dağıtım Sistemine Bağlantı Anlaşmasına İlişkin",
+  "resmi_gazete_date": "2016-04-16",
+  "resmi_gazete_number": "29686",
+  "categories": [
+    "Bağlantı ve Sistem Kullanım Anlaşmalarına İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q3hbGSiJ3oI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q3hbGSiJ3oI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wlY8sSFlTFQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+GJulJbcjFw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7N4O3T9ns7I="
+  ],
+  "source_sha256": "f2800f2b68f914725a32a03db4eee5838aac49e2288922d9cbf5d8204f519621",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33866,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-03-30",
+  "law_text_complete": false
+}
