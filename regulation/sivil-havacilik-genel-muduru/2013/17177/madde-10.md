@@ -1,0 +1,2 @@
+Tanıtma kartı
+MADDE 10 – (1) Bu Yönetmelik esaslarına göre görevlendirilen teknik denetçilere, ICAO tarafından yayınlanan kolaylıklar başlıklı Ek-9’da belirtilen tanıtma kartı verilir. Tanıtma kartına sahip teknik denetçiler; sivil havacılık kurum, kuruluş ve havacılık faaliyetlerini ilgilendiren yerlerde bu Yönetmelikle belirlenen her türlü denetleme ve incelemeyi yapmaya ve denetim faaliyetleri kapsamındaki yerlere girişe yetkilidirler.
