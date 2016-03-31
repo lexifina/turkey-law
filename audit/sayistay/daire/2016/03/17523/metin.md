@@ -1,0 +1,3 @@
+“…………. Özel İmalat Mobilya ve Dekorasyon Malzemeleri ve Mutfak Ekipmanları Alımı” işinde ihale üzerinde bırakılan isteklinin süresi içerisinde sözleşme imzalamamasına rağmen geçici teminatın gelir kaydedilmemesi.
+
+İdari Mali İşler Daire Başkanlığı tarafından gerçekleştirilen "……….. Özel İmalat Mobilya ve Dekorasyon Malzemeleri ve Mutfak Ekipmanları Alımı" işinde ihale üzerinde bırakılan istekli ……………… Şti. ile yapılan sözleşmenin taraflarca zamanında imzalanmamasına rağmen geçici teminatın gelir kaydedilmemesi hususunda, savunma ekinde gönderilen belgelerden sözleşmenin süresi içinde imzalandığı anlaşıldığından konu hakkında ilişik bulunmadığına oybirliğiyle,
