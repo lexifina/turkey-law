@@ -1,0 +1,5 @@
+Azami risk ağırlıklı tutar
+MADDE 22 - (1) 20 nci maddenin birinci fıkrasında belirtilen sermaye gereksinimine tâbi olan bir menkul kıymetleştirme kurucusu banka için, yatırımcıların payındaki pozisyonlarıyla ilgili risk ağırlıklı tutarlar ile aynı fıkraya göre hesaplanan risk ağırlıklı tutarların toplamı, aşağıda (a) ve (b) bentlerinde belirtilen tutarlardan büyük olanını aşması halinde aşım tutarı bu toplam tutardan düşülür:
+a) Menkul kıymetleştirme kurucusu bankanın yatırımcıların payındaki pozisyonlarıyla ilgili olarak hesaplanan risk ağırlıklı tutarlar,
+b) Menkul kıymetleştirmeye konu varlıkları elinde bulunduran bir banka tarafından menkul kıymetleştirmeye konu varlıklar ile ilgili olarak bu varlıklar, yatırımcıların payına eşit bir tutarda menkul kıymetleştirilmemiş gibi kabul edilerek hesaplanacak olan risk ağırlıklı tutarlar.
+(2) Bankaların Özkaynaklarına İlişkin Yönetmelik uyarınca özkaynaklardan indirilen menkul kıymetleştirme işlemlerinden kaynaklanan kazanç tutarları birinci fıkranın (a) ve (b) bentlerinde belirtilen tutarlardan düşülür ve bentler bu yeni değerleri ile birinci fıkradaki uygulamaya konu edilir.

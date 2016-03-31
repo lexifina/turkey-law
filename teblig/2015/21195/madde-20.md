@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Erken İtfa Hükmü İçerecek Şekilde Menkul Kıymetleştirilen Rotatif Kredilere İlişkin Esaslar
+Genel esaslar
+MADDE 20 - (1) Rotatif kredilerin erken itfa hükmü içerecek şekilde menkul kıymetleştirilmesi durumunda, menkul kıymetleştirme kurucusu banka bu madde ve 21 ila 23 üncü maddeler çerçevesinde risk ağırlıklı tutar hesaplar.
+(2) Menkul kıymetleştirme kurucusu bankalar, menkul kıymetleştirmeye konu varlıkların rotatif olan ve olmayan kredilerden oluştuğu menkul kıymetleştirme yapıları için, ilgili varlık havuzunun rotatif kredileri içeren kısmını üçüncü ve dördüncü fıkralarda ve 21 ila 23 üncü maddelerinde belirtilen uygulamaya tabi tutar.
+(3) Bu madde, 21 ila 23 üncü maddelerin uygulanmasında, menkul kıymetleştirme kurucusu bankanın payı, menkul kıymetleştirmeye konu edilen havuzdaki kullandırılmış kredilerin, yatırımcılara yapılması gereken ödemeler için kullanılamayacak olan anapara ve faiz tahsilatları ile diğer nakit akışlarından oluşan kısmının risk tutarıdır. Bu uygulama için, menkul kıymetleştirme kurucusu bankanın payının, yatırımcıların paylarına göre ikinci sırada olmaması gerekir. Yatırımcıların payı, kullandırılmış kredilerden oluşan varlık havuzunun geri kalan kısmıdır.
+(4) Menkul kıymetleştirme kurucusu bankanın kendi payına düşen risk tutarına ilişkin risk ağırlıklı varlık tutarı, söz konusu menkul kıymetleştirmeye konu edilen risklerin menkul kıymetleştirilmemiş olması halinde banka payına düşen oran esas alınarak hesaplanır.

@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.21195",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MENKUL KIYMETLEŞTİRMEYE İLİŞKİN RİSK AĞIRLIKLI TUTARLARIN HESAPLANMASI HAKKINDA TEBLİĞ",
+  "number": "21195",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "path": "teblig/2015/21195",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21195&MevzuatTertip=5",
+  "source_sha256": "8b1a5e71d5fb2d294cf3aaeb67985a980c0c088d98f32b8b5fcffa94f7ad69ec",
+  "source_bytes": 137437,
+  "published": "2015-10-23",
+  "gazette": "29511",
+  "in_force": "2016-03-31",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 31/3/2016 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 31/3/2016 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6551,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

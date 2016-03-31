@@ -1,0 +1,8 @@
+Kredi derecelendirmelerinin kullanımı
+MADDE 13 - (1) Bankalar risk ağırlıklı tutar hesaplanmasında kullanılacak derecelendirmeler için birden fazla yetkili KDK tayin edebilir.
+(2) Tayin edilen KDK’larca yapılan kredi derecelendirmeleri menkul kıymetleştirme pozisyonları için seçici olmayarak tutarlı bir şekilde aşağıda yer alan koşullara uygun olarak kullanılır:
+a) Bankalar aynı menkul kıymetleştirme yapısı içinde yer alan her bir dilim için farklı KDK’ların yaptığı kredi derecelendirmelerini kullanamaz. Bütün dilimler için sadece tek bir KDK’nın yaptığı derecelendirmeleri kullanılabilir.
+b) Bir pozisyon için, tayin edilmiş KDK’lar tarafından yapılan iki farklı kredi derecelendirmesi bulunması halinde, yüksek risk ağırlığı doğuran derecelendirme esas alınır.
+c) Bir pozisyon için, tayin edilmiş KDK’lar tarafından yapılan ikiden fazla farklı kredi derecelendirmesi bulunması halinde, en düşük risk ağırlığını doğuran iki derecelendirmeden yüksek risk ağırlığını doğuran esas alınır.
+ç) Banka, daha az tercih edilebilecek kredi derecelendirmelerinin geri çekilmesini talep edemez.
+(3) Kredi Riski Azaltım Tekniklerine İlişkin Tebliğ kapsamında dikkate alınabilecek nitelikte bir kredi korumasının doğrudan doğruya ÖMKŞ’ye sağlanması ve bu kredi korumasının kredi derecelendirmesi yapılırken dikkate alınması halinde, bu derecelendirmeler menkul kıymetleştirme pozisyonlarına ilişkin risk ağırlıklarının belirlenmesinde kullanılabilir. Korumanın ÖMKŞ yerine doğrudan menkul kıymetleştirme pozisyonuna sağlanması durumunda, kredi derecelendirmesi risk ağırlıklarının belirlenmesinde kullanılamaz. Garantiyi veren taraf Kredi Riski Azaltım Tekniklerine İlişkin Tebliğ kapsamında yetkili değilse korunan menkul kıymetleştirme pozisyonu derecelendirilmemiş kabul edilir.
