@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "12742",
+  "decision_date": "2016-03-31",
+  "source_id": 17493,
+  "chamber": "6",
+  "ilam_number": "197",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2010,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17493/",
+  "source_sha256": "a16f15acd0142e97f3d8dfe800802688b58600b27d7385c1477ddce7a7c16968",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
