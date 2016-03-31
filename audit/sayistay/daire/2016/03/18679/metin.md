@@ -1,0 +1,3 @@
+İdari Mali İşler Daire Başkanlığı tarafından gerçekleştirilen "……….. Alım" işinde ihale üzerinde bırakılan isteklinin süresi içerisinde sözleşme imzalamamasına rağmen geçiçi teminatın gelir kaydedilmemesi.
+
+İdari Mali İşler Daire Başkanlığı tarafından gerçekleştirilen "…….. Alım" işinde ihale üzerinde bırakılan istekli ……….. Şti. ile yapılan sözleşmenin taraflarca zamanında imzalanmamasına rağmen geçici teminatın gelir kaydedilmediği görülmüşse de, istekli firmanın 4734 sayılı Kamu İhale Kanununun “Sözleşme yapılmasında isteklinin görev ve sorumluluğu” başlıklı 44 üncü maddesi hükmüne uygun olarak yükümlülüklerini yerine getirdiği anlaşıldığından konu hakkında ilişik bulunmadığına oybirliğiyle,
