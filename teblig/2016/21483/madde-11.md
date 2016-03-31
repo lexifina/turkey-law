@@ -1,0 +1,2 @@
+Ödemelere ilişkin esaslar
+MADDE 11 – (1) Ödemeler T.C. Ziraat Bankası A.Ş. tarafından yapılır. Bakanlık kendisine intikal eden EK-5’te yer alan ÇATAK Programı Ödeme İcmali kapsamında Bankaya ödeme talimatı ve elektronik ortamda icmalleri gönderir. Tüm ödemeler, gerekli kaynakların Bakanlık tarafından Bankaya aktarılmasından sonra EK-5’teki ÇATAK programı ödeme icmallerine göre ilgili Banka şubesindeki üreticilerin hesabına aktarılır.

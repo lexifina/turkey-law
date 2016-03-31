@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan mevzuatın uygulanması
+GEÇİCİ MADDE 1 – (1) Çevre Amaçlı Tarım Arazilerini Koruma Programını Tercih Eden Üreticilerin Desteklenmesine Dair Kararın Uygulanmasına İlişkin Tebliğ (Tebliğ No: 2011/24) hükümlerine dayanarak, karşılıklı hibe sözleşmesi imzalamış üreticiler, hibe sözleşmesi hükümlerine göre uygulamalarına devam ederler. Bu üreticilerin ikinci veya üçüncü yıl destekleme ödemeleri, daha önce imzalanmış olan hibe sözleşmesi hükümlerine göre devam ettirilir.

@@ -1,0 +1,20 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+b) Banka: Türkiye Cumhuriyeti Ziraat Bankası Anonim Şirketini,
+c) Başvuruya esas arazi kontrol tutanağı: Başvuru aşamasında mahallinde yapılan kontrol sonucu, üretici ve arazi bilgilerinin doğruluğunu gösteren EK-2/a ve EK-2/b’ye uygun hazırlanmış belgeyi,
+ç) ÇATAK programı: Çevre Amaçlı Tarım Arazilerini Koruma Programını,
+d) ÇKS belgesi: Çiftçi Kayıt Sistemi belgesini,
+e) Çiftçi Kayıt Sistemi (ÇKS): 27/5/2014 tarihli ve 29012 sayılı Resmî Gazete’de yayımlanan Çiftçi Kayıt Sistemi Yönetmeliği ile Bakanlık tarafından oluşturulan çiftçilerin kayıt altına alındığı tarımsal veri tabanını,
+f) Desteklemeye esas arazi kontrol tutanağı: Mahallinde yapılan kontrol sonucu, desteklemeye esas ÇATAK programı uygulamalarının doğruluğunu ve gerçekleşmeyi gösteren EK-4’e uygun hazırlanmış belgeyi,
+g) Genel Müdürlük: Bitkisel Üretim Genel Müdürlüğünü,
+ğ) Hassas bölge: Mevcut yapısal dengede, çeşitli nedenlerle toprak yapısının ve su kalitesinin değiştiği gözlenen ve tedbir alınmadığı takdirde yakın gelecekte çevre açısından olumsuz etkilere sahip olabilecek bölgeleri,
+h) Hibe sözleşmesi: ÇATAK programı kapsamında üreticinin hangi kategori uygulamalarını ne kadar sürede yapacağına dair taahhüdü içeren ve üretici ile il/ilçe müdürlüğü arasında imzalanan EK-3’e uygun olarak hazırlanan sözleşmeyi,
+ı) İl/ilçe müdürlüğü: Gıda, Tarım ve Hayvancılık Bakanlığı il/ilçe müdürlüğünü,
+i) İl/ilçe ÇATAK uygulama birimi: Bakanlık il/ilçe müdürlüklerinde görevli en az üç teknik personelden oluşan birimi,
+j) İl ÇATAK uygulama komisyonu: Bakanlık il müdürü başkanlığında, sorumlu il müdür yardımcısı, şube müdürü ve ilgili ilçe müdürü/müdürleri ile birlikte programda görevlendirilen en az iki ziraat mühendisinin katılımı ve mülki amirin onayı ile oluşturulan komisyonu,
+k) Minimum işlemeli tarım: Çevreye duyarlı üretimin yapılması amacıyla toprak ve su kalitesinin arttırılması için anıza doğrudan ekim yapılmasını sağlayan minimum veya sıfır toprak işlemesinin yapıldığı tarımsal üretim faaliyetlerini,
+l) Ödeme icmali: Ödemeye esas bilgilerin gösterildiği EK-5’e uygun olarak hazırlanmış listeyi,
+m) Ön başvuru formu: ÇATAK programına başvuracaklardan, müracaatta istenilen EK-1’e uygun hazırlanan belgeyi,
+n) Üretici: Hassas bölgelerde, tarımsal üretim kaynaklarını fiilen kullanarak her türlü bitkisel üretim ile iştigal edip, üretimlerini bu Tebliğ kapsamında şekillendirecek ve bunun için yapılacak desteklemelerden yararlanacak olan kamu tüzel kişileri hariç, gerçek veya tüzel kişileri,
+ifade eder.

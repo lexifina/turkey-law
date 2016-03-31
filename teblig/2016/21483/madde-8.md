@@ -1,0 +1,8 @@
+Destekleme kategorileri
+MADDE 8 – (1) Üreticilere yapılacak destekleme üç kategoride uygulanır. İl ÇATAK uygulama komisyonu tarafından ilan edilen ve hassas bölge içerisinde bulunan uygulama alanında, ilk defa uygulanmak koşuluyla aşağıdaki kategorileri üç yıl süresince gerçekleştirenler desteklenir. Destekleme ödemeleri dekar başına yılda bir defa olmak üzere üç yıl süre ile yapılır.
+a) Birinci kategori: Tek yıllık bitkilerin üretildiği alanda minimum işlemeli tarımın yapılması.
+b) İkinci kategori: Toprak ve su yapısının korunması ile erozyonun önlenmesi amacıyla; setleme, teraslama, canlı veya cansız perdeleme, taş toplama, açık drenaj uygulaması, jips uygulaması, kükürt veya kireç uygulaması, malçlama, ahır veya çiftlik gübresi ile gübreleme, yeşil gübreleme, aşırı otlatmanın engellenmesi, çok yıllık buğdaygiller veya yonca hariç çok yıllık baklagiller ile alanı kaplama gibi tedbirlerden her yıl en az iki uygulamanın yapılması veya bu tedbirlerin en az biriyle birlikte arazinin boş bırakılması uygulaması.
+c) Üçüncü kategori: Çevre dostu tarım teknikleri ve kültürel uygulamalardan oluşan ve aşağıda belirtildiği şekilde gruplandırılan uygulamalardan birisinin tatbik edilmesi:
+1) Tarımsal girdilerin çevreye duyarlı bir şekilde kullanımını sağlamak üzere; su tüketimini asgariye indirecek uygun basınçlı sulama sistemleri ile birlikte entegre ürün yönetimi genel prensiplerinde gübre ve bitki koruma ürünlerinin kullanılması.
+2) Organik tarım veya iyi tarım uygulamalarının, bu kategori veya diğer kategorilerde yer alan tedbirlerden en az biri ile birlikte uygulanması.
+3) Kapalı drenaj sisteminin, bu kategori veya diğer kategorilerde yer alan tedbirlerden en az biri ile birlikte uygulanması.
