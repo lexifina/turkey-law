@@ -1,0 +1,4 @@
+Mevcut bayi ve başbayilerin durumu
+GEÇİCİ MADDE 2 – (1) İdare ile gerçek ve tüzel kişiler arasında imzalanmış olan başbayilik ve bayilik sözleşmeleri, faaliyete geçiş tarihi itibariyle hiçbir işleme gerek kalmaksızın feshedilmiş sayılır.
+(2) İdarenin mevcut bayilerinden lisans sahibince hazırlanan sözleşme hükümleri çerçevesinde faaliyetlerine devam etmek isteyenlere, lisans sahibince belirlenen kriterleri haiz olmaları ve lisans sözleşmesinin imzalandığı tarihi takip eden doksan gün içinde lisans sahibine yazılı olarak başvuruda bulunmaları koşuluyla, bayilik verilmesinde öncelik tanınır.
+(3) (Ek: RG-25/10/2013-28802) İkinci fıkra hükmü uyarınca lisans sahibi ile sözleşme imzalayan İdarenin mevcut bayileri hakkında, aynı işyerinde faaliyette bulunmaya devam etmeleri koşuluyla, faaliyete geçiş tarihinden itibaren üç yıl süreyle bu Yönetmeliğin 26 ncı maddesinin beşinci fıkrası hükmü uygulanmaz.

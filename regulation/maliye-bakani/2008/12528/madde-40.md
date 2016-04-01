@@ -1,0 +1,6 @@
+İsim, marka ve diğer bilgiler üzerindeki haklar
+MADDE 40 – (1) İdare tarafından kullanılan isim, marka ve benzerleri lisans sözleşmesi süresince İdarenin önceden onayının alınması kaydıyla lisans sahibi tarafından kullanılabilir.
+(2) Lisans sahibi, lisansa konu şans oyunları için geliştirdiği yeni isim, marka ve benzerlerini Yönetim Kurulunun onayı ile kullanabilir.
+(3) İsim, marka ve benzerleri şartnameler veya lisans sözleşmesinde belirlenen esas ve usullere göre kullanılır.
+(4) Lisans sahibinin lisansını aldığı şans oyunları ile ilgili olarak Türkiye'deki faaliyetleri için özel olarak geliştirdiği oyun ismi, marka ve benzeri haklar idareye ait olup lisans sahibi bunlardan tescile kabil olanları kullanmaya başlamadan önce İdare adına tescil ettirmek için ilgili kurum ve kuruluşlar nezdinde yazılı olarak girişimde bulunur. Lisans sahibi İdare adına tescil ettirdiği oyun ismi, marka ve benzerlerini lisans sözleşmesi süresince kullanma yetkisine sahiptir.
+(5) Lisans sahibinin, lisansa konu faaliyetlerle ilgili olarak lisans süresince oluşturduğu ve/veya elde ettiği tüm hesap, kayıt ve işlemlere ait veri, bilgi ve belgeler ile bunların tutulduğu kartuş, disk, disket, manyetik teyp, mikrofilm, mikrofış ve benzeri ortamın mülkiyeti, yazılıma ilişkin fikri mülkiyet hakları saklı olmak üzere İdareye aittir.

@@ -1,0 +1,4 @@
+İştirakçi bilgilerinin mahremiyeti ve talihli isimlerinin açıklanmaması
+MADDE 37 – (1) Lisans sahibi, lisansa konu şans oyunları faaliyetlerinin ifası sırasında edindiği veya sakladığı iştirakçi bilgilerinin mahremiyetini sağlamakla ve buna yönelik tedbirleri almakla yükümlüdür.
+(2) Lisans sahibi ile lisans sahibine operatörlük ve destek hizmeti verenler, birinci fıkra kapsamındaki iştirakçi bilgilerini, yasalarla açıkça yetkili kılınan merciler dışındaki taraflarla, ancak sınırları açıkça belirtilmek ve iştirakçilerin yazılı rızaları alınmak kaydıyla paylaşabilirler. İştirakçilere bilgilerini söz konusu taraflarla paylaşıp paylaşmama konusunda seçenek sunulur ve iştirakçi böyle bir seçeneğin bulunduğu konusunda bilgilendirilir.
+(3) Talihlilerin açık ve yazılı izinleri olmaksızın kimlikleri açıklanamaz, haber olarak kullanılamaz, ses ve/veya görüntüleri yayımlanamaz, reklâm ve tanıtım faaliyetlerinde kullanılamaz.

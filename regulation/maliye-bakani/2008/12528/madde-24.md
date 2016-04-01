@@ -1,0 +1,4 @@
+İşlemlerin, kayıtların ve verilerin bütünlüğü
+MADDE 24 – (1) Lisans sahibi, şans oyunları sistemi üzerinden gerçekleşen işlemlerin, kayıtların ve verilerin bütünlüğünün sağlanmasına yönelik gerekli tedbirleri alarak bunların doğruluğunu, tamlığını ve güvenilirliğini temin etmekle, bütünlüğü sağlamaya yönelik tedbirleri verinin iletimi, işlenmesi ve saklanması aşamalarının tamamını kapsayacak şekilde tesis etmekle yükümlüdür.
+(2) İşlemlerin doğruluğu ve güvenilirliği asgari olarak, yapılmak istenen işleme ait anahtar öneme sahip bilgilerin işlemin başlangıcından tamamlanışına kadar doğruluğunu yitirmemesini ve yapılmak istenen işlemin kendinden beklenen sonucu yerine getirmesini; tamlığı ise asgari olarak bütün işlemlerin hata üretmeden gerçekleşmesini ve mükerrer olmamasını gerektirir.
+(3) Lisans sahibi, işlemlerde ve kayıtlarda meydana gelebilecek olası bozulmaları saptayacak güncel teknikleri kullanmakla yükümlüdür.

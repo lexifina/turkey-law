@@ -1,0 +1,3 @@
+Fesih hâlinde şans oyunları sisteminin kullanım hakkı
+MADDE 21 – (Başlığı ile birlikte değişik:RG-1/4/2016-29671)
+(1) Lisans sözleşmesinin bu Yönetmelik veya lisans sözleşmesinde sayılan nedenlerle feshi hâlinde; oyunların sürekliliğinin sağlanması amacıyla merkezi oyun sistemi, iletişim ağı, terminaller, donanımlar ve lisans sahibi tarafından temin edilen veya geliştirilen yazılımlar, oynatılan oyunlar dâhil bütün bileşenleriyle şans oyunları sisteminin tamamının işletim ve kullanım hakları İdareye geçer. Lisans sahibi, kalan lisans süresi ile sınırlı olmak üzere yeni lisans sahibinin faaliyete geçiş tarihine kadar bu hakların kullanılmasını engelleyemez. Lisans sahibi bu hakların kullanılması karşılığında İdareden herhangi bir bedel veya hak talebinde bulunamaz.
