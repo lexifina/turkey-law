@@ -1,0 +1,24 @@
+{
+  "number": "meeting-04-04-8",
+  "number_as_published": "meeting-04-04-8",
+  "year": 2016,
+  "title": "http://www.catalca.bel.tr/uploads/files/22.pdf",
+  "decision_date": "2016-04-04",
+  "source": "https://www.catalca.bel.tr/belgeler/meclis-kararlari",
+  "official_document": "https://www.catalca.bel.tr/images/documents/26717312012554731582.pdf",
+  "source_sha256": "94d6849fd69d78cb0826d3a4219ac083643d1f0ee6a159be9fb606e6a3a0d46f",
+  "issuer": "Çatalca Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2016-04-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.04.2016 (date line of the official list, 04.04.2016 - 00:00); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_section": "2016 Nisan",
+  "listing_date_line": "04.04.2016 - 00:00",
+  "record_scope": "one official decision PDF; the official list gives no decision number"
+}
