@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-39/ 2016-1 / Yatırım İndirimi - 28",
+  "source_id": 872,
+  "date": "2016-04-05",
+  "title": "Geçici Vergi Dönemlerinde Yeniden Değerleme Oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/872",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "2c0538f7fb7924156ed0c28c76ab9e102be253c732e337e58caaf165cc214ccd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
