@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-04-05",
+  "issue": "29675",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARLARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 31/03/2016 Tarihli ve 6817 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160405-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160405.htm",
+  "index_sha256": "b61540b36797b4bbaafd5e22d9101da3c33d2dca581b694975ca45217f470162",
+  "index_header": "5 Nisan 2016 ... 29675 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160405.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
