@@ -1,0 +1,3 @@
+Mobil elektronik haberleşme işletmecileri tarafından faturalı hat abonelerine verilen internet erişim hizmetlerinde ÖİV uygulaması
+MADDE 5 – (1) Mobil elektronik haberleşme işletmecilerince faturalı hat abonelerine verilen internet erişim hizmet bedelleri üzerinden % 5 oranında ÖİV hesaplanır.
+(2) Mobil elektronik haberleşme işletmecileri tarafından internet erişim hizmetleri ile diğer haberleşme hizmetlerinin birlikte verilmesi halinde her bir hizmet türüne tabi olduğu oranın uygulanabilmesi için hizmetlerin teknik olarak ayrıştırılması ve faturalarda her bir hizmet türünün ayrıca gösterilmesi gerekmektedir.

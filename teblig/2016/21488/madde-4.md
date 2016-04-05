@@ -1,0 +1,2 @@
+MADDE 4 – (1) Kablolu ve kablosuz internet servis sağlayıcılığı hizmeti sunan işletmeciler tarafından verilen internet erişim hizmetlerinde % 5 oranında ÖİV uygulanır.
+(2) İnternet servis sağlayıcılığı hizmeti, kullanıcılara internet şebekesi üzerinden sunulan internet erişim hizmeti olarak tanımlanmaktadır. İnternet servis sağlayıcılığı hizmeti vermek üzere yetkilendirilen işletmecilere verilen internet erişim hizmeti de bu kapsamda olduğundan % 5 oranında ÖİV’ye tabidir.
