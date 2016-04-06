@@ -1,0 +1,89 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 826813,
+  "assembly": "TBMM",
+  "term": 26,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Görüşülen Teklifler",
+  "title": "TBMM fihrist kaydı 826813 (Teklifler / Görüşülen Teklifler)",
+  "first_sitting_date": "2016-04-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 68,
+      "sitting_date": "2016-04-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c014/tbmm26014068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c014/tbmm26014fih.pdf",
+      "pages": [
+        "301:303",
+        "308:319",
+        "320:330"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 14,
+      "sitting": 69,
+      "sitting_date": "2016-04-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c014/tbmm26014069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c014/tbmm26014fih.pdf",
+      "pages": [
+        "421:458"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 14,
+      "sitting": 71,
+      "sitting_date": "2016-04-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c014/tbmm26014071.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c014/tbmm26014fih.pdf",
+      "pages": [
+        "722:780"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 14,
+      "sitting": 72,
+      "sitting_date": "2016-04-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c014/tbmm26014072.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c014/tbmm26014fih.pdf",
+      "pages": [
+        "876:912",
+        "915:938"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 15,
+      "sitting": 73,
+      "sitting_date": "2016-04-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c015/tbmm26015073.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c015/tbmm26015fih.pdf",
+      "pages": [
+        "74:107",
+        "115:135",
+        "136:139",
+        "140:152"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "93077149c1609d0c4b55723509157259180b7183bf4a2a9b3f271cd2f99ac69c",
+  "in_force": "2016-04-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
