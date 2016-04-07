@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "162",
+  "decision_date": "2016-04-07",
+  "source_id": 17837,
+  "chamber": "5",
+  "ilam_number": "183",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17837/",
+  "source_sha256": "42f9af993768d27a347b964669a02a5bf0d277583af4910b29e14f0b971ef29c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
