@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6202",
+  "decision_date": "2016-04-07",
+  "title": "Enerya Kapadokya Gaz Dağıtım Anonim Şirketi’nin 2012-2016 tarife döneminde uygulayacak olduğu perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2016-04-09",
+  "resmi_gazete_number": "29679",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NzlN3Zd6Kec=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NzlN3Zd6Kec="
+  ],
+  "source_sha256": "8434bdb95eccf5ce219b3e880b319a61019073958982fc946e2a1a9132f3dd69",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-04-07",
+  "law_text_complete": false
+}
