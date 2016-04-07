@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "97",
+  "decision_date": "2016-04-07",
+  "source_id": 17893,
+  "chamber": "7",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17893/",
+  "source_sha256": "b832777c3cc8893ca77c0c63359e66120310e7ea532cedb6d66e870096318ede",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
