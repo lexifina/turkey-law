@@ -1,0 +1,71 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6703",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Pakistan İslam Cumhuriyeti Hükümeti Arasında İzinsiz İkamet Eden Şahısların Geri Kabulüne Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2016-04-07",
+  "adopted_as_published": "07/04/2016",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.04.2016 No: 29690",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc100/kanuntbmmc100/kanuntbmmc10006703.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 100",
+  "committee_reports": [
+    {
+      "label": "TBMM 186 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c014/tbmm26014069ss0186.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 26,
+      "kayit_no": 826419,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Pakistan İslam Cumhuriyeti Hükümeti Arasında İzinsiz İkamet Eden Şahısların Geri Kabulüne Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "07/04/2016",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc100/kanuntbmmc100/kanuntbmmc10006703.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 186 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c014/tbmm26014069ss0186.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 6,
+          "sitting": 39,
+          "sitting_date": "2016-02-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c006/tbmm26006039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c006/tbmm26006fih.pdf",
+          "pages": [
+            "554"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 59,
+          "sitting_date": "2016-03-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c012/tbmm26012059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c012/tbmm26012fih.pdf",
+          "pages": [
+            "42"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "d39c49ba74b6b39b69660944a316683d63a09e5637298e36cddc5731dca7bbb5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d39c49ba74b6b39b69660944a316683d63a09e5637298e36cddc5731dca7bbb5",
+  "issuer": "TBMM",
+  "in_force": "2016-04-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 07/04/2016; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
