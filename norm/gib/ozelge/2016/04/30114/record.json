@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[229-2014-220]-30441",
+  "source_id": 30114,
+  "date": "2016-04-07",
+  "title": "Yurt dışına ihraç edilen prefabrik yapıların montaj işlemlerinin Kurumlar Vergisi, KDV açısından değerlendirilmesi ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/30114",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "de6899665cb627ec516ffcc82b19ec621f3601403044d083ef0093530402584c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
