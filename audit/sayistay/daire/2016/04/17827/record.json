@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "163",
+  "decision_date": "2016-04-07",
+  "source_id": 17827,
+  "chamber": "5",
+  "ilam_number": "184",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17827/",
+  "source_sha256": "83ea24ee532e104cd0c515139fe3981c6df10dc1b773554e7d22f60a2a229b63",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
