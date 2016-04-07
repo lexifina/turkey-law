@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6199",
+  "decision_date": "2016-04-07",
+  "title": "Sayaç Kontrol Bedellerine İlişkin Usul ve Esaslar",
+  "resmi_gazete_date": "2016-04-16",
+  "resmi_gazete_number": "29686",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GelAJfeEfzU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GelAJfeEfzU="
+  ],
+  "source_sha256": "42bbe33d13835bc7591630cef68e12598e45bda6e9d7c53857b1169ce3eb46f4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-04-07",
+  "law_text_complete": false
+}
