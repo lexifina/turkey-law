@@ -1,0 +1,7 @@
+Sözleşmeye aykırı olarak banka tarafından komisyon tahsili yapılması.
+
+….. Belediyesi ile ….. Bankası arasında banka kredi kartlarının kullanımına ilişkin olarak imzalanan ‘‘…… Üye İşyeri Sözleşmesi’’nde komisyon kesilmeyeceği belirtildiği halde, ….. Belediyesi adına tahsil edilen tutarlara banka tarafından komisyon uygulanarak kamu zararına sebebiyet verildiği, görülmüştür.
+
+….. ile ….. Belediyesi arasında imzalanan ….. tarihli ‘‘….. Üye İşyeri Sözleşmesi’’nin ekinde ‘‘Mali Koşul Bilgileri’’ başlıklı ‘‘A. Peşin Satış İşlemlerinde Uygulanacak Çalışma Koşulları’’ ve ‘‘B. Taksitli Satış İşlemlerinde Uygulanacak Çalışma Koşulları’’ maddelerinde komisyon oranı % 0 olarak belirlenmesine rağmen, tahsil edilen tutarlar hesaba geçirilirken banka tarafından % 1 oranında komisyon kesintisine tabi tutulduğu görülmüştür.
+
+Dolayısı ile ….. Belediyesi adına tahsil edilen tutarlar belediye hesabına geçirilirken ….. Üye İşyeri Sözleşmesi hükümlerine göre ….. Bankasınca komisyon tahsil edilmemesi gerekirken %1 oranında komisyon tahsil edilmesi sonucu kamu zararına neden olunduğu görülmüş ise de; …..-TL tutarındaki kamu zararı, …… Bankasınca ….. tarihinde ….. no.lu ….. Belediyesi hesabına yatırılmak ve ….. Belediyesince ….. tarih ve ….. no.lu muhasebe işlem fişi ile muhasebe kaydı yapılmak suretiyle tahsil edildiğinden ilişilecek husus kalmadığına, işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere, oy birliğiyle,
