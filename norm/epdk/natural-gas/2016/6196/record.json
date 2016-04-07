@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6196",
+  "decision_date": "2016-04-07",
+  "title": "Doğal Gaz Dağıtım Şirketlerinin Kurmakla Yükümlü Oldukları Sevkiyat Kontrol Merkezlerine İlişkin Karar",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FAsrPnudtQk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FAsrPnudtQk="
+  ],
+  "source_sha256": "6fea61609e0201cae76fc0d6c6d3cd116d44e3e58603f06743cdac6ac1e0247e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-04-07",
+  "law_text_complete": true
+}
