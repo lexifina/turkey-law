@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-130[39-2014/176]-33",
+  "source_id": 22564,
+  "date": "2016-04-08",
+  "title": "İhracata ilişkin fatura tarihi ve ihracat kapanış tarihlerinin farklı olması durumunda kdv ve kvk açısından beyan edileceği dönem hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22564",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "bcd296d7e32ba849f7a83eec35450cd48e26cc6c9cd3112449a31635a003b83a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
