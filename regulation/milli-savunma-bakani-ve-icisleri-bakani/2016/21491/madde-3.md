@@ -1,0 +1,16 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Asker kişiler: Subaylar ve sözleşmeli subaylar ile muvazzaf ve sözleşmeli subay adayları, astsubaylar ve sözleşmeli astsubaylar ile muvazzaf ve sözleşmeli astsubay adayları, uzman jandarmalar, uzman erbaşlar, askeri öğrenciler, sözleşmeli erbaş ve erler ile sözleşmeli erbaş ve er adayları, yükümlü erbaş ve erler, yedek subay adayları, askeri hizmetlerde bulundukları sürece yedek subay, yedek astsubay, yedek erbaş ve erler ile rızası ile Türk Silahlı Kuvvetlerine katılanları,
+b) Baro: Hukukî yardımın yapılacağı yerin bağlı bulunduğu baroyu veya savcılığın bulunduğu yerin bağlı bulunduğu baroyu, yurt dışında bulunan birliklerin teşkilatlarında kurulan askeri mahkeme ve savcılıklar bakımından Türkiye Barolar Birliği tarafından belirlenen baroyu, yurt dışında bulunan birliklerin teşkilatlarında askeri mahkeme ve savcılık bulunmaması halinde ise soruşturmayı yürüten savcılığın bulunduğu yerin bağlı bulunduğu baroyu,
+c) Karargâh: Kumandan veya amirlerin kıta veya kurumlarının sevk ve idarelerinde yardımcı olan ve bir kuruluş ve kadro ile tesbit edilen bir toplumu,
+ç) Kıta: Görevin yapılması için taktik ve idari birlikleri kapsayan ve bir kumanda altında toplanan teşkilleri,
+d) Kovuşturma: İddianamenin kabulüyle başlayıp, hükmün kesinleşmesine kadar geçen evreyi,
+e) Kurum: Kıta ve karargâh anlamı dışında kalan askeri hastane, okul, ordu evi, dikim evi, fabrika, askerlik şubesi, ikmal merkezi ve depo gibi askeri tesis ve teşkilleri,
+f) Mahkeme: Askeri mahkemeleri, adlî yargı ceza mahkemelerini veya kanun yolu incelemesini yapacak mercileri,
+g) Müteveffanın mensubu olduğu bakanlık: Kara, Deniz ve Hava Kuvvetleri Komutanlıkları mensubu asker kişiler için Millî Savunma Bakanlığını; Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı mensubu asker kişiler için İçişleri Bakanlığını,
+ğ) Savcı: Askeri savcı veya Cumhuriyet savcısını,
+h) Savcılık: Askeri savcılık veya Cumhuriyet başsavcılığını,
+ı) Soruşturma: Kanuna göre yetkili mercilerce suç şüphesinin öğrenilmesinden iddianamenin kabulüne kadar geçen evreyi,
+i) Ücret: Vekile; savcılıkça yapılacak olay yeri inceleme, ölü muayenesi ve otopsi ile tanık ve bilirkişi dinlenmesi işlemleri, soruşturma evresinde takip edilen diğer tüm işler veya kovuşturma evresinde takip edilen davalar nedeniyle Avukatlık Asgari Ücret Tarifesine göre belirlenen meblağı, 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümleri uyarınca mutat olan taşıta göre gerçek masraf üzerinden yapılan zorunlu yol giderlerini, acele ve zorunlu hâllerde ise ilgili savcılığın talep veya kabulü üzerine mutat taşıt dışındaki araçlarla yapılan zorunlu yol giderlerini,
+j) Yasal mirasçılar: Miras payı düşüp düşmediğine, mirasın reddedilip reddedilmediğine, terekenin borca batık olup olmadığına veya diğer hususlara bakılmaksızın, kıta, karargâh ve kurumlarda ya da görev esnasında veya görev yerlerinde ölen asker kişinin 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununun 495 ila 501 inci maddelerinde sayılan; kan hısımlarını, eşini veya evlatlığını, miras bırakandan önce ölmüş olan kan hısımlarının yerini alan her derecede halefiyet yoluyla kendi altsoylarını, evlilik dışı hısımlarını, mirasçı bırakmaksızın ölenler bakımından ise Devleti,
+ifade eder.
