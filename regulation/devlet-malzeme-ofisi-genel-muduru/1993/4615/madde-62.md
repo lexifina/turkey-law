@@ -1,0 +1,3 @@
+İfade ve Savunma Alınması
+Madde 62 - Tahkikat dolayısıyla ifadesi alınacak olan alakalı personele hadisenin veya tahkiki gerekli görülen hareketin mahiyeti soru kağıdında açıkça anlatılmakla beraber, gerek kayıt ve vesikaların tetkiki neticesinde toplanan ve gerekse ortaya konulmuş bulunan deliller izah olunur, konu ile ilgili sorular sorulur. Cevap alındıktan sonra başkaca bir diyeceğinin olup olmadığı da tespit edildikten sonra keyfiyet ifade tutanağına bağlanır. İcabı halinde, ifadesi alınanların açık ve geniş hüviyeti tespit edilerek bu tutanağa geçirilir.
+Suçlu ve kusurlu görülen personelin, Anayasanın 129 uncu maddesine göre süre tanınmak suretiyle yazılı savunması istenebilir. Savunması alınmamış personel hakkında idari ceza teklif olunamaz.

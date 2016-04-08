@@ -1,0 +1,3 @@
+İşlemleri İnceleme Tarzı
+Madde 54 - İşlemlerin teftişinde; kanun, tüzük, yönetmelik, sirküler, emir ve iş icaplarına aykırı hususlar olup olmadığı araştırılır. Teftiş, tarama veya yoklama usullerinden biriyle yapılır. Bu usullerden hangisinin uygulanacağı, işin mahiyeti ve önemine göre Başkanlık tarafından kararlaştırılır. Ancak, kasa ve banka işlemlerinin tarama suretiyle teftişi esastır.
+Tarama usulü ile teftiş, teker teker bütün işlemlerin gözden geçirilmesi suretiyle yapılır. Yoklama usulü ile teftiş ise, seçilen bazı işlemlere bakılmak suretiyle icra olunur. İşlemlerin çok hatalı olması veya yolsuzluk bulunması hallerinde, teftiş tarama usulü ile yapılır.

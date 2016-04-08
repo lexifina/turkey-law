@@ -1,0 +1,2 @@
+Basit Rapor
+Madde 68 - Basit rapor, teknik, İdari, ekonomik, mali ve sair konularda değiştirilmesi gereken hususlara ait tedbir ve teklifleri ihtiva etmek üzere re'sen veya Başkanlıkça gösterilecek lüzum üzerine tanzim olunur. İşbu raporlar konu ile ilgili birimler nazara alınarak yeteri kadar nüsha hazırlanır. Biri Müfettişte kalır, aslı ve örnekleri Teftiş Kurulu Başkanlığına gönderilir. Başkanlık basit raporu inceleyerek kendi mütalâası ile birlikte Genel Müdüre sunar.

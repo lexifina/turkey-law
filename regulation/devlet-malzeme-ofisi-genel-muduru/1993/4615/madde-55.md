@@ -1,0 +1,3 @@
+Yabancı Memleketlerde Staj
+Madde 55 - Ofis ile ilgili konularda araştırma ve inceleme yapmak ve mesleki konularda bilgi ve görgülerini artırmak amacıyla, yabancı dil sınavını kazanan Müfettişler Kurul Başkanının teklifi ve Genel Müdürlük Makamı'nın onaylaması şartıyla, Müfettişlikteki hizmet ve kıdemlerine göre yurt dışına gönderilirler.
+Müfettişler, staj süresince Ofis'i ilgilendiren konular dışında, önemli gördükleri konuları da programlarını aksatmamak şartıyla inceleyebilirler. İnceleme konularına ilişkin olarak Genel Müdürlük Makamı'na sunulmak üzere bir rapor düzenlenir. Raporun staj yerinde düzenlenmesi esastır. Ancak, zaruri sebeplerle ve mümkün olmadığı takdirde yurda dönüşten itibaren en geç 3 ay içinde raporların hazırlanması gerekir.

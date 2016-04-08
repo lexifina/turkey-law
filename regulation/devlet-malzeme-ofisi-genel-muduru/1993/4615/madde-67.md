@@ -1,0 +1,2 @@
+Adresi Belli Olmayan Sanık ve Tanıklar
+Madde 67 - Vazifesinden ayrılmak ve gittiği yer bilinmemek gibi sebeplerle nerede olduğu anlaşılamayan veya aranıp araştırılmakla da adresi öğrenilemeyen tanık veya sanıkların ifade ve savunmaları alınamadığı durumlarda, bu durum izahname ve tahkikat raporunda belirtilmek şartıyla, tahkikat yarıda bırakılmayarak neticelendirilir. Ancak, keyfiyeti tespit eden vesikaların tahkikat evrakına katılması her halde lâzımdır.

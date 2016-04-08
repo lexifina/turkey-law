@@ -1,0 +1,20 @@
+Tahkikat Raporları
+Madde 60 - Yapılan tahkikatlarda suç unsuru tespit edilen hallerde tahkikat raporu düzenlenir.
+Tahkikatlar, Ceza Kanununa veya ceza koyan diğer mevzuata ve Ofis mevzuatına göre suç sayılan fiil ve hareketlerin işlenmesi halinde veyahut tazmini gerektiren hareketlerin vukuuna rastlandığı veya haber alındığı zaman, bunların gerçekten vaki olup olmadığını ve kimler tarafından yapıldığını meydana çıkarmak ve tespit etmek için yapılan araştırma, inceleme ve sorgulardır.
+Müfettişler, teftiş ve tetkikleri sırasında tahkiki mucip olabilecek durumları gördükleri veya bu kabil fiil ve hareketler kendilerine ihbar olunduğu takdirde, keyfiyeti Teftiş Kurulu Başkanlığına bildirirler ve tahkikat izni alındıktan sonra tahkikata başlarlar. Tahkikat yalnız izin alınan mevzua münhasır olur. Şayet tahkiki mucip başkaca fiil ve hareketler görülür veya ihbar olunursa o konular için de ayrıca izin istihsal edilir.
+Tahkikat Raporları başlıca şu bölümleri kapsarlar;
+A - Başlangıç:
+a) Tahkikatın konusunun ne zaman ve ne suretle öğrenildiği tahkikata ne zaman ve nerede başlandığı,
+b) Tahkikatın konusunun neden veya nelerden ibaret olduğu ve kimler hakkında ne yönlerden soruşturmaya girişildiği, bunlar madde madde ayrılarak belirtilir.
+B - Yapılan Tahkikat ve Tetkikat Safhası:
+Bu bölümde, yapılan inceleme ve araştırmalar, konuya ait olarak ibraz olunan veya toplanan vesika ve buna benzer sair maddi deliller, tanıkların ifadelerinden, tahkik olunan konunun sübut veya ademi sübutuna yarıyan başlıca kısımlar, sanıkların ifade ve savunmalarından önemli ve lüzumlu parçalar özetlenir.
+C - Tartışma ve eleştirme :
+Bu bölümde, tahkik olunan konular, toplanan deliller alınan ifade ve savunmalar, hadisenin cereyan ediş tarzı karşısında geniş bir görüş açısı içinde ele alınıp her türlü ihtimaller mevzuat ve mantık süzgeçlerinden geçirildikten sonra inandırıcı dayanaklara göre tam bir isabetle varılacak kanaatler en ufak bir tereddüte mahal bırakmayacak şekilde kesin ve açık olarak belirtilir.
+Tartışma ve eleştirme neticesinde, konulardan sübut bulanlar veya bulmayanlar belirtilmekle beraber, sabit olan fiil ve hareketlerin mahiyetleri açıklanır. Bunların hangi neden ve sebepler etkisi altında kimler tarafından yerine getirildiği ve şayet bu fiil ve hareketlerden bir zarar veya ziyan da husule gelmiş ise bunun miktar ve mahiyeti ile sebep ve menşei, suç ve suçlu, kusur ve kusurlu, illiyet bağı açık ve kesin şekilde belirtilmek suretiyle gösterilir.
+D - Sonuç:
+Tartışma ve eleştirme bölümünde oluş şekilleri ile delilleri ve mahiyetleri, sebep ve nedenleri açıklanan fiil ve hareketlerden her birinin suç unsurları ile temas ettiği cezai ve idari hükümlerin nelerden ibaret bulunduğu belirtilir ve bu arada tespit edilen zararların kimlere ödettirilmesi icabedeceği de açıkça gösterilir.
+Olayda varsa hafifleştirici veya ağırlaştırıcı sebepler açık ve etraflı şekilde ortaya konulmak suretiyle belirtilir.
+Yapılan tahkikat her ne netice verirse versin Müfettişte hasıl olan kanı itibarıyla suçlu veya alakalı personelden işyerinin veya görevinin değiştirilmesi gibi tedbirin lüzumuna inanılıyorsa bu cihet de rapora kaydedilir.
+Tahkikat raporlarının takip edecekleri seyir tarzı ve bu itibarla geçecek zaman gözönünde tutularak, gerek şahıslarla ilgili ve gerekse iş düzeni ve muamele islahı yönünden yapılacak acele idari tedbir tekliflerinin tahkikat raporları dışında bildirilmesi öngörülür.
+Tahkikatın yapıldığı mahalde suç delili olarak rapora bağlanacak belgelerin suretleri çıkarılarak, tasdik edildikten sonra işyerine tevdi edilir ve aslının alındığına dair şerh verilir. Şekil ve mahiyeti itibariyle bizatihi suç unsuru addedilen vesikaların aslı alınır. İçerikleri bakımından delil olarak mütalâa olunanların tasdikli örneği alınabilir.
+Müfettişler, kendilerine verilen tahkikat konularını, bunların önem ve ivedilik durumlarına göre sıraya koyarak neticelendirirler, raporlarda teklif edilecek müeyyidelerin ibret verici ve terbiye edici rolleri bakımından aktüalitesini kaybettirmemek üzere bunların acilen gönderilmeleri esastır.

@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 - Bu Yönetmelik; Devlet Malzeme Ofisi Teftiş Kurulunun görevleri ile Teftiş Kurulu Başkanı, Müfettişler, Müfettiş Yardımcıları ve Teftiş Kurulu Büro Şefliğinin görev, yetki ve sorumluluklarını, teftiş edilenlerin sorumluluklarını, Teftiş Kurulu Başkanı ile Müfettiş ve Müfettiş Yardımcılarının atanmalarını, özlük haklarını ve Teftiş Kurulu ile Müfettiş ve Müfettiş Yardımcılarının çalışma esas ve usullerini kapsar.

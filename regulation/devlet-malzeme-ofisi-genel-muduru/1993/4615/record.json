@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.4615",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET MALZEME OFİSİ TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "4615",
+  "issuer": "Devlet Malzeme Ofisi Genel Müdürü",
+  "issuer_slug": "devlet-malzeme-ofisi-genel-muduru",
+  "path": "regulation/devlet-malzeme-ofisi-genel-muduru/1993/4615",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4615&MevzuatTertip=5",
+  "source_sha256": "2cfe34d77fc4d3a70200116cee42c6c80137d5e1230d5fe9568bc493495b081a",
+  "source_bytes": 158526,
+  "published": "1993-12-19",
+  "gazette": "21793",
+  "in_force": "2016-04-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/4/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-04-08",
+      "RG-8/4/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-03-11",
+      "RG-11/3/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-04-06",
+      "RG-6/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7452,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
