@@ -1,0 +1,4 @@
+Yapının mimarlık hizmetlerine esas olan sınıfının belirlenmesine ilişkin açıklamalar
+MADDE 2 – (1) Benzer yapılar, ilgili gruptaki yapılara kıyasen uygulayıcı kurum ve kuruluşlarca Mimarlık ve Mühendislik Hizmetleri Şartnamesinin ilgili hükümlerinden yararlanılarak belirlenecektir.
+(2) Tebliğin revizyonu çalışmalarında sınıfı veya grubu değiştirilen veya tebliğden çıkarılan yapılar için, 2016 yılından önceki tebliğlere göre yapı sınıfı ve grubu belirlenmiş mimarlık ve mühendislik hizmetlerinde; belirlendiği yılın tebliğindeki yapı sınıfı ve grubu değiştirilmeksizin 2016 yılı tebliğinde karşılığı olan tutar esas alınmak suretiyle hesap yapılacaktır.
+(3) Tebliğdeki sınıf ve gruplar yapım aşamasında belirlenirken tereddüde düşülmesi halinde, o yapının yapı yaklaşık maliyeti; yapının projesine göre hazırlanacak metrajlara Çevre ve Şehircilik Bakanlığı Birim Fiyatlarının uygulanması suretiyle hesaplanacaktır.

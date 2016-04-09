@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.21494",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİMARLIK VE MÜHENDİSLİK HİZMET BEDELLERİNİN HESABINDA KULLANILACAK 2016 YILI YAPI YAKLAŞIK BİRİM MALİYETLERİ HAKKINDA TEBLİĞ",
+  "number": "21494",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2016/21494",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21494&MevzuatTertip=5",
+  "source_sha256": "188f6d8cca5913be7cb8cd958b1e35e759b1af61ba0d6638fcda46399875274c",
+  "source_bytes": 37409,
+  "published": "2016-04-09",
+  "gazette": "29679",
+  "in_force": "2016-04-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.04.2016); own commencement article: \"Bu Tebliğ 1/1/2016 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2016 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1072,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
