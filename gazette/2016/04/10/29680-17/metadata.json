@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-04-10",
+  "issue": "29680",
+  "edition": "regular",
+  "item": 17,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Yükseköğretim Kurumları Bilimsel Araştırma Projeleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160410-17.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160410.htm",
+  "index_sha256": "0d584624a725d04a0c56c6d1c81eb594ae25818c2115b9cfaf970ce96ac3c780",
+  "index_header": "10 Nisan 2016 ... 29680 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160410.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
