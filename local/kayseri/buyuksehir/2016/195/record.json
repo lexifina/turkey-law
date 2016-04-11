@@ -1,0 +1,23 @@
+{
+  "number": "195",
+  "number_as_published": "195",
+  "year": 2016,
+  "title": "Kocasinan Belediye Meclisinin 10.03.2016 tarih, 67, 68, 69 ve 70 sayılı kararlarının incelenmesi talebi.",
+  "decision_date": "2016-04-11",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/11-nisan-2016-tarihli-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "e4e9c32af56338abd5ad742c29510c30f8bf23e7baf19982ad02921f312bb178",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2016-04-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.04.2016; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "11 Nisan 2016 Tarihli Meclis Karar Özetleri",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=10"
+}
