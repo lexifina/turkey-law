@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "338",
+  "decision_date": "2016-04-11",
+  "title": "MEC_KAR_ ( Anamur, Bahçe Mahallesi, 165, 166,",
+  "listed_as": "338 MEC_KAR_ ( Anamur, Bahçe Mahallesi, 165, 166,",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/338-mec-kar---anamur-bahce-mahallesi-165-166-218-adalar",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk24-11-nisan-2016-meclis-kararlari",
+  "listing_sha256": "50ae3d85e97c07a805c90f32fa043c3931057d7c282ba131821b0891354a0a6e",
+  "meeting_title": "MK24-11 NİSAN 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
