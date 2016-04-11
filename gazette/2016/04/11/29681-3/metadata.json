@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-04-11",
+  "issue": "29681",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İnönü Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160411-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160411.htm",
+  "index_sha256": "75d7528689cb2a5979e597e97cd1b699d4d3b5d14ab1ba78fbc94a048402c378",
+  "index_header": "11 Nisan 2016 ... 29681 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160411.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
