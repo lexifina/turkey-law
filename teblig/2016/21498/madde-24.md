@@ -1,0 +1,5 @@
+Üçüncü ülkelerden ithalat
+MADDE 24 – (1) Soruşturma konusu üründe, en fazla ithalat yapılan ülkenin İsveç olduğu görülmektedir. İsveç’ten yapılan miktar bazlı ithalat 2014 yılı itibariyle tüm ithalatın yaklaşık %66’sını oluşturmaktadır.
+(2) İsveç ve ÇHC dışında diğer tüm ülkelerden yapılan miktar bazlı ithalat tüm ithalatın yaklaşık %8’ini oluşturmaktadır.
+(3) En fazla ithalat yapılan ülke İsveç olmasına rağmen, bu ülkeden yapılan ithalatın yerli üretici üzerinde, İsveç’ten yapılan ithalatın birim fiyatının, ÇHC’den yapılan ithalatın birim fiyatının oldukça üzerinde olması nedeniyle fiyat yönünden zarar veya zarar tehdidi oluşturmadığı değerlendirilmektedir. Şöyle ki, 2014 yılı itibariyle ÇHC menşeli soruşturma konusu ürünün birim fiyatı 430 ABD Doları/Ton iken, İsveç menşeli ürünün birim fiyatı 780 ABD Doları/Ton olarak gerçekleşmiştir.
+(4) Son değerlendirmede ÇHC haricinde diğer ihracatçı ülkelerden gerçekleşen ithalatın miktar ve birim fiyatlarının ÇHC menşeli dampinge konu ithalat ile yerli üretim dalı üzerinde oluşan zarar arasındaki illiyet bağını ortadan kaldıracak güçte ve nitelikte olmadığı tespit edilmiştir.

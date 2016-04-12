@@ -1,0 +1,3 @@
+Ekonomik göstergelerin değerlendirilmesi
+MADDE 22 – (1) Yerli üretim dalının zarar inceleme döneminde üretim miktarı neredeyse yarı yarıya azalmış, yurtiçi satışları önemli düzeyde düşmüş, pazar payı önemli oranda gerilemiş, birim kârlılığının aldığı negatif değer artmış, verimliliği ciddi oranda düşmüş, nakit akışı negatif değerini korumuştur.
+(2) Zarar inceleme döneminde yerli üretim dalının stoklarında artış kaydedilmiştir. 2012 yılında 100 birim olan soruşturma konusu ürün stoğu, 2013 yılında 136 birime, 2014 yılındaysa 154 birime yükselmiştir. Yerli üretim dalının 2014 stok miktarı 2 senelik Türkiye tüketimini karşılayabilecek düzeye yaklaşmıştır. Bu haliyle, söz konusu stoğun yerli üretim dalı için önemli bir maliyet unsuru olduğu değerlendirilmektedir.

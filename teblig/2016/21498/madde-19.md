@@ -1,0 +1,5 @@
+Türkiye toplam benzer mal tüketimi ve pazar payları
+MADDE 19 – (1) Türkiye toplam benzer mal tüketimi ve pazar büyüklüğünün tespit edilmesi için yerli üreticinin toplam yurt içi satış miktarı ile toplam ithalat miktarı toplanmıştır. Buna göre 2012 yılında 100 birim kabul edilen toplam benzer mal tüketimi, 2013 yılında 100 birim olarak kalmış, 2014 yılında ise 83 birime gerilemiştir.
+(2) Yerli üretim dalının Türkiye piyasasından aldığı pazar payın 2012 yılı için 100 birim olarak kabul edildiğinde 2013 yılında 81 birime gerilediği; 2014 yılında ise 91 birime yükseldiği izlenmiştir.
+(3) ÇHC menşeli ithalatın toplam Türkiye pazarından aldığı pay 2012 yılı için 100 birim olarak kabul edildiğinde, 2013 yılında bu payın 171 birime yükseldiği, 2014 yılındaysa bu seviyeden 129 birime gerilediği tespit edilmiştir.
+(4) Üçüncü ülkeler menşeli ithalatın toplam pazar payı endeksine bakıldığında ise 2012 yılında 100 birim olan endeks değerinin 2013 yılında 89 birime gerilediği, 2014 yılında ise bu seviyeden 96 birime yükseldiği saptanmıştır.
