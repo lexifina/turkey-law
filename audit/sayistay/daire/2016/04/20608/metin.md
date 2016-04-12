@@ -1,0 +1,5 @@
+Gecikme Cezası.
+
+….. Belediyesi ….. Müdürlüğü tarafından …… tarihinde ihalesi yapılan, ….. Şti. yükleniminde olan ….. TL bedelli ….. Yapım İşi’ne ait dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Yükleniciye hukuki dayanağı olmaksızın süre uzatımı verildiği ve bu süre uzatımından kaynaklanan gecikme cezasının kesilmediği iddia edilmiş ise de süre uzatımı taleplerinin inşaat alanı içerisinde yer alan trafonun çeşitli imalat kalemlerini etkilemesi nedeniyle trafonun yer değişikliğini içermesi ve söz konusu değişikliğin 8 ay gibi bir sürede gerçekleştirilmesi, ayrıca 810 adet koltuğun seçiminde yaşanan gecikmeler ile mukayeseli keşif artışından kaynaklanan nedenlerle süre talep edilmesi ve kontrol teşkilatınca da süre uzatım taleplerinin genel inşaat durumu değerlendirilerek yerinde görülmesi nedenleri ile mevzuata uygun olduğu anlaşılan konu ile ilgili olarak ilişilecek husus bulunmadığına, işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere, oy birliğiyle,
