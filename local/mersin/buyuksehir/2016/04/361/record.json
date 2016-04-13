@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "361",
+  "decision_date": "2016-04-13",
+  "title": "MEC_KAR_ ( Park ve Bahçeler Dai. Ödenek Aktarm",
+  "listed_as": "361 MEC_KAR_ ( Park ve Bahçeler Dai. Ödenek Aktarm",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/361-mec-kar---park-ve-bahceler-dai--odenek-aktarma-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk23-13-nisan-2016-meclis-kararlari",
+  "listing_sha256": "7c334922ddca2c68aa559de5d0ea2795e58685fdbd58d1580c4afef357bd2443",
+  "meeting_title": "MK23-13 NİSAN 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
