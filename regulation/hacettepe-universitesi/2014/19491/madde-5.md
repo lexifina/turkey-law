@@ -1,0 +1,3 @@
+Koordinatörler ve Görevleri
+Sağlık Hizmetleri Biriminin amacı
+MADDE 5 – (1) Sağlık Hizmetleri Biriminin amacı; sağlık bilimleri alanındaki lisans ve lisansüstü öğrencilerinin eğitim ve uygulama ihtiyaçlarının, akademik personelin araştırma gereklerinin en üst düzeyde karşılanmasını, sağlık hizmetlerinin çağdaş yönetim ilkeleri doğrultusunda standart, etkin ve verimli bir şekilde koordinasyonunu sağlamak üzere Üniversite bünyesindeki fakülte, enstitü, yüksekokullar, araştırma ve eğitim merkezleri ile yurt içinde ve yurt dışındaki diğer kurumlarla işbirliği yapmak ve sağlık hizmetlerinin kaliteli ve verimli düzeyde yürütülmesini sağlamaktır.

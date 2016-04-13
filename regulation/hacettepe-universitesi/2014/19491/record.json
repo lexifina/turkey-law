@@ -1,0 +1,89 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-03-16",
+      "16.03.2014",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2016-04-13",
+      "RG-13/4/2016-29683",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-04-13",
+      "RG-13/4/2016-29683",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-04-13",
+      "RG-13/4/2016-29683",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-04-13",
+      "RG-13/4/2016-29683",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-04-13",
+      "RG-13/4/2016-29683",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-04-13",
+      "RG-13/4/2016-29683",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-04-13",
+      "RG-13/4/2016-29683",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-04-13",
+      "RG-13/4/2016-29683",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-04-13",
+      "RG-13/4/2016-29683",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-04-13",
+      "13/4/2016",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-13/4/2016-29683",
+  "first_law": null,
+  "gazette": "28943",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-04-13",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2014/19491",
+  "published": "2014-03-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19491&MevzuatTertip=5",
+  "source_bytes": 35515,
+  "source_id": "8.5.19491",
+  "source_sha256": "8d88e1c78e8112e97100d508e68c620b6a40b412126cd4338935e68637a189e4",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ SAĞLIK HİZMETLERİ YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 1949
+}

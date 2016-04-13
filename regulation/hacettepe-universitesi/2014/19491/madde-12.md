@@ -1,0 +1,7 @@
+Koordinatörler ve görevleri
+MADDE 12 – (1) Mali hizmetlerin planlanması, etkin ve verimli sunulması, kendisine bağlı birimler ve ilgili diğer birimler ile işbirliği ve uyum içinde hizmetlerin yürütülmesi, denetlenmesi ve değerlendirilmesinden, Mali İşler Koordinatörü sorumludur. Mali İşler Koordinatörlüğü görevi Üniversitenin Döner Sermaye İşletme Müdürü tarafından yürütülür.
+(2) Hacettepe Üniversitesine bağlı sağlık birimlerinin idari hizmetlerinin koordinasyonundan İdari İşler Koordinatörü sorumludur. İdari İşler Koordinatörlüğü görevi, 2547 sayılı Kanunun 36 ncı maddesine göre Üniversiteden başka bir yerde mesleki faaliyette bulunmayan ve mesleklerini serbest olarak icra etmeyen, konuyla ilgili öğretim üyeleri arasından Yönetim Kurulu Başkanının önerisi üzerine Rektör tarafından görevlendirilen bir öğretim üyesi veya Hastaneler Başmüdürü tarafından yürütülür.
+(3) Üniversiteye bağlı sağlık birimlerinin hemşirelik hizmetlerinin koordinasyonundan Hemşirelik Hizmetleri Koordinatörü sorumludur. Hemşirelik Hizmetleri Koordinatörü, 2547 sayılı Kanunun 36 ncı maddesine göre Üniversiteden başka bir yerde mesleki faaliyette bulunmayan ve mesleklerini serbest olarak icra etmeyen, konuyla ilgili Üniversitenin öğretim üyeleri veya diğer personeli arasından Yönetim Kurulu Başkanının önerisi üzerine Rektör tarafından görevlendirilir.
+(4) Koordinatörler, Yönetim Kurulu Başkanına bağlı olarak çalışır. Koordinatörlerin çalışma usul ve esasları Yönetim Kurulu tarafından belirlenir.
+ÜÇÜNCÜ BÖLÜM
+(Değişik bölüm başlığı :RG-13/4/2016-29683)

@@ -1,0 +1,3 @@
+Hastaneler Başhekiminin görevleri
+MADDE 8 – (1) Hastaneler Başhekimi Sağlık Hizmetleri Biriminin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden, sağlık birimlerinin gözetim, denetim ve koordinasyonundan ve bu konularda gerekli önlemlerin alınmasından Rektöre karşı birinci derecede sorumludur. Sağlık Hizmetleri Birimini temsil eden Hastaneler Başhekimi, Yönetim Kuruluna başkanlık eder ve Yönetim Kurulu tarafından alınan kararların uygulanmasını ve gerektiğinde bu kararların uygulanıp uygulanmadığının denetimini sağlar.
+(2) Hastaneler Başhekimi her yılsonunda Sağlık Hizmetleri Biriminin genel durumu ve işleyişi hakkındaki raporunu, Yönetim Kurulunun görüşünü de aldıktan sonra Rektöre sunar.
