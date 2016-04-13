@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6215",
+  "decision_date": "2016-04-13",
+  "title": "Aksa Van Doğal Gaz Dağıtım Anonim Şirketi’nin 2012-2016 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2016-04-16",
+  "resmi_gazete_number": "29686",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dSv2ono6Ra8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dSv2ono6Ra8="
+  ],
+  "source_sha256": "cc899c39653aa2dc2c329789b312ca077c4950d89f8b7f23861a402079008671",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-04-13",
+  "law_text_complete": false
+}
