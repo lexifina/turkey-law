@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6214",
+  "decision_date": "2016-04-13",
+  "title": "Enerya Antalya Doğal Gaz Dağıtım A.Ş.’nin perakende satış tarifesinin revizyonuna ilişkin",
+  "resmi_gazete_date": "2016-04-16",
+  "resmi_gazete_number": "29686",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u11j3YAY5aA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u11j3YAY5aA="
+  ],
+  "source_sha256": "12c22c3362996fe0c79fcb4f0160ae3eabcd610f8095e5dd707352713e13ea5f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-04-13",
+  "law_text_complete": true
+}
