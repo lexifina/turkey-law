@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6216",
+  "decision_date": "2016-04-13",
+  "title": "Aksa Malatya Doğal Gaz Dağıtım Anonim Şirketi’nin 2012-2016 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2016-04-16",
+  "resmi_gazete_number": "29686",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KU9qMJdhEvY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KU9qMJdhEvY="
+  ],
+  "source_sha256": "a36ba04bc4e8ed217ac2cb1e5d881bf722988114321c7694ac19993c5298c08e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-04-13",
+  "law_text_complete": false
+}
