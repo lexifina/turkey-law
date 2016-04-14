@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "100",
+  "decision_date": "2016-04-14",
+  "source_id": 17910,
+  "chamber": "7",
+  "ilam_number": "207",
+  "item_number": 12,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17910/",
+  "source_sha256": "0855c4ef37f79bf85a786cfd2a58c059ba520dfdfa7ea5a15daf93a7f83b39f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
