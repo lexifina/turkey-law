@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "338",
+  "decision_date": "2016-04-14",
+  "source_id": 17807,
+  "chamber": "6",
+  "ilam_number": "198",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17807/",
+  "source_sha256": "a76688b9ecb3e7a873b43eab7bd246df41df028ef1526cdf2d507b1277c9de38",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
