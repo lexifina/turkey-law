@@ -1,0 +1,11 @@
+Arazi Taminatı ödemeleri
+
+Teknik hizmetler sınıfındaki personele yapılan arazi tazminatı ödemelerinde mevzuatla belirlenen usul ve esaslara riayet edilmemesi suretiyle kamu zararına neden olunduğu iddia edilmiş ise de;
+
+2006/10344 Karar sayılı Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Karara ekli II Sayılı Cetvelin (Özel Hizmet Tazminatı) “Teknik Hizmetler” bölümünün 6’ncı sırasında ve 160 Seri No’lu Devlet Memurları Kanunu Genel Tebliğinin 6’ncı bölümünde yer alan hükümlere göre; birim amirlerince iş programı ve çalışma mahallinin özellikleri dikkate alınarak üçer aylık dönemler halinde belirlenerek teknik hizmetler sınıfındaki personele üç ayın sonunda arazi tazminatı ödemesinde bulunulacaktır.
+
+Savunmalar doğrultusunda; teknik hizmetler sınıfındaki personele üçer aylık dönemler için Başkanlık oluru alınarak fiili çalışma karşılığı arazi tazminatı ödendiği anlaşıldığından, ilişilecek husus bulunmadığına,
+
+(Üye ...’in “2006/10344 Karar ve 160 Seri No’lu Devlet Memurları Kanunu Genel Tebliğine göre arazi tazminatı ödenebilmesi için; personelin açık çalışma mahallerinde görev bazında isim isim görevlendirilmiş olması, söz konusu görevlendirmelere ilişkin görev ve isimleri ihtiva eden listelerin ibraz edilmiş olması, listelerin muhtemel işler üzerinden değil programlanmış ve önceden bilinebilen işler dikkate alınarak hazırlanması ve listeler hazırlanırken iş programlarının ve personelin bir önceki üç aylık dönemlerdeki büro içi ve büro dışı çalışmalarının dikkate alarak her üç ayda bir ek özel hizmet tazminatı ödemesi yapılacak personel listelerini yeniden gözden geçirilmesi gerekmektedir. Ayrıca, 3 aylık dönemlerin sonunda da fiilen yapılan çalışmaları gösterir cetvellerin düzenlenmesi gerekmektedir. Zira arazi tazminatının ödenmesi için 3 aylık dönemin başında yapılan isim belirlemeler yeterli değildir. Görevin fiilen yerine getirildiğini gösterir puantaj cetvellerinin de tutulması gerekmektedir. Bu itibarla savunmalarda fiilen arazide görev yaptığını belgeleyen kişiler için ödenen ...TL tutarındaki arazi tazminatı için ilişilecek husus bulunmadığına, kalan ...TL tutarındaki kamu zararının ise sorumlularına ödettirilmesine karar verilmesi uygun olur.” şeklindeki ayrışık görüşüne karşın)
+
+oy çokluğuyla karar verildi.
