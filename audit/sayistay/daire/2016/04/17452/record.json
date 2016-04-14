@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "287",
+  "decision_date": "2016-04-14",
+  "source_id": 17452,
+  "chamber": "3",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17452/",
+  "source_sha256": "5276456b5cb639fb94b90c1382f064ef52ed198d5e0eca4565081b5201f7265f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
