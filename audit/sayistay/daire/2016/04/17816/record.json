@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "166",
+  "decision_date": "2016-04-14",
+  "source_id": 17816,
+  "chamber": "5",
+  "ilam_number": "181",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17816/",
+  "source_sha256": "fe4b265b3dc45b831dfadfeb9ef2b71e790b2df0823dacca5ba7f748c672c5d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
