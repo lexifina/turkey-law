@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "340",
+  "decision_date": "2016-04-14",
+  "source_id": 18970,
+  "chamber": "6",
+  "ilam_number": "431",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18970/",
+  "source_sha256": "67ec1416ec5255ac33d0f161ae445163a016a892391c9deb159e8afbf9c5c0cf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
