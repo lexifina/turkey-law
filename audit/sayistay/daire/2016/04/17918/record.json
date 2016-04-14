@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "100",
+  "decision_date": "2016-04-14",
+  "source_id": 17918,
+  "chamber": "7",
+  "ilam_number": "207",
+  "item_number": 19,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17918/",
+  "source_sha256": "e33927795a27a2f2b057bc01f07c8aa9f1b0bbcebea36e8c3b8bd6089e427f98",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
