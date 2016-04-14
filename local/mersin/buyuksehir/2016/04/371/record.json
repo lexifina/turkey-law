@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "371",
+  "decision_date": "2016-04-14",
+  "title": "MEC_ KAR_ (İHTİSAS KOMİSYONU SEÇİMİ)",
+  "listed_as": "371 MEC_ KAR_ (İHTİSAS KOMİSYONU SEÇİMİ)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/371-mec--kar--ihtisas-komisyonu-secimi",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk22-14-nisan-2016-meclis-kararlari",
+  "listing_sha256": "cd7ca753053bc7e0419f6255ef5191b11cdad03119d2f7566955fc143b6560b4",
+  "meeting_title": "MK22-14 NİSAN 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
