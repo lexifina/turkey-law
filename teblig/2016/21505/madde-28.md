@@ -1,0 +1,12 @@
+Türkiye toplam benzer mal tüketimi ve pazar payları
+MADDE 28 – (1) Türkiye toplam benzer mal tüketiminin hesaplanmasında, yerli üretim dalının benzer üründe 2012-2014 yıllarına ilişkin yurt içi satışlara ilişkin miktar verileri ile soruşturma konusu ürünün 2012-2014 yılları arasında gerçekleşen ithalat miktarı dikkate alınmıştır. Yerli sanayinin yurt içi satışlarının ve şikâyet konusu ülkelerden gerçekleştirilen ithalatın toplam tüketime oranlanmasıyla pazar payları hesaplanmıştır.
+(2) Diğer taraftan, başvuru sahibi yerli üreticilerin nihai bildirim raporuna ilişkin yazılı görüşlerinde, bir damping soruşturması açılmasının piyasada “soğutma etkisi” yaratarak ithalatta caydırıcılığa sebep olduğu ve ithalatı azalttığı, bu nedenle zarar inceleme döneminin soruşturmanın açılış döneminin de ötesine taşınmasının (2012-2014 yılları) uygun olmadığı, 2014 yıllık verilerinin kullanılarak yapılacak bir değerlendirmenin sağlıklı olmayacağı ifade edilmiştir.
+(3) Anılan firmaların konuya ilişkin görüşleri değerlendirilmiştir. Zarar inceleme dönemi olan 2012-2014 yıllarında, damping soruşturması açılmasına bağlı olarak ithalatta bir azalma yaşanmadığı görülmüştür.
+(4) Diğer taraftan, 2012-2014 yılları arasında soruşturma konusu ürünün yurt içi tüketiminin arttığı görülmektedir. 2012 yılı için 100 birim olarak kabul edilen benzer mal tüketimi, 2013 yılında 107, 2014 yılında ise 117 birime yükselmiştir.
+(5) Yerli üretim dalının 2012 yılı için 100 birim olarak kabul edilen pazar payı, 2013 yılında 92, 2014 yılında ise 87 birime gerilemiştir.
+(6) Soruşturma konusu ülkelerin, 2012 yılı için 100 birim olarak kabul edilen pazar payı, 2013 ve 2014 yıllarında 144 birim olarak gerçekleşmiştir.
+(7) ÇHC menşeli ithalatın 2012 yılı için 100 birim olarak kabul edilen pazar payı, 2013 yılında 134 birim, 2014 yılında ise 110 birim olarak gerçekleşmiştir.
+(8) Mısır menşeli ithalatın 2012 yılı için 100 birim olarak kabul edilen pazar payı, 2013 yılında 124, 2014 yılında ise 158 birim olarak gerçekleşmiştir.
+(9) Hindistan menşeli ithalatın 2012 yılında 100 birim olarak kabul edilen pazar payı, 2013 yılında 143, 2014 yılında ise 225 birime yükselmiştir.
+(10) Suudi Arabistan menşeli ithalatın toplam Türkiye pazarından aldığı pay 2012 yılı için 100 birim olarak kabul edildiğinde, bu payın 2013 yılında 224, 2014 yılında ise 126 birim olarak gerçekleştiği görülmektedir.
+(11) Üçüncü ülkeler menşeli ithalatın 2012 yılı için 100 birim olarak kabul edilen pazar payının, 2013 yılında 95, 2014 yılında ise 113 birim olarak gerçekleştiği görülmektedir.

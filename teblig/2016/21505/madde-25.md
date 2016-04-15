@@ -1,0 +1,3 @@
+Mısır menşeli ithalatın gelişimi ve fiyatları
+MADDE 25 – (1) Mısır menşeli söz konusu ürünün 2012 yılında 3.398 ton (7,5 milyon ABD doları) olan ithalatı, 2013 yılında % 33 oranında bir artış ile 4.529 ton (10,4 milyon ABD doları), 2014 yılında ise bir önceki yıla oranla % 38 oranında bir artış ile 6.253 ton (14,1 milyon ABD doları) olarak gerçekleşmiştir. Mısır menşeli soruşturma konusu ürünün ithalatının, ürünün genel ithalatı içerisinde miktar temelinde payı ise 2012-2014 yılları içerisinde sırasıyla %9, %10 ve %12’dir.
+(2) Mısır menşeli ithalatın 2012-2014 yılları arasındaki birim fiyatları sırasıyla 2,21, 2,29 ve 2,26 ABD doları/kg’dır.

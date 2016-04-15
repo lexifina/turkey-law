@@ -1,0 +1,3 @@
+Suudi Arabistan menşeli ithalatın gelişimi ve fiyatları
+MADDE 26 – (1) Suudi Arabistan menşeli söz konusu ürünün 2012 yılında 1.824 ton (3,6 milyon ABD doları) olan ithalatı, 2013 yılında %141 oranında bir artış ile 4.389 ton (8,5 milyon ABD doları), 2014 yılında ise bir önceki yıla oranla %39 oranında azalarak 2.679 ton (5,7 milyon ABD doları) olarak gerçekleşmiştir. Suudi Arabistan menşeli soruşturma konusu ürünün ithalatının, ürünün genel ithalatı içerisinde miktar bazında payı ise 2012-2014 yıllarında sırasıyla %5, %10 ve %5’tir.
+(2) Suudi Arabistan menşeli ithalatın 2012-2014 yılları arasındaki birim fiyatları sırasıyla 1,99 ABD doları/kg, 1,94 ABD doları/kg ve 2,12 ABD doları/kg’dır.

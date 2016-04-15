@@ -1,0 +1,3 @@
+Üçüncü ülkelerden gerçekleştirilen ithalat ve fiyatları
+MADDE 27 – (1) Üçüncü ülkelerden gerçekleştirilen ithalat incelendiğinde, 2012 yılında 21.286 ton (70,7 milyon ABD doları) olan ithalat miktarının, 2013 yılında %2 oranında bir artış ile 21.621 tona (70,6 milyon ABD doları), 2014 yılında ise bir önceki yıla oranla %30 oranında bir artış ile 28.115 tona (87,1 milyon ABD doları) yükseldiği görülmektedir. Anılan ithalatın toplam ithalat içerisinde miktar bakımından payı ise 2012-2014 yılları arasında sırasıyla %59, %48 ve %53’tür.
+(2) Diğer ülkeler menşeli ithalatın birim fiyatlarına bakıldığında ise 2012-2014 yılları arasında birim fiyatların sırasıyla, 3,32 ABD doları/kg, 3,26 ABD doları/kg ve 3,10 ABD doları/kg olarak gerçekleştiği görülmektedir.

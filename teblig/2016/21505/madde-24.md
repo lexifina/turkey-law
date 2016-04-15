@@ -1,0 +1,3 @@
+Hindistan menşeli ithalatın gelişimi ve fiyatları
+MADDE 24 – (1) Hindistan menşeli söz konusu ürünün 2012 yılında 2.830 ton (7,7 milyon ABD doları) olan ithalatı, 2013 yılında %53 oranında bir artış ile 4.334 ton (10,6 milyon ABD doları), 2014 yılında ise bir önceki yıla oranla %72 oranında bir artış ile 7.443 ton (17,5 milyon ABD doları) olarak gerçekleşmiştir. Hindistan menşeli soruşturma konusu ürünün ithalatının, ürünün genel ithalatı içerisindeki miktar temelindeki payı ise 2012-2014 yılları içerisinde sırasıyla %8, %10 ve %14’tür.
+(2) Hindistan menşeli ithalatın 2012-2014 yılları arasındaki birim fiyatları ise sırasıyla 2,71 ABD doları/kg, 2,44 ABD doları/kg ve 2,36 ABD doları/kg’dır.

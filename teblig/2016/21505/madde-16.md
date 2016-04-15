@@ -1,0 +1,2 @@
+Piyasa ekonomisi şartlarının mevcut olmadığı ülkeler için oluşturulmuş normal değer
+MADDE 16 – (1) Yönetmeliğin 7 nci maddesi çerçevesinde ve yukarıdaki açıklamalar ışığında, ÇHC'de yerleşik işbirliğinde bulunan firmalar için normal değer, Türkiye'de benzer malın birim imalat maliyetine genel, idari ve satış giderleri ile makul bir kâr oranının eklenmesiyle oluşturulmuştur. Diğer taraftan, ÇHC’de yerleşik firmalar için yerli üreticinin imalat maliyetlerinde yer alan işçilik ve enerji giderlerinde gerekli ayarlamalar yapılmıştır.

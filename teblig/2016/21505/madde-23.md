@@ -1,0 +1,3 @@
+ÇHC menşeli ithalatın gelişimi ve fiyatları
+MADDE 23 – (1) ÇHC menşeli söz konusu ürünün 2012 yılında 6.994 ton (15,8 milyon ABD doları) olan ithalatı 2013 yılında %44’lük bir artış ile 10.050 ton (22,2 milyon ABD doları), 2014 yılında ise bir önceki yıla oranla %11 oranında bir düşüş ile 8.938 ton (20,9 milyon ABD doları) olarak gerçekleşmiştir. ÇHC menşeli soruşturma konusu ürünün, ürünün genel ithalatı içerisinde miktar temelindeki payı 2012-2014 yıllarında sırasıyla %19, %22 ve %17 olarak gerçekleşmiştir.
+(2) Çin menşeli ithalatın 2012-2014 yılları arasındaki birim fiyatları sırasıyla 2,25 ABD doları/kg, 2,21 ABD doları/kg ve 2,33 ABD doları/kg’dır.
