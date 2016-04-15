@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21504",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİ YÖNETMELİĞİ (305/2011/AB) KAPSAMINDA CPC BELGELENDİRME MUAYENE VE DENEY HİZMETLERİ TİC. LTD. ŞTİ.’NİN AVRUPA TEKNİK DEĞERLENDİRME KURULUŞU OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (TEBLİĞ NO: MHG/2016-04)",
+  "number": "21504",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2016/21504",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21504&MevzuatTertip=5",
+  "source_sha256": "51444a26dda78a472ef3a2ce900ec93b04dc80d9bda9a223349c950d8e1ee8ef",
+  "source_bytes": 8026,
+  "published": "2016-04-15",
+  "gazette": "29685",
+  "in_force": "2016-04-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.04.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 110,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21504-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
