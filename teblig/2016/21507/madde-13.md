@@ -1,0 +1,2 @@
+Önlem konusu ürünün genel ithalatı
+MADDE 13 – (1) Türkiye’nin önlem konusu ürün ithalatı, miktar bazında 2012 yılında 976.020 Kg, 2013 ve 2014’te ise sırasıyla, 966.939 Kg ve 1.092.843 Kg olarak gerçekleşmiştir. Değer bazında bakıldığında ise, 2012 yılında 1.546.221 ABD Doları olan genel ithalatın değeri, 2013 yılında 1.680.913 ABD Doları ve 2014 yılında ise 1.875.547 ABD Doları olmuştur. Genel ithalatın birim fiyatlarına bakıldığında ise, söz konusu fiyatların 2012’de 1,58 ABD Doları/Kg, 2013’te 1,74 ABD Doları/Kg, 2014’te ise 1,72 ABD Doları/Kg olduğu görülmüştür.

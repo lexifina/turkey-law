@@ -1,0 +1,2 @@
+Yerli üretim dalının ekonomik göstergelerinin değerlendirilmesi
+MADDE 19 – (1) Yerli üretim dalının ekonomik göstergeleri incelendiğinde, genel olarak ekonomik göstergelerinin önlemin de etkisiyle olumlu bir seyir izlediği görülmektedir. Bununla birlikte, verimlilik ve yatırımların geri dönüş oranı gibi bazı göstergelerinde bozulmalar görülmektedir. Ayrıca, yerli üretim dalının ticari maliyetlerinde ortaya çıkan artışı eş düzeyde yurtiçi satış fiyatlarına yansıtamaması, yerli üretim dalının ekonomik bakımdan kırılgan bir yapı arz etmesine neden olmaktadır.
