@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 3 – (1) Bu Tebliğde geçen;
+a) ABD: Amerika Birleşik Devletlerini,
+b) Bakanlık: Ekonomi Bakanlığını,
+c) Cargill: Cargill Cotton Business Unit of Cargill Inc firmasını,
+ç) CFTC: ABD Emtia Vadeli Kontratları Takas Kurumunu,
+d) DTÖ ADA: Dünya Ticaret Örgütü Anti-Damping Anlaşmasını,
+e) Genel Müdürlük: Bakanlık İthalat Genel Müdürlüğünü,
+f) GTP: Gümrük tarife pozisyonunu,
+g) IFRS: Uluslararası Finansal Raporlama Standartlarını,
+ğ) Kanun: 14/6/1989 tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanunu,
+h) LDC: LD Commodities Cotton LLC firmasını,
+ı) NCC: Amerikan Ulusal Pamuk Konseyini,
+i) Noble: Noble Americas Resouces Corporation firmasını,
+j) Staple: Staple Cotton Cooperative Association firmasını,
+k) TEPGE: Tarımsal Ekonomi ve Politika Geliştirme Enstitüsü Müdürlüğünü,
+l) TÜİK: Türkiye İstatistik Kurumunu,
+m) US GAAP: ABD’nin Genel Olarak Kabul Edilmiş Muhasebe Kurallarını,
+n) Yönetmelik: 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliği,
+o) YÜD: Yerli üretim dalını,
+ifade eder.

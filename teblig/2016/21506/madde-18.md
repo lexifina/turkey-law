@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Zarara İlişkin Belirlemeler
+İthalatın hacmi ve gelişimi
+MADDE 18 – (1) Yönetmeliğin 17 nci maddesi çerçevesinde, soruşturma konusu ülke menşeli ithalatın hacminde mutlak veya nispi olarak artış olup olmadığı incelenmiştir. Söz konusu inceleme 6 ncı maddede belirtilen zarar inceleme dönemi için yapılmıştır.
+(2) ABD Tarım Bakanlığının nihai bildirim sonrası sunmuş olduğu görüşlerde, nihai bildirimde 2014 yılına ilişkin zarar analizinde 9 aylık verilerin herhangi bir sebep gösterilmeden yıllıklandırıldığı ve bu şekilde oluşturulan değerlerin 2012 ve 2013 yıllarında fiili olarak gerçekleşen değerlerle kıyaslandığı, bu durumun ise Genel Müdürlüğün soruşturma kapsamında nesnel bir değerlendirme yapma yükümlülüğünü zedelediği iddia edilmiştir. Gerek nihai bildirim raporunda gerekse de bu Tebliğdeki zarar analizi, 6 ncı maddede belirtilen zarar inceleme dönemi esas alınarak yapılmıştır. Zarar analizinde kullanılan 2014 yılı yıllık verileri ise tıpkı 2012 ve 2013 yıllarındaki veriler gibi fiili olarak gerçekleşmiş TÜİK verileri olup herhangi bir yıllıklandırma yapılmamıştır.

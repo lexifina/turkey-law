@@ -1,0 +1,4 @@
+Ürünün soruşturma konusu ülkeden ithalatı
+MADDE 20 – (1) Soruşturma konusu ürünün ABD menşeli ithalatı incelendiğinde, 2012 yılında 295.956 ton olan ithalatın, 2013 yılında 444.266 tona yükseldiği, 2014 yılının ilk dokuz ayında 406.858 ton olarak gerçekleştiği, 2014 yılı genelinde ise 450.226 ton seviyesine çıktığı görülmektedir.
+(2) ABD menşeli pamuğun değer olarak ithalatına bakıldığında, 2012 yılında 653.664.870 ABD Doları olan ithalatın, 2013 yılında 869.367.705 ABD Dolarına yükseldiği, 2014 yılının ilk dokuz ayında 834.135.027 ABD Doları olarak gerçekleştiği, 2014 yılı genelinde ise 914.956.709 ABD Doları seviyesine yükseldiği tespit edilmiştir.
+(3) ABD menşeli soruşturma konusu dampingli ithalat 2012-2014 döneminde miktar olarak %52,1, değer olarak ise %40 oranında artış göstermiştir.

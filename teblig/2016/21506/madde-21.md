@@ -1,0 +1,4 @@
+Ürünün üçüncü ülkelerden ithalatı
+MADDE 21 – (1) Soruşturma konusu ürünün üçüncü ülkeler kaynaklı ithalatı incelendiğinde 2012 yılında 317.705 ton olan ithalatın, 2013 yılında 424.908 tona yükseldiği, 2014 yılının ilk dokuz ayında 288.597 olarak gerçekleştiği, 2014 yılı genelinde ise 462.862 ton seviyesine yükseldiği görülmektedir.
+(2) Üçüncü ülkeler kaynaklı ithalatın değer olarak gelişimi incelendiğinde, 2012 yılında 621.263.874 ABD Doları olan ithalatın, 2013 yılında 812.034.036 ABD Dolarına yükseldiği, 2014 yılının ilk dokuz ayında 551.301.131 ABD Doları olarak gerçekleştiği, 2014 yılı genelinde ise 835.155.205 ABD Doları seviyesine yükseldiği tespit edilmiştir.
+(3) Üçüncü ülkeler kaynaklı ithalat 2012-2014 döneminde miktar olarak %45,7, değer olarak ise %34,4 oranında artış göstermiştir.
