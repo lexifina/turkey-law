@@ -1,0 +1,94 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 826569,
+  "assembly": "TBMM",
+  "term": 26,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar / Temel Kanun Tasarıları",
+  "summary": "Cezaî Konularda Uluslararası Adlî İşbirliğine Dair (1/695) (S. Sayısı: 278)",
+  "title": "Cezaî Konularda Uluslararası Adlî İşbirliğine Dair (1/695) (S. Sayısı: 278)",
+  "first_sitting_date": "2016-04-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 15,
+      "sitting": 75,
+      "sitting_date": "2016-04-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c015/tbmm26015075.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c015/tbmm26015fih.pdf",
+      "pages": [
+        "434:448",
+        "455:457",
+        "461:467",
+        "469:476",
+        "476:483",
+        "488:521",
+        "525:527"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 15,
+      "sitting": 76,
+      "sitting_date": "2016-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c015/tbmm26015076.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c015/tbmm26015fih.pdf",
+      "pages": [
+        "673:675",
+        "678:686",
+        "687:714",
+        "724:725",
+        "726:742"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 15,
+      "sitting": 77,
+      "sitting_date": "2016-04-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c015/tbmm26015077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c015/tbmm26015fih.pdf",
+      "pages": [
+        "891:894",
+        "894:911",
+        "912:914"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 15,
+      "sitting": 78,
+      "sitting_date": "2016-04-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c015/tbmm26015078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c015/tbmm26015fih.pdf",
+      "pages": [
+        "981:987",
+        "988:1004",
+        "1006:1014",
+        "1015:1018",
+        "1020:1028",
+        "1029:1039",
+        "1039:1057",
+        "1061",
+        "1064:1109",
+        "1113:1125",
+        "1126"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5c5dd34ade1ba47a606b9cbf8ae86b62a14547b9a8ccf81ead85b2b317ee38bd",
+  "in_force": "2016-04-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
