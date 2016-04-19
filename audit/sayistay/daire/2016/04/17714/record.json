@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "101",
+  "decision_date": "2016-04-19",
+  "source_id": 17714,
+  "chamber": "7",
+  "ilam_number": "193",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17714/",
+  "source_sha256": "e410fe1e6535a20fbf4fe7e0da234c8681e7b4f055a4b313d38144a2fcc30189",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
