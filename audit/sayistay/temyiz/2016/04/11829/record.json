@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41813",
+  "decision_date": "2016-04-19",
+  "source_id": 11829,
+  "chamber": "5",
+  "file_number": "40200",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11829/",
+  "source_sha256": "997630bf6771ca881e4d06fc951d63ea48891d566478c217b2ba804b224c1736",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
