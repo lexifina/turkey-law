@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "170",
+  "decision_date": "2016-04-19",
+  "source_id": 20258,
+  "chamber": "5",
+  "ilam_number": "443",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20258/",
+  "source_sha256": "31ec2f19c604d53c92746d4c4c28504b1d7d4efbc44368e99555f375cd1a97d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
