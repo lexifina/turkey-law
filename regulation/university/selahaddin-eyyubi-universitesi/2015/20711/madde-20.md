@@ -1,0 +1,3 @@
+Başarı notunun belirlenmesi
+MADDE 20 – (1) Bir dersin başarı notu; (M/EX) notu hariç, o derse ait yarıyıl içi sınavı kapsamında yapılan kısa sınavlar, alan çalışması, uygulama, ödev, proje, atölye, seminer, devam, laboratuvar, staj ve benzeri çalışmalar ve yarıyıl sonu sınavından alınan notlar esas alınarak dersin başarı değerlendirme sistemine göre belirlenir. Açılacak derslere ait başarı değerlendirme sistemi, her yarıyılın ilk haftası içinde dersin öğretim elemanı tarafından ders bilgi formu ile ilan edilir.
+(2) Bir dersin başarı notu, her yarıyıl sonunda akademik takvimde gösterilen süre içerisinde ilgili idari birime teslim edilir ve sonuçlar Öğrenci İşleri Daire Başkanlığı tarafından ilan edilir.

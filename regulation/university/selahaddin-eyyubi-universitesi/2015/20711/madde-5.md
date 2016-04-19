@@ -1,0 +1,2 @@
+Yarıyıl kayıtları
+MADDE 5 – (1) Öğrenciler, eğitim-öğretim süreleri boyunca her yarıyıl başında Rektörlük tarafından ilan edilen süreler içinde kayıtlarını yenilemek zorundadır. Yarıyıl kayıtları sırasında öğrencinin o yarıyılda alacağı dersler belirlenir ve kaydı yapılır. Yarıyıl kaydının yapılması için o yarıyıl ücretinin ödenmiş olması gerekir. Mazeretleri Rektörlük tarafından uygun görülen öğrenciler, ders ekleme süresi içinde kayıt yaptırabilir. Yarıyıl kayıtlarını yaptırmayan öğrenciler öğrencilik haklarından faydalanamazlar.

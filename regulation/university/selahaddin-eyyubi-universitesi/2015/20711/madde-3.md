@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Ara sınav: Dersin okutulduğu yarıyıl içerisinde yapılan sınavları,
+b) Bütünleme sınavı: Dersin okutulduğu yarıyıl içerisinde yarıyıl sonu sınavı yerine geçen sınavı,
+c) Danışman: Öğrencilerin eğitim-öğretim ve diğer sorunlarıyla ilgilenmek üzere ilgili bölüm başkanı veya anabilim dalı başkanı tarafından görevlendirilen öğretim elemanını,
+ç) Ek sınav: Öğretim programındaki derslerden (YS/U) ve (DS/NA) notu bulunmayan, staj hariç en fazla iki dersi FF olan veya başarısız dersi bulunmayıp GNO’ ları 2,00’ın altında kalan öğrencilerden, en çok iki dersten ek sınava girerek mezuniyet koşulunu sağlayabilecek olanlara verilen ek sınav hakkını,
+d) GNO: Genel not ortalamasını,
+e) İlgili kurul: Fakültelerde fakülte kurulunu, yüksekokullarda yüksekokul kurulunu, meslek yüksekokulunda meslek yüksekokulu kurulunu,
+f) İlgili yönetim kurulu: Fakültelerde fakülte yönetim kurulunu, yüksekokullarda yüksekokul yönetim kurulunu, meslek yüksekokulunda meslek yüksekokulu yönetim kurulunu,
+g) Kısa sınav: Öğretim elemanının önceden haber vermeden ders esnasında veya sonrasında yaptığı sınavları,
+ğ) Lisans: Ortaöğretimden sonra, en az sekiz yarıyıllık veya dört yıllık bir programı kapsayan yükseköğretimi,
+h) Ön lisans: Ortaöğretimden sonra en az dört yarıyıllık veya iki yıllık bir programı kapsayan yükseköğretimi,
+ı) Mazeret sınavı: İlgili yönetim kurulunca kabul edilen haklı ve geçerli bir nedenden dolayı ara sınavlara katılamayan öğrenciler için açılan sınavları,
+i) Mezuniyet aşamasına gelmiş öğrenciler: Son sınıfa kadar tüm yarıyıllarda ders kaydı yaptıran öğrencileri,
+j) Mütevelli Heyet: Selahaddin Eyyubi Üniversitesi Mütevelli Heyetini,
+k) Normal ders yükü: Öğrencinin devam edeceği yarıyıla ait öğretim programındaki derslerin kredi toplamını,
+l) Ortak zorunlu ders: 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendinde belirtilen Atatürk İlkeleri ve İnkılâp Tarihi, Türk Dili ve yabancı dil hazırlık sınıfı olmayan programlardaki yabancı dil derslerini,
+m) Öğretim programı: Bölümlerin/programların görüşleri alınmak suretiyle fakülte/yüksekokul/meslek yüksekokulu kurulunca kararlaştırılan ve Senato tarafından kabul edilen öğretim programını,
+n) Ön şartlı ders: Alınabilmesi için önceki yarıyıl veya yıllarda yer alan derslerden bir veya birkaçının başarılması şartı aranılan dersi,
+o) Seçmeli ders: Öğrencinin alması gereken zorunlu dersler dışında kendi bölümünün ya da diğer bölümlerin seçmeli dersleri içinden isteği doğrultusunda aldığı dersi,
+ö) Senato: Üniversitenin Senatosunu,
+p) Transkript: Not döküm belgesini,
+r) Uzatmalı öğrenci: Kayıtlı olduğu eğitim programından normal süresi içinde mezun olamayan öğrenciyi,
+s) Üniversite: Selahaddin Eyyubi Üniversitesini,
+ş) Yarıyıl ders yükü: Öğrencinin bir yarıyılda kayıtlı olduğu tüm derslerin kredi toplamını,
+t) Yarıyıl sonu sınavı: Dersin okutulduğu yarıyıl sonunda yapılan sınavı,
+u) Zorunlu ders: Öğrencinin almak zorunda olduğu dersleri
+ifade eder.

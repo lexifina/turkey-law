@@ -1,0 +1,5 @@
+Ön lisans ve lisans programları, zorunlu, seçmeli ve ön şartlı dersler
+MADDE 9 – (1) Bir bölümün ön lisans veya lisans programı ve ders kredi saat değerleri bölüm/program başkanlığınca ilgili kurula önerilir. Ön lisans veya lisans programları, ilgili kurullarca kabul edildikten sonra Senatonun onayı ile kesinleşir. Ancak, bu programlarda yer alan derslerin verilecekleri yarıyıl veya yıla ilişkin değişikliklerle, açılacak veya kaldırılacak seçmeli dersler hakkında ilgili kurul yetkilidir.
+(2) Dersler zorunlu ve seçmeli olmak üzere iki gruba ayrılır. Her öğrenci kayıtlı olduğu bölümün/programın müfredatında yer alan zorunlu ve seçmeli dersleri almakla yükümlüdür. Seçmeli dersler, müfredatta yer alan sınırlamalar içerisinde kalmak kaydıyla öğrencinin ilgi alanı ve isteği de göz önünde bulundurularak danışman yardımıyla belirlenir.
+(3) Bir dersin alınabilmesi için, daha önce alınarak başarılması gereken ön şartlı dersler, ilgili bölüm başkanlığınca fakülte/yüksekokul/meslek yüksekokulu kuruluna önerilir ve kurulun onayından sonra kesinleşir.
+(4) İlgili yönetim kurulunun teklifi ve Senatonun onayı ile dersler müfredatta yer aldığı dönem haricinde açılabilir.

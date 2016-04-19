@@ -1,0 +1,4 @@
+Yurt içi ve yurt dışındaki üniversitelere gönderilen öğrenciler
+MADDE 28 – (1) Üniversite ile yurt içindeki ve yurt dışındaki yükseköğretim kurumları arasında yapılabilecek anlaşmalara göre, öğrenci değişimi çerçevesinde Üniversite tarafından öğrenciler, eğitimlerinin üçüncü yarıyılından itibaren, dört yarıyıla kadar yurt içindeki ve yurt dışındaki yükseköğretim kurumlarına gönderilebilir. Gönderilen öğrencinin bu süre içerisinde Üniversitedeki kaydı devam eder ve bu süre öğretim süresinden sayılır. Sözleşmede aksi belirtilmedikçe öğrenci, öğrenim ücretini Üniversiteye öder.
+(2) Anlaşmalı olmayan yükseköğretim kurumlarına öğrenci gönderilmesi, ilgili yönetim kurulları tarafından karara bağlanır.
+(3) Öğrencinin yurt içi ve yurt dışındaki yükseköğretim kurumlarından almış olduğu derslerin eşdeğerlik işlemleri; ilgili kurul tarafından, diğer yükseköğretim kurumundan aldığı notların 16 ncı maddedeki not sistemine dönüştürülmesi suretiyle yapılır.

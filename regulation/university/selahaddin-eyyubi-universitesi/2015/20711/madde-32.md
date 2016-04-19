@@ -1,0 +1,2 @@
+Çift anadal ve yandal programı
+MADDE 32 – (1) Öğrenciler, ilgili mevzuat hükümleri ve Senato kararları ile belirlenen esaslara uygun olarak başka bir bölümün açmış olduğu ikinci bir programa ait çift anadal ve yandal programı derslerini takip edebilirler. Öğrencilere, bu programa ait dersleri başardığında çift anadal programı için diploma, yandal programı için sertifika verilir. Çift anadal ve yandal programları Senatoca belirlenen esaslara göre yürütülür.

@@ -1,0 +1,9 @@
+Ders yükü ve ders kayıtları
+MADDE 10 – (1) Ders yükünün belirlenmesinde ve ders kayıtlarında aşağıda belirtilen esaslar uygulanır:
+a) Ders yükü, bir öğrencinin herhangi bir dönemde aldığı derslerin AKTS toplamı değeridir. Öğrencinin devam edeceği yarıyıla ait olan ders yüküne normal ders yükü, kayıt olduğu derslerin tümüne ise yarıyıl ders yükü denir. Sınamalı statüde bulunan öğrenciler hariç; yarıyıl ders yükü, 30 AKTS olan normal ders yükünün bir buçuk katını geçmemek koşuluyla danışmanın teklifi ve ilgili yönetim kurulunun onayıyla belirlenir. Ders yükü hesabında, derslerin AKTS değeri esas alınır.
+b) Öğrencilerin isteği ve akademik danışmanının onayı ile ders yükleri azaltılabilir. Bu durumdaki öğrenciler en az iki ders almak zorundadır.
+c) Öğrenciler, öncelikle alt yarıyıllardan başarısız oldukları ve/veya daha önce almadıkları derslere kaydolmak zorundadırlar. Bu derslerin verilmesine alt yarıyıllardan başlanır.
+ç) Öğretim programından çıkartılan ve açılmayan derslerin yerine ilgili kurullarca belirlenen diğer dersler alınır.
+d) Daha önce alınan bir seçmeli dersin tekrarında, aynı dersin alınması zorunlu değildir. Bu dersin yerine, aynı yarıyıldaki seçmeli dersler arasından başka bir ders seçilebilir.
+e) Mezuniyet aşamasına gelmiş öğrencilerin yarıyıl ders yükleri danışmanın önerisi ve bölüm/program başkanının onayı ile en fazla 15 derse kadar artırılabilir.
+f) Öğretim programındaki bazı derslerden muaf olmak, ön şartlı dersleri başaramamış olmak, yarıyıl izni kullanmış olmak veya üniversitelerarası değişim programlarına katılmak gibi nedenlerle normal ders yükünü tamamlayamayan öğrenciler, danışmanın onayı ile bulunduğu yarıyılda muaf ya da başarılı olduğu kredi yükü kadar üst yarıyıllardan ders alabilirler. Ancak, bu öğrencilerin yarıyıl ders yükü, bulunduğu yarıyıldaki normal ders yükünü geçemez.

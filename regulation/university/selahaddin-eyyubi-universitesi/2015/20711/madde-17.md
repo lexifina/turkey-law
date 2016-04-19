@@ -1,0 +1,2 @@
+Notlarda maddi hata
+MADDE 17 – (1) Yapılan sınavların notları Öğrenci İşleri Daire Başkanlığı tarafından ilan edildikten sonra maddi hata tespit edilmesi halinde, düzeltme işlemi için, öğrencinin ya da ilgili öğretim elemanının, notların ilanını izleyen en geç bir hafta içinde ilgili bölüm/program başkanlığına başvurması gerekir. Başvuru, bölüm/program başkanı tarafından bir hafta içerisinde incelenerek ilgili dekanlığa/müdürlüğe gönderilir. Tespit edilen maddi hata ilgili yönetim kurulu kararı ile düzeltilir ve Öğrenci İşleri Daire Başkanlığına iletilir.

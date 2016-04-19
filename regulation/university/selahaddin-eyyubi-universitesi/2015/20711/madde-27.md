@@ -1,0 +1,2 @@
+Üniversiteden ayrılma
+MADDE 27 – (1) Kendi isteği ile Üniversiteden ayrılacak öğrenciler, Öğrenci İşleri Daire Başkanlığına yazılı olarak başvururlar. Bu öğrencilerin ilgili birimlerden alacakları ilişik kesme belgelerini ibraz etmek şartıyla kayıtları silinir. Başvuru üzerine kaydı silinen öğrenciye, isterse öğrenim durumunu gösteren bir belge, girişte Üniversiteye teslim ettiği diplomaları ve diğer belgeleri verilir. Ancak, öğrencinin içinde bulunduğu yarıyıl ücretinin tamamı tahsil edilir.

@@ -1,0 +1,2 @@
+Öğrenci danışmanlığı
+MADDE 12 – (1) Her öğrenci için ilgili bölüm başkanlığı tarafından öğretim elemanları arasından bir öğrenci danışmanı atanır. Danışman, öğrenimi boyunca öğrencinin akademik gelişimini ve performansını takip eder. Eğitim-öğretim ve kariyer konularında öğrenciye danışmanlık yapar. Yarıyıl kayıtlarının yapılması veya yenilenmesinde öğrenciyi yönlendirir ve gerekli onay işlemlerini yapar. Ancak, yarıyıl kayıtlarının yapılmasından ve yenilenmesinden öğrenci sorumludur.

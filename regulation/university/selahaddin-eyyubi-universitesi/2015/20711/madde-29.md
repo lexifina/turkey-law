@@ -1,0 +1,2 @@
+Yatay geçiş
+MADDE 29 – (1) Diğer yükseköğretim kurumlarından yatay geçiş yapmak isteyen öğrenciler, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri çerçevesinde, akademik takvimde belirtilen süreler içinde öğrenci işleri birimine başvuruda bulunabilirler. Başvurular, öğrencinin geçiş yapmak istediği bölümün önerisi ve ilgili yönetim kurulunun kararı ile kesinleşir.

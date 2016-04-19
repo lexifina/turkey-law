@@ -1,0 +1,3 @@
+Mezuniyet ve diploma
+MADDE 24 – (1) Öğretim programında gösterilen derslerin tümünden başarılı olmuş ve GNO’sunu en az 2,00 düzeyine çıkarmış, staj zorunluluğu olan bölümlerde stajını başarı ile tamamlamış, ilgili yönetim kurulunun kararı ile mezuniyet koşulunu sağlamış öğrencilere, fakülte/yüksekokul ile bölüm adı açıklanmak ve gerekiyorsa öğrenim görülen program da belirtilmek suretiyle ön lisans/lisans diploması verilir. Transkript ve diplomalar Türkçe ve İngilizce olarak düzenlenir.
+(2) Diploma almaya hak kazanmış öğrenciler, diplomalarını alabilmek için ilgili birimlerden temin edecekleri ilişik kesme belgesini ibraz etmek zorundadır.

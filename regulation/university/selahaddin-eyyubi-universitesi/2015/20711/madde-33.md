@@ -1,0 +1,3 @@
+Ön lisans diploması
+MADDE 33 – (1) Kayıtlı olduğu öğretim programındaki ilk dört yarıyılın bütün dersleri ile Yükseköğretim Kurulu tarafından belirlenen ortak zorunlu dersleri başarmış olup, GNO’sunu en az 2,00’a çıkarmış olan öğrencilere müracaatları halinde, 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Ön Lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik hükümleri çerçevesinde, ilgili yönetim kurulunun kararı ile ön lisans diploması verilir.
+(2) Ön lisans diploması almak için başvuran öğrencilere, gerekli şartları sağlamak üzere, 25 inci maddede yer alan esaslara uygun olarak ek sınav hakkı verilir.
