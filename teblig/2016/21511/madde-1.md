@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 28/1/2015 tarihli ve 29250 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/1) ile başlatılan ve Ekonomi Bakanlığı tarafından yürütülen damping soruşturması kapsamında yerli üreticiler tarafından yapılan damping önlemi başvurusunun soruşturma süresi içerisinde geri çekilmesi neticesinde alınan kararın yürürlüğe konulmasıdır.
