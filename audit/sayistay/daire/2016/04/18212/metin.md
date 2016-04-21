@@ -1,0 +1,11 @@
+ Yemek giderleri
+
+........ Belediyesi tarafından vergi döneminde çalışan personel için öğle ve akşam yemeği satın alınarak bedelinin Belediye bütçesinin temsil, ağırlama ve tören giderleri kaleminden ödenmesi sonucunda ………….TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+Belediye giderlerinin neler olduğu 5393 sayılı Belediye Kanunu’nun “Belediyenin Giderleri” başlıklı 60 ıncı maddesinde tek tek sayılmıştır. Belirtilen maddede, Temsil, tören, ağırlama ve tanıtım giderleri belediye giderleri arasında sayılmıştır. Diğer taraftan ise, Belediye Bütçesinden Yapılacak Temsil Ağırlama ve Tören Giderleri Yönergesi’nin 3 üncü maddesinde; temsil, ağırlama ve tören giderlerinin konu, kapsam ve miktarının tayininin Belediye Başkanının takdirine tabi olduğu belirtildikten sonra bu takdir yetkisinin sınırları da aynı Yönergenin 4 üncü maddesinde “Temsil Giderleri”, 5’inci maddesinde “Tören Giderleri” ve 9’uncu maddesinde ise “Ağırlama Giderleri” başlıkları altında sayma yöntemiyle belirtilmiştir. Belediye Bütçesinden Yapılacak Temsil Ağırlama ve Tören Giderleri Yönergesi’nin bahsedilen 3, 4, 5, ve 9 uncu maddeleri bir arada değerlendirildiğinde, söz konusu yemek giderlerinin Belediye bütçesinin temsil, ağırlama ve tören giderleri kaleminden karşılanabileceği anlaşılmaktadır.
+
+Diğer taraftan, vergi dönemi nedeniyle yoğun çalışma şartları altında ve mesai saatleri dışında ve ayrıca hafta sonları da vatandaşların vergilerini daha rahat yatırmaları için kamu hizmetinin devamı mahiyetinde çalışan personelin, hafta içerisindeki mesai dışı akşam yemeği ve hafta sonunda da öğle ve akşam yemeği giderlerinin Belediye bütçesinden karşılanmasının, hizmetin gereği olarak değerlendirilmesi gerekmektedir. Dolayısıyla, herhangi bir kamu zararı söz konusu değildir.
+
+Bu itibarla, ........ Belediyesi tarafından vergi döneminde çalışan personel için öğle ve akşam yemeği satın alınarak bedelinin Belediye bütçesinden ödenmesi mevzuata uygun olduğundan, ……………..-TL tutarındaki ödeme ile ilgili olarak ilişilecek husus bulunmadığına,
+
+İş bu ilamın tebliğ tarihinden itibaren 6085 sayılı Kanunun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu ve 56 ncı maddesi gereğince beş yıl içinde Sayıştay Daireleri nezdinde yargılamanın iadesi yolu açık olmak üzere oybirliğiyle karar verildi.
