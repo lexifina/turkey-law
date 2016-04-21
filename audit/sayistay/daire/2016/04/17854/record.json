@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "173",
+  "decision_date": "2016-04-21",
+  "source_id": 17854,
+  "chamber": "5",
+  "ilam_number": "171",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17854/",
+  "source_sha256": "9d7e351a23c232b118529d7da32083a93a74c370709eb593128ddcafff5faf24",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
