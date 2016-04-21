@@ -1,0 +1,11 @@
+Tanıtım giderleri
+
+........ Belediyesi tarafından internette verilen reklamlar, tanıtım amacıyla hazırlanan programlar ve vatandaşları bilgilendirme amaçlı gönderilen kısa mesajların siyasi amaç ve içerik taşıması sebebiyle, bu giderlere ilişkin bedellerin Belediye bütçesinden ödenmesi 5393 sayılı Belediye Kanununa göre mümkün olmadığı halde, ........ Belediyesi bütçesinden söz konusu giderlerin ödenmesi sonucunda ……………-TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+5393 sayılı Belediye Kanunu’nun “Belediyenin Yetkileri ve İmtiyazları” başlıklı 15 inci maddesinde ve “Belediye giderleri” başlıklı 60 ıncı maddesinde, belediyelerin yetki ve imtiyazları ile Belediyelerin giderleri arasında siyasi içerikli tanıtım ve reklam harcamalarının belediye bütçesinden ödenmesine ilişkin bir yetki veya hüküm bulunmamaktadır. Ancak, ........ Belediyesi tarafından yapılan söz konusu işlemler mevzuata uygun olmamakla birlikte, Belediye bütçesinden yapılan harcama neticesinde herhangi bir kamu zararına neden olunmamıştır. Şöyleki;
+
+Savunmalarda belirtildiği ve savunma eki olarak gönderilen belgelerden de anlaşılacağı üzere, ........ Belediyesi tarafından gerçekleştirilen faaliyetler, Belediyeyi temsil konumunda bulunan Belediye Başkanının internet ortamındaki Belediyeye hizmetlerinin tanıtımına ilişkin reklamları, vatandaşı bilgilendirme amacıyla yollanan SMS’ler ve Belediye faaliyetlerinin tanıtım amacıyla hazırlanan programlardır. Kaldı ki, savunma ekinde gönderilen internet çıktılarına bakıldığında, bu ilanların belediye faaliyetleri kapsamında yapıldığı görülecektir. Bu faaliyetlerin Belediyenin hükmü şahsiyetiyle ilgili olduğu aşikardır. Diğer taraftan ise, yapılan tanıtım ve reklam programlarının içerisinde siyasi amaç ve içerik bulunduğunun tespiti uzmanlık gerektirdiğinden, yapılan faaliyetlerin tamamının bir partinin propagandasına yönelik olacağının kabulü mümkün görülmemektedir.
+
+Bu itibarla, kamu zararına neden olmadığı anlaşılan …………..-TL tutarındaki ödeme ile ilgili olarak ilişilecek husus bulunmadığına,
+
+İş bu ilamın tebliğ tarihinden itibaren 6085 sayılı Kanunun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu ve 56 ncı maddesi gereğince beş yıl içinde Sayıştay Daireleri nezdinde yargılamanın iadesi yolu açık olmak üzere oybirliğiyle karar verildi.
