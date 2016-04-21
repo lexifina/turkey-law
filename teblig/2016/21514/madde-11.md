@@ -1,0 +1,4 @@
+Süreler
+MADDE 11 – (1) 10 uncu maddenin birinci fıkrasında belirtilen bildirimin gönderildiği bütün ilgili taraflar için soru formunu cevaplandırma süresi, soruşturmanın açılışına ilişkin bildirimin gönderildiği tarihten itibaren posta süresi dâhil 37 gündür.
+(2) 10 uncu maddenin üçüncü fıkrasında belirtilen bildirimin gönderilmediği bütün ilgili taraflar, soruşturma ile ilgili görüşlerini ve soru formuna ilişkin cevaplarını bu Tebliğin yayımı tarihinden itibaren başlayacak 37 günlük süre içerisinde sunabilir.
+(3) Soruşturmanın sonucundan etkilenebileceklerini iddia eden 10 uncu maddenin altıncı fıkrası kapsamına giren diğer ilgili taraflar, soruşturma ile ilgili görüşlerini bu Tebliğin yayımı tarihinden itibaren soruşturmanın akışını etkilemeyecek şekilde soruşturma süreci içerisinde sunabilir.

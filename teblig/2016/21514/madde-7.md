@@ -1,0 +1,3 @@
+Gerekçe
+MADDE 7 – (1) 16/8/2015 tarihli ve 29447 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/36) ile meri önlemin 3/5/2016 tarihinde sona ereceği ve bahse konu ürünün yerli üreticilerinin mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir başvuru ile NGGS açılması talebinde bulunabileceği ilan edilmiştir.
+(2) Mezkur ilanı müteakip MKS firması tarafından iletilen başvurunun incelenmesi neticesinde, ÇHC menşeli önleme konu ürün için uygulanan dampinge karşı önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğuna ilişkin olarak bir NGGS açılmasını haklı kılacak bilgi, belge ve delillerin mevcut olduğu anlaşılmıştır.
