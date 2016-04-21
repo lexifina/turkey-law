@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6234",
+  "decision_date": "2016-04-21",
+  "title": "Türkiye Elektrik İletim Anonim Şirketi (TEİAŞ)",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=M5T0EkHUD6Q=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=M5T0EkHUD6Q="
+  ],
+  "source_sha256": "528c2275d2e4f851b52443973fc8956c0d79eef8afa44e83043269561a7512d7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2016-04-21",
+  "law_text_complete": false
+}
