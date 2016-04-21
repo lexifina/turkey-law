@@ -1,0 +1,37 @@
+Giyecek yardımı
+
+........ Belediyesi'nde Başkanlık ve Meclis katında çalışan personel için muhtelif giyim eşyası satın alınarak bedellerinin Temsil Ağırlama ve Tören Giderleri kaleminden ödenmesi sonucu ………….-TL tutarında kamu zararına neden olunduğu konusuyla ilgili olarak;
+
+5393 sayılı Belediye Kanunu’nun 60 ıncı maddesi belediyelerin giderlerini sıralamak suretiyle sınırlandırmıştır. Madde hükmünden anlaşılacağı üzere, Kurumun başkanlık katında çalışan personeli için yapılan kılık-kıyafet alımlarının bütçeden karşılanmasına izin veren bir düzenleme bulunmamaktadır.
+
+Diğer taraftan, alımların Belediyenin temsil, tanıtım ve ağırlama ödenekleri kullanılmak suretiyle gerçekleştirildiği de anlaşılmaktadır. Belediye Bütçesinden Yapılacak Temsil Ağırlama ve Tören Giderleri Yönergesi’nin 3 üncü maddesinde; temsil, ağırlama ve tören giderlerinin konu, kapsam ve miktarının tayininin Belediye Başkanının takdirine tabi olduğu belirtildikten sonra bu takdir yetkisinin sınırları aynı Yönergenin 4 üncü maddesinde; “Temsil Giderleri”, 5 inci maddesinde; “Tören Giderleri” ve 9 uncu maddesinde ise; “Ağırlama Giderleri” başlıkları altında sayma yöntemiyle belirtilmiştir. Yönergeye göre, Başkanlık katında görev yapan personel için alınan giyecek bedellerinin belediyenin temsil, ağırlama ve tören giderleri kaleminden ödenmesi de mümkün değildir.
+
+Mahalli İdareler  Harcama Belgeleri Yönetmeliği’nin “ Temsil, ağırlama, tören, fuar ve tanıtma giderleri” başlıklı 37 nci maddesinde; Temsil, ağırlama, tören, fuar, tanıtma ve benzeri faaliyetlerle ilgili olarak yapılacak her türlü mal ve hizmet alımı ile yapım işlerine ilişkin giderlerin ödenmesinde, bu Yönetmeliğin ilgili maddelerinde belirtilen belgelerin aranacağı ifade edilmiştir.
+
+Yine aynı Yönetmeliğin 5, 36 ve 49 uncu maddelerine göre; İhale veya doğrudan temin usulüyle yapılacak her türlü mal ve hizmet alımlarına ilişkin ödemelerde; onay belgesi, ihale komisyonu kararı, 4734 Sayılı Kamu İhale Kanununun 22’inci maddesine göre doğrudan temin usulüyle yapılan alımlarda piyasa fiyat araştırması tutanağı ve kamu idareleri için belirlenen diğer belgeler ödeme emri belgesine eklenecektir.
+
+Harcama talimatı ve Onay belgesinde, alım konusu işin niteliği miktarı, gereken hallerde yaklaşık maliyeti kullanabilir ödeneği ve tertibi, alımda uygulanacak usul belirtilmelidir. Ödeme emirleri ekli harcama talimatı ve onay belgelerinde bu bilgiler yer almamaktadır.
+
+Belediye tarafından satın alınan bahse konu hizmetlerin piyasa fiyat araştırması yapılmadan, tek firmadan (Sarar Büyük Mağazacılık Tic. A.Ş) teklif alınmak suretiyle gerçekleştirildiği de görülmektedir. Temsil, ağırlama ve tören giderleri ekonomik kodundan yapılacak harcamalar mutlaka 4734 sayılı Kanunda belirtilen ihale usullerinde birisi ile ya da doğrudan temin yöntemiyle yapılacaktır. Bunun için gerekli olan kanuni prosedüre uymak zorunludur. Bu nedenle tek firma tespit edip bu firmadan ihtiyacın temin edilmesi mümkün değildir. Piyasa fiyat araştırmasının sağlıklı ve gerçekçi yapıldığının mutlaka ispat edilmesi gerekmektedir. Bu, 4734 sayılı Kanunun temel ilkeleri olan açıklık, rekabet, saydamlık, güvenilirlik, kamuoyu denetimi, ihtiyaçların uygun şartlarla ve zamanında karşılanması ile kaynakların verimli kullanılması ilkelerinin gerçekleşmesi için bir zorunluluktur.
+
+Yapılan incelemede ilişikli ödeme emri belgelerinin ekinde piyasa fiyat araştırma tutanağı bulunmadığı sadece ………………….. Tic. A.Ş. firmasından alınan teklif yazısının bulunduğu görülmüştür. Yine satın alınan muhtelif giyim eşyasının kimlere nasıl dağıtıldığı konusunda da her hangi bir bilgi ya da belge de yer almamaktadır.
+
+Yukarıdaki hüküm ve açıklamalardan da anlaşılacağı üzere, Belediyede Başkanlık ve Meclis toplantılarının yapıldığı katta bulunan personele muhtelif giyim eşyası alımı, belediye giderleri arasında yer almamaktadır. Temsil, ağırlama ve tören giderleri tertibinden karşılanması da mümkün değildir.
+
+Dolayısıyla, ........ Belediyesi Başkanlık ve Meclis katında çalışan personel için giyim eşyasının satın alınması ve bedelinin de Temsil, ağırlama ve tören giderleri kaleminden ödenmesi, diğer tarftan da bu ödemelerin kanıtlayıcı belgeler tamam olmadığı halde yapılmış olması suretiyle …………….-TL tutarında kamu zararına yol açılmıştır.
+
+Diğer taraftan ise, her ne kadar, Belediye giderleri arasında sayılmayan ve temsil, ağırlama ve tören giderleri tertibinden karşılanması da mümkün olmayan giyim eşyaları, satın alınması mümkün olmamakla, söz konusu alımlar yapılmış ve bedeli ödenmiştir. Ancak, doğrudan temin ile yapılan bu alımlara ilişkin kanıtlayıcı belgelerin bir çoğunun ödeme emri belgeleri ekleri arasında bulunmadığı da görülmektedir. Ayrıca, Belediyede Başkanlık ve Meclis toplantılarının yapıldığı katta bulunan personele muhtelif giyim eşyası alımının Giyecek Yardımı Yönetmeliği hükümlerine de uyulmadan yapıldığı anlaşılmaktadır. Dolayısıyla, yapılan alımların belge eksikliği ve Giyecek Yardımı Yönetmeliğine aykırı olması itibari ile de mevzuata aykırılığı açıktır. Bu nedenle, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun 61 inci maddesindeki düzenlemeye uygun olarak, kanıtlayıcı belgeler eksik olmasına rağmen ödemede bulunan Muhasebe Yetkilisi de bu ödemelerden sorumlu tutulmuştur.
+
+Sorumlular, gönderdikleri ortak savunmalarında, her ne kadar bahse konu kıyafetlerin halkla birebir ilişki içerisinde olan personel için alındığını ifade etmişler ise de, bu savunmanın hukuki açıdan dayanaksız olması bir yana, aynı mantık silsilesi ile hareket edildiğinde, Başkanlık katındaki personele kıyasla halkla daha çok iletişimde olan Kurum veznedarlarına, tahsildarlarına, vb. de Belediye bütçesinden kıyafet satın alınması gerektiği ve sonucuna ulaşılacaktır. Diğer taraftan, Kamuda çalışan her personelin, çalıştığı kurumu bir şekilde temsil etmesi nedeniyle, kıyafetlerinin Kurum bütçesinden satın alınması gibi bir durumun hayatın olağan akışına uygun olduğu, bu mevzuat karşısında, söylenemez.
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun “Kamu Zararı” başlıklı 71 inci maddesinde, Kamu zararı; “Kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunmasıdır.” şeklinde tanımlanmış ve “Mevzuatında öngörülmediği halde ödeme yapılması,” hususu da kamu zararının belirlenmesinde esas alınacak kriterler arasında sayılmıştır. Dolayısıyla, bu kriter esas alındığında, yapılan bu mevzuata aykırı ödeme ile kamu zararına neden olunduğu aşikardır.
+
+Bu itibarla, ........ Belediyesi Başkanlık ve Meclis katında çalışan personel için giyim eşyası satın alınarak bedelinin Belediye bütçesinden ödenmesi sonucu neden olunan …………..-TL tutarındaki kamu zararının;
+
+…………-TL’sinin Gerçekleştirme Görevlisi .................. (……………) ve Muhasebe Yetkilisi ………………(………………) ile Harcama Yetkilisi ……………… (…………)’na müştereken ve müteselsilen,
+
+……………-TL’sinin ise Gerçekleştirme Görevlisi ………………… (Memur) ve Muhasebe Yetkilisi …………….. (………………….) ile Harcama Yetkilisi …………………… (………………….)’a müştereken ve müteselsilen,
+
+6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereğince işleyecek faizleri ile birlikte ödettirilmesine,
+
+İş bu ilamın tebliğ tarihinden itibaren aynı Kanunun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu ve 56 ncı maddesi gereğince beş yıl içinde Sayıştay Daireleri nezdinde yargılamanın iadesi yolu açık olmak üzere oybirliğiyle karar verildi.
