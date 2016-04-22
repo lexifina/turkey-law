@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 26,
+  "legislative_year": 1,
+  "esas_no": "7/5088",
+  "submitted": "2016-04-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Ali ASLAN",
+  "province": "Batman",
+  "summary": "Diyarbakır'ın Yenişehir ilçesinde bir ilkokulun bahçesinde iki çocuğun hayatını kaybettiği olaya ve Bakanlık tarafından yapılan işlemlere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-3c0f-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "b2a0e7bcca81868664f67c474aadc94a878ec3b0cb1f11238a6fc64f24a9ffa2",
+  "in_force": "2016-04-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
