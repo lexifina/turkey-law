@@ -1,0 +1,60 @@
+{
+  "source_id": "9.5.16760",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİNİN TABİ OLACAĞI KRİTERLER HAKKINDA YÖNETMELİK KAPSAMINDA CPC BELGELENDİRME MUAYENE VE DENEY HİZMETLERİ TİC. LTD. ŞTİ.’NİN UYGUNLUK DEĞERLENDİRME KURULUŞU OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (TEBLİĞ NO: MHG/2012-12)",
+  "number": "16760",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2012/16760",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16760&MevzuatTertip=5",
+  "source_sha256": "44fbda71941e0e02bebad150c6c02d95381c66009a30bc8711081cc5977384d3",
+  "source_bytes": 20212,
+  "published": "2012-11-13",
+  "gazette": "28466",
+  "in_force": "2016-04-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/4/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-04-22",
+      "RG-22/4/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-04-22",
+      "22/4/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-04-27",
+      "27/4/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-02-26",
+      "26/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-11-13",
+      "13/11/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 340,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16760-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
