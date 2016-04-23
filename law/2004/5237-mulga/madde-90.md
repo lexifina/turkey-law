@@ -1,0 +1,4 @@
+Madde 90 – fıkra (3) - (26/9/2004 tarihli ve 5237 sayılı Kanunun hükmüdür.) Çocuklar üzerinde bilimsel deney hiçbir surette yapılmaz.
+Madde 116 fıkra (2) ve (3) - (26/9/2004 tarihli ve 5237 sayılı Kanunun hükmüdür.) Evlilik birliğinde aile bireylerinden veya konutun birden fazla kişi tarafından ortak kullanılması durumunda bu kişilerden birinin rızası varsa, yukarıdaki fıkra hükmü uygulanmaz. Ancak bunun için rıza açıklamasının meşru bir amaca yönelik olması gerekir.
+Birinci fıkra kapsamına giren fiillerin, açık bir rızaya gerek duyulmaksızın girilmesi mutat olan yerler dışında kalan işyerleri ve eklentileri hakkında işlenmesi halinde, altı aydan bir yıla kadar hapis veya adlî para cezasına hükmolunur.
+2 – Anayasa Mahkemesi’nin 30/6/2011 tarihli ve E.: 2010/52, K.: 2011/113 sayılı Kararı ile iptal edilen hükmün metinleri.

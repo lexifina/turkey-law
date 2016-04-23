@@ -1,0 +1,45 @@
+{
+  "source_id": "5.5.5237",
+  "path": "law/2004/5237-mulga",
+  "number": "5237",
+  "tertip": "5",
+  "title": "TÜRK CEZA KANUNUN YÜRÜRLÜKTEN KALDIRILAN HÜKÜMLERİ",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "document": "repealed-provisions",
+  "companion_of": "law/2004/5237",
+  "enacted": "2004-09-26",
+  "enacted_as_printed": "26.9.2004",
+  "published": "2004-10-12",
+  "gazette": "25611",
+  "in_force": "2016-04-23",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"3) 23/4/2016 tarihli ve 6706 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:18)\"",
+  "date_evidence": [
+    [
+      "2016-04-23",
+      "3) 23/4/2016 tarihli ve 6706 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:18)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2005-03-31",
+      "1) 31/3/2005 tarihli ve 5328 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:59, 88, 90, 116)",
+      "a repeal note (enactment date of the repealing act)"
+    ]
+  ],
+  "repeal_notes": [
+    "1) 31/3/2005 tarihli ve 5328 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:59, 88, 90, 116)",
+    "3) 23/4/2016 tarihli ve 6706 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:18)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=5237&MevzuatTertip=5",
+  "source_sha256": "fa61f5e72e3d943dfa79ec7f9d037a023b485c55e4dde67988596a8559fbcb47",
+  "source_bytes": 22781,
+  "words": 756,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
