@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-04-24",
+  "issue": "29693",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Gediz Üniversitesi Önlisans Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160424-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160424.htm",
+  "index_sha256": "2ecee8667df21d4b8ec6c8e66d0d6e5addce87790a0b4e28f9bc13e1a0ab4788",
+  "index_header": "24 Nisan 2016 ... 29693 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160424.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
