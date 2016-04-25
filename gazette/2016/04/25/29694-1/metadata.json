@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-04-25",
+  "issue": "29694",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Askerî Yargı Hâkim Adayları ile Avukat ve Noter Adaylarının Türkiye Adalet Akademisindeki Meslek Öncesi Eğitimleri Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160425-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160425.htm",
+  "index_sha256": "8b1110837cff93b961268c90412fa403480208fd17a9ecd9556a8168b649bd86",
+  "index_header": "25 Nisan 2016 ... 29694 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160425.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
