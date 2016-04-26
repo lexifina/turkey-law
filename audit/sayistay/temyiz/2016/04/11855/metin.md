@@ -1,0 +1,9 @@
+Hüküm dışı bırakılan konuya itiraz edilmektedir.
+
+1592 sayılı Ek İlam’ın 1. maddesiyle; … Üniversitesi Deniz Bilimleri ve İşletmeciliği Enstitüsü tarafından “… İşi” dolayısıyla … Ltd. Şti.’nden tahsil edilmesi gereken … $ (karşılığı … YTL) tutarındaki Final Raporu bedelinin Üniversite Döner Sermaye Saymanlığı yerine .. Araştırma ve Yardım Vakfı’na aktarıldığı gerekçesiyle … YTL’nin tazminine ilişkin hüküm tesis edilmiştir.
+
+İlam hükmüne karşı Sorumlu adına temyiz talebinde bulunan Vekil Avukat …’un temyiz iddiaları 28.01.2014 tarih ve 38292 tutanak (22411 ilam) sayılı Temyiz Kurulu Kararı ile reddedilerek tazmin hükmünün tasdikine karar verilmiş, bunun üzerine aynı ilgili, karar düzeltilmesi talebinde bulunmuştur.
+
+Ancak, her ne kadar yukarıda adı geçen ilgili, karar düzeltilmesi talebinde bulunmakta ise de, aynı dilekçe ile yargılamanın iadesi talebinde de bulunduğu ve bunun neticesinde hesabın yargılandığı Dairede 28.05.2015 tarih ve 1697 (16.04.2015 tarih ve 253 tutanak) sayılı Ek İlam ile; “1592 sayılı ek ilamda yer alan … TL tutarındaki tazmin hükmünün kaldırılarak … Üniversitesi Deniz Bilimleri ve İşletmeciliği Enstitüsü tarafından yürütülen araştırma hizmeti ve final raporu bedelinin … Üniversitesi Döner Sermaye Saymanlığı yerine … Araştırma ve Yardım Vakfına aktarılması sonucunda … 15. Asliye Hukuk Mahkemesi nezdinde açılan alacak davasına ilişkin mahkeme kararının Başkanlığımıza intikalinden sonra düzenlenecek ek raporun Kanunda öngörülen süre içinde yargılanmasına değin …’nin 832 sayılı Sayıştay Kanununun 61 inci maddesi hükmü uyarınca hüküm dışı bırakılmasına” karar verildiği anlaşıldığından, işbu karar düzeltilmesi talebi hakkında Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA,
+
+Karar verildiği 26.04.2016 tarih ve 41834 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
