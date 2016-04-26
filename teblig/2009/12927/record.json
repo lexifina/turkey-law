@@ -1,0 +1,36 @@
+{
+  "source_id": "9.5.12927",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "3218 SAYILI SERBEST BÖLGELER KANUNU GENEL TEBLİĞİ (SERİ NO: 1)",
+  "number": "12927",
+  "path": "teblig/2009/12927",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12927&MevzuatTertip=5",
+  "source_sha256": "7d0ba0f6433ba662f7980a1f3bc4591c31053b396b27a06c87568acbabf97b3b",
+  "source_bytes": 77470,
+  "published": "2009-03-12",
+  "gazette": "27167",
+  "in_force": "2016-04-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/4/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-04-26",
+      "RG-26/4/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4613,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.12927-EK-.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
