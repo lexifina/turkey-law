@@ -1,0 +1,86 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 826575,
+  "assembly": "TBMM",
+  "term": 26,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar / Temel Kanun Tasarıları",
+  "summary": "Kolluk Gözetim Komisyonu Kurulması ve Bazı Kanunlarda Değişiklik Yapılmasına Dair (1/688) (S. Sayısı: 277)",
+  "title": "Kolluk Gözetim Komisyonu Kurulması ve Bazı Kanunlarda Değişiklik Yapılmasına Dair (1/688) (S. Sayısı: 277)",
+  "first_sitting_date": "2016-04-26",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 16,
+      "sitting": 81,
+      "sitting_date": "2016-04-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c016/tbmm26016081.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c016/tbmm26016fih.pdf",
+      "pages": [
+        "261:265",
+        "270",
+        "273:284",
+        "284:287"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 16,
+      "sitting": 82,
+      "sitting_date": "2016-04-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c016/tbmm26016082.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c016/tbmm26016fih.pdf",
+      "pages": [
+        "419",
+        "420:422",
+        "422:427",
+        "443:467",
+        "467:475",
+        "476"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 16,
+      "sitting": 83,
+      "sitting_date": "2016-05-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c016/tbmm26016083.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c016/tbmm26016fih.pdf",
+      "pages": [
+        "582:585"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 16,
+      "sitting": 84,
+      "sitting_date": "2016-05-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c016/tbmm26016084.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c016/tbmm26016fih.pdf",
+      "pages": [
+        "638:642",
+        "643:661",
+        "662:667",
+        "668:669",
+        "672:682",
+        "684:686",
+        "687:690"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5c5dd34ade1ba47a606b9cbf8ae86b62a14547b9a8ccf81ead85b2b317ee38bd",
+  "in_force": "2016-04-26",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
