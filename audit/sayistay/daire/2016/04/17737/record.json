@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10562",
+  "decision_date": "2016-04-26",
+  "source_id": 17737,
+  "chamber": "1",
+  "ilam_number": "290",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17737/",
+  "source_sha256": "85cad1b30036357081272b1ab1932d0a5e1d5a882be6ca2063f6aaf65c57d255",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
