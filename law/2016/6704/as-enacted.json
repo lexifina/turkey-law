@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6704",
+  "year": 2016,
+  "title": "65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz Türk Vatandaşlarına Aylık Bağlanması Hakkında Kanun ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-04-26",
+  "gazette_issue": "29695",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160426-11.htm",
+  "source_sha256": "2466c603f85dd06120e5b0ee121e3a0b910733dc30e2995f489b63bbdea08489",
+  "text_sha256": "c4846870b0fc3c4d2c3b82102bfa2db529b9284f14ec7eebf94e758ffce285db",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/04/26/29695-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/04/20160426-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
