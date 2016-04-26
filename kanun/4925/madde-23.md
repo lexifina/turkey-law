@@ -1,3 +1,2 @@
 Sigortanın ispatı
-Madde 23 - Sigorta şirketleri, şekli ve kapsamı Bakanlığın uygun görüşü ve Hazine Müsteşarlığının bağlı bulunduğu Bakanlığın onayı ile belirlenip Türkiye Sigorta ve Reasürans Şirketleri Birliğince bastırılacak sorumluluk sigortası belgesini, poliçe ile birlikte sigorta ettirene vermek zorundadır. Poliçede araçların plâka numaraları belirtilir ve her araç için sorumluluk sigortası belgesi düzenlenir.
-Taşımacılar sorumluluk sigortası belgelerini araçlarında bulundurmak zorundadır. Sorumluluk sigortası belgesi bulunmayan araçlar sigorta teminatı sağlanıncaya kadar trafikten men edilir.
+Madde 23 - (Mülga: 14/4/2016-6704/17 md.)

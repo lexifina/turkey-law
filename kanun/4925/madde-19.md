@@ -1,4 +1,2 @@
 Hak sahiplerinin çokluğu ve zorunlu malî sorumluluk sigortası
-Madde 19 - Hak sahiplerinin tazminat alacakları, sigorta sözleşmesinde öngörülen teminattan fazla ise hak sahiplerinden her birinin sigortacıya karşı yöneltebileceği tazminat talebi, teminat tutarının tazminat alacakları toplamına olan oranına göre indirime tâbi tutulur.
-Başka tazminat taleplerinin bulunduğunu bilmeksizin hak sahiplerinden birine veya birkaçına kendilerine düşecek olandan fazla ödemede bulunan iyiniyetli sigortacı, yaptığı ödeme çerçevesinde diğer hak sahiplerine karşı da borcundan kurtulmuş sayılır.
-Meydana gelen zarar öncelikle taşımacının sorumluluk sigortasından karşılanır. Bu sorumluluk sigortası ile karşılanamayan zararlar için 2918 sayılı Karayolları Trafik Kanununa göre yapılması zorunlu olan malî sorumluluk sigortasına müracaat edilir.
+Madde 19 - (Mülga: 14/4/2016-6704/17 md.)

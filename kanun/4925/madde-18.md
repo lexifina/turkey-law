@@ -1,7 +1,2 @@
 Zorunlu karayolu taşımacılık malî sorumluluk sigortası
-Madde 18 - Taşımacılar, yolcuya gelebilecek bedenî zararlar için bu Kanunun 17 nci maddesinden doğan sorumluluklarını sigorta ettirmek zorundadır. Ancak, Hazine Müsteşarlığının bağlı olduğu Bakanlık gerekli gördüğü takdirde, tespit edeceği yabancı ülkelerde ortaya çıkabilecek zararları teminat kapsamı dışında tutabilir.
-8534
-Zorunlu karayolu taşımacılık malî sorumluluk sigortasını yaptırmakla yükümlü olan taşımacı; kendisinin veya eylemlerinden sorumlu tutulduğu kişilerin kusuru bulunmaksızın ve araçtaki bir bozukluk kazayı etkilemiş olmaksızın, kazanın bir mücbir sebepten veya hak sahibinin veya bir üçüncü kişinin ağır kusurundan ileri geldiğini ispat ederse sorumluluktan kurtulur.
-Sorumluluktan kurtulamayan taşımacı, kazanın oluşunda zarar görenin kusurunun bulunduğunu ispat ederse, durum ve şartlara göre tazminattan indirim yapılabilir.
-Sorumluluk sigortasına ilişkin sigorta genel şartları Hazine Müsteşarlığınca onaylanır. Sorumluluk sigortası tarife ve talimatları Hazine Müsteşarlığının bağlı olduğu Bakanlıkça tespit edilir ve Resmî Gazetede yayımlanır. Hazine Müsteşarlığının bağlı olduğu Bakanlık tarifeyi serbest bırakmaya yetkilidir.
-Bu Kanunda öngörülen karayolu taşımacılık malî sorumluluk sigortası Türkiye'de karayolu motorlu araçlar zorunlu malî sorumluluk sigortası branşında ruhsatı bulunan sigorta şirketleri tarafından yapılır.
+Madde 18 - (Mülga: 14/4/2016-6704/17 md.)
