@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6243",
+  "decision_date": "2016-04-27",
+  "title": "Aksa Balıkesir Doğal Gaz Dağıtım A.Ş.’nin 2012-2016 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2016-05-05",
+  "resmi_gazete_number": "29703",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+9R3ihwDw24=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+9R3ihwDw24="
+  ],
+  "source_sha256": "1c335b4fc06a6795821053246d4b01c4e84e30c2197659817d7b5618b99d8f76",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-04-27",
+  "law_text_complete": false
+}
