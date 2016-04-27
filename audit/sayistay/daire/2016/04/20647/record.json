@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "332",
+  "decision_date": "2016-04-27",
+  "source_id": 20647,
+  "chamber": "6",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20647/",
+  "source_sha256": "27efa4a4067f8c44aef0cedde08beb5a93bc77047816a56516213830aaf9cff4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
