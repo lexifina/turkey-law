@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6248",
+  "decision_date": "2016-04-27",
+  "title": "Gazdaş Gaziantep Doğal Gaz Dağıtım A.Ş.’nin 2012-2016 yılları arası perakende satış tarifelerine ilişkin",
+  "resmi_gazete_date": "2016-04-30",
+  "resmi_gazete_number": "29699",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zA07m4nohrw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zA07m4nohrw="
+  ],
+  "source_sha256": "76d3dea9346d65379db33b26031498103ce91957d48950e7a8f0f56fee6b30e9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-04-27",
+  "law_text_complete": false
+}
