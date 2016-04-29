@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.8203",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ADLÎ VE ÖNLEME ARAMALARI YÖNETMELİĞİ",
+  "number": "8203",
+  "issuer": "Adalet ve İçişleri Bakanları",
+  "issuer_slug": "adalet-ve-icisleri-bakanlari",
+  "path": "regulation/adalet-ve-icisleri-bakanlari/2005/8203",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8203&MevzuatTertip=5",
+  "source_sha256": "ac0d22ce8a872bb81aba9fc76770d9a225349a408541e8af435a2c8fae178677",
+  "source_bytes": 102101,
+  "published": "2005-06-01",
+  "gazette": "25832",
+  "in_force": "2016-04-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/4/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-04-29",
+      "RG-29/4/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5770,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

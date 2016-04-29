@@ -1,0 +1,3 @@
+Spor müsabakaları ile ilgili aramalar
+Madde 23 - Spor müsabakalarının yapılacağı spor alanına, güvenlik güçlerince gerçekleştirilecek kontrolden sonra seyirci alınır.
+Spor alanlarının çevresinde, stadyum veya spor salonu girişleri ile turnike girişlerinde, müsabakayla ilgili olarak hâkim kararı veya gecikmesinde sakınca olan hâllerde mülkî âmirin yazılı izni ile kolluk tarafından veya kolluğun denetiminde, özel güvenlik görevlilerince üst araması yapılır ve (Değişik ibare:RG-29/4/2016-29698) 6222 sayılı Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanunun amacına aykırı madde ve cisimler geçici olarak koruma altına alınır.

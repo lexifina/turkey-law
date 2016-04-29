@@ -1,0 +1,3 @@
+Olay yeri inceleme
+Madde 9 - Suç işlenen yerlerde, sebep ve sonuç ilişkisini ortaya koyacak delillerin aranması, bulunması ve el koyulması için geliştirilmiş bilimsel ve teknik araştırma işlemlerinin, herkesin girip çıkabileceği kamuya açık alanlarda yapılması için bir emir veya karar gerekmez.
+Birinci fıkrada belirtilen yerler dışındaki olay yeri inceleme işlemleri, 7 nci madde uyarınca hâkim veya gecikmesinde sakınca bulunan hâllerde de Cumhuriyet savcısının, Cumhuriyet savcısına ulaşılamadığı hâllerde ise konut, işyeri ve kamuya açık olmayan kapalı alanlar dışındaki yerlerde kolluk âmirinin yazılı emri üzerine gerçekleştirilir.
