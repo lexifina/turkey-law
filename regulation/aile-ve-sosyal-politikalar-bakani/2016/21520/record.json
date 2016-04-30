@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.21520",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KORUMALI İŞYERLERİNDE ÇALIŞAN ENGELLİLERİN ÜCRETLERİNE KARŞILIK İŞVERENE YAPILACAK ÖDEME HAKKINDA YÖNETMELİK",
+  "number": "21520",
+  "issuer": "Aile ve Sosyal Politikalar Bakanı",
+  "issuer_slug": "aile-ve-sosyal-politikalar-bakani",
+  "path": "regulation/aile-ve-sosyal-politikalar-bakani/2016/21520",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21520&MevzuatTertip=5",
+  "source_sha256": "17e2eb14cf596764c707ace11049d664a1f523ba0e7e9af881883f6a32ea2828",
+  "source_bytes": 16549,
+  "published": "2016-04-30",
+  "gazette": "29699",
+  "in_force": "2016-04-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.04.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 548,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.21520-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
