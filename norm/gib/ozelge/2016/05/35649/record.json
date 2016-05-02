@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.72.10.00-140[2016/3]-18",
+  "source_id": 35649,
+  "date": "2016-05-02",
+  "title": "5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanununun geçici 5 inci maddesinin yayımı tarihinden önce müşterek mülkiyet esaslarına göre intikali yapılmış tarımsal arazilerin devrinden tapu harcı aranılıp aranılmayacağı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35649",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "0edfb18e5ed924235985665a0e5809f55893ad04f8de1faca1bcbf8b33dbcb73",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
