@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.16079",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜKETİCİ ÜRÜNLERİNİN GÜVENLİK RİSKLERİNİN BELİRLENMESİNE İLİŞKİN TEBLİĞ",
+  "number": "16079",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2012/16079",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16079&MevzuatTertip=5",
+  "source_sha256": "a7a57ec2a7771313a64463501821e34341447bdb9c99142aeb6ca3db7a6a4d71",
+  "source_bytes": 69011,
+  "published": "2012-04-20",
+  "gazette": "28270",
+  "in_force": "2016-05-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/5/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-05-03",
+      "RG-3/5/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2013 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1407,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
