@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.02-105[232-2015/18]-61",
+  "source_id": 25845,
+  "date": "2016-05-03",
+  "title": "Kendi üzerine kayıtlı minübüs üzerinde tadilat yapılarak açık kasaya dönüştürme işleminde fatura düzenlenip düzenlenmeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25845",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "4d4f92020e57daeb5fba6470a969ac4902eb9dd36863c97762c7ed28e838c6b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
