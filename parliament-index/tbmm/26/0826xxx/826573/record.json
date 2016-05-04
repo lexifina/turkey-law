@@ -1,0 +1,71 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 826573,
+  "assembly": "TBMM",
+  "term": 26,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar / Temel Kanun Tasarıları",
+  "summary": "İş Kanunu ile Türkiye İş Kurumu Kanununda Değişiklik Yapılmasına Dair (1/597) (S. Sayısı: 170)",
+  "title": "İş Kanunu ile Türkiye İş Kurumu Kanununda Değişiklik Yapılmasına Dair (1/597) (S. Sayısı: 170)",
+  "first_sitting_date": "2016-05-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 16,
+      "sitting": 85,
+      "sitting_date": "2016-05-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c016/tbmm26016085.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c016/tbmm26016fih.pdf",
+      "pages": [
+        "798",
+        "799:812",
+        "812:824",
+        "825:839"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    },
+    {
+      "cilt": 17,
+      "sitting": 86,
+      "sitting_date": "2016-05-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c017/tbmm26017086.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c017/tbmm26017fih.pdf",
+      "pages": [
+        "91:95",
+        "96:98",
+        "98:99",
+        "99:101",
+        "101:105",
+        "105:111",
+        "112:114",
+        "116:119",
+        "125:126",
+        "126:127",
+        "127:143",
+        "144:153",
+        "154:157",
+        "160",
+        "160:167",
+        "168:169",
+        "170:179",
+        "179:185",
+        "186:192",
+        "192:200",
+        "201:203"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=1&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "5c5dd34ade1ba47a606b9cbf8ae86b62a14547b9a8ccf81ead85b2b317ee38bd",
+  "in_force": "2016-05-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
