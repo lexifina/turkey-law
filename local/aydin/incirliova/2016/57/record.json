@@ -1,0 +1,23 @@
+{
+  "number": "57",
+  "number_as_published": "2016/57",
+  "year": 2016,
+  "title": "Belediyemizin 2015 yılı Kesin Hesabının Plan ve Bütçe Komisyonuna sevkine mecliste yapılan oylama neticesinde OYBİRLİĞİ ile karar verildi.",
+  "decision_date": "2016-05-04",
+  "source": "https://www.incirliova.bel.tr/mecliskararlari",
+  "official_document": null,
+  "source_sha256": "270803a52f1925a0788bfb4481e0737a3974daae606ea8809cbd459b563d93ad",
+  "issuer": "İncirliova Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2016-05-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 2016-05-04 (TARİH in the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (subject, number, date and decision text as published in the official list)",
+  "official_page": "https://www.incirliova.bel.tr/mecliskararlari"
+}
