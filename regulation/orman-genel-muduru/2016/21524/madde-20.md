@@ -1,0 +1,5 @@
+İnceleme giderlerinin karşılanması
+MADDE 20 – (1) Hususi ormanlar ile hükmi şahsiyeti haiz amme müesseselerine ait ormanların ilk tesisinde Özellik Oluru hazırlanmasında görevlendirilen heyetin giderleri orman idaresi tarafından karşılanır. Ancak;
+a) İzin için yapılacak müracaatlar sonucu ilk incelemeyi yapan heyet, ön izin süresi içinde düzenlenen plan ve projelerin kontrolü için giden heyet ile kesin izinden sonra saha teslimi için giden elemanların gündelikleri ve zorunlu olarak kullanılması gerekiyorsa Devlete ait resmi araçların akaryakıt giderleri; hususi ormanlarda orman sahipleri, hükmi şahsiyeti haiz amme müesseselerine ait ormanlarda ilgili amme idaresi tarafından karşılanır.
+b) Hükmi şahsiyeti haiz amme müesseselerine ait ormanların sahibinin ya da hususi orman sahibinin veya mesul müdürünün müracaatı üzerine 2/B madde uygulaması yapılan ormanlarda orman kadastro komisyonlarının her türlü giderleri ve gündelikleri de orman sahipleri tarafından karşılanır.
+(2) Birinci fıkrada açıklanan incelemelere katılan elemanlara orman sahiplerince ödenecek gündeliklerin hesabında 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümleri esas alınır.

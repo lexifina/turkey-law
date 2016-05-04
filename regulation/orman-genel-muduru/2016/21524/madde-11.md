@@ -1,0 +1,2 @@
+Kayıt tutulması
+MADDE 11 – (1) Genel Müdürlük merkezinde, bölge müdürlüklerinde ve işletme müdürlüklerinde; hususi ormanlar ile hükmi şahsiyeti haiz amme müesseselerine ait her orman için müstakil olarak kayıt tutulur. Bu kayıtlarda; Özellik Oluru, mesul müdür ataması veya görevlendirilmesi, amenajman planı, yol şebeke planı, tapu belgesi, tesis şekli, Kanunun 47 nci veya 52 nci madde şerhi, izin durumu ve benzeri bilgileri ihtiva eden belgelere yer verilir.

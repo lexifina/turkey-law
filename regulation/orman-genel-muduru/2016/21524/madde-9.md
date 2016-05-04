@@ -1,0 +1,4 @@
+Yol şebeke planı
+MADDE 9 – (1) Ormanın devamlılığı ve işletmesine yönelik olarak Devlet ormanlarındaki usul ve esaslara göre yapılması gereken yol şebeke planı; hususi ormanların veya hükmi şahsiyeti haiz amme müesseselerine ait ormanların sahipleri tarafından yaptırılarak mülkiyet ve inşaat tekniği yönünden bölge müdürlüğünce incelenerek uygunluğu halinde Genel Müdürlüğe gönderilir. Kadastro ve Mülkiyet Dairesi Başkanlığı ile İnşaat ve İkmal Dairesi Başkanlığı tarafından planın uygulanmasında sakınca olmadığı belirtilerek imza ile tasdik olunur.
+(2) Yol şebeke planlarının sahipleri tarafından yaptırılmaması halinde plan orman idaresi tarafından yapılarak veya yaptırılarak masrafı defaten sahiplerinden alınır.
+(3) Yol şebeke planlarının uygulanmasının takibi ve kontrolü ise, İnşaat ve İkmal Dairesi Başkanlığı ve ilgili orman idaresi tarafından müştereken yürütülür.

@@ -1,0 +1,2 @@
+Denetim
+MADDE 12 – (1) Hususi ormanlarda ve hükmi şahsiyeti haiz amme müesseselerine ait ormanlarda bu Yönetmelik ve ilgili mevzuat kapsamında yapılacak iş ve işlemler ilgili bölge müdürlüğünce yılda en az bir defa denetlenerek tutanak düzenlenir. Yapılması gereken iş ve işlemlerde eksiklik görülmesi halinde orman idaresi tarafından gerekli inceleme yapılarak ilgililer uyarılır, tespit edilen sürede telafi edilmez ise sahipleri hakkında kanuni takibata geçilerek Genel Müdürlüğe bilgi verilir.
