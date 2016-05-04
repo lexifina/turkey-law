@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-05-04",
+  "issue": "29702",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Hususi Ormanlar ve Hükmi Şahsiyeti Haiz Amme Müesseselerine Ait Ormanlar Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160504-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160504.htm",
+  "index_sha256": "bb99211508e6e9abbf0849651c2fa0d5644c65e2cfafe195ad5a082a6e4734c0",
+  "index_header": "4 Mayıs 2016 ... 29702 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160504.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
