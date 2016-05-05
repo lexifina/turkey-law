@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6708",
+  "year": 2016,
+  "title": "Çocuk Nafakası ve Diğer Aile Nafaka Türlerinin Uluslararası Tahsiline İlişkin Sözleşmeye Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-05-05",
+  "gazette_issue": "29703",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160505-22.htm",
+  "source_sha256": "aa2f6788bfc7cbd84083afb7bc52d870c678ce8906ca3c802b1acc53f641381a",
+  "text_sha256": "580dac36312ba1e1622c96934429181f4c28750dae0e72cb9129ef77008fb026",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/05/05/29703-22",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160505-22.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
