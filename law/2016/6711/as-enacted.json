@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6711",
+  "year": 2016,
+  "title": "Suçluların İadesine İlişkin Avrupa Sözleşmesine Ek Üçüncü Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-05-05",
+  "gazette_issue": "29703",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160505-25.htm",
+  "source_sha256": "602e0f584258021fdac9698be0e3e433e840a06b50e2bc003f5b3a32ab869c45",
+  "text_sha256": "d415d832bdd2920674b84638eb4b07fe3547ea4d9dc7dd82d2b5d9384a964c5b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/05/05/29703-25",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160505-25.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
