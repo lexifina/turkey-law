@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6705",
+  "year": 2016,
+  "title": "Kişisel Verilerin Otomatik İşleme Tabi Tutulması Karşısında Bireylerin Korunması Sözleşmesine Ek Denetleyici Makamlar ve Sınıraşan Veri Akışına İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-05-05",
+  "gazette_issue": "29703",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160505-1.htm",
+  "source_sha256": "0c46923365fb4d28b75f8bacf8ba4b8964dfe01b8bb67a9c9b2a313e64482551",
+  "text_sha256": "ba559b79f7bd0347dbc713890da10685e8099e6c6a0bc9020cfc2d85161bcdd3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/05/05/29703-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160505-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
