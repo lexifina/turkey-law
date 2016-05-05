@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6710",
+  "year": 2016,
+  "title": "Ceza İşlerinde Karşılıklı Adli Yardım Avrupa Sözleşmesine İkinci Ek Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-05-05",
+  "gazette_issue": "29703",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160505-24.htm",
+  "source_sha256": "afe86cc6348f56d4c304596a3ab582ebb341ce4f8f645fa4acd0268a9dd5ee10",
+  "text_sha256": "724736d6ef5ed0dfd6ae24b5e7ce6ea9b379d7b4136337d7d58698dc25c876f3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/05/05/29703-24",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160505-24.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
