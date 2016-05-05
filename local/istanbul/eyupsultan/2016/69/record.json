@@ -1,0 +1,22 @@
+{
+  "number": "69",
+  "number_as_published": "2016/69",
+  "year": 2016,
+  "title": "Siyaset, Ekonomi ve Toplum Araştırmaları (SETA) ile yapılacak protokolün imzalanabilmesi için Belediye Başkanına yetki verilmesi",
+  "decision_date": "2016-05-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2016-mayis-ayi-meclis-kararlari/694",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2016-69/701",
+  "source_sha256": "e5b2de197ab9a2ac29263e39949018bb36c1954add4abb040ced036116a97a81",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2016-05-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.05.2016 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "0c5eb9713fe6b9fcfe3bff27d68e8bd55840f92accb04a8ba35c8b5b66460d8e"
+}
