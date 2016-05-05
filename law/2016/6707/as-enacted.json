@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6707",
+  "year": 2016,
+  "title": "Velayet Sorumluluğu ve Çocukların Korunması Hakkında Tedbirler Yönünden Yetki, Uygulanacak Hukuk, Tanıma, Tenfiz ve İşbirliğine Dair Sözleşmeye Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-05-05",
+  "gazette_issue": "29703",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160505-21.htm",
+  "source_sha256": "efc05d289875edca6a8162ff790baf555ea00622f197684097baccb15d2fa0c9",
+  "text_sha256": "cd6105cacc915f6fee9e8016b3bb51a12381b6901338969ddbdbfb22070f694c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/05/05/29703-21",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160505-21.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
