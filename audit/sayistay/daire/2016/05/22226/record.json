@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "137",
+  "decision_date": "2016-05-05",
+  "source_id": 22226,
+  "chamber": "4",
+  "ilam_number": "425",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22226/",
+  "source_sha256": "bd4e1e32765b86704902e742e61e7cc2af11db1db6446e32265ca792184bde5f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
