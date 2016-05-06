@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.81.10.00-VUK-05-11",
+  "source_id": 27119,
+  "date": "2016-05-06",
+  "title": "İflas erteleme durumunda çekler için şüpheli ticari alacak karşılığı ayrılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27119",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "55b95971526aef1d9028a4c266fa6a1dc05b2feb400f34380c4c76fa0a09c55f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
