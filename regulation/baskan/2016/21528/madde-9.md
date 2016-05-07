@@ -1,0 +1,2 @@
+Talep tahmin modelinin değerlendirilmesi ve doğrulanması
+MADDE 9 – (1) Talep tahmin modelinin oluşturulmasını takiben, modelin bilimsel ve ekonomik açıdan anlamlı olup olmadığına ilişkin literatürde genel kabul görmüş testler ile seçilen farklı yöntemler çerçevesinde oluşturulan, modelin uygunluğuna yönelik gerekli diğer testler yapılarak, bu testler sonucunda gerekli görülen düzeltme ve değişiklikler yapılır.

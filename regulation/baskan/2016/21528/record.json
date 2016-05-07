@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.21528",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRİK PİYASASI TALEP TAHMİNLERİ YÖNETMELİĞİ",
+  "number": "21528",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2016/21528",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21528&MevzuatTertip=5",
+  "source_sha256": "a128a82ade673d632162a100fba0ea0df9060bb136ce622080e79f8540c1cb59",
+  "source_bytes": 27741,
+  "published": "2016-05-07",
+  "gazette": "29705",
+  "in_force": "2016-05-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.05.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1302,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

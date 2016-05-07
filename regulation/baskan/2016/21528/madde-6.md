@@ -1,0 +1,2 @@
+Talep tahmini dönemi ve senaryoları
+MADDE 6 – (1) Talep tahminleri, dağıtım şirketleri için gelecek on, görevli tedarik şirketleri için gelecek beş yıllık dönem için her yıl takip eden yıl birinci yıl olmak üzere yıllık bazda hazırlanır ve tahmin sonuçları düşük, baz ve yüksek senaryo şeklinde Kuruma sunulur. TEİAŞ tarafından üretim kapasite projeksiyonu ve iletim sistemi gelişim raporu ile dağıtım şirketi tarafından yatırım planı hazırlanmasında baz senaryo esas alınır.

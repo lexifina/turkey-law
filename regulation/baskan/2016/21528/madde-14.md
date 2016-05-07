@@ -1,0 +1,2 @@
+Veri sağlama yükümlülüğü
+MADDE 14 – (1) Görevli tedarik şirketleri ile organize sanayi bölgesi işletmecisi tüzel kişiler, 5 inci madde kapsamındaki yükümlülüklerinin yanında talep tahmini yapılabilmesi için gerekli olanlarla sınırlı olmak üzere, hizmet verilen tüketiciler ve katılımcılarla ilgili talep edilen verileri bölgesinde bulundukları dağıtım şirketlerine talep tarihinden itibaren otuz gün içerisinde sunmakla yükümlüdür. Dağıtım şirketi bu verileri bölgesel talep tahmininde kullanır.
