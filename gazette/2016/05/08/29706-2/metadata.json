@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-05-08",
+  "issue": "29706",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Melikşah Üniversitesi Yabancı Diller Yüksekokulu Yabancı Dil Hazırlık Sınıfı Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160508-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160508.htm",
+  "index_sha256": "08e400ff92c14395dcf296094728ff14ce0bce39ee74ebc6cf5cf2ec6f37cbe2",
+  "index_header": "8 Mayıs 2016 ... 29706 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160508.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
