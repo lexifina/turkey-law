@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64950229-105[2015/8]-34367",
+  "source_id": 37145,
+  "date": "2016-05-09",
+  "title": "Tasarrufu kısıtlanan taşınmazlara ait emlak bildiriminin süresi içerisinde verilmemesi halinde kesilecek ceza hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37145",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "93fab4dba8062fd60984ee08cd9d7941abb252728bfbc607703a6ae60c611f38",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
