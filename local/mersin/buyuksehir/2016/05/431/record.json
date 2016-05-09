@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "431",
+  "decision_date": "2016-05-09",
+  "title": "MEC_KAR_ (MESKİ KADRO DERECE DEĞİŞİKLİĞİ)",
+  "listed_as": "431 MEC_KAR_ (MESKİ KADRO DERECE DEĞİŞİKLİĞİ)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/431-mec-kar--meski-kadro-derece-degisikligi",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk21-09-mayis-2016-meclis-kararlari",
+  "listing_sha256": "bb099cf67dca5b8c0f173ccbbfe1ee9861a584546093efef43801ad85028409c",
+  "meeting_title": "MK21-09 MAYIS 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
