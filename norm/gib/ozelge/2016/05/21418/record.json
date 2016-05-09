@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.31.15.01-010[120-61-63-94-103-104-2015]-26",
+  "source_id": 21418,
+  "date": "2016-05-09",
+  "title": "4/C Maddesi Kapsamında Çalıştırılan Personele Mahkeme Kararına İstinaden 375 Sayılı Kanun Hükmünde Kararnamenin Ek-9 uncu Maddesine Göre Yapılacak Ek Ödemelerden Gelir Vergisi Kesintisi Yapılıp Yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21418",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "aa52345aef1df6650681223386e610dd9d7e7b23f52a9d97e71de947943ac4d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
