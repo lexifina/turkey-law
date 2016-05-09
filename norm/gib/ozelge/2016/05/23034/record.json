@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.45.15.01-120[40.01.65]-53",
+  "source_id": 23034,
+  "date": "2016-05-09",
+  "title": "Basit usulün tespitinde, iş hasılatında KDV nin hariç olması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23034",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "de7ab722f54bf8d0a3bba870bd506d1b2027508c1ae2a2031c57ea61188506b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
