@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV 12-53061",
+  "source_id": 31109,
+  "date": "2016-05-09",
+  "title": "Yurt dışındaki Türk Büyükelçiliğine verilen mimari proje çizim işinin hizmet ihracı kapsamında olup olmadığı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31109",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "70b5c339cb280a6e077254d2478139adec33a1b5088d60eacb1302867ecbd1bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
