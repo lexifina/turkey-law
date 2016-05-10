@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41839",
+  "decision_date": "2016-05-10",
+  "source_id": 11950,
+  "chamber": "1",
+  "file_number": "40330",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/11950/",
+  "source_sha256": "9ce5d7beb47165f059b55523351c1895eda0d836fe0a93bbc1d5512c84f1e951",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
