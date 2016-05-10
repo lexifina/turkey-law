@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-120.03.05.06[23-2015/1]-269",
+  "source_id": 21417,
+  "date": "2016-05-10",
+  "title": "Yabancı kurumdan elde edilen ücret gelirinin beyanı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21417",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "4d1a75a1d5821f6024d62de8ee748fcd729aa99b78227827a6d9ddd1e0bbf07e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
