@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35390",
+  "decision_date": "2016-05-10",
+  "source_id": 12435,
+  "chamber": "2",
+  "ilam_number": "188",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/12435/",
+  "source_sha256": "d6786432c737dfb9c406c013dbc7fac1076243a7e3068ad2ec3444130b6d0b93",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
