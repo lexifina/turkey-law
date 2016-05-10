@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-130[28-2016/20-1277]-89",
+  "source_id": 32478,
+  "date": "2016-05-10",
+  "title": "Yayık Makinası ve Ayran Makinasının Tesliminde KDV Oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32478",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "ca65132bd3e2b8373f70955a6c5505ef26b8a1e487c16df63e6d5ba91765afe7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
