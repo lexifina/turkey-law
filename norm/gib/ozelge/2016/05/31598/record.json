@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.17-55031",
+  "source_id": 31598,
+  "date": "2016-05-11",
+  "title": "KDV Kanununun 17/4-o maddesi uyarınca verilen ardiye hizmetlerine ait bedellerin ithalatta KDV matrahına dahil edilip edilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31598",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "51665de342ed142c50dfdcd03b4e9f77a1a1ade7836c29cea1c37da70fa30230",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
