@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10563",
+  "decision_date": "2016-05-12",
+  "source_id": 17727,
+  "chamber": "1",
+  "ilam_number": "420",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17727/",
+  "source_sha256": "eea6fb9aa6aa3b172182d8217349cc9465ca5c273ea0d861066c5376a41202c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
