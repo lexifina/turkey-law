@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.21532",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TAŞKIN YÖNETİM PLANLARININ HAZIRLANMASI, UYGULANMASI VE İZLENMESİ HAKKINDA YÖNETMELİK",
+  "number": "21532",
+  "issuer": "Orman ve Su İşleri Bakanı",
+  "issuer_slug": "orman-ve-su-isleri-bakani",
+  "path": "regulation/orman-ve-su-isleri-bakani/2016/21532",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21532&MevzuatTertip=5",
+  "source_sha256": "dd8afc0f93b326e08bf24eed878c89023f81a5aa7b8001bf50f52fc6cfbc7215",
+  "source_bytes": 30741,
+  "published": "2016-05-12",
+  "gazette": "29710",
+  "in_force": "2016-05-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.05.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1356,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.21532-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
