@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[23-2012/1183]-56888",
+  "source_id": 23580,
+  "date": "2016-05-12",
+  "title": "Dar mükellef kurumdan elde edilen gelirin vergilendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23580",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "2fe97f1d1e1c0fa4db8e6c93bf6eb9e0879329b58fe5f6fbf2a47998123d38e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
