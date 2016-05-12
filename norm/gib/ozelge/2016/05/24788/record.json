@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[86-2015/891]-56525",
+  "source_id": 24788,
+  "date": "2016-05-12",
+  "title": "Yurt dışından elde edilen kar paylarının Türkiye'de vergilendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24788",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "83cbcb76ac4045c388396284652da323aaed8ff70ceb1b3f4cb36b93c861e8e7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
