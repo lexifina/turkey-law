@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10564",
+  "decision_date": "2016-05-12",
+  "source_id": 17736,
+  "chamber": "1",
+  "ilam_number": "423",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17736/",
+  "source_sha256": "181b604eaa5f1ddb78b8bae69cc959af02f57f00158fe5b5739068d8c507a3a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
