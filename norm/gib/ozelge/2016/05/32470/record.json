@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "48816587-130[28.2016.2]-6",
+  "source_id": 32470,
+  "date": "2016-05-12",
+  "title": "Tabiat Parkına girişte KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32470",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "1b0cd829ad877e75a03dbf614982ba684aa8bde3b2e20431fd62d5ccaa5f4b53",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
