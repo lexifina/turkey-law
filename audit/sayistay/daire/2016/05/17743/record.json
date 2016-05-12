@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10567",
+  "decision_date": "2016-05-12",
+  "source_id": 17743,
+  "chamber": "1",
+  "ilam_number": "291",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/17743/",
+  "source_sha256": "11e163b4ab8e3f307328d6b89d06ef5bbcd40dcdbca4ca2af9e79798d826dd2b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
