@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "5",
+  "decision_date": "2016-05-12",
+  "source_id": 18404,
+  "chamber": "5",
+  "ilam_number": "427",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18404/",
+  "source_sha256": "0b80e919fa5d864ac3a6837d24cbd348c18fca7a17b7ee7151241e67db1ece62",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
