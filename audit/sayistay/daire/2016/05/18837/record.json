@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "176",
+  "decision_date": "2016-05-12",
+  "source_id": 18837,
+  "chamber": "5",
+  "ilam_number": "201",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18837/",
+  "source_sha256": "845583995f691db574b5c935359d09379c305ad43978c25c20ca39db24e49ec2",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
