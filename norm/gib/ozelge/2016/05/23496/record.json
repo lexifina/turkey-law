@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[64-2016/73]-56925",
+  "source_id": 23496,
+  "date": "2016-05-12",
+  "title": "Basit Usul mükellefinin yanında çalışan oğlunun diğer ücretli olarak vergilendirilip vergilendirilmeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23496",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "bd6f317028dcedaccf6611f0bc025571a25ce9c6264734730518e8917d84d8dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
