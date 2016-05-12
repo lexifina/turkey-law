@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[2-2015/339]-56816",
+  "source_id": 35546,
+  "date": "2016-05-12",
+  "title": "Vakıf üyelerine ait birikimlerin bireysel emeklilik sistemine aktarılması sırasında gerçekleştirilecek olan gayrimenkul satışlarında kurumlar vergisi, damga vergisi ve harç istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/35546",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "d5bb644fb8c15e31e537df0a5e856e7724b57af422cca455395fffcf27083bd1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
