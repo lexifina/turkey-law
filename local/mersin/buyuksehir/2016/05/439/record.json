@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "439",
+  "decision_date": "2016-05-13",
+  "title": "MEC_KAR_ ( Servis Araçları Yönetmeliği )",
+  "listed_as": "439 MEC_KAR_ ( Servis Araçları Yönetmeliği )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/439-mec-kar---servis-araclari-yonetmeligi--",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk20-13-mayis-2016-meclis-kararlari",
+  "listing_sha256": "e5b57d5ce1aa1a2e763eadf0f6d9940644ee32e021d6948574990410167afadc",
+  "meeting_title": "MK20-13 MAYIS 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
