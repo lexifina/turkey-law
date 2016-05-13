@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-105[229-2012/VUK-1- . . .]--57233",
+  "source_id": 25843,
+  "date": "2016-05-13",
+  "title": "Bedel tahsil edilmeden verilen umre hizmetinde belge düzeni ve KDV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25843",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "3015f4dd733ca84e7150850a294a5f17a1468c724af868dafc6af8770fe92d5d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
