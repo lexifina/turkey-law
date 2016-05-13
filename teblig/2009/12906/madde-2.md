@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, 4412 sayılı Kanunla Değişik 3577 Sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun (Kanun), İthalatta Haksız Rekabetin Önlenmesi Hakkında 99/13482 sayılı Karar (Karar) ve 30.10.1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmelik (Yönetmelik) hükümleri çerçevesinde yürütülen önlemlerin etkisiz kılınmasına ilişkin soruşturmanın sonuçlarını içermektedir.

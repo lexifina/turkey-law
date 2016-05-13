@@ -1,0 +1,10 @@
+Karar
+MADDE 10 – (1) Soruşturma çerçevesinde elde edilen bilgiler doğrultusunda, aşağıda yer alan tabloda gösterildiği üzere Malezya menşeli olarak beyan edilen ve/veya bu ülke çıkışlı soruşturma konusu ürün ithalatında, 26/7/2006 tarih ve 26240 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren İthalatta Haksız Rekabetin Önlenmesine İlişkin 2006/20 sayılı Tebliğ kapsamı eşya için uygulamaya konulan dampinge karşı önlem ile aynı oranda dampinge karşı kesin önlemin yürürlüğe konulmasına,
+(2) Aşağıdaki tabloda ticari unvanları bulunan 3 firma tarafından Malezya’da üretilmiş olan soruşturma konusu eşyanın serbest dolaşıma giriş rejimi çerçevesinde ithalinin dampinge karşı önlemden muaf tutulmasına,
+G.T.P | Madde İsmi | Menşe/Çıkış Ülkesi | Üretici Firma | Dampinge Karşı Önlem (CIF % )
+8415.10.90; 8415.81; 8415.82 | Yalnız duvar tipi split klimalar Yalnız duvar tipi split klimaların dış ünitesi (Değişken soğutucu debili split klima sistemleri dış ünitesi hariç) Yalnız duvar tipi split klimaların iç ünitesi | Malezya | Panasonic HA Air Conditioning (M) Sdn. Bhd. | % 0
+O.Y.L. Manufacturing Company Sdn. Bhd. | % 0
+Hitachi Air Conditioning Products (M) Sdn. Bhd. | % 0
+Diğerleri | % 25
+(3) İthalatta Haksız Rekabeti Değerlendirme Kurulu’nun kararı ve Bakan’ın onayı ile 14/6/2008 tarihli ve 26906 sayılı Resmi Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin 2008/20 sayılı Tebliğ ile yürürlüğe konulan geçici önlemlerin kesin önleme dönüştürülerek tahsil edilmesine ve önlemleri etkisiz kılmayı amaçlayan işlemleri bildikleri tespit edilen Airfel (Akfel) A.Ş., Alarko Carrier San. ve Tic. A.Ş., Baymak Mak. San. ve Tic. A.Ş., Samaş Elektronik- Mahmut Berk, Contek Klima San. ve Tic. A.Ş., Kervancı Klima Ltd. Şti., Rubenis Klima San. ve Tic. Ltd. Şti., Teknosa İç ve Dış Tic. A.Ş. ve Türk Demir Döküm Fabrikaları A.Ş. ticari unvanlı ithalatçı firmalar için kesin önlemin, geçici önlemin yürürlüğe girdiği tarihten itibaren 90 gün süre ile geriye dönük uygulanmasına
+karar verilmiştir.
