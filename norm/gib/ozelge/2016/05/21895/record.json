@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[65-2015/498]-58275",
+  "source_id": 21895,
+  "date": "2016-05-13",
+  "title": "Adi ortaklık tarafından sürdürülen serbest meslek faaliyeti ve ticari faaliyetin vergilendirilmesi ve belge düzeni.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21895",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "743f9c3c3e0fa1c18e77bca5fb70fffb9f147f1a5b32ad034ed1a246f0a758b9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
