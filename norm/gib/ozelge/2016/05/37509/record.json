@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[42-2013/1085]-57175",
+  "source_id": 37509,
+  "date": "2016-05-13",
+  "title": "Amfibi Gemi üretiminde alt yüklenicinin vereceği malzeme ve hizmetlerin yıllara sirayet eden inşaat işi sayılıp sayılmayacağı ve Ar-Ge çalışmaları kapsamında değerlendirilmeyen sözleşmede damga vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37509",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "223b4007719c77186b9029f883c742141dac9137f2a37fa29a63e4ff692472ec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
