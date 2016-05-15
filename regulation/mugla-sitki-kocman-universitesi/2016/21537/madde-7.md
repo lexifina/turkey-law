@@ -1,0 +1,4 @@
+Müdür
+MADDE 7 – (1) Müdür, tarımsal analizler alanında akademik çalışmaları olan Merkezin çalışma alanları ile ilgili Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebileceği gibi görev süresi dolmadan aynı şekilde görevden alınabilir.
+(2) Üniversitede görevli ve Merkezin çalışma alanı ile ilgili araştırmalarda bulunan öğretim elemanları arasından Müdür tarafından önerilen en çok iki kişi, Rektör tarafından müdür yardımcısı olarak üç yıl süre ile görevlendirilir. Müdür yardımcısı Müdürün verdiği görevleri yapar. Süresi biten müdür yardımcısı yeniden görevlendirilebilir.
+(3) Müdürün görevinde bulunamadığı hallerde müdür yardımcılarından biri yerine vekâlet eder. Vekâletin altı aydan fazla sürmesi halinde yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
