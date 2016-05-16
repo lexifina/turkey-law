@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-05-16",
+  "issue": "29714",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Abant İzzet Baysal Üniversitesi Öğrenci Sağlık İşleri ve Sağlık Raporları Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160516-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160516.htm",
+  "index_sha256": "a11d56736e4a9a99cb4068ae0d9ca8b7e2f200065b5f29fbb6b27949cdab0b0f",
+  "index_header": "16 Mayıs 2016 ... 29714 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160516.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
