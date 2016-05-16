@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6287",
+  "decision_date": "2016-05-16",
+  "title": "Aksa Bandırma Doğal Gaz Dağıtım A.Ş.?nin 2012-2016 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2016-05-16",
+  "resmi_gazete_number": "29714",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xRNWNEymwvQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xRNWNEymwvQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xpFzN4wBy3w="
+  ],
+  "source_sha256": "ec8b8ad62d8a5066f9e55e44121a1af8ef4d9d17c1fdbc0fd847e2088f4812d5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-05-16",
+  "law_text_complete": false
+}
