@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "26696128-130[28-2015/13]-35848",
+  "source_id": 32465,
+  "date": "2016-05-16",
+  "title": "İkinci el resmi taşıt KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32465",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "87f0feee78981f54e952f2a35d763e051fbf18ad5ad117d77c8f233ae38a9adf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
