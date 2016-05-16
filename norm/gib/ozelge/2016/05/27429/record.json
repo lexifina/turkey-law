@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[2-2014/118]-59020",
+  "source_id": 27429,
+  "date": "2016-05-16",
+  "title": "IPA Çerçeve Anlaşması kapsamında Avrupa Birliği Eğitim ve Gençlik Programları Merkezi Başkanlığı ile imzalanan hibe sözleşmesiyle ilgili olarak beyanname verilip verilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/27429",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7b96b364fa7390bfc78a928615fe64d0d1676837c6ba08f8c7e3bb72c903e496",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
