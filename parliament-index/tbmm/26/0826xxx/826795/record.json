@@ -1,0 +1,57 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 826795,
+  "assembly": "TBMM",
+  "term": 26,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Görüşülen Teklifler",
+  "name": "AHMET DAVUTOĞLU (KONYA)",
+  "summary": "Adalet ve Kalkınma Partisi Genel Başkanı Ve Grup Başkanvekilleri Giresun Milletvekili Nurettin Canikli, Amasya Milletvekili Mehmet Naci Bostancı, Aksaray Milletvekili İlknur İnceöz, Çanakkale Milletvekili Bülent Turan ve Tokat Milletvekili Coşkun Çakır ile 310 Milletvekilinin; Türkiye Cumhuriyeti Anayasasında Değişiklik Yapılmasına Dair (2/1028) (S. Sayısı: 313)",
+  "title": "Adalet ve Kalkınma Partisi Genel Başkanı Ve Grup Başkanvekilleri Giresun Milletvekili Nurettin Canikli, Amasya Milletvekili Mehmet Naci Bostancı, Aksaray Milletvekili İlknur İnceöz, Çanakkale Milletvekili Bülent Turan ve Tokat Milletvekili Coşkun Çakır ile 310 Milletvekilinin; Türkiye Cumhuriyeti Anayasasında Değişiklik Yapılmasına Dair (2/1028) (S. Sayısı: 313)",
+  "first_sitting_date": "2016-05-17",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 17,
+      "sitting": 90,
+      "sitting_date": "2016-05-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c017/tbmm26017090.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c017/tbmm26017fih.pdf",
+      "pages": [
+        "638:651",
+        "653:659",
+        "663:687",
+        "690:695",
+        "696:714",
+        "715:722"
+      ]
+    },
+    {
+      "cilt": 17,
+      "sitting": 91,
+      "sitting_date": "2016-05-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c017/tbmm26017091.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c017/tbmm26017fih.pdf",
+      "pages": [
+        "813:821",
+        "823:826",
+        "828:831",
+        "833:839",
+        "841:847",
+        "849:854"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "93077149c1609d0c4b55723509157259180b7183bf4a2a9b3f271cd2f99ac69c",
+  "in_force": "2016-05-17",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
