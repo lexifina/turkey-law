@@ -1,0 +1,4 @@
+Başarı notu
+MADDE 14 – (1) Yaz Okulunda alınan derslerin başarı notları, bunu takip eden güz yarıyılı başında genel ağırlıklı not ortalaması hesaplanmasında dikkate alınır ve not transkriptine işlenir. Ancak ikinci öğretimi olan bölümler için, % 10’luk dilim hesaplamalarında Yaz Okulunda alınan başarı notu değerlendirilmez.
+(2) (Ek:RG-17/5/2016-29715) Diğer üniversitelerin yaz okullarında alınan şartlı geçiş notları başarılı olarak kabul edilmez. Başarı notu 60 veya CC ve üzerinde olan öğrencilerin notları geçer not olarak kabul edilir. Ancak bu notlar transkriptlerinde MB (Muaf Başarılı) olarak gösterilir ve ağırlıklı genel not ortalamasına katılmaz.
+(3) (Ek:RG-17/5/2016-29715) Tekrar edilen derslerde alınan en son not geçerlidir. Yarıyıl ağırlıklı not ortalaması ve genel ağırlıklı not ortalaması hesabında alınan son not kullanılır.

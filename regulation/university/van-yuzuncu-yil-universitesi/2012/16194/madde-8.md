@@ -1,0 +1,7 @@
+Yaz okulunda dersler
+MADDE 8 – (1) (Değişik:RG-5/6/2014-29021) Yaz Okulu ders süresi yedi haftadır. Açılan her ders için normal dönemde yapılan toplam ders saati kadar ders yapılır. Yedi haftalık süreye sınavlar dahil değildir.
+(2) Yaz Okulunda alınan derslerin kredi saatleri önlisans, lisans veya lisansüstü programlarında uygulandığı şekilde belirlenir.
+(3) Yaz Okulunda açılması öngörülen önlisans, lisans ve lisansüstü derslere ilişkin hazırlıklar ilgili bölümler tarafından yapılır. Dersler ve dersleri yürütecek öğretim elemanları listeleri fakülte, yüksekokul ve enstitü kurulunca Yaz Okulu başlangıcından en az yirmi gün önce Senatoda görüşülmek üzere gönderilir. Yaz Okulu açılmasına ilişkin alınan karar Senato tarafından ilan edilir.
+(4) (Değişik:RG-5/6/2014-29021) Yaz Okulunda bir ders, en fazla iki öğretim elemanı tarafından yürütülür. Bu durumda öğretim elemanlarına ödenecek ders ücreti, derse giren öğretim elemanlarının unvanı ve girdiği ders saatine göre hesaplanır.
+(5) (Değişik:RG-1/7/2013-28694) Yaz Okulu programlarında yer alan önlisans ve lisans derslerinin açılabilmesi için ya normal öğretim veya ikinci öğretim öğrencilerinden ya da her ikisinden en az on öğrencinin ilgili derse kayıt yaptırmış olması gerekir.
+(6) (Değişik cümle:RG-5/6/2014-29021) Bölümlerde/programlarda açılacak derslere, örgün ve ikinci öğretim öğrencileri birlikte kayıt yaptırabilirler. Bu derslerin kodları farklı olsa da ilgili birimin yönetim kurul kararı ile içerik ve kredi/saati aynı olan derslere kayıt yapılabilir.
