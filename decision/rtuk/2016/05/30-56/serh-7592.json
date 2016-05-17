@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2016/30",
+  "meeting_date": "2016-05-17",
+  "meeting_date_as_published": "17.5.2016",
+  "decision_no": "56",
+  "source_id": 7592,
+  "title": "RTÜK kararı 2016/30-56 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/7592",
+  "source_sha256": "77c2a715198190094249e8ccef197954670370620af04a24a20e6594dbc25094",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (4 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
