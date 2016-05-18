@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-05-18",
+  "issue": "29716",
+  "edition": "regular",
+  "item": 42,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ARTIRMA, EKSİLTME VE İHALE İLÂNLARI",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Gümrük ve Ticaret Bakanlığı Doğu Anadolu Gümrük ve Ticaret Bölge Müdürlüğü Van Tasfiye İşletme Müdürlüğünden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/05/20160518-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (56 = 56)",
+  "ilan_codes": [
+    "4695/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/05/20160518-3.htm",
+  "category_page_sha256": "1eaede4a5640b4ba2abef4a41f8fbd59e22fd676af446f77e52136869a0c8251",
+  "issue_on_category_page": "29716",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/05/20160518.htm",
+  "index_sha256": "250522a57f67a1e3ed192ef64c8036ab181e19b54ccdb2666e470c734f134cf0",
+  "index_header": "18 Mayıs 2016 ... 29716 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
