@@ -1,0 +1,2 @@
+Temsilci aracılığı ile ithalat
+MADDE 11 – (1) Dahilde işleme izin belgesi kapsamındaki eşyanın ithalatı, ilgili (Değişik ibare:RG-10/12/2014-29201) (2) bölge müdürlüğünden izin alınmak ve Borçlar Kanununun doğrudan ya da dolaylı temsil hükümlerine göre tayin edilmek kaydıyla, temsilci aracılığıyla da yapılabilir. Bu durumda, temsilci firma unvanı yanında bu firmaya ait tek vergi numarası da belge sahibi firma tarafından ilgili (Değişik ibare:RG-10/12/2014-29201) (2) bölge müdürlüğüne bildirilir.

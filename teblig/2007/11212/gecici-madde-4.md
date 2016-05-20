@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 4 – (Ek:RG-29/1/2009-27125)
+Bu maddenin yürürlük tarihinden önce, belge kapsamında gerçekleştirilen yurt içi alımların 15 günlük süre içerisinde elektronik ortama aktarılmaması nedeniyle, 6 (altı) ay süreyle indirimli teminattan yararlandırılmayan firmaların dahilde işleme izin belgelerine (bu firmaların bir başka firmanın belgesinde yan sanayici olması da dahil), yurt içi alım fatura kayıtlarının kapatma müracaatına kadar (Değişik ibare:RG-12/9/2014-29117) Bakanlık web sayfasından elektronik ortama aktarılmış olması halinde, indirimli teminat uygulanır.

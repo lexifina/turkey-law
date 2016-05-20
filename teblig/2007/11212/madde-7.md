@@ -1,0 +1,3 @@
+Elektronik ortamda belge müracaatı
+MADDE 7 – (1) Firma tanımlaması ve kullanıcı yetkilendirmesi yapılmış elektronik imza sertifikası sahibi kullanıcılar, Türkiye Gümrük Bölgesinde (serbest bölgeler hariç) yerleşik imalatçı-ihracatçı veya ihracatçılar adına, belge almak için web sayfası vasıtasıyla elektronik ortamda (Değişik ibare:RG-12/9/2014-29117) Bakanlığa müracaat ederler. Bu müracaat esnasında firmalar tarafından, her bir ithal eşyası ve işlem görmüş ürün (asıl ve ikincil işlem görmüş ürünler) için, ayrı ayrı asgari 8 (sekiz)’li bazda gümrük tarife istatistik pozisyonu belirtilir.
+(2) (Değişik ibare:RG-12/9/2014-29117) Bakanlıkça yapılacak değerlendirme neticesinde, belge düzenlenip düzenlenmeyeceğine karar verilir.

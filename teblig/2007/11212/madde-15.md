@@ -1,0 +1,2 @@
+Değerlendirmeye alınmayacak müracaatlar
+MADDE 15 – (1) Dahilde işleme izin belgesi almak isteyen firmaların, bu Tebliğ ile İhracat 2006/12 sayılı Dahilde İşleme Rejimi Tebliği çerçevesinde elektronik ortamda müracaat etmeleri gerekir. Belge almak isteyen firmalar tarafından, İhracat 2005/1 sayılı Dahilde İşleme Rejimi Tebliği ile İhracat 2005/2 sayılı İhracat Sayılan Satış ve Teslimler Hakkında Tebliğ hükümleri çerçevesinde dahilde işleme izin belgesi almak için yapılacak müracaatlar, (Değişik ibare:RG-12/9/2014-29117) Bakanlıkça değerlendirmeye alınmaz.
