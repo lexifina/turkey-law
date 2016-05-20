@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13649056-125[05-2014/ÖZE-03]-61",
+  "source_id": 22559,
+  "date": "2016-05-20",
+  "title": "Dar mükellef kuruma yapılan işçi temini hizmetinden elde edilen kazancın kurumlar vergisinden istisna olup olmadığı, işçi temini işinin hizmet ihracı olarak değerlendirilip değerlendirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22559",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "68b6b04e6b78f651bbbeefaa5bbb99a3a417a4fe04112ace132a6660649bde95",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
