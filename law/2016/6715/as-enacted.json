@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6715",
+  "year": 2016,
+  "title": "İş Kanunu ile Türkiye İş Kurumu Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-05-20",
+  "gazette_issue": "29717",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160520-24.htm",
+  "source_sha256": "c5707f3b16f97d2a5f88e7954d7bd2b6204813f8569ad834ebf377cb405b2ce1",
+  "text_sha256": "5432292f2629fc0bcb988b0ba3b4531ab57454ddeef8912d13a6a6126b658a02",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/05/20/29717-24",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160520-24.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
