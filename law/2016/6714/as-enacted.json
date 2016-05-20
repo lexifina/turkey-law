@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6714",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti ile Avrupa Birliği Arasında İzinsiz İkamet Eden Kişilerin Geri Kabulüne İlişkin Anlaşma ile Oluşturulan Ortak Geri Kabul Komitesinin 2/2016 Sayılı Kararının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-05-20",
+  "gazette_issue": "29717",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160520-1.htm",
+  "source_sha256": "777acac7193b656ed2bf24567f21ce271c9aac80ab6b4c59fc03728686ae7997",
+  "text_sha256": "fe66c4a0ba6ffc31cdd9f5a534b1b205e16351902d1dad6121ddb5667bbf53aa",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/05/20/29717-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160520-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
