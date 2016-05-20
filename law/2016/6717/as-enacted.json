@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6717",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Birleşmiş Milletler İnsani İşler Eşgüdüm Ofisi Arasında Türkiye'de Bir Ülke Ofisi Kurulmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-05-20",
+  "gazette_issue": "29717",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160520-28.htm",
+  "source_sha256": "4cc5af610fe941c9ac2a1c6bfbe7e8b4978a616df4848bee030a6c0be6a243dc",
+  "text_sha256": "cfd075f04511ea3f4b63412f2600d67ae283e05b7bfac5108fb73ef941205d2d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/05/20/29717-28",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160520-28.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
