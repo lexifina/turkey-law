@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.01-140[59/m-2016/1]-100486",
+  "source_id": 35929,
+  "date": "2016-05-20",
+  "title": "\"Korunması gerekli kültür varlığı\" olarak tescil edilen taşınmazın tapuda yapılacak devir işleminin harçtan istsina olup olmadığı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35929",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "22b0f07a878606d9c20058cfb5c5813fbfc71393c1205efeca5c015680a075e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
