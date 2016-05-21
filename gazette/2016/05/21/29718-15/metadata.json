@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-05-21",
+  "issue": "29718",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARLARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 13/05/2016 Tarihli ve 6892 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160521-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160521.htm",
+  "index_sha256": "9c75309264435f5998e99b7f252d309826733e4619206ce1c7765f35c8548e54",
+  "index_header": "21 Mayıs 2016 ... 29718 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/05/20160521.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
