@@ -1,0 +1,1 @@
+MADDE 3 – Bu listede yer alan meslek kollarına giren esnaf ve sanatkârların kullanabilecekleri Türkiye İstatistik Kurumu tarafından ilan edilen NACE Rev.2 (Altılı Düzey) Ekonomik Faaliyet Sınıflamasında belirlenen faaliyet kodları Gümrük ve Ticaret Bakanlığı Esnaf ve Sanatkârlar Genel Müdürlüğü tarafından bu kararın yayınlanmasını takip eden 6 ay içinde belirlenir.
