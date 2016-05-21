@@ -1,0 +1,26 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bölge Müdürlüğü: Denizcilik Müsteşarlığına bağlı Bölge Müdürlüklerini,
+b) Büyük uygunsuzluk (Major Non Comformity-MNC): Personel, gemi emniyeti veya çevre için ciddi bir tehlike oluşturan, derhal önlem alınmasını gerektiren tanımlanabilir bir ihmali veya zorunlu kural, yönetmelik veya EYS el kitabında yer alan bir yükümlülüğün etkili ve sistematik uygulama eksikliğini,
+c) Denetim görevlisi: Türk bayraklı gemileri ve işletmecilerini denetlemek ve denetimlerinin sonuçlarına göre belgeler hazırlamak üzere İdare tarafından görevlendirilen ve sadece İdareye karşı sorumlu olan kişiyi,
+ç) DoC (Document of Compliance): İşletmecide tesis edilen Emniyet Yönetimi Sisteminin Kod gereklerini karşıladığını gösteren uygunluk belgesini,
+d) Doküman: EYS ile ilgili talimat, el kitabı, kılavuz, rapor ve diğer belgeleri,
+e) DPA (Designated Person Ashore): Her bir geminin emniyetini izlemekten ve gemi operasyonları için yeterli sahil kaynağını sağlamaktan sorumlu olan, gemi ile işletmeci arasında bir bağ oluşturmak için en üst düzey yetkililer de dâhil olmak üzere işletmecinin tüm yönetim seviyeleri ile doğrudan temas kurabilen ve işletmeci tarafından atanmış EYS uygulamasında tam yetkiyi haiz atanmış kişiyi,
+f) Emniyet yönetim el kitabı: EYS yi açıklamak ve uygulamak için kullanılan belgeleri,
+g) Emniyet yönetimi denetimi: Emniyet yönetimi sisteminde belirtilen faaliyetlerin ve bu faaliyetlere bağlı sonuçların planlanan düzenlemelere uygunluğunun, bu düzenlemelerin verimli bir şekilde uygulandığının ve amaçlanan hedeflere ulaşılması açısından uygunluğunun tespiti için yapılan bağımsız ve sistematik denetimi,
+ğ) EYS (Safety Management System): İşletmecinin emniyet ve çevre koruma politikalarının, işletmeci personeli tarafından etkin biçimde uygulanabilmesine imkân veren, tasarlanmış ve belgelendirilmiş bir sistem olan Emniyet Yönetimi Sistemini,
+h) Gros ton (GT): Geminin 1969 Uluslararası Tonaj Sözleşmesine uygun olarak düzenlenmiş belgesinde gösterilen gros tonilatosunu,
+ı) Gözlem: Emniyet yönetimi denetimi sırasında bulunan, objektif kanıtla doğrulanan ve düzeltilmediği taktirde ileride bir uygunsuzluğa dönüşme riski taşıyan tespiti,
+i) İdare: Başbakanlık Denizcilik Müsteşarlığını,
+j) İşletmeci: Geminin yönetim sorumluluğunu alan ve Kodun yüklediği tüm görev ve sorumlulukları devralmayı kabul eden gerçek veya tüzel kişiyi,
+k) Kod (International Safety Management Code): Uluslararası Denizcilik Örgütü (IMO) tarafından A.741(18) sayılı karar ile kabul edilen gemilerin emniyet yönetimi ve çevre kirliliğinin önlenmesine ilişkin Uluslararası Emniyet Yönetimi Kodunu,
+l) Liman Başkanlığı: Denizcilik Müsteşarlığı Bölge Müdürlüklerine bağlı Liman Başkanlıklarını,
+m) Objektif kanıt: Doğrulanabilir gözlem, ölçüm ve teste dayanan ve uygulanan emniyet yönetimi sistemi unsuruna ait bilgi, kayıt veya tespiti,
+n) Örgüt (International Maritime Organization-IMO): Uluslararası Denizcilik Örgütünü,
+o) SMC (Safety Management Certificate): Gemide tesis edilen emniyet yönetimi sisteminin Kod gereklerini karşıladığını gösteren Emniyet Yönetimi Belgesini,
+ö) Sözleşme (International Convention for the Safety of Life at Sea-SOLAS-74): Uluslararası Denizde Can Emniyeti Sözleşmesini,
+p) Uluslararası sefer: Bir Türk limanından yabancı bir limana veya yabancı bir limandan bir Türk limanına yahut iki yabancı liman arasında yapılan seferi,
+r) Uygunsuzluk (Non Comformity-NC): Zorunlu kural, yönetmelik ve EYS el kitabında belirlenmiş bir yükümlülüğün tam olarak yerine getirilmediğinin objektif olarak belirlenmesini,
+s) Yetkilendirilmiş kuruluş: 1/10/2003 tarihli ve 25246 sayılı Resmî Gazete’de yayımlanan Türk Bayraklı Gemilerde Bayrak Devleti Adına Hareket Edecek Kuruluşların Seçimi ve Yetkilendirilmesine Dair Yönetmelik hükümleri çerçevesinde; İdare adına, İdarenin belirleyeceği konularda, ulusal ve uluslararası kurallar ile yükümlülükler çerçevesinde, denetim yapma ve sertifika düzenleme konusunda yetkilendirilen kuruluşu,
+ş) Yıldönümü tarihi: DoC ve SMC nin bitiş tarihinden geriye doğru her bir yıla karşılık gelen ve gün-ay olarak hesaplanan tarihi
+ifade eder.

@@ -1,0 +1,2 @@
+DPA nın yetkileri, sorumlulukları ve atanması
+MADDE 8 – (1) İşletmeci, her bir gemisinin emniyetli şekilde işletilmesini sağlamak üzere, nitelik ve yeterliliği İdarece belirlenecek kişi veya kişileri DPA olarak belirler ve atar. Bu kişi veya kişilerin sorumluluk ve yetkileri arasında, geminin işletilmesi sırasında emniyet ve kirlilik önleme konularının izlenmesi ve yeterli kaynak için şirket tabanlı desteğin sağlanması da yer alır. DPA nın nitelikleri ve atanması ile ilgili usul ve esaslar İdare tarafından belirlenir.
