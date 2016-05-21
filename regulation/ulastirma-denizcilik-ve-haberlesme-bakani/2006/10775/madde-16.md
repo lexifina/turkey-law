@@ -1,0 +1,4 @@
+Denetim görevlilerinin kimliği ve yasaklar
+MADDE 16 – (1) Denetim görevlileri, İdare tarafından düzenlenmiş, yabancı gemiler üzerinde liman devleti kontrol denetimleri yapmaya yetkili olup olmadıklarını belirtir kimlik kartı bulundurmak zorundadır. Bu kimlik kartı talep üzerine gemiye girmeden önce ilgili kişilere, gemi kaptanına veya vardiya zabitine ibraz edilir.
+(2) Denetim görevlileri, denetim yapılacak gemilerde veya denetim faaliyetlerini yürüttükleri limanlarda herhangi bir ticari veya ekonomik menfaat sahibi olamazlar.
+(3) (Ek:RG-10/9/2008-26993) 14 üncü maddenin üçüncü fıkrası ile elde edilen bilgiler ve ifadeler söz konusu belgeler içeriği bakımından delil hükmündedir. İlgili tarafların haklarını savunmak amacıyla sunabilecekleri deliller saklıdır. Kaza araştırmalarında kişilerden alınan sözlü ve yazılı ifadeler ile bu kişilere ilişkin kişisel kayıtlar, bant kayıtları ve resimler, hakkında mahkeme kararı olmadan inceleme amacının dışında kullanılamaz.

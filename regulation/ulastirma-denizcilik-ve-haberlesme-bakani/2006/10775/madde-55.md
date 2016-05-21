@@ -1,0 +1,4 @@
+Alıkoyma prosedürü
+MADDE 55 – (1) Liman başkanlığı, alıkoyma tedbirinin hangi olgulara ve durumlara dayandığını kısaca belirterek ve olası sorumlu kişileri tespit ederek, alıkoyma işlemlerini başlatma talimatını verir.
+(2) Bu talimatta, ilgili tarafa, üç iş günü içinde kendi iddialarını ortaya koyma ve delil veya kanıtlar öne sürme hakkına sahip olduğu da bildirilir. Liman başkanlığının, re’sen veya talep üzerine karar vermesi halinde kanıtlar, incelenmesi için en fazla beş iş günü açık tutulur.
+(3) Bu süreler dolduktan sonra, duruma göre en fazla iki çalışma günlük ilave süre içinde liman başkanlığı geminin kesin olarak alıkonulması veya geçici alıkoymanın kaldırılması talimatını verir. Geminin kesin olarak alıkonulması halinde ilgili taraf, azami on beş iş günü içinde İdareye itiraz edebilir. İtiraz alıkoymayı durdurmaz.

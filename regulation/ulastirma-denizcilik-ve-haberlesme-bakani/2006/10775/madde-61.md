@@ -1,0 +1,2 @@
+Belgeler ve dokümanlar listesi
+MADDE 61 – (1) Bir Türk gemisinin veya bir işleticinin ulusal mevzuata veya uluslararası sözleşmelere uygun durumda olduğunu ve geminin tahsis edildiği hizmetleri yerine getirmek için denize elverişli olduğunu tespit eden, bu Yönetmelikte yer alan başlıca belgeler ve dokümanlar Ek-1’de belirtilmiştir. İdare, ulusal mevzuatta ve uluslararası sözleşmelerde meydana gelebilecek değişikliklere uyum sağlamak amacıyla, belgeler ve dokümanlar listesini değiştirmeye yetkilidir.

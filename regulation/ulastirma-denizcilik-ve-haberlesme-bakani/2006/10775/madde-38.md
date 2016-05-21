@@ -1,0 +1,2 @@
+Programlı denetimler
+MADDE 38 – (1) Türk gemileri, düzenli aralıklar ile yapılacak programlı denetimlere tabi olurlar. Bu denetimler, belgenin verilmesinden bu yana geminin şartlarının gereğince muhafaza edilmiş olup olmadığı ile geçerlilik süresi dolmuş veya dolmak üzere olan bir belgenin yenilenmesi için geminin uygun durumda olup olmadığını belirlemeye yöneliktir. Geminin şartları muhafaza edilmiş ise denetim sonucunda belge tasdik edilir; diğer hallerde yeni belge tanzim edilir.

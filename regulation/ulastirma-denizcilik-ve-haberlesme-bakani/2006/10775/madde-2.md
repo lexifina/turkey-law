@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik hükümleri; Türk gemilerine, yurt dışında inşa edilmekte olan ve tamamlandığında bir Türk gemisi haline gelecek olan gemilere, uluslararası hukukta öngörülen sınırlamalar çerçevesinde Türk deniz yetki alanlarındaki yabancı gemilere, Türkiye’de inşaat, dönüştürme veya onarım halinde bulunan gemilere ve Türkiye’de inşa veya tescil edilen deniz yapıları ile Türk sularında faaliyette olan diğer deniz yapılarına uygulanır.
+(2) Ticari maksatla çalıştırılmayan devlet gemileri, küçük tekneler, savaş gemileri ile yardımcı savaş gemileri hakkında bu Yönetmelik hükümleri uygulanmaz.

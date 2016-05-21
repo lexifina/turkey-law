@@ -1,0 +1,5 @@
+Denetim faaliyetlerinin yeri
+MADDE 28 – (1) Bu Yönetmelik kapsamına giren gemilerdeki denetim faaliyetleri, liman alanları, marinalar, tersaneler, çekek yerleri, onarım tesisleri ve diğer ilgili tesislerde gerçekleştirilir.
+(2) Gemi işleticisi veya kaptan, gemi denetim görevlisinin geminin denizde olduğu ve işletimle veya emniyetle ilgili sebeplerden dolayı denetim faaliyetinin gerçekleştirildiği mekanlara gidemediği hallerde, gemiye ulaşması ve gemiye emniyetle çıkması için gerekli kolaylıkları temin etmek zorundadır.
+(3) (Değişik:RG-10/9/2008-26993) Denetim faaliyeti büyük parçaların sökülmesi, geminin hareketsizleştirilmesi veya benzer işlemler gibi yüksek bir potansiyel risk taşıyan işlemler gerektiriyor veya denetim görevlisine yönelik bir tehlike arz ediyorsa denetim yeterli emniyet şartlarının oluşması sonucunda yapılır.
+(4) Denetim faaliyeti için başvuru yapan taraf, her durumda bu faaliyetin güvenli şartlarda gerçekleştirilmesini sağlamak için gerekli vasıtaları ve teçhizatı temin eder.

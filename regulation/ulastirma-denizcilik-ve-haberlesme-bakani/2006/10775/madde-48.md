@@ -1,0 +1,3 @@
+Unsurların ve teçhizatın hizmet süresi
+MADDE 48 – (1) Özellikleri nedeniyle sınırlı kullanım süresi olan ve dolayısıyla son kullanma tarihi taşıyan unsurlar ve teçhizat o tarihten sonra gemide tutulmaz, derhal karaya çıkarılır veya imha edilir.
+(2) Bu Yönetmelik hükümlerine uygun olarak gemiye yerleştirilen unsurlar ve teçhizatın geri kalanı, yeterli durumda kalmaları şartıyla ve ulusal mevzuatın veya uluslararası sözleşmelerin ilgili kurallarında aksi öngörülmedikçe, gerekli (Değişik:RG-10/9/2008-26993) tipe uygunluk belgesinin geçerlilik süresi ne olursa olsun sınırsız sürede kullanılabilir.

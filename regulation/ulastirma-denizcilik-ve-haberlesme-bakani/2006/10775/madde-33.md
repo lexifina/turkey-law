@@ -1,0 +1,2 @@
+Resmi deneme seferlerinin içeriği
+MADDE 33 – (1) İdare, Türkiyede tescil edilecek gemilerin resmi deneme seferleri konusunda ayrıntılı talimatlar koymaya yetkilidir. Bu deneme seferleri kapsamında, dümen tertibatının işleyişi, güverte makineleri, ana ve yardımcı hareket makineleri, manevra kontrol sistemleri ve bu Yönetmeliğin 32 nci maddesinde öngörülen gereklere uyulmasını saptamak için gerekli görülebilecek diğer hususlar yer alır.

@@ -1,0 +1,70 @@
+{
+  "source_id": "7.5.10775",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GEMİLERİN GENEL DENETİMİ VE BELGELENDİRİLMESİ HAKKINDA YÖNETMELİK",
+  "number": "10775",
+  "issuer": "Ulaştırma, Denizcilik ve Haberleşme Bakanı",
+  "issuer_slug": "ulastirma-denizcilik-ve-haberlesme-bakani",
+  "path": "regulation/ulastirma-denizcilik-ve-haberlesme-bakani/2006/10775",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10775&MevzuatTertip=5",
+  "source_sha256": "354302ea589a65997fdc75ca5fe8b77c4e434562f6fa8986d066dac78f407a1b",
+  "source_bytes": 180047,
+  "published": "2006-11-10",
+  "gazette": "26342",
+  "in_force": "2016-05-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/5/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-05-21",
+      "RG-21/5/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-05-21",
+      "21/5/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-10-30",
+      "RG-30/10/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-10-30",
+      "30/10/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-09-09",
+      "RG-9/9/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-09-09",
+      "9/9/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2008-09-10",
+      "RG-10/9/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-09-10",
+      "10/9/2008",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8602,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

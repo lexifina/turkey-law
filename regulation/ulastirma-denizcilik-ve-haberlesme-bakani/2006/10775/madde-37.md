@@ -1,0 +1,3 @@
+Denetim faaliyetlerinin planlanması
+MADDE 37 – (1) Türk gemileri, ulusal mevzuata ve uluslararası sözleşmelere uygunluğunu tespit etmek ve ayrıca deniz emniyeti ve denizde kirlenmenin önlenmesi bakımlardan denize açılmaya elverişli durumda olmalarını sağlamaya yönelik olarak, işletim ömürleri boyunca bu Yönetmeliğin 38 inci, 39 uncu ve 40 ıncı, 41 inci maddelerinde öngörülen programlı ve program dışı denetimlere tabi tutulurlar.
+(2) İdare, bu Yönetmelik hükümlerini geliştirmek suretiyle ve kendi personel ve maddi imkanlarına ve kaynaklarına göre gemilerin bütün işletim ömrü boyunca yapılacak olan çeşitli denetimlerin planlamasını oluşturur.
