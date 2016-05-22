@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-05-22",
+  "issue": "29719",
+  "edition": "regular",
+  "item": 6,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ARTIRMA, EKSİLTME VE İHALE İLÂNLARI",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Türkiye Taşkömürü Kurumu Genel Müdürlüğü Satınalma Daire Başkanlığından:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/05/20160522-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (8 = 8)",
+  "ilan_codes": [
+    "4776/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/05/20160522-3.htm",
+  "category_page_sha256": "41047736e912fc8c307e46b575b728f38367dda2f396e08f9746b9c56a6db150",
+  "issue_on_category_page": "29719",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/05/20160522.htm",
+  "index_sha256": "f5301b3f391b03be9a40c6c1252462135ddf82ed51cb4330565d5c9fce9c5914",
+  "index_header": "22 Mayıs 2016 ... 29719 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
