@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-155[1-2014/194]-63894",
+  "source_id": 34713,
+  "date": "2016-05-23",
+  "title": "Rüzgar enerjisine dayalı elektrik üretim santrali (RES) projesine ilişkin olarak yapacakları işlemlerin 4628 sayılı Elektrik Piyasası Kanunu ve 6446 sayılı Kanun kapsamında harçtan ve düzenlenecek kağıtların damga vergisinden istisna olup olmadığı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/34713",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "7847c5ae2662d7d613b18a186faee5cf06dd1a8eb52746b4a794fee3ce4f9781",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
