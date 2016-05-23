@@ -1,0 +1,4 @@
+Genel Kurul Divan Başkanlığı
+Madde 10- Olağan ve Olağanüstü Eczacı Odası Kongreleri, yoklamanın bitiminde; Eczacı Odası Başkanı, yoksa Genel Kurulu toplantıya çağıranları temsil eden kişi tarafından açılır. Daha sonra aday gösterilmek suretiyle bir başkan, bir başkan yardımcısı ve iki yazmandan oluşan başkanlık divanı seçimi yapılır. Bu seçimlerde odanın mührünü taşıyan oy pusulaları ile zarflar kullanılır. Oyların tasnifi genel kurula katılanlar arasından kura ile belirlenecek üç kişilik bir tasnif kurulu tarafından yapılır.
+Bu seçimlerde bir tek oy pusulası kullanılır ve bu oy pusulasına kongre divan başkanlığı, başkan yardımcılığı ve iki yazman için gösterilen adayların ismi yazılır.
+Her bir görev için birden fazla isim yazılı olan oy pusulalarında ilk önce yazılmış olan isme itibar edilir. Gizli oy ve açık tasnif esasına göre yapılacak olan seçimin sonucu Kongreyi açan kişi tarafından açıklanır ve böylece Kongre Başkanlık Divanı görevine başlar.

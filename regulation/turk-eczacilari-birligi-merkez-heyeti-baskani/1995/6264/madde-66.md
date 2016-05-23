@@ -1,0 +1,2 @@
+Komisyonlar
+Madde 66 - Gündemin kesinlik kazanmasından sonra kongre içi bütçe ve hesap-mevzuat-dilek ve öneriler komisyonları olmak üzere beşer üyeden oluşan üç komisyon genel kurulca belirlenir. Merkez Heyeti, Büyük Kongrede yapılmış olan Başkanlık Divanı ve Kongre içi komisyonların seçimlerinin sonuçları ile Büyük Kongrece seçilecek olan organlara ait evvelce hazırlanmış bulunan oy pusulaları ile diğer bütün seçim malzemesini İlçe Seçim Kurulu Başkanına teslim eder.

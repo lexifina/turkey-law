@@ -1,0 +1,3 @@
+Merkez Heyeti Denetleme Kurulu Toplantıları
+Madde 50 - (Değişik:RG- 16/4/1996-22613)
+Merkez Heyeti Denetleme Kurulu üyeleri Merkez Heyetinin toplantılarına gözlemci olarak katılabilirler. Toplantılara katılan denetçilerin isimleri toplantı tutanağına yazılır. Merkez Heyeti Denetleme Kurulu asıl üyeleri, seçildikleri tarihten itibaren seçim sonuçları kesinleştikten sonra on gün içersinde Büyük Kongre divan başkanı veya ikinci başkanının çağrısı üzerine çağrıda bulunanın başkanlığında ilk toplantılarını yaparlar ve kendi aralarında bir başkan seçerler. Denetleme Kurulu kararlarının oy çokluğu ile alınması yeterlidir.

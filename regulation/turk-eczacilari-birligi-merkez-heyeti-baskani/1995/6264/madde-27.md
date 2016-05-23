@@ -1,0 +1,3 @@
+Yardımcı Komisyonlar
+Madde 27- Eczacı Odaları Yönetim Kurulları 6643 sayılı yasanın kendilerine verdiği tüm görevleri zamanında ve eksiksiz yerine getirmeye mecburdurlar. Bu görevlerin yapılmasında Oda Yönetim kurulları, oda üyeleri ve gerek görülürse diğer meslek kuruluşlarından konularla ilgili komisyonlar Yönetim Kurulu kararı ile kurulur.
+Kurulacak komisyonların niteliği, üye adedi, çalışma usulleri ve kuruluş şekli her komisyon için oda yönetimi kararı ile saptanır. Komisyonlar Oda Yönetim Kurulu kontrolünde çalışırlar. Komisyonlar çalışma sonuçlarını ve önerilerini Yönetim Kurullarına iletirler.

@@ -1,0 +1,3 @@
+Toplantılara Katılamayanlar
+Madde 14- Mazeretleri nedeni ile toplantıya katılmayacak olanlar, bu mazeretlerini toplantıdan önce yazılı olarak yönetim kurulu başkan veya üyelerine bildirmeye mecburdurlar. Aksi halde toplantı tutanağına mazeretsiz olarak gelmedikleri yazılır.
+Mazeretli görevli veya izinli olanların bu durumları da tutanağa geçirilir. Mazeretsiz olarak üst üste olağan üç toplantıya katılmayan yönetim kurulu başkan, genel sekreter, sayman veya üyeleri istifa etmiş kabul edilerek, yerlerine oy sıralamasına göre, yedek üyeler göreve çağrılır. Saptanan toplantı saatinden itibaren bir saat içinde çoğunluk sağlanamazsa, bu durum bir tutanakla saptanır. Bu tutanağı hazır bulunan yönetim kurulu ve denetleme kurulu üyeleri imza ederler.

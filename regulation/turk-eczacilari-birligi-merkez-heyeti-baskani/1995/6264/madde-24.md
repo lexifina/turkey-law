@@ -1,0 +1,2 @@
+Denetleme Kurulu Üyeliği Boşalması
+Madde 24- Yönetmeliğin 22 nci maddesine göre denetleme kurulu üyeliği düşenlerin yerini en fazla oy alan yedek üyeler alırlar. Yedek üyeler yerlerini aldıkları üyelerin görev sürelerini tamamlarlar. Doğan boşluğun yedekler ile doldurulması mümkün olmadığı takdirde boşluğun doğduğu tarihten itibaren 15 gün içinde oda yönetim kurulunca olağanüstü oda genel kurul toplantı çağrısında bulunulur.

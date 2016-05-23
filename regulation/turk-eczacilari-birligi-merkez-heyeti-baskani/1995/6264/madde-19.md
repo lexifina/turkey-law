@@ -1,0 +1,2 @@
+Eczacı Odası Başkanı
+Madde 19- Yönetim Kurulu Başkanı eczacı odası başkanıdır ve dolayısıyla eczacı odasının kişiliğinde ve imzası ile her hususta temsil ve ilzam eder. Yönetim kurulu başkanı ve oda başkanı olarak yönetim kurulunun olağan ve olağanüstü toplantılarına ve bölge bazında yapılan diğer toplantılara başkanlık eder. Oda başkanı aynı zamanda mali konularda ita amiri olarak imza yetkisine sahiptir. Gerekli hallerde bu yetki yönetim kurulu üyelerinden birisine devredilebilir.

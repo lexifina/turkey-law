@@ -1,0 +1,2 @@
+Denetleme Kurulu Üyeliğinin Boşalması
+Madde 49 - Yönetmeliğin 47 nci maddesine göre denetleme kurulu üyeliği düşenlerin yerini en fazla oy alan yedek üyeler alırlar. Yedek üyeler yerlerini aldıkları üyelerin görev sürelerini tamamlarlar. Doğan boşluğun yedekler ile doldurulması mümkün olmadığı takdirde boşluğun doğduğu tarihten itibaren 15 gün içinde Merkez Heyeti tarafından olağanüstü büyük kongre toplantı çağrısında bulunulur.

@@ -1,0 +1,5 @@
+Denetçi Eczacı
+Madde 33- (Değişik:RG- 16/4/1996-22613)
+Denetleme görevi eczacı odası yönetim kurulunun seçiminden sonra yapacağı ilk toplantıda atayacağı denetçi eczacılar tarafından yapılır. Oda yönetim kurulları gerekli hallerde yeni denetçi eczacılar atayabilirler. Denetçi eczacılara görevli ve yetkili olduklarını belirleyen yazılı ve resimli bir belgenin verilmesi zorunludur. Denetçi eczacılar meslekte en az üç yıl çalışmış (Mülga ibare:RG-13/3/2014-28940) (…) olan eczacılar arasından atanır. Denetçi eczacı sayısı ihtiyaca göre eczacı odası yönetim kurullarınca belirlenir.
+Denetçi eczacılar oda yönetim kurullarının yazılı direktifleri doğrultusunda görev yapar. Gerekli görülen hallerde denetçi eczacılar oda yönetim kurullarınca görevden alınır. Denetçi eczacının görevi oda yönetim kurullarının görev süresi kadardır. Denetçi eczacılar tarafından yapılacak denetleme görevi Türk Eczacıları Birliği’nce bastırılmış üç nüsha denetim formu ile belirlenir.
+(Ek:RG-13/3/2014-28940) 6643 sayılı Kanunun 16 ncı maddesi hükmü denetçi eczacılar için de uygulanır.

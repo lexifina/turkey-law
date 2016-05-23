@@ -1,0 +1,2 @@
+Genel Kurula Katılamayanlar
+Madde 6- Eczacı Odaları Genel Kurullarına mazereti nedeniyle katılamayanlar mazeretlerini oda genel kurulu toplantısının bitiminden itibaren bir hafta içerisinde oda yönetim kuruluna yazılı olarak bildirmek zorundadır. Bu süre içerisinde mazeret bildirmeyen veya mazereti geçersiz kabul edilenlere uygulanacak para cezaları 6643 Sayılı Yasanın 49 uncu maddesi uyarınca tahsil edilir.
