@@ -1,0 +1,3 @@
+Danışma Kurulu
+Madde 9 — Danışma Kurulu; İstanbul Ticaret Üniversitesi Rektörü, İstanbul Ticaret Üniversitesi Hukuk Fakültesi ve Ticari Bilimler Dekanlarının önereceği İstanbul Ticaret Üniversitesi camiası mensupları ve Merkezfin çalışmaları ile ilgili, özel ve kamu kuruluşları temsilcileri arasından, Yönetim Kurulufnca iki yıl için seçilen en çok on kişiden oluşur.
+Merkez ile iş, ekonomi ve kamu dünyası arasında köprü görevi yapacak Danışma Kurulu yılda en az bir kez Merkez Müdürünün çağrısı üzerine ve onun başkanlığında toplanır; Merkez çalışmaları ile ilgili değerlendirmeler yapar ve önerilerde bulunur.
