@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[94-2014/714]-64428",
+  "source_id": 22558,
+  "date": "2016-05-23",
+  "title": "İşten çıkarılan üst düzey yöneticilere rekabet yasağı adıyla yapılan ödemelerden vergi tevkifatı yapılıp yapılmayacağı ve söz konusu ödemelerin kurum kazancından indirilip indirilemeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22558",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "02dae2b5bed90f1e3df9983ed04441f021bc224e516742a904e9a38225d8a4cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
