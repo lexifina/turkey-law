@@ -1,0 +1,2 @@
+Merkez danışma kurulu ve görevleri
+MADDE 12 – (1) Merkez Danışma Kurulu; Rektör, Merkezin faaliyet alanlarıyla ilgili çalışmalarda bulunan Üniversite içinden veya dışından özel ve kamu kurum ve kuruluşlarının temsilcileri arasından Merkez Yönetim Kurulunca önerilen ve Rektör tarafından iki yıl için görevlendirilen en çok on kişiden oluşur. Merkez Danışma Kurulu; yılda en az bir kez Merkez Müdürünün çağrısı üzerine ve onun başkanlığında toplanır, Merkez çalışmaları ile ilgili değerlendirmeler yapar ve önerilerde bulunur.
