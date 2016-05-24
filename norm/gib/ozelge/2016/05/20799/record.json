@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[94-2014/314]-65214",
+  "source_id": 20799,
+  "date": "2016-05-24",
+  "title": "Yurt dışındaki sermayedar şirket çalışanının, Türkiye'deki şirkette yönetici olarak görev yapması nedeniyle yurtdışından ödenen ücretin vergilendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20799",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "f8f79c44b199f4df3198d0974ab0b6042a33d077b7fb7daecd62ddd9c4fc4275",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
