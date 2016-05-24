@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41915",
+  "decision_date": "2016-05-24",
+  "source_id": 12353,
+  "chamber": "1",
+  "file_number": "40295",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12353/",
+  "source_sha256": "3274b2677d2f6fc31819e552e4c3756b82a60829656cbac3de42db1e652431ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
