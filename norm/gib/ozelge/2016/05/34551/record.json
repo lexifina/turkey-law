@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-155[1-2014/279]-65367",
+  "source_id": 34551,
+  "date": "2016-05-24",
+  "title": "Promosyon sözleşmesinin damga vergisine tabi olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34551",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "572e301222c6f508a5b42bfd0f23b2c51fc99c884f7e54804a83489c9db82376",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
