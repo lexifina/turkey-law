@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "19174029-010.01-15",
+  "source_id": 28492,
+  "date": "2016-05-24",
+  "title": "Devralınan şirkete ait fabrikanın kiraya verilmesi halinde zarar mahsubu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28492",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "ad26d33228f9bd16efeb2a37d1b0a957a31cbf177ca12c11cdd8ede51a2104ce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
