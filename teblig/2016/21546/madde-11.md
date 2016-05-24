@@ -1,0 +1,2 @@
+Esas soruşturmada tespit edilen damping marjları
+MADDE 11 – (1) Mevcut dampinge karşı önlemin hukuki ve idari altyapısını teşkil eden esas soruşturma esnasında tespit edilen damping marjları, firmaların önlemin yürürlükten kalkması halindeki muhtemel davranışlarını yansıtacak önemli bir göstergedir. Buna göre, esas soruşturma sırasında ÇHC’de yerleşik üretici-ihracatçı firmalar için tespit edilen damping marjları CIF bedelin %77,04-%85,06’sı arasında değişen oranlarda tespit edilmiştir.
