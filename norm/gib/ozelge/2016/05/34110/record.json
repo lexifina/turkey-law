@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-135[15/2-a-2016/3]-100888",
+  "source_id": 34110,
+  "date": "2016-05-24",
+  "title": "Veraset yoluyla intikal eden araçlarda ÖTV istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34110",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "f3b4eee21846258a0024a380afccbf6ef7c9d2ec193251d0622cd3471ba8aa58",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
