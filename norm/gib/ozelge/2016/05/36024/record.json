@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-140.08.09-64700",
+  "source_id": 36024,
+  "date": "2016-05-24",
+  "title": "Türkiye Cumhuriyet Merkez Bankası tarafından 6493 sayılı Kanun kapsamında sistem işleticisi olarak faaliyet izni verilen şirketten 492 sayılı Harçlar Kanununa bağlı (8) sayılı tarifenin XI inci bölümüne göre harç aranılıp aranılmayacağı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36024",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "2b1870bd53b9f0c94f0417c3ab888bda387910ae038d9df99df9eac8d4cda13b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
