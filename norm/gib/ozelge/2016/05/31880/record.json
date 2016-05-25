@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[5-2013/450]-65987",
+  "source_id": 31880,
+  "date": "2016-05-25",
+  "title": "Aktife kayıtlı taşınmazın satışında kurumlar vergisi ve KDV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/31880",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "816ac8a01a190688dbf44a19e599b2f68db34eb81b3dc72b3ab227f2be232082",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
