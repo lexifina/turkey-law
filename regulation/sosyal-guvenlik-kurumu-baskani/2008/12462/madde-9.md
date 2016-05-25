@@ -1,0 +1,3 @@
+Kurum dışından görevlendirilen üyelere yapılacak ödemeler
+MADDE 9 – (1) Konfederasyonlar ve Türkiye Odalar ve Borsalar Birliğince komisyonda görevlendirilen teknik elemanlara, bu görevlerini yaptıkları sürece katıldıkları her toplantı günü için (2500) gösterge rakamının memur aylıklarının hesabında kullanılan katsayı ile çarpılarak bulunacak tutarı üzerinden huzur hakkı Kurumca ödenir.
+(2) Komisyon üyelerinin yerinde yapılacak tespit işlemi ile ilgili görevlendirilmeleri halinde 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 8 inci ve diğer ilgili maddeleri uyarınca Kurum Yönetim Kurulunca takdir edilecek miktarlarda ödeme yapılır.

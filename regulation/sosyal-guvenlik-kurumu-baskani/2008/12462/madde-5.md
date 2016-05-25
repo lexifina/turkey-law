@@ -1,0 +1,6 @@
+Çalışması ve Üyelerinin Özlük Hakları
+Komisyonun oluşturulması
+MADDE 5 – (1) Komisyon, Yönetim Kurulu kararı ile, Kurum teknik elemanlarından dört asıl dört yedek, Yönetim Kurulunda temsil edilen işveren konfederasyonu ile Türkiye Odalar ve Borsalar Birliğince görevlendirilecek birer asıl ve birer yedek teknik eleman ile yine Yönetim Kurulunda temsil edilen işçi konfederasyonunca görevlendirilecek bir asıl ve bir yedek teknik eleman olmak üzere toplam yedi asıl ve yedi yedek üyeden oluşur.
+(2) Kurumca gerekli görülmesi halinde, Yönetmeliğin 6 ncı maddesinde belirtilen nitelikleri taşıyacak üyelerden oluşacak şekilde ve aynı esaslar çerçevesinde, Yönetim Kurulu kararı ile aralarındaki görev dağılımı da belirtilmek suretiyle birden çok komisyon kurulabilir.
+(3) (Ek:RG-25/5/2016-29722) Birden fazla komisyonun kurulması halinde 17 nci madde uyarınca asgari işçilik oranına yapılacak olan itirazı inceleyecek komisyon Yönetim Kurulu Kararı ile belirlenir.
+(4) (Ek:RG-25/5/2016-29722) Birden fazla komisyonun kurulması halinde komisyonlarda görevli komisyon başkanları ile konfederasyonlarca ve Türkiye Odalar ve Borsalar Birliğince görevlendirilmiş birer üyenin katılacağı istişare komisyonu oluşturulur.

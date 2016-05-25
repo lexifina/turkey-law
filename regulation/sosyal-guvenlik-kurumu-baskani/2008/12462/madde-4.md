@@ -1,0 +1,25 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alt işveren: Bir işverenden, işyerinde yürüttüğü mal veya hizmet üretimine ilişkin bir işte veya bir işin bölüm veya eklentilerinde iş alan ve bu iş için görevlendirdiği sigortalıları çalıştıran üçüncü kişiyi,
+b) Asgari işçilik oranı: İhale yoluyla yapılan işlerde istihkak tutarı, özel nitelikteki inşaat işlerinde ise maliyet bedeli içerisindeki asgari işçilik miktarının yüzdesini,
+c) Başkan: Asgari İşçilik Tespit Komisyonu Başkanını,
+ç) (Değişik:RG-25/5/2016-29722) Daire Başkanlığı: Kurumun asgari işçilik işlemlerini yürüten daire başkanlığını,
+d) Dosya: Asgari İşçilik Tespit Komisyonunca asgari işçilik oranı tespit edilecek işe ait gerekli belgelerin tümünü,
+e) Fiyat analizi: İnşaata ait imalatların birim maliyetlerin; işçilik, malzeme, taşıt, makine ve ekipman olarak miktar ve tutarlarının saptanarak fiyatlandırılması işlemini,
+f) Fiyat zaptı: Birim fiyatlarda bulunmayan imalatlar için düzenlenen özel birim fiyatlarını,
+g) İdare: 10/12/2003 tarih ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 3 üncü maddesinin birinci fıkrasının (a) bendinde belirtilen kamu idareleri ve kamu iktisadi teşebbüsleri ile bunların bağlı idare, ortaklık, müessese ve işletmeleri ve yukarıda belirtilenlerin ödenmiş sermayesinin % 50’sinden fazlasına sahip oldukları ortaklık ve işletmelerden 29/6/1956 tarihli ve 6762 sayılı Türk Ticaret Kanuna tabi olmayanlarla özel kanunlarına göre personel çalıştıran diğer kamu kurumları ile döner sermayeli kuruluşlar ve 19/10/2005 tarihli ve 5411 sayılı Kanunda tanımları yapılan mevduat bankaları, katılım bankaları, kalkınma ve yatırım bankaları, fon bankaları ve kanunla kurulan kurum ve kuruluşları,
+ğ) İstihkak: Yapılan işe karşılık, katma değer vergisi ve idarece verilen malzeme bedeli hariç, malzeme fiyat farkı ve akreditif bedeli dahil olmak üzere idarece işverene ödenmesi gereken toplam tutarı,
+h) İşveren: Sigortalıları çalıştıran gerçek veya tüzel kişiler ile tüzel kişiliği olmayan kurum ve kuruluşları,
+ı) Kanun: 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununu,
+i) Komisyon: Asgari İşçilik Tespit Komisyonunu,
+j) Kurum: Sosyal Güvenlik Kurumunu,
+k) Maliyet: Yapılan işin veya üretimin toplam parasal değerini,
+l) Malzeme: Yapılan işte kullanılan ve istihkak tutarı ile maliyet bedeli içindeki maddeyi,
+m) Salt işçilik: Üretimde kullanılan malzemenin tamamı ile makine, alet ve edevatın idarece verilmesi halinde kullanılan işçiliği,
+n) Tebliğ: Komisyon tarafından belirlenen asgari işçilik oranlarını gösteren ve Resmî Gazete’de yayımlanan tebliği,
+o) Ünite: Sosyal güvenlik il müdürlüklerini ve sosyal güvenlik il müdürlüklerine bağlı olarak faaliyet gösteren sosyal güvenlik merkezlerini,
+ö) Üye: Kurumca ve Kurum Yönetim Kurulunda temsil edilen işçi ve işveren konfederasyonları ile Türkiye Odalar ve Borsalar Birliğince görevlendirilen asıl ve yedek teknik elemanları,
+p) Yönetim Kurulu: Sosyal Güvenlik Kurumu Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Asgari İşçilik Tespit Komisyonunun Oluşturulması,
