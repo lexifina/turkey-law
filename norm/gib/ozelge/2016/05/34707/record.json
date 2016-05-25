@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-140[57-2013-121]-292",
+  "source_id": 34707,
+  "date": "2016-05-25",
+  "title": "İcra Müdürlüğünün İpotek Şerhini Kaldırma İşleminin Mahkeme Kararıyla İptal Edilerek Söz konusu Mahkeme Kararıyla Tekrar Tesis Edilmesinde Harç ve Damga Vergisi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/34707",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "010ca7913cc18b84076cb858325add2abb9057cc25cf47b93fa0fee3f77f8142",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
