@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-175.02[Ek.4.2015/7.2.10-318469]-65756",
+  "source_id": 37196,
+  "date": "2016-05-25",
+  "title": "TOKİ' ye ait olup şirket tarafından yüklenilen inşaat işiyle ilgili olarak Bina İnşaat Harcı Matrahının hesaplanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37196",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "3eaa0395be996264391f85c31c1b29b532102a839f1ef793d75ded2ed9007fba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
