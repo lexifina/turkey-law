@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "141",
+  "decision_date": "2016-05-26",
+  "source_id": 20118,
+  "chamber": "4",
+  "ilam_number": "429",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20118/",
+  "source_sha256": "6d839e6621f73ce43efe8c93cd21bf3412c3bdd429e2804f5224151f54e97721",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
