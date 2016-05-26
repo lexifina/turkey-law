@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "140",
+  "decision_date": "2016-05-26",
+  "source_id": 22220,
+  "chamber": "4",
+  "ilam_number": "200",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22220/",
+  "source_sha256": "8c295ce03b4098386ec80fb15158a37e8a2c6d4c54dc96f9d2709dfeafd35436",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
