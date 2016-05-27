@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.21551",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YEM KATKI MADDELERİNİN DEĞERLENDİRME VE ONAY İŞLEMLERİ İÇİN BAŞVURU DOSYASININ HAZIRLANMASI VE SUNULMASI HAKKINDA TEBLİĞ (TEBLİĞ NO: 2016/15)",
+  "number": "21551",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2016/21551",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21551&MevzuatTertip=5",
+  "source_sha256": "526e7a143c407728b3d7d0a168e469762a81cb8d7c2d7586889354263ef16835",
+  "source_bytes": 14302,
+  "published": "2016-05-27",
+  "gazette": "29724",
+  "in_force": "2016-05-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.05.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 488,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21551-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

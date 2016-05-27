@@ -1,0 +1,6 @@
+Başvuru dosyalarının hazırlanması ve sunulması
+MADDE 5 – (1) Yönetmeliğin 7 nci maddesi hükümlerine göre dosyanın hazırlanması ve sunulmasına ilişkin hususlar bu Tebliğin eklerinde belirlenmiştir. Bu hususlar başvuru formunu, başvuru sahibinin bilgilerini, genel ve özel gereklilikleri, etkinlik çalışmalarının minimum sürelerini içerir.
+(2) Yem katkı maddesinin onay işlemi için başvuru sahibi tarafından hazırlanan dosya Ek-1’de yer alan başvuru formu ile birlikte Bakanlığa sunulur.
+(3) Hazırlanan dosyanın, Yönetmeliğin 5 inci maddesinde belirtilen onay şartlarına uygun olması ve bu şartları sağlaması gerekir.
+(4) Başvuru sahibi, Yönetmeliğin 17 nci maddesinin birinci fıkrası uyarınca dosyanın bazı bölümlerinin gizli tutulmasını talep etmesi halinde gerekçelerini de belirtmesi gerekir. Dosyada gizli tutulması istenen bölümler diğer belgelerden ayrı sunulur ve Yönetmeliğin 7 nci maddesinin ikinci fıkrasının (g) bendinde belirtilen özete dahil edilmez.
+(5) Bu Tebliğ ekinde yayımlanan başvuru dosyasının hazırlanması ve sunulmasına ilişkin hususlardan karşılanamayanlar varsa bilimsel gerekçeleri dosya ekinde sunulur. Bu gerekçeler Bakanlık tarafından Yönetmelik kapsamında değerlendirilir.
