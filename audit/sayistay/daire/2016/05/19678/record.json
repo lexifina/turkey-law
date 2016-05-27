@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10573",
+  "decision_date": "2016-05-27",
+  "source_id": 19678,
+  "chamber": "1",
+  "ilam_number": "222",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19678/",
+  "source_sha256": "a4292c6d947ca32816d649fb1ad77a2202bbe41173fae0f5610af1827d8672ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
