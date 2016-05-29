@@ -1,0 +1,5 @@
+Finansal tabloların gerçeği doğru bir şekilde yansıtması
+MADDE 7 – (1) Finansal tablolar, şirketin finansal durumunu, performansını ve nakit akışını doğru bir şekilde yansıtacak şekilde hazırlanmak zorundadır. Gerekli dipnotlara da yer verilerek bu Tebliğdeki hükümler ile Sigorta ve Reasürans Şirketleri ile Emeklilik Şirketlerinin Finansal Raporlamaları Hakkında Yönetmelik hükümleri çerçevesinde hazırlanan finansal tabloların gerçeği doğru bir şekilde yansıttığı kabul edilir.
+(2) Bu Tebliğe tamamen uygun şekilde hazırlanmamış finansal tablolar, Müsteşarlığın standartlarına uygun şekilde hazırlanmış finansal tablolar olarak kabul edilmez.
+(3) İşlem ve olayların, finansal tablolara bu Tebliğdeki hükümler çerçevesinde yansıtılmayıp yalnızca dipnotlarda açıklanması, söz konusu işlem ve olayların uygun şekilde finansal tablolara yansıtıldığı anlamına gelmez.
+(4) Şirketin kanuni defterleri, Sigorta ve Reasürans Şirketleri ile Emeklilik Şirketlerinin Finansal Raporlamaları Hakkında Yönetmelik hükümlerine uygun olarak hazırlanır ve şirket genel kurulunun onayına sunulur.

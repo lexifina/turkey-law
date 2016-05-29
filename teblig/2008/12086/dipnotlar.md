@@ -1,0 +1,1 @@
+[1] Bu Tebliğ, 1/10/2023 tarihli ve 32326 sayılı Resmî Gazetede yayımlanan “Sigorta ve Reasürans ile Emeklilik Şirketlerinin Finansal Tablolarının Sunumu Hakkında Tebliğ” ile 1/1/2027 tarihinde yürürlükten kaldırılacaktır.
