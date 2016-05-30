@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85632212-010.01-1",
+  "source_id": 29780,
+  "date": "2016-05-30",
+  "title": "T3A Kapasite ve Tv Radyo Hizmeti için ödenen bedelin gider yazılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29780",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "822a711fb3f25e617f5fa4a1f8ce2666c3ae6f57103817467dfc9c500ad8d52a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
