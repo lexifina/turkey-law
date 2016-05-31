@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "12745",
+  "decision_date": "2016-05-31",
+  "source_id": 18423,
+  "chamber": "6",
+  "ilam_number": "1612",
+  "item_number": 1,
+  "public_body_type": "Diğer",
+  "account_year": 2009,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/18423/",
+  "source_sha256": "f02da202e231bf105d540e75fc5933cc59e63bba8bf45e8636b9893c989a14ca",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
