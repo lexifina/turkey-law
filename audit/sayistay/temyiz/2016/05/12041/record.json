@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41928",
+  "decision_date": "2016-05-31",
+  "source_id": 12041,
+  "chamber": "4",
+  "file_number": "39275",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2012",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12041/",
+  "source_sha256": "67c069dc10ceeb1b2a8dffcbfab9aba5f181cd36aef422e1297cba0d881135d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
