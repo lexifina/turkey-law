@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "343",
+  "decision_date": "2016-05-31",
+  "source_id": 20733,
+  "chamber": "6",
+  "ilam_number": "453",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20733/",
+  "source_sha256": "7b9a3d9111a0fedf494c21c4a3d64c7d3ce87699d70b4781c1b3a5941207e907",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
