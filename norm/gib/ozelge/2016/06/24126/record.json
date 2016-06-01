@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-125[3-2014/11]-306",
+  "source_id": 24126,
+  "date": "2016-06-01",
+  "title": "Dar mükellef şirketin OSB'den tahsis ettiği arsayı tam mükellef ilişkili şirkete devretmesi durumunda vergilemenin nasıl yapılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24126",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "7b525cce97afa5e13d0f4a814146f8d1c5cf92fdbb438e253270eb2f0bbf8e18",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
