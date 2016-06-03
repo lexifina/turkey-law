@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.13-72248",
+  "source_id": 29132,
+  "date": "2016-06-03",
+  "title": "Kruvaziyer limanının genişletilip güçlendirilmesi işlerinin ve liman içerisinde inşa edilecek tesislerin yapımında alınacak mal ve hizmet ifalarının KDVden istisna olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29132",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "e9f4d649c536db57a859a2f2b7ae23990d9207e464da3be62ae0cb33be12b170",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
