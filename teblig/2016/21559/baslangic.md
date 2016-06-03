@@ -1,0 +1,2 @@
+GÜMRÜK GENEL TEBLİĞİ (TARİFE)
+(SERİ NO: 14)

@@ -1,0 +1,4 @@
+Başvuru yapılamayacak eşya
+MADDE 8 – (1) Gümrük Yönetmeliğinin 196 ncı maddesinin birinci fıkrasının (a) bendinde sayılan tarife pozisyonlarına giren eşyadan perakende satılacak hale getirilmiş ambalajlarda olmayanları için BTB başvurusu yapılamaz. Eşyanın bu kapsamda olduğunun sonradan anlaşılması halinde başvuru reddedilir.
+(2) Üzerlerinde veya ambalajlarında ayniyetini tespite yarayacak bilgileri haiz olmayan eşyaya dair başvurular, ayniyet tespitinin fiziki olarak da mümkün olmaması halinde reddedilebilir.
+(3) BTB başvurusuna konu olabilecek eşya için BTB başvurusu yapılması esastır. Başvuru konusu eşyanın BTB kapsamına girmediğinin sonradan anlaşılması ve başvuru sahibince talep edilmesi halinde, mevcut BTB başvurusu 7/11/2008 tarihli ve 27047 sayılı Resmî Gazete’de yayımlanan Gümrük Genel Tebliği (Tarife) (Seri No: 11) hükümlerine göre değerlendirilir.

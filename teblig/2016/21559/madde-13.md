@@ -1,0 +1,7 @@
+DÖRDÜNCÜ BÖLÜM
+Bağlayıcı Tarife Bilgisinin Verilmesi ve Kullanılması
+Heyet oluşumu ve işleyişi
+MADDE 13 – (1) BTB başvurusunun, görevli personelin başvuruyu kabulünden sonra bölge müdürü tarafından görevlendirilecek bir bölge müdür yardımcısı başkanlığında bir gümrük müdürü veya şube müdürü ve üç muayene memurundan oluşacak heyet tarafından incelenmesi ve değerlendirilmesi neticesinde, BTB konusu eşyanın sınıflandırıldığı Gümrük Tarife İstatistik Pozisyonu tespit edilir ve tutanağa bağlanır.
+(2) Yukarıda belirtilen heyet, sınıflandırmayı, konuya ilişkin Gümrük Tarife Cetveli, Dünya Gümrük Örgütü (DGÖ) Sınıflandırma Avileri, Gümrük Tarife Cetveli İzahnamesi ve Kombine Nomanklatür İzahnamesi, DGÖ Sınıflandırma Kararları, AB Sınıflandırma Tüzükleri, tebliğler, genelgeler ile daha önce verilmiş ve BTB veri tabanında halen geçerli olan BTB’lerdeki açıklama ve örneklerden yararlanarak yapar. Sınıflandırılan eşya ile benzer özellikteki eşyaya ilişkin geçerli bir BTB’deki sınıflandırmayla farklı görüşte olunması halinde, BTB düzenlenmeden önce konu gerekçesiyle birlikte Bakanlığa intikal ettirilerek alınacak cevaba göre işlem yapılır.
+(3) BTB başvurusuna konu eşyanın gümrük işlemlerinin başvuruyu kabul eden bölge müdürlüğünün kendi bağlantısı olmayan ihtisas gümrüğü görev alanına girmesi halinde, ihtisas gümrüğünün bağlı bulunduğu bölge müdürlüğünün görüşü alındıktan sonra BTB kararı verilir.
+(4) Yetkilendirilmiş bölge müdürlükleri, BTB konusu eşyanın sınıflandırılmasında tereddüt ettikleri hususlar hakkında istişarede bulunabilirler.

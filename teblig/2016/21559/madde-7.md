@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Bağlayıcı Tarife Bilgisi İçin Başvuru
+Başvuru yeri ve şekli
+MADDE 7 – (1) BTB başvurusu, BTB Programına veri girişi yapılması suretiyle elektronik olarak veya Gümrük Yönetmeliğinin Ek-1’inde yer alan başvuru formu örneğine uygun bir form ile yazılı olarak yetkilendirilmiş gümrük ve ticaret bölge müdürlüğüne yapılır. Başvuru formu olarak BTB Programına veri girişi yapıldıktan sonra alınan bilgisayar çıktısı da kullanılabilir. BTB başvurusunun form ile yazılı olarak yapılması halinde, ekinde yer alan tüm belgeler ve eşyanın teşhisini sağlayacak nitelikteki değişik açılardan çekilmiş fotoğraflar kağıt nüshası ile birlikte ayrıca dijital ortamda başvuru yapılan bölge müdürlüğüne sunulur.
+(2) Bir kişi, aynı eşya için sadece bir BTB müracaatında bulunabilir. Bir kişi adına aynı eşya için geçerli bir BTB var iken yeniden BTB düzenlendiği tespit edilirse o kişi adına aynı eşya için düzenlenmiş tüm BTB’ler verildiği tarihten başlayarak hükümsüzdür. Bu şekilde hükümsüz hale gelen BTB’nin hak sahibi için 4458 sayılı Gümrük Kanununun 241 inci maddesinin birinci fıkrası hükmü uygulanır.
