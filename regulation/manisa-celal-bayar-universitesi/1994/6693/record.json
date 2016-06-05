@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 8 - Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1994-03-27",
+      "27.03.1994",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2016-06-05",
+      "RG-5/6/2016-29733",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-06-05",
+      "RG-5/6/2016-29733",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-06-05",
+      "5/6/2016",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-5/6/2016-29733",
+  "first_law": null,
+  "gazette": "21887",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-06-05",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Manisa Celal Bayar Üniversitesi",
+  "issuer_slug": "manisa-celal-bayar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/manisa-celal-bayar-universitesi/1994/6693",
+  "published": "1994-03-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6693&MevzuatTertip=5",
+  "source_bytes": 25756,
+  "source_id": "8.5.6693",
+  "source_sha256": "0e321c0d696d0239d0108fb83143cc112a4bd9b6179f9f2ed57034370966b930",
+  "text_status": "current-consolidated",
+  "title": "MANİSA VE YÖRESİ TÜRK TARİH VE KÜLTÜRÜNÜ\r\nARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 184,
+  "word_count": 578
+}

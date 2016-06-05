@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+Madde 7/A – (Ek:RG-5/6/2016-29733)
+Danışma Kurulu, Üniversitenin veya diğer üniversitelerin öğretim elemanları ile istekleri halinde ilgili kamu kurum ve kuruluşlarındaki uzman kişiler arasından veya Merkezin çalışmalarına katkıda bulunabileceği düşünülen kişiler arasından Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıllığına seçilen en çok on iki kişiden oluşur. Müdür ve Müdür Yardımcısı Danışma Kurulunun doğal üyeleridir. Süresi dolan üyeler Rektör tarafından yeniden atanabilir. Danışma Kurulu, yılda en az bir kez toplanır. Toplantı hazır olan üyeler ile gerçekleşir. Toplantı kararları bağlayıcı olmayıp tavsiye niteliğindedir. Kurulun görevi Merkezin faaliyet alanları hakkında görüş bildirmek ve öneriler sunmaktır.
