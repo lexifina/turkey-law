@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "22202903-2014-Harçlar K.-3",
+  "source_id": 36003,
+  "date": "2016-06-07",
+  "title": "İkamet tezkeresi ve çalışma izin belgesi düzenlenen yabancının Harçlar Kanunu karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36003",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "02a16b54f09493f4566bceb7fc472d66a61e650f5d524acf539157b597c7f2cf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
