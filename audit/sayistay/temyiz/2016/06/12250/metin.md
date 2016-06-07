@@ -1,0 +1,9 @@
+Bazı iş kalemleri için yapılandan daha fazla miktar üzerinden ödeme yapılması
+
+2-) 231 sayılı İlam’ın 6’ncı maddesinde, “... İşi” ile ilgili olarak yapılan fiili fiziki denetimde bazı iş kalemleri için yapılandan daha fazla miktar üzerinden ödeme yapılması nedeniyle ...-TL’ye tazmin hükmü verilmiştir.
+
+Sorumlu, dilekçesinde özetle;
+
+Denetim sonucu bu işle ilgili yapıldığı belirtilen ölçüm ve metrajların, kesin hak ediş olarak düzenlenen 5 no’lu hak edişten önce yapıldığının görüldüğünü; müdüriyet makamı tarafından atanan yapı denetim görevlileri tarafından bu işe ait kesin hak edişin hazırlanabilmesi amacıyla, iş mahallinde gerekli ölçüm, cephe atamanlarının çizimi ve metrajların hesaplanması sonucunda 5 no’lu ve kesin hak ediş raporunun 15.04.2014 tarihinde tanzim edildiğini ve bu hesaplamalar sonucunda 24.12.2012 tarihine kadar bitmiş iş tutarının ...-TL olarak hesaplandığını; bu tutardan 29.01.2013 tanzim tarihli ve 4 no’lu ara hak ediş raporunda ödenen ... TL düşüldüğünde, yüklenicinin ...-TL borçlu olduğunu ve bu tutara % 18 KDV iade bedeli olan ...-TL’nin ve kesin kabul tutanağında kesilen ...-TL nefaset bedelinin ilavesi ile yüklenicini 5 nolu ve kesin hak edişteki toplam borcunun ... TL olarak hesaplandığını; 5 no’lu ve kesin hak ediş dosyası ve eklerinin 10.06.2014 tarih ve …/… sayılı yazı ile gereği yapılmak üzere Mali Hizmetler Müdürlüğü’ne gönderildiğini belirterek İlam’da belirtilen ... TL’nin ilgili firmadan tahsil edildiğine ilişkin ... Belediyesi Mali Hizmetler Müdürlüğünün 15.12.2014 tarih 560949 sayılı yazısı ve eklerini sunmuştur.
+
+Söz konusu tazmin hükmü ile ilgili olarak ibraz edilen belgelerin incelenmesi temyiz konusu olmadığından bu hususta kurulumuzca yapılacak işlem olmadığına ve sözü edilen belgeler yargılamanın iadesini gerektirir nitelikte görüldüğü takdirde bu yolda işlem yapılmasını teminen, 231 sayılı İlam’ın 6’ncı maddesine ilişkin dosyanın DAİRESİNE TEVDİİNE, Oybirliği ile;
