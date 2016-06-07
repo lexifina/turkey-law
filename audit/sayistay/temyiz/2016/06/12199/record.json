@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "41994",
+  "decision_date": "2016-06-07",
+  "source_id": 12199,
+  "chamber": "6",
+  "file_number": "40590",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12199/",
+  "source_sha256": "e12a36a91b6fa566a8a7d54222081a904c07130bbbde63249f76d50fe90468e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
