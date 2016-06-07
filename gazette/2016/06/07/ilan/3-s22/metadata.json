@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-06-07",
+  "issue": "29735",
+  "edition": "regular",
+  "item": 22,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ARTIRMA, EKSİLTME VE İHALE İLÂNLARI",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "T.Ş.F.A.Ş. Elbistan Şeker Fabrikası Müdürlüğünden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160607-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (34 = 34)",
+  "ilan_codes": [
+    "5489/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160607-3.htm",
+  "category_page_sha256": "0f686d04fe6c0493d462e930bbebce2bd2ba4a8e42f7d0c754e1ff2a93897ccc",
+  "issue_on_category_page": "29735",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160607.htm",
+  "index_sha256": "23239497e192e1c38f77aa98335795401936ab9f61a8f8b4cb12195c4ec629bb",
+  "index_header": "7 Haziran 2016 ... 29735 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
