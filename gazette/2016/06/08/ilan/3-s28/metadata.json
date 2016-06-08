@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-06-08",
+  "issue": "29736",
+  "edition": "regular",
+  "item": 28,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ARTIRMA, EKSİLTME VE İHALE İLÂNLARI",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Erzurum II. Organize Sanayi Bölgesi Müteşebbis Heyet Başkanlığından:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160608-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (28 = 28)",
+  "ilan_codes": [
+    "5450/2-2"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160608-3.htm",
+  "category_page_sha256": "4f8bdef091cbc75d664c245bbaf16c37344674c60695318aa3f58e886ca4e927",
+  "issue_on_category_page": "29736",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160608.htm",
+  "index_sha256": "5710dfeb1742001a53204ec85526c5d614b23df9b525d948c86419de1d8beb92",
+  "index_header": "8 Haziran 2016 ... 29736 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
