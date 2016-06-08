@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6718",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Anayasasında Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-06-08",
+  "gazette_issue": "29736",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/06/20160608-1.htm",
+  "source_sha256": "bed4cbab15ff1e34ea7c53253fd28b18e046f0ecee9bebc26c83b6309b612ddc",
+  "text_sha256": "77727d2b0e75e79de0760ecaf25cd0df87d6b845dc57e3368c275daec7e765d9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/06/08/29736-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/06/20160608-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
