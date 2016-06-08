@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.21563",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "“ÇED OLUMLU” VEYA “ÇED GEREKLİ DEĞİLDİR” KARARI BULUNAN PROJELERDE YAPILACAK KAPASİTE ARTIŞI VE/VEYA GENİŞLETİLMESİ PLANLANAN PROJELERE İLİŞKİN TEBLİĞ",
+  "number": "21563",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2016/21563",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21563&MevzuatTertip=5",
+  "source_sha256": "2ff04d6168d39fd1cafd72e32a8ffe64216747e57d8786cceef173a120da0f6a",
+  "source_bytes": 16248,
+  "published": "2016-06-08",
+  "gazette": "29736",
+  "in_force": "2016-06-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.06.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 500,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
