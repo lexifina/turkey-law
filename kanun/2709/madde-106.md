@@ -1,2 +1,0 @@
-F. Cumhurbaşkanına vekillik etme
-Madde 106 – Cumhurbaşkanının hastalık ve yurt dışına çıkma gibi sebeplerle geçici olarak görevinden ayrılması hallerinde, görevine dönmesine kadar, ölüm, çekilme veya başka bir sebeple Cumhurbaşkanlığı makamının boşalması halinde de yenisi seçilinceye kadar, Türkiye Büyük Millet Meclisi Başkanı Cumhurbaşkanlığına vekillik eder ve Cumhurbaşkanına ait yetkileri kullanır.
