@@ -1,10 +1,11 @@
 X. Basın ve yayımla ilgili hükümler
 A. Basın hürriyeti
 Madde 28 – Basın hürdür, sansür edilemez. Basımevi kurmak izin alma ve mali teminat yatırma şartına bağlanamaz.
-Kanunla yasaklanmış olan herhangi bir dilde yayım yapılamaz.
+(Mülga ikinci fıkra: 3/10/2001-4709/10 md.)
 Devlet, basın ve haber alma hürriyetlerini sağlayacak tedbirleri alır.
 Basın hürriyetinin sınırlanmasında, Anayasanın 26 ve 27 nci maddeleri hükümleri uygulanır.
 Devletin iç ve dış güvenliğini, ülkesi ve milletiyle bölünmez bütünlüğünü tehdit eden veya suç işlemeye ya da ayaklanma veya isyana teşvik eder nitelikte olan veya Devlete ait gizli bilgilere ilişkin bulunan her türlü haber veya yazıyı, yazanlar veya bastıranlar veya aynı amaçla, basanlar, başkasına verenler, bu suçlara ait kanun hükümleri uyarınca sorumlu olurlar. Tedbir yolu ile dağıtım hakim kararıyle; gecikmesinde sakınca bulunan hallerde de kanunun açıkça yetkili kıldığı merciin emriyle önlenebilir. Dağıtımı önleyen yetkili merci, bu kararını en geç yirmidört saat içinde yetkili hakime bildirir. Yetkili hakim bu kararı en geç kırksekiz saat içinde onaylamazsa, dağıtımı önleme kararı hükümsüz sayılır.
+136
 Yargılama görevinin amacına uygun olarak yerine getirilmesi için, kanunla belirtilecek sınırlar içinde, hakim tarafından verilen kararlar saklı kalmak üzere, olaylar hakkında yayım yasağı konamaz.
 Süreli veya süresiz yayınlar, kanunun gösterdiği suçların soruşturma veya kovuşturmasına geçilmiş olması hallerinde hakim kararıyla; Devletin ülkesi ve milletiyle bölünmez bütünlüğünün, milli güvenliğin, kamu düzeninin, genel ahlakın korunması ve suçların önlenmesi bakımından gecikmesinde sakınca bulunan hallerde de kanunun açıkça yetkili kıldığı merciin emriyle toplatılabilir. Toplatma kararı veren yetkili merci, bu kararını en geç yirmidört saat içinde yetkili hakime bildirir; hakim bu kararı en geç kırksekiz saat içinde onaylamazsa, toplatma kararı hükümsüz sayılır.
 Süreli veya süresiz yayınların suç soruşturma veya kovuşturması sebebiyle zapt ve müsaderesinde genel hükümler uygulanır.
