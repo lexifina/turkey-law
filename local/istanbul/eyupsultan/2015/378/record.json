@@ -1,0 +1,22 @@
+{
+  "number": "378",
+  "number_as_published": "2015/378",
+  "year": 2015,
+  "title": "Eyüp İlçesi, Alibeyköy Uygulama İmar Planı plan notu tadilatı",
+  "decision_date": "2016-06-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2016-haziran-ayi-meclis-kararlari/717",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2015-378/718",
+  "source_sha256": "12ec0145699bf0e0416e17fe4e77c165bc0cf3a1abb26c7788e9f5346d2d720c",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2016-06-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.06.2016 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "87b1d1b6f90657e50b46392fe42fa34fe700cb251ba933243494b77003b430e9"
+}
