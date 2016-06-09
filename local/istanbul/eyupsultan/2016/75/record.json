@@ -1,0 +1,22 @@
+{
+  "number": "75",
+  "number_as_published": "2016/75",
+  "year": 2016,
+  "title": "Eyüp Sultan Araştırmaları Merkezi (EYSAM) yönetmeliğinde değişiklikler yapılması",
+  "decision_date": "2016-06-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2016-haziran-ayi-meclis-kararlari/717",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2016-75/727",
+  "source_sha256": "12ec0145699bf0e0416e17fe4e77c165bc0cf3a1abb26c7788e9f5346d2d720c",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2016-06-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.06.2016 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "5af65c93b257964c5c1b1837b812e3ddcc33489f2a5523eb7324a927c956a835"
+}
