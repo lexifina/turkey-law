@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6321/1",
+  "decision_date": "2016-06-09",
+  "title": "Boru Hatları ile Petrol Taşıma A.Ş.?nin (BOTAŞ), PİL/480/111/11078 sayılı iletim lisansı kapsamında ?Dörtyol İşletme Müdürlüğü Pk.5 Dörtyol/HATAY? adresinde faaliyette bulunan iletim tesisine ilişkin",
+  "resmi_gazete_date": "2016-06-17",
+  "resmi_gazete_number": "29745",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=W431Vvqm+Bo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=W431Vvqm+Bo=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YldVuvsHNFM="
+  ],
+  "source_sha256": "86b1f3eb8949f97e370d6ed42c641aff4bf378e329196d8b37b711963d47c8ee",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-06-09",
+  "law_text_complete": false
+}
