@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2016-06-10",
+      "10.06.2016",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29738",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-06-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Gedik Üniversitesi",
+  "issuer_slug": "istanbul-gedik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-gedik-universitesi/2016/21564",
+  "published": "2016-06-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=21564&MevzuatTertip=5",
+  "source_bytes": 28690,
+  "source_id": "8.5.21564",
+  "source_sha256": "de4558d7669a9576f6bb9505bb87420626aae3e40801956757a9f108fcd1caf6",
+  "text_status": "as-enacted",
+  "title": "GEDİK ÜNİVERSİTESİ İNSAN HAKLARI UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 369,
+  "word_count": 1129
+}
