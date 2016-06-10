@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-140.04.01[2016/649]-124525",
+  "source_id": 35644,
+  "date": "2016-06-10",
+  "title": "Kamulaştırma yoluyla trampa işlemine ilişkin olarak gerçekleşecek tapu işlemlerinden harç alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35644",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "a8185efaa26b339670cd80ac6aeb5c74f4ea1b4273ccfc1cc1da3905b9445333",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
