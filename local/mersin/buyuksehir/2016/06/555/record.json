@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "555",
+  "decision_date": "2016-06-13",
+  "title": "MEC_KAR. ( Tarsus İlçesi Yeni Mahalle 82 ada 6",
+  "listed_as": "555 MEC_KAR. ( Tarsus İlçesi Yeni Mahalle 82 ada 6",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/555-mec-kar---tarsus-ilcesi-yeni-mahalle-82-ada-6-parsel-ve-3043-ada-1-2-3-4-5-6-7-8-9-14-nolu-parseller-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk19-13-haziran-2016-meclis-kararlari",
+  "listing_sha256": "b0eadbc91921615ebec1ee00e78ea3104b4b12fa0994a953196f003f36808284",
+  "meeting_title": "MK19-13 HAZIRAN 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
