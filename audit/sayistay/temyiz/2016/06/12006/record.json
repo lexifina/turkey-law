@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42069",
+  "decision_date": "2016-06-14",
+  "source_id": 12006,
+  "chamber": "8",
+  "file_number": "40647",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2009",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12006/",
+  "source_sha256": "10e48faf247e6d62c694521926479b6ee3a3c156bd8afb7380a0ff1ea96d95eb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
