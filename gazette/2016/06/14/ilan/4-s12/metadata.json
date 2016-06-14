@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-06-14",
+  "issue": "29742",
+  "edition": "regular",
+  "item": 12,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ÇEŞİTLİ İLÂNLAR",
+  "category": "cesitli",
+  "category_page": "4",
+  "title": "Keçiören Kaymakamlığı Keçiören Anadolu Lisesi Müdürlüğünden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160614-4.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (16 = 16)",
+  "ilan_codes": [
+    "5667/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160614-4.htm",
+  "category_page_sha256": "cf110e47a8ce20d2426d8e9473035e519b69a14a13bdc39cadabd0f120aca01a",
+  "issue_on_category_page": "29742",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160614.htm",
+  "index_sha256": "4de2565012df1cfc023bf9778f57f1df656e477989fd8b9ed5f6742bda1f33c4",
+  "index_header": "14 Haziran 2016 ... 29742 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
