@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42072",
+  "decision_date": "2016-06-14",
+  "source_id": 12009,
+  "chamber": "6",
+  "file_number": "40701",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2010",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12009/",
+  "source_sha256": "ff669fa238147d4cc8838f0ef22eaa668a8cc83702679b6961c302014333832f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
