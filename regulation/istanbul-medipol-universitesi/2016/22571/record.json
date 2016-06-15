@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2016-06-15",
+      "15.06.2016",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29743",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-06-15",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Medipol Üniversitesi",
+  "issuer_slug": "istanbul-medipol-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-medipol-universitesi/2016/22571",
+  "published": "2016-06-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=22571&MevzuatTertip=5",
+  "source_bytes": 25614,
+  "source_id": "8.5.22571",
+  "source_sha256": "35effbcc89ff1435b6624017a9ff016d221813c599381db143640f0c835cbb76",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL MEDİPOL ÜNİVERSİTESİ AĞIZ VE DİŞ SAĞLIĞI EĞİTİMİ\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 333,
+  "word_count": 1031
+}
