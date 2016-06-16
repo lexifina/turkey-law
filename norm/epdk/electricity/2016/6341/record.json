@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6341",
+  "decision_date": "2016-06-16",
+  "title": "Adıyaman Kahramanmaraş Elektrik Dağıtım Anonim Şirketi’nin,2015 yılı dağıtım gelirgereksiniminin revize edilmesine",
+  "resmi_gazete_date": "2016-06-28",
+  "resmi_gazete_number": "29756",
+  "categories": [
+    "Gelir Gereksinimi",
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ye3Z3imVbGA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ye3Z3imVbGA="
+  ],
+  "source_sha256": "e377403d06701612a9dc8f5b011ab10988e945782162036d7755fda29ed73526",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-06-16",
+  "law_text_complete": false
+}
