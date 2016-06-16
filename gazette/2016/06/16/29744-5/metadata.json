@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-06-16",
+  "issue": "29744",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Trakya Üniversitesi Devlet Konservatuvarı Lisans Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/06/20160616-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/06/20160616.htm",
+  "index_sha256": "e833a59352fde3ae72a52fe1cec2b1a2e7f574a48e164e9333b3c54fc81411e6",
+  "index_header": "16 Haziran 2016 ... 29744 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/06/20160616.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
