@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6340/1",
+  "decision_date": "2016-06-16",
+  "title": "OMV Petrol Ofisi A.Ş.’nin Konyaaltı – ANTALYA” adresinde faaliyette bulunan tesisine ilişkin iletim tarifesi",
+  "resmi_gazete_date": "2016-06-28",
+  "resmi_gazete_number": "29756",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=N0i27/7FZBA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=N0i27/7FZBA="
+  ],
+  "source_sha256": "2a88405bfa27da9bf6ad32851b2bbb9f89253ff9fee52bc205016a87981f36b8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-06-16",
+  "law_text_complete": false
+}
