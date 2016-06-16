@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-06-16",
+  "issue": "29744",
+  "edition": "regular",
+  "item": 22,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ARTIRMA, EKSİLTME VE İHALE İLÂNLARI",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Kastamonu Üniversitesi Rektörlüğünden Merkezi Araştırma Laboratuvarı Uygulama ve Araştırma Merkezinden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160616-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (26 = 26)",
+  "ilan_codes": [
+    "5843/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160616-3.htm",
+  "category_page_sha256": "6b7a32f4bee60f7abbd1176ad1b13f0ccf8a2f6ce713428a1446403664d6b3f8",
+  "issue_on_category_page": "29744",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160616.htm",
+  "index_sha256": "af2df2a2fb6b422ee7b4cf36c2690102c23e0f513c7045bd335b5016c38de122",
+  "index_header": "16 Haziran 2016 ... 29744 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
