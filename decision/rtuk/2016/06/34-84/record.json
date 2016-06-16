@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2016/34",
+  "meeting_date": "2016-06-16",
+  "meeting_date_as_published": "16.6.2016",
+  "decision_no": "84",
+  "source_id": 7444,
+  "title": "RTÜK kararı 2016/34-84",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/7444",
+  "source_sha256": "d489a03c8d1cead31bff906638f8e851ed8e6ce9525e76db9ef03bf66dc5792f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
