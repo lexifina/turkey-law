@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85550353-105[2016-5]-12",
+  "source_id": 26779,
+  "date": "2016-06-17",
+  "title": "Satın alınan taşınmazlar için yapıldığı yıllar dikkate alınarak mı yoksa hiç kullanılmamış gibi mi amortisman ayrılacağı ile müştemilat binalarının yıkılarak yerlerine bina yapılması halinde söz konusu harcamaların nasıl giderleştirileceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26779",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "70e68c811e38dad9fb494f59775403779bea786aa21acbbbeb4c85ca48f2f335",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
