@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "615",
+  "decision_date": "2016-06-17",
+  "title": "MEC_KAR. ( Tarsus İlçesi, Mithatpaşa Mahallesi",
+  "listed_as": "615 MEC_KAR. ( Tarsus İlçesi, Mithatpaşa Mahallesi",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/615-mec-kar---tarsus-ilcesi-mithatpasa-mahallesi-1307-ada-2-nolu-parsel-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk18-17-haziran-2016-meclis-kararlari",
+  "listing_sha256": "84d8c8ec08ee4469d1caedad0433dd25d2e5566c33b4e58c4550ba0277023193",
+  "meeting_title": "MK18-17 HAZIRAN 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
