@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "614",
+  "decision_date": "2016-06-17",
+  "title": "MEC_KAR. ( Tarsus İncirlikuyu Mahallesi, 123 a",
+  "listed_as": "614 MEC_KAR. ( Tarsus İncirlikuyu Mahallesi, 123 a",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/614-mec-kar---tarsus-incirlikuyu-mahallesi-123-ada-1-2-3-4-5-6-7-8-9-ve-10-parseller",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk18-17-haziran-2016-meclis-kararlari",
+  "listing_sha256": "84d8c8ec08ee4469d1caedad0433dd25d2e5566c33b4e58c4550ba0277023193",
+  "meeting_title": "MK18-17 HAZIRAN 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
