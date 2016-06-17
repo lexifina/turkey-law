@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-06-17",
+  "issue": "29745",
+  "edition": "regular",
+  "item": 25,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ARTIRMA, EKSİLTME VE İHALE İLÂNLARI",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Ankara Halk Ekmek ve Un Fabrikası A.Ş. Genel Müdürlüğünden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160617-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (38 = 38)",
+  "ilan_codes": [
+    "5852/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160617-3.htm",
+  "category_page_sha256": "2ae3ca200cf5e4da3a07cbcc25a8209882bf7b46b577a7bdc786cf5fe88413ef",
+  "issue_on_category_page": "29745",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160617.htm",
+  "index_sha256": "f03a37685d098b5a5fd469afcaf85dbfde73718cf69227f846906c445640ae4d",
+  "index_header": "17 Haziran 2016 ... 29745 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
