@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.06.17.02-140.10.01[2014/225]-137512",
+  "source_id": 34545,
+  "date": "2016-06-17",
+  "title": "6306 sayılı Kanun kapsamında yapılacak inşaatın noter harcı ve damga vergisi muafiyeti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34545",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "81e527957105d4a6c0b9c0814a417ad4d67de5962f492f7735f0c6caf40ca63c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
