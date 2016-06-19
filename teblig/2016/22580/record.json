@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.22580",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BAZI TARIM ÜRÜNLERİ İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "22580",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2016/22580",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22580&MevzuatTertip=5",
+  "source_sha256": "2802a6f105a514dc62d6177a37d5ad0f4aca154fc45e026ed3ee0d34e0690423",
+  "source_bytes": 56378,
+  "published": "2016-06-19",
+  "gazette": "29747",
+  "in_force": "2016-06-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.06.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1411,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.22580-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
