@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-06-20",
+  "issue": "29748",
+  "edition": "regular",
+  "item": 18,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ARTIRMA, EKSİLTME VE İHALE İLÂNLARI",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Uludağ Üniversitesi Rektörlüğü Bilimsel Araştırma Projeleri Biriminden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160620-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (20 = 20)",
+  "ilan_codes": [
+    "5890/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160620-3.htm",
+  "category_page_sha256": "7cd6918060cce2cfdd062d0ff5237f5184a7c34de30df21ce2dfddb17df2fca4",
+  "issue_on_category_page": "29748",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/06/20160620.htm",
+  "index_sha256": "323dd2c9ed3a1767315b926c2c5c4ccf6832f7f2fb5d44c210976ff433712e64",
+  "index_header": "20 Haziran 2016 ... 29748 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
