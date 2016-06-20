@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-175.02[Ek.09-2016/7.1.2-16347]-83475",
+  "source_id": 37381,
+  "date": "2016-06-20",
+  "title": "Emlak GYO A.Ş. ile Hasılat Paylaşımlı İnşaat İşinde İskan Harcı Tespiti Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37381",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b62b6cdf1995496ef1b6d728a37632050cebb9960dccb184a7b0a39238858b09",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
