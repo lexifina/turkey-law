@@ -1,0 +1,5 @@
+Usulüne Uygun Süre Uzatım Kararı Alınmayarak İşin Süresinde Bitirilmemesinden Kaynaklı Gecikme Cezasının Kesilmemesi;
+
+237 sayılı İlam’ın 8. maddesinin A) bendiyle verilen … TL’nin tazminine dair hükümde Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 39673 sayılı dosya, 21.06.2016 tarih ve 42114 tutanak sayılı Temyiz Kurulu İlamı ile; kamu zararı tutarının yeniden tespit edilmesini teminen 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesinin 7’nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle yeni hüküm tesisi için dairesine gönderildiğinden aynı mahiyette olan 39672 sayılı işbu dosyanın da sözü edilen (39673 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 21.06.2016 tarih ve 42116 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
