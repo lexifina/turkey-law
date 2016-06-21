@@ -1,0 +1,9 @@
+Açıklamanın yapılması
+MADDE 2 – (1) Anılan maddenin Maliye Bakanlığına verdiği yetkiye istinaden;
+a) 2016 yılında yapılacak açıklamaların, vergi dairesinin ilan koymaya mahsus yerlerinde asılmak suretiyle 15/7/2016 ile 15/8/2016 tarihleri (bu tarihler dahil olmak üzere) arasında Türkiye genelindeki vergi dairelerinde, 1/9/2016 tarihinden itibaren de Gelir İdaresi Başkanlığı’nın internet sitesinde yapılması,
+b) Açıklama kapsamına, her bir vergi dairesine 250.000 TL ve daha fazla borcu olan veya bu tutar ve üzerinde kesinleşen vergi ve cezası bulunan mükelleflerin alınması,
+c) Yapılacak açıklamada, 31/12/2015 tarihi itibarıyla vadesi geldiği halde 30/6/2016 tarihi itibarıyla ödenmemiş bulunan ve nev’i itibarıyla Vergi Usul Kanunu Genel Tebliği (Sıra No: 293) ile açıklama kapsamına alındığı belirtilen vergi ve cezalar ile 1/6/2015-31/5/2016 tarihleri arasında kesinleşen tarhiyatların dikkate alınması,
+ç) Açıklanacak bilgiler, açıklamanın yapılacağı yer ve diğer hususlarda Vergi Usul Kanunu Genel Tebliği (Sıra No: 293) ile belirlenen esaslara uyulması, ancak aynı Tebliğin “İnternet Ortamında Açıklama” başlıklı III/B bölümündeki hazırlanan listelerin gönderileceği adresler ile ilgili açıklamaları bakımından Vergi Dairesi Başkanlıkları ve Defterdarlıkların Vergi Usul Kanunu Genel Tebliği (Sıra No: 293)’nin;
+1) (I-A) Bölümüne göre hazırlanan listelerin birer örneğini (Gelir İdaresi Başkanlığı, Gelir Yönetimi Daire Başkanlığı (IV), Vergilendirme Müdürlüğü, Devlet Mahallesi Merasim Cad. No:9/1 Çankaya/ANKARA) adresine göndermeleri,
+2) (I-B) Bölümüne göre hazırlanan listelerin birer örneğini (Gelir İdaresi Başkanlığı, Tahsilât ve İhtilaflı İşler Daire Başkanlığı II, Tahsilât Takip ve Koordinasyon Müdürlüğü, Yeni Ziraat Mah. Etlik Cad. No:16 06110 Dışkapı/ANKARA) adresine göndermeleri,
+uygun görülmüştür.

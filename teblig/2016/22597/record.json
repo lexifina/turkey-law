@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.22597",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 471)",
+  "number": "22597",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2016/22597",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22597&MevzuatTertip=5",
+  "source_sha256": "e2d480147c78f651056c378fff74efe6398ccfea7f39b7320b1054ad6f36793f",
+  "source_bytes": 14109,
+  "published": "2016-06-21",
+  "gazette": "29749",
+  "in_force": "2016-06-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.06.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 656,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
