@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42104",
+  "decision_date": "2016-06-21",
+  "source_id": 12316,
+  "chamber": "2",
+  "file_number": "39976",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2012",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12316/",
+  "source_sha256": "7c3e6bc25130d8f106a53fb22820221bc4a38d996db68e070fbc59cb919520ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
