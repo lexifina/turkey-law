@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42111",
+  "decision_date": "2016-06-21",
+  "source_id": 12323,
+  "chamber": "2",
+  "file_number": "40080",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2012",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12323/",
+  "source_sha256": "1dbf8701b1177b54e1611d8878f1c16fd9b832fdd14447565bc1f488f2c509f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
