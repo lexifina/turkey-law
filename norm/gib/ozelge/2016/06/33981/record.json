@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "51421814-135[7-2016/79]-100003",
+  "source_id": 33981,
+  "date": "2016-06-21",
+  "title": "Sol ayak bileği Artrodez rahatsızlığı nedeniyle ÖTV İstisnası uygulanıp uygulanmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33981",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "d9253210f5a6e105cefcf472075c3e66498c3fa2b169c5b2f234ac470309654e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
