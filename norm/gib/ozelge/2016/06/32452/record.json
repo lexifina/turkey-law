@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV 28-85172",
+  "source_id": 32452,
+  "date": "2016-06-22",
+  "title": "3102.21 GTİP numarasında yer alan amonyum sülfat gübresinin KDV oranı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32452",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "88ba169da17d80380ad5f0b47d6e3f9fb4499a7403de5c3552c066f6b9ff26a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
