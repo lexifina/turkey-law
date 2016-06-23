@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-06-23",
+  "issue": "29751",
+  "edition": "regular",
+  "item": 25,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çevre ve Orman Bakanlığı Aday Memurlarının Yetiştirilmesine İlişkin Yönetmeliğin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/06/20160623-25.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/06/20160623.htm",
+  "index_sha256": "8ea120f3863f2a714728d549cb70652bedf9e97ef701e202a287948cf55e3c45",
+  "index_header": "23 Haziran 2016 ... 29751 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/06/20160623.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
