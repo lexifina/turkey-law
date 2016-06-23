@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "6354",
+  "decision_date": "2016-06-23",
+  "title": "EPDK Kurul Kararı 6354",
+  "categories": [
+    "Tüplü LPG Faaliyeti"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tSxedv0COuY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tSxedv0COuY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Jlld5IVGEHw="
+  ],
+  "source_sha256": "764ace97f5ca0b7d787f49747fdae7130aaa100b2b0efffba3bb3111d8bd9a5f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5088,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-06-23",
+  "law_text_complete": false
+}
