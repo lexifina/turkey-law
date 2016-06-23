@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6355",
+  "decision_date": "2016-06-23",
+  "title": "Diyarbakır Doğal Gaz Dağıtım Anonim Şirketi?nin (DİYARGAZ A.Ş.) 2012-2016 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2016-06-25",
+  "resmi_gazete_number": "29753",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aF4WdYPWTVU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aF4WdYPWTVU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZlTX4DkTgdE="
+  ],
+  "source_sha256": "bf5620ae82ac5f19c03ed82bc5c7fed88a4e1f8f5eefe4733fd220b0753662ac",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-06-23",
+  "law_text_complete": false
+}
