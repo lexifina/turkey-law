@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6356/2",
+  "decision_date": "2016-06-23",
+  "title": "Vangölü Elektrik Dağıtım A.Ş.’nin 2011, 2012, 2013 ve 2014 yılları yatırım gerçekleşmeleri",
+  "resmi_gazete_date": "2016-06-25",
+  "resmi_gazete_number": "29753",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bbRgBSZmesE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bbRgBSZmesE="
+  ],
+  "source_sha256": "5d8cb12191bf571051ef2dbeb6a1e191e08e2d030a9dd13ff55dae52caec8572",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-06-23",
+  "law_text_complete": false
+}
