@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.42.16.02-175[1.Md/2015-831]-41264",
+  "source_id": 37328,
+  "date": "2016-06-23",
+  "title": "Tarımsal Amaçlı Hububat ve Depolama İnşaatının Bina İnşaat Harcına Tabi Olup Olmadığı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37328",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "89273d460ac232a23b213d810b2ab742714d5c51405057ea0f8516cbfbfe4975",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
