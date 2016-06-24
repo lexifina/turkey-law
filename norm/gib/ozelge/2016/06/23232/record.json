@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[61-2016/129]-87767",
+  "source_id": 23232,
+  "date": "2016-06-24",
+  "title": "Basketbol federasyonu tarafından uluslararası yarışmalarda gösterilen başarılarda önemli katkıları bulunanlara yapılan prim ödemelerinin gelir vergisinden istisna olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23232",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "02efd6a77e269a976e186bd92b58a5c6ed6a76028111eebd3d5f2a04b855b270",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
