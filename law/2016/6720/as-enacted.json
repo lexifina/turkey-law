@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6720",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti ile Belçika Krallığı Arasında 2 Haziran 1987 Tarihinde Ankarada İmzalanan Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme Anlaşmasını Değiştiren Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-06-24",
+  "gazette_issue": "29752",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/06/20160624-12.htm",
+  "source_sha256": "ae5269da2294d5f956929315f2e989ea722ab861c53c18b37ff6c03159314e8e",
+  "text_sha256": "8e36b51e17f7a11bc4ca1c5928f074f7983c817a89bc9e42bb3bc02138bdcb99",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/06/24/29752-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/06/20160624-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
