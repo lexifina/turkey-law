@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2015-07-22",
+      "22.07.2015",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2016-06-27",
+      "RG-27/6/2016-29755",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-06-27",
+      "RG-27/6/2016-29755",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-06-27",
+      "27/6/2016",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-27/6/2016-29755",
+  "first_law": null,
+  "gazette": "29422",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-06-27",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Fırat Üniversitesi",
+  "issuer_slug": "firat-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/firat-universitesi/2015/20944",
+  "published": "2015-07-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20944&MevzuatTertip=5",
+  "source_bytes": 28664,
+  "source_id": "8.5.20944",
+  "source_sha256": "8a62093d01354b41b9f4d919f2c69d3f0e9160670579b46f0db7e0c3d5364e17",
+  "text_status": "current-consolidated",
+  "title": "FIRAT ÜNİVERSİTESİ YAZ OKULU YÖNETMELİĞİ",
+  "university_id": 193,
+  "word_count": 877
+}
