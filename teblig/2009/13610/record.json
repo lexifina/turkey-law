@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.13610",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ",
+  "number": "13610",
+  "issuer": "Mesleki Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2009/13610",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13610&MevzuatTertip=5",
+  "source_sha256": "1ea3fa2d3789ff45284347e33298d7b4ad8633f18406da820b55f16e6f76b9d0",
+  "source_bytes": 14954,
+  "published": "2009-12-11",
+  "gazette": "27429",
+  "in_force": "2016-06-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"27/6/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-06-27",
+      "27/6/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-11-11",
+      "11/11/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 118,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13610-EK.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
