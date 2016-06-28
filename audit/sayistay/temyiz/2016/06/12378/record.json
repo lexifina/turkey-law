@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42133",
+  "decision_date": "2016-06-28",
+  "source_id": 12378,
+  "chamber": "7",
+  "file_number": "40240",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2013",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12378/",
+  "source_sha256": "ab55c393bf4ce04739e6b453c56d173c63bd46ae96dcfe3af9d4b1e60fd31ce3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
