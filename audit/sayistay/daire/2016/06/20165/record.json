@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35405",
+  "decision_date": "2016-06-28",
+  "source_id": 20165,
+  "chamber": "2",
+  "ilam_number": "208",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2010,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20165/",
+  "source_sha256": "aae729ea51b2aa5c8c644dece5d81fa3f9471d905788cb7832377173b6c1a5e8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
