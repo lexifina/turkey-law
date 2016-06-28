@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "80",
+  "decision_date": "2016-06-28",
+  "source_id": 19852,
+  "chamber": "8",
+  "ilam_number": "231",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19852/",
+  "source_sha256": "2435e3be5c9d93f8f80014c3b343bbc66569e8bf0e979be7d633084fc2e5ae1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
