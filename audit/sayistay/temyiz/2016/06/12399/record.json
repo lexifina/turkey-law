@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42142",
+  "decision_date": "2016-06-28",
+  "source_id": 12399,
+  "chamber": "2",
+  "file_number": "38539",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2009",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12399/",
+  "source_sha256": "92d159fe1e65b6fa5c432dd7cf5de90c670924f6c7442d5063b819b44fe87a58",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
