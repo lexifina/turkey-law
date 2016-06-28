@@ -1,0 +1,48 @@
+{
+  "source_id": "9.5.8251",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLÎ EMLÂK GENEL TEBLİĞİ (SIRA NO: 294 )",
+  "number": "8251",
+  "path": "teblig/2005/8251",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8251&MevzuatTertip=5",
+  "source_sha256": "91e224556866cb92aa28b280c1f7d16632bc9e624efbfc118a7811e30ccae66d",
+  "source_bytes": 124901,
+  "published": "2005-05-26",
+  "gazette": "25826",
+  "in_force": "2016-06-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/6/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-06-28",
+      "RG-28/6/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-09-25",
+      "RG-25/9/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-06-13",
+      "RG-13/6/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-02-01",
+      "RG-1/2/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2876,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
