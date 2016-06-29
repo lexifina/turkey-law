@@ -1,0 +1,55 @@
+{
+  "source_id": "7.5.12316",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖLÇÜ ALETLERİ YÖNETMELİĞİ (2004/22/AT)",
+  "number": "12316",
+  "issuer": "Sanayi ve Ticaret Bakanı",
+  "issuer_slug": "sanayi-ve-ticaret-bakani",
+  "path": "regulation/sanayi-ve-ticaret-bakani/2008/12316",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12316&MevzuatTertip=5",
+  "source_sha256": "ad7c7ab2954b2e688f96e783bb5c0b809da7962f611f48b63acb815aed51d87c",
+  "source_bytes": 57628,
+  "published": "2008-08-07",
+  "gazette": "26960",
+  "in_force": "2016-06-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/6/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-06-29",
+      "RG-29/6/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-06-29",
+      "29/6/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-06-17",
+      "17/6/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-12-31",
+      "31/12/2010",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-05-06",
+      "6/5/2010",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 626,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

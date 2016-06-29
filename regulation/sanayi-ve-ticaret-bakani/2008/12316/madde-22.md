@@ -1,0 +1,2 @@
+Elektromanyetik korunma
+MADDE 22 – (Mülga:RG-29/6/2016-29757)(1)
