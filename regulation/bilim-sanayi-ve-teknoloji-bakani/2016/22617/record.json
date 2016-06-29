@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.22617",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ASANSÖR YÖNETMELİĞİ (2014/33/AB)",
+  "number": "22617",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2016/22617",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22617&MevzuatTertip=5",
+  "source_sha256": "fea7e377f8e6448d653f9b03ce4d2e6347063941a3ab94234edbb86de1ce18cb",
+  "source_bytes": 114222,
+  "published": "2016-06-29",
+  "gazette": "29757",
+  "in_force": "2016-06-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.06.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6776,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.22617-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
