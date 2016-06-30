@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6365",
+  "decision_date": "2016-06-30",
+  "title": "Tunceli Doğal Gaz Dağıtım Lisansı İhalesi",
+  "resmi_gazete_date": "2016-07-03",
+  "resmi_gazete_number": "29761",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q+ArhilUN/E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q+ArhilUN/E="
+  ],
+  "source_sha256": "5194c57606734e21d279a8756e3dd10ab166e50ae8fb34b989aa0e00b14e4168",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-06-30",
+  "law_text_complete": true
+}
