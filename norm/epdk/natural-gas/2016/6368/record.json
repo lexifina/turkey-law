@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6368",
+  "decision_date": "2016-06-30",
+  "title": "Trakya Bölgesi Doğal Gaz Dağıtım A.Ş.’nin 2012-2016 yılları arası perakende satış tarifeleri",
+  "resmi_gazete_date": "2016-07-02",
+  "resmi_gazete_number": "29760",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u92sHyk+jcE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u92sHyk+jcE="
+  ],
+  "source_sha256": "3e85928ccda5ccbdfd7b748dfd0d3bff81429e09196332ab2ece79f01f3f55dd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-06-30",
+  "law_text_complete": false
+}
