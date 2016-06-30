@@ -1,0 +1,6 @@
+Eser sözleşmesine dayalı kira sertifikalarına ilişkin özel hükümler
+MADDE 9 – (1) Eser sözleşmesine dayalı kira sertifikaları, VKŞ’nin iş sahibi sıfatıyla taraf olduğu bir eser sözleşmesi kapsamında eserin meydana getirilmesini sağlamak amacıyla ihraç edilen kira sertifikalarıdır.
+(2) Bu madde kapsamındaki ihraçlarda VKŞ kendi adına ve kira sertifikası sahipleri hesabına akdedilecek eser sözleşmesine iş sahibi sıfatıyla taraf olur. Eser sözleşmesine dayalı kira sertifikası ihracı kapsamında eser sözleşmesinin yanı sıra hizmet, kat veya arsa karşılığı inşaat ya da ortaklık gibi amaca uygun sair sözleşmeler düzenlenebilir.
+(3) VKŞ meydana getirilecek eseri önce kiralayarak veya kiralamaksızın doğrudan satış sözleşmesine konu edebilir. Kira sertifikasının vade bitimi tarihi itibarıyla satış bedelinin tamamının VKŞ tarafından tahsil edilmesi ve kira sertifikası sahiplerine ödeme yapılması zorunludur.
+(4) Eser sözleşmesine dayalı kira sertifikası ihraç tutarı, 11 inci madde çerçevesinde hazırlanan değerleme raporunda tespit edilen gerçeğe uygun değerin % 90’ını aşamaz.
+(5) Eser bedelinin VKŞ tarafından peşin ödendiği durumlarda, eserin tam ve zamanında tamamlanmasını teminen yüklenici tarafından VKŞ lehine menkul ve gayrimenkul rehni veya benzer nitelikte teminat verilmesi zorunludur.

@@ -1,0 +1,3 @@
+Yönetim sözleşmesine dayalı kira sertifikalarına ilişkin özel hükümler
+MADDE 6 – (1) Yönetim sözleşmesine dayalı kira sertifikaları, kaynak kuruluşa ait varlık veya hakların vade boyunca kiralanması da dahil olmak üzere VKŞ lehine yönetilmesi neticesinde elde edilen gelirlerin sözleşme hükümleri çerçevesinde VKŞ’ye aktarılması amacıyla ihraç edilen kira sertifikalarıdır.
+(2) Bu madde kapsamında yapılacak ihraçlarda kaynak kuruluş ile VKŞ arasında, kaynak kuruluşa ait varlık veya hakların mülkiyeti devredilmeksizin birinci fıkra çerçevesinde VKŞ lehine yönetilmesini konu alan sözleşme düzenlenir. VKŞ’nin elde edeceği gelir veya bu gelirin hesaplanmasına ilişkin esasların ilgili sözleşmede düzenlenmesi zorunludur.

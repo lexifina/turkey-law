@@ -1,0 +1,6 @@
+Kira sertifikalarının ihracı
+MADDE 10 – (1) Kira sertifikaları halka arz edilerek veya halka arz edilmeksizin satılmak üzere ihraç edilebilir. Halka arz edilmeksizin yapılacak satışlar, tahsisli satış ve nitelikli yatırımcıya satış olmak üzere iki şekilde yapılabilir.
+(2) Kira sertifikalarının, yurt içinde ihraç edilmek istenmesi durumunda EK/1’de; yurt dışında ihraç edilmek istenmesi durumunda EK/2’de belirtilen belgelerle birlikte Kurula başvuruda bulunulur.
+(3) İhraç edilecek kira sertifikaları Kurulca uygun görülecek ihraç tavanı içinde tertipler halinde satılabilir. İzahnamenin geçerlilik süresi boyunca yapılacak halka arzlarda VKŞ, her bir tertibin satışı için EK/3’de yer alan belgelerle birlikte onay almak amacıyla Kurula başvurur. Halka arz edilmeksizin yapılacak satışlarda ise VKŞ her satıştan önce tertip ihraç belgesinin onaylanması amacıyla Kurula başvurur.
+(4) Halka arz edilecek kira sertifikalarının borsada işlem görmesi ve bu amaçla borsaya başvurulması zorunludur.
+(5) Kurul, VKŞ’den kira sertifikalarına ilişkin ödeme yükümlülüklerinin yurt içinde yerleşik bir banka veya üçüncü bir tüzel kişi tarafından garanti altına alınmasını, yurt içinde satışın yalnızca nitelikli yatırımcılara yönelik olarak yapılmasını veya kira sertifikalarının, VKŞ’nin veya fon kullanıcılarının derecelendirilmesini talep edebilir.

@@ -1,0 +1,4 @@
+Alım-satıma dayalı kira sertifikalarına ilişkin özel hükümler
+MADDE 7 – (1) Alım-satıma dayalı kira sertifikaları, bir varlık veya hakkın VKŞ tarafından satın alınarak 12 nci maddenin birinci fıkrasında belirtilen nitelikteki şirketlere vadeli olarak satılması işleminde varlık veya hak alımının finansmanını sağlamak için ihraç edilen kira sertifikalarıdır.
+(2) Alım-satıma dayalı kira sertifikası ihraçlarında VKŞ en geç, ihraçtan elde edilen fonların hesabına aktarıldığı günü izleyen iş günü varlık veya hakları spot piyasadan alarak maliyetinin üzerinde bir bedelden vadeli olarak satmak zorundadır. Bu işlemin söz konusu sürede gerçekleştirilmemesi halinde kira sertifikası ihracı karşılığında toplanan fonlar, yatırımcılara en geç VKŞ hesabına aktarılmalarını izleyen ikinci iş günü iade edilir.
+(3) Bu madde kapsamında yapılacak ihraçlara konu varlık veya hakların Borsa İstanbul Anonim Şirketi veya diğer likit piyasalarda alınıp satılması zorunludur.
