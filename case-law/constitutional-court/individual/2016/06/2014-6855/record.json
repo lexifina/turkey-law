@@ -1,0 +1,20 @@
+{
+  "applicant": "A.M.S.T. A.Ş.",
+  "application_date": "2014-05-15",
+  "application_number": "2014/6855",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2016-06-30",
+  "id": "b7bf9a1c-eea4-7508-d8d7-eb28c199a6e8",
+  "in_force": "2016-06-30",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmI3YmY5YTFjLWVlYTQtNzUwOC1kOGQ3LWViMjhjMTk5YTZlOA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "bb621be101198869b61c509214643ca61e343850170b59cad6416b41176b1861",
+  "version_label": "as-enacted"
+}
