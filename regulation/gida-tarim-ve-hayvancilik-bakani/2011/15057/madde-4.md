@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-30/6/2016-29758) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+b) Bitki: Canlı bitkiler ile bunların derin dondurulmamış meyve ve sebzeleri, yumrular, soğansılar, soğanlar ve rizomlar, kesme çiçekler, yapraklı dallar, budama artığı yapraklar, yapraklar, bitki doku kültürleri, canlı polen, göz, kalem ve çelik gibi canlılığını koruyan belirli parçaları ile dikim amaçlı olan botanik tohumlarını,
+c) Bitkisel ürün: Bitkisel orijinli, işlem görmemiş veya basit bir işlemden geçmiş, bitki tanımına girmeyen ürünleri,
+ç) (Değişik:RG-30/6/2016-29758) Diğer kamu kurum ve kuruluşlar: Bu Yönetmelik esaslarına göre kendi fümigasyonunu bünyesinde çalıştırdığı fümigasyon operatörlerine yaptıracak Türkiye Büyük Millet Meclisi, Orman ve Su İşleri Bakanlığı, Toprak Mahsulleri Ofisi Genel Müdürlüğü, Tarım İşletmeleri Genel Müdürlüğü, büyükşehir belediyeleri, milli saraylar gibi kuruluşları,
+d) Doz: Fümigantın, birim ağırlığa, alana veya hacme uygulanan gram (g), mililitre (ml) veya santimetreküp (cm3) cinsinden miktarı,
+e) Fümigant: Fümigasyonda kullanılan, zararlı organizmalara gaz halinde etki eden katı, sıvı veya gaz formunda pestisitleri,
+f) Fümigasyon: Zararlı organizmaları imha etmek amacıyla, belirli sıcaklıktaki kapalı bir ortama, gaz halinde etki eden bir fumigantı belirli miktarda verme ve belirli bir süre ortamda tutma işlemini,
+g) Fümigasyon alanı: Fümigasyonun yapıldığı yerin yanında yaklaşılmasının hayati tehlike arz ettiği alanı,
+ğ) (Değişik:RG-30/6/2016-29758) Fümigasyon operatör yardımcısı belgesi: Bu Yönetmelikte belirtilen esaslar dahilinde eğitilerek başarılı olan ziraat teknikeri ve ziraat teknisyenleri ile orman teknikerlerine verilen belgeyi,
+h) (Değişik:RG-30/6/2016-29758) Fümigasyon operatörü: Fümigasyon işlerinde yeterliliği Bakanlıkça tespit edilerek belgelendirilen ziraat mühendisleri, orman mühendisleri ve orman endüstri mühendislerini,
+ı) (Değişik:RG-30/6/2016-29758) Fümigasyon operatörü belgesi: Bu Yönetmelikte belirtilen esaslar dahilinde eğitilerek başarılı olan ziraat mühendisleri, orman mühendisleri ve orman endüstri mühendislerine verilen belgeyi,
+i) Fümigasyon operatörü kimlik kartı: Fümigasyon işlerinden sorumlu fümigasyon operatörlerine verilen kartı,
+j) (Değişik:RG-30/6/2016-29758) Fümigasyon operatör yardımcısı: Fümigasyon işlerinde yeterliliği Bakanlıkça tespit edilerek belgelendirilen ziraat teknikerleri ve ziraat teknisyenleri ile orman teknikerlerini,
+k) Fümigasyon ruhsat belgesi: Bu Yönetmelikteki esaslara ve Bakanlıkça belirlenen teknik şartlara göre, fümigasyonu ticari amaçla yapacak gerçek ve tüzel kişi ve kuruluşlar ile diğer kamu kurum ve kuruluşlara verilen belgeyi,
+l) Fümigasyon tutanağı: Fümigasyonu talep edenlerin yetkili temsilcileri ile fümigasyon operatörleri tarafından düzenlenerek imza altına alınan belgeyi,
+m) (Değişik:RG-30/6/2016-29758) Genel Müdürlük: Gıda ve Kontrol Genel Müdürlüğünü,
+n) (Değişik:RG-30/6/2016-29758) Müdürlük: Gıda, Tarım ve Hayvancılık Bakanlığı il, ilçe müdürlükleri ile zirai karantina müdürlüklerini,
+o) Zararlı organizma: Bitki veya bitkisel ürünlere zarar veren bitki, hayvan veya patojenik ajanların tür, streyn veya biyotiplerini,
+ifade eder.
