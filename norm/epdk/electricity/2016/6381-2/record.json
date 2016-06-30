@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6381/2",
+  "decision_date": "2016-06-30",
+  "title": "2016 3. Çeyrek Tarife Tabloları",
+  "resmi_gazete_date": "2016-07-01",
+  "resmi_gazete_number": "29759",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zN6qipn22lE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zN6qipn22lE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BeErE8w2iZg=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1ygtcuG8iwE="
+  ],
+  "source_sha256": "f7af0166193ee12d11a2b9d6f348608438f233cbf025188e9c40c453d2ef14d9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-06-30",
+  "law_text_complete": true
+}
