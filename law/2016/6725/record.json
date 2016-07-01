@@ -1,0 +1,71 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6725",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti ile Moldova Cumhuriyeti Arasında Serbest Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2016-07-01",
+  "adopted_as_published": "01/07/2016",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.07.2016 No: 29784",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc100/kanuntbmmc100/kanuntbmmc10006725.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 100",
+  "committee_reports": [
+    {
+      "label": "TBMM 398 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c020/tbmm26020110ss0398.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 26,
+      "kayit_no": 826450,
+      "title": "Türkiye Cumhuriyeti ile Moldova Cumhuriyeti Arasında Serbest Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "01/07/2016",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc100/kanuntbmmc100/kanuntbmmc10006725.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 398 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c020/tbmm26020110ss0398.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 17,
+          "sitting": 86,
+          "sitting_date": "2016-05-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c017/tbmm26017086.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c017/tbmm26017fih.pdf",
+          "pages": [
+            "11"
+          ]
+        },
+        {
+          "cilt": 19,
+          "sitting": 104,
+          "sitting_date": "2016-06-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c019/tbmm26019104.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c019/tbmm26019fih.pdf",
+          "pages": [
+            "774"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "d39c49ba74b6b39b69660944a316683d63a09e5637298e36cddc5731dca7bbb5"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "d39c49ba74b6b39b69660944a316683d63a09e5637298e36cddc5731dca7bbb5",
+  "issuer": "TBMM",
+  "in_force": "2016-07-01",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 01/07/2016; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
