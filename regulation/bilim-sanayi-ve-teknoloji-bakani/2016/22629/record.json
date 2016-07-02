@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.22629",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "OTOMATİK OLMAYAN TARTI ALETLERİ YÖNETMELİĞİ (2014/31/AB)",
+  "number": "22629",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2016/22629",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22629&MevzuatTertip=5",
+  "source_sha256": "3d8bbe116eb9f26d51e174958879b47c79687cbc4c84893efdf6ddb8ffed7724",
+  "source_bytes": 100518,
+  "published": "2016-07-02",
+  "gazette": "29760",
+  "in_force": "2016-07-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.07.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5891,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.22629-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
