@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-07-09",
+  "issue": "29765",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Bahçeşehir Üniversitesi Sürekli Eğitim Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160709-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160709.htm",
+  "index_sha256": "44484c5304d5fbb50669d3a793160ac5a7b3fd62dee116eaf319671a39cf1da2",
+  "index_header": "9 Temmuz 2016 ... 29765 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160709.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
