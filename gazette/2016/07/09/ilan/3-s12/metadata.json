@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-07-09",
+  "issue": "29765",
+  "edition": "regular",
+  "item": 12,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ARTIRMA, EKSİLTME VE İHALE İLÂNLARI",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Aydın Defterdarlığı Kuşadası Malmüdürlüğünden:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/07/20160709-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (12 = 12)",
+  "ilan_codes": [
+    "6194/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/07/20160709-3.htm",
+  "category_page_sha256": "689837edac65ca5b724173f040e705e1b9bbfaa3844f0ea5ecd1e5e8e44bdcf5",
+  "issue_on_category_page": "29765",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/07/20160709.htm",
+  "index_sha256": "07dccaa95bb874097ea70621769bed1f7d54a945bf485afbe41be4344cadb34e",
+  "index_header": "9 Temmuz 2016 ... 29765 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
