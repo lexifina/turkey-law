@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "681",
+  "decision_date": "2016-07-12",
+  "official_id": "19871",
+  "version_label": "metadata-only",
+  "text_status": "withheld: register text appears to concern individual persons; official link only",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2016&ay=&gun=&txtSozcuk=&draw=1&start=600&length=100&txtKararNo=",
+  "source_listing_sha256": "a3fdc2363bcea825472448e2be0322b4b15dc265d6c7c7941c0d275721e97071",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": true
+}
