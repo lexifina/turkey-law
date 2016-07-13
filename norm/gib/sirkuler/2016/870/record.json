@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-41/2016-3/Yatırım İndirimi - 29",
+  "source_id": 870,
+  "date": "2016-07-13",
+  "title": "Geçici Vergi Dönemlerinde Yeniden Değerleme Oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/870",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "053b8fdf62451e2103c49dc27d7f7d960e0f89d79d9143b061543dc0d9201250",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
