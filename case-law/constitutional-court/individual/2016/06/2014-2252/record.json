@@ -1,0 +1,20 @@
+{
+  "applicant": "A.T. (3)",
+  "application_date": "2014-02-19",
+  "application_number": "2014/2252",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2016-06-08",
+  "id": "2ef76a3b-5137-a652-ce89-1c7192142164",
+  "in_force": "2016-07-13",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2016-07-13",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjJlZjc2YTNiLTUxMzctYTY1Mi1jZTg5LTFjNzE5MjE0MjE2NA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "8c732c9165cf7e7a7c917c93b5b8ec3f2ed86649209e6e12af0cf3b9e4b89705",
+  "version_label": "as-enacted"
+}
