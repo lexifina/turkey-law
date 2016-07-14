@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6722",
+  "year": 2016,
+  "title": "Türk Silâhlı Kuvvetleri Personel Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-07-14",
+  "gazette_issue": "29770",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160714-1.htm",
+  "source_sha256": "2f78f24fed36b96ddd5e2263565c9f160b9ad37f2f9e417809d49e1d04d6da6f",
+  "text_sha256": "c83b3bffbf2d152105ec0fb2d44410c24d4215a87d3cbb8dfff9b2bcd8c6c2fd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/07/14/29770-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160714-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
