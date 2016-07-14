@@ -1,0 +1,36 @@
+{
+  "source_id": "9.5.22665",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2016/32)",
+  "number": "22665",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2016/22665",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22665&MevzuatTertip=5",
+  "source_sha256": "f49a6e7a3a6e95b7d0e697a7595367d0a7b1f61b5c1239a0ac6c64cacd92f479",
+  "source_bytes": 28747,
+  "published": "2016-07-14",
+  "gazette": "29770",
+  "in_force": "2016-07-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.07.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 471,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2012/01/20120131-8.htm",
+    "http://www.resmigazete.gov.tr/eskiler/2012/03/20120321-15.htm",
+    "http://www.resmigazete.gov.tr/eskiler/2012/05/20120516-7.htm",
+    "http://www.resmigazete.gov.tr/eskiler/2012/05/20120522-12.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
