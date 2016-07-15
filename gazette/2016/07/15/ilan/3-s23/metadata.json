@@ -1,0 +1,29 @@
+{
+  "record_type": "gazette-notice",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-07-15",
+  "issue": "29771",
+  "edition": "regular",
+  "item": 23,
+  "section": "İLÂN BÖLÜMÜ",
+  "heading": "ARTIRMA, EKSİLTME VE İHALE İLÂNLARI",
+  "category": "ihale",
+  "category_page": "3",
+  "title": "Körfez Belediye Başkanlığından:",
+  "official_link": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/07/20160715-3.htm",
+  "link_format": "html-page",
+  "item_basis": "heading sequence on the page: the page prints its notices without item links; split at the issuing-body heading lines, recognised by text and by bold typesetting (24 = 24)",
+  "ilan_codes": [
+    "6369/1-1"
+  ],
+  "category_page_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/07/20160715-3.htm",
+  "category_page_sha256": "2df59677459a87f6ddfeb92523d80866394a7b27463d5040ee54e62ccbe69dac",
+  "issue_on_category_page": "29771",
+  "index_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2016/07/20160715.htm",
+  "index_sha256": "d09e4f077a504daec135fc8ee561c5dd9b4212c575464c3cdf63738a7f84b96e",
+  "index_header": "15 Temmuz 2016 ... 29771 Sayılı Resmî Gazete",
+  "in_force_basis": "Resmî Gazete publication date of the notice; not a commencement reading.",
+  "second_pass": "tr-rg-ilan2-runner (held by the first pass)",
+  "text_status": "metadata-only; the notice text is in the official link and is not transcribed"
+}
