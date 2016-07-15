@@ -1,0 +1,3 @@
+Madde 63 – (13/7/1956 tarih ve 6802 sayılı Kanunun hükmüdür.)
+62 nci maddede yazılı randıman incelemelerine esas teşkil edecek normal randıman nispetleri lüzum görülen sanayi kolları için sarfedilen ilk maddelerin nevileri, tesisler ve istihsal makinelerinin özellikleri, işletmelerin teknik organizasyonu gibi hususlar gözönünde tutularak, tip müesseselerde yapılacak incelemelere müsteniden Maliye, İktisat ve Ticaret ve İşletmeler Vekaletleri ile Türkiye Ticaret ve Sanayi Odaları ve Ticaret Borsaları Birliğince müştereken tesbit ve ilan olunabilir.
+Maliye, İktisat ve Ticaret ve İşletmeler Vekaletlerince görülecek lüzum veyahut ilgililerin müracaatı üzerine normal randıman nispetleri gözden geçirilerek yeni nispetler tesbit edilebilir.

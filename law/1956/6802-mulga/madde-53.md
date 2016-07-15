@@ -1,0 +1,2 @@
+Madde 53 – (13/7/1956 tarih ve 6802 sayılı Kanunun hükmüdür.)
+Gümrük tahakkuk memurları, aynı zamanda istihsal vergisini de tahakkuk ettirmek için yukarki maddeye göre beyan edilmiş olan matrah unsurlarını ve bunlara ilişkin belgeleri inceliyerek uygun görürlerse aynen kabul ederler. Eksik gördükleri unsurları, kendileri tarafından belirtilen miktarlara çıkarırlar ve vergi matrahına girmesi lazımgeldiği halde beyan edilmediği tesbit olunan kıymet ve masrafları ise re'sen matraha katarlar.

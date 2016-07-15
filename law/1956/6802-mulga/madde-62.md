@@ -1,0 +1,3 @@
+Madde 62 – (13/7/1956 tarih ve 6802 sayılı Kanunun hükmüdür.)
+İstihsal vergisi incelemelerinde istihsal miktarlarının doğruluğu, ilk madde ve gerekirse elektrik sarfiyatına göre bulunacak randıman nispeti ilede tahkik olunabilir.
+Mükellefin kayıtlarına göre tesbit edilen randıman nispetleri normal randıman nispetlerinden esaslı ayrılmalar gösterir ve fark mükellefçe, ilk maddenin kalitesi, işçilik, teknik özellikler ve arızalar gibi haklı ve maddi sebeplerle izah edilemezse, normal randımana göre bulunacak istihsal miktarı ile mükelleflerin gösterdikleri istihsal miktarı arasındaki noksanlık emsaldeğeri üzerinden vergilendirilir.

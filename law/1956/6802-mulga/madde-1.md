@@ -1,0 +1,2 @@
+Madde 1 – (13/7/1956 tarih ve 6802 sayılı Kanunun hükmüdür.)
+Bu Kanuna bağlı I, II ve III numaralı tablolarda yazılı maddelerden Türkiye'de istihsal ve imal olunanların müstahsil veya amilleri tarafından teslimiveya kendi imalatlarında sarf edilmesi;bunlardan yabancı memleketlerde istihsal ve imal edilenlerle IV üncü tabloda yazılı mamullerin Türkiye'ye ithali, butablolarda gösterilen nispet ve hadlerde istihsal vergisine tabidir.

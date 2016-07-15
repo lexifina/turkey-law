@@ -1,0 +1,1 @@
+Madde 29-birinci fıkra –t bendi- (28/6/2001 tarihli ve 4697 sayılı Kanunun hükmüdür.) Emeklilik yatırım fonlarının, menkul kıymet yatırım fonlarının ve menkul kıymet yatırım ortaklıklarının, sermaye piyasalarında yaptıkları işlemler nedeniyle elde ettikleri paralar, (1)

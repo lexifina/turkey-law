@@ -1,0 +1,4 @@
+Madde 55 – (13/7/1956 tarih ve 6802 sayılı Kanunun hükmüdür.)
+Tarhedilen istihsal vergisi tarh sırasında hazır bulunan mal sahibine veya kanuni temsilcisine veya gümrük komüsyoncusuna tebliğ edilir.
+Bu tebliğ üzerine ithalde alınan vergiye mükellefçe muaflık, vergi nispetiveya vergi unsurlarının çoğaltılması bakımlarından veya tahakkuka ilişkin başka işlemler dolayısiyle tebliğ tarihinden itibaren on beş gün içinde gümrük vergisine karşı yapılan itirazlar gibi, Gümrük Kanununda yazılı itiraz mercilerine müracaat edilebilir. Hakem ücreti itiraz süresi içinde yatırılmadığı takdirde itiraz yapılmamış sayılır. Düzeltme hükümleri saklı kalmak üzere, eşya gümrükten geçirilmiş bulunduğu veya ödevlinin beyanına göre tahakkuk yapıldığı takdirde istihsal vergisine itiraz olunamaz.
+İtiraz istekleri, bu Kanun hükümleri de gözönünde bulundurularak Gümrük Kanunundaki mercilerce aynı kanundaki esaslar dairesinde incelenerek karara bağlanır.
