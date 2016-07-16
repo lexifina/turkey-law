@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.20913",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MADEN ATIKLARI YÖNETMELİĞİ",
+  "number": "20913",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2015/20913",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20913&MevzuatTertip=5",
+  "source_sha256": "19659eaa36a5d23f5c1129dab9393da13e96d18e3ceda7c8d050a0cb3dc62743",
+  "source_bytes": 71740,
+  "published": "2015-07-15",
+  "gazette": "29417",
+  "in_force": "2016-07-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/7/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-07-16",
+      "RG-16/7/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-07-16",
+      "16/7/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden iki yıl sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3944,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.20913-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
