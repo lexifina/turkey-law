@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-07-16",
+  "issue": "29772",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çanakkale Onsekiz Mart Üniversitesi Türkçe ve Yabancı Dil Öğretimi Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160716-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160716.htm",
+  "index_sha256": "5d418947f2992a2a37e830a8ac718ed3e4883de619218993ec13f7a8ff54715b",
+  "index_header": "16 Temmuz 2016 ... 29772 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160716.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
