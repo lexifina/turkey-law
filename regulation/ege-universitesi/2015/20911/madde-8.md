@@ -1,0 +1,4 @@
+Müdür
+MADDE 8 – (1) Müdür, tercihen deney hayvanları konusunda en az iki yıl çalışmış olan Ege Üniversitesi öğretim üyeleri arasından Rektör tarafından üç yıl süreyle görevlendirilir. Süresi biten Müdür tekrar görevlendirileceği gibi, görev süresi dolmadan aynı usul ile görevden alınabilir.
+(2) (Değişik:RG-17/7/2016-29773) Müdür Yardımcıları Üniversitenin öğretim elemanları arasından Rektör tarafından görevlendirilir. Süresi biten Müdür Yardımcısı tekrar görevlendirileceği gibi, görev süresi dolmadan aynı usulle görevden alınabilir. Müdürün görevi sona erdiğinde Müdür Yardımcılarının da görevi sona erer.
+(3) (Değişik:RG-17/7/2016-29773) Müdür Yardımcıları, Müdürün üstlendiği tüm görev ve sorumlulukların yerine getirilmesinde Müdüre yardımcı olur, Müdürün bulunmadığı zamanlarda Müdüre vekâlet eder, Müdürün önerileri doğrultusunda Merkezin çalışma birimlerinin sorumluluklarını yürütür.
