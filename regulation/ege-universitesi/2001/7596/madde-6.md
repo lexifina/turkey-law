@@ -1,0 +1,5 @@
+Merkez Yönetim Kurulu
+Madde 6- Yönetim Kurulu, EGESEM Müdürünün başkanlığında Ege Üniversitesi öğretim elemanlarından Müdürün önerdiği 12 aday arasından Rektör tarafından seçilen 6 kişiden oluşur. Yönetim kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden seçilebilir. Müdürün görevi bittiğinde veya Müdürün ayrılması halinde Yönetim Kurulu görevi de kendiliğinden sona erer. Süreleri bitmeden herhangi bir nedenle ayrılan üyelerin yerine kalan süreyi doldurmak üzere aynı usulle yenileri seçilir.
+Yönetim Kurulu, EGESEM Müdürünün daveti üzerine her ay, gerekli durumlarda daha sık toplanırve merkezin faaliyetlerini gözden geçirerek ilgili konularda karar alır.Yönetim Kurulu salt çoğunlukla toplanır ve kararlarını katılan üyelerin salt çoğunluğu ile alır.
+Yönetim Kurulu EGESEM Müdürünün her faaliyet dönemi sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları belirler, sunulan raporu değerlendirir, bir sonraki döneme ait çalışma programını düzenler.
+Eğitim programları sonunda başarı belgesi, katılım belgesi, sertifika ve benzeri belgelerin verilmesi işlemlerini yürütür.
