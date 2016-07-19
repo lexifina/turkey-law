@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.22675",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "PERAKENDECİLER KONSEYİ YÖNETMELİĞİ",
+  "number": "22675",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "issuer_slug": "gumruk-ve-ticaret-bakani",
+  "path": "regulation/gumruk-ve-ticaret-bakani/2016/22675",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22675&MevzuatTertip=5",
+  "source_sha256": "2423b95d9b98916315bc514b24d5f6876a919ed0ebef314d8a627620dc3daf17",
+  "source_bytes": 30237,
+  "published": "2016-07-19",
+  "gazette": "29775",
+  "in_force": "2016-07-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.07.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1221,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
