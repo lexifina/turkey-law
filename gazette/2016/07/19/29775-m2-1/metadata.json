@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-07-19",
+  "issue": "29775",
+  "edition": "mükerrer 2",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "2016-2019 Ulusal e-Devlet Stratejisi ve Eylem Planı ile İlgili 13/07/2016 Tarihli ve 2016/15 Sayılı Yüksek Planlama Kurulu Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160719M2-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160719M2.htm",
+  "index_sha256": "2b5363c09aa95f87a0a448e25c010a08b72cd8238d8c8880ee461706e9de1e5e",
+  "index_header": "19 Temmuz 2016 ... 29775 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160719M2.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
