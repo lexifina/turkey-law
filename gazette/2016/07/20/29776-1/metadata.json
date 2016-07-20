@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-07-20",
+  "issue": "29776",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Trakya Üniversitesi Kütüphane Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160720-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160720.htm",
+  "index_sha256": "1e541e7899d204af88126a42a7db5e9b88608795cd80e5652d4c00c89db5c0ba",
+  "index_header": "20 Temmuz 2016 ... 29776 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160720.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
