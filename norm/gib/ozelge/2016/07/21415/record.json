@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-120[25/3-2015]-13018",
+  "source_id": 21415,
+  "date": "2016-07-20",
+  "title": "07.10.2001 tarihinden önce düzenlenen sigorta poliçelerine ait toplu ödemelerin vergilendirilmesinde dikkate alınacak istisna tutarının tespitinde hizmet süresi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21415",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "df2a9db706d6cc27f66caefb4c3b660fdfd90315de11b9bbafe235cd695400bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
