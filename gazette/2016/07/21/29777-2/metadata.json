@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-07-21",
+  "issue": "29777",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Marmara Üniversitesi Ekonomik ve Sosyal Alanda Kadın Çalışmaları (ESKAR) Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160721-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160721.htm",
+  "index_sha256": "8dce0b6721e10b066029dc81c15aabe1e4dd0536e818d16307c8a755b08c70f7",
+  "index_header": "21 Temmuz 2016 ... 29777 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160721.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
