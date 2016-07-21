@@ -1,0 +1,24 @@
+{
+  "number": "102",
+  "number_as_published": "2016/05/102",
+  "year": 2016,
+  "title": "Çardak Kaymakamlığı İlçe Emniyet Amirliği’nin 20.04.2016 tarih ve 62064613-12456(64034)-151 sayılı yazısında belirtilen Özdemir Yediemin otopark hakkında karar alınması talebi",
+  "decision_date": "2016-07-21",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=07.2016",
+  "official_document": null,
+  "source_sha256": "06edf69eaf86add0dc238aef1cb13cd924e502aa5f2a85ce510a7f72dcb4554e",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2016-07-21",
+  "in_force_basis": "Decision date as printed in the official council listing: 21.07.2016; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "05",
+  "listed_subjects": 1
+}
