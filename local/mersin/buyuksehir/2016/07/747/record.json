@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "747",
+  "decision_date": "2016-07-22",
+  "title": "MEC_KAR. ( Yenişehir Çiftlik ve Kocavilayet T",
+  "listed_as": "747 MEC_KAR. ( Yenişehir Çiftlik ve Kocavilayet T",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/747-mec-kar---yenisehir-ciftlik-ve-kocavilayet--trafo-alanlari-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk16-22-temmuz-2016-meclis-kararlari",
+  "listing_sha256": "a22cf1492984a0275683fbfb357454e9d23804bc714ae69c1b15b4af4837edde",
+  "meeting_title": "MK16-22 TEMMUZ 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
