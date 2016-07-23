@@ -1,0 +1,2 @@
+Taşınmaz malların teslim alınması:
+Madde 18 – Arazi, arsa, bina ve çeşitli tesisler gibi taşınmaz malların teslim alınması için, bu yerleri yönetecek veya gözetecek görevliler de teslim alma ekibi olarak görevlendirilebilirler. Bu yerlerin teslim alma tutanaklarında, varsa içerisindeki hertürlü cihaz, araç ve aletler de gösterilir ve 17 nci maddedeki esaslara göre işlem yapılır. Bunların işletilmesi için, gerekiyorsa kendi personeline de çalışma yükümlülüğü uygulanır.

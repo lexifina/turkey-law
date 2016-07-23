@@ -1,0 +1,2 @@
+Değer Kaybı:
+Madde 33 – Geri verilen taşıt araçları ve diğer malların teslim alındığı andaki durumu ile geri verildiği zamandaki durumu arasında kırılma, bozulma gibi nedenlerle önemli bir fark görüldüğü takdirde, bu husus tespit edilerek kullanma belgesine kayıt edilir. Teslim alındığı tarihteki durumlarına göre olağanüstü hal kurulu veya bürolarınca tespit ve takdir olunacak bedel ve tazminatları ödenir.

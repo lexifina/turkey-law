@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Yönetmelikle öngörülen defter ve belgeler, İçişleri Bakanlığının koordinatörlüğünde ilgili bakanlık ve kuruluşlarca, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren altı ay içinde düzenlenir ve Resmi Gazete'de ilan edilir.

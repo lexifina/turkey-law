@@ -1,0 +1,2 @@
+Teslim alma belgesi:
+Madde 17 – Teslim alma ekipleri tarafından, teslim alınan mallar için; malın cinsini, miktarını, başlıca özellik veya niteliklerini, sahibinin adını ve soyadını, adresini, istediği fiyat ve teslim alma tarihini gösterir sıra numaralı ikişer nüsha teslim alma belgesi düzenlenir. Bu belgeler, teslim alma ekibi ile birlikte malı teslim eden sahibi veya yetkilisi tarafından da imzalandıktan sonra, bir nüshası mal sahibine veya yetkilisine ve bir nüshası da olağanüstü hal kurulu veya bürosuna verilir.
