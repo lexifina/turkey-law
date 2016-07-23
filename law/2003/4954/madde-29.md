@@ -1,0 +1,3 @@
+Askerî yargı hâkim ve savcıları ile avukat ve noterlerin meslek öncesi eğitimleri
+Madde 29 - Askerî yargı hâkim ve savcıları ile avukat ve noterlerin stajları, tâbi oldukları özel kanun hükümlerine göre yapılır. Millî Savunma Bakanlığı, Türkiye Barolar Birliği, barolar veya Türkiye Noterler Birliğinin talebi hâlinde, Akademide bunlar için belli dönemlere ait olmak ve süresi üç ayı geçmemek üzere meslek öncesi eğitim programı düzenlenebilir. Bu süre staj süresine dahildir.
+Askerî yargı hâkim ve savcıları ile avukat ve noterlerin meslek öncesi eğitimlerine ilişkin esas ve usuller, Millî Savunma Bakanlığı, Türkiye Barolar Birliği ve Türkiye Noterler Birliğinin görüşleri alınarak Akademi tarafından çıkarılacak yönetmeliklerle düzenlenir.

@@ -1,0 +1,10 @@
+İKİNCİ BÖLÜM
+Öğretim Elemanları, Görevlendirilenler ve Diğer Çalışanlar
+Öğretim elemanları
+Madde 22 - a) Akademide yüksek öğretim kurumlarıyla işbirliği yapılarak, 4.11.1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 38 inci maddesi hükümlerine göre geçici olarak öğretim elemanı görevlendirilebilir. Bunlar hakkında bu Kanun ile Yükseköğretim Kanunu hükümleri uygulanır.
+Akademide, 2547 sayılı Kanunun 34 üncü ve 11.10.1983 tarihli ve 2914 sayılı Yükseköğretim Personel Kanununun 16 ncı maddeleri hükümlerine göre sözleşmeli olarak yabancı uyruklu öğretim elemanları çalıştırılabilir.
+______________
+(1) 15/2/2014 tarihli ve 6524 sayılı Kanunun 13 üncü maddesiyle bu fıkrada yer alan “üç” ibaresinden sonra gelmek üzere “asıl iki yedek” ibaresi eklenmiştir.
+(2) 15/2/2014 tarihli ve 6524 sayılı Kanunun 14 üncü maddesiyle bu fıkrada yer alan “Genel Sekreterin teklifi üzerine” ibaresi madde metninden çıkarılmıştır.
+8572-1
+b) Akademide, (a) bendinde belirtilenler dışında, Başkanın talebi üzerine yetkili kurul ve organlarınca uygun görülen yeteri kadar Yargıtay, Danıştay, Askerî Yargıtay ve Askerî Yüksek İdare Mahkemesi üyesi, (…)(1) adlî, idarî ve askerî yargı hâkim ve savcıları, avukatlar, noterler ile alanında uzman kişiler ders vermekle görevlendirilebilirler. (Ek cümleler:15/2/2014-6524/15 md.) Yargıtay, Danıştay, Askerî Yargıtay ve Askerî Yüksek İdare Mahkemesi üyesi ile askerî yargı hâkim ve savcıları ve noterler yönünden yetkili kurulların belirlenmesinde 23 üncü maddenin ikinci fıkrası esas alınır. Adli ve idari yargı hâkim ve savcılarının muvafakatleri alınarak görevlendirilmeleri Başkanın talebi üzerine Bakan tarafından yapılır. Adli, idari ve askerî yargı hâkim ve savcıları, avukatlar, noterler ve alanında uzman kişilerin görevlendirilmeleri için meslekte fiilen on yılını tamamlamış olmaları şartı aranır. Bunlara 38 inci madde hükümlerine göre ders ücreti ödenir. (Ek cümle: 2/12/2014-6572/37 md.) Bu bende göre görevlendirilenler, ders verdikleri günlerde izinli sayılırlar.

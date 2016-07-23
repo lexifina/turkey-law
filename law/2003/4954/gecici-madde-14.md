@@ -1,0 +1,3 @@
+Geçici Madde 14 - (Ek: 1/7/2016-6723/28 md.)
+Bu Kanunla değiştirilen 28 inci madde hükümleri bu Kanunun yürürlüğe girdiği tarih itibarıyla henüz mesleğe kabulü yapılmayan hâkim ve savcı adayları hakkında da uygulanır.
+Bu Kanunun yürürlüğe girdiği tarihten itibaren beş yıl süreyle Bakanlığın teklifi ve Hâkimler ve Savcılar Yüksek Kurulunun kararı ile bir yıllık staj süresini tamamlayan adli ve idari yargı hâkim ve savcı adayları, Hâkimler ve Savcılar Yüksek Kurulunca mesleğe kabul edilmeleri hâlinde, hâkimlik ve savcılık mesleğine atanabilirler. Bu fıkranın uygulanmasına ilişkin hususlar Akademinin görüşü alınarak Bakanlıkça yürürlüğe konulan yönetmelikle düzenlenir.

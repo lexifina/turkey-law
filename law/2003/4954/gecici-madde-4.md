@@ -1,0 +1,1 @@
+Geçici Madde 4 - Yönetim Kurulunun seçimle gelen ilk asıl üyelerinden ikinci yılın sonunda ad çekme yoluyla belirlenen ikisinin, dördüncü yılın sonunda ise geri kalan üçünün görevleri sona erer. Genel Kurulda boşalan üyelikler için seçim yapılır.

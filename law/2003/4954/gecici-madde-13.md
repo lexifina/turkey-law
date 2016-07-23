@@ -1,0 +1,2 @@
+Geçici Madde 13 - (Ek: 2/12/2014-6572/38 md.)
+Hâkim ve savcı adaylarına verilen meslek öncesi eğitim sonunda yapılan yazılı sınavlarda başarı gösteremediği için genel idare hizmetleri sınıfında bir kadroya atanan veya adaylığına son verilenler, bu Kanunun yürürlüğe girdiği tarihten itibaren bir ay içinde, yeni bir yazılı sınava alınmaları talebiyle Akademiye başvurabilirler. Başvuru süresinin sona erdiği tarihten itibaren bir ay içinde ilgililer, Akademi tarafından Kanunun 28 inci maddesi uyarınca yapılacak yazılı sınava alınırlar.

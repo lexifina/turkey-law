@@ -1,0 +1,2 @@
+Diğer çalışmalar ve izin
+Madde 32 - Akademinin açacağı kurs veya seminer, sertifika ve uzmanlık programlarına başvuracak adlî, idarî ve askerî yargı hâkim ve savcılarına, kamu kurum, kuruluş veya kurullarında çalışan avukat veya hukuk müşavirlerine ve noterlere bu programlara devam edebilmeleri için verilecek iznin şartları ve süresi, 26 ncı maddeye göre hazırlanacak eğitim ve öğretim plânları ve Akademinin bu programlara kabul şartları göz önüne alınarak ilgili kurum, kuruluş veya kurullar tarafından belirlenir.

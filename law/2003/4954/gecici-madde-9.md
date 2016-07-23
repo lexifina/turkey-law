@@ -1,0 +1,1 @@
+Geçici Madde 9 - Bu Kanunda öngörülen yönetmelikler, Kanunun yürürlüğe girdiği tarihten itibaren en geç bir yıl içinde çıkarılır. Yönetmelikler yürürlüğe girinceye kadar Genel Kurulun ilk toplantısında belirlenen uygulama ilkeleri çerçevesinde Yönetim Kurulu kararları uygulanır.

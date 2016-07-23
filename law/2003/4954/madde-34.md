@@ -1,0 +1,2 @@
+Malî, sosyal ve diğer özlük hakları
+Madde 34 - Akademinin uzmanlık eğitimine ve mesleki kurslarına bu Kanun hükümlerine ve ilgili yönetmeliklere göre katılan görevlilere aylık, ek gösterge, tazminat ve diğer malî ve sosyal hak ve yardımları kendi kurum, kuruluş ve kurullarınca ödenir ve bunların her türlü özlük hakları devam eder. Akademide geçirdikleri süreler terfi ve emekliliklerinde hesaba katılır, terfileri başkaca bir işleme gerek duyulmadan süresinde yapılır.

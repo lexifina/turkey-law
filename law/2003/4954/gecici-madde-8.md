@@ -1,0 +1,2 @@
+Geçici Madde 8 - Akademinin bina, yatılı tesis, araç ve sair ihtiyaçları, bu Kanunun yürürlüğe girdiği tarihten itibaren üç yıl içinde yapım, satın alma veya kiralama yoluyla sağlanır. Bu amaçla Bakanlık bütçesinden Akademi bütçesine yeteri kadar ödenek aktarılır. Ayrıca 6.8.1997 tarihli ve 4301 sayılı Ceza İnfaz Kurumları ile Tutukevleri İşyurtları Kurumunun Kuruluş ve İdaresine İlişkin Kanunla kurulan İşyurtları Kurumunun bütçesinden de harcama yapılabilir.
+8580

@@ -1,0 +1,2 @@
+Geçici Madde 1 - Bu Kanunun yürürlüğe girdiği tarihten itibaren Akademi organlarının oluşturulmasına kadar geçecek süre içindeki tüm destek hizmetleri Bakanlık tarafından yürütülür.
+9 uncu maddede öngörülen usulle Başkan ve başkan yardımcıları görevlendirilinceye veya atanıncaya kadar bu Kanunun yürürlüğe girdiği tarihten itibaren iki ay içinde, Bakan tarafından, birinci sınıf adlî veya idarî yargı hâkim ve savcıları arasından geçici olarak Başkan ve başkan yardımcıları atanır. Bunlar, Başkan ve başkan yardımcıları için bu Kanunda öngörülen bütün hak ve yetkilere sahiptir.
