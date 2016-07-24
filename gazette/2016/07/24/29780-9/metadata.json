@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-07-24",
+  "issue": "29780",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Milli Emlak Genel Tebliği (Sıra No: 371)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160724-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160724.htm",
+  "index_sha256": "7a957a54cecb41902b059fb63cc6f718794ccbe7acf6033653e2caa48829b3fe",
+  "index_header": "24 Temmuz 2016 ... 29780 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160724.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
