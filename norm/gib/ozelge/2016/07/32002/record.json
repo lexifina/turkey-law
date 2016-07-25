@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[Mük 257-2015/VUK1-19424]-99393",
+  "source_id": 32002,
+  "date": "2016-07-25",
+  "title": "Kur farkında KDV uygulaması Ba Bs formunda gösterilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/32002",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "8b2d6c49659c8e46f7564da67d08e42f697a660ab92be0d2f36435f5cb5f7747",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
