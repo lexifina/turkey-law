@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10583",
+  "decision_date": "2016-07-26",
+  "source_id": 19831,
+  "chamber": "1",
+  "ilam_number": "432",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19831/",
+  "source_sha256": "d4e0925ffdb7ba7daab1a2be124c4b061568833ea19fab5afb82ac20a08c0852",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
