@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.22690",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GIDA İŞLETMELERİNDE YEREL, MARJİNAL VE SINIRLI FAALİYETLERİN DÜZENLENMESİNE DAİR YÖNETMELİK",
+  "number": "22690",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2016/22690",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22690&MevzuatTertip=5",
+  "source_sha256": "99aa76e734b4b19454ad3f8e9396d0aba0e1d985fb16dbea83e2c565cd53a456",
+  "source_bytes": 22527,
+  "published": "2016-07-26",
+  "gazette": "29782",
+  "in_force": "2016-07-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.07.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 938,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.22690-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
