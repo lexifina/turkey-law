@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-07-26",
+  "issue": "29782",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Cinsel Dokunulmazlığa Karşı Suçlardan Hükümlü Olanlara Uygulanacak Tedavi ve Diğer Yükümlülükler Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160726-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160726.htm",
+  "index_sha256": "31812e61ae57ede053daf20eb120c9e58c67c4e037d5964c00482d3aabb43f47",
+  "index_header": "26 Temmuz 2016 ... 29782 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160726.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
