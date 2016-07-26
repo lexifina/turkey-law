@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.22689",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "CİNSEL DOKUNULMAZLIĞA KARŞI SUÇLARDAN HÜKÜMLÜ OLANLARA UYGULANACAK TEDAVİ VE DİĞER YÜKÜMLÜLÜKLER HAKKINDA YÖNETMELİK",
+  "number": "22689",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2016/22689",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22689&MevzuatTertip=5",
+  "source_sha256": "065ea1b823068ceebdeafa12ba1779bfe52ea1a9fc13063acf0e13b7d5f04037",
+  "source_bytes": 56923,
+  "published": "2016-07-26",
+  "gazette": "29782",
+  "in_force": "2016-07-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.07.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3206,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
