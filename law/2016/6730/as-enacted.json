@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6730",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Karadağ Hükûmeti Arasında Askerî Alanda Eğitim, Teknik ve Bilimsel İş Birliği Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-07-28",
+  "gazette_issue": "29784",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160728-12.htm",
+  "source_sha256": "7b2a13a57056cbf2b3536f607bf18346c6fb94119cb69f30cf0995538eb531b8",
+  "text_sha256": "915959be61db4c0c73f1134c08685c84e729fd695c5aa1b6732aee5a6390c2fe",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/07/28/29784-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160728-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
