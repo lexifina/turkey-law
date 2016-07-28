@@ -1,0 +1,3 @@
+6 – 28/7/2016 tarihli ve 6735 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 34,35.)
+Madde 34- (27/2/2003 tarihli ve 4817 sayılı Kanunun hükmüdür.)
+Yabancı müteahhit veya yabancı kuruluşlar, Türkiye’de Devlet daireleri ile resmi ve özel kuruluş ve şahıslara karşı re’sen veya yerli kuruluşlarla birlikte taahhüt ettikleri mühendislik veya mimarlıkla ilgili işlerde, yalnız bu işe münhasır kalmak kaydıyla, Bayındırlık ve İskân Bakanlığının ve Odalar Birliğinin görüşleri alınarak, Çalışma ve Sosyal Güvenlik Bakanlığınca verilen çalışma izni ile yabancı uzman çalıştırabilirler.

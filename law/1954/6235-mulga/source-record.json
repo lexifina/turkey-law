@@ -1,0 +1,70 @@
+{
+  "source_id": "5.3.6235",
+  "path": "law/1954/6235-mulga",
+  "number": "6235",
+  "tertip": "3",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "document": "repealed-provisions",
+  "companion_of": "law/1954/6235",
+  "enacted": "1954-01-27",
+  "enacted_as_printed": "27.01.1954",
+  "published": "1954-02-04",
+  "gazette": "8625",
+  "in_force": "2016-07-28",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"6 – 28/7/2016 tarihli ve 6735 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 34,35.)\"",
+  "date_evidence": [
+    [
+      "2016-07-28",
+      "6 – 28/7/2016 tarihli ve 6735 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 34,35.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2003-02-27",
+      "5 – 27/2/2003 tarih ve 4817 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 34,35.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1997-06-18",
+      "4 – 18/6/1997 tarih ve 4276 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 2,19, Ek Madde 4.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1983-09-06",
+      "3 – 6/9/1983 tarih ve 85 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 4, Ek Md. 2)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1983-04-19",
+      "2 – 19/4/1983 tarih ve 66 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 1, 2, 4, 5, 8, 11, 19, 28 ve 41)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1959-05-27",
+      "1– 27/5/1959 tarih ve 7303 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 1, 2, 3, 4, 5, 7, 12, 14, 21, 23 ve 32)",
+      "a repeal note (enactment date of the repealing act)"
+    ]
+  ],
+  "repeal_notes": [
+    "1– 27/5/1959 tarih ve 7303 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 1, 2, 3, 4, 5, 7, 12, 14, 21, 23 ve 32)",
+    "2 – 19/4/1983 tarih ve 66 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 1, 2, 4, 5, 8, 11, 19, 28 ve 41)",
+    "3 – 6/9/1983 tarih ve 85 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 4, Ek Md. 2)",
+    "4 – 18/6/1997 tarih ve 4276 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 2,19, Ek Madde 4.)",
+    "5 – 27/2/2003 tarih ve 4817 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 34,35.)",
+    "6 – 28/7/2016 tarihli ve 6735 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 34,35.)",
+    "7 – Anayasa Mahkemesi’nin 22/6/2016 tarihli ve E.: 2015/106, K.: 2016/128 sayılı Kararı ile yürürlükten kaldırılmış olan hükümlerin metinleri. (Madde numaraları: Ek Madde 1.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=6235&MevzuatTertip=3",
+  "source_sha256": "926aca2d2525d4cfa00330a6e1d83db646134c327723d6d4383190598876a4fa",
+  "source_bytes": 51062,
+  "words": 2026,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}

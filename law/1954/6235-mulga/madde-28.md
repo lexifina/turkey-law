@@ -1,0 +1,2 @@
+Madde 28 – (27/1/1954 tarih ve 6235 sayılı Kanunun hükmüdür.)
+Serbest olsun, memur veya asker bulunsun muvakkaten sanat icrasından menedilen azalar hiçbir suretle serbest sahada mesleki faaliyette bulunamazlar. Bunlar hakkında verilen kararlar alakalılarca bilinmek üzere Bayındırlık Vekaletince münasip görülecek yollarla ilan olunur ve tatbikı ciheti sağlanır. Sanat icrasından men'i müddetince memur ve askeri azaların memuriyeti ile alakalı vazifelerine halel gelmez. Bunların mesleki bakımından kusur ve suçları bu kanun hükümlerine tabidir.
