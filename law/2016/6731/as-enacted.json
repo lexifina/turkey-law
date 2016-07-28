@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6731",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Karadağ Hükümeti Arasında Bilimsel ve Teknolojik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-07-28",
+  "gazette_issue": "29784",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160728-13.htm",
+  "source_sha256": "30a5714187a6731da6074bb08da33045daadec3418f056eb8f93bd9ebcda64f1",
+  "text_sha256": "5aabf4edc4314385b767a6ec6ee25690cad847e3b2e3162313ed4fa450c741df",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/07/28/29784-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160728-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
