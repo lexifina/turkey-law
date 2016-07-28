@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6734",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Karadağ Hükümeti Arasında Eğitim Alanında İşbirliği Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-07-28",
+  "gazette_issue": "29784",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160728-15.htm",
+  "source_sha256": "6499d5edb667c2e1d13b90a8593fc4b7ae6eb48a0bfa559ef3fde9b668f1d265",
+  "text_sha256": "8a9d6a0c03ec4e41efc672a6057e6b55072a6d7fb7dc6bf9f5feec7d8283fdfa",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/07/28/29784-15",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160728-15.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
