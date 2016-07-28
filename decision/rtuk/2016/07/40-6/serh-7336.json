@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2016/40",
+  "meeting_date": "2016-07-28",
+  "meeting_date_as_published": "28.7.2016",
+  "decision_no": "6",
+  "source_id": 7336,
+  "title": "RTÜK kararı 2016/40-6 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/7336",
+  "source_sha256": "b9c979b62c9f88be48fe9a9a34f9e79499455e2e26ee87f0d63941a300e85359",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (4 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
