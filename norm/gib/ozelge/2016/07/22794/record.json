@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[42-15/24]-180397",
+  "source_id": 22794,
+  "date": "2016-07-28",
+  "title": "Konsorsiyum olarak üstlenilen işin mühendislik kısmının yıllara sari iş olarak değerlendirilip değerlendirilemeyeceği ile hizmet alınacak alt taşeronlardan tevkifat yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22794",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "b27a9d416fc144e6998dfc164c9b541c3818fe0c43251a7f66b09eda8196d4fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
