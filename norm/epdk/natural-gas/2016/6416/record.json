@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6416",
+  "decision_date": "2016-07-28",
+  "title": "İstanbul Gaz Dağıtım Sanayi ve Ticaret A.Ş.’nin ile Aksa Trakya Doğal Gaz Dağıtım A.Ş.’nin iki dağıtım bölgesinin tek bir lisans altında birleştirilmesi",
+  "resmi_gazete_date": "2016-08-02",
+  "resmi_gazete_number": "29789",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ib3QxeBCdTQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ib3QxeBCdTQ="
+  ],
+  "source_sha256": "8cb71b736fc210a0ec43258dd318f57cc4ff94db216065395ba6c81b229fad3b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-07-28",
+  "law_text_complete": false
+}
