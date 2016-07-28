@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6727",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında KKTC'de Bulunan Vakıf Kültür Varlıklarının Restorasyon İşlerinin Yürütülmesine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-07-28",
+  "gazette_issue": "29784",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160728-10.htm",
+  "source_sha256": "561f33a1370fe3e64f7be19787bec63c35109a44635bf4291b4461e9de1df4ef",
+  "text_sha256": "2617ba94107ec5f56f55b5c37908d55f769263602e731d42270699c34fdab7ed",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/07/28/29784-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160728-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
