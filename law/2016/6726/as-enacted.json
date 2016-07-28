@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6726",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ürdün Haşimi Krallığı Hükümeti Arasında Kalkınma İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-07-28",
+  "gazette_issue": "29784",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160728-9.htm",
+  "source_sha256": "863387586c7ef3f01dfa05ca8690cf84b9cac100c90eeee644f5215153f8354a",
+  "text_sha256": "46a25d6b5776d6bf50231788854d80d5f31dd0e4d45ee4855dd96f3744d8a082",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/07/28/29784-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160728-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
