@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6725",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti ile Moldova Cumhuriyeti Arasında Serbest Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-07-28",
+  "gazette_issue": "29784",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160728-8.htm",
+  "source_sha256": "725b6cd47669deddd461fdfc7b67bfb4d2a26e8df6be01fcc65b2fe372ce44ce",
+  "text_sha256": "70ae091144e73144dfbfd74845f26fe60359ec70109cedc116a263b3ea98bec3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/07/28/29784-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160728-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
