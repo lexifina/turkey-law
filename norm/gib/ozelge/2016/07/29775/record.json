@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[229-2015-355]-181228",
+  "source_id": 29775,
+  "date": "2016-07-29",
+  "title": "Tasfiye halindeki kooperatife ait arsanın satılması ve bedelin ortaklara dağıtılmasının KV, KDV ve VUK karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29775",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "2719ead235844e7116d4c5479f4c90947a89e64e7745782185c151d756d97e8d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
