@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[Özelge]-103765",
+  "source_id": 37971,
+  "date": "2016-07-29",
+  "title": "Hizmet ihracına ilişkin bedelin yurda TL cinsinden gelmesi durumunda KDV iadesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/37971",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b77b49d0aa03e4d69c8d38a6a715d9e1db7b3cd8aed36435b5e27e71e4e4f487",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
