@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.22696",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TAHSİLAT GENEL TEBLİĞİ (SERİ: B SIRA NO: 10)",
+  "number": "22696",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2016/22696",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22696&MevzuatTertip=5",
+  "source_sha256": "384941e600e9dc3cbcaa14f4b4e64c6040c8739e53c22ba9e0e81c4268213817",
+  "source_bytes": 38461,
+  "published": "2016-07-30",
+  "gazette": "29786",
+  "in_force": "2016-07-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.07.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1696,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.22696-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
