@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-07-30",
+  "issue": "29786",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Tahsilat Genel Tebliği (Seri: B Sıra No: 10)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160730-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160730.htm",
+  "index_sha256": "582ff07fec91f5f7ddded1fd32b726c430584ac9f91323947b48b0cf497a3cfe",
+  "index_header": "30 Temmuz 2016 ... 29786 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/07/20160730.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
