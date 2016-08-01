@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.22702",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ASANSÖR PERİYODİK KONTROLLERİNİ GERÇEKLEŞTİRECEK MUAYENE PERSONELİNİN BELGELENDİRİLMESİNE DAİR TEBLİĞ (SGM: 2016/18)",
+  "number": "22702",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2016/22702",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22702&MevzuatTertip=5",
+  "source_sha256": "578434cc0df8c6a8b1daad50d1b313388270278f8409056bbf52b00687ffd001",
+  "source_bytes": 13588,
+  "published": "2016-08-01",
+  "gazette": "29788",
+  "in_force": "2016-08-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.08.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 340,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.22702-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
