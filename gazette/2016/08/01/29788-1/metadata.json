@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-08-01",
+  "issue": "29788",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Asansör Periyodik Kontrollerini Gerçekleştirecek Muayene Personelinin Belgelendirilmesine Dair Tebliğ (SGM: 2016/18)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160801-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160801.htm",
+  "index_sha256": "c5360ebb44543eb652f4efde1c791961d53690fbba6d1242edef928172189d13",
+  "index_header": "1 Ağustos 2016 ... 29788 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160801.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
