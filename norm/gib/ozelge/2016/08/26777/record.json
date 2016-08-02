@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "43626428-010.01[VUK]-10",
+  "source_id": 26777,
+  "date": "2016-08-02",
+  "title": "Kanunlar (Serbest Meslek Erbabının kira ile oturduğu iş yerine yaptırdığı kapı ve pencere masraflarının amortisman ayırmak süretiyle hasılattan indirilip indirilemeyeceği)",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26777",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "5ce4b07c7195780d8ae78b5435cdd201c8a76129c4fc37698a5ac38af75da7e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
