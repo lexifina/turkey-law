@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6732",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Karadağ Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-08-02",
+  "gazette_issue": "29789",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160802-1.htm",
+  "source_sha256": "9255ab12e5abef17737ae53c93af4405c9ce654cf4bdfd5892aab5f62a199417",
+  "text_sha256": "16449bb364e83b41c7a54cef4117bde51971c3d646585271145c4f180fa849ce",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/08/02/29789-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160802-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
