@@ -1,0 +1,3 @@
+Yaz öğretimi ile ilgili esaslar
+MADDE 6 – (Değişik:RG-13/6/2011-27963)
+(1) Yaz öğretiminde derslere kayıt, derslerin başlangıcı ve bitişi, sınavlara ilişkin esaslar Senato tarafından belirlenir. Yaz öğretimi isteğe bağlı olup, eğitim süresi yedi haftadır. Bu süre yaz öğretimi final sınavlarını da kapsar. Yaz öğretimi Yükseköğretim Kurulu onayı ile tüm eğitim-öğretim aşamalarında açılabilir. Yaz öğretiminde açılan her ders için güz ve bahar yarıyıllarında yapılan toplam ders saati kadar İngilizce Hazırlık Sınıfında öğrencilerin dil düzeylerine göre haftada 20 ile 28 saat arasında ders yapılır. Yaz öğretiminde geçen süre eğitim-öğretim süresinden sayılmaz.

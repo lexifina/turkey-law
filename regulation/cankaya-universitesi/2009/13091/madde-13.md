@@ -1,0 +1,6 @@
+Mezun olma hakkı ve ilişik kesme
+MADDE 13 – (1) Ön lisans, lisans ve lisansüstü programların son döneminde olan ve Çankaya Üniversitesi Ön Lisans, Lisans Eğitim-Öğretim ve Sınav Yönetmeliği ile Lisansüstü Eğitim ve Öğretim Yönetmeliği hükümlerine göre durumları elverişli olan öğrenciler, ek süre elde ettikleri ders veya dersleri yaz öğretiminde alarak mezuniyet için gereken koşulları sağlayabilirler. Yaz öğretiminde alınan derslerden dolayı ayrıca ek süre hakkı kullanılmaz.
+(2) Durumları, yukarıda belirtilen yönetmeliklerin hükümlerine uygun olan öğrenciler, yaz öğretimine katılarak, almaları gereken dersleri, başarı ile tamamlamaları halinde yaz öğretimi sonunda mezun olabilirler.
+(3) Yaz öğretimi sonunda; akademik yetersizlik uyarısı yapılmaz, önceki dönemlerde yapılmış olan akademik yetersizlik uyarısı kaldırılmaz, ilişik kesme işlemi yapılmaz.
+(4) Normal dönemler sonrasında ilişiği kesilmiş olan öğrenciler yaz öğretiminden yararlanamazlar. İlişik kesme işleminden önce kayıt yapılmış ise kayıt işlemi iptal edilir.
+(5) Yaz öğretimi sonunda öğrencilerin genel not ortalamaları hesaplanır ve yaz öğretimindeki derslerden alınan notlar transkriptlerde yaz öğretimi adı altında açılacak bir bölümde gösterilir.
