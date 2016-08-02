@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10587",
+  "decision_date": "2016-08-02",
+  "source_id": 19718,
+  "chamber": "1",
+  "ilam_number": "1",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19718/",
+  "source_sha256": "06f36372d95d31b43816de9660981574634ab426f698996b1ccd5a4467bad8dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
