@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10588",
+  "decision_date": "2016-08-03",
+  "source_id": 19737,
+  "chamber": "1",
+  "ilam_number": "299",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/19737/",
+  "source_sha256": "8e83c3fcb2dc8691956bf2c3ae5454e1de18f924f1a2d7f95e30c0499fb091d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
