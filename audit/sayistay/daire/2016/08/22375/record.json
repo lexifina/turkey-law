@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10591",
+  "decision_date": "2016-08-03",
+  "source_id": 22375,
+  "chamber": "1",
+  "ilam_number": "5",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22375/",
+  "source_sha256": "44c078f504b34d6f980c414a0b242a0040065639c5e7bfb178d3d8542539776a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
