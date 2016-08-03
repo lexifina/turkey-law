@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10591",
+  "decision_date": "2016-08-03",
+  "source_id": 20684,
+  "chamber": "1",
+  "ilam_number": "5",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20684/",
+  "source_sha256": "ea88d5a6f070ebc5b35e710197063859b7e7cf501c7f046693229c681c119ae5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
