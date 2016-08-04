@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2016-08-04",
+      "04.08.2016",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29791",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-08-04",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/2016/22711",
+  "published": "2016-08-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=22711&MevzuatTertip=5",
+  "source_bytes": 37563,
+  "source_id": "8.5.22711",
+  "source_sha256": "e7933f57b6eab2291a77b890bfaf4b685a6f96b812ecd01293a11ea496d4e5c6",
+  "text_status": "as-enacted",
+  "title": "AKDENİZ ÜNİVERSİTESİ İŞ SAĞLIĞI VE GÜVENLİĞİ VE MESLEK\r\nHASTALIKLARI UYGULAMA VE ARAŞTIRMA\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 1830
+}
