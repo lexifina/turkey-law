@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-160.02.01[2014/94]-187447",
+  "source_id": 20829,
+  "date": "2016-08-04",
+  "title": "Şirketin tasarladığı wonderfulcart sistemine üye kazandıranlara yapılan ödemelerin vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/20829",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "a47907fab0267f939fad28380f9c9f8a06d23533dd0d25f0081f7cde4c520e23",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
