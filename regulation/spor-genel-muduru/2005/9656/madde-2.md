@@ -1,0 +1,3 @@
+Kapsam
+Madde 2 — Bu Yönetmelik, (Değişik ibare:RG-7/8/2016-29794) Spor Genel Müdürlüğü taşra teşkilatının kullanımında bulunan her türlü gençlik ve spor tesisi, büfe, atölye, misafirhane ve sporcu kamp eğitim merkezi, sağlık merkezi, otopark, çay ocağı, kafeterya ve benzeri yerlerin bakımı, kullanımı, tahsis ve işletilmesi ile reklam ve yayınlarla ilgili usul ve esasları kapsar.
+Genel Müdürlük mülkiyetinde bulunan gayrimenkullerin bir yıldan fazla süreli kira, işletme hakkı devri, mülkiyetin gayri ayni hak tesisi veya tahsis yöntemlerinden biriyle üçüncü şahıslara devri ile mülkiyeti hazine, kamu kurum ve kuruluşlarına ait olanların bir aydan fazla süreyle yerel yönetimlere, kamu kurum ve kuruluşlarına tahsisi bu Yönetmelik kapsamı dışındadır.

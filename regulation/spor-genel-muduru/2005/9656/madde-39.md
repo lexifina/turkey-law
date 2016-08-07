@@ -1,0 +1,9 @@
+Reklam kabul yetkisi ve şartları
+Madde 39 — Reklam kabulü aşağıdaki şartlar dahilinde yapılır:
+a) Spor saha ve tesislerinde yapılacak faaliyetlerde iç ve dış cepheye seyyar, sabit pano, sözlü, müzikli, hareketli ve yazılı reklam kabul edilir.
+b) Spor saha ve tesislerine alınacak reklamlara ilişkin ücret ve esaslar her yıl (Değişik ibare:RG-7/8/2016-29794) il müdürlüğünce oluşturulan komisyon tarafından tespit edilir. Ücretler tespit edilirken, ilin ve gençlik ve spor kulüplerinin durumu dikkate alınır.
+c) (Değişik ibare:RG-7/8/2016-29794) Bağımsız federasyonlarca müsabakaların statüleri gereği reklam haklarının talep edilmesi halinde, o sezon/yıl için tespit edilen ücretlerden aşağı olmamak kaydıyla reklam hakları verilebilir.
+d) Aktif sporculuk hayatını tamamlayacak olan sporcuların jübile müsabakalarının reklam haklarının talep edilmesi halinde, o sezon/yıl için tespit edilen ücretlerden aşağı olmamak kaydıyla reklam hakları verilebilir.
+e) Türkiye Spor Yazarları Derneği tarafından düzenlenen TSYD Kupası müsabakalarının reklam haklarının talep edilmesi halinde, bir önceki sezon/yıl için tespit edilen ücretlerden aşağı olmamak kaydıyla reklam hakları verilebilir.
+f) Reklam panolarının sergilenme şekli, seyyar ve sabit panolar ile sözlü, müzikli ilanlardaki ölçü, şekil ve şartları ile ihtiyaç duyulabilecek diğer hususlar Genel Müdürlükçe hazırlanan talimatla belirlenir.
+g) İl müdürlüklerinin ihtiyacı olan mal ve hizmetler, reklam hakkı verilmesi karşılığında temin edilebilir. Bu şekilde yaptırılacak işlerde, il müdürlüğünce ihtiyaç duyulan mal ve hizmetlerin parasal değerini gösterir keşif özeti, reklam hakkının tahmini değeri belirlenerek reklam komisyon kararı alınır. Reklam hakkı talep eden kişi veya kuruluşun yazılı talebi üzerine konuyla ilgili sözleşme düzenlenir.

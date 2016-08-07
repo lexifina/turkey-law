@@ -1,0 +1,5 @@
+Tahsis başvurusu
+Madde 10 — (Değişik birinci fıkra:RG-13/10/2009-27375) Mülkiyeti ve/veya kullanımı Genel Müdürlüğe ait gençlik spor saha ve tesislerinin tahsisini isteyen gerçek ve tüzel kişiler ilgili gençlik ve spor il ve ilçe müdürlüklerine başvururlar.
+Mülkiyeti Hazineye veya diğer kamu kurum ve kuruluşlarına ait olup (Değişik ibare:RG-7/8/2016-29794) Spor Genel Müdürlüğüne tahsisli tesislerin üçüncü şahıslara tahsisinde yerel yönetim veya kamu kurum ve kuruluşu olması şartı aranır. Bu tür tahsislerde; sözleşmelerinde aksine bir hüküm bulunmadıkça bir ay ve daha kısa süreli tahsisler hariç, hazineye ait olanlar için Maliye Bakanlığından, diğer kamu kurum ve kuruluşlarına ait olanlar için maliki idareden uygun görüş alınması esastır.
+Tahsis bedelinin il müdürlüğü hesabına yatırıldığına dair banka dekontunun ve teminatın ibrazından sonra ilgili ile sözleşme yapılır.
+Aynı spor saha ve tesisi için aynı günde birden fazla talep olması halinde, 9 uncu maddedeki sıralamaya göre öncelik tanınır.
