@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-140.08[2014/309]-192635",
+  "source_id": 36023,
+  "date": "2016-08-08",
+  "title": "Elektrik üretim lisans harcının hesabında, elektrik üretim faaliyetinden elde edilen ancak gelir niteliği bulunmadığı ifade edilen bedellerin gayrisafi iş hasılatından indirilip indirilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36023",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "c5cc0597fc6de2024259b0979e2227cedb16d7a3c217eb3a185688d26e72945f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
