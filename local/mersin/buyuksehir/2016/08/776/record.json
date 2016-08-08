@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "776",
+  "decision_date": "2016-08-08",
+  "title": "GÜNDEM DIŞI MEC_ KAR. (YENİŞEHİR 98 SAYILI KA",
+  "listed_as": "776 GÜNDEM DIŞI MEC_ KAR. (YENİŞEHİR 98 SAYILI KA",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/776-gundem-disi--mec--kar--yenisehir-98-sayili-karar",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk15-08-agustos-2016-meclis-kararlari",
+  "listing_sha256": "d7e7ffb86deb37ec549da6cfb968ad4df4a4eddb9a5c45f4fbd892f9eb7c05ec",
+  "meeting_title": "MK15-08 AĞUSTOS 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
