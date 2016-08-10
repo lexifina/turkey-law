@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2016/DK-ETD/362",
+  "date": "2016-08-10",
+  "title": "Türk Telekom Port Yedekliliği Hizmeti",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2016-08-10",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=92",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/3bc177a3-d540-4029-b6dd-9d78b387a81c.pdf",
+  "source_sha256": "ec08d96ecd3091feba58482dbe3dd0000fd36e6518bd8af47ed958547334aecb",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2016-08-10",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 10.08.2016; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
