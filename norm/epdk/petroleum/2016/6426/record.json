@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6426",
+  "decision_date": "2016-08-11",
+  "title": "Kuruma verilmiş yetkilerin, 4628 sayılı Enerji Piyasası Düzenleme Kurumunun Teşkilat ve Görevleri Hakkında Kanunun 5 inci maddesi kapsamında, Petrol Piyasası Dairesi Başkanlığı’na devredilmesine ilişkin",
+  "categories": [
+    "Lisans İşlemleri Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eyfy7WDjMF0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eyfy7WDjMF0="
+  ],
+  "source_sha256": "f4721ce4510c1aee4ef71e4aa3d76fc16a142e662e17cd8e190c39a614477585",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4913,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-08-11",
+  "law_text_complete": true
+}
