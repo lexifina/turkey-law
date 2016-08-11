@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "6427-4",
+  "decision_date": "2016-08-11",
+  "title": "Lisans işlemlerinde yetkiye ilişkin (27.12.2018 tarih ve 8298 s. Kurul Kararı ile yürürlükten kaldırılmıştır)",
+  "categories": [
+    "LPG Piyasası Mülga Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TpuwqZ0Bezk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TpuwqZ0Bezk="
+  ],
+  "source_sha256": "c0be55f890f4da8e775ac745049d989d270ec6afa286db627b809125b3b2ac2b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5102,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2016-08-11",
+  "law_text_complete": false
+}
