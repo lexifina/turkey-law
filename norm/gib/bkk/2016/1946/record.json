@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2016/9091",
+  "source_id": 1946,
+  "date": "2016-08-11",
+  "title": "AR-GE VEYA TASARIM MERKEZLERİ İLE TEKNOLOJİ GELİŞTİRME BÖLGELERİNDE ÇALIŞAN AR-GE VEYA TASARIM PERSONELİNİN MERKEZ YA DA BÖLGE DIŞINDAKİ FAALİYETLERİNE İLİŞKİN ÜCRETLERİN GELİR VERGİSİ STOPAJI TEŞVİKİ KAPSAMINDA DEĞERLENDİRİLMESİ HAKKINDA KARAR",
+  "source": "https://gib.gov.tr/mevzuat/kanun/485/bkk/1946",
+  "related_law": "5746 sayılı ARAŞTIRMA, GELİŞTİRME VE TASARIM FAALİYETLERİNİN DESTEKLENMESİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "0051a2acc049dff0a8e9350b70695fcf614a3accdb3418272899dd5536e561ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
