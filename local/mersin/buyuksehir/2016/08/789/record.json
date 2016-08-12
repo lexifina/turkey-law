@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "789",
+  "decision_date": "2016-08-12",
+  "title": "MEC_KAR_ ( Bozyazı İlçesi, Elmakuzu Mahallesi,",
+  "listed_as": "789 MEC_KAR_ ( Bozyazı İlçesi, Elmakuzu Mahallesi,",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/789-mec-kar---bozyazi-ilcesi-elmakuzu-mahallesi-109-ada-170-no-lu-parsel--",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk14-12-agustos-2016-meclis-kararlari",
+  "listing_sha256": "34408477499c031f430e6728aa87be66734dc3b6118a653b1863b1b87f2065c1",
+  "meeting_title": "MK14-12 AĞUSTOS 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
