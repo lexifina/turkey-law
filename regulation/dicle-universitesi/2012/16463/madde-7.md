@@ -1,0 +1,2 @@
+Geçersiz kayıtlar
+MADDE 7 – (1) Kesin kayıt için sahte veya tahrif edilmiş belge kullanan veya Üniversiteye giriş sınavında sahtecilik yaptığı belirlenen kişinin kaydı, kayıt tarihi itibarıyla iptal edilir ve hakkında kanuni işlem başlatılır. Söz konusu öğrenciler Fakülteden ayrılmışlarsa, kendilerine verilen tüm belgeler (diploma dahil) iptal edilir ve haklarında yasal işlem yapılır. Bu kişilerin yatırmış olduğu öğrenci katkı payı ve/veya öğrenim ücretleri geri ödenmez.

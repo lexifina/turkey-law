@@ -1,0 +1,4 @@
+İzin
+MADDE 39 – (1) Aşağıda belirtilen durumlarda öğrenciye izin verilebilir:
+a) Öğrenciye eğitim-öğretimine veya mesleki gelişimine katkıda bulunacak Üniversite dışı burs, staj, araştırma gibi imkânların doğması hâlinde, öğrenci bir dilekçe ve Dekanlığa müracaat eder ve Fakülte Yönetim Kurulunun kararı ile en çok iki yarıyıl izin verilir. İzinli olduğu süre normal öğrenim süresinden sayılmaz.
+b) 21/5/1986 tarihli ve 3289 sayılı Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanunun 29 uncu maddesi gereğince yurt içi ve yurt dışındaki müsabakalara ve bunların hazırlık çalışmalarına katılmaları talep edilen öğrenciler ile Üniversite adına sosyal, kültürel, sportif ve benzeri faaliyetlere Fakülte Yönetim Kurulunun ve Rektörlüğün onayı ile katılacak olan öğrenciler, görevlendirilme süresi içerisinde giremedikleri ders veya sınavlar için izinli ve mazeretli sayılırlar.

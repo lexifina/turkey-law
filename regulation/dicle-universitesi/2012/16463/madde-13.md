@@ -1,0 +1,5 @@
+Eğitim-öğretim süresi
+MADDE 13 – (1) Fakülte’nin normal eğitim-öğretim süresi beş yıl (on yarıyıl)’dır.
+(2) Bir yıl süreli zorunlu yabancı dil hazırlık sınıfı hariç, öğrencinin kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın Fakülte öğrencileri için azami süre sekiz yıldır.
+(3) Ancak azami öğrenim süreleri sonunda mezun olamayan öğrenciler, 2547 sayılı Yükseköğretim Kanununun 46 ncı maddesinde belirtilen koşullara göre hesaplanan ilgili döneme ait öğrenci katkı payı veya öğrenim ücretlerini ödemek koşulu ile öğrenimlerine devam etmek için kayıt yaptırabilirler. Bu durumda, ders ve sınavlara katılma ile tez hazırlama hariç, öğrencilere tanınan diğer haklardan yararlandırılmaksızın öğrencilik statüleri devam eder.
+(4) Kayıt dondurulan süre, bu maddede belirtilen azami öğrenim süresi dışındadır. Üniversiteden uzaklaştırma cezası alan öğrencilerin uzaklaştırılma süreleri ise azami öğrenim süresinden sayılır.

@@ -1,0 +1,7 @@
+Dersler ve ders kredilerinin hesaplanması
+MADDE 22 – (1) Öğrenciler kendi öğrenim dalı ile ilgili öğretim planının öngördüğü zorunlu ve seçmeli derslerin yanı sıra, Fakülte Kurulu kararı ile Üniversiteye bağlı herhangi bir öğretim planında yer alan dersleri de seçmeli ders olarak alabilirler.
+(2) Fakülte Kurulu kararı ile bazı dersler, ön koşullu veya bağlantılı şartlı olarak kabul edilebilir. Ön koşullu derslerin alınabilmesi için ön şart olan dersin başarılması gerekir. Bağlantılı şartlı derslerin alınabilmesi için ise önceki bağlantılı dersin alınması ve sınavına girme hakkının elde edilmesi gerekir.
+(3) Öğrenciler belirlenmiş seçmeli ders grupları içerisinden daha önce seçtikleri bir dersi değiştirerek yerine; aynı seçmeli ders grubu içerisinde önerilen eş veya daha fazla kredi yüküne sahip başka bir seçmeli dersi alabilirler.
+(4) Öğretim planlarında seçmeli ders oranları ve Üniversitedeki diğer programlardan alınabilecek seçmeli derslerin toplam seçmeli dersler içerisindeki oranları Fakülte Kurulu tarafından belirlenir; Senato tarafından onaylanarak uygulanır.
+(5) Bir dersin AKTS kredisi, öğrencilerin o derse ilişkin olarak belirlenmiş olan öğrenme kazanımları için gerekli çalışma yükünü ifade eder. Alınan derslerin AKTS kredi değerleri Fakülte Kurulu tarafından belirlenir.
+(6) Fakülte Kurulunun teklifi ve Senatonun onayı ile bazı zorunlu ve seçmeli dersler her iki yarıyılda da açılabilir. Bulunduğu yarıyıldan farklı bir yarıyılda açılan dersler de açıldığı dönemin ders yüküne dahildir.

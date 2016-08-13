@@ -1,0 +1,2 @@
+Yabancı dil hazırlık sınıfı
+MADDE 16 – (1) Fakülte Kurulunun önerisi, Senatonun kararı ve Yükseköğretim Kurulunun onayı ile yabancı dil hazırlık sınıfı açılabilir. Bu madde kapsamındaki yabancı dil eğitimi 4/12/2008 tarihli ve 27074 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümlerine göre yapılır.

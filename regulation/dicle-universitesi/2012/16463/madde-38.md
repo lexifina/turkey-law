@@ -1,0 +1,3 @@
+Ulusal ve uluslararası öğrenci değişimi
+MADDE 38 – (1) Üniversite ile yurt içi veya yurt dışındaki diğer üniversiteler arasında yapılan anlaşmalar uyarınca üniversitelerarası öğrenci değişim programları uygulanabilir. Bu programlar çerçevesinde öğrenciler en fazla iki yarıyıl süreyle bu üniversitelere gönderilebilir. Değişim programları, ikili anlaşmalar ve Yükseköğretim Kurulunca belirlenen esaslar doğrultusunda Fakülte Yönetim Kurulu kararı ile yürütülür.
+(2) Öğrencilerin değişim programları kapsamında devam edecekleri ders, uygulama, staj ve benzeri faaliyetlerinin, öğrencinin Fakültedeki öğretim programındaki ders, uygulama, staj ve benzeri faaliyetlere eşdeğerliği, Fakülte Yönetim Kurulu kararı ile önceden belirlenir.
