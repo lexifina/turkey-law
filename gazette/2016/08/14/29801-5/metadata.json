@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-08-14",
+  "issue": "29801",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Yıldız Teknik Üniversitesi Membran Malzemeleri ve Teknolojileri Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160814-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160814.htm",
+  "index_sha256": "e2de8185d0bd12d7eeabcda1bf48d56d778775032ee1f7e61f8eb1009940282f",
+  "index_header": "14 Ağustos 2016 ... 29801 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160814.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
