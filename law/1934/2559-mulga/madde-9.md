@@ -1,0 +1,22 @@
+Madde 9 – (4/7/1934 tarihli ve 2559 sayılı Kanunun hükmüdür.)
+Polis:
+A) Askere, zabitlere ve zabıta memurlarına mahsus silahları, harb tüfeklerini ve namlusu 15 santimetreden uzun olan tabancaları;
+B) İzinsiz taşınan her model çap ve büyüklükte silah ve tabancalarla dinamit, bomba ve bunlara benzer yakıcı, öldürücü maddeleri ve zehirli gazlarla bunlara ait alet ve malzemeyi ve barut ve sair ateş alıcı eczayı ve yasak olan silahlara ait fişekleri;
+C) Üstünde bulundurduğu saldırma, kama bıçak ve sustalı çakıları, Amerikan yumruklarını, usturpa, matrakları, şişli bastonları ve buna benzer yaralayıcı aletleri;
+D) Ammenin emniyeti için tehlikeli bir vasıta olarak kullanılması muhtemel her türlü eşyayı;
+E) Serseri ve sabıkalılarda bulunan ve suç işlemeğe yarayan her türlü vasıtaları (Zabıta şüphe üzerine bu kabil eşhasın üzerini arayabilir);
+F) Ahlak ve umumi terbiyeye uygun olmıyan şarkı veya sözleri yahut amme emniyetini bozucu hitabeleri muhtevi bulunan gramofon plaklarını ve izinsiz gösterilen veya elde edilen filimleri ve bu kabil sair basma yazı ve resimleri; alır. Bunlardan suç mevzuu olanları evrakiyle Adliyeye ve diğerlerini ait olduğu makamlara verir.
+(Ek fıkra: 26/6/1973 - 1775/2 md.; İptal: Anayasa Mahkemesinin 25/4/1974 tarihli ve E. 1973/41, K. 1974/13 sayılı Kararı ile)
+(Ek fıkra: 19/2/1980 - 2261/1 md.) : Polis, kamu düzenini ve anayasal hak ve özgürlükleri korumak bakımından zorunlu ve gecikmesinde sakınca bulunan hallerde, il sınırları içinde valinin, ilçe sınırları içinde kaymakamın, somut olay ve gereksinimler için her seferinde yeniden vereceği emirle:
+A) 171 sayılı Toplantı ve Gösteri Yürüyüşü Hürriyeti Hakkında Kanun kapsamına giren toplantı ve gösteri yürüyüşlerinin düzenini ve güvenliğini bozacak faaliyet ve davranışları önlemek üzere, toplantı veya yürüyüşlerin yapıldığı yerde veya yakın çevresinde;
+B) Özel hukuk tüzel kişileri ile kamu kurumu niteliğindeki meslek kuruluşlarının ya da sendikaların genel kurul toplantılarının güvenliğini sağlamak üzere, toplantının yapıldığı yerde veya yakın çevresinde;
+C) Can ve mal güvenliğinin ve seyahat özgürlüğünün sağlanması için, tren, otobüs, vapur, uçak, metro ve benzeri yerüstü ve yeraltı toplu taşıma araçları ile hava limanı, iskele, liman, gar, istasyon, otogar, otobüs terminalleri gibi halkın topluca bulunduğu veya spor gösteri veya yarışmaları gibi büyük halk topluluklarının birikebileceği yerlerde;
+228-1
+D) Öğretim ve eğitim özgürlüğünün sağlanması için her derecede öğretim ve eğitim kurumlarının ve kanunun 20/2 maddesindeki koşula uygun olarak girilecek üniversite, bağımsız fakülte veya bağlı kurumlarının içinde, bunların yakın çevrelerinde ve giriş çıkış yerlerinde;
+E) Cana, ırza, mala veya tasarruf emniyetine tecavüz, sabotaj, adam kaçırmak veya rehin almak, silahlı gasp ve soygun, ateşli silahlar ve bıçaklarla bomba ve öteki patlayıcı, parlayıcı ve yakıcı maddelerle saldırıda bulunmak, uçak, tren, otobüs, vapur ve benzerleri öteki yerüstü ve yeraltı toplu taşıma araçlarını kaçırmak, zaptetmek veya yolcularını rehin tutmak suretiyle toplumda tedirginlik, korku ve dehşet meydana getirerek sırf kamu düzenini bozmağa ve milli güvenliği sarsarak Anayasa'da yer alan temel hak ve hürriyetleri, Devletin ülkesi ve milletiyle bölünmez bütünlüğünü nitelikleri Anayasa'da belirlenen Cumhuriyeti tehlikeye düşürmeğe yönelik şiddet eylemlerine girişileceğini gösteren kesin belirtilerin elde edilmesi halinde, umumi ya da umuma açık yerlerde veya öğrenci yurtlarında veya eklentilerinde veya kentin ya da öteki yerleşme birimlerinin giriş ve çıkış yerlerinde veya ana caddelerinde seyreden taşıt araçlarında,
+Yukarıdaki fıkranın A, B, C ve D bendlerinde sayılan alet ve eşyanın bulundurulup bulundurulmadığını saptamak ve bu fıkranın E bendinde sayılan eylemlerle ilgili kişileri ele geçirmek amacıyla, kişilerin üstlerini, araçlarını ve eşyasını arar, suç unsuru gördüklerine el koyar, evrakıyla birlikte adalete teslim eder.
+5680 sayılı Basın Kanunu kapsamına giren basılı eserlerin arama ve zabtı genel hükümlere göre olur.
+Vali ve kaymakamın arama ve elkoymaya ilişkin emri yazıyla verilir. İvedi durumlarda sözlü olarak verilen emir en kısa zamanda yazı ile doğrulanır.
+Madde 11 bend C ve fıkra son – (4/7/1934 tarihli ve 2559 sayılı Kanunun hükmüdür.)
+Genel ahlak ve edebe aykırı mahiyetteki film, plak, video ve ses bantlarını yapan ve satanları,
+Video ve ses bandlarını ticari maksatla dolduran gerçek veya tüzel kişiler bu bandların bir adedini, piyasaya çıkarılmadan önce mahallin en büyük mülki amirine vermek zorundadırlar.

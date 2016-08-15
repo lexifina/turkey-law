@@ -1,0 +1,2 @@
+14 – 27/3/2015 tarihli ve 6638 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri : (Madde numarası : Ek Madde 7.)
+Ek Madde 7 – üçüncü fıkra- (3/7/2005 tarihli ve 5397 sayılı Kanunun hükmüdür.) Yetkili ve görevli hâkim, talepte bulunan kolluk biriminin bulunduğu yer itibariyle yetkili olan ve 5271 sayılı Kanunun 250 nci maddesinin birinci fıkrasına göre kurulan ağır ceza mahkemesinin üyesidir.

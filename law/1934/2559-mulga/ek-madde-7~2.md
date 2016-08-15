@@ -1,0 +1,1 @@
+Ek Madde 7 – dokuzuncu fıkra- (3/7/2005 tarihli ve 5397 sayılı Kanunun hükmüdür.) Bu maddede yer alan faaliyetlerin denetimi, sıralı kurum amirleri, Emniyet Genel Müdürlüğü ve ilgili bakanlığın teftiş elemanları (…) (1) tarafından yapılır. (1)

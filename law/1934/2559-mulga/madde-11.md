@@ -1,0 +1,2 @@
+Madde 11 – (4/7/1934 tarih ve 2559 sayılı Kanunun hükmüdür.)
+Ar ve hayaya ve içtimai nizam ve ahlaka uygun olmıyan harekette bulunanlarla bu yolda söz ve türkü söyliyen ve çalgı çalanları, kadın ve genç erkeklere söz atanları, sarkıntılık edenleri ve genç kimseleri her türlü ahlaksızlığa teşvik eyliyenleri polis meneder. Suçlular hakkında tanzim olunacak evrak yirmi dört saat içinde Adliyeye verilir.
