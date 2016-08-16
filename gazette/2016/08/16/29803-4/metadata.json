@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-08-16",
+  "issue": "29803",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Muğla Sıtkı Kocaman Üniversitesi Girişimcilik ve Kariyer Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160816-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160816.htm",
+  "index_sha256": "e8afcd5c286928f0b6810251f43448fb90a65a6f74bc02f37e1391ef4805b1ec",
+  "index_header": "16 Ağustos 2016 ... 29803 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160816.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
