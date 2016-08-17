@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-10-19",
+      "19.10.2011",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2014-09-29",
+      "RG-29/9/2014-29134",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-29",
+      "RG-29/9/2014-29134",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2014-09-29",
+      "RG-29/9/2014-29134",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-08-17",
+      "RG-17/8/2016-29804",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-08-17",
+      "17/8/2016",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-17/8/2016-29804",
+  "first_law": null,
+  "gazette": "28089",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-08-17",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Dokuz Eylül Üniversitesi",
+  "issuer_slug": "dokuz-eylul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dokuz-eylul-universitesi/2011/15403",
+  "published": "2011-10-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15403&MevzuatTertip=5",
+  "source_bytes": 38404,
+  "source_id": "8.5.15403",
+  "source_sha256": "1c28387f3e8df6c132e1058317d9fdde8f7f313e36b303b25f829c0c52364b21",
+  "text_status": "current-consolidated",
+  "title": "DOKUZ EYLÜL ÜNİVERSİTESİ İZMİR BİYOTIP VE GENOM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 189,
+  "word_count": 1307
+}
