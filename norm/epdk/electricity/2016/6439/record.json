@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6439",
+  "decision_date": "2016-08-18",
+  "title": "Enerji Piyasaları İşletme Anonim Şirketi’ne (EPİAŞ) ait Piyasa İşletim Gelir Tavanının Karşılanması için Uygulanacak Bedel ve Komisyonlar ile Uygulamaya İlişkin Yöntem Bildirimi, Ek : 6439sayilikurulkarareki",
+  "resmi_gazete_date": "2016-08-24",
+  "resmi_gazete_number": "29811",
+  "categories": [
+    "EPİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=l1yjv7oMtPQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=l1yjv7oMtPQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sPrAaPevklk="
+  ],
+  "source_sha256": "8d2a5e9343cbbf4efca0c0a48d0d06776321f55a308f9a93286617b0f568b51a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1521,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-08-18",
+  "law_text_complete": true
+}
