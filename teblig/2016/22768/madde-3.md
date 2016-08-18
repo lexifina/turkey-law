@@ -1,0 +1,2 @@
+Tarife kontenjanının tahsisatı
+MADDE 3 – (1) Avrupa Birliği menşeli 1701.99 gümrük tarife pozisyonunda yer alan şeker ithalatında 2016 yılı için açılan tarife kontenjanının 21/5/2016 tarihli ve 29718 sayılı Resmî Gazete’de yayımlanan Avrupa Birliği Menşeli Bazı Tarım Ürünleri İthalatında Tarife Kontenjanı Uygulanmasına İlişkin Tebliğ uyarınca dağıtımından kalan kısmı Türkiye Şeker Fabrikaları A.Ş. Genel Müdürlüğü öncelikli olmak üzere şeker pancarından şeker üreten firmalara tahsis edilir.

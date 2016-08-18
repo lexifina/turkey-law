@@ -1,0 +1,2 @@
+Tarife kontenjanı tahsisatı için başvurular
+MADDE 4 – (1) Bu Tebliğin 3 üncü maddesinde belirtilen tarife kontenjanı tahsisat talebinde bulunabilecek nitelikteki firmaların, bu Tebliğin yürürlüğe girdiği tarihten itibaren 15 gün içerisinde, tahsisatı talep edilen tarife kontenjanı kapsamı ürüne ilişkin Gümrük Tarife İstatistik Pozisyonu ile miktarı da belirtilmek suretiyle yazılı olarak Bakanlığa müracaat etmeleri gerekmektedir.

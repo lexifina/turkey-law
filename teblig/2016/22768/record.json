@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.22768",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AVRUPA BİRLİĞİ MENŞELİ ŞEKER İTHALATINDA AÇILAN TARİFE KONTENJANININ KALAN KISMININ DAĞITIMINA İLİŞKİN TEBLİĞ",
+  "number": "22768",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2016/22768",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22768&MevzuatTertip=5",
+  "source_sha256": "c080ba920577e03a64722f1f68bffdbc3aeda8c736a469b3e7ac7f6a3a021d4c",
+  "source_bytes": 9789,
+  "published": "2016-08-18",
+  "gazette": "29805",
+  "in_force": "2016-08-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.08.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 287,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
