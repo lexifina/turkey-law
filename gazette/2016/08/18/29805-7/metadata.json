@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-08-18",
+  "issue": "29805",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Bülent Ecevit Üniversitesi Yabancı Diller Yüksekokulu Temel İngilizce Bölümü Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160818-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160818.htm",
+  "index_sha256": "2eb2f23602e554bde899fca52881b030da71595af2e340e324b718fcbe6b6ece",
+  "index_header": "18 Ağustos 2016 ... 29805 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160818.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
