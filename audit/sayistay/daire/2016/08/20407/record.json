@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10596",
+  "decision_date": "2016-08-19",
+  "source_id": 20407,
+  "chamber": "1",
+  "ilam_number": "237",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20407/",
+  "source_sha256": "4904b2e2766e075540020535fce69ff4ddfb68cdebda3bfafaf5e635227a23a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
