@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10596",
+  "decision_date": "2016-08-19",
+  "source_id": 20405,
+  "chamber": "1",
+  "ilam_number": "237",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20405/",
+  "source_sha256": "f1fedee481fa91ece98fab23f0c30cadb2b0b7344548cc5015f3aff4e48a5058",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
