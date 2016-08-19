@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10596",
+  "decision_date": "2016-08-19",
+  "source_id": 20400,
+  "chamber": "1",
+  "ilam_number": "237",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20400/",
+  "source_sha256": "7de1bd6cac1b42b4e58662afb8777eb04da2b7936b4c440389c31d92bc042f37",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
