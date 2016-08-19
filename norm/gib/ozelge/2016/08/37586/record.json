@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70903105-165.01.03[271]- E.88330",
+  "source_id": 37586,
+  "date": "2016-08-19",
+  "title": "Poliçenin yurt dışında iskonto ettirilmesi durumunda KKDF uygulması hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/37586",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "451fa8e1cdf20e96feea66a01a235d952f5adae5ca33935fe79347fa55ca8661",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
