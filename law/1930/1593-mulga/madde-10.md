@@ -1,0 +1,2 @@
+Madde 10 – (24/4/1930 tarihli ve 1593 sayılı Kanunun hükmüdür.)
+Sıhhat ve İçtimai Muavenet Vekaletince tevdi edilecek yüksek sıhhi ve içtimai meseleler hakkında rey ve mütalaasını beyan ve sıhhi ve içtimai hizmet ve muavenetlere ait kanun, nizamname ve talimatnameleri birinci derecede tetkik eylemek ve tababet ve şubeleri sanatlarını ifadan mütevellit adli meselelerde ihtibar vazifeleriyle mükellef olmak üzere bir Yüksek Sıhhat Şürası teşkil olunmuştur.

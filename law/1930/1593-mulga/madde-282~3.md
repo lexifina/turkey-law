@@ -1,0 +1,2 @@
+Madde 282 – (24/9/1983 tarihli ve 2890 sayılı Kanunun hükmüdür.)
+Bu Kanunda yazılı olan yasaklara aykırı hareket edenler veya zorunluluklara uymayanlar hakkında;Kanunda ayrıca bir ceza hükmü gösterilmediği ve fiilleri Türk Ceza Kanununda daha ağır bir cezayı gerektirmediği takdirde, üç aydan altı aya kadar hafif hapis cezası ve beşbin liradan otuzbin liraya kadar hafif para cezası verilir. Ayrıca, fiilin işleniş şekli ve niteliğine göre failin suça vasıta kıldığı meslek ve sanatın yedi günden üç aya kadar tatiline ve aynı süre kadar işyerinin kapatılmasına da hükmedilebilir.

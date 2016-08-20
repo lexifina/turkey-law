@@ -1,0 +1,2 @@
+Madde 63– (24/4/1930 tarih ve 1593 Sayılı Kanunun hükmüdür.)
+Limanlarda bulunan ve sıhhiye patentası vermekle mükellef olan memurlar 57 nci maddede yazılı hastalıklardan ancak kolera, veba, çiçek, lekeli humma hastalıklarından zuhur etmiş hakiki vakaları ecnebi gemileri ve ecnebi memleketlerine gidecek Türk gemileri patentalarına işaret ederler. Türkiye limanları arasında seyrüsefer eden Türk gemilerine verilecek Patentalara mezkür maddedeki hastalıklardan her birisinin tahakkuk etmiş vakaları yazılır.

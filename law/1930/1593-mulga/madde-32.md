@@ -1,0 +1,2 @@
+Madde 32 – (24/4/1930 tarih ve 1593 Sayılı Kanunun hükmüdür.)
+Fevkalade hallerde ve memleketi tehlikeye maruz bırakan salgınlar zuhurunda Sıhhat ve İçtimai Muavenet Vekaleti hastalığın hüküm sürdüğü limanlarda bulunan konsolosluklarda çalışmak veya konsolosluk mevcut olmadığı halde müstakilen vazife yapmak üzere mahsus memur gönderir. Bu gibi hallerde sıhhat patentalarının vizesi ve bulundukları mahallin sıhhi ahvali hakkında malümat almak vazifesi bu sıhhat memurlarına aittir.

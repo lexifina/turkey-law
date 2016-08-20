@@ -1,0 +1,2 @@
+Madde 52 – (24/4/1930 tarih ve 1593 Sayılı Kanunun hükmüdür.)
+Bütün Türkiye limanlarında sıhhi muamele ifası Hudutlar ve Sahiller Sıhhat Umum Müdürlüğü memurlarına aittİr. Bunların bulunmadığı mahallerde Sıhhat ve İçtimai Muavenet Vekaletinin göstereceği lüzum üzerine hükümet veya belediye tabipleri veya liman reisleri veyahut nahiye müdürleri ile gümrük memurları kanun ve nizam ve talimatnameler hükümleri dairesinde sıhhi müdafaaya müterettip vazifeleri ifa ve rüsumu tahsil ederler.

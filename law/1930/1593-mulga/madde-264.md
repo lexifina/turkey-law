@@ -1,0 +1,3 @@
+5 – 15/5/1959 tarih ve 7269 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 264)
+Madde 264 – (24/4/1930 tarih ve 1593 Sayılı Kanunun hükmüdür.)
+Nüfusu her neye baliğ olursa olsun büyük bir yangın, zelzele ve her hangi diğer bir afet sebebiyle veya harb yüzünden büyük bir kısmı veya tamamı harap olan şehir ve kasabalar belediyeleri, tabi halin geri gelmesinden itibaren en çok altı ay zarfında o şehir ve kasabanın yeniden tanzim ve imarı için bir plan ve proje tertibine mecburdurlar. Muvakkat ikametgahlar müstesna olmak üzere bu plan ve projelerin tanziminden evvel harap olan kısımlarda her türlü inşaat menolunur.

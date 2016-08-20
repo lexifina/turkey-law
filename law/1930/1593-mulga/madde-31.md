@@ -1,0 +1,2 @@
+Madde 31 – (24/4/1930 tarih ve 1593 Sayılı Kanunun hükmüdür.)
+Türk ve ecnebi limanlarından Türkiye limanlarından birine gelmek üzere hareket eden her gemi bir sıhhat patentasını hamil olmalıdır. Ecnebi limanlarından gelen gemilere ait patentalar mahalli Türkiye konsolosları veya vekilleri tarafından tetkik ve patentanın salahiyet sahibi bir makam tarafından verildiğine kanaat edildikten sonra vize edilir. Mütaaddit ecnebi limanlarına uğrayan gemiler son uğradıkları limandan konsolos vizesi alırlar.

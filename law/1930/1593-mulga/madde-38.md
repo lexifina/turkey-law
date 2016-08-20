@@ -1,0 +1,2 @@
+Madde 38 – (24/4/1930 tarih ve 1593 Sayılı Kanunun hükmüdür.)
+37 nci maddede zikredilen hastalıklardan hariçten gelmiş olmadığı tahakkuk eden vak'ayı zuhurunu bildiren patentalar ile mebdeinde temiz olduğu halde Türkiye limanlarından birine gelinceye kadar geçen seyahat müddeti esnasında geminin ahvali sıhhiyesinde vukua gelen tebeddül dolayısiyle evsafı değişen ve 31, 32, 33 ve 44 üncü maddeler ahkamına muvafık olmıyan patentalar bulaşık addedilir.

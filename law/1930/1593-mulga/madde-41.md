@@ -1,0 +1,2 @@
+Madde 41 – (24/4/1930 tarih ve 1593 Sayılı Kanunun hükmüdür.)
+Her gemi bir Türk limanına muvasalatı akabinde ve talimatnamelerle tayin olunan saatlerde Hudutlar ve Sahiller Sıhhat Umum Müdürlüğü memurları tarafından ziyaret ve patentaları ve geminin sıhhi vaziyeti tetkik olunur. Bu memurlar tarafından serbest pratika verilmedikçe gemilere başkalarının girmesi ve gemilerden 47 nci maddede mezkür talimatname hükümleri haricinde kimsenin çıkması memnudur.

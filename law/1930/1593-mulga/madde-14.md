@@ -1,0 +1,2 @@
+Madde 14 – (24/4/1930 tarih ve 1593 Sayılı Kanunun hükmüdür.)
+Yüksek Sıhhat Şürası, Sıhhat ve İçtimai Muavenet Vekilinin veya onun tensip edeceği bir zatın riyaseti altında asli azadan laakal beş zatın huzuriyle içtima eder. Reyler sülüsanı ekseriyetle ittihaz olunur. Sıhhat ve İçtimai Muavenet Vekaleti müsteşar ve hıfzıssıhha işleri ve içtimai muavenet umum müdürleri Yüksek Sıhhat Şürasının tabii azasındandırlar.

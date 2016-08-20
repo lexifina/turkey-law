@@ -1,0 +1,2 @@
+Madde 188 – (24/4/1930 tarihli ve 1593 sayılı Kanunun hükmüdür.)
+Boyalarla muzadı taaffün maddeleri gıda maddelerine karıştırmak veya bu nevi şeyler karışmış gıda maddelerini satılığa çıkarmak, satmak ve satmak üzere nezdinde bulundurmak memnudur. Sıhhat ve İçtimai Muavenat Vekaletince bu nevi boyalar ve muzadı taaffün maddelerden zararsız olanların ne gibi şeylere ve ne miktarda ilave edilebileceğini ve boyalarla muhafaza maddelerine ilavesi memnu olan gıdaları mübeyyin bir liste neşrolunur.

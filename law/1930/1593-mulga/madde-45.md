@@ -1,0 +1,2 @@
+Madde 45 – (24/4/1930 tarih ve 1593 Sayılı Kanunun hükmüdür.)
+Çanakkale Boğazı ile Karadeniz Boğazı arasındaki Marmara havzasında seyrüsefer eden gemiler muvasalat ettikleri limanlarda yolcularını sıhhi zıyaret vaki olmadan çıkarabilirler. Yalnız bu esnada geminin sıhhi muamelesini itmam etmesi lazımdır. Eğer bu mıntaka dahilindeki gemilerin hareket limanlarında sari hastalık varsa bunlar umumi ahkama tabi olurlar.

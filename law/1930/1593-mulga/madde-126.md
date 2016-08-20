@@ -1,0 +1,2 @@
+Madde 126 – (24/4/1930 tarihli ve 1593 sayılı Kanunun hükmüdür.)
+Yenilecek ve içilecek şeyler satan veya veren veyahut taharet ve nezafete mütaallik sanatlar ifa edenler her üç ayda bir kendilerini muayene ettirerek bir sıhhi rapor almağa mecburdurlar. Bunlardan devrei sirayette frengi ve sari verem ve cüzzama müptela olanlarla halkın istikrah ve nefretini mucip bir cilt hastalığına duçar olanlar sanatlarını icradan menolunurlar.
