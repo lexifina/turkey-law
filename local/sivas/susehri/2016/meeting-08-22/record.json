@@ -1,0 +1,27 @@
+{
+  "number": "meeting-08-22",
+  "number_as_published": "meeting-08-22",
+  "year": 2016,
+  "title": "22.08.2016 tarihli meclis kararları",
+  "decision_date": "2016-08-22",
+  "source": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=81",
+  "official_document": "https://susehri.bel.tr/img/belgeler/meclis-kararlari/2016/2016-08-22.doc",
+  "source_sha256": "fb8cfad37ed5fba9271f17a716f7db01eecbf9bbc9bb77883f9567df24faf9b9",
+  "issuer": "Suşehri Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2016-08-22",
+  "in_force_basis": "Decision date as printed in the official council listing: 22.08.2016; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "22.08.2016 tarihli meclis kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=81",
+  "item_title": "2016 Agustos",
+  "file_label": "2016-08-22",
+  "date_read_from": "official file name (MK-yyyy-mm-dd)"
+}
