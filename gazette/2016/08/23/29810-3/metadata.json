@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-08-23",
+  "issue": "29810",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Havalimanları Yer Hizmetleri Yönetmeliği (SHY-22)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160823-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160823.htm",
+  "index_sha256": "6cc70b9818e5a231f2d36fe8de8c882035dfb71beb9a6c78008256bb0ef8f21b",
+  "index_header": "23 Ağustos 2016 ... 29810 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160823.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
