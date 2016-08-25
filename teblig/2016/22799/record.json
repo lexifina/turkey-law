@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.22799",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "6736 SAYILI KANUN KAPSAMINDA GÜMRÜK ALACAKLARININ YENİDEN YAPILANDIRILMASINA İLİŞKİN TEBLİĞ",
+  "number": "22799",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2016/22799",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22799&MevzuatTertip=5",
+  "source_sha256": "3a6d1ae1c8454e57917c814d720c4b1d3ec2447f705ec807a14107fe037f346a",
+  "source_bytes": 61033,
+  "published": "2016-08-25",
+  "gazette": "29812",
+  "in_force": "2016-08-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.08.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3933,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.22799-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
