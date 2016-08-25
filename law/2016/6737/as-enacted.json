@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6737",
+  "year": 2016,
+  "title": "Karadağın Kuzey Atlantik Antlaşmasına Katılımına İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-08-25",
+  "gazette_issue": "29812",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160825-1.htm",
+  "source_sha256": "95accefb0759dd9f1c1449e0dcf9c4accc1909dea601cba6f8e51cd9babc2ab0",
+  "text_sha256": "afd04361a0eb61df712f8dee73bf81af4667d918354c0e88779bfd9e88b6eea7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/08/25/29812-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160825-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
