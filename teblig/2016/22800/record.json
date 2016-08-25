@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.22800",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 68)",
+  "number": "22800",
+  "path": "teblig/2016/22800",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22800&MevzuatTertip=5",
+  "source_sha256": "6d919b5e5f330908092fce3b5924fa69edcad4b6060d678b3cfe96a4ad0970a8",
+  "source_bytes": 8558,
+  "published": "2016-08-25",
+  "gazette": "29812",
+  "in_force": "2016-08-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.08.2016)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 169,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.22800-Ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
