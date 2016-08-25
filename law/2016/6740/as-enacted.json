@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6740",
+  "year": 2016,
+  "title": "Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-08-25",
+  "gazette_issue": "29812",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160825-4.htm",
+  "source_sha256": "0a6155da7223b179da7d8b99cb27a9aeb979941d51068755e680caa106537852",
+  "text_sha256": "a51e4a230c6f060fe47b462f5080645438998b6ccbe162ee80f5cbca2d42e081",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/08/25/29812-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160825-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
