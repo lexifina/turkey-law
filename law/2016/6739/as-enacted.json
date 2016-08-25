@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6739",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Evrensel Posta Birliği (UPU) Arasında Yirmi Altıncı Dünya Posta Kongresine Yönelik Düzenlemelere İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-08-25",
+  "gazette_issue": "29812",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160825-3.htm",
+  "source_sha256": "1f9a9064ef207da3e20141cb97eb6e41c9573d98faedcd86f2d061811225e451",
+  "text_sha256": "93f6eb840d780ff2c4e7636132a561c88f502ac46f00849548dc9cbe0d0957dc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/08/25/29812-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/08/20160825-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
