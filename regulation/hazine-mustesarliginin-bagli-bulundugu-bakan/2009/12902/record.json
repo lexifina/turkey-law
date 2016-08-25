@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.12902",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EMEKLİLİĞE YÖNELİK TAAHHÜTTE BULUNAN KURULUŞLARIN AKTÜERYAL DENETİMİ HAKKINDA YÖNETMELİK",
+  "number": "12902",
+  "issuer": "Hazine Müsteşarlığının bağlı bulunduğu Bakan",
+  "issuer_slug": "hazine-mustesarliginin-bagli-bulundugu-bakan",
+  "path": "regulation/hazine-mustesarliginin-bagli-bulundugu-bakan/2009/12902",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12902&MevzuatTertip=5",
+  "source_sha256": "efc20790ac3b139058f9731782506e1186118d05885c3e96868f3aca2f909c79",
+  "source_bytes": 49875,
+  "published": "2009-03-01",
+  "gazette": "27156",
+  "in_force": "2016-08-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/8/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-08-25",
+      "RG-25/8/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-08-25",
+      "25/8/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-04-02",
+      "RG-2/4/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-04-02",
+      "2/4/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1700,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

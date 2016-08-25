@@ -1,0 +1,2 @@
+Denetimin sonuçları
+MADDE 8 – (1) Müsteşarlıkça yapılan değerlendirme sonucunda aktüeryal dengenin bozulduğunun yahut üyelerin veya çalışanların haklarının tehlikeye düştüğünün tespit edilmesi durumunda Müsteşarlık, hizmet sunucusunu ve hizmet sunucusunun tabi olduğu mevzuat gereğince varsa ilgili bulunduğu kurumu konu hakkında bilgilendirerek üyelerin veya çalışanların haklarının korunması ve sürdürülebilir aktüeryal yapının temini için gerekli görülen önlemlerin alınmasını isteyebilir.
