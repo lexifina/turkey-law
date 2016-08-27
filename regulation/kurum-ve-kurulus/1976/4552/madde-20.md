@@ -1,0 +1,1 @@
+Madde 20- Kabul edilen bir tezin doktora veya diğer bir sınavda kullanılmış olduğu veya çeviri veya iktibas edilmiş olduğu duyurulur ve bu durum yönetmelikte belirtilen yöntemlere göre kurulacak bir jüri tarafından saptanırsa, ilk jürinin kabul kararı hükümsüz sayılır.

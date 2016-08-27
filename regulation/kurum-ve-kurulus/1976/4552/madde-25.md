@@ -1,0 +1,3 @@
+İnceleme
+Madde 25- Süresi içinde başvuranların, dilekçeleri ile birlikte verdikleri özgeçmişleri, yayınları ve gerektiği takdirde adayların sınav dosyaları, getirtilerek 15 gün içinde komisyona verilir.
+Komisyon, adayların yayınlarını, o tarihe kadarki çalışmaları ve gerekirse sınav dosyalarını ayrı ayrı inceleyerek her aday hakkında bir rapor hazırlar ve birden fazla aday bulunan hallerde adaylar arasında tercihini ve gerekçesini raporda belirtir. İnceleme işinin en geç bir ay içinde bitirilmesi gerekir. Bu süre içinde bitirilemezse durum, Genel Müdürlüğe yazı ile bildirilir; İcra Komitesi komisyonu yeniler veya süresini uzatır.

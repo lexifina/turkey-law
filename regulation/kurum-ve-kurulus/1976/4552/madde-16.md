@@ -1,0 +1,1 @@
+Madde 16- Başvurma için gerekli koşulların tamam olup olmadığı hususu, Genel Müdürlükçe iki öğretim üyesine incelettirilir. İnceleme sonucu, bir rapor halinde bir hafta içinde Genel Müdüre sunulur. Genel Müdür, başvurma koşullarının tamam olduğu sonucuna varırsa başvuran adaya sınava girebileceğini yazılı olarak bildirir.

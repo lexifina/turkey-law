@@ -1,0 +1,7 @@
+Sınav ve sınav değerlendirmesi
+MADDE 6 – (Başlığıyla birlikte değişik:RG-28/7/2010-27655)
+Sınav kurulu ön değerlendirmede; müracaat eden adaylar arasından ilan edilen kadro sayısının (Değişik ibare:RG-27/8/2016-29814) on katına kadar adayı, ALES puanının % 60’ını ve yabancı dil puanının % 40’ını dikkate alarak belirler ve Enstitünün internet sitesinde ilan eder. Bu sıralamaya göre son sırada aynı puana sahip birden fazla adayın olması halinde, bu kişilerin tamamı sınava çağrılır. Başvuru sayısının ilan edilen kadronun (Değişik ibare:RG-27/8/2016-29814) on katından az olması halinde adayların tamamı giriş sınavına alınır.
+Giriş sınavı, sınav kurulu tarafından yazılı ve/veya sözlü olarak yapılır. Sınavda adayın mesleki ifade becerisi, analitik düşünme ve akademik yeteneği, genel kültür düzeyi ve başvurduğu alanla ilgili beceri ve ilgi düzeyi değerlendirilir.
+Sınav kurulu üyeleri kendi aralarından bir üyeyi raportör olarak seçer. Raportör olarak belirlenen üye, giriş sınavının soru ve cevaplarını tutanak altına alır.
+Sınav kurulu değerlendirmesinde; ALES notunun %30’unu, lisans mezuniyet notunun %30’unu, yabancı dil puanının %10’unu ve giriş sınavı notunun %30’unu hesaplayarak ilan edilen kadro sayısı kadar adayı başarı sırasına göre belirler. (Ek cümle:RG-27/8/2016-29814) Değerlendirme puanı 70 puanın altında olanlar sınavlarda başarısız sayılır.
+Sınavlarda başarılı olan adaylar, başarı puanları esas alınarak ilan edilir. İlan edilen kadro sayısını geçmemek şartıyla yedek aday da ilan edilebilir.

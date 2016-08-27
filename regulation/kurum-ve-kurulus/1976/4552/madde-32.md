@@ -1,0 +1,2 @@
+İnceleme
+Madde 32 — Komisyon yabancı dil sınavını başaran doçent ve Enstitü Öğretim ve Araştırma Uzmanları ile daha önce profesörlük unvanını almış bulunan adayların çalışmalarını, yayımlarını ve özellikle profesörlük tezlerini inceleyerek her aday için çözümlemeli birer rapor hazırlar ve birden çok aday olduğu hallerde adaylar arasından tercihini ve gerekçesini, raporda belirtir. Bu inceleme bir ay içinde bitirilemezse İdare Heyetine bilgi verilir; idare Heyeti, komisyonu yeniler ya da süresini uzatır.

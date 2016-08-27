@@ -1,0 +1,3 @@
+Atama ve Adaylık
+Madde 7- Başarılı aday, başarı sırasına göre, Bölüm Başkanının önerisi üzerine Genel Müdür tarafından asistan adayı olarak atanır.
+Adaylık süresi, bir yıldır. Bu süre içinde aday, çalışmaları ve genel durum ve davranışları açısından ilgili bölüm başkanınca, genel bir değerlendirmeye tabi tutulur. Genel Müdür, gerekli gördüğü takdirde, görev ilişkisi kurulan öğretim üyelerinin de yazılı görüşlerini alır. En son değerlendirme Genel Müdür tarafından yapılır; olumlu bulunanların asıllığı, Genel Müdürce onanır. Değerlendirme sonucunda yeterli bulunmayanların adaylıkları en çok bir yıl daha uzatılabilir. Bu süre sonunda asıllığı onanmayan adayların Enstitü ile ilişkileri kesilir.
