@@ -1,0 +1,4 @@
+Geçici Madde 4 – (Ek:RG-27/8/2016-29814)
+Bu maddenin yayımı tarihinde bu Yönetmelikte yapılan değişikliklerin uygulanması ve belirlenmiş süreler bu maddenin yayımı tarihinde başlar.
+Bu maddenin yayımı tarihinden önce aynı anda birden fazla lisansüstü programa kayıtlı olan öğrenciler hakkında 24 üncü maddenin birinci fıkrasının (h) bendi uygulanmaz.
+13/2/2011 tarihli ve 6111 sayılı Bazı Alacakların Yeniden Yapılandırılması ile Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ve Diğer Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanundan yararlanarak lisansüstü programlara kayıt yaptırıp pasif öğrencilik statüsünde olanların talepleriyle öğrenciliklerinin aktif duruma getirilmesi halinde bu maddenin yayımı tarihinde bu Yönetmelikte yapılan değişikliklerde belirtilen süreler geçerlidir.

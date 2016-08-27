@@ -1,0 +1,4 @@
+Yabancı Uyruklu Öğrenciler ve Yurt Dışında Oturan Türklerin Kabulü
+Madde 10- TODAİE’nin yaptığı ikili anlaşmalar uyarınca gelenler, yabancı uyruklular ve kamu görevlisi olmayıp da yurt dışında sürekli oturan Türkler; geçerliliği ilgili kurumlarca onaylanmış lisans diplomasına sahip olmaları ve Program Kurulunun önerisi ve Yürütme Kurulunun kararıyla belirlenen diğer koşulları yerine getirmeleri durumunda, programlara başvurabilirler.
+Türkçe programlara başvuran yabancı uyruklu adaylar, Yürütme Kurulunca oluşturulacak üç kişilik bir kurulun yapacağı Türkçe sınavında, programı izleyebilecek düzeyde dil bilgisine sahip olduklarını kanıtlamaları koşulu ile programa kabul edilirler. Bu sınav, gerektiğinde yurt dışında sürekli oturan Türkler için de uygulanabilir.
+(Ek üçüncü fıkra:RG-7/8/2011-28018) Ortaöğrenimini, lisans veya yüksek lisans öğrenimini Türkçe eğitim-öğretim yapan bir kurumda yapmış olan yabancı uyruklular Türkçe sınavdan muaf tutulur.

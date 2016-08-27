@@ -1,0 +1,2 @@
+Geçici Madde 3 – (Ek madde:RG-3/9/2013-28754)(2)
+Bu Yönetmeliğin 51 inci maddesinin birinci fıkrasının (a) bendi 6/2/2013 tarihinden önce tezsiz yüksek lisans programlarına kayıtlı olan öğrenciler hakkında uygulanmaz. 51 inci maddenin birinci fıkrasının (c) bendinde belirtilen koşullar çerçevesinde tezsiz yüksek lisans programından mezun olanlar için 100 tam puan üzerinden en az 85 puan şartı aranır.

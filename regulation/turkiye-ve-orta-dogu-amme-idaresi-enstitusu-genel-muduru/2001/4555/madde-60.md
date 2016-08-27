@@ -1,0 +1,11 @@
+Yeterlik Sınavı
+Madde 60- (Değişik madde:RG-7/8/2011-28018)
+Yeterlik sınavının amacı, öğrencinin programın temel konularındaki bilgisinin sınanmasıdır. Sınavlar, Ocak ve Haziran aylarında olmak üzere yılda iki kez yapılır.
+(Değişik ikinci fıkra:RG-3/9/2013-28754)(2) Sınava girmek için yüksek lisans derecesi olanların 21, lisans derecesi ile kabul edilmiş olanların 42 krediyi tamamlamış olması gerekir.
+(Değişik üçüncü fıkra:RG-3/9/2013-28754)(2) Öğrencinin yeterlik sınavına alınması için, derslerini başarı ile tamamlamış olması gerekir.
+Yeterlik sınavı, yazılı ve sözlü olarak yapılır. Öğrenci, yazılı sınavın yapıldığı tarihi izleyen en geç üç gün içinde sözlü sınava alınır. Yazılı ve sözlü sınav birlikte değerlendirilir. Doktora Yeterlik Kurulunun belirlediği sınav sonuçları, sözlü sınavın yapıldığı tarihi izleyen üç gün içinde öğrenciye duyurulur.
+Doktora Yeterlik Kurulu; doktora yeterlik sınavını yapmak üzere, Akademik Kurulun önerdiği öğretim üyeleri arasından Yürütme Kurulu tarafından bir yıl için seçilen ve beş asıl ve iki yedek üyeden oluşur.
+Yeterlik sınavı, Doktora Yeterlik Kurulu tarafından ya da bu Kurul tarafından önerilen ve Yürütme Kurulunca görevlendirilen Yeterlik Sınav Kurulunca yapılır. Yeterlik Sınav Kurulu, biri tez danışmanı ve en az biri başka yükseköğretim kurumundan olmak üzere, beş asıl ve iki yedek öğretim üyesinden oluşur. Yeterlik Sınav Kurulu, öğrencinin yazılı ve sözlü sınavlardaki başarı durumunu değerlendirerek, öğrencinin başarılı ya da başarısız olduğuna salt çoğunlukla karar verir.
+(Değişik yedinci fıkra:RG-3/9/2013-28754)(2) Yeterlik Sınav Kurulu, yeterlik sınavında başarılı olan bir öğrencinin, ders yükünü tamamlamış olsa bile en fazla iki ders almasını isteyebilir.
+(Değişik sekizinci fıkra:RG-27/8/2016-29814) Yeterlik sınavında başarısız olan öğrenci, başarısız olduğu bölüm/bölümlerden bir sonraki dönemde tekrar sınava alınır. Bu sınavda da başarısız olan öğrencinin doktora programı ile ilişiği kesilir.
+(Ek dokuzuncu fıkra:RG-27/8/2016-29814) Yüksek lisans derecesi ile kabul edilen öğrenci en geç beşinci dönemin, lisans derecesi ile kabul edilmiş olan öğrenci en geç yedinci dönemin sonuna kadar yeterlik sınavına girmek zorundadır.

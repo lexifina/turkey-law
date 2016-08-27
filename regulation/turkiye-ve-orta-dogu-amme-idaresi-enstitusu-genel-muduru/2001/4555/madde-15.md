@@ -1,0 +1,5 @@
+Mazeret
+Madde 15- (Başlığı ile birlikte değişik madde:RG-7/8/2011-28018)
+Öğrencilerin mazeretinin geçerli olabilmesi için mazeretini belirten belgenin Yürütme Kurulu tarafından kabul edilmesi gerekir. Belgelendirilmesi koşuluyla görevlendirme, sağlık sorunu, doğal afet, anne, baba, eş, kardeş, çocuğunun ve eşinin anne, baba ve kardeşinin ölümü; evlilik, çocuk doğumu ve evlat edinme gibi durumlarda kamu görevlilerine yasal olarak tanınan süre kadar mazeretli sayılırlar.
+(Değişik ikinci fıkra:RG-3/9/2013-28754)(2) Öğrenciler mazeretlerini, sağlık raporu alınması durumunda rapor süresinin dolduğu, diğer durumlarda olayın meydana geldiği tarihten başlayarak en geç on gün içinde bildirirler. Bu sürede bildirilmeyen mazeretler kabul edilmez. Mazereti, Yürütme Kurulu tarafından kabul edilmiş olsa dahi toplam mazeret süresi her bir ders için toplam ders saatinin %15’ini aştığı takdirde, öğrenci o dersten başarısız sayılır. Mazereti geçerli sayılan öğrenci devam edemediği dersi/dersleri açıldığı dönemde tekrarlar.
+Dönem sonu sınavına geçerli sayılan mazereti nedeniyle giremeyen öğrenciler, uygun görülecek bir zamanda sınava alınır.

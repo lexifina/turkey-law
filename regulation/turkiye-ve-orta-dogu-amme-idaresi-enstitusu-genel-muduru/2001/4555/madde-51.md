@@ -1,0 +1,9 @@
+Giriş Sınavına Kabul Koşulları (Değişik madde başlığı:RG-7/8/2011-28018)
+Madde 51- (Değişik madde:RG-3/9/2013-28754)(2)
+Programlara katılabilmek için aşağıdaki koşulların yerine getirilmesi zorunludur:
+a) Lisans ya da tezli yüksek lisans diploması almış ve yüksek lisans derecesinin yurtdışından alınmış olduğu durumlarda denklik belgesi olmak.
+b) Doktora programına öğrenci kabulünde YDS’den en az 65 puan veya Üniversitelerarası Kurulca kabul edilen bir sınavdan bu puan muadili bir puan, yabancı uyruklu öğrenciler için ana dilleri dışında İngilizce, Fransızca ve Almanca dillerinden birinden YDS’den en az 65 puan veya Üniversitelerarası Kurulca kabul edilen bir sınavdan bu puan muadili bir puan alınması gerekir. Gerektiğinde, yabancı dil sınavları, Akademik Kurulun önerisi üzerine Yürütme Kurulunun kararı ile TODAİE tarafından da yapılabilir. Hangi yabancı dillerin kabul edileceği, Akademik Kurulun önerisi üzerine Yürütme Kurulu tarafından belirlenir.
+c) Yüksek lisans mezuniyet notunun; tezli yüksek lisans programından mezun olanlar için 100 tam puan üzerinden en az 75 puan, tezsiz yüksek lisans programından mezun olanlar için 100 tam puan üzerinden en az 85 puan olduğunu belgelemek.
+ç) Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından yapılan Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı (ALES)’ndan başvurdukları programın puan türünde yüksek lisans derecesiyle başvurulması durumunda en az 65, lisans derecesiyle başvurulması durumunda 80 puan almış olmak.
+d) Lisans derecesiyle doktora programına başvuranların lisans mezuniyet not ortalamalarının 100 üzerinden en az 75 veya muadili bir puana sahip olması.
+e) Yürütme Kurulu tarafından belirlenerek sınavdan önce ilan edilmesi halinde başvuran adayların sağlaması gereken referans mektubu, neden doktora yapmak istediğini belirten kompozisyon, uluslararası standart sınavlar ve benzeri diğer belgeleri sunmak.

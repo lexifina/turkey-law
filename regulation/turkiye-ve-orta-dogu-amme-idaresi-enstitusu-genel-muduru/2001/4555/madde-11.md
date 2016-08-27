@@ -1,0 +1,4 @@
+Özel Öğrenci Kabulü
+Madde 11- (Değişik madde:RG-7/8/2011-28018)
+(Değişik birinci fıkra:RG-3/4/2012-28253)(1) Programlara, lisans veya yüksek lisans öğreniminden sonra, belli bir konuda bilgisini artırmak isteyenler arasından, her dönem Program Kurulunun önerisi, Yürütme Kurulunun kararıyla belirlenen sayıda özel öğrenci kabul edilebilir. Özel öğrenci statüsündekiler en fazla iki dönem için kayıt yaptırabilirler ve her dönemde en fazla iki ders alabilirler. Özel öğrenciler, asıl öğrenciler gibi kayıt yaptırdıkları derslerin tüm koşullarına ve gereklerine uymak zorundadırlar. Özel öğrenci statüsünde ders alanlar öğrencilik haklarından yararlanamazlar. Özel öğrencilere, izledikleri dersleri ve aldıkları notları gösteren bir belge verilebilir.
+Bu Yönetmelik hükümlerine göre asıl öğrencilik hakkını kazanan özel öğrencinin aldığı derslerin başarı notu ve kredileri geçerli sayılır.

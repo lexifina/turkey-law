@@ -1,0 +1,5 @@
+Program Açma, Kontenjan Belirleme ve Duyuru
+Madde 7- (Değişik birinci fıkra:RG-3/9/2013-28754)(2) Programlar, Akademik Kurulun önerisi, Yürütme Kurulunun kararı ve Yönetim Kurulunun onayı ile açılır. Aynı usulle öğretim elemanı ve öğrencilerin aynı mekânda bulunma zorunluluğu olmaksızın, bilgi ve iletişim teknolojilerine dayalı olarak öğretim faaliyetlerinin planlandığı ve yürütüldüğü lisansüstü uzaktan öğretim programları da açılabilir. Uzaktan öğretim yoluyla açılacak programlarda verilecek dersler ve kredi miktarları, ders materyallerinin hazırlanması, sınavlarının yapılma şekli Uzaktan Eğitim Merkezi ile işbirliği içerisinde Program Kurulu’nun önerisi üzerine Yürütme Kurulu tarafından belirlenir.
+Program açma önerileri, derslerin kapsamı ve bu dersleri verecek öğretim elemanlarının adları ile birlikte yapılır.
+(Değişik üçüncü fıkra:RG-7/8/2011-28018) Programların kontenjanları, Program Kurulunun görüşü ve Yürütme Kurulunun önerisi üzerine Yönetim Kurulu tarafından belirlenir.
+Açılacak programlar ve başvuru için gerekli koşullar ilan edilir ve kamu kurumlarına ayrıca yazı ile duyurulur.

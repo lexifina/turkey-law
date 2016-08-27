@@ -1,0 +1,4 @@
+Ders ve Krediler
+Madde 30- (Değişik fıkra:RG-27/8/2016-29814) Her ders saati bir kredidir. Öğrenci, dönemler arasında dengeli olmak üzere toplam 27 krediden az olmamak koşuluyla en az 9 ders ve kredisiz bir seminer dersi ile yine kredisiz olan uzmanlık alanı dersini almak zorundadır. Yürütme Kurulu kararıyla kredi ve ders sayısı artırılabilir. Öğrenciler, açılan seminer ve uzmanlık alanı dersi ile düzenlenen konferanslara katılmak zorundadır.
+Dersler; zorunlu, koşullu seçmeli ve seçmeli türden olmak üzere, her yıl Program Kurulunun önerisi, Akademik Kurulun görüşü ve Yürütme Kurulunun kararı ile kesinleşir.
+(Değişik üçüncü fıkra:RG-7/8/2011-28018) Öğrenci, Program Kurulunun önerisi ve Yürütme Kurulunun onayı ile TODAİE’de açılmış diğer programlar ile diğer yükseköğretim kurumlarındaki programlardan bir dönemde en fazla iki ders alabilir.

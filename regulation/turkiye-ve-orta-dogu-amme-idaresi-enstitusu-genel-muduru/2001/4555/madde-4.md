@@ -1,0 +1,28 @@
+Tanımlar
+Madde 4- (Değişik madde:RG-7/8/2011-28018)
+Bu Yönetmelikte geçen;
+Akademik Kurul: TODAİE Akademik Kurulunu,
+Akademik Takvim: Lisansüstü eğitimlerde dönem, yaz okulu, yeterlik ve benzeri tarihleri içerecek şekilde Yürütme Kurulu tarafından belirlenen eğitim dönemini,
+(Değişik tanım:RG-3/9/2013-28754)(2) AKTS (ECTS): Avrupa Kredi Transfer Sistemini,
+Anabilim Dalı Başkanı: TODAİE anabilim dalı başkanını,
+Danışman: Enstitüde bir lisansüstü programına kayıtlı öğrencilere rehberlik etmek üzere Enstitü Yürütme Kurulu tarafından atanan öğretim üyesini,
+Doktora Yeterlik Kurulu: Yeterlik sınavlarını düzenlemek ve yürütmek üzere Akademik Kurul tarafından önerilen ve Yürütme Kurulu tarafından uygun bulunan ve bir yıl için görev yapan beş öğretim üyesinden oluşan kurulu,
+Dönem Projesi: Tezsiz yüksek lisans eğitimi sırasında araştırılan ve/veya incelenen bir konunun bilimsel bir araştırma raporu biçiminde sunulmuş şeklini,
+Dönem: Güz ve bahar dönemlerinden oluşan, dönem sonu sınav günleri hariç, başlangıç ve bitiş tarihleri her akademik yıl için Yürütme Kurulu tarafından onaylanan eğitim süresini,
+Enstitü: Türkiye ve Orta Doğu Amme İdaresi Enstitüsünü,
+(Ek tanım:RG-3/9/2013-28754)(2) Genel Müdür: TODAİE Genel Müdürünü,
+Genel Müdürlük: TODAİE Genel Müdürlüğünü,
+İkinci Tez Danışmanı: Tezli yüksek lisans ve doktora yapan öğrencinin tez veya uygulama konusunun özelliği gereği Yürütme Kurulunca atanan, Enstitüde ya da başka bir yükseköğretim kurumunda görevli bulunan öğretim üyesini,
+Kredi Sistemi: Bir saat teorik ders veya iki saat uygulama karşılığı bir kredi olan ulusal kredi sistemini ya da AKTS’ye göre ders, uygulama ve diğer öğrenim etkinliklerinin kredilendirilmesini,
+Öğrenci: Lisansüstü eğitim yapmak üzere Enstitüde kayıtlı olanları,
+Öğretim ve Yetiştirme Şube Müdürü: TODAİE Öğretim ve Yetiştirme Şubesi Müdürünü,
+Program Kurulu: TODAİE Program Kurulunu,
+Tez Danışmanı: Enstitüde kayıtlı tezli yüksek lisans ve doktora öğrencilerine tez çalışmalarında rehberlik etmek üzere Yürütme Kurulu tarafından atanan öğretim üyesini,
+Tez İzleme Kurulu: Doktora öğrencisinin tez önerisini değerlendirmek, tez çalışmalarına rehberlik etmek, yönlendirmek görevini üstlenen, biri tez danışmanı olmak üzere üç öğretim üyesinden oluşan kurulu,
+Tez: Tezli yüksek lisans ve doktora eğitiminin amacına yönelik olarak hazırlanan bilimsel çalışmayı,
+TODAİE: Türkiye ve Orta Doğu Amme İdaresi Enstitüsünü,
+(Ek tanım:RG-3/9/2013-28754)(2) Uzaktan Eğitim Merkezi: TODAİE Uzaktan Eğitim Merkezini,
+Yaz Okulu: Güz ve bahar dönemleri dışında, dönem sonu sınav günleri hariç, başlangıç ve bitiş tarihleri her akademik yıl için Yürütme Kurulu tarafından onaylanan eğitim süresini,
+Yönetim Kurulu: TODAİE Yönetim Kurulunu,
+Yürütme Kurulu: TODAİE Yürütme Kurulunu,
+ifade eder.

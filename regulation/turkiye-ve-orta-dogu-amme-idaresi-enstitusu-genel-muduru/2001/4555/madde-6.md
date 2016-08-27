@@ -1,0 +1,3 @@
+Program Kurulu
+Madde 6- (Değişik:RG-27/8/2016-29814)
+Bu Yönetmelikte belirlenen yüksek lisans ve doktora programlarına ilişkin akademik iş ve işlemleri yapmak üzere Program Kurulu görevlendirilir. Program Kurulu Genel Müdür veya Genel Müdür Yardımcısının başkanlığında toplanır. Öğretim ve Yetiştirme Şubesi Müdürü Kurulun doğal üyesidir. Geri kalan üç üye Akademik Kurulun görüşüyle Yürütme Kurulu tarafından Enstitü öğretim üyeleri arasından her bütçe yılı başında bir yıl için seçilir. Kurul işin gerektirdiği hallerde Genel Müdür veya Genel Müdür Yardımcısının çağrısı üzerine toplanır. Akademik dönemin başında ve Kurul kararıyla Program Koordinatörleri tespit edilebilir.
