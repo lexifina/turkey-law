@@ -1,0 +1,30 @@
+{
+  "number": "month-08",
+  "year": 2016,
+  "month": 8,
+  "title": "2016/08 Ağustos Meclis Kararı",
+  "decision_date": null,
+  "index_date": "2016-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2016",
+  "source": "https://www.havran.bel.tr/wp-json/wp/v2/posts?categories=28&per_page=100&page=3&_fields=id,date,link,title",
+  "official_page": "https://www.havran.bel.tr/2016-08-agustos-meclis-karari/",
+  "official_document": "https://www.havran.bel.tr/2016-08-agustos-meclis-karari/",
+  "source_sha256": "48ab1e8830ffc7b514f3b7e31d8740b90b9e4344fb5065c8152e2b94cd3a9b08",
+  "issuer": "Havran Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2016-08-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ağustos 2016); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2016/08 Ağustos Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "post_date": "2016-08-04T23:09:28",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
