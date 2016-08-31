@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-09-28",
+      "28.09.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2016-08-31",
+      "RG-31/8/2016-29817",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-08-31",
+      "RG-31/8/2016-29817",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-08-31",
+      "RG-31/8/2016-29817",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-08-31",
+      "31/8/2016",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-31/8/2016-29817",
+  "first_law": null,
+  "gazette": "28425",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-08-31",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Dokuz Eylül Üniversitesi",
+  "issuer_slug": "dokuz-eylul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dokuz-eylul-universitesi/2012/16642",
+  "published": "2012-09-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16642&MevzuatTertip=5",
+  "source_bytes": 32690,
+  "source_id": "8.5.16642",
+  "source_sha256": "0c1f4b825762b9004996dd20f8dd38523a48c5b3702ce1bd3a1d63bc9793d60f",
+  "text_status": "current-consolidated",
+  "title": "DOKUZ EYLÜL ÜNİVERSİTESİ ULUSAL KLİNİK ARAŞTIRMA ALTYAPI AĞI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 189,
+  "word_count": 1058
+}

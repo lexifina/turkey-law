@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür, Müdür Yardımcısı ve Müdürün önerisi ile Rektör tarafından onaylanarak üç yıl süre ile görevlendirilen, TUCRIN Koordinatörlüğünde görev alan iki kişi ve Türkiye’de klinik araştırma alanında çalışmaları bulunan üniversite, kamu kuruluşu ya da özel sektör temsilcilerinden üç kişi olmak üzere toplam yedi üyeden oluşur. Süresi bitmeden ayrılan veya başka nedenlerle görevi sona eren üyelerin yerine, kalan süreyi tamamlamak üzere, aynı usulle yenileri görevlendirilir. Süresi biten üyeler yeniden görevlendirilebilir.
+(2) Yönetim Kurulu en az ayda bir kez Müdürün çağrısı ile toplanır. Müdür gerekli gördüğü takdirde Yönetim Kurulunu olağanüstü toplantıya çağırabilir.
+(3) Yönetim Kurulu üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların oy çokluğuyla alınır. Oy eşitliği halinde Müdürün oyu yönünde çoğunluk sağlanmış sayılır. Yönetim Kurulu tutanaklarının birer kopyası Rektöre verilir.

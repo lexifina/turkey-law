@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12 – (1) (Değişik:RG-31/8/2016-29817) Danışma Kurulu; klinik araştırma alanındaki çalışmalarıyla Merkeze katkıda bulunabilecek, Yönetim Kurulunun önerisi üzerine Rektör tarafından seçilen kişiler ya da kurum temsilcilerinden en az altı en çok yirmi üyeden oluşur. Kurulun en az üç üyesi özel sektör temsilcilerinden seçilir. Danışma Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir.
+(2) Danışma Kurulu yılda iki kez Müdürün çağrısı ile olağan olarak toplanır ve toplantılara Müdür başkanlık eder. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü toplantıya çağırabilir.
