@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6463/1",
+  "decision_date": "2016-09-01",
+  "title": "OMV Petrol Ofisi A.Ş.’nin; 08/04/2005 tarihli ve DEP/474-9/10367 sayılı depolama lisansı kapsamında “Siteler Mah. Petrol Ofisi Cad. No:10 ALİAĞA – İZMİR” adresinde faaliyette bulunan tesisine ilişkin depolama tarifesi kapsamında uygulanan ödeme koşulları",
+  "resmi_gazete_date": "2016-09-10",
+  "resmi_gazete_number": "29827",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qiEAFdJgO1w=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qiEAFdJgO1w="
+  ],
+  "source_sha256": "a25404ba2cff1a0b86fef36449a218f5e159f867ffcb0f091c38a3c11a2b6112",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-09-01",
+  "law_text_complete": true
+}
