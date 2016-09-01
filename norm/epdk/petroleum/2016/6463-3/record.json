@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6463/3",
+  "decision_date": "2016-09-01",
+  "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş.’nin; PİL/1347-3/23163 sayılı iletim lisansı kapsamında Ataş Karaduvar Mevkii 33020 P.K. 37 Akdeniz - MERSİN adresinde faaliyette bulunan Karaduvar İletim Tesisine ilişkin iletim tarifesin",
+  "resmi_gazete_date": "2016-09-10",
+  "resmi_gazete_number": "29827",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Pf/4ZYhHeOA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Pf/4ZYhHeOA="
+  ],
+  "source_sha256": "591b2d24f54c1e9f5508ee63e89e0f75c60a92b48b9b379b13cbdb35a7180acb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-09-01",
+  "law_text_complete": true
+}
