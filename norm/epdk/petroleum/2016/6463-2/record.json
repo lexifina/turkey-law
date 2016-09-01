@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6463/2",
+  "decision_date": "2016-09-01",
+  "title": "OMV Petrol Ofisi A.Ş.’nin; 8/4/2005 tarihli ve DEP/474-4/10362 sayılı depolama lisansı kapsamında “Yalıcak Beldesi Merkez Mah. Rize Cad. No:233 TRABZON” adresinde faaliyette bulunan tesisine ilişkin onaya tabi depolama tarifesi kapsamında uygulanan ödeme koşulları",
+  "resmi_gazete_date": "2016-09-10",
+  "resmi_gazete_number": "29827",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NquYivL59hI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NquYivL59hI="
+  ],
+  "source_sha256": "109959082ae9f69939d27c53b15d161e426e4f6c8a7bd0386abaf27b6b93f24d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-09-01",
+  "law_text_complete": true
+}
