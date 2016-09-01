@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6744",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Venezuela Bolivar Cumhuriyeti Hükümeti Arasında Enerji Alanında İşbirliği İle İlgili Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-09-01",
+  "gazette_issue": "29818",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160901-3.htm",
+  "source_sha256": "1fb8df876ba53d3ea6a6bcfdbec666b67a02a8888f6e42d6fef021c89b9cc546",
+  "text_sha256": "f13173b6e0589b9c38e09a002410b5e2c4da664804c446a18e9c42d35cb081ca",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/09/01/29818-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160901-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
