@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-09-01",
+  "issue": "29818",
+  "edition": "mükerrer 2",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KANUN HÜKMÜNDE KARARNAMELER",
+  "title": "KHK/673 Olağanüstü Hal Kapsamında Bazı Tedbirler Alınması Hakkında Kanun Hükmünde Kararname",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160901M2-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160901M2.htm",
+  "index_sha256": "dff6137f02e9c5b59771d47a518527b106060c9fc7141ea5efc3f8de921e65a3",
+  "index_header": "1 Eylül 2016 ... 29818 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160901M2.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
