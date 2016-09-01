@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.22815",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BİLİMSEL VE TEKNOLOJİK ARAŞTIRMA KURUMU FİKRÎ MÜLKİYET HAKLARININ YÖNETİMİNE VE TEKNOLOJİ TRANSFERİNE İLİŞKİN YÖNETMELİK",
+  "number": "22815",
+  "issuer": "TÜBİTAK Başkanı",
+  "issuer_slug": "tubitak-baskani",
+  "path": "regulation/tubitak-baskani/2016/22815",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22815&MevzuatTertip=5",
+  "source_sha256": "ac0f86b1e2cd86a09a39c93d8ec54e504eae50e41b579b6d9d848bf317acb446",
+  "source_bytes": 77306,
+  "published": "2016-09-01",
+  "gazette": "29818",
+  "in_force": "2016-09-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.09.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4009,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
