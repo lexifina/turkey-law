@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6742",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Japonya Hükümeti Arasında Türkiye Cumhuriyetinde Türk-Japon Bilim ve Teknoloji Üniversitesinin Kurulmasına Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-09-01",
+  "gazette_issue": "29818",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160901-1.htm",
+  "source_sha256": "e184f1a14a70649394bed9c3ab88ef1010dfb5452f17fc89c939a27e332faaa3",
+  "text_sha256": "0518a37ff18ce3e826bc1a55519affb1238ebaef7af93cbc565068d15c39fc86",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/09/01/29818-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160901-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
