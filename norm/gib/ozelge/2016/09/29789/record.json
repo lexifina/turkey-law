@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-140[123-2014/166]-130939",
+  "source_id": 29789,
+  "date": "2016-09-02",
+  "title": "Murabaha Sözleşmesine istinaden yapılacak işlemlerin damga vergisi, harç ve katma değer vergisinden istisna olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/29789",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "abc310398cd278fb1f9bff1cd882708aa5b59c4b34edb49f118d6ac705a42c24",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
