@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-120[89-2015-1]-73",
+  "source_id": 24336,
+  "date": "2016-09-02",
+  "title": "AR-GE Faaliyetlerinde Gelir Vergisi Stopajı Teşviki ve Damga Vergisi İstisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24336",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "7837e45509043d8db504c6d47693924d2cbca9c86e3bd5358f4484d6db3915a6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
