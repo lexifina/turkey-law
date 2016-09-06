@@ -1,0 +1,23 @@
+{
+  "number": "meeting-09-06",
+  "number_as_published": "meeting-09-06",
+  "year": 2016,
+  "title": "06 EYLÜL 2016 TARİHLİ MECLİS KARARI",
+  "decision_date": "2016-09-06",
+  "source": "https://iznik.bel.tr/tr/meclis-kararlari?page=7",
+  "official_document": "https://iznik.bel.tr/tr/meclis-karari/06-eylul-2016-57",
+  "source_sha256": "ec062b8246f65f4fff7edb980efd0d5213ff229903ce1ba4b161c88703a9f48a",
+  "issuer": "İznik Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2016-09-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06 EYLÜL 2016; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06 EYLÜL 2016 TARİHLİ MECLİS KARARI",
+  "record_scope": "one official file of council decisions (meeting)"
+}
