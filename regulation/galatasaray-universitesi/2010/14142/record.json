@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-07-24",
+      "24.07.2010",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2016-09-06",
+      "RG-6/9/2016-29823",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-09-06",
+      "6/9/2016",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-6/9/2016-29823",
+  "first_law": null,
+  "gazette": "27651",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-09-06",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Galatasaray Üniversitesi",
+  "issuer_slug": "galatasaray-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/galatasaray-universitesi/2010/14142",
+  "published": "2010-07-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14142&MevzuatTertip=5",
+  "source_bytes": 49844,
+  "source_id": "8.5.14142",
+  "source_sha256": "60bbfa065ef43b2b7b8a31ace342e0d709e25c627bb49649e2780106723f4505",
+  "text_status": "current-consolidated",
+  "title": "GALATASARAY ÜNİVERSİTESİ YÜKSEKÖĞRETİME HAZIRLIK SINIFLARI ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 194,
+  "word_count": 2303
+}

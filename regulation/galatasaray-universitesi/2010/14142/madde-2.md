@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Galatasaray Üniversitesinde Fransızca Dil Hazırlık Sınıfına ve yalnızca Galatasaray Üniversitesi Fen Edebiyat Fakültesi Karşılaştırmalı Dilbilim ve Uygulamalı Yabancı Diller Bölümü Fransız Dili ve Edebiyatı Programı öğrencilerinin devam etmekle yükümlü oldukları İleri Fransızca Hazırlık Sınıfına öğrenci kabulü ile bu sınıflarda yapılan sınavlar, değerlendirme ve öğretimin planlamasına ilişkin hükümleri kapsar.
