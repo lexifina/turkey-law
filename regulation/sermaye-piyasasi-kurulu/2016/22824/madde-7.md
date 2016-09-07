@@ -1,0 +1,4 @@
+Hak sahipliğinin tespiti
+MADDE 7 – (1) MKK, ihraççı tarafından teslim edilen sermaye piyasası araçlarının bilgilerini, nezdindeki bilgilerle teyit eder ve hak sahipliği ve ödeme tutarlarının tespitinde dikkate alınmak üzere YTM’ye iletir.
+(2) Sermaye piyasası aracının aslının ibraz edilemediği veya hak sahipliğinin tereddüde yer vermeyecek şekilde tespit edilemediği hallerde, ödeme yapılabilmesi için YTM ilgililerden mahkeme kararı talep edebilir.
+(3) Fiziki sermaye piyasası araçlarının zayi olması nedeniyle mahkemeden alınan iptal kararı veya sermaye piyasası aracının aslının ibrazı üzerine talepte bulunan başvuru sahibine bir kez ödeme yapıldıktan sonra, aynı sermaye piyasası aracı için başka bir başvuru sahibi tarafından talepte bulunulması halinde YTM tarafından ikinci bir ödeme yapılmaz. İkinci başvuru sahibinin ilk ödeme yapılan kişiye karşı genel hükümlerden kaynaklanan hakları saklıdır.

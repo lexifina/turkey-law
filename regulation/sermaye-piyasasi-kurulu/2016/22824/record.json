@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.22824",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "6362 SAYILI SERMAYE PİYASASI KANUNUNUN 13 ÜNCÜ MADDESİNİN DÖRDÜNCÜ FIKRASININ KISMEN İPTALİ ÜZERİNE YATIRIMCI TAZMİN MERKEZİ TARAFINDAN YATIRIMCILARA YAPILACAK ÖDEMELERE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "22824",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "issuer_slug": "sermaye-piyasasi-kurulu",
+  "path": "regulation/sermaye-piyasasi-kurulu/2016/22824",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22824&MevzuatTertip=5",
+  "source_sha256": "6c9972b7825bcf666e8ac5d09d0f02c188ceb343e2f749d2e3386bbe056e73ff",
+  "source_bytes": 27119,
+  "published": "2016-09-07",
+  "gazette": "29824",
+  "in_force": "2016-09-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.09.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1392,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.22824-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
