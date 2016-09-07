@@ -1,0 +1,2 @@
+Mevcut önlem
+MADDE 6 – (1) 16/10/2014 tarihli ve 29147 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2014/31) ile ÇHC, Malezya ve Hindistan menşeli “diğerleri, poliesterlerden” eşya tanımlı polyester düz ipliklerin ithalinde, işbirliğinde bulunan ve bulunmayan firmalar için sırasıyla 0,15/0,17 ABD Doları/kg dampinge karşı kesin önlem yürürlüğe konulmuştur.
