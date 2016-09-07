@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV. 28-134267",
+  "source_id": 32437,
+  "date": "2016-09-07",
+  "title": "2309.90 tarife alt pozisyonunda sınıflandırılan premiks olarak adlandırılan eşyaların KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32437",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "f276a05c14cb0a99ba1ddba18c1506820b23818400c102e01c5906e95a324d99",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
