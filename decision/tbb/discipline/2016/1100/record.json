@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1100",
+  "date": "2016-09-08",
+  "title": "T. 8.09.2016 E. 2016/382 K. 2016/606",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1100",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=4&yil=2016",
+  "listing_sha256": "d7189397cc74ec8d20c6888d06c00b967609f7202e243f06fe52d0b2dc62a0d0",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
