@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[10-2015/134]-135663",
+  "source_id": 34222,
+  "date": "2016-09-08",
+  "title": "Yüksek öğrenim kurumunda yürütülen Ar-Ge faaliyetinde sözleşmeli statüsünde çalışan yabancı uyruklu personelin 5746 sayılı Kanunda yer alan teşviklerden yararlanıp yararlanamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/34222",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "9574c1cc1f4cc475a16a64f3a14591d0f16a3ad9799121c80fdd2d33a4a00f13",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
