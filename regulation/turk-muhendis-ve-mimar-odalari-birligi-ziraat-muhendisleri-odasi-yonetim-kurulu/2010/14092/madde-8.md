@@ -1,0 +1,2 @@
+Bilirkişi seçiminde yetki
+MADDE 8 – (1) OYK, 2942 Sayılı Kamulaştırma Kanununun 15 inci maddesi gereğince kamulaştırma davalarında görevlendirilecek bilirkişiler ile mahkeme ve diğer kamu kuruluşları, gerçek ve tüzel kişiler tarafından yapılacak talep üzerine görevlendirilecek bilirkişileri bu Yönetmelik hükümlerine göre seçer. OYK bu yetkisini kullanırken, şube ve temsilcilik görüşlerini, kendi görev alanları ile sınırlı olmak üzere dikkate alır.
