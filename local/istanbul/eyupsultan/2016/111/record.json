@@ -1,0 +1,22 @@
+{
+  "number": "111",
+  "number_as_published": "2016/111",
+  "year": 2016,
+  "title": "Eyüp İlçesi, Odayeri Köyü 1/1000 ölçekli plan çalışması",
+  "decision_date": "2016-09-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2016-eylul-ayi-meclis-kararlari/744",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2016-111/747",
+  "source_sha256": "3386ebf1c1a25985269d729b8d182cf9ce381e572217fdd6ba58a8e3e9a7e387",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2016-09-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.09.2016 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "ec6a0531c8cd3242de8dc940704c23e1abf19b1e3ddbbaed35462e0ca57e6d57"
+}
