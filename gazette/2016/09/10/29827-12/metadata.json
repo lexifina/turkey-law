@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-09-10",
+  "issue": "29827",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Beykent Üniversitesi Kadın Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160910-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160910.htm",
+  "index_sha256": "1afe3e8a224ac6e0087b089f973508a76984be1384f4926e2b16b9bb84b2506b",
+  "index_header": "10 Eylül 2016 ... 29827 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160910.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
