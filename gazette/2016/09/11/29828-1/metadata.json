@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-09-11",
+  "issue": "29828",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Erzincan Üniversitesi Ön Lisans, Lisans Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160911-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160911.htm",
+  "index_sha256": "cd710aee4893ef0e05862dd1bd665aca79ac5dba7051cbc7b60a1bc2aab60b2d",
+  "index_header": "11 Eylül 2016 ... 29828 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160911.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
