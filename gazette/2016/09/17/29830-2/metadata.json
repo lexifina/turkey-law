@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-09-17",
+  "issue": "29830",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Okan Üniversitesi Sağlık Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160917-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160917.htm",
+  "index_sha256": "3aae0a4920016d685b6bfd42d2e9a2ce0017bfdaf187a9660ba7b3a7717f6e22",
+  "index_header": "17 Eylül 2016 ... 29830 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160917.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
