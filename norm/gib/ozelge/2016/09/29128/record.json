@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.1-137860",
+  "source_id": 29128,
+  "date": "2016-09-19",
+  "title": "Türkiyede faaliyette bulunan firmanın ürünlerinin yurt dışında satışının artırılması karşılığında ödenen mali destek adı altında yapılan ödemenin KDV'ye tabi olup olmadığı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29128",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "1150428576dad77ea62ba75722349ac41a24487361d8f78dce724a3f35d0351c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
