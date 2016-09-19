@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-KDV.13-137870",
+  "source_id": 32436,
+  "date": "2016-09-19",
+  "title": "2309.90.96.90.13, 2309.90.96.90.19, 2309.90.41.00.00 GTİP numarasında sınıflandırılan premiks ve tamamlayıcı yem olarak adlandırılan eşyaların KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32436",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "b560d7874ad2cc6138f5b14c7083d78b42322446b4b14c2d813224fa93409e5e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
