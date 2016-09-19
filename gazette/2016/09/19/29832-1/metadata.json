@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-09-19",
+  "issue": "29832",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Fatih Sultan Mehmet Vakıf Üniversitesi Biyomedikal Elektronik Tasarım Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160919-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160919.htm",
+  "index_sha256": "f6d959cdff3722aaf54f373112999061e6f8281caff1784ed83ec06a6e642a2d",
+  "index_header": "19 Eylül 2016 ... 29832 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/09/20160919.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
