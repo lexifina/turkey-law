@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "847",
+  "decision_date": "2016-09-19",
+  "title": "MEC.KAR. ( Yenişehir İlçesi, Bahçe Mahallesi,",
+  "listed_as": "847 MEC.KAR. ( Yenişehir İlçesi, Bahçe Mahallesi,",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/847-mec-kar----yenisehir-ilcesi-bahce-mahallesi-324-ada-426-427-428-429-430-431-ve-432-no-lu-parseller-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk13-19-eylul-2016-meclis-kararlari",
+  "listing_sha256": "6b95c4889adfc18dc79f9fb215d70156b9acf237035e0959dea28b6710368bac",
+  "meeting_title": "MK13-19 EYLÜL 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
