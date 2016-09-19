@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-175.01[8-2015/32]-432",
+  "source_id": 37051,
+  "date": "2016-09-19",
+  "title": "Nafaka geliri bulunması halinde indirimli emlak vergisi oranı uygulamasından yararlanılıp yararlanılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37051",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "fe2c377a41cf70d7cc0cb905a523e9eb0c88464c3e07bb6cf73a8a6dfb9a063d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
