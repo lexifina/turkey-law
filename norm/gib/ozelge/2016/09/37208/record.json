@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-175[02/12-2016]-16622",
+  "source_id": 37208,
+  "date": "2016-09-20",
+  "title": "Alışveriş merkezi içinde yer alan görsellerde ilan ve reklam vergisi uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37208",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "461bfdf15f2e62ce80108fb11e2536fa23629777fcb8cbb7653d36b072495b3c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
