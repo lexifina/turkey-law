@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.22854",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK STANDARDLARI ENSTİTÜSÜNÜN TIBBİ CİHAZ YÖNETMELİĞİ VE VÜCUT DIŞINDA KULLANILAN (İN VİTRO) TIBBİ TANI CİHAZLARI YÖNETMELİĞİ KAPSAMINDA ONAYLANMIŞ KURULUŞ OLARAK ATAMASININ YENİLENMESİNE DAİR TEBLİĞ",
+  "number": "22854",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "path": "teblig/2016/22854",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22854&MevzuatTertip=5",
+  "source_sha256": "6a00326ac92887aac8adfcb1ebc343a5257b2817dccd216c593d6f2a2fca4531",
+  "source_bytes": 8855,
+  "published": "2016-09-20",
+  "gazette": "29833",
+  "in_force": "2016-09-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.09.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 194,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.22854-Ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
