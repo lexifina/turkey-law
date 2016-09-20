@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.22853",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (SERBEST DOLAŞIMA GİRİŞ) (SERİ NO: 15)",
+  "number": "22853",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2016/22853",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22853&MevzuatTertip=5",
+  "source_sha256": "2b72e1447883e6eb86db01209626334f0de8e2d2fd41959b3acd90eb08505518",
+  "source_bytes": 16563,
+  "published": "2016-09-20",
+  "gazette": "29833",
+  "in_force": "2016-09-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.09.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 661,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
