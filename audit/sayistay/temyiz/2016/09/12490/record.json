@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42175",
+  "decision_date": "2016-09-20",
+  "source_id": 12490,
+  "chamber": "6",
+  "file_number": "40390",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12490/",
+  "source_sha256": "7c813e0dd9c3458fa90c167f4dcc3c1f019bb566040c26e46950ed2f11e68230",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
