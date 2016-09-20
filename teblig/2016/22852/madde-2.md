@@ -1,0 +1,1 @@
+MADDE 2 – (1) 22/6/2011 tarihli ve 27972 sayılı Resmî Gazete’de yayımlanan IEP Uluslararası Enerji Petrol Gözetim, Sertifikasyon ve Teknik Hizmetler Organizasyonu Ticaret Limited Şirketinin Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (SGM: 2011/5) yürürlükten kaldırılmıştır.

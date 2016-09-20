@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.22852",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "IEP ULUSLARARASI ENERJİ PETROL GÖZETİM, SERTİFİKASYON VE TEKNİK HİZMETLER ORGANİZASYONU TİCARET LİMİTED ŞİRKETİNİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ",
+  "number": "22852",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2016/22852",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22852&MevzuatTertip=5",
+  "source_sha256": "11cb8cd3d4c4a62b68487d6613bfbcbcdd0269b26795cab77c59df8b2a35a60d",
+  "source_bytes": 7828,
+  "published": "2016-09-20",
+  "gazette": "29833",
+  "in_force": "2016-09-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.09.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 122,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.22852-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,1 @@
+MADDE 1 – (1) Avrupa Komisyonu tarafından 2284 kimlik kayıt numarası tahsis edilmiş olan IEP Uluslararası Enerji Petrol Gözetim, Sertifikasyon ve Teknik Hizmetler Organizasyonu Ticaret Limited Şirketinin Ek-1’de yer alan teknik düzenleme ve uygunluk değerlendirme modüllerinde onaylanmış kuruluş olarak görevlendirilmiştir.
