@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "118",
+  "decision_date": "2016-09-20",
+  "source_id": 23616,
+  "chamber": "7",
+  "ilam_number": "107",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23616/",
+  "source_sha256": "ce4635362c8b12ca94d9299b70c4e849771c938bbb5df264edbcae4f179b56a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
