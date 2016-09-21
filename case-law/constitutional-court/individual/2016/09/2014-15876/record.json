@@ -1,0 +1,20 @@
+{
+  "applicant": "I.I.",
+  "application_date": "2014-10-10",
+  "application_number": "2014/15876",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2016-09-21",
+  "id": "fdb6165b-9e0d-a686-4b93-6dde63b663db",
+  "in_force": "2016-09-21",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmZkYjYxNjViLTllMGQtYTY4Ni00YjkzLTZkZGU2M2I2NjNkYg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "d8104e2036509134c5a2ef344c3f57fe864b11470ced5989f6ba24a68597670e",
+  "version_label": "as-enacted"
+}
