@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.22856",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SEBZE VE MEYVELERİN TOPTAN VE PERAKENDE TİCARETİNDE KULLANILACAK KÜNYELERE İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ",
+  "number": "22856",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2016/22856",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22856&MevzuatTertip=5",
+  "source_sha256": "6ba31efc08af5ad018a8b40735608b56987243ba0f5589dbd20280398cd8afee",
+  "source_bytes": 22882,
+  "published": "2016-09-21",
+  "gazette": "29834",
+  "in_force": "2016-09-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.09.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 802,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.22856-Ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
