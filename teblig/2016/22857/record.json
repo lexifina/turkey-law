@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.22857",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AFET VE ACİL DURUM YÖNETİM MERKEZLERİ YÖNERGELERİNİN HAZIRLANMASINA DAİR TEBLİĞ",
+  "number": "22857",
+  "issuer": "Başkanlığın bağlı olduğu Başbakan Yardımcısı",
+  "path": "teblig/2016/22857",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22857&MevzuatTertip=5",
+  "source_sha256": "b286ad332b3b1125be535d71c78f17b294f1380b8f9174fb2db056176b30c448",
+  "source_bytes": 23283,
+  "published": "2016-09-22",
+  "gazette": "29835",
+  "in_force": "2016-09-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.09.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 928,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.22857-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
