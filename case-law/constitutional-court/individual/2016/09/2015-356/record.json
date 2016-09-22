@@ -1,0 +1,23 @@
+{
+  "applicant": "TÜRKİYE İŞ BANKASI A.Ş. (3)",
+  "applicant_form": "entity",
+  "application_date": "2015-01-05",
+  "application_number": "2015/356",
+  "database_publication_date": "2017-12-19",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2016-09-22",
+  "gazette_number": null,
+  "history_type": "metadata",
+  "id": "e22c971a-b29a-3c72-da94-a8de86ec86fe",
+  "in_force": "2016-09-22",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "law_text_complete": false,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmUyMmM5NzFhLWIyOWEtM2M3Mi1kYTk0LWE4ZGU4NmVjODZmZQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_listing": "evidence/list/BireyselBasvuru-2016-01-01-2016-12-31-p2.json (official API answer, read 2026-11-15)",
+  "source_listing_sha256": "980a1b4cabc9c557e2f0ecdd186911a2698080689eb3674149c392d7dbbd178d",
+  "text_status": "metadata-only: official database listing fields; the decision text is on the linked official page, not transcribed"
+}
