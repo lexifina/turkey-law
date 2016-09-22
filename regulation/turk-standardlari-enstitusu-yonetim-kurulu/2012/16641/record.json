@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.16641",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TSE UZMANLIĞI YÖNETMELİĞİ",
+  "number": "16641",
+  "issuer": "Türk Standardları Enstitüsü Yönetim Kurulu",
+  "issuer_slug": "turk-standardlari-enstitusu-yonetim-kurulu",
+  "path": "regulation/turk-standardlari-enstitusu-yonetim-kurulu/2012/16641",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16641&MevzuatTertip=5",
+  "source_sha256": "30cc4bf4db871371f619d242a6a51e4517a5de9977c9564d9afb97644d73c74d",
+  "source_bytes": 69339,
+  "published": "2012-09-28",
+  "gazette": "28425",
+  "in_force": "2016-09-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/9/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-09-22",
+      "RG-22/9/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-09-22",
+      "22/9/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3553,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
