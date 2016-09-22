@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.22915",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ELEKTRİK TİCARET VE TAAHHÜT ANONİM ŞİRKETİ ANA STATÜSÜ",
+  "number": "22915",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2016/22915",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22915&MevzuatTertip=5",
+  "source_sha256": "fa3165bb2933b5151b956bfdd5e35fe52f557fe1781eb83cc5045b6999a8e58b",
+  "source_bytes": 56193,
+  "published": "2016-09-22",
+  "gazette": "29835",
+  "in_force": "2016-09-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.09.2016)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3055,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
