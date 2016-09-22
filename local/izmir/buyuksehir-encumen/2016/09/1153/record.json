@@ -1,0 +1,22 @@
+{
+  "number": "1153",
+  "number_as_published": "1153",
+  "year": 2016,
+  "title": "Encümen kararı 2016/1153",
+  "decision_date": "2016-09-22",
+  "source": "https://www.izmir.bel.tr/tr/Encumen/TariheGoreKararGetir?draw=1&start=0&length=500&yil=2016&ay=&gun=&txtSozcuk=",
+  "official_document": null,
+  "source_sha256": "8e3d4e72fd0730b26b94a70b6be02597d176a02c80a6a82f8e3cdd38c3cf0b03",
+  "issuer": "İzmir Büyükşehir Belediye Encümeni",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2016-09-22",
+  "in_force_basis": "Decision date as printed in the official council listing: 22/09/2016; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.izmir.bel.tr/tr/EncumenKararlari/50"
+}
