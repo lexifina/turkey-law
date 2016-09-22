@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "292",
+  "decision_date": "2016-09-22",
+  "source_id": 20723,
+  "chamber": "3",
+  "ilam_number": "455",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20723/",
+  "source_sha256": "a128f91426dca38d971b71c70eff066eec6921ebd51d7f00c6a53c6058eb4d62",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
