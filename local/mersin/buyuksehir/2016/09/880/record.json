@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "880",
+  "decision_date": "2016-09-23",
+  "title": "MEC.KAR. ( Form AVM Kavşağı ile Adnan Menderes",
+  "listed_as": "880 MEC.KAR. ( Form AVM Kavşağı ile Adnan Menderes",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/880-mec-kar---form-avm-kavsagi-ile-adnan-menderes-bulvari-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk12-23-eylul-2016-meclis-kararlari",
+  "listing_sha256": "f0cdeac63ec18292fdf35daead3a4831273af1a2b9e12ed06d435d4db0e656a9",
+  "meeting_title": "MK12-23 EYLÜL 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
