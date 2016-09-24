@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2016-09-24",
+      "24.09.2016",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29837",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-09-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Harran Üniversitesi",
+  "issuer_slug": "harran-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/harran-universitesi/2016/22866",
+  "published": "2016-09-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=22866&MevzuatTertip=5",
+  "source_bytes": 23811,
+  "source_id": "8.5.22866",
+  "source_sha256": "3dbe19505a74374b3b9a29d9687438eebaa6ec69cb393f8f11220d9fdb089b87",
+  "text_status": "as-enacted",
+  "title": "HARRAN ÜNİVERSİTESİ KADIN SORUNLARI UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 200,
+  "word_count": 889
+}
