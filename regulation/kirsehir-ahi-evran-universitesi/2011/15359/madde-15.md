@@ -1,0 +1,3 @@
+Üst yarıyıldan ders alma
+MADDE 15 – (Değişik:RG-3/9/2013-28754)(2)
+(1) Üst yarıyıldan ders/dersler almak, sadece ders geçme esası uygulanan fakülte/yüksekokullarda mümkündür. Üstten ders/dersler alma işlemi üçüncü yarıyılda başlar. Öğrenci, ancak danışmanının olumlu görüşüyle, üst yarıyıldan ders/dersler alabilir. Bunun için, öğrencinin; önceki yarıyıllardan başarısız dersi olmaması ve GANO’nun 3.00 ve üstünde olması şarttır. Üstten alınacak ders/derslerin kredi tutarı da, bu Yönetmeliğin 14 üncü maddesinin üçüncü fıkrası kapsamındadır. Öğrenci, üst yarıyıldan ders/dersler alarak, normal öğrenim süresinden daha kısa sürede mezun olabilir.

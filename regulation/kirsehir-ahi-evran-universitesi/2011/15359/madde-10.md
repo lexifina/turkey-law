@@ -1,0 +1,4 @@
+Kayıt yenileme
+MADDE 10 – (1) (Değişik:RG-3/9/2013-28754)(2) Her öğrencinin, akademik takvime göre yarıyıl/yıl başında katkı payı veya öğrenim ücretini ödeyerek ve bu Yönetmeliğin 11 inci, 12 nci, 13 üncü ve 14 üncü maddeleri çerçevesinde ders alma işlemlerini tamamlayarak kaydını yenilemesi gerekir. Belirtilen sürede kaydını yenilemeyen öğrenci, o yarıyıl/yılda derslere ve sınavlara giremez ve bu süre, öğrenim süresinden sayılır.
+(2) Öğrencinin, ilgili yönetim kurulunca kabul edilmiş bir mazereti yoksa kaydını bizzat yenilemesi gerekir. Öğrenci, kayıt işlemlerinin yürütülmesinden sorumludur.
+(3) Mazereti sebebiyle kaydını belirlenen süre içinde yenilemeyen öğrenci, mazereti ilgili yönetim kurulunca kabul edildiği takdirde, akademik takvimde belirlenen ek süre içinde kaydını yenileyebilir.

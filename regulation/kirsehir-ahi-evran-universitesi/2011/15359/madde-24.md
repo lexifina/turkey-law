@@ -1,0 +1,5 @@
+Yaz dönemi staj sınavı
+MADDE 24 – (1) (Değişik ilk cümle:RG-3/9/2013-28754)(2) İlgili fakülte/yüksekokullar, kurullarının kararı ve Senatonun onayı ile öğrencilerine müfredat programında yer alan derslerde belirtilen süre kadar yaz dönemi stajı yaptırabilirler. Staj sonunda, staj yapılan kurum/kuruluş öğrenciye ilişkin hazırladığı değerlendirme formunu doldurur ve onaylar. Bu form, ilgili birime resmi yolla gönderilir. Stajı bitiren öğrenciler de staj dosyasını belirtilen süre içerisinde ilgili birime teslim eder.
+(2) Stajı yapılan ilgili dersin öğretim elemanı, öğrencinin staj dosyasını bölüm/program öğretim elemanlarından oluşan en az iki öğretim elemanı ile inceleyerek ve staj yapılan kurum/kuruluştan gönderilen değerlendirme formunu dikkate alarak gerçekleştirecekleri mülakat sınavı sonucunda yaz stajı başarı notunu belirlerler.
+(3) Staj değerlendirme sonucu, ders öğretim elemanı tarafından ilgili birim yönetimine başarılı veya başarısız olarak bildirilir.
+(4) Stajın bütünlemesi olmaz. Stajda başarılı olamayan öğrenciler, bu stajları müteakip yıl tekrarlamak zorundadır. Aksi takdirde diğer derslerdeki başarı durumu ne olursa olsun mezun olamaz.

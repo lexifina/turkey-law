@@ -1,0 +1,3 @@
+Sınav sonuçlarının ilanı ve sınav notuna itiraz
+MADDE 31 – (1) Her sınavın sonuç ve belgeleri, akademik takvimde belirtildiği gün içinde ilgili dekanlığa/müdürlüğe teslim edilir. Sınav sonuçları Rektörlüğün belirlediği yöntemle ilgili birimlerce ilan edilir.
+(2) Öğrenci, sınav sonuçlarına maddi hata sebebiyle itirazını, sınav sonuçlarının ilanından itibaren yedi gün içinde yazılı olarak dekanlığa/müdürlüğe yapabilir. Dekan/müdür, itirazı, ilgili bölüm/anabilim/ana sanat dalı başkanına veya dönem koordinatörüne incelettirir. Sonuç on gün içinde dekanlığa/müdürlüğe bildirilir. Tespit edilen maddî hata ilgili yönetim kurulunca düzeltilir.

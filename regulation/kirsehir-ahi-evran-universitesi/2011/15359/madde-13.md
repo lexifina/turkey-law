@@ -1,0 +1,2 @@
+Sınıf geçme esası ve işleyişi
+MADDE 13 – (1) Tıp Fakültesinde eğitim-öğretim, sınıf geçme esasına göre yapılır. Bu fakültede dersler, ders kurulu (grubu), uygulama, staj gibi eğitim-öğretim yılının başında bütün olarak verilir. Kaydını yenileyen öğrenci o yıl programının bütün derslerine kaydolmuş sayılır. Öğrenci, o yıla ait derslerin birinden dahi başarısız olursa, ertesi yılda, bir üst sınıftan hiçbir ders alamaz ve sadece başarısız olduğu dersi/dersleri tekrarlar. Ancak bunları başardıktan sonra, üst sınıfa geçer.
