@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2016/48",
+  "meeting_date": "2016-09-28",
+  "meeting_date_as_published": "28.9.2016",
+  "decision_no": "26",
+  "source_id": 8535,
+  "title": "RTÜK kararı 2016/48-26",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/8535",
+  "source_sha256": "35dc1e41c404f0c7d9d677f044d0519e682ca13464ea8f26284fcfe2fbba1ac8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (4 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
