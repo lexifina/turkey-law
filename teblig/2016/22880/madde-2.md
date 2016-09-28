@@ -1,0 +1,1 @@
+MADDE 2 – (1) 13/11/2011 tarihli ve 28111 sayılı Resmî Gazete’de yayımlanan Türk Standartları Enstitüsünün Otomatik Olmayan Tartı Aletleri Yönetmeliği (2009/23/AT-eski 90/384/AT) Kapsamında Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (Tebliğ No: MSG-2011/18) yürürlükten kaldırılmıştır.
