@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6507/6",
+  "decision_date": "2016-09-29",
+  "title": "Elektrik Dağıtım Şirketleri İle Görevli Tedarik Şirketleri Çağrı Merkezleri Hizmet Kalitesi Standartlarına İlişkin usul ve Esaslar",
+  "resmi_gazete_date": "2016-10-22",
+  "resmi_gazete_number": "29865",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QMHuvX5GCEU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QMHuvX5GCEU="
+  ],
+  "source_sha256": "d8713ddb14a56f60629b9b498b202cc5529b186488a58039a63edc0a52736599",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-09-29",
+  "law_text_complete": true
+}
