@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130-246525",
+  "source_id": 32434,
+  "date": "2016-09-29",
+  "title": "Kuru fasülye, nohut, mercimek, mısır, pirinç ve çeltik ürünlerinin elek altı, kepek, kırık ve kabuk olarak yem fabrikalarına satışının KDV'den istisna olup olmadığı ve KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32434",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "bac62aa144e8c1fc0d8b4946b352d1f9936754d913f07e06358763774b5a5489",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
