@@ -1,0 +1,9 @@
+…. Belediyesi tarafından 22.05.2015 tarihinde …. Ltd Şti. ihale edilen  “Başkanlık Binası Protokol Girişi, Salonu ve Binanın Giriş Çevre Düzenlenmesi İşi”nde  projesi gereği yapılması gereken imalatların yapılmamasına rağmen işin geçici kabulünün tamamlandığı, ancak geçici kabulden sonra tamamlanan imalatlar için yüklenici firmadan sözleşmesinde belirtilen gecikme cezasının kesilmediği, bunun sonucunda da kamu zararına neden olunduğu iddiası ile düzenlenen sorgu üzerine sorumlular tarafından tahsilat bildirmiş ve Denetçi de tahsilatın ilamda gösterilmesini istemişse de;
+
+Yapım İşleri Genel Şartnamesinin “Geçici Kabul” başlıklı 41’inci maddesinin 4’üncü fıkrasında “Kabul komisyonunun oluşturulması ve işyerine gönderilebilmesi, yapılan işin kusurlu ve eksik kısımlarının bedelleri toplamının işin sözleşme bedelinin yüzde beşinden fazla olmamasına bağlıdır. Bu oranı geçmeyen kusur ve eksiklikler, aynı zamanda işin idareye teslimine ve kullanılmasına ve/veya işletilmesine engel olmayacak ve herhangi bir tehlikeye meydan vermeyecek nitelikte olmalıdır.” hükmü yer almaktadır.
+
+Denetçi tarafından 13.01.2016 tarihinde mahallinde yapılan fiili fiziki denetimler sonucunda bazı imalatların eksik yapıldığının tespit edildiği, ancak gönderilen savunmalardan eksik imalatların sözleşme bedelinin yüzde beşinden az olduğu ve işin idareye teslimine engel olmayacak nitelikte olduğu görülmüştür.
+
+Sözleşmesine göre iş bitim tarihi 13.10.2015 olan ve geçici kabulü de 09.10.2015 tarihinde yapılan işte  yüzde beşin  altındaki bir imalatın sonradan tamamlatılmasında işin gecikmiş olduğu anlamına gelmez.
+
+ Bu itibarla, …. Ltd Şti. yüklenimindeki “Başkanlık Binası Protokol Girişi, Salonu ve Binanın Giriş Çevre Düzenlenmesi İşi” sözleşmesinde öngörülen sürede tamamlandığından konu hakkında ilişilecek husus bulunmadığına ve yersiz tahsil edilen ….. TL’nin de ….Ltd. Şti.’ne iadesine oy birliğiyle karar verildi.
