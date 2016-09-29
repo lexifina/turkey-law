@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6505",
+  "decision_date": "2016-09-29",
+  "title": "01/10/2016 tarihinden geçerli olmak üzere, Türkiye Elektrik Ticaret Taahhüt Anonim Şirketi (TETAŞ) tarafından uygulanacak aktif elektrik enerji toptan satış tarifesi",
+  "resmi_gazete_date": "2016-10-01",
+  "resmi_gazete_number": "29844",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HNbWnCzNBg4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HNbWnCzNBg4="
+  ],
+  "source_sha256": "3c88b824285d7c8b94e47d662f6856e4fa01c14315256dcb3b5a1204d4d01b7a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2016-09-29",
+  "law_text_complete": false
+}
