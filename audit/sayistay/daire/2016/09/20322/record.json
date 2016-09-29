@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "368",
+  "decision_date": "2016-09-29",
+  "source_id": 20322,
+  "chamber": "6",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20322/",
+  "source_sha256": "a00b2ded7d3931ec13a50bc0bbc089674db2d5e906853d524ee94e5e4d2b655f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
