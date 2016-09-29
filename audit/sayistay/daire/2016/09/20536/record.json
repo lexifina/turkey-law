@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "367",
+  "decision_date": "2016-09-29",
+  "source_id": 20536,
+  "chamber": "6",
+  "ilam_number": "218",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20536/",
+  "source_sha256": "400e452216ba267a20be6a2987c3c73013b568ed4f2e12e1ff7964c00c9f3ab4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
