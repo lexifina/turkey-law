@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.22883",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (NİHAİ KULLANIM) (SERİ NO: 1)",
+  "number": "22883",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2016/22883",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22883&MevzuatTertip=5",
+  "source_sha256": "2751ae69b621eb795351a65faa5f7c4946dcb7d53681355689f9f168dca730e9",
+  "source_bytes": 23256,
+  "published": "2016-09-29",
+  "gazette": "29842",
+  "in_force": "2016-09-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.09.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1285,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
