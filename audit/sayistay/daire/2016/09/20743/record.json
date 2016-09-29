@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "125",
+  "decision_date": "2016-09-29",
+  "source_id": 20743,
+  "chamber": "7",
+  "ilam_number": "41",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20743/",
+  "source_sha256": "2d84323c88b084bcff2e8053957fbc69a15067e8396656bc3c99b2061ac1feed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
