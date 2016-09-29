@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6506",
+  "decision_date": "2016-09-29",
+  "title": "01/10/2016 tarihinden itibaren geçerli olacak Perakende Elektrik Tarife Tabloları .",
+  "resmi_gazete_date": "2016-10-01",
+  "resmi_gazete_number": "29844",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=L/djJZLho4I=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=L/djJZLho4I=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mlL7zk/th34="
+  ],
+  "source_sha256": "84e9482e6e6c34a1fa26546e7046e5de26efe2446a76f117269d6319ce2e0541",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-09-29",
+  "law_text_complete": true
+}
