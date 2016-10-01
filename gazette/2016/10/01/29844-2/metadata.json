@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-10-01",
+  "issue": "29844",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Devlet Su İşleri Genel Müdürlüğüne İlk Defa Açıktan Atanacak Mühendis Personel Hakkında Sınav ve Atama Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161001-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161001.htm",
+  "index_sha256": "9d6e9b77818491ab648a5e418f64f111d1e53613d96fee7f084fe2291d9c2471",
+  "index_header": "1 Ekim 2016 ... 29844 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161001.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
