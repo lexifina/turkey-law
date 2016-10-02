@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.22898",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BELİRLİ GERİLİM SINIRLARI İÇİN TASARLANAN ELEKTRİKLİ EKİPMAN İLE İLGİLİ YÖNETMELİK (2014/35/AB)",
+  "number": "22898",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2016/22898",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22898&MevzuatTertip=5",
+  "source_sha256": "dc7869795dcc4e4baee1de18f92ac236291d22b35fa714853cde7f327029d46e",
+  "source_bytes": 57771,
+  "published": "2016-10-02",
+  "gazette": "29845",
+  "in_force": "2016-10-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.10.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3142,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.22898-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
