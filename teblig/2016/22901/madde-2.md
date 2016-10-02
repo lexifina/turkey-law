@@ -1,0 +1,1 @@
+MADDE 2 – (1) 25/9/2014 tarihli ve 29130 sayılı Resmî Gazete’de yayımlanan Türk Standardları Enstitüsünün Ölçü Aletleri Yönetmeliği (2004/22/AT) Kapsamında Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (Tebliğ No: MSG-2014/9) yürürlükten kaldırılmıştır.
