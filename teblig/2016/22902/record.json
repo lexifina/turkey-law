@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.22902",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 293)",
+  "number": "22902",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2016/22902",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22902&MevzuatTertip=5",
+  "source_sha256": "dd07a4a2078a867f8a2563ce4d449190bc6a6c77efe345e2c8f1efec88783d56",
+  "source_bytes": 70817,
+  "published": "2016-10-02",
+  "gazette": "29845",
+  "in_force": "2016-10-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.10.2016)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3991,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.22902-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
