@@ -1,0 +1,5 @@
+Madde 13 – (12/6/1979 tarihli ve 2249 sayılı Kanunun hükmüdür.)
+Bu Kanun hükümlerine aykırı olarak ateşli silahlarla bunlara ait mermileri satın alan veya taşıyanlar veya bulunduranlar hakkında bir yıldan üç yıla kadar hapis ve üç bin liradan beş bin liraya kadar ağır para cezası hükmolunur.
+Ateşli silahın, bu Kanunun 12 nci maddesinin 4 üncü fıkrasında sayılanlardan olması ya da silah veya mermilerin sayı veya nitelik bakımından vahim olması halinde beş yıldan sekiz yıla kadar hapis ve yirmibeşbin liradan az olmamak üzere ağır para cezası hükmolunur.
+Bu Kanunun 12 nci maddesinin 4 üncü fıkrasında sayılanlar dışındaki ateşli silahın bir adet olması ve mutat sayıdaki mermilerinin ev veya işyerinde bulundurulması halinde verilecek ceza bir yıldan iki yıla kadar hapis ve beşyüz liradan ikibin liraya kadar ağır para cezasıdır.
+Ateşli silahlara ait mermilerin pek az sayıda bulundurulmasının veya taşınmasının mahkemece vahim olarak takdir edilmemesi durumunda hükmolunacak ceza bir aydan altı aya kadar hapis ve beşyüz liradan ikibin liraya kadar ağır para cezasıdır. (2)

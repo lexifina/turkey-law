@@ -1,0 +1,2 @@
+16 – 3/10/2016 tarihli ve 676 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 6,7.)
+Madde 6 – birinci fıkra - (22/11/1990 tarihli ve 3684 sayılı Kanunun hükmüdür.) Bu Kanun kapsamına giren silahlar için verilen taşıma ve bulundurma ruhsatları yenileme harcı alınmak şarti ile beş yıl için geçerlidir. Ruhsatların veriliş sebeplerinin ortadan kalkması halinde ruhsat sahibi durumu ruhsatı veren makama altı ay içinde bildirmekle yükümlüdür. Aksine hareket edenlere bir daha silah ruhsatı verilmez.

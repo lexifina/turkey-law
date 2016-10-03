@@ -1,0 +1,2 @@
+Madde 14 – (10/7/1953 tarih ve 6136 sayılı Kanunun hükmüdür.)
+Her kim,bu kanun hükümlerine muhalif olarak 4 üncü maddede yazılı olan bıçak ve benzerlerini memlekete sokar,sokmaya teşebbüs eder veya bunların memlekete sokulmasına tavassut eder veya bunları memlekette imal eder veya bir yerden diğer bir yere nakleder veya yollar veya nakletmeye bilerek tavassut ederse altı aydan iki yıla kadar hapis ve 500 liradan 5000 liraya kadar ağır para cezasiyle cezalandırılır.

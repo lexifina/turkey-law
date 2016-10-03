@@ -1,0 +1,3 @@
+Ek Madde 2 – (12/6/1979 tarihli ve 2249 sayılı Kanunun hükmüdür.)
+Bu Kanunda yazılı suçları işleyenler hakkındaki soruşturma ve kovuşturmalar, 3005 sayılı Meşhut Suçların Muhakeme Usulü Hakkındaki Kanunun birinci maddesinin (a) bendindeki yer ve aynı kanunun dördüncü maddesinde yazılı zaman kayıtlarına bakılmaksızın sözü edilen kanun hükümlerine göre yapılır.
+(Değişik: 23/6/1981 - 2478/8 md.) Bu Kanuna göre işlenen suçun, 3005 sayılı Kanun hükümlerine tabi olmayan veya anılan Kanuna tabi olup da fiili imkansızlık nedeni ile suç üstü hükümlerinin uygulanmasına olanak bulunmayan başka bir suçla birlikte işlenmesi halinde birinci fıkra hükmü uygulanmaz.

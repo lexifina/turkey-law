@@ -1,0 +1,1 @@
+Madde 7- fıkra yedi-(23/2/2000 tarihli ve 4534 sayılı Kanunun hükmüdür.) Ateşli silahla işlenen cürümlerden hükümlü bulunanlar ile taksirli suçlar hariç olmak üzere bir yıldan fazla hürriyeti bağlayıcı cezaya mahkum olanlara (…)(1); affa uğramış olsalar bile hiçbir suretle ateşli silah taşıma ve bulundurma izni verilemez.

@@ -1,0 +1,1 @@
+Madde 15 – fıkra bir-(12/6/1979 tarihli ve 2249 sayılı Kanunun hükmüdür.)Bu Kanun hükümlerine aykırı olarak 4 üncü maddede yazılı olan bıçak veya diğer aletleri veya benzerlerini satanlar, satmaya aracılık edenler, satın alanlar, taşıyanlar veya bulunduranlar hakkında altı aydan bir yıla kadar hapis ve üçbin liradan onbin liraya kadar ağır para cezası hükmolunur.

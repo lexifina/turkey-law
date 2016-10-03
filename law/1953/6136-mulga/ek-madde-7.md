@@ -1,0 +1,26 @@
+Ek Madde 7 – (12/5/1988 tarih ve 3448 sayılı Kanunun hükmüdür.)
+Savunma Sanayii Geliştirme ve Destekleme İdaresi Başkanlığı, kanunen yurda girmesinde sakınca bulunmayan silah ve mermileri ithal eder veya ettirir. Bu silahlar, bu Kanuna göre silah taşımaya hak kazanmış kişilere satılır.
+Satış şekli, bedeli, satıştan sağlanacak gelirin dağıtımı, kullanılış biçimi ile bununla ilgili diğer hususlar adı geçen idarenin görüşü alınarak İçişleri Bakanlığınca hazırlanıp ve Bakanlar Kurulu Kararı ile yürürlüğe konulacak yönetmelikle belirlenir.
+11 – 29/8/1996 tarih ve 4178 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri (madde numarası: Ek madde 8.)
+Ek Madde 8 fıkra bir – (12/5/1988 tarih ve 3448 sayılı Kanunun hükmüdür.)
+Emniyet Genel Müdürlüğünce temin edilen tabanca ve mermiler, emniyet hizmetleri sınıfı personeline görevlerinde kullanılmak üzere bedeli mukabilinde zati demirbaş silah olarak satılır. Satılan silahların ayrılma, ihraç ile benzeri sebeplerle personelden geri alınma usul ve esasları ile satılma şekil ve şartları, zayii, hasar, onarım, kadro standardı dışında bırakılması, eğitim ve görevde kullanılan mermilerin bedelli veya bedelsiz temini İçişleri Bakanlığınca çıkarılacak yönetmelikle tespit olunur.
+400-1
+12 – 23/2/2000 tarih ve 4534 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 7, 10, Ek Madde 8)
+Madde 7, fıkra bir, bend (4), alt bend (A), fıkra iki ve son fıkra – (23/6/1981 tarih ve 2478 sayılı Kanunun hükmüdür.)
+4.A) Mahkeme kararı ile ya da haklarında verilen mahkûmiyet kararının sonucu olarak Türk Silahlı Kuvvetlerinden tart veya ihraç edilenler, rütbesinin geri alınmasına hükmolunanlar ile 926 sayılı Kanunun 50 nci maddesinin (c) bendi uyarınca disiplinsizlik veya ahlaki durum sebebiyle ayırma işlemine tabi tutulanlar veya 1402 sayılı Kanunun 2 nci maddesi gereğince emekli edilenler hariç olmak üzere emekli subay ve astsubaylar.
+Emekli subay ve astsubaylar ilgili Kuvvet Komutanlıkları veya Jandarma Gene Komutanlığının kayıtlarına geçmek ve bu makamlarca verilen kimlik kartlarına işlenmek şartıyla ateşli silah taşıyabilir veya bulundurabilirler. Bu şekilde düzenlenen kimlik kartları taşıma ve bulundurma izin belgesi yerine geçer.
+Ateşli silahla işlenen cürümlerden hükümlü bulunanlar ile taksirli suçlar hariç olmak üzere bir yıldan fazla hürriyeti bağlayıcı cezaya mahkum olanlara; affa uğramış olsalar bile hiçbir suretle ateşli silah taşıma veya bulundurma izni verilemez.
+Madde 10, fıkra üç – (23/6/1981 tarih ve 2478 sayılı Kanunun hükmüdür.)
+Birinci fıkra gereğince Milli Savunma Bakanlığı emrine verilen ateşli silahlardan, Türk Silahlı Kuvvetleri ile ikinci fıkrada belirtilen kurumların ihtiyaçları karşılandıktan sonra artan miktarından bir kısmını, özel kanunlarına göre silah taşıma yetkisini haiz olan veya Bakanlar Kurulu kararı ile silah taşımalarına ve zati silah edinmelerine izin verilen kişilere bedel takdiri suretiyle ve Makine ve Kimya Endüstrisi Kurumu aracılığı ile satmaya Milli Savunma Bakanlığı yetkilidir.
+Ek Madde 8, fıkra bir – (29/8/1996 tarih ve 4178 sayılı Kanunun hükmüdür.)
+Emniyet Genel Müdürlüğünce temin edilen tabanca ve mermiler, Emniyet Hizmetleri Sınıfı personeli ile Emniyet Genel Müdürlüğünün merkez ve taşra ünitelerinde istihdam edilen çarşı ve mahalle bekçilerine ve Türk Silahlı Kuvvetleri bünyesindeki subay, astsubay ve uzman jandarma çavuşlara görevlerinde kullanılmak üzere bedeli mukabili zati demirbaş silah olarak satılır.Satılan silahların ayrılma, ihraç ve benzeri sebeplerle personelden geri alınma usul ve esasları ile satılma şekil ve şartları, zayi, hasar, onarım, kadro standardı dışı bırakılması, eğitim ve görevde kullanılan mermilerin bedelli veya bedelsiz temini İçişleri Bakanlığınca çıkarılacak yönetmelikle tespit olunur.
+13 – 14/7/2004 tarihli ve 5217 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: Ek Madde 8 ve 10)
+Ek Madde 8 fıkra iki ve üç– (12/5/1988 tarihli ve 3448 sayılı Kanunun hükmüdür.)
+Bu Kanuna göre yapılan satışlardan elde edilen Türk Lirası ve döviz karşılığı, bütçenin (B) işaretli cetveline gelir ve Emniyet Genel Müdürlüğü bütçesinin özel tertibine ödenek kaydolunur.
+Bu suretle elde edilen gelirin yılı içinde harcanmayan miktarları ertesi yıla devredilir ve özel tertipte yer alan bu ödenek Genel Müdürlükçe silah ve mermi ile yedek parça alımında kullanılır.
+Ek Madde 10 fıkra üç– (12/5/1988 tarihli ve 3448 sayılı Kanunun hükmüdür.)
+Birinci ve ikinci fıkralara göre satışlardan elde edilen gelirler Ek 8 inci madde esaslarına göre kullanılır.
+400-2
+14 – 29/6/2006 tarihli ve 5529 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarasıı: 7)
+Madde 7 fıkra üç- (10/7/1953 tarihli ve 6136 sayılı Kanunun hükmüdür.) 1, 2, 3 ve 4 numaralı bentlerde sayılan kişilerin taşıyacakları veya bulunduracakları ateşli silahların taşınmasına veya bulundurulmasına yetki veren kayıt ve belgeler harca tabi değildir.
+15 – 23/1/2008 tarihli ve 5728 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 6,7,11,12,13,14,15,Ek Madde 1 ve 2.)
