@@ -1,0 +1,24 @@
+{
+  "number": "meeting-10-03",
+  "number_as_published": "meeting-10-03",
+  "year": 2016,
+  "title": "03.10.2016 KARAR ÖZETİ .",
+  "decision_date": "2016-10-03",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=46",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/79317e42e94c57dfc2f2fc34f762edec79317e42e94c57dfc2f2fc34f762edec.doc",
+  "source_sha256": "f74d7f812c8a9482bf6b25e4e32e6d1eda06f8c54ec6ff236d95293327851391",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2016-10-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.10.2016; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "03.10.2016 KARAR ÖZETİ .",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "28.10.2016"
+}
