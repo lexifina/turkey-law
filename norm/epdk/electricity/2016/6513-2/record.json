@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6513/2",
+  "decision_date": "2016-10-03",
+  "title": "Uzlaştırma Hesaplarında Kullanılacak Profillerin Belirlenmesine İlişkin Usul ve Esaslar",
+  "resmi_gazete_date": "2016-10-20",
+  "resmi_gazete_number": "29863",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=y89NtFfc4uE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=y89NtFfc4uE="
+  ],
+  "source_sha256": "bd03e0c30f18f609de2ba018b818ec8fe9623448d831dd549aa64d855df41051",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-10-03",
+  "law_text_complete": true
+}
