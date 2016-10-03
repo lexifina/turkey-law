@@ -1,0 +1,23 @@
+{
+  "number": "80",
+  "number_as_published": "80",
+  "year": 2016,
+  "title": "council decision",
+  "decision_date": "2016-10-03",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/49",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/80-emel-tigli-yurtdisi-gorevlendirme-03102016.pdf",
+  "source_sha256": "779086bfa979504926247fdd8154272dc4e4ea62fa754a8055aa388fa5155a85",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2016-10-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03 Ekim 2016 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
