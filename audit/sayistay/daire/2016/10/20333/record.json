@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35414",
+  "decision_date": "2016-10-04",
+  "source_id": 20333,
+  "chamber": "2",
+  "ilam_number": "11",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20333/",
+  "source_sha256": "7c400d80a0238eb01c2ddc232850463ce65b0a137756eebc3afaccb8474b32f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
