@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "183",
+  "decision_date": "2016-10-04",
+  "source_id": 20902,
+  "chamber": "5",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20902/",
+  "source_sha256": "5b84acc410b6b6358bc426eea911e6912730e86f62181a701d5505af8dc12b72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
