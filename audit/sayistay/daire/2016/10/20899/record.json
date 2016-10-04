@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "183",
+  "decision_date": "2016-10-04",
+  "source_id": 20899,
+  "chamber": "5",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20899/",
+  "source_sha256": "4a8ce6b46a9050388ab4a1c2b7ac017651fa317b6d723406118135bd1c451133",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
