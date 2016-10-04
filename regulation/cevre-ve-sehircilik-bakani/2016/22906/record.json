@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.22906",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "5233 SAYILI TERÖR VE TERÖRLE MÜCADELEDEN DOĞAN ZARARLARIN KARŞILANMASI HAKKINDA KANUNUN GEÇİCİ 6 NCI MADDESİ UYARINCA UYGULAMA YAPILAN REZERV YAPI ALANLARI İLE İLGİLİ YAPILACAK İHALELERE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "22906",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2016/22906",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22906&MevzuatTertip=5",
+  "source_sha256": "fc2a387b9a01cd1febb53902ee37e24bf1be0acddca8128f7439cd4bc9ae4f77",
+  "source_bytes": 66373,
+  "published": "2016-10-04",
+  "gazette": "29847",
+  "in_force": "2016-10-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.10.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3839,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
