@@ -1,0 +1,61 @@
+{
+  "source_id": "7.5.12995",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KORUNMASI GEREKLİ TAŞINIR KÜLTÜR VE TABİAT VARLIKLARININ TASNİFİ, TESCİLİ VE MÜZELERE ALINMALARI HAKKINDA YÖNETMELİK",
+  "number": "12995",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2009/12995",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12995&MevzuatTertip=5",
+  "source_sha256": "b05aa9b4963890118549c830a8dd01a9d8ac52efecb1370f70d649a3582b1f2f",
+  "source_bytes": 33952,
+  "published": "2009-04-20",
+  "gazette": "27206",
+  "in_force": "2016-10-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"4/10/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-10-04",
+      "4/10/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-08-15",
+      "RG-15/8/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-08-15",
+      "15/8/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-01-19",
+      "RG-19/1/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-01-19",
+      "19/1/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1248,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.12995%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

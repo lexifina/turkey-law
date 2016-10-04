@@ -1,0 +1,4 @@
+Değerlendirme komisyonu ve kıymet takdir komisyonu
+MADDE 5 – (1) Taşınır geçici alındısı karşılığı müzeye teslim edilen varlıkların, korunması gerekli kültür ve tabiat varlığı olup olmadığını ve müzeye alınacaklarla alınmayacakları tespit etmek için ilgili müze müdürlüğünce değerlendirme komisyonu kurulur. Değerlendirme komisyonu teşkili için yeterli elemanı bulunmayan müzeler Bakanlıktan ihtisas elemanı talep eder.
+(2) Değerlendirme komisyonunca müzelere alınmasına karar verilen taşınır kültür ve tabiat varlıkları için ihtisas elemanlarından oluşan kıymet takdir komisyonu, Genel Müdürlük veya Genel Müdürlüğün uygun gördüğü müzeler tarafından kurulur.
+(3) Değerlendirme ve kıymet takdir komisyonları üç kişiden az olmamak üzere ihtisas elemanlarından oluşturulur. Komisyonda müze müdürü veya müdür yardımcısının bulunmaması durumunda üyeler arasından bir kişi başkan olarak belirlenir.
