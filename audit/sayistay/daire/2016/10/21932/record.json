@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "370",
+  "decision_date": "2016-10-04",
+  "source_id": 21932,
+  "chamber": "6",
+  "ilam_number": "34",
+  "item_number": 3,
+  "account_year": 2015,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/21932/",
+  "source_sha256": "a6c1a4249d4ad6353adc4d14eb7a6290359820ac163c38c7dfb0318ffdf8497b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
