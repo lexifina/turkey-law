@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "186",
+  "decision_date": "2016-10-04",
+  "source_id": 23118,
+  "chamber": "5",
+  "ilam_number": "466",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23118/",
+  "source_sha256": "95ec4319a60a6fbae9722e2f380e7d0cf0e054e26a10749ef8356e5ad719ff31",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
