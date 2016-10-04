@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.26.-120.01.03-66170",
+  "source_id": 21889,
+  "date": "2016-10-04",
+  "title": "Hazır keçe kullanarak yapılan ürünlerin esnaf muafiyeti kapsamında olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21889",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "955e3ce5cf0e6e7d795923c8de7c7b680a1691b3e4836cfb04b43c99cc9c9e35",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
