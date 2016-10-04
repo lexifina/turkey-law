@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "370",
+  "decision_date": "2016-10-04",
+  "source_id": 21930,
+  "chamber": "6",
+  "ilam_number": "34",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/21930/",
+  "source_sha256": "c63223a78e5350acc1ceeb1b70bb81616761a82b1b970311eaa406981ba1b536",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
