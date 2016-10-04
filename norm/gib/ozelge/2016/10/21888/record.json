@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[37-2014/548]-152383",
+  "source_id": 21888,
+  "date": "2016-10-04",
+  "title": "Veraset yoluyla intikal eden minibüs ve minibüs hattının satılması durumunda vergilendirme ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21888",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "e4a6899a6c1d7d20432c4541defed97c1d2448fb60b583161e4d88915c05758f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
