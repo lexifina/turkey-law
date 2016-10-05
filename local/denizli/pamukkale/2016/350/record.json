@@ -1,0 +1,24 @@
+{
+  "number": "350",
+  "number_as_published": "2016/350",
+  "year": 2016,
+  "title": "council decision",
+  "decision_date": "2016-10-05",
+  "source": "https://www.pamukkale.bel.tr/y-213-2016-yili-ekim-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "dba8542790b7296dbf62937863060b34b2d74debfbeaf65344a9c735e9a06479",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2016-10-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.10.2016; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.pamukkale.bel.tr/y-213-2016-yili-ekim-ayi-meclis-karar-ozetleri",
+  "listing_label": "2016 Yılı Ekim Ayı Meclis Karar Özetleri",
+  "record_scope": "one council decision (published decision summary)"
+}
