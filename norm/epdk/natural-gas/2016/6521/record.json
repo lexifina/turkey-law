@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6521",
+  "decision_date": "2016-10-05",
+  "title": "Selçuk Doğal Gaz Dağıtım Anonim Şirketi?nin (SELÇUKGAZ) 2012-2016 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2016-10-07",
+  "resmi_gazete_number": "29850",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MPyENoKhro0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MPyENoKhro0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=69ud+FqRGK8="
+  ],
+  "source_sha256": "667d40c989281d39250810e0430b3e676471e4c1480d14988cbe2eee9313945d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-10-05",
+  "law_text_complete": true
+}
