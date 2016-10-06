@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "190",
+  "decision_date": "2016-10-06",
+  "source_id": 20633,
+  "chamber": "5",
+  "ilam_number": "220",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20633/",
+  "source_sha256": "50c00ea58e00b4b3949fe333e0f3fe6cfa359a6088b4ea20159f673d47ae6ef5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
