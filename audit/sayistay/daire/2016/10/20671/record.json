@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10597",
+  "decision_date": "2016-10-06",
+  "source_id": 20671,
+  "chamber": "1",
+  "ilam_number": "19",
+  "item_number": 5,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20671/",
+  "source_sha256": "d04da09847c5356e9568394d0d6068c87356c7910a09283157943af7338c98cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
