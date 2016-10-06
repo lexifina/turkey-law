@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "146",
+  "decision_date": "2016-10-06",
+  "source_id": 20319,
+  "chamber": "4",
+  "ilam_number": "239",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20319/",
+  "source_sha256": "d8fdb85fe09195bf8987cb11e6e33513b7c7358c2f6d583d770637358c79fca5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
