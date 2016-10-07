@@ -1,0 +1,2 @@
+İşgallere karşı koruma
+MADDE 8 – (1) Adına tahsis yapılan kamu idaresi, tahsisli taşınmazın işgal ve tecavüzlere karşı korunması ile ilgili her türlü tedbiri almak, işgal ve tecavüz halinde yasal yollara başvurmak ve durumu; Hazineye ait taşınmazlar ile Devletin hüküm ve tasarrufu altındaki yerler için defterdarlık veya malmüdürlüklerine, diğerlerinde taşınmaz maliki kamu idaresine bildirmek zorundadır.

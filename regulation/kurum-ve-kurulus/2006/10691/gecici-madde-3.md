@@ -1,0 +1,3 @@
+Daha önce tahsisi kaldırılan veya geri alınan taşınmazlar
+GEÇİCİ MADDE 3 – (Ek:RG-7/10/2016-29850)
+(1) Bu maddenin yürürlüğe girdiği tarihten önce maliki kamu idaresince tahsisi kaldırılan veya geri alınan taşınmazın, adına tahsis yapılan veya devralan kamu idaresi ile satış, trampa, arsa ve/veya kat karşılığı inşaat, irtifak hakkı tesisi gibi mülkiyete ilişkin tasarrufî işlemlere konu edilmesi halinde, bu taşınmazın üzerine adına tahsis yapılan veya devralan kamu idaresi tarafından yapılan bina ve tesislerin halen bu kamu idaresi tarafından kullanılıyor olması kaydıyla, bu bina ve tesisler hakkında da 24 üncü maddenin üçüncü fıkrası uygulanır.

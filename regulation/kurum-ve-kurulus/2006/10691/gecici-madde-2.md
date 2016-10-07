@@ -1,0 +1,3 @@
+Tahsis yapılmadan kullanılan taşınmazlarda ecrimisil
+GEÇİCİ MADDE 2– (Ek: RG-14/8/2014-29088)(Değişik madde numarası:RG-7/10/2016-29850)
+(1) Bu maddenin yürürlüğe girdiği tarihten önce genel bütçe kapsamındakiler hariç genel yönetim kapsamındaki kamu idareleri tarafından tahsis işlemi yapılmadan kullanılan Hazineye ait taşınmazlar ile Devletin hüküm ve tasarrufu altındaki yerlerden, görmekle yükümlü oldukları kamu hizmetleri için kullanılanlar hakkında bir yıl içinde Bakanlığa tahsis talebiyle başvuruda bulunulması ve Bakanlık tarafından da tahsisin uygun görülmesi halinde, bu maddenin yürürlüğe girdiği tarihten sonra ecrimisil alınmaz, ancak bu taşınmazlardan belirtilen amaç dışında ve gelir getirici faaliyetlerde kullanılanlardan ecrimisil alınır.
