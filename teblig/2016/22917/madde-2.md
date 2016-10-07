@@ -1,0 +1,1 @@
+MADDE 2 – (1) 9/9/2011 tarihli ve 28049 sayılı Resmî Gazete’de yayımlanan Udem Uluslararası Belgelendirme Denetim Eğitim Merkezi Sanayi ve Ticaret Limited Şirketinin Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (SGM: 2011/6) yürürlükten kaldırılmıştır.

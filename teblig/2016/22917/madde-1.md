@@ -1,0 +1,1 @@
+MADDE 1 – (1) Avrupa Komisyonu tarafından 2292 kimlik kayıt numarası tahsis edilmiş olan Udem Uluslararası Belgelendirme Denetim Eğitim Merkezi Sanayi ve Ticaret Limited Şirketi, Ek-1’de yer alan teknik düzenleme ve uygunluk değerlendirme modüllerinde onaylanmış kuruluş olarak görevlendirilmiştir.
