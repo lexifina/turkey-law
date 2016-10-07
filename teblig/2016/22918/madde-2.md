@@ -1,0 +1,1 @@
+MADDE 2 – (1) 16/11/2011 tarihli ve 28114 sayılı Resmî Gazete’de yayımlanan SCA Belgelendirme ve Özel Eğitim Hizmetleri Limited Şirketinin Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (SGM: 2011/20) yürürlükten kaldırılmıştır.

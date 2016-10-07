@@ -1,0 +1,1 @@
+MADDE 1 – (1) Avrupa Komisyonu tarafından 2336 kimlik kayıt numarası tahsis edilmiş olan SCA Belgelendirme ve Özel Eğitim Hizmetleri Limited Şirketi, Ek-1’de yer alan teknik düzenleme ve uygunluk değerlendirme modüllerinde onaylanmış kuruluş olarak görevlendirilmiştir.
