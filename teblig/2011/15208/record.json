@@ -1,0 +1,41 @@
+{
+  "source_id": "9.5.15208",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO : 336)",
+  "number": "15208",
+  "path": "teblig/2011/15208",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15208&MevzuatTertip=5",
+  "source_sha256": "fe6fdf6c3f387bfe78f04bbee05e90ab81440b2d649efba9ed83ccabe64bb44e",
+  "source_bytes": 70328,
+  "published": "2011-08-20",
+  "gazette": "28031",
+  "in_force": "2016-10-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/10/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-10-08",
+      "RG-8/10/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-02-01",
+      "RG-1/2/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4565,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15208%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
