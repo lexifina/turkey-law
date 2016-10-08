@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.22921",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜKSEKÖĞRETİM KURUMLARINDA DANIŞMA KURULU OLUŞTURULMASINA İLİŞKİN YÖNETMELİK",
+  "number": "22921",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2016/22921",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22921&MevzuatTertip=5",
+  "source_sha256": "18d5ba0903d844bcc75025381f0ba9939abd00eca3d7f9e5f88c841cd61bb5f3",
+  "source_bytes": 8997,
+  "published": "2016-10-08",
+  "gazette": "29851",
+  "in_force": "2016-10-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.10.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 185,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
