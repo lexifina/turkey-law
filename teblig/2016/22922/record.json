@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.22922",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 373)",
+  "number": "22922",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2016/22922",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22922&MevzuatTertip=5",
+  "source_sha256": "4688980a7e5f1d12e6f7bbd1e233444a0b3e05b2057375cb6679fc6a8cc60e47",
+  "source_bytes": 39005,
+  "published": "2016-10-08",
+  "gazette": "29851",
+  "in_force": "2016-10-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.10.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2264,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
