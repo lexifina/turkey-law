@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "127",
+  "decision_date": "2016-10-10",
+  "source_id": 23409,
+  "chamber": "7",
+  "ilam_number": "81",
+  "item_number": 28,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23409/",
+  "source_sha256": "88b389595993ca64c0b218635f1c41b451aaea9b05de05636c613e2bfe715838",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
