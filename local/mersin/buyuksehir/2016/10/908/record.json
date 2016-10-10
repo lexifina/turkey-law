@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "908",
+  "decision_date": "2016-10-10",
+  "title": "MEC. KAR. ( Yenişehir, Menteş, 2865, 2866, 28",
+  "listed_as": "908 MEC. KAR. ( Yenişehir, Menteş, 2865, 2866, 28",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/908-mec--kar----yenisehir-mentes-2865-2866-2867-parseller--",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk11-10-ekim-2016-meclis-kararlari",
+  "listing_sha256": "cda01071419e09c940fcb8c3010175025a862b12752c8d0b4f270733937fb9d0",
+  "meeting_title": "MK11-10 EKİM 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
