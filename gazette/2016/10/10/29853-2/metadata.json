@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-10-10",
+  "issue": "29853",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Tarımsal Yayım ve Danışmanlık Hizmetlerine Destekleme Ödemesi Yapılması Hakkında Tebliğ (No: 2016/25)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161010-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161010.htm",
+  "index_sha256": "ea386b19a13402af88ccac7a19639bc606da8c17c20ffa50b76f845558b755d9",
+  "index_header": "10 Ekim 2016 ... 29853 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161010.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
