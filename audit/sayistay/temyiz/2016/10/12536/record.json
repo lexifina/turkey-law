@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42251",
+  "decision_date": "2016-10-11",
+  "source_id": 12536,
+  "chamber": "1",
+  "file_number": "40416",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12536/",
+  "source_sha256": "007a9231cea62d38538503b764c54917a5e433ca0b240b96dd7928ab4a9cbc12",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
