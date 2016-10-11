@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10602",
+  "decision_date": "2016-10-11",
+  "source_id": 22377,
+  "chamber": "1",
+  "ilam_number": "18",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22377/",
+  "source_sha256": "585c777612ac1347803d597f879ced6e6aa09f27b6a7b1e932f64326576d7568",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
