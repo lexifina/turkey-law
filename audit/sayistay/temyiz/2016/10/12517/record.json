@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42232",
+  "decision_date": "2016-10-11",
+  "source_id": 12517,
+  "chamber": "1",
+  "file_number": "40397",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12517/",
+  "source_sha256": "ca47ba4507f086c8108a629fe48888c513265c410fbea1696afce5c2372af84a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
