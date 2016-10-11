@@ -1,0 +1,9 @@
+Asıl ilamın 3 üncü maddesiyle tazminine hükmolunan konunun 6085 sayılı Sayıştay Kanununun 56 ncı maddesinin ikinci fıkrasının (ç) bendi hükmü gereğince yargılamanın iadesi yoluyla görüşülmesine karar verildi.
+
+Dilekçe ekinde gönderilen belgelerin incelenmesinde, denetçi görüşünde her ne kadar kesin hakediş raporu üzerinde yapılan kesintinin … TL olduğu belirtilse de,  … tarihli kesin hakediş raporunun bağlı olduğu ödeme emri belgesinde emanetlere alınarak daha sonra gelir kaydı yapılan kesinti miktarının …TL olduğu görülmüştür. Zaten …İl Özel İdaresi tarafından onaylanan taksitlendirme planı da geriye kalan kamu zararı olan … TL üzerinden yapılmıştır.
+
+Dilekçe ekinde ayrıca banka dekontları gönderilen … TL tutarındaki tahsilatın hüküm tarihinden önce; … TL tutarındaki tahsilatın ise hüküm tarihinden sonra gerçekleştiği anlaşılmıştır. Böylece hüküm tarihinden önce kesin hakediş üzerinden kesinti yapılmak ve Isparta İl Özel İdaresinin banka hesabına yatılmak suretiyle gerçekleşen tahsilat miktarı … TL’dir.
+
+Bu nedenle … işinde yapılmamış olan imalatlar için ödeme yapılması nedeniyle asıl ilamın 3 üncü maddesiyle tazminine hükmolunan … TL’lik tutarın … TL’lik kısmının hüküm tarihi olan … tarihinden önce aşağıda gösterilen ödeme emri belgesi ve banka dekontları ile tahsil edildiği anlaşılmakla, …. TL tutarındaki tahsilatla ilgili tazmin hükmünün Harcama Yetkilisi …, Gerçekleştirme Görevlisi …, Diğer Sorumlular ..ve …ın uhdelerinden kaldırılmasına, oy birliğiyle,
+
+Dilekçe ekinde belgeleri gönderilen … TL tutarındaki tahsilat ise, hüküm tarihinden sonra gerçekleşmiş olup ilamın infazı mahiyetini taşıdığından ve 6085 sayılı Sayıştay Kanununun 33 üncü ve Sayıştay Başsavcılığı Çalışma Yönetmeliğinin 5 ve 9 uncu maddeleri uyarınca ilamların infazını izleme ve bu hususla ilgili gerekli işlemleri yapma, Başsavcılığın görev ve yetkisi dâhilinde bulunduğundan; söz konusu tahsilatla ilgili denecek olmadığına, oy birliğiyle,
