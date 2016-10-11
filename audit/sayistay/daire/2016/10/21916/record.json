@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "377",
+  "decision_date": "2016-10-11",
+  "source_id": 21916,
+  "chamber": "6",
+  "ilam_number": "36",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/21916/",
+  "source_sha256": "289117d9e5b61a48cf5f51c19658cd1ee1703a4671a466888ba312b05665885c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
