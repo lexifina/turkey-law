@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10603",
+  "decision_date": "2016-10-11",
+  "source_id": 22384,
+  "chamber": "1",
+  "ilam_number": "20",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22384/",
+  "source_sha256": "afae98d26284876925b161ac7f78a8ca5e657150590d0a016c9b6699737f8519",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
