@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10603",
+  "decision_date": "2016-10-11",
+  "source_id": 20683,
+  "chamber": "1",
+  "ilam_number": "20",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20683/",
+  "source_sha256": "2f3a112bdb88e606688476d75399556d4eafcf607a1b242280d0bfa1218500d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
