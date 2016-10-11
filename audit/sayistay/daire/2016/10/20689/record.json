@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10601",
+  "decision_date": "2016-10-11",
+  "source_id": 20689,
+  "chamber": "1",
+  "ilam_number": "22",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20689/",
+  "source_sha256": "c5651028edec84e059e78c039fe8c6bdc657568ad3b8e9b9b5653323cdbb6f8c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
