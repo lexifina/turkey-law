@@ -1,0 +1,7 @@
+Asıl ilamın 11 inci maddesiyle tazminine hükmolunan konunun 6085 sayılı Sayıştay Kanununun 56 ncı maddesinin ikinci fıkrasının (ç) bendi hükmü gereğince yargılamanın iadesi yoluyla görüşülmesine karar verildi.
+
+Dilekçe ekinde gönderilen belgelerin incelenmesinde, …işinde işin teknik şartnamesine ve projelerine uygun olmayan imalatlar yapılması nedeniyle asıl ilamda sorumlularından tazminine karar verilen … TL’nin … TL’sinin hüküm tarihi olan … tarihinden önce; … TL’sinin ise hüküm tarihinden sonra tahsil edildiği anlaşılmıştır.
+
+Bu nedenle … işinde, işin teknik şartnamesine ve projelerine uygun olmayan imalatlar yapılması nedeniyle asıl ilamın 3 üncü maddesiyle tazminine hükmolunan … TL’lik tutarın … TL’lik kısmının hüküm tarihi olan … tarihinden önce aşağıda gösterilen banka dekontları ile tahsil edildiği anlaşılmakla, … TL tutarındaki tahsilatla ilgili tazmin hükmünün Harcama Yetkilisi-…, Gerçekleştirme Görevlisi-…, Diğer Sorumlular … ve İnşaat …’in uhdelerinden kaldırılmasına, oy birliğiyle,
+
+Geriye kalan … TL tutarındaki tahsilat ise, hüküm tarihinden sonra gerçekleşmiş olup, ilamın infazı mahiyetini taşıdığından ve 6085 sayılı Sayıştay Kanununun 33 üncü ve Sayıştay Başsavcılığı Çalışma Yönetmeliğinin 5 ve 9 uncu maddeleri uyarınca ilamların infazını izleme ve bu hususla ilgili gerekli işlemleri yapma, Başsavcılığın görev ve yetkisi dâhilinde bulunduğundan; söz konusu tahsilatla ilgili denecek olmadığına, oy birliğiyle,

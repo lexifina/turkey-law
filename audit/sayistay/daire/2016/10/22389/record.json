@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10598",
+  "decision_date": "2016-10-11",
+  "source_id": 22389,
+  "chamber": "1",
+  "ilam_number": "249",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22389/",
+  "source_sha256": "09a2b6e3bc354190c0f725fe0e86a4298eda2c9a5b5aa6c3b4eaad851cb3e0f8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
