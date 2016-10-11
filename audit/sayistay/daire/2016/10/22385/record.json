@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10603",
+  "decision_date": "2016-10-11",
+  "source_id": 22385,
+  "chamber": "1",
+  "ilam_number": "20",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22385/",
+  "source_sha256": "6e68901c9386a052e12822f2f1c87c3f5d4382ec34ca8f618795af95770a8d41",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
