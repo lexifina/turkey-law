@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": "18429628-010[51-12]-",
+  "source_id": 705,
+  "date": "2016-10-12",
+  "title": "TÜRK ULUSLARARASI GEMİ SİCİLİ KANUNU İLE 491 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN İÇ GENELGESİ (Seri No: 2016/1)",
+  "source": "https://gib.gov.tr/mevzuat/kanun/534/icgenelge/705",
+  "related_law": "6745 sayılı YATIRIMLARIN PROJE BAZINDA DESTEKLENMESİ İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/icGenelge/list",
+  "source_listing": "evidence/list/2026-11-16/icGenelge-p000.json",
+  "source_listing_sha256": "f67e0a2102f72bb235e1a5040899d9489b05b3d457ed0145b7ee616be10187e7",
+  "source_sha256": "7826fd736106f763a4703b64085e8593922f360a83529f600b9b4fba06ab31ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
