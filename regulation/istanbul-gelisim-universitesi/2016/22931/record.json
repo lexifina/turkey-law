@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2016-10-12",
+      "12.10.2016",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29855",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-10-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Gelişim Üniversitesi",
+  "issuer_slug": "istanbul-gelisim-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-gelisim-universitesi/2016/22931",
+  "published": "2016-10-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=22931&MevzuatTertip=5",
+  "source_bytes": 29340,
+  "source_id": "8.5.22931",
+  "source_sha256": "0ff402dc9340e240c3df9e8ae01d12a2dce15bd71aea10df686a405277e6cf4b",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL GELİŞİM ÜNİVERSİTESİ TOPLUMSAL CİNSİYET ÇALIŞMALARI\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 321,
+  "word_count": 986
+}
