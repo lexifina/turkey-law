@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-10-12",
+  "issue": "29855",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Biruni Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161012-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161012.htm",
+  "index_sha256": "0ef981f685ad7875dd9dc4064a978ddae7e0ee013bb55e259900bb355f24bce7",
+  "index_header": "12 Ekim 2016 ... 29855 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161012.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
