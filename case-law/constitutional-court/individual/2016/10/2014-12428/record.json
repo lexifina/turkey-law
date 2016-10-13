@@ -1,0 +1,20 @@
+{
+  "applicant": "E.G.",
+  "application_date": "2014-07-31",
+  "application_number": "2014/12428",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2016-10-13",
+  "id": "2d8adaf0-6c3b-c937-dd8a-17edf5719b20",
+  "in_force": "2016-10-13",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjJkOGFkYWYwLTZjM2ItYzkzNy1kZDhhLTE3ZWRmNTcxOWIyMA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "d86cf3aa2812a964430377dd9c510d01cdef8a8343643c0206e24b2670de9a80",
+  "version_label": "as-enacted"
+}
