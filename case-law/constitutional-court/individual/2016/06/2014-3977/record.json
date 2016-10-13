@@ -1,0 +1,20 @@
+{
+  "applicant": "D.Ö.",
+  "application_date": "2014-03-19",
+  "application_number": "2014/3977",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2016-06-30",
+  "id": "7a7ece40-92f4-be09-539c-9a323659b209",
+  "in_force": "2016-10-13",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2016-10-13",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjdhN2VjZTQwLTkyZjQtYmUwOS01MzljLTlhMzIzNjU5YjIwOQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "bf1c4375fc0c0d4ca6d95b7229b842057b7cd5823d083f7336fad8826d7c16d5",
+  "version_label": "as-enacted"
+}
