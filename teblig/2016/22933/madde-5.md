@@ -1,0 +1,2 @@
+Yerli üretim dalı
+MADDE 5 – (1) Yönetmeliğin 18 inci maddesinin birinci fıkrası çerçevesinde başvuru sahibi Betareks, Beymaks ve Simfleks firmalarının yerli üretim dalını temsil niteliği değerlendirilmiş ve söz konusu firmaların anılan yasal hükümler çerçevesinde yerli üretim dalını temsil niteliğini haiz olduğu değerlendirilmiştir. Bu Tebliğin ilgili bölümlerinde anılan firmalar “yerli üretim dalı” olarak anılacaktır.

@@ -1,0 +1,3 @@
+Ekonomik göstergelerin değerlendirilmesi
+MADDE 27 – (1) Yerli üretim dalının ekonomik göstergeleri bir bütün olarak incelendiğinde, 2013 yılında yerli üretim dalının bazı ekonomik göstergelerinde tespit edilen olumlu seyrin 2014 yılında sürdürülemediği tespit edilmiştir.
+(2) Yapılan değerlendirmede, 2014 yılında 2013 yılına oranla, yurtiçi tüketimde görülen artışa rağmen, yerli üretim dalının üretim ve yurtiçi satış miktarının gerilediği, sınai ve ticari maliyetin artış gösterdiği, gerek yurtiçi gerek toplam karlılığın azaldığı, nakit akışının bozulduğu ve firma net satış toplamının düştüğü, pazar payının gerilediği, verimliliğin azaldığı tespit edilmiştir.

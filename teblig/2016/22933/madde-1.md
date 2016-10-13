@@ -1,0 +1,4 @@
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, Betareks Metalize İplik ve Ambalaj Sanayi A.Ş. (Betareks), Beymaks Tekstil İthalat İhracat Sanayi ve Ticaret Ltd. Şti. (Beymaks) ve Simfleks Tekstil Ambalaj Sanayi ve Ticaret A.Ş. (Simfleks) tarafından, Çin Halk Cumhuriyeti (ÇHC), Hindistan Cumhuriyeti (Hindistan), Güney Kore Cumhuriyeti (Güney Kore) ve Çin Tayvanı (Tayvan) menşeli, 5605.00 gümrük tarife pozisyonu (GTP) altında sınıflandırılan “metalize iplik”lere yönelik dampinge karşı önlemin uygulamadan kalkması durumunda önleme konu üründe dampingin ve zararın devam edeceği veya yeniden meydana geleceği iddiaları çerçevesinde yapılan başvuruya istinaden, İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliğin (Yönetmelik) 35 inci maddesi çerçevesinde başlatılan Nihai Gözden Geçirme Soruşturması (NGGS) kapsamında alınacak kesin karara temel teşkil edecek bilgi ve bulguları ortaya koymaktır.

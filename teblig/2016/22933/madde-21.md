@@ -1,0 +1,3 @@
+Güney Kore menşeli ithalatın gelişimi ve fiyatları
+MADDE 21 – (1) 2012-2014 yıllarında Güney Kore’den yapılan metalize iplik ithalatı sırasıyla 992 kg (39,8 bin ABD doları), 327 kg (14,5 bin ABD doları) ve 240 kg (9,6 bin ABD doları) olarak gerçekleşmiştir.
+(2) Bu kapsamda, anılan ithalatın 2013 yılında 2012 yılına oranla miktar olarak %67 oranında, 2014 yılında ise bir önceki yıla oranla %27 oranında azaldığı görülmektedir. Değer temelinde ithalatın değişimine bakıldığında ise 2013 yılında ithalatın bir önceki yıla oranla %64 oranında, 2014 yılında ise 2013 yılına oranla %24 oranında azaldığı görülmektedir.

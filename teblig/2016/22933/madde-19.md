@@ -1,0 +1,4 @@
+ÇHC menşeli ithalatın gelişimi ve fiyatları
+MADDE 19 – (1) 2012-2014 yıllarında ÇHC’den yapılan metalize iplik ithalatı sırasıyla 208 ton (1,4 milyon ABD Doları), 77 ton (556 bin ABD doları) ve 203 ton (1,6 milyon ABD doları) olarak gerçekleşmiştir.
+(2) Bu kapsamda, anılan ithalatın 2013 yılında 2012 yılına oranla miktar olarak %63 oranında azaldığı, 2014 yılında ise bir önceki yıla oranla %163 oranında artış gösterdiği görülmektedir. İthalatın değer temelinde değişimine bakıldığında ise 2013 yılında ithalatın bir önceki yıla oranla %61 oranında azaldığı, 2014 yılında ise 2013 yılına oranla %180 oranında artış gösterdiği görülmektedir.
+(3) ÇHC’den gerçekleştirilen metalize iplik ithalatının anılan ürünün tüm ülkelerden ithalatı içerisindeki payı 2012-2014 yıllarında sırasıyla %10, %2 ve %5’tir. Anılan ülke menşeli ithalatın genel ithalat içerisinde değer temelinde payı ise sırasıyla %14, %3 ve %8 olarak gerçekleşmiştir.

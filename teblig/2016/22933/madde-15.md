@@ -1,0 +1,4 @@
+Güney Kore’de yerleşik kapasite ve ihracat kabiliyeti
+MADDE 15 – (1) Güney Kore metalize iplik ihracatının, dünya ihracatı içerisindeki payının 2014 yılında miktar olarak (208 ton) %1, değer bakımından (3 milyon ABD doları) ise %1’in altında olduğu görülmektedir.
+(2) Anılan ülkenin 2012-2014 yılları metalize iplik ihracatının genel seyrine bakıldığında ise anılan ihracatın miktar olarak 2013 yılında bir önceki yıla oranla %55, 2014 yılında ise bir önceki yıla oranla %27 oranında azalma gösterdiği ve 2014 yılında 208 ton (3 milyon ABD doları) olarak gerçekleştiği görülmektedir.
+(3) Soruşturma döneminde Güney Kore menşeli dünya metalize iplik ihracatının birim fiyatları incelendiğinde, anılan fiyatların sırasıyla 14,1 ABD doları/kg, 13,2 ABD doları/kg ve 14,8 ABD doları/kg olarak gerçekleştiği görülmektedir.

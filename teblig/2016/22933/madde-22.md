@@ -1,0 +1,3 @@
+Tayvan menşeli ithalatın gelişimi ve fiyatları
+MADDE 22 – (1) 2012-2014 yıllarında Tayvan’dan yapılan metalize iplik ithalatı sırasıyla 734 kg (22 bin ABD doları), 2.822 kg (134 bin ABD doları) ve 2.197 kg (113 bin ABD doları) olarak gerçekleşmiştir.
+(2) Bu kapsamda, anılan ithalatın 2013 yılında 2012 yılına oranla miktar temelinde %284 oranında arttığı, 2014 yılında ise bir önceki yıla oranla %22 oranında azaldığı görülmektedir. Değer bazında ithalatın değişimine bakıldığında ise 2013 yılında ithalatın bir önceki yıla oranla %505 oranında arttığı, 2014 yılında ise 2013 yılına oranla %15 oranında azaldığı görülmektedir.

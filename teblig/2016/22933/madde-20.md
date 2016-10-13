@@ -1,0 +1,4 @@
+Hindistan menşeli ithalatın gelişimi ve fiyatları
+MADDE 20 – (1) 2012-2014 yıllarında Hindistan’dan yapılan metalize iplik ithalatı sırasıyla 1.747 ton (6,6 milyon ABD doları), 4.585 ton (17 milyon ABD doları) ve 4.120 ton (14,5 milyon ABD doları) olarak gerçekleşmiştir.
+(2) Bu kapsamda, anılan ithalatın 2013 yılında 2012 yılına oranla miktar temelinde %162 oranında arttığı, 2014 yılında ise bir önceki yıla oranla %10 oranında azaldığı görülmektedir. Değer temelinde ithalatın değişimine bakıldığında ise 2013 yılında ithalatın bir önceki yıla oranla %157 oranında arttığı, 2014 yılında ise 2013 yılına oranla %15 oranında azaldığı görülmektedir.
+(3) Hindistan’dan gerçekleştirilen metalize iplik ithalatının anılan ürünün tüm ülkelerden ithalatı içerisinde miktar temelinde payı 2012-2014 yıllarında sırasıyla %87, %97 ve %91’dir. Anılan ülke menşeli ithalatın genel ithalat içerisinde değer olarak payı ise sırasıyla %64, %86 ve %77 olarak gerçekleşmiştir.
