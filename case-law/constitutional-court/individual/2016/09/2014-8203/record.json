@@ -1,0 +1,20 @@
+{
+  "applicant": "Ö.Ç.",
+  "application_date": "2014-06-05",
+  "application_number": "2014/8203",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2016-09-21",
+  "id": "efe93d28-1473-48e8-b338-b51f0ca1ab3b",
+  "in_force": "2016-10-14",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2016-10-14",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmVmZTkzZDI4LTE0NzMtNDhlOC1iMzM4LWI1MWYwY2ExYWIzYg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "f7a423f9d780575df5ec59efb446fe155e3c6b925256912b3cfa385eed5d056a",
+  "version_label": "as-enacted"
+}
