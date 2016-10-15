@@ -1,0 +1,2 @@
+Uygulamaya konma
+MADDE 3 – (1) TS 1449 “LPG Doldurma ve Boşaltma Kuralları – Emniyet Gerekleri” standardı ile ilgili Tebliğ Bakanlıkça 30/3/2010 tarihli ve 27537 sayılı Resmî Gazete’de yayımlanarak mecburi uygulamaya konulmuştur. Söz konusu standardın 5.1 ve 5.1.4 maddesi, Haziran 2009 tarihindeki TS 1449 standardı esas alınarak tadil edilmiştir. TSE Teknik Kurulu’nun 11/7/2016 tarihli toplantısında kabul edilerek yayımına karar verilmiş olan tadil metni zorunlu olarak uygulanmaya konulmuştur.
