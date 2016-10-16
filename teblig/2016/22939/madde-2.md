@@ -1,0 +1,1 @@
+MADDE 2 – (1) 13/9/2009 tarihli ve 27348 sayılı Resmî Gazete’de yayımlanan Türk Standardları Enstitüsünün Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (Tebliğ No: SGM 2009/14) yürürlükten kaldırılmıştır.

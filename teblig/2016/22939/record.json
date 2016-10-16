@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.22939",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK STANDARDLARI ENSTİTÜSÜNÜN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (SGM: 2016/35)",
+  "number": "22939",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2016/22939",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22939&MevzuatTertip=5",
+  "source_sha256": "9da835896634c1c7e6b9628d75683e0cf2fdc27f973d8202b4848d69a4b82f92",
+  "source_bytes": 27973,
+  "published": "2016-10-16",
+  "gazette": "29859",
+  "in_force": "2016-10-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.10.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 96,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.22939%20ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
