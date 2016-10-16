@@ -1,0 +1,1 @@
+MADDE 1 – (1) Avrupa Komisyonu tarafından 2159 kimlik kayıt numarası tahsis edilmiş olan S & Q Mart Kalite Güvenlik Sanayi ve Ticaret A.Ş., Ek-1’de yer alan teknik düzenleme ve uygunluk değerlendirme modüllerinde onaylanmış kuruluş olarak görevlendirilmiştir.
