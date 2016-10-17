@@ -1,0 +1,5 @@
+Müdür
+MADDE 8 – (1) BETAM Müdürü, Üniversitenin enerji teknolojileri alanında çalışan ve Üniversite Yönetim Kurulunca önerilen öğretim üyeleri arasından Rektör tarafından üç yıl süreyle görevlendirilir. Görev süresi sona eren Müdür yeniden görevlendirilebilir.
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere, enerji teknolojileri alanında çalışan Üniversitenin farklı akademik birim öğretim elemanları arasından iki kişiyi müdür yardımcısı olarak görevlendirmek üzere Rektörün onayına sunar. Müdür yardımcılarının görev süresi en çok üç yıldır. Müdürün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer. Görev süresi dolmadan ayrılan müdür yardımcısının yerine, kalan süreyi tamamlamak üzere yenisi aynı yöntemle görevlendirilir.
+(3) Müdürün katılamadığı toplantılara, Müdür tarafından görevlendirilen müdür yardımcısı katılır.
+(4) Müdür görevi başında bulunmadığı zamanlarda müdür yardımcılarından biri vekalet eder. Vekalet altı aydan fazla sürerse yeni Müdür görevlendirilir.

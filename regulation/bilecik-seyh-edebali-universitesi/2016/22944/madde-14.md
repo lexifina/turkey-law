@@ -1,0 +1,3 @@
+Çalışma birimleri ve görevleri
+MADDE 14 – (1) Merkezin çalışma konularıyla ilgili faaliyetlerin verimliliğini ve etkinliğini artırmak üzere proje, yayın, saha araştırmaları, teknik işler, proje ofisi, halkla ilişkiler gibi alanlarda sürekli veya geçici çalışma birimleri oluşturulabilir. Çalışma birimleri, çalışma birimi başkanı veya bir Yönetim Kurulu üyesi sorumluluğunda çalışmaları planlamak, koordine etmek ve yürütmek üzere görevlendirilen Üniversitedeki ilgili personelden oluşur.
+(2) Çalışma birimleri; Müdürün teklifi ve Rektörün onayıyla kurulur. Çalışma birimlerindeki personel Yönetim Kurulunca öngörülen süreler için Rektör tarafından görevlendirilir. Müdür çalışma biriminin faaliyetlerini izler ve denetler.
