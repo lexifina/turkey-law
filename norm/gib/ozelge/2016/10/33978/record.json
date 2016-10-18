@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.43.10.00-135-40",
+  "source_id": 33978,
+  "date": "2016-10-18",
+  "title": "Feragat işlemi sonrası aracın tek başına tescili aşamasında ÖTV yükümlülüğünün bulunup bulunmadığı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33978",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "82de1b6328351a4c3cf8c0d0765cd4c3c1815573a2c684acb5f41cf0f70ae30d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
