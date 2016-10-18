@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42316",
+  "decision_date": "2016-10-18",
+  "source_id": 12727,
+  "chamber": "1",
+  "file_number": "40462",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12727/",
+  "source_sha256": "68ca3ca0c57ea96c53cb01553af34b863878bfc45dfd2b9654aea14c6ed489b5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
