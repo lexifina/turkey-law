@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "296",
+  "decision_date": "2016-10-18",
+  "source_id": 23141,
+  "chamber": "3",
+  "ilam_number": "67",
+  "item_number": 5,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23141/",
+  "source_sha256": "e1620d9ccec5114b437d186e173688e621ce282ef33dce5cc89d5e31a08f13fb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
