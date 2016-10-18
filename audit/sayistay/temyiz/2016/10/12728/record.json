@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42317",
+  "decision_date": "2016-10-18",
+  "source_id": 12728,
+  "chamber": "1",
+  "file_number": "40472",
+  "account_year": "2013",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12728/",
+  "source_sha256": "ccb063417e7d103fb4362f6b038b11eff132d9d6e4cab16c0bf4135648dd4f7c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
