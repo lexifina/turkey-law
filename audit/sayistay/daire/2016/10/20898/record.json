@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "294",
+  "decision_date": "2016-10-18",
+  "source_id": 20898,
+  "chamber": "3",
+  "ilam_number": "37",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20898/",
+  "source_sha256": "cf8894360f4e13bd0e5ac725827382f71f462c0ff7ca86a54cbb900120db8ab7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
