@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "130",
+  "decision_date": "2016-10-18",
+  "source_id": 21942,
+  "chamber": "7",
+  "ilam_number": "47",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/21942/",
+  "source_sha256": "f5dfedc628711348286286be0fb0265ce1201c835c50fe3079d96b78d4204c4c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
