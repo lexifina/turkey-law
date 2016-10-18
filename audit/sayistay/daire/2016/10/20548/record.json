@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "295",
+  "decision_date": "2016-10-18",
+  "source_id": 20548,
+  "chamber": "3",
+  "ilam_number": "21",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20548/",
+  "source_sha256": "835132472c00ab919d08282cc49186b68ade3087e8eb9e275a6c90dabb6c56d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
