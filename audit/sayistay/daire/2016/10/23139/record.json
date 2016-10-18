@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "296",
+  "decision_date": "2016-10-18",
+  "source_id": 23139,
+  "chamber": "3",
+  "ilam_number": "67",
+  "item_number": 3,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23139/",
+  "source_sha256": "186744f102a5b9e13785e65d6bb31d28e26bcaf59c9bda529a16caaf4bc509d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
