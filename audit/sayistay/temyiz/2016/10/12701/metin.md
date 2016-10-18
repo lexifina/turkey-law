@@ -1,0 +1,3 @@
+Toplu İş Sözleşmesine maddesine aykırı olarak geçmiş yıllara ait derece ve kademe ilerlemesinde bulunulması ve aynı zamanda işçilerin pozisyon adı ile gelebileceği azami derecenin üzerinde derecelere taşınmaları
+
+5-) 216 sayılı İlam’ın 6’ncı maddesi  ile verilen tazmin hükmü, sorumlulukta Hukuk Müşaviri sıfatıyla iştiraki bulunan ...’in başvurusu üzerine düzenlenen 18.10.2016 tarih ve 42293 tutanak sayılı Temyiz Kurulu İlamı ile bozulduğundan ilgilinin işbu madde ile ilgili itirazı üzerine Kurulumuzca Yapılacak İşlem Olmadığına; ancak aynı mahiyette olan bu dosyanın, gereği yapılmak üzere 40444 sayılı dosya ile BİRLEŞTİRİLEREK DAİRESİNE TEVDİİNE, Oybirliği ile,
