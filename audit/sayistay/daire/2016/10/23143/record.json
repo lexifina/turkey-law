@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "296",
+  "decision_date": "2016-10-18",
+  "source_id": 23143,
+  "chamber": "3",
+  "ilam_number": "67",
+  "item_number": 7,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23143/",
+  "source_sha256": "b73fd236755bfee663f2fdace368ff88c6b8156f3ea746373d87eb7060e7a56b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
