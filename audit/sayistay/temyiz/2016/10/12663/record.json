@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42295",
+  "decision_date": "2016-10-18",
+  "source_id": 12663,
+  "chamber": "1",
+  "file_number": "40464",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12663/",
+  "source_sha256": "3c2268ffdeeec25de8672d3a42d13aed555657c0d7a83c02f1be8d6abc53885d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
