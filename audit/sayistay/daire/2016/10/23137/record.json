@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "296",
+  "decision_date": "2016-10-18",
+  "source_id": 23137,
+  "chamber": "3",
+  "ilam_number": "67",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23137/",
+  "source_sha256": "0c8ac23514a67cc1a9e42523a3e1f2bf3705dca9bfcb42ccd5110ed1e894d614",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
