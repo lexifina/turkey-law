@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42280",
+  "decision_date": "2016-10-18",
+  "source_id": 12620,
+  "chamber": "1",
+  "file_number": "40298",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12620/",
+  "source_sha256": "9a3eaa2dfe05128950a1d6617befb8fb2be98d351ea93090aaf6f1e59fec2bd5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
