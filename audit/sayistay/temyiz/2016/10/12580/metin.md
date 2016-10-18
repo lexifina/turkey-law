@@ -1,0 +1,3 @@
+Toplu İş Sözleşmesine maddesine aykırı olarak geçmiş yıllara ait derece ve kademe ilerlemesinde bulunulması ve aynı zamanda işçilerin pozisyon adı ile gelebileceği azami derecenin üzerinde derecelere taşınmaları
+
+7-) 362 sayılı Ek İlam’ın 8’inci maddesinin (A) ve (B) bentleri ile verilen tazmin hükümleri, sorumlulukta Hukuk Müşaviri sıfatıyla iştiraki bulunan ...’in başvurusu üzerine düzenlenen 18.10.2016 tarih ve 42272 tutanak sayılı Temyiz Kurulu İlamı ile bozulduğundan ilgilinin işbu madde ile ilgili itirazı üzerine Kurulumuzca Yapılacak İşlem Olmadığına; ancak aynı mahiyette olan bu dosyanın, gereği yapılmak üzere 40445 sayılı dosya ile BİRLEŞTİRİLEREK DAİRESİNE TEVDİİNE, Oybirliği ile,
