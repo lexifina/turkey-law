@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42311",
+  "decision_date": "2016-10-18",
+  "source_id": 12722,
+  "chamber": "1",
+  "file_number": "40376",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12722/",
+  "source_sha256": "d413fab19e0454d1d15b9f888b52f6223620be006e466326ff5c4c7bbd9649d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
