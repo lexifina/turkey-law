@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2016/DK-ETD/434",
+  "date": "2016-10-19",
+  "title": "BTK Kurul Kararı 2016/DK-ETD/434",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2016-11-03",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=89",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/dad62726-e6fd-4149-a2b1-9fe287a6d8be.pdf",
+  "source_sha256": "991326ea4b7f4b9b004120900a2424423303fee7668b45c5a06cc9ef41d163c6",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official link only",
+  "in_force": "2016-10-19",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 19.10.2016; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
