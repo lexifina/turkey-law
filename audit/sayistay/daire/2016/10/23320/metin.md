@@ -1,0 +1,13 @@
+Araç kiralama hizmeti alım işinde, araç model yıllarının şartnameye uygun olmaması
+
+30.12.2014 tarihinde ... Seyahat Taş. Tur. Nak. ve İnş. Tic. Ltd. Şti.'ne ihale edilen ...TL bedelli "2015-2016-2017 Yılları Arası 80 Adet Araç Kiralama ve 60 Kişi Şoför Çalıştırılmasına Ait Hizmet Alım İşi"nde çalıştırılan bazı araçların model yıllarının Teknik Şartname’ye uygun olmaması suretiyle kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede;
+
+Belirtilen işe ilişkin Teknik Şartname’nin "Kiralanacak Araçlarda Aranan Şartlar" başlıklı 3’üncü maddesinde; "Kiralanacak araçların tamamı 2013 model ve yukarısı olacaktır." denilmektedir.
+
+İşe ilişkin sözleşmenin "Cezalar Ve Sözleşmenin Feshi"başlıklı 16’ncı maddesinde ise; "16.1. İdare tarafından uygulanacak cezalar aşağıda belirtilmiştir: 16.1.1. İşin özelliği gereği sürekli tekrar eden işlerde, işin tekrar eden kısımlarının sözleşmeye uygun olarak gerçekleştirilmemesi halinde, idarece her bir aykırılık için ayrı ayrı uygulanmak üzere sözleşme bedelinin %0,1 (binde biri) oranında ceza kesilecektir.Ayrıca, bu aykırılıkların ardı ardına veya aralıklı olarak 10 (on)'a ulaşması durumunda, yukarıdaki öngörülen ceza uygulanmakla birlikte 4735 sayılı Kanunun 20.maddesinin (b) bendine göre protesto çekmeye gerek kalmaksızın sözleşme feshedilecektir...." hükümleri yer almaktadır.
+
+Söz konusu iş ile ilgili düzenlenen hakediş raporu ve ihale işlem dosyasında yer alan araç ruhsatlarının incelenmesi neticesinde; 31 adet aracın model yılları 2013 model ve üstü olarak öngörüldüğü halde kullanılan araçların 2013 model altı olduğu tespit edilmiştir. Bu durumda taahhüdün sözleşme şartlarında gerçekleşmediği anlaşıldığından sözleşmenin gereği olarak araç başına sözleşme bedelinin binde biri oranında ceza kesintisi (...TL x %0,1 x 31=...TL) uygulanması gerekmektedir.
+
+Bu itibarla; "2015-2016-2017 Yılları Arası 80 Adet Araç Kiralama ve 60 Kişi Şoför Çalıştırılmasına Ait Hizmet Alım İşi”nde sözleşme ve şartname hükümlerine aykırı olarak düşük modelli araç çalıştırılması ve buna ilişkin olarak yüklenici ...... Seyahat Taş. Tur. Nak. ve İnş. Tic. Ltd. Şti’den ceza kesintisinin yapılmaması neticesinde sebep olunan toplam ...TL tutarındaki kamu zararının, aşağıda ayrıntısına yer verilen tabloda görüleceği üzere ahizinden mahsuben tahsil olunduğu anlaşıldığından, ilişilecek husus kalmadığına,
+
+6085 sayılı Sayıştay Kanununun 55’inci  maddesi uyarınca ilamın tebliğinden itibaren altmış gün içinde temyiz başvurusu ve aynı Kanunun 56’ncı maddesi uyarınca ilamın tebliğinden itibaren 5 yıl içinde yargılamanın iadesi başvurusu yolları açık olmak üzere; oy birliğiyle karar verildi.
