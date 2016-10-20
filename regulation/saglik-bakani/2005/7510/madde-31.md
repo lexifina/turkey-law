@@ -1,0 +1,10 @@
+ÜÇÜNCÜ BÖLÜM
+Kaplar, Kapaklar ve Etiketler
+Kaplar
+Madde 31 — Suyun dolumunda kullanılacak kaplar ilgili Bakanlığın iznine tabidir. Bu kaplar, suyun niteliğini değiştirmeyecek ve su ile etkileşmeyecek, izin alınmış bir maddeden yapılır.
+Ambalajda cam dışındaki malzemeden yapılmış kapların kullanılması halinde, bu kapların sağlık açısından sakıncalı olmadığına, kullanım ve üretimine ilişkin bilgi ve belgeler ilgili Bakanlığa ibraz edilerek izne bağlanır.
+Suyun dolumunda kullanılan kaplar, geri dönüşlü ve geri dönüşsüz olmak üzere iki ayrı grupta değerlendirilir:
+a) (Değişik bent:RG-7/3/2013-28580) Geri dönüşlü kaplar: En az 55-70 °C sıcaklıktaki su ve uygun temizlik maddesi ile tam otomatik olarak el değmeden yıkanabilecek ve ayrıca kullanımı ve yıkama sonucu herhangi bir deformasyona uğramayacak nitelikte olur. Bu kapların dedektör ve benzeri sistemle niteliğinin değişmediğinin kontrol edilmesi gerekir. Bu kaplar üretim tarihinden itibaren en fazla (Değişik ibare:RG-20/10/2016-29863) beş yıl veya 75 kez kullanılır. Bu kapların kaç defa doldurulduğunun tespit edilmesine yarayan elektronik takip sistemi işletmeci tarafından oluşturulur, bu sistemin usul ve esasları Kurumca belirlenir.
+Geri dönüşlü polikarbonat kaplarda suyun adı ve kabın üretim tarihi boyun veya gövdesine kabartma şeklinde yazılır. Ayrıca, şirket ismi, tescilli amblemi veya logosu da yazılabilir. Bu kaplara farklı su dolumu yapılamaz. Bu kaplarda satışa sunulan suların raf ömrü üç aydan fazla olamaz.
+b) Geri dönüşsüz kaplar: Su dolumunda, cam ve metal dışında malzemeden yapılmış kapların kullanılması halinde, bu kaplar imlahanenin ilgili bölümlerinde otomatik olarak hammaddeden ve preformdan hareketle imal edilir. Kaplar dolumdan önce basınçlı (Değişik ibare:RG-7/3/2013-28580) su veya hava ile temizlenir, el değmeden otomatik sistemle doluma alınır.
+Suyun dolumunda cam, polietilen (PET) ve polivinilklorür (PVC) gibi geri dönüşsüz kapların dışında alüminyum folyodan otomatik olarak üretilen geri dönüşsüz ambalajlarda kullanılabilir.

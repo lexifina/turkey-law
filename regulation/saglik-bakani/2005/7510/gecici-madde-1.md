@@ -1,0 +1,1 @@
+Geçici Madde 1 — 18/10/1997 tarihli ve 23144 sayılı Resmî Gazete’de yayımlanan İçilebilir Nitelikteki Suların İstihsali, Ambalajlanması, Satışı ve Denetlenmesi Hakkında Yönetmelik hükümleri doğrultusunda doğal kaynak sularına ve içme sularına verilen fason dolum izinleri bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren 1 yıl sonra iptal edilmiş sayılır.

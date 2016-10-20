@@ -1,0 +1,1 @@
+Geçici Madde 3 — 18/10/1997 tarihli ve 23144 sayılı Resmî Gazete’de yayımlanan İçilebilir Nitelikteki Suların İstihsali, Ambalajlanması, Satışı ve Denetlenmesi Hakkında Yönetmelik hükümleri doğrultusunda izin verilen kaynak, içme, işlenmiş içme ve işlenmiş kaynak suyu işletmecileri, izinlerini 31/12/2007 tarihine kadar uyumlaştırmak zorundadır.

@@ -1,0 +1,5 @@
+Dayanak
+Madde 4 — (Değişik madde:RG-7/3/2013-28580)
+Bu Yönetmelik, 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 235 ve 242 nci maddeleri, 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 27 nci maddesi ile 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 40 ıncı maddesine dayanılarak,
+Bu Yönetmelik İnsani Kullanım Amaçlı Suların Kalitesine Dair 98/83/EC sayılı Konsey Direktifi ile Doğal Mineralli Sular İçin Konsantrasyon Limitleri ve Etiketleme Bilgileri Hakkında Liste Oluşturulması ve Doğal Mineralli Suların ve Kaynak Sularının Ozonla Zenginleştirilmiş Hava ile İşleme Tabi Tutulmasının Şartlarını Belirleyen 16/5/2003 tarihli ve 2003/40/EC sayılı Konsey Direktifine ve Doğal Mineralli Sulardan ve Kaynak Sularından Florürün Uzaklaştırılması İçin Aktif Alüminyum Kullanımının Şartları Hakkında 115/2010 sayılı AB Komisyonu Tüzüğüne paralel olarak,
+hazırlanmıştır.

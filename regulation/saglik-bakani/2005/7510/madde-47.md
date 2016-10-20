@@ -1,0 +1,5 @@
+Laboratuvar
+Madde 47 — Kaynak suyu ve içme suyu tesislerinde dolumu yapılan suyun günlük analizini yapmak amacıyla, su analizi yapabilen laboratuvar teknisyeni veya laboratuvar konusunda eğitim almış ön lisans veya lisans düzeyinde bir teknik elamanın sorumluğunda total jerm, koliform, (Mülga ibare:RG-7/3/2013-28580) (…), E. coli, nitrat, nitrit, amonyak ve pH parametreleri yönünden analizleri yapılacak bir laboratuvar bulunmalıdır. İşletmeciler kaynak suları ve içme sularına ait analiz raporlarını her parti için dosyalarda saklamakla mükelleftir. (Değişik son cümle:RG-7/3/2013-28580) Üretilen parti miktarı işletmeciler tarafından kayıt altına alınır ve bu sular, tesise ait laboratuvardaki analizleri sonuçlanmadan tüketicilere satılamaz.
+Bu laboratuvarda günlük analizleri kaydetmek üzere müdürlükçe mühürlenmiş ve onaylanmış bir defter bulundurulur.
+Yapılan denetimlerde bu defter incelenir ve ruhsata esas analiz sonuçları ile günlük analiz sonuçları karşılaştırılır.
+(Ek dördüncü fıkra:RG-7/3/2013-28580) Ayrıca işletmeciler suya ait iletkenlik, pH, debi gibi parametreleri elektronik olarak izleyebileceği sistemi oluşturur.

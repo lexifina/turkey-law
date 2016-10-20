@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.7510",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İNSANİ TÜKETİM AMAÇLI SULAR HAKKINDA YÖNETMELİK",
+  "number": "7510",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2005/7510",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=7510&MevzuatTertip=5",
+  "source_sha256": "f92552d662adc081ddae2212d9e83882515b7552f9b4ecad69399086f07dae55",
+  "source_bytes": 185970,
+  "published": "2005-02-17",
+  "gazette": "25730",
+  "in_force": "2016-10-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/10/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-10-20",
+      "RG-20/10/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-10-20",
+      "20/10/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-02-19",
+      "RG-19/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-19",
+      "19/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-04-11",
+      "RG-11/4/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-04-11",
+      "11/4/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-03-07",
+      "RG-7/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-07",
+      "7/3/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-07-31",
+      "RG-31/7/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-07-31",
+      "31/7/2009",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2006-09-15",
+      "RG-15/09/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-09-15",
+      "15/9/2006",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9438,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.7510%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
