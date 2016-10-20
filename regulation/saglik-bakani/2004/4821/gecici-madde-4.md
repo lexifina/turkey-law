@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 4 – (Ek madde:RG-29/11/2010-27770)
+Bu maddenin yürürlüğe giriş tarihinden önce izin alan işletmeciler, izinlerini bu Yönetmelikte belirtilen hususlara uyarak gerekli onay ve izinleri bir yıl içerisinde almak zorundadırlar. İşletmecilerin bir yıl içerisinde Valiliğe müracaatı durumunda, bir defaya mahsus olmak üzere ruhsat ve etiketler üzerinde gerekli düzeltmeler ücretsiz olarak yapılır.

@@ -1,0 +1,3 @@
+İşletmede Bulundurulacak Belgeler
+Madde 31 – (Değişik madde:RG-7/3/2013-28580)
+İşletmede Valilikçe verilen üretim izni belgesi, mesul müdüre ait fotoğraflı ve Müdürlükçe onaylı belge, yaprakları numaralanmış ve sonu Müdürlükçe onaylanmış denetleme defteri, 1593 sayılı Umumi Hıfzıssıhha Kanununun 126 ve 127 nci maddeleri gereğince yerine getirilmesi gereken iş ve işlemlere ait bilgi ve belgeler ile 30 uncu maddeye göre işletmeci tarafından yaptırılmış analizlerin sonuç raporları bulundurulur. Ayrıca, doğal mineralli suların üçüncü ülkelere ihracatı amacıyla 34 üncü madde uyarınca Müdürlükten izin alınmışsa, alınan izin belgesi de işletmede bulundurulur.

@@ -1,0 +1,1 @@
+Geçici Madde 2 -18/10/1997 tarihli ve 23144 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren İçilebilir Nitelikteki Suların İstihsali, Ambalajlanması, Satışı ve Denetlenmesi Hakkında Yönetmeliğin 5 inci maddesinin (e) bendi uyarınca verilen fason dolum izinleri, Yönetmeliğin yayımı tarihinden itibaren 1 yıl sonra iptal edilmiş sayılır.

@@ -1,0 +1,4 @@
+Laboratuvar
+Madde 39- Doğal mineralli su tesislerinde dolumu yapılan doğal mineralli suyun günlük analizini yapmak amacıyla laboratuvar teknisyeni veya laboratuvar konusunda eğitim almış ön lisans veya lisans düzeyinde bir personelin sorumluluğunda koliform, (Mülga ibare:RG-7/3/2013-28580) (…), total jerm, E. coli, nitrat, nitrit parametreleri yönünden analizleri yapılacak bir laboratuvar bulunur. İşletmeciler doğal mineralli suya ait analiz raporlarını her parti için dosyalarda saklamakla mükelleftir. (Değişik son cümle:RG-7/3/2013-28580) Üretilen parti miktarı işletmeciler tarafından kayıt altına alınır ve bu sular, tesise ait laboratuvardaki analizleri sonuçlanmadan tüketicilere satılamaz.
+Bu laboratuvarda günlük analizleri kaydetmek üzere müdürlükçe mühürlenmiş ve onaylanmış bir defter bulundurulur.
+Yapılan denetimlerde bu defter incelenir ve ruhsata esas analiz sonuçları ile günlük analiz sonuçları karşılaştırılır.

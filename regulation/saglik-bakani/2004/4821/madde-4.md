@@ -1,0 +1,26 @@
+Tanımlar
+Madde 4- Bu Yönetmelikte geçen deyimlerden;
+a) Bakanlık: Sağlık Bakanlığını,
+b) (Mülga:RG-7/3/2013-28580)
+c) Müdürlük: (Değişik ibare:RG-7/3/2013-28580) Halk Sağlığı Müdürlüğünü,
+d) Bilimsel Değerlendirme Komisyonu: Doğal mineralli suların kimyasal, fiziko kimyasal, mikrobiyolojik, farmakolojik, fizyolojik ve klinik değerlendirilmesi ve onaylanması için (Değişik ibare:RG-7/3/2013-28580) Kurumca oluşturulan komisyonu,
+e) (Değişik:RG-29/11/2010-27770) Doğal mineralli su: Yerkabuğunun çeşitli derinliklerinde uygun jeolojik şartlarda doğal olarak oluşan, bir veya daha fazla kaynaktan yeryüzüne kendiliğinden çıkan veya teknik usullerle çıkartılan, mineral içeriği, kalıntı elementleri ve diğer bileşenleri ile tanımlanan, her türlü kirlenme riskine karşı korunmuş, mikrobiyolojik yönden uygun ve bu Yönetmeliğin 5 inci, 6 ncı ve 7 nci maddelerinde belirtilen özellikleri haiz olup 8 inci maddeye göre onaylanan suları,
+f) Kurul: Doğal mineralli suları incelemek üzere her ilde (Değişik ibare:RG-7/3/2013-28580) Halk Sağlığı Müdürünün teklifi ve Valiliğin onayı ile oluşturulan inceleme kurulunu,
+g) Tesis izni: Doğal mineralli su işletmelerinin inşası için bu Yönetmelik uyarınca verilen izni,
+h) (Değişik ibare:RG-7/3/2013-28580) Üretim izni: Doğal mineralli su işletmelerine bu Yönetmelik uyarınca verilen (Değişik:RG-7/3/2013-28580) izin belgesini,
+ı) Otomatik makine: İmlahanede yer alan ve yıkama, doldurma ve kapaklama işlemlerini el değmeden otomatik olarak yapan makineyi,
+j) Otomatik sistem: İşletmede üretimi yapılan ambalajın temizlenmesi, dolum ve kapaklanma işlemlerini el değmeden otomatik olarak uyum içinde yapan sistemi,
+k) (Değişik:RG-17/4/2014-28975) Geri dönüşlü kap: Doğal mineralli su dolumunda bir defadan fazla kullanılan ve su ile etkileşim yapmayan cam, metal, krom-nikel, polikarbonat ve benzeri kapları,
+l) (Değişik:RG-17/4/2014-28975) Geri dönüşsüz kap: Doğal mineralli su dolumunda bir defadan fazla kullanılmayacak pet, cam, metal, krom-nikel ve benzeri kapları,
+m) Kurul ön raporu: Yönetmelikte belirtilen usul ve esaslar doğrultusunda doğal mineralli su kaynağı ve tesis yeri ile ilgili olarak Kurulca hazırlanan ilk raporu,
+n) Kurul son raporu: Tesis izni aşamasında sunulan projelere ve bu Yönetmelik esaslarına göre doğal mineralli su tesisinin tamamının inşa edilip tamamlandığına dair Kurulca hazırlanan son raporu,
+o) Komisyon: Avrupa Birliği Komisyonunu,
+p) Üye ülke: Avrupa Birliği üyesi olan ülkeleri,
+r) Üçüncü ülkeler: Avrupa Birliği üyesi olmayan ülkeleri,
+s) (Ek:RG-29/11/2010-27770) Koruma alanı: Kaynak ve bunların bağlı olduğu jeotermal sistemin; bozulmasına, kirlenmesine ve sürdürülebilir özelliğinin yitirilmesine neden olacak dış etkenlerden korumak amacıyla sahanın jeolojik, hidrojeolojik yapısı, iklim koşulları, zemin cinsi ve tipleri, drenaj sahası sınırı, kaynak ve kuyu çevresindeki yerleşim birimleri, endüstri tesisleri, çevrenin topografik yapısı gibi unsurlara bağlı olarak belirlenmiş, önlemler alınması gereken, içerisinde yapılan faaliyetlerin kontrol ve denetime tâbi olduğu ve gerektiğinde yapılaşma ve arazi kullanım faaliyetleri kısıtlanabilir alanları,
+ş) (Ek:RG-7/3/2013-28580) Kurum: Türkiye Halk Sağlığı Kurumunu,
+t) (Ek:RG-7/3/2013-28580) Parti no: Aynı şartlarda üretilen, imal edilen veya ambalajlanan bir suyun satış birimleri topluluğu için kullanılan sayısal değeri,
+u) (Ek:RG-7/3/2013-28580) (Değişik:RG-17/4/2014-28975) Seri no: Aynı şartlarda belirli zaman diliminde üretilen, imal edilen veya ambalajlanan suyu ayırt etmek için kullanılan sayısal değeri,
+ü) (Ek:RG-17/4/2014-28975) Kontrol izlemesi: Yönetmeliğin 7 nci maddesi ile Ek-3’te yer alan parametreleri kapsayacak şekilde yaptırılan analizleri,
+v) (Ek:RG-17/4/2014-28975) Denetim izlemesi: Yönetmeliğin 6 ve 7 nci maddeleri ile Ek-3’te yer alan parametreleri kapsayacak şekilde yaptırılan analizleri,
+ifade eder.
