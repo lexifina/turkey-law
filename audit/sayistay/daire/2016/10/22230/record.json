@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "132",
+  "decision_date": "2016-10-20",
+  "source_id": 22230,
+  "chamber": "7",
+  "ilam_number": "75",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22230/",
+  "source_sha256": "8776c4d358873ac54d230ae8df59d44ceecda96384f705e8a070ab1ef8d5e7d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
