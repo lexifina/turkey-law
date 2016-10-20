@@ -1,0 +1,5 @@
+….. Üniversitesi Döner Sermaye İşletmesine bağlı Sağlık Uygulama ve Araştırma Merkezine (….. Hastanesine) ait elektrik faturasında; endüktif reaktif enerji bedeli ödenmesi.
+
+….. Üniversitesi Döner Sermaye İşletmesine bağlı ….. Hastanesine ait elektrik faturasında; ….. Elektrik Perakende Satış A.Ş. tarafından tahakkuk ettirilen endüktif reaktif enerji bedelinin ödenmesine ilişkin olarak;
+
+Enerji Piyasası Düzenleme Kurulu’nun 28.12.2012 tarih ve 28511 sayılı Resmi Gazetede yayımlanan 4193 sayılı kararıyla onaylanmış olan “Dağıtım Lisansı Sahibi Tüzel Kişiler ve Görevli Perakende Satış Şirketlerinin Tarife Uygulamalarına ilişkin Usul ve Esaslar”ın 12 nci maddesine, 18.06.2014 tarih ve 29034 sayılı Resmi Gazetede yayımlanan 5037 sayılı Kurul Kararı ile eklenen dördüncü fıkraya göre; kurulu gücü 50 KVA’nın üzerinde olan müşteriler çektikleri aktif enerji miktarının yüzde yirmisini aşan şekilde endüktif reaktif enerji tüketmeleri halinde, reaktif enerji tüketim bedeli ödemekle yükümlü olduklarından, toplam ….. TL reaktif enerji bedeli ödenmesine ilişkin olarak ilişilecek bir husus bulunmadığına oybirliğiyle,
