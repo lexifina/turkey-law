@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "383",
+  "decision_date": "2016-10-20",
+  "source_id": 22161,
+  "chamber": "6",
+  "ilam_number": "46",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22161/",
+  "source_sha256": "3b935bd5636921e4f1b987f61ae60a7d9ff2fa8286e1e5567d0d0f5b3256369f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
