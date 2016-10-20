@@ -1,0 +1,465 @@
+20 Ekim 2016 PERŞEMBE
+Resmî Gazete
+Sayı : 29863
+YÖNETMELİK
+Sağlık Bakanlığından:
+KİŞİSEL SAĞLIK VERİLERİNİN İŞLENMESİ VE
+MAHREMİYETİNİN
+SAĞLANMASI HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; kişisel verilerin
+korunması ve veri mahremiyetinin sağlanmasına, kişisel sağlık verilerini
+toplama, işleme, aktarma, bu verilere erişim için kurulacak sisteme,
+kişisel sağlık verisi kaydı tutulan sistemlerin güvenliği ve denetimi ile
+sağlık hizmeti sunumundaki personel hareketlerinin Bakanlığa bildirilmesine
+ilişkin işlemlerde uyulacak usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik;
+a) Sağlık hizmeti sunucuları,
+b) Kişisel sağlık verileri işlenen gerçek kişiler,
+c) Sağlık hizmet sunucularına ait bilgi işlem
+sistemleri yazılım ve donanımı ile dosyalama sistemi gibi hizmetleri sunan
+gerçek ve tüzel kişiler,
+ç) Bunlar dışında kalan ve bir mevzuat çerçevesinde
+kişisel sağlık verilerini işleyen kamu kurum ve kuruluşları ile özel hukuk
+gerçek ve tüzel kişiler,
+ile ilgili hükümleri kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 10/11/2011 tarihli ve 663
+sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri
+Hakkında Kanun Hükmünde Kararnamenin 8 inci maddesinin birinci
+fıkrasının (j) bendi ile 47 nci maddesi, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri
+Temel Kanununun 3 üncü maddesinin birinci fıkrasının (f) bendine ve
+24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununa
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Anonim hale getirme: Kişisel sağlık verilerinin,
+başka verilerle eşleştirilerek dahi hiçbir surette kimliği belirli veya
+belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek hâle
+getirilmesini,
+b) Bakanlık: Sağlık Bakanlığını,
+c) Bilgi güvenliği yetkilisi: İlgili kurumun üst
+düzey yöneticisi tarafından bilgi güvenliği politikalarının uygulanması
+için yetki verilen kişiyi,
+ç) Genel Müdürlük: Sağlık Bilgi Sistemleri Genel
+Müdürlüğünü,
+d) İlgili kişi: Kişisel sağlık verisi işlenen
+gerçek kişiyi,
+e) Kanun: 6698 sayılı Kanunu,
+f) Kişisel sağlık kaydı sistemi: İlgili kişilerin
+sağlık verilerine kendilerinin veya yetki verdikleri üçüncü kişilerin
+erişimini sağlayan, e-devlet uygulamalarına uygun olarak kurulan sistemi,
+g) Kişisel sağlık verisi: Kimliği belirli veya
+belirlenebilir gerçek kişiye ilişkin her türlü sağlık bilgisini,
+ğ) Kişisel sağlık verilerinin
+işlenmesi: Kişisel sağlık verilerinin tamamen veya kısmen otomatik olan ya
+da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik
+olmayan yollarla elde edilmesi, kaydedilmesi, depolanması, muhafaza
+edilmesi, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması,
+devralınması, elde edilebilir hale getirilmesi, sınıflandırılması ya da
+kullanılmasının engellenmesi gibi sağlık verileri üzerinde gerçekleştirilen
+her türlü işlemi,
+h) Komisyon: Bakanlık bünyesinde kurulan Kişisel
+Sağlık Verileri Komisyonunu,
+ı) Kurul: Kişisel Verileri Koruma Kurulunu,
+i) Merkezi sağlık veri sistemi: Bakanlık tarafından
+oluşturulan kişisel sağlık verilerinin toplandığı veri sistemini,
+j) Müsteşar: Sağlık Bakanlığı Müsteşarını,
+k) Sağlık hizmeti sunucusu: Sağlık hizmetini sunan
+veya üreten gerçek kişiler ile kamu hukuku ve özel hukuk tüzel kişilerini,
+l) Siber Olaylara Müdahale Ekibi:
+Kuruma doğrudan ya da dolaylı olarak yapılan veya yapılması muhtemel siber
+saldırılara karşı gerekli önlemleri alma veya aldırma, bu tür olaylara
+karşı müdahale edebilecek mekanizmayı ve olay kayıt sistemlerini kurma veya
+kurdurma ve kurumlarının bilgi güvenliğini sağlamaya yönelik çalışmaları
+yapmak veya yaptırmakla yükümlü olan birimi,
+m) USVS: Bakanlıkça yayımlanan Ulusal Sağlık Veri
+Sözlüğünü,
+n) Veri işleyen: Veri sorumlusunun verdiği yetkiye
+dayanarak onun adına kişisel verileri işleyen gerçek veya tüzel kişiyi,
+o) Veri sorumlusu: Kişisel sağlık verilerinin
+işlenme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin
+kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi,
+ö) Yönerge: Bakanlıkça yayımlanan Bilgi Güvenliği
+Politikaları Yönergesini,
+ifade eder.
+İKİNCİ BÖLÜM
+Kişisel Sağlık Verilerinin İşlenmesinde Genel İlke
+ve Esaslar
+Genel
+ilke ve esaslar
+MADDE 5 – (1) Kişisel sağlık verileri, ancak bu Yönetmelikte
+ve Kanun’da öngörülen usul ve esaslara uygun olarak işlenebilir.
+(2) Kişisel sağlık verilerinin işlenmesinde
+aşağıdaki ilkelere uyulması zorunludur:
+a) Hukuka ve dürüstlük kurallarına uygun olma,
+b) Doğru ve gerektiğinde güncel olma,
+c) Belirli, açık ve meşru amaçlar için işlenme,
+ç) İşlendikleri amaçla bağlantılı, sınırlı ve
+ölçülü olma,
+d) İşlendikleri amaç için gerekli olan süre kadar
+muhafaza edilme.
+(3) Sağlık hizmet sunucularında görevli kişiler
+ilgili kişinin sağlık verilerine ancak verilecek olan sağlık hizmetinin
+gereği ile sınırlı olmak kaydıyla işleyebilir ve erişebilir.
+(4) Kişisel sağlık verilerini işleyen veya görevi
+gereği kişisel sağlık verilerine erişen herkes, bu verilerle ilgili olarak
+sır saklama yükümlülüğü altındadır.
+(5) Sağlık hizmet sunucularında veri işleyen
+kişiler, kişisel sağlık verilerini sağlık hizmet sunucularının tamamen veya
+kısmen otomatik olan ya da otomatik olmayan her türlü sistemleri ile
+Bakanlığın ülke genelinde hizmet vermek amaçlı kurulan sistemleri dışında
+hiçbir yere kopyalayamaz veya kaydedemez.
+(6) Sağlık hizmet sunucuları, Bakanlığın ve Kişisel
+Verileri Koruma Kurulunun belirlemiş olduğu standartlara uygun elektronik
+kayıt sistemlerinin kurulmasından ve işletilmesinden, güvenlik ve
+mahremiyetinin sağlanmasından, ayrıca elektronik sağlık kayıtlarının
+merkezi sağlık veri sistemine aktarılmasından sorumludur.
+(7) Kişisel sağlık verileri anonim hale getirilmek
+kaydıyla; sağlık politikalarının belirlenmesi, sağlık maliyetlerinin
+hesaplanabilmesi, sağlık hizmetlerinin geliştirilmesi, bilimsel faaliyetler
+ve istatistiksel çalışmalarda kullanılmak üzere yayımlanabilir ve
+aktarılabilir.
+(8) Sağlık hizmet sunucularınca kişisel sağlık
+verileri, merkezi sağlık veri sistemine Bakanlıkça belirlenen usul ve
+esaslara uygun bir şekilde aktarılır.
+(9) İlgili kişinin ayrıntılı bir şekilde
+bilgilendirilmesi, yazılı rızasının alınması ve bu rızanın muhafaza
+edilmesi hâlinde ilgili kişiye ait sağlık verileri, rıza doğrultusunda işlenebilir
+ve aktarılabilir.
+ÜÇÜNCÜ BÖLÜM
+Kişisel Sağlık Verilerinin Korunması, İşlenmesi,
+Aktarılması ve Silinmesi
+Kişisel
+sağlık verilerinin korunması
+MADDE 6 – (1) Veri işleyen, bu görevinin gereği olarak
+öğrendiği verilerin mahremiyetini korumakla, veri işleme sürecine ilişkin
+olarak belirlenen kurallara ve standartlara uymakla yükümlüdür.
+(2) Sağlık hizmet sunucuları, kişisel sağlık
+verilerinin mahremiyetini sağlamak amacıyla Bakanlıkça belirlenen tüm
+önlemleri alır.
+(3) Kişisel sağlık verilerinin ihlâlinden şüphe
+duyulması halinde Bakanlığa bildirim yapılır ve bu bildirimlerde, Genel
+Müdürlükçe hazırlanan ihlâl bildirim formu kullanılır. Bildirim, elektronik
+ortamda da yapılabilir.
+(4) Bildirimi alan görevli; ihlâl edilen veri
+kategorileri, verileri ihlâl edilen kişi sayısı, ihlâlin muhtemel sonuçları
+ve alınması gereken önlemler hakkında en yakın yöneticiden başlamak üzere
+sıralı yöneticileri gecikmeksizin bilgilendirir. İhlâlin gerçekleştiği
+sistemin veri sorumlusu ve bilgi işlem görevlileri ile iletişime geçilir.
+(5) İhlâl bildirimi ile ilgili olarak Genel
+Müdürlükçe idari inceleme yapılır ve idari incelemenin sonucu Kişisel
+Sağlık Verileri Komisyonuna bir raporla bildirilir.
+(6) Yürütülen idari soruşturma neticesinde kişisel
+sağlık verileri ihlâl edilen ilgili kişilere, Komisyon tarafından uygun
+görülen bir yöntemle bilgi verilir.
+(7) Kişisel sağlık verilerinin bulunduğu bilgi
+sistemleri, kullanıcı tanımlanması ve yetkilendirme dâhilinde kullanılır.
+Kullanıcı tanımlama ve yetkilendirmeye ilişkin her türlü işlem kayıt altına
+alınır ve bu kayıtlar muhafaza edilir. Yetkilendirme, kayıt altına alma ve
+verilerin muhafazasına ilişkin hususlar, Genel Müdürlükçe belirlenir.
+(8) Kişisel sağlık verilerinin bulunduğu bilgi
+sistemlerine erişen kullanıcıların erişim kaydı, sağlık hizmet sunucularının
+sistemlerinde Bakanlıkça belirlenen standartlara uygun olarak tutulur.
+Kişisel
+sağlık verilerinin işlenmesi
+MADDE 7 – (1) Kişisel sağlık verileri; kamu sağlığının
+korunması, koruyucu hekimlik, tıbbî teşhis, tedavi ve bakım hizmetlerinin
+yürütülmesi, sağlık hizmetleri ile finansmanının planlanması ve yönetimi
+amacıyla, sır saklama yükümlülüğü altında bulunan kişiler veya yetkili
+kurum ve kuruluşlar tarafından ilgilinin açık rızası aranmaksızın
+işlenebilir.
+(2) Kişisel sağlık verilerinin, ilk fıkrada sayılan
+amaçlar dışında anonim hale getirilmeden işlenmesi için ilgili kişiye ait
+verilerin işlenme gerekçesi ile ilgili olarak ayrıntılı bir şekilde
+bilgilendirilmesi, yazılı rızasının alınması ve bu rızanın muhafaza
+edilmesi gerekir.
+(3) İlgili kişi, aksi yönde bir hukukî düzenleme
+veya yargı kararı bulunmaması halinde verilerinin işlenmesi ve aktarılması
+için vermiş olduğu rızayı istediği zaman geri alabilir. Rızanın geri
+alınması, o tarihe kadar yapılmış bulunan işlemler bakımından etkili olmaz.
+(4) Kişisel sağlık verilerinin işlenmesinde ayrıca
+Kurul tarafından belirlenen yeterli önlemler de alınır.
+Kişisel
+sağlık verilerinin aktarılması
+MADDE 8 – (1) Kişisel
+sağlık verileri; kamu sağlığının korunması, koruyucu hekimlik, tıbbî
+teşhis, tedavi ve bakım hizmetlerinin yürütülmesi, sağlık hizmetleri ile
+finansmanının planlanması ve yönetimi amacıyla, Kurul tarafından belirlenen
+önlemlerin de alınması ve üçüncü fıkrada öngörülen şartların sağlanması
+suretiyle, kanunlarında açıkça öngörülmüş olması hâlinde ilgili kamu kurum
+ve kuruluşlarına aktarılabilir.
+(2) Kişisel sağlık verileri; birinci fıkrada
+öngörülen haller dışında ancak anonim hale getirilmek suretiyle aktarılabilir.
+(3) Kanun ile belirlenmiş olan görev ve
+sorumluluklarını yerine getirmek üzere veri talebinde bulunan kamu kurum ve
+kuruluşları ile Bakanlık veya bağlı kurum ve kuruluşları arasında yapılacak
+veri aktarımı; aktarımın usulünü ve diğer gerekli hususları belirleyen bir
+protokol aracılığı ile yapılır.
+(4) Kişisel sağlık verilerinin uluslararası
+aktarımına ilişkin her türlü talep ile bu maddede sayılanlar dışındaki veri
+aktarımı talepleri, Kanunda öngörülen hükümler çerçevesinde, genetik
+verilerin hassasiyeti hususu da dikkate alınarak Komisyon tarafından
+değerlendirilir.
+Kişisel
+sağlık verilerinin silinmesi
+MADDE 9 – (1) Bu Yönetmelik, 6698 sayılı Kanun ve ilgili
+diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini
+gerektiren sebeplerin ortadan kalkması halinde kişisel sağlık verileri,
+ilgili kişinin talebi üzerine veri sorumlusu tarafından anonim hale
+getirilir veya silinir.
+(2) Silinmesi talep edilen veriler; bir hakkın
+tesisi, kullanılması veya korunması ya da verilerin ihtiyaç halinde adli
+mercilere verilebilmesini mümkün kılmak için, Bakanlıkça kurulan merkezi
+bir sistemde veri bütünlüğü bozulmadan arşivlenir. Arşivlenen verilere bu
+amaçlar dışında erişim engellenir.
+(3) Merkezi sağlık veri sistemine aktarılan
+veriler, aktarımın yapıldığı tarihten 10 yıl sonra yerel veri tabanından
+silinebilir.
+(4) Kişisel verilerin silinmesine, yok edilmesine
+veya anonim hâle getirilmesine ilişkin diğer kanunlarda yer alan hükümler
+saklıdır.
+DÖRDÜNCÜ BÖLÜM
+Veri Sahibi ve Veri Sorumlusu
+Veri
+sahibi
+MADDE 10
+– (1) Veri sahibi, 4 üncü maddede
+tanımlanan ilgili kişidir.
+(2) Veri sahibi, veri sorumlusuna başvurarak
+kendisiyle ilgili;
+a) Kişisel sağlık verisi işlenip işlenmediğini
+öğrenme,
+b) Kişisel sağlık verisi işlenmişse buna ilişkin
+bilgi talep etme,
+c) Kişisel sağlık verilerine erişim ve bu verileri
+isteme,
+ç) Kişisel sağlık verilerinin işlenme amacını ve
+bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
+d) Yurt içinde veya yurt dışında kişisel sağlık
+verilerinin aktarıldığı üçüncü kişileri bilme,
+e) Kişisel sağlık verilerinin eksik veya yanlış
+işlenmiş olması hâlinde bunların düzeltilmesini isteme,
+f) 9 uncu maddede öngörülen şartlar çerçevesinde
+kişisel verilerin silinmesini isteme,
+g) (e) ve (f) bentleri uyarınca yapılan işlemlerin,
+kişisel sağlık verilerinin aktarıldığı üçüncü kişilere bildirilmesini
+isteme,
+ğ) İşlenen kişisel sağlık verilerinin münhasıran
+otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi
+aleyhine bir sonucun ortaya çıkmasına itiraz etme,
+h) Kişisel sağlık verilerinin Kanuna aykırı olarak
+işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep
+etme,
+haklarına sahiptir.
+(3) Veri sahibinin, ikinci fıkranın (a), (b), (c),
+(ç) veya (d) bentlerinde sayılan haklarından biri veya birkaçını kullanması
+hâlinde ilgili bilgi kendisine, açık ve anlaşılabilir bir şekilde, yazılı
+olarak veya elektronik ortamda bildirilir.
+Veri
+sorumlusu
+MADDE 11
+– (1) Kişisel verilerin elde
+edilmesi sırasında veri sorumlusu veya yetkilendirdiği kişi, ilgili kişilere;
+a) Veri sorumlusunun ve varsa temsilcisinin
+kimliği,
+b) Kişisel verilerin hangi amaçla işleneceği,
+c) İşlenen kişisel verilerin kimlere ve hangi
+amaçla aktarılabileceği,
+ç) Kişisel veri toplamanın yöntemi ve hukuki
+sebebi,
+d) 10 uncu maddede sayılan diğer hakları,
+konularında bilgi vermekle yükümlüdür.
+(2) Veri sorumlusu;
+a) Kişisel sağlık verilerinin hukuka aykırı olarak
+işlenmesini önlemek,
+b) Kişisel sağlık verilerine hukuka aykırı olarak
+erişilmesini önlemek,
+c) Kişisel sağlık verilerinin muhafazasını
+sağlamak,
+ç) Sorumlu olduğu sistemlerde yaşanabilecek
+muhtemel veri kayıplarının önüne geçmek,
+amaçlarıyla, uygun güvenlik düzeyini temin etmeye yönelik
+olarak Bakanlıkça belirlenen her türlü tedbiri almak zorundadır.
+(3) Veri sorumlusu, kişisel sağlık verilerinin
+kendi adına başka bir gerçek veya tüzel kişi tarafından işlenmesi hâlinde,
+birinci fıkrada belirtilen tedbirlerin alınması hususunda bu kişilerle
+birlikte müştereken sorumludur.
+(4) Veri sorumlusu, kendi kurum veya kuruluşunda,
+Kanun ve bu Yönetmelik hükümlerinin uygulanmasını sağlamak amacıyla gerekli
+denetimleri yapmak veya yaptırmak zorundadır.
+(5) Veri sorumluları ile veri işleyen kişiler,
+öğrendikleri kişisel sağlık verilerini, Kanun ve bu Yönetmelik hükümlerine
+aykırı olarak başkasına açıklayamaz ve işleme amacı dışında kullanamazlar.
+Bu yükümlülük görevden ayrılmalarından sonra da devam eder.
+(6) İşlenen kişisel verilerin kanuni olmayan
+yollarla başkaları tarafından elde edilmesi hâlinde, veri sorumlusu bu
+durumu en kısa sürede Komisyona bildirir. Komisyon, gerekmesi hâlinde bu
+durumu Bakanlığın internet sitesinde ya da uygun göreceği başka bir
+yöntemle ilân edebilir.
+(7) Veri sorumlusu, gerekmesi hâlinde bulunduğu
+ilde görev yapan bilgi güvenliği yetkilisi ve Siber Olaylara Müdahale Ekibi
+yetkilisi ile işbirliği yapar.
+BEŞİNCİ BÖLÜM
+Kişisel Sağlık Verileri Komisyonu ve Genel Müdürlük
+Kişisel
+Sağlık Verileri Komisyonu
+MADDE 12
+– (1) Kişisel sağlık verilerine
+ilişkin hususlarda, Kanunun ve Kişisel Verileri Koruma Kurulunun
+belirlediği ilkelere uygun olarak Bakanlık politikasının belirlenmesine
+yardımcı olmak, görüş belirtmek, anlaşmazlıkları çözümlemek, veri
+aktarımına ilişkin başvuruları değerlendirmek, şikayetleri
+incelemek ve gerekli denetimleri yapmak üzere, Müsteşara bağlı olarak görev
+yapacak Kişisel Sağlık Verileri Komisyonu oluşturulur.
+(2) Komisyon, Müsteşarın veya görevlendirdiği
+Müsteşar Yardımcısının başkanlığında, Hukuk Müşavirliği, Sağlık Hizmetleri
+Genel Müdürlüğü, Sağlık Bilgi Sistemleri Genel Müdürlüğü, Yönetim
+Hizmetleri Genel Müdürlüğü, Acil Sağlık Hizmetleri Genel Müdürlüğü, Türkiye
+Kamu Hastaneleri Kurumu, Türkiye Halk Sağlığı Kurumu, Türkiye İlaç ve Tıbbi
+Cihaz Kurumu ve Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünün bu işle
+ilgili yetkilendirdikleri birer üyeden oluşur.
+(3) Komisyon gerekli hallerde toplantıya çağrılır.
+Komisyon tarafından alınacak kararlar, gereği yapılmak üzere ilgililere
+gönderilir.
+(4) Komisyon, kişisel sağlık verilerinin hukuka
+uygun olarak işlenmesi ve mahremiyetinin korunması için kapsamda bulunan
+yerlerde denetim yapabilir. Bu denetime ilişkin usul ve esaslar Bakanlıkça
+belirlenir.
+Genel
+Müdürlüğün görevi
+MADDE 13
+– (1) Aşağıda belirtilen görevler,
+Genel Müdürlük tarafından yürütülür.
+a) Kişisel sağlık verilerinin tutulacağı merkezî
+veri sistemini kurar,
+b) Sağlık hizmeti sunan tüm kamu ve özel sağlık
+kuruluşları ile sağlık meslek mensupları tarafından tutulan kayıtların, hizmet
+sunucuları tarafından merkezi sağlık veri sistemine gönderilmesini sağlar,
+c) Tüm sistemlerin entegrasyonu
+için gerekli teknik düzenlemeleri yapar,
+ç) Ülke çapında sağlık durumu ve sağlık
+hizmetlerine ilişkin her türlü verinin depolanmasını ve aktarımını mümkün
+kılan bilgi sistemleri ile ilgili standartları belirler,
+d) İlgili kişilerin sağlık verilerine kendilerinin
+veya yetki verdikleri üçüncü kişilerin erişimini sağlayan bir kişisel
+sağlık kaydı sistemi kurar,
+e) Sistemlere içeriden veya dışarıdan yetkisiz
+erişimleri engellemek üzere üst düzey güvenlik önlemlerinin alınmasını
+sağlar,
+f) Sistemlerin yönetimi ve organizasyonuna ilişkin
+belgeleri internet sayfasında yayımlar ve gerektiğinde bu konuda eğitim ve
+yönlendirme çalışmaları yapar,
+g) Bu Yönetmelikle ilgili tüm hususlarda
+bilgilendirici içeriğin yer aldığı bir internet sayfası hazırlar,
+ğ) Sistemlerin kullanımında oluşabilecek teknik
+sorunların çözümü için çağrı merkezi kurar veya kurdurur ve internet
+ortamından destek verir.
+ALTINCI BÖLÜM
+Merkezi Sağlık Veri Sistemi ve Kişisel Sağlık Kaydı
+Sistemi
+Merkezi
+sağlık veri sistemi
+MADDE 14
+– (1) Sağlık hizmet sunucuları,
+sağlık hizmeti almak üzere kendilerine müracaat eden kişilere ait verileri,
+Bakanlık tarafından çıkarılan mevzuat ile belirlenmiş süreler içerisinde,
+kullandıkları yazılıma Bakanlıkça belirlenen standartlara uygun bir şekilde
+kaydetmek ve bu verileri Bakanlıkça belirlenen standartlara uygun bir
+şekilde merkezi sağlık veri sistemine göndermek zorundadırlar. Kişisel
+sağlık verilerinin merkezi sağlık veri sistemine aktarılması, veri
+sorumlusunun görev ve yetkisindedir.
+(2) Merkezi sağlık veri sisteminin doğru bir
+şekilde çalışması, yeni servis entegrasyonu ve
+sağlık hizmet sunucuları tarafından kaydedilen verilerin bu sisteme doğru,
+eksiksiz ve gecikmeksizin aktarılması için sağlık hizmet sunucularının
+kullandığı yazılımlar, Bakanlıkça belirlenen standartlar ile uyumlu olmak
+zorundadır.
+(3) Bu Yönetmelik kapsamındaki kişi ve kurumlar;
+a) Bakanlıkça verilen yetki belgesine sahip,
+b) Bakanlıkça yayımlanan yazılım sürüm notlarına,
+yeni standartlara ve geliştirmelere uyumlu,
+c) Bakanlık tarafından kullanılan sistemlere
+uyumlu,
+yazılım kullanırlar.
+(4) Bu madde uyarınca kullanılacak yazılımların
+Bakanlıkça belirlenen şartlara ve yayımlanan standartlara uygunluğu,
+Bakanlıkça denetlenir.
+(5) Üçüncü fıkrada öngörülen yükümlülüğün yerine
+getirilmemesi veya eksik ya da hatalı yerine getirilmesi hâlinde ilgili
+veri sorumlusu yazılı olarak uyarılır. Uyarıyı gerektiren problemin yedi
+gün içerisinde giderilmemesi hâlinde uyarı tekrarlanır. İkinci uyarıdan
+itibaren yedi günün sonunda uyarıyı gerektiren problemin giderilmemiş
+olması hâlinde, Kanun’un 14 üncü maddesi uyarınca veri sorumlusu hakkında
+Kurul’a şikayette bulunulur. Veri sorumlusunun
+kamu çalışanı olması hâlinde disiplin hükümleri uygulanır.
+Kişisel
+sağlık kaydı sistemi
+MADDE 15 – (1) İsteyen her
+vatandaş; kendisine sunulan sağlık hizmetlerini takip etmek, kendisine ait
+sağlık kayıtlarını yönetmek, sağlık tesislerinde kendisine uygulanan işlemleri
+ve sonuçlarını incelemek, kişisel sağlık verilerine her yerden erişmek ve
+bu verileri yetki verdiği üçüncü kişilerle paylaşmak için Bakanlık
+tarafından hazırlanan kişisel sağlık kaydı sistemi üzerinde kullanıcı
+hesabı oluşturabilir.
+(2) Kullanıcı hesabı e-devlet üzerinden
+oluşturulabileceği gibi, ilgili kişinin başvurusu üzerine aile hekimi tarafından
+da oluşturulabilir.
+(3) İlgili kişi tarafından yetki verilmesi halinde
+kişisel sağlık verilerine ilgili kişinin belirleyeceği kişiler tarafından
+da erişilebilir.
+(4) Anne veya babanın, onbeş
+yaş altındaki çocuklarının kişisel sağlık verilerine erişimleri için diğer
+ebeveynin onayı gerekir. Evliliğin sona ermiş olması hâlinde velayet
+hakkını kullanma yetkisine sahip bulunan ana veya baba, çocuğun kişisel sağlık
+verilerine erişimi için diğer tarafın onayına ihtiyaç duymaz.
+(5) İlgili kişi, kişisel sağlık kaydı sistemi
+üzerinden kendisine ilişkin sağlık verilerini yönetebilir, bu verileri silebilir,
+eksik bilgilerinin sisteme eklenmesini, yanlış bilgilerin düzeltilmesini
+veya silinmesini talep edebilir, kullanıcı hesabını dondurabilir.
+YEDİNCİ BÖLÜM
+Bildirim Yükümlülüğü
+Bildirim
+yükümlülüğü
+MADDE 16
+– (1) Sağlık personeli istihdam
+eden sağlık hizmet sunucuları, istihdam ettiği personele ait bilgileri ve
+personel hareketlerini onbeş gün içerisinde
+Bakanlığa bildirmekle yükümlüdürler.
+(2) Bildirim, Bakanlıkça belirlenecek yöntem
+aracılığı ile yapılır.
+(3) Birinci fıkrada öngörülen yükümlülüğün
+belirlenen süre içerisinde yerine getirilmemesi veya eksik ya da hatalı
+yerine getirilmesi hâlinde sorumlu kişi, kurum veya kuruluş, yazılı olarak
+uyarılır. Uyarıyı gerektiren problemin onbeş gün
+içerisinde giderilmemesi hâlinde uyarı tekrarlanır. İkinci uyarıdan
+itibaren onbeş günün sonunda uyarıyı gerektiren
+problemin giderilmemiş olması hâlinde sorumlu kişi, kurum veya kuruluş
+hakkında genel hükümlere göre işlem tesis edilir.
+SEKİZİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Yaptırım
+MADDE 17
+– (1) Bu Yönetmelikle korunan
+kişisel verilere ilişkin suçlar ve kabahatler bakımından Kanunun 17 nci ve 18 inci maddelerine göre işlem yapılır.
+(2) Bu Yönetmelik gereklerini yerine getirmeyen
+kamu görevlileri için bağlı oldukları disiplin amirliğine bildirim yapılır
+ve varsa yetkileri iptal edilir. Özel hukuk kişileri hakkında ilgili
+mevzuata göre işlem yapılır.
+Hüküm
+bulunmayan hâller
+MADDE 18
+– (1) Kişisel sağlık verilerinin
+işlenmesi ile ilgili olarak bu Yönetmelikte hüküm bulunmayan hâllerde,
+Kurul tarafından çıkarılacak ilgili yönetmelikler uygulanır.
+Yürürlük
+MADDE 19
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 20
+– (1) Bu Yönetmelik hükümlerini
+Sağlık Bakanı yürütür.
