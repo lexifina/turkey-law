@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.02-130[I-15-147]-240",
+  "source_id": 29125,
+  "date": "2016-10-20",
+  "title": "2863 Sayılı Kanun kapsamında verilecek yapı denetim hizmetinde KDV",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29125",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "730818bdc7bd6ff3c4fa0847c04dec93f1e678dd094f5a79026fe11caf3fc9bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
