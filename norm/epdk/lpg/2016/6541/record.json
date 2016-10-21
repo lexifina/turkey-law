@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "6541",
+  "decision_date": "2016-10-21",
+  "title": "Sıvılaştırılmış Petrol Gazları (LPG) Piyasasında Lisans Başvurusuna İlişkin Kurul Kararında Değişiklik Yapılmasına Dair",
+  "resmi_gazete_date": "2016-10-26",
+  "resmi_gazete_number": "29869",
+  "categories": [
+    "Lisans Başvuruları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=B3KaAD7zkLg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=B3KaAD7zkLg="
+  ],
+  "source_sha256": "b5e7a4e09389ee8b2c2cf52086a46346d45aecca8c5a8588f5917712f313b2ca",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5098,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-10-21",
+  "law_text_complete": false
+}
