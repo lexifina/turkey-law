@@ -1,0 +1,6 @@
+Destek verilecek dönem ve ödeme miktarı
+MADDE 5 – (1) 1/4/2016 saat 00.00 (dahil) – (Değişik ibare:RG-21/10/2016-29864) 31/12/2016 saat 23.59 (dahil) arasında yerel iniş saatleri esas alınarak, 2 nci maddede belirtildiği şekilde tarifeli ve tarifesiz (charter) turistik uçak seferleriyle turist getiren seyahat acentalarına uçak başına 6.000 ABD Doları destek sağlanır.
+(2) (Ek:RG-15/7/2016-29771)(1) 200 ve daha fazla koltuk sayısına sahip uçaklarla yapılan tarifesiz (charter) uçak seferlerinde en az 150 yolcu getirmek kaydıyla, birinci fıkrada yer alan destek tutarı 1 Haziran-(Değişik ibare:RG-21/10/2016-29864) 31 Aralık 2016 tarihleri arasında %30 oranında artırılarak uygulanır.
+(3) Tarifesiz ortak uçuş olması halinde, her bir seyahat acentasına verilecek destek tutarı, o seyahat acentasının getirdiği yolcuların, seyahat acentaları tarafından getirilen toplam yolculara oranı esas alınarak hesaplanır.
+(4) Tarifeli bir uçakta bir veya birden fazla seyahat acentası tarafından getirilen turistin bulunması halinde her bir seyahat acentasına verilecek destek tutarı, o seyahat acentalarının getirdiği yolcuların uçaktaki toplam yolculara oranı esas alınarak hesaplanır.
+(5) Yolcuları tek bir seyahat acentası tarafından getirilen seferlere ilişkin talepler öncelikle sonuçlandırılır.

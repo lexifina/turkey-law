@@ -1,0 +1,55 @@
+{
+  "source_id": "9.5.21487",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÜLKEMİZE TURİST GETİREN (A) GRUBU SEYAHAT ACENTALARINA DESTEK SAĞLANMASI HAKKINDA KARARIN UYGULAMA USUL VE ESASLARINA DAİR TEBLİĞ",
+  "number": "21487",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "path": "teblig/2016/21487",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21487&MevzuatTertip=5",
+  "source_sha256": "ed8af11150d6905161f3d1f9bc676f75ee1696699f0a2f6942ac91e762b73376",
+  "source_bytes": 43921,
+  "published": "2016-04-05",
+  "gazette": "29675",
+  "in_force": "2016-10-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/10/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-10-21",
+      "RG-21/10/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-10-21",
+      "21/10/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-07-15",
+      "RG-15/7/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-07-15",
+      "15/7/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1676,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21487-Ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
