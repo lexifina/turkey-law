@@ -1,0 +1,2 @@
+Giriş sınavı kurulu
+MADDE 9 – (1) Uzman Yardımcılığı giriş sınavını yapacak olan kurul, Başkan veya görevlendireceği Başkan Yardımcısının başkanlığında; Başkanın onayıyla görevlendirilecek en az uzman düzeyinde bulunan üç eğitim ve araştırma merkezi personeli, İş Teftiş Kurulu Başkanının görevlendireceği bir Baş İş Müfettişi, Bakanlık Personel Dairesi Başkanı olmak üzere altı kişiden oluşur. Ayrıca beş yedek üye tespit edilir.

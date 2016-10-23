@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.14485",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇALIŞMA VE SOSYAL GÜVENLİK EĞİTİM VE ARAŞTIRMA MERKEZİ ÇALIŞMA VE SOSYAL GÜVENLİK EĞİTİM UZMAN YARDIMCILIĞI GİRİŞ VE UZMANLIK YETERLİK SINAVLARI HAKKINDA YÖNETMELİK",
+  "number": "14485",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2010/14485",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14485&MevzuatTertip=5",
+  "source_sha256": "eb0326a907ed622cf4eaef828400df4012afbab2db6f60edea048d35c19b3bb8",
+  "source_bytes": 39622,
+  "published": "2010-12-05",
+  "gazette": "27776",
+  "in_force": "2016-10-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/10/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-10-23",
+      "RG-23/10/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-10-23",
+      "23/10/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2277,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
