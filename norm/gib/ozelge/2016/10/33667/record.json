@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-135[16-2016-03.914]-102095",
+  "source_id": 33667,
+  "date": "2016-10-24",
+  "title": "ÖTV Kanununa ekli (I) sayılı listenin (A) cetvelinde yer alan uçak benzinine ait G.T.İ.P. numarasının TGTC'de değişmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33667",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "bb11ef7fe888f9cbc760849073cde0c058c98bbfda1352c2bb1cb2a2e9529b60",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
