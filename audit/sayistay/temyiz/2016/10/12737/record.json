@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42326",
+  "decision_date": "2016-10-25",
+  "source_id": 12737,
+  "chamber": "2",
+  "file_number": "38628",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2011",
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12737/",
+  "source_sha256": "ce00e98441434d800a0e0f9e44fc9faa4f92761ce722e30891522ba9c4f740ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
