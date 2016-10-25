@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "385",
+  "decision_date": "2016-10-25",
+  "source_id": 23317,
+  "chamber": "6",
+  "ilam_number": "471",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23317/",
+  "source_sha256": "3e2dc8d724636c396ecb26de418e5d7f164a16670cbe8221c73a8bd7cfc7a487",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
