@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42346",
+  "decision_date": "2016-10-25",
+  "source_id": 12788,
+  "chamber": "2",
+  "file_number": "40086",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2013",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12788/",
+  "source_sha256": "a60ae97029f06cce785ee00df34d7edf40c0977a536d23528a4e5f9532263210",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
