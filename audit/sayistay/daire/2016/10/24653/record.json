@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "137",
+  "decision_date": "2016-10-27",
+  "source_id": 24653,
+  "chamber": "7",
+  "ilam_number": "40",
+  "item_number": 1,
+  "account_year": 2015,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24653/",
+  "source_sha256": "2625cf9e970362eba22cde67994bff62656f9e64f20f991fd554452545b573f0",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
