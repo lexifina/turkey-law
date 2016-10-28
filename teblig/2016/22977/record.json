@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.22977",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2016/41)",
+  "number": "22977",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2016/22977",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22977&MevzuatTertip=5",
+  "source_sha256": "06848d714be3782c89a0f799a702c35ef2fe6e3afe2c13fafb7db4dc54381059",
+  "source_bytes": 10890,
+  "published": "2016-10-28",
+  "gazette": "29871",
+  "in_force": "2016-10-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.10.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 281,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
