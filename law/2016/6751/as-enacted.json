@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6751",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sudan Cumhuriyeti Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-10-29",
+  "gazette_issue": "29872",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161029-2.htm",
+  "source_sha256": "66adbec213954d5afc9fd77f89d0ac64116eeff1952fb2373bf3658b6db9963e",
+  "text_sha256": "483f7684aa5aa96421a9f675b5f76dc761e5a29313f6678e957b671b62eec8a0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/10/29/29872-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161029-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
