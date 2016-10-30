@@ -1,0 +1,2 @@
+Soruşturma
+MADDE 3 – (1) Yerli üretim dalını temsile haiz Posco Assan TST Çelik San. A.Ş. tarafından yapılan başvurunun değerlendirilmesi neticesinde, Çin Halk Cumhuriyeti ve Çin Tayvanı menşeli “paslanmaz çelikten yassı hadde mamüller”e yönelik olarak 22/8/2015 tarihli ve 29453 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/38) ile damping soruşturması başlatılmıştır.
