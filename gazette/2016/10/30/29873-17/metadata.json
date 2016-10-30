@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-10-30",
+  "issue": "29873",
+  "edition": "regular",
+  "item": 17,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2016/42)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161030-17.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161030.htm",
+  "index_sha256": "aa1d7390e3aef1928c85a17ee99a9c65c624724f40857942395b66aab7081253",
+  "index_header": "30 Ekim 2016 ... 29873 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161030.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
