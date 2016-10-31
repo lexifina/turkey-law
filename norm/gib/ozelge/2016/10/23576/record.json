@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.58.10.00-120[Gelir Vergisi Kanunu Uygulamaları]-4",
+  "source_id": 23576,
+  "date": "2016-10-31",
+  "title": "Özel resim öğretmenliği faaliyetinin serbest meslek kazancı olması ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23576",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "38c19b1e44bfdca3a57533c45f7b9eae5447fc87f2cfc535ad6f6adcfebb001b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
