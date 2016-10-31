@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2016-10-31",
+      "31.10.2016",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29874",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2016-10-31",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Bartın Üniversitesi",
+  "issuer_slug": "bartin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bartin-universitesi/2016/22993",
+  "published": "2016-10-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=22993&MevzuatTertip=5",
+  "source_bytes": 37531,
+  "source_id": "8.5.22993",
+  "source_sha256": "2745d06540d7e661369cd04c5aaf0754c5d9f6da2f7452aa971173709f251ea0",
+  "text_status": "as-enacted",
+  "title": "BARTIN ÜNİVERSİTESİ KARİYER PLANLAMA UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 348,
+  "word_count": 1633
+}
