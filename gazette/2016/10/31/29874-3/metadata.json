@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-10-31",
+  "issue": "29874",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Beykent Üniversitesi Girişimcilik ve Yenilikçilik Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161031-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161031.htm",
+  "index_sha256": "80767a0edb7c4670b1cddeddebe2231fd29649c01424c7895c085d76d2cadf20",
+  "index_header": "31 Ekim 2016 ... 29874 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/10/20161031.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
