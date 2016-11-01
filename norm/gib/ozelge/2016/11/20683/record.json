@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[89-2014/824]-190620",
+  "source_id": 20683,
+  "date": "2016-11-01",
+  "title": "6518 sayılı Kanun kapsamında faydalı modeli kapsayan satışlar için GVK'nun 89'uncu maddesinde belirtilen indirimden yararlanılıp yararlanılmayacağı ile satışların KDV'ye tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20683",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "6db1f74f99853f9a35d07d224cf38c781f99091ad541897b1bd0e4a9f9f787eb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
