@@ -1,0 +1,7 @@
+İKİNCİ KISIM
+Soruşturma Konusu Ürün ve Benzer Ürün
+Soruşturma konusu ürün ve benzer ürün
+MADDE 7 – (1) Soruşturma konusu ürün Hindistan ve Tayvan menşeli 5402.33 gümrük tarife pozisyonu (GTP) altında yer alan poliesterlerden tekstüre ipliklerdir.
+(2) Yerli üretim dalı tarafından üretilen poliesterlerden tekstüre iplikler ile soruşturma konusu ülkeler menşeli poliesterlerden tekstüre ipliklerin benzer ürün olduğu tespiti mevcut önlemin yürürlüğe girmesini sağlayan soruşturmada (esas soruşturmada) yapılmıştır. Bu soruşturmada ise gerek yerli üretim dalı tarafından üretilen gerekse soruşturma konusu ülkelerden Türkiye’ye ihraç edilen poliesterlerden tekstüre ipliklerin işlevsel özellikleri, fiziksel özellikleri, kullanım alanları, dağıtım kanalları, kullanıcıların algılaması ve birbirini ikame edebilmeleri açısından benzer ürün olma durumunu ortadan kaldıracak bir değişiklik olduğuna dair herhangi bir görüş alınmamıştır.
+(3) Bu nedenle, Hindistan ve Tayvan menşeli soruşturma konusu ürün ile yerli üretim dalı tarafından üretilen poliesterlerden tekstüre ipliklerin benzer ürün olduğu tespiti geçerliliğini korumaktadır.
+(4) Soruşturma konusu eşya ile ilgili açıklamalar genel içerikli olup uygulamaya esas olan GTP ve karşılığı eşya tanımıdır. Bununla beraber, soruşturma konusu eşyanın Türk Gümrük Tarife Cetveli’nde yer alan tarife pozisyonunda ve/veya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına halel getirmez.

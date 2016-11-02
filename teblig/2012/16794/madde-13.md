@@ -1,0 +1,2 @@
+Esas soruşturmada tespit edilen damping marjları
+MADDE 13 – (1) Mevcut önleme esas teşkil eden soruşturma esnasında tespit edilen damping marjları, firmaların önlemin yürürlükten kalkması halindeki muhtemel davranışlarını yansıtacak önemli bir gösterge niteliği taşıdığından dikkate alınmıştır. Buna göre, esas soruşturma sırasında Tayvanlı üretici-ihracatçı firmalar için tespit edilen damping marjları CIF bedelin %9,9’u ile %28,6’sı arasında değişen önemli düzeylerdedir.

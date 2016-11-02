@@ -1,0 +1,2 @@
+Diğer ülkelerce uygulanmakta olan dampinge karşı önlemler
+MADDE 14 – (1) Tayvan’a karşı Arjantin tarafından 14/5/2010 tarihinden itibaren FOB bedelin %6,7’si oranında dampinge karşı vergi uygulanmaktadır. Bu önlem, Tayvan’ın sadece ülkemize değil diğer ülkelere de dampingli ihracat yaptığını ve yukarıdaki değerlendirmelerin tutarlı olduğunu, önlemin yürürlükten kalkması durumunda benzer eğilimin devam etmesinin muhtemel olduğunu ortaya koymaktadır.

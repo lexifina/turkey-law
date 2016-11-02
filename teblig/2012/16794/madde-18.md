@@ -1,0 +1,2 @@
+Türkiye pazarının önemi
+MADDE 18 – (1) Türkiye AB’nin en önemli tekstil tedarikçilerinden birisi olup makine parkı, yatırımları ve yurtdışındaki kalite imajı ile tekstil ve hazır giyimde dünyadaki önemli ülkelerden biri olmaya devam etmektedir. Reliance firması gibi Hindistan’ın ve dünyanın en büyük tekstüre iplik üreticisinin Türkiye’de çok sayıda acentesinin bulunması Türkiye pazarına verdiği önemi göstermektedir. Bu durum, önlemin yürürlükten kalkması halinde Türkiye’ye olan dampingli ihracatın artmasının muhtemel olduğuna işaret etmektedir.

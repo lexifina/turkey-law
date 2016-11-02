@@ -1,0 +1,3 @@
+Soruşturma konusu ithalatın pazar payı
+MADDE 27 – (1) Soruşturma konusu ürünün yurtiçi tüketimi, yerli üretim dalının yurtiçi satışları ile soruşturma konusu ipliklerin genel ithalatının toplanması suretiyle hesaplanmıştır.
+(2) Bu çerçevede hesaplanan toplam tüketim endeksi, 2009’da 100 iken 2010 yılında 126 birime yükselmiştir. 2011 yılı ilk 9 ayına ilişkin tüketim verilerinin yıllıklandırılması ile yapılan hesaplamaya göre endeks 120’ye düşmüştür. Önlem konusu ülkeler menşeli soruşturma konusu poliesterlerden tekstüre ipliklerin tüketim içindeki payı 2009 yılı 100 kabul edildiğinde 2010 yılında 126 birime çıkmış, 2011 yılında ise 124 birim olarak güncellenmiştir.
