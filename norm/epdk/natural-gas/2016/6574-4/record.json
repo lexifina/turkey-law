@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6574-4",
+  "decision_date": "2016-11-03",
+  "title": "Her sene ithal edilecek doğal gazın Kurul tarafından belirlenen oranı kadar bir miktarı beş yıl içerisinde ulusal topraklarda yer altı depolama imkânına sahip olunması hususunda depolama faaliyeti yapacak tüzel kişilerden Kurumca belirlenen taahhüt ve garantilerin alınması” hakkında",
+  "resmi_gazete_date": "2016-11-08",
+  "resmi_gazete_number": "29882",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6txw+m+fbiI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6txw+m+fbiI="
+  ],
+  "source_sha256": "4183245d3672abd69c44d77aad31b6ecb257f1baf783aeadeae92df757bffd0a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-11-03",
+  "law_text_complete": false
+}
