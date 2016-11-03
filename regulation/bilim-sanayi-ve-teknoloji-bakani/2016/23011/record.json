@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.23011",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BASİT BASINÇLI KAPLAR YÖNETMELİĞİ (2014/29/AB)",
+  "number": "23011",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2016/23011",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23011&MevzuatTertip=5",
+  "source_sha256": "8ece2dfa05b32f40400ee8ea402a837dfac7cba915916325f2d785103c7dc2d9",
+  "source_bytes": 96954,
+  "published": "2016-11-03",
+  "gazette": "29877",
+  "in_force": "2016-11-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.11.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5798,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23011-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
