@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01- KDV.21-193035",
+  "source_id": 29120,
+  "date": "2016-11-03",
+  "title": "Serbest bölgede verilen yemek hizmetlerinde KDV uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29120",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "4130b0f5959a0604545772e959b7f10edee4a53b3db49c9b0daf8e5570ca44da",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
