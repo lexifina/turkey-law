@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6582",
+  "decision_date": "2016-11-03",
+  "title": "Dogal Gaz Toptan Satis ve Cng Lisansı Sahibi Tuzel Kisilerce Evsel Tuketicilere DogalGaz Arzının Saglanması Hakkında",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BAtAqxGzu0E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BAtAqxGzu0E="
+  ],
+  "source_sha256": "1dd195bed826e55653312f2531f047c9fc8639b1e5f413e57764ebf368a683dd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2016-11-03",
+  "law_text_complete": false
+}
