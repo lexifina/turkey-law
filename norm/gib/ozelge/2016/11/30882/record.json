@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-130[11-2015/20-1246]-159",
+  "source_id": 30882,
+  "date": "2016-11-04",
+  "title": "Krom madeni üretimi yapan firma için ihraç kayıtlı mal teslimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30882",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "1cb6ff26661b0c24aea6806057093cac3f102940607e7aefd933246e7433614a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
