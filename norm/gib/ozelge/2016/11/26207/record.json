@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.9-198321",
+  "source_id": 26207,
+  "date": "2016-11-07",
+  "title": "Yurt dışından gelen turistlerin alışveriş yerlerine yönlendirilmesi suretiyle elde edilen komisyon geliri ile bu turistlere yaptıkları alışveriş üzerinden yapılan ödemelerin vergisel boyutu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/26207",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "bce8e9598b5d27838e55785e06d815bae35a0ba2532d9d303e1ff8b844b11419",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
