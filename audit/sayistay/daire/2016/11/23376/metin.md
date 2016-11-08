@@ -1,0 +1,9 @@
+Hizmet Alımı işinde izinli ve raporlu günlere ait yemek ve yol bedeli kesilirken Sosyal Güvenlik Kurumu işveren priminin dahil edilmemesi.
+
+6 Aylık Veri İşleme ve Otomasyon Sisteminin İşletilmesi, Bilgi Teknolojileri, Elektrik–Elektronik ve Ağ Sistemleri Bakım Onarım ile Yapım İşleri Bakım-Onarım, Teknik Destek, Uygulamalı Mesleki Eğitime Destek ve Çevre Temizliği ve Düzenlemesi Hizmet Alım işinde personelin izinli ve raporlu olduğu günlere ait yemek ve yol bedeli kesilirken Sosyal Güvenlik Kurumu (SGK) işveren priminin dahil edilmeden hesaplandığı tespit edilmiştir.
+
+Yüklenicinin teklif ettiği bedelin içerisinde … TL günlük yemek ve … TL günlük yol bedeli ile bunlara ait SGK işveren payı da bulunmaktadır. Teklif fiyat esas alınarak düzenlenen hakediş ve fatura üzerinden bu tutarlar yükleniciye ödenmektedir. Yüklenici tarafından personelin izinli veya raporlu olduğu günlere ait yemek ve yol bedeli yine fatura üzerinden hesaplanıp kesilmektedir. Ancak bu hesaplama sırasında SGK işveren primlerinin kesinti tutarına ilave edilmemesi neticesinde …… TL tutarında eksik kesinti yapıldığı görülmüş olup sorumlular savunmalarında kamu zararının tahsil edildiğini bildirmişlerdir. Bununla birlikte söz konusu tutarın banka hesabına yatırıldığı, muhasebe kayıtlarında bütçeye gelir kaydedilmeyip 333 emanetler hesabına alındığı görülmüştür.
+
+Bütçeye gelir kaydedilmeyen …… TL’nin tahsilat olarak kabul edilmesi mümkün olmadığından hakediş bedelinden yemek ve yol bedeli kesilirken bu kesintilere ait SGK işveren payının dahil edilmemesi sonucu oluşan …… TL kamu zararının;
+
+Harcama Yetkilisi (Şef) ……, Gerçekleştirme Görevlisi (Tekniker) ……, Hakedişi Düzenleyen (Yüksek Mimar) …… ve Hakedişi Düzenleyen (Şube Müdürü) ……’dan, müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizi ile birlikte tazminine oybirliğiyle,
