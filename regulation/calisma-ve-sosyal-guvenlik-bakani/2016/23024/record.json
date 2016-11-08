@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23024",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ANALIK İZNİ VEYA ÜCRETSİZ İZİN SONRASI YAPILACAK KISMİ SÜRELİ ÇALIŞMALAR HAKKINDA YÖNETMELİK",
+  "number": "23024",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2016/23024",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23024&MevzuatTertip=5",
+  "source_sha256": "1c4cdcc1546dda94e88a9d1d8092995105a5271dece13a3d2342a943f3279eee",
+  "source_bytes": 29994,
+  "published": "2016-11-08",
+  "gazette": "29882",
+  "in_force": "2016-11-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.11.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1280,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
