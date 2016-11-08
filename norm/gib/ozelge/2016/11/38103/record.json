@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-135-200118",
+  "source_id": 38103,
+  "date": "2016-11-08",
+  "title": "2+1, 4+1, 5+1 ve 8+1 oturma kapasiteli ... marka araçlara uygulanacak ÖTV oranı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38103",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "e84564762e78a272a47a5c443fae23cab272f0307ec4499f330f64f5453b4e3e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
