@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35433",
+  "decision_date": "2016-11-08",
+  "source_id": 23123,
+  "chamber": "2",
+  "ilam_number": "63",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23123/",
+  "source_sha256": "75be6bd98d0d80665e74588ab26e9d72d765e79d7b01ca34f45bde0fa5273dd9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
