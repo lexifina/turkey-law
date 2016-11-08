@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "388",
+  "decision_date": "2016-11-08",
+  "source_id": 22214,
+  "chamber": "6",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22214/",
+  "source_sha256": "f8099f430d8848305fa3debcc2892da28d18ac9dc37c39e6cd88ce5746a86f72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
