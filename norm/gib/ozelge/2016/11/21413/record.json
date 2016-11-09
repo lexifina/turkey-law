@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120.03.05.06[23-16/6]-349339",
+  "source_id": 21413,
+  "date": "2016-11-09",
+  "title": "Yurtdışından temsilciliğe döviz olarak yapılan ücretin gelir vergisinden istisna edilip edilemeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21413",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "42dfecc53928df79c51f1c88684bb6b5830f4153d1790bfd6620e8d2ff3fc42d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
