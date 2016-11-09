@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.54.15.01-130[16-2015-33]-53",
+  "source_id": 31224,
+  "date": "2016-11-09",
+  "title": "Teslimi KDV Kanununun 13/a maddesi gereğince vergiden istisna edilen malların ithalinde istisna uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31224",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "494ac6160b24a55deae332b33585206f4bdaeb44650f3614a9b8778368cc1579",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
