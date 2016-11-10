@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 26,
+  "legislative_year": 2,
+  "sitting": 19,
+  "sitting_date": "2016-11-10",
+  "listed_date": "10 Kasım 2016 Perşembe",
+  "status": "Basılmış",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/26/2/19/cdb08319-9eb7-4c3a-8958-c74eccbebb24.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=4a4bfc1d-eb75-4fbb-b4c4-0185ceac677d",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=26&YasamaYili=2",
+  "source_sha256": "3ba89bcb1f9a06a0e1fe1a9cabd2935fa37d6d61f60775f8eab47860de0990b7",
+  "source_bytes": 1264797,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
