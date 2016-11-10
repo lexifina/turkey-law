@@ -1,0 +1,20 @@
+{
+  "applicant": "D.Ö. (2)",
+  "application_date": "2014-01-24",
+  "application_number": "2014/1291",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2016-10-13",
+  "id": "a3c5f7bf-7045-cb47-1cb6-09342482811b",
+  "in_force": "2016-11-10",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2016-11-10",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmEzYzVmN2JmLTcwNDUtY2I0Ny0xY2I2LTA5MzQyNDgyODExYg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "5af77b53027bbf3e6829d808779607ffaa64df73638faf89b0efb8bdb0187234",
+  "version_label": "as-enacted"
+}
