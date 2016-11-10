@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-130-203065",
+  "source_id": 30881,
+  "date": "2016-11-10",
+  "title": "Yolcu beraberi eşya ihracında Türk Uyrukluların yaptığı alımlarda ikamet tezkeresi veya bu mahiyette belge ibrazı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30881",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "904224073cf83823796c52224d46f3ae7aaf4d5cf4cab069740949f516e783ed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
