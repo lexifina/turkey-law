@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.23034",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE VAGON SANAYİİ A.Ş. (TÜVASAŞ) GENEL MÜDÜRLÜĞÜ MAL VE HİZMET SATIŞ YÖNETMELİĞİ",
+  "number": "23034",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2016/23034",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23034&MevzuatTertip=5",
+  "source_sha256": "d785c2749bd61579d688175c22dec234ca061fb250a094083d475733dae9c062",
+  "source_bytes": 119504,
+  "published": "2016-11-10",
+  "gazette": "29884",
+  "in_force": "2016-11-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.11.2016); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6846,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
