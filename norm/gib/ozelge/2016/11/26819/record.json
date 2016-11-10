@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-130-202224",
+  "source_id": 26819,
+  "date": "2016-11-10",
+  "title": "Yaş meyve ve sebzelerde gerçekleşen firelerin gider olarak dikkate alınıp alınmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/26819",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4b24a59365532c4781cff682273b27f04f33e4a14aa5d7bd37c1aac00f6033d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
