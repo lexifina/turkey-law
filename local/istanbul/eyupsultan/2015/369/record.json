@@ -1,0 +1,22 @@
+{
+  "number": "369",
+  "number_as_published": "2015/369",
+  "year": 2015,
+  "title": "council decision",
+  "decision_date": "2016-11-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2016-kasim-ayi-meclis-kararlari/800",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2015-369/806",
+  "source_sha256": "f8f6c2acb6116edf6342200358783b44d08f573e906c443ed1025c8abbbe7f54",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2016-11-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.11.2016 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "9ca8803bc3c405342f9837b7488ee9e1466c3c238fe7fc5c5f1cf6eb60e59344"
+}
