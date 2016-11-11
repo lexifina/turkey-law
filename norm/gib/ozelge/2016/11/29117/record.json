@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130[01-2013/46]-353231",
+  "source_id": 29117,
+  "date": "2016-11-11",
+  "title": "Yurt dışından alınan e-posta, yedekleme, haber ajansı vb. hizmetler ile işletmede kullanılmak üzere alınan bilgisayarın vergi kanunları karşısındaki durumu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29117",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "b91b74cd314fbb907136b4758409719d42410517193be51ab7cca7b602aa18a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
