@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-125[5-2016-9]-85",
+  "source_id": 27833,
+  "date": "2016-11-11",
+  "title": "İştirak edilen şirketin % 50 hissesinin dar mükellef kuruma devredilmesinden elde edilen hasılatın iştirakin sermaye artışında kullanılması durumunda KVK 5/1-e istisnasının uygulanıp uygulanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27833",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "9dc6bd4f5cfb7f2edd3bad30c4226be4ee1108486439e6669dc12b1ce80acf3a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
