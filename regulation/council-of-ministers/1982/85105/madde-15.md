@@ -1,0 +1,1 @@
+Madde 15 – Diyanet İşleri Başkanlığında bilfiil din işleriyle ilgili personelin giyim ve kuşamına ilişkin hususlar 17 nci maddede belirtilen mevzuata aykırı olmamak koşulu ile Başkanlıkça tespit ve bağlı olduğu Bakanlıkça onaylanacak esaslar çerçevesinde yürütülür.

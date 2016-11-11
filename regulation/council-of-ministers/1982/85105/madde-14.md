@@ -1,0 +1,1 @@
+Madde 14 – 7/6/1963 tarihli ve 6/1835 sayılı Bakanlar Kurulu Kararına ekli Türk Silahlı Kuvvetleri Kıyafet Kararının Kara Kuvvetleri Sekizinci Bölüm 1 inci maddesi, Deniz Kuvvetleri Dördüncü Kısım 1 inci maddesi, Hava Kuvvetleri Dördüncü Kısım 1 inci maddesi hükümleri (…)[5] saklıdır.5

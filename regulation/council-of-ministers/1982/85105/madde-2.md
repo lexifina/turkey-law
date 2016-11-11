@@ -1,0 +1,1 @@
+Madde 2 – Bu Yönetmelik, genel ve katma bütçeli kurumlar, mahalli idareler, döner sermayeli kuruluşlar ve kamu iktisadi teşebbüsleri ile bunların iştirakleri ve müesseselerinde çalışan her sınıf ve derecedeki memurlar, sözleşmeli ve geçici görevle çalışan personel ile işçilerin kılık ve kıyafetlerinin düzenlenmesine ilişkin esasları kapsar.

@@ -1,0 +1,2 @@
+Çeşitli Hükümler
+Madde 6 – Emniyet Hizmetleri Sınıfına mensup olanlar, hâkimler, savcılar, Türk Silâhlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığında görev yapan subay, sözleşmeli subay, yedek subay, astsubay, sözleşmeli astsubay, uzman erbaş, uzman jandarma, sözleşmeli erbaş ve er ile erbaş ve erler ilgili kurum ve kuruluşun özel yönetmeliklerinde belirtilen usul ve esaslara tabidirler.[3][4]

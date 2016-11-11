@@ -1,0 +1,1 @@
+Madde 17 – Bu yönetmelik; 2413 sayılı "Bilumum Devlet Memurlarının Kıyafetleri İle İlgili Kararname"; 2596 sayılı "Bazı Kisvelerin Giyilemeyeceğine Dair Kanun"un 6 ncı maddesi ve bu maddeye göre çıkarılan 1958 sayılı "Bazı Kisvelerin Giyilemeyeceğine Dair Kanunun" tatbik suretini gösterir "Nizamname" hükümleri uyarınca düzenlenmiştir.

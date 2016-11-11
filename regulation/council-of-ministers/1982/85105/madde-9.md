@@ -1,0 +1,1 @@
+Madde 9 – Personel, görev yaptığı yerin ve mezun olduğu okulların rozetleri ile Hükümetçe özel günler için çıkarılan rozetler (Atatürk'ün doğumunun 100. Yılı gibi) dışında rozet, işaret, nişan v.b. şeyler takamaz.
