@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "1008",
+  "decision_date": "2016-11-14",
+  "title": "MEC. KAR. ( MEŞTİ içerisinde emniyet müdürlü",
+  "listed_as": "1008 MEC. KAR. ( MEŞTİ içerisinde emniyet müdürlü",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/1008-mec--kar----mesti-icerisinde-emniyet-mudurlugune-yer-tahsis-edilmesi---",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk09-14-kasim-2016-meclis-kararlari",
+  "listing_sha256": "aee4593a68c8f8969acf01a3babf4f9a4290da61d7a58fe80c1123dbc76b0725",
+  "meeting_title": "MK09-14 KASIM 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
