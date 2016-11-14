@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130[13-2015/05]-356095",
+  "source_id": 29115,
+  "date": "2016-11-14",
+  "title": "Yatırım Teşvik Belgesi kapsamında 1995-1998 yılları arasında yapılan yatırım malları ithali nedeniyle ertelenen KDV",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29115",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "725544ef19487a3eb485f0f74898dc72cef739b8c28445ba20e8d6c2e8db8533",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
