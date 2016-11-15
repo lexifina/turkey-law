@@ -1,0 +1,15 @@
+Hakediş ödemelerinde vergi borcu yazısı istenmemesi ve borcu bulunan yükleniciye ödemede bulunulması
+
+Mal, hizmet ve yapım işleri karşılığında yüklenici belediye şirketi ... Turizm Emlak Gıda Tarım İth.İhr.San.ve Tic.Ltd.Şti.’ye ödeme yapılırken vadesi geçmiş borç durumunu gösterir belge istenmediği ve vadesi geçmiş borcu bulunan yükleniciden kesinti yapılmaması sonucu kamu zararına neden olunması ile ilgili olarak yapılan incelemede;
+
+30.6.2007 tarih ve 26568 sayılı Resmi Gazete'de yayımlanan Tahsilat Genel Tebliği'nin (Seri:A Sıra No:l) ''Amme Alacağı Ödenmeden Yapılmayacak İşlemler ile İşlem Yapanların Sorumlulukları" başlıklı V. Bölümündebelirtilen mevzuat hükümlerinden anlaşılacağı üzere, 4734 sayılı Kamu İhale Kanunu kapsamına giren kurumların bu Kanun kapsamında yüklenicilere 2.000,00 TL'nin üzerinde yapacakları ödemeler sırasında, yüklenicilerin Maliye Bakanlığına bağlı tahsil dairelerine vadesi geçmiş borçlarının bulunmadığına ilişkin vadesi geçmiş borç durumunu gösterir belgeyi araması zorunluluğu getirilmiştir. Buna göre vadesi geçmiş borç durumunu gösterir belge arama zorunluluğu getirilen kurum ve kuruluşlarca yapılacak ödemeler sırasında, tahsil dairelerinin verdiği bilgiye istinaden kapsama giren alacak türlerinin toplam tutarının (vadesi geçmiş borç tutarı) 1.000,00 TL'yi aşması halinde, borç tutarının ilgili tahsil dairesine, bakiyesinin de yükleniciye ödenmesi gerekmektedir.
+
+Bu Tebliğ ile zorunluluk getirilen vadesi geçmiş borç durumunu gösterir belgeyi aramadan ödeme yapan kurum ve kuruluşlara, her bir ödeme için ayrı ayrı olmak üzere 2015 yılı için 3.350,00 TL idari para cezası verilecektir. (2015 yılı için uygulanacak ceza, 2014 yılı için belirlenen tutarın (3.043,00 TL) 2014 yılı yeniden değerleme oranı (%10,11) kadar artırılmasıyla bulunmuştur.)
+
+Yapılan incelemede, Belediyenin ortağı olduğu ... Turizm Emlak Gıda Tarım İth.İhr.San.ve Tic.Ltd.Şti.'nin bağlı bulunduğu vergi dairesine vadesi geçmiş vergi borcu bulunduğu halde mal ve hizmet alımları ile yapım işleri karşılığında ilgili şirkete ödeme yapılırken mükellefin vadesi geçmiş vergi borcu durumunu gösterir belgelerin istenmediği ve 2015 yılında 9 adet gönderme belgesi ile toplam ...TL hakedişin hiçbir kesinti yapılmadan söz konusu şirkete ödendiği tespit edilmiştir.
+
+Sorumlular savunmalarında, kamu zararının oluşabilmesi için kurum adına tahakkuk eden bir idari para cezasının bulunması ve bu cezanın belediye bütçesinden ödenmesi gerektiğini, vergi borcu bulunan şirkete ödeme yapılırken kesinti yapılmamasının kamu zararı olarak nitelendirilemeyeceğini belirtmişlerdir.
+
+Sorumluların bu yöndeki savunmaları yerinde görülmüş olup, 4734 sayılı Kanun kapsamında yüklenici ... Turizm Emlak Gıda Tarım İth.İhr.San.ve Tic.Ltd.Şti.’ye yapılan ödemelerde yüklenicinin vadesi geçmiş vergi borcu olmadığına dair belge isteme zorunluluğunu yerine getirmeyen ... Belediyesine, bahsi geçen Tahsilat Genel Tebliği uyarınca 2015 yılı için toplam ... idari para cezası kesilmesini teminen konunun Gelir İdaresi Başkanlığı’na yazılmasına,
+
+oy birliğiyle karar verildi.
