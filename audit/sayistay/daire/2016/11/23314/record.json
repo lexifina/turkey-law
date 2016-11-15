@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "297",
+  "decision_date": "2016-11-15",
+  "source_id": 23314,
+  "chamber": "3",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23314/",
+  "source_sha256": "613295a2627de6cd22194f85b3a32e74165a7301853f44e86519352692b51ef0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
