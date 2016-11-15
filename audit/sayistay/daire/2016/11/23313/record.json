@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "297",
+  "decision_date": "2016-11-15",
+  "source_id": 23313,
+  "chamber": "3",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23313/",
+  "source_sha256": "8d7ef4a9c7206924e50e7c0b49756e4965a3fbc2e10b2cf50289c83d5e56dac7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
