@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "200",
+  "decision_date": "2016-11-15",
+  "source_id": 22316,
+  "chamber": "5",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22316/",
+  "source_sha256": "eb62eeee92ec34b55813f24d88288a8c28423b1369b547f0a225a98be2599880",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
