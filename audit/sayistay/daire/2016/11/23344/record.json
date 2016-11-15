@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "199",
+  "decision_date": "2016-11-15",
+  "source_id": 23344,
+  "chamber": "5",
+  "ilam_number": "69",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23344/",
+  "source_sha256": "38906d9cd39cef763063217c6ebdc8fedf9e07d86a8e24c5b30b1325fff2735f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
