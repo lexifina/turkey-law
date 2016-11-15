@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-11-15",
+  "issue": "29889",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sivil Havacılıkta Emniyet Yönetim Sistemi Yönetmeliği (SHY-SMS)’nde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/11/20161115-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/11/20161115.htm",
+  "index_sha256": "c62c438ebc2d3c9621d7ed1f0e8b2de99b6e9712c4655bf564249e9858532337",
+  "index_header": "15 Kasım 2016 ... 29889 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/11/20161115.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
