@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-160[4-2016-4]-104198",
+  "source_id": 36359,
+  "date": "2016-11-16",
+  "title": "Bankaya bağlı Munzam Sandık Vakfı tarafından ölüm yardımı altında mirasçılara yapılacak ödemenin V.İ.V.'ne tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36359",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "9f4a37cf69aefa8574ac611dee63909e3f02ad21efbfa5253210b530d38c844d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
