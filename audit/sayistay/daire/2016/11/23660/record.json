@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "205",
+  "decision_date": "2016-11-17",
+  "source_id": 23660,
+  "chamber": "5",
+  "ilam_number": "274",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23660/",
+  "source_sha256": "dc61ddb644d5a7e348139316051d3da8215989c2321cbd28bb4256165fcd1935",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
