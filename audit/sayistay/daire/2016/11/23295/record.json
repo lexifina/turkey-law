@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35439",
+  "decision_date": "2016-11-17",
+  "source_id": 23295,
+  "chamber": "2",
+  "ilam_number": "65",
+  "item_number": 4,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23295/",
+  "source_sha256": "3bd0e7cd7364e2028be5de28fc420360ce244a68c21ae82abf30fbc790e91b3f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
