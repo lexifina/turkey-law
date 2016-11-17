@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "393",
+  "decision_date": "2016-11-17",
+  "source_id": 22018,
+  "chamber": "6",
+  "ilam_number": "44",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22018/",
+  "source_sha256": "b5a3ccdc6433a85da0cb9094531a0db7051e2e86d1ecb8dff6cf6a35516b76b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
