@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35439",
+  "decision_date": "2016-11-17",
+  "source_id": 23293,
+  "chamber": "2",
+  "ilam_number": "65",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23293/",
+  "source_sha256": "f1581e5ad7587a6a0470ce8a15a449d521d59637845ccc452cabde5ddd47bc69",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
