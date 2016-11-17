@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "204",
+  "decision_date": "2016-11-17",
+  "source_id": 23380,
+  "chamber": "5",
+  "ilam_number": "71",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23380/",
+  "source_sha256": "0aaa0e98fd69b49d03bf79b96f9e3064808251f09808204b8418b0e5448822e4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
