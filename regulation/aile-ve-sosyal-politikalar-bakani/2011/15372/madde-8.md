@@ -1,0 +1,3 @@
+İlan ve başvurular
+MADDE 8 – (1) Vakıflar, öğrencilere verilecek burslara ilişkin; varsa bağış yapanın koyduğu şartları, başvuru şekli ve koşulları, yeri, başvuru süresi, miktarı ve diğer konuları düzenli olarak her yılın eylül ayının ilk haftasında veya ihtiyaç duyulan başka tarihlerde uygun vasıtalarla ilan eder.
+(2) Öğrenciler, ilan tarihinden itibaren 15 gün içinde ilanda belirtilen adrese şahsen, birinci derece akrabaları veya posta yoluyla başvuru yapabilirler. Başvurular elektronik ortamdan da gerçekleştirilebilir ve bu durumda başvuru belgeleri son başvuru tarihine kadar vakfa ayrıca ulaştırılır. Bu madde gereğince yapılan belge teslimlerinde oluşan gecikmelerden vakıflar sorumlu tutulamaz.

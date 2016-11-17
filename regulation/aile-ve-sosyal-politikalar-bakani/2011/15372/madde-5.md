@@ -1,0 +1,3 @@
+Şartlı bağışın aktarılması ve değerlendirilmesi
+MADDE 5 – (1) Burs verilmesi amacıyla gerçek ve tüzel kişilerden kabul edilen şartlı bağışlar nedeniyle vakıfların hesaplarında biriken miktarlardan ilgili vakıf mütevelli heyetince karar verilen kısım, 3294 sayılı Kanun gereğince kurulan Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonu Kurulu onayıyla diğer vakıflara aktarılabilir. Bu şekilde aktarılan miktarlar yalnızca ihtiyaç sahibi öğrencilere burs verilmesi amacıyla kullanılır.
+(2) Vakıflar, şartlı bağışlarla biriken miktarları değerlendirmek suretiyle elde ettikleri geliri adlarına açtıracakları ayrı bir hesapta tutarlar ve şartlı bağışlardan elde edilen gelirler, sadece bağışçının iradesi doğrultusunda burs vermek amacıyla kullanılır.
