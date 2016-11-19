@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-11-19",
+  "issue": "29893",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Mustafa Kemal Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/11/20161119-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/11/20161119.htm",
+  "index_sha256": "34857aba076154bec6fbed7c9a61d022b435a3c5c715644e6591be9ec924af28",
+  "index_header": "19 Kasım 2016 ... 29893 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/11/20161119.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
