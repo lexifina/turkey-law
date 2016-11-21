@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-140.04.01[2016-734]-374135",
+  "source_id": 35638,
+  "date": "2016-11-21",
+  "title": "15/07/2016 darbe girişiminde şehit olan şehidin eşinin annesi üzerine kayıtlı konutun şehit eşine hibe edilmesinde tapu harcı ve V.İ. Vergisi ödenip ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35638",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "6dd556b11808782a1700fed4d046c2babe24177f91eb610aeee8dd0a12a5d243",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
