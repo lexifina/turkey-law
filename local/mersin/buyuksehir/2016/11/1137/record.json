@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "1137",
+  "decision_date": "2016-11-21",
+  "title": "GÜNDEM DIŞI MEC. KAR. (YENİŞEHİR ÇİFTLİK 978",
+  "listed_as": "1137 GÜNDEM DIŞI MEC. KAR. (YENİŞEHİR ÇİFTLİK 978",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/1137-gundem-disi--mec--kar--yenisehir-ciftlik-9780-ada",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk07-30-kasim-2016-meclis-kararlari-677546",
+  "listing_sha256": "be5d7a5e05190dc2233fc8ededdeb6921dd8103e20af594ad083c62f65f6f84c",
+  "meeting_title": "MK08-21 KASIM 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
