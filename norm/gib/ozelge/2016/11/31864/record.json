@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[229-2015/VUK1-19641]-214796",
+  "source_id": 31864,
+  "date": "2016-11-21",
+  "title": "Hurda teslimlerinde KDV tevkifatı ve belge düzeni",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/31864",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "70308f4e324156dd4a98b1701f9c03acfaaca46f452c7b396c70383b804ae0a0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
