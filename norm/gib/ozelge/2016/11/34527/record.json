@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-155-214773",
+  "source_id": 34527,
+  "date": "2016-11-21",
+  "title": "775 sayılı Kanun kapsamında gecekondu önleme bölgesi ilan edilen yerle ilgili … GYO A.Ş. ile şirket arasında düzenlenen sözleşmenin ve ihale kararının damga vergisi ve harç istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34527",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "8d7e685803a350681fd8f2c521d695dafc7d3423f5e7bcf63744ee412db009c5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
