@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "91",
+  "decision_date": "2016-11-22",
+  "source_id": 20774,
+  "chamber": "8",
+  "ilam_number": "30",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20774/",
+  "source_sha256": "ddb9798053336a8743a1bceaefc6d097742eb817a39f3eec26fc4e409c1eb951",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
