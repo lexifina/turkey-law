@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "394",
+  "decision_date": "2016-11-22",
+  "source_id": 23546,
+  "chamber": "6",
+  "ilam_number": "85",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23546/",
+  "source_sha256": "bf6db7da01c3586cf76f5fb6ac6aa9d1af82c09b53a7ca0fa59dcef30cf70a8c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
