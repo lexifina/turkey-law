@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "92",
+  "decision_date": "2016-11-22",
+  "source_id": 23609,
+  "chamber": "8",
+  "ilam_number": "278",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23609/",
+  "source_sha256": "2a3602407f57a7144e9faa5f03ae5d56fd98acf42ac5206ceaa435c2fcea1c3a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
