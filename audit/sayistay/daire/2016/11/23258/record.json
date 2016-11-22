@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10607",
+  "decision_date": "2016-11-22",
+  "source_id": 23258,
+  "chamber": "1",
+  "ilam_number": "52",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23258/",
+  "source_sha256": "0ab4daa225092674e1e26ade6cc957dd757512fc2e0c08f269e6d1359fe62fb4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
