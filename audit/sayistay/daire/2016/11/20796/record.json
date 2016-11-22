@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "91",
+  "decision_date": "2016-11-22",
+  "source_id": 20796,
+  "chamber": "8",
+  "ilam_number": "30",
+  "item_number": 5,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/20796/",
+  "source_sha256": "03e681888d9e329c7fe2bfbe3b299444a84af97d9aef31ded4d54794b6830b64",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
