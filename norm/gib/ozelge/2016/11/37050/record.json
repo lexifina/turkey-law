@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-175.01[8.2016/6.1.4-40042]-217775",
+  "source_id": 37050,
+  "date": "2016-11-22",
+  "title": "İndirimli Bina Vergisi Oranı (Sıfır) Uygulaması Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37050",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "f53ed196b769bcc2b294e0e3673571a7a738efa977859d324bf3a6afde1a3356",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
