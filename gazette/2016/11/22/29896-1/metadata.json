@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-11-22",
+  "issue": "29896",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KANUN HÜKMÜNDE KARARNAMELER",
+  "title": "KHK/677 Olağanüstü Hal Kapsamında Bazı Tedbirler Alınması Hakkında Kanun Hükmünde Kararname",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/11/20161122-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/11/20161122.htm",
+  "index_sha256": "9fddcbc7b8e7157008535c699d7505a70c5130d2b9366862563e5609c2183e9e",
+  "index_header": "22 Kasım 2016 ... 29896 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/11/20161122.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
