@@ -1,0 +1,20 @@
+{
+  "applicant": "H.Ö.Ç.",
+  "application_date": "2014-01-23",
+  "application_number": "2014/955",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2016-11-23",
+  "id": "d599db1a-9799-fffe-0cf9-f64f1d272a1d",
+  "in_force": "2016-11-23",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmQ1OTlkYjFhLTk3OTktZmZmZS0wY2Y5LWY2NGYxZDI3MmExZA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "f4950b58420f7249746612e168dccf0247f4c6dfd5843fbe3af6ec13689b85b2",
+  "version_label": "as-enacted"
+}
