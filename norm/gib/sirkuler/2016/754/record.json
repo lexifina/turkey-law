@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-87 / 2016-8",
+  "source_id": 754,
+  "date": "2016-11-23",
+  "title": "23 Kasım 2016 günü sonuna kadar verilmesi gereken Muhtasar Beyannameler, Damga Vergisi Beyannameleri ile 24 Kasım 2016 günü sonuna kadar verilmesi gereken Katma Değer Vergisi Beyannamelerinin verilme sürelerinin uzatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/754",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "b11a15b9232de33afa9fa2f821a3a1eb5c28729cef21cd4f96eab3d8a8bcc3ae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
