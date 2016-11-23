@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42381",
+  "decision_date": "2016-11-23",
+  "source_id": 12853,
+  "chamber": "2",
+  "file_number": "40816",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12853/",
+  "source_sha256": "080396fd38510d33040a0ff168877c61cbc1d0c9ec85a315233183af3431dfbc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
