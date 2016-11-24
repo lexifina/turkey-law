@@ -1,0 +1,3 @@
+Oda Bütçesi
+Madde 80 — Her yıl Oda organlarının yeni yıl bütçe tasarıları, Oda Yönetim Kurulunca saptanacak ilkeler gözönüne alınarak, kendi yönetim kurulları tarafından hazırlanıp Oda ve Şubeler Yönetim Kurullarının ikişer üyesinin katılmasıyla oluşan Oda Bütçe Komitesine iletilir. Bütçe bu komitenin tavsiyesi ve Oda Yönetim Kurulunun kararıyla 15 Aralık tarihine kadar son şeklini alır, Oda Genel Kurulunun onayı ile kesinlik kazanır ve 1 Ocak tarihinden itibaren uygulanır.
+Şube ve Temsilcilikler Mimarlar Odası bütçesinden kendileri için ayrılan ödenek çerçevesinde Oda adına harcama yaparlar, bütün tahsilat Oda adına yapılır.

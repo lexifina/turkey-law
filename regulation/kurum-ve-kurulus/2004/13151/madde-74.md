@@ -1,0 +1,4 @@
+Temsilcilikler
+Madde 74 — Temsilcilikler, herhangi bir il ya da ilçede, en az Temsilcilik Yönetim Kurulunun asil ve yedek üyelerini oluşturacak sayının iki katı kadar üyenin topluca başvurmaları üzerine ve ilgili şube ya da Büyükkent Şube Yönetim Kurulunun görüşü alınarak Oda Yönetim Kurulunun kararı ile kurulur.
+Kuruluş çalışmaları o il ya da o ilçedeki üyeler arasından Oda Yönetim Kurulunca görevlendirilecekler tarafından yürütülür. Temsilcilik, o il ya da o ilçedeki üyeler tarafından kendi aralarında Türk Mühendis ve Mimar Odaları Birliği Kanununda gösterilen usullere göre seçilen üç ya da beş kişiden oluşan bir Temsilcilik Yönetim Kurulu tarafından yönetilir.
+Temsilcilik etkinlik bölgesi o il ya da o ilçenin sınırları içinde kalan alandır. Ancak, bir il sınırları içinde birden fazla Temsilcilik varsa, temsilciliklerin etkinlik bölgeleri Temsilcilik ve ilgili şube ya da Büyükkent Şube Yönetim Kurullarının görüşü alınarak Oda Yönetim Kurulunca belirlenir.

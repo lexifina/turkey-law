@@ -1,0 +1,4 @@
+Oda Temsilcisi
+Madde 77 — Mimarlar Odasının şube ya da temsilciliğinin bulunmadığı, en az üç mimarın bulunduğu il ya da ilçelerde yapı üretiminde mesleki denetim uygulamasını yürütmek ve bulunduğu yerdeki mesleki faaliyetler konusunda bağlı olduğu şube ile bağlantılı olarak çalışmalar yapmak üzere Şube Yönetim Kurulu kararı ile, o yerdeki diğer üyelerin eğilimleri gözönüne alınarak, Oda temsilcisi atanır.
+Oda temsilcisi Odanın kabul ettiği usuller içinde mesleki denetim görevini yapar. Bulunduğu yerde imar ve mimarlıkla ilgili faaliyetleri izler bu konuda bağlı olduğu şubeyi bilgilendirir ve şubenin önerdiği çalışmaları yürütür.
+Oda temsilcisi, ilgili Şube ya da Büyükkent Şube Yönetim Kurulu tarafından atanır ve görev, yetki ve sorumluluklarını yerine getirmediği durumlarda görevden alınır. Yerine başka bir temsilci atanır ya da o yerdeki uygulamaya son verilir.

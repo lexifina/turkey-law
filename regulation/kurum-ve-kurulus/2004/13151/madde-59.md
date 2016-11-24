@@ -1,0 +1,2 @@
+Şube Olağanüstü Genel Kurulunun Duyurulması ve Gündemi
+Madde 59 — Şube Olağanüstü Genel Kurulu toplantısı, Şube Yönetim Kurulunca en az on gün önce üyelere bildirilir ve günlük bir gazetenin Türkiye baskısında duyurulur. Olağanüstü Genel Kurul toplantısı Olağan Genel Kurul toplantısı gibi yapılır. Ancak sadece toplantıya neden olan konuyla ilgili gündem üzerinde görüşülüp karar alınır. Olağanüstü Genel Kurulun gündeminde şube organları için seçim varsa, yeni seçilenler ilk Olağan Genel Kurula kadar görev yaparlar.

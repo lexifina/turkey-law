@@ -1,0 +1,2 @@
+Genel Kurulun Açılışı ve Yönetilmesi
+Madde 16 — Genel Kurul toplantı yeter sayısının sağlanmasıyla Oda Yönetim Kurulu Başkanı ya da Yönetim Kurulunun kendi içinden belirleyeceği bir üye tarafından açılır ve gündemin birinci maddesi gereğince Genel Kurulu yönetmek üzere başkanlık divanı seçilir. Başkanlık divanı bir başkan, iki başkan yardımcısı ve dört yazmandan oluşur. Başkanlık divanı açık oyla seçilir.

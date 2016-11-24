@@ -1,0 +1,2 @@
+Şube Genel Kurulunun Açılışı ve Yönetilmesi
+Madde 51 — Şube Genel Kurulu toplantı yeter sayısının sağlanmasıyla Şube Yönetim Kurulu Başkanı ya da Şube Yönetim Kurulunun kendi içinden belirleyeceği bir üye tarafından açılır ve gündemin birinci maddesi gereğince Şube Genel Kurulunu yönetmek üzere Başkanlık Divanı seçilir. Başkanlık Divanı bir başkan, bir veya iki başkan yardımcısı, iki veya dört yazmandan oluşur. Başkanlık Divanı açık oyla seçilir.

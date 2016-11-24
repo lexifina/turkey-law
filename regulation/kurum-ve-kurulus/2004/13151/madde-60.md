@@ -1,0 +1,5 @@
+Şube Yönetim Kurulunun Oluşumu ve Görev Bölümü
+Madde 60 — Şube Yönetim Kurulu, Şube Genel Kurulunca iki yıl süreyle seçilen beş ya da yedi üyeden oluşur. Yedekler aynı sayıda seçilir.
+Şube Yönetim Kurulu, seçimden sonra yapacağı ilk toplantıda aralarında gizli oyla bir Başkan, bir Başkan yardımcısı, bir Sekreter üye ve bir Sayman üye seçer. Mali işlemlerde bu dört üyeden herhangi ikisinin imzaları geçerlidir. Ayrıca diğer üyeler arasından Türk Mühendis ve Mimar Odaları Birliği İl Koordinasyon Kurulunda görev alacak asil ve yedek Yönetim Kurulu üyelerini belirler.
+Başkan ya da Başkan yardımcısının olmadığı hallerde şube Sekreter üyesi, Yönetim Kurulunun yürütme öğesi ve sözcüsüdür, onun kararları çerçevesinde sekreterliği yönetir ve Yönetim Kurulunu temsil eder. Şube işlemlerinin zamanında ve şube ve Odanın amaçlarına uygun olarak yürütmekle görevli ve sorumludur.
+Şube Sayman üyesi, Oda ve Şube Yönetim Kurulları kararları çerçevesinde şube bütçesini ve bütçe işlemlerini zamanında yürütmekle görevli ve sorumludur. Yönetim Kurulu, Sayman üyenin sorumluluğuna ortaktır.

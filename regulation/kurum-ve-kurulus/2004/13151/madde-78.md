@@ -1,0 +1,2 @@
+İşyeri Temsilciliği
+Madde 78 — Oda, kamu ve özel kesimde çalışan mimarların haklarının savunulması, mesleki açıdan kamu çıkarlarının korunması, söz konusu üyelerin Oda ile doğrudan ilişkisinin sağlanması amacıyla Mimarlar Odası İşyeri Temsilciliklerini kurar. Bu konuda Şube, Büyükkent Şube, Büyükkent Bölge Temsilcilikleri ve Temsilcilikler görevli olup kuruluş ilgili birimlerin onayı ile gerçekleşir. İşyeri Temsilciliğinin esasları ayrı bir iç düzenlemeyle belirlenir.

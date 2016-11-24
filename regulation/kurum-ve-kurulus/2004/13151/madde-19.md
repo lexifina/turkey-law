@@ -1,0 +1,2 @@
+Oda Genel Kurul Karar Yeter Sayısı
+Madde 19 — Genel Kurul, kararlarını oylamaya katılanların çoğunluğu ile alır. Oylarda eşitlik olursa Başkanın tarafı çoğunlukta sayılır. Yalnız Oda yönetmeliklerindeki yapılacak değişiklikler için oylamaya katılanların üçte ikisinin olumlu kararı gerekir. Oylamaya katılanların sayısı hazirun listesinin yüzde 25’inin altına düştüğünde yönetmelik değişikliği yapılamaz.
