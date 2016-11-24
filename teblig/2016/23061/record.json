@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23061",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2016/15)",
+  "number": "23061",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2016/23061",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23061&MevzuatTertip=5",
+  "source_sha256": "81ded49a9cd760e2ffebf55ac350bbe938e6818ba8f21e5501f041a7635b03cf",
+  "source_bytes": 9288,
+  "published": "2016-11-24",
+  "gazette": "29898 Mükerrer",
+  "in_force": "2016-11-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.11.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 125,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23061-Ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
