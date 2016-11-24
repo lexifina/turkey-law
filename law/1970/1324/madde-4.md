@@ -1,0 +1,1 @@
+Madde 4 – Genelkurmay Başkanı; şahsen veya yetkili kılacağı kişi ve kuruluşlarla, görev ve yetkilerine ait konularda ilgili bakanlıklar, daireler ve kurumlar ile doğruca yazışma yapabilir ve temaslarda bulunabilir.

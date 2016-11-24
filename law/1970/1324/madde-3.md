@@ -1,0 +1,1 @@
+Madde 3 – Uluslararası yapılacak anlaşma ve andlaşmaların askeri yönlerinin tayininde ve uygulama esaslarının tespitinde Genelkurmay Başkanının mütalaası alınır. Gerektiğinde bu toplantılara katılır veya temsilci gönderir.
