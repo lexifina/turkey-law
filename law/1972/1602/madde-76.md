@@ -1,0 +1,2 @@
+Üyelerin görevleri:
+Madde 76 – Üyeler; bulundukları Dairelerde Başkanlar, dahil bulundukları kurullarda kurul başkanları tarafından kendilerine verilen dosyaları geciktirmeden inceliyerek görevli daire veya kurullara gerekli izahatı verirler, kararları yazarlar, dairelerin ve üyesi bulundukları kurulların toplantılarına katılırlar, düşünce ve kanaatlerini bildirirler, oylarını verirler ve daire ile ilgili olmak üzere tevdi edilen diğer işleri yaparlar.

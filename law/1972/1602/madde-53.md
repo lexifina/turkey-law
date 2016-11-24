@@ -1,0 +1,2 @@
+Sonradan ibraz olunan evrak ve belgeler:
+Madde 53 – Dilekçeler ve savunmalarla birlikte verilmeyen müspet evrak ve belgeler, bunların vaktinde ibraz edilmelerine imkan bulunmadığına Daire veya Daireler Kurulunca kanaat getirilirse, kabul ve diğer tarafa tebliğ edilir. Bu evrak ve belgeler duruşmada ibraz edilir ve diğer taraf, cevabını hemen verebileceğini beyan eder veya cevap vermeye lüzum görmezse, ayrıca tebliğ yapılmaz.

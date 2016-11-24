@@ -1,0 +1,4 @@
+Doğrudan doğruya tam yargı davası açılması:
+Madde 43 – (Değişik: 25/12/1981 - 2568/1 md.)
+İdari eylemlerden hakları ihlal edilmiş olanların Askeri Yüksek İdare Mahkemesinde dava açmadan önce, bu eylemlerin yazılı bildirimi üzerine veya başka suretle öğrendikleri tarihten itibaren bir yıl ve her halde eylem tarihinden itibaren beş yıl içinde yetkili makama başvurarak haklarının yerine getirilmesini istemeleri lazımdır. Bu isteklerin kısmen veya tamamen reddi halinde bu konudaki işlemin tebliği tarihinden ve altmış gün içinde cevap verilmediği takdirde bu sürenin bittiği tarihten itibaren altmış gün içinde tam yargı davası açabilirler.
+Görevli olmayan adli yargı mercilerine açılan tam yargı davasının görevden reddi halinde sonradan Askeri Yüksek İdare Mahkemesine açılan davalarda, birinci fıkrada öngörülen idareye başvurma şartı aranmaz.

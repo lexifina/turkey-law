@@ -1,0 +1,4 @@
+Çeşitli hükümler:
+Madde 80 – (Değişik: 25/12/1981 - 2568/1 md.)
+a) Askeri Yüksek İdare Mahkemesinin hakim sınıfından olan, Başkan, Başsavcı, daire başkanları ve üyeleri; aylık, ek gösterge, ödenek, yükselme ve yaş hadleri, emeklilik ve diğer özlük hakları yönünden, Askeri Yargıtay Başkanı, Başsavcısı, daire başkanları ve üyelerine uygulanan hükümlere tabidir.
+b) Hakim sınıfından olmayan üyeleri ise; aylık, ek gösterge, yan ödeme, hizmet ödeneği gibi ödemeler, yükselme ve yaş hadleri, emeklilik ve diğer özlük hakları yönünden emsali subaylara uygulanan hükümlere tabidir. Ancak bu üyelerin, yukarıda belirtilen çeşitli ödemeler sonucu bir ayda aldıkları net tutarlar, aynı rütbe ve kıdemdeki hakim üyelerin bir ayda aldıkları net tutarlardan az ise, aradaki fark ayrıca tazminat olarak kendilerine ödenir. Uçuş Hizmetleri Tazminat Kanunu ile Denizaltı, Dalgıç ve Kurbağa Adam Tazminat Kanunu hükümleri saklıdır.

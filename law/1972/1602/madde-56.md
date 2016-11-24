@@ -1,0 +1,3 @@
+Madde 56 – (Değişik: 25/12/1981 - 2568/1 md.)
+Bu Kanunda aksine hüküm bulunmayan hallerde; İdari Yargılama Usulü Kanunu ile Hukuk Usulü Muhakemeleri Kanununun hakimin davaya bakmaktan memnuiyetini gerektiren haller, ehliyet, üçüncü şahısların davaya katılması, davanın ihbarı, bağlılığı, tarafların vekilleri, feragat ve kabul, teminat, mukabil dava, bilirkişi, keşif, delillerin tespiti, yargılama giderleri, adli yardım ve duruşmanın inzibatına ilişkin hükümleri uygulanır. (Ek cümle: 3/11/2016-6754/21 md.) Bilirkişiler hakkında Bilirkişilik Kanunu ve 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununun ilgili hükümleri uygulanır.
+Askeri Yüksek İdare Mahkemesi Başkan ve üyelerinin çekilmesi ve reddi:

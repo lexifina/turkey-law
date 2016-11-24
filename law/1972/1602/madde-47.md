@@ -1,0 +1,3 @@
+Dava dosyalarının Başsavcılığa verilmesi:
+Madde 47 – (Değişik: 22/5/2012 - 6318/60 md.)
+Dilekçeler ve savunmalar alındıktan veya cevap süreleri geçtikten sonra, dava dosyaları Genel Sekreterlikçe Başsavcılığa verilir. Başsavcılığın düşüncesi alındıktan sonra dosyalar Genel Sekreterliğe geri gönderilir. Başsavcılık düşüncesi Genel Sekreterlikçe taraflara tebliğ edilir. Taraflar tebliğden itibaren yedi gün içerisinde cevaplarını yazılı olarak Mahkemeye bildirebilirler. Bu süre uzatılamaz. Tarafların cevapları alındıktan veya cevap süresi geçtikten sonra dosyalar görevli daireye Genel Sekreterlik aracılığı ile gönderilir.

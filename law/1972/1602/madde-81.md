@@ -1,0 +1,3 @@
+Görevin sona ermesi:
+Madde 81 – Askeri Yüksek İdare Mahkemesi Başkanı, Başsavcısı, Daire Başkanları, üyeleri ve Genel Sekreterinin ağır hapis, kasıtlı bir suçtan dolayı altı ay veya daha fazla hapis cezası yahut kasıtlı olmıyan bir suçtan dolayı bir yıldan fazla hapis cezası ile kesin olarak hüküm giymesi halinde görevi kendiliğinden sona erer.
+Kasıtlı olan bir suçtan dolayı altı aydan aşağı hapis cezası ile hüküm giymelerinde, bu suç hakimliğin vakar ve şerefini bozan veya bu sıfata karşı genel saygı ve güveni gideren nitelikte görülürse ilgilinin hakimlik sıfatının kaldırılmasının gerekip gerekmediğine Yüksek Disiplin Kurulunca karar verilir.

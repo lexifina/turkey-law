@@ -1,0 +1,4 @@
+Görevli olmayan yerlere başvurma:
+Madde 41 – (Değişik: 25/12/1981 - 2568/1 md.)
+Askeri Yüksek İdare Mahkemesinin görevine giren uyuşmazlıklarda, askeri, idari ve adli yargı mercilerine açılan davaların görev noktasından reddi halinde, bu husustaki kararların ve bunlara karşı kanun yolları varsa süresi içinde olmak şartıyla bu yollara başvurulması üzerine, verilen kararların tebliği tarihinden itibaren otuz gün içinde Askeri Yüksek İdare Mahkemesine dava açılabilir. Bu mercilere başvurma tarihi, Askeri Yüksek İdare Mahkemesine müracaat tarihi olarak kabul edilir.
+Adli, idari veya askeri yargı yerlerine dava açılmış olması ve bu yargı yerlerinin görevsizlik kararının kesinleşmesinden sonra birinci fıkrada yazılı otuz günlük sürenin geçirilmiş bulunması, bu kanunda öngörülen süreler içinde Askeri Yüksek İdare Mahkemesinde açılmış olan davanın süreden reddine neden olmaz.
