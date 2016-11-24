@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "298",
+  "decision_date": "2016-11-24",
+  "source_id": 22052,
+  "chamber": "3",
+  "ilam_number": "54",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22052/",
+  "source_sha256": "93e3b08f123fb19486ba5d5fd6b24178252889819138918a81d40e41c21c4671",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
