@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "149",
+  "decision_date": "2016-11-24",
+  "source_id": 22285,
+  "chamber": "4",
+  "ilam_number": "317",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22285/",
+  "source_sha256": "480af234665f3504bd8dcfadd9e7420d04803a0702691768ceb49613324114ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
