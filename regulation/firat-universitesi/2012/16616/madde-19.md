@@ -1,0 +1,2 @@
+Öğretimi bitirme
+MADDE 19 – (1) Bağlı bulunduğu programın öğretim planında yer alan zorunlu derslerle, yine programda öngörülen toplam krediyi sağlayacak şekilde seçmeli dersleri alan ve başaran, ağırlıklı genel not ortalamasını her iki üniversitenin öngördüğü sınırların üstüne çıkartmış ve her iki üniversite tarafından belirlenen bütün çalışmaları yapmış öğrenciler, öğrenimlerini bitirmiş sayılır ve kendilerine bu Yönetmeliğin 24 üncü maddesinde belirtilen diplomalar verilir.

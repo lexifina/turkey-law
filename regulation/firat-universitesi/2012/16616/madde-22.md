@@ -1,0 +1,2 @@
+Tamamlama
+MADDE 22 – (1) Ortak üniversitede eğitimini tamamlayıp Fırat Üniversitesine dönen öğrenciler almış oldukları dersleri gösteren not belgelerini (transkript) ortak kurumca düzenlenmiş kapalı mühürlü zarf içerisinde program koordinatörüne teslim etmekle yükümlüdür. Koordinatörler not belgelerinin bir kopyasını kendi dosyalarında alıkoyarak, asıllarını öğrenci dosyalarına konulmak üzere fakülte aracılığı ile Fırat Üniversitesi Öğrenci İşleri Daire Başkanlığına gönderir.

@@ -1,0 +1,2 @@
+Ağırlıklı genel not ortalamasının yükseltilmesi
+MADDE 15 – (1) Ağırlıklı genel not ortalamasını yükseltmek isteyen öğrenci, Fırat Üniversitesinde bu programlarda daha önce alıp başardığı veya şartlı başarılı olduğu dersleri Senato tarafından belirlenen esaslar çerçevesinde Fırat Üniversitesi’nde tekrar alabilir. Bu dersler için son alınan notlar geçerlidir. Öğrencinin aldığı bütün notlar, ifadeler ve tanımlar not belgesinde gösterilir.

@@ -1,0 +1,2 @@
+Başarısız olunan derslerin tekrarı
+MADDE 17 – (1) Fırat Üniversitesinde ya da ortak üniversitede alınıp başarısız olunan derslerin tekrar alınması gerekir. Farklı üniversitelerde tekrarlanan derslerdeki başarı notları her iki üniversitenin not belgesinde birlikte yer alır. Öğrenciler, bu notların her iki üniversitenin not belgesine nasıl yansıdığını ve buna bağlı olarak ağırlıklı not ortalamasının nasıl değiştiğini bilmekle yükümlüdürler. Öğrenciler, başarısız oldukları dersleri; ilgili ortak kurumların mevzuatına göre alırlar.
