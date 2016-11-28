@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[229-2014/VUK1-18678]-228965",
+  "source_id": 28051,
+  "date": "2016-11-28",
+  "title": "İhraç edilecek malın ambara teslim edilmesi durumunda faturanın ne zaman düzenleneceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/28051",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "ba28e7a109be13fc1f59dfc722b68a6e078f6f3e391b339c3fd00698eaecb0d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
