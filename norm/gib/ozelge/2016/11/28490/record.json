@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[19-15/269]-399523",
+  "source_id": 28490,
+  "date": "2016-11-28",
+  "title": "Nev'i değişikliği halinde devam etmekte olan yıllara sari inşaat işinin bitim tarihi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28490",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "45cdd29aed4865f28aa839381410f1fc7744ba6ee7c27137e5114a49c0f68396",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
