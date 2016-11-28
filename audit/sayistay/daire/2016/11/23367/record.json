@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "396",
+  "decision_date": "2016-11-28",
+  "source_id": 23367,
+  "chamber": "6",
+  "ilam_number": "473",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23367/",
+  "source_sha256": "a4ec19bf635d47fcb31a7bdaa80cf3b7b56a7aac0a9c1c1c4b1c5232e050e75b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
