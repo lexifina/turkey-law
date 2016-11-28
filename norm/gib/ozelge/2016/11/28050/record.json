@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[327-2014/VUK1-18555]-228978",
+  "source_id": 28050,
+  "date": "2016-11-28",
+  "title": "Rölöve, restorasyon ve restitüsyon harcamalarının özel maliyet olup olmadığı ve kira ödemelerinin gider yazılıp yazılamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/28050",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "67819b337c727cc12b292793ec72e0e1fd2119459800221f0c23ac5f573b2ff4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
