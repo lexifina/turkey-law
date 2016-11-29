@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[414-2012/VUK-1- . . .]-229259",
+  "source_id": 22092,
+  "date": "2016-11-29",
+  "title": "Ticari Faaliyetinin Yanında Oyunculuk Faaliyetinde Bulunulmasında Vergilendirme",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/22092",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "3bbc6d5899b5a3d45970c02b268331430a16526ab4180027d65266f43effa52e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
