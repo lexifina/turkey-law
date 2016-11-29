@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "399",
+  "decision_date": "2016-11-29",
+  "source_id": 23202,
+  "chamber": "6",
+  "ilam_number": "462",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23202/",
+  "source_sha256": "1aa4afe46b8b5a69b66fef0dc2452ec7344aaa122234239556c2692d9275c3f0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
