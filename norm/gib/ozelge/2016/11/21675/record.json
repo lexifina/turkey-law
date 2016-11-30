@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-120[32-16/4]-405297",
+  "source_id": 21675,
+  "date": "2016-11-30",
+  "title": "Dava sonucuna göre işe başlatılan personele geçmiş dönemler için yapılan ücret ödemelerinde asgari geçim indirimi uygulanıp uygulanmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21675",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "daf60c0a9d1252bf1e3e9ed134f468d3be207627d1a9a7cb2dd7c39521b904ce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
