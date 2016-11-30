@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.02-175.01[15-9]-268",
+  "source_id": 36942,
+  "date": "2016-11-30",
+  "title": "Köy Tüzel Kişiliğinden Mahalle Statüsüne Geçen ve Dinlenme Amacıyla Kullanılan Gayrimenkullerin Emlak Vergisi Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36942",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "71dd0e2af41b21c5b2e562a8d1b1867f1de8c70d5de0ce4eb06a05a38260fd1f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
