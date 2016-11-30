@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42414",
+  "decision_date": "2016-11-30",
+  "source_id": 12891,
+  "chamber": "1",
+  "file_number": "39132",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12891/",
+  "source_sha256": "3cbb06c8cf883b443595668fa46dfc129a7aceebe3c7e56d0e27d2c06fcb10a6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
