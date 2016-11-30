@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155.13.04.01[2015/4041]-405748",
+  "source_id": 28527,
+  "date": "2016-11-30",
+  "title": "Adi ortaklığın (iş ortaklığının) nev'i değiştirerek anonim şirkete devir işlemi esnasında yapılacak işlemlerin harçtan ve düzenlenecek kağıtların damga vergisinden istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/28527",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "ca8fb6b33adda88f0063c9eb8015dd5fdd50ca001fbc12c7c794211deffcc550",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
