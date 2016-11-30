@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42427",
+  "decision_date": "2016-11-30",
+  "source_id": 12920,
+  "chamber": "1",
+  "file_number": "39556",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12920/",
+  "source_sha256": "3439f52f45de93de537f1333d99666e3faae4b8a7055c8bf1ab30544b9f9d0dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
