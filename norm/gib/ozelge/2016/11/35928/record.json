@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-140.04.01[2015/375]-406041",
+  "source_id": 35928,
+  "date": "2016-11-30",
+  "title": "3. derece arkeolojik sit alanı şerhi bulunan ve ve üzerinde \"Korunması Gerekli Kültür Varlığıdır\" şerhi olan taşınmazın ifraz işleminde tapu harcı ve emlak vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35928",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "1631c44c8f1b0fe2e7a4a848c44f14bc46d4c2786cb9bab8f8d0691b16c9c65a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
