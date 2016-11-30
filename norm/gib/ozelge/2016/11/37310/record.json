@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.22.15.01-175.02.02-30",
+  "source_id": 37310,
+  "date": "2016-11-30",
+  "title": "Tarım Satış Kooperatifi Birliği Adına Yapılacak Depo Hizmet Üretim Tesisi İnşaatının Harç, Resim ve Vergilerden Muaf Olup Olmadığı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37310",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "a29ed4fdbd154265899cbf59ede18b2699321f197a9df4000507e6ddfcb487af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
