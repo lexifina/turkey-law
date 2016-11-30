@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42436",
+  "decision_date": "2016-11-30",
+  "source_id": 12944,
+  "chamber": "1",
+  "file_number": "38543",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2010",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12944/",
+  "source_sha256": "0cc37c5fa5d1a729ee7ddb8a351ab710a66b13ee9a3cf9cedaf4719b3b78f9c3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
