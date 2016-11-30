@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42422",
+  "decision_date": "2016-11-30",
+  "source_id": 12913,
+  "chamber": "1",
+  "file_number": "39210",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12913/",
+  "source_sha256": "eb7de005c756a19d94efd09b3950b521607014c0f116b1e83f6a64d1f019a9a0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
