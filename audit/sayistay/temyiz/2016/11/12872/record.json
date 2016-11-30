@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42401",
+  "decision_date": "2016-11-30",
+  "source_id": 12872,
+  "chamber": "4",
+  "file_number": "40996",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12872/",
+  "source_sha256": "78bed48bc3f2226d0df06e8e4aadce608a3e0a65c2f5d2acb15804e9bea147e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
