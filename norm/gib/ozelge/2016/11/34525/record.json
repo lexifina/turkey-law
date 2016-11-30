@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155.15.01[2016/4174]-405737",
+  "source_id": 34525,
+  "date": "2016-11-30",
+  "title": "Danışmanlık işine ilişkin düzenlenen ihale kararı ve sözleşmenin 222 sayılı Kanun kapsamında değerlendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34525",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "86322965f72e6996afc71939b61c1037dd29f3db7850f7153ed8c8c2ea2f0163",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
