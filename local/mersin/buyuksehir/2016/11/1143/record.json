@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "1143",
+  "decision_date": "2016-11-30",
+  "title": "MEC.KAR. (2017 YILI BÜTÇE )",
+  "listed_as": "1143 MEC.KAR. (2017 YILI BÜTÇE )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/1143-mec-kar--2017-yili-butce-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk07-30-kasim-2016-meclis-kararlari",
+  "listing_sha256": "6d47dae3541024b846659e688158c5716588e5984dbc0f274430265e7189bc16",
+  "meeting_title": "MK07-30 KASIM 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
