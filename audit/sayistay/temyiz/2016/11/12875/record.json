@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42403",
+  "decision_date": "2016-11-30",
+  "source_id": 12875,
+  "chamber": "1",
+  "file_number": "39901",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12875/",
+  "source_sha256": "167c1c47a70ae0a1ae18fba869e0f74cc36320df0909aaecfd82a35181961056",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
