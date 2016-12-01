@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "145",
+  "decision_date": "2016-12-01",
+  "source_id": 23570,
+  "chamber": "7",
+  "ilam_number": "106",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23570/",
+  "source_sha256": "c6fc58c9929cc48f545246385e0ea9a959829272b3595578b7da273e4246a287",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
