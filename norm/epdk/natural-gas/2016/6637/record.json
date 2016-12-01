@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6637",
+  "decision_date": "2016-12-01",
+  "title": "Etki Liman İşletmeleri Doğalgaz İthalat ve Ticaret Anonim Şirketi’nin 2016-2022 uygulama dönemine ilişkin yöntem bildirimi",
+  "resmi_gazete_date": "2016-12-03",
+  "resmi_gazete_number": "29907",
+  "categories": [
+    "Depolama"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=AQQOLLocGFY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=AQQOLLocGFY="
+  ],
+  "source_sha256": "4e6e69559373e02be411a643efeabcb09880e55ecf2804cafe2c699b56171235",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7229,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-12-01",
+  "law_text_complete": false
+}
