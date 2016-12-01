@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6629",
+  "decision_date": "2016-12-01",
+  "title": "Kayserigaz Kayseri Doğalgaz Dağıtım Pazarlama ve Ticaret A.Ş.’nin 2012-2016 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2016-12-03",
+  "resmi_gazete_number": "29907",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u4EL4sGLWAU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u4EL4sGLWAU="
+  ],
+  "source_sha256": "76eb24961fc5afb8870e3c1cd9f39ae1251bcbaf72ee700aaf93953447db7d11",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-12-01",
+  "law_text_complete": false
+}
