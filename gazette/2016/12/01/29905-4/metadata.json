@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-12-01",
+  "issue": "29905",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kapadokya Meslek Yüksekokulu Sıcak Hava Balonu ve Hava Gemisi Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161201-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161201.htm",
+  "index_sha256": "466c257a8d35f66f6d05ba15f5909cf1ed8ab235ab526442e67811531942c832",
+  "index_header": "1 Aralık 2016 ... 29905 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161201.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
