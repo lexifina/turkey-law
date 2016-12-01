@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2016/9567",
+  "source_id": 1600,
+  "date": "2016-12-01",
+  "title": "BAZI MALLARIN ÖZEL TÜKETİM VERGİSİ TUTARLARININ YENİDEN BELİRLENMESİ HAKKINDA KARAR",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/bkk/1600",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "1b96d4edaa539c1f817495f7d1af3666173d481f8757d17c963e717de80a9696",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
