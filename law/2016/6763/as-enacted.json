@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6763",
+  "year": 2016,
+  "title": "Ceza Muhakemesi Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-12-02",
+  "gazette_issue": "29906",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161202-1.htm",
+  "source_sha256": "4d006ecae89da7503bc833220828e966945f6f54c98f44db5894bb0f208f12d6",
+  "text_sha256": "6aa688060c54f3dbd9baed5b2c750b581bca616e0b16bf2ca620b4962ced0d59",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/12/02/29906-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161202-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
