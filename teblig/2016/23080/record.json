@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23080",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASINA İLİŞKİN 6736 SAYILI KANUN GENEL TEBLİĞİ (SERİ NO: 4)",
+  "number": "23080",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2016/23080",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23080&MevzuatTertip=5",
+  "source_sha256": "b6ddb58b5d32803748d164e674b099ea4138f42dad5eefbd6cf66522e306a438",
+  "source_bytes": 31804,
+  "published": "2016-12-02",
+  "gazette": "29906",
+  "in_force": "2016-12-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.12.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1999,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2016/12/20161202-3-1.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
