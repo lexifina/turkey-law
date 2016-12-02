@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-010-235784",
+  "source_id": 25407,
+  "date": "2016-12-02",
+  "title": "İş Ortaklığında Kullanılan Taşıtların Gider Kaydı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25407",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "add3c88f39dd4fd58c1a5ca449a4bfdf3b97cba88d2b2e4ca9102d5910489ac0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
