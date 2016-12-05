@@ -1,0 +1,23 @@
+{
+  "number": "97",
+  "number_as_published": "97",
+  "year": 2016,
+  "title": "2017 yılı Meclis Çalışma Takvimi",
+  "decision_date": "2016-12-05",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/48",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/97-2017-yili-meclis-calisma-takvimi-05122016.pdf",
+  "source_sha256": "6f746ee091b3a15e4f30568e73c94745754d8986dcfc3ef4fa924a8b25bc7f00",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2016-12-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 Aralık 2016 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
