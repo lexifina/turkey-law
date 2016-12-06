@@ -1,0 +1,10 @@
+Planların onaylanması
+MADDE 7 – (1) Korunan alanlarda hazırlanan her tür ve ölçekte planlara ilişkin teklif dosyaları il müdürlüklerine sunulur. Teklif dosyaları, il müdürlüklerince 3194 sayılı İmar Kanunu, ilgili diğer mevzuat ve bu Yönetmelik hükümleri doğrultusunda incelenir. Plan teklif dosyası, varsa eksik bilgi ve belgeler ile düzeltmeler tamamlatılarak, teknik inceleme raporu ile birlikte Genel Müdürlüğe sunulur.
+(2) Birinci fıkrada belirtilen hususlara ilaveten il müdürlüğünce;
+a) Doğal sit alanlarına ait Koruma Amaçlı İmar Planı teklifleri Bölge Komisyonu kararı ile birlikte,
+b) Tabiat varlıkları ve doğal sitler ile tarihi, arkeolojik, kentsel sitler ve diğer koruma statülerinin çakıştığı alanlarda ise ilgili bakanlıkların görüşü alındıktan sonra, Bölge Komisyonu kararı ile birlikte Genel Müdürlüğe sunulur.
+(3) Bölge Komisyonu, belgeleri tam olarak Bölge Komisyonuna ibraz edildiği tarihten itibaren koruma amaçlı imar planlarını en geç üç ay içinde inceleyerek karar verir. Bölge Komisyonları koruma amaçlı imar planlarını sit sınırlarının doğruluğu ve ilke kararlarına uygunluğu açısından inceler.
+(4) Bu Yönetmelik kapsamında anılan planlar, Genel Müdürlükçe oluşturulacak Plan İnceleme Kurulu tarafından değerlendirilir, varsa gerekli düzeltmeler yapılarak Bakanlık onayına sunulur. Bakanlık, onaylanan planların ve eklerinin dağıtımını yapar.
+(5) 1/5000 ölçekli koruma amaçlı nazım imar planı ve 1/1000 ölçekli koruma amaçlı uygulama imar planlarının eş zamanlı olarak hazırlanması esastır. 1/5000 ölçekli koruma amaçlı nazım imar planının yürürlüğe girmesiyle geçiş dönemi koruma esasları ve kullanma şartları ayrıca karar almaya gerek kalmadan ortadan kalkar.
+(6) (Değişik:RG-6/12/2016-29910) Bu planlar Bakanlıkça tespit edilen yer ile internet sayfasında 1 ay süreyle ilan edilir.
+(7) (Ek:RG-6/12/2016-29910) Korunan alanlar dışında bulunan tescilli ağaç, ağaç toplulukları ve korunma alanını içeren imar planları; tabiat varlıklarının korunma alanlarına ilişkin Tabiat Varlıkları Koruma Bölge Komisyonunca verilen karara uygun olarak ilgili idaresince onaylanır.

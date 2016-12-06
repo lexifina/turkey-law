@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.15988",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KORUNAN ALANLARDA YAPILACAK PLANLARA DAİR YÖNETMELİK",
+  "number": "15988",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2012/15988",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15988&MevzuatTertip=5",
+  "source_sha256": "f5e9456ef33689d02aef208eef2c598fc6cef64e3f9c87811168c43429a3ce77",
+  "source_bytes": 51707,
+  "published": "2012-03-23",
+  "gazette": "28242",
+  "in_force": "2016-12-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/12/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-12-06",
+      "RG-6/12/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-12-06",
+      "6/12/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2729,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
