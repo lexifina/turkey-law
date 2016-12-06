@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6766",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Benin Cumhuriyeti Hükümeti Arasında Ekonomik, Ticari ve Teknik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2016-12-06",
+  "gazette_issue": "29910",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161206-11.htm",
+  "source_sha256": "d9c70de213a8afa8411582e6297f08c8b49d108a0449932f5e5eedb74dafe620",
+  "text_sha256": "b84e5a0b7d1fe29507991a5010a39757b1f3150eb510d4233efc1d5c8fb7e2ff",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2016/12/06/29910-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161206-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
