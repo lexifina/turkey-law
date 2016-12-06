@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-125[KVK.2015.ÖZ.49]-149000",
+  "source_id": 28048,
+  "date": "2016-12-06",
+  "title": "İhtiyati tedbir konulan döviz hesabına kur değerlemesi yapılıp yapılmayacağı ve gelir kaydedilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/28048",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "a720b38ff83c425db173f78c2ffa17f33cf8e2255056fa52b1030dc66d00cf23",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
