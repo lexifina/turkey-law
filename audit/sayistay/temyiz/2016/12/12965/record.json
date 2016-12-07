@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42450",
+  "decision_date": "2016-12-07",
+  "source_id": 12965,
+  "chamber": "1",
+  "file_number": "40818",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/12965/",
+  "source_sha256": "5b3168b6389a3ce7f7cdb7d0fe3b7f40c7550cc99078447f1a1d8cb3732cefac",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
