@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6550",
+  "decision_date": "2016-12-07",
+  "title": "Elektrik Dağıtım Şirketlerinin 2017 yılı Hedef Kayıp Oranlarının Belirlenmesine İlişkin (6816 kurul kararı ile düzeltme yapılmıştır)",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5yX0S/zi+Ss=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5yX0S/zi+Ss="
+  ],
+  "source_sha256": "fa46713ee4a969b268b79758d346b6c90193d48bb1d37f9c89e782096eab115e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-12-07",
+  "law_text_complete": true
+}
