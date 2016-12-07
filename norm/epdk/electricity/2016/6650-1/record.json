@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6650-1",
+  "decision_date": "2016-12-07",
+  "title": "2017 yılı Hedef Kayıp Oranlarının (HKO)",
+  "categories": [
+    "EDAŞ Hedef Kayıp Oranları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xYyJBdEIDzM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xYyJBdEIDzM="
+  ],
+  "source_sha256": "b31e2a1e6e2eb03a3988971ab6fc1312186b73a90254ddca20193229493817cf",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 15926,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-12-07",
+  "law_text_complete": true
+}
