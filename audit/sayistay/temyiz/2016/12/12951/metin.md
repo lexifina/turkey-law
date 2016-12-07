@@ -1,0 +1,1 @@
+1-) 1574 sayılı Ek İlam’ın 1’inci maddesi, İdare adına temyiz Başvurusunda bulunan ...’nun başvurusu üzerine düzenlenen 07.12.2016 tarih ve 42439 Tutanak sayılı Temyiz Kurulu İlamının 1’inci maddesi ile kaldırılmış bulunduğundan dilekçinin bu madde ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA,
