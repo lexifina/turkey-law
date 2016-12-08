@@ -1,0 +1,22 @@
+{
+  "number": "140",
+  "number_as_published": "2016/140",
+  "year": 2016,
+  "title": "Güzeltepe Mahallesi, 2 ada, 38, 47, 50, 53, 56, 61 parsellerin önünden geçen isimsiz yola isim tavsiyesi",
+  "decision_date": "2016-12-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2016-aralik-ayi-meclis-kararlari/837",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2016-140/842",
+  "source_sha256": "016fda62957ec942c103396193a63ad64161a899478056713033d36165cf7f37",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2016-12-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.12.2016 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "b682747a2d5561ba10595491c541447a732c6f7139f4f4552b6a1c3e589e21ab"
+}
