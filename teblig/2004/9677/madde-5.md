@@ -1,0 +1,1 @@
+Madde 5 — Bu Tebliğin 2 nci ve 3 üncü maddeleri çerçevesinde akdi üretici olan firmalar, her yıl kampanyaya girmeden önce ve kampanya bitiminde Kuruma, yıllık satış, kampanyaya devreden stok ve kampanyadaki üzüm alım ve şarap üretim miktarları ile ilgili bildirimde bulunmak zorundadır.

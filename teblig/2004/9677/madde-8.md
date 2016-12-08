@@ -1,0 +1,1 @@
+MADDE 8 – (Değişik:RG-15/7/2009-27289) Başka Firmalar Adına (Fason) Alkollü İçki Üretiminin Yapılamayacağına İlişkin 8/7/2009 tarihli ve 4832 sayılı Tütün ve Alkol Piyasası Düzenleme Kurulu Kararı uyarınca başka firmalar adına (fason) şarap üretimi yapılamaz.

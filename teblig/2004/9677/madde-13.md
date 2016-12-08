@@ -1,0 +1,1 @@
+Madde 13 — Bu Tebliğ hükümlerinin ihlali halinde, Kurum tarafından, Üretim ve Ticaret Yönetmelikleri ile düzenlenen idari yaptırımlar uygulanacağı gibi; ayrıca ilgililer hakkında 4250 ve 4733 sayılı Kanunlar ve diğer ilgili mevzuat hükümleri uyarınca işlem yapılır.

@@ -1,0 +1,1 @@
+Madde 11 — Şarap kökenli alkollü içkilerin hazırlanmasında ihtiyaç duyulabilecek üzüm distilatı, Kurumdan yazılı izin almak ve ürün imalatının gerektirdiği miktarda olmak koşulu ile, "Rakı", "Kanyak" ve "Brendi" kategorilerinde Kurum'dan üretim izni almış olan firmalardan temin edilebilir.
