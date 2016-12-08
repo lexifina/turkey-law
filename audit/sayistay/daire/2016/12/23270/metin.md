@@ -1,0 +1,17 @@
+ Su ve Kanalizasyon İdaresi Genel Müdürlüğünün  su gelirlerinden elde ettiği çevre ve temizlik vergisi payını Büyükşehir Belediyesi’ne aktarmaması:
+
+2464 Sayılı “Belediye Gelirleri Kanunu’nun Mükerrer 44’üncü maddesinde;
+
+Belediye sınırları ve mücavir alanlar içinde bulunan ve belediyelerin çevre temizlik hizmetlerinden yararlanan konut, iş yeri ve diğer şekillerde kullanılan binalar çevre temizlik vergisine tabidir. …
+
+Su tüketim miktarı esas alınmak suretiyle hesaplanan çevre temizlik vergisi, su faturasında ayrıca gösterilmek suretiyle tahakkuk etmiş sayılır. Bu suretle tahakkuk eden vergi, su tüketim bedeli ile birlikte belediyelerce tahsil edilir. Su ve kanalizasyon hizmetleri ayrı bir kanunla düzenlenmiş bulunan büyük şehir belediye sınırları ve mücavir alanlardaki çevre temizlik vergisi ise 20.11.1981 tarihli ve 2560 sayılı Kanun hükümlerine göre kurulan su ve kanalizasyon idarelerince tahsil edilir. …
+
+Su ve kanalizasyon idareleri büyük şehir dahilindeki her ilçe veya ilk kademe belediyesinin belediye ve mücavir alan sınırları içinde bulunan konutlara ilişkin olarak tahsil ettiği çevre temizlik vergisi ile bu verginin süresinde ödenmemesi nedeniyle tahsil ettiği gecikme zammının yüzde seksenini tahsilatı takip eden ayın yirminci günü akşamına kadar bir bildirim ile ilgili belediyeye bildirerek aynı süre içinde öder. Tahsil edilen vergi ve gecikme zammının yüzde yirmisini ise münhasıran çöp imha tesislerinin kuruluş ve işletmelerinde kullanılmak üzere büyük şehir belediyesinin hesabına tahsilatı takip eden ayın yirminci günü akşamına kadar aktarır. Büyük şehir belediye sınırları içinde bulunan belediyelerin kendileri tarafından tahsil edilen çevre temizlik vergisinin yüzde yirmisi aynı esaslar çerçevesinde büyük şehir belediyelerine aktarılır.
+
+ Tahsil ettiği vergiyi veya gecikme zammını yukarıda belirtilen süre içinde ilgili belediyeye yatırmayan idarelerden, bu tutarlar 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre gecikme zammı tatbik edilerek tahsil edilir.” hükümleri yer almaktadır.
+
+Buna göre, su idaresinin konutlardan tahsil ettiği çevre temizlik vergisi tutarının % 20’ini, bir sonraki ayın yirmisine kadar büyükşehir belediyesine beyan ederek yatırması gerekmektedir.
+
+Öte yandan; … Genel Müdürlüğü’nden alınması gereken ÇTV tutarlarının muhasebe kayıtlarına alındığı, .. Genel Müdürlüğü tarafından Büyükşehir Belediyesi hesabına …. TL’nin de yatırıldığı anlaşılmıştır.
+
+Bu itibarla, sorgu konusu .. TL’nın 209.566,64 TL’si 24.05.2016 tarih ve …sayılı muhasebe işlem fişiyle tahsil edildiğinden bu tutar için ilişilecek husus kalmadığına, geriye kalan … TL’nin tahakkukunun yapıldığı ve tahsilat işlemlerinin devam ettiği bildirildiğinden, ayrıca, anılan alacakların zamanaşımı nedeniyle tahsil edilemez duruma geldiği yönünde bir tespit de mevcut olmadığından kalan tutar için de ilişilecek husus bulunmadığına ( Üye … ‘in  “5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanununun Kamu Zararı” başlıklı 71. maddesinde ;Kamu zararı; kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veyaeksilmeye neden olunmasıdır. Kamu zararının belirlenmesinde;“… e) İdare gelirlerinin tarh, tahakkuk veya tahsil işlemlerinin mevzuata uygun bir şekilde yapılmaması,…esas alınır.” hükümleri yer almaktadır. Buna göre kalan … TL’nin ilgililere ödettirilmesi yönünde karar alınması uygun olacaktır.” şeklindeki ayrışık görüşüne karşı) oy çokluğuyla,
