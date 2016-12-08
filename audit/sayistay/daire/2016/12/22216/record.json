@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "97",
+  "decision_date": "2016-12-08",
+  "source_id": 22216,
+  "chamber": "8",
+  "ilam_number": "467",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22216/",
+  "source_sha256": "cc460085ef5bf533d1c664ed08301b4d5d8426ccf0f282e2b444d640f3f65dfb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
