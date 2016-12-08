@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "150",
+  "decision_date": "2016-12-08",
+  "source_id": 21989,
+  "chamber": "4",
+  "ilam_number": "458",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/21989/",
+  "source_sha256": "48185bb973faaefb3876e8b8db7e46bbe3550271f2fdc7e60b9e8c66e76a1ecd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
