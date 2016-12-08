@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "93",
+  "decision_date": "2016-12-08",
+  "source_id": 23910,
+  "chamber": "8",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23910/",
+  "source_sha256": "9d3bc57ad8f8b162e3868592024569700647e72fc5b05641f3cfe0eb7949a8ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
