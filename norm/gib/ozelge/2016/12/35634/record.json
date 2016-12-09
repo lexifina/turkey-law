@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "46480499-140.04.01[2014/621]-111",
+  "source_id": 35634,
+  "date": "2016-12-09",
+  "title": "IPA Çerçeve Anlaşması Kapsamında yaptırılan iş yerlerinin yapı kullanma izin belgesi harcından ve tapu tescil harcından istisna olup olmadığı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35634",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "a97aaeeaaaec3c77e9ac0a3db8bd192f87901564401618083b7b46330a6037a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
