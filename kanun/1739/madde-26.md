@@ -1,4 +1,4 @@
 C) Orta öğretim:
 I – Kapsam:
-Madde 26 – (Değişik: 30/3/2012 - 6287/10 md.)
-Ortaöğretim, ilköğretime dayalı, dört yıllık zorunlu, örgün veya yaygın öğrenim veren genel, mesleki ve teknik öğretim kurumlarının tümünü kapsar. Bu okulları bitirenlere ortaöğretim diploması verilir.
+Madde 26 – (Değişik: 2/12/2016-6764/23 md.)
+Ortaöğretim; ilköğretime dayalı dört yıllık zorunlu örgün veya yaygın öğrenim veren genel, mesleki ve teknik öğretim kurumları ile mesleki eğitim merkezlerinin tümünü kapsar. Bu okul ve kurumları bitirenlere, bitirdikleri programın özelliğine göre diploma verilir. Ancak mesleki eğitim merkezi öğrencilerinin diploma alabilmeleri için Millî Eğitim Bakanlığınca belirlenen fark derslerini tamamlaması zorunludur.

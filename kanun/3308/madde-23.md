@@ -1,2 +1,2 @@
 Beceri eğitimi yaptırabilecek diğer işletmeler
-Madde 23 – Bakanlıkça "İşletmelerde meslek eğitimi" kapsamına alınıp alınmadığına bakılmaksızın on ve daha fazla personel çalıştıran işletmelerde, teknik lise ve meslek lisesi öğrencilerine bu Kanunun ilgili hükümlerine göre beceri eğitimi yaptırabilirler.(1)
+Madde 23 – (Mülga: 2/12/2016-6764/44 md.)
