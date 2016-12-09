@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "68554973-105[413-2016-4]-73",
+  "source_id": 29722,
+  "date": "2016-12-09",
+  "title": "Depoya Emanet Gelen Ticari Mala İlişkin Belge Düzeni",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/29722",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "c1d633adf0ac145bf676310e2d3393598857f550d76705c237f91e821be8b6dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
