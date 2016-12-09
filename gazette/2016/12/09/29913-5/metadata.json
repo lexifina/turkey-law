@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-12-09",
+  "issue": "29913",
+  "edition": "regular",
+  "item": 5,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "6764 Millî Eğitim Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161209-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161209.htm",
+  "index_sha256": "1adf14ea57fa0b9613c737df4c5ab62aab7bf221616aaeaf770466673f386e98",
+  "index_header": "9 Aralık 2016 ... 29913 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161209.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
