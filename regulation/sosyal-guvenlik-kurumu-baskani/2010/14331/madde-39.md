@@ -1,0 +1,3 @@
+Sosyal güvenlik uzmanı ve sosyal güvenlik uzman yardımcısının görev, yetki ve sorumluluğu
+MADDE 39 – (1) Sosyal güvenlik uzmanı ve sosyal güvenlik uzman yardımcısının görev, yetki ve sorumluluklarında; 28/9/2010 tarihli ve 27713 sayılı Resmî Gazete’de yayımlanan Sosyal Güvenlik Uzman Yardımcılığı ve Sosyal Güvenlik Uzmanlığı Sınav, Atama, Yetiştirilme, Görev ve Çalışma Usul ve Esasları Hakkında Yönetmelikte belirtilen hükümler uygulanır.
+(2) Sosyal güvenlik uzmanı ve sosyal güvenlik uzman yardımcısı yetkilerini mevzuata uygun olarak kullanmak, görevlerini zamanında, düzenli ve gereği gibi yapmaktan il müdürüne karşı sorumludur.

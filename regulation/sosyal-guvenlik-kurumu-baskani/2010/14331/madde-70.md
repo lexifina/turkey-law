@@ -1,0 +1,2 @@
+Gelir testi işlemleri
+MADDE 70 – (1) 5510 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasının (c) bendinin (1) numaralı alt bendi ve (g) bendi gereğince yapılması gereken; genel sağlık sigortasına tabi olanlar bakımından prime esas aylık kazancın tespiti ile genel sağlık sigortası primlerini ödeme gücü bulunmayıp Devlet tarafından karşılanmasını talep edenlerin hak sahipliğinin tespit ve tescil işlemleri, Kurum tarafından yapılan düzenlemeye göre yürütülür.

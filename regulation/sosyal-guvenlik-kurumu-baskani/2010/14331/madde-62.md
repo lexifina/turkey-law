@@ -1,0 +1,8 @@
+Hizmet kayıtları düzenleme komisyonu
+MADDE 62 – (1) Hizmet Kayıtları Düzenleme Komisyonu il müdürlüğü ile sosyal güvenlik merkezinde kurulabilir. İl müdürlüğünde; il müdürü veya il müdür yardımcısı başkanlığında, ilgili şef, memur ve varsa ( Değişik ibare: RG-27/10/2014-29158) sosyal güvenlik denetmeninden, sosyal güvenlik merkezinde; merkez müdürü veya merkez müdür yardımcısı başkanlığında, ilgili şef, memur ve varsa ( Değişik ibare: RG-27/10/2014-29158) sosyal güvenlik denetmeni olmak üzere en az üç üyeden oluşur.
+(2) Komisyon başkan ve üyeleri; il müdürlüğünde il müdürünün onayı ile, sosyal güvenlik merkezinde ise merkez müdürünün önerisi ve il müdürünün onayı ile belirlenir.
+(3) Komisyonun görevleri şunlardır:
+a) Kurumun denetim elemanları ve kontrolle görevli personeli tarafından veya kamu idarelerinin denetim elemanlarınca düzenlenen raporlarda gerçeğe aykırı hizmet kazandırıldığının veya hatalı ve eksik kayıt bulunduğunun tespit edilmesi işlemlerini yapmak.
+b) Sigortalının prime esas kazançları, gün sayıları ve prim tahsilatına ilişkin bilgilerin hatalı veya eksik aktarıldığının tespit edilmesi işlemlerini yapmak.
+c) Kesinleşen yargı kararları ile sigortalıya hizmet kazandırılması veya Kurum kayıtlarında var olan hizmet veya prime esas kazançların yeniden belirlenmesi hâllerinde, düzeltme, iptal etme veya yeni kayıt oluşturma işlemlerini gerçekleştirmek.
+(4) Komisyon başkan ve üyeleri mevzuat çerçevesinde görevlerini tam ve eksiksiz olarak yerine getirmekten, il müdürlüğünde kurulanlar il müdürüne karşı, sosyal güvenlik merkezinde kurulanlar merkez müdürüne karşı sorumludur.

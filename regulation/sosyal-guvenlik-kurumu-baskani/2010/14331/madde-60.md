@@ -1,0 +1,5 @@
+Tecil ve taksitlendirme komisyonu
+MADDE 60 – (1) Tecil ve Taksitlendirme Komisyonu, il müdürlüğüne verilen yetki dahilinde Kurum alacaklarının tecil ve taksitlendirme işlemleri için il müdürlüğü ile sosyal güvenlik merkezinde kurulabilir. İl müdürlüğünde; il müdürü veya görevlendireceği il müdür yardımcısı başkanlığında, ilgili şef, icra memuru veya memur, sosyal güvenlik merkezinde; merkez müdürü veya merkez müdür yardımcısı, ilgili şef, icra memuru veya memur olmak üzere en az üç üyeden oluşur.
+(2) Komisyon başkan ve üyeleri; il müdürlüğünde il müdürünün onayı ile, sosyal güvenlik merkezinde ise merkez müdürünün önerisi ve il müdürünün onayı ile belirlenir.
+(3) Komisyon, Kuruma borçlu olanların borçlarına ilişkin tecil ve taksitlendirme taleplerini tecil ve taksitlendirme usul ve esasları çerçevesinde inceleyip karar verir.
+(4) Komisyon başkan ve üyeleri mevzuat çerçevesinde görevlerini tam ve eksiksiz olarak yerine getirmekten, il müdürlüğünde kurulanlar il müdürüne karşı, sosyal güvenlik merkezinde kurulanlar merkez müdürüne karşı sorumludur.

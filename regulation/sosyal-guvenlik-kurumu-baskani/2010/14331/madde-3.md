@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Çalışma ve Sosyal Güvenlik Bakanını,
+b) Bakanlık: Çalışma ve Sosyal Güvenlik Bakanlığını,
+c) Başkan: Sosyal Güvenlik Kurumu Başkanını,
+ç) Başkanlık: Sosyal Güvenlik Kurumu Başkanlığını,
+d) Birim: Sosyal Güvenlik Kurumunun belirli görevlerini bünyesinde toplayıp yürüten veya uygulayan merkez ve taşra birimlerini,
+e) Genel sağlık sigortalısı: 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 60 ıncı maddesinde sayılan kişileri,
+f) İl müdürlüğü: Sosyal güvenlik il müdürlüğünü,
+g) İl müdürü: Sosyal güvenlik il müdürünü,
+ğ) İl müdür yardımcısı: Sosyal güvenlik il müdür yardımcısını,
+h) Kurum: Sosyal Güvenlik Kurumunu,
+ı) Merkez müdürü: Sosyal güvenlik merkez müdürünü,
+i) Merkez müdür yardımcısı: Sosyal güvenlik merkez müdür yardımcısını,
+j) Merkez müdürlüğü: Sosyal güvenlik merkez müdürlüğünü,
+k) Sağlık hizmeti sunucusu: Sağlık hizmetini sunan ve/veya üreten gerçek kişiler ile kamu ve özel hukuk tüzel kişilerini ve bunların tüzel kişiliği olmayan şubelerini,
+l) Servis: Taşra teşkilatının belirli görev ve işlemlerini bünyesinde toplayıp yürüten ve uygulayan alt hizmet bölümlerini,
+m) Sigortalı: Kısa ve/veya uzun vadeli sigorta kolları bakımından adına prim ödenmesi gereken veya kendi adına prim ödemesi gereken kişiyi,
+n) Yönetim Kurulu: Sosyal Güvenlik Kurumu Yönetim Kurulunu,
+ifade eder.
