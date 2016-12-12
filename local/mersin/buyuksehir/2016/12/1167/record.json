@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "1167",
+  "decision_date": "2016-12-12",
+  "title": "MEC. KAR. ( MEZİTİ KUYULUK 125 ADA 4-6-8, 126",
+  "listed_as": "1167 MEC. KAR. ( MEZİTİ KUYULUK 125 ADA 4-6-8, 126",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/1167-mec--kar---meziti-kuyuluk-125-ada-4-6-8-126-ada-2-parsel----",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk06-12-aralik-2016-meclis-kararlari",
+  "listing_sha256": "4ff2cb6d482454be0f07bf7f5b37dbf17655c232630b8a85c69abe345347875a",
+  "meeting_title": "MK06-12 ARALIK 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
