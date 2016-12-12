@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "1160",
+  "decision_date": "2016-12-12",
+  "title": "MEC. KAR. ( 17 MBB 23.09.2016 TARİH VE 884 s",
+  "listed_as": "1160 MEC. KAR. ( 17 MBB 23.09.2016 TARİH VE 884 s",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/1160-mec--kar----17-mbb-23-09-2016-tarih-ve-884-sayili-karara-itiraz--",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk06-12-aralik-2016-meclis-kararlari",
+  "listing_sha256": "4ff2cb6d482454be0f07bf7f5b37dbf17655c232630b8a85c69abe345347875a",
+  "meeting_title": "MK06-12 ARALIK 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
