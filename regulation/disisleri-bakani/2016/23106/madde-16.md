@@ -1,0 +1,5 @@
+Birimlerin Merkez Arşivinden yararlanması
+MADDE 16 – (1) Bakanlık birimlerinin görevlendireceği personelin Merkez Arşivinde resmi amaçlarla inceleme, araştırma yapabilmesi için gerekli koşullar DİAD tarafından sağlanır. Bu amaçla Birim amirinin Ek-7’deki form çerçevesinde DİAD Başkanına yazılı bildirimde bulunması yeterlidir.
+(2) Bu tür çalışmalar, Birimin daha önce devrettiği kendisine ait arşiv malzemesi de dahil olmak üzere sayısal ortamda ve ekran üzerinde gerçekleştirilir. Gizlilik ibaresi taşımayan belgelerin örnekleri sayısal ortam üzerinden alınabilir.
+(3) İncelenecek arşiv malzemesinin sayısal ortama aktarılması süreci henüz tamamlanmamışsa, araştırma ve inceleme işlem dosyaları üzerinde fiziki ortamda yapılır. Bu durumda da usûlüne uygun örnekler alınabilir.
+(4) İstisnai durumlarda, Birimin gerekçeli yazılı talebi üzerine belgelerin asılları DİAD Başkanı’nın onayıyla, tutanak karşılığı, 10 gün içinde iade edilmek üzere verilir. Talepte bulunan Birim amiri, belgenin sorumluluğunu üstlenmiş olur.

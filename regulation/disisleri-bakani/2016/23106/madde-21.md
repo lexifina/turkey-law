@@ -1,0 +1,4 @@
+İmha komisyonlarının teşkili
+MADDE 21 – (1) Merkez Arşivindeki imha işlemleri için Merkez Arşivi İmha Komisyonu kurulur. Komisyon, DİAD Başkanının başkanlığında, Merkez Arşivinden iki görevli ile, ilgili Birimin amiri tarafından görevlendirilecek biri meslek memuru en az iki temsilciden oluşur.
+(2) Yurtiçi Birim Arşivlerinde yapılacak imha işlemleri için Birim amirinin başkanlığında, meslek memuru, konsolosluk ve ihtisas memuru veya arşiv görevlisinden oluşan asgari üç kişilik Birim İmha Komisyonu kurulur. Ancak, 22 nci madde hükümleri saklıdır.
+(3) Dış temsilcilik Birim Arşivlerinde yapılacak imha işlemleri için, misyon şefinin başkanlığında bir meslek memuru ile arşivden sorumlu konsolosluk ve ihtisas memurlarından oluşacak asgari üç kişilik Dış Temsilcilik İmha Komisyonu kurulur. Ancak, 22 nci madde hükümleri saklıdır.
