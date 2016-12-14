@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2016/DK-PGM/485",
+  "date": "2016-12-14",
+  "title": "PGM Ücretleri",
+  "relevant_unit": "Piyasa Gözetim Laboratuvarı Müdürlüğü",
+  "publication_date": "2016-12-19",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=87",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/7bc32425-25ba-40fc-939a-099392d21baf.pdf",
+  "source_sha256": "f40728673daae5f2a9ffe968fe2b8c6574b09888b2ed67f1652d9c603cbc0c06",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2016-12-14",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 14.12.2016; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
