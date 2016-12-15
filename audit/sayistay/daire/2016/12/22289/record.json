@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "152",
+  "decision_date": "2016-12-15",
+  "source_id": 22289,
+  "chamber": "4",
+  "ilam_number": "464",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/22289/",
+  "source_sha256": "45b649424307f3d9ab2943766a6ecd4157b5a2f723510cf7dabb494eb95c9771",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
