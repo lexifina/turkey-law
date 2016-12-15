@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "405",
+  "decision_date": "2016-12-15",
+  "source_id": 24602,
+  "chamber": "6",
+  "ilam_number": "226",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24602/",
+  "source_sha256": "bb6046453f4fedb5ec261a2a5e47b6e6db7f6e7e7a06adf8bbf4734f6227b698",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
