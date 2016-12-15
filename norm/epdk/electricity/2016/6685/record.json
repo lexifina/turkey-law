@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6685",
+  "decision_date": "2016-12-15",
+  "title": "ADM EDAŞ’ın 2016-2020 uygulama dönemi gelir gereksiniminin revize edilmesi",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1cWkRvYyxAs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1cWkRvYyxAs="
+  ],
+  "source_sha256": "482f459ced54e827551e34f89f1b4babbe586d52b82970da1af96a1524a3b531",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2016-12-15",
+  "law_text_complete": false
+}
