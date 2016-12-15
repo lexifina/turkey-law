@@ -1,0 +1,3 @@
+Hastane Müdürü
+MADDE 13 – (1) Hastane Müdürü, sağlık idaresi veya sağlık kurumları işletmeciliği lisans mezunu veya temel eğitimi idare ve işletmecilik olan fakültelerden mezun olup, tercihen sağlık kurumları işletmeciliği alanında yüksek lisans yapmış olan ve/veya hastane yönetim hizmetlerinde deneyimi olan adaylar arasından ilgili mevzuat hükümlerine uygun olarak Başhekimin önerisi ile Rektör tarafından atanır.
+(2) Hastane Müdürünün yetkileri, Başhekimin belirlediği görev ve sorumluluk alanları ile ilgili olup Hastane Müdürü, Merkezin yönetim organlarının belirlediği usul ve esaslara göre çalışmak ve verilen görevleri yapmakla yükümlüdür.
