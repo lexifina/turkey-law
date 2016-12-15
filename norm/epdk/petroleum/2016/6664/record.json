@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6664",
+  "decision_date": "2016-12-15",
+  "title": "Akaryakıt ve LPG istasyonları arasındaki asgari mesafe uygulamalarına ilişkin",
+  "resmi_gazete_date": "2016-12-22",
+  "resmi_gazete_number": "29926",
+  "categories": [
+    "Lisans İşlemleri Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YvIQHxHbMhY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YvIQHxHbMhY="
+  ],
+  "source_sha256": "2f62d48c8a5bad7feea01921fae97904223e262d566be8d15dfef0d272b402ad",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4913,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-12-15",
+  "law_text_complete": true
+}
