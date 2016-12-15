@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6770",
+  "decision_date": "2016-12-15",
+  "title": "2015 yılı sistem kullanım, sistem işletim ve piyasa işletim gelir farkı düzeltme bileşenlerinin onaylanması ve 2017 yılı sistem kullanım ve sistem işletim gelir tavanları hakkında karar",
+  "resmi_gazete_date": "2016-12-22",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kjhkNlgts2U=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kjhkNlgts2U="
+  ],
+  "source_sha256": "84dac866ac5ea4d6a401ce9c6ee5ddcae1b24feb01fcc89ebf740a1724ad23ea",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-12-15",
+  "law_text_complete": false
+}
