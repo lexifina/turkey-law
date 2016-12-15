@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6709",
+  "decision_date": "2016-12-15",
+  "title": "Kayseri ve Civarı Elektrik Türk AŞ’nin 2016-2020 uygulama dönemi gelir gereksiniminin revize edilmesi",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2Dy/k3QDj98=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2Dy/k3QDj98="
+  ],
+  "source_sha256": "b26a61dff2aebee01e0092704774ac4ee7699c861faa9189a01cbd1708e5dcb1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2016-12-15",
+  "law_text_complete": false
+}
