@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6706",
+  "decision_date": "2016-12-15",
+  "title": "GDZ EDAŞ’ın 2016 yılı gelir tavanının revize edilmesi",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Nv/yERBluzc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Nv/yERBluzc="
+  ],
+  "source_sha256": "77b2c3bcd22191db598ed4c28aa4ec3b8e7a196de2d17d429d33394fac0c3949",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2016-12-15",
+  "law_text_complete": false
+}
