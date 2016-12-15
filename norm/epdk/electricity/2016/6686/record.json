@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6686",
+  "decision_date": "2016-12-15",
+  "title": "ADM EDAŞ’ın 2016 yılı gelir tavanının revize edilmesi",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6kHRWlboCCs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6kHRWlboCCs="
+  ],
+  "source_sha256": "50d6d774acd7e26defda5a421f6a2df336494cdd22c35c3a6cab991e25d4abc2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2016-12-15",
+  "law_text_complete": false
+}
