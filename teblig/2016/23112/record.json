@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23112",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2016/6)",
+  "number": "23112",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2016/23112",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23112&MevzuatTertip=5",
+  "source_sha256": "337c317d1db35be41b58e6b90fa7ad2a23294f29287e7444f4f3f8916b310f77",
+  "source_bytes": 13490,
+  "published": "2016-12-16",
+  "gazette": "29920",
+  "in_force": "2016-12-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.12.2016); own commencement article: \"Bu Tebliğ yayımı tarihini takip eden 30 uncu gün yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihini takip eden 30 uncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 348,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23112-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
