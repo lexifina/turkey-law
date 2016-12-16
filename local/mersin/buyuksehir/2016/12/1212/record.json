@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "1212",
+  "decision_date": "2016-12-16",
+  "title": "MEC.KAR. ( Anamur Belediyesi 2017 perf )",
+  "listed_as": "1212 MEC.KAR. ( Anamur Belediyesi 2017 perf )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/1212-mec-kar---anamur-belediyesi-2017-perf--",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk05-16-aralik-2016-meclis-kararlari",
+  "listing_sha256": "693cc9890b8de1175a4a65869df1bc7ef64856f66c0f146dae81011ccca4ad9f",
+  "meeting_title": "MK05-16 ARALIK 2016 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
