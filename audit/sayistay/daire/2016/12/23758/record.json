@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10616",
+  "decision_date": "2016-12-16",
+  "source_id": 23758,
+  "chamber": "1",
+  "ilam_number": "79",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23758/",
+  "source_sha256": "cc97434ef6670e8f02ebc0b806cee575e54decf43237450892ed7c8f03a86af8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
