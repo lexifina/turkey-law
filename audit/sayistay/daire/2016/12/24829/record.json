@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10616",
+  "decision_date": "2016-12-16",
+  "source_id": 24829,
+  "chamber": "1",
+  "ilam_number": "79",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24829/",
+  "source_sha256": "7e17034cac815beffb0427c24bfd7e527911682b3197812bd511555028e446bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
