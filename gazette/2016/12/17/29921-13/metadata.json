@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-12-17",
+  "issue": "29921",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2016/55)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161217-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161217.htm",
+  "index_sha256": "fb35f7c5af01ecc214bd7ef9a43c37940127a4890a4dfade824120f570ee3617",
+  "index_header": "17 Aralık 2016 ... 29921 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161217.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
