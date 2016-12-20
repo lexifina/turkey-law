@@ -1,0 +1,2 @@
+Vekalet aylığına hak kazanma ve vekalet ücreti
+MADDE 69 – (1) Vekalet görevi verilen personele, aylığına ilave olarak vekalet ettiği göreve karşılık gelen başlangıç derecesinin birinci kademesinin %10’u, vekaletin ikinci ayını takip eden ay başından itibaren vekalet ücreti olarak ödenir. Danışman kadrosundaki personele vekalet ücreti ödenmez. Asıl görevinin bulunduğu yerden başka bir şehirdeki göreve vekil olarak atanan/görevlendirilen personelin vekalet süresi altı ayı geçemez.

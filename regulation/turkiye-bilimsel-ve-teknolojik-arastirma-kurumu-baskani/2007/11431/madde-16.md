@@ -1,0 +1,2 @@
+Göreve başlama
+MADDE 16 – (1) Kurumda herhangi bir göreve ilk defa atanan personelin, sözleşmesini imzaladığı tarihten itibaren on beş gün içinde görevine başlaması gerekir. (Değişik cümle:RG-23/8/2011-28034) Bu süre, kabul edilebilir mazereti olanlar için, atama yetkilisi tarafından uygun görülmesi halinde en fazla iki aydır. Bu süre sonunda da göreve başlanılmaması halinde işe alma işlemi iptal edilir.

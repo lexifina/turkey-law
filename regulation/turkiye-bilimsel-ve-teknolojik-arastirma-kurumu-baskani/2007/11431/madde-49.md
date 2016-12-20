@@ -1,0 +1,2 @@
+Askerlik hizmeti
+MADDE 49 – (1) Askerlik hizmeti nedeniyle Kurumdan ayrılan personelin iş sözleşmesi kendiliğinden sona erer. Terhis tarihinden itibaren iki ay içinde görevine başlamak isteyen personel, o andaki şartlar ile eski görevine veya eş değerli bir göreve atanır; izin ve terfi yönünden askere gitmeden önceki hizmetleri de dikkate alınır. Askerlik hizmeti dışında silah altına alınan personele, genel hükümler uygulanır.

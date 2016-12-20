@@ -1,0 +1,4 @@
+Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı
+MADDE 33 – (1) Kısmi süreli statüde çalışanlar hariç, Kurum personeli 6762 sayılı Türk Ticaret Kanununa göre tacir veya esnaf sayılmalarını gerektirecek bir faaliyette bulunamaz, ticaret ve sanayi müesseselerinde görev alamaz, ticari mümessil veya ticari vekil veya kolektif şirketlerde ortak veya komandit şirketlerde komandite ortak olamaz.
+(2) Personelin üyesi olduğu yapı, kalkınma ve tüketim kooperatifleri ile kanunla kurulmuş yardım sandıklarının yönetim ve denetim kurulları üyelikleri, Kurumun ortağı veya üyesi olduğu her türdeki iştirak ve oluşumlarda Kurumu temsilen alacakları görevler ve özel kanunlarda belirtilen görevler bu yasaklamanın dışındadır.
+(3) Eşi, reşit olmayan veya kısıtlı olan çocukları yasaklanan faaliyetlerde bulunan personel, bu durumu 15 gün içinde Kuruma bildirmekle yükümlüdür.

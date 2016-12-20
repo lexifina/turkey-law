@@ -1,0 +1,2 @@
+Görevden çekilme
+MADDE 76 – (1) Personel, Kuruma yazılı talepte bulunarak görevden çekilme isteğinde bulunabilir. (Değişik cümle:RG-23/8/2011-28034) Bu istek, atama yetkilisi tarafından kabul edilirse personelin kurumdaki görevi sona erer. İstek kabul edilmezse, devir ve teslim işlerini usulüne göre sonuçlandırmak kaydıyla, İş Kanununun ilgili maddesinde belirtilen ihbar öneli şartlarına uyarak, personel görevinden ayrılabilir. Bu hükme uymadan görevini bırakanlar Kurumda herhangi bir işe bir daha alınmazlar.
