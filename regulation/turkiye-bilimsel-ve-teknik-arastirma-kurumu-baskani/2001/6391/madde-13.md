@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Kurum dışı kuruluşlarca desteklenen projeler
+Madde 13- Enstitü Müdürü, Bilim Kurulufnca belirlenen usul ve esaslara uygun olarak, kurum dışı kuruluşlarca desteklenen projelere ilişkin sözleşmeleri imzalamaya yetkilidir.
+(Değişik ikinci fıkra:RG-20/12/2016-29924) Bu tür projelerde çalışacak Enstitü personelinin görevlendirilmeleri ve gerektiğinde görevlendirilmelerinin sona erdirilmesi Enstitü Müdürünce yapılır. Ücretleri ilgili proje bütçesinden karşılanmak üzere belirli süreli iş sözleşmesi ile projede çalışmak üzere istihdam edilecek proje personelinin atamaları ve gerektiğinde iş sözleşmelerinin sona erdirilmesi TÜBİTAK Başkanınca yapılır. Başkan bu yetkisini kısmen veya tamamen devredebilir.
+Bu tür projelerde çalışmak üzere sözleşme ile istihdam edilecek personele ödenecek ücretler, proje bütçesinde karşılığı bulunmak kaydıyla, Enstitü Müdürüfnce takdir olunur. Bu şekilde çalışacak sözleşmeli personelin, çalışma süresine göre gerekiyorsa (bir yıl veya daha fazla süreler için) kıdem tazminatları da hesaplanıp proje sözleşmesinin personel giderleri faslına konulur.
+Bu tür projelerde görevlendirilen (Değişik ibare:RG-20/12/2016-29924) Enstitü personeline, Kurumdan aldıkları ücret dışında, gTürkiye Bilimsel ve Teknik Araştırma Kurumu'nca Kurum Dışına Verilen Hizmetlerin Ücretlerinin Tespiti, Yürütülmesi, Sonuçlandırılması ve Elde Edilen Gelirlerin Kullanımına İlişkin Yönetmelikh kapsamında yapılacak olan ek ödemeler, Enstitü Müdürüfnce takdir olunur.

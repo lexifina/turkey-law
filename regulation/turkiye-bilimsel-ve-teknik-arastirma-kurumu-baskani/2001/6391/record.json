@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.6391",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BİLİMSEL VE TEKNİK ARAŞTIRMA KURUMU BAŞKANLIĞINA DOĞRUDAN BAĞLI ENSTİTÜLERİN KURULUŞ VE İŞLETMESİNE İLİŞKİN ÇERÇEVE YÖNETMELİK",
+  "number": "6391",
+  "issuer": "Türkiye Bilimsel ve Teknik Araştırma Kurumu Başkanı",
+  "issuer_slug": "turkiye-bilimsel-ve-teknik-arastirma-kurumu-baskani",
+  "path": "regulation/turkiye-bilimsel-ve-teknik-arastirma-kurumu-baskani/2001/6391",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6391&MevzuatTertip=5",
+  "source_sha256": "83e046f71d77e4c2da8c27e29e9a1f38e2e0328313b9bc97983224a9e8e4e7cc",
+  "source_bytes": 43055,
+  "published": "2001-10-17",
+  "gazette": "24556",
+  "in_force": "2016-12-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/12/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-12-20",
+      "RG-20/12/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-04-21",
+      "RG 21/4/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1323,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

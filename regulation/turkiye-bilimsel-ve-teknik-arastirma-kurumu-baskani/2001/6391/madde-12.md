@@ -1,0 +1,2 @@
+Enstitü çalışma programı
+Madde 12- Enstitü Müdürü, her çalışma yılı için, çalışma programını, bütçe hazırlık takvimine uygun olarak hazırlar ve Yönetim Kurulufna sunar. Çalışma programında, yıl içinde yapılması planlanmış olan projeler ve diğer faaliyetler (altyapı, destek ve benzeri) için amaç, hedefler, kaynaklar, bütçe ve iş planı verilir, bu çalışmaların araştırma, endüstriyel hizmet ve eğitim olarak tür ve oranları belirtilir. Yönetim Kurulufnca onaylanan çalışma programı Bilim Kurulufnda görüşülerek son şeklini alır.
