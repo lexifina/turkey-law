@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "407",
+  "decision_date": "2016-12-20",
+  "source_id": 23781,
+  "chamber": "6",
+  "ilam_number": "324",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23781/",
+  "source_sha256": "b7abf341a15e68cf46da3bd1d118db4340155c3b7376f657de23b2c055a08753",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
