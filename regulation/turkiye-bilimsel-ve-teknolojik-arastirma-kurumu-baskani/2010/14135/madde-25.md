@@ -1,0 +1,7 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Kurum dışı kuruluşlarca desteklenen projeler
+MADDE 25 – (1) Merkez Başkanı, Bilim Kurulunca belirlenen usul ve esaslara uygun olarak, kurum dışı kuruluşlarca desteklenen projelere ilişkin sözleşmeleri imzalamaya yetkilidir.
+(2) (Değişik:RG-20/12/2016-29924) Bu tür projelerde çalışacak Merkez personelinin görevlendirilmeleri ve gerektiğinde görevlendirilmelerinin sona erdirilmesi Merkez Başkanınca yapılır. Projede çalışmak üzere belirli süreli iş sözleşmesi ile istihdam edilecek proje personelinin atamaları ve gerektiğinde iş sözleşmelerinin sona erdirilmesi TÜBİTAK Başkanınca yapılır. Başkan bu yetkisini kısmen veya tamamen devredebilir.
+(3) Bu tür projelerde çalışmak üzere belirli süreli iş sözleşmesi ile istihdam edilecek geçici personele ödenecek ücretler, proje bütçesinde ödeneği bulunması kaydıyla, Merkez Başkanınca takdir olunur. Bu şekilde çalışacak sözleşmeli personelin, çalışma süresine göre gerekiyorsa (bir yıl veya daha fazla süreler için) kıdem tazminatları da hesaplanıp proje sözleşmesinin personel giderleri faslına konulur.
+(4) Kurum dışı kuruluşlarca desteklenen projelerde görevlendirilen Merkez personeline, Kurumdan aldıkları ücret dışında, Türkiye Bilimsel ve Teknolojik Araştırma Kurumu’nca Kurum Dışı’na Verilen Hizmetlerin Ücretlerinin Tespiti, Yürütülmesi, Sonuçlandırılması ve Elde Edilen Gelirlerin Kullanımına İlişkin Yönetmelik kapsamında yapılacak olan ödemeler, Merkez Başkanınca takdir olunur.

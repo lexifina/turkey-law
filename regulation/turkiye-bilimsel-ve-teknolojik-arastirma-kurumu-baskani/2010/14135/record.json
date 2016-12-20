@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.14135",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BİLİMSEL VE TEKNOLOJİK ARAŞTIRMA KURUMU BAŞKANLIĞINA BAĞLI MERKEZLERİN KURULUŞ VE İŞLETMESİNE İLİŞKİN ÇERÇEVE YÖNETMELİK",
+  "number": "14135",
+  "issuer": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu Başkanı",
+  "issuer_slug": "turkiye-bilimsel-ve-teknolojik-arastirma-kurumu-baskani",
+  "path": "regulation/turkiye-bilimsel-ve-teknolojik-arastirma-kurumu-baskani/2010/14135",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14135&MevzuatTertip=5",
+  "source_sha256": "1985e58a40b003bad3b0510c173db34f22b682534e9efc6ebe9a0dc87c5b2919",
+  "source_bytes": 51619,
+  "published": "2010-07-24",
+  "gazette": "27651",
+  "in_force": "2016-12-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/12/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-12-20",
+      "RG-20/12/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-12-20",
+      "20/12/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2225,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

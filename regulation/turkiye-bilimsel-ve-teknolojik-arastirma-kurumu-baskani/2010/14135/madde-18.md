@@ -1,0 +1,3 @@
+Enstitü müdürünün nitelikleri ve atanması
+MADDE 18 – (Değişik:RG-20/12/2016-29924)
+(1) Enstitü müdürleri, Enstitünün görev alanlarında ulusal/uluslararası düzeyde araştırmaları ve/veya sanayi ve yöneticilik deneyimiyle tanınmış kişiler arasından Merkez Başkanının teklifi üzerine, Başkan tarafından tam zamanlı olarak atanır. Enstitü Müdürü 2547 sayılı Yüksek Öğretim Kanununun 38 inci maddesine göre görevlendirilmiş ise haftada en az dört gün çalışacak şekilde atanır, gerektiğinde aynı usulle görevden alınır. Enstitü Müdürü, Merkez Başkanına bilgi vermek suretiyle, gerektiğinde, müdür yardımcılarından birini yerine vekil bırakır. İki aydan daha uzun süreli vekalet söz konusu olduğunda, Merkez Başkanının onayı gereklidir.

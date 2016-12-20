@@ -1,0 +1,2 @@
+Enstitü kurulu
+MADDE 16 – (1) Enstitü Kurulunun temel işlevi Enstitüde bilgi iletişimini, dayanışmayı, eşgüdümü sağlayarak Enstitünün bir bütünlük ve tutarlılık içinde işlemesini gerçekleştirmektir. Enstitü Kurulu, Enstitü Müdürünün başkanlığında, saptadığı gündemi görüşmek üzere toplanır. Enstitü Kurulu; Enstitü Müdürü, müdür yardımcıları ve Enstitü Müdürünün iki yıl için atayacağı iki araştırıcı ve Enstitü personeli tarafından iki yıl süre için seçilecek iki üyeden oluşur. Süresi dolan üyeler tekrar atanabilir veya seçilebilir.
