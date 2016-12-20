@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-130[28-2016/20-1281]-178",
+  "source_id": 32429,
+  "date": "2016-12-20",
+  "title": "Kedi-köpek maması, balık yemi ve kuş yemi satışlarında uygulanacak KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32429",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "b7e6f0d9782e6cc9c7d07032cb138a1117e006aeaeadf92fd230c21c4eeda79c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
