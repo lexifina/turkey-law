@@ -1,0 +1,3 @@
+… Üniversitesinden görevlendirilen öğretim elemanlarına hatalı ek ders ücreti ödenmesine ilişkin olarak;
+
+… Üniversitesi … Enstitüsünde açılan Yüksek Lisans Programına ait söz konusu ödemelerin,  … Üniversitesi … Enstitüsü … anabilim dalı ile … Üniversitesi … Enstitüsü İşletme anabilim dalının ortak protokolü ile açılmış bir programa ait olduğu, 2547 sayılı Yükseköğretim Kanunu 40/a maddesi kapsamında olmadığı, bu nedenle Ders Yükü Tespiti ve Ek Ders Ücreti Ödemelerinde Uyulacak Esasların 5. maddesi kapsamında mütalaa edilemeyeceği anlaşıldığından … TL tutarındaki ödeme için ilişilecek husus bulunmadığına oybirliğiyle,
