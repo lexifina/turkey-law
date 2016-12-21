@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42501",
+  "decision_date": "2016-12-21",
+  "source_id": 13025,
+  "chamber": "1",
+  "file_number": "40871",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13025/",
+  "source_sha256": "0e64a628ba729f7ecbd03d0b5ff008f760ee040df2e43450251033a1bdda5a80",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
