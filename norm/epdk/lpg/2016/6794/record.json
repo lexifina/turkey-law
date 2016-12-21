@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "6794",
+  "decision_date": "2016-12-21",
+  "title": "Sıvılaştırılmış Petrol Gazları (LPG) Tüplerinin Piyasada Takip Edilmesine İlişkin Tebliğ kapsamında dağıtıcı lisansı sahiplerinin, kurdukları karekodlu tüp takip sisteminin Kurum tarafından anlık sorgulanmasına yönelik olarak aşağıdaki özelliklere haiz web hizmetlerini Kurumun kesintisiz erişimine sunmasına ilişkin kurul kararı",
+  "categories": [
+    "Gözetim ve Denetimlerin Etkinleştirilmesi",
+    "Tüplü LPG Faaliyeti"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5p5iepkQ+1U=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5p5iepkQ+1U=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QDO4KrOIpNk="
+  ],
+  "source_sha256": "6e5afd448b43b3050b33cdde25883c11e786ef742eed8e9920c5e5e725d8a533",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5097,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-12-21",
+  "law_text_complete": true
+}
