@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6782",
+  "decision_date": "2016-12-22",
+  "title": "2017 (1.Çeyrek) Elektrik Piyasası Primer Frekans Kontrol Birim Hizmet Bedeli Tarifesi",
+  "resmi_gazete_date": "2016-12-27",
+  "resmi_gazete_number": "29931",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cg2Rg60si+Q=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=cg2Rg60si+Q="
+  ],
+  "source_sha256": "0e697a57c191b5297797570b309c608e80f343d130130dc1b130972d41160448",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-12-22",
+  "law_text_complete": false
+}
