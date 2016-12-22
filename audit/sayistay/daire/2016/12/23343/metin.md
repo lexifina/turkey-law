@@ -1,0 +1,7 @@
+Gecikme Cezası Kesilmemesi:
+
+… Genel Müdürlüğü ile yüklenici … Ltd. Şti. arasında koruyucu giyim malzemeleri ayakkabı grubu alımına ait imzalanan sözleşmenin 34.2’nci maddesine aykırı olarak, malzemenin sözleşmesine göre teslim edilmesi gereken 28.02.2015 tarihi ile şirket tarafından fatura ve sevk irsaliyesinin düzenlendiği 20.03.2015 tarihi arasındaki 20 günlük geç teslimatın 7 gününe ilişkin gecikme cezasının kesilmemesi konusunda;
+
+Yargılama esnasında yapılan incelemede, koruyucu giyim malzemeleri ayakkabı grubu alımına ilişkin sözleşmenin 27.01.2015 tarihinde imzalandığı, sözleşmenin 10.3.1.1’inci maddesinde teslim süresinin işe başlama tarihinden itibaren 30 takvim günü olduğunun belirtildiği, İdare tarafından tebliğ edilen işe başlama tarihinin 30.01.2015 olduğu, buna göre son teslim tarihinin 28.02.2015 olduğu, malzemenin İdareye 13.03.2015 tarihinde düzenlenen Teslim Tutanağı ile 13 gün geç teslim edildiği ve buna ilişkin olarak 13 günlük gecikme cezası tutarı olan … TL’nin de yükleniciye yapılan ödemeden kesildiği görülmüştür. Dolayısıyla yüklenici tarafından mal tesliminden 7 gün sonra 20.03.2015 tarihinde düzenlenen irsaliyeli faturanın tarihi esas alınarak 7 günlük ilave gecikme cezası tutarı hesaplanmasına gerek olmadığı anlaşılmıştır.
+
+Bu itibarla yapılan işlem mevzuatına uygun olduğundan, … TL tutarındaki kamu zararı iddiası ile ilgili olarak ilişilecek husus bulunmadığına, oybirliğiyle, karar verildi.
