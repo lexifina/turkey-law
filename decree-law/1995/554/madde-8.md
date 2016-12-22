@@ -1,0 +1,2 @@
+Yenilik ve Ayırt Edici Niteliği Etkilemeyen Açıklamalar
+Madde 8 – Koruma talep edilen bir tasarım, başvuru tarihinden önceki oniki ay içerisinde veya rüçhan talebi varsa, rüçhan tarihinden önceki oniki ay içerisinde tasarımcı veya halefi veya bu kişilerin izni ile üçüncü bir kişi tarafından kamuya sunulur veya tasarımcı veya halefleri ile olan ilişkinin suistimali sonucu kamuya sunulursa, bu açıklama 6 ncı ve 7 nci maddeleri çerçevesinde tasarımın yeniliğini ve ayırt edici niteliğini etkilemez. (1)

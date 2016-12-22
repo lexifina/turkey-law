@@ -1,0 +1,4 @@
+Üniversite Mensuplarının Tasarımları
+Madde 15 – Üniversitelere bağlı fakülte ve yüksekokullarda bilimsel çalışma yapmakta olan öğretim elemanlarının tasarımları üzerindeki hak, 14 üncü madde hükmünden farklı olarak öğretim elemanlarına aittir.
+Öğretim elemanı sıfatı, Yüksek Öğretim Kanunu hükümlerine göre belirlenir.
+Öğretim kurumu tasarımla sonuçlanan araştırmalar için özel olarak belli araç ve gereçleri sağlamak suretiyle harcamalarda bulunmuşsa, öğretim elemanları öğretim kurumuna tasarımın değerlendirildiğini yazı ile bildirmek ve talep halinde tasarımın ne şekilde değerlendirildiği ve elde edilen kazanç miktarı hakkında bilgi vermekle yükümlüdür. Öğretim kurumu, kendisine yapılan yazılı bildirim tarihinden itibaren üç ay içinde elde edilen kazançtan uygun bir miktarın verilmesini talep eder. Ancak, talep edilecek miktar kurum tarafından yapılan harcamaları aşamaz.

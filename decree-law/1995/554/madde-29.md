@@ -1,0 +1,10 @@
+Milletlerarası Anlaşmalara Dayanan Başvurulardan Doğan Rüçhan Hakları
+Madde 29 – Paris Anlaşmasına dahil ülkelerden birine mensup veya bu ülkelerden birine mensup olmamakla birlikte onlardan birinde ikametgahı veya işler durumda bir ticari müessesesi bulunan gerçek veya tüzel kişiler veya Kanuni varisleri, bu ülkelerin herhangi birinde yetkili mercilere bir tasarımın tescili için usulüne uygun olarak yaptıkları başvuru tarihinden itibaren, altı ay süreyle aynı tasarım için tasarım belgesi almak üzere Türkiye'de başvuru yapma konusunda rüçhan hakkından yararlanır.
+Bu maddenin birinci fıkrasında yazılı altı aylık süre içinde kullanılmayan rüçhan hakları düşer.
+Rüçhan hakkına dayanılarak bu maddenin birinci fıkrasında yazılı süre içinde başvuru yapıldığı takdirde, rüçhan hakkının doğduğu tarihten itibaren ve bu rüçhan hakkını konu alan tescil başvurusunun kapsamına giren, üçüncü kişiler tarafından yapılacak başvurular ve bunlara verilecek tasarım belgesi hükümsüzdür.
+2 nci maddenin 2 nci fıkrasında yazılı karşılıklık uygulamasından yararlanan ülkeler uyruğundaki gerçek veya tüzel kişiler, bu madde hükmüne göre rüçhan hakkından yararlanma hakkına sahiptir.
+——————————
+(1) Bu fıkrada yeralan "erteleme talebi varsa, veya" ibaresi, 3/11/1995 tarih ve 4128 sayılı Kanunun 3 üncü maddesiyle "erteleme talebi varsa ve" şeklinde değiştirilmiş ve metne işlenmiştir.
+785
+Paris Anlaşmasına taraf bir ülke uyruğundaki gerçek veya tüzel bir kişi, Paris Anlaşmasına taraf olmayan bir ülkede, tasarım tescili için geçerli bir başvuru yapmışsa, bu madde hükmüne göre, söz konusu başvurunun rüçhan hakkından yararlanır.
+Aynı devlet nezdinde ve daha önce yapılmış bir başvuruyu konu alan sonraki başvuru rüçhan hakkının belirlenmesinde ilk başvuru olarak kabul edilir. Ancak, rüçhan hakkının belirlenmesinde sonraki başvurunun esas alınabilmesi için, sonraki başvurunun yapıldığı tarihte önceki başvurunun kamu incelemesine açılmamış olması ve herhangi bir hakkı saklı kalmamış olarak geri çekilmiş, terk edilmiş ve reddedilmiş olması gerekir. Bu uygulamadan sonra artık önceki başvuru rüçhan hakkı kullanımına gerekçe gösterilemez.

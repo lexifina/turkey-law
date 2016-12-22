@@ -1,0 +1,3 @@
+Yoksun Kalınan Kazancın Artırımı
+Madde 53 – Tasarım hakkı üzerinde tasarruf yetkisi olan kişi, yoksun kalınan kazancın hesaplanmasında, 52 nci maddede belirtilen değerlendirme usullerinden birini seçmişse; mahkeme, ürünün üretilmesi için tasarımın ekonomik bakımdan önemli bir katkısının bulunduğu kanaatına vardığı takdirde, kazancın hesaplanmasında makul bir payın daha eklenmesine karar verir.
+Tasarımın, ilgili ürüne ekonomik bakımdan önemli bir katkısının olduğunun kabul edilebilmesi için, ilgili ürüne olan talebin oluşmasında tasarım konusunun belirleyici etken olduğunun anlaşılmış olması gerekir.
