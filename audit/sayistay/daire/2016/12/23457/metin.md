@@ -1,0 +1,3 @@
+Geçici görevle başka yerlere görevlendirilen personele görevle bağlantısı kesilmesine rağmen harcırah ödenmesi.
+
+Geçici görevle başka yerlere görevlendirilen Fakülte Dekanı Prof. Dr. ……….’ın görevlendirme onaylarında belirtilen tarihlerden sonraki tarihlerde memuriyet mahalline dönüşü, kişinin görevle bağlantısının kesilmesi olarak değerlendirilerek kamu zararı tespit edilmiş olsa da yapılan incelemede görevlendirme onayında yer alan dönüş tarihi ile kişinin dönüş tarihi arasında kalan günler için herhangi bir harcırah unsurunun ödenmediği, dolayısıyla kamu zararı oluşmadığı anlaşıldığından …… TL ödeme hakkında ilişik bulunmadığına oybirliğiyle,
