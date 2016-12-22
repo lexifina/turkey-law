@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6783-6",
+  "decision_date": "2016-12-22",
+  "title": "1/1/2017 tarihinden itibaren uygulanan ödeme bildirimi ve ihbar bırakma hizmetlerine ilişkin bedeller",
+  "resmi_gazete_date": "2016-12-27",
+  "resmi_gazete_number": "29931",
+  "categories": [
+    "Ödeme Bildirimi ve İkinci İhbar Bırakma Bedelleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=osxuD7M5EeQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=osxuD7M5EeQ="
+  ],
+  "source_sha256": "42e8eb305f839e5d38befaa6f488868389c332acaf0381c522251ed113338b00",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1855,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-12-22",
+  "law_text_complete": false
+}
