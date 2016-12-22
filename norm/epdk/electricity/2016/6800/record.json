@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6800",
+  "decision_date": "2016-12-22",
+  "title": "2017 yılı için uygulanacak serbest tüketici limiti",
+  "resmi_gazete_date": "2016-12-27",
+  "resmi_gazete_number": "29931",
+  "categories": [
+    "Serbest Tüketici"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WMBOI8cU+Hg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WMBOI8cU+Hg="
+  ],
+  "source_sha256": "586cfb8231a6ae1a090c870cb2072fba0b7b328a36248620b97f98ffb6d1a6c3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33857,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-12-22",
+  "law_text_complete": true
+}
