@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "99",
+  "decision_date": "2016-12-22",
+  "source_id": 23349,
+  "chamber": "8",
+  "ilam_number": "78",
+  "item_number": 6,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23349/",
+  "source_sha256": "3c87ee109462e4b6bc7574a5d7a1c1dfc1b4fad88d43741ff708c3e15594a76b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

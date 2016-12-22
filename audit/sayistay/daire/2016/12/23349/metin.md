@@ -1,0 +1,7 @@
+Hatalı İmalat Pozu Kullanılması:
+
+… Dekorasyon İnşaat yüklenimindeki … TL sözleşme bedelli “… Genel Müdürlüğü … Dairesi Başkanlığı Hizmet Binası Tadilatı Yapım İşi” ne ait 1 no.lu hakediş belgesi ile, çatı imalatına ilişkin olarak Bayındırlık Birim Fiyat tariflerinde yer alan “23.081 Profil Demirlerinden Çatı Makası Yapılması, Yerine Konması” pozunun uygulanarak ödenmesi gerekirken “Y.23.176 Çeşitli Demir İşleri Yapılması ve Yerine Konulması” pozunun uygulanarak ödeme yapılması sonucu … TL tutarında kamu zararına sebebiyet verilmesi konusuna ilişkin olarak;
+
+Denetçi tarafından, çatı imalatına daha uygun görünen “23.081 Profil Demirlerinden Çatı Makası Yapılması, Yerine Konması” pozu yerine “Y.23.176. Çeşitli Demir İşleri Yapılması ve Yerine Konulması” pozunun uygulanması suretiyle fazla ödemeye sebebiyet verildiği iddia edilse de; Savunmalarda ve ekli belgelerden, Y.23.176 pozunun, çatı imalatına ilişkin olarak mahallin özelliğine göre seçildiği, uygulama projesinde ve mahal listesinde söz konusu bu poza ilişkin ayrıntılı bilgilere yer verildiği ve yapılan imalatın da bu poza uygun olduğu görülmüştür.
+
+Bu itibarla, işin projesi ve ekli dokümanlarda yer almayan ve uygulama tekniği bakımından yapılan imalata da uygun olmayan 23.081 pozunun dikkate alınarak kamu zararı hesaplanması mümkün olmayacağından, Y.23.176 pozuna ilişkin olarak yapılan … TL tutarındaki ödeme mevzuatına uygun olduğundan, konu hakkında ilişilecek husus bulunmadığına, oybirliğiyle, karar verildi.
