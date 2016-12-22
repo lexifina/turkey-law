@@ -1,0 +1,14 @@
+Tanımlar
+MADDE 3 – (1) Bu Tebliğin uygulanmasında;
+a) Bakanlık: Maliye Bakanlığını (Muhasebat Genel Müdürlüğü),
+b) Hizmet imtiyaz sözleşmesi: İşletmecinin, belirlenmiş bir süre için kamu hizmetlerini sunmak amacıyla hizmet imtiyaz varlığını kullandığı ve bu hizmetlerin karşılığının İşletmeci/Görevli Şirket/Yükleniciye ödendiği idari sözleşmeleri ya da özel hukuk sözleşmelerine tabi uygulama sözleşmesini,
+c) Hizmet imtiyaz varlığı: Hizmet imtiyaz sözleşmesine konu, sunulacak hizmetlerin ve bu hizmetlerin kime hangi fiyatla sunulacağının idare tarafından kontrol edildiği ve sözleşme süresi sonunda idareye devredilen maddi duran varlıkları,
+ç) İdare: Yatırım ve hizmetleri kamu özel iş birliği modeli çerçevesinde yaptırmak üzere sözleşme yapmaya yetkili kılınan ve hizmetin asli sahibi olan genel yönetim kapsamındaki kamu idarelerini,
+d) İşletme hakkının devri: İdare mülkiyetindeki maddi duran varlıkla ilişkili olan kamu hizmetinin işletme hakkının belirlenen bedel üzerinden özel sektör birimine devredilmesini,
+e) İşletmeci/Görevli Şirket/Yüklenici: İdarenin kontrolüne tabi hizmet imtiyaz varlıklarını kullanarak kamu hizmetlerini sunan özel sektör birimini ya da yap-kirala-devret modeli çerçevesinde yapım işini gerçekleştiren ve sözleşmede belirtilen diğer hizmetleri sunan yükleniciyi,
+f) Kamu Özel İş Birliği (KÖİ) Modeli: Yap-işlet-devret veya yap-kirala-devret modellerine göre gerçekleştirilen kamu yatırımları ile işletme hakkının devri gibi kamu hizmeti sunumunun devredilmesini içeren idari sözleşmeleri ya da özel hukuk sözleşmeleri ile kanunlarla belirlenmiş bu modellerin belirli bölümlerini kısmen içeren diğer kamu özel iş birliği modellerini,
+g) Yap-işlet modeli: Kanunlarla belirlenen kamu hizmetlerine ilişkin yatırımların ilgili mevzuatı ve sözleşmelerde belirlenen esas ve usullere uygun olarak üretim şirketleri mülkiyetinde; gerçekleştirilmesini, işletilmesini ve yatırım sonrası mal ve hizmetlerin üretim ve satışını içeren modeli,
+ğ) Yap-işlet-devret modeli: İlgili mevzuatı çerçevesinde idare adına kamu hizmeti sunmak amacıyla ihtiyaç duyulan yapım işlerinin İşletmeci/Görevli Şirket/Yüklenici tarafından finanse edilerek yapılmasını, sözleşme veya ilgili mevzuatında belirlenen süreyle sınırlı olarak belirlenen hizmet bedeli üzerinden kamu hizmetinin İşletmeci/Görevli Şirket/Yüklenici tarafından sunulmasını ve süre bitiminde hizmet imtiyaz varlığının idareye devredilmesini içeren modeli,
+h) Yap-kirala-devret modeli: İlgili mevzuatı çerçevesinde kamu hizmeti sunmak amacıyla ihtiyaç duyulan yapım işlerinin İşletmeci/Görevli Şirket/Yüklenici tarafından finanse edilerek yapılmasını, sözleşme süresi ile sınırlı olarak belirlenen bedel üzerinden idareye kiralanmasını, sözleşmede belirlenen bedel karşılığından yüklenici tarafından diğer hizmetlerin yerine getirilmesini ve süre bitiminde varlığın idareye devredilmesini içeren modeli,
+ı) Yönetmelik: Genel Yönetim Muhasebe Yönetmeliğini,
+ifade eder.
