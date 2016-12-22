@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6780/4",
+  "decision_date": "2016-12-22",
+  "title": "Benzin ve motorin türlerinde \"mangan içeriği\"ve“oksitlenme kararlılığı” özelliğinin teknik düzenleme kapsamında aranmamasına",
+  "resmi_gazete_date": "2016-12-27",
+  "resmi_gazete_number": "29931",
+  "categories": [
+    "Teknik Düzenleme Faaliyetleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aADUpzwsXJI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aADUpzwsXJI="
+  ],
+  "source_sha256": "93bd6fbf4e277447ebe4a052aaf10650ba617022dfdaf60d09c924be0a7d0762",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4979,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-12-22",
+  "law_text_complete": true
+}
