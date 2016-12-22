@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6783/3",
+  "decision_date": "2016-12-22",
+  "title": "1/1/2017 tarihinden itibaren uygulanan sayaç kontrol bedelleri",
+  "resmi_gazete_date": "2016-12-27",
+  "resmi_gazete_number": "29931",
+  "categories": [
+    "Sayaç Kontrol Bedeli"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZRZyiRwglgg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZRZyiRwglgg="
+  ],
+  "source_sha256": "babf276a744b69275497fbc1ef8ed842721832db2e8914a80a3f45656c54422a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7528,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-12-22",
+  "law_text_complete": false
+}
