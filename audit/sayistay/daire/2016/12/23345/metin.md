@@ -1,0 +1,7 @@
+Gecikme Cezası Kesilmemesi:
+
+… Genel Müdürlüğü ile yüklenici … Ltd. Şti. arasında kaba nem etüvü (demirbaş malzemesi) alımına ait imzalanan sözleşmenin 29.2’nci maddesine aykırı olarak, malzemenin sözleşmesine göre teslim edilmesi gereken tarih olan 31.12.2014 ile İdare tarafından malzemenin kesin kabulünün yapıldığı tarih olan 08.04.2015 arasındaki 98 günlük geç teslimatın 58 günü için gecikme cezasının kesilmemesi konusunda;
+
+Yargılama esnasında yapılan incelemede, kaba nem etüvü (demirbaş malzemesi) alımına ilişkin sözleşmenin 19.11.2014 tarihinde imzalandığı, sözleşmenin 10.3.1’inci maddesinde teslim süresinin işe başlama tebliğ tarihinden itibaren 40 takvim günü olduğunun belirtildiği, İdare tarafından tebliğ edilen işe başlama tarihinin 21.11.2014 olduğu, buna göre son teslim tarihinin 31.12.2014 olduğu, malzemenin İdareye 09.02.2015 tarihinde düzenlenen Teslim Tutanağı ile 40 gün geç teslim edildiği ve buna ilişkin olarak sözleşme hükmü gereği 40 günlük gecikme cezası tutarı olan … TL’nin yükleniciye yapılan ödemeden kesildiği görülmüştür. Dolayısıyla, malzemenin teslim edildiği 09.02.2015 tarihi ile muayene kabul tutanağının düzenlendiği 08.04.2015 tarihi arasında geçen 58 gün içinde İdare tarafından malzemeler üzerinde teknik şartnameye uygunluk açısından gerekli testler yapıldığından, bu günler için ilave gecikme cezası tutarı hesaplanmasına gerek olmadığı anlaşılmıştır.
+
+Bu itibarla yapılan işlem mevzuatına uygun olduğundan, … TL tutarındaki kamu zararı iddiası ile ilgili olarak ilişilecek husus bulunmadığına, oybirliğiyle, karar verildi.
