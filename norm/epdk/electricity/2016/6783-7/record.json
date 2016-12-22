@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6783/7",
+  "decision_date": "2016-12-22",
+  "title": "2017 yılı Lisansız Üretim Başvuru Bedeli",
+  "resmi_gazete_date": "2016-12-26",
+  "resmi_gazete_number": "29931",
+  "categories": [
+    "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LLEm8oARMV4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LLEm8oARMV4="
+  ],
+  "source_sha256": "688963b5fdcd9611fac397c1ca8b6eb2f363c3a24e6f47561054579f3cdcfdaa",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1853,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-12-22",
+  "law_text_complete": false
+}
