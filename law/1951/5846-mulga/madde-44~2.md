@@ -1,0 +1,10 @@
+Madde 44 – (1/11/1983 tarih ve 2936 sayılı Kanunun hükmüdür.)
+Mali hak sahipleri ile fikir ve sanat eserlerinin işaret, ses ve resimle tekrarına yarayan aletleri imal edenler ve basanlar; bu Kanunun öngördüğü şekilde çoğaltarak satışa çıkarılacak, dağıtılacak veya başka türlü ticaret mevkiine konacak bir eserin bütün nüshalarında işaret ve seri numarası bulundurmakla müştereken yükümlüdürler.
+Her türlü boş video kaset ve ses kasetlerini imal veya ticari amaçla ithal eden gerçek ve tüzelkişiler, imalat veya ithalat bedeli üzerinden yüzde beşi geçmemek üzere Bakanlar Kurulu Kararı ile tespit edilecek orandaki meblağı stopaj suretiyle keserek, bir ay içerisinde topladıkları meblağı müteakip ayın en geç onuncu gününe kadar, Kültür ve Turizm Bakanlığı adına bir milli bankada açılacak özel hesaba yatırmakla yükümlüdürler.
+Kültür ve Turizm Bakanlığı bu hesapta birikecek meblağı, yıl sonunda, bu Kanunda öngörülen meslek birliklerine eşit olarak paylaştırır.
+Meslek birlikleri bu yolla almış oldukları parayı, ancak meslek birliğine dahil üyeleri için sosyal tesisler inşaası, bu tesislerin bakımı ve geliştirilmesi ile diğer sosyal hizmetlerin görülmesi için kullanabilirler.
+Fikir ve sanat eserleri nüshalarının şahsi veya umumi mahallerde temsil edilmek amacıyla kullanımlarına göre üzerlerine konacak işaret ve seri numaralarına, bunu taşımayan nüshaların toplattırılmasına, çoğaltılan ve dağıtılan nüsha
+368-5
+sayısının kime bildirileceğine ve diğer hususlara ilişkin usul ve esaslar Kültür ve Turizm Bakanlığınca çıkarılacak yönetmelikle tespit edilir.
+Madde 67, fıkra dört,bent (2) – (5/12/1951 tarih ve 5846 sayılı Kanunun hükmüdür.)
+2. Güzel sanat eserlerinde, eser sahibi asıldaki değişikliğin kendisi tarafından yapılmadığının tanıtılmasını veya eserdeki adının kaldırılmasını yahut değiştirilmesini talep edebilir. Eski halin iadesi mümkün ise ve değişikliğin izalesi ammenin veya malikin menfaatlerini esaslı surette haleldar etmiyorsa eser sahibi eseri eski hale getirebilir. Bu hüküm mimarlık eserleri hakkında cari değildir.

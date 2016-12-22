@@ -1,0 +1,5 @@
+Madde 74 – (5/12/1951 tarihli ve 5846 sayılı Kanunun hükmüdür.)
+71, 72, 73 ve 80 inci maddelerde sayılan suçlar, hizmetlerini ifa ettikleri sırada bir işletmenin temsilcisi veya müstahdemleri tarafından işlenmiş ise, suçun işlenmesine mani olmıyan işletme sahibi veya müdürü yahut her hangi bir nam ve sıfatla olursa olsun işletmeyi fiilen idare eden kimse de fail gibi cezalandırılır. Cezayi mucip fiil işletme sahibi veya müdürü yahut işletmeyi fiilen idare eden kimse tarafından emredilmiş ise bunlar fail gibi; temsilci veya müstahdem ise, yardımcı gibi cezalandırılır.(1)
+Temsil edilmesinin kanuna aykırılığını bildiği bir eserin umuma gösterilmesi için karşılıklı veya karşılıksız olarak bir mahalli tahsis eden veya böyle bir eserin temsilinde vazife veya rol alan kimse, yardımcı olarak cezalandırılır.
+Bir tüzelkişinin işleri çevrilirken 71, 72, 73 ve 80 inci maddelerde sayılan suçlardan biri işlenirse; masraf ve para cezasından tüzelkişi diğer suçlularla birlikte müteselsilen mesuldür.(1)
+Ceza Kanununun 64, 65, 66 ve 67 nci maddelerinin hükümleri mahfuzdur.

@@ -1,0 +1,5 @@
+III – Müşterek hükümler:
+Madde 82 – Yukarıki maddelere göre adlarının zikredilmesini istemeye salahiyetli olanlar, 66, 69 ve 70 inci maddelerde yazılı haklardan faydalanabilirler.
+(Değişik: 1/11/1983 – 2936/16 md.) Kanunun 81 inci maddesinin birinci, ikinci ve üçüncü fıkralarında zikredilen yazılı izni almadan, işaret, resim ve ses tekrarına yarayan aletleri çoğaltan veya yayanlar hakkında bir aydan üç aya kadar hapis ve 30.000 liradan aşağı olmamak üzere ağır para cezasına hükmolunur.
+80 ve 81 inci maddelerde sayılan hallerde de 66 ncı madde ile 67 nci maddenin birinci, ikinci ve üçüncü fıkraları; 68, 69 ve 70 inci maddelerle 73 üncü maddenin birinci fıkrasının birinci ve ikinci bentleri ve 75, 76, 77, 78 ve 79 uncu madde hükümleri uygulanır.
+3 – 21/2/2001 tarihli ve 4630 sayılı Kanunla değiştirilmiş veya yürürlükten kaldırılmış olan hükümlerin metinleri. (Madde numaraları: 1, 5, 8, 14, 16, 17, 18, 19, 22, 23, 25, 28, 29, 33, 37, 38, 39, 41, 42, 43, 44, 47, 57, 68, 71, 72, 73, 75, 76, 77, 80, 81, 82, Ek Madde 2.)
