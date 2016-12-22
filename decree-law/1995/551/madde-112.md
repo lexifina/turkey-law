@@ -1,0 +1,2 @@
+Zorunlu Lisans İşlemlerinin Durdurulması
+Madde 112 – Zorunlu lisans verilmesi talebinin yapılmasından sonra mahkeme, lisans verilmesi ile ilgili kararın alınması bakımından gereken işlemlere başlar. Mahkeme, lisans talebinde bulunan ile patent sahibinin müştereken ve gerekçeli talepleri üzerine, her zaman ve sadece bir defa, işlemleri en çok üç aylık bir süre için durdurabilir. Bu sürenin dolması üzerine mahkeme, durumu taraflara bildirir ve işlemlere tekrar devam eder.

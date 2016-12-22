@@ -1,0 +1,2 @@
+Enstitü'de Tekniğin Bilinen Durumu ile ilgili Araştırma Raporu Düzenlenmesi için Gerekli Teşkilat Kuruluncaya kadar Araştırma Raporunun Düzenlenmesi
+Geçici Madde 2 – Enstitü'de tekniğin bilinen durumu ile ilgili araştırma raporu düzenlenmesi için gerekli teşkilat kuruluncaya kadar, bu Kanun Hükmünde Kararname hükümleri uyarınca Enstitü tarafından düzenlenmesi öngörülen tekniğin bilinen durumu ile ilgili araştırma raporu, milletlerarası niteliği tanınmış araştırma kuruluşları tarafından düzenlenir.

@@ -1,0 +1,4 @@
+Zorunlu Lisans İşleminin Başlaması
+Madde 109 – 108 inci maddede belirtilen şartların gerçekleşmesi halinde, mahkeme, zorunlu lisans talebiyle ilgili işlemlere başlar. Talebin bir sureti ile ekli belgelerin birer sureti patent sahibine gönderilir. Patent sahibi, belgelerin alındığı tarihten itibaren en geç bir ay içinde bunlara karşı itirazda bulunabilir.
+Enstitü'nün arabuluculuk talebini reddetmiş olması sebebiyle zorunlu lisans talebinde bulunulması halinde, patent sahibine tanınacak itiraz süresi iki aydan az olamaz.
+Patent sahibi tarafından yapılan itirazda, daha önce Enstitü'nün yaptığı arabuluculuk işlemlerine ait belgeler gözönüne alınmalı ve bu işlemlerle ilgili olarak ileri sürülen fakat söz konusu belgelerde yer almayan deliller de sunulmalıdır. Delillerin birer suretleri, mahkeme tarafından talep sahibine gönderilir.

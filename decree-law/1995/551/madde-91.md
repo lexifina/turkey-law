@@ -1,0 +1,3 @@
+Müteselsil Sorumluluk
+Madde 91 – Devir edilen veya lisansı verilen patent başvurusu veya patent konusu buluşun ayıplı olmasından dolayı üçüncü kişiler zarar görürse, devir eden ve devir alan veya lisans veren ve lisans alan müteselsilen sorumlu olur.
+Bu maddenin birinci fıkrası hükmüne göre sorumlu kılınan devir eden veya lisans veren, aksi sözleşmede kararlaştırılmamışsa, devir alan veya lisans alana rücu edebilir. Rücu, devir eden veya lisans verenin kötü niyetli olmadığı hallerde ve hakkaniyet düşüncesi ile zarara kısmen veya tamamen devir alan veya lisans alanın katlanması gerektiği durumlarda mümkündür.

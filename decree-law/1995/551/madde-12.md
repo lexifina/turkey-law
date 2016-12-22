@@ -1,0 +1,7 @@
+Patent İsteme Hakkının Gasbı
+Madde 12 – Patentin verilmesi işlemleri sırasında, patent isteme hakkının gerçek sahibi olduğunu, 11 inci maddenin birinci fıkrası hükmüne göre, iddia eden kişi, başvuru sahibinin hak sahipliğine karşı, 129 uncu madde hükmüne göre, dava açabilir. Patent isteme hakkının başvuru sahibine ait olmadığı Enstitü nezdinde iddia edilemez. Dava sonucunda hak sahipliği iddiasının davacı lehine sonuçlanması halinde, kararın kesinleşmesinden itibaren üç ay içinde, hak sahibi aşağıdaki hususlardan birinin yapılmasını talep edebilir:
+a - Gasbın söz konusu olduğu dava konusu önceki patent başvurusunun kendi başvurusu olarak kabul edilmesini ve işlem görmesini isteyebilir.
+b - Aynı rüçhan hakkından yararlanarak aynı buluş için yeni bir patent başvurusu yapabilir. Bu başvuru ilk başvurunun tarihi itibariyle işlem görür. Bu durumda, gasbın söz konusu olduğu başvuru hükümsüz kalır.
+c - Gasbın söz konusu olduğu başvurunun red edilmesini talep edebilir.
+Bu Kanun Hükmünde Kararnamenin 45 inci maddesinin üçüncü fıkrası hükmü, bu maddenin birinci fıkrası hükümlerine göre yapılacak her yeni başvuru için uygulanır.
+Birinci fıkra hükmüne göre patent isteme hakkını belirlemek için açılan davanın sonuçlanmasına kadar başvuru, davacının rızası olmadan geri alınamaz. Davacının talebi red edilmişse başvurunun ilanından kararın kesinleşme tarihine kadar; talep kabul edilmişse kararın kesinleşme tarihinden itibaren üç aylık bir süre ile patentin verilmesi işlemleri mahkeme tarafından ertelenir.

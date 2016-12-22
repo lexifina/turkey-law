@@ -1,0 +1,2 @@
+Yıllık Ücretlerin Ödenmesi
+Geçici Madde 3 – Vade tarihinde yıllık ücretleri ve harçları ödenmediği için hükümden düşmüş bulunan patentlerin, vadesi geçmiş yıllara ait ücretleri, Enstitü'nün bildirim tarihinden itibaren altı ay içinde, bu Kanun Hükmünde Kararnamenin uygulanması için çıkarılcak Yönetmelikte belirtilen ücret ve ayrıca bu ücretin iki katı ek ücretle birlikte ödendiği takdirde, patent hakkı devam eder. Bu hükmün uygulanabilmesi için, patentin koruma süresinin bitmemiş olması gerekir.

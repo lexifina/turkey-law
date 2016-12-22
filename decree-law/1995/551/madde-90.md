@@ -1,0 +1,6 @@
+Hakkın Devri ve Lisans Vermeden Doğan Sorumluluk
+Madde 90 – Patent başvurusu veya patentten doğan hakları bir bedel karşılığında veya bedelsiz olarak devir eden veya lisans veren kişinin bu işlemleri yapmaya yetkili olmadığı sonradan anlaşılırsa, söz konusu kişi bu durumdan ilgililere karşı sorumlu olur.
+Patent başvurusunun geri alınması veya başvurunun red edilmesi veya patent hakkının hükümsüzlüğüne mahkemece karar verilmiş olması hallerinde, tarafların hakkı devir eden veya lisans veren bakımından daha kapsamlı bir sorumluluğu sözleşme ile öngörmemiş olmaları halinde, bu Kanun Hükmünde Kararnamenin 131 inci maddesi hükmü uygulanır.
+Devir eden veya lisans verenin kötü niyetle hareket halinde, bunlar, fillerinden her zaman sorumludur. Devir eden veya lisans veren üzerinde tasarruf edilen patent başvurusu veya patente konu olan buluşun, patentle korunabilirliği konusunda Türkçe veya yabancı dildeki rapor ve kararları veya bu konuda bildiklerini karşı tarafa bildirmemiş ve bunlara ilişkin beyanları içeren belgelere sözleşmede yer vermemişse, kötü niyetin varlığı kabul edilir.
+747
+Bu madde hükümlerinden doğan tazminatı talep süresi, sorumluluk davasına dayanak olan mahkeme kararının kesinleşme tarihinden başlar. Zaman aşımı için Borçlar Kanunu'nun ilgili hükümleri uygulanır.

@@ -1,0 +1,3 @@
+Zorunlu Lisans Talebi
+Madde 100 – Zorunlu lisans talep edildiği anda patentin kullanımına henüz başlanılmadığı veya patentin kullanımındaki geçikmenin haklı bir sebebe dayanmadığı veya haklı bir sebebe dayanmaksızın kullanılmaya aralıksız olarak üç yıldan fazla ara verildiği gerekçesiyle ve 96 ncı maddede öngörülen süre bittikten sonra, ilgili herkes zorunlu lisans verilmesini yetkili mahkemeden isteyebilir.
+Objektif nitelik taşıyan teknik veya ekonomik veya hukuki sebepler, patentin kullanılamamasının haklı sebepleri olarak kabul edilir. Patent konusu buluşun kullanılmasını engelleyecek nitelikte kabul edilen bu sebepler, patent sahibinin kontrolu ve iradesi dışındaki sebeplerdir.

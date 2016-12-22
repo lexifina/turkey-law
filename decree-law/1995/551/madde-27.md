@@ -1,0 +1,4 @@
+Hizmet Buluşu İçin Yabancı Ülkede Başvuru
+Madde 27 – İşveren, hizmet buluşu için tam hak talebinde bulunmuş ise söz konusu buluşun yabancı bir ülkede de korunması için başvuruda bulunabilir.
+İşveren, işçinin talebi üzerine, patent almak istemediği yabancı ülkeler için buluşu serbest bırakmak ve bu ülkelerde işçiye patent almak için talep yapma imkanını sağlamakla yükümlüdür. Buluşun serbest bırakılması, milletlerarası anlaşmalara göre tanınan rüçhan hakkı süresinin geçirilmemesi açısından, makul bir süre içinde yapılır.
+İşveren, işçinin yabancı ülkelerde patent alabilmesi amacıyla buluşu serbest bırakırken sözü edilen ülkelerde uygun bir ücret karşılığında buluşu kullanabilmek için, inhisari olmayan nitelikte bir kullanım hakkını saklı tutmak ve yine o ülkelerde, saklı tuttuğu hakkından doğan menfaatlerine zarar gelmemesini talep etmek hakkına sahiptir.

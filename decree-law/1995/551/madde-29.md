@@ -1,0 +1,4 @@
+Patent Başvurusu veya Patent Hakkından Doğan Ödevler
+Madde 29 – İşveren, işçinin hizmet buluşu nedeniyle talep ettiği bedeli ödemeden önce patent verilmesi için yaptığı başvuruyu takip etmek istemez veya patent hakkının korunmasından vazgeçmek isterse, durumu işçiye bildirmekle yükümlüdür. İşçinin talebi üzerine işveren, masrafları işçiye ait olmak üzere patent hakkını veya patent alınması ve korunması için gerekli olan belgeleri işçiye devir etmek zorundadır. İşçi, bu konuda kendisine yapılan bildirime, bu bildirimin ulaşması tarihinden itibaren üç ay içinde cevap vermezse, işveren patent başvurusu veya patentten doğan haklardan vazgeçebilir.
+İşveren birinci fıkrada belirtilen bildirimle birlikte hizmet buluşundan inhisari nitelikte olmayan yararlanma hakkını uyğun bir bedel karşılığında saklı tutabilir.
+731

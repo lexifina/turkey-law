@@ -1,0 +1,2 @@
+İnceleme Sisteminin Tercih Edilmesi
+Madde 59 – 62 nci madde hükümüne göre patent verilebilirlik şartları açısından gerekli incelemenin Enstitü tarafından yapılabilmesi için, başvuru sahibi incelenerek patent verilmesi sistemini tercih ettiğini, araştırma raporunun kendisine tebliği tarihinden itibaren üç ay içinde Enstitü'ye bildirir. Söz konusu süre içinde bu bildirimin yapılmaması halinde, incelemesiz patent verilmesi sisteminin tercih edildiği kabul edilir.

@@ -1,0 +1,2 @@
+Ek Patentte Zorunlu Lisans Kapsamı
+Madde 116 – Zorunlu lisans, lisansın kabul tarihinde mevcut bulunan patentin eklerini de kapsar. Zorunlu lisansın verilmesinden sonra, patent için yeni ek patentler verilmişse ve bunlar lisans konusu patentle aynı sınai kullanım amacına hizmet etmekte iseler, lisans alan, mahkemeden eklerin de zorunlu lisans kapsamına dahil edilmesi talebinde bulunabilir. Enstitü'nün arabuluculuk yapmasına rağmen, taraflar ek patentler nedeniyle genişletilen lisansın bedeli ve diğer şartları konusunda anlaşamazlarsa, bunlar mahkeme tarafından belirlenir.

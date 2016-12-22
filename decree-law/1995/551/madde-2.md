@@ -1,0 +1,3 @@
+Korumadan Yararlanacak Kişiler
+Madde 2 – Bu Kanun Hükmünde Kararname ile sağlanan korumadan Türkiye Cumhuriyeti sınırları içinde ikametgahı olan veya sınai veya ticari faaliyette bulunan gerçek veya tüzel kişiler veya Paris Anlaşması hükümleri dahilinde başvuru hakkına sahip kişiler yararlanır.
+Bu maddenin birinci fıkrası hükmü kapsamı dışında kalmasına rağmen, Türkiye Cumhuriyeti uyruğundaki kişilere kanunen veya fiilen patent ve/veya faydalı model belgesi koruması tanıyan devletlerin uyruğundaki gerçek veya tüzel kişilerde, karşılıklılık ilkesi uyarınca Türkiye'de patent ve/veya faydalı model belgesi korumasından yararlanır.

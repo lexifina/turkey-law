@@ -1,0 +1,4 @@
+Başvurunun Yayınlanması
+Madde 55 – Başvuru tarihi veya rüçhan hakkı talep edilmişse rüçhan tarihinden itibaren onsekiz aylık sürenin dolması ile,başvuru, Yönetmelik hükümlerine göre yayınlanarak toplumun incelenmesine açılır. Bu işlem, Enstitü'nün şekli şartlara uygunluk açısından, 54 üncü madde hükmüne göre yaptığı incelemenin bitmesinden ve başvuru sahibi tarafından 56 ncı madde hükmüne göre tekniğin bilinen durumu ile ilgili araştırma yapılmasını talep etmesinden sonra yapılır.
+Yayınlanan başvurular, Yönetmelikte şekil ve şartları tesbit edilen hususları kapsayacak şekilde, ilgili bültende periyodik olarak duyurulur.
+Başvuru sahibinin talebi üzerine bu maddenin birinci fıkrasında sözü edilen onsekiz aylık süre dolmamış olsa bile, başvuru, bu maddede belirtilen şartlara uygun olarak Enstitü tarafından yayınlanır.

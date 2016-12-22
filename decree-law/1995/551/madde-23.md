@@ -1,0 +1,3 @@
+Kısmi Hak Talebinde Bedel
+Madde 23 – Hizmet buluşu üzerinde kısmi hak talep eden işveren buluştan yararlanmakta ise, işçi uygun bir bedelin kendisine ödenmesini isteyebilir. Bu bedelin hesaplanmasında 22 nci maddenin ikinci fıkrası hükmü uygulanır.
+İşveren,hizmet buluşuna ilişkin talepte bulunduktan sonra buluşun korunmaya değer olmadığını ileri sürerek bedelin ödenmesinden kaçınamaz. Ancak, buluşun korunabilir olmadığı konusunda Enstitü tarafından veya Enstitü aleyhine açılan bir dava sonucunda mahkemenin karar vermesi halinde işçi bedel talebinde bulunamaz. İşçinin bedel talebi,buluşun korunabilirliğine ilişkin kararın kesinleşmesine kadar ileri sürülebilir.

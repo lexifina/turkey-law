@@ -1,0 +1,5 @@
+Teklifte Bulunma Yükümlülüğü
+Madde 32 – Serbest buluş işletmenin ilgili olduğu iş alanına girmekteyse veya işletme söz konusu buluşun ilgili olduğu alanda faaliyette bulunmak için ciddi hazırlıklar içindeyse: işçi, serbest buluşunu iş ilişkisini sürdürmekte olduğu sırada başka bir şekilde değerlendirmeye başlamadan önce, uygun şartlar altında buluşundan tam hak tanımaksızın yararlanma imkanıvermek için işverene teklif yapmakla yükümlüdür. İşçi, bu konudaki teklifini 31 inci maddeninbirinci fıkrası hükmüne göre yapacağı bildirimin içinde de yapabilir.
+İşveren, teklifin kendisine ulaştığı tarihten itibaren üç ay içinde cevap vermezse, bu konudaki öncelik hakkını kayıp eder.
+İşveren, yukarıdaki fıkrada belirtilen süre içinde kendisine yapılan teklifi kabul eder ve öngörülmüş şartları uygun bulmazsa, şartlar tarafların talebi üzerine mahkemece tespit edilir.
+İşçi veya işverenin, bedelin ve diğer sözleşme şartlarının belirlenmesinde esas aldıkları noktalarda, sonradan önemli değişikliklerin ortaya çıkması halinde, mahkemeden sözleşmenin yeni şartlara uydurulmasını talep hakları vardır.

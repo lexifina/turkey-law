@@ -1,0 +1,3 @@
+Tazminat
+Madde 138 – Patent sahibinin izni olmaksızın,patentle korunan ürünü üreten, satan,dağıtan veya başka bir şekilde ticaret alanına çıkaran veya bu amaçlar için ithal eden veya ticari amaçla elde bulunduran veya patentli bir usulü kullanan kişi,hukuka aykırılığı gidermek ve sebep olduğu zararı tazmin etmekle yükümlü olur.
+Patentle korunan buluşu herhangi bir şekilde kullanmakta olan kişi, patent sahibinin patentin varlığından ve tecavüzden kendisini haberdar etmesi ve tecavüzü durdurmasını talep etmesi halinde veya kullanmanın kusurlu bir davranış teşkil etmesi halinde,sebep olduğu zararı tazmin etmekle yükümlüdür.

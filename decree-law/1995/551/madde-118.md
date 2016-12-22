@@ -1,0 +1,3 @@
+Şartlarda Değişiklik Talebi
+Madde 118 – Lisans alan veya patent sahibi, sonradan ortaya çıkan ve değişikliği haklı kılan olaylara dayanarak mahkemeden zorunlu lisans bedelinde veya şartlarında değişiklik yapılmasını talep edebilir. Özellikle patent sahibi, zorunlu lisans verilmesinden sonra, zorunlu lisansa göre daha uygun şartlarda sözleşme lisansı yapmış olması halinde böyle bir talepte bulunma hakkı doğar.
+Lisans alan, zorunlu lisanstan doğan yükümlülüklerini ciddi şekilde ihlal etmekte veya sürekli olarak yerine getirmemekte ise, mahkeme patent sahibinin talebi üzerine, patent sahibinin tazminat hakları saklı kalmak kaydıyla, lisansı iptal edebilir.

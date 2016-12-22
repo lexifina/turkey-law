@@ -1,0 +1,2 @@
+Şekli Eksikliklere İtirazın Etkisi
+Madde 71 – Enstitü tarafından yapılan inceleme sırasında, buluşun bütünlüğü konusu dışında, patent verilmesi işlemleri ile ilgili şekli bir işlem yerine getirilmemişse veya önemli bir şekli işlemde eksiklik yapılmışsa itirazın bu noktada giderilmesine ilişkin Enstitü tarafından verilecek karar, patent verilmesi ile ilgili işlemlerin geçersizliği ve eksikliğin yapıldığı yere kadar geriye dönülmesi ve işlemlerin yeniden yapılması sonucunu doğurur.

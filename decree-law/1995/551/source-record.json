@@ -1,0 +1,92 @@
+{
+  "source_id": "24.5.551",
+  "path": "decree-law/1995/551",
+  "number": "551",
+  "tertip": "5",
+  "title": "PATENT HAKLARININ KORUNMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1995-06-24",
+  "enacted_as_printed": "24.06.1995",
+  "published": "1995-06-27",
+  "gazette": "22326",
+  "in_force": "2016-12-22",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"*** Bu KHK 22/12/2016 tarihli ve 6769 sayılı Kanunun 191 inci maddesiyle yürürlükten kaldırılmıştır.\"",
+  "date_evidence": [
+    [
+      "2016-12-22",
+      "*** Bu KHK 22/12/2016 tarihli ve 6769 sayılı Kanunun 191 inci maddesiyle yürürlükten kaldırılmıştır.",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2014-05-29",
+      "Anayasa Mahkemesi’nin 29/1/2014 tarihli ve E.: 2013/100, K.: 2014/14 SAYILI Kararı ile. | 158 | 29/5/2014",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2004-06-26",
+      "5194 | 54,73/A,75,136,146,150,153 | 26/6/2004",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2004-06-22",
+      "(Ek:22/6/2004 – 5194/3 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2004-06-22",
+      "(Ek fıkra:22/6/2004 – 5194/1 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2004-06-22",
+      "(Ek cümle:22/6/2004 – 5194/4 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2004-06-22",
+      "(Değişik:22/6/2004 – 5194/5 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "1995-11-04",
+      "4128 | 43, 53, 57, 73/A | 4/11/1995",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "1995-11-03",
+      "(Mülga : 3/11/1995 - 4128/1 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "1995-09-22",
+      "KHK/566 | Geçici Madde 4 | 22/9/1995",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "1995-09-19",
+      "(Değişik : 19/9/1995 - KHK-566/1 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "*** Bu KHK 22/12/2016 tarihli ve 6769 sayılı Kanunun 191 inci maddesiyle yürürlükten kaldırılmıştır.",
+    "Yürürlükten Kaldırılan Mevzuat",
+    "(Mülga : 3/11/1995 - 4128/1 md.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=551&MevzuatTertip=5",
+  "source_sha256": "273f3c3e52a5cd726f219f493e6d4ee4376188ed272f44490186e96cac632c16",
+  "source_bytes": 374721,
+  "words": 19193,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}

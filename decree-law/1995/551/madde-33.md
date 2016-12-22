@@ -1,0 +1,3 @@
+Teknik İyileştirme Teklifleri
+Madde 33 – Bu Kanun hükmünde Kararname hükümlerine göre, patent veya faydalı model belgesi ile korunamayacak nitelikte olan teknik iyileştirme tekliflerinin işçi tarafından yazılı olarak işverene bildirilmesi ile bunlardan yararlanma karşılığında, işveren işçiye uygun bir bedel ödemekle yükümlü olur. Hizmet buluşlarında, bildirim yükümlülüğü ile ilgili 18 inci madde ile bedelin hesaplanması ile ilgili 22 nci ve 25 inci maddelerin hükümleri burada da kıyasen uygulanır.
+Teknik iyileştirme teklifleri ile ilgili diğer konular ferdi ve toplu iş sözleşmeleriyle düzenlenir.
