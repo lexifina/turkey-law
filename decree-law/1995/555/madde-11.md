@@ -1,0 +1,3 @@
+İtiraz ve İnceleme
+Madde 11 – Başvurunun Resmi Gazetede ilan tarihinden itibaren altı ay içinde ilgili herkes 3, 5, 7 ve 8 inci maddelerdeki hükümlere uygunluk açısından tescil talebinin geçersizliğine ilişkin Enstitü nezdinde itirazda bulunabilir.
+Ensitütü itirazı alır. Başvuru sahibinin de görüşüne başvurarak, başvurunun ve itirazın konuda uzman bir veya birden fazla kamu kuruluşu veya üniversite veya tarafsız özel kuruluş tarafından incelenmesini talep eder. Bu durumda ilgili kurum veya kuruluşa ödenecek inceleme ücreti ve Enstitü'nün yapacağı hizmetler karşılığı alacağı ücret itiraz sahibi tarafından Enstitü'ye ödenir. Kamu kuruluşlarının itirazlarında ücret alınmaz.

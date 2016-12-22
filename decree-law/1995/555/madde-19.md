@@ -1,0 +1,4 @@
+İyi Niyetli Kullanım
+Madde 19 – Dünya Ticaret Örgütü Kuruluş Anlaşmasının imzalanma tarihi olan 15 Nisan 1994 tarihinden önce sürekli olarak en az on yıl süreyle kullanılmış veya anılan tarihten önce iyi niyetli bir şekilde kullanılmış olan coğrafi işaretlere 15 inci madde hükümleri uygulanmaz.
+Herhangi bir işaretin halkı yanıltacak şekilde kullanılmamış olması şartıyla haleflerinin veya kendisinin adının ticari açıdan iş ilişkilerinde kullanılması 15 inci maddenin ihlali sayılmaz.
+Ancak 15 inci maddenin birinci fıkrasının (b) bendinde öngörülen biçimde sözcük olarak gerçek coğrafi yeri ifade etmekle birlikte halkta haksız biçimde ürünün başka yer kaynaklı olduğu izlenimini bırakan biçimde kullanımı halinde Enstitü, her bir işaretin, tüketicinin aldanmasını önleyecek ve üreticiye hakkaniyete uygun kullanım sağlayacak biçimde düzenlenmesini talep eder. Bu düzenleme yönetmelikte öngörülen hükümler çerçvesinde yapılır.

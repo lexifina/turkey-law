@@ -1,0 +1,3 @@
+Korumadan Yararlanacak Kişiler
+Madde 2 – Bu Kanun Hükmünde Kararname ile sağlanan korumadan, Türkiye Cumhuriyeti vatandaşları veya Türkiye Cumhuriyeti sınırları içinde ikametgahı olan veya sınai veya ticari faaliyette bulunan gerçek ve tüzel kişiler veya Paris Sözleşmesi veya Dünya Ticaret Örgütü'nü Kuran Anlaşma hükümleri dahilinde başvuru hakkına sahip kişiler yararlanır.
+Bu maddenin birinci fıkrası hükmü kapsamı dışında kalmasına rağmen, Türkiye Cumhuriyeti uyruğundaki kişilere kanunen veya fiilen coğrafi işaret koruması tanıyan devletlerin uyruğundaki gerçek veya tüzel kişiler de karşılıklılık ilkesi uyarınca Türkiye'de coğrafi işaret korumasından yararlanır.

@@ -1,0 +1,85 @@
+{
+  "source_id": "24.5.555",
+  "path": "decree-law/1995/555",
+  "number": "555",
+  "tertip": "5",
+  "title": "COĞRAFİ İŞARETLERİN KORUNMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1995-06-24",
+  "enacted_as_printed": "24.06.1995",
+  "published": "1995-06-27",
+  "gazette": "22326",
+  "in_force": "2016-12-22",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"*** Bu KHK 22/12/2016 tarihli ve 6769 sayılı Kanunun 191 inci maddesiyle yürürlükten kaldırılmıştır. Ancak 6769 sayılı Kanunun geçici maddeleri gereğince mülga KHK’nin bazı hükümlerin uygulanmasına devam edileceğinden uygulayıcıya kolaylık sağlamak amacıyla 555 sayılı KHK sistemde korunmuştur.\"",
+  "date_evidence": [
+    [
+      "2016-12-22",
+      "*** Bu KHK 22/12/2016 tarihli ve 6769 sayılı Kanunun 191 inci maddesiyle yürürlükten kaldırılmıştır. Ancak 6769 sayılı Kanunun geçici maddeleri gereğince mülga KHK’nin bazı hükümlerin uygulanmasına devam edileceğinden uygulayıcıya kolaylık sağlamak amacıyla 555 sayılı KHK sistemde korunmuştur.",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2008-10-23",
+      "5805 9 23/10/2008",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2008-10-15",
+      "(Değişik üçüncü fıkra:15/10/2008 – 5805/1 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2004-06-26",
+      "5194 9,24/A,30,33,36 26/6/2004",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2004-06-22",
+      "(Ek fıkra:22/6/2004 – 5194/9md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2004-06-22",
+      "(Değişik:22/6/2004 – 5194/11 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "1995-11-07",
+      "4128 — 7/11/1995",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "1995-11-03",
+      "(Ek fıkra : 3/11/1995 - 4128/4 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "1995-11-03",
+      "(Ek cümle : 3/11/1995 - 4128/4 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "1995-11-03",
+      "(Değişik : 3/11/1995 - 4128/4 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "*** Bu KHK 22/12/2016 tarihli ve 6769 sayılı Kanunun 191 inci maddesiyle yürürlükten kaldırılmıştır. Ancak 6769 sayılı Kanunun geçici maddeleri gereğince mülga KHK’nin bazı hükümlerin uygulanmasına devam edileceğinden uygulayıcıya kolaylık sağlamak amacıyla 555 sayılı KHK sistemde korunmuştur."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=555&MevzuatTertip=5",
+  "source_sha256": "3a45b5a178aadd68bb5c0a7cf8bef500a2402a1e08ebc1d44f240abf00093f40",
+  "source_bytes": 101649,
+  "words": 4507,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
