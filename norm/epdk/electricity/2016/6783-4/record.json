@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6783/4",
+  "decision_date": "2016-12-22",
+  "title": "2017 yılında geçerli olmak üzere Türkiye Ortalama Elektrik Toptan Satış Fiyatının (TORETOSAF) 14,02 Krş/kWh olarak belirlenmesine ilişkin",
+  "resmi_gazete_date": "2016-12-27",
+  "resmi_gazete_number": "29931",
+  "categories": [
+    "TORETOSAF"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MDBcO8fuHeM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MDBcO8fuHeM="
+  ],
+  "source_sha256": "e95f36990158a53d1e66ab0277acbb9c2d880cad97fa8dbc031f5ad1aca0bffd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1856,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-12-22",
+  "law_text_complete": false
+}
