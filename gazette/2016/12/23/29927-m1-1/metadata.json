@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-12-23",
+  "issue": "29927",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Hassas Su Kütleleri ile Bu Kütleleri Etkileyen Alanların Belirlenmesi ve Su Kalitesinin İyileştirilmesi Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161223M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161223M1.htm",
+  "index_sha256": "c566f813b1c2da62f4e84e26b695e783b2e7beadcc620069d41568ac4dbca12c",
+  "index_header": "23 Aralık 2016 ... 29927 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161223M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
