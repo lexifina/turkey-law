@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.12064",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KONTROLLÜ TESLİMAT UYGULAMASI ESAS VE USULLERİ HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK",
+  "number": "12064",
+  "issuer": "İçişleri Bakanı ile Gümrük ve Ticaret Bakanı",
+  "issuer_slug": "icisleri-bakani-ile-gumruk-ve-ticaret-bakani",
+  "path": "regulation/icisleri-bakani-ile-gumruk-ve-ticaret-bakani/1997/12064",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12064&MevzuatTertip=5",
+  "source_sha256": "c306543152034202bd67f949c45af4313cf287eadec57128c6e575a8fa38adad",
+  "source_bytes": 33894,
+  "published": "1997-09-15",
+  "gazette": "23111",
+  "in_force": "2016-12-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/12/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-12-23",
+      "RG-23/12/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-11-21",
+      "RG-21/11/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-06-22",
+      "RG-22/6/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-04-02",
+      "RG-2/4/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1216,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

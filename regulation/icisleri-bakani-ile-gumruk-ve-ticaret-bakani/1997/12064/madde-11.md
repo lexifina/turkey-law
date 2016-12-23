@@ -1,0 +1,3 @@
+Kontrollü Teslimat Uygulamasında Koordinasyon
+MADDE 11 – (Değişik:RG-2/4/2008-26835)
+Gerek yurtiçi kontrollü teslimat, gerekse kontrollü giriş, geçiş ve çıkışlarda, ilgili kuruluşlar arasındaki işbirliği ve koordinasyon ilgili Başkanlık tarafından yürütülür. Diğer taraftan, polis, jandarma, sahil güvenlik ve gümrük muhafaza birimleri arasında kontrollü teslimat uygulamasına ilişkin koordinasyon, Başkanlıklarca bilgi alış verişi sağlanması ve teknik işbirliği yapılması yoluyla sağlanır. Görevlilere, bu uygulama sırasında kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerce her türlü yardım ve kolaylık sağlanır.
