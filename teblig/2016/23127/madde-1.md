@@ -1,0 +1,1 @@
+MADDE 1 – (1) Avrupa Komisyonu tarafından 2528 kimlik kayıt numarası tahsis edilmiş olan D KARE Gözetim Test ve Belgelendirme Ticaret Limited Şirketi, Ek-1’de yer alan teknik düzenleme ve uygunluk değerlendirme modüllerinde onaylanmış kuruluş olarak görevlendirilmiştir.

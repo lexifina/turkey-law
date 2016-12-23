@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23127",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "D KARE GÖZETİM TEST VE BELGELENDİRME TİCARET LİMİTED ŞİRKETİNİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (SGM: 2016/38)",
+  "number": "23127",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2016/23127",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23127&MevzuatTertip=5",
+  "source_sha256": "41ab8f6d9dd0bd620be749dc9289fe4855cb3e3b362b3d2bfb73a1d2ac9662da",
+  "source_bytes": 7523,
+  "published": "2016-12-23",
+  "gazette": "29927",
+  "in_force": "2016-12-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.12.2016); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 110,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23127-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,1 @@
+MADDE 2 – (1) 17/4/2014 tarihli ve 28975 sayılı Resmî Gazete’de yayımlanan D KARE Gözetim Test ve Belgelendirme Ticaret Limited Şirketinin Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (SGM: 2014/10) yürürlükten kaldırılmıştır.
