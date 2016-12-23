@@ -1,0 +1,27 @@
+{
+  "source_id": "9.5.23128",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 295)",
+  "number": "23128",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2016/23128",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23128&MevzuatTertip=5",
+  "source_sha256": "fc2f95e9f608ec4ca238031bd7cba484e7b38b5e2f5d3ccde53c8e32684a51b3",
+  "source_bytes": 29931,
+  "published": "2016-12-23",
+  "gazette": "29927",
+  "in_force": "2016-12-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.12.2016)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1526,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
