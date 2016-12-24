@@ -1,0 +1,14 @@
+Sözleşmeli personelde aranacak şartlar
+MADDE 6 – (1) Sözleşmeli yerli ve yabancı uzmanlar için aranacak ortak şartlar şunlardır:
+a) (Değişik:RG-24/12/2016-29928) Yükseköğretim kurumlarının en az dört yıllık lisans eğitimi veren ve Başkanlığın ihtiyaç duyduğu alanlara ilişkin bölümlerden veya bunlara denkliği Yükseköğretim Kurulunca kabul edilen dört yıllık fakülte veya yüksekokullardan birini bitirmiş olmak veya gerekli görülmesi halinde kurumun ihtiyaç duyduğu alanlarda yüksek lisans veya doktora yapmış olmak.
+b) (Değişik:RG-24/12/2016-29928) Yönetim Kurulu tarafından kabul edilen bir yabancı dili, YDS’den en az (C) düzeyinde veya Başkanlıkça buna denkliği kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeyle bildiğini belgelemek; Yönetim Kurulu tarafından kabul edilen ancak YDS veya bu sınava Başkanlıkça denkliği kabul edilen uluslararası geçerliliği bulunan sınavlarla ölçülmeyen yabancı diller için ise ilgili dilde en az üç yıllık ortaöğretim veya ön lisans, lisans veya yüksek lisans diploması almış olmak ya da o dilin resmî dil olarak konuşulduğu ülke resmî makamları tarafından düzenlenen sınavda yüzde seksen oranında başarılı olmak.
+c) (Ek:RG-11/7/2013-28704) (Değişik:RG-24/12/2016-29928) Başkanlığın ihtiyaç duyduğu alan ile ilgili konularda bilgi ve tecrübe sahibi olmak.
+(2) Yerli sözleşmeli uzmanlar için aşağıdaki özel şartlar aranır:
+a) Türk Vatandaşı olmak.
+b) Kamu haklarından mahrum bulunmamak.
+c) 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı bir yıl veya daha fazla süreyle hapis cezasına ya da affa uğramış olsa bile devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama veya kaçakçılık suçlarından mahkûm olmamak.
+ç) Askerlikle ilişiği bulunmamak.
+d) Görevini devamlı yapmasına engel olabilecek akıl hastalığı bulunmamak.
+(3) Yabancı sözleşmeli uzmanlar için aşağıdaki özel şartlar aranır:
+a) Belirli hakları kullanmaktan yoksun bırakılmasına ilişkin ilgili mevzuatta belirtilen süreler geçmiş olsa bile; kasten işlenen bir suçtan dolayı bir yıl veya daha fazla süreyle hapis cezasına ya da affa uğramış olsa bile devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, milli savunmaya karşı suçlar, devlet sırlarına karşı suçlar ve casusluk, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama veya kaçakçılık suçlarından mahkûm olmamak.
+b) Görevini devamlı yapmasına engel olabilecek akıl hastalığı bulunmamak.

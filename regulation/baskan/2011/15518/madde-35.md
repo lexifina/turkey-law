@@ -1,0 +1,3 @@
+İş sonu tazminatı
+MADDE 35 – (1) Sözleşmeli personele iş sonu tazminatının ödenmesinde, hizmet yılı esas alınarak 1 inci derecede görev yapan Ölçme, Seçme ve Yerleştirme Merkezi Uzmanına 5510 sayılı Kanun hükümlerine göre ödenecek emekli ikramiyesi tutarını geçmemek üzere, çalışılan her tam hizmet yılı için ayrılış tarihindeki hizmet sözleşmesinde yazılı aylık ücret tutarında iş sonu tazminatı ödenir. Bir yıldan artan süreler için de tam yıl için hesaplanan miktardan o süreye isabet eden tutar kadar ödeme yapılır.
+(2) Hizmet sözleşmesi feshedilen personele, ödenecek iş sonu tazminatı hakkında Sözleşmeli Personel Çalıştırılmasına İlişkin Esasların ilgili hükümleri uygulanır.
