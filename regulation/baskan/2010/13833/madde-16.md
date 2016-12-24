@@ -1,0 +1,3 @@
+Sınavlarla ilgili diğer hükümler
+MADDE 16 – (1) Giriş sınavına katılabileceği ilan edilen adaylardan, sınava katılma şartlarını taşımadığı daha sonra tespit edilenler sınava alınmazlar. Bunlardan sınava girmiş olanların sınav sonuçları, sınavda başarılı olsalar bile geçersiz sayılır; atamaları yapılmış olsa dahi iptal edilir.
+(2) Sınav sürecinin herhangi bir aşamasında istenen belgelerde gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavları geçersiz sayılır ve atamaları yapılmaz; atamaları yapılmış olsa dahi iptal edilir. Bunlar hiçbir hak talep edemezler ve haklarında Cumhuriyet Başsavcılığına suç duyurusunda bulunulur. (Ek cümle:RG-15/8/2012-28385) Bu şekilde Kurumu yanıltanlar kamu görevlisi ise durumları çalıştıkları Kurumlara da bildirilir.

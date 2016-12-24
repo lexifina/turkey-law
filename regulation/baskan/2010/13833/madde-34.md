@@ -1,0 +1,3 @@
+Araştırma ve inceleme yetkisi
+MADDE 34 – (1) Uzman ve uzman yardımcıları, görevlerini yerine getirirken; ilgili mevzuattaki esaslar dâhilinde Kurumun görev alanıyla ilgili gelişmeleri takip etmeye, verilen yetki çerçevesinde işletmelerin uygulamalarını denetlemeye ve hizmet ilke ve esaslarına uygunluk yönünden değerlendirmeye, işletmecilerin taleplerini incelemeye ve değerlendirmeye, elektronik haberleşme teknikleri ile ilgili her türlü araştırma ve incelemeleri yapmaya ve bu amaçlarla her türlü evrakı tetkik etmeye yetkilidirler.
+(2) Uzman ve uzman yardımcıları, bu konularda ilgili birim yöneticisinin teklifi üzerine Başkan, gerektiğinde doğrudan Kurul tarafından görevlendirilirler.

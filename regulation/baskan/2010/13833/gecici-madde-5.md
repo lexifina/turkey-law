@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 5 – (Ek:RG-5/4/2011-27896)
+Geçici 2 nci maddenin üçüncü fıkrası çerçevesinde kendilerine uzmanlık tez konusu verilip tez hazırlamaya başlayanlar, geçici 2 nci maddenin ikinci fıkrasında belirtilen sınavda başarılı olmalarını müteakip (Mülga ibare:RG-15/8/2012-28385) (…) tez savunmasına alınırlar. Bu kişiler, anılan sınavda başarılı olmalarını müteakip tezlerini bir yıl içinde Daire Başkanlığına vermek zorundadırlar.

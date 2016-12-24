@@ -1,0 +1,3 @@
+Tez Savunma Komisyonu
+MADDE 24 – (Değişik:RG-15/8/2012-28385)
+(1) Tez Savunma Komisyonu, tez savunmasını gerçekleştirmek üzere, bir Kurul üyesinin (Mülga ibare:RG-24/12/2016-29928)(...) başkanlığında, uzman yardımcısının tez danışmanı ve bağlı olduğu birim yöneticisi ile Kurumun yöneticileri, başkanlık müşavirleri ve meslek personeli arasından Kurul tarafından belirlenen beş asil üyeden oluşur. Asil üyelerin herhangi bir nedenle savunma komisyonuna katılamamaları hâlinde, tespit sırasına göre çalışmalara katılmak üzere ayrıca iki yedek üye belirlenir. En çok iki üye yüksek öğretim kurumları öğretim üyeleri arasından seçilebilir.

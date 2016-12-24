@@ -1,0 +1,4 @@
+Ekip halinde çalışma
+MADDE 33 – (1) Kurum tarafından yürütülen hizmetlerin gerektirdiği uzmanlık çalışmaları, ilgili birimlerin bünyesinde yerine getirilir. Ancak yapılacak işin niteliği, hacmi ve süresinin aynı veya farklı birimlerden birden fazla uzman ve uzman yardımcısının birlikte çalışmasını gerektirdiği hallerde birim yöneticilerinin teklifi ve Başkanın onayı ile süreli çalışma ekipleri oluşturulabilir. Gerek görülmesi halinde diğer personel de çalışma ekibine dâhil edilebilir.
+(2) Çalışma ekiplerine gerekli görülen hallerde başkan görevlendirilir. Ekip başkanı çalışmalar hakkında ilgili yöneticilere düzenli aralıklarla bilgi vermekle yükümlüdür.
+(3) Çalışma ekibinin yaptığı çalışmanın sonucu, ortak bir raporda toplanır ve çalışmaya katılanlar tarafından imzalanır. Çalışmaya katılanlardan karşı görüşü bulunanlar, raporun ekinde farklı görüşlerinin gerekçelerini belirtirler.

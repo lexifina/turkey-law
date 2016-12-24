@@ -1,0 +1,3 @@
+Uzman yardımcılığına atama
+MADDE 17 – (1) Uzman yardımcılığı giriş sınavında başarılı olanlar ilgisine göre arşiv araştırmasının veya güvenlik soruşturması ve arşiv araştırmasının olumlu olması kaydıyla sınava başvurularına göre bilişim, (Mülga ibare:RG-24/12/2016-29928) (...) teknik veya idari uzman yardımcısı kadrolarına atanırlar. Atama işleminden önce adaylardan ayrıca 4 adet vesikalık fotoğraf (4,5x6 cm.) istenir.
+(2) Giriş sınavını kazananların, belirtilen süre içinde yukarıda sayılan belgelerle birlikte Kuruma başvurmaları gerekir. Öngörülen süre içinde geçerli bir mazereti olmaksızın başvuruda bulunmayanlar ile gerekli belgelerini tamamlamayanların veya bu Yönetmeliğin 16 ncı maddesine göre atamaya engel halleri tespit edilenlerin atama işlemleri yapılmaz.

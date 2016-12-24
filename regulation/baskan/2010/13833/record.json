@@ -1,0 +1,86 @@
+{
+  "source_id": "7.5.13833",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİLGİ TEKNOLOJİLERİ VE İLETİŞİM KURUMU MESLEK PERSONELİ YÖNETMELİĞİ",
+  "number": "13833",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2010/13833",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13833&MevzuatTertip=5",
+  "source_sha256": "5e2e808a46e02e856ccc8f94c1ab87a582be74913c11f129caecb0a64eb420cb",
+  "source_bytes": 106014,
+  "published": "2010-03-07",
+  "gazette": "27514",
+  "in_force": "2016-12-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/12/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-12-24",
+      "RG-24/12/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-12-24",
+      "24/12/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-05-10",
+      "RG-10/5/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-05-10",
+      "10/5/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-08-15",
+      "RG-15/8/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-08-15",
+      "15/8/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-04-05",
+      "RG-5/4/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-04-05",
+      "5/4/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-09-04",
+      "RG-4/9/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-09-04",
+      "4/9/2010",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5518,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.13833-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

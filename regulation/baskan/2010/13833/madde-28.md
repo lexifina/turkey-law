@@ -1,0 +1,4 @@
+Uzmanlığa atama
+MADDE 28 – (1) (Değişik ibare:RG-5/4/2011-27896) Bu Yönetmeliğin 21 inci maddesinin birinci fıkrasında belirtilen şartları sağlayanlar ilgisine göre bilişim uzmanı, (Mülga ibare:RG-24/12/2016-29928)(...) teknik uzman veya idari uzman unvanını kazanırlar ve kadro durumuna göre atamaları yapılır.
+(2) (Değişik:RG-15/8/2012-28385) Verilen ilave süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci sınavda da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile uzman yardımcılığı dönemi içinde (Değişik ibare:RG-10/5/2015-29351) YDS’den en az 70 puan ya da dil yeterliği bakımından denkliği kabul edilen ve uluslararası geçerliliği bulunan başka bir sınavdan eşdeğeri belgeyi yeterlik sınavından itibaren en geç iki yıl içinde ibraz etmeyenler, uzman yardımcısı unvanını kaybederler ve Kurumda durumlarına uygun memur unvanlı kadrolara atanırlar.
+(3) (Mülga:RG-15/8/2012-28385)

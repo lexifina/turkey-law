@@ -1,0 +1,2 @@
+Giriş Sınavı Komisyonu
+MADDE 11 – (1) Giriş sınavlarının yapılması, sınav sonuçlarının değerlendirilmesi ve itirazların incelenerek karara bağlanması ile ilgili çalışmalar Giriş Sınavı Komisyonu tarafından yapılır. Kurul tarafından belirlenecek sınav komisyonu, biri başkan olmak üzere yedi üyeden oluşur. Asil üyelerin herhangi bir nedenle sınav komisyonuna katılamamaları hâlinde, tespit sırasına göre çalışmalara katılmak üzere ayrıca iki yedek üye belirlenir. Gerek görüldüğünde en çok iki üye yüksek öğretim kurumları öğretim elemanları arasından seçilir.
