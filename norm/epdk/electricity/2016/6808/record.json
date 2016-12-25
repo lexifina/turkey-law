@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6808",
+  "decision_date": "2016-12-25",
+  "title": "Dağıtım Lisansı Sahibi Tüzel Kişiler ve Görevli Tedarik Şirketlerinin Tarife Uygulamalarına İlişkin Usul ve Esaslarına ilişkin",
+  "resmi_gazete_date": "2016-12-28",
+  "resmi_gazete_number": "29933",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IgrfadA5z4s=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IgrfadA5z4s="
+  ],
+  "source_sha256": "32ed9afce68a900c2aa30b2d7662aea584df72868a08ae52daa573e24b60a62c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-12-25",
+  "law_text_complete": false
+}
