@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6809",
+  "decision_date": "2016-12-26",
+  "title": "Dağıtım şirketleri için “Doğal Gaz Dağıtım Şirketleri İçin Tarife Hesaplama Usul ve Esasları” kapsamında ikinci tarife uygulamalarına ilişkin",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+Zn8RQK1kZ8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+Zn8RQK1kZ8="
+  ],
+  "source_sha256": "78b0d5dbae171d7e7d30abae7adfb918504fbcb4a4b2d84095143f88eadcf478",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-12-26",
+  "law_text_complete": true
+}
