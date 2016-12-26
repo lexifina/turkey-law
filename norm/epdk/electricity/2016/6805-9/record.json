@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6805-9",
+  "decision_date": "2016-12-26",
+  "title": "Kayseri ve Civarı Elektrik Türk AŞ’nin 2017 yılı gelir tavanının onaylanması",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZiUu+BHGo6k=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZiUu+BHGo6k="
+  ],
+  "source_sha256": "bd07fc93c83208f575ab22cbcd2f493abf3a24aff41d8eb8650886cd33bc3ba0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2016-12-26",
+  "law_text_complete": false
+}
