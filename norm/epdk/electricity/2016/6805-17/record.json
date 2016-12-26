@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6805-17",
+  "decision_date": "2016-12-26",
+  "title": "ADM EDAŞ’ın 2017 yılı gelir tavanının onaylanması",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5sZFGkW1xJc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5sZFGkW1xJc="
+  ],
+  "source_sha256": "1cd0b8420da7c437b4426cf38c274a17e71c247e33228e1d028fe476ca3b0e95",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2016-12-26",
+  "law_text_complete": false
+}
