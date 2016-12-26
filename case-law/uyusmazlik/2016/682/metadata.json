@@ -1,0 +1,16 @@
+{
+  "court": "Uyuşmazlık Mahkemesi",
+  "esas_no": "2016/666",
+  "esas_printed": "2016/666",
+  "esas_listed": "2011/466",
+  "decision_no": "2016/682",
+  "decision_date": "2016-12-26",
+  "chamber": "Hukuk Bölümü",
+  "chamber_basis": "printed in the header of the official decision",
+  "catalogue_note": "The official catalogue lists this decision under esas 2011/466 (also the PDF file name); the decision itself prints esas 2016/666. Identified by KARAR NO + decision date.",
+  "title": "Uyuşmazlık Mahkemesi K. 2016/682",
+  "official_url": "https://kararlar.uyusmazlik.gov.tr/Uploads/2011-466.pdf",
+  "source_sha256": "9f07960f75469c90a22397fbc695c0134f92205d24da9cf6d994409099350337",
+  "text_status": "metadata-only",
+  "privacy_policy": "Full decision text withheld for private-person or unreviewed personal scope."
+}
