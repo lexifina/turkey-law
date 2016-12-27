@@ -1,0 +1,27 @@
+{
+  "title": "Enerji Piyasası Bildirim Sistemi Kullanım Talimatına İlişkin Kurul Kararında Değişiklik Yapılmasına Dair Kurul Kararı",
+  "number": "6795",
+  "decision_date": "22.12.2016",
+  "gazette_date": "27.12.2016",
+  "gazette_number": "29931",
+  "in_force": "2016-12-27",
+  "in_force_basis": "MADDE 2-  Bu Karar yayımı tarihinde yürürlüğe girer.; official listing RgDate=27.12.2016",
+  "text_status": "as-enacted",
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=s4Nfaap1Bao%3D",
+  "source_sha256": "0e8bed5005c8aa14f4d6f33d0fb8c2ff871a17425a7a74666a4320a5f89c9718",
+  "category": "Bildirimler",
+  "repeal_note": "",
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_omitted": 0,
+  "coverage_status": "annex-pending",
+  "missing_annexes": [
+    {
+      "title": "EK-1 LPG Piyasası Bildirim Yükümlülük Tablosu",
+      "official_url": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=s4Nfaap1Bao%3D",
+      "source_reference": "MADDE 1; EKLER",
+      "status": "pending",
+      "reason": "Required annex/form referenced by the official text is not included in the available decision-text document; separate official content remains pending"
+    }
+  ]
+}
