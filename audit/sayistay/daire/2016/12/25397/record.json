@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10621",
+  "decision_date": "2016-12-27",
+  "source_id": 25397,
+  "chamber": "1",
+  "ilam_number": "480",
+  "item_number": 2,
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25397/",
+  "source_sha256": "de95999185802256650f5e9a90bd092edcdc6234a760a8c350782b6fdc8cf181",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
