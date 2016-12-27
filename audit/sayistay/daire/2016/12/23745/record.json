@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10618",
+  "decision_date": "2016-12-27",
+  "source_id": 23745,
+  "chamber": "1",
+  "ilam_number": "98",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23745/",
+  "source_sha256": "85c41e926f3b855e1989b1e983cd4c5ef2bcef53e92f96ffeb450f5d6a517841",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
