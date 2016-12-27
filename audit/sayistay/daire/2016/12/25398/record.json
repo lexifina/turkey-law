@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10622",
+  "decision_date": "2016-12-27",
+  "source_id": 25398,
+  "chamber": "1",
+  "ilam_number": "321",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25398/",
+  "source_sha256": "409349f01a01d26e5e798ffe97192cd67a2197680935704d23b685cec983d4c0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
