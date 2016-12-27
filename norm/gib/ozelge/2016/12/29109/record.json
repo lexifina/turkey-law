@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.44.15.01-130[17-2015-8]-12",
+  "source_id": 29109,
+  "date": "2016-12-27",
+  "title": "Şuf'a hakkını kullanmak isteyen paydaşa düzenlenecek faturada KDV hesaplanıp hesaplanmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29109",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "036befbfb55be7a26568947d49f015af9a9d47f3941ff0c05f9097170b7833c8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
