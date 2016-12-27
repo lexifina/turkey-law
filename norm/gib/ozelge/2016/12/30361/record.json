@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.44.15.01-130[9-2015-10]-14",
+  "source_id": 30361,
+  "date": "2016-12-27",
+  "title": "MASKİ Genel Müdürlüğüne karşı ifa edilen yapım işinde KDV tevkifatı yapılıp yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30361",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "e489972f7acd4f7a0e3e9660949e2d611e4e10b3dc03e3115e796e8331db5fb4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
