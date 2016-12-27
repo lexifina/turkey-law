@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.23141",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2017 YILI ARABULUCULUK ASGARİ ÜCRET TARİFESİ",
+  "number": "23141",
+  "path": "teblig/2016/23141",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23141&MevzuatTertip=5",
+  "source_sha256": "c2067c825cdbbb1459776cbb2a93fbf8cec93a8cf1058f77096fb380ad998f70",
+  "source_bytes": 15269,
+  "published": "2016-12-27",
+  "gazette": "29931",
+  "in_force": "2016-12-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.12.2016)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 646,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23141-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
