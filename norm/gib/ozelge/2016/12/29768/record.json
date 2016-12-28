@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[2-2015/390]-267678",
+  "source_id": 29768,
+  "date": "2016-12-28",
+  "title": "Dernek tarafından internet ortamında düzenlenecek kermes nedeniyle iktisadi işletme oluşup oluşmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29768",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "e740092873a88a7036b137c042a6bc780a5675730c58b861c08df52b0ceedebf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
