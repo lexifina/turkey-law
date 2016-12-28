@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42551",
+  "decision_date": "2016-12-28",
+  "source_id": 13208,
+  "chamber": "5",
+  "file_number": "39792",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13208/",
+  "source_sha256": "cadeb4f18a25116db4aedba8b6c39caad657fce7a28b4ab1150f631b9a9d4a6b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
