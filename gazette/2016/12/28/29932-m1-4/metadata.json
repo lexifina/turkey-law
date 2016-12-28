@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-12-28",
+  "issue": "29932",
+  "edition": "mükerrer 1",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tarım ve Orman Araçlarının Çevresel ve Tahrik Ünitesi Performansına Yönelik Şartlar Hakkında Tip Onayı Yönetmeliği (AB/2015/96)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161228M1-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161228M1.htm",
+  "index_sha256": "c0ebeda1badae34ccd9b130a6fcd95a8249b573d02e50f7ab2e33610daf0234d",
+  "index_header": "28 Aralık 2016 ... 29932 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161228M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
