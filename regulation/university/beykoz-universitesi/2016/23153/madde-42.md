@@ -1,0 +1,5 @@
+Dil eğitimi ve öğretimi
+MADDE 42 – (1) Üniversite, öğrencilerin ikinci bir dil öğrenmelerini teşvik eder, buna yönelik programlar hazırlar.
+(2) Kısmen veya tamamen yabancı dilde eğitim-öğretim sunan programlara kayıt olan öğrenciler, ilk eğitim-öğretim yılı başında yabancı dil yeterlik sınavına katılmak ve bu sınavda başarısız olmaları halinde, yabancı dil hazırlık sınıfına devam etmek zorundadırlar. YÖK ve Üniversite tarafından kabul edilen yabancı dil muafiyet belgelerini sunan öğrencilere bu hüküm uygulanmaz.
+(3) Öğrencinin, dil eğitimi için hazırlık sınıfında geçirdiği öğrenim süresi, kayıt olduğu ön lisans, lisans veya lisansüstü programı için, 2547 sayılı Kanunda ve Üniversitenin ilgili yönetmeliklerinde öngörülen sürelerin dışında tutulur.
+(4) Yabancı dil hazırlık sınıfına devam eden öğrenciler, 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümlerine tabidirler.

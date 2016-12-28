@@ -1,0 +1,27 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen ;
+a) Başkan: Beykoz Üniversitesi Mütevelli Heyeti Başkanını,
+b) Birim müdürü: Genel Sekreterliğe bağlı idari birimlerin müdürlerini,
+c) Bölüm: Üniversitenin akademik birimlerindeki bölümleri,
+ç) Bölüm başkanı: Bölümlerin başkanlarını,
+d) Genel Sekreter: Beykoz Üniversitesi Genel Sekreterini,
+e) Dekan: Fakültelerin dekanlarını,
+f) Enstitü: Üniversitenin enstitülerini,
+g) Fakülte: Üniversitenin fakültelerini,
+ğ) Fakülte kurulu: Fakültelerin fakülte kurullarını,
+h) Fakülte yönetim kurulu: Fakültelerin yönetim kurullarını,
+ı) Merkez: Üniversitenin uygulama ve araştırma merkezlerini,
+i) Meslek yüksekokulu: Üniversitenin meslek yüksekokullarını,
+j) Müdür: Üniversitenin yüksekokul, meslek yüksekokulu, enstitü, uygulama ve araştırma merkezlerinin müdürlerini,
+k) Mütevelli Heyeti: Beykoz Üniversitesi Mütevelli Heyetini,
+l) Öğretim elemanları: Üniversitede ders veren öğretim üyeleri, öğretim görevlileri, okutmanlar ile öğretim yardımcılarını,
+m) Program: Üniversitenin akademik birimlerindeki programları,
+n) Rektör: Beykoz Üniversitesi Rektörünü,
+o) Senato: Beykoz Üniversitesi Senatosunu,
+ö) Üniversite: Beykoz Üniversitesini,
+p) Vakıf: Türkiye Lojistik Araştırmaları ve Eğitimi Vakfını,
+r) Vakıf Yönetim Kurulu: Türkiye Lojistik Araştırmaları ve Eğitimi Vakfı Yönetim Kurulunu,
+s) YÖK: Yükseköğretim Kurulunu,
+ş) Yönetim Kurulu: Beykoz Üniversitesi Yönetim Kurulunu,
+t) Yüksekokul: Üniversitenin yüksekokullarını
+ifade eder.

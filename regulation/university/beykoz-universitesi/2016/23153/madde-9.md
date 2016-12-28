@@ -1,0 +1,6 @@
+Rektör
+MADDE 9 – (1) Rektör, 2547 sayılı Kanun hükümleri doğrultusunda belirlenir. Rektör olarak atanacak kişinin, profesör akademik unvanına sahip olması ve 2547 sayılı Kanunda belirtilen yaş sınırını doldurmamış olması gerekir. Ancak, 2547 sayılı Kanunda belirtilen yaş sınırından önce atanmış olanlar görev süreleri bitinceye kadar rektörlük görevini sürdürebilirler. Görev süresi biten Rektör yeniden atanabilir.
+(2) Rektörün herhangi bir nedenle görevinden ayrılması durumunda, Mütevelli Heyeti yeni Rektör atanıncaya kadar Rektörlük kriterlerine uygun bir profesörü, Rektör vekili olmak üzere YÖK’e önerir. YÖK’ün olumlu görüşü alındıktan sonra Rektör vekili olarak atar.
+(3) Rektör, çalışmalarında kendisine yardımcı olmak üzere, Üniversitenin kadrolu profesörleri arasından en çok üç kişiyi Rektör yardımcısı olarak seçer ve Mütevelli Heyetinin onayına sunar. Rektör yardımcılarının sayısı Mütevelli Heyeti tarafından tespit edilir. Rektörün görevi sona erdiğinde Rektör yardımcılarının da görevi sona erer. Rektör yardımcıları, görevlendirilmelerindeki usule uygun olarak görevden alınabilirler.
+(4) Rektör, görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil olarak bırakır. Rektöre vekalet etme süresi altı aydan fazla sürerse, yeni Rektör atanır.
+(5) Rektör gerektiğinde Başkanın talimatıyla Üniversitenin tüzel kişiliğini temsil eder.

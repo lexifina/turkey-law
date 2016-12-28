@@ -1,0 +1,2 @@
+Eğitim-öğretim dili
+MADDE 41 – (1) Üniversitede, öğretim dili Türkçe’dir. Ancak, Üniversite Senatosunun gerekçeli kararı, Rektörün önerisi, Mütevelli Heyeti kararı, YÖK’ün onayı ile Üniversitenin bazı fakülteleri, yüksekokulları, meslek yüksekokulları, enstitüleri ile bunlara bağlı bölüm, program veya eğitim-öğretim yapan diğer alt birimlerinde kısmen veya tamamen yabancı dilde eğitim-öğretim yapılabilir.

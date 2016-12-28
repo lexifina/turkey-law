@@ -1,0 +1,11 @@
+Rektörün görevleri
+MADDE 10 – (1) Rektör, Üniversitenin misyonu ve vizyonu doğrultusunda Üniversitenin ve Üniversiteye bağlı birimlerin eğitim ve öğretim faaliyetlerinin planlanmasında, yürütülmesinde ve geliştirilmesinde, öğrencilere gerekli sosyal hizmetlerin sağlanmasında, eğitim-öğretim, bilimsel araştırma ve yayın faaliyetlerinin planlanıp yürütülmesinde, akademik ve idari süreçlerin gözetim ve denetiminin yapılmasında ve gerektiğinde Üniversitede güvenlik önlemleri alınmasında, bütün işlemlerin takip ve kontrol edilmesinde ve sonuçlarının alınmasında birinci derecede yetkili ve sorumludur.
+(2) Rektörün görevleri şunlardır:
+a) Mütevelli Heyeti ile Başkanın görev ve yetkileri saklı kalmak üzere, Üniversite teşkilatının en üst düzey yöneticisi olarak ilgili mevzuatla kendisine verilen yetkileri kullanmak ve görevleri yerine getirmek,
+b) Üniversite kurullarına başkanlık etmek, yükseköğretim üst kuruluşlarının kararlarını uygulamak, Üniversite kurullarının önerilerini inceleyerek karara bağlamak ve Üniversiteye bağlı akademik ve idari birimler arasında düzenli çalışmayı sağlamak,
+c) Her eğitim-öğretim yılı sonunda ve gerektiğinde, Üniversitenin eğitim-öğretim, bilimsel araştırma ve yayın faaliyetleri hakkında faaliyet raporları hazırlamak, Mütevelli Heyetine ve YÖK’e sunmak,
+ç) Üniversitenin yatırım programlarını, bütçesini ve kadro ihtiyaçlarını, bağlı birimlerinin ve Üniversite Yönetim Kurulu ile Senatonun görüş ve önerilerini aldıktan sonra hazırlamak ve Mütevelli Heyeti Başkanlığına sunmak,
+d) Gerekli gördüğü hallerde Üniversiteyi oluşturan kuruluş ve birimlerde görevli öğretim elemanlarının ve diğer personelin görev yerlerini değiştirmek veya bunlara yeni görevler vermek,
+e) Evrensel akademik ilkeler, değerler, özgürlükler ve ilgili yasal mevzuat çerçevesinde Üniversitenin birimleri ve her düzeydeki personeli üzerinde genel gözetim ve denetim görevini sürdürmek,
+f) 2547 sayılı Kanun ve ilgili diğer mevzuat hükümlerine göre, Mütevelli Heyeti tarafından verilen diğer görevleri yapmak.
+(3) Rektör, bu Yönetmelikte belirtilen yetkilerin kullanılması ve görevlerin yerine getirilmesinde ve bu görevlerin alt birimlere aktarılmasında, bunların gözetim ve denetimi ile ilgili kararların alınmasında, Mütevelli Heyetine ve YÖK’e karşı birinci derecede sorumludur.

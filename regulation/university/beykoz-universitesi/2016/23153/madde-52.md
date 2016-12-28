@@ -1,0 +1,2 @@
+Üniversite tesislerinin işletilmesi
+MADDE 52 – (1) Üniversite bünyesindeki uygulama oteli, konuk evi, yurt, restoran, kafeterya, kantin olarak hizmet verebilecek yerler ile Üniversiteyi geliştirmek amacıyla kurulabilecek tesislerin işletilmesi, Başkanın kararı ile işletmecilere verilebilir. Üniversite, tesisleri başka firmaların iştiraki ile de işletebilir. Bu tesislerin işletilmesinde uyulması gereken esaslar, Mütevelli Heyetince belirlenir.

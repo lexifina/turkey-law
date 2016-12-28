@@ -1,0 +1,5 @@
+Bölüm başkanı
+MADDE 22 – (1) Fakülte veya yüksekokullardaki bölümler, bölüm başkanları tarafından yönetilir. Bölüm başkanı, o bölümün tam zamanlı profesörleri, bulunmadığı takdirde doçentleri, doçent de bulunmadığı takdirde yardımcı doçentleri arasından, bölümün bağlı olduğu fakültenin dekanı veya yüksekokulun müdürü tarafından önerilir ve üç yıl süreyle görev yapmak üzere Rektör tarafından atanır. Süresi biten bölüm başkanı tekrar atanabilir.
+(2) Bölüm başkanı görevde bulunamayacağı süreler için bölümünde bulunan öğretim üyelerinden birini vekil olarak bırakır. Herhangi bir nedenle altı aydan fazla ayrılmalarda kalan süreyi tamamlamak üzere aynı yöntemle yeni bir bölüm başkanı atanır.
+(3) Bölüm başkanı, dekanın önerisi üzerine Rektör tarafından görevden alınabilir.
+(4) Bölüm başkanının önerisi üzerine, Üniversitenin bir öğretim üyesi Rektörün onayıyla bölüm başkan yardımcısı olarak atanır ve gerek görüldüğünde aynı usulle değiştirilebilir. Bölüm başkanının görevi sona erdiğinde yardımcısının görevi de sona erer.
