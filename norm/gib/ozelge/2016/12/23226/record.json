@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.42.16.01-120.03.05.01-101471",
+  "source_id": 23226,
+  "date": "2016-12-29",
+  "title": "Geçici olarak görevlendirilen personele ödenen gündeliklerin vergilendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23226",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "d2b45acc7f169e73cf634c82581795a853bb73d8f197499c12e831ac571edb06",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
