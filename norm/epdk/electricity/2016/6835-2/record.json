@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6835/2",
+  "decision_date": "2016-12-29",
+  "title": "1/1/2017 tarihinden itibaren uygulanan bağlantı bedeli",
+  "resmi_gazete_date": "2016-12-31",
+  "resmi_gazete_number": "29935",
+  "categories": [
+    "Bağlantı Bedeli"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RGL79qn2JGU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RGL79qn2JGU="
+  ],
+  "source_sha256": "eb7b571657f6c08bf8c9830d7114fe1e70a65738aa4f78bc9b6152f13a1ff6cc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1851,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-12-29",
+  "law_text_complete": true
+}
