@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6836-1-159",
+  "decision_date": "2016-12-29",
+  "title": "Organize Sanayi Bölgelerinin Elektrik Piyasası Faaliyetlerine İlişkin Yönetmelik (Yönetmelik)’in 17 nci maddesinin birinci fıkrası uyarınca, organize sanayi bölgesi onaylı sınırları içerisindeki katılımcılarına 2017 yılı için uygulanmak üzere dağıtım bedellerine ilişkin",
+  "resmi_gazete_date": "2016-12-31",
+  "resmi_gazete_number": "29935",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sSw2oeyWu0s=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sSw2oeyWu0s="
+  ],
+  "source_sha256": "27fb161ef78a407a18d14dad5f8e131c4a666207de2cefd5a7eba6a93bfbff28",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-12-29",
+  "law_text_complete": true
+}
