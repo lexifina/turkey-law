@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.61.15.01-120[-ÖZG-2016]-105",
+  "source_id": 21319,
+  "date": "2016-12-29",
+  "title": "Genç Girişimcilerde Kazanç İstisnası.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21319",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "4f230da11609887fe539f3cc4bca1c1f3659f49aa6e592dd0aaa55fd2ab017b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
