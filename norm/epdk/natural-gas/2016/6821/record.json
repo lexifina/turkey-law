@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6821",
+  "decision_date": "2016-12-29",
+  "title": "Boru Hatları İle Petrol Taşıma Anonim Şirketi’nin (BOTAŞ) İkinci Uygulama Dönemine İlişkin Yöntem Bildirimi",
+  "resmi_gazete_date": "2016-12-31",
+  "resmi_gazete_number": "29935",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dA2XRedrdhI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dA2XRedrdhI="
+  ],
+  "source_sha256": "15fcb0e4e61a577e01654d308faa41462bc40ac83449601a891dd966b80dd91f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-12-29",
+  "law_text_complete": false
+}
