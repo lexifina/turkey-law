@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6818",
+  "decision_date": "2016-12-29",
+  "title": "TEİAŞ tarafından 1/1/2017 tarihinden itibaren uygulanacak iletim sistem kullanım ve sistem işletim tarifelerine ilişkin",
+  "resmi_gazete_date": "2016-12-31",
+  "resmi_gazete_number": "29935",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RcLNDP0L5Vc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RcLNDP0L5Vc="
+  ],
+  "source_sha256": "66a24c36f94411c858498ca0ed6c74be2418258f3279e84d1f71c4a35e1d7c16",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2016-12-29",
+  "law_text_complete": false
+}
