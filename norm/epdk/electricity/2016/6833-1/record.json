@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6833-1",
+  "decision_date": "2016-12-29",
+  "title": "Tahmini Tüketim Değeri Belirleme Metodolojisinde Değişiklik Yapılması Hakkında Karar",
+  "resmi_gazete_date": "2016-12-31",
+  "resmi_gazete_number": "29935",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/l6RqZyW0aY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/l6RqZyW0aY="
+  ],
+  "source_sha256": "b2bd16d6d5fbac675ba6e62b947e36e90777d431ad3fb5157650710c74baaf81",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-12-29",
+  "law_text_complete": true
+}
