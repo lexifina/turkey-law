@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125[8-2016]-24587",
+  "source_id": 22551,
+  "date": "2016-12-29",
+  "title": "Mahkeme kararına göre ödenen tutarların kurumlar vergisi matrahından indirilip indirilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22551",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "f53f7a6e1ffe0a3190b5047b2ec14c12047daed67d46263cee3c0d9454d0b939",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
