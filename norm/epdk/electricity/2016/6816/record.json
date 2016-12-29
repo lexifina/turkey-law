@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6816",
+  "decision_date": "2016-12-29",
+  "title": "ADM Elektrik Dağıtım Anonim Şirketi’nin Hedef Kayıp Oranı (HKO) hesaplamasındaki maddi hatanın dikkate alınarak ilgili şirket için 2017 yılı Hedef Kayıp Oranı",
+  "categories": [
+    "EDAŞ Hedef Kayıp Oranları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=m9L/ECTEomI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=m9L/ECTEomI="
+  ],
+  "source_sha256": "b4104c4e6fc6f3e0cdbca4d3007bf61a50b940c705f46472b2b82e6e09231539",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 15926,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-12-29",
+  "law_text_complete": true
+}
