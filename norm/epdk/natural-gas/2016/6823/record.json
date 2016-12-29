@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6823",
+  "decision_date": "2016-12-29",
+  "title": "Palen Enerji Doğal Gaz Dağıtım End. ve Ticaret Anonim Şirketi’nin 2012-2016 yılları arası perakende satış tarifelerine ilişkin",
+  "resmi_gazete_date": "2016-12-31",
+  "resmi_gazete_number": "29935",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=m7w25NzzIGs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=m7w25NzzIGs="
+  ],
+  "source_sha256": "310c3f5d59c53b706cacc53eb0de3b0566e0819df59edca49aa1e77bf49fee9d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2016-12-29",
+  "law_text_complete": true
+}
