@@ -1,0 +1,1 @@
+MADDE 2 – (1) 8/12/2012 tarihli ve 28491 sayılı Resmî Gazete’de yayımlanan Kalibra International Metroloji Ltd. Şti.’nin Otomatik Olmayan Tartı Aletleri Yönetmeliği (2009/23/AT) Kapsamında Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (Tebliğ No: MSG-2012/39) yürürlükten kaldırılmıştır.

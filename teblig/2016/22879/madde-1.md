@@ -1,0 +1,2 @@
+MADDE 1 – (1) (Değişik:RG-30/12/2016-29934)
+Avrupa Komisyonu tarafından 2418 kimlik kayıt numarası tahsis edilmiş olan Kalibra International Metroloji Ltd. Şti. (Adresi: İkitelli OSB Esenler San. Sit. 24 Blok No:10 Başakşehir/İSTANBUL), 2/7/2016 tarihli ve 29760 sayılı Resmî Gazete’de yayımlanan Otomatik Olmayan Tartı Aletleri Yönetmeliği (2014/31/AB)’nin EK-II’sinde yer alan Modül F – Ürün Doğrulamasını Esas Alan Tipe Uygunluk Beyanı ile Modül F1 – Ürün Doğrulamasını Esas Alan Uygunluk Beyanı yöntemleri kapsamında onaylanmış kuruluş olarak görevlendirilmiştir.

@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.22879",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KALİBRA INTERNATIONAL METROLOJİ LTD. ŞTİ.’NİN OTOMATİK OLMAYAN TARTI ALETLERİ YÖNETMELİĞİ (2014/31/AB) KAPSAMINDA ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (MSG: 2016/11)",
+  "number": "22879",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2016/22879",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22879&MevzuatTertip=5",
+  "source_sha256": "a524ee577f3a67b569542eae6d0feb78dfaec49095fd73becf807b77779bd570",
+  "source_bytes": 8020,
+  "published": "2016-09-28",
+  "gazette": "29841",
+  "in_force": "2016-12-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/12/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-12-30",
+      "RG-30/12/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 151,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
