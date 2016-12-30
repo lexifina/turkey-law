@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-120[Mük.20-2016/20-626]-188",
+  "source_id": 21318,
+  "date": "2016-12-30",
+  "title": "Genç girişimcilere ilişkin kazanç istisnası uygulamasında gelir geçici vergi beyannamesi verilip verilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21318",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "4dfa51412ce6bd026169273c71725d35b29dbfeddb1fa48f52e46f98609d9a7b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
