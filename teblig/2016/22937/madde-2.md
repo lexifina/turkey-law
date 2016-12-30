@@ -1,0 +1,1 @@
+MADDE 2 – (1) 29/11/2013 tarihli ve 28836 sayılı Resmî Gazete’de yayımlanan Kalibra International Metroloji Ltd. Şti.’nin Ölçü Aletleri Yönetmeliği (2004/22/AT) Kapsamında Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (Tebliğ No: MSG-2013/38) yürürlükten kaldırılmıştır.
