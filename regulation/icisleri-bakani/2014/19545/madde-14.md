@@ -1,0 +1,3 @@
+Ödenek tahsis usulleri ve ödeneklerin devri
+MADDE 14 – (Değişik:RG-30/12/2016-29934)
+(1) Bakanlıklar ve diğer merkezi idare kuruluşları, illerde yapacakları her türlü yatırım, yapım, bakım, onarım ve yardım işlerini bu Başkanlık aracılığıyla yapabilirler. Bu işler karşılığı yapılacak kaynak transferlerinin hangi aşamada ne surette avans veya tahakkuk suretiyle yapılacağı, ihaleye çıkılmasında kaynağın sağlanması yöntemi, avans karşılığı ödeneğin saklı tutulması, ödenek devri, aranacak belgeler ile bu kapsamdaki iş ve işlemler İçişleri Bakanlığı ve Maliye Bakanlığınca belirlenen Esas ve Usullere göre yürütülür.

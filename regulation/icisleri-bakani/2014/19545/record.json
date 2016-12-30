@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.19545",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YATIRIM İZLEME VE KOORDİNASYON BAŞKANLIĞI GÖREV, YETKİ VE SORUMLULUKLARI İLE ÇALIŞMA USUL VE ESASLARINA DAİR YÖNETMELİK",
+  "number": "19545",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2014/19545",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19545&MevzuatTertip=5",
+  "source_sha256": "381c9abbffece95783d2721ed8d25df378b8fe8add04f470721261eaa65f502c",
+  "source_bytes": 51208,
+  "published": "2014-04-04",
+  "gazette": "28962",
+  "in_force": "2016-12-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/12/2016\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2016-12-30",
+      "RG-30/12/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 30/3/2014 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2509,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

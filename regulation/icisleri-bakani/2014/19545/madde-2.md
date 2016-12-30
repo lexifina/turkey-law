@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 14/2/1985 tarihli ve 3152 sayılı İçişleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanunun 28 ve 28/A maddeleri, 12/11/2012 tarihli ve 6360 sayılı On Dört İlde Büyükşehir Belediyesi ve Yirmi Yedi İlçe Kurulması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun 3 üncü maddesi ile 12/4/2000 tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanununun geçici 12 nci maddesine dayanılarak hazırlanmıştır.
