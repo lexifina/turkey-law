@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-135[15-2015/20-114]-190",
+  "source_id": 33665,
+  "date": "2016-12-30",
+  "title": "Şasi kamyon olarak ÖTVsi ödenen araç üzerine kayıt ve tescil edilmeden önce üst yapı monte edilmiş olması halinde ek ÖTV tarhiyatı yapılıp yapılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33665",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "5bd8cc5b079cdd36998d86ecf93e319b6db7f4e59e06bb3606b8a3b0fec2913e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
