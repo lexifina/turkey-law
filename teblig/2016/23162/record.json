@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.23162",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2017 YILI TANIKLIK ÜCRET TARİFESİ",
+  "number": "23162",
+  "path": "teblig/2016/23162",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23162&MevzuatTertip=5",
+  "source_sha256": "6a72ec02e980b241ecc913b451b9ccf87ad6963a25f3748289efaa9ec7ed5c9d",
+  "source_bytes": 8529,
+  "published": "2016-12-30",
+  "gazette": "29934",
+  "in_force": "2016-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2016)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 169,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
