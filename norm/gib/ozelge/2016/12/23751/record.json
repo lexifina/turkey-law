@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-120[94-2015/20-574]-189",
+  "source_id": 23751,
+  "date": "2016-12-30",
+  "title": "Vergi mükellefi olmayan köylüden kiralanan tarla için, gelir stopaj, KDV ve damga vergisi uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/23751",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c7ae303b36bc5ab0d006146db2dc1460ed0afec67257523de2ae7889364bfa4a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
