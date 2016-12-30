@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2016-12-30",
+  "issue": "29934",
+  "edition": "mükerrer 2",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "BAKANLAR KURULU KARARI",
+  "title": "2016/9645 İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetveli",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161230M2-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161230M2.htm",
+  "index_sha256": "4ceeb10cc8c9f63422174b9f52184e5138d2b4efbf8e83ffe03aeabe0e659f9d",
+  "index_header": "30 Aralık 2016 ... 29934 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2016/12/20161230M2.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
