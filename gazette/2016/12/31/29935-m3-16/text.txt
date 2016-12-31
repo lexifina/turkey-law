@@ -1,0 +1,190 @@
+31 Aralık 2016 CUMARTESİ
+Resmî Gazete
+Sayı : 29935 (3. Mükerrer)
+TEBLİĞ
+Gümrük ve Ticaret Bakanlığı ve Başbakanlık (Hazine
+Müsteşarlığı)’tan:
+ÇEKLERDE KAREKOD UYGULAMASINA İLİŞKİN TEBLİĞ
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, çekte yer alacak MERSİS
+numarası ile karekodun tanım ve içerikleri ile Karekod Okutma ve Bilgi
+Paylaşımı Sisteminin kurulmasına ve bu Sistemde tutulan bilgilerin üçüncü
+kişilerin erişimine sunulmasına ilişkin usul ve esasları belirlemektir.
+(2) Bu Tebliğ, 19/10/2005 tarihli ve 5411 sayılı
+Bankacılık Kanunu uyarınca kurulan bankalarca veya yurt dışında kurulu
+bankaların 5411 sayılı Kanun uyarınca Türkiye’de faaliyet gösteren
+şubelerince bastırılan çekleri kapsamaktadır.
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 13/1/2011 tarihli ve 6102 sayılı
+Türk Ticaret Kanununun 780 inci maddesinin dördüncü fıkrasına dayanılarak
+hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Tebliğde geçen;
+a) Bakanlık: Gümrük ve Ticaret Bakanlığını,
+b) Karekod: 6102 sayılı Kanunun 780 inci maddesinin
+birinci fıkrası uyarınca çekin unsurlarından olan ve çek üzerine kare veya
+dikdörtgen olarak basılabilen, ISO/IEC 16022 International Symbology
+Specification-Data Matrix ECC 200 Versiyonunu esas alan, 6102 sayılı
+Kanunun 780 inci maddesinin ikinci fıkrasında ve bu Tebliğde sayılan diğer
+bilgilere erişilmesine ve bunların raporlanmasına olanak sağlayan iki
+boyutlu barkodu,
+c) Karekodlu Çek Raporu: Karekodun okutulması
+suretiyle Türk Ticaret Kanununun 780 inci maddesinin ikinci fıkrasında ve
+bu Tebliğde yer verilen bilgileri içeren ve Karekod Okutma ve Bilgi
+Paylaşım Sistemi üzerinden sunulan raporu,
+ç) Karekod Okutma ve Bilgi Paylaşım Sistemi: 6102
+sayılı Kanunun 780 inci maddesinin ikinci fıkrasında ve bu Tebliğde yer
+verilen diğer bilgilere erişilmesini sağlayan sistemi,
+d) Kaynak kuruluş: Bankalar haricinde, Sistem
+İşleticisinin bilgi temin ettiği özel hukuk tüzel kişileri ile kamu kurum
+ve kuruluşlarını, kamu kurumu niteliğindeki meslek kuruluşları ve bunların
+üst kuruluşlarını,
+e) MERSİS: Ticaret sicili işlemlerinin elektronik
+ortamda yürütüldüğü, ticaret sicili kayıtları ile tescil ve ilan edilmesi
+gereken içeriklerin düzenli olarak depolandığı ve elektronik ortamda
+sunulduğu, Bakanlık ile Türkiye Odalar ve Borsalar Birliği nezdinde
+oluşturulan ve işletilen merkezi ortak veri tabanını da içeren bilgi
+sistemini,
+f) MERSİS numarası: MERSİS tarafından verilen ve
+özel algoritma ile üretilen tekil numarayı,
+g) Müsteşarlık: Hazine Müsteşarlığını,
+ğ) Seri numarası: Bankalar tarafından verilen ve
+5941 sayılı Çek Kanununun 2 nci maddesinin altıncı fıkrası kapsamında
+hazırlanan tebliğde belirtilen seri numarasını,
+h) Sistem İşleticisi: Türkiye Bankalar Birliği Risk
+Merkezini ve/veya Yetkili Bilgi Alışveriş Kuruluşunu,
+ı) Yetkili Bilgi Alışveriş Kuruluşu: 5411 sayılı
+Bankacılık Kanununun 73 üncü maddesinin dördüncü fıkrası uyarınca kurulmuş
+olan ve Türkiye Bankalar Birliği Risk Merkezinin, 5411 sayılı Kanunun Ek 1
+inci maddesinin onbirinci fıkrası kapsamında bilgi alışverişini
+gerçekleştirdiği şirketi,
+ifade eder.
+Karekodlu
+çek raporunda yer alan bilgiler
+MADDE 4 –
+(1) Karekodlu çek raporuyla;
+a) Muhatap bankanın ticaret unvanı,
+b) Seri numarası,
+c) Çek hesabı sahibinin adı, soyadı veya ticaret
+unvanı,
+ç) Çek hesabı sahibinin tacir olması hâlinde,
+ticaret siciline tescil edilen yetkililerinin adı, soyadı veya ticaret
+unvanı,
+d) Çek hesabı sahibinin, çek hesabı bulunan toplam
+banka sayısı,
+e) Çek hesabı sahibine ait bankalara ibraz
+edilmemiş çeklere ilişkin olarak lehdar tarafından karekod okutma ve bilgi
+paylaşım sistemine kaydedilen çeklerin adet ve tutarı,
+f) Düzenlenerek bankalara teslim edilen çeklerin
+adet ve tutarı,
+g) Son beş yıl içerisinde ibrazında ödenen çeklerin
+adet ve tutarı,
+ğ) İbraz edilen ilk çekin ibraz tarihi,
+h) İbraz edilen son çekin ibraz tarihi,
+ı) İbrazında ödenen son çekin ibraz tarihi,
+i) Son beş yılda “karşılıksızdır” işlemi gören ve
+halen ödenmemiş çeklerin adedi ve tutarları,
+j) Son beş yılda “karşılıksızdır” işlemi gören ve
+sonradan ödenen çeklerin adedi ve tutarı,
+k) Son beş yılda “karşılıksızdır” işlemi gören son
+çekin ibraz tarihi,
+l) Çek hesabı sahibi hakkında çek hesabı açma
+yasağı bulunup bulunmadığı, varsa yasaklama kararının tarihi,
+m) Her bir çek yaprağı ile ilgili olarak tedbir
+kaydı olup olmadığı,
+n) Çek hesabı sahibi tacirse, iflasına karar
+verilip verilmediği, iflasına karar verilmişse kararın tarihi,
+çek hesabı sahibi ya da cirantanın rızası
+aranmaksızın üçüncü kişilerin erişimine sunulur.
+(2) Karekodlu çek raporunda, Sistem İşleticisi tarafından
+birinci fıkrada yer verilen bilgiler kullanılarak farklı hesaplamalar
+yapılması suretiyle türetilen bilgilere, ilgili kanunlarda aleni oldukları
+hükme bağlanan ve paylaşılması rıza gerektirmeyen bilgilere ve çek hesabı
+sahibi ya da ciranta tarafından üçüncü kişilerin erişimine açılmasına
+yazılı olarak onay verilen diğer bilgilere yer verilebilir.
+(3) Birinci fıkrada yer alan bilgiler Sistem
+İşleticisi tarafından bankalardan, kaynak kuruluşlardan ve çek lehtarlarından
+ilgili mevzuat çerçevesinde temin edilecek olup, bu bilgilerden Sistem
+İşleticisine iletilmeyenlere karekodlu çek raporunda yer verilmez.
+Karekod
+okutma ve bilgi paylaşım sistemi
+MADDE 5 – (1) Karekod Okutma ve Bilgi Paylaşım Sistemi, 5411
+sayılı Kanunun Ek 1 inci madde hükmü uyarınca kurulan Türkiye Bankalar
+Birliği Risk Merkezi tarafından oluşturulur. Risk Merkezi sistemdeki
+verileri, 5411 sayılı Kanunun Ek 1 inci maddesinin on birinci fıkrası
+uyarınca bilgi alışverişini gerçekleştirdiği şirket ile paylaşmaya
+yetkilidir. Bu yetki kullanıldığı takdirde sistem bilgilerin paylaşıldığı
+şirket nezdinde kurulabilir.
+(2) Karekodlu çek raporuna Karekod Okutma ve Bilgi
+Paylaşım Sistemi üzerinden erişilir.
+Çek
+hesabı sahiplerinin karekod okutma ve bilgi paylaşımı sistemine
+kaydedilmesi
+MADDE 6 – (1) Bankalar çek hesabı açtıkları gerçek ve tüzel
+kişiler ile çek hesabı sahibi tüzel kişi ise hesap açılış tarihi itibarıyla
+tüzel kişi tarafından bildirilen ve tüzel kişi adına tüm işlemleri yapmaya
+yetkili kılınmış gerçek kişileri Sisteme kaydeder.
+Çeklerin
+karekod okutma ve bilgi paylaşımı sistemine kaydedilmesi
+MADDE 7 – (1) Lehine karekodlu çek düzenlenen gerçek ya da
+tüzel kişi, teslim aldığı çeki en geç ibraz tarihine kadar Karekod Okutma
+ve Bilgi Paylaşım Sistemine kaydeder.
+Bilgilerin
+temin edilmesi ve paylaşılması
+MADDE 8 – (1) Türkiye Bankalar Birliği Risk Merkezi, 5411
+sayılı Kanunun Ek 1 inci maddesi gereğince topladığı bilgileri Yetkili
+Bilgi Alışveriş Kuruluşuyla paylaşır.
+(2) Sistem İşleticisinin sorumluluğu, kendisine
+iletilen bilgilerin sistem vasıtasıyla okutturulması veya raporlanmasıyla
+sınırlı olup, bilgilerin doğruluğu veya güncelliği banka ya da kaynak
+kuruluşun sorumluluğundadır. Bilgilerin doğruluğu veya güncelliğine ilişkin
+talep ve itirazlar ile güncellenmesi, düzeltilmesi, silinmesi veya
+değiştirilmesi talepleri çek hesabı sahibi tarafından doğrudan bilginin
+kaynağı olan bankaya veya kaynak kuruluşa yapılır. Sistem İşleticisi
+bilgilerin doğruluğu ve güncelliğine ilişkin talep ve itirazların bilgiyi
+sağlayan kuruluşlara iletilmesine aracılık edecek bir sistem kurabilir.
+Teknik
+altyapıya ve güvenliğe ilişkin hususlar
+MADDE 9 – (1) Karekod Okutma ve Bilgi Paylaşım Sisteminin
+güvenli şekilde işletilebilmesi için uyulması gereken asgari unsurlar Risk
+Merkezi tarafından belirlenir ve çek hesabı açılışı yapan bankalara
+duyurulur. Türkiye Bankalar Birliği Risk Merkezi veya Yetkili Bilgi
+Alışveriş Kuruluşu asgari unsurlara uyulması ve sistemin güvenliği
+hususunda gerekli önlemleri alır.
+(2) Bu maddenin uygulanmasında Bankacılık Düzenleme
+ve Denetleme Kurumunca yayımlanan ilgili mevzuat dikkate alınır.
+(3) Bankalar tarafından basılacak çek yapraklarında
+yer alan karekodun sisteme erişim sağlayacak şekilde uyumlaştırılmasından
+Sistem İşleticisi ve bankalar sorumludur.
+(4) Sistem İşleticisi, sisteme erişim için
+kullanılacak olan bilişim teknolojilerini (akıllı telefon uygulamaları,
+internet sitesi vb.) yaygın olarak kullanılan farklı platformlarla uyumlu
+şekilde geliştirir, günceller ve ücretsiz olarak kullanıcılara sunar.
+Alınacak
+ücretler
+MADDE 10
+– (1) Bu Tebliğ uyarınca yerine
+getirilecek hizmetlerden alınacak ücretler, sistem işleticisinin teklifi
+üzerine Hazine Müsteşarlığının görüşü alınarak Bakanlıkça belirlenir.
+Diğer
+hükümler
+MADDE 11
+– (1) Bankalar, 31/12/2016
+tarihinden sonra karekod içermeyen çek yaprağı basamaz ve veremez.
+(2) Yabancı banka tarafından bastırılmış çeklerde
+“seri numarası” ve “karekod” bulunmaması senet olarak çekin geçerliliğini
+etkilemez.
+(3) Sistem İşleticisi, Raporda yer alan bilgiler
+çerçevesinde, kapsamı Bakanlık ve Müsteşarlıkça daha sonradan belirlenecek,
+bir önceki ayın toplulaştırılmış verilerini içeren bir raporu her ayın
+yedinci iş gününden önce Bakanlığa ve Müsteşarlığa iletir.
+Yürürlük
+MADDE 12
+– (1) Bu Tebliğin 4, 6 ve 8 inci
+maddeleri 1/1/2017 tarihinde, 7 nci maddesi 31/12/2017 tarihinde, diğer
+hükümleri yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 13
+– (1) Bu Tebliğ hükümlerini Gümrük
+ve Ticaret Bakanı ile Müsteşarlığın bağlı bulunduğu Bakan birlikte yürütür.
