@@ -1,0 +1,28 @@
+{
+  "number": "year-file",
+  "year": 2016,
+  "title": "2016 Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2016-12-31",
+  "date_precision": "year",
+  "period": "2016",
+  "source": "https://www.afyonozelidare.gov.tr/2016-meclis-kararlari",
+  "official_page": "https://www.afyonozelidare.gov.tr/2016-meclis-kararlari",
+  "official_document": "https://www.afyonozelidare.gov.tr/kurumlar/afyonozelidare.gov.tr/Dökümanlar/meclis karar/2016_meclis_kararlari.pdf",
+  "source_sha256": "5d3a8b3fd0a9c6b8f96d22cf36ee3114299f1163b7e61c586542658e960d2fa1",
+  "issuer": "Afyonkarahisar İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number/subject as published (official list or file name); complete decision text is in the linked official document, not transcribed",
+  "in_force": "2016-12-31",
+  "in_force_basis": "The official source prints only the year of this file (2016); date set to 31 December of that year (turkey-law date convention for year-only sources, Alan 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes",
+    "decision numbers and subjects"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2016 Meclis Kararları",
+  "item_title": "2016 Meclis Kararları"
+}
