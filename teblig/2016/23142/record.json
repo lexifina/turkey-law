@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23142",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 476)",
+  "number": "23142",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2016/23142",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23142&MevzuatTertip=5",
+  "source_sha256": "e7c42da98135cf1b3f4e9efb72536e8dc250ed14ce7b1af7e08fe0a221fec852",
+  "source_bytes": 9144,
+  "published": "2016-12-27",
+  "gazette": "29931",
+  "in_force": "2017-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 271,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23142-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

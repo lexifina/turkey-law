@@ -1,0 +1,2 @@
+Yeniden değerleme oranında artırılan had ve tutarlar
+MADDE 3 – (1) 213 sayılı Kanunun 414 üncü maddesi hükmü uyarınca, aynı Kanunun 104, mükerrer 115, 153/A, 177, 232, 252, 313, 343, 352 (Kanuna Bağlı Cetvel), 353, 355, mükerrer 355 ve 370 inci maddelerinde yer alıp 2016 yılında uygulanan had ve tutarların, 2016 yılı için %3,83 (üç virgül seksen üç) olarak tespit edilen yeniden değerleme oranında artırılması suretiyle belirlenen ve 1/1/2017 tarihinden itibaren uygulanacak olan had ve tutarlar ekli listede gösterilmiştir.
