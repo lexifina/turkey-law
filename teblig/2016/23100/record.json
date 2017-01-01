@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.23100",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "6446 SAYILI ELEKTRİK PİYASASI KANUNUNUN 16 NCI MADDESİ UYARINCA 2017 YILINDA UYGULANACAK PARA CEZALARI HAKKINDA TEBLİĞ",
+  "number": "23100",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu Başkanı",
+  "path": "teblig/2016/23100",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23100&MevzuatTertip=5",
+  "source_sha256": "89ab1fd4d1ef8c53a17057fccf52f59e2ff55df2e4367b7912b2389be2e0f4cc",
+  "source_bytes": 14944,
+  "published": "2016-12-08",
+  "gazette": "29912",
+  "in_force": "2017-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 219,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
