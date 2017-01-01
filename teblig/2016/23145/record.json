@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.23145",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 79)",
+  "number": "23145",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2016/23145",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23145&MevzuatTertip=5",
+  "source_sha256": "d4aa48e48fac8cb65c2ac43f99ad4cba4b61b4e26a2a7d99fe26c4f5ac799c92",
+  "source_bytes": 14079,
+  "published": "2016-12-27",
+  "gazette": "29931",
+  "in_force": "2017-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 262,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
