@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununa bağlı tarifelerde yer alan maktu harçların (maktu ve nispî harçların asgarî ve azami miktarlarını belirleyen hadler dahil) yeniden değerleme oranı dahil olmak üzere Bakanlar Kurulu Kararı ile belirlenen orana göre hesaplanarak tespit ve ilan edilmesidir.

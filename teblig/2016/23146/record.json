@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23146",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 78)",
+  "number": "23146",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2016/23146",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23146&MevzuatTertip=5",
+  "source_sha256": "6676b54b8ced269fa0913de6410b6370307c4e78ab082f70c7c6fbe6b22206f9",
+  "source_bytes": 9454,
+  "published": "2016-12-27",
+  "gazette": "29931",
+  "in_force": "2017-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 285,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23146-Ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
