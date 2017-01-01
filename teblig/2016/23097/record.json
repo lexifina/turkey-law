@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.23097",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4646 SAYILI DOĞAL GAZ PİYASASI KANUNU (ELEKTRİK PİYASASI KANUNUNDA DEĞİŞİKLİK YAPILMASI VE DOĞAL GAZ PİYASASI HAKKINDA KANUN)’NUN 9 UNCU MADDESİ UYARINCA 2017 YILINDA UYGULANACAK PARA CEZALARI HAKKINDA TEBLİĞ",
+  "number": "23097",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu Başkanı",
+  "path": "teblig/2016/23097",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23097&MevzuatTertip=5",
+  "source_sha256": "3a945646348f32a92220db00a2c6466103ce1beaf8b2c677ba664f72ecbb399f",
+  "source_bytes": 16204,
+  "published": "2016-12-08",
+  "gazette": "29912",
+  "in_force": "2017-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 247,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
