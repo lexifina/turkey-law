@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38873",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BANKACILIK HİZMETLERİNİN ERİŞİLEBİLİRLİĞİNE DAİR YÖNETMELİK",
+  "number": "38873",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2016/38873",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38873&MevzuatTertip=5",
+  "source_sha256": "e5bc43efaa8b0124560f3da8d5372a655cdc3f3db1357f9de5b2b4a6092d9bf5",
+  "source_bytes": 35094,
+  "published": "2016-06-18",
+  "gazette": "29746",
+  "in_force": "2017-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2017 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2017 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1803,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
