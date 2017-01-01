@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.23083",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "6502 SAYILI TÜKETİCİNİN KORUNMASI HAKKINDA KANUNUN 77 NCİ MADDESİNE GÖRE 2017 YILINDA UYGULANACAK OLAN İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ",
+  "number": "23083",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2016/23083",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23083&MevzuatTertip=5",
+  "source_sha256": "4f64ac55fdbcca74481060f8f03003bac9543b25d8aadb74b31673ba05a3dfa0",
+  "source_bytes": 31406,
+  "published": "2016-12-03",
+  "gazette": "29907",
+  "in_force": "2017-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 309,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
