@@ -1,0 +1,3 @@
+Madde 51 – (10/2/1954 tarih ve 6245 sayılı Kanunun hükmüdür.)
+Devletin misafiri veya ziyaretçisi olarak Türkiye'ye gelecek yabancılara tefrik edilen memurlara, memuriyet ve asli sıfatları ne olursa olsun, refakatin şekli ve vaziyetine göre tanzim edilecek müfredatlı hesap pusulasına istinaden yol, ikamet, yemek, içmek ve teferruatı için ihtiyar ettikleri masraflar ödenerek başkaca harcırah verilmez. Ancak misafir ve ziyaretçilere iltihak etmek veya bunları karşılamak üzere başka mahalle gidenlerle bunlardan ayrılarak eski vazifeleri mevkiine dönenlere bu gidiş ve dönüşleri için bu kanuna göre müstahak oldukları yol masrafı ve yevmiye verilir.
+423

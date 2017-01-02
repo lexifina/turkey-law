@@ -1,0 +1,2 @@
+12 – 17/4/2008 tarihli ve 5754 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 18, 20.)
+Madde 18 – ilk cümle- (11/12/1981 tarihli ve 2562 sayılı Kanunun hükmüdür.) Memurlar, yardımcı hizmetler sınıfına dahil personel ve kurumlarda yalnız ödenek mukabili çalışanlar ile aşağıdaki (c) bendinde yazılan hallerde aile fertlerinden, memuriyet mahalli dışına;

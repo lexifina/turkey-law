@@ -1,0 +1,3 @@
+Madde 13 – (10/2/1954 tarihli ve 6245 sayılı Kanunun hükmüdür.)
+Daimi memuriyetle bir mahalle tayin olunup da yolda veya yeni memuriyet mahallinde işe başlamadan evvel vefat eden memur veya hizmetli ailesini birlikte götürmüş bulunuyorsa, harcıraha müstahak aile efradına ölümün vukubulduğu mahalden itibaren ve ailesini birlikte götürmemiş ise bunlara vefat tarihinde bulundukları mahalden itibaren, 45 inci madde esasına göre harcırah verilir. (1)
+13 – 10/9/2014 tarihli ve 6552 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası: Geçici Madde 4.)

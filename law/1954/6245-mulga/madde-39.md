@@ -1,0 +1,2 @@
+Madde 39 – (10/2/1954 tarih ve 6245 sayılı Kanunun hükmüdür.)
+Şehir ve kasabaların belediye hudutları dahilinde resmi bir vazife ile muvakkaten bir tarafa gönderilenlere yevmiye verilmez. Şehir ve kasaba belediyehudutları haricindeki bir yere aynı sebeple gönderilenlerden buralarda öğle ve akşam yemeği zamanlarından birini geçirenlere 1/3, ikisini geçirenlere 2/3 vegeceyi de geçirenlere tam yevmiye verilir.

@@ -1,0 +1,4 @@
+Madde 42 – (10/2/1954 tarih ve 6245 sayılı Kanunun hükmüdür.)
+Yurt içinde ve dışında muvakkat bir vazife ile başka bir mahalle gönderilenlere bu kanuna göre verilecek yevmiyeler, bu mahalle varış tarihinden itibaren ilk 90 gün için tam ve müteakip müddet için 2/3 nispetinde ödenir.
+Yurt içinde muvakkat vazife mahalline varış tarihinden itibaren bir yıllık devre zarfında aynı yerde,aynı iş için aynı şahsa 180 günden fazla yevmiye verilemez. Muvakkat vazifede yapılacak inkıtalar bu müddeti veya gündelik nispetinitezyide müessir olamaz.
+Yevmiyeleri 33 üncü maddenin (b) fıkrasına göre tesbit edilenlerle 50 ncimaddede zikrolunanlar ve etüd ve inşaat maksadiyle arazi üzerinde bilfiil çalışan yüksek mühendis, mühendis, jeolog, fen memuru, desinatör, topoğraf ve bunlarlarla birlikte çalışması zaruri bulunan diğer memur ve hizmetliler hakkında bu madde hükmü tatbik olunmaz.

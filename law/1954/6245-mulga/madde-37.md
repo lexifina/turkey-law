@@ -1,0 +1,2 @@
+Madde 37 – (10/2/1954 tarih ve 6245 sayılı Kanunun hükmüdür.)
+Mesleki bilgilerini artırmak maksadiyle vazife mahallerinden başka mahallerde açılan kurs veya mekteplere gönderilenlere yatacak yer temin edilip edilemediğine göre verilecek yevmiye,muvakkat vazife ile gönderilen emsallerine verilen yevmiyenin 1/2 sini tecavüz etmemek ve 4 liradan aşağı olmamak üzere, Maliye Vekaleti ve ilgili vekaletçe müştereken tesbit olunur. Bunlardan iaşe edilenlerin iaşe bedelleri yevmiyelerinden mahsup edilir.
