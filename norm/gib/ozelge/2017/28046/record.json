@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "61316220-Kurumlar Vergisi-1",
+  "source_id": 28046,
+  "date": "2017-01-02",
+  "title": "Şirketteki alacağın mahkeme yoluyla reddedilmesi halinde özel fonda tutulan tutar hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/28046",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "9717b65c0410e3945e302a1b1184f433a05c56f44d0d5c45eacd26937de59e43",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
