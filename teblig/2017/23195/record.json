@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.23195",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MAL VE HİZMET TEDARİKİNDE ALACAKLIYA YAPILAN GEÇ ÖDEMELERE İLİŞKİN TEMERRÜT FAİZ ORANININ TESPİTİ HAKKINDA TEBLİĞ",
+  "number": "23195",
+  "path": "teblig/2017/23195",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23195&MevzuatTertip=5",
+  "source_sha256": "08882718a005bd68ded6e1d909c4ac601ed51398172b446f18124e7b983783ed",
+  "source_bytes": 6834,
+  "published": "2017-01-02",
+  "gazette": "29936",
+  "in_force": "2017-01-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.01.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 84,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2017/01/20170102-8.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
