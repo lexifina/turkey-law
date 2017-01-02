@@ -1,0 +1,1 @@
+Madde 22 – birinci fıkra –e bendi – (28/3/1985 tarihli ve 3176 sayılı Kanunun hükmüdür.) e) Yukarıdaki bentlerde sayılanlar dışında kalan bütün motorlu araçların tescilleri trafik tescil kuruluşlarınca,

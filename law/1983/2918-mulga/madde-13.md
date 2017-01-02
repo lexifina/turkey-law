@@ -1,0 +1,1 @@
+Madde 13 – fıkra bir – (13/10/1983 tarihli ve 2918 sayılı Kanunun hükmüdür.) Karayolunun yapım ve bakımı ile görevli ve sorumlu bütün kuruluşlar karayolu yapısını, trafik güvenliğini sağlayacak durumda bulundurmakla yükümlüdürler.

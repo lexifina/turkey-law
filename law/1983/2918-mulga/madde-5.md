@@ -1,0 +1,1 @@
+Madde 5 – fıkra bir – bent b – alt bent 9 - (13/10/1983 tarihli ve 2918 sayılı Kanunun hükmüdür.) Ülke çapında taşıtların ve sürücülerin sicillerini tutmak, teknik ve hukuki değişikliklerini işlemek, istatistiki bilgileri toplamak ve değerlendirmek,

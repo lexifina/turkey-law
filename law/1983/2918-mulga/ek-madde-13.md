@@ -1,0 +1,2 @@
+Ek Madde 13 – (8/3/2000 tarihli ve 4550 sayılı Kanunun hükmüdür.)
+Bu Kanunda yazılı suçlardan (…)(2) 51 inci maddenin üçüncü fıkrasında geçen “bir yıl içinde hız sınırını 5 defa ihlal etmek”, 118 inci maddenin ikinci ve üçüncü fıkralarında yazılı “100 ceza puanını doldurmak” suçlarından birinin tespiti halinde, sürücü belgelerinin geçici olarak geri alınması işlemlerine bu Kanunun 6 ncı maddesinde sayılan trafik görevlileri yetkilidir.(2)

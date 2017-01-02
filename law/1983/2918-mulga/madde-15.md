@@ -1,0 +1,1 @@
+Madde 15 – fıkra bir – (13/10/1983 tarihli ve 2918 sayılı Kanunun hükmüdür.) Trafiği düzenlemede kullanılan işaret levhaları, ışıklı ve sesli işaretler, yer işaretlemeleri ile benzeri trafik işaretleri, karayolunun yapım ve bakımı ile görevli kuruluşlarca, temin ve tesis edilerek sürekliliği ve işlerliği sağlanır.

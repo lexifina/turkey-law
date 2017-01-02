@@ -1,0 +1,2 @@
+Madde 36- üçüncü fıkra – dördüncü cümle- (21/5/1997 tarihli ve 4262 sayılı Kanunun hükmüdür.) Sürücü aynı zamanda araç sahibi değilse, ayrıca tescil plakasına da aynı miktar için ceza tutanağı düzenlenir.
+31– 12/7/2013 tarihli ve 6495 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları:3, 8, 38, 39, 40, 41, 42, 45, 112, 114, 115, 119, 120, Ek Madde 13 .)

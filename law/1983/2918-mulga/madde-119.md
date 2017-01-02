@@ -1,0 +1,1 @@
+Madde 119 – birinci fıkra -(17/10/1996 tarihli ve 4199 sayılı Kanunun hükmüdür.) Sürücü belgeleri, belge alındıktan sonra bu Kanunun 41 inci maddesinin (e) bendinde yazılı suçlardan biri ile mahkumiyet halinde süresiz geri alınır.

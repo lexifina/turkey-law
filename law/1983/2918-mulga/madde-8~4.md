@@ -1,0 +1,17 @@
+Madde 8 – (Değişik: 18/1/1985 - KHK 245/1 md.; Aynen kabul: 28/3/1985-3176/1 md.)
+Bu Kanun açısından Milli Eğitim Gençlik ve Spor, Sağlık ve Sosyal Yardım ve Ulaştırma bakanlıklarının görev ve yetkileri şunlardır :
+a) Milli Eğitim Gençlik ve Spor Bakanlığı
+1. Motorlu araç sürücülerinin yetiştirilmesi için 123 üncü madde gereğince sürücü kursları açmak, özel sürücü kursu açılmasına izin vermek, bunları her safhada denetlemek,
+2. (Değişik: 17/10/1996 - 4199/6 md.) Resmi ve özel kurslarda eğitilenlerin sınavlarını yapmak, başarılı olanlara sertifika verilmesini sağlamak,
+3. (Değişik: 17/10/1996 - 4199/6 md.) Okul öncesi, okul içi ve okuldışı trafik eğitimini düzenleyen trafik genel eğitim planı hazırlamak ve ilgili kuruluşlarla işbirliği yaparak uygulamak.
+b) (Değişik: 17/10/1996 - 4199/6 md.) Sağlık Bakanlığı:
+1. Karayollarında meydana gelen trafik kazaları ile ilgili ilk ve acil yardım hizmetlerini planlamak ve uygulamak,
+2. Trafik kazalarında yaralananların en kısa zamanda sağlık hizmetlerinden istifadelerini temin etmek üzere, İçişleri Bakanlığının uygun görüşü de alınarak karayolları üzerinde ilk yardım istasyonları kurmak, bu istasyonlara gerekli personeli, araç ve gereci sağlamak,
+3. Her ilde trafik kazaları için eğitilmiş sağlık personeli ile birlikte yeteri kadar ilk ve acil yardım ambulansı bulundurmak,
+4. Bu Kanunla ve mevzuatla verilen trafikle ilgili diğer görevleri yapmak.
+(Mülga son üç paragraf: 13/2/2011-6111/54 md.)
+c) (Değişik: 3/5/2006 – 5495/1 md.) Ulaştırma Bakanlığı
+(Değişik birinci paragraf: 25/6/2010-6001/34 md.) Ulaştırma Bakanlığının ilgili birimleri, bu Kanun ve diğer mevzuatla verilen hizmetleri yapmak, bu Kanun açısından karayolu taşımasına ilişkin gerekli koordinasyonu sağlamak, tescile bağlı araçların muayenelerini yapmak veya yaptırmak, muayene istasyonlarını denetlemek, 35 inci madde hükümlerine aykırı hareket edenler hakkında tutanak düzenleyerek idarî para cezası vermek, bu maddede belirlenen idarî tedbirleri almak, trafik zabıtasının görev ve yetkileri saklı kalmak üzere, araçların ağırlık ve boyut kontrollerini yapmak veya yaptırmak ve denetlemek, aykırı görülen hususlarla ilgili olarak sorumlular hakkında idarî para cezasına dair tutanak düzenlemek.
+Araçların ağırlık ve boyut kontrollerini yapmak üzere yetkilendirilenler, Ulaştırma Bakanlığınca denetlenir ve aykırı hareketi tespit edilen işletme sahipleri 1.000 Türk Lirası idarî para cezası ile cezalandırılır. Yetkilendirme konusu işletme şartlarında giderilebilecek eksiklik olması halinde, işletme sahibine, bu eksiklikleri gidermesi için azamî onbeş gün süre verilir. Bu süre zarfında eksikliklerin giderilmemesi halinde, izin belgesi iptal edilir.
+1254-36
+Araçların ağırlık ve boyut kontrollerinin yapılması veya yaptırılması ile ilgili olarak Karayolları Genel Müdürlüğünce verilen hizmet sürdürülürken kullanılan ve Genel Müdürlüğün diğer hizmetleri ile ilişkili olmayan bina, arazi, arsa gibi taşınmazlar Maliye Bakanlığınca Ulaştırma Bakanlığına tahsis; bu görev yürütülürken yararlanılan tesisat ve teçhizat Ulaştırma Bakanlığına devredilir. Araçların ağırlık ve boyut kontrollerini yapmak üzere Ulaştırma Bakanlığınca yetkilendirilme yapılması halinde tahsis edilen taşınmazlar ile devredilen tesisat ve teçhizatın kullanılması hususunda, Maliye Bakanlığının görüşü alınarak, Ulaştırma Bakanlığı ile yetkilendirilenler arasında özel hukuk hükümleri gereğince sözleşme yapılabilir.

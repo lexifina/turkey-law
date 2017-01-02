@@ -1,0 +1,40 @@
+Karayolu Trafik Garanti Sigortası Hesabı (2)
+Madde 108 – (17/10/1996 tarihli ve 4199 sayılı Kanunun hükmüdür.)
+Bu Kanuna göre,zorunlu mali sorumluluk sigortasına tabi motorlu araçların sebep olacakları zararların, aşağıdaki durumlarda işletenin sorumluluğuna ilişkin kurallar uyarınca geçerli teminat tutarları dahilinde karşılanması amacıyla, Türkiye Sigorta ve Reasürans Şirketleri Birliği nezdinde bir Karayolu Trafik Garanti Sigortası Hesabı oluşturulur.
+Karayolu Trafik Garanti Sigortası Hesabına aşağıdaki durumlarda başvurulur:
+a) Kazayı yapan motorlu aracın tespit edilmemesi durumunda kişiye gelen bedensel zararlar için,
+b) Kazanın meydana geldiği tarihte geçerli olan teminat tutarları dahilinde zorunlu mali sorumluluk sigortasını yaptırmamış olan işletenlerin neden olduğu bedensel zararlar için,
+c) Zorunlu mali sorumluluk sigortasını yapan sigortacının malî bünye zafiyeti nedeniyle sürekli olarak bütün branşlarda ruhsatlarının iptal edilmesi ya da iflası halinde sigortacının ödemekle yükümlü olduğu maddi ve bedensel zararlar için(2)
+d) 8 inci maddenin (b) bendi ile 107 nci maddenin son fıkrasında öngörülen durumlar için.
+Kazaya sebep olan aracın işleteninin sonradan bulunması halinde Karayolu Trafik Garanti Sigortası Hesabı, işletene ve sigortacısına rücu edebilir; diğer durumlarda da Karayolu Trafik Garanti Sigortası Hesabının sorumlulara başvurma ve sigortacının iflas masasına katılma hakları saklıdır.
+Karayolu Trafik Garanti Sigortası Hesabının gelirleri, zorunlu mali sorumluluk sigortası için tahsil edilen toplam primlerin yüzde biri oranında sigorta şirketlerince ödenecek katılma payları ile sigorta yaptıranlardan safi primlerin yüzde ikisi oranında tahsil edilecek katılma paylarından oluşur. Bakanlar Kurulu bu oranları binde beşe kadar indirmeye veya tekrar kanuni sınırlarına kadar yükseltmeye yetkilidir.
+Sigorta aracıları, sigorta yaptıranlardan yukarıdaki fıkra hükmü gereğince tahsil ettikleri katılma paylarını, tahsilatı takip eden ayın 15'ine kadar ilgili sigorta şirketlerine intikal ettirirler.
+__________________
+(1) Bu maddede geçen ve takip eden madde başlığı olan “Garanti Fonu” ibaresi 21/2/2001 tarih ve 4629 sayılı Kanunun 6 ncı maddesiyle “Karayolu Trafik Garanti Sigortası Hesabı” olarak değiştirilmiş ve metne işlenmiştir.
+(2) Bu bentte geçen "malî bünye zafiyeti nedeniyle sürekli olarak bütün branşlarda ruhsatlarının iptal edilmesi ya da" ibaresi 17/6/2003 tarihli ve 4896 sayılı Kanunun 1 inci maddesi ile eklenmiştir.
+1254-29
+Sigorta şirketleri; kendileri tarafından ödenmesi gereken bir takvim yılına ilişkin katılma paylarını takip eden yılın Şubat ayı sonuna kadar; sigorta yaptıranlardan tahsil edilen katılma paylarını ise ertesi ayın sonuna kadar Karayolu Trafik Garanti Sigortası Hesabına yatırırlar.
+Karayolu Trafik Garanti Sigortası Hesabına zamanında ve tam olarak yatırılmayan katılma payları ve gecikme zamları 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil olunur.
+(Değişik son cümle: 21/5/1997 - 4262/4 md.) Ayrıca, söz konusu yükümlülüğü yerine getirmeyen şirketler 108 000 000 lira hafif para cezası ile cezalandırılırlar.
+Karayolu Trafik Garanti Sigortası Hesabının gelir ve giderleri ile işlemleri, Hazine Müsteşarlığınca her yıl denetlenir.
+Karayolu Trafik Garanti Sigortası Hesabının kuruluşuna, işleyişine, Karayolu Trafik Garanti Sigortası Hesabı varlıklarının nemalandırılmasına, Karayolu Trafik Garanti Sigortası Hesabından yapılacak ödemelere ve diğer hususlara ilişkin esaslar Türkiye Sigorta ve Reasürans Şirketleri Birliğinin görüşü alınarak, Hazine Müsteşarlığının bağlı bulunduğu Bakanlık tarafından hazırlanacak bir yönetmelikle düzenlenir.
+Ek Madde 8 fıkra bir iki ve üç– (17/10/1996 tarihli ve 4199 sayılı Kanunun hükmüdür.)
+Türkiye Sigorta ve Reasürans şirketleri Birliği nezdinde, zorunlu mali sorumluluk sigortası yaptıranlar ile sigorta yaptırılan araçlara ait bilgilerin tutulacağı bir bilgi merkezi oluşturulur.
+Sigorta şirketlerince gönderilecek bu bilgilerin kapsamı ile gönderme sürelerine, bu bilgilerden sigorta şirketleri ile sigorta eksperlerinin yararlanmasına ve derlenecek istatistiklerin yayımlanmasına ilişkin usul ve esaslar, Hazine Müsteşarlığının uygun görüşü alınarak Türkiye Sigorta ve Reasürans Şirketleri Birliğince belirlenir.
+Birlik, elde ettiği bilgileri, trafikten men edilecek araçların tespitinde kullanmak üzere İçişleri Bakanlığının emrine hazır tutar veya gerekli gördüğü birimlerine iletir.
+23 – 4/6/2008 tarihli ve 5766 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 20 )
+Madde 20 bent d - (21/5/1997 tarihli ve 4262 sayılı Kanunun hükmüdür.) Tescil edilmiş araçların her çeşit satış ve devirleri, aracın motorlu taşıtlar vergisi borcu bulunmadığına dair belgenin ibrazı halinde araç sahibi adına düzenlenmiş tescil belgesi esas alınarak noterlerce yapılır.
+Bu satış, noterlerce tescil belgesine tarih konularak ve tasdik edilmek suretiyle işlenir. Ayrıca, tescil edilmiş araçların satış ve devir işlemleri noterler tarafından siciline işlenmek üzere işlemin tamamlanmasını müteakip en geç onbeş iş günü içinde ilgili tescil kuruluşu ile vergi dairesi müdürlüğüne bildirilir. Noterlerin vergi dairesi müdürlüklerine satış işlemlerini bildirmesi üzerine intikal eden araçların vergi kayıtları, satış sözleşmesinin düzenlendiği tarih itibariyle, 197 sayılı Motorlu Taşıtlar Vergisi Kanunu hükümleri uyarınca önceki malikin vergi mükellefiyetine son verilir. Ayrıca, yeni malik adına vergi mükellefiyeti tesis edilir.
+Tescil sürelerini geçirdiği tespit edilen araçlar trafikten men edilir. Aracın trafikten men edildiği yer tescil kuruluşunda, aracın alıcı adına tescil işlemleri yaptırılır. Bu süre içinde araçta veya taşınan yükte meydana gelecek zararlar, yeni araç sahibine aittir.
+Noterce yapılmayan her çeşit satış ve devirler geçersizdir.
+1254-30
+Madde 20 bent e - (21/5/1997 tarihli ve 4262 sayılı Kanunun hükmüdür.) Tescilli araçları satın veya devir alanlar, gerekli bilgi ve belgeleri sağlayarak ilgili tescil kuruluşundan bir ay içinde adlarına tescil belgesi almak zorundadırlar.
+(Değişik : 21/5/1997 - 4262/4 md.) Araç satın alıp, bu maddenin birinci fıkrasının (a) bendinin (1) numaralı alt bendi ile (e) bendi hükümlerine uymayanlara 3 600 000 lira para cezası, (d) bendi hükmüne uymayan noterlere ise 28 800 000 lira hafif para cezası verilir.
+Ayrıca satış ve devirlerde, belirlenen sürelerde alıcı adına tescili yapılmadan trafiğe çıkarılan araçlar, tescil yapılıncaya kadar trafik zabıtasınca trafikten men edilir.
+24 – 30/7/2008 tarihli ve 5795 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 42 )
+Madde 42 fıkra bir bent (a) üçüncü paragraf-(17/10/1996 tarihli 4199 sayılı Kanunun hükmüdür.) İş makinelerinin (forklift, loder, greyder, dozer, vinç v.b.) sürücülerinin eğitimleri ve eğitimde başarılı olanların sertifikaları Milli Eğitim Bakanlığı, Karayolları Genel Müdürlüğü veya Makine Mühendisleri Odalarınca, tarım sektöründe kullanılan iş makinelerinin (biçerdöver v.b.) eğitimleri ve eğitimde başarılı olanların sertifikaları ise Milli Eğitim Bakanlığı ile Tarım ve Köyişleri Bakanlığınca verilir. Kursların eğitim ve staj süreleri Milli Eğitim Bakanlılığınca saptanır.
+25 – 16/6/2009 tarihli ve 5904 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası: 116.)
+Madde 116 fıkra üç – (31/10/1990 tarihli ve 3672 sayılı Kanunun hükmüdür.) Bu şekilde uygulanan cezalar için araç sahipleri cezanın tebliği tarihinden itibaren yedi gün içinde yetkili mahkemeye itiraz edebilirler.
+Madde 116 fıkra dört - (31/10/1990 tarihli ve 3672 sayılı Kanunun hükmüdür.) İtiraz ödemeyi ve ödeme ile ilgili süreyi durdurur.
+Madde 116 fıkra beş - (31/10/1990 tarihli ve 3672 sayılı Kanunun hükmüdür.) İtiraz üzerine verilen kararlar kesindir.
+26– 25/6/2010 tarihli ve 6001 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:5, 13, 15, 16, 50, 65.)

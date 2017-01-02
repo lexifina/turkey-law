@@ -1,0 +1,6 @@
+Madde 18 – (18/10/1983 tarih ve 2918 sayılı Kanunun hükmüdür.)
+Belediye sınırları içindeki karayolları kenarında yapılacak ve açılacak 17 nci maddede sayılan yapı ve tesisler için belediyelerden izin alınması zorunludur. Belediyeler imar ve bu konuyla ilgili mevzuat açısından gerekli incelemeleri yaptıktan sonra, trafik güvenliği yönünden de il trafik komisyonlarından uygun bir karar almadıkça yapım veya işletme izni veremezler.
+İl trafik komisyonları da, yolun yapısı ve bağlantı yolları yönünden Devlet ve il yolları ile ilgili hususlarda Karayolları Genel Müdürlüğünün uygun görüşünü almak zorundadır.
+İzinsiz yapılan bu gibi tesislerin yapımı va işletilmesi yetkililerce durdurulacağı gibi, yönetmelikteki şartlar yerine getirilmeden işletme izni verilmez ve bağlantı yolu, her türlü gider sorumlulara ait olmak üzere yolun yapım ve bakımı ile ilgili kuruluşlarca ortadan kaldırılır.
+Bu madde hükümlerine aykırı olarak izinsiz tesis yapanlar beşbin liradan onbin liraya kadar hafif para cezası ve onbeş günden iki aya kadar hafif hapis cezası ile cezalandırılırlar.
+Bu madde ve 17 nci maddedeki tesislere ait şartlar, izin ve denetim esasları İçişleri ve Bayındırlık bakanlıklarınca müştereken çıkarılacak yönetmelikte belirtilir.

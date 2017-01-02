@@ -1,0 +1,1 @@
+Madde 114 – beşinci fıkra -(3/11/1988 tarihli ve 3493 sayılı Kanunun hükmüdür.) Para cezaları derhal tahsil olunamadığı takdirde "ceza tutanağı" tanzim edilir ve bir sureti Maliye Bakanlığınca belirlenecek birime veya kuruma 7 iş günü içinde gönderilir. (1)

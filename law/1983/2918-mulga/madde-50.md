@@ -1,0 +1,1 @@
+Madde 50 – fıkra bir - (17/10/1996 tarihli ve 4199 sayılı Kanunun hükmüdür.) Şehirlerarası Karayollarında 90 km/s otoyollarda 120 km/s hızı geçmemek üzere motorlu araçların cins ve kullanma amaçlarına göre sürülebileceği en çok ve en az hız sınırları yönetmelikle belirlenir.

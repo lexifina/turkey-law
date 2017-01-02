@@ -1,0 +1,1 @@
+Madde 114 – dördüncü fıkra - (3/11/1988 tarihli ve 3493 sayılı Kanunun hükmüdür.) Para cezaları yetkili memurlarca derhal tahsil edilir. Bu tahsilat makbuz karşılığında yapılır. Bu makbuzlar damga vergisinden muaftır.

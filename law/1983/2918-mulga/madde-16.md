@@ -1,0 +1,1 @@
+Madde 16 – fıkra son - (13/10/1983 tarihli ve 2918 sayılı Kanunun hükmüdür.) Ayrıca bunlar, bütün sorumluluk ve giderler mal sahibine ait olmak üzere yolun yapım ve bakımı ile ilgili kuruluşca kaldırılır.

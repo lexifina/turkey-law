@@ -1,0 +1,1 @@
+Madde 115- sekinci fıkra-(12/7/2013 tarihli ve 6495 sayılı Kanunun hükmüdür.) Yabancı plakalı araçların plakalarına düzenlenen, ancak tebliğ edilmemiş olan trafik idari para cezalarına ilişkin tutanakların tebliği ve tahsiline ilişkin usul ve esaslar Maliye ve İçişleri bakanlıklarınca müştereken belirlenir.

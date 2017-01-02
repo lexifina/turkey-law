@@ -1,0 +1,1 @@
+Madde 115 – üçüncü fıkra - (3/11/1988 tarihli ve 3493 sayılı Kanunun hükmüdür.) Bu para cezaları, Maliye ve Gümrük Bakanlığının Sayman mutemetlerine, mal sandıklarına veya 114 üncü maddesinin birinci fıkrasına göre yetkili kılınmış personele ödenebileceği gibi, banka veya PTT aracılığı ile de ödenebilir.

@@ -1,0 +1,1 @@
+Madde 91 – altıncı fıkra - (17/10/1996 tarihli ve 4199 sayılı Kanunun hükmüdür.)Turistlere ait taşıtlarla, milletlerarası çok taraflı veya karşılıklı anlaşmalar kapsamına giren yabancı plakalı taşıtların Türkiye'de geçerli milletlerarası anlaşmalarla kabul edilmiş sigortaları yoksa, bunlar için zorunlu mali sorumluluk sigortası Türkiye sınırlarına girişleri sırasında yapılır.

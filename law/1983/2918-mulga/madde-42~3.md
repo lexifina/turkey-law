@@ -1,0 +1,13 @@
+Madde 42 – (Değişik: 18/1/1985-KHK 245/12 md.; Değiştirilerek kabul: 28/3/1985 -3176/12 md.)
+Sürücü belgesi alacak olanların başvurmaları, sınavları,sağlık muayeneleri, belgelerin verilmesi hakkında aşağıdaki esas ve şartlar uygulanır
+a) (Değişik : 17/10/1996-4199/19 md.) Sürücülerin sınavları:
+1254-39
+(Değişik birinci fıkra: 21/5/1997 - 4262/3 md.) Sürücü belgesi alacakların sınavları, yönetmelikteki esaslara göre Milli Eğitim Bakanlığınca sınav sorumlusu olabileceğine dair belge verilen yüksekokul mezunu ve asgari "B" sınıfı sürücü belgesi bulunan sınav sorumluları tarafından yapılır. Oluşturulacak sınav komisyonuna gerekli görüldüğünde vali onayı ile yukarıdaki üyelik şartlarını taşıyan bir kamu görevlisi de üye olarak katılabilir. Sınav sonucunda başarı gösteren sürücülere sertifikaları verilir. Bu sertifikalar, 41 inci maddedeki diğer şartlar aranarak sertifikanın alındığı yer trafik kuruluşunca sınıfına uygun sürücü belgeleri ile değiştirilmedikçe sahiplerine karayolunda araç kullanma yetkisi vermez.
+Emniyet teşkilatının moturlu araç sürücüsü ihtiyacını karşılamak üzere belirli eğitim programları çerçevesinde yönetmelikte belirtilen esas ve şartlara uygun olarak, illerde emniyet müdürünün teklifi valinin onayı, merkez birimleri için ilgili daire başkanlığının teklifi Emniyet Genel Müdür Yardımcısının onayı ile emniyet teşkilatı mensuplarına sürücü belgesi verilir. Bu sınavlar Emniyet Genel Müdürlüğünün merkez ve taşra birimlerinde görevlendirilecek sınav sorumluları tarafından yapılır.
+(Değişik üçüncü paragraf: 30/7/2008 – 5795/4 md.) G sınıfı sürücü belgesi kapsamındaki iş makinelerinin sürücülerinin ve operatörlerinin eğitimleri ve eğitimde başarılı olanların sınav başarı belgeleri Milli Eğitim Bakanlığınca veya Milli Eğitim Bakanlığınca yetkilendirilen kurumlarca verilir. Bu kurumların işleyişine ilişkin usul ve esaslar ile uygulanacak öğretim programları Milli Eğitim Bakanlığınca belirlenir.
+b) Müracaat
+Sürücü belgesi almak isteyenler, müracaat formunu yetkili memurun önünde imzalarlar. Bu belgede beyan edilen bilgiler aksi ispatlanıncaya kadar doğru sayılır.
+Müracaat formunun yetkili memura verilmesi sırasında, sürücü adayları; nüfus cüzdanı aslı ile tahsil belgesini kamu kuruluşunda çalışanlar için bu kuruluşlar tarafından verilmiş tahsil durumunu belirliyen tasdikli belgeyi yetkili memura göstermek zorundadırlar.
+(Değişik: 21/5/1997 - 4262/4 md.) Yanlış bilgi veya sahte belge verenler, fiil daha ağır bir cezayı gerektirmediği takdirde iki aydan üç aya kadar hafif hapis ve 18 000 000 lira hafif para cezası ile cezalandırılırlar.
+c) (Mülga: 17/10/1996 - 4199/47 md.)
+Sağlık şartlarında sonradan meydana gelen değişiklikler ile sahte olan, hile ile alınan veya şartlarına uygun olmadan verilen sürücü belgeleri:
