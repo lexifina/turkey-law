@@ -1,0 +1,3 @@
+Madde 28 – (4/6/1937 tarih ve 3201 sayılı Kanunun hükmüdür.)
+Yukardaki maddede yazılı olanlardan ihtısas kursunu başaranlar, kursu bitirir bitirmez komiserliğe tayin olunurlar. Bu şekilde mesleğe girenlerden 2,5 sene olan staj müddetini muhtelif komiserlik derecelerinde veya Emniyet Umum Müdürlüğünce tayin edilecek vazifelerde ikmal edenler muvafık sicil aldıkları takdirde doğrudan doğruya sekizinci meslek derecesindeki vazifeye tayin olunabilirler.
+Staj devresinde muvafık sicil alamıyanların staj müddetleri, diğer bir emniyet müdürlüğü kadrosunda istihdam olunmak suretile bir sene daha uzatılır. Yine muvafık sicil alamazlarsa muvafık sicil alıncaya kadar terfileri geciktirilir.

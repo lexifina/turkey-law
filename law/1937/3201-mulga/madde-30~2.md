@@ -1,0 +1,2 @@
+Madde 30 – (15/4/1959 tarih ve 7257 sayılı Kanunun hükmüdür.)
+Geçen madde mucibince Polis Enstitüsünün orta ve yüksek tahsil kısımlarını muvaffakiyetle bitiren lise veya Polis Koleji mezunu olanlar başkomserliğe veya ikinci sınıf emniyet amirliğine terfiden sonra Polis Enstitüsünün yüksek tahsil ihtisas kursuna gönderilirler. Bu kursu muvaffakiyetle bitirenler, muvafık sicil almak şartiyle, meslek dahilinde yüksek tahsil görmüş addolunurlar.

@@ -1,0 +1,17 @@
+25 – 21/4/2004 tarihli ve 5145 sayılı Kanunla yürürlükten kaldırılmış hükümlerin metinleri (Madde numarası: Ek Madde 23, Geçici Madde 19.)
+Ek Madde 23 – (6/4/2001 tarihli ve 4638 sayılı Kanunun hükmüdür.)
+Zorunlu bekleme süresini tamamlayarak terfi durumu üç kez Yüksek Değerlendirme Kurulu tarafından görüşülmesine rağmen, bir üst rütbeye terfi edemeyen 2 nci Sınıf Emniyet Müdürleri, kadro durumuna göre emeklilikle ilgili diğer şartları haiz olmak kaydıyla Yaş şartı aranmaksızın Yüksek Değerlendirme Kurulunun önerisi ve İçişleri Bakanının onayı ile emekli edilir. (2)
+(İptal ikinci fıkra: Ana. Mah.nin 11/6/2003 tarihli ve E.: 2001/346, K.: 2003/63 sayılı kararı ile.)
+Kadrosuzluk nedeni ile emekliliğe sevk edilenlerin tekrar Emniyet Hizmetleri Sınıfına dahil bir görevde istihdam edilmeleri mümkün olmayıp, emekliliğe sevk edildikleri tarihi takip eden aybaşından itibaren rütbelerin yaş haddine kadar olan süre için, en yüksek Devlet memuru aylığının (ek gösterge dahil), 1 inci Sınıf Emniyet Müdürlerinden birinci meslek derecesinde olanlara % 60’ı, ikinci meslek derecesinde olanlara %50’si, 2 nci Sınıf Emniyet Müdürlerine ise % 40’ı oranında zorunlu emeklilik ek ödemesi yapılır.
+Emekli Sandığı, üçer aylık devreler halinde bu meblağı, fatura karşılığında Hazineden tahsil eder. Bu ödemeler, damga vergisi hariç, herhangi bir vergiye tabi tutulmaz ve yaş haddinden önce ölenlerin varislerine intikal etmez.
+1 inci Sınıf Emniyet Müdürü rütbesinde bulunanların sayısı 500, 2 nci Sınıf Emniyet Müdürü rütbesinde bulunanların sayısı ise 800’ü aşamaz.
+Geçici Madde 19 fıkra bir – (6/4/2001 tarihli ve 4638 sayılı Kanunun hükmüdür.)
+1 nci ve 2 nci Sınıf Emniyet Müdürü sayısı bu Kanunun yayımı tarihinden itibaren bir yıl içerisinde ek 23 üncü maddede belirlenen sayılara getiilir. Bu amaçla Yüksek Değerlendirme Kurulu yeterli sayıda toplantı yapabilir.
+——————————
+(1) Bu fıkrada yer alan; “Yaş şartı aranmaksızın” ibaresinin yürürlüğü, Ana.Mah.’nin 19/6/2001 tarihli ve E. 2001/346, K. 2001/6-1 sayılı kararıyla durdurulmuş, daha sonra 11/6/2003 tarihli ve E.:2001/346, K.:2003/4 sayılı Kararı ile de bu ibare hakkında verilen yürürlüğü durdurma kararı kaldırılmıştır.
+(2) Bu fıkrada yer alan; “emekliye sevk edilebilir” ibaresinin yürürlüğü, Ana. Mah.’nin 19/6/2001 tarihli ve E. 2001/346, K. 2001/6-1 sayılı kararıyla durdurulmuş, daha sonra 11/6/2003 tarihli ve E.:2001/346, K.:2003/4 sayılı Kararı ile de yürürlüğün durdurulması kararının devamına karar verilmiştir.
+250-11
+26 – 27/4/2005 tarihli ve 5337 sayılı Kanunla yürürlükten kaldırılmış hükümlerin metinleri (Madde numarası: 55)
+Madde 55 fıkra ondört – (12/7/2000 tarihli ve 611 sayılı KHK’nin 6/4/2001 tarihli ve 4638 sayılı Kanunla aynen kabul edilen hükmüdür.) Mevzuat hükümlerine göre kazanılmış hak aylığında değerlendirilmesi yapılan her türlü uzmanlık, master, doktora ve avukatlık stajı rütbe kıdeminde değerlendirilmez. Ancak, (...)(1) askerlik hizmeti, yurt dışı misyon koruma, yurt dışı kurs ve diğer görevler sebebi ile geçirilen süreler ile tedavi ve istirahat süreleri rütbe terfiinde değerlendirilir.
+27 – Anayasa Mahkemesinin 31/1/2007 tarihli ve E.:2005/51, K.:2007/12 sayılı Kararı ile iptal edilmiş olan hükümlerin metinleri - (Madde numarası: 55.)
+Madde 55 fıkra ondört beşinci cümle – (27/4/2005 tarihli ve 5337 sayılı Kanunun hükmüdür.) Bu sürelerin sayılması sonucu emsallerine göre kıdemli sayılanlar rütbe terfilerinde her ne sebeple olursa olsun rütbe olarak emsallerini geçemez.

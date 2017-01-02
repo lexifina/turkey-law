@@ -1,0 +1,2 @@
+Madde 32 – (4/6/1937 tarih ve 3201 sayılı kanunun hükmüdür.)
+Emniyet Umum Müdürlüğü hesabına yüksek tahsile gönderilenler, Umum Müdürlüğün göstereceği yer ve vazifelerde sekiz sene müddetle hizmet etmeye mecburdurlar. Bunlar tahsillerini terkettikleri veya sekiz seneden evvel emniyet teşkilatı hizmetinden ayrıldıkları veya ayrılmalarını icap ettirecek harekette bulundukları takdirde tahsil için kendilerine yapılan masraflar (58) inci madde mucibince tazmin ettirilir.

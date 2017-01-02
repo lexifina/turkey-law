@@ -1,0 +1,4 @@
+5 - 15/4/1959 tarih ve 7257 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 26,30)
+Madde 26 – (4/6/1937 tarih ve 3201 sayılı Kanunun hükmüdür.)
+Altıncı ve daha yukarıdaki meslek derecelerindeki memurların hukuk ve Siyasal Bilgiler Okulu mezunu olmaları şarttır. Ancak ihtısaslarından istifade edileceği vekaletçe takdir edilen diğer yüksek mektep mezunları ve bu kanuna göre meslek dahilinde yüksek tahsil gördükleri kabul edilenler de bu derecelere tayin olunabilirler.
+Liseden veya yedi senelik idadi veya bunlara muadil mekteplerden mezun emniyet amirlerinden terfi için muvafık sicil almak şartiyle Polis Enstitüsünün yüksek tahsil kısmını ve ihtisas kursunu muvaffakiyetle ikmal edenler emniyet teşkilatı kadroları dahilinde yüksek tahsil görmüş addolunurlar. Bunlar da altıncı meslek derecesile daha yukarı derecelerdeki memurluklara tayin olunabilir- ler.
