@@ -1,0 +1,2 @@
+Geçici Madde 8 – (11/11/1983 tarihli ve 2954 sayılı Kanunun hükmüdür.)
+Bu Kanuna göre yapılacak yeni düzenlemeler nedeniyle; yeni kadroları eski kadrolarından daha aşağıda olan görevlilerin eski kadrolarına ait aylık, ek gösterge, her türlü zam ve tazminat ve diğer kazanılmış hakları, Türkiye Radyo - Televizyon Kurumundaki yeni görevlerinde kaldıkları sürece şahıslarına bağlı olarak saklı tutulur. Atama işlemleri tamamlanıncaya kadar personelin mali, sosyal ve her türlü özlük haklarına ilişkin eski hükümlerin uygulanmasına devam olunur.

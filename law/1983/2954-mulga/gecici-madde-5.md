@@ -1,0 +1,4 @@
+Geçici Madde 5 – (11/11/1983 tarihli ve 2954 sayılı Kanunun hükmüdür.)
+Bu Kanunda sözü edilen yönetmelikler ile disiplin ve gizli sicil yönetmelikleri, bu Kanunun yürürlüğe girmesinden itibaren altı ay içinde hazırlanır ve yürürlüğe konulur.
+Yukarıdaki fıkrada belirtilen yönetmelikler yürürlüğe konuluncaya kadar bu Kanunun yürürlüğe girdiği tarihte mevcut yönetmelik, talimat ve esasların bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
+Bu Kanunun 50 nci maddesinin (g) bendinde sayılan unvanlarla Kurumda sözleşmeli olarak çalışan personelden, bu Kanunun yürürlüğe girdiği tarihten itibaren 6 ay içinde T.C. Emekli Sandığı ile ilgilendirilmesini Kurumdan yazılı olarak talep etmeyenlerin, Sosyal Sigortalar Kurumu ile ilgilendirilmelerine devam olunur. T.C. Emekli Sandığı ile ilgilendirilenlere kıdem tazminatı ödenmez.

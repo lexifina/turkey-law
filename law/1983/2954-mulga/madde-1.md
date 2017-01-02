@@ -1,0 +1,6 @@
+Madde 1 – (11/11/1983 tarihli ve 2954 sayılı Kanunun hükmüdür.)
+Bu Kanunun amacı, radyo ve televizyon (...)(1) yayınlarının düzenlenmesine, Radyo ve Televizyon Yüksek Kurulunun ve Türkiye Radyo - Televizyon Kurumunun kuruluş, görev, yetki ve sorumluluklarına ilişkin esas ve usulleri belirlemektir.
+Madde 4 bent – d- (11/11/1983 tarihli ve 2954 sayılı Kanunun hükmüdür.) Kamu kurum ve kuruluşlarıyla gerçek ve özel hukuk tüzelkişilerinin kapalı devre televizyon sistemi kurmaları ve işletmeleri Radyo ve Televizyon Yüksek Kurulunun iznine tabidir.
+Madde 4 bent –e- (11/11/1983 tarihli ve 2954 sayılı Kanunun hükmüdür.) Yurt içine yapılan radyo ve televizyon yayınları ile kapalı devre televizyon yayınlarının bu Kanunda belirtilen esaslara uygunluğu, Radyo ve Televiz-yon Yüksek Kurulu tarafından gözetilir, denetlenir ve değerlendirilir.
+Madde 9 fıkra bir – bent c- (6/7/1999 tarihli 4397 sayılı Kanunun hükmüdür.) Bu Kanun çerçevesinde, milletlerarası radyo ve televizyon kuruluşları ve yabancı radyo ve televizyon kurumları ile ilişkileri düzenlemek, yürütmek ve Başbakanlığın onayını alarak gerektiğinde anlaşma, sözleşme ve protokoller imza etmek,
+Madde 10 bent c- (11/11/1983 tarihli ve 2954 sayılı Kanunun hükmüdür.) Koordinasyon Kurulu.

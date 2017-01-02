@@ -1,0 +1,2 @@
+Geçici Madde 3 – (11/11/1983 tarihli ve 2954 sayılı Kanunun hükmüdür.)
+Bu Kanunun 6 ncı maddesi uyarınca Radyo ve Televizyon Yüksek Kurulu üyelerinin üçte birinin ilk defa yenilenmesi, Kurulun göreve başladığı tarihten iki yıl sonra, ikinci defa yenilenmesi, dört yıl sonra kura usulüyle yapılır. Bu değişimde 6 ncı maddenin (a), (b), (e) bentlerindeki üyeler kendi aralarında ve ayrı ayrı, (c) ve (d) bentlerindeki üyeler birlikte mütalaa edilir.

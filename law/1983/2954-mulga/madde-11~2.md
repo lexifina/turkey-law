@@ -1,0 +1,8 @@
+Madde 11 –fıkra üç- (11/11/1983 tarihli ve 2954 sayılı Kanunun hükmüdür.) Yönetim Kurulu üyeliği dört yıldır. Süresi biten üyeler ile herhangi bir sebeple Yönetim Kurulundan ayrılanların yerine yeniden atama yapılır. Süreleri sona eren üyelerin yeniden atanmaları mümkündür. Herhangi bir sebeple üyeliğin normal süreden önce sona ermesi halinde eski üyenin kalan süresini tamamlamak üzere aynı usulle yenisi atanır. Bir yıl içinde mazeretsiz iki toplantıya katılmayanların üyeliği kendiliğinden sona erer.
+Madde 13 fıkra beş bent b- (11/11/1983 tarihli ve 2954 sayılı Kanunun hükmüdür.) En az kırk yaşında olmak,
+Madde 13 fıkra beş bent c- (11/11/1983 tarihli ve 2954 sayılı Kanunun hükmüdür.) Devlet memuriyetinde veya temayüz ettiği ihtisas dalında onbeş yıllık mesleki tecrübeye sahip olmak,
+Madde 13 fıkra altı - (11/11/1983 tarihli ve 2954 sayılı Kanunun hükmüdür.) Genel Müdür yardımcılarından birinin elektronik yüksek mühendisi olması şarttır.
+Madde 13 fıkra yedi - (11/11/1983 tarihli ve 2954 sayılı Kanunun hükmüdür.) Genel Müdürün raporlu, izinli, yurt dışında geçici görevli olması gibi sebeplerle geçici süre ile görevde bulunmaması; istifası, ölümü, görevden alınması gibi sebeplerle sürekli olarak görevinden ayrılması hallerinde, atanmasındaki usule göre atama yapılıncaya kadar, Genel Müdüre, yardımcılarından bu hizmette en kıdemlisi kıdemde eşitlik halinde ise en yaşlısı vekalet eder.
+–––––––––––
+(1) Bu maddede geçen "İstasyonların kurulmasına,işletilmesine" ibaresi 12/1/1989 tarih ve 3517 sayılı Kanunun 7 nci maddesi ile yürürlükten kaldırılmış daha sonra mezkür madde Anayasa Mahkemesi’nin 18/5/1990 tarih ve E. 1989/9, K. 1990/8 sayılı Kararıyla iptal edilmiştir.
+1262-4

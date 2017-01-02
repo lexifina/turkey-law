@@ -1,0 +1,1 @@
+Madde 16 – fıkra iki- (11/11/1983 tarihli ve 2954 sayılı Kanunun hükmüdür.) Türkiye Radyo - Televizyon Kurumunun taşra teşkilatı; Genel Müdürlüğe doğrudan bağlı bölge müdürlükleri ile Ankara Radyosu Müdürlüğü ve bunlara bağlı müdürlükler ve şefliklerden oluşur.

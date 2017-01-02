@@ -1,0 +1,6 @@
+Madde 43 – (11/11/1983 tarih ve 2954 sayılı Kanunun hükmüdür.)
+Radyo ve televizyon yayımlarını almaya, almaya ve kaydetmeye yarayan cihazlardın ruhsata tabi olanlar ile ilgili her türlü işlemler hakkındaki uygulama esasları Yönetim Kurulunun önerisi üzerine Bakanlar Kurulunca kararlaştırılır.
+Madde 63 bent (b) – (11/11/1983 tarih ve 2954 sayılı Kanunun hükmüdür.)
+b) Radyo ve televizyon yayınını almaya, almaya ve kaydetmeye yarayan cihazlar ile kapalı devre televizyon yayını yapmaya yarayan cihazlar ruhsat almadan veya cihazı ruhsatname ücretini ödediği yer türü dışında kullananlardan, ruhsatnamenin düzenlenmesi sırasında, gerekli bilgileri yanlış beyan edenler veya yanlış ruhsatname düzenleyenlerden, tanzim edilmiş ruhsatname üzerindeki her türlü değişikliği ilgili mercie bir ay içinde bildirmeyenlerden, mühürletme, hurdaya ayırma ve benzeri şekilde kullanım dışında kalmış cihazı ilgili mercie haber vermeden kullananlar onbin liradan yüzbin liraya kadar ağır para cezası ile cezalandırılırlar.
+Bent (c) – (11/11/1983 tarih ve 2954 sayılı Kanunun hükmüdür.)
+c) 38 inci maddede belirtilen yükümlülüklerini gereği gibi yerine getirmeyenler birmilyon liradan beşmilyon liraya kadar ağır para cezası, 39 uncu madde hükümlerine uymayanlar yüzbin liradan beşyüzbin liraya kadar ağır para cezası ile cezalandırılırlar.
