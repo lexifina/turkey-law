@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-140.04.01[2016-735]-1416",
+  "source_id": 35927,
+  "date": "2017-01-02",
+  "title": "Kooperatif adına kayıtlı arsa üzerine yapılacak konutların bir kısmının \"Düzenleme Şeklinde Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesi\" ne istinaden yüklenici firmaya temlik edilmesi işleminden tapu harcı alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35927",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "fb1850ca6d8a7a1acad74883cebf1eda4c20561db014525b7d8be8fd329598ca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
