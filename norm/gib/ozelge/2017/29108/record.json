@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01- KDV.21-1331",
+  "source_id": 29108,
+  "date": "2017-01-03",
+  "title": "Yurt dışına ihraç edilen malın nakli esnasında alıcının siparişi iptal etmesi ve malın Türkiye mukimi bir firmaya satılıp geri dönmeden yurt dışında teslimi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29108",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "b208afde5a168eb40d5d4ff455098bc7092d7c5ec5a248b82b994cb25a8e5cca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
