@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1172",
+  "date": "2017-01-03",
+  "title": "T. 3.01.2017 E. 2016/711 K. 2017/35",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1172",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=10&yil=2017",
+  "listing_sha256": "68b18fbef1425867fae6bb9bf76cd0ba42e8c78c9b8e14058e3117c6819216be",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
