@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "302",
+  "decision_date": "2017-01-03",
+  "source_id": 23563,
+  "chamber": "3",
+  "ilam_number": "479",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23563/",
+  "source_sha256": "4dd787173c5f2e144ea8ec18343647bd84f96db32484f2ebc4342172e3023784",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
