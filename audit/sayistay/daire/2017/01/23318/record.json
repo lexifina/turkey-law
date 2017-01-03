@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "304",
+  "decision_date": "2017-01-03",
+  "source_id": 23318,
+  "chamber": "3",
+  "ilam_number": "93",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23318/",
+  "source_sha256": "9f1b7ed19b25d739d29535595b34bfb9f207eb03f64619b4af1d532fff2744db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
