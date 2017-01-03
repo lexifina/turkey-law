@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-175.01[2016/5.1.365725]-1733",
+  "source_id": 37155,
+  "date": "2017-01-03",
+  "title": "Emlak Vergisine İlişkin kısıtlılık ve Zamanaşımı uygulaması Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37155",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "4bc675ac12038be7faf98b2bbfd6441861add0cdaffc101ccf99c88a9b9a79d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
