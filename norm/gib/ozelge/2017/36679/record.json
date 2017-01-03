@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-205.05.02[2016-3]-303",
+  "source_id": 36679,
+  "date": "2017-01-03",
+  "title": "Eşin ortak olduğu şirkette YMM faaliyetinde bulunup bulunulamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/36679",
+  "related_law": "3568 sayılı SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU (*)",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "199d51caeedd8bdbb4e2d582a5e7b34ee833d3e60f4e2acf618e3b74dc6df1ec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
