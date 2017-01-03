@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "73903997-140[59-2016/59]-539",
+  "source_id": 35457,
+  "date": "2017-01-03",
+  "title": "4736 sayılı Kanun ile 1005 sayılı Kanun kapsamında Kıbrıs Gazisi olanların satın alacakları gayrimenkullerin tapuda adlarına tescil edilmesi işleminden tapu harcı alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35457",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "0cb0732cb65aae89457e3175e6693142fa732c7e9cda2b4fbbce3a9a4a14807e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
