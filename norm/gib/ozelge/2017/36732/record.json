@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-180[28-2015]-164",
+  "source_id": 36732,
+  "date": "2017-01-04",
+  "title": "Emeklilik şirketince grup şirketine verilen hizmetlerin karşılığı olarak maliyet artı yöntemi ile tespit edilen tutarların tamamının mı yoksa yansıtılan kar marjının mı BSMVye tabi olacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36732",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "3e6e353eb21a78e9f11edb4a98e77085e8ffc77a9705c9c495e7e69a863b991c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
