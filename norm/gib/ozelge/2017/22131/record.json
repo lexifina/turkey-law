@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[6-15/36]-2997",
+  "source_id": 22131,
+  "date": "2017-01-04",
+  "title": "Ticari alacaklarını sigorta ettiren işletmenin sigorta miktarını aşan ek prim tutarını dönemsellik ilkesi gereği gider yazması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22131",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "fc1854096a5cfae73aba7771e478f7d4279db6a43570a0cd49576acbbc37bc52",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
