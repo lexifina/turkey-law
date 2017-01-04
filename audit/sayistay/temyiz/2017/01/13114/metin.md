@@ -1,0 +1,3 @@
+KONU: Araç muayenelerinin geciktirilmesi.
+
+1- Sorumlu tarafından 91 sayılı ilamın 22. maddesiyle tazmin hükmolunan … TL’nin; … TL’sinin 23.05.2016 tarih ve … sıra nolu … Bankası dekontu ile, … TL’sinin 20.05.2016 tarih ve … seri nolu … Bankası dekontu ile, … TL’sinin 23.05.2016 tarih ve … sıra nolu Bankası dekontu ile, … TL’sinin 23.05.2016 tarih ve … sıra nolu … Bankası dekontu ile, tahsilat edildiği bildirilmiş olup hüküm tarihinden (04.12.2015) sonra yapılan bu tahsilat ilam hükmünün infazı mahiyetinde olup ilam hükmüne karşı herhangi bir itiraz olmadığından; Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, Oybirliği ile,
