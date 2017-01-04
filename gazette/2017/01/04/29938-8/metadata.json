@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-01-04",
+  "issue": "29938",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Özelleştirme Yüksek Kurulunun 27/12/2016 Tarihli ve 2016/80 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/01/20170104-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/01/20170104.htm",
+  "index_sha256": "4a5ecfff98488bd4c2c5699832417483132ff2de1ec76aed215b20f75add53b6",
+  "index_header": "4 Ocak 2017 ... 29938 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/01/20170104.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "1cf869ddb1f084928f9c6d9e0afb4601f8ef05b55525dc41209147c63366acd3",
+  "text_status": "text.txt as published"
+}
