@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42560",
+  "decision_date": "2017-01-04",
+  "source_id": 13076,
+  "chamber": "7",
+  "file_number": "40979",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13076/",
+  "source_sha256": "e1b8dd6f0949c797ef28b6d8d00f50b2bae8d47c4de49687c7e880200a22ab25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
