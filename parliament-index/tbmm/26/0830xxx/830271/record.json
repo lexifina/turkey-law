@@ -1,0 +1,101 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 830271,
+  "assembly": "TBMM",
+  "term": 26,
+  "heading": "TASARILAR",
+  "heading_as_published": "Tasarılar / Temel Kanun Tasarıları",
+  "summary": "Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair (1/796) (S. Sayısı: 446)",
+  "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair (1/796) (S. Sayısı: 446)",
+  "first_sitting_date": "2017-01-04",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 30,
+      "sitting": 50,
+      "sitting_date": "2017-01-04",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030050.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030fih.pdf",
+      "pages": [
+        "773:786",
+        "788:798",
+        "800:831",
+        "834:837",
+        "837:865"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=2&v_cilt="
+    },
+    {
+      "cilt": 30,
+      "sitting": 51,
+      "sitting_date": "2017-01-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030fih.pdf",
+      "pages": [
+        "942",
+        "943:953",
+        "958:975",
+        "975:976",
+        "976:981",
+        "982:987",
+        "988:993",
+        "993:1008",
+        "1009:1011",
+        "1012:1025",
+        "1026:1031",
+        "1032:1050"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=2&v_cilt="
+    },
+    {
+      "cilt": 31,
+      "sitting": 52,
+      "sitting_date": "2017-01-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031052.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031fih.pdf",
+      "pages": [
+        "79:87",
+        "87:92"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=2&v_cilt="
+    },
+    {
+      "cilt": 32,
+      "sitting": 60,
+      "sitting_date": "2017-01-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c032/tbmm26032060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c032/tbmm26032fih.pdf",
+      "pages": [
+        "193",
+        "194:201",
+        "202:213",
+        "213:216",
+        "217:226",
+        "226:227",
+        "228:232",
+        "233",
+        "233:235",
+        "236:276",
+        "277:283",
+        "284:288",
+        "289:295",
+        "297:309"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=2&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TASARILAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=484&v_gelecek_sayfa=101&v_kullanici_id=27484752",
+  "source_sha256": "f90f3cd575b59219f6573f6ede93c078fb045005c80f7b56aa6a8a0dc66d7caa",
+  "in_force": "2017-01-04",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
