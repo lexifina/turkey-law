@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-140[85/d-2016]-153",
+  "source_id": 35999,
+  "date": "2017-01-04",
+  "title": "Yurtdışı Uçuşlarında Görevli Personelin Aynı Anda İki Adet Pasaport Alması Halinde İkinci Pasaport İçin Pasaport Harcı Alınıp Alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35999",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "9435f2eadaf9d37c42ce2027f05ba2357fa4d98d98a24307b6e2ffcb727dd31e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
