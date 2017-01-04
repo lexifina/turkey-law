@@ -1,0 +1,3 @@
+Denetimlerin yürütülmesi
+Madde 6 —(Değişik birinci fıkra:RG-4/1/2017-29938) Elektrik piyasasında faaliyette bulunan gerçek veya tüzel kişilerin denetimi, Kurul adına Daire Başkanlığında görevli Uzman ve/veya Uzman Yardımcıları eliyle veya Uzman koordinesinde Yönetim Hizmetleri Uzmanları vasıtasıyla yürütülür. Denetimlerde, ihtiyaç duyulması halinde Kurumun diğer hizmet birimlerinden de Başkan onayıyla Uzman ve/veya Uzman Yardımcıları ile Yönetim Hizmetleri Uzmanları görevlendirilebilir.
+Kurulun, elektrik piyasasında faaliyette bulunan tüzel kişilerin faaliyet ve uygulamaları ile işlem ve hesaplarını bağımsız denetim kuruluşları ve/veya teknik denetim yapan kuruluşlar vasıtasıyla denetlemesine ilişkin yetkileri saklıdır.

@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Ön Araştırma ve Soruşturmalara İlişkin Usul ve Esaslar
+Ön araştırma
+Madde 15 —(Değişik:RG-4/1/2017-29938)
+Kurul, re’sen veya kendisine intikal eden ihbar veya şikâyetler üzerine, elektrik piyasasında faaliyette bulunan tüzel kişilerin ilgili mevzuat hükümlerine aykırı faaliyet ve işlemleri nedeniyle, doğrudan soruşturma açılmasına ya da soruşturma açılmasına gerek olup olmadığının tespiti için ön araştırma yapılmasına karar verebilir. Kurul ön araştırma veya soruşturma açılması hususundaki yetkilerini Başkanlığa veya Daire Başkanlığına devredebilir.
+Kurul veya Kurulun yetki devretmesi halinde Başkan veya Daire Başkanı kendisine intikal eden ihbar veya şikâyetlerden isimsiz, imzasız veya adres belirtilmemiş olanlar ile kapsam olarak ön araştırma ve soruşturma yapılması için yeterli bulmadıklarını işleme koymayabilir.
+Ön araştırma yapılmasına karar verilmesi halinde, ön araştırma, Daire Başkanı tarafından görevlendirilen Uzman ve/veya Uzman Yardımcıları eliyle veya Uzman koordinesinde Yönetim Hizmetleri Uzmanları vasıtasıyla Daire Başkanlığı koordinasyonunda yürütülür. Gerektiğinde Daire Başkanı veya Grup Başkanı vasıtasıyla da ön araştırma yürütülebilir. İhtiyaç duyulması halinde Kurumun diğer hizmet birimlerinden de Başkan onayıyla Uzman ve/veya Uzman Yardımcıları ile Yönetim Hizmetleri Uzmanları görevlendirilebilir. Daire Başkanı, gerekirse konu hakkında ilgili hizmet birimlerinden yazılı görüş talep edebilir.
+Ön araştırma yapmakla görevlendirilen Kurum personeli, görevlendirildiği tarihten itibaren en geç otuz gün içinde elde ettiği bilgileri, delilleri ve konu hakkındaki görüşlerini içeren ön araştırma raporunu, Daire Başkanlığına iletir.

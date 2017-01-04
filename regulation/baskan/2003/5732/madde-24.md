@@ -1,0 +1,3 @@
+Denetim raporlarının soruşturma raporu gibi değerlendirilebileceği haller
+Madde 24 —(Değişik:RG-4/1/2017-29938)
+Bu Yönetmeliğin İkinci Bölümünde yer alan hükümler çerçevesinde yapılan denetimler neticesinde düzenlenen denetim raporlarında tespit edilen ilgili mevzuat hükümlerine aykırılıkların, Kurul veya Kurulun yetki devretmesi halinde Başkan veya Daire Başkanı tarafından ayrıca bir soruşturma yapılmasına gerek olmayacak derecede açık görülmesi halinde; ilgili denetim raporunun, soruşturma raporu gibi değerlendirilmesi kararlaştırılabilir. Bu durumda, 20 ve 21 inci maddelerde yer alan hükümler çerçevesinde işlem yapılır.
