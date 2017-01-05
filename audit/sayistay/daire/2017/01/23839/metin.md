@@ -1,0 +1,5 @@
+Personelin işe gelmediği günler için kesilmesi öngörülen cezanın kesilmemesi:
+
+Raporda; İşletmeler bakım, onarım ve arıza personeli hizmet alım işine ait sözleşmenin “Cezalar ve sözleşmenin feshi” başlıklı 16. maddesinin 16.1.1.5 alt bendinde “Yükleniciye; personelin işe gelmediği her gün için sözleşme bedelinin % 0,001’i oranında ceza uygulanacaktır” hükmünün yer aldığı; … isimli personelin 22.10.2015-03.11.2015 tarihleri arasında 13 gün işe gelmediğinin 03.11.2015 tarihli … ve … imzalı tutanak ile tespit edildiği; ancak yukarda belirtilen sözleşme hükümlerine göre yükleniciye uygulanması gereken cezanın uygulanmadığı iddia olunmuşsa da; savunma ve eki belgelerden, … isimli personelin 22.10.2015-03.11.2015 tarihleri arasında işe gelmemesinden dolayı oluşan eksilmenin, … isimli joker personel tarafından karşılandığı, yüklenicinin görev ve sorumluluğu açısından bir eksikliğin oluşmadığı görülmüştür.
+
+Bu itibarla; yukarıda açıklanan gerekçelerle, konu hakkında ilişilecek husus bulunmadığına oybirliğiyle karar verildi.
