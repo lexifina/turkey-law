@@ -1,0 +1,11 @@
+Gecikme Cezası
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Sandıklı Belediyesine ait elektrik faturalarının geç yatırılması sonucu gecikme cezası ödenmesi suretiyle kamu zararına neden olunduğu iddia edilmiş ise de;
+
+Sandıklı Belediyesinin nakit mevcudunun tüm ödemeleri karşılayamadığı, kanunları gereğince diğer kamu idarelerine ödenmesi gereken vergi, prim, pay, fon kesintisi ve benzeri giderlerinin bulunduğu ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun “Ödenemeyen giderler ve bütçeleştirilmiş borçlar” başlıklı 34’üncü maddesinde yer alan; “… Kamu idarelerinin nakit mevcudunun tüm ödemeleri karşılayamaması halinde giderler, muhasebe kayıtlarına alınma sırasına göre ödenir. Ancak, sırasıyla kanunları gereğince diğer kamu idarelerine ödenmesi gereken vergi, resim, harç, prim, fon kesintisi, pay ve benzeri tutarlara, tarifeye bağlı ödemelere, ilama bağlı borçlara, ödenmemesi halinde gecikme cezası veya faiz gibi ek yük getirecek borçlara ve ödenmesi talep edilen emanet hesaplarındaki tutarlara öncelik verilir. …” hükmü kapsamında diğer kamu idarelerine ödenmesi gereken vergi, prim, pay, fon kesintisi ve benzeri giderlere ve ödenmemesi halinde elektrik fatura bedellerine nispeten daha fazla gecikme cezası veya faiz gibi ek yük getirecek borçlara öncelik verildiği görülmüştür.
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun “Kamu zararı” başlıklı 71’inci maddesinde kamu zararı; “kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunmasıdır.” şeklinde tanımlanmıştır. Somut olayda kamu kaynağında meydana gelen eksilmenin kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda değil nakit mevcudunun tüm ödemeleri karşılayamaması sonucunda oluştuğu görülmüştür. Kaldı ki 5018 sayılı Kanunun anılan 34’üncü maddesi sorumluların savunmalarında belirttikleri gider ve borçların ödenmesine öncelik verilmesine cevaz vermektedir.
+
+Bu itibarla ....-TL ödeme hakkında ilişilecek husus bulunmadığına işbu ek İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
