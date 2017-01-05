@@ -1,0 +1,17 @@
+Yeni birim fiyat
+
+........ A.Ş. yüklenimindeki ......... İnşaatı ile ilgili olarak; Yapım İşleri Genel Şartnamesinin 22 inci maddesi kapsamında yeni birim fiyat olarak sonradan belirlenen TF. 08/12C nolu  ɸ 1800 mm Çelik Boru Sürme İşi Yapılması ve ɸ 1800 mm içinde ɸ 1400 mm CTP Boru Arasına Beton Enjeksiyon Yapılması (Yüklenici Malı) Pozunun analizinde kullanılan 04.768/09F nolu ɸ 1829 mm Dış Çapında ve 17 mm Et Kalınlığında Spiral Kaynaklı  Çelik Boru (Yüklenici Malı, Nakliye Dahil) rayicinin hatalı alınması sonucu ........ TL  kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede,
+
+İşin projesinde ve dolayısıyla sözleşme eki birim fiyat cetvelinde bulunmayan ancak sonradan ihtiyaç duyulan TF. 08/12C nolu  poz birim fiyatı paçal olarak belirlenmiştir. Bu pozun girdisini teşkil eden unsurların birim fiyat ve rayiçleri, yüklenicinin söz konusu iş kapsamında vermiş olduğu birim fiyatlar ve Çevre ve Şehircilik Bakanlığı’nın 2014 yılı  rayiçleri esas alınarak belirlenmiştir. Belirlenen bu birim fiyat Pn değerine bölünerek ihalenin yapıldığı yıl olan 2011 yılına götürülmüş ve mevcut işin sözleşme ekinde bulunan birim fiyatlara benzerlik gösteren birim fiyatlar esas alınarak benzer poz indirimi yapılmıştır.
+
+Çevre ve Şehircilik Bakanlığı’nın 2014 Yılı İnşaat Tesisat Analiz ve Birim Fiyatları kitabında yeni birim fiyat analizinde kullanılan 1829 mm dış çapında olup 17 mm et kalınlığında spiral kaynaklı çelik boru bulunmamaktadır. Çelik Sınıfı Değişmeyen ancak et kalınlıkları farklı olan aynı çaplardaki çelik borularda, birim fiyatı belli olan borunun birim boy ağırlığı esas alınarak bu çapa ait diğer boruların birim fiyatları belirlenecektir. Buradan hareketle İdare çelik sınıfı ve çapı aynı ancak et kalınlığı 10,40 mm olan boru için 902 TL rayiçi esas alarak formülasyon ve orantı yoluyla 17 mm et kalınlığındaki çelik borunun fiyatını belirlemiştir. Ancak Analiz Kitabında 1829 mm çap ve 10,40 mm et kalınlığındaki borunun rayicine rastlanılmamış, bunun yerine aynı çelik sınıfında 04.768/09F19 nolu 1829 mm çap ve 11.10 mm et kalınlığına sahip çelik boru rayicinin 2014 Yılı için 802 TL olarak belirlendiği görülmüştür. Aynı çelik sınıfında, çapları aynı, et kalınlığı daha fazla olan boru rayicinin İdarece esas alınandan daha düşük olduğu görülmektedir. Bunun üzerine 04.768/09F19 nolu boru tipine ait rayiç esas alınarak aşağıda gösterildiği üzere yeniden yapılan hesaplamada 04.768/09F nolu ɸ 1829 mm Dış Çapında ve 17 mm Et Kalınlığında Spiral Kaynaklı Çelik Boru (Yüklenici Malı, Nakliye Dahil) rayicinin hatalı olarak belirlendiği anlaşılmıştır.
+
+Bu itibarla, 04.768/09F nolu ɸ mm 1829 mm Dış Çapında ve 17 mm Et Kalınlığında Spiral Kaynaklı Çelik Boru (Yüklenici Malı, Nakliye Dahil) rayicinin belirlenebilmesi için kıyasen uygulanan Çevre ve Şehircilik Bakanlığı’nın 2014 yılı rayicinin hatalı alınması sonucu hesabı tabloda gösterildiği üzere oluşan ....... TL kamu zararının; Harcama Yetkilisi ........., Gerçekleştirme Görevlileri ..........., ..........., ..........., ........., ..........., .........., .......ve .........'den
+
+Müştereken ve müteselsilen,
+
+6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereğince işleyecek faizleri ile birlikte ödettirilmesine,
+
+İş bu ilamın tebliğ tarihinden itibaren 6085 sayılı Kanunun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu ve 56 ncı maddesi  gereğince beş yıl içinde Sayıştay Daireleri nezdinde yargılamanın iadesi yolu açık olmak üzere,
+
+Oybirliğiyle karar verildi.
