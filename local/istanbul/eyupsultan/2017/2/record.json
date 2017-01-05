@@ -1,0 +1,22 @@
+{
+  "number": "2",
+  "number_as_published": "2017/02",
+  "year": 2017,
+  "title": "Sözleşmeli personel ücreti tespiti",
+  "decision_date": "2017-01-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2017-ocak-ayi-meclis-kararlari/869",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-02/874",
+  "source_sha256": "25f80c451e9111be72c910e44ad69c7e2519cff67d67f57869a957cc15c974f8",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-01-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.01.2017 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "b3d758e846ec6dc08b679e619e27e97a5cf39a49faab200f8a73a9a84ebeab90"
+}
