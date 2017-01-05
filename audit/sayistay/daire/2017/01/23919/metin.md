@@ -1,0 +1,13 @@
+Park ve Bahçeler Müdürlüğü görevini tedviren yürüten Peyzaj Mimarının maaş ödemesi
+
+Park ve Bahçeler Müdürlüğü görevini tedviren yürüten Peyzaj Mimarı ..........'in maaşı hesaplanırken Özel Hizmet Tazminatı ve Ek Ödemeye esas oranlar ile Ek Göstergesinin hatalı alınması sonucu ..............TL kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak yapılan incelemede,
+
+2006-10344 Sayılı Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Bakanlar Kurulu Kararına ekli II Sayılı Özel Hizmet Tazminatı Cetvelinin “(E) Teknik Hizmetler” başlıklı bölümünün 1/b sırasında; yüksek mühendis, mühendis, yüksek mimar, mimar, bölge plancısı ve şehir plancılarının sahip oldukları kadro ve dereceleri itibariyle ne oranda Özel Hizmet Tazminatı ödeneceği düzenlenmiştir.  Kadrosu 1-4 derecenin dışında olanlar (6. Derece) için bu oran % 152 dir.
+
+375 Sayılı 657 Sayılı Devlet Memurları Kanunu, ….. Devlet Memurları Ve Diğer Kamu Görevlilerine Memuriyet Taban Aylığı Ve Kıdem Aylığı İle Ek Tazminat Ödenmesi Hakkında Kanun Hükmünde Kararnameye ekli I Sayılı Ek Ödeme Oranları Cetvelinin “2- Kadroları Teknik Hizmetler Sınıfında yer alan personel” başlıklı bölümünün (a) sırasında; başmühendis, başmimar, mühendis, mimar, bölge plancısı ve plancılarının sahip oldukları kadro ve dereceleri itibariyle ne oranda Özel Hizmet Tazminatı ödeneceği düzenlenmiştir. Kadrosu 1-4 derecenin dışında olanlar için bu oran % 130 dur.
+
+657 Sayılı Devlet Memurları Kanununa ekli I sayılı Ek Göstergelere ilişkin cetvelin “II- Teknik Hizmetler Sınıfı” başlıklı bölümünün (a) sırasında; Kadroları bu sınıfa dahil olup, en az 4 yıl süreli yükseköğretim veren fakülte veya yüksekokullardan mezun olarak yürürlükteki hükümlere göre Yüksek Mühendis, Mühendis, Yüksek Mimar ve Mimar ile Şehir Plancısı ve Bölge Plancısı unvanını almış olanlardan 6 ncı dereceden aylık alanlar için ek gösterge 1150 olarak belirlenmiştir.
+
+Anılan hükümlerle belirlenen Özel Hizmet Tazminatı, Ek Ödeme oranları ile Ek Gösterge, her ne kadar mimarlar için belirlenmiş, burada ayrıca peyzaj mimarı zikredilmemişse de, konu ile ilgili kurum ve kuruluşların görüşleri ve konuya ilişkin yargı kararları da dikkate alınarak peyzaj mimarı da mimar gibi değerlendirilerek kendisine mimar için belirlenen oranlar ve gösterge üzerinden aylık hesaplanması yasal mevzuatına uygun görülmüş olup konu hakkında ilişilecek bir husus bulunmadığına,
+
+İş bu ilamın tebliğ tarihinden itibaren 6085 sayılı Sayıştay Kanununun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu ve aynı Kanunun 56 ncı maddesi gereğince beş yıl içinde Sayıştay Daireleri nezdinde yargılamanın iadesi yolu açık olmak üzere oybirliğiyle karar verildi.
