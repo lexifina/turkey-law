@@ -1,0 +1,13 @@
+{
+  "number": "17-01/12-4",
+  "type": "Rekabet İhlali",
+  "decision_date": "2017-01-05",
+  "publication_date": "2017-05-26",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=d2bfb2c8-e517-498a-9542-07e3cad8a419",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=388",
+  "pdf_sha256": "59b02249f822c22e34b69a9a5b3f73b5775fe9d42a206a99ec08b3a43477cd31",
+  "pdf_bytes": "743097",
+  "pages": "94",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
