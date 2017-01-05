@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "217",
+  "decision_date": "2017-01-05",
+  "source_id": 23805,
+  "chamber": "5",
+  "ilam_number": "121",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23805/",
+  "source_sha256": "658cbae68490fa833bbf62173856eb2829c3f32443925f5257867c4919e8d3d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
