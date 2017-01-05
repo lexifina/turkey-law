@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.9171",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KORUMA AMAÇLI İMAR PLANLARI VE ÇEVRE DÜZENLEME PROJELERİNİN HAZIRLANMASI, GÖSTERİMİ, UYGULAMASI, DENETİMİ VE MÜELLİFLERİNE İLİŞKİN USUL VE ESASLARA AİT YÖNETMELİK",
+  "number": "9171",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2005/9171",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9171&MevzuatTertip=5",
+  "source_sha256": "ba2d6f41b70e3a1a1736e066ed5cbd89c35c48b6c3fa5a8bfb7b376769a0517a",
+  "source_bytes": 87566,
+  "published": "2005-07-26",
+  "gazette": "25887",
+  "in_force": "2017-01-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/1/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-01-05",
+      "RG-5/1/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-01-05",
+      "5/1/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4601,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
