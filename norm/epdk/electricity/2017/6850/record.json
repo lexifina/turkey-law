@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6850",
+  "decision_date": "2017-01-05",
+  "title": "Primer Frekans Kontrolüne Katılım Oranı Hakkında Kurul Kararı",
+  "categories": [
+    "Yan Hizmetlere İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=g4H/9pV3i8k=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=g4H/9pV3i8k="
+  ],
+  "source_sha256": "c486d0ad7197cb21d31cea89fc0537ae52f8d20ad661cd68ae8a85ec2fcadc44",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33874,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2017-01-05",
+  "law_text_complete": false
+}
