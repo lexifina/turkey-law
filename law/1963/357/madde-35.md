@@ -1,0 +1,2 @@
+Madde 35 – (26/10/1963 tarih ve 357 sayılı Kanunun hükmüdür.)
+Askeri Yargıtay Başkanı, II nci Başkanı, daire başkanları ve üyeleri ile Askeri Yargıtay Başsavcısının hakimlik vakar ve şerefine ve şahsi haysiyetlerine dokunan veya görevleri gereklerine uymıyan ihtiyari eylem ve tutumlarından dolayı haklarında 29 uncu maddede yazılı disiplin cezalarını uygulamak üzere Askeri Yargıtay Başkanının başkanlığı altında Askeri Yargıtay Başsavcısı, daire başkanları ve her daireden ad çekmek suretiyle seçilen birer üyeden müteşekkil bir haysiyet divanı kurulur.

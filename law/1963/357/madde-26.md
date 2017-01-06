@@ -1,0 +1,3 @@
+Soruşturma sonucu:
+Madde 26 – Askeri adalet müfettişince düzenlenen evrak kendisine gönderilen askeri savcı, suç, Disiplin Mahkemeleri Kuruluşu, Yargılama Usulü ve Disiplin Suç ve Cezaları hakkındaki Kanunda yazılı olsa bile, Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanunu hükümlerine göre gerekli işlemi yapar. Disiplin Mahkemeleri Kuruluşu, Yargılama Usulü ve Disiplin suç ve Cezaları hakkındaki Kanunun 2 nci kısmında yer alan disiplin suç ve cezalarına ait hükümler Askeri Yargıtay tarafından da uygulanır.(3)
+Askeri adalet müfettişince yapılan inceleme, ceza soruşturması olarak kabul edilebilir.(4)

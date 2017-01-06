@@ -1,0 +1,1 @@
+Geçici Madde 4 – (17/7/1972 - 1611 sayılı Kanunla eklenen geçici madde 2 hükmü olup madde numarası teselsül ettirilmiştir.) Bu kanunun yürürlüğe girdiği tarihte; albay ve general - amiral rütbelerinde bulunan askeri hakimler birinci sınıfa geçirilmiş sayılırlar.

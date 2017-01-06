@@ -1,0 +1,2 @@
+Geçici Madde 9 – (Ek: 22/5/2012 - 6318/42 md.)
+31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun yürürlüğe girdiği tarihten önce 5434 sayılı T.C. Emekli Sandığı Kanununa tabi olarak çalışmış olup 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamında sigortalı sayılan askeri hakimlerin emeklilik kesenek ve karşılıkları ile emekli aylıkları ve ikramiyelerinin hesaplanmasında 2802 sayılı Kanunun geçici 16 ncı maddesi hükümleri uygulanır.

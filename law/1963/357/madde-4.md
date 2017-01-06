@@ -1,0 +1,3 @@
+Madde 4 – (26/10/1963 tarih ve 357 sayılı Kanunun hükmüdür.)
+Hukuk fakültelerini; 3 üncü maddede gösterilen süre içinde bitiremiyen veya başarısızlık veya diğer sebeplerle bir defadan fazla sınıfta kalmak suretiyle bu süre içinde bitirmelerine imkan olmıyan veyahut üniversiteler yönetmeliklerine göre öğrencilikle ilişikleri kesilen subayların izinleri kaldırılır ve kıtalarına gönderilirler.
+Başarısızlık veya üniversitelerin yönetmeliklerine göre öğrencilikle ilişiklerinin kesilmeleri sebebi ile kıtalarına gönderilenlerin yükselmeleri emsallerine göre bir yıl geriye bırakılır. Şu kadar ki, iznin kaldırılmasını gerektiren başarısızlık mücbir sebeplere dayanıyorsa bu fıkra hükmü uygulanmaz.

@@ -1,0 +1,8 @@
+Soruşturma ve kovuşturma mercileri: (1)
+Madde 25 – (Değişik: 22/5/2012-6318/35 md.)
+Millî Savunma Bakanı, inceleme yapmakla görevlendirilen askeri adalet müfettişince düzenlenen ve düşüncesini de kapsayan evrakı inceler, elde edilen sonuca göre soruşturma yapılması için izin verilmesine (…) (2) ya da soruşturma yapılmasına lüzum görmezse evrakın işlemden kaldırılmasına karar verir.(2)
+Millî Savunma Bakanınca soruşturma açılmasına izin verildiği takdirde düzenlenmiş olan evrak, gereği yapılmak üzere ilgilinin görevli bulunduğu yere en yakın askeri mahkemenin savcısına gönderilir. Ancak Askeri Yargıtay kadrolarında savcılık ve tetkik hakimliği ile Askeri Yüksek İdare Mahkemesi kadrolarında savcılık ve raportörlük görevi yapan askeri hakimler ile Millî Savunma Bakanlığı kadrolarında görevli askeri hakimler hakkında düzenlenen evrak Genelkurmay Başkanlığının bulunduğu yerde kurulan askeri mahkemenin savcısına gönderilir.
+Askeri savcı tarafından iddianame düzenlenmesi halinde iddianamenin kabulü ya da iadesi konusunda karar verilmek üzere soruşturma evrakı ve düzenlenen iddianame Askeri Yargıtaya gönderilir. Askeri Yargıtay Başkanlar Kurulunun belirleyeceği daire, iddianamenin kabulüne veya iadesine karar verir.
+İddianamenin iadesi kararına karşı, iddianameyi düzenleyen askeri savcı tarafından Askeri Yargıtay Daireler Kuruluna itiraz edilebilir.
+Haklarında iddianamenin kabulüne karar verilen askeri hakimlerin kovuşturması iddianameyi değerlendiren Askeri Yargıtay dairesinde yapılır. İddianamenin kabulünden itibaren Askeri Yargıtay dairesinde yapılacak kovuşturmada savcılık görevini Askeri Yargıtay Başsavcılığı yürütür.
+Bir suçtan dolayı yapılacak ceza soruşturması disiplin cezası uygulanmasına engel olmaz.

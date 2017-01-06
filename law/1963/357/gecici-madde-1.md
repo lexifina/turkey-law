@@ -1,0 +1,5 @@
+Geçici Madde 1 – Bu kanunun yürürlüğe girdiği tarihte askeri adli hakim sınıfında bulunanlar hizmet süreleri, sicil durumları, Kuvvet bağlılıkları ve kadro zorunlukları esas alınarak askeri hakimliğe, askeri savcılığa, adli müşavirliğe, Askeri Adalet İşleri Başkanlığı ile Askeri Adalet Teftiş Kurulu Başkanlığı kadrolarına ve askeri yargı ile ilgili idari görevlere atanırlar.
+720-33
+Bu kanuna göre yapılacak hizmet atanma işlemleri, bu kanunun yürürlüğe girdiği tarihten başlayarak en geç üç ay içinde bitirilir.
+Hizmet atanmaları yapılıncaya kadar askeri adli hakim deyimi, askeri hakim, askeri savcı ile yardımcılarını, adli müşavirleri, Askeri Adalet İşleri Başkanlığı ve Askeri Adalet Teftiş Kurulu Başkanlığı kadrolarında ve askeri yargı ile ilgili idari kadrolarda bulunanları ve adayları kapsar.
+Halen Jandarma Genel Komutanlığına bağlı ve mensup olan askeri adli hakimler, bu kanunun yayımından başlıyarak en geç üç ay içinde İçişleri Bakanlığınca, Milli Savunma Bakanlığı emrine nakledilirler.

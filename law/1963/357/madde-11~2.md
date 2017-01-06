@@ -1,0 +1,8 @@
+Yardımcılık:
+Madde 11 – (Değişik: 17/7/1972 - 1611/1 md.)
+Askeri hakim ve askeri savcı yardımcılıkları görevlerinde bekleme süresi üç yıldır. Bu süre sonunda yeterli görülenler askeri hakimliğe geçirilirler. Yeterli görülmeyenlerden; bu kanunun 10 uncu madesinin (A) bendi kapsamına girenler eski sınıfına iade edilirler. (B) bendi kapsamına girenler, yardımcılıkta bir yıl daha denenirler. Bu süre sonunda da yeterlik gösteremeyenler, Genelkurmay Başkanlığınca ihtiyaç görülen sınıflara geçirilirler. Türk Silahlı Kuvvetlerinde hizmet ihtiyacı görülmeyenlerin, Milli Savunma Bakanlığınca Türk Silahlı Kuvvetlerinden ilişkileri kesilir. Bunlara hizmet süresince ödenen aylık, ödenek ve tazminatlar hariç, Devletçe yapılan diğer masraflar kanuni faizleri ile birlikte kendilerinden tahsil olunur.
+Bu yeterlik için, askeri hakim veya askeri savcı yardımcılığı görev süresi içinde alınan mesleki sicil notları ortalamasının mesleki sicil tam notunun % 50 veya daha fazlası olması şarttır.
+_______________
+(1) 25/7/2016 tarihli ve 669 sayılı KHK’nin 12 nci maddesiyle bu fıkrada yer alan “gözönünde tutularak” ibaresinden sonra gelmek üzere “Milli Savunma Bakanlığının mesleğe kabul kararı üzerine” ibaresi eklenmiş olup, daha sonra bu hüküm 9/11/2016 tarihli ve 6756 sayılı Kanunun 12 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+(2) 15/8/2016 tarihli ve 671 sayılı KHK’nin 1 inci maddesiyle, bu bentte yer alan “kadınlar” ibaresi “sivil kaynaktan alınanlar” şeklinde değiştirilmiş olup, daha sonra bu hüküm 9/11/2016 tarihli ve 6757 sayılı Kanunun 1 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+720-10

@@ -1,0 +1,2 @@
+Madde 11 – (26/10/1963 tarih ve 357 sayılı Kanunun hükmüdür.)
+Askeri hakim ve askeri savcı yardımcılıklarında bekleme süresi üç yıldır. Bu süre sonunda askeri hakimliğe veya askeri savcılığa geçirilmeye yeterli görülen yardımcılar askeri hakim veya askeri savcılığa geçirilirler. Yeterli görülmiyenler, yardımcılıkta bir yıl daha denenirler. Bu süre sonunda da yükselme yeterliği gösteremiyenler personel sınıfına geçirilirler.

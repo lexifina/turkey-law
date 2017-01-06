@@ -1,0 +1,3 @@
+Ek Madde 3 – (Ek: 17/7/1972 - 1611/1 md.)
+Mevcut askeri hakim miktarı, kadro ihtiyacını karşılamadığı takdirde, Yedek subay Okulunu bitirerek asteğmenliğe nasbedilenlerden; Hukuk Fakültesini bitirmiş ve hakimlik görevlerinden sayılan hizmetlerde bulunmuş veya avukatlık yapmış olup da bu kanuna göre lüzumlu şartlara sahip olanlardan yeteri kadar, (…)(1) Milli Savunma Bakanlığınca askeri hakim sınıfına geçirilerek 16 ncı madde hükmüne göre atamaları yapılır. Bunlar, askeri hakimlerin hak ve yetkilerine sahip olurlar.(1)
+Askeri hakim niteliklerine sahip olmadıkları sonradan anlaşılanlar, Milli Savunma Bakanlığı tarafından asıl sınıflarına iade edilirler.
