@@ -1,0 +1,23 @@
+{
+  "number": "6",
+  "number_as_published": "6",
+  "year": 2017,
+  "title": "1/1000 ölçekli Bakırköy Merkez Demiryolu Güneyine İlişkin Revizyon İmar Planı/Tadilatları Plan Notu Değişikliği Teklifi (Plan İşlem No:UİP-7278,2)",
+  "decision_date": "2017-01-06",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/47",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/06-merkez-demiryolu-guneyi-uip-06012017.pdf",
+  "source_sha256": "066a7879c580bb6bd767e29c83300823df3605c8f5a5929664f17ef6976f79fd",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-01-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06 Ocak 2017 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
