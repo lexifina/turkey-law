@@ -1,0 +1,2 @@
+Projelerin izlenmesi
+MADDE 13 – (1) Proje yöneticileri, her altı ayda bir ara rapor vermek zorundadır. Altı aylık süreçte yapılan çalışmaların, varılan ara sonuçların ve harcamaların özetlendiği ara rapor uzmanlar grubuna, uzmanlar grubunun bulunmadığı birimlerde doğrudan BAP Komisyonuna sunulur. Uzmanlar grubu proje çalışmalarının programa uygun olarak yürütülüp yürütülmediğini değerlendirir ve ulaştığı sonuçları ve görüşlerini BAP Komisyonuna iletir.

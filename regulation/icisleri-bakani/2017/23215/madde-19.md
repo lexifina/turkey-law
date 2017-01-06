@@ -1,0 +1,2 @@
+Yollukların ödenmesi
+MADDE 19 – (1) Bilimsel Araştırma Projelerindeki yolluklar tertibinden sadece proje yöneticisi ve proje ekibinde yer alan görevliler yararlanabilir. Proje ekibi dışındaki kişilere harcırah ödemesi yapılmaz. Alan çalışması dışındaki seyahatlerde ise proje konusu ile ilgili kongre/konferans ya da seminerlere tebliğle katılımlarda, beyanname ekinde katılım belgesinin olması kaydıyla BAP hesabından yolluk ödemesi yapılabilecektir.

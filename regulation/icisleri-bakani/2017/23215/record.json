@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23215",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "POLİS AKADEMİSİ BAŞKANLIĞI BİLİMSEL ARAŞTIRMA PROJELERİNİN HAZIRLANMASI VE DEĞERLENDİRİLMESİ HAKKINDA YÖNETMELİK",
+  "number": "23215",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2017/23215",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23215&MevzuatTertip=5",
+  "source_sha256": "c9c50e3bfc8ba0096faf00b80e49d8f04e10995d3bcf36dea39b2d8393b97f78",
+  "source_bytes": 58828,
+  "published": "2017-01-06",
+  "gazette": "29940",
+  "in_force": "2017-01-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.01.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3429,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

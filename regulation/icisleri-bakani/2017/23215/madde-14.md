@@ -1,0 +1,2 @@
+Projelerin sonuçlandırılması
+MADDE 14 – (1) Proje yöneticisi, protokolde belirtilen proje bitiş tarihini izleyen dört ay içinde araştırma sonuçlarını içeren ve BAP Komisyonu tarafından belirlenen formatta hazırlanmış proje kesin raporunu uzmanlar grubuna, uzmanlar grubunun bulunmadığı birimlerde doğrudan BAP Komisyonuna sunar. Ayrıca proje kapsamında sunulan bildiriler, yayımlanan makaleler kesin rapora eklenir. Tamamlanmış lisansüstü tezler kesin rapor olarak kabul edilmez. Lisansüstü tez projelerinin kesin raporları, tezin tamamlandığına dair bir belgeyle birlikte sunulur.

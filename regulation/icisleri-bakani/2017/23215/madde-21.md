@@ -1,0 +1,3 @@
+Muhasebe işlemleri, ödemelerin yapılması ve kayıtların tutulması
+MADDE 21 – (1) Bilimsel Araştırma Projeleri payının takibi, yönetimi ile giderlere ilişkin belgelerin muhasebe yöntemlerine göre saklanması, usulüne uygun yapılan giderlerin kanıtlayıcı belgeler ile kendisine ulaşmasını müteakip hak ediş sahiplerine ödeme yapılması, İşletmenin bağlı bulunduğu saymanlık müdürlüğü tarafından yerine getirilir.
+(2) Bilimsel Araştırma Projelerine ilişkin işlemlerde 1/5/2007 tarihli ve 26509 sayılı Resmî Gazete’de yayımlanan Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği eki ödeme emri belgesi veya muhasebe işlem fişi, muhasebeleştirme belgesi olarak kullanılır. Muhasebeleştirme belgelerine harcama belgelerinin asılları eklenir.

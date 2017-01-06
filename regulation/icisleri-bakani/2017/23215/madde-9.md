@@ -1,0 +1,10 @@
+Uzmanlar grubunun görev yetki ve sorumlulukları
+MADDE 9 – (1) Uzmanlar grubu, hazırlanan proje tekliflerini, Yönetmelikte belirtilen ilkeler ile BAP Komisyonu tarafından o yıl için belirlenen destekleme ilkelerine uygunluk yönünden değerlendirir. Ayrıca proje başvurularının usulüne uygun olup olmadığını kontrol eder.
+(2) Proje teklifleri ile ilgili yapılacak değerlendirmede, projenin yürütüleceği birimin, tesis, donanım ve personel olanaklarını, araştırmacıların ilgili alandaki bilgi, deneyim ve birikimleri ile önerilen mali portreyi göz önünde bulundurur ve bu hususları değerlendirme raporunda belirtir.
+(3) Çok disiplinli projelerin değerlendirilmesi için gerek görülürse BAP Komisyonuna danışman önerir.
+(4) Projelerin, mali portre ve mevcut olanaklar göz önünde bulundurularak değerlendirilmesi sırasında, gerekli hallerde proje yöneticileri ile mutabakat sağlanarak, proje bütçelerini, Bilimsel Araştırma Projeleri Başvuru Formunda “Uzmanlar Grubu Teklifi” için ayrılan sütunda belirtmek suretiyle, yeni mali portresiyle BAP Komisyonuna teklif eder.
+(5) Uzmanlar grubu yapacağı değerlendirme sonucunda, yeterli bulmadığı projelerin desteklenmemesini, gerekçesi ile birlikte BAP Komisyonuna önerebilir.
+(6) Proje önerileri hakkındaki görüşlerini rapor halinde BAP Komisyonuna sunar.
+(7) Kabul edilen projelerin altışar aylık dönemlerde hazırlanması gereken ara raporlarını ve tamamlanmasından sonra hazırlanması gereken kesin raporlarını değerlendirir ve BAP Komisyonuna gönderir. Uzmanlar grubu gerek gördüğünde ara ve kesin raporlarda danışman görüşü alabilir ve bu görüşler doğrultusunda belirlenecek süre içerisinde raporda düzeltme isteyebilir. Değerlendirme sonucunda, yeterli bulmadığı ara raporlarda desteklenmemesi, kesin raporlarda ise reddedilmesi ile ilgili görüşünü gerekçeli olarak BAP Komisyonuna önerir.
+(8) Projelerin süre uzatma, bütçe artırılması ve harcama kalemleri ile ilgili değişiklik taleplerini inceleyerek BAP Komisyonuna bildirir.
+(9) Bu Yönetmelikte tanımlanan projeler kapsamında, kesin raporla birlikte ya da daha sonra sunulan yayın ve bildirileri BAP Komisyonuna iletir.

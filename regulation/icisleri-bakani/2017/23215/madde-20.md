@@ -1,0 +1,6 @@
+Ön ödeme işlemleri
+MADDE 20 – (1) Bilimsel Araştırma Projeleri için proje yöneticisine verilecek azami ön ödeme (avans) limitleri, o yılın merkezi yönetim bütçe kanununda iller için belirlenen parasal limitin altı katına kadar olacak şekilde Yönetim Kurulu tarafından belirlenir.
+(2) Her harcama yetkilisi mutemedi aldığı avanstan harcadığı tutarlara ilişkin kanıtlayıcı belgeleri en çok bir ay, açılan kredilerden harcadığı tutarlara ilişkin kanıtlayıcı belgeleri ise en çok üç ay içerisinde muhasebe birimine vermekle yükümlüdür.
+(3) Harcama yetkilisi mutemedi işin tamamlanmasından sonra veya mali yılın sonunda bu sürelerin dolmasını beklemeksizin avans veya kredi artığını iade etmek, henüz mahsubunu yaptırmadığı harcamalara ait belgeleri vermek ve varsa artan parayı muhasebe birimine iade etmek suretiyle mahsup işlemini gerçekleştirmek zorundadır. Bu şekilde mahsup işlemi yapılmadıkça aynı iş için yeniden avans verilemez, kredi açılamaz.
+(4) Aldıkları avansın, mahsubunu yapmayan harcama yetkilisi mutemetleri hakkında genel hükümlere göre takip yapılır.
+(5) Avans ve kredinin verilmesinde ve mahsubunda, 31/12/2005 tarihli ve 26040 (3. Mükerrer) sayılı Resmi Gazete’de yayımlanan Merkezi Yönetim Harcama Belgeleri Yönetmeliğindeki belgeler aranır.

@@ -1,0 +1,3 @@
+Uzmanlar grubu
+MADDE 8 – (1) BAP Komisyonunun ihtiyaç duyduğu, Genel Müdürlük hizmet birimleri ve Başkanlığa bağlı birimlerden “Uzmanlar Grubu” oluşturulabilir.
+(2) Uzmanlar grubu üyeleri en az üç, en fazla yedi kişi olacak şekilde, BAP Komisyonunun önerisi ve Başkanın onayı ile görevlendirilir. Görev süresi en fazla üç yıldır. Süresi dolan üyeler tekrar seçilebilir. Altı ay ve daha uzun süreli görevden ayrılmalarda kalan süreyi doldurmak üzere yeni üye seçimi yapılır. BAP Komisyonu, uzmanlar grubu üyelerinden birisini Başkan olarak atar. Uzmanlar grubu başkanı, uzmanlar grubunu toplantıya çağırır. Uzmanlar grubunda kararlar oy çokluğu ile alınır.
