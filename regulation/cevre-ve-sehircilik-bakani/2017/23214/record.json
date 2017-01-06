@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.23214",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ATIKSU TOPLAMA VE UZAKLAŞTIRMA SİSTEMLERİ HAKKINDA YÖNETMELİK",
+  "number": "23214",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2017/23214",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23214&MevzuatTertip=5",
+  "source_sha256": "63e4b315f48675672e862906c5b4ba358484f60c1c35bd45e47d78f63ee2221b",
+  "source_bytes": 105049,
+  "published": "2017-01-06",
+  "gazette": "29940",
+  "in_force": "2017-01-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.01.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6320,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23214-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
