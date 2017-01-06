@@ -1,0 +1,2 @@
+Kanun hükmünde kararnameye aykırı teknik yönetmelik
+Madde 58 – Teknik yönetmelik, 56 ncı maddede öngörülen şartları içermediği takdirde, teknik yönetmelikte gerekli değişiklikleri yapması, Enstitü tarafından marka sahibine bildirilir. Marka sahibi bildirim tarihinden itibaren altı ay içinde gerekli değişiklikleri yapmaz ve teknik yönetmeliği düzeltmez ise, garanti markası veya ortak markanın tescili talebi red edilir.

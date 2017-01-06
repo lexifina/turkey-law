@@ -1,0 +1,97 @@
+{
+  "source_id": "24.5.556",
+  "path": "decree-law/1995/556",
+  "number": "556",
+  "tertip": "5",
+  "title": "MARKALARIN KORUNMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1995-06-24",
+  "enacted_as_printed": "24.06.1995",
+  "published": "1995-06-08",
+  "gazette": "22326",
+  "in_force": "2017-01-06",
+  "in_force_basis": "latest date printed in the act's own entry-into-force list: \"Anayasa Mahkemesinin 14/12/2016 tarihli ve E.: 2016/148, K.: 2016/189 sayılı Kararı | 14 | 6/1/2017\"",
+  "date_evidence": [
+    [
+      "2017-01-06",
+      "Anayasa Mahkemesinin 14/12/2016 tarihli ve E.: 2016/148, K.: 2016/189 sayılı Kararı | 14 | 6/1/2017",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2016-12-22",
+      "*** Bu KHK 22/12/2016 tarihli ve 6769 sayılı Kanunun 191 inci maddesiyle yürürlükten kaldırılmıştır. Ancak 6769 sayılı Kanunun geçici maddeleri gereğince mülga KHK’nin bazı hükümlerin uygulanmasına devam edileceğinden uygulayıcıya kolaylık sağlamak amacıyla 556 sayılı KHK sistemde korunmuştur.",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2015-06-02",
+      "Anayasa Mahkemesi’nin 27/5/2015 tarihli ve E.: 2015/33, K.: 2015/50 sayılı Kararı | 7 | 2/6/2015",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2015-05-15",
+      "Anayasa Mahkemesi’nin 13/5/2015 tarihli ve E.: 2015/49, K.: 2015/46 sayılı Kararı | 16 | 15/5/2015",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2014-07-24",
+      "Anayasa Mahkemesi’nin 9/4/2014 tarihli ve E.: 2013/147, K.: 2014/75 sayılı Kararı | 42 | 24/7/2014",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2009-01-28",
+      "5833 | 9, 61, 61/A | 28/1/2009",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2009-01-21",
+      "(Değişik: 21/1/2009 – 5833/2 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2009-01-21",
+      "(Değişik: 21/1/2009 – 5833/1 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2004-06-26",
+      "5194 | 5,7, 22, 42, 61/A,71,75,78 | 26/6/2004",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2004-06-22",
+      "(Ek fıkra :22/6/2004 – 5194/14 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2004-06-22",
+      "(Ek cümle :22/6/2004 – 5194/12 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2004-06-22",
+      "(Değişik:22/6/2004 – 5194/17 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "*** Bu KHK 22/12/2016 tarihli ve 6769 sayılı Kanunun 191 inci maddesiyle yürürlükten kaldırılmıştır. Ancak 6769 sayılı Kanunun geçici maddeleri gereğince mülga KHK’nin bazı hükümlerin uygulanmasına devam edileceğinden uygulayıcıya kolaylık sağlamak amacıyla 556 sayılı KHK sistemde korunmuştur.",
+    "Yürürlükten kaldırılan hükümler",
+    "Madde 82 – (Değişik : 3/11/1995 - 4128/5 md.) 3/3/1965 tarihli ve 551 sayılı Markalar Kanunu yürürlükten kaldırılmıştır."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=556&MevzuatTertip=5",
+  "source_sha256": "a6c1c8b5868f549fe3b37d101679e1ffcc5f5c4778dcfb7f696e631437d054b8",
+  "source_bytes": 171901,
+  "words": 7173,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}

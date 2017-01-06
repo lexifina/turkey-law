@@ -1,0 +1,3 @@
+Yoksun kalınan kazancın artırımı
+Madde 67 – Marka üzerinde tasarruf yetkisi olan kişi, yoksun kalınan kazancın hesaplanmasında, 66 ncı maddenin ikinci fıkrasının (a) veya (b) veya (c) bendlerinde belirtilen değerlendirme usullerinden birini seçmişse; mahkeme, ürünün satışında markanın ekonomik bakımdan önemli bir katkısının bulunduğu kanaatına vardığı takdirde, kazancın hesaplanmasında makul bir payın daha eklenmesine karar verir.
+Markanın ilgili ürüne ekonomik bakımdan önemli bir katkısının olduğunun kabul edilebilmesi için, ilgili ürüne olan talebin oluşmasında markanın belirleyici etken olduğunun anlaşılmış olması gerekir.

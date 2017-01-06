@@ -1,0 +1,3 @@
+Korumadan yararlanacak kişiler
+Madde 3 – Bu Kanun Hükmünde Kararnamenin öngördüğü koruma; Türkiye Cumhuriyeti sınırları içinde ikametgahı olan veya sınai veya ticari faaliyette bulunan gerçek veya tüzel kişilerce veya Paris Sözleşmesi yahut Dünya Ticaret Örgütü Kuruluş Anlaşması hükümleri dahilinde başvuru hakkına sahip kişilerce elde edilir.
+Bu Kanun Hükmünde Kararname kapsamına girmemekle beraber, Türkiye Cumhuriyeti uyruğundaki kişilere kanunen veya fiilen marka koruması tanımış yabancı devletlerin gerçek veya tüzel kişileri de karşılıklılık ilkesi uyarınca Türkiye'de marka korunmasından aynı şekilde yararlanır.

@@ -1,0 +1,1 @@
+Geçici Madde 3 – Bu Kanun Hükmünde Kararnamenin uygulanması bakımından, ihtisas mahkemeleri kuruluncaya kadar, asliye ticaret ve asliye ceza mahkemelerinin hangilerinin ihtisas mahkemesi olarak görevlendirileceği ve bu mahkemelerin yargı çevresi Adalet Bakanlığının teklifi üzerine Hakimler ve Savcılar Yüksek Kurulu tarafından belirlenir.

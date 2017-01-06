@@ -1,0 +1,2 @@
+Geçici Madde 2 – Hizmet markalarını fiilen kullananlar, bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihten itibaren en geç oniki ay içinde, söz konusu hizmet markasını kullandıklarını kanıtlayacak resmi belgeleri de eklemek suretiyle hizmet markasının tescilini talep edebilecektir.
+Enstitü, oniki aylık süre dolduktan sonra, hizmet markası sahiplerinin taleplerini ilk kullanım tarihlerini de dikkate alarak değerlendirir.
