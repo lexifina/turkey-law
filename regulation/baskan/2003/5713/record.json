@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.5713",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DOĞAL GAZ PİYASASINDA YAPILACAK DENETİMLER İLE ÖN ARAŞTIRMA VE SORUŞTURMALARDA TAKİP EDİLECEK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "5713",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2003/5713",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5713&MevzuatTertip=5",
+  "source_sha256": "d10d4a5549443095f3b0a0b1617fbb29f883e9a22fc3a0d20986bf0115ea65ce",
+  "source_bytes": 50902,
+  "published": "2003-01-28",
+  "gazette": "25007",
+  "in_force": "2017-01-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/1/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-01-07",
+      "RG-7/1/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-01-04",
+      "RG-4/1/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-08-30",
+      "RG-30/8/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-10-31",
+      "R.G.-31/10/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2395,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
