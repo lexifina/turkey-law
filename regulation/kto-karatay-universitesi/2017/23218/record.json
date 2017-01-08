@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-01-08",
+      "08.01.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29942",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-01-08",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "KTO-Karatay Üniversitesi",
+  "issuer_slug": "kto-karatay-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kto-karatay-universitesi/2017/23218",
+  "published": "2017-01-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23218&MevzuatTertip=5",
+  "source_bytes": 26001,
+  "source_id": "8.5.23218",
+  "source_sha256": "5024b8f4325d845c4978335ca44c043ac2cc5702983cbe09c37b291f4a7d0e24",
+  "text_status": "as-enacted",
+  "title": "KTO KARATAY ÜNİVERSİTESİ ÇOCUK EĞİTİMİ UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 332,
+  "word_count": 1079
+}
