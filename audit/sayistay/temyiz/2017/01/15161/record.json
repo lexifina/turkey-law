@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43957",
+  "decision_date": "2017-01-10",
+  "source_id": 15161,
+  "chamber": "1",
+  "file_number": "42422",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15161/",
+  "source_sha256": "47e04f0c5a6e42d65435fdfd5e92bc02a1ae34733faf14472f4e74f3a0283326",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
