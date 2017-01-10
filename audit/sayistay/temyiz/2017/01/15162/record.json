@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43958",
+  "decision_date": "2017-01-10",
+  "source_id": 15162,
+  "chamber": "1",
+  "file_number": "42423",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2015",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15162/",
+  "source_sha256": "f8fd75de5a37435aa767a80a1d5226fa30f0458ef38c9acb14c0edb3988dd793",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
