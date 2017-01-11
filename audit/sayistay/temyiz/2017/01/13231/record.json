@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42603",
+  "decision_date": "2017-01-11",
+  "source_id": 13231,
+  "chamber": "1",
+  "file_number": "39914",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13231/",
+  "source_sha256": "33db2a2da7964f5257082edaa142868e7ff8a1c30a4ea11b9588af044ef33fce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
