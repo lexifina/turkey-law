@@ -1,0 +1,7 @@
+Konu: Ahiz’in temyiz başvurusu.
+
+Dilekçi 161 sayılı ilamın 17 nci maddesine itiraz etmekte ise de, söz konusu tazmin hükmü ilamda isimleri yazılı sorumlulara yöneltilmiş olup dilekçe sahibinin bu tazmin hükmündeki durumu, tazmine konu ödemenin sadece ahizi olmaktan ibaret bulunmaktadır.
+
+Sayıştay Dairelerince verilen kararlara karşı Temyiz Kurulu nezdinde temyize yetkili olanlar 6085 sayılı Kanunun 55 inci maddesinin 2 nolu fıkrasının atıfta bulunduğu 52 nci maddesinde belirtilen daire ve makamlar ile kendilerine tazmin hükmedilmiş olan memurlardan ibaret olup bunlar arasında tazmine esas olan parayı alanlar sayılmamış bulunduğundan ahiz durumunda olan …’in dilekçesi üzerine Kurulumuzca yapılacak bir işlem olmadığına,  oy birliği ile,
+
+Karar verildiği 11.01.2017 tarih ve 42592 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
