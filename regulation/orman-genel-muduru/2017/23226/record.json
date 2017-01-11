@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23226",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AĞAÇLANDIRMA VE EROZYON KONTROLÜ HİZMETLERİNE İLİŞKİN YÖNETMELİK",
+  "number": "23226",
+  "issuer": "Orman Genel Müdürü",
+  "issuer_slug": "orman-genel-muduru",
+  "path": "regulation/orman-genel-muduru/2017/23226",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23226&MevzuatTertip=5",
+  "source_sha256": "759d88b8300af865b854d8cb5bd39db79fcb35804adc3c3734b2141ab2e28fc2",
+  "source_bytes": 38807,
+  "published": "2017-01-11",
+  "gazette": "29945",
+  "in_force": "2017-01-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.01.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2406,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

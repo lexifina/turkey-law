@@ -1,0 +1,3 @@
+Devir işlemleri
+GEÇİCİ MADDE 3 – (1) Köy tüzel kişiliğine, Ağaçlandırma Yönetmeliğine göre saha devri ve sahaya ortak alma işlemlerinin yapılması halinde, köy tüzel kişilerinin kullanmış oldukları hibe ve kredilerle ilgili idari ve mali yükümlülükler; sahayı devralan gerçek ve tüzel kişilere geçer. Sahaya ortak alınması durumunda ortak olan gerçek ve tüzel kişiler, bu hibe ve kredilerin idari ve mali yükümlülüklerinden müştereken ve müteselsilen sorumlu olurlar.
+(2) Kamu kurum ve kuruluşlarına ait özel ağaçlandırma, özel erozyon kontrolü ve özel imar-ihya sahalarının Genel Müdürlüğe devredilmesi durumunda, bu sahalar için kullanılan kredi ve hibeler geri alınmaz.

@@ -1,0 +1,4 @@
+Hibe denetimi
+MADDE 11 – (1) Tahsis edilen ve ödenen hibe kayıtlarının tutulması, proje uygulamalarının denetim, takip ve kontrolü İşletme/Fidanlık Müdürlükleri tarafından gerçekleştirilir.
+(2) Hibe ödemesi yapılan proje uygulamalarının denetimi, takibi ve kontrolü yılda en az bir defa İşletme/Fidanlık Müdürlüğü tarafından kurulan, başkan ve iki teknik eleman olmak üzere asgari 3 kişiden oluşan denetim komisyonlarınca yapılır. Genel Müdürlükçe belirlenen örnek dispozisyona göre düzenlenecek uygulama izleme cetveli her yıl sonunda Bölge Müdürlüğüne gönderilir.
+(3) İşletme/Fidanlık Müdürlüğü, hazine arazileri ile Devletin hüküm ve tasarrufu altındaki arazilerde yapılan özel ağaçlandırma, özel imar-ihya ve özel fidanlık çalışmalarına ait her yıl düzenlenen uygulama izleme cetvelinin bir örneğini de saha tahsisini/kira sözleşmesini yapan birime gönderir.
