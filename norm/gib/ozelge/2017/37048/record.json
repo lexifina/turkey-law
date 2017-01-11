@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.01-175[8-2016]-3156",
+  "source_id": 37048,
+  "date": "2017-01-11",
+  "title": "65 Yaş Maaşı Alanın İndirimli Bina Vergisi Oranı (Sıfır) Uygulamasından Yararlanıp Yararlanamayacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37048",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "345aa15cc8a70a99d863f51e9cf6248f68c8d3fa711d0a9e3ae15a7130c3a0c9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
