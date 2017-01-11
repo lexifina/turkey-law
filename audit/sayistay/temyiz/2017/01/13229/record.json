@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42601",
+  "decision_date": "2017-01-11",
+  "source_id": 13229,
+  "chamber": "1",
+  "file_number": "39582",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13229/",
+  "source_sha256": "81433f4d197ced6436618c79ccb71de308dcc540b323205ebae90cb880402290",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
