@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42593",
+  "decision_date": "2017-01-11",
+  "source_id": 13220,
+  "chamber": "8",
+  "file_number": "41068",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13220/",
+  "source_sha256": "5d1c7adf02527b606baf186c6f52b37eecc26eef58a7e96dfda857d5ce34e5ca",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
