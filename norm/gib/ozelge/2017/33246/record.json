@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.42.16.02-130[29.Md/2015-1114]-2736",
+  "source_id": 33246,
+  "date": "2017-01-11",
+  "title": "DİİB Kapsamında İkincil İşlem Görmüş Ürün İçin Ödenen KDV'nin İndirimli Orana Tabi İşlemlerde Yüklenim Konusu Yapılıp Yapılmayacağı Hak.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33246",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "33a16cc72c0ed8354b82a684eb471a6d15a92781703258ab9a97c174d2e6ae70",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
