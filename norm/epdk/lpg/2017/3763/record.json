@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "3763",
+  "decision_date": "2017-01-12",
+  "title": "Sıvılaştırılmış Petrol Gazları (LPG) Piyasasında Lisans Tadili ve Süre Uzatımı Başvurularında Aranacak Bilgi ve Belgelere İlişkin",
+  "resmi_gazete_date": "2012-04-12",
+  "resmi_gazete_number": "28262",
+  "categories": [
+    "Lisans Tadili ve Süre Uzatımları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jopj1GSatE0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jopj1GSatE0="
+  ],
+  "source_sha256": "fc1fff112084e699d4f6439c28860b7dbe9b66a49e331e5507a9ae9114021bf1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5101,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2017-01-12",
+  "law_text_complete": false
+}
