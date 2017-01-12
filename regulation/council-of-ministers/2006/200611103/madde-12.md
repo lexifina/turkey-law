@@ -1,0 +1,2 @@
+Enstitü’ye naklen ya da yeniden atanacakların değerlendirilmesi
+MADDE 12 – (1) Kamu kurum ve kuruluşlarında personel kanunlarına tabi olarak görev yapmakta olanlar ile daha önce personel kanunlarına tabi olarak görev yapmış olanların, Enstitü pozisyonlarına atanmalarına ilişkin değerlendirme, gerekli şartları taşımaları kaydıyla, sahip oldukları ve atanılacak pozisyonun gerektirdiği nitelikler ile Enstitü hizmet ihtiyaçları çerçevesinde, Başkan tarafından belirlenir.
