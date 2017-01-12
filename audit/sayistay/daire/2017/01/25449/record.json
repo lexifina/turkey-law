@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10624",
+  "decision_date": "2017-01-12",
+  "source_id": 25449,
+  "chamber": "1",
+  "ilam_number": "96",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25449/",
+  "source_sha256": "7fe155a64b3a26255ffa2e78b22dc04b31eaf2dd48f49a07700cfd821fd5767d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
