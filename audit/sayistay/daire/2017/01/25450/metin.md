@@ -1,0 +1,1 @@
+Kira sözleşmeleri uyarınca kiracılar tarafından ödenmesi gerekirken idare bütçesinden ödenen toplam … TL elektrik, su ve ısınma giderinin tahsiline yönelik olarak gerekli idari ve hukuki süreç başlatılmış olduğundan, bu aşamada yapılacak işlem bulunmadığına, oy birliğiyle,

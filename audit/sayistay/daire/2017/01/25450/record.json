@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10624",
+  "decision_date": "2017-01-12",
+  "source_id": 25450,
+  "chamber": "1",
+  "ilam_number": "96",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25450/",
+  "source_sha256": "86d681bf30da125be659ff5467cc344525d78fb00c4a3072a0a2862c8318a149",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
