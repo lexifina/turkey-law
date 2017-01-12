@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "220",
+  "decision_date": "2017-01-12",
+  "source_id": 23884,
+  "chamber": "5",
+  "item_number": 3,
+  "account_year": 2015,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23884/",
+  "source_sha256": "62a9aca63b092841352665aa29f2782d60286ff16b9bcffb7c0d288ba45bc75c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
