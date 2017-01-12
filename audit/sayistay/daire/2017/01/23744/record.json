@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10624",
+  "decision_date": "2017-01-12",
+  "source_id": 23744,
+  "chamber": "1",
+  "ilam_number": "96",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23744/",
+  "source_sha256": "409e64120a3090cfeccf1a055f8020b034f36c09d0d1a2d81f5f113e286c2163",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
