@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "418",
+  "decision_date": "2017-01-12",
+  "source_id": 24166,
+  "chamber": "6",
+  "ilam_number": "188",
+  "item_number": 13,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24166/",
+  "source_sha256": "fa59e493922c56612c7c47465ea2e97ec52cd083143ebe68b4323392f9a1c359",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
