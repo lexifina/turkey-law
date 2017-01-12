@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6858",
+  "decision_date": "2017-01-12",
+  "title": "İzmir Doğalgaz Dağıtım Ticaret ve Taahhüt Anonim Şirketi’nin 2012-2016 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-01-18",
+  "resmi_gazete_number": "29952",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JV0k1lBWNS0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JV0k1lBWNS0="
+  ],
+  "source_sha256": "06f7bbd414c868ec9f42b4d80ff9bf19f0f3960aa5192f3a2f4de67690f24b38",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-01-12",
+  "law_text_complete": true
+}
