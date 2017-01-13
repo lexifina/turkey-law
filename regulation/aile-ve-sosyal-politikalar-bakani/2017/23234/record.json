@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23234",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ŞEHİRLER ARASI YOLCU TAŞIMA HİZMETİ İLE SERVİS VE TURİZM TAŞIMACILIĞI HİZMETİNİN ERİŞİLEBİLİR HÂLE GETİRİLMESİNE DAİR YÖNETMELİK",
+  "number": "23234",
+  "issuer": "Aile ve Sosyal Politikalar Bakanı",
+  "issuer_slug": "aile-ve-sosyal-politikalar-bakani",
+  "path": "regulation/aile-ve-sosyal-politikalar-bakani/2017/23234",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23234&MevzuatTertip=5",
+  "source_sha256": "36126a3c5dd3b747c59e36b8cba03ec9595fbd997ea34059c8cc32c3792af183",
+  "source_bytes": 36723,
+  "published": "2017-01-13",
+  "gazette": "29947",
+  "in_force": "2017-01-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.01.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1688,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
