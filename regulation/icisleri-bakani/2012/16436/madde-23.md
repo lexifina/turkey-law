@@ -1,0 +1,4 @@
+Görevden uzaklaştırılan veya tutuklananların atamaları
+MADDE 23 – (1) Görevden uzaklaştırılan, gözaltına alınan, adli makamlarca tutuklanan veya mahkûm edilip serbest bırakılan personelin ataması; yeniden göreve başladıktan sonra aynı kadroda çalışmaları, illerde valinin, merkez ve merkeze doğrudan bağlı birimlerde bizzat birim amirlerinin teklifi ile sakıncalı görüldüğü takdirde başka bir ile veya birime yapılır.
+(2) Birinci fıkra hükümleri uygulanan personelin görev yeri teklife bağlı kalınmaksızın gerekli görüldüğü takdirde atamaya yetkili makamca resen değiştirilebilir.
+(3) Bu madde kapsamında başka bir yere ataması yapılan personelin daha önce çalıştığı birime tekrar atanabilmesi için aradan en az beş yıl geçmesi veya o yere dönüşüne engel bir halinin bulunmadığı hususunda atanacağı il valiliğinin veya Genel Müdürlüğe bağlı birimlerde birim amirlerinin uygun görüş belirtmiş olması şartı aranır.

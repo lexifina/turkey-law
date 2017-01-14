@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakan: İçişleri Bakanını,
+b) Bakanlık: İçişleri Bakanlığını,
+c) Birim: Emniyet Genel Müdürlüğü merkez ve taşra teşkilatı birimlerini,
+ç) Genel Müdür: Emniyet Genel Müdürünü,
+d) Genel Müdürlük: Emniyet Genel Müdürlüğünü,
+e) Güvenlik soruşturması ve arşiv araştırması: 14/2/2000 tarihli ve 2000/284 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Güvenlik Soruşturması ve Arşiv Araştırması Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (f) ve (g) bentlerinde tanımlanan güvenlik soruşturması ve arşiv araştırmasını,
+f) İlk atama: Kadrolara devlet memuru olarak ilk defa atanacakların açıktan atama işlemini,
+g) Kurum içi naklen atama: Personelin çalıştığı birim kadrosundan başka bir birim kadrosuna atama işlemini,
+ğ) Kurumlar arası naklen atama: 657 sayılı Devlet Memurları Kanununun 74 üncü maddesine göre kurumlar arasında yapılacak atama işlemini,
+h) Merkezi sınav: 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik uyarınca yapılan sınavı,
+ı) Merkez teşkilatı personeli: Emniyet Genel Müdürlüğü merkez teşkilatı kadrolarında çalışan personeli,
+i) Sağlık Yönetmeliği: 4/8/2003 tarihli ve 25189 sayılı Resmî Gazete’de yayımlanan Emniyet Teşkilatı Sağlık Şartları Yönetmeliğini,
+j) Personel: Emniyet Teşkilatında, Emniyet Hizmetleri Sınıfı dışındaki 657 sayılı Devlet Memurları Kanununa göre istihdam edilen kadrolu ya da sözleşmeli personeli,
+k) Sözlü sınav: Atanacak kişi bakımından, atanılacak kadronun gerektirdiği mesleki bilgi, genel kültür ve bir konuyu kavrama ve ifade yeteneğinin değerlendirilmesini,
+l) Taşra teşkilatı personeli: Taşra ve doğrudan merkeze bağlı taşra teşkilatı kadrolarında çalışan personeli,
+m) Uygulamalı sınav: Atanacak kişi bakımından, atanılacak kadronun gerektirdiği meslekî becerinin değerlendirilmesini,
+n) Uzman personel: Sınav Değerlendirme Komisyonu tarafından yapılacak sözlü ve/veya uygulamalı sınavda teknik bilgi veya özel yetenek gerektiren durumlarda ilgili konuda bilgi sahibi olan ve bilgisine başvurulacak kişiyi,
+o) Yurtdışı teşkilatı personeli: Genel Müdürlük yurtdışı teşkilatı kadrolarında çalışan personeli,
+ifade eder.

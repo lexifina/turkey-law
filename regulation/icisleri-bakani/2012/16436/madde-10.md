@@ -1,0 +1,4 @@
+Başvuruların incelenmesi ve ilanı
+MADDE 10 – (1) Başvuruda bulunan adayların başvuru şartlarını taşıyıp taşımadıkları ilgili birimlerce incelenir.
+(2) Başvurusu uygun görülenlerden, merkezi sınavda alınan puanlara göre her unvan ve branş için ayrı ayrı yapılacak olan sıralamada en yüksek puandan başlamak üzere ilân edilen kadro sayısının iki katından az olmamak kaydı ile beş katına kadar aday sözlü ve/veya uygulamalı sınava çağrılır. Yeterli başvuru olmaması sınavın yapılmasına engel teşkil etmez.
+(3) Sözlü ve/veya uygulamalı sınava girmeye hak kazanan adayların isimleri ile sınav yeri ve tarihine ilişkin bilgiler, sözlü ve/veya uygulamalı sınav tarihinden en az yedi gün önce ilgili birim tarafından Genel Müdürlüğün internet sitesinden ilan edilir. Belirtilen hususlarla ilgili adaylara ayrıca yazılı tebligat yapılmaz.

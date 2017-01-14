@@ -1,0 +1,2 @@
+Sağlık şartları nedeniyle genel idare hizmetleri sınıfına atama
+MADDE 24 – (1) Emniyet Hizmetleri Sınıfında görev yapmakta iken, Sağlık Yönetmeliği çerçevesinde emniyet hizmetleri sınıfında görev yapamayacakları ancak başka hizmet sınıfında çalışabileceklerine karar verilenlerin, talepleri halinde, Genel İdare Hizmetleri Sınıfında bilgisayar işletmeni, veri hazırlama ve kontrol işletmeni veya memur unvanına atamaları yapılabilir. Talep etmeyenler hakkında ise maluliyet yönünden işlem yapılır.
