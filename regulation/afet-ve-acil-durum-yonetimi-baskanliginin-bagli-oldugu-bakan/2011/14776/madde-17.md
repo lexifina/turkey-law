@@ -1,0 +1,4 @@
+Pazarlık usulü
+MADDE 17 – (1) Mal veya hizmet alımları ile acil yapım işlerinin ihalelerinde teminat alınmaksızın pazarlık usulü uygulanır.
+(2) İhaleye katılacak isteklilerden; ilgili mevzuat gereği ilgili odaya kayıtlı olarak faaliyette bulunduğunu ve imza sirküleri, imza beyannamesi ve vekâletname gibi teklif vermeye yasal olarak yetkili olduğunu kanıtlayan belgeler istenir. Ancak, zorunlu nedenlerle bu belgelerin temin edilememesi hâlinde isteklilerden buna ilişkin yazılı beyan alınır. Acil yapım işlerinde isteklilerden ayrıca iş deneyim belgesi istenebilir.
+(3) İhalelerde, ilan yapılmaksızın en az üç istekli davet edilerek, gerekli belgeleri ve fiyat tekliflerini birlikte vermeleri istenir. Teklifler, ihale komisyonu tarafından değerlendirilerek ihale ekonomik açıdan en avantajlı teklifi veren isteklinin üzerine bırakılır.

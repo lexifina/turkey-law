@@ -1,0 +1,3 @@
+Afet ve acil durum mahallinde görevlendirilecek personele verilecek avans (1)
+MADDE 28 – (1) (Değişik:RG-7/2/2015-29260) Afet ve acil durum hizmetlerinin yerine getirilmesini teminen yapılacak araştırma, eğitim, afet etüdü, hasar tespiti, hak sahipliği, harita, imar planı, imar uygulaması, kamulaştırma, kadastro, tapuya tescil, kontrolörlük ve her türlü afet ve acil durum hizmetleri için afet ve acil durum mahallinde geçici olarak görevlendirilecek personele acil ihtiyaçlarını karşılamak ve mahsubu özel hesaplardan yapılmak üzere geçici görev yolluğu avansı verilir.
+(2) Avans almadan (Değişik ibare:RG-7/2/2015-29260) afet ve acil durum mahalline hareket eden personelin avansını bulunduğu yerde almasını sağlayacak işlemler ilk beş iş gününde tamamlanır.

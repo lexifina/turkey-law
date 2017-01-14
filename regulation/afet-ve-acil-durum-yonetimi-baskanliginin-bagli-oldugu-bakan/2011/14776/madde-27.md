@@ -1,0 +1,4 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Diğer kuruluşlar ile gerçek ve tüzel kişilerden temin olunan araç ve gereçler
+MADDE 27 – (1) (Ek ibare:RG-7/2/2015-29260) Afet ve acil durum sebebiyle geçici olarak (Değişik ibare:RG-7/2/2015-29260) afet ve acil durum hizmetlerinde kullanılmak üzere diğer kamu kurum ve kuruluşlar ile gerçek ve tüzel kişilerden temin olunan her türlü motorlu araç, gereç, alet ve edevatın bu hizmetlerde kullanımı sırasındaki akaryakıt ve onarım masrafları özel hesaplardan ödenebilir. Bu akaryakıt ve onarım masraflarının afet sırasında yapıldığının afet mahallinin mülki amirinin yazılı onayı ile gidere ilişkin fatura veya benzeri kanıtlayıcı belgelerin ödeme evrakına eklenmesi gerekir. Bu araç ve gereçlere ilişkin vergi, resim, harç ve diğer masraflar ilgili idareden karşılanır.

@@ -1,0 +1,2 @@
+Ücretsiz haberleşme
+MADDE 33 – (1) Uydu haberleşme, telgraf ve telefon merkezleri ile kara, deniz ve hava yolu işletmeleri, askeri muhabere teşkilleri ve benzeri haberleşme araçlarına sahip her türlü teşkilat; acil yardım süresi içinde afete ilişkin ihbar veya yardım taleplerini ve bununla ilgili direktifler ile afetin seyrinin bildirilmesi için yapılacak telgraf, telefon, telsiz, faks, elektronik posta haberleşmelerini öncelikle ve ücretsiz olarak ulaştırmaya mecburdurlar.

@@ -1,0 +1,2 @@
+Yüklenicilerin sorumluluğu
+MADDE 23 – (1) Acil yapım işlerinde yüklenici, yapının fen ve sanat kurallarına uygun olarak yapılmaması, hileli malzeme kullanılması ve benzeri nedenlerle ortaya çıkan zarar ve ziyandan, yapının tamamı için işe başlama tarihinden itibaren kesin kabul tarihine kadar sorumlu olacağı gibi, kesin kabul onay tarihinden itibaren de en fazla beş yıl süreyle müteselsilen sorumludur. Bu zarar ve ziyan genel hükümlere göre yükleniciye ikmal ve tazmin ettirilir.

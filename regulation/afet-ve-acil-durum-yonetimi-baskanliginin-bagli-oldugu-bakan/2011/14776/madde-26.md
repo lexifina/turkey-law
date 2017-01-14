@@ -1,0 +1,2 @@
+İhtiyaçların kamu kuruluşları, Kızılay ve akredite edilmiş sivil toplum örgütlerinden temini
+MADDE 26 – (1) (Ek ibare:RG-14/1/2017-29948) Yurt içinde veya yurt dışındaki Afet ve acil durum hâllerinde, ihtiyaç duyulan mal ve hizmetler (Ek ibare:RG-14/1/2017-29948) ile acil yapım işleri protokol yapılmak suretiyle kamu kurum ve kuruluşları, Türkiye Kızılay Derneği ile akredite edilmiş sivil toplum örgütlerinden sağlanabilir.

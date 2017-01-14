@@ -1,0 +1,2 @@
+Özel hesabın nemalandırılması
+MADDE 11 – (1) Başkanlık özel hesabı, Türkiye Cumhuriyet Merkez Bankası, T.C. Ziraat Bankası, Türkiye Halk Bankası veya Vakıflar Bankası T.A.O. vasıtasıyla mali piyasaların ekonomik şartlarına uygun olarak nemalandırılabilir. Bu şekilde elde edilen gelirler ile promosyon veya başka isimler altında bankalarca sağlanan kaynaklar da bu Yönetmelik çerçevesinde kullanılır.

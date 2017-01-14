@@ -1,0 +1,2 @@
+Muhasebe hizmetleri
+MADDE 10 – (1) (Değişik fıkra:RG-7/2/2015-29260) Özel hesaptan yapılan harcamaların muhasebeleştirilmesinde, işlemin çeşidine göre 3/12/2014 tarihli ve 2014/7052 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Genel Yönetim Muhasebe Yönetmeliği ve 27/12/2014 tarihli ve 29218 sayılı mükerrer Resmî Gazete’de yayımlanan Merkezî Yönetim Muhasebe Yönetmeliğinde yer alan hesaplar kıyasen uygulanır.

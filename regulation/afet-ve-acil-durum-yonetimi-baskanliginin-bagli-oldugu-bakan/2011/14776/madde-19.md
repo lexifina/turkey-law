@@ -1,0 +1,3 @@
+İhalenin onaylanması ve sözleşmenin yapılması
+MADDE 19 – (1) Başkanlık bünyesindeki komisyon ile afet ve acil durum komisyonları, karar tarihini izleyen en geç üç gün içinde ihale kararını onaylar veya gerekçesini açıkça belirtmek suretiyle iptal eder. İhale, kararın onaylanması hâlinde geçerli, iptal edilmesi halinde ise hükümsüz sayılır.
+(2) Yapılan ihaleler bir sözleşmeye bağlanır. Sözleşmeler idarece hazırlanır ve ihale komisyonu başkanı ile yüklenici tarafından aynı süre içinde imzalanır. Başkanlık tarafından yapılan ihalelerde, sözleşme Başkanlık bünyesindeki komisyon başkanı ile yüklenici tarafından imzalanır.

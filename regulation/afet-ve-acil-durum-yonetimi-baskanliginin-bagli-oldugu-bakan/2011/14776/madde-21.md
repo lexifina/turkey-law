@@ -1,0 +1,2 @@
+Denetim, muayene ve kabul işlemleri
+MADDE 21 – (1) Teslim edilen mal, hizmet, yapım veya yapılan işin muayene ve kabul işlemleri, Başkanlık, kamu kurum ve kuruluşları ile mahalli idarelerce kurulacak en az üç kişilik muayene ve kabul komisyonları tarafından yapılır. Mal veya yapılan iş yüklenici tarafından idareye teslim edilmedikçe muayene ve kabul işlemleri yapılamaz. Ancak, Taahhüdün tamamlanan ve müstakil kullanıma elverişli bölümleri için kısmi kabul yapılabilir.

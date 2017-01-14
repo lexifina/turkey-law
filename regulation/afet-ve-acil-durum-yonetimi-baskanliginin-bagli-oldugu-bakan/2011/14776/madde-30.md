@@ -1,0 +1,2 @@
+Kredi işlemleri
+MADDE 30 – (1) 7269 sayılı Kanunun 29 uncu maddesi ve 36 ncı maddesinin birinci fıkrasının (f) bendi uyarınca, orta hasardan hak sahibi olanlar ile Evini Yapana Yardım Metoduna göre hak sahibi olan afetzedelere verilecek kredi dilimi inşaat seviyesine göre konutlarda beş, ahır ve işyerlerinde iki dilim hâlinde, hazır konut satın almak isteyen hak sahibi afetzedelere ise kredileri defaten ödenir.
