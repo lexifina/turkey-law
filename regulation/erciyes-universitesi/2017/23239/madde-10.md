@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür ve Fen Fakültesi Astronomi ve Uzay Bilimleri Bölümü öğretim üyeleri arasından üç, Fen Fakültesi veya Üniversitenin Mühendislik Fakültesi öğretim üyeleri arasından bir olmak üzere toplam beş üyeden oluşur. Yönetim Kurulu üyeleri Rektör tarafından görevlendirilir. Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi bitmeden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı yöntemle yeni üye seçilir. Süresi biten üyeler yeniden seçilebilir.
+(2) Yönetim Kurulu, üç ayda bir üyelerin salt çoğunluğu ile toplanır. Müdür, gerekli gördüğü durumlarda ya da üyelerden üçünün yazılı istemi üzerine Yönetim Kurulunu toplantıya çağırır. Kararlar oy çokluğu ile alınır. Karar oylamasında eşitlik olması halinde Müdürün kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+(3) Yönetim Kurulu, en üst karar alma organıdır ve aldığı kararlar bağlayıcıdır.
