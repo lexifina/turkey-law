@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/bursa-teknik-universitesi/2017/23238",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 20 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 20 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29949",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-01-15",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Bursa Teknik Üniversitesi",
+  "issuer_slug": "bursa-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2017-01-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23238&MevzuatTertip=5",
+  "source_id": "8.5.23238",
+  "source_sha256": "845a01218313740fe910662892b509fc426b61a7d933b57042c9091f7c00b757",
+  "title": "BURSA TEKNİK ÜNİVERSİTESİ ROBOT TEKNOLOJİLERİ VE AKILLI\r\nSİSTEMLER UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 392,
+  "version_label": "oldest version available",
+  "word_count": 1506
+}
