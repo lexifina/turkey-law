@@ -1,0 +1,933 @@
+16 Ocak 2017 PAZARTESİ
+Resmî Gazete
+Sayı : 29950
+YÖNETMELİK
+Kırıkkale Üniversitesinden:
+KIRIKKALE ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE
+ÖĞRETİM YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı, Kırıkkale
+Üniversitesinde yürütülen yüksek lisans, doktora ve sanatta yeterlik
+programlarından oluşan lisansüstü eğitim ve öğretimi düzenlemektir.
+Dayanak
+MADDE 2 –
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun
+14 üncü ve 44 üncü maddelerine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Akademik takvim: Lisansüstü eğitimlerde yarıyıl,
+yaz dönemi, yeterlik ve benzeri tarihleri içerecek şekilde Senato
+tarafından belirlenerek, ilgili enstitülerce ilan edilen eğitim dönemini,
+b) AKTS: Avrupa Kredi Transfer Sistemini,
+c) ALES: Akademik Personel ve Lisansüstü Eğitimi
+Giriş Sınavını,
+ç) Anabilim/anasanat
+dalı: Enstitülerdeki anabilim dalı/anasanat
+dalını,
+d) Anabilim/anasanat dalı
+başkanı: Enstitülerdeki anabilim/anasanat dalı
+başkanını,
+e) Anabilim/anasanat dalı
+kurulu: Enstitü anabilim/anasanat dalı kurulunu,
+f) Danışman: Enstitüde kayıtlı öğrenciye ders ve
+tez/proje/sanat eseri/sanatta yeterlik eseri çalışması dönemlerinde
+rehberlik yapmak üzere enstitü yönetim kurulu tarafından atanan öğretim
+üyesini,
+g) Dönem projesi: Tezsiz yüksek lisans eğitimi
+sırasında araştırılan ve/veya incelenen bilimsel bir konunun bilimsel
+araştırma raporu biçiminde sunulmuş şeklini,
+ğ) Enstitü: Kırıkkale Üniversitesi bünyesinde
+lisansüstü eğitim veren enstitüleri,
+h) Enstitü kurulu: Enstitü
+müdürü başkanlığında, müdür yardımcıları ve enstitü anabilim ve anasanat dalı başkanlarından oluşan kurulu,
+ı) Enstitü yönetim kurulu: Enstitü müdürü
+başkanlığında, müdür yardımcıları ve enstitü kurulu tarafından üç yıl için
+seçilen üç öğretim üyesinden oluşan kurulu,
+i) İkinci tez danışmanı: Lisansüstü eğitim yapan
+öğrencinin tez konusunun özelliği gereği, enstitü yönetim kurulunca atanan
+doktora derecesine sahip deneyimli kişiyi,
+j) İntihal: Başkalarının fikirlerini, metotlarını,
+verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan
+kısmen veya tamamen kendi eseri gibi göstermeyi,
+k) Kredi sistemi: Bir lisansüstü dersinin yarıyıl
+kredi değeri, haftalık teorik ders saatinin tamamı ile haftalık uygulama,
+alan ya da atölye çalışması veya laboratuvar/klinik
+çalışması karşılığının yarısının toplamı ile bulunan ulusal kredi sistemi
+ve/veya Avrupa Kredi Transfer Sistemini,
+l) Lisansüstü eğitim: Tüm tezli/tezsiz yüksek
+lisans ve doktora/sanatta yeterlik eğitimini,
+m) Öğrenci: Lisansüstü eğitim öğretim yapmak üzere
+enstitüye kayıtlı olan kişiyi,
+n) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi
+Başkanlığını,
+o) Rektör: Kırıkkale Üniversitesi Rektörünü,
+ö) Seminer: Lisansüstü öğretim gören öğrencilerin
+ders döneminde hazırladıkları, bilimsel bir konunun incelenip irdelenmesine
+dayanan, sözlü olarak sunularak değerlendirilen yazılı bir metinden oluşan
+çalışmayı,
+p) Senato: Kırıkkale Üniversitesi Senatosunu,
+r) Tez: Tezli yüksek lisans, doktora, sanatta
+yeterlik eğitiminin amacına yönelik olarak hazırlanan bilimsel bir eseri,
+s) Tez izleme komitesi: Doktora öğrencisinin tez
+önerisini değerlendirme, tez çalışmalarına rehberlik etme ve yönlendirme
+görevini üstlenen; biri tez danışmanı, biri ilgili enstitü anabilim/anasanat dalından ve diğeri enstitü anabilim/anasanat dalı dışından olmak üzere üç öğretim üyesinden
+oluşan komiteyi,
+ş) TUS-DUS: Tıpta/Diş Hekimliğinde Uzmanlık
+Sınavını,
+t) Üniversite: Kırıkkale Üniversitesini,
+u) Yarıyıl: Güz ve bahar yarıyıllarından oluşan,
+yarıyıl sonu sınav günleri hariç, en az yetmiş çalışma gününü kapsayan,
+başlangıç ve bitiş tarihleri her akademik yıl Senato tarafından belirlenen
+eğitim ve öğretim süresini,
+ü) Yaz dönemi: Güz ve bahar yarıyılları dışında,
+yaz döneminde yapılan eğitim öğretim sürecini,
+v) Yeterlik sınavı: Doktora öğrencisinin, bulunduğu
+programdaki temel konularda ve çalışma alanıyla ilgili konularda yeterli
+bilgiye sahip olup olmadığını ve bağımsız bir araştırmayı yürütebilme
+yeterliliğini değerlendirmeye yönelik sınavı,
+y) YÖK: Yükseköğretim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Yüksek Lisans Programları
+Genel
+esaslar
+MADDE 4 – (1) Yüksek lisans programı, tezli ve tezsiz olmak
+üzere iki şekilde yürütülebilir. Bu programların hangi enstitü anabilim/anasanat dallarında ve nasıl yürütüleceği ile Senatonun
+yetkisinde olan tezli ve tezsiz yüksek lisans programları arasında geçişe
+izin hususları Senato tarafından düzenlenir.
+(2) YÖK kararı üzerine Üniversitede; öğretim
+elemanı ve öğrencilerin aynı mekânda bulunma zorunluluğu olmaksızın, bilgi
+ve iletişim teknolojilerine dayalı olarak öğretim faaliyetlerinin
+planlandığı ve yürütüldüğü lisansüstü uzaktan öğretim programları
+açılabilir. Uzaktan öğretim programlarının açılabileceği alanlar, uzaktan
+öğretim yoluyla verilecek dersler ve kredi ile AKTS kredi miktarları, ders
+materyallerinin hazırlanması, sınavlarının yapılma şekli, yükseköğretim
+kurumları arasında bu amaçla yapılacak protokoller ile uzaktan öğretime
+ilişkin diğer hususlar YÖK tarafından belirlenen esaslara göre yürütülür.
+Başvuru
+ve kabul
+MADDE 5 – (1) Yüksek lisans programına başvurabilmek için
+adayların, lisans diplomasına ve başvurduğu puan türünde 55 puandan az
+olmamak üzere Senato tarafından belirlenecek ALES puanına sahip olmaları
+gerekir. Ancak güzel sanatlar fakültelerinin ve konservatuvarın
+enstitülerdeki anabilim ve anasanat dallarına
+öğrenci kabulünde ALES puanı aranmaz.
+(2) Tezsiz yüksek lisans programlarına öğrenci
+kabulünde, ALES puanı aranmaz.
+(3) Mezun durumda olan/olabilecek
+adayların başvurusuna ilişkin esaslar, ALES puanının %50'den az olmamak
+koşuluyla ne kadar ağırlıkla değerlendirmeye alınacağı, ALES puanına ek
+olarak lisans not ortalaması, yazılı olarak yapılacak bilimsel
+değerlendirme ve/veya mülakat sonucunun da değerlendirmeye ne ağırlıkla
+alınacağı ve lisansüstü eğitim-öğretime öğrenci kabulüne dair diğer
+hususlar Senato tarafından belirlenir.
+(4) Yabancı uyruklu adaylarla lisans eğitiminin
+tamamını yurt dışında tamamlayan Türkiye Cumhuriyeti vatandaşı adayların
+lisansüstü programlara kabulüne ilişkin usul ve esaslar Senato tarafından
+belirlenir.
+Tezli
+yüksek lisans programı
+MADDE 6 – (1) Tezli yüksek lisans programı öğrencinin
+bilimsel araştırma yöntemlerini kullanarak bilgilere erişme, bilgiyi
+derleme, yorumlama ve değerlendirme yeteneğini kazanmasını sağlar.
+(2) Tezli yüksek lisans programı toplam yirmi bir
+krediden az olmamak koşuluyla en az yedi ders, bir seminer dersi ve tez
+çalışmasından oluşur. Seminer dersi ve tez çalışması kredisiz olup başarılı
+veya başarısız olarak değerlendirilir. Tezli yüksek lisans programı bir
+eğitim-öğretim dönemi 60 AKTS kredisinden az olmamak koşuluyla seminer dersi
+dahil en az sekiz ders ve tez çalışması olmak
+üzere toplam en az 120 AKTS kredisinden oluşur. Öğrenci, en geç danışman
+atanmasını izleyen dönemden itibaren her yarıyıl tez dönemi için kayıt
+yaptırmak zorundadır.
+(3) Öğrencinin alacağı derslerin en çok ikisi,
+lisans öğrenimi sırasında alınmamış olması kaydıyla, lisans derslerinden
+seçilebilir. Ayrıca enstitü anabilim/anasanat
+dalı başkanlığının önerisi ve enstitü yönetim kurulu onayı ile diğer
+yükseköğretim kurumlarında verilmekte olan derslerden en fazla iki ders
+seçilebilir.
+(4) Tezli yüksek lisans programı ikinci öğretim
+lisansüstü programı olarak yürütülebilir.
+Tezli
+yüksek lisans programında süre
+MADDE 7 – (1) Tezli yüksek lisans programının süresi
+bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin
+derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp
+yaptırmadığına bakılmaksızın dört yarıyıl olup, program en çok altı
+yarıyılda tamamlanır.
+(2) Dört yarıyıl sonunda öğretim planında yer alan
+kredili derslerini ve seminer dersini başarıyla tamamlayamayan veya bu süre
+içerisinde Üniversitenin öngördüğü başarı koşullarını/ölçütlerini yerine
+getiremeyen; azami süreler içerisinde ise tez çalışmasında başarısız olan
+veya tez savunmasına girmeyen öğrencinin Üniversite ile ilişiği kesilir.
+(3) Yüksek lisans programından süresinden önce
+mezun olabilecek öğrenciler ile ilgili düzenlemeler Senato tarafından
+belirlenir.
+Tez
+danışmanı atanması
+MADDE 8 – (1) Tezli yüksek lisans programında, enstitü
+anabilim/anasanat dalı başkanlığı her öğrenci
+için Üniversitenin kadrosunda bulunan bir tez danışmanını en geç birinci
+yarıyılın sonuna kadar; öğrencinin danışmanıyla beraber belirlediği tez
+konusunu da en geç ikinci yarıyılın sonuna kadar enstitüye önerir. Tez
+danışmanı ve tez konusu enstitü yönetim kurulu onayı ile kesinleşir.
+(2) Tez danışmanı, Senatonun belirleyeceği
+niteliklere sahip öğretim üyeleri arasından seçilir. Üniversitede belirlenen
+niteliklere sahip öğretim üyesi bulunmaması halinde Senatonun belirlediği
+ilkeler çerçevesinde enstitü yönetim kurulu tarafından başka bir
+yükseköğretim kurumundan öğretim üyesi danışman olarak seçilebilir. Tez
+çalışmasının niteliğinin birden fazla tez danışmanı gerektirdiği durumlarda
+atanacak ikinci tez danışmanı, Üniversite kadrosu dışından en az doktora
+derecesine sahip kişilerden olabilir.
+(3) Yüksek lisans ve doktora programlarında öğretim
+üyesi başına düşen tez danışmanlığı üst sınırı 12'dir. Ancak, bu sınırın
+düşürülmesine veya artırılmasına Senato karar verir. Bir öğrenci/tez için
+birden fazla danışman atanması durumunda, iki adet ortak danışmanlığı olan
+öğretim üyesi, bir adet danışmanlığa sahip sayılır.
+Yüksek
+lisans tezinin sonuçlanması
+MADDE 9 –
+(1) Tezli yüksek lisans
+programında eğitim alan bir öğrenci, elde ettiği sonuçları Senato tarafından
+belirlenen yazım kurallarına uygun biçimde yazar ve tezini jüri önünde
+sözlü olarak savunur.
+(2) Yüksek lisans tezinin savunmasından önce ve
+düzeltme verilen tezlerde ise düzeltme ile birlikte öğrenci tezini
+tamamlayarak danışmanına sunar. Danışman tezin savunulabilir olduğuna
+ilişkin görüşü ile birlikte tezi enstitüye teslim eder. Enstitü söz konusu
+teze ilişkin intihal yazılım programı raporunu alarak danışmana ve jüri
+üyelerine gönderir. Rapordaki verilerde gerçek bir intihalin tespiti
+halinde gerekçesi ile birlikte karar verilmek üzere tez enstitü yönetim
+kuruluna gönderilir.
+(3) Yüksek lisans tez jürisi, tez danışmanı ve
+ilgili enstitü anabilim/anasanat dalı
+başkanlığının önerisi ve enstitü yönetim kurulu onayı ile atanır. Jüri,
+biri öğrencinin tez danışmanı, en az biri de Üniversite dışından olmak
+üzere üç veya beş öğretim üyesinden oluşur. Jürinin üç kişiden oluşması
+durumunda ikinci tez danışmanı jüri üyesi olamaz.
+(4) Tez çalışmasını tamamlayan öğrenci, tezin
+istenen sayıda nüshasını tez danışmanına teslim eder. Danışman, tezin yazım
+kurallarına uygunluğu yönünden yazılı olarak belirttiği görüşü ile tezin
+nüshalarını anabilim/anasanat/bilim/sanat
+dalı/program başkanlığı aracılığıyla ilgili enstitüye gönderir.
+(5) Jüri üyeleri, söz konusu tezin kendilerine
+teslim edildiği tarihten itibaren en geç bir ay içinde toplanarak öğrenciyi
+tez sınavına alır. Tez sınavı, tez çalışmasının sunulması ve bunu izleyen
+soru-cevap bölümünden oluşur. Tez sınavı, öğretim elemanları, lisansüstü
+öğrenciler ve alanın uzmanlarından oluşan dinleyicilerin katılımına açık
+ortamlarda gerçekleştirilir.
+(6) Tez sınavının tamamlanmasından sonra jüri tez
+hakkında salt çoğunlukla kabul, ret veya düzeltme kararı verir. Bu karar
+enstitü anabilim/anasanat dalı başkanlığınca tez
+sınavını izleyen üç gün içinde ilgili enstitüye tutanakla bildirilir.
+(7) Tezi başarısız bulunarak reddedilen öğrencinin
+Üniversite ile ilişiği kesilir.
+(8) Tezi hakkında düzeltme kararı verilen öğrenci
+en geç üç ay içinde düzeltmeleri yapılan tezi aynı jüri önünde yeniden
+savunur. Bu savunma sonunda da başarısız bulunarak tezi kabul edilmeyen
+öğrencinin Üniversite ile ilişiği kesilir.
+(9) Tezi reddedilen öğrencinin talepte bulunması
+halinde, tezsiz yüksek lisans programının ders kredi yükü, proje yazımı ve
+benzeri gereklerini yerine getirmiş olmak kaydıyla kendisine tezsiz yüksek
+lisans diploması verilir.
+Tezli
+yüksek lisans diploması
+MADDE 10 – (1) Tez
+sınavında başarılı olmak ve Senato tarafından belirlenen mezuniyet için
+gerekli diğer koşulları da sağlamak kaydıyla, yüksek lisans tezinin
+ciltlenmiş en az üç kopyasını tez sınavına giriş tarihinden itibaren bir ay
+içinde ilgili enstitüye teslim eden ve tezi şekil yönünden uygun bulunan
+yüksek lisans öğrencisine tezli yüksek lisans diploması verilir. Enstitü yönetim kurulu talep halinde teslim
+süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen
+öğrenci koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik
+haklarından yararlanamaz ve azami süresinin dolması halinde ilişiği
+kesilir.
+(2) Tezli yüksek lisans diploması üzerinde öğrencinin
+kayıtlı olduğu enstitü anabilim/anasanat
+dalındaki programın YÖK tarafından onaylanmış adı bulunur. Mezuniyet tarihi
+anasanat programlarına kayıtlı öğrenciler için
+tez sınavı sonrası yapılan ve başarılı bulunan uygulamalı sınav tarihi;
+diğer programlara kayıtlı öğrenciler için ise tezin kabul edildiği tez
+sınavı tarihidir.
+(3) Tezin tesliminden itibaren üç ay içinde yüksek
+lisans tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve
+faaliyetlerin hizmetine sunulmak üzere enstitü tarafından YÖK’e gönderilir.
+Tezsiz
+yüksek lisans programı
+MADDE 11
+– (1) Tezsiz yüksek lisans
+programı, öğrenciye mesleki konularda bilgi kazandırarak mevcut bilginin
+uygulamada nasıl kullanılacağını gösterir.
+(2) Tezsiz yüksek lisans programı toplam otuz
+krediden ve 90 AKTS’den az olmamak kaydıyla en az
+on ders ile dönem projesi dersinden oluşur. Öğrenci, dönem projesi dersinin
+alındığı yarıyılda dönem projesi dersine kayıt yaptırmak ve yarıyıl sonunda
+yazılı proje ve/veya rapor vermek zorundadır. Dönem projesi dersi kredisiz
+olup başarılı veya başarısız olarak değerlendirilir.
+(3) Öğrencinin alacağı derslerin en çok üçü, lisans
+öğrenimi sırasında alınmamış olması kaydıyla, lisans derslerinden
+seçilebilir.
+(4) Senato tarafından belirlenen esaslara göre
+tezsiz yüksek lisans programının sonunda yeterlik sınavı uygulanabilir.
+(5) Tezsiz yüksek lisans programı ikinci öğretim
+lisansüstü programı olarak yürütülebilir.
+Tezsiz
+yüksek lisansta süre
+MADDE 12
+– (1) Tezsiz yüksek lisans
+programını tamamlama süresi, bilimsel hazırlıkta geçen süre hariç, kayıt
+olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her
+dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın en az iki yarıyıl, en
+çok üç yarıyıldır. Bu sürenin sonunda başarısız olan veya programı
+tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.
+Danışman
+atanması
+MADDE 13
+– (1) Tezsiz yüksek lisans
+programında enstitü anabilim/anasanat dalı
+başkanlığı her öğrenci için ders seçiminde ve dönem projesinin
+yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya Senato tarafından
+belirlenen niteliklere sahip doktora derecesine sahip bir öğretim
+görevlisini en geç birinci yarıyılın sonuna kadar belirler.
+Tezsiz
+yüksek lisans diploması
+MADDE 14
+– (1) Kredili derslerini ve dönem
+projesini başarıyla tamamlayan öğrenciye tezsiz yüksek lisans diploması
+verilir.
+(2) Tezsiz yüksek lisans diploması üzerinde
+öğrencinin kayıtlı olduğu enstitü anabilim/anasanat
+dalındaki programın YÖK tarafından onaylanmış adı bulunur.
+(3) Tezsiz yüksek lisans programına devam edenler,
+başvurdukları tezli yüksek lisans programı için belirlenmiş olan asgari
+şartları yerine getirmek kaydıyla, tezli yüksek lisans programına geçiş
+yapabilirler. Bu durumda tezsiz yüksek lisans programında alınan dersler
+enstitü yönetim kurulu kararıyla tezli yüksek lisans programındaki
+derslerin yerine sayılabilir.
+ÜÇÜNCÜ BÖLÜM
+Doktora Programı
+Genel
+esaslar
+MADDE 15
+– (1) Doktora programı, öğrenciye
+bağımsız araştırma yapma, bilimsel problemleri, verileri geniş ve derin bir
+bakış açısı ile irdeleyerek yorum yapma, analiz etme ve yeni sentezlere
+ulaşmak için gerekli becerileri kazandırır.
+(2) Doktora programı, tezli yüksek lisans derecesi
+ile kabul edilmiş öğrenciler için toplam yirmi bir krediden ve bir
+eğitim-öğretim dönemi 60 AKTS’den az olmamak
+koşuluyla en az yedi ders, seminer, yeterlik sınavı, tez önerisi ve tez
+çalışması olmak üzere en az 240 AKTS kredisinden oluşur. Lisans derecesi
+ile kabul edilmiş öğrenciler için de en az kırk iki kredilik 14 ders,
+seminer, yeterlik sınavı, tez önerisi ve tez çalışması olmak üzere toplam
+en az 300 AKTS kredisinden oluşur.
+(3) Doktora programlarında enstitü anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim
+kurulu onayı ile diğer yükseköğretim kurumlarında verilmekte olan
+derslerden yüksek lisans derecesi ile kabul edilmiş öğrenciler için en
+fazla iki, lisans derecesiyle kabul edilmiş öğrenciler için en fazla dört
+ders seçilebilir.
+(4) Lisans dersleri ders yüküne ve doktora
+kredisine sayılmaz.
+(5) Doktora programları ikinci öğretim olarak
+açılamaz.
+(6) Doktora çalışması sonunda hazırlanacak tezin,
+bilime yenilik getirme, yeni bir bilimsel yöntem geliştirme, bilinen bir
+yöntemi yeni bir alana uygulama niteliklerinden en az birini yerine
+getirmesi gerekir.
+Başvuru
+ve kabul
+MADDE 16
+– (1) Doktora programına
+başvurabilmek için adayların;
+a) Tezli yüksek lisans diplomasına sahip olmaları
+ve ALES’ten başvurduğu programın puan türünde 55
+puandan az olmamak koşuluyla Senato kararı ile belirlenecek ALES puanına
+sahip olmaları veya
+b) Tıp, diş hekimliği, veteriner, eczacılık
+fakülteleri ile hazırlık sınıfları en az on yarıyıl süreli lisans diplomasına
+veya ilgili mevzuatta belirlenen esaslara göre bir laboratuvar
+dalında kazanılan uzmanlık yetkisine sahip olmaları ve ALES’ten
+başvurduğu programın puan türünde 55 puandan az olmamak koşuluyla Senato
+tarafından belirlenecek ALES puanına sahip olmaları
+gerekir.
+(2) Lisans derecesiyle doktora programına
+başvuranların lisans mezuniyet not ortalamalarının 4 üzerinden en az 3 veya
+muadili bir puan olması ve ALES’ten başvurduğu
+programın puan türünde 80 puandan az olmamak koşuluyla Senato tarafından
+belirlenecek ALES puanına sahip olmaları gerekir. Doktora programına
+başvuracak olanların programa kabulünde, ALES puanı yanı sıra yazılı olarak
+yapılacak bilimsel değerlendirme sınavı ve/veya mülakat sonucu ile yüksek
+lisans derecesiyle başvuranlar için yüksek lisans not ortalaması da
+değerlendirilebilir. Bu değerlendirmeye ilişkin hususlar ile başvuru
+koşulları ve öğrenci kabulüne dair diğer hususlar Senato tarafından
+belirlenir.
+(3) Hazırlık sınıfları hariç, on yarıyıl süreli
+lisans eğitimi alanlar yüksek lisans derecesine sahip sayılır.
+(4) ALES puanının % 50'den az olmamak koşuluyla ne
+kadar ağırlıkla değerlendirmeye alınacağı Senato tarafından belirlenir.
+Üniversite yalnız ALES puanı ile de öğrenci kabul edebilir. ALES'e eşdeğer kabul edilen ve YÖK tarafından ilan
+edilen eşdeğer puanlar, Senato kararları ile yükseltilebilir.
+(5) Doktora programına öğrenci kabulünde anadilleri dışında YÖK
+tarafından kabul edilen merkezî yabancı dil sınavları ile eşdeğerliği kabul
+edilen uluslararası yabancı dil sınavlarından en az 55 puan veya ÖSYM
+tarafından eşdeğerliği kabul edilen uluslararası yabancı dil sınavlarından
+bu puan muadili bir puan alınması zorunlu olup, bu asgari puanların
+girilecek programların özelliklerine göre gerekirse yükseltilmesine Senato
+tarafından karar verilir.
+(6) Temel tıp bilimlerinde
+doktora programlarına başvurabilmek için tıp fakültesi mezunlarının lisans
+diplomasına ve 50 puandan az olmamak koşuluyla Senato kararı ile
+belirlenecek TUS’tan alınmış temel tıp puanına veya ALES’in
+sayısal puan türünde 55 puandan az olmamak koşuluyla Senato kararı ile
+belirlenecek ALES puanına sahip olmaları; tıp fakültesi mezunu olmayanların
+ise yüksek lisans diplomasına, diş hekimliği ve veteriner fakülteleri mezunlarının
+lisans derecesine ve ALES’in sayısal puan türünde
+55 puandan az olmamak koşuluyla Senato kararı ile belirlenecek ALES puanına
+sahip olmaları gerekir. Temel
+tıp puanı, TUS’ta temel tıp bilimleri Testi-1 bölümünden elde edilen
+standart puanın 0,7; klinik tıp bilimleri testinden elde edilen standart
+puanın 0,3 ile çarpılarak toplanması ile elde edilir. Doktora programlarına
+öğrenci kabulünde, temel tıp puanı veya ALES puanı yanı sıra gerekirse,
+lisans ve/veya yüksek lisans not ortalaması, bilimsel değerlendirme ve/veya
+mülakat sonucu da değerlendirilebilir. Bu değerlendirmeye ilişkin hususlar
+ile başvuru için adayların sağlaması gereken referans mektubu, neden
+doktora yapmak istediğini belirten kompozisyon, uluslararası standart
+sınavlar ve benzeri diğer belgeler Senato tarafından belirlenir. Ancak temel tıp bilimlerinde doktora programına öğrenci
+kabulünde, anadilleri dışında YÖK tarafından kabul edilen merkezî yabancı
+dil sınavları ile eşdeğerliği kabul edilen uluslararası yabancı dil
+sınavlarından en az 55 puan veya ÖSYM tarafından eşdeğerliği kabul edilen
+uluslararası yabancı dil sınavlarından bu puan muadili bir puan alınması
+zorunlu olup, bu asgari puanların girilecek programların özelliklerine göre
+gerekirse yükseltilmesine Senato tarafından karar verilir. Temel tıp
+puanının veya ALES puanının %50'den az olmamak koşuluyla ne kadar ağırlıkla
+değerlendirmeye alınacağı Senato tarafından belirlenir. Üniversite yalnız
+temel tıp puanı veya ALES puanı ile de öğrenci kabul edebilir.
+Süre
+MADDE 17 – (1) Doktora
+programı, bilimsel hazırlıkta geçen süre hariç tezli yüksek lisans derecesi
+ile kabul edilenler için kayıt olduğu programa ilişkin derslerin verildiği
+dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına
+bakılmaksızın sekiz yarıyıl olup azami tamamlama süresi on iki yarıyıl;
+lisans derecesi ile kabul edilenler için on yarıyıl olup azami tamamlama
+süresi on dört yarıyıldır.
+(2) Doktora programı için gerekli kredili dersleri
+başarıyla tamamlamanın azami süresi tezli yüksek lisans derecesi ile kabul
+edilenler için dört yarıyıl, lisans derecesi ile kabul edilenler için altı
+yarıyıldır. Bu süre içinde kredili derslerini başarıyla tamamlayamayan veya
+Üniversitenin öngördüğü en az genel not ortalamasını sağlayamayan öğrencinin
+Üniversite ile ilişiği kesilir.
+(3) Kredili derslerini başarıyla bitiren, yeterlik
+sınavında başarılı bulunan ve tez önerisi kabul edilen, ancak tez
+çalışmasını birinci fıkrada belirtilen on iki veya on dört yarıyıl sonuna
+kadar tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.
+(4) Lisans derecesi ile doktora programına
+başvurmuş öğrencilerden, kredili derslerini ve/veya azami süresi içinde tez
+çalışmasını tamamlayamayanlara, doktora tezinde başarılı olamayanlara
+tezsiz yüksek lisans için gerekli kredi yükü, proje ve benzeri diğer
+şartları yerine getirmiş olmaları kaydıyla talepleri halinde tezsiz yüksek
+lisans diploması verilir.
+Tez
+danışmanı atanması
+MADDE 18
+– (1) Enstitü anabilim/anasanat dalı başkanlığı her öğrenci için Üniversite
+kadrosunda bulunan bir tez danışmanını ve danışmanla öğrencinin birlikte
+belirleyeceği tez konusu ile tez başlığını ilgili enstitüye önerir. Tez
+danışmanı ve tez önerisi enstitü yönetim kurulu kararıyla kesinleşir. Tez
+danışmanının öğrencinin programı içinde ne zaman atanacağı Senato
+tarafından belirlenir. Ancak tez danışmanının, en geç ikinci yarıyılın
+sonuna kadar atanması zorunludur.
+(2) Tez danışmanı, Senatonun belirleyeceği
+niteliklere sahip öğretim üyeleri arasından seçilir. Üniversitede belirlenen
+niteliklere sahip öğretim üyesi bulunmaması halinde Senatonun belirlediği
+ilkeler çerçevesinde enstitü yönetim kurulu tarafından başka bir
+yükseköğretim kurumundan öğretim üyesi danışman olarak seçilebilir. Doktora
+programlarında öğretim üyelerinin tez yönetebilmesi için, başarıyla
+tamamlanmış tıp, diş hekimliği, veteriner ve eczacılık fakültelerindeki
+programlardaki öğretim üyeleri hariç en az bir yüksek lisans tezi yönetmiş
+olması gerekir. Tez çalışmasının niteliğinin birden fazla tez danışmanı
+gerektirdiği durumlarda atanacak ikinci tez danışmanı, Üniversite kadrosu
+dışından en az doktora derecesine sahip kişilerden olabilir.
+Yeterlik
+sınavı
+MADDE 19
+– (1) Yeterlik sınavı, derslerini
+ve seminerini tamamlayan öğrencinin alanındaki temel konular ve kavramlar
+ile doktora çalışmasıyla ilgili bilimsel araştırma derinliğine sahip olup
+olmadığının ölçülmesidir. Bir öğrenci bir yılda en fazla iki kez yeterlik
+sınavına girer.
+(2) Öğrencinin yeterlik sınavına ne zaman gireceği
+Senato tarafından belirlenir. Ancak yüksek lisans derecesi ile kabul edilen
+öğrenci en geç beşinci yarıyılın, lisans derecesi ile kabul edilmiş olan
+öğrenci en geç yedinci yarıyılın sonuna kadar yeterlik sınavına girmek
+zorundadır.
+(3) Yeterlik sınavları, enstitü anabilim/anasanat dalı başkanlığı tarafından önerilen ve enstitü
+yönetim kurulu tarafından onaylanan beş kişilik doktora yeterlik komitesi
+tarafından düzenlenir ve yürütülür. Komite, farklı alanlardaki sınavları
+hazırlamak, uygulamak ve değerlendirmek amacıyla sınav jürileri kurar.
+Sınav jürisi en az ikisi Üniversite dışından olmak üzere, danışman dahil beş öğretim üyesinden oluşur. Danışmanın oy hakkı
+olup olmadığı hususunda enstitü yönetim kurulu karar verir. Danışmanın oy
+hakkı olmaması durumunda jüri altı öğretim üyesinden oluşur. Yeterlik
+sınavı toplantıları öğretim elemanları, lisansüstü öğrenciler ve alanın
+uzmanlarından oluşan dinleyicilerin katılımına açık olarak yapılır.
+(4) Yeterlik sınavı yazılı ve sözlü olarak iki
+bölüm halinde yapılır. Yazılı sınavda başarılı olan öğrenci sözlü sınava
+alınır. Sınavların ağırlıkları ile notlarının hesaplanmasında Senato
+tarafından belirlenen esaslara göre işlem yapılır. Sınav jürileri
+öğrencinin yazılı ve sözlü sınavlardaki başarı durumunu değerlendirerek
+öğrencinin başarılı veya başarısız olduğuna salt çoğunlukla karar verir. Bu
+karar, enstitü anabilim/anasanat dalı
+başkanlığınca yeterlik sınavını izleyen üç gün içinde enstitüye tutanakla
+bildirilir.
+(5) Yeterlik sınavında başarısız olan öğrenci
+başarısız olduğu bölüm/bölümlerden bir sonraki yarıyılda tekrar sınava
+alınır. Bu sınavda da başarısız olan öğrencinin doktora programı ile
+ilişiği kesilir.
+(6) Yeterlik sınavı jürisi, yeterlik sınavını
+başaran bir öğrencinin, ders yükünü tamamlamış olsa bile, toplam kredi
+miktarının üçte birini geçmemek şartıyla fazladan ders/dersler almasını
+isteyebilir. Öğrenci, enstitü yönetim kurulu kararıyla belirlenecek
+dersleri başarmak zorundadır.
+(7) Lisans derecesi ile doktora programına kabul
+edilmiş ve en az yedi dersini başarı ile tamamlamış bir öğrenci yüksek
+lisans programına geçebilir. Yüksek lisans programına geçme şartları Senato
+tarafından belirlenir.
+Tez
+izleme komitesi
+MADDE 20
+– (1) Yeterlik sınavında başarılı
+bulunan öğrenci için ilgili enstitü anabilim/anasanat
+dalı başkanlığının önerisi ve enstitü yönetim kurulu onayı ile bir ay
+içinde bir tez izleme komitesi oluşturulur.
+(2) Tez izleme komitesi üç öğretim üyesinden oluşur.
+Komitede tez danışmanından başka enstitü anabilim/anasanat
+dalı içinden ve dışından birer üye yer alır. İkinci tez danışmanının
+atanması durumunda ikinci tez danışmanı dilerse komite toplantılarına katılabilir.
+(3) Tez izleme komitesinin kurulmasından sonraki
+dönemlerde, enstitü anabilim/anasanat dalı
+başkanlığının önerisi ve enstitü yönetim kurulu onayı ile üyelerde
+değişiklik yapılabilir.
+Tez
+önerisi savunması
+MADDE 21
+– (1) Doktora yeterlik sınavını
+başarı ile tamamlayan öğrenci, en geç altı ay içinde, yapacağı araştırmanın
+amacını, yöntemini ve çalışma planını kapsayan tez önerisini tez izleme
+komitesi önünde sözlü olarak savunur. Öğrenci, tez önerisi ile ilgili
+yazılı bir raporu sözlü savunmadan en az on beş gün önce komite üyelerine
+dağıtır.
+(2) Tez izleme komitesi, öğrencinin sunduğu tez
+önerisinin kabul, düzeltme veya reddedileceğine salt çoğunlukla karar
+verir. Düzeltme için bir ay süre verilir. Bu süre sonunda kabul veya red yönünde salt çoğunlukla verilen karar, enstitü
+anabilim/anasanat dalı başkanlığınca işlemin
+bitişini izleyen üç gün içinde enstitüye tutanakla bildirilir.
+(3) Tez önerisi reddedilen öğrenci, yeni bir
+danışman ve/veya tez konusu seçme hakkına sahiptir. Bu durumda yeni bir tez
+izleme komitesi atanabilir. Programa aynı danışmanla devam etmek isteyen
+öğrenci üç ay içinde, danışman ve tez konusunu değiştiren öğrenci ise altı
+ay içinde tekrar tez önerisi savunmasına alınır. Tez önerisi bu savunmada
+da reddedilen öğrencinin Üniversite ile ilişiği kesilir.
+(4) Tez önerisi kabul edilen öğrenci için tez
+izleme komitesi, Ocak-Haziran ve Temmuz-Aralık ayları arasında birer defa
+olmak üzere yılda en az iki kez toplanır. Öğrenci, toplantı tarihinden en
+az bir ay önce komite üyelerine yazılı bir rapor sunar. Bu raporda o ana
+kadar yapılan çalışmaların özeti ve bir sonraki dönemde yapılacak çalışma
+planı belirtilir. Öğrencinin tez çalışması, komite tarafından başarılı veya
+başarısız olarak belirlenir. Komite tarafından üst üste iki kez veya
+aralıklı olarak üç kez başarısız bulunan öğrencinin Üniversite ile ilişiği
+kesilir.
+(5) Tez önerisi savunmasına geçerli bir mazereti
+olmaksızın birinci fıkrada belirtilen sürede girmeyen öğrenci başarısız
+sayılarak tez önerisi reddedilir.
+Doktora
+tezinin sonuçlandırılması
+MADDE 22
+– (1) Doktora programındaki bir
+öğrenci, elde ettiği sonuçları Senato tarafından kabul edilen yazım
+kurallarına uygun biçimde yazar ve tezini jüri önünde sözlü olarak savunur.
+(2) Doktora tezinin savunmasından önce ve düzeltme
+verilen tezlerde ise düzeltme ile birlikte öğrenci tezini tamamlayarak
+danışmanına sunar. Danışman tezin savunulabilir olduğuna ilişkin görüşü ile
+birlikte tezi enstitüye teslim eder. Enstitü söz konusu teze ilişkin
+intihal yazılım programı raporunu alarak danışmana ve jüri üyelerine gönderir.
+Rapordaki verilerde gerçek bir intihalin tespiti halinde gerekçesi ile
+birlikte karar verilmek üzere tez enstitü yönetim kuruluna gönderilir.
+(3) Öğrencinin tezinin sonuçlanabilmesi için en az
+üç tez izleme komitesi raporu sunulması gerekir.
+(4) Doktora tez jürisi, danışman ve enstitü
+anabilim/anasanat dalı başkanlığının önerisi ve
+enstitü yönetim kurulu onayı ile atanır. Jüri, üçü öğrencinin tez izleme
+komitesinde yer alan öğretim üyeleri ve en az ikisi Üniversite dışından
+olmak üzere danışman dahil beş öğretim üyesinden
+oluşur. Danışmanın oy hakkı olup olmadığı hususunda enstitü yönetim kurulu
+karar verir. Danışmanın oy hakkı olmaması durumunda jüri altı öğretim
+üyesinden oluşur. Ayrıca ikinci tez danışmanı oy hakkı olmaksızın jüride
+yer alabilir.
+(5) Jüri üyeleri, söz konusu tezin kendilerine
+teslim edildiği tarihten itibaren en geç bir ay içinde toplanarak öğrenciyi
+tez savunmasına alır. Tez savunma sınavı, tez çalışmasının sunumu ve bunu
+izleyen soru-cevap bölümünden oluşur. Tez savunma toplantıları öğretim
+elemanları, lisansüstü öğrenciler ve alanın uzmanlarından oluşan dinleyicilerin
+katılımına açık olarak yapılır.
+(6) Tez sınavının tamamlanmasından sonra jüri
+dinleyicilere kapalı olarak, tez hakkında salt çoğunlukla kabul, ret veya
+düzeltme kararı verir. Tezi kabul edilen öğrenciler başarılı olarak
+değerlendirilir. Bu karar, enstitü anabilim/anasanat
+dalı başkanlığınca tez sınavını izleyen üç gün içinde enstitüye tutanakla
+bildirilir. Tezi başarısız bulunarak reddedilen öğrencinin Üniversite ile
+ilişiği kesilir. Tezi hakkında düzeltme kararı verilen öğrenci en geç altı
+ay içinde gerekli düzeltmeleri yaparak tezini aynı jüri önünde yeniden
+savunur. Bu savunmada da başarısız bulunan öğrencinin Üniversite ile
+ilişiği kesilir. Lisans derecesi ile doktoraya kabul edilmiş olanlardan
+tezde başarılı olamayanlar için talepleri halinde 17 nci
+maddenin dördüncü fıkrasına göre tezsiz yüksek lisans diploması verilir.
+Doktora
+diploması
+MADDE 23
+– (1) Tez çalışmasını tamamlayan
+öğrenci, tezin istenen sayıda nüshasını danışmanına teslim eder. Danışman,
+tezin yazım kurallarına uygunluğu yönünden yazılı olarak belirttiği görüşü
+ile tezin nüshalarını anabilim/bilim dalı başkanlığı aracılığıyla ilgili enstitüye
+gönderir.
+(2) Tez savunmasında başarılı olmak ve diğer
+koşulları da sağlamak kaydıyla doktora tezinin ciltlenmiş en az üç
+kopyasını tez sınavına giriş tarihinden itibaren bir ay içinde enstitüye
+teslim eden ve tezi şekil yönünden uygun bulunan öğrenci doktora diploması
+almaya hak kazanır. Enstitü yönetim kurulu başvuru üzerine teslim süresini
+en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci
+koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik
+haklarından yararlanamaz ve azami süresinin dolması halinde ilişiği
+kesilir.
+(3) Doktora diploması üzerinde enstitü anabilim/anasanat dalındaki programın YÖK tarafından onaylanmış
+adı bulunur. Mezuniyet tarihi, tezin kabul edildiği tez sınavı tarihidir.
+(4) Enstitü tarafından tezin tesliminden itibaren
+üç ay içinde doktora tezinin bir kopyası elektronik ortamda, bilimsel
+araştırma ve faaliyetlerin hizmetine sunulmak üzere YÖK’e gönderilir.
+DÖRDÜNCÜ BÖLÜM
+Sanatta Yeterlik Programı
+Genel
+esaslar
+MADDE 24
+– (1) Sanatta yeterlik çalışması,
+özgün bir sanat eserinin ortaya konulmasını, müzik ve sahne sanatlarında
+ise üstün bir uygulama ve yaratıcılığı amaçlayan doktora eşdeğeri bir
+yükseköğretim programıdır.
+(2) Sanatta yeterlik programı tezli yüksek lisans
+derecesi ile kabul edilmiş öğrenciler için toplam yirmi bir krediden ve bir
+eğitim-öğretim dönemi 60 AKTS’den az olmamak
+koşuluyla en az yedi ders, uygulamalar ile tez, sergi, proje, resital,
+konser, temsil gibi çalışmalar olmak üzere en az 240 AKTS kredisinden
+oluşur. Lisans derecesi ile kabul edilmiş öğrenciler için de en az kırk iki
+kredilik on dört ders, uygulamalar ile tez, sergi, proje, resital, konser,
+temsil gibi çalışmalar olmak üzere en az 300 AKTS kredisinden oluşur.
+(3) Lisansüstü dersler, enstitü anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim
+kurulu onayı ile diğer yükseköğretim kurumlarında verilmekte olan
+derslerden yüksek lisans derecesi ile kabul edilmiş öğrenciler için en
+fazla iki, lisans derecesiyle kabul edilmiş öğrenciler için en fazla dört
+ders seçilebilir.
+Başvuru
+ve kabul
+MADDE 25 – (1) Sanatta
+yeterlik çalışmasına başvurabilmek için adayların lisans veya yüksek lisans
+diplomasına sahip olmaları ve güzel sanatlar fakülteleri ile konservatuvar mezunları ile diğer fakültelerin eşdeğer
+programlarından mezun olanların haricinde yüksek lisans derecesiyle
+başvuran adayların ALES sözel puan türünde en az 55 puandan, lisans
+derecesiyle başvuran adayların ise ALES sözel puan türünde en az 80 puandan
+az olmamak koşuluyla Senato kararı ile belirlenecek ALES puanına sahip
+olmaları gerekir.
+(2) Lisans derecesiyle sanatta yeterlik programına
+başvuranların lisans mezuniyet not ortalamalarının 4 üzerinden en az 3 veya
+muadili bir puan olması gerekir. Sanatta yeterlik programına başvuracak
+olanların sanatta yeterlik programlarına kabulünde, ALES puanı, yüksek
+lisans not ortalaması ile mülakat/yetenek sınavı/portfolyö
+incelemesi sonucu da değerlendirilebilir. Bu değerlendirmeye ilişkin
+hususlar ile başvuru için adayların sağlaması gereken referans mektubu,
+neden sanatta yeterlik yapmak istediğini belirten kompozisyon, uluslararası
+standart sınavlar ve benzeri diğer belgeler Senato tarafından belirlenir.
+(3) Sanatta yeterlik programına
+öğrenci kabulünde, anadilleri dışında YÖK tarafından kabul edilen merkezî
+yabancı dil sınavları ile eşdeğerliği kabul edilen uluslararası yabancı dil
+sınavlarından en az 55 puan veya ÖSYM tarafından eşdeğerliği kabul edilen
+uluslararası yabancı dil sınavlarından bu puan muadili bir puan alınması
+zorunlu olup, bu asgari puanların girilecek programların özelliklerine göre
+yükseltilmesine Senato tarafından karar verilir.
+(4) ALES puanının %50’den az olmamak koşuluyla ne
+kadar ağırlıkla değerlendirmeye alınacağı Senato tarafından belirlenir.
+Üniversite yalnız ALES puanı ile de öğrenci kabul edebilir. ALES’e eşdeğer kabul edilen ve YÖK tarafından ilan
+edilen eşdeğer puanlar, Senato kararı ile yükseltilebilir. Ancak
+enstitüdeki, güzel sanatlar fakülteleri ile konservatuvarlara
+ilişkin anabilim/anasanat dallarına öğrenci
+kabulünde birinci fıkra hükümleri uygulanır.
+Süre
+MADDE 26 – (1) Sanatta
+yeterlik programını tamamlama süresi, bilimsel hazırlıkta geçen süre hariç
+yüksek lisans derecesi ile kabul edilenler için kayıt olduğu programa
+ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt
+yaptırıp yaptırmadığına bakılmaksızın sekiz yarıyıl olup azami tamamlama
+süresi on iki yarıyıl, lisans derecesi ile kabul edilenler için on yarıyıl
+olup azami tamamlama süresi on dört yarıyıldır.
+(2) Sanatta yeterlik programı için gerekli kredili
+dersleri başarıyla tamamlamanın azami süresi tezli yüksek lisans derecesi
+ile kabul edilenler için dört yarıyıl, lisans derecesi ile kabul edilenler
+için altı yarıyıldır. Bu süre içinde kredili derslerini başarıyla
+tamamlayamayan veya Üniversitenin öngördüğü en az genel not ortalamasını
+sağlayamayan öğrencinin Üniversite ile ilişiği kesilir.
+(3) Kredili derslerini ve uygulamalarını başarı ile
+bitiren, ancak tez, sergi, proje, resital, konser, temsil gibi çalışmalarını
+birinci fıkrada belirtilen azami on iki yarıyıl veya on dört yarıyıl sonuna
+kadar tamamlayamayan öğrencinin ilişiği kesilir.
+(4) Lisans derecesi ile sanatta yeterlik programına
+başvurmuş öğrencilerden gerekli kredi yükü, proje ve benzeri diğer şartları
+yerine getirmiş olmaları kaydıyla sanatta yeterlik tezinde başarılı
+olamayanlara talepleri halinde tezsiz yüksek lisans diploması verilir.
+Danışman
+atanması
+MADDE 27 – (1) Enstitü
+anabilim/anasanat dalı başkanlığı, her öğrenci
+için danışmanlık yapacak Üniversite kadrosunda bulunan, ders ve uygulama
+seçimi ile tez, sergi, proje, resital, konser, temsil gibi çalışmaların
+yürütülmesi için bir danışman ile danışman ve öğrencinin birlikte
+belirleyeceği tez, sergi, proje, resital, konser, temsil gibi çalışmaların
+konusunu ve başlığını enstitüye önerir, bu öneri enstitü yönetim kurulu
+kararı ile kesinleşir. Danışmanın
+öğrencinin programı içinde ne zaman atanacağı Senato tarafından belirlenir.
+Ancak danışmanın, en geç ikinci yarıyılın sonuna kadar atanması zorunludur.
+Sanatta yeterlik çalışmasının niteliğinin birden fazla tez danışmanı
+gerektirdiği durumlarda ikinci tez danışmanı atanabilir. Sanatta yeterlik
+programlarında tez, sergi, proje, resital, konser, temsil gibi çalışmalar
+yönetilebilmesi için, başarıyla tamamlanmış en az bir yüksek lisans tezi
+yönetmiş olmak gerekir. İkinci tez danışmanı üniversite kadrosu dışından
+doktora/sanatta yeterlik derecesine sahip kişilerden de olabilir.
+(2) Danışman, nitelikleri Senato tarafından
+belirlenen öğretim üyeleri ile doktora/sanatta yeterlik derecesine sahip
+öğretim görevlileri arasından seçilir.
+Sanatta
+yeterlik çalışmasının sonuçlanması
+MADDE 28
+– (1) Tez hazırlayan öğrenci elde
+ettiği sonuçları, sergi, proje, resital, konser, temsil gibi çalışmasını
+açıklayan ve belgeleyen metni Senato tarafından kabul edilen yazım
+kurallarına uygun biçimde yazarak, tez, sergi, proje, resital, konser,
+temsil gibi çalışmalarını jüri önünde sözlü olarak savunur.
+(2) Sanatta yeterlik çalışmasının savunmasından
+önce ve düzeltme verilen tez ve çalışmalarda ise düzeltme ile birlikte
+öğrenci tezini/çalışmasını tamamlayarak danışmanına sunar. Danışman tezin
+savunulabilir olduğuna ilişkin görüşü ile birlikte tezi enstitüye teslim
+eder. Enstitü söz konusu teze ilişkin intihal yazılım programı raporunu
+alarak danışmana ve jüri üyelerine gönderir. Rapordaki verilerde gerçek bir
+intihalin tespiti halinde gerekçesi ile birlikte karar verilmek üzere tez
+enstitü yönetim kuruluna gönderilir.
+(3) Sanatta yeterlik çalışmasını tamamlayan
+öğrenci, tezin istenen sayıda nüshasını danışmanına teslim eder. Danışman,
+tezin yazım kurallarına uygunluğu yönünden görüşünü yazılı olarak belirtir
+ve tezleri anabilim/anasanat dalı başkanlığı
+aracılığıyla ilgili enstitüye gönderir.
+(4) Sanatta yeterlik jürisi, danışman ve enstitü
+anabilim/anasanat dalı başkanlığının önerisi ve
+enstitü yönetim kurulu onayı ile atanır. Jüri, en az ikisi Üniversite
+dışından öğretim üyesi olmak üzere danışman dahil
+beş kişiden oluşur. Danışmanın oy hakkı olup olmadığı hususunda enstitü
+yönetim kurulu karar verir. Danışmanın oy hakkı olmaması durumunda jüri
+altı kişiden oluşur. Ayrıca ikinci tez danışmanı oy hakkı olmaksızın jüride
+yer alabilir.
+(5) Jüri üyeleri, söz konusu tezin veya metnin
+kendilerine teslim edildiği tarihten itibaren en geç bir ay içinde
+toplanarak öğrenciyi sınava alır. Sınav, sanatta yeterlik çalışmasının
+sunumu ve bunu izleyen soru-cevap bölümünden oluşur. Sınav öğretim
+elemanları, lisansüstü öğrenciler ve alanın uzmanlarından oluşan dinleyicilerin
+katılımına açık olarak yapılır.
+(6) Sınavın tamamlanmasından sonra jüri,
+dinleyicilere kapalı olarak, öğrencinin tez, sergi, proje, resital, konser,
+temsil gibi sanatta yeterlik çalışması hakkında salt çoğunlukla kabul, ret
+veya düzeltme kararı verir. Tezi ve sanatta yeterlik çalışması kabul edilen
+öğrenciler başarılı olarak değerlendirilir. Bu karar, enstitü anabilim/anasanat dalı başkanlığınca sınavı izleyen üç gün
+içinde ilgili enstitüye tutanakla bildirilir. Tezi ve sanatta yeterlik
+çalışması başarısız bulunarak reddedilen öğrencinin Üniversite ile ilişiği
+kesilir. Sanatta yeterlik çalışması hakkında düzeltme kararı verilen
+öğrenci en geç altı ay içinde gerekli düzeltmeleri yaparak tez, sergi,
+proje, resital, konser, temsil gibi sanatta yeterlik çalışmasını aynı jüri
+önünde yeniden savunur. Bu savunma sonunda da başarısız bulunarak sanatta
+yeterlik çalışması kabul edilmeyen öğrencinin Üniversite ile ilişiği
+kesilir. Lisans derecesi ile sanatta yeterlik programına kabul edilmiş
+olanlardan tez, sergi, proje, resital, konser, temsil gibi sanatta yeterlik
+çalışması başarılı olamayanlar için talepleri halinde 26 ncı maddenin dördüncü fıkrasına göre tezsiz yüksek
+lisans diploması verilir.
+Sanatta
+yeterlik diploması
+MADDE 29
+– (1) Sanatta yeterlik çalışmasında
+başarılı olan öğrenciye, diğer koşulları da sağlamak kaydıyla YÖK
+tarafından onaylanan sanat dalının özelliğine göre alanı belirleyen bir
+diploma verilir. Mezuniyet tarihi, tez sınavı sonrasında yapılan ve
+başarılı bulunan uygulamalı sınav tarihidir.
+(2) Tez savunmasında başarılı olmak ve diğer
+koşulları da sağlamak kaydıyla sanatta yeterlik tezinin ciltlenmiş en az üç
+kopyasını tez sınavına giriş tarihinden itibaren bir ay içinde ilgili
+enstitüye teslim eden ve tezi şekil yönünden uygun bulunan öğrenci doktora
+diploması almaya hak kazanır. Enstitü yönetim kurulu başvuru üzerine teslim
+süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen
+öğrenci koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik
+haklarından yararlanamaz ve azami süresinin dolması halinde ilişiği
+kesilir.
+(3) Enstitü tarafından tezin tesliminden itibaren
+üç ay içinde sanatta yeterlik tezinin bir kopyası elektronik ortamda,
+bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere YÖK’e
+gönderilir.
+BEŞİNCİ BÖLÜM
+Bilimsel Hazırlık Programı ve Özel Öğrenci Kabulü
+Bilimsel
+hazırlık programına öğrenci kabulü
+MADDE 30 – (1) Yüksek
+lisans ve doktora programlarına kabul edilen öğrencilerden lisans veya
+yüksek lisans derecesini kabul edildikleri yüksek lisans veya doktora
+programından farklı alanlarda almış olanlar ile lisans veya yüksek lisans
+derecesini başka yükseköğretim kurumlarından almış olan yüksek lisans veya
+doktora programı adayları için eksikliklerini gidermek amacıyla bilimsel
+hazırlık programı uygulanabilir.
+(2) Bilimsel hazırlık programında alınması zorunlu
+dersler, ilgili lisansüstü programını tamamlamak için gerekli görülen
+derslerin yerine geçemez. Ancak bilimsel hazırlık programındaki bir
+öğrenci, bilimsel hazırlık derslerinin yanı sıra enstitü anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim
+kurulunun onayı ile lisansüstü programa yönelik dersler de alabilir.
+(3) Bilimsel hazırlık programı ile ilgili devam,
+ders sınavları, ders notları, derslerden başarılı sayılma koşulları, ders
+tekrarı, kayıt silme ve diğer esaslar Senato tarafından belirlenir.
+(4) Bilimsel hazırlık programında geçirilecek süre
+en çok iki yarıyıldır. Yaz öğretimi bu süreye dahil
+edilmez. Bu süre dönem izinleri dışında uzatılamaz ve süre sonunda başarılı
+olamayan öğrencinin ilişiği kesilir. Bu programda geçirilen süre yüksek
+lisans veya doktora programı sürelerine dahil
+edilmez.
+Özel
+öğrenci kabulü
+MADDE 31
+– (1) Bir yükseköğretim kurumu
+mezunu veya öğrencisi olup, belirli bir konuda bilgisini artırmak
+isteyenler, enstitü anabilim/anasanat dalı
+başkanlığının onayı ile lisansüstü derslere özel öğrenci olarak kabul
+edilebilir. Özel öğrencilik ilgili programda doğrudan derece elde etmeye
+yönelik bir eğitim olmayıp süresi iki yarıyılı geçemez. Özel öğrenci
+statüsünde ders alanlar öğrencilik haklarından yararlanamaz. Özel öğrenci
+kabul koşulları ve bu konudaki diğer hükümler Senato tarafından belirlenir.
+Lisansüstü programa kabul edilen öğrencilerin özel öğrenci olarak aldığı ve
+başarılı olduğu derslerin muafiyet işlemlerinde, muafiyet verilen dersler
+ilgili lisansüstü eğitiminde verilen derslerin %50’sini geçemez.
+Yatay
+geçiş yoluyla öğrenci kabulü
+MADDE 32
+– (1) Üniversite içindeki başka
+bir enstitü anabilim/anasanat dalında veya başka
+bir yükseköğretim kurumunun lisansüstü programında en az bir yarıyılı
+tamamlamış olan başarılı öğrenci, lisansüstü programlara yatay geçiş
+yoluyla kabul edilebilir. Yatay geçiş yoluyla kabul edilme koşulları Senato
+tarafından belirlenir.
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Lisansüstü
+programlara kayıt
+MADDE 33
+– (1) Lisansüstü programlara kabul
+edilen öğrencilerin kayıtlarının kesinleşmesi için gerekli koşullar Senato
+tarafından belirlenir.
+Programlar,
+sınavlar ve değerlendirme
+MADDE 34
+– (1) Enstitü anabilim/anasanat dallarındaki lisansüstü öğretim planları,
+lisansüstü programdan mezun olunabilmesi için alınması gereken
+zorunlu/seçmeli dersler, tez, seminer ve benzeri çalışmaları ile kredi toplamlarıdır.
+Bu öğretim planları Senato tarafından kararlaştırılan asgari muhtevaya
+uymak şartı ile ilgili enstitü kurulunda görüşülerek onaylanır.
+(2) Bir yarıyılda hangi lisansüstü derslerin
+açılacağı ve bu derslerin hangi öğretim üyeleri tarafından verileceği,
+ilgili enstitü anabilim/anasanat dalları
+başkanlarının önerileri üzerine enstitü yönetim kurulu tarafından
+belirlenir.
+(3) Lisansüstü programların kredi veya YÖK
+tarafından ilgili programın yer aldığı diploma düzeyi ve alan için Türkiye
+Yükseköğretim Yeterlilikler Çerçevesine göre belirlenen kredi aralığı ve
+öğrencilerin çalışma saati göz önünde tutularak Senato tarafından
+belirlenen AKTS kredisine göre oluşturulmasında aşağıdaki hususlar dikkate
+alınır:
+a) Bir lisansüstü dersin yarıyıl kredi değeri, bir
+yarıyıl devam eden dersin haftalık teorik ders saatinin tamamı ile haftalık
+uygulama veya laboratuvar saatinin yarısının
+toplamıdır.
+b) İlgili diploma programını bitiren öğrencinin
+kazanacağı bilgi, beceri ve yetkinliklere o dersin katkısını ifade eden
+öğrenim kazanımları ile açıkça belirlenmiş teorik veya uygulamalı ders
+saatleri ve öğrenciler için öngörülen diğer faaliyetler için gerekli
+çalışma saatleri de göz önünde bulundurularak Senato tarafından belirlenen
+ilkeler çerçevesinde AKTS ders kredileri hesaplanır.
+(4) Lisansüstü programlarla ilgili devam, ders
+sınavları, ders notları, derslerden başarılı sayılma koşulları, ders
+tekrarı ve diğer esaslar Senato tarafından belirlenir.
+(5) Bilimsel araştırma teknikleri ile araştırma ve
+yayın etiği konularını içeren en az bir dersin lisansüstü eğitim sırasında
+verilmesi zorunludur.
+(6) Enstitü kurulu
+tarafından onaylanan dersler içinden hangilerinin öğrencilerin ders
+programlarında yer alacağına, öğrenci ile birlikte öğrencinin danışmanı
+karar verir. Danışmanlık görevi tez danışmanı atanıncaya kadar, enstitü
+anabilim/anasanat dalı başkanı veya program
+koordinatörü/başkanı tarafından yapılır.
+(7) Üniversitece, öğrencinin herhangi bir
+yarıyıldan sonra programına devam edebilmesi için gerekli ek başarı
+koşulları belirlenebilir.
+(8) Yeterlik, seviye tespit veya ders başarılarını
+ölçen tüm sınavlar, kağıt ortamında ve tüm
+adaylara eş zamanlı olarak yapılabileceği gibi, alan ve zorluk düzeyine
+göre tasnif edilerek güvenli biçimde saklanan bir soru bankasından, her bir
+adaya farklı zamanlarda farklı soru sorulmasına izin verecek şekilde
+elektronik ortamda da yapılabilir. Sınavlarda sorulacak soruların
+hazırlanması, soru bankasının oluşturulması ve şifrelenmesi, sınav
+sorularının kağıt ortamında veya elektronik
+ortamda saklanması ile sınav güvenliğinin sağlanmasına ilişkin ilkeler YÖK
+tarafından belirlenen esaslara göre yürütülür.
+Diğer
+hükümler
+MADDE 35
+– (1) Yabancı uyruklu adaylarla
+lisans eğitiminin tamamını yurt dışında tamamlayan Türkiye Cumhuriyeti
+vatandaşı adayların lisansüstü programlara kabulüne ilişkin usul ve esaslar
+Senato tarafından belirlenir.
+(2) Üniversite öğrenci kabul edilecek lisansüstü
+programların adlarını, başvurma koşullarını, son başvuru tarihini,
+istenilen belgeleri ve diğer hususları ilan eder. Söz konusu ilan her
+yarıyıl başında öğrenci almak üzere verilebilir.
+(3) Üniversite, YÖK tarafından açılmasına izin
+verilen lisansüstü programları Üniversitenin bulunduğu il dışında
+sürdüremez.
+(4) Tezsiz yüksek lisans programları hariç, aynı
+anda birden fazla lisansüstü programa kayıt yaptırılamaz ve devam edilemez.
+(5) Tıpta ve diş hekimliğinde uzmanlık doktoraya
+eşdeğer düzeyde olup, bu uzmanlık eğitimleri 26/4/2014
+tarihli ve 28983 sayılı Resmî Gazete’de yayımlanan Tıpta ve Diş
+Hekimliğinde Uzmanlık Eğitimi Yönetmeliğine göre yürütülür.
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 36
+– (1) 3/8/2014
+tarihli ve 29077 sayılı Resmî Gazete’de yayımlanan Kırıkkale Üniversitesi
+Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliği yürürlükten kaldırılmıştır.
+Geçiş
+hükümleri
+GEÇİCİ
+MADDE 1 – (1) Bu Yönetmelikte yer
+alan azami program süreleri, 20/4/2016 tarihinden
+önce lisansüstü programlara kayıt olan öğrenciler için 2016-2017 eğitim
+öğretim yılından itibaren işlemeye başlar.
+(2) Bu Yönetmeliğin yayımı tarihinden önce aynı
+anda birden fazla lisansüstü programa kayıtlı olan öğrenciler hakkında 35
+inci maddenin beşinci fıkrası uygulanmaz.
+(3) 6/2/2013 tarihinden
+önce tezsiz yüksek lisans programlarına kayıtlı olan veya mezun olan
+öğrenciler doktora programlarına başvurabilir.
+Yürürlük
+MADDE 37
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 38
+– (1) Bu Yönetmelik hükümlerini
+Kırıkkale Üniversitesi Rektörü yürütür.
