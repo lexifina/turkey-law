@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-105[mük.257-2016/VUK-1-19889]-13502",
+  "source_id": 26517,
+  "date": "2017-01-16",
+  "title": "E-faturada \"İrsaliye yerine geçer\" ifadesinin nasıl kullanılabileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26517",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "3b915270f0d4fe5d98e7b9f18383f68f748992888c78fbc7ff05fed49f6ac086",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
