@@ -1,0 +1,1 @@
+MADDE 2 – (1) 9/1/2013 tarihli ve 28523 sayılı Resmî Gazete’de yayımlanan İntegra 96 Uluslararası Ürün ve Sistem Belgelendirme Bağımsız Denetim Gözetim Eğitim Hizmetleri Limited Şirketinin Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (SGM: 2012/22) yürürlükten kaldırılmıştır.

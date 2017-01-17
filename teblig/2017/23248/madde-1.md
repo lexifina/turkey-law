@@ -1,0 +1,1 @@
+MADDE 1 – (1) Avrupa Komisyonu tarafından 2422 kimlik kayıt numarası tahsis edilmiş olan İntegra 96 Uluslararası Ürün ve Sistem Belgelendirme Bağımsız Denetim Gözetim Eğitim Hizmetleri Limited Şirketi, Ek-1’de yer alan teknik düzenleme ve uygunluk değerlendirme modüllerinde onaylanmış kuruluş olarak görevlendirilmiştir.
