@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "102",
+  "decision_date": "2017-01-17",
+  "source_id": 23897,
+  "chamber": "8",
+  "ilam_number": "163",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23897/",
+  "source_sha256": "6e3c6229b2377d96e52c843746fed03d1feeba71093e79ba50bfcc873e9d67b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
