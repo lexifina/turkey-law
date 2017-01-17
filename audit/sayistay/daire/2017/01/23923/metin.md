@@ -1,0 +1,5 @@
+Ağaçlandırma Taahhüdünün Yerine Getirilmemesi
+
+… Ltd. Şti. yüklenimindeki “… Orman İçi Dinlenme Yeri Kapı Girişi ve Tüm Tesislerin İşletmeciliği İşi” nin … tarihli ek sözleşme ile süresinin 29 yıla uzatılmasına rağmen … tarihli ana sözleşmenin 4’üncü maddesindeki süre uzatımı şartlarından birisi olan kiralanan alanın 5 katı kadar ağaçlandırma yapılması taahhüdünün işletmeci tarafından yerine getirilmemesi konusuna ilişkin olarak;
+
+İdare tarafından, ağaçlandırma taahhüdü ile ilgili olarak mevzuatta ve sözleşmede hüküm bulunmadığından 5 katı alandaki ağaçlandırma maliyet bedelinin tespit edilip tahsil edilmesi yönünde bir düzenlemeye gidildiği ve sonrasında işletmecinin, … İşletme Müdürlüğü faaliyet alanındaki … Ağaçlandırma Projesi kapsamında 21 hektarlık alanın İdarece tespit edilen … TL tutarındaki ağaçlandırma maliyet bedelini, … tarih ve … no.lu banka dekontu ile … Bölge Müdürlüğünün hesabına yatırdığı görüldüğünden, kamu zararı oluşmayan konu hakkında ilişilecek husus bulunmadığına, oybirliğiyle, karar verildi.
