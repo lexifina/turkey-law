@@ -1,0 +1,5 @@
+Yersiz KDV Ödemesi:
+
+“… 12. Taraflar Konferansı Katılacak Olan Devlet Başkanları, Bakanlar ve Eşleri ile Beraberindeki Heyetlerin Uçak Biletlerinin Ödenmesi Organizasyonu Hizmet Alımı İşi” kapsamında yüklenici tarafından ödenen uçak bilet ücretleri için KDV Kanunu’nun 14’üncü maddesi ile bu maddeye istinaden çıkarılan 84/8889 sayılı Bakanlar Kurulu Kararın 1’inci maddesine aykırı olarak KDV tahakkuk ettirilmesi sonucu … TL tutarında kamu zararına sebebiyet verilmesi konusuna ilişkin olarak;
+
+İdare tarafından işle ilgili olarak düzenlenen … tarih ve … numaralı ödeme emri belgesi ile yükleniciye … TL ödeme yapıldığı, ödenen bu tutar üzerinden … TL tutarında KDV hesaplandığı, 5/10 oranında tevkif edilen … TL tutarındaki KDV’nin bütçeye gelir kaydedildiği, tevkif edilmeyen KDV tutarının da yüklenici tarafından ilgili vergi dairesine beyan edildiği görüldüğünden, uçak biletleri için KDV ödenmesi hususunda şu aşamada kamu zararı oluşmadığından, … TL ile ilgili olarak ilişilecek husus bulunmadığına, oybirliğiyle, karar verildi.
