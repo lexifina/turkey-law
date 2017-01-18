@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42614",
+  "decision_date": "2017-01-18",
+  "source_id": 13127,
+  "chamber": "6",
+  "file_number": "40779",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13127/",
+  "source_sha256": "fe25fe8653a2c322c08dd3228394ba63412004a89873adb53b91d5d593357b96",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
