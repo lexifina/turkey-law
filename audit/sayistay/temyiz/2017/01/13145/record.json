@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42627",
+  "decision_date": "2017-01-18",
+  "source_id": 13145,
+  "chamber": "6",
+  "file_number": "41343",
+  "public_body_type": "Diğer",
+  "account_year": "2009",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13145/",
+  "source_sha256": "bc4be464b2dbe37fbe7e53db18a90c29e12a73b4bcce048bc2af5d1f975a71d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
