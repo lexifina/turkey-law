@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42617",
+  "decision_date": "2017-01-18",
+  "source_id": 13133,
+  "chamber": "2",
+  "file_number": "40609",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2003",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13133/",
+  "source_sha256": "647dfd18f9b7e384eda818e39636a8c6f350ba83589955402528574372284f04",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
