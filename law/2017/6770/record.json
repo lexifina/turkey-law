@@ -1,0 +1,120 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6770",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2017-01-18",
+  "adopted_as_published": "18/01/2017",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "27.01.2017 No: 29961",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc101/kanuntbmmc101/kanuntbmmc10106770.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 101",
+  "committee_reports": [
+    {
+      "label": "TBMM 446 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030050ss0446.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 26,
+      "kayit_no": 829683,
+      "title": "Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "18/01/2017",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc101/kanuntbmmc101/kanuntbmmc10106770.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 446 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030050ss0446.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 29,
+          "sitting": 42,
+          "sitting_date": "2016-12-16",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c029/tbmm26029042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c029/tbmm26029fih.pdf",
+          "pages": [
+            "1223"
+          ]
+        },
+        {
+          "cilt": 30,
+          "sitting": 49,
+          "sitting_date": "2017-01-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030049.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030fih.pdf",
+          "pages": [
+            "515"
+          ]
+        },
+        {
+          "cilt": 30,
+          "sitting": 50,
+          "sitting_date": "2017-01-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030fih.pdf",
+          "pages": [
+            "773:786",
+            "788:798",
+            "800:831",
+            "834:837",
+            "837:865"
+          ]
+        },
+        {
+          "cilt": 30,
+          "sitting": 51,
+          "sitting_date": "2017-01-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030fih.pdf",
+          "pages": [
+            "942",
+            "943.953",
+            "958:975",
+            "975:976",
+            "976:981",
+            "982:987",
+            "988:993",
+            "993:1008",
+            "1009:1011",
+            "1012:1025",
+            "1026.1031",
+            "1032:1050"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 52,
+          "sitting_date": "2017-01-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031052.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031fih.pdf",
+          "pages": [
+            "79:87",
+            "87:92"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=491&v_gelecek_sayfa=101&v_kullanici_id=27483208",
+      "page_sha256": "dc3bf752bec63c7c9626e46804c028cd611937e470024c610916527db3c77340"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "dc3bf752bec63c7c9626e46804c028cd611937e470024c610916527db3c77340",
+  "issuer": "TBMM",
+  "in_force": "2017-01-18",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 18/01/2017; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
