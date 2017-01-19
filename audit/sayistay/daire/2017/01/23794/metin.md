@@ -1,0 +1,29 @@
+Vekalet ücreti
+
+Belediyede Destek Hizmetleri Müdürlüğü kadrosuna vekalet eden personele, söz konusu kadro için mevzuatın gerektiği şartları taşımadığı halde vekalet ücreti ödenmesi neticesinde ........ TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak,
+
+657 Sayılı Devlet Memurları Kanununun “Vekalet Görevi ve Aylık Verilmesinin Şatları” başlıklı 86. maddesinde “Memurların kanuni izin, geçici görev, disiplin cezası uygulaması veya görevden uzaklaştırma nedenleriyle işlerinden geçici olarak ayrılmaları halinde yerlerine kurum içinden veya diğer kurumlardan veya açıktan vekil atanabilir.
+
+Bir görevin memurlar eliyle vekaleten yürütülmesi halinde aylıksız vekalet asıldır…”
+
+denilmiş ve aynı kanunun “Vekalet, İkinci Görev Aylık ve Ücretleri ile Diğer Ödemeler” başlıklı 175. maddesinde “Bir göreve vekaleten atanan memurlara vekalet edilen görevin kadro derecesinin birinci kademesinin üçte biri, açıktan atananlara ise (Köy ve kasaba imamlığı kadrolarına atananlara 146 ncı maddede yazılı asgari ücret aylık tutarından aşağı olmamak üzere) üçte ikisi verilir. Bulundukları yerden başka bir yerdeki bir göreve vekalet suretiyle atananlara, Harcırah Kanununun geçici görevle başka yere gönderilenlere ilişkin hükümleri uygulanır.
+
+Ancak, kurum içinden veya diğer kurumlardan vekalet edenlere vekalet aylığı ödenebilmesi için, vekilin asilde aranan şartları taşıması zorunludur…” hükümlerine yer verilmiştir.
+
+02.11.2011 tarih ve 28103 mükerrer sayılı Resmi Gazete’de yayımlanan 666 Kanun Hükmünde Kararname’ye eklenen 30.06.1989 tarih ve 20211 mükerrer sayılı Resmi Gazete’de yayımlanan 375 sayılı Kanun Hükmünde Kararnamenin Ek 9. maddesinin (5) inci fıkrasında; “Birinci fıkra kapsamına giren personelden; kurumlarınca bir kadroya kurum içinden veya kurum dışından vekalet ettirilenlere, vekaletin 657 sayılı Kanunun 86 ncı maddesine istinaden yapılmış ve bu hususun onayda belirtilmiş olması, vekalet görevinin Bakanlar Kurulu kararı veya müşterek karar ile atama yapılması gereken kadrolar için ilgili bakan, diğer kadrolar için asili atamaya yetkili amir tarafından verilmesi, vekalet eden personelin asaleten atanmada aranan tüm şartları (asaleten atanmada sınav şartı aranılan kadrolar için bu sınavlara girebilme hakkının elde edilmiş olması dahil) taşıması kaydıyla vekalet ettikleri kadro için öngörülen ek ödemenin asli kadroları için öngörülen ek ödemeden fazla olması halinde, aradaki fark, vekalet görevine başlanıldığı tarihten itibaren ve bu görev fiilen yapıldığı sürece ödenir. Ancak, mehil müddeti, yıllık izin, mazeret izni, hastalık ve refakat izni, geçici görev, vekalet, görevden uzaklaştırma, hizmet içi eğitim, seminer ve kurs nedenleriyle görevlerinden ayrılanlara vekalet edenlere bu şekilde ödeme yapılmaz” hükümleri yer almaktadır. Bu hükümler uyarınca, Belediye Şube Müdürlüklerinde müdürlük kadrolarına vekalet eden personele, vekalet ettikleri kadrolara ilişkin öngörülen özel hizmet tazminatı ve ek ödeme tutarları ile kendilerine fiilen ödenen özel hizmet tazminatı ve ek ödeme tutarları arasındaki farkın ödenebilmesi için, bu kadrolara asaleten atanacaklar için aranan tüm şartları taşımaları gerekmektedir.
+
+Son olarak 04.07.2009 tarih ve 27278 mükerrer sayılı Resmi Gazete’de yayımlanan Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslara Dair Yönetmeliğin “Görevde Yükselme Sınavına Tabi Olarak Atanacaklarda Aranacak Özel Şartlar” başlıklı 7 nci maddesinin (a) fıkrasında; 1 inci ve 2 nci dereceli Müdür ve Şube Müdürü kadrosuna atanabilmek için en az 10 yıl fiili hizmet şartı getirilmiştir. Yapılan incelemede ise Belediye 1 inci Derece Destek Hizmetleri Müdürlüğü kadrosuna vekalet eden .........’nın 6 yıl 1 ay fiili hizmetinin bulunduğu; söz konusu müdürlük kadrosu için asilde aranan şartı taşımadığı; dolayısıyla mezkur kadro için öngörülen ödemeler ile asli kadroya ait olan yan ödeme, özel hizmet tazminatı ve ek ödeme farklarının kendisine ödenmesine müstehak olmadığı anlaşılmıştır.
+
+Sorumlulardan Harcama Yetkilisi ........’nın savunmasında sözünü ettiği Anayasa Mahkemesinin .....tarih ve .....esas sayılı kararında, iptal edilen hüküm, Devlet Memurları Kanununun 86 ncı maddesinin 4 üncü fıkrasında yer alan “Aynı kurumdan birinci fıkrada sayılan ayrılmalar dolayısıyla atanan vekil memurlara vekâlet görevinin 3 aydan fazla devam eden süresi için, … vekâlet aylığı ödenir.” hükmündeki “Birinci Fıkrada Sayılan” ifadesidir. Söz konusu ifadenin işaret ettiği “birinci fıkrada sayılan” hususlar, mezkur maddenin (1) inci fıkrasındaki “Kanuni izin, geçici görev, disiplin cezası uygulaması veya görevden uzaklaştırma” nedenleridir. Burada üzerinde durulan husus da dolu kadroya vekaleten atamalardır. Sonuç olarak, emeklilik, istifa, ölüm veya naklen atama gibi nedenlerle boşalan kadrolara vekaleten atananlara vekalet aylığı ödenmesi ile ilgili şartlarda herhangi bir değişiklik yapılmamıştır. Dolayısıyla Anayasa Mahkemesinin mezkur kararında boş müdürlük kadrolarına vekalet edenlere vekalet aylığı ödenmesine ilişkin mevzuatın öngördüğü şartlar ile ilgili bir husus yer almamaktadır.
+
+Bu itibarla, Belediyede Destek Hizmetleri Müdürlüğü kadrosuna vekalet eden personele, söz konusu kadro için mevzuatın gerektiği şartları taşımadığı halde vekalet ücreti ödenmesi neticesinde oluşan .......TL kamu zararının;
+
+..........TL’sinin Harcama Yetkilisi ........ve Gerçekleştirme Görevlisi ..........'e,
+
+........ TL’sinin Harcama Yetkilisi ....... ve Gerçekleştirme Görevlisi ..........’ya,
+
+Müştereken ve müteselsilen,
+
+6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizleri ile ödettirilmesine,
+
+İş bu ilamın tebliğ tarihinden itibaren aynı Kanunun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu ve 56 ncı maddesi gereğince beş yıl içinde Sayıştay Daireleri nezdinde yargılamanın iadesi yolu açık olmak üzere oybirliğiyle karar verildi.
