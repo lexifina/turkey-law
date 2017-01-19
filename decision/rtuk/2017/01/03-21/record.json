@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2017/03",
+  "meeting_date": "2017-01-19",
+  "meeting_date_as_published": "19.1.2017",
+  "decision_no": "21",
+  "source_id": 8793,
+  "title": "RTÜK kararı 2017/03-21",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/8793",
+  "source_sha256": "fc4d71b514b590b23980a86a02cf98302ecac4048454db72546a3a8702e4df55",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
