@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "155",
+  "decision_date": "2017-01-19",
+  "source_id": 23820,
+  "chamber": "4",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23820/",
+  "source_sha256": "b1b8be26211542adebb7718034f92a438022ba2ea33746f82684360fdd68f0dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
