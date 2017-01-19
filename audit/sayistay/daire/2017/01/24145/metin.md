@@ -1,0 +1,17 @@
+… Üniversitesine ait öğrenci yurtlarında kalan ve … Üniversitesi Destekleme Vakfı tarafından barınma ihtiyaçları taahhüt edilen burslu öğrencilere ilişkin olup anılan Vakıf tarafından Üniversiteye ödenmesi gereken yurt ücretlerinin 2013 ve 2014 yıllarında eksik ödendiği, 2015 yılında ise hiç ödenmediği, bunun üzerine Üniversite Yönetim Kurulu tarafından verilen 08.10.2014 tarih ve 55 sayılı karara istinaden söz konusu öğrencilerden 2015 yılında yurt ücreti alınmadığı tespit edilmiştir.
+
+2547 sayılı Yükseköğretim Kanununun ‘Cari hizmet maliyetinin hesaplanması, öğrenci katkı payları ve öğrenim ücretleri’ başlıklı 46 ncı maddesine göre yükseköğretim kurumları öz gelir olarak kaydedilen tutarların en fazla % 10’unu, yönetim kurulu tarafından tespit edilen başarılı ve gelir düzeyi düşük öğrencilerin kitap, kırtasiye ile beslenme ve barınma yardımı ödemelerinde kullanabilecektir.
+
+Her yıl Öğrenci Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından yayımlanan ÖSYS Tercih Kılavuzuna göre … Üniversitesi, LYS sonucunda yerleştiği ve kayıt yaptırdığı bölümün puan türünde ilk 30.000’den (2014 ve 2015 yılı için 20.000) gelen öğrencilerine, en fazla 5 yıl boyunca yılın 9 ayı Vakıf barınma desteği kapsamında öğrenci köyünde ücretsiz yurt imkânı sunacaktır.
+
+Yapılan incelemede ÖSYM kılavuzundaki taahhüde istinaden birçok öğrencinin burslu olarak üniversitenin yurtları olan öğrenci köyünde kaldıkları ve fakat Vakıf tarafından ilgili öğrenciler için üniversiteye 2013 ve 2014 yıllarında sadece kaldıkları odalara ilişkin elektrik, su ve doğalgaz giderlerinin ödendiği, 2015 yılında herhangi bir ödemede bulunulmadığı görülmüştür.
+
+Savunmalarda; Vakfın 2013-2014 eğitim-öğretim yılında öğrenci yurtlarına yönelik … TL, 2014-2015 eğitim-öğretim yılında ise … TL olmak üzere öğrencilerin ücretsiz yurt ihtiyaçlarının karşılanması için toplamda … TL harcama yaptığı,
+
+2547 sayılı Kanunun 46. maddesine istinaden sorguda çıkartılan 2015 yılı için belirlenen … TL’lik tutardan … TL’lik kurum özgelirlerinin % 10’luk kısmının düşülmesi gerektiği, bu durumda geriye … TL kaldığı, bu tutarın protokol gereği yurtların tamir, tadilat ve tefrişatı için Vakıf tarafından harcanan toplam … TL’den düşülmesi gerektiği, bu rakam düşüldüğünde … TL kaldığı, bu tutarın ise Vakıfla mahsuplaşılacak yeni tutar olduğu, 2015 yılı içinde aynı şeklide tamir, tadilat ve tefrişatlar için harcanan … TL’den … TL’nin 2015 yılı öz gelirlerinin %10’unu aşan kısmı çıkartıldığında … TL kaldığı,
+
+Üniversitenin 2013 yılı öz gelirlerinin … TL olup, %10’u … TL, 2014 yılı öz gelirlerinin … TL olup, %10’u … TL olduğu, Vakıf tarafından Üniversiteye yurtların elektrik, su ve doğal gaz giderleri için yapılan şartlı bağışların 2013 yılında … TL, 2014 yılında … TL olduğu, aynı hesaplama şekliyle geriye … TL kaldığı, sonuç olarak herhangi bir kamu zararı oluşmadığı,
+
+İfade edilmiştir.
+
+… Üniversitesine ait öğrenci yurtlarında kalan ve … Üniversitesi Destekleme Vakfı tarafından barınma ihtiyaçları taahhüt edilen burslu öğrencilere ait Vakıf tarafından Üniversiteye ödenmesi gereken yurt ücretlerinin 2013 ve 2014 yıllarında eksik ödenmesi, 2015 yılında ödenmemesi üzerine Üniversite Yönetim Kurulu tarafından verilen karara istinaden söz konusu öğrencilerden 2015 yılında yurt ücreti alınmamasına ilişkin olarak, savunmalarda belirtilen hususlar dikkate alındığında, kamu zararı oluşmadığı anlaşıldığından ilişilecek husus bulunmadığına oybirliğiyle,
