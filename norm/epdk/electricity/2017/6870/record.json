@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6870",
+  "decision_date": "2017-01-19",
+  "title": "ED-OSB/1517-9/1108 lisans numaralı Şanlıurfa Organize Sanayi Bölgesi’nin organize sanayi bölgesi onaylı sınırları içerisindeki katılımcılarına 2017 yılı için uygulanmak üzere dağıtım bedeli",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fbsajV/BVRM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fbsajV/BVRM="
+  ],
+  "source_sha256": "caff423f5e5486c28dd1f2b71894947880ea075e3947b2c4e4521e68a5161854",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2017-01-19",
+  "law_text_complete": false
+}
