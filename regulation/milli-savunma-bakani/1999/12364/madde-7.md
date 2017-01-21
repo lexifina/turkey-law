@@ -1,0 +1,3 @@
+Atatürk Araştırma ve Eğitim Merkezi Başkanının görev ve sorumlulukları
+Madde 7 - Genelkurmay Askeri Tarih ve Stratejik Etüt (Değişik ibare: RG-19/6/2012-28328) Daire Başkanı, aynı zamanda Atatürk Araştırma ve Eğitim Merkezinin Başkanı olup, merkezin yönetim ve temsili ile görevlidir. (Ek cümle: RG-19/6/2012-28328) Genelkurmay Personel Başkanı gerekli gördüğü takdirde ATAREM Genel Kurul ve Yürütme Kurulu toplantılarına katılabilir. Kurumun faaliyetlerini mevzuat, Genel Kurul ve Yürütme Kurulu kararları çerçevesinde yürütür.
+(Değişik ikinci fıkra: RG-16/8/2008-26969) Başkanın olmadığı durumlarda, kendisine, ATEM Başkanı, onun da bulunmadığı durumlarda Genel Sekreter vekâlet eder.
