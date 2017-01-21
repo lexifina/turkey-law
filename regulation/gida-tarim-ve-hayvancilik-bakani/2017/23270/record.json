@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.23270",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YEMLERİN RESMÎ KONTROLÜ İÇİN NUMUNE ALMA VE ANALİZ METOTLARINA DAİR YÖNETMELİK",
+  "number": "23270",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2017/23270",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23270&MevzuatTertip=5",
+  "source_sha256": "bbd2b75b3eaf8873a9ea6529ef798fea5ff7ab4473f3c1c18968f71a7048cb81",
+  "source_bytes": 19208,
+  "published": "2017-01-21",
+  "gazette": "29955 Mükerrer",
+  "in_force": "2017-01-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.01.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 623,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23270-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
