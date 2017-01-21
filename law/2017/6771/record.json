@@ -1,0 +1,207 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6771",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Anayasasında Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2017-01-21",
+  "adopted_as_published": "21/01/2017",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "11.02.2017 No: 29976",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc101/kanuntbmmc101/kanuntbmmc10106771.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 101",
+  "committee_reports": [
+    {
+      "label": "TBMM 447 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031053ss0447.pdf"
+    },
+    {
+      "label": "TBMM 447ek1no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c032/tbmm26032061ss0447ek1.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 26,
+      "kayit_no": 829684,
+      "title": "Türkiye Cumhuriyeti Anayasasında Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "21/01/2017",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc101/kanuntbmmc101/kanuntbmmc10106771.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 447 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031053ss0447.pdf"
+        },
+        {
+          "label": "TBMM 447ek1no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c032/tbmm26032061ss0447ek1.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 29,
+          "sitting": 38,
+          "sitting_date": "2016-12-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c029/tbmm26029038.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c029/tbmm26029fih.pdf",
+          "pages": [
+            "350"
+          ]
+        },
+        {
+          "cilt": 30,
+          "sitting": 51,
+          "sitting_date": "2017-01-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030051.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030fih.pdf",
+          "pages": [
+            "899"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 53,
+          "sitting_date": "2017-01-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031053.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031fih.pdf",
+          "pages": [
+            "228",
+            "255.276",
+            "279:288",
+            "289.302",
+            "306:311",
+            "313:318",
+            "319"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 54,
+          "sitting_date": "2017-01-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031054.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031fih.pdf",
+          "pages": [
+            "410",
+            "417:426",
+            "428.431",
+            "433:437",
+            "439:447",
+            "463",
+            "465.468",
+            "469:488"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 55,
+          "sitting_date": "2017-01-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031055.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031fih.pdf",
+          "pages": [
+            "567:569",
+            "584:586",
+            "588:591",
+            "591.597",
+            "601.605",
+            "606:613",
+            "615",
+            "622:642",
+            "643:645",
+            "645.651",
+            "656:671"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 56,
+          "sitting_date": "2017-01-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031056.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031fih.pdf",
+          "pages": [
+            "747.757",
+            "760:762",
+            "766:774",
+            "766:774",
+            "776:788",
+            "789:799",
+            "804:816",
+            "818:820",
+            "821:823",
+            "825:834"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 57,
+          "sitting_date": "2017-01-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031057.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031fih.pdf",
+          "pages": [
+            "942:947",
+            "948:966",
+            "967:977",
+            "981:984",
+            "985:987",
+            "988:990",
+            "990:993",
+            "994:1014",
+            "1022:1033",
+            "1034:1036"
+          ]
+        },
+        {
+          "cilt": 31,
+          "sitting": 58,
+          "sitting_date": "2017-01-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031058.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c031/tbmm26031fih.pdf",
+          "pages": [
+            "1111",
+            "1114:1118",
+            "1121:1123",
+            "1126:1127",
+            "1137:1138:1145",
+            "1147:1148",
+            "1149:1154",
+            "1157:1169",
+            "1169:1183",
+            "1154:1186",
+            "1187:1189",
+            "1191:1196",
+            "1196:1202",
+            "1205:1214",
+            "1216:1218",
+            "1238:1242",
+            "1244:1245",
+            "1245:1250",
+            "1250:1253",
+            "1254:1255",
+            "1256:1257",
+            "1259:1260"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=491&v_gelecek_sayfa=101&v_kullanici_id=27483208",
+      "page_sha256": "dc3bf752bec63c7c9626e46804c028cd611937e470024c610916527db3c77340"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "dc3bf752bec63c7c9626e46804c028cd611937e470024c610916527db3c77340",
+  "issuer": "TBMM",
+  "in_force": "2017-01-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/01/2017; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
