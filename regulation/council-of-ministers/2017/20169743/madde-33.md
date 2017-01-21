@@ -1,0 +1,2 @@
+Sarhoş olanlar ile keyif verici maddenin etkisi altında olanlara ilişkin görevler
+MADDE 33- (1) Sarhoş olanlar ile keyif verici maddenin etkisi altında olan ve hakkında idari yaptırım kararı uygulanan kişiler ikaz edilerek ailesine veya yakınlarına teslim edilir. Eğer ailesine veya yakınlarına ulaşılamazsa, hastaneye götürülerek doktor kontrolünden sonra karakolda nezarethane dışında sarhoşluğu geçinceye kadar kontrol altına alınır.

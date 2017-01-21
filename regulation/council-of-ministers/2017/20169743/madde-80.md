@@ -1,0 +1,2 @@
+Stratejik hedef planı
+MADDE 80- (1) Sahil güvenlik teşkilatının personel, araç, gereç, mühimmat, taşınır ve taşınmazları ile hizmetlerinin ve görevlerinin geliştirilmesi ve ihtiyaçlarının önceden tespiti ve hedeflerinin belirlenmesi için hazırlanan ve beş yıllık bir dönemi kapsayan Sahil Güvenlik Komutanlığı stratejik hedef planı Bakan onayı ile yürürlüğe konulur. Bu plan en az iki yılda bir gözden geçirilir.

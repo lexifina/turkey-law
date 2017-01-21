@@ -1,0 +1,2 @@
+Elektronik Haberleşme Kanununa ilişkin görevler
+MADDE 25- (1) Sahil Güvenlik Komutanlığı, 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanunu kapsamında deniz yetki alanlarında spektrum izleme başta olmak üzere her türlü denetimi yapmak, aykırı eylemleri önlemek, izlemek, suçluları yakalamak, gerekli işlemleri yapmak, tespit ve işlem için gerekli altyapıyı kurmak, yakalanan kişi ve suç vasıtalarını yetkili makamlara teslim etmekle görevli ve yetkilidir.

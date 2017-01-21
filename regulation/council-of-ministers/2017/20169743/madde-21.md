@@ -1,0 +1,3 @@
+Kabahatler Kanununa ilişkin görevler
+MADDE 21- (1) Sahil Güvenlik Komutanlığı, görev alanı ile ilgili olarak 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununda gösterilen kabahat fiillerini izlemek, önlemek ve bu konuda gerekli denetimleri ve işlemleri yapmakla görevlidir.
+(2) 5326 sayılı Kanunda açıkça belirtilen durumlarda karşılaşılan kabahat fiili nedeniyle doğrudan sahil güvenlik tarafından idari para cezası uygulanır. Diğer durumlarda karşılaşılan kabahat fiiliyle ilgili tüm deliller toplanıp gerekli tespitler yapıldıktan sonra oluşturulan dosya, idari yaptırım uygulanmak üzere 5326 sayılı Kanunda gösterilen yetkili mercilere gönderilir.

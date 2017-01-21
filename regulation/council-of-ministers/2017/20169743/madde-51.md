@@ -1,0 +1,3 @@
+Yetkilerin kullanılması
+MADDE 51- (1) Sahil güvenlik, sorumluluk alanı içinde hizmet branşı, yeri ve zamanına bakılmaksızın bir suçla karşılaştığında olaya elkoymak, suçu önlemek, şüpheli ve suç delillerini tespit, muhafaza ve yetkili kolluğa teslim etmekle görevli ve yetkilidir.
+(2) Emniyet ve asayiş işlerinde; il ve ilçelerde sahil güvenlik ile jandarma ve polis teşkilatları arasındaki ilişkiler ile asayiş toplantıları 28/6/1961 tarihli ve 5/1409 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Emniyet ve Asayiş İşlerinde İl, İlçe ve Bucaklardaki Jandarma ve Emniyet Ödevlerinin Yapılması ve Yetkilerinin Kullanılması Suretini ve Aralarındaki Münasebetleri Gösterir Yönetmelik hükümlerine göre yürütülür.
