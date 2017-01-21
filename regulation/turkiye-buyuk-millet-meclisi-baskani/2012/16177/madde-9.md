@@ -1,0 +1,4 @@
+Uygulama işlerinde yaklaşık maliyetin tespiti
+MADDE 9 – (1) Restorasyon projesi bulunması durumunda, projesine dayalı olarak, uygulama işinin bünyesindeki imalat kalemleri ile yapılacağı yerleri gösteren mahal listeleri hazırlanır.
+(2) İhale konusu uygulama işine ait proje ile mahal listelerindeki ölçü ve tariflere göre işin bünyesine giren imalatların hangi kısımda ve ne miktarda yapılacağının belirlenmesi amacıyla, anahtar teslimi götürü bedel teklif almak suretiyle ihale edilecek uygulama işlerinde iş kalemi veya iş grubu, birim fiyat teklif almak suretiyle ihale edilecek işlerde ise iş kalemi şeklinde metraj listeleri düzenlenir.
+(3) Projesi bulunmayan işlerde idare her ihalede, yapılacak iş kalemleri veya grupları ve uygulama teknikleri ile mekan ve mahalleri açıklayan detaylı bir restorasyon ön raporu hazırlatır. Bu raporlar doğrultusunda işin maliyetini belirler.

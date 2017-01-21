@@ -1,0 +1,2 @@
+Bilgi ve belgeleri açıklama yasağı
+MADDE 85 – (1) Bu Yönetmeliğin uygulanmasında görevli olanlar ile danışmanlık hizmeti sunanlar, yüklenicilerin iş ve işlemlerine, teknik ve mali yapılarına ilişkin olarak gizli kalması gereken bilgi ve belgeleri ifşa edemezler, kendilerinin veya üçüncü şahısların yararına kullanamazlar. Aksine hareket edenler hakkında Yönetmelikte ve ilgili mevzuatında belirtilen müeyyideler uygulanır.

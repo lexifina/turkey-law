@@ -1,0 +1,3 @@
+Fiyat farkı ödenmesi ve hesaplanma şartları
+MADDE 71 – (1) İdarece bu Yönetmelik kapsamındaki mal ve hizmet alımları ile uygulama işlerine ilişkin idari şartname ve sözleşmelere fiyat farkı ödemelerine yönelik hüküm konulabilir. Bu durumda fiyat farkı uygulaması ve ödemeleri, mal ve hizmet alımları ile uygulama (yapım) işleri için Bakanlar Kurulu Kararıyla yürürlüğe konulan Fiyat Farkı Hesabında Uygulanacak Esaslar çerçevesinde yapılacağı belirtilir.
+(2) Fiyat farkı ödenmesi öngörülerek ihale edilen işlerde fiyat farkı olarak ödenecek bedelin yüzde onu oranında, teminat olarak kabul edilen değerler üzerinden ek kesin teminat alınır. Fiyat farkı olarak ödenecek bedel üzerinden hesaplanan ek kesin teminat, hakedişlerden kesinti yapılmak suretiyle de karşılanabilir.

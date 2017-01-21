@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.16177",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BÜYÜK MİLLET MECLİSİ BAŞKANLIĞININ SORUMLULUĞUNDAKİ TARİHÎ BİNA VE OBJELERİN ONARIMLARI VE RESTORASYONLARI İLE ÇEVRE DÜZENLEMESİNE İLİŞKİN MAL VE HİZMET ALIMLARI YÖNETMELİĞİ",
+  "number": "16177",
+  "issuer": "Türkiye Büyük Millet Meclisi Başkanı",
+  "issuer_slug": "turkiye-buyuk-millet-meclisi-baskani",
+  "path": "regulation/turkiye-buyuk-millet-meclisi-baskani/2012/16177",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16177&MevzuatTertip=5",
+  "source_sha256": "9ab990099871e6069f802a82fa5931ea0a49cf7d3819884a00bb1f845e694b62",
+  "source_bytes": 240701,
+  "published": "2012-05-26",
+  "gazette": "28304",
+  "in_force": "2017-01-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/1/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-01-21",
+      "RG-21/1/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-01-21",
+      "21/1/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmî Gazete’de yayımlanır ve 1/6/2012 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 16581,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

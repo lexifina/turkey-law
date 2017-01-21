@@ -1,0 +1,5 @@
+Kesinleşen ihale kararlarının bildirilmesi ve sözleşmeye davet
+MADDE 64 – (1) İhale sonucu, ihale kararının ihale yetkilisi tarafından onaylandığı günü izleyen en geç üç gün içinde, ihale üzerinde bırakılan dâhil, ihaleye teklif veren bütün isteklilere bildirilir. İhale sonucunun bildiriminde, tekliflerin değerlendirmeye alınmama veya uygun bulunmama gerekçelerine de yer verilir.
+(2) İhale kararının ihale yetkilisi tarafından iptal edilmesi durumunda da isteklilere bildirim yapılır.
+(3) İhale sonucunun bütün isteklilere bildiriminden itibaren; üç iş günü geçmedikçe sözleşme imzalanamaz.
+(4) Üçüncü fıkrada belirtilen sürenin bitimini, ön mali kontrol yapılması gereken hallerde ise bu kontrolün tamamlandığı tarihi izleyen günden itibaren üç gün içinde ihale üzerinde bırakılan istekliye, tebliğ tarihini izleyen on gün içinde kesin teminatı vermek suretiyle sözleşmeyi imzalaması hususu bildirilir. Yabancı istekliler için bu süreye oniki gün ilave edilir. Sözleşmenin imzalanacağı tarihte, ihale üzerinde kalan isteklinin ihalelere katılmaktan yasaklı olup olmadığının Kamu İhale Kurumundan teyit edilmesi zorunludur.

@@ -1,0 +1,33 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Aday: Ön yeterlik için başvuran gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
+b) Bakım, onarım: TBMM Başkanlığının sorumluluğundaki tarihî bina ve objelerinin yaşamını sürdürmeyi amaçlayan; tasarımda, özgün malzemesinde, strüktürde, mimari öğelerde değişiklik gerektirmeyen müdahaleleri,
+c) Başkanlık Divanı: TBMM Başkanlık Divanını,
+ç) Birim: Ödenek tahsis edilen ve harcama yetkisi bulunan birimi,
+d) Çevre düzenleme projesi: TBMM Başkanlığının sorumluluğundaki tarihî binaların bulunduğu alanda yapısal ve bitkisel düzenlemelere ilişkin uygulama özelliklerini belirlemek, mevcut kullanım ve çevresinden kaynaklanan sorunlarını çözmek amacıyla hazırlanacak çizimleri ve uygulamaya yönelik açıklayıcı raporunu,
+e) Genel Sekreter: TBMM Başkanlığı Genel Sekreterini,
+f) Genel Sekreter Yardımcısı: Milli Saraylarla ilgili hususlarda Milli Saraylardan Sorumlu Genel Sekreter Yardımcısını, diğer hususlarda İdari, Mali ve Teknik Hizmetlerden Sorumlu Genel Sekreter Yardımcısını,
+g) Hizmet: Yönetmeliğin 2 nci maddesinde tanımlanan işlerle ilgili bakım ve onarım, taşıma, haberleşme, sigorta, araştırma ve geliştirme, piyasa araştırması ve anket, danışmanlık, kontrollük, mimarlık ve mühendislik, etüt ve proje, tanıtım, basım ve yayım, toplantı, organizasyon, sergileme, koruma ve güvenlik, temizlik, yemek hazırlama ve dağıtım, meslekî eğitim, fotoğraf, film, fikrî ve güzel sanat, bilgisayar sistemlerine yönelik hizmetler ile yazılım hizmetlerini, taşınır ve taşınmaz mal ve hakların kiralanmasını ve eleman çalıştırılması ve benzeri diğer hizmetleri,
+ğ) İdare: İhaleyi yapan birimi,
+h) İdari teşkilat: TBMM Başkanlığı İdari Teşkilatını,
+ı) İhale: Mal veya hizmet alımları ile uygulama işlerinin istekliler arasından seçilecek birisi üzerine bırakıldığını gösteren ve ihale yetkilisinin onayını müteakip sözleşmenin imzalanması ile tamamlanan işlemleri,
+i) İhale dokümanı: İhale konusu mal veya hizmet alımları ile uygulama işlerinde; isteklilere talimatları da içeren idari şartnameler ile yaptırılacak işin projesini de kapsayan teknik şartnameler, sözleşme tasarısı ve gerekli diğer belge ve bilgileri,
+j) İstekli: Mal veya hizmet alımları ile uygulama işlerinin ihalesine teklif veren gerçek veya tüzel kişiler ile iş ortaklıklarını,
+k) Kazı: Belli kurallara ve yöntemlere göre yer altındaki tarihî ve kültürel varlıkların ortaya çıkarılmasına ve korunmasına yönelik çalışmaları,
+l) Konservasyon: TBMM Başkanlığının sorumluluğundaki tarihî bina ve objelerin özgün nitelikleri değiştirilmeden fiziksel, kimyasal, biyolojik değişikliklere yol açmadan, geriye dönüşü olan malzeme ve yöntemler kullanılarak söz konusu kültür varlığının ömrünü uzatmayı amaçlayan koruma ve onarım işlemlerini,
+m) Mal: Yönetmeliğin 2 nci maddesi kapsamında satın alınan her türlü ihtiyaç maddeleri ile taşınır ve taşınmaz mal ve hakları,
+n) Muhafaza: Kültür varlıklarının bulunduğu veya nakledileceği yerde korunmasını,
+o) Nakil: TBMM Başkanlığının sorumluluğundaki tarihî objelerin gerektiğinde restorasyonu, korunması veya onarılması amacıyla taşınmasını,
+ö) Restitüsyon projesi: TBMM Başkanlığının sorumluluğundaki tarihî binalar ve yakın çevresinin analizi, benzer yapılarla karşılaştırılması, özgün biçimi, eklentilere ilişkin dönem analizleri ve bunlara ait belge ve varsayım çizimlerini,
+p) Restorasyon projesi: TBMM Başkanlığının sorumluluğundaki tarihî bina ve objelerin onarımı, özgün işlevi ve yeni kullanımı için getirilen önerileri, müdahale biçimleri ve tekniklerini, statik, güçlendirme, mekanik, elektrik, aydınlatma, kamera güvenlik bilgi işlem altyapısı ve benzeri çizimleri içeren raporu ve projesini,
+r) (Değişik:RG-21/1/2017-29955) Rölöve çizimi: TBMM Başkanlığının sorumluluğundaki tarihî bina ve objelerin mevcut durumunun ölçekli çizimlerle anlatımı, estetik ve teknik özelliklerine ilişkin raporların düzenlenmesi, yapım teknikleri, malzeme ve taşıyıcı sistemi hasar tespitleri ile malzeme analizlerinin yapılması ve fotoğraflarla belgelenmesini,
+s) Sözleşme: İdare ile yüklenici arasında yapılan yazılı anlaşmayı,
+ş) Statik güçlendirme projesi: TBMM Başkanlığının sorumluluğundaki tarihî binaların yapım malzemesi, taşıyıcı sistemi ve üzerinde bulunduğu zeminin sağlamlaştırılmasına yönelik çizimleri ve raporunu,
+t) TBMM Başkanlığının sorumluluğundaki tarihî bina: TBMM Başkanlığının sorumluluğundaki korunması gerekli taşınmaz kültür varlıkları ile tarihî yapıları,
+u) TBMM Başkanlığının sorumluluğundaki tarihî obje: TBMM Başkanlığının sorumluluğundaki korunması gerekli taşınır kültür varlıklarını,
+ü) Uygulama, restorasyon: TBMM Başkanlığının sorumluluğundaki tarihî binaların ihyasına yönelik olarak rölöve, restitüsyon, restorasyon, çevre düzenleme ve statik güçlendirme projeleri doğrultusundaki her türlü inşaat işleri ve bu işler ile ilgili tesisat, imalat, ihzarat, nakliye, tamamlama, onarım, restorasyon, çevre düzenlemesi, sondaj, yıkma, güçlendirme ve montaj işleri ile benzer işleri,
+v) Yaklaşık maliyet: Mal veya hizmet alımları ile uygulama işlerinin ihalesi yapılmadan önce idarece, her türlü fiyat araştırması yapılarak katma değer vergisi hariç olmak üzere hesaplanan maliyeti,
+y) Yüklenici: Üzerine ihale yapılan ve kendisi ile sözleşme imzalanan istekliyi,
+ifade eder.
+z) (Ek:RG-21/1/2017-29955) Yerli istekli: Türk vatandaşı gerçek kişiler ile Türkiye Cumhuriyeti kanunlarına göre kurulmuş tüzel kişilerdir.
+(2) Bu Yönetmelikte yer almayan tanımlar için 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununda yer alan tanımlar geçerlidir.
