@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-010.01-21204",
+  "source_id": 29103,
+  "date": "2017-01-23",
+  "title": "Uluslararası taşımacılık kapsamında yurt dışında mukim firmanın yakıt alım kartının kullanılmasında KDV sorumluluğu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29103",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "997f771931f7bd21dad3a900da57c24ea26959a368fa5fa79cafb306865b92ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
