@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-01-23",
+  "issue": "29957",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KANUN HÜKMÜNDE KARARNAMELER",
+  "title": "KHK/685 Olağanüstü Hal İşlemleri İnceleme Komisyonu Kurulması Hakkında Kanun Hükmünde Kararname",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/01/20170123-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/01/20170123.htm",
+  "index_sha256": "0475cb5fa54e7b02200bc8c9823f07c8e8128787633e5e47a8c79768c8cf4612",
+  "index_header": "23 Ocak 2017 ... 29957 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/01/20170123.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
