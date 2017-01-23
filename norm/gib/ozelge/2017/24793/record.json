@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[Mük.20-2016/912]-21838",
+  "source_id": 24793,
+  "date": "2017-01-23",
+  "title": "Anonim şirket kurucu ortağı ve yönetim kurulu başkanının serbest meslek faaliyetinden dolayı genç girişimcilerde kazanç istisnasından faydalanıp faydalanmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24793",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "2e4295250a2c38428add295147e63683a69fdac918b857ea0c03a02f56b6552c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
