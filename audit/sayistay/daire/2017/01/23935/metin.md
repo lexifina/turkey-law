@@ -1,0 +1,3 @@
+Kimi giderlerin temsil ağırlama giderleri kapsamında Üniversite bütçesinden ödenmesi.
+
+Üniversite bütçesinden ödenen kimi giderlerin Üniversitece düzenlenen faaliyetler kapsamında olmaması nedeni ile temsil ağırlama giderleri kapsamında ödenemeyeceği sorgu konusu yapılmış ise de Üniversiteye ait konukevinde yapılan konaklama ve yemek giderlerinin Üniversitenin üstlendiği ve öğrenciler ile öğretim görevlilerinin içinde bulunduğu sosyal, kültürel, bilimsel, sportif faaliyetler ile ilgili organizasyonlara ait harcamalar olup idarenin bilgisi dahilinde gerçekleştirildiği anlaşıldığından kamu zararı oluşturmayan …… TL ödeme hakkında ilişilecek bir husus bulunmadığına oybirliğiyle,
