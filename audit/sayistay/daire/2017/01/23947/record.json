@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "103",
+  "decision_date": "2017-01-24",
+  "source_id": 23947,
+  "chamber": "8",
+  "ilam_number": "161",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23947/",
+  "source_sha256": "619ea87fdcd4f6dd2c32b7da672871a0d546e11ca6b1e45b6da2cfedd1836263",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
