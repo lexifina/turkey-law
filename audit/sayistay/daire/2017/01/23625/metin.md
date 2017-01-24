@@ -1,0 +1,15 @@
+Bazı öğretim elemanlarına ek ders ödemelerinin hatalı yapılması.
+
+Güzel Sanatlar Fakültesi Dekanı Prof. Dr. ….... ve Güzel Sanatlar Enstitüsü Müdürü Prof. Dr. ……..’a, yaptıkları ek derslerin karşılığı olarak ödenebilecek olan azami 20 saat sınırının aşılarak ödeme yapıldığı görülmüştür.
+
+2914 sayılı Yüksek Öğretim Personel Kanununun “Ek ders ücreti” başlıklı 11 nci maddesinde aynen;
+
+“2547 Sayılı Yükseköğretim Kanununun 36 ncı maddesine göre haftalık okutulması mecburi ders yükü saati dışında, kısmi statüde bulunanlar dahil öğretim elamanlarına görev unvanlarına göre Maliye Bakanlığının görüşü üzerine Yükseköğretim Kurulu tarafından belirlenen mecburi ve isteğe bağlı dersler ve diğer faaliyetler için bu ders ve faaliyetlerin haftalık ders programında yer alması ve fiilen yapılması şartıyla en çok yirmi saate kadar, ikinci öğretimde ise en çok on saate kadar ek ders ücreti ödenir. Ders yüklerinin tamamlanmasında öncelikle normal örgün öğretimde verilen ders ve faaliyetler dikkate alınır…”
+
+denilmektedir.
+
+Ders Yükü Tespiti ve Ek Ders Ücreti Ödemelerinde Uyulacak Esasların “Ders Yükleri ve Ücret Karşılığı Okutabilecekleri Ek Ders Saatleri” başlıklı 1 nci maddesinin (a) bendinde ise maaş karşılığı haftalık ders yükünün öğretim üyeleri için 10 saat, öğretim görevlileri ve okutmanlar için 12 saat olduğu; öğretim elemanlarının haftalık ders yükünün dışında gerek kadrosunun bulunduğu, gerekse diğer yükseköğretim kurumlarında, güz ve bahar yarı yıllarında mecburi ve isteğe bağlı olarak, ek ders ücreti ödenmek kaydıyla ders verebileceği; ancak mecburi ve isteğe bağlı dersler ile diğer faaliyetler için haftalık ders programında yer alması ve fiilen yapılması şartıyla öğretim elemanının normal örgün öğretimde ücret karşılığı en çok 20 saat ek ders verebileceği hüküm altına alınmıştır. Aynı maddenin (c) bendinde ise Rektör, Dekan, Enstitü ve Yüksekokul Müdürleri için haftalık ders yükü zorunluluğu aranmayacağı belirtilmiştir.
+
+Yukarıda yer verilen hükümler uyarınca haftalık zorunlu ders yükü öğretim üyeleri için 10 saat olup bu ders yükü zorunluluğu Dekan ve Enstitü Müdürleri için bulunmamaktadır. Ancak 2914 sayılı Kanunun 11 inci maddesi ve Esasların 1 inci maddesinin (a) bendinde öğretim üyelerine en çok 20 saat ek ders ücreti verilebileceği belirtilmiş olduğundan 20 saatin üstünde verilen dersler için ödeme yapılması mümkün görülmemektedir. Ancak yapılan incelemede, Güzel Sanatlar Fakültesi Dekanı Prof. Dr. …… ve Güzel Sanatlar Enstitüsü Müdürü Prof. Dr. ……..’ın haftalık 20 saatin üstünde yaptıkları ek dersler için ödeme yapıldığı görülmüştür.
+
+Bu itibarla, Güzel Sanatlar Fakültesi Dekanı Prof. Dr. ……. ve Güzel Sanatlar Enstitüsü Müdürü Prof. Dr. …….’a, yaptıkları ek derslerin karşılığı olarak ödenebilecek olan azami 20 saat sınırının aşılarak ödeme yapılması sonucu oluşan ….. TL kamu zararının Gerçekleştirme Görevlisi (Fakülte Sekreteri) ……  ve Harcama Yetkilisi (Dekan) Prof. Dr. …….’tan müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizi ile birlikte tazminine oybirliğiyle,
