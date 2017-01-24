@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "103",
+  "decision_date": "2017-01-24",
+  "source_id": 23960,
+  "chamber": "8",
+  "ilam_number": "161",
+  "item_number": 15,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23960/",
+  "source_sha256": "8d4231cd8c902486d4a74862b3b75f6ba5da730dcba8aee2f966d04da30d1fac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
