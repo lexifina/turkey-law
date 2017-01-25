@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "422",
+  "decision_date": "2017-01-25",
+  "source_id": 23739,
+  "chamber": "6",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23739/",
+  "source_sha256": "8ae8627dfae083382e7045b83a99bc2d9a694945d1dc4e405de21763b90c0a69",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
