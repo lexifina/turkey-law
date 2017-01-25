@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42650",
+  "decision_date": "2017-01-25",
+  "source_id": 13262,
+  "chamber": "1",
+  "file_number": "39545",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13262/",
+  "source_sha256": "c7c5943d956eb464ba6bfa282fed12dec175fbb51be0d0d647402b82ccc75dd1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
