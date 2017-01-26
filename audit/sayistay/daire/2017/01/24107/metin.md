@@ -1,0 +1,11 @@
+Otogara ait elektrik faturaları
+
+....... Büyükşehir Belediyesinin ...... yılı hesaplarının incelenmesinde; Mülkiyeti ....... Büyükşehir Belediyesine ait olan otogarın işletme hakkının .........Ltd.Şti’ne devredilmiş olmasına rağmen, otogara ait elektrik faturalarının Büyükşehir Belediyesi tarafından ödenmeye devam edilmesiyle ilgili olarak;
+
+Mülkiyeti ..... Büyükşehir Belediyesi’ ne ait olan ......Şehirlerarası Terminal İşletmesindeki..... adet bağımsız bölüm ve ortak kullanım alanları 2886 sayılı Devlet İhale Kanununa göre 09.01.2015 tarihinde ihale edilmiş ve 11.02.2015 tarihinde de işletme hakkı ........Ltd.Şti’ne devredilmiştir. 11.02.2015 tarihinde teslim komisyonu ve kiracı yetkilisinin imzası ile kiraya verilen...... adet bağımsız bölümler içerisindeki yerlerin değerleri de belirtilerek ayrı ayrı teslim tutanakları düzenlendiği görülmüştür.
+
+Taşınmaz Kira Şartnamesinin 26’ncı maddesinin (f) bendi ile taşınmaz Kira Sözleşmesinin 20’ nci maddesinin (f) bendine göre kiracının kiralanan yerlerin elektrik su aboneliklerini üzerine alması gerektiği belirtilmektedir. Ancak yapılan incelemede, otogarın elektrik aboneliklerine ilişkin fatura bedellerinin....... Büyükşehir belediyesi tarafından ödendiği görülmüştür.
+
+Sorumlular savunmada, kamu hizmetinin niteliği ve vatandaş mağduriyetinin önlenmesi için belediye tarafından bir bakıma zorunlu olarak ödenen tüketim bedellerinin yüklenici firmaya rücu edildiğini ve yasal sürecin devam ettiğini ifade etmektedirler.
+
+Bu itibarla; ....... Büyükşehir Belediyesinin .....yılı hesaplarının incelenmesinde; Mülkiyeti .......Büyükşehir Belediyesine ait olan otogarın işletme hakkının .......... Ltd. Şti’ne devredilmiş olmasına rağmen, otogara ait elektrik faturalarının Büyükşehir Belediyesi tarafından ödenmesi hususunda; kamu hizmeti gereği zorunlu olarak ödendiği ve geri alınması için yasal sürecin devam ettiği anlaşıldığından yapılacak bir işlem bulunmadığına, iş bu ilamın tebliğ tarihinden itibaren 6085 sayılı Sayıştay Kanununun  55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu ve aynı Kanunun 56 ncı maddesi  gereğince beş yıl içinde Sayıştay Daireleri nezdinde yargılamanın iadesi yolu açık olmak üzere oybirliğiyle karar verildi.
