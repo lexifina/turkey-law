@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-01-26",
+  "issue": "29960",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun19/01/2017 Tarihli ve 7207 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/01/20170126-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/01/20170126.htm",
+  "index_sha256": "e9e96bcc2de8e4dc64c2b325161be49256860ed579efdab30d3ee1aeca0d0756",
+  "index_header": "26 Ocak 2017 ... 29960 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/01/20170126.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
