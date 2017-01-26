@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "233",
+  "decision_date": "2017-01-26",
+  "source_id": 24063,
+  "chamber": "5",
+  "ilam_number": "167",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24063/",
+  "source_sha256": "6d9967938391cc2a7530a12de5a1912be7f3803e10aa84b9545cc3c4a4ea1693",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
