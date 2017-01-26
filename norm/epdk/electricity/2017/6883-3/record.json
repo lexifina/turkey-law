@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6883-3",
+  "decision_date": "2017-01-26",
+  "title": "Enerji Piyasaları İşletme Anonim Şirketi’nin 2017 yılı piyasa işletim gelir tavanında öngörülen ARGE harcama tutarına ilişkin",
+  "resmi_gazete_date": "2017-02-01",
+  "resmi_gazete_number": "29966",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XnfV+EGi3XE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XnfV+EGi3XE="
+  ],
+  "source_sha256": "692cd6b9d1adf2f08ef081ac1090ac0831096e723a96f5876bf0dd0db3ff822b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-01-26",
+  "law_text_complete": true
+}
