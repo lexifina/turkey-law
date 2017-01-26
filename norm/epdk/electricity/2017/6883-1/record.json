@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6883-1",
+  "decision_date": "2017-01-26",
+  "title": "2017 yılı piyasa işletim gelir tavanı",
+  "resmi_gazete_date": "2017-02-01",
+  "resmi_gazete_number": "29966",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/3X0oz2B2W8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/3X0oz2B2W8="
+  ],
+  "source_sha256": "a7a015d485222a2d454cbed4cf62b6a762ac8f2f1dd8012e7095d20f8741a053",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-01-26",
+  "law_text_complete": true
+}
