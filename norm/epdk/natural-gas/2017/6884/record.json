@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6884",
+  "decision_date": "2017-01-26",
+  "title": "2017 Yılı Ulusal Doğal Gaz Tüketim Tahmini",
+  "resmi_gazete_date": "2017-02-01",
+  "resmi_gazete_number": "29966",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları",
+    "Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kz1IO2vyxpo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kz1IO2vyxpo="
+  ],
+  "source_sha256": "69135a80b2bcfd8571bedfe5faf16b1213feaff0efb2f301516c2f506e213018",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2017-01-26",
+  "law_text_complete": false
+}
