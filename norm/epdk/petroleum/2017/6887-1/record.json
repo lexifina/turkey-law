@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6887-1",
+  "decision_date": "2017-01-26",
+  "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş.’nin günlük depolama hizmeti bedelleri",
+  "resmi_gazete_date": "2017-02-01",
+  "resmi_gazete_number": "29966",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FHfE0vWjeoI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FHfE0vWjeoI="
+  ],
+  "source_sha256": "7916e42d82100db4e92389142489fc9c2eca01366bc1ea04610c2048e23b9bc4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-01-26",
+  "law_text_complete": true
+}
