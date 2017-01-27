@@ -1,8 +1,8 @@
-Para Politikası Kurulu
-Madde 22/A – (Ek: 25/4/2001-4651/4 md.) Para Politikası Kurulu, Başkan (Guvernör) ın başkanlığı altında, Başkan (Guvernör) Yardımcıları, Banka Melisince üyeleri arasından seçilecek bir üye ve Başkan (Guvernör) ın önerisi üzerine müşterek kararla atanacak bir üyeden oluşur. Hazine Müsteşarı veya belirleyeceği Müsteşar Yardımcısı toplantılara oy hakkı olmaksızın katılabilir. Başkanlık (Guvernörlük), Başkan (Guvernör) Yardımcılığı ve Banka Meclisi üyeliği görevi sona erenlerin Para Politikası Kurulu üyeliği de sona erer.
-Müşterek kararla atanacak üyenin para politikası konusunda çalışmalarının bulunması ve ekonomi, işletme, bankacılık ve finans alanlarından birinde akademik unvana sahip, görevi ile ilgili alanda en az on yıl çalışmış, yeterli bilgi ve tecrübeye sahip olması gerekir. Bu üyenin görev süresi beş yıldır.
+Para Politikası Kurulu:[14]
+Madde 22/A – (Ek: 25/4/2001-4651/4 md.) Para Politikası Kurulu, Başkan (Guvernör) ın başkanlığı altında, Başkan (Guvernör) Yardımcıları, Banka Meclisince üyeleri arasından seçilecek bir üye ve Başkan (Guvernör) ın önerisi üzerine (…)14 atanacak bir üyeden oluşur. Hazine ve Maliye Bakan Yardımcısı veya Bakanın belirleyeceği bir birim amiri toplantılara oy hakkı olmaksızın katılabilir. Başkanlık (Guvernörlük), Başkan (Guvernör) Yardımcılığı ve Banka Meclisi üyeliği görevi sona erenlerin Para Politikası Kurulu üyeliği de sona erer.
+Atanacak üyenin para politikası konusunda çalışmalarının bulunması ve ekonomi, işletme, bankacılık ve finans alanlarından birinde akademik unvana sahip, görevi ile ilgili alanda en az on yıl çalışmış, yeterli bilgi ve tecrübeye sahip olması gerekir. Bu üyenin görev süresi beş yıldır.
 19 uncu maddedeki yasaklar atanan üye için de geçerlidir. Ancak, üniversitelerde alınacak görevler bu hükmün dışındadır. Atanan üye, Banka Meclisi üyeleri ile aynı mali ve sosyal haklara sahiptir.
-21 inci maddenin ikinci ve üçüncü fıkraları, Para Politikası Kurulu toplantıları için de uygulanır.
+(Değişik dördüncü fıkra: 18/1/2017 - 6770/5 md.) Para Politikası Kurulu toplantıları, Başkan (Guvernör)’ın çağrısı üzerine yılda en az sekiz defa yapılır. 21 inci maddenin ikinci fıkrasının diğer hükümleri ile üçüncü fıkrası, Para Politikası Kurulu toplantıları için de uygulanır.
 Para Politikası Kurulu:
 a)Fiyat istikrarını sağlamak amacıyla para politikası ilke ve stratejilerinin belirlenmesi,
 b) Para politikası stratejisi çerçevesinde Hükümetle birlikte enflasyon hedefinin belirlenmesi,
