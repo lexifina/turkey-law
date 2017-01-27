@@ -1,0 +1,4 @@
+Çalışma birimleri ve görevleri
+MADDE 10 – (1) Merkezde ihtiyaçlar doğrultusunda çalışma birimleri oluşturulur.
+(2) (Değişik:RG-27/1/2017-29961) Çalışma birimlerinde; Merkez Yönetim Kurulu üyeleri, Cumhuriyet Üniversitesi Tıp Fakültesi ve Üniversitede görev yapan diğer öğretim elemanları ve araştırma görevlileri görevlendirilebilir. Bu birimler için gerekli hallerde ve istekleri halinde, kamu kurum ve kuruluşlarından, gerçek ve tüzel kişilerden destek alınabilir. Çalışma birimi üyeleri Müdürün önerisi üzerine Rektör tarafından üç yıllığına görevlendirilir.
+(3) Çalışma birimleri; Merkez tarafından izlenen olguları tartışmak, bunların tedavi ve izlenmeleri konusunda yöntemler belirlemek ve izleme sonuçlarını değerlendirmek üzere en az ayda bir toplanır. Her hastaya ilişkin bilgiler ve toplantı tutanakları özel dosyalarda saklanır. Bu kayıt ve dosyalar Merkezin ilgili çalışma birimlerinde, gizlilik ilkesine bağlı olarak korunur.

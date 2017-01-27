@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-07-21",
+      "21.07.2010",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2017-01-27",
+      "RG-27/1/2017-29961",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-01-27",
+      "RG-27/1/2017-29961",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-01-27",
+      "RG-27/1/2017-29961",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-01-27",
+      "RG-27/1/2017-29961",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-27/1/2017-29961",
+  "first_law": null,
+  "gazette": "27648",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-01-27",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Sivas Cumhuriyet Üniversitesi",
+  "issuer_slug": "sivas-cumhuriyet-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sivas-cumhuriyet-universitesi/2010/14119",
+  "published": "2010-07-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14119&MevzuatTertip=5",
+  "source_bytes": 31678,
+  "source_id": "8.5.14119",
+  "source_sha256": "5b1dc483f98f2c30addbb2651ea3120961b479abb92841a54cd1eef2b102e100",
+  "text_status": "current-consolidated",
+  "title": "CUMHURİYET ÜNİVERSİTESİ ÇOCUK KORUMA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 185,
+  "word_count": 1099
+}
