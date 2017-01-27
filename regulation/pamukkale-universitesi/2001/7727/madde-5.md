@@ -1,0 +1,3 @@
+Müdür
+Madde 5 — Merkez Müdürü, Rektör tarafından üç yıl süreyle görevlendirilen bir öğretim üyesidir. Süresi biten Müdür yeniden görevlendirilebilir. Müdür çalışmalarında kendisine yardımcı olmak üzere üç yıl süreyle yardımcı seçebilir. Müdürün görevi bitince yardımcısının da görevi kendiliğinden biter. Müdür Merkezin yürütme amiridir. Yürütme Kuruluna Başkanlık eder; çalışmaların düzenli ve etkin bir şekilde yürütülmesini sağlar.
+Müdür geçici olarak görevden ayrıldığında, yardımcısı ona vekalet eder. Yardımcısı yoksa veya mazeretli ise, Yönetim Kurulu üyelerinden birini vekil bırakır. Vekil bırakmadan ayrılması halinde, Yönetim Kurulu üyelerinden, öğretim üyeliği görevinde en kıdemli olanı Müdüre vekalet eder. Görevden ayrılma ve vekâlet altı ayı aşamaz.
