@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1002",
+  "date": "2017-01-28",
+  "title": "T. 28.01.2017 E. 2016/869 K. 2017/164",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1002",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=9&yil=2017",
+  "listing_sha256": "27b5b24efeb8973daf769fbb6117ad9c7cc581b0e9c96752aef29042de7e4097",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
