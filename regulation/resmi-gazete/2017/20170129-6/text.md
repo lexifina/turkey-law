@@ -1,0 +1,141 @@
+29 Ocak 2017 PAZAR
+Resmî Gazete
+Sayı : 29963
+YÖNETMELİK
+Düzce Üniversitesinden:
+DÜZCE
+ÜNİVERSİTESİ ÖN LİSANS EĞİTİM-ÖĞRETİM VE SINAV
+YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA
+DAİR YÖNETMELİK
+MADDE 1 – 24/8/2011 tarihli ve 28035 sayılı Resmî Gazete’de
+yayımlanan Düzce Üniversitesi Ön Lisans Eğitim-Öğretim ve Sınav
+Yönetmeliğinin 18 inci maddesinin dördüncü fıkrası aşağıdaki şekilde
+değiştirilmiştir.
+“(4) Azami süresi sonunda kayıtlı oldukları
+programdan mezun olamayan son sınıf öğrencilerine; devam koşulunu yerine
+getirmiş olmak kaydıyla başarısız oldukları bütün dersler için ilgili
+dönemin yarıyıl sonu sınavlarından sonra akademik takvimde belirtilen
+tarihlerde birinci ek sınav ve ikinci ek sınav adlarıyla iki ek sınav hakkı
+tanınır. Bu sınavlar sonunda başarısız ders sayısını, hiç
+almadıkları ve alıp da devam koşulunu sağlamadıkları dersler ile birlikte
+beş ve beşin altına indirenlere bu dersler için üç yarıyıl, ek sınavları
+almadan hiç almadıkları ve alıp da devam koşulunu sağlamadıkları dersler
+ile birlikte beş derse kadar başarısız olan öğrencilere dört yarıyıl; bir
+dersten başarısız olanlara ise öğrencilik hakkından yararlanmaksızın
+öğrenci katkı payını/öğrenim ücretini ödemek koşulu ile açılacak sınavlara
+sınırsız olarak, devam şartını yerine getirmiş olduğu başarısız dersin
+sınavlarına girme hakkı tanınır.”
+MADDE 2 – Aynı Yönetmeliğin 19 uncu maddesi aşağıdaki
+şekilde değiştirilmiştir.
+“MADDE 19 –
+(1) Sınavlar; ara sınavları, kısa sınavlar, mazeret sınavları, yarıyıl sonu
+sınavları, ek sınavlar, yaz okulu sonu sınavları, tek/çift ders sınavları,
+muafiyet sınavları olmak üzere sekiz çeşittir.
+(2) Sınavlar; yazılı, sözlü ve/veya uygulamalı
+olarak yapılabilir. Sadece sözlü yapılacak sınavlar için ilgili yönetim
+kurulu kararıyla komisyon oluşturulur.
+(3) Öğrenciler; sınav programlarında belirtilen
+gün, saat ve yerde sınava girmek, ayrıca öğrenci kimlik belgeleri ile
+istenecek diğer kimlik belgelerini de yanlarında bulundurmak zorundadır.
+Öğrencinin kuralına uygun kayıt olmadığı ve ilgili diğer koşulları
+sağlamadığı dersin sınavına girmesi halinde aldığı not iptal edilir.
+(4) Sağlık, doğal afet ve ilgili yönetim kurulunca
+kabul edilen diğer mazeretleri nedeniyle bir dersin ara sınavına ve yarıyıl
+sonu sınavına giremeyen öğrenciler; mazeretlerinin kabul edilebilmesi için
+aldıkları sağlık raporlarını veya diğer mazeret belgelerini, elden üç gün
+içerisinde, posta ile bir hafta içerisinde meslek yüksekokulu
+sekreterliğine teslim etmek zorundadırlar. Rapor veya diğer mazeret
+belgeleri yapılacak olan ilk ilgili yönetim kurulunda karara bağlanır.
+(5) Mazeret ve tek/çift ders sınavlarına girmeyen
+öğrencilere yeni bir mazeret sınavı yapılmaz. Ancak, yarıyıl sonu sınavları
+ve yarıyıl sonu sınavlarına girmeyen öğrenciler için yapılacak mazeret
+sınavları süresinde, Üniversiteyi veya Ülkemizi çeşitli etkinliklerde
+temsil eden öğrenciler ile milli sporcu öğrenciler; belgelemek koşulu ile
+başvurusunu elden üç gün içerisinde, posta ile bir hafta içerisinde meslek
+yüksekokulu sekreterliğine teslim etmek zorundadırlar. Bu durumdaki
+öğrencilerin talepleri ilgili yönetim kurulunda karara bağlanır.
+(6) Her
+öğretim elemanı bir yarıyıl boyunca işleyeceği konuların haftalık planını,
+kullanılabilecek temel kaynaklar ile ara sınav, yarıyıl sonu sınavı notu ve
+diğer çalışmaların başarı puanına katılım oranlarını içeren ders planını
+öğrencilere ve bölüm başkanlığına her yarıyılın ilk iki haftası içinde
+yazılı olarak verir.
+(7) Her ders için her yarıyılda en az bir ara sınav
+yapılır. Ara sınav tarihleri, bölüm başkanlığı tarafından ara sınav
+başlangıç tarihinden itibaren on beş gün önce ilan edilir ve sınav
+uygulamaları buna göre yapılır.
+(8) Bir yarıyıl içerisinde çeşitli aralıklarla kısa
+sınav uygulamaları yapan öğretim elemanı, bu kısa sınav notlarının
+ortalamasını ara sınav notu olarak değerlendirebilir. Ayrıca ara sınav
+yapılmayan derslerde, kısa sınav uygulamalarına mazeretli katılamayan
+öğrencilere mazeret sınav hakkı verilir.
+(9) Ara sınav notları, ilgili öğretim elemanlarınca
+en geç yarıyıl derslerinin sona ermesinden bir hafta önce öğrencilere
+duyurulur.
+(10) Yarıyıl sonu sınavlarının programları,
+yarıyılda derslerin sona ermesinden on beş gün önce ilgili bölüm başkanlıklarınca
+hazırlanarak öğrencilere ilan edilir ve müdürlüğe bildirilir.
+(11) Yarıyıl içinde bir dersin devam şartını yerine
+getirmeyen öğrencilere, DVZ notu verilir ve bu öğrencilerin listesi yarıyıl
+sonu sınavından önce bölüm başkanlığı tarafından ilan edilir. Bu
+öğrenciler, yarıyıl sonu ve tek/çift ders sınavına alınmazlar.
+(12) Ara
+sınav ve yarıyıl sonu sınavı, programda yer aldığı gün, saat ve yerde, ders
+sorumlularının ve bölüm başkanlığınca görevlendirilen gözcülerin denetimi
+ve gözetiminde yapılır.
+(13) Ara sınav ve yarıyıl sonu sınav sonuçları ile
+birlikte elde edilen dersin başarı notları, ilgili öğretim elemanınca
+öğrencilere ilan edilir. İnternet ortamındaki listelere en geç akademik
+takvimde belirtilen süreler içerisinde kaydedilir. Bu listelerin bir örneği
+bölüm başkanlığına imza karşılığı teslim edilir.
+(14) Yarıyıl sonu sınavı Senatoca kabul edilen
+akademik takvimde belirtilen süreler içinde yapılır.
+(15) Tutuklu öğrencilere tutukluluk hallerinin sona
+ermesinden sonra sınav hakkı verilir.”
+MADDE 3 – Aynı Yönetmeliğin 20 nci
+maddesi başlığı ile birlikte aşağıdaki şekilde değiştirilmiştir.
+“Tek/çift
+ders sınavı
+MADDE
+20 – (1) Mezuniyetleri için derse devam
+zorunluluklarını yerine getirmiş, dersin diğer koşullarını sağlamış ve
+tek/çift dersi kalmış olan öğrencilere, dönem sonu sınavlarından sonra
+tek/çift ders sınav hakkı verilir.
+(2) Hiç alınmamış dersler için tek/çift ders sınav
+hakkı verilmez.
+(3) Bu durumdaki öğrenciler bölüm başkanlığına
+sınav sonuçlarının ilan edilmesinden itibaren bir hafta içinde dilekçe ile
+başvuru yapar. Bölüm başkanlığı, alandan bir öğretim elemanını
+görevlendirip sınavın akademik takvimde belirtilen süre içinde yapılmasını
+sağlar.
+(4) Tek/çift ders sınavından alınan puanın 100
+üzerinden 50 ve daha yukarısı olması halinde öğrenci başarılı sayılır. Ara
+sınav notu ve diğer etkinliklerin katkısı olmadan tek/çift ders sınavının
+puanı, harf notuna çevrilir.”
+MADDE 4 –
+Bu Yönetmelik 2016-2017
+eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe
+girer.
+MADDE 5 – Bu
+Yönetmelik hükümlerini Düzce Üniversitesi Rektörü yürütür.
+Yönetmeliğin Yayımlandığı Resmî Gazete'nin
+Tarihi
+Sayısı
+24/8/2011
+28035
+Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı
+Resmî Gazete'nin
+Tarihi
+Sayısı
+1-
+23/7/2012
+28362
+2-
+10/9/2013
+28761
+3-
+28/10/2013
+28805
+4-
+21/8/2015
+29452
