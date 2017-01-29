@@ -1,0 +1,3 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğde, 27/1/2017 tarihli ve 29961 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 18/1/2017 tarihli ve 6770 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun 26 ncı maddesiyle 6736 sayılı Bazı Alacakların Yeniden Yapılandırılmasına İlişkin Kanuna eklenen geçici 2 nci maddenin uygulamasına dair usul ve esaslar belirlenmiştir.
+(2) Bu Tebliğde yapılan açıklamalar, il özel idareleri ile belediyelere ait olan ve 6736 sayılı Kanun kapsamında yapılandırılan alacaklar hakkında da uygulanacaktır.

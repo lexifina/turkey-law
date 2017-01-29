@@ -1,0 +1,10 @@
+Peşin Ödeme İndirimi Uygulanmadan Yapılan Ödemeler
+MADDE 9 – (1) 6736 sayılı Kanunun geçici 2 nci maddesinin dokuzuncu fıkrasında, “(9) Bu maddenin yürürlüğe girdiği tarihten önce, peşin ödeme seçeneğini tercih eden ancak yapılandırılan tutarın tamamını Kanunun 10 uncu maddesinin üçüncü fıkrasının (b) bendi hükmüne göre indirim uygulanmaksızın ödeyenler, 31/12/2017 tarihine kadar (bu tarih dahil) yazılı olarak talep etmeleri durumunda, anılan bent hükmünden yararlanır ve fazla ödenen tutarlar ilgili mevzuat hükümlerine göre red ve iade edilir.” hükmü yer almaktadır.
+(2) Fıkrada, peşin ödeme seçeneğini tercih ederek Kanundan yararlanmak üzere başvuran borçlulardan, yapılandırılan tutarın tamamını, ilk taksit ödeme süresinden sonra Kanunun 10 uncu maddesinin üçüncü fıkrasının (b) bendinde düzenlenmiş olan peşin ödeme indirimi uygulanmadan ödeyenlere fazladan yaptıkları ödemelerin red ve iade edilmesine yönelik düzenlenme yapılmaktadır.
+(3) Fıkra hükmünden yararlanılabilmesi için;
+a) Kanunun 2, 3 veya 4 üncü maddeleri kapsamında borçların peşin ödeme seçeneği tercih edilerek yapılandırılmış olması,
+b) Yapılandırılan tutarın tamamının 10 uncu maddenin altıncı fıkrası kapsamında hesaplanan geç ödeme zammı ile birlikte peşin ödeme indirimi uygulanmaksızın ödenmiş olması,
+c) 31/12/2017 tarihine kadar (bu tarih dâhil) ilgili tahsil dairesine yazılı olarak müracaatta bulunulması,
+gerekmektedir.
+(4) Kanunun 10 uncu maddesinin üçüncü fıkrasının (b) bendinde düzenlenmiş olan indirim uygulanmadan ve geç ödeme zammı ile birlikte yapılandırılan alacağın tamamının ödenmiş olması durumunda fıkra kapsamında, indirimli tutar ile birlikte bu tutar üzerinden hesaplanarak tahsil edilmiş olan geç ödeme zammının da 6183 sayılı Kanunun 23 üncü maddesi dikkate alınmak suretiyle red ve iade edilmesi gerekmektedir.
+(5) Fıkra kapsamında iade hakkı olanların 31/12/2017 tarihine kadar (bu tarih dâhil) ilgili tahsil dairesine yazılı olarak müracaat etmemeleri durumunda, iade hakkı ortadan kalkmaktadır.
