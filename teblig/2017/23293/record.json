@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23293",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İŞKOLLARINDAKİ İŞÇİ SAYILARI VE SENDİKALARIN ÜYE SAYILARINA İLİŞKİN 2017 OCAK AYI İSTATİSTİKLERİ HAKKINDA TEBLİĞ",
+  "number": "23293",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "path": "teblig/2017/23293",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23293&MevzuatTertip=5",
+  "source_sha256": "e5dde4fc33769be631a3e47a5d3916015db23f849e11c1b3516038b06a4e3c98",
+  "source_bytes": 8308,
+  "published": "2017-01-29",
+  "gazette": "29963",
+  "in_force": "2017-01-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.01.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 121,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23293-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
