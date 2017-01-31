@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10626",
+  "decision_date": "2017-01-31",
+  "source_id": 24855,
+  "chamber": "1",
+  "ilam_number": "152",
+  "item_number": 18,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24855/",
+  "source_sha256": "fa7871751f6bc70af849e7bc023a7631633695123cfe712c207955b4b4fe7eed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
