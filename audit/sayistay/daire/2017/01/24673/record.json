@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "424",
+  "decision_date": "2017-01-31",
+  "source_id": 24673,
+  "chamber": "6",
+  "ilam_number": "232",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24673/",
+  "source_sha256": "85996b851f0705f885008e33cf99ac64fffbf85f1242375db499f09da2bd8500",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
