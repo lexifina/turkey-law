@@ -1,0 +1,2 @@
+Ders başarı notu
+MADDE 21 – (1) Bir dersteki başarı durumu ders başarı notu ile belirlenir. Ders başarı notu, öğrencinin yarıyıl içindeki ara (vize) sınav/sınavları, ödev veya proje notu ve yarıyıl sonu (final) sınavının birlikte değerlendirilmesi ile elde edilir. Ders başarı notuna ara (vize) sınav/sınavların katkısı % 30, proje veya ödevin katkısı % 20 ve yarıyıl sonu (final) sınavının katkısı % 50 oranındadır.
