@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10626",
+  "decision_date": "2017-01-31",
+  "source_id": 24845,
+  "chamber": "1",
+  "ilam_number": "152",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24845/",
+  "source_sha256": "57b90fbae72b3d91a2dcda10831abcaf71ffb2f630baafc91e5d5d8b561f38e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
