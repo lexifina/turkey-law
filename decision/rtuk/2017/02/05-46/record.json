@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2017/05",
+  "meeting_date": "2017-02-01",
+  "meeting_date_as_published": "1.2.2017",
+  "decision_no": "46",
+  "source_id": 8871,
+  "title": "RTÜK kararı 2017/05-46",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/8871",
+  "source_sha256": "5f6e55b7b53b9296901d94c2c755332f96288643cbd08bc775267043dda12a46",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
