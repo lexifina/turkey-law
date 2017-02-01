@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23300",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ SAVUNMA VEYA İÇ GÜVENLİK HİZMETLERİYLE DOĞRUDAN İLGİLİ SİLAH, MÜHİMMAT, ARAÇ VE GEREÇ İLE SARF MALZEMESİNİN TAHSİSİNE İLİŞKİN YÖNETMELİK",
+  "number": "23300",
+  "issuer": "Adalet, İçişleri, Milli Savunma ve Maliye Bakanları",
+  "issuer_slug": "adalet-icisleri-milli-savunma-ve-maliye-bakanlari",
+  "path": "regulation/adalet-icisleri-milli-savunma-ve-maliye-bakanlari/2017/23300",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23300&MevzuatTertip=5",
+  "source_sha256": "a4b65c10369c69db2518d605d2ea9ef3b0f7282a51e237254a9d72cb24efb253",
+  "source_bytes": 21830,
+  "published": "2017-02-01",
+  "gazette": "29966",
+  "in_force": "2017-02-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.02.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1007,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
