@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42699",
+  "decision_date": "2017-02-01",
+  "source_id": 13333,
+  "chamber": "1",
+  "file_number": "40708",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2014",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13333/",
+  "source_sha256": "2e8707ed7b3f71b0034bd7d70248560b127dd1ed572e98c7a588e2fcaccd0bc3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
