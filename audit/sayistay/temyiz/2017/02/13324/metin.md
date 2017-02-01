@@ -1,0 +1,5 @@
+Hakedişlerde sorumluluk;
+
+195 sayılı İlamın 8. maddesiyle verilen … TL’nin tazminine dair hükümde Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 39394 sayılı dosya, 01.02.2017 tarih ve 42689 tutanak sayılı Temyiz Kurulu İlamı ile; hakedişlere esas ödeme emri belgelerine göre dosya/hakediş bazında oluşturulan tablo doğrultusunda sorumlulukların yeniden tespit edilerek hüküm kurulmasını teminen 6085 sayılı Sayıştay Kanunu nun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle dairesine gönderildiğinden; aynı mahiyette olan 39503 sayılı işbu dosyanın da sözü edilen (39394 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 01.02.2017 tarih ve 42693 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
