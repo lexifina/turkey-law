@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "426",
+  "decision_date": "2017-02-02",
+  "source_id": 24500,
+  "chamber": "6",
+  "ilam_number": "210",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24500/",
+  "source_sha256": "40cf496b4a5cf630a25fe4b1036aedfb4821b0bfde00a0ad7f9d077c0e2bcee0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
