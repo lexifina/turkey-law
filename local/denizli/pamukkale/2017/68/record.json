@@ -1,0 +1,24 @@
+{
+  "number": "68",
+  "number_as_published": "2017/68",
+  "year": 2017,
+  "title": "Pamukkale Belediye Meclisinin Şubat ayı toplantısının 02.02.2017 tarihli 2.birleşim gündeminde gündem değişikliği yapılması konusunda verilen önergenin kabulü hk.",
+  "decision_date": "2017-02-02",
+  "source": "https://www.pamukkale.bel.tr/y-217-2017-yili-subat-ayi-meclis-karar-ozetleri-",
+  "official_document": null,
+  "source_sha256": "649c793525b021d8a53a0ec7d47406c0d8681b6cda142eb75251067238420f82",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2017-02-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.02.2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.pamukkale.bel.tr/y-217-2017-yili-subat-ayi-meclis-karar-ozetleri-",
+  "listing_label": "2017 Yılı Şubat Ayı Meclis Karar Özetleri",
+  "record_scope": "one council decision (published decision summary)"
+}
