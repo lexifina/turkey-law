@@ -1,0 +1,2 @@
+year,number,published,title,source,source_sha256,representation,act_path,words,omitted_sections,note
+2017,152,2017-02-03,Kurul'un 03/02/2017 Tarih ve 5/173 Sayılı Kararı,https://mevzuat.spk.gov.tr/api/IlkeKarari/File/152,0b3803f13a801a8fdcbc1103144903debbfd121f48e714732a97525fe3d9f8c3,regulatory-text,norm/spk/principle/2017/152,119,,whole official standalone text; decision date independently present in PDF
