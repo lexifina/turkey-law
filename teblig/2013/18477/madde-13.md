@@ -1,0 +1,2 @@
+Finansal raporların kamuya açıklanmasında ek süreler
+MADDE 13 – (1) Kurulca kabul edilecek makul gerekçelerin varlığı halinde, işletmenin varsa Kurumsal Yönetim İlkeleri kapsamında oluşturulan denetimden sorumlu komitesi, yoksa işletmenin finansal raporlamadan sorumlu yönetim kurulu üyesi veya genel müdürü tarafından başvurulması şartıyla, ara dönem ve yıllık finansal raporların kamuya açıklanmasına ilişkin olarak işletmelere ek süre verilebilir.

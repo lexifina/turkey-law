@@ -1,0 +1,5 @@
+Payları borsada işlem görmeyen halka açık ortaklıkların finansal tablolarının hazırlanmasında esas alınacak standartlar
+GEÇİCİ MADDE 2 – (Başlığı ile birlikte değişik:RG-3/2/2017-29968)
+(1) KGK düzenlemeleri uyarınca TMS/TFRS’ye uygun olarak finansal tablo düzenleme yükümlülüğü bulunmayan payları borsada işlem görmeyen halka açık ortaklıklar, payları borsada işlem görünceye veya Kanun kapsamından çıkıncaya kadar geçen süre içerisinde, finansal tablolarını TTK’nın 88 inci ve geçici 1 inci maddeleri çerçevesinde KGK tarafından belirlenen esaslara göre hazırlarlar.
+(2) Bu maddeye tabi halka açık ortaklıklar açısından finansal tablo tanımı, tabi oldukları standartta belirlenen finansal tablolardır.
+(3) Birinci fıkrada belirtilen halka açık ortaklıklar, isteğe bağlı olarak 5 inci madde hükümleri kapsamında finansal tablo düzenleyebilirler. Finansal tablolarını bu şekilde hazırlamayı seçen halka açık ortaklıklar, makul bir gerekçeleri bulunmadığı sürece uyguladıkları finansal tablo standardını değiştiremezler.

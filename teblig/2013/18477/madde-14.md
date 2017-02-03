@@ -1,0 +1,5 @@
+Finansal raporların internet sitesinde ilanı
+MADDE 14 – (Başlığı ile birlikte değişik:RG-3/2/2017-29968)
+(1) Finansal raporlarını kamuya açıklanmak üzere KAP’a bildiren işletmeler, yıllık ve ara dönem finansal raporlarını, finansal rapor kullanıcıları tarafından kolaylıkla ulaşılabilecek şekilde, kamuya açıklandıktan sonra kendilerine ait internet sitelerinde ilan etmek zorundadır. Bu bilgilerin sözkonusu internet sitelerinde en az 5 yıl süreyle kamuya açık tutulması zorunludur.
+(2) Birinci fıkrada yer verilen işletmelerin birden fazla internet sitesinin bulunması durumunda, finansal raporlar tescil edilen internet sitesinde zorunlu, diğer internet sitelerinde ise ihtiyari olarak ilan edilir. Tescil edilen internet sitesinde, finansal raporların ilan edildiği diğer internet sitelerinin bağlantı adreslerine yer verilir.
+(3) Payları bir borsada ve/veya teşkilatlanmış diğer pazar yerlerinde işlem görmeyen halka açık ortaklıkların, TTK’nın ilgili hükümleri uyarınca zorunlu veya ihtiyari olarak internet sitelerinin bulunması durumunda, bu maddede belirtilen ilan yükümlülüklerine uymaları zorunludur.
