@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 44 – (1) Bu Yönetmelik 2016-2017 eğitim-öğretim yılının başından itibaren geçerli olmak üzere, yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-02-05",
+      "05.02.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 44 – (1) Bu Yönetmelik 2016-2017 eğitim-öğretim yılının başından itibaren geçerli olmak üzere, yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "29970",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-02-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Galatasaray Üniversitesi",
+  "issuer_slug": "galatasaray-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/galatasaray-universitesi/2017/23307",
+  "published": "2017-02-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23307&MevzuatTertip=5",
+  "source_bytes": 132351,
+  "source_id": "8.5.23307",
+  "source_sha256": "a479dd9109e5cad98bb033481bd6b66e52cf4066ae7686e3f38831aa47919cfc",
+  "text_status": "as-enacted",
+  "title": "GALATASARAY ÜNİVERSİTESİ SOSYAL BİLİMLER ENSTİTÜSÜ\r\nLİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 194,
+  "word_count": 9074
+}
