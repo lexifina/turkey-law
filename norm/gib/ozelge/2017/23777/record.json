@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-120[2015-720-19]-5",
+  "source_id": 23777,
+  "date": "2017-02-06",
+  "title": "Pazar Yeri Kira Ücretlerinin Banka Aracılığı İle Ödenme Zorunluluğu Olup Olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23777",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "20a903bc06b4d29043c7be2e9f6c2b0b716514a3d92d2a6899bb80a0e6f6183b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
