@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.33.15.01-130[ÖZG-2015-106]-4",
+  "source_id": 31220,
+  "date": "2017-02-06",
+  "title": "Liman Sahası İçinde Açıkta Demirleyen Gemilere Tekne ile Personel Taşıma İşinde KDV İstisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31220",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "001db432b27c3f9fc2ccd2bfbfcb19686f7a4ee588af8d19d45b97b706a78d44",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
