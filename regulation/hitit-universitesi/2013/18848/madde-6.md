@@ -1,0 +1,13 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Kadın haklarının korunmasını, yaygınlaştırılmasını, geliştirilmesini sağlamak ve Atatürk İlke ve İnkılâpları ile kazanılmış hakları ve kadınların bilinçli birer toplum bireyi olmasını temel alarak, kadın ve aile sorunları konusunda ulusal ve uluslararası düzeyde uygulanabilir projeler üretmek, bilimsel veri sağlamak, inceleme ve araştırma yapmak; danışmanlık hizmeti vermek; eğitim programı, kongre, sempozyum, konferans, seminer, kurs ve benzeri faaliyetler düzenlemek.
+b) Merkezin amaçları doğrultusunda yerel, ulusal ve uluslararası diğer kurum ve kuruluşlarla işbirliği yaparak kongre, sempozyum, panel, atölye çalışmaları ve kurslar düzenlemek, özel veya resmi kuruluşlardan gelecek istekler doğrultusunda projeler ve projelerle ilgili uygulama birimlerini oluşturmak, bunlara katılmak, bunları desteklemek ve yürütmek.
+c) Kadın ve ailelerle ilgili programlar oluşturarak her seviyedeki eğitim birimlerinde ve ulusal kalkınmaya etkin bir biçimde katılamamış olan kırsal kesimdeki kadın ve kız çocukları için özel eğitim programları ve seminerler düzenlemek.
+ç) Kadın ve aile sorunları konusunda ilgili kamu kurum ve kuruluşları, akademik kurumlar, yerel yönetimler, gönüllü kuruluşlar ve uluslararası örgütlerle, yurt içinde ve yurt dışındaki benzer merkezlerle işbirliği yapmak ve bu amaçla bilimsel toplantılar düzenlemek, öğrenci ve öğretim elemanı değişiminde bulunmak, ortak çalışmalar, projeler ve araştırmalar geliştirmek, bunlarda yer almak ve desteklemek.
+d) Öğrencilerin ve araştırmacıların Merkezin amacıyla ilgili konularda eğitim-öğretim ve araştırma yapmalarını sağlayıp bu konuda yardımcı olmak; kadınların sorunlarının çözümünde katkısı olacak uygulamalı çalışmaları özendirmek ve bunlara imkân sağlamak; Üniversitede lisans, yüksek lisans ve doktora düzeyinde kadın ve aile sorunlarıyla ilgili ders, seminer ve benzeri etkinlikler düzenlenmesini ve öğrencilerin bu konulara yönelmesini özendirici eğitsel çalışmalarda bulunmak, bu alanda çalışmalarda bulunanları desteklemek.
+e) Kadın ve aile sorunları konusunda gelişme ve yayınların izlenebilmesi amacıyla kitaplık ve arşiv oluşturup Merkezin amaçları doğrultusunda yayın yapmak.
+f) Kadın ve aileye yönelik politikaların geliştirilmesine katkıda bulunmak.
+g) Özellikle Karadeniz Bölgesi ve Çorum ilindeki kadınlar ve kız çocukları için çeşitli konularda etkinlikler düzenlemek ve halk eğitimi programlarını yürütmek.
+ğ) Kadın ve aile sorunları konusunda kamuoyu oluşmasına yardımcı olmak.
+h) Çorum ilindeki tüm ilgili paydaşlarla Merkezin amaçları doğrultusunda çalışmalar yapmak.
+ı) Yönetim Kurulunca kararlaştırılacak Merkezin amaçlarına uygun diğer faaliyetlerde bulunmak.
