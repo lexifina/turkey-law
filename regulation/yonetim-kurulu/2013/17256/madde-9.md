@@ -1,0 +1,4 @@
+Giriş sınavı komisyonu
+MADDE 9 – (1) Giriş sınavı komisyonu, Genel Sekreterin ya da Genel Sekreter tarafından görevlendirilen Genel Sekreter Yardımcısının başkanlığında, Genel Sekreterin belirleyeceği bir Genel Sekreter Yardımcısı ve iki birim Başkanı ile Yönetim Hizmetleri Başkanı olmak üzere beş kişiden oluşur. Ayrıca Genel Sekreter tarafından üç yedek üye belirlenir. Asıl üyelerin herhangi bir nedenle giriş sınavı komisyonuna katılamamaları hâlinde, yedek üyeler tespit sırasına göre giriş sınavı komisyonuna katılırlar.
+(2) Giriş sınavının yapılması, sınav sonuçlarının değerlendirilmesi ve itirazların incelenerek karara bağlanması giriş sınavı komisyonunca yapılır.
+(3) Giriş sınavı komisyonu üyeleri kendilerinin, boşanmış olsalar dahi eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının veya evlatlıklarının katıldığı sınavlarda görev alamazlar.

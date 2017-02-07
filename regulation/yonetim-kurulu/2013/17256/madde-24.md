@@ -1,0 +1,2 @@
+Uzman yardımcısı unvanının sona ermesi
+MADDE 24 – (1) Verilen ek süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci yeterlik sınavında da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliliği şartını yerine getirmeyenler, uzman yardımcısı unvanını kaybederler ve Kurumda durumlarına uygun idari personel unvanlı kadrolara atanırlar.
