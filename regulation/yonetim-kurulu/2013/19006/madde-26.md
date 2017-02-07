@@ -1,0 +1,2 @@
+Personelin kurumla ilişiğinin kesilmesi
+MADDE 26 – (1) Personelin; görevden çekilmesi ya da çekilmiş sayılması, emekliliği, görevini yapmasına engel teşkil edeceğine dair sağlık kurulu raporunun bulunması, başka bir kuruma nakli, işe alınma şartlarından herhangi birini taşımadığının sonradan anlaşılması ya da görevi sırasında bu şartlardan herhangi birini kaybetmesi, sözleşmesinin feshi ve ölümü durumlarında Kurumla ilişiği kesilir.

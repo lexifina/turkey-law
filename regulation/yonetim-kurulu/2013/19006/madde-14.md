@@ -1,0 +1,5 @@
+Atamaya yetkili organ, göreve başlama süresi, idari hizmet sözleşmesi imzalanması
+MADDE 14 – (1) Genel Sekreter müşterek kararla; Genel Sekreter Yardımcıları, Genel Sekreterlik Müşavirleri ve hizmet birimlerinin başkanları Başbakan onayıyla; diğer Genel Sekreterlik personeli Kurumun ilgili olduğu Bakan tarafından atanır. Başbakan ve Kurumun ilgili olduğu Bakan, atama yetkisini devredebilir.
+(2) Kurumda istihdam edileceklere göreve başlamaları yazılı olarak bildirilir. İlgililer, göreve başlama yazısının kendilerine tebliğ edildiği günü takip eden onbeş gün içerisinde göreve başlamak zorundadırlar. Yapılan tebligata rağmen, kabul edilebilir bir belgeyle, ispatı mümkün mücbir sebepler olmaksızın onbeş gün içerisinde göreve başlamayanların, ya da tebligat adreslerinde bulunmamaları nedeniyle tebligat yapılamamış olanların görevlendirme onayları iptal edilir.
+(3) Belgeyle ispatı mümkün mücbir sebepler nedeniyle göreve başlamama hali bir ayı aşamaz.
+(4) Süresi içerisinde göreve başlamak için Kuruma başvuran kişi ile Kurum arasında idari hizmet sözleşmesi imzalanır.

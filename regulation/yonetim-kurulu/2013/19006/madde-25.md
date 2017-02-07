@@ -1,0 +1,3 @@
+Disiplin
+MADDE 25 – (1) Kurum hizmetlerinin gereği gibi yürütülmesini sağlamak amacı ile kanun, tüzük, yönetmelik, genelge, talimat ve emirlerin öngördüğü ödevleri yurt içinde veya dışında yerine getirmeyen, mevzuatın gerekli kıldığı hususlara uymayan veya yasakladığı işleri yapan personel hakkında, 657 sayılı Devlet Memurları Kanununun disipline ilişkin hükümleri uygulanır. Bu hükümlere göre aylıktan kesme cezası ücretten kesme cezası, devlet memurluğundan çıkarma cezası sözleşmenin feshi cezası olarak uygulanır.
+(2) Kurum disiplin amirleri, Genel Sekreterin teklifi ve Yönetim Kurulunun onayı ile belirlenir.
