@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "427",
+  "decision_date": "2017-02-07",
+  "source_id": 24768,
+  "chamber": "6",
+  "ilam_number": "241",
+  "item_number": 31,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24768/",
+  "source_sha256": "994a9698460803dbecb10ab2dc7b258c11ae662cb2ed40019aa7f6f71a119827",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
