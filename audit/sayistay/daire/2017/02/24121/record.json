@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35457",
+  "decision_date": "2017-02-07",
+  "source_id": 24121,
+  "chamber": "2",
+  "item_number": 4,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24121/",
+  "source_sha256": "94957077d16a0b9cb3922b7104a7524e1e356bb60c5574f82a0c62f62c6de6c7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
