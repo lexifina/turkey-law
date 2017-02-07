@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35456",
+  "decision_date": "2017-02-07",
+  "source_id": 24150,
+  "chamber": "2",
+  "ilam_number": "496",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24150/",
+  "source_sha256": "c85a4f3ba609d447b05166af6d9b5e49633c56d51fa2cb8bc102c84d14bf7603",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
