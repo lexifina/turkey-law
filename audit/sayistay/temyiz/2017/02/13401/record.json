@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42715",
+  "decision_date": "2017-02-08",
+  "source_id": 13401,
+  "chamber": "1",
+  "file_number": "41512",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13401/",
+  "source_sha256": "fba8bd2ea5b28ce282af9cf41a8ef048f1106ad43f64a24d7436cf69a8653888",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
