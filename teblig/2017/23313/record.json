@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23313",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 477)",
+  "number": "23313",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2017/23313",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23313&MevzuatTertip=5",
+  "source_sha256": "3ba96b37cda3f993a6a7f82daf580682f6c0c46e9c00b5360abfa517cec1bda9",
+  "source_bytes": 9594,
+  "published": "2017-02-08",
+  "gazette": "29973",
+  "in_force": "2017-02-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.02.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 248,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23313-Ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
