@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42706",
+  "decision_date": "2017-02-08",
+  "source_id": 13392,
+  "chamber": "1",
+  "file_number": "40695",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13392/",
+  "source_sha256": "ba398d6dcf113faef655ed6e487438142224a53ddd37cfaff1ed1e8e36508769",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
