@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "104",
+  "decision_date": "2017-02-09",
+  "source_id": 24028,
+  "chamber": "8",
+  "ilam_number": "173",
+  "item_number": 5,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24028/",
+  "source_sha256": "ee6468951cff5549ea866a8381ea6813a0144f611a3ed06a9200b1b3cc3f2737",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
