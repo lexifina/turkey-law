@@ -1,0 +1,22 @@
+{
+  "number": "20",
+  "number_as_published": "2017/20",
+  "year": 2017,
+  "title": "council decision",
+  "decision_date": "2017-02-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2017-subat-ayi-meclis-kararlari/883",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-20/889",
+  "source_sha256": "730d3bb7554a5c621c6f7ea7d6df1c9efb65d41be0e719f4ba9bd8f574af5583",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2017-02-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.02.2017 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "10b319a8fe04a5b344b14f129d7f73bfabe8d718f51b8957f50203b69b437b62"
+}
