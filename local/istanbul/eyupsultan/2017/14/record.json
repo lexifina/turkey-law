@@ -1,0 +1,22 @@
+{
+  "number": "14",
+  "number_as_published": "2017/14",
+  "year": 2017,
+  "title": "Organik pazar kurulması",
+  "decision_date": "2017-02-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2017-subat-ayi-meclis-kararlari/883",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-14/901",
+  "source_sha256": "730d3bb7554a5c621c6f7ea7d6df1c9efb65d41be0e719f4ba9bd8f574af5583",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-02-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.02.2017 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "e5821ffe33c527bb40859fe855d3fcfb8a105db02205c536a647fc863d1a4035"
+}
