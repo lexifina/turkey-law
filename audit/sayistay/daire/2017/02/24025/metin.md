@@ -1,0 +1,11 @@
+Fiyat Farkı Katsayısının Hatalı Tespiti:
+
+“…Regülatörü Çakıl Geçidi Pompaj İstasyonu Yapılması Kapsamında Pompaların ve Ekipmanların Temini” imalat kalemine ilişkin yeni birim fiyat tutanağında, fiyatın sözleşme yılı fiyatlarına indirgenmesinde kullanılan Pn katsayısının tespitinde, güncel endeks olarak faturanın alındığı ay olan Nisan-2014 endeksinin kullanılması gerekirken proforma faturanın İdarece onaylandığı aydan bir önceki aya ait Ekim-2013 endeksinin kullanılması konusu ile ilgili olarak;
+
+… Barajı İnşaatı Sözleşmesinin “Uygulama Esasları” başlıklı 14.2.4’üncü maddesinin (h) bendinde aynen;
+
+“Birim fiyat sözleşmelerde sözleşmede birim fiyatı bulunmayan ve yapılması idarece istenilen bir iş kalemi için işin devamı sırasında yeni birim fiyat yapılması halinde, bu fiyat hazırlandığı uygulama ayının rayiçlerine ve şartlarına göre tespit edilir. Belirlenen bu yeni birim fiyatın uygulama ayı fiyat farkı katsayısına (Pn) bölünerek bulunan fiyatı, iş kaleminin miktarı ile çarpılır ve bulunan tutar hakedişteki sözleşme birim fiyatları ile yapılan işler sütununa dâhil edilerek yeni iş kaleminin sözleşme bazında bedeli yükleniciye ödenir. Bu iş kalemine ait fiyat farkı ise, uygulama ayının indeksleri üzerinden hesaplanarak bulunur.” denilmektedir.
+
+Yukarıda yer verilen sözleşme hükmünde görüleceği üzere; işin devamı sırasında yeni birim fiyat yapılması halinde, uygulama ayının rayiçlerine göre tespit edilen bu yeni fiyat, uygulama ayına ait güncel endeks kullanılarak bulunacak Pn (fiyat farkı) katsayısına bölünmek suretiyle sözleşme fiyatlarına indirgenecektir. Burada uygulama ayı kavramından ise işin gerçekleştiği ayın yani malın alındığına ilişkin faturanın düzenlendiği ayın/tarihin (10.04.2014) anlaşılması gerekir.
+
+Bu itibarla “… Regülatörü Çakıl Geçidi Pompaj İstasyonu Yapılması Kapsamında Pompaların ve Ekipmanların Temini” imalat kalemine ait yeni birim fiyat tutanağı düzenlenirken Pn katsayısının, Nisan-2014 güncel endeksi esas alınarak hesaplanması gerekirken proforma faturanın onaylandığı aydan bir önceki ay olan Ekim-2013 ayına ilişkin endeksin esas alınıp hesaplanması sonucu oluşan … TL kamu zararının, 6085 sayılı Sayıştay Kanununun 53’üncü maddesi gereğince işleyecek faizleriyle birlikte sorumlularına ödettirilmesine, oybirliğiyle, karar verildi.
