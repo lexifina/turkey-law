@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "429",
+  "decision_date": "2017-02-09",
+  "source_id": 24518,
+  "chamber": "6",
+  "ilam_number": "332",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24518/",
+  "source_sha256": "58368a8a0affefe06f607f2cc00934922aad0baa25868e18bcbb9e342e37191c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
