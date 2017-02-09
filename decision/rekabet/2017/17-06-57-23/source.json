@@ -1,0 +1,13 @@
+{
+  "number": "17-06/57-23",
+  "type": "Rekabet İhlali",
+  "decision_date": "2017-02-09",
+  "publication_date": "2017-05-04",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=0eeddb6f-a7af-4ec6-b4af-539fce2104a4",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=390",
+  "pdf_sha256": "b8cec3330139607a7943fc28255536fc347266967400c777308074d361d0e6db",
+  "pdf_bytes": "205426",
+  "pages": "10",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
