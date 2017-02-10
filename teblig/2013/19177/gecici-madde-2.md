@@ -1,0 +1,2 @@
+Mevcut bildirim yükümlüsü ortaklık ve kuruluşlar ile bağımsız denetim kuruluşları için elektronik sertifika başvurusu yapma zorunluluğu
+GEÇİCİ MADDE 2 – (1) Mevcut bildirim yükümlüsü ortaklık ve kuruluşlar ile bağımsız denetim kuruluşlarından, bu Tebliğin 5 inci maddesinde düzenlenen elektronik sertifika başvurusu yapmamış olanların, bu Tebliğin yürürlük tarihinden itibaren bir ay içinde elektronik sertifika başvurusunda bulunmaları zorunludur.

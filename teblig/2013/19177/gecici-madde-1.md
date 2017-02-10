@@ -1,0 +1,2 @@
+Kimlik bilgisinin doğrulanması
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin 7 nci maddesinin ikinci fıkrasında belirtilen kimlik bilgisi doğrulanması uygulamasına, gerekli geliştirmelerin tamamlanması sonrasında KAP işleticisi tarafından yapılacak duyuruyu takiben başlanır. Bu uygulamaya başlanıncaya kadar söz konusu bildirimler ilgililer tarafından, KAP işleticisi tarafından belirlenen esaslar çerçevesinde en kısa sürede KAP’a aktarılmak üzere KAP işleticisine iletilir.
