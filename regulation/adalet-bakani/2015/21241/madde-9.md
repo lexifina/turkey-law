@@ -1,0 +1,2 @@
+Eğitim merkezi müdür ve müdür yardımcılarının atamaları
+MADDE 9 – (1) Eğitim merkezi müdürü, birinci sınıfa ayrılmış adli ve idari yargı hâkim ve savcıları arasından; eğitim merkezi müdür yardımcıları ise hâkimlik ve savcılık mesleğinde fiilen en az beş yıl görev yapmış ve üstün başarısı ile Bakanlık hizmetlerinde yararlı olacağı anlaşılmış bulunanlar arasından muvafakatları alınarak Bakan tarafından atanır.
