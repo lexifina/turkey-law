@@ -1,0 +1,198 @@
+12 Şubat 2017 PAZAR
+Resmî Gazete
+Sayı : 29977
+YÖNETMELİK
+Gazi Üniversitesinden:
+GAZİ ÜNİVERSİTESİ AKDENİZ HAVZASI VE AFRİKA
+MEDENİYETLERİ
+UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; Gazi Üniversitesine
+bağlı olarak kurulan Gazi Üniversitesi Akdeniz Havzası ve Afrika
+Medeniyetleri Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet
+alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve
+çalışma şekline ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Gazi Üniversitesi Akdeniz
+Havzası ve Afrika Medeniyetleri Uygulama ve Araştırma Merkezinin
+amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının
+görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun
+7 nci maddesinin birinci fıkrasının (d) bendinin
+(2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+b) Merkez (GAKAF): Gazi Üniversitesi Akdeniz
+Havzası ve Afrika Medeniyetleri Uygulama ve Araştırma Merkezini,
+c) Müdür: Merkezin Müdürünü,
+ç) Rektör: Gazi Üniversitesi Rektörünü,
+d) Üniversite: Gazi Üniversitesini,
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin
+amacı
+MADDE 5 – (1) Merkezin
+amacı; Akdeniz Havzası ve Afrika ülke ve medeniyetlerinin kültürel, dilsel,
+edebi, sosyal ve tarihsel gelişimlerini bilimsel açıdan incelemek; Afrika
+kıtası ve Akdeniz havzasındaki sosyal ve ekonomik güncel gelişmeleri takip
+ederek, Türkiye’nin kıta ve havza ülkelerine yönelik ilişkilerinin
+geliştirilmesine katkı sağlamak; Afrika kıtası ve Akdeniz havzasının daha
+yakından tanınmasına yardımcı olacak akademik ve bilimsel projeler hazırlamak;
+Türkiye’nin Afrika ve Akdeniz havzası ülkelerinde tanınırlığını artıracak
+ortak bilimsel ve eğitimsel çalışma ve işbirlikleri planlamak ve yürütmek;
+bu kıtada faaliyet gösteren kamu ve özel kuruluşlara danışmanlık desteği
+vermek ve gerekli uzmanların yetiştirilmesini sağlamaktır.
+Merkezin
+faaliyet alanları
+MADDE 6 –
+(1) Merkez, çalışma alanına giren
+konularla ilgili olarak aşağıdaki faaliyetleri yapar:
+a) Afrika ve Akdeniz havzası ülke ve medeniyetleri
+ile ilgili bilimsel araştırmalar ve incelemeler yapmak, araştırma
+sonuçlarını yayınlamak.
+b) Afrika kıtası ve Akdeniz havzası konusunda
+araştırmacılar yetiştirilmesine katkıda bulunmak.
+c) Türkiye, Afrika ve Akdeniz ülkeleri ile
+kültürel, dilsel, sosyal, ekonomik, eğitim ve bilimsel alanların yanı sıra
+sağlık, alt yapı ve mühendislik alanlarına ilişkin işbirliğine dayalı
+konularda, kıtadaki ülkelerin ve Türkiye’deki devlet kurumları,
+üniversiteleri, araştırma merkezleri ve sivil toplum kuruluşları ile
+işbirliği projeleri yapmak.
+ç) Afrika ve Akdeniz havzası ülkeleri yükseköğretim
+ve eğitim kurumları ile Türk yükseköğretim ve eğitim kurumları arasında
+öğrenci, öğretim elemanı ve araştırmacı hareketliliğine zemin hazırlamak.
+d) Afrika ve Akdeniz havzası ülke ve medeniyetleri
+hakkında araştırma yapmak isteyen araştırmacı ve bilim adamlarının
+projelerini desteklemek.
+e) Afrika ve Akdeniz havzası ülkelerinin
+Türkiye’deki ve Türkiye’nin Afrika kıtasındaki yerleşik temsilcilikleri ile
+akademik ve bilimsel ortak programlar gerçekleştirmek, Afrika ülke ve
+medeniyetlerine ilişkin tanınırlığı artırmak amacıyla tanıtım günleri
+düzenlemek.
+f) Afrika ve Akdeniz havzası ülkelerinde
+Türkiye’nin tanınırlığını güçlendirecek bilimsel etkinlik ve çalışma
+ziyaretleri düzenlemek.
+g) Afrika ve Akdeniz havzası ülkelerinin dil ve
+kültürlerini tanıtmak ve eğitimini vermek.
+ğ) Afrika ülke ve medeniyetleri ile ilgili Merkez
+bünyesinde geniş kapsamlı Afrika ve Medeniyetleri Kütüphanesi, Arşiv ve
+Dokümantasyon birimi kurmak amacıyla, Afrika devlet ve üniversite
+kütüphaneleriyle işbirliği gerçekleştirmek ve ilgili kurumlarda araştırma
+ve incelemelerde bulunmak.
+h) Afrika kıtası ve Akdeniz havzasına ilişkin
+ulusal ve uluslararası kongreler ve Merkezin amaçları doğrultusunda
+seminer, konferans, çalıştay, kurs ve benzeri
+toplantılar düzenlemek.
+ı) Afrika kıtası ve Akdeniz havzası ile ilgili özel
+veya kamu kurum ve kuruluşlarına danışmanlık hizmeti vermek.
+ÜÇÜNCÜ BÖLÜM
+Merkezin Yönetim Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 –
+(1) Merkezin yönetim organları
+şunlardır:
+a) Müdür.
+b) Yönetim Kurulu.
+c) Danışma Kurulu.
+Müdür
+MADDE 8 –
+(1) Müdür; Üniversite öğretim
+elemanları arasından Rektör tarafından üç yıl için görevlendirilir. Süresi
+sona eren Müdür tekrar görevlendirilebilir.
+(2) Müdür, Merkezin faaliyet alanları kapsamında
+kendisine yardımcı olmak amacıyla Üniversite öğretim elemanları arasından
+bir kişiyi müdür yardımcısı olarak görevlendirir. Müdür yardımcısı üç yıl
+için görevlendirilir ve görev süresi biten Müdür ile birlikte yardımcının
+da görev süresi biter. Müdür görevi başında bulunmadığı zamanlarda yerine
+görevlendireceği müdür yardımcısı vekâlet eder. Vekâlet süresi altı ayı
+geçemez.
+Müdürün
+görevleri
+MADDE 9 –
+(1) Müdürün görevleri şunlardır:
+a) Merkezi temsil etmek.
+b) Merkezi, amaçları doğrultusunda yönetmek.
+c) Merkeze bağlı idarî ve akademik personel
+üzerinde genel gözetim ve denetim görevini sürdürmek.
+ç) Yönetim Kurulu ve Danışma Kuruluna başkanlık
+etmek.
+d) Yönetim Kurulunun aldığı kararları uygulamak.
+e) Her yılın sonunda Rektöre Merkezin çalışmaları
+ile ilgili faaliyet raporu vermek.
+f) Yönetim Kurulunca hazırlanan bütçeyi Rektörlüğe
+sunmak.
+g) Gerekli hallerde Yönetim Kurulu ve Danışma
+Kurulunu toplantıya çağırmak.
+Yönetim
+Kurulu
+MADDE 10
+– (1) Yönetim Kurulu; Müdür, müdür
+yardımcısı ve Üniversite öğretim üyeleri arasından Rektör tarafından
+görevlendirilen yedi üyeyle birlikte toplam dokuz üyeden oluşur. Üyeler üç
+yıl için görevlendirilir. Yönetim Kurulu toplantılarına mazeretsiz olarak
+üç kez üst üste katılmayan üyenin görevi sona erer.
+(2) Yönetim Kurulu üyelerinin görev süresi üç
+yıldır. Süresi biten üyeler Rektör tarafından üç yıllık süre için yeniden
+görevlendirilebilir.
+(3) Yönetim Kurulu, Müdürün başkanlığında olağan
+olarak ayda bir kez toplanır. Müdürün gerekli gördüğü durumlarda olağanüstü
+olarak Müdürün çağrısı üzerine salt çoğunlukla toplanır. Kararlar oy
+çokluğu ile alınır. Oyların eşitliği durumunda Müdürün oyu yönünde çoğunluk
+sağlanmış sayılır.
+Yönetim
+Kurulunun görevleri
+MADDE 11
+– (1) Yönetim Kurulunun görevleri
+şunlardır:
+a) Merkezin amaçlarına yönelik araştırma, uygulama,
+işbirliği ve eğitim-öğretim ile ilgili çalışma programı hazırlamak ve söz
+konusu alanlarda kararlar almak.
+b) Merkezin kadro ihtiyacını ve bütçesini görüşmek.
+c) Merkezin yıllık faaliyet raporunu inceleyip
+onaylamak.
+Danışma
+Kurulu ve görevleri
+MADDE 12
+– (1) Danışma Kurulu; Müdürün
+başkanlığında, Merkezin faaliyet alanlarında görev yapan, Üniversite
+içinden veya dışından üç yıl için Müdürün önerisi üzerine Rektör tarafından
+görevlendirilen en fazla yirmi üyeden oluşur. Görev süresi dolan üyeler
+yeniden görevlendirilebilir.
+(2) Danışma Kurulu, Müdürün başkanlığında olağan
+olarak yılda bir kez toplanır ve Müdürün gerekli gördüğü durumlarda Müdürün
+çağrısı üzerine olağanüstü toplanır. Toplantı yapmak için çoğunluk şartı
+aranmaz.
+(3) Danışma Kurulu kararları istişari
+niteliktedir.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Personel
+ihtiyacı
+MADDE 13
+– (1) Merkezin akademik, teknik ve
+idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi ve ilgili
+mevzuat uyarınca Rektör tarafından görevlendirilecek personel tarafından
+karşılanır.
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 14
+– (1) 26/09/2013
+tarihli ve 28777 sayılı Resmî Gazete’de yayımlanan Gazi Üniversitesi Afrika
+Medeniyetleri Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten
+kaldırılmıştır.
+Yürürlük
+MADDE 15
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 16
+– (1) Bu Yönetmelik hükümlerini
+Gazi Üniversitesi Rektörü yürütür.
