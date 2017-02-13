@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; Yönetim Kurulu üyeleri ve Rektör tarafından görevlendirilmiş diğer üyelerin katılımı ile oluşur. Diğer üyeler, Üniversite içinden veya dışından bilimsel araştırma ve uygulamaları olan ya da yaşlı sağlığını ilgilendiren alanlarda hizmet ve faaliyetleri bulunan kamu kurumları veya özel kuruluşların temsilcileri arasından, Yönetim Kurulunun önerisi üzerine, üç yıllığına Rektör tarafından görevlendirilir. Danışma Kurulu, Müdürün başkanlığında faaliyet gösterir.
+(2) Danışma Kurulu üyeleri görevlendirildikleri tarihten itibaren en geç iki ay içinde Müdürün başkanlığında toplanır ve aralarından bir başkan yardımcısı ve bir raportör seçer.
