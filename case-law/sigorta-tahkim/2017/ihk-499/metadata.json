@@ -1,0 +1,15 @@
+{
+  "number": "İHK-2017/499",
+  "award_date": "2017-02-13",
+  "heading_as_published": "13.02.2017 Tarih ve 2017/İHK - 499 Sayılı İtiraz Hakem Heyeti Kararı (Kasko)",
+  "issue": "Hakem Karar Dergisi 29 Ocak - Mart 2017",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs29.pdf",
+  "source_sha256": "6e3f7b014aa6443efd3eab9ff50fbfcec2499086e7e54d97d822f417b1096d41",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 2,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
