@@ -1,0 +1,1 @@
+MADDE 2 – (1) 20/7/2016 tarihli ve 29776 sayılı Resmî Gazete’de yayımlanan Szutest Teknik Kontrol ve Belgelendirme Hizmetleri Ticaret Limited Şirketi’nin Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (SGM: 2016/19) yürürlükten kaldırılmıştır.

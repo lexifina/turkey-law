@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23329",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SZUTEST UYGUNLUK DEĞERLENDİRME ANONİM ŞİRKETİNİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (SGM: 2017/2)",
+  "number": "23329",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2017/23329",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23329&MevzuatTertip=5",
+  "source_sha256": "9f0cbc496e4dd31fa1a982686d244780a1486b1af01ce6fa5e431de56f8390dd",
+  "source_bytes": 7790,
+  "published": "2017-02-14",
+  "gazette": "29979",
+  "in_force": "2017-02-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.02.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 102,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23329-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
