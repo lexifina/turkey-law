@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.17.02-105[VUK.ÖZLG-16-7]-10013",
+  "source_id": 30050,
+  "date": "2017-02-14",
+  "title": "Kooperatifin düzenlediği e-Arşiv Faturalarının üzerine İrsaliye yerine geçer. ifadesini yazması durumunda ayrıca sevk irsaliyesi düzenleme zorunluluğunun bulunup bulunmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/30050",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "7cbdb13a9c47e2782bdcda450ca9283b849770c8aebd10598bfbac72713dcebe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
