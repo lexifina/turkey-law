@@ -1,0 +1,29 @@
+{
+  "number": "200-i",
+  "date": "2017-02-14",
+  "source_id": 5507,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/5507/2017HO-Genelge200-1.pdf",
+  "source_sha256": "b6f8d11460dd3990cddd9e21b1321ef4f2617a2d1713ded5671959f3b6e38be0",
+  "history": "as-enacted",
+  "words": 1056,
+  "in_force_basis": "Official adopted general rule, PDF p. 4: bu Genelge Yüksek Seçim Kurulunun 14/02/2017 tarih ve 98 sayılı kararı ile 200/I sayılı Genelge olarak kabul edilmiştir",
+  "catalogue_date": "2017-02-14",
+  "source_images": 0,
+  "decorative_images": 0,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "attached_decision_numbers": [
+    "98"
+  ],
+  "adoption_dates": [],
+  "approval_dates": [
+    {
+      "page": 4,
+      "date": "2017-02-14",
+      "quote": "bu Genelge Yüksek Seçim Kurulunun 14/02/2017 tarih ve 98 sayılı kararı ile 200/I sayılı Genelge olarak kabul edilmiştir"
+    }
+  ],
+  "explicit_effective_dates": [],
+  "date_kind": "rule-adoption"
+}
