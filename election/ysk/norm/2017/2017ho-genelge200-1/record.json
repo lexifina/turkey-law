@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2017/2017ho-genelge200-1",
+  "list_number": "98",
+  "genelge_number": "200/I",
+  "decision_date": "2017-02-14",
+  "title": "Anayasa Değişikliği Halkoylamasında Yurt Dışında Yaşayan Seçmenlerimizin Bulundukları Ülkelerde Oy Kullanmaları Amacıyla İhtiyaç Duyulan Mal ve Hizmet Alımları ile Seçimlerle İlgili Yurt Dışındaki Diğer Harcamalarda Uygulanacak Usul ve Esasların Belirlenmesine İlişkin 200/I Sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/5507/2017HO-Genelge200-1.pdf",
+  "source_sha256": "b6f8d11460dd3990cddd9e21b1321ef4f2617a2d1713ded5671959f3b6e38be0",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2017-02-14",
+  "law_text_complete": false
+}
