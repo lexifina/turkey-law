@@ -1,0 +1,29 @@
+{
+  "number": "139-1",
+  "date": "2017-02-14",
+  "source_id": 5509,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/5509/2017HO-Genelge139.pdf",
+  "source_sha256": "9220c7605246fb5c076e59c114a1ad22399af4b71b818633d6f6b47444d4640d",
+  "history": "as-enacted",
+  "words": 2409,
+  "in_force_basis": "Official adopted general rule, PDF p. 6: Bu Genelge Yüksek Seçim Kurulunun 14/02/2017 tarih ve 2017/99 sayılı kararı ile \"139/I sayılı Genelge\" olarak kabul edilmiştir",
+  "catalogue_date": "2017-02-14",
+  "source_images": 0,
+  "decorative_images": 0,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "attached_decision_numbers": [
+    "99"
+  ],
+  "adoption_dates": [],
+  "approval_dates": [
+    {
+      "page": 6,
+      "date": "2017-02-14",
+      "quote": "Bu Genelge Yüksek Seçim Kurulunun 14/02/2017 tarih ve 2017/99 sayılı kararı ile \"139/I sayılı Genelge\" olarak kabul edilmiştir"
+    }
+  ],
+  "explicit_effective_dates": [],
+  "date_kind": "rule-adoption"
+}
