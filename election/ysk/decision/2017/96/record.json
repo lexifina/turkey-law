@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2017/96",
+  "list_number": "96",
+  "decision_date": "2017-02-14",
+  "title": "Anayasa Değişikliği Halkoylamasında Yurt Dışı Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir 140/II sayılı Genelgeye ilişkin Yüksek Seçim Kurulu kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/5018/2017-96.pdf",
+  "source_sha256": "c8958897f53c5c5de3c351600f4fb0a921d0e08d43da4483bda30618efe0d7a7",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 7,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2017-02-14",
+  "law_text_complete": false
+}
