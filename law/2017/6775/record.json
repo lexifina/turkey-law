@@ -2,9 +2,9 @@
   "record_type": "law-metadata",
   "document_type": "kanun",
   "number": "6775",
-  "year": 2016,
+  "year": 2017,
   "title": "Türkiye Cumhuriyeti ile Singapur Cumhuriyeti Arasında Serbest Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
-  "adopted": "2016-12-13",
+  "adopted": "2017-02-14",
   "date_basis": "last-sitting",
   "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc101/kanuntbmmc101/kanuntbmmc10106775.pdf",
   "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 101",
@@ -50,18 +50,31 @@
           "pages": [
             "624"
           ]
+        },
+        {
+          "cilt": 34,
+          "sitting": 69,
+          "sitting_date": "2017-02-14",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c034/tbmm26034069.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c034/tbmm26034fih.pdf",
+          "pages": [
+            "99:100",
+            "115:132"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=2&v_cilt="
         }
       ],
       "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
-      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=491&v_gelecek_sayfa=101&v_kullanici_id=27483208",
-      "page_sha256": "dc3bf752bec63c7c9626e46804c028cd611937e470024c610916527db3c77340"
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=491&v_gelecek_sayfa=101&v_kullanici_id=27484870",
+      "page_sha256": "bf9254b5ff9174c9fc520be732892dacd2a536b5382a7e50c8925571f6f3f22d"
     }
   ],
   "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
-  "source_sha256": "dc3bf752bec63c7c9626e46804c028cd611937e470024c610916527db3c77340",
+  "source_sha256": "bf9254b5ff9174c9fc520be732892dacd2a536b5382a7e50c8925571f6f3f22d",
   "issuer": "TBMM",
-  "in_force": "2016-12-13",
-  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2016-12-13); commencement not asserted",
+  "in_force": "2017-02-14",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2017-02-14); commencement not asserted",
   "history_type": "metadata",
   "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
   "law_text_complete": false,
