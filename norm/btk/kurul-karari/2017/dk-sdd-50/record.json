@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2017/DK-SDD/50",
+  "date": "2017-02-15",
+  "title": "İnceleme - SMS CLI Denetimi",
+  "relevant_unit": "Sektörel Denetim Dairesi Başkanlığı",
+  "publication_date": "2017-02-15",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=84",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/91d128aa-f0d6-4667-a003-57c425114cf5.pdf",
+  "source_sha256": "24d7fcd7ca2e7cf746114bb5ae26a267cc21084bc0be93d896f025dc0415a718",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2017-02-15",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 15.02.2017; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
