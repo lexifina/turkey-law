@@ -1,0 +1,71 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "6797",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Sağlık Bakanlığı ile Çin Halk Cumhuriyeti Sağlık Bakanlığı Arasında Sağlık Alanında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2017-02-15",
+  "adopted_as_published": "15/02/2017",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "08.03.2017 No: 30001",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc101/kanuntbmmc101/kanuntbmmc10106797.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 101",
+  "committee_reports": [
+    {
+      "label": "TBMM 181 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c035/tbmm26035070ss0181.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 26,
+      "kayit_no": 829710,
+      "title": "Türkiye Cumhuriyeti Sağlık Bakanlığı ile Çin Halk Cumhuriyeti Sağlık Bakanlığı Arasında Sağlık Alanında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "15/02/2017",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc101/kanuntbmmc101/kanuntbmmc10106797.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 181 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c035/tbmm26035070ss0181.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 3,
+          "sitting": 26,
+          "sitting_date": "2016-01-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c003/tbmm26003026.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c003/tbmm26003fih.pdf",
+          "pages": [
+            "435"
+          ]
+        },
+        {
+          "cilt": 12,
+          "sitting": 59,
+          "sitting_date": "2016-03-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c012/tbmm26012059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c012/tbmm26012fih.pdf",
+          "pages": [
+            "15"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=491&v_gelecek_sayfa=101&v_kullanici_id=27483208",
+      "page_sha256": "dc3bf752bec63c7c9626e46804c028cd611937e470024c610916527db3c77340"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "dc3bf752bec63c7c9626e46804c028cd611937e470024c610916527db3c77340",
+  "issuer": "TBMM",
+  "in_force": "2017-02-15",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 15/02/2017; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
