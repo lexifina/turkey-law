@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-02-15",
+  "issue": "29980",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 10/02/2017 Tarihli ve 7231 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/02/20170215-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/02/20170215.htm",
+  "index_sha256": "7612dc5388a3aed005c81a46bf8283b95e20214c2e19dd0ef08f3f940157cc98",
+  "index_header": "15 Şubat 2017 ... 29980 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/02/20170215.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
