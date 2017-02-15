@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2017/110",
+  "list_number": "110",
+  "decision_date": "2017-02-15",
+  "title": "Sandık Sonuçları Paylaşım Sistemi (SSPS) Kullanımına İlişkin Usul ve Esasları Gösterir Genelgeye ilişkin Yüksek Seçim Kurulunun 2017/110 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/5041/2017-110.pdf",
+  "source_sha256": "b69e28e719fb44254eac2c75509091ff24c8c6687db899a4e89408cc81624b65",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2017-02-15",
+  "law_text_complete": false
+}
