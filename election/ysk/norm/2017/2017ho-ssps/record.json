@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2017/2017ho-ssps",
+  "list_number": "110",
+  "genelge_number": "SSPS Genelgesi",
+  "decision_date": "2017-02-15",
+  "title": "Sandık Sonuçları Paylaşım Sistemi (SSPS) Kullanımına İlişkin Usul ve Esasları Gösterir Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/5517/2017HO-SSPS.pdf",
+  "source_sha256": "05cdc29f1f06b699ee39d9e2b0641d305adf039c28e32df0798d0c3c6b7a4b64",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text names a person (possible private individual)",
+  "in_force": "2017-02-15",
+  "law_text_complete": false
+}
