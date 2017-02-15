@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2017/103",
+  "list_number": "103",
+  "decision_date": "2017-02-15",
+  "title": "Yurt Dışı İlçe Seçim Kurulu, Yurt Dışı Sandık Kurulları, Yurt Dışı Temsilciliklerinde Oyları Saklamak ve Yurt Dışı İlçe Seçim Kuruluna Ulaştırmakla Görevli Sandık Kurulları, Yurt Dışı Oyların Sayım ve Dökümü ile Görevli Sandık Kurullarının Oluşumu, Görev ve Yetkileri ile Yurt Dışı Temsilciliklerinde Oy Verme İşlemlerini Gösterir 202/I sayılı genelgeye ilişkin Yüksek Seçim Kurulunun 2017/103 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/5032/2017-103.pdf",
+  "source_sha256": "5d49141ac0aa423dbd3c045d661ddaf8fda4055021caa506fcd6750df9ae8d91",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 20,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2017-02-15",
+  "law_text_complete": false
+}
