@@ -1,0 +1,11 @@
+Kiraya verilen gayrimenkul teslim edildiği halde teslim tarihinden sonra meydana gelen yağış neticesinde oluşan hasarın idare tarafından tamir ettirilmesi:
+
+… Belediyesi'ne ait … Alışveriş ve Kültür Merkezi Binası'nın  imzalanan sözleşme ile ..Enerji İnş. Tur. San. Tic. Ltd. Şti.'ne kiralanması, söz konusu AVM yükleniciye teslim edildiği halde teslim tarihinden sonra meydana gelen yağış neticesinde oluşan hasarın idare tarafından tamir ettirilmesi suretiyle kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak yapılan incelemede;
+
+… Alışveriş ve Kültür Merkezi 21.08.2014 tarihinde imzalanan sözleşme ile … Enerji İnş. Tur. San. Tic. Ltd. Şti.'ne kiralandığı, sözleşmeye göre kira süresi başlangıç tarihinin 21.11.2014 olduğu, kiralananda 09.12.2014 tarihinde, kira başlangıç tarihinden sonra, meydana gelen şiddetli yağış neticesinde oluşan hasarın idare tarafından tamir ettirildiği görülmüştür.
+
+Borçlar kanunun "Teslim borcu" başlıklı 301’inci maddesinde “Kiraya veren, kiralananı kararlaştırılan tarihle, sözleşmede amaçlanan kullanıma elverişli bir durumda teslim etmek ve sözleşme süresince bu durumda bulundurmakla yükümlüdür. Bu hüküm, konut ve çatılı işyeri kiralarında kiracı aleyhine değiştirilemez; diğer kira sözleşmelerinde ise, kiracı aleyhine genel işlem koşulları yoluyla bu hükme aykırı düzenleme yapılamaz.” Hükmü yer almakta olup, belirtilen hüküm uyarınca idare binayı kullanıma elverişli hale getirmekle yükümlüdür.
+
+Yine aynı Kanunun 305’inci maddesinde “Kiralanan sonradan ayıplı duruma gelirse kiracı, kiraya verenden ayıpların giderilmesini veya kira bedelinden ayıpla orantılı bir indirim yapılmasını ya da zararının giderilmesini isteyebilir.” hükmüne yer verilmiştir.  Zararın giderilmesi başlıklı 308’inci maddesinde de “Kiraya veren, kusuru olmadığını ispat etmedikçe, kiralananın ayıplı olmasından doğan zararları kiracıya ödemekle yükümlüdür” denilerek, kiraya verenin sorumluluğu açık olarak belirtilmiştir.
+
+ Bu itibarla, kiralanandaki hasarın şiddetli yağış sonucu oluşması nedeniyle kiracının kusurundan söz edilemeyeceğinden ve esaslı onarım sorumluluğunun, taşınmazı kira sözleşmesi süresince kullanıma hazır halde bulundurmakla yükümlü olan kiraya verende  olmasından dolayı,  kiralanandaki hasarın idare tarafından karşılanmasında ilişilecek husus bulunmadığına  oy birliğiyle karar verildi.
