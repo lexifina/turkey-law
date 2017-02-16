@@ -1,0 +1,7 @@
+Uygun sulama usullerinin kullanımı
+MADDE 8 – (1) Uygun sulama usulünün seçilmesinde; su kaynağı ve sulama suyunun özellikleri, toprak özellikleri, arazinin topografik yapısı, iklim özellikleri, bitki özellikleri ve ekonomik durum dikkate alınarak en uygun sulama usulü belirlenir ve uygulanır.
+a) Özel şartlar ve ürünler dışında, basınçlı sulama sisteminin seçilmesi teşvik edilir ve sürdürülebilir kullanımı için izleme yapılarak gerekli tedbirler alınır.
+b) Basınçlı sistemlerde gerekli tedbirler sorumlu kurum, ilgili kurum ile su kullanıcı teşkilatı ve su kullanıcıları tarafından alınır.
+c) Hava sıcaklığı, bağıl nem ve rüzgâr hızı dikkate alınarak gece sulaması yapılması ile ilgili gerekli tedbirler sorumlu kurum, ilgili kurum ile su kullanıcı teşkilat ve su kullanıcıları tarafından alınır.
+(2) Gıda, Tarım ve Hayvancılık Bakanlığı tarafından sorumlu kurum ile işbirliği yapılarak uygun sulama usulünün seçimi, sulama zamanı planlamasının yapılması, doğru ürün münavebesinin uygulanması konularında üreticileri ve su kullanıcı teşkilatlarını bilinçlendirecek tedbirler alınır ve eğitimler düzenlenir.
+(3) Gıda, Tarım ve Hayvancılık Bakanlığı tarafından, tarla içi basınçlı sulama sistemlerinin kullanılmasını yaygınlaştırıcı tedbirler alınır. Alınacak tedbirler hususunda sorumlu kurum ve su kullanıcı teşkilatları ile işbirliği yapılır. Uygulanacak tedbirlerde 10 uncu maddenin dokuzuncu fıkrasında belirtilen sertifika ya da katılım belgesine sahip üreticilere öncelik sağlanır.

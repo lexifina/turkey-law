@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 29/6/2011 tarihli ve 645 sayılı Orman ve Su İşleri Bakanlığı Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 2 nci, 9 uncu ve 26 ncı maddeleri, 3/6/2011 tarihli ve 639 sayılı Gıda, Tarım ve Hayvancılık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 2 nci maddesi, 18/12/1953 tarihli ve 6200 sayılı Devlet Su İşleri Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanunun 2 nci maddesi ile 8/3/2011 tarihli ve 6172 sayılı Sulama Birlikleri Kanununun 3 üncü maddesine dayanılarak hazırlanmıştır.
