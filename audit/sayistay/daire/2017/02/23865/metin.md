@@ -1,0 +1,9 @@
+Kiraya verilen taşınmazların kira bedelleri ile elektrik/su giderleri tahsilatının yapılmaması.
+
+Kiraya verilen taşınmazların kira bedelleri ile elektrik/su giderleri tahsilatının yapılmaması suretiyle 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun “Kamu zararı” başlıklı 71 inci maddesine göre kamu zararına sebep olunduğu görülmüş olmakla birlikte ….. TL tahsil edilmeyen kira bedelinden …. TL’sinin …… muhasebe işlem fişi ile, ….. TL’sinin ……. muhasebe işlem fişi ile toplam ….. TL olarak …….. Şti.’nden; …. TL elektrik/su giderinden ….. TL’sinin ……. muhasebe işlem fişi ile …….. Şti.’nden tahsil edildiği görüldüğünden toplam ….. TL hakkında ilişik kalmadığına; …. Fabrika ve müştemilatı kiracısı ……..Şti.’nden tahsil edilmeyen …… TL kira bedeli ile ….. Kampüsü Kafe-Pastane işletmecisi ……’dan tahsil edilmeyen ….. TL elektrik/su gideri ile ilgili olarak İdarece icra takibine gidildiği anlaşıldığından toplam ….. TL’nin ilişiğinin bulunmadığına oyçokluğuyla,
+
+Azınlık Görüşü:
+
+Üye …… ile ……’ın karşı oy gerekçesi:
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun “Kamu zararı” başlıklı 71 inci maddesinin ilk fıkrasında kamu zararı, kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması olarak tarif edilmiş olup, maddenin ikinci fıkrasının (e) bendinde idare gelirlerinin tarh, tahakkuk veya tahsil işlemlerinin mevzuata uygun şekilde yapılmamasının kamu zararının belirlenmesinde esas alınacağı hüküm altına alınmıştır. Anılan durumda Üniversitenin kiraya verdiği yerlerin kirasının ve kiralanan yerlere ait elektrik/su bedellerinin tahsili için icra takibine gidilmiş olsa da icra takibinin henüz sonuçlanmamış olduğu görüldüğünden konu hakkında tazmin kararı verilmesi gerekir.
