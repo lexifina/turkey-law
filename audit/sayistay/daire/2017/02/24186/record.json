@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "236",
+  "decision_date": "2017-02-16",
+  "source_id": 24186,
+  "chamber": "5",
+  "ilam_number": "187",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24186/",
+  "source_sha256": "ef00bd8d388c74a7d9c12475fe1322efd185f8c38894bbf3e4f5d8da9fe3da16",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
