@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "236",
+  "decision_date": "2017-02-16",
+  "source_id": 24180,
+  "chamber": "5",
+  "ilam_number": "187",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24180/",
+  "source_sha256": "632eb26b753d56db44f0f21e1e2011e5018c898f060ed915519fd8e8300d0201",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
