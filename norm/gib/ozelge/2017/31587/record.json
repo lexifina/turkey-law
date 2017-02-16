@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.81.10.00-130-4",
+  "source_id": 31587,
+  "date": "2017-02-16",
+  "title": "Basit Usule Tabi Mükelleflerin Tevkifat Uygulamasından Doğan Kdv Alacaklarını Nakden veya Mahsuben İade Alıp Alamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31587",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "e8866c85a8f15834d3ef9a96889489a96a582f482ab3420ff34e521814d52d1f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
