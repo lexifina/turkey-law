@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "187",
+  "decision_date": "2017-02-16",
+  "source_id": 23990,
+  "chamber": "7",
+  "ilam_number": "185",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/23990/",
+  "source_sha256": "cb21f86599b0d8789fd050ef5e3e995fe58b309ebfb3945736a64a03d32f4703",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
