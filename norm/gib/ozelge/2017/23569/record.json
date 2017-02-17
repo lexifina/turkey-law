@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.31.15.01-010.01[120-09-2016]-14",
+  "source_id": 23569,
+  "date": "2017-02-17",
+  "title": "Görevden el çektirilen noterin vergisel yükümlülükleri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23569",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "a80a8de569e730968a9753e6a6f85dc62f9674d7b579bbc8bc729520603c47e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
