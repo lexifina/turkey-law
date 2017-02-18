@@ -1,0 +1,8 @@
+İçsel bilgi veya sürekli bilgilere ilişkin piyasa bozucu eylemler
+MADDE 4 – (1) Mevzuata uygun şekilde kamuya gerekli açıklamalar yapılmadan önce içsel bilgi veya sürekli bilgilere sahip olan kişilerin bu bilgilerin gizliliğini korumaları esastır.
+(2) İçsel bilgi veya sürekli bilgileri, bu bilgiler mevzuata uygun şekilde kamuya açıklanmadan önce bu bilgilere sahip olan kişilerden doğrudan ya da dolaylı olarak alan kişiler tarafından ilgili sermaye piyasası aracında işlem yapılması durumunda;
+a) İçsel bilgi veya sürekli bilgilere sahip olan kişilerin bu bilgileri diğer kişilere vermeleri,
+b) İçsel bilgi veya sürekli bilgileri bu bilgilere sahip olan kişilerden doğrudan ya da dolaylı olarak alan kişilerin ilgili sermaye piyasası aracında işlem yapmaları
+piyasa bozucu eylem olarak değerlendirilir.
+(3) İhraççılar tarafından düzenlenen finansal tablo ve raporlar ile bağımsız denetim raporlarının hazırlandığı hesap döneminin bitimini izleyen günden söz konusu tablo ve raporların mevzuata uygun şekilde kamuya duyurulmasına kadar geçen süre içerisinde, içsel bilgi veya sürekli bilgilere sahip olan kişilerin veya söz konusu kişilerin eşleri, çocukları ya da aynı evde yaşadıkları kişilerin ilgili sermaye piyasası araçlarında işlem yapmaları piyasa bozucu eylem olarak değerlendirilir.
+(4) İçsel bilgi veya sürekli bilgilerin kesinleşmesinden mevzuata uygun şekilde kamuya duyurulmasına kadar geçen süre içerisinde, içsel bilgi veya sürekli bilgilere sahip olan kişilerin veya söz konusu kişilerin eşleri, çocukları ya da aynı evde yaşadıkları kişilerin ilgili sermaye piyasası araçlarında işlem yapmaları piyasa bozucu eylem olarak değerlendirilir.
