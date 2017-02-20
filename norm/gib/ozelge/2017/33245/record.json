@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.02-130[I-16-12]-10021",
+  "source_id": 33245,
+  "date": "2017-02-20",
+  "title": "Yangın nedeniyle zayi olan mallar,sabit kıymetler ve binaların giderleştirilmesi ve KDV karşısındaki durumu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33245",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "1bb35e05f0c509ee4e1215a0aab506daf9d475e4d6783ca655efc42b9488549e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
