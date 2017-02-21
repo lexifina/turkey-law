@@ -1,0 +1,3 @@
+Merkez Müdürü (Genel Koordinatör)
+MADDE 8 – (1) Merkez Müdürü, Üniversitenin öğretim üyeleri arasından en az lisans düzeyinde tıp eğitimi almış kişiler arasından Yönetim Kurulunun teklifi ve Mütevelli Heyetinin onayıyla üç yıl süreyle görevlendirilir. Merkez Müdürü, sağlıkla ilgili bağlı birimlerin de yöneticisidir. Merkez Müdürü yürütmekte olduğu görevlerle ilgili olarak Yönetim Kuruluna karşı sorumludur.
+(2) Süresi biten Merkez Müdürü yeniden görevlendirilebilir. Herhangi bir sebeple Merkez Müdürünün altı aydan fazla bir süreyle görevi başında bulunamadığı durumlarda görevi sona erer. Görevi sona eren Merkez Müdürünün yerine aynı usulle yeni bir Merkez Müdürü görevlendirilir.
