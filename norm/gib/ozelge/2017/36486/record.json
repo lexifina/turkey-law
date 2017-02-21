@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-170[4-2016/20-79]-27",
+  "source_id": 36486,
+  "date": "2017-02-21",
+  "title": "Aracın, özürlülük derecesi %80 olan 13 yaşındaki engelli çocuğun adına tescil edilmesi halinde bahse konu işlemin MTV istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36486",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "178b0a0ae2534b45547e52c366f2de3fbaaad7c3f7b390fc9a8deee1c8dea031",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
