@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23346",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE VE ORTA DOĞU AMME İDARESİ ENSTİTÜSÜ ENDERUN BURS PROGRAMI YÖNETMELİĞİ",
+  "number": "23346",
+  "issuer": "Türkiye ve Orta Doğu Amme İdaresi Enstitüsü Genel Müdürü",
+  "issuer_slug": "turkiye-ve-orta-dogu-amme-idaresi-enstitusu-genel-muduru",
+  "path": "regulation/turkiye-ve-orta-dogu-amme-idaresi-enstitusu-genel-muduru/2017/23346",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23346&MevzuatTertip=5",
+  "source_sha256": "9f4df6435ee5340f5817762486c252f712f7be6e9c86ba826f81e6ee3b8edfd0",
+  "source_bytes": 53387,
+  "published": "2017-02-21",
+  "gazette": "29986",
+  "in_force": "2017-02-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.02.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2774,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
