@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42757",
+  "decision_date": "2017-02-22",
+  "source_id": 13338,
+  "chamber": "1",
+  "file_number": "39935",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13338/",
+  "source_sha256": "80afb765e5a8203b6a745561e31b548a384222f462b44be86762b0b575b9f03b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
