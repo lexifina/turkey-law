@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23351",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TARIMSAL SULAMAYA İLİŞKİN ELEKTRİK BORCU BULUNAN ÇİFTÇİLERE BU BORÇLARI ÖDENİNCEYE KADAR 2017 YILINDA TARIMSAL DESTEKLEME ÖDEMESİ YAPILMAMASINA İLİŞKİN UYGULAMA TEBLİĞİ (TEBLİĞ NO: 2017/14)",
+  "number": "23351",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2017/23351",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23351&MevzuatTertip=5",
+  "source_sha256": "868a6ba12f67609ed5ece6f862db8751ac7ce10144432b0c3bb8775dde6023ef",
+  "source_bytes": 15666,
+  "published": "2017-02-22",
+  "gazette": "29987",
+  "in_force": "2017-02-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.02.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 547,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23351-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
