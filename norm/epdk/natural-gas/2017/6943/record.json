@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6943",
+  "decision_date": "2017-02-23",
+  "title": "Aksa Gaz Dağıtım A.Ş.’nin perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-02-25",
+  "resmi_gazete_number": "29990",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HiMqZDA1YV0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HiMqZDA1YV0="
+  ],
+  "source_sha256": "43bfc4d7cca838704e6cad737a40f3beee3e9fe2e1a0eadc7e3c7a932b078668",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2017-02-23",
+  "law_text_complete": false
+}
