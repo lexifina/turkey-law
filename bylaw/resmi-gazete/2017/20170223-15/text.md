@@ -1,0 +1,326 @@
+23 Şubat 2017 PERŞEMBE
+Resmî Gazete
+Sayı : 29988
+TEBLİĞ
+Gümrük ve Ticaret Bakanlığından:
+SAYAÇ İŞLEMLERİ
+TEBLİĞİ
+(SERİ NO: 1)
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 –
+(1) Bu Tebliğ, 3 üncü maddede
+akaryakıt olarak tanımlanan dökme eşyaya uygulanacak gümrük işlemlerine
+ilişkin usul ve esasların belirlenmesi amacı ile hazırlanmıştır.
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 27/10/1999 tarihli ve 4458 sayılı
+Gümrük Kanununun 10, 10/A, 58, 93 ila 107 nci maddeleri ile Gümrük
+Yönetmeliğinin 534 ve 542 nci maddelerine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Tebliğde geçen;
+a) Akaryakıt: Benzin türleri, nafta (hammadde ve
+solvent nafta hariç), gaz yağı, jet yakıtı, motorin türleri, fuel-oil
+türleri, bio dizel ile sıvılaştırılmış petrol gazını (LPG),
+b) Akaryakıt antreposu (antrepo): Akaryakıtın dökme
+olarak konulmasına özgü genel veya özel antrepoları,
+c) Akaryakıt deposu (depo): Bir gümrük rejimine
+tabi tutuluncaya kadar dökme akaryakıtın konulduğu depoları (sahil
+tanklarını),
+ç) Sayaç sistemi: Denizyoluyla gelen dökme
+akaryakıtın antrepo veya depolara alınması ile aynı yolla yurt dışı edilmesinde
+kullanılan ana giriş ve çıkış boru hatları üzerine 7/10/2009 tarihli ve
+27369 mükerrer sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliği
+Ek-81/A’ya uygun olarak kurulan sayaç sistemlerini,
+d) Sayaç Otomasyon Sistemi: Sayaç sisteminden geçen
+ürün miktarının yerinden ve uzaktan izlenebilmesine izin veren sistemi,
+ifade eder.
+İKİNCİ BÖLÜM
+Sayaç
+Sistemleri
+Sayaç
+sistemi
+MADDE 4 – (1) Denizyoluyla gelen dökme akaryakıtın antrepo
+veya depoya alınması ve denizyoluyla yurt dışı edilmesinde sayaç sistemi
+kullanılır. Diğer yollarla gelen veya kaplarla taşınan akaryakıt, sayaç
+sistemi kullanılmaksızın tank ölçüm sistemi, tartım fişi veya yükleme
+belgesi/konşimentodaki miktarlara göre antrepoya alınır veya çıkartılır.
+(2) Aynı tesis içerisinde bulunan antrepo ve
+depolar için akaryakıt girişinde veya çıkışında tek sayaç kullanılabilir.
+Bu tesislerde antrepo tankları ile diğer depolar arasında doğrudan bağlantı
+olmaması ve eşyanın tahmil-tahliye işlemi sırasında kollektör üzerinde
+kullanılmayan boru hatlarının güvenlik mührü ile mühürlenmesi gerekir.
+Teknik emniyet yönüyle LPG tankları arasında bağlantı olabilir.
+(3) Boru hattının birden fazla şirket tarafından
+kullanıldığı durumlarda, boru hattı taşıma lisansına haiz boru hattı
+işleticisince kurulacak sayaç sistemi ortak kullanılabilir. LPG’nin gemiden
+tahliyesi tamamlanmadan aynı gümrük idaresinden işlem gerçekleştiren farklı
+firmaların işleticisi olduğu tesislere alınması, gümrük idaresinin izin
+vermesi kaydı ile mümkündür.
+(4) Birinci fıkrada belirtilen durumların yanı
+sıra, ihtiyaç olması halinde serbest dolaşımda bulunan akaryakıtın
+tahmil-tahliyesinde sayaç sistemi kullanılabilir.
+(5) Boru hattından geçen ürün miktarına ilişkin
+sayaç verisi, ürünün yoğunluk verisi, ürünün sıcaklık verisi otomatik
+olarak sayaç otomasyon sistemine iletilir ve sayaç otomasyon yazılımındaki
+hesaplamalara göre sayaçtan geçen ürün miktarı elde edilir. Elde edilen
+ürün miktarına ilişkin bilgi hem sayaç göstergesinde hem de otomasyon
+sisteminde görünür. Yoğunluk verisinin sistemce otomatik belirlenemediği
+durumlarda gemi tahlil raporundaki değer yoğunluk verisi olarak alınabilir.
+(6) Sayaç sistemi kesintisiz güç kaynağına bağlı
+olarak çalışır ve gümrük idaresince otomasyon sistemi üzerinden izlenir.
+(7) Gümrük idaresince izlenecek ekranda gemi adı,
+sayaç seri no, konşimento sayı/tarihi ve konşimentodaki eşya miktarı (air
+density- 15 °C), özet beyan sayı/tarihi, beyanname sayı/tarihi, ürün adı,
+ürünün sıcaklığı ve yoğunluğu, akış hızı (kütlesel ve hacimsel), ürün
+miktarı (toplam kütle-hacim ve net kütle-hacim), tarih/saat
+(başlama/bitiş), sayacın durumu (tahmil-tahliye işlemi olmadığında sarı
+renk; işlem esnasında lacivert renk gibi ya da işlemin yapılıp yapılmadığı
+sayaç sembolü üzerinde oluşan anlık akış değerinin giriş ve çıkış yönüne ve
+miktarına göre anlaşılması), sahil tankındaki akaryakıt miktarı [hem
+rakamsal hem de grafiksel görüntü (tanka eşya alınırken sarı renk; tanktan
+eşya çıkarken lacivert renk; tanktaki eşyada hareketi olmadığı zamanlarda
+yeşil renk gibi)] bulunmalıdır. Bu bilgilere, sayaç ile elektronik tank
+ölçüm sistemlerine aynı ekranda kullanıcı tarafından seçilip bilgilere
+ulaşılmalıdır. Akaryakıtın birden fazla tanka tahmil-tahliye işlemi olması
+halinde her bir tanka ilişkin bilginin ekranda görülebilir olması gerekir.
+(8) Sayaç sistemi ile sahil tanklarında bulunan
+ölçüm sistemlerinin birbiri ile entegre çalışması veya gümrük idaresince
+tek bağlantı yapılarak aynı ekrandan veya farklı ekranlarda verilere
+erişilebilir olması gerekir.
+(9) Boru hatları ile sayaçların bağlantı noktaları
+güvenlik mührü ile mühürlenir.
+(10) Sayaç ölçüm raporları aşağıdaki bilgileri
+içerir;
+a) Gemi adı,
+b) Konşimento/Orijinal Manifesto/Özet Beyan
+sayı/tarihi ve eşya miktarı,
+c) Başlama/Bitiş zamanı,
+ç) Tank no,
+d) Ürün ismi,
+e) Her bir tahmil-tahliye işlemindeki toplam ürün
+miktarı (hacim/litre-m3 ve kütle/kg),
+f) Her bir tahmil-tahliye işlemindeki net ürün
+miktarı (hacim litre-m3 ve kütle/kg),
+g) Sayaçtan geçen kümülatif toplam ve net ürün
+miktarı (hacim litre-m3 ve kütle/kg),
+ğ) Beyanname sayı/tarihi ve eşya miktarı.
+Sayaç
+kalibrasyonu
+MADDE 5 – (1) Sayaçların kalibrasyonu, kalibrasyonla
+yetkili/yetkilendirilmiş kurum veya kuruluşlarca süresi içerisinde yapılır.
+Sayaç ölçümlerinin sıhhatinden şüphe edilmesi halinde gümrük idaresince
+sayaç kalibrasyonunun yenilenmesi istenir.
+(2) Sayaç kalibrasyon cetvellerinin ve
+sertifikasının bir örneği antrepo veya depo işleticisinde bulundurulur, bir
+örneği gümrük idaresine teslim edilir.
+Sayaç
+sistemine ilişkin bulunması gereken belgeler
+MADDE 6 – (1) Aşağıdaki belgeler antrepoda, depoda ve gümrük
+idaresindeki dosyada bulundurulur:
+a) Sayaç kalibrasyon sertifikası,
+b) Ölçüm sistemi şeması ve mühür yerleri,
+c) Sayaç mühür doğrulama raporu,
+ç) Sayaç sistemine bağlı boru şeması.
+(2) Birinci fıkrada sayılan belgelerin noter
+tasdikli olması gerekir. Bu belgelerin asıllarının gümrük idaresine
+gösterilmesi halinde noter tasdiği aranmaz.
+Sayaç
+sisteminin çalışmadığı durumlar
+MADDE 7 – (1) Akaryakıtın tahmil-tahliye işlemi sırasında
+veya öncesinde sayaç sisteminde bir arıza veya kesinti olması durumunda
+tahmil-tahliye işlemi gerekli emniyet önlemleri alınarak derhal sona
+erdirilir ve sayaç ölçüm sonucu gümrük idaresince kayıt altına alınır. Gemi
+tankı, sahil tankı ve sayaçtan okunmuş olan miktar tespiti sonrasında
+gümrük personeli gözetiminde tahmil-tahliye işlemlerine devam edilmesine
+izin verilir. Ancak mesai saatleri dışında veya resmi tatil günlerinde bu
+durumun gerçekleşmesi halinde bahse konu tespitler tutanağa bağlanarak
+gümrük personeli gözetiminde tahmil-tahliye işlemlerine devam edilir ve
+yapılan işlemler takip eden ilk iş günü gümrük idaresine bildirilir.
+(2) Tahmil-tahliyesi yapılan tankın ölçümü
+yapılarak tanktaki ürün miktarı tespit edilir. Nihai miktar sayaç ölçümü ve
+ilgili tankların ölçümlerine göre belirlenir. Antrepodan gemiye yapılan
+tahmil-tahliye işlemlerinde LPG için gemi tankı ve sayaç, diğer akaryakıt
+ürünleri için gemi tankı, sahil tankı ve sayaçtan okunan miktara göre ürün
+miktarı tespit edilir. İlgili gemi tankı veya antrepo veya akaryakıt sahil
+tankı ölçümleri gümrük memuru gözetiminde uluslararası kabul görmüş
+bağımsız gözetim firmaları tarafından yapılır.
+(3) Sayaç sisteminin çalışmadığı durumlarda, ürün
+miktarının tespiti birinci ve ikinci fıkralardaki usuller dikkate alınarak,
+Gümrük Yönetmeliği hükümlerine göre belirlenir.
+Özel
+durumlar
+MADDE 8 –
+(1) Gümrük idaresinden izin
+alınmaksızın sayaç sistemi ile bağlantılarda herhangi bir değişiklik veya
+düzenleme işlemi yapılamaz.
+(2) Boru hattının, sayacın bulunduğu yerden önceki
+kısmında yer alan LPG basınç değişikliğinden dolayı faz değiştirmesi
+durumuna ilişkin aşağıdaki yöntemler kullanılabilir:
+a) Boru hattı üzerine kurulacak by-pass hattı ile
+sıkışan LPG’nin tahliye edilmesine ilişkin sistem kurulabilir. Bu amaçla
+kurulan otomatik sistemde boru hattındaki LPG basıncı belirlenen limit
+değerine ulaşınca by-pass hattı açılarak LPG’nin tahmil-tahliye işlemi
+yapılır, basınç belirlenen değerin altına düştüğünde by-pass hattı kapanır.
+b) Boru hattındaki LPG basıncının yükselmesi
+halinde basıncı düşürecek şekilde sayaç sistemi üzerinden sahil tankına
+veya sayaç sistemi sonrasındaki boru hattına gaz hareketine izin
+verilebilir. Mevcut sayaç düzeneğinin kapasitesi genleşen gazın ölçümü için
+uygun değil ise, sayaç sistemine paralel daha düşük kapasiteli başka bir
+sayaç ölçüm sistemi kurulabilir. Gaz basıncının yükselmesi durumunda
+basıncı düşürecek şekilde bu düşük kapasiteli sayaç sistemi üzerinden sahil
+tankına veya sayaç sonrasındaki boru hattına doğru gaz hareketine izin
+verilebilir.
+c) Boru hattındaki LPG basıncının yükselmesi
+halinde, LPG basıncının sayaç öncesinde kurulacak yeterli hacimli bir tanka
+tahliye edilmesine gümrük idaresince izin verilebilir. Yeterli hacimli
+tankın seviyesinin yükselmesi durumunda tankın çıkışına kurulacak bir pompa
+ve sayaç düzeneği ile tank içindeki ürünün sahil tankına veya sayaç
+sonrasındaki boru hattına doğru gaz hareketine izin verilebilir.
+ç) Boru hattında sıkışan gazın basıncını düşürmek
+üzere yukarıdaki yöntemlerin kullanılamadığı zorunlu hallerde sayaç
+öncesinde gaz yakılabilir veya havaya salınabilir.
+(3) Boru hattından tahmil-tahliye olmadığı
+durumlarda, boru hattı ile sahil tankları arasındaki ürünün faz değiştirmesi
+sonucunda oluşan akışkan hareketler nedeniyle sayacın ölçtüğü veriler,
+ilgili firma tarafından gümrük idaresine bildirilmesi halinde, dikkate alınmaz.
+Numune
+alınması, tahliye, ölçüm, teslim ve muayene işlemleri
+MADDE 9 – (1) Gümrük Yönetmeliğinin ilgili hükümleri
+çerçevesinde akaryakıt antreposu veya depoya alınmak üzere denizyoluyla
+gelen akaryakıta ilişkin numuneler gemi tanklarını temsil edecek şekilde
+paçal olarak veya sahil tankından alınıp laboratuvar tahliline gönderilir.
+(2) Numune alındıktan sonra, gümrük idaresi
+personelinin gözetiminde gemiden antrepo veya depoya tahliye işlemine
+başlanır. Akaryakıtın antrepo veya depodaki boş bir tanka alınması halinde,
+gümrük idaresince tanktan numune alınabilir.
+(3) Depoya alınacak akaryakıta ilişkin işlemler
+Gümrük Yönetmeliğinin 196 ncı maddesi hükümlerine göre gerçekleştirilir.
+(4) Tahliyeye nezaret eden gümrük personeli,
+tahliyeden önce sayaç üzerindeki endeksi tespit ederek sayacın açılış
+endeks raporunu; tahliyenin tamamlanmasını müteakip sayaç üzerindeki
+endeksi tespit ederek sayaç kapanış endeks raporunu alır. Dökme gelen
+akaryakıt miktarının tespitinde, sayaç sistemiyle ölçülen miktar ile beyan
+edilen miktar arasındaki farkın Gümrük Yönetmeliği ekinde belirlenen fire
+oranları içinde kalması halinde sayaç sistemi ile ölçülen miktar esas
+alınır. Gümrük personeli gözetiminde, gözetim firmalarınca gemi tank ölçümü
+(gemi tankı açılış ve kapanış ölçümü), gemi draft ölçümü ve LPG dışındaki
+akaryakıt için sahil tank ölçümü yapılmışsa ölçüm (açılış-kapanış)
+sonuçlarını gösteren raporlar, sahil tanklarında bulunan elektronik ölçüm
+sistemlerinden alınacak tahliye öncesi ve sonrası ölçüm raporları antrepo veya
+depoda muhafaza edilir ve gümrük idaresince talep edildiğinde ibraz edilir.
+Sayaç sistemi ile bu ölçümler arasında doğal fire oranları (Gümrük
+Yönetmeliği Ek-11’de yer alan Bazı Maddelerin Fire Oranlarına İlişkin
+Liste) dışında miktar farklılığı olması halinde, gümrük idaresince,
+antrepoda yapılacak veya yaptırılacak ölçümde elde edilecek sonuca göre
+gümrük işlemleri tamamlanır. LPG’nin ölçümünde ise sayaç sistemince tespit
+edilen miktarın Gümrük Yönetmeliği ekinde belirlenen fire oranları içinde
+kalmaması durumunda gümrük idaresi personelinin gözetiminde gözetim
+firmalarınca yapılan gemi ölçüm miktarlarına göre gümrük işlemleri
+tamamlanır.
+(5) Dökme olarak gelen akaryakıta ilişkin beyanın
+kontrolü ve tahlil işlemleri Gümrük Yönetmeliği hükümlerine göre yapılır.
+(6) Denizyoluyla gelen akaryakıtın, akaryakıt
+antrepo veya deposuna alınmasından sonra tahlil sonucu, suyun dreyni gibi
+nedenlerle eşya miktarında değişiklik olması halinde Gümrük Yönetmeliği
+hükümlerine göre beyannamede düzeltme yapılır.
+(7) Antrepo veya depodan gümrük idaresinden izin
+alınmaksızın eşya giriş-çıkışı yapılan haller dışında;
+a) Akaryakıt konulan tankın mühürlü olması,
+b) Sayaçtan veya tanktaki elektronik ölçüm
+cihazından herhangi bir eşya giriş çıkışı tespit edilmemesine rağmen yapılan
+manuel ölçümler sonucunda farklılık çıkması,
+c) Farklılığın eşyanın özelliğinden
+kaynaklandığının tespit edilmesi ve bu farklılığın sayaç sistemi ve elektronik
+ölçüm sistemiyle desteklenmesi
+halinde ölçüm farklılıkları nedeniyle ceza veya
+tasfiye işlemi uygulanmaz. İlgili beyannamede düzeltme yapılarak düzeltmeye
+ilişkin belgeler işlem dosyasında saklanır. Sıcaklık farklılıkları ve
+benzeri nedenlerle tanktaki eşya miktarındaki farklılıklara ilişkin bu
+fıkraya göre işlem yapılması halinde beyannamede düzeltme yapılarak gümrük
+işlemleri tamamlanır.
+Depo
+işleticisi ve eşya sahibinin sorumluluğu ve yükümlülükleri
+MADDE 10
+– (1) Yurtdışı edilecek eşya hariç
+olmak üzere, antrepo rejimine tabi tutulmaksızın doğrudan başka bir gümrük
+rejimine tabi tutulacak akaryakıt ile depolara alınacak LPG, depo
+işleticisi veya sahibine kullanılmadan muhafaza edilmek üzere teslim
+edilir. Depo işleticisi, akaryakıtın gümrük gözetimi altında bulunmasını ve
+iyi muhafaza edilmesini sağlamak zorundadır.
+(2) Depo işleticisi ve/veya eşya sahibi, depoya
+alınan eşyanın tespit edilen miktarı üzerinden, eşya değiştirilmesinden
+gümrük idaresine karşı mali bakımdan sorumludur. Bu sorumluluk, eşyanın
+gümrük idaresince tespit olunan veya belgelerinde ve beyannamesinde yazılı
+miktarına ve cinsine göre Gümrük Yönetmeliği ekinde belirlenen fire
+oranları içinde kalmaması durumunda bunlara ait gümrükçe tahsil edilen
+vergi ve cezaların ödenmesini kapsar.
+(3) Depo işleticisi tarafından her bir özet
+beyan-konşimento ve/veya beyanname kapsamı akaryakıtın ayrı ayrı tanklara
+alınması esastır. Aynı tanka birden fazla konşimento ve/veya beyanname
+kapsamı akaryakıtın alınmak istenmesi halinde tanktaki mevcut akaryakıt
+miktarı ve akaryakıtın özellikleri gümrük idaresine bildirilir. Gümrük
+idaresince, kısmen dolu olan bir tanka yeni akaryakıt konulmasına, yeni
+gelen akaryakıtın önceki akaryakıt ile aynı cins ve nev’iden ve aynı vergi
+oranına tabi olması durumunda izin verilir ve tahliyeye başlanmadan önce
+tanktaki akaryakıt miktarı tespit edilir. Tanktaki akaryakıt miktarı tespit
+edilmeden tanka akaryakıt alınmaz.
+(4) Akaryakıt tanka alındıktan sonra tank boru
+bağlantıları güvenlikli gümrük mührü ile mühürlenir. Gümrük işlemleri
+tamamlanana kadar güvenlik mühürleri çıkarılmaz.
+(5) Depo işleticilerinin sorumlulukları açısından
+antrepo işleticilerinin gümrük idaresine karşı sorumluluklarına ilişkin
+hükümler uygulanır.
+(6) Sayaç sistemlerinin bulunduğu alanların gümrük
+idaresince kamera ile anlık olarak izlenebilmesi gerekir.
+(7) Depoda bulunan tankların ölçümünün, uygun
+cihazlarla yapılması esastır. Depo işleticileri, ölçümde kullanılan cihaz
+ve bilgisayarların nitelik ve sıhhatlerini kontrol ettirmek, gümrük
+idaresinin talebi halinde ölçüme ilişkin ve stok mevcudunu gösterir
+listeleri gümrüğe ibraz etmek zorundadır. Uygulanacak bu teknikler herhangi
+bir zamanda eşyanın mevcudunun tespitine imkân vermelidir.
+Gümrük
+işlemleri
+MADDE 11
+– (1) Gümrük Yönetmeliğinin 542
+nci maddesinin birinci fıkrası uyarınca deniz yoluyla Türkiye Gümrük
+Bölgesine getirilen akaryakıtın doğrudan serbest dolaşıma girişinde veya
+antrepo rejimi dışında bir gümrük rejimine tabi tutulmasına ilişkin
+talepler gümrük idaresince karşılanır. Bu kapsamda işlem yapılması istenen
+akaryakıtın miktar tespitinde sayaç sistemi kullanılması zorunludur. Numune
+alınmasına ilişkin işlemlerin 9 uncu madde uyarınca yapılması esastır.
+(2) LPG dışındaki akaryakıtın, antrepo rejimine
+tabi tutulmaksızın doğrudan başka bir gümrük rejimine tabi tutulabilmesi
+için, eşyanın gümrük işlemleri tamamlanana kadar antrepo açma ve işletme
+izni bulunan tesislerdeki tanklara konulması esastır.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Yetki
+MADDE 12
+– (1) Bu Tebliğ kapsamındaki özel
+durumlar ile akaryakıt eşyasının özelliği itibariyle sayaç ve otomasyon
+sisteminin kurulmasına ilişkin talep ve işlemleri inceleyip
+sonuçlandırmaya, bu işlemler için ek süre vermeye Gümrük ve Ticaret
+Bakanlığı (Tasfiye Hizmetleri Genel Müdürlüğü) yetkilidir.
+Geçiş
+hükümleri
+GEÇİCİ
+MADDE 1 – (1) Bu Tebliğ
+kapsamındaki fuel-oil işlemlerinde sayaç ve otomasyon sistemlerinden elde
+edilen bilgiler kontrol ve veri amacıyla diğer ölçümleri destekleyici
+nitelikte kullanılır.
+(2) Fuel-oil dışında kalan diğer akaryakıt
+işlemlerinde sayaç ve otomasyon sistemlerinden elde edilen bilgiler
+15/2/2018 tarihine kadar kontrol ve veri amacıyla diğer ölçümleri
+destekleyici nitelikte kullanılır.
+Yürürlük
+MADDE 13
+– (1) Bu Tebliğ 15/2/2017
+tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 14
+– (1) Bu Tebliğ hükümlerini Gümrük
+ve Ticaret Bakanı yürütür.
