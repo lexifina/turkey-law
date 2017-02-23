@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6942",
+  "decision_date": "2017-02-23",
+  "title": "Enerya Aydın Gaz Dağıtım A.Ş.’nin perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-02-25",
+  "resmi_gazete_number": "29990",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JOVx+f7aauc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JOVx+f7aauc="
+  ],
+  "source_sha256": "7a7a5caf826d4fa251944b88a761c4572b694fcb8cce4998a438444fb6984ee5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2017-02-23",
+  "law_text_complete": false
+}
