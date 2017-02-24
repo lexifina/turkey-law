@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.39.10.00-010-2",
+  "source_id": 31219,
+  "date": "2017-02-24",
+  "title": "Kızılay Derneğine yapılan su teslimi ve tıbbi atık hizmetlerinde KDV",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31219",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "5c4f3f5b93b9ae4ec505ebfadbbeeacc293660dc5a0dab14b14c64cfbd19e05e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
