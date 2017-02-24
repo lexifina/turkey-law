@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.23358",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK GIDA KODEKSİ GIDA KATKI MADDELERİ, GIDA ENZİMLERİ VE GIDA AROMA VERİCİLERİNE İLİŞKİN ORTAK İZİN PROSEDÜRÜ HAKKINDA YÖNETMELİK",
+  "number": "23358",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2017/23358",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23358&MevzuatTertip=5",
+  "source_sha256": "4da2f0803d6d14b41b816f0033c82918d60facef89a0086ac0b1e93b62166438",
+  "source_bytes": 71864,
+  "published": "2017-02-24",
+  "gazette": "29989",
+  "in_force": "2017-02-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.02.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3566,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23358-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
