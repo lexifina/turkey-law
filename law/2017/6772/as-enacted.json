@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6772",
+  "year": 2017,
+  "title": "Serbest Bölgeler Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-02-24",
+  "gazette_issue": "29989",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/02/20170224-1.htm",
+  "source_sha256": "d3f4319cd912cfc32f544db10bee8281547b460fc77231df187124e4ca30f9a4",
+  "text_sha256": "bbad1b32409df7514541a30aa220dd7ef13debba1ccc6c7164c582e39da59aab",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/02/24/29989-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/02/20170224-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
