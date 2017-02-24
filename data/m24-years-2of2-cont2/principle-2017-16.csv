@@ -1,0 +1,2 @@
+year,number,published,title,source,source_sha256,representation,act_path,words,omitted_sections,note
+2017,16,2017-02-24,Kurul’un 24/02/2017 Tarih ve 8/297 Sayılı Kararı,https://mevzuat.spk.gov.tr/api/IlkeKarari/File/16,942ca678eb8c736fc9dd6253ba43528e5b06e95ff6e6e863b60c0405c9e3d778,regulatory-text,norm/spk/principle/2017/16,169,,whole official standalone text; decision date independently present in PDF
