@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2017/170",
+  "list_number": "170",
+  "decision_date": "2017-02-27",
+  "title": "Yurt dışı seçmen kütüğüne kayıtlı seçmenlerin Samsun İli Çarşamba İlçesinde bulunan Samsun Havalimanında oylarını kullanabileceğine ilişkin Yüksek Seçim Kurulunun 2017/170 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/5045/2017-170.pdf",
+  "source_sha256": "b086fef5849fcc9f3883b23227004756a9da85883d09e0eee4afdb8358db1987",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2017-02-27",
+  "law_text_complete": false
+}
