@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-155[9.2015/298]-56722",
+  "source_id": 35272,
+  "date": "2017-02-27",
+  "title": "Anonim şirketin nevi değiştirerek kooperatife dönüştürülmesinde damga vergisi ve harç uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35272",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "b5fafaf1c9a9b7e397707e02fac346a8115a4cccd71290d91b6c2b75650a0143",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
