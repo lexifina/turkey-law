@@ -1,0 +1,2 @@
+Müdür
+MADDE 7 – (1) Müdür; Üniversitenin Orman Fakültesi tam zamanlı ve kadrolu, ormancılık alanında ulusal ve uluslararası düzeyde araştırmaları olan öğretim üyeleri arasından, Rektör tarafından üç yıl için görevlendirilir. Süresi sona eren Müdür yeniden görevlendirilebilir. Müdür, Merkezin tüm faaliyetlerinden Rektöre karşı sorumludur. Müdür, çalışmalarında kendisine yardımcı olmak üzere, Üniversite öğretim üyelerinden en fazla iki kişiyi Müdür yardımcısı olarak görevlendirmek üzere Rektörün onayına sunar.
