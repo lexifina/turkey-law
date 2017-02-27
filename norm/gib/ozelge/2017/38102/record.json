@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76464994-135[ÖTV.2016.258] - 17182",
+  "source_id": 38102,
+  "date": "2017-02-27",
+  "title": "Harp veya vazife malulü yakınlarının araç alımında ÖTV istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38102",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "3828f43cd95f67cfc7f850696a5c07ca89d6f6c81679e7c9fcb4e3af06e3827d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
