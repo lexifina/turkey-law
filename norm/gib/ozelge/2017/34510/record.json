@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-155[2016/294]-56720",
+  "source_id": 34510,
+  "date": "2017-02-27",
+  "title": "6502 sayılı Tüketicinin Korunması Hakkında Kanun kapsamında düzenlenen mesafeli satış sözleşmelerinin damga vergisine tabi olup olmadığı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34510",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "55acec70a26af9272fcd3d042566413755a4b27b9799e87810eeafce462913cd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
