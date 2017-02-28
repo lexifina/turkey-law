@@ -1,0 +1,29 @@
+{
+  "number": "month-02",
+  "year": 2017,
+  "month": 2,
+  "title": "KARAR DETAYI (SUBAT2017.pdf)",
+  "decision_date": null,
+  "index_date": "2017-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2017",
+  "source": "https://www.ardesen.bel.tr/Karar/2017-subat-meclis-kararlari.html",
+  "official_page": "https://www.ardesen.bel.tr/Karar/2017-subat-meclis-kararlari.html",
+  "official_document": "https://www.ardesen.bel.tr/tema/osmanemre/uploads/meclis_kararlari/dosya/SUBAT2017.pdf",
+  "source_sha256": "798d8b100788c6b30119ec6f3b830dc0d34064369af3a51deefd0e7e9763633e",
+  "issuer": "Ardeşen Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2017-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "KARAR DETAYI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "date_read_from": "official file name"
+}
