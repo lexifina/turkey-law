@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-89 / 2017-2",
+  "source_id": 752,
+  "date": "2017-02-28",
+  "title": "e-Defterlerin oluşturulma ve imzalanma süresi ile aynı sürede Gelir İdaresi Başkanlığı Bilgi İşlem Sistemine yüklenmesi gereken “Elektronik Defter Beratları”nın yüklenme süresinin uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/752",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "e5b4d5dbd2bfbde1468a2a87261bd97d451dacfeb8b0e1b3122e7366ee458ba1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
