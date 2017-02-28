@@ -1,0 +1,29 @@
+{
+  "number": "month-02",
+  "year": 2017,
+  "month": 2,
+  "title": "2017 ŞUBAT AYI MECLİS KARARLARI(2017-02)",
+  "decision_date": null,
+  "index_date": "2017-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2017",
+  "source": "https://www.nevsehirozelidare.gov.tr/2017-subat-ayi-meclis-kararlari2017-02",
+  "official_page": "https://www.nevsehirozelidare.gov.tr/2017-subat-ayi-meclis-kararlari2017-02",
+  "official_document": "https://www.nevsehirozelidare.gov.tr/2017-subat-ayi-meclis-kararlari2017-02",
+  "source_sha256": "b07ad5000d6f607f837fd6d7e432ec70e13f29e543658f87278eb1d8f5b2f790",
+  "issuer": "Nevşehir İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2017-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2017 ŞUBAT AYI MECLİS KARARLARI(2017-02)",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
