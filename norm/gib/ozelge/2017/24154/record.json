@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[Mük80-16/14]-63676",
+  "source_id": 24154,
+  "date": "2017-02-28",
+  "title": "Hisse Senetlerinin İktisap Tarihi Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24154",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "dcfcca3d6d3a3056a0ee940ee0f5a6feccdeb8b4261bc680c657f6aeeb820c37",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
