@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130-64740",
+  "source_id": 30871,
+  "date": "2017-03-01",
+  "title": "İhracatı gerçekleşen malların muhatap firmayla yaşanan sorunlar nedeniyle ihraç edilen ülkede başka bir firmaya satışında ihracatın beyanı ve KDV'nin iade dönemi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30871",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "f6d3e2bc1b4066f72f21d3750e4e6044f42671c89ce6cfa4a5fcee0884e7d860",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
