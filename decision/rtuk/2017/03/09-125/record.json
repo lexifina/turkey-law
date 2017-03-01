@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2017/09",
+  "meeting_date": "2017-03-01",
+  "meeting_date_as_published": "1.3.2017",
+  "decision_no": "125",
+  "source_id": 9039,
+  "title": "RTÜK kararı 2017/09-125",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/9039",
+  "source_sha256": "80ebf5d4bf4065cdd3a794f44e0c92b9c7041624e7c76cfe297b5747cbe8f0d8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
