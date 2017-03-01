@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2017/09",
+  "meeting_date": "2017-03-01",
+  "meeting_date_as_published": "1.3.2017",
+  "decision_no": "126",
+  "source_id": 9065,
+  "title": "RTÜK kararı 2017/09-126 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/9065",
+  "source_sha256": "0772c61c552d74da3e0a66cff3770f33a34d8e3ec24a94eaed4606469ac17e99",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
