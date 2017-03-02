@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6950",
+  "decision_date": "2017-03-02",
+  "title": "Elektrik piyasasına ilişkin ilgili mevzuat kapsamında üretim lisansı sahibi şirketlerin süre uzatımı talebinde bulunmaları ve/veya yerinde inceleme yapılması gibi durumlarda kümülatif fiili ilerleme oranlarının hesaplanmasına ilişkin",
+  "resmi_gazete_date": "2017-03-14",
+  "resmi_gazete_number": "30007",
+  "categories": [
+    "Önlisans ve Lisansa ilişkin Diğer Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p8MDlSVIT2E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p8MDlSVIT2E="
+  ],
+  "source_sha256": "2ae753a09c84d26ad2299dcfe2c9d0ddd3397da4d7bbfdb97e2b403435b0d7da",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33886,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document unreadable (KeyError)",
+  "in_force": "2017-03-02",
+  "law_text_complete": false
+}
