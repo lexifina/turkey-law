@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "160",
+  "decision_date": "2017-03-02",
+  "source_id": 24239,
+  "chamber": "4",
+  "ilam_number": "199",
+  "item_number": 25,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24239/",
+  "source_sha256": "11abd77a8604605e9db4c43ac5652ef9b97552b6bec6f71bc30107dba6ba6d54",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
