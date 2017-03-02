@@ -1,0 +1,2 @@
+İnceleme ve araştırmanın sonlandırılmayacağı hâller
+MADDE 30 – (1) Şikâyetten vazgeçme, şikâyete konu talebin idarece yerine getirilmesi ve şikâyetçinin ölümü veya tüzel kişiliğinin sona ermesi hâllerinde şikâyet konusunun; insan haklarına, temel hak ve özgürlüklere, kadın haklarına, çocuk haklarına ve kamuyu ilgilendiren genel konulara yönelik olması durumunda inceleme ve araştırmaya devam edilebilir.

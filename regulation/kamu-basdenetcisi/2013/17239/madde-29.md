@@ -1,0 +1,2 @@
+İncelenmekte olan şikâyet hakkında dava açılması
+MADDE 29 – (1) İnceleme ve araştırma devam ederken şikâyet konusuyla ilgili olarak dava açılması hâlinde Kurum inceleme ve araştırmasını dava sonuçlanıncaya kadar bekletebilir veya şikâyet başvurusunun mahiyetine göre inceleme ve araştırmasını sonlandırabilir. Bekletilen şikâyet başvurusu hakkında kesinleşen dava sonucuna göre Kurum, inceleme ve araştırmayı karara bağlar.
