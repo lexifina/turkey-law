@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "188",
+  "decision_date": "2017-03-02",
+  "source_id": 24256,
+  "chamber": "7",
+  "ilam_number": "214",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24256/",
+  "source_sha256": "4b989cdc63b850ac53fafd66192c50c9925103add6cfd2409e9a0d050519f4f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
