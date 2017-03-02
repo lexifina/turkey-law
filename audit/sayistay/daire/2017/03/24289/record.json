@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "188",
+  "decision_date": "2017-03-02",
+  "source_id": 24289,
+  "chamber": "7",
+  "ilam_number": "214",
+  "item_number": 35,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24289/",
+  "source_sha256": "a87e0e3fc77215e5413c5969d93ea206cd64a205e452b01a32e536e14b44a76c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
