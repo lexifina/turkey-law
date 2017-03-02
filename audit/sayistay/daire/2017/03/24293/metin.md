@@ -1,0 +1,15 @@
+hizmet alımı:
+
+39- …. Tem.Taş.San. ve Tic.Ltd.Şti’ye yükleniminde gerçekleştirilen “Park, rekreasyon alanları ile cadde, yol ve ağaçlandırma sahalarında sulama hizmet alımı” işinde, ihalenin Kamu İhale Kurumunca 24.06.2015 tarihinde  iptal edilmesine ve kararın belediyeye 08.07.2015 tarihinde tebliğ edilmesine rağmen hakediş ödemesinin devam ettirilmesi suretiyle kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede;
+
+…. Büyükşehir Belediyesi ….2015 tarihinde “Arazöz ve Traktör Kiralama İşi” ihalesini gerçekleştirmiştir. İhaleye 7 istekli katılmış ve 5 isteklinin teklif değerlendirmesi idarece istenen şartların taşınmamasından dolayı iptal edilmiştir. Diğer 2 istekliye de idare aşırı düşük teklif sorgulaması yapmıştır. Aşırı düşük teklif sorgulaması yapılan şirketlerden …. Nakliyat’ın verdiği cevap idarece yeterli görülmediğinden dolayı ihale …. Ltd.Şti. bünyesinde kalmıştır.
+
+Teklifi değerlendirme dışı bırakılan 5 istekliden olan … Ltd.Şti.  ise ….2015 tarihinde idareye şikayet başvurusunda bulunmuştur.  İdarenin 10 gün içinde yapılan şikayet başvurusuna cevap vermemesi üzerine ilgili firma ….2015 tarihinde Kamu İhale Kurumu’na itirazen şikayet başvurusunda bulunmuştur. … Büyükşehir Belediyesi ihaleyi kazanan şirketle şikayet süreci sonuçlanana kadar sözleşme imzalamaması gerekirken bunu dikkate almamış ve …. Ltd.Şti. ile ….2015 tarihinde sözleşme imzalamıştır.
+
+….2015 tarihinde Kamu İhale Kurumu … Şti.’nin yaptığı şikayet başvurusunu mevzuata aykırı görmüş ve ihaleyi kazanan … Ltd.Şti’nin de yeterlilik şartlarını taşımadığını tespit etmiştir. Böylelikle Kamu İhale Kurumu ihalenin iptal edilmesi gerektiğine oy birliğiyle karar vermiş ve belediyeye ….2015 tarihinde tebliğ etmiş, ancak ….2015 tarihine kadar hakediş ödemesi yapılmaya devam edilmiştir.
+
+Her ne kadar ihalenin iptal kararının belediyeye tebliğinden itibaren sözleşmenin iptal edilmesi gerekmekte ise de, sorumlularca yapılan savunmada da ifade edildiği üzere, hava şartlarının çok kurak olması sebebiyle yeni bir ihale sürecinin beklenmesi olanağı bulunmadığından idarece kısa bir süre iş devam ettirilmiştir.
+
+Denetçi görüşünde hava koşulları sebebiyle işin durdurulamayacağı kabul edilmekle birlikte, yeni bir ihale yapılıncaya değin pazarlık usulü ile hizmet alınılabileceği, bu sebeple işin durdurulmamasının mevzuata aykırı olduğu ve konunun İçişleri Bakanlığına yazılması gerektiği ifade edilmektedir. Bu süre için pazarlık usulü ile hizmet temin edilebileceği konusu tamamen bir varsayım üzerine kurulmuştur. Zira … TL ihale bedelli bir iş için yeterli şartları taşıyacak bir isteklinin bulunması ve bulunsa bile söz konusu yüklenicinin gerekli ekipman ve personeli iş için hazır hale getirmesi zaman alacak bir husustur. İdarece iptal kararından sonra işe devam edilen süre çok uzun bir süre olmayıp, mevcut hava koşulları dolayısıyla işin aciliyeti düşünüldüğünde mevzuata aykırılık bulunmamaktadır.
+
+Sonuç olarak; sorgu konusu …. TL ile ilgili olarak ilişilecek bir husus bulunmadığına, ayrıca konunun İçişleri Bakanlığına yazılmasına gerek bulunmadığına oy birliğiyle karar verildi.
