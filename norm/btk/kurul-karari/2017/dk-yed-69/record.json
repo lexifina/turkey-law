@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2017/DK-YED/69",
+  "date": "2017-03-02",
+  "title": "İştigal Konusu Değişiklik Takriri",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2017-03-02",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=83",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/3b6f65fe-09d3-4145-b7e9-d443fe139a05.pdf",
+  "source_sha256": "a65e93b93f72e75b959fe8029d7f9c167430a382386b9bce1398d48bcdde1787",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2017-03-02",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 02.03.2017; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
