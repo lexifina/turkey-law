@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "6955-3",
+  "decision_date": "2017-03-02",
+  "title": "Kurumca yapılan soruşturma sonucunda sayaç bağlantı aparatlarını temin etmedikleri ve/veya sayaç montaj işlemlerini gerçekleştirmedikleri tespit edilen doğal gaz dağıtım lisansı sahiplerinin söz konusu bedelleri ilgili abonelere iade etmeleri yönünde alınan Kurul Kararları çerçevesinde iade edecekleri bedelleri",
+  "resmi_gazete_date": "2017-03-10",
+  "resmi_gazete_number": "30003",
+  "categories": [
+    "Doğal Gaz Piyasası Denetim Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yJEMhqMkbmY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yJEMhqMkbmY="
+  ],
+  "source_sha256": "55033547898a5caaefa3b13064438def5345151338b02a30cd7d2880a5d40913",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7220,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-03-02",
+  "law_text_complete": true
+}
