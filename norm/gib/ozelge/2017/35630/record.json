@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-140.04.01[2017/793]-69429",
+  "source_id": 35630,
+  "date": "2017-03-03",
+  "title": "2942 sayılı Kamulaştırma Kanunu ve 2560 sayılı Kanunun uyarınca Büyükşehir Belediyelerince yapılan kamulaştırma işleminde harç muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35630",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "b311a4b2c3c23e6060311977f57cab2fd123e2a81698d81d1c033d438f4749f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
