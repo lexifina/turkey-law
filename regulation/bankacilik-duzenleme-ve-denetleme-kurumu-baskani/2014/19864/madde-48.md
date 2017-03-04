@@ -1,0 +1,6 @@
+İSEDES’in tesis edilmesi ve uygulanmasında bankanın sorumluluğu
+MADDE 48 – (1) Banka, risk profili ve faaliyet ortamıyla uyumlu içsel sermaye hedeflerini belirlemek üzere İSEDES’i tesis etmek ve uygulamakla sorumludur.
+(2) İSEDES’in tasarlanması ve banka içerisinde uygulanmasından Banka üst düzey yönetiminin tamamı müştereken, yönetim kurulu üyeleri ise müteselsilen sorumludur.
+(3) Metodolojiler, varsayımlar, süreçler ve sermaye politikasını içeren İSEDES yönetim kurulu tarafından incelenmeli ve onaylanmalıdır. İSEDES sonuçları, ihtiyaç duyulan sıklıkta üst yönetime raporlanır.
+(4) Banka, tesis ettiği İSEDES’in Kurum tarafından yayımlanan düzenlemeleri ve alınan kararları karşılayacak nitelikte olduğunu ispatlamakla yükümlüdür.
+(5) İSEDES’in tesis edilmesinde 5/11/2011 tarihli ve 28106 sayılı Resmî Gazete’de yayımlanan Bankaların Destek Hizmeti Almalarına İlişkin Yönetmelik hükümleri çerçevesinde dışarıdan destek alınması durumunda alınan desteğin düzeyine bakılmaksızın bankanın ve ilgili birim veya kişilerin sorumluluğu devam eder. Dışarıdan alınan desteğin, İSEDES’in bankanın münferit risk profiline ve kendine özgü hususları yansıtma kabiliyetine zarar vermemesi gerekir. Standart bir yaklaşımın benimsenmesine müsaade edilmez.

@@ -1,0 +1,5 @@
+Uyum kontrolleri
+MADDE 18 – (1) Uyum kontrolleri vasıtasıyla, bankanın gerçekleştirdiği ve gerçekleştirmeyi planladığı tüm faaliyetlerin ve yeni işlemler ile ürünlerin Kanuna ve ilgili diğer mevzuata, banka içi politika ve kurallar ile bankacılık teamüllerine uyumunun sağlanması hedeflenir. Kanun ve ilgili diğer mevzuat ile banka içi politika ve kurallardaki değişiklikler hakkında, banka personelinin en kısa sürede bilgilendirilmesi sağlanır.
+(2) Uyumun kesintisiz kontrolü, iç kontrol birimi veya uyum kontrolüyle görevlendirilecek ve iç kontrol birimi ile aynı iç sistemler sorumlusuna bağlı olarak çalışacak bankanın diğer faaliyetlerinden bağımsız olarak örgütlendirilecek bir birim tarafından gerçekleştirilir.
+(3) Yeni ürün ve işlemler ile gerçekleştirilmesi planlanan faaliyetler için yönetim kurulundan onay alınmadan önce ikinci fıkra uyarınca görevlendirilen birimden görüş alınır.
+(4) Bankanın yurt dışı şubelerinde ve konsolidasyona tâbi ortaklıklarında, yurt dışı düzenlemelere uyumu kontrol edecek asgari birer personel görevlendirilir ve ikinci fıkra uyarınca, uyum kontrolüyle görevlendirilmiş birime bağlı olarak raporlama yapmaları sağlanır.

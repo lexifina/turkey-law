@@ -1,0 +1,4 @@
+Uygun ve elverişli ölçme-değerlendirme yöntem ve süreçlerinin bulunması
+MADDE 55 – (1) Banka; ölçeği, risk profili, faaliyetleri, iş ve işlemlerinin hacmi ve niteliğine göre ve ölçülülük prensibi doğrultusunda her bir risk türü için ölçüm yöntemi belirler. Uygulanacak yöntem, yasal sermaye hesaplamalarından ekonomik sermaye modellerine kadar çok sayıda alternatif arasından en uygunu aranarak seçilir.
+(2) Banka, İSEDES kapsamındaki ölçüm ve değerlendirmelerinde, risklere ilişkin nicel veriler yanında nitel faktörleri ve risklerin yönetim kalitesinide dikkate alır. Sayısallaştırılamayan riskler ise mümkün olduğunca somut tespitler ve nesnel göstergeler kullanılarak değerlendirilir.
+(3) İSEDES kapsamında yapılan risk ölçümü ve değerlendirmelerinden elde edilen sonuçlar, strateji ve risk iştahı belirlenirken dikkate alınır.

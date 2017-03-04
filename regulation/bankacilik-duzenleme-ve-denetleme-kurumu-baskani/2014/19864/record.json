@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.19864",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BANKALARIN İÇ SİSTEMLERİ VE İÇSEL SERMAYE YETERLİLİĞİ DEĞERLENDİRME SÜRECİ HAKKINDA YÖNETMELİK",
+  "number": "19864",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2014/19864",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19864&MevzuatTertip=5",
+  "source_sha256": "13f3452239a06582d5e5d56c160afff28851b4af360397d982f3e4b66589b2fb",
+  "source_bytes": 233284,
+  "published": "2014-07-11",
+  "gazette": "29057",
+  "in_force": "2017-03-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/3/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-03-04",
+      "RG-4/3/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-03-04",
+      "4/3/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-01-20",
+      "RG-20/1/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-01-20",
+      "20/1/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-01-19",
+      "RG-19/1/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-10-23",
+      "RG-23/10/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-10-23",
+      "23/10/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 14663,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

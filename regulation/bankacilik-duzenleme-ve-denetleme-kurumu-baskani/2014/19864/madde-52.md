@@ -1,0 +1,4 @@
+Riske dayalılık
+MADDE 52 – (1) (Değişik:RG-23/10/2015-29511)(1) İSEDES riske dayalı olarak tesis edilir. Bu süreçte banka, içsel sermaye yeterliliğini değerlendirirken öncelikle risk profilini ve faaliyet gösterdiği çevreye ait koşulları ortaya koymalı ve sonrasında bu unsurları dikkate alarak içsel sermaye gereksinimi seviyesini belirlemelidir.
+(2) (Değişik:RG-23/10/2015-29511)(1) Banka, içsel sermaye gereksinim seviyesini belirlerken derecelendirme kuruluşlarının bankaya vereceği nota ilişkin beklenti ve hedeflerini, piyasadaki itibarını, stratejik hedeflerini, yasal değişiklikleri ve gerekli gördüğü diğer faktörleri de dikkate alır.
+(3) İSEDES kapsamında sayısallaştırılamayan riskler de açıkça belirtilir. Bunlara yönelik risk değerlendirmesi ve azaltımı, nitel teknik ve araçlar kullanılmak suretiyle yapılır.
