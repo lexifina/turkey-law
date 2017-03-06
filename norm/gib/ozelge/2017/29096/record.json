@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130[1 -2014/11]-69843",
+  "source_id": 29096,
+  "date": "2017-03-06",
+  "title": "Turist Rehberleri Birliği tarafından verilen çalışma kartı, mesleki kitap, dergi, v.s. ile mesleğe giriş ve meslek geliştirme için yapılan sınavlar gibi sağlanan hizmetlerin vergilendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29096",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "6f875ed0d1d7896c3089a2c5eeb18b1922adb3a93fc1d68a7feb7f7ce1df621b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
