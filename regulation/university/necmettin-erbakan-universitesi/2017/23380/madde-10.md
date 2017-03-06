@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu, Müdür ve müdür yardımcıları ile Meram Tıp Fakültesinde görevli en az bir, Diş Hekimliği Fakültesinde görevli en az bir ve Sağlık Bilimleri Fakültesinde görevli en az bir öğretim elemanı olmak üzere Rektör tarafından görevlendirilen toplam dokuz kişiden oluşur.
+(2) Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üye yeniden görevlendirilebilir. Görev süresi bitmeden görevden ayrılan üyenin yerine kalan süreyi tamamlamak için Rektör tarafından ilgili birimden yeni üye görevlendirilir.
+(3) Yönetim Kurulu, yılda en az iki defa ve gerektiğinde Müdürün çağrısı üzerine salt çoğunlukla toplanır ve toplantıya katılan üyelerin salt çoğunluğu ile karar alır. Oyların eşitliği halinde Müdürün kullandığı oy yönünde çoğunluk sağlanmış sayılır.
