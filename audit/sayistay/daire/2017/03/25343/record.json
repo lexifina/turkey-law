@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "439",
+  "decision_date": "2017-03-07",
+  "source_id": 25343,
+  "chamber": "6",
+  "ilam_number": "266",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25343/",
+  "source_sha256": "073fd55b28e5f0f475b74a2458f772dd848f4facb1f1fbc5f255557b2416856c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
