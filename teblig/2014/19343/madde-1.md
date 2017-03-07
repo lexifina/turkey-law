@@ -1,0 +1,3 @@
+TÜRK STANDARDLARI ENSTİTÜSÜNÜN ONAYLANMIŞ KURULUŞ OLARAK
+GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (MHG/2014-04)
+MADDE 1 – (1) Avrupa Komisyonu tarafından 1783 kimlik kayıt numarası tahsis edilmiş olan ve Necatibey Caddesi No: 112 Bakanlıklar/ANKARA adresinde bulunan Türk Standardları Enstitüsü, 10/7/2013 tarihli ve 28703 sayılı Resmî Gazete’de yayımlanan Yapı Malzemeleri Yönetmeliği (305/2011/AB) çerçevesinde Ek-1’de yer alan kapsamda performansın değişmezliğinin değerlendirmesi ve doğrulaması faaliyetini yürütmek üzere Çevre ve Şehircilik Bakanlığı tarafından onaylanmış kuruluş olarak görevlendirilmiştir.
