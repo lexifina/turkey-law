@@ -1,0 +1,3 @@
+Genel esaslar
+MADDE 4 – (1) Ek-1’de verilen görevlendirme kapsamı, uyumlaştırılmamış standartlardan ve/veya ulusal teknik onaylardan hangilerinin Çevre ve Şehircilik Bakanlığı tarafından “009” kimlik kayıt numarası verilen Eurogap Belgelendirme ve Özel Eğitim Hizmetleri San. Tic. Ltd. Şti. tarafından yürütüldüğünü belirler.
+(2) “009” kimlik kayıt numarasının ek-1’de verilen kapsam haricindeki bir yapı malzemesine iliştirilen “G” işaretinde rastlanması veya aynı kimlik kayıt numarasının Eurogap Belgelendirme ve Özel Eğitim Hizmetleri San. Tic. Ltd. Şti.’nin dışında kullanılması hallerinde söz konusu “G” işaretinin geçerli olmadığına hükmedilir.
