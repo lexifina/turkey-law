@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Merkezin Organları ve Görevleri
+Merkezin organları
+MADDE 7 – (1) Merkezin yönetim organları şunlardır:
+a) Müdür.
+b) Yönetim kurulu.
+c) Danışma kurulu.
