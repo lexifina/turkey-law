@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "439",
+  "decision_date": "2017-03-07",
+  "source_id": 25369,
+  "chamber": "6",
+  "ilam_number": "266",
+  "item_number": 25,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25369/",
+  "source_sha256": "e7ff19db0ce8a62696f02484eb706796df7bc88e91d69ca4499e5b0c4d187fa8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
