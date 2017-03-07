@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 14 – (1) Danışma Kurulu; Müdür, Rektör tarafından görevlendirilen bir rektör yardımcısı, Müdür tarafından görevlendirilen bir müdür yardımcısı, Dekan, Dahili, Cerrahi ve Temel Tıp Bilimleri bölümlerinden Dekan tarafından görevlendirilen profesör unvanına sahip birer öğretim üyesi ve laboratuvarın sorumlu uzmanlarından iki kişi olmak üzere toplam dokuz kişiden oluşur.
+(2) Danışma Kurulu, rektör yardımcısının başkanlığında yılda en az bir kez olağan toplantısını yapar. Ancak Rektör, Dekan veya Müdür tarafından Danışma Kurulunun görüşüne ihtiyaç duyulması halinde rektör yardımcısı tarafından gündemli olarak olağanüstü toplantıya çağrılabilir.
+(3) Danışma Kurulunun görevi, Merkezin çalışmaları ile ilgili konularda tavsiye niteliğinde görüş ve önerilerde bulunmaktır.

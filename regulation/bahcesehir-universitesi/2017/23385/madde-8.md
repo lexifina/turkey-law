@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Müdür, Rektörün önerisi üzerine Mütevelli Heyeti Başkanı tarafından, Tıp Fakültesi öğretim elemanı veya idari kadrosundan olmak üzere, iki yıllık bir süre için görevlendirilir. Görev süresi biten Müdür yeniden görevlendirilebilir. Müdür aynı zamanda sağlıkla ilgili diğer birimlerin de yöneticisidir. Müdür, gerektiğinde Rektörün teklifi ve Mütevelli Heyetinin onayı ile iki yıllık süre dolmadan da görevinden alınabilir. Müdür, görevi başında olmadığı zaman müdür yardımcıları kendisine vekâlet eder.

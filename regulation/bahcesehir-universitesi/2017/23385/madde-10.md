@@ -1,0 +1,2 @@
+Müdür yardımcıları
+MADDE 10 – (1) Müdür yardımcıları; Tıp Fakültesi öğretim elemanları arasından, en fazla iki kişi olarak, Rektörün ve Müdürün önerisi üzerine Mütevelli Heyeti Başkanı tarafından iki yıllık bir süre için görevlendirilir. Görev süresi biten müdür yardımcısı yeniden görevlendirilebilir. Müdür yardımcıları, gerektiğinde Rektörün ve Müdürün teklifi üzerine, Mütevelli Heyetinin onayı ile iki yıllık süre dolmadan da görevinden alınabilir. Müdür yardımcıları, görevleri başında olmadığı zaman Merkez bünyesinde kendisinin belirleyeceği bir hekim vekalet eder.
