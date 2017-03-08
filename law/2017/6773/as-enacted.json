@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6773",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Rusya Federasyonu Hükümeti Arasında Türkiye Cumhuriyeti Topraklarında Bulunan Rus Defin Yerleri ile Rusya Federasyonu Topraklarında Bulunan Türk Defin Yerleri Hakkında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-9.htm",
+  "source_sha256": "c67a8076c563d14a7d3e641eb0b15d5f06573ce0dc17abd0f89cdc6f6cf13d24",
+  "text_sha256": "aaa73077fabc7575587b4a5fa747971678c869a30ab294b1036d411c4288ed01",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
