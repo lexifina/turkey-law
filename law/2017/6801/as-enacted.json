@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6801",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Çin Halk Cumhuriyeti Hükümeti Arasında 2010-2013 Yıllarına İlişkin Kültürel Değişim Programının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-37.htm",
+  "source_sha256": "e6641a64f84d89ae53efd9d42b98242c183eb376fac64cb65ce0d0eddbab8f28",
+  "text_sha256": "d1f63b160af31f0cc0d50567ba633360546882d425d4493967e1a0bfeb67843c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-37",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-37.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
