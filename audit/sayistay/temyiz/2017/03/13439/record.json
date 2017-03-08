@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42842",
+  "decision_date": "2017-03-08",
+  "source_id": 13439,
+  "chamber": "3",
+  "file_number": "41088",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13439/",
+  "source_sha256": "06103de962b8d8db1c304207f827508ce73112f26b6b864b6276c125e75224ee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
