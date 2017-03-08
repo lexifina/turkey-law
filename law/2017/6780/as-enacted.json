@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6780",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Benin Cumhuriyeti Hükümeti Arasında Savunma Sanayi İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-16.htm",
+  "source_sha256": "898a97df7530117d804f8c4745bed9b13e7f12e157675e5f1c717f63bbb3c777",
+  "text_sha256": "61c04539e5ac05eb00c78379c67e3257dcf418e527defd0abe25236b7ce1c101",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-16",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-16.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
