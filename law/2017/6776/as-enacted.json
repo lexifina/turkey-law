@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6776",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Dominik Cumhuriyeti Hükümeti Arasında Ekonomik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-12.htm",
+  "source_sha256": "92543cf3c07081cd5335440c489015087e9f3bfa289c648c3a1d7d3f4d3a0d35",
+  "text_sha256": "746394fc7b3e49b7c50af8af2f6b57bd81d74e5a8285695454ee16ed9ab2c2fe",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
