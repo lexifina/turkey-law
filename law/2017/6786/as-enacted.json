@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6786",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Pakistan İslam Cumhuriyeti Hükümeti Arasında Enerji Alanında İşbirliğine İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-22.htm",
+  "source_sha256": "d3f50d99f71c54144579f8ac680ed1c0ff08035e2ab317f001eef85814fb1283",
+  "text_sha256": "0a137eb376a6aa7f12529cc22ed3d298ce1db788fa0c22f2d514ee39ba241983",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-22",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-22.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
