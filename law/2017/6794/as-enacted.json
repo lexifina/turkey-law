@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6794",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Su Temini ve Yönetimine İlişkin Hükümetler Arası Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-30.htm",
+  "source_sha256": "0d9a3f3c33b60305e0492e16f9d35a1999a0f91b297045c0adcfa6c551d918bf",
+  "text_sha256": "6c581359e7d5c3fc728edd306526b2986953506cdcba4c14170a65c1b8f74d87",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-30",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-30.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
