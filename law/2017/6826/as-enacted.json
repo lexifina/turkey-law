@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6826",
+  "year": 2017,
+  "title": "Uluslararası Zeytinyağı ve Sofralık Zeytin Anlaşması (2015)'nın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-42.htm",
+  "source_sha256": "740b6835f6c7c833ce0500c97d331b37d3d56c5b1d7caeba7ad45d6f0e3fae91",
+  "text_sha256": "022649ad33e69b1afa5e6cc00dd9a7caa2f53d825e419b4139db715dc261cf1e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-42",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-42.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
