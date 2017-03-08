@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6777",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Benin Cumhuriyeti Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-13.htm",
+  "source_sha256": "4cf55020b6dc4190f82050c9e182ef6cb66834db223496cc3122f488ad9d10f6",
+  "text_sha256": "42897b864eee69912d7b573626701b6834c122e90e5f1a4f9afdef7ae1f4bd87",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
