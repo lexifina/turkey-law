@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6790",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Endonezya Cumhuriyeti Hükümeti Arasında Savunma Sanayi İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-26.htm",
+  "source_sha256": "e1006e46a0bd5c544d1790d291379be3a9b87811b97d6619d28cac3b6ee4937f",
+  "text_sha256": "adb77182bb59ca450c48c6e70594eb20cf3545a36fd99a66fe186f7ec92f8f04",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-26",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-26.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
