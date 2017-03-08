@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6797",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Sağlık Bakanlığı ile Çin Halk Cumhuriyeti Sağlık Bakanlığı Arasında Sağlık Alanında İşbirliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-33.htm",
+  "source_sha256": "2a15abcc3e8a8c8fda6b4fa3028ffc4b5f3bb7e46676106e2eac60f1e1117418",
+  "text_sha256": "d25dc1b7c26bc8344d7fcea1322626229f5d74c6ddb511a110ed866375f1e525",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-33",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-33.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
