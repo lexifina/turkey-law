@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6787",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Güvenlik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-23.htm",
+  "source_sha256": "bb693ee68a9d9069d3778b4dff3f066a8228e7b5c2d623873b0e462bd03794e3",
+  "text_sha256": "1d6d250a6026bfac993b9bcfa9f7c300a632ccc85fc6f86039dbdc2cc2060378",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-23",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-23.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
