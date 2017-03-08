@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6795",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Surinam Cumhuriyeti Hükümeti Arasında Dostluk ve İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-31.htm",
+  "source_sha256": "ce1ac8a69f66eb3d42bed2efb24f983c02079c7b765395a3d9a4cb53a38160aa",
+  "text_sha256": "8eff53ffbc16b463849a63f581cc5002ff8ff57904dd4e612ec27d32ee4909a6",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-31",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-31.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
