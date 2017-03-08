@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6781",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kuveyt Devleti Hükümeti Arasında Savunma Sanayi İşbirliği Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-17.htm",
+  "source_sha256": "f686de15b70f902feedc7f679f5dcaceed5b3e5a77dcaa389d2752228f00b2aa",
+  "text_sha256": "b8140c52d4c61656ff785f1106aa7a82d1e4fccab70f5a043456c87fb61caec0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-17",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-17.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
