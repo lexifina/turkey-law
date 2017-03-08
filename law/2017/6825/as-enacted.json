@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6825",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyetinin Orta Amerika Entegrasyon Sistemine Bölge Dışı Gözlemci Olarak Katılımı Konusunda Türkiye Cumhuriyeti ile Orta Amerika Entegrasyon Sistemi Arasında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-41.htm",
+  "source_sha256": "fc441dd39bd377b6febcaab5d9b5bdb6b3aa0250675d9236d0566f0a2dcf6964",
+  "text_sha256": "1b4647b9cc0b4f5ec08542442d400c6479f8faaa644d049c356f42f3173fc12e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-41",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-41.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
