@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.22892",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "5746 SAYILI ARAŞTIRMA, GELİŞTİRME VE TASARIM FAALİYETLERİNİN DESTEKLENMESİ HAKKINDA KANUN GENEL TEBLİĞİ (SERİ NO: 6)",
+  "number": "22892",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2016/22892",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=22892&MevzuatTertip=5",
+  "source_sha256": "9d21ac3388596ce7f2f723b5f993d7619fd483e5b8f8efe2fe511b0d4fbae307",
+  "source_bytes": 101959,
+  "published": "2016-09-30",
+  "gazette": "29843",
+  "in_force": "2017-03-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/3/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-03-08",
+      "RG-8/3/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/3/2016 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5853,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
