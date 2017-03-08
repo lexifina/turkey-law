@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": null,
+  "source_id": 637,
+  "date": "2017-03-08",
+  "title": "EMLAK VERGİSİ KANUNU İÇ GENELGESİ SERİ NO : 2017/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/icgenelge/637",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/icGenelge/list",
+  "source_listing": "evidence/list/2026-11-16/icGenelge-p000.json",
+  "source_listing_sha256": "f67e0a2102f72bb235e1a5040899d9489b05b3d457ed0145b7ee616be10187e7",
+  "source_sha256": "0feb2e00190a8378435da1cf41bc455712cabfccf93fd34f30b409c8cc75039f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
