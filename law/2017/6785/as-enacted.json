@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6785",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Büyük Britanya ve Kuzey İrlanda Birleşik Krallık Hükümeti Arasında Savunma Sanayi Alanında İşbirliği Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-21.htm",
+  "source_sha256": "3fd00969824d54d55cc3b3d59b7cba1f0aca8ddba5b706db4f7b528119655324",
+  "text_sha256": "025d911ba9fd43ec05e88557197ab34e466482a7758a84c4ffa739d565a1e158",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-21",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-21.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
