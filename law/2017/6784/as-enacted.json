@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6784",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile İran İslam Cumhuriyeti Hükümeti Arasında İmzalanan 22 Mart 2010 Tarihli Esendere ve Sero Kara Hudut Kapılarının Ortak Kullanımına Dair Anlaşmada Değişiklik Yapan Protokolün Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-20.htm",
+  "source_sha256": "264473666d575626c2bebd5ec60defeb46aea865d172220a2fae75f431d3b49b",
+  "text_sha256": "f450392fd7372ba61d78895526842cfe148b376c9f3715bc76f2df3793ee7db0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-20",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-20.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
