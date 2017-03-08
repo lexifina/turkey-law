@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6793",
+  "year": 2017,
+  "title": "Avrupa Konseyi Bakanlar Komitesinin Kültür Yollarına İlişkin Genişletilmiş Kısmi Anlaşmayı Tesis Eden Kararına Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-29.htm",
+  "source_sha256": "dc64e6ab26a214f0884e24da07d8786f26a33b47315fd381a69e871c1476ee0b",
+  "text_sha256": "40e88318bcb813696e08461b2aa79340fdf20d161320e5922908dacfdf022c28",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-29",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-29.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
