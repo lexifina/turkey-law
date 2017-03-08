@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6798",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Çin Halk Cumhuriyeti Hükümeti Arasında Bilgi ve İletişim Teknolojileri Alanında İşbirliği İçin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-34.htm",
+  "source_sha256": "20cb6a50ebd9af633cc1634ed72b11658738cd439da1b5d2d1dcb3bb5a263c40",
+  "text_sha256": "96b706d4c3caf7f7c2f68aa9696ebee12ea0e64dbf93dce208505baf4613bfe5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-34",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-34.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
