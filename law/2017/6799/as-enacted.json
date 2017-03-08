@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6799",
+  "year": 2017,
+  "title": "Avrupa Konseyi Terörizmin Önlenmesi Sözleşmesine Ek Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-35.htm",
+  "source_sha256": "8156b1115321db603246bda3029ff9647fb3b363a832f63682825c1a43ff90a7",
+  "text_sha256": "bc4cf78c4f329c857b9f3b5d3b84a32b97eb47ebf469c3cee4a05fe80147f074",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-35",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-35.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
