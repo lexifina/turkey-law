@@ -1,0 +1,3 @@
+Giriş sınavı
+MADDE 7 – (1) 2 nci maddede kapsamı belirtilen mühendis pozisyonlarına Giriş Sınavı ile atama yapılır. Giriş Sınavı, boş pozisyon ve ihtiyaç durumuna göre Genel Müdürlükçe uygun görülen zamanlarda Sınav Komisyonu tarafından yapılır. Giriş Sınavı yazılı ve sözlü sınavlardan oluşur.
+(2) Sınav Komisyonu, uygun gördüğü takdirde yazılı sınavı Ölçme, Seçme ve Yerleştirme Merkezi, Milli Eğitim Bakanlığı veya bu konuda uzmanlaşmış üniversiteler ile diğer kamu kurum ve kuruluşlarına da yaptırabilir. Bu durumda sınava ilişkin hususlar, Genel Müdürlük ile sınavın yaptırılacağı kuruluş arasında yapılan protokolle belirlenir.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Türkiye Taşkömürü Kurumu Genel Müdürlüğünün Taşra Teşkilatına Bağlı Müesseselerde Mekanize Kazı Projesi kapsamında kömür üretiminde mekanizasyonun sağlanarak üretim ve verimliliği arttırmak, daha emniyetli bir çalışma ortamı sağlamak amacıyla pilot bir kömür panosunda tam mekanize kazı uygulamasının gerçekleştirilmesinde görevlendirilmek üzere 399 sayılı KHK’ye tabi sözleşmeli mühendis pozisyonlarına açıktan ilk defa atanacakları kapsar.

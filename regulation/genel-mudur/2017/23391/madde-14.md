@@ -1,0 +1,2 @@
+Sözlü sınava çağrı
+MADDE 14 – (1) Yazılı sınavdan yüz tam puan üzerinden en az yetmiş puan alan adaylardan; yazılı sınavda en yüksek puandan başlamak üzere atama yapılması planlanan pozisyon sayısının dört katı kadar adayın isimleri (son sıradaki adayla eşit puan alanlar dâhil), sözlü sınav tarihi ve yeri de belirtilerek Genel Müdürlüğün internet sitesinde ilan edilir. Ayrıca yazılı sınavda başarılı olan adaylara elektronik ortamda bildirim yapılır.

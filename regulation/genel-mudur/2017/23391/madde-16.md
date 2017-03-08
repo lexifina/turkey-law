@@ -1,0 +1,3 @@
+Giriş sınavı sonuçlarının ilanı
+MADDE 16 – (1) Sınav Komisyonu; yazılı ve sözlü sınav notlarının aritmetik ortalaması alınarak nihai başarı listesini hazırlar. Sınav Komisyonu yarışma sınavından başarılı olan adaylar arasından gerekli görülen sayıda yedek aday belirler. Asıl ve yedek listelerinde sıralama yapılırken, adayların Giriş Sınavı puanının eşit olması halinde KPSSP3 puanı yüksek olan adaya öncelik tanınır. Sınav Komisyonunun belirlediği başarı listesi Personel Dairesi Başkanlığına gönderilir.
+(2) Başarı listesi Genel Müdürlüğün ilan panosunda ve internet sayfasında ilan edilir. Ayrıca, başarılı olan adaylara sonuç yazılı olarak tebliğ edilir.

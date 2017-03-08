@@ -1,0 +1,3 @@
+Sınav sonucuna itiraz
+MADDE 17 – (1) Adaylar, sınav sonuçlarının ilan edilmesinden itibaren beş iş günü içinde yazılı olarak Sınav Komisyonuna itiraz edebilirler. İtirazlar, itiraz süresinin bitiminden itibaren yedi iş günü içinde Sınav Komisyonunca incelenerek karara bağlanır ve sonuç adaya yazılı olarak bildirilir.
+(2) Giriş Sınavında yetmiş ve üzerinde puan almış olmak, sıralamaya giremeyen adaylar için müktesep hak teşkil etmez. Sınavda başarılı olanların sayısı ilan edilen pozisyon sayısından daha az ise sadece başarılı olanlar sınavı kazanmış kabul edilir. Yedek listede yer almak, adaylar için daha sonraki sınavlar için kazanılmış hak veya herhangi bir öncelik hakkı teşkil etmez.
