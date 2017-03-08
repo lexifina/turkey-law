@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6774",
+  "year": 2017,
+  "title": "Antarktika Andlaşması Çevre Koruma Protokolüne Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-10.htm",
+  "source_sha256": "4d3188304e0302ca4bb331791480ba31905c8522aac46a1673ae6514b8f5bc91",
+  "text_sha256": "2afbc53155a69f8581cb07d91a66dc784156c6e7815bda4e2c336043f109fa60",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
