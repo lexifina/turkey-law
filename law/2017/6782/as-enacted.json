@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6782",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti ile Faroe Adaları ile İlgili Olarak Danimarka Krallığı Arasında Serbest Ticaret Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-18.htm",
+  "source_sha256": "4cd0591216396aa9c9b910052bea62e1e7f91e742efdf83398ed36f5dab30f57",
+  "text_sha256": "07e678be2b7905ca47b1eae61c2166b074fdb3ab5f4deba4fb8f22d6a1299f1d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-18",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-18.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
