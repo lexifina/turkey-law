@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6800",
+  "year": 2017,
+  "title": "Enerji Şartı Antlaşmasının Ticaretle İlgili Hükümlerine Getirilen Değişikliklerin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-08",
+  "gazette_issue": "30001",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-36.htm",
+  "source_sha256": "989e89a714b97359bd30f5be99eb1fdd1a77b439061f9598aa7921fcb56df851",
+  "text_sha256": "90c158ac7d130bfb07c647d818c7a4665840f4f565e59183dee3788076ff0718",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/08/30001-36",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170308-36.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
