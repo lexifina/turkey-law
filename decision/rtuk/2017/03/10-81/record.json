@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2017/10",
+  "meeting_date": "2017-03-08",
+  "meeting_date_as_published": "8.3.2017",
+  "decision_no": "81",
+  "source_id": 9082,
+  "title": "RTÜK kararı 2017/10-81",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/9082",
+  "source_sha256": "ff4a1d2f3772da1df3bc90e26ad6f03696a79ceea96e43452762f295a9637944",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
