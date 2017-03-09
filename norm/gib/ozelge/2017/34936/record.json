@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[8-2016/216]-68261",
+  "source_id": 34936,
+  "date": "2017-03-09",
+  "title": "Yarışma programlarında verilen para ödüllerinin vergilendirilmesi ve belge düzeni.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/34936",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "4526e8f5c148a85c1b9940a9978b653103f879a388b35fd01c3f7f817ee93dc4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
