@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11355271-120.07.01[M81-2016/5]-14172",
+  "source_id": 23775,
+  "date": "2017-03-09",
+  "title": "Değer Artış Kazancının Tespitinde Maliyet Bedelinin Belirlenmesi ve İndirilecek Giderler hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23775",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "095a23e5488b272e861d513b720a689eae26c0f212a690bae2f53119f26727a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
