@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6820",
+  "year": 2017,
+  "title": "3 Mart 2005 Tarihinde Pretoriada İmzalanan Türkiye Cumhuriyeti ile Güney Afrika Cumhuriyeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşmasını Değiştiren Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-09",
+  "gazette_issue": "30002",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-35.htm",
+  "source_sha256": "a413e7713964069035729ee0bc75249802ce20bff33914e3c401ba71045b25a9",
+  "text_sha256": "1b7510c8de4e0d7074313d2403a475a63fa0f8869f2695b4dbb10cdbdf11aa3f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/09/30002-35",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-35.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
