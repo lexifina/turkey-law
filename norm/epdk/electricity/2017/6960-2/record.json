@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "6960/2",
+  "decision_date": "2017-03-09",
+  "title": "Dağıtım Lisansı Sahibi Tüzel Kişiler ve Görevli Tedarik Şirketlerinin Tarife Uygulamalarına İlişkin Usul ve Esaslar ve ulusal tarife kurul kararları ile belirlenen lisanssız üretici tek terimli dağıtım bedellerinin uygulanmasına, diğer üreticiler için ise OSB dağıtım bedellerine ilişkin kurul kararına ilişkin",
+  "resmi_gazete_date": "2017-03-15",
+  "resmi_gazete_number": "30008",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4sqoTvSYziE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4sqoTvSYziE="
+  ],
+  "source_sha256": "0a7840a2e34dc6f3097925387f74a3726da629a66e85cc9479119ff1d08718fb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-03-09",
+  "law_text_complete": true
+}
