@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6821",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Vietnam Sosyalist Cumhuriyeti Hükümeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-09",
+  "gazette_issue": "30002",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-36.htm",
+  "source_sha256": "16606bb043aa6e94c5fbb35312d8fab5d3b816b5c35ee718eea97d93dc9ce8f6",
+  "text_sha256": "40af7d6fee3184db21c5e254e3aa4d9eb684504428210b7a0b94cbae8bf68dbb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/09/30002-36",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-36.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
