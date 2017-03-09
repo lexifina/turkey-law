@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6805",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Sudan Cumhuriyeti Hükümeti Arasında Hidrokarbon Alanında İşbirliğine İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-09",
+  "gazette_issue": "30002",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-21.htm",
+  "source_sha256": "e0d07ae2a01a94f99a95fe00e550561d346a313452296664fb138a86d098c325",
+  "text_sha256": "c6f3cbcdcff3a210b44103b431ab1c3b980ebec2f7e600bff8397fcee78e1b08",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/09/30002-21",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-21.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
