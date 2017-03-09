@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6815",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Honduras Cumhuriyeti Hükümeti Arasında Ticaret ve Ekonomik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-09",
+  "gazette_issue": "30002",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-30.htm",
+  "source_sha256": "35f5858a356decab26a09d4dda331149e42a7b37a7eb0c92d523db55d84c6447",
+  "text_sha256": "72ddc0fd8dc25d2170741e33d995ddef85f12971f51ab03a7c6973377d7e82dd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/09/30002-30",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-30.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
