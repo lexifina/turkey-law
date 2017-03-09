@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6817",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Filistin Devleti Hükümeti Arasında Ekonomik İşbirliği Konseyi Kurulmasına Dair Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-09",
+  "gazette_issue": "30002",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-32.htm",
+  "source_sha256": "c1aa7127922b6c320fa0789dbec04a3270ed139914abc88bc7b590122d8ced50",
+  "text_sha256": "a2e9a1474334b423c53daf8f500eddfeff4cb1fa512a8bcc0d28029f54ee738a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/09/30002-32",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-32.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
