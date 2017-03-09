@@ -1,0 +1,22 @@
+{
+  "number": "86",
+  "number_as_published": "2017/86",
+  "year": 2017,
+  "title": "Eyüp İlçesi Çöp Toplama, Nakli ve Kent Temizliği Hizmet Alımı İşi ihale onayı",
+  "decision_date": "2017-03-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2017-mart-ayi-meclis-kararlari/929",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-86/932",
+  "source_sha256": "e977f63592e68af0fe71eb7d96ca3252475736d6cc22328a63510317e37f5b14",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-03-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.03.2017 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "887a0bd73015d3338603a97d66a5780d3e88d3f71174b0f57aed5abc41805bbb"
+}
