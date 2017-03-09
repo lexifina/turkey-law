@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6962-1",
+  "decision_date": "2017-03-09",
+  "title": "Akpet Akaryakıt Dağıtım A.Ş.’nin; PİL/1393-4-23381 sayılı İletim Lisansı kapsamında Güney Mah. Kabakoz Mevkii Körfez/KOCAELİ adresinde faaliyette bulunan Körfez İletim Tesisine ilişkin iletim tarifesine ilişkin",
+  "resmi_gazete_date": "2017-03-15",
+  "resmi_gazete_number": "30008",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TeToqWj4R3I=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TeToqWj4R3I="
+  ],
+  "source_sha256": "6d061a744b4edf8b16740e9c1f028c1ec551e280afe8aedb8e55986b95de0f04",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-03-09",
+  "law_text_complete": true
+}
