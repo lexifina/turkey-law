@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6814",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Vietnam Sosyalist Cumhuriyeti Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-09",
+  "gazette_issue": "30002",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-29.htm",
+  "source_sha256": "ef700bbc4573c2332a51deabdd8d3945c719738ed61d780634281ef4c3324cbf",
+  "text_sha256": "529bf1c2afcbb628a2f3ed1d9c84e243a1c3c68d84b7be2385d32f86ef2a174b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/09/30002-29",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-29.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
