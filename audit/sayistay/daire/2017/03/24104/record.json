@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "441",
+  "decision_date": "2017-03-09",
+  "source_id": 24104,
+  "chamber": "6",
+  "item_number": 1,
+  "account_year": 2013,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24104/",
+  "source_sha256": "7a10c664060bc0e03ff5a6b745db71d182c2bf7cf0408d2209f21ec14358df72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
