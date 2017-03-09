@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6819",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Gambiya Cumhuriyeti Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-09",
+  "gazette_issue": "30002",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-34.htm",
+  "source_sha256": "72669be876f70245efa200aa3d3eb8c7e0fb06d16d5d3e65f93a58c5345cd5ac",
+  "text_sha256": "291f5ec2f1340b35b983c073246e96988d27b15ea0b3361d49435292cb049b7e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/09/30002-34",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-34.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
