@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6807",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Cibuti Cumhuriyeti Hükümeti Arasında Enerji Alanında İşbirliğine İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-09",
+  "gazette_issue": "30002",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-22.htm",
+  "source_sha256": "b9888beec4a7bff331d429ccedbc381729a665c08a5fad59ec6393edb1a2c7ac",
+  "text_sha256": "085839d16e0a0dfe3681628d37d90bc3d5c68489dac84b75937337a793903940",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/09/30002-22",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-22.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
