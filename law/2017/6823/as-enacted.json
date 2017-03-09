@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6823",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Karadağ Hükümeti Arasında Konsolosluk Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-09",
+  "gazette_issue": "30002",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-38.htm",
+  "source_sha256": "b8ec5047a1f80ba4221911aedeb4b8b5742179a180f9aefbee4b9c780fa1a675",
+  "text_sha256": "3c9583db7c62d0c2190dd65e30885288e07882a86d592e649ec9506ccd9d6ae9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/09/30002-38",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-38.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
