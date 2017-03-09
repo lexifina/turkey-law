@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6962-3",
+  "decision_date": "2017-03-09",
+  "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş.’nin; DEP/1328-5/23031 sayılı Depolama Lisansı kapsamında Nusratiye Mahallesi - MERSİN adresinde faaliyette bulunan Liman Akaryakıt Depolama ve Dolum Tesisine ilişkin depolama tarifesine ilişkin",
+  "resmi_gazete_date": "2017-03-15",
+  "resmi_gazete_number": "30008",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Xe9npnc0eyY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Xe9npnc0eyY="
+  ],
+  "source_sha256": "f331945776a1b32906dcee24771940f599323507b70a85473584839eb30d465b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-03-09",
+  "law_text_complete": true
+}
