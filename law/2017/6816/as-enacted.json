@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6816",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Nikaragua Cumhuriyeti Hükümeti Arasında Ticaret ve Ekonomik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-09",
+  "gazette_issue": "30002",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-31.htm",
+  "source_sha256": "502c300ef841ff1f1c21980132033b2ab75c6f53b54cecbb72fcf2ed0402bf15",
+  "text_sha256": "f0532d7e3713116ba6dae3c3a284a93a0215987154b22a6af0b3a9a15e484abb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/09/30002-31",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-31.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
