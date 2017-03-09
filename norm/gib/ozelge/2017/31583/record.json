@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-130-68293",
+  "source_id": 31583,
+  "date": "2017-03-09",
+  "title": "Faydalı ömrü sona eren plastik ayakkabı kalıbı teslimlerinin KDV'den istisna olup olmadığı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31583",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "99189c813e4763b65ddf0cca4afb9431cdfaaee091746e3ac8f59b588affc65e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
