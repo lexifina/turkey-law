@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.23392",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE DENETİM STANDARTLARI TEBLİĞİ NO: 46 (KİLİT DENETİM KONULARININ BAĞIMSIZ DENETÇİ RAPORUNDA BİLDİRİLMESİ HAKKINDA BAĞIMSIZ DENETİM STANDARDI 701)",
+  "number": "23392",
+  "issuer": "Başkan",
+  "path": "teblig/2017/23392",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23392&MevzuatTertip=5",
+  "source_sha256": "3a5d37116b6eb35a2b6cfceb723b2f4eb02c892002fdb90a5c44a81b06d347e8",
+  "source_bytes": 10152,
+  "published": "2017-03-09",
+  "gazette": "30002",
+  "in_force": "2017-03-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.03.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 176,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23392-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
