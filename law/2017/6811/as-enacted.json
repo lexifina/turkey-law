@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6811",
+  "year": 2017,
+  "title": "Gelişen Sekiz Ülke Ekonomik İşbirliği Örgütü Şartının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-09",
+  "gazette_issue": "30002",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-26.htm",
+  "source_sha256": "ff233fbf6c7a27335070d413e149aa3542e27e002a23e797f2f963d838a7b1ef",
+  "text_sha256": "74a63796a167f8636795707a947a4fa1bbce1cfc91f99466de2365632b96d6a2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/09/30002-26",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170309-26.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
