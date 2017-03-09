@@ -2,9 +2,9 @@
   "record_type": "law-metadata",
   "document_type": "kanun",
   "number": "6982",
-  "year": 2016,
+  "year": 2017,
   "title": "Türkiye Cumhuriyeti Hükümeti ile Belçika Krallığı Hükümeti Arasında Sosyal Güvenlik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
-  "adopted": "2016-04-26",
+  "adopted": "2017-03-09",
   "date_basis": "last-sitting",
   "official_gazette_as_published": "03/04/2017 No: 30027",
   "committee_reports": [
@@ -49,18 +49,31 @@
           "pages": [
             "168"
           ]
+        },
+        {
+          "cilt": 43,
+          "sitting": 80,
+          "sitting_date": "2017-03-09",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c043/tbmm26043080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c043/tbmm26043fih.pdf",
+          "pages": [
+            "98:99",
+            "134:151"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=2&v_cilt="
         }
       ],
       "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
-      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=491&v_gelecek_sayfa=301&v_kullanici_id=27483208",
-      "page_sha256": "4e2375002d9be14117dd45919d846b406aab9b82148c58679511e6f6c9609c43"
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=491&v_gelecek_sayfa=301&v_kullanici_id=27484870",
+      "page_sha256": "43d5210ca746b85fc99b6eba1adf3d6dc42507fc1f76740df50cf6b4c7ff1e98"
     }
   ],
   "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
-  "source_sha256": "4e2375002d9be14117dd45919d846b406aab9b82148c58679511e6f6c9609c43",
+  "source_sha256": "43d5210ca746b85fc99b6eba1adf3d6dc42507fc1f76740df50cf6b4c7ff1e98",
   "issuer": "TBMM",
-  "in_force": "2016-04-26",
-  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2016-04-26); commencement not asserted",
+  "in_force": "2017-03-09",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2017-03-09); commencement not asserted",
   "history_type": "metadata",
   "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
   "law_text_complete": false,
