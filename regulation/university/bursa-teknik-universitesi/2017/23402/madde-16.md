@@ -1,0 +1,2 @@
+Araştırma grupları
+MADDE 16 – (1) Merkezin uygulama ve araştırma faaliyetlerinin verimli yürütülebilmesi amacı ile belirlenmiş alt araştırma ve uygulama alanlarında bilimsel araştırma grupları oluşturulabilir. Araştırma grubu üyeliği, Müdür tarafından önerilen aday ya da adayların Yönetim Kurulunca kabulü ile gerçekleşir. Araştırma gruplarına Müdürün önerisi ile Yönetim Kurulu tarafından bir koordinatör atanır ve grup faaliyetleri Müdür tarafından izlenir ve denetlenir.
