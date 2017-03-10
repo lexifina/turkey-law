@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6806",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sudan Cumhuriyeti Hükümeti Arasında Elektrik Alanında İşbirliğine İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-10",
+  "gazette_issue": "30003",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170310-9.htm",
+  "source_sha256": "b82e9eebcdf2c4ccf73576ea17c617b5ab309b008fa59b9cc02c5387a87634a6",
+  "text_sha256": "a82c27b1372d55af1f62a2d0a1d0acf3fc807f306f67df3547408d98a4b1ac4f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/10/30003-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170310-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
