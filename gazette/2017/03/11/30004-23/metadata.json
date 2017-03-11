@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-03-11",
+  "issue": "30004",
+  "edition": "regular",
+  "item": 23,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gider Vergileri Genel Tebliği (Seri No: 91)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170311-23.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170311.htm",
+  "index_sha256": "4708b4650224c682f0f6268d6883bfd0ee758f6caa2c130b0981d01da61926c0",
+  "index_header": "11 Mart 2017 ... 30004 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170311.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "13bd857c982ab1900f7d4e68ca6f327e77d42f6a42e6bcf87b2bea1289fdbce2",
+  "text_status": "text.txt as published"
+}
