@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.23412",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GİDER VERGİLERİ GENEL TEBLİĞİ (SERİ NO: 91)",
+  "number": "23412",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2017/23412",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23412&MevzuatTertip=5",
+  "source_sha256": "d07c116760416b2a75d9465e6ffd5fe8fc0e4afe2254768bfe1b305488616ce7",
+  "source_bytes": 30311,
+  "published": "2017-03-11",
+  "gazette": "30004",
+  "in_force": "2017-03-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.03.2017); own commencement article: \"Bu Tebliğ yayım tarihini izleyen ay başından itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayım tarihini izleyen ay başından itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1694,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
