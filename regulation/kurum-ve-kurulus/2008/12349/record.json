@@ -1,0 +1,92 @@
+{
+  "source_id": "7.5.12349",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AHİLİK HAFTASI KUTLAMALARI YÖNETMELİĞİ",
+  "number": "12349",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2008/12349",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12349&MevzuatTertip=5",
+  "source_sha256": "3b640567b09692c962ebe96dc5e443b99fbd76a863884d96fdc2ab9d5c596017",
+  "source_bytes": 45815,
+  "published": "2008-08-13",
+  "gazette": "26966",
+  "in_force": "2017-03-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/3/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-03-11",
+      "RG-11/3/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-03-11",
+      "11/3/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-08-06",
+      "RG-6/8/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-08-06",
+      "6/8/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-08-18",
+      "RG-18/8/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-08-18",
+      "18/8/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-03-17",
+      "RG-17/3/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-03-17",
+      "17/3/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-04-24",
+      "24/4/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-07-28",
+      "RG-28/7/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-07-28",
+      "28/7/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-04-02",
+      "RG-2/4/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1447,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
