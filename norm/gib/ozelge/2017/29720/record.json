@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[236-2015/VUK-1-19116]-72536",
+  "source_id": 29720,
+  "date": "2017-03-14",
+  "title": "Vekalet ücretinde belge düzeni ve KDV'nin konusuna girip girmediği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/29720",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "ef48bd5849f87a45020be660c41b127821bb6ad9db3b931be2694a1d39372557",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
