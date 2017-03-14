@@ -1,0 +1,3 @@
+Turkuaz Kart sahibi yakını ikamet izni başvurusu
+MADDE 7 – (1) Turkuaz Kart sahibi yakını için ikamet izni başvurusunun, Turkuaz Kart başvuru usulüne göre ve bu başvuru ile aynı anda Bakanlığa yapılması esastır. Ancak, yurtdışından yapılan Turkuaz Kart başvurusunda, Turkuaz Kart sahibi yakınının ikamet izni başvurusu için gerekli bilgilerinin bulunmaması halinde bu yabancıların başvuruları Türkiye’ye giriş tarihlerinden itibaren vize veya vize muafiyeti sürelerini aşmamak koşuluyla en geç doksan gün içinde Bakanlığa yapılabilir.
+(2) Turkuaz Kart sahibi yakını için yapılacak ikamet izni başvurusunda, yabancının eşi bakımından evlilik bağını, çocuğu bakımından ise velayet ilişkisini ve bakmakla yükümlü olduğunu gösteren belgeler başvuruya eklenir.

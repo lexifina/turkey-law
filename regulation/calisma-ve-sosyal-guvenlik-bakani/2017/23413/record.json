@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23413",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TURKUAZ KART YÖNETMELİĞİ",
+  "number": "23413",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2017/23413",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23413&MevzuatTertip=5",
+  "source_sha256": "737e051f0722183751dd6ae1574acccf179a3ce5a8b25a02d64421929c34cb0a",
+  "source_bytes": 48488,
+  "published": "2017-03-14",
+  "gazette": "30007",
+  "in_force": "2017-03-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.03.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2584,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
