@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2017/9973",
+  "source_id": 1751,
+  "date": "2017-03-15",
+  "title": "492 SAYILI HARÇLAR KANUNUNA BAĞLI 4 SAYILI TARİFEYE İLİŞKİN",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/bkk/1751",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "31c370a58982dc1d3e9a11d809dee26d3601745d37f35c709893e7475b1e47d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
