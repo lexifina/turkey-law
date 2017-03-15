@@ -1,0 +1,14 @@
+<p style="margin:0px 0px 20px;color:#777777;font-size:13px;background-color:#ffffff;"><strong><u><span style="font-size:small;">Karar Sayisi : 2017/9973</span></u></strong></p>
+<div style="color:#777777;font-size:13px;background-color:#ffffff;" align="justify">
+ <p style="margin:0px 0px 20px;">Ekli Kararın yürürlüğe konulması; Maliye Bakanlığının 13/3/2017 tarihli ve 30219 sayılı yazısı üzerine, Bakanlar Kurulu'nca 13/3/2017 tarihinde kararlaştırılmıştır.</p>
+ <p style="margin:0px 0px 20px;">&nbsp;</p>
+ <div align="center">
+  <p style="margin:0px 0px 20px;" align="center"><span style="font-weight:bold;">13/3/2017 TARİHLİ VE 2017/9973 SAYILI KARARNAMENİN EKİ KARAR</span></p>
+ </div>
+ <p style="margin:0px 0px 20px;" align="justify">MADDE 1– (1) Bu Karar, 1/7/1964 tarihli ve 488 sayılı Damga Vergisi Kanununun mükerrer 30 uncu maddesinin verdiği yetkiye istinaden aynı Kanuna ekli (1) sayılı tabloda yer alan bazı kâğıtlara ait damga vergisi oranları ve 2/7/1964 tarihli ve 492 sayılı Harçlar Kanununa bağlı (4) sayılı tarifenin "I-Tapu İşlemleri" başlıklı bölümünün 20/a fıkrasının son paragrafında yer alan hüküm uyarınca, söz konusu fıkrada yer alan nispi harcın gayrimenkullerin türleri itibarıyla yeniden belirlenmesi ile 20/6/2001 tarihli ve 4684 sayılı Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun geçici 3 üncü maddesinin (a) bendinde yer alan yetkiye istinaden, yurt dışından kullanılan bazı kredilerde Kaynak Kullanımını Destekleme Fonu kesintisi oranının yeniden belirlenmesi amacıyla hazırlanmıştır.</p>
+ <p style="margin:0px 0px 20px;" align="justify">MADDE 2– (1) 488 sayılı Kanuna ekli (1) sayılı tablonun "I. Akitlerle ilgili kâğıtlar" başlıklı bölümünün "A. Belli parayı ihtiva eden kâğıtlar" başlıklı fıkrasının (14), (15), (16) ve (17) numaralı bentlerinde yer alan kâğıtlar için damga vergisi oranı "0" (sıfır) olarak uygulanır.</p>
+ <p style="margin:0px 0px 20px;" align="justify">MADDE 3– (1) 30/9/2017 tarihine kadar (bu tarih dahil) uygulanmak üzere, 492 sayılı Kanuna bağlı (4) sayılı tarifenin "I-Tapu İşlemleri" başlıklı bölümünün 20/a fıkrasında sayılan tapu işlemleri üzerinden "binde 20" nispetinde alınan tapu harcı, konut ve işyerlerinde (kat irtifakı tesis edilmiş olanlar dahil) "binde 15" olarak yeniden belirlenmiştir.</p>
+ <p style="margin:0px 0px 20px;" align="justify">MADDE 4– (1) Bankalar ve finansman şirketleri dışında, Türkiye'de yerleşik kişilerin yurt dışından sağladıkları Türk Lirası kredilerde (fıduciary işlemler hariç) Kaynak Kullanımını Destekleme Fonu kesintisi oranı; ortalama vadesi bir yıla kadar olanlarda %1 (yüzde bir), bir yıl ve üzeri olanlarda %0 (yüzde sıfır) olarak tespit edilmiştir.</p>
+ <p style="margin:0px 0px 20px;" align="justify">MADDE 5– (1) Bu Karar yayımı tarihinde yürürlüğe girer.</p>
+ <p style="margin:0px 0px 20px;" align="justify">MADDE 6– (1) Bu Karar hükümlerini Maliye Bakanı yürütür.</p>
+</div>
