@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42873",
+  "decision_date": "2017-03-15",
+  "source_id": 13483,
+  "chamber": "1",
+  "file_number": "41086",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13483/",
+  "source_sha256": "6587de3d0e9c508eca44c94e3b5f127a38be01ad161f9529d1c061978856771c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
