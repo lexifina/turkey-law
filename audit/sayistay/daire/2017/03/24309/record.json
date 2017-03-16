@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10635",
+  "decision_date": "2017-03-16",
+  "source_id": 24309,
+  "chamber": "1",
+  "ilam_number": "200",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24309/",
+  "source_sha256": "348cc8264f710bae34de6bcf37c875c9073e7500675f224fd8240a67f5a81132",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
