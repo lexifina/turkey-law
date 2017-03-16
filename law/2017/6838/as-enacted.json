@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6838",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Başbakanlık Dış Ticaret Müsteşarlığı ile Irak Cumhuriyeti Ticaret Bakanlığı Arasında Muhtemel Bir Serbest Ticaret Anlaşmasının Etkilerinin Değerlendirilmesine Dair Bir Ortak Komisyon Kurulmasına İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-12.htm",
+  "source_sha256": "78e688955805d11d24698aae14474553afb81fbed74572b1dcbc3d9aefb6882e",
+  "text_sha256": "53bdc62b9820d770b8b32f07fcdcfda09c518b0d9b5629c9729d0e41a63f8dfd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
