@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6856",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Cibuti Cumhuriyeti Hükümeti Arasında Güvenlik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-30.htm",
+  "source_sha256": "e56341d1922b780f72b5c230b808f0ef3651f1e85b3cfc538bc7910fe961e4c1",
+  "text_sha256": "5d0100ea45860a4b5dc4864c2b4779d361be110a4164c485b4970d51b0e7b474",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-30",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-30.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
