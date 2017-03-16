@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6846",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Nijer Cumhuriyeti Hükümeti Arasında Askeri Alanda Eğitim, Teknik ve Bilimsel İş Birliği Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-20.htm",
+  "source_sha256": "448fe9ad37be9ebd6d49251a5bdb77c427baf4c3e3f70c89de83f1d44e28d53a",
+  "text_sha256": "ce0c780e637607f1290b9a04c4c116e25d3bf8a8e9dea71e4ed9d2f389f3f951",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-20",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-20.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
