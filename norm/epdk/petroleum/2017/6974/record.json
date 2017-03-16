@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "6974",
+  "decision_date": "2017-03-16",
+  "title": "Akpet Akaryakıt Dağıtım A.Ş.’nin; DEP/480-114/11081 sayılı depolama lisansı kapsamında Kabakoz Mevkii - KOCAELİ adresinde faaliyette bulunan İzmit Akaryakıt Depolama ve Dolum Tesisine ilişkin depolama tarifesi",
+  "resmi_gazete_date": "2017-03-21",
+  "resmi_gazete_number": "30015",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IKm/wWCW0Qo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IKm/wWCW0Qo="
+  ],
+  "source_sha256": "70867e9f61390da5b63480ea0fcc2a415deb0c60bacfa14d28d48e2be9c54337",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-03-16",
+  "law_text_complete": true
+}
