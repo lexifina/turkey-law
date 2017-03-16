@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6834",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Saint Vincent ve Grenadinler Hükümeti Arasında Ticaret ve Ekonomik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-8.htm",
+  "source_sha256": "bd1aca127802c842f191ad1630860851e69568b7cc9bbe8532d7c59eb3eff7d5",
+  "text_sha256": "18148993230148eba69b047c0b98645f28540d3bf4ab0f1f647889e45b9e13cc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
