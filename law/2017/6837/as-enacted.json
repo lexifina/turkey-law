@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6837",
+  "year": 2017,
+  "title": "Ekonomik İşbirliği Teşkilatı Standardizasyon, Uygunluk Değerlendirmesi, Akreditasyon ve Metroloji Bölgesel Enstitüsü Tüzüğünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-11.htm",
+  "source_sha256": "0903d626b9bcf3860de09489d111051e8d145ef1648ad21a5531eb84d0a7bca1",
+  "text_sha256": "ffc08bc12d0ee8023cf120b39d3988d87dd748e9b53fb4bafbc2467ac65ea9b2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
