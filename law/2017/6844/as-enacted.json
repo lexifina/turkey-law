@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6844",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Yemen Cumhuriyeti Hükümeti Arasında İzinsiz İkamet Eden Şahısların Geri Kabulüne Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-18.htm",
+  "source_sha256": "303a0df35c75706a6f196a5207168fac1fc1c10d23039af1321c3487f6cae6e6",
+  "text_sha256": "3d201eeef9e6fea8fdd411d81054586fcf750518811bfaa93fea78575e2a573c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-18",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-18.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
