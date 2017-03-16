@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "75497510-130[28-2016-181]-1803",
+  "source_id": 32394,
+  "date": "2017-03-16",
+  "title": "Mamullerin aksam ve parçalarının tesliminde katma değer vergisi oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32394",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "a9ef7c48c3b8fccb69d35f61d7744002c969b1e632bab700c8af073f8572fca7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
