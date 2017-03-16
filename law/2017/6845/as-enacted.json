@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6845",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Romanya Hükümeti Arasında Kültür Varlığının Yasa Dışı İthali ve İhracının, Transitinin ve Mülkiyet Transferinin Yasaklanması ve Önlenmesine İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-19.htm",
+  "source_sha256": "64fb707d6f7f3b78b99d1aafa475b39e5f4b22331ed18fc9e510b728b139daae",
+  "text_sha256": "d7ae1fa31aa8d49e3822bb976a3a914ae299f65936e69124809a053f1a9919fd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-19",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-19.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
