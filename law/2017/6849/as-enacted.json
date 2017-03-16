@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6849",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Nijerya Federal Cumhuriyeti Hükümeti Arasında Askeri İş Birliği Hususunda İkili Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-23.htm",
+  "source_sha256": "8abed308ad3c53b44e3808a913de4e2124aecd3461aef79a09c639d3375331ee",
+  "text_sha256": "82df2fbbfe67c1d796a6575b80be45eeee98f10004ab051bfd4ad2a40d726054",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-23",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-23.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
