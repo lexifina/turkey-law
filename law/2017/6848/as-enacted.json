@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6848",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kongo Cumhuriyeti Hükümeti Arasında Savunma Sanayisi İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-22.htm",
+  "source_sha256": "1c2fc03c01c465aeca588bbc1ffb92999f004e166f695d9688f25f9b237c9f90",
+  "text_sha256": "251680e651e68682458583590b7b78c190ea1258b51b2ab63753cf8343079d6b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-22",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-22.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
