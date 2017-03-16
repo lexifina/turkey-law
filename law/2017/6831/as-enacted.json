@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6831",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Burundi Cumhuriyeti Hükümeti Arasında Ticari ve Ekonomik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-5.htm",
+  "source_sha256": "9f4b5f6e754e52b1a68ef77f8165974d6c318a3bdfee02beef54c2e36c628c6b",
+  "text_sha256": "acc1e27eaf655cc7c02d394cc18066f51826f7e22404f8e25a83ea6cb75fc20f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
