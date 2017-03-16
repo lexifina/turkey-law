@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6851",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kamerun Cumhuriyeti Hükümeti Arasında Tarım Alanında Teknik, Bilimsel ve Ekonomik İş Birliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-25.htm",
+  "source_sha256": "c8a1077495f3534e3545d9ca7393941fdc86a1aed7a00a295bcfcb3583bae93d",
+  "text_sha256": "bef7a48f2540ea239a5824f8b988d3cdcc57f7280af20cb4b3a3688172d7df44",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-25",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-25.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
