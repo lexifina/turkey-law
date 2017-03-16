@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6850",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Gambiya Cumhuriyeti Hükümeti Arasında Savunma Alanında Sanayi ve Teknik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-24.htm",
+  "source_sha256": "f48cdc72308b2db149937a8e0e9c086f6c22897a43f92f208c67f2fe6143ed69",
+  "text_sha256": "e510e085f5c8e30fbbe8d9cfde1e468569bde9d9e78521b359179db0ad0c370c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-24",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-24.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
