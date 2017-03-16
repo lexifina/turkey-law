@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6827",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ukrayna Bakanlar Kurulu Arasında Türkiye Cumhuriyetinin Demiryolu Bağlantısı Olan Limanları ile Ukrayna Limanları Arasında Uluslararası Doğrudan Yük Demiryolu Feri Hizmetinde Yük Taşımacılığına İlişkin Kurallar ve Ekleri ile Yük Vagonlarının İşletiminin Organizasyonuna İlişkin Kuralların Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-1.htm",
+  "source_sha256": "bf833931c4a2aa37211996edfc0f8412f8f3ed0abe9f6dde4881559642ff2bac",
+  "text_sha256": "0267ef8af3438ab611c55e6c6c3b6f78eb4863366a37d2faded612fe46f9f330",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
