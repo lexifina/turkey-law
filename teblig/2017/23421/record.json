@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23421",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 297)",
+  "number": "23421",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2017/23421",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23421&MevzuatTertip=5",
+  "source_sha256": "78941eefb2a7bc997d2366718b79c862f8c8badbf330eb490e41ab41365530ed",
+  "source_bytes": 41532,
+  "published": "2017-03-16",
+  "gazette": "30009",
+  "in_force": "2017-03-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.03.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1945,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23421-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
