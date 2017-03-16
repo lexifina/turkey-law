@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "190",
+  "decision_date": "2017-03-16",
+  "source_id": 24100,
+  "chamber": "7",
+  "ilam_number": "181",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24100/",
+  "source_sha256": "da334cabb36758820f0af18053a637ae02d25112ff520feda8db7ec9e5b1a457",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
