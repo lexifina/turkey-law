@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6839",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Başbakanlık Dış Ticaret Müsteşarlığı ile Irak Cumhuriyeti Ticaret Bakanlığı Arasında Serbest Bölgeler Alanında İş Birliğine Yönelik Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-13.htm",
+  "source_sha256": "720f0b4e3a124cbd252c70329429dd44b3b6e3a77a643f3ee847d237ec5bcd8e",
+  "text_sha256": "4cacab0bbc98b886a54ab82ebd3b1e102881151e1119b84e1647281c96b81845",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
