@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6835",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Guatemala Cumhuriyeti Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-16",
+  "gazette_issue": "30009",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-9.htm",
+  "source_sha256": "20508a5f90ddfb1e77003a5fa4788231233468f7931e47ac9a6a2dace3ff8164",
+  "text_sha256": "804c09231b3797d96c092eaca44b791d28d12e698b589487aa96d685dd59f689",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/16/30009-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
