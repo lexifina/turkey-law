@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-03-16",
+  "issue": "30009",
+  "edition": "regular",
+  "item": 15,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "6841 Türkiye Cumhuriyeti Hükümeti ile Somali Federal Cumhuriyeti Hükümeti Arasında Ticari ve Ekonomik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316.htm",
+  "index_sha256": "21c567b8a9d5243b08b74cafa68f1e47bcd11da1c86d52c9fec42d2cd11c9b2d",
+  "index_header": "16 Mart 2017 ... 30009 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170316.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
