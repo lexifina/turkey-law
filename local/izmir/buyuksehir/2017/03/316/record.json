@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "316",
+  "decision_date": "2017-03-17",
+  "official_id": "21826",
+  "version_label": "as-enacted",
+  "text_status": "complete decision text as published in the register's KararDetay field (HTML); annexes not supplied",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2017&ay=&gun=&txtSozcuk=&draw=1&start=1100&length=100&txtKararNo=",
+  "source_listing_sha256": "95de405deea51764bc4e659c0cc06999b987e6e2869aed4904f7591d4d5d8247",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": false
+}
