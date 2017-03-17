@@ -1,0 +1,3 @@
+İdari tedbirler
+MADDE 14 – (1) Resmi kontrolleri yürüten veteriner hekim, ithal edilecek hayvanların ilgili mevzuatına uygun olmadığından veya hayvanların kimliğinden şüphe ederse, uygun göreceği tüm veteriner kontrollerini yapmaya yetkilidir.
+(2) Ulusal mevzuatın tüzel veya yasal kişilerce ihlal edildiğinin saptandığı durumlarda, özellikle hayvanlara eşlik eden sağlık sertifikaları veya belgelerle ilgili bir tutarsızlık tespit edildiğinde veya kimlik işaretlerinin uygun olmadığı saptandığında veya hayvanlar veteriner sınır kontrol noktası müdürlüklerinde kontrole tabi tutulmadan ülke içerisine girişi yapıldığında veya hayvanlar başlangıçta bildirilen varış noktasına gönderilmediğinde, idari ya da cezai işlemler uygulanır.
