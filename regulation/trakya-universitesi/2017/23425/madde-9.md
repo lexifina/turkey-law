@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+MADDE 9 – (1) Danışma Kurulu; Müdürün başkanlığında Üniversiteye bağlı fakülte, enstitü ve yüksekokulların yetkili kurulları tarafından önerilen ve Rektör tarafından görevlendirilen birer öğretim elemanı ile MEYOK Koordinatöründen oluşur. Üyelerin görev süresi üç yıldır. Görev süresi biten üyeler tekrar seçilebilir. Üyeliğin herhangi bir nedenle boşalması halinde kalan süreyi tamamlamak üzere yeni üye seçilebilir. Danışma Kurulu, Müdürün çağrısı üzerine salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır.
+(2) Danışma Kurulunca, Merkezin çalışmalarını yönlendirmek için tavsiye kararı alınır.
