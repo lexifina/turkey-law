@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70903105-165.01.04-E.33607",
+  "source_id": 37584,
+  "date": "2017-03-20",
+  "title": "15/3/2017 tarihli 2017/9973 sayılı BKK'nın yürürlük tarihinden önce yurt dışından kullanılan TL kredilere tahakkuk ettirilecek faizlere anılan BKK ile belirtilen yeni oranların uygulanıp uygulanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/37584",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "492106409e28e18da88f7185da542a34184d459a8f537cc20ff202922ab6fb64",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
