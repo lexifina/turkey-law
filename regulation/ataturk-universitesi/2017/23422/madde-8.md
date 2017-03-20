@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Müdür; Merkezin faaliyetleri ve amacına uygun bir bilim dalında çalışan Üniversitenin kadrolu öğretim üyeleri arasından, üç yıl için Rektör tarafından görevlendirilir. Müdürün önerisi ile biri Veteriner Fakültesi, diğer ikisi öncelikli olarak Ziraat Fakültesi Zootekni Bölümü ve Gıda Mühendisliği kadrolu öğretim üyeleri arasından olmak üzere üç müdür yardımcısı Rektör tarafından görevlendirilir. Müdür ve yardımcılarının görevlerine Rektör tarafından son verilebilir. Müdür ve yardımcıları aynı usulle tekrar görevlendirilebilir.
