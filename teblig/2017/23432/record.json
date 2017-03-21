@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23432",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ DİSTİLE ALKOLLÜ İÇKİLER ANALİZ METOTLARI TEBLİĞİ (TEBLİĞ NO: 2017/9)",
+  "number": "23432",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2017/23432",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23432&MevzuatTertip=5",
+  "source_sha256": "a6b2f5b4e639a575356737bf615f9e28cf10894246345bfcffd83bd2cc207982",
+  "source_bytes": 18467,
+  "published": "2017-03-21",
+  "gazette": "30014",
+  "in_force": "2017-03-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.03.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 591,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23432-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
