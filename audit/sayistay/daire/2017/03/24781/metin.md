@@ -1,0 +1,13 @@
+ İmalatlar için mükerrer ödeme yapılması
+
+ Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Kapalı Çarşı Yürüyen Merdivenler ve Çevre Düzenleme Uygulama İnşaatı İşinde, A.104 nolu “Her Çeşit Profil, Çelik Çubuk Ve Çelik Saçlarla Karkas, (Çerçeve) İnşaat Yapılması, Yerine Tespiti (Yapı Karkası, Köprülerde Profil Demirlerinden Kirişler, Başlıklar, Bağlantılar Ve Benzeri İmalatlar)” pozu kapsamında yapılan imalat için ............ nolu  “Demir İmalatın Bükülüp Çelik Macun Çekilerek Montaja Hazır Hale Getirilmesi” pozu üzerinden de ödeme yapılması sonucu mükerrer ödemeye neden olunduğu görülmüştür.
+
+İhale dosyası içerisinde yer alan birim fiyat tarifleri içerisinde A.104 nolu “Her Çeşit Profil, Çelik Çubuk Ve Çelik Saçlarla Karkas, (Çerçeve) İnşaat Yapılması, Yerine Tespiti (Yapı Karkası, Köprülerde Profil Demirlerinden Kirişler, Başlıklar, Bağlantılar Ve Benzeri İmalatlar)” poza ait tanım; “Her çeşit profil, çelik çubuk, çelik, saçlarla projesine göre her yükseklik ve açıklıkta karkas inşaat yapılması, parçaların perçin, bulon ve kaynakla eklenmesi, bütün aksamın yerine monte edilmesi, her türlü malzeme ve zayiatı, inşaat yerindeki yükleme, yatay ve düşey taşıma, taşıyıcı iskele veya kaldırma tertibatı, boşaltma, işçilik, müteahhit genel giderleri ve kârı dâhil, (boya bedeli hariç) yapılması ve yerine konulması, 1 ton fiyatı” şeklindedir.
+
+Tarife ait tanımdan anlaşıldığı üzere, yapılacak olan her türlü büküm ve montaj işleri A.104 numaralı poz kapsamındadır. 114, 114/A, 114/B, 124/A, 124/B ve 124/C numaralı ataşmanlar ve metraj incelendiğinde, çatı imalatının tamamı için A.104 numaralı poz üzerinden ödeme yapıldığı görülmektedir. A.104 numaralı poz numaralı iş kalemi her türlü büküm ve montaj işlerini kapsıyor olmasına rağmen aynı yerler için ayrıca YF.İNŞ22 “Demir İmalatın Bükülüp Çelik Macun Çekilerek Montaja Hazır Hale Getirilmesi” yeni birim fiyat üzerinden ödeme yapılmasının mükerrer ödemeye yol açacağı açıktır.
+
+Açıklanan gerekçelerle, A.104 numaralı poz kapsamında ödemesi yapılmış olan demir büküm işleri için yeni birim fiyat belirlenerek ............numaralı poz üzerinden mükerrer ödeme yapılması sonucu ............TL kamu zararına neden olunmuştur.
+
+Ancak, bu tutarın ............tarih ve ............ nolu ödeme emrine ekli 9 nolu hakediş raporunda düzeltme suretiyle yılı içinde tahsil edildiği anlaşıdığından konu hakkında ilişilecek husus bulunmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
