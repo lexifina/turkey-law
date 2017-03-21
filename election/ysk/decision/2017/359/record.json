@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2017/359",
+  "list_number": "359",
+  "decision_date": "2017-03-21",
+  "title": "Sandık kurulu başkanlarının belirlenmesinde soruşturma veya kovuşturma olanların iyi ün sahibi olup olmadıkları hususunda ve siyasi partiye üye olmaya engeli olanlar bakımından adli sicil arşiv kaydı araştırması yaptırmanın ilçe seçim kurulunun görevi olduğuna ilişkin Yüksek Seçim Kurulunun 2017/359 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/5048/2017-359.pdf",
+  "source_sha256": "0eb95efcfdd370dba47ea4a05a10cb3b627272402227a6f9b3ddc293cd264dcb",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2017-03-21",
+  "law_text_complete": false
+}
