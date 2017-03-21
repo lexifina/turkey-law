@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "444",
+  "decision_date": "2017-03-21",
+  "source_id": 24807,
+  "chamber": "6",
+  "ilam_number": "240",
+  "item_number": 40,
+  "account_year": 2015,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24807/",
+  "source_sha256": "5f1fb888d5a6c18505cd1e6c4487a68610a8e1d850d164cb2f83337e3a74d5f0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
