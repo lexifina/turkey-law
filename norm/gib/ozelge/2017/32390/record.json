@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[KDV-28]-79673",
+  "source_id": 32390,
+  "date": "2017-03-21",
+  "title": "0106.13.00.00.00 GTİP numaralı Alpaca'nın tabi olduğu KDV oranı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32390",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "d3658bcc3aec4744ff433b5a3592a673ed1acaa52382777a8f084045bafc8ce0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
