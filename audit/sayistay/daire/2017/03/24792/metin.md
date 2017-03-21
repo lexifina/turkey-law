@@ -1,0 +1,11 @@
+Sözleşme süresinin mevzuata aykırı olarak uzatılması sonucu yüklenici kârının fazla ödenmesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Denetçi sorgusunda; ............Ltd.Şti tarafından üstlenilen Müzik İçerikli Kültürel ve Sanatsal Hizmet Alımı İşinin sözleşme süresinin mevzuata aykırı olarak uzatılması sonucu yüklenici kârının fazla ödenmesi suretiyle kamu zararına neden olunduğu iddia edilmiş ise de;
+
+Sorumluların savunmalarından; ............tarihli hakediş raporunda yapılan hesaplamalara göre, anılan işin sözleşme bitiş tarihinden önce % 80 gerçekleşme oranının altında kalınarak %70.83’ünün gerçekleştirildiği ve sözleşme bedeli tutar tamamlanamadığından iş artışı yapılamadığı anlaşılmıştır. Ayrıca, anılan işin sözleşmeye esas proje içinde kalınmasının gereklilik arz etmesi, öngörülemeyen sebeplerin olması ve idareyi külfete sokmaksızın asıl işten ayrılmasının teknik veya ekonomik olarak mümkün olmaması, sözleşme bedelinin içinde kalınması nedenlerine dayanılarak süre uzatımına gidilmek zorunda kalındığı görülmüştür.
+
+             Diğer yandan, her ne kadar Denetçi tarafından yükleniciye vekaletsiz işgörme hükümleri çerçevesinde iş yaptırıldığı ileri sürülmüş ise de; Borçlar Kanunu’nun 526 ila 531’inci maddelerinde vekaletsiz iş görme işverenin vekaleti olmaksızın işin yapılması olarak tanımlanmıştır. Oysa bahse konu işte, talimatın ihale yetkilisi olan idareden alındığı ve idareden habersiz veya izinsiz bir işlem yapılmadığı açıktır. Dolayısıyla, söz konusu işlerin idarenin bilgisi dahilinde yapılması nedeniyle vekaletsiz iş görmeden bahsetmek mümkün değildir.
+
+Bu itibarla, hizmet alım işinin, sözleşme bitiş tarihi olan ............’den önce ............tarihinde düzenlenen hakedişe göre % 70,83’ünün gerçekleşmiş olduğu, süre uzatımı verilerek işin tamamlattırılmaması halinde idarenin yükleniciye yapılmayan işin bedelini ödeyecek olması, bu nedenle idare tarafından kamu yararı düşünülerek süre uzatımı verildiği ve bu konunun 6098 sayılı Borçlar Kanunu’nun vekaletsiz iş görmeyi düzenleyen hükümleri kapsamında değerlendirilemeyeceği kanaatine varıldığından, konu hakkında ilişilecek husus bulunmadığına, 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca  İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
