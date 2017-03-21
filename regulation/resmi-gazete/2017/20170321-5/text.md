@@ -1,0 +1,662 @@
+21 Mart 2017 SALI
+Resmî Gazete
+Sayı : 30014
+YÖNETMELİK
+Gıda, Tarım ve Hayvancılık Bakanlığından:
+DOĞAL ÇİÇEK
+SOĞANLARININ DOĞADAN TOPLANMASI,
+ÜRETİMİ VE İHRACATINA İLİŞKİN YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; doğal çiçek soğanı türlerinin
+korunması için tohum, soğan, yumru, rizom, korm veya diğer aksamlarının doğadan toplanması,
+üretilmesi, hasadı, depolanması ve ihracatına yönelik usul ve esasları
+düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, doğada bulunan veya doğallaşmış
+doğal çiçek soğanları olarak tanımlanan bitki türlerinin tohum, soğan,
+yumru, rizom, korm veya
+diğer aksamlarını kapsar.
+(2) Herhangi bir ıslah yöntemiyle ıslah edilmiş ve
+doğal türlerinden farklılaştırılmış olan çiçek soğanlarını kapsamaz.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 31/10/2006
+tarihli ve 5553 sayılı Tohumculuk Kanununun 2 nci
+ve 7 nci maddeleri, 11/6/2010 tarihli ve 5996
+sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 17 nci maddesi ve 27/4/1996 tarihli ve 96/8125 sayılı
+Bakanlar Kurulu Kararı ile yürürlüğe konulan Nesli Tehlikede Olan Yabani
+Hayvan ve Bitki Türlerinin Uluslararası Ticaretine İlişkin Sözleşme
+(CITES)’ye dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Ana depo: Bünyesinde iklim odaları, temizleme,
+kurutma, boylandırma ve ilaçlama ile ilgili üniteleri bulunduran özel
+depoyu,
+b) Bakanlık: Gıda, Tarım ve Hayvancılık
+Bakanlığını,
+c) Bitki pasaportu: Bitki sağlığı ile ilgili 12/1/2011 tarihli ve 27813 sayılı Resmî Gazete’de
+yayımlanan Bitki Pasaportu Sistemi ve Operatörlerin Kayıt Altına Alınması
+Hakkında Yönetmelikte belirlenen bitki sağlığı standartlarının ve özel
+şartların karşılandığını gösteren, çeşitli bitki ve bitkisel ürünler için
+standart hale getirilmiş, Bakanlıkça belirlenen usullere uygun olarak
+hazırlanan ve Bakanlık veya Bakanlıkça yetkilendirilenler tarafından
+düzenlenen resmî etiketi veya belirli ürünler için Bakanlıkça kabul edilen
+etiket dışındaki işareti,
+ç) Bölge temsilcisi: Doğal çiçek soğanları materyal
+temini amacıyla yapılan faaliyetleri organize eden yerel sorumlu kişiyi,
+d) BÜGEM: Bitkisel Üretim Genel Müdürlüğünü,
+e) CITES: 27/4/1996
+tarihli ve 96/8125 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan
+Nesli Tehlikede Olan Yabani Hayvan ve Bitki Türlerinin Uluslararası
+Ticaretine İlişkin Sözleşmeyi,
+f) Danışma Komitesi: 9 uncu maddede belirtilen
+kuruluş temsilcilerinden oluşan komiteyi,
+g) Diğer aksam: Doğal çiçek soğanlarının sürgün
+başları, yaprakları ve çiçekleri gibi organlarını,
+ğ) Doğal çiçek soğanı: Herhangi bir ıslah
+yöntemiyle ıslah edilmiş ve doğal türlerinden farklılaştırılmış olan çiçek
+soğanları hariç, doğada bulunan ve yılın büyük bir kısmını toprak altında
+geçiren soğan, yumru, rizom ve kormları,
+h) Doğal Çiçek Soğanları Uzman Komisyonu: Konu ile
+ilgili araştırmacı ve bilim adamlarından Bakanlıkça oluşturulan komisyonu,
+ı) Firma: Bakanlığa müracaat eden, ilgili komisyon
+tarafından tespit edilen, Doğal Çiçek Soğanları Teknik Komitesi tarafından
+değerlendirilen ve Bakanlık tarafından onaylanan doğal çiçek soğanı
+türlerini doğadan toplayarak ve/veya üreterek yurtdışında pazarlayan
+kuruluşu,
+i) Hasat: Tarımsal faaliyet sonucu üretilen doğal
+çiçek soğanlarının yetiştirildiği alanlardan tekniğine uygun olarak sökümü
+ve toplanmasını,
+j) İl müdürlüğü: İl Gıda Tarım ve Hayvancılık
+Müdürlüğünü,
+k) Kontenjan: Bakanlıkça belirlenip ilan edilen
+türler için belirlenen toplam kotanın, ihracat yeterliliği almış firmalara
+kg veya adet olarak tahsis edilen miktarını,
+l) Kota: Bakanlıkça ilan edilen, Türkiye’den yıllık
+olarak ihraç edilebilecek türlere ait doğal çiçek soğanlarının kg veya adet
+olarak azamî miktarını,
+m) Operatör: 12/1/2011
+tarihli ve 27813 sayılı Resmî Gazete’de yayımlanan Bitki Pasaportu Sistemi
+ve Operatörlerin Kayıt Altına Alınması Hakkında Yönetmeliğin EK-1’inde yer
+alan bitki, bitkisel ürün ve diğer maddeler ile yemeklik patates
+üretenleri, ithal edenleri, depolayanları ve ticaretini yapanları,
+n) Ön depo: Doğal çiçek soğanlarının, Teknik Komite
+tarafından uygun görülen tarihte doğadan toplanmasını müteakip, firmaların
+ortak kullanımı için uygun yakınlıkta, bölgesindeki ekolojik
+şartların sağlanabildiği, depo sorumlusu ile il/ilçe müdürlüğünün
+kontrolünde, doğal çiçek soğanlarının tür, miktar ve menşei kayıtlarının
+tutulduğu, ürünlerin ana depoya gidinceye kadar muhafaza edildiği,
+firmaların ortak kullanımına uygun, Bakanlıkça kabul edilen mevkide, ürünün
+canlılığı için uygun depolama koşullarının sağlandığı, sevk ve idaresi
+firmalar tarafından yapılan depoları,
+o) Süs Bitkileri Üreticileri Alt Birliği: 5553
+sayılı Tohumculuk Kanunu kapsamında kurulan alt birliği,
+ö) Teknik Komite: 10 uncu maddede belirtilen
+kuruluş temsilcilerinden oluşan komiteyi,
+p) Toplama: Doğa menşeli doğal çiçek soğanlarının
+toplama planına göre uygun zamanda ve uygun teknik ile doğal ortamından
+sökülmesi ve toplanmasını,
+ifade eder.
+İKİNCİ BÖLÜM
+Doğal Çiçek
+Soğanlarının Sınıflandırılması
+Temini
+yönünden sınıflandırılması
+MADDE 5 –
+(1) Temini yönünden doğal çiçek
+soğanları aşağıda belirtilmiştir.
+a) Türkiye florasında ait olduğu türün ekolojik isteklerinin karşılandığı alanlarda doğal
+olarak yetişen çiçek soğanları.
+b) 6 ncı maddeye uygun
+olarak yetiştirilen ve/veya tarımsal faaliyet sonucu elde edilen çiçek
+soğanları.
+Üretim
+yönünden sınıflandırılması
+MADDE 6 –
+(1) Üretim yönünden doğal çiçek
+soğanları aşağıda belirtilmiştir.
+a) Üretim amacıyla Teknik Komite kararı ve
+Bakanlığın izni ile ilk üretim materyali doğadan temin edilerek sonraki
+üretimlere materyal temini için yetiştirilen anaç çiçek soğanları.
+b) Bakanlık denetiminde anaç materyallerden elde
+edilen ve/veya tohumdan temin edilen üretim materyali ile uygun üretim veya
+çoğaltım teknikleri kullanılarak yapılan tarımsal faaliyet sonucu elde
+edilen çiçek soğanları.
+İhracat
+yönünden sınıflandırılması
+MADDE 7 – (1) İhracat yönünden doğal çiçek soğanları aşağıda
+belirtilmiştir.
+a) Türkiye’de endemik olan veya endemik olmadığı
+halde dar yayılışlı olan, nesilleri tehlike altında bulunan ve doğadan
+toplamak suretiyle ihraç edilmesi yasak olan çiçek soğanları,
+b) Doğadan toplanması, üretimi, hasadı ve ihracatı
+kotaya tabi olan çiçek soğanları,
+c) Gerçek ve tüzel kişilerin, il/ilçe müdürlükleri
+kontrolünde yaptıkları üretim faaliyetleri sonucu elde edilen ve ihracatı
+için yeterlilik koşulu aranmayan, ihracatı üretimden serbest olan çiçek
+soğanları,
+ç) Teknik Komite kararı doğrultusunda Bakanlık il
+müdürlüklerinin izni ile doğadan diğer aksamları için toplanan ve ihracatı
+için yeterlilik koşulu aranmayan doğal çiçek soğanları.
+(2) Birinci fıkrada yer alacak türler, 8 inci
+maddede belirtilen hükümlere göre Bakanlıkça belirlenir.
+(3) Birinci fıkrada belirtilen tüm çiçek soğanları
+için bilimsel araştırma amacıyla doğadan araştırma materyali toplanması
+Bakanlığın ve materyalin toplandığı alanın koruma durumuna göre ilgili
+Bakanlığın iznine tabidir.
+(4) Birinci fıkranın (b) bendinde belirtilen çiçek
+soğanlarının üretici veya firma tarafından üretilmesi için doğadan materyal
+toplanması, Teknik Komite kararı doğrultusunda Bakanlığın ve materyalin
+toplandığı alanın koruma durumuna göre ilgili Bakanlığın iznine tabidir.
+(5) Birinci fıkranın (b) bendinde belirtilen türler
+için tapulu arazilerden firma talebine göre il müdürlüğü tarafından tür ve
+miktar tespiti tutanak ile yapılan çiçek soğanları, anaç çiçek soğanı
+olarak değerlendirilebilir.
+(6) CITES kapsamında olan çiçek soğanları için bu
+Yönetmelik hükümleri ile 27/12/2001 tarihli ve
+24623 sayılı Resmî Gazete’de yayımlanan Nesli Tehlike Altında Olan Yabani
+Hayvan ve Bitki Türlerinin Uluslararası Ticaretine İlişkin Sözleşmenin
+Uygulanmasına Dair Yönetmelik hükümleri de uygulanır.
+İhracat
+listesinin ilanı
+MADDE 8 – (1) Teknik Komite kararı ile;
+a) Doğadan toplanmak suretiyle ihracatı yasak olan
+çiçek soğanları,
+b) İhracatı kotaya tabi olan çiçek soğanlarının
+ihracat miktarları ve çevre ölçüleri,
+c) İhracatı üretimden serbest olan çiçek soğanları,
+Bakanlık tarafından bir sonraki yıla esas olmak
+üzere her yıl, yıl sonuna kadar belirlenir.
+(2) Belirlenen miktarlara ilave olarak herhangi bir
+ek kota verilmez.
+ÜÇÜNCÜ BÖLÜM
+Kurullar ve
+Görevleri
+Danışma
+Komitesi ve görevleri
+MADDE 9 –
+(1) Danışma Komitesi, aşağıda
+belirtilen temsilcilerden oluşur. Komite Başkanı, komitedeki temsilciler
+arasından oy çokluğu ile seçilir. Komitenin sekretaryası BÜGEM tarafından
+yürütülür.
+Kuruluşun Adı
+Temsilci
+Sayısı
+Bitkisel Üretim
+Genel Müdürlüğü
+2
+Doğal Çiçek
+Soğanları Uzman Komisyonu
+7
+Tarımsal
+Araştırmalar ve Politikalar Genel Müdürlüğü
+1
+Gıda ve Kontrol
+Genel Müdürlüğü
+1
+Orman ve Su
+İşleri Bakanlığı (Doğa Koruma ve Milli Parklar
+Genel Müdürlüğü)
+1
+Orman ve Su
+İşleri Bakanlığı (Orman Genel Müdürlüğü)
+1
+Jandarma Genel Komutanlığı
+1
+Gümrük ve Ticaret
+Bakanlığı (Gümrükler Genel Müdürlüğü)
+1
+Ekonomi Bakanlığı
+(İhracat Genel Müdürlüğü)
+1
+Bakanlıkça
+belirlenen İl Müdürlükleri
+Birer kişi
+Süs Bitkileri
+Üreticileri Alt Birliği
+1
+Yeterlilik sahibi
+firma temsilcileri
+Birer kişi
+Toplama yapılan
+bölgeleri temsilen bölge temsilcisi
+Birer kişi
+(2) Danışma Komitesi, Bakanlığın çağrısı üzerine
+yılda en az iki defa üye tam sayısının en az yarıdan bir fazlası ile
+toplanır.
+(3) Doğanın korunması temel hedefi ile doğal çiçek
+soğanlarının, hem doğadaki varlığının sürdürülmesi, hem de ülke ekonomisine
+katkı sağlayacak şekilde değerlendirilmesi amacıyla Teknik Komiteye
+tavsiyelerde bulunur.
+(4) Danışma Komitesi kararları tavsiye niteliğinde
+olup, bu kararlar Teknik Komitenin görüşüne sunulur.
+Teknik
+Komite ve görevleri
+MADDE 10
+– (1) Teknik Komite, aşağıda
+belirtilen temsilcilerden oluşur. Komite başkanlığı BÜGEM Genel Müdürü veya
+Genel Müdür Yardımcısı, Komite sekretaryası ise BÜGEM tarafından yürütülür.
+Gerekli hallerde Bakanlık tarafından uygun görülen ilgili kuruluş ve
+kişiler Teknik Komiteye oy hakkı olmaksızın katılımcı olarak çağrılır.
+Kuruluşun Adı
+Temsilci
+Sayısı
+Bitkisel Üretim
+Genel Müdürlüğü
+2
+Doğal Çiçek
+Soğanları Uzman Komisyonu
+7
+Orman ve Su
+İşleri Bakanlığı
+Doğa Koruma ve
+Milli Parklar Genel Müdürlüğü
+1
+Orman Genel
+Müdürlüğü
+1
+Ekonomi Bakanlığı
+İhracat Genel
+Müdürlüğü
+1
+(2) Teknik Komite, Bakanlığın çağrısı üzerine yılda
+en az iki defa ve en az yedi üye ile toplanır. Görevleri ise aşağıda
+belirtilmiştir.
+a) Gelen görüş, öneri, rapor ve sonuçlanan
+araştırmaları değerlendirmek,
+b) 7 nci maddenin birinci
+fıkrasının (a) bendinde belirtilen doğadan toplanmak suretiyle ihracatı
+yasak olan çiçek soğanlarının cinslerini, türlerini ve yasaklama
+nedenlerini belirlemek,
+c) 7 nci maddenin birinci
+fıkrasının (b) bendinde belirtilen kotaya tabi olan çiçek soğanlarının
+cinslerini, türlerini, miktarlarını ve çevre ölçülerini belirlemek,
+ç) 7 nci maddenin birinci
+fıkrasının (b) bendinde belirtilen kotaya tabi olan çiçek soğanları için
+toplama takvimini belirlemek,
+d) 7 nci maddenin birinci
+fıkrasının (c) bendinde belirtilen ihracatı üretimden serbest olan çiçek
+soğanlarının cinslerini ve türlerini tespit etmek,
+e) Firmaların ihracat kontenjanlarını belirlemek,
+f) 7 nci maddenin birinci
+fıkrasının (a) ve (b) bentlerinde belirtilen çiçek soğanlarının üretimi
+için doğadan materyal toplanması ile ilgili karar vermek,
+g) Doğal Çiçek Soğanları Uzman Komisyonu ve Danışma
+Komitesi tarafından alınan tavsiye kararlarını incelemek ve uygun
+bulduklarını karara bağlamak,
+ğ) Bakanlıkça gerekli görüldüğü durumlarda doğal
+çiçek soğanlarına ilişkin Teknik Komite kararlarına ek olarak ara karar
+vermektir.
+(3) Doğal çiçek soğanları ile ilgili uygulamalarda acil
+karar alınmasına ihtiyaç duyulması halinde ikinci fıkra gereğince Bakanlık
+Teknik Komiteye çağrıda bulunabilir.
+(4) Teknik Komitede kararlar oy çokluğu ile alınır.
+Oyların eşit olması halinde Başkanın oyu yönünde karar alınır. Bu kararlar
+Bakanlığa sunulur. Bakanlıkça uygun görülen kararlar Bakanlık tarafından
+yürürlüğe konulur. Kararlar, uygun görülmediği takdirde tekrar görüşülmek
+üzere Teknik Komiteye iade edilir.
+Doğal
+Çiçek Soğanları Uzman Komisyonu ve görevleri
+MADDE 11
+– (1) Doğal Çiçek Soğanları Uzman
+Komisyonu; CITES bilimsel merci olan Türkiye Bilimsel ve Teknik Araştırma
+Kurumunun önerdiği üç temsilci, üniversitelerin ilgili fakültelerinden üç
+temsilci ve Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğünden bir
+temsilci olmak üzere Genel Müdürlük tarafından kurulur.
+(2) Komisyonun çalışma süresi beş yıldır. Komisyon
+üyelerinden bir veya birkaçının ayrılması durumunda ayrılan üye veya
+üyelerin yerine temsil ettiği kurumdan yeni üye veya üyeler atanır. Ancak
+üyelerden 4 kişinin ayrılması durumunda komisyon yeniden oluşturulur.
+(3) Komisyon üyeleri kendi aralarında bir başkan
+seçerek bir ay içinde Bakanlığa bildirir. Komisyon başkanı komisyon
+üyelerini temsile yetkilidir.
+(4) Doğal Çiçek Soğanları Uzman Komisyonu gerekli
+görüldüğü durumlarda başkanın çağrısı veya en az dört komisyon üyesinin
+teklifi üzerine yılda en az bir kez toplanır. Toplantı sonunda alınan
+kararlar, komisyon tarafından Bakanlığa bildirilir.
+(5) Uzman Komisyonunun görevleri aşağıda
+belirtilmiştir.
+a) Doğada ve firmaların üretim alanlarında yaptığı
+inceleme sonuçlarına göre, 7 nci maddede
+belirtilen çiçek soğanlarının cinslerini ve türlerini belirleyerek Teknik
+Komiteye tavsiyede bulunur.
+b) 7 nci maddenin birinci
+fıkrasının (b) bendinde belirtilen çiçek soğanlarının, miktarlarını,
+toplama bölgelerini, toplama zamanlarını ve çevre ölçülerini tespit eder ve
+gerekli raporu hazırlayarak Teknik Komiteye sunar.
+c) Toplama alanlarını inceler ve firmaların toplama
+planlarını değerlendirerek uygun gördüklerini onaylar.
+ç) Firmaların üretim faaliyetlerini denetler,
+üretim ile ilgili tavsiyelerde bulunur ve Bakanlığa bilgi sunar.
+d) Yabancı ülkelerin benzer kurulları ile gerekli
+koordinasyonu sağlar, CITES kapsamındaki faaliyetlere katılır ve bu konuda
+Bakanlığı, Danışma Komitesini ve Teknik Komiteyi bilgilendirir.
+e) Bakanlığın ve Teknik Komitenin vereceği diğer
+görevleri yapar.
+(6) Doğal Çiçek Soğanları Uzman Komisyonunda alınan
+kararlar tavsiye niteliğinde olup bu kararlar Teknik Komitenin görüşüne
+sunulur.
+DÖRDÜNCÜ BÖLÜM
+Firma
+Yeterliliği
+Firmaların
+ihracat yeterlilikleri
+MADDE 12
+– (1) Firmaların, 7 nci maddenin birinci fıkrasının (b) bendinde belirtilen
+ve ihracatı kotaya tabi olan doğal çiçek soğanlarını ihraç edebilmesi için
+yeterlilik sahibi olmaları gerekir.
+(2) Firmaların yeterlilik şartları aşağıda
+belirtilmiştir.
+a) Üretilen her tür için en az 500 m2
+olmak üzere (anaç çiçek soğanı parselleri için ayrılan alan hariç) en az toplam
+5 dekar üretim alanına sahip olması veya kiralaması,
+b) Ana deposunun bulunması,
+c) Operatör kaydının olması,
+ç) Süs Bitkileri Üreticileri Alt Birliğine üye
+olması,
+d) Firmada üretim ve pazarlama konularında
+ihtisaslaşmış en az bir teknik personelin istihdam edilmesi.
+Yeni
+kurulacak firmaların yeterliliklerinin tespiti
+MADDE 13
+– (1) Firma yeterlilik için, 7 nci maddenin birinci fıkrasının (b) bendinde belirtilen
+doğal çiçek soğanı türlerini ihraç etmek üzere 12 nci
+maddenin ikinci fıkrasında belirtilen hususları belgeleyen bir dosya ile Bakanlığa
+başvurur.
+(2) Başvuruda bulunan firmaların yeterlilikleri,
+Teknik Komitenin kararı ve Bakanlığın görevlendirmesi ile geçici olarak
+oluşturulacak Bilirkişi Kurulu tarafından yerinde yapılan inceleme
+sonucunda tespit edilir.
+(3) Bilirkişi Kurulu aşağıda belirtilen
+temsilcilerden oluşur.
+Kuruluşun Adı
+Temsilci
+Sayısı
+Bitkisel Üretim
+Genel Müdürlüğü
+2
+Doğal Çiçek
+Soğanları Uzman Komisyonu
+2
+İlgili il
+müdürlüğü
+1
+(4) Bilirkişi Kurulu, Bakanlıkça
+görevlendirildikten sonra en geç bir ay içerisinde gerekli incelemeyi
+yaparak raporunu hazırlar. Bu rapor, Teknik Komitenin bir sonraki
+toplantısında görüşülmek üzere BÜGEM’e iletilir.
+Teknik Komitede alınan karar, Bakanlık tarafından değerlendirilerek sonuç
+ilgililere bildirilir.
+(5) Firmanın yeterlilik alabilmesi için 12 nci maddenin ikinci fıkrasında yer alan şartları
+sağlaması gerekir.
+BEŞİNCİ BÖLÜM
+Doğal Çiçek
+Soğanlarının İhracat Esasları
+Doğadan
+çiçek soğanı elde edilmesi
+MADDE 14
+– (1) İhracatı kotaya tabi olan
+doğal çiçek soğanları için, Teknik Komitenin onayladığı kontenjan ve
+toplama takvimine göre, firmalar toplama planı hazırlar. Doğal çiçek
+soğanları için gerek toplama planları hazırlanırken gerekse kotalar
+belirlenirken Orman Genel Müdürlüğünün Odun Dışı Orman Ürünleri envanter verilerinden faydalanılır.
+(2) Toplama planı, Doğal Çiçek Soğanları Uzman
+Komisyonu Başkanına veya Başkanın yetki verdiği üyeye onaylatılır ve BÜGEM’e gönderilir. Bu plan Teknik Komite kararlarına
+uygun ise Bakanlık tarafından ilgili kuruma duyurulur. Devlet ormanlarından
+elde edilecek doğal çiçek soğanları için o mahallin Orman Genel Müdürlüğü
+taşra teşkilatından, devlet ormanları dışında kalan yörelerden toplanan
+doğal çiçek soğanları için ise il müdürlüğünden Menşei Belgesi alınır.
+(3) Firma, toplama planındaki alanların her biri
+için bir bölge temsilcisi belirler veya kendini bölge temsilcisi olarak
+tayin eder. Firmanın, bölge temsilcisi belirlemesi durumunda, firma ile
+bölge temsilcisi arasında yapılan sözleşme BÜGEM’e
+gönderilir. BÜGEM, belirlenen bölge temsilcilerinin isimlerini Orman Genel
+Müdürlüğü ve ilgili il müdürlüklerine iletir. Bölge temsilcisi, kendi
+bölgesindeki doğadan toplamalardan sorumludur ve bölgesi dışında kalan
+alanlardan toplama yapamaz.
+(4) İhracat amacıyla doğadan toplanacak çiçek
+soğanlarının, toplama bölgelerine göre Bakanlıkça belirlenen ve firmalar
+tarafından ortak kullanılan bir ön depodan geçirilmesi zorunludur. Ön depo
+tutanaklarının bir örneği her yıl tutanakların düzenlenmesinin ardından
+ilgili il müdürlükleri tarafından ihracat aşamasında ise firmalar
+tarafından BÜGEM’e gönderilir.
+(5) Doğadan toplanan çiçek soğanlarının ihracat
+boyunda olmayan elek altı materyalinin, firmalar tarafından doğaya geri
+kazandırılmak üzere hangi bölgeden toplama yapıldıysa o bölgeye uygun
+koşullarda dikim yapılması zorunludur.
+(6) Milli park, tabiat parkı, tabiat anıtı, tabiatı
+koruma alanları, muhafaza ormanları, yaban hayatı koruma ve yaban hayatı
+geliştirme sahaları gibi alanlardan 7 nci
+maddenin üçüncü fıkrası kapsamında olan doğal çiçek soğanları haricinde
+doğal çiçek soğanı toplanması yasaktır.
+(7) 7 nci maddenin
+birinci fıkrasının (c) bendinde belirtilen çiçek soğanlarının üretimi için,
+doğadan üretim materyali toplanmasına izin verilmez.
+Üretim
+alanlarından çiçek soğanı hasadı
+MADDE 15
+– (1) Firma, kendi üretim alanında
+üretim yapacağı 7 nci maddenin birinci fıkrasının
+(b) ve (c) bentlerinde belirtilen her bir tür için Bakanlık denetiminde en
+az 250 m2 anaç çiçek soğanı parseli ayırması gerekir. Anaç çiçek
+soğanı parselinden temin edilen üretim materyali ile yapılan üretimden
+çiçek soğanı elde edilebilir.
+(2) Anaç çiçek soğanı parseli ile üretim parseli
+aynı arazi içerisinde olduğunda; firma tarafından söz konusu parseller
+arasında bir mesafe bırakılarak ayrı parseller olarak tesis edilmeli ve
+gerekli isimlendirme ve işaretleme yapılmalıdır.
+(3) Üretim alanlarından çiçek soğanı elde
+edilebilmesi için; ekim, dikim, vejetasyon, üretim ve hasat aşamalarında
+il/ilçe müdürlükleri tarafından kontrol ve denetleme yapılır. Üretim
+alanları ayrıca Doğal Çiçek Soğanları Uzman Komisyonunun denetimine
+tabidir. Hasat, firma tarafından yapılacak hasat programına göre, il/ilçe
+müdürlüğü denetiminde gerçekleştirilir. İl/ilçe müdürlüğünce firmaya, elde
+edilen çiçek soğanlarının üretim olduğunu belirten onaylı Hasat Belgesi
+verilir. Bitki pasaportuna tabi türler için, ürünün başka bir ile
+gönderilmesi, başka bir ilde depolanması veya başka bir ilden ihracatının
+gerçekleşmesi durumunda Bitki Pasaportu, Hasat Belgesi ile birlikte
+verilir. Bitki Pasaportu Sistemi ve Operatörlerin Kayıt Altına Alınması
+Hakkında Yönetmeliğin EK-1 listesinde yer almayan türler için ise; 30/4/2015 tarihli ve 29342 sayılı Resmî Gazete’de
+yayımlanan Süs Bitkileri ve Çoğaltım Materyallerinin Üretimi ve
+Pazarlamasına Dair Yönetmelik kapsamında etiket düzenlenir. Ekim dikim
+raporu olmayan üretim alanlarından hasat edilen çiçek soğanları için Hasat
+Belgesi düzenlenmez. İhracatı yapılamayan üretim materyalleri yukarıda
+belirtilen belgelere istinaden firmanın üretim alanlarına il/ilçe müdürlüğü
+gözetiminde geri dikilir.
+(4) Firma, doğal çiçek soğanı üretimi yaptıracağı
+çiftçi ile 26/4/2008 tarihli ve 26858 sayılı
+Sözleşmeli Üretim ile İlgili Usûl ve Esaslar
+Hakkında Yönetmelik çerçevesinde bir sözleşme yapar, yapılan sözleşmenin
+ekim-dikim-hasat dönemini kapsaması esastır. Yapılan sözleşmenin bir örneği
+firma tarafından ilgili il müdürlüğüne ve BÜGEM’e
+gönderilir. Sözleşme yapılmamış alanlardan elde edilen doğal çiçek
+soğanları için firma adına ekim dikim belgesi ile hasat belgesi
+düzenlenmez.
+İhracat
+MADDE 16
+– (1) 7 nci
+maddede belirtilen doğal çiçek soğanlarından bilimsel amaçla toplanan
+materyalin ihracatı, Teknik Komite kararı doğrultusunda Bakanlığın ve
+ilgili Bakanlıkların izni ile yapılır.
+(2) 7 nci maddede
+belirtilen doğal çiçek soğanlarının diğer aksamlarının ihracatı, Teknik
+Komitenin uygun kararı doğrultusunda il müdürlüğünün izni ile yapılır.
+(3) İhracat yeterliliğine sahip olan firma, 7 nci maddenin birinci fıkrasının (b) bendinde belirtilen
+doğal çiçek soğanlarının ihracatını, bu Yönetmelikte belirtilen esaslara
+göre yapar.
+(4) Firma, gerçekleşen ihracat ile ilgili fatura,
+çeki listesi ve gümrük çıkış beyannamesinin birer örneğini her yıl Aralık
+ayı sonuna kadar topluca BÜGEM’e gönderir.
+Elektronik gümrük beyannamesinde ise, firma beyannamedeki bilgileri BÜGEM’e sunar. Firmanın bu belgeleri veya bilgileri
+göndermemesi durumunda gönderilmeyen yıla ait veriler kontenjan hesabına dahil edilmez.
+(5) 7 nci maddenin
+birinci fıkrasının (c) bendinde belirtilen çiçek soğanlarının ihracatı için
+firmanın yeterlilik sahibi olma şartı aranmaz. Bu türlerin il müdürlükleri
+tarafından üretim alanlarında, ekim, dikim, vejetasyon ve hasat aşamalarının
+kontrol edilmesi kaydıyla ihracatına il müdürlüğünce izin verilir.
+(6) Türkiye’de herhangi bir ıslah yöntemiyle ıslah
+edilmiş ve doğal türlerinden farklılaştırılmış olan çiçek soğanlarının
+ihracatı, il müdürlüklerinden alınacak ihracat izni ile serbesttir.
+Firmaların
+ihracat kontenjanlarının tespiti
+MADDE 17
+– (1) Teknik Komite tarafından
+tespit edilen firmaların ihracat kontenjanları, Bakanlığın onayından sonra
+kesinleşir.
+(2) İhracat yeterliliğine sahip firmaların o yıla
+ait toplam kontenjanları, dördüncü fıkranın (a), (b), (c) ve (ç) bentlerinde
+belirtilen hükümlerin birbirlerinden bağımsız olarak değerlendirilmesi
+sonucu elde edilen puanların toplanması ile belirlenir.
+(3) Puanların dördüncü fıkranın (a) ve (b)
+bentlerindeki hesaplamalar, firmaların BÜGEM’de
+bulunan son iki yıla ait verilerinin ortalaması esas alınarak, dördüncü
+fıkranın (c) ve (ç) bentlerindeki hesaplamalar o yıla ait veriler esas
+alınarak aşağıdaki yöntemle hesaplanır.
+(4) Puanların (a), (b) ve (c) bentlerindeki
+hesaplamalar da; her bir firmanın ilgili bent için hesaplanan puanı tüm
+firmaların söz konusu bent için hesaplanan toplam puanına oranlamasına göre
+belirlenir.
+a) İhracat ve Pazarlama durumu: 40 puan. Bu
+değerlendirmedeki puan aşağıdaki oranlara göre 7 nci
+maddenin birinci fıkrasının (b) ve (c) bentlerinde yer alan doğal çiçek
+soğanları için hesaplanır.
+1) Soğanların Euro olarak ihracat geliri: (20) puan
+2) Soğanların adet olarak ihracat miktarı: (20)
+puan
+b) Üretim Puanı: 40 puan. Bu değerlendirmedeki puan
+aşağıdaki oranlara göre 7 nci maddenin birinci
+fıkrasının (b) bendinde yer alan doğal çiçek soğanları için hesaplanır.
+1) Üretim alanı: (20) puan
+2) Hasat edilen miktar: (10) puan
+3) Üretilen Soğan Türü sayısı: (10) puan
+c) Kontenjan gerçekleştirme puanı: (10) puan. Bu
+değerlendirmedeki puan 7 nci maddenin birinci
+fıkrasının (b) bendinde yer alan doğal çiçek soğanları için hesaplanır.
+ç) Değerlendirme: (10) puan. Bu Yönetmeliğe göre
+yeterlilik alan ve doğal çiçek soğanlarını ihraç eden firmaların bu
+Yönetmelik hükümlerine uyumu, firmaya ait işletme kapasitesi,
+organizasyonu, tesis varlığı, tesis ve arazinin amaca uygun kullanımı ve
+benzeri hususlar dikkate alınarak Teknik Komite tarafından firma bazında
+puan belirlenir.
+(5) 8 inci madde uyarınca Bakanlıkça belirlenen
+ihracat listesinde yer alan cins ve türlerden, her bir firma tarafından
+ihraç edilebilecek çiçek soğanlarının dağılımı, bu puanlama sonucunda
+belirlenen orana göre yapılır.
+(6) Yapılan değerlendirme sonucu hazırlanan
+kontenjan tablosu, firmalara ve ilgili kurum ve kuruluşlara Bakanlıkça
+duyurulur.
+(7) Yeni başvuran ancak yeterlilik alamayan firmaya
+kontenjan verilmez. Yeterlilik alan firma ise, bir sonraki yıl kontenjan
+almaya hak kazanır. Yeterlilik alan yeni firmanın başlangıç puanı iki
+olarak belirlenir. Firma daha sonraki yıl için üçüncü fıkrada belirtilen
+hesaplamaya katılır. Firmanın puanı, hesaplamada iki puandan düşük çıkması
+durumunda, puan iki olarak belirlenir. Firmanın üçüncü yıl ve sonrası için
+puanı üçüncü fıkrada belirtilen hesaplamaya göre belirlenir.
+İhracat
+izninin verilmesi
+MADDE 18
+– (1) Firma, 7 nci
+maddenin birinci fıkrasının (b) bendinde belirtilen çiçek soğanlarının
+ihracat izni için; Menşei ve Hasat Belgeleri, doğadan toplanan çiçek
+soğanlarına ilişkin ön depo tutanakları ve CITES kapsamındaki türlerde
+Bakanlık adına BÜGEM tarafından düzenlenen CITES belgesi ile BÜGEM’e başvurur. Uygun görüldüğü takdirde; firmaya
+BÜGEM tarafından Bakanlıkça her yıl yayımlanan Tohumluk İhracat Genelgesi
+kapsamında ihracat izni düzenlenir.
+(2) 7 nci maddenin
+birinci fıkrasının (c) bendinde belirtilen çiçek soğanlarının üretimine
+ilişkin il/ilçe müdürlüğünce yapılan kontrollerden sonra il/ilçe müdürlüğü
+tarafından Hasat Belgesi düzenlenir. Hasat Belgesine istinaden firmaya il
+müdürlükleri tarafından Bakanlıkça her yıl yayımlanan Tohumluk İhracat
+Genelgesi kapsamında ihracat izni verilir. Bu maddede belirtilen ve CITES
+kapsamına giren türler için, CITES Belgesi Bakanlık adına BÜGEM tarafından
+onaylanarak ihraç izinleri verilir.
+(3) İhraç izni alan firma, ihracat için yüklemenin
+yapılacağı ilin, il müdürlüğüne başvurur.
+(4) İhraç edilecek çiçek soğanlarının miktarları ve
+fiziki denetimleri il müdürlükleri, bitki sağlığı kontrolleri ise zirai
+karantina müdürlükleri, zirai karantina müdürlüklerinin olmadığı illerde
+ise il müdürlükleri tarafından yapılır.
+(5) İl müdürlüğü, tür tespitinde tereddüt yaşadığı
+durumlarda, Doğal Çiçek Soğanları Uzman Komisyonu ve Araştırma Kuruluşlarından
+teknik yardım alır.
+ALTINCI BÖLÜM
+Çeşitli ve Son
+Hükümler
+Kontenjan
+devri
+MADDE 19
+– (1) Yıllık kontenjanlar firmalar
+arasında devredilemez.
+İthalat
+ve yeniden ihracat
+MADDE 20
+– (1) Doğal çiçek soğanlarının ithalatı
+ile yeniden ihracatına ilişkin uygulamalar Bakanlıkça yürütülür.
+Ücretler
+MADDE 21
+– (1) Bu Yönetmelik kapsamında
+CITES Ek listelerinde yer alan türlere ilişkin CITES Belgesi ile doğal
+çiçek soğanları işlemlerine ilişkin belgelerin Bakanlık tarafından
+onaylanması ücrete tabidir. Ücretler, 31/1/2015
+tarihli ve 29253 sayılı Resmî Gazete’de yayımlanan Gıda, Tarım ve
+Hayvancılık Bakanlığı Döner Sermaye İşletmeleri Uygulama Yönetmeliği
+hükümlerine göre, hizmeti veren kuruluşun döner sermaye işletmesi hesabına
+peşin olarak yatırılır.
+İdari
+yaptırımlar
+MADDE 22
+– (1) Bu Yönetmelikte belirtilen
+hususlardan herhangi birine uymadığı tespit edilen firmalara, bir sonraki
+yıl Teknik Komite tarafından 17 nci maddenin dördüncü
+fıkrasının (ç) bendi kapsamında yaptırım uygulanır.
+(2) 7 nci maddenin
+birinci fıkrasının (b) bendinde belirtilen çiçek soğanı türlerinin doğadan
+toplanması, üretimi, hasadı ve ihracatı ile ilgili hususlardan herhangi
+birine uymadığı tespit edilen firmaya bir sonraki yıl Teknik Komitenin
+kararına istinaden ilgili türün ihracatı için doğa ve üretim kontenjanı
+Bakanlık tarafından verilmez. Firmanın aynı aykırılığı bir sonraki yıl
+tekrar etmesi durumunda ise takip eden yılda firmanın ihracata en fazla
+konu olan çiçek soğanı türü için doğa ve üretim kontenjanı verilmez.
+(3) CITES kapsamındaki bir türün doğadan
+toplanması, üretimi, hasadı, ihracatı ve yeniden ihracatı konusunda bir
+firmanın bu Yönetmelik hükümlerine uymadığı tespit edilirse söz konusu firmaya
+o tür için bir sonraki yıl doğa ve üretim kontenjanı verilmez.
+(4) Nesli tehdit veya tehlike altında olan veya
+nadir bulunan doğal çiçek soğanlarını doğadan izinsiz ve kaçak toplayan
+veya mevzuata aykırı biçimde ticarete konu eden kişi veya kuruluşlara, 9/8/1983 tarihli ve 2872 sayılı Çevre Kanunu uyarınca
+işlem yapılır.
+(5) İhracat aşamasında gerçeğe aykırı beyanda
+bulunanlar hakkında 5553 sayılı Tohumculuk Kanununun 12 nci
+maddesi ile her ne amaçla olursa olsun izin almadan doğal çiçek
+soğanlarını, yumrularını, pençelerini ve rizomlarını
+yurt dışına gönderen veya yabancı uyruklu kişilere temin edenler hakkında 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele
+Kanunu hükümleri uygulanır.
+(6) Bilimsel araştırma amacıyla izinsiz veya izin
+verilen koşullara aykırı olarak doğal çiçek soğanı toplayanlara iki yıl
+süreyle bilimsel amaçlı doğadan toplama içeren araştırma izni verilmez.
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 23
+– (1) 19/7/2012
+tarihli ve 28358 sayılı Resmî Gazete’de yayımlanan Doğal Çiçek Soğanlarının
+Üretimi, Doğadan Toplanması ve İhracatına İlişkin Yönetmelik yürürlükten
+kaldırılmıştır.
+Geçiş
+hükmü
+GEÇİCİ
+MADDE 1 – (1) Bu Yönetmeliğin
+yayımı tarihinden önce yeterlilik almış firmalar 31/12/2017
+tarihine kadar 12 nci maddede belirtilen hükümlere
+uyum sağlamak zorundadır. Belirtilen süre içerisinde 12 nci
+maddede belirtilen hükümlere uyum sağlamayan firmaların yeterlilikleri
+iptal edilir.
+Yürürlük
+MADDE 24
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 25
+– (1) Bu Yönetmelik hükümlerini
+Gıda, Tarım ve Hayvancılık Bakanı yürütür.
