@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6870",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Milli Eğitim Bakanlığı ile Cibuti Cumhuriyeti Milli Eğitim ve Yükseköğretim Bakanlığı Arasında Teknik İş Birliği Anlaşmasında Değişiklik Yapılmasına Dair Protokolün Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-22",
+  "gazette_issue": "30015",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-9.htm",
+  "source_sha256": "d0e46fca05eae529e5cbbd95f9d144654547780ecd93402ca270a84f5e04c0a4",
+  "text_sha256": "7d95af30e42600d3bdfdc91d5fbf491911278bcd89c339aae773eec4dc17050e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/22/30015-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
