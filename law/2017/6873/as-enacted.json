@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6873",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Endonezya Cumhuriyeti Hükümeti Arasında Deniz Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-22",
+  "gazette_issue": "30015",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-11.htm",
+  "source_sha256": "7748c116b339e192ed2210643e01163cb6b887ac5e45cd8af292389e8337de64",
+  "text_sha256": "dac6e02914f2cd5b3d2571b8a62ee928cf30f6f6bb946dcaa4bb7b59fbd768de",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/22/30015-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
