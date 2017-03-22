@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6896",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Tanzanya Birleşik Cumhuriyeti Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-22",
+  "gazette_issue": "30015",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-23.htm",
+  "source_sha256": "0710d44f6119f4a128e0f74092474a0a191ea587343c11190afb6dbe7a882c35",
+  "text_sha256": "357ca63cbd9ed3b7936d6b4947213c4d70643944fe41acd8f2f9d5e2d00f7a2a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/22/30015-23",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-23.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
