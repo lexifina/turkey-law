@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6897",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Fas Krallığı Hükümeti Arasında Karayoluyla Uluslararası Yolcu ve Yük Taşınmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-22",
+  "gazette_issue": "30015",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-24.htm",
+  "source_sha256": "edcae93fe81b7a38ada16e5e8efb49fb65c671e255b63f696ae7593f0160a5e3",
+  "text_sha256": "6f905ba7e1c03d85a00074a3ad59ae8a012ef821a9be3b0b319076e28d14f708",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/22/30015-24",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-24.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
