@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6882",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Moldova Cumhuriyeti Hükümeti Arasında Eğitim Alanında İş Birliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-22",
+  "gazette_issue": "30015",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-14.htm",
+  "source_sha256": "bad7843e52809d4d86e796fd5acd1e2f29461334b52c92ec6021ed6ebc66510a",
+  "text_sha256": "86a536449d123e1293977ac2e1bd8259769a093450d6a1d4dc4e7e2cda801ec1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/22/30015-14",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-14.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
