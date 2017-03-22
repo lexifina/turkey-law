@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6867",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Nijerya Federal Cumhuriyeti Hükümeti Arasında Göç Konularına Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-22",
+  "gazette_issue": "30015",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-7.htm",
+  "source_sha256": "4f6c3e0dbfe6337bc1abbab5eec8f466d8c8794b6d7655f1679e8200b9be1d29",
+  "text_sha256": "b8267026702c75215a0b7eeb047c113df23db81bbf6f3920622c05e146c127b4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/22/30015-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
