@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6865",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Brunei Sultanlığı Hükümeti Arasında Ekonomik, Ticaret ve Teknik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-22",
+  "gazette_issue": "30015",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-5.htm",
+  "source_sha256": "7955fc868ef617d2b350f4b2a02849deabce3f9f419e8cbab51fb01f17c2a391",
+  "text_sha256": "3576a5e5a5819063dff9e32be18d4c1bb16a30170055f543b1de5f2595434816",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/22/30015-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
