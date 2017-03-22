@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6884",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve El Salvador Cumhuriyeti Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-22",
+  "gazette_issue": "30015",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-16.htm",
+  "source_sha256": "5ca2f0e20feb0636dabb80243994ba524325efa06f0fccd7a0ad6fe012b0831b",
+  "text_sha256": "da66188695eb50011b3df35e117a52305ed2fd943e0d07ffc41492bd324bb83c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/22/30015-16",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-16.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
