@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42879",
+  "decision_date": "2017-03-22",
+  "source_id": 13516,
+  "chamber": "2",
+  "file_number": "39244",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2012",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13516/",
+  "source_sha256": "36e3d07745e8dd335f065566a3dd542875e978c1db85225534f2c177c59d1c34",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
