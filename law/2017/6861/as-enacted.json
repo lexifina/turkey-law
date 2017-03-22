@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6861",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Gine-Bissau Cumhuriyeti Hükümeti Arasında Güvenlik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-22",
+  "gazette_issue": "30015",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-3.htm",
+  "source_sha256": "ac8e6412fc13af07e99fc74f1447708693e8c7f9260fe4d625265fb6e22bc7f9",
+  "text_sha256": "4bb7583a2e427733017454b5dc4dc7b0f21efbe1a9065c777c0129b289ec6664",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/22/30015-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
