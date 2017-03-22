@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6893",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Birleşik Meksika Devletleri Hükümeti Arasında Örgütlü Suçlar ve Terörizmle Mücadelede İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-22",
+  "gazette_issue": "30015",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-21.htm",
+  "source_sha256": "9e2e9e25b7e46d661972ac5f5a93962e45caca2ae51638040a370803c49065d9",
+  "text_sha256": "55a5299708e17cf27271c8d75f10bc83e64e1a408a0e5ee071952b03bf2cb18a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/22/30015-21",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170322-21.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
