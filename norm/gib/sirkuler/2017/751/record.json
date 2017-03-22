@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-90 / 2017 -3",
+  "source_id": 751,
+  "date": "2017-03-22",
+  "title": "Şubat 2017 Dönemine Ait Muhtasar Beyannameler, Damga Vergisi Beyannameleri, Katma Değer Vergisi Beyannameleri ile 2016 Takvim Yılı Yıllık Gelir Vergisi Beyannamelerinin Verilme Süresinin Uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/751",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "0ce92e9c688aebcd72fdacaef76cc971d51f225ab6d4bdbec5dde3fbf517f7b4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
