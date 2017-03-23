@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35466",
+  "decision_date": "2017-03-23",
+  "source_id": 24360,
+  "chamber": "2",
+  "ilam_number": "203",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24360/",
+  "source_sha256": "2b006b2750c4995d56ece2c97acdf1592bb8c66ba9e9b8cdee9e292de1119e76",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
