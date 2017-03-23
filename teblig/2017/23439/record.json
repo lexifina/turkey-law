@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.23439",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "5201 SAYILI KANUN GEREĞİNCE KONTROLE TABİ TUTULACAK HARP ARAÇ VE GEREÇLERİ İLE SİLAH, MÜHİMMAT VE BUNLARA AİT YEDEK PARÇALAR, ASKERİ PATLAYICI MADDELER, BUNLARA AİT TEKNOLOJİLERE İLİŞKİN LİSTE (2017 YILI KONTROLE TABİ MALZEME LİSTESİ)",
+  "number": "23439",
+  "path": "teblig/2017/23439",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23439&MevzuatTertip=5",
+  "source_sha256": "a47c04dfa719faf545bddaf1bfbca12a80656fe59ad48730a2ad15134ea9b8db",
+  "source_bytes": 6792,
+  "published": "2017-03-23",
+  "gazette": "30016",
+  "in_force": "2017-03-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.03.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 37,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2017/03/20170323-30.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
