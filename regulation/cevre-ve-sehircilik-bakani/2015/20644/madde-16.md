@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Sigorta ve Maliyetlerin Karşılanması
+Mali sorumluluk sigortası yaptırma yükümlülüğü
+MADDE 16 – (1) Miktarına bakılmaksızın tehlikeli atıkların toplanması, taşınması, ara depolanması, geri kazanımı, yeniden kullanılması, bertarafı ve prosesten kaynaklanan tehlikeli atıkların geçici depolanması faaliyetlerinde bulunanlar faaliyetleri nedeniyle oluşacak bir kaza dolayısıyla üçüncü şahıslara verebilecekleri zararlara karşı tehlikeli atık malî sorumluluk sigortası yaptırmak zorundadırlar. Sigorta yaptırma zorunluluğuna uymayan kurum, kuruluş ve işletmelere bu faaliyetler için izin ve lisans verilmez.
+(2) Halihazırda bu maddenin birinci fıkrasında yer alan faaliyetlerde bulunanlar için tehlikeli atıkları da kapsayacak şekilde 9/5/2010 tarihli ve 27576 sayılı Resmî Gazete’de yayımlanan Tehlikeli Maddeler İçin Yaptırılacak Zorunlu Sorumluluk Sigortalarına İlişkin Tarife ve Talimata uygun olarak düzenlenmiş bir sigorta poliçesi olması halinde ayrıca mali sorumluluk sigortası yaptırmasına gerek yoktur.

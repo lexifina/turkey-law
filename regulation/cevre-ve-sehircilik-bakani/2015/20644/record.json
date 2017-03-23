@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.20644",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ATIK YÖNETİMİ YÖNETMELİĞİ",
+  "number": "20644",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2015/20644",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20644&MevzuatTertip=5",
+  "source_sha256": "9d2f261d38154ebd6b85291dc789056a811041975b49bf6a272b43f5254c1c95",
+  "source_bytes": 123564,
+  "published": "2015-04-02",
+  "gazette": "29314",
+  "in_force": "2017-03-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/3/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-03-23",
+      "RG-23/3/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-03-23",
+      "23/3/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6973,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.20644-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
