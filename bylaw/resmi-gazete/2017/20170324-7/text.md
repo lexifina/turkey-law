@@ -1,0 +1,236 @@
+24 Mart 2017 CUMA
+Resmî Gazete
+Sayı : 30017
+TEBLİĞ
+Ekonomi Bakanlığından:
+İTHALATTA
+HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ
+(TEBLİĞ NO:
+2017/9)
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, Ak-kim Kimya San. ve Tic.
+A.Ş. tarafından yapılan başvuruya istinaden Almanya Federal Cumhuriyeti ve
+İsveç Krallığı menşeli “sodyum perkarbonatlar” ithalatına ilişkin olarak
+damping soruşturması açılması ve açılan soruşturmanın usul ve esaslarının
+belirlenmesidir.
+Dayanak
+MADDE 2 –
+(1) Bu Tebliğ, 14/6/1989 tarihli
+ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun,
+20/10/1999 tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe
+konulan İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999
+tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin
+Önlenmesi Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 –
+(1) Bu Tebliğde geçen;
+a) Ak-kim: Ak-kim Kimya San. ve Tic. Anonim
+Şirketini,
+b) Almanya: Almanya Federal Cumhuriyeti’ni,
+c) Bakanlık: Ekonomi Bakanlığını,
+ç) Genel Müdürlük: Bakanlık İthalat Genel
+Müdürlüğünü,
+d) GTİP: Gümrük tarife istatistik pozisyonunu,
+e) İsveç: İsveç Krallığı’nı,
+f) TÜİK: Türkiye İstatistik Kurumunu,
+g) Yönetmelik: 30/10/1999 tarihli ve 23861 sayılı
+Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında
+Yönetmeliği,
+ğ) YÜD: Yerli üretim dalını,
+ifade eder.
+Başvuru
+konusu ürün
+MADDE 4 – (1) Başvuru konusu ürün, 2836.99.90.10.00 GTİP
+altında sınıflandırılan “sodyum perkarbonatlar”dır.
+(2) Bahse konu GTİP, bilgi amaçlı verilmiş olup,
+bağlayıcı mahiyette değildir.
+(3) Başvuru konusu ürünün Türk Gümrük Tarife Cetvelinde
+yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak değişiklikler
+bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
+Başvurunun
+temsil niteliği
+MADDE 5 – (1) Başvuru aşamasında sunulan delillerden,
+Yönetmeliğin 20 nci maddesi çerçevesinde başvuru yeterliliğine sahip olan
+yerli üreticinin Yönetmeliğin 18 inci maddesi çerçevesinde yerli üretim
+dalını temsil niteliğini haiz olduğu anlaşılmıştır. Bu kapsamda, Ak-kim
+firması bu Tebliğin ilgili bölümlerinde YÜD olarak anılacaktır.
+Damping iddiası
+MADDE 6 –
+(1) Damping belirlemesinde normal
+değer hesabı, şikâyete konu ülkeler menşeli ithal ürünün gerek iç piyasa
+satışlarına gerekse de anılan ülkelerdeki üretim maliyetlerine ilişkin
+veriler bulunamadığından, eldeki mevcut verilerden hareketle, emsal olarak
+yerli üretim dalının 2016 yılı üretim maliyetleri esas alınarak
+yapılmıştır. Bu çerçevede, YÜD’ün üretim maliyetine, satış, genel ve idari
+giderler ve finansman giderleri ile makul bir kâr eklenerek oluşturulmuş
+normal değer elde edilmiş olup, bu değerin fabrika çıkış aşamasında olduğu
+kabul edilmiştir.
+(2) İhraç fiyatının tespitinde, şikâyet konusu ürün
+için TÜİK verilerinden elde edilen Almanya ve İsveç’ten 2016 yılı
+ithalatının ağırlıklı ortalama CIF ihraç fiyatları esas alınmıştır. Söz konusu
+birim ihraç fiyatlarından harici navlun ve sigorta bedelleri düşürülerek
+fiyatlar fabrika çıkış aşamasına getirilmiştir.
+(3) Bu maddede açıklandığı şekilde tespit edilen
+normal değer ile Türkiye’ye ihraç fiyatları mümkün olduğu ölçüde aynı
+ticari aşamada, fabrika çıkış aşamasında karşılaştırılmış olup, şikâyete
+konu ülkeler menşeli ürün için hesaplanan damping marjlarının Yönetmeliğin
+28 inci maddesinde zikredilen ihmal edilebilir oranların üzerinde olduğu
+tespit edilmiştir.
+Maddi
+zarar/zarar tehdidi ve nedensellik iddiası
+MADDE 7 – (1) Yönetmeliğin 17 nci maddesi çerçevesinde maddi
+zarar/zarar tehdidi iddiasının incelenmesi amacıyla şikâyet konusu
+ülkelerden gerçekleşen ithalatın miktar bazlı seyri, söz konusu ithalatın
+pazar payı ve YÜD’ün yurt içi satış fiyatları üzerindeki etkisi, şikâyet
+konusu ülkelerin ilgili ürüne ilişkin üretim kapasitesi ile YÜD’ün ekonomik
+göstergelerinin durumu ve soruşturma konusu ürünün stoklarındaki değişim
+değerlendirilmiştir.
+(2) Almanya menşeli ithalatın, 2015 yılında bir
+önceki yıla göre düşmekle beraber, 2016 yılında genel ithalat ve
+tüketimdeki azalışa rağmen artış göstermiş olduğu, ayrıca söz konusu
+ithalatın pazar payının inceleme dönemi boyunca arttığı tespit edilmiştir.
+(3) İsveç menşeli ithalatın 2015 yılında bir önceki
+yıla göre düştüğü, 2016 yılında genel ithalat ve tüketimdeki düşüşe rağmen
+tekrar yükseldiği; anılan ithalatın pazar payının 2015 yılında düşüp 2016
+yılında yükseldiği görülmüştür.
+(4) YÜD’ün pazar payının inceleme dönemi boyunca
+arttığı tespit edilmiştir. Diğer taraftan, 2016 yılında YÜD’ün pazar
+payındaki artışın Almanya ve İsveç menşeli ithalatın pazar paylarındaki
+artıştan daha düşük olduğu anlaşılmıştır.
+(5) Almanya ve İsveç menşeli ithalatın inceleme
+döneminde YÜD’ün yurt içi satış fiyatları üzerinde kırılma meydana
+getirmediği, ancak artan oranlarda baskı meydana getirdiği tespit
+edilmiştir.
+(6) İnceleme döneminde, YÜD’ün üretiminde, yurt içi
+satışlarında, kapasite kullanım oranında, stoklarında ve istihdamında 2015
+yılında bir önceki yıla göre yükseliş, 2016 yılında ise düşüş yaşandığı
+tespit edilmiştir.
+(7) YÜD’ün şikâyet konusu ürüne ilişkin birim
+ticari maliyetinin inceleme döneminde önemli oranda arttığı, yurt içi satış
+fiyatlarının maliyetinin altında kaldığı ve dolayısıyla kârlılığının dönem
+boyunca negatif olduğu tespit edilmiştir. Ayrıca, YÜD’ün yurt içi
+satışlarında maruz kaldığı zararın inceleme dönemi boyunca artış gösterdiği
+anlaşılmıştır.
+(8) Almanya ve İsveç’in şikâyet konusu üründe önemli
+miktarda üretim ve ihracat kapasitesine sahip olduğu görülmüştür.
+(9) Başvuru aşamasında sunulan deliller ve ithalata
+ilişkin resmî istatistikler esas alınarak yapılan tespitler ışığında,
+dampingli olduğu iddia edilen ithalatın YÜD üzerinde maddi zarar/zarar
+tehdidine yol açtığı değerlendirilmiştir.
+Karar ve
+işlemler
+MADDE 8 – (1) Yönetmeliğin 20 nci maddesi çerçevesinde bir
+damping soruşturmasının açılabilmesi için başvuruda yeterli bilgi, belge ve
+delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti
+Değerlendirme Kurulu tarafından Almanya ve İsveç menşeli 2836.99.90.10.00
+GTİP’li “sodyum perkarbonatlar”a yönelik olarak bir damping soruşturması
+açılmasına karar verilmiştir.
+(2) Soruşturma, Genel Müdürlük tarafından
+yürütülür.
+Soru
+formları ve bilgilerin toplanması
+MADDE 9 –
+(1) Soruşturma açılmasını
+müteakip, başvuruda belirtilen ve Bakanlıkça tespit edilen soruşturmaya
+konu ürünün ithalatçılarına, soruşturma konusu ülkelerde yerleşik bilinen
+üreticilerine/ihracatçılarına ve soruşturmaya konu ülkelerin Ankara’daki
+Büyükelçiliklerine bildirimde bulunulur.
+(2) Bildirimde, soruşturma açılış Tebliği,
+başvurunun gizli olmayan özeti ve soru formlarına erişim hususunda bilgiye
+yer verilir.
+(3) Bakanlıkça tespit edilememesi nedeniyle
+bildirim gönderilemeyen veya kendilerine bildirim ulaşmayan diğer ilgili
+tarafların soru formuna Bakanlığa ait internet sayfasındaki ilgili bölümden
+erişmeleri mümkün bulunmaktadır.
+(4) Soruşturmaya ilişkin yazılı ve sözlü iletişim
+Türkçe yapılır. İlgili tarafların soru formuna ilişkin yanıtlarını ve bu
+yanıtlar dışında kalan tüm bilgi, belge, görüş ve taleplerini yazılı olarak
+Türkçe sunmaları gerekir. Türkçe dışında bir dilde sunulan yanıt, bilgi,
+belge, görüş ve talepler dikkate alınmaz.
+(5) İlgili taraflar, soru formunda istenilen
+bilgiler haricinde, soruşturmayla ilgili olduğu düşünülen diğer bilgi,
+belge ve görüşlerini, destekleyici deliller ile birlikte Genel Müdürlüğe 10
+uncu maddenin ikinci fıkrasında belirtilen süre içerisinde sunabilir.
+(6) Soruşturmanın sonucundan etkilenebileceklerini
+iddia eden, ancak birinci ve üçüncü fıkra kapsamına girmeyen, ürünü girdi
+olarak kullanan işletmeler, bunların meslek kuruluşları, tüketici
+dernekleri, üretim dalındaki işçi veya işveren sendikaları gibi diğer
+ilgili taraflar görüşlerini 10 uncu maddenin üçüncü fıkrasında belirtilen
+süre içerisinde Genel Müdürlüğe sunabilir.
+(7) İlgili taraflarca soru formuna verilen
+cevaplar, soruşturmayla ilgili sunulan diğer bilgi, belge ve görüşler ile
+destekleyici deliller aksi belirtilmedikçe yazılı olarak sunulur. Yazılı
+sunumlarda ilgili tarafların isim ve unvanı, adres bilgileri, elektronik
+posta adresi, telefon ve faks numaraları belirtilir.
+(8) Soruşturma süresince Yönetmeliğin 22 nci
+maddesinin ikinci ve üçüncü fıkraları çerçevesinde gizlilik kaydıyla
+verilen her tür bilgi, belge ve görüşün gizli olmayan bir özeti sunulur.
+Gizli olmayan özet, esas bilginin makul ölçüde anlaşılmasına olanak
+sağlayacak ayrıntıda olur. İlgili taraflar, istisnai hallerde bu bilgilerin
+özetlenemeyecek nitelikte olduklarını belirtebilir. Bu gibi istisnai
+durumlarda, bilgilerin özetlenemeyecek nitelikte olmasının nedenlerinin
+belirtilmesi gerekir.
+Süreler
+MADDE 10
+– (1) 9 uncu maddenin birinci
+fıkrasında belirtilen bildirimin gönderildiği bütün ilgili taraflar için
+soru formunu cevaplandırma süresi, soruşturmanın açılışına ilişkin
+bildirimin gönderildiği tarihten itibaren posta süresi dâhil 37 gündür.
+(2) 9 uncu maddenin üçüncü fıkrasında yer alan
+bildirimin gönderilemediği ilgili taraflar ile beşinci fıkrasında
+belirtilen bütün ilgili taraflar, soruşturma ile ilgili görüşlerini ve soru
+formuna ilişkin cevaplarını bu Tebliğin yayımı tarihinden itibaren başlayacak
+37 günlük süre içerisinde sunabilir.
+(3) Soruşturmanın sonucundan etkilenebileceklerini
+iddia eden 9 uncu maddenin altıncı fıkrası kapsamına giren diğer ilgili
+taraflar, soruşturma ile ilgili görüşlerini bu Tebliğin yayımı tarihinden
+itibaren soruşturmanın akışını etkilemeyecek şekilde soruşturma süreci
+içerisinde sunabilir.
+İşbirliğine
+gelinmemesi
+MADDE 11
+– (1) Yönetmeliğin 26 ncı maddesi
+çerçevesinde, ilgili taraflardan birinin verilen süreler dâhilinde ve
+istenilen biçimde gerekli bilgi ve belgeleri sağlamaması ya da bu bilgi ve
+belgelere erişimi reddetmesi veya soruşturmayı engellediğinin anlaşılması
+veya yanlış ya da yanıltıcı bilgi vermesi hallerinde söz konusu taraf
+işbirliğine gelmemiş sayılır. Bu gibi hallerde soruşturma kapsamındaki
+geçici veya nihai belirlemeler, olumlu ya da olumsuz, mevcut verilere göre
+yapılabilir.
+(2) İlgili tarafların işbirliğine gelmemesi veya
+kısmen işbirliğine gelmesi halinde, bahse konu taraf için soruşturmanın
+sonucu işbirliğine gelinmesine nazaran daha az avantajlı olabilir.
+Geçici
+önlem alınması ve önlemlerin geriye dönük uygulanması
+MADDE 12
+– (1) Kanun ve Kararın ilgili
+hükümleri uyarınca, soruşturma süresince geçici önlem uygulanması
+kararlaştırılabilir ve kesin önlem geriye dönük olarak uygulanabilir.
+(2) Önlemlerin uygulanmasında başlamış işlem
+kavramı ve istisnası bulunmamaktadır.
+Yetkili
+merci ve adresi
+MADDE 13
+– (1) Soruşturmayla ilgili bilgi,
+belge ve görüşlerin aşağıda belirtilen yetkili mercie yazılı olarak
+iletilmesi gerekir:
+T.C. Ekonomi Bakanlığı
+İthalat Genel Müdürlüğü
+Damping ve Sübvansiyon Araştırma Dairesi
+Söğütözü Mah. 2176. Sk. No: 63 06530 Çankaya/ANKARA
+Faks:+90 312 204 86 33
+E-posta: dms267@ekonomi.gov.tr
+Soruşturmanın
+başlangıç tarihi
+MADDE 14
+– (1) Soruşturma, bu Tebliğin
+yayımı tarihinde başlamış kabul edilir.
+Yürürlük
+MADDE 15
+– (1) Bu Tebliğ yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 16
+– (1) Bu Tebliğ hükümlerini
+Ekonomi Bakanı yürütür.
