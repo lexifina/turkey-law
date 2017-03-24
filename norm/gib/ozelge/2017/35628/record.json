@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "65771276-140[59-2017/2]-10",
+  "source_id": 35628,
+  "date": "2017-03-24",
+  "title": "3713 sayılı terörle Mücadele Kanunu kapsamında harp malüllüğü aylığı alan şehit babasının yaptırdığı konutların tapuda yapılan cins değikliği işleminden tapu harcı aranılıp aranılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35628",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "3cd2bdd3ad5e5c2b3f17d50411b8d6425eeca7b127558b9f7ce6435838f99cc7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
