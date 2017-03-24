@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13334133-KDV-03-8",
+  "source_id": 32389,
+  "date": "2017-03-24",
+  "title": "Oto koltuk kılıflarının tesliminde KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32389",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "4892e3ab1112dfd3d08c4681faa3ed9ef68a3eec43b5cd03f58d14fca0e92cb8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
