@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-175.01[4.2016/6.1.28-335393]-83399",
+  "source_id": 36991,
+  "date": "2017-03-24",
+  "title": "Kamu Kurumu Niteleğindeki Meslek Kuruluşlarına Ait Bina ve Arsaların Emlak Vergisi Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36991",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "41dfdf7eba17bfbd2849966fc66975e53aed26298ea2df2759d21a29eb95fd43",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
