@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10637",
+  "decision_date": "2017-03-24",
+  "source_id": 25410,
+  "chamber": "1",
+  "ilam_number": "219",
+  "item_number": 12,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25410/",
+  "source_sha256": "6fa2531492fc9f9357b015fd3695c231389e95d602f0763ddccee9b8eefbc37b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
