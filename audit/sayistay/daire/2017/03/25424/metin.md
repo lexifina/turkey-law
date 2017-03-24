@@ -1,0 +1,5 @@
+…ce 4734 sayılı Kanunun 22/d maddesi ile ….nın kompanzasyon sistemlerinin yıllık bakım ve onarımının yapılması için hizmet alımı yapılmış olup bu işlere ait tip sözleşmenin “Malın/İşin Teslim Alma ve Muayene Kabul İşlemleri” ni düzenleyen 7 nci maddesinde, “Kompanzasyonlar aktif, reaktif ve kapasitiflerin faturaya yansıması durumunda dairemiz teknik elemanlarınca tutanak tutulacak ve 2. kez faturaya yansıtılmayacaktır.” denilmektedir.
+
+ Söz konusu hükme rağmen ihaleye konu …nın elektrik ödemelerinde reaktif enerji bedellerinin 2.  defa ve devamında faturalara yansıdığı anlaşılmaktadır.
+
+Söz konusu hizmet alımı kapsamında, yüklenici tarafından gerekli önlemler alınarak cihazların bakım ve onarımının tam ve zamanında yapılması ve faturalarda enerji bedelinin 2. defa ve sonrasında reaktif bedellerinin faturalara yansımaması gerekmektedir. Bu kapsamda sorumluların yazılı ve sözlü savunmalarından, sözleşme hükümleri uyarınca yükleniciden söz konusu reaktif enerji bedellerinin tahsiline ilişkin takibatın başlatıldığı anlaşılmış olup, … TL ile ilgili olarak bu aşamada yapılacak işlem bulunmadığına, oy birliğiyle,
