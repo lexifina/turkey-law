@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6872",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Yemen Cumhuriyeti Hükümeti Arasında Gümrük Konularında İş Birliği ve Karşılıklı Yardım Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-6.htm",
+  "source_sha256": "25a65e60aa9722c491667d003833784e862f99ebb967d8b5a7d16555d6d30153",
+  "text_sha256": "e5c41c797f9ecd6235a5668195b4faa95434d9dd80a618f719daad15b02deec6",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
