@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6886",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Peru Cumhuriyeti Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-13.htm",
+  "source_sha256": "8099c1870fcf0d78e339d98cd794ae3fc58ea8b46af9c5e8033337c30c1a92ce",
+  "text_sha256": "dacf1d5142acb6c140f8f5f98b2067161a4cb7b72da0002ba8228e295f36a6ce",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
