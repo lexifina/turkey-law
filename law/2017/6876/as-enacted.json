@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6876",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Suudi Arabistan Krallığı Hükümeti Arasında Gençlik ve Spor Alanında İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-8.htm",
+  "source_sha256": "8e3bb8c6097f86c3e398e455360d97d6773650887674ac47dc4923a8df784300",
+  "text_sha256": "fc3fe979462fb5f71afc15015c0798cfb9591f5b44a4ec1ff46e995a63dae4ed",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
