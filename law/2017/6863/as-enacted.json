@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6863",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Karadağ Hükümeti Arasında Yolcu ve Eşyanın Karayoluyla Uluslararası Taşınmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-4.htm",
+  "source_sha256": "f20e729a7a00d21df164b61157d8f73632df3e15c5c1b941184e6063c1202c72",
+  "text_sha256": "c649441a01ee982931c5fe37964f3cf26e3bff1d0b63d0caaca28b1eb4e7c6e0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
