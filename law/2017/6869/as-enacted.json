@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6869",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Uruguay Doğu Cumhuriyeti Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-5.htm",
+  "source_sha256": "0ac61a242e7e214d0e9817fa333fcb205c3c02180567aeca4a441714025b19b2",
+  "text_sha256": "ceed0bfece02f6d64e30f25522ee65a808d7ce93e7f09f39b3c80fdb6c6cf027",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
