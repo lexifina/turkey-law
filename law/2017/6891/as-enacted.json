@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6891",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Somali Federal Cumhuriyeti Hükümeti Arasında Güvenlik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-15.htm",
+  "source_sha256": "1b33c8471d88437f2c16235029fa1e7870d68e9c82bba72a1284922a60302b04",
+  "text_sha256": "bc951c27064c01b7abe937af4e882c76154de87b121ed27bc97ee31e9d0bf2d9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-15",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-15.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
