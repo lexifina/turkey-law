@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6905",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Lübnan Cumhuriyeti Hükümeti Arasında Değiştirilmiş Şekliyle 1978 Tarihli Gemi Adamlarının Eğitim, Belgelendirilme ve Vardiya Standartları Uluslararası Sözleşmesi Kural 1/10 Uyarınca Belgelerin Karşılıklı Tanınması Hakkında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-25.htm",
+  "source_sha256": "cdcb9315db84fce9fb8299186a3191b6dfaf5523d9a2dd06528dde5dbbafb0c8",
+  "text_sha256": "55709020e6fdc61ad84cfbe333366c826ecda2d096beff7fb3403aa41aa837aa",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-25",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-25.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
