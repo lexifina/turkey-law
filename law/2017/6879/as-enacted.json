@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6879",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Sırbistan Cumhuriyeti Hükümeti Arasında Gençlik ve Spor Alanında İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-11.htm",
+  "source_sha256": "0708dcf15aa8a2cc36b0080ef14c6c790bb2d6bce3a6aa9a0472dd5d631a8fce",
+  "text_sha256": "af73dbb58c3e4aef4a18b5addf584e4020ea6c046082ec4149b53184f0de2311",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
