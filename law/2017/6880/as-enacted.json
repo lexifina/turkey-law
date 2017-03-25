@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6880",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Gana Cumhuriyeti Hükümeti Arasında Kültür, Eğitim, Bilim, Basın-Yayın, Gençlik ve Spor Alanlarında İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-12.htm",
+  "source_sha256": "a34c81dca1754486c312d11eea41950f0e77a1c711c99dd2bdfb515e278d97ef",
+  "text_sha256": "e48284bccc202b4ea5d86e4f23dc0f547f8cf93c24643f5d4e13e526353ab019",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
