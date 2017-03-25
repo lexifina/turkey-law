@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6910",
+  "year": 2017,
+  "title": "Kıta Sahanlığında Bulunan Sabit Platformların Güvenliğine Karşı Yasadışı Eylemlerin Önlenmesine Dair Protokole Ait 2005 Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-30.htm",
+  "source_sha256": "a56f2afab8103b39a53a90660508f014a79b22c92f84d22c19cda5569e306e9f",
+  "text_sha256": "4ad95b41aef76f1ec379ebce3f1285d2da3fdb9235882cba70a8b6927325f72b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-30",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-30.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
