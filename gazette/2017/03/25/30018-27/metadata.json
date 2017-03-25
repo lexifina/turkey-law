@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-03-25",
+  "issue": "30018",
+  "edition": "regular",
+  "item": 27,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "6907 Türkiye Cumhuriyeti Adalet Bakanlığı ile Yunanistan Cumhuriyeti Adalet Bakanlığı Arasında İş Birliği Konusunda Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-27.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325.htm",
+  "index_sha256": "c990f471a74efbcb62ae4bf6770a20b9bbbc2c88baf51bb80c6821ada852b1bb",
+  "index_header": "25 Mart 2017 ... 30018 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
