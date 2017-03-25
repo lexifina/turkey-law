@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6909",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti ile Sırbistan Cumhuriyeti Arasında Hukuki ve Ticari Konularda Karşılıklı Adli Yardımlaşma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-29.htm",
+  "source_sha256": "c4a4474b680b231757dd4e12b02eb9ef0059b46c8a45baf301208371d22c26c1",
+  "text_sha256": "814d71cd27991f13114baf033645b5067e2deea9d5d71ef9a5373e7e6b350ea0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-29",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-29.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
