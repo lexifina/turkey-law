@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6907",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Adalet Bakanlığı ile Yunanistan Cumhuriyeti Adalet Bakanlığı Arasında İş Birliği Konusunda Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-27.htm",
+  "source_sha256": "5e4ad7ae31a310ff37ccd0df242063ddba4936b4062fbc6561db8183bdd1d075",
+  "text_sha256": "2ad51d05585216e5823662056c84b61951f6be3c65962fc91705db1c459faeb7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-27",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-27.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
