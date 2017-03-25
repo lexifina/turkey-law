@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6913",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Tunus Cumhuriyeti Hükümeti Arasında Nüfus İşleri Alanında İş Birliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-33.htm",
+  "source_sha256": "382ea533ba24f050ccdb68701a4603f3166832e9303c4f29d9aa9b136f1968f0",
+  "text_sha256": "589c195d58dba0efd8349c9e0224f74eb949a8b66034135d53c48ca01657ec8f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-33",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-33.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
