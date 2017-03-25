@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6922",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bahreyn Krallığı Hükümeti Arasında Tarım Alanında İş Birliği Konusunda Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-42.htm",
+  "source_sha256": "0541fd73bc53840a0969d795a28a937064580958637f44fb2936a528f82420ec",
+  "text_sha256": "b63f60bf7a2ec15801602eec6aa4bc007cfa21a5144467c11579fea7df407650",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-42",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-42.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
