@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6862",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Gabon Cumhuriyeti Hükümeti Arasında Güvenlik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-3.htm",
+  "source_sha256": "f13a284cbed07d077d7fe0d8b89f4913ff5ab14a89401a94bc3eaab317e25014",
+  "text_sha256": "899d16a0e1449652c5de7a4d4453b28024695d9d821b29796a432377e284de57",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
