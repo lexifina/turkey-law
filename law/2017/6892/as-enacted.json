@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6892",
+  "year": 2017,
+  "title": "Kültürel İfadelerin Çeşitliliğinin Korunması ve Geliştirilmesi Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-16.htm",
+  "source_sha256": "07e2184a1fc084202ba6641eb7180b1fa4814eb1519749c50aa52adc14679037",
+  "text_sha256": "2f0984d1264909ea22164d4d4b88b8696c749affdc0a33fb4c431f7da54df2d0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-16",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-16.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
