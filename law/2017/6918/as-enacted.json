@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6918",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti ile Fas Krallığı Arasında Deniz Balıkçılığı ve Kültür Balıkçılığı İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-38.htm",
+  "source_sha256": "f4c182f4623b38b7bd6f75b14767644139e700b5da6cf324a36465400daf2082",
+  "text_sha256": "45a8e07a64c00e67e4d4cc62e8c3a434816c438788a035ffb2e4b0b269c6b265",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-38",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-38.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
