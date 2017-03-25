@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6914",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kamerun Cumhuriyeti Hükümeti Arasında Denizcilik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-34.htm",
+  "source_sha256": "0309cdd9383563fc00b0bdbe43bb79e5fb45b637570f4b430148045b7713fe40",
+  "text_sha256": "056fdf8bec4c9db18daea992add0107a6e8f8e4d07a95c11a26825b97bdf7d67",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-34",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-34.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
