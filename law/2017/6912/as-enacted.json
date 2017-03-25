@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6912",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti ile Bosna Hersek Arasında Cezai Konularda Karşılıklı Adli Yardımlaşma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-32.htm",
+  "source_sha256": "e5cc7055a2a9e75718f968e3aa1ea3a937acf473f0b0c69e98f68da0b1842e60",
+  "text_sha256": "348aff9d2f297aa42a02daccd4a16ca91f39ac95f483c13352db3c55080703a6",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-32",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-32.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
