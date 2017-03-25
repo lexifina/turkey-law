@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6921",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bangladeş Halk Cumhuriyeti Hükümeti Arasında Sağlık ve Tıp Bilimleri Alanlarında İş Birliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-41.htm",
+  "source_sha256": "38e565ee0e43016d684c3ea0e79efd57b496fcf3033b4cefab088b738e222b34",
+  "text_sha256": "091629a66fd6cec72c8b2222a00f851020a77ba65a27d7629975d4e727714885",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-41",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-41.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
