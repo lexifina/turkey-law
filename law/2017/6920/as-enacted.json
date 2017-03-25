@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6920",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kenya Cumhuriyeti Hükümeti Arasında Sağlık Alanında İş Birliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-40.htm",
+  "source_sha256": "f69028d59d419eed2f9840ce6e86b76176e7d371c0a4e1262af83e84de63c884",
+  "text_sha256": "79931062dd05a0a349848f5a2fe82b10ff0fed2c385f466b846759a9a26f2ac7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-40",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-40.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
