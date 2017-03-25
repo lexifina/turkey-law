@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6877",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Hindistan Cumhuriyeti Hükümeti Gençlik Faaliyetleri ve Spor Alanlarında İş Birliği Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-9.htm",
+  "source_sha256": "87d79eb38ec738d87c37256a296e3849ac8ba38e84a3cfd2cd24bfe7669b1a77",
+  "text_sha256": "0c25410539e7737f1298dafc6e638548de5a54cf6926a2d417fb195de48f9d91",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
