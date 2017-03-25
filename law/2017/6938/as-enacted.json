@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6938",
+  "year": 2017,
+  "title": "Eşyanın Sınırlardaki Kontrollerinin Uyumlaştırılmasına İlişkin Uluslararası Sözleşmenin Uluslararası Demiryolu Yük Taşımacılığına İlişkin Sınır Geçiş İşlemlerinin Kolaylaştırılması Başlıklı 9 Numaralı Ekinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-45.htm",
+  "source_sha256": "b78b1aec0d12dc98ca83ae2ae87064ef777823e4eb9175c4e7974bd29bdecb60",
+  "text_sha256": "1533798f047b4151b57a252dfbf5effdb73a05cd4cd109e7d1667c4bd43e1997",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-45",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-45.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
