@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6898",
+  "year": 2017,
+  "title": "Denizcilik Çalışma Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-25",
+  "gazette_issue": "30018",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-18.htm",
+  "source_sha256": "828097551303bdd1f0a0d24535e63904fc996b5c9b9e52dcbaaf1240fdbe28ce",
+  "text_sha256": "87fc2bd1e5ef489b6c1de5809e4df65949e284504d95507d6569c93da5ab2c6a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/25/30018-18",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170325-18.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
