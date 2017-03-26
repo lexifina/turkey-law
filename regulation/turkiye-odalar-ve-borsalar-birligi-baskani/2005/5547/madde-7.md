@@ -1,0 +1,6 @@
+Borsa Yeri
+Madde 7 — Borsa yeri; borsaya tabi maddelerin biri veya birkaçı yahut tümünün alım satımlarının yapılması için yönetim kurulu kararıyla borsanın merkez veya şube binası içinde veya dışında belirlenen satış salonu, pazar yeri veya özel alım satım yeridir. Borsaca organize edilen borsaya tabi maddelerin alım satımının gerçekleştirildiği elektronik ortamlar da borsa yeri sayılır.
+Borsa yerinde yapılan muamelelere "Borsa içi muamele", borsanın çalışma alanı içinde olmakla beraber, borsa yeri dışında yapılan muamelelere "Borsa dışı muamele" denir.
+Borsa çalışma alanı içinde borsaya tâbi maddelerin en az miktarlarının üzerinde kalan miktarlarının alım ve satımının, belirlenen borsa yerinin dışında yapılması yasaktır. Bu maddelerin, en geç muamele yapıldığı günü takip eden otuz gün içinde borsaya tescil ettirilmesi şartı ile borsa yerinin dışında alınıp satılmasına meclisçe önceden karar verilebilir. Ancak Birlik, borsalarca alınacak bu gibi istisnai kararları kısmen veya tamamen, geçici veya sürekli olarak yürürlükten kaldırabilir.
+Borsa yerinde yapılan alım satımlarda, fiilen simsar, komisyoncu ve ajanlık hizmeti verilmedikçe bu hizmetlerden dolayı herhangi bir ücret alınamaz.
+Borsa yerlerinin niteliğine ve çalışma şartlarına ilişkin esaslar Bakanlıkça belirlenir.

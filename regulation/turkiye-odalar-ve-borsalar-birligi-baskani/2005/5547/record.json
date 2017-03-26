@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.5547",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TİCARET BORSALARINA TABİ MADDELER VE BU MADDELERİN ALIM VEYA SATIMLARININ TESCİLİ HAKKINDA YÖNETMELİK",
+  "number": "5547",
+  "issuer": "Türkiye Odalar ve Borsalar Birliği Başkanı",
+  "issuer_slug": "turkiye-odalar-ve-borsalar-birligi-baskani",
+  "path": "regulation/turkiye-odalar-ve-borsalar-birligi-baskani/2005/5547",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5547&MevzuatTertip=5",
+  "source_sha256": "c1b4a09b8509dc94d2c82c001fc55622202c3c0ca0fe6c949c20d6707fed43a9",
+  "source_bytes": 48271,
+  "published": "2005-01-08",
+  "gazette": "25694",
+  "in_force": "2017-03-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/3/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-03-26",
+      "RG-26/3/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-11-03",
+      "RG-03/11/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2054,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
