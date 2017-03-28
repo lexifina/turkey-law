@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "445",
+  "decision_date": "2017-03-28",
+  "source_id": 24425,
+  "chamber": "6",
+  "ilam_number": "208",
+  "item_number": 31,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24425/",
+  "source_sha256": "62c6638a1bd556f027cfe785fd58e5ce88a1a92cf40df5c7b88f26bfd3f61752",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
