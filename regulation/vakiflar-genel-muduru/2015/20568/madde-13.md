@@ -1,0 +1,9 @@
+Görevde yükselme suretiyle atanma
+MADDE 13 – (1) Atanmaya hak kazanan personel, il tercihleri yaptırılmaması durumunda başarı sıralaması listesinin kesinleşmesini müteakip, tercih yaptırılması durumunda ise tercihlerin tamamlanmasını müteakip en yüksek puandan başlamak üzere belirlenen başarı sıralamasındaki başarı puanlarına göre üç ay içerisinde atanır.
+(2) Genel Müdürlükçe atanmaya hak kazanan personelden tercih alınması halinde başarı puanı esas alınarak personelin tercihlerine göre atama yapılır. Tercihine atanamayan personel atamaya yetkili amirce uygun görülen ilanda belirtilen yerlerden birisine atanabilir. Tercihlere ilişkin hususlar başarı sıralaması listesinin ilan metninde belirtilir.
+(3) Duyurulan kadrolardan;
+a) Atanma şartlarını taşımadıkları için sınavların geçersiz sayılması veya bu sebeple atamaların iptal edilmesi, atanılan göreve geçerli bir mazeret olmaksızın süresi içinde başlanmaması ya da atanma hakkından vazgeçilmesi,
+b) Emeklilik, ölüm, memurluktan çekilme veya çıkarılma, başka unvanlı kadrolara ya da başka bir kuruma naklen atanma,
+sebepleriyle boş kalan veya boşalanlara, başarı sıralamasının kesinleştiği tarihten itibaren altı aylık süreyi aşmamak üzere aynı unvanlı kadrolar için yapılacak müteakip sınava ilişkin duyuruya kadar, 12 nci maddeye göre Genel Müdürlükçe belirlenmiş olması halinde yedekler arasından başarı sıralamasına göre atama yapılabilir.
+(4) Aylıksız izinde olanlar dâhil, atanmaya hak kazandıkları kadroya ilişkin görevlerine mevzuatla öngörülen süre içinde başlamayanların söz konusu atanma hakları sona erer.
+(5) Görevde yükselme sınavına herhangi bir sebeple katılmayanlar ile başarısız olan veya yedeklerden altı ay içindeki müteakip sınava ilişkin duyuruya kadar atanmamış olanlar ya da atanma haklarından herhangi bir sebeple feragat edenler, aynı unvanlı kadrolara yapılacak atamalar için bu Yönetmelikte öngörülen bütün usul ve esaslara tabidir.
