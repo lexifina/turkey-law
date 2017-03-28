@@ -1,0 +1,17 @@
+Fazla Çalışma Ücreti
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+...........Belediyesinde yönetici pozisyonunda görev yapan personele 13.03.1975 tarih ve 15176 sayılı Resmi Gazete’de yayınlanan Fazla Çalışmanın Uygulama Esaslarını Gösterir Yönetmeliğin 8’inci maddesinde yer alan “1,2 ve 3. derece yönetici kadrolarında bulunanlara fazla çalışma ücreti ödenmez.” hükmüne aykırı olarak fazla çalışma ücreti ödenmiş olması sonucu kamu zararına neden olunduğu iddia edilmiş ise de;
+
+657 Sayılı Devlet Memurları Kanunu’nun 178’inci maddesine 30.05.1974 tarih ve 12 sayılı KHK ile eklenen 4’üncü fıkaralarda, “1, 2 ve 3’üncü derece yönetici kadrolarında bulunanlara fazla çalışma ücreti ödenemez” denildiği bu değişiklik sonrasında yürürlüğe giren Fazla Çalışmanın Uygulama Esaslarını Gösterir Yönetmeliğin 8’inci maddesinin (d) bendine 12 sayılı KHK’ya paralel olarak “1, 2 ve 3’üncü derece yönetici kadrolarında bulunanlara fazla çalışma ücreti ödenemez” hükmünün konulduğu,
+
+	29.11.1984 tarih ve 243 sayılı Memurlar ve Diğer Kamu Görevlileri ile İlgili Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname’nin 28’inci maddesi ile, 657 sayılı Kanunun değişik 178’inci maddesinin 4’üncü fıkrasının “Birinci derece üst kademe yönetici kadrolarında bulunanlara fazla çalışma ücreti ödenmez” şeklinde değiştirilmesine rağmen Yönetmelikte buna paralel bir değişiklik yapılmadığı,
+
+	Bilahare 05.07.1991 tarih ve 433 sayılı Kamu Personelinin Özlük Haklarına İlişkin Çeşitli Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararnamenin 3’üncü maddesi ile 657 sayılı Devlet Memurları Kanunu’nun 178’inci maddesinde yer alan “Birinci derece üst kademe yönetici kadrolarında bulunanlara fazla çalışma ücreti ödenmez” cümlesi madde metninden çıkarılmış olmasına ve Anayasa Mahkemesinin 05.05.1992 tarih ve E:1991/33, K: 1992/32 sayılı ve yine 14.02.1997 tarih ve E. 1997/20, K. 1997/32 sayılı kararları sonrası getirilen 03.04.1998 tarih ve 4359 sayılı 14.7.1965 Tarihli Ve 657 Sayılı, 8.6.1949 Tarihli ve 5434 Sayılı, 5.3.1964 Tarihli ve 439 Sayılı, 30.4.1992 Tarihli ve 3797 Sayılı, 11.10.1983 Tarihli 2914 Sayılı Kanunların Bazı Maddelerinde Değişiklik Yapılması ve 5.1.1961 Tarihli ve 222 Sayılı, 24.11.1994 Tarihli ve 4048 Sayılı Kanunların Bazı Maddelerinin Yürürlükten Kaldırılması Hakkında Kanun’un 4’üncü maddesi ile 178’inci maddenin (b) fıkrasının tekrar düzenlendiği ve bu nihai düzenlemede de yönetici kadrolarında çalışanlara fazla çalışma ücreti ödenemeyeceğine dair bir hüküm yer almamasına rağmen bahsi geçen Yönetmelikte bir değişiklik yapılmadığı,
+
+görülmüştür.
+
+657 sayılı Devlet Memurları Kanunu’nun 178’inci maddesine ilişkin yukarıda açıklanan yasal sürecin değerlendirmesi yapıldığında kanun koyucunun iradesinin; 1, 2 ve 3. derece yönetici kadrolarında bulunanlara fazla çalışma ücreti ödenmeyeceği sınırlamasının tamamen kaldırılması yönünde tezahür ettiği ve fazla çalışmanın uygulama esaslarının 657 sayılı Kanun’un mevcut hükmüne göre belirlenmesi gerektiği anlaşılmaktadır. 657 sayılı Devlet Memurları Kanunu’nun yürürlükte olan hükmünde de böyle bir sınırlama mevcut değildir.
+
+Bu itibarla, yönetici kadrolarında bulunanlara fazla çalışma ücreti olarak ödenen sorgu konusu …-TL hakkında ilişilecek husus bulunmadığına, 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca  İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
