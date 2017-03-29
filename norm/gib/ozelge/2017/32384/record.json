@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84412373-130[KDV 13/ı Md.]-30",
+  "source_id": 32384,
+  "date": "2017-03-29",
+  "title": "Mısır gluteninin KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32384",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "12e13ceecfa8d6a2eb9d658c1f5eabb9f8a766826bb8f1e7c76b3ce7e01473d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
