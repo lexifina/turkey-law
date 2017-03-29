@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42915",
+  "decision_date": "2017-03-29",
+  "source_id": 13721,
+  "chamber": "1",
+  "file_number": "41312",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2014",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13721/",
+  "source_sha256": "e1ecebf4df3683fd27989ef205883245009ac5b9b7b95f358862ad921afba19e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
