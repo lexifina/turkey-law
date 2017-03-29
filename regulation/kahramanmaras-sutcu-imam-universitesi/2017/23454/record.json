@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-03-29",
+      "29.03.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30022",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-03-29",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kahramanmaraş Sütçü İmam Üniversitesi",
+  "issuer_slug": "kahramanmaras-sutcu-imam-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kahramanmaras-sutcu-imam-universitesi/2017/23454",
+  "published": "2017-03-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23454&MevzuatTertip=5",
+  "source_bytes": 33127,
+  "source_id": "8.5.23454",
+  "source_sha256": "2760731e42c80d04bb32eea5f902bb6ac5e82b2c0dfb6eb0129e163196d13b77",
+  "text_status": "as-enacted",
+  "title": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ BİYOMEDİKAL UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 205,
+  "word_count": 1368
+}
