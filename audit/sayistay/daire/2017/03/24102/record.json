@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "161",
+  "decision_date": "2017-03-30",
+  "source_id": 24102,
+  "chamber": "4",
+  "ilam_number": "280",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24102/",
+  "source_sha256": "0374f335a046848ed2039ffe0c666fe391370cbc7dd8bf3a46fe16fd85a2994d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
