@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35468",
+  "decision_date": "2017-03-30",
+  "source_id": 24348,
+  "chamber": "2",
+  "ilam_number": "204",
+  "item_number": 18,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24348/",
+  "source_sha256": "4e082af00aeab733045394d8f14966b9795a18545ac5321b7d03fb42a0239a1b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
