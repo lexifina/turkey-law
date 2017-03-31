@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6937",
+  "year": 2017,
+  "title": "Eşyaların Karayolundan Uluslararası Nakliyatı İçin Mukavele Sözleşmesi Elektronik Taşıma Belgesi ile İlgili Ek Protokole Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-31",
+  "gazette_issue": "30024",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-31.htm",
+  "source_sha256": "90cc40d3b1ab1b2c5e255925d7226d78660252866a8fb9202876801ea95eca4f",
+  "text_sha256": "a98c5a04dc8ce28f11c783126ab5784ebd46be10ecec7fb5f8b694e2acff6d4f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/31/30024-31",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-31.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
