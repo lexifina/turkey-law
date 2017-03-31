@@ -1,0 +1,29 @@
+{
+  "number": "64",
+  "number_as_published": "2017/64",
+  "year": 2017,
+  "month": 3,
+  "title": "Madde Bağımlılığı ile Mücadele Komisyonun 22-23-24-27-28 - ŞUBAT 2017 tarih ve 2017/02 sayılı raporu komisyondan geldiği şekliyle aynen oy birliği ile kabul edildi.",
+  "decision_date": null,
+  "index_date": "2017-03-31",
+  "date_precision": "month",
+  "period": "Mart 2017",
+  "source": "https://www.haliliye.bel.tr/icerik/1369/39/mart-2017",
+  "official_page": "https://www.haliliye.bel.tr/icerik/1369/39/mart-2017",
+  "official_document": null,
+  "source_sha256": "dfcd1129404279cada7453a64bfd52bac3734edec94376874f3c72658f0d1fbd",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2017-03-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Mart 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "MART 2017",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
