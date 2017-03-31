@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6926",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Tanzanya Birleşik Cumhuriyeti Hükümeti Arasında Tarım Alanında Teknik, Bilimsel, Ekonomik ve Ticari İş Birliği Konulu Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-31",
+  "gazette_issue": "30024",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-21.htm",
+  "source_sha256": "f67d35c1f93c2387766f33385aadac13966d42f3ae3a447ab3a34569f2e217e6",
+  "text_sha256": "6f64d2eb7102de9df4dca1798307b40d2bc4d73fb44129df58900892dfc9f744",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/31/30024-21",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-21.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
