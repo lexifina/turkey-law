@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6929",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Endonezya Cumhuriyeti Hükümeti Arasında İşgücünün Geliştirilmesi Hakkında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-31",
+  "gazette_issue": "30024",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-24.htm",
+  "source_sha256": "749afd917340cac22f56c7e693e6ea158f407e3d1bd019b9e2ebdb5f475e0bdd",
+  "text_sha256": "0fbbef22109f23e6e4fff96255217c556304a568e05f7ba853037fba6e2010a7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/31/30024-24",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-24.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
