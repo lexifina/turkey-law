@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6935",
+  "year": 2017,
+  "title": "Uzak Pazarlardan Turist Çekilmesi Hususunda Türkiye Cumhuriyeti Hükümeti ve Tunus Cumhuriyeti Hükümeti Arasında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-31",
+  "gazette_issue": "30024",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-30.htm",
+  "source_sha256": "cdd9ca68de2d44833557a11547abad2e8d7652b76a0f65ee9a9a6ed0507b7ee4",
+  "text_sha256": "1569411ae195c0109fec8e3cf3f554f6db52ff27f6f0e21cef103e8119d9e6b3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/31/30024-30",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-30.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
