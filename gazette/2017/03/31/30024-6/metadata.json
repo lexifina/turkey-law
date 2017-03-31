@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-03-31",
+  "issue": "30024",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Nükleer Santrallerin Yapı Denetimi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331.htm",
+  "index_sha256": "914e7457182a87974510d4fe831b339ba86390064a216269c115996e515987c5",
+  "index_header": "31 Mart 2017 ... 30024 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "27cebd09194e5980e0ebdf9a7389208c08466835b445a9d45592d72c84708a9f",
+  "text_status": "text.txt as published"
+}
