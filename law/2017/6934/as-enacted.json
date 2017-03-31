@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6934",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyetine Şanhay İşbirliği Örgütünün Diyalog Ortağı Statüsü Tanınmasına İlişkin Muhtıranın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-31",
+  "gazette_issue": "30024",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-29.htm",
+  "source_sha256": "cce030b192ba5745981b83a231fe8fe96a7f0692bd20e8dbb8a7ee13f161c6c5",
+  "text_sha256": "111f50f99739516ce59de69acd8f97ec20abfd96897b26ebc7f7155efeb8b34f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/31/30024-29",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-29.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
