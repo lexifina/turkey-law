@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6928",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Kuveyt Devleti Hükümeti Arasında İkili Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-31",
+  "gazette_issue": "30024",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-23.htm",
+  "source_sha256": "6150f80fc186b5c41d6e6070b6f5dbe4ca3c732c4257946aba5cb30a91ee9df4",
+  "text_sha256": "53c95a67963bc1199b56883127c41cd6312a3142457d670ff2124370a5380d03",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/31/30024-23",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-23.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
