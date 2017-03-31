@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6939",
+  "year": 2017,
+  "title": "Trans-Asya Demiryolu Ağı Hükümetlerarası Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-31",
+  "gazette_issue": "30024",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-32.htm",
+  "source_sha256": "8907a027221dc8dd86020e91430dcab0eea9a4f9138941ff91ee2e0827e6124a",
+  "text_sha256": "92de12aa33e1e6c063c5cf74283b037fd4b138bce563eb60b49ec185335ca972",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/31/30024-32",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-32.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
