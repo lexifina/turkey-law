@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6925",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Makedonya Cumhuriyeti Hükümeti Arasında Makedonya Cumhuriyetinin Kazakistan Cumhuriyetindeki Temsilinin Türkiye Cumhuriyeti Astana Büyükelçiliği İmkânlarından Yararlanılarak Gerçekleştirilmesine İlişkin Mutabakat Muhtırasınınn Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-31",
+  "gazette_issue": "30024",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-20.htm",
+  "source_sha256": "e2b328c7cd09520cd1b44e7aee74f0d0e1603492be219160383ceacce9640312",
+  "text_sha256": "22dcc8ba0f087f9e9d1a737863045760bc97df5ce30092ccba9cbe70889efcd1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/31/30024-20",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-20.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
