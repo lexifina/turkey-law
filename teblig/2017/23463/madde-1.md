@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 17/4/2016 tarihli ve 29687 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2016/12) ile Kore Cumhuriyeti menşeli 2917.35.00.00.00 gümrük tarife istatistik pozisyonu altında kayıtlı “Ftalik anhidrit” ürününe yönelik başlatılan ve T.C. Ekonomi Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen damping soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
