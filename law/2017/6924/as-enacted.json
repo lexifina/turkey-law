@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6924",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Birleşmiş Milletler Gıda ve Tarım Örgütü Arasında Hükümetlerarası Tahıl Grubu 31'inci Oturumu ve Hükümetlerarası Pirinç Grubu 42'nci Oturumu Ortak Toplantısına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-31",
+  "gazette_issue": "30024",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-19.htm",
+  "source_sha256": "8d447eacbda66019a0752d147560ae52938353e527a740d06de0073edd028190",
+  "text_sha256": "9917c0dda7c36d710c0400399ade0614d810d9b5ec63cf39b230f9772ec2a27f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/31/30024-19",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-19.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
