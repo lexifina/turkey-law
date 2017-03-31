@@ -1,0 +1,28 @@
+{
+  "number": "month-03",
+  "year": 2017,
+  "month": 3,
+  "title": "2017 YILI MART AYI MECLİS KARAR ÖZETLERİ",
+  "decision_date": null,
+  "index_date": "2017-03-31",
+  "date_precision": "month",
+  "period": "Mart 2017",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2017",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/2017-yili-mart-ayi-meclis-karar-ozetleri/33",
+  "official_document": null,
+  "source_sha256": "750f205f2d05cc3554eb7f240363c33d8d9856ada4b9d7b07a6d3fba8cc74bba",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2017-03-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mart 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official page of the council decision summaries (Meclis Karar Özetleri) of the month",
+  "listing_note": "2017 MART AYI TOPLANTILARINDA KABUL EDİLEN ve KARARA BAĞLANAN KARAR NUMARASI YAZILI MECLİS KARAR ÖZETLERİ 5393 SAYILI BELEDİYE KANUNUNUN 23. MADDESİNE GÖRE İLAN OLUNUR."
+}
