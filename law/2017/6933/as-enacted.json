@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6933",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Fildişi Sahili Cumhuriyeti Hükümeti Arasında Askerî Alanda Eğitim, Teknik ve Bilimsel İş Birliği Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-03-31",
+  "gazette_issue": "30024",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-28.htm",
+  "source_sha256": "5b86d25738ec53641763a25ca0731e645a8828b4e17cfec3dbd557a2be1afada",
+  "text_sha256": "0f00dc07196eff177ccc7468fd2a2775ca73aae24adbaf64ea99c064cc6819a1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/03/31/30024-28",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/03/20170331-28.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
