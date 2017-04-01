@@ -1,0 +1,67 @@
+{
+  "source_id": "9.5.19347",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SZUTEST UYGUNLUK DEĞERLENDİRME A.Ş.’NİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (MHG/2017-05)",
+  "number": "19347",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2014/19347",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19347&MevzuatTertip=5",
+  "source_sha256": "2fd54e5ae702e7b9d5dfb0fbc31489c8ace34346f7af3fea3b2d506222ac0a11",
+  "source_bytes": 36689,
+  "published": "2014-01-24",
+  "gazette": "28892",
+  "in_force": "2017-04-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/4/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-04-01",
+      "RG-1/4/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-04-01",
+      "1/4/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-09-30",
+      "RG-30/9/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-09-30",
+      "30/9/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-07-15",
+      "RG-15/7/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-07-15",
+      "15/7/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-01-14",
+      "14/1/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 532,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
