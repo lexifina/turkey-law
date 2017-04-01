@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşlarının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 40 ıncı maddesine, 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanunun 1 inci, 4 üncü, 30 uncu, 47 nci, 63 üncü ve Ek 13 üncü maddelerine, 25/2/1954 tarihli ve 6283 sayılı Hemşirelik Kanununun 3 üncü maddesine ve 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 9 uncu maddesine dayanılarak hazırlanmıştır.

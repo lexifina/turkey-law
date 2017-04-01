@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.15909",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YABANCI SAĞLIK MESLEK MENSUPLARININ TÜRKİYE’DE ÖZEL SAĞLIK KURULUŞLARINDA ÇALIŞMA USUL VE ESASLARINA DAİR YÖNETMELİK",
+  "number": "15909",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2012/15909",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15909&MevzuatTertip=5",
+  "source_sha256": "1e04135edaa552b21bb5f60a21c0becb7eb80ac2e205f4c35573ec6f9a073edc",
+  "source_bytes": 29239,
+  "published": "2012-02-22",
+  "gazette": "28212",
+  "in_force": "2017-04-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/4/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-04-01",
+      "RG-1/4/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-04-01",
+      "1/4/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-06-16",
+      "RG-16/6/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-06-16",
+      "16/6/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-07-16",
+      "RG-16/7/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-07-16",
+      "16/7/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 727,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
