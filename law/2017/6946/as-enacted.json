@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6946",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti, Yunanistan Cumhuriyeti ve İtalya Cumhuriyeti Arasında Türkiye-Yunanistan-İtalya Gaz Nakil Koridorunun Geliştirilmesine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-7.htm",
+  "source_sha256": "67b88fe0d05b03bfaec20db0b2d18b5730a3b57ec98f35f2c3ab488eb532b935",
+  "text_sha256": "9684836487cb3b7cc4df5d109283454bbc8f1a437514df762dd9ca77be8a177b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
