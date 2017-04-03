@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7013",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Portekiz Cumhuriyeti Hükümeti Arasında Gizlilik Dereceli Bilginin Karşılıklı Korunması Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-53.htm",
+  "source_sha256": "e064b41c8abcd9da031798af7c4b72df722e5c5aa15a67b3e6e9748d5f04d08f",
+  "text_sha256": "8f3439cd394869d51f39675466a7def82a37563a77c1fa2952ceab757544f1a1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-53",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-53.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
