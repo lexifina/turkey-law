@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6977",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Tunus Cumhuriyeti Hükümeti Arasında Şehircilik Alanında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-38.htm",
+  "source_sha256": "72abdffc3fdf540a5714e6ef689d3f2fcd6b021ab6c352bee8bc629ed70aff93",
+  "text_sha256": "2177d5036164c80886aaa6575a8a1f8585c9d36539e0b4d6b4a00b01352db8d3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-38",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-38.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
