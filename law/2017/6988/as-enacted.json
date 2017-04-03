@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6988",
+  "year": 2017,
+  "title": "Bazı Tehlikeli Kimyasalların ve Pestisitlerin Uluslararası Ticaretinde Ön Bildirimli Kabul Usulüne Dair Rotterdam Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-43.htm",
+  "source_sha256": "4dff72bf091178d404558e57537d3adf35bf4a40265be2761e2862cd0eb1c6f1",
+  "text_sha256": "d2e525e696df89a529d0aa2bbc648b28aee120a59e03fa588d4a225770afeacf",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-43",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-43.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
