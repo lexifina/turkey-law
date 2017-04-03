@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6992",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Milli Savunma Bakanlığı ile Birleşik Arap Emirlikleri Silahlı Kuvvetleri Genel Karargahı Arasında Savunma Sanayi İş Birliği Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-45.htm",
+  "source_sha256": "fa150f25844f38ec3f3bffebbb958fc3e4782cc4f478648e6be7fd9ced46b10f",
+  "text_sha256": "92a07ecfd81b36ab46c2a68fc3c03148e1d67c292bba76cbd97cdab577009f30",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-45",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-45.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
