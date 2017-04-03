@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6950",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Tunus Cumhuriyeti Hükümeti Arasında Kültür Merkezlerinin Kuruluşu, İşleyişi ve Faaliyetleri Hakkında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-11.htm",
+  "source_sha256": "0b439dbff368a1c6ea0716c9dd549492fb4f8456d57470f19a10729df8a5dec9",
+  "text_sha256": "90eeef657827fb458c5a60ca98256bc2f098799a8b9967907aa4671318c1f6f4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
