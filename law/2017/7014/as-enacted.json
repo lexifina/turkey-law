@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7014",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Bayındırlık ve İskan Bakanlığı ile Irak Cumhuriyeti İskan ve İnşaat Bakanlığı Arasındaki Yapı Malzemeleri Alanında Mutabakat Zaptı ile Notaların Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-54.htm",
+  "source_sha256": "f916cea1a583eb6cea706b7c915ad0f8f725fde6f01395371d784fa40a41a429",
+  "text_sha256": "ffdf3cb78bb958437c93d7f2b5113c94ebecbde053a689f5a679ab8834419426",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-54",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-54.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
