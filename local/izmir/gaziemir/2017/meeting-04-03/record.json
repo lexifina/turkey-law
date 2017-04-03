@@ -1,0 +1,24 @@
+{
+  "number": "meeting-04-03",
+  "number_as_published": "meeting-04-03",
+  "year": 2017,
+  "title": "03.04.2017 KARAR ÖZETİ",
+  "decision_date": "2017-04-03",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=44",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/9af375bc367024e62552e4b715b473269af375bc367024e62552e4b715b47326.doc",
+  "source_sha256": "cb7d5b4c0533d0770c5bb65962207b1faf73cb0ca8df5f6fc5ec4fddda7278ba",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-04-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.04.2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "03.04.2017 KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "27.04.2017"
+}
