@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7012",
+  "year": 2017,
+  "title": "Avrupa-Kafkasya-Asya Ulaştırma Koridorunun Üzerinde Uluslararası Taşımacılığın Geliştirilmesi Çok Taraflı Temel Anlaşmasına Değişiklikler Hakkında Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-52.htm",
+  "source_sha256": "7caf19d768d2231dc088553489707897023c6f2fec60e9118cd09bac4d0682e7",
+  "text_sha256": "858c445c3a4fb03ed0714cf0ed439aa4df2b1b288573db566352ec2806334488",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-52",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-52.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
