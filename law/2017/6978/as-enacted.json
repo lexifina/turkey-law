@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6978",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ukrayna Bakanlar Kurulu Arasında Ormancılık Alanında İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-39.htm",
+  "source_sha256": "6c3cba0dedb5cd5aa3c2d570379acc138bb79186d9fe59852b16c371f4c18f79",
+  "text_sha256": "2aa8bc7ff9c41df6c728b157edf4f116ccdde5aa81175b4ea6e707abf8096615",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-39",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-39.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
