@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6961",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Macaristan Hükümeti Arasında Sosyal Güvenlik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-22.htm",
+  "source_sha256": "1eb70d0a55cc5525d1ce029bdee97846521893cbb0bd1025774dbcca0cc7340e",
+  "text_sha256": "f41267c7d3d1e46c722014cbee528a4180ff2e2a1fe66cf39df034b42b0c6815",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-22",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-22.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
