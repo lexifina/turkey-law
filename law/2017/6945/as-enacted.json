@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6945",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti ile Nijer Cumhuriyeti Arasında Enerji ve Hidrokarbonlar Alanında İş Birliğine İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-6.htm",
+  "source_sha256": "f54999e67e7b136d1844d3d23e94fa0a5e33cab90d01665941d518f2ba49697b",
+  "text_sha256": "631917b30a08793cec28f53dae7da4d6c3a1e5bcb281eec8ca2bdd4f43373b49",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
