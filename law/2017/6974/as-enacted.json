@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6974",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Afganistan İslam Cumhuriyeti Hükümeti Arasında Habibe Kadiri Kız Okullarının Kuruluşu ve Faaliyetlerine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-35.htm",
+  "source_sha256": "2934a823856f5f1b57c1d9b768e998d8a79b0d495f743355b36659c6b93bd6e0",
+  "text_sha256": "04ac31213027f2f19299d36f853bdf4c5230b740d17a46be13175993b04821fe",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-35",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-35.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
