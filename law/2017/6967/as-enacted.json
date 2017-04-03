@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6967",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Tarım ve Köyişleri Bakanlığı ile Senegal Cumhuriyeti Tarım ve Hayvancılık Bakanlığı Arasında Tarım Alanında Teknik, Bilimsel ve Ekonomik İş Birliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-28.htm",
+  "source_sha256": "c40554ae9035650e8ec5ebc36ee19d697f89994fa07c468ea9dde2c2e037f37e",
+  "text_sha256": "0afa641f5f8320a8b1fef77cf2dca2d764c6c9a1e0c7fe16550445f7792cd7ea",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-28",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-28.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
