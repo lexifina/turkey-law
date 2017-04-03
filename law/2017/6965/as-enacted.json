@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6965",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Pakistan İslam Cumhuriyeti Hükümeti Arasında İş Birliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-26.htm",
+  "source_sha256": "aa3f9a3da07885b202388eedec8b274227da379bedd8edb15e53f6a8f071d44a",
+  "text_sha256": "25ab1ee265c69b5899e83c1113f7e6aa71e8f28867806d3f25d13208e11673fe",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-26",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-26.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
