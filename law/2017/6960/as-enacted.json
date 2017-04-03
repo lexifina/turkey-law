@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6960",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ekvator Cumhuriyeti Hükümeti Arasında Çevre Alanında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-21.htm",
+  "source_sha256": "3aa42e2b9ec1f08a5952ef9f0348c21e0e0740bdcd9b01ab029f4ba1e7d51ab3",
+  "text_sha256": "638d80a0ca98e6af5b9d3466d3587e114d2ce3b0931ca3afa845aa8ff52c4c44",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-21",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-21.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
