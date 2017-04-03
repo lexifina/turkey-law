@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7016",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Moldova Cumhuriyeti Hükümeti Arasında Çevre Alanında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-56.htm",
+  "source_sha256": "e56e9431a98bb287d60f4bc38a85021780884198104c1253f0bd6b1d37d60bc8",
+  "text_sha256": "23ae0187282a76b73c0b1a37d6e470cc5f7e3273b02e1d0e2bde7b572bbf4554",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-56",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-56.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
