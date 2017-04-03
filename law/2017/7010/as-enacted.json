@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7010",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Sağlık Bakanlığı ve Dünya Sağlık Örgütü Avrupa Bölge Ofisi Arasında İki Yıllık İş Birliği Anlaşması 2010/2011'in Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-50.htm",
+  "source_sha256": "24bb81d352cfbfa66db8da1b9ed4e62c4417f9a475b85c36ff88bab01b48c1c2",
+  "text_sha256": "ef6a7496c651f52fea76ec64a096ea0fca0760c4281afcd98e353c670b0fd799",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-50",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-50.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
