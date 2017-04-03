@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6954",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile İran İslam Cumhuriyeti Hükümeti Arasında Ortak Film Yapımına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-15.htm",
+  "source_sha256": "71c27fcaf47643c3a13406ed60de42676de12cb16c0366ee9ea25857d7f5d9c1",
+  "text_sha256": "9816ec9a81ea288e2ea2861c99e39734e59f2a1e0c42bff0599df01cc8d26f7a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-15",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-15.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
