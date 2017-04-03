@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6990",
+  "year": 2017,
+  "title": "1974, Yolcuların ve Bagajlarının Deniz Yolu ile Taşınmasına İlişkin Atina Sözleşmesine Ait 2002 Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-44.htm",
+  "source_sha256": "5fba9c2053440013c72a9d913e73e5c2f9f3030c0eccc3849b43bef3332a7d89",
+  "text_sha256": "ef33d8563841e0e4b0a7d9b8685d004ea0d8697f2aa15751b12daa5acb7d7442",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-44",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-44.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
