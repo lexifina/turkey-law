@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7008",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Arap Turizm Örgütü (ATÖ) Arasında Türkiyede Bir Temsilcilik İhdas Edilmesine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-48.htm",
+  "source_sha256": "a49ad0c0989750df34990a8e26eea1e4489cdf76f7bae84e8e72565ede9b2847",
+  "text_sha256": "26bbfd530df2e228a1c304cfdb27e53f5f4269c8e9c5298050a66161211ade87",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-48",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-48.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
