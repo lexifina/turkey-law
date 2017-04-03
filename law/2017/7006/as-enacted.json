@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7006",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Cibuti Cumhuriyeti Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-47.htm",
+  "source_sha256": "1c408851d8ed3930bb6696f63dd8d3cc36a21e434cd942fcd54cb4ff6d1d89df",
+  "text_sha256": "f90895f1c775b7fb90461151800f7ea004333650fc1cd7683baf4812387b12e2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-47",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-47.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
