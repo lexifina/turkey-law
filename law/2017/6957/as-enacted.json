@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6957",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Cibuti Cumhuriyeti Hükümeti Arasında Cibutide Tika Program Koordinasyon Ofisi Kurulmasına ve Teknik İş Birliğine Dair Protokolün Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-18.htm",
+  "source_sha256": "cb24c904948bf72874cf70697330ec14093a55dc2dfa24496142502cd0d76982",
+  "text_sha256": "2f68ef67f9f3191f8b3add63c9a8cf4f41dd6415364bfadc631ca9fef0716489",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-18",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-18.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
