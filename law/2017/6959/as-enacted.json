@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6959",
+  "year": 2017,
+  "title": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesine Yönelik Kyoto Protokolüne İlişkin Taraflar Konferansında Alınan Kararın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-20.htm",
+  "source_sha256": "3705ab48daf12a1c41c56972a6c6bed7fb9439aaeac4ddb491269c717adf97ac",
+  "text_sha256": "637b039c0a2a8f208637064b0027f861c5a7da2813d5e915071bba92300f8590",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-20",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-20.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
