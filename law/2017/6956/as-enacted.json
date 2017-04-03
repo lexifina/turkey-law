@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6956",
+  "year": 2017,
+  "title": "Güneyde Sürdürülebilir Kalkınma İçin Bilim ve Teknoloji Komisyonuna Üye Devlet Olarak Katılım Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-17.htm",
+  "source_sha256": "42c14a90c5665b286629a15999e10ca096e64956f96091b25b8a1832593eb210",
+  "text_sha256": "29f1d4d4732582559b17d6e88a182ecb8c69957ac33cd060f9b5ef5c0781b1de",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-17",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-17.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
