@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-04-03",
+  "issue": "30027",
+  "edition": "regular",
+  "item": 34,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "6973 Doha Konferansında Kyoto Protokolünde Yapılan Değişikliklerin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-34.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403.htm",
+  "index_sha256": "8ed94ce0d55b32c22eb529888ffbf60a89a3fe6dd11d303e9195a007d7c8d36d",
+  "index_header": "3 Nisan 2017 ... 30027 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
