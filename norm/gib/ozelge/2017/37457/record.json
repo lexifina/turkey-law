@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125-91026",
+  "source_id": 37457,
+  "date": "2017-04-03",
+  "title": "Serbest bölgede üretilen yazılım programının fiziki mal olarak ihraç edilmesi durumunda dövizin Türkiyeye gelmesinin tevsiki.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37457",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "bea37f45ed837033a1b6a3246af8c87747365451522d86fc36576c3af820080e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
