@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6982",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Belçika Krallığı Hükümeti Arasında Sosyal Güvenlik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-41.htm",
+  "source_sha256": "0bbf930bc6a96583d7616d899581f12571a767e72f0dec51732c2554177ff809",
+  "text_sha256": "1f8c3b127a177bb24f94a0a8ec1b6e37450fa7295e144e1a0bdf6cf414dff85b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-41",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-41.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
