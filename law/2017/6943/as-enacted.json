@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6943",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Yemen Cumhuriyeti Hükümeti Arasında Enerji Alanında İş Birliğine İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-4.htm",
+  "source_sha256": "4055fc52d7955ed470aff16373dc30b3db7ce9b348893d392dcdfc03c2c3a250",
+  "text_sha256": "d909290667de22512d98a2afa112e91c7a66c69bfec5aa4d7bcf0ea3190fde40",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
