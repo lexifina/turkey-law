@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6964",
+  "year": 2017,
+  "title": "Tıbbi Ürün Sahteciliği ve Halk Sağlığına Tehditler İçeren Benzeri Suçlar Hakkında Avrupa Konseyi Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-25.htm",
+  "source_sha256": "a022baa5e4f8dfedf68c3d1f141f4fc5b5bebdf24315be7bfc43e522bd3def38",
+  "text_sha256": "f5f17908c103ae4aa65d194fa90307d007f5ecf4062d7d6d22b59699d7d530bc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-25",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-25.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
