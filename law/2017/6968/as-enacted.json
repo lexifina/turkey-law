@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6968",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Estonya Cumhuriyeti Hükümeti Arasında tarımsal İş Birliği Konulu Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-29.htm",
+  "source_sha256": "bc8534169b44b4296ed0bc8bdaf2f769f815836204e3cab001d735e05de1eccb",
+  "text_sha256": "b8372f2a6ee380aa87a8fc641598c85513d2f88af09e9c87b550afbc9946f4b9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-29",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-29.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
