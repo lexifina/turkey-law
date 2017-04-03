@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6953",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bulgaristan Cumhuriyeti Hükümeti Arasında Ortak Film Yapımına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-03",
+  "gazette_issue": "30027",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-14.htm",
+  "source_sha256": "faae5a2ae72f24f2d2535ce49aa09ab957c874eb56418f2a5ae37823a73e0077",
+  "text_sha256": "3d54640c3eb73a9fd9eb12e88a2ab50b391d08445702ecf3999125d4e796c5df",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/03/30027-14",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170403-14.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
