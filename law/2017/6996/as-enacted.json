@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6996",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Saint Vincent ve Grenadinler Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-04",
+  "gazette_issue": "30028",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170404M1-10.htm",
+  "source_sha256": "6650c8ae18aeae48bf5da148db17733bba446841631953b1efdbc67b1fdf56de",
+  "text_sha256": "8783776fd6153c06c96395ac1f98345d9847f0ee9c56c9360b9ffeef36cb4e92",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/04/30028-m1-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170404M1-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
