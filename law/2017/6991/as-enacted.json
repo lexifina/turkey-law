@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6991",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti ile Sırbistan Cumhuriyeti Arasında Suçluların İadesine Dair Anlaşma ve Anlaşmada Değişiklik Yapılmasına İlişkin Notaların Onaylanmasının Uygun Bulunduğu Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-04",
+  "gazette_issue": "30028",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170404M1-8.htm",
+  "source_sha256": "7782f604f7cb0dee535d5e0af1c078d4d549b007759a506cfdd7bc5db69c6017",
+  "text_sha256": "563bb25ff83f8ce60f1efc25d8239b74cf5f1ec600053b39f144808fe233ae13",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/04/30028-m1-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170404M1-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
