@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6995",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Sağlık Bakanlığı ile Belarus Cumhuriyeti Sağlık Bakanlığı Arasında Sağlık Alanında İş Birliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-04",
+  "gazette_issue": "30028",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170404M1-9.htm",
+  "source_sha256": "553e80ae61d379c400fdb716e87ea7ccdbe09dcb77fae9a5af87f11805f33e0c",
+  "text_sha256": "f79984bbe51daeb8625c05fe674fcb7ee03d6b5c557eb95d72b8da4b790ff2bb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/04/30028-m1-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170404M1-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
