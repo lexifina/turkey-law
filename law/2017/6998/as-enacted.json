@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6998",
+  "year": 2017,
+  "title": "Mücavir Atlantik Deniz Bölgesi, Akdeniz ve Karadenizdeki Deniz Memelilerinin Korunmasına Dair Anlaşmaya Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-04",
+  "gazette_issue": "30028",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170404M1-12.htm",
+  "source_sha256": "8ecf30da5d3730cf7a102ccf19f5ad0cd8f1b8906626c280fb9f67136e824b57",
+  "text_sha256": "33b223acf1280fd5c7701f8c8a9df3a64b53ddf85b93d5f459e9ee23982d5965",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/04/30028-m1-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170404M1-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
