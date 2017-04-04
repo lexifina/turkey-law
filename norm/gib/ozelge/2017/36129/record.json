@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-140.04.01[2017/70]-92502",
+  "source_id": 36129,
+  "date": "2017-04-04",
+  "title": "Kira sertifikası ihracına yönelik olarak düzenlenen sözleşmenin teminatını teşkil etmek üzere yapılacak ipotek tesisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36129",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "2a89d1d729dfcf731da41c21ac6c303e3e8f68fb6b94df6c03a4bf0c61aa009b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
