@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23478",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2017/5)",
+  "number": "23478",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2017/23478",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23478&MevzuatTertip=5",
+  "source_sha256": "8120eb82b7267ba9fb9b08287fe299e781af3ea44e432c0c8b99b6f75d22fca3",
+  "source_bytes": 19256,
+  "published": "2017-04-04",
+  "gazette": "30028",
+  "in_force": "2017-04-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.04.2017); own commencement article: \"Bu Tebliğ yayımı tarihini takip eden 30 uncu gün yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihini takip eden 30 uncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 510,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23478-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
