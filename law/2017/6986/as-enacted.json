@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6986",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile İsveç Krallığı Hükümeti Arasında Kanun Uygulama Alanında İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-04",
+  "gazette_issue": "30028",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170404M1-5.htm",
+  "source_sha256": "766f0487950cf80badff06bbde007ff341bf5cb2d0c7bb7d7d4074feeea37a9e",
+  "text_sha256": "95c0107307eb3091af85f36edeae8ebfbcac1c818ebe9dfc52c8e3b9520d6b86",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/04/30028-m1-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170404M1-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
