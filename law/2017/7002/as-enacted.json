@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7002",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Komorlar Birliği Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-05",
+  "gazette_issue": "30029",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170405-14.htm",
+  "source_sha256": "8c1951d48cac1c18322cf7e008df600ac91e1a100ca6891790a4dc397d9f36f7",
+  "text_sha256": "6eef3a3bc4f960ddb6bdcef7a8a7cb90dd6e746ed076112f138791c49b9aff88",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/05/30029-14",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170405-14.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
