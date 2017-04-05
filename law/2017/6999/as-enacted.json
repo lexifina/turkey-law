@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "6999",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve İslam Ülkeleri Standardlar ve Metroloji Enstitüsü Arasında İslam Ülkeleri Standardlar ve Metroloji Enstitüsünün Türkiyede Kurulması Hakkında Anlaşmaya Ek Değişiklik Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-05",
+  "gazette_issue": "30029",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170405-11.htm",
+  "source_sha256": "68679aa58e704de4622af50234a3d4673a4345b4a538b1ce1fce1fd458f04f2b",
+  "text_sha256": "8d748be8af74be21cec17b9124b86ca471854efdf27044be8bb05df606c5892b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/05/30029-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170405-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
