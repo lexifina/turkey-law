@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7005",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Madagaskar Cumhuriyeti Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-05",
+  "gazette_issue": "30029",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170405-17.htm",
+  "source_sha256": "c0c0d90cca9b694abeb03ad19f8b80103bd4548b1a4ba3c6258566b59907c9d8",
+  "text_sha256": "78f433f27c848b1f5f9d8cecf17bd9e1d95a40a284d9b648946f14f17eab2218",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/05/30029-17",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170405-17.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
