@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7012-1",
+  "decision_date": "2017-04-05",
+  "title": "EPDK Kurul Kararı 7012-1",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/g486vmYhwY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/g486vmYhwY="
+  ],
+  "source_sha256": "e8d288a3aa56d1686417d00c9b7e0f00b28083b85e5e5c25f52355e9550e3150",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2017-04-05",
+  "law_text_complete": false
+}
