@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-04-05",
+  "issue": "30029",
+  "edition": "regular",
+  "item": 15,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "7003 Türkiye Cumhuriyeti Hükümeti ve Moritanya İslam Cumhuriyeti Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170405-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170405.htm",
+  "index_sha256": "a71c78aecfdeb9c05ed60baafd67b2bc0e1d031406bdf545b97573b2acbc0a4f",
+  "index_header": "5 Nisan 2017 ... 30029 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170405.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
