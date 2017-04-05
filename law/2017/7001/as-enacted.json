@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7001",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Ekvador Cumhuriyeti Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-05",
+  "gazette_issue": "30029",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170405-13.htm",
+  "source_sha256": "cbd8993e032cbe7d182a2a05be8c99604ab7740cb9f256b0f16118c18226e0df",
+  "text_sha256": "32826a3058886a6b1d587f499fd7dc375b7d5264acc239bec6125331c4ef8c56",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/05/30029-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170405-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
