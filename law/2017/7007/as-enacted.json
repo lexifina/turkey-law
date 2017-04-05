@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7007",
+  "year": 2017,
+  "title": "Tehlikeli Malların Karayolu ile Uluslararası Taşımacılığına İlişkin Avrupa Anlaşmasının Tadil Edilen Eklerinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-04-05",
+  "gazette_issue": "30029",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170405-18.htm",
+  "source_sha256": "206679b22847b69611dd09e6101d03f5270a08e0c59f0f2b32a68aea62be7229",
+  "text_sha256": "f576267a7a020d7645ab1d9f4e6491eff651b5e53441ae0e263b286b1675c976",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/04/05/30029-18",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170405-18.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
