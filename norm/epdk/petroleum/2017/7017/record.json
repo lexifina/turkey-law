@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7017",
+  "decision_date": "2017-04-05",
+  "title": "OMV Petrol Ofisi A.Ş.’nin, 23/07/2015 tarihli ve PİL/5702-1/35810 numaralı iletim lisansı kapsamında faaliyet gösterdiği ve “Liman Mahallesi Liman 2 Caddesi No:7 Konyaaltı/ANTALYA” adresinde kurulu Antalya Terminali’ne ait İletim Tarifesine ilişkin",
+  "resmi_gazete_date": "2017-04-08",
+  "resmi_gazete_number": "30032",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TC1TX+Dbw6Q=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TC1TX+Dbw6Q="
+  ],
+  "source_sha256": "94bb46c1aa3325dd22c7c795cd5087215735b04946cbf419fea4f99989df9833",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-04-05",
+  "law_text_complete": true
+}
