@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10640",
+  "decision_date": "2017-04-06",
+  "source_id": 24862,
+  "chamber": "1",
+  "ilam_number": "501",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24862/",
+  "source_sha256": "dbc4279770489835a2f7c99f8936b9b2b1fd2ca44a852216e5d9eb5d7b37571f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
