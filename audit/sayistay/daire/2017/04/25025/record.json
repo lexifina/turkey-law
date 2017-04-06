@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "106",
+  "decision_date": "2017-04-06",
+  "source_id": 25025,
+  "chamber": "8",
+  "ilam_number": "243",
+  "item_number": 114,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25025/",
+  "source_sha256": "cca33289574815596d6ab8366b7df6828dadab78aead0d47af6d567bc270ba15",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
