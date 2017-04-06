@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "106",
+  "decision_date": "2017-04-06",
+  "source_id": 25003,
+  "chamber": "8",
+  "ilam_number": "243",
+  "item_number": 92,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25003/",
+  "source_sha256": "4888d09e2bd4d18a0ed88dc5623dd254788fc540a49d5f2b109f4a85c551eca1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
