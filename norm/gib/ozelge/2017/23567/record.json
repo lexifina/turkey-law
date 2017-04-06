@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.27.40.01-120[17-515-11]-16373",
+  "source_id": 23567,
+  "date": "2017-04-06",
+  "title": "Harita ve kadastro hazırlama hizmetinden dolayı vergi mükellefiyeti ve KDV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23567",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "e33d624be23ff6e4a7c1ea36433267bca779d5621ab9ef51c6fc94f03ff9c58c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
