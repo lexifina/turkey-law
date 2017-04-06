@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "19208162-105-12",
+  "source_id": 26963,
+  "date": "2017-04-06",
+  "title": "Maden öğütmesi için kullanılacak, ancak henüz montajı yapılmamış ögütme değirmeni aksamının amortismanı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26963",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "52d27a7a39380c08227b867a8279b42bb4e5c56df51d889ee1859f548ff32c07",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
