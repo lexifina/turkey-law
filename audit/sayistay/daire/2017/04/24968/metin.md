@@ -1,0 +1,5 @@
+Kasko sigortası giderinin ödenmesi:
+
+… İl Müdürlüğü’nce ölçü ve ayar servisinde kullanılan ölçü ve ayar cihazları donanımlı aracın kasko sigortası giderinin, yerinde muayene giderleri hesabından ödendiği görülmüştür.
+
+Denetçi tarafından 2015 yılı Bütçe Kanunu (E) Cetveli 34’üncü maddesine aykırı olarak Bakanlık muayene aracı kasko sigortası giderinin ödenmesi konusunun sorgu edilmesi üzerine gönderilen savunmalardan; söz konusu aracın, AB mali işbirliği 2004 yılı programında yer alan Avrupa Birliği Direktiflerinin Yürütülmesi Amaçlı Piyasa Gözetimi ve Denetimi Laboratuvarlarının Desteklenmesi Projesi kapsamında şartlı temin edilen vinç donanımlı, etalonlu kamyon olduğu ve Hazine Müsteşarlığı Merkezi Finans ve İhale Biriminden Bakanlık … Genel Müdürlüğüne gönderilen … tarihli ve … sayılı Yazı ile hırsızlık gibi nedenlere karşı sigorta güvence belgesinin talep edilmesi üzerine, İl Müdürlüğünce kasko sigortasının yaptırıldığı anlaşıldığından, mevzuatına uygun olan … TL tutarındaki harcama için ilişilecek bir husus bulunmadığına, oy birliğiyle, karar verildi.
