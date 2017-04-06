@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.01.16.02-180[29.-2017/4676]-38",
+  "source_id": 36730,
+  "date": "2017-04-06",
+  "title": "01.01.2016 tarihinden önce makine ve teçhizat alımı için kullanılan kredilerde BSMV istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36730",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "bda7fdb8106f0f771c3aa048f2645c424ad31e3b5e74c02fc55b7d7a6a13b19d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
