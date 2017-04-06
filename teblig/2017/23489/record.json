@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.23489",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "PİYASAYA ARZ EDİLEN GÜBRELERİN İZLENMESİNE YÖNELİK TEBLİĞ (TEBLİĞ NO: 2017/17)",
+  "number": "23489",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2017/23489",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23489&MevzuatTertip=5",
+  "source_sha256": "9979acd2918645a89e1c9ad2c3b376d400e074e9ed8157b53529fcc5fabb20fc",
+  "source_bytes": 26966,
+  "published": "2017-04-06",
+  "gazette": "30030",
+  "in_force": "2017-04-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.04.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1148,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
