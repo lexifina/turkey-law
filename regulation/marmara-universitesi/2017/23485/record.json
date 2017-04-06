@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-04-06",
+      "06.04.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30030",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-04-06",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Marmara Üniversitesi",
+  "issuer_slug": "marmara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/marmara-universitesi/2017/23485",
+  "published": "2017-04-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23485&MevzuatTertip=5",
+  "source_bytes": 24555,
+  "source_id": "8.5.23485",
+  "source_sha256": "9e30e40930f59539c6017700e5554630eaae5fa2334295866a55358033cca835",
+  "text_status": "as-enacted",
+  "title": "MARMARA ÜNİVERSİTESİ BÖLGESEL KALKINMA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 210,
+  "word_count": 953
+}
