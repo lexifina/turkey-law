@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "452",
+  "decision_date": "2017-04-06",
+  "source_id": 24392,
+  "chamber": "6",
+  "ilam_number": "499",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24392/",
+  "source_sha256": "0041f77b6466beab0e2afd97efcf92e179199610d3e1353d00575aab14f0491c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
