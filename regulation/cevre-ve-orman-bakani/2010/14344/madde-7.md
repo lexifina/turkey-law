@@ -1,0 +1,2 @@
+Lisans almaya ilişkin hükümler
+MADDE 7 – (1) (Değişik:RG-7/4/2017-30031) Yakma veya beraber yakma tesisleri Bakanlıktan lisans almakla yükümlüdür. Yakma veya beraber yakma tesisi kurmak veya işletmek isteyen gerçek ve tüzel kişiler, Çevre İzin ve Lisans Yönetmeliği hükümlerine göre müracaat eder ve lisans alır. Çevre İzin ve Lisans Yönetmeliği gereğince düzenlenen Geçici Faaliyet Belgesi kapsamında deneme yakması sonuç raporunun olumlu çıkması halinde tesis atık kabulüne ve faaliyetlerine devam eder.

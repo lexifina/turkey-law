@@ -1,0 +1,2 @@
+Mevcut yakma ve beraber yakma tesisleri
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımı tarihinde işletilmekte olan mevcut yakma ve beraber yakma tesisleri, geçerli olan mevcut lisans şartlarına göre faaliyetlerini sürdürürler. Ancak; söz konusu tesisler bu Yönetmeliğin eklerinde parametre bazlı verilen muafiyetler hariç olmak üzere en geç 31/12/2012 tarihine kadar Yönetmelikte belirtilen diğer şartları sağlayacak şekilde gerekli tedbirleri alır.

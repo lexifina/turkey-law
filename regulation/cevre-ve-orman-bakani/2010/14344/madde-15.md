@@ -1,0 +1,41 @@
+Ölçüm koşulları
+MADDE 15 – (1) Atık yakma ve beraber yakma tesislerinde hava kirleticilerine ilişkin ölçümler Ek-3’e uygun olarak yürütülür:
+a) Sürekli ölçüm cihazı ile belirlenen azot oksitler (NOx), karbon monoksit (CO), toplam toz, toplam organik karbon (TOK), hidroklorik asit (HCl), hidrojen florür (HF), kükürt dioksit (SO2) maddelerine ilişkin Ek-5 te belirlenen emisyon limit değerleri sağlanır.
+b) İşletme kirlilik parametrelerinin sürekli ölçümlerinde, Bakanlıkça yetkilendirilmiş kuruluşun deneme yakması aşamasında belirlediği yakma odasının içinde, başka bir örnek noktadaki sıcaklık, oksijen konsantrasyonu, basınç, baca gazı sıcaklığı ve su buharı içeriğine göre yapılır.
+c) Sürekli ölçümlerin kontrol ve teyidi amacıyla, NOx, CO, toplam toz, TOK, HCl, HF, SO2’nin ölçümü yılda en az dört kez, ayrıca ağır metallerin, poliaromatik hidrokarbonların, dioksinlerin ve furanların ölçümü yılda en az iki kez; dioksinlerin ve furanların ölçümü tesisin ilk işletmeye alınmasından itibaren 12 ay boyunca en az her üç ayda bir olmak üzere yapılır.
+ç) Farklı özelliklerdeki atıkların bertarafının yapılacağı yakma tesisleri için deneme yakmasında, yüksek klor ve kül bileşeni, en düşük yanma ısısı gibi optimum koşullar esas alınarak ölçümlerin yapılması zorunludur.
+d) HC1 için emisyon limit değerlerin aşılmadığını belgeleyen gaz arıtım üniteleri kullanılmış ise, HF’nin sürekli ölçümüne muafiyet tanınabilir. Bu durumda, HF emisyonu (c) bendinde öngörülen periyodik ölçümlere tabi olur.
+e) Örneklenen baca gazı emisyonlarının analizinden önce kurutuluyorsa, su buharı içeriğinin sürekli ölçümü gerekli olmaz.
+f) Yakma veya beraber yakma tesisinde, işletici HCl, HF ve (SO2) maddelerinin emisyonlarının belirtilen emisyon limit değerlerinden hiçbir şart altında daha yüksek olmayacağını kanıtlaması halinde, Bakanlıkça, sürekli ölçüm yerine (c) bendinde belirtilen şekilde periyodik ölçümlere müsaade edilir.
+g) Ağır metal konsantrasyonlarının periyodik ölçümleri her yıl iki kez yapılmak zorundadır. Ancak yakmadan veya beraber yakmadan kaynaklanan emisyonların sırasıyla Ek-2 veya Ek-5’te belirlenen emisyon limit değerlerinin %50 altında olması halinde, bu sürenin iki yılda bir kez yapılması ve dioksinler ile furanlar için ise her yıl iki kere yapılan emisyon ölçümlerinin yılda bir kere yapılması yeterlidir.
+ğ) Yakma veya beraber yakmada, belirli özellikler gösteren ve geri dönüştürülemeyen tehlikeli olmayan atığın ayrıştırılması, yanabilir kısımlardan meydana geliyor ise; bu atıkların beraber yakılması, Atık Yönetimi Genel Esaslarına İlişkin Yönetmeliğin 8 inci maddesinde belirlenen ilgili atık yönetim planları ile uyum içinde olması zorunludur.
+h) İşletmenin ağır metal, dioksin ve furan emisyonlarının bütün koşullarda Ek-2 ve Ek-5’te belirlenen emisyon limit değerlerinin altında olduğu kanıtlanırsa Bakanlıkça bu emisyonlara müsaade edilir.
+(2) Emisyon limit değerlerine uygunluk gösterdiğinin tasdik edilmesi için yapılan ölçümlerin sonuçları, aşağıdaki koşullarda ve oksijen için, Ek-6’da değinilen formüle göre standart hale getirilir:
+a) Yakma tesislerinin, baca gazı sıcaklığı 273 oK, basınç 101,3 kPa, % 11 oksijen kuru bazda,
+b) Atık Yağların Kontrolü Yönetmeliğinde tanımlanan, atık yağın yakılmasından kaynaklanan baca gazında, sıcaklık 273 oK, basınç 101,3 kPa, %3 oksijen kuru bazda,
+c) Beraber yakma durumunda, ölçüm sonuçları, Ek-2’deki gibi hesaplanan toplam oksijen içeriğinde.
+(3) Tehlikeli atık yakma veya beraber yakma tesisinde oluşan kirletici emisyonların baca gazı arıtımı ile kontrol altına alındığı durumlarda, 11 inci maddenin ikinci fıkrasında belirtilen hükümler uygulanır. Oksijen içeriklerini standart hale getirme işlemi, sadece ilgili kirletici madde için, aynı sürede ölçülen oksijen içeriğinin ilgili standart oksijen içeriğini aşması halinde yapılır.
+(4) Baca gazındaki emisyonlar ve kütlesel debi tayini için yapılan ölçümler bütünü temsil edecek ve emisyon ölçüm sonuçlarının birbiri ile karşılaştırılmasına olanak verecek şekilde en az üç ardışık zamanda, dioksinler ve furanlar için numune alma ve ölçümler TS ISO 1948-1,2,3 te belirtilen yöntemle yapılır. Ayrıca, dioksinler ve furanlar da dahil olmak üzere tüm kirleticilerin örnekleme ve analiz işlemleri ile otomatik ölçüm sistemlerini kalibre etmek için kullanılan referans ölçme yöntemleri öncelikle CEN (Avrupa Birliği Standartları), bunun mümkün olmaması durumunda diğer uluslararası kabul görmüş standartlar ya da ulusal standartlar doğrultusunda yapılır.
+(5) Tesis, bu Yönetmelikte öngörülen emisyon limit değerlerini sağladığı, izin verilen işletme koşullarına uygun çalıştığının takip edilmesi amacıyla bütün ölçüm sonuçlarını kayıt altına alır ve Bakanlığa ibraz eder. Bu maddenin uygulanması için aşağıda belirtilen koşulların sağlanması zorunludur:
+a) Günlük ortalama değerlerin hiçbiri Ek-5’in (a) bendinde veya Ek-2’de belirtilen emisyon limit değerlerinden herhangi birini aşmıyor ise,
+b) Yıl boyunca alınan günlük ortalama değerlerin % 97’si Ek-5’te belirlenen emisyon limit değerini aşmıyor ise,
+c) Yarım saatlik ortalama emisyon değerlerinin hiçbiri Ek-5’in (b) bendinin sütün A’sında belirlenen emisyon limit değerlerinin herhangi birini aşmıyor ise, veya yıl boyunca alınan yarım saatlik ortalama değerlerin % 97’si Ek-5’in (b) bendinin sütun B’sinde belirlenen emisyon limit değerlerinin herhangi birini aşmıyor ise,
+ç) Ağır metaller ve dioksin ve furanlar için belirlenen örnekleme süresi boyunca ortalama değerlerin hiçbiri Ek-5’in (c) ve (d) bentleri veya Ek-2’de belirlenen emisyon limit değerlerini aşmıyor ise,
+d) (Değişik:RG-7/4/2017-30031) Ek-5’in (d) bendinin ikinci paragrafında veya Ek-2’de belirtilen şartları sağlıyor ise,
+endüstriyel tesislerden kaynaklanan hava kirliliği kaynaklı emisyon değerlerine uyulduğu kabul edilir.
+(6) Yarım saatlik ve on dakikalık ortalama değerler, ölçülen değerlerden Ek-3’ün 3 üncü paragrafında belirtilen güvenlik aralığının değeri çıkarıldıktan sonra, etkin işletme zamanı içerisinde saptanır. Ancak tesiste hiçbir atık yakılmıyor ise başlama ve kapatma safhaları hariçtir.
+(7) Geçerli bir günlük ortalama değer elde etmek amacıyla, sürekli ölçüm sisteminin arızası veya bakımı nedeniyle herhangi bir gün içinde, en fazla beş tane yarım saatlik ortalama değer sayılmaz. Sürekli ölçüm sisteminin arızası veya bakımı nedeniyle, bir yıl içinde en fazla on tam gün, günlük ortalama değeri olarak sayılmaz.
+(8) Örnekleme süresi boyunca ortalama değerler ve HF, HCl ve SO2’nin periyodik ölçülmesi durumunda alınan ortalama değerler, lisans koşulları ve Ek-3’te belirtilen şartlara uygun olarak belirlenir.
+(9) Atıksuların deşarj edildiği son noktada;
+a) pH, sıcaklık ve debinin ölçümleri sürekli olarak,
+b) Toplam askıdaki katı maddelerin yerinde örnekleme ile yapılan ölçümleri günlük olarak,
+c) Ek-4’te ağır metallere bağlantılı olarak, bu Yönetmeliğin 9 uncu maddesinde belirtilen kirletici maddelerin 24 saatlik debi orantılı temsili örneklemesinin, ölçümleri en az ayda bir,
+ç) Dioksinlerin ve furanların ölçümleri en az her altı ayda bir, ancak işletmenin ilk 12 ayı için en az her üç ayda bir
+yapılır.
+(10) Arıtılan atıksu içindeki kirletici maddelerin kütlelerinin izlenmesi, ölçümlerin sıklığı ile birlikte, lisans koşullarında yer alır. Ancak;
+a) Toplam askıdaki katı maddelerin ölçülen değerlerin %95’i ve %100’ü, Ek-4’te belirtilmiş olan ilgili emisyon limit değerlerini aşmıyor ise,
+b) Ek-4’te belirtilen emisyon limit değerleri, yılda ölçülen ağır metaller içinden en fazla bir tanesi için veya yirmi taneden fazla örnek temin ediliyorsa, temin edilen bu örneklerden %5’inden fazlası, E-4’te belirtilen emisyon limit değerlerini aşmıyor ise,
+c) Dioksinler ve furanlar için, yılda iki kere yapılan ölçümler Ek-4’te belirtilen emisyon limit değerlerini aşmıyor ise,
+Bakanlıkça, su için emisyon limit değerlerine uyulduğu kabul edilir.
+(11) Alınan ölçümler, bu Yönetmelik hükümleri gereğince uyulması gereken hava ve su için belirtilen emisyon limit değerlerinin aşıldığını gösterirse, Bakanlık hemen haberdar edilir.
+(12) Tesiste, bu Yönetmelik hükümleri gereğince yapılacak tüm ölçümler akredite edilmiş veya Bakanlıkça yetki verilmiş laboratuarlara sahip olan özel veya kamu kurum ve kuruluşları tarafından yapılır. Bakanlık daha sık aralıklarla ölçüm/analiz talebinde bulunabilir. Analiz bedeli tesis sahibi tarafından karşılanır.
