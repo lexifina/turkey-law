@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.01-125[5-e/2015-10]-35227",
+  "source_id": 35445,
+  "date": "2017-04-07",
+  "title": "Tasfiye kararı alınan şirketin taşınmazının bedelsiz olarak devrinin KV, KDV ve Harç yönünden değerlendirilmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/35445",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "e59b8279af678828bc0bfbe9375bc456a7086f8b96b0e4aa6cbfc5f164dc6610",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
