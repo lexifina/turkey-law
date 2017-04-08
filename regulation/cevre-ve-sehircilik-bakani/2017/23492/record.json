@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.23492",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "STRATEJİK ÇEVRESEL DEĞERLENDİRME YÖNETMELİĞİ",
+  "number": "23492",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2017/23492",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23492&MevzuatTertip=5",
+  "source_sha256": "902ac13d30fb5617c051860d09cb31771626ebc98cf48937ee9e2bd76dff4f5f",
+  "source_bytes": 43017,
+  "published": "2017-04-08",
+  "gazette": "30032",
+  "in_force": "2017-04-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.04.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2134,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23492-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
