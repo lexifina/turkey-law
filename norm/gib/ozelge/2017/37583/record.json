@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70903105-165.01.02[33]-E.42820",
+  "source_id": 37583,
+  "date": "2017-04-09",
+  "title": "Yurt Dışında Kredi Kartı Harcamalarında KKDF Uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/37583",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "71a12c450c63d0b25faccfc89aa9d7d8ced8545fc64df6b6d6b4f811131b81be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
