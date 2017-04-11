@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.23501",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İNTERNET TOPLU KULLANIM SAĞLAYICILARI HAKKINDA YÖNETMELİK",
+  "number": "23501",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu Başkanı",
+  "issuer_slug": "bilgi-teknolojileri-ve-iletisim-kurumu-baskani",
+  "path": "regulation/bilgi-teknolojileri-ve-iletisim-kurumu-baskani/2017/23501",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23501&MevzuatTertip=5",
+  "source_sha256": "e0e2fa0c52dd5ccc7ab5b4a51b530ea9e7a621b8c27a6eda380d4c9db39446ab",
+  "source_bytes": 34554,
+  "published": "2017-04-11",
+  "gazette": "30035",
+  "in_force": "2017-04-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.04.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1564,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23501-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
