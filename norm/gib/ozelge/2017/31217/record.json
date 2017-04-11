@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.55.15.01-130[13-2016/ÖZE-15]-49",
+  "source_id": 31217,
+  "date": "2017-04-11",
+  "title": "Türkiye Kızılay Derneğine yapılacak teslim ve hizmetlerde KDV istisnası.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31217",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "2796fd79d8330ba3814bc072b280121e41a4a4811f86e60687b1de48748527f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
