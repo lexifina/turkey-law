@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-125[2017-721-1]-16071",
+  "source_id": 22546,
+  "date": "2017-04-11",
+  "title": "Ödemesi Ertelenen SGK Primlerinin Kurum Kazancının Tespitinde Gider Olarak Dikkate Alınıp Alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22546",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "021a06805c1bf13cac01682f60b9abbf98c5569f8b9254516e1b5ab709e7abf0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
