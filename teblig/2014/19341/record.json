@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.19341",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE ÇİMENTO MÜSTAHSİLLERİ BİRLİĞİ-KALİTE VE ÇEVRE KURULU İKTİSADİ İŞLETMESİNİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (MHG/2014-02)",
+  "number": "19341",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2014/19341",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19341&MevzuatTertip=5",
+  "source_sha256": "6a4564945e5fc1b484f37fc0e5e7f5d494f9c1b65b162cae1e22efe6f86dd531",
+  "source_bytes": 36996,
+  "published": "2014-01-24",
+  "gazette": "28892",
+  "in_force": "2017-04-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/4/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-04-12",
+      "RG-12/4/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 565,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
