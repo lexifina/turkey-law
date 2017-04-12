@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2017/15",
+  "meeting_date": "2017-04-12",
+  "meeting_date_as_published": "12.4.2017",
+  "decision_no": "42",
+  "source_id": 9232,
+  "title": "RTÜK kararı 2017/15-42",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/9232",
+  "source_sha256": "0bf0a76e081b44ef978489707ac1d4fc677a1a31f17dae52b12627c5b3303943",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (6 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
