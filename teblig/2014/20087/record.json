@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.20087",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "FTI FASAD TEKNOLOJİ MERKEZİ A.Ş.’NİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (MHG/2014-22)",
+  "number": "20087",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2014/20087",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20087&MevzuatTertip=5",
+  "source_sha256": "c188994178a3e2475603b1295e0073aab0ee6741d5ef8433547081114e954874",
+  "source_bytes": 17585,
+  "published": "2014-09-30",
+  "gazette": "29135",
+  "in_force": "2017-04-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/4/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-04-12",
+      "RG-12/4/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 258,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
