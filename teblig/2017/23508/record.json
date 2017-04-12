@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23508",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜV TEKNİK KONTROL VE BELGELENDİRME A.Ş.’NİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (MHG/2017-10)",
+  "number": "23508",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2017/23508",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23508&MevzuatTertip=5",
+  "source_sha256": "01d162c3f9377a6f10078cf388943bd2b23f125d82374902b1f3cc9807dc66c2",
+  "source_bytes": 8226,
+  "published": "2017-04-12",
+  "gazette": "30036",
+  "in_force": "2017-04-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.04.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 104,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23508-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
