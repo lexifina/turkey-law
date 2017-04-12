@@ -1,0 +1,155 @@
+12 Nisan 2017 ÇARŞAMBA
+Resmî Gazete
+Sayı : 30036
+YÖNETMELİK
+Gümrük ve Ticaret Bakanlığı ve Maliye
+Bakanlığından:
+GÜMRÜK KANUNUNA
+GÖRE MÜLKİYETİN KAMUYA GEÇİRİLMESİ
+KARARI VERİLEN KARA TAŞITLARININ SAHİPLERİNE
+İADESİ HAKKINDA
+YÖNETMELİK
+Amaç ve
+kapsam
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı;
+27/10/1999 tarihli ve 4458 sayılı Gümrük Kanununun 235 inci maddesine göre
+el konularak mülkiyetin kamuya geçirilmesi kararı verilen araçların
+sahiplerine iadesine ilişkin usul ve esasları belirlemektir.
+(2) Bu Yönetmelik, Kanunun geçici 9 uncu maddesinin
+yürürlük tarihinden önce aynı Kanunun 235 inci maddesine göre el konularak
+mülkiyetin kamuya geçirilmesi kararı verilmiş ve henüz tasfiyesi
+tamamlanmamış olan araçları kapsar.
+Dayanak
+MADDE 2 –
+(1) Bu Yönetmelik, 27/10/1999
+tarihli ve 4458 sayılı Gümrük Kanununun geçici 9 uncu maddesine dayanılarak
+hazırlanmıştır.
+Tanımlar
+MADDE 3 –
+(1) Bu Yönetmelikte geçen;
+a) Araç: Kara ulaşım aracını,
+b) Başvuru sahibi: Aracın malikini,
+c) İlk iktisap: 4760 sayılı Özel Tüketim Vergisi
+Kanununa ekli (II) sayılı listedeki kara ulaşım araçlarından Türkiye’de
+kayıt ve tescil edilmemiş olanlarının kullanılmak üzere ithalini, müzayede
+yoluyla veya kayıt ve tescil edilmiş olsa dahi 6502 sayılı Tüketicinin
+Korunması Hakkında Kanun hükümlerine göre iade edilenler de dâhil motorlu
+araç ticareti yapanlardan iktisabını, motorlu araç ticareti yapanlar
+tarafından kullanılmaya başlanmasını, aktife alınmasını veya adlarına kayıt
+ve tescil ettirilmesini,
+ç) Kanun: 4458 sayılı Gümrük Kanununu,
+ifade eder.
+Başvuru
+şekli ve süresi
+MADDE 4 – (1) Kanunun 235 inci maddesi uyarınca el konularak
+mülkiyetin kamuya geçirilmesi kararı verilen kara ulaşım araçlarının iadesi
+ile ilgili olarak Kanunun geçici 9 uncu maddesi hükümlerinden yararlanmak
+isteyen kişilerin, 31/7/2017 tarihi mesai saati bitimine kadar mülkiyetin
+kamuya geçirilmesi kararını veren gümrük idaresine EK-1’de yer alan dilekçe
+ile başvuruda bulunmaları şarttır.
+(2) Başvuru dilekçesinde, aracın tescil belgesi
+bilgilerine, başvuru yapan kişinin açık adres ve iletişim bilgilerine, ilk
+iktisapla ilgili işlemleri gerçekleştiren vergi dairesi bilgisine, varsa
+mülkiyetin kamuya geçirilmesi kararı örneğine, araca el konulmasına ilişkin
+evrak suretine yer verilir.
+(3) İlk iktisabın gerçekleştiği yer vergi dairesi
+bilgisi, motorlu taşıtlar vergisi ile görevli herhangi bir vergi dairesinden
+aracın tescil belgesi ibraz edilmek suretiyle öğrenilir.
+(4) Başvurunun iadeli taahhütlü posta veya Acele
+Posta Servisi yoluyla yapılması durumunda başvuru belgelerinin postaya
+verildiği tarih, normal posta ile veya şahsen yapılması hâlinde ise
+başvuruda bulunulan idarenin genel evrak kayıtlarına intikal ettiği tarih
+başvuru tarihi olarak dikkate alınır.
+Gümrük
+idaresince yapılacak işlemler
+MADDE 5 – (1) Yapılan inceleme sonucu gerekli şartları
+sağlamadığı anlaşılan başvurular, eksikliklerin 31/7/2017 tarihine kadar
+tamamlanması halinde kabul edilir.
+(2) Aracın tasfiyesinin tamamlandığının anlaşılması
+halinde başvuru reddedilir. Kanunun geçici 9 uncu maddesi kapsamına giren
+araçların tasfiye işlemleri, anılan maddenin yürürlüğe girdiği tarihten,
+31/7/2017 tarihi mesai saati bitimine kadar durdurulur.
+(3) İlk iktisabın serbest dolaşıma girişten sonra
+gerçekleştiğinin anlaşılması halinde,
+gümrük idaresince üç gün içinde, başvuru sahibi tarafından
+bildirilen aracın ilk iktisabı ile ilgili işlemleri gerçekleştiren vergi
+dairesinden, aracın ilk iktisabında ödenen özel tüketim vergisinin
+bildirilmesi istenir.
+Vergi
+dairesince yapılacak işlemler
+MADDDE 6
+– (1) 4 üncü maddenin üçüncü
+fıkrasına göre yapılan talep üzerine ilgili vergi dairesi, tescil belgesinde
+ibraz edilen aracın ilk iktisabı ile ilgili işlemleri gerçekleştiren vergi
+dairesi bilgisini, ilk iktisapla ilgili işlemlerin vergi dairelerinde
+gerçekleştirilmediğinin tespiti halinde ise bu durumu üç gün içinde başvuru
+sahibine bildirir.
+(2) 5 inci maddenin üçüncü fıkrası uyarınca gümrük
+idaresi tarafından istenen, aracın ilk iktisabında ödenen özel tüketim
+vergisi tutarı bilgisi, ilgili vergi dairelerince üç gün içinde gümrük
+idaresine bildirilir. Ödenen özel tüketim vergisi, taşıtın ilk iktisabı
+gerçekleştikten sonra verilen düzeltme beyannameleri üzerine veya sair
+nedenlerle yapılan ek tahakkuklar da dikkate alınarak belirlenir.
+(3) Kanunun geçici 9 uncu maddesi kapsamında işlem
+yapılması, söz konusu araçların ilk iktisabında ödenen vergilerde bir
+eksiklik tespit edilmesi halinde, gerekli vergi tarhiyatının yapılmasına ve
+ceza uygulamasına engel teşkil etmez.
+Ödenecek
+tutarın tespiti ve ödeme
+MADDE 7 –
+(1) İlk iktisabın, serbest
+dolaşıma girişte gerçekleşmesi halinde aracın ithalatında ödenen özel
+tüketim vergisi tutarı, serbest dolaşıma girişten sonra gerçekleşmesi
+halinde ise ilgili vergi dairesi tarafından bildirilen ödenen özel tüketim
+vergisi tutarı esas alınarak hesaplanan %25’lik tutar, başvuru sahibine
+ilgili gümrük idaresince posta, elektronik posta, faks ve benzeri iletişim
+yolları ile bildirilir.
+(2) Ödeme, başvuru tarihinden itibaren bir ay
+içinde ilgili gümrük idaresine yapılır.
+(3) Gümrük idaresine ibraz edilen belgeler
+çerçevesinde, araç bilgilerinin de yer aldığı ödemeye ilişkin iki nüsha
+belge başvuru sahibine verilir.
+Aracın
+iadesi
+MADDE 8 – (1) Yapılan ödemeyi müteakip ilgili gümrük
+idaresince gerekli işlemler yapılarak araç sahibine iade edilir. Derdest
+davalarda, aracın iade edildiği bilgisi gümrük idaresince ilgili mahkemeye
+bildirilir.
+(2) Aracın muhafazası nedeniyle ortaya çıkan
+masraflar için, başvuru sahibinden yıllık 250 TL tahsil edilir. Aracın
+kaldığı sürenin tam yıl olmayan kısmı için, belirtilen miktar esas alınarak
+aylık tutar üzerinden hesaplama yapılır. Bu hesaplamada bir aydan az olan
+süreler tam ay olarak kabul edilir.
+Kendiliğinden
+yapılan beyanlar
+MADDE 9 –
+(1) 27/1/2017 tarihinden önce
+serbest dolaşıma giriş rejimine tabi tutularak ilk iktisabı gerçekleşmiş
+araçlarla ilgili olarak, Kanunun 235 inci maddesi kapsamında el konularak
+mülkiyetin kamuya geçirilmesi kararı verilmesi gereken fiilin gümrük
+idaresince tespit edilmesinden önce ve dördüncü maddede belirtilen süre
+içinde gümrük idarelerine kendiliğinden bildirilmesi durumunda 7 nci
+maddede belirlenen oran %15 olarak uygulanır. Ödeme süresi içinde araca el
+konulmaz ve mülkiyetin kamuya geçirilmesine karar verilmez.
+(2) Ödemenin yapılmaması halinde Kanunun geçici 9
+uncu maddesi hükmünden faydalanılamaz.
+Diğer
+hükümler
+MADDE 10
+– (1) Bu Yönetmeliğin
+uygulanmasında karşılaşılan; gümrük idareleri ile ilgili tereddütleri gidermeye
+Gümrük ve Ticaret Bakanlığı, vergi daireleri ile ilgili tereddütleri
+gidermeye Maliye Bakanlığı yetkilidir.
+(2) Başvuru konusu eylemin aynı zamanda 5607 sayılı
+Kaçakçılıkla Mücadele Kanununun geçici 10 uncu maddesi kapsamında bulunması
+halinde, sadece 5607 sayılı Kanun hükümleri uyarınca işlem yapılır.
+Yürürlük
+MADDE 11
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 12
+– (1) Bu Yönetmelik hükümlerini
+Gümrük ve Ticaret Bakanı ile Maliye Bakanı müştereken yürütür.
+Eki için tıklayınız
