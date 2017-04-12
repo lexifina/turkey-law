@@ -1,0 +1,50 @@
+{
+  "source_id": "9.5.20209",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KİWA MEYER BELGELENDİRME HİZMETLERİ A.Ş.’NİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (MHG/2014-28)",
+  "number": "20209",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2014/20209",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20209&MevzuatTertip=5",
+  "source_sha256": "3dad180b751ed8db1155e15d9a2760109ad57b713f9020ea7c3331114fbdf353",
+  "source_bytes": 15016,
+  "published": "2014-11-13",
+  "gazette": "29174",
+  "in_force": "2017-04-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/4/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-04-12",
+      "RG-12/4/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-04-12",
+      "12/4/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-09-30",
+      "30/9/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 152,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20209-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
