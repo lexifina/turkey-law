@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23509",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİNİN TABİ OLACAĞI KRİTERLER HAKKINDA YÖNETMELİK KAPSAMINDA UKS ULUSLARARASI KALİTE SİSTEMLERİ VE BELGELENDİRME LTD. ŞTİ.’NİN UYGUNLUK DEĞERLENDİRME KURULUŞU OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (MHG/2017-11)",
+  "number": "23509",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2017/23509",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23509&MevzuatTertip=5",
+  "source_sha256": "29f9ffd072f86cd686901f9209c4bf7a65276faf81de88e512c0b3445cd8ab7a",
+  "source_bytes": 7613,
+  "published": "2017-04-12",
+  "gazette": "30036",
+  "in_force": "2017-04-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.04.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 109,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23509-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
