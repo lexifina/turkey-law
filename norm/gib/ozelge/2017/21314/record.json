@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.63.15.01-120-10978",
+  "source_id": 21314,
+  "date": "2017-04-12",
+  "title": "Genç girişimcilerde kazanç istisnasından faydalanmak için vergi dairesine müracaat şartı olup olmadığı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21314",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "ec7127599769943340ccb719e446ab78abdb1d88f01d4bbad971c90e503f150f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
