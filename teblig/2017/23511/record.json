@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.23511",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÇEK DÜZENLEME VE ÇEK HESABI AÇMA YASAĞI KARARLARININ BİLDİRİLMESİNE VE DUYURULMASINA İLİŞKİN TEBLİĞ",
+  "number": "23511",
+  "issuer": "Türkiye Bankalar Birliği Risk Merkezi",
+  "path": "teblig/2017/23511",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23511&MevzuatTertip=5",
+  "source_sha256": "4f00b11f5beb52a8f68ad41b576f830911d78697fce308164d99feef35c6ab8f",
+  "source_bytes": 14305,
+  "published": "2017-04-13",
+  "gazette": "30037",
+  "in_force": "2017-04-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.04.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 440,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
