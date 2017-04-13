@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[213-2016-535]-116820",
+  "source_id": 23059,
+  "date": "2017-04-13",
+  "title": "Et ve Süt Kurumundan alınan hayvanların belli bir bakım süresinden sonra kesime verilmesi şeklinde yapılan faaliyetin vergilendirilmesi ve defter tutma esasları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23059",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "5d1d8a9e9fc40394ab2849a48dc716bcd7d4634dbb0914f96c25ad84c5274da7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
