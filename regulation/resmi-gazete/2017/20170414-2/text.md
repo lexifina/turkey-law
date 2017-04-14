@@ -1,0 +1,320 @@
+14 Nisan 2017 CUMA
+Resmî Gazete
+Sayı : 30038
+YÖNETMELİK
+Yurtdışı Türkler ve Akraba Topluluklar
+Başkanlığından:
+YURTDIŞI
+VATANDAŞLARA BURS VERİLMESİNE İLİŞKİN YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı; yurt
+dışında yaşayan Türkiye Cumhuriyeti vatandaşlarına ve 29/5/2009 tarihli ve
+5901 sayılı Türk Vatandaşlığı Kanununun 28 inci maddesi kapsamındakilere
+yönelik yurt içinde ve yurt dışında burs verilmesine ilişkin usul ve
+esasları belirlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik, yurt dışında
+yaşayan Türkiye Cumhuriyeti vatandaşlarına ve 5901 sayılı Kanunun 28 inci
+maddesi kapsamındakilere yönelik yurt içinde veya yurt dışında en az
+yükseköğretim seviyesinde eğitim, araştırma, uzmanlık bursu verilmesini ve
+burslulukla ilgili işlemlere dair usul ve esasları kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 24/3/2010 tarihli ve 5978
+sayılı Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı Teşkilat ve
+Görevleri Hakkında Kanunun 6 ncı maddesinin dördüncü fıkrası, 8 inci
+maddesi ile 28 inci maddesinin altıncı fıkrasına dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Aday: Burs başvurusunda bulunan kişiyi,
+b) Bakan: Başkanlığın bağlı olduğu Bakanı,
+c) Başkanlık: Yurtdışı Türkler ve Akraba
+Topluluklar Başkanlığını,
+ç) Burs: Bu Yönetmelik hükümlerine göre eğitim
+ve/veya araştırma desteği olarak yapılacak ayni veya nakdi ödemeyi,
+d) Burs programı: Burs çeşitlerine uygun olarak
+ihtiyaçlar çerçevesinde düzey, alan, bölüm ve ülkelere göre başvuru
+koşulları değişebilen, çerçevesi Kurul tarafından belirlenen programları,
+e) Burs durdurma: Bursiyerin bursluluğunun
+araştırılması gerektiği durumlarda Bursluluk statüsü kaybedilmeksizin burs
+ödemesine ara verildiği durumu,
+f) Burs iptali: Bursiyerin bursluluk statüsünün
+sona erdirilmesini,
+g) Bursluluk taahhütnamesi: Yükümlülükleri ve
+bursluluk şartlarını belirten ve burslandırmaya uygun bulunan adaylar
+tarafından imzalanan belgeyi,
+ğ) Bursiyer: Burslandırılması uygun görülen kişiyi,
+h) Eğitim kurumu: Burs verilmesi uygun görülen
+kişilerin eğitim aldıkları kurumu,
+ı) Kurul: Burs programları, planlama ve
+stratejileri belirlemeye yetkili Burs Planlama Kurulunu,
+i) Öğretim yılı: Bursiyerin öğrenim gördüğü eğitim
+kurumunda her eğitim yılı için eğitim döneminin başlangıç ve tamamlanması
+arasında geçen süreyi,
+j) Sekretarya: Yurtdışı Türkler ve Akraba
+Topluluklar Başkanlığı Yurtdışı Vatandaşlar Daire Başkanlığında oluşturulan
+sekretaryayı,
+ifade eder.
+İKİNCİ BÖLÜM
+Kurul
+Kurulun
+teşkili ve görevleri
+MADDE 5 –
+(1) Burslarla ilgili temel
+stratejileri belirlemek ve yıllık planlamaları yapmak üzere Burs Planlama
+Kurulu oluşturulur.
+(2) Kurul Başkanı, Başkanlığın bağlı olduğu
+Bakandır.
+(3) Kurul; Bakan, Yurtdışı Türkler ve Akraba
+Topluluklar Başkanı, Dışişleri, Maliye ve Milli Eğitim Bakanlıklarının ve
+Diyanet İşleri Başkanlığının ilgili birimlerinden en az genel müdür
+düzeyinde birer temsilcisinden oluşur. Kurul toplantılarına, Kurul Başkanı
+tarafından gerekli görülmesi hâlinde diğer kurumlardan da temsilci
+çağrılabilir.
+(4) Kurul, yılda en az bir kez toplanır. Kurul,
+gerekli hallerde Bakanın çağrısı ile olağanüstü toplanabilir.
+(5) Burs program ve kontenjanları, Sekretarya
+tarafından hazırlanan rapor ve ilgili kurum görüşleri dikkate alınarak
+Kurul tarafından belirlenir.
+(6) Kurul burs miktarlarını ve sürelerini belirler.
+(7) Kurul kararları Sekretarya tarafından
+yürütülür.
+ÜÇÜNCÜ BÖLÜM
+Kontenjan,
+Başvuru, Burs Çeşitleri, Bursluluk İşlemleri
+Kontenjan
+ve planlama
+MADDE 6 – (1) Sekretarya tarafından kontenjan belirleme ve
+planlamaya esas teşkil etmek üzere, ülke ya da konulara göre burslarla
+ilgili ihtiyaçlar ve öncelikleri belirten bir rapor hazırlanır. Hazırlanan
+rapor her yılın ilk toplantısı öncesinde Kurula sunulur.
+(2) Her yıl burslar için tahsis edilecek
+kontenjanlar; ihtiyaçlar, öncelikler ve bütçe imkânları çerçevesinde ilgili
+kamu kurum ve kuruluşlarının görüşleri dikkate alınarak Kurul tarafından
+belirlenir.
+Burs
+verilecek adaylar
+MADDE 7 –
+(1) Bu Yönetmelik kapsamındaki
+burslar, genel ilke olarak yurt dışında yerleşik olan ve ortaöğretimini
+yurt dışında tamamlamış adaylara yöneliktir.
+(2) Burslar, bu Yönetmelik kapsamında belirlenmiş
+olan şartları taşıyan ön lisans, lisans, yüksek lisans, lisans sonrası
+uzmanlık eğitimi ve doktora düzeyinde kayıtlı olan adaylara, doktora
+sonrası bir üniversitede akademik danışman nezaretinde çalışma yapan
+araştırmacılara, akademisyenlere, mesleki yeterliliğe yönelik eğitim
+programlarına kayıtlı olanlara verilir.
+(3) Uzaktan, yaygın ya da yarı zamanlı bir eğitim
+programına kayıtlı olanlarla, Kurul tarafından belirlenen başvuru
+kıstaslarını sağlamayanlara burs verilmez.
+Burs
+çeşitleri
+MADDE 8 –
+(1) Burs çeşitleri aşağıdaki
+şekildedir:
+a) Teşvik Bursu: Yurt içinde veya yurt dışında
+Kurul tarafından Başkanlığın amaçları çerçevesinde belirlenecek öncelikli
+alanlara ilk defa kayıt yaptıran ve burs verilmesi uygun görülen adaylara
+yine Kurul tarafından belirlenen miktar ve sürelerde karşılıksız nakdi
+ödeme yapılır.
+b) Tez ve Araştırma Bursu: Bu Yönetmelik
+çerçevesinde, belirlenen alanlarda araştırma yapan, yurt içinde veya yurt
+dışında lisansüstü programına kayıtlı adaylara, öğrencilere veya doktora
+sonrası akademik çalışma yapan araştırmacılara ve akademisyenlere Kurul
+tarafından belirlenen miktar ve sürelerde nakdî destek sağlanır.
+c) Üstün Başarı Bursu: Çerçevesi Kurul tarafından
+belirlenen üstün başarılı öğrencilere verilecek ayni ve/veya nakdi
+destekleri kapsar.
+ç) Uzmanlık Bursu: Mesleki yeterlilik, sertifika ve
+uzmanlık eğitimleri çerçevesinde verilen destekleri kapsar.
+(2) Kurul kararı ile başka burs çeşitleri
+belirlenebilir.
+Başvuruların
+alınması
+MADDE 9 –
+(1) Başvurular, herkesçe
+ulaşılabilir bir şekilde, kolay ve anlaşılabilir bir yöntemle duyurularak,
+burs ilanında belirtilen şartlar uyarınca elektronik ortamda alınır.
+(2) Burs başvurusu ile ilgili bilgiler ve başvuruda
+bulunacaklardan istenen belgeler Başkanlığın internet sitesinde, dış
+temsilciliklerde ve gerekli görüldüğünde basın organları aracılığıyla ilan
+edilir.
+(3) Başkanlık gerekli görülen hallerde adaydan
+başvurusu ile ilgili ek bilgi ve belge talep edebilir.
+Başvuru
+değerlendirme
+MADDE 10
+– (1) Başvuru değerlendirmeleri
+Sekretarya tarafından yürütülür.
+(2) Başvurular burs programının önceliği, adayın
+eğitim geçmişi, başarı durumu, gelir düzeyi, burs programına uygunluğu ve
+kontenjanlar çerçevesinde, sunulan bilgi ve belgeler esas alınarak
+değerlendirilir.
+(3) Başvuru değerlendirmeleri ön inceleme, uzman
+değerlendirmesi ve mülakat olmak üzere üç aşamalı bir şekilde yapılır.
+(4) Ön inceleme ve uzman değerlendirmesi
+neticesinde uygun görülen adaylarla mülakat yapılır. Mülakatlar yurt içinde
+veya yurt dışında belirlenmiş mülakat merkezlerinde yüz yüze veya görüntülü
+görüşme yöntemi ile yapılır.
+(5) Mülakatlar neticesinde burslandırılması uygun
+görülen adaylara Bakan oluru ile burs tahsisi yapılır.
+Bursun
+başlatılması ve yenilenmesi
+MADDE 11
+– (1) Burslar, bursluluk
+taahhütnamesinin imzalanması ve adayın burs teklifinde yer alan eğitim
+kurumuna kayıt yaptırması veya tez/araştırma teklifinin danışman tarafından
+yazılı olarak onaylanması hâlinde başlatılır.
+(2) Burslar, öğrencinin asgari eğitim süresi içinde
+eğitimine devam ediyor olması, burs başvuru ve başarı şartlarını sağlaması
+koşulu ile bursiyerden istenen bilgi ve belgeleri bursun devamı talebini
+içeren bir dilekçe ile Başkanlığa iletmesi hâlinde yenilenebilir.
+(3) Bursun yenilenmesine ilişkin karar ilgili
+ülkedeki öğretim yılı başlamadan bursiyere bildirilir.
+Aday ve
+bursiyer yükümlülükleri
+MADDE 12
+– (1) Aday, başvuru ve evrak
+teslimi aşamasında sunduğu bütün bilgi ve belgelerin doğruluğundan
+sorumludur.
+(2) Aday veya bursiyer, Başkanlığa yaptığı burs
+başvurusundaki beyanında sonradan meydana gelen eğitim hayatı ile ilgili
+adres, eğitim kurumu gibi değişiklikleri ve sonradan hak kazandığı burs ve
+kredileri otuz gün içerisinde yazılı olarak Başkanlığa bildirmekle
+yükümlüdür.
+(3) Burslandırılması uygun görülen aday burs
+ödemeleri başlamadan önce bursluluk taahhütnamesi imzalar. Adayın 18
+yaşından küçük olması hâlinde bursluluk taahhütnamesi adayın velisi veya
+vasisi tarafından imzalanır.
+(4) Bursiyer, eğitim ve başarı durumunu gösterir
+belgeleri Başkanlığa bildirmekle yükümlüdür.
+(5) Araştırma ve tez yükümlülüğü olan bursiyer
+izleme raporlarını 6 aylık dönemler hâlinde Başkanlığa iletir; tezin ya da
+araştırmanın tamamlanmasının ardından tez ya da araştırmanın üç nüshasını
+Başkanlığa sunar. Başkanlık bursiyerin araştırmasında kullandığı anket,
+istatistik gibi verileri çalışmalarında kullanmak üzere talep edebilir.
+(6) Bursiyer, Başkanlık tarafından istenilen bilgi
+ve belgeleri zamanında, eksiksiz ve doğru bir şekilde sunmakla yükümlüdür.
+(7) Bursiyer, öğrenimini kesintisiz ve başarıyla
+tamamlamak için gerekli özeni göstermek ve eğitim kurumlarında devam
+zorunluluğuna ilişkin kurallara uymakla yükümlüdür.
+(8) Bursiyer, eğitiminin devamına engel teşkil eden
+bir durum ortaya çıkması halinde, bu durumu otuz gün içinde bildirmek ve
+durumunu kanıtlayan belgeleri Başkanlığa sunmakla yükümlüdür.
+Burs
+tahsisi ile ilgili itirazların incelenmesi
+MADDE 13
+– (1) Burs verilmesi veya bursunun
+yenilenmesi uygun görülmeyenler, burs tahsis listesinin ilan edildiği
+tarihten itibaren otuz gün içinde durumunun yeniden incelenmesini yazılı
+olarak talep edebilir. Başkanlık ilgili talebi inceleyerek cevabı yazılı
+olarak veya elektronik ortamda bildirir.
+Burs
+ödemeleri
+MADDE 14
+– (1) Bursiyere Kurul tarafından
+her bir burs programı ve burs düzeyi için belirlenen miktarda ödemeler
+aylık, üçer aylık ya da altışar aylık olarak bursun tahsis edildiği eğitim
+ve öğretim süresi boyunca Başkanlık tarafından yapılır. Bursun periyodu
+Başkanlık tarafından belirlenir.
+(2) Burs ödemelerinde para transfer ücreti gibi
+masraflar çıkması hâlinde bu masraflar burs miktarından mahsup edilir.
+(3) İlgili ülke mevzuatı gereğince gerekli
+mercilere bildirim yapılması ile burstan yapılacak her türlü vergi ve
+benzeri kesintiye ilişkin sorumluluk ve yükümlülük bursiyere aittir.
+Belge ve
+durum araştırması
+MADDE 15
+– (1) Başkanlık, gerekli görmesi
+durumunda bursiyerlerin belge veya durumlarını araştırabilir. Araştırma
+sonucunda 18 inci madde çerçevesinde bursluluğun iptalini gerektirecek bir
+hususun tespit edilmesi hâlinde burs iptal edilir.
+Takip ve
+danışmanlık işlemleri
+MADDE 16
+– (1) Bir yükseköğrenim kurumuna
+kayıtlı olarak ders almakta olan bursiyerlerin akademik başarı ve devam
+durumları, transkript ve öğrenci belgesi gibi dokümanlar; tez ve araştırma
+yükümlülüğü olanların ise Başkanlıkça belirlenen formata uygun olarak
+hazırlayacakları izleme raporları dönemler hâlinde bursiyer tarafından Başkanlığa
+sunulur.
+(2) İstenilen belgeleri sunmayanların bursları
+durdurulur. Başkanlıkça belirlenen ek süre içerisinde gerekli belgelerin
+sunulmaması halinde burs iptal edilir.
+(3) Tez ve araştırma yapmakla yükümlü olanlara
+izleme raporlarını incelemek ve gerekli rehberliği yapmak üzere Başkanlık
+danışman belirleyebilir. Belirlenen danışmanlara Başkanlık tarafından ücret
+ödenebilir.
+DÖRDÜNCÜ BÖLÜM
+Bursun İptali
+ve Geri Alınması
+Genel
+esas
+MADDE 17
+– (1) 5978 sayılı Kanun ve bu
+Yönetmelik kapsamında adayların Başkanlık tarafından belirtilen miktar ve
+sürelerde burslarının devamlılığı esastır. Ancak Başkanlık bursluluk durumu
+ile ilgili şartların değerlendirilmesi sonucunda bursun iptaline karar
+verebilir. Bu Yönetmelik kapsamında bursunun kesilmesine karar verilen
+bursiyer Başkanlığa karşı hak iddia edemez.
+Bursun
+iptali
+MADDE 18
+– (1) Bu Yönetmelik kapsamında;
+a) Kayıtlı olduğu eğitim kurumundan başarısız
+olduğu bildirilen veya tespit edilenlerin,
+b) Kayıtlı bulunduğu eğitim kurumundan mücbir sebep
+halleri ve değişim programları hariç bir yarıyıldan fazla izin alan veya
+kayıt donduranların,
+c) Burs hakkından feragat edenlerin,
+ç) Burs almakta iken kayıtlı olduğu eğitim
+kurumundan ayrılan veya ilişiği kesilenlerin,
+d) Eğitim kurumu herhangi bir nedenle kapatılan,
+başka eğitim kurumunda eğitimine devam ettiğini belgelemeyenlerin,
+e) Yanlış bilgi ve belge beyanında bulunduğu tespit
+edilenlerin,
+f) Taksirli suçlar hariç herhangi bir suçtan dolayı
+haklarında 6 ay hapis veya ağır hapis cezası ile yüz kızartıcı suçlardan
+dolayı kesinleşmiş mahkûmiyeti bulunanların,
+g) Eğitim kurumundan üç aydan fazla uzaklaştırma
+cezası alanların,
+ğ) Türkiye Cumhuriyeti aleyhine faaliyette
+bulunduğu ya da Türkiye Cumhuriyeti tarafından terör örgütü olarak
+tanımlanan kuruluşlar ile ilişkisi tespit edilenlerin,
+h) Bu Yönetmelik kapsamında belirtilen
+yükümlülüklerini yerine getirmeyenlerin,
+bursu iptal edilir.
+(2) Burs almakta iken herhangi bir özel kurum,
+kuruluş veya kişiden burs veya kredi almaya başlayan bursiyerlerin bursunun
+devam edip etmemesine Başkanlık karar verir. Bursiyer bu durumu otuz gün
+içerisinde Başkanlığa yazılı olarak bildirmekle yükümlüdür.
+(3) Bursu iptal edilen bursiyerler yazılı olarak
+veya elektronik ortamda burslarının iptal edildiğine dair bilgilendirilir.
+Haksız
+ödenen burs miktarının geri alınması
+MADDE 19
+– (1) Yanlış bilgi ve belge
+sunarak burslandırılan veya bursun iptalini gerektiren bir durumu bildirmeyerek
+burs almaya devam eden bursiyerlere yapılan haksız ödemeler genel hükümler
+çerçevesinde geri alınır.
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Hüküm
+bulunmayan haller
+MADDE 20
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hususlarda, bu Yönetmelikte belirlenen esaslar çerçevesinde
+gerekli kararları almaya Başkanlık yetkilidir.
+Yürürlük
+MADDE 21
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 22 –
+(1) Bu Yönetmelik hükümlerini
+Yurtdışı Türkler ve Akraba Topluluklar Başkanı yürütür.
