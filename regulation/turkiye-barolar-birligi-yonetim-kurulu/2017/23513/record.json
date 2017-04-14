@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23513",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BAROLAR BİRLİĞİ UZLAŞMA SAĞLAMA YÖNETMELİĞİ",
+  "number": "23513",
+  "issuer": "Türkiye Barolar Birliği Yönetim Kurulu",
+  "issuer_slug": "turkiye-barolar-birligi-yonetim-kurulu",
+  "path": "regulation/turkiye-barolar-birligi-yonetim-kurulu/2017/23513",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23513&MevzuatTertip=5",
+  "source_sha256": "c1082a188e16f454a1098aa9bc7d667225938f6829980b9d7d9c9fc8716a1d40",
+  "source_bytes": 27803,
+  "published": "2017-04-14",
+  "gazette": "30038",
+  "in_force": "2017-04-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.04.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1049,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
