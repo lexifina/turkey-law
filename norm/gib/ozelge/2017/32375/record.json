@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "22202903-010.99[3]-6",
+  "source_id": 32375,
+  "date": "2017-04-14",
+  "title": "Kuşburnu, dut ve hurmanın toptan ve perakende teslimlerinde KDV oranı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32375",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "0566b8cd5df6cc61971411be37b659e807a0ff275263ad76969e75ffa2dede3b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
