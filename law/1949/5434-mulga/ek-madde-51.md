@@ -1,0 +1,3 @@
+Ek Madde 51 – (7/5/1986 tarih ve 3284 Sayılı Kanunun 18 inci maddesi ile getirilen ek madde 1 hükmü olup, teselsül sebebi ile madde numarası değiştirilmiştir.)
+Yasama Organı Üyeliği yapanlarla dışarıdan bakanlığa atananlar, T.C. Emekli Sandığına, yazılı müracaat tarihlerini takip eden aybaşından itibaren yaşlarına bakılmaksızın T.C. Emekli Sandığı ile ilgilendirilirler. Bu gibilerin sandıklailgilendikleri tarihte, başka sosyal güvenlik kurumları ile ilgileri bulunuyorsa, bu ilgileri sona erer.
+Bunların emeklilik keseneklerine ve kurum karşılıklarına birinci derecenin son kademesi ve iştirakçilere uygulanmakta olan en yüksek ek gösterge esas tutulur.

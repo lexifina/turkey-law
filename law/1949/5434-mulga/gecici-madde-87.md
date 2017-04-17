@@ -1,0 +1,1 @@
+Geçici Madde 87 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Bu kanunun yürürlüğe girdiği tarihte geçici 65 inci maddenin (I) işaretli fıkrasında yazılı hizmetlerde bulunanlardan 2243 sayılı kanunun 15 inci maddesi hükmüne göre maaşlı hizmetlerinden dolayı tazminat almış bulunanların bu tazminatları hakkında da geçici 72 nci maddenin (b) fıkrasına göre muamele yapılır.

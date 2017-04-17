@@ -1,0 +1,3 @@
+Ek Geçici Madde 11 – (6/11/1981 - 2551/1 md. ile gelen Ek Geçici 3 ncü madde hükmü olup madde numarası teselsül ettirilmiştir.; 3/12/1992 tarihli ve 3854 sayılı Kanunun hükmüdür.)
+26/6/1973 tarihli ve 1782 sayılı Kanun kapsamına giren subay ve askeri memurlardan bu Kanuna göre emekli aylığı bağlanmasına esas aylıkları 1 inci derecenin 4 üncü kademesine ulaşanların emekli aylıkları, kıdemli albaylara uygulanan ek gösterge rakamları dikkate alınarak bulunacak emekli aylığı bağlanmasına esas aylıkları üzerinden düzeltilerek ödenir.
+Yukarıda sözü edilenlerden emekliliğe tabi görevlerde bulunmuş ve bu Kanunun yürürlüğe girdiği tarihten önce emekliye ayrılmış olanların aylıklarının düzeltilmesinde de aynı işlem uygulanır.

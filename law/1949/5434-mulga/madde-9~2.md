@@ -1,0 +1,6 @@
+Madde 9 – (7/5/1986 tarihli ve 3284 sayılı Kanunun hükmüdür.)
+a) Yönetim Kurulunun 8 inci madde gereğince,Maliye ve Gümrük Bakanlığının onayına sunulacak kararlarının birer örneği 15 gün içinde bu Bakanlığa gönderilir. Bakanlıkça kanun ve tüzük hükümlerine uygun görülmeyen kararların, gerekçesi bildirilerek düzeltilmesi istenebilir.Yönetim Kurulu isteği yerinde görürse kararını düzeltir. Aksi halde karşı görüşü ile birlikte Bakanlığa sunar. Bakanlık görüşünde ısrar ederse Yönetim Kurulu, kararını düzeltir.
+b) Yönetim Kurulunun 8 inci maddenin (f) fıkrasında yazılı konularla ilgili kararlarının birer örneği 15 gün içinde Maliye ve Gümrük Bakanlığına bildirilir.
+Maliye ve Gümrük Bakanlığı kendisine gönderilen bu kararlardan kanun ve tüzük hükümlerine uygun görmediklerinin düzeltilmesini 30 gün içinde gerekçesi ile birlikte resen Sandıktan isteyebilir.
+Bakanlığın bildirimi üzerine,Yönetim Kurulu kararını düzeltmezse bu kararı dosyası ile birlikte Bakanlığa yollar. Bakanlık, görüşünde ısrar ederse bu konuda Danıştayın görüşü alınır.
+İlgililer hakkında alınmış kararlar ile Genel Müdürlükçe yapılan tahsis işlemlerine ait bildirimler, ilgililerin adreslerine iadeli taahhütlü olarak gönderilir. Bunlara karşı ilgililer idari dava açabilir.

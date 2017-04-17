@@ -1,0 +1,2 @@
+Madde 23 – (8/6/1949 tarih ve 5434 sayılı Kanunun hükmüdür.)
+Sandık sermayesinden en çok 3 milyon lira, yönetim Kurulunca % 5 i geçmemek üzere belirtilecek faiz ve esaslara göre en çok üç aylık veya ücret tutarlarını veya ödeneklerini geçmemek ve yine en çok iki yıl içinde geri alınmak ve iştirakçi veya tevdiatçılardan iki kefil gösterilmek şartiyle, ihtiyacı olan iştirakçi veya tevdiatçılara borç vermek için döner sermaye olarak kullanılabilir.

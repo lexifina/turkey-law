@@ -1,0 +1,4 @@
+Geçici Madde 103 – (29/5/1957 tarihli ve 6981 sayılı Kanunun hükmüdür.)
+Ek maddede yazılı olanlarla bunlardan halen emeklilik hakkı tanınan başka vazifelerde bulunanların evvelce jandarmada ilk temdit tarihinden itibaren geçmiş hizmet müddetlerinden 10 senesi, 5434 sayılı kanunun geçici 65 inci maddesindeki esaslar dairesinde ve bu kanunun yürürlüğe girdiği tarihten itibaren 6 ay içinde Türkiye Cumhuriyeti Emekli Sandığına müracaat şartiyle borçlandırılır. Bunların borçlanabilmeleri için bu kanunun mer'iyete girdiği tarihteki yaşlarından, bu vazifelerde ve emekliliğe esas diğer hizmetlerde geçen müddetler indirildikten sonra yaş sayısının 40 ı geçmemiş olması şarttır.
+Ancak bu hükümden faydalanmak üzere müracaat edenlerin tahakkuk ettirilecek borçlarının hesabında müracaatta bulundukları tarihlerdeki keseneğe tabi aylık veya ücretleri tutarları esastır.
+330-137

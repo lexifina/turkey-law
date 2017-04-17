@@ -1,0 +1,9 @@
+Ek Madde 18 – (8/7/1971 - 1425/2 md. ile gelen Ek 3 üncü madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Sosyal Sigortalar Kanununa tabi görevlerde bulunduktan sonra iştirakçi olanların, emeklilik keseneklerine, personel kanunları gereğince kazanılmış hak olarak aldıkları derece ve kademe aylıkları üzerine, sigorta primi ödemek suretiyle geçirdikleri sürelerin, her yılı bir kademe ilerlemesine ve tahsil durumlarına göre her 2, 3, 4 veya 5 yılı bir derece yükselmesine esas olacak şekilde eklenerek bulunacak derece ve kademe aylığı esas alınır. (1)
+Bunların, personel kanunlarına göre kazanılmış hak olarak aldıkları kademelerin ilerletildiği veya derecelerin yükseltildiği sürece, emeklilik keseneğine esas kademeleri ilerletilir ve dereceleri yükseltilir.
+Ancak, bunların emeklilik keseneğine esas aylık derecelerinin yükseltilebilmesi için, tahsil durumları itibariyle personel kanunları hükümlerine göre, en son yükselebilecekleri dereceleri geçmemeleri ve bir derecede en az geçirilmiş gereken yıl sayısı kadar kademeden emeklilik keseneği ödemiş olmaları şarttır.
+Şu kadar ki, 18 nci yaşın ikmalinden önce veya iştirakçi oldukları tarihteki tahsil derecelerinden daha aşağı bir tahsil derecesinde sigorta primi ödemek suretiyle geçirdikleri süreler dikkate alınmaz.
+Sigorta primi ödemek suretiyle geçen sürelerin, personel kanunları hükümlerine göre, memuriyette geçmiş sayılmak suretiyle, kazanılmış hak derece ve kademelerinin tespitinde değerlendirilen kısımları, bu madde uyarınca, emeklilik keseneğine esas aylığın tesbitinde ayrıca nazara alınmaz.
+––––––––––––––
+(1) 657 Sayılı Devlet Memurları Kanununun 68 inci maddesi, 15/5/1975 tarih ve 1897 Sayılı Kanunla değiştirilerek, derece yükselmesi için gerekli 3, 4, 5 yıllık süreler öğrenim derecesi farkı gözetilmeksizin her memur için (3) yıl olarak tespit edilmiştir.
+330-122

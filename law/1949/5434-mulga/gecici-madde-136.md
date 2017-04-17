@@ -1,0 +1,5 @@
+Geçici Madde 136 – (8/7/1971 tarihli ve 1425 sayılı Kanunun hükmüdür.)
+Bütçe kanunlarına bağlı (ç) işaretli cetvelde ismen gösterilen kişilerden; Sivas Kongresince seçilen Temsil Heyeti üyeleri ile eş ve çocuklarına, Türkiye Büyük Millet Meclisinin Birinci Döneminde bulunan üyeler ile eş ve çocuklarına, Kurtuluş Savaşında ve iç isyanlarının bastırılmasında fevkalade hizmetlerinden dolayı şahıslarına veya bunlardan şehit olanların dul ve yetimlerine ayrı ayrı kabul edilen özel kanunlarla vatani hizmet tertibinden bağlanmış olan aylıklar ile Kore Savaşında üstün başarısından ötürü vatani hizmet tertibinden maaş alanların aylıkları yüzde yüz oranında artırılmıştır.
+Bunların aylıkları hakkında da ek 5 inci maddedeki alt sınır hükümleri uygulanır.
+Ancak, dul ve yetimlere bağlanmış aylıkların alt sınıra yükselmesinde özel kanunlarındaki nispetler gözönünde tutulur.
+Bu aylıkların 1/3/1970 - 28/2/1971 tarihleri arasına ait farkları geçici 1 inci maddenin ikinci ve üçüncü fıkralarındaki esaslar uyarınca ilgililere ödenir. (2)

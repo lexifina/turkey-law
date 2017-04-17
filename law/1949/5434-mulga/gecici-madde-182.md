@@ -1,0 +1,3 @@
+Geçici Madde 182 – (7/5/1986 - 3284/24 md. ile gelen Geçici 5 inci madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Bu Kanunun yürürlüğe girdiği tarihten önce, Türk vatandaşlığını kaybetmeleri veya Hükümetten izin almaksızın yabancı memlekette vazife kabul etmeleri nedeniyle aylık bağlanamayanlarla emekli dul ve yetim aylıkları kesilenlerin, yeniden Türk vatandaşlığını kazanmaları şartıyla bu Kanunun diğer hükümleri de dikkate alınarak, müstehak olmaları halinde, bu Kanunun yürürlüğe girdiği tarihten sonra yapacakları müracaatlarını takip eden aybaşından itibaren aylıkları yeniden veya iadeten bağlanır. Bunlara geçmiş süreler için aylık ve emeklilik ikramiyesi ödenmez.
+330-146

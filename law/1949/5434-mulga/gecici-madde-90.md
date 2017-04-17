@@ -1,0 +1,4 @@
+Geçici Madde 90 – (3/3/1954 tarihli ve 6311 sayılı Kanunun hükmüdür.)
+İş Kanununun tatbik olunduğu iş yerlerindeki isçi vasfını haiz her çeşit hizmetlilerden 1/1/1950 tarihinden önce mülga emekli sandıklariyle ilgilendirilmiş bulunanların Türkiye Cumhuriyeti Emekli Sandığı ile olan ilgileri devam eder.
+Bunlardan 1/1/1950 tarihinden sonra işe girerek Türkiye Cumhuriyeti Emekli Sandığı ile ilgilendirilmiş bulunanların Emekli Sandığı ile alakaları kesilir ve istihkaklarından Sandık geliri olarak kesilmiş bulunan emekli keseneği ve karşılığı % 10 ların % 8 i Türkiye Cumhuriyeti Emekli Sandığınca % 3,5 faiziyle birlikte İşçi Sigortaları Kurumuna devredilir.
+Emekli keseneğinden bakıye kalan 1 ile giriş keseneği ve artış farkları ilgiliye ve emekli keseneği karşılığından bakıye kalan diğer 1 lerle giriş keseneği ve artış farkları karşılıkları kurumuna iade olunur.

@@ -1,0 +1,2 @@
+Geçici Madde 181 – (7/5/1986 tarihli ve 3284 sayılı Kanunun hükmüdür.)
+5434 sayılı Kanunun bu Kanunla değişik 74 üncü maddesinin değişiklikten önceki iki, üç ve dokuzuncu bentlerinde yazılı durumda olup da süresi içinde müracaat etmeyenlerle diğer veya aynı bir yüksekokula başlamayanlardan aylık bağlanmamış erkek çocuklara, bu Kanundaki şartları taşımaları halinde, bu Kanunun yürürlüğe girdiği tarihten sonra yapacakları müracaatı takip eden aybaşından itibaren aylık bağlanır.

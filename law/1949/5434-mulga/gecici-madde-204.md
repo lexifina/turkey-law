@@ -1,0 +1,2 @@
+Geçici Madde 204 – (1/4/1998 tarihli ve 4354 sayılı Kanunun hükmüdür.)
+Çocuklarından dolayı 5434 sayılı Kanunun 8/6/1994 tarihli ve 3997 sayılı Kanunla değişik 72 nci maddesi uyarınca yetim aylığı bağlanan ancak, aynı maddede 24/11/1994 tarihli ve 4049 sayılı Kanunla yapılan değişiklik nedeniyle bu Kanunun yürürlüğe girdiği 1/1/1995 tarihinden itibaren aylıkları kesilen ve bu nedenle kendilerine borç çıkartılan anne veya babanın borçları tahsil edilmez.

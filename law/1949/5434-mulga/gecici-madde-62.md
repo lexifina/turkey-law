@@ -1,0 +1,4 @@
+Geçici Madde 62 – (8/6/1949 tarih ve 5434 sayılı Kanunun hükmüdür.)
+Vazifelerinden dolayı, emekli, adi malüllük veya vazife malüllüğü aylığı bağlanmış veya bağlanacak olanlardan geçici 60 ıncı maddede yazılı yerlere geçmiş veya aynı madde esasları dairesinde geçecek olanların; bu yerlerden ayrılışlarında (Ayrılmış olanlar dahil) eski aylıkları, geçici 61 inci maddeye görebağlanması gerekli miktardan az ise sözü geçen madde esasları dairesinde yükseltilir.
+284
+Aylığın yükselmesi halinde düzeltme işi, Sandıkça yapılarak Hazinece öde–nir. Eski aylıklar; katma, özel bütçeli dairelerce, geçici 5 inci maddede yazılı Sandıkça veya kaldırılan sandıklarca bağlanmış olduğu takdirde bu aylıkların10 yıllığı, yazı ile bildirimi üzerine aylıkları bağlıyan yerlerce veya (Türkiye Cumhuriyeti Emekli Sandığı) nca bir ay içinde Hazineye ödenir.

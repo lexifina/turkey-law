@@ -1,0 +1,5 @@
+Geçici Madde 61 – (8/6/1949 tarih ve 5434 sayılı Kanunun hükmüdür.)
+Geçici 60 ıncı maddede yazılı olanların, bu yerlerden ayrılışlarında: Birinci derece aylık tutarı ve 25 yıldan aşağı olmamak üzere hizmet müddetleri toplamı üzerinden emekli aylığı bağlanır.
+Bu yerlerden ayrıldıkları halde emekli aylığı bağlanmasını istemiyenlerin Milletvekili, açıkta, emeklilik hakkı tanınan bir vazifede bulundukları sırada emekliye ayrılmalarını istediklerinde veya kurumlarınca emekliye ayrılmalarındadahi aylıkları, bu esas üzerinden bağlanır.
+Bunların; bu yerlerde, Milletvekilliğinde, emeklilik hakkı tanınan bir vazifede veya açıkta iken; adi malüllüklerinde yukarki hükümler gereğince hesaplanacak emekli aylıkları miktarında (Adi malüllük aylığı) ve vazife malüllüklerinde de bu suretle bulunacak adi malüllük aylıklarına 55 inci madde gereğince yapılacak eklemelerle (Vazife malüllüğü aylığı) bağlanır.
+Bağlanacak aylıklar, ödendikçe faturası karşılığında Hazineden alınır ve Sandıkta birikmiş kesenekleriyle karşılıkları aylığın bağlanmasını müteakiptoptan Sandıkça Hazineye ödenir.

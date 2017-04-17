@@ -1,0 +1,2 @@
+Madde 70 – ( 8/6/1949 tarihli ve 5434 sayılı Kanunun hükmüdür.)
+Birden fazla karısı olan kocanın ölümünde 68 inci maddede yazılı nispette hesaplanacak dul aylığı, bunlar arasında paylaştırılmak suretiyle bağlanır. Bunlardan birinin ölümünde veya aylığının kesilmesini gerektiren bir duruma girmesinde aylığı en çok bir yıl içinde yazı ile Sandığa müracaat olunması şartiyle kalan dul bir ise onun aylığına ve birden fazla ise eşitlikle bunların aylıklarına eklenir. 77 nci maddenin (a) fıkrası hükümleri bunların birbirleri hakkında da uygulanır.

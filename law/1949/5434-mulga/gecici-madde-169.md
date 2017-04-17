@@ -1,0 +1,3 @@
+Geçici Madde 169 – (15/6/1978 tarihli ve 2149 sayılı Kanunun hükmüdür.)
+Bu kanunun yürürlüğe girdiği tarihten önce bağlanmış dul ve yetim aylıkları da bu Kanunda öngörülen esas ve oranlara göre yükseltilir.
+Emekli, adi malullük, vazife malullüğü aylığı almaları ve bu aylıklarını tercih etmeleri nedeniyle dul aylığı bağlanmamış olan veya iştirakçi olmaları nedeniyle bağlanan dul aylıkları ödenmeyen dul karıların müstehak olmaları şartıyla dul aylıkları ile dul aylıklarını tercih etmeleri nedeniyle kesilen emekli, adi malullük veya vazife malullüğü aylığı bu Kanunun yürürlüğe girdiği tarihten itibaren yeniden bağlanarak ödenir.

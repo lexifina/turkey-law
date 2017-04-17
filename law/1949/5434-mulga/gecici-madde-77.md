@@ -1,0 +1,1 @@
+Geçici Madde 77 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) (Türkiye Cumhuriyeti Emekli Sandığı) Genel Müdürlüğüne 5 yılı geçmemek üzere yabancı Devlet uyruğunda bulunanlar tayin edilebilirler.

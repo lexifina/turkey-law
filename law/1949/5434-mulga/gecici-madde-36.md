@@ -1,0 +1,4 @@
+Geçici Madde 36 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Kaldırılan hükümlere göre bağlanmış vazife malullüğü aylığının on yıllığını almış veya hizmet müddetinin azlığı sebebiyle kendisine aylık yerine toplu ödeme yapılmış veya tazminat verilmiş olanlardan;
+a) Kanunun yürürlüğe girdiği tarihte emeklilik hakkı tanınan vazifelerde bulunanların,bu vazifelerden emekliye ayrılmaları veya adi malul,vazife malulü olmaları halinde:Bu hizmet müddetlerinden dolayı bu kanun esaslarına göre hasaplanacak son hizmet zammı emekli aylığı şeklinde ödenir.
+Vazife malulü olanların son hizmet zamlarına ayrıca maluliyet dereceleri üzerinden 55 inci maddeye göre hasaplanacak zam da eklenir.
+b) Kanunun yürürlüğe girdiği tarihten sonra iştirakçi olanların ayrılışlarında da yukarki fıkralar hükümleri uygulanır.

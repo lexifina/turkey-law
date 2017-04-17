@@ -1,0 +1,2 @@
+Geçici Madde 38 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) 98, 99 ve 104 üncü maddelerin hükümleri; bu kanunun yürürlüğe girmesinden önce emekli aylığı bağlanmış (Bağlama muamelesi henüz tamamlanmamış olanlar dahil) bulunanlarla kaldırılan hükümlere göre tazminat veya toplu ödeme alanlar hakkında da uygulanır.
+Ancak bunlardan hangi vazife ve hizmetlerde bulunurlarsa bulunsunlar harb malullerinin (Eşkiya müsademesinde malul olanlar dahil) aylıklariyle her çeşit zamları kesilmez.

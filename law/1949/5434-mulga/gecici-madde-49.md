@@ -1,0 +1,2 @@
+Geçici Madde 49 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) 1683 sayılı kanuna veya ondan evvelki hükümlere göre bağlanmış er aylıkları ile bunlara bu kanunla kaldırılan hükümlerle eklenmiş aylık ve terfih zamları (5107 sayılı kanunla yapılan zamlar hariç) toplamları; malullük derecelerine göre 56 ncı maddede gösterilen miktarlara yükseltilmiştir.
+5107 sayılı kanunun 3 üncü maddesiyle aylıklarına zam yapılmış erlere bu zamları yerine 64 üncü maddede yazılı harb malullüğü zamları ayrıca ödenir.

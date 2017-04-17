@@ -1,0 +1,3 @@
+Geçici Madde 163 – (22/9/1972 - 1623/2 md. ile gelen Geçici 3 üncü madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Bu kanunun yürürlüğe girdiği tarihten önce emekli, adi malullük veya vazife malullüğü aylığına müstehak olanlar ile ölenlerin dul ve yetimine aylık bağlananların tamamlayıcı emeklilik keseneği tahakkuk ettirilen süreleri ve borçları hakkında da geçici ikinci madde hükümlerine göre işlem yapılır.
+Bu suretle, aylıkları tahsis tarihlerinden itibaren düzeltilir ve emekliye ayrıldıkları veya öldükleri tarihlerdeki hükümlere göre müstehak olmaları şartiyle emekli ikramiyesi veya emekli ikramiyesi farkı ödenir.

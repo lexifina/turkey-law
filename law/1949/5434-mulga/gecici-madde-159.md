@@ -1,0 +1,2 @@
+Geçici Madde 159 – (2/6/1972 - 1592/3 md. ile gelen Geçici 2 nci madde hükmü olup madde numarası teselsül ettirilmiştir.)
+5434 sayılı Kanunun "Sandıktan faydalanacaklar hakkındaki" 12 nci maddesine 1/3/1971 gün ve 1377 sayılı Kanunla eklenen (n) bendinde belirtilen 6 aylık süre içinde müracaat edememiş olan illerin daimi komisyonu üyeleri ile, belediye başkanları için bu Kanunun yayımı tarihinden itibaren yeniden bir yıllık müracaat süresi daha tanınmıştır. (1)

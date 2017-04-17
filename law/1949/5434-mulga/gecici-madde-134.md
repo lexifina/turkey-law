@@ -1,0 +1,7 @@
+Geçici Madde 134 – (8/7/1971 tarih ve 1425 sayılı Kanunun 7 inci maddesi ile getirilen geçici madde 2 hükmü olup teselsül sebebi ile madde numarası değiştirilmiştir.)
+Türkiye Büyük Millet Meclisi üyesi, Temsilciler Meclisi üyesi, dışarıdanatanmış bakan iken veya bu görevlerden ayrılıp da başka bir göreve girmeden, bu kanunun yayımlandığı tarihten önce emekliye ayrılmış bulunanların emekli aylıkları ile ölenlerin dul ve yetimlerinin aylıklarının intibak ve yükseltme işlemleri, birinci dereceden emekli olanlar da bu derecenin dördüncü kademesi üzerinden, diğer derecelerden emekli olanlarda ise bu derecelerin beşinci kademesi başlangıç alınarak yapılır.
+Emekli iken Türkiye Büyük Millet Meclisi üyeliğine seçilmiş olup da bu kanunun yayımlandığı tarihte bu sıfatları devam edenler veya etmiyenler ile bunlardan ölenlerin dul ve yetimlerinin aylıkları hakkında da yukarıdakı fıkra hükmü uygulanır.
+Geçici Madde 138 son fıkra – (8/7/1971 tarih ve 1425 sayılı Kanunun hükmüdür.)
+Türkiye Büyük Millet Meclisi üyelerinden 1/3/1970 tarihinden bu kanunun yayımlandığı tarihi takibeden 90 ıncı günün sonuna kadar borçlanma isteğinde bulunmuş veya bulunacak olanların borçlanma işlemlerinde yukarıdaki fıkradatanımlanan aylık miktarları esas tutulur.
+Geçici Madde 146 fıkra bir – (8/7/1971 tarih ve 1425 sayılı Kanunun hükmüdür.)
+Bu kanun hükümlerinin uygulanmasından dolayı Sandığın her türlü kanuni gelirleri ile kanuni giderleri ve harcamaları arasında ortaya çıkacak gelirfazlası Genel Bütçeye gelir kaydolunur.

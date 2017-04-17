@@ -1,0 +1,1 @@
+Geçici Madde 78 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) (Türkiye Cumhuriyeti Emekli Sandığı) nın kuruluşunun gerektirdiği ödemeler,bu Sandık hesabına Devlet Ekonomi Kurumları Memurları Emekli Sandığınca yapılır.

@@ -1,0 +1,4 @@
+Geçici Madde 193 – (21/4/1988 tarih ve 3430 Sayılı Kanunun hükmüdür.) Bu Ka– nunun yürürlüğe girdiği tarihte Yasama Organı üyelikleriyle, açıktan tayin edildikleri bakanlıkları devam edenlerden;
+Henüz T.C. Emekli Sandığı ile iştirakçi olarak ilgilendirilmemiş olanlarla,diğer sosyal güvenlik kurumlarıyla ilgileri devam edenler, bu Kanunun yürürlüğe girdiği tarihten itibaren T.C. Emekli Sandığı ile Ek 60 ve Ek 61 inci maddeler esaslarına göre iştirakçi olarak ilgilendirilirler. Bunlardan hiçbir sosyal güvenlik kurumuyla ilgilendirilmemiş bulunanların bu Kanunun yürürlüğe girdiği tarihe kadar, bu görevlerde geçen süreleri için ödenmesi gereken emeklilik kesenekleri adlarına borç kaydedilerek, kurum karşılıkları T.B.M.M.'den tahsil olunur.
+330-2
+Yukarıdaki fıkrada sayılanlardan isteyenler hakkında bu Kanunun Ek 62 ncimaddesi gereğince borçlandırma işlemi yapılır.

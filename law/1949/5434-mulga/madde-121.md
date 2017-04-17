@@ -1,0 +1,3 @@
+Madde 121 – ( 8/6/1949 tarihli ve 5434 sayılı Kanunun hükmüdür.)
+Her ne suretle olursa olsun istihkaklarından fazla yapılan ödemeler, ilgililerin, varsa sonraki her çeşit istihkaklarından hüküm alınmaksızın kesilmek suretiyle geri alınır. Ancak ilgili, Sandıkça yapılan bu muamelenin yersizliği hakkında Danıştayda dava açabilir.
+(Ek: 7/5/1986 - 3284/17 md.) Herhangi bir nedenle Sandık tarafından ilgililere istihkaklarından fazla veya yersiz olarak yapılan ödemelerin, bu hatalı işlemlerin düzeltildiği tarihten geriye doğru hesap edilecek beş yıllık tutarları tahsil edilir. Tahsilin ne şekilde yapılacağı yönetmelikle düzenlenir.

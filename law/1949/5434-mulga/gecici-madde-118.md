@@ -1,0 +1,2 @@
+Geçici Madde 118 – (18/6/1964 - 478/1 md. ile gelen Geçici 6 ncı madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Geçici 1 inci maddede yazılı ayaklanmaların bastırılmasında vazifeli olanlardan ölenler ile vazife malulü olanların çocukları yatılı veya pansiyonlu Devlet okullarında ücretsiz olarak okutulurlar. Bunlardan yüksek öğrenim yapacak seviyeye ulaşanlar yüksek öğretim yurtlarından parasız olarak faydalanırlar. (1)

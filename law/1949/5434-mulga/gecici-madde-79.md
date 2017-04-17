@@ -1,0 +1,1 @@
+Geçici Madde 79 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) 1683 sayılı kanunun 58 inci ve 4001 sayılı kanunun 15 inci maddelerinde yazılı ikramiyeler,aylık veya ücret tutarları üzerinden hesaplanır.

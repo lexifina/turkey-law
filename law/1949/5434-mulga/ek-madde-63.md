@@ -1,0 +1,4 @@
+Ek Madde 63 – (21/4/1988 tarih ve 3430 sayılı Kanunun hükmüdür.) Çeşitli sosyal güvenlik kurumlarından emekli olduktan sonra, Yasama Organı Üyeliği yapanlarla, dışarıdan bakanlığa atananlardan T.C. Emekli Sandığı ile ilgilendirilmek isteyenlerin bu isteklerinin Sandık kaydına geçtiği tarihi takip eden aybaşından itibaren bu Kanunun Ek 60 ve Ek 61 inci madde-
+330-1
+leri gereğince Sandık iştirakçilikleri sağlanır ve aynı tarihten itibaren sosyal güvenlik kurumlarından almakta oldukları aylıkları kesilir. Bu gibilerin (emekli aylığı almak suretiyle geçmiş süreleri hariç) yine istekleri üzerine, bu Kanunun Ek 62 nci maddesi gereğince borçlandırılmaları yapılır.
+Ancak, sözü edilenlerden çeşitli sosyal güvenlik kurumlarına prim veya kesenek ödeyerek geçen süreleri ile Ek 62 nci maddeye göre borçlandıkları hizmet süreleri toplamı aylık bağlanabilmesi için yeterli süreden eksik olanların,eksik olan bu süreleri de ayrıca borçlandırılır.

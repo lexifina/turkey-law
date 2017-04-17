@@ -1,0 +1,5 @@
+Geçici Madde 109 – (30/5/1963 tarihli ve 241 sayılı Kanunun hükmüdür.)
+İştirakçilerden fiili hizmet müddetleri 20 yıl ve daha fazla olanlardan, emeklilik hakkı düşmüş ve emeklilik keseneklerini geri almış bulunanlar, aldıkları paraları bu kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde % 5 faiziyle birlikte; keseneklerini geri alma hakları zamanaşımına uğramış bulunanlar ise yalnız zamanaşımına uğramış bulunan keseneklerini aynı müddet içinde toptan ve defaten Sandığa ödedikleri takdirde haklarında 88 inci madde hükmü uygulanır.
+Bunlardan aldıkları kesenekleri bir yıl içinde defaten ödemeden emekli veya adi malullük aylığına müstahak duruma girenlere bu kanun esasları dairesinde aylık bağlanır. Şu kadar ki, bu aylıklar, borçlarının tamamı mahsup edildikten sonra ödenir.
+Emeklilik hakkı düştükten sonra keseneklerini almış veya geri alma hakkı zamanaşımına uğramış bulunanlardan ölenlerin 80 inci maddeye göre aylığa müstahak dul ve yetimlerine de yukarıdaki esaslar dairesinde aylık bağlanır.
+Durumları; mülga 3/6/1930 tarihli ve 1683 sayılı kanun şümulüne girenler hakkında da ilgili kurumlarca aylık bağlanır.

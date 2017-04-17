@@ -1,0 +1,2 @@
+Geçici Madde 183 – (7/5/1986 - 3284/24 md. ile gelen Geçici 6 ncı madde hükmü olup madde numarası teselsül ettirilmiştir.)
+İki cihetten aylığa müstehak olanlardan aylıklardan birini tercih için aranan süreleri geçirenlere, bu Kanunun yürürlüğe girdiği tarihten sonra yapacakları müracaatı takip eden aybaşından itibaren, bu Kanunun diğer hükümleri de dikkate alınarak, müstehak olmaları şartıyla, tercih ettikleri aylıkları bağlanır. Bunlara geçmiş süreler için aylık ve emeklilik ikramiyesi ödenmez.

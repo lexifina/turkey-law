@@ -1,0 +1,1 @@
+Ek Madde 79 – beşinci fıkra - (14/7/2004 tarihli ve 5217 sayılı Kanunun hükmüdür.) Harp veya vazife malûlü olanlara hayatta bulundukları sürece ödeme yapılır. Ancak, ölen malûlün son yıldaki pay tutarının beş katı, bir defaya mahsus olmak şartıyla kendisinden dul ve yetim aylığı bağlanacaklara eşit miktarda paylaştırılmak suretiyle yardım olarak ödenir.

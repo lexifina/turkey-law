@@ -1,0 +1,3 @@
+Geçici Madde 173 – (13/11/1981 - 2559/5 md. ile gelen Geçici 2 nci madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Bu Kanunun yürürlüğe girdiği tarihte iştirakçi olanlardan, 5434 sayılı T.C. Emekli Sandığı Kanununun 15 inci maddesinin (h) fıkrası, 657 sayılı Devlet Memurları Kanununun 74 ve 76 ncı maddeleri uyarınca derece ve kademeler arasındaki farkın kesenek ve karşılık tutarlarının tamamını ödememiş olanlar hakkında da 15 inci maddenin bu Kanunla değiştirilen (h) fıkrası hükmü uygulanır.
+Bundan doğacak borçlanmalar T.C. Emekli Sandığınca hesaplanarak ilgililerin aylıklarından % 10 kesilmek suretiyle tahsil edilir.

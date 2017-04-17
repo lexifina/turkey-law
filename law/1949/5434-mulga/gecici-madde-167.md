@@ -1,0 +1,2 @@
+Geçici Madde 167 – (18/3/1976 tarihli ve 1976 sayılı Kanunun hükmüdür.)
+5434 sayılı Kanunun 49 uncu maddesinde belirtilen süreler içerisinde müracaat edememiş olmaları nedeniyle aylık bağlanamamış bulunan muvazzaf, yedek ve gönüllü erler ile, Yedek Subay Okulu öğrencilerine veya bunların dul ve yetimlerine vazife malullüklerinin 5434 sayılı Kanunun ilgili maddesine göre tevsik edilmesi ve bu Kanunun yürürlüğe girdiği tarihten itibaren 1 yıl içinde T.C. Emekli Sandığına müracat etmeleri halinde, müracaat tarihini takip eden aybaşından itibaren aylık bağlanır.

@@ -1,0 +1,2 @@
+Geçici Madde 102 – (18/2/1957 tarihli ve 6916 sayılı Kanunun hükmüdür.)
+Bu kanunun yürürlüğe girdiği tarihten önce gerek 5434 sayılı kanunun 17 nci maddesi ve 6311 sayılı kanunla muaddel mezkür maddesi hükümleri gereğince tarh ve tahakkuk ettirilmiş bulunan % 10 gecikme zamları silinir ve tahsil edilmiş olanlar iade edilir ve bu devreye ait olarak yeniden % 10 gecikme zammı tahakkuk ettirilmez veya tahsil olunmaz.

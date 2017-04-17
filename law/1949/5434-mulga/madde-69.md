@@ -1,0 +1,8 @@
+Madde 69 – ( 8/6/1949 tarihli ve 5434 sayılı Kanunun hükmüdür.)
+Dul ve yetim aylıklarının bağlanmasında:
+a) İştirakçilerle 88 nci madde gereğince kesenekleri geri verilmemiş olanlardan veya vazife malullüğü aylığı kesilmiş ve emeklilik hakkı tanınan bir vazifeye tayin edilmemiş durumda bulunanlardan ölenler için; bunların adi malul olmaları halinde kendilerine bağlanması gereken aylıklar,
+b) Emekli, adi malullük veya vazife malullüğü aylığı almakta olanlardan, (aylığa müstahak duruma girip te henüz bağlama yapılmamış olanlar dahil) ölenler için; bu aylıklar ile varsa son hizmet ve harb malullüğü zamları toplamı,
+c) İştirakçilerle emekli, adi malullük veya vazife malullüğü aylığı bağlandıktan sonra tekrar emeklilik hakkı tanınan bir hizmete girenlerden vazifeden doğma sebeplerle ölenler ile aynı sebeplerden doğma kaza ve yaralanmaları üzerine tedavi sırasında veya ameliyat yüzünden ölenler için; kendilerinin birinci dereceden vazife malulü olmaları halinde bağlanacak vazife malullüğü aylıkları;
+ç) Emekli, adi malullük veya vazife malullüğü aylığı alanlardan yedek er olarak silah altına alınanlardan (c) fıkrasında yazılı surette ölenler için; eski aylıkları ve 56 ncı maddeye göre birinci derece üzerinden hesaplanacak vazife malullüğü aylıkları toplamı,
+d) (Değişik: 18/1/1979 - 2177/2 md.) Yukarıdaki (c) ve (ç) fıkralarında yazılı olanlar 64 üncü madde kapsamına girmekte iseler veya 64 üncü madde de yazılı hallerde şehit olmuşlarsa; (c) ve (ç) fıkralarında yazılı ve 64 üncü maddede öngörülen esaslara göre saptanacak aylıklar ile yine 64 üncü maddeye göre birinci maluliyet derecesi üzerinden hesaplanacak harp malullüğü zammı toplamı,
+Esas tutulur.

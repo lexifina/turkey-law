@@ -1,0 +1,4 @@
+20 – 30/5/1963 tarih ve 241 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 80, 92)
+Madde 80 – (8/6/1949 tarih ve 5434 sayılı Kanunun hükmüdür.)
+93 üncü madde gereğince aylıkları kesilen emekli, adi malül veya vazife malüllerinin, muhtaç dul ve yetimlerine hükmün katileştiği veya durumlarının belli olduğu tarihlerden itibaren en çok bir yıl içinde yazı ile Sandığa müracaatları şartiyle ve o tarihleri takibeden ay başlarından itibaren aylık bağlanır ve mahkümiyetlerinin sona erdiği veya durumlarının zail olduğu tarihleri takibeden ay başından itibaren kesilerek ölümlerinde, müstahak olanlara tekrar bağlanır.
+Şu kadar ki, 92 nci maddenin (b) fıkrasında yazılı olanların dul ve yetimlerinden yalnız Türk sınırları içinde Türk uyruğu olarak kalanlara aylık bağlanır.

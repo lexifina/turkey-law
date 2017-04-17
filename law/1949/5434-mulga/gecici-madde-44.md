@@ -1,0 +1,1 @@
+Geçici Madde 44 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Bu kanunun yürürlüğe girmesinden sonra geçici 40 ıncı madde gereğince ödenmesine devam edilecek olan aylıklara ait yoklama muameleleri; bu kanun esaslarına göre bunları ödeyen yerlerce ve 123 üncü maddede yazılı tüzük yürürlüğe girinciye kadar kaldırılan hükümler dairesinde yapılır.

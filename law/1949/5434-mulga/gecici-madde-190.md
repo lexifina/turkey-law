@@ -1,0 +1,2 @@
+Geçici Madde 190 – (7/5/1986 - 3284/24 md. ile gelen Geçici 13 üncü madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Bu Kanunun yürürlük tarihinde Türkiye Cumhuriyeti Emekli Sandığı iştirakçisi bulunanlar, 8/5/1985 tarih ve 3201 sayılı Kanunun yürürlük tarihinden önce yurt dışında ev kadını olarak geçen sürelerini, sözü edilen Kanunun 4 üncü maddesinin 2, 3, 4 ve 5 inci fıkraları uyarınca borçlanabilirler.

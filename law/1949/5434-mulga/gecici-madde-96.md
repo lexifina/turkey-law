@@ -1,0 +1,2 @@
+Geçici Madde 96 – (22/6/1956 tarihli ve 6740 sayılı Kanunun hükmüdür.)
+Mülga 1683 sayılı kanunun 50 nci maddesi hükmüne tevfikan, 1341 yılı Muvazenei Umumiye Kanununun 41 inci maddesi ile on senelik maaşları defaten ödenerek ilişikleri kesilmiş olan ve başka bir kocaya varmaksızın halen dul bulunan zevcelere, kesilmiş olan maaşları, kanunun 68 inci maddesinin (A) fıkrasına tevfikan yeniden bağlanarak, bu kanunun mer'iyet tarihini takibeden ay başından itibaren ödenir.

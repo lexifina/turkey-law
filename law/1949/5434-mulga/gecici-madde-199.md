@@ -1,0 +1,3 @@
+Geçici Madde 199 – (16/2/1995 tarihli ve 4069 sayılı Kanunun hükmüdür.)
+Bu Kanunun yayımlandığı tarih ile yayım tarihini takip eden üç ay içinde, (V) numaralı bentte öngörülen yaş hadlerini dolduranlarla MİT Müsteşarlığı personelinden 5434 sayılı Kanunun 39 uncu maddesinin (b) fıkrasının 1 inci bendi kapsamına girenlerin,aynı süre içerisinde emekliye ayrılmalarını istemeleri ve emekliliklerinin onaylanması şartıyla hak ettikleri emeklilik ikramiyeleri % 30 fazlasiyle ödenir.
+Yukarıdaki fıkra uyarınca istekle emekliye ayrılanlardan (V) numaralı bentte yazılı yaş hadlerinden önce ayrılanlar hakkında da 5434 sayılı Kanunun ek 20 nci maddesinin 3 üncü fıkrası ayrıca uygulanır.

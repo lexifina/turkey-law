@@ -1,0 +1,2 @@
+Geçici Madde 198 – (8/6/1994 tarihli ve 3997 sayılı Kanunun hükmüdür.)
+Bu maddenin yürürlüğe girmesinden önce 5434 sayılı Kanunun 72 nci maddesinin son fıkrası kapsamına girenlerden muhtaç olduklarını belgeleyememeleri nedeniyle kendilerine aylık bağlanmamış baba veya analara, bu maddenin yürürlüğe girdiği tarihten sonra geçmişe yönelik mali hak doğurmamak kaydıyla, müracaatlarını takip eden aybaşından itibaren aylık bağlanır.

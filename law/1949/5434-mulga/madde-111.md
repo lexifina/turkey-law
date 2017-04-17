@@ -1,0 +1,2 @@
+Madde 111 – ( 8/6/1949 tarihli ve 5434 sayılı Kanunun hükmüdür.)
+Sandık Türk Medeni Kanunu hükümlerine göre bakmaya mecbur olanlar tarafından bakılmadığından veya bağlanan nafaka veya sağlanan menfatin azlığından dolayı muhtaç durumda olmaları hasebiyle aylık bağladığı dul ve yetimlerin bakmaya mecbur yakınları aleyhine gerekli nafakanın bağlanması veya bağlanan miktarın artırılması için doğrudan doğruya veya üçüncü şahıs sıfatiyle dava açmaya yetkilidir.

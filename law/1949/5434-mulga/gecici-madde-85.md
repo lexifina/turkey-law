@@ -1,0 +1,2 @@
+Geçici Madde 85 – (8/6/1949 tarihli ve 5434 sayılı Kanunun hükmüdür.)
+Bu kanunun yürürlüğe girdiği tarihte Posta,Telğraf ve Telefon İşletme Genel Müdürlüğü aylıklı kadrolarında bulunan memurların (Büyük Millet Meclisi Posta ve Telgraf servisinde bulunan memurlar dahil) 4454 sayılı kanunun 50 nci maddesinde yazılı fiili hizmet zamları,bu kanunun yürürlüğe girmesinden sonra da devam eder.Bu zamlar hakkında 33 ve 34 üncü maddeler hükümleri uygulanır.

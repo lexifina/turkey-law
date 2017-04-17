@@ -1,0 +1,8 @@
+Geçici Madde 32 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Bu kanunun yürürlüğe girdiği tarihe kadar emekli aylığı bağlanmış olanlardan; (müstahak duruma girdikleri halde henüz bağlanmamış olanlar dahil) kanunun yürürlüğe girdiği tarihten sonra ölenlerin dul ve yetimlerine aşağıdaki esaslara göre aylık bağlanır:
+I – Bu kanunun yürürlüğe girdiği tarihte emeklilik hakkı tanınan vazifelerde olmıyanların ölümlerinde;
+a) Bu kanunun genel hükümlerine göre aylık bağlanır.
+b) Bağlama muamelesi, 3/6/1930 tarihli ve 1683 sayılı kanuna veya daha evvelki hükümlere göre yapılmış olanlar için;kurumlarınca veya geçici 5 inci maddede yazılı Sandıkça,kaldırılan sanlıklarca yapılmış olanlar için de; (Türkiye Cumhuriyeti Emekli Sandığı) nca yapılır.
+c) Bunların emekli aylıklarının ödendiği kurumlardan başka kurumlardan ödenen son hizmet zamları varsa,bu zamlardan dolayı (a) ve (b) fıkralarına göre ayrıca o yerlerce aylık bağlanır.
+II – Bu kanunun yürürlüğe girdiği tarihte emeklilik hakkı tanınan vazifeler de bulunanların veya sonradan bu vazifelere girenlerin ölümlerinde;
+a) Geçici 33 ve 34 üncü maddelerde yazılı olanlardan iseler;evvelemirde sözü geçen maddelere göre bağlanacak son hizmet zamları da eklenmek ve gerekli muameleler yapılmak suretiyle bulunacak emekli aylıkları üzerinden bu aylıkları bağlıyan yerlerce veya (Türkiye Cumhuriyeti Emekli Sandığı) nca bu kanun esasları içinde aylık bağlanır.
+b) Geçici 37 nci maddede yazılı olanlardan iseler;3/6/1930 tarihli ve 1683 sayılı kanuna ve daha evvelki hükümlere göre bağlanmış aylıklarından dolayı 1 inci bentteki esaslara göre ayrıca aylık bağlanmakla beraber iştirakçi durumları dolayısiyle de bu kanun gereğince hizmet müddetlerine göre aylık bağlanır veya toptan ödeme yapılır.

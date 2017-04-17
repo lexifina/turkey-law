@@ -1,0 +1,5 @@
+Geçici Madde 164 – (22/9/1972 - 1623/2 md. ile gelen Geçici 4 üncü madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Bu kanunun yürürlüğe girdiği tarihten önce emekli, adi malul olan veya ölenlerden hizmetlerinin azlığı nedeniyle kendilerine veya dul ve yetimlerine toptan ödeme yapılmış olanların tamamlayıcı emeklilik keseneği tahakkukuna esas alınan süreleri, fiili hizmet sürelerine eklendiğinde, görevleri ile ilgilerinin kesilmesi gereken veya öldükleri tarihlerdeki hükümlere göre kendilerine veya dul ve yetimlerine aylık bağlanması gereken hallerde, bu süreleri ile borçları hakkında da geçici 2 nci ve 3 üncü madde hükümleri uygulanır. Bunlara, 5434 sayılı Kanun hükümlerine göre müstehak oldukları tarihlerden itibaren aylık bağlanır. Şu kadar ki, evvelce yapılmış toptan ödemeler ile tamamlayıcı emeklilik keseneği borçlarının tamamı, ilgililere bu kanunun yürürlüğünden önceki zaman için ödenecek her çeşit paralardan mahsuben tahsil olunur. (1)
+——————————
+(1) Bu maddede sözü edilen geçici 2 nci ve 3 üncü maddelerin numaraları, teselsülü sağlamak için "Geçici Madde 162" ve "Geçici Madde 163" olarak numaralandırılmıştır.
+330-144

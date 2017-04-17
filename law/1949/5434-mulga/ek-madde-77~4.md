@@ -1,0 +1,1 @@
+Ek Madde 77 – birinci fıkra - b bendi - dördüncü cümle - (13/6/2001 tarihli ve 4677 sayılı Kanunun hükmüdür.) Uzman jandarmalarda yükselinebilecek azami derece ve kademe, 27/7/1967 tarihli ve 926 sayılı Türk Silahlı Kuvvetleri Pesnole Kanununda yer alan aylık gösterge tablolarında belirtilen en yüksek derece ve kademedir.

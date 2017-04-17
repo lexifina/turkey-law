@@ -1,0 +1,1 @@
+Ek Madde 79 – dördüncü fıkra - (14/7/2004 tarihli ve 5217 sayılı Kanunun hükmüdür.) (b) ve (d) bentlerinde sayılan dul ve yetimlere birinci derece malûllere uygulanan gösterge üzerinden; bunlar bir kişi ise tamamı, birden fazla ise eşit olarak paylaştırılmak suretiyle ve sosyal güvenlik kanunlarına göre dul ve yetim aylığı aldıkları sürece ödeme yapılır.

@@ -1,0 +1,6 @@
+Geçici Madde 68 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Geçici 1, 2 ve 3 üncü maddelerde yazılı sandıklardan veya 1683 sayılı kanuna veya ondan evvelki hükümlere göre emekli aylığı bağlanmış olup da: Bu kanunun yürürlüğe girdiği tarihte geçici 65 inci maddenin (I) işaretli fıkrasında yazılı vazife ve hizmetlerde bulunanlar;
+I – Emekliye ayrıldıkları kurumdan başka bir kurumun emeklilik hakkı tanınan vazifelerine tayinleri veya vazifelerinin sonradan emeklilik hakkı tanınan vazifeler arasına girmesi dolayısiyle 4222 sayılı kanunun 21 inci maddesi gereğince emekli aylıklarının tamamı kesilmek suretiyle geçen hizmet müddetlerini;
+II – Aylıklı kadrolara ücretle tayinlerinden dolayı 3656 sayılı kanunun 24 üncü maddesi gereğince emekli aylıklarının tamamı kesilmek suretiyle geçen hizmet müddetlerini;
+Bu kanun gereğince yapılacak son hizmet zamlarında nazara alınmak üzere, aşağıda yazılı esaslara göre borçlanabilirler:
+a) Yapılacak borçlanmada: Müracaat yeri ile müddeti hakkında geçici 65 inci madde, tahakkuk ve tahsil muameleleri hakkında da; geçici 66 ncı madde hükümleri uygulanır.
+b) Bağlanmış emekli aylıkları ve bunların çeşitli zamlariyle bu kanun gereğince yapılacak sonhizmet zamları toplamının 100 üncü madde hükümlerine göre keseneğe esas son aylıklarının % 70 ini geçmemesi borçlanmada gözönünde tutulur.

@@ -1,0 +1,2 @@
+Geçici Madde 70 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Kaldırılan çeşitli kanunlarla geçmiş hizmet müddetlerinin fiili hizmet müddetlerine eklenmesi için yapılan borçlanmaların bakiyelerinin, geçici 66 ncı madde esasları dairesinde ve ilgisine göre Sandık veya kurumlarca tahsiline devam olunur.
+Şu kadar ki, 4222 sayılı kanunun geçici 5 inci maddesinin (b) bendinin birinci fıkrası hükmü saklı kalmak üzere, geçmiş hizmet müddetlerinden dolayı % 10 yerine % 5 hesabiyle borçlanmış olanların borç bakiyeleri iki kata çıkarılır.

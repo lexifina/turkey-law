@@ -1,0 +1,2 @@
+Madde 110 – ( 8/6/1949 tarihli ve 5434 sayılı Kanunun hükmüdür.)
+Sonradan veraset, bağış, vasiyet yoliyle veya başka suretlerle para, menkul ve gayrimenkul mal ve gelir edinmiş veya kazanç sağlamış olanlar; bu durumlarını, bunları iktisap ettikleri tarihten itibaren bir ay içinde beyanname ile Sandığa bildirmeye mecburdurlar. Bu takdirde bu hallerin muhtaçlığını gidermiş olup olmadığı Sandık tarafından evvelce bu muhtaçlığı karara bağlıyan yerler idare heyetlerince yeniden karara bağlattırılır.

@@ -1,0 +1,2 @@
+Ek Madde 60 – (21/4/1988 tarih ve 3430 sayılı Kanunun hükmüdür.)
+YasamaOrganı üyeliği yapanlarla dışarıdan bakanlığa atananlar, T.C. Emekli Sandığına yazılı müracaatları üzerine bu görevlere başladıkları tarihi, bunlardan bu görevleri esnasında başka sosyal güvenlik kurumu ile ilgilenmelerini sürdürmüş olanların ise müracaatları tarihini takip eden aybaşından itibaren ve yaşlarına bakılmaksızın T.C. Emekli Sandığı ile ilgilendirilirler. Bu gibilerin Sandıkla ilgilendikleri tarihte başka sosyal güvenlik kurumlarındaki ilgileri sona erer.

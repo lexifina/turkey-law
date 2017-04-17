@@ -1,0 +1,7 @@
+Geçici Madde 45 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) 1683 sayılı kanun hükümlerine göre bağlanmış emekli, adi malullük aylıkları ile (Harb ve vazife malullüklerinden dolayı bağlanmış olanlar hariç) bunlara bu kanunla kaldırılan hükümlere göre yapılmış aylık zamlarının toplamı;tahsise esas tutulmuş olan aylık aslı ve fiili ve itibari hizmet müddetleri aynı olan iştirakçilere bu kanunla bağlanacak emekli aylıkları miktarlarına;
+330-37
+Bunlardan son hizmet zammı yapılmış olanların, bu zamları da, zamma esas tutulmuş olan aylık aslı ile fiili ve itibari hizmet müddetleri aynı olan iştirakçiler için yine bu kanun gereğince hesaplanacak son hizmet zamları miktarlarına;
+yükseltilmiştir.
+Kanunun yürürlüğe girdiği tarihte, yürürlükte olan barem derecelerinin aylık asıllarından birine uymıyan aylık asılları üzerinden bağlanmış aylıkların arttırılmasında: Bu aylıkların barem kanunlarına göre intikal ettikleri aylıkların tutarları esas olur.
+Hizmet müddetleri 15 ile 20 yıl arasında olanlara bağlanmış emekli aylıklarının yükseltilmesi, 53 üncü maddede yazılı nispetlere göre yapılır. 15 yıldan az hizmeti olanların bu hizmetlerinin iki misli, bağlanması gerekli aylığın hesabında 53 üncü maddede yazılı % nispeti itibar olunur.
+Tahsise esas tutulmuş aylık asılları (1-6) lira olanların 1683 sayılı kanuna bağlı cetvelde gösterilen tutarlarının 4 misli, (6) liradan fazla (15) liradan az olanların 3 misli karşılaştırmanın yapılmasında aylık tutarları sayılır.

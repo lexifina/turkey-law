@@ -1,0 +1,3 @@
+Ek Geçici Madde 17 – (13/11/1981 tarihli ve 2559 sayılı Kanunun hükmüdür.)
+Ek geçici 1 ve 2 nci madde hükümlerine göre emekli edilenlerin, emekliye sevkedildikleri tarihten itibaren en fazla üç ay içinde kurumları ile ilişikleri kesilir. Bunların görevlerinden ayrıldıkları tarih 31 Aralık 1981 tarihinden sonra olsa bile bu Kanun hükümlerine göre verilecek emekli ikramiyeleri 31 Aralık 1981 tarihinde emekli aylığı bağlanmasına esas aylıkları üzerinden hesaplanır.
+Ancak, yukarıdaki fıkra hükümlerine göre ödenen emekli ikramiyelerinden, %25 veya %15 tutarında ödenen fazla miktarlar düşüldükten sonra kalan miktar, 1 Mart 1982 tarihinde ödenmesi gereken ikramiye miktarından az olanlara aradaki fark ayrıca ödenir.

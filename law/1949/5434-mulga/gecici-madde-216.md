@@ -1,0 +1,2 @@
+Geçici Madde 216- (8/7/2003 tarihli ve 4919 sayılı Kanunun hükmüdür.)
+17.4.2003 tarihinde Sandık iştirakçisi olanlardan, yaş haddi nedeniyle emekliye sevk edilmeleri gereken tarihteki fiilî hizmet süreleri emekli aylığı bağlanması için gerekli süreden az olanlar, 65 yaşını dolduracakları tarihi geçmemek üzere, emekli aylığına hak kazanmak için gerekli hizmet süresini dolduruncaya kadar görevlerinde kalırlar.

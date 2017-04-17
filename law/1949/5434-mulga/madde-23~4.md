@@ -1,0 +1,3 @@
+19 – 24/5/1963 tarih ve 231 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 23)
+Madde 23 – (24/8/1960 tarih ve 67 sayılı Kanunun hükmüdür.)
+Sandık sermayesinden en çok 60 milyon lira, İdare Meclisince faiz haddi %5 ten aşağı olmamak üzere belirtilecek faiz ve esaslara göre en çok üç aylık maaş veya ücret tutarlarını veya ödeneklerini geçmemek ve yine en çok iki yıliçinde geri alınmak ve iştirakçi veya tevdiatçılardan iki kefil gösterilmek şartiyle ihtiyacı olan iştirakçi veya tevdiatçılara borç vermek için döner sermaye olarak kullanılabilir.

@@ -1,0 +1,2 @@
+Geçici Madde 132 – (1/3/1971 tarihli ve 1377 sayılı Kanunun hükmüdür.)
+Durumları, 5434 sayılı Kanunun 12 nci maddesinin II işaretli fıkrasına 5951 sayılı Kanunla eklenen (I) bendi şümulüne girenlerle, Kurucu Meclis Üyeliğinde bulunmuş olanlardan halen emeklilik hakkı tanınan görevlerde veya T.B.M.M. Üyeliğinde bulunanlardan; tanınan altı aylık süre içinde müracaat etmemiş olanlar için bu kanunun yürürlüğe girdiği tarihten itibaren yeniden bir yıllık süre tanınmıştır.(1)

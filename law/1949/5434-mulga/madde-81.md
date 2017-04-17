@@ -1,0 +1,6 @@
+Madde 81 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) 66 ncı maddenin (a), (d) ve (e) fıkralarında yazılı olanların dul ve yetimlerine bağlanan aylıklar, ödendikçe faturası karşılığında Hazineden alınır.
+Madde 87 h bendi -(18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Emeklilik hakkını düşürmiyen hürriyeti tahdit edici ceza ile hükümlü bulunanlar (Cezaları tecil edilenler hariç); (2)
+––––––––––––––––––––
+(1) Bu fıkra, Anayasa Mahkemesince 8/10/2003 tarihli ve E:2003/67, K:2003/88 sayılı Kararı ile 65 yaşını doldurmayanlar yönünden iptal edilmiş olup, fıkranın uygulanmasından doğacak sonradan giderilmesi güç veya olanaksız durum ve zararların önlenmesi ve iptal kararının sonuçsuz kalmaması için Kararın Resmi Gazete’de yayımlanacağı güne kadar, yürürlüğünün durdurulmasına aynı tarih ve Esas Sayısı ve 2003/13(Yürürlüğü Durdurma) Karar Sayısı ile karar verilmış; gerekçeli karar 28/2/2004 tarihli ve 25387sayılı Resmi Gazete’de yayımlanarak yürürlüğe girmiştir.
+(2) Bazı mahkumiyetlerin emeklilik hakkını düşüreceğine dair 92 nci maddede yer alan hükümler 30/5/1963 tarih ve 241 Sayılı Kanunla kaldırıldığından, her türlü mahkumiyet halinde keseneklerin iadesi mümkün bulunmaktadır.
+330-20

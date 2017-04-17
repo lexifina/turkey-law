@@ -1,0 +1,2 @@
+Geçici Madde 25 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) 130 uncu maddede yazılı vazifelere,geçici 1 inci maddede yazılı sandıklarla ilgili vazifelerden veya geçici 2 ve 3 üncü maddelerde yazılı sandıklarla ilgili memur ve hizmetlilikten nakil suretiyle tayin edilmiş ve emeklilik hakları,Milli Koruma Kanununun 3/8/1944 tarihli ve 4648 sayılı kanunla değiştirilen 6 ncı maddesiyle devam ettirilmiş olanların bu hakları,Sandığa geçerek devam eder.
+330-31

@@ -1,0 +1,5 @@
+Madde 41 – (24/12/1980 tarih ve 2363 Sayılı Kanunun hükmüdür.)
+Emekli, adi malüllük, vazife malüllüğü aylıkları; aşağıda gösterilen, Emekli Aylığı Bağlanmasına Esas Aylığa Ait Gösterge Tablosunda her derece ve kademe için tespit edilen gösterge rakamlarının her yıl Bütçe Kanununda tespit edilen katsayı ile çarpılması sonunda bulunacak tutarın, fiili ve itibari hizmet toplamı 25 yıl olanlara % 70'i, 25 yıldan az olanlara her tam yıl için % 1 eksiği, fazla olanlara da her tam yıl için% 1 fazlası üzerinden bağlanır.
+Fiili ve itibari hizmet süreleri toplamındaki ay kesirleri tam ay sayılır. Yıl kesirlerinin her ayı için emekli aylığı bağlanmasına esas aylık tutarının% 1' inin 12 de biri emekli aylığına ayrıca eklenir.
+Ancak, bağlanacak aylıkların toplamı, emekli, adi malüllük aylıklarında emekli aylığı bağlanmasına esas aylıklarının % 85'ini geçemez. Vazife malüllüğü aylıkları, hakkında bu tahdit uygulanmaz.
+54 – 29/11/1984 tarih ve 243 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri : (Madde numaraları: 42, Gösterge tablosu)

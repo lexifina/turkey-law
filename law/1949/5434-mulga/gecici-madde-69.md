@@ -1,0 +1,1 @@
+Geçici Madde 69 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Geçici 65, 67 ve 68 inci maddelerde borçlanılması mümkün olduğu gösterilen vazife ve hizmetlerde bulunmuş olup da kanunun yürürlüğe girdiği tarihten sonra iştirakçi olacaklar da o tarihten itibaren 6 ay içinde sözü geçen maddeler gereğince borçlandırılmalarını istiyebilirler.

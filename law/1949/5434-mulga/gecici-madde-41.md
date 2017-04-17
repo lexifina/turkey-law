@@ -1,0 +1,2 @@
+Geçici Madde 41 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Bu kanunun yürürlüğe girmesinden önce vazife malullüğünden dolayı bağlanmış emekli aylığını alanların muayeneleri ve muayene sonunda durumlarında değişiklik olanların belirecek yeni durumları hakkında bu kanunun hükümleri uygulanır.
+Bu kanunun neşrinden evvel iki muayene geçiripte malullükleri sabit sayılmış olanlar tekrar muayeneye tabi tutulmazlar.

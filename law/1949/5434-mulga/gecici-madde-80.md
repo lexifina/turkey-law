@@ -1,0 +1,1 @@
+Geçici Madde 80 –(18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Bu kanunun yürürlüğe girmesinden önce yapılan mevduat ve kesenek iadeleriyle bu mahiyetteki tazminatların geri verilmesi halinde buna ait vergiler, Sandığın işarı üzerine Hazinece bir ay içinde toptan Sandığa ödenir.

@@ -1,0 +1,16 @@
+Geçici Madde 211 – (15/9/2000 tarih ve 624 sayılı KHK’nin hükmüdür.)
+Bu Kanun Hükmünde Kararname ile değişik ek 77 nci madde kapsamına giren hak sahiplerinin aylıkları, bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihten itibaren ek 77 nci maddede belirtilen esaslara göre yükseltilir. Ancak, bu yükseltmeden dolayı geçmişe yönelik aylık ve aylık farkı ödenmez.
+91 – 28/6/2001 tarih ve 4699 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 12, 31, 44)
+Madde 12 fıkra iki bend (j) paragraf iki – (29/6/1978 tarih ve 2168 sayılı Kanunun hükmüdür.)
+Fakülte ve yüksekokullarda kendi hesabına okuduktan sonra muvazzaf subay nasbedilen veya yedek subaylık hizmetini takiben muvazzaf subaylığa geçirilenler ve astsubay sınıf okulu öğrencileri;
+Madde 31 fıkra altı – (29/6/1978 tarih ve 2168 sayılı Kanunun hükmüdür.)
+Harp Okulları, fakülte ve yüksekokullar ile astsubay sınıf okullarında her ne sebeple olursa olsun sınıf geçemeyen Silahlı Kuvvetler mensubu askeri öğrencilerin fazla öğrenim yılları fiili hizmet müddetlerinden derhal indirilir. Fakülte ve yüksekokullarda kendi hesabına okuduktan sonra muvazzaf subay nasbedilen veya yedek subaylık hizmetini takiben muvazzaf subaylığa geçirilenlerin, normal süreyi aşan öğrenim süreleri fiili hizmet müddetinden sayılmaz.
+Madde 44 fıkra iki – (18/9/1981 tarih ve 2525 sayılı Kanunun hükmüdür.)
+Şu kadar ki, bunlar yazı ile istedikleri takdirde haklarında bu Kanun hükümleri uygulanmaksızın malullüklerinin mani olmadığı başka vazife veya sınıflara nakil suretiyle tayinleri yapılmak üzere istifa etmiş sayılırlar. Bunların, istifa etmiş sayıldıktan sonra dahi, bu Kanun hükümlerinin uygulanmasını istemek hakları mahfuzdur. Ancak, bu şekilde başka vazife veya sınılara nakledilenlerden, bu vazifeleri esnasında çeşitli nedenlerle özel kanunlarına göre yeniden yükümlülük süresine tabi olanlar; bu yükümlülüklerini tamamlamadıkça veya maluliyetlerinin yeni vazifelerine de mani olduğuna dair 50 nci madde uyarınca yeniden rapor almladıkça bu haklarını kullanamazlar.
+330-14
+92 – 16/3/2003 tarih ve 4827 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 40, Ek Madde 31, 66)
+Madde 40 fıkra bir– (21/6/1954 tarihli ve 6422 sayılı Kanunun hükmüdür.)
+İştirakçilerin vazifeleriyle ilgilerinin kesilmesini gerektiren yaş haddi 65 yaşını doldurdukları tarihtir. 43 üncü maddede yazılı olanlar dışında, hizmet müddetleri ne olursa olsun (61) yaşını dolduranlar hakkında da kurumlarınca yaş haddi uygulanabilir. Bu vazifelere (65) yaşını dolduranların açıktan veya naklen tayinleri caiz değildir.
+a) (1/10/1992 tarihli ve 3841 sayılı Kanunun hükmüdür.) Görevlerinde kalmaları faydalı görüldüğü takdirde; Başbakanlık Müsteşarı, Devlet Planlama Teşkilatı Müsteşarı ile Hazine ve Dışticaret Müsteşarının yaş hadleri ortak kararla birer yıllık sürelerle en çok üç yıl uzatılabilir.
+b) Üniversite ordinaryüs profesör ve profesörleri (65) yaşını doldurduktan sonra (70) yaşını geçmemek üzere vazifelerini yapabilecek durumda olmadıkları ilgili üniversite senatosunca belirtilinceye kadar çalışabilirler.
+d) (a) ve (b) fıkralarında gösterilen vazifelere (65) yaşını ve (ç) fıkrasında yazılı vazifelere de hizalarında gösterilen yaş hadlerini doldurmuş bulunanlar açıktan veya naklen tayin edilemezler.

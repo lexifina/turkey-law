@@ -1,0 +1,3 @@
+Madde 128 – (8/6/1949 tarihli ve 5434 sayılı Kanunun hükmüdür.)
+107 ve 124 üncü maddeler dışında Sandıkça istenilen her çeşit bilgi ve sorulara tam, doğru veya hiç cevap vermiyen kurumlarla tüzelkişiliği haiz yerlerin ilgili memurları ve şahıslar ve emeklilik hakkı tanınan vazifelere ilk defa alınanlardan istenilen beyan kağıtlarını kasten yanlış olarak verenler hakkında Türk Ceza Kanununun, ilgisine göre, 230 veya 528 inci maddeleri gereğince kovuşturma yapılır. Sandığın zarara uğramasında bunlar; yapılan masraflarla birlikte hüküm ile kendilerine ödettirilir.
+Kurumların emeklilik hakkı tanınan vazifelerine açıktan alınanlardan iki ay içinde bu kanun gereğince Sandığa verilmesi gerekli belge ve bilgileri vermiyenlerin mütaakıp aya ait aylık veya ücretleri ödenmez.

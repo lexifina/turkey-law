@@ -1,0 +1,2 @@
+Geçici Madde 125 – (7/2/1969 tarihli ve 1101 sayılı Kanunun hükmüdür.)
+Bu kanunun uygulanmasına ait işlemlerin zamanında yapılmasını sağlamak maksadiyle çalışma saatleri dışında görevlendirilecek personele verilecek fazla çalışma ücretleri, ilglili kurumların bütçelerinden (Emekli, dul ve yetim aylık ve ödenekleri bölümünden) karşılanmak üzere, Maliye Bakanlığının mütalaası alınarak Bakanlar Kurulunca tespit olunur.

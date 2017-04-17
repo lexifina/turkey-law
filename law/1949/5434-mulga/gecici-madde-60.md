@@ -1,0 +1,2 @@
+Geçici Madde 60 – (8/6/1949 tarih ve 5434 sayılı Kanunun hükmüdür.)
+Kanunun yürürlüğe girdiği tarihte Büyük Millet Meclisi Başkanlığında, Başbakan veya Bakanlıkta bulunanlar ile (Evvelce bulunmuş olanlar dahil) Milletvekili bulunanlardan; bu tarihten sonra Milletvekilliklerinin aralıksız olarak devamı sırasında aynı yerlere geçenlerin, bu yerlerde bulundukları müddetçe (Emekliye ayrıldıktan sonra bu yerlere geçenler hariç) ödeneklerinden birinciderece aylık tutarı üzerinden emekli keseneği alınır ve karşılıkları da bu miktar üzerinden Hazinece Sandığa ödenir.

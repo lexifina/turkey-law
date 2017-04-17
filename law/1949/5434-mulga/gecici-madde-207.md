@@ -1,0 +1,2 @@
+Geçici Madde 207 – (27/1/2000 tarihli ve 4505 sayılı Kanunun hükümüdür.)
+Yasama organı üyeleri ve dışarıdan atanan bakanlar ile bunların emekli veya dul ve yetimlerinden 1.7.1990 tarihinden bu Kanunun yürürlüğe girdiği tarihe kadar yürürlükte bulunan kanunların ilgili hükümlerine göre borçlanma işlemleri yapılmış ve tahakkuk eden borçları ödenmiş olanların bu borçlanmaları ile intibak ve ek göstergeleri geçerli sayılır.

@@ -1,0 +1,3 @@
+Ek Madde 74 – (8/12/1999 tarihli ve 589 sayılı KHK’nin hükmüdür.)
+Genel hayatı etkileyen doğal afetlerin meydana geldiği bölgede bulunan Sandığa tabi kurumlardan afet nedeniyle süresinde bildirimde bulunamayan ya da tahakkuk eden Sandık alacaklarını ödeyemeyen kurumların Sandığa olan her türlü borçlarına afet tarihinden itibaren 3 ay süre ile gecikme zammı ve faiz uygulanmaz.
+Ancak, afetin doğrudan etkilediği yerleşim yerlerinde bulunan belediyelerin afet tarihine kadar Sandığa olan tüm borçları ile afet tarihinden sonraki 1 yıl içinde doğacak tüm borçlarının gecikme zammı ve faiz alınmaksızın ertelenmesine Yönetim Kurulu yetkilidir.

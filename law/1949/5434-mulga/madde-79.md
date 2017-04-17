@@ -1,0 +1,2 @@
+Madde 79 – ( 8/6/1949 tarihli ve 5434 sayılı Kanunun hükmüdür.)
+64 üncü maddede yazılı hallerde şehit olduğu iddia olunanların aylığa müstahak dul ve yetimleri tarafından, aylık bağlanması isteği ile yapılacak müracaatlarda mahkemelerden aldıkları veraset vesikaları ile Sandık gıyabında yapılmış muhakeme sonunda aldıkları ilamlarda gösterilen şehitlikler, resmi kayıtlara göre hakikate uygun değilse Sandık, bu vesika veya ilamlardaki ölümün şehitlikle olduğu hakkındaki hüküm ve kararların bozulmasını ilgili mahkemeden istemeğe yetkilidir.

@@ -1,0 +1,2 @@
+Geçici Madde 57 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Geçici 55 inci maddede yazılı olanların kesenek ve karşılıkları; 875 lira üzerinden, daha önce birinci derecenin aylığını müktesep hak olarak almışlarsa 1 000 lira üzerinden hesaplanır.
+Bunların Milletvekili iken emekli,adi malullük vazife malullüğü aylığı bağlanmasını veya kesenek iadesi, toptan ödeme yapılmasını gerektiren durumlara girmelerinde veya ölümlerinde bu kanunun ilgili hükümleri uygulanır.

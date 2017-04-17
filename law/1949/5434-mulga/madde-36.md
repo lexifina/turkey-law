@@ -1,0 +1,7 @@
+Madde 36 – (8/6/1949 tarih ve 5434 sayılı Kanunun hükmüdür.)
+İştirakçi veya tevdiatçıların, bu kanunun yürürlüğe girdiği tarihten sonra aşağıda yazılı vazifelerde geçen fiili hizmet müddetlerinin (zamları hariç) heryılı için fıkralarında gösterilen itibari hizmet müddetleri eklenir:
+a) Muvazzaf gedikli veya yedek subay, askeri memur ve gedikli erbaşlardan harbi doğuran genel veya kısmi seferberliğe katılanların, harbin ilanından seferberliğin sonuna ve seferberliği gerektiren iç tedip hareketlerine fiilenkatılan birliklerde vazifeli olanların, çarpışmanın başlangıcından seferberliğin sonuna ve seferberliğin bitimindenönce terhis edilmişlerse terhis tarihlerinekadar geçen fiili hizmet müddetlerinin (Bu tarihlerden sonra dahi devam eden esirlik müddetleri dahil bir katı;
+b) Kanunları gereğince aylık veya ücretleri tam veya eksik ödenmek suretiyle kurumları ile ilgileri kesilmiyerek yukarda yazılı hareketlere er olarak katılanların bu durumda geçen fiili hizmet müddetlerinin (Bu tarihten sonra dahi devam eden esirlik müddetleri dahil) bir katı;
+309
++c) Harb halinde düşmana esir düşen veya düşman tarafından enterne edilen iştirakçi veya tevdiatçılardan kanunları gereğince, aylık veya ücretleri tam veya eksik ödenmek suretiyle, kurumları ile ilgileri kesilmiyenlerin, bu durumlarda geçen fiili hizmet müddetlerinin bir katı;
+Yukarki fıkralarda yazılı itibari hizmet müddetleri toplamı 5 yılı geçemez.

@@ -1,0 +1,1 @@
+Madde 72 – dördüncü fıkra – dördüncü cümle - (1/4/1998 tarihli ve 4354 sayılı Kanunun hükmüdür.) 3/11/1980 tarihli ve 2330 sayılı Kanun ile bu Kanuna ek 18/12/1981 tarihli ve 2566 sayılı Kanun kapsamında mütalaa edilen görevler nedeniyle bağlanan aylıklar Bakanlar Kurulu Kararıyla iki katına kadar çıkartılabilir.

@@ -1,0 +1,4 @@
+51 – 23/6/1983 tarih ve 2852 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 37)
+Madde 37 – (15/7/1965 tarih ve 670 Sayılı Kanunun hükmüdür.)
+Pilot olan ve olmıyan ordu uçucuları ile Devlet Havayolları Genel Müdürlüğü uçucu personelinin uçucu olarak, denizaltıcı, dalgıç, kurbağa adam, subay,yedek subay ve askeri memurları ile astsubayların denizaltıcılık, dalgıçlık, kurbağa adam görevlerinde geçirdikleri fiili hizmet müddetlerinin her yılı için 32'nci maddenin (a) fıkrası ile 36 ncı maddenin (a), (b) fıkralarında gösterilen fiili ve itibari hizmet müddetleri zamları dışında ayrıca altı ay hizmet müddeti eklenir.
+52 – 23/6/1983 tarih ve 2853 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları : Ek 19, Geç. 135)

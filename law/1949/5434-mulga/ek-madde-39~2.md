@@ -1,0 +1,3 @@
+Ek Madde 39 – (8/5/1991 tarihli ve 3715 sayılı Kanunun hükmüdür.)
+T.C.Emekli Sandığınca, emekli, adi malul, vazife malulü olanlara, dul ve yetimlerin herbirine ödenecek aylıklardaki, emekli ve evlenme ikramiyeleri, kesenek iadeleri, toptan ödeme işlemleri ve bunların farklarındaki kesirler, Genel Bütçe Kanununda kesirli işlemler için belirlenmiş miktara çıkartılarak ödenir. Giriş keseneği, emekli keseneği, artış farkı ve bunlara ait kurum karşılıkları, ek karşılıklar, itibari hizmet süreleri ile fiili hizmet süresi zamları, hizmet ihyaları, hizmet borçlanmaları ve 55 yaş farkına ilişkin her türlü paralardaki kesirler de (her ödeme, şahıs ve ay için ayrı ayrı olmak üzere) aynı miktara çıkartılarak tahakkuk ve tahsil edilir.
+330-126

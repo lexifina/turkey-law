@@ -1,0 +1,20 @@
+Madde 78 – (2/4/1956 tarihli ve 6711 sayılı Kanunun hükmüdür.)
+İştirakçilerle 88 inci maddeye göre kesenekleri geri verilmemiş veya 62 nci maddeye göre vazife malullüğü aylığı kesilerek emeklilik hakkı tanınan bir vazifeye tayin edilmemiş durumda olup da mahkemece gaipliklerine hükmolunanlardan; fiili hizmet müddetleri 10 yıl ve daha fazla bulunanların dul ve yetimlerine hükmün kesinleştiği tarihten itibaren bir yıl içinde yazı ile Sandığa müracaat etmeleri şartiyle gaipliğin başladığına hükmolunan tarihi ve bir yıl geçtikten sonra yine yazı ile Sandığa müracaat edenlere de müracaatları tarihlerini takibeden ay başlarından itibaren 68 inci madde esaslarına göre aylık bağlanır ve gaipliklerinin geçmesi halinde bağlanan aylıklar gaipliğin geçtiğinin belirdiği tarihi takibeden ay başından itibaren kesilir. (1)
+Gaiplikleri geçenlerden bir yıl içinde emeklilik hakkı tanınan bir vazifeye tayin olunanlar, iştirakçi durumlarını tekrar iktisap ederler ve gaiplikleri sırasın-
+——————————
+(1) 66 ncı maddenin dipnotuna bakınız.
+330-92
+da dul ve yetimlerine ödenmiş aylıkların veya toptan ödemenin toplamı adlarına borç kaydedilerek aylık veya ücretleri tutarından emekli, adi malullük veya vazife malulü aylığı bağlanmasında bu aylıklarından ve ölümü halinde de dul ve yetimlerine bağlanacak aylıklardan yüzde on kesilmek suretiyle tahsil olunur.
+(Üçüncü fıkra mülga: 21/4/2005 – 5335/29 md.)
+Yukarıki fıkrada yazılı müddet içinde emeklilik hakkı tanınan bir vazifeye tayin edilmeyenlerin Sandıkla ilgileri kesilir ve Sandıkta birikmiş keseneklerinin faizsiz toplamı dul ve yetimlere ödenen aylıkların veya 82 nci maddenin (d) fıkrasına göre yapılan toptan ödemenin toplamından fazla ise, fazlası toptan kendilerine ödenir. Noksan ise farkı aranmaz.
+Gaiplikleri geçenlerden; emekli, adi malullük veya vazife malullüğü aylığı bağlanmasına hak kazanmış durumda olanlar hakkında yukarıki fıkra hükmü tatbik edilmeyip istediklerinde kendilerine müstahak oldukları aylıklar bağlanır ve yukarda ikinci fıkrada gösterilen borçları bu aylıklarından kesilir.
+Emekli, adi malullük veya vazife malullüğü aylıklarından birini almakta iken gaipliklerine hükmolunanların dul ve yetimlerine aylık bağlanır. Gaiplikleri geçenlerin kendi aylıklarının ödenmesine başlanır ve gaiplikleri sırasında dul ve yetimlerine ödenen aylıkların toplamı, emekli aylıkları toplamından eksik ise farkı ayrıca kendisine toptan ödenir.
+5434 sayılı kanunun yürürlüğe girdiği tarihten sonra harbde kaybolan iştirakçilerin dul ve yetimlerine gaipliğin hükme bağlandığı tarihi takibeden aybaşından itibaren vazife yüzünden ölmüş olanlar gibi ve durumlarına göre bu kanunun hükümleri gereğince aylık bağlanır. Gaiplikleri geçmesi halinde yukardaki fıkralar hükümleri kıyasen tatbik olunur. Bunlardan fiili hizmet müddetleri 10 yıldan az olduğundan dolayı dul ve yetimlerine toptan ödeme yapılmış ise ödenen para, bağlanan aylıkların müterakiminden indirilerek varsa artanı aylıklarının dörtte birinin kesilmesi suretiyle tahsil olunur.
+(Değişik: 18/1/1979 - 2177/3 md.) 64 ncü maddede belirtilen zaman ve durumlarda gaip olanların dul ve yetimlerine gaiplik kararında gaipliğin başlangıcı olarak belirtilen tarihi izleyen aybaşından itibaren birinci derece harp malullüğü aylığı üzerinden aylık bağlanır ve harp malullüğü zammı ödenir.
+(Dokuzuncu fıkra mülga: 23/2/1965 - 545/4 md.)
+(Ek fıkralar: 18/1/1979 - 2177/3 md.):
+Gaiplikleri nedeniyle dul ve yetimlerine aylık bağlananların, gaipliklerinin sona ermesi halinde dul ve yetimlerinin aylıkları, gaipliğin geçtiği tarihi izleyen aybaşından itibaren kesilir ve ödenmiş aylıklar geri alınmaz.
+64 üncü maddede öngörülen durumlarda gaip oldukları Genelkurmay Başkanlığınca bildirilenler hakkında mahkeme hükmü beklenmeksizin bu Kanunun gaipliğe ilişkin hükümleri uygulanır. (1)
+——————————
+(1) Maddedeki 15 yıllık süre, 8/7/1971 tarih ve 1425 Sayılı Kanunun 3 üncü maddesi ile (Teselsülü sağlamak için ek maddeye çevrilmiş ve numarası "Ek Madde 29" olarak değiştirilmiştir.) 10 yıla indirilmiş ve değişiklik metne işlenmiştir.
+330-93

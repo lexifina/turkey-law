@@ -1,0 +1,2 @@
+Geçici Madde 186 – (7/5/1986 - 3284/24 md. ile gelen Geçici 9 uncu madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Bu Kanunun yürürlük tarihinden önceki çeşitli hükümlere göre 10 yıllık aylıkları defaten ödenmiş olanlarla, sonradan ölenlerin dul ve yetimlerine, bu Kanunun diğer hükümleri de dikkate alınarak, müracaat tarihlerini takip eden aybaşından itibaren aylık bağlanır. Bunlara geçmiş süreler için aylık ve emeklilik ikramiyesi ödenmez.

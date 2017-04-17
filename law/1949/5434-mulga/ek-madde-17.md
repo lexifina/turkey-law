@@ -1,0 +1,9 @@
+Ek Madde 17 – (8/7/1971 - 1425/2 md. ile gelen Ek 2 nci madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Aylıklarını Personel Kanunları hükümlerine göre almıyan iştirakçilerin emeklilik keseneklerine, tahsil durumları itibariyle personel kanunlarına göre girebilecekleri derece ve kademelerin aylıkları esas alınır. Bunlardan daha önce emeklilik ile ilgili görevlerde bulunmuş olanların emeklilik keseneklerine, bu kanunun geçici 11 inci maddesinin hükümleri de gözönüne alınmak suretiyle, önceki görevlerinde bıraktıkları derece ve kademe aylıkları esas tutulur. (1)
+——————————
+(1) Bu maddede sözü edilen geçici 11 inci maddenin numarası teselsülü sağlamak için "Geçici Madde 135" olarak değiştirilmiştir.
+330-121
+Bunların, bu görevlerinde emeklilik keseneği vermek suretiyle geçirdikleri her yıl için bir kademe ilerlemesi verilmek ve tahsil durumları itibariyle, Personel Kanunlarına göre her derecede geçirmeleri gereken en az süreler kadar kademe ilerlemesi yaptıktan sonra bir derece yükselmesi yapılmak suretiyle emeklilik keseneğine esas aylıkları yükseltilir.
+Ayrıca, Sosyal Sigortalar Kanunlarına tabi olarak geçmiş ve sigorta primi ödenmiş sürelerinin her yıl bir kademe ilerlemesine ve tahsil durumlarına göre her 3, 4 veya 5 yılı bir derece yükselmesine esas olacak şekilde, emeklilik keseneğine esas derece ve kademe aylıkları tespit edilir. (1)
+Ancak, bu suretle bulunacak emeklilik keseneğine esas aylıkları, fiilen aldıkları aylık, ücret veya ödeneklerinden fazla olamıyacağı gibi, tahsil durumları itibariyle, personel kanunlarına göre yükselebilecekleri derecelerin son kademe aylıklarından da fazla olamaz.
+Şu kadar ki, sigorta primi ödenmek suretiyle geçen sürelerin değerlendirilmesinde, daha önce herhangi bir şekilde değerlendirilmiş veya 18 yaşından önce geçen veyahut intibakın yapıldığı tarihteki tahsil derecelerinden daha aşağı bir tahsil derecesinde sigorta primi ödemek suretiyle geçirdikleri süreler dikkate alınmaz.

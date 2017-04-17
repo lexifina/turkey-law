@@ -1,0 +1,2 @@
+Madde 59 – ( 8/6/1949 tarihli ve 5434 sayılı Kanunun hükmüdür.)
+Emekli veya adi malullük aylığı alanlardan emeklilik hakkı tanınan bir vazifeye alınanların, vazife malulü olarak ayrılışlarında, emekli veya adi malullük aylıklarına 100 üncü madde gereğince son hizmet zammı eklendikten sonra toplamına,malullük dereceleri üzerinden 55 inci maddeye göre bulunacak zam da ayrıca eklenir. Şu kadar ki, eski aylık ile son hizmet zammı toplamı, eski aylığa veya son hizmet zammına esas olan vazife aylıklarından fazla olanın % 90 ını geçemez.(3)

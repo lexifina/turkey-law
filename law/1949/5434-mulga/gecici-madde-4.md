@@ -1,0 +1,1 @@
+Geçici Madde 4 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Geçici 2 ve 3 üncü maddelerde yazılı sandıklardan kanunun yürürlüğe girmesinden sonra bağlanacak aylıklarla yapılacak toptan ödemeler, bu kanunun esaslarına göre hesaplanır.

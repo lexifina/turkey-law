@@ -1,0 +1,2 @@
+Geçici Madde 180 – (7/5/1986 - 3284/24 md. ile gelen Geçici 3 üncü madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Aylık bağlanması için gerekli süreleri geçirmeleri nedeniyle aylık bağlanmamış ana ve babalardan, bu Kanunun yürürlük tarihinden sonra yapacakları yazılı müracatı takip eden aybaşından itibaren bu Kanunun diğer hükümleri de dikkate alınarak müstehak olmaları şartıyla aylık bağlanır. Bunlara geçmiş süreler için aylık ve emeklilik ikramiyesi ödenmez.

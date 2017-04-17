@@ -1,0 +1,1 @@
+Geçici Madde 73 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) 52 nci maddede sözü geçen tüzük yapılıncıya kadar vazife malullüğü dereceleri hakkında 551 sayılı kanuna bağlı cetvel esas tutulur.

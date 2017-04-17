@@ -1,0 +1,2 @@
+Ek Madde 77 – birinci fıkra – c bendi - (11/5/2000 tarihli ve 4567 sayılı Kanunun hükmüdür.) c) Sivil iştirakçiler ile (…)(1) , erbaş ve erlere uygulanacak azami derece ve kademe ise öğrenim durumları ve hizmet sınıfları itibariyle 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa göre yükselebilecekleri derece ve kademedir.
+113- 12/7/2013 tarihli ve 6495 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.( Madde Numaraları: 72, Ek Madde 77, 79)

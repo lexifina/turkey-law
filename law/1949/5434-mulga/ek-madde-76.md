@@ -1,0 +1,8 @@
+Ek Madde 76 – (27/1/2000 tarihli ve 4505 sayılı Kanunun hükmüdür.)
+Süresi kanunlarla belirlenen görevlere atanan veya seçilenlerden görevleri sona erenlerin Sandıkla kurmuş oldukları ilgi Sandığa yapacakları başvuru tarihini izleyen aybaşından itibaren devam ettirilir.
+Bunların emekli kesenekleri görevden ayrıldıkları tarihteki emekli keseneğine esas aylık derece, kademe ve ek göstergeleri üzerinden keseneğe esas diğer unsurlarda nazara alınmak suretiyle hesaplanır ve ilgililer tarafından ait olduğu ay içinde Sandığa ödenir.
+Bu suretle geçen sürenin her yıl bir kademe her üç yılda bir derece yükseltilmek ve öğrenim durumları itibariyle 657 sayılı Devlet Memurları Kanununun 36 ncı maddesinde belirlenen en son yükselebilecekleri derece ve kademeyi geçmemek kaydıyla emekli keseneğine esas derece ve kademeleri yükseltilir ve ek göstergeleri bu derecelere göre ek 48 inci madde hükümleri uygulanmak suretiyle tespit edilir.
+Bunlardan Sosyal Sigortalar Kurumu veya 506 sayılı Sosyal Sigortalar Kanununun geçici 20 nci maddesine tabi kurumlarda çalışanların kesenekleri kendileri, karşılıkları ise çalıştıran işverenden tahsil edilir.
+Kesenek ve karşılıklarını bu maddede belirtilen sürede yatırmayanların o aya ait hizmetleri sayılmaz.
+Bir süre Sandıkta ilgilendirildikten sonra veya ilgisi kurulmadan önce yaptığı ilgilenme isteğinden vazgeçenler bir defaya mahsus olmak üzere yeniden Sandıkla ilgilendirilme isteğinde bulunabilirler.
+Bu suretle geçen süreler kazanılmış hak aylıklarında ve emekli ikramiyesinin hesabında dikkate alınmaz. Ancak, işçi statüsünde çalışanların 1475 sayılı İş Kanunundan doğan hakları saklıdır.

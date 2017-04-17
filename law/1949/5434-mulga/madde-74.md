@@ -1,0 +1,12 @@
+Madde 74 – (8/6/1949 tarih ve 5434 Sayılı Kanunun hükmüdür.)
+Ölüm tarihinde orta öğrenim yapmakta ise 20, değil ise 18 yaşını ve yüksek öğrenimi yapmakta ise 25 yaşını doldurmamış erkek çocuklara aylık bağlanır.
+Ancak çalışmaya mani, tedavisi kabil olmıyan hastalık veya çalışmaya manimalüllük sebepleri ile muhtaç oldukları sağlık kurulunca tasdik olunacak raporla anlaşılanlara, muhtaç olmak ve ölüm tarihinden itibaren en çok bir yıl, ehliyeti haiz olmıyan, veli veya vasileri bulunmıyanlar için beş yıl içinde kendileri veya veli veya vasileri tarafından yazı ile Sandığa müracaatları şartiyle ölüm tarihinde yaşları ne olursa olsun, aylık bağlanır.
+Aylık almakta iken bu duruma düştükleri aynı şekilde anlaşılanların aylıkları; yaşları dolayısiyle, aylıklarının kesilmesi gereken tarihten itibaren en çok bir yıl, ehliyeti olmıyan, veli veya vasileri bulunmıyanlar için beş yıl içinde kendileri veya veli ve vasileri tarafından yazı ile Sandığa müracaatlarışartiyle yaş kaydı aranmaksızın bu durumları geçinceye kadar ödenir.
+Hastalığın seyrinde veya malüllüğün derecesinde veya mahiyetindeki azalıp çoğalmalar, muhtaçlıklarını ortadan kaldırmadıkça, nazara alınmaz.
+Orta öğrenim son sınıfında iken 20 yaşını dolduran ve okul veya müesseselerin tatil devreleri hariç, ara vermeksizin yüksek öğrenime başlıyanların, evvelce kesilmiş aylıkları, yüksek öğrenime başladıkları tarihi takibeden ay başından itibaren tekrar bağlanarak 25 yaşını geçmemek üzere, öğrenimlerini tamamlayıncaya kadar ödenir.
+Ancak sağlık kurulunca tasdik edilecek raporla orta öğrenimi bitirdikten sonra hasta oldukları belirtilecekler için bir öğrenim devresi gecikme kabul edilir.
+Bir yüksek öğrenimin bitirilmesi üzerine kesilen aylıklar 25 yaşını doldurmadan ikinci bir yüksek öğrenime başlanmış olsa da tekrar bağlanmaz.
+324
+Hastalıktan başka sebeplerle yükseköğrenim müesseselerindeki kayıtları silinenlerin aylıkları, silinme tarihini takibeden ay başından itibaren kesilir. Kayıt silme muamelesi yetkili mercilerce kaldırılmadıkça hiçbir sebep ve suretle tekrar bağlanmaz.
+Hastalık yüzünden kayıtları silinenlerin; kesilen aylıkları, en çok bir yıliçinde, yüksek öğrenimi istekleri ile bırakanların en çok 6 ay içinde, başka bir yüksek öğrenim müessesesine kayıtla devama başlamaları şartiyle kayıt tarihini takibeden ay başından itibaren tekrar bağlanır.
+Ölüm tarihinde 20 yaşını henüz doldurmuş ve orta öğrenimi de bitirmiş durumda olanlardan yüksek öğrenime başlıyanlara yukarki esaslara göre aylık bağlanır.

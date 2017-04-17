@@ -1,0 +1,3 @@
+Geçici Madde 185 – (7/5/1986 - 3284/24 md. ile gelen Geçici 8 inci madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Bu Kanunun yürürlüğe girdiği tarihten önce 5434 sayılı Kanunun 17 nci maddesi uyarınca tarh ve tahakkuk etmiş ve tahsil edilmemiş bulunan % 10 gecikme zamları silinir ve bu devreye ait kurumlarca Sandığa ödenmesi gereken kesenek ve karşılıkları ile % 2 ek karşılıkları, bu Kanunun yürürlük tarihine kadar yatırmamış bulunanların bu paraları, bu Kanunun yürürlük tarihinden itibaren üç ay içinde yatırmaları şartıyla % 30 gecikme zammı tahakkuk ettirilmez.
+Bu sürede yatırılmadığı takdirde 17 nci maddenin bu Kanunla değişik hükümlerine göre işlem yapılır.

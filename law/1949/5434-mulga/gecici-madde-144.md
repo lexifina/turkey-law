@@ -1,0 +1,2 @@
+Geçici Madde 144 – (8/7/1971 tarihli ve 1425 sayılı Kanunun hükmüdür.)
+657 sayılı Devlet Memurları Kanununa 31/7/1970 tarihli ve 1327 sayılı Kanunla eklenen ek geçici 15 inci madde uyarınca intibakları yapılan iştirakçilerden emeklilik keseneklerine esas aylıkları 1, 2, 3 veya 4 üncü derecede olduğu halde, sözü edilen maddenin son fıkrası hükmü uyarınca, 5 inci dereceye intibak ettirilmiş bulunanların emeklilik keseneklerine, evvelce emeklilik yönünden iktisabetmiş oldukları derecelerin birinci kademe aylıkları esas alınır.

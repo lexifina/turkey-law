@@ -1,0 +1,2 @@
+Madde 57 – ( 8/6/1949 tarihli ve 5434 sayılı Kanunun hükmüdür.)
+Emekli veya adi malullük aylığı alanlardan; emeklilik hakkı tanınan bir vazifeye alınanların bu vazifede iken adi malul olmaları dolayısiyle vazifelerinden ayrılmalarında eski aylıklarının 100 üncü madde gereğince son hizmet zammı eklenir. Şu kadar ki, eski aylık ile son hizmet zammı toplamı, eski aylığa veya son hizmet zammına esas olan vazife aylıklarından fazla olanının % 70'ini geçemez.(1)

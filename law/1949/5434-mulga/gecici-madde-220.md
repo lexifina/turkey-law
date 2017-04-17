@@ -1,0 +1,2 @@
+Geçici Madde 220- (21/4/2005 tarihli ve 5335 sayılı Kanunun hükmüdür.)
+Bu maddenin yürürlük tarihinden önce daha düşük ek göstergeli veya ek göstergesi olmayan bir kadro, görev ya da dereceye atanmış veya seçilmiş olanlar için ek 67 nci maddenin uygulanmasında, ek göstergeli veya yüksek ek göstergeli kadro, görev ya da derecede en az altı ay görev yapmış olma şartı aranmaz. Önceden yapılmış olan eşitlik işlemlerine dayalı olarak bağlanmış olan aylıklar ödenmeye devam olunur.

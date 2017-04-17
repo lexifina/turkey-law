@@ -1,0 +1,2 @@
+Madde 72 – fıkra bir - (7/5/1986 tarihli ve 3284 sayılı Kanunun hükmüdür.) Ölen iştirakçilerin, iştirakçi bulunmayan dul ve muhtaç anaları ile iştirakçi olmayan ve ölüm tarihinde muhtaç ve (65) yaşını doldurmuş bulunan babalarına Sandığa müracaat tarihini takip eden aybaşından itibaren aylık bağlanır. Muhtaç babalardan çalışarak geçimini sağlayamayacak derecede malul olanlar için yaş kaydı aranmaz.
+330-90

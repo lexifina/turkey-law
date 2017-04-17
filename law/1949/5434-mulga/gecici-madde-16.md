@@ -1,0 +1,4 @@
+Geçici Madde 16 – (8/6/1949 tarihli ve 5434 sayılı Kanunun hükmüdür.)
+Bu kanunun yürürlüğe girdiği tarihte: Polis mesleğinde bulunanlardan, 6 ncı meslek derecesinden 12 nci meslek derecesine (dahil) kadar olanlarla meslekten yetişmiş emniyet müdürlerinden; emekli, adi malullük veya vazife malullüğü aylığı bağlanacak olanların, 32 nci madde gereğince ve her yıl için üçer ay olmak üzere hesap edilerek fiili hizmet müddetlerine eklenecek müddetler 3 yıldan aşağı olamaz.
+Bu suretle eklenecek müddetler için Hazinece geçici (15) inci maddenin son fıkrasına göre sandığa ödeme yapılır.
+Bu kanunun yürürlüğe girdiği tarihte bu mesleğin yukarda yazılı vazifelerinde bulunanlardan, fiili hizmet müddetleri 15 yılı doldurmuş olanlar yukarki zamlar dahil olmaksızın 22 yılı tamamladıklarında emekliye ayrılmalarını istiyebilirler.

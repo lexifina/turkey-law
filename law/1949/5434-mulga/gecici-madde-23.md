@@ -1,0 +1,1 @@
+Geçici Madde 23 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Geçici 19 uncu maddeye göre hazırlanacak cetveller,kurumlarca Sandığa karşı yapılacak borçlanmanın tahakkuk belgesi olmak üzere Sayıştayın tetkikından geçirilir.

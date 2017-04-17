@@ -1,0 +1,1 @@
+Geçici Madde 1 – 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun bu Kanun ile değişik ek 77 nci maddesi kapsamına gire hak sahiplerinin aylıkları, 4/10/2000 tarihinden itibaren ek 77 nci maddede belirtilen esaslara göre yükseltilir. Ancak, bu yükseltmeden dolayı geçmişe yönelik aylık ve aylık farkı ödenmez.

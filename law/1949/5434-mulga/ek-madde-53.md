@@ -1,0 +1,6 @@
+Ek Madde 53 – (7/5/1986 tarih ve 3284 Sayılı Kanunun 18 inci maddesi ile getirilen ek madde 3 hükmü olup, teselsül sebebi ile madde numarası değiştirilmiştir.)
+Çeşitli sosyal güvenlik kurumlarından emekli olduktan sonra, Yasama Organı Üyeliği yapanlarla, dışarıdan bakanlığa atananlardan, T.C. Emekli Sandığı ile ilgilendirilmek isteyenlerin bu isteklerinin Sandık kaydına geçtiği tarihi takip eden aybaşından itibaren bu Kanunun Ek 1 inci maddesi gereğince Sandık iştirakçilikleri sağlanır ve aynı tarihten itibaren sosyal güvenlik kurumlarından almakta oldukları aylıkları kesilir. Bu gibilerin (emekli aylığı almak suretiyle geçmiş süreleri hariç) yine istekleri üzerine, bu Kanunun Ek 2 nci maddesi gereğince borçlandırılmaları yapılır.Ancak, sözü edilenlerden çeşitli Sosyal Güvenlik Kurumlarına prim veya kesenek ödeyerek geçen süreleri ile Ek 2 nci maddeye göre borçlandıkları hizmetsüreleri toplamı aylık bağlanabilmesi için yeterli süreden eksik olanların, eksik olan bu süreleri de ayrıca borçlandırılır. (2)
+——————————
+(1) Bu maddede sözü edilen Ek 1 inci madde ile, 2012 sayılı Kanunla eklenenek maddenin numaraları teselsül sağlamak için sırasıyla "Ek Madde 51" ve "Ek Madde 31" olarak değiştirilmiştir.
+(2) Bu madde de sözü edilen Ek 1 inci ve ek 2 nci maddelerin numaraları, teselsülü sağlamak için "Ek Madde 51" ve "Ek Madde 52" olarak değiştirilmiştir.
+327

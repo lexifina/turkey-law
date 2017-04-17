@@ -1,0 +1,3 @@
+Ek Madde 38 – (24/12/1980 - 2363/3 md. ile gelen Ek 1 nci madde hükmü olup madde numarası teselsül ettirilmiştir.)
+5434 sayılı T.C. Emekli Sandığı Kanununun 34 ncü maddesi ile geçici 15 ve 16 ncı maddeleri gereğince alınan fiili hizmet süresi zammı 38 nci maddesi gereğince alınan itibari hizmet süresi ve 39 ncu maddesi gereğince alınan 55 ten eksik yaş farkları karşılıkları; emeklilik keseneği ve karşılığı toplamına yükseltilmiştir.
+Ayrıca aynı kanunun diğer maddelerinde yer alan, kesenek oranları % 10; % 5, % 6, % 14 kurum karşılıkları % 18; kesenek ve karşılık toplamlarına ait oranlar da “Kesenek ve karşılık toplamı” olarak değiştirilmiştir.

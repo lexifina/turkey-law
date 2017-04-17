@@ -1,0 +1,2 @@
+Ek Madde 79 – onuncu fıkra - (17/4/2008 tarihli ve 5754 sayılı Kanunun hükmüdür.) Yukarıdaki hükümler 31/5/2006 tarihli ve 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamındaki sigortalılar ile hak sahipleri hakkında ilgisine göre uygulanır.
+114- 4/4/2015 tarihli ve 6645 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.( Madde Numaraları: 89, Geçici Madde 206.)

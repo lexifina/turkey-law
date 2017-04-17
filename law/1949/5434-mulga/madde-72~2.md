@@ -1,0 +1,1 @@
+Madde 72 – fıkra iki - (7/5/1986 tarihli ve 3284 sayılı Kanunun hükmüdür.) Muhtaç olması sebebiyle aylık bağlanan babanın ölümünde aylığı, muhtaç olması şartı ile Sandığa müracaat tarihini takip eden aybaşından itibaren öz anaya bağlanır.

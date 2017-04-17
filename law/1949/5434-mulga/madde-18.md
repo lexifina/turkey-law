@@ -1,0 +1,2 @@
+Madde 18 – ( 8/6/1949 tarihli ve 5434 sayılı Kanunun hükmüdür.)
+Ay başlarından sonra başka bir kurumda emeklilik hakkı tanınan bir vazifeye geçen iştirakçilerden aylık, ücret veya ödeneklerini peşin alanların emekli kesenekleri,ödemeyi yapan kurumlarca,aylık veya ücretlerini ay sonlarında alanların kesenekleri de geçtikleri kurumlarca tam olarak kesilip karşılıkları ile birlikte 17 nci maddede yazılı esaslara göre Sandığa ödenir.

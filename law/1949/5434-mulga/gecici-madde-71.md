@@ -1,0 +1,5 @@
+Geçici Madde 71 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) Geçici 66 ncı madde gereğince borçlanmaları iptal edilenlerden; emeklilik hakkı tanınan bir vazifeye tayin edilenler, bu kanun hükümlerine göre keseneklerini geri vermek istediklerinde: Bunları, borçlanmalarından tahsil edilip kendilerine geri verilen paralarla birlikte Sandığa öderler.
+İptal edilen borç bakıyelerini tayin tarihinden itibaren 6 ay içinde kanun esaslarına göre tekrar borçlanmak isterlerse ilk borçlandıkları hizmet müddetlerinin tamamı yeniden fiili hizmet müddetlerine eklenir.
+Borçlanma isteğinde bulunmıyanların fiili hizmet müddetlerine yalnız geri verdikleri paralar içindeki borçlanma tahsilatına tekabül eden hizmet müddetleri eklenir. Bu suretle eklenecek hizmet müddetleri geçici 66 ncı maddede yazılı nispete göre hesaplanır. Şu kadar ki, iptal edilen borçlanmanın yenilenmesi her iştirakçi hakkında bir defadan fazla yapılmaz.
+330-44
+Kanunun yürürlüğe girmesinden önce borçlanması iptal edilmiş olanlar; eski borçlanmalarını bir defaya mahsus olmak üzere yeniliyebilirler.(1)

@@ -1,0 +1,2 @@
+Geçici Madde 176 – (14/3/1985 - 3166/6 md. ile gelen Geçici 1 inci madde hükmü olup madde numarası teselsül ettirilmiştir.)
+Bu Kanunun yürürlüğe girdiği tarihten önce iştirakçi olmaları, emekli, adi malullük, vazife malullüğü aylığı almaları, 65 yaşını doldurmamış veya malul ve muhtaç durumda bulunmamaları veyahut eşlerinin ölümü tarihinden itibaren bir yıllık müracaat süresini geçirmeleri nedeniyle dul aylığı bağlanamamış kocalara da müracaatlarını takip eden ay başından itibaren bu Kanunla değişik 68 inci madde esaslarına göre dul aylığı bağlanır.

@@ -1,0 +1,2 @@
+Madde 6 – (1/6/1976 tarihli ve 2013 sayılı Kanunun hükmüdür.)
+Sandığın bir genel müdürü ile sayısı üçten az olmamak ve Bakanlar Kurulunca tespit edilmek üzere yeteri kadar genel müdür yardımcısı bulunur. 17/6/1938 tarih ve 3460 sayılı Kanunun 18 inci maddesi hükmü mahfuz kalmak şartıyle 4 üncü ve daha yukarı derecedeki memurlarla bunların aylıklarına muadil ücret alan hizmetliler genel müdürlüğün teklifi üzerine Müdürler Kurulu,bunların dışında kalanlar genel müdür tarafından tayin edilir.

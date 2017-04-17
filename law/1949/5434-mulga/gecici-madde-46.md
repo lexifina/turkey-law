@@ -1,0 +1,9 @@
+Geçici Madde 46 – (18/6/1948 tarihli ve 5434 sayılı Kanunun hükmüdür.) 1683 sayılı kanun hükümlerine göre bağlanmış vazife malullüğü aylıkları hakkında aşağıda yazılı esaslara göre muamele yapılır:
+a) Fiili ve itibari hizmet müddetleri ve malullük dereceleri üzerinden bağlanmış aylıklar ile bunlara, bu kanunla kaldırılan hükümlerle yapılmış aylık ve terfih zamlarının toplamı; tahsise esas aylık aslı ile fiili ve itibari hizmet müddetleri, malullük dereceleri aynı olan iştirakçilere bu kanuna göre bağlanacak vazife malullüğü aylıkları derecesine yükseltilir. 5107 sayılı kanundan faydalanmış aylıkların bu zamları aşağıdaki (c) fıkrası hükmüne tabidir;
+b) Vazife malullüğü aylıklarına yapılmış son hizmet zamları,zamma esas tutulmuş olan aylık aslı ve hizmet müddeti itibariyle emsaline 100 üncü maddeye göre yapılacak son hizmet zammı miktarına çıkarılır;
+c) 5107 sayılı kanunun 1 inci maddesiyle zam görmüş aylıkların bu zamları, malullük derecelerine göre 64 üncü maddede yazılı (Harb malullüğü zammı) miktarına çıkarılır.
+Bu madde hükmünün tatbikında:
+Milli Mücadelede harb sahası dışında kalan yerlerde asilerle mücadele esnasında malul kalan ve Milli Orduya mensup bulunan muvazzaf, yedek, gönüllü ve gedikli subaylarla askeri memurlar da 5107 sayılı kanunun şümulüne dahil sayılırlar.
+Geçici 45 inci maddenin tahsise esas aylık asılları hakkındaki hükümleri bu maddedeki aylıklar hakkında da uygulanır.
+Bu kanun gereğince yapılacak artırmalarda elde edilecek miktar, (5107) sayılı kanunun 1 inci maddesi şümulüne giren harb malulleriyle bunların dışında kalıp 191 sayılı yorum gereğince harb malulü sayılanlar da dahil, bilümum harb malullerinin bu kanunun yürürlüğe girdiği tarihte almakta oldukları veya müstahak bulundukları aylık ve çeşitli zamları toplamının % 20 fazlasından hiç bir suretle aşağı olamaz.41 inci maddenin lira kesirlerine ait hükmü bu fıkra hakkında da
+uygulanır.

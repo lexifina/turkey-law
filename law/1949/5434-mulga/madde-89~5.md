@@ -1,0 +1,2 @@
+Madde 89 – sekizinci fıkra- ikinci cümle - (Değişik: 17/1/2012 tarihli ve 6270 sayılı Kanunun hükmüdür.) Şu kadar ki, evvelce verilmiş olan ikramiye ile sonradan geçen hizmetler için ayrıca tahakkuk ettirilecek ikramiyenin hesabına esas alınan fiili hizmet süreleri toplamı, 30 yıldan fazla olamaz ve evvelce 30 hizmet yılı için emekli ikramiyesi ödenmiş olanlara hiçbir şekilde ikramiye farkı ödenmez.
+330-158

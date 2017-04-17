@@ -1,0 +1,2 @@
+Geçici Madde 187- (7/5/1986 tarihli ve 3284 sayılı Kanunun hükmüdür.)
+5434 Sayılı Kanunun 49 uncu maddesinde belirtilen süreler içerisinde müracaat edememiş olmaları sebebiyle aylık bağlanamamış bulunanlarla bunların dul ve yetimlerine vazife malullüklerinin 5434 sayılı Kanunun ilgili maddesine göre tevsik edilmesi ve bu Kanunun yürürlüğe girdiği tarihten itibaren 1 yıl içinde T.C. Emekli Sandığına müracaat etmeleri halinde, müracaat tarihini takip eden aybaşından itibaren aylık bağlanır. Bunlara geçmiş süreler için aylık ödenmez.

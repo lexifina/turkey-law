@@ -1,0 +1,2 @@
+Ek Madde 31 (d) bendinden sonra gelen ilk fıkra- (20/5/1976 tarihli ve 2012 sayılı Kanunun hükmüdür.)
+T.C. Emekli Sandığına yazılı olarak başvurdukları tarihteki öğrenim durumlarına göre 657 sayılı Kanunun 1897 sayılı Kanunla değişik 36 ncı maddesine göre belirlenecek giriş derece ve kademeleri göstergelerinin o tarihte yürürlükte olankatsayı ile çarpımı sonunda bulunacak tutarlar esas alınarak, yine o tarihteki kesenek ve karşılık oranlarına göre tespit olunur. Bu hüküm 5434 sayılı Kanun ve değişiklikleri ile getirilen bütün borçlanma tahakkuklarına da aynen uygulanır.
