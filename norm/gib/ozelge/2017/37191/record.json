@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.02-175.02.02.07[16-01]-12415",
+  "source_id": 37191,
+  "date": "2017-04-18",
+  "title": "Büyükbaş Hayvan Çiftliğinin Bina İnşaat Harcı İstisnası Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37191",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "e11080a9c31cff83e59976efba0a0784a354515e7356e747178017972f7b18df",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
