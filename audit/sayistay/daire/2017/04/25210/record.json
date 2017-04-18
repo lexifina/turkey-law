@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "455",
+  "decision_date": "2017-04-18",
+  "source_id": 25210,
+  "chamber": "6",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25210/",
+  "source_sha256": "c27a3d6333181f8bd907bd9f086af465aa49655de8cc4ffa8644a7313804e6bb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
