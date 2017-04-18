@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130[KDV.5/I.9.2016.45]-121462",
+  "source_id": 30344,
+  "date": "2017-04-18",
+  "title": "Mücbir Sebep Halinde KDV Tevkifatı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30344",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "3b765a3b0a3e45ebafb55c40a4fc05259889962e66844cb7f602c7d6fc67edfc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
