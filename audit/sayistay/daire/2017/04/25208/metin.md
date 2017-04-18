@@ -1,0 +1,11 @@
+ Bazı iş kalemlerin için yapılandan daha fazla miktar üzerinden ödeme yapılması
+
+............tarih ve ............sayılı İlamın ’ncı maddesi ile tazminine hükmolunan konunun 6085 sayılı Sayıştay Kanunu’nun 56’ncı maddesinin ikinci fıkrasının (ç) bendi hükmü gereğince yargılamanın iadesi yoluyla görüşülmesine karar verildi.
+
+Anılan İlamın ..’ncı maddesi ile ............ve ............ Mimarlık Mühendislik İş Ortaklığı’nın yükleniminde yaptırılan ............TL sözleşme bedelli “....  ” İşi ile ilgili olarak yapılan fiili fiziki denetimde bazı iş kalemlerin için yapılandan daha fazla miktar üzerinden ödeme yapılması sonucu kamu zararına neden olunduğu gerekçesiyle toplam ............-TL’nin tazminine karar verilmişti.
+
+Bu tazmin hükmüne karşı Harcama Yetkilisi (Fen İşleri Müdürü) ............tarafından Sayıştay Temyiz Kuruluna yapılan temyiz başvurusu üzerine anılan Kurulca .... tarih ve ....tutanak numaralı Kararın 2’nci maddesiyle; “Söz konusu tazmin hükmü ile ilgili olarak ibraz edilen belgelerin incelenmesi temyiz konusu olmadığından bu hususta kurulumuzca yapılacak işlem olmadığına ve sözü edilen belgeler yargılamanın iadesini gerektirir nitelikte görüldüğü takdirde bu yolda işlem yapılmasını teminen, ............sayılı İlam’ın 6’ncı maddesine ilişkin dosyanın DAİRESİNE TEVDİİNE” karar verilmiştir.
+
+............ tarafından Sayıştay Temyiz Kuruluna yapılan temyiz başvurusu üzerine ise anılan Kurulca ............tarih ve ............tutanak sayılı Kararların 1’inci maddeleriyle;  “............sayılı İlamın 6’ncı maddesi ile verilen tazmin hükmüne ilişkin olarak ibraz edilen belgelerin incelenmesi temyiz konusu olmadığından bu hususta kurulumuzca yapılacak işlem olmadığına ve sözü edilen belgeler yargılamanın iadesini gerektirir nitelikte görüldüğü takdirde bu yolda işlem ifasını teminen dosyanın 40456 numaralı dosya ile BİRLEŞTİRİLEREK DAİRESİNE TEVDİİNE” karar verilmiştir.
+
+Temyiz Kurulunun anılan kararları üzerine Dairemize gönderilen söz konusu dosyaların birleştirilerek incelenmesi sonucunda:  anılan İlamın 6’ncı maddesi ile tazminine karar verilen ............-TL’nin ............tarih ve ............ numaralı ödeme emri belgesiyle ilamın hüküm tarihi olan ............tarihinden önce mahsuben tahsil edildiği anlaşıldığından, söz konusu tazmin hükmünün ............’ün uhdesinden kaldırılmasına karar verildi.
