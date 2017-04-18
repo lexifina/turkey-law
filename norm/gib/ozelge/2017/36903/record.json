@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-185[KDV-2/İ/2016-5]-121656",
+  "source_id": 36903,
+  "date": "2017-04-18",
+  "title": "Gübre takip hizmeti ve özel güvenlik kamerası hizmetinde ÖİV hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36903",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "8053e4c893f15106cacdad3d754689ed43cf93328a119eff9d45292c48b07e67",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
