@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "107",
+  "decision_date": "2017-04-18",
+  "source_id": 24472,
+  "chamber": "8",
+  "ilam_number": "222",
+  "item_number": 6,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24472/",
+  "source_sha256": "a9c47f6ecac944bd18fb7dee03ac34aaa3513599943c355720ded27818e54cbe",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
