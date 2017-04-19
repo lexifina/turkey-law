@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.42.16.02-160[E.462255]-34061",
+  "source_id": 36238,
+  "date": "2017-04-19",
+  "title": "Satış Vaadi Sözleşmesi ile satın alan gayrimenkul sahibinin vefatı nedeniyle verilecek veraset ve intikal vergisi beyannamesinde hangi değerle beyan edileceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36238",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "67519eb72d0b0b111ae8764c44909493aeaeed8e163f20c5a23cf513db2579d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
