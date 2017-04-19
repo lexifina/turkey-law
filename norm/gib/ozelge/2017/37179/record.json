@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.01-175-33057",
+  "source_id": 37179,
+  "date": "2017-04-19",
+  "title": "Taşınmazların Emlak Vergisi Bildiriminde Arsa Olarak Nitelendirilip Nitelendirilemeyeceği Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37179",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "be7bbd64e3662e4d5f995081658eb800d07174ec6637a3351ba7ef4bfdcb14c2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
