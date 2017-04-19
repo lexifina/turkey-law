@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43011",
+  "decision_date": "2017-04-19",
+  "source_id": 13744,
+  "chamber": "7",
+  "file_number": "39542",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2012",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13744/",
+  "source_sha256": "93ac046641af68e0b7b5e996bfb25dcc7186c5c110aa002a00eea49ac88954dc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
