@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2017/574",
+  "list_number": "574",
+  "decision_date": "2017-04-19",
+  "title": "Halkların Demokratik Partisi Genel Başkanlığının 16 Nisan 2017 tarihinde yapılan Anayasa Değişikliği Halkoylamasının iptaline yönelik talebinin reddine ilişkin olarak verilen Yüksek Seçim Kurulunun 2017/574 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/5061/2017-574.pdf",
+  "source_sha256": "8522545476edef33cc5d76a672367a97c0f2860b7e623c684d5d91774d070030",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 28,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2017-04-19",
+  "law_text_complete": false
+}
