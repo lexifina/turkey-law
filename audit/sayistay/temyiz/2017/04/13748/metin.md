@@ -1,0 +1,3 @@
+Konu: Hüküm önce yapılan tahsilatın bildirilmesi.
+
+1-156 sayılı ilamın 4 üncü maddesi ile verilen tazmin hükmüne ilişkin olarak sorumlu tarafından tahsilat bildirilmekte ise de, hüküm tarihinden önce yapılmış olan söz konusu tahsilat, temyiz konusu olmayıp yargılamanın iadesi ile ilgili bulunduğundan bu hususta Kurulumuzca yapılacak işlem olmadığına ancak aynı tazmin hükmünde gerçekleştirme görevlisi sıfatı ile iştiraki bulunan …’ın başvurusu üzerine düzenlenen 19.04.2017 tarih ve 43013 tutanak sayılı Temyiz Kurulu kararı ile Dairesine tevdi edilen dosya ile aynı mahiyette olan bu dosyanın sözü edilen dosya ile birleştirilerek gereği yapılmak üzere ilgili Dairesine gönderilmesine, oy birliği ile,
