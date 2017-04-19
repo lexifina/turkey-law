@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2017/573",
+  "list_number": "573",
+  "decision_date": "2017-04-19",
+  "title": "Cumhuriyet Halk Partisi Genel Başkanlığının 16 Nisan 2017 tarihinde yapılan Anayasa Değişikliği Halkoylamasının iptaline yönelik talebinin reddine ilişkin olarak verilen Yüksek Seçim Kurulunun 2017/573 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/5060/2017-573.pdf",
+  "source_sha256": "5f17b87aa2a923aede146aa5bd6f841d64988144e0e469d61bfa7ed599d46209",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 31,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2017-04-19",
+  "law_text_complete": false
+}
