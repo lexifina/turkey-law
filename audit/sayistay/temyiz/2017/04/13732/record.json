@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "42999",
+  "decision_date": "2017-04-19",
+  "source_id": 13732,
+  "chamber": "1",
+  "file_number": "41809",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13732/",
+  "source_sha256": "ab96871952bdd9943248bc22fdd9a72864e646af2b1f70554ec4972547df1f45",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
