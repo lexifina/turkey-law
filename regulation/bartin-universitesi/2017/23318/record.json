@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-02-12",
+      "12.02.2017",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2017-04-20",
+      "RG-20/4/2017-30044",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-04-20",
+      "20/4/2017",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-20/4/2017-30044",
+  "first_law": null,
+  "gazette": "29977",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-04-20",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Bartın Üniversitesi",
+  "issuer_slug": "bartin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bartin-universitesi/2017/23318",
+  "published": "2017-02-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23318&MevzuatTertip=5",
+  "source_bytes": 39764,
+  "source_id": "8.5.23318",
+  "source_sha256": "a18d9077b34befebfebfe1b04b94f6a66a8163c883958126b4df0d3daa30aab3",
+  "text_status": "current-consolidated",
+  "title": "BARTIN ÜNİVERSİTESİ OKUL ÖNCESİ EĞİTİM UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 348,
+  "word_count": 1536
+}
