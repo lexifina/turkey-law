@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.17.4-109673",
+  "source_id": 31564,
+  "date": "2017-04-20",
+  "title": "Yurtdışında mukim firmalardan alınacak hizmet bedelleri üzerinden kurumlar vergisi ve katma değer vergisi tevkifatı yapılıp yapılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31564",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "c861c4d5999a0f99e8bf2936cc08af95c61988091776f5776403b85ce0ddcdf0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
