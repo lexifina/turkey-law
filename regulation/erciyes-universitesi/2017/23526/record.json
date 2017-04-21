@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-04-21",
+      "21.04.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30045",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-04-21",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Erciyes Üniversitesi",
+  "issuer_slug": "erciyes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/erciyes-universitesi/2017/23526",
+  "published": "2017-04-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23526&MevzuatTertip=5",
+  "source_bytes": 26494,
+  "source_id": "8.5.23526",
+  "source_sha256": "e6fbfa20596661ab656b45d78386fd3c77eabf971fdcfff83067f493b27be122",
+  "text_status": "as-enacted",
+  "title": "ERCİYES ÜNİVERSİTESİ MEDYA VE DİN ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 192,
+  "word_count": 956
+}
