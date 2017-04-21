@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-04-21",
+  "issue": "30045",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KARAR",
+  "title": "Türkiye Hava Sporları Federasyonu Kurulmasına Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170421-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170421.htm",
+  "index_sha256": "59a0f76e19c42c0b783c20cf35e2d9d733c448c9c377de48cc280be3d137c486",
+  "index_header": "21 Nisan 2017 ... 30045 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170421.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
