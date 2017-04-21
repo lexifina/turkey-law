@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130[[01-2015/47]]-125981",
+  "source_id": 30867,
+  "date": "2017-04-21",
+  "title": "Yurt dışında mukim firmaya verilen hizmetinn KDV karşısındaki durumu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30867",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "142bab8d713f42eb7d62b691ecf84d673e67b557428da1ef470094a927a2dc9e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
