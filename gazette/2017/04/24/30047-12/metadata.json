@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-04-24",
+  "issue": "30047",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Pamukkale Üniversitesi Coğrafi Bilgi Teknolojileri Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170424-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170424.htm",
+  "index_sha256": "ed0af15f1e2a2c8b689171f9ffb9b49a22d1c296649e11c2f31c14ac16898bc1",
+  "index_header": "24 Nisan 2017 ... 30047 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170424.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "096cb7fc18e230a3beb9d123b4c110f07f887ad0e82312deabe0ba143a9da651",
+  "text_status": "text.txt as published"
+}
