@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.46.15.01-130[28-2014/06-12]-1421",
+  "source_id": 33536,
+  "date": "2017-04-24",
+  "title": "Kat Karşılığı İnşaat İşinde Arsa Sahibine KDV Uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33536",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "8df7d5813c5dac8a437fe60845869d891b761c101411397052c17dc3e07a50b5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
