@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130-127301",
+  "source_id": 30788,
+  "date": "2017-04-24",
+  "title": "Uluslararası Taşımacılık İstisnasında Bedelin Döviz cinsinden hesaplanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30788",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "fe0e51ece82ddba0805413fe1f21781dadef15e3aa528c2da6bfb93849527336",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
