@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[Mük.20-2016/626]-113406",
+  "source_id": 21313,
+  "date": "2017-04-25",
+  "title": "Ticari, zirai veya mesleki faaliyeti nedeniyle adına ilk defa gelir vergisi mükellefiyeti tesis edilen kişinin bu kazancının gelir vergisinden istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21313",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "69e75eeeba31c24dbc922d48b252ec805cf6501317674e02f8fa4d9e8af84c98",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
