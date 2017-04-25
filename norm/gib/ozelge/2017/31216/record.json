@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130[KDV.2/I/13/2016/19]-128780",
+  "source_id": 31216,
+  "date": "2017-04-25",
+  "title": "Havalimanı işletici kuruluşa verilen meteorolojik hizmetlerin KDV'den istisna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31216",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "7899d5e08bf3a520ef6fcb46c80058a0be3d62ddc9e0deb82712dfda957220a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
