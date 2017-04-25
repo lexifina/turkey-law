@@ -1,0 +1,2 @@
+Amaç
+Madde 2 — Hacettepe Üniversitesine bağlı bir birim olan Merkezin amacı; Hacettepe Üniversitesinin ilgili bölüm, anabilim dalları ve ünitelerinin işbirliği ile her türlü doku ve organ nakli uygulamasını çağdaş düzeyde gerçekleştirmek, doku ve organ nakli konularındaki yeni gelişmeleri ülkemize aktarmak, temel ve uygulamalı araştırmalar yapmak, bu alanda yeni teknikler geliştirmek, organ sağlamak ve toplumun her kesiminin organ nakli konusunda bilinçlenmesine yönelik çalışmalarda bulunmaktadır.

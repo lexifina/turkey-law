@@ -1,0 +1,4 @@
+Merkez Çalışma Grupları
+Madde 9 — Merkez Yönetim Kurulu tarafından Merkez faaliyetlerinin yürütülmesinde yardımcı olmak üzere, tamamen yetersiz hale geldiğinde organ nakli ile tedavisi mümkün olan her organ için birer (Kornea, Böbrek, Karaciğer, Kalp, Pankreas, Kemik İliği, Akciğer vb.) ve Diyaliz, İmmünoloji, Diagnostik Radyoloji, Terapotik-Radyoloji ve laboratuvarları (Hematoloji, Mikrobiyoloji ve Patoloji) için birer çalışma grubu oluşturulur.
+Çalışma gruplarında, Merkez Müdürü tarafından önerilen ve Rektör tarafından görevlendirilen alanla ilgili öğretim üyesi, uzman ve teknik elemanların görev süresi ve grubun yürüteceği çalışmanın niteliğine göre görevlendirilecek eleman sayısı Merkez Yönetim Kurulu kararı ile belirlenir.
+Çalışma grupları, iki ayda bir toplanır ve Yönetim Kurulunun belirlediği esaslara göre yürüttükleri çalışmalarıyla ilgili raporlarını altı ayda bir Merkez Yönetim Kuruluna sunarlar.

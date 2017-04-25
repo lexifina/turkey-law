@@ -1,0 +1,2 @@
+Merkez Danışma Kurulu
+Madde 8 — Merkez Danışma Kurulu, Merkezin faaliyetleri ile ilgili olarak değerlendirmede bulunan ve istişari nitelikte görüş bildiren kuruldur. Danışma Kurulu, Tıp Fakültesi Temel Tıp Bilimleri, Dahili Tıp Bilimleri ve Cerrahi Tıp Bilimleri Bölüm Başkanları ile Hemşirelik Müdürlüğü ve ilgili birimlerden Merkez Müdürünün önerisi üzerine Rektör tarafından seçilen temsilcilerden oluşur. Danışma Kurulu, Merkez Müdürünün çağrısı ile toplanır ve Kurula Merkez Müdürü başkanlık eder.

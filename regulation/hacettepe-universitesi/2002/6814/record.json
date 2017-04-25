@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 11 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2002-12-01",
+      "01.12.2002",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2017-04-25",
+      "RG-25/4/2017-30048",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-25/4/2017-30048",
+  "first_law": null,
+  "gazette": "24953",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-04-25",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2002/6814",
+  "published": "2002-12-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=6814&MevzuatTertip=5",
+  "source_bytes": 19588,
+  "source_id": "8.5.6814",
+  "source_sha256": "19068b5bfdd5c4ec555a536c81e05d401f3e1e7e85d7dc51c0e792b176fd27ca",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ\r\nDOKU VE ORGAN NAKLİ EĞİTİM, UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 927
+}
