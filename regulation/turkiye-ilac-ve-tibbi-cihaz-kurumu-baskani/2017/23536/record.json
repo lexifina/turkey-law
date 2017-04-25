@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23536",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BEŞERİ TIBBİ ÜRÜNLERİN AMBALAJ BİLGİLERİ, KULLANMA TALİMATI VE TAKİBİ YÖNETMELİĞİ",
+  "number": "23536",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2017/23536",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23536&MevzuatTertip=5",
+  "source_sha256": "6534731e876ece87b8371e36f272433202b9215a78ba7b7ae09986ce14ab4b43",
+  "source_bytes": 81998,
+  "published": "2017-04-25",
+  "gazette": "30048",
+  "in_force": "2017-04-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.04.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4574,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
