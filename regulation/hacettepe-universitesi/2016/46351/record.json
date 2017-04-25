@@ -1,0 +1,89 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 53 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2016-11-26",
+      "26.11.2016",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2017-04-25",
+      "RG-25/4/2017-30048",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-04-25",
+      "RG-25/4/2017-30048",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-04-25",
+      "RG-25/4/2017-30048",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-04-25",
+      "RG-25/4/2017-30048",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-04-25",
+      "RG-25/4/2017-30048",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-04-25",
+      "RG-25/4/2017-30048",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-04-25",
+      "RG-25/4/2017-30048",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-04-25",
+      "RG-25/4/2017-30048",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-04-25",
+      "RG-25/4/2017-30048",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-04-25",
+      "25/4/2017",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-25/4/2017-30048",
+  "first_law": null,
+  "gazette": "29900",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-04-25",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2016/46351",
+  "published": "2016-11-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=46351&MevzuatTertip=5",
+  "source_bytes": 117077,
+  "source_id": "8.5.46351",
+  "source_sha256": "bc50b52f58237599dfd5694e96145b7d7108529a4370d9e0bf7d94c666de6cb8",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 7158
+}
