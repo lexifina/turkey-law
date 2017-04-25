@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[94-2016/55]-113418",
+  "source_id": 20747,
+  "date": "2017-04-25",
+  "title": "Yurt içinde ve yurt dışında verilen eğitim hizmeti için yapılan ödemelerden tevkifat yapılıp yapılmayacağı ve belge düzeni",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20747",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "5043d05700ac559852e91d8836b8244282f1252d1b8f51523e2d89add6cd3e2e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
