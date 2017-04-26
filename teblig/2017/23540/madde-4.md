@@ -1,0 +1,8 @@
+İthal Lisansına ve İthal Lisansının kullanımına ait bilgiler
+MADDE 4 – (1) Tarife kontenjanı kapsamında yapılacak ithalatta Bakanlıkça düzenlenen İthal Lisansı gümrük beyannamesinin tescilinde ilgili gümrük idaresince aranır.
+(2) Bu Tebliğde belirtilen usul ve esaslar çerçevesinde tarife kontenjanı tahsisatı yapılan başvuru sahibi adına İthal Lisansı Bakanlıkça elektronik olarak düzenlenir. Bu durumda Gümrük ve Ticaret Bakanlığının elektronik ortamda (Tek Pencere Sistemi) vereceği 23 haneli belge numarası ile belge tarihi başvuru formunda belirtilen başvuru sahibine ait e-posta adresine elektronik olarak iletilir ve söz konusu başvuru sahibine ayrıca yazılı bildirim yapılmaz. Başvuru formunda başvuru sahibine ait doğru ve geçerli bir e-posta adresinin bildirilmemesi halinde doğabilecek sorunlardan Bakanlık sorumlu tutulamaz.
+(3) Elektronik ortamda düzenlenen İthal Lisansları için Tek Pencere Sistemi tarafından verilecek 23 haneli belge numarası ile belge tarihi yükümlü tarafından beyannamenin 44 nolu kutusunda “Belge Referans No” ve “Belge Tarihi” alanlarında beyan edilir.
+(4) Gerekmesi halinde İthal Lisansları fiziksel olarak da düzenlenebilir.
+(5) Tarife kontenjanı konusu eşya ancak İthal Lisansının geçerlilik süresi içerisinde serbest dolaşıma girebilir. İthal Lisansının fiziksel olarak düzenlenmesi halinde, geçerlilik süresinin bitiminden sonra Bakanlığa iadesi zorunludur.
+(6) İthal Lisansı devredilemez.
+(7) Gümrüklerce tespit ve kabul edilen kıymet veya miktarın, İthal Lisansında kayıtlı kıymet veya miktarı, toplam %5'ten (%5 dâhil) daha az bir oranda aşması ithalatın yapılmasını engellemez. Ancak ithalatı gerçekleştirilen fazla miktar ilgili ithalatçının bir sonraki lisansından mahsup edilir.

@@ -1,0 +1,8 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ, 4814.20.00.00.00, 4814.90.10.00.00 ve 4814.90.70.10.00 gümrük tarife istatistik pozisyonlarında yer alan eşyanın ithalatında 27/2/2017 tarihli ve 2017/9977 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Duvar Kağıdı ve Benzeri Duvar Kaplamaları İthalatında Tarife Kontenjanı Uygulanması Hakkında Karar çerçevesinde açılan tarife kontenjanının başvuru, dağıtım ile kullanım usul ve esaslarını içermektedir.
+(2) Tarife kontenjanı, aşağıdaki tabloda gümrük tarife istatistik pozisyonu ve tanımı belirtilen eşyanın 5 ABD Doları/net kg ve üzeri CIF birim kıymetle ithal edilenleri için 15/6/2015 tarihli ve 2015/7751 sayılı Duvar Kağıdı ve Benzeri Duvar Kaplamaları İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar kapsamındaki ek mali yükümlülükten muafiyet sağlamak üzere, karşısında gösterilen miktarda açılmıştır.
+Gümrük Tarife İstatistik Pozisyonu | Eşya Tanımı | Miktar (Ton)
+1. Dönem (6/8/2016-5/8/2017) | 2. Dönem (6/8/2017-5/8/2018)
+4814.20.00.00.00 | Duvar kağıtları ve benzeri duvar kaplamaları (ön yüzü pürtüklü kabartmalı, boyalı, desen baskılı veya başka şekilde dekore edilmiş bir kat plastikle sıvanmış veya kaplanmış kağıttan meydana gelmiş olanlar) | 2.700 | 2.970
+4814.90.10.00.00 | Duvar kağıtları ve benzeri duvar kaplamaları, pürtüklenmiş, kabartılmış, yüzeyi boyanmış, motif baskılı veya yüzeyi başka şekilde dekore edilmiş koruyucu şeffaf plastik maddelerle sıvanmış veya kaplanmış kağıtlardan yapılmış olanlar
+4814.90.70.10.00 | Duvar kağıtları ve benzeri duvar kaplamaları (ön yüzü örmeye elverişli maddelerle (bu maddeler birbirine paralel telIer halinde birleştirilmiş veya düz dokunmuş olsun olmasın) kaplanmış kağıttan meydana gelmiş olanlar)
