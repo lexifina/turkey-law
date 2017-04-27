@@ -1,0 +1,301 @@
+27 Nisan 2017 PERŞEMBE
+Resmî Gazete
+Sayı : 30050
+TEBLİĞ
+Gıda, Tarım ve Hayvancılık Bakanlığından:
+ÇİĞ SÜTÜN ARZINA DAİR TEBLİĞ
+(TEBLİĞ NO: 2017/20)
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, çiğ sütün yerel
+perakendeciler tarafından son tüketiciye arzına ilişkin usul ve esasları
+belirlemektir.
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, çiğ sütün yerel perakendeciler
+tarafından son tüketiciye arzına ilişkin hususları kapsar.
+(2) Bu Tebliğ, hayvan sağlığı ve hayvan refahı
+konusundaki mevzuat hükümlerine aykırılık teşkil etmeyecek şekilde
+uygulanır.
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 27/12/2011 tarihli ve 28155 sayılı
+Resmî Gazete’de yayımlanan Hayvansal Gıdalar İçin Özel Hijyen Kuralları
+Yönetmeliğinin 85 inci maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) 11/6/2010 tarihli ve 5996
+sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 3 üncü
+maddesinde, 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan
+Gıda Hijyeni Yönetmeliğinin 4 üncü maddesinde ve 27/12/2011 tarihli ve
+28155 sayılı Resmî Gazete’de yayımlanan Hayvansal Gıdalar İçin Özel Hijyen
+Kuralları Yönetmeliğinin 4 üncü maddesindeki tanımlara ilave olarak bu
+maddenin ikinci fıkrasında yer alan tanımlar da geçerlidir.
+(2) Bu Tebliğde geçen;
+a) Bakanlık: Gıda, Tarım ve Hayvancılık
+Bakanlığını,
+b) Çiğ süt: Çiftlik hayvanlarının meme bezlerinden
+salgılanan, 40 ºC’nin üzerinde ısıtılmamış veya eşdeğer etkiye sahip
+herhangi bir işlem görmemiş sütü,
+c) Hastalıktan Ari İşletmeler İçin Sağlık
+Sertifikası: Süt üreten sığır işletmelerinin, 3/4/2009 tarihli ve 27189
+sayılı Resmî Gazete’de yayımlanan Bruselloz ile Mücadele Yönetmeliğine göre
+brusellozdan ari veya resmi olarak ari ve 2/4/2009 tarihli ve 27188 sayılı
+Resmî Gazete’de yayımlanan Sığır Bovine Tüberkülozu Yönetmeliğine göre tüberkülozdan
+ari olduğunu gösteren belgeyi,
+ç) Hayvancılık işletme numarası: Bakanlık il/ilçe
+müdürlükleri tarafından hayvancılık yapan işletmelere verilen, iki haneli
+ülke kodu ve iki haneli il trafik kodunun ardından gelen işletmeye özgü 10
+rakamlı bir sayı ile birlikte toplam 14 haneden oluşan numarayı,
+d) Koyun Keçi Brusellozu Hastalığından Ari
+İşletmeler İçin Sağlık Sertifikası: Süt üreten koyun keçi işletmelerinin,
+3/4/2009 tarihli ve 27189 sayılı Resmî Gazete’de yayımlanan Bruselloz ile
+Mücadele Yönetmeliğine göre brusellozdan ari veya resmi olarak ari olduğunu
+gösteren belgeyi,
+e) Süt üreten hayvancılık işletmecisi: Gıda olarak
+piyasaya arz için süt üretmek amacıyla, hayvancılık işletme numarası
+bulunan tesis sahibi gerçek veya tüzel kişileri,
+f) Yerel perakendeci: Süt üreten hayvancılık
+işletmesi merkez kabul edilerek hazır ambalajlı çiğ süt için 500
+kilometrelik yarıçap içerisinde, hazır ambalajlı olmayan çiğ süt için 200
+kilometrelik yarıçap içerisinde yer alan ve son tüketiciye sabit bir yerde
+konumlandırılmış otomatik satış makineleri veya bakkal, market ve benzeri
+yerlerde çiğ süt satan perakendeciyi,
+g) Yetkili merci: Bu Tebliğ kapsamındaki iş ve
+işlemlerin yürütülmesinde Bakanlık İl Müdürlüğünü, İl Müdürlüğünce yetki
+verilmesi halinde Bakanlık İlçe Müdürlüğünü,
+ifade eder.
+İKİNCİ BÖLÜM
+Genel Hükümler ve İzin Usul ve Esasları
+Genel
+hükümler
+MADDE 5 –
+(1) Bu Tebliğ kapsamında sadece
+yetkili merciden izin almış süt üreten hayvancılık işletmesinde üretilen
+çiğ sütün arzına izin verilir.
+(2) Son tüketiciye arz edilecek olan inek veya
+manda çiğ sütleri Hastalıktan Ari İşletmeler İçin Sağlık Sertifikasına
+sahip Brusellozdan ve Sığır Tüberkülozundan ari süt sığırı işletmelerinden,
+koyun veya keçi çiğ sütleri, Koyun Keçi Brusellozu Hastalığından Ari
+İşletmeler İçin Sağlık Sertifikasına sahip Brusellozdan ari süt koyun keçi
+işletmelerinden elde edilir.
+(3) Çiğ süt, sağımdan hemen sonra 4 °C’nin
+altındaki sıcaklıklara soğutulur ve nakil sırasındaki sıcaklığı 4 °C’yi
+geçemez.
+(4) Bu Tebliğ kapsamında son tüketiciye arz
+edilecek çiğ süt işlenemez, dondurulamaz, herhangi bir bileşeni ayrılamaz,
+bir bileşen eklenemez, separatörden geçirilemez, farklı hayvan türlerine
+ait sütler karıştırılamaz veya çiğ sütte değişikliğe neden olabilecek
+herhangi bir işleme tabi tutulamaz.
+(5) Çiğ sütü arz etmek isteyen süt üreten
+hayvancılık işletmecisi, 6 ncı maddeye göre yetkili merciden izin belgesi
+almak zorundadır.
+(6) Bu Tebliğ kapsamında çiğ sütün son tüketiciye
+arzı, sağımdan itibaren 24 saat içerisinde gerçekleştirilir. Farklı sağım
+zamanları olan çiğ sütlerin arzı sırasında ilk sağım zamanı esas alınır.
+(7) Çiğ sütün son tüketim süresi, ilk sağım
+saatinden itibaren 48 saati geçemez.
+(8) Bu Tebliğ kapsamında çiğ süt satışı için
+kullanılan ambalajlar, 29/12/2011 tarihli ve 28157 üçüncü mükerrer sayılı
+Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Gıda ile Temas Eden Madde ve
+Malzemeler Yönetmeliği hükümlerine uygun olur.
+(9) Yerel perakendeci; süt üreten hayvancılık
+işletmecisinden bu Tebliğ kapsamında tedarik ettiği çiğ sütü, başka bir
+gıda işletmesine arz edemez.
+(10) Bu Tebliğ kapsamında faaliyet gösteren gıda
+işletmeleri süt üreten hayvancılık işletmesinden almış oldukları çiğ sütü
+yerel perakendeciye gönderebilirler. Bu faaliyette bulunan gıda
+işletmeleri, 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan
+Gıda İşletmelerinin Kayıt ve Onay İşlemlerine Dair Yönetmelik kapsamında
+yetkili merciden kayıt belgesi almak zorundadır.
+(11) Gıda İşletmelerinin Kayıt ve Onay İşlemlerine
+Dair Yönetmelik kapsamında onay belgesi almış işleme tesisleri, almış
+olduğu çiğ sütü yerel perakendecilere arz edebilir.
+İzin usul
+ve esasları
+MADDE 6 – (1) Çiğ sütü arz etmek isteyen süt üreten
+hayvancılık işletmecisi, yetkili mercie Ek-1’de yer alan bilgi ve belgeler
+ile Ek-2 ile başvuruda bulunur.
+(2) Yetkili merci başvuruyu, başvuru tarihinden
+itibaren on beş iş günü içerisinde inceler. Beyannamedeki bilgilerin eksik
+veya yanlış olması durumunda yetkili merci tarafından eksiklikler resmi
+yazı ile başvuru sahibine bildirilir. Eksikliklerin bir ay içerisinde
+tamamlanmaması halinde başvuru dosyası sahibine iade edilir.
+(3) Başvurunun uygun bulunması halinde süt üreten
+hayvancılık işletmesine on beş iş günü içerisinde kontrol görevlileri
+tarafından Gıda Hijyeni Yönetmeliği ile Hayvansal Gıdalar İçin Özel Hijyen
+Kuralları Yönetmeliğinin 53 üncü, 54 üncü, 55 inci ve 56 ncı maddelerinde
+yer alan sağlık gereklilikleri, hijyen gereklilikleri ile çiğ süt için belirlenmiş
+kriterleri ve bu Tebliğde yer alan hijyen gerekliliklerine uygunluğu
+açısından işletme yerinde resmi kontrole tabi tutulur. İşletmenin uygun
+bulunması halinde süt üreten hayvancılık işletmesine Ek-3’te yer alan izin
+belgesi verilir. İzin belgesi üzerinde yer alan izin numarası, hayvancılık
+işletme numarasıdır. Bu izin belgesine sahip olan birincil üretimden
+sorumlu gıda işletmecilerine, Gıda İşletmelerinin Kayıt ve Onay İşlemlerine
+Dair Yönetmeliğin 12 nci maddesi uygulanır.
+(4) Süt üreten hayvancılık işletmecisi, bu Tebliğ
+kapsamındaki faaliyetini durdurması durumunda, bu durumunu üç ay içerisinde
+yetkili mercie bildirmek zorundadır. Süt üreten hayvancılık işletmecisi
+faaliyetini yeniden yürütmek istemesi durumunda yetkili mercie bildirimde
+bulunur.
+(5) Yetkili merci, çiğ sütü arz etmek için
+Bakanlıktan izin almış süt üreten hayvancılık işletmecilerinin listesini
+oluşturur ve bu listeleri güncel tutar.
+(6) Çiğ sütü arz etmek için; bağımsız olarak sabit
+bir yere konumlandırılmış otomatik satış makinesi sahibi, Gıda
+İşletmelerinin Kayıt ve Onay İşlemlerine Dair Yönetmeliğine göre Bakanlığa
+kayıt yaptırmak zorundadır. Her bir makine için ayrı işletme kayıt belgesi
+düzenlenir. Sabit bir yere konumlandırılmış otomatik satış makineleri için
+Gıda İşletmelerinin Kayıt ve Onay İşlemlerine Dair Yönetmeliğinin 12 nci
+maddesi hükümleri uygulanmaz.
+(7) Kayıtlı yerel perakendeciye ait otomatik satış
+makineleri için ayrıca kayıt belgesi düzenlenmez.
+(8) Bu Tebliğ kapsamında yerel perakendeciler
+vasıtasıyla son tüketiciye arz edilecek çiğ sütü satmak isteyen süt üreten
+hayvancılık işletmesi dışındaki gıda işletmeleri il/ilçe müdürlüğüne
+Ek-4’te yer alan dilekçe ile müracaat eder.
+ÜÇÜNCÜ BÖLÜM
+Sorumluluklar ve Çiğ Süt İçin Gereklilikler
+Sorumluluklar
+MADDE 7 – (1) Çiğ sütü arz etmek isteyen süt üreten
+hayvancılık işletmecisi, bu Tebliğde belirtilen hijyen gerekliliklerine
+ilave olarak Gıda Hijyeni Yönetmeliği ile Hayvansal Gıdalar İçin Özel
+Hijyen Kuralları Yönetmeliğinin 53 üncü, 54 üncü, 55 inci ve 56 ncı
+maddelerinde yer alan hükümlere uymak zorundadır.
+(2) Yerel perakendeci, bu Tebliğde belirtilen
+hijyen gerekliliklerine ilave olarak Gıda Hijyeni Yönetmeliği hükümlerine
+uymak zorundadır.
+Çiğ süt
+için gereklilikler
+MADDE 8 – (1) Çiğ süt aşağıdaki kriterlere uygun olur:
+a) Kendine özgü renk, tat ve kokuda olur.
+b) Süt bileşeni dışında herhangi bir madde içermez.
+c) Çiğ sütün bileşimi Ek-5’te yer alan tabloya
+uygun olur.
+ç) Süt üreten hayvancılık ve gıda işletmecilerinin
+uyacağı kriterler (Ek-6)’da gösterilmiştir.
+d) Çiğ süt, 29/12/2011 tarihli ve 28157 üçüncü mükerrer
+sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Bulaşanlar Yönetmeliği
+hükümlerine uygun olur.
+e) Çiğ süt, 17/12/2011 tarihli ve 28145 sayılı
+Resmî Gazete’de yayımlanan Canlı Hayvanlar ve Hayvansal Ürünlerde Belirli
+Maddeler ile Bunların Kalıntılarının İzlenmesi İçin Alınacak Önlemlere Dair
+Yönetmelik hükümlerine uygun olur.
+(2) Süt üreten hayvancılık işletmecisi ürettiği çiğ
+sütün analizlerini yapmak/yaptırmak zorundadır. Çiftlikte üretilen sütün
+bir bölümü bir süt işleme tesisine arz edildiğinde, süt işleme tesisi
+tarafından gerçekleştirilen analizlere ait sonuçlar kullanılabilir.
+DÖRDÜNCÜ BÖLÜM
+Çiğ Sütün Yerel Perakendeciye Arzı, Otomatik Satış
+Makinelerinin Özellikleri
+Çiğ sütün
+yerel perakendeciye arzı
+MADDE 9 – (1) Süt üreten hayvancılık işletmesinde çiğ sütün
+ambalajlandığı, yerel perakendeciye arz edildiği yer; hayvanların barındığı
+yerlerden ayrı bir bölümde gerçekleştirilir.
+(2) Hazır ambalajlı çiğ süt için en az 1 litrelik
+ve tek kullanımlık ambalajlar kullanılır.
+(3) Yerel perakendecide çiğ süt son tüketiciye;
+sadece otomatik satış makinesi aracılığıyla tek kullanımlık ambalaj veya
+tüketici tarafından sağlanan kap içerisinde veya hazır ambalajlı olarak arz
+edilir. Otomatik satış makinesi 10 uncu maddede yer alan gereklilikleri
+karşılar.
+(4) Satış sırasında çiğ süt, 0°C ila 4°C arasındaki
+sıcaklıklarda muhafaza edilir.
+Otomatik
+satış makinelerinin özellikleri
+MADDE 10 – (1) Çiğ sütün arzı için kullanılan otomatik satış
+makineleri aşağıdaki gereklilikleri karşılar:
+a) Elektrik ve sıcak/soğuk su tedarikine sahip olan
+alanlara yerleştirilir.
+b) Makine, yükleme konteynerinin ve süt
+kanallarının temizlik ve dezenfeksiyonu için otomatik bir sisteme sahip
+olur. Boşaltma ve dolum zaman aralığının çok kısa olduğu her seri dolumdan
+sonra ve tüm hallerde günde en az bir defa uygun bir şekilde temizlenir ve
+dezenfekte edilir.
+c) Makine, günlük olarak doldurulur. Gün içinde
+yeni dolum yapılmadan önce, önceki dolumdan kalan çiğ süt boşaltılır.
+ç) Makinenin çiğ süt ile temasta bulunan tüm
+yüzeyleri, gıda ile temasa uygun madde ve malzemeden üretilir.
+d) Çiğ süt ile doğrudan temas eden yüzeyler kolay
+temizlenebilir, düzgün, yıkanabilir, korozyona dayanıklı ve toksik olmayan
+maddelerden yapılır.
+e) Makine, çiğ sütün 0°C ila 4°C arasındaki
+sıcaklıklarda muhafazasını sağlar.
+f) Montaj ekipmanı dahil depolama konteyneri, sütte
+bulaşmayı engelleyecek şekilde yapılır ve temizlik ve dezenfeksiyonu için
+kolay sökülüp takılabilir olur.
+g) Sıcaklık derecesinin 4 °C’nin üzerine çıkması
+durumunda, makine alarmlı bir kapatma düzeneğine sahip olur.
+ğ) Otomatik satış makinelerinde sıcaklık sensörü olur
+ve dışarıda göstergesi bulunur. Ayrıca belirli sürelerde kalibrasyonu
+yapılır. Makinelerdeki sıcaklığı otomatik olarak kayıt eden bir düzenek
+bulunur.
+Ambalajlama
+ve etiketleme
+MADDE 11 – (1) Çiğ sütün son tüketiciye arzı sırasında
+aşağıdaki bilgiler tüketiciye sunulur:
+a) Ürünün adı (çiğ inek sütü ve benzeri).
+b) Üretici/işleme tesisi adı soyadı veya ticari
+unvanı, adresi ve hayvancılık işletme numarası.
+c) Sağım tarihi.
+ç) Çiğ sütün son tüketim tarihi.
+d) En az 1 cm olacak şekilde “ÇİĞ SÜT”, “24 SAAT
+İÇİNDE KULLANILMALIDIR” ve “KULLANMADAN ÖNCE KAYNATINIZ” ifadeleri.
+e) “0°C ila 4°C’de BUZDOLABINDA MUHAFAZA EDİNİZ”
+bilgisi.
+f) Çiğ sütün arzı için izin belgesi tarihi (Ek-3).
+(2) Yerel perakendecide çiğ sütün son tüketiciye
+arzı sırasında birinci fıkrada belirtilen bilgilere ilave olarak perakende
+kayıt numarası bulunur.
+(3) Bağımsız olarak sabit bir yerde
+konumlandırılmış otomatik satış makineleri için birinci fıkrada belirtilen
+bilgilere ilave olarak işletme kayıt numarası bulunur.
+(4) Hazır ambalajlı çiğ sütün etiketinde birinci
+fıkrada belirtilen bilgilere ilave olarak net miktar bilgisi ve işletme
+onay numarası bulunur.
+(5) Hazır ambalajlı çiğ süt hariç, bu Tebliğ
+kapsamında son tüketiciye satılan çiğ sütler için bu maddede yer alan
+bilgiler tüketicinin kolaylıkla görebileceği bir şekilde bulunur, talep
+edilmesi halinde bu bilgiler yazılı olarak son tüketiciye verilir.
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Kayıtların
+tutulması
+MADDE 12
+– (1) Süt üreten hayvancılık
+işletmecisi, Gıda Hijyeni Yönetmeliğinin 9 uncu maddesinin birinci ve
+ikinci fıkrasında belirtilen kayıtlara ilave olarak aşağıdaki kayıtları
+tutar:
+a) Günlük olarak bu Tebliğ kapsamında sattığı çiğ
+süt miktarı.
+b) Çiğ sütü sattığı gıda işletmelerinin kayıt
+numaraları ile her bir gıda işletmesine sattığı günlük çiğ süt miktarı.
+c) Bu Tebliğ kapsamında arz edilen çiğ süt satışı
+ile ilgili her türlü satış belgesi.
+(2) Gıda işletmecisi sütü tedarik ettiği ve/veya
+arz ettiği gıda işletmesi ile ilgili bilgileri ve çiğ süt miktarına ilişkin
+kayıtları günlük olarak tutar.
+(3) Kayıt ve belgeler, gıda işletmecileri
+tarafından ait oldukları takvim yılının sonundan itibaren en az on iki
+aylık bir süre muhafaza edilir.
+İdari
+yaptırım
+MADDE 13
+– (1) Bu Tebliğe aykırı
+davrananlar hakkında 5996 sayılı Kanunun ilgili maddelerine göre idari
+yaptırım uygulanır.
+Uyum
+zorunluluğu
+GEÇİCİ
+MADDE 1 – (1) Bu Tebliğ kapsamında
+faaliyet gösteren işletmeler bu Tebliğ hükümlerine 31/12/2017 tarihine
+kadar uyum sağlamak zorundadır.
+Yürürlük
+MADDE 14
+– (1) Bu Tebliğ yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 15
+– (1) Bu Tebliğ hükümlerini Gıda,
+Tarım ve Hayvancılık Bakanı yürütür.
+Ekleri için tıklayınız.
