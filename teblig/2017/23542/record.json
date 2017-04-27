@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23542",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÇİĞ SÜTÜN ARZINA DAİR TEBLİĞ (TEBLİĞ NO: 2017/20)",
+  "number": "23542",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2017/23542",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23542&MevzuatTertip=5",
+  "source_sha256": "47605a974e5ba53935376fbd8d51963f40c21205fcd29092c086803508544ad7",
+  "source_bytes": 38563,
+  "published": "2017-04-27",
+  "gazette": "30050",
+  "in_force": "2017-04-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.04.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1950,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23542-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
