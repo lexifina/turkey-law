@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10643",
+  "decision_date": "2017-04-27",
+  "source_id": 24572,
+  "chamber": "1",
+  "ilam_number": "503",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24572/",
+  "source_sha256": "2f21aa62c87413e47b1a22161e6626b937083e6e20209e9032f386239fa557fe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
