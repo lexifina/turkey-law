@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10641",
+  "decision_date": "2017-04-27",
+  "source_id": 24571,
+  "chamber": "1",
+  "ilam_number": "282",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24571/",
+  "source_sha256": "ded980765a78f7f925d0cc934b08bd703ec3e152fac2aba184a391b1c4d21603",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
