@@ -1,0 +1,7 @@
+… Üniversitesi … Fakültesinde görevli ve bu fakülteye bağlı döner sermaye biriminde fiilen yöneticilik yapmakta olan akademik personele, 2547 sayılı Yükseköğretim Kanununun 58 inci maddesine göre mesai içi çalışmaları karşılığı yalnızca yönetici payı ödenmesi gerekirken; 375 sayılı Kanun Hükmünde Kararnamenin Ek 9 uncu maddesine göre de ek ödemede bulunulduğu tespit edilmiştir.
+
+2547 sayılı Kanunun 58 inci maddesi (f) ve (i) fıkralarına göre, herhangi bir döner sermaye biriminde yöneticilik yapmakta olup da 2547 sayılı Kanunun 58 inci maddesinin (f) fıkrası gereğince kendilerine yönetici payı ödemesi yapılanlara; ayrıca 375 sayılı Kanun Hükmünde Kararnamenin Ek 9 uncu maddesine göre ek ödeme yapılamaz.
+
+… Üniversitesi … Fakültesinde görevli ve bu fakülteye bağlı döner sermaye biriminde fiilen yöneticilik yapmakta olan akademik personele, 11 ay boyunca 375 sayılı Kanun Hükmünde Kararnamenin Ek 9 uncu maddesine göre ek ödemede bulunulduğu, döner sermaye gelirlerinin azlığı nedeniyle sadece Mart ayında bu birimin döner sermaye gelirlerinden kendilerine yönetici payı ödemesinde bulunulması neticesinde … TL kamu zararı oluştuğu görülmüştür.
+
+Bu itibarla, her ne kadar … TL kamu zararına neden olunmuşsa da söz konusu tutar tahsil edildiğinden ilişilecek husus kalmadığına, 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca işbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle,
