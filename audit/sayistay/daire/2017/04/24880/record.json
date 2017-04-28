@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35477",
+  "decision_date": "2017-04-28",
+  "source_id": 24880,
+  "chamber": "2",
+  "ilam_number": "247",
+  "item_number": 18,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24880/",
+  "source_sha256": "2a8ea2d442b5b6c6f6964d97579aa02f4544edc0138bf4678545d5fe33b0a99a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
