@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35478",
+  "decision_date": "2017-04-28",
+  "source_id": 25056,
+  "chamber": "2",
+  "item_number": 9,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25056/",
+  "source_sha256": "cdd987a880a862d18879ab5c712d1c35b2e8f3aea640e7bb3110040b590a8bbb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
