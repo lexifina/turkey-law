@@ -1,0 +1,15 @@
+… Üniversitesi Kurumsal Otomasyon Projesi Biriminde 01.01.2015-31.12.2015 tarihleri arasında uygulanan “Personel Hizmet Alımı İhalesi” kapsamında çalışan bazı personelin şartnamede aranan niteliği sağlamamasına rağmen bir üst kadro üzerinden yapılan hesaplamalar üzerinden yükleniciye ödemelerde bulunulduğu görülmüştür.
+
+01.01.2015-31.12.2015 tarihleri arasında uygulanan “Personel Hizmet Alımı İhalesi” 2 kısım olup, … Üniversitesi Kurumsal Otomasyon Projesi Biriminin de aralarında bulunduğu bazı birimlerin ihalesi, …. A. Ş.  yüklenimindedir.  Söz konusu işe ait Teknik Şartnamede bazı personel için vasıf farkı ödemesi öngörülmekte olup, söz konusu vasıf farkı ödemelerinin yapılabilmesi için gerekli olan eğitim ve tecrübe gereksinimleri liste halinde Teknik Şartnameye ek olarak ilan edilmiş ve duyurulmuştur. Buna göre ihale kapsamında yapılacak ödemeler, çalışacak vasıflı personelin söz konusu vasıfları taşıması şartıyla teknik şartname eki listede belirtilen oranlar üzerinden gerçekleşecektir.
+
+Personel dosyalarına göre personelden … ve …’nun yazılımcı kadrosu için Teknik Şartnamede öngörülen tecrübe gereksinimlerini sağlamadığı görülmüştür.
+
+Adı Soyadı	Kadro Umanı	Rol Unvanı	Minimum Eğitim Gereksinimi	Tecrübe gereksinimi	Minimum Tecrübe Yılı	Mevcut Personelin Durumu	Vasıf Farkı (Asgari Ücret Fazlası)
+
+…	Yazılımcı	Yazılım Geliştirme Uzman Yrd.	Önlisans	Bilgisayar Mühendisliği, Bilgisayar Programcılığı mezunu veya yükseköğretiminde yazılım alanı ile ilgili dersleri almış olmak; lisans mezunu olup bilişim alanında lisansüstü eğitim yapmış olmak ya da bilişim alanında ön lisans mezunu olmak	1	İşletme Mezunu	300
+
+…	Yazılımcı	Yazılım Geliştirme Uzman Yrd.	Önlisans	Bilgisayar Mühendisliği, Bilgisayar Programcılığı mezunu veya yükseköğretiminde yazılım alanı ile ilgili dersleri almış olmak; lisans mezunu olup bilişim alanında lisansüstü eğitim yapmış olmak ya da bilişim alanında ön lisans mezunu olmak	1	Önlisans Matbaacılık Bölümü Mezunu 	300
+
+Savunmalarda ilgili personellerin ön lisans mezunu olma şartını sağladığı, rol unvanı ile 1 yıl çalışmış olmakla da ayrıca teknik şartnamede belirtilen “eğitim” gereksinimini sağladığı ifade edilmişse de tecrübe gereksinimi olarak Şartnamede yer alan “Bilgisayar Mühendisliği, Bilgisayar Programcılığı mezunu veya yükseköğretiminde yazılım alanı ile ilgili dersleri almış olmak; lisans mezunu olup bilişim alanında lisansüstü eğitim yapmış olmak ya da bilişim alanında ön lisans mezunu olmak” şartını taşımadıkları anlaşıldığından ilgili kişilere vasıf farkı olarak Asgari Ücretin % 300 fazlasının ödenmesi mümkün değildir.
+
+Bu itibarla, Personel Hizmet Alımı İhalesi” kapsamında çalışan … ve …’na Teknik Şartnamede belirtilen şartları taşımadıkları halde % 300 oranında vasıf farkı ödenmesi neticesinde oluşan … TL kamu zararının sorumlulardan müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizi ile birlikte tazminine, aynı Kanunun 55 inci maddesi uyarınca işbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle,
