@@ -1,0 +1,5 @@
+… ihale kayıt numaralı ve “… Allerji Malzemeleri Temini” adlı ihalede başka bir firmanın vergi numarasını vererek ihaleye katılan … Ürünleri İthalat ve Ticaret A.Ş.’nin geçici teminatının gelir kaydedilmediği tespit edilmiştir.
+
+Sorguda her ne kadar ihalenin ilgili firmanın uhdesinde kaldığı belirtilerek geçici teminatının iade edildiği ifade edilmişse de savunmalardan firmanın birim fiyat teklif mektubunda verdiği vergi numarasının yasaklı başka bir firmaya ait olması nedeniyle uygun bulunmayarak tutanak tutulduğu ve ilgili firmanın ihale komisyonunca ihale dışı bırakıldığı anlaşılmıştır. Bununla birlikte geçici teminatının gelir kaydının sorgu üzerine … tarihinde yapıldığı görülmüştür.
+
+Bu itibarla, geçici teminatın gelir kaydedilmemesi neticesinde … TL kamu zararı oluşmuşsa da söz konusu tutar … tarihinde tahsil edilerek gelir kaydedildiğinden ilişilecek bir husus kalmadığına, 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca işbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle,
