@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35478",
+  "decision_date": "2017-04-28",
+  "source_id": 25070,
+  "chamber": "2",
+  "item_number": 23,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25070/",
+  "source_sha256": "720c6b91ff1e7b8a1d63b97fc0b9520ec8531b0184fa60161bb06458f6be2fcb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
