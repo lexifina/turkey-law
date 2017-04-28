@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.23545",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI, TESİS VE ONARIM İŞLERİ İHALELERİNDE KULLANILAN MÜTEAHHİTLİK KARNELERİ VE İŞ BİTİRME BELGELERİNİN 2017 YILINA AİT DEĞERLENDİRME KATSAYILARI HAKKINDA TEBLİĞ",
+  "number": "23545",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2017/23545",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23545&MevzuatTertip=5",
+  "source_sha256": "28c509611ca0703a75ee3c471b07dbf605bc10be4323528dc718b5a296e5b5a8",
+  "source_bytes": 68583,
+  "published": "2017-04-28",
+  "gazette": "30051",
+  "in_force": "2017-04-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.04.2017); own commencement article: \"Bu Tebliğ, 1/1/2017 tarihinden geçerli olmak üzere, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 1/1/2017 tarihinden geçerli olmak üzere, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 319,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
