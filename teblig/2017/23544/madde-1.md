@@ -1,0 +1,1 @@
+MADDE 1 – (1) Avrupa Komisyonu tarafından 2705 kimlik kayıt numarası tahsis edilmiş olan Femko Uluslararası Teknik Kontrol Eğitim Belgelendirme Limited Şirketinin Ek-1’de yer alan teknik düzenleme ve uygunluk değerlendirme modüllerinde onaylanmış kuruluş olarak görevlendirilmiştir.
