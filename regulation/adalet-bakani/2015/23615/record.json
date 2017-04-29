@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.23615",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BÖLGE ADLİYE VE ADLÎ YARGI İLK DERECE MAHKEMELERİ İLE CUMHURİYET BAŞSAVCILIKLARI İDARÎ VE YAZI İŞLERİ HİZMETLERİNİN YÜRÜTÜLMESİNE DAİR YÖNETMELİK",
+  "number": "23615",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2015/23615",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23615&MevzuatTertip=5",
+  "source_sha256": "80e917db43a602cd8c23dc800785846e62748b81f9d4435b3251a7c8ec71eb80",
+  "source_bytes": 473435,
+  "published": "2015-08-06",
+  "gazette": "29437",
+  "in_force": "2017-04-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/4/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-04-29",
+      "RG-29/4/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-04-29",
+      "29/4/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 28570,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23615-Ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
