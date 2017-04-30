@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-04-30",
+  "issue": "30053",
+  "edition": "regular",
+  "item": 16,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "İDARİ BAĞLILIĞIN DEĞİŞTİRİLMESİ KARARLARI",
+  "title": "Samsun İli Asarcık İlçesi Arıcak Mahallesi Kerimoğlu ve Dere Kümeleri Yerleşim Yerlerinin Aynı İlin Tekkeköy İlçesi Çayırçökek Mahallesine Bağlanması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170430-16.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170430.htm",
+  "index_sha256": "f0c2267e42cfc93e9dfebdc8d40f718a1b92247b3d47027e29ac44a0f5ba7cee",
+  "index_header": "30 Nisan 2017 ... 30053 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/04/20170430.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
