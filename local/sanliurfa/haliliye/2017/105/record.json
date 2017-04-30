@@ -1,0 +1,29 @@
+{
+  "number": "105",
+  "number_as_published": "2017/105",
+  "year": 2017,
+  "month": 4,
+  "title": "Gençlik ve Spor Komisyonun 20-21-22-23-24 - MART 2017 tarih ve 2017/03 sayılı raporu komisyondan geldiği şekliyle aynen oy birliği ile kabul edildi.",
+  "decision_date": null,
+  "index_date": "2017-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2017",
+  "source": "https://www.haliliye.bel.tr/icerik/1370/39/nisan-2017",
+  "official_page": "https://www.haliliye.bel.tr/icerik/1370/39/nisan-2017",
+  "official_document": null,
+  "source_sha256": "501e56c67aadf6bec4fb5d5cd039581f4d2d377c6f0e0afaad4f36cebaf441d9",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2017-04-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Nisan 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "NİSAN 2017",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
