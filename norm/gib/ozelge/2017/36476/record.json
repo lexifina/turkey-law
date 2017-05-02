@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.55.15.01-135[07-2017/ÖZE-01]-57",
+  "source_id": 36476,
+  "date": "2017-05-02",
+  "title": "Otomatik vitesli taşıt alımında ÖTV ve MTV istisnası.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/36476",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "df50d23c79eb4804b5e51e59746874264f30e1ab81be27d4d51d02290f18b263",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
