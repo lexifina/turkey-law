@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.01-140[111-2016/21]-36047",
+  "source_id": 36022,
+  "date": "2017-05-03",
+  "title": "Yeni çıkan sertifika türleri için sürücü kursuna program ilavesi yaparak tekrar ruhsat düzenlenmesinde harç uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36022",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "756bf3927a0b61e15f08083aca40163f0f2f4899b2e71528fd15bda143cbb803",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
