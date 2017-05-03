@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43059",
+  "decision_date": "2017-05-03",
+  "source_id": 13686,
+  "chamber": "6",
+  "file_number": "40009",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13686/",
+  "source_sha256": "f9315948156ad8ad9bc6025c3d3b21701296205c87f2e94fc2982643ec0e7f37",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
