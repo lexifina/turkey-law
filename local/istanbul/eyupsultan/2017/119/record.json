@@ -1,0 +1,22 @@
+{
+  "number": "119",
+  "number_as_published": "2017/119",
+  "year": 2017,
+  "title": "İlçemiz genelindeki devlet okullarına temizlik personeli görevlendirilmesi",
+  "decision_date": "2017-05-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2017-mayis-ayi-meclis-kararlari/1297",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-119/1303",
+  "source_sha256": "83c3cca07ae9e067e766b178043cb9bcbd04bb11054b3b4df9778858ccd46505",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-05-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.05.2017 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "4c81c02f8b2bc035d86cdc8e0e748b0ac64c84a84a7b5e641fd28e36abbc2f3b"
+}
