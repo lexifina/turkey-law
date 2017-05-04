@@ -1,0 +1,24 @@
+{
+  "number": "190",
+  "number_as_published": "2017/190",
+  "year": 2017,
+  "title": "Denizli Büyükşehir Belediye Meclisinin 13/12/2016 tarih ve 1546 sayılı kararı ile onaylanan Akhan ve Kale Mahallesi sınırları içerisinde Çevre ve Şehircilik Bakanlığı, Mekânsal Planlama Genel Müdürlüğünce onaylı imar planına esas Jeolojik ve Jeolojik Etüd Raporunda “Diri Fayların Tetiklediği İkincil (Tali) Fay Yüzey Deformasyonları Önlemli Alanlar” şeklinde belirtilen bölgede kalan muhtelif ada ve parseller ve çevreleri ile ilgili 1/5000 ölçekli Nazım İmar Planına uygun olarak hazırlanan ekli 1/1000 ölçekli Uygulama İmar Planı değişikliği, plan açıklama raporu ve plan hükümlerinin uygun görüldüğüne dair İmar Komisyonunca hazırlanan raporun kabulü hk.",
+  "decision_date": "2017-05-04",
+  "source": "https://www.pamukkale.bel.tr/y-220-2017-yili-mayis-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "db09e670611e797724849a00be345e4d6319e053ea256a62f2e11e9318593d96",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2017-05-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.05.2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.pamukkale.bel.tr/y-220-2017-yili-mayis-ayi-meclis-karar-ozetleri",
+  "listing_label": "2017 Yılı Mayıs Ayı Meclis Karar Özetleri",
+  "record_scope": "one council decision (published decision summary)"
+}
