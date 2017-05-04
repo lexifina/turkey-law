@@ -1,0 +1,23 @@
+{
+  "number": "meeting-05-04",
+  "number_as_published": "meeting-05-04",
+  "year": 2017,
+  "title": "04.05.2017 Meclis Karar Meclis Kararı",
+  "decision_date": "2017-05-04",
+  "source": "https://www.edremit.bel.tr/Guncel/MeclisKarar?sayfa=15",
+  "official_document": "https://edremit.bel.tr:8081/Upload/Mevzuat/f112289d-e943-476d-a6bf-c20e07c090c7.pdf",
+  "source_sha256": "77eb61e0b628e6e01982634e33a88c059a5f91cfe9cf47efc979f0d107f606a7",
+  "issuer": "Edremit Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-05-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.05.2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "04.05.2017 Meclis Karar Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
