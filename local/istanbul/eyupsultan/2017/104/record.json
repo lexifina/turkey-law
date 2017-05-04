@@ -1,0 +1,22 @@
+{
+  "number": "104",
+  "number_as_published": "2017/104",
+  "year": 2017,
+  "title": "Eyüp, Çırçır Mahallesi, 793 ada, 8-9-12 parsellerde 1/1000 ölçekli Uygulama İmar Planı değişikliği",
+  "decision_date": "2017-05-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2017-mayis-ayi-meclis-kararlari/1297",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-104/1300",
+  "source_sha256": "83c3cca07ae9e067e766b178043cb9bcbd04bb11054b3b4df9778858ccd46505",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-05-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.05.2017 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "ecc5f0ae7f6392ce36b6745a6d603663986ab555693fa5b3e029aa48dce0a1d1"
+}
