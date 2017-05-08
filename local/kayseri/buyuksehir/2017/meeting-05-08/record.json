@@ -1,0 +1,23 @@
+{
+  "number": "meeting-05-08",
+  "number_as_published": null,
+  "year": 2017,
+  "title": "8 Mayıs 2017 Tarihli Meclis Karar Özetleri",
+  "decision_date": "2017-05-08",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/8-mayis-2017-tarihli-meclis-karar-ozetleri",
+  "official_document": "https://www.kayseri.bel.tr/uploads/pdf/meclis_karar_ozetleri/karar_ozet_08.05.2017.pdf",
+  "source_sha256": "bf37490d9860c1d16f70fa4d6739cf0a013409d67c912ed04626b820818348d5",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-05-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 8 Mayıs 2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=9"
+}
