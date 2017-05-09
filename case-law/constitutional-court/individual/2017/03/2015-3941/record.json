@@ -1,0 +1,20 @@
+{
+  "applicant": "A.A. VE A.A.",
+  "application_date": "2015-03-04",
+  "application_number": "2015/3941",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2017-03-01",
+  "id": "4dab69cf-6e3f-51b6-5d64-e06b95c0eb56",
+  "in_force": "2017-05-09",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2017-05-09",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjRkYWI2OWNmLTZlM2YtNTFiNi01ZDY0LWUwNmI5NWMwZWI1Ng&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "5dcb219586e667b98aff28454a646a98a592b20d13eef338395373b5232f0a75",
+  "version_label": "as-enacted"
+}
