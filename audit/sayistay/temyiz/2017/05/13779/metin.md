@@ -1,0 +1,5 @@
+Yapım işinde bir imalatın birim fiyat tariflerine ve analizine uygun olarak yapılmaması
+
+3- 1393 sayılı İlamın 17. maddesinin G) bendiyle verilen … TL’nin tazminine dair hükümde Harcama Yetkilisi sıfatıyla iştiraki bulunan …, Gerçekleştirme Görevlisi sıfatıyla iştiraki bulunan …, …, …, …, …, …, …, …, … ve … ile Üst Yönetici sıfatıyla iştiraki bulunan (vefat etmiş) Belediye Başkanı …’in varisleri adına Avukat …’ın itiraz başvurusu üzerine düzenlenen 38379 sayılı dosya, 10.05.2017 tarih ve 43060 tutanak sayılı Temyiz Kurulu İlamı ile; karar düzeltilmesi yoluyla bozularak yeni birim fiyat (ya da fiyatlar) yapılarak kamu zararı değerlendirmesinin yeniden yapılmasını teminen Dairesine gönderildiğinden; yukarıda adı geçen sorumlu vekilini ilgilendiren ve aynı mahiyette olan 38383 sayılı işbu dosyanın da sözü edilen (38379 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE,
+
+Karar verildiği 10.05.2017 tarih ve 43062 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
