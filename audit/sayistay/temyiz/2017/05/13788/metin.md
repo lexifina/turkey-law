@@ -1,0 +1,5 @@
+Mükelleflere tahakkuk ettirilmesi gereken yol harcamalarına katılma paylarının tahakkuk ettirilmeyerek zamanaşımına uğratılması;
+
+230 sayılı İlamın 29. maddesiyle verilen … TL’nin tazminine dair hükümde Harcama Yetkilisi sıfatı ile iştiraki bulunan …’in itiraz başvurusu üzerine düzenlenen 39562 sayılı dosya, 10.05.2017 tarih ve 43070 tutanak sayılı Temyiz Kurulu İlamı ile; kamu zararına sebebiyet verilmediği ifade edilerek, buna ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanunu nun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle dairesine gönderildiğinden; bir diğer sorumluyu (Gerçekleştirme Görevlisi sıfatıyla temyiz talep eden AYKOME Şube Müdürü …’yı) ilgilendiren ve aynı mahiyette olan 39652 sayılı işbu dosyanın da sözü edilen (39562 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 10.05.2017 tarih ve 43071 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
