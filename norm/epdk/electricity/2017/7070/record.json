@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7070",
+  "decision_date": "2017-05-11",
+  "title": "Dagıtım Lisansı Sahibi Tüzel Kisiler Ve Görevli Tedarik Şirketlerinin Tarife Uygulamalarına İliskin .",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları",
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=L+FYT4Y4dsE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=L+FYT4Y4dsE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GzbLpwRNkmA="
+  ],
+  "source_sha256": "763ae7b6ddf06331a12b053caccab8761024e682db4543adc0f72c94ae2865c9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2017-05-11",
+  "law_text_complete": false
+}
