@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7074",
+  "decision_date": "2017-05-11",
+  "title": "Osmangazi Elektrik Dağıtım Anonim Şirketi’nin 2017 yılı sistem işletim gelir tavanına ilişkin",
+  "resmi_gazete_date": "2017-05-17",
+  "resmi_gazete_number": "30069",
+  "categories": [
+    "Gelir Tavanı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wQOhbroa7hU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wQOhbroa7hU="
+  ],
+  "source_sha256": "e5a1a3ba955fead258df033cbfcdf20a810a4102b1973ab7918708f8d58b57b0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1918,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2017-05-11",
+  "law_text_complete": false
+}
