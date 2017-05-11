@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.18581",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TEHLİKELİ VE ÇOK TEHLİKELİ SINIFTA YER ALAN İŞLERDE ÇALIŞTIRILACAKLARIN MESLEKİ EĞİTİMLERİNE DAİR YÖNETMELİK",
+  "number": "18581",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2013/18581",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18581&MevzuatTertip=5",
+  "source_sha256": "dcc5df4310ec7958ff226d2661f4ffe45f41eda009fb19cb09d166f3d0f23d24",
+  "source_bytes": 122806,
+  "published": "2013-07-13",
+  "gazette": "28706",
+  "in_force": "2017-05-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/5/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-05-11",
+      "RG-11/5/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-05-11",
+      "11/5/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2631,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
