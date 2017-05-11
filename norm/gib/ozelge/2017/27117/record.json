@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-105[VUK-1-20178]-129208",
+  "source_id": 27117,
+  "date": "2017-05-11",
+  "title": "Yurt dışından tahsil edilemeyen alacağa karşılık ayrılıp ayrılmayacağı ve değersiz alacak olarak değerlendirilip değerlendirilmeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27117",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "a4d41ab23026962b58fb912c654d0fbc031a3952e4a42e993148c0b6b1178752",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
