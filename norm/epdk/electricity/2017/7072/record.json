@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7072",
+  "decision_date": "2017-05-11",
+  "title": "Osmangazi Elektrik Dağıtım A.Ş.’nin 2016-2020 Üçüncü Uygulama Dönemi yatırım planı hakkında",
+  "resmi_gazete_date": "2017-05-17",
+  "resmi_gazete_number": "30069",
+  "categories": [
+    "Yatırım"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=x+vNVkRiY9k=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=x+vNVkRiY9k="
+  ],
+  "source_sha256": "094421ff1e6803321615ca77c1378a2030d0c518a51dfccd924384e43672a1b9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7535,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2017-05-11",
+  "law_text_complete": false
+}
