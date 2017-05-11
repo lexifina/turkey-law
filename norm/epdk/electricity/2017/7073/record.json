@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7073",
+  "decision_date": "2017-05-11",
+  "title": "Osmangazi Elektrik Dağıtım Anonim Şirketi’nin 2016-2020 üçüncü uygulama döneminin 2017-2020 yıllarına ait sistem işletim gelir gereksinimine ilişkin",
+  "resmi_gazete_date": "2017-05-17",
+  "resmi_gazete_number": "30069",
+  "categories": [
+    "Gelir Gereksinimi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S76kd/Pqx8Q=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S76kd/Pqx8Q="
+  ],
+  "source_sha256": "37e3bfe1134d6275ea42c2256e8d0c10ff4972fc8a1d4529cea31650f95c452a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1917,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2017-05-11",
+  "law_text_complete": false
+}
