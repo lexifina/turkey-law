@@ -1,0 +1,20 @@
+{
+  "applicant": "H.Y.",
+  "application_date": "2014-12-17",
+  "application_number": "2014/19607",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2017-05-11",
+  "id": "4db6c4de-6f7c-1533-ce08-9096e4a20aeb",
+  "in_force": "2017-05-11",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjRkYjZjNGRlLTZmN2MtMTUzMy1jZTA4LTkwOTZlNGEyMGFlYg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "78fca24ffac6510b9364678bd4ecc9e79787506ec4806527bd838cbef89f0f9f",
+  "version_label": "as-enacted"
+}
