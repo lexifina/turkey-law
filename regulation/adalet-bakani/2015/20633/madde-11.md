@@ -1,0 +1,5 @@
+Unvan değişikliği sınavının şekli
+MADDE 11 – (1) (Değişik:RG-11/5/2017-30063) 5 inci maddenin üçüncü fıkrasında belirtilen unvan değişikliğine tabi kadrolara, bu unvanları en az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz etmiş personelin atanması, bu Yönetmelikte belirtilen usul ve esaslar çerçevesinde yazılı ve sözlü olarak yapılacak unvan değişikliği sınavı sonucundaki başarısına göre gerçekleştirilir.
+(2) (Değişik:RG-11/5/2017-30063) Unvan değişikliği yazılı sınavı, Başkanlıkça belirlenecek görev alanları ve atama yapılacak görevin niteliğine ilişkin konularda yaptırılır ve bu sınava katılacaklarda, Başkanlıkta veya öğrenim durumları ile ilgisi bulunmayan görevlerde belirli süre hizmet yapmış olma şartı aranmaz. Unvan değişikliği sınavı kapsamındaki görevlere sadece Kurum personeli başvurabilir.
+(3) (Değişik:RG-11/5/2017-30063) Unvan değişikliği yazılı sınavında yüz puan üzerinden en az altmış puan alanlar sözlü sınava girmeye hak kazanırlar.
+(4) Bu Yönetmelik kapsamındaki personelden doktora öğrenimini bitirmiş olanlar, unvan değişikliği sınavına katılmaksızın öğrenimle ihraz edilen görevlere atanabilirler.

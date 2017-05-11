@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alt görev: 27/9/1984 tarihli ve 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+b) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+c) Bakan: Adalet Bakanını,
+ç) Bakanlık: Adalet Bakanlığını,
+d) Başkan: Adli Tıp Kurumu Başkanını,
+e) Başkanlık: Adli Tıp Kurumu Başkanlığını,
+f) Birim: 2659 sayılı Adlî Tıp Kurumu Kanununda ve 31/7/2004 tarihli ve 25539 sayılı Resmî Gazete’de yayımlanan Adli Tıp Kurumu Kanunu Uygulama Yönetmeliğinde belirtilen merkez ve taşra teşkilatı birimlerini,
+g) Görevde yükselme: 657 sayılı Devlet Memurları Kanununa tabi görevlerden bu Yönetmelikte belirtilen görevlere aynı veya başka hizmet sınıflarından yapılacak görevde yükselme niteliğindeki atamaları,
+ğ) (Değişik:RG-11/5/2017-30063) Görevde yükselme sınavı: Bu Yönetmelik hükümlerine göre görevde yükselme suretiyle yapılacak atamalarda, görevin niteliğine göre yapılması gereken yazılı ve sözlü sınavı,
+h) Görev grupları: Benzer ve/veya aynı düzeydeki unvanlardan oluşan grupları,
+ı) Görev unvanı: Bu Yönetmeliğin 5 inci maddesinde sayılan görev grupları içinde belirtilen görev unvanlarını,
+i) Hizmet süresi: 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) bendi hükümlerine göre hesaplanan süreleri,
+j) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç, diğer günleri,
+k) Kurum: Adli Tıp Kurumunu,
+l) Merkez teşkilatı: İstanbul’da bulunan Adli Tıp Kurumu merkez birimlerini,
+m) Personel: Adli Tıp Kurumu merkez ve taşra teşkilatı kadrolarında 657 sayılı Devlet Memurları Kanununa tabi olarak çalışan Devlet memurlarını,
+n) Taşra teşkilatı: Taşradaki Adli Tıp Kurumu grup başkanlıklarını ve adli tıp şube müdürlüklerini,
+o) Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere yapılan atamaları,
+ö) (Değişik:RG-11/5/2017-30063) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanacakların tabi tutulacağı yazılı ve sözlü sınavı,
+p) Üst görev: 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+ifade eder.
