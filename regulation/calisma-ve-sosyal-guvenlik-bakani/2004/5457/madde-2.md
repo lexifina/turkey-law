@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 —Bu Yönetmelik, 4857 sayılı İş Kanununun 71 inci maddesi gereğince, 18 yaşını doldurmamış çocuk ve genç işçiler bakımından yasak olan işler ile 15 yaşını tamamlamış, ancak 18 yaşını tamamlamamış genç işçilerin çalışmasına izin verilecek işler, 14 yaşını bitirmiş ve ilköğretimini tamamlamış çocukların çalıştırılabilecekleri hafif işler ve çalışma koşullarına ilişkin usul ve esasları kapsar.
