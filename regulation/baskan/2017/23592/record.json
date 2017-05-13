@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23592",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜKSEKÖĞRETİM KURULU ÖDÜL YÖNETMELİĞİ",
+  "number": "23592",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2017/23592",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23592&MevzuatTertip=5",
+  "source_sha256": "cd6f7037d817ac8d12eabcfe1740538bdd0a8ff17cfa0f81a131d5213b875d6d",
+  "source_bytes": 19358,
+  "published": "2017-05-13",
+  "gazette": "30065",
+  "in_force": "2017-05-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.05.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 743,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
