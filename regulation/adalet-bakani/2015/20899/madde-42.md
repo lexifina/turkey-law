@@ -1,0 +1,3 @@
+İstinaf kaydı
+MADDE 42 – (1) Mahkemelerce verilen hükümler aleyhine yapılan istinaf başvurularının işlendiği kayıttır.
+(2) Bu kayıt; sıra numarası, dosya esas ile karar numarası ve karar tarihi, istinaf yoluna başvuran ve aleyhine istinaf yoluna başvurulan tarafın sıfatı, adı ve soyadı, varsa kanunî temsilcisi ile vekilinin ad ve soyadı, istinaf dilekçe veya layiha kayıt tarihi ile tebliğ tarihleri, davanın türü, dosyanın bölge idare mahkemesinin hangi dairesine gönderildiği, gönderilme tarihi, karar tarihi, numarası ve tebliğ tarihi, dosyanın istinaf incelemesinden döndüğü tarih, istinaf şartlarının yerine getirilip getirilmediği ve sonucu ile düşünceler sütunlarından oluşur.

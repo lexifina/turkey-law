@@ -1,0 +1,3 @@
+Avukat stajyerleri ile idari yargı hâkim adaylarının yazı işleri hizmetlerinde çalıştırılması
+MADDE 8 – (1) Avukat stajyerleri, başkan veya görevlendirdiği üyenin uygun görmesi ile uygulama bilgilerini geliştirmek amacıyla yazı işleri hizmetlerinde çalıştırılabilir. Ancak bir defa yapmakla öğrenilebilecek işler devamlı yaptırılamaz.
+(2) İdari yargı hâkim adayları, 1/6/2004 tarihli ve 25479 sayılı Resmî Gazete’de yayımlanan Adli Yargı Hâkim ve Savcı Adayları ile İdari Yargı Hâkim Adaylarının Staj Dönemi ile Staj Mahkemelerine İlişkin Yönetmelik hükümlerine göre yazı işleri hizmetlerinde çalıştırılabilir.

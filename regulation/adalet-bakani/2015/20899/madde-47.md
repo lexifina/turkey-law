@@ -1,0 +1,3 @@
+Nakdi tazminat komisyonu karar kaydı
+MADDE 47 – (1) 6384 sayılı Avrupa İnsan Hakları Mahkemesine Yapılmış Bazı Başvuruların Tazminat Ödenmek Suretiyle Çözümüne Dair Kanun gereği İnsan Hakları Tazminat Komisyonunca verilen kararlar aleyhine yapılan itiraz başvurusu sonuçlarının işlendiği kayıttır.
+(2) Bu kayıt; sıra numarası, nakdi tazminat komisyonu itiraz numarası, karar veren hâkimlerin adı ve soyadı ile sicil numaraları, tarafların, varsa kanunî temsilcileri ile vekillerinin ad ve soyadları, varsa ticaret sicil numarası veya merkezî tüzel kişi kimlik numarası, karar tarihi ve sonucu ile düşünceler sütunlarından oluşur.

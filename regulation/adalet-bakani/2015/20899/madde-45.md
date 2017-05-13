@@ -1,0 +1,3 @@
+Kamu görevlileri karar kaydı
+MADDE 45 – (1) Dairelerde 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun gereği soruşturma izni verilmesi veya verilmemesi kararları aleyhine yapılan itiraz başvurusu sonuçlarının işlendiği kayıttır.
+(2) Bu kayıt; sıra numarası, itirazın konusu, kamu görevlileri itiraz numarası, karar veren hâkimlerin adı ve soyadı ile sicil numaraları, tarafların, varsa kanunî temsilcileri ile vekillerinin ad ve soyadları, varsa ticaret sicil numarası veya merkezî tüzel kişi kimlik numarası, karar tarihi ve sonucu ile düşünceler sütunlarından oluşur.

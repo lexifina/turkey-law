@@ -1,0 +1,3 @@
+Nakdi tazminat komisyonu itiraz kaydı
+MADDE 46 – (1) 19/1/2013 tarihli ve 6384 sayılı Avrupa İnsan Hakları Mahkemesine Yapılmış Bazı Başvuruların Tazminat Ödenmek Suretiyle Çözümüne Dair Kanun gereği İnsan Hakları Tazminat Komisyonunca verilen kararlar aleyhine yapılan itiraz başvurularının işlendiği kayıttır.
+(2) Bu kayıt; sıra numarası, itiraz dilekçesinin kayıt tarihi, komisyon karar tarihi ve numarası ile kararın tebliğ tarihi, itiraz edenin, varsa kanunî temsilcileri ile vekillerinin ad ve soyadları, varsa ticaret sicil numarası veya merkezî tüzel kişi kimlik numarası, üyeye havale tarihi, karar numarası, tarihi ve sonucu ile düşünceler sütunlarından oluşur.

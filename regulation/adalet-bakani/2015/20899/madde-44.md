@@ -1,0 +1,3 @@
+Kamu görevlileri itiraz kaydı
+MADDE 44 – (1) Dairelerde 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun gereği soruşturma izni verilmesi veya verilmemesi kararları aleyhine yapılan itiraz başvurularının işlendiği kayıttır.
+(2) Bu kayıt; sıra numarası, itiraz dilekçesinin kayıt tarihi, kurum karar tarihi ve numarası ile kararın tebliğ tarihi, tarafların, varsa kanunî temsilcileri ile vekillerinin ad ve soyadları, varsa ticaret sicil numarası veya merkezi tüzel kişi kimlik numarası, itiraz konusu, karar numarası, tarihi ve sonucu ile düşünceler sütunlarından oluşur.

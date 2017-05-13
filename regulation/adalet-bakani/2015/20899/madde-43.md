@@ -1,0 +1,3 @@
+Temyiz kaydı
+MADDE 43 – (1) Daireler veya mahkemelerce verilen hükümler aleyhine yapılan temyiz başvurularının işlendiği kayıttır.
+(2) Bu kayıt; sıra numarası, dosya esas ile karar numarası ve karar tarihi, temyiz yoluna başvuran ve aleyhine temyiz yoluna başvurulan tarafın sıfatı, adı ve soyadı, varsa kanunî temsilcisi ile vekilinin ad ve soyadı, temyiz dilekçe veya layiha kayıt tarihi ile tebliğ tarihleri, davanın türü, dosyanın Danıştayın hangi dairesine gönderildiği, gönderilme tarihi, karar tarihi, numarası ve tebliğ tarihi, dosyanın temyiz incelemesinden döndüğü tarih, temyiz şartlarının yerine getirilip getirilmediği ve sonucu ile düşünceler sütunlarından oluşur.

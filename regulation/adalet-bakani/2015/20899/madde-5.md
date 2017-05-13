@@ -1,0 +1,16 @@
+İKİNCİ BÖLÜM
+Bölge İdare Mahkemeleri, İdare Mahkemeleri ve Vergi Mahkemelerinin İdarî
+İşleriyle, Yazı İşleri Hizmetlerinin Yürütülmesine Dair Genel Esaslar
+UYAP’ın kullanılması
+MADDE 5 – (1) Bölge idare mahkemelerinin tüm birimleri ile idare mahkemeleri ve vergi mahkemelerinin iş süreçlerindeki her türlü veri, bilgi ve belge akışı ile dokümantasyon işlemleri, bu işlemlere ilişkin her türlü kayıt, dosyalama, saklama ve arşivleme işlemleri ile uyum ve işbirliği sağlanmış dış birimlerle yapılacak her türlü işlemler UYAP ortamında gerçekleştirilir.
+(2) Başkan, üye, müdür ve diğer personel iş listesini günlük olarak kontrol etmek, yargılama ile idarî işlerin bulunduğu aşamanın gereklerini yerine getirmek, ihtiyaç duyulan alanlarda veri ve bilgilerin derlenmesi, değerlendirilmesi ile gerekli adlî istatistiklerin üretilmesine esas bilgileri güvenilirlik, tutarlılık ve güncellik ilkelerine uygun olarak UYAP ortamına (Değişik ibare:RG-13/5/2017-30065) doğru, eksiksiz ve zamanında girmekle yükümlüdür.
+(3) Fizikî olarak gelen ve gönderilen her türlü evrak, elektronik ortama aktarılarak UYAP’a kaydedilir ve ilgili birime gönderilir.
+(4) Taraf ve vekilleri ile diğer ilgililer güvenli elektronik imza ile imzalamak suretiyle UYAP vasıtasıyla dairelere veya mahkemelere elektronik ortamda bilgi ve belge gönderebilirler.
+(5) Gelen evraktan sorumlu personel, UYAP üzerinden mahkemelere gönderilen ve iş listesine düşen belgeleri derhal ilgili kişiye aktarır.
+(6) Tutanak, belge ve kararlar elektronik ortamda düzenlenir ve gerekli olanlar ilgilileri tarafından güvenli elektronik imza ile imzalanır. Elektronik ortamda düzenlenen ve güvenli elektronik imza ile imzalanan evrak UYAP kapsamındaki birimlere elektronik ortamda gönderilir. Ayrıca fizikî olarak gönderilmez.
+(7) Teknik nedenlerle fizikî olarak düzenlenen belge veya kararlar, engelin ortadan kalkmasından sonra derhal elektronik ortama aktarılır, yetkili kişilerce güvenli elektronik imza ile imzalanarak UYAP’a kaydedilir ve gerektiğinde UYAP vasıtasıyla ilgili birimlere iletilir. Bu şekilde elektronik ortama aktarılarak ilgili birimlere iletilen belge ve kararların asılları mahallinde saklanır, ayrıca fizikî olarak gönderilmez. Ancak, belge veya kararın aslının incelenmesinin zorunlu olduğu hâller saklıdır. Elektronik ortama aktarılması imkânsız olan belgeler ise fizikî ortamda saklanır ve gerektiğinde fizikî olarak gönderilir.
+(8) UYAP üzerinden hazırlanmış ve güvenli elektronik imza ile imzalanmış evrakın dış birimlere elektronik ortamda gönderilememesi hâlinde; belge veya kararın fizikî örneği alınır, güvenli elektronik imza ile imzalanmış aslının aynı olduğu belirtilerek altı; başkan, görevlendirdiği üye veya yazı işleri müdürü tarafından imzalanmak sureti ile gönderilir.
+(9) Elektronik ortamda yapılan işlemlerde süre gün sonunda biter. Elektronik ortamda yapılacak işlemlerin, ertesi güne sarkmaması açısından saat 00:00’a kadar yapılması zorunludur.
+(10) Kanunlarda gösterilen istisnalar hariç olmak üzere, dosyalar güvenli elektronik imza kullanılarak UYAP’ta incelenebilir ve her türlü muhakeme işlemi yapılabilir.
+(11) Fizikî ortamda yapılan işlemlerde süre mesai saati sonunda biter.
+(12) Kullanıcı, kendi kullanıcı adı ile yapılan tüm işlemlerden sorumlu olup kullanıcı adı, her türlü şifre, parola ve elektronik imza cihazını başkaları ile paylaşamaz.

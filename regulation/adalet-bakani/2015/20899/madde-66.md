@@ -1,0 +1,3 @@
+Gelen evrakın dağıtılması
+MADDE 66 – (1) Dava ile ilgili daire veya mahkemeye sunulan her türlü dilekçe ve belge ön büroya ya da bulunmadığı yerlerde yazı işlerinde görevli personele teslim edilir. Dilekçe veya belgenin alındığına ve elektronik ortama aktarıldığına dair başvuru sahibine ücretsiz olarak bir alındı belgesi verilir. Bu belge aynı zamanda havale yerine geçer.
+(2) Fiziken teslim alınıp elektronik ortama aktarılan veya doğrudan elektronik ortamda gelen dilekçe ya da belge, başkan veyahut görevlendireceği personel tarafından incelendikten sonra dosyasına aktarılır ve gereken işleme tâbi tutulur.
