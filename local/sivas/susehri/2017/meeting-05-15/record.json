@@ -1,0 +1,27 @@
+{
+  "number": "meeting-05-15",
+  "number_as_published": "meeting-05-15",
+  "year": 2017,
+  "title": "15.05.2017 tarihli meclis kararları",
+  "decision_date": "2017-05-15",
+  "source": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=67",
+  "official_document": "https://susehri.bel.tr/img/belgeler/meclis-kararlari/2017/2017-05-15.doc",
+  "source_sha256": "7077b3a05652f1a9329f6a20f530452b8c2f0510d5694a62420d4eedb8626607",
+  "issuer": "Suşehri Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-05-15",
+  "in_force_basis": "Decision date as printed in the official council listing: 15.05.2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "15.05.2017 tarihli meclis kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=67",
+  "item_title": "2017 Mayis",
+  "file_label": "2017-05-15",
+  "date_read_from": "official file name (MK-yyyy-mm-dd)"
+}
