@@ -1,0 +1,2 @@
+Onursal Unvanlar
+Madde 20- Üniversite, yurtiçinde veya yurtdışında kendi bilim alanlarında olağanüstü başarı kazanmış kişilere veya Üniversiter yaşama üstün katkılarda bulunmuş şahsiyetlere. İlgili Fakülte Kurulunun önerisi üzerine Senato'nun, Mütevelli Heyeti üyelerinin de hazır bulunabilecekleri bir özel oturumda alacağı kararla, Onursal Doktora veya Onursal Profesörlük unvanı verebilir. Bu özel oturuma, Başkan, başkanlık eder.

@@ -1,0 +1,4 @@
+DÖRDÜNCÜ BÖLÜM
+Diğer Hükümler
+Danışma Kurulu
+Madde 18- Danışma Kurulu, Üniversitenin üst düzeydeki danışma organıdır. Danışma Kurulu, Atılım Üniversitesinin dünyadaki gelişmeler çerçevesinde hedeflerinin belirlenmesi ve Ülke içinde ve dışında tanıtılması için Mütevelli Heyetine tavsiyelerde bulunur. En az altı üyeden oluşur. Tabii üyeler bu sayının dışındadır. Danışma Kurulu üyeleri yurt İçinde veya dışında alanlarında temayüz etmiş bilim adamları, yöneticiler ve kurumun amacının gerçekleştirilmesinde yardımcı olacak diğer kişiler arasından seçilir. Mütevelli Heyeti Başkam ve Atılım Vakfı Başkanı başkanlıkları süresince bu kurulun tabii üyesidir. Diğer üyeler Kurucu Vakıf tarafından üç yıl için seçilir. Kurul senede en az bir defa toplanır. Toplantıya Mütevelli Heyeti Başkanı başkanlık eder. Toplantı nisabı olarak herhangi bir çoğunluk aranmaz.
