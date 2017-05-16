@@ -1,0 +1,8 @@
+Yönetim Kurulunun görevleri
+MADDE 11 – (1) Yönetim Kurulunun görevleri şunlardır:
+a) Merkezin amaçlarına yönelik bilimsel, teknik ve idari faaliyetleri planlamak.
+b) Merkezde çalışacak personelin niteliklerini belirlemek ve Merkezin yönetimi ve çalışması ile ilgili kararlar almak.
+c) Müdür tarafından hazırlanan yıllık çalışma programı ve yıllık faaliyet raporlarını görüşüp karara bağlamak.
+ç) Müdür ve Yönetim Kurulu üyelerinin önerilerini karara bağlamak.
+d) Çalışma grupları arasındaki koordinasyon ve denetimi sağlamak.
+e) Merkezin bütçesini görüşüp karara bağlamak.
