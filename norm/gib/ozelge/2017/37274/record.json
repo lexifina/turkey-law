@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76464994-175.02[BEL.GLR.2017.2] - 60224",
+  "source_id": 37274,
+  "date": "2017-05-16",
+  "title": "Elektrik ve Hava Gazı Tüketim Vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37274",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "da537be5849c50d2a48986925b806547dd1d7f4432512cf2dee01caa64a992c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
