@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7085",
+  "decision_date": "2017-05-16",
+  "title": "YekdemReferansBedelKurulKarari",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kAg/atOmqXo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kAg/atOmqXo="
+  ],
+  "source_sha256": "145809b994c38a6fe3bb426d7d2b2e06d744dd73ccc9d4506dc43efdce7f5ffb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2017-05-16",
+  "law_text_complete": false
+}
