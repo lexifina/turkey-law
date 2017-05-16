@@ -1,0 +1,25 @@
+{
+  "number": "meeting-05-16",
+  "number_as_published": "meeting-05-16",
+  "year": 2017,
+  "title": "16.05.2017 tarihli ve 2017/125-151 sayili UKOME Genel Kurul Kararlari",
+  "decision_date": "2017-05-16",
+  "source": "https://www.hatay.bel.tr/api/documents?menuItemId=4bc3bb41-7c7e-4536-9103-8c5932801e2c&page=12&pageSize=10&search=",
+  "official_document": "https://www.hatay.bel.tr/icerik/dosyalar/27122020123313.pdf",
+  "source_sha256": "23641ebbc1238c99244c52a9633d3aed3d4fe43f8394479c513a391c641ccc47",
+  "issuer": "Hatay Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-05-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16.05.2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "16.05.2017 tarihli ve 2017/125-151 sayili UKOME Genel Kurul Kararlari",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "listing_date": "16.05.2017",
+  "official_page": "https://www.hatay.bel.tr/ukome-kararlari"
+}
