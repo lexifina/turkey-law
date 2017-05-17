@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.21470",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SUÇ EŞYASI YÖNETMELİĞİ",
+  "number": "21470",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2016/21470",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21470&MevzuatTertip=5",
+  "source_sha256": "1891b033abec09c41fe396e8acc7093a1e0b86faf14885c4c4938c02327076f8",
+  "source_bytes": 74131,
+  "published": "2016-03-23",
+  "gazette": "29662",
+  "in_force": "2017-05-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/5/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-05-17",
+      "RG-17/5/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-05-17",
+      "17/5/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4508,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
