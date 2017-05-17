@@ -1,0 +1,3 @@
+Konu: Belediye mülkiyetinde bulunan ve ticari amaçla kiraya verilen gayrimenkulün kira bedeli ile ilgili Katma Değer Vergisi tahakkuk ve tahsili hakkında.
+
+2- 190 sayılı İlam’ın 3 üncü maddesi ile verilen hüküm, sorumlulukta Üst Yönetici sıfatıyla iştiraki bulunan …’un başvurusu üzerine düzenlenen 17.05.2017 tarih ve 43078 tutanak sayılı Temyiz Kurulu İlamının 2 nci maddesi ile bozulduğundan sorumlunun işbu madde ile ilgili itirazı üzerine Kurulumuzca Yapılacak İşlem Olmadığına; ancak aynı mahiyette olan bu dosyanın, gereği yapılmak üzere 43078 sayılı dosya ile BİRLEŞTİRİLEREK DAİRESİNE TEVDİİNE, Oybirliği ile,
