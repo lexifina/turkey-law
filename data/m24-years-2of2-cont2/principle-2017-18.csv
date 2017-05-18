@@ -1,0 +1,2 @@
+year,number,published,title,source,source_sha256,representation,act_path,words,omitted_sections,note
+2017,18,2017-05-18,Kurul’un 18/05/2017 Tarih ve 21/732 Sayılı Kararı,https://mevzuat.spk.gov.tr/api/IlkeKarari/File/18,f05e37c948fb309fa3906ef19f40c9afd924658985c55c19d33c0418547c970f,regulatory-text,norm/spk/principle/2017/18,481,,whole official standalone text; decision date independently present in PDF

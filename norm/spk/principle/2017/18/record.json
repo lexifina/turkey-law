@@ -1,0 +1,74 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "18",
+  "decision_number": "21/732",
+  "date": "2017-05-18",
+  "title": "Kurul’un 18/05/2017 Tarih ve 21/732 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/18",
+  "source_sha256": "f05e37c948fb309fa3906ef19f40c9afd924658985c55c19d33c0418547c970f",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 18,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 2. Kurul’un 18/05/2017 tarih ve 21/732 sayılı Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2017-05-18",
+    "source_clauses": [
+      "2. Kurul’un 18/05/2017 tarih ve 21/732 sayılı Kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "5bafb41e-96bb-450b-88fc-3dcdea193624",
+    "contentSource": "IlkeKarari",
+    "contentID": 18,
+    "tur": "Kurul Kararı",
+    "title": "Kurul’un 18/05/2017 Tarih ve 21/732 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2017-05-18T00:00:00",
+    "kurulKararTarih": "18.05.2017",
+    "kurulToplantiNo": "21/732",
+    "bultenYili": 2017,
+    "bultenNo": 19,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "81:Özel Durumlar Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 81,
+        "value": "Özel Durumlar Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "3:Kamunun Aydınlatılmasına İlişkin Esaslar;54:Özel Durumlar Rehberi",
+    "ilgiliKonular": [
+      {
+        "key": 3,
+        "value": "Kamunun Aydınlatılmasına İlişkin Esaslar"
+      },
+      {
+        "key": 54,
+        "value": "Özel Durumlar Rehberi"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/18",
+    "linkTarget": "_blank"
+  }
+}
