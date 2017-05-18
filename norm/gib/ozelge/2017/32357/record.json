@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[KDV.28]-135845",
+  "source_id": 32357,
+  "date": "2017-05-18",
+  "title": "TGTC' nin 3920.10.89.00.00 Tarife Pozisyon Numarasında Sınıflandırılan Tekstil Ürünleri ve Tül Perdelere İşlenen Pulların İthalinde ve Tesliminde Uygulanması Gereken KDV Oranı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32357",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "e0ec1ae4490371b7e6cc8b7f616b26b9f9f15695eef35db30e51ce7a1541b4e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
