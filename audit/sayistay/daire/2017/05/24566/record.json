@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "111",
+  "decision_date": "2017-05-18",
+  "source_id": 24566,
+  "chamber": "8",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24566/",
+  "source_sha256": "7ca3259de1ead189cc6b41336d3898068d10f5dbafede156cd944b6901507289",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
