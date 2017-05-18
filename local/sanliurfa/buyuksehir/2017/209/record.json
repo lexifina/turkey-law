@@ -1,0 +1,24 @@
+{
+  "number": "209",
+  "number_as_published": "209",
+  "year": 2017,
+  "title": "Nazını İmar Planı Değişikliği (Karaköprü/Narlıkuyu Mahallesi)",
+  "decision_date": "2017-05-18",
+  "source": "https://www.sanliurfa.bel.tr/icerik/4255/106/nazini-imar-plani-degisikligi-karakopru-narlikuyu-mahallesi",
+  "official_document": null,
+  "source_sha256": "5c790393863f6a13706b09e44e8a52a01de318081e61fa78fd0a2772ac274854",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2017-05-18",
+  "in_force_basis": "Decision date as printed in the official council listing: 18.05.2017 tarih ve 209 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2017-05-24",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=5"
+}
