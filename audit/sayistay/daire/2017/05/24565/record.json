@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "109",
+  "decision_date": "2017-05-18",
+  "source_id": 24565,
+  "chamber": "8",
+  "ilam_number": "334",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24565/",
+  "source_sha256": "2995904ea5ef5f9a0ab6ccd8b63152a0644d2a7f38e18dfbcf9ae44bfe13afc0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
