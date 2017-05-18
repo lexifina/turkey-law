@@ -1,0 +1,24 @@
+{
+  "number": "218",
+  "number_as_published": "218",
+  "year": 2017,
+  "title": "Nazım ve Uygulama İmar Planı",
+  "decision_date": "2017-05-18",
+  "source": "https://www.sanliurfa.bel.tr/icerik/4253/106/nazim-ve-uygulama-imar-plani",
+  "official_document": null,
+  "source_sha256": "2fe4f1b32625e3ad4af57087a3e3350b548ce31528aa1e98171a333170086637",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2017-05-18",
+  "in_force_basis": "Decision date as printed in the official council listing: 18.05.2017 tarih ve 218 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2017-05-24",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=5"
+}
