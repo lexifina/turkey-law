@@ -1,0 +1,24 @@
+{
+  "number": "425",
+  "number_as_published": "425",
+  "year": 2017,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI (KARAKÖPRÜ-MEHMETÇİK)",
+  "decision_date": "2017-05-22",
+  "source": "https://www.sanliurfa.bel.tr/icerik/4904/106/nazim-ve-uygulama-imar-plani-karakopru-mehmetcik",
+  "official_document": null,
+  "source_sha256": "f0c135b67722a1f5551753acab5788b5878a89d69904865520d61470cc6ccbda",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2017-05-22",
+  "in_force_basis": "Decision date as printed in the official council listing: 22.05.2017 tarih ve 425 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2017-10-03",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=5"
+}
