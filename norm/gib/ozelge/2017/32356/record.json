@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84695066-130[Kdv-1/3-d]-16",
+  "source_id": 32356,
+  "date": "2017-05-22",
+  "title": "İhale yoluyla satın alınan çift kabin pkp. cinsi aracın KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32356",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "724656036c703e0b4f3fbf94c2b88d1866173407cd22ab251f55e00ccafab953",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
