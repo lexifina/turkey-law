@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-93 / 2017-6",
+  "source_id": 748,
+  "date": "2017-05-23",
+  "title": "23 Mayıs 2017 günü sonuna kadar verilmesi gereken Muhtasar Beyannameler, Damga Vergisi Beyannameleri ile 24 Mayıs 2017 günü sonuna kadar verilmesi gereken Katma Değer Vergisi Beyannamelerinin verilme sürelerinin uzatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/748",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "449146bc21f3ae3ab6d3b6ce74b34530ede71d3f92563984b035dd02a4acf441",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
