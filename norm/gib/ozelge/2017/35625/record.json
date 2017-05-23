@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-140.04.01[2017/853]-160405",
+  "source_id": 35625,
+  "date": "2017-05-23",
+  "title": "6728 sayılı Kanunun yürürlük tarihinden sonra sona eren finansal kiralama sözleşmesinin süresi sonunda kiralanan taşınmazın kiracıya devri işleminde tapu harcı istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35625",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "41015d312f017a3113f618b322b25d091d939740c0f1dafa363cb585e6a899a6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
