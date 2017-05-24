@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7019",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Gümrük ve Ticaret Bakanlığı ile Azerbaycan Cumhuriyeti Devlet Gümrük İdaresi Arasında Gümrük Alanında Ortak Komite Kurulmasına İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-05-24",
+  "gazette_issue": "30075",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/05/20170524-14.htm",
+  "source_sha256": "dd34f9dfe60bedf501723f8254c12bde76c2fb6b66de05be0f68e82406efac58",
+  "text_sha256": "04b4952dde71143d6f449b9723fd86dc5ef6fd92337fb5ff645842c93ca0e5ad",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/05/24/30075-14",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/05/20170524-14.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
