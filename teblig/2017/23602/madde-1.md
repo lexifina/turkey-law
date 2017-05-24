@@ -1,0 +1,1 @@
+MADDE 1 – (1) Avrupa Komisyonu tarafından 2674 kimlik kayıt numarası tahsis edilmiş olan Standard Sertifikasyon Muayene Laboratuvar ve Eğitim Hizmetleri Anonim Şirketi, Ek-1’de yer alan teknik düzenleme ve uygunluk değerlendirme modüllerinde onaylanmış kuruluş olarak görevlendirilmiştir.

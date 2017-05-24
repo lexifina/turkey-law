@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23602",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "STANDARD SERTİFİKASYON MUAYENE LABORATUVAR VE EĞİTİM HİZMETLERİ ANONİM ŞİRKETİNİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (SGM: 2017/16)",
+  "number": "23602",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2017/23602",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23602&MevzuatTertip=5",
+  "source_sha256": "6c31cb8b896245de663e430a5948651e20cfca3cb4a9e16a16eb0e4b34740955",
+  "source_bytes": 7810,
+  "published": "2017-05-24",
+  "gazette": "30075",
+  "in_force": "2017-05-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.05.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 110,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23602-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

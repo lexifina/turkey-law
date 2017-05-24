@@ -1,0 +1,1 @@
+MADDE 2 – (1) 23/9/2016 tarihli ve 29836 sayılı Resmî Gazete’de yayımlanan Standard Muayene Eğitim Sertifikasyon ve Laboratuvar Hizmetleri Anonim Şirketi’nin Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (SGM: 2016/26) yürürlükten kaldırılmıştır.
