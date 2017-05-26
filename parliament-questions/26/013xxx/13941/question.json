@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 26,
+  "legislative_year": 2,
+  "esas_no": "7/13941",
+  "submitted": "2017-05-26",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Altan TAN",
+  "province": "Diyarbakır",
+  "summary": "2010-2017 yılları arasında Konya'da alınan teşvik belgesi sayısına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-6f6c-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "b111ebd771ba35582ef3b55734a9e0bd3d0868ea7be1e9e8035f15e20e0a582f",
+  "in_force": "2017-05-26",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
