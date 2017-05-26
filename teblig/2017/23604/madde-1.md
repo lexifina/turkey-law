@@ -1,0 +1,1 @@
+MADDE 1 – (1) Avrupa Komisyonu tarafından 2138 kimlik kayıt numarası tahsis edilmiş olan Alberk QA Uluslararası Teknik Kontrol ve Belgelendirme Anonim Şirketi, Ek-1’de yer alan teknik düzenleme ve uygunluk değerlendirme modüllerinde onaylanmış kuruluş olarak görevlendirilmiştir.
