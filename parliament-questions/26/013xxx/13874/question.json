@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 26,
+  "legislative_year": 2,
+  "esas_no": "7/13874",
+  "submitted": "2017-05-29",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa Hüsnü BOZKURT",
+  "province": "Konya",
+  "summary": "TBMM Ana Bina'nın yıkılacağı iddiasına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-6f29-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "ac603a8052ea6839aa4388c7f9b179392f03c4ba0a3202383fe72fb76e58bdeb",
+  "in_force": "2017-05-29",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
