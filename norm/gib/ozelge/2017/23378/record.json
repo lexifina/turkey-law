@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11949253-010-10",
+  "source_id": 23378,
+  "date": "2017-05-29",
+  "title": "Kooperatifin sözleşme kapsamındaki faaliyetlerinden dolayı mükellefiyet tesis edilip edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/23378",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "092c198fabdaea2d788c19fdc5a28299f0f07ea17eb71dcea9028889d4aa7c62",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
