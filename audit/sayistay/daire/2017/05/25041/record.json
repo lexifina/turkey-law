@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "164",
+  "decision_date": "2017-05-30",
+  "source_id": 25041,
+  "chamber": "4",
+  "ilam_number": "344",
+  "item_number": 1,
+  "public_body_type": "Sosyal Güvenlik Kurumları",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25041/",
+  "source_sha256": "840e59fd8808b9c6bd5d41ddcb564e758e33f0d6a564ab6d54e1ba4cdfd368a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
