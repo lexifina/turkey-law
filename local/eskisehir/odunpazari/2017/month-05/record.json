@@ -1,0 +1,29 @@
+{
+  "number": "month-05",
+  "year": 2017,
+  "month": 5,
+  "title": "MAYIS 2017 MECLİS KARAR ÖZETİ",
+  "decision_date": null,
+  "index_date": "2017-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2017",
+  "source": "https://www.odunpazari.bel.tr/kurumsal/liste/meclis-kararlari?page=9",
+  "official_page": "https://www.odunpazari.bel.tr/kurumsal/meclis-kararlari/mayis-2017-meclis-karar-ozeti",
+  "official_document": "https://www.odunpazari.bel.tr/kurumsal/meclis-kararlari/mayis-2017-meclis-karar-ozeti",
+  "source_sha256": "a813a92ae14e82180704c1f7d41aefebb6da936160f181c48da593f1527b1596",
+  "issuer": "Odunpazarı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2017-05-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mayıs 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "MAYIS 2017 MECLİS KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decision summaries are published as text on the official page itself (no separate file); not transcribed here"
+}
