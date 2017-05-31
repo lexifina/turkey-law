@@ -1,0 +1,29 @@
+{
+  "number": "month-05",
+  "year": 2017,
+  "month": 5,
+  "title": "Mayıs Ayı Meclis Kararı",
+  "decision_date": null,
+  "index_date": "2017-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2017",
+  "source": "https://www.yalovaozelidare.gov.tr/2017-yili-meclis-kararlari",
+  "official_page": "https://www.yalovaozelidare.gov.tr/2017-yili-meclis-kararlari",
+  "official_document": "https://www.yalovaozelidare.gov.tr/kurumlar/yalovaozelidare.gov.tr/Tasarim/karar_organlari/meclis_calismalari/MeclisKarar/2017/05_2017_mayis_meclis_karar.zip",
+  "source_sha256": "95d3e144d95acbd58b821d4dc86e880c3c6475a29a1ce07a0dd7c7f9a87755e2",
+  "issuer": "Yalova İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2017-05-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mayıs 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Mayıs Ayı Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2017 Yılı Meclis Kararları"
+}
