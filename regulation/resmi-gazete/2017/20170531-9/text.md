@@ -1,0 +1,239 @@
+31 Mayıs 2017 ÇARŞAMBA
+Resmî Gazete
+Sayı : 30082
+YÖNETMELİK
+Atatürk Üniversitesinden:
+ATATÜRK ÜNİVERSİTESİ HALI KİLİM VE EL SANATLARI
+UYGULAMA
+VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; Atatürk Üniversitesi
+Halı Kilim ve El Sanatları Uygulama ve Araştırma Merkezinin amaçlarına,
+faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine
+ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Atatürk Üniversitesi Halı Kilim
+ve El Sanatları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet
+alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve
+çalışma şekline ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 4/11/1981
+tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci
+maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14
+üncü maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+b) Koordinatör: Merkezin Koordinatörünü,
+c) Merkez: Halı Kilim ve El Sanatları Uygulama ve
+Araştırma Merkezini,
+ç) Müdür: Merkezin Müdürünü,
+d) Rektör: Atatürk Üniversitesi Rektörünü,
+e) Üniversite: Atatürk Üniversitesini,
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin
+amacı
+MADDE 5 – (1) Merkezin
+amacı; başta Erzurum el halısı olmak üzere Erzurum ve yöresinde gelenek
+halini almış her türlü el dokuması halı, kilim ve el sanatlarını incelemek,
+standart ve teknik özellikleri konusunda araştırma ve inceleme yapmak,
+öğrenci ve kursiyerlere eğitim vermek ve uygulama-staj ortamı sağlamak,
+yöre halkına dokuma tasarımı, yöntemleri, ürün çeşitlemesi ve turizme
+yönelik tanıtım konusunda yardımcı olarak üretimi desteklemektir.
+Merkezin
+faaliyet alanları
+MADDE 6 – (1) Merkez, amacına ulaşmak için aşağıdaki
+faaliyetlerde bulunur:
+a) Geçmişten bu güne Erzurum ve yöresinde başta
+Erzurum el halısı, her türlü halı, kilim ve el sanatlarının gelişimini,
+halı, kilim ve el sanatları olmak üzere iki bölümde incelemek,
+b) Geçmiş deneyimleri de dikkate alarak Erzurum el
+halılarının standart ve teknik özelliklerini geliştirmek, bu özelliklerin,
+standart formatta oluşturulacak, ürüne özel etiketlerde yer almasını
+sağlamak,
+c) Geliştirilen ürünlerin tanıtımı ve pazarlanması
+ve değerlendirilmesini sağlamak, turizme yönelik ürün çeşitlemesi ve özel
+sipariş amaçlı çalışmaları yürütmek, gerektiğinde turizm hizmeti
+sağlayıcılarıyla işbirlikleri gerçekleştirmek,
+ç) Başta Erzurum el dokuma halı ve kilimleri olmak
+üzere diğer tüm el dokuma halı ve kilimler için ait oldukları teknik ve
+standartlara uygunlukları konularında test, analiz ve değerlendirme yapmak,
+d) Talep halinde kamu kurum veya kuruluşları ile
+özel sektör ve diğer kuruluşlar için bilirkişilik yapmak, rapor düzenlemek,
+e) Konusuyla ilgili uluslararası konferans, kongre,
+panel, atölye, sergi, ödüllü yarışma gibi faaliyetler düzenlemek, bu konuda
+çalışanları teşvik etmek,
+f) Araştırmaların sonuçlarını yayımlamak,
+üretimleri sergilemek, Erzurum ve yöresinde halı, kilim ve el sanatları ile
+ilgili dergi, kitap, broşür, rehber ve katalog basım ve dağıtımı yapmak,
+g) Erzurum ve yöresindeki yerel ve geleneksel halı,
+kilim ve el sanatları üretiminin, tasarım ve geliştirme çalışmalarını
+yapmak,
+ğ) Başta Atatürk Üniversitesi Güzel Sanatlar
+Fakültesi Geleneksel Türk El Sanatları Bölümü akademik personeli olmak
+üzere bu alanlarda çalışan tüm araştırmacılara ve sanatçılara, talepleri
+halinde, Müdür ve Yönetim Kurulunun uygun görüşü ile Merkezin faaliyetleri
+konusunda işbirliği protokolleri oluşturmak,
+h) Her düzeydeki öğrenciler ve diğer talep eden
+kursiyerler için halı, kilim ve el sanatları ile ilgili; staj, kurs,
+seminer ve yaz okulları düzenlemek,
+ı) El dokuma ve el sanatları konusunda, her meslek
+ve yaş grubuna yönelik boş zamanları değerlendirme amaçlı hobi atölyesi
+oluşturarak, dokumaya ilişkin ilgiyi canlı tutmak ve sürdürülebilir
+olmasına katkı sağlamak,
+i) Erzurum ve yöresinde halı, kilim ve el
+sanatlarına ait örnekler derlemek, koleksiyonlar oluşturmak, gerektiğinde
+bunların yeniden üretilmesi için çalışmalar yapmak,
+j) Halı, kilim ve el sanatlarının korunması ve
+sergilenmesi için çalışmalar yapmak,
+k) Gelen talepleri değerlendirerek el dokuma halı
+ve kilimler için koruma ve restorasyon çalışmaları
+yapmak,
+l) Talep edilmesi halinde başka bölgelerde halı,
+kilim ve el sanatları atölye sistemleri kurmak,
+m) Yurt içi ve yurt dışındaki benzer araştırma
+merkezleri ile işbirliği yapmak,
+n) Yönetim Kurulunun kararlaştırdığı diğer
+faaliyetleri gerçekleştirmek.
+ÜÇÜNCÜ BÖLÜM
+Merkezin Yönetim Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 – (1) Merkezin yönetim organları, Müdür, Yönetim
+Kurulu ve Danışma Kuruludur.
+Müdür ve
+müdür yardımcıları
+MADDE 8 – (1) Müdür; Üniversite öğretim üyeleri arasından
+Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Müdür
+yeniden görevlendirilebilir. Müdür görevi başında bulunmadığı zaman müdür
+yardımcılarından birini vekil tayin eder. Vekâlet süresi altı aydan fazla
+olamaz. Altı ayı geçen vekâlet durumunda yeni bir Müdür görevlendirilir.
+(2) Müdür, çalışmalarında kendisine yardımcı olmak
+için, Üniversitedeki öğretim elemanları arasından iki kişiyi müdür
+yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdürün
+görevi sona erdiğinde yardımcılarının da görevi sona erer.
+Müdürün
+görevleri
+MADDE 9 –
+(1) Müdürün görevleri şunlardır:
+a) Merkezi temsil ve Yönetim Kuruluna başkanlık
+etmek,
+b) Yönetim Kurulu kararlarını uygulamak,
+c) Merkezin idari ve mali işlerini yürütmek,
+gerekli koordinasyon ve denetimi sağlamak, yazışmaları yapmak ve yaptırmak,
+ç) Yönetim Kurulu onayıyla Merkez Koordinatörü ve
+diğer Merkez personelini belirleyerek Rektörün onayına sunmak.
+(2) Müdür, Merkezin çalışma kapasitesinin rasyonel
+bir şekilde kullanılmasından, çalışmaların düzenli bir şekilde
+yürütülmesinden, faaliyetlerin gözetimi ve denetiminden Rektöre karşı
+sorumludur.
+Yönetim
+Kurulu
+MADDE 10
+– (1) Yönetim Kurulu, Müdür dâhil
+beş kişiden oluşur. Müdür dışındaki diğer dört üye, Müdürün önerileri
+doğrultusunda, Üniversitede Merkezin faaliyet alanına giren konularda uzman
+ve tam gün çalışan öğretim elemanları arasından Rektör tarafından seçilerek
+görevlendirilir. Yönetim Kurulu iki ayda bir kez olağan şekilde toplanır.
+Yönetim Kurulu, üyelerin talepleri doğrultusunda ve Müdürün çağrısı üzerine
+olağanüstü olarak da toplanabilir. Yönetim Kurulu, üyelerin salt çoğunluğu
+ile toplanır ve kararlar oy çokluğu ile alınır. Oyların eşit olması
+durumunda ise Müdürün oyu yönünde çoğunluk sağlanmış sayılır.
+Yönetim
+Kurulunun görevleri
+MADDE 11
+– (1) Yönetim Kurulunun görevleri
+şunlardır:
+a) Yıllık çalışma programını hazırlamak ve
+uygulamak,
+b) Müdür tarafından hazırlanan yıllık faaliyet
+raporlarını inceleyerek karara bağlamak,
+c) Merkez bünyesinde çalıştırılmak için Müdür
+tarafından önerilen personelin seçimini yapmak,
+ç) Merkezin bilimsel araştırma, sergi, üretim,
+yayın hazırlık gibi faaliyetlerini ve bu faaliyetlerin plan ve program
+esaslarını kararlaştırmak,
+d) Araştırma, eğitim ve diğer etkinlik programları,
+projeler ve Merkez faaliyetlerinin tanıtım çalışmaları, mali destek ve
+yayım konularına ilişkin esasları belirlemek ve karara bağlamak,
+e) Ulusal ve uluslararası kurum ve kuruluşlarla
+işbirliği esaslarını ve yürütme koşullarını belirlemek,
+f) Merkezin bünyesinde kurulacak bilimsel çalışma
+gruplarında görevlendirilecek öğretim elemanlarının değerlendirilmelerine
+yardımcı olmak,
+g) Uygulama ve araştırma projelerini, kurs vb.
+eğitim önerilerini bilimsel çalışma kurullarının da katkıları ile
+değerlendirmek, görevlendirilecek kişi, kuruluş ve birimleri belirlemek,
+ğ) Yıllık faaliyet değerlendirmesi yaparak sonraki
+yıllar için strateji geliştirmek ve Merkezin faaliyet alanı kapsamına giren
+diğer konularda Müdüre yardımcı olmak.
+Danışma
+Kurulu
+MADDE 12
+– (1) Danışma Kurulu; Merkezin
+faaliyetlerine katkı sağlayabilecek görevler sürdüren Üniversitenin
+akademik personeli ile kamu kurumları ve özel sektör ile vakıf, dernek,
+kooperatif gibi sivil toplum ve mesleki kurum ve kuruluşların temsilcileri
+arasından Yönetim Kurulu tarafından görevlendirilen en fazla 15 kişiden
+oluşur. Danışma Kurulu toplantılarına üç kez mazeretsiz katılmayanların
+üyeliği düşer. Danışma Kurulunda yer alan Üniversite akademik personeli üye
+sayısı, toplam üye sayısının yarısından fazla olamaz.
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda
+en az iki kere salt çoğunlukla toplanır ve kararlar toplantıya katılanların
+salt çoğunluğu ile alınır. Müdür, Danışma Kuruluna başkanlık eder. Müdürün
+daveti üzerine Yönetim Kurulu toplantıları ile Danışma Kurulu toplantıları
+aynı anda ve ortak olarak yapılabilir.
+Danışma
+Kurulunun görevleri
+MADDE 13
+– (1) Danışma Kurulunun görevleri
+şunlardır:
+a) Merkezle ilgili faaliyetleri değerlendirerek
+Yönetim Kuruluna Merkezin tüm faaliyetleri konusunda yönlendirici düzeyde
+öneriler içeren rapor sunmak,
+b) Merkezin amaçları doğrultusunda çeşitli proje
+önerilerinde bulunmak ve bu projelerin gerçekleştirilmesine yönelik ilgili
+kişi ve kuruluşlarla işbirliğinin geliştirilmesine yardımcı olmak.
+Koordinatör
+MADDE 14
+– (1) Koordinatör; Üniversitede
+tam zamanlı görev yapmakta olan öğretim elemanları arasından Müdürün
+önerisi ve Yönetim Kurulu kararı ile görevlendirilir. Koordinatör Müdüre
+bağlı olarak çalışır. Koordinatör, Müdür ile diğer Merkez personeli ve dış
+paydaşlarla olan ilişkileri koordine eder, Müdür tarafından verilen diğer
+görevleri yerine getirir.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Personel
+ihtiyacı
+MADDE 15
+– (1) Merkezin akademik, teknik ve
+idari personel ihtiyacı; 2547 sayılı
+Kanunun 13 üncü maddesi uyarınca Rektör tarafından görevlendirilen personel
+tarafından karşılanır. İhtiyaç halinde, ulusal ve uluslararası düzeyde
+işbirliği yapılan tüm kurum ve kuruluşlardan da personel desteği
+alınabilir.
+Ekipman
+ve demirbaşlar
+MADDE 16
+– (1) Merkez faaliyetleri ve
+araştırmaları kapsamında alınan her türlü teçhizat, donanım ve demirbaşlar
+Merkezin kullanımına tahsis edilir.
+Hüküm
+bulunmayan haller
+MADDE 17
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde ilgili diğer mevzuat hükümleri uygulanır.
+Yürürlük
+MADDE 18
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 19
+– (1) Bu Yönetmelik hükümlerini
+Atatürk Üniversitesi Rektörü yürütür.
