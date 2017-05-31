@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23618",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "INSPECCO BELGELENDİRME VE GÖZETİM HİZMETLERİ ANONİM ŞİRKETİNİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (SGM: 2017/19)",
+  "number": "23618",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2017/23618",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23618&MevzuatTertip=5",
+  "source_sha256": "9d3980efec0f5e65d5912da2f81f4f28a2a92949bbb418b2ef4f0b7722515a8e",
+  "source_bytes": 8055,
+  "published": "2017-05-31",
+  "gazette": "30082",
+  "in_force": "2017-05-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.05.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 104,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23618-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

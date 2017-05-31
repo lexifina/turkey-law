@@ -1,0 +1,1 @@
+MADDE 2 – (1) 19/7/2013 tarihli ve 28712 sayılı Resmî Gazete’de yayımlanan Inspecco Belgelendirme ve Gözetim Hizmetleri Limited Şirketi’nin Onaylanmış Kuruluş Olarak Görevlendirilmesine Dair Tebliğ (SGM: 2013/13) yürürlükten kaldırılmıştır.

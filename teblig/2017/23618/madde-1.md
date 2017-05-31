@@ -1,0 +1,1 @@
+MADDE 1 – (1) Avrupa Komisyonu tarafından 2459 kimlik kayıt numarası tahsis edilmiş olan Inspecco Belgelendirme ve Gözetim Hizmetleri Anonim Şirketi, Ek-1’de yer alan teknik düzenleme ve uygunluk değerlendirme modüllerinde onaylanmış kuruluş olarak görevlendirilmiştir.
