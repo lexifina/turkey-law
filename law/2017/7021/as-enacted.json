@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7021",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Sağlık Bakanlığı ile Irak Cumhuriyeti Sağlık Bakanlığı Arasında Sağlık Alanında İş Birliğine Dair Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-05-31",
+  "gazette_issue": "30082",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/05/20170531-13.htm",
+  "source_sha256": "414f853beb19b9cd7a90aea7b386ab7415f391ab7de34bfc9c2d6b09a41c2855",
+  "text_sha256": "dd95a4b7a00b47af5a341be256bbf684e1e33c168f1b24c6489542485d750f19",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/05/31/30082-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/05/20170531-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
