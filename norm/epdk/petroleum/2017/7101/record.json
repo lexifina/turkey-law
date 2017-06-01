@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7101",
+  "decision_date": "2017-06-01",
+  "title": "Total Oil Türkiye A.Ş.’nin; DEP/476-163/10883 sayılı depolama lisansı kapsamında Atatürk Mah. Karaağaç Cad. No:9 Aliağa-İZMİR adresinde faaliyette bulunan Aliağa Akaryakıt Depolama ve Dolum Tesisine ilişkin depolama tarifesi",
+  "resmi_gazete_date": "2017-06-03",
+  "resmi_gazete_number": "30085",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Lq2Cn7t6EUU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Lq2Cn7t6EUU="
+  ],
+  "source_sha256": "480102ad7300d4c3ddbf8d12055ad81a8523704151a85cdd11ab5c1a0b78b13a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2017-06-01",
+  "law_text_complete": false
+}
