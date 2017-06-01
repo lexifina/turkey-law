@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "19341373-125[ÖZELGE-2015/2]-62",
+  "source_id": 24246,
+  "date": "2017-06-01",
+  "title": "Devir Alınan Ferdi İşletmenin Geçmiş Yıl Zararlarının Mahsubu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24246",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "2b6da66acda632aff015f4fe73f5f44b68419f2f53548e70f90d33fc0a362460",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
