@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Türkiye ve Orta Doğu Amme İdaresi Enstitüsü Genel Müdürlüğünde, 657 sayılı Devlet Memurları Kanununa tabi olarak görev yapan personelin müdür ve daha alt düzeydeki görevlere, görevde yükselme veya unvan değişikliği suretiyle yapılacak atamaları kapsar.
+(2) (Değişik:RG-17/6/2010-27614) Bu Yönetmelik kapsamında bulunan ve doktora öğrenimini bitiren personelden, atanılacak görev için aranan ve 6 ncı maddenin birinci fıkrasının (a) bendine göre hesaplanacak toplam hizmet süresine sahip olmaları ve bu Yönetmelikte aranan öğrenim şartını taşımaları kaydıyla, uzman veya aynı düzeydeki görevler ile daha alt görevlere, yapılacak atamalarda bu Yönetmelik hükümleri uygulanmaz.

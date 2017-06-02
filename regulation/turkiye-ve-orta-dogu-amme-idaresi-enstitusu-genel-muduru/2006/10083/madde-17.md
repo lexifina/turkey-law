@@ -1,0 +1,5 @@
+Sınav kurulu
+MADDE 17 – (Değişik:RG-8/4/2015-29320)
+(1) Sınav Kurulu veya kurulları, bu Yönetmelik gereği yapılması gereken işlemler ve Genel Müdürlükçe yaptırılacak olan sınavları gerçekleştirmek üzere Genel Müdür tarafından oluşturulur. Sınav Kurulu veya kurulları, Genel Müdür veya görevlendireceği bir başkan, üç üye ve Personel Müdürü olmak üzere toplam beş kişiden oluşur. İhtiyaç duyulması halinde kurum dışından kamu görevlileri arasından kurullara üye veya üyeler görevlendirilebilir. Sınav Kurulu ve kurulları için aynı usulle iki yedek üye belirlenir. Sınav Kurulu, üye tam sayısı ile toplanır. Kararlar oy çokluğuyla alınır ve çekimser oy kullanılamaz.
+(2) Sınav Kurulunun başkan ve üyelerinin görevde yükselme sınavına eşlerinin, ikinci dereceye kadar (bu derece dahil) kan ve sıhri hısımlarının katıldığının tespit edilmesi halinde, bu üye veya üyeler sınav kurulu üyeliğinden çıkartılır ve bunların yerine yeni üye veya üyeler görevlendirilir.
+(3) Sınav Kurulunu teşkil eden üyeler, sınava alınacak personelden, lisansüstü öğrenim hariç öğrenim durumu ve ihraz ettikleri unvanlar itibariyle daha düşük seviyede olamazlar.
