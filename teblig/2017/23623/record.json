@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23623",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "7020 SAYILI KANUN KAPSAMINDA GÜMRÜK ALACAKLARININ YENİDEN YAPILANDIRILMASINA İLİŞKİN TEBLİĞ",
+  "number": "23623",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2017/23623",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23623&MevzuatTertip=5",
+  "source_sha256": "e63a7b3bcccd84c810cea4822124a6460821714ff0d8f91c4223343fed986966",
+  "source_bytes": 44208,
+  "published": "2017-06-03",
+  "gazette": "30085",
+  "in_force": "2017-06-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.06.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2670,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23623-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
