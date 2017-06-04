@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu, 16/4/2003 tarihli ve 4848 sayılı Kültür ve Turizm Bakanlığı Teşkilat ve Görevleri Hakkında Kanun ile 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelik hükümlerine dayanılarak hazırlanmıştır.

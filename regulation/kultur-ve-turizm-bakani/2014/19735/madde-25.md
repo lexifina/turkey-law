@@ -1,0 +1,4 @@
+Kurum içi ve kurum dışından yapılacak atamalar
+MADDE 25 – (1) (Değişik:RG-21/6/2015-29393) Görevlerinden herhangi bir şekilde ayrıldıktan sonra tekrar dönmek isteyenler, genel hükümlere göre belirlenen şartları taşımaları ve boş kadro bulunması halinde, ihtiyaç ve hizmet gerekleri doğrultusunda ayrıldıkları göreve veya bu Yönetmelikte belirlenen şartları taşımaları koşuluyla aynı düzey görevlerden birine ya da daha alt göreve atanabilir.
+(2) (Değişik:RG-21/6/2015-29393) Kamu kurum ve kuruluşlarından naklen atama talebinde bulunan personel, genel hükümlere göre belirlenen şartları taşımaları koşuluyla kurumdaki aynı unvanlı kadrolara veya bu Yönetmelikte belirlenen şartları taşımaları koşuluyla bu unvanın bulunduğu aynı alt gruptaki diğer unvanlı kadrolara ya da daha alt unvanlı kadrolara atanabilir.
+(3) 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanunun 22 nci maddesi uyarınca yapılan ilk atamalarda bu Yönetmelik hükümleri uygulanmaz.

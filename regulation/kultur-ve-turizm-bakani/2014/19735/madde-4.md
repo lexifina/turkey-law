@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alt görev: 27/9/1984 tarihli ve 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+b) Alt hizmet grupları: Aynı düzeydeki unvanların gruplandırılmasını,
+c) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+ç) Bakan: Kültür ve Turizm Bakanını,
+d) Bakanlık: Kültür ve Turizm Bakanlığını,
+e) Bakanlık teşkilatı: Kültür ve Turizm Bakanlığı merkez, taşra ve yurt dışı teşkilatı ile Döner Sermaye İşletmesi Merkez Müdürlüğünü,
+f) Görev unvanı: Bu Yönetmeliğin 5 inci maddesinde sayılan hizmet gruplarında belirtilen unvanları/kadroları,
+g) Görevde yükselme: 657 sayılı Kanuna tabi görevlerden 5 inci maddede sayılan ve görevde yükselmeye tabi olan görevlere aynı veya başka hizmet sınıflarından yapılacak görevde yükselme niteliğindeki atamaları,
+ğ) Hizmet grupları: Hiyerarşi, görev, yetki ve sorumluluk açısından benzer veya aynı düzeydeki unvanların gruplandırılmasını,
+h) (Değişik:RG-4/6/2017-30086) Hizmet süresi: 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) bendinde sayılan süreleri,
+ı) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç, diğer günleri,
+i) Kütüphane müdürlüğü ihtisas elemanı: Üniversitelerin bilgi ve belge yönetimi, kütüphanecilik, dokümantasyon-enformasyon veya arşivcilik bölümlerinin herhangi birinden lisans eğitimi alanları,
+j) (Değişik:RG-21/6/2015-29393) Müze müdürlüğü ihtisas elemanı: Üniversite, fakülte veya yüksekokulların lisans eğitimi veren; arkeoloji ve sanat tarihi bölümü; arkeoloji bölümü; arkeoloji bölümlerinin prehistorya, protohistorya ve ön asya arkeolojisi ile klasik arkeoloji ana bilim dalları; sanat tarihi bölümü; eskiçağ dilleri ve kültürleri bölümlerinin hititoloji, sümeroloji, latin dili ve edebiyatı ile yunan dili ve edebiyatı (klasik filoloji) anabilim dalları; tarih bölümü; sosyal antropoloji ve etnoloji bölümlerinin sosyal antropoloji ile etnoloji anabilim dalları; fizik ve paleoantropoloji bölümlerinin paleoantropoloji ile fizikiantropoloji anabilim dalları; doğu dilleri ve edebiyatları bölümlerinin arap dili ve edebiyatı ile fars dili ve edebiyatı anabilim dalları (klasik şark dilleri); Resim, Heykel, Türk el sanatları, halkbilimi ve Türk halk bilimi bölümlerinin, herhangi birinden veya önceki yıllarda bu anabilim dallarıyla ilgili olmak üzere sayılan değişik unvanlarda lisans eğitimi almış olanları,
+k) Personel: Bakanlık teşkilatında 657 sayılı Devlet Memurları Kanununa tabi memur statüsünde çalışanları,
+l) Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere yapılan atamaları,
+m) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanabilmek için yapılan (Mülga ibare:RG-4/6/2017-30086) (...) sınavı,
+n) Üst görev: 27/9/1984 tarihli ve 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+ifade eder.

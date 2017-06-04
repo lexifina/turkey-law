@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.19735",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜLTÜR VE TURİZM BAKANLIĞI PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "19735",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2014/19735",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19735&MevzuatTertip=5",
+  "source_sha256": "b3975f985a65ac5038b94cf70b0cdef53b017a43d5a40184ba54fe03bea2507e",
+  "source_bytes": 73887,
+  "published": "2014-06-03",
+  "gazette": "29019",
+  "in_force": "2017-06-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/6/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-06-04",
+      "RG-4/6/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-06-04",
+      "4/6/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-06-21",
+      "RG-21/6/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-06-21",
+      "21/6/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4826,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

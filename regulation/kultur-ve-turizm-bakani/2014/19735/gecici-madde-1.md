@@ -1,0 +1,2 @@
+Öğrenim durumu
+GEÇİCİ MADDE 1 – (1) 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğin yürürlüğe girdiği 18/4/1999 tarihinde kamu kurum ve kuruluşlarında görev yapmakta olan personelden aynı tarih itibariyle iki veya üç yıllık yükseköğrenim görmüş olanlar, diğer koşullara sahip oldukları takdirde ve ilgili kanuna aykırı olmamak üzere, 7 nci maddenin uygulanması bakımından, dört yıllık yükseköğrenim görmüş kabul edilirler.
