@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.02-105[238/2016-374]-24339",
+  "source_id": 23362,
+  "date": "2017-06-05",
+  "title": "Hasar araştırma ve raporlama hizmetinde belge düzeni",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/23362",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "df204120564f7ff12717e6b0fda0d68f48c25c39a828d68c4701aa061930ab4a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
