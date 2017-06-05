@@ -1,0 +1,23 @@
+{
+  "number": "meeting-06-05-4",
+  "number_as_published": "meeting-06-05-4",
+  "year": 2017,
+  "title": "Karar No: 44 – 05.06.2017 Tarihli Haziran Ayı Meclis Toplantısı",
+  "decision_date": "2017-06-05",
+  "source": "https://www.finike.bel.tr/arsiv/meclis-kararlari",
+  "official_document": "https://www.finike.bel.tr/files/documents/1fb35e3c0e5f436aa8b0ec8265a0f224.pdf",
+  "source_sha256": "6793bc643cf0d6fe58fe65c87cadb2eac87aae6369ace954a71125006131f9ff",
+  "issuer": "Finike Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-06-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.06.2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Karar No: 44 – 05.06.2017 Tarihli Haziran Ayı Meclis Toplantısı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
