@@ -1,0 +1,2 @@
+Üst yöneticilere ilişkin belgeler
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte finansal holding şirketi kapsamına giren şirketler, yönetim kurulu ve denetim komitesi üyeleri ile genel müdür ve yardımcılarına ilişkin durumlarını 1/6/2007 tarihine kadar Kanunun 23, 24 ve 25 inci maddeleri hükümlerine uygun hale getirerek 7 nci maddenin üçüncü ve altıncı fıkraları hükümleri uyarınca Kuruma gereken bildirimleri yaparlar.

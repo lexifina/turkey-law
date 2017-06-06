@@ -1,0 +1,3 @@
+Yabancı para net genel pozisyon/özkaynak standart oranı
+MADDE 9 – (1) Finansal holding şirketleri Kanunun 43 üncü maddesinde yer alan koruyucu düzenlemelere ilişkin hükümlere istinaden yabancı para net genel pozisyon/özkaynak standart oranını kredi kuruluşu ve finansal kuruluş niteliğindeki ortaklıklarını kapsayacak şekilde konsolide bazda hesaplamakla yükümlüdür.
+(2) Finansal holding şirketleri, Yabancı Para Net Genel Pozisyon / Özkaynak Standart Oranının Bankalarca Konsolide ve Konsolide Olmayan Bazda Hesaplanması ve Uygulanması Hakkında Yönetmeliğin 5 ve 6 ncı maddeleri hükümleri çerçevesinde yabancı para net genel pozisyon/özkaynak standart oranını konsolide özkaynak hesaplama dönemleri itibarıyla hesaplar.

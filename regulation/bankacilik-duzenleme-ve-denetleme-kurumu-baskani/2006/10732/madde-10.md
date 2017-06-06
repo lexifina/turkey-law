@@ -1,0 +1,2 @@
+Kredi sınırları
+MADDE 10 – (1) Ana ortaklık niteliğindeki finansal holding şirketi, konsolidasyon kapsamına aldığı kredi kuruluşu veya finansal kuruluş niteliğindeki her ortaklığın bilanço ve bilanço dışı hesaplarında yer alan ve Kanunun 48 inci maddesinde belirtilen kredi sayılan işlemler ile 8 inci maddenin birinci fıkrasına göre hesaplanan konsolide özkaynak tutarını dikkate alarak, Bankaların Kredi İşlemlerine İlişkin Yönetmelik hükümleri çerçevesinde kredi sınırlarını hesaplamak ve uygulamakla yükümlüdür.
