@@ -1,0 +1,4 @@
+AT uygunluk beyanı
+MADDE 8- (1) Bu Yönetmelik kapsamındaki teçhizatın imalatçısı veya Türkiye’de yerleşik yetkili temsilcisi, teçhizatın bir elemanının bu Yönetmeliğin hükümlerine uygun olduğunu belgelendirmek üzere, imal edilen teçhizatın her bir tipi için bir AT uygunluk beyanı düzenlemelidir. Bu uygunluk beyanın asgari muhtevası Ek II’de belirtilmiştir.
+(2) Piyasaya arz edilen veya hizmete sokulan teçhizata ait AT uygunluk beyanı Türkçe ve İngilizce olarak düzenlenir.
+(3) Bu Yönetmelik kapsamındaki teçhizatın imalatçısı veya Türkiye’de yerleşik yetkili temsilcisi, AT uygunluk beyanının bir örneğini; Ek V’in 3 numaralı paragrafı, Ek VI’nın 3 numaralı paragrafı, Ek VII’nin 2 numaralı paragrafı, Ek VIII’in 3.1 ve 3.3 numaralı paragraflarında belirtilen teknik belgeler ile birlikte, teçhizatın en son imal edildiği tarihten itibaren 10 yıl muhafaza etmelidir.
