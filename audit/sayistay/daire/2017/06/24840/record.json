@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35484",
+  "decision_date": "2017-06-06",
+  "source_id": 24840,
+  "chamber": "2",
+  "ilam_number": "510",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24840/",
+  "source_sha256": "42d1c4f62e41bfd76fcb33bbff849998452f8be8dc23b941b1e31c198f42b41f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
