@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.21.15.01-120[2017/90]-25",
+  "source_id": 37615,
+  "date": "2017-06-07",
+  "title": "4447 Sayılı İşsizlik Sigortası Kanununa eklenen Geçici 18. Madde ile Stopaj Teşviki ve Damga Vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37615",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "60105a2db726fc92f7c63875382e0e70eae265b633da00987c89cc7ef3e015e4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
