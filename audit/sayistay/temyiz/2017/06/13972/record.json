@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43135",
+  "decision_date": "2017-06-07",
+  "source_id": 13972,
+  "chamber": "2",
+  "file_number": "39068",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2010",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13972/",
+  "source_sha256": "f89e1ef22e2ae609d54f9aeee1e10be8cdfb51752b5fc6af8cef8c42fae2e987",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
