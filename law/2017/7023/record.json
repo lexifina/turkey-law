@@ -1,0 +1,71 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7023",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Katar Devleti Hükümeti Arasında Katar Topraklarında Türk Kuvvetlerinin Konuşlandırılmasına İlişkin Uygulama Anlaşması ile Anlaşmanın Tadili Hakkında Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2017-06-07",
+  "adopted_as_published": "07/06/2017",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "09/06/2017 No: 30091",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc101/kanuntbmmc101/kanuntbmmc10107023.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 101",
+  "committee_reports": [
+    {
+      "label": "TBMM 473 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c047/tbmm26047102ss0473.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 26,
+      "kayit_no": 829985,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Katar Devleti Hükümeti Arasında Katar Topraklarında Türk Kuvvetlerinin Konuşlandırılmasına İlişkin Uygulama Anlaşması ile Anlaşmanın Tadili Hakkında Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "07/06/2017",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc101/kanuntbmmc101/kanuntbmmc10107023.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 473 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c047/tbmm26047102ss0473.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 30,
+          "sitting": 50,
+          "sitting_date": "2017-01-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030050.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c030/tbmm26030fih.pdf",
+          "pages": [
+            "720"
+          ]
+        },
+        {
+          "cilt": 46,
+          "sitting": 95,
+          "sitting_date": "2017-05-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c046/tbmm26046095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c046/tbmm26046fih.pdf",
+          "pages": [
+            "399"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=491&v_gelecek_sayfa=301&v_kullanici_id=27483208",
+      "page_sha256": "4e2375002d9be14117dd45919d846b406aab9b82148c58679511e6f6c9609c43"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "4e2375002d9be14117dd45919d846b406aab9b82148c58679511e6f6c9609c43",
+  "issuer": "TBMM",
+  "in_force": "2017-06-07",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 07/06/2017; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
