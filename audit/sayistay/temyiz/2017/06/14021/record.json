@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43172",
+  "decision_date": "2017-06-07",
+  "source_id": 14021,
+  "chamber": "6",
+  "file_number": "40637",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2011",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14021/",
+  "source_sha256": "ea2f5c7f4a2184f1358945aaa016126882d20475b05a276a546d0d7f0faab34b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
