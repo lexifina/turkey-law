@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43183",
+  "decision_date": "2017-06-07",
+  "source_id": 14038,
+  "chamber": "6",
+  "file_number": "41847",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14038/",
+  "source_sha256": "f32e27dd2ca4d7b98ddf0caad016156db91545420fa27245ad83d80be67722dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
