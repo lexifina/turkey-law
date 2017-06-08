@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.23638",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "4749 SAYILI KANUN KAPSAMINDA HAZİNE MÜSTEŞARLIĞI TARAFINDAN TÜRKİYE CUMHURİYETİ ADINA HİBE ALINMASI, HİBE VERİLMESİ VE HİBELERİN TAKİBİNE DAİR YÖNETMELİK",
+  "number": "23638",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "issuer_slug": "hazine-mustesarliginin-bagli-oldugu-bakan",
+  "path": "regulation/hazine-mustesarliginin-bagli-oldugu-bakan/2017/23638",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23638&MevzuatTertip=5",
+  "source_sha256": "8f87ff31cf18c6a0e66b4f71675b60fdd6b0135c1aa3eb2fb294f415ad343b87",
+  "source_bytes": 24504,
+  "published": "2017-06-08",
+  "gazette": "30090",
+  "in_force": "2017-06-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.06.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1000,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23638-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
