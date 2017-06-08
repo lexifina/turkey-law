@@ -1,0 +1,22 @@
+{
+  "number": "142",
+  "number_as_published": "2017/142",
+  "year": 2017,
+  "title": "Yağmursuyu Hattı yapım işinde kullanılmak üzere İller Bankası A.Ş.'den kredi kullanılması",
+  "decision_date": "2017-06-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2017-haziran-ayi-meclis-kararlari/1319",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-142/1330",
+  "source_sha256": "76cc4561f858b8c15e7d14457df72a5cd45e04414617624240e796f8bc5a3db8",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-06-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.06.2017 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "72f0721befeb07c6affcb15250798364592365c02d9dbf7663359cc68e2b33f1"
+}
