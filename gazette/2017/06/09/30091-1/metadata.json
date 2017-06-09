@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-06-09",
+  "issue": "30091",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "7022 Türkiye Cumhuriyeti Hükümeti ile Katar Devleti Hükümeti Arasında Jandarma Eğitim ve Öğretimine İlişkin İş Birliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170609-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170609.htm",
+  "index_sha256": "5fb8dd0f030e1db5b8215e71f2c6ad7ef60eccc532592969b952009edb9b732d",
+  "index_header": "9 Haziran 2017 ... 30091 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170609.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
