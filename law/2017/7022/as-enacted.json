@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7022",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Katar Devleti Hükümeti Arasında Jandarma Eğitim ve Öğretimine İlişkin İş Birliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-06-09",
+  "gazette_issue": "30091",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170609-1.htm",
+  "source_sha256": "3bc24d68acbd4d4fe1a80ef1c7f841f9178f3a6c671fc4d81ce98e2dda530886",
+  "text_sha256": "7fe81fd7ef84cc09444db7de3c81c5557649c999e02f6f49f6cad86e61287787",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/06/09/30091-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170609-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
