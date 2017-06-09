@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7023",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Katar Devleti Hükümeti Arasında Katar Topraklarında Türk Kuvvetlerinin Konuşlandırılmasına İlişkin Uygulama Anlaşması ile Anlaşmanın Tadili Hakkında Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-06-09",
+  "gazette_issue": "30091",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170609-2.htm",
+  "source_sha256": "3a6f261e7c550824014780a0c2eb7ff6b834ffd158a99c56ca4b08425f347ee7",
+  "text_sha256": "5a0164d88433114ddfd5c12a862f3b556c9e94ed81a380b4ddf602c7209d8170",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/06/09/30091-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170609-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
