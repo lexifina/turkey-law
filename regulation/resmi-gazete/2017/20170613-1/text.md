@@ -1,0 +1,267 @@
+13 Haziran 2017 SALI
+Resmî Gazete
+Sayı : 30095
+YÖNETMELİK
+Çanakkale Onsekiz Mart
+Üniversitesinden:
+ÇANAKKALE
+ONSEKİZ MART ÜNİVERSİTESİ TURİZM UYGULAMA VE
+ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı;
+Çanakkale Onsekiz Mart Üniversitesi Turizm
+Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim
+organlarına, yönetim organlarının görevlerine ve çalışma biçimine ilişkin
+usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Çanakkale Onsekiz
+Mart Üniversitesi Turizm Uygulama ve Araştırma Merkezinin amacına, faaliyet
+alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve
+çalışma biçimine ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 4/11/1981
+tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci
+maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14
+üncü maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Çalışma grubu: Merkez içinde kurulan çalışma
+grubunu,
+b) Danışma Kurulu: Merkezin Danışma Kurulunu,
+c) Koordinatör: Merkez ve/veya birim/çalışma grubu
+koordinatörünü,
+ç) Merkez (ÇOMÜ-TURAM): Çanakkale Onsekiz Mart Üniversitesi Turizm Eğitim, Uygulama ve
+Araştırma Merkezini,
+d) Merkez birimi: Merkez içinde kurulan alt birimi,
+e) Müdür: Merkezin Müdürünü,
+f) Rektör: Çanakkale Onsekiz
+Mart Üniversitesi Rektörünü,
+g) Üniversite: Çanakkale Onsekiz
+Mart Üniversitesini,
+ğ) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin Amacı
+ve Faaliyet Alanları
+Merkezin
+amacı
+MADDE 5 – (1) Merkezin
+amacı, Çanakkale turizminin sağlıklı gelişimi ve ekonomi içerisinde
+oynadığı itici güç rolünün sürmesi için bilimsel araştırmalar yapmak,
+turizme veri oluşturan kültürel, tarihsel ve çevresel değerlerin
+korunmasını ve geliştirilmesini sağlamak, turizme taraf olan kamu ve özel
+sektör kurum ve kuruluşları arasında eş güdümü sağlamak, turizm bilinci
+oluşturmak ve geliştirmek yönünde çalışmalar yapmak, Üniversite içinde ve dışında
+turizmin gelişimi ile ilgili her türlü araştırma ve uygulama çalışmalarını
+gerçekleştirmek, Türkiye’nin yabancı ülkeler nezdinde etkin tanıtımı için
+yapılacak çalışmalar içinde amaca uygun konularda yardımcı olmaktır.
+Merkezin
+faaliyet alanları
+MADDE 6 –
+(1) Merkezin faaliyet alanları
+şunlardır:
+a) Çanakkale bölgesi düzeyinde ve
+ulusal/uluslararası düzeyde turizmle ilgili konularda araştırma ve çalışmalar
+yapmak, projeler yürütmek ve projeleri teşvik etmek,
+b) Çanakkale bölgesi düzeyinde ve ulusal/uluslararası
+düzeyde resmi ve/veya özel kurum ve kuruluşlarla turizm amaçlı iş birliği
+yapmak, bilimsel toplantılar düzenlemek, ortak projeler geliştirmek ve
+yürütmek,
+c) Yapılan araştırma ve çalışmaların sonuçlarını
+yayınlamak,
+ç) Alanla ilgili yayın yapmak, yayın yapılmasını
+desteklemek ve süreli yayın çıkarmak,
+d) Turizm sektörü ihtiyaçlarını dikkate alarak
+kısa, orta ve uzun süreli eğitim-öğretim programları geliştirmek ve
+düzenlemek,
+e) Oluşturulacak bilgi, kaynak ve uzman birikimi
+ile Merkezin amacına uygun düşen konularda çalışan lisansüstü öğrencilerine
+yardımcı olmak,
+f) Merkezin amacına uygun araştırma projelerinin
+başlatılması ve yürütülmesi konularında danışmanlık hizmetleri vermek,
+g) Merkezin amacına uygun benzer diğer çalışmaları
+yürütmek.
+ÜÇÜNCÜ BÖLÜM
+Merkezin
+Yönetim Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 – (1) Merkezin yönetim organları şunlardır:
+a) Müdür,
+b) Yönetim Kurulu,
+c) Danışma Kurulu.
+Müdür
+MADDE 8 –
+(1) Müdür, Üniversitede görevli
+öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir.
+Görev süresi sona eren Müdür tekrar görevlendirilebilir. Müdür,
+çalışmalarında kendisine yardımcı olmak üzere iki öğretim elemanını müdür
+yardımcısı olarak görevlendirir. Müdür istediğinde müdür yardımcılarını
+değiştirebilir. Müdürün görevi sona erdiğinde müdür yardımcılarının görevi
+de kendiliğinden sona erer. Müdürün görevi başında olmadığı zamanlarda
+müdür yardımcılarından biri Müdüre vekâlet eder. Göreve vekâletin altı
+aydan uzun sürmesi durumunda yeni bir Müdür görevlendirilir. Rektör gerekli
+gördüğü durumlarda Müdürü görev süresi bitmeden önce görevden alabilir.
+Müdürün
+görevleri
+MADDE 9 – (1) Müdürün görevleri şunlardır:
+a) Merkezi temsil etmek,
+b) Her yılın Şubat ayının ikinci haftasının son iş
+günü yıllık çalışma program taslağını hazırlamak ve Yönetim Kurulu
+kararıyla Rektörlük onayına sunmak,
+c) Her yılın Aralık ayının ikinci haftasının son iş
+gününe kadar ya da Rektörün isteği üzerine, talebin geldiği tarihten
+itibaren 15 gün içerisinde Merkezin genel durumu ve işleyişi hakkındaki
+yıllık çalışma raporunu hazırlamak ve Yönetim Kurulu kararı ile Rektörlük
+onayına sunmak,
+ç) Danışma Kurulunun, Merkez birimlerinin, çalışma
+gruplarının oluşturulması için Yönetim Kuruluna öneride bulunmak ve Yönetim
+Kurulu kararıyla Rektörlük onayına sunmak,
+d) Merkez birimleri ve çalışma gruplarının
+çalışmalarının uyumlu bir şekilde yürütülebilmesi için bir Koordinatör
+görevlendirmek,
+e) Yönetim ve Danışma Kurulunun periyodik
+toplantılarının yanı sıra gerekli hallerde yapılacak toplantılar için
+gündem maddelerini oluşturmak, bu Kurulları toplantıya çağırmak ve bunlara
+başkanlık etmek, bu Kurulların kararları ile çalışma programının ve
+Merkezin diğer çalışmalarının Merkezin amaçları doğrultusunda yürütülmesini
+sağlamak,
+f) Merkeze bağlı birimlerin veya çalışma gruplarının
+ve idari personelin düzenli ve etkin çalışmasını sağlamak,
+g) Merkez ile Üniversitenin tüm birimleri ve dış
+paydaş birimleri arasında Merkezin amaçları doğrultusunda iş birliğini
+sağlamak,
+ğ) Merkezin faaliyet alanları kapsamında yer alan
+ulusal ve uluslararası tüm etkinliklere Merkezin temsilcisi olarak katılmak
+veya Merkezi temsil edecek personeli görevlendirmek,
+h) İhtiyaç duyulan alanlarda ilgili Merkezde görev
+yapacak bilim insanı, araştırmacı, uzman, eğitimci, idari ve teknik
+personelin görevlendirilmesi için, yarı-zamanlı, tam-zamanlı, gönüllü
+uzmanlar ve stajyer öğrencileri belirlemek ve görevlendirmek için Yönetim
+Kurulu kararı ile Rektörlüğe öneride bulunmak,
+ı) Bir yıl içinde verilecek hizmetleri, yapılacak
+tüm etkinlikleri, bu hizmet ve etkinliklerde görev alacak kişileri
+belirlemek ve Yönetim Kurulu kararıyla Rektörlük onayına sunmak,
+i) Merkezin ödenek ve akademik, idari, teknik
+personel ihtiyaçlarını gerekçesi ile birlikte Yönetim Kurulu kararı ile
+Rektörlüğe bildirmek.
+Yönetim
+Kurulu
+MADDE 10 – (1) Yönetim Kurulu, Müdür, müdür yardımcıları ve
+Müdürün önerisiyle Rektör tarafından seçilen öğretim elemanı/elemanlarından
+olmak üzere toplam 5 kişiden oluşur. Müdür, Merkezin oluşum amacını, kapsamını
+ve etkinlik alanlarını gözeterek gerekli sayının iki katı sayıda öğretim
+elemanını Rektöre önerir ve Rektör bu öğretim elemanları arasından gerekli
+sayıda kişiyi Yönetim Kurulu üyesi olarak görevlendirir.
+(2) Seçilen üyelerin görev süreleri üç yıldır.
+Müdür, Yönetim Kuruluna başkanlık eder. Müdürün görev süresinin bitmesi
+veya görevinden ayrılması durumunda Yönetim Kurulu üyelerinin de görevleri
+sona erer. Herhangi bir nedenle ayrılan üyenin yerine, yine aynı yöntemle
+kalan süreyi tamamlamak üzere yenisi seçilir. Görevi sona eren üye tekrar
+seçilebilir.
+(3) Yönetim Kurulu, yılda en az iki kez ve/veya
+gerekli hallerde Müdürün çağrısı üzerine Müdürün başkanlığında toplanır.
+Yönetim Kurulu salt çoğunlukla toplanır ve toplantıya katılanların salt
+çoğunluğu ile karar alır. Kararlar, açık oylama ve oy çokluğu ile alınır.
+Oyların eşit olması halinde Müdürün kararı belirleyicidir.
+Yönetim
+Kurulunun görevleri
+MADDE 11
+– (1) Yönetim Kurulunun görevleri
+şunlardır:
+a) Merkezin çalışmalarıyla ilgili plan ve
+programların hazırlanmasını ve uygulanmasını sağlamak,
+b) Müdür tarafından her yılın Ocak ayının ikinci
+haftasının son iş günü hazırlanan yıllık çalışma program taslağını
+değerlendirerek karara bağlamak,
+c) Müdür tarafından her yılın Aralık ayının ikinci
+haftasının son iş gününe kadar ya da Rektörün isteği üzerine, talebin
+geldiği tarihten itibaren 15 gün içerisinde Merkezin genel durumu ve
+işleyişi hakkında hazırlanan yıllık çalışma raporunu karara bağlamak,
+ç) Gerekli durumlarda Müdür tarafından önerilen
+Merkez birimlerinin, çalışma gruplarının oluşturulmasını karara bağlamak,
+d) Bir çalışma grubunun görevlerini, kimlerden ve
+kaç kişiden oluşacağını ve görev süresinin ne kadar olacağını karara
+bağlamak,
+e) Üniversitenin tüm birimleri ile Merkezin
+amaçları doğrultusunda iş birliğinin sağlanmasında Müdüre yardımcı olmak,
+f) Gerekli durumlarda ihtiyaç duyulan alanlarda
+ilgili Merkezde görev yapacak bilim insanı, araştırmacı, uzman, eğitimci,
+idari ve teknik personelin yarı-zamanlı, tam-zamanlı, gönüllü uzmanların ve
+stajyer öğrencilerin görevlendirilmesini karara bağlamak,
+g) Merkezin ödenek ve akademik, idari, teknik
+personel ihtiyaçlarını karara bağlamak,
+ğ) Bir yıl içinde verilecek hizmetleri, yapılacak
+tüm etkinlikleri, bu hizmet ve etkinliklerde görev alacak kişileri
+belirleyerek karara bağlamak.
+Danışma
+Kurulu
+MADDE 12
+– (1) Merkezin çalışmalarında
+etkinlik ve verimliliği artırmak, yeni görüşleri çalışmalara kazandırmak ve
+Merkezin ihtiyaç duyduğu konularda hizmetlerinden yararlanmak üzere,
+Merkezin amaç ve faaliyet alanlarında Müdürle birlikte en fazla on üyeden
+oluşan Danışma Kurulu oluşturulabilir.
+(2) Danışma Kurulu üyeleri, Müdür tarafından
+önerilen Üniversite içinden ve istekleri halinde Üniversite dışından konu
+ile ilgili uzman kişiler ve turizm sektörü temsilcileri arasından Yönetim
+Kurulunca seçilir. Danışma Kurulu üyelerinin görev süresi üç yıldır.
+Gerektiğinde, seçilen üyelerin görev süresi uzatılabilir. Danışma Kurulu,
+Müdürün çağrısı üzerine toplanır. Danışma Kurulu toplantılarına Müdür
+başkanlık eder.
+(3) Danışma Kurulu, Müdürün çağrısı üzerine,
+Müdürün başkanlığında yılda en az iki defa, gerekli durumlarda daha fazla
+olmak üzere toplanır. Danışma Kurulu toplantısı için salt çoğunluk aranmaz,
+ancak kararlar katılan üye sayısının salt çoğunluğu ile alınır. Oylama
+sonucunda oyların eşit olması halinde başkanın kararı belirleyicidir.
+(4) Müdürün görev süresinin bitmesi veya görevinden
+ayrılması durumunda Danışma Kurulu üyelerinin de görevleri sona erer.
+Danışma
+Kurulunun görevleri
+MADDE 13
+– (1) Danışma Kurulunun görevleri
+şunlardır:
+a) Merkezin genel stratejilerini ve politikalarını
+oluşturmaya yardımcı olmak,
+b) Merkezin etkinlikleri doğrultusunda paydaşlarla
+iş birliğinin geliştirilmesini sağlamak üzere Yönetim Kuruluna önerilerde
+bulunmak,
+c) Her yılın Aralık ayının ilk haftasının son iş
+gününün mesai bitimine kadar, Danışma Kurulu üyeleri kendi bulundukları
+birimlerin Merkez ile iş birliği kapsamında yaptıkları ve bir sonraki yıl
+için yapmayı planladıkları tüm etkinliklerini, görüş ve önerilerini bir
+rapor halinde Yönetim Kuruluna sunmak.
+Çalışma
+grupları
+MADDE 14
+– (1) Müdür tarafından gerekli
+görüldüğü takdirde, bir veya daha çok hizmet dalı için, işlerin daha
+verimli yürütülebilmesi amacıyla, Müdürün önerisi ve Yönetim Kurulu
+kararıyla, süreli/süresiz görev yapacak olan birimler ya da çalışma
+grupları oluşturulabilir.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Personel
+MADDE 15
+– (1) Merkezin akademik, teknik,
+idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca
+Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+Hüküm
+bulunmayan haller
+MADDE 16
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde ilgili mevzuat hükümleri uygulanır.
+Yürürlük
+MADDE 17
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 18
+– (1) Bu Yönetmelik hükümlerini
+Çanakkale Onsekiz Mart Üniversitesi Rektörü
+yürütür.
