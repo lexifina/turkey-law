@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.17.02-105[VUK.ÖZ.16.51]-81099",
+  "source_id": 23360,
+  "date": "2017-06-13",
+  "title": "Adi ortaklık bünyesinde ortak tarafından verilen arabuluculuk hizmetinde belge düzeni.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/23360",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "605fe8e2d10731d9eee9641b332b4960198dc63953ef8b4c4e5d0467dd645fb6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
