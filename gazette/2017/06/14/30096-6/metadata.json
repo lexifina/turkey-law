@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-06-14",
+  "issue": "30096",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARLARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 08/06/2017 Tarihli ve 7367 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170614-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170614.htm",
+  "index_sha256": "3e72b5988a6f1891ea31f79f9de2739117fc5997bab2c23a310bf0dd2a9020e5",
+  "index_header": "14 Haziran 2017 ... 30096 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170614.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
