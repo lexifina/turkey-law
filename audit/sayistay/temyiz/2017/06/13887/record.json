@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43205",
+  "decision_date": "2017-06-14",
+  "source_id": 13887,
+  "chamber": "1",
+  "file_number": "41622",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13887/",
+  "source_sha256": "43a3939d5cc37a7efe3b97455473438c303493f5c438fe762acf8c360c72f0b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
