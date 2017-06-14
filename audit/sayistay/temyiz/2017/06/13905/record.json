@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43215",
+  "decision_date": "2017-06-14",
+  "source_id": 13905,
+  "chamber": "5",
+  "file_number": "41502",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13905/",
+  "source_sha256": "d94babeaf1dedd97bdddd04c41df61aacd8f519c966375102dd5dbd2c488f3f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
