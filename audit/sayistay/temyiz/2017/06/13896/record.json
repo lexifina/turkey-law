@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43213",
+  "decision_date": "2017-06-14",
+  "source_id": 13896,
+  "chamber": "6",
+  "file_number": "41664",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2009",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13896/",
+  "source_sha256": "a9235b201cf4b065eb6b9eb60b4838f593995feb251b198e96cf6a2d53c6ff2e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
