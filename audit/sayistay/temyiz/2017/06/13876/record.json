@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43194",
+  "decision_date": "2017-06-14",
+  "source_id": 13876,
+  "chamber": "1",
+  "file_number": "41634",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13876/",
+  "source_sha256": "75cb51e704cf379e862a4f1ce980972644640840e3b90006ed6201a7c46de089",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
