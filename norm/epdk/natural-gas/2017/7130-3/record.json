@@ -1,0 +1,28 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7130/3",
+  "decision_date": "2017-06-15",
+  "title": "24/12/2014 tarih ve 29215 sayılı Resmi Gazetede yayımlanan Enerji Piyasası Bildirim Sistemi Kullanım Talimatı hakkında",
+  "resmi_gazete_date": "2017-07-13",
+  "resmi_gazete_number": "30123",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=thFqvg1G1mE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=thFqvg1G1mE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ba7GtJmy34Q=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6eSMz5wG92k=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=j9AMQ6L+dUc="
+  ],
+  "source_sha256": "07129bd2eeff3d155016adcc7d565e5f733274dfc8747971c46fb8e199616945",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-06-15",
+  "law_text_complete": true
+}
