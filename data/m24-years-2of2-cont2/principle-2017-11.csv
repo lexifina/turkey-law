@@ -1,0 +1,2 @@
+year,number,published,title,source,source_sha256,representation,act_path,words,omitted_sections,note
+2017,11,2017-06-15,Kurul’un 15/06/2017 Tarih ve 24/818 Sayılı Kararı,https://mevzuat.spk.gov.tr/api/IlkeKarari/File/11,0195dcf255b87216048b2a1b50dddeb9ebaa5e235e3a4c759ef1ad811e324ab5,regulatory-text,norm/spk/principle/2017/11,115,,whole official standalone text; decision date independently present in PDF
