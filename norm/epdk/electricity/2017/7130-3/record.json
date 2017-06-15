@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7130-3",
+  "decision_date": "2017-06-15",
+  "title": "24/12/2014 tarih ve 29215 sayılı Resmi Gazetede yayımlanan Enerji Piyasası Bildirim Sistemi Kullanım Talimatı hakkında",
+  "resmi_gazete_date": "2017-07-13",
+  "resmi_gazete_number": "30123",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=05QcnSnqYBI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=05QcnSnqYBI="
+  ],
+  "source_sha256": "bb3ae739493183edc473164306508d3856a49a8b3ddc413352cf5b156ab2ae0d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document unreadable (KeyError)",
+  "in_force": "2017-06-15",
+  "law_text_complete": false
+}
