@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "621",
+  "decision_date": "2017-06-16",
+  "title": "MEC. KAR. (Basketbol Kurs Ücreti )",
+  "listed_as": "621 MEC. KAR. (Basketbol Kurs Ücreti )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/621-mec--kar--basketbol-kurs-ucreti--",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk18-16-haziran-2017-meclis-kararlari",
+  "listing_sha256": "e7264bc2e5739db709bfa50bf907d4d87e85ba1b9cfa1430e00bbe44eb6054a5",
+  "meeting_title": "MK18-16 HAZİRAN 2017 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
