@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2017/DK-YED/197",
+  "date": "2017-06-16",
+  "title": "Çağrı Başlatma İndirim Kampanyası",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2017-07-24",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=79",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/6bf4a12f-ec46-4689-a66a-97e3819936f0.pdf",
+  "source_sha256": "31ad41c155e4ae122c47de644e1c0abaf9f0ce71b4a48f3cb1585427ee98e88d",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2017-06-16",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 16.06.2017; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
