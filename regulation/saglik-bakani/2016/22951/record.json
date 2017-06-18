@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.22951",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ECZACILIKTA UZMANLIK EĞİTİMİ YÖNETMELİĞİ",
+  "number": "22951",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2016/22951",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22951&MevzuatTertip=5",
+  "source_sha256": "699ad48e4724d165371cd562f27300f2cb49e47700068346ae57bf9d353f5e80",
+  "source_bytes": 85909,
+  "published": "2016-10-21",
+  "gazette": "29864",
+  "in_force": "2017-06-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/6/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-06-18",
+      "RG-18/6/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-06-18",
+      "18/6/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5097,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.22951-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

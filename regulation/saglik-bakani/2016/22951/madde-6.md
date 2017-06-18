@@ -1,0 +1,4 @@
+Görevi sona eren kurul üyelerinin yenilenmesi
+MADDE 6 – (1) Bakanlık, Kurul üyelerinin görev süresinin bitiminden en az üç ay öncesinde 4 üncü maddede belirtilen kurumlardan asıl ve yedek üyelerini tespit etmelerini ister. Kurumlar, seçecekleri asıl ve yedek üyelerin kimlik ve iletişim bilgilerini kendilerine tebliğ edilen tarihten itibaren en geç bir ay içerisinde bildirir.
+(2) Herhangi bir sebeple ayrılan veya üyeliği düşen üyenin yerine, geri kalan süreyi tamamlamak üzere aynı kurumun birinci sıradaki yedek üyesi görev yapar. Boşalan yedek üyelik yerine ilgili kurum en geç bir ay içinde yeni bir üyeyi Bakanlığa bildirir.
+(3) Herhangi bir sebeple asıl ve yedek üyeliğin boşaldığı durumlarda, bir ay içerisinde Bakanlığa bildirim yapmayan kurumun Kuruldaki ilgili üyeliği o dönem için düşer ve çalışmalarda dikkate alınmaz.
