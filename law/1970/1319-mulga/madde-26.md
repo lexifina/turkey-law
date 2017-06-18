@@ -1,0 +1,3 @@
+Madde 26 – (17/7/1972 tarihli ve 1610 sayılı Kanunun hükmüdür.)
+Muhtar ve ihtiyar kurulu, mükelleflerin beyanlarını ilgili defterlerde tespit ettikten sonra kendileri de bu beyanların doğruluğunu (Kira bedelleri ve vergi değerleri hariç) tasdik ederler ve ayrıca bina ve arazi kıymet beyanı defterine kaydettirilmiyen bina ve araziyi, mükelleflerin ismi ve biliniyorsa adresi ile birlikte vergi dairesine bildirirler.
+(Değişik : 8/12/1980 - 2350/5 md.) Bu Kanunda yazılı işler karşılığında; Maliye Bakanlığınca tespit edilen esaslar dahilinde ve yılda fert başına 750 lirayı geçmemek üzere köy muhtarlarına ve ihtiyar kurulu üyelerine ücret verilebilir. 1090-5

@@ -1,0 +1,3 @@
+Madde 21 – (4/12/1985 tarihli ve 3239 sayılı Kanunun hükmüdür.)
+Arazi Vergisi ilgili belediye tarafından mükellefin beyanı üzerine yıllık olarak tarh ve tahakkuk ettirilir. Şu kadar ki, bir il meyva ilçe hududu içerisinde birden fazla belediye olması halinde belediye ve mücavir alan sınırları dışında bulunan araziye ait Arazi Vergisini tarha yetkili olacak belediye ilgili valiler tarafından belirlenir.
+(Değişik : 22/7/1998 - 4369/68 md.) Genel beyan dönemi veya vergi değerini tadil eden sebeplerin doğması halinde mükellefiyetin başlangıç yılını takip eden yıllarda, bu Kanunun 29 uncu maddesinin üçüncü fıkrasına göre tespit edilen matrah üzerinden hesaplanan arazi vergisi, her takvim yılının başından itibaren o yıl için tahakkuk etmiş sayılır.
