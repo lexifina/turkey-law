@@ -1,0 +1,183 @@
+20 Haziran 2017 SALI
+Resmî Gazete
+Sayı : 30102
+YÖNETMELİK
+Hitit Üniversitesinden:
+HİTİT ÜNİVERSİTESİ ALTERNATİF ENERJİ SİSTEMLERİ
+UYGULAMA VE
+ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı, Hitit Üniversitesi
+Alternatif Enerji Sistemleri Uygulama ve Araştırma Merkezinin amaçlarına,
+yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline
+ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik; Hitit
+Üniversitesi Alternatif Enerji Sistemleri Uygulama ve Araştırma Merkezinin
+amaçlarına, yönetim organlarına, yönetim organlarının görevlerine ve
+çalışma şekline ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun
+7 nci maddesinin birinci fıkrasının (d) bendinin
+(2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Merkez: Hitit Üniversitesi Alternatif Enerji
+Sistemleri Uygulama ve Araştırma Merkezini,
+b) Müdür: Merkezin Müdürünü,
+c) Rektör: Hitit Üniversitesi Rektörünü,
+ç) Üniversite: Hitit Üniversitesini,
+d) Yönetim Kurulu: Merkezin Yönetim Kurulunu
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin
+amaçları
+MADDE 5 – (1) Merkezin amaçları şunlardır:
+a) Güneş enerjisi, rüzgar
+enerjisi, jeotermal enerji, biyokütle enerjisi ve
+hidrolik enerji gibi alternatif enerji kaynakları ile ilgili araştırma ve
+incelemeler yapmak, projeler geliştirmek, ölçme ve izleme faaliyetlerinde
+bulunmak,
+b) Alternatif enerji kaynaklarının kullanımı ve
+enerji verimliliğinin artırılması projeleri çerçevesinde alternatif enerji
+alanında bilimsel araştırma ve uygulamalarda bulunmak,
+c) Alternatif enerji kaynaklarının yerel çapta ve
+ülke genelindeki potansiyellerinin tespitini yapmak ve bunlardan enerji
+üretme sistemleri ve teknolojileri ile ilgili bilimsel ve teknolojik
+araştırma, geliştirme, uygulama ve eğitim amaçlı bir birim olarak
+alternatif ve sürdürülebilir enerji üretimini ve kullanımını teşvik etmek,
+ç) Alternatif enerji teknolojisinin geliştirilmesi
+yönünde model, strateji, plan ve proje çalışmalarının yapılması ve
+yönlendirilmesi gibi konularda bölgesel, ulusal ve uluslararası
+faaliyetlerde bulunmak.
+Merkezin
+faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Küresel iklim değişimini yavaşlatıcı alternatif
+enerji kaynaklarıyla ilgili araştırmalarla ulusal ve uluslararası düzeyde farkındalık yaratmak,
+b) Alternatif enerji konusundaki mevcut
+teknolojilerin ülkemize kazandırılması için çalışmalar yapmak,
+c) Enerji kullanımından kaynaklanan çevre
+kirliliğinin azaltılması için enerji ve çevre ilişkileri konusunda
+araştırmalar yapmak,
+ç) Ülkemizde sürdürülebilir kalkınmanın öncelikle
+yerli ve temiz enerji kaynakları ile sağlanabilmesi için projeler yürütmek,
+d) Alternatif enerji sistemlerinin önemini anlatmak
+için bölgesel, ulusal ve uluslararası düzeyde kurs, seminer, konferans,
+kongre ve benzeri toplantılar düzenlemek,
+e) Kamu kuruluşlarının ve özel kuruluşların
+ülkemizde mevcut olan alternatif enerji kaynaklarının potansiyelleri,
+kullanılabilirlikleri, verimlilikleri gibi konularda gereksinim duyduğu
+araştırmaları ve uygulamaları planlamak, gerçekleştirmek ve bu noktada
+kurumlar arası koordinasyonu sağlamak,
+f) Merkez ile diğer merkezler ve üniversiteler
+arası iş birliğini sağlamak, ortak çalışmalar yapmak, bilimsel/teknik bilgi
+ve hizmet alışverişinde bulunmak,
+g) Avrupa Birliğindeki gelişmiş araştırma
+merkezleriyle iş birlikleri yapmak; personel, bilgi ve tecrübe alışverişinde
+bulunmak,
+ğ) Çorum ve çevresindeki alternatif enerji
+kaynaklarının araştırılması ve bu kaynaklardan yararlanılması konusunda
+yapılacak çalışmaların koordinasyonunu sağlamak,
+h) Alternatif enerji uygulamaları konusunda ilgili
+bakanlık ve kamu kurum ve kuruluşlarıyla iş birliğinde bulunmak.
+ÜÇÜNCÜ BÖLÜM
+Merkezin Yönetim Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 – (1) Merkezin yönetim organları şunlardır:
+a) Müdür,
+b) Yönetim Kurulu.
+Müdür
+MADDE 8 – (1) Müdür, Üniversitede kadrolu öğretim üyeleri
+arasından Rektör tarafından üç yıl süreyle görevlendirilir. Görev süresi
+sona eren Müdür tekrar görevlendirilebilir. Müdür, Merkezin çalışmalarının
+düzenli olarak yürütülmesinden ve geliştirilmesinden Rektöre karşı
+sorumludur.
+(2) Müdürün kendisine yardımcı olmak üzere Yönetim
+Kurulu üyeleri arasından önereceği en çok iki kişi müdür yardımcısı olarak
+Rektör tarafından görevlendirilir. Müdür, görevi başında bulunmadığı zaman
+yardımcılarından birisini vekil bırakır. Göreve vekâlet altı aydan fazla
+sürerse, yeni bir Müdür görevlendirilir. Müdürün görevi sona erdiğinde,
+müdür yardımcılarının da görevi sona erer.
+Müdürün
+görevleri
+MADDE 9 – (1) Müdürün görevleri şunlardır:
+a) Merkezi temsil etmek,
+b) Merkezin çalışmalarının düzenli olarak
+yürütülmesini ve geliştirilmesini sağlamak,
+c) Yönetim Kurulu kararlarını uygulamak,
+ç) Yönetim Kurulunu toplantıya çağırmak, bu
+toplantının gündemini hazırlamak ve toplantılara başkanlık etmek,
+d) Merkezin yıllık faaliyet raporunu ve bir sonraki
+yıla ait yıllık çalışma programını hazırlamak ve Yönetim Kurulunda
+onaylanmış şekliyle Rektöre sunmak,
+e) Yurt içinde ve yurt dışında eğitim-öğretim,
+araştırma, uygulama, işletme ve benzeri etkinliklerde bulunan ilgili kamu
+ve özel sektör kurum ve kuruluşlarıyla ve/veya kişilerle iş birliği
+yaparak, amacına uygun ve çalışma alanına giren konularda karşılıklı
+yardımlaşmayı gerçekleştirmek.
+Yönetim
+Kurulu
+MADDE 10
+– (1) Yönetim Kurulu; Müdür dâhil
+beş kişiden oluşur. Diğer üyeler, Üniversitenin öğretim elemanları
+arasından Rektör tarafından üç yıl süreyle görevlendirilir. Görev süresi
+biten üyeler tekrar görevlendirilebilir. Görevden ayrılan üyenin yerine kalan
+süreyi tamamlamak için yeni üye görevlendirilir.
+(2) Müdür, Yönetim Kurulunun başkanıdır. Yönetim
+Kurulu, Müdürün daveti üzerine yılda en az iki kez salt çoğunlukla toplanır
+ve kararlar oy çokluğuyla alınır. Müdürün önerisi üzerine gerektiğinde
+Üniversite içinden veya dışından konu ile ilgili bilgi, beceri ve deneyim
+sahibi kişiler de görüş bildirmek amacı ile Yönetim Kurulu toplantılarına
+davet edilebilir. Ancak bu kişiler oy kullanamaz.
+Yönetim
+Kurulunun görevleri
+MADDE 11
+– (1) Yönetim Kurulunun görevleri
+şunlardır:
+a) Merkezin amaçları doğrultusunda çalışma ve
+yönetimi ile ilgili konularda kararlar almak,
+b) Merkezin yıllık faaliyet raporu ile yıllık
+çalışma programını görüşerek hazırlamak,
+c) Araştırma ve yayın konularında kararlar almak,
+ç) Merkezin çalışmaları için gerekli geçici çalışma
+grupları ile komisyonlar kurmak ve görevlendirmeler için Rektörün onayına
+sunmak,
+d) Merkezin uzun vadeli bilimsel ve idari plan ve
+programlarını hazırlamak,
+e) Merkezin çalışma alanına giren diğer konularda
+kararlar almak.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Personel
+ihtiyacı
+MADDE 12
+– (1) Merkezin akademik, idari,
+teknik ve destek personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine
+göre Rektör tarafından görevlendirilerek karşılanır.
+Ekipman
+ve demirbaşlar
+MADDE 13
+– (1) Merkezle ilgili veya
+Merkezle ortak yapılan diğer projelerden alınan her türlü cihaz, ekipman ve demirbaşlar Merkezin kullanımına tahsis
+edilir.
+Harcama
+yetkilisi
+MADDE 14
+– (1) Merkezin harcama yetkilisi
+Rektördür. Rektör bu yetkisini kısmen veya tamamen Müdüre devredebilir.
+Yürürlük
+MADDE 15
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 16
+– (1) Bu Yönetmelik hükümlerini
+Hitit Üniversitesi Rektörü yürütür.
