@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23670",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAYIŞTAY EĞİTİM VE YAYIN YÖNETMELİĞİ",
+  "number": "23670",
+  "issuer": "Sayıştay Başkanı",
+  "issuer_slug": "sayistay-baskani",
+  "path": "regulation/sayistay-baskani/2017/23670",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23670&MevzuatTertip=5",
+  "source_sha256": "daa3ddabb3ce471ebd463bfad50f2a65524ea7222d22a790af0423e5b4381235",
+  "source_bytes": 36656,
+  "published": "2017-06-20",
+  "gazette": "30102",
+  "in_force": "2017-06-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.06.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1608,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
