@@ -1,0 +1,73 @@
+20 Haziran 2017 SALI
+Resmî Gazete
+Sayı : 30102
+TEBLİĞ
+Türk Akreditasyon Kurumundan:
+TÜRK AKREDİTASYON KURUMUNCA UYGULANACAK
+AKREDİTASYON
+KULLANIM ÜCRETİ/PAYINA DAİR TEBLİĞ
+(TÜRKAK: 2017/1)
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, Türk Akreditasyon Kurumu
+tarafından akredite edilen kuruluşların 2017 yılı için ödeyecekleri
+akreditasyon kullanım ücreti veya paylarını belirlemek ve bunların
+ödenmesine ilişkin usul ve esasları düzenlemektir.
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 27/10/1999
+tarihli ve 4457 sayılı Türk Akreditasyon Kurumu Kuruluş ve Görevleri
+Hakkında Kanunun 21 inci maddesine dayanılarak hazırlanmıştır.
+Akreditasyon
+kullanım ücreti/payları ve bildirimi
+MADDE 3 – (1) Türk
+Akreditasyon Kurumu tarafından akredite edilen kuruluşlar, akredite
+oldukları kapsamlarda yürüttükleri faaliyetleri dolayısıyla, 2017 yılı
+içinde elde ettikleri brüt gelirlerden (akredite kuruluşların devlete
+ödediği vergi ve kesinti dâhil) 4 üncü maddede belirlenen usul ve esaslar
+çerçevesinde akreditasyon kullanım ücreti/payını Türk Akreditasyon Kurumuna
+beyan etmekle ve ödemekle yükümlüdür.
+(2) Yurt içinde faaliyet gösteren akredite
+kuruluşların tamamı, 2017 yılında akreditasyon kapsamında elde ettikleri
+brüt gelirlerini hesaplayıp, usul ve esasları Türk Akreditasyon Kurumu
+tarafından yılsonunda, www.turkak.org.tr adresinde yayınlanan duyuruya uygun şekilde,
+2018 yılı Mart ayı sonuna kadar Türk Akreditasyon Kurumuna bildirir.
+(3) Yurt içinde faaliyet gösteren akredite kuruluşların
+söz konusu bildirimlerini ispat eden mali belgeleri, 1/6/1989
+tarihli ve 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali
+Müşavirlik Kanununa göre serbest muhasebeci mali müşavirler veya yeminli
+mali müşavirler ya da 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi
+ve Kontrol Kanununun 61 inci maddesinde sayılan genel yönetim kapsamındaki
+kamu idarelerinin muhasebe hizmetlerini yürüten muhasebe yetkilileri
+tarafından imzalanıp onaylanır. İmzalı onaylı örneği e-türkak
+kurumsal hizmet portalına yüklenir ve ihtiyaç
+duyulması halinde TÜRKAK’a gönderilmek üzere
+saklanır.
+Akreditasyon
+kullanım ücreti/payı hesaplanması ve ödenmesi
+MADDE 4 – (1) Yurt içinde faaliyet gösteren akredite
+kuruluşlardan;
+a) Akredite oldukları kapsamlarda yürüttükleri
+faaliyetler dolayısıyla 2017 yılında elde ettikleri brüt gelirleri toplamı
+yirmi bin (20.000) Türk Lirası ve
+altında olanlar ile akreditasyon kapsamındaki faaliyetlerden herhangi bir
+gelir elde etmeyenler, gelirleri ile ilgili bildirimde bulunur, ancak
+akreditasyon kullanım payı ödemez.
+b) Akredite oldukları kapsamlarda yürüttükleri
+faaliyetler dolayısıyla 2017 yılı içinde elde ettikleri brüt gelirlerinin
+toplamı yirmi bin (20.000) Türk Lirasının üzerinde olanlar, brüt
+gelirlerinin toplamı üzerinden binde altı (%0,6) oranında hesaplanacak
+payı, izleyen yılın Mart ayı sonuna kadar Türk Akreditasyon Kurumunun
+bildireceği banka hesap numaralarına öder.
+(2) Yurt dışında faaliyet gösteren akredite
+kuruluşlar ise, akreditasyon kullanımı ile ilgili herhangi bir bildirimde
+bulunmaz ve kullanım ücreti/payı ödemez.
+(3) Yurt içinde faaliyet gösteren kuruluşların
+kullanım payı ile ilgili bildirim yapmaması ya da hesaplanan ücret ve payı
+süresi içerisinde Türk Akreditasyon Kurumu hesaplarına yatırmaması halinde,
+kuruluş hakkında hem yasal takip işlemi hem de akreditasyonun askıya
+alınması işlemi başlatılır.
+Yürürlük
+MADDE 5 – (1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 6 –
+(1) Bu Tebliğ hükümlerini Türk Akreditasyon Kurumu Yönetim Kurulu yürütür.
