@@ -1,0 +1,3 @@
+TÜRK LOYDU UYGUNLUK DEĞERLENDİRME HİZMETLERİ A.Ş.’NİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (MHG/2014-15)(1)
+Onaylanmış kuruluş
+MADDE 1 – (1) Avrupa Komisyonu tarafından 1785 kimlik kayıt numarası tahsis edilen ve Tersaneler Caddesi No:26 Tuzla/İstanbul adresinde bulunan (Değişik ibare:RG-21/6/2017- 30103) Türk Loydu Uygunluk Değerlendirme Hizmetleri A.Ş. 10/7/2013 tarihli ve 28703 sayılı Resmî Gazete’de yayımlanan Yapı Malzemeleri Yönetmeliği (305/2011/AB) çerçevesinde Ek-1’de yer alan kapsamda performansın değişmezliğinin değerlendirmesi ve doğrulaması faaliyetini yürütmek üzere Çevre ve Şehircilik Bakanlığı tarafından onaylanmış kuruluş olarak görevlendirilmiştir.
