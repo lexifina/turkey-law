@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43261",
+  "decision_date": "2017-06-21",
+  "source_id": 13868,
+  "chamber": "1",
+  "file_number": "41641",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13868/",
+  "source_sha256": "ca08627e9fea790f991cd2d5c1bd42964c19d2daf96ccebcb2b21c891ba4207d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
