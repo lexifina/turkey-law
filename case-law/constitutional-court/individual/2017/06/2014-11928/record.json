@@ -1,0 +1,20 @@
+{
+  "applicant": "F.N.G.",
+  "application_date": "2014-07-14",
+  "application_number": "2014/11928",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2017-06-21",
+  "id": "81c4cb4c-1766-ebcb-e080-484796e55bb8",
+  "in_force": "2017-06-21",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjgxYzRjYjRjLTE3NjYtZWJjYi1lMDgwLTQ4NDc5NmU1NWJiOA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "d99506f46040e0aacb6989eb1ab5d8156d4fc99a835fbd8c672a3bb23fa0bf7a",
+  "version_label": "as-enacted"
+}
