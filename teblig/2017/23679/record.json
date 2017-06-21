@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.23679",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMUNET AĞINA BAĞLANMA VE KAMUNET AĞININ DENETİMİNE İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ",
+  "number": "23679",
+  "issuer": "Ulaştırma, Denizcilik ve Haberleşme Bakanı",
+  "path": "teblig/2017/23679",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23679&MevzuatTertip=5",
+  "source_sha256": "cd6c8de422d7be0aa73e7583fdbf841858a339ad97a404e4230de37245ca19c1",
+  "source_bytes": 32230,
+  "published": "2017-06-21",
+  "gazette": "30103",
+  "in_force": "2017-06-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.06.2017); own commencement article: \"Bu Tebliğin 4 üncü maddesinin birinci fıkrasının (a), (b) ve (c) bentlerine ilişkin hükümleri yayımı tarihinden iki yıl sonra, diğer hükümleri ise yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğin 4 üncü maddesinin birinci fıkrasının (a), (b) ve (c) bentlerine ilişkin hükümleri yayımı tarihinden iki yıl sonra, diğer hükümleri ise yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1359,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
