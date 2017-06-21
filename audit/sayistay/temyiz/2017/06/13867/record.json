@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43260",
+  "decision_date": "2017-06-21",
+  "source_id": 13867,
+  "chamber": "1",
+  "file_number": "41649",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/13867/",
+  "source_sha256": "96354cc6cffa4c1f8ba94b7a56c5e12718f891ffee418e0619669132158c02a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
