@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7140",
+  "decision_date": "2017-06-22",
+  "title": "Doğal gaz dağıtım şirketlerinin perakende satış tarifelerine ilişkin",
+  "resmi_gazete_date": "2017-06-30",
+  "resmi_gazete_number": "30110",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=AzDThE0F7zM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=AzDThE0F7zM="
+  ],
+  "source_sha256": "e4c8964b206eda776f492224402d2f1829250b8fba470067888b84a4c2899323",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2017-06-22",
+  "law_text_complete": false
+}
