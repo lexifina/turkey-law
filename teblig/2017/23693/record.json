@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23693",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2017/8)",
+  "number": "23693",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2017/23693",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23693&MevzuatTertip=5",
+  "source_sha256": "20b2196880560daddaf25be291683bd69ef4b9ea15b14b13ae13eca28b2db1cc",
+  "source_bytes": 11043,
+  "published": "2017-06-22",
+  "gazette": "30104 Mükerrer",
+  "in_force": "2017-06-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.06.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 175,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23693-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
