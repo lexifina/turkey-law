@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7143",
+  "decision_date": "2017-06-22",
+  "title": "Tarife hesaplamalarına esas öngörülen şebeke yatırım tutarının eksik ya da fazla gerçekleşip gerçekleşmediğinin tespitine ilişkin",
+  "resmi_gazete_date": "2017-06-30",
+  "resmi_gazete_number": "30110",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=w3B4uln2vws=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=w3B4uln2vws="
+  ],
+  "source_sha256": "f54040f5eb4297785a71293d2ec83f73481dd0b40947a4aec55983bb6dde57b3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2017-06-22",
+  "law_text_complete": false
+}
