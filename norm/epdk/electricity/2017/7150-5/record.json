@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7150-5",
+  "decision_date": "2017-06-22",
+  "title": "Lisanssız Elektrik Üretimine İlişkin Yönetmelik’in 5 inci maddesinin birinci fıkrasının (c) bendi kapsamında olan, 23/03/2016 tarihinden önce Bağlantı Anlaşmasına Çağrı Mektubu almaya hak kazanıldığı İlgili Şebeke İşletmecisinin internet sayfasında ilan edilen ve Bağlantı Anlaşmasına Çağrı Mektubunda yer alan kurulu gücü azalarak işlemleri devam eden projelere ilişkin",
+  "resmi_gazete_date": "2017-06-24",
+  "resmi_gazete_number": "30106",
+  "categories": [
+    "Lisanssız Elektrik Üretimine İlişkin Kurul Kararı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tXFQO+mWWos=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tXFQO+mWWos="
+  ],
+  "source_sha256": "77b88a1d252e3cc8801d52f0ad4dcb6f5637c3b6dec915f4313205f53c765757",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33881,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-06-22",
+  "law_text_complete": true
+}
