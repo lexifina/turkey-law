@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7150-3",
+  "decision_date": "2017-06-22",
+  "title": "Elektrik Piyasasında Lisanssız Elektrik Üretimine İlişkin Yönetmelik’in 5 inci maddesinin birinci fıkrasının (c) bendi kapsamında olan ve Bağlantı Anlaşmasına Çağrı Mektubunda yer alan kurulu gücün ve 1 MW’ın üzerinde geçici kabulü tamamlanarak işletmeye geçen üretim tesislerine ilişkin",
+  "resmi_gazete_date": "2017-06-24",
+  "resmi_gazete_number": "30106",
+  "categories": [
+    "Lisanssız Elektrik Üretimine İlişkin Kurul Kararı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QbMio5k7Maw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QbMio5k7Maw="
+  ],
+  "source_sha256": "e6927cf5b89034fb74b048b914be833b66db52d1e72f8a9308a215ff70007a2f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33881,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-06-22",
+  "law_text_complete": true
+}
