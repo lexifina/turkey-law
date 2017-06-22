@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7150-1",
+  "decision_date": "2017-06-22",
+  "title": "lisanssız üretim tesisi ile ilişkilendirilen tüketim tesisinde usulsüz elektrik kullanıldığı tespit edilen projelere ilişkin",
+  "resmi_gazete_date": "2017-06-24",
+  "resmi_gazete_number": "30106",
+  "categories": [
+    "Lisanssız Elektrik Üretimine İlişkin Kurul Kararı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Y5zVcBLACy8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Y5zVcBLACy8="
+  ],
+  "source_sha256": "f9379ae3d8a09ac82aaca99bcf623278e12899a3accc5cd5d1fd9e0d4b664c03",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33881,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-06-22",
+  "law_text_complete": true
+}
