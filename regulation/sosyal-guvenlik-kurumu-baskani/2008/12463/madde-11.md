@@ -1,0 +1,4 @@
+Fazla veya yersiz ödemelerin tebliği
+MADDE 11 – (1) Fazla veya yersiz ödemeden kaynaklanan alacaklar, merkezde ilgili birimlerce, taşrada ise sosyal güvenlik kurumu il müdürlüklerince düzenlenen Borç Bildirim Belgesi (Ek-5) ile 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanununa göre ilgililere tebliğ edilir.
+(2) Yargılama sonucunda hükme bağlanan ve taraflara tebliğ edilen fazla veya yersiz ödemelerden kaynaklanan alacaklara ilişkin kararın kesinleşmesi beklenmeksizin, takip işlemlerine başlanır. Yargılama sonucunda verilen tazmine ilişkin kararlar, temsile yetkili hukuk birimlerine intikal ettirilerek takibi sağlanır.
+(3) İtiraz merkezde ilgili birimce, taşrada ise il müdürlüklerince başvuru tarihinden itibaren on iş günü içinde değerlendirme onayını veren merciin amiri tarafından karara bağlanır. İtiraz ve itirazı değerlendirme süresi ödeme süresini değiştirmez.
