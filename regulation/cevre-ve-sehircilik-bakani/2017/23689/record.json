@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.23689",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YAĞMURSUYU TOPLAMA, DEPOLAMA VE DEŞARJ SİSTEMLERİ HAKKINDA YÖNETMELİK",
+  "number": "23689",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2017/23689",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23689&MevzuatTertip=5",
+  "source_sha256": "06eaf3419ef77e3be00d2f8d1c216249ba707c5eb6a96b1767f9449cf94220c9",
+  "source_bytes": 110451,
+  "published": "2017-06-23",
+  "gazette": "30105",
+  "in_force": "2017-06-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.06.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6261,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23689-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
