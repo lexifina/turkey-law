@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23700",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE RADYO-TELEVİZYON KURUMU PERSONELİNİN GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ ESASLARINA DAİR YÖNETMELİK",
+  "number": "23700",
+  "issuer": "Türkiye Radyo-Televizyon Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-radyo-televizyon-kurumu-genel-muduru",
+  "path": "regulation/turkiye-radyo-televizyon-kurumu-genel-muduru/2017/23700",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23700&MevzuatTertip=5",
+  "source_sha256": "c2114e6a333132b60252f7f71f7796486cc9854b490e43a13bd2daf378e34752",
+  "source_bytes": 52235,
+  "published": "2017-06-24",
+  "gazette": "30106",
+  "in_force": "2017-06-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.06.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2688,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
