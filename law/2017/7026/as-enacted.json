@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7026",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Çevre ve Orman Bakanlığı ile Irak Cumhuriyeti Ulaştırma Bakanlığı Arasında Meteoroloji ve Meteorolojik Araştırmalar Alanlarında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-06-24",
+  "gazette_issue": "30106",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170624M1-3.htm",
+  "source_sha256": "2def941687e351bcf485527ae32718f0f0d0cadeb4e38b3cbddf454cdeb3ce12",
+  "text_sha256": "a1ae955310adf808def673b95a5b9dafc565fe5318efd374fd68929b4d2a27cb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/06/24/30106-m1-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170624M1-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
