@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7027",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kuveyt Devleti Hükümeti Arasında Yükseköğretim ve Bilimsel Araştırma Alanında İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-06-24",
+  "gazette_issue": "30106",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170624M1-4.htm",
+  "source_sha256": "7f024f9779f458ee59dd4b08e4fbe3b3ce4de60c18ea0ae553bb872fbbe1e67f",
+  "text_sha256": "2b4ca92c73925656d057c23c42fe81a23d310d6521fcf4c663eef8f50f04bc8a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/06/24/30106-m1-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170624M1-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
