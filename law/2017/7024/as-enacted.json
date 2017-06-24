@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7024",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Filistin Devleti Arasında Eğitim ve Yükseköğretim Alanında İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-06-24",
+  "gazette_issue": "30106",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170624M1-1.htm",
+  "source_sha256": "162d41d8899e168d9ddae54d9aa3769c662ea4f721db9a4e02b05ec28eb54128",
+  "text_sha256": "78ae92ce4664deb8f21c848bf86540236c4f0f6f84d542f9adf56b898ee0c7d8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/06/24/30106-m1-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170624M1-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
