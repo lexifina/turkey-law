@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7031",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Bayındırlık ve İskan Bakanlığı ile Irak Cumhuriyeti İskan ve İnşaat Bakanlığı Arasındaki Müteahhitlik ve Müşavirlik Alanında Mutabakat Zaptı ile Mutabakat Zaptında Değişiklik Yapılmasına Dair Notaların Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-06-24",
+  "gazette_issue": "30106",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170624M1-8.htm",
+  "source_sha256": "229a1126dcef462ff18a5633019a53aefb8ac3475bc03bd6bfeee460de144c98",
+  "text_sha256": "bc45f808831ecff035dc4fd43846be92f31b11569e0e8aee46bd0234b8c2aff2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/06/24/30106-m1-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170624M1-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
