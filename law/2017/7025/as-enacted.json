@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7025",
+  "year": 2017,
+  "title": "Birleşmiş Milletler Çölleşmeyle Mücadele Sözleşmesinin Kuzey Akdenize Dair Ekinin Bölgesel Uygulamasına Yönelik İstanbul, Türkiye'de Bölgesel Koordinasyon Birimi Kurulmasına İlişkin Türkiye Cumhuriyeti Hükümeti ile Birleşmiş Milletler Çölleşmeyle Mücadele Sözleşmesi Sekretaryası Arasında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-06-24",
+  "gazette_issue": "30106",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170624M1-2.htm",
+  "source_sha256": "39c83de3b3b5d017789701b8b346bdee0404ae28f1987f8c3fe003411e94d99a",
+  "text_sha256": "0e91e5ed3816ea91def796eb67271f8085effb5fea038cafe1cf508b8b0336bc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/06/24/30106-m1-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170624M1-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
