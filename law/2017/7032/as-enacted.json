@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7032",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Yunanistan Cumhuriyeti Hükümeti Arasında İpsala-Kipi Sınır Geçiş Bölgesinde İki Ülke Arasında İkinci Bir Karayolu Sınır Geçiş Köprüsünün Konumunun ve Üzerinden Geçecek Sınır Hattının Belirlenmesine İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-06-24",
+  "gazette_issue": "30106",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170624M1-9.htm",
+  "source_sha256": "32803cbf426483e94808af62818b72f1c1b7cc8981afd7148f83a9378e52caa8",
+  "text_sha256": "e3d8ba8ee86187c1eb88884241e06a59c53a9333ae5a0cf0391a32939b8e34ab",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/06/24/30106-m1-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/06/20170624M1-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
