@@ -1,0 +1,2 @@
+Diğer kurumlarda geçen hizmet süreleri
+MADDE 7 – (1) 6/7/1999 tarihli ve 4397 sayılı Radyo ve Televizyon Verici Tesislerinin Türkiye Radyo-Televizyon Kurumu Genel Müdürlüğüne Devredilmesi ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun ile Kuruma devredilen personelden yönetici kadrolar dışında terfi edecek diğer kadrolardaki personelin hizmet sürelerinin hesabında; Kurum, PTT ve Türk Telekom A.Ş.’de geçen hizmet süreleri dikkate alınır.
