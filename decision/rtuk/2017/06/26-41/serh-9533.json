@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2017/26",
+  "meeting_date": "2017-06-30",
+  "meeting_date_as_published": "30.6.2017",
+  "decision_no": "41",
+  "source_id": 9533,
+  "title": "RTÜK kararı 2017/26-41 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/9533",
+  "source_sha256": "4ce862752b5eaa7874d48bcecb67bd9ffbf3e2e0ef73121d6182e366f8b53f30",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (3 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
