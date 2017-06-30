@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[6-2015/447]-190910",
+  "source_id": 22544,
+  "date": "2017-06-30",
+  "title": "Ücreti peşin ödenen ve faturası düzenlenen otel bedelinin giderleştirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22544",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "aed95ca00f95bdcbd8750df55422fc7b0375a38e98d6be57e5450438b538779c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
