@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23706",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ ENERJİ İÇECEKLERİ TEBLİĞİ (2017/4)",
+  "number": "23706",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2017/23706",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23706&MevzuatTertip=5",
+  "source_sha256": "019567e68039ea7d4509432c690a10a02c31e366211175ee1eb988ffabe19cff",
+  "source_bytes": 25094,
+  "published": "2017-06-30",
+  "gazette": "30110",
+  "in_force": "2017-06-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.06.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 969,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23706-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
