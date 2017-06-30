@@ -1,0 +1,29 @@
+{
+  "number": "31",
+  "number_as_published": "31",
+  "year": 2017,
+  "month": 6,
+  "title": "31.KARAR HAZİRAN 2017 (Sos.Yar.İşl.Md.Çalış.Yönet)",
+  "decision_date": null,
+  "index_date": "2017-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2017",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=44",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=44",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/4d3b470fbe891be98cd1fed534100eca4d3b470fbe891be98cd1fed534100eca.doc",
+  "source_sha256": "cb7d5b4c0533d0770c5bb65962207b1faf73cb0ca8df5f6fc5ec4fddda7278ba",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2017-06-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Haziran 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "30.06.2017",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
