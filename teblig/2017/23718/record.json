@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.23718",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 481)",
+  "number": "23718",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2017/23718",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23718&MevzuatTertip=5",
+  "source_sha256": "785b63c186acfe6941139fff9d80ff1991bb7e25c1a957a95f56c4436d6de65f",
+  "source_bytes": 16469,
+  "published": "2017-07-01",
+  "gazette": "30111",
+  "in_force": "2017-07-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.07.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 718,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
