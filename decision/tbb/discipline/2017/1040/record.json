@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1040",
+  "date": "2017-07-01",
+  "title": "T. 1.07.2017 E. 2017/459 K. 2017/637",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1040",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=6&yil=2017",
+  "listing_sha256": "b91119d7ff9ad1bf18937cc75de379fb0fc5eda4612b659bffa87baaa56c0a30",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
