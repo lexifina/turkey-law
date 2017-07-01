@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7033",
+  "year": 2017,
+  "title": "Sanayinin Geliştirilmesi ve Üretimin Desteklenmesi Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-07-01",
+  "gazette_issue": "30111",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170701-21.htm",
+  "source_sha256": "3dd6ff105cd111ded001a2d995cf92d69e808e51d78c4c6b8d6e37faf3339c42",
+  "text_sha256": "3f444d63b3df76b7a294b9a935199b1fcc525549a62a2b89009fdc0156685177",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/07/01/30111-21",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170701-21.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
