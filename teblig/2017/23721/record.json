@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23721",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2017/8)",
+  "number": "23721",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2017/23721",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23721&MevzuatTertip=5",
+  "source_sha256": "a9941460fed4ad3805989aedc48187e8a11e62860a2079fa12caebc896dc6d80",
+  "source_bytes": 14433,
+  "published": "2017-07-01",
+  "gazette": "30111",
+  "in_force": "2017-07-02",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 2/7/2017 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 2/7/2017 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 188,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23721-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
