@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.23708",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "6446 SAYILI ELEKTRİK PİYASASI KANUNUNUN GEÇİCİ 8 İNCİ MADDESİNE İLİŞKİN UYGULAMA YÖNETMELİĞİ",
+  "number": "23708",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2017/23708",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23708&MevzuatTertip=5",
+  "source_sha256": "d7edb5dc41da802358bf6d6540cf5b96e6aa34dbf652f985c3d82740486aa476",
+  "source_bytes": 21024,
+  "published": "2017-07-03",
+  "gazette": "30113",
+  "in_force": "2017-07-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.07.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 687,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23708-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
