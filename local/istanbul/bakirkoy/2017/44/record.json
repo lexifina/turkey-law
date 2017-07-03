@@ -1,0 +1,23 @@
+{
+  "number": "44",
+  "number_as_published": "44",
+  "year": 2017,
+  "title": "Gündem Değişikliği",
+  "decision_date": "2017-07-03",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/46",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/44-gundem-degisikligi-03072017.pdf",
+  "source_sha256": "1ef66a89ad97238fd0d6b9331faa7536325aa63428835f05efded6cc3879f5d5",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-07-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03 Temmuz 2017 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
