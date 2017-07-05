@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2017/27",
+  "meeting_date": "2017-07-05",
+  "meeting_date_as_published": "5.7.2017",
+  "decision_no": "11",
+  "source_id": 9548,
+  "title": "RTÜK kararı 2017/27-11 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/9548",
+  "source_sha256": "2de90507bad5abf3dfef9dac42f30a19f72643fc70fd2c6bff6141181fe64b64",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (2 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
