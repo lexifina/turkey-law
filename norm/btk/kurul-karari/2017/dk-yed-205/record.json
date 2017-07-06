@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2017/DK-YED/205",
+  "date": "2017-07-06",
+  "title": "THK Kampanyaları",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2017-07-06",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=80",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/2f7dc5f6-4c19-4eff-9f1d-0e4e69681cbd.pdf",
+  "source_sha256": "8c6e25d2ab9739a3ac6b7212ad165e47683ea61548d0e8a7a2e3cc6dc1aa24c0",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2017-07-06",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 06.07.2017; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
