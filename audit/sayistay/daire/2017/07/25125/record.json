@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "255",
+  "decision_date": "2017-07-06",
+  "source_id": 25125,
+  "chamber": "5",
+  "ilam_number": "301",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25125/",
+  "source_sha256": "a1f452b12a5c89b936b5f8f1860bfe98e8d10a763a2c960e50aa42b004e4355d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
