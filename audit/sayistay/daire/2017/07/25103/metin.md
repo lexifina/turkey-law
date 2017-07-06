@@ -1,0 +1,9 @@
+Eksik İmalatların Minha Edilmemesi:
+
+... Otomotiv İnşaat Elektrik Gıda Temizlik Hizm. San. Tic. Ltd. Şti. yükleniminde gerçekleştirilen “İçmesuyu Şebekesi Bakım Onarım ile Araç Kiralama Hizmet İşi” nde, 1 ve 2 nolu hakediş raporlarında eksik imalatların hakediş toplamından düşülmemesi neticesinde kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede;
+
+İşe ait sözleşmenin 6 ncı maddesinin ”Sözleşmenin türü ve bedeli” bölümünün; 1 inci maddesinde; ”Bu sözleşme birim fiyat sözleşme olup, İdarece hazırlanmış cetvelde yer alan her bir iş kaleminin miktarı ile bu iş kalemleri için yüklenici tarafından teklif edilen birim fiyatların çarpımı sonucu bulunan tutarların toplamı olan 1.309.905,15 TRY(Birmilyonüçyüzdokuzbindokuzyüzbeşliraonbeşkuruş) bedel üzerinden akdedilmiştir. Yapılan işlerin bedellerinin ödenmesinde, birim fiyat teklif cetvelinde Yüklenicinin teklif ettiği ve sözleşme bedelinin tespitinde kullanılan birim fiyatlar ile varsa, sonradan Genel Şartnamenin 37 nci maddesine göre tespit edilen yeni birim fiyatlar esas alınır.” hükmü yer almaktadır.
+
+1 nolu hakedişin incelenmesinde; Çift kabinli açık kasa kamyonetin (Sürücüsüz) 15 gün; 2 nolu hakedişin incelenmesinde ise; Çift kabinli açık kasa kamyonetin (Sürücüsüz) 7,5 gün çalışmadığı, ayrıca; …. isimli erbap işçisinin de 8 gün raporlu olduğu tespit edilmiştir. Ancak, 1 ve 2 nolu hakedişlerde mevcut eksik imalatların varlığı ve kontrol teşkilatınca yapılan tespitlere rağmen, yükleniciye ödenen 1 ve 2 nolu hakedişlerden, gerçekleştirilmemiş imalat kalemlerine ilişkin herhangi bir kesinti yapılmaması suretiyle kamu zararına sebebiyet verilmiştir.
+
+Her ne kadar yapılmayan işler için kesinti yapılmaması neticesinde … TL kamu zararına sebebiyet verilmişse de, söz konusu kamu zararının 17.01.2017 tarih ve … yevmiye numaralı muhasebe işlem fişi tahsil edildiği anlaşıldığından, konu hakkında ilişilecek bir husus kalmadığına  oy birliğiyle karar verildi.
