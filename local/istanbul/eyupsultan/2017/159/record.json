@@ -1,0 +1,22 @@
+{
+  "number": "159",
+  "number_as_published": "2017/159",
+  "year": 2017,
+  "title": "council decision",
+  "decision_date": "2017-07-06",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2017-temmuz-ayi-meclis-kararlari/1342",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-159/1350",
+  "source_sha256": "4317ff447e8956fdb0394b8377f2d19c2b4245801a048a753971fd04d941247c",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2017-07-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.07.2017 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "1c07f7f5dc82b49f84108f05d487c8d7d783c1cb49f52a1f826e4f7d1738a7e9"
+}
