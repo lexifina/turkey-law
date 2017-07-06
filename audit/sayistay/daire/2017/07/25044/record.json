@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "254",
+  "decision_date": "2017-07-06",
+  "source_id": 25044,
+  "chamber": "5",
+  "ilam_number": "2",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25044/",
+  "source_sha256": "b324098a897aa82efb9da58c1ae3d2ba8a8dc87408965188c68eb38ca3de2bad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
