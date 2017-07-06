@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "114",
+  "decision_date": "2017-07-06",
+  "source_id": 24825,
+  "chamber": "8",
+  "ilam_number": "294",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/24825/",
+  "source_sha256": "5ae703a47e2185f788bd069a2db39299da9dfff48abeb5362ed5b324dcd2a1bc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
