@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "206",
+  "decision_date": "2017-07-06",
+  "source_id": 25104,
+  "chamber": "7",
+  "ilam_number": "5",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25104/",
+  "source_sha256": "486cc739037de51dc8c801b624f74db717577b31412e61fc4fe22bc2030ad909",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
