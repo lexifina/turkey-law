@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "206",
+  "decision_date": "2017-07-06",
+  "source_id": 25102,
+  "chamber": "7",
+  "ilam_number": "5",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25102/",
+  "source_sha256": "cff5d26738253de974cb36953f27b964b632daec127ddff68ede3f719c1b62ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
