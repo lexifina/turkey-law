@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7177",
+  "decision_date": "2017-07-07",
+  "title": "Enerji Sektöründe Kullanılan Endüstriyel Kontrol Sistemlerinde Bilişim Güvenliği Yönetmeliğinin 10 uncu maddesi gereği yükümlü kuruluşların sahip olduğu riskleri azaltmak için öneri mahiyetinde hazırlanan “EKS Güvenlik Kontrolleri” dokümanının kabul edilmesine ilişkin kurul kararı",
+  "categories": [
+    "Petrol Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=C7hJDpzsB4A=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=C7hJDpzsB4A=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=b7bg2gIBPq4="
+  ],
+  "source_sha256": "4dd3d9fe6668f1ebe76935b1e7222dfbcf6d6f0f72c106dc49413c2ec2a15bef",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14711,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2017-07-07",
+  "law_text_complete": false
+}
