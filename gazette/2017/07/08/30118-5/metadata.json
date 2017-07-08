@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-07-08",
+  "issue": "30118",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme İdaresi Başkanlığının 06/07/2017 Tarihli ve 2017/ÖİB-K-83, 2017/ÖİB-K-84, 2017/ÖİB-K-85, 2017/ÖİB-K-86, 2017/ÖİB-K-87, 2017/ÖİB-K-88, 2017/ÖİB-K-89, 2017/ÖİB-K-90, 2017/ÖİB-K-91, 2017/ÖİB-K-92 ve 2017/ÖİB-K-93 Sayılı Kararları",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170708-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170708.htm",
+  "index_sha256": "75a3c2a1b99de90c49801e52e194a4b801e2de77973671bab1478a0201f9aac2",
+  "index_header": "8 Temmuz 2017 ... 30118 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170708.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "bfd8d3c275fb62fb2d9d9eab02eb62be45a40a7a80ec921cc33e8990d1ee58ed",
+  "text_status": "text.txt as published"
+}
