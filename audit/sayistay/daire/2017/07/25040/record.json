@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "308",
+  "decision_date": "2017-07-12",
+  "source_id": 25040,
+  "chamber": "3",
+  "ilam_number": "513",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25040/",
+  "source_sha256": "db1c96ac55e62d4be6616c8c909dab548684c350fdebdb62945614546f803b8f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
