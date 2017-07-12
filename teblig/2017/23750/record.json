@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.23750",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "OLAĞANÜSTÜ HAL İŞLEMLERİ İNCELEME KOMİSYONUNUN ÇALIŞMASINA İLİŞKİN USUL VE ESASLAR",
+  "number": "23750",
+  "path": "teblig/2017/23750",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23750&MevzuatTertip=5",
+  "source_sha256": "2af72f87ddf5d935081b33d2807191f87de201e1cfdbb80753e31426900d7c48",
+  "source_bytes": 48672,
+  "published": "2017-07-12",
+  "gazette": "30122 mükerrer",
+  "in_force": "2017-07-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.07.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2632,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23750-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

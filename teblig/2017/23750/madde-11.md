@@ -1,0 +1,2 @@
+Eksikliklerin giderilmesi
+MADDE 11 – (1) Başvuru formu ile başvuruda sunulan belgelerde eksiklik tespit edilmesi halinde, durum başvuruyu alan valiliğe veya kuruma bildirilir. İlgili valilik veya kurum eksikliğin giderilmesi için başvurucuya on beş günlük kesin süre verir. Eksiklik giderildikten sonra belgeler Komisyona gönderilir. Verilen süre içinde eksilik giderilmemesi halinde, durum Komisyona bildirilir. Valiliğe veya kuruma yapılan ilk başvuru, başvuru tarihi olarak kabul edilir.

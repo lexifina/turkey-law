@@ -1,0 +1,6 @@
+Kurumlarca Komisyona intikal ettirilecek başvurular
+GEÇİCİ MADDE 1 – (1) Bu Usul ve Esasların yayımlandığı tarihten önce yapılan başvurularla ilgili olarak; Komisyona yapılan başvuruların alınması süresinin tamamlanmasından sonra, daha önce kendilerine başvuru yapılmış olan kurumlarca önceki başvuruya ait dilekçe ve ekleri ile en son görev yapılan kurum adı, başvuru sahibinin adı, soyadı, Türkiye Cumhuriyeti kimlik numarası ve işlem yapılan kanun hükmünde kararnamenin sayısını içeren liste Komisyona intikal ettirilir.
+(2) Aynı kişi tarafından 685 sayılı Kanun Hükmünde Kararnamenin kapsamına giren konularda bu Usul ve Esaslara göre Başbakanlık tarafından ilan edilen altmış günlük başvuru süresinde yeni başvuru yapılması halinde, kurumlar tarafından Komisyona gönderilen başvuru dilekçe ve ekleri bu başvuru ile birleştirilerek incelenir. Yeni başvuru yapılmaması halinde kurumlara daha önce yapılmış başvuru Komisyon tarafından işleme alınır.
+(3) Bu Usul ve Esasların 4 üncü maddesinde sayılan başvuru hakkı olmayanlar tarafından kurumlara verilen dilekçeler Komisyona gönderilmez.
+(4) Bu Usul ve Esasların yayımlandığı tarihten önce kurumlara yapılan başvurular da 10 uncu maddede belirtilen şartlar bakımından ön incelemeye tabi tutulur.
+(5) Komisyonun başvuruları almaya başlayacağı tarih, Başbakanlık tarafından ilan edilir.
