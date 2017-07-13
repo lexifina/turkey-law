@@ -1,0 +1,19 @@
+Yolcu Taşıma İşinden elde edilen gelirden Belediye payına düşen miktarın hatalı hesaplanması
+
+A)...... tarih ve ....... nolu Belediye meclisi kararına istinaden  Belediye ile yüklenici işletmeler (.... Tur ve.... Tur) arasında akdedilen ...... ve .........Arası Yolcu Taşıma İşi ile ilgili olarak; elde edilen gelirden Belediye payına düşen miktarın hatalı hesaplanarak eksik alınması sonucu ......TL kamu zararına sebebiyet verildiği; Aynı Meclis kararında taşıma tarifesi belirlenirken Karayolu Yolcu Taşımacılığında Kullanılan Terminallere İlişkin Tavan Ücret Tarifeleri Hakkındaki Tebliğe uyulmadığı; Süreç içerisinde mülkiyet değişikliği olması durumunda Meclis Kararına göre devir ücreti alınması gerekirken bu konuda herhangi bir tahsilatın yapılmadığı ve ....... ve ........Arası yolcu taşıma ve ilçe içindeki ulaşım (dolmuş ve taksi) hatlarıyla ilgili olarak 2886 Sayılı Devlet İhale Kanunu çerçevesinde ihale yapılmadığı gibi ilçe içindeki ulaşım (dolmuş ve taksi) hatların kullanımıyla ilgili olarak herhangi bir hat ücretinin alınmadığı, ayrıca, şehirlerarası yolcu taşıma Sözleşmesiyle öngörülen araç özellikleri ve kontrollerinin yapılmamasının sorgu konusu edilmesi ile ilgili olarak yapılan incelemede,
+
+A) Belediye ile yüklenici işletmeler (......Tur ve ....Tur) arasında düzenlenen  .....ve......arasında yolcu taşımına ilişkin Sözleşmenin 6,19uncu maddesinde ; “Terminalde bilet satış işlemleri Belediyece yapılacak olup, sefere çıkacak araçlardan sözleşme süresi sonuna kadar her sefer için hasılatın %13’ü komisyon olarak alınacaktır.” hükmüne yer verilmiştir.
+
+Anılan hüküm uyarınca, belirtilen hatlarda yolcu bileti satışından elde edilen hasılat baz alınarak %13 ü komisyon olarak tahsil edilmiştir, hatta ruhsat sahibi 49 araç bulunmaktadır. Söz konusu araçların hatlarda çalışmanın dışında yaptıkları işler sebebiyle elde ettikleri gelirlerin paylaşıma konu edilmesi anılan Sözleşme hükümleri karşısında mümkün değildir.
+
+Bu itibarla, hasılat paylaşımının Sözleşme hükümleri çerçevesinde mevzuatına uygun olarak paylaşıldığı anlaşıldığından kamu zararı olarak iddia edilen ........ TL ile ilgili olarak ilişilecek bir husus bulunmadığına .....
+
+B) ...... tarih ve ......nolu Belediye Meclisi kararında taşıma tarifesi belirlenirken Karayolu Yolcu Taşımacılığında Kullanılan Terminallere İlişkin Tavan Ücret Tarifeleri Hakkındaki Tebliğe uyulmadığı belirtilmiştir. Ancak, Belediye Meclisinin ..... tarih ve ..... sayılı Kararıyla söz konusu Yönetmeliğe uygun olarak terminal çıkış tarifesi belirlenerek uygulamaya konulduğu anlaşıldığından kamu zararı oluşmayan konu ile ilgili olarak ilişilecek bir husus bulunmadığına,
+
+C) Sözleşmenin 6.2nci maddesi uyarınca, süreç içerisinde mülkiyet değişikliği olması durumunda Meclis Kararına göre devir ücreti alınması gerekirken bu konuda herhangi bir tahsilatın yapılmadığı belirtilmiştir. Savunmadan, 2016 yılı içerisinde bir adet devrin gerçekleştiği ve devir bedeli olan ...... TL’nin .....tarih ve .....nolu tahsilat makbuzuyla .......Tur Motorlu Taşıyıcılar Kooperatifi’nde tahsil edildiği anlaşıldığından ilişik kalmadığına,
+
+D)......ve ........Arası Yolcu Taşıma ve ilçe içindeki ulaşım (dolmuş ve taksi) hatlarıyla ilgili olarak 2886 Sayılı Devlet İhale Kanunu çerçevesinde ihale yapılmadığı gibi ilçe içindeki ulaşım (dolmuş ve taksi) hatların kullanımıyla ilgili olarak herhangi bir hat ücretinin alınmamasına ilişkin olarak; savunmadan, konuya ilişkin gerekli yönetmelik düzenlemelerinin yapıldığı, yapılan Sözleşmenin süresinin bitimini müteakip taşımacılığın 2886 sayılı Kanuna göre ihalesinin yapılacağı anlaşıldığından kamu zararı oluşmayan konu ile ilgili olarak ilişilecek bir husus bulunmadığına ...
+
+İş bu ilamın tebliğ tarihinden itibaren 6085 sayılı Sayıştay Kanununun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle,
+
+Karar verildi.
