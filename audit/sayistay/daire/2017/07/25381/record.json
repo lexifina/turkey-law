@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "263",
+  "decision_date": "2017-07-13",
+  "source_id": 25381,
+  "chamber": "5",
+  "ilam_number": "309",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25381/",
+  "source_sha256": "d3623e3678145981013852b6e18c8dec30043faf37eca60a6303a7b5aab27ed9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
