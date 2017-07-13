@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "261",
+  "decision_date": "2017-07-13",
+  "source_id": 25155,
+  "chamber": "5",
+  "ilam_number": "8",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25155/",
+  "source_sha256": "27932c8ee2e625f0c288becc420a03d6c3f4031d10dc112831fecc0293eaf6e4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
