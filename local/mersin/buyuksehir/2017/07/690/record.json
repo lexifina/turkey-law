@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "690",
+  "decision_date": "2017-07-14",
+  "title": "MEC_KAR_ ( Tapu Devri Süleyman Dalkılıç )",
+  "listed_as": "690 MEC_KAR_ ( Tapu Devri Süleyman Dalkılıç )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/690-mec-kar---tapu-devri-suleyman-dalkilic-",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk16-14-temmuz-2017-meclis-kararlari",
+  "listing_sha256": "81a125170309d2e019b106adb496e45ecf1e1fb3e5e08487fce9bd34b4fc5d4f",
+  "meeting_title": "MK16-14 TEMMUZ 2017 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
