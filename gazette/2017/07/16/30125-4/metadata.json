@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-07-16",
+  "issue": "30125",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Recep Tayyip Erdoğan Üniversitesi Lisansüstü Eğitim ve Öğretim Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170716-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170716.htm",
+  "index_sha256": "4abd3310c46b1c2ad1aed44560343e03817ac4708222225175a0d521c288ea16",
+  "index_header": "16 Temmuz 2017 ... 30125 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170716.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "427c01b99838d820506530ae229703dd7a11d03c90c918cb7fa64a79a5805e6a",
+  "text_status": "text.txt as published"
+}
