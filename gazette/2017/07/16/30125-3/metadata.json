@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-07-16",
+  "issue": "30125",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Ordu Üniversitesi Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170716-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170716.htm",
+  "index_sha256": "4abd3310c46b1c2ad1aed44560343e03817ac4708222225175a0d521c288ea16",
+  "index_header": "16 Temmuz 2017 ... 30125 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170716.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "dcdf718a1ae624f147975ffc7c38210c43764fabe6ed23f0bcd7a2104fb97bb7",
+  "text_status": "text.txt as published"
+}
