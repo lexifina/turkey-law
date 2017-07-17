@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; (Mülga ibare:RG-17/7/2017- 30126) (…) Üniversitede eğitimi verilen (Değişik ibare:RG-17/7/2017- 30126) basın, yayın ve halkla ilişkiler eğitim-öğretiminin uygulama ihtiyacını karşılamak, ilgili dallardaki öğrencisine mesleki hazırlık ve pratikleri için katkı sağlamak, Üniversitenin geleneksel ve yeni medya aracılığı ile gerçekleştirilen basın ve halkla ilişkiler faaliyetlerini yönetmek, kurum kültürü, kimliği, kurumsal imaj ve itibar yönetimi çalışmalarını koordine etmek, Merkezin faaliyet alanlarındaki gelişmeleri ve teknolojileri takip ederek bilimsel araştırma ve geliştirme faaliyetlerinde bulunmak, uzaktan eğitim, interaktif eğitim gibi faaliyetlerine içerik, program desteği vermek, Üniversitenin kamu kuruluşları, özel ve uluslararası kuruluşlar ile medya alanındaki işbirliğinin gelişmesine ve toplumla bütünleşmesine katkıda bulunmaktır.
