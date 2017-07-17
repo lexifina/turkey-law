@@ -1,0 +1,228 @@
+17 Temmuz 2017 PAZARTESİ
+Resmî Gazete
+Sayı : 30126
+YÖNETMELİK
+Üsküdar Üniversitesinden:
+ÜSKÜDAR
+ÜNİVERSİTESİ İSTANBUL PROTEİN ARAŞTIRMA GELİŞTİRME
+VE İNOVASYON UYGULAMA VE ARAŞTIRMA MERKEZİ
+(PROMER)
+YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı;
+İstanbul Protein Araştırma Geliştirme ve İnovasyon
+Uygulama ve Araştırma Merkezinin faaliyet alanlarına, yönetim organlarına ve
+çalışma şekline ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik; Üsküdar
+Üniversitesi İstanbul Protein Araştırma Geliştirme ve İnovasyon
+Uygulama ve Araştırma Merkezinin organları, bu organların seçimleri, görev
+süreleri, yetki ve sorumlulukları, çalışma, eğitim-öğretim, yönetim ve her
+türlü faaliyetlerinde uygulanacak usul ve esaslara ilişkin hükümleri
+kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun
+7 nci maddesinin birinci fıkrasının (d) bendinin
+(2) numaralı alt bendine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Merkez: Üsküdar Üniversitesi İstanbul Protein
+Araştırma Geliştirme ve İnovasyon Uygulama ve
+Araştırma Merkezini,
+b) Merkez Müdürü: Merkezin Müdürünü,
+c) Müdürlük: Merkez Müdürlüğünü,
+ç) Rektör: Üniversite Rektörünü,
+d) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin Amacı
+ve Faaliyet Alanları
+Merkezin
+amacı
+MADDE 5 – (1) Merkezin
+amacı İstanbul bölgesinde endüstride kullanılan enzimler olmak üzere,
+ülkemize ithal edilen enzimlerin belirlenmesi ve yerli üretim
+gerçekleştirilmesi için gerekli Ar-Ge ortamını
+sağlayacak teknolojilerin geliştirilmesi ve bu konuda çalışacak yerli
+işletmelerin ilgili Ar-Ge ve inovasyon
+çalışmalarını arttırmalarını destekleyecek bilgi ve teknoloji üretimi ve
+uygulama faaliyetleri hazırlamak ve yürütmektir.
+Merkezin
+faaliyet alanları
+MADDE 6 –
+(1) Merkez, bu Yönetmeliğin 5 inci
+maddesinde belirtilen amaçları gerçekleştirmek üzere aşağıdaki
+faaliyetlerde bulunur:
+a) Merkez personeli için uyum ve eğitim
+seminerlerinin düzenlenmesi.
+b) PROMER laboratuvarında
+eğitim programlarının gerçekleştirilmesi.
+c) Sanayi görüşmeleri ile sektör problemlerinin
+belirlenmesi ve çözüm için stratejilerin oluşturulması.
+ç) Akademisyenler ile yapılacak görüşmeler ile
+sektöre katkı sağlayacak ve konuyla ilgili öğrencilerin buluşabileceği
+platformun oluşturulması.
+d) Yapılacak toplantılar ile akademisyenler ile
+sektörün bir araya getirilmesi.
+e) Düzenlenecek eğitim ve çalıştaylar
+ile sektör için nitelikli personel yetiştirilmesi.
+f) Endüstriyel enzim ve protein moleküller
+konusunda sanayi ve akademisyenlerin yenilikleri takip ederek bir araya
+getirilmesi.
+g) Merkez laboratuvarında
+gerçekleştirilecek araştırma sonuçlarının makale halinde yayınlanması,
+faydalı model başvurularının ve patentlenmesi
+süreçlerinin takip edilmesi.
+ÜÇÜNCÜ BÖLÜM
+Merkezin
+Yönetim Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 –
+(1) Merkezin yönetim organları
+şunlardır:
+a) Müdür.
+b) Yönetim Kurulu.
+c) Danışma Kurulu.
+Müdür ve
+görevleri
+MADDE 8 –
+(1) Müdür, Rektör tarafından
+Üniversitenin öğretim elemanları arasından üç yıl süre için görevlendirilir.
+Müdür tam zamanlı yönetici olarak görev yapar. Görev süresi biten Müdür
+yeniden görevlendirilebilir. Müdürün altı aydan fazla görevinin başında
+bulunamayacağı durumlarda görevi sona erer.
+(2) Müdürün görevleri şunlardır:
+a) Merkezi temsil etmek.
+b) Yönetim Kurulunun aldığı kararları ve çalışma
+programını uygulamak.
+c) Merkezi, amaçları doğrultusunda yönetmek.
+ç) Uygulanan programlara ve faaliyetlere ilişkin
+koordinasyonu sağlamak.
+d) Merkezin yıllık faaliyet raporunu ve bir sonraki
+yıla ait çalışma programını düzenlemek ve Yönetim Kurulunun görüşünü
+aldıktan sonra Rektörün onayına sunmak.
+e) Yönetim ve Danışma kurullarına başkanlık yapmak.
+f) Çalışma programları hazırlamak, Yönetim Kuruluna
+önermek, Yönetim Kurulunca karara bağlanan çalışma gruplarını yürütmek,
+yönlendirmek ve denetlemek.
+g) Oluşturulan çalışma gruplarının faaliyetleri,
+plan, program ve projeleriyle ilgili olarak Yönetim Kurulunu
+bilgilendirmek.
+ğ) Eğitim, kurs, çalıştay,
+kongre, sertifika programı, sempozyum, seminer ve
+benzeri program ve projelerin düzenlenmesini, yürütülmesini,
+yönlendirilmesini ve denetimini sağlamak.
+h) Personel alımı ve görevlendirilmesiyle ilgili
+teklifleri Rektöre sunmak.
+(3) Müdüre çalışmalarında yardımcı olmak üzere,
+Müdürün teklifi üzerine Rektör tarafından, en fazla iki müdür yardımcısı
+görevlendirilebilir. Müdürün görevi sona erdiğinde müdür yardımcılarının da
+görevi sona erer.
+Yönetim
+kurulu ve görevleri
+MADDE 9 –
+(1) Yönetim Kurulu; Müdür ve
+Üniversite öğretim elemanları arasından Rektör tarafından görevlendirilecek
+dört üye ile birlikte toplam beş kişiden oluşur. Yönetim Kurulu
+toplantılarına Müdür başkanlık eder. Yönetim Kurulu üyelerinin görev süresi
+üç yıldır. Görev süresi biten üye yeniden görevlendirilebilir.
+(2) Yönetim Kurulu, Müdürün daveti üzerine yılda en
+az iki defa olağan ve gerektiğinde olağanüstü toplanarak, Müdür tarafından
+hazırlanan gündem maddelerini görüşüp karar alır. Yönetim Kurulu üye tam
+sayısının salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır.
+(3) Yönetim Kurulunun görevleri şunlardır:
+a) Merkezin faaliyetleriyle ilgili eğitim
+programlarının hazırlanması ve planlanması, katılım koşullarının belirlenmesi,
+eğitim verecek birimlerle gerekli koordinasyonun sağlanması konularında
+kararlar almak.
+b) Faaliyet raporunun düzenlenmesine ilişkin esasları
+tespit etmek ve sunulan raporu değerlendirmek.
+c) Bir sonraki döneme ait çalışma programının
+düzenlenmesine ilişkin esasları tespit etmek ve sunulan raporu
+değerlendirmek.
+ç) Eğitim programları ile bu programların sonunda
+katılım belgesi, başarı belgesi ve benzeri belgeleri düzenleyerek vermek.
+Danışma
+kurulu ve görevleri
+MADDE 10
+– (1) Danışma Kurulu; Merkezin
+faaliyet alanlarında çalışmalar yürüten veya çalışmalarıyla Merkeze katkısı
+olacağı düşünülen, Üniversite öğretim elemanları ile istekleri halinde
+Üniversite dışından, ulusal ve uluslararası düzeyde faaliyet gösteren kişi
+ve kuruluş temsilcileri arasından Rektör tarafından görevlendirilen en
+fazla on beş üyeden oluşur. Danışma Kuruluna Müdür başkanlık eder.
+(2) Danışma Kurulu üyelerinin görev süresi üç
+yıldır. Süresi biten üye tekrar görevlendirilebilir.
+(3) Danışma Kurulu, Merkezin faaliyetleri ile
+ilgili olarak değerlendirmelerde bulunur ve istişari
+nitelikte görüş bildirir.
+(4) Danışma Kurulu yılda bir kez olağan olarak
+toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü olarak
+toplantıya çağırabilir. Danışma Kurulu üye tam sayısının salt çoğunluğu ile
+toplanır.
+(5) Danışma Kurulunun görevleri şunlardır:
+a) Merkezin faaliyetleri ile ilgili
+değerlendirmeler yapmak ve önerilerde bulunmak.
+b) Faaliyetler konusunda Yönetim Kuruluna
+danışmanlık yapmak.
+c) İlgili kuruluşlar arasında işbirliği sağlamak ve
+Merkez faaliyetleri hakkında önerilerde bulunmak.
+Çalışma
+birimleri ve görevleri
+MADDE 11
+– (1) Merkezin çalışma konularıyla
+ilgili faaliyetlerin verimliliğini ve etkinliğini artırmak üzere proje,
+yayın, saha araştırmaları, halkla ilişkiler gibi sürekli veya geçici
+çalışma birimleri oluşturulabilir. Çalışma birimleri, çalışma birimi
+başkanı veya bir Yönetim Kurulu üyesi sorumluluğunda çalışmaları planlamak,
+koordine etmek ve yürütmek üzere görevlendirilen Üniversitedeki ilgili
+personelden oluşur.
+(2) Çalışma birimleri; Müdürün teklifi ve Rektörün
+onayıyla kurulur, ilgili çalışma birimi başkanı veya Müdürün önerisi
+üzerine Rektör tarafından görevlendirilen kişi başkanlığında toplanır ve
+yapılan çalışmalarla ilgili olarak Müdüre önerilerde bulunur. Çalışma
+birimlerindeki elemanlar, Yönetim Kurulunca öngörülen süreler için Rektör
+tarafından görevlendirilir. Müdür, çalışma birimlerinin faaliyetlerini
+izler ve denetler. Görev süresi dolan çalışma birimi elemanının görev
+süresi Yönetim Kurulunca uzatılabilir.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Müdürlük
+birimleri, program koordinatörleri ve program rehberleri
+MADDE 12
+– (1) Bu Yönetmeliğin 5 inci
+maddesinde belirtilen amaçları gerçekleştirmek amacıyla; Merkez bünyesinde
+birimler, program koordinatörleri veya program rehberleri şeklinde alt
+birimler oluşturabilir.
+(2) Müdürlük birimleri ve alt birimlerinin sayısı,
+görevleri, çalışma usul ve esasları Yönetim Kurulu tarafından belirlenir.
+Personel
+ihtiyacı
+MADDE 13
+– (1) Merkezin akademik, teknik ve
+idari personel ihtiyacı Merkez Müdürünün önerisi üzerine, 2547 sayılı
+Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel
+tarafından karşılanır.
+Yönetmelikte
+hüküm bulunmayan haller
+MADDE 14
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde; ilgili diğer mevzuat hükümleri ile Senato kararları
+uygulanır.
+Yürürlük
+MADDE 15
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 16
+– (1) Bu Yönetmelik hükümlerini
+Üsküdar Üniversitesi Rektörü yürütür.
