@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-07-17",
+      "17.07.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30126",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-07-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kocaeli Üniversitesi",
+  "issuer_slug": "kocaeli-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kocaeli-universitesi/2017/23759",
+  "published": "2017-07-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23759&MevzuatTertip=5",
+  "source_bytes": 23760,
+  "source_id": "8.5.23759",
+  "source_sha256": "06adec882a2c0305f60f6686828e311c884b4bd612b764b29e5d485414d37e15",
+  "text_status": "as-enacted",
+  "title": "KOCAELİ ÜNİVERSİTESİ YENİ MEDYA ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 209,
+  "word_count": 867
+}
