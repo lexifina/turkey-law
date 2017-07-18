@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-07-18",
+      "18.07.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30127",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-07-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2017/23763",
+  "published": "2017-07-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23763&MevzuatTertip=5",
+  "source_bytes": 27645,
+  "source_id": "8.5.23763",
+  "source_sha256": "d6e2704b6242e38d36c6ea2576a885d5dcfb049cef08aa1555928b2162f16725",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ GENOMBİLİM VE NADİR HASTALIKLAR\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 1064
+}
