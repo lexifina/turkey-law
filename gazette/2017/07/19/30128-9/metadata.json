@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-07-19",
+  "issue": "30128",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARLARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 13/07/2017 Tarihli ve 7408 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170719-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170719.htm",
+  "index_sha256": "84e3ce68afdfa1a97e0e825cea1d79e4ea6bc834ebb7e69e1d9378b94210b1b1",
+  "index_header": "19 Temmuz 2017 ... 30128 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170719.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
