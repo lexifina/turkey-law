@@ -1,0 +1,191 @@
+20 Temmuz 2017 PERŞEMBE
+Resmî Gazete
+Sayı : 30129
+YÖNETMELİK
+Ağrı İbrahim Çeçen Üniversitesinden:
+AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ KADIN SORUNLARI
+UYGULAMA VE
+ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı; Ağrı
+İbrahim Çeçen Üniversitesi Kadın Sorunları Uygulama ve Araştırma Merkezinin
+yönetimine ve çalışma şekline ilişkin usul ve esaslarını düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik; Ağrı İbrahim
+Çeçen Üniversitesi Kadın Sorunları Uygulama ve Araştırma Merkezinin
+amaçlarına, faaliyet alanlarına, yönetim organlarına, bu organların
+görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik; 4/11/1981
+tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci
+fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Merkez (AİÇKSAM): Ağrı İbrahim Çeçen
+Üniversitesi Kadın Sorunları Uygulama ve Araştırma Merkezini,
+b) Merkez Müdürü: Ağrı İbrahim Çeçen Üniversitesi
+Kadın Sorunları Uygulama ve Araştırma Merkezi Müdürünü,
+c) Merkez Yönetim Kurulu: Ağrı İbrahim Çeçen Üniversitesi
+Kadın Sorunları Uygulama ve Araştırma Merkezi Yönetim Kurulunu,
+ç) Rektör: Ağrı İbrahim Çeçen Üniversitesi
+Rektörünü,
+d) Üniversite: Ağrı İbrahim Çeçen Üniversitesini,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin
+amaçları
+MADDE 5 –
+(1) Merkezin amaçları;
+Üniversitede ilgili birimlerle işbirliği içinde kadının sağlık, hukuk, ekonomi,
+eğitim ve toplumsal alandaki sorunlarını belirlemek, konuşulur ve tartışılır
+hale getirmek, bilimsel veri elde edebilecek girişimlerde bulunarak veri
+merkezi olmak, sorunların çözümüne yönelik faaliyetler planlamak ve ilgili
+platformlarda yer alarak Üniversiteyi en iyi şekilde temsil etmektir.
+Merkezin
+faaliyet alanları
+MADDE 6 –
+(1) Merkez, 5 inci maddede
+belirtilen amaçları gerçekleştirmek üzere aşağıdaki faaliyetlerde bulunur:
+a) Toplumsal yaşamın tüm alanlarında kadınların
+konumlarının güçlendirilmesi ve kadınlara karşı her türlü ayrımcılığın
+önlenmesine yönelik eylem planlarının oluşturulmasına katkıda bulunmak.
+b) Üniversitede kadın sorunları ile ilgili
+çalışmaları ve görevleri olan kadınları bir araya getirmek.
+c) Üniversitede görev yapan kadınlar başta olmak
+üzere bölgede yaşayan kadınlarda konuya (kadın ve kadın sorunları) ilişkin
+farkındalık oluşturmak.
+ç) Kadının sağlık, eğitim, hukuk ve toplumsal
+yaşama ilişkin sorunlarına yönelik araştırma ve incelemelerde bulunmak.
+d) Bölgede yaşayan kadınlarla ilgili faaliyetlere
+bilimsel katkıda bulunmak.
+e) Kadın ile ilgili her alanda faaliyetlerini
+sürdüren dernek, kurum ve kuruluşları bir araya getirerek ortak eylem
+planları oluşumuna katkıda bulunmak.
+f) Kadın ve kadın sorunları ile ilgili projeler
+planlamak, ilgili projelerde görev almak.
+g) Üniversitede ve bölgede kadın ve sorunlarını
+bilimsel platformlarda daha fazla konuşulur hale getirmek.
+ğ) Merkez öncülüğünde panel, konferans, sergi ve
+benzeri faaliyetlerde bulunmak.
+h) Toplumun vazgeçilmez parçası olan kadının hak
+ettiği yerde olmasına yönelik girişimlerde bulunmak.
+ı) Üniversitede yürütülen lisans ve lisansüstü
+derslerin ilgili alanlarında kadına ilişkin konulara daha fazla yer
+verilmesini sağlamak.
+i) Ülke genelinde aynı konuda faaliyet gösteren
+merkez ve birimlerle etkileşimde bulunmak.
+j) Ulusal ve uluslararası kuruluşlarla işbirliği
+yapmak.
+k) Merkez Yönetim Kurulunca belirlenen
+faaliyetlerde bulunmak.
+ÜÇÜNCÜ BÖLÜM
+Merkezin Yönetim Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 –
+(1) Merkezin yönetim organları
+şunlardır;
+a) Merkez Müdürü,
+b) Merkez Yönetim Kurulu.
+Merkez
+Müdürü ve müdür yardımcıları
+MADDE 8 –
+(1) Merkez Müdürü; Merkezin
+çalışma alanı ile ilgili konularda görev yapan Üniversite öğretim üyeleri
+arasından üç yıl süre için Rektör tarafından görevlendirilir. Süresi biten
+Merkez Müdürü tekrar görevlendirilebilir. Süresi dolmadan ayrılan Merkez
+Müdürünün yerine, kalan süreyi tamamlamak üzere, Rektör tarafından aynı
+yöntemle görevlendirme yapılır.
+(2) Merkez Müdürü, Üniversite öğretim elemanları
+arasından ikisini kendisine yardımcı olmak üzere, üç yıl süre için müdür
+yardımcısı olarak görevlendirmesi için Rektöre öneride bulunur. Süresi
+dolmadan görevinden ayrılan müdür yardımcısının yerine aynı yöntemle bir
+başkası görevlendirilir. Merkez Müdürünün görevi sona erince yardımcılarının
+da görevi kendiliğinden sona erer.
+(3) Müdür yardımcıları, Merkez Müdürünün verdiği
+işleri yapar. Merkez Müdürünün görevi başında bulunmadığı zamanlarda Müdüre
+vekâlet eder.
+Merkez
+Müdürünün görevleri
+MADDE 9 –
+(1) Merkez Müdürünün görevleri
+şunlardır:
+a) Merkezi temsil etmek.
+b) Merkez Yönetim Kurulunu toplantıya çağırmak,
+gündemi hazırlamak ve toplantıya başkanlık etmek.
+c) Merkez Yönetim Kurulu kararlarını yürütmek.
+ç) Merkezin ve bağlı birimlerin düzenli ve etkin
+çalışmasını sağlamak.
+d) Merkezin birimleri ve program gruplarının da
+görüşünü alarak; bina, araç-gereç ve benzeri fiziksel ihtiyaçlar ile
+personel ihtiyaçlarını Rektörlüğe bildirmek.
+e) Yılsonu çalışma raporlarını, yeni çalışma
+programını hazırlamak ve bunları Merkez Yönetim Kuruluna sunmak.
+Merkez
+Yönetim Kurulu
+MADDE 10
+– (1) Merkez Yönetim Kurulu;
+Merkez Müdürü, müdür yardımcıları ve dördü Rektör tarafından
+görevlendirilen yedi üyeden oluşur.
+(2) Merkez Yönetim Kurulu üyelerinin görev süresi
+üç yıldır. Süresi dolmadan ayrılan üyenin yerine kalan süreyi tamamlamak
+için aynı yöntemle üye görevlendirilir. Süresi biten üye yeniden
+görevlendirilebilir.
+(3) Merkez Yönetim Kurulu ayda en az bir defa
+toplanır. Merkez Müdürü gerekli gördüğü durumlarda veya üyelerden dördünün
+yazılı talebi üzerine Merkez Yönetim Kurulunu toplantıya çağırır.
+(4) Merkez Yönetim Kurulu toplantısına üst üste üç
+defa özürsüz katılmayan üyenin üyeliği kendiliğinden sona erer.
+Merkez
+Yönetim Kurulunun görevleri
+MADDE 11
+– (1) Merkez Yönetim Kurulunun
+görevleri şunlardır:
+a) Merkezin çalışması ve yönetimi ile ilgili
+kararlar almak.
+b) Merkez Müdürünün önerilerini değerlendirmek.
+c) Merkezin personel ihtiyacını belirlemek ve
+talepte bulunmak.
+ç) Bu Yönetmelikte belirlenen diğer görevleri
+yerine getirmek.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Birimler,
+program koordinatörleri ve program rehberleri
+MADDE 12
+– (1) Merkez, 5 inci maddede
+belirtilen amaçlarını gerçekleştirmek amacıyla; bünyesinde birimler,
+program koordinatörleri veya program rehberleri şeklinde alt birimler
+oluşturabilir.
+(2) Merkezin birimleri ve alt birimlerinin sayısı,
+görevleri, çalışma usul ve esasları Merkez Yönetim Kurulu tarafından
+belirlenir.
+Personel
+ihtiyacı
+MADDE 13
+– (1) Merkezin akademik, teknik ve
+idari personel ihtiyacı, Merkez Müdürünün önerisi üzerine, 2547 sayılı
+Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel
+tarafından karşılanır.
+Yönetmelikte
+hüküm bulunmayan haller
+MADDE 14
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde, ilgili diğer mevzuat hükümleri ile Senato kararları
+uygulanır.
+Yürürlük
+MADDE 15
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 16
+– (1) Bu Yönetmelik hükümlerini
+Ağrı İbrahim Çeçen Üniversitesi Rektörü yürütür.
