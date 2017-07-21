@@ -1,0 +1,2 @@
+Yönetim kurulu
+MADDE 12 – (1) Yönetim Kurulu; Rektörün başkanlığında, dekanlardan ve Üniversiteye bağlı değişik öğretim birim ve alanları temsil edecek şekilde, Üniversite öğretim üyeleri arasından Senato tarafından dört yıl için seçilecek üç profesörden oluşur. Yönetim Kurulunun raportörlüğünü Üniversite Genel Sekreteri yapar. Yönetim Kurulu, Devlet üniversiteleri yönetim kurulları için 2547 sayılı Kanunda ve Üniversitelerde Akademik Teşkilat Yönetmeliğinde öngörülen görevleri yapar ve yetkileri kullanır.
