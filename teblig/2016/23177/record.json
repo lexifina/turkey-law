@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.23177",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4703 SAYILI ÜRÜNLERE İLİŞKİN TEKNİK MEVZUATIN HAZIRLANMASI VE UYGULANMASINA DAİR KANUNLA DÜZENLENMİŞ OLAN İDARİ PARA CEZALARININ YENİ DEĞERLERİNİN DUYURULMASINA İLİŞKİN TEBLİĞ (ÜRÜN GÜVENLİĞİ VE DENETİMİ: 2017/13)",
+  "number": "23177",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2016/23177",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23177&MevzuatTertip=5",
+  "source_sha256": "6469cef8ee30f8701502bcf706d11659e6095ab46634a288193c9b11a89015fa",
+  "source_bytes": 20896,
+  "published": "2016-12-30",
+  "gazette": "29934 Mükerrer",
+  "in_force": "2017-07-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/7/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-07-21",
+      "RG-21/7/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2017 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 217,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
