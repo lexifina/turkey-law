@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-105[229-2015/VUK-1-19243]-218104",
+  "source_id": 28040,
+  "date": "2017-07-21",
+  "title": "İnternet üzerinden verilen anket hizmetinin vergilendirilmesi ve belge düzeni.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/28040",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "17ac8e87f1b23a9f4094f33cdd17cdc81dfb46021148f51518099af3042ce30e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
