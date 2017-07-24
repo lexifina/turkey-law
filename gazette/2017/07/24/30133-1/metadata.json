@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-07-24",
+  "issue": "30133",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "Beykent Üniversitesi Tıp Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170724-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170724.htm",
+  "index_sha256": "dcb62051de640719f9c652916e890f26ab4f9966d90fa30981cd18946f3ecf4b",
+  "index_header": "24 Temmuz 2017 ... 30133 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/07/20170724.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "8db84bdbb6bd2b8ee3daeeba574b258ba15dc8029758d7d962cc063414a11da7",
+  "text_status": "text.txt as published"
+}
