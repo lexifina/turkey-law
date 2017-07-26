@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23793",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2017/2)",
+  "number": "23793",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2017/23793",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23793&MevzuatTertip=5",
+  "source_sha256": "699adbff1d0db453adf8c316a0343308ae394fea6edfb88c55f28e2d39a8f930",
+  "source_bytes": 19257,
+  "published": "2017-07-26",
+  "gazette": "30135",
+  "in_force": "2017-07-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.07.2017); own commencement article: \"Bu Tebliğ 3/7/2017 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 3/7/2017 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 424,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23793-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
