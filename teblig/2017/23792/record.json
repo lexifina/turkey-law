@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23792",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EUROGAP BELGELENDİRME VE ÖZEL EĞİTİM HİZMETLERİ SAN. TİC. LTD. ŞTİ.’NİN ONAYLANMIŞ KURULUŞ OLARAK GÖREVLENDİRİLMESİNE DAİR TEBLİĞ (MHG/2017-24)",
+  "number": "23792",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2017/23792",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23792&MevzuatTertip=5",
+  "source_sha256": "95d2673e0d367effb30900cef10ef5f7c6cc1e400156d7e6da0097a744338b11",
+  "source_bytes": 8543,
+  "published": "2017-07-26",
+  "gazette": "30135",
+  "in_force": "2017-07-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.07.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 115,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23792-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
