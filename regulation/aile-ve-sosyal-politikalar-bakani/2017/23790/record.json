@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23790",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AİLE VE SOSYAL POLİTİKALAR BAKANLIĞI AVUKATLIK SINAV VE ATAMA YÖNETMELİĞİ",
+  "number": "23790",
+  "issuer": "Aile ve Sosyal Politikalar Bakanı",
+  "issuer_slug": "aile-ve-sosyal-politikalar-bakani",
+  "path": "regulation/aile-ve-sosyal-politikalar-bakani/2017/23790",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23790&MevzuatTertip=5",
+  "source_sha256": "d8ad6564e6ba3440dadfe68eee684f27751633b77e850674c996cece57efdcb7",
+  "source_bytes": 42603,
+  "published": "2017-07-26",
+  "gazette": "30135",
+  "in_force": "2017-07-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.07.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2079,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
