@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.01-140.04.01[59/2017]-21399",
+  "source_id": 35921,
+  "date": "2017-07-26",
+  "title": "Finansal Kiralama A.Ş. ile şirket arasında imzalanan finansal kiralama sözleşmesinin, 492 sayılı Kanunun 59 uncu maddesinin (p) bendinin yürürlük tarihinden önce sona ermesi durumunda taşınmazın şirketinize geri devrinde tapu harcı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35921",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "da861a8b40d165cc90fb4246818ce8ea8ec7e613d5e43b591ecff4de44b1c32c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
