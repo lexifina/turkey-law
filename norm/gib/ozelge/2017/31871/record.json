@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[89-2014/674]-224222",
+  "source_id": 31871,
+  "date": "2017-07-27",
+  "title": "Bağış olarak inşa edilecek okulun vergi kanunları karşısındaki durumu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/31871",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "f11823a905ac0db3eb8b2c15dfbcc8871d90ae3966601f76d5a23f38ae44ca9d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
