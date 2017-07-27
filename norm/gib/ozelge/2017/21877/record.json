@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GIB.4.34.16 .01-120-225465",
+  "source_id": 21877,
+  "date": "2017-07-27",
+  "title": "Reklam, kısa film ve film yapımı gibi yapım faaliyetinden elde edilecek kazancın ticari kazanç olarak mı serbest meslek kazancı olarak mı vergilendirilecegi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21877",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "b654a59ef5da7004c0c596f7afd3b505ed9c0b385d1cdb98900e3bf0b13d7cc8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
