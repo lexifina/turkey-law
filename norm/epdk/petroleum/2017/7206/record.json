@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7206",
+  "decision_date": "2017-07-27",
+  "title": "Omv Petrol Ofisi A.Ş.’nin; DEP/474-3/10361 sayılı Depolama Lisansı kapsamında Liman Mah. Liman 2 Cad. No:7 Konyaaltı/ANTALYA adresinde faaliyette bulunan Antalya Akaryakıt Depolama ve Dolum Tesisine ilişkin depolama tarifesine ilişkin",
+  "resmi_gazete_date": "2017-08-01",
+  "resmi_gazete_number": "30141",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GUvhIiLJDZI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GUvhIiLJDZI="
+  ],
+  "source_sha256": "994201a7894f5d8b94a4f032952d46eabcf8646304c5f4e1c9aa07d1024aeec0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-07-27",
+  "law_text_complete": true
+}
