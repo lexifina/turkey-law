@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.02-130[KDV.2014.198]-109263",
+  "source_id": 31980,
+  "date": "2017-07-27",
+  "title": "Elektrikli binek oto tesliminde KDV oranı ve matrahı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31980",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "8583bcbafaa152f6758aa96b842c09955068334e6966218ab65d4c980ddeed65",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
