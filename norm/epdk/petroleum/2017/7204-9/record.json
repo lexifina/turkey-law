@@ -1,0 +1,29 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7204-9",
+  "decision_date": "2017-07-27",
+  "title": "Stok İzleme Sistemine İlişkin Usul Ve Esaslar Hakkında Karar",
+  "resmi_gazete_date": "2017-08-01",
+  "resmi_gazete_number": "30141",
+  "categories": [
+    "Zorunlu Petrol Stoku Stok İzleme Sistemine İlişkin Usul ve Esaslar Hakkında Kurul Kararı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0tM2juTewe8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0tM2juTewe8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XKOpbLLOJ0I=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nHjZEPDTqPc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dh1VzgLUdrE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=K0XhA3Y42FU="
+  ],
+  "source_sha256": "fd752ff2cc80bd02f819634ff4e3aee7a84b14462652b3daf8e4abf151908d60",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4761,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2017-07-27",
+  "law_text_complete": false
+}
