@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-125.05-13903",
+  "source_id": 27827,
+  "date": "2017-07-28",
+  "title": "Kurumun aktifinde yer alan iştirak hisselerinin vadeli satışının zararla sonuçlanması durumunda zararın indirim konusu yapılıp yapılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27827",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "87a7997bbe2f25444ce0215cefccd12ca2d0191182e275a04c17d2fadc4202d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
