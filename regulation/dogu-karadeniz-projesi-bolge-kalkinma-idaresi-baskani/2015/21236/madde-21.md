@@ -1,0 +1,2 @@
+Kurum dışından yapılacak atamalar
+MADDE 21 – (1) Diğer kamu kurum ve kuruluşlarında çalışmakta olan personelin, görev yaptığı aynı unvana veya bu unvan ile birlikte aynı alt grupta yer alan diğer unvanlara veya görev yaptığı unvanla aynı düzeyde olan unvanlara ya da daha alt unvanlara bu Yönetmelikteki hükümlere bağlı kalmaksızın öğrenim koşulu ve hizmet süresi gibi mevzuatta aranan diğer şartları taşıması kaydıyla, ilgili personelin isteği halinde genel hükümlere göre naklen ataması yapılabilir.
