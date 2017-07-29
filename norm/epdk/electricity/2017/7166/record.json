@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7166",
+  "decision_date": "2017-07-29",
+  "title": "01/07/2017 tarihinden geçeli tarife tabloları ,",
+  "resmi_gazete_date": "2017-06-30",
+  "resmi_gazete_number": "30110",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=s5EZvJjRZys=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=s5EZvJjRZys=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gT/Zr9FEtao="
+  ],
+  "source_sha256": "99f0364fd47cef2b78b4adabfe4ee6e3f06eb56dbff4878e573038a8b77c6c41",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2017-07-29",
+  "law_text_complete": false
+}
