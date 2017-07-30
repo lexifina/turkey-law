@@ -1,0 +1,301 @@
+30 Temmuz 2017 PAZAR
+Resmî Gazete
+Sayı : 30139
+YÖNETMELİK
+Kafkas Üniversitesinden:
+KAFKAS ÜNİVERSİTESİ ATÇILIK, ATLI SPORLAR VE
+HİPPOTERAPİ
+EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı; Kafkas
+Üniversitesi Atçılık, Atlı Sporlar ve Hippoterapi
+Eğitimi Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına,
+yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline
+ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Kafkas Üniversitesi Atçılık,
+Atlı Sporlar ve Hippoterapi Eğitimi Uygulama ve
+Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına ve
+yönetim organlarının görevlerine ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 4/11/1981
+tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci
+maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14
+üncü maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+b) Merkez: Kafkas Üniversitesi Atçılık, Atlı
+Sporlar ve Hippoterapi Eğitimi Uygulama ve
+Araştırma Merkezini,
+c) Müdür: Merkezin Müdürünü,
+ç) Rektör: Kafkas Üniversitesi Rektörünü,
+d) Üniversite: Kafkas Üniversitesini,
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin
+amaçları
+MADDE 5 – (1) Merkezin amaçları şunlardır:
+a) Atçılık konusunda bilimsel
+çalışmalar yapmak, spor atları (koşu ve binicilik atı) temininde dışa
+bağımlılığı azaltacak, ihracatı geliştirecek yüksek fenotipik
+ve genotipik özelliklere sahip atlar
+yetiştirilmesinde ilgili kurum ve kuruluşlara bilimsel öncülük etmek, her
+türlü iş birliğini yapmak, farklı genetik karakterdeki at ırklarını
+morfolojik ve moleküler teknikler kullanarak tanımlamak, geleneksel atlı
+sporlarda kullanılan yerli at ırklarını koruyacak ve geliştirecek
+çalışmaları gerçekleştirmek.
+b) Atlı sporların her konu ve
+aşamasında görev, çalışma ve uygulama yapan şahıs, kurum ve kuruluşların
+yetenek, bilgi, beceri, nitelik ve niceliğini artıracak bilimsel her türlü
+uygulama ve araştırma faaliyetini gerçekleştirmek; atlı sporları
+etkinleştirecek ve yaygınlaştıracak teknik ve bilimsel çalışmaları ilgili
+şahıs, kurum ve kuruluşlarla işbirliği içerisinde yürütmek, bu konularda
+öncülük etmek, projeler hazırlamak, danışmanlık hizmetleri vermek.
+c) Başta hippoterapi
+olmak üzere atla gerçekleştirilen her türlü bilimsel tedavi ve rehabilitasyon yöntemini araştıracak, uygulayacak ve
+geliştirecek çalışmaları ilgili şahıs, kurum ve kuruluşlarla işbirliği ve
+koordinasyon içerisinde yapmak.
+Merkezin
+faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Atçılık sektöründe yoğun ihtiyaç duyulan ve
+temininde dışa bağımlılığın söz konusu olduğu amaca uygun yüksek
+performanslı yarış ve spor atlarının yetiştirilmesini teşvik edici
+çalışmalarda bulunmak, bu konularda çalışma yapan şahıs, kurum ve
+kuruluşlarla işbirliği yapmak, bilimsel destek sağlamak ve danışmanlık
+yapmak.
+b) Ülke genelinde kaybolmaya yüz tutmuş cirit gibi
+her türlü geleneksel atlı sporun canlandırılmasına ve sevdirilmesine dönük
+uygulama ve çalışmalar yapmak, bu konularda mevcut kulüplerle işbirliği
+yapmak, yeni kulüplerin kurulmasına öncülük etmek, bu sporların icra
+edilmesinde karşılaşılan sorunların bilimsel bir bakışla çözümlenmesine
+yardımcı olmak.
+c) Türkiye’deki yerli at ırklarının tespiti,
+tescili, koruması ve uygun alanlarda gen kaynakları oluşturulması için
+ilgili kurum ve kuruluşlarla işbirliği yapmak, kurum ve kuruluşlarca
+yapılacak çalışmalara yardımcı olmak.
+ç) Atlarda koşu ve yarış performansını artırıcı
+yöntem ve teknikler üzerinde araştırmalar yapmak, atçılığın gelişmesine
+katkı sağlayacak her türlü atlı sporun yapılmasını başta Kars ili olmak
+üzere ülke genelinde teşvik edici çalışmalar yapmak.
+d) Türk kültürünün önemli bir parçası olan at,
+atçılık ve atlı sporların detaylı olarak ve tüm yönleriyle tarih biliminin
+yöntemleriyle araştırılacağı bilimsel çalışmaları yapmak ve yaptırmak, bu
+konuda kaynak olacak yayınlar hazırlatmak.
+e) Çoğunlukla ithal edilmekte olan atçılık ve
+binicilik malzemeleri ile donanımlarının Türkiye’de üretilmesini teşvik
+edici çalışmalar yapmak, sanayi ve sektör bileşenleri ile işbirliği yaparak
+teknolojik gelişmeler ışığında daha ucuz, modern ve kullanışlı yeni malzeme
+ve donanım üretilmesi konusunda araştırmalar yapmak, ihtiyaç duyulan
+konularda sektöre bilimsel destek sağlamak.
+f) Atçılık sektörünün ayrılmaz bir parçası olan ve
+giderek yok olmaya yüz tutan nalbantlığın yeniden canlandırılması ve modern
+atçılığın ihtiyaçlarına cevap verir hale getirilmesi için çalışmalar
+yapmak, nal ve nalbantlık malzemelerinin geliştirilmesine dönük
+araştırmalar yapmak.
+g) Üniversite bünyesinde hippoterapi
+uygulama ve araştırmaları yapılmasını teşvik etmek, hippoterapi
+konusunda bilgili at eğitmeni, amaca uygun at ve tesis ihtiyaçlarını
+karşılamak, destek ve yardımcı taraf olarak işbirliği içerisinde
+çalışmalara katılmak.
+ğ) At, atçılık ve atlı sporlara ilişkin bilimsel
+araştırma, geliştirme, inceleme ve yayım faaliyetlerinde bulunmak, bu
+amaçla periyodik yayımlar çıkarmak, seminer, konferans ve kongre gibi
+ulusal ve uluslararası çalışmalar yapmak, diğer kurum ve kuruluşlarca
+yürütülecek faaliyetlere destek vermek.
+h) At yardımlı müdahalelerde, birlikte çalışmak
+durumunda kalacak, sağlık lisansiyerleri olan, fizyoterapist,
+ergoterapist, dil konuşma terapisti, psikolog ve
+dünya genelinde kabul edilen ilgili alan terapisti uzmanları ile at ve
+atçılık konusunda yetkin tüm çalışanları, engelli birey ve/veya ihtiyaç
+sahibi bireylerin at yardımlı müdahalelerinde taşıyacakları nitelikleri ve
+sorumluluklarını tanımlayarak, ilgili alanda görev alacak personel ve
+gerçekleştirilecek uygulamalara ilişkin, yetkinlik belgelerinin ve belge
+kullanımlarının devamlılığının kurallarını oluşturmak ve geliştirmek.
+ı) Araştırma faaliyetleri sonucunda elde edilen
+sonuçları ulusal ve uluslararası platformlarda yayımlamak, at, atçılık ve
+atlı sporlara yönelik ulusal ve uluslararası yayımları toplayarak kütüphane
+oluşturmak.
+i) Atçılık ve atlı spor sektörleri ile Üniversite
+arasındaki ilişkiyi güçlendirmek ve sektörlerde karşılaşılan sorunların
+çözümüne katkıda bulunacak ulusal ve uluslararası bilimsel toplantılar
+düzenlemek, düzenlenen toplantılara katılmak, yerli ve yabancı sektör
+bileşenlerini buluşturmak, yenilikleri ve gelişmeleri ilgili kişi, kurum ve
+kuruluşlara aktarmak ve paylaşmak.
+j) Atçılık ve atlı sporların geliştirilmesi için
+periyodik aralıklarla kurs ve eğitim faaliyetleri düzenlemek, danışmanlık
+faaliyetleri yapmak, işletmelere üniversitelerin atçılık ve çalıştırıcılık
+programı mezunlarından yetişmiş insan gücü sağlanmasına aracılık yapmak.
+k) Atlı sporların geliştirilmesi ve teşviki için
+çeşitli ulusal ve uluslararası yarışmalar, müsabakalar, sosyal ve sportif
+etkinlikler düzenlemek, düzenlenen yarışmalara, müsabakalara, sosyal ve
+sportif etkinliklere katılmak, Üniversiteyi bu etkinliklerde temsil etmek.
+l) Ulusal ve uluslararası fonlardan yararlanmak
+için projeler hazırlamak ve mevcut projelere ortak olmak suretiyle yöresel,
+ulusal ve uluslararası alanda at, atçılık, atlı sporlar ve hippoterapi uygulamalarının geliştirilmesine katkıda
+bulunmak.
+m) Merkezin amaçları doğrultusunda diğer
+faaliyetlerde bulunmak.
+ÜÇÜNCÜ BÖLÜM
+Merkezin Yönetim Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 – (1) Merkezin yönetim organları şunlardır:
+a) Müdür.
+b) Yönetim Kurulu.
+c) Danışma Kurulu.
+Müdür
+MADDE 8 – (1) Müdür, Rektör tarafından, Merkezin amacına
+uygun bir bilim dalında tam gün çalışan ve konusunda bilimsel deneyimi olan
+Üniversite öğretim üyeleri arasından üç yıl süre ile görevlendirilir.
+Süresi biten Müdür aynı usulle yeniden görevlendirilebilir.
+(2) Müdürün önerisi ile Rektör, Üniversitenin
+öğretim üyeleri arasından iki kişiyi müdür yardımcısı olarak görevlendirir.
+Müdür, gerekli gördüğü hâllerde yardımcılarının değiştirilmesini teklif
+edebilir. Müdürün görev süresi sona erdiğinde yardımcılarının görev süresi
+de sona erer. Müdür, görevi başında olmadığı zamanlarda, Müdürün uygun
+gördüğü bir müdür yardımcısı yerine vekâlet eder. Vekâletin altı aydan
+fazla sürmesi halinde yeni bir Müdür görevlendirilir.
+(3) Müdür ve müdür yardımcıları, Yönetim Kurulunun
+doğal üyesidir. Müdür, bu Yönetmelikle belirlenen çalışmaların düzenli bir
+şekilde yürütülmesinden, Merkezin bütün faaliyetlerinin gözetim ve
+denetiminden sorumlu olup, her öğretim yılı sonunda ve istenildiğinde,
+Merkezin işleyişi ve faaliyetleri hakkında Rektöre rapor verir.
+(4) Rektöre karşı sorumlu olan ve Merkezi temsil
+eden Müdür, Yönetim Kuruluna ve Danışma Kuruluna başkanlık eder,
+çalışmaların düzenli bir şekilde yürütülmesi ve denetimi ile ilgili gerekli
+tedbirleri alır.
+Müdürün
+görevleri
+MADDE 9 –
+(1) Müdürün görevleri şunlardır:
+a) Çeşitli bilim alanlarından Yönetim Kurulunda
+görev yapabilecek üyeleri belirleyerek görevlendirilmesi için Rektöre
+teklif etmek.
+b) Merkezi temsil etmek ve Yönetim Kuruluna ve
+Danışma Kuruluna başkanlık yapmak.
+c) Yönetim Kurulunun toplantı gündemini belirlemek
+ve Yönetim Kurulunu toplantıya çağırmak.
+ç) Yönetim Kurulu kararlarını uygulamak ve Merkezin
+idari işlerini yürütmek.
+d) Yönetim Kurulu tarafından karar verilen
+konularda gerekli protokol ve anlaşmaları yapmak.
+e) Merkez bünyesinde oluşturulabilecek çalışma
+gruplarının faaliyetlerini düzenlemek, yürütmek, koordine etmek,
+denetlemek.
+f) Merkezin faaliyetleri ile ilgili olarak her yıl
+Rektöre rapor sunmak.
+g) Bu Yönetmelik ve ilgili diğer mevzuat
+hükümlerine göre Merkezi yönetmek.
+Yönetim
+Kurulu
+MADDE 10
+– (1) Yönetim Kurulu; Müdür ve
+müdür yardımcıları ile Merkezin amacına uygun çalışmalarda bulunan
+Üniversite öğretim elemanları arasından, Müdürün teklifi üzerine Rektör
+tarafından üç yıl için görevlendirilen üç üye olmak üzere toplam altı
+üyeden oluşur. Görev süresi biten Yönetim Kurulu üyesi aynı usulle yeniden
+görevlendirilebilir. Yönetim Kurulundan görev süresi dolmadan ayrılan veya
+altı aydan fazla görevlendirme sebebiyle toplantılara katılamayacak olan
+üyenin yerine, kalan süreyi tamamlamak üzere Müdürün önerisiyle Rektör
+tarafından yeni bir üye görevlendirilir.
+(2) Yönetim Kurulu, Müdürün çağrısı üzerine yılda
+en az dört defa salt çoğunlukla toplanır ve kararlar oyçokluğu ile alınır.
+Müdür, Yönetim Kurulunun başkanıdır. Müdürün yokluğunda bu görevi, Müdüre
+vekâlet eden müdür yardımcısı üstlenir.
+Yönetim
+Kurulunun görevleri
+MADDE 11
+– (1) Yönetim Kurulunun görevleri
+şunlardır:
+a) Merkezin yıllık çalışmaları ile ilgili plân ve
+programların hazırlanmasını ve uygulanmasını sağlamak.
+b) Merkezin çalışmaları ve yönetimi ile ilgili
+kararlar almak.
+c) Bir sonraki takvim yılı içinde yapılacak her
+türlü bilimsel, eğitsel ve uygulamalı toplantı ve faaliyetleri belirlemek.
+ç) Müdürün önerisi üzerine Merkezin idari ve teknik
+eleman ihtiyacını tespit etmek, karara bağlamak ve Rektörün onayına sunmak.
+d) Merkezin yıllık faaliyet raporlarını incelemek
+ve onaylamak.
+e) Yurt içi ve yurt dışı bilim, araştırma, inceleme
+kurumları, özel ve kamu kuruluşları, vakıf ve derneklerle işbirliği yaparak
+amaç ve görevlerine uygun proje ve karşılıklı yardımlaşmayı
+gerçekleştirmek.
+f) Müdür tarafından gündeme alınan diğer konuları
+görüşüp karara bağlamak.
+g) İlgili mevzuat hükümlerine göre verilen diğer
+görevleri yapmak.
+Danışma
+Kurulu
+MADDE 12 – (1) Danışma
+Kurulu; Müdürün başkanlığında, Merkezin faaliyet alanlarında bilgi ve
+deneyime sahip olan öğretim elemanları ve istekleri halinde, at, atçılık ve
+atlı sporların geliştirilmesine katkıda bulunan kamu kurum ve kuruluşları
+veya özel sektör temsilcileri ile bu konuda çalışan araştırmacılar
+arasından, Müdürün önerisi üzerine Rektör tarafından üç yıl süre ile görevlendirilen
+en fazla on kişiden oluşur.
+(2) Görev süresi biten üyeler aynı usulle yeniden
+görevlendirilebilir.
+(3) Danışma Kurulu, Müdürün çağrısı üzerine yılda
+en az iki defa toplanır ve tavsiye niteliğinde kararlar alır. Toplantılarda
+salt çoğunluk aranmaz.
+(4) Müdürün önerisi ve Danışma Kurulunun onayı ile
+Üniversite dışından konu ile ilgili kişiler görüşleri alınmak üzere Danışma
+Kurulu toplantılarına çağrılabilir.
+Danışma
+Kurulunun görevleri
+MADDE 13
+– (1) Danışma Kurulunun görevleri
+şunlardır:
+a) Merkezin çalışmalarına teklif ve öneriler ile
+katkıda bulunmak.
+b) Merkezin çalışmalarına her türlü kaynak ve
+desteği sağlamak için önerilerde bulunmak.
+c) Merkezin faaliyet alanı ile ilgili konularda istişari nitelikte kararlar almak.
+Çalışma
+grupları
+MADDE 14
+– (1) Çalışma grupları; Yönetim
+Kurulunca Merkezin faaliyet alanı ile ilgili konularda oluşturulur. Çalışma
+grupları bir başkan ile uzmanlardan meydana gelir. Çalışma grupları
+Merkezin faaliyet alanları ve Yönetim Kurulları tarafından verilen görevler
+çerçevesinde çalışmalar yapar.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Personel
+ihtiyacı
+MADDE 15
+– (1) Merkezin akademik, teknik ve
+idari personel ihtiyacı; 2547 sayılı Kanunun 13 üncü maddesi hükümlerine
+göre Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+Harcama
+yetkilisi
+MADDE 16
+– (1) Merkezin harcama yetkilisi
+Rektördür. Rektör bu yetkisini uygun gördüğü ölçüde Müdüre devredebilir.
+Ekipman
+ve demirbaşlar
+MADDE 17
+– (1) Merkez tarafından yürütülen
+çalışma ve araştırmalar kapsamında alınan her türlü alet, ekipman ve demirbaş malzemeler Merkezin kullanımına
+tahsis edilir.
+Hüküm
+bulunmayan haller
+MADDE 18
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde ilgili diğer mevzuat hükümleri uygulanır.
+Yürürlük
+MADDE 19
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 20
+– (1) Bu Yönetmelik hükümlerini
+Kafkas Üniversitesi Rektörü yürütür.
