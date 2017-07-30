@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-07-30",
+      "30.07.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30139",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-07-30",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kafkas Üniversitesi",
+  "issuer_slug": "kafkas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kafkas-universitesi/2017/23809",
+  "published": "2017-07-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23809&MevzuatTertip=5",
+  "source_bytes": 37126,
+  "source_id": "8.5.23809",
+  "source_sha256": "763442beecba388cd8bd224a82cbf12f31c68445fc3bdc7851bc25fc8cd5f3b4",
+  "text_status": "as-enacted",
+  "title": "KAFKAS ÜNİVERSİTESİ ATÇILIK, ATLI SPORLAR VE HİPPOTERAPİ EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 206,
+  "word_count": 1740
+}
