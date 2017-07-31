@@ -1,0 +1,29 @@
+{
+  "number": "month-07",
+  "year": 2017,
+  "month": 7,
+  "title": "2017 YILI TEMMUZ AYI 1. BİRLEŞİM MECLİS KARAR ÖZETİ",
+  "decision_date": null,
+  "index_date": "2017-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2017",
+  "source": "https://www.beykoy.bel.tr/karar/2017-yili-temmuz-ayi-1-birlesim-meclis-karar-ozeti",
+  "official_page": "https://www.beykoy.bel.tr/karar/2017-yili-temmuz-ayi-1-birlesim-meclis-karar-ozeti",
+  "official_document": "https://www.beykoy.bel.tr/karar/2017-yili-temmuz-ayi-1-birlesim-meclis-karar-ozeti",
+  "source_sha256": "623ca8bfb88b98912c23915caeb0bbbaad0435e17a8d1a0a6c8902fe3755baa5",
+  "issuer": "Beyköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2017-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2017 YILI TEMMUZ AYI 1. BİRLEŞİM MECLİS KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 1 scanned image(s); not transcribed here"
+}
