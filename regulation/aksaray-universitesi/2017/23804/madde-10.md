@@ -1,0 +1,2 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; embriyo transferi konusunda çalışmaları olan tam zamanlı veteriner fakültesi öğretim üyelerinden Rektör tarafından iki yıl süre ile görevlendirilecek dört üye ve Müdür olmak üzere toplam beş üyeden oluşur. Görev süresi biten üye yeniden görevlendirilebilir. Görev süresi dolmadan görevden ayrılan üyenin yerine kalan süreyi tamamlamak üzere yeni bir üye görevlendirilebilir. Yönetim Kurulu, Müdürün çağrısı üzerine en az üç ayda bir, üyelerinin salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır.
