@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-01-05",
+      "05.01.2010",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2017-08-03",
+      "RG-3/8/2017- 30143",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-08-03",
+      "RG-3/8/2017- 30143",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-08-03",
+      "RG-3/8/2017- 30143",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-08-03",
+      "3/8/2017",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-3/8/2017- 30143",
+  "first_law": null,
+  "gazette": "27453",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-08-03",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Munzur Üniversitesi",
+  "issuer_slug": "munzur-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/munzur-universitesi/2010/13698",
+  "published": "2010-01-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13698&MevzuatTertip=5",
+  "source_bytes": 36491,
+  "source_id": "8.5.13698",
+  "source_sha256": "d6e544e9fef89d9b0a9ca69792e6c9440c417b85f0aa7533b8a6d73f263af609",
+  "text_status": "current-consolidated",
+  "title": "MUNZUR ÜNİVERSİTESİ İSTEĞE BAĞLI YABANCI DİL HAZIRLIK SINIFI EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 344,
+  "word_count": 1062
+}
