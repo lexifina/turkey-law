@@ -1,0 +1,2 @@
+Eğitim ücreti
+MADDE 16 – (1) Merkezin ulusal ve uluslararası kurum, kuruluş ve kişilere düzenlemiş olduğu, kurslar, seminerler, konferanslar, dersler ve benzeri faaliyetler için uygulanacak uzaktan eğitim ücretleri Müdürün önerisiyle Yönetim Kurulu tarafından belirlenir. Üniversitelerarası uzaktan yükseköğretim öğrencileri ile Üniversitenin kendi bünyesinde yükseköğretim diploma programlarına kayıtlı öğrenciler hakkında ise ilgili mevzuat hükümleri ile Yükseköğretim Kurulu kararları uygulanır.
