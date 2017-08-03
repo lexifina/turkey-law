@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7224",
+  "decision_date": "2017-08-03",
+  "title": "Doğal Gaz Piyasası Lisans Yönetmeliğinde yapılan ve 24.05.2017 tarih ve 30075 sayılı Resmi Gazetede Yayımlanarak yürürlüğe giren değişiklikle ihdas edilen yeni lisanslara ilişkin",
+  "resmi_gazete_date": "2017-08-08",
+  "resmi_gazete_number": "08.08.2017",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=R/1jJa+IDZI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=R/1jJa+IDZI="
+  ],
+  "source_sha256": "0d1749c72a4dfaf62b3e2aa1e93ca5ec81c767d5f8ebbe2f48dfdb7c64996872",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-08-03",
+  "law_text_complete": true
+}
