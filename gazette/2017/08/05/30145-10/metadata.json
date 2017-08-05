@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-08-05",
+  "issue": "30145",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özelleştirme İdaresi Başkanlığının 01/08/2017 Tarihli ve 2017/ÖİB-K-99 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/08/20170805-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/08/20170805.htm",
+  "index_sha256": "0a0b4c75aefc6110a52d82607f750b58bb7d1ee9824256513e7d37641584e08a",
+  "index_header": "5 Ağustos 2017 ... 30145 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/08/20170805.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "456d6cdf556fe12b3fbfe3765674aab1ca5ac290482029063a673fcbf50f57f8",
+  "text_status": "text.txt as published"
+}
