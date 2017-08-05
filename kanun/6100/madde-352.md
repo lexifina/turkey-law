@@ -1,2 +1,10 @@
 Ön inceleme
-MADDE 352- (1) Bölge adliye mahkemesi hukuk dairesince dosya üzerinde yapılacak ön inceleme sonunda; incelemenin başka bir dairece yapılması gerektiği, kararın kesin olduğu, başvurunun süresi içinde yapılmadığı, başvuru şartlarının yerine getirilmediği, başvuru sebeplerinin veya gerekçesinin hiç gösterilmediği tespit edilen dosyalar hakkında öncelikle gerekli karar verilir. Eksiklik bulunmadığı anlaşılan dosya incelemeye alınır.
+MADDE 352- (Değişik: 20/7/2017-7035/28 md.)
+(1) Bölge adliye mahkemesi hukuk dairesince dosya üzerinde yapılacak ön inceleme sonunda aşağıdaki durumlardan birinin tespiti hâlinde öncelikle gerekli karar verilir:
+a) İncelemenin başka bir dairece veya bölge adliye mahkemesince yapılmasının gerekli olması
+b) Kararın kesin olması
+c) Başvurunun süresi içinde yapılmaması
+ç) Başvuru şartlarının yerine getirilmemesi
+d) Başvuru sebeplerinin veya gerekçesinin hiç gösterilmemesi
+(2) Ön inceleme heyetçe veya görevlendirilecek bir üye tarafından yapılır ve ön inceleme sonunda karar heyetçe verilir.
+(3) Eksiklik bulunmadığı anlaşılan dosya incelemeye alınır.
