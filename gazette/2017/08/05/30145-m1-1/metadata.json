@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-08-05",
+  "issue": "30145",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7035 Bölge Adliye ve Bölge İdare Mahkemelerinin İşleyişinde Ortaya Çıkan Sorunların Giderilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/08/20170805M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/08/20170805M1.htm",
+  "index_sha256": "a2632fa05d66646e069889282df8430fcd5753f8c1678ba7441a11e8504b2d81",
+  "index_header": "5 Ağustos 2017 ... 30145 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/08/20170805M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
