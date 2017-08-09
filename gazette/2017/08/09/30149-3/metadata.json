@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-08-09",
+  "issue": "30149",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Noterler Birliği Satın Alma ve İhale Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/08/20170809-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/08/20170809.htm",
+  "index_sha256": "570195c29fe55f3e5cb0e4583ce687ef040b8f569aaf30a1b815c8c72bafe66f",
+  "index_header": "9 Ağustos 2017 ... 30149 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/08/20170809.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "f7b9e7a0c35d612c4ac7ef0527c3fd2138f1bdc6ac41ac82f6e6d6fa5c9f3b65",
+  "text_status": "text.txt as published"
+}
