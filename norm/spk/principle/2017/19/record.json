@@ -1,0 +1,65 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "19",
+  "decision_number": "31/1042",
+  "date": "2017-08-11",
+  "title": "Kurul’un 11/08/2017 Tarih ve 31/1042 Sayılı Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/19",
+  "source_sha256": "e263d9e86317cc2e705fb1a20f7f2936f850399ae19058bb30d54e0a4040826d",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 19,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 1. Kurul’un 11/08/2017 tarih ve 31/1042 sayılı Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2017-08-11",
+    "source_clauses": [
+      "1. Kurul’un 11/08/2017 tarih ve 31/1042 sayılı Kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "c76a09c2-deef-4318-8a1f-c2d6181d4a6d",
+    "contentSource": "IlkeKarari",
+    "contentID": 19,
+    "tur": "Kurul Kararı",
+    "title": "Kurul’un 11/08/2017 Tarih ve 31/1042 Sayılı Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2017-08-11T00:00:00",
+    "kurulKararTarih": "11.08.2017",
+    "kurulToplantiNo": "31/1042",
+    "bultenYili": 2017,
+    "bultenNo": 29,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "130:Yatırım Hizmetleri ve Faaliyetleri İle Yan Hizmetlere İlişkin Esaslar Hakkında Tebliğ",
+    "baglantiliTebligler": [
+      {
+        "key": 130,
+        "value": "Yatırım Hizmetleri ve Faaliyetleri İle Yan Hizmetlere İlişkin Esaslar Hakkında Tebliğ"
+      }
+    ],
+    "ilgiliKonularStr": ";",
+    "ilgiliKonular": null,
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/19",
+    "linkTarget": "_blank"
+  }
+}

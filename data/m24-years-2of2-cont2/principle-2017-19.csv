@@ -1,0 +1,2 @@
+year,number,published,title,source,source_sha256,representation,act_path,words,omitted_sections,note
+2017,19,2017-08-11,Kurul’un 11/08/2017 Tarih ve 31/1042 Sayılı Kararı,https://mevzuat.spk.gov.tr/api/IlkeKarari/File/19,e263d9e86317cc2e705fb1a20f7f2936f850399ae19058bb30d54e0a4040826d,regulatory-text,norm/spk/principle/2017/19,164,,whole official standalone text; decision date independently present in PDF
