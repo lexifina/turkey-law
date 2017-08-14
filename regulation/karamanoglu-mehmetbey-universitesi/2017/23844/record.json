@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-08-14",
+      "14.08.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30154",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-08-14",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Karamanoğlu Mehmetbey Üniversitesi",
+  "issuer_slug": "karamanoglu-mehmetbey-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/karamanoglu-mehmetbey-universitesi/2017/23844",
+  "published": "2017-08-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23844&MevzuatTertip=5",
+  "source_bytes": 24076,
+  "source_id": "8.5.23844",
+  "source_sha256": "ebbc5dc26f829a534c0bdb695282dbd4a63a806c86bc9811058c904d004c27e7",
+  "text_status": "as-enacted",
+  "title": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ BİYOÇEŞİTLİLİK\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 311,
+  "word_count": 853
+}
