@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 57 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-08-14",
+      "14.08.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 57 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30154",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-08-14",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ağrı İbrahim Çeçen Üniversitesi",
+  "issuer_slug": "agri-ibrahim-cecen-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/agri-ibrahim-cecen-universitesi/2017/23843",
+  "published": "2017-08-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23843&MevzuatTertip=5",
+  "source_bytes": 123969,
+  "source_id": "8.5.23843",
+  "source_sha256": "2fc9ac7ea892e30b165ab811e7984aa89e8a5efbdeeec576af6ace165afe0db0",
+  "text_status": "as-enacted",
+  "title": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 323,
+  "word_count": 8090
+}
