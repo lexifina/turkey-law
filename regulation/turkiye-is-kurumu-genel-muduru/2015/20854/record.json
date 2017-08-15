@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.20854",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE İŞ KURUMU GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "20854",
+  "issuer": "Türkiye İş Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-is-kurumu-genel-muduru",
+  "path": "regulation/turkiye-is-kurumu-genel-muduru/2015/20854",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20854&MevzuatTertip=5",
+  "source_sha256": "cf653117ddd8152777b7465ff88a3addca356ffadb095b96b2906bcdf8554785",
+  "source_bytes": 62328,
+  "published": "2015-06-24",
+  "gazette": "29396",
+  "in_force": "2017-08-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/8/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-08-15",
+      "RG-15/8/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-08-15",
+      "15/8/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2914,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
