@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.02-130-121232",
+  "source_id": 29082,
+  "date": "2017-08-15",
+  "title": "Serbest Bölge ile Havaalanı Arasındaki Taşımacılıkta KDV.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29082",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "9f2bc2d386a51db1846949120c4a524644f2a029047225f4c0ed8ba85b2e7766",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
