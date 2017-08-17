@@ -1,0 +1,24 @@
+{
+  "number": "345",
+  "number_as_published": "345",
+  "year": 2017,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(KARAKÖRÜ-BÖLÜCEK)",
+  "decision_date": "2017-08-17",
+  "source": "https://www.sanliurfa.bel.tr/icerik/4938/106/nazim-ve-uygulama-imar-planikarakoru-bolucek",
+  "official_document": null,
+  "source_sha256": "21c83815824e7efa718de77adfa2948e09e9cf6b0568b18d4032d4283ca726ff",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2017-08-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17.08.2017 tarih ve 345 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2017-10-06",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=5"
+}
