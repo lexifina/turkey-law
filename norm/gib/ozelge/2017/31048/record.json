@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-105[Mük.257-2015/VUK1-19457]-256526",
+  "source_id": 31048,
+  "date": "2017-08-18",
+  "title": "İhraç kayıtlı e-faturada KDV'nin hesaplanmaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/31048",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "30f51c2f6fdf7a40d752ab19bce70691cab71097d938e09ec99377019bc85bfb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
