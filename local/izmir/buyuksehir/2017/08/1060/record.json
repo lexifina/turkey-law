@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "1060",
+  "decision_date": "2017-08-18",
+  "official_id": "23592",
+  "version_label": "as-enacted",
+  "text_status": "complete decision text as published in the register's KararDetay field (HTML); annexes not supplied",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2017&ay=&gun=&txtSozcuk=&draw=1&start=300&length=100&txtKararNo=",
+  "source_listing_sha256": "459d9671b6e69cba962b663e6ad022b67ae8f515836ab3b8149025158bc2702a",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": false
+}
