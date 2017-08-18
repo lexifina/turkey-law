@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.18.01-175.02[6360.Geç.1.2016/7.1.4-679760]-256428",
+  "source_id": 37291,
+  "date": "2017-08-18",
+  "title": "Köy Tüzel Kişiliğinden Mahalle Statüsüne Geçen Yerlerdeki İşyerlerinin Kiracıları Tarafından Ödenen Çevre Temizlik Vergisi Muafiyeti Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37291",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "42759e841fff70ec22b8163a1d9a8899d4d017e23c133d14c2e44aec9c1826a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
