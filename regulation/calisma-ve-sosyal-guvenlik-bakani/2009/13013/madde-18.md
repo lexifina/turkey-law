@@ -1,0 +1,4 @@
+İşyeri ve çalışma koşullarının (Değişik ibare:RG-2/8/2013-28726) engellilere göre hazırlanması
+MADDE 18 – (1) İşverenler, işyerlerini (Değişik ibare:RG-2/8/2013-28726) engellilerin çalışmalarını kolaylaştıracak ve işin (Değişik ibare:RG-2/8/2013-28726) engelli çalışana uygunluğunu sağlayacak şekilde hazırlamak, sağlıkları için gerekli tedbirleri almak, mesleklerinde veya mesleklerine yakın işlerde çalıştırmak, işleriyle ilgili bilgi ve yeteneklerini geliştirmek, çalışmaları için gerekli araç ve gereçleri sağlamak zorundadırlar.
+(2) Uygun koşulların varlığı halinde çalışma sürelerinin başlangıç ve bitiş saatleri iş kanunlarında belirtilen sürelerden az olmamak koşuluyla, (Değişik ibare:RG-2/8/2013-28726) engellinin durumuna göre belirlenebilir.
+(Değişik ibare:RG-2/8/2013-28726) engellilerin çalıştırılamayacakları işler

@@ -1,0 +1,3 @@
+Eski hükümlülerin çalıştırılmayacakları işyerleri
+MADDE 20 – (1) Eski hükümlülerin, herhangi bir sınırlama olmaksızın kamuya ait işyerlerinde çalıştırılmaları esastır. Ancak, kamu güvenliği ile ilgili hizmet üreten işyerlerinde eski hükümlü çalıştırılamaz. Bu kapsamdaki işyerleri ilgisine göre, Adalet, Milli Savunma, İçişleri ve Milli Eğitim Bakanlıklarının görüşleri alınarak Çalışma ve Sosyal Güvenlik Bakanlığı tarafından tespit edilir.
+(2) (Ek:RG-6/12/2012-28489) Eski hükümlü çalıştırılamayacağı tespit edilen işyerlerindeki bu çalıştırma yükümlülüğü, terörle mücadelede malul sayılmayacak şekilde yaralananlar arasından karşılanır.

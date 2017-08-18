@@ -1,0 +1,6 @@
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Denetim ve idari para cezası
+MADDE 21 – (1) (Değişik:RG-6/12/2012-28489) Bu Yönetmelik kapsamındaki işyerlerinde çalıştırılacak (Değişik ibare:RG-2/8/2013-28726) engelli, eski hükümlü veya terörle mücadelede malul sayılmayacak şekilde yaralanan işçilerle ilgili yapılacak denetim, 4857 sayılı İş Kanununun öngördüğü çalışma hayatının denetimi ve teftişi esaslarına göre yapılır.
+(2) (Değişik:RG-6/12/2012-28489) (Değişik ibare:RG-6/8/2014-29080) Engelli ve eski hükümlü işçi çalıştırılmasına ilişkin yükümlülüklerini yerine getirmediği tespit edilen işveren hakkında 4857 sayılı İş Kanununun 101 inci maddesinde belirtilen idari para cezası, aynı Kanunun 108 inci maddesi gereğince, işyerinin bulunduğu yerdeki Kurum İl Müdürü tarafından doğrudan verilir.
+(3) Kurum tarafından, kamu ve özel kesim işyerlerinden iş ve işgücü konularında bilgi istenildiğinde, belirtilen süre içinde bilgi verilmesi zorunludur. Bu bildirim yükümlülüğüne aykırı hareket eden özel kesim işyerlerine 4904 sayılı Türkiye İş Kurumu Kanununun 20 nci maddesinin birinci fıkrasının (e) bendi gereğince idari para cezası verilir. Toplanan bilgiler, Kurum hizmetlerinden başka amaçla kullanılamaz.
