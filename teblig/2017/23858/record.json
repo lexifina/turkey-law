@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.23858",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ(SERİ NO: 71)",
+  "number": "23858",
+  "path": "teblig/2017/23858",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23858&MevzuatTertip=5",
+  "source_sha256": "e5f412270bec3c6131b89a2aef9786169d88eaa50711d5ec0b5d92688cb59a1e",
+  "source_bytes": 7914,
+  "published": "2017-08-18",
+  "gazette": "30158",
+  "in_force": "2017-08-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.08.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 169,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23858-Ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
