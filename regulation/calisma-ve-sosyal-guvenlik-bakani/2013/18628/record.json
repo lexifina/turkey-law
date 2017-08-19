@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.18628",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KADIN ÇALIŞANLARIN GECE POSTALARINDA ÇALIŞTIRILMA KOŞULLARI HAKKINDA YÖNETMELİK",
+  "number": "18628",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2013/18628",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18628&MevzuatTertip=5",
+  "source_sha256": "ec8591d9aedfb6024ae98d4e717751b3ac82d01945fa0b790a917963b263374b",
+  "source_bytes": 20958,
+  "published": "2013-07-24",
+  "gazette": "28717",
+  "in_force": "2017-08-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/8/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-08-19",
+      "RG-19/8/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-08-19",
+      "19/8/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 668,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
