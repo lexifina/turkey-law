@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.01-120.04-126189",
+  "source_id": 24332,
+  "date": "2017-08-23",
+  "title": "Velayeti eşte bulunan çocuk için yapılan eğitim giderinin gelir vergisi matrahından indirim konusu yapılıp yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24332",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "30e4182fbcaa7af94ce45e9555305a26c13fda48dac032c4d6071db2edef7df3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
