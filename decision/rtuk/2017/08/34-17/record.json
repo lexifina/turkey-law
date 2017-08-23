@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2017/34",
+  "meeting_date": "2017-08-23",
+  "meeting_date_as_published": "23.8.2017",
+  "decision_no": "17",
+  "source_id": 9628,
+  "title": "RTÜK kararı 2017/34-17",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/9628",
+  "source_sha256": "2928ec5565a78c0b7e84502f96898e7b86cebeaeb41161bf0698b3d8d68b3c92",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
