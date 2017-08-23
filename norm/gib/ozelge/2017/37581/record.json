@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70903105-165.01.02 [36]-E. 105622",
+  "source_id": 37581,
+  "date": "2017-08-23",
+  "title": "Yurt dışında bulunan ortak firmadan kullanılan döviz kredisinin sermaye artırımında kullanılarak kapatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/37581",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "ac5bcaac893338ce43ae512346ebbcb5c599ca0b4846182833c1a0fb0b99d940",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
