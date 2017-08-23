@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-140.04.01[2016/702]-309257",
+  "source_id": 35620,
+  "date": "2017-08-23",
+  "title": "Mahkeme kararına istinaden malik kaydının iptal edilerek tapuda yapılacak tescil işleminden ne şekilde harç alınacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35620",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "37608e78d7a319c5ca5fc83697da916ac093f4021a745fed6e1c0d4c8d3a10d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
