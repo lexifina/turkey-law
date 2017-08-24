@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[6-2015/86]-266587",
+  "source_id": 28163,
+  "date": "2017-08-24",
+  "title": "Yurtdışındaki şubenin iflası nedeniyle tahsil edilemeyen alacağın kurum kazancının tespitinde gider olarak dikkate alınıp alınamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28163",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "f123a9413ca1597a0d96c0270cc3c1f0be9c9a9ef8147e0327e15d756a05bdc5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
