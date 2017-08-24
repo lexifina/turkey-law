@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7262-3",
+  "decision_date": "2017-08-24",
+  "title": "Bağlantı Anlaşmasına Çağrı Mektubunda yer alan kurulu gücün ve 1 MW’ın üzerinde geçici kabulü tamamlanarak işletmeye geçen üretim tesislerine ilişkin",
+  "resmi_gazete_date": "2017-08-26",
+  "resmi_gazete_number": "30166",
+  "categories": [
+    "Lisanssız Elektrik Üretimine İlişkin Kurul Kararı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UALF85scFWg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UALF85scFWg="
+  ],
+  "source_sha256": "1c27078252fc1aeb2db2112da2081d72e806afda618cb585b762f2a22a078d59",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33881,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-08-24",
+  "law_text_complete": true
+}
