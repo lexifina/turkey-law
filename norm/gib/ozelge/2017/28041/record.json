@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-125.08[8-2016/8]-24639",
+  "source_id": 28041,
+  "date": "2017-08-24",
+  "title": "DSİ'ye ödenen ortak tesislere katılım payının nasıl giderleştirileceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/28041",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "1d71027f4acf5a39c80d4034fbbc5f929349a20d9dca474141c66fb82cdaa524",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
