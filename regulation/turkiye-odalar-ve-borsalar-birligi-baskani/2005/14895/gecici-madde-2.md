@@ -1,0 +1,1 @@
+Geçici Madde 2- Borsalar, meslek gruplarını bu Yönetmeliğin 5 inci maddesinde belirtilen Rehberin yayımlanmasından itibaren altı ay içinde bu Rehbere uygun hale getirir. Bu işlem nedeniyle meslek grubu değişen üyelerin organ üyelikleri, müteakip genel seçimlere kadar devam eder.

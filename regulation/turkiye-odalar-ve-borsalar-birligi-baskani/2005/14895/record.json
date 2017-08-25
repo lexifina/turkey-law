@@ -1,0 +1,78 @@
+{
+  "source_id": "7.5.14895",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TİCARET BORSALARINDA MESLEKLERİN GRUPLANDIRILMASI HAKKINDA YÖNETMELİK",
+  "number": "14895",
+  "issuer": "Türkiye Odalar ve Borsalar Birliği Başkanı",
+  "issuer_slug": "turkiye-odalar-ve-borsalar-birligi-baskani",
+  "path": "regulation/turkiye-odalar-ve-borsalar-birligi-baskani/2005/14895",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14895&MevzuatTertip=5",
+  "source_sha256": "9bac560ce1d034735305f6b3153a5bcb40ccd33de33d93158b2b341c366d70c7",
+  "source_bytes": 46949,
+  "published": "2005-01-19",
+  "gazette": "25705",
+  "in_force": "2017-08-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/8/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-08-25",
+      "RG-25/8/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-08-25",
+      "25/8/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-03-28",
+      "28/3/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-09-29",
+      "RG-29/9/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-09-29",
+      "29/9/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-06-03",
+      "RG-3/6/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-06-03",
+      "3/6/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-04-09",
+      "RG-9/4/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-04-09",
+      "9/4/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2040,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
