@@ -1,0 +1,78 @@
+{
+  "source_id": "7.5.14896",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ODALARDA MESLEKLERİN GRUPLANDIRILMASI HAKKINDA YÖNETMELİK",
+  "number": "14896",
+  "issuer": "Türkiye Odalar ve Borsalar Birliği Başkanı",
+  "issuer_slug": "turkiye-odalar-ve-borsalar-birligi-baskani",
+  "path": "regulation/turkiye-odalar-ve-borsalar-birligi-baskani/2005/14896",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14896&MevzuatTertip=5",
+  "source_sha256": "4f4d8cc319a898e79166c0b728ddc57fea1cf4770b17c22665913cabdfd6ab25",
+  "source_bytes": 48655,
+  "published": "2005-01-19",
+  "gazette": "25705",
+  "in_force": "2017-08-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/8/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-08-25",
+      "RG-25/8/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-08-25",
+      "25/8/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-03-26",
+      "26/3/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-09-29",
+      "RG-29/9/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-09-29",
+      "29/9/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-06-03",
+      "RG-3/6/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-06-03",
+      "3/6/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-04-09",
+      "RG-9/4/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-04-09",
+      "9/4/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2125,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
