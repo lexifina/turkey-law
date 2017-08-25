@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.23867",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ ELEKTRİK MÜHENDİSLERİ ODASI NORM GELİŞTİRME MERKEZİ USUL VE ESASLARI YÖNETMELİĞİ",
+  "number": "23867",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Elektrik Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-elektrik-muhendisleri-odasi-yonetim-kurulu",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-elektrik-muhendisleri-odasi-yonetim-kurulu/2017/23867",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23867&MevzuatTertip=5",
+  "source_sha256": "34e19e2dbe75f49fc3b6b9cac6b74c7ddcad8a9eb69953b6749102dad72671e2",
+  "source_bytes": 21910,
+  "published": "2017-08-25",
+  "gazette": "30165",
+  "in_force": "2017-08-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.08.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 910,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23867-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
