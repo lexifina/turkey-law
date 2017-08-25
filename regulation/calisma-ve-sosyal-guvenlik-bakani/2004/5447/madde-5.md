@@ -1,0 +1,5 @@
+Denkleştirme Esasına Göre Çalışma
+Madde 5 —Tarafların yazılı anlaşması ile haftalık normal çalışma süresi, işyerinde haftanın çalışılan günlerine günde onbir saati aşmamak koşuluyla farklı şekilde dağıtılabilir. Bu halde, yoğunlaştırılmış iş haftası veya haftalarından sonraki dönemde işçinin daha az sürelerle çalıştırılması suretiyle, toplam çalışma süresi, çalışması gereken toplam normal süreyi geçmeyecek şekilde denkleştirilir.
+Denkleştirme iki aylık süre içinde tamamlanacak, bu süre toplu iş sözleşmeleri ile dört aya kadar artırılabilecektir. (Ek cümle:RG-25/8/2017-30165) Turizm sektöründe dört aylık süre içinde işçinin haftalık ortalama çalışma süresi, normal haftalık çalışma süresini aşamaz; denkleştirme süresi toplu iş sözleşmeleri ile altı aya kadar artırılabilir.
+Parça başına, akort veya götürü gibi yapılan iş tutarına göre ücret ödenen işlerde de bu Yönetmeliğin denkleştirmeye ilişkin hükümleri uygulanır.
+Denkleştirme dönemi içinde günlük ve haftalık çalışma süreleri ile denkleştirme süresi uygulamasının başlangıç ve bitiş tarihleri işverence belirlenir.
