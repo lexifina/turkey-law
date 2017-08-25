@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-125[49.01.27]-96176",
+  "source_id": 28716,
+  "date": "2017-08-25",
+  "title": "Tamamlanmış bina alımı için yapılan harcamaların indirimli kurumlar vergisinden yararlanıp yararlanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28716",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "efd1f5056f77a13e9d58e0bd701b6baeb3539c58ed77a01adcea1834bd621060",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
