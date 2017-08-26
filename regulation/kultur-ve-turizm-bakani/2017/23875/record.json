@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23875",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EDEBİYAT ESERLERİNİN DESTEKLENMESİ HAKKINDA YÖNETMELİK",
+  "number": "23875",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2017/23875",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23875&MevzuatTertip=5",
+  "source_sha256": "545095071ea789b20cbcda5418d6a42bc867868634c1677b06bafd2c4eb81659",
+  "source_bytes": 28418,
+  "published": "2017-08-26",
+  "gazette": "30166",
+  "in_force": "2017-08-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.08.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1158,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
