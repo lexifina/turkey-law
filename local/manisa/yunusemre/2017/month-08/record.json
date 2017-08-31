@@ -1,0 +1,30 @@
+{
+  "number": "month-08",
+  "year": 2017,
+  "month": 8,
+  "title": "Ağustos 2017 Meclis Karar Özetleri",
+  "decision_date": null,
+  "index_date": "2017-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2017",
+  "source": "https://www.yunusemre.bel.tr/siteApi/services/meclisGundemVeKararlari.json?month=0&year=2017&type=karar",
+  "official_page": null,
+  "official_document": "https://www.yunusemre.bel.tr/fileserver/uploads//img/uploads/pdf/2017/09/6e9a7afc867c01f509df6bc9126331e0cec278f8.pdf",
+  "source_sha256": "f64eec105997a002109ef4a744f85dce9228bcdd19dca85db1cfc689b367ca28",
+  "issuer": "Yunusemre Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2017-08-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ağustos 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Ağustos 2017 Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "list_date": "15 Ağustos 2017",
+  "list_year": 2017
+}
