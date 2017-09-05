@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 26,
+  "legislative_year": 2,
+  "esas_no": "7/17248",
+  "submitted": "2017-09-05",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Nihat AKDOĞAN",
+  "province": "Hakkari",
+  "summary": "Hakkari'nin Şemdinli ilçesi kırsalında çıkan orman yangınlarına ve söndürme çalışmalarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-88ee-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "93c34e30c7712bec0c60cd4d8ac654bc057edd86cad35e22a86c310b63c1b272",
+  "in_force": "2017-09-05",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
