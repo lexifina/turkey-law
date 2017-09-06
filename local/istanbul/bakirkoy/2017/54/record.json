@@ -1,0 +1,23 @@
+{
+  "number": "54",
+  "number_as_published": "54",
+  "year": 2017,
+  "title": "Özel Güvenlik Hizmeti İhalesi",
+  "decision_date": "2017-09-06",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/45",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/54-insan-kaynaklari-md-ozel-guvenlik-ihalesi-06092017.pdf",
+  "source_sha256": "1370d804978ff0a5b49067e6375df0aaddce450f9160259aba0a3177477d9679",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-09-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06 Eylül 2017 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
