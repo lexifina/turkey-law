@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[15-14/3]-319156",
+  "source_id": 37614,
+  "date": "2017-09-07",
+  "title": "5366 Sayılı Kanun Kapsamında Düzenlenen İhale Kararı ve Sözleşme ile Hak Ediş Ödemelerinde Vergilendirme hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37614",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "6407a43e78bfd570d3c7a70199d886428c018f12a0f23957294b22bc1a127944",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
