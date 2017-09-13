@@ -1,0 +1,86 @@
+{
+  "source_id": "7.5.9479",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "CEZA İNFAZ KURUMLARI VE TUTUKEVLERİ PERSONELİ EĞİTİM MERKEZLERİ KURULUŞ, GÖREV VE ÇALIŞMA YÖNETMELİĞİ",
+  "number": "9479",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2004/9479",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9479&MevzuatTertip=5",
+  "source_sha256": "96710a2a370ca3dad3dc7a599482aaf2994848e6b2c51332e8a08fbaf65af959",
+  "source_bytes": 152307,
+  "published": "2004-05-04",
+  "gazette": "25452",
+  "in_force": "2017-09-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/9/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-09-13",
+      "RG-13/9/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-09-13",
+      "13/9/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-05-30",
+      "RG-30/5/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-05-30",
+      "30/5/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-03-30",
+      "RG-30/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-30",
+      "30/3/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-02-01",
+      "RG-1/2/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-02-01",
+      "1/2/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2008-06-20",
+      "RG-20/6/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-06-20",
+      "20/6/2008",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmî Gazete'de yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6288,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.9479%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,3 @@
+Kayıt Süresi
+Madde 32 – (Başlığı ile değişik:RG-20/6/2008-26912)
+Öğrenciliğe kabul kararı onaylanan idare memurluğu ile infaz ve koruma memurluğu öğrencileri için kayıt tarihi ilânda duyurulur. Kayıt süresi beş gündür. Eğitime başladıkları tarihte, sağlık raporu ve güvenlik soruşturması işlemleri tamamlanmamış olanlar için geçici kayıt yapılır. Sağlık raporunun tamamlanması ve soruşturmanın olumlu sonuçlanmasından sonra da kesin kayıt yapılır. Sağlık raporunun ibraz edilmemesi veya güvenlik soruşturmasının olumsuz sonuçlanması halinde adayların öğrencilikle ilişikleri kesilir ve yerlerine öğrenci adayı alınmaz.

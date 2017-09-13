@@ -1,0 +1,3 @@
+Eğitim Kurulunun Çalışması
+Madde 22 - Eğitim Kurulu, Bakanlıkta her üç ayda en az bir defa toplanır. Başkan gerekli gördüğü hâllerde Kurulu toplantıya çağırabilir. Toplantı yeri, konusu ve saati çağrıda belirtilir. Bakanın bulunmadığı zamanlarda Eğitim Kuruluna Bakanlık Müsteşarı başkanlık eder. Eğitim Kurulunun sekreterya görevi Genel Müdürlükçe yerine getirilir.
+Eğitim Kurulu, üye tam sayısının salt çoğunluğunun bir fazlasıyla toplanır. Kararlar, katılan üyelerin salt çoğunluğu ile kabul edilir. Toplantılara, Genel Müdürlüğün eğitimden sorumlu tetkik hâkimi raportörlük, yeteri kadar memur ise sekretarya görevini yürütmek üzere katılabilir. Kurul, gerekli gördüğü hâllerde görüşülen konunun ilgililerini dinleyebilir veya bunlardan bilgi isteyebilir.

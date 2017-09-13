@@ -1,0 +1,2 @@
+Öğretim Görevlileri ve Görevlendirme
+Madde 27 - Eğitim merkezlerinde; öğretim görevlileri, Bakanın istemi üzerine ilgili kurum, kuruluş veya kurulun yetkili organlarınca ek görevle görevlendirilmeleri uygun görülen yeteri kadar Yargıtay ve Danıştay üyeleri, yüksek öğretim kurumları öğretim elemanları, meslekte fiilen on yılını tamamlamış hâkim ve Cumhuriyet savcıları ile avukatlar, kurum kontrolörleri, müdürleri, doktorları, psikologları, psikiyatristleri, pedagogları, sosyal çalışmacıları ve öğretmenleri ile diğer uzmanlardan oluşur.
