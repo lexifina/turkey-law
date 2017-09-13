@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43279",
+  "decision_date": "2017-09-13",
+  "source_id": 14155,
+  "chamber": "5",
+  "file_number": "41314",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14155/",
+  "source_sha256": "a692021bb42eb08ac4e384723e74e11bf3adeaf61d0116523b07da2bf7fef591",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
