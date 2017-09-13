@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43270",
+  "decision_date": "2017-09-13",
+  "source_id": 14146,
+  "chamber": "2",
+  "file_number": "40356",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2013",
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14146/",
+  "source_sha256": "da550005839daec6c3eb27d09b5e113c847148c3edf7b14cba974441c4f74af2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
