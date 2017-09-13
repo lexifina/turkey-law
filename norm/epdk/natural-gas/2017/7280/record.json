@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7280",
+  "decision_date": "2017-09-13",
+  "title": "Doğal Gaz Dağıtım Şirketleri İçin Tarife Hesaplama Usul ve Esasları (Metodoloji) uyarınca, doğal gaz dağıtım şirketlerinin ikinci tarife uygulama dönemi tarife hesaplamalarında işletme gideri bileşeninin belirlenmesine yönelik",
+  "resmi_gazete_date": "2017-09-16",
+  "resmi_gazete_number": "30182",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1zqGf+URmRY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1zqGf+URmRY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UthDMOqT2Og="
+  ],
+  "source_sha256": "4231a13b26ec0b3a238b7dec0e8769ae7986f734d69c1b6e5724f493e45c2a83",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-09-13",
+  "law_text_complete": true
+}
