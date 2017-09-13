@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7278",
+  "decision_date": "2017-09-13",
+  "title": "Bağlantı bedelleri hakkında karar",
+  "resmi_gazete_date": "2017-10-18",
+  "resmi_gazete_number": "30214",
+  "categories": [
+    "Bağlantı Bedeli"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=N5PuPqdMTaM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=N5PuPqdMTaM="
+  ],
+  "source_sha256": "67dffcd951c460a4f72a99c600468afbae71ef8f10bd175ed48e7e2e71c89719",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1851,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-09-13",
+  "law_text_complete": true
+}
