@@ -1,0 +1,5 @@
+Kamu görevlilerine çalıştaya katılmalarından dolayı gündelik ve konaklama ücreti yerine, gündelik ve bir derneğe ait fatura karşılığı hizmet bedeli ödenmesi;
+
+223 sayılı İlamın 3. maddesiyle verilen … TL’nin tazminine dair hükümde Harcama Yetkilisi sıfatı ile iştiraki bulunan …’nın itiraz başvurusu üzerine düzenlenen 39547 sayılı dosya, 13.09.2017 tarih ve 43266 tutanak sayılı Temyiz Kurulu İlamı ile; belirtilen açıklamalar doğrultusunda ilamda yer alan tereddütlerin giderilmesini takiben yapılacak değerlendirmeye binaen kamu zararı oluşup oluşmadığının tespit edilmesi suretiyle yeni bir hüküm kurulmasını teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle dairesine gönderildiğinden; bir diğer sorumluyu (Gerçekleştirme Görevlisi sıfatıyla temyiz talep eden BAP Şube Müdürü …’u) ilgilendiren ve aynı mahiyette olan 39548 sayılı işbu dosyanın da sözü edilen (39547 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 13.09.2017 tarih ve 43266 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
