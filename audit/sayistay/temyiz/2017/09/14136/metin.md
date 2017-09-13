@@ -1,0 +1,5 @@
+Milletvekilliğinden emekli olduktan sonra üniversiteye dönen öğretim üyesine maaş ödenmesi;
+
+319 sayılı Ek İlamın 2. maddesiyle verilen … TL’nin tazminine dair hükümde Harcama Yetkilisi sıfatıyla iştiraki bulunan … ile Fer’i Müdahil sıfatıyla (Ahiz) …’in itiraz başvurusu üzerine düzenlenen 39966 sayılı dosya, 13.09.2017 tarih ve 43263 tutanak sayılı Temyiz Kurulu İlamı ile; karar düzeltilmesi yoluyla bozularak tazmin hükmünün kaldırılması gerektiğine yönelik hususların tekrar değerlendirilmesini teminen Dairesine gönderildiğinden; karar düzeltilmesi talebinde bulunan sorumlu vekilleri ile fer’i müdahili (Gerçekleştirme Görevlisi Fakülte Sekreteri … adına Vekil Avukat sıfatıyla karar düzeltilmesi talep eden … ve … ile Fer’i Müdahil sıfatıyla karar düzeltilmesi talep eden Ahiz …’i) ilgilendiren 39967 sayılı işbu dosyanın da sözü edilen (39966 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 13.09.2017 tarih ve 43264 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
