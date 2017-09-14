@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7287",
+  "decision_date": "2017-09-14",
+  "title": "Enerji Piyasası Bildirim Sistemi Kullanım Talimatı”nın eki olan “Ek-1 Elektrik Piyasası Bildirim Yükümlülük Tablosu”nun değiştirilmesine ilişkin",
+  "resmi_gazete_date": "2017-09-16",
+  "resmi_gazete_number": "30182",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BIW5u42aNO4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BIW5u42aNO4="
+  ],
+  "source_sha256": "ca4a9ffaef12303f34e4e887f4307a5aa176558b790ed5a7f057f25b82753b40",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-09-14",
+  "law_text_complete": true
+}
