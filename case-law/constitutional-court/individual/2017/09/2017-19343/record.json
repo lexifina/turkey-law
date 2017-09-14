@@ -1,0 +1,20 @@
+{
+  "applicant": "L.A.",
+  "application_date": "2017-04-05",
+  "application_number": "2017/19343",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2017-09-14",
+  "id": "cf9de456-d4fc-f8cd-af81-235c1b8e460a",
+  "in_force": "2017-09-14",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmNmOWRlNDU2LWQ0ZmMtZjhjZC1hZjgxLTIzNWMxYjhlNDYwYQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "2cc4ced377a0ce0dc6de347aa23ff4a468116dd5ee6fc77fe9b5dd85a8fabb11",
+  "version_label": "as-enacted"
+}
