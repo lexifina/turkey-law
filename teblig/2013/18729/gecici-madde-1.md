@@ -1,0 +1,3 @@
+Geçici hükümler
+GEÇİCİ MADDE 1 – (Değişik:RG-17/9/2017-30183)
+(1) Gıda işletmecisi, bu Tebliğin yürürlüğe girdiği tarihten önce ithal edilen veya üretilen veya işlenen veya piyasaya arz edilen ve bu Tebliğin yürürlüğe girdiği tarihten sonra da ithal edilmesi veya üretilmesi veya işlenmesi veya piyasaya arz edilmesi devam eden aynı takviye edici gıdaları 31/12/2016 tarihine kadar bu Tebliğ hükümlerine uygun hale getirmek zorundadır. Ancak, 2/5/2013 tarihli ve 28635 sayılı Resmî Gazete’de yayımlanan Takviye Edici Gıdaların İthalatı, Üretimi, İşlenmesi ve Piyasaya Arzına İlişkin Yönetmelik kapsamında 31/12/2016 tarihine kadar onay almış veya onay başvurusunda bulunulmuş ve 17/9/2017 tarihinden önce piyasaya arz edilmiş ürünler 1/7/2018 tarihine kadar piyasada bulunabilir.
