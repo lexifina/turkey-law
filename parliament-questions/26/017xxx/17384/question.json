@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 26,
+  "legislative_year": 2,
+  "esas_no": "7/17384",
+  "submitted": "2017-09-19",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Tur YILDIZ BİÇER",
+  "province": "Manisa",
+  "summary": "19 Mayıs Atatürk'ü Anma Gençlik ve Spor Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı ve 29 Ekim Cumhuriyet Bayramı'nın belirli gün ve haftalar çizelgesinde yer almamasına ve bu bayramların yer aldığı sosyal etkinlik ve yarışma yönetmeliklerinin yürürlükten kaldırılmasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-8dc3-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "a7b2753ac8f2e68fed165cb4be77367b5151961cf93db47a89ed55eba596e444",
+  "in_force": "2017-09-19",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
