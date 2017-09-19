@@ -1,0 +1,18 @@
+19 Eylül 2017 SALI
+Resmî Gazete
+Sayı : 30185
+YÖNETMELİK
+Süleyman Demirel Üniversitesinden:
+SÜLEYMAN DEMİREL ÜNİVERSİTESİ ENERJİ ARAŞTIRMALARI
+UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİNİN
+YÜRÜRLÜKTEN KALDIRILMASINA DAİR YÖNETMELİK
+MADDE 1 – 20/9/2011 tarihli ve
+28060 sayılı Resmî Gazete’de yayımlanan Süleyman Demirel Üniversitesi
+Enerji Araştırmaları Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten
+kaldırılmıştır.
+MADDE 2 –
+Bu Yönetmelik yayımı tarihinde
+yürürlüğe girer.
+MADDE 3 –
+Bu Yönetmelik hükümlerini Süleyman
+Demirel Üniversitesi Rektörü yürütür.
