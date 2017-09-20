@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43302",
+  "decision_date": "2017-09-20",
+  "source_id": 14707,
+  "chamber": "7",
+  "file_number": "42108",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2012",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14707/",
+  "source_sha256": "e8d0bb346d8a61bd5c7de79aa50df683822dd167fca3134ef1454b32903e05d6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
