@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43303",
+  "decision_date": "2017-09-20",
+  "source_id": 14722,
+  "chamber": "7",
+  "file_number": "39821",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2012",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14722/",
+  "source_sha256": "b3cc018d48a352bf15e535d14e8f8cee8bc0b7997b4b2e2e470936a224fef06c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
