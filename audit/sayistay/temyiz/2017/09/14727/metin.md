@@ -1,0 +1,3 @@
+Konu: Proje Destek Programı kapsamında yapılan ödemelerin projede belirtilen niteliklere sahip olmamasına rağmen destek ödemesinde bulunulması hakkında.
+
+3) 262 sayılı İlam’ın 24 üncü maddesinin (A) Bendi ile verilen hüküm, sorumlulukta Gerçekleştirme Görevlisi sıfatıyla iştiraki bulunan ... ’ın başvurusu üzerine düzenlenen 20.09.2017 tarih ve 43303 tutanak sayılı Temyiz Kurulu İlamının 2 nci maddesi ile bozulduğundan sorumlunun işbu madde ile ilgili itirazı üzerine Kurulumuzca Yapılacak İşlem Olmadığına; ancak aynı mahiyette olan bu dosyanın, gereği yapılmak üzere 43303 sayılı dosya ile BİRLEŞTİRİLEREK DAİRESİNE TEVDİİNE, Oybirliği ile,
