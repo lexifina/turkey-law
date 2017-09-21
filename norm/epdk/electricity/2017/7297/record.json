@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7297",
+  "decision_date": "2017-09-21",
+  "title": "Elektrik Piyasası Dağıtım Sistemi Yatırımlarına İlişkin Usul ve Esaslar’ın 6 ncı maddesinin üçüncü fıkrasında geçen Şebeke İşletim Sistemi yatırımlarına ilişkin",
+  "resmi_gazete_date": "2017-09-30",
+  "resmi_gazete_number": "30196",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U5XMvSw4aXU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=U5XMvSw4aXU="
+  ],
+  "source_sha256": "01e855649aceda2e46837a969b3b50a5e7dbd6a5081b754a83db91daf82ada43",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-09-21",
+  "law_text_complete": true
+}
