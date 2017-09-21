@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7296",
+  "decision_date": "2017-09-21",
+  "title": "Elektrik Piyasası Dağıtım Sistemi Yatırımlarına İlişkin Usul ve Esaslarda Değişiklik Yapılmasına Dair Usul ve Esaslar, Ek : ElektrikPiyasasiDagitimSistemiYatirimlarinaIliskinUsulveEsaslar(yenihali_30_09_2017)",
+  "resmi_gazete_date": "2017-09-30",
+  "resmi_gazete_number": "30196",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Xq30JK3we2I=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Xq30JK3we2I=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gEXGCk8uxMs="
+  ],
+  "source_sha256": "597828e26946a114564cd543727799021880c1d10c2155dab4f19ab4d33cdbba",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-09-21",
+  "law_text_complete": true
+}
