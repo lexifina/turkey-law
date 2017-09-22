@@ -1,0 +1,24 @@
+{
+  "number": "413",
+  "number_as_published": "413",
+  "year": 2017,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(SURUÇ-YENİŞEHİR(REMİL))",
+  "decision_date": "2017-09-22",
+  "source": "https://www.sanliurfa.bel.tr/icerik/4941/106/nazim-ve-uygulama-imar-planisuruc-yenisehirremil",
+  "official_document": null,
+  "source_sha256": "23aa603a5f9a75c2cdd4b64f78691569f94110f324282d4da4c2b00f7af73f1e",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2017-09-22",
+  "in_force_basis": "Decision date as printed in the official council listing: 22.09.2017 tarih ve 413 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2017-10-06",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=5"
+}
