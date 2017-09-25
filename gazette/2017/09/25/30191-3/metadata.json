@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-09-25",
+  "issue": "30191",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "Aile ve Sosyal Politikalar, Bilim, Sanayi ve Teknoloji, Çalışma ve Sosyal Güvenlik, Çevre ve Şehircilik, Dışişleri, Ekonomi, Enerji ve Tabii Kaynaklar, Gıda, Tarım ve Hayvancılık, Kültür ve Turizm, Maliye, Orman ve Su İşleri ile Ulaştırma, Denizcilik ve Haberleşme Bakanlıklarına Ait Atama Kararları",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/09/20170925-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/09/20170925.htm",
+  "index_sha256": "837856d2992475ee1c687537af62ac05cf4f16f2c3c394bbc571923e52342fbd",
+  "index_header": "25 Eylül 2017 ... 30191 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/09/20170925.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
