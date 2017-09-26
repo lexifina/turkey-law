@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-09-26",
+      "26.09.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30192",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-09-26",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/2017/23918",
+  "published": "2017-09-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23918&MevzuatTertip=5",
+  "source_bytes": 24493,
+  "source_id": "8.5.23918",
+  "source_sha256": "d46db8841f02bbe201d23720113cb8289a9943c88e5a27cd73644ecd673a5c94",
+  "text_status": "as-enacted",
+  "title": "GAZİANTEP ÜNİVERSİTESİ PSİKOLOJİK DANIŞMA VE REHBERLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 912
+}
