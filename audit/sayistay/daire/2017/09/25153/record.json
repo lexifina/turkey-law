@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "479",
+  "decision_date": "2017-09-26",
+  "source_id": 25153,
+  "chamber": "6",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25153/",
+  "source_sha256": "68451ec3be032ce4972559bd1f52e19ac1adfcf983f8d36be594aebe3301805d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
