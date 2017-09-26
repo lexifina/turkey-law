@@ -1,0 +1,67 @@
+Toplu sözleşme hükümlerine aykırı olarak yasal üst sınırda verilen sosyal denge tazminatına ilaveten ikramiye adı altında ödeme yapılması:
+
+…Belediyesi tarafından memur personele toplu sözleşme hükümlerine aykırı olarak yasal üst sınırda verilen sosyal denge tazminatına ilaveten ikramiye adı altında ödeme yapılması suretiyle kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak yapılan incelemede;
+
+12.07.2001 tarih ve 24460 sayılı resmi gazetede yayımlanan 4688 Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanununun “Kapsam” başlıklı 2’nci maddesinde
+
+“Bu Kanun, Devletin veya diğer kamu tüzel kişilerinin yürütmekle görevli oldukları kamu hizmetlerinin görüldüğü genel, katma ve özel bütçeli idareler, il özel idareleri ve belediyeler ile bunlara bağlı kuruluşlarda kamu iktisadî teşebbüslerinde, özel kanunlarla veya özel kanunların verdiği yetkiye dayanarak kurulan banka ve teşekküller ile bunlara bağlı kuruluşlarda ve diğer kamu kurum veya kuruluşlarında işçi statüsü dışında çalışan kamu görevlileri hakkında uygulanır.”
+
+“Toplu sözleşmenin kapsamı” başlıklı 28’inci maddesinde
+
+“Toplu sözleşme; kamu görevlilerinin mali ve sosyal haklarını düzenleyen mevcut mevzuat hükümleri dikkate alınarak kamu görevlilerine uygulanacak katsayı ve göstergeler, aylık ve ücretler, her türlü zam ve tazminatlar, ek ödeme, toplu sözleşme ikramiyesi, fazla çalışma ücreti, harcırah, ikramiye, doğum, ölüm ve aile yardımı ödenekleri, cenaze giderleri, yiyecek ve giyecek yardımları ve diğer mali ve sosyal hakları kapsar.
+
+Toplu sözleşme ikramiyesi hariç olmak üzere toplu sözleşme hükümlerinin uygulanmasında sendika üyesi olan ve sendika üyesi olmayan kamu görevlileri arasında ayrım yapılamaz.
+
+Toplu sözleşme hükümleri, sözleşmenin yapıldığı tarihi takip eden iki mali yıl için geçerlidir.
+
+8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununa göre aylık ödenmekte olanların aylıklarının hesabında da toplu sözleşme hükümlerine göre belirlenen aylık ve taban aylık katsayıları esas alınır. 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamındaki sigortalılık hali esas alınarak bağlanan yaşlılık, malullük veya ölüm aylıklarında yapılacak artışlar hakkında 5510 sayılı Kanunun 55 inci maddesinin ikinci fıkrası uygulanmaz ve bu aylıklar toplu sözleşme hükümlerine göre belirlenen aylık ve taban aylık katsayılarındaki artış dikkate alınarak artırılır.”
+
+“Toplu sözleşmenin tarafları ve imza yetkisi” başlıklı 29’uncu maddesinde,
+
+“Toplu sözleşme görüşmelerine kamu idaresi adına Kamu İşveren Heyeti, kamu görevlileri adına Kamu Görevlileri Sendikaları Heyeti katılır.
+
+Kamu İşveren Heyeti, Devlet Personel Başkanlığının bağlı olduğu Bakanın başkanlığında, Çalışma ve Sosyal Güvenlik Bakanlığı, Kalkınma Bakanlığı, Maliye Bakanlığı, İçişleri Bakanlığı ve heyet başkanınca uygun görülen bakanlık temsilcileri ile Hazine Müsteşarlığı ve Devlet Personel Başkanlığı temsilcilerinden oluşur.
+
+Kamu Görevlileri Sendikaları Heyeti, bağlı sendikaların toplam üye sayısı itibarıyla en fazla üyesi bulunan konfederasyonun Heyet Başkanı olarak belirleyeceği bir temsilci ile her bir hizmet kolunda en fazla üyeye sahip kamu görevlileri sendikaları tarafından belirlenecek birer temsilci, bağlı sendikaların üye sayıları esas alınmak kaydıyla toplam üye sayıları itibarıyla birinci, ikinci ve üçüncü sırada bulunan konfederasyonlar tarafından belirlenecek birer temsilci olmak üzere onbeş üyeden oluşur. Heyet Başkanı ve temsilciler, toplu sözleşme görüşmelerinin başlamasından onbeş gün önce konfederasyonlar tarafından Devlet Personel Başkanlığına bildirilir. Heyet Başkanlığı sıfatını haiz konfederasyon temsilcisinin toplu sözleşme görüşmelerine katılmaması veya görüşmelerden çekilmesi halinde Heyet Başkanlığı yetkisi, en çok üyeye sahip ikinci sırada bulunan konfederasyon temsilcisi tarafından kullanılır. Her bir hizmet kolunda en fazla üyeye sahip kamu görevlileri sendikaları tarafından belirlenecek temsilcinin toplu sözleşme görüşmelerine katılmaması veya görüşmelerden çekilmesi halinde aynı hizmet kolunda en fazla üyeye sahip ikinci sırada bulunan kamu görevlileri sendikası temsilcisi Kamu Görevlileri Sendikaları Heyetine dahil edilir.
+
+Toplu sözleşmeyi imzalamaya kamu idaresi adına Kamu İşveren Heyeti Başkanı, kamu görevlileri adına sözleşmenin kamu görevlilerinin geneline yönelik bölümü için Kamu Görevlileri Sendikaları Heyeti Başkanı ve hizmet kollarına yönelik bölümleri için ilgili sendika temsilcisi yetkilidir.
+
+Bu madde hükümlerine göre toplu sözleşmenin imzalanan bölümlerine ilişkin Kamu Görevlileri Hakem Kuruluna başvurulamaz.”
+
+ “Mahalli idarelerde sözleşme imzalanması” başlıklı 32’nci maddesinde;
+
+“27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 15 inci maddesi hükümleri çerçevesinde sosyal denge tazminatının ödenmesine belediyelerde belediye başkanının teklifi üzerine belediye meclisince, il özel idaresinde valinin teklifi üzerine il genel meclisince karar verilmesi halinde, sözleşme döneminde verilecek sosyal denge tazminatı tutarını belirlemek üzere ilgili mahalli idarede en çok üyeye sahip sendikanın genel başkanı veya sendika yönetim kurulu tarafından yetkilendirilecek bir temsilcisi ile belediyelerde belediye başkanı, il özel idaresinde vali arasında toplu sözleşme sürecinin tamamlanmasını izleyen üç ay içerisinde sözleşme yapılabilir. Bu sözleşme bu Kanunun uygulanması bakımından toplu sözleşme sayılmaz ve bu kapsamda Kamu Görevlileri Hakem Kuruluna başvurulamaz.
+
+Yapılacak sözleşme, toplu sözleşme dönemi ile sınırlı olarak uygulanır ve sözleşme süresi hiçbir şekilde izleyen mahalli idareler genel seçimi tarihini geçemez. Mahalli idareler genel seçim tarihini izleyen üç ay içerisinde de toplu sözleşme dönemiyle sınırlı olmak üzere sözleşme yapılabilir. Bu sözleşmeye dayanılarak yapılan ödemeler kazanılmış hak sayılmaz” hükümleri yer almaktadır.
+
+Bu kanun hükümlerine göre, işçi statüsü dışında çalışan kamu görevlilerinin mali ve sosyal haklarını düzenleyen, mevcut mevzuat hükümleri dikkate alınarak, kamu görevlilerine uygulanacak katsayı ve göstergeler, aylık ve ücretler, her türlü zam ve tazminatlar, ek ödeme, toplu sözleşme ikramiyesi, fazla çalışma ücreti, harcırah, ikramiye, doğum, ölüm ve aile yardımı ödenekleri, cenaze giderleri, yiyecek ve giyecek yardımları ve diğer mali ve sosyal hakları kapsayan toplu sözleşmenin, Kamu İşveren Heyeti ve kamu görevlileri adına Kamu Görevlileri Sendikaları Heyetince imzalanacağı ve bu toplu sözleşme hükümlerinin mezkur kanun kapsamında olan belediyeler için de uygulanacağı açıkça anlaşılmaktadır.
+
+Kamu Görevlilerinin Geneline ve Hizmet Kollarına Yönelik Mali ve Sosyal Haklara İlişkin 2014 ve 2015 Yıllarını Kapsayan 2. Dönem Toplu Sözleşmenin “Yerel Yönetim Hizmet Koluna İlişkin Toplu Sözleşme” başlıklı 4 üncü bölümünün “Sosyal denge tazminatı” başlıklı 1 inci maddesinde ise; “Belediyeler ve bağlı kuruluşları ile il özel idarelerinin kadro ve pozisyonlarında istihdam edilen kamu görevlilerine, 4688 sayılı Kanunun 32 nci maddesinde yer alan usul ve esaslar çerçevesinde ödenebilecek sosyal denge tazminatı aylık tavan tutarı en yüksek Devlet memuru aylığının (ek gösterge dahil) %100'üdür. Sosyal denge tazminatının verilmesi yönünde yapılabilecek sözleşmelerde, tavan tutarı aşmamak kaydıyla ödenebilecek tazminatın aylık tutarı, görev yapılan birim ve iş hacmi, görevin önem ve güçlüğü, görev yerinin özelliği, çalışma süresi, kadro veya görev unvanı ile derecesi gibi kriterlere göre farklı olarak belirlenebilir” hükmüne yer verilerek ödenebilecek sosyal denge tazminatı tutarına üst sınır getirilmiştir. Ayrıca 2014 ve 2015 Yıllarını Kapsayan 2. Dönem Toplu Sözleşme de belirlenen bu üst sınırın dışında herhangi ikramiye ödenebileceğine ilişkin bir düzenleme yapılmamıştır. Belediye ile sendika arasında yapılan sözleşmenin ise söz konusu toplu sözleşmenin çizdiği çerçeveyle bağlı olması gerektiği açıktır. Kaldı ki 5393 sayılı Belediye Kanunun 49’uncu maddesi son fıkrasında “Sözleşmeli ve işçi statüsünde çalışanlar hariç belediye memurlarına, başarı durumlarına göre toplam memur sayısının yüzde onunu ve Devlet memurlarına uygulanan aylık katsayının (20.000) gösterge rakamı ile çarpımı sonucu bulunacak miktarı geçmemek üzere, hastalık ve yıllık izinleri dâhil olmak üzere, çalıştıkları sürelerle orantılı olarak encümen kararıyla yılda en fazla iki kez ikramiye ödenebilir.” denilerek ikramiyenin kimlere ne şekilde verileceği düzenlenmiştir. Bunun dışında yapılacak ikramiye ödemelerinin yasal bir dayanağı bulunmamaktadır.
+
+Ancak; … Belediye Meclisinin 05.05.2014 tarih 18 sayılı kararı ile verilen yetki doğrultusunda Belediye Başkanı ile sendika arasında imzalanan sözleşme gereğince, personele en yüksek devlet memuru aylığının %100’üne ilaveten Bayramlarda 730 TL ikramiye verilerek kamu zararına sebebiyet verildiği anlaşılmıştır.
+
+Her ne kadar sorumlular savunmalarında T.C. Anayasasının 90’ıncı maddesi ve bu kapsamda uluslararası sözleşmelere atıf yaparak sorgu konusunu toplu iş sözleşmesine ve sendikal örgütlülüğe müdahale olarak değerlendirmişlerse de, bahsi geçen sözleşme 4688 sayılı kanunun 32’inci maddesine göre toplu sözleşme sayılmamaktadır. Belediyelerce de uyulması gereken 2014 ve 2015 Yıllarını Kapsayan 2. Dönem Toplu Sözleşme ise tarafların özgür iradeleriyle ve herhangi kısıtlama olmaksızın iç hukukta doğrudan uygulanması gereken ülkemizin tarafı olduğu uluslararası sözleşmelere uygun olarak imzalanmıştır. Rapor konusu, toplu iş sözleşmesi yapılamayacağı ya da sendikal örgütlenme yapılamayacağı yönünde değil, sözleşme kapsamında yapılan ödemelerin Toplu Sözleşmeyle belirlenen yasal sınır içinde olması gerektiği ile ilgilidir.
+
+Savunmalarda ayrıca Danıştay’ın yerleşik içtihatlarına göre, ödemenin yanlış yapıldığı düşünülse dahi ödemenin yapıldığı tarihten itibaren 60 günlük  dava açma süresi geçtikten sonra istenmesinin mümkün olmadığı ifade edilmişse de; söz konusu Danıştay kararları idarenin memura yaptığı fazla ödemeyi, fazla ödeme yapılan memurdan geri alıp alamayacağı ile ilgili olup Sayıştay denetim ve yargılamasının muhatabı ahizler (fazla ödeme yapılan kişiler) değil, sorumlulardır. Dolayısıyla söz konusu kararlar hiçbir şekilde Sayıştay denetimi ve yargılaması ile ilgili değildir.
+
+Öte yandan, Muhasebe Yetkilisinin sorumluluğu 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun  Muhasebe Hizmeti ve Muhasebe Yetkilisinin Yetki ve Sorumlulukları başlıklı 61’inci Maddesine göre “ödeme emri belgesi ve eki belgeler üzerinde;
+
+a) Yetkililerin imzasını,
+
+b) Ödemeye ilişkin ilgili mevzuatında sayılan belgelerin tamam olmasını,
+
+c) Maddi hata bulunup bulunmadığını,
+
+d) Hak sahibinin kimliğine ilişkin bilgileri, kontol etmekle sınırlı olduğundan, Muhasebe yetkilisi …’un sorumlu tutulamayacağı değerlendirilmiştir.
+
+Harcama Yetkilileri ve Gerçekleştirme Görevlileri söz konusu kamu zararından dolayı sorumlu olmadıklarını iddia etmişlerse de 14.06.2007 tarih ve 5189/1 sayılı Sayıştay Genel Kurulu kararında kamu zararlarından kimlerin sorumlu tutulacağı açıklanmıştır. Adı geçen kararda “…5018 sayılı Kanunda öngörülen harcama sürecinde tek ve tam yetkili olan, giderin yapılmasına karar vermekten ödeme aşamasına kadar tüm işlemleri emir ve talimatı çerçevesinde yürüten ve maiyetindekileri ve onların eylem ve işlemlerini gözetmek ve denetlemekle yükümlü olan harcama yetkilisinin, Sayıştaya karşı hesap verme konusunda tam ve doğrudan sorumlu olduğu anlaşılmaktadır. Bu nedenle, harcama yetkililerinin, harcama talimatlarının ve buna konu olan harcamaların bütçe ilke ve esaslarına, kanun, tüzük ve yönetmelikler ile diğer mevzuata uygunluğundan sorumlu olduklarına oybirliğiyle,
+
+…
+
+ödeme emri belgesini düzenlemekle görevlendirilen gerçekleştirme görevlileri de, ödeme emri belgesi ve eki belgeler üzerinde ön malî kontrol yapacaklardır. Bu nedenle ödeme emri belgesini düzenleyen gerçekleştirme görevlisinin yaptığı işlemler nedeniyle sorumluluk üstlenmesi tabiidir
+
+…
+
+Bu bağlamda ödeme emri belgesini düzenlemekle görevlendirilen gerçekleştirme görevlileri de, ödeme emri belgesi ve eki belgeler üzerinde ön mali kontrol yaparak, ödeme emri belgesi üzerine “Kontrol edilmiş ve uygun görülmüştür” şerhi düşüp imzalayacaklardır. Bu nedenle ödeme emri belgesini düzenleyen görevli, gerçekleştirme belgelerinin ödeme emri belgesine doğru aktarılması yanında, düzenlediği belge ile birlikte harcama sürecindeki diğer belgelerin doğruluğundan ve mevzuata uygunluğundan da sorumludur. Yapılan bu açıklamalara göre, aslî bir gerçekleştirme belgesi olan ödeme emri belgesini düzenleyen sıfatıyla imzalayan gerçekleştirme görevlisinin, düzenlediği belge ile birlikte harcama sürecindeki diğer belgelerin doğruluğundan ve mevzuata uygunluğundan harcama yetkilisi ile birlikte sorumlu tutulması gerektiğine çoğunlukla,” denilmektedir. Dolayısıyla Harcama Yetkilileri ve Gerçekleştirme Görevlilerinin sorumluluk yönünden itirazları kabul edilmemiştir.
+
+Bu itibarla; … Belediyesi tarafından memur personele toplu sözleşme hükümlerine aykırı olarak yasal üst sınırda verilen sosyal denge tazminatına ilaveten ikramiye adı altında ödeme yapılması suretiyle sebep olunan ve …(Muhasebe Yetkilisi)’un kamu zararından ayrıştırılarak; oluşan … TL kamu zararının raporda belirtilen diğer sorumlulara müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanununun 53’üncü maddesi gereği işleyecek faizleri ile ödettirilmesine, oy birliğiyle karar verildi.
