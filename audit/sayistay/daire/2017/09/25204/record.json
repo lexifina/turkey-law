@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "476",
+  "decision_date": "2017-09-26",
+  "source_id": 25204,
+  "chamber": "6",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25204/",
+  "source_sha256": "8999c752376a461e3171b87b1c2b073475a2ab3b89ed7cea6a9cb229bd21e043",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
