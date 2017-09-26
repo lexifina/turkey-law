@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-135[KDV-4-İ-7-2017/6]-350742",
+  "source_id": 34102,
+  "date": "2017-09-26",
+  "title": "ÖTV Kanunu 7/2 maddesine istinaden ÖTV'siz alınan aracın engellinin vefatı üzerine Mahkeme Kararına istinaden mirasçı olmayan adına tescilinde ÖTV aranıp aranılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34102",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "6f074e08efa6d93fb9922afc5c47c7f1f78c469aec5d4f46570d6d8674f84668",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
