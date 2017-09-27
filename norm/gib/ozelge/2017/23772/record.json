@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.14.10.00-120.05-8",
+  "source_id": 23772,
+  "date": "2017-09-27",
+  "title": "Komisyon karşılığı tahsil edilen kira bedellerinin aracı şirket tarafından gayrimenkul sahiplerinin banka hesaplarına aktarılmasının, 268 seri no.lu Gelir Vergisi Genel Tebliği karşısındaki durumu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23772",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "eff4c34a3049dbf1e59c42e86824616a66ea024623dfcc3fb1a5032147dc40c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
