@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7316",
+  "decision_date": "2017-09-28",
+  "title": "01/10/2017 tarihinden itibaren uygulanmak üzere Ek-1 ve Ek-2?de yer alan tarife tablolarının onaylanmasına",
+  "resmi_gazete_date": "2017-09-29",
+  "resmi_gazete_number": "30195",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LnN4JId4w1s=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LnN4JId4w1s=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eCPKrjDGQ1E="
+  ],
+  "source_sha256": "12969ad782285886cd00e0371343b5868012ff1f137864d59e992d6be976a88c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2017-09-28",
+  "law_text_complete": false
+}
