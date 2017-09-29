@@ -1,0 +1,4 @@
+Bedelin ödenme şekli
+MADDE 22 – (1) Aksi sözleşmede kararlaştırılmamışsa bedel işletmenin buluştan elde ettiği kazancın muhasebeleştirildiği dönemdeki net asgari ücret miktarının tablodaki katlarına denk gelen katsayılar dikkate alınarak hesaplanır ve yıllık dönemler halinde ödenir. Bir yılı aşan dönemler halinde ödeme yapılmasının kararlaştırılması durumunda, ödemenin gerçekleştirileceği döneme ait net asgari ücret miktarı alınır.
+(2) Buluşun birden çok çalışan tarafından gerçekleştirilmiş olması halinde her bir çalışan için ödenecek bedel, çalışanın kendi buluş grubuna göre verilen katsayılara göre hesaplanan bedel miktarı ile çalışanın kendi katkı payı çarpılarak bulunur.
+(3) Hizmet buluşunun lisans verilerek değerlendirilmesi halinde, bedel ödeme tarihleri, lisans gelirlerinin tarihlerine denk getirilir.

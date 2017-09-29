@@ -1,0 +1,4 @@
+Buluştan elde edilen kazancın işletmenin buluştan sağladığı yarara göre belirlenmesi
+MADDE 14 – (1) Buluştan elde edilen kazanç, işletmenin buluştan sağladığı belirlenebilen yarara göre hesaplanabilir. Bu yönteme, öncelikle, işletmeye tasarruf sağlayan hizmet buluşlarından elde edilen kazancın belirlenmesinde başvurulur. Bu yöntem, buluş konusu ürünün satışından elde edilen kazancın esas alınamayacağı, sadece işletmede kullanılan ürün, makine ve cihazlar veya işletmede uygulanan üretim usulleri ile ilgili buluştan elde edilen kazancın belirlenmesinde de kullanılır.
+(2) Buluşun kullanılması sonucu işletmenin masrafları ile gelirleri arasında doğan pozitif fark, işletmenin buluştan sağladığı belirlenebilen yarardır. İşletme muhasebesi esaslarına göre masraf ve gelirler karşılaştırılarak bulunan bu meblağ, buluştan elde edilen kazançtır.
+(3) Buluşun gerçekleştirilmesinden önce buluş için yapılmış olan masraflar buluştan elde edilen kazançtan düşülmez.

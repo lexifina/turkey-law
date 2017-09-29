@@ -1,0 +1,2 @@
+Başvuru bildirimi
+MADDE 30 – (1) Yükseköğretim kurumlarında yapılan bilimsel çalışmalar veya araştırmalar sonucunda gerçekleştirilen buluşa ilişkin olarak Kanunun 121 inci maddesinin ikinci fıkrası ve 29 uncu madde uyarınca yükseköğretim kurumuna bildirim yapılmaksızın patent başvurusu yapılmışsa başvuru yapıldığına ilişkin bildirim, patent başvurusuna ait tüm bilgi ve belgelerle birlikte patent başvuru tarihinden itibaren bir ay içinde buluşu yapan tarafından yükseköğretim kurumuna yapılır. Bu bildirimle birlikte 29 uncu madde kapsamında gerekli bilgiler de verilir.

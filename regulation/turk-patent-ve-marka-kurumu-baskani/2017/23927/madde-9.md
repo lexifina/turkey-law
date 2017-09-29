@@ -1,0 +1,3 @@
+İşverenin yükümlülüğü
+MADDE 9 – (1) Tam hak talebinde bulunduğu hizmet buluşu için işverenin patent başvurusu yapma yükümlülüğü hakkında Kanunun 116 ncı maddesi hükümleri uygulanır.
+(2) İşveren, buluşa ilişkin tam hak talebinde bulunduktan sonra buluşun korunmaya değer olmadığını ileri sürerek bedelin ödenmesinden kaçınamaz. Ancak buluşun korunabilir nitelikte olmadığına Kurum tarafından veya buluş konusu patent hakkında açılmış bir dava sonucu mahkeme tarafından karar verilmiş olması halinde, karar tarihine kadar buluştan elde edilen kazanç hariç olmak üzere çalışan bedel talebinde bulunamaz.

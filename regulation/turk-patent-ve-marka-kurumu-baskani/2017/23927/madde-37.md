@@ -1,0 +1,7 @@
+Bildirim yükümlülüğü
+MADDE 37 – (1) Kamu destekli proje kapsamında gerçekleştirilen deneysel çalışmalar, araştırma geliştirme ve benzeri faaliyetler sırasında ortaya çıkan buluşlar, kamu destekli projelerde ortaya çıkan buluşlar olarak kabul edilir. Proje desteğinden faydalanan gerçek ya da tüzel kişinin bu buluşları destek sağlayan kamu kurum ve kuruluşuna yazılı olarak ve geciktirmeksizin bildirmesi zorunludur.
+(2) Buluş bildiriminde buluşun konusu, teknik problem, bu problemin çözümü ve buluşun nasıl gerçekleştirilmiş olduğu açıklanır. Buluşun daha iyi açıklanması bakımından gerekli diğer bilgi ve belgeler de verilir.
+(3) Destek sağlayan kamu kurum ve kuruluşu, buluş bildiriminde eksiklik tespit etmesi durumunda bildirimin kendisine ulaştığı tarihten itibaren iki ay içinde buluşu yapana eksikliklerin giderilmesi için bildirimde bulunur. Aksi takdirde buluş bildiriminin usulüne uygun olarak yapıldığı kabul edilir.
+(4) Proje desteğinden faydalanan kişi, üçüncü fıkra uyarınca tespit edilen eksiklikleri, bildirimin kendisine ulaştığı tarihten itibaren bir ay içinde giderir. Aksi takdirde buluş bildirimi usulüne uygun olarak yapılmamış sayılır ve buluş bildirimi yeniden yapılır.
+(5) Varsa müşteri kurum, bildirimin usulüne uygun yapılıp yapılmadığı konusunda destek sağlayan kamu kurum ve kuruluşları ile birlikte hareket eder.
+(6) Proje desteğinden faydalanan kişi, birinci fıkra uyarınca bildirim yükümlülüğünü yerine getirmemesi nedeniyle destek sağlayan kamu kurum ve kuruluşu ve varsa müşteri kurum aleyhine doğan zararlardan sorumludur.

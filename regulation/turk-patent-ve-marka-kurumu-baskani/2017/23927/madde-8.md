@@ -1,0 +1,4 @@
+Kısmi hak talebi
+MADDE 8 – (1) Hizmet buluşuna ilişkin olarak işveren, buluşu kullanmak üzere kısmi hak talebinde bulunabilir. Bu durumda hizmet buluşu serbest buluş niteliği kazanır. İşveren, kısmi hakka dayanarak buluşu kullanabilir.
+(2) Kısmi hak talebine dayanarak işverenin buluşu kullanması halinde çalışan, buluştan faydalanma karşılığı olarak işverenden kendisine bedel ödemesini isteme hakkı doğar.
+(3) Kısmi hak talebine dayanarak işverenin buluşu kullanması, çalışanın buluşunu değerlendirmesini önemli ölçüde güçleştiriyorsa çalışan, tam hak talebinde bulunmasını veya kısmi hakka dayanan kullanım hakkından vazgeçmesini işverenden talep edebilir. İşveren, çalışanın bu isteğine ilişkin bildirimine tebellüğ tarihinden itibaren iki ay içinde cevap vermezse işverenin kısmi hakka dayanarak buluşu kullanma hakkı sona erer.

@@ -1,0 +1,2 @@
+Buluştan elde edilen kazancın tahmin yöntemiyle belirlenmesi
+MADDE 15 – (1) Buluştan elde edilen kazancın kıyas yöntemiyle ve işletmenin buluştan sağladığı belirlenebilen yarara göre hesaplanamadığı durumda, buluştan elde edilen kazanç tahmin yöntemiyle belirlenir. Bu yöntemde, buluştan elde edilen kazancın belirlenmesinde işverenin, buluşu benzer nitelikte bir serbest buluş yapandan satın almak isteseydi ödemek zorunda kalacağı makul bedel esas alınır.
