@@ -1,0 +1,2 @@
+Hizmet gereği atama
+MADDE 21 – (1) Haklarında yapılan adli veya idari soruşturma sonucunda Danıştay’da kalmasının uygun olmadığı saptananlar ile hizmetinden verim alınamaması veya hizmetin gereklerine aykırı tutum ve davranışlarda bulunması nedeniyle Danıştay’da kalması uygun görülmeyen personel, birim amirinin görüşü de alınmak suretiyle(1), Danıştay Genel Sekreterinin teklifi ve Danıştay Başkanının uygun görmesi üzerine kazanılmış hak aylık derecelerine uygun olarak, açıktan atama iznine tabi olmaksızın, taşra kadrolarına atanması için Adalet Bakanlığına bildirilir.
