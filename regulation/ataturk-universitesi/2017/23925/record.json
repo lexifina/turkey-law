@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-09-29",
+      "29.09.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30195",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-09-29",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Atatürk Üniversitesi",
+  "issuer_slug": "ataturk-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ataturk-universitesi/2017/23925",
+  "published": "2017-09-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23925&MevzuatTertip=5",
+  "source_bytes": 30851,
+  "source_id": "8.5.23925",
+  "source_sha256": "9e36ce38f1a26312aa9ec061fc18e78722b4a8a4168039fb9ee85df6e7649cc1",
+  "text_status": "as-enacted",
+  "title": "ATATÜRK ÜNİVERSİTESİ PSİKOLOJİK DANIŞMA VE REHBERLİK\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 181,
+  "word_count": 1218
+}
