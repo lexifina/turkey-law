@@ -1,0 +1,4 @@
+Sınavın yürütülmesi
+MADDE 17 – (1) Sınavlar duyurulan gün ve saatte başlar. Sınava girerken Teşekkül Personel Kimlik Kartı, fotoğraflı ve onaylı nüfus cüzdanı veya sürücü belgesinden birini yanında bulundurmayan adaylar sınava alınmazlar. Sınavda kopya çeken, kopya veren, sınav kâğıtlarına belirtici işaret koyanlar sınav salonundan çıkarılır ve düzenlenecek tutanakla sınav kâğıtları geçersiz sayılır. Ayrıca haklarında disiplin işlemi uygulanır. Sınava girecek aday yerine başka bir kişinin sınava girdiğinin anlaşılması halinde, ilgilinin sınavı bir tutanakla saptanarak geçersiz sayılır ve her ikisi hakkında yasal işlem yapılır.
+(2) Yapılan sınavı kazananlardan; başvuru formunda gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavları geçersiz sayılır, atamaları yapılmaz. Atamaları yapılmış olanların atamaları iptal edilir.
+(3) Yazılı ve/veya sözlü sınava her ne sebeple olursa olsun girmeyenler haklarını kaybetmiş sayılırlar.

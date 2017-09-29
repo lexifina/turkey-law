@@ -1,0 +1,4 @@
+Yazılı sınav
+MADDE 11 – (1) Yazılı sınav, bu sınava ilişkin konu başlıklarına duyuruda yer verilmek suretiyle, Teşekkülce belirlenecek konularda yapılır. Sınav konularına ilişkin notlar ve diğer detaylar sınav tarihinden en az bir ay önce Teşekkülün internet sitesinde yayımlanır.
+(2) Yazılı sınav, Teşekkül tarafından yapılabileceği gibi Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı, Milli Eğitim Bakanlığı, Türkiye ve Ortadoğu Amme İdaresi Enstitüsü Genel Müdürlüğü veya yükseköğretim kurumlarından birine yaptırılabilir. Sınavın yürütülmesine ve itirazlara ilişkin hususlar, Teşekkülle sınavı yapacak kurum arasında düzenlenecek protokol çerçevesinde yürütülür.
+(3) (Değişik:RG-29/9/2017-30195) Yazılı sınav, yüz tam puan üzerinden değerlendirilir. Yazılı sınavda en az altmış puan alanlar başarılı sayılırlar.
