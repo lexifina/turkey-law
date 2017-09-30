@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23938",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "JANDARMA VE SAHİL GÜVENLİK AKADEMİSİ YABANCI DİL HAZIRLIK EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "number": "23938",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2017/23938",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23938&MevzuatTertip=5",
+  "source_sha256": "e804314cbad97e8426fe9c67b6dddac3daf28a8887a01ec294e2343552e19bf4",
+  "source_bytes": 37604,
+  "published": "2017-09-30",
+  "gazette": "30196",
+  "in_force": "2017-09-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.09.2017); own commencement article: \"Bu Yönetmelik 2017-2018 Eğitim-Öğretim Yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2017-2018 Eğitim-Öğretim Yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1642,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
