@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-09-30",
+  "issue": "30196",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Hukuk Muhakemeleri Kanunu Hakem Ücret Tarifesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/09/20170930-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/09/20170930.htm",
+  "index_sha256": "de6cae69da4e0628f337362cdddabc4c5a3d1546538deb1c14da04a1e67fd9ab",
+  "index_header": "30 Eylül 2017 ... 30196 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/09/20170930.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "ea17797fc60e7960099be028a78c3e316f3fe15020af57271de4c0836864d206",
+  "text_status": "text.txt as published"
+}
