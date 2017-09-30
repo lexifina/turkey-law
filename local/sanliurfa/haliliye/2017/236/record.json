@@ -1,0 +1,29 @@
+{
+  "number": "236",
+  "number_as_published": "2017/236",
+  "year": 2017,
+  "month": 9,
+  "title": "Yenişehir Mahallesi 1017 ada, 4 numaralı parsele ait Uygulama İmar Planı Değişikliği konusunun incelenerek bir rapora bağlanmak üzere; İmar ve Bayındırlık Komisyonuna havalesine oy çokluğu ile karar verildi.",
+  "decision_date": null,
+  "index_date": "2017-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2017",
+  "source": "https://www.haliliye.bel.tr/icerik/1570/39/eylul-2017",
+  "official_page": "https://www.haliliye.bel.tr/icerik/1570/39/eylul-2017",
+  "official_document": null,
+  "source_sha256": "a708dfa1d1e891d8eff593793fd64795ae4dbc988b85802e0587a46625f3efcf",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2017-09-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Eylül 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "EYLÜL 2017",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
