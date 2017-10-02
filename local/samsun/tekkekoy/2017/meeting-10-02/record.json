@@ -1,0 +1,23 @@
+{
+  "number": "meeting-10-02",
+  "number_as_published": "meeting-10-02",
+  "year": 2017,
+  "title": "02.10.2017 MECLİS KARARLARI",
+  "decision_date": "2017-10-02",
+  "source": "https://tekkekoy.bel.tr/dosyalar/6/belediye-meclis-kararlari/?yil=2017",
+  "official_document": "https://tekkekoy.bel.tr/uploads/02102017_meclis_kararlari.doc",
+  "source_sha256": "431bf5d98d3f1c11d8a8355ffb46d3a80059b55d60bc8da787c80210d5a286de",
+  "issuer": "Tekkeköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-10-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.10.2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02.10.2017 MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)"
+}
