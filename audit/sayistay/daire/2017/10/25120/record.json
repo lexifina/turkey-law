@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "167",
+  "decision_date": "2017-10-03",
+  "source_id": 25120,
+  "chamber": "4",
+  "ilam_number": "299",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25120/",
+  "source_sha256": "06542240da842b250ea48b3d643dacd41fe4875c425730351f4d3c82c844f963",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
