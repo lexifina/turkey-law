@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.01-130[17-2017-203]-71216",
+  "source_id": 31574,
+  "date": "2017-10-04",
+  "title": "Serbest bölgelerde yapılan taşıma işlerinde istisna.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31574",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "9736d8571611185b041380d87035e54affaf1241d5f2ddf4f5b54c0ab2647e35",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
