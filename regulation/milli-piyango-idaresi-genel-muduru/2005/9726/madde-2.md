@@ -1,0 +1,3 @@
+Kapsam
+Madde 2 — Bu Yönetmelik, Milli Piyango İdaresi Genel Müdürlüğü merkez ve taşra teşkilatında 657 sayılı Devlet Memurları Kanununa tabi olarak görev yapan personelden şube müdürü ve daha alt görevlere görevde yükselme ve unvan değişikliği suretiyle atanacakları kapsar.
+(Ek fıkra:RG-15/9/2011-28055) Bu Yönetmelik kapsamında bulunan ve doktora öğrenimini bitiren personelden, atanılacak görev için aranılan ve 6 ncı maddenin birinci fıkrasının (a) bendine göre hesaplanan toplam hizmet süresine sahip olmaları ve mevzuatla aranan öğrenim şartlarını taşımaları kaydıyla uzman veya aynı düzeydeki görevler ile daha alt görevlere yapılacak atamalarda bu Yönetmelik hükümleri uygulanmaz.

@@ -1,0 +1,4 @@
+Sınav sonuçlarının açıklanması ve itiraz
+Madde 18 — (Başlığı ile birlikte değişik:RG-15/9/2011-28055)
+Sınav kurulu, kendisine intikal ettiği tarihten itibaren beş iş günü içerisinde sınav sonuçlarını ilan eder ve ilgililere yazılı olarak bildirir. İlgililer, sınav sonuçlarına, kendilerine yazılı olarak bildirilmesinden itibaren beş iş günü içerisinde sınav kuruluna iletilmek üzere Personel ve Eğitim Dairesi Başkanlığına verecekleri bir dilekçe ile itiraz edebilirler. Bu itirazlar, sınav kurulunca sınavı yapan kurumla görüşerek ve alınan cevap doğrultusunda en geç on iş günü içerisinde değerlendirilir ve sonuçlar ilgililere yazılı olarak bildirilir. Sınav sonuçlarının tekrar değerlendirilmesinin istenmesi halinde sınavı yapan kuruluş tarafından talep edilen itiraz ücreti ilgili aday tarafından karşılanır.
+(Değişik:RG-30/7/2015-29430) Yapılan sınavlarda hatalı sorulara tekabül eden puanlar eşit şekilde diğer sorulara dağıtılır.

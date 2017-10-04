@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.9726",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ PİYANGO İDARESİ GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "9726",
+  "issuer": "Milli Piyango İdaresi Genel Müdürü",
+  "issuer_slug": "milli-piyango-idaresi-genel-muduru",
+  "path": "regulation/milli-piyango-idaresi-genel-muduru/2005/9726",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9726&MevzuatTertip=5",
+  "source_sha256": "464729a08866a56257483ff9cc69a047955a458c9b94e0af39a9b58bdbd78324",
+  "source_bytes": 79426,
+  "published": "2005-12-23",
+  "gazette": "26032",
+  "in_force": "2017-10-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/10/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-10-04",
+      "RG-4/10/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-10-04",
+      "4/10/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-07-30",
+      "RG-30/7/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-07-30",
+      "30/07/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-02-24",
+      "24/02/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-09-15",
+      "RG-15/9/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-09-15",
+      "15/9/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2899,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
