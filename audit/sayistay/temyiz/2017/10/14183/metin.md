@@ -1,0 +1,7 @@
+Konu: Hüküm tarihinden sonra tahsilat bildirilmekte.
+
+223 sayılı İlamın 2’nci maddesinde; Belediye sınırları ve mücavir alanlar içinde yer alan mezbahalarda kesilen hayvanlar için “Et Kombinası Çeki Pusulası” düzenlenmesine rağmen, söz konusu kesimlerin bir kısmından hayvan kesimi, muayene ve denetleme harcı tahsil edilmemesi neticesinde oluşan kamu zararı tutarı 6.873,10 TL’nin müştereken ve müteselsilen sorumlulara ödettirilmesine karar verildiği, daha sonra 21.09.2016 tarih ve 223 sayılı ilamın 2’nci maddesi ile tazminine hükmedilen 6.873,10 TL’den tahsil edildiği bildirilen toplam …. TL’lik tahsilatın bu hükmün tesis edildiği 15.04.2016 tarihinden önce gerçekleştirildiği anlaşıldığından, 6085 sayılı Sayıştay Kanununun 56. maddesinin ikinci fıkrasının (ç) bendi hükmü gereğince yargılamanın iadesi suretiyle, bu tutarın sorumluların uhdelerinden kaldırılarak bu tutara ilişkin sorumluların beraatına, geriye Kalan …. TL’lik tazmin hükmünün adı geçen sorumluların uhdelerinde bırakılmasına karar verildiği anlaşılmaktadır.
+
+Sorumlular tarafından,  kalan …. TL tutarındaki kamu zararının faiziyle birlikte 17.04.2017 tarih ve 5138 yevmiye numaralı muhasebe işlem fişiyle tahsil edildiği belirtilerek  277 sayılı Ek İlam ile verilen tazmin kararının kaldırılması talep edilmekte ise de; karar tarihi olan 16.02.2017 tarihinden sonra yapılan bu tahsilat ilam hükmünün infazı mahiyetinde olduğundan bu hususta Kurulumuzca Yapılacak İşlem Olmadığına, oybirliğiyle,
+
+Karar verildiği 04.10.2017 tarih ve 43414 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
