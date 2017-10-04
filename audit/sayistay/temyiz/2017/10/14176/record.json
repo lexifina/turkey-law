@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43407",
+  "decision_date": "2017-10-04",
+  "source_id": 14176,
+  "chamber": "7",
+  "file_number": "41864",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2009",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14176/",
+  "source_sha256": "dcf3de9f609eb71bc3784516fa2a0925de281a9b6d6e2770ca2d4fd98155405a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
