@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10646",
+  "decision_date": "2017-10-05",
+  "source_id": 25247,
+  "chamber": "1",
+  "ilam_number": "516",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25247/",
+  "source_sha256": "fd33bf092390805683dd4690c3cb6e45a64677509feccf790ba1f69de07d42a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
