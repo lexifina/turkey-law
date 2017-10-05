@@ -1,0 +1,4 @@
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+İdari yaptırım
+MADDE 15 – (1) Bu Tebliğe aykırı davrananlar hakkında 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun ilgili maddelerine göre idari yaptırım uygulanır.

@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.21446",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ KAHVE VE KAHVE EKSTRAKTLARI TEBLİĞİ (TEBLİĞ NO: 2016/7) BİRİNCİ BÖLÜM",
+  "number": "21446",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2016/21446",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21446&MevzuatTertip=5",
+  "source_sha256": "8740c5e5a38a4537752abde629cf4af2bef935f84f8ed61b692022178351be92",
+  "source_bytes": 35657,
+  "published": "2016-03-03",
+  "gazette": "29642",
+  "in_force": "2017-10-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"5/10/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-10-05",
+      "5/10/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1384,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21446-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
