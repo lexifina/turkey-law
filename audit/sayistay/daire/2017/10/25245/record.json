@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10652",
+  "decision_date": "2017-10-05",
+  "source_id": 25245,
+  "chamber": "1",
+  "ilam_number": "9",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25245/",
+  "source_sha256": "a50226c1872e6e084099dac53a5436c374f9961c1f6131573565c1aa53b080a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
