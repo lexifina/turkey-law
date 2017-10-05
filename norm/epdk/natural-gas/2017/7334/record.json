@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7334",
+  "decision_date": "2017-10-05",
+  "title": "İzmir Doğalgaz Dağıtım Ticaret ve Taahhüt Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-10-07",
+  "resmi_gazete_number": "30203",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=usml/lFUsJw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=usml/lFUsJw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lWlZmz0EVSU="
+  ],
+  "source_sha256": "680e6c04593fbadd5ecbe80fbcaa4b8b6002d25a2b4e8dbebdca2f9ff05f93f5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-10-05",
+  "law_text_complete": true
+}
