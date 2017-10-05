@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7340",
+  "decision_date": "2017-10-05",
+  "title": "Kayserigaz Kayseri Doğalgaz Dağıtım Pazarlama ve Ticaret Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-10-07",
+  "resmi_gazete_number": "30203",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Bc3YwvGptfs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Bc3YwvGptfs=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=P6a9pRA4S8Q="
+  ],
+  "source_sha256": "60d9698ffd0a57432f8ba9f91d729aeee462483d45afaab85fe40c8a671c05f6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-10-05",
+  "law_text_complete": true
+}
