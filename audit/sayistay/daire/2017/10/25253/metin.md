@@ -1,0 +1,39 @@
+Kasko Gideri
+
+Asıl ilamın 11 inci maddesiyle tazminine hükmolunan konuyla ilgili olarak Temyiz Kurulunun … tarih ve … tutanak numaralı bozma kararı üzerine 6085 sayılı Sayıştay Kanununun 55 inci maddesinin yedinci fıkrası hükmü gereğince görüşülmesine karar verildi.
+
+Asıl ilamın 11 inci maddesiyle, İl Özel İdaresince valilik makam araçları için kasko sigortası yaptırılması sonucu oluşan … TL kamu zararı için tazmin hükmü verilmişti.
+
+Söz konusu tazmin hükmü hakkında sorumluların yapmış olduğu temyiz başvurusu üzerine Sayıştay Temyiz Kurulunca verilen  tarih ve … tutanak numaralı kararda özetle;  İl Valilerinin 237 sayılı Taşıt Kanununa ekli(1) sayılı cetvelde yer aldığı, cetvelde yer aldığı sıraya göre de yakın korumada kullanılan taşıtlardan, valiye hizmet edenlerin en fazla 2 adedinin kasko sigortası giderlerinin taşıtın ait olduğu idare bütçesinin ilgili tertibinden ödenmesinin mümkün olduğu, dolayısıyla, Valilik makamına tahsis edilen araçlar ile bunlara ait yakın koruma araçlarının bazı şartlar altında kasko giderlerinin taşıtın ait olduğu Özel İdare bütçesinden ödenmesinde mevzuata aykırılık bulunmadığı vurgulanmıştır. Temyiz Kurulu, bu görüş doğrultusunda … sayılı ilamın 11 inci maddesinde verilen tazmin hükmünün bozularak kararı veren Daireye gönderilmesine karar vermiştir.
+
+5302 sayılı İl Özel İdaresi Kanununun “il özel idaresinin giderleri” başlıklı 43 üncü maddesinde, Özel İdarenin yapacağı giderler sıralanmış ve bu maddenin (f) bendinde; “Faiz, borçlanmaya ilişkin diğer ödemeler ile sigorta giderleri” giderler arasında sayılmıştır.
+
+18.10.1983 tarih ve 18195 sayılı Resmi Gazete ’de yayımlanan 13.10.1983 kabul tarihli ve 2918 sayılı Karayolları Trafik Kanununun 106 ncı maddesinde; “Genel bütçeye dahil dairelerle katma bütçeli idarelere, il özel idarelerine ve belediyelere, kamu iktisadi teşebbüslerine ve kamu kuruluşlarına ait motorlu araçların sebep oldukları zararlardan dolayı, bu Kanunun işletenin hukuki sorumluluğuna ilişkin hükümleri uygulanır. Bu kuruluşlar, 85 inci maddenin birinci fıkrasına göre olan sorumluluklarının karşılanmasını sağlamak üzere 101 inci maddedeki şartları haiz milli sigorta şirketlerine mali sorumluluk sigortası yaptırmakla yükümlüdürler.”  denilmek suretiyle belediyelere ait motorlu araçlara sadece “Mali Sorumluluk Sigortası” yaptırma zorunluluğu getirilmiş ancak isteğe bağlı sigorta türü olan “ Kasko ” nun yaptırılmasına dair bir hükme yer verilmemiştir.
+
+Ayrıca, 2013 Yılı Merkezi Yönetim Bütçe Kanunu’nun “Bazı Ödeneklerin Kullanımına ve Harcamalara İlişkin Esaslar”  başlıklı E cetvelinin 30’uncu maddesinde;
+
+“Bütçelerin diğer tertiplerinin esas giderlerine ilişkin olarak ödenen sigorta giderleri dışında Devlet mallarının sigorta edilmemesi esastır. Ancak;
+
+a) Yanıcı, patlayıcı maddeler, gemi, uçak, helikopter ve ilaç depolama yerlerinin sigorta giderleri,
+
+b) Dış ülkelerdeki Devlete ait temsilcilik binaları ile Devlete ait eşyanın ve kira ile tutulan bina için yapılan sözleşmede sigorta zorunluluğu varsa kiralık binanın, Türk mülkiyetinde olan veya kira ile tutulan yerlerde organizatör şirket tarafından sigorta zorunluluğu konulmuşsa söz konusu yerlerin sigorta giderleri,
+
+ c) Dış kuruluşlarla ilgili olarak taşıt sigortası (misyon şefinin uygun gördüğü hallerde tam kasko) giderleri,
+
+ç) Belgelerine göre ayrılması mümkün olmayan sigorta ve navlun giderleri,
+
+d) Belediyelere ait itfaiye ve ambulans araçlarının kasko sigortası giderleri,
+
+e) Sondaj ve jeofizik çalışmaları kapsamında fiilen arazide veya denizde kullanılan özel amaçlı araç ve ekipmanların sigorta giderleri,
+
+bütçelerinin ilgili tertiplerinden, Sağlık Bakanlığına ve bağlı kuruluşlarına ait ambulansların kasko sigortası giderleri ilgili döner sermaye bütçelerinden, Türk Silahlı Kuvvetleri (Milli Savunma Bakanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı dahil) envanterinde bulunan ve erbaş ve erler tarafından kullanılan teknik donanımı yüksek ve özel nitelikli askeri araçların kasko sigortası giderleri ise Askeri Kantin Yönetmeliğinde belirlenecek usul ve esaslar çerçevesinde askeri kantin gelirlerinden ödenir. 237 sayılı Taşıt Kanuna ekli (1) sayılı cetvelde yer alanların emir ve zatlarına tahsis edilen taşıtların kasko sigortası giderleri taşıtın ait olduğu idare bütçesinin ilgili tertiplerinden ödenir. Ayrıca, yakın korumada kullanılan taşıtlardan, söz konusu cetvelin 1, 3 ve 4 üncü sırasında yer alanlara hizmet edenlerin tamamı, 5 inci sırasında yer alanlara hizmet edenlerin en fazla 4 adedi ve diğerlerine hizmet edenlerin en fazla 2 adedinin kasko sigortası giderleri taşıtın ait olduğu idare bütçesinin ilgili tertibinden ödenir.”  Denilmektedir.
+
+Buradan da anlaşılacağı üzere il özel idarelerine ait taşıt araçları için yukarıda sayılan istisnalar dışında kasko sigortası ödemesi yapılmaması esastır. İl Özel İdaresinin diğer taşıtları için yeterli görülen sigorta çeşidinin zorunlu mali sorumluluk sigortası olduğu “Bütçelerin diğer tertiplerinin esas giderlerine ilişkin olarak ödenen sigorta giderleri” hükmünden anlaşılmaktadır.
+
+Bu itibarla, İl Özel İdaresince … yılı Bütçe Kanunu eki E cetvelinde bahsi geçen araçlar arasında yer almayan valilik makam araçları için kasko sigortası yaptırılması sonucu oluşan ve ayrıntısı aşağıdaki tabloda gösterilen toplam … TL kamu zararının Üst Yönetici … , Harcama Yetkilisi …, Gerçekleştirme Görevlisi … ile Diğer Sorumlu …’e,  müştereken ve müteselsilen,
+
+(Üye …’nün, “2013 yılı Merkezi Yönetim Bütçe Kanununun E cetvelinin 30. sırasında “237 sayılı Taşıt Kanuna ekli (1) sayılı cetvelde yer alanların emir ve zatlarına tahsis edilen taşıtların kasko sigortası giderleri taşıtın ait olduğu idare bütçesinin ilgili tertiplerinden ödenir. Ayrıca, yakın korumada kullanılan taşıtlardan, söz konusu cetvelin 1, 3 ve 4 üncü sırasında yer alanlara hizmet edenlerin tamamı, 5 inci sırasında yer alanlara hizmet edenlerin en fazla 4 adedi ve diğerlerine hizmet edenlerin en fazla 2 adedinin kasko sigortası giderleri taşıtın ait olduğu idare bütçesinin ilgili tertibinden ödenir”  hükmü yer almaktadır. İl Valileri 237 sayılı Taşıt Kanununa ekli  (1) sayılı cetvelde yer almakta olup, emir ve zatlarına tahsis edilen taşıtlar ile cetvelde yer aldığı sıraya göre de yakın korumada kullanılan taşıtlardan, en fazla 2 adedinin kasko sigortası giderlerinin taşıtın ait olduğu idare bütçesinin ilgili tertibinden ödenmesi mümkündür.
+
+Savunmalarda söz konusu araçların valinin emrinde olduğu ve makam aracı olarak kullanıldığı ifade edilmiş ayrıca valilik makam araçlarının ili ziyaret eden yerli ve yabancı resmi konukların hizmetinde de kullanıldığı bildirilmiştir. Bu araçların resmi konuklar için kullanılıyor olması bunların makam aracı olarak kullanılmadığı veya yakın korumalarca kullanılmadığı anlamına gelmez. Kaldı ki denetçinin de bu tür bir tespiti bulunmadığı gibi, idarede birçok araba bulunmasına karşın sadece bu iki aracın kasko yaptırıldığı da savunmalarda ifade edilmektedir. Bu çerçevede savunmalarda araçların kullanımına dönük verilen bilginin aksi ispat edilmeden tazmin hükmü vermek mümkün görülmediğinden, Temyiz Kurulunun bozma kararı da göz önünde bulundurularak yapılan ödemenin mevzuata uygunluğuna karar verilmesi uygun olur.” şeklindeki oyuna karşın)
+
+6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizleri ile ve temyiz yolu açık olmak üzere ödettirilmesine, oy çokluğuyla,
