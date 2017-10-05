@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7328",
+  "decision_date": "2017-10-05",
+  "title": "2018 yılında uygulanacak iletim ek ücretine ilişkin",
+  "resmi_gazete_date": "2017-10-06",
+  "resmi_gazete_number": "30202",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=m5fuXpwv7lo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=m5fuXpwv7lo="
+  ],
+  "source_sha256": "f93ee120b5a4c07b09cb9917adbee484feaac8b138e6ab6600e407d5590af336",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-10-05",
+  "law_text_complete": true
+}
