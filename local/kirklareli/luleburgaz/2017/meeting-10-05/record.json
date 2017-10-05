@@ -1,0 +1,24 @@
+{
+  "number": "meeting-10-05",
+  "number_as_published": "meeting-10-05",
+  "year": 2017,
+  "title": "16--eki̇m-meclis-karar-özetleri.-(05.10.2017).pdf",
+  "decision_date": "2017-10-05",
+  "source": "https://www.luleburgaz.bel.tr/sayfa/2017-yili-meclis-karar-ozetleri",
+  "official_document": "https://www.luleburgaz.bel.tr/upload/icerikdosyalar/kOaqV8Yw9cwY6SF.pdf",
+  "source_sha256": "52b66aa5169274b28185d411e6bbf97aa0ac60e34a5c21dd121e68da5936989f",
+  "issuer": "Lüleburgaz Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-10-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.10.2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2017 YILI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.luleburgaz.bel.tr/sayfa/2017-yili-meclis-karar-ozetleri"
+}
