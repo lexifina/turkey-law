@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "269",
+  "decision_date": "2017-10-05",
+  "source_id": 25182,
+  "chamber": "5",
+  "ilam_number": "10",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25182/",
+  "source_sha256": "b3be42c3ce83355f8922df9c37b4a23bc401ae498d73b8a1b1683cbf729e6d4f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
