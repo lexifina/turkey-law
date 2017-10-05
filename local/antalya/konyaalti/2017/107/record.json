@@ -1,0 +1,24 @@
+{
+  "number": "107",
+  "number_as_published": "107",
+  "year": 2017,
+  "title": "05/10/2017-11/10/2017 Tarihli Ekim Ayı Meclis Karar Özetler",
+  "decision_date": "2017-10-05",
+  "source": "https://www.konyaalti.bel.tr/meclis-kararlari",
+  "official_document": null,
+  "source_sha256": "5969d31829233c46e4830c688789692955571c2547678fe745135c1c602b3a5a",
+  "issuer": "Konyaaltı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2017-10-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 Ekim 2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "meeting": "05/10/2017-11/10/2017 Tarihli Ekim Ayı Meclis Karar Özetler",
+  "meeting_no": "2017/9",
+  "official_document_kind": null
+}
