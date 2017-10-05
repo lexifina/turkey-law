@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10654",
+  "decision_date": "2017-10-05",
+  "source_id": 25462,
+  "chamber": "1",
+  "ilam_number": "520",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25462/",
+  "source_sha256": "fb9e9e70c819966ec76247fdfc90490d89d62528a813d83d844659f0a9d24d33",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
