@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.31.15.01-010[130-155-01-2015]-67",
+  "source_id": 29078,
+  "date": "2017-10-05",
+  "title": "Üniversite Tarafından Yurtdışındaki Firmalardan Alınan Elektronik Veri Tabanı Aboneliği İçin Kdv Tevkifatı ve Damga Vergisi İstisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29078",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "8d3dcd2f2c2debc79bddca247b54123f5ecf61b8ecfc811adc732d6d86ab3c0b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
