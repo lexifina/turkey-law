@@ -1,0 +1,3 @@
+… işinde, imalat değişikliği sonucunda yapımına karar verilen alüminyum kenet sistem çatının ısı ve su yalıtımının sağlanarak betonarme döşemeye montajı için 40x40 ve 40x60 cm ebatlarında kutu profiller kullanılarak hazırlanmış olan karkas projesinin betonarme çatı üzerine uygulandığı ve söz konusu imalat için iş artışı kapsamında yükleniciye … TL ödeme yapıldığı anlaşılmıştır.
+
+Alüminyum kenet sistem çatı örtüsünün betonarme üzerine montajı için teknik olarak gerekli olan ve fen ve sanat kuralları gereği yapımı zorunlu olan imalatlar için iş artışı kapsamında ödemede bulunulması kamu zararı oluşturmadığından, mevzuatına uygun olduğu anlaşılan … TL ile ilgili olarak ilişilecek husus bulunmadığına, oy birliğiyle
