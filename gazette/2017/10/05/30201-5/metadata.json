@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-10-05",
+  "issue": "30201",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2017/20)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171005-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171005.htm",
+  "index_sha256": "679c763cdcf1625349676d021e91bfa72a30c35e7d48082e4be9833be97fe7a1",
+  "index_header": "5 Ekim 2017 ... 30201 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171005.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "5465db80facfc92f33c6097eef6eb6ed4a08ad607059b55798aa661ea73c1180",
+  "text_status": "text.txt as published"
+}
