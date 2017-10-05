@@ -1,0 +1,22 @@
+{
+  "number": "181",
+  "number_as_published": "2017/181",
+  "year": 2017,
+  "title": "Göktürk Merkez Mahallesi, 126 ada 1 parselin İstanbul Defterdarlığı'na (Maliye Hazinesi) ait eş nitelikli taşınmazlarla trampa edilmesi için 5393 sayılı Kanunun 18. madde (e ) bendi uyarınca Belediye Başkanına yetki verilmesi",
+  "decision_date": "2017-10-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2017-ekim-ayi-meclis-kararlari/1383",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-181/1388",
+  "source_sha256": "1691fcd6b2dbc43ea69be8ed6a31cf6b0689a973b5caaaeb15de99f793bd2d81",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-10-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.10.2017 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "3faebd82357eea22f50ab551ad752d5f372d13065374c7bba867af8d7a026af9"
+}
