@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7338",
+  "decision_date": "2017-10-05",
+  "title": "Gazdaş Gaziantep Doğal Gaz Dağıtım Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-10-07",
+  "resmi_gazete_number": "30203",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XV6vvfO1A/c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XV6vvfO1A/c=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DaegQi0VBVQ="
+  ],
+  "source_sha256": "41209ee8c09d8f4323f6f514c187e7fb96edfb29a3515379fc19d82c8f3b9530",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-10-05",
+  "law_text_complete": true
+}
