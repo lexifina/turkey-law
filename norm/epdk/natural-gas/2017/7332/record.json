@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7332",
+  "decision_date": "2017-10-05",
+  "title": "Aksa Bandırma Doğal Gaz Dağıtım Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-10-07",
+  "resmi_gazete_number": "30203",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CcP3chGzbn0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CcP3chGzbn0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Ats7ZKb7BPM="
+  ],
+  "source_sha256": "fd4d1a75194095cca7a24da0e7697cb560da3fb6f68b17db547ff950bc59d4b3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-10-05",
+  "law_text_complete": true
+}
