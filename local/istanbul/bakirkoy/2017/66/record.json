@@ -1,0 +1,23 @@
+{
+  "number": "66",
+  "number_as_published": "66",
+  "year": 2017,
+  "title": "Leyla Gencer Opera ve Sanat Merkezi ücret tarifesi",
+  "decision_date": "2017-10-06",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/44",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/66-leyla-gencer-osm-ucret-tarifesi-06102017.pdf",
+  "source_sha256": "99552a76e0be9a9360014882474bff105a07401b0f2b3195b1cf62828b2636c9",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-10-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06 Ekim 2017 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
