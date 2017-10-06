@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.20506",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "FAKTORİNG İŞLEMLERİNDE UYGULANACAK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "20506",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2015/20506",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20506&MevzuatTertip=5",
+  "source_sha256": "c698b26409fe8b73e3593338e74dba1b0acbe4cc829153d9e6e50fe2ed382d9c",
+  "source_bytes": 28675,
+  "published": "2015-02-04",
+  "gazette": "29257",
+  "in_force": "2017-10-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/10/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-10-06",
+      "RG-6/10/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-10-06",
+      "6/10/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2015 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1227,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

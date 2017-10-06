@@ -1,0 +1,11 @@
+ÜÇÜNCÜ BÖLÜM
+Alınan Kambiyo Senedi veya Diğer Senetler
+Alınan kambiyo senedi veya diğer senetler
+MADDE 8 – (1) Faturalı alacağa istinaden kambiyo senedi veya diğer senetlerin alınması halinde, alınan kambiyo senedi veya diğer senetteki ciro silsilesinde kuruluşa kambiyo senedi veya diğer senedi ciro edip veren kişinin, devralınan faturada alacaklı olarak gözüken kişi ve bu kişiden bir önceki cirantanın veya keşidecinin de faturadaki borçlu ile aynı kişi olması gerekir. Fatura ile kambiyo senedi veya diğer senetteki tutarın uyumlu olmasına dikkat edilir. Kuruluş tarafından kullanılan faktoring programları bu uyumu gözetecek ve uyumsuzluk söz konusu olduğunda işlem yapılmasına olanak vermeyecek şekilde yapılandırılır.
+(2) (Ek:RG-6/10/2017-30202)(2) Garantili ithalat ve ihracat faktoringi işlemlerinde, kuruluş ile fatura borçlusu arasında faktoring işlemine temel teşkil eden ticari işlemin dayanağı olan fatura veya sözleşme hükümlerine atıfta bulunan ve kuruluş tarafından alınan fatura borçlusunun düzenlediği veya ciro ettiği kambiyo senedine ilişkin bilgileri de içeren münhasır sözleşme düzenlenmiş olması kaydıyla birinci fıkranın birinci cümlesi uygulanmaz.
+(3) Müşterilerden ek teminat mahiyetinde olmak üzere devralınan ve fatura veya fatura yerine geçen belgeler ile ilişkili olmayan kambiyo senedi veya diğer senetlerin tahsil edilebilmesi için;
+a) Alacağın vadesinde ödenmeyip sorunlu hale gelmiş olması,
+b) Alınan kambiyo senedi veya diğer senet karşılığında hiçbir şekilde kambiyo senedi ve diğer senedin ilgililerine finansman sağlanmaması,
+c) Kuruluşun işlem ve muhasebe kayıtlarında ek teminat mahiyetinde alınan kambiyo senedi veya diğer senedin ilgili borcun teminatı karşılığında alındığına ilişkin kayıt düşülmesi
+gerekir.
+(4) Müşterilerden ek teminat mahiyetinde olmak üzere devralınan ve fatura veya fatura yerine geçen belgeler ile ilişkili olmayan kambiyo senedi veya diğer senedin tahsil edilmesi, ancak kuruluşun vadesinde ödenmeyen alacağı ve müşteriden olan diğer alacaklarını ilgili mevzuat çerçevesinde alacağın geri ödenebilirliğine göre Tasfiye Olunacak Alacaklar veya Zarar Niteliğindeki Alacaklar hesabında sınıflandırması, buna göre özel karşılık ayırması ve hukuki takip süreçlerini başlatmış olması halinde mümkündür.

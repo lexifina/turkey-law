@@ -1,0 +1,3 @@
+Mükerrer fatura kullanımının önlenmesi
+MADDE 6 – (1) (Değişik:RG-6/10/2017-30202) Faktoring işlemi esnasında finansman sağlanmadan önce kuruluş tarafından müşteri yetkililerince imzalanmış alacak bildirim formu ve fatura bilgileri temin edilir. Fatura bilgilerinin Merkezi Fatura Kaydı Sistemine kaydedilmesi suretiyle faturanın mükerrer olmadığının kontrolü yapılır, e-fatura ve e-arşiv uygulamaları ayrıca Gelir İdaresi Başkanlığından teyit edilir.
+(2) (Değişik:RG-6/10/2017-30202) Kuruluş, e-faturalar ile e-arşiv uygulaması kapsamında oluşturulan faturaların imajları hariç olmak üzere fatura aslı imajlarını yapılacak denetimlerde tevsik etmek üzere muhafaza eder.
