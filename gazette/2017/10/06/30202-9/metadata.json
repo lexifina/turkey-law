@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-10-06",
+  "issue": "30202",
+  "edition": "regular",
+  "item": 9,
+  "section": "YARGI BÖLÜMÜ",
+  "heading": "YARGITAY KARARLARI",
+  "title": "Yargıtay 13 ve 14. Hukuk Dairelerine Ait Kararlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171006-9.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171006.htm",
+  "index_sha256": "0380208cf41c9b5357f9c5d57739017d67ffa6fbace72d24303c24a6eac153fb",
+  "index_header": "6 Ekim 2017 ... 30202 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171006.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
