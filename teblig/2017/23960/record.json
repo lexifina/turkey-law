@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.23960",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE – AVRUPA BİRLİĞİ KATILIM ÖNCESİ YARDIM ARACI (IPA II) ÇERÇEVE ANLAŞMASINA İLİŞKİN GÜMRÜK GENEL TEBLİĞİ (SERİ NO: 1)",
+  "number": "23960",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2017/23960",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23960&MevzuatTertip=5",
+  "source_sha256": "f7fbc2da554ff4193a7a54e7e478d7408d73749477b2a2db7ab3c1fd25b9a247",
+  "source_bytes": 24521,
+  "published": "2017-10-07",
+  "gazette": "30203",
+  "in_force": "2017-10-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.10.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1304,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
