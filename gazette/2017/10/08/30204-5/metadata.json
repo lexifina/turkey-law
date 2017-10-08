@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-10-08",
+  "issue": "30204",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "ANA STATÜ",
+  "title": "Türkiye Curling Federasyonu Ana Statüsü",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171008-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171008.htm",
+  "index_sha256": "3225299e7ac403ff2f1600b197306f32a06538ef024ae6a54d0b3015bab7313b",
+  "index_header": "8 Ekim 2017 ... 30204 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171008.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
