@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-10-09",
+      "09.10.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30205",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-10-09",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2017/23954",
+  "published": "2017-10-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23954&MevzuatTertip=5",
+  "source_bytes": 20478,
+  "source_id": "8.5.23954",
+  "source_sha256": "7ad1558d956dc3e8317a3829eb545de56ca45ab8635131eaf43b17b91b310e01",
+  "text_status": "as-enacted",
+  "title": "ANKARA ÜNİVERSİTESİ İŞLETME EKONOMİSİ UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 614
+}
