@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35489",
+  "decision_date": "2017-10-10",
+  "source_id": 25289,
+  "chamber": "2",
+  "ilam_number": "20",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25289/",
+  "source_sha256": "a8bffab79510c1d683df03a20c809ac931920c0f863fa45a36fc2373fdcb6e1f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
