@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43449",
+  "decision_date": "2017-10-11",
+  "source_id": 14964,
+  "chamber": "4",
+  "file_number": "41238",
+  "public_body_type": "Diğer",
+  "account_year": "2007",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14964/",
+  "source_sha256": "bfbd2fca78912c7577bf305d680de55eb30e9c7d63f6f040299f6ef2a2a7e6b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
