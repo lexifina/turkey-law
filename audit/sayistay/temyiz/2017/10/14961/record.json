@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43447",
+  "decision_date": "2017-10-11",
+  "source_id": 14961,
+  "chamber": "2",
+  "file_number": "41427",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2014",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14961/",
+  "source_sha256": "771d5ea7d530eb3e839aac9b9568fce536ec432fb04cb942045551bdabd26d93",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
