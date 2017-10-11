@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43436",
+  "decision_date": "2017-10-11",
+  "source_id": 14945,
+  "chamber": "2",
+  "file_number": "41358",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14945/",
+  "source_sha256": "7ff97a9b224ec4e1ee57eab8dec39dd7d582c6dca7c56a881847609206f8b95c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
