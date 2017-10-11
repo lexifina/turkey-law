@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43438",
+  "decision_date": "2017-10-11",
+  "source_id": 14949,
+  "chamber": "2",
+  "file_number": "41385",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14949/",
+  "source_sha256": "935d6a5ac3c52153ce50de00ec622b8f263b6ca9778e2855790dea8ec377cfff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
