@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43450",
+  "decision_date": "2017-10-11",
+  "source_id": 14965,
+  "chamber": "4",
+  "file_number": "41919",
+  "public_body_type": "Diğer",
+  "account_year": "2008",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14965/",
+  "source_sha256": "9ad9103362f6ba8457cc64a11cf50c0cc74dd185d5fca80c69d298f168f36953",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
