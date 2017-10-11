@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-10-11",
+  "issue": "30207",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2017/21)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171011-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171011.htm",
+  "index_sha256": "c6303e437f6183c5cb38a11aa4b22d8a7ceeab178e2e3603ef5cf96444d3d447",
+  "index_header": "11 Ekim 2017 ... 30207 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171011.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "c7aff404753d21e9a1bf3258560072c426bbf3421dee501f63e7a053f3c69379",
+  "text_status": "text.txt as published"
+}
