@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10655",
+  "decision_date": "2017-10-12",
+  "source_id": 25427,
+  "chamber": "1",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25427/",
+  "source_sha256": "7a5af5d3b49f99bc38c244f8ad62828898e05df9578dff8a0cbd80e2eabee15a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
