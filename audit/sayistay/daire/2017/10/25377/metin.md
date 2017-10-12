@@ -1,0 +1,15 @@
+İşgal Harcı
+
+……. tarih ve … sayılı ilamın … inci maddesiyle Belediye kesin hesap cetveli ile düzeltme fişi terkin kayıtlarının incelenmesi sonucunda, işgal harcının hatalı terkin ve tahakkuk edilmesi neticesinde oluşan ……. TL kamu zararının, müştereken ve müteselsilen sorumlulara ödettirilmesine karar verilmişti.
+
+Bu kez sorumlular, gönderdikleri dilekçelerde, ilamın … inci maddesi ile tazminine hükmedilen ……. TL ile ilgili olarak, yargılamaya esas raporun görüşülmesi esnasında mevcut olmayan; ancak hükme tesir edebilecek nitelikte bulunan belgeleri göndermek suretiyle haklarında verilen tazmin hükmünün kaldırılmasını talep etmişlerdir.
+
+Sorumlularca gönderilen dilekçe ve eklerinden, hüküm tarihinde mevcut olmayan ancak hükme tesir edebilecek bilgi ve belgelerin var olduğu anlaşıldığından, konunun 6085 sayılı Sayıştay Kanununun 56. maddesinin ikinci fıkrasının (ç) bendi hükmü gereğince yeniden görüşülmesine karar verildi.
+
+Yapılan incelemede, tazminine hükmedilen işgal harcı ile ilgili, ……. Belediye Meclisinin ……. tarih ve ….. sayılı kararında; “Yapılan araştırmalar neticesinde Belediyemize yer veren parsel sahiplerinin, bedelsiz olarak vermiş oldukları miktarı, inşaat oturum alanının % 10 unu aşması halinde bu kişilerden herhangi bir işgaliye ücretinin alınmamasının uygun olduğu, Bütçe Komisyonu tarafından mütalaa edilmiş olup, keyfiyet Belediye Meclisimizce de tetkik olunarak komisyon raporu doğrultusunda kabulüne 1580 sayılı Kanunun 70 inci maddesinin 16 ncı fıkrasına istinaden oy çokluğuyla karar verildi” ifadelerine yer verildiği, işgalci firmanın kamuya terk ettiği alanın ……. m² olduğu, firmanın taşınmazının bu alanda ……. m² olduğu, yapının inşaat oturum alanı ……. m² olduğundan, firmanın kamuya terk ettiği alanın inşaat oturum alnına oranının % 58,26 olduğu, dolayısıyla, Belediye Meclisi Kararında belirtilen % 10 luk oranın üzerinde bir alan kamuya terk edilmiş olduğundan, işgaliye harcı tahakkukunun yapılmasına mahal olmadığı; diğer taraftan işgaliye harcına esas inşaatın devam ettiği 2009 yılına ait uydu görüntülerinde, yol ve kaldırımda herhangi bir işgalin mevcut olmadığına dair bilgi ve belgelerin mevcut olduğu, yapıya ilişkin aplikasyon krokisinde, AVM’nin güney cephesinde bulunan … ve … no.lu parsellerin mülkiyetinin başka bir şahsa ait olduğu, burada Belediyenin herhangi bir hissesinin mevcut olmadığı, yine bu bilgiler ışığında harca konu olabilecek herhangi bir işgalin söz konusu olmadığı anlaşılmıştır.
+
+Bu itibarla, Belediye tarafından gerçekleştirilen işgal harcı tahakkuk ve terkin işlemlerine ilişkin mevzuatına uygun olduğu anlaşılan ……. TL ile ilgili olarak ilişilecek husus bulunmadığına,
+
+……. tarih ve ….. sayılı ilamın … inci maddesiyle verilen tazmin hükmünün (Mali Hizmetler Müdürü) ……., (Şef) ……. ve (Memur) …….’ın uhdelerinden kaldırılmasına,
+
+İş bu ilamın tebliğ tarihinden itibaren 6085 sayılı Sayıştay Kanununun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu ve 56 ncı maddesi gereğince beş yıl içinde Sayıştay Daireleri nezdinde yargılamanın iadesi yolu açık olmak üzere oybirliğiyle karar verildi.
