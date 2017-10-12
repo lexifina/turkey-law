@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.23970",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İÇME VE KULLANMA SUYU TEMİNİ VE DAĞITIM SİSTEMLERİ HAKKINDA YÖNETMELİK",
+  "number": "23970",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2017/23970",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23970&MevzuatTertip=5",
+  "source_sha256": "1692e71ccc48a638bbf206beeac06e365bb86883ed02f54b5bba63b92a24a484",
+  "source_bytes": 148720,
+  "published": "2017-10-12",
+  "gazette": "30208",
+  "in_force": "2017-10-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.10.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8420,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23970-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
