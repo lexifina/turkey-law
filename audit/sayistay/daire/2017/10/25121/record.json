@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "309",
+  "decision_date": "2017-10-12",
+  "source_id": 25121,
+  "chamber": "3",
+  "ilam_number": "4",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25121/",
+  "source_sha256": "9860b8a6173063949478c58274206ebc1d60009249c8606cbddb12b9a8d74d7d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
