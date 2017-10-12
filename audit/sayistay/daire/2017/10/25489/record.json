@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10655",
+  "decision_date": "2017-10-12",
+  "source_id": 25489,
+  "chamber": "1",
+  "item_number": 20,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25489/",
+  "source_sha256": "0b5ce561dd0ebfe270f2d82f465c8798930710661d2cbe7403de574345cc4dee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

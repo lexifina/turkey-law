@@ -1,0 +1,49 @@
+Personel Ödemeleri
+
+… Üniversitesi Döner Sermayesi Tıp Fakültesi ve … Araştırma Uygulama Hastanesi’nde fiilen yöneticilik yapmakta olan akademik personele, (E) diğer faaliyetler puanı adı altında mesai içi performans ek ödemesi yapıldığı görülmüştür.
+
+2547 Saylı Yükseköğretim Kanunu’nun 58 inci maddesinin (f) fıkrasında; “Rektör, rektör yardımcısı ve genel sekreterlere gelir getirici katkılarına bakılmaksızın, üniversite yönetim kurulunun uygun gördüğü birimin döner sermaye hesabından yönetici payı olarak ayrılan tutardan ek ödeme yapılır. Yapılacak ek ödemenin tutarı ek ödeme matrahının, rektörler için yüzde 600’ünü, rektör yardımcıları için yüzde 300’ünü, genel sekreterler için yüzde 200’ünü geçemez.
+
+Döner sermaye gelirinin elde edildiği birimlerin dekan, başhekim ve enstitü ve yüksekokul müdürleri ile bunların yardımcılarına, gelir getirici katkılarına bakılmaksızın, görev yaptıkları birimin döner sermaye gelirlerinden yönetici payı olarak ayrılan tutardan ek ödeme yapılır. Yapılacak ek ödemenin tutarı, ek ödeme matrahının, dekan, enstitü ve yüksekokul müdürü için yüzde 250’sini, bunların yardımcıları için yüzde 100’ünü, tıp ve diş hekimliği fakülteleri dekanları ile sağlık uygulama ve araştırma merkezleri başhekimleri için yüzde 500’ünü, bunların yardımcıları için yüzde 300’ünü geçemez.
+
+Bu fıkra kapsamında bulunan yöneticilere, mesai saatleri içerisinde verdikleri mesleki hizmetlerinden dolayı ayrıca ek ödeme yapılmaz. Mesai saatleri dışında döner sermaye gelirlerine katkıları bulunması hâlinde alabilecekleri toplam ek ödeme tutarı, hiçbir şekilde yönetici payı dahil ilgisine göre (c) ve (d) fıkralarında belirtilen esaslara göre hesaplanacak tutarı geçemez.” denilmektedir.
+
+2547 Sayılı Kanunun 58 inci maddesinin (f) fıkrasının 1 ve 2 nci bentlerine göre adı geçen yöneticilere gelir getirici katkılarına bakılmaksızın, üniversite yönetim kurulunun uygun gördüğü birimin döner sermaye hesabından yönetici payı olarak ayrılan tutardan ek ödeme yapılacağı, aynı fıkranın 3 üncü bendine göre ise bu fıkra kapsamında bulunan yöneticilere, mesai saatleri içerisinde verdikleri mesleki hizmetlerinden dolayı ayrıca ek ödeme yapılamayacağı hükme bağlanmıştır. Çünkü yöneticiler mesai saatleri içindeki mesleki ve yöneticilik faaliyetleri karşılığı olarak Kanunun 58/f kapsamında ek ödeme almaktadırlar.
+
+2547 sayılı Kanunun 58 inci maddesinin (h) ve (i) fıkralarına dayanılarak hazırlanan Yükseköğretim Kurumlarında Döner Sermaye Gelirlerinden Yapılacak Ek Ödemenin Dağıtılmasında Uygulanacak Usul ve Esaslara İlişkin Yönetmeliğin 5 inci maddesinin 6 ncı fıkrasında; “ (E) Diğer faaliyetler puanı; (A), (B), (C) ve (D) puanlarının hesaplanmasında dikkate alınan faaliyetler dışındaki komisyon üyelikleri, özellik arz eden riskli birimlerde çalışma ve benzeri diğer hususlar dikkate alınarak hazırlanan ve bu Yönetmelik ekinde yer alan Ek-2 Ek Görev Cetveli ve Ek-3 Risk Cetvelinde tanımlanan ve belirlenen yüzdelik değerlerin kişinin birim ortalaması üzerinden hesaplanan (A) puanı ile çarpılması sonucu bulunan puandır. (E) puanı; (A) puanının her bir görev için % 30’unu, toplamda ise % 50’sini geçemez. (E) puanı aşağıdaki şekilde hesaplanır. (E) = Birim ortalaması üzerinden hesaplanan (A) Puanı x Belirlenen yüzdelik değer.” denilmektedir.
+
+Adı geçen Yönetmeliğin Ek-2 Ek Görev Cetvelindeki görev tanımlarına bakıldığında bazı görevlerin, yöneticilik görevi gereği ve mesai saatleri içerisinde olduğu açıkça anlaşılmaktadır. Örneğin rektör, rektör yardımcıları, dekanlar ile enstitü ve yüksekokul müdürleri için Üniversite Senatosu Üyeliği, Diğer Faaliyetler kapsamında ek görev değil bizzat yöneticilik görevi gereğidir. Çünkü 2547 sayılı Kanun’un 14 üncü maddesinin (a) fıkrasında Senato’nun, Rektörün başkanlığında, rektör yardımcıları, dekanlar ve her fakülteden fakülte kurullarınca üç yıl için seçilecek birer öğretim üyesi ile rektörlüğe bağlı enstitü ve yüksekokul müdürlerinden teşekkül edeceği belirtilmektedir. Üniversite Senatosu Üyeliği,  her fakülteden fakülte kurullarınca üç yıl için seçilecek birer öğretim üyesi için ek görev kapsamındadır.
+
+Rapor dosyası ve eki belgeler incelendiğinde; fiilen yöneticilik yapmakta olan akademik personele Üniversite Senatosu Üyeliği için (A) Kurumsal Katkı Puanının %15 oranında (E) Diğer faaliyetler puanı adı altında mevzuata aykırı mesai içi performans ek ödemesi yapıldığı görülmüştür.
+
+Adı geçen Yönetmeliğin “Yasaklar” başlıklı 9’uncu maddesinde:” (1) Kurumlarda gelir getirici işlemleri ve diğer faaliyetleri yapmadığı hâlde yapmış gibi gösterenler ve gerekmediği hâlde işlemleri artıranlar hakkında genel hükümlere göre işlem yapılır.
+
+(2) Haksız olarak ek ödeme aldıkları tespit edilenlerden, haksız olarak yapılan ek ödemeler geri alınır.” denilmektedir. Söz konusu düzenleme gereğince haksız olarak yapılan ek ödemelerin geri alınması gerekmektedir.
+
+Bu itibarla; 2547 sayılı Kanunun (f) fıkrası kapsamındaki yöneticilere  (E) Diğer faaliyetler puanı adı altında haksız mesai içi performans ek ödemesi yapılması sonucu oluşan, … TL tutarındaki kamu zararının,
+
+sorumlulardan … ve …’a,
+
+müştereken ve müteselsilen,
+
+6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizleriyle birlikte ve temyiz yolu açık olmak üzere ödettirilmesine,
+
+(Üye …’nün; Gerek 2547 sayılı Kanunun 58 inci maddesinde gerekse bu madde uyarınca yürürlüğe konulmuş olan Yönetmelikte yer alan ve yöneticilere döner sermayeden yapılacak ödemelerin esaslarını belirleyen düzenlemelerde temel kural; yöneticilere mesai saatleri içerisinde verdikleri mesleki hizmetlerden dolayı yönetici payı dışında ayrıca ek ödeme yapılamaması, mesai saatleri dışında döner sermaye gelirlerine katkılarının bulunması halinde ise gelir getirici katkıları dikkate alınarak ek ödeme yapılabilmesidir. Rapordaki tazmin talebi esas itibariyle yönetmelikteki formülde yer alan (E) puanın da,  mesai saatleri içerisinde verilen mesleki hizmet yani B1 gibi kabul edilmesine dayanmakta olup, yöneticilere E puanı dikkate alınarak ödeme yapılamayacağı yorumu üzerine kurulmuştur.
+
+Öncelikli olarak, hem kanun hem de yönetmeliğin yazım tekniğinden (mesai içindeki mesleki hizmetlerin ücretlendirilmeyeceğinden bahsedildikten hemen sonra mesai dışındaki gelir getirici katkılarının ücretlendirileceğinden bahsedilmesinden) anlaşılacağı üzere; mesleki hizmetler; yöneticilerin yönetici payı olarak karşılıklandırılan yöneticilik faaliyetleri dışında icra ettikleri akademik unvanlarıyla öğretim üyesi olarak gerçekleştirdikleri eğitim öğretim faaliyetleri, bilimsel faaliyetler ve akademik unvanlarının temelini oluşturan meslekleri (tıp doktoru, tarihçi, ziraatçı vb.) ile ilgili faaliyetlerdir.
+
+Öğretim üyelerinin meslekleri sayesinde gerçekleştirdikleri ameliyat, tedavi, proje vb. döner sermaye (satış) gelirlerini doğrudan etkileyen çalışmalarda bizzat yer almalarına dayanan faaliyetler, yönetmelikle açıklığa kavuşturulan (B) puanlarına ilişkin gelir getirici faaliyetlere karşılık gelmekte olup, bu yönüyle kanun ve yönetmeliğin birbirini tamamlayıcı nitelikte oldukları söylenebilir.
+
+Dolayısıyla, (B) puanlarında “mesai içi” ve “mesai dışı” tabirlerinden açıkça bahsedilmiş olması da dikkate alındığı takdirde, yönetmelikteki formülün (B) puanları açısından tereddüt bulunmamakta olup, mesleki hizmet kapsamındaki gelir getirici faaliyetler, sadece mesai saatleri dışında gerçekleştirilmesi halinde yöneticiler için ek ödeme hesabına yansıtılabilmektedir. Daha açık bir ifadeyle, yönetmelikteki formülde yer alan “bireysel gelir getirici faaliyetlerden dolayı alınan mesai içi (B1)” puanından dolayı yöneticilere ek ödeme yapılmasına hiçbir şekilde izin verilmez iken; “gelir getirici faaliyetlerden dolayı alınan mesai dışı (B2)” puanından dolayı yöneticilere ek ödeme yapılmasında ise yasal yönden herhangi bir engel getirilmemektedir.
+
+Yönetmelikte (B) gelir getirici faaliyet puanları dışında yer alan ve rapora konu ihtilafa sebep olan diğer formül bileşeni; (E), puanından yöneticilere ek ödeme yapılıp yapılamayacağı hususunun açıklığa kavuşturulması için ise bu puanın tanımına bakmak gerekmektedir. Yönetmelikte E puanı şu şekilde tanımlanmıştır;
+
+“(E) Diğer faaliyetler puanı; (A), (B), (C) ve (D) puanlarının hesaplanmasında dikkate alınan faaliyetler dışındaki komisyon üyelikleri, özellik arz eden riskli birimlerde çalışma ve benzeri diğer hususlar dikkate alınarak yönetim kurulları tarafından tanımlanan ve belirlenen yüzdelik değerlerin kişinin (A) puanı ile çarpılması sonucu bulunan puandır. (E) puanı; (A) puanının her bir görev için % 30’unu, toplamda ise % 50’sini geçemez. (E) puanı aşağıdaki şekilde hesaplanır.
+
+(E) = Kişinin (A) Puanı x Belirlenen yüzdelik değer”
+
+Yönetmelikteki bu tanımlamadan (E) Diğer faaliyetler puanının, (A), (B), (C) ve (D) puanlarının hesaplanmasında dikkate alınan faaliyetler dışındaki komisyon üyelikleri, özellik arz eden riskli birimlerde çalışma ve benzeri diğer hususlar dikkate alınarak yönetim kurulları tarafından tanımlanan ve belirlenen yüzdelik değerlerin kişinin (A) puanı ile çarpılması sonucu bulunan puan olduğu anlaşılmaktadır.
+
+ Yöneticilerin yukarıda tanımlanmaya çalışılan (mesai içi) mesleki hizmetlerle ilişkilendirilemeyen bu faaliyetlerinin mevcut olması halinde kendilerine bu puanlar için ek ödeme yapılabilmesine engel bir husus olmaması bir yana; (E) puanının (A) puanı üzerinden hesaplanması hasebiyle, (A) puanı için ödeme yapılabileceği kabul edildikten sonra, (E) puanı için yöneticilere ek ödeme yapılamayacağı şeklinde bir kanaate varmak da mümkün görünmemektedir. Kaldı ki 2547 sayılı Kanunun 58. Maddesinin (c) ve (d) fıkralarında belirlenen tavan tutarlar da aşılmadığından yapılan ödemenin mevzuata uygunluğuna karar verilmesi, ancak ülke genelinde uygulama birliğinin sağlanması açısından konunun yargısal niteliği olmayan raporlarla TBMM ve ilgili diğer kurumlara bildirilmesi uygun olur.” şeklindeki görüşüne karşın,
+
+oy çokluğuyla,
