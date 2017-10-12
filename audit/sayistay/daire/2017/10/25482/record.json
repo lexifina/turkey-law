@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10655",
+  "decision_date": "2017-10-12",
+  "source_id": 25482,
+  "chamber": "1",
+  "item_number": 13,
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25482/",
+  "source_sha256": "2a1b16291fef203d6d5862d360a82f8325a10a3900856a2942d1028a358380da",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
