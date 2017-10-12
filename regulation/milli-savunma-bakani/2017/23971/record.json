@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23971",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ MAYIN FAALİYET MERKEZİ DAİRESİ BAŞKANLIĞINDA ÇALIŞTIRILACAK SÖZLEŞMELİ PERSONEL HAKKINDA YÖNETMELİK",
+  "number": "23971",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2017/23971",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23971&MevzuatTertip=5",
+  "source_sha256": "c3259c54d949e48545d5760064531524a71bde2e50215852b9bc97188f06b9a4",
+  "source_bytes": 140195,
+  "published": "2017-10-12",
+  "gazette": "30208",
+  "in_force": "2017-10-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.10.2017); own commencement article: \"Bu Yönetmelik yayım tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayım tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7840,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
