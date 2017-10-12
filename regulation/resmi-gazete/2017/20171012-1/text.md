@@ -1,0 +1,1342 @@
+12 Ekim 2017 PERŞEMBE
+Resmî Gazete
+Sayı : 30208
+YÖNETMELİK
+Çevre ve Şehircilik Bakanlığından:
+İÇME VE KULLANMA SUYU TEMİNİ VE DAĞITIM SİSTEMLERİ
+HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı;
+içmesuyu temini ve dağıtım sistemlerinin planlanması, tasarımı,
+projelendirilmesi, yapımı ve işletilmesine ilişkin usul ve esasları
+düzenlemektir.
+(2) Bu Yönetmelik; içmesuyu iletim hatları, servis
+boruları, su depoları ve diğer üniteleri, bina haricindeki su dağıtım
+sistemleri ve elemanları için genel şartları, ürün standartları için genel
+şartları, montaj, saha testleri ve işletmeye alma şartlarını kapsar.
+Dayanak
+MADDE 2 –
+(1) Bu Yönetmelik, 29/6/2011
+tarihli ve 644 sayılı Çevre ve Şehircilik Bakanlığının Teşkilat ve
+Görevleri Hakkında Kanun Hükmünde Kararnamenin 11 inci maddesi hükümlerine
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 –
+(1) Bu Yönetmelikte geçen;
+a) Abone: Sunulan mal ve/veya hizmetlere para
+ödeyerek belirli bir süre alıcı olma durumunu,
+b) Ana boru: Su dağıtım alanına suyu getiren,
+normalde abone bağlantısı olmayan boruyu,
+c) Anma çapı: Tamsayılarla ifade edilen, yaklaşık
+olarak borunun milimetre cinsinden gerçek ölçülerine eşit olan ve sistem
+elemanlarının boyutlarını tanımlamak için kullanılan çapı,
+ç) Aşındırıcı toprak: Sistem elemanı üzerinde
+aşındırıcı ya da başka olumsuz etkiye sahip olan ve koruyucu önlemler
+alınması gereken toprağı,
+d) Ayarlanabilir bağlantı: Montaj esnasında belirli
+bir açıyla bağlantı imkanı sağlayan ve sabitlenen bağlantıyı,
+e) Azami kabul edilebilir işletme basıncı (AKİB):
+Hizmetteki elemanın dayanabileceği su darbeleri dahil zaman zaman
+gerçekleşen azami basıncı,
+f) Azami saha test basıncı (ASTB): Yeni monte
+edilmiş olan bir sistem elemanının, boru hattının bütünlüğünü koruyacak
+şekilde kısa süreli dayanabileceği azami hidrostatik basıncı,
+g) Azami tasarım basıncı (ATB): Su darbesi dahil,
+işletme veya tasarım esnasında belirlenen bir basınç bölgesindeki azami
+işletme basıncı,
+ğ) Bağlantı: Sızdırmazlığı sağlamak amacıyla kullanılan
+aparatlar dahil olmak üzere iki elemanın uç noktalarının birleştiği yeri,
+h) Basınç bölgeleri: Bir su dağıtım sisteminde
+belirli yöntemlerle, basıncın sınırlandırıldığı bölgeleri,
+ı) Boru: Soketli, tapalı veya flanşlı uçlara sahip,
+normalde düz bir ekseni olan şebeke elemanını,
+i) Boru parçası: Soketler ve tapalar haricinde,
+üniform kesit alanına sahip olan, borunun silindirik parçasını,
+j) Cazibeli sistem: Tam dolu veya kısmi dolu olarak
+akışın yerçekimi kuvvetiyle sağlandığı sistemi,
+k) Dairesel dayanım: Bir eksen boyunca eksenel
+yöndeki dış ve iç yüklere karşı borunun dayanım gücünü,
+l) Dış çap (OD): Boru parçasının dışarıdan ölçülen
+çapını,
+m) Dolgu derinliği: Boru parçası veya fittingin üst
+kotundan zemin kotuna kadar olan mesafeyi,
+n) Donatılar: Vida, kelepçe ve conta gibi, boru,
+fitting ve vanalar haricindeki sistem elemanlarını,
+o) Esas boru: Şebekede gözü teşkil eden, aynı
+zamanda ana boruyla tali borular arasındaki bağlantıyı sağlayan boruyu,
+ö) Esnek bağlantı: Montaj esnasında ve daha sonrasında
+boru hattına bir açı vermek için kullanılan ve küçük kaymalara karşı
+dayanıklı olan bağlantıyı,
+p) Esnek boru: Tasarım kriteriyle tanımlanmış yük
+taşıma kapasitesine kadar esneyerek kesit alanında deformasyon gösteren ama
+kırılmayan boruyu,
+r) Fitting: Boru hattına açı vermek ve yönünü
+değiştirmek için kullanılan, boru haricindeki şebeke elemanını (flanşlı
+parçalar ve bilezik/kuplajlar da fitting sınıfındadır),
+s) Geri akış: Tasarlanan akış yönü tersindeki su
+akışını,
+ş) Hazne: Su depolamak için kullanılan üniteyi,
+t) Hendek (Tranşe): Alt yapı tesislerinin içine
+yerleştirildiği ve üstünün usulüne göre kapatılarak eski haline getirilmesi
+gereken her türlü çukur kazısını,
+u) İç çap (ID): Boru parçasının içeriden ölçülen
+çapını,
+ü) İç kaplama: Korozyon, kimyasal reaksiyonlar ve
+mekanik hasarlardan korumak amacıyla bir sistem elemanının iç yüzeyine
+uygulanan malzemeyi,
+v) İçme ve kullanma suyu: İlgili mevzuatla
+tanımlanan şartları sağlayan, insani tüketime uygun suyu,
+y) İletim (isale) hattı: Normalde abone bağlantısı
+olmayan, su kaynaklarını, arıtma tesislerini, rezervuarları ve/veya dağıtım
+bölgelerini birbirine bağlayan boruyu,
+z) İşletme basıncı (İB): Su dağıtım sisteminde,
+herhangi bir noktada, herhangi bir zamanda gerçekleşen iç basıncı,
+aa) Kabul edilebilir işletme basıncı (KİB): Hizmet
+veren bir elemanın sürekli olarak dayanabileceği azami hidrostatik basıncı,
+bb) Kaplama: Korozyon, kimyasal reaksiyonlar ve
+mekanik hasarlardan korumak amacıyla bir sistem elemanının dış yüzeyine
+uygulanan malzemeyi,
+cc) Katodik koruma: Korunacak olan metal yüzeyin,
+kendisini çevreleyen ortama göre katodik bir durumda tutulmasıyla sağlanan
+koruma metodunu,
+çç) Kişi başına günlük ortalama su tüketimi: Proje
+yapılacak bölge veya benzer bir bölgedeki su tüketim verileri kullanılarak
+veya proje yapılacak bölgedeki iklimsel şartlar, halkın sosyo-ekonomik
+durumu, kullanım alışkanlıkları gibi faktörler göz önüne alınarak bir kişi
+için günlük ortalama bazda belirlenen su tüketimini,
+dd) Maksimum günlük pik faktörü (MGPF): Maksimum günlük
+tüketimin (MGT) ortalama günlük tüketime (OGT) oranını,
+ee) Maksimum günlük tüketim (MGT): Yıl içerisinde
+en çok su kullanılan güne ait günlük ortalama bazındaki su debisini,
+ff) Maksimum saatlik pik faktörü (MSPF): Maksimum
+saatlik tüketimin (MST) maksimum günlük tüketime (MGT) oranını,
+gg) Maksimum saatlik tüketim (MST): Yıl içerisinde
+en çok su kullanılan saate ait saatlik ortalama bazındaki su debisini,
+ğğ) Minimum saatlik tüketim (AST): Yıl içerisinde
+en az su kullanılan saate ait saatlik ortalama bazındaki su debisini,
+hh) Ortalama günlük tüketim (OGT): Proje yapılacak
+olan bölgedeki 1 yıl boyunca gerçekleşen/gerçekleşecek tüm ihtiyaçların
+365’e bölünmesiyle elde edilen su debisini,
+ıı) Pik debi faktörü: Belirli bir zaman periyodunda
+pik debinin ortalama debiye oranını,
+ii) Pompa istasyonu: Dağıtım sisteminde yeterli
+basınç ve debiyi sağlamak amacıyla kullanılan pompalama birimini,
+jj) Pompalı (terfili) sistem: Su debisi veya
+basıncının bir ya da daha fazla pompa ile karşılandığı, akışın tam dolu
+olduğu sistemleri,
+kk) Pompalı (terfili) ve cazibeli sistem: Debi
+ve/veya basınç kriterini sağlamak için ayrı ayrı veya birleşik olarak
+kullanılan cazibeli ve pompalı sistemi,
+ll) Rijit Bağlantı: Montaj esnasında veya daha
+sonrasında esnelemelere izin vermeyen bağlantıyı,
+mm) Rijit boru: Kesit alanında deformasyon
+olmaksızın yük taşıma kapasitesine ulaşınca kırılan boruyu,
+nn) Saatlik su tüketimi (SST): Yıl içerisinde
+herhangi bir saatteki su tüketimini,
+oo) Saatlik tüketim faktörü (STF): Yıl içerisinde
+herhangi bir günün herhangi bir saatindeki su tüketiminin o güne ait günlük
+tüketime oranını,
+öö) Servis basıncı (Statik basınç) (SB): Müşteri
+bağlantı noktalarında, sıfır debide gerçekleşen basıncı,
+pp) Sistem test basıncı (STB): Yeni döşenen bir
+boru hattının dayanımını test etmek için uygulanan hidrostatik basıncı,
+rr) Su darbesi: Basınçlı boru içindeki akımda ani
+değişimlerden kaynaklanan basınç dalgalanmalarını,
+ss) Su deposu: Depo hacmi ve kararlı basınç
+seviyeleri sağlayarak su ihtiyacındaki salınımları dengeleyen, bir ya da daha
+fazla gözden oluşan, kontrol binası, işletme ekipmanları ve erişim yolları
+bulunan kapalı hazneyi,
+şş) Su ihtiyacı: Birim zamanda ihtiyaç duyulan
+tahmini su miktarını,
+tt) Su şebekesi: Dağıtım boruları, su depoları,
+pompa istasyonları ve diğer malzemelerden oluşan, suyun kullanıcıya
+ulaştırılması için yapılmış su dağıtım sisteminin parçasını,
+uu) Tali Boru: Ana borudan veya başka bir tali
+borudan suyu alarak, kullanıcıya dağıtan boruyu,
+üü) Tasarım (İşletme) basıncı (TB): Su darbesi
+hariç, işletme veya tasarım esnasında belirlenen bir basınç bölgesindeki
+azami işletme basıncını,
+vv) Vana: İzolasyon vanası, kontrol vanası, basınç
+düşürücü vana, hava valfi, çekvalf ve yangın hidrantı gibi debiyi veya
+basıncı kontrol/izole etmek için kullanılan sistem elemanını,
+ifade eder.
+İKİNCİ BÖLÜM
+Genel Esaslar ile Güzergah Seçimi ve Kent
+Planlamasına İlişkin Esaslar
+Genel
+esaslar
+MADDE 4 –
+(1) İçme suyu sistemlerinin
+planlanması, tasarımı ve projelendirilmesi, yapımı ve işletilmesi sürecinde;
+a) İçme suyu sistemlerinin oluşturulmasında,
+yeterli basınç, debi ve kalitede su sağlanması, çevresel ve ekonomik olarak
+sürdürülebilir olması, işletme kolaylığı sağlaması ve tüm kontrol
+mekanizmalarını kapsaması,
+b) İçme suyu dağıtım sistemindeki su kalitesinin,
+ulusal yönetmeliklerde verilen şartları sağlaması,
+c) İçme suyu dağıtım sisteminde suyla temas halinde
+bulunan bütün elemanlar ve malzemelerin, su kalitesine zarar vermeyecek
+şekilde, ilgili standartlara uygun olarak tasarlanması ve üretilmesi,
+ç) İçme suyu dağıtım sistemlerinin geri akışı
+önlemek üzere tasarlanması, donatılması ve inşa edilmesi,
+d) Hava valfleri ve tahliye vanalarından sisteme su
+sızmasının önlenmesi,
+e) İçme suyu dağıtım sistemlerinde, su kalitesini
+olumsuz yönde etkileyebileceğinden, durağan şartların önlenmesi için uygun
+tasarımın yapılması, sistemin bu kriterlere göre inşa edilmesi ve
+işletilmesi,
+f) Gerekli görüldüğü takdirde, ana borularda su
+püskürterek veya kazısız teknolojik araçlarla temizleme amacıyla uygun
+ekipmanlar bulundurulması,
+g) İki içmesuyu sisteminin birbirine bağlanmasına,
+sadece iki suyun kimyasal ve fiziksel özellikleri karışmaya uygunsa ve su kalitesine
+zarar vermeyecekse izin verilmesi,
+ğ) Sistemlerin en az 30 yıl hizmet edecek şekilde
+tasarlanması, bu süreye 5 yıl inşaat süresi eklenmesi ve inşaat süresinin 5
+yıl olarak alınması, pompalar, muhtelif ölçüm aletleri ve kontrol
+ekipmanlarının daha erken sürelerde iyileştirme veya yenileme
+gerektirebileceği,
+h) Mevcut ve gelecekteki su ihtiyacı tahminlerinin
+yapılması,
+ı) Yangın debisinin, ulusal şartnameler esas
+alınarak belirlenmesi,
+i) Pompa istasyonları, su depoları, yerüstündeki
+diğer yapılar, boru hatları ve işletmeye müdahale edilme riski için; terör,
+şiddet eylemleri ve diğer yasalara aykırı faaliyetlere karşı güvenlik
+önlemleri ve sistemin güvenliği için gerekli tedbirlerin alınması,
+j) Tasarımda, suyun kirlenmemesi hususunda detaylı
+risk değerlendirmelerinin yapılması,
+k) Risklerin yüksek olduğu bölgelerde sistemler ve
+sistem elemanlarının kapalı olarak (çitlerle çevrili) tasarlanması ve
+güvenlik kameraları kullanılması,
+l) Abone bağlantı noktasındaki hizmet hedeflerinin
+su sağlayıcı tarafından belirlenmesi, hedeflerin servis basınçları, debiler
+ve süreklilik başlıkları altında tanımlanması,
+esastır.
+(2) İçmesuyu teknik altyapı sistemlerinin
+planlanması, tasarımı ve projelendirilmesi ile ilgili teknik esaslar ile bu
+tesislere ait tip yol enkesitleri EK-1’de, yapımıyla ilgili teknik esaslar
+EK-2’de, işletme ve bakımı ilgili teknik esaslar EK-3’te belirtilen şekilde
+uygulanır.
+(3) Bu Yönetmelikte yer almayan veya belirtilmeyen
+hususlarda, öncelikle TSE standartları yoksa Avrupa Birliği (EN)
+standartları geçerlidir.
+Güzergah
+seçimi
+MADDE 5 –
+(1) Altyapı ağlarına ilişkin
+güzergah planlamasında, iletim hatlarının tescile tabi olmayan kamunun
+ortak kullanımına bırakılmış arazilerden ve devletin hüküm ve tasarrufu
+altındaki sahipsiz yerlerden geçirilmesine öncelik verilir.
+(2)
+Güzergahın tescile tabi olmayan kamunun ortak kullanımına bırakılmış
+arazilerden ve devletin hüküm ve tasarrufu altında bulunan yerlerden
+geçirilmesi olanaklı değilse, iletim hatları özel mülkiyete konu
+taşınmazlardan da geçirilebilir. Bu durumda, iletim hatlarının rastladığı
+taşınmazların mülkiyeti ilgili mevzuat uyarınca altyapı yatırımı yapan
+kurum ve kuruluş tarafından rızai satış, devir, tahsis, kiralama, irtifak
+hakkı tesisi veya kamulaştırma yöntemleriyle edinilir.
+(3) İrtifak hakkı; 22/11/2001 tarihli ve 4721
+sayılı Türk Medeni Kanununa göre rızai mecra irtifakı biçiminde veya dava
+yolu ile zorunlu mecra irtifakı biçiminde veya 4/11/1983 tarihli ve 2942
+sayılı Kamulaştırma Kanununa göre idari irtifak biçiminde tesis edilebilir.
+(4) İrtifak hakkı, iletim hatlarına rastlayan
+parsel kesimlerinde altyapı yatırımcısı özel hukuk tüzel kişileri lehine
+bağımsız ve sürekli üst hakkı yoluyla da kurulabilir. Bu durumda, iletim
+hatlarının geçtiği hak hacimleri tapu kütüğünde taşınmaz olarak tescil
+edilir. İletim hatlarının tescile tabi olmayan yerlere rastlaması durumunda
+ise 4721 sayılı Kanun uyarınca bu yerlerin öncelikle hazine adına tescili,
+ardından bu alanlardan geçen altyapı tesisi kuruluşlar lehine bağımsız ve
+sürekli nitelikte üst hakkı kurulması yoluna gidilebilir.
+(5) Arazi ediniminde, kamulaştırma yöntemine en son
+aşamada başvurulur. Kamulaştırma maliyetinin azaltılması için yerel
+yönetimlerle koordinasyon sağlanır, 3/5/1985 tarihli ve 3194 sayılı İmar
+Kanununun 18 inci madde uygulaması yapılarak kamu eline geçmiş alanlardaki
+yatırımlara öncelik verilir.
+(6) Arazi mülkiyetinin ediniminde veya kullanımında
+altyapı yatırımı yapan kurum ve kuruluşun bağlı olduğu mevzuat ile
+edinilecek arazinin mülkiyet veya tasarruf sahibi kurum ve kuruluşun bağlı
+olduğu mevzuat hükümlerine göre işlem yapılır.
+Kent
+planlaması ile teknik altyapı planlaması ilişkisine dair esaslar
+MADDE 6 – (1) Teknik altyapı planları ile imar planları
+birlikte ve koordineli olarak hazırlanır.
+(2) Planlama süreci içinde teknik altyapı kapasite
+hesapları ve bu doğrultuda önerilmesi gereken teknik donatı alanları;
+ilgili kent planının nüfus, ekonomik yapı, sektörel dağılım, sosyal yapı,
+yerleşme kimlikleri ve kademeleri bağlamında bütünleşik kurgulanır ve
+planlanır.
+(3) Kent planlama ve uygulama sürecinde olası
+değişiklikler, revizyonlar mutlaka kentsel altyapı sisteminin revizyonu ile
+bütünleşik bir süreç içinde ele alınır ve her iki alana ait kararlar
+bütünsel bir şekilde yeniden tanımlanır ve uygulama süreçleri gerekli
+eşgüdüm sağlanarak yönlendirilir.
+(4) Ulaşım aksları/yüzeyleri ve ilgili teknik
+altyapı geçiş hatları plan ekleri olarak uygulama imar planları beraberinde
+verilir. Uygulama imar planları eki olarak planlama sınırı içinde önerilmiş
+olan yol kesitlerinin çözümleri, araç izleri, orta ve yol kenarı refüjler,
+bisiklet, yaya yolları ve parklanma şeritleri ile yol kaplama cinsleri
+tanımlanır ve ilgili idareye planla birlikte teslim edilir.
+(5) Ulaşım ve teknik altyapı bileşenlerinin
+belirleyiciliği ve pek çok kentsel fonksiyonla kesişen ilişkisi 3 boyutlu
+planlar olarak da adlandırılan altyapı ve kentsel mekân ilişkilerini
+kurgulayan plan belgeleriyle tanımlanır.
+a) Yol mekânlarının tasarımında teknik altyapı
+tesislerinin gereksinimleri dikkate alınarak teknik altyapı tesisleri her
+an ulaşılabilir biçimde tasarlanır.
+b) Taşıt ve yaya yolları imar planlarında
+boyutlandırılırken bunların altına yerleştirilecek teknik altyapı boyutları
+da dikkate alınır.
+c) İçme suyu tesislerinin yerleştirilmesi için
+ekonomik ve yasal zorunluluklar nedeniyle kamusal alanlar kullanılır. İçme
+suyu şebekesinin tesisinde topoğrafik koşullar nedeniyle cadde ve
+sokakların planlanmasında zorlayıcı noktaların oluşabileceği hususu dikkate
+alınır.
+ç) Teknik altyapı tesislerinin üstündeki yol, yaya
+kaldırımı, bisiklet yolu ve parklanma şeritlerinin kaplamalarının
+kolaylıkla sökülebilir ve tekrar kullanılabilir olmasına önem verilir.
+(6) Bu Yönetmelikte geçen her türlü büyük ölçekli
+harita ve harita bilgilerinin üretimi, sunumu, kullanımı ve arazide
+yapılacak jeodezik ölçme çalışmalarına ilişkin konularda 23/6/2005 tarihli
+ve 2005/9070 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Büyük
+Ölçekli Harita ve Bilgileri Üretim Yönetmeliği geçerlidir.
+ÜÇÜNCÜ BÖLÜM
+Etüt, Planlama ve Fizibilite Esasları
+Genel
+esaslar
+MADDE 7 –
+(1) İçmesuyu iletim hatları
+projeleri yerel ve gelecekteki koşullar, hidrolik ve çevresel etkenler ile
+maliyet dikkate alınarak halk sağlığı ve güvenliği, iş sağlığı ve
+güvenliği, yapım, işletme ve bakım açılarından değerlendirilerek planlanır.
+(2) Etüt, planlama ve fizibilite çalışmaları tüm
+içmesuyu toplama havzası için gerçekleştirilir. Planlama aşaması, içmesuyu
+iletim havzasında bugün ve gelecekteki gelişmeler ile ulusal veya yerel
+mevzuat ile ilgili idarelerin havza yönetim planları ve master planları
+dikkate alınarak yapılır. Bu amaçla içmesuyu projelerinin tanzimi;
+a) Verilerin temini ve derlenmesi,
+b) Etüt ve fizibilite çalışmalarının yapılması,
+c) Değerlendirme,
+ç) Planlama,
+d) Planın geliştirilmesi,
+aşamalarından oluşur.
+Etüt
+MADDE 8 –
+(1) İçme suyu iletim hatları
+projelendirilmeden önce etüt, planlama ve fizibilite raporları hazırlanır.
+(2) Etüt,
+planlama ve fizibilite raporunun ilk bölümünde, tüm bilgileri içeren kısa
+yönetici özetinin hazırlanması, çalışmanın yapıldığı tarih, çalışmaları
+kimlerin, nasıl ve ne zaman gerçekleştirdiğini kapsayan bilgiler yer alır.
+(3) Etüt, planlama ve fizibilite raporunun ne
+amaçla hazırlandığı ve hizmet verilecek hedef kitle hakkında açıklayıcı
+bilgiler raporda yer alır.
+(4) Etüt, planlama ve fizibilite raporunun
+hazırlanma sürecindeki çalışma aşamalarına raporda yer verilir.
+(5) Etüt, planlama ve fizibilite raporunda çalışma
+alanı; idari, coğrafi ve tarihi durum, sosyo-ekonomik ve kültürel durum,
+iklimsel veriler, mevcut su ve içme ve kullanma suyu tesislerinin durumu,
+enerji tesisleri durumu, harita ve imar planı durumları ile tanıtılır.
+(6) Etüt, planlama ve fizibilite raporunda mevcut
+içmesuyu durumu, mevcut içmesuyu tesislerinin teknik detayları, su
+aboneleri ve tüketim değerleri, kayıp-kaçak su miktarı ve mevcut içmesuyu
+durumunun değerlendirilmesi esaslarına göre detaylandırılır.
+(7) Etüt, planlama ve fizibilite raporunda nüfus
+gelişimi, projeksiyonu ve dağılımı durumu; geçmişte nüfus gelişimi, nüfus
+projeksiyonu, nüfus yoğunluk haritası ile detaylandırılır.
+(8) Etüt, planlama ve fizibilite raporunda içmesuyu
+ihtiyaç hesapları, evsel su ihtiyacını, ticari (endüstriyel) su ihtiyacını,
+turizm-hizmet sektörü su ihtiyacını, hayvan su ihtiyacını, özel su
+ihtiyacını ve kayıp-kaçak su miktarını karşılayacak şekilde detaylı olarak
+verilir.
+(9) Etüt, planlama ve fizibilite raporunda; su
+kaynakları, debi, su kalitesi, iletilecek suyun yasal durumu, birim enerji
+maliyeti, basınç bölgelerinin durumu ve maliyet durumuna göre detaylı
+olarak incelenir.
+(10) Etüt, planlama ve fizibilite raporunun ekinde,
+inceleme alanının jeolojisi, su altyapı hizmetleri ile ilgili mevcut ve
+önerilen tesislere ait bilgileri, şebeke basınç bölgelerine ait özellikler,
+su tablası haritası, belediye ve imar sınırının, harita ve mücavir alan
+sınırlarının gösterildiği 1/25.000 ölçekli topografik haritaların,
+jeolojik-jeofizik kesitlerin, panel diyagramlarının, krokilerin, su
+kaynakları analiz raporlarının, depo ve şebeke kat beslenme bölgelerinin
+gösterildiği planların ve mevcut altyapı tesislerinin planları bulunur.
+(11) Etüt, fizibilite ve planlama çalışmalarında
+temin edilmesi gereken bilgi ve belgeler;
+a) Proje alanı civarındaki bütün pınarlar, yeraltı
+ve yerüstü sularının son durumları yüklenici tarafından incelenir, adları
+ayrı ayrı kaydedilir.
+b) Projeden yararlanması gereken hayvan sayısı ile
+endüstri, liman, istasyon, askeri ve turistik ve benzeri tesislerin özel su
+gereksinmelerinin yanı sıra bu tesislerin mevcut ve gelecekteki durumları
+ile bunların nüfus hareketleri araştırılır.
+c) Şebeke taslak planlarının; halihazır haritaya,
+imar planına ve mevcut son duruma uyup uymadığı, bütün yerleşimler ile
+sokak ve değişiklikleri, gecekondu önleme bölgeleri, toplu konut ve sanayi
+siteleri ile afet yerleşim sahalarını kapsayıp kapsamadığı, Belediye
+sınırları içinde mevcut başka yerleşim yerlerini kapsayıp kapsamadığı
+araştırılır.
+ç) İmar planı, harita, belediye ve mücavir alan
+sınırları, Belediyenin göstereceği belgelere dayanarak 1/25.000 ölçekli
+genel vaziyet planına işlenir.
+d) İmar planının bulunmaması halinde, yapılmakta
+olup olmadığı, yapılıyorsa, hangi aşamada olduğuna ilişkin bilgi ve
+belgelere etüt ve fizibilite raporunda yer verilir.
+e) İmar planı ile halihazırdaki yerleşim
+karşılaştırılarak, 1. ve 2. kademe olarak projelendirilecek hatlar belirlenir.
+f) Kaptaj, iletim hattı, depo, terfi merkezi ve
+arıtma tesisleri ve sair yerlerin kamulaştırmasının veya irtifak hakkı
+tesis edilmesinin zorunlu olması halinde; bunların yaklaşık bedelleri
+gösterilir.
+g) Debi ölçümünün yapıldığına dair belge/belgeler
+yer alır.
+ğ) İşletme ruhsatı verilmiş kum, çakıl, taş
+ocakları ile benzeri ana malzemenin temin edileceği yerler ve nakliye
+mesafeleri belirlenir.
+h) Mevcut içmesuyu tesisleri ile projelendirilecek
+içmesuyu tesislerini etkileyebilecek mevcut veya planlanan diğer tesislere
+ilişkin bilgi ve belgeler temin edilir. Bu tesislerin durumu incelenerek,
+projelendirilecek içmesuyu tesislerini etkilemelerini engelleyecek
+tedbirlerle ilgili hesap ve detaylar ilgili etaplarda verilir.
+ı) Su kaynağına ve su kalitesine dair analiz
+sonuçları, diğer bilgi ve belgeler eklenir.
+Planlama
+MADDE 9 – (1)
+İçmesuyu sisteminin planlanması çalışmaları kapsamında içmesuyu
+temin, arıtma ve dağıtımına ilişkin ekonomik ve teknik karşılaştırmalar ile
+işletme kolaylığı göz önünde bulundurularak alternatif sistemler belirlenir
+ve öneri sistem geliştirilir.
+(2) Tüm içmesuyu sistem elemanları (iletim ve
+dağıtım sistemi, depolama ve diğer elemanlar), uygun tasarım kriterlerini
+sağlar. Tasarımda ilgili diğer yönetmelikler, iklim değişikliğinin muhtemel
+etkileri, kentin yönetim planları ve daha farklı su temini gerektirecek
+hizmet alanları ve benzeri yerel koşullar dikkate alınır.
+(3) İçme suyu sisteminin planlanması çalışmaları,
+su kaynağı, iletim hatları, arıtma tesisi, terfi merkezi, depo ve şebeke,
+saha çalışmalarına (kamulaştırma ve tahsis durumu, ulaşım imkânları ve
+beklenen mevsimsel kısıtlamalar, enerji temin imkânları ve zemin
+çalışmaları) göre kapsamlı bir şekilde incelenir.
+Fizibilite
+ve değerlendirme
+MADDE 10
+– (1) Teknik olarak uygunluğu
+belirlenen alternatif içmesuyu sistem önerileri; teknik, ekonomik ve mali
+yönden değerlendirilir, yerel yönetimin görüşü ve teknik kapasitesi de
+dikkate alınarak en uygun sistem seçilir. Bu değerlendirme, teknik,
+ekonomik ve kurumsal kapasite göz önüne alınarak yapılır.
+(2)
+Fizibilite raporunun finansal ve ekonomik analiz bölümünde, teknik
+çalışmalar sonucu geliştirilen yatırım seçenek ve/veya seçeneklerinin
+projenin tarafları (proje sahibi/uygulayıcısı, projenin uygulanması sonucu
+çıktılarından yararlanacaklar, finansman sağlayan kurumlar, finansmana
+kefil veya aracı olanlar ve benzeri) için, mali ve ekonomik açıdan
+yapılabilir, gerçekleştirilebilir olup olmadığı analiz edilerek projenin
+başarı seviyesi göstergeleri, proje taraflarının karar vermelerine esas
+olacak şekilde ortaya konulur.
+(3) Projede her bir taraf açıkça tanımlanır,
+projeden beklentileri açıklanır ve kabul ölçütleri belirtilir.
+(4) Fizibilite çalışmaları kapsamında, çalışma
+alanının sosyo-ekonomik yapısının değerlendirilmesi amacıyla hazırlanması
+istenilen bir sosyal analiz programı yürütülür.
+(5) Sosyal analiz programı, araştırmaya yönelik bir
+temel değerlendirme çalışması ile mevcut veriler kullanılarak, yerel
+nüfusun sosyo-ekonomik özelliklerine yönelik bir değerlendirmeden oluşur.
+DÖRDÜNCÜ BÖLÜM
+İçmesuyu Sistemlerinin Tasarımı ve
+Projelendirilmesine İlişkin Esaslar
+Genel
+esaslar
+MADDE 11
+– (1) Tasarımda hedef, bu
+Yönetmelikte verilen şartları sağlamak üzere su dağıtım sisteminin karakteristiğini
+ve muhtelif işletme şartlarındaki hizmet seviyelerini belirlemektir. Bütün
+bu işlemler ekonomik koşullar göz önünde bulundurularak yapılır.
+(2) Su ihtiyaçları günlük ortalama bazında
+hesaplanmışsa, saatlik ve günlük maksimum debileri tahmin etmek için
+EK-1’de yer alan uygun pik faktörleri kullanılır.
+Hidrolik
+tasarım
+MADDE 12
+– (1) İsale (iletim) hattı ve
+şebeke boruları, istenen hizmet seviyesi göz önünde bulundurulmak şartıyla,
+belirlenen pik debiye göre boyutlandırılır. İçme suyu sistemi,
+projelendirme aşamasında ana basınç bölgesi ve alt bölgeler olarak
+tasarlanır ve hidrolik hesaplar her alt bölge için ayrı ayrı yapılır.
+(2) Su deposu;
+a) Arz talep dengesi,
+b) İsalede meydana gelebilecek arızaların
+giderilmesi için gerekli süre,
+c) Pompa arızası ve elektrik kesintilerinin
+etkileri,
+ç) Alternatif su kaynaklarının mevcudiyeti,
+d) Su deposuna gelen isale hattının tek ya da
+yedekli olması,
+e) Uzaktan izleme sisteminin mevcudiyeti ve
+seviyesi,
+f) Saatlik maksimum debinin ortalama debiye oranı,
+g) Endüstriyel su ihtiyacı, yangın debisi ve diğer
+özel durumlar için ayrılan su debileri,
+dikkate alınarak boyutlandırılır.
+İletim
+hatlarının hidrolik tasarımı
+MADDE 13
+– (1) Sistemin hidrolik
+hesaplamaları;
+a) Tahmin edilen su ihtiyaçlarının karşılanması,
+b) Kabul edilebilir hızların sağlanması,
+c) İstenen basınç aralığında çalışılması,
+şartlarına göre yapılır.
+(2) Sistemde tasarım basıncı (TB), azami tasarım
+basıncı (ATB) ve sistem test basıncı (STB) belirlenir.
+(3) Mevcut piyezometre seviyelerinde istenen debi
+şartının sağlanıp sağlanmadığını kontrol etmek için Ek-1’de verilen
+formüller kullanılır.
+(4) Ölçüm aletleri, pompalar ve diğer donatılardan
+kaynaklanan yük kayıpları ayrıca hesaplanır.
+(5) Kabul edilebilir hız aralığı belirlenirken
+durağan sular, bulanıklık, basınç, su darbeleri ve pompa istasyonları gibi
+kıstaslar göz önünde bulundurulur.
+Şebeke
+borularının hidrolik tasarımı
+MADDE 14
+– (1) Şebeke borularının
+boyutlandırılmasında hidrolik gerekliliklerin sağlanması için hidrolik
+model oluşturulduktan sonra, farklı senaryolar için hız, basınç, akış
+değerleri, farklı işletme koşulları, kontrol vanalarının açık-kapalı gibi
+konumları düşünülerek senaryolar oluşturulur. Boruların kapasitesi, bu
+senaryoların sonuçlarına göre seçilir.
+(2) Evsel kullanım için döşenecek olan dağıtım
+borularının çapları, istenilen basınç ve debi göz önünde bulundurularak
+hizmet hedeflerine göre belirlenir. Hesaplamalarda su saatleri ve
+fittingler gibi yük kaybına yol açan bütün şebeke ve bağlantı elemanları
+dikkate alınır.
+(3) Evsel olmayan kullanım için boru çapları,
+kullanıcı ile su sağlayıcısı arasında yapılan anlaşmaya göre, kullanıcının
+ihtiyaçları göz önünde bulundurularak belirlenir.
+(4) Yangın debileri, EK-1’de bulunan ulusal
+düzenlemelere göre belirlenir.
+Yapısal
+tasarım
+MADDE 15
+– (1) Borular maksimum debinin
+olduğu, akışın olmadığı ve geçiş şartlarının olduğu durumlara göre ve geçiş
+durumlarının şiddeti, frekansı tahmin edilerek tasarlanır.
+(2) Dolgu yükleri, aşırı yükleme, yeraltı suyu,
+geçiş yükleri, borunun kendi ağırlığı ve en az DN ≥ 1000 için suyun
+ağırlığı ve montaj şeklinden kaynaklanan diğer kuvvetler, dış kuvvetler
+olarak hesaba katılır.
+(3) Boru hatları, beklenen sıcaklık aralığında
+normal işlevini sürekli olarak yerine getirecek şekilde tasarlanır. Montaj
+ve işletme zamanları arasındaki sıcaklık farklarından doğan yükler hesaba
+katılır. Dış ortam sıcaklığından kaynaklanan etkiler dikkate alınır.
+(4) Vanaların, çap ve yönünün değiştiği noktalarda,
+dal yapılarında ve kör tapalarda oluşan itme kuvvetleri, yeterli sayıda
+tesbit kitleleri veya diğer donatılarla dengelenir.
+(5) Tesbit kitleleri kullanıldığında, tesbit
+kitlesinin kayması veya diğer kazı işlemlerinde zarar görmesi olasılığı göz
+önünde bulundurularak, toprağın taşıyabileceği güvenli basınç seviyesi
+belirlenir.
+(6) Boruların yapısal tasarımı ile ilgili olarak,
+tranşe veya şevlerin boyutları (genişlik, derinlik ve saire), yataklama ve
+dolgular, iksa, toprak ve dolgu malzemesinin karakteristiği konularında
+yapılan varsayımlar net olarak gösterilir.
+(7) İnşa sırasında beklenmeyen zemin şartlarıyla
+karşılaşıldığında tasarım yeniden gözden geçirilir.
+Sistemin
+genel vaziyeti
+MADDE 16
+– (1) Bütün ana ve esas boruların
+genel yerleşimi için uygulanacak olan şartlar, yerel şartlara bağlı olup,
+her durumda dikkat edilmesi gereken hususlar;
+a) Dağıtım sisteminin güvenilirliği,
+b) Bakım için yeterli erişim,
+c) Hat vanaları, hava valfleri, boşaltma vanaları
+ve hidrantların konumu ve durumu,
+ç) Olumsuz zemin koşulları,
+d) Ağaçlar ve köklerinden kaynaklı hasarlar,
+e) Aşındırıcı ve kirlenmiş topraklarda boru
+malzemeleri ile korozyona karşı koruma tedbirleri,
+f) Yol, nehir ve demiryolu geçişleri,
+g) En kısa yolun seçilmesi,
+ğ) Diğer altyapı hizmetleri, binalar ve yapılar,
+h) İzleme, kontrol ve ölçüm olanakları,
+ı) Tasarım basınçları,
+i) Zeminden kaynaklanan yükler,
+j) Trafik yükleri,
+k) İşletme kolaylığı,
+l) Ulusal veya yerel planlama ve çevrenin
+korunması,
+m) Don derinliği,
+n) Diğer altyapı tesisleri, altyapı işleri ve
+ekipmanlarından gelebilecek hasar riskleri (Ek-2),
+o) Minimum dolgu derinliği,
+ö) Tamir kolaylığı açısından maksimum dolgu
+derinliği,
+şeklinde sıralanabilir.
+(2) Dağıtım boruları inşa edilirken ana borular
+için verilen derinlik ve konum şartlarına uyulur.
+a) Dağıtım boruları, esas boru ile bina arasındaki
+en kısa yolu izler ve mümkünse düz olur.
+b) Dağıtım borularında, hattı kapatmak için
+izolasyon vanaları kullanılır.
+(3) İletim hattı doldurulurken veya boşaltılırken
+yüksek debide hava giriş/çıkışına müsaade edecek şekilde hava
+valfleri/vantuzlar kullanılır. Bu amaçla, büyük orifisli hava valfleri veya
+hidrantlar kullanılabilir.
+a) Normal işletme sırasında biriken havayı
+boşaltmak için planlar yapılır. Bu amaçla, küçük orifisli hava valfleri
+kullanılabilir.
+b) Hava valfinin tipi ve boyutu, tahmin edilen hava
+debisi ve sistem konfigürasyonuna göre belirlenir. Boru eğiminin değiştiği
+hattın tepe noktaları göz önünde bulundurulur. Vana seçiminde ilgili ürün
+standartlarına bağlı kalınır.
+c) Vanalar ve vana odaları tasarlanırken, sisteme
+dışarıdan su girmesini engelleyecek önlemler alınır.
+ç) Yerel koşullara bakılarak, işletme şartlarına
+bağlı olmak üzere tahliye ve yıkama amacıyla tahliye vanaları konulur.
+d) Tahliye borusu çapı, boşaltılacak su hacmine,
+planlanan boşaltma süresine ve boşaltılan suyun transfer edileceği alan ya
+da nehir yatağının kapasitesine göre belirlenir.
+e) Tasarımda, boşaltılan suyun kinetik enerjisini
+uygun bir şekilde harcadığından emin olunması gerekir. Bu amaçla bir
+tahliye odası yapılabilir. Tahliye edilen suyun çevresel etkilerini en aza
+indirmek için gerekli tedbirler alınır. Uygun olduğu durumlarda dezenfektan
+maddenin nötralizasyonu için uygun arıtma sistemleri yapılır. Tahliye
+vanaları ve varsa tahliye odaları, su kalitesini etkilemeyecek fiziksel
+donanıma sahip olur.
+(4) İzolasyon vanalarının yerleri, acil durumlarda
+sistemi veya sistemin bir parçasını kapatmaya uygun şekilde seçilir. Hizmet
+hedefleri de göz önünde bulundurularak, izolasyon vanasının yerine göre,
+kapatma anında ne kadar bir bölgenin etkileneceği tahmin edilerek,
+etkilenen bölgeleri en aza indirecek konumlar seçilir. Ayrıca, izolasyon
+vanalarının sayısı ve yerlerinin seçiminde ev yoğunluğu, hastenelerin
+konumu, okullar, apartmanlar ve endüstriyel faaliyetler de göz önünde
+bulundurulur.
+(5) Yangın debisi sağlamak için hidrantlar
+kullanılır. Hidrantların sayısı ve yerleri, yerel koşullar ve şartnamelere
+göre belirlenir.
+(6) Elektrik kesintileri, pompa çalışması veya
+durması ve vanaların açılıp kapanması sonucu su darbeleri oluşabilir.
+Cazibeli ve terfili sistemlerde su darbelerini sönümlemek amacıyla uygun
+ekipmanlar düşünülür.
+(7) Toprak ve muhtelif kirleticilerle temas yoluyla
+oluşabilecek olası zararlar düşünülür ve tedbir alınır. Taşınan suyun
+özellikleri ve boru hatlarının temas ettiği yüzeylerin aşındırıcı
+özelliklerine karşı, ürün standartları göz önünde bulundurularak uygun tedbirler
+alınır. Ayrıca, bağlantı noktalarındaki koruma malzemeleri ile iç ve dış
+kaplamaların değişimi ile ilgili metotlar belirlenir.
+(8) Ayaklı su depoları da dahil bütün depolar
+gerekli güvenlik tedbirleri alınarak, depolanan suyun kalitesinde bir
+değişime yol açmayacak şekilde tasarlanır ve inşa edilir.
+(9) Pompa istasyonlarının yerleşimi ve pompaların
+çalışma düzeni, şebekenin detaylı simülasyonları ve belirli optimizasyon
+tekniklerine dayanır. Basınç, debi ve su seviyesi ile zamanlanmış
+aktüatörler kullanılır ve bunların hepsi yerel koşullara bağlı olarak
+belirlenir. Sistem elle ya da tamamen otomatik olarak kumanda edilir. Emme
+basıncı azaldığında pompaları durdurmak için acil durum tedbirleri alınır.
+Kontrol sistemleri, gereğinden daha sık çalışma/durma veya hız değiştirme
+işlemlerini önleyecek şekilde tasarlanır.
+a) Pompalar, kavitasyon, kararsızlık (farklı
+debilerde anormal dalgalanma) ve aşırı yüklemeyi (güç tüketimindeki anormal
+artışlar) önleyecek şekilde seçilir.
+b) Pompa istasyonundan yayılan gürültü, ilgili
+yönetmelikler ve şartnameler göz önünde bulundurularak en aza indirilir.
+(10) Bütün hesaplar ve sonuçlar eksiksiz olarak tüm
+detayları ile raporlanır.
+Projelendirme
+MADDE 17 – (1) İçme suyu projelerinin yapımı kapsamındaki
+etaplar ana hatları ile;
+a) A etabı : Ön proje ve jeolojik-jeoteknik ön
+etüt,
+b) B etabı : Arazi çalışmaları,
+c) C etabı : Jeoteknik etüt,
+ç) D etabı : Proje çözümü, detay ve metraj
+çalışmaları,
+d) E etabı : Proje orijinallerinin ve dökümanların
+teslimi,
+şeklinde
+sıralanabilir.
+(2) Bu etaplar iş programına uygun olarak yerine
+getirilir ve her etap bittikten sonra bir sonraki etaba geçilir.
+(3) İşin kapsam, büyüklük ve aciliyeti gibi
+faktörler dikkate alınarak belirtilen etap çalışmalarının bir veya birkaçının
+kaldırılmasına veya birleştirilmesine karar verilir.
+Ön proje
+ve jeolojik-jeoteknik ön etüt (A etabı)
+MADDE 18
+– (1) Temin edilebilen halihazır
+haritalar ile imar planları ve varsa sondaj logları, pompaj deney formları,
+su analiz raporları ve diğer ilgili dökümanlar temin edilir. Verilen harita
+ve imar planlarında tadilatların olup olmadığı araştırılır, varsa yeni
+ilave harita ve imar planları ile tadilatları da temin edilir.
+(2) Ön proje:
+a) Proje alanı hakkında genel bilgiler derlenir,
+genel bilgiler doğrultusunda, Ek-1’de verilen hükümlere uygun olarak, proje
+nüfusu ile içme ve kullanma suyu ihtiyacı belirlenir.
+b) İçme ve kullanma suyu ihtiyacının akarsulardan
+karşılanmasının öngörülmesi halinde, kaynakların ilk debi ölçümü ön proje
+ve jeolojik-jeoteknik ön etüt (A) etabı içinde yapılır. Arazi çalışmaları
+(B) etabının Ağustos-Kasım ayları içerisinde kalması halinde ikinci bir
+debi ölçümü yapılır. Ancak birinci ölçüm Ağustos-Kasım ayları içerisinde
+kalmış ise ikinci ölçüm yapılmayabilir.
+c) Suların fiziksel-kimyasal ve bakteriyolojik
+analizleri (gerekli görülmesi halinde bazı kimyasal maddelerin
+araştırılması da dahil) ile klor ihtiyacının saptanması için TS266
+standardı ve 17/2/2005 tarihli ve 25730 sayılı Resmî Gazete’de yayımlanan
+İnsani Tüketim Amaçlı Sular Hakkında Yönetmelikte ve ön projede klor
+ihtiyacı saptanırken 26/8/2015 tarihli ve 29457 sayılı Resmî Gazete’de
+yayımlanan Dezenfeksiyon Teknik Tebliğinde verilen esaslara göre analizi
+yaptırılarak sonuçları ön proje raporu ekinde verilir.
+ç) Karayollarının yapım, bakım ve işletmesi altında
+olan tüm yollar belirlenerek bu yollardan veya istimlak sahaları
+içerisinden yola paralel iletim hatları, şebeke ana ve esas boru hatları
+geçirilmez. Ancak zorunluluk bulunması halinde ilgili kurumdan gerekli izin
+alınarak istimlak sahası içinden de boru hattı geçirilir.
+d) Karayolu, demiryolu, su kanalı, kanalet, gölet,
+baraj, köprü, menfez, kanalizasyon, içmesuyu, yağmur suyu, petrol boru
+hattı, doğal gaz boru hattı, elektronik haberleşme alt yapıları ve enerji
+hatları gibi mevcut veya planlanan tesislerin projeleri ilgili
+kuruluşlardan temin edilir, projeleri bulunmayan mevcut tesislerin
+durumları tespit edilir. Mevcut veya planlanan tesislerin projelendirilecek
+içmesuyu tesislerini etkilememeleri için gerekiyorsa ilgili kuruluşlarla
+beraber öneriler geliştirilerek gerekli tedbirler alınır, kesişme noktaları
+ve alınacak önlemlerle ilgili hesap ve detaylar ilgili etapta verilir.
+e) Ön proje kapsamında;
+1) Ön proje raporu,
+2) Genel vaziyet planı (1/25000 ölçekli),
+3) Genel vaziyet planı (1/10000 veya 1/5000
+ölçekli),
+4) Şebeke taslak planları (1/2000),
+5) Sondaj logları ve değerlendirme formları,
+6) Kaynaklara ilişkin yasal belge,
+7) Analiz raporları,
+8) Mevcut tesislerin planı,
+9) Diğer belgeler ve tutanaklar,
+verilir.
+(3) Jeolojik-Jeoteknik ön etüt:
+a) İçmesuyu projesi kapsamında yer alan tesislerin
+yapılacağı alanların jeolojik ve jeoteknik özelliklerinin belirlenmesi ve
+yapılacak çalışmalarda ortaya çıkabilecek muhtemel mühendislik jeolojisi
+sorunlarına ait çözüm yöntemlerinin araştırılması amacıyla bir
+jeolojik-jeoteknik ön etüt raporu hazırlanır.
+b) Öncelikle gözlemsel inceleme ile çalışma
+alanının jeolojik ve jeoteknik özellikleri araştırılır, zeminin taşıma gücü
+ile proje kapsamının tümünde karşılaşılabilecek jeolojik problemler
+incelenir ve çözüm önerileri verilir.
+c) Ön proje raporu hazırlanan bölge yerinde tetkik
+edilir ve bu kapsamda;
+1) Nüfus öngörülerinin belde gelişimi ile uyumu ve
+özel su gereksinimi,
+2) Elektrik enerjisi fiyatı, elektrik enerjisi
+temin edilmesi gerekiyor ise, temin önerileri,
+3) Mevcut tesislerin durumunun raporla uyumu ve
+planlarda gösterimi,
+4) Su kaynaklarının verimleri ve öngörülen kaptaj
+şekil ve esasları ile sel tahribatına ve kirlenmeye karşı koruma
+tedbirleri,
+5) Mevcut yolların durumu ile servis yoluna ihtiyaç
+olup olmadığı hususu,
+6) Düzenlenen jeolojik-jeoteknik ön etüt raporu
+öngörüleri doğrultusunda temel emniyeti, deprem ve heyelan durumları da göz
+önünde bulundurularak belirlenen iletim hattı güzergahları ile depo, pompa
+istasyonu, arıtma tesisi vs. tesislerin yapım yerleri (varsa alternatifleri
+ile birlikte) ile mevcut tesislerin 1/25.000 ölçekli genel durum planında
+gösterimi, rapor ve mevcut durum ile uyumu,
+7) Şebeke hatlarında su tüketimi ile ilgili
+yoğunluk katsayıları,
+8) Ruhsatlı malzeme ocakları ile her bir malzemenin
+hangi araçlarla taşınabileceği ve ortalama nakliye mesafeleri, çıkan
+hafriyatın konulacağı kesin depo yeri ve mesafesi,
+9) Mevcut ve yeni yapılacak sistemdeki klorlama
+ünitelerinin yerleri ve özellikleri,
+10) Yer üstü yangın musluklarının yerleri,
+11) Şebeke taslak planlarının proje alanına ait
+harita ve imar planı değişiklik ve ekleriyle, son duruma uyup uymadığı,
+taslak planların kapsamadığı başka yerleşimlerin olup olmadığı, şebeke
+hatlarının kademelendirmesinin mevcut duruma uyup uymadığı, gelecekte
+yerleşime açılacak gelişme alanlarının planlanıp planlanmadığı,
+12) İletim ve şebeke hatları ile yapım yerlerinin
+kamulaştırma durumu ve yaklaşık bedelleri, alınacak sular üzerindeki su
+hakları, kamulaştırmanın mümkün olup olmadığı,
+13) 1/25.000 ölçekli genel durum planına işlenmiş
+Belediye sınırı ile, harita, imar planı, mücavir alan ve şebeke kat
+sınırları,
+14) Karayolu, demiryolu, su kanalı, gölet, baraj,
+kanalet, köprü, menfez, kanalizasyon, içmesuyu, yağmursuyu, petrol boru
+hattı, doğal gaz boru hattı, elektronik haberleşme alt yapıları ve enerji
+hatları gibi mevcut veya planlanan tesislerin içmesuyu tesislerinin
+projelendirilmesinde dikkate alınıp alınmadığı,
+15) Proje alanının jeolojik-jeoteknik ön etüt
+raporu yerinde tetkik edilmesi, bölgenin genel özelliklerinin irdelenerek,
+gerek görülmesi halinde zemini temsil edecek kesimlerde muayene çukurları
+ve/veya zemin sondajı yapılacak konumların belirlenmesi,
+hususlarına ilişkin tespitler yapılır.
+Arazi
+çalışmaları (B etabı)
+MADDE 19
+– (1) Kaptaj, iletim hatları, depo
+yerleri, haritası bulunmayan şebeke hatları, sanat yapıları ve varsa servis
+yollarına ait harita ölçümlerini yapıp, şeritvari harita ve plankoteleri
+çıkarılır. Şeritvari harita genişliği boru ekseninden itibaren sağlı sollu
+75’er metre olmak üzere 150 m olarak alınır. Bu değerler; yerleşim alanları
+içerisinde fiziki şartlar dikkate alınarak ilgili idaresince belirlenir.
+Bunlara dayalı olarak saptanacak iletim hatları ve servis yolları güzergahı
+ve yapım yerleri araziye aplike edilir.
+(2) Gidiş dönüş nivelman ve şenajla iletim hatları
+ve şebeke ana boruları ile gerekli görülen şebeke besleyici hatlarının
+boyuna kesitleri ve şematik profilleri çıkarılır.
+(3) Depo, pompa istasyonu ve arıtma tesisi ve
+benzeri projede korunacak olan mevcut tesislerle menfez, su kanalı, köprü
+geçişi gibi geçişlerle ilgili ölçümler yapılarak röleveleri çıkarılır.
+(4) Mevzuata uygun röperleme yapılarak planda
+gösterilir.
+(5) Ön proje raporu öngörüleri doğrultusunda
+halihazır harita dışında kalan yerleşim alanlarına şebeke hattı
+döşenmesinin gerekmesi halinde bu sokaklara ait poligonlar tesis edilerek
+kotlu sokak planı (kanava) çıkarılır.
+(6) Hazırlanacak bütün planlar üzerinde, sokakların
+adları veya numaraları, önemli bina ve konut gruplarının yerleri, harita koordinatları,
+köprü, karayolu, kanal, kanalet, dere, menfez, enerji nakil hatları, petrol
+veya doğalgaz hatları ve benzeri tesisler gösterilir. Bu tür bilgilerden
+gerekli görülenlere plankote ile boy kesitler ve şematik profillerde de yer
+verilir.
+(7) Arazi çalışmaları kapsamında,
+a) Ölçüm defterleri,
+b) Röper krokileri,
+c) Röleveler,
+ç) Kanavalar,
+d) İletim hattı taslak planı, profili ve şematik
+profili,
+verilir.
+Jeoteknik
+etüt (C etabı)
+MADDE 20 –
+(1) Ön proje ve jeolojik-jeoteknik
+ön etüt etabında hazırlanan ve tasdik edilen Jeolojik-Jeoteknik etüt
+raporunun, arazi çalışmaları etabında yürütülen çalışmalar sonucunda
+tesislerin kesinleşen yerlerine göre uygun ve yeterli görülmesi durumunda,
+jeolojik etüt etabında belirtilen çalışmalar yapılmayabilir. Ön proje ve
+jeolojik-jeoteknik ön etüt etabının yersel tetkik çalışmaları sırasında
+muayene çukuru ve/veya sondaj kuyuları açılması gerektiği belirlenmiş ise,
+ya da arazi çalışmaları etabı sonunda yeni jeoteknik çalışmalara ihtiyaç
+duyulduğu durumlarda jeoteknik etüt etabı kapsamında jeoteknik çalışmalar
+yapılır.
+Proje
+çözümü, detay ve metraj çalışmaları (D etabı)
+MADDE 21
+– (1) Mimari statik-betonarme,
+elektrik, mekanik, sıhhi tesisat, havalandırma tesisatı hesapları, dere,
+karayolu, köprü geçişi mevcut altyapı tesisleri ile kesişme detay
+projeleri, gerekmesi halinde yataklama projeleri, temel ıslah projeleri,
+400 mm ve daha büyük çaplı boruların dönüş ve birleşimleri ile ilgili hesap
+ve projeleri, özel sanat yapıları projeleri ve tesisin tümünü kapsayan
+detay projeler düzenlenir.
+(2) Proje malzemelerini teşkil eden tüm ünitelere
+ait metrajlar, inşaat kalemlerinin her biri için çıkarılır. Metrajlar
+neticesinde nakliyeye esas malzemenin miktarları genel malzeme ihtiyaç
+cetvelinde belirtilir.
+(3) Proje çözümü, detay ve metraj çalışmaları
+kapsamında;
+a) Karakteristik cetvel, terfi tesisleri ve
+klorlama tesisleri bilgi cetvelleri,
+b) Açıklama raporu, ön proje raporu,
+jeolojik-jeoteknik ön etüt raporu,
+c) Genel vaziyet planları,
+ç) Sondaj logları, analiz raporları, debi
+ölçümleri, kaynaklara ait yasal belgeler, tutanaklar, diğer bilgi ve belgeler,
+d) İletim hatları plan, profil ve şematik
+profilleri,
+e) İdarece daha önce tasdik edilen tip projelerin
+dışında, kaptaj, köprü, terfi merkezi, vana odası ve benzeri özel sanat
+yapıları projeleri, tesisin tümünü kapsayan kesişme noktaları ve geçişlerle
+ilgili detay projeleri ile plankoteler,
+f) Şebeke hesap tabloları, şebeke hesap planları,
+şebeke inşaat planları, düğüm nokta detayları, tesbit kitlesi detayları,
+g) Depo, terfi merkezi, hava kazanı veya denge
+bacası, kaptaj, maslak, koruma bölgesi, tahliye, vantuz ve vana odası, tip
+projeleri ile detay projeler,
+ğ) Özel teknik şartnameler,
+h) Yürürlükteki talimatnamenin maddelerinde bahsi
+geçen ve yapılması gereken projeler ile gerekli diğer bilgiler ve belgeler,
+verilir.
+Proje ve
+dökümanların teslimi (E etabı)
+MADDE 22
+– (1) Proje ve dökümanları;
+a) Karakteristik cetvel, terfi tesisleri ve
+klorlama tesisleri bilgi cetvelleri, yıllık işletme giderleri hesap
+cetveli, raporlar (açıklama raporu, hidrolojik rapor, jeoteknik rapor),
+genel vaziyet planı,
+b) İletim hatları plan, profil ve şematik
+profilleri,
+c) Kaptaj, maslak, koruma bölgesi, tahliye, vantuz,
+vana odası ve iletim hattı ile ilgili detay projeleri ile plankoteler,
+ç) Şebeke hesap tabloları ve şebeke hesap planları,
+d) Şebeke inşaat planları, düğüm nokta detayları,
+tesbit kitlesi detayları,
+e) Depo ve terfi merkezi tip projleri ile detay
+projeler, su dardesi hesapları ve detay projeleri,
+f) Özel teknik şartnameler,
+g) Metrajlar,
+ğ) Harita-aplikasyon ölçme dökümanı,
+h) Jeoteknik çalışmalara ait dökümanlar,
+ı) Arazi ölçümlerine ait krokiler, nivelman,
+takeometre ve poligon defteri,
+olarak teslim edilir.
+BEŞİNCİ BÖLÜM
+İçmesuyu Temini ve Dağıtım Sistemlerinin Yapımına
+İlişkin Esaslar
+Genel
+esaslar
+MADDE 23
+– (1) İçmesuyu temini ve dağıtım
+sistemlerinin inşasında kullanılan bütün malzemeler, ulusal ürün
+standartlarına veya Avrupa Teknik Uygunluk belgesine sahip olur. İlgili
+ürünlerin CE belgesi olur, İnşaat Ürünleri Direktifi’ne uygun olur ve bu
+ürünler ilgili standartlarla belgelenir ve işaretlenir.
+(2) Ürün standartları ayrıca, bu Yönetmelikte
+verilmeyen, taşıma, depolama, montaj ve bakım gibi bilgileri de içerir.
+(3) Bu Yönetmelik, fabrikada üretilmiş veya yerinde
+üretilmiş bütün ürünler için geçerlidir. Bütün malzemeler ve şebeke
+elemanlarının özellikleri ile dayanımları tanımlanarak zamanla bozulmaları
+dahil test edilir.
+(4) Ürün standartları, malzemelerin kullanım
+amacına uygunluğunun verifikasyonu için yeterli bilgiyi sağlar.
+Malzemeler
+MADDE 24
+– (1) İç ve dış kaplamalar ile
+sızdırmazlık malzemeleri gibi sistem elemanları için kullanılan bütün
+malzemeler, su dağıtım sistemlerinde kullanılmaya uygun olur. Temas
+ettikleri suyun kalitesini bozmayacak şekilde seçilir.
+Boyutlar
+MADDE 25
+– (1) Anma çapları: Malzemelerin
+boyutları DN/ID ve/veya DN/OD kullanılarak ifade edilir. Hangi boyut
+aralığından seçildiği ürün standardında belirtilir.
+(2) İç ve dış çaplar: DN/ID ile verilen ürün
+standartları, malzemenin iç çapını gösterir. Ayrıca, ürün standardında
+tolerans değerleri de verilir. DN/OD ile verilen ürün standartları,
+malzemenin dış çapını, et kalınlığını ve toleransları gösterir.
+(3) Uzunluk ve et kalınlığı: Boruların uzunluk ve
+et kalınlıklarındaki toleranslar, uzunluk veya et kalınlığı verilse de
+verilmese de ürün standardında açıkça belirtilir. Et kalınlığı veya uzunluk
+ürün standardında belirtilmemişse, üretici tarafından ayrıca verilir.
+(4) Borular, fittingler ve vanaların geometrisi:
+Makaraya sarılı olarak taşınan borular haricinde tüm borular düz olur ve
+verilen toleranslar aşılmaz. Makaralara sarılı olarak taşınan borular için
+makaranın en küçük yarıçapı ürün standardında belirtilir. Borular,
+fittingler ve vanaların uç kesitleri eksene dik olur ve bağlantıyı zora
+sokmayacak kadar küçük toleransa sahip olur. Dirsekler için 11°15’, 22°30’,
+30°, 45° ve 90° açılar tercih edilir.
+(5) İç yüzey: Borular, fittingler ve vanaların iç
+yüzeyleri, hidrolik açıdan performanslarını etkileyecek mertebede, görünür
+özürler taşıyamaz, kabul edilebilir pürüzler ürün standardında açıkça
+belirtilir.
+(6) Görünüm ve uygunluk: Tüm malzemeler üniform
+görüntüye sahip olur ayrıca performanslarını etkileyecek hasar ve etkiler
+taşıyamaz.
+Yapısal
+tasarım
+MADDE 26
+– (1) Ürün standartlarında
+belirtilen basınçlar, KİB, AKİB ve ASTB ile kıyaslanır. Malzemelerin
+yapısal tasarımı, su dağıtım sistemlerinin güvenli işletilmesi açısından;
+a) Maksimum ve minimum sıcaklıklar ile sıcaklık
+değişimlerine,
+b) Uzun süreli yüklere,
+c) Dinamik yüklere,
+ç) Zemin kaymaları ve depremlere ve
+d) Su darbesi basınçlarına,
+karşı dayanıklı olur.
+(2) Uzun vadede kabul edilebilir azami esneme %8’i
+aşmaz.
+(3) Ürün standardı, yapısal tasarımla ilgili
+standartlara uygun olur.
+(4) Hidrantlar dahil bütün vanalar için açık ve
+kapalı pozisyondaki bütün basınçlar (KİB, AKİB, ASTB) verilir ve vanalar bu
+basınçlara karşı dayanıklı olur. Vanalar, verilen AKİB ve KİB aralıklarında
+çalışabilecek şekilde olur.
+Mekanik
+şartlar
+MADDE 27
+– (1) Yüzey dayanımı: İç ve dış
+yüklere karşı dayanımın test edildiği metotlar ürün standardında açıkça
+belirtilir.
+(2) Eksenel dayanım: Küçük çaplı ve uzun, rijit ve
+yarı rijit borular için, belirli yük şartlarında esneme momenti ve esneme
+yükleri ürün standardında verilir. Alternatif olarak, ürün standartlarında
+uzunluk/çap oranları verilebilir. Bu bilgi, taşıma, kaldırma ve döşeme
+aşamalarında oluşabilecek problemleri önlemeye yardımcı olur.
+Sızdırmazlık
+MADDE 28
+– (1) Bağlantı aparatları dahil
+bütün şebeke elemanları, tasarım ömrü boyunca sızdırmazlık sağlayacak
+şekilde tasarlanır, üretilir ve test edilir.
+Bağlantılar
+MADDE 29 – (1) Bütün sızdırmazlık malzemeleri ilgili
+standartlara uygun olur ve bu durum ürün standardında belirtilir.
+(2) Elastik sızdırmaz malzeme kullanılan
+bağlantıların, izolasyon malzemesinin uzun vadedeki özellikleri de göz
+önünde bulundurularak (esneklik, güç, gevşeme, sıcaklığa karşı duyarlılık
+gibi) tasarım ömrü boyunca sızdırmaz olması sağlanır. Ayrıca, tasarım ömrü
+boyunca bağlantı noktalarının kayması olasılığı da göz önünde bulundurulur.
+(3) Bağlantı ekipmanlarının tipi ürün standardında
+açıkça belirtilir ve kullanılan ekipman tipleri;
+a) Rijit bağlantılar,
+b) Ayarlanabilir bağlantılar,
+c) Esnek bağlantılar,
+olarak sıralanır.
+(4) Rijit bağlantılar için gerekli performans ve
+test bilgileri ürün standardında belirtilir.
+(5) Ayarlanabilir bağlantılar için gerekli
+performans ve test bilgileri ürün standardında belirtilir. Kabul edilebilir
+açısal esneme değerleri ürün standardında belirtilir ve ürün bu şekilde
+imal edilir.
+(6) Bağlantı boyunca enine gerilmeye maruz kalan
+bağlantılar için, birleşik testlerde (Newton cinsinden) en az 10*DN veya
+ayrı testlerde en az (Newton cinsinden) 20*DN değeri rapor edilir. Buna
+karşın, contanın çap esnemesi, borunun kabul edilebilir azami esnemesini
+aşmaz.
+(7) Testler tiplere göre ayrı ayrı yapılır. Test
+edilen çaplar ürün standardında belirtilir ve bu çaplar bütün çap aralığını
+kapsar.
+(8) Testlerde, üretimden kaynaklı bütün olumsuz
+koşullar göz önünde bulundurulur (soket ve contaların maksimum ve minimum
+çapları ile ovallikleri).
+(9) Testlerde uygulanan basınçlar, bütün bağlantı
+tipleri için en azından ASTB (azami kabul edilebilir saha test basıncı)
+değerine eşit olur.
+Çap ve et
+kalınlığı ölçümleri
+MADDE 30
+– (1) İç çap ölçümü ürün
+standardında gerekliyse, borunun iki ucuna yakın noktalarda iç çap ölçümleri
+yapılır. Her bir kesitte en az iki ölçüm yapılarak ortalama iç çap
+hesaplanır.
+(2) Dış çap ölçümü ürün standardında gerekliyse, iç
+çap ölçümlerine benzer şekilde ve benzer noktalarda ölçümler yapılır veya
+her bir kesitte borunun çevresi ölçülerek ortalama dış çap hesaplanır.
+(3) Et kalınlığının ölçümü ürün standardında
+gerekliyse, malzemenin iki ucuna yakın noktalarda ölçümler yapılır. Ölçüm
+yapılan her kesitte, eşit mesafelerde en az dört ölçüm yapılır. Alternatif
+olarak, her bir kesitteki en küçük ve en büyük değerler belirlenebilir.
+Boru
+parçasının düzlüğü
+MADDE 31 –
+(1) Boru parçasının düzlüğündeki
+özürlerin ölçülmesi ürün standardında gerekliyse ölçüm metodu açıkça
+belirtilir. Sapmalar, merkez noktasından itibaren boru parçası uzunluğunun
+2/3’ü kadar bir uzunlukta yapılır.
+Borunun
+eksenel dayanım testi
+MADDE 32
+– (1) Ürün standardında eksenel
+dayanım testi gerekliyse, esneme testinde;
+a) Testlerin kayıt özelliği olan bir makinede
+yapılması,
+b) Test edilecek borunun iki ucundan sabitlenmesi
+ve 3 veya 4 noktadan uygulanan yüklerle tek bir çatlamaya kadar test
+edilmesi,
+c) Gerilmenin, mm cinsinden en az 5*DN kadar
+olması,
+ç) Destek malzemelerinin sadece dikeyde etki
+etmesi,
+hususları dikkate alınır.
+Rijit
+borularda kırılma testi
+MADDE 33
+– (1) Ürün standardında kırılma
+testleri öngörülmüşse, uygunluk testi mi yoksa azami dayanım testi mi
+olduğu açıkça belirtilir. Test, borunun tamamına veya bir kısmına üniform
+yük uygulanarak gerçekleştirilir. Taşıyıcılar, borunun belirli kesimlerine
+ayrılabilir. Test yükü, tüm taşıyıcı uzunluğu boyunca simetrik olarak uygulanır.
+Yatay stabiliteyi sağlamak amacıyla test yükünün uygulandığı nokta
+ayarlanabilir. Belirlenen yükün son üçte birlik kısmı uygulanırken yük
+artış hızı sabit olur ve yük uygulama süresi en az 30 sn olur.
+Esnek
+borularda dairesel dayanım testi
+MADDE 34
+– (1) Ürün standardına göre
+dayanım testi, deformasyon testi ve/veya nihai deformasyon testi yapılacaksa,
+testler yük ve deformasyon kayıt sistemi olan makinelerde gerçekleştirilir.
+Taşıyıcıların düz çelik plakalar olup olmadığı ürün standardında
+belirtilir. Kısa vadeli dayanım testleri ve uzun vadeli deformasyon
+testleri varsa ilgili standartlara göre yapılır.
+Basınç
+testleri
+MADDE 35 –
+(1) Her bir testin tipi ve amacı
+(basınç dayanım testi veya nihai basınç dayanım testi) ürün standardında
+belirtilir. Basınç dayanım testinde uygulanan basınç ürün standardında
+açıkça yazılır. Nihai basınç dayanımı, ürün standardında belirtilen
+arıza/kırılma/çatlama noktasına kadar uygulanan basınç olarak verilir.
+Boru
+testleri
+MADDE 36
+– (1) Bir ya da daha fazla borunun
+tamamı ya da bir kısmına, ürün standardında belirtilen sürelerle belirli
+bir hidrostatik basınç uygulanarak yapılır.
+(2) Test edilen borular uygun aparatlarla
+sabitlenir ve içi suyla doldurularak hava boşaltılır.
+Bağlantı
+testleri
+MADDE 37
+– (1) Testler, birbirine bağlanmış
+iki boru veya boru parçası üzerinde yapılır ve test boyunca borular, ürün
+standardında verilen şartlara göre bağıl olarak hareket edebilecek şekilde
+olur.
+Fittingler,
+vanalar ve diğer malzemelerin testleri
+MADDE 38
+– (1) Kullanım amacına uygun olup
+olmadığını belirlemek amacıyla, test metotları ürün standardında
+belirtilir.
+Ürünlerin
+montajı
+MADDE 39 – (1) Her bir ürün standardı, malzemelerin boyut
+aralıklarının birbirine bağlanmaya uygun olup olmadığı bilgisini içerir.
+Bağlantı sağlanabilen durumlarda bağlantı şekilleri de açıkça belirtilir.
+Etiketleme
+MADDE 40
+– (1) Etiketleme hususundaki
+şartlar ürün standardında belirtilir. Her bir malzeme görünür ve açık bir
+şekilde etiketlenir. Malzemeyi kesin olarak tanımlayabilmek için etiket
+üzerinde en az;
+a) EN ön ekli ulusal veya AB standardı numarası (EN
+........ şeklinde),
+b) Üretici firma bilgisi ve imal edildiği yer,
+c) Üretim tarihi,
+ç) Varsa sertifikasyon kuruluşu,
+d) Gerekliyse sınıflandırma bilgisi,
+e) Gerekliyse içmesuyu uygulamalarına uygunluk,
+bilgileri
+bulunur.
+Yapım
+işleri
+MADDE 41
+– (1) Kalifikasyonlar: Projenin
+yönetilmesi ve yapımı sırasında, bu Yönetmelikte verilen kalite şartlarının
+yerine getirilip getirilmediğini muhakeme edebilecek eğitilmiş personel
+çalıştırılır. İşveren tarafından işin teslim edildiği yüklenici firmanın,
+işin gereklerini yerine getirebilecek nitelikte olmasına dikkat edilir.
+Gerekli kalifikasyonların sağlandığını kontrol etmek işverenin
+yükümlülüğündedir.
+(2) Yapım ile ilgili kurallar: İnşaat işleri, varsa
+ilgili standartlara uygun olarak yapılır ve ilgili standartlarda verilen
+şartlar yüklenici firma tarafından sağlanır. Buna ek olarak, kullanılacak
+malzemeler hususunda üretici firmanın direktiflerine de uyulur.
+(3) Malzemelerin taşınması ve depolanması: İşlemler
+sırasında malzemeler hasarlara karşı korunur. Yükleme, taşıma ve boşaltma
+sırasında uygun ekipmanlar kullanılır. Borular taşınırken ve depolanırken
+iki uçları kapatılarak tehlikeli maddelerle temas etmesi engellenir.
+Malzemeler toprak, çamur, atıksu ve diğer kirli maddelerle temas ettirilmez.
+Bu tip temaslardan kaçınmak mümkün değil ise, borular döşenmeden önce iyice
+temizlenir. Hasardan koruma, bozulma ve kirlenmeyi önlemek amacıyla üretici
+firmanın bütün talimatlarına uyulur.
+(4) İş sağlığı ve güvenliği: Bütün işler, iş
+sağlığı ve güvenliği ile ilgili mevzuata uygun olarak yapılır. Kişisel
+koruma ekipmanları kullanılır. Bütün personel iş kazaları ile ilgili yasal
+düzenlemeler hususunda bilgilendirilir. Çalışma sahalarında acil durum
+alarmları ve ilkyardım ekipmanları bulundurulur ve kaza halinde uygun
+adımlar atılır. Acil durum ekipmanlarının düzenli olarak bakımları yapılır
+ve güvenilirlikleri test edilir. Arızalı veya iş görmeyen ekipmanlar sahadan
+alınır ve yenileriyle değiştirilir. İnşa işlerine başlamadan önce diğer
+işletmelerin tesislerine dair bütün planlar temin edilir. Gerekli
+durumlarda güvenlik önlemleri alınır.
+(5) İnşaat şartları;
+a) Kazı alanlarında; personeli, diğer insanları,
+yapıları ve trafik akışını korumak amacıyla gerekli tedbirlerin alınması,
+b) Tranşeler dahil bütün kazı mahallerinde
+çökmelere karşı tedbirler alınması ve kazı alanlarına giriş çıkış için
+uygun yerlere merdivenler konulması,
+c) İnşa işlerinde diğer yapılara zarar verilmemesi,
+ç) Borular ve diğer malzemelerin taşınması ve
+depolanması sırasında personelin, diğer insanların ve yapıların
+güvenliğinin sağlanması,
+d) Borular döşenirken ve malzemeler monte edilirken
+ilgili iş sağlığı ve güvenliği şartlarının (kesme ve kaynak yapma gibi
+faaliyetlerde koruyucu elbiseler ve ekipmanlar kullanılması gibi)
+sağlandığından emin olunması,
+hususları dikkate alınır.
+Tranşeler
+MADDE 42
+– (1) Tranşeler ve çalışma
+alanının inşaası: Çalışma alanının boyutları ve inşa yöntemi, borular ve
+diğer malzemelerin kolaylıkla döşenmesi ve montajına yetecek kadar olur.
+Tranşe boyutlarının ve inşa yönteminin tasarımda planlanan şekilde
+yapıldığından emin olunur. İşveren ile anlaşılması durumunda planlanan
+tranşelerin boyutları değiştirilebilir. Borular döşenmeden önce, tranşe
+derinliği, eğimi, genişliği ve zemin durumu dikkatle kontrol edilir.
+(2) Dolgu derinliği: Tranşe tasarımı bütün
+boruların don derinliğinin altında kalmasına müsaade edilecek şekilde
+yapılır ve kazılır. Bu mümkün olmazsa, don olaylarında koruma sağlamak için
+alternatif tedbirler alınır. Aksi hususunda anlaşma sağlanmadığı müddetçe
+don derinliği 125 cm kabul edilir.
+(3) Yataklama: Boru parçasının ağırlığını üniform
+olarak taşıyacak şekilde yataklama yapılır. Boruların ve diğer malzemelerin
+yataklanması ile ilgili hususlar Ek-2’ye göre yapılır.
+(4) Teknik altyapı tesislerinin yol
+enkesitlerindeki konumları Ek-1’e göre yapılır.
+Malzemelerin
+montajı
+MADDE 43
+– (1) Normal şartlarda, yeraltında
+bulunan tesisler ve benzer yapılarla yeni boru hattı arasında en az 0,40 m
+açıklık bırakılır.
+(2) Borular, diğer boru hatları veya kablolarla
+paralel olarak döşenecekse, aralarındaki yatay mesafe 0,40 m’den az olamaz.
+Sıkışık noktalarda, eğer mümkünse en az 0,20 m açıklık bırakılır. Her
+durumda doğrudan temas engellenir. Alınan tedbirlerle ilgili işverenin
+onayına başvurulur.
+(3) Kablolar ve boruların kesiştiği noktalarda en
+az 0,20 m dikey açıklık bırakılır. Bu mümkün değil ise, doğrudan teması
+önleyecek tedbirler alınır. Doğrudan temas yoluyla itme ve çekme
+kuvvetlerinin iletimini engelleyecek tedbirler alınır. Bu tedbirler
+işverenin onayına sunulur.
+(4) Kazı işleri sırasında diğer yapılar ve yeraltı
+tesislerine zarar vermemek için tedbirler alınır. Ayrıca, işveren
+tarafından istenen özel şartlar yerine getirilir.
+(5) Montaj sırasında borular kirlenmelere karşı
+korunur. Vanalar, fittingler ve diğer malzemelerin montajı sırasında ve
+yapı bağlantılarında aşırı gerilmelere izin verilmez.
+(6) Gerekirse, zemine oturmayan boruların zemine
+oturması için önlemler alınır, ancak bu önlemler boruda aşırı gerilmelere
+yol açamaz.
+(7) Malzemelerin montajı ile ilgili esaslar Ek-2’ye
+göre yapılır.
+Boru
+bağlantıları
+MADDE 44
+– (1) Boru bağlantıları Ek-2’de
+verilen esaslara uygun olarak yapılır.
+(2) İçme suyu ile temas halinde bulunması muhtemel
+olan boruların geçişini sağlayan bütün kaydırıcılar ilgili standartlara
+uygun olur.
+Korozyon
+ve kirlenmelere karşı koruma
+MADDE 45
+– (1) Risk görülen bölgelerde
+borular ve diğer malzemeler korozyon ve kirlenmelere karşı koruma altına
+alınır. Koruma amacıyla plastik maşon, bitümlü kaplama, koruyucu bantlar
+vs. kullanılır. Borular ve diğer malzemeler, riskli bölgelerde gerekirse
+içten ve dıştan kaplama yapılarak koruma altına alınır.
+(2) Test yapılması uygun görüldüğünde, metalik boruların
+dış yüzeylerine plastik veya yalıtkan başka malzeme ile kaplama
+yapıldığında veya metalik borulara katodik koruma sistemi tasarlandığında,
+kaplamalar elektriksel olarak uygun cihazlarla test edilip, gerekliyse
+tamir edilir.
+(3) Görsel muayeneden sonra, katodik koruma
+sağlanan borularda kaplama malzemesinin sürekliliği ve direnci, elektrik
+arkı oluşturan bir ekipman veya dengi ile test edilir ve test işleminden
+sonra dolgu yapılır. Test işleminde uygulanacak olan voltaj, kaplama
+malzemesinin tipine ve kalınlığına bağlı olarak yüklenici tarafından
+belirlenir. Tespit edilen herhangi bir defolu bölge olması durumunda defolu
+kısım düzeltilir ve yeniden test edilir.
+(4) Korozyon ve kirlenmelere karşı alınacak koruma
+tedbirleri Ek-2’de belirtilen esaslar dikkate alınarak yapılır.
+Yataklama
+ve ana dolgu
+MADDE 46 – (1) Boru üzerindeki yük ve gerilme dağılımı ile
+borunun esnemesi, yataklamanın ve yataklama kapsamında yapılan işlemlerin
+nasıl yapıldığına bağlıdır. Yataklama işlemleri, ürün standartları göz
+önünde bulundurulmak üzere üretici talimatlarına uygun olarak yapılır.
+(2) Yatak malzemesinin seçimi ile ilgili kriterler
+Ek-2’de verilmiştir. Yataklama işlemi, Ek-2’de belirtildiği gibi, alt
+yatak, üst yatak, yan dolgu, başlangıç dolgusu veya yüklenici tarafından
+uygun görüldüğünde bunların kısmi bileşimi olarak uygulanır.
+(3) Dolgu malzemesi ile ilgili olarak belirli bir
+sıkıştırma oranı isteniyorsa, sıkıştırma işlemi kademeli olarak Ek-2’de
+belirtilen esaslar dikkate alınarak yapılır.
+(4) Esnek boruların montajdan sonra esnemesi
+muhtemeldir ve montajdan sonra belirli boru kesitleri ve mesafelerde
+Ek-2’de belirtilen esaslara göre esneme testleri yapılır.
+ALTINCI BÖLÜM
+İçme Suyu Temini ve Dağıtım Sistemlerinin İşletme
+ve Bakımına İlişkin Esaslar
+İşletme
+ve bakım
+MADDE 47 –
+(1) Su dağıtım işlevi ile çevre ve
+halk sağlığı üzerindeki olumsuz etkileri en aza indirmek için bütün su
+dağıtım sistemi, borularda ve diğer malzemelerdeki arızaları ve kaçakları
+tespit etmek üzere Ek-3’te belirtilen esaslara göre izlenir ve denetlenir.
+(2)
+Pompalar, vanalar ve elektrikli ekipmanlar gibi ekipmanların rutin
+bakımları yapılır ve önleyici tedbirler alınır. İleride yapılacak bakım,
+değişim ve yeraltı ekipmanlarının uygun donatılarla iyileştirilmesine dair
+planlar, varsa ulusal standartlara, yoksa AB standartlarına uygun olur.
+Ekipman değişiminde verim sınıfının yüksek olması dikkate alınır.
+Su
+yönetiminde kayıp/kaçakların düşürülmesi
+MADDE 48
+– (1) Su yönetiminde kayıp
+kaçakların düşürülmesi ile ilgili olarak içmesuyu şebekesinde meydana gelen
+kayıpları azaltmaya yönelik çalışmalar, mevcut şebekenin incelenmesi,
+hidrolik modellemesi, kontrol edilebilir ve ölçülebilir izole alt
+bölgelerin (DMA) oluşturulması, CBS ve SCADA sistemleri yoluyla sürekli
+izlenmesi, kayıp-kaçakların bölgesel ve noktasal olarak tespit edilmesi,
+basınç yönetiminin yapılması, normal abone ve yüksek tüketimli abonelerin
+sayaçlarının durum tespitinin yapılması işlerini kapsar. Bu kapsamda
+yapılacak işlere dair detaylar Ek-3’te belirtildiği şekilde yapılır.
+(2) Şebekede su kayıplarının düşürülmesi için
+yapılacak çalışmalarda, 8/5/2014 tarihli ve 28994 sayılı Resmî Gazete’de
+yayımlanan İçme Suyu Temin ve Dağıtım Sistemlerindeki Su Kayıplarının
+Kontrolü Yönetmeliği ile İçme Suyu Temin ve Dağıtım Sistemlerindeki Su
+Kayıplarının Kontrolü Yönetmeliği Teknik Usuller Tebliğinde yer alan usul
+ve esaslara uyulur.
+İçmesuyu
+altyapı bilgi sistemi
+MADDE 49
+– (1) İdareler her türlü coğrafi
+veri ve bilginin saklandığı, sorgulandığı ve istenildiğinde sunulduğu
+içmesuyu altyapı bilgi sistemlerini oluşturur.
+(2) İçmesuyu altyapı bilgi sistemi ile ilgili
+veriler Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmeliğinde
+belirtilen datum ve koordinat sistemlerine uygun olarak üretilir.
+(3) İçmesuyu sistemini oluşturan coğrafi detaylar;
+sistem bütünündeki sorgulamalara imkan verecek ilişkisel bir veri
+modelinde, değişikliklerin takip edilebileceği zamansal şemaya sahip olarak
+ve zeminle aplike edildikleri yatay ve düşey konum bilgisiyle içmesuyu
+altyapı bilgi sistemine kayıt edilir.
+(4) İçmesuyu altyapı bilgi sistemi, içmesuyu
+sistemindeki değişiklikleri yansıtacak şekilde gerekli veri yedeklemesi
+yapılarak güncellenir.
+(5) İçmesuyu altyapı bilgi sistemindeki veriler
+gerekmesi halinde ilgili paydaşlarla web sistemi üzerinden paylaşılabilir
+nitelikte olur.
+YEDİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Boru
+hatlarının test edilmesi ve dezenfeksiyon
+MADDE 50
+– (1) Yeni bir boru döşendiğinde
+ya da su dağıtım sisteminin bir parçası genişletildiğinde veya su dağıtım
+sisteminin bir parçası ya da bir boru değiştirildiğinde, Ek-2’de belirtilen
+metotlar kullanılarak basınç testleri gerçekleştirilir ve dağıtım boruları
+bir dezenfektan içeren suyla yıkanır.
+(2) Dezenfeksiyon amacıyla sadece içmesuyu
+kullanılır. Yıkama amacıyla getirilen içme suyunun kirlenmemesine ve yıkama
+işleminden sonra yıkama suyunun çevreye zarar vermeyecek şekilde bertaraf
+edilmesine özen gösterilir.
+Kalifikasyon
+ve eğitim
+MADDE 51
+– (1) Her düzeydeki personele,
+işlerini güvenle ve yetkin bir biçimde gerçekleştirebilmeleri için ilgili
+mevzuatı ve teknikleri tanıtıcı ve açıklayıcı uygun bir eğitim verilir.
+Eğitimler ihtiyaç duyulduğunda periyodik olarak tekrarlanır. İnşaat
+çalışmalarını yürüten kurumlar belirli bir iş için özel nitelikler talep
+edebilir.
+Yürürlük
+MADDE 52
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 53
+– (1) Bu Yönetmelik hükümlerini
+Çevre ve Şehircilik Bakanı yürütür.
+Ekleri için tıklayınız.
