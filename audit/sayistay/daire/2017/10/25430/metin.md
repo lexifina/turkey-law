@@ -1,0 +1,15 @@
+Personel ödemesi
+
+2006/10344 karar sayılı Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Kararın “Görevin fiilen yapılması” başlıklı 6 ncı maddesinde;
+
+“Zam ve tazminatların ödenebilmesi için, I, II ve III sayılı cetvellerde gösterilen personelin, kadro unvanı ile kariyer ve yürüttüğü görevin gerektirdiği hizmetleri kanunların öngördüğü durumlar saklı kalmak üzere fiilen yapması zorunludur.”
+
+denilmek suretiyle özel hizmet tazminatının ödenmesinde işgal edilen kadro unvanı ile kariyer ve görevin gerektirdiği hizmetlerin fiilen yapılması gerektiği hükme bağlanmıştır.
+
+666 sayılı Kanun Hükmünde Kararnamenin 1 inci maddesinin beşinci fıkrasında yer alan;
+
+“Birinci fıkra kapsamına giren personelden; kurumlarınca bir kadroya kurum içinden veya kurum dışından vekalet ettirilenlere, vekaletin 657 sayılı Kanunun 86 ncı maddesine istinaden yapılmış ve bu hususun onayda belirtilmiş olması, vekalet görevinin Bakanlar Kurulu kararı veya müşterek karar ile atama yapılması gereken kadrolar için ilgili bakan, diğer kadrolar için asili atamaya yetkili amir tarafından verilmesi, vekalet eden personelin asaleten atanmada aranan tüm şartları (asaleten atanmada sınav şartı aranılan kadrolar için bu sınavlara girebilme hakkının elde edilmiş olması dahil) taşıması kaydıyla vekalet ettikleri kadro için öngörülen ek ödemenin asli kadroları için öngörülen ek ödemeden fazla olması halinde, aradaki fark, vekalet görevine başlanıldığı tarihten itibaren ve bu görev fiilen yapıldığı sürece ödenir.” şeklindeki düzenlemeye göre de vekalet durumunda vekalet edilen kadronun ek ödemesinin alınabilmesi için görevin fiilen yapılması gerekmektedir.
+
+Savunmalarda, Üniversite Yönetim Kurulunun .. tarih, .. nolu toplantısında yabancı uyruklu öğrenci ve öğretim elemanlarının konaklamalarının sağlanması amacıyla Üniversitenin kampüs alanı içerisinde misafirhane olarak kullanılan mekanın … Üniversitesi … Tesisleri ismi ile hizmete başlatılmasına karar verildiği, söz konusu yurdun sevk ve idaresi için … …’nin … tarihinde vekaleten görevlendirildiği, yine … Üniversitesinin, Yükseköğretim Kurulu Başkanlığının 02.08.2010 tarih 026746 sayılı yazıları ile … Üniversitesine bağlı … Meslek Yüksekokulunun öğrencileri ile birlikte … Üniversitesine devredilmesi ile ilgili yapılan protokolün “… Üniversitesinin Yapacağı İşler” başlıklı 4 üncü maddesinin (c) bendi gereği … Üniversitesi … Meslek Yüksekokulunun faaliyetleri dolayısıyla ödemesi gereken halen … Üniversitesi İslahiye Meslek Yüksekokulu Yurt Binası olarak kullanılan taşınmazın kira bedelinin kalan tutarını devir tarihinden itibaren aynı koşullarla ödemekle yükümlü kılındığı, söz konusu yurdun sevk ve idaresi için ise Şef Ümmühan … …’in … tarihinde vekaleten görevlendirildiği ifade edilmiştir.
+
+Bu itibarla, … … ile … …’in yurt müdürlüğü görevini fiilen yürüttükleri anlaşıldığından, kendilerine söz konusu kadrolara ait özel hizmet tazminatı ve 666 sayılı Kanun Hükmünde Kararnameye istinaden ek ödeme ödenmesinde ilişilecek husus bulunmadığına oy birliğiyle,
