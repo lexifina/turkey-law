@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7353",
+  "decision_date": "2017-10-12",
+  "title": "Aksa Bilecik Bolu Doğal Gaz Dağıtım Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-10-14",
+  "resmi_gazete_number": "30210",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GelPND5x/rE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GelPND5x/rE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6874kM3G100="
+  ],
+  "source_sha256": "39e3dd48a28f8fe37fefe7752d5db9b24e4d0cb925277d910ef302fe9d01cb16",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-10-12",
+  "law_text_complete": true
+}
