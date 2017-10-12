@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10655",
+  "decision_date": "2017-10-12",
+  "source_id": 25432,
+  "chamber": "1",
+  "item_number": 6,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25432/",
+  "source_sha256": "890095d0b0e5994874a13727f91422ee8dea40bceda992f2dd8d532252378461",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
