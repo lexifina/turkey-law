@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.23976",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BALIKÇI GEMİSİNİ AVCILIKTAN ÇIKARANLARA YAPILACAK DESTEKLEME TEBLİĞİ (TEBLİĞ NO: 2017/35)",
+  "number": "23976",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2017/23976",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23976&MevzuatTertip=5",
+  "source_sha256": "6b0d5b90e4bde0cf650830d292581dc008924aceea769f28c14609698d597a52",
+  "source_bytes": 37444,
+  "published": "2017-10-13",
+  "gazette": "30209",
+  "in_force": "2017-10-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.10.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1914,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23976-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
