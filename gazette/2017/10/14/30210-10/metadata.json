@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-10-14",
+  "issue": "30210",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KADRO ARTIRILMASI KARARI",
+  "title": "Ulaştırma, Denizcilik ve Haberleşme Bakanlığı Altyapı Yatırımları Genel Müdürlüğü, Genel Müdür Yardımcılığı Kadrosunun 3’ten 4’e Çıkarılması Hakkında Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171014-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171014.htm",
+  "index_sha256": "3df562f99858d6739984f8033602bb736e3d723f54954e2e90b3afdd392bf97b",
+  "index_header": "14 Ekim 2017 ... 30210 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171014.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
