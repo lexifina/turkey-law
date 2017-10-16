@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-10-16",
+      "16.10.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30212",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-10-16",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kafkas Üniversitesi",
+  "issuer_slug": "kafkas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kafkas-universitesi/2017/23981",
+  "published": "2017-10-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23981&MevzuatTertip=5",
+  "source_bytes": 27078,
+  "source_id": "8.5.23981",
+  "source_sha256": "5aa3afff9e4b69bcf4f76c71a2d5e5bcb05dbacb186df928bcca78e3a501be37",
+  "text_status": "as-enacted",
+  "title": "KAFKAS ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 206,
+  "word_count": 1060
+}
