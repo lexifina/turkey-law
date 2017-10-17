@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "211",
+  "decision_date": "2017-10-17",
+  "source_id": 25277,
+  "chamber": "7",
+  "ilam_number": "24",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25277/",
+  "source_sha256": "849fa6561c6f5c6b6048d67aa6e693e3a6a7956e75d6329a1915fc72971ce34b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
