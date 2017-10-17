@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "211",
+  "decision_date": "2017-10-17",
+  "source_id": 25275,
+  "chamber": "7",
+  "ilam_number": "24",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25275/",
+  "source_sha256": "34d7ad7b0c9cfa7b982fd027434a381ec7b166610f7cbc8bcf87c61083e2b101",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
