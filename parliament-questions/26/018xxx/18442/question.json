@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 26,
+  "legislative_year": 3,
+  "esas_no": "7/18442",
+  "submitted": "2017-10-17",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ceyhun İRGİL",
+  "province": "Bursa",
+  "summary": "Kaldırılan Kamu Hastaneleri Birliği için yapılan harcamalara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-76bd-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "8357edae9b03bcaf1ad0f0b3ca2fbfdd7b6c55c2ee6b7f65de4a65a3fb370d72",
+  "in_force": "2017-10-17",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
