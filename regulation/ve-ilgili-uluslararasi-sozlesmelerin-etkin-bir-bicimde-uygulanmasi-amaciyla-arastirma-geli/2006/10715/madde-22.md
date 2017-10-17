@@ -1,0 +1,3 @@
+Gemi acil müdahale planı
+MADDE 22 – (1) Gemilerden Kaynaklanan Kirliliğin Önlenmesine Dair Uluslararası Sözleşmenin-MARPOL 73/78 I inci ekinin 26 ncı kuralı ile II nci ekinin 16 ncı kuralı kapsamına giren tüm gemiler, bu maddelerde belirtilen esaslara uygun olarak petrol veya diğer zararlı madde kirliliği gemi acil müdahale planlarını, Uluslararası Denizcilik Örgütü-IMO kural ve tavsiyeleri ile Deniz Çevresinin Korunması Komitesi-MEPC 54 (32) No’lu sirkülerine uygun olarak hazırlarlar.
+(2) Gemiler için gerekli asgari personel, ekipman ve malzeme seviyesi ilgili uluslararası sözleşmelere uygun olarak hazırlanan gemi acil müdahale planlarında belirtilir.

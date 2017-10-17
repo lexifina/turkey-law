@@ -1,0 +1,2 @@
+Deniz kirliği ile ilgili araştırmalar
+MADDE 30 – (1) Bakanlık, yılın farklı mevsimlerinde ve farklı deniz bölgelerinde geçerli olan meteorolojik ve oşinografik şartları da dikkate alarak; petrol veya diğer zararlı maddelerden kaynaklanan kirlenmenin türü, miktarı, yönü, hızı, muhtemel sonuçları ve ortadan kaldırılması yöntemleri hakkında araştırmalar yapar veya yaptırır. Bu araştırmaların sonuçlarını ilgili liman başkanlıklarına ve acil müdahale merkezlerine bildirir. Bu araştırma sonuçları ilgili acil müdahale planlarının revizyonunda da kullanılır.

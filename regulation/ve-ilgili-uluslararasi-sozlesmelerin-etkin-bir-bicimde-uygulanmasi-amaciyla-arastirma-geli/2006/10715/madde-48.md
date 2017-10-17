@@ -1,0 +1,2 @@
+Sorumlu kişilerin tespiti amacıyla uluslararası işbirliği
+MADDE 48 – (1) Yabancı bir geminin bir kirlenme olayına sebep olduğu ve sorumlu kişinin bulunamadığı durumlarda, Müsteşarlık tarafından, geminin bayrak devletinden ya da diğer ülkelerden yardım talep edilebilir. Müsteşarlık da bu tür yardım talebinde bulunan diğer ülkelere karşılıklılık prensibi çerçevesinde ve ilgili uluslararası sözleşme hükümlerine göre yardım eder.

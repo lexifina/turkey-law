@@ -1,0 +1,5 @@
+Operasyon grupları ve başkanları
+MADDE 17 – (1) İkinci seviye bir olayda bölgesel koordinasyon komitesi, üçüncü seviye bir olayda ise ulusal acil müdahale merkezi tarafından; operasyon gruplarının başkanları; Bakanlık, Müsteşarlık, diğer kurum ve kuruluşlar ile kıyı tesisleri içerisinde bulunan acil müdahale konusunda deneyimli ve eğitimli personel arasından seçilir.
+(2) Ulusal ve Bölgesel olay yeri koordinatörlerine bağlı olarak çalışan operasyon gruplarının başkanları Operasyon grup başkanları kendi uzmanlık alanlarındaki operasyonlardan sorumludur. Operasyonlarını planlar, görevleri dağıtır, grubu için gerekli olan malzeme, ekipman, personel ve teçhizatın sağlanması için diğer operasyon grup başkanları ile koordinasyonu sağlar ve olay yeri koordinatörüne rapor verir.
+(3) İkinci ve üçüncü seviye bir olayda operasyon gruplarının çalışma usul ve esasları ilgili acil müdahale planlarında belirtilir.
+(4) Ayrıca, operasyon gruplarına müdahale esnasında destek verecek olan teknik grup ve çevre grubu ile idari ve mali grubun uzmanlarının çalışma usul ve esasları acil müdahale planlarının yürürlüğe girmesi ile belirlenir.

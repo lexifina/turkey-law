@@ -1,0 +1,2 @@
+Yakıt ikmal istasyonlarına ilişkin muafiyet
+MADDE 37 – (1) Yakıt ikmal istasyonlarında, ikmalin yalnızca küçük teknelere, palamar yeri veya iskele üzerine yerleştirilmiş pompa benzeri bir aparat ile yakıt pompalamaktan ibaret olduğu durumlarda, müdahale için gereken asgari ekipman koşulu, ikmal işlemleri sırasında oluşabilecek küçük sızıntıları kontrol altına almaya yetecek miktarda bariyer ya da kumaş biçiminde emici malzemenin mevcudiyetiyle sınırlı tutulabilir. Bu malzemenin miktar ve niteliği, aparatın yerleştirildiği yerin özelliğine göre belirlenir.

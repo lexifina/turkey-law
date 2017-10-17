@@ -1,0 +1,2 @@
+Uluslararası bilgilendirme
+MADDE 45 – (1) Taraf olduğumuz uluslararası sözleşmelerde, bölgesel uluslararası acil müdahale planlarında ve Uluslararası Denizcilik Örgütü-IMO kural ve tavsiyelerinde talep edilen; ulusal acil müdahale planı, konuya ilişkin ulusal mevzuat ve diğer bilgiler, ulusal odak noktası olmalarına bağlı olarak Bakanlık veya Müsteşarlık tarafından talep eden organizasyonlara gönderilir.

@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.10715",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DENİZ ÇEVRESİNİN PETROL VE DİĞER ZARARLI MADDELERLE KİRLENMESİNDE ACİL DURUMLARDA MÜDAHALE VE ZARARLARIN TAZMİNİ ESASLARINA DAİR KANUNUN UYGULAMA YÖNETMELİĞİ",
+  "number": "10715",
+  "issuer": "ve ilgili uluslararası sözleşmelerin etkin bir biçimde uygulanması amacıyla, araştırma, geliştirme ve teknik işbirliği için uluslararası çalışmaları",
+  "issuer_slug": "ve-ilgili-uluslararasi-sozlesmelerin-etkin-bir-bicimde-uygulanmasi-amaciyla-arastirma-geli",
+  "path": "regulation/ve-ilgili-uluslararasi-sozlesmelerin-etkin-bir-bicimde-uygulanmasi-amaciyla-arastirma-geli/2006/10715",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10715&MevzuatTertip=5",
+  "source_sha256": "6671790c09402b636368af76f7fdcd09f6b67e68f397a0e7341b727ae1c1be01",
+  "source_bytes": 157352,
+  "published": "2006-10-21",
+  "gazette": "26326",
+  "in_force": "2017-10-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/10/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-10-17",
+      "RG-17/10/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-10-17",
+      "17/10/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9799,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.10715-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

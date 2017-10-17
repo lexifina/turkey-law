@@ -1,0 +1,2 @@
+Araştırma ve geliştirme konusunda uluslararası işbirliği
+MADDE 47 – (1) Bakanlık ve Müsteşarlık; bu Yönetmelik kapsamında doğrudan, ya da uygun olduğunda ilgili uluslararası organizasyonlar aracılığıyla, uluslararası sözleşmelere ait hükümler ile Uluslararası Denizcilik Örgütü-IMO kural ve tavsiyeleri doğrultusunda, bu Yönetmeliğin ve ilgili uluslararası sözleşmelerin etkin bir biçimde uygulanması amacıyla, araştırma, geliştirme ve teknik işbirliği için uluslararası çalışmaları yürütür ya da mevcut çalışmalara iştirak eder.

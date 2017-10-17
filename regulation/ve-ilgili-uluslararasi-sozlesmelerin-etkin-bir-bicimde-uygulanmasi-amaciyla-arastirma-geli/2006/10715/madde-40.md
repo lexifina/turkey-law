@@ -1,0 +1,3 @@
+Sorumlunun tespiti
+MADDE 40 – (1) Sorumlunun ve kirleticinin açık olarak belirlenemediği durumlarda sorumlunun ve kirleticinin belirlenmesi amacıyla, denize dökülmüş petrol veya diğer zararlı maddelerin numuneleri karşılaştırmalı analiz amacıyla, kirlenme olayından sorumlu oldukları sanılan kıyı tesisleri ile gemilerin yük tankları, malzeme tankları ve makine yerlerinden alınır. Alınan numunelerin analiz sonuçları ve tanık ifadeleriyle sorumlu ve kirletici belirlenir. Sorumlu veya kirletici tespitinde numune alınmasının mümkün olmadığı durumlarda düzenlenen tutanak esas alınır.
+(2) Bu faaliyetler Bakanlık tarafından icra edilir veya ettirilir.

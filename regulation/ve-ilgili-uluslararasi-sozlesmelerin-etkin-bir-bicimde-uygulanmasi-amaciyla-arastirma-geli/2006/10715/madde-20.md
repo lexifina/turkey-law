@@ -1,0 +1,2 @@
+İdari ve mali grup
+MADDE 20 – (1) Bakanlık veya Müsteşarlık tarafından oluşturulan idari ve mali konularda uzmanlaşmış bir gruptur. Üçüncü seviye bir olaya müdahalede ulusal operasyon komitesine, ikinci seviyede bir olaya müdahalede bölgesel operasyon komitesine bağlanır. Müdahale operasyonları ile ilgili bütün idari konular ile harcama, anlaşmalar ve başka mali taahhütler içeren operasyonlara ilişkin işlemleri ve bu işlemlerin kaydedileceği bir kayıt defterini tutmaktan sorumludur.

@@ -1,0 +1,4 @@
+Ulusal acil müdahale planı
+MADDE 25 – (1) Üçüncü seviye bir olaya hazırlıklı olma ve müdahale için bir ulusal acil müdahale planı sürekli olarak hazır bulundurulur.
+(2) Ulusal acil müdahale planı, Bakanlık tarafından Kanun ve bu Yönetmelikte yer alan usul ve esaslara göre Ek-III’de verilen ulusal acil müdahale planında olması gereken asgari başlıklar kapsamında hazırlanır veya Ek-I B’de yer alan kriterleri haiz kurum veya kuruluşlara hazırlattırılır.
+(3) Bakanlık, ulusal acil müdahale planının hazırlanması ve değiştirilmesinde; uluslar- arası sözleşmeler ile bölgesel acil müdahale planlarını göz önünde bulundurur. Başbakanlık Türkiye Acil Durum Yönetimi Genel Müdürlüğü, Müsteşarlık ve ilgili kurum/kuruluşların görüşü alınarak hazırlanan ulusal acil müdahale planı, Bakanlık tarafından onaylandıktan sonra yürürlüğe girer.
