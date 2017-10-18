@@ -1,0 +1,7 @@
+KONU: Usulsüz atama.
+
+13- 193 sayılı İlamın 13. maddesiyle; ... Belediyesinde Memur kadrosunda görev yapan Nesrin ...’in, Mülga “İl Özel İdareleri, Belediyeler ve İl Özel İdareleri ve Belediyelerin Kurdukları Birlik, Müessese ve İşletmeler İle Bunlara Bağlı Döner Sermayeli Kuruluşlardaki Memurların Görevde Yükselme Esaslarına Dair Yönetmelik” te öngörülen sınav şartını sağlamadığı halde, 15.06.2007 tarihinden itibaren Şef kadrosuna görevde yükselme suretiyle asaleten atandığı ve bu usulsüz atama sebebiyle kendisine yapılan, atandığı kadro ile eski kadrosu arasındaki fark maaş ödemeleri (Özel Hizmet Tazminatı, Ek Ödeme ve Yan Ödeme fark ödemeleri)  dolayısıyla … TL’ye tazmin hükmü verilmiştir.
+
+İlam hükmüne ilişkin Gerçekleştirme Görevlileri ..., Nesrin ...’in birinci, ikinci temyiz dilekçeleri ve buna ilişkin Başsavcılığın birinci, ikinci mütalaası, Üst Yönetici ...’ın birinci, ikinci temyiz dilekçesi ve buna ilişkin Başsavcılığın birinci, ikinci mütalaası, duruşmaya katılanların ve Savcının sözlü açıklamaları işbu İlamın 2. maddesinde belirtildiği gibi, Harcama Yetkilisi ...’nin birinci, ikinci temyiz dilekçesi ve buna ilişkin Başsavcılığın birinci, ikinci mütalaası işbu İlamın 4. maddesinde belirtildiği gibi olup işbu İlamın 2. maddesinde yer alan gerekçelerle;
+
+193 sayılı İlamın 13. maddesi ile verilen tazmin hükmünün sorumluluk yönünden BOZULARAK İLGİLİ DAİRESİNE TEVDİİNE, oy çokluğuyla, (İşbu İlamın 2. maddesinde belirtilen farklı gerekçeler ve karşı oy gerekçesi aynı kalmak üzere)
