@@ -1,0 +1,20 @@
+{
+  "applicant": "İ.Y.Ö.",
+  "application_date": "2015-12-02",
+  "application_number": "2015/18407",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2017-10-18",
+  "id": "bf943477-cc64-72c8-9b88-7020dc70cabd",
+  "in_force": "2017-10-18",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmJmOTQzNDc3LWNjNjQtNzJjOC05Yjg4LTcwMjBkYzcwY2FiZA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "3fadefe768ba198decf9637e323f32747a16e4e32491ac5876abd9dd5389845b",
+  "version_label": "as-enacted"
+}
