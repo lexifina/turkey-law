@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23994",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAYADAN OYMA YAPILARIN TASARIM, HESAP VE YAPIM ESASLARINA DAİR YÖNETMELİK",
+  "number": "23994",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2017/23994",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23994&MevzuatTertip=5",
+  "source_sha256": "80e874ca7b24086a153457b652f1766f190452bea75cd2f4f017be9c7629e3ff",
+  "source_bytes": 64933,
+  "published": "2017-10-18",
+  "gazette": "30214",
+  "in_force": "2017-10-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.10.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3817,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23994-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
