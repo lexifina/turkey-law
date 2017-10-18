@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43484",
+  "decision_date": "2017-10-18",
+  "source_id": 14334,
+  "chamber": "5",
+  "file_number": "41077",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14334/",
+  "source_sha256": "a77e4a75c820ec54c11889ec14a2266df6545e27eff1d13253cd4f2e325f3be4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
