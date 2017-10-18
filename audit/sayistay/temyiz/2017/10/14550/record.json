@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43538",
+  "decision_date": "2017-10-18",
+  "source_id": 14550,
+  "chamber": "5",
+  "file_number": "41569",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2011",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14550/",
+  "source_sha256": "7ea04cae4d1af6a6c4ca3de84e5f733198e43dc2518e7ccf1df9ecd927f671a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
