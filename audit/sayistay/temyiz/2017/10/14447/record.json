@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43509",
+  "decision_date": "2017-10-18",
+  "source_id": 14447,
+  "chamber": "5",
+  "file_number": "41009",
+  "public_body_type": "Diğer",
+  "account_year": "2012",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14447/",
+  "source_sha256": "f837bdc12c50f90c1908c57b17a23775a754bc95bbc1d4569ac6d0075d4ca55e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
