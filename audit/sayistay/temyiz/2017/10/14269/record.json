@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43468",
+  "decision_date": "2017-10-18",
+  "source_id": 14269,
+  "chamber": "5",
+  "file_number": "41155",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14269/",
+  "source_sha256": "45ce9e413c2bec6955d7419a9b8c36c262123dcc902e77d732d0c6df2953e3a9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
