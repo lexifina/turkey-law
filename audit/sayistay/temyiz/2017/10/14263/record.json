@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43465",
+  "decision_date": "2017-10-18",
+  "source_id": 14263,
+  "chamber": "5",
+  "file_number": "41157",
+  "account_year": "2014",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14263/",
+  "source_sha256": "9efc6bd8a7f1398c146eb0244a190780c5e50e4f19e26e9b72c4c8edc50a37dd",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
