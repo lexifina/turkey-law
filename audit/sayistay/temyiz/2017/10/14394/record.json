@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43501",
+  "decision_date": "2017-10-18",
+  "source_id": 14394,
+  "chamber": "5",
+  "file_number": "41402",
+  "account_year": "2013",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14394/",
+  "source_sha256": "24373d45422c55b720e7d2162b8085d17a50a795f03d57a53748001d3fc79a72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
