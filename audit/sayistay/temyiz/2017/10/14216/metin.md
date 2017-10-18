@@ -1,0 +1,7 @@
+KONU: Usulsüz atama.
+
+17- 118 sayılı İlamın 17. maddesiyle; ...  Belediyesinde Mühendis kadrosunda görev yapan ...’in, Mülga “İl Özel İdareleri, Belediyeler ve İl Özel İdareleri ve Belediyelerin Kurdukları Birlik, Müessese ve İşletmeler İle Bunlara Bağlı Döner Sermayeli Kuruluşlardaki Memurların Görevde Yükselme Esaslarına Dair Yönetmelik” te öngörülen sınav şartını sağlamadığı halde, 10.02.2009 tarihinde Destek Hizmetleri Müdürlüğü kadrosuna, 15.06.2009 tarihinden itibaren ise, İşletme Müdürlüğü kadrosuna görevde yükselme suretiyle asaleten atandığı ve bu usulsüz atamalar sebebiyle kendisine yapılan, en son atandığı İşletme Müdürlüğü kadrosu ile eski Mühendis kadrosu arasındaki fark maaş ödemeleri (Özel Hizmet Tazminatı, Ek Ödeme ve Yan Ödeme fark ödemeleri) dolayısıyla ... TL’ye tazmin hükmü verilmiştir.
+
+İlam hükmüne ilişkin Gerçekleştirme Görevlisi ...  ve Harcama Yetkilisi ...’in aynı mahiyetteki birinci, ikinci temyiz dilekçeleri ve buna ilişkin Başsavcılığın birinci, ikinci mütalaası, Üst Yönetici ...’ın birinci, ikinci temyiz dilekçesi ve buna ilişkin Başsavcılığın birinci, ikinci mütalaası, duruşmaya katılanların ve Savcının sözlü açıklamaları işbu İlamın 2. maddesinde belirtildiği gibi olup sözü edilen maddede yer alan gerekçelerle;
+
+118 sayılı İlamın 17. maddesi ile verilen tazmin hükmünün sorumluluk yönünden BOZULARAK İLGİLİ DAİRESİNE TEVDİİNE, oy çokluğuyla, (İşbu İlamın 2. maddesinde belirtilen farklı gerekçeler ve karşı oy gerekçesi aynı kalmak üzere)
