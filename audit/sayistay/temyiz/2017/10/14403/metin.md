@@ -1,0 +1,49 @@
+KONU: Usulsüz atama.
+
+6- 411 sayılı İlamın 6. maddesiyle; ...  Belediyesinde Zabıta Memurluğu kadrosunda görev yapmakta iken 03.03.2004 tarihinde Sürveyan kadrosuna atanmış olan …’nun, Mülga “İl Özel İdareleri, Belediyeler ve İl Özel İdareleri ve Belediyelerin Kurdukları Birlik, Müessese ve İşletmeler İle Bunlara Bağlı Döner Sermayeli Kuruluşlardaki Memurların Görevde Yükselme Esaslarına Dair Yönetmelik” te öngörülen sınav şartını sağlamadığı halde, 13.10.2008 tarihinden itibaren Tekniker kadrosuna görevde yükselme suretiyle asaleten atandığı ve bu usulsüz atama sebebiyle kendisine yapılan, atandığı kadro ile eski kadrosu arasındaki fark maaş ödemeleri (Özel Hizmet Tazminatı, Ek Ödeme ve Yan Ödeme fark ödemeleri)  dolayısıyla … TL’ye tazmin hükmü verilmiştir.
+
+İlam maddesi ile ilgili olarak Harcama Yetkilisi sıfatıyla temyiz talep eden ve buna ilişkin 41159 sayılı dosyası kendi gündem sırasında görüşülen ... , temyiz dilekçesinde özetle;
+
+Kamu zararının doğumuna neden olan atama işleminde şahsının herhangi bir tasarrufu olmadığından dolayı verilen kararın hukuka aykırı olduğunu, bozulması gerektiğini, şöyle ki;  kendisinin ilamda belirtilen kamu zararlarının oluştuğu dönemde Belediye İmar ve Şehircilik Müdürü ... ’ın izinli olması nedeniyle Müdür Vekili olarak görevlendirildiğini, Sayıştay ilamının 6. maddesinde yer alan fazla ödemelere konu atamanın Harcama Yetkilisi olarak göreve başladığı tarihten çok önce gerçekleştirildiğini, Harcama Yetkilisi olarak göreve başladığı tarih itibariyle İmar ve Şehircilik Müdürlüğünde görevli kişilerin geçmiş dönemlerde yapılan atamalarının Görevde Yükselme Yönetmeliği hükümlerine uygun olup olmadığını bilme imkanının bulunmadığını, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu hükümlerine göre harcama yetkilisi olarak gerçekleştirme görevlisi tarafından hazırlanan ödeme emri belgelerini kontrol etmek ve hukuka uygunluğunu denetlemekle sorumlu olduğunun aşikar olduğunu, ancak bu kontrolün kişinin mevcut bulunduğu kadro ile ödenen maaşın uyuşup uyuşmadığı ile ilgili olduğunu, yoksa her memurun mevcut kadrosuna atanmasının hukukiliğini denetleme yetkisinin olmadığı gibi maaş ödeme evrakları içerisinde de atamaya ilişkin bilgilerin bulunmadığını, Belediyede memurların atanmasından tek sorumlu ve yetkilinin, üst amir olan Belediye Başkanı olduğunu, örneğin Harcama Yetkilisi olarak göreve başladığı tarihten sonra Mali Hizmetler Müdürlüğünde görevli memur kadrosunda bulunan bir kişiye, şef kadrosundan aylık maaş ödemesi yapılmış olsa idi burada oluşan kamu zararından sorumlu tutulmasının gerekeceğini, kısacası Harcama Yetkilisi olarak göreve başlamasından önce atamaya yetkili Belediye Başkanı tarafından atanan bir kişinin atamasının ne şartlarda yapıldığını bilmesinin ve hukukiliğini araştırmasının imkansız bulunduğunu,
+
+Tarafına tebliğ edilen Sayıştay İlamında Sayıştay 5, Daire Üyeleri … ve …’ın ayrışık görüşlerinde de Gerçekleştirme ve Harcama Yetkililerin kamu zararının oluşmasına neden olan atama işleminde herhangi bir yetkileri olmadığı ve atamanın o anki Belediye Başkanı tarafından yapıldığı için gerçekleştirme ve harcama yetkililerinin kapsam dışı bırakılması gerektiğinin belirtildiğini, devamında da mevcut Belediye Başkanı ...  için göreve geldiği tarihten önceki atamalarla ilgili bilgisinin olmadığından ve atamalarda her hangi bir dahili bulunmadığından dolayı sorumlu olmadığı yönünde son derece hukuki ve gerçeklerle bağdaşan bir karar verildiğini, kendisinin de göreve başlamadan önceki yapılan atamaları bilme imkanının bulunmadığını, bilgisi dışında ve atamada herhangi bir dahili olmayan işlemden dolayı sorumlu tutulmasının Sayıştay 5. Dairesi’nin 118 nolu ilamının kendi içerisinde çelişki doğurmasına neden olacak ve hukuka olan güvenini zedeleyeceğini,
+
+Bilindiği üzere Türk İdari ve Mali Hukukunda “Yetki ve Sorumluluk” birbirinden ayrılmaz iki önemli unsur olduğunu, buna göre yetki varsa sorumluluk doğacağını, haliyle sorumluluktan söz edebilmek için de yetki sahibi olmanın şart olduğunu, somut olayda ise şahsının Harcama Yetkilisi olarak memurun atanmasının yapılmasında yetkisi olmadığı için sorumluluğunun da bulunmayacağını,
+
+Konuya emsal olabilecek nitelikteki Sayıştay 5. Dairesi’nin 14/12/2013 tarih ve 32 nolu kararında Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmelik hükümlerine aykırı olarak müdür kadrosuna atanan kişiye yapılan fazladan ödemeler için atamayı yapan üst yetkilinin sorumlu olduğunun hüküm altına alındığını, söz konusu daire kararının da Sayıştay Temyiz Kurulunun 15/12/2015 tarih ve 39104 Dos. No. - 41203 Tut. No. ile tasdik edildiğini,
+
+Yukarıda belirtmiş olduğu hususlar göz önünde bulundurulduğunda ataması yapılan personellerin atamalarında ve oluşan kamu zararında herhangi kasıt, kusur ve ihmalinin olmadığının çok açık olduğunu, Sayıştay Genel Kurulunun 2007/5189-1 karar sayılı ve 14/06/2007 tarihli kararında “objektif (kusursuz) sorumluluk ilkesinden vazgeçilerek, kamu görevlileri acısından, kamu zararının oluşmasında kasıt kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem eylem bulunması” yönünde görüş benimsendiğini, Harcama Yetkilisi olarak göreve başladığı tarihten sonra tarafınca herhangi kasıt, kusur ve usulsüz bir atama yapılmamakla birlikte, dava konusu kamu zararına neden olan atama ile illiyet bağının bulunmadığından dolayı şahsına kamu zararı yüklenilmesinin Sayıştay Genel Kurulunun görüşüyle bağdaşmayacağını,
+
+Belirtmiş olduğu hususlar ve Sayıştay Başkanlığınca res’en göz önünde bulundurulacak nedenlerle Sayıştay 5. Dairesi ilamının temyizen bozulmasını talep etmiştir.
+
+41159 sayılı dosyada (Harcama Yetkilisi ... ) yer alan Başsavcılık mütalaasında;
+
+“5018 sayılı Kanunun “Harcama talimatı ve sorumluluk” başlıklı 32 nci maddesinde harcama yetkililerinin sorumluluğu düzenlenmiş olup, maddede; “Harcama yetkilileri, harcama talimatlarının bütçe ilke ve esaslarına, kanun, tüzük ve yönetmelikler ile diğer mevzuata uygun olmasından, ödeneklerin etkili, ekonomik ve verimli kullanılmasından ve bu Kanun çerçevesinde yapmaları gereken diğer işlemlerden sorumludur.” denilmektedir.
+
+Sayıştay Genel Kurulunun 14.6.2007 tarihi ve 5189/1 numaralı Kararında;
+
+“Bu hükümler karşısında, bütçeden yapılacak harcamalar konusunda 5018 sayılı Kanunda öngörülen harcama sürecinde tek ve tam yetkili olan, giderin yapılmasına karar vermekten ödeme aşamasına kadar tüm işlemleri emir ve talimatı çerçevesinde yürüten ve maiyetindekileri ve onların eylem ve işlemlerini gözetmek ve denetlemekle yükümlü olan harcama yetkilisinin, Sayıştay’a karşı hesap verme konusunda tam ve doğrudan sorumlu olduğu anlaşılmaktadır.
+
+Bu nedenle, harcama yetkililerinin, harcama talimatlarının ve buna konu olan harcamaların bütçe ilke ve esaslarına, kanun, tüzük ve yönetmelikler ile diğer mevzuata uygunluğundan sorumlu olduklarına, ...” denilmektedir.
+
+Sayıştay Genel Kurul Kararına göre harcama yetkilileri harcamaların mevzuata uygunluğundan sorumludurlar. Bu sorumluluğun tayini harcama yetkilisinin ödeme emri belgesi ve eki belgeler çerçevesinde belirleneceği muhakkaktır. Harcama yetkilileri personel maaşlarının mevzuata uygun olup olmadıklarını ödeme emri belgesi ve eki belgeleri inceleyerek karar vereceklerdir.
+
+Mahalli İdareler Harcama Belgeleri Yönetmeliğinin “Aylıklar” başlıklı 8 inci maddesinde; “Aylık ve aylıkla birlikte ödenen hakedişler için Aylık Bordrosu (Örnek: 9) ve Personel Bildirimi (Örnek: 10) ile duruma göre ödemenin yapıldığı ilk aya ait ödeme belgesine aşağıda belirtilen belgeler eklenir.
+
+a) İlk atamalarda, atama onayı ve işe başlama yazısı,
+
+b) Naklen atamalarda, atama onayı, işe başlama yazısı ve Personel Nakil Bildirimi (Örnek: 11),
+
+c) Terfilerde, terfi onayı (Otomatik olarak yapılan kademe ilerlemelerinde terfi onayı aranmaz.),
+
+…….. ” hükmü yer almaktadır.
+
+Görüldüğü gibi, harcama yetkilileri ve gerçekleştirme görevlileri, personel maaş ödemelerinin gerçekleştirilmesi sırasında sadece ilk atamalarda atama onayı ve işe başlama yazısını arayacaklar ve bu onayın mevzuata uygun olup olmadığını kontrol edeceklerdir. Daha sonraki maaş ödemelerinde atama onayı eklenmemektedir. Dolaysıyla, daha sonraki aylarda yapılan maaş ödemesine atama onayı bağlanmayacağı için harcama yetkilisi ve gerçekleştirme görevlileri yapılan atamanın mevzuata uygun olup olmadığını kontrol etmek gibi bir sorumluluğu bulunmamaktadır. Mevzuata aykırı atama dolaysıyla oluşan kamu zararından atamaya yetkili birim amiri (üst yönetici) ile bu ödeme sırasında harcama yetkilisi ve gerçekleştirme görevlisi olan kişilerin sorumlu olacağı değerlendirilmektedir. Bu nedenle, ilamın bu maddesine konu harcamadan dolayı Harcama yetkilisi ... ’ın atamanın yapıldığı tarihte harcama yetkilisi olmadığı İçin sorumluluğunun bulunmadığı düşünülmektedir.
+
+Bu itibarla, konunun sorumluluk açısından yeniden değerlendirilmek üzere dosyanın Dairesine geri gönderilmesine karar verilmesi uygun olur.”
+
+denilmiştir.
+
+İlam hükmüne ilişkin Gerçekleştirme Görevlisi ...  ile Harcama Yetkilisi ... ’ın aynı mahiyetteki birinci, ikinci temyiz dilekçeleri ve buna ilişkin Başsavcılığın birinci, ikinci mütalaası, Üst Yönetici ... ’ın birinci, ikinci temyiz dilekçesi ve buna ilişkin Başsavcılığın birinci, ikinci mütalaası, duruşmaya katılanların ve Savcının sözlü açıklamaları işbu İlamın 2. maddesinde belirtildiği gibi olup sözü edilen maddede yer alan gerekçelerle;
+
+411 sayılı İlamın 6. maddesi ile verilen tazmin hükmünün sorumluluk yönünden BOZULARAK İLGİLİ DAİRESİNE TEVDİİNE, oy çokluğuyla, (İşbu İlamın 2. maddesinde belirtilen farklı gerekçeler ve karşı oy gerekçesi aynı kalmak üzere)
