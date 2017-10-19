@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7367",
+  "decision_date": "2017-10-19",
+  "title": "Aksa Balıkesir Doğal Gaz Dağıtım Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-10-21",
+  "resmi_gazete_number": "30217",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Vb9CVvS/6Qo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Vb9CVvS/6Qo=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vjQKhsNuIS4="
+  ],
+  "source_sha256": "daf22b8976d4356624f6b8f67e30278d721660d1ce22f042eadcb49234f13a4e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-10-19",
+  "law_text_complete": true
+}
