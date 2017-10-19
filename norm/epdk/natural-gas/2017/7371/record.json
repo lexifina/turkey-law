@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7371",
+  "decision_date": "2017-10-19",
+  "title": "Aksa Şanlıurfa Doğal Gaz Dağıtım Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-10-21",
+  "resmi_gazete_number": "30217",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CSGwt4Yn02I=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CSGwt4Yn02I=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=idJ6oKKZgXk="
+  ],
+  "source_sha256": "4545d9d012711d202e48e373cec54a4804787846eab14927c2f841b2220e4950",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-10-19",
+  "law_text_complete": true
+}
