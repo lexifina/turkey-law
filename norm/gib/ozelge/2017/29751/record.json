@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[229-2016-211]-398668",
+  "source_id": 29751,
+  "date": "2017-10-19",
+  "title": "Konut yapı kooperatifinin belediyeden satın aldığı dairelerin üyelerine tesliminin Kurumlar Vergisi ve KDV karşısındaki durumu ile belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29751",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "a58bb8831be0f83cb9041f1adea4eb48e8443bc52bf1b37f261552231fc0c430",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
