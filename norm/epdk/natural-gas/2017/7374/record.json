@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7374",
+  "decision_date": "2017-10-19",
+  "title": "Enerya Karaman Gaz Dağıtım Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-10-21",
+  "resmi_gazete_number": "30217",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nqr6AvxLPOI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nqr6AvxLPOI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xe+kFET2duI="
+  ],
+  "source_sha256": "173a662d216fc602eac9b8b773c3a0c81b8b4777ebaa52a5b635ed84525474e7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-10-19",
+  "law_text_complete": true
+}
