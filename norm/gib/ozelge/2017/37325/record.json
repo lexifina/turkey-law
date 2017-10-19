@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-175.02[Ek:2-2017/1]-87249",
+  "source_id": 37325,
+  "date": "2017-10-19",
+  "title": "Turizm Yatırım Belgesi ve Bina İnşaat Harcı İstisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37325",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "430ab587be010367a21c75679fa808ded3e5e1b731667368ba5825c11283dec6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
