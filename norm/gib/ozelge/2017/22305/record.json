@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-125[49.01.25]-125707",
+  "source_id": 22305,
+  "date": "2017-10-20",
+  "title": "Kalkınma ajansından alınan hibe tutarına ait faizin ajans hesaplarına aktarılmasında vergilendirme hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22305",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "fc99e1fec9230a1383642f933246ffbd1db412aee09ad6873a3de10d0a55f850",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
