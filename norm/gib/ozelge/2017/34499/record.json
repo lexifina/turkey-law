@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "60938891-155[DVK:9-3]-23245",
+  "source_id": 34499,
+  "date": "2017-10-20",
+  "title": "Damga Vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34499",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "5edb9c23c49b0ffea56ff91bb746f7b43a28f3ebfdcef94683256117ddb3dc36",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
