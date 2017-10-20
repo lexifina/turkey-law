@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-180[29]-19831",
+  "source_id": 36833,
+  "date": "2017-10-20",
+  "title": "Koasürans şeklinde düzenlenen poliçeler kapsamındaki işlemlerde BSMV uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36833",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "29776476ef20f675ebe97050c6a1997348918ef5f0501c5864bfb2fcfd68f7c1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
