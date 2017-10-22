@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-10-22",
+      "22.10.2017",
+      "source original Gazette publication date"
+    ]
+  ],
+  "date_quote": "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30218",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-10-22",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ege Üniversitesi",
+  "issuer_slug": "ege-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ege-universitesi/2017/24007",
+  "published": "2017-10-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24007&MevzuatTertip=5",
+  "source_bytes": 22380,
+  "source_id": "8.5.24007",
+  "source_sha256": "e88db8090ef56dd0abf736f1fd1919776937892aa5ad95a2e411c1c4db67ccd4",
+  "text_status": "as-enacted",
+  "title": "EGE ÜNİVERSİTESİ ATATÜRK İLKELERİ VE İNKILÂP TARİHİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 191,
+  "word_count": 745
+}
