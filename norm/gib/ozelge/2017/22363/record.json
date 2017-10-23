@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130-407132",
+  "source_id": 22363,
+  "date": "2017-10-23",
+  "title": "Ön ödemeli kart sistemi ile internet üzerinden ödeme yapmayı ve anlaşmalı kuruluşlardan alışveriş yapmayı sağlayan Elektronik Para ve Ödeme Hiz. Kuruluşunun lehe aldığı paralar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/22363",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "381b010bea37b338e52d31f6c66992923717c42f4aa1c711fdfbe21bbf0264b6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
