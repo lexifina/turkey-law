@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "212",
+  "decision_date": "2017-10-24",
+  "source_id": 25187,
+  "chamber": "7",
+  "ilam_number": "21",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25187/",
+  "source_sha256": "3ba6486338b66c74aa5123902ac3d359c5a14083feafa97b9e35005c71cd788e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
