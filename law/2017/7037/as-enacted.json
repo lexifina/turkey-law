@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7037",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile İspanya Krallığı Arasında Savunma Sanayi Konusunda Gizlilik Dereceli Bilginin Korunması Hakkında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-10-25",
+  "gazette_issue": "30221",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171025-9.htm",
+  "source_sha256": "ed105e5d1ce9817d77b8f397451da03f6d69da6fa72ef6ceb0c1d9d957e5f5f3",
+  "text_sha256": "279c88b408044fdc33c8aa6a0aab5a57fb4c111ac1332c62fa7e08d41e3354f0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/10/25/30221-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/10/20171025-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
