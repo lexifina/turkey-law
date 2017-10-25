@@ -1,0 +1,140 @@
+25 Ekim 2017 ÇARŞAMBA
+Resmî Gazete
+Sayı : 30221
+YÖNETMELİK
+Aile ve Sosyal Politikalar Bakanlığından:
+ŞEHİT YAKINLARI
+VE GAZİLERE HUKUKİ YARDIM
+SAĞLANMASINA DAİR YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı; 26/9/2004
+tarihli ve 5237 sayılı Türk Ceza Kanununun Devletin Güvenliğine Karşı
+Suçlar, Anayasal Düzene ve Bu Düzenin İşleyişine Karşı Suçlar, Milli
+Savunmaya Karşı Suçlar bölümlerinde yer alan suçlara ilişkin olarak bu
+eylemlerin devamı niteliğindeki eylemlerin ortaya çıkarılması, etkilerinin
+azaltılması veya bertaraf edilmesinin sağlanmasında yardımcı, faydalı
+oldukları sırada hayatlarını kaybedenlerin yakınları veya yaralananlar
+tarafından açılan hukuk davaları veya bu suçlara ilişkin yürütülen ceza
+soruşturmaları veya kovuşturmalarında mağdur, müşteki ve katılan sıfatıyla
+temsiline ilişkin hukuki yardım sağlanması ile ilgili usul ve esasları
+düzenlemektir.
+(2) Bu Yönetmelik, sağlanacak hukuki yardımı ve bu
+kapsamda sunulan avukatlık hizmeti için yapılacak ödemelere ilişkin iş ve
+işlemleri kapsar.
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 3/6/2011
+tarihli ve 633 sayılı Aile ve Sosyal Politikalar Bakanlığının Teşkilat ve
+Görevleri Hakkında Kanun Hükmünde Kararnamenin 2 nci
+maddesinin birinci fıkrasının (e) bendi ile 14 üncü maddesinin birinci
+fıkrasının (b) bendine ve 28 inci maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Aile ve Sosyal Politikalar Bakanını,
+b) Bakanlık: Aile ve Sosyal Politikalar
+Bakanlığını,
+c) Başkanlık: Şehit Yakınları ve Gaziler Dairesi
+Başkanlığını,
+ç) Komisyon: Hukuki Yardım ve Değerlendirme
+Komisyonunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Avukatlık
+Ücretinin Ödenmesine İlişkin Usul ve Esaslar
+Avukatlık
+ücretinin ödenmesinde gözetilecek hususlar
+MADDE 4 – (1) Bu Yönetmelik hükümlerine göre hukuki yardım
+kapsamında avukatlık ücretinin ödenebilmesi için;
+a) 1 inci maddede belirtilen suçlardan zarar gören
+kişinin, Bakanlık tarafından bu Yönetmelik kapsamında hayatını kaybeden
+veya yaralanan olarak kabul edilmesi,
+b) 1 inci maddede sayılan suçlar nedeniyle yapılan
+soruşturmalarda veya açılan ceza davaları ile hukuk davalarında mağdur,
+müşteki, katılan veya davacı sıfatına haiz olması,
+c) Hayatını kaybedenlerin yakınlarının veya
+yaralananın avukata usulüne uygun şekilde vekâletname vermiş olması,
+ç) Komisyonca, hayatını kaybedenlerin yakınlarının
+veya yaralananın bu Yönetmelik kapsamında öngörülen hukuki yardımdan
+yararlanmasının uygun bulunması,
+gerekir.
+(2) Yönetmelik kapsamında sayılan suçlar nedeniyle
+yürütülen soruşturmalar ile ceza veya hukuk davalarında, 1 inci maddede
+sayılanlardan hayatını kaybedenin yasal mirasçılarına; yaralananların
+kendilerine hukuk ve ceza davaları için bir avukatlık ücreti ödenir.
+(3) Hayatını kaybedenlerin yakınları ile
+yaralananların mağdur, müşteki, katılan veya davacısı olduğu en çok üç
+dosyada hukuki yardım sağlanır. Bu durumda her bir dosya için görevli
+avukata ayrı ayrı ödeme yapılır.
+Müracaat
+usulü
+MADDE 5 – (1) Avukatlık ücretinin ödenebilmesi için ilgili
+avukat tarafından Başkanlığa aşağıdaki belgelerin ibraz edilmesi
+zorunludur:
+a) Ödemenin yapılacağı banka hesap bilgilerinin yer
+aldığı dilekçe,
+b) Alınan vekâletname örneği,
+c) Hukuk davaları veya ceza soruşturma ve
+kovuşturmalarında vekâletname ibraz edildiğini gösterir tevzi belgesi,
+tensip zaptı, ön inceleme tutanağı, duruşma tutanağı, ifade tutanağı,
+mahkeme kararı, Cumhuriyet savcısı veya ilgili mahkeme hâkiminin vereceği
+karar ya da belgelerden herhangi birinin onaylı örneği,
+ç) Serbest meslek makbuzu,
+d) Hayatını kaybedenler için mirasçılık belgesi
+veya nüfus aile tablosu,
+e) Komisyonca gerekli görülen diğer belgeler.
+Komisyon
+ve onay makamı
+MADDE 6 – (1) Bu Yönetmeliği uygulamak üzere Bakanlık
+bünyesinde Hukuki Yardım ve Değerlendirme Komisyonu kurulur. Komisyon;
+Başkanlığın bağlı bulunduğu Müsteşar Yardımcısının Başkanlığında, Strateji
+Geliştirme Başkanı, Şehit Yakınları ve Gaziler Dairesi Başkanı, Sosyal
+Yardımlar Genel Müdürü ve 1. Hukuk Müşavirinden oluşur.
+(2) Komisyonun sekretarya hizmetleri Başkanlık
+tarafından yürütülür.
+(3) Komisyonun değerlendirmesi neticesinde
+avukatlık ücretinin ödenip ödenmeyeceği ile ücret miktarına dair Komisyon
+teklifi, Bakan onayı ile kesinleşir.
+Hukuki
+yardım kapsamında sağlanacak avukatlık ücretinin miktarı
+MADDE 7 – (1) Avukatlık ücretinin tespitinde, Komisyonun
+karar verdiği tarihte yürürlükte bulunan Avukatlık Asgari Ücret Tarifesi
+esas alınır. Ancak, ödenecek miktar Tarifede soruşturma veya ilgili
+mahkemeye ilişkin belirlenen maktu vekâlet ücretinden az, dört katından
+fazla olamaz. Hukuk davaları için ödenecek miktar öngörülen nisbi vekâlet ücretini geçemez.
+(2) Vekâlet ücretinin miktarı; dosyanın kapsamı,
+sanık sayısı, muhtemel yargılama süresi ve duruşma sayısı gibi hususlar
+gözetilerek Komisyon tarafından belirlenir.
+(3) Avukatlık ücretinin yarısı vekâletname
+Cumhuriyet başsavcılığına veya mahkemeye ibraz edildiğinde, diğer yarısının
+1/2'si davanın yerel mahkemece karara bağlanmasına müteakip kalan miktarı
+ise kararın kesinleşmesine müteakip ödenir.
+(4) Vekâlet ilişkisinin sona ermesi nedeniyle
+Komisyon değerlendirmeleri ve yapılacak ödemelerde bu Yönetmelikte hüküm
+bulunmayan hallerde 19/3/1969 tarihli ve 1136
+sayılı Avukatlık Kanununun ilgili hükümleri esas alınır.
+Sorumluluk
+MADDE 8 – (1) Avukatlık hizmetinin 1136 sayılı Kanun
+hükümleri ile meslek ilkelerine uygun olarak yerine getirilmesi esastır.
+Aksi bir durumun Komisyon kararıyla tespiti halinde müteakip ödemeler
+yapılmayacağı gibi ödenen ücretin iadesi Komisyon kararı ile istenir.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Hukuki
+yardıma ilişkin geçiş hükümleri
+GEÇİCİ
+MADDE 1 – (1) Bu Yönetmeliğin
+yürürlüğe girdiği tarihten önce hayatını kaybedenlerin yakınlarının veya
+yaralananların mağdur, müşteki, katılan veya davacısı olduğu derdest
+soruşturmalar ile ceza ve hukuk davalarında vekâlet ilişkisinin ve bu
+Yönetmelikte belirlenen şartların bulunması kaydıyla Komisyon kararı
+uyarınca hukuki yardım çerçevesinde avukatlara ödeme yapılabilir.
+Yürürlük
+MADDE 9 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe
+girer.
+Yürütme
+MADDE 10
+– (1) Bu Yönetmelik hükümlerini
+Aile ve Sosyal Politikalar Bakanı yürütür.
