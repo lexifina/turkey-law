@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-120.01.02[37-2016-6]-96481",
+  "source_id": 21876,
+  "date": "2017-10-25",
+  "title": "Sanal gerçeklik gözlükleri ile eğitici-öğretici, eğlendirici kısa similasyon video izletisi faaliyeti nedeniyle basit usulden yararlanılıp yararlanılamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21876",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "981f73851001c1ae7330f825755a15ce6944e3337e7ada4e04438bee20c4557c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
