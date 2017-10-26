@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7402",
+  "decision_date": "2017-10-26",
+  "title": "Akmercangaz Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-10-31",
+  "resmi_gazete_number": "30226",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=whRz5RB5/7g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=whRz5RB5/7g=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DN0koc9OWlk="
+  ],
+  "source_sha256": "26a0fc952c287262c45f15e1c136c7dbf86db3ac9de70e47f1838be1ab8afeba",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-10-26",
+  "law_text_complete": true
+}
