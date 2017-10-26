@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2017/824",
+  "list_number": "824",
+  "decision_date": "2017-10-26",
+  "title": "İlçe kongrelerini yapmamış veya yeterli ilçede teşkilat kurmamış olan siyasi partilerin, il kongrelerini yapamayacaklarına ilişkin Yüksek Seçim Kurulunun 2017/824 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/6011/2017-824.pdf",
+  "source_sha256": "b212237d0ed5eb300f4d6a8784e026a6aeec15eb3b80c39cfca07bfde4d1df33",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2017-10-26",
+  "law_text_complete": false
+}
