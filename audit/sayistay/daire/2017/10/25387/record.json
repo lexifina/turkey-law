@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "273",
+  "decision_date": "2017-10-26",
+  "source_id": 25387,
+  "chamber": "5",
+  "ilam_number": "26",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25387/",
+  "source_sha256": "70ce81f85bd5fb070c8504eb1f1e8c104cf09a536697a3bdd5cf56ee515e0bac",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
