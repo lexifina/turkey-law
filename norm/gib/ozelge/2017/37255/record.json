@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "51421814-175-98811",
+  "source_id": 37255,
+  "date": "2017-10-27",
+  "title": "Elektrik ve Havagazı Tüketim Vergisi Muafiyeti Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37255",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "09111da199bc674e9ff4fd1b256ce4330343075b1bfa681a2b8f1187d13d1dab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
