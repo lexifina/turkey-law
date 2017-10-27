@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 26,
+  "legislative_year": 3,
+  "esas_no": "7/19074",
+  "submitted": "2017-10-27",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ali ATALAN",
+  "province": "Mardin",
+  "summary": "Tarsus T Tipi Kapalı Cezaevi'ne dair iddialara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-b4b5-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "e52e47c8481a308d180d8e48eeb6b6930f6195023547c2a0fd452dc3ff3c49fb",
+  "in_force": "2017-10-27",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
