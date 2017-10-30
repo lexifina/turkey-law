@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-140[63.01.65]-132274",
+  "source_id": 35613,
+  "date": "2017-10-30",
+  "title": "Üzerinde riskli yapı şerhi bulunan gayrimenkulün bağımsız bölümlerinin ihale sonucu açık artırma usulü ile satın alınmasında tapu tescil işlemlerinin 6306 sayılı kanun uyarınca harçtan müstesna olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35613",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "2f034e76dfa3d32904071d1b4f2c05ed8b69612235b5e44568c53ec774c533c5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
