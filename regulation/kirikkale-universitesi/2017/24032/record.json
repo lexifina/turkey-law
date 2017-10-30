@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-10-30",
+      "30.10.2017",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30225",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-10-30",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kırıkkale Üniversitesi",
+  "issuer_slug": "kirikkale-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kirikkale-universitesi/2017/24032",
+  "published": "2017-10-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24032&MevzuatTertip=5",
+  "source_bytes": 35461,
+  "source_id": "8.5.24032",
+  "source_sha256": "b05edb270e2491bce4665149dbdcaf7da3aeebae9a80a026b8543330c1678d89",
+  "text_status": "as-enacted",
+  "title": "KIRIKKALE ÜNİVERSİTESİ SPOR BİLİMLERİ UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 208,
+  "word_count": 1539
+}
