@@ -1,0 +1,29 @@
+{
+  "number": "243",
+  "number_as_published": "2017/243",
+  "year": 2017,
+  "month": 10,
+  "title": "Basın Yayın ve Halkla İlişkiler Müdürlüğü Bütçesinden 889.017,60.TL’nin Bilgi İşlem Müdürlüğüne, 100.000,00.TL’nin ise Halkla İlişkiler Müdürlüğünün yeni açılacak bütçe tertiplerine aktarılması, 5393 Sayılı Belediye Kanununun 18.maddesinin (b) fıkrası ile Mahalli İdareler Bütçe ve Muhasebe Yönetmeliğinin 36.maddesinin 2.fıkrasına istinaden oybirliği ile kabul edildi.",
+  "decision_date": null,
+  "index_date": "2017-10-31",
+  "date_precision": "month",
+  "period": "Ekim 2017",
+  "source": "https://www.haliliye.bel.tr/icerik/1664/39/ekim-2017",
+  "official_page": "https://www.haliliye.bel.tr/icerik/1664/39/ekim-2017",
+  "official_document": null,
+  "source_sha256": "075f062bc9dceba33bbf682da18353d796352922587b411683114a272c100d61",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2017-10-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ekim 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "EKİM 2017",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
