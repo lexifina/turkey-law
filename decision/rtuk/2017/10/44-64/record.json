@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2017/44",
+  "meeting_date": "2017-10-31",
+  "meeting_date_as_published": "31.10.2017",
+  "decision_no": "64",
+  "source_id": 9839,
+  "title": "RTÜK kararı 2017/44-64",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/9839",
+  "source_sha256": "926cfb425cbed64242830ec17ad7a370c76271d3385b2f736bc2dfcafc321f84",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (2 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
