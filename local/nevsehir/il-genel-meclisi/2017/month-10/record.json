@@ -1,0 +1,29 @@
+{
+  "number": "month-10",
+  "year": 2017,
+  "month": 10,
+  "title": "2017 EKİM AYI MECLİS KARARLARI (2017-10)",
+  "decision_date": null,
+  "index_date": "2017-10-31",
+  "date_precision": "month",
+  "period": "Ekim 2017",
+  "source": "https://www.nevsehirozelidare.gov.tr/2017-ekim-ayi-meclis-kararlari-2017-10",
+  "official_page": "https://www.nevsehirozelidare.gov.tr/2017-ekim-ayi-meclis-kararlari-2017-10",
+  "official_document": "https://www.nevsehirozelidare.gov.tr/2017-ekim-ayi-meclis-kararlari-2017-10",
+  "source_sha256": "54db8ae258a0c2d11af36ee681231627bbe858c6a88ed1ec4d1bf2baddd43229",
+  "issuer": "Nevşehir İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2017-10-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ekim 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2017 EKİM AYI MECLİS KARARLARI (2017-10)",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
