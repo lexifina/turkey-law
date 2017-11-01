@@ -1,0 +1,25 @@
+{
+  "number": "meeting-11-01-4",
+  "number_as_published": "meeting-11-01-4",
+  "year": 2017,
+  "title": "01 KASIM 2017 TRAFO YERİ",
+  "decision_date": "2017-11-01",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=26",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/QLxEv3BlytVnaoAnsn.docx",
+  "source_sha256": "b858b2fd72d21d3412c8035f8bc2d03f3988c993da02cd7155f5993f5e52f437",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-11-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01 KASIM 2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01 KASIM 2017 TRAFO YERİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "bb2485f8bd0d00f.docx",
+  "list_date": "2017-11-01"
+}
