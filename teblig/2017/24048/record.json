@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24048",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO: 26)",
+  "number": "24048",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2017/24048",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24048&MevzuatTertip=5",
+  "source_sha256": "fb1c52ffaaf118baae9992a9958cd2fd1440e21580b9ae273c8951df91b39efd",
+  "source_bytes": 26711,
+  "published": "2017-11-02",
+  "gazette": "30228",
+  "in_force": "2017-11-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.11.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 390,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24048-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
