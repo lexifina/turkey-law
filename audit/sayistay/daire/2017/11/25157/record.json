@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "493",
+  "decision_date": "2017-11-02",
+  "source_id": 25157,
+  "chamber": "6",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2011,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25157/",
+  "source_sha256": "24b791ebc2d16028b3a6d818c28cccac1ae055cf21bb1491f92c8b61e839dc12",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
