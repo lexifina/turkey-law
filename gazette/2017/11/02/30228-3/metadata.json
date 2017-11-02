@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-11-02",
+  "issue": "30228",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "ANA STATÜ",
+  "title": "Türkiye Hava Sporları Federasyonu Ana Statüsü",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171102-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171102.htm",
+  "index_sha256": "2d5746d8b8fb29a9894de1827b2aca3015bebbe6676c3339126fa36460b8c2b8",
+  "index_header": "2 Kasım 2017 ... 30228 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171102.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
