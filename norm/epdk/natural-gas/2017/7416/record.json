@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7416",
+  "decision_date": "2017-11-02",
+  "title": "Aksa Karadeniz Doğal Gaz Dağıtım Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-11-04",
+  "resmi_gazete_number": "30230",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jaNrJpdHQRE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jaNrJpdHQRE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ip5sLOzb8ZA="
+  ],
+  "source_sha256": "8487f341cc4152a21bf6f259de28b12809b09686073845625edf27f04ce55a7e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-11-02",
+  "law_text_complete": true
+}
