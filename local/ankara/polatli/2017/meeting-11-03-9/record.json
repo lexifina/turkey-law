@@ -1,0 +1,25 @@
+{
+  "number": "meeting-11-03-9",
+  "number_as_published": "meeting-11-03-9",
+  "year": 2017,
+  "title": "03 kasım 2017 HAZIR OLAMAYAN KONULAR-KAPANIŞ",
+  "decision_date": "2017-11-03",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=25",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/Lr5pmZVR6B9MaJgdfh.docx",
+  "source_sha256": "1fbd4bb234f23eeb0cb2462b459d5424b5671f29ead136c7ddcb6d3d6a74759c",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-11-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03 KASIM 2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "03 kasım 2017 HAZIR OLAMAYAN KONULAR-KAPANIŞ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "7c3d3b5054d8595.docx",
+  "list_date": "2017-11-03"
+}
