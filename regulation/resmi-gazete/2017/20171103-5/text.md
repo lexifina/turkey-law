@@ -1,0 +1,377 @@
+3 Kasım 2017 CUMA
+Resmî Gazete
+Sayı : 30229
+YÖNETMELİK
+Türk Akreditasyon Kurumundan:
+UYGUNLUK
+DEĞERLENDİRME KURULUŞLARININ
+AKREDİTASYONU HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı,
+uygunluk değerlendirme kuruluşlarının Türk Akreditasyon Kurumu (TÜRKAK)
+tarafından akredite edilmelerini; akreditasyon ve uygunluk değerlendirme
+işlemlerinin yeterli ve güvenilir olarak yürütülmesini temin etmek amacıyla
+uyulması gereken usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, TÜRKAK ve TÜRKAK tarafından
+akredite edilen uygunluk değerlendirme kuruluşlarının görev, yetki ve
+sorumlulukları ile akreditasyon sürecinde uyulması gereken usul ve esasları
+kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik, 27/10/1999 tarihli ve 4457 sayılı Türk Akreditasyon
+Kurumu Kuruluş ve Görevleri Hakkında Kanunun 23 üncü maddesine dayanılarak
+hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Akreditasyon: TÜRKAK tarafından; laboratuvar, muayene, belgelendirme kuruluşu ve diğer
+uygunluk değerlendirme kuruluşlarının ulusal ve uluslararası kabul görmüş
+teknik kriterlere göre yeterliliğinin
+değerlendirilmesi, onaylanması ve düzenli aralıklarla denetlenmesini,
+b) Akredite etmek: İlgili mevzuat çerçevesinde
+ihtiyari veya zorunlu alanlarda, özel veya kamu laboratuvarı,
+muayene, belgelendirme kuruluşu ve diğer uygunluk değerlendirme
+kuruluşlarının ulusal ve uluslararası kabul görmüş teknik kriterlere göre faaliyet gösterdiğinin TÜRKAK tarafından
+değerlendirilerek onaylanmasını,
+c) Denetim: Bir uygunluk değerlendirme kuruluşunun
+faaliyetlerinin, sistemlerinin ve personelinin tanımlanmış düzenlemelere ve
+standartlara uygun olup olmadığının belirlenmesini,
+ç) EA: Avrupa Akreditasyon Birliğini,
+d) IAF: Uluslararası Akreditasyon Forumunu,
+e) ILAC: Uluslararası Laboratuvar
+Akreditasyon Birliğini,
+f) Standart: Üzerinde mutabakat sağlanmış olan,
+kabul edilmiş bir kuruluş tarafından onaylanmış, mevcut şartlar altında en
+uygun seviyede bir düzen kurulmasını amaçlayan, ortak ve tekrar eden
+kullanımlar için faaliyetler ve sonuçlarıyla ilgili kurallar, kılavuzlar
+veya karakteristikler ihtiva eden dokümanı,
+g) Kurum: Türk Akreditasyon Kurumunu (TÜRKAK),
+ğ) Uygunluk Değerlendirmesi: Bir ürün, proses, hizmet, sistem, kişi veya kuruluşa ilişkin
+belirli şartların yerine getirilip getirilmediğini gösteren süreci,
+h) Uygunluk Değerlendirme Kuruluşu (UDK):
+Kalibrasyon, deney, belgelendirme, muayene, doğrulama, referans malzeme
+üretimi ve yeterlilik deneyi sağlama dâhil olmak üzere uygunluk
+değerlendirme faaliyeti gerçekleştiren kuruluşu,
+ifade eder.
+İKİNCİ BÖLÜM
+TÜRKAK’ın Görev ve
+Yetkileri ile Akreditasyonun Usul ve Esasları
+TÜRKAK’ın görev, yetki ve sorumluluğu
+MADDE 5 – (1) TÜRKAK, aşağıda belirtilen kuruluşlar da dâhil
+olmak üzere uygunluk değerlendirme faaliyeti yürüten kuruluşları akredite
+eder:
+a) Deney laboratuvarları.
+b) Tıbbi laboratuvarlar.
+c) Kalibrasyon laboratuvarları.
+ç) Muayene kuruluşları.
+d) Sistem belgelendirme kuruluşları.
+e) Ürün/Hizmet belgelendirme kuruluşları.
+f) Personel belgelendirme kuruluşları.
+g)Yeterlilik deneyi sağlayıcıları.
+ğ) Referans malzeme üreten kuruluşlar.
+h) Doğrulayıcı kuruluşlar.
+(2) Uygunluk değerlendirme kuruluşlarının TÜRKAK
+tarafından akredite edilmesi için;
+a) İlgili dokümanlarda belirlenmiş temel ve özel
+şartlara uygunluk sağladığının, yapılan denetimlerle tespit edilmesi,
+b) Akreditasyon işlemleri için tespit edilen ücret
+ve giderlerin ödenmesi,
+c) Akreditasyon sisteminin talep ettiği diğer
+tedbirlerin alınması,
+ç) Akreditasyon şartlarına uygunluğun Kurumun
+ilgili karar organınca onaylanması,
+gerekir.
+(3) TÜRKAK akreditasyon hizmetlerinin
+yürütülmesinde;
+a) Uluslararası standartlara ve karşılıklı veya çok
+taraflı tanıma anlaşmalarıyla bağlı olduğu uluslararası doküman ve prosedürlere göre verdiği akreditasyon hizmeti için
+gerekli usulleri geliştirir ve uygular,
+b) Akreditasyon faaliyetlerinin güvenilirliğini ve
+saygınlığını sağlamak için, gerek duyduğu tedbirleri alır ve uygulamaya
+koyar,
+c) UDK’ların
+akreditasyonu konusunda ihtiyaç duyduğunda teknik uzman ve bilirkişilerden
+faydalanır.
+(4) TÜRKAK, akreditasyon faaliyetleri sırasında
+elde ettiği bilgilerin gizliliğini sağlar ve UDK ile ilgili bilgi, belge ve
+dokümanları, hukuki gereklilikler ile imzalanan tanıma anlaşmalarının
+gerektirdiği durumlar dışında UDK’nın izni
+olmadan üçüncü şahıslara veremez. TÜRKAK personeli ile görevlendirilen
+denetçiler ve teknik uzmanlar, UDK’ya ait bilgi,
+belge ve dokümanları gizlilik ve güvenlik kurallarına uygun olarak muhafaza
+etmekle yükümlüdür.
+(5) Akredite edilen bir uygunluk değerlendirme
+kuruluşunun müşterisi ile yaptığı sözleşme nedeniyle TÜRKAK sorumlu
+tutulamaz ve sözleşmedeki sorumluluklar TÜRKAK’a
+aktarılamaz.
+(6) TÜRKAK, UDK’ların
+akreditasyonu, akreditasyonun askıya alınması, geri çekilmesi ve kapsam
+değişikliği ile ilgili güncel bilgileri web sitesinde yayımlar; ayrıca
+onaylanmış kuruluşlar veya kamu otoritelerince yetkilendirilen kuruluşlara
+yönelik askıya alma veya geri çekme kararlarını, ilgili kurum veya
+kuruluşlara bildirir.
+İlgili
+dokümanlar
+MADDE 6 –
+(1) TÜRKAK ve TÜRKAK tarafından
+akredite edilen uygunluk değerlendirme kuruluşları faaliyetlerinde, tabi
+oldukları ulusal mevzuat hükümlerini, uluslararası ve ulusal standartları,
+rehberleri veya diğer normatif dokümanları uygular. Uygulanacak
+standartlar, uyulması gereken diğer dokümanlar ve gerekli durumlarda ilave
+kriterler TÜRKAK tarafından belirlenip tebliğ, prosedür,
+rehber ve diğer dokümanlarla ilgililere duyurulur.
+Akredite
+edilen uygunluk değerlendirme kuruluşlarının uyması gereken kurallar
+MADDE 7 – (1) Akredite edilen bir uygunluk değerlendirme
+kuruluşu müşterilerine, akredite edildiği kapsamlarda, belirlenmiş
+akreditasyon esaslarına ve akreditasyon sözleşmesindeki şartlara uygun
+hizmet vermekle yükümlüdür. Uluslararası standartlara ve akreditasyon
+sözleşmesine aykırı davranılması durumunda ilgili dokümanlardaki hükümlere
+göre hareket edilir.
+(2) Akredite edilen kuruluş;
+a) Akreditasyon sözleşmesindeki şartlara uygun
+şekilde faaliyet gösterir,
+b) Sadece, akreditasyon kapsamında belirtilen
+konular için akredite olduğunu beyan eder,
+c) Vermekte olduğu uygunluk değerlendirme
+hizmetlerinin, akredite edilen kapsam ile akreditasyon kapsamı dışında
+kalan faaliyet konuları arasında müşterilerin rahatça ayrım yapmasına
+yardımcı olacak şekilde prosedürler oluşturur ve
+uygular,
+ç) Akreditasyonla ilgili olarak Hizmet Ücretleri
+Rehberinde belirtilen ve fatura edilen ücretleri TÜRKAK’a
+zamanında öder,
+d) Verilen akreditasyon belgesi ve markasını, yanıltıcı
+ve belirlenen kurallara aykırı şekilde kullanamaz, TÜRKAK’ın
+bu konuda yapacağı ikaz ve talepleri dikkate alıp düzeltici işlem
+gerçekleştirir,
+e) Akreditasyonun askıya alınması veya geri
+çekilmesi halinde, akredite edilmişlik halini gösteren materyalin
+kullanımını derhal durdurur ve akredite kuruluş statüsünü belirten
+reklamlara son verir,
+f) Reklam, promosyon
+çalışmaları ve kamuoyunu bilgilendirme faaliyetlerinde, ilgili ulusal ve
+uluslararası dokümanlarda belirtilen şartlara uyar, bu konuda TÜRKAK’tan gelecek düzeltme talebi ve uyarıların
+gereğini yerine getirir,
+g) Akredite edildiği uygunluk değerlendirme
+faaliyetlerini kapsayan yeterli bir mesleki sorumluluk sigortası yaptırır
+(ancak kamu kuruluşlarının güvence beyanında bulunması yeterlidir),
+ğ) Akreditasyonu geri çekilen veya kapsamı
+daraltılan UDK, akreditasyonunun geri çekilmesi/daraltılması ve bunun
+sonuçları hakkında müşterilerini bilgilendirir. Bu doğrultuda yapmış olduğu
+faaliyetlerin kayıtlarını TÜRKAK’a sunar,
+h) TÜRKAK tarafından bildirilen alanlarda uygunluk
+değerlendirme faaliyetlerine ilişkin işlemleri görüntülü kayda alma, araç
+takip sistemi ile izleme ve diğer elektronik kayıt sistemleri ile kayıt
+altına alır,
+ı) TÜRKAK tarafından oluşturulan web
+uygulamalarına, uygunluk değerlendirme faaliyetlerine ilişkin verileri
+girer ve benzeri diğer yükümlülükleri yerine getirir.
+(3) UDK kendi akreditasyonuna ilişkin, aşağıdaki
+değişiklikleri akreditasyon sözleşmesinde belirtilen süreler içinde TÜRKAK’a bildirir:
+a) Yasal, ticari veya organizasyonel
+statüsü,
+b) Organizasyon yapısı, üst yönetim ve yetkili
+personel,
+c) Ana politikalar ve prosedürler,
+ç) Yerleşim durumu ve kaynaklar, personel ve
+teçhizat,
+d) Akreditasyon kapsamındaki faaliyetleri ile
+akreditasyon gerekliliklerini yerine getirme kabiliyetini etkileyebilecek
+diğer hususlar,
+e) Yurtdışı faaliyetlerine ilişkin kapsam,
+temsilcilik, adres ve kişilerle ilgili değişiklikler.
+Akreditasyon
+ile ilgili markaların kullanımı
+MADDE 8 –
+(1) Akredite edilen uygunluk
+değerlendirme kuruluşları; akreditasyon kapsamının belirtildiği sertifika
+ile birlikte, akreditasyon sözleşmesinde tanımlanan TÜRKAK akreditasyon
+markası ile ILAC/IAF markalarını kullanmaya hak kazanırlar. TÜRKAK
+akreditasyon markası veya ILAC/IAF markalarının kullanımı ile ilgili şartlar
+marka kullanım rehberinde ilan edilir.
+Akreditasyonun
+askıya alınması
+MADDE 9 – (1) TÜRKAK aşağıdaki hallerde akreditasyonu askıya
+alır;
+a) UDK’nın,
+akreditasyonun askıya alınması yönündeki talebi,
+b) UDK’nın yeterliliğinin
+ortadan kalktığının tespit edilmesi,
+c) UDK’nın yapısının veya
+faaliyetlerinin ilgili akreditasyon standartlarındaki tarafsızlık
+şartlarını ihlal ettiğinin tespit edilmesi,
+ç) UDK’nın akreditasyon
+kapsamındaki faaliyetlerini etkileyen personel, yerleşim, teçhizat ve
+yönetim değişikliklerinin TÜRKAK tarafından potansiyel risk olarak
+değerlendirilmesi,
+d) UDK’nın, 7 nci maddenin üçüncü fıkrasında yer alan değişiklikleri
+akreditasyon sözleşmesinde belirtilen sürede TÜRKAK’a
+bildirmemesi,
+e) Denetimler sırasında tespit edilen uygunsuzluklarla
+ilgili düzeltici faaliyet kayıtlarının ilgili TÜRKAK dokümanlarında
+belirtilen süre içerisinde TÜRKAK’a sunulmaması
+veya sunulan düzeltici faaliyetlerin yeterli bulunmaması,
+f) Mücbir sebep veya zorunluluk hali olmaksızın
+planlanan gözetim denetiminin kuruluş tarafından reddedilmesi,
+g) UDK’nın, TÜRKAK ile
+imzaladığı sözleşmedeki yükümlülüklerini yerine getirmemesi,
+ğ) TÜRKAK tarafından duyurulan akreditasyonla
+ilgili yeni şartlara ve kriterlere verilen süre
+içinde UDK’nın uygunluk sağlayamaması,
+h) UDK’nın mali
+yükümlülüklerini yerine getirmemesi,
+ı) UDK’nın akreditasyon
+sertifikası ve akreditasyon markasını yanıltıcı şekilde kullanması,
+i) Denetim esnasında UDK veya UDK çalışanlarından
+kaynaklanan sebeplerden dolayı denetimin yarıda kesilmesi,
+j) Akreditasyona ve uygunluk değerlendirme
+faaliyetlerine olan güveni sarsıcı faaliyetleri son 3 yıl içinde, objektif
+delillerle kanıtlanmış kişilerin, UDK’da
+yönetici, karar verici, denetçi, değerlendirici, sınav yapıcı, belge düzenleyici,
+belge, sertifika veya rapor onaylayıcı olarak görevlendirilmesi,
+k) Zimmet, irtikâp, rüşvet, hırsızlık,
+dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflâs ile kaçakçılık
+suçları, ihaleye ve edimin ifasına fesat karıştırma suçlarından biriyle
+mahkûm olan kişinin UDK’nın ortağı olması veya
+yönetici olarak görev alması,
+l) UDK’nın akreditasyon
+çevrimi içerisinde, akredite olduğu kapsamlarda ilgili rehberlerde
+belirtilen gerekli asgari uygulamayı gösterememesi, tanık denetimleri
+organize edememesi veya akredite olduğu uygunluk değerlendirme faaliyetini
+ilgili dokümanlarda belirlenen sürede gerçekleştirmemiş olması,
+m) UDK’nın, TÜRKAK’ın akreditasyon faaliyetlerinde dayanak olarak
+kullandığı ISO/IEC 17025, ISO 15189 ve benzeri standartlar kapsamında
+belgelendirme, akreditasyon, tanınma veya yeterlilik verilmesi gibi
+faaliyetlerde bulunması.
+(2) Akreditasyonun askıya alınması ile ilgili
+işlemler, Uygunluk Değerlendirme Kuruluşları İçin Akreditasyonun Askıya
+Alınması, Geri Çekilmesi ve Kapsam Değişikliğine İlişkin Prosedüre göre
+yürütülür.
+(3) Akredite edilen kuruluş akreditasyon belgesinin
+askıya alınması kararına, Şikâyet ve İtiraz Rehberine uygun şekilde
+itirazda bulunabilir.
+Düzeltici
+faaliyetler
+MADDE 10
+– (1) UDK, denetim sırasında
+tespit edilen uygunsuzluklarla ilgili yapacağı düzeltici faaliyetleri ve
+süresini TÜRKAK’a bildirir. Düzeltici faaliyetler
+ile ilgili esas ve usuller Kurum tarafından yayımlanan rehber dokümanda
+belirtilir.
+(2) Akreditasyonu askıya alınan UDK, askıya alma
+gerekçeleri ile ilgili işlemlerini ve düzeltici faaliyetlerini TÜRKAK’a bildirir. UDK’lar
+akreditasyonlarının askıya alınma sebepleri ile ilgili düzeltici
+faaliyetleri azami altı ay içerisinde tamamlar. Askıya alma sebebi ortadan
+kalkan veya düzeltici faaliyeti uygun bulunan kuruluşların akreditasyonu
+devam ettirilir. Ancak düzeltici faaliyetleri yeterli bulunmayan UDK’nın akreditasyon kapsamı daraltılır veya
+akreditasyonu geri çekilir.
+Akreditasyonun
+geri çekilmesi ve kapsamının daraltılması
+MADDE 11– (1) TÜRKAK tarafından;
+a) UDK’nın akreditasyonun
+geri çekilmesine yönelik talebi,
+b) Akreditasyonun askıya alınmasını gerektiren
+sebeplerin süresi içerisinde giderilememesi veya düzeltici faaliyetlerin
+yeterli bulunmaması,
+c) UDK’nın uygunluk
+değerlendirme faaliyetlerinde gerçek dışı kayıt, rapor, sertifika ve
+benzeri belgeler düzenlediğinin veya oluşturduğunun, ağır veya kasıtlı
+ihmalinin tespit edilmesi,
+ç) UDK’nın TÜRKAK’ı kasıtlı olarak yanlış bilgilendirmesi veya TÜRKAK’a gerçek dışı kayıt veya delil sunması,
+d) UDK’nın,
+akreditasyonun veya TÜRKAK’ın saygınlığını
+azaltıcı ve itibarını zedeleyici beyan ve davranışlarda bulunması,
+e) UDK’nın uygunluk
+değerlendirme faaliyetlerindeki yeterliliğini veya tarafsızlığını
+kaybetmesi nedeniyle akreditasyona olan güvenin ortadan kalkması,
+f) UDK’nın kasıtlı olarak
+akreditasyon kurallarını ihlal etmesi,
+g) UDK’nın akredite
+olmadığı kapsamlarda veya alanlarda kasten TÜRKAK akreditasyon markası veya
+ILAC/IAF markasını kullanması,
+durumlarında UDK’nın akreditasyonu
+geri çekilir.
+(2) Birinci fıkranın (a) ve (b) bentlerinde
+belirtilen durumlar sadece belirli bir faaliyet alanına yönelik ise söz
+konusu alanlar için akreditasyon kapsamının daraltılması işlemi uygulanır.
+(3) Güvenlik sorunları, doğal afet ve benzeri
+durumlarda; belirli bir sektörde, ülkede, bölgede akreditasyona olan güveni
+zafiyete uğratacak şartların oluşması durumunda; uluslararası akreditasyon
+kurallarındaki ve politikalarındaki değişikliklerden veya EA, IAF, ILAC’ın yaptırımlarından kaynaklanan gereklilikler
+dolayısıyla akreditasyon sözleşmeleri TÜRKAK tarafından tek taraflı
+feshedilebilir ve UDK’ların akreditasyonları geri
+çekilebilir.
+(4) Akreditasyon kapsamı daraltılan veya
+akreditasyonu geri çekilen belgelendirme kuruluşu, bu kapsamlarda
+belgelendirdiği müşterilerine durumu taahhütlü mektup, tebligat ya da
+e-tebligat ile bildirir. Ayrıca, akreditasyonunun geri çekildiği durumlarda
+akreditasyon kapsamında vermiş olduğu sertifikaları da geri çeker. Bu
+doğrultuda yapmış olduğu faaliyetlerin kayıtlarını TÜRKAK’a
+sunar. Diğer taraftan, UDK akreditasyonunun geri çekilmesi durumunda daha
+önce belgelendirdiği müşterilerinin haklarını korumak için gerekli
+tedbirleri alır.
+(5) Birinci fıkranın (c) ve (ç) bentlerinde
+belirtilen güven sarsıcı faaliyetlerde bulunan ve sorumluluğu objektif delillerle
+tespit edilen kişiler, 3 (üç) yıl boyunca TÜRKAK’tan
+akredite kuruluşların uygunluk değerlendirme faaliyetlerinde görev alamaz,
+ortağı veya yöneticisi olamaz. Bu hükme aykırılık halinde, UDK’nın akreditasyonu askıya alınır, askı süresi
+sonunda aynı durumun devam etmesi halinde kuruluşun akreditasyonu geri
+çekilir.
+(6) Akredite edilen kuruluş, akreditasyon
+belgesinin geri çekilmesi kararına, Şikâyet ve İtiraz Rehberine göre
+itirazda bulunabilir.
+Şikâyet
+ve itirazlar
+MADDE 12
+– (1) Uygunluk değerlendirme
+kuruluşları, akreditasyon hizmetleri ve TÜRKAK’ın
+faaliyetleri ile ilgili konularda şikâyet ve itiraz hakkına sahiptir.
+Ayrıca; akredite olmuş uygunluk değerlendirme kuruluşlarının verdiği
+hizmetle ilgili olarak özel ve tüzel kişiler de TÜRKAK’a
+şikâyette bulunabilirler.
+(2) Şikâyet ve itirazlar, Şikâyet ve İtiraz
+Rehberinde belirlenen usule göre işleme alınır, değerlendirilir, gerekli
+inceleme ve araştırma yapıldıktan sonra sonucu ilgili taraflara bildirilir.
+Şikâyet ve itirazların değerlendirilmesinde, akreditasyon sisteminde kabul
+edilen usul ve kurallara uygun, TÜRKAK’ın
+tarafsızlığı ve bağımsızlığını koruyacak şekilde hareket edilir.
+(3) Şikâyet veya itirazın, yapılan işlemler
+sonucunda devam etmesi veya çözümünün hukuki bir değerlendirme gerektirmesi
+durumunda konu, Şikâyet ve İtirazları Değerlendirme Kuruluna
+gönderilebilir. Alınan karar, ilgililere bildirilir. Şikâyet ve İtirazları
+Değerlendirme Kurulunun yapısı ve çalışma usulü TÜRKAK Yönetim Kurulu
+tarafından belirlenir.
+Akreditasyon
+ile ilgili kuralların duyurulması ve kurallarda değişiklik yapılması
+MADDE 13
+– (1) TÜRKAK’ın
+geçerli dokümanları (tebliğ, prosedür, rehber ve
+talimatları) Kurumun resmi internet adresinde, TÜRKAK dokümanları kısmında
+yayımlanarak ilgililere duyurulur.
+(2) Akreditasyon kuralları, şartları veya
+işlemlerinde değişiklik yapılması gerektiğinde, değişikliklerden etkilenecek
+ilgili kuruluşların görüşleri alınır.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 14
+– (1) 11/2/2012
+tarihli ve 28201 sayılı Resmî Gazete’de yayımlanan Uygunluk Değerlendirme
+Kuruluşlarının Akreditasyonu Hakkında Yönetmelik yürürlükten
+kaldırılmıştır.
+Yürürlük
+MADDE 15
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 16
+– (1) Bu Yönetmelik hükümlerini
+TÜRKAK Yönetim Kurulu yürütür.
