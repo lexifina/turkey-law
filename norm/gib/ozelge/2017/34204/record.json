@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-135-424313",
+  "source_id": 34204,
+  "date": "2017-11-03",
+  "title": "Sürücüsüz araç kiralama hizmetinde kullanılan araçların istisna kapsamında yenilenmek istenmesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34204",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "c8d7adb9aa70fec2dd1724ca7a16574289075cee70cec4dcb836d09dfb0cdedd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
