@@ -1,2 +1,3 @@
 Vekiller
-MADDE 57- (1) Bir işleme esas olmak üzere üçüncü kişilerin beyanda bulunabilmeleri ancak özel temsil yetkisini kapsayan noterden onaylı vekillik belgesi ile mümkündür.
+MADDE 57- (Değişik: 19/10/2017-7039/17 md.)
+(1) Nüfus idarelerindeki işlemlere esas olmak üzere üçüncü kişilerin beyanda bulunabilmeleri ancak vekâletname ibrazı ile mümkündür.

@@ -1,5 +1,4 @@
-Atik veya işlemden kaldırılmış kütükler
+Atik veya eski aile kütükleri[25]
 MADDE 62- (1) İşlemden kaldırılmış olan atik veya eski aile kütükleri üzerinde herhangi bir işlem yapılamaz, kayıt düşülemez.
-9750
-(2) Bu kütükler nüfus olaylarına ait dayanak belgelerinin bulunamaması halinde kişinin adı, soyadı, baba adı, ana adı, doğum tarihi veya doğum yerindeki yanlışlıkların düzeltilmesi ya da eksikliklerin tamamlanması ya da kişinin kimliği ve aile bağlarının tespit edilmesi dışında herhangi bir hukukî işleme esas alınmaz.
-(3) Bu kütüklerden çıkartılan kayıt örneklerine atik veya işlemden kaldırılmış kütüklerden çıkarıldığına dair açıklama yapılır.
+(2) (Değişik: 19/10/2017-7039/21 md.) Atik defter kayıtlarına dayanılarak idarece düzeltme yapılamaz. Bu defterlerden çıkartılan kayıtlara “Kişinin kimliği ve aile bağlarının mahkemelerce tespit edilmesi amacı dışında herhangi bir hukukî işleme esas alınamaz.” açıklaması yapılır.
+(3) (Değişik: 19/10/2017-7039/21 md.) Nüfus olaylarına ait dayanak belgelerinin bulunamaması hâlinde kişinin adı, soyadı, baba adı, ana adı, doğum tarihi veya doğum yerine ilişkin maddi hataların düzeltilmesi ya da eksikliklerin tamamlanması, işlemden kaldırılmış eski aile kütüklerine istinaden yapılır. Bu defterlerden çıkartılan kayıtlara ise “İşbu kayıtlar güncel kayıtların yerine esas alınamaz.” açıklaması yapılır.

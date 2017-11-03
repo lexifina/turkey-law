@@ -1,7 +1,3 @@
-Bildirim süresi ve güncelliği
-MADDE 51- (1) 50 nci maddede sayılan adres beyanı ile yükümlü kişi ve kurumlar yerleşim yeri adreslerine ilişkin değişiklikleri yirmi iş günü içinde ilçe nüfus müdürlüklerine bildirmekle yükümlüdür. Ancak yerleşim yeri adresine dayalı hizmet almak üzere herhangi bir resmî kuruma yapılan müracaatlarda adres değişikliğine ilişkin beyan, ilgilisi tarafından adres beyan formuna işlenerek nüfus müdürlüğüne gönderilmek üzere ilgili kuruma teslim edilebilir. Bu beyan formları ilgili kurumlarca en geç on iş günü içinde kurumun bulunduğu yerin ilçe nüfus müdürlüğüne gönderilir.
-9748
-(2) Adres bileşenlerinde meydana gelen değişiklikler hususunda kişilerin bildirimde bulunma sorumluluğu yoktur. Bu değişiklikler belediyelerce, belediye sınırları dışında kalan yerlerde ise il özel idarelerince en geç değişikliği takip eden on iş günü içinde, elektronik ortamda ulusal adres veri tabanına işlenir.
-(3) Müstakil konut sahipleri ile apartman ve site yöneticileri, lojman idareleri sorumluları; sorumluluk alanlarındaki yerleşim yeri adresine ilişkin değişiklikleri, yirmi işgünü içinde, muhtarlar ve 50 nci maddede sayılan beyan yükümlülüğü olanlarla işbirliği içinde takip etmek ve ortaya çıkan farklılıkları muhtarlara bildirmekle yükümlüdür.
-(4) Yerleşim yeri adresi değişikliği bildirimlerine ilişkin listeler nüfus müdürlüklerince ilgili muhtarlıklara gönderilir.
-(5) Muhtarlar, bu Kanun uyarınca nüfus müdürlüklerince kendilerine iletilen yerleşim yeri adresi değişikliği bildirim listelerini incelemek, mahallindeki yerleşim yeri adresi değişiklikleri ile karşılaştırmak ve varsa bildirilmemiş olan değişiklikleri her ayın son haftası içinde bağlı bulunulan ilçenin nüfus müdürlüğüne bildirmekle yükümlüdür.
+Adrese dayalı hizmet sunan kuruluşların yükümlülüğü[20]
+MADDE 51- (Değişik: 19/10/2017-7039/14 md.)
+(1) Kuruluşlarca, adres değişikliği beyan formları elektronik ortamda Genel Müdürlüğe veya kâğıt ortamında en geç on işgünü içinde kuruluşun bulunduğu yerin nüfus müdürlüğüne gönderilir.

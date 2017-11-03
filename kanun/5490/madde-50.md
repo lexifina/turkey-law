@@ -1,8 +1,10 @@
-Bildirim yükümlülüğü
-MADDE 50- (1) İl özel idareleri ve belediyeler bu Kanun uyarınca belirlenen standartlardaki adres bilgileri ile adres oluşumuna altyapı oluşturan yapı belgelerini, belgelerin oluşturulması ile eş zamanlı olarak ulusal adres veri tabanına işlemekle yükümlüdür.
-(2) Yerleşim yeri adreslerinin tutulmasında kişilerin yazılı beyanı esas alınır. Bildirim, nüfus müdürlüklerine ve dış temsilciliklerimize adres beyan formuyla yapılır. Yerleşim yeri adresi aynı konut olan ailenin ergin fertleri birbirlerinin yerine adres beyanında bulunabilirler.
-(3) Noterden verilen temsil yetkisini ve bunun kapsamını belirten yazılı belgeyi ibraz edenler kişilerin adresleri ile ilgili beyanda bulunabilirler.
-(4) Çocukların ve kısıtlıların adresleri veli, vasi, kayyım, bunların bulunmaması halinde, çocuğun büyük ana, büyük baba veya ergin olan kardeşleri ya da çocuğu yanında bulunduranlar tarafından bildirilir.
-(5) Huzur evi, yetiştirme yurdu, cezaevi, öğrenci yurdu gibi yerlerde kalanların adreslerinin bildirimleri ilgili kurum yetkililerince, bildirim yapamayacak durumda olan kimsesizlerin bildirimleri ise muhtarlar tarafından yapılır.
-(6) Vesayet altındakilerin yerleşim yeri adresleri, bağlı bulundukları vesayet makamınca bildirilir.
-(7) Adres bildirimi şahsen, posta veya elektronik posta ile yapılabilir.
+Bildirim yükümlülüğü ve süresi[19]
+MADDE 50- (Değişik: 19/10/2017-7039/13 md.)
+(1) Adres bildiriminde kişilerin yazılı beyanı esas alınır. Bildirim şahsen veya güvenli elektronik imza ile yapılır.
+(2) Adres bildirimi, nüfus müdürlüklerine veya dış temsilciliklere yapılır. Hizmet alımı ile ilgili başvuru sırasında, Bakanlıkça belirlenen adrese dayalı hizmet sunan kuruluşlara da adres değişikliğine ilişkin beyanda bulunulabilir.
+(3) Adres bildiriminin, yirmi işgünü içinde yapılması zorunludur.
+(4) Yerleşim yeri ve diğer adresi aynı olan ailenin ergin fertleri birbirlerinin yerine adres beyanında bulunabilirler. Vekâletname ibraz edenler de kişilerin adresleri ile ilgili bildirimde bulunabilirler.
+(5) Çocukların ve kısıtlıların adresleri veli, vasi, kayyım, bunların bulunmaması hâlinde, çocuğun büyük ana, büyük baba, ergin olan kardeşleri veya çocuğu yanında bulunduranlar tarafından bildirilir.
+(6) Huzurevi, yetiştirme yurdu, cezaevi, öğrenci yurdu gibi yerlerde kalanların adres bildirimleri ilgili kurum yetkililerince, bildirim yapamayacak durumda olan kimsesizlerin ise muhtarlar tarafından yapılır.
+(7) Beyanda şüphe duyulması hâlinde kişinin beyanını teyit eden bilgi ve belgeler istenebilir.
+(8) Yetkili idareler adres oluşumuna dayanak teşkil eden yapı belgelerini, belgelerin oluşturulması ile eş zamanlı olarak ulusal adres veri tabanına işlemekle yükümlüdür.

@@ -1,2 +1,3 @@
 Askerlik çağına girenlerin listesi
-MADDE 63- (1) Genel Müdürlük, her yıl aile kütüklerinde kayıtlı olanlardan askerlik çağına giren erkek nüfusun listesini çıkarıp Aralık ayı içerisinde Milli Savunma Bakanlığına göndermekle yükümlüdür. Milli Savunma Bakanlığı bu listeyi Kimlik Paylaşımı Sistemi veri tabanından da sağlayabilir.
+MADDE 63- (Değişik: 19/10/2017-7039/22 md.)
+(1) Aile kütüklerinde kayıtlı olanlardan askerlik çağına giren erkek nüfusun listesi Millî Savunma Bakanlığınca Kimlik Paylaşımı Sistemi üzerinden alınır.
