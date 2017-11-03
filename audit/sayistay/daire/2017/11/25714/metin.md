@@ -1,0 +1,7 @@
+Gecikme cezası:
+
+8- .... Limited Şirketi yükleniminde gerçekleştirilen “Moloz Taş Duvar Yapılması” işinde, işin sözleşmesiyle belirlenen süresinde bitirilmemesine rağmen yükleniciden gecikme cezası kesilmemesi neticesinde kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede;
+
+İşe ilişkin olarak düzenlenen sözleşmenin 25.2’nci maddesinde, yüklenicinin sözleşmeye uygun olarak işi bitirmediği taktirde gecikilen her gün için sözleşme bedelinin on binde üçü oranında gecikme cezası uygulanacağı belirtilmiştir. 246.236,36 TL sözleşme bedelli işin iş bitim tarihi 24.10.2016’dir. 24.10.2016 gün ve 1126 olur ile % 20 iş artışı ve 10 gün süre verilmiştir. İş artışı kapsamında ... mahallesinde 2 adet taş duvar ile ... mahallesinde 1 adet taş duvar yaptırılarak bedelleri ödenmiştir. Hakediş raporunda bir adet süre uzatım kararının olduğu ve 49.247,27 TL iş artışı olduğu belirtilmiştir. Bu iş kapsamında yaptırılan ... mahallesindeki taş duvar inşaatı 29.11.2016 tarihinde bitirildiği halde, gerek geçici kabul heyeti, gerekse hakedişi düzenleyenler işi 03.11.2016 tarihinde bitmiş kabul etmişlerdir.
+
+Her ne kadar işin sözleşmesiyle belirlenen süresinde bitirilmemesine rağmen yükleniciden gecikme cezası kesilmemesi neticesinde 1.920,62 TL kamu zararına sebebiyet verilmişse de, söz konusu kamu zararının 17.05.2017 tarih ve......referans numaralı banka dekontu ile ilgilisinden tahsil edildiği anlaşıldığından konu hakkında ilişilecek bir husus oy birliğiyle karar verildi.
