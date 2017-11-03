@@ -1,0 +1,19 @@
+Sözleşmeye göre kesilmesi gereken cezanın kesilmemesi:
+
+.... Med. Tem. İnş. Tur. Gıda Pey. Taş. A.Ş. yükleniminde gerçekleştirilen “Fen İşleri Müdürlüğüne Destek Personel Ve Araç Hizmeti Alımı” işinde; yüklenicinin rapor alan personel yerine ilave personel çalıştırmamasına rağmen sözleşmede belirtilen cezanın uygulanmaması neticesinde kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede;
+
+İşe ilişkin olarak düzenlenen sözleşmenin "Cezalar ve sözleşmenin feshi" başlıklı 16 ıncı maddesinde; “İşin özelliği gereği sürekli tekrar eden işler olduğu için, işin tekrar eden kısımlarının sözleşmeye uygun olarak gerçekleştirilmemesi halinde, her bir aykırılık için ayrı ayrı sözleşme bedelinin %1 (YÜZDE BİR) oranında ceza kesilecektir. Bu aykırılıklar ardı ardına veya aralıklı olarak gerçekleştirilmek suretiyle 5 defa olması durumunda, yukarıda öngörülen ceza uygulanmakla birlikte 4735 sayılı Kanunun 20 inci maddesinin (b) bendine göre protesto çekmeye gerek kalmaksızın sözleşme feshedilecektir. Ancak aşağıda belirtilen ağır aykırılık hallerinde, aykırılık bir defa gerçekleşmiş olsa dahi yukarıda öngörülen ceza uygulanmakla birlikte 4735 sayılı Kanunun 20 inci maddesinin (b) bendine göre protesto çekmeye gerek kalmaksızın sözleşme feshedilecektir.
+
+Ağır aykırılıklar ise Şartnamede belirlenmiş olan özelliklerdeki araçları sağlayamamak, park bahçe işlerine ait motorlu araçları sağlayamamak, İhale içindeki araçların idarenin bilgisi olmadan başka işlerde kullanılması, İdare tarafından kesilecek cezanın toplam tutarı, hiçbir durumda, sözleşme bedelinin %30’unu geçmeyecektir.”
+
+Denilmektedir.
+
+İdari şartnamesinin Sözleşmenin Uygulanması Ve Diğer Hususlar başlıklı 45 inci maddesinde cezalar ve sözleşmenin feshi hükümlerinin sözleşme tasarısında düzenleneceği belirtilmiş ve İşin özel teknik şartnamesinin 3.1.8 maddesinde ise, “Sağlık kurum ve kuruluşlarınca istirahat verilen personelin ismi yüklenici tarafından derhal idareye bildirilecek, bu personelin yerine rapor alındığı günü izleyen en geç 2 (iki) iş günü içerisinde (rapor alındığı gün hariç) ilave personel (rapor bitiminde ilave personelinde görevi bitmiş olacaktır) hizmet işinin aksamaması için istekli tarafından başlatılacaktır. Başlatılmaması halinde her gün için idari şartname ve sözleşmede öngörülmüş oranda ceza kesilecektir. Personel ile ilgili her türlü giderler istekliye ait olacaktır. Vasıflı personel ve vasıfsız personel için yukarıda yazılı olan şartlar geçerli olacaktır (Mühendis, tekniker ve umumi ustabaşılar hariç)” denilmektedir.
+
+Yukarıda yer alan Özel Teknik Şartnamenin 3.1.8 maddesinde “hizmet işinin aksamaması için” ve “İdarenin yükleniciden talebi olmasına rağmen” ifadelerine yer verilmiştir. Sözleşme hükümlerinde yer verilen cezai şartların uygulanabilmesi için verilen hizmette bir aksamaya sebep olunması ve idarenin bu yönde bir talebi bulunması gerekmektedir. Verilen hizmette bir aksama olup olmadığı noktasında belediye görevlileri tarafından bir tespitte bulunulmamış ve dolayısıyla bu yönde bir talepte de bulunulmamıştır. Sorumlularca yapılan savunmada, söz konusu çalışmayan kişiler için de herhangi bir ödeme de bulunulmadığı ifade edilmiştir. Kaldı ki, denetçi tarafından hazırlanan kamu zararı tablosundan da görüleceği üzere, raporlu olan kişilerin rapor süreleri çoğunlukla birkaç günden ibarettir. Yukarıda yer verilen şartnamede yüklenicinin iki gün içerisinde ikame personel başlatması gerektiği ifade edildiğinden, bu süreler için personel ikame etmesine de mahal bulunmamaktadır.
+
+Sonuç olarak; yüklenicinin rapor alan personel yerine ilave personel çalıştırmamasına rağmen sözleşmede belirtilen cezanın uygulanmaması neticesinde 5.226.452,10 TL kamu zararına sebebiyet verildiği iddia edilmekte ise de, konu hakkında ilişilecek bir husus bulunmadığına oy çokluğuyla karar verildi.
+
+Azınlık Görüşü:
+
+	Üye ...’in karşı oy gerekçesi: Denetçi görüşü doğrultusunda tazminine karar verilmesi gerekir.
