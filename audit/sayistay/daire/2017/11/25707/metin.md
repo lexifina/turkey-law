@@ -1,0 +1,9 @@
+Damga vergisi:
+
+1- Özel halk otobüsü ihalesinde hat bedeli üzerinden Damga Vergisi kesintisi yapılmaması neticesinde kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede;
+
+488 sayılı Damga Vergisi Kanunu’nun 3 ncü maddesinde Damga Vergisinin mükellefinin kağıtları imza edenler olduğu ve resmi dairelerle kişiler arasındaki işlemlere ait kağıtların Damga Vergisini kişilerin ödeyeceği, 8 inci maddesinde bu Kanunda yazılı resmi daireden maksadın, genel ve katma bütçeli daire ve idarelerle, il özel idareleri, belediyeler ve köyler olduğu, yine aynı Kanun’a ekli (I) sayılı tablonun II. Kararlar ve mazbatalar kısmının 2 nci fıkrasında ihale kanunlarına tabi olan veya olmayan resmi daire ve kamu tüzel kişiliğini haiz kurumların her türlü ihale kararlarından Binde 5,69 oranında damga vergisi alınması gerektiği belirtilmiştir.
+
+... Belediyesi özel halk otobüsü ihalesi 05.09.2016 günü yapılmış ve 601.000 TL hat bedeli ile ...’ya ihale verilmiştir. İhale bedeli iki kalemden oluşmaktadır. Durak giriş bedeli 601.000 TL ve aylık kira abonman bedeli olmak üzere 10 yıllık süre için 504.000TL olmak üzere 1.105.000 TL toplam ihale bedelidir. İşin kesin teminatı 1.105.000 x % 6 = 66.300 TL olarak tahsil edildiği halde ihale karar damga vergisi 601.000 TL üzerinden 3.420 TL olarak 28.09.2016 gün ve 2591473 numaralı makbuzla tahsil edilmiştir. Oysa alınması gereken ihale damga vergisi 1.105.000 x Binde 5,69 = 6.287,45 TL olup; 6.287,45-3.420=2.867,45 TL eksik vergi tahsil edilmiştir.
+
+Her ne kadar özel halk otobüsü ihalesinde hat bedeli üzerinden Damga Vergisi kesintisi yapılmaması neticesinde 2.867,45 TL kamu zararına sebebiyet verilmişse de, söz konusu kamu zararının 04.05.2017 tarih ve C/2801891 numaralı tahsilat makbuzuyla ilgilisinden tahsil edildiği anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına oy birliğiyle karar verildi.
