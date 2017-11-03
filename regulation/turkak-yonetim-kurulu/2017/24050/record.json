@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.24050",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "UYGUNLUK DEĞERLENDİRME KURULUŞLARININ AKREDİTASYONU HAKKINDA YÖNETMELİK",
+  "number": "24050",
+  "issuer": "TÜRKAK Yönetim Kurulu",
+  "issuer_slug": "turkak-yonetim-kurulu",
+  "path": "regulation/turkak-yonetim-kurulu/2017/24050",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24050&MevzuatTertip=5",
+  "source_sha256": "971e0b634a6f4dcec38f60f221ccbb4d353c18c3ebf20c9d6e9d6840b59b30aa",
+  "source_bytes": 44083,
+  "published": "2017-11-03",
+  "gazette": "30229",
+  "in_force": "2017-11-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.11.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2013,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
