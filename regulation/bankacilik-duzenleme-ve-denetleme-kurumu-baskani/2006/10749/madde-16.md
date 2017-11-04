@@ -1,0 +1,2 @@
+Fiktif işlem yapılması suretiyle oransal sınırlara uyumsuzluk
+MADDE 16 – (1) Yapılacak incelemelerde, bu Yönetmelikle düzenlenen toplam likidite yeterlilik oranı ile yabancı para likidite yeterlilik oranının tutturulmasına yönelik fiktif işlem yapıldığının tespit edilmesi halinde, bu işlemlere karşılık gelen tutarlar geriye yönelik olarak varlık ve yükümlülüklerden düşülmek suretiyle ilgili döneme ilişkin oranlar yeniden hesaplanır.
