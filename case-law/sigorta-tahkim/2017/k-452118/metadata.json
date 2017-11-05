@@ -1,0 +1,15 @@
+{
+  "number": "K-2017/452118",
+  "award_date": "2017-11-05",
+  "heading_as_published": "05.11.2017 tarih ve K-2017/452118 Sayılı Hakem Karar (Nakliyat)",
+  "issue": "Hakem Karar Dergisi 33 Ocak - Mart 2018",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs33.pdf",
+  "source_sha256": "5e820e64a48b9d027a4a8ad8180f68af127557ac14217391654853a44e394f9c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
