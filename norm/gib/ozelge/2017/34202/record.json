@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-135-428909",
+  "source_id": 34202,
+  "date": "2017-11-06",
+  "title": "Geçici 7 nci madde uygulamasından yararlanılarak iktisap edilen ticari aracın hurdaya ayrılması halinde istisnadan tekrar yararlanılıp yararlanılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34202",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "99af08e235a2ca4b0bb2b02c9f829f0cbea6402536df92944a8417d28a829325",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
