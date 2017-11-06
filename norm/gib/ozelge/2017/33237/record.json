@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130-434107",
+  "source_id": 33237,
+  "date": "2017-11-06",
+  "title": "Banka dekontuna istinaden KDV'nin indirim konusu yapılıp yapılamayacağı ile tutarı 5.000 TL'yi geçen ödemelerin \"BA-BS\" formlarına dahil edilip edilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33237",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "482bf1daddbbebc03139b962acbe7cdd25f6d4bee93ca1063680dd1629ad2dd5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
