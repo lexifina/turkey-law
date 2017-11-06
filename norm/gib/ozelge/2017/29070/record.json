@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.02-130[I-17-04]-115488",
+  "source_id": 29070,
+  "date": "2017-11-06",
+  "title": "Engellilerin araçlara bindirilmesini sağlayan rampa,platform,liflerin takıldığı kapıların KDV istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29070",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "8a8eb6440d13a944f661e45d1c8a7d79a99c6ada903a510e003b44b4487e9f83",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
