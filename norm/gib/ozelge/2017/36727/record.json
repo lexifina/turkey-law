@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-180[BSMV.I/2016/29/1]-434574",
+  "source_id": 36727,
+  "date": "2017-11-06",
+  "title": "Gecekondu Önleme Bölgesi İlan Edilen Alandaki İşlemlerde BSMV hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36727",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "293875014e8482df219bcd854e0b30fc3b31bfedae8b8de963ad970bfd411dc4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
