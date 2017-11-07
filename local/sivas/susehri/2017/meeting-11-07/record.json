@@ -1,0 +1,27 @@
+{
+  "number": "meeting-11-07",
+  "number_as_published": "meeting-11-07",
+  "year": 2017,
+  "title": "07.11.2017 tarihli meclis kararları",
+  "decision_date": "2017-11-07",
+  "source": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=73",
+  "official_document": "https://susehri.bel.tr/img/belgeler/meclis-kararlari/2017/2017-11-07.doc",
+  "source_sha256": "c40a16b7250a1d2a8462d59c78290ec2fc0ad4fe772ed7b5c8225a240553ebbf",
+  "issuer": "Suşehri Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-11-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.11.2017; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07.11.2017 tarihli meclis kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=73",
+  "item_title": "2017 Kasim",
+  "file_label": "2017-11-07",
+  "date_read_from": "official file name (MK-yyyy-mm-dd)"
+}
