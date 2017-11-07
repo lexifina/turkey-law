@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-140[2016-705-84]-112509",
+  "source_id": 35478,
+  "date": "2017-11-07",
+  "title": "Şirketin ipoteğinde bulunmayan mülkiyeti şirket yetkilisine ait taşınmazın şirketinizin borcuna karşılık bankaya devredilmesi ve ve taşınmaz üzerine tapuda vefa hakkı tesis edilmesinde harç uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35478",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "1db2e16cbdf7efa9e8f68633d687b3eb22c3c20bba99b291eaa5771266de8abf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
