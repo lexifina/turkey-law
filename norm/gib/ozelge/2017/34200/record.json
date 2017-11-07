@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.02-135-179339",
+  "source_id": 34200,
+  "date": "2017-11-07",
+  "title": "Ticari taksinin satılarak yenisinin alınması durumunda ÖTV uygulanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34200",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "a5f4ae092bf1a325de38f98706a458e84100aae7474debc6b26c7862a02814e3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
