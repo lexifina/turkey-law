@@ -1,0 +1,20 @@
+{
+  "applicant": "A.Ö.",
+  "application_date": "2014-04-11",
+  "application_number": "2014/5225",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2017-11-08",
+  "id": "a9bdc7d9-0c24-f85f-4577-13fefb559c3c",
+  "in_force": "2017-11-08",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmE5YmRjN2Q5LTBjMjQtZjg1Zi00NTc3LTEzZmVmYjU1OWMzYw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "98528c5443436eadfcf29ea7fbd1623115eeeec4aeb9844d2d60bc31466219ad",
+  "version_label": "as-enacted"
+}
