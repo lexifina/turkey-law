@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43635",
+  "decision_date": "2017-11-08",
+  "source_id": 14691,
+  "chamber": "7",
+  "file_number": "40666",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2012",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14691/",
+  "source_sha256": "3a9e8ec0f9ab76aa8f790dd07642c9e5943afe0a9bb7121db00261500a9b26d4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
