@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43616",
+  "decision_date": "2017-11-08",
+  "source_id": 14656,
+  "chamber": "7",
+  "file_number": "40662",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2011",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14656/",
+  "source_sha256": "aa0ab9c30ea2f12235093dd23b305dbaee6905b51bd168edfe42bbbccfcc0a3e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
