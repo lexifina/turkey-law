@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130[1-2013/8]-438933",
+  "source_id": 23988,
+  "date": "2017-11-08",
+  "title": "Kooperatif adına kayıtlı arsanın kamulaştırma yoluyla satışının vergisel durumu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/23988",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c18a404022fd89dd79800525b4109b8d5466fe423eae3a237862ee822cbf1a36",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
