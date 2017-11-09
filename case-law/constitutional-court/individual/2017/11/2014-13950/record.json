@@ -1,0 +1,20 @@
+{
+  "applicant": "S.A.K. VE Y.K.",
+  "application_date": "2014-08-21",
+  "application_number": "2014/13950",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2017-11-09",
+  "id": "72ba3013-976b-0ac4-6989-38bb7dc48056",
+  "in_force": "2017-11-09",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjcyYmEzMDEzLTk3NmItMGFjNC02OTg5LTM4YmI3ZGM0ODA1Ng&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "f9d447d963807cd5575548e942b9d8fa6d32ba4b81f61c41b13e6b0ce10d45dc",
+  "version_label": "as-enacted"
+}
