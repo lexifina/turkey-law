@@ -1,0 +1,13 @@
+AİLE VE ÇOCUK YARDIMININ YANLIŞ HESAPLANMASI
+
+… Belediye Başkanlığı ile … arasında 29.03.2016 tarihinde imzalanan toplu iş sözleşmesine istinaden işçilere ödenen çocuk yardımının hesaplanmasında hatalı gösterge rakamının uygulanması suretiyle kamu zararına sebebiyet verildiği iddiası ile ilgili olarak yapılan incelemede;
+
+657 sayılı Devlet Memurları Kanununun “Aile yardımı ödeneği başlıklı” 202 nci maddesinde,“Evli bulunan Devlet memurlarına aile yardımı ödeneği verilir. (Değişik: 27/6/1989 - KHK - 375/10 md.) Bu yardım, memurun her ne şekilde olursa olsun menfaat karşılığı çalışmayan veya herhangi bir sosyal güvenlik kuruluşundan aylık almayan eşi için 1500, çocuklarından herbiri için de 250 gösterge rakamının (72 nci ay dahil olmak üzere 0-6 yaş grubunda yer alan çocuklar için bir kat artırımlı) aylık katsayısı ile çarpılması sonucu elde edilecek miktar üzerinden ödenir. (Mülga ikinci cümle: 13/2/2011-6111/117 md.) Eşlerden birine iş akdi veya toplu sözleşme gereği çocukları için yapılan aile yardımı ödeneği daha düşük ise, yalnız aradaki fark ödenir. (Ek: 9/4/1990 - KHK - 418/7 md.; iptal: Ana. Mah'nin 5/2/1992 tarih ve E. 1990/22, K. 1992/6 sayılı Kararı ile, Yeniden düzenleme:18/5/1994 - KHK - 527/9 md.) Bu fıkrada yer alan gösterge rakamlarını 3 katına kadar artırmaya Bakanlar Kurulu yetkilidir…” denilmiştir.
+
+657 sayılı Kanunda çocuk yardımının ise herbir çocuk için 250 gösterge rakamının esas alınması gerektiğini ve eğer çocuk 72.ay dahil 0-6 yaş aralığında ise bu rakamın 2 kat artırılarak uygulanması gerektiğinden bahsetmektedir.
+
+Toplu iş sözleşmesinde ise “ Toplu iş sözleşmesi kapsamında çalışan sendika üyesi evli olan işçilere, Devlet Memurlarına ödenen aile yardım miktarı net olarak ödenir. İşveren, işyerinde çalışan taraf sendika üyesi işçilerin evlenmemiş ve işi olmayan her çocuğu için Devlet Memurlarına ödenen yardım miktarı ödenir.” İfadesi yer almaktadır.
+
+Toplu iş sözleşmesindeki hükme göre belediye bünyesinde çalışan işçilere de memurlara verilen çocuk yardımı kadar net ödeme yapılması gerekmektedir. Yapılan incelemede … Belediyesi işçilere çocuk için verilmesi gereken aile yardımı için 250 gösterge rakamı yerine 297 gösterge rakamını esas alarak hesaplaması sonucu her bir çocuk için fazladan 47 x aylık katsayı tutarında fazla ödeme yapıldığı;  Öte yandan; kamu zararı tutarının sehven 13.162,76 TL olarak yanlış hesaplandığı, daha sonra doğru tutarın 12.790,42 TL olduğu anlaşılmıştır.
+
+Ancak yeniden hesaplanan kamu zararı tutarı olan 12,790,42 TL’nin, ayrıntısı raporun sonuç bölümünde yer alan tahsilat tablosunda gösterilen tarih ve no.lu ödeme emirleriyle tahsil edildiği anlaşıldığından; konu hakkında ilişilecek husus kalmadığına oy birliğiyle,
