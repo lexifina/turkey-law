@@ -1,0 +1,22 @@
+{
+  "number": "183",
+  "number_as_published": "2017/183",
+  "year": 2017,
+  "title": "Ağaçlı köyü, Çiftalan Köyü ve Odayeri Köyü 1/1000 ölçekli uygulama imar planlarında plan notu tadilatı",
+  "decision_date": "2017-11-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2017-kasim-ayi-meclis-kararlari/1396",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-183/1398",
+  "source_sha256": "9ddb9f09313eba1e3e1b18d17469009be0a3ff3a45a3dec3879dbbe383977a00",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-11-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.11.2017 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "c31d47a73d37b97955cabbde10e0e7e790d9b6dfaf23027daf535695edfe1abc"
+}
