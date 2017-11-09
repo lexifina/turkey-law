@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7428-13",
+  "decision_date": "2017-11-09",
+  "title": "Elektrik Piyasasında Dağıtım Bağlantı Bedellerinin Belirlenmesi Hakkında",
+  "resmi_gazete_date": "2017-10-18",
+  "resmi_gazete_number": "30214",
+  "categories": [
+    "Bağlantı Bedeli"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WEnBf+KR6OA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WEnBf+KR6OA="
+  ],
+  "source_sha256": "d781989d030595074497165b9093535ee76fde617754674adfaea373d321218f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1851,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2017-11-09",
+  "law_text_complete": false
+}
