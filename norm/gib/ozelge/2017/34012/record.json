@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-170[2017-704-7]-114869",
+  "source_id": 34012,
+  "date": "2017-11-09",
+  "title": "Şehit Yakınının ÖTV’siz İktisap Ettiği Taşıtın MTV’den İstisna Olup Olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/34012",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "e6053c9d7625ac7407398a5ac73d98da65ffcec8a50295f9179c5999f84cff18",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
