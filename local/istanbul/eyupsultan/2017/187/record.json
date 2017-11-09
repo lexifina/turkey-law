@@ -1,0 +1,22 @@
+{
+  "number": "187",
+  "number_as_published": "2017/187",
+  "year": 2017,
+  "title": "2018 yılı tarife teklifleri",
+  "decision_date": "2017-11-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2017-kasim-ayi-meclis-kararlari/1396",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-187/1400",
+  "source_sha256": "9ddb9f09313eba1e3e1b18d17469009be0a3ff3a45a3dec3879dbbe383977a00",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-11-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.11.2017 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "948a2feccc4288bb016d5ee6be2f7b1157dabce3dd797e938adf29271061038e"
+}
