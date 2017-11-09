@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-140.01.03-121126",
+  "source_id": 35422,
+  "date": "2017-11-09",
+  "title": "Şirketin diğer şirketlerle birleşmesi ile ilgili olarak devreden şirketlere ait şubeler için Ticaret Sicil Müdürlüğünde yapılacak olan unvan değişikliği işlemlerinden harç aranılıp aranılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35422",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "89709ba4c51dec8270e35ac5a0d420a6904bb0ddb2832ef353d1d829fb04b332",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
