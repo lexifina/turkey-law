@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76464994-175.02[BLD-2017-1] - 182004",
+  "source_id": 37228,
+  "date": "2017-11-09",
+  "title": "Eşantiyon Ürünler ve İlan ve Reklam Vergisi Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37228",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "ce8882b497c40dfe2287d7e1c03b0d2c3a5a8c4cfb10b87998236e1911ccc491",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
