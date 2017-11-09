@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7434",
+  "decision_date": "2017-11-09",
+  "title": "Diyarbakır Doğal Gaz Dağıtım Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-11-11",
+  "resmi_gazete_number": "30237",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eU5geua7SVk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eU5geua7SVk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uUN+yXLMtUA="
+  ],
+  "source_sha256": "b86950187b77509180aae5079d1208ea2def2e0bc5d6e9353b8c39d80287ff69",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-11-09",
+  "law_text_complete": true
+}
