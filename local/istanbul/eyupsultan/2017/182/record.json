@@ -1,0 +1,22 @@
+{
+  "number": "182",
+  "number_as_published": "2017/182",
+  "year": 2017,
+  "title": "Eyüp, Nişanca Mahallesi, 120 ada, 38, 39, 40, 48, 49, 67, 71, 72 ve 78 parsellere ilişkin 1/1000 ölçekli plan tadilatı",
+  "decision_date": "2017-11-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2017-kasim-ayi-meclis-kararlari/1396",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-182/1397",
+  "source_sha256": "9ddb9f09313eba1e3e1b18d17469009be0a3ff3a45a3dec3879dbbe383977a00",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-11-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.11.2017 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "47990fb8320ffddcd62094837cb39acc325d5b51d82d67669a501f0accb0ba00"
+}
