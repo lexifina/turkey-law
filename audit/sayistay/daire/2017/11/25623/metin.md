@@ -1,0 +1,13 @@
+GECİKME CEZASI KESİLMEMESİ
+
+122.582,00 TL sözleşme bedelli PVC Boru ve Ek parçaları mal alımında malın süresi içerisinde teslim edilmemesi karşın yükleniciden ceza kesintisi yapılmaması suretiyle kamu zararına sebebiyet verildiği iddiası ile ilgili olarak yapılan incelemede;
+
+…Belediyesi ile …. İnşaat Paz. San. Ve Tic. A.Ş. arasında 17.08.2016 tarihinde pvc boru ve ek parçaları mal alımına ilişkin sözleşme imzalandığı; Sözleşmenin 10’uncu maddesinde malın teslim yeri olarak … Belediyesi Su ve Kanalizasyon İşleri Müdürlüğü deposu olduğunun belirtildiği; Yine sözleşmenin 10’uncu maddesinde sözleşme imzalandığı tarihten itibaren 3 gün içerisinde işe başlanacağı ve teslim tarihinin ise sözleşme imzalanmasını takiben 30 gün içerisinde yapılacağından bahsedildiği;  Sözleşmenin “Sözleşme ve eklerine uymayan işler” başlıklı 33 üncü maddesinde “Yüklenici teslim, montaj ve ambalajlama şekli ve durumu, sözleşme ve şartnamelere uymayan veya eksik ve kusurlu oldukları tespit edilen malları, İdarenin talimatı ile belirlenen süre içinde bedelsiz olarak değiştirmek veya düzeltmek zorundadır. Bundan dolayı bir gecikme olursa bu sözleşmenin gecikme cezasına ilişkin hükümleri uygulanır.”, “Gecikme halinde uygulanacak cezalar ve kesintiler ile sözleşmenin feshi” başlıklı 34 üncü maddesinde,
+
+“34.1. İdare tarafından, bu sözleşmede belirtilen süre uzatımı halleri hariç, Yüklenicinin, sözleşmeye uygun olarak malı veya malları süresinde teslim etmemesi halinde 10 gün süreli yazılı ihtar yapılarak gecikme cezası uygulanır.
+
+34.2. Yüklenicinin, sözleşmeye uygun olarak malı süresinde teslim etmemesi halinde, gecikilen her takvim günü için sözleşme bedelinin %1 (yüzdebir) oranında gecikme cezası uygulanır.” düzenlemesi yapıldığı görülmüştür.
+
+Yüklenici ile Belediye arasında 17.08.2016 tarihinde sözleşme imzalandığı ve 3 gün içerisinde iş başlangıcı yapıldığı; Sözleşmeye göre işin süresi 30 takvim günü olduğundan yüklenicinin malları 21.09.2016 tarihine kadar … Belediyesi Su ve Kanalizasyon İşleri Müdürlüğü deposu teslim etmesi gerektiği; bu tarihte teslim edilmemesi halinde gecikilen her gün için sözleşme bedelinin %1’i tutarında gecikme cezası kesilmesi gerektiği; ancak yapılan incelemede ihale konusu malların eksiksiz olarak ancak 19.10.2016 tarihinde teslim edildiği; dolayısıyla söz konusu malların 28 gün gecikmeli olarak belediyeye teslim edildiği ve bu nedenle 1.225,82TL/gün x 28 gün = 34.322,96TL gecikme cezası alınması gerektiği anlaşılmıştır.
+
+Ancak savunmalardan tespit edilen kamu zararı tutarı olan 34.322,96 TL’nin 20.01.2017 gün ve … numaralı tahsilat makbuzuyla tahsil edildiği anlaşıldığından; konu hakkında ilişilecek husus kalmadığına oy birliğiyle,
