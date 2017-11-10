@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-125[KV-16-42]-118490",
+  "source_id": 31941,
+  "date": "2017-11-10",
+  "title": "İki tam sene aktifte kalmadan kamulaştırılan taşınmazın vergi kanunlarındaki istisna hükümleri karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/31941",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "4090588cf32aaee433d55a99984caa55116c6d5315f849b0183703d519ef000f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
