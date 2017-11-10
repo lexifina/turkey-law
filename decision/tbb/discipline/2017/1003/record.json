@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1003",
+  "date": "2017-11-10",
+  "title": "T. 10.11.2017 E. 2017/453 K. 2017/902",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1003",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=4&yil=2017",
+  "listing_sha256": "0723ee6c8cc40c754308ccace678e04ee5133031dd9f6b49c615696215cdc828",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
