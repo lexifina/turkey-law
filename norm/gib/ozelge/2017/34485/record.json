@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.55.15.01-155-121",
+  "source_id": 34485,
+  "date": "2017-11-10",
+  "title": "Zarar, ziyan ve tazminat ödemelerinden damga vergisi kesinitisi yapılıp yapılmayacağı hk. [2016/ÖZE-15]",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34485",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "77f8c82e4a0eb6e752bb62cdf5b9bb3dfcf3378fbc87dfd31ee4edb845abab70",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
