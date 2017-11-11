@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24084",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÜLKEMİZE KRUVAZİYER GEMİ İLE TURİST GETİREN (A) GRUBU SEYAHAT ACENTALARINA DESTEK SAĞLANMASI HAKKINDA KARARIN UYGULAMA USUL VE ESASLARINA DAİR TEBLİĞ",
+  "number": "24084",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "path": "teblig/2017/24084",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24084&MevzuatTertip=5",
+  "source_sha256": "4499685ed9cded70657627e20177c69fccead333ca1419aa71dd89681c956827",
+  "source_bytes": 28146,
+  "published": "2017-11-11",
+  "gazette": "30237",
+  "in_force": "2017-11-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.11.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1266,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24084-Ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
