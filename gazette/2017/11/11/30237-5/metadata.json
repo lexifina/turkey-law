@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-11-11",
+  "issue": "30237",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 484)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171111-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171111.htm",
+  "index_sha256": "ab83d9df7ecf1e58170dc42a13e9865fba024f6b166153f731dda8c0b79c23ea",
+  "index_header": "11 Kasım 2017 ... 30237 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171111.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "10a9751b85b8930dbeef3c1fde7519bc732f8d15009b4f98cf112b9ed56cf89a",
+  "text_status": "text.txt as published"
+}
