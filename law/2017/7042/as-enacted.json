@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7042",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kosova Cumhuriyeti Hükümeti Arasında Suçluların İadesi Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-11-11",
+  "gazette_issue": "30237",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171111-9.htm",
+  "source_sha256": "510a712a70432c3ece169afcfa55531059458fd721cad7b430cb4e6b0b1d4fde",
+  "text_sha256": "5200778ff1811c23258af289ad1633637060146743525c311ad2ab19033c7cc2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/11/11/30237-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171111-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
