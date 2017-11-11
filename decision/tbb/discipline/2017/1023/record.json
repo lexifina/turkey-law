@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1023",
+  "date": "2017-11-11",
+  "title": "T. 11.11.2017 E. 2017/883 K. 2017/986",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1023",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=3&yil=2017",
+  "listing_sha256": "e8b296b845a293f0c14f00826eb5fc4501a2a37477f6600a41929127c04223fc",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
