@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7043",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Nijer Cumhuriyeti Hükümeti Arasında Güvenlik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-11-11",
+  "gazette_issue": "30237",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171111-10.htm",
+  "source_sha256": "08e8c277b50ff93839397e4e552cb3636b17b7d9389572a45e09e623acf46302",
+  "text_sha256": "1e8c6f733475afc2c017efaca14f47f922c0783980d88c143549f0c0671d3075",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/11/11/30237-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171111-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
