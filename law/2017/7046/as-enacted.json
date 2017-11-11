@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7046",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Fransız Cumhuriyeti Hükümeti Arasında İç Güvenlik Alanında İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-11-11",
+  "gazette_issue": "30237",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171111-13.htm",
+  "source_sha256": "c578a44fad490cb4a456cfbe764cf55aacf4fe4930751576679740b5585aae55",
+  "text_sha256": "31841590ee0b4ce9e4237c4fc6156eb7be3c1118c73465998c9525467b5172e4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/11/11/30237-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171111-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
