@@ -1,0 +1,3 @@
+Danışmanlar ve görevleri
+MADDE 11 – (1) Kadın sorunları ve toplumsal cinsiyet konularında bilimsel çalışmaları olan ya da kamu veya özel sektörde veya sivil toplum kuruluşlarında çalışmalar yürütmüş ve yürüten kişiler arasından Yönetim Kurulunca önerilen en az beş kişi, istekleri halinde Rektör tarafından Merkezin danışmanı olarak görevlendirilir.
+(2) Danışmanlar; Merkezin faaliyetleriyle ilgili proje önerilerinde bulunur, projelerin geliştirilmesine yardımcı olur, toplumsal cinsiyet ve kadın sorunları konularında uzman kişilerin Merkeze destek olmasını sağlar ve Merkezin elindeki kaynakların geliştirilmesi için gerekli çalışmalarda bulunarak destek olur.
