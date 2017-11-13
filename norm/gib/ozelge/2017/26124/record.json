@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[VUK1-20175]-452322",
+  "source_id": 26124,
+  "date": "2017-11-13",
+  "title": "Nihai tüketiciye yapılan satışlara ilişkin bileti ve faturada T.C. Kimlik Numarası bulunup bulunmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26124",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "4351bbbc338aa38690f5ac1cb22e04cc4e6446620499c915b2aefcc4b550682e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
