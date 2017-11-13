@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-130-449038",
+  "source_id": 33236,
+  "date": "2017-11-13",
+  "title": "Aktife kayıtlı olmayan arsa karşılığı olarak alınan dükkana ait faturada yer alan KDV'nin indirim konusu yapılıp yapılamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33236",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "88c6d25737511b7db49f5e2dc118d6944c7e5dca08ac43a0fd6180c40bd61f06",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
