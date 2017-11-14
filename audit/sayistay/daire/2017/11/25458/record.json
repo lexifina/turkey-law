@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10659",
+  "decision_date": "2017-11-14",
+  "source_id": 25458,
+  "chamber": "1",
+  "ilam_number": "303",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25458/",
+  "source_sha256": "8ef2b4a44b63fd6a4eb25c37fa6c313098c976ba6538928999c2e3b7c3f3afe6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
