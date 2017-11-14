@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10657",
+  "decision_date": "2017-11-14",
+  "source_id": 25466,
+  "chamber": "1",
+  "ilam_number": "12",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25466/",
+  "source_sha256": "f12c9d674d7992e4f4766f8ee364250bec16882f64d25b907e4705a0a602203d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
