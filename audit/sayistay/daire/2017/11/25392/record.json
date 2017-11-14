@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35495",
+  "decision_date": "2017-11-14",
+  "source_id": 25392,
+  "chamber": "2",
+  "ilam_number": "237",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25392/",
+  "source_sha256": "110a26fbfa2dfe8a96cd3fcbc80374e51631630f564347c35c3edc6ecc7dccab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
