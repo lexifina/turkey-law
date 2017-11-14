@@ -1,0 +1,20 @@
+{
+  "number": "1149",
+  "title": "YETKİ VERİLMESİ",
+  "decision_date": "2017-11-14",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/964",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/964/1149",
+  "source_sha256": "3a0e557be9f75228f7ef12f9c40ff5a457fe6712b33f4b7c0ee1ab434fb5e9b3",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council catalogue; complete decision text is in the linked official PDF, not transcribed",
+  "in_force": "2017-11-14",
+  "in_force_basis": "Official Birleşim Tarihi: 14.11.2017; adoption date for catalogue metadata; legal commencement not asserted",
+  "session": "1 / Oturum No : 1",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
