@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-170-124624",
+  "source_id": 36485,
+  "date": "2017-11-14",
+  "title": "6745 sayılı Kanun Kapsamında ÖTV'siz alınan aracın MTV istisnası olup olmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36485",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "24bdf9fef1e854268ce8ca65650d2203c7b34837c5c8837c04abcc1b63a97ee6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
