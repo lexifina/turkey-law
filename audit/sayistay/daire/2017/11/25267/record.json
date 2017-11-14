@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "170",
+  "decision_date": "2017-11-14",
+  "source_id": 25267,
+  "chamber": "4",
+  "ilam_number": "258",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25267/",
+  "source_sha256": "fc85bc71c2147a685770d413e37e33c228e47e3f30c04ae9698781a92bd137db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
