@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10658",
+  "decision_date": "2017-11-14",
+  "source_id": 25465,
+  "chamber": "1",
+  "ilam_number": "13",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25465/",
+  "source_sha256": "7adfc4c7cb41a727790b78613275c8b699193722aa5764dd939806d3f9aee249",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
