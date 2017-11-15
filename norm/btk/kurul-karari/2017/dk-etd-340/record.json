@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2017/DK-ETD/340",
+  "date": "2017-11-15",
+  "title": "Mahkeme Kararının İfası - 2013-634 sayılı Kurul Kararı",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2017-11-15",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=75",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/27859b1c-8c6e-47f8-a048-4766996d4b81.pdf",
+  "source_sha256": "ad47fc88ebf267949d9b8bf0bf22bb194e517158088e61063b30d975e47b8d70",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2017-11-15",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 15.11.2017; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
