@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.61.15.01-135[-ÖZG-21-2016]-83",
+  "source_id": 34100,
+  "date": "2017-11-15",
+  "title": "ÖTV İstisnasından Yararlanılarak İktisap Edilen Aracın Veraset Yoluyla İntikalinden Sonra Perte Ayrılması Durumunda ÖTV İstisnası Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34100",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "038b5bc502df0c42922d222fffdb6511b622a6b8db1adc5092af67b95b0179c9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
