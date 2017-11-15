@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43661",
+  "decision_date": "2017-11-15",
+  "source_id": 15616,
+  "chamber": "5",
+  "file_number": "41782",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15616/",
+  "source_sha256": "09d95010e7d9b2c34af6936da7da36e8c0c5abcd5fffcd472c17c97e11b8b0a6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
