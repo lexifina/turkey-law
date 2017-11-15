@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43654",
+  "decision_date": "2017-11-15",
+  "source_id": 15608,
+  "chamber": "5",
+  "file_number": "41757",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15608/",
+  "source_sha256": "8c70b04b3e34eda8c2a5cbb2d04ce2efe6858d6146990ffd450ed16f169827d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
