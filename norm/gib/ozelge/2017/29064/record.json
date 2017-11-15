@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.26.-125[10-2015/6]-62170",
+  "source_id": 29064,
+  "date": "2017-11-15",
+  "title": "Şirketin aktifine kayıtlı bulunan işyerinin vakfa bağışı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29064",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "ffe7475bbfbbb4c045f4bfdccb70c1c12b3508a4a6f0eef6f1f63aa5433cc790",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
