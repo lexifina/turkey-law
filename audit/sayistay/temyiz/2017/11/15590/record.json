@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43638",
+  "decision_date": "2017-11-15",
+  "source_id": 15590,
+  "chamber": "5",
+  "file_number": "41524",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15590/",
+  "source_sha256": "38f4e3c4a429135c44b449345728a4426eeee7a5c02486cc77c9366dc643a078",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
