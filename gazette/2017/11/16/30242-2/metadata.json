@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-11-16",
+  "issue": "30242",
+  "edition": "regular",
+  "item": 2,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARLARI",
+  "title": "1169 Bağcılık Sektörü ve Üzüm Üreticilerinin Sorunlarının Araştırılarak Alınacak Tedbirlerin Tespit Edilmesi Maksadıyla Bir Meclis Araştırması Komisyonu Kurulmasına Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171116-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171116.htm",
+  "index_sha256": "c8b4bd556298354e271987610a0f2f85683320d48adfb96613e97622bc5e79b1",
+  "index_header": "16 Kasım 2017 ... 30242 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171116.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
