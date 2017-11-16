@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "118",
+  "decision_date": "2017-11-16",
+  "source_id": 25705,
+  "chamber": "8",
+  "ilam_number": "48",
+  "item_number": 4,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2016,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25705/",
+  "source_sha256": "b579f04ba29b7f93ba39cb27960265af32fbca1aa58740294a95ee38771a16f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
