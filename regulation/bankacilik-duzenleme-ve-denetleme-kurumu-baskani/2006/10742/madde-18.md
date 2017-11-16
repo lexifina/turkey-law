@@ -1,0 +1,5 @@
+Tescil ve ilan
+MADDE 18 – (1) Bölünmeye dair genel kurul kararları ile ana sözleşme değişikliği genel kurulu izleyen yedi gün içinde Kuruma gönderilir.
+(2) Kurulun bölünmeye dair genel kurul kararlarının tescil edilebilmesine ilişkin onayı Resmî Gazete’de yayımlanır.
+(3) Bölünmeye dair genel kurul kararları ile ana sözleşme değişiklikleri, Kurul kararının Resmi Gazete’de yayınlanmasını izleyen yedi gün içinde, Sanayi ve Ticaret Bakanlığı veya İl Sanayi ve Ticaret Müdürlüklerine müracaat aranmaksızın, bölünen banka ve devralan banka, finansal kuruluş veya diğer anonim şirketlerin kayıtlı bulundukları Ticaret Sicil Memurluklarına tescil ve ilan olunur.
+(4) Bölünen banka ile devralan banka, finansal kuruluş veya diğer anonim şirketlerin genel kurul kararlarının tescilinden sonra, bankanın bölünmeye konu olan aktif ve pasifleri ile hak ve yükümlülükleri, devralan banka, finansal kuruluş veya diğer anonim şirketlere intikal eder. Tam bölünme halinde bölünen bankanın tüzel kişiliği sona ererek kayıtları Ticaret Sicilinden silinir.
