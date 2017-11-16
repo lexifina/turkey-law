@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "118",
+  "decision_date": "2017-11-16",
+  "source_id": 25703,
+  "chamber": "8",
+  "ilam_number": "48",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25703/",
+  "source_sha256": "9b0265e4b2c9b385a7e2ac94ff2527a716b6ba57cfaefe6dc9c7a90db47f4841",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
