@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "1057",
+  "decision_date": "2017-11-17",
+  "title": "MEC.KAR. (ERDEMLİ KORAMŞALI 152 ADA 21 PARSEL",
+  "listed_as": "1057 MEC.KAR. (ERDEMLİ KORAMŞALI 152 ADA 21 PARSEL",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/1057-meckar-erdemli-koramsali-152-ada-21-parsel-189-say-kar--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/mk08-17-kasim-2017-meclis-karari",
+  "listing_sha256": "ca598436cb8df98f9ba0d07ff4d30604e09ec92f99a162b6f72afdb2aebb3de4",
+  "meeting_title": "MK08-17 KASIM 2017 MECLİS KARARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
