@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7052",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Tunus Cumhuriyeti Hükümeti Arasında Ormancılık ve Su Alanında İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-11-18",
+  "gazette_issue": "30244",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-32.htm",
+  "source_sha256": "9fa614196fad83a3374d4749f55640571b7c81617eccf64e9a6d020647d4ef28",
+  "text_sha256": "13b1b9eae34492ef5ec19681c46d899e6fc734d0decfc438ec52c8d7cdc7081e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/11/18/30244-32",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-32.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
