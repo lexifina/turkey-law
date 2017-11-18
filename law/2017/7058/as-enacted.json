@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7058",
+  "year": 2017,
+  "title": "Yasa Dışı, Kayıt Dışı ve Düzenlenmemiş Balıkçı-lığı Önleme, Caydırma ve Ortadan Kaldırmaya Yönelik Liman Devleti Tedbirlerine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-11-18",
+  "gazette_issue": "30244",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-38.htm",
+  "source_sha256": "a14988937155efebc6cd851fbef62dc429cf3c22e0e170639c654666856e212e",
+  "text_sha256": "98ba9d1024b10bc850dd82859798f9d6bb96033191f8d1303e7afcfd5abbba60",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/11/18/30244-38",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-38.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
