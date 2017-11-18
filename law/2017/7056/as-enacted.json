@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7056",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Romanya Hükümeti Arasında Ormancılık Alanında İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-11-18",
+  "gazette_issue": "30244",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-36.htm",
+  "source_sha256": "d6327ec8558f531f6b6846cdbffa37b2a71af6a38c25ee48312e74a3e026bd95",
+  "text_sha256": "b181eef461bfdd76b58d4aa67f12b1647a7e8feae06c14c67a2e209ccb104035",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/11/18/30244-36",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-36.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
