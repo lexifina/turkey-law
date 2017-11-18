@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7059",
+  "year": 2017,
+  "title": "2001, Gemilerdeki Zararlı Organik Tutunma Önleyici Sistemlerin Kontrolüne İlişkin Uluslararası Sözleşmeye Katılmamızın Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-11-18",
+  "gazette_issue": "30244",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-39.htm",
+  "source_sha256": "6a8147bfa93f2f55d1c7a21c2d84044e75ceba8e11464519dbdc13ff07bc427d",
+  "text_sha256": "97e8ed3ca8f89dd2a5b1b006395142958a2983a2af270ff64fe9130a1c79c64f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/11/18/30244-39",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-39.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
