@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7053",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Yunanistan Cumhuriyeti Hükümeti Arasında Ormancılık Alanında Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-11-18",
+  "gazette_issue": "30244",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-33.htm",
+  "source_sha256": "69fd69c927ed1f53aa0dc6d9329114167a4e5bc72e4cf8dcbbbbb79a02dad560",
+  "text_sha256": "482c0de336a7abd2735ee90c4d520808aa4aaccbd260987a535b5bc55ab0d439",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/11/18/30244-33",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-33.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
