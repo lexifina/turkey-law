@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7055",
+  "year": 2017,
+  "title": "Çiftçilik Amaçlarıyla Beslenen Hayvanların Korunmasına Dair Avrupa Sözleşmesinin Onaylanmasının Uygun Bulunduğu Hakkında",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-11-18",
+  "gazette_issue": "30244",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-35.htm",
+  "source_sha256": "978cf0fb60e76ac1f486e605f076cf8c2c72647514c88573d908a1f3c880e951",
+  "text_sha256": "130192660577fd5b33d2a95f67036fe3a0ff2aab52b8ef88dffdba66c50a6060",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/11/18/30244-35",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-35.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
