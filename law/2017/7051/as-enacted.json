@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7051",
+  "year": 2017,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Nijer Cumhu-riyeti Hükümeti Arasında Ormancılık Alanında İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-11-18",
+  "gazette_issue": "30244",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-31.htm",
+  "source_sha256": "47e0f6e1c70f83395df70babb711d882c5b4e05cbfec15198ee07164b6f507b0",
+  "text_sha256": "1f0c88bb0d591deecbf95dcb5d25b54707b83de7dfd79f6dd89feed8d8278744",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/11/18/30244-31",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/11/20171118-31.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
