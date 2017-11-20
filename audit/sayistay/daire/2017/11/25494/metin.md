@@ -1,0 +1,19 @@
+… sayılı ilamın … nci maddesinin (..) bendiyle; … yüklenimindeki … işinde; tekrar sıvanacak yüzeylere V.0402 Sıva raspası yapılması pozu yerine V.0401 İtinalı sıva raspası yapılması iş kaleminden ödeme yapılması sonucu oluşan … TL kamu zararının sorumlulardan tahsili gerekmekte ise de bu tutarın tahsil edilmesi nedeniyle ilişilecek husus kalmadığına karar verilmişti.
+
+Söz konusu hüküm hakkında sorumluların yapmış olduğu temyiz başvurusu üzerine Sayıştay Temyiz Kurulunun … tarih ve … tutanak numaralı kararı ile hüküm tasdik edilmiş olup, sorumluların karar düzeltme başvurusu üzerine Sayıştay Temyiz Kurulunca verilen … tarih ve … tutanak numaralı kararın 1 inci maddesinde;
+
+“… İşinde başlangıçta, V.0401 numaralı Zemin bozulmayacak şekilde itinalı sıva raspası pozu ile imalat yapılmasına karar verilmiş olup; bu aşamada eserin tekrar sıvanıp sıvanmayacağı belli değildir. Zeminde yapılan incelemelerden sonra bilim kurulu ve proje müellifi kararıyla tekrar sıva yapılmasına karar verilmiştir. Bu duruma göre, ilamdaki sorumluların kusurundan ve kamu zararından söz etmek mümkün değildir.
+
+Bu itibarla, karar düzeltme talebinin kabul edilerek … tarih ve …tutanak sayılı Temyiz Kurulu İlamının ..’inci maddesinin (..) bendinin DÜZELTİLMESİNE MAHAL OLDUĞUNA, yapılan ödemenin yasal düzenlemelere uygunluğu ve gerçekleştirilen tahsilatın ahizlerine iadesi yönünde hüküm kurulmasını teminen … sayılı ilam'ın …’nci maddesinin (..) bendi ile verilen hükmün BOZULARAK DAİRESİNE TEVDİİNE, Oyçokluğu ile karar verilmiştir ”
+
+Denilmektedir.
+
+… işinde sıva raspası yapılması gereken duvar yüzeylerinde V.0401 poz nolu Zemin bozulmayacak şekilde itinalı sıva raspası yapılması imalatının, restorasyona konu yapının tarihi eser olması ve tarihi dokunun zarar görme ihtimali dikkate alındığında, sıvanın altında bulunan yüzeylerin korunması amaçlanarak zaruri olarak yapıldığı anlaşılmaktadır. Bu imalatın yapılmasında yüzeyin tekrar sıvanıp sıvanmayacağı başlangıçta belli olmaması, V.0402 poz nolu Tekrar sıvanacak taş ve tuğla gibi satıhlarda sıva raspası yapılması imalatının uygulanması durumunda yapıda tahribata yol açma ihtimalinin söz konusu olması ve zeminde yapılan incelemelerden sonra Temyiz Kurulu Kararında bilim kurulu ve proje müellifi kararıyla tekrar sıva yapılmasına karar verilmiş olduğunun belirtilmesi nedenleriyle, başlangıçta V.0401 pozuna ait imalatın uygulanması ve yükleniciye bu pozdan ödeme yapılmasında mevzuata aykırılık bulunmamaktadır.
+
+Bu itibarla, tahsil edilen … TL’nin ahizine iadesine,
+
+ (Üye …’ın; “V.0401 poz nolu imalatın uygulandığı duvar yüzeylerinin tekrar sıvanıp sıvanmayacağı başlangıçta belli olmamakla beraber zeminde yapılan incelemelerden sonra bilim kurulu ve proje müellifi kararıyla tekrar sıvandığı belirtilmektedir. Ancak tekrar sıva yapılmasının dayanağı olduğu belirtilen bilim kurulu kararı ibraz edilmediğinden itinalı sıva raspası yapılmasına ilişkin bir zorunluluk ortaya konulamamıştır. Bu nedenle yapılan ödeme kamu zararı niteliğinde ise de tespit edilen kamu zararının tahsil edilmiş olması nedeniyle tahsilatın ilamda gösterilmesine karar verilmesi gerekir.” ve
+
+Üye …’in; “Vakıflar Genel Müdürlüğü Eski Eser Birim Fiyat Listesinde yer alan “Önemli Not” bölümünün “A- Eski Eser Onarım ve Restorasyonlarında Dikkat Edilecek Hususlar” kısmının 20 nci maddesinde; “V.0401 pozu tekrar sıvanacak yüzeyler için kullanılamaz” denilmektedir. Bu durumda, söz konusu iş kapsamında tekrar sıvanacak yüzeylerin raspa edilmesi için V.0401 Zemin bozulmayacak şekilde itinalı sıva raspası yapılması iş kalemi yerine V.0402 Tekrar sıvanacak taş ve tuğla gibi satıhlarda sıva raspası yapılması iş kaleminin kullanılması ve imalat bedelinin de bu pozdan ödenmesi gerekmektedir. Bu nedenle V.0401 pozunda ödeme yapılması nedeniyle oluşan kamu zararı tahsil edildiğinden tahsilatın ilamda gösterilmesine karar verilmesi gerekir.” )
+
+Şeklindeki görüşlerine karşın, oy çokluğuyla,
