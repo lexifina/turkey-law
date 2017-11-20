@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-125[6-2015/20-266]-68007",
+  "source_id": 22277,
+  "date": "2017-11-20",
+  "title": "Kuş gribi (tavuk vebası) nedeniyle imha ve itlaf edilen tavuk, yumurta ve üretim ve pazarlamada kullanılan mal ve malzemelerin Kurumlar ve Katma Değer V",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/22277",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "fe7ecf7b07a9d8d21518745da88abd740fa1a629db5799eb64224923e6a2f606",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
