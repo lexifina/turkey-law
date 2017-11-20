@@ -1,0 +1,5 @@
+Geçici Madde 8 – (9/3/1995 tarih ve 4087 sayılı Kanunun hükmüdür.)
+Bu maddenin yürürlüğe girdiği tarihten önce, 2802 sayılı Hakimler ve Savcılar Kanununun 9, 39 ve 40 ıncı maddelerine göre hakimlik ve savcılık mesleğine gir- miş bulunanlar hakkında da 3 üncü maddenin üçüncü fıkrası hükmü uygulanır. (2)
+Bu durumda olanlardan, bu maddenin yürürlüğe girdiği tarihten önce birinci sınıfa ayrılmalarına karar verilmiş olan hakim ve savcıların birinci sınıfa ayrılma tarihleri de 39 uncu maddenin üçüncü fıkrası hükmüne göre düzeltilir. (2)
+Geçici Madde 10 fıkra iki - (9/3/1995 tarih ve 4087 sayılı Kanunun hükmüdür.)
+24 Mayıs 1989 tarihinden önce mesleğe girmiş ve halen görevde olan askeri hakimler, 357 sayılı Kanunun 15 inci maddesindeki süre kaydına bakılmaksızın bu Kanundaki diğer koşulları taşımak kaydıyla, binbaşı rütbesine nasbedildikleri tarihte birinci sınıf askeri hakimliğe geçirilirler. Daha önceki tarihler itibariyle bu şartları taşıyanların birinci sınıfa ayırma işlemleri, birinci sınıfa ayrılmayı hakettikleri tarihe göre düzeltilir. (2)

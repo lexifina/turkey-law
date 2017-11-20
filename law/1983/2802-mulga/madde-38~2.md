@@ -1,0 +1,2 @@
+Madde 38 – (25/6/1992 tarih ve 3825 sayılı Kanunun hükmüdür.)
+Bakanlık merkez kuruluşundaki hizmetlerde çalışan birinci sınıf hakim ve savcılar ile diğer sınıflara mensup hakim ve savcılar Adalet Bakanı'nın teklifi üzerine, Bakanlık hizmetlerinde kazanmış oldukları haklar korunmak suretiyle; idari yargıdan gelmiş olanlar idari yargıda; adli yargıdan gelmiş olanlar adli yargıda durumlarına göre Hakimler ve Savcılar Yüksek Kurulunca uygun görülecek hakimlik ve savcılık görevlerine teklif tarihinden itibaren en geç bir ay içinde atanırlar.

@@ -1,0 +1,7 @@
+Lisansüstü öğrenim yapmış olanlar:
+Madde 31 – (24/2/1988 tarihli ve 3409 sayılı Kanunun hükmüdür.)
+Meslekleriyle ilgili konularda master veya doktora öğrenimi yapmak isteyenlerle Türkiye ve Ortadoğu Amme İdaresi Enstitüsüne devam etmek isteyen hakim ve savcıların, Hakimler ve Savcılar Yüksek Kurulundan izin almaları şarttır. Aday iken öğrenime başlayanlar hakimlik veya savcılığa atandıktan sonra Kurulun muvafakatını almak şartıyla bu öğrenimlerine devam edebilirler.
+Birinci fıkradaki öğrenimlerini yapanların derece yükselmeleri, kademe ilerlemeleri, birinci sınıfa ayrılma, aylık, ödenek, diğer mali ve sosyal hakları devam eder ve mecburi öğrenim süresince izinli sayılırlar.
+Ancak, bu şekilde öğrenime devam edenler izinli sayıldıkları süre kadar Bakanlığa karşı mecburi hizmetle yükümlüdürler. Bu yükümlülüğü yerine getirmeden görevlerinden ayrılanlar kendilerine verilen aylık, ödenek ve diğer tazminatların iki katını ödemek zorundadırlar.
+Master öğrenimi ile Türkiye ve Ortadoğu Amme İdaresi Enstitüsünü başarı ile bitirenlere bir kademe ilerlemesi, doktora yapanlara bir derece yükselmesi uygulanır. Bu uygulamada alt derece ve kademede geçen süre üst derece ve kademede geçmiş sayılır.
+Madde 32 fıkra iki - (9/3/1995 tarihli ve 4087 sayılı Kanunun hükmüdür.) Meslekleriyle ilgili lisansüstü öğrenim (Master) yapmış olanlarla Türkiye ve Orta Doğu Amme İdaresi Enstitüsünü başarıyla bitirenler için dokuz, meslekleriyle ilgili öğrenim dallarında doktora yapanlar için sekiz yıllık meslek kıdemi, birinci sınıfa ayrılmada yeterli sayılır.

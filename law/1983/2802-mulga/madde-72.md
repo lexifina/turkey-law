@@ -1,0 +1,4 @@
+Madde 72 – (24/2/1983 tarihli ve 2802 sayılı Kanunun hükmüdür.)
+Hakim ve savcılar hakkında ceza kovuşturmasına başlanmış olması, aynı olaydan dolayı disiplin kovuşturmasını gerektirmeyecegi gibi, ilgilinin mahküm olması veya olmaması ayrıca disiplin cezası verilmesins engel teşkil etmez.
+Madde 78 fıkra üç - (24/2/1983 tarihli ve 2802 sayılı Kanunun hükmüdür.) Haklarında; meslekten çıkarmayı gerektirmeyecek bir ceza mahkümiyeti ile birlikte uyarma cezası hariç herhangi bir disiplin cezası verilmiş olanlarla, ceza mahkümiyeti verilmemekle beraber uyarma cezası hariç herhangi bir disiplin cezası verilenlerin, kesilmiş olan aylık ve ödenekleri iade edilmez, görevden uzakta geçirdikleri süreler kademe ilerlemesi ve derece yükselmelerinde değerlendirilmez.
+Madde 88 fıkra bir son cümle - (24/2/1983 tarihli ve 2802 sayılı Kanunun hükmüdür.) Sıkıyönetim Kanunu hükümleri saklıdır.
