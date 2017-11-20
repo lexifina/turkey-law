@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76464994-160[VRS.2017.2] - 190551",
+  "source_id": 36389,
+  "date": "2017-11-20",
+  "title": "Murisin ticari işletmesinden kaynaklı kredi anapara ve faiz ödemelerinin Veraset ve İntikal Vergisi Beyannamesine ne şekilde yansıtılacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36389",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "91dcf7380a0ca1e129ea49f2f7886c92604421d5068e9ed98b631ae77e3d0743",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
