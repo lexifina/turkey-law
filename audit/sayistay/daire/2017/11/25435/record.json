@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10661",
+  "decision_date": "2017-11-20",
+  "source_id": 25435,
+  "chamber": "1",
+  "ilam_number": "358",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25435/",
+  "source_sha256": "d89014d68c7fd2babb1252f727e446b8105ebc7a7066a67ed714e47a8b5af2e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
