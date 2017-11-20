@@ -1,0 +1,2 @@
+Madde 207 – (27/7/1967 tarih ve 926 sayılı Kanunun hükmüdür.)
+3 Mart 1954 gün ve 6320 sayılı Çavuş ve Uzman Çavuş Kanununa tabi uzman çavuşlarla, 24 Haziran 1965 gün ve 635 sayılı Uzman Jandarma Kanununa tabi uzman jandarmaların aylıkları, mahrumiyet yeri ödeneği, aile yardım ödeneği, ölüm yardımı ödeneği, doğum yardımı ödeneği ve emeklilik hakkı olanların emeklilik ikramiyeleri bu kanunda yazılı esaslara göre ödenir. Bunların gösterge rakamları ile kademeleri ek - 5 sayılı çizelgede gösterilmiştir.

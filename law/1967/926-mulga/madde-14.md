@@ -1,0 +1,6 @@
+Madde 14 – (27/7/1967 tarih ve 926 sayılı Kanunun hükmüdür.)
+(3/7/1975 tarih ve 1923 sayılı Kanunun hükmüdür.) Üniversitelerin çeşitli fakültelerini veya yüksek okulları bitirenlerden muvazzaf subay olmak için başvuranlar, otuz yaşından büyük olmamak ve diğer nitelikleri de haiz bulunmak şartı ile ihtiyaç da varsa Türk Silahlı Kuvvetlerinin harp okullarında yetiştiremediği sınıflarda muvazzaf subaylığa nasbedilebilirler.
+(31/7/1970 tarih ve 1323 sayılı Kanunun hükmüdür.) Üniversitelerin çeşitli fakültelerini veya yüksek okulları bitirerek muvazzaf subay olmak için başvuran astsubaylar da 30 yaşından büyük olmamak ve diğer nitelikleri de haiz bulunmak şartı ile, ihtiyaç da varsa;öğrenimlerinin ilgilendirdiği sınıflarda teğmen rütbesi ilemuvazzaf subaylığa nakledilebilirler. Bunlardan, nasbe dildikleri teğmen rütbesinin aylığından fazla derece ve kademe aylığı alanlar daha önce emsal oldukları astsubayların derece, kademe ve yükselecekleri yeni derece ve kademe aylıklarına göre aylık almaya devam ederler. Ancak yükselecekleri subaylık rütbe ve kıdemliliğindeki aylık derece ve kademeleri emsalleri astsubayların aylık derece ve kademelerine eşit hale gelince emsali subaylar hakkındaki aylık derece ve kademelerine tabi tutulurlar.
+1022
+357 sayılı Kanun hükümleri saklıdır.
+Bu kişiler, muharip sınıf subaylığa nakledilemezler.

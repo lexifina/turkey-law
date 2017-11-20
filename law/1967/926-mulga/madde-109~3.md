@@ -1,0 +1,1 @@
+Madde 109 - fıkra bir bent b - (3/7/2003 tarihli ve 4917 sayılı Kanunun hükmüdür.) Subaylık için sınava müracaat tarihinde astsubaylığa nasıp tarihinden itibaren almış olduğu mevcut sicil notlarının ortalaması, sicil tam notunun yüzde doksan ve daha yukarısı olmak.

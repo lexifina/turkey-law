@@ -1,0 +1,3 @@
+Madde 126- birinci fıkra-(a) ve (e) bentleri ( 27/7/1967 tarihli ve 926 sayılı Kanunun hükmüdür.)
+a) Ana, baba, eş, çocuk ve kardeşlerinin ölümü halinde on gün,
+e) (Ek: 29/7/1998 - 4376/2 md.) Subay ve astsubaylara,bakmaya mecbur olduğu veya refakat etmediği takdirde hayatı tehlikeye girecek ana, baba,eş ve çocukları ile kardeşlerinden birinin ağır bir kaza geçirmesi veya önemli bir hastalığa tutulmuş olması hallerinde, bu hallerin raporla belgelendirilmesi şartıyla, istekleri üzerine en çok üç aya kadar aylıksız izin verilebilir. Bu süre aynı şartlarla bir katına kadar uzatılabilir. Aylıksız izin süresi mecburi hizmet süresinden sayılmaz.

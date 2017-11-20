@@ -1,0 +1,1 @@
+Madde 49 – birinci fıkra – a bendi- (28/6/1978 tarihli ve 2159 sayılı Kanunun hükmüdür.) Barışta, Türk Silahlı Kuvvetlerinde general - amiral kadroları (b) bendinde gösterilen rütbe miktarlarına ait kontenjanları aşmamak, görev ve hizmet ile kadro ve teşkilat ihtiyaçları da dikkate alınmak suretiyle Genelkurmay Başkanlığınca saptanır.

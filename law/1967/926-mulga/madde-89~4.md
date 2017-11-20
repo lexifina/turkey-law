@@ -1,0 +1,10 @@
+Madde 89 – (18/6/2003 tarihli ve 4902 sayılı Kanunun hükmüdür.)
+Kara, Deniz, Hava Kuvvetleri komutanlıklarına, Jandarma Genel Komutanlığı ile Sahil Güvenlik Komutanlığına ait astsubay kadroları, her yıl 30 Ağustos tarihine kadar sınıfı (varsa branşı) belirtilerek Genelkurmay Başkanlığınca saptanır.
+Madde 113 birinci fıkra –c bendi- (Değişik: 22/1/2015 - 6586/49 md.) Harp Akademileri Eğitimi bünyesinde verilen Kuvvet Harp Akademisi ve Silahlı Kuvvetler Yüksek Sevk ve İdare Akademisi eğitimlerini veya komutanlık ve karargâh subaylığı öğrenimini bitiren subayların ve Türk Silâhlı Kuvvetleri Astsubay Üst Karargâh Hizmetleri Eğitim Merkezi Komutanlığınca düzenlenen Astsubay Üst Karargâh Hizmetleri Eğitimini bitiren astsubayların yükümlülükleri, buralarda geçen süreler kadar uzatılır.
+Madde 113 birinci fıkra –d bendi- (9/11/2016 tarihli ve 6757 sayılı Kanunun hükmüdür.) Pilotaj eğitimini (pilot adaylarına verilen uçuş eğitimini) bitirenlerin yükümlülükleri sekiz yıl uzatılır.
+–––––––––––––
+(1) 11/2/2014 tarihli ve 6519 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan “ve rütbe terfileri” ibaresi madde metninden çıkarılmıştır.
+1034-79
+Madde 121 birinci fıkra- b bendi- (27/7/1967 tarihli ve 926 sayılı Kanunun hükmüdür.) General ve amirallerin atanmaları, Kuvvet Komutanlarının lüzum göstermesi ve Genelkurmay Başkanının teklifi üzerine Milli Savunma Bakanının inhası, Başbakanın imzalıyacağı ve Cumhurbaşkanının onaylıyacağı kararname ile,
+Madde 121 birinci fıkra- c bendi- (27/7/1967 tarihli ve 926 sayılı Kanunun hükmüdür.) Kuvvet Komutanları ve Genelkurmay İkinci Başkanı general ve amirallerin atanmaları, Genelkurmay Başkanının teklifi, Milli Savunma Bakanının inhası, Başbakanın imzalıyacağı ve Cumhurbaşkanının onaylıyacağı kararname ile,
+Madde 121 birinci fıkra- d bendi- (18/6/2003 tarihli ve 4902 sayılı Kanunun hükmüdür.) Askerî hâkimlerin, Gülhane Askerî Tıp Akademisi öğretim üyesi olan profesör ve doçentlerin ve Jandarma Genel Komutanlığı ile Sahil Güvenlik Komutanlığının subay ve astsubaylarının atanmaları; özel kanunları gereğince;

@@ -1,0 +1,5 @@
+Madde 172 – (18/11/1969 tarih ve 1191 sayılı Kanunun hükmüdür.)
+18/5/1929 tarih ve 1453 sayılı Kanunun 7 nci maddesince verilmekte olan makam tazminatı, hizmet eri tazminatı, tayın bedeli, mahrumiyet yeri ödeneği, general - amiral tazminatı ve Türk Silahlı Kuvvetlerinde görevli subay ve astsubaylara 17/1/1963 tarih ve 144, 18/4/1963 tarih ve 223 sayılı kanunlarla verilmekte olan tazminattan başka herhangi bir adla tazminat, ödenek veya ihtisas ücreti alanlara kıta tazminatı verilmez. Bunlardan kıta tazminatı verilmesi gereken bir göreve tayin edilenler, fazla olan tazminatı tercih edebilirler. Ancak; kıta tazminatını tercih ettiklerinde bu tazminat, görev katılış tarihini takibeden aybaşından itibaren ödenmeye başlanır ve almaktan sarfınazar ettikleri tazminat da aynı zamanda kesilir.
+Bir göreve bir ay ve daha fazla süre ile vekalet edenler o görevde kendi rütbesinin gerektirdiği kıta tazminatını alırlar ve yalnız bir görev için kıta tazminatı ödenir.
+Bu bölümde gösterilen hükümlerin uygulanmasına ait hususlar bir yönetmelikle düzenlenir.
+975

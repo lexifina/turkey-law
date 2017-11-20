@@ -1,0 +1,2 @@
+Madde 188 – (27/7/1967 tarih ve 926 sayılı Kanunun hükmüdür.)
+Savaş madalyasının verilmesini gerektiren hallerin üstünde başarılı sevk ve idare kabiliyeti veya görev icabı üstün kahramanlık ve cesaret göstermek suretiyle muharebenin gidişini değiştirecek veya savaş neticesine tesir edecek durumlar meydana getiren subay ve astsubaylara, üst makamlarca müteselsilen tasdik olunacak inhalar üzerine savaş takdirnamesi verilir.

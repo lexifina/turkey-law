@@ -1,0 +1,2 @@
+Geçici Madde 22 – (27/7/1967 tarih ve 926 sayılı Kanunun hükmüdür.)
+Bu Kanunun 113 üncü maddesi uyarınca öğrenim, kurs ve staj yapmaları sebebiyle; kendilerine yükümlülük uygulanması gereken subaylardan, halen bu yükümlülüğü gerektiren öğrenim, kurs ve stajlarını bitirmiş olanlarla; bu öğrenim, kurs ve stajlara başlamış olanların yükümlülükleri hakkında 6077 sayılı Subay ve Askeri Memurların Mecburi Hizmetleri ve İstifaları hakkındaki Kanun hükümleri uygulanır.

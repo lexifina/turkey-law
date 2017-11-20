@@ -1,0 +1,1 @@
+Madde 202- birinci fıkra -f bendi- (22/1/2015 tarihli ve 6586 sayılı Kanunun hükmüdür.) Askerî öğrencilerden ulusal ve uluslararası müsabakalarda dereceye girenler, proje ve sempozyumlarda Türk Silâhlı Kuvvetlerini başarıyla temsil edenler ile eğitim, öğretim aşamalarında başarılı olanlar,

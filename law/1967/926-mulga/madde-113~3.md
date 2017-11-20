@@ -1,0 +1,2 @@
+Madde 113 – birinci fıkra- (c) ve (ç) bentleri (22/5/2012 tarihli ve 6318 sayılı Kanunun hükmüdür.) c) Harp Akademileri Eğitimi bünyesinde verilen Kuvvet Harp Akademisi ve Silahlı Kuvvetler Akademisi eğitimlerini bitiren subayların yükümlülükleri, buralarda geçen süreler kadar uzatılır.
+ç) Silahlı Kuvvetler hesabına yurt içinde Tıpta Uzmanlık Eğitimini bitirenlerin yükümlülükleri, buralarda geçen sürelerin yarısı kadar uzatılır.

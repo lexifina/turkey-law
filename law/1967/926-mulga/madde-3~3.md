@@ -1,0 +1,1 @@
+Madde 3 – birinci fıkra –(m) bendi - (18/6/2003 tarihli ve 4902 sayılı Kanunun hükmüdür.) Sicil notu : Sicil belgelerine sicil üstlerince yapılan işaretlemelerin, Sicil Yönetmeliğinde belirlenecek esaslar dahilinde, kuvvet komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca nota tahvil edilmesi sonucu bulunan notların ortalamasıdır.

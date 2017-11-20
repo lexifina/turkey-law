@@ -1,0 +1,2 @@
+78 –24/4/2008 tarihli ve 5758 sayılı Kanun ile değiştirilmiş olan hükümlerin metinleri. (Madde numaraları:8,35,36,109,115, 150.)
+Madde 8 - fıkra son – (18/6/2003 tarihli ve 4902 sayılı Kanunun hükmüdür.) Emeklilik hakkını kazananlar, emekliliklerini ancak Ocak ve Şubat ayları içinde isteyebilirler. Bu aylar dışındaki emeklilik istemleri; ancak ilgili kuvvet komutanları, Jandarma Genel Komutanı veya Sahil Güvenlik Komutanının hizmet gerekleri itibarıyla uygun görmesi halinde kabul edilebilir.

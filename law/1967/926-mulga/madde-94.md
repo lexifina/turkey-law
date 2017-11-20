@@ -1,0 +1,6 @@
+Madde 94 – (27/7/1967 tarih ve 926 sayılı Kanunun hükmüdür.)
+Rütbe terfii için gerekli yeterlik grubuna giremiyen astsubaylar hakkında aşağıdaki esaslara göre işlem yapılır:
+a) Astsubay üstçavuş ve kıdemli üstçavuşlardan yapılan son değerlendirme sonucunda beşinci, astsubay başçavuşlardan dördüncü ve beşinci yeterlik grubuna giren ve fiili hizmet yılı toplamı yirmibeş yıl ve daha fazla olanlar hakkında Türkiye Cumhuriyeti Emekli Sandığı Kanununun emekliye sevk ile ilgili hükümleri uygulanır.
+b) Kıdemli başçavuşlardan yapılan son değerlendirme sonunda dördüncü ve beşinci yeterlik grubuna girenler hakkında (a) bendi hükmü uygulanır.
+c) Terfi hakları olmaksızın yirmibeş fiili hizmet yılını tamamlayıncaya kadar hizmete devam edecek astsubaylardan, Astsubay Sicil Yönetmeliğinde gösterilen esaslara göre kendisinden istifade edilemiyeceği anlaşılanlar hakkında, hizmet sürelerine bakılmaksızın Türkiye Cumhuriyeti Emekli Sandığı Kanunu hükümlerine göre işlem yapılır.
+d) Disiplinsizlik veya ahlaki durumları sebebiyle Silahlı Kuvvetlerde kalmaları uygun görülmiyen astsubayların hizmet sürelerine bakılmaksızın haklarında Türkiye Cumhuriyeti Emekli Sandığı Kanunu hükümlerine göre işlem yapılır. Bunlar hakkındaki lüzumlu raporlarının ne suretle ve ne zaman tanzim edileceği Astsubay Sicil Yönetmeliğinde gösterilir.

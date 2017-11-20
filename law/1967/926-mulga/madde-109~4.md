@@ -1,0 +1,2 @@
+Madde 109 - altıncı fıkra – c bendi – (3/7/2003 tarihli ve 4917 sayılı Kanunun hükmüdür.) c) Taksirli suçlar hariç olmak üzere, (a) ve (b) bentlerinde sayılan suçların dışındaki suçlardan askerî ve adlî mahkemeler, disiplin mahkemeleri veya disiplin amirlerince toplam olarak yirmibir gün ve daha fazla hapis veya oda hapsi cezası ile mahkûm olmak veya cezalandırılmak.
+86- Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113, K.: 2012/108 sayılı Kararı ile yürürlükten kaldırlmış hükümlerin metinleri: (Madde Numarası : Ek Madde 27.)

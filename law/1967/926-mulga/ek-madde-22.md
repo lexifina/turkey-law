@@ -1,0 +1,1 @@
+Ek Madde 22 – birinci fıkra – c bendi -(Bu madde 31/7/1970 - 1323 sayılı Kanunun 18 inci maddesi hükmü olup, ek maddeye çevrilerek numarası teselsül ettirilmiştir.) Öğrenci harçlıkları ile ilgili hükümleri bu maddenin (a) fıkrası esaslarına göre uygulanır.

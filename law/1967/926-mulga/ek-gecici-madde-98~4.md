@@ -1,0 +1,1 @@
+Ek Geçici Madde 98- dokuzuncu fıkra- (15/8/2017 tarihli ve 694 sayılı KHK’nin hükmüdür.) Subay nasbedilen pilotların çalıştıkları firmalarla yaptıkları iş sözleşmeleri Türk Silahlı Kuvvetlerinde görev yaptıkları sürece askıya alınır. Görev süreleri sona erenler, görev öncesi çalıştıkları firmalar tarafından yeniden istihdam edilir.

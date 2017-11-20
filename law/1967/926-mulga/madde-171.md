@@ -1,0 +1,5 @@
+Madde 171 – (27/7/1967 tarih ve 926 sayılı Kanunun hükmüdür.)
+Aşağıdaki hallerde kıta tazminatı verilmez:
+a) Sürekli görevle yurt dışına atananların kıta tazminatı, yurt dışındaki görevlerine başladıkları tarihi takip eden aybaşından itibaren kesilir ve yurt dışı görevlerinden, atanacakları yurt içi görevlerine başladıkları tarihi takip eden aybaşından itibaren tekrar ödenmeye başlanır.
+b) 168 inci maddenin (a) bendine göre tazminat verilmesi gereken bir görevden (b) bendine göre tazminat verilmesi gereken veya (b) bendine göre tazminat verilmesi gereken bir görevden (a) bendine göre tazminat verilmesi gereken bir göreve atananlara, yeni görevlerine başladıkları tarihi takip eden aybaşından itibaren, yeni görev yerlerine uygun kıta tazminatları verilir.
+c) Silahlı Kuvvetleri kadroları dışında bir göreve atananlardan, verildikleri bu görev icabı ayrı bir tazminat alma durumuna girenler, bu iki tazminattan birisini tercih etmek zorundadırlar. Tercih ettikleri tazminatın verilmeye başlandığı tarihte diğer tazminat kesilir.

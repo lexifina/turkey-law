@@ -1,0 +1,1 @@
+Madde 94 – birinci fıkra- (a) bendi - 1 numaralı alt bent- (17/4/1975 tarihli ve 1876 sayılı Kanunun hükmüdür.) Rütbe bekleme süresi sonunda veya sonraki yıllarda yapılan yeterlik sıralamasında sicil notu ortalaması sicil tam notunun % 50 sinden az olan üstçavuş - başçavuşlar;

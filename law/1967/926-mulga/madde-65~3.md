@@ -1,0 +1,1 @@
+Madde 65 – birinci fıkra- (c) bendi 2 numaralı Numaralı alt bendi (26/3/1982 tarihli ve 2642 sayılı Kanunun hükmüdür.) Soruşturmaya konu olan fiillerinin hizmetlerine devama engel olmadığı anlaşılanların açıkları, haklarında karar verilmesi beklenmeksizin kaldırılabilir.

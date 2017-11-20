@@ -1,0 +1,1 @@
+Madde 82- birinci fıkra - (28/5/2003 tarihli ve 4861 sayılı Kanunun hükmüdür.) Astsubaylığa nasıp (…) (1) , ilgili kuvvet komutanı, Jandarma Genel Komutanı veya Sahil Güvenlik Komutanının teklifi ve Genelkurmay Başkanının lüzum göstermesi üzerine Millî Savunma Bakanı veya İçişleri Bakanının onayı ile yapılır. (1)

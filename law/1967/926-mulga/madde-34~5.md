@@ -1,0 +1,1 @@
+Madde 34 – ikinci fıkra -(11/2/2014 tarihli ve 6519 sayılı Kanunun hükmüdür.) Asteğmen-albay rütbeleri arasında rütbe terfileri, ilgili kuvvet komutanlığı (Jandarma subayları için Jandarma Genel Komutanlığı, Sahil Güvenlik subayları için Sahil Güvenlik Komutanlığı) Kurmay Başkanının onayı ile yapılır.

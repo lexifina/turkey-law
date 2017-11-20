@@ -1,0 +1,1 @@
+Madde 50 – birinci fıkra – b bendi -1 numaralı alt bent - (17/4/1975 tarihli ve 1876 sayılı Kanunun hükmüdür.) Rütbe bekleme süresi sonunda veya sonraki yıllarda sicil notu ortalaması sicil tam notunun % 50 sinden aşağı düşen yüzbaşı ve binbaşılar ile % 60 ının altına düşen yarbay ve albaylar,

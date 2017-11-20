@@ -1,0 +1,5 @@
+47 – 17/6/1992 tarih ve 3815 sayılı Kanun ile yürürlükten kaldırılmş veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları : 202, 203.)
+Madde 202 – (3/7/1975 tarih ve 1923 sayılı Kanunun hükmüdür.)
+Silahlı Kuvvetler (Jandarma dahil) subay, astsubay, erbaş ve erlerden eğitimde, atışta, uçuculukta, deniz altıcılıkta, dalgıç ve kurbağa adam hizmetlerinde, bakımda, haritacılık hizmetlerinde, tabii afetlerde, üstün hizmet ve başarı gösteren, yeni buluşlar yapan veya mevcut usullerde yenilikler getiren, Silahlı Kuvvetlerde yabancı dil bilen personelin miktarını artırmak, subay ve astsubayların boş zamanlarını yararlı bir şekilde değerlendirmek amacıyla Kuvvet Komutanlıkları ile Jandarma Genel Komutanlığınca gerekli görülecek yerlerde açılacak yabancı dil
+1034-14
+kurslarında öğretmenlik yapan mesleğine ait eser yazan veya tercüme eden kişiler ile askeri okullardan yönetmeliklerinde saptanan derecelerle mezun olan öğrenciler Ödül Yönetmeliğinde belirtilen esaslar dahilinde ödül verilmek suretiyle taltif olunurlar.

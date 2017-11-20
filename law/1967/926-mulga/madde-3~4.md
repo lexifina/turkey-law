@@ -1,0 +1,1 @@
+Madde 3 – birinci fıkra –(r) bendi - (28/7/1998 tarihli ve 4374 sayılı Kanunun hükmüdür) Sicil tam notu: Sicil belgelerinde yazılı niteliklerden her biri için, Sicil Yönetmeliğinde gösterilecek notların toplamıdır.

@@ -1,0 +1,1 @@
+Ek Geçici Madde 98- yedinci fıkra- (15/8/2017 tarihli ve 694 sayılı KHK’nin hükmüdür.) Ek geçici 92 nci madde kapsamında subaylığa nasbedilen ve bu madde kapsamında uygulama yapılan hava aracı tiplerinde görevli pilotlar, şartları sağlamaları halinde, müracaat tarihinden itibaren 4 yıl zorunlu hizmet şartıyla bu madde kapsamına alınırlar.

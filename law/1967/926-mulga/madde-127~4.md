@@ -1,0 +1,2 @@
+Madde 127 – birinci fıkra- giriş cümlesi- (18/6/2003 tarihli ve 4902 sayılı Kanunun hükmüdür.) Türk Silahlı Kuvvetleri personelinden general ve amirallere Genelkurmay Başkanlığınca, bu Kanun kapsamına giren diğer personelden; Genelkurmay Başkanlığına bağlı olanlara Genelkurmay Başkanlığınca, Millî Savunma Bakanlığına bağlı olanlara Millî Savunma Bakanlığınca, kuvvet komutanlıkları ile Jandarma Genel Komutanlığına ve Sahil Güvenlik Komutanlığına bağlı olanlara ise, kuvvet komutanlıkları ve Jandarma Genel Komutanlığı ile Sahil Güvenlik Komutanlığınca;
+1034-80

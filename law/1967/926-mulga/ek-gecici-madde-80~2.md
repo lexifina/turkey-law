@@ -1,0 +1,1 @@
+Ek Geçici Madde 80 – dördüncü fıkra- ikinci cümle -(3/7/2003 tarihli ve 4917 sayılı Kanunun hükmüdür.) Bunlara; rütbe, rütbe normal bekleme süreleri, yaş hadleri de dahil olmak üzere diğer hususlar için, muvazzaf subaylar hakkındaki hükümler uygulanır.

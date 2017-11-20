@@ -1,0 +1,2 @@
+85 –31/1/2013 tarihli ve 6413 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükmün metinleri. (Madde numaraları: 36, 50, 94, 109.)
+Madde 36 – (4) numaralı bent – (cc) alt bendi - (7/7/1971 tarihli ve 1424 sayılı Kanunun hükmüdür.) cc) Taksirli suçlar hariç olmak üzere, yukarıdaki bentlerde belirtilen suçların dışındaki suçlardan, askerî ve adlî mahkemeler, disiplin mahkemeleri veya disiplin amirlerince toplam olarak 21 gün ve daha fazla hapis veya oda hapsi cezası ile mahkûm veya cezalandırılmış olmaması,

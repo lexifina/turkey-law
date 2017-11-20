@@ -1,0 +1,4 @@
+Madde 34 – (27/7/1967 tarih ve 926 sayılı Kanunun hükmüdür.)
+Subaylığa nasp ve terfiler Milli Savunma Bakanı (Jandarma subayları için İçişleri Bakanı) ile Başbakanın imzalıyacakları ve Cumhurbaşkanının onaylıyacağı kararname ile yapılır.
+Madde 121 bent (e) – (27/7/1967 tarih ve 926 sayılı Kanunun hükmüdür.)
+e) Milli Savunma Bakanlığı karargahı ile doğrudan doğruya bu Bakanlığa bağlı kuruluşlarda görevlendirilecek astsubay ve subayların atanmaları; Milli Savunma Bakanlığınca, bunlardan kararname ile yapılması gereken subay, general ve amirallerin atanmaları Milli Savunma Bakanının inhası ile Başbakanın imzalıyacağı ve Cumhurbaşkanının onaylıyacağı kararname ile yapılır. Bu personelin başka göreve atanmaları, Milli Savunma Bakanının muvafakati üzerine (a), (b), (c) ve (d) bendleri hükümlerine göre yapılır.

@@ -1,0 +1,2 @@
+Madde 20 – ( 27/7/1967 tarihli ve 926 sayılı Kanunun hükmüdür.)
+Fakültelerde veya yüksek okullarda askeri öğrenci olarak okutulacakların giriş şartları, görev ve sorumlulukları, askeri öğrencilikten çıkarılma ile ilgili işlemler, fakülte veya yüksek okullarda en çok öğrenim süreleri, askeri eğitime ait hususlar, fakülte veya yüksek okul mezunları ile yedek subaylık hizmetini yapmakta olanlardan istekli bulunanların muvazzaf subaylığa nasbedilmelerinde aranacak nitelikler ve diğer hususlar bir yönetmelikte tesbit olunur.

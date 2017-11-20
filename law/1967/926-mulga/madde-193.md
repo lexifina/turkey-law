@@ -1,0 +1,4 @@
+Madde 193 – (27/7/1967 tarih ve 926 sayılı Kanunun hükmüdür.)
+(Değişik birinci fıkra : 29/7/1983 - 2870/14 md.) Türk Silahlı Kuvvetleri Şeref Madalyası, madeni, altın kaplama ve gümüş kaplama olmak üzere iki derecelidir.
+Bu madalya, savaşta sevk ve idaresi ile savaşın kazanılmasını hazırladığı veya kolaylaştırdığı halde başarısı savaş madalyası ile taltif edilemeyecek derecede olanlar ile savaşta ve barışta hayatı tehlikede olan birlikleri ve kişileri, kendi hayatını tehlikeye koyarak kurtaran, Türk veya yabancı uyruklu asker ve sivil kişilere verilir.
+Şeref madalyası, barışta kuvvet komutanları veya Jandarma Genel Komutanının teklifi üzerine, Genelkurmay Başkanınca, savaşta kuvvet komutanları veya Jandarma Genel Komutanının teklifi üzerine, Türk Silahlı Kuvvetleri Komutanınca tevcih edilir.

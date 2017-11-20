@@ -1,0 +1,1 @@
+Madde 65 – birinci fıkra -(h) bendi- (3/7/1975 tarihli ve 1923 sayılı Kanunun hükmüdür.) (Değişik birinci cümle: 22/1/2015 - 6586/45 md.) Ağırlaştırılmış müebbet hapis, müebbet hapis ve süreli hapis cezalarının infazı sırasında subaylar er gibi iaşe edilir. Bunlara maaş ile hizmet ve makamlarına ilişkin ödenek ve tazminatları verilmez.

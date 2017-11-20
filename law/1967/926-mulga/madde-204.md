@@ -1,0 +1,2 @@
+Madde 204 – (27/7/1967 tarih ve 926 sayılı Kanunun hükmüdür.)
+Bu Kanun gereğince verilecek madalyaların şekilleri, kayıtları, nitelikleri, kordela, rozet ve nişanların takılacağı yer ve zamanları, kişiler ve birlik sancaklarına veriliş ve takılış usulleri, ödüllerin miktarı ve ilgili diğer hususlar, Milli Savunma ve İçişleri Bakanlıklarınca müştereken tanzim edilecek bir yönetmelikle tayin ve tespit olunur.

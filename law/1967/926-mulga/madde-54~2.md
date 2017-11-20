@@ -1,0 +1,2 @@
+98 – 15/8/2017 tarihli ve 694 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükmün metinleri. (Madde numaraları: 54, 143.)
+Madde 54- üçüncü fıkra-üçüncü cümle-(8/11/2016 tarihli ve 6755 sayılı Kanunun hükmüdür..) Ancak, Yüksek Askerî Şûra Başkanı tarafından bir üst rütbede hizmetine ihtiyaç duyulanlar da rütbe bekleme süresine bakılmaksızın ve 47 nci maddenin birinci fıkrasındaki sicil şartı aranmaksızın Yüksek Askerî Şûra değerlendirmesine alınırlar.

@@ -1,0 +1,1 @@
+Ek Geçici Madde 98- altıncı fıkra- (15/8/2017 tarihli ve 694 sayılı KHK’nin hükmüdür.) Hizmet süresini tamamlayanlardan talepleri uygun görülenler, ek geçici 92 nci madde kapsamında emsalleri ile aynı haklara tabi muvazzaf subay olarak görevlerine devam edebilirler.

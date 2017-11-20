@@ -1,0 +1,1 @@
+Madde 82- ikinci fıkra - (11/2/2014 tarihli ve 6519 sayılı Kanunun hükmüdür.) Rütbe terfileri, ilgili kuvvet komutanlığı (Jandarma astsubayları için Jandarma Genel Komutanlığı, Sahil Güvenlik astsubayları için Sahil Güvenlik Komutanlığı) Kurmay Başkanının onayı ile yapılır.

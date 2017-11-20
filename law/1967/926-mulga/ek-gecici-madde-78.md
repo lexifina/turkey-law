@@ -1,0 +1,10 @@
+74 –10/5/2006 tarihli ve 5497 sayılı Kanun ile değiştirilmiş olan hükümlerin metinleri. (Madde numaraları:Ek Geçici Madde 78)
+Ek Geçici Madde 78 – (21/7/2000 tarihli ve 607 sayılı Kanun Hükmünde Kararnamenin hükmüdür.)
+Bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihten önce, haklarında kovuşturmaya yer olmadığına, muhakemenin men’ine, kamu davasının düşmesine veyahut ortadan kaldırılmasına, beraatine, kısa hapis cezasına veya verilen cezanın teciline, tedbire veya para cezasına çevrilmesine karar verilenlerden rütbe kıdemlilikleri onananların onay tarihleri, emsallerinin onay tarihine götürülür. Ancak onay düzeltilmesinden dolayı maaş farkı ödenmez.
+1034-54
+75 –10/5/2006 tarihli ve 5499 sayılı Kanun ile değiştirilmiş olan hükümlerin metinleri. (Madde numarası:128)
+Madde 128 fıkra bir bent d) (29/7/1998 tarihli ve 4376 sayılı Kanunun hükmüdür.) Bayan subaya doğum yapmasından önce üç hafta ve doğum yaptığı tarihten itibaren altı hafta müddetle izin verilir. Bu süreden sonra altı aysüre ile günde birbuçuksaat süt izni verilir. Ayrıca istekleri üzerine en çok altı aya kadar aylıksız izin verilebilir. Aylıksız izin süresi mecburi hizmet süresinden sayılmaz.
+76 –1/3/2007 tarihli ve 5589 sayılı Kanun ile değiştirilmiş olan hükümlerin metinleri. (Madde numarası:109,157)
+Madde 109 Fıkra bir bend d) (3/7/2003 tarihli ve 4917 sayılı Kanunun hükmüdür.)
+d) Yapılacak seçme sınavlarında başarılı olmak ve seçilmelerini müteakip gönderilecekleri okul ve kurslarda başarı göstermek.
+Madde 109 Fıkra üç- (3/7/2003 tarihli ve 4917 sayılı Kanunun hükmüdür.) Bunlardan; okul ve kurslardaki öğrenim ve eğitimi başarı ile bitirenler, bitirdikleri tarihten geçerli olarak teğmen nasbedilirler. Söz konusu personelin okul ve kurslarda geçen süreleri, nasıp tarihine eklenerek, teğmenlik bekleme süresinden sayılır. Bu şekilde bulunacak nasıplarına göre terfi ve kademe ilerlemesine esas olacak nasıpları, nasıplarının götürüldüğü takvim yılının 30 Ağustosudur. Ancak, nasıp düzeltilmesinden dolayı maaş, maaş farkı ödenmez ve diğer özlük hakları verilmez.

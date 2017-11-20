@@ -1,0 +1,4 @@
+Madde 133 – (27/7/1967 tarihli 926 sayılı Kanunun hükmüdür.)
+Yabancı memleket ordularında hizmet yapmak üzere gönderilecek subaylara Milli Savunma Bakanlığınca, jandarma subaylarına İçişleri Bakanlığınca 4 yıla kadar izin verilebilir. Maaşları Milli Savunma ve İçişleri Bakanlıkları bütçelerinden ödenir. Bunların yabancı memleketlerde geçen hizmet süreleri, fiili hizmetlerinden ve kıdemlerinden sayılır.
+Ek Madde 20 fıkra iki – (29/7/1998 tarihli ve 4376 sayılı Kanunun hükmüdür.)
+Aylıksız izin; Genelkurmay Başkanlığına bağlı olanlara Genelkurmay Başkanlığınca, Milli Savunma Bakanlığına bağlı olanlara Milli Savunma Bakanlığınca, Kuvvet Komutanlıkları ile Jandarma Genel Komutanlığına bağlı olanlara Kuvvet Komutanlıkları ve Jandarma Genel Komutanlığınca, Silahlı Kuvvetler bünyesinde olmayan memurlara ise yetkili kurumlarınca verilir.

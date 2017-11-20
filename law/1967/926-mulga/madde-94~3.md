@@ -1,0 +1,1 @@
+Madde 94 – birinci fıkra- (a) bendi - 2 numaralı alt bent- (7/7/1971 tarihli ve 1424 sayılı Kanunun hükmüdür.) Kıdemli başçavuşlardan iki defa kademe ilerlemesi yapamayanlar ile rütbesinin son kademesine geldiği halde almış bulunduğu sicil notu kademe ilerlemesi için yeterli olmıyanlar;

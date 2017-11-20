@@ -1,0 +1,2 @@
+Madde 159 – (3/7/1975 tarih ve 1923 sayılı Kanunun hükmüdür.)
+Mahrumiyet yerlerinde çalışanlara ne zaman hangi hallerde ve görevlerde ödenek verileceği, ne zaman ve hangi şartlarla ödenek hakkının kaybolacağı hususları ile ödeme usulü, şekil ve şartları, mahrumiyet yerlerinin kaç derece olacağı, tespit edilen bu derecelere girecek yerler Genelkurmay Başkanlığının lüzum göstermesi üzerine İçişleri Bakanlığının mütalaası alındıktan sonra Milli Savunma Bakanlığının teklifi ile Bakanlar Kurulunca saptanır.

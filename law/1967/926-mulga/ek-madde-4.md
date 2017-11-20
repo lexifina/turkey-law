@@ -1,0 +1,2 @@
+Ek Madde 4 – (31/7/1970 tarihli ve 1323 sayılı Kanunun hükmüdür.)
+Harp okulları, astsubay meslek yüksek okulları, sınıf okulları ve harp akademilerinde ders görevi verilen üniversite öğretim üyeleri, öğretim görevlileri veya profesör, doçent, yardımcı doçent unvanını kazanmış asker ve sivil kişiler ile öğretim görevliliği niteliği üniversite senatosunca kabul edilen asker ve sivil kişilere ders saati başına ödenecek ücret her yıl bütçe kanunlarında gösterilir.(1)

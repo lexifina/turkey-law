@@ -1,0 +1,5 @@
+Madde 195 – (27/7/1967 tarih ve 926 sayılı Kanunun hükmüdür.)
+(Değişik birinci fıkra : 29/7/1983-2870/16 md.) Türk Silahlı Kuvvetleri Üstün Hizmet Madalyası, madeni ve gümüş kaplama olup, tek derecelidir.
+Bu madalya, Silahlı Kuvvetlerin yükselmesi, güçlenmesi uğruna askeri, idari, ilmi vesair alanlarda üstün hizmetlerde bulunanlara; Silahlı Kuvvetlerde bir araç, gereç gibi keşifte bulunanlara veya elde bulunanların gelişmesinde büyük başarı kazananlara; yurt içinde ve yurt dışında Silahlı Kuvvetlerin bütün alanlardaki çalışmalarında emsallerine nazaran çok üstün derecede başarı gösteren, birliğin itibarını yükselten ve ulusal menfaatlere yararlı olan ve eşitlerine nazaran feragat ve fedakarlıkla çalışarak, görevini üstün derecede yapan asker kişilere verilir. Bu madalya Silahlı Kuvvetlerin gelişmesi ve güçlenmesi için üstün derecede başarı gösteren Türk vatandaşı sivil ve yabancı uyruklu asker ve sivil kişilere de verilebilir.
+1034-37
+Üstün hizmet madalyası, kuvvet komutanları veya Jandarma GenelKomutanının teklifi üzerine Genelkurmay Başkanınca tevcih olunur.
