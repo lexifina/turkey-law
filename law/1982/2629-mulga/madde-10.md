@@ -1,0 +1,4 @@
+Madde 10 – (28/2/1982 tarihli ve 2629 sayılı Kanunun hükmüdür.)
+a) Hava Harp Okulu, hava okulları, diğer uçuş okul ve kursları öğrencilerini, aynı hava vasıtasında fiilen uçurmak suretiyle yetiştiren uçuş öğretmenleri ile kıtalarda çift kumandalı hava vasıtalarında atış, alet, intibak ve standardizasyon uçuş öğretmenliği yapanlara, öğretmenlik uçuş saati başına,
+b) Paraşütçü okul ve kurslarında öğrencilerini aynı hava vasıtalarından fiilen paraşütle atlatmak suretiyle yetiştiren öğretmenler ile kıtalarda paraşütçülük eğitimi için uçaktan paraşütle atlatma öğretmenliği yapanlara, uçaktan yaptıkları her atlayış grubu başına,
+c) Dalgıç veya kurbağa adam okul ve kurslarında öğrencileri fiilen dalmak suretiyle yetiştiren öğretmenlerin her dalış saati başına, Kıstas aylığın binde üçü, yetiştirme ikramiyesi olarak ayrıca ödenir. Bu ikramiye öğretmenliğin yapıldığı ayın sonunda verilir.

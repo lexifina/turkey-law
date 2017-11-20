@@ -1,0 +1,2 @@
+Madde 9 – (28/2/1982 tarihli ve 2629 sayılı Kanunun hükmüdür.)
+Hangi meslek ve sınıftan olursa olsun, uçak veya denizaltı vasıtaları içinde fiilen uçmak veya dalmak suretiyle bu vasıtaların uçmasında veya dalmasında görev alanlar ile bu vasıtaları kontrol ve tecrübe maksatları için görevlendirilen ve aylık uçuş veya dalış tazminatı almayan personelin her uçuş veya dalış saati başına kıstas aylığın % 1'i kendilerine tazminat olarak ödenir. Ancak bu şekilde görev yapanlara bir ay içinde ödenecek tazminat miktarı, kıstas aylığın % 10'unu geçemez.

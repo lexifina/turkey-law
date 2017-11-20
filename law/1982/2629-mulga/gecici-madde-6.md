@@ -1,0 +1,2 @@
+Geçici Madde 6 – (28/2/1982 tarihli ve 2629 sayılı Kanunun hükmüdür.)
+Yetkili sağlık kurulları raporu ile paraşütçülükten ayrılmış olup halen Silahlı Kuvvetlerde görevli olan subay ve astsubaylara bu Kanunun yürürlüğe girdiği tarihten itibaren, paraşütçülükten ayrıldıkları tarihteki rütbe, derece ve kademe aylıklarının ödeme tarihindeki brüt karşılığının (ek gösterge dahil) % 10'u tutarında aylık yıpranma tazminatı ödenir. Bunlar 926 sayılı Türk Silahlı Kuvvetleri Personel Kanununun ek-17 nci maddesindeki tazminattan dayararlanırlar.

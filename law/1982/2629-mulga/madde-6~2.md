@@ -1,0 +1,10 @@
+Denizaltıcı, dalgıç ve kurbağa adamlara ödenecek tazminat:
+Madde 6 – (28/2/1982 tarihli ve 2629 sayılı Kanunun hükmüdür.)
+Denizaltıcı, dalgıç ve kurbağa adam kadrolarına atanan veya denizaltıcı, dalgıç ve kurbağa adam olmak üzere seçilerek eğitime başlayan personelden;
+a) (Değişik: 9/8/1993 - KHK-499/29 md.) Denizaltıcı subaylar ve sözleşmeli subaylar ile denizaltıcı kursiyer ve stajyer subay ve sözleşmeli subaylara kıstas aylığın % 70'i.
+b) Denizaltıcı astsubaylar ile denizaltıcı kursiyer ve stajiyer astsubaylara kıstas aylığın %65'i,
+c) (Değişik: 9/8/1993 - KHK-499/29 md.) Dalgıç ve kurbağa adam subay, sözleşmeli subay ve astsubaylar ile dalgıç ve kurbağa adam kursiyer ve stajyer subay ve astsubaylara, kıstas aylığın % 60'ı,
+Üzerinden bu kanuna ek cetvelde hizmet yılları (adaylar için birinci hizmet yılı) karşılığında gösterilen oranda aylık dalış tazminatı ödenir.
+(Değişik: 6/7/1995 - KHK-562/18 md.) Denizaltıcı, dalgıç ve kurbağaadam kursu gören sözleşmeli subay adayları ile kurbağaadam kursu gören harp okulu öğrencilerine kurs süresince kıstas aylığının % 4'ü oranında aylık dalış tazminatı ödenir. Denizaltıcı, dalgıç ve kurbağaadam olmak üzere seçilen erbaş ve erlere kursa katılmalarını takip eden aybaşından itibaren kıstas aylığının % 2'si, kursu başarmalarından itibaren denizaltıcı, dalgıç ve kurbağaadam kadrolarında görevlendirildikleri müddetçe kıstas aylığın % 4'ü oranında aylık dalış tazminatı ödenir.
+1210-10
+(Değişik: 6/7/1995 - KHK - 562/18 md.) Denizaltıcı, dalgıç ve kurbağaadam niteliklerini korudukları halde kadro ve hizmet gerekleriyle Silahlı Kuvvetlerin diğer görevlerine atananlardan, Kuvvet Komutanlarının, Jandarma Genel Komutanının veya Sahil Güvenlik Komutanının onayı ile tekrar denizaltıcı, dalgıç ve kurbağaadam hizmetlerinde görevlendirilmeleri gerekli görülen ve sağlık durumları elverişli olan denizaltıcı, dalgıç ve kurbağaadamlara yıllık zorunlu dalış saatini tamamladıkları sürece hizmet yıllarına bağlı olarak denizaltıcı, dalgıç ve kurbağaadamlara ödenen oranda aylık tazminat ödenir. (1)
