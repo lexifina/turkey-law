@@ -1,0 +1,5 @@
+… Üniversitesi Tıp Fakültesi Hastanesinde hatalı ve eksik tıbbi müdahale yapıldığı ve sağlık hizmetinin kusurlu olarak yürütüldüğü gerekçesiyle …. İdare Mahkemesinin …sayılı dosyası üzerinden açılan maddi-manevi tazminat davasına ilişkin olarak aynı mahkemenin … tarihli ve …. sayılı kararı üzerine  ….. TL ödemede bulunulduğu görülmüştür.
+
+Savunmalardan idare tarafından tazmin edilen tutarın ilgiliden tahsili için Tıp Fakültesi Dekanlığı olarak …. tarih ve … sayılı yazı ile … Üniversitesi Rektörlüğü Hukuk Müşavirliğine gerekli başvurunun yapıldığı ve Rektörlükçe de ödenen tutarın ilgiliden (Dr. ….) geri alınması için Hukuk Müşavirliği tarafından …. tarihinde …. Asliye Hukuk Mahkemesinin … sayılı dosyası üzerinden rücu davası açıldığı anlaşılmıştır.
+
+Bu nedenle, ilgili hakkında rücu davası açılmış olduğundan konu hakkında ilişilecek bir husus kalmadığına, işbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle,
