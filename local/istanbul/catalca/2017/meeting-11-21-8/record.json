@@ -1,0 +1,24 @@
+{
+  "number": "meeting-11-21-8",
+  "number_as_published": "meeting-11-21-8",
+  "year": 2017,
+  "title": "1.1000 ÖLÇEKLİ BELGRAD MAH. U.İ.P",
+  "decision_date": "2017-11-21",
+  "source": "https://www.catalca.bel.tr/belgeler/meclis-kararlari",
+  "official_document": "https://www.catalca.bel.tr/images/documents/28888243462830228843.pdf",
+  "source_sha256": "94d6849fd69d78cb0826d3a4219ac083643d1f0ee6a159be9fb606e6a3a0d46f",
+  "issuer": "Çatalca Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2017-11-21",
+  "in_force_basis": "Decision date as printed in the official council listing: 21.11.2017 (date line of the official list, 21.11.2017 - 00:00); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_section": "2017 Kasım",
+  "listing_date_line": "21.11.2017 - 00:00",
+  "record_scope": "one official decision PDF; the official list gives no decision number"
+}
