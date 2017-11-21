@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "77058783-105[ÖKC.ÖZ.17.01] - 191646",
+  "source_id": 26281,
+  "date": "2017-11-21",
+  "title": "Yeni nesil ÖKC'den POS cihazı ile döviz cinsinden tahsilat yapılıp yapılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/443/ozelge/26281",
+  "related_law": "3100 sayılı KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "a05d7a20974a95d747993f0b40427cdd1fa779c4ddfe95adeea9a2cb188662b9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
