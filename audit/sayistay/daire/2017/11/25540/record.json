@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35497",
+  "decision_date": "2017-11-21",
+  "source_id": 25540,
+  "chamber": "2",
+  "ilam_number": "37",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25540/",
+  "source_sha256": "1bde7cb7ed236d29d63d5ca09da52d87c566f55e30309a6f93f5de7dee5dd32d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
