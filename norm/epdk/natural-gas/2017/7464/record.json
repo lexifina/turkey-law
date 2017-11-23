@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7464",
+  "decision_date": "2017-11-23",
+  "title": "Armagaz Arsan Marmara Doğalgaz Dağıtım Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-11-28",
+  "resmi_gazete_number": "30254",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QrJ08snzryc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QrJ08snzryc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=SjuEoucedw8="
+  ],
+  "source_sha256": "c7cb354de02652a76869de6aa0d7f33cf835b9bc747129e7bff9127c425013d8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-11-23",
+  "law_text_complete": true
+}
