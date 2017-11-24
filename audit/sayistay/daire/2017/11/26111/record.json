@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "218",
+  "decision_date": "2017-11-24",
+  "source_id": 26111,
+  "chamber": "7",
+  "ilam_number": "87",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26111/",
+  "source_sha256": "84a3ffa549d957640ac21ff7c6a8e31a940c33299127f68063ed326c452aebb6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
