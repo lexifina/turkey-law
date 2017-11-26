@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "171",
+  "decision_date": "2017-11-26",
+  "source_id": 25396,
+  "chamber": "4",
+  "ilam_number": "365",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25396/",
+  "source_sha256": "8d46e2528f1544442b37bfccf95a8b371472d3fb51a4b3faa2f3ee6ba40d128d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
