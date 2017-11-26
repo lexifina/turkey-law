@@ -1,0 +1,964 @@
+26 Kasım 2017 PAZAR
+Resmî Gazete
+Sayı : 30252
+YÖNETMELİK
+Ekonomi Bakanlığından:
+DIŞ EKONOMİK
+İLİŞKİLER KURULU VE İŞ KONSEYLERİ ÇALIŞMA
+USUL VE ESASLARI HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı; özel sektörün dış
+ticaret, uluslararası yatırım, hizmetler, müteahhitlik,
+lojistik başta olmak üzere tüm dış ekonomik ilişkilerini yürütmek ve iş
+dünyasının ihracatı artırma ve iş geliştirme çalışmalarına yardımcı olmak
+amacıyla bir platform olarak kurulan Dış Ekonomik İlişkiler Kurulunun ve bu
+Kurula bağlı olarak faaliyet gösteren iş konseylerinin çalışma usul ve
+esaslarını düzenlemektir.
+(2) Bu Yönetmelik; Dış Ekonomik İlişkiler Kurulu
+ile iş konseylerinin görev ve yetkileri, teşkilatlanma ve işleyişleri,
+organları ve bütçeleri, yönetim ve denetimleri ile üyeliğe ilişkin usul ve
+esasları kapsar.
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 3/6/2011
+tarihli ve 637 sayılı Ekonomi Bakanlığının Teşkilat ve Görevleri Hakkında
+Kanun Hükmünde Kararnamenin 36 ncı maddesinin
+ikinci fıkrasına dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Ekonomi Bakanını,
+b) Bakanlık: Ekonomi Bakanlığını,
+c) Başkanlık Divanı: DEİK Başkanlık Divanını,
+ç) DEİK: Dış Ekonomik İlişkiler Kurulunu,
+d) Dört Ana Kurucu Kuruluş: Kurucu kuruluşlar
+arasında yer alan Türkiye Odalar ve Borsalar Birliği (TOBB), Türkiye
+İhracatçılar Meclisi (TİM), Müstakil Sanayici ve İşadamları Derneği
+(MÜSİAD), Türkiye Müteahhitler Birliğini (TMB),
+e) Genel Kurul: DEİK Genel Kurulunu,
+f) İcra Kurulu: DEİK İcra Kurulunu,
+g) İş Konseyleri: DEİK çatısı altında ülke, sektör
+ya da özel amaçlı olarak kurulmuş iş konseylerini,
+ğ) Kurucu Kuruluş: Bu Yönetmeliğin Resmî Gazete’de
+yayımlandığı tarihte DEİK’i oluşturan ve Bakanlık tarafından belirlenen
+Ek-1’de yer alan birlik, meclis, oda, borsa, dernek, vakıf gibi özel
+sektörü temsil eden kuruluşlar ile üst kuruluşları,
+h) Kurumsal Üye: Bu Yönetmeliğin yayımlanmasından
+sonra DEİK’e üye olan birlik, meclis, oda, borsa, dernek, vakıf gibi özel
+sektörü temsil eden kuruluşlar ile üst kuruluşları,
+ı) Muhatap Konsey: Bir iş konseyinin diğer ülkedeki
+muhatap kuruluşunu,
+i) Onursal Üye: Genel Kurul tarafından belirlenen,
+dış ekonomik ilişkilerde tecrübeli kimseleri,
+j) Yönetim Kurulu: DEİK Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Kurucu Kuruluş,
+Kurumsal Üye ve Görevler
+Kurucu
+kuruluş ve kurumsal üye
+MADDE 4 – (1) Dış Ekonomik İlişkiler Kurulunun kurucu
+kuruluşları, Bakanlık tarafından belirlenen ve Ek-1’de yer alan
+kuruluşlardır.
+(2) Bu Yönetmeliğin yayımlanmasından sonra DEİK’e
+üye olan birlik, meclis, oda, borsa, dernek, vakıf gibi özel sektörü temsil
+eden kuruluşlar ile üst kuruluşlar, kurumsal üyedir.
+(3) Bakanlık, kurucu kuruluş ve kurumsal üye
+statüsünü sona erdirmeye ve kurumsal üye eklemeye yetkilidir. Kurumsal üye
+ekleme yetkisi DEİK Yönetim Kurulu tarafından da kullanılabilir.
+(4) Kurucu kuruluş ve kurumsal üyelerden, iki yıl
+süreyle aidatını ödemeyenlerin, toplam miktar ödeninceye kadar, hiçbir
+organa ve faaliyete katılma hakkı olmaksızın kurucu kuruluş ve kurumsal üye
+statüleri Yönetim Kurulu kararıyla dondurulur. Üyeliğin dondurulduğu
+tarihten itibaren bir yıl içinde aidat borçlarını ödemeyen kurucu kuruluş
+ve kurumsal üyeler, Yönetim Kurulu kararıyla üyelikten çıkartılır. Üyeliği
+sonlandırma sebebi aidat ödememe ise tahsil edilemeyen aidatlardan Yönetim
+Kurulu üyeleri sorumlu değildir.
+Görevler
+MADDE 5 – (1) DEİK'in görevleri şunlardır:
+a) Türkiye’nin yabancı ülkeler veya uluslararası
+topluluklarla olan ekonomik, ticari, sınai ve mali
+ilişkilerini izlemek, bu tür ilişkilerin kurulmasına ve geliştirilmesine
+yardımcı olmak.
+b) Türkiye'nin dış ekonomik ilişkilerinin
+geliştirilmesi, karşılaşılacak sorun ve engellerin çözümü için ilgili kurum
+ve kuruluşlara görüş ve öneriler sunmak.
+c) Türkiye'nin ihracatının artırılmasına ve üretim
+ve ihracata dönük uluslararası yatırımların özendirilmesine yönelik çalışmalar
+yapmak.
+ç) Davet edilmesi halinde, görev alanına giren
+konularda özel sektör platformunu temsilen uluslararası veya hükümetler
+arası müzakerelere katılmak.
+d) Uluslararası ekonomik ilişkilerdeki gelişmeleri
+göz önünde bulundurarak, çeşitli ülkeler, bölgeler, kurumlar ile ilişkilere
+yönelik, sektörler itibarıyla veya genel ekonomik konularda stratejiler
+hazırlamak ve bu stratejileri ilgili kurum ve kuruluşlara önermek.
+e) Türkiye ile yabancı ülkeler veya uluslararası
+topluluklar arasında iş olanaklarını araştırmak, mevcut olanakların
+harekete geçirilmesine ve iş fırsatlarının değerlendirilmesine yardımcı
+olmak.
+f) Türkiye'de yatırım ortamının iyileştirilmesi ile
+ilgili girişimlere katkıda bulunmak ve yatırım olanaklarının yurt dışında
+tanıtımına yönelik etkinlikler yapmak.
+g) Ortak yatırımlara girebilecek veya birlikte
+üçüncü ülkelerde ortak yatırım yapabilecek yerli veya yabancı girişimcilere,
+Yönetim Kurulunca belirlenen ilkeler çerçevesinde yol göstermek.
+ğ) Yabancı ülkeler veya uluslararası
+topluluklardaki ekonomik ve sektörel gelişmeler,
+dış ticaret rejimi, yabancı sermaye ve gümrük mevzuatı konularında bilgi
+derlemek, girişimcilerin bu yöndeki bilgi taleplerini Yönetim Kurulunca
+belirlenen ilkeler çerçevesinde karşılamak.
+h) Türk dış ticaret rejimi, yabancı sermaye ve
+gümrük mevzuatındaki değişiklikleri iş konseyleri aracılığı ile yabancı
+ülkeler veya uluslararası topluluklardaki muhatap kuruluşlara duyurmak.
+ı) Türkiye, yabancı ülkeler veya uluslararası
+toplulukların dış ekonomik ilişkileri ile ilgili bilgi ve istatistikî verileri
+toplamak, Yönetim Kurulunca belirlenen şartlarla ilgililerin yararlanmasına
+açık bilgi bankaları kurmak.
+i) Türkiye'nin dış ekonomik ilişkilerinde başarılı
+sonuçlar elde etmesini sağlamak üzere, yurt içinde veya yurt dışında
+tanıtım faaliyetlerinde bulunmak.
+j) İkili ekonomik ilişkileri, Yönetim Kurulu
+kararları doğrultusunda iş konseyleri aracılığıyla yürütmek.
+k) Çok taraflı kurum ve kuruluşlar ile ilişkileri
+yürütmek.
+l) İş konseyi bulunmayan ülkeler ile ilgili
+faaliyetleri Yönetim Kurulunun belirleyeceği ilkeler çerçevesinde yürütmek.
+m) İş konseylerini kurmak ve gerektiğinde sona
+erdirmek için Bakanlığa öneride bulunmak.
+ÜÇÜNCÜ BÖLÜM
+Organlar,
+Organların Teşekkülü ve Görevleri
+Organlar
+MADDE 6 – (1) DEİK'in organları şunlardır:
+a) Genel Kurul.
+b) Yönetim Kurulu.
+c) İcra Kurulu.
+ç) Denetim Kurulu.
+d) İş Konseyleri.
+e) Danışma Kurulu.
+f) Başkanlık Divanı.
+Genel
+Kurul
+MADDE 7 – (1) Genel Kurul aşağıdaki delegelerden oluşur:
+a) 4 üncü madde uyarınca belirlenen kurucu
+kuruluşlar ve kurumsal üyelerden birer üye.
+b) İş Konseyi başkanları.
+c) Bakanlıkça belirlenecek yirmibeş
+üye.
+ç) DEİK onursal üyeleri.
+(2) Merkezleri yurtdışında bulunan Türk işadamları
+dernekleri arasından, Yönetim Kurulunca uygun görülenler, gözlemci olarak
+Genel Kurula davet edilebilir.
+(3) Genel Kurul, her yıl Kasım veya Aralık ayı
+içerisinde Yönetim Kurulu Başkanının çağrısı üzerine olağan olarak toplanır.
+Genel Kurul, Genel Kurul üyelerinin en az üçte birinin yazılı çağrısı ile
+veya Yönetim Kurulu tarafından ya da Bakanın çağrısı üzerine olağanüstü
+toplantıya çağırılabilir.
+(4) Genel Kurul, her toplantısında bir Divan
+Başkanı, bir Divan Başkan Vekili ve bir katip
+seçer.
+(5) Delegelerin Genel Kurula katılabilmesi ve
+seçme-seçilme hakkına sahip olabilmeleri için içinde bulunulan yıl dahil, önceki yıllara ait aidat borcunun bulunmaması
+gereklidir.
+(6) Delegeler, Genel Kurula katılamadıklarında,
+diğer delegeler arasından yazılı olarak bir vekil tayin edebilir. Ancak,
+her delege en fazla bir kişiye vekâlet edebilir.
+Genel
+Kurulun görev ve yetkileri
+MADDE 8 – (1) Genel Kurulun görev ve yetkileri şunlardır:
+a) DEİK'i oluşturan kuruluşların, DEİK organlarının
+ve iş konseyi üyelerinin görüşlerinin faaliyet politikalarına yansımasını
+sağlamak.
+b) DEİK çalışma programını, ülkemizin dış ekonomik
+ilişkileri, kalkınma planları, hükümet programları, yıllık ve orta ve uzun
+vadeli hedefleri göz önünde bulundurarak karara bağlamak.
+c) DEİK bütçesini karara bağlamak.
+ç) DEİK'in geçmiş dönem faaliyet ve hesaplarının,
+Yönetim Kurulu ve Denetim Kurulunun ibrasına karar vermek.
+d) Yönetim Kurulunun 9 uncu maddede öngörülen
+üyelerini seçmek.
+e) Denetim Kurulu üyelerini seçmek.
+f) Dış ekonomik ilişkilerde tecrübeli kimselerden
+DEİK onursal üyelerini seçmek.
+Yönetim
+Kurulu
+MADDE 9 – (1) Yönetim Kurulu; biri Başkan olmak üzere toplam
+otuzbeş üyeden oluşur. Genel Kurul;
+a) İş Konseyleri Başkanları arasından onbir asil üye,
+b) Dört Ana Kurucu Kuruluş (TOBB, TİM, MÜSİAD ve
+TMB) başkanlarından oluşan dört asil üye,
+c) Diğer kurucu kuruluş ve kurumsal üye
+temsilcileri arasından dokuz asil üye,
+ç) DEİK üyeleri arasından on asil, on yedek üye
+olmak üzere,
+toplam otuzdört asil, on yedek
+üye seçer.
+(2) Yönetim Kurulu Başkanı, Bakan tarafından
+belirlenir ve görevden alınır.
+(3) Yönetim Kurulu, dört yıl süreyle görev yapar.
+(4) DEİK Genel Sekreteri, Yönetim Kurulu
+toplantılarına katılır, ancak oy kullanamaz.
+(5) Yönetim Kurulu, ilk toplantısında kendi üyeleri
+arasından dört yıl süreyle görev yapmak üzere bir sayman üye seçer. Dört
+Ana Kurucu Kuruluşun Başkanları, aynı zamanda DEİK’in Başkan
+Yardımcılarıdır. DEİK Başkan Yardımcıları ile sayman üyenin görevleri
+yönerge ile belirlenir.
+(6) Asil üyenin herhangi bir nedenle görevinin sona
+ermesi halinde, kalan süreyi tamamlamak üzere;
+a) Bu maddenin birinci fıkrasının (ç) bendinde
+sayılan DEİK Yönetim Kurulu üyelerinin yerine ilk sıradaki yedek üye geçer.
+b) DEİK Yönetim Kurulunda yer alan İş Konseyi
+Başkanının, İş Konseyleri Genel Kurulunda yeniden seçilememesi, süresi
+dolmadan görevden ayrılması veya diğer bir sebeple başkanlıkta
+boşalma olması durumunda, yerine kimin Yönetim Kurulu üyesi olacağına, İş
+Konseyi Başkanları arasından DEİK Yönetim Kurulu tarafından karar verilir.
+c) DEİK Yönetim Kurulunda yer alan Dört Ana Kurucu
+Kuruluş başkanı, kurucu kuruluş veya kurumsal üyenin başkanının veya
+belirlediği temsilcisinin görev süresi dolmadan görevden ayrılması
+durumunda, aynı kuruluşun yeni başkanı veya belirlediği temsilcisi, Yönetim
+Kurulunda yer alır.
+(7) DEİK Yönetim Kurulu asil ve yedek üye
+sayısının, başkan dahil onsekiz
+veya onsekizin altına inmesi halinde, Genel
+Kurul, Yönetim Kurulu Başkanı tarafından iki ay içinde olağanüstü
+toplantıya çağrılır ve yeni Yönetim Kurulu oluşturulana kadar mevcut Yönetim
+Kurulu görevine devam eder.
+Yönetim
+Kurulunun görev ve yetkileri
+MADDE 10
+– (1) DEİK Yönetim Kurulu, Yönetim
+Kurulu Başkanı başkanlığında en az iki ayda bir toplanır. Başkanın
+katılamadığı toplantıya, Dört Ana Kurucu Kuruluşun Başkanlarından Başkanın
+görevlendireceği birisi başkanlık eder. DEİK Yönetim Kuruluna, Ekonomi
+Bakanı, Başbakan veya Cumhurbaşkanı gerekli hallerde başkanlık edebilir.
+(2) Yönetim Kurulunun görev ve yetkileri şunlardır:
+a) Kurumsal bütünlüğü sağlamak ve gözetmek,
+kurumsal ilkeleri ve öncelikleri belirlemek, uygulanmasını sağlamak.
+b) Dış ekonomik ilişkilerin geliştirilmesine dönük
+strateji ve politika önerileri hazırlamak.
+c) DEİK çalışma programını hazırlamak, Genel Kurula
+sunmak, uygulanmasını sağlamak ve denetlemek.
+ç) İş konseylerini kurmak ve gerektiğinde sona
+erdirmek için Bakanlığa öneride bulunmak ve ülke iş konseyi aidatlarından,
+iş konseyleri ortak bütçesi için ayrılacak oranı belirlemek.
+d) Genel ve sektörel
+danışma kurulları oluşturmak, görüşlerini değerlendirmek.
+e) Üyelik aidatını, kurucu kuruluş ve kurumsal
+üyelik aidatını, hizmet bedel ve şartlarını karara bağlamak.
+f) DEİK'in bütçe önerisini hazırlayarak Genel
+Kurula sunmak ve Genel Kurulca karara bağlanmış bütçenin uygulanmasını
+sağlamak.
+g) Yönetim Kurulu başkanı, başkan yardımcıları,
+sayman üye ile Genel Sekreterin bütçeden harcama sınırlarını belirlemek.
+ğ) İş konseylerine ilişkin bölgesel gruplamayı
+belirlemek.
+h) Yurtiçinde veya yurtdışında temsilcilik açılması
+konusunda Bakanlığa öneride bulunmak.
+ı) Karadeniz Ekonomik İşbirliği İş Konseyinde Türk
+özel sektörünü temsil edecek Yönetim Kurulu Üyesini seçmek.
+i) Mevzuat değişiklikleri konusunda Bakanlığa
+önerilerde bulunmak.
+j) Danışma Kurullarının oluşturulmasına karar
+vermek.
+(3) Yönetim Kurulu kararları karar defterine
+işlenir.
+(4) Yönetim Kurulu, gerekli gördüğü hallerde
+yetkilerinden bir kısmını Yönetim Kurulu Başkanına ve Yönetim Kurulu
+üyelerinden birine veya birkaçına, İcra Kuruluna ya da Başkanlık Divanına
+devredebilir.
+Denetim
+Kurulu ve görevleri
+MADDE 11
+– (1) Denetim Kurulu;
+a) DEİK’in tüm faaliyetlerinin, bu Yönetmelik ve
+Yönetim Kurulunca ortaya konulan temel amaçlar doğrultusunda yürütülüp
+yürütülmediğini,
+b) Defter, hesap ve kayıtların mali mevzuata uygun
+yürütülüp yürütülmediğini, mali kayıtlar ve mali kayıtlara esas gelir ve
+gider evraklarının doğruluğunu,
+kontrol etmekle sorumludur.
+(2) DEİK ve iş konseylerinin hesapları Genel Kurul
+tarafından dört yıl süre için delegeler arasından seçilen beş asil ve beş
+yedek üyeden oluşan Denetim Kurulu tarafından denetlenir. Denetim Kurulu
+üyelerinin aynı dönemde DEİK ve iş konseylerinin diğer organlarında ve
+Yönetim Kurulunda görev almamış olmaları esastır.
+(3) Denetim Kurulu doğrudan Genel Kurula rapor
+verir.
+İcra
+Kurulu ve Başkanlık Divanı
+MADDE 12 – (1) İcra Kurulu, Yönetim Kurulunun kendi üyeleri
+arasından seçtiği 12 üye ile İcra Kurulu Başkanından oluşur. Yönetim Kurulu
+Başkanı aynı zamanda İcra Kurulu Başkanıdır. İcra Kurulunun dört üyesi,
+Dört Ana Kurucu Kuruluş Başkanlarından oluşur. Sayman üye İcra Kurulunun
+doğal üyesidir. Yönetim Kurulu, İcra Kurulunun iki üyesini diğer kurucu
+kuruluş veya kurumsal üyeleri arasından, dört üyesini İş Konseyi Başkanları
+arasından, bir üyesini ise Genel Kurulun diğer üyeleri arasından seçer.
+DEİK Başkanının katılamadığı toplantıya, Başkan Yardımcılarından Başkanın
+görevlendireceği birisi başkanlık eder.
+(2) DEİK Genel Sekreteri İcra Kurulu toplantılarına
+katılır, ancak oy kullanamaz.
+(3) İcra Kurulu ayda en az bir kez toplanır, dört
+yıl süreyle görev yapar.
+(4) Başkanlık Divanı, DEİK Başkanı ve Dört Ana
+Kurucu Kuruluş Başkanlarından oluşur. DEİK Başkanı, Başkanlık Divanının da
+başkanıdır. DEİK Başkanının katılamadığı toplantıya, Başkanın
+görevlendireceği Başkan Yardımcılarından birisi başkanlık eder.
+(5) DEİK Genel Sekreteri Başkanlık Divanı
+toplantılarına katılır, ancak oy kullanamaz.
+(6) Başkanlık Divanı, toplantı takvimine kendisi
+karar verir, dört yıl süreyle görev yapar.
+İcra
+Kurulu ve Başkanlık Divanının görev ve yetkileri
+MADDE 13
+– (1) İcra Kurulunun görev ve
+yetkileri şunlardır:
+a) İş Konseylerinin çalışmalarını, Yönetim
+Kurulunun belirlediği strateji ve politika önerileri çerçevesinde yönlendirmek
+ve DEİK organları ile ilişkilerinde koordinasyonu sağlamak.
+b) Çok taraflı ekonomik, siyasi ve idari yapılar,
+medya ve sivil toplum kuruluşları ile ilişkileri yürütmek.
+c) Danışma kurulları kurulması konusunda öneri
+geliştirmek, bu kurulların faaliyetlerinin DEİK ve İş Konseyi faaliyetleri
+ile uyumunu gözetmek.
+ç) Yönetim Kurulunca belirlenmiş sınırlarda bütçeden
+harcama yapmak.
+d) Yönetim Kurulu tarafından verilen diğer
+görevleri yerine getirmek.
+e) Şirketlerin DEİK’e ve iş konseylerine üye
+kaydedilmesine ve üyelikten çıkarılmalarına karar vermek.
+(2) DEİK Başkanlık Divanı, Yönetim Kurulunun
+verdiği yetkileri kullanır.
+İş
+Konseylerinin kuruluşu ve işleyişi
+MADDE 14
+– (1) İş konseyleri, yeterli üye
+şirket ve bütçe temin edilmesi halinde, en az on üye şirketin varlığı ve iş
+dünyasının sınai ve coğrafi değerlendirmeleri sonucunda ortaya koydukları
+tercihleri ve dünya pazarlarındaki gelişmeler gözetilerek, Yönetim
+Kurulunun önerisi ile, Bakanlık onayıyla kurulur
+ve gerektiğinde aynı şekilde sona erdirilir. Ülke menfaati ve stratejik
+hedefleri gerektirdiği hallerde, Bakanlık, İş Konseyleri kurmak üzere bu
+şartları aramayabilir.
+(2) İş konseylerinin etkinliğini güçlendirmek
+amacıyla, iki taraflı olarak kurulması esastır. Bunun mümkün olmaması
+durumunda, işlevsellik ve ülkenin ekonomik menfaatleri çerçevesinde
+değerlendirme yapılır.
+(3) İş konseyinin ikili yapısı, diğer ülkenin iş
+dünyasını temsil eden ulusal düzeydeki birlik, federasyon, ticaret ve
+sanayi odası, iş dünyası sivil toplum kuruluşu ya da benzeri bir kuruluş
+ile varılacak yazılı anlaşma çerçevesinde kurulur. DEİK Yönetim Kurulu
+kararıyla, aynı ülke içerisinde mevcut ülke İş Konseyine bağlı olmak
+suretiyle, birden fazla iş konseyi kurulabilir. Söz konusu alt iş
+konseylerinin seçim ve çalışma esasları yönerge ile belirlenir. İkili yapının
+dengeli sürdürülebilmesi için, karşılıklı olarak her iki konseyde iş dünyasına
+öncülük edebilecek, iki ülke arasında ticari ve ekonomik ilişkileri bulunan
+birer kişinin eş başkanlık görevini üstlenmesi esastır.
+(4) Yeni kurulacak iş konseylerinin kurucu yürütme
+kurulu ve kurucu başkanı, DEİK Yönetim Kurulu Başkanı tarafından, iş
+dünyasına ikili ilişkilerde öncülük edebilecek özelliklere sahip ve ilgili
+ülkede faal kişilerden atanır. Kurucu başkan ve kurucu yürütme kurulunun
+görev süreleri, aksi belirtilmediği takdirde, yapılacak ilk seçimli genel
+kurul toplantısına kadar devam eder. Kurucu başkan başkanlığındaki kurucu
+yürütme kurulu, ilk genel kurula kadar yürütülecek çalışma programını ve
+geçici bütçeyi belirler.
+(5) İş konseyleri, ülke bazlı veya,
+sektörel ve özel amaçlı olarak örgütlenir.
+Yeterli üyeye sahip olmayan ülke bazlı iş
+konseyleri, yeterli sayıya ulaşana kadar, DEİK Yönetim Kurulu kararıyla
+başka ülkelerin İş konseyleriyle gruplanabilir ve çalışmalarını bu
+gruplarda yapar. Her bir ülke iş konseyinin, bu iş konseyinin üyelerinin
+aidatlarından oluşan, DEİK Yönetim Kurulu tarafından İş Konseyleri Ortak
+bütçesine ayrılanın dışında kalan miktarda bir bütçesi olur. Yakın
+coğrafyada yer alan ve ortak çalışma içinde olan iş konseyleri, ayrıca
+kendi aralarında bir ortak bütçe oluşturabilir ve faaliyetlerini bu ortak
+bütçeden karşılayabilirler. Sektörel ve özel
+amaçları gerçekleştirmek üzere örgütlenen gruplarda ise, bütçe her biri
+için ayrı ayrı ele alınır. DEİK Yönetim Kurulu
+kararı ile gerekli hallerde DEİK bütçesinden İş Konseyi bütçesine aktarma
+yapılabilir.
+(6) DEİK'in amaçlarına uygun olarak, Türkiye'de
+faaliyet gösteren ve Türk Ticaret Kanunu hükümlerine göre kurulmuş
+şirketler, serbest meslek mensupları, Türkiye'de mukim ve faal yabancı
+şirketlerin irtibat ofisleri ile 2547 sayılı Yükseköğretim Kanunu
+kapsamında kurulan Yükseköğretim Kurumları, Yönetim Kurulunun uygun bulması
+halinde, bir veya birden fazla iş konseyine üye olabilirler.
+(7) Her üye, üye olduğu her ülke/sektörel/özel amaçlı iş konseyi için seçme ve seçilme
+hakkına sahiptir ve oy kullanacak bir temsilciyi yazılı olarak bildirmekle
+mükelleftir. Tüzel kişiler, yazılı olarak bildirmek kaydıyla temsilci
+değişikliği yapabilirler. Temsilcinin tüzel kişi ile ilişkisinin kesilmesi
+halinde, bir ay içinde yeni bir temsilci bildirilmesi üyenin
+sorumluluğundadır.
+(8) İş konseyi faaliyet alanı ile ilgili, kamu
+kurum ve kuruluş temsilcileri de, Yönetim Kurulu tarafından, iş konseyi
+yürütme kurulu danışman üyesi olarak belirlenebilir.
+(9) Üyenin DEİK üyeliğinin sona ermesi veya atadığı
+temsilci ile ilişiğini kesmesi halinde, temsilcinin DEİK organlarındaki
+görevleri sona erer. Ancak, İş Konseyi Yürütme Kurulu Üyesinin, temsilcisi
+olduğu DEİK üyesi firmadan ayrılması ve farklı bir firma üzerinden DEİK
+üyeliğini devam ettirmesi veya DEİK üyesi firmanın temsilci değişikliği
+yapması durumunda, ilgili İş Konseyi Yürütme Kurulunun görüşleri alınarak,
+Yürütme Kurulu Üyeliğinin devamına Yönetim Kurulu karar verir.
+(10) Üyeler, yıllık olarak belirlenen iş konseyi
+aidatını ve üyelik aidatını ödemekle yükümlüdür. İki yıl süreyle aidatların
+ödenmemesi halinde toplam miktar ödeninceye kadar, hiçbir organa ve
+faaliyete katılma hakkı olmaksızın üyelik dondurulur ve üyeliğin dondurulduğu
+tarihten itibaren bir yıl içinde aidat borçlarını ödemeyen üyeler,
+üyelikten İcra Kurulu kararı ile çıkartılır. Üyelikten çıkarılma sebebi
+aidat ödememe ise, tahsil edilemeyen aidatlardan Yönetim Kurulu Üyeleri
+sorumlu değildir. Aidat borcunu ödemeden çıkan üyenin tekrar üyeliğe
+başvurması halinde, öncelikle geçmiş dönem borçlarını ödemeleri esastır.
+(11) Bu Yönetmeliğe aykırı iş konseyi kurulamaz ve
+bu Yönetmelik dışındaki oluşumlarda iş konseyi ibaresi kullanılamaz.
+(12) İş konseyleri, DEİK'ten bağımsız bir kişilik
+izlenimi doğurabilecek oluşum ve faaliyetlerde bulunamaz; kısaltma ve unvan
+kullanamaz.
+İş
+Konseylerinin görev ve yetkileri
+MADDE 15
+– (1) İş konseylerinin görevleri
+şunlardır:
+a) Muhatap ülke ile dış ticaret, doğrudan veya
+ortaklık yoluyla yatırım, sanayi, hizmetler, teknoloji ve proje temelinde
+işbirliği olanaklarını tespit etmek amacıyla araştırmalar yapmak.
+b) İş olanaklarının önündeki engelleri tespit
+etmek, bu engelleri gidermeye ve işbirliğinde aşama kaydetmek için altyapı
+oluşturmaya yönelik öneriler geliştirerek ilgili kurum ve kuruluşlara ve
+hükümetler arası müzakerelere aktarmak.
+c) İş Konseyi ve muhatap konseyin üyelerini ve
+işbirliği açısından potansiyel taşıyan sektörlerin temsilcilerini bir araya
+getirmek üzere toplantılar düzenlemek.
+ç) Girişimcilerin karşı ülke ile iş ilişkilerinde
+ihtiyaç duyabileceği bilgileri, Yönetim Kurulunca belirlenecek koşullarda
+ve gerekirse gelir karşılığı temin etmek.
+d) Karşı ülke ile ilişkilerin gelişmesi için
+gerekli olan politikalar, çözümler ve mekanizmalar konusunda, Yönetim
+Kurulunun belirleyeceği ana stratejiler çerçevesinde öneriler geliştirmek.
+e) Karşı ülke şirket ve kurumlarından gelecek bilgi
+ve eşleştirme taleplerini cevaplandırmak.
+f) Görev alanına giren konularda tanıtıcı faaliyetlerde
+bulunmak.
+İş
+Konseyi Genel Kurulu
+MADDE 16
+– (1) İş Konseyi Genel Kurulu, her
+yıl Ekim ayı sonuna kadar ilgili iş konseyi üyelerinin katılımı ile olağan
+olarak toplanır. DEİK Yönetim Kurulu bu tarihi değiştirmeye yetkilidir. İş
+Konseyi Genel Kurulu, Yönetim Kurulunun uygun bulması halinde, öncelikle
+Yönetim Kurulunca belirlenecek başkan yardımcısı olmak üzere, İş Konseyi
+Koordinatör Başkanı tarafından da olağanüstü toplantıya çağrılabilir.
+(2) İş Konseyi Genel Kurulu, öncelikle Yönetim
+Kurulu Başkanınca görevlendirilecek bir Yönetim Kurulu üyesi olmak üzere,
+İş Konseyi Koordinatör Başkanı tarafından da açılır ve bir Divan Başkanı,
+bir Divan Başkan Vekili ve bir katip seçilir.
+(3) DEİK Genel Sekreteri tarafından belirlenen
+personel, gözlemci sıfatıyla İş Konseyi Genel Kuruluna katılır ve Genel
+Kurulun mevzuata uygun şekilde gerçekleştirilmesini sağlar.
+(4) Üyeler, sadece üye oldukları ülke/sektörel/özel amaçlı iş konseyinin genel kurulunda oy
+kullanabilir. İş Konseyi Genel Kuruluna katılamadıklarında, yazılı olarak
+bir vekil tayin edebilir. Ancak, bir kişi birden fazla vekâlet alamaz.
+(5) Üyelerin Genel Kurula katılabilmesi ve
+seçme-seçilme hakkına sahip olabilmeleri için, içinde bulunulan yıl dahil önceki yıllara ait aidat yükümlülüklerinin
+bulunmaması gerekir. Genel Kurul tarihi itibariyle, İş Konseyi ve üyelik
+aidatı yükümlülüklerini yerine getirmeyen temsilcilerin İş Konseyi Genel
+Kurul üyeliği ve seçildikleri organ üyelikleri kendiliğinden sona erer.
+(6) DEİK İcra Kurulu Üyeleri, İş Konseyleri Genel
+Kurullarının doğal delegeleridir.
+(7) İş Konseyi Genel Kurulunun görevleri şunlardır:
+a) İş konseylerinin çalışma programını ve bütçesini
+karara bağlamak.
+b) Yürütme kurullarının DEİK Yönetim Kurulu
+tarafından atanan üyeler dışındaki asil üyeleri ile yeterli talep olması
+halinde aynı sayıya kadar yedek üyelerini seçmek.
+c) İş konseyi yıllık aidatını belirlemek.
+ç) İş Konseyi Başkanını seçmek.
+(8) İş Konseyi Yürütme Kurulu; iki yıl süre ile
+görev yapmak üzere ve iş konseylerine kayıtlı üye sayısı dikkate alınarak
+beş ila onbir kişiden oluşur. Gerektiğinde,
+yürütme kurulu üye sayısında değişiklik yapmaya Yönetim Kurulu yetkilidir.
+Yürütme Kurulunun üye sayısının bu şekilde arttırılması halinde yeni
+üyeler, izleyen seçim tarihine kadar görev yapmak üzere, Yönetim Kurulu
+tarafından belirlenir.
+(9) İş Konseyi Yürütme Kurulunun yedi ve daha az
+üyeden oluşması halinde bir üye, yediden fazla olması halinde ise iki üye
+DEİK Yönetim Kurulu tarafından atanabilir. DEİK'in atayacağı üyelerin DEİK
+üyesi olması şartı aranmaz. Gerekli hallerde atama yoluyla görev verilecek
+üye sayısını artırmaya Yönetim Kurulu yetkilidir.
+(10) Bir kişinin, gerek ülke, gerekse sektörel ve özel amaçlı iş konseylerinde üçten fazla iş
+konseyinin yürütme kurulunda görev almaması esastır. Üye, farklı temsilci
+belirleyerek, daha fazla konseyde temsil sağlayabilir. Gerekli görülmesi
+halinde, görev alınabilecek iş konseyi sayısının artırılması Yönetim
+Kurulunun yetkisindedir.
+(11) Genel Kurulda, hem İş Konseyi Başkanı hem de
+Yürütme Kurulu Üyeleri seçilir, seçim esasları yönerge ile belirlenir. İş
+konseyleri yürütme kurulları ilk toplantıda kendi aralarından iki yıl için
+en fazla iki başkan yardımcısı seçerler. Bir kişi ardarda
+aynı İş Konseyinde en fazla üç dönem başkan olabilir.
+(12) İş Konseyi başkanları ile yürütme kurulu
+üyeleri gerekli görüldüğü takdirde, Bakan tarafından ya da Yönetim Kurulu
+teklifi üzerine Bakanlık onayı ile görevden alınabilir. Başkan ve yürütme
+kurulu üyelerinin görevden alınmaları veya diğer bir sebeple başkanlık ya
+da üyelikte boşalma olması halinde, yeni başkanı ve/veya yedek üyeler
+arasından üyeleri, izleyen seçim tarihine kadar görev yapmak üzere, Yönetim
+Kurulu görevlendirir.
+(13) Bölgesel gruplarda grup içi koordinasyon, o
+gruba dâhil iş konseyleri başkanlarının kendi aralarından seçecekleri bir
+koordinatör başkan tarafından sağlanır. Bölgesel gruplar, gerekli görülmesi
+halinde, en çok üç koordinatör başkan yardımcısı seçebilirler.
+DÖRDÜNCÜ BÖLÜM
+Danışma
+Kurulları, Genel Sekreter ve Temsilcilik
+Danışma
+kurulları
+MADDE 17
+– (1) DEİK, iş konseylerinin
+strateji oluşturma faaliyetleri ve sektörel
+çalışmaları açısından gerekli görülmesi durumunda, geçici nitelikte danışma
+kurulları oluşturulabilir. Danışma kurulları, Yönetim Kurulunun belirleyeceği
+dış ekonomik ilişkilerle bağlantılı alanlarda faaliyet gösteren genel veya sektörel nitelikte örgütlenmiş sivil toplum
+kuruluşları, ilgili kurum, kuruluş ve firmalardan temsilciler ve dış
+ekonomik ilişkilerde deneyimli kimselerden oluşturulur. Danışma kurulları,
+Yönetim Kurulunun davetiyle yapacakları ilk toplantılarında, kendi üyeleri
+arasından bir Başkan ve bir Başkan vekili seçerler.
+(2) Bu kurullar, DEİK ve iş konseylerine çeşitli
+ülkelere ve bölgelere yönelik inceleme sonuçları, Türkiye'nin dünya
+ekonomisi ile bağlantıları, sektörel kapasiteler,
+sektörlerin dış ekonomik ilişkilerdeki öncelik ve beklentileri hakkında
+bilgi sağlar, dış ekonomik ilişkilerin geliştirilmesine yönelik görüş
+oluşturur ve önerilerde bulunurlar.
+Genel
+Sekreter
+MADDE 18
+– (1) Genel Sekreter, DEİK'in ve
+iş konseylerinin bu Yönetmelik ve ilgili mevzuat ile tanımlanan
+çalışmalarını, Yönetim Kurulu, İcra Kurulu ve iş konseylerinin yürütme
+kurulları kararları doğrultusunda yürütür.
+(2) İş konseylerinin çalışmalarını, Yönetim
+Kurulunun belirlediği strateji ve politika önerileri çerçevesinde yönlendirir
+ve DEİK organları ile ilişkilerinde koordinasyonu sağlar.
+(3) Genel Sekreter, Yönetim Kurulunun tavsiyesi ve
+Bakanlığın onayı ile atanır. Lüzum görülmesi halinde, aynı usulle Genel
+Sekreter yardımcıları da görevlendirilebilir.
+(4) Genel Sekreter ve Genel Sekreter
+Yardımcılarının görevden alınmaları, atanmalarında uygulanan usul ve
+esaslara göre yapılır.
+Temsilcilik
+MADDE 19
+– (1) DEİK, iş imkânlarının
+yerinden izlenmesinin önem kazandığı durumlarda Yönetim Kurulunun kararı ve
+Bakanlığın onayı ile yurtiçinde veya yurtdışında temsilcilikler açabilir.
+Toplantı
+çağrısı ve nisabı
+MADDE 20
+– (1) DEİK organları, başkanlarının
+daveti üzerine, üye tam sayılarının salt çoğunluğu ile toplanırlar ve hazır
+bulunanların salt çoğunluğu ile karar alırlar. Oylamalarda eşitlik halinde
+başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+(2) DEİK ve iş konseylerinin Genel Kurul toplantılarında,
+toplantı nisabının sağlanamaması halinde toplantı ertelenir ve ikinci
+toplantı en geç bir ay içinde yapılır; bu toplantıda, toplantı nisabı
+aranmaz.
+(3) Yıl içinde gerçekleşen organ toplantılarının
+yarısından bir fazlasına katılmayanların organ üyeliği Yönetim Kurulu
+kararıyla sona erer, yerlerine yedekleri çağrılır.
+BEŞİNCİ BÖLÜM
+Ehliyet,
+Temsil, İmza Yetkisi, Bütçe, Gelir ve Giderler
+Ehliyet,
+temsil ve imza yetkisi
+MADDE 21 – (1) DEİK,
+Yönetim Kurulu kararıyla; taşınır ve taşınmaz mal almaya, satmaya, inşa,
+ifraz, tevhit ve rehin etmeye, ödünç para almaya, sosyal yardımlarda
+bulunmaya, burs vermeye, bağış ve yardımlarda bulunmaya, sosyal
+faaliyetleri destekleme ve özendirme yardımları yapmaya, bu Yönetmelik
+hükümleri çerçevesinde şirket ve vakıf kurmaya veya kurulu şirketlere
+iştirak etmeye, derneklere üye olmaya ve benzeri hukukî işlemler yapmaya
+yetkilidir.
+(2) DEİK'in, şirket veya vakıf kurabilmesi ya da
+kurulmuş veya kurulacak şirketlere iştirak edebilmesi, kuruluş amaçları ve
+faaliyet konuları ile sınırlı olmak üzere, Yönetim Kurulu kararına ve
+Bakanlığın iznine tabidir. Ayrıca DEİK'in, bağış ve yardımda bulunabilmesi
+ve sosyal faaliyetleri destekleyip özendirebilmesi için, bütçede
+karşılığının olması ve yapılacak bu harcamaların DEİK'in kuruluş amaçları
+ve faaliyet konularıyla sınırlı olması zorunludur.
+(3) DEİK'i; Yönetim Kurulu Başkanı, onun
+bulunmadığı hallerde görevlendireceği Yönetim Kurulu Başkan Yardımcısı temsil
+eder. Yönetim Kurulu Başkanı, gerekli görmesi halinde Yönetim Kurulu başkan
+yardımcılarına veya bir Yönetim Kurulu üyesine temsil yetkisi verebilir.
+(4) DEİK adına düzenlenen taahhütname, sözleşme,
+vekâletname gibi DEİK'i hukuken bağlayan işlemleri imzalamaya; Yönetim
+Kurulu Başkanı veya Yönetim Kurulu başkan yardımcılarından biri ile Genel
+Sekreter, Genel Sekreterin bulunmadığı hallerde bir yönetim kurulu üyesi
+müştereken yetkilidirler. Ayrıca, bu işlemleri Yönetim Kurulu tarafından
+verilen bütçe içi harcama yetkisi dâhilinde Genel Sekreter ile genel
+sekreter yardımcılarından birisi veya idari ve mali işler sorumlusu
+müştereken imzalamaya yetkilidir.
+Bütçe
+MADDE 22
+– (1) DEİK ve iş konseylerinin
+gelir ve harcamaları, Yönetim Kurulu tarafından hazırlanarak Genel Kurula
+sunulan ve Genel Kurulca kabul edilen yıllık bütçeyle düzenlenir.
+(2) Bütçe yılı takvim yılıdır.
+(3) İş konseyleri bütçeleri, yürütme kurulları
+tarafından hazırlanarak iş konseyi genel kurullarınca karara bağlanır.
+Gelirler
+MADDE 23
+– (1) DEİK'in gelirleri şunlardır:
+a) Bakanlık bütçesinden yapılacak yardımlar.
+b) Kurucu kuruluşlar arasında yer alan;
+1) TOBB ve TİM’in bir
+önceki yıl gelirlerinden yüzde bir oranında ayrılıp, izleyen yılın Şubat ve
+Ağustos aylarında ödeyecekleri katkı payları.
+2) MÜSİAD ve TMB’nin,
+DEİK Yönetim Kurulu tarafından belirlenen diğer kurucu kuruluş ve kurumsal
+üyelerin yıllık maktu aidatın beş katı olan, her yılın Şubat ve Ağustos
+aylarında ödeyecekleri katkı payları.
+c) Ek-1'de yer alan kuruluşlardan İhracatçı
+Birlikleri, Ticaret Odaları, Sanayi Odaları ile Ticaret ve Sanayi Odalarının
+bir önceki yıl gelirlerinden binde beş oranında ayrılıp, izleyen yılın
+Şubat ve Ağustos aylarında ödeyecekleri katkı payları.
+ç) (b) ve (c) bentlerinde sayılan kurucu kuruluşlar
+dışında kalan kurumsal üye ve iş konseylerinin yıllık üyelik aidatları.
+d) Hizmet ve proje karşılığı alınan bedeller.
+e) Faiz gelirleri.
+f) Bağış, sponsorluk ve
+diğer gelirler.
+(2) Kurucu Kuruluş, Kurumsal Üye ve üyelik aidatı;
+a) Bu maddenin birinci fıkrasının (ç) bendinde
+belirtilen kurucu kuruluş ve kurumsal üyelerin üyelik aidatı; Yönetim
+Kurulunca belirlenen maktu miktardan oluşur. Yönetim Kurulu bu miktarları,
+üye sayıları, temsil güçleri ve benzeri saikleri gözönünde bulundurarak birbirinden farklı olarak
+belirleyebilir. Üyelik aidatı yıllık olarak ödenir.
+b) Üyelik aidatları; iş konseyi aidatı ve DEİK
+üyelik aidatı olmak üzere iki bölüm halinde uygulanır. DEİK üyelik aidatı,
+iş konseyi üyelerinin üye oldukları iş konseylerinin her birine ayrıca
+ödeyeceği aidattan bağımsız olarak yıllık olarak ödenen, Yönetim Kurulunca
+belirlenen miktardır.
+c) İş konseyi aidatı ise, iş konseyi faaliyet
+giderlerini karşılayacak şekilde iş konseyi genel kurulları tarafından
+tayin edilir ve yılda bir defa ödenir. Toplanan her bir iş konseyine ait
+aidat gelirlerinden, DEİK Yönetim Kurulu tarafından belirlenecek bir
+yüzdesi, İş Konseyleri Ortak Bütçesine aktarılır.
+(3) Kamu kurum ve/veya kuruluşlarından ya da
+temsilcilerinden katkı payı ya da aidat alınmaz.
+(4) Yönetim Kurulu kararıyla, yeni kurulan iş
+konseylerinin İş Konseyi aidatında, yeni üye firmalar için ilk yıl yüzde
+elliye kadar indirim yapılabilir.
+Giderler
+ve harcama yetkisi
+MADDE 24
+– (1) DEİK Bütçesi, İş Konseyleri
+Ortak Bütçesi ve her bir iş konseyinin gelir ve giderleri ayrı ayrı takip edilir. Harcamalar onaylanmış bütçelere göre
+yapılır. Bütçelerden sarf yetkisi Yönetim Kurulundadır. Yönetim Kurulunun
+belirleyeceği üst sınıra kadar harcamalar için Yönetim Kurulu Başkanı ile
+Genel Sekretere ayrı ayrı yetki verilebilir.
+(2) DEİK adına ödeme yapmaya, Yönetim Kurulu
+Başkanı veya Yönetim Kurulu başkan yardımcılarından birisi ile, Sayman Üye veya Genel Sekreter, veya DEİK Yönetim
+Kurulunun İmza sirküleriyle yetkili kılacağı kişiler, sirkülerde
+tanımlandığı şekliyle müştereken yetkilidirler.
+(3) Yönetim Kurulu Başkanına verilen harcama
+yetkisi dâhilinde bütçeden yapılacak ödemeler; Yönetim Kurulu Başkan veya
+başkan yardımcısı ile Genel Sekreterin veya sayman üyenin müşterek imzası
+ile yapılır.
+(4) Genel Sekretere verilen harcama yetkisi dâhilinde
+bütçeden yapılacak ödemeler; Genel Sekreter ile Yönetim Kurulu başkan
+yardımcısı veya sayman üye veya Genel Sekreter Yardımcısı veya İdari ve
+Mali İşler Sorumlusunun müşterek imzası ile yapılır.
+(5) DEİK ve iş konseylerinin giderleri şunlardır:
+a) Personel giderleri.
+b) Toplantı, organizasyon ve seyahat giderleri.
+c) Tanıtım giderleri.
+ç) Genel yönetim giderleri.
+d) Araştırma, basım ve yayın giderleri.
+e) Eğitim giderleri.
+f) Faiz ve finansman giderleri.
+g) Kira giderleri.
+ğ) Diğer giderler.
+(6) Her ülke iş konseyinin ayrı bir bütçesi
+olacaktır. Yeterli üye sayısı olmadığı için DEİK Yönetim Kurulu kararıyla
+gruplanan İş Konseylerinin bütçesi, kendi grupları içerisinde, iş konseyi
+bazında takip edilecektir. Öngörülen bütçe içerisinde kalmak kaydıyla, İş
+Konseyleri Yürütme Kurullarının aldığı harcama kararlarının uygulaması, bu
+Yönetmelik hükümlerine göre, Genel Sekreterlikçe yerine getirilecektir.
+ALTINCI BÖLÜM
+Çeşitli ve Son
+Hükümler
+İnsan
+kaynakları
+MADDE 25
+– (1) DEİK'in personeli 4857
+sayılı İş Kanununa tabidir. Personelin işe alınması, yükselmesi, görev yeri
+değişikliği, işine son verilmesi, ücretinin ve çalışma koşullarının
+belirlenmesi hususlarında Yönetim Kurulu yetkilidir.
+(2) Genel Sekreter, personeli sevk ve idare eder,
+performansını değerlendirir ve İş Kanunu çerçevesinde tecziye eder.
+Yönerge
+MADDE 26
+– (1) DEİK organlarının çalışma
+şeklini, birbiriyle ilişkilerini, seçme ve seçilme esaslarını, bütçe,
+muhasebe, insan kaynakları gibi çalışma usul ve esaslarını kapsayan
+yönergeler, DEİK Yönetim Kurulunca karara bağlanır ve yürürlüğe girer.
+Geçici
+hükümler
+MADDE 27
+– (1) Bakanlık (Anlaşmalar Genel
+Müdürlüğü), DEİK organlarına faaliyetlerinde destek sağlar.
+(2) DEİK Yönetim Kurulu, ilk seçimli Genel Kurul
+toplantısına kadar görev yapmak üzere İş Konseyleri Başkanları arasından
+birini Yönetim Kurulu üyesi olarak belirler.
+(3) Ülke bazlı İş Konseylerinin ilk Genel Kuruluna
+sunulacak bütçe için baz alınacak üyelik
+aidatları, bir defalığına DEİK Yönetim Kurulu tarafından belirlenir.
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 28
+– (1) 20/9/2014
+tarihli ve 29125 sayılı Resmî Gazete’de yayımlanan Dış Ekonomik İlişkiler Kurulu
+ve İş Konseyleri Çalışma Usul ve Esasları Hakkında Yönetmelik yürürlükten
+kaldırılmıştır.
+Yürürlük
+MADDE 29
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 30
+– (1) Bu Yönetmelik hükümlerini
+Ekonomi Bakanı yürütür.
+EK-1 DEİK KURUCU
+KURULUŞLARI
+DEİK KURUCU KURULUŞLARI
+Dört Ana Kurucu Kuruluş
+1
+TOBB - Türkiye Odalar Ve Borsalar
+Birliği
+2
+TİM - Türkiye İhracatçılar Meclisi
+3
+MÜSİAD - Müstakil Sanayici ve
+İşadamları Derneği
+4
+TMB - Türkiye Müteahhitler Birliği
+Diğer Kurucu Kuruluşlar
+5
+Adana Sanayi Odası
+6
+Adana Ticaret Odası
+7
+Akdeniz Yaş Meyve Sebze İhracatçılar
+Birliği
+8
+Ankara Sanayi Odası
+9
+Ankara Ticaret Odası
+10
+Antakya Ticaret ve Sanayi Odası
+11
+ASD - Ambalaj Sanayicileri Derneği
+12
+ASKON - Anadolu Aslanları İşadamları
+Derneği
+13
+BMD- Birleşmiş Markalar Derneği
+14
+Bursa Ticaret Ve Sanayi Odası
+15
+Çelik İhracatçılar Birliği
+16
+Denizli Sanayi Odası
+17
+Denizli Ticaret Odası
+18
+Ege Bölgesi Sanayi Odası
+19
+Ege Kuru Meyve ve Mamülleri İhracatçılar Birliği
+20
+Ege Su Urünleri
+ve Hayvansal Mamülleri İhracatçılar
+Birliği
+21
+Ege Tütün İhracatçılar Birliği
+22
+Ege Zeytin ve Zeytinyağı İhracatçılar
+Birliği
+23
+Elektrik Elektronik ve Hizmet
+İhracatçıları Birliği
+24
+Gaziantep Sanayi Odası
+25
+Gaziantep Ticaret Odası
+26
+GİSBİR - Türkiye Gemi İnşa Sanayicileri
+Birliği
+27
+GİV - Girişimci İşadamları Vakfı
+28
+Güneydoğu Anadolu Halı İhracatçılar
+Birliği
+29
+Güneydoğu Anadolu Hub.Bak.ve Yağ.Toh.Mam.İhracatçılar
+Birliği
+30
+GYİAD - Genç Yönetici Ve İşadamları
+Derneği
+31
+GYODER - Gayrimenkul ve Gayrimenkul
+Yatırım Ortaklığı Derneği
+32
+İklimlendirme Sanayi İhratcatçılar Birliği
+33
+İKV - İktisadi Kalkınma Vakfı
+34
+İlaç Endüstrisi İşverenler Sendikası
+35
+İMSAD - Türkiye İnşaat Malzemesi
+Sanayicileri Derneği
+36
+İNTES - Türkiye İnşaat Sanayicileri
+İşveren Sendikası
+37
+İstanbul Demir ve Demir Dışı Metaller İhracatçılar
+Birliği
+38
+İstanbul Deri ve Deri Mamulleri
+İhracatçılar Birliği
+39
+İstanbul Gemi ve Yat İhracatçılar Birliği
+40
+İstanbul Hazır Giyim ve Konfeksiyon
+İhracatçılar Birliği
+41
+İstanbul Kimyevi Maddeler ve
+Mamulleri İhracatçılar Birliği
+42
+İstanbul Maden İhracatçıları Birliği
+43
+İstanbul Mobilya, Kağıt ve Orman Ürünleri İhracatçıları
+Birliği
+44
+İstanbul Sanayi Odası
+45
+İstanbul Tekstil ve Hammadeleri İhracatçı Birliği
+46
+İstanbul Ticaret Odası
+47
+İzmir Ticaret Odası
+48
+JCİ -Genç Liderler Ve Girişimciler
+Derneği
+49
+Karadeniz Fındık ve Mamülleri İhracatçılar Birliği
+50
+Kayseri Sanayi Odası
+51
+Kayseri Ticaret Odası
+52
+Kocaeli Sanayi Odası
+53
+Kocaeli Ticaret Odası
+54
+Konya Sanayi Odası
+55
+Konya Ticaret Odası
+56
+Manisa Ticaret ve Sanayi Odası
+57
+Mersin Ticaret Ve Sanayi Odası
+58
+MOSDER - Mobilya Sanayicileri Derneği
+59
+MOSFED - Mobilya Dernekleri Federasyanu
+60
+Mücevher İhracatçıları Birliği
+61
+Orta Anadolu Çimento, Cam ve Toprak
+ürünleri İhracatçi Birliği
+62
+Orta Anadolu Makine ve Aksamları İhracatçi Birliği
+63
+Orta Anadolu Süs Bitkileri ve Mamülleri İhracatçi
+Birliği
+64
+OSBDER- Organize Sanayi Bölgeleri
+Derneği
+65
+Sakarya Ticaret Ve Sanayi Odası
+66
+Savunma ve Havacılık Sanayi İhracatçı
+Birliği
+67
+Tarım Kredi Kooperatifi
+68
+TARMAKBİR- Türk Tarım Alet Ve Makinaları İmalatçıları Birliği
+69
+TBB - Türkiye Bankalar Birliği
+70
+TCÜD- Türkiye Çelik Üreticileri
+Derneği
+71
+TESK - Türkiye Esnaf ve Sanatkarlar Konfederasyonu
+72
+TETSİAD - Türkiye Ev Tekstili
+Sanayicileri ve İşadamları Derneği
+73
+TGSD - Türkiye Giyim Sanayicileri
+Derneği
+74
+TİKAD - Türkiye İşkadınları Derneği
+75
+TKBB-Türkiye Katılım Bankaları
+Birliği
+76
+TMMMB - Türk Müşavir Mühendisler Ve
+Mimarlar Birliği
+77
+Trabzon Ticaret Ve Sanayi Odası
+78
+TSPB - Türkiye Sermaye Piyasaları
+Birliği
+79
+TSRSB - Türkiye Sigorta Ve Reasürans
+ve Emeklilik Şirketleri Birliği
+80
+TTGV- Türkiye Teknoloji Geliştirme
+Vakfı
+81
+TÜBİSAD - Bilişim Sanayicileri Derneği
+82
+TÜGİAD - Türkiye Genç İşadamları
+Derneği
+83
+TÜMSİAD - Tüm Sanayici Ve İşadamları
+Derneği
+84
+Türkiye Çimento Müstahsilleri Birliği
+85
+TÜRKONFED - Türk Girişim Ve İş
+Dünyası Konfederasyonu
+86
+TÜRSAB - Türkiye Seyahat Acentaları Birliği
+87
+TYD - Türkiye Turizm Yatırımcıları
+Derneği
+88
+TZOB - Türkiye Ziraat Odaları Birliği
+89
+UFRAD - Ulusal Franchise
+Derneği
+90
+Uludağ Meyve ve Sebze Endüstrisi
+İhracatçı Birliği
+91
+Uludağ Otomotiv Endüstrisi İhracatçı
+Birliği
+92
+UND - Uluslararası Nakliyeciler
+Derneği
+93
+UTİKAD - Uluslararası Taşımacılık ve Loj.Hizmet
+Üretenleri Der.
+94
+YASED - Uluslararası Yatırımcılar
+Derneği
