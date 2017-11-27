@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-175.01.01.02[17-1]-127088",
+  "source_id": 37024,
+  "date": "2017-11-27",
+  "title": "Belediyeler Tarafından Verilen Hizmetler İçin Ücret Uygulaması Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37024",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "a474be7d68c30e967d3b1a151a612d6fdf9ed1d3661a8a997ca4079b5e352c7e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
