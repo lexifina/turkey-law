@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.16.01-125[2-14/18]-470076",
+  "source_id": 27476,
+  "date": "2017-11-27",
+  "title": "Adi ortaklıkta yeni işler üstlenilmesi halinde mükellefiyetin devam edip etmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27476",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "5e1327cf402d55a3162dceb095f4efbdadb1d79153a1ef2ddc913635993b2475",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
