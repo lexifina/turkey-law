@@ -1,0 +1,4 @@
+12 – 4/6/2008 tarihli ve 5766 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde: 4.)
+Madde 4 - bent - a - ( 26/11/1980 tarihli ve 2348 sayılı Kanunun hükmüdür.) Genel bütçeye dahil daireler, katma bütçeli idareler, il özel idareleri ve belediyelerle köy tüzelkişiliklerince iktisap edilerek bu daire ve idareler adına kayıt ve tescil edilen taşıtlar (Bu dairelere bağlı olup, ayrı tüzelkişiliği olan işletmeler ile özel kanunlarında malları Devlet malı sayılmış olan kuruluşların taşıtları hariç),
+13 – 6/5/2009 tarihli ve 5897 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde:1,6 .)
+Madde 1 bent c – (26/11/1980 tarihli ve 2348 sayılı Kanunun hükmüdür.) Liman veya belediye siciline kayıt ve tescil edilmiş olan motorlu deniz taşıtları,

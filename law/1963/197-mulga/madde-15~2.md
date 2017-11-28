@@ -1,0 +1,2 @@
+Madde 15 – (26/11/1980 tarih ve 2348 sayılı Kanunun hükmüdür.)
+Taksi olarak kullanılan otomobil, kaptıkaçtı, panel ve arazi taşıtı sahipleri, kayıt ve tescil tarihinden itibaren, plaka ile birlikte taksi kelimesini ifade eden (T) işareti takmaya, damalı kuşak çizdirmeye mecburdurlar. Bu mecburiyetlerden herhangi birine riayetsizlik halinde, riayetsizliğin devam ettiği müddetçe, bu taşıtlar I sayılı tarifeye göre vergilendirilir.
