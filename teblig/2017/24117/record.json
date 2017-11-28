@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24117",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2017/30)",
+  "number": "24117",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2017/24117",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24117&MevzuatTertip=5",
+  "source_sha256": "0a2d8f8c24a865b1ab41405268c728a83cf49cd65f9bfd307dfb9c50175de848",
+  "source_bytes": 29009,
+  "published": "2017-11-28",
+  "gazette": "30254",
+  "in_force": "2017-11-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.11.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1374,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
