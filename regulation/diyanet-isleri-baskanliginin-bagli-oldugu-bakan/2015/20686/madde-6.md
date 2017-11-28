@@ -1,0 +1,2 @@
+Unvan değişikliğine tabi kadrolar
+MADDE 6 – (1) Bu Yönetmelik kapsamında; avukat, mühendis, mimar, astronom, sosyolog, mütercim, programcı, istatistikçi, kütüphaneci, tekniker, biyolog, laborant, sağlık teknikeri, sağlık teknisyeni, hemşire, grafiker, yönetmen, prodüktör, film yapımcısı, ses kayıtçısı, ışıkçı, montajcı, spiker, muhabir, kameraman, teknik ressam ve teknisyen unvan değişikliğine tabi kadrolardır.

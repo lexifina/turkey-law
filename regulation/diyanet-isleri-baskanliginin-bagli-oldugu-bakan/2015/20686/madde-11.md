@@ -1,0 +1,6 @@
+Sınav kurulu
+MADDE 11 – (1) Görevde yükselme veya unvan değişikliği sınavlarına ilişkin işlemleri yürütmek üzere, beş kişiden oluşan sınav kurulu teşkil edilir. Sınav kurulu, Başkan veya görevlendireceği bir kişinin başkanlığında, İnsan Kaynakları Genel Müdürlüğü temsilcileri ile Başkan tarafından belirlenecek üyelerden teşekkül eder. İhtiyaç halinde kurula üniversitelerden veya kurum dışından kamu görevlileri arasından üye alınabilir. Ayrıca, kurul için iki yedek üye belirlenir. (Ek cümle:RG-28/11/2017-30254) Sınav kurulunu teşkil eden üyeler görevde yükselme sınavına alınacak personelden, öğrenim ve ihraz ettikleri unvanlar itibarıyla daha düşük seviyede olamazlar.
+(2) Gerek görülmesi hâlinde aynı usulle birden fazla sınav kurulu oluşturulabilir.
+(3) Kurul, üye tamsayısı ile toplanır, kararlar oy çokluğu ile alınır, çekimser oy kullanılmaz.
+(4) Sınav kurulunun başkan ve üyelerinin görevde yükselme sınavına eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının katıldığının tespit edilmesi halinde, bu üye veya üyeler sınav kurulu üyeliğinden çıkartılır ve bunların yerine yeni üye veya üyeler görevlendirilir.
+(5) Sınav kurulunun sekretarya hizmetleri İnsan Kaynakları Genel Müdürlüğü tarafından yürütülür.
