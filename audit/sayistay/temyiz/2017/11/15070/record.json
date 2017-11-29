@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43797",
+  "decision_date": "2017-11-29",
+  "source_id": 15070,
+  "chamber": "6",
+  "file_number": "39994",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15070/",
+  "source_sha256": "cae2a38eb8ab8a922e9ff5a8264cde04302c73fc7668a8bfccf05abb45de826a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
