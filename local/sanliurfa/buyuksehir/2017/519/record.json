@@ -1,0 +1,24 @@
+{
+  "number": "519",
+  "number_as_published": "519",
+  "year": 2017,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(HİLVAN-FAİK)",
+  "decision_date": "2017-11-29",
+  "source": "https://www.sanliurfa.bel.tr/icerik/5418/106/nazim-ve-uygulama-imar-planihilvan-faik",
+  "official_document": null,
+  "source_sha256": "8a1bad82ec68b21462ae89ebe0a9ef0716a2526040dbcc8d7e67de1367e4dcac",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2017-11-29",
+  "in_force_basis": "Decision date as printed in the official council listing: 29.11.2017 tarih ve 519 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2018-01-05",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
