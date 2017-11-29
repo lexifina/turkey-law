@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2017/DK-ETD/353",
+  "date": "2017-11-29",
+  "title": "Haberleşme Gönderilerine İlişkin Temel Ücret",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2017-12-01",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=75",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/de19f695-715c-40e9-ad23-2b4dac659f1e.pdf",
+  "source_sha256": "ad47fc88ebf267949d9b8bf0bf22bb194e517158088e61063b30d975e47b8d70",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2017-11-29",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 29.11.2017; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
