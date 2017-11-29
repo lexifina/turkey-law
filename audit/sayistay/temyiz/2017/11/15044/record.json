@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43793",
+  "decision_date": "2017-11-29",
+  "source_id": 15044,
+  "chamber": "7",
+  "file_number": "41531",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15044/",
+  "source_sha256": "1c0d687c0f57e0403e41549bee342482f2231f908d8a9d8aa657352edf4187c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
