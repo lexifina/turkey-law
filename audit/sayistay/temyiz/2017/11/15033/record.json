@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43812",
+  "decision_date": "2017-11-29",
+  "source_id": 15033,
+  "chamber": "7",
+  "file_number": "42587",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15033/",
+  "source_sha256": "846cf0abc1f058402a164ead5ea56a26571c9ad8fd4cf0f50a2de5f543dec9be",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
