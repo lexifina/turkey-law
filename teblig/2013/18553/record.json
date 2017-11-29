@@ -1,0 +1,47 @@
+{
+  "source_id": "9.5.18553",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GAYRİMENKUL SERTİFİKALARI TEBLİĞİ (VII-128.2)",
+  "number": "18553",
+  "issuer": "Kurul",
+  "path": "teblig/2013/18553",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18553&MevzuatTertip=5",
+  "source_sha256": "5c3e01672aba9baf7a35b8a2735e3b1b327a0426ed4dce979787679e0b6188f0",
+  "source_bytes": 85312,
+  "published": "2013-07-05",
+  "gazette": "28698",
+  "in_force": "2017-11-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/11/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-11-29",
+      "RG-29/11/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-03-07",
+      "RG-7/3/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-08-03",
+      "RG-3/8/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6700,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

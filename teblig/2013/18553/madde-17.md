@@ -1,0 +1,2 @@
+Diğer hususlar
+MADDE 17 – (1) İzahnamenin, ihraç belgesinin ve ihraca ilişkin diğer belgelerin içeriğine, hazırlanmasına, onaylanmasına, yayınlanmasına, tescil ve ilanına, izahnamede yer alacak finansal tablolara, izahnamedeki değişikliklere, ihraççılar tarafından yapılacak ilan ve reklamlara ilişkin hususlarda, gayrimenkul sertifikalarının ihraç ve satış esasları ile ihraççıların finansal raporlama, bağımsız denetim ve kamuyu aydınlatma yükümlülüklerinin belirlenmesinde ve Tebliğde yer almayan diğer konularda Kurulun ilgili düzenlemelerine uyulur.

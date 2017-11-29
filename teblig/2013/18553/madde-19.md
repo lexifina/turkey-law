@@ -1,0 +1,3 @@
+Gayrimenkul sertifikalarının kayden ihracı
+MADDE 19 – (1) İhraççı tarafından yurt içinde ihraç edilecek gayrimenkul sertifikalarının MKK nezdinde elektronik ortamda kayden ihracı ve bunlara ilişkin hakların hak sahipleri bazında izlenmesi zorunludur.
+(2) Yurt dışında ihraç edilecek gayrimenkul sertifikalarına ilişkin olarak ihraç tutarı, ihraç tarihi, ISIN kodu, vade başlangıç tarihi, vadesi, saklamacı kuruluş, ihracın gerçekleştirildiği döviz cinsi ve ülkeye ilişkin bilgiler ihracın gerçekleştirilmesini takip eden üç iş günü içinde MKK’ya iletilir. MKK’ya iletilen bu bilgilerde erken itfa dahil değişiklik olması halinde, değişikliğin yapıldığı tarihi takip eden üç iş günü içinde MKK’ya bilgi verilir.

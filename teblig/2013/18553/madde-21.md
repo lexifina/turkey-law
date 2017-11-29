@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan tebliğ
+MADDE 21 – (1) Kurulun 20/7/1995 tarihli ve 22349 sayılı Resmî Gazete’de yayımlanan Gayrimenkul Sertifikalarının Kurul Kaydına Alınmasına İlişkin Esaslar Tebliği (Seri: III, No: 19) yürürlükten kaldırılmıştır. Kurulun diğer düzenlemelerinde Gayrimenkul Sertifikalarının Kurul Kaydına Alınmasına İlişkin Esaslar Tebliği (Seri:III, No:19)’ne yapılan atıflar bu Tebliğe yapılmış sayılır.

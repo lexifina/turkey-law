@@ -1,0 +1,2 @@
+Diğer gayrimenkul sertifikalarına ilişkin onay başvurularının Kurulca sonuçlandırılması
+MADDE 20 – (1) Tebliğde sayılmamakla birlikte, Kurulun diğer düzenlemelerinin kapsamı içinde yer almayan ve niteliği itibarıyla gayrimenkul sertifikası olduğu Kurulca kabul edilecek sermaye piyasası araçlarına ait izahname ve ihraç belgesinin onaylanmasına ilişkin başvurular, Tebliğ hükümlerinin kıyasen uygulanması suretiyle sonuçlandırılır.
