@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.13792",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MEVLİD-İ NEBİ HAFTASI İLE CAMİLER VE DİN GÖREVLİLERİ HAFTASI KUTLAMA YÖNETMELİĞİ",
+  "number": "13792",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2010/13792",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13792&MevzuatTertip=5",
+  "source_sha256": "6f7e6b493119f92b294d84b3f79746b8b9ab5eaa0552a3f6e8b2d5626639bc25",
+  "source_bytes": 36068,
+  "published": "2010-02-13",
+  "gazette": "27492",
+  "in_force": "2017-11-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/11/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-11-29",
+      "RG-29/11/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-11-29",
+      "29/11/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-08-16",
+      "RG-16/8/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-08-16",
+      "16/8/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1097,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
