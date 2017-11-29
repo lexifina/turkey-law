@@ -1,0 +1,2 @@
+Danışma Kurulu ve görevleri
+MADDE 11 – (1) Merkezin uzun vadeli bilimsel ve idari planlarını değerlendirmek, çalışmalarında etkinlik ve verimliliği arttırmak, bu konularda yönetim kuruluna öneride bulunmak üzere, Üniversite içinden veya dışından konu ile ilgili bilgi, beceri ve deneyim sahibi, müdürün önereceği yedi öğretim üyesinin Rektör tarafından görevlendirmesi ile Danışma Kurulu oluşur. Danışma Kurulu, Müdürün daveti üzerine ve Müdür başkanlığında üyelerin salt çoğunluğuyla toplanır ve kararlar oy çokluğuyla alınır. Danışma Kurulu üyelerinin görev süresi iki yıldır.
