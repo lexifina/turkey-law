@@ -1,0 +1,7 @@
+Zarar ve nedensellik iddiası
+MADDE 7 – (1) Yönetmeliğin 17 nci maddesi çerçevesinde zarar iddiasının incelenmesi amacıyla şikâyet konusu ülkeden gerçekleşen ithalatın miktar bazlı seyri, söz konusu ithalatın pazar payı ve YÜD’ün yurt içi satış fiyatları üzerindeki etkisi ile YÜD’ün ekonomik göstergelerinin durumu değerlendirilmiştir.
+(2) Başvuru konusu ürünün ÇHC menşeli ithalatının hem mutlak olarak hem de Türkiye tüketimine göre nispi olarak yükseldiği belirlenmiştir.
+(3) 2015 ve 2016 yılları ile 2017 yılı Ocak-Haziran döneminde söz konusu ürünün tüketiminin artmasıyla birlikte ÇHC menşeli ithalatın pazar payının da önemli oranda yükseldiği, tüketim artışından kaynaklı ÇHC menşeli ithalat artışının YÜD’ün satış miktarı artışından daha fazla olduğu tespit edilmiştir.
+(4) ÇHC menşeli ithalatın birim fiyatlarının YÜD iç piyasa satış fiyatlarını 2015 ve 2016 yılları ile 2017 yılı Ocak-Haziran döneminde kırmadığı fakat önemli oranlarda baskıladığı tespit edilmiştir.
+(5) 2015 ve 2016 yılları ile 2017 yılı Ocak-Haziran döneminde YÜD’ün üretim, yurt içi satış, ihracat, sınai ve ticari maliyet gibi ekonomik göstergelerinde gelişme görülmekle birlikte; kârlılık ve nakit akışı gibi ekonomik göstergelerinin negatif değerlerde seyrettiği, kapasite kullanım oranının düşük seviyelerde olduğu ve stok miktarında artış olduğu görülmüştür.
+(6) Başvuru aşamasında sunulan deliller ve ithalata ilişkin resmî istatistikler esas alınarak yapılan tespitler ışığında, dampingli olduğu iddia edilen ÇHC menşeli ithalatın YÜD üzerinde maddi zarara yol açtığı değerlendirilmiştir.
