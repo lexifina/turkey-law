@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "219",
+  "decision_date": "2017-11-30",
+  "source_id": 25871,
+  "chamber": "7",
+  "ilam_number": "77",
+  "item_number": 14,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25871/",
+  "source_sha256": "ac6d55ab16dedc9d77650c4256fc290252bc5dc6c9a9f19bca687c8f2b6f01a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
