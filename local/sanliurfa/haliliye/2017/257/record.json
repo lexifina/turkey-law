@@ -1,0 +1,29 @@
+{
+  "number": "257",
+  "number_as_published": "2017/257",
+  "year": 2017,
+  "month": 11,
+  "title": "2018 yılına ait Gelir ve Harç Tarife Ücretlerinin 2464 Sayılı Belediye Gelirleri Kanunun ücrete tabi işler başlıklı madde 97.maddesi uyarınca miktarlarının belirlenmesi konusu Plan ve Bütçe Komisyonuna havale edilmesine oy çokluğu ile kabul edildi.",
+  "decision_date": null,
+  "index_date": "2017-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2017",
+  "source": "https://www.haliliye.bel.tr/icerik/1801/39/kasim-2017",
+  "official_page": "https://www.haliliye.bel.tr/icerik/1801/39/kasim-2017",
+  "official_document": null,
+  "source_sha256": "4ae3960b958355f463d92079662ef26ccff0a35e43813333dd2c156b212d0bc2",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2017-11-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Kasım 2017); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "KASIM 2017",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
