@@ -1,0 +1,21 @@
+Özel Tahsisli Konutların Giderlerinin Bütçeden Ödenmesi:
+
+........ Kurulu Üyelerine Kamu Konutları Kanunu ve Kamu Konutları Yönetmeliği hükümlerine aykırı olarak özel tahsisli konut tahsis edilerek bu konutların elektrik, su, apartman aidatı (ısınma) gibi giderlerinin Kurum bütçesinden ödenmesi konusuna ilişkin olarak;
+
+97/9468 sayılı Bakanlar Kurulu Kararı ile 21.06.1997 tarih ve 23026 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren “Rekabet Kurumu Çalışma Usul ve Esasları Hakkında Yönetmelik” in “Konut Tahsisi” başlıklı 33’üncü maddesinde; “Kurul Başkan ve üyelerine Kamu Konutları Yönetmeliği çerçevesinde “Özel Tahsisli” olarak konut tahsis edilir. Diğer personele görev ve sıra tahsisli olarak Başkanca yapılır.”  denilmektedir.
+
+............ Kurumu tarafından yukarıda yer verilen hüküm gereği ........  Kurulu Başkan ve üyelerine özel tahsisli konut tahsis edilmekte ve bu konutların birtakım giderleri, Kamu Konutları Yönetmeliğinde belirlenen çerçevede Kurum bütçesinden karşılanmaktadır.
+
+Denetçi tarafından; 84/8345 sayılı Bakanlar Kurulu Kararı ile 23.09.1984 tarih ve 18524 sayılı Resmi Gazetede yayımlanan “Kamu Konutları Yönetmeliği” nin özel hükümler içerdiği ve halen yürürlükte olduğu, ...........  Kurumunda görev unvanlarına göre yapılacak konut tahsisi açısından söz konusu Yönetmelik hükümlerine aykırı işlem yapılamayacağı, ifade edilmiş olsa da; tıpkı Kamu Konutları Yönetmeliği gibi Rekabet Kurumu Çalışma Usul ve Esasları Hakkında Yönetmelik de Bakanlar Kurulu Kararı ile düzenlenmiştir. Aynı makam tarafından çıkarılan iki farklı Yönetmelik arasındaki hiyerarşinin varlığından söz edilmesi mümkün olmadığından, Rekabet Kurumu Çalışma Usul ve Esasları Hakkında Yönetmelik hükmüne göre işlem yapılmasında mevzuata aykırı bir durum bulunmamaktadır. Ayrıca Bakanlar Kurulunun kararı ile çıkmış bir Yönetmelik hükmünü uygulama konusunda görevlilere de sorumluluk atfedilemeyeceği ortadadır.
+
+Bu itibarla, Rekabet Kurumu Çalışma Usul ve Esasları Hakkında Yönetmelik’in 33’üncü maddesi gereği ........... Kurulu Başkan ve üyelerine özel tahsisli konut tahsis edilmesinde ve bu konutların Kamu Konutları Yönetmeliğinde belirlenen çerçevede elektrik, su, apartman aidatı (ısınma) gibi giderlerinin Kurum tarafından karşılanmasında mevzuata aykırı bir husus bulunmamaktadır.
+
+Mevzuatına uygun olduğu anlaşılan ....... TL ile ilgili olarak ilişilecek husus bulunmadığına,
+
+(Üye ...........’ ün “Diğer düzenleyici ve denetleyici kurumlar gibi .......  Kurumu da Kamu Konutları Kanunu’na ve buna dayanılarak Bakanlar Kurulu Kararı ile çıkan Kamu Konutları Yönetmeliği kapsamına tabi olduğundan makam ve rütbe sahiplerine yapılacak konut tahsisi hususunda söz konusu Yönetmelik hükümleri geçerlidir. Kamu Konutları Yönetmeliğine ekli I sayılı Cetvelde özel tahsisli konut tahsis edilebilecek makam ve rütbe sahipleri arasında Kurul Başkan ve üyeleri yer almamaktadır. Ancak eşyalı görev tahsisli konut tahsis edilebilecek makam ve rütbe sahiplerinin sayıldığı III sayılı cetvelde “Özel kanunlarla veya özel kanunların verdiği yetkiye dayanılarak kurulan bankaların ve kamu kurum ve kuruluşlarının en üst amiri” denildiğinden söz konusu hüküm gereği, sadece Kurul Başkanına eşyalı görev tahsisli konut, Kurul üyelerine ise görev tahsisli konut verilebilecektir.
+
+Bakanlar Kurulu Kararı ile yürürlüğe giren Rekabet Kurumu Çalışma Usul ve Esasları Hakkında Yönetmelik, 4054 sayılı Rekabetin Korunması Hakkındaki Kanun’un 62’nci maddesi gereğince hazırlanmıştır ancak Yönetmeliğin 33’üncü maddesi ile Kanunun açıkça yetki vermediği bir alanda (lojman konusunda) düzenleme yapılmıştır. O halde Yönetmeliğin bu maddesinin yasal dayanaktan yoksun olduğu ve yürürlüğe girdiği andan itibaren geçersiz olduğu söylenebilir.
+
+Bu itibarla, halen yürürlükte olan Kamu Konutları Yönetmeliğinde düzenleme mevcut iken Kurum Çalışma Yönetmeliğinin 33’üncü maddesinin uygulanması, mevzuata aykırı karar ve işlem niteliğinde olduğundan, Kurul üyelerine özel tahsisli konut tahsis edilerek konutlarının ısınma, elektrik, su giderlerinin bütçeden ödenmesi sonucu oluşan ........ TL kamu zararının sorumlularından tazmini kararının verilmesi gerekir.” şeklindeki ayrışık görüşüne karşın)
+
+oy çokluğuyla, karar verildi.
