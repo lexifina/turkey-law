@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "219",
+  "decision_date": "2017-11-30",
+  "source_id": 25870,
+  "chamber": "7",
+  "ilam_number": "77",
+  "item_number": 13,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25870/",
+  "source_sha256": "1d54b048bb4472063b85d512d3169dbcbdcb124278cddd8621e51cc12189f9e4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
