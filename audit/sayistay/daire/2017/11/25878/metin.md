@@ -1,0 +1,27 @@
+Hizmet alımı:
+
+“2016 Yılı 2 Ay Süreli ... Katı Atık Düzenli Depolama Sahası İşletilmesi” işinde;
+
+A-) Asgari ücret destek priminden yararlandığı tespit edilen yüklenicinin hak edişinden bu tutarın kesilmemesi,
+
+B) Yükleniciye hatalı olarak fiyat farkı ödenmesi,
+
+ile ilgili olarak yapılan incelemede;
+
+A) 14.01.2016 tarih ve 6661 sayılı Askerlik Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun’un 17 nci maddesi ile 31.05.2006 tarih ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanuna eklenen geçici 68 inci maddesinde özetle; 2015 yılının aynı ayına ilişkin Kuruma verilen aylık prim ve hizmet belgelerinde prime esas kazancı günlük 85 TL ve altında bildirilen sigortalılar için işverene destek verileceği, 2016 yılı Ocak ila Aralık ayları/dönemleri için işverenlerin Kuruma ödeyecekleri sigorta primlerinden her sigortalı için günlük 3,33 TL mahsup edileceği ve bu tutarın hazinece karşılanacağı; 4734 sayılı kanunun 2 nci maddesinin birinci fıkrasının (a), (b) , (c) ve (d) bentlerinde sayılan idareler tarafından ilgili mevzuatı uyarınca yapılan ve sözleşmesinde fiyat farkı ödeneceği öngörülen hizmet alımlarında; ihale dokümanında personel sayısının belirlendiği ve haftalık çalışma saatinin tamamının idarede kullanılmasının öngörüldüğü işçilikler için birinci fıkra uyarınca hazine tarafından karşılanacak tutarların bu idarelerce işverenlerin hakedişinden kesileceği ifade edilmiştir.
+
+Konu ile ilgili Sosyal Güvenlik Kurumu Başkanlığınca yayımlanan 10/02/2016 tarih ve 2016-4 nolu Genelgenin “İhale Makamlarınca Destekten Yararlanan İşverenlerin Hak edişlerinden Yapılacak Kesintilere İlişkin Usul ve Esaslar” başlıklı 6’ncı maddesinde ise, destekten yararlanan işverenlerin yararlandıkları destek tutarlarının ihale makamlarınca hak edişlerinden kesilebilmesi için, söz konusu destek kapsamında yararlanılan tutar “İdarelerce e-borç sorgulama” ekranından destek tutarının görüntülenmesine kadar ilgili Sosyal Güvenlik Merkezlerince/Sosyal Güvenlik İl Müdürlüklerince talep edilmesi halinde ihale makamlarına yazı ile bildirileceği ve bu yazıya istinaden kesinti yapılacağı belirtilmiştir.
+
+... Sosyal Güvenlik Merkezi’nden alınan yazıda yüklenicinin asgari ücret desteğinden yararlandığı görülmüştür. Ancak yapılan incelemelerde yüklenicinin söz konusu destek tutarından yararlanmış olmasına rağmen ilgili hak edişlerinde kesinti yapılmadığı tespit edilmiştir.
+
+Her ne kadar, Asgari ücret destek priminden yararlandığı tespit edilen yüklenicinin hak edişinden bu tutarın kesilmemesi neticesinde 4.871,79 TL kamu zararına sebebiyet verilmiş ise de, söz konusu kamu zararının 12/05/2017 tarih ve ... yevmiye numaralı muhasebe işlem fişi ile ilgilisinden mahsuben tahsil edildiği anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına,
+
+B) 31.08.2013 tarih ve 28751 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren 2013/5215 sayılı Bakanlar Kurulu Kararı eki 4734 sayılı Kamu İhale Kanununa Göre İhale Edilen Hizmet Alımlarında Uygulanacak Fiyat Farkına İlişkin Esasların “İşçilik maliyetlerindeki değişiklik” başlıklı 6’ncı maddesinde aynen;
+
+“İhale dokümanında personel sayısının belirlendiği ve haftalık çalışma saatinin tamamının idarede kullanılmasının öngörüldüğü işçilikler için, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu uyarınca çalıştırılan işçinin idari şartnameye göre ihale tarihi itibarıyla hesaplanan brüt maliyeti ile uygulama ayındaki brüt maliyeti arasındaki fark, 5 inci madde uygulanmaksızın ödenir veya kesilir.” Denilmektedir.
+
+Yapılan incelemelerde ihale tarihinin 07.01.2016 olduğu, ihale tarihi ile uygulama ayı arasında asgari işçilik ücretinde veya asgari işçiliğe bağlı diğer maliyet bileşenlerinin ücretlerinde her hangi bir değişiklik olmamasına karşın Esaslar’a aykırı olarak asgari ücret fiyat farkı düzenlenerek yükleniciye ödeme yapıldığı tespit edilmiştir.
+
+Her ne kadar, yükleniciye hatalı olarak fiyat farkı ödenmesi neticesinde 38.701, 46 TL kamu zararına sebebiyet verilmiş ise de, söz konusu kamu zararının 12/05/2017 tarih ve ... yevmiye numaralı muhasebe işlem fişi ile ilgilisinden mahsuben tahsil edildiği anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına,
+
+Oy birliğiyle karar verildi.
