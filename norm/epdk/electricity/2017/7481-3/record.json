@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7481-3",
+  "decision_date": "2017-11-30",
+  "title": "Geçici barınma tesislerinin mesken abone grubu tarifeleri üzerinden ücretlendirilmesine ilişkin",
+  "resmi_gazete_date": "2017-12-05",
+  "resmi_gazete_number": "30261",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OuE+w+sm5FM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OuE+w+sm5FM="
+  ],
+  "source_sha256": "7fe8880c503e9d142d43e767623684536dcab23a8b6640d35373f840691d07e7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-11-30",
+  "law_text_complete": true
+}
