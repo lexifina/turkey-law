@@ -1,0 +1,15 @@
+Baro Aidatı
+
+Belediyede görevli avukatların baro üyeliklerinden kaynaklanan ve kendilerine ait olan aidatların belediye bütçesinden ödenmesi neticesinde ……. TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak,
+
+657 sayılı Devlet Memurları Kanununun “Tesis Edilen Sınıflar” başlıklı 36 ncı maddesinin (1) inci fıkrasının (V) bendinde; “Avukatlık Hizmetleri Sınıfı, Özel Kanunlarına göre avukatlık ruhsatına sahip, baroya kayıtlı ve kurumlarını yargı mercilerinde temsil yetkisini haiz olan memurları kapsar” denilmekle birlikte, 1136 sayılı Avukatlık Kanunun “Kamu Kurum ve Kuruluşları ile Kamu İktisadi Teşebbüslerinde Görevli Avukatlar” başlıklı Ek 1 inci maddesinde; “Kamu kurum ve kuruluşları ile kamu iktisadi teşebbüslerinde asli ve sürekli olarak avukatlık görevinde çalışanların baro levhasına yazılmaları isteklerine bağlıdır. Ancak bunlar hakkında bu kanunun avukatlık mesleğine kabul ve ruhsatname verilmesine ilişkin hükümleri aynen uygulanır. Bunlar, görevlerinin gereği olan işleri yaparken baro levhasına kayıtlı avukatların yetkileriyle haklarına sahip ve onların ödevleriyle yükümlüdürler. Baroya kaydını yaptırmayan avukat, çalıştığı yer barosuna bilgi verir.
+
+Yukarıdaki fıkra uyarınca baro levhasına yazılmak istemediklerini bildiren adayların, sadece avukatlık mesleğine kabullerine ve adlarına ruhsatname düzenlenmesine karar verilerek kanunda öngörülen diğer işlemler, aynen yerine getirilir.
+
+Birinci fıkrada sözü edilen görevlerden ayrılma halinde, avukatlık mesleğinin yapılabilmesi, baro levhasına yazılmakla mümkündür” hükümlerine yer verilmiştir.
+
+Yukarıda belirtilen iki mevzuat maddesi incelendiğinde, Kamu kurum ve kuruluşlarında çalışan avukatların genel niteliğini belirten 657 sayılı Devlet Memurları Kanununda, söz konusu avukatların, özel kanunlarına göre avukatlık ruhsatına sahip ve Baroya kayıtlı olma şartı öngörülmüşken, avukatlık mesleğini icra eden tüm avukatların özel durumlarını düzenleyen; aynı zamanda 657 sayılı kanunun 36 ncı maddesinin “özel kanunlarına göre” ifadesiyle işaret ettiği 1136 sayılı Avukatlık Kanununun 08.05.1984 tarihinde yürürlüğe giren Ek 1 inci maddesi ile kamu kurum ve kuruluşlarında asli ve sürekli olarak avukatlık mesleğini icra eden avukatlar için bu şart ortadan kaldırılmıştır.
+
+Söz konusu açıklamalar çerçevesinde, ……. Belediyesinde görevli avukatların, mecbur olmamalarına rağmen Baroya kayıtlı olmalarından dolayı, ödemek zorunda kaldıkları aidatların belediye bütçesinden ödenmesi mümkün değildir.
+
+Bu itibarla, Belediyede görevli avukatların baro üyeliklerinden kaynaklanan ve kendilerine ait olan aidatların belediye bütçesinden ödenmesi neticesinde oluşan ……. TL kamu zararının Harcama Yetkilisi ……. ve Gerçekleştirme Görevlisi …….’a müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizleriyle ödettirilmesine, anılan Kanunun 55 inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle karar verildi.
