@@ -1,0 +1,3 @@
+Sermaye piyasası araçlarının halka arz edilmeksizin satışında halka açık ortaklıklarca uygulanacak esaslar
+MADDE 26 – (1) Halka açık ortaklıkların halka arz edilmeksizin gerçekleştirecekleri sermaye artırımlarında, satış fiyatı Kurulun pay ihracına ilişkin düzenlemeleri çerçevesinde belirlenir.
+(2) Halka açık ortaklıkların pay dışındaki sermaye piyasası araçlarını halka arz edilmeksizin ihraç etmeleri durumunda, ilgili sermaye piyasası aracına ilişkin Kurul düzenlemelerinde aksine bir hüküm yoksa satış fiyatı piyasa koşulları, ortaklığın ve ortakların menfaati ile ortaklığın içinde bulunduğu koşullar dikkate alınarak belirlenir.

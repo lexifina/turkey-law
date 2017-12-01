@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan tebliğ
+MADDE 32 – (1) 3/4/2010 tarihli ve 27541 sayılı Resmî Gazete’de yayımlanan Sermaye Piyasası Araçlarının Halka Arzında Satış Yöntemlerine İlişkin Esaslar Tebliği (Seri: VIII, No: 66) yürürlükten kaldırılmıştır. Kurulun diğer düzenlemelerinde Sermaye Piyasası Araçlarının Halka Arzında Satış Yöntemlerine İlişkin Esaslar Tebliği (Seri: VIII, No: 66)’ne yapılan atıflar bu Tebliğe yapılmış sayılır.

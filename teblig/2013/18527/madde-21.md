@@ -1,0 +1,7 @@
+Fiyat teklifi alma yoluyla talep toplama yönteminde dağıtım ilkeleri
+MADDE 21 – (1) Talep formlarını toplayan yetkili kuruluş, talep toplama süresinin sonunda sermaye piyasası araçlarının yatırımcılar arasında dağıtımını bu maddedeki esaslara göre yapar;
+a) Toplanan teklifler, en yüksek fiyat teklifinden en düşük fiyat teklifine doğru olmak üzere, her fiyat düzeyinde talep edilen miktarlar ile birikimli miktarları gösteren bir tabloya dönüştürülür. Birikimli olarak en çok sermaye piyasası aracının satılabildiği fiyat, satış fiyatı olarak belirlenir.
+b) Sermaye piyasası araçlarının dağıtımında bu fiyatı karşılayan teklifler dikkate alınır. Satış fiyatı olarak belirlenen bu fiyat düzeyinde talep edilen toplam sermaye piyasası aracı miktarının satışa sunulandan fazla olması durumunda, en yüksek fiyatlı talepten başlamak suretiyle dağıtım işlemi yapılır.
+c) Satış fiyatı olarak belirlenen fiyat seviyesinde birden fazla yatırımcının karşılanamayan talebi olması durumunda, bu yatırımcılar arasında dağıtım talep miktarı ile orantılı olarak yapılır.
+ç) Dağıtım sonucunda ortaya çıkan miktarlar, miktar konusunda alt sınır koyan yatırımcılar açısından gözden geçirilir. Ortaya çıkan miktarın bu alt sınırın altına kalması halinde yatırımcı isteğine uygun olarak listeden çıkarılır ve bu miktarlar tekrar talep miktarı ile orantılı olarak dağıtıma tabi tutulur.
+d) Dağıtım hesaplamalarında küsurat ortaya çıkması durumunda küsurat tama iblağ edilerek talebi tamamen karşılanamayan yatırımcılar arasında ihraççı veya halka arz edenin uygun gördüğü şekilde dağıtım yapılır.

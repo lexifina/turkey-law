@@ -1,0 +1,26 @@
+Tanım ve kısaltmalar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Bireysel yatırımcı: Kurumsal yatırımcı tanımı dışında kalan gerçek ve tüzel kişileri,
+b) Borsa: Kanunun 3 üncü maddesinin birinci fıkrasının (ç) bendinde tanımlanan borsayı,
+c) Gelişen işletmeler piyasası (GİP): Borsa mevzuatında tanımlanan piyasayı,
+ç) Halka arz: Sermaye piyasası araçlarının satın alınması için her türlü yoldan yapılan genel bir çağrıyı ve bu çağrı devamında gerçekleştirilen satışı,
+d) Halka arz eden: Sahip olduğu sermaye piyasası araçlarını halka arz etmek üzere Kurula başvuruda bulunan gerçek veya tüzel kişiyi,
+e) ISIN kodu: Sermaye piyasası araçlarına tahsis edilen uluslararası standartlarda tanımlama numarasını,
+f) İhraç: Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp, halka arz edilerek veya halka arz edilmeksizin satışını,
+g) İhraççı: Sermaye piyasası araçlarını ihraç eden, ihraç etmek üzere Kurula başvuruda bulunan veya sermaye piyasası araçları halka arz edilen tüzel kişileri,
+ğ) İhraç belgesi: Kurulun izahname hazırlanmasına ilişkin düzenlemelerinde tanımlanan belgeyi,
+h) İzahname: Kanunun 3 üncü maddesinin birinci fıkrasının (j) bendinde tanımlanan kamuyu aydınlatma belgesini,
+ı) Kanun: 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununu,
+i) Kurul: Sermaye Piyasası Kurulunu,
+j) Kurumsal yatırımcı: Kurulun yatırım kuruluşlarına ilişkin düzenlemelerinde tanımlanan ve talebe dayalı olarak profesyonel kabul edilenler dışındaki profesyonel müşterileri,
+k) MKK: Merkezi Kayıt Kuruluşu Anonim Şirketini,
+l) MKS: Merkezi kaydi sistemi,
+m) Nitelikli yatırımcı: Kurulun yatırım kuruluşlarına ilişkin düzenlemelerinde tanımlanan ve talebe dayalı olarak profesyonel kabul edilenler de dahil profesyonel müşterileri,
+n) Ortaklık: Anonim ortaklığı,
+o) Sermaye piyasası aracı: Menkul kıymetler ve türev araçlar ile yatırım sözleşmeleri de dahil olmak üzere Kurulca bu kapsamda olduğu belirlenen diğer sermaye piyasası araçlarını,
+ö) Tahsisli satış: Sermaye piyasası araçlarının doğrudan yurt dışında ve/veya yurt içinde yerleşik kişilere borsa dışında tahsisli olarak ya da borsada toptan satışını,
+p) Tertip ihraç belgesi: Kurulun izahname hazırlanmasına ilişkin düzenlemelerinde tanımlanan belgeyi,
+r) Yatırımcı grubu: Bu Tebliğde tanımlanmış olan ya da izahnamede nitelikleri açıkça belirtilen, kendilerine belirli miktar ya da oranda sermaye piyasası aracı tahsis edilecek olan grubu,
+s) Yetkili kuruluş: Kurulca sermaye piyasası araçlarının halka arzında satışa aracılık etmek üzere yetkilendirilmiş aracı kurumlar ile yatırım ve kalkınma bankalarını,
+ş) Yurt içi yatırımcı: 31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununa göre Türkiye’de yerleşik sayılan kişileri
+ifade eder.

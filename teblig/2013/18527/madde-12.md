@@ -1,0 +1,2 @@
+İhraç edilen sermaye piyasası araçlarının satış sürelerine ilişkin ortak hükümler
+MADDE 12 – (1) Kurul, makul gerekçelerin var olması ve ihraççı veya halka arz edenin talep etmesi halinde bu Tebliğde öngörülen satış sürelerinin uzatılmasına veya farklı bir satış süresinin belirlenmesine karar verebilir. Bu sürelerin değiştirilmesi talebinin Kurulca olumlu karşılanması durumunda sermaye piyasası araçlarının halka arz edilmesi suretiyle satışında, ihraççı veya halka arz eden satış süresine ilişkin yeni tarihleri derhal özel durum açıklaması yoluyla ilan eder.

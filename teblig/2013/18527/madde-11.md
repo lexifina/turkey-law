@@ -1,0 +1,3 @@
+Halka arz edilmeksizin gerçekleştirilen sermaye piyasası aracı ihraçlarına ilişkin satış süreleri
+MADDE 11 – (1) Halka açık ortaklıkların halka arz edilmeksizin gerçekleştireceği sermaye artırımı nedeniyle ihraç edilen payların satışına, ihraç belgesinin ilan edildiği tarihi takip eden on iş günü içerisinde başlanması ve payların satışının azami on iş günü içinde tamamlanması zorunludur.
+(2) İhraççılar tarafından pay dışındaki sermaye piyasası araçlarının halka arz edilmeksizin satışına, düzenlenen ihraç belgesinin ya da varsa tertip ihraç belgesinin ilan edildiği tarihi takip eden iş gününde başlanabilir.
