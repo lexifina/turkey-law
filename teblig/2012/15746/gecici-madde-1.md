@@ -1,0 +1,4 @@
+Uyum zorunluluğu
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin yayımı tarihinden önce faaliyet gösteren gıda işletmecileri; bu maddenin ikinci fıkrası saklı kalmak kaydıyla, bu Tebliğin yayımı tarihinden itibaren bir ay içerisinde bu Tebliğ hükümlerine uymak zorundadır.
+(2) Bu Tebliğ kapsamında faaliyet gösteren gıda işletmecileri; 5 inci maddenin ikinci ve üçüncü fıkralarında yer alan hükümler ile EK-1’de yer alan tuz [% (m/m) en çok kuru maddede], kül [(tuz hariç) (m/m)(kuru maddede)] ve EK-2’de yer alan genel kurallara, 1/7/2012 tarihine kadar uymak zorundadır.
+(3) Bu Tebliğ kapsamında faaliyet gösteren gıda işletmecileri; birinci ve ikinci fıkra hükümlerini karşılayana kadar, 15/2/2002 tarihli ve 24672 sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Ekmek ve Ekmek Çeşitleri Tebliği hükümlerine uymak zorundadır.
