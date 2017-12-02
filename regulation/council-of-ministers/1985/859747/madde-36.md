@@ -1,0 +1,4 @@
+Evlenme Kütüklerinin Tasdiki ve Arşivlenmesi
+Madde 36 – Evlenme kütüklerinin sahife birleşimleri nüfus idarelerine ait mühürle mühürlenip, sonuna kaç sahifeden ibaret olduğu yazılıp tasdik edildikten ve cilt numarası verildikten sonra kullanılır.
+(Değişik birinci cümle: 28/11/2017-2017/11079 K.) Köy, belediye, ilçe müftülükleri veya ilçe evlendirme memurlarına ait kütük defterleri ilçe nüfus müdürlüğü tarafından, il müftülükleri ile il merkez belediye evlendirme memurluklarına ait kütük defterleri de il nüfus ve vatandaşlık müdürlüğü tarafından tasdik edilir. Evlendirme nüfus memurluğunca yapıldığı takdirde defterlerin tasdiki mülki idare amirlerine aittir.
+Köylerde dolan ciltler nüfus idarelerine zimmetle teslim edilir ve bu idarelerce arşivlenir. (Değişik ikinci cümle: 28/11/2017-2017/11079 K.) İl ve ilçe müftülükleri ile belediyeler ise kendilerine ait evlenme kütük defterlerini kendi arşivlerinde saklarlar.

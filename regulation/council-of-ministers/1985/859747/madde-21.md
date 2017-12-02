@@ -1,0 +1,4 @@
+Müracaat Sırasında Yapılacak İşlemler ve İnceleme
+Madde 21 – (Değişik: 29/12/2014-2014/7126 K.)
+Evlendirme memuru, evlenme talebine dair beyannamenin usulüne göre doldurulup imza edilip edilmediğini, evlenme ehliyet belgesi ile nüfus cüzdanı arasında bir fark olup olmadığını, bir fark varsa bu farklılığın şahısta hataya sebebiyet verecek nitelikte olup olmadığını, yaşlarının küçüklüğü veya kısıtlama sebebiyle ana, baba veya vasinin rızası ya da hakimin izninin zorunlu olduğu durumlarda rızanın veya hakim izninin, rıza belgesi vasi tarafından imzalanmışsa vasi tayinine dair mahkeme kararının bulunup bulunmadığını kontrol eder, varsa eksiklikleri tamamlar veya tamamlatır ve beyannamenin kaydını yaparak taraflara müracaat sırasına göre evlenmenin yapılacağı gün ve saati bildirir.
+Evlenmenin yapılabilmesi için evlenme kararının ilanına lüzum yoktur.

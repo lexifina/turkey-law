@@ -1,0 +1,1 @@
+Geçici Madde 1 – 1/9/1979 tarihinden 239 Sayılı Kanun Hükmünde Kararnamenin yürürlük tarihine kadar belediye başkanları veya görevlendirdikleri evlendirme memurları ile köy muhtarları tarafından yapılmış olan evlenmelere yetki bakımından itiraz edilemez ve bu evlenmeler bu sebeple iptal edilemez.

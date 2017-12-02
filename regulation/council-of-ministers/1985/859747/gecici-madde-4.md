@@ -1,0 +1,1 @@
+Geçici Madde 4 – Bu Yönetmelikte öngörülen ve evlendirme memurluklarınca düzenlenecek olan imza ve mühür örnekleri Yönetmeliğin yayımı tarihinden itibaren 2 ay içerisinde nüfus idarelerine gönderilir.

@@ -1,0 +1,26 @@
+{
+  "checked_on": "2026-11-14",
+  "first_law": null,
+  "gazette": "18921",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2017-12-02",
+  "in_force_basis": "source amendment commencement table: 28/11/2017 | 2017/11079 | 7, 8, 9, 13, 20, 34, 36, 49, 53, 56 | 2/12/2017",
+  "issuer": "Council of Ministers",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "listing_gazette": "18921",
+  "listing_published": "1985-11-07",
+  "published": "1985-11-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=3&MevzuatNo=859747&MevzuatTertip=5",
+  "source_bytes": 180331,
+  "source_id": "3.5.859747",
+  "source_sha256": "06da8347f94f55fc68f72942e23b35676314d0ddbf91be45b1181a14851dda90",
+  "title": "EVLENDİRME YÖNETMELİĞİ",
+  "word_count": 6285
+}

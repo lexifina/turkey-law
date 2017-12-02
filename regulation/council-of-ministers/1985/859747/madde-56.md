@@ -1,0 +1,2 @@
+Ceza Hükümleri
+Madde 56 – (Değişik birinci fıkra: 28/11/2017-2017/11079 K.) Evli olmasına rağmen, başkasıyla evlenme işlemi yaptıran, kendisi evli olmamakla birlikte evli olduğunu bildiği bir kimse ile evlilik işlemi yaptıran, gerçek kimliğini saklamak suretiyle bir başkasıyla evlenme işlemi yaptıran kimseler hakkında 5237 sayılı Türk Ceza Kanununun 230 uncu maddesi uyarınca işlem yapılmak üzere durum belgelerle birlikte Cumhuriyet savcılığına intikal ettirilir.

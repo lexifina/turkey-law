@@ -1,0 +1,2 @@
+Hizmetiçi Eğitim
+Madde 44 – Evlendirme memurları ihtiyaca göre vali ve kaymakamlarca yapılacak programa uygun olarak eğitime tabi tutulurlar. Bu eğitime katılacakların kanuni yollukları ilgili kuruluşların bütçesinden karşılanır. Meslek içi eğitimlerde Türk Medeni Kanunu, nüfus ve vatandaşlık mevzuatı, Umumi Hıfzıssıhha Kanunu, Türk Ceza Kanunu ve uluslararası sözleşmelerin evlenmeler ile ilgili hükümleri öğretilir.

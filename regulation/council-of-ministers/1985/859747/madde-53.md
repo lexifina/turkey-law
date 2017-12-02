@@ -1,0 +1,3 @@
+Denetim
+Madde 53 – (Değişik birinci fıkra: 28/11/2017-2017/11079 K.) Bakanlıkça görevlendirilecek yetkililer ve mülkiye müfettişleri bütün evlendirme daire ve memurlarını; valiler, kaymakamlar, il ve ilçe nüfus müdürleri, belediye başkanları ile il ve ilçe müftüleri ilgili evlendirme daire ve memurlarını denetlemeye yetkilidirler.
+(Değişik ikinci fıkra: 28/7/2003-2003/5996 K.) Denetim, yetkili olanlarca her zaman yapılabilir. Ancak her evlendirme memurluğunun üç yılda bir denetlenmesi gereklidir. Denetim sırasında tespit edilen tenkit ve tavsiyeyi gerektiren hususlar bir rapora bağlanarak örnekleri ilgili memura, il nüfus ve vatandaşlık müdürlükleri ile ilçe nüfus müdürlüklerine gönderilir.

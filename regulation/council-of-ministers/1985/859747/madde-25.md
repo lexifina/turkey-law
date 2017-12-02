@@ -1,0 +1,3 @@
+Cumhuriyet Savcılığının İtiraz Yetkisi
+Madde 25 – Cumhuriyet savcıları mutlak butlan sebeplerinden birinin var olması sebebiyle evlenme yapılıncaya kadar evlenmeye itiraz edebilirler.[16]
+Evlenme manilerinin bulunduğu yolunda cumhuriyet savcılığına yapılan ihbar Cumhuriyet Savcılığı tarafından ciddi bulunduğu takdirde evlendirme memurluğuna bildirilir. Evlendirme memuru 24 üncü maddede belirtilen usul ve esaslara göre itirazı inceler, itirazı yerinde görmemesi halinde Cumhuriyet Savcılığına bilgi vererek evlenme işlemi yürütülür. Cumhuriyet savcılığınca 10 gün içinde evlenmenin men'i davasının açıldığının bildirilmemesi halinde evlenme yapılır ve sonuç gerekçeli olarak cumhuriyet savcılığına bildirilir.16

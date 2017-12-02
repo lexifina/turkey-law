@@ -1,0 +1,2 @@
+Geçici Madde 2 – 5/7/1984 tarihli ve 239 sayılı Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihten itibaren İçişleri Bakanlığınca kendilerine evlendirme yetkisi verilmiş sayılan belediye başkanları ve köy muhtarları, bu Yönetmelik hükümlerine göre yeni bir yetki düzenlemesi yapılıncaya kadar Yönetmeliğin yürürlüğe girdiği tarihten itibaren de yetkilerini kullanmaya devam ederler.
+Ancak, evlendirme işlerini bu Yönetmelik esaslarına göre yürütürler.

@@ -1,0 +1,6 @@
+Yabancı Yetkili Makam Önünde Evlenme
+Madde 11 – Yurtdışında Türk vatandaşı kadın ve erkek veya bir Türk vatandaşı ile bir yabancı, bulundukları ülkenin evlendirmeye yetkili makamları huzurunda evlenebilirler. Böyle bir evlenme, Türk mevzuatına aykırı olmaması şartıyla Türkiye'de de geçerlidir.
+(Değişik ikinci fıkra: 16/11/2006-2006/11269 K.) Evlendirme bildiriminin, eşlerin ikisi de Türk vatandaşı ise erkek tarafından, eşlerden sadece birisi Türk vatandaşı ise Türk vatandaşı olan eş tarafından, yabancı yetkili makamdan alınacak belgenin evlendirme tarihinden itibaren en geç otuz gün içerisinde en yakın konsolosluğumuza verilmesi veya gönderilmesi suretiyle yapılması zorunludur.
+Eğer evlenmenin yapıldığı yerde ve yakınında Türk Konsolosluğu yoksa, bu takdirde bildirim, yabancı yetkili makamdan alınan resmi belgenin yurtiçinde Türkçe'ye çevrilip Dışişleri Bakanlığı'nca onandıktan sonra Genel Müdürlüğe veya ilgili nüfus idaresine verilmesi suretiyle yapılır.
+Yabancı yetkili makamlardan alınan belge, Devletimizin de taraf olduğu uluslararası bir sözleşme uyarınca düzenlenmiş çok dilli bir belge ise başkaca bir işleme tabi olmaksızın gereği yapılır.
+Yabancı belgelerin onaydan muaf tutulmasına dair taraf olduğumuz uluslararası sözleşme hükümleri saklıdır.
