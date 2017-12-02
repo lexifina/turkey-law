@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.24126",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KABLOLU TAŞIMA TESİSATI YÖNETMELİĞİ(2016/424/AB)",
+  "number": "24126",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2017/24126",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24126&MevzuatTertip=5",
+  "source_sha256": "bee69c83236e5387e541905b3cbf20b574c12108f6e1f52cfc455f1a66190a14",
+  "source_bytes": 115012,
+  "published": "2017-12-02",
+  "gazette": "30258",
+  "in_force": "2017-12-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.12.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6997,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24126-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
