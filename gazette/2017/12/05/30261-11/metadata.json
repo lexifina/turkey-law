@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-12-05",
+  "issue": "30261",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KARAR",
+  "title": "DÜZELTME: 22/9/2017 tarihli ve 2017/10866 sayılı Bakanlar Kurulu Kararı ile İlgili",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171205-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171205.htm",
+  "index_sha256": "e6247e2e54ae712c9796daa923de26458853dda838d71051cab82eff7593071b",
+  "index_header": "5 Aralık 2017 ... 30261 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171205.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
