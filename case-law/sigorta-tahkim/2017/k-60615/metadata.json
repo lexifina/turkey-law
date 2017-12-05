@@ -1,0 +1,15 @@
+{
+  "number": "K-2017/60615",
+  "award_date": "2017-12-05",
+  "heading_as_published": "05.12.2017 Tarih ve K-2017/60615 Sayılı Hakem Kararı",
+  "issue": "Hakem Karar Dergisi 32 Ekim - Aralık 2017",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs32.pdf",
+  "source_sha256": "def4941771b089014b2944b70065265379734cbfcfdd4fad78c6dce034099a64",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "award heading not found in the second text extraction",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
