@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35502",
+  "decision_date": "2017-12-05",
+  "source_id": 25323,
+  "chamber": "2",
+  "ilam_number": "364",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25323/",
+  "source_sha256": "4d80d8cdcd15503cb1c21316f2a16fdf8ddf89eb07bc937015b11dddebad4df6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
