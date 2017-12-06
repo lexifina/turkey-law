@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43832",
+  "decision_date": "2017-12-06",
+  "source_id": 15090,
+  "chamber": "6",
+  "file_number": "40800",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2011",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15090/",
+  "source_sha256": "5431ce83011c90cc2330805b16b77b88a9200ed30f0995cf48d2eb3d40eeb202",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
