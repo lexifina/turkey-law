@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24145",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE DENETİM STANDARTLARI TEBLİĞİ NO: 55 (BAĞIMSIZ DENETÇİNİN GENEL AMAÇLARI VE BAĞIMSIZ DENETİMİN BAĞIMSIZ DENETİM STANDARTLARINA UYGUN OLARAK YÜRÜTÜLMESİ HAKKINDA BAĞIMSIZ DENETİM STANDARDI 200)",
+  "number": "24145",
+  "issuer": "Başkan",
+  "path": "teblig/2017/24145",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24145&MevzuatTertip=5",
+  "source_sha256": "b69745d1bd4dd6b92f5f14fa6d32bf27c9750ce10b04c6d8b0da25d084fe17a5",
+  "source_bytes": 12016,
+  "published": "2017-12-07",
+  "gazette": "30263",
+  "in_force": "2017-12-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.12.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 210,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24145-Ek.DOCX"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
