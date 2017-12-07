@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7501-12",
+  "decision_date": "2017-12-07",
+  "title": "Elektrik Dağıtım şirketlerinin 2018-2020 yılları gelir gereksinimi hesaplarında dikkate alınacak Reel Makul Getiri Oranına ilişkin",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NRK5d+m16ik=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NRK5d+m16ik="
+  ],
+  "source_sha256": "fd1545071d242276e6223973ed38cd13149f9862309ea9b5876c7dacfa99c95d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2017-12-07",
+  "law_text_complete": false
+}
