@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "280",
+  "decision_date": "2017-12-07",
+  "source_id": 25761,
+  "chamber": "5",
+  "ilam_number": "54",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25761/",
+  "source_sha256": "aac26bbd945dac65a3889574e4df2d6129f167c5faece47a6fa26269e84f43d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
