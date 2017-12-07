@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "283",
+  "decision_date": "2017-12-07",
+  "source_id": 25500,
+  "chamber": "5",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25500/",
+  "source_sha256": "4a5e4dea7a6c5b443a3d5b89727c2579cfc4f861e43134a86a4c0e05902a5921",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
