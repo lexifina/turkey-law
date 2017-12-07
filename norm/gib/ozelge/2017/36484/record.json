@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.05.10.00-170[4-2017/1]-25",
+  "source_id": 36484,
+  "date": "2017-12-07",
+  "title": "Sol koksartroz ( posstravmatik) kalça flexionu kısıtlı ve %59 oranındaki engellinin otamatik vitesli kamyonetin MTV istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36484",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "66e8cafe60add7d4f45095018b5b9979e58f5356a410b3cd5b9894b2fa0c6e0a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
