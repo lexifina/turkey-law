@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24147",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE DENETİM STANDARTLARI TEBLİĞİ NO: 57 (BAĞIMSIZ DENETİMİN BELGELENDİRİLMESİ HAKKINDA BAĞIMSIZ DENETİM STANDARDI 230)",
+  "number": "24147",
+  "issuer": "Başkan",
+  "path": "teblig/2017/24147",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24147&MevzuatTertip=5",
+  "source_sha256": "f0c97309d1cc49053c48973a575df7b11e41fea1f6892865a8559693b12efc57",
+  "source_bytes": 13426,
+  "published": "2017-12-07",
+  "gazette": "30263",
+  "in_force": "2017-12-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.12.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 237,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24147-Ek.DOC"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
