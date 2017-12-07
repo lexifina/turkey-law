@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "122",
+  "decision_date": "2017-12-07",
+  "source_id": 25653,
+  "chamber": "8",
+  "ilam_number": "44",
+  "item_number": 6,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25653/",
+  "source_sha256": "dcdf542d088b4c4b2c88709f6599e8026318d3781a6c7ffdbf5b8757e85791c3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
