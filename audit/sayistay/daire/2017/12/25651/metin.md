@@ -1,0 +1,7 @@
+Hatalı Harcırah Ödemesi:
+
+… Kurumu tarafından geçici görevli olarak şehir dışında görevlendirilen bazı personele ait harcırah beyannamelerine ekli otel faturaları incelendiğinde; % 8 KDV oranına tabi geceleme ücreti dışında, % 18 KDV oranına tabi bazı ücretlerin de fatura bedeline dahil olduğu ve Kurum bütçesinden ödendiği görülmüştür.
+
+6245 sayılı Harcırah Kanunu’nun “Harcırahın unsurları” başlıklı 5’inci maddesinde; Harcırahın, yol masrafı, yevmiye, aile masrafı ve yer değiştirme masrafını ihtiva ettiği, belirtilmektedir. Harcırah kapsamında mevzuatta sayılan bu giderlerin dışında herhangi bir bedelin ödenmesi mümkün değildir. Ayrıca Bakanlar Kurulunun mal ve hizmetlere uygulanacak katma değer vergisi oranlarının tespitine ilişkin 2007/13033 sayılı Kararında; otel, motel, pansiyon, tatil köyü ve benzeri konaklama tesislerinde sunulan geceleme hizmetinin, % 8 KDV oranına tabi olduğu belirtilmektedir. O halde otel faturalarında; % 18 KDV oranına tabi şekilde ayrıca gösterilen birtakım mal ve hizmet bedellerinin, geceleme ücreti olmadığı anlaşılmıştır ve bu ücretlerin harcırah beyannamesine dahil edilip bütçeden ödenmesi mümkün değildir.
+
+Ancak gönderilen savunmalardan; … TL tutarındaki kamu zararının, … tarihli ve …, …, …, …, …, …, …, …, …, …, … yevmiye no.lu muhasebe işlem fişleri ile ahizlerinden tahsil edilmiş olduğu görüldüğünden, ilişilecek husus kalmadığına, tahsilatın ilamda gösterilmesine, oy birliğiyle, karar verildi.
