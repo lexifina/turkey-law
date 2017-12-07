@@ -1,0 +1,22 @@
+{
+  "number": "207",
+  "number_as_published": "2017/207",
+  "year": 2017,
+  "title": "council decision",
+  "decision_date": "2017-12-07",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2017-aralik-ayi-meclis-kararlari/1417",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-207/1424",
+  "source_sha256": "10101b32a86975feb405f122f00d30911cd24f25f5875326fc6cd7b8b34b4ca9",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2017-12-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.12.2017 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "d7cfcb7bfa672ae1d8d91d5947a068e589e024edffc229d4ac2321792bb5c4d1"
+}
