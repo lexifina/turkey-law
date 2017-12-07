@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7503",
+  "decision_date": "2017-12-07",
+  "title": "2018 gaz yılına mahsus olmak üzere gaz yılı öncesinde iletim şebekesine giriş için kapasite ve atıl kapasite rezervasyon talebinde bulunacaklar için başvuru sürecinin değiştirilmesine ilişkin karar",
+  "resmi_gazete_date": "2017-12-09",
+  "resmi_gazete_number": "30265",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EQ38EdKAmSw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EQ38EdKAmSw="
+  ],
+  "source_sha256": "2800d47b6534c3826a2b7b34219b152947b9cdfa42278c4cf42bf50bb5918e1e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2017-12-07",
+  "law_text_complete": false
+}
