@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "122",
+  "decision_date": "2017-12-07",
+  "source_id": 25648,
+  "chamber": "8",
+  "ilam_number": "44",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2016,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25648/",
+  "source_sha256": "829e41ca6969cc969cc922e5c59a15bfaf47fbfe7ad3daf9e7ec6b1d2c825cb2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
