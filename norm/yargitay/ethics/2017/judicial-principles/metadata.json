@@ -1,0 +1,27 @@
+{
+  "title": "Yargıtay Yargı Etiği İlkeleri",
+  "issuer": "Yargıtay",
+  "kind": "as-enacted",
+  "in_force": "2017-12-08",
+  "in_force_basis": "Official adoption statement, PDF p. 7: 08 Aralık 2017 tarihinde oybirliği ile kabul edilmiştir.",
+  "source": "https://www.yargitay.gov.tr/documents/ek1-1615982882.pdf",
+  "source_sha256": "cf34154a6bc63b9f784b80b6c2353dac61218e5078dce9b439c5b7dc1a61eba5",
+  "source_pdf_pages": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "status": "as-enacted",
+  "first_law": null,
+  "version_note": "Adopted 2017 text; no later amendment or consolidation identified in the official ethics listing."
+}
