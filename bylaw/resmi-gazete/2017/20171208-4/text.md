@@ -1,0 +1,196 @@
+8 Aralık 2017 CUMA
+Resmî Gazete
+Sayı : 30264
+TEBLİĞ
+Ekonomi Bakanlığından:
+İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN
+TEBLİĞ
+(TEBLİĞ NO: 2017/28)
+Amaç ve
+kapsam
+MADDE 1 –
+(1) Bu Tebliğin amacı, Ekonomi
+Bakanlığı tarafından başlatılan re’sen inceleme
+neticesinde, İran İslam Cumhuriyeti menşeli “granit” ithalatına ilişkin
+olarak önlemlerin etkisiz kılınmasına karşı soruşturma açılması ve açılan
+soruşturmanın usul ve esaslarının belirlenmesidir.
+Dayanak
+MADDE 2 –
+(1) Bu Tebliğ, 14/6/1989
+tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun,
+20/10/1999 tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe
+konulan İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999
+tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin
+Önlenmesi Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 –
+(1) Bu Tebliğde geçen;
+a) Bakanlık: Ekonomi Bakanlığını,
+b) Genel Müdürlük: Bakanlık İthalat Genel
+Müdürlüğünü,
+c) G.T.P: Gümrük tarife
+pozisyonunu,
+ç) Kanun: 3577 sayılı İthalatta Haksız Rekabetin
+Önlenmesi Hakkında Kanunu,
+d) Karar: 20/10/1999
+tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan
+İthalatta Haksız Rekabetin Önlenmesi Hakkında Kararı,
+e) Yönetmelik: İthalatta Haksız Rekabetin Önlenmesi
+Hakkında Yönetmeliği,
+f) İran: İran İslam Cumhuriyeti’ni,
+g) ÇHC: Çin Halk Cumhuriyeti’ni,
+ifade eder.
+Soruşturma
+konusu eşya
+MADDE 4 –
+(1) Soruşturma konusu eşya,
+İthalatta Haksız Rekabetin Önlenmesine İlişkin 2012/14 ve 2016/4 sayılı
+Tebliğler ile halihazırda ithalatında dampinge karşı önlem uygulanan
+6802.23 ve 6802.93 G.T.P.sinde tanımlı
+“granit”lerdir.
+(2) Bu aşamada belirtilen gümrük tarife
+pozisyonları bilgi amaçlı verilmiş olup, bağlayıcı nitelikte değildir.
+Başvuru
+ve mevcut durum
+MADDE 5 – (1) 14/9/2006 tarihli ve 26289 sayılı Resmî
+Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ
+(Tebliğ No: 2006/25) ile ÇHC menşeli 6802.23 ve 6802.93 G.T.P.’sinde
+tanımlı granitlerin ithalatında dampinge karşı 90 ABD Doları/Ton
+seviyesinde kesin önlem yürürlüğe konulmuştur. 10/7/2012
+tarihli ve 28349 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız
+Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2012/14) ile tamamlanan
+nihai gözden geçirme soruşturması kapsamında anılan önlemlerin söz konusu
+eşya ithalatında 174 ABD Doları/Ton tutarında uygulanmasına karar
+verilmiştir. Öte yandan, 17/2/2016 tarihli ve
+29627 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin
+Önlenmesine İlişkin Tebliğ (Tebliğ No: 2016/4) ile de; bahse konu önlem,
+Vietnam menşeli/çıkışlı eşyaya, anılan ülkede mukim iki firma için 0 olarak
+uygulanmak kaydıyla, teşmil edilmiştir.
+(2) Bakanlığa iletilen, önlem konusu ülkeler
+menşeli granitlerin ithalatında uygulanan dampinge
+karşı önlemin İran üzerinden yapılan ithalat ile etkisiz kılındığına
+yönelik iddialar üzerine Bakanlık tarafından re’sen
+bir inceleme başlatılmıştır.
+(3) Mezkur önlemlerin
+etkisiz kılındığına ilişkin iddia ve bulgular Kanun, Karar ve Yönetmelik
+hükümleri çerçevesinde değerlendirilmiştir.
+Önlemlerin
+etkisiz kılınmasına ilişkin bulgular
+MADDE 6 – (1) Soruşturma konusu eşyanın ÇHC menşeli
+olanlarının ithalatında dampinge karşı önlem 2006
+yılında uygulanmaya başlanmış olup, 2012 yılında söz konusu önlemin farklı
+oranlarda devamına karar verilmiştir. Öte yandan, 2012 yılında ÇHC menşeli
+granit ithalatına yönelik uygulamaya konulan önlem, 2016 yılında söz konusu
+eşyanın Vietnam menşeli/çıkışlı olanlarının ithalatına teşmil edilmiştir.
+Granit ithalatına yönelik istatistiklerin incelenmesi neticesinde, İran’dan
+yapılan ithalatın 2010 yılından itibaren dikkat çekici ölçüde artış
+gösterdiği görülmektedir. Bu kapsamda, İran menşeli granitlerin ithalatı
+miktar bazında 2010 yılı itibariyle 636 Ton seviyesinden 2016 yılında
+18.340 Ton seviyesine yükselerek %2.783,6 oranında artış göstermiştir.
+(2) 2010 yılında İran menşeli ithalatın toplam
+granit ithalatımız içindeki payı miktar bazında %0,24 iken 2016 yılı için
+söz konusu pay %5,99’a, 2017 yılının ilk dokuz ayı itibariyle ise %10,7’e yükselmiştir.
+(3) 2010 ile 2016 yılları arasında, İran menşeli
+ithalatta birim fiyatların önemli ölçüde gerilediği görülmektedir. Bu çerçevede,
+2010-2016 yılları arasında söz konusu eşyanın ithal birim fiyatları ton
+başına 520 ABD Dolarından 290 ABD Dolarına gerilemiştir.
+(4) Diğer taraftan, söz konusu ülkeden yapılan
+önlem konusu eşya ithalatına yönelik olarak ülkemize ihracat yapan firmalar
+tespit edilmiş olup, inceleme konusu ülkede mukim Ticaret Müşavirliği’ne
+ihracatçı firmaların listesi iletilerek anılan firmaların ticari
+faaliyetlerine ve üretici olup olmadıklarına ilişkin bilgi talep
+edilmiştir. Bu kapsamda, önlem konusu eşyayı üretmeyip, söz konusu eşyanın
+yalnızca ticareti ile iştigal eden firmalar aracılığıyla, söz konusu
+önlemin İran üzerinden etkisiz kılındığına ilişkin şüphe hasıl
+olmuştur.
+Karar ve
+işlemler
+MADDE 7 –
+(1) Anılan başvuru sonrası yapılan
+incelemeler sonucunda İran menşeli/çıkışlı söz konusu eşya için İthalatta
+Haksız Rekabeti Değerlendirme Kurulu’nca, Yönetmeliğin 38 inci maddesi
+çerçevesinde önlemlerin etkisiz kılınmasına karşı soruşturma açılmasına
+karar verilmiştir.
+(2) Soruşturma, Genel Müdürlük tarafından
+yürütülecektir.
+Soruşturma
+dönemi
+MADDE 8 – (1) 1/1/2015 ile
+1/11/2017 tarihleri arası soruşturma dönemi olarak belirlenmiştir.
+Soru
+formları ve bilgilerin toplanması
+MADDE 9 – (1) Soruşturma için gerekli bilgilerin temini
+amacıyla, söz konusu eşyanın bilinen ithalatçılarına ve soruşturma
+kapsamına giren bilinen yabancı üretici/ihracatçılarına soruşturmanın
+açılışına ilişkin bildirim ve anılan bildirim ekinde yer alan soru formu
+gönderilecektir. Bildirimi almayan tarafların soru formunu Bakanlık
+internet sayfasındaki ilgili bölümden indirmeleri mümkün bulunmaktadır.
+(2) Öte yandan, ilgili üretici ve ihracatçılara
+iletilmesini kolaylaştırmak ve çabuklaştırmak amacıyla, İran’ın Ankara
+Büyükelçiliği’ne de soru formu gönderilecektir.
+(3) Soruşturmaya ilişkin yazılı ve sözlü iletişim
+Türkçe yapılacaktır. İlgili tarafların soru formuna ilişkin yanıtlarını ve
+bu yanıtlar dışında kalan tüm bilgi, belge, görüş ve taleplerini yazılı
+olarak Türkçe sunmaları gerekmektedir.
+Süreler
+MADDE 10
+– (1) Soru formunu cevaplandırma
+süresi, soruşturma açılmasına dair bildirimin gönderildiği tarihten
+itibaren posta süresi dahil 37 gündür. 9 uncu
+maddede belirtilen, bildirimin ve soru formlarının gönderilmediği ilgili
+taraflar ise, bu Tebliğin yayımı tarihinden itibaren işleyecek 37 günlük
+süre ile bağlıdırlar.
+(2) Soru formunda istenilen bilgilerin haricinde,
+soruşturmayla ilgili olduğu düşünülen diğer bilgi, belge ve görüşlerin
+dikkate alınabilmesi için, söz konusu bilgi, belge ve görüşlerin, bu
+Tebliğin yayımı tarihinden itibaren en geç 37 gün içinde Genel Müdürlüğe
+yazılı olarak ulaştırılması gerekir.
+(3) Soruşturmanın sonucundan etkilenebileceklerini
+iddia eden diğer ilgili tarafların da (yerli üreticiler, ithalatçılar,
+ilgili meslek kuruluşları, tüketici dernekleri, üretim dalındaki işçi veya
+işveren sendikaları ve benzeri) görüşleri ile konuya ilişkin her türlü
+bilgi ve belgeyi bu Tebliğin yayımı tarihinden itibaren 37 gün içinde
+yazılı olarak Genel Müdürlüğe bildirmeleri gerekir.
+İşbirliğine
+gelinmemesi
+MADDE 11
+– (1) Yönetmeliğin 26 ncı maddesinde belirtildiği üzere, taraflardan birinin
+belirtilen süreler içinde gerekli bilgiyi sağlayamaması veya yanlış bilgi
+vermesi ya da bilgi vermeyi reddetmesi veya soruşturmayı engellediğinin
+anlaşılması halinde soruşturmaya ilişkin karar, olumlu veya olumsuz, mevcut
+verilere göre alınacaktır.
+Geçici
+önlem alınması, vergilerin geriye dönük uygulanması
+MADDE 12
+– (1) Karar’ın ilgili maddeleri
+uyarınca, soruşturma süresince geçici önlem uygulanması kararlaştırılabilir
+ve kesin önlem geriye dönük olarak uygulanabilir.
+(2) Önlemlerin uygulanmasında başlamış işlem
+kavramı ve istisnası bulunmamaktadır.
+Yetkili
+merci ve adresi
+MADDE 13 – (1) Soruşturmayla ilgili bilgi ve belgeler ile
+görüşlerin aşağıda belirtilen yetkili merciye
+iletilmesi gerekir:
+Ekonomi Bakanlığı
+İthalat Genel Müdürlüğü
+İthalat Politikalarını İzleme ve Değerlendirme
+Dairesi
+Söğütözü Mah. 2176. Sk. No:63
+06530 Çankaya/ANKARA
+Tel: +90 (312) 204 99 53
+Faks: +90 (312) 204 86 33
+e-posta: oek836@ekonomi.gov.tr
+Soruşturmanın
+başlangıç tarihi
+MADDE 14 –
+(1) Soruşturma, bu Tebliğin yayımı
+tarihinde başlamış kabul edilir.
+Yürürlük
+MADDE 15
+– (1) Bu Tebliğ yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 16 –
+(1) Bu Tebliğ hükümlerini Ekonomi
+Bakanı yürütür.
