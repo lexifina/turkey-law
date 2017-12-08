@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.01-130[17-2017/276]-158532",
+  "source_id": 31567,
+  "date": "2017-12-08",
+  "title": "Finansal kiralama şirketine geri almak kaydıyla satılıp geriye kiralanan gayrimenkuller için KDV iadesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31567",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "ef6701f3dd725d036043378719ecdbf75f3a170531de5fea6d6d37f08569bda2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
