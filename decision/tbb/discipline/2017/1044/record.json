@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1044",
+  "date": "2017-12-08",
+  "title": "T. 8.12.2017 E. 2017/562 K. 2017/1043",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1044",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=2&yil=2017",
+  "listing_sha256": "5f4379264a8f8904ff6d9f593da8a4e20669f0e92a31cb8529cdf0af7643d5bc",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
