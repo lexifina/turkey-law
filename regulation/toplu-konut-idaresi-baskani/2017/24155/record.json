@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.24155",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TOPLU KONUT İDARESİ BAŞKANLIĞI PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "24155",
+  "issuer": "Toplu Konut İdaresi Başkanı",
+  "issuer_slug": "toplu-konut-idaresi-baskani",
+  "path": "regulation/toplu-konut-idaresi-baskani/2017/24155",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24155&MevzuatTertip=5",
+  "source_sha256": "f40095b15268c6633aa652db8d839e056a78c6e1c183565187f0e0ab0ad97cf4",
+  "source_bytes": 49876,
+  "published": "2017-12-09",
+  "gazette": "30265",
+  "in_force": "2017-12-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.12.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2387,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
