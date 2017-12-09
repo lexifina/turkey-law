@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24154",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DIŞ TEMSİLCİLİKLERİN KORUNMASINDA GEÇİCİ SÜRELİ GÖREVLENDİRİLECEK JANDARMA GENEL KOMUTANLIĞI PERSONELİ HAKKINDA YÖNETMELİK",
+  "number": "24154",
+  "issuer": "İçişleri ve Dışişleri Bakanları",
+  "issuer_slug": "icisleri-ve-disisleri-bakanlari",
+  "path": "regulation/icisleri-ve-disisleri-bakanlari/2017/24154",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24154&MevzuatTertip=5",
+  "source_sha256": "c2ec96273cf1ac6394c1226c9400167ded249eb7f9664397b82e14522310f28c",
+  "source_bytes": 63938,
+  "published": "2017-12-09",
+  "gazette": "30265",
+  "in_force": "2017-12-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.12.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3231,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24154-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
