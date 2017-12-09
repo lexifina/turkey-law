@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24156",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GEZİ TEKNELERİ VE KİŞİSEL DENİZ TAŞITLARI YÖNETMELİĞİ KAPSAMINDA FAALİYET GÖSTERECEK ONAYLANMIŞ KURULUŞLARIN GÖREVLENDİRİLMELERİNDE VE DENETİMİNDE ESAS ALINACAK TEMEL KRİTERLERE DAİR TEBLİĞ",
+  "number": "24156",
+  "issuer": "Ulaştırma, Denizcilik ve Haberleşme Bakanı",
+  "path": "teblig/2017/24156",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24156&MevzuatTertip=5",
+  "source_sha256": "932aef46008897d95eabbe2804e5523380e1f8fb5bbe3f15aad1f5ca236334e1",
+  "source_bytes": 54413,
+  "published": "2017-12-09",
+  "gazette": "30265",
+  "in_force": "2017-12-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.12.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3067,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24156-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
