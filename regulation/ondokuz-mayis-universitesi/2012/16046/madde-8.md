@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) (Değişik:RG-11/12/2017-30267) Müdür, Üniversitede tam gün çalışan öğretim üyeleri arasından Rektör tarafından üç yıl süreyle görevlendirilir. Görevlendirilecek Müdürün, deney hayvanları üzerinde deneysel araştırmasının bulunması ve bilimsel etik ihlali ile ilgili herhangi bir disiplin cezası almamış olması gerekir. Süresi biten Müdür tekrar görevlendirilebilir.
+(2) Müdürün olmadığı hallerde müdür yardımcılarından biri, müdür yardımcısı da bulunmazsa Yönetim Kurulu üyelerinden biri Müdürlüğe vekâlet eder. Müdürün görevi sona erdiğinde müdür yardımcılarının görevi de sona erer.
