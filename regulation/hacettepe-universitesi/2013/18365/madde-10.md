@@ -1,0 +1,6 @@
+Sınavlar ve başarının değerlendirilmesi
+MADDE 10 – (1) Yaz okulunda açılan dersler ve bu derslere kayıtlı öğrenciler için ara ve genel sınavlar yapılır. Bütünleme sınavı yapılmaz. Yaz okulunda alınan derslerin genel sınavları için mazeret sınav hakkı verilmez.
+(2) Yaz okulunda açılan derslerin en az bir ara sınavı ve bir genel sınavı yapılır. Başarının değerlendirilmesinde ve not verme işlemlerinde Hacettepe Üniversitesi Ön Lisans, Lisans Eğitim-Öğretim ve Sınav Yönetmeliği ile Hacettepe Üniversitesi Lisansüstü Eğitim Öğretim ve Sınav Yönetmeliğinin ilgili hükümleri uygulanır.
+(3) Öğrencinin yaz okulunda aldığı not/notlar transkriptinde yaz okulu başlığı altında açılacak ayrı bir bölümde gösterilir. Yaz okulunda alınan notlar, önceki güz ve bahar yarıyılları sonu itibarıyla hesaplanan genel akademik ortalamaların yeniden hesaplanmasını ve bu ortalamaların değiştirilmesini gerektirmez.
+(4) Yaz okulunda aldığı ve başardığı derslerle mezuniyet hakkı kazanan ön lisans, lisans öğrencisinin mezuniyeti gerçekleştirilir.
+(5) Lisansüstü programlardan birine kayıtlı olup ders yükünü yaz okulunda tamamlayan öğrenciler hakkında Hacettepe Üniversitesi Lisansüstü Eğitim Öğretim ve Sınav Yönetmeliğinin ilgili hükümleri uygulanır.
