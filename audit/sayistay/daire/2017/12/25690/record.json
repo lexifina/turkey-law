@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10674",
+  "decision_date": "2017-12-12",
+  "source_id": 25690,
+  "chamber": "1",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25690/",
+  "source_sha256": "9b3bc86ed60dc3e849f3628a34f29a5c54b114d2848c1eaab4af8421b6f5ea49",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
