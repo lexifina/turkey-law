@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10674",
+  "decision_date": "2017-12-12",
+  "source_id": 25691,
+  "chamber": "1",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25691/",
+  "source_sha256": "9747f454ce8ba400957e6de36bf3c9fae1ef725705efd12543f01e53d40ae872",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
