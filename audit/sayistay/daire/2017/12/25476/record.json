@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10672",
+  "decision_date": "2017-12-12",
+  "source_id": 25476,
+  "chamber": "1",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25476/",
+  "source_sha256": "529308bc5885935402256c210a5578b6ad5cb7733c22c3ae179ac9348efa6833",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
