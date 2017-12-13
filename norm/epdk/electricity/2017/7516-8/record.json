@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7516-8",
+  "decision_date": "2017-12-13",
+  "title": "Elektrik Piyasasında Lisanssız Elektrik Üretimine İlişkin Yönetmelik’in 31 inci maddesinin ikinci fıkrası gereğince tahsil edebileceği yıllık sistem işletim bedeline ilişkin",
+  "resmi_gazete_date": "2017-12-16",
+  "resmi_gazete_number": "30272",
+  "categories": [
+    "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zn4qqO2M+EY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zn4qqO2M+EY="
+  ],
+  "source_sha256": "73d612186992e5e6a7054d333064703eb0d73ef4df346fd2b5dc4abef8da5ea7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1853,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-12-13",
+  "law_text_complete": true
+}
