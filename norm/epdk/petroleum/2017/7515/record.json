@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7515",
+  "decision_date": "2017-12-13",
+  "title": "Boru Hatları İle Petrol Taşıma Anonim Şirketi’nin iletim şebekesine ilişkin",
+  "resmi_gazete_date": "2017-12-16",
+  "resmi_gazete_number": "30272",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u2Z+PfY18ew=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=u2Z+PfY18ew="
+  ],
+  "source_sha256": "96ff947a0c05c1eeba361cbb7b1d6a21a20a0c8e622ab7feb081ab1827b70885",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2017-12-13",
+  "law_text_complete": false
+}
