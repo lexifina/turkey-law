@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43864",
+  "decision_date": "2017-12-13",
+  "source_id": 15010,
+  "chamber": "7",
+  "file_number": "41773",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2009",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15010/",
+  "source_sha256": "bbb8d1f4e8ab2a210e4a5809828fdabd9be570cf32073c03b9d411fcf840a96a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
