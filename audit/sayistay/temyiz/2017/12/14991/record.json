@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43853",
+  "decision_date": "2017-12-13",
+  "source_id": 14991,
+  "chamber": "6",
+  "file_number": "42138",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2009",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14991/",
+  "source_sha256": "523270a6a461397ff88ad444d525daf7da53542a4994834c2f8a8784273ab054",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
