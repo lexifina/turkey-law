@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24175",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE DENETİM STANDARTLARI TEBLİĞİ NO: 70 (YAZILI BEYANLAR HAKKINDA BAĞIMSIZ DENETİM STANDARDI 580)",
+  "number": "24175",
+  "issuer": "Başkan",
+  "path": "teblig/2017/24175",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24175&MevzuatTertip=5",
+  "source_sha256": "64707346db456c85e14bf7af5d24f512d892a5bb22948049b28063a5541dcf4e",
+  "source_bytes": 9840,
+  "published": "2017-12-13",
+  "gazette": "30269",
+  "in_force": "2017-12-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.12.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 177,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24175-Ek.DOCX"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
