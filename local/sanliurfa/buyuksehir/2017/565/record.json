@@ -1,0 +1,24 @@
+{
+  "number": "565",
+  "number_as_published": "565",
+  "year": 2017,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(KARAKÖPRÜ-ESENTEPE)",
+  "decision_date": "2017-12-13",
+  "source": "https://www.sanliurfa.bel.tr/icerik/5315/106/nazim-ve-uygulama-imar-planikarakopru-esentepe",
+  "official_document": null,
+  "source_sha256": "51acb2d23d28d9625052a608f08f4fed898644c33c6f51170dc2425d465a6409",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2017-12-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.12.2017 tarih ve 565 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2017-12-15",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
