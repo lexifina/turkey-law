@@ -1,0 +1,24 @@
+{
+  "number": "562",
+  "number_as_published": "562",
+  "year": 2017,
+  "title": "Nazım ve Uygulama İmar Planı Değ. (Haliliye/Sırrın)",
+  "decision_date": "2017-12-13",
+  "source": "https://www.sanliurfa.bel.tr/icerik/5343/106/nazim-ve-uygulama-imar-plani-deg-haliliye-sirrin",
+  "official_document": null,
+  "source_sha256": "5bbb8cebc684d2e2215b088212b81649feeb71e42e7c333109306f359a2b089c",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2017-12-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.12.2017 tarih ve 562 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2017-12-19",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
