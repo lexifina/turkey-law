@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7524",
+  "decision_date": "2017-12-13",
+  "title": "Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinin (DUY) 110 uncu maddesi kapsamında hesaplanan KÜPST formülüne ilişkin",
+  "resmi_gazete_date": "2018-01-18",
+  "resmi_gazete_number": "30305",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a6vsoQ1QwX0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a6vsoQ1QwX0="
+  ],
+  "source_sha256": "b96c8955113e0b23d8b9bd97384589002563aa5abdfb2c0a7c967bcc41437003",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2017-12-13",
+  "law_text_complete": false
+}
