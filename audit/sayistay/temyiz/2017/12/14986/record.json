@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43850",
+  "decision_date": "2017-12-13",
+  "source_id": 14986,
+  "chamber": "6",
+  "file_number": "42128",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2009",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/14986/",
+  "source_sha256": "5bad69e03df3fece3279e42008f886de9af79201f7b5871c0603dd3a46890d18",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
