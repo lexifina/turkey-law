@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24170",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE DENETİM STANDARTLARI TEBLİĞİ NO: 65 (İŞLETME VE ÇEVRESİNİ TANIMAK SURETİYLE “ÖNEMLİ YANLIŞLIK” RİSKLERİNİN BELİRLENMESİ VE DEĞERLENDİRİLMESİ HAKKINDA BAĞIMSIZ DENETİM STANDARDI 315)",
+  "number": "24170",
+  "issuer": "Başkan",
+  "path": "teblig/2017/24170",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24170&MevzuatTertip=5",
+  "source_sha256": "59105d9342126c269d443fd9084111917fc872970671afe01cdd04de5848f57c",
+  "source_bytes": 10740,
+  "published": "2017-12-13",
+  "gazette": "30269",
+  "in_force": "2017-12-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.12.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 204,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24170-Ek.DOCX"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
