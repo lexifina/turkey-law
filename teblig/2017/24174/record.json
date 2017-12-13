@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24174",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE DENETİM STANDARTLARI TEBLİĞİ NO: 69 (BİLANÇO TARİHİNDEN SONRAKİ OLAYLAR HAKKINDA BAĞIMSIZ DENETİM STANDARDI 560)",
+  "number": "24174",
+  "issuer": "Başkan",
+  "path": "teblig/2017/24174",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24174&MevzuatTertip=5",
+  "source_sha256": "1a38899bc4254bd390b1ced1814c354afa8fbe66708be614aed3cb3042c5c77a",
+  "source_bytes": 10368,
+  "published": "2017-12-13",
+  "gazette": "30269",
+  "in_force": "2017-12-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.12.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 182,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24174-Ek.DOCX"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
