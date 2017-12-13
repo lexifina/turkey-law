@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24173",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE DENETİM STANDARTLARI TEBLİĞİ NO: 68 (İLK BAĞIMSIZ DENETİMLER – AÇILIŞ BAKİYELERİ HAKKINDA BAĞIMSIZ DENETİM STANDARDI 510)",
+  "number": "24173",
+  "issuer": "Başkan",
+  "path": "teblig/2017/24173",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24173&MevzuatTertip=5",
+  "source_sha256": "ccc6d82af436da39bfadb673e588db205a031d3a6c0955eb085ad1f4968a3342",
+  "source_bytes": 10383,
+  "published": "2017-12-13",
+  "gazette": "30269",
+  "in_force": "2017-12-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.12.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 188,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24173-Ek.DOCX"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
