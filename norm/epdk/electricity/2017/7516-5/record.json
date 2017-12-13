@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7516-5",
+  "decision_date": "2017-12-13",
+  "title": "2018 yılına ilişkin güç kalitesi ölçüm hizmet bedeli",
+  "resmi_gazete_date": "2017-12-16",
+  "resmi_gazete_number": "30272",
+  "categories": [
+    "Teknik Kalite Ölçüm Hizmet Bedeli"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GGQ1vwkFsdc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GGQ1vwkFsdc="
+  ],
+  "source_sha256": "fb9e25b73b21dea4997385dee1aa9cdc5253349268d2d2a118bfea92a8cc359b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1854,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-12-13",
+  "law_text_complete": true
+}
