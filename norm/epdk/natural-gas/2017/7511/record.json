@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7511",
+  "decision_date": "2017-12-13",
+  "title": "Polgaz Polatlı Doğal Gaz Dağıtım Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2017-12-16",
+  "resmi_gazete_number": "30272",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pJVQavd9VOA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pJVQavd9VOA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7McHuSbYbXg="
+  ],
+  "source_sha256": "75044175c4fd50520ba1c01f8b1e012ddf1409439ccd7d67d9044a7696e80fe8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-12-13",
+  "law_text_complete": true
+}
