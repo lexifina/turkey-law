@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7516-2",
+  "decision_date": "2017-12-13",
+  "title": "1/1/2018 tarihinden itibaren uygulanan kesme bağlama bedelleri",
+  "resmi_gazete_date": "2017-12-16",
+  "resmi_gazete_number": "30272",
+  "categories": [
+    "Kesme-Bağlama Bedelleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HAHS4LIt9M0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HAHS4LIt9M0="
+  ],
+  "source_sha256": "e339dd19aaba80e9fb590e07529b284453fccf19d71ce7ac741b134cb52e9753",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1850,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-12-13",
+  "law_text_complete": true
+}
