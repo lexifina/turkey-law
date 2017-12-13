@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7510",
+  "decision_date": "2017-12-13",
+  "title": "TEİAŞ sistem işletim gelir gereksinimleri ile ilgili",
+  "resmi_gazete_date": "2017-12-16",
+  "resmi_gazete_number": "30272",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Kzx48uZxBpI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Kzx48uZxBpI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3em/mMcBN1A="
+  ],
+  "source_sha256": "3b90a81197eb4b44d219897cb401735d75e0bf60081a43a781f537c88a65e8f2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2017-12-13",
+  "law_text_complete": false
+}
