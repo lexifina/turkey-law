@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7516-7",
+  "decision_date": "2017-12-13",
+  "title": "2018 yılı için tahsil edilebilecek başvuru bedeline ilişkin",
+  "resmi_gazete_date": "2017-12-16",
+  "resmi_gazete_number": "30272",
+  "categories": [
+    "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tXB/RAoQwcM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tXB/RAoQwcM="
+  ],
+  "source_sha256": "d1cd31ec1d028d9c3fd6a165f110aae621c1594dd02ab7324ca662d8b17eaa5b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1853,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-12-13",
+  "law_text_complete": true
+}
