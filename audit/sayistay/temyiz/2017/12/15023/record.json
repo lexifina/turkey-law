@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43875",
+  "decision_date": "2017-12-13",
+  "source_id": 15023,
+  "chamber": "4",
+  "file_number": "39563",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2012",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15023/",
+  "source_sha256": "492eb4d4bd188cff088a4c831faeb079cfeaf18652dadda6850eea0dbeb79980",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
