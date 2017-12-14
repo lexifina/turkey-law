@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "508",
+  "decision_date": "2017-12-14",
+  "source_id": 25950,
+  "chamber": "6",
+  "ilam_number": "66",
+  "item_number": 15,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25950/",
+  "source_sha256": "32b0a5dcddda00b8b32c0db108515575dad60ec48dfea3d6d1cc4f0f212f74ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
