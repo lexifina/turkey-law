@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "508",
+  "decision_date": "2017-12-14",
+  "source_id": 25944,
+  "chamber": "6",
+  "ilam_number": "66",
+  "item_number": 9,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25944/",
+  "source_sha256": "dbee21159313391e794762fea0c0a7b78872ec8d53d0c5ac103ab1278db61a8d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
