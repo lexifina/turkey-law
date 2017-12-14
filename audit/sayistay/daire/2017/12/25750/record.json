@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35505",
+  "decision_date": "2017-12-14",
+  "source_id": 25750,
+  "chamber": "2",
+  "ilam_number": "64",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25750/",
+  "source_sha256": "be6146680cb635e0e1ca85c85952d84bf46be9483e0ad31806afab0bde6044d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
