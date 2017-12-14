@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "508",
+  "decision_date": "2017-12-14",
+  "source_id": 25969,
+  "chamber": "6",
+  "ilam_number": "66",
+  "item_number": 28,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25969/",
+  "source_sha256": "ee5f9bd8d272e7749e3daec4da8daee7140ed78ea8187c05e2cd88695195320a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
