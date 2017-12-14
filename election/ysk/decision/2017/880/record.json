@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2017/880",
+  "list_number": "880",
+  "decision_date": "2017-12-14",
+  "title": "İYİ Parti'nin seçmen kütüğü verilmesi ve sandık bazlı seçim sonuçları istemin reddine ilişkin Kurulumuzun 2017/880 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/6017/2017-880.pdf",
+  "source_sha256": "debbfc8b6f483ffb14ad0fd1749fdffcf2a073ae9cd91fdcab9d0e5125b99dbb",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2017-12-14",
+  "law_text_complete": false
+}
