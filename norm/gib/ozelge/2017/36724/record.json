@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-180[28]-24185",
+  "source_id": 36724,
+  "date": "2017-12-14",
+  "title": "Reasürans işlemlerinde bire bir yansıtılan tazminat ödemelerinde BSMV hesaplanıp hesaplanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36724",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "8750f226271d937b89756be96b6bcaa621a586867a7d8c8450d0f78b90da23d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
