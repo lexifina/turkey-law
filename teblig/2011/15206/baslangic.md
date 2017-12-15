@@ -1,0 +1,1 @@
+Yapı Malzemelerinin Tabi Olacağı Kriterler Hakkında Yönetmelik Kapsamında Yapı Araştırma Derneği İnşaat Teknik Değerlendirme ve Bilimsel Araştırma Kurumu İktisadi İşletmesi’nin Ulusal Teknik Onay Kuruluşu Olarak Görevlendirilmesine Dair Tebliğ (Tebliğ No: MHG/2011-01) (1)
