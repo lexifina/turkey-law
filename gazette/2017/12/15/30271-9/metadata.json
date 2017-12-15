@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-12-15",
+  "issue": "30271",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 07/12/2017 Tarihli ve 7627 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171215-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171215.htm",
+  "index_sha256": "7a8a31d3caee89febe1900532ee44c46bac72a2e403bc0a53762e9844d4257e8",
+  "index_header": "15 Aralık 2017 ... 30271 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171215.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
