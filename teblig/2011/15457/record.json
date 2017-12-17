@@ -1,0 +1,48 @@
+{
+  "source_id": "9.5.15457",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KONSOLİDE FİNANSAL TABLOLARA İLİŞKİN TÜRKİYE FİNANSAL RAPORLAMA STANDARDI (TFRS 10) HAKKINDA TEBLİĞ SIRA NO: 216",
+  "number": "15457",
+  "issuer": "Türkiye Muhasebe Standartları Kurulu",
+  "path": "teblig/2011/15457",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15457&MevzuatTertip=5",
+  "source_sha256": "82004bf84442fc85688e9c385310a23aae6e54d8d7b065b876575094fa8d27db",
+  "source_bytes": 127490,
+  "published": "2011-10-28",
+  "gazette": "28098",
+  "in_force": "2017-12-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/12/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-12-17",
+      "RG-17/12/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-04-09",
+      "RG-9/4/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ ve bu Tebliğin 1 no’lu ekinde yer alan “TFRS 10 Konsolide Finansal Tablolar” Standardı, 31/12/2012 tarihinden sonra başlayan hesap dönemlerinde uygulanmak üzere yayımlandığı tarihte yürürlüğe girer",
+    "Bu Tebliğ, 31/12/2012 tarihinden sonra başlayan yıllık raporlama dönemlerinde geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+    "Bu Tebliğ, 31/12/2013 tarihinden sonra başlayan yıllık raporlama dönemlerinde geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+    "Bu Tebliğ 1/1/2016 tarihinden sonra başlayan hesap dönemlerinde geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7478,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15457%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
