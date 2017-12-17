@@ -1,0 +1,6 @@
+MADDE 5 – Aynı Tebliğin ekinde yer alan “Türkiye Muhasebe Standardı (TMS 28) İştiraklerdeki ve İş Ortaklıklarındaki Yatırımlar” Standardının;
+a) 25 inci Paragrafı aşağıdaki şekilde değiştirilmiştir.
+“25. İşletmenin bir iştirakteki veya iş ortaklığındaki ortaklık payı azalıyor, fakat yatırımın iştirak ya da iş ortaklığı şeklinde sınıflandırılmasına devam ediliyorsa, daha önce diğer kapsamlı kârda muhasebeleştirilen kazanç ya da kaybın ortaklık payındaki bu azalışa isabet eden kısmı, ilgili varlık veya borçlar elden çıkarıldığında söz konusu kazanç veya kaybın kâr veya zararda yeniden sınıflandırılması gerekecek olması halinde kâr veya zarar olarak yeniden sınıflandırılır.”
+b) 45 inci Paragrafından sonra gelmek üzere aşağıdaki 45A ve 45B Paragrafları eklenmiştir.
+“45A. “-”
+45B. “Bireysel Finansal Tablolarda Özkaynak Yöntemi” (TMS 27’ye ilişkin değişiklik) değişikliğiyle 25 inci Paragraf değiştirilmiştir. Bu değişiklikler 1 Ocak 2016 tarihinde veya sonrasında başlayan yıllık hesap dönemlerinde geriye dönük olarak TMS 8 “Muhasebe Politikaları, Muhasebe Tahminlerinde Değişiklikler ve Hatalar” Standardı çerçevesinde uygulanır. Erken uygulamaya izin verilmektedir. Bu durumda anılan husus dipnotlarda açıklanır.”
