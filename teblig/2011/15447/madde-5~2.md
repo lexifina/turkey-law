@@ -1,0 +1,8 @@
+MADDE 5 – Aynı Tebliğin ekinde yer alan “Türkiye Finansal Raporlama Standardı (TFRS 12) Diğer İşletmelerdeki Paylara İlişkin Açıklamalar” Standardının;
+a) 6 ncı Paragrafının (b) bendi aşağıdaki şekilde değiştirilmiştir.
+“(b) İşletmenin TMS 27 Bireysel Finansal Tablolar Standardının hükümleri uyarınca hazırladığı bireysel finansal tablolarına. Ancak;
+(i) İşletmenin konsolide edilmeyen yapılandırılmış işletmelerde payı bulunduğunda ve işletme tek finansal tablolar seti olarak bireysel finansal tablolar setini hazırladığında, bireysel finansal tablolarını hazırlarken 24-31 inci paragraflarda yer verilen hükümleri uygular.
+(ii) TFRS 10’daki 31 inci paragraf ile uyumlu olarak bütün bağlı ortaklıkları gerçeğe uygun değer farkı kâr veya zarara yansıtılarak ölçülen finansal tablolar hazırlayan yatırım işletmesi bu TFRS’de yatırım işletmeleriyle ilgili olarak talep edilen açıklamaları sunar.”
+b) C1B Paragrafından sonra gelmek üzere C1C Paragrafı eklenmiştir.
+“C1C. Yatırım İşletmesi: “Konsolidasyon İstisnalarının Uygulanması” değişikliğiyle (TFRS 10, TFRS 12 ve TMS 28’e ilişkin değişiklikler) bu Standardın 6 ncı paragrafı değiştirilmiştir. Bu değişiklik 1 Ocak 2016 tarihinde veya sonrasında başlayan hesap dönemlerinde uygulanır. Erken uygulamaya izin verilmektedir. Bu durumda anılan husus dipnotlarda açıklanır.”
+(Ek paragraf:RG-17/12/2017-30273) C1D. 2014-2016 Dönemine İlişkin Yıllık İyileştirmeler değişikliğiyle, 5A paragrafı eklenmiş ve B17 paragrafı değiştirilmiştir. Bu değişiklikler, 1 Ocak 2017 tarihinde veya sonrasında başlayan yıllık hesap dönemlerinde, TMS 8 Muhasebe Politikaları, Muhasebe Tahminlerinde Değişiklikler ve Hatalar uyarınca geriye dönük olarak uygulanır.

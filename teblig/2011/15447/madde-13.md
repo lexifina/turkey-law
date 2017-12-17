@@ -1,0 +1,1 @@
+MADDE 13 – Bu Tebliğ, 31/12/2013 tarihinden sonra başlayan yıllık raporlama dönemlerinde geçerli olmak üzere yayımı tarihinde yürürlüğe girer. İsteyen işletmeler bu Tebliği 1/1/2014 tarihinden önce başlayan hesap dönemlerine ilişkin finansal tablolarında uygulayabilir. Bu durumda, anılan husus dipnotlarda açıklanır.

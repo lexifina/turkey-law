@@ -1,0 +1,2 @@
+MADDE 14 – Bu Tebliğ hükümlerini Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu Başkanı yürütür.”
+(3) 9/4/2014 tarihli ve 29321 sayılı Resmî Gazete’de yayımlanan Diğer İşletmelerdeki Paylara İlişkin Açıklamalarla İlgili Türkiye Finansal Raporlama Standardı (TFRS 12)Hakkında Tebliğ (Sıra No: 218)’de Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 44)’in bu tebliğde değişiklik yapılmasına ilişkin hükümleri aşağıdaki gibidir:
