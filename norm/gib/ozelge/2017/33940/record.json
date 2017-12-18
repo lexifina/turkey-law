@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-135-571206",
+  "source_id": 33940,
+  "date": "2017-12-18",
+  "title": "3713 sayılı Kanunun ek 1 inci maddesi (a) bendi kapsamında, hayatını kaybetmiş harp veya vazife malulünün yakınının taşıt alımında ÖTV istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33940",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "2eb611a65044132a87813772a402a0350fec46cb2d98cae3de9f8fc31c503fd0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
