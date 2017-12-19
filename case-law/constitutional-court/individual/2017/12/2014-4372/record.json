@@ -1,0 +1,20 @@
+{
+  "applicant": "N.T.U. VE N.T.",
+  "application_date": "2014-03-28",
+  "application_number": "2014/4372",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2017-12-19",
+  "id": "8201eda4-6175-11bc-8dcc-8c42cc8dc20c",
+  "in_force": "2017-12-19",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjgyMDFlZGE0LTYxNzUtMTFiYy04ZGNjLThjNDJjYzhkYzIwYw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "ecc747740a0ae87edeef2dc9ce675fe85f78230771421f90214c830738144192",
+  "version_label": "as-enacted"
+}
