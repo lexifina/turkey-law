@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10677",
+  "decision_date": "2017-12-19",
+  "source_id": 25453,
+  "chamber": "1",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25453/",
+  "source_sha256": "e63fad29f16016ddce1c17dfc0e9c4501cc6cbc742ca269af00b9a58f3064d0a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
