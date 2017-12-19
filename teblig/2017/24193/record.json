@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24193",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2018 YILINA AİT GENEL YATIRIM VE FİNANSMAN PROGRAMININ UYGULANMASINA İLİŞKİN USUL VE ESASLARIN BELİRLENMESİNE DAİR TEBLİĞ",
+  "number": "24193",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "path": "teblig/2017/24193",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24193&MevzuatTertip=5",
+  "source_sha256": "6540c550e7a6ab3d49decba9fda01c3773c80d2af26ecd7dff44b73fe66c65f7",
+  "source_bytes": 65823,
+  "published": "2017-12-19",
+  "gazette": "30275",
+  "in_force": "2017-12-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.12.2017); own commencement article: \"Bu Tebliğin 4 üncü, 11 inci, 24 üncü ve 25 inci maddesi yayımı tarihinde, diğer maddeleri ise 1/1/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğin 4 üncü, 11 inci, 24 üncü ve 25 inci maddesi yayımı tarihinde, diğer maddeleri ise 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3998,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24193-Ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
