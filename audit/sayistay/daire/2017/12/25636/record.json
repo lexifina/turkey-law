@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10676",
+  "decision_date": "2017-12-19",
+  "source_id": 25636,
+  "chamber": "1",
+  "ilam_number": "36",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25636/",
+  "source_sha256": "f2ec347984b209a29cfb6ee22aab5fd0cbb7fe879d88503e43b708838f904246",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
