@@ -1,0 +1,16 @@
+ALTINCI BÖLÜM
+Gemi Trafik Hizmetleri Personeli, Eğitim, Sağlık ve Belgelendirme
+Personel yeterlikleri
+MADDE 16 – (1) Gemi trafik hizmetlerinde, deniz trafik operatörü ve deniz trafik başoperatörü olarak görevlendirilecek personele, aşağıdaki asgari nitelikleri taşımaları kaydıyla İdare tarafından beş yıl süreyle geçerli olan yeterlik belgesi verilir.
+a) (Değişik:RG-9/9/2016-29826) Denizcilik alanında lisans düzeyinde eğitim veren yüksek öğretim kurumlarından mezun olmak.
+b) Deniz trafik başoperatörü olabilmek için;
+1) İdarece düzenlenmiş geçerliliği devam eden uzak yol kaptanı yeterlik belgesine sahip olmak,
+2) (Değişik:RG-9/9/2016-29826) Kurulmuş olan gemi trafik hizmetleri için en az üç yıl aynı gemi trafik hizmetlerinde deniz trafik operatörü olarak görev yapmış olmak. Ancak yeni kurulacak gemi trafik hizmetlerinde deniz trafik başoperatör ihtiyacını karşılamak üzere bir sefere mahsus olmak kaydıyla uluslararası sefer yapan gemilerde en az bir yıl uzakyol kaptanı olarak çalışanlar İdarenin onaylaması şartıyla başoperatör olarak görevlendirilebilir.
+c) Deniz trafik operatörü olabilmek için;
+1) (Değişik:RG-9/9/2016-29826) İdarece düzenlenmiş, geçerliliği devam eden en az uzakyol 1 inci zabiti veya talebin karşılanamaması durumunda en az uzakyol vardiya zabiti (TBGTH’de çalışacaklar için denizcilik alanında lisans düzeyinde eğitim veren yükseköğretim kurumlarından mezun olmuş uzakyol kaptanı veya talebin karşılanamaması durumunda en az uzakyol 1 inci zabiti) yeterlik belgesine sahip olmak,
+2) (Değişik:RG-9/9/2016-29826) En az bir yıl deniz hizmeti tecrübesine sahip olmak,
+ç) (Değişik:RG-9/9/2016-29826) KPDS (Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavı), ÜDS (Üniversitelerarası Kurul Yabancı Dil Sınavı) ve YDS (Yabancı Dil Bilgisi Seviye Tespit Sınavı)’den en az 60 veya TOEFL (Test of English As a Foreign Language)’dan en az 72 (iBT) veya GASM tarafından düzenlenecek Denizcilik İngilizcesi sınavından en az 75 veya GTH Otoritesi tarafından düzenlenecek İngilizce sınavından en az 80 puan almak veya İdare tarafından düzenlenmiş olan kılavuz kaptan yeterliği ile fiili olarak herhangi bir kılavuzluk teşkilatında kılavuz kaptan olarak çalışıyor olmak,
+d) (Değişik:RG-15/8/2012-28385) Deniz trafik başoperatörü veya operatörü yeterliliği alabilmek için gemi trafik hizmetlerini işletmeye yetkilendirilmiş bir kurum veya kuruluşta istihdam edilmek,
+e) (Değişik:RG-9/9/2016-29826) İdarece veya İdarece yetkilendirilmiş bir GTH Otoritesince ya da bir eğitim kurumunca gemi trafik hizmetleri otoritesinin gözetiminde gerçekleştirilen deniz trafik başoperatörü veya deniz trafik operatörü eğitimini başarıyla bitirmek,
+f) İlgili düzenlemeler kapsamında İdarece belirlenecek görev başı eğitimini görev alacağı hizmet bölgesindeki gemi trafik hizmetleri otoritesinin gözetiminde başarıyla bitirmek.
+g) (Ek:RG-9/9/2016-29826) İdarenin merkez ve taşra teşkilatında çalışanlardan 31/7/2002 tarihli ve 24832 sayılı Resmî Gazete’de yayımlanan Gemiadamları Yönetmeliği kapsamında verilmiş Uzakyol Vardiya Zabiti ya da daha üst bir yeterlik belgesine sahip olanlar, İdarece düzenlenecek IALA V-103 eğitimlerine katılmaları ve başarılı olmaları kaydıyla deniz trafik operatörü belgesi almaya hak kazanmış sayılırlar.

@@ -1,0 +1,4 @@
+Eğitim, sağlık ve belgelendirme
+MADDE 17 – (1) Deniz trafik operatörleri ile başoperatörlerinin eğitimleri İdare tarafından yürürlüğe konulan düzenlemeler kapsamında yapılacaktır.
+(2) (Değişik:RG-9/9/2016-29826) İdare, deniz trafik operatörleri ile başoperatörlerine kendisi eğitim verebileceği gibi, bir GTH Otoritesini ya da denizcilik alanında eğitim veren ve İdarece akredite edilmiş fakülteleri yetkilendirebilir.
+(3) Deniz trafik operatörleri ile başoperatörleri, ilgili düzenlemelerde yer alan gemiadamlarının sağlık durumları ile ilgili kurallara tabi olup sahip oldukları yeterlik için öngörülen ölçütlere göre sağlık kontrolünden geçerler. Gemiadamlığına elverişli olduğuna dair sağlık raporunu alan operatör ve başoperatörler, (Değişik ibare:RG-15/8/2012-28385) iki yılda bir sağlık raporlarını yenilemek zorundadır. Bu kişilerin sağlık durumunun takibi, ilgili gemi trafik hizmetleri otoritesinin sorumluluğundadır.

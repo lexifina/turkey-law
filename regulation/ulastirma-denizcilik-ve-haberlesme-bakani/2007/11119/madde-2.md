@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 — (1) Bu Yönetmelik hükümleri Türk askeri gemileri için tavsiye niteliğinde olup, mevcut gemi trafik hizmetleri sistemlerinin işletilmesini, kurulacak gemi trafik hizmetleri sistemlerinin tesisi, işletilmesi, gemi trafik hizmetleri sistemlerinde seyir veya giriş - çıkış yapan gemi ve deniz araçları ile gemi trafik hizmetleri sistemlerinde çalışacak operatör ve başoperatörlerin yeterlik gerekleri ile eğitim ve belgelendirme usul ve esaslarını kapsar.
