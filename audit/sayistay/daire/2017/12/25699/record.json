@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "509",
+  "decision_date": "2017-12-19",
+  "source_id": 25699,
+  "chamber": "6",
+  "ilam_number": "45",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25699/",
+  "source_sha256": "a3d0705e0e75cd9f28374d6cf6d19e5f6b6043f6c238403a13ded0d88aa6526b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
