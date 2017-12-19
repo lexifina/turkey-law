@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.13036",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "NAKİT DIŞI VARLIKLARIN ORTAKLARA DAĞITIMINA İLİŞKİN TÜRKİYE FİNANSAL RAPORLAMA STANDARDI YORUMU (TFRS YORUM 17) HAKKINDA TEBLİĞ SIRA NO: 147",
+  "number": "13036",
+  "issuer": "Türkiye Muhasebe Standartları Kurulu",
+  "path": "teblig/2009/13036",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13036&MevzuatTertip=5",
+  "source_sha256": "bd299e1a147e57b69cd02383e1f3781427d3087ade861a6e05001f8ef153e533",
+  "source_bytes": 36287,
+  "published": "2009-05-05",
+  "gazette": "27219",
+  "in_force": "2017-12-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/12/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-12-19",
+      "RG-19/12/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ ve bu Tebliğin 1 no’lu ekinde yer alan TFRS Yorum 17, 30/6/2009 tarihinden sonra başlayan hesap dönemlerinde uygulanmak üzere yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1187,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.tmsk.org.tr/tms_seti/TMS/tfrs05.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
