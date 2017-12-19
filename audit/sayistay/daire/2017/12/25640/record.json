@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10676",
+  "decision_date": "2017-12-19",
+  "source_id": 25640,
+  "chamber": "1",
+  "ilam_number": "36",
+  "item_number": 7,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25640/",
+  "source_sha256": "eb78442013d468a6f07f1efa7e74ae92e6ecc4caccaa83cea6d49092d7082263",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
