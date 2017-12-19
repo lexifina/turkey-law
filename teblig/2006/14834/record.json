@@ -1,0 +1,85 @@
+{
+  "source_id": "9.5.14834",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VARLIKLARDA DEĞER DÜŞÜKLÜĞÜNE İLİŞKİN TÜRKİYE MUHASEBE STANDARDI (TMS 36) HAKKINDA TEBLİĞ SIRA NO: 28",
+  "number": "14834",
+  "issuer": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu Başkanı",
+  "path": "teblig/2006/14834",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14834&MevzuatTertip=5",
+  "source_sha256": "8e99752e4372584525d0c4898c4da9b5711315f6445f586dcf65909e9e58cd39",
+  "source_bytes": 282279,
+  "published": "2006-03-18",
+  "gazette": "26112",
+  "in_force": "2017-12-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/12/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-12-19",
+      "RG-19/12/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-12-16",
+      "RG-16/12/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-11-12",
+      "RG-12/11/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-02-11",
+      "RG-11/2/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-04-27",
+      "RG-27/4/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-01-08",
+      "R.G.-8/1/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-11-28",
+      "R.G.-28/11/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-11-28",
+      "R.G-28/11/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-08-13",
+      "RG-13/8/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-07-15",
+      "RG-15/07/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 31/12/2005 tarihinden sonra başlayan hesap dönemleri için geçerli olmak üzere, yayımlandığı tarihte yürürlüğe girer",
+    "Bu Tebliğ 31/12/2008 tarihinden sonra başlayan hesap dönemleri için geçerli olmak üzere, yayımlandığı tarihte yürürlüğe girer",
+    "Bu Tebliğ, 31/12/2013 tarihinden sonra başlayan hesap dönemlerinde geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+    "Bu Tebliğ ve bu Tebliğin 1 no’lu ekinde yer alan “TFRS 10 Konsolide Finansal Tablolar” Standardı, 31/12/2012 tarihinden sonra başlayan hesap dönemlerinde uygulanmak üzere yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 17260,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
