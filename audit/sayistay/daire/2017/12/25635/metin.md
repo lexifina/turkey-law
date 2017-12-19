@@ -1,0 +1,21 @@
+Yiyecek yardımı
+
+657 sayılı Devlet Memurları Kanununun 212 nci maddesinde: “Devlet memurlarının hangi hallerde yiyecek yardımından ne şekilde faydalanacakları ve bu yardımın uygulanması ile ilgili esaslar Maliye Bakanlığı ile Başbakanlık Devlet Personel Başkanlığının birlikte hazırlayacakları bir yönetmelik ile tesbit olunur.” hükmüne yer verilmiş ve bu hüküm uyarınca  hazırlanan  Devlet  Memurları  Yiyecek  Yardımı Yönetmeliği’nin “Amaç” başlıklı 1 inci maddesinde, bu Yönetmeliğin amacının, Devlet Memurlarının yiyecek yardımından hangi hallerde, ne şekilde faydalanacaklarını ve bu yardımın uygulanması ile ilgili esasları belirlemek olduğu; “Kapsam” başlıklı 2 nci maddesinde, bu Yönetmeliğin 657 sayılı Devlet Memurları Kanununa tabi memurlar hakkında uygulanacağı; “Yardım Şekli” başlıklı 3 üncü maddesinde, yiyecek yardımının yemek verme şeklinde yapılacağı, bu yardım karşılığında nakden bir ödemede bulunulamayacağı; “Yardımın Şartları” başlıklı 5 inci maddesinde; Kurum bütçelerine yiyecek yardımı karşılığı olarak konulan ödeneğin, memurlara yemek vermek üzere kurulan yemek servisi, yardım sandığı, dernek veya bu mahiyetteki kuruluşa ödeneceği, yemek servisinin, yiyecek yardımından faydalanabilecek personel sayısının asgari 50 olması ve yemekhane için elverişli yer bulunması şartıyla atamaya yetkili amirin onayı ile kurulabileceği hükümlerine yer verilmiştir.
+
+Söz konusu Yönetmelikte yer alan düzenlemeler göz önünde bulundurulduğunda, 657 sayılı Kanuna tabi personele yiyecek yardımının kupon, kart, fiş, ticket gibi para temsili araçlar sağlanarak dışarıdan temin edilmesi şeklinde yapılması mümkün değildir.
+
+4734 sayılı Kamu İhale Kanununun “Kapsam” başlıklı 2 nci maddesinde, mal veya hizmet alımları ile yapım işleri ihalelerinin bu Kanun hükümlerine göre yürütüleceği hükme bağlanmıştır. Aynı Kanunun “Tanımlar” başlıklı 4 üncü maddesinde de, “Bu Kanunun uygulanmasında Hizmet: Bakım ve onarım, taşıma, haberleşme, sigorta, araştırma ve geliştirme, muhasebe, piyasa araştırması ve anket, danışmanlık, tanıtım, basım ve yayım, temizlik, yemek hazırlama ve dağıtım, toplantı, organizasyon, sergileme, koruma ve güvenlik, meslekî eğitim, fotoğraf, film, fikrî ve güzel sanat, bilgisayar sistemlerine yönelik hizmetler ile yazılım hizmetlerini, taşınır ve taşınmaz mal ve hakların kiralanmasını ve benzeri diğer hizmetleri, .. ifade eder.” denilmektedir. Buna göre para temsili araçlar ile yemek ihtiyacının dışarıdan karşılanması, Kamu İhale Kanununun yukarıya alınan hizmet tanımı kapsamında bulunmamaktadır.
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 71 inci maddesinin 1 inci fıkrasında kamu zararı tanımlanmış, 2 nci fıkrasında da bu zararın belirlenmesinde esas alınacak kriterler düzenlenmiştir. Aynı Kanunda, “Mevzuatında öngörülmediği halde ödeme yapılması” da kamu zararının belirlenmesinde esas alınacak kriterlerden birisi olarak sayılmıştır.
+
+Yukarıdaki açıklamalardan anlaşılacağı üzere, para temsili araçlar ile yemek ihtiyacının dışarıdan karşılanması ile ilgili idare işlemi, Yiyecek Yardımı Yönetmeliği ve Kamu İhale Kanununa aykırı olduğundan, bu işlem neticesi yapılan ödeme, mevzuatta öngörülmeyen bir ödeme mahiyetindedir. Bu nedenle … A.Ş’ye yapılan ödemelerin tamamı kamu zararı niteliğindedir.
+
+Yiyecek yardımının, 4734 sayılı Kanunun cevaz verdiği yemek hazırlama ve dağıtım hizmeti yerine personele para temsili araçlar sağlanarak yapılmasına olanak veren ihale sürecinde yer alanların da sorumluluğu bulunmaktadır. Bu nedenle yapılan ödemeden ödeme emri belgesini imzalayan harcama yetkilisi ve gerçekleştirme görevlisinin yanı sıra ihale komisyonu üyelerinin de sorumlu tutulmaları gerekmektedir.
+
+Bu itibarla, … İl Özel İdaresi personeline yiyecek yardımının yemek verme yerine, para ile temsil edilen araçlar (ticket) vasıtasıyla … A.Ş’den yapılması sonucu ortaya çıkan ve ayrıntısı aşağıdaki tabloda gösterilen toplam … TL kamu zararının;
+
+Harcama Yetkilisi … …, Gerçekleştirme Görevlisi … …, İhale Komisyonu Başkanı … … ile İhale Komisyonu Üyeleri … …, … …,  … … ve … …’a,
+
+müştereken ve müteselsilen,
+
+6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizleri ile ve temyiz yolu açık olmak üzere ödettirilmesine oy birliğiyle,
