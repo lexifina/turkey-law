@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10676",
+  "decision_date": "2017-12-19",
+  "source_id": 25639,
+  "chamber": "1",
+  "ilam_number": "36",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25639/",
+  "source_sha256": "4ab89784d442723398af4678f1531e551ea1c4dd28eed240006f3df4603a4d57",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
