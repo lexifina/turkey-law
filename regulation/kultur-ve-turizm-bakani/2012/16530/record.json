@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.16530",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇOĞALTILMIŞ FİKİR VE SANAT ESERLERİNİ DERLEME YÖNETMELİĞİ",
+  "number": "16530",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2012/16530",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16530&MevzuatTertip=5",
+  "source_sha256": "50ebdd835f5ba08be12d317d5592c21343feee91fef011f50b10d2fa7f9c0707",
+  "source_bytes": 50489,
+  "published": "2012-08-18",
+  "gazette": "28388",
+  "in_force": "2017-12-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/12/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-12-20",
+      "RG-20/12/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-12-20",
+      "20/12/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-06-05",
+      "5/6/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-06-03",
+      "RG-3/6/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2244,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16530%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,3 @@
+Görme engelliler
+MADDE 17 – (Değişik:RG-20/12/2017-30276)
+(1) Derleme Kanununun 4 üncü maddesinin birinci fıkrasının (a), (b), (g) ve (ğ) bentlerinde belirlenen yayımlanmış veya internet ortamında ilk iletimi yapılmış eserlerin elektronik kopyaları, hak ihlallerini önleyici etkin ve yeterli koruma önlemlerinin alınması koşuluyla görme engellilerin kullanımına sunulmak amacıyla, Milli Kütüphane Başkanlığı tarafından hazırlanacak Yönergede belirlenecek usul ve esaslara uygun olarak EYDeSüzerinden, derleme mükellefiyetinin doğduğu tarihten itibaren 15 gün içerisinde Milli Kütüphane Başkanlığına gönderilir.

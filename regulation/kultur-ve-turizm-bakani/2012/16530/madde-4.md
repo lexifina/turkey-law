@@ -1,0 +1,25 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alındı belgesi: Derleme mükellefinin derleme nüshasını teslim ettiğini gösterir belgeyi,
+b) Bakanlık: Kültür ve Turizm Bakanlığı’nı,
+c) Çevrimdışı elektronik yayın: Her türlü bilgisayar, müzik, video ve benzeri teknolojik cihazlarda yaymak ve/veya umuma iletmek amacıyla ya da sonradan dijital ortamlara aktarılmış ses, görüntü ve veri içeren eserleri,
+ç) Çevrimiçi elektronik yayın: İnternet veya ağlar üzerinden yaymak ve/veya umuma iletmek amacıyla erişime sunulan yayınları,
+d) Derleme: Derleme Kanunu kapsamına giren çoğaltılmış fikir ve sanat eserlerinin belirli sayıdaki nüshalarının mükellefler tarafından teslim edilmesini, belirli kütüphanelerde toplanmasını, elverişli ortamlarda saklanmasını, korunmasını, düzenlenmesini, toplumun bilgi ve yararına sunulmasını ve gelecek nesillere aktarılmasını sağlayan faaliyeti,
+e) Derleme birimi: Derleme mükelleflerince illerde ve ilçelerde derleme nüshalarının teslim edildiği birimi,
+f) Derleme Kanunu: 29/2/2012 tarihli ve 6279 sayılı Çoğaltılmış Fikir ve Sanat Eserlerini Derleme Kanununu,
+g) Derleme kütüphanesi: Derleme Kanunu uyarınca derlenen çoğaltılmış fikir ve sanat eserlerinin gönderildiği kütüphaneleri,
+ğ) Derleme Müdürlüğü: Kültür ve Turizm Bakanlığı Kütüphaneler ve Yayımlar Genel Müdürlüğüne bağlı taşra teşkilatı olarak hizmet veren İstanbul ilinde derleme iş ve işlemlerini yürütecek Derleme Müdürlüğünü,
+h) (Değişik:RG-20/12/2017-30276) Derleme mükellefi: Derleme nüshalarını Derleme Müdürlüğüne veya derleme birimlerine; Derleme Kanununun 4 üncü maddesinin birinci fıkrasının (ğ) bendindeki eserler ile (a), (b), (g) bentlerindeki eserlerin elektronik kopyalarını Milli Kütüphaneye vermekle yükümlü gerçek ya da tüzel kişiyi,
+ı) (Değişik:RG-20/12/2017-30276) Derleme nüshası: Derleme Kanunu kapsamına giren yaymak ve/veya umuma iletmek amacıyla çoğaltılarak yayımlanmış veya internet ortamında ilk iletimi yapılmış fikir ve sanat eserlerini,
+i) Derleme programı: Derleme Kanunu kapsamında derleme işlemlerinin yürütüldüğü kurumsal yazılımı,
+j) DOI: Dijital nesne tanımlayıcısını,
+k) Genel Müdürlük: Kütüphaneler ve Yayımlar Genel Müdürlüğünü,
+l) ISBN: Uluslararası Standart Kitap Numarasını,
+m) ISSN: Uluslararası Standart Süreli Yayın Numarasını,
+n) ISMN: Uluslararası Standart Müzik Numarasını,
+o) ISRC: Uluslararası standart kayıt kodunu,
+ö) Kullanıcı: Kütüphanelerde verilen hizmet ve olanaklardan yararlananları,
+p) (Ek:RG-20/12/2017-30276) Elektronik Yayın Derleme Sistemi (EYDeS): Elektronik yayınlar ile bazı eserlerin elektronik kopyalarının derlenmesine ilişkin işlem ve süreçlerin online yürütüldüğü, Milli Kütüphane Başkanlığı internet sayfası üzerinden erişilen, Milli Kütüphane Başkanlığına ait yazılım sistemini,
+ifade eder.
+İKİNCİ BÖLÜM
+Derleme Müdürlüğü, Derleme Birimleri,

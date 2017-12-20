@@ -1,0 +1,4 @@
+İdari yaptırımlar
+MADDE 18 – (1) (Değişik:RG-20/12/2017-30276) Derleme Kanununa aykırı davrandığı tespit edilen derleme mükellefleri hakkında aynı Kanunun 10 uncu maddesinde düzenlenen yaptırımlar, derleme birimleri ve Derleme Müdürlüğünün veya Milli Kütüphane Başkanlığının bildirimi üzerine veya re’sen, derlemenin yapıldığı yerdeki en büyük mülki amir tarafından uygulanır.
+(2) Derleme Kanununun 11 inci maddesinde yer alan cezaya itiraz ve cezaların tahsili işlemleri, derlemenin yapıldığı yerdeki en büyük mülki amir tarafından yürütülür.
+(3) Bin Türk Lirası ile beş bin Türk Lirası arası para cezalarının tutarının belirlenmesinde; eserin satış miktarı, kopya sayısı ve üretim maliyeti, eserin derlenme sayısı ve o günkü satış fiyatı dikkate alınır. İlk defa bu suçu işleyenler için alt sınır uygulanır.

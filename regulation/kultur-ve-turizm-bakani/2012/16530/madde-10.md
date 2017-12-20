@@ -1,0 +1,11 @@
+ÜÇÜNCÜ BÖLÜM
+Derleme Mükellefleri, Derleme Nüshaları ve
+Gönderileceği Kütüphaneler
+Derleme mükellefleri
+MADDE 10 – (1) Derleme mükellefleri şunlardır:
+a) Kitap, kabartma harfli kitap, kitapçık, ansiklopedi, albüm, atlas ve nota gibi tek başına ya da bir takımın veya bir dizinin parçası niteliğinde olan ayrı yayımlanmış eserler; gazete, dergi, yıllık, bülten, takvim gibi süreli yayınlar; afiş, kartpostal, gravür, reprodüksiyon ve basılı fotoğraf gibi grafik eserler için gerçek ya da tüzel kişi yayıncı, yayıncının olmadığı durumda basımevi ya da matbaa.
+b) Veri içeren her türlü slayt, şerit, film parçası, makara, kaset, kartuş, film ve mikroform gibi materyal; her türlü bilgisayar, müzik ve video cihazlarında kullanılmak üzere üretilmiş ses, görüntü ve veri içeren optik ve manyetik ortamlara kaydedilerek çoğaltılmış eserler ile elektronik ortamda üretilerek kullanıma sunulmuş elektronik yayınlar için yapımcı, yayımcı ya da üretici gerçek ya da tüzel kişi.
+c) Prospektüsleriyle birlikte blok veya tek olarak pul ve kağıt paralar; harita, plan ve krokiler için kullanmak ya da dağıtmak üzere çoğaltma işlemlerini yapan gerçek ya da tüzel kişi.
+ç) Yürürlükteki kanunlar ile ikili ya da çok taraflı anlaşmalar uyarınca, yabancı uyruklu gerçek ya da tüzel kişilerin Türkiye’deki kütüphane, müze, arşiv ve belgeliklerden yararlanarak hazırlamış oldukları eserler ile ülkemizde yaptıkları arkeolojik kazı ya da araştırmaların yöntem ya da sonuçlarına ilişkin olarak yurt dışında yayımlamış veya çoğaltmış oldukları eserler için hazırlayan gerçek ya da tüzel kişi.
+d) Türkiye Cumhuriyeti sınırları içinde faaliyet gösteren derleme mükelleflerinin yurt dışında basımını ve çoğaltılmasını gerçekleştirdikleri eserlerin basım ve çoğaltma işini yaptıran gerçek ya da tüzel kişiler.
+e) (Ek:RG-20/12/2017-30276) Görme engellilerin hizmetine sunulmak üzere Derleme Kanununun 4 üncü maddesinin birinci fıkrasının (a), (b) ve (g) bentlerinde belirtilen yayımlanmış eserlerin elektronik kopyaları için ise, eserin kendisi için derleme mükellefiyeti bulunan gerçek veya tüzel tüzel kişi yayıncı, yayıncının olmadığı durumda basımevi ya da matbaa ile yapımcı, yayımcı ya da üretici gerçek veya tüzel kişiler.”
