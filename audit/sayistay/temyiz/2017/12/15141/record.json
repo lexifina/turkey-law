@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43877",
+  "decision_date": "2017-12-20",
+  "source_id": 15141,
+  "chamber": "6",
+  "file_number": "40640",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15141/",
+  "source_sha256": "2ac9f292c567b96dd9fa8a53ec31a816ccf3c1b94f846b3d34c94cbcafdb628b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
