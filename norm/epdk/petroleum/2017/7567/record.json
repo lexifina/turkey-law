@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7567",
+  "decision_date": "2017-12-20",
+  "title": "2018 yılında uygulanacak olan ulusal petrol stokunun tamamlayıcı kısmın edinilmesi nedeniyle oluşabilecek kaynak ihtiyacı, finansman giderleri ve bu kısım stokların depolama ve idame maliyeti için kullanılacak gelir payı bedellerine ilişkin",
+  "resmi_gazete_date": "2017-12-29",
+  "resmi_gazete_number": "30286",
+  "categories": [
+    "Zorunlu Petrol Stoku Kupon Sistemi ve Gelir Payına İlişkin Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yblOJGVLPuA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yblOJGVLPuA="
+  ],
+  "source_sha256": "6bf3b19dc13f7acee17e555418a90acbe2ee49805805ed9db01d46ff48b8540c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4728,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-12-20",
+  "law_text_complete": true
+}
