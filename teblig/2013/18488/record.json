@@ -1,0 +1,53 @@
+{
+  "source_id": "9.5.18488",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 426)",
+  "number": "18488",
+  "path": "teblig/2013/18488",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18488&MevzuatTertip=5",
+  "source_sha256": "6984c9b4b624a7ab8b39a738559a381efe74512ce030f0a57bc8180af31ba4b7",
+  "source_bytes": 24406,
+  "published": "2013-06-15",
+  "gazette": "28678",
+  "in_force": "2017-12-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/12/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-12-21",
+      "RG-21/12/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-12-25",
+      "RG-25/12/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-06-03",
+      "RG-3/6/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-08-07",
+      "RG-7/8/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-06-29",
+      "RG-29/6/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1729,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
