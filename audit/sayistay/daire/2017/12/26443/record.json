@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "285",
+  "decision_date": "2017-12-21",
+  "source_id": 26443,
+  "chamber": "5",
+  "ilam_number": "101",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26443/",
+  "source_sha256": "7d92ac186a99fbd05ef15634ab204a2856b124724056b87dc722206b933e3311",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
