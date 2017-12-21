@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10680",
+  "decision_date": "2017-12-21",
+  "source_id": 25526,
+  "chamber": "1",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25526/",
+  "source_sha256": "3d383413768da009a992fb8cfe8cfff0746696ac64eae7eec8129ac4a17c6f78",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
