@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7533-1",
+  "decision_date": "2017-12-21",
+  "title": "Kullanıcı Mülkiyetindeki Elektrik Tesislerinin Elektrik Dağıtım Şirketlerince Devralınmasına Dair Usul ve Esaslar”",
+  "resmi_gazete_date": "2017-12-30",
+  "resmi_gazete_number": "30286",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VnAmYIKGvco=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VnAmYIKGvco="
+  ],
+  "source_sha256": "0544c3a7397d568deb276b7822ded68ec3166724187f844f1f975ca2d77ec194",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2017-12-21",
+  "law_text_complete": false
+}
