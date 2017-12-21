@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7531",
+  "decision_date": "2017-12-21",
+  "title": "Kalite Faktörünün Hesaplanmasına İlişkin Usul Ve Esaslar",
+  "resmi_gazete_date": "2017-12-30",
+  "resmi_gazete_number": "30286",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=egvQATCUMjY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=egvQATCUMjY="
+  ],
+  "source_sha256": "94955b4bd3a9f5810166303ba03d21bc92c210df86be0c4f4dec91e51a41ba8d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2017-12-21",
+  "law_text_complete": false
+}
