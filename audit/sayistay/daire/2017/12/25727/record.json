@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "12773",
+  "decision_date": "2017-12-21",
+  "source_id": 25727,
+  "chamber": "6",
+  "ilam_number": "1643",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2009,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25727/",
+  "source_sha256": "2be07f0f4c358392be4b340ae4ea12c269576959fb137250ae53efb10e2077f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
