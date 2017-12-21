@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "285",
+  "decision_date": "2017-12-21",
+  "source_id": 26445,
+  "chamber": "5",
+  "ilam_number": "101",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26445/",
+  "source_sha256": "1f70737c92f0f02d9f42a45efb76828a495541a4ecad4cd150bd6b6b0a71f124",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
