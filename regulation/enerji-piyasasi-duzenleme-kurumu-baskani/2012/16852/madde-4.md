@@ -1,0 +1,25 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Dağıtıcı: LPG dağıtım yetkisi olan ve lisanslarına işlenmesi halinde depolama, dolum, taşıma işlemleri yapabilen sermaye şirketini,
+b) Dağıtım: LPG'nin, tüplü ve otogaz olarak kullanıcılara ve bayilere, dökme olarak kullanıcılara satış ve ikmal faaliyetlerinin bütününü,
+c) Dolum tesisi: Dağıtıcının tescilli markası ve amblemini ve teknik düzenlemelere uygun tüplere veya sözleşme ile diğer bir dağıtıcının tescilli markası ve amblemini taşıyan ve teknik düzenlemelere uygun tüplere, otogaz ve dökme LPG'nin taşıma araçlarına doldurulduğu, boşaltıldığı, depolandığı ve teknik düzenlemelere göre kurulan ve çalışan bir dağıtıcıya ait tesisi,
+ç) İlgili mevzuat: Sıvılaştırılmış petrol gazları piyasasına ilişkin 5307 sayılı Kanun ve bu Kanuna göre Kurumca çıkartılacak yönetmelik, lisans, tebliğ, genelge ve ilgili Kurul kararlarını,
+d) Kötüniyet: Piyasa faaliyetinin yapılmasında, LPG’nin kaybına, karışmasına, bozulmasına veya amaç dışı kullanımına sebebiyet veren bir eylem veya ihmali,
+e) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+f) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+g) LPG yetkili teknik personel: Tesisat projelendirme ve imalatında görev alan personeli,
+ğ) LPG tüpü imalatı: LPG tüpünün teknik düzenlemelere, standartlara ve ilgili mevzuata uygun olarak imalatını,
+h) LPG tüpü muayene, test, tamir ve bakım faaliyetleri: LPG tüpünün teknik düzenlemelere, standartlara ve ilgili mevzuata uygun olarak muayene, test, tamir ve bakım faaliyetlerini,
+ı) LPG yetkili işletme personeli: LPG piyasasında görev yapacak tanker şoförleri, dolum personeli, tüp dolum personeli, tüp dağıtım araçlarının şoförleri ve tüp dağıtım personeli, tanker dolum personeli, test ve muayene elemanları ve otogaz LPG dolum personeli, pompacıları,
+i) Otogaz istasyonu: Dağıtıcı veya bunlarla tek elden satış sözleşmesi yapmış bayilerce ilgili mevzuata uygun (teknik, kalite ve güvenlik) olarak kurulup, dağıtıcının tescilli markası ve amblemi altında faaliyette bulunan ve esas itibarıyla motorlu araçların otogaz LPG, madeni yağ, temizlik ve ihtiyarî olarak bakım ile kullanıcıların, tüplü LPG hariç, diğer asgarî ihtiyaçlarını karşılayacak imkânları sunan akaryakıt istasyonu içinde veya müstakil olarak hizmet veren tesisleri,
+j) Piyasa faaliyeti: LPG'nin ithali, ihracı, depolanması, taşınması, dağıtımı ve bayiliğini,
+k) Sıvılaştırılmış Petrol Gazları (LPG): Petrol ve doğal gazdan elde edilerek basınç altında sıvılaştırılan propan, bütan ve izomerleri gibi hidrokarbonlar veya bunların karışımını,
+l) Sorumlu müdür: Nitelik, yetki ve sorumlulukları bu Yönetmelikte belirlenen personeli,
+m) (Mülga:RG-21/12/2017-30277) (…)
+n) Tehlikeli eylem: Piyasa faaliyetinin yapılmasında, bunların yapıldığı mahalde veya yakınında bulunan bir kimsenin ölümüne, sakatlanmasına veya sağlığının bozulmasına, çevrenin kirlenmesine sebep olan veya olabilecek nitelikte bulunan bir fiil veya ihmali,
+o) Teknik düzenleme: LPG'nin niteliği ile LPG faaliyetlerinde kullanılan mekân, aksam ve hareketlerin tanımlanmasında TSE standartları ve ilgili mevzuatla getirilen düzenlemeleri,
+ö) Tesis: Dolum tesisi ile LPG otogaz istasyonunu,
+p) TMMOB: Türk Mühendis ve Mimar Odaları Birliğini,
+r)(Ek:RG-15/12/2016-29919) LPG dolum tesisleri ve LPG otogaz istasyonları sorumlu müdür belgesi: LPG dolum tesisleri veya LPG otogaz istasyonlarında sorumlu müdür olarak görev yapacak sorumlu müdürler için Türk Mühendis ve Mimar Odaları Birliği tarafından düzenlenen belgeleri,
+s) (Ek:RG-15/12/2016-29919) A sınıfı iş güvenliği uzmanlığı belgesi: 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında çok tehlikeli sınıfta yer alan işyerlerinde görev yapabilmek için edinilmesi zorunlu olan belgeyi,
+ifade eder.

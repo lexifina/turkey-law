@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik sıvılaştırılmış petrol gazları (LPG) piyasasında görev yapacak sorumlu müdürleri, tanker şoförlerini, dolum personelini, tüp dolum personelini, tüp dağıtım araçlarının şoförleri ve tüp dağıtım personelini, tanker dolum personelini, test ve muayene elemanları ve otogaz LPG dolum personelini, pompacılar ile tesisat, projelendirme ve imalatında görev alan diğer personeli kapsar.

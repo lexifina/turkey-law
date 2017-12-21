@@ -1,0 +1,6 @@
+LPG dolum tesisleri ve LPG otogaz istasyonları sorumlu müdür belgeleri
+MADDE 19/A – (Ek:RG-15/12/2016-29919)
+(1) Sorumlu müdür sözleşmesinin imzalanmasından itibaren 10 iş günü içerisinde sorumlu müdürün LPG Dolum Tesisleri Sorumlu Müdür Belgesinin veya LPG Otogaz İstasyonları Sorumlu Müdür Belgesinin düzenlenmesi amacıyla TMMOB’a bağlı yetkili meslek odasına başvurması ve bu belgenin düzenlenmesini talep etmesi zorunludur. Aksi halde sorumlu müdür sözleşmesi imzalanmamış sayılır. Lisans sahibi de süresi içinde sorumlu müdürün bu başvuruyu yapmasını sağlamakla yükümlüdür.
+(2) LPG Dolum Tesisleri Sorumlu Müdür Belgesi veya LPG Otogaz İstasyonları Sorumlu Müdür Belgesi, sorumlu müdür sertifikasının kalan süresini geçmemek kaydıyla, sorumlu müdür sözleşmesinde belirtilen süre için düzenlenir.
+(3) Sorumlu müdür sözleşmesinin herhangi bir nedenle sona ermesi halinde lisans sahibi veya sorumlu müdür, sorumlu müdür sözleşmesinin sona ermesinden itibaren 10 iş günü içerisinde durumu TMMOB’a bağlı yetkili meslek odasına bildirmek ve LPG Dolum Tesisleri Sorumlu Müdür Belgesinin veya LPG Otogaz İstasyonları Sorumlu Müdür Belgesinin iptalini talep etmek zorundadır.
+(4) Sorumlu müdür sertifikasının herhangi bir nedenle iptal edilmesi halinde, ilgili LPG Dolum Tesisleri Sorumlu Müdür Belgesi veya LPG Otogaz İstasyonları Sorumlu Müdür Belgesi de iptal edilir.
