@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7538",
+  "decision_date": "2017-12-21",
+  "title": "Sevkiyat kontrol merkezi ile haberleşme sistemlerini dağıtım şirketinin belirlediği usul ve esaslar çerçevesinde bedeli kendilerine ait olmak üzere tesis edecek serbest tüketicilerin tüketim sınırına ilişkin",
+  "resmi_gazete_date": "2017-12-30",
+  "resmi_gazete_number": "30286",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4IAv3V9P1u8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4IAv3V9P1u8="
+  ],
+  "source_sha256": "3bac6cc70278d5cf7d5c35a331cb63525bc2ebaa54caf6fc1e8d94c853543724",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2017-12-21",
+  "law_text_complete": false
+}
