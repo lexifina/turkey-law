@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10682",
+  "decision_date": "2017-12-21",
+  "source_id": 25514,
+  "chamber": "1",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25514/",
+  "source_sha256": "ce2faca69539d5cae910721e6e6cffb306ce2fd84ed19ce1ad4abf8befde85a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
