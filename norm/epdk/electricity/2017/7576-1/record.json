@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7576-1",
+  "decision_date": "2017-12-21",
+  "title": "Elektrik Dağıtım Şirketlerinin Hedef Kayıp Oranlarının Belirlenmesine İlişkin Usul ve Esaslar Kapsamında Taleplerin Reddi",
+  "categories": [
+    "EDAŞ Hedef Kayıp Oranları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aldtszgn2Gc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aldtszgn2Gc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gxv8wARqpnA="
+  ],
+  "source_sha256": "4abf2bc857b6c26b2a221e154040f07a5a58522f628fad6bf201870db0382f76",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 15926,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-12-21",
+  "law_text_complete": true
+}
