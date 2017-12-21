@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "7568_1",
+  "decision_date": "2017-12-21",
+  "title": "Sıvılaştırılmış Petrol Gazları (LPG) Piyasasında 2018 yılı gelir payı bedeline ilişkin",
+  "resmi_gazete_date": "2017-12-30",
+  "resmi_gazete_number": "30286",
+  "categories": [
+    "Gelir Payı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XGSk7RyhcFo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XGSk7RyhcFo="
+  ],
+  "source_sha256": "32c9aaf6db126313b515e2f2d89c096a83328087ae90bb54e153960beebea6e6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 24208,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2017-12-21",
+  "law_text_complete": false
+}
