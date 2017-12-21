@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7577",
+  "decision_date": "2017-12-21",
+  "title": "2018 yılı için “Doğal Gaz Dağıtım Sektörü Bağlantı ve Hizmet Bedellerine İlişkin Usul ve Esaslar”da yer verilen bedellerin belirlenmesine yönelik",
+  "resmi_gazete_date": "2017-12-30",
+  "resmi_gazete_number": "30286",
+  "categories": [
+    "2018"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=y3gW7KDK440=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=y3gW7KDK440="
+  ],
+  "source_sha256": "ae1af5fe2815848ed2b7fb3140977c1b856770a08121186011129be223a97e98",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 12694,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-12-21",
+  "law_text_complete": true
+}
