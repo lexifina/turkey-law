@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-12-23",
+  "issue": "30279",
+  "edition": "regular",
+  "item": 16,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "7065 Geçici İthalat Sözleşmesinde Yapılan Değişikliklere İlişkin Belgelerin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171223-16.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171223.htm",
+  "index_sha256": "b819fb0a2042c5beed3b7c049debb4b8754e5cf065bf2e19c8fd68716d5cbfbf",
+  "index_header": "23 Aralık 2017 ... 30279 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171223.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
