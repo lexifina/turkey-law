@@ -1,0 +1,81 @@
+23 Aralık 2017 CUMARTESİ
+Resmî Gazete
+Sayı : 30279
+TEBLİĞ
+Ekonomi Bakanlığından:
+İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN
+TEBLİĞ
+(TEBLİĞ NO: 2017/35)
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 24/6/2016 tarihli ve 29752 sayılı
+Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin
+Tebliğ (Tebliğ No: 2016/20) ile Rusya Federasyonu menşeli 7005.29 gümrük
+tarife pozisyonlu “Diğerleri” eşya tanımlı renksiz düzcam
+ithalatına yönelik olarak başlatılan ve T.C. Ekonomi Bakanlığı İthalat
+Genel Müdürlüğü tarafından yürütülen damping
+soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe
+konulmasıdır.
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 14/6/1989
+tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun,
+20/10/1999 tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe
+konulan İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999
+tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin
+Önlenmesi Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Tebliğde geçen;
+a) GTP: Gümrük Tarife Pozisyonunu,
+b) Kurul: İthalatta Haksız Rekabeti Değerlendirme
+Kurulunu,
+c) TGTC: İstatistik Pozisyonlarına Bölünmüş Türk
+Gümrük Tarife Cetvelini
+ifade
+eder.
+Karar
+MADDE 4 – (1) Yürütülen soruşturma sonucunda, Rusya
+Federasyonu menşeli soruşturma konusu ürünün ithalatının dampingli
+olduğu ve yerli üretim dalında maddi zarar tehdidine neden olduğu tespit
+edilmiştir. Soruşturma kapsamındaki bilgi, bulgu ve tespitleri içeren ve bu
+Tebliğin hukuken bir parçası olan “Bilgilendirme Raporu”na “www.tpsa.gov.tr” internet adresinden “Damping ve
+Sübvansiyon- Bilgilendirme Raporları” bağlantıları seçilerek ulaşılması
+mümkündür.
+(2) Bu çerçevede,
+soruşturma neticesinde ulaşılan tespitleri değerlendiren Kurulun kararı ve
+Ekonomi Bakanının onayı ile tabloda GTP’si, eşya
+tanımı ve menşe ülkesi belirtilen eşyanın Türkiye’ye ithalatında aşağıdaki
+tabloda gösterilen oranlarda dampinge karşı kesin
+önlem uygulanmasına karar verilmiştir.
+G.T.P.
+Eşyanın Tanımı
+Menşe Ülke
+Firma Unvanı
+Dampinge Karşı Önlem (CIF %)
+7005.29
+Diğerleri
+Rusya
+Federasyonu
+Guardian Steklo Rostov LLC
+%8
+Guardian Steklo Ryazan LLC
+%8
+JSC Saratovstroysteklo
+%8
+Diğerleri
+%10
+Uygulama
+MADDE 5 – (1) Gümrük idareleri, 4 üncü maddede GTP, eşya
+tanımı ve menşe ülkesi belirtilen eşyanın, diğer mevzuat hükümleri saklı
+kalmak kaydıyla, serbest dolaşıma giriş rejimi kapsamındaki ithalatında karşısında
+gösterilen oranlarda dampinge karşı kesin önlemi
+tahsil eder.
+(2) Bilgilendirme Raporunda soruşturma konusu ürün
+ve benzer ürün ile ilgili açıklamalar genel içerikli olup, uygulamaya esas
+olan yürürlükteki TGTC’de yer alan GTP ve 4 üncü maddede yer alan tablodaki
+eşya tanımıdır.
+(3) Önleme tabi ürünün yürürlükteki TGTC’de yer alan tarife pozisyonunda ve/veya tanımında
+yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil
+etmez.
+Yürürlük
+MADDE 6 – (1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 7 – (1) Bu Tebliğ hükümlerini Ekonomi Bakanı yürütür.
