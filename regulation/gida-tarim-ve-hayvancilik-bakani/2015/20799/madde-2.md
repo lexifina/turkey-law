@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik sığır cinsi, koyun ve keçi türü, evcil tek tırnaklılar ile domuz türü evcil hayvanların yurt içindeki nakilleri sırasında “Hayvanların Nakilleri Sırasında Refahı ve Korunması Yönetmeliği” kapsamında barındırıldıkları, kontrol edildikleri, dinlendirildikleri istasyonlara ilişkin esas ve usuller ile buraların kurulması ve denetlenmesine dair iş ve işlemlerini kapsar.
