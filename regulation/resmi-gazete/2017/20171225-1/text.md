@@ -1,0 +1,1141 @@
+25 Aralık 2017 PAZARTESİ
+Resmî Gazete
+Sayı : 30281
+YÖNETMELİK
+Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi
+Genel Müdürlüğünden:
+TÜRKİYE
+CUMHURİYETİ DEVLET DEMİRYOLLARI İŞLETMESİ
+GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME
+VE UNVAN
+DEĞİŞİKLİĞİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı, kariyer ve liyakat
+ilkeleri çerçevesinde hizmet gerekleri, personel planlaması esas alınarak
+Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğünde
+çalışan personelin görevde yükselme ve unvan değişikliklerine ilişkin usul
+ve esasları belirlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik, Türkiye
+Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğünde memur
+kadroları ile sözleşmeli personel pozisyonlarında istihdam edilen
+personelin, müdür ve daha alt görevlere yapılacak görevde yükselme
+mahiyetindeki asaleten atanacaklar ile en az ortaöğretim düzeyinde mesleki
+veya teknik eğitim sonucu kazanılan unvanlara ilişkin unvan değişikliği
+mahiyetindeki asaleten atanacakları kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik, 14/7/1965
+tarihli ve 657 sayılı Devlet Memurları Kanunu, 22/1/1990 tarihli ve 399
+sayılı Kanun Hükmünde Kararname ile 15/3/1999 tarihli ve 99/12647 sayılı
+Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarında
+Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelik
+hükümlerine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Alt görev: 27/9/2017 tarihli ve 3046 sayılı
+Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha alt hiyerarşi
+içindeki görevleri,
+b) Genel Müdür: TCDD Genel Müdürünü,
+c) Genel Müdürlük: TCDD Genel Müdürlüğünü,
+ç) Görevde yükselme: Teşebbüs personelinin üst
+görevlere yapılacak atamalarını,
+d) Hizmet süresi: 657 sayılı Devlet Memurları
+Kanununun 68 inci maddesinin birinci fıkrasının (B) bendinde sayılan
+süreleri,
+e) Merkez: TCDD merkez teşkilatını,
+f) Taşra Teşkilatı: Bölge Müdürlüklerini,
+g) TCDD: Türkiye Cumhuriyeti Devlet Demiryolları
+İşletmesini,
+ğ) Teşebbüs: TCDD’yi,
+h) Unvan değişikliği sınavı: En az ortaöğretim
+düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin
+görevlere atanabilmek için yapılan yazılı ve sözlü sınavı,
+ı) Üst görev: 3046 sayılı Kanunda belirtilen
+hiyerarşik kademeler çerçevesinde daha üst düzeydeki görevleri,
+ifade eder.
+İKİNCİ BÖLÜM
+Görevde Yükselme ve Unvan Değişikliğine İlişkin
+Esaslar
+Görev
+grupları
+MADDE 5 –
+(1) Bu Yönetmelik kapsamında yer
+alan hizmet grupları aşağıda belirtilmiştir.
+a) Yönetim Hizmetleri Grubu;
+1) İşletme müdürü, proje müdürü, koruma ve güvenlik
+müdürü, servis müdürü, müdür, şube müdürü, servis müdür yardımcısı,
+2) Koruma ve güvenlik müdür yardımcısı, müdür
+yardımcısı,
+3) Amir, koruma ve güvenlik amiri, gar şefi,
+4) İstasyon şefi, koruma ve güvenlik amir
+yardımcısı, şef, koruma ve güvenlik şefi, itfaiye şefi, koruma ve güvenlik
+grup şefi,
+b) Hukuk hizmetleri grubu;
+1) Hukuk müşaviri,
+c) Araştırma ve planlama hizmetleri grubu;
+1) Müşavir, başuzman, sivil savunma uzmanı,
+2) Uzman,
+ç) İdari hizmetler grubu;
+1) Başkontrolör,
+2) Kontrolör,
+3) Repartitör
+4) Bilgisayar işletmeni, hareket memuru, koruma ve
+güvenlik görevlisi, memur, puantör, sekreter, şoför, tren teşkil memuru,
+veri hazırlama ve kontrol işletmeni, veznedar,
+d) Teknik hizmetler grubu;
+1) Başmühendis,
+2) Teknik Şef,
+3) Şef yardımcısı,
+4) Başteknisyen,
+5) Sürveyan, makinist,
+e) Bilgi işlem grubu;
+1) Çözümleyici,
+2) Programcı yardımcısı,
+f) Yardımcı hizmetler grubu;
+1) Aşçı, dağıtıcı, hizmetli, itfaiyeci, teknisyen
+yardımcısı.
+(2) Unvan değişikliğine tabi pozisyonlar:
+a) Avukat, çocuk eğitimcisi, fizikçi, hemşire,
+istatistikçi, kaptan, kimyager, mimar, mühendis, mütercim, öğretmen,
+programcı, psikolog, şehir plancısı, tekniker, teknisyen.
+Görevde
+yükselme sınavına tabi olmadan yapılacak atamalarda aranacak şartlar
+MADDE 6 – (1) İç Denetçi ve Hukuk Müşaviri kadrolarına
+yapılacak atamalar görevde yükselme sınavına tabi değildir. Ancak, bu
+unvanlara atamalarda en az 657 sayılı Devlet Memurları Kanununun 68 inci
+maddesinin (B) bendinde belirtilen hizmet süresine sahip olma şartı yanında
+aşağıdaki şartlar aranır:
+a) İç denetçi;
+1) Geçerli olduğu yılın Genel Yatırım ve Finansman
+Programında yer alan şartları taşımak,
+b) Hukuk müşaviri;
+1) Avukat (Müşavir avukat) unvanında görev yapmış
+olmak veya en az yedi yıl Avukatlık hizmeti bulunmak,
+Görevde
+yükselme sınavı sonucu atanacaklarda aranacak genel şartlar
+MADDE 7 – (1) Bu Yönetmelikte belirtilen kadro ve
+pozisyonlara görevde yükselme suretiyle atanabilmek için,
+a) Teşebbüs bünyesinde en az altı ay çalışmış
+olmak,
+b) Müşavir, işletme müdürü, proje müdürü, şube
+müdürü, müdür, başuzman, servis müdürü, servis müdür yardımcısı, koruma ve
+güvenlik müdürü unvanlarına yapılacak atamalarda 657 sayılı Devlet
+Memurları Kanununun 68 inci maddesinin (B) bendinde belirtilen hizmet
+süresine sahip olmak,
+c) Yazılı ve sözlü sınavda başarılı olmak,
+şartları aranır.
+Görevde
+yükselme sınavı sonucunda atanacaklarda aranacak özel şartlar
+MADDE 8 – (1) Bu Yönetmelik kapsamında yer alan kadro ve
+pozisyonlara görevde yükselme sınavı sonucunda yapılacak atamalarda aranacak
+özel şartlar aşağıda belirtilmiştir:
+a) Proje müdürü;
+1) Dört yıllık teknik yükseköğrenim görmüş olmak,
+2) Başmühendis unvanında en az iki yıl görev yapmış
+olmak.
+b) Şube müdürü;
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Başmühendis, Mimar (Başmimar), Tabip, Diş
+Tabibi, Başkontrolör, Çözümleyici, unvanında görev yapmış olmak,
+3) Kontrolör, Müdür Yardımcısı (Şube Müdür
+Yardımcısı, Muhasebe Müdür Yardımcısı, Personel ve İdari İşler/İnsan
+Kaynakları Müdür Yardımcısı), Uzman unvanında en az iki yıl veya Şef
+pozisyonunda veya lisans seviyesinde öğrenimle ihraz edilen unvan
+değişikliğine tabi pozisyonlar içerisinde yer alan unvanlarda en az sekiz
+yıl görev yapmış olmak,
+4) Hizmet içi eğitim (Demiryolu Bakım Dairesi Şube
+Müdürlükleri için Demiryolu Bakım Dairesi ve Teşkilleri Yönetim, Demiryolu
+Modernizasyon Dairesi Şube Müdürlükleri için Demiryolu Modernizasyon
+Projeleri, Demiryolu Yapım Dairesi Şube Müdürlükleri için Demiryolu Yapım
+Projeleri, Etüt Proje Dairesi Şube Müdürlükleri için Etüt ve Proje İşleri
+Yönetimi, Trafik ve İstasyon Yönetimi Dairesi Şube Müdürlükleri için Trafik
+ve İstasyon Yönetimi, Destek Hizmetleri Dairesi Şube Müdürlükleri için
+Destek Hizmetleri Yönetimi, Muhasebe ve Finansman Dairesi Şube Müdürlükleri
+için Mali İşler Yönetimi, Emlak Dairesi Şube Müdürlükleri için Emlak
+Yönetimi, Liman ve Feribot Yönetimi Dairesi Şube Müdürlükleri için Liman ve
+Feribot İşletmeciliği, Satınalma ve Stok Kontrol Dairesi Şube Müdürlükleri
+için Satınalma ve Stok Kontrol Yönetimi, Strateji Geliştirme Dairesi Şube
+Müdürlükleri için Yatırım Planlama ve Strateji Yönetimi, Bilgi
+Teknolojileri Dairesi Şube Müdürlükleri için Bilişim Teknolojileri,
+Uluslararası İlişkiler Dairesi Şube Müdürlükleri için Uluslararası
+İlişkiler, Organizasyonlar ve Avrupa Birliği, İnsan Kaynakları Dairesi Şube
+Müdürlükleri için İnsan Kaynakları Yönetimi, Kapasite Yönetim Dairesi Şube
+Müdürlükleri için Kapasite Yönetim, Hukuk Müşavirliği Mevzuat Şube
+Müdürlüğü için Mevzuat, Dava Takip ve İdari İşler Şube Müdürlüğü için Dava
+Takip) kursunda başarılı olmak,
+c) Müdür yardımcısı (Şube müdür yardımcısı);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) En az yedi yıl hizmeti bulunmak,
+3) Repartitör (Başrepartitör), uzman pozisyonunda
+görev yapmış olmak,
+4) Teknik şef, şef pozisyonundaki unvanlarda en az
+üç yıl veya öğretmen, tekniker, başteknisyen unvanında veya lisans
+seviyesinde öğrenimle ihraz edilen unvan değişikliğine tabi pozisyonlar
+içerisinde yer alan unvanlarda en az beş yıl görev yapmış olmak,
+5) Hizmet içi eğitim (Demiryolu Modernizasyon
+Dairesi Şube Müdürlükleri için Demiryolu Modernizasyon Projeleri, Demiryolu
+Yapım Dairesi Şube Müdürlükleri için Demiryolu Yapım Projeleri, Demiryolu
+Bakım Dairesi Şube Müdürlükleri için Demiryolu Bakım Dairesi ve Teşkilleri
+Yönetim, Destek Hizmetleri Dairesi Şube Müdürlükleri için Destek Hizmetleri
+Yönetimi, Muhasebe ve Finansman Dairesi Şube Müdürlükleri için Mali İşler
+Yönetimi, Emlak Dairesi Şube Müdürlükleri için Emlak Yönetimi, Etüt Proje
+Dairesi Şube Müdürlükleri için Etüt ve Proje İşleri Yönetimi, Liman ve
+Feribot Yönetimi Dairesi Şube Müdürlükleri için Liman ve Feribot
+İşletmeciliği, Satınalma ve Stok Kontrol Dairesi Şube Müdürlükleri için
+Satınalma ve Stok Kontrol Yönetimi, Strateji Geliştirme Dairesi Şube
+Müdürlükleri için Yatırım Planlama ve Strateji Yönetimi, Bilgi
+Teknolojileri Dairesi Şube Müdürlükleri için Bilişim Teknolojileri, Trafik
+ve İstasyon Yönetimi Dairesi Şube Müdürlükleri için Trafik ve İstasyon
+Yönetimi, Uluslararası İlişkiler Dairesi Şube Müdürlükleri için
+Uluslararası İlişkiler, Organizasyonlar ve Avrupa Birliği, İnsan Kaynakları
+Dairesi Şube Müdürlükleri için İnsan Kaynakları Yönetimi, Kapasite Yönetim
+Dairesi Şube Müdürlükleri için Kapasite Yönetim, Hukuk Müşavirliği Mevzuat
+Şube Müdürlüğü için Mevzuat, Dava Takip ve İdari İşler Şube Müdürlüğü için
+Dava Takip) kursunda başarılı olmak,
+ç) Uzman (Hukuk birimlerinde);
+1) Adalet yüksekokulu mezunları için en az on bir
+yıl hizmeti bulunmak ve Şef (Büro şefi) unvanında en az beş yıl görev
+yapmış olmak veya,
+2) Hukuk fakültesi mezunları için en az yedi yıl
+hizmeti bulunmak,
+d) Başmühendis;
+1) Mühendis unvanında en az sekiz yıl görev yapmış
+olmak,
+e) Başteknisyen;
+1) Sürveyan, teknisyen unvanında; lise dengi teknik
+öğrenim mezunları için en az on yıl, teknik yüksekokul veya fakülte
+mezunları için en az altı yıl hizmeti bulunmak,
+f) Şef (Büro şefi);
+1) Kontrolör, teknik şef pozisyonunda görev yapmış
+olmak veya,
+2) En az iki yıllık yüksekokul mezunu olmak,
+3) İki veya üç yıllık yüksekokul mezunları için en
+az yedi yıl, dört yıllık yüksekokul veya fakülte mezunları için en az beş
+yıl hizmeti bulunmak,
+4) Repartitör unvanında görev yapmış olmak veya
+Memur unvanında en az üç yıl görev yapmış olmak,
+g) İtfaiye şefi;
+1) 18/4/1999 tarihinde Teşebbüste görevde
+bulunanlar için en az lise ve dengi okul, diğerleri için en az iki yıllık
+yüksekokul mezunu olmak,
+2) İtfaiyeci (İtfaiye eri) unvanında en az yedi yıl
+görev yapmış olmak,
+ğ) Memur, hareket memuru, koruma ve güvenlik
+görevlisi, tren teşkil memuru, puantör (puantör, liman puantörü), şoför,
+veri hazırlama ve kontrol işletmeni, veznedar;
+1) En az lise dengi okul mezunu olmak,
+h) Servis müdürü (Demiryolu Bakım);
+1) Mühendislik fakültelerinin İnşaat, Harita,
+Makine, Jeoloji, Metalurji, Elektrik, Elektrik-Elektronik, Elektronik,
+Elektronik ve Haberleşme bölümleri ya da bu bölümlere denk olan diğer
+bölümlerden mezun olmak,
+2) Servis müdür yardımcısı (Yol/Demiryolu
+Bakım/Tesisler) unvanında en az bir yıl görev yapmış olmak,
+ı) Servis müdür yardımcısı (Demiryolu Bakım);
+1) Mühendislik Fakültelerinin İnşaat, Makine,
+Harita, Jeoloji, Metalürji, Elektrik, Elektrik-Elektronik, Elektronik,
+Elektronik ve Haberleşme, Fizik bölümleri ya da bu bölümlere denk olan
+diğer bölümlerden mezun olmak,
+2) Başmühendis unvanında en az iki yıl görev yapmış
+olmak,
+3) Demiryolu Bakım Dairesi ve Teşkilleri Yönetim
+Kursunda başarılı olmak,
+4) Başkontrolör (Yol/Tesisler Başkontrolörü),
+kontrolör (Yol/Demiryolu Bakım/Tesisler/EST Bakım Kontrolörü), müdür
+(Yol/Demiryolu Bakım Müdürü) unvanında en az iki yıl görev yapmış ve en az
+dört yıllık yükseköğrenim görmüş olanlarda bu bendin (1) ve (2) alt
+bentlerinde belirtilen şartlar aranmaz,
+i) Kontrolör (Yol Bakım Kontrolörü);
+1) En az iki yıllık yükseköğrenim mezunu olmak,
+2) Teknik şef (Yol Şube Şefi, Yol Kısım/Yol Bakım
+Onarım/Yol Bakım Şefi) unvanında en az üç yıl görev yapmış olmak,
+j) Kontrolör (EST Bakım Kontrolörü);
+1) En az iki yıllık yüksekokul mezunu olmak,
+2) Teknik şef (Tesisler/EST Bakım Şefi) unvanında
+en az üç yıl görev yapmış olmak,
+k) Müdür (Fabrika Grup Müdürü);
+1) Mühendislik fakültelerinin (Çankırı Makas
+Fabrikası için; Elektrik, Elektronik, Elektrik-Elektronik, Makine,
+Metalurji, Raylı Sistemler, Mekatronik, Endüstri, diğer fabrikalar için;
+İnşaat Makine, Endüstri, Metalurji) bölümleri ya da bu bölümlere denk olan
+diğer bölümlerden mezun olmak,
+2) Başmühendis unvanında görev yapmış olmak veya
+mühendis unvanında en az beş yıl görev yapmış olmak,
+3) Demiryolu Bakım Dairesi ve Teşkilleri Yönetim
+Kursunda başarılı olmak,
+l) Müdür (Mekanik Atölye Müdürü);
+1) Mühendislik fakültelerinin Makine,
+Elektrik-Elektronik, Elektronik, Elektrik, Mekatronik, Metalürji bölümleri
+ya da bu bölümlere denk olan diğer bölümlerden mezun olmak,
+2) Müdür yardımcısı (Mekanik Atölye Müdür
+Yardımcısı), Başmühendis unvanında en az iki yıl veya Mühendis unvanında en
+az beş yıl görev yapmış olmak,
+3) Demiryolu Bakım Dairesi ve Teşkilleri Yönetim
+Kursunda başarılı olmak,
+m) Müdür yardımcısı (Mekanik Atölye Müdür
+Yardımcısı);
+1) Mühendislik Fakültelerinin Makine,
+Elektrik-Elektronik, Elektronik, Elektrik, Mekatronik, Metalürji bölümleri
+ya da bu bölümlere denk olan diğer bölümlerden mezun olmak,
+2) Mühendis unvanında en az üç yıl görev yapmış
+olmak,
+3) Demiryolu Bakım Dairesi ve Teşkilleri Yönetim
+Kursunda başarılı olmak,
+n) Müdür (Demiryolu Bakım Müdürü);
+1) Mühendislik fakültelerinin İnşaat, Makine,
+Harita, Jeoloji, Metalürji, Elektrik, Elektrik-Elektronik, Elektronik,
+Elektronik ve Haberleşme, Fizik bölümleri ya da bu bölümlere denk olan
+diğer bölümlerden mezun olmak,
+2) Mühendis unvanında en az beş yıl görev yapmış
+olmak,
+3) Demiryolu Bakım Dairesi ve Teşkilleri Yönetim
+Kursunda başarılı olmak,
+4) Teknik şef (Yol Şube Şefi, Tesisler/EST Bakım
+Şefi, Yol Kısım/Yol Bakım Onarım/Yol Bakım Şefi, Köprüler Şefi, Aplikasyon
+Şefi, Kaynak Şefi) unvanında en az beş yıl görev yapmış ve en az dört
+yıllık yükseköğrenim görmüş olanlarda bu bendin (1) ve (2) alt bentlerinde
+belirtilen şartlar aranmaz,
+o) Teknik şef (Yol Bakım Şefi);
+1) 18/4/1999 tarihinde Teşebbüste görevde
+bulunanlar için en az lise dengi teknik okul, diğerleri için en az iki
+yıllık yüksekokul mezunu olmak,
+2) Lise dengi teknik öğrenim mezunları için en az
+yedi yıl, iki yıllık teknik yüksekokul mezunları için en az beş yıl, dört
+yıllık yüksekokul veya fakülte mezunları için en az üç yıl görev yapmış
+olmak,
+3) Yol Orta Kademe Teknik Elemanları Hazırlama veya
+Yol Kısım Şefi Hazırlama veya Yol Teknik Elemanları veya Yol Mühendisleri
+Temel veya Demiryolu Bakım Teknik Elemanları (Yol) kursunda başarılı olmak,
+ö) Teknik şef (EST Bakım Şefi);
+1) 18/4/1999 tarihinde Teşebbüste görevde
+bulunanlar için en az lise dengi teknik okul, diğerleri için en az iki
+yıllık yüksekokul mezunu olmak,
+2) Lise dengi teknik öğrenim mezunları için en az
+yedi yıl, iki yıllık teknik yüksekokul mezunları için en az beş yıl, dört
+yıllık yüksekokul veya fakülte mezunları için en az üç yıl görev yapmış
+olmak,
+3) Elektrifikasyon birimlerine atanacaklar için
+Tesisler Şefi/EST Bakım Hazırlama (Elektrifikasyon), Sinyalizasyon ve
+Telekomünikasyon birimlerine atanacaklar için Tesisler Şefi/EST Bakım Şefi
+Hazırlama (Sinyalizasyon ve/veya Telekomünikasyon) kursunda veya Yol
+Mühendisleri Temel veya Demiryolu Bakım Teknik Elemanları (EST) kursunda
+başarılı olmak,
+p) Teknik şef (Köprüler Şefi);
+1) 18/4/1999 tarihinde Teşebbüste görevde
+bulunanlar için en az lise dengi teknik okul, diğerleri için en az iki
+yıllık teknik yüksekokul veya fakültelerin; İnşaat programlarından mezun
+olmak,
+2) Lise dengi teknik öğrenim mezunları için en az
+yedi yıl, iki yıllık teknik yüksekokul mezunları için en az beş yıl, dört
+yıllık yüksekokul veya fakülte mezunları için en az üç yıl görev yapmış
+olmak,
+3) Köprü Ekip Şefi Hazırlama Kursu veya Köprü Ekip
+Şefi, Köprüler Şefi kursu veya Yol Mühendisleri Temel kursunda başarılı
+olmak,
+r) Teknik şef (Aplikasyon Şefi);
+1) 18/4/1999 tarihinde Teşebbüste görevde
+bulunanlar için en az lise dengi teknik okul, diğerleri için en az iki
+yıllık teknik yüksekokul veya fakültelerin; Kadastro, Harita bölümleri ya
+da bu bölümlere denk olan diğer bölümlerden mezun olmak,
+2) Lise dengi teknik öğrenim mezunları için en az
+yedi yıl, iki yıllık teknik yüksekokul mezunları için en az beş yıl, dört
+yıllık yüksekokul veya fakülte mezunları için en az üç yıl görev yapmış
+olmak,
+3) Yol Orta Kademe Teknik Elemanları Hazırlama veya
+Yol Kısım Şefi Hazırlama veya Yol Teknik Elemanları veya Yol Mühendisleri
+Temel veya Demiryolu Bakım Teknik Elemanları (Yol) kursunda başarılı olmak,
+s) Teknik şef (Kaynak Şefi);
+1) 18/4/1999 tarihinde Teşebbüste görevde
+bulunanlar için en az lise dengi teknik okul, diğerleri için en az iki
+yıllık teknik yüksekokul veya fakültelerin; Metalürji, Makine, Elektrik
+bölümleri ya da bu bölümlere denk olan diğer bölümlerden mezun olmak,
+2) Lise dengi teknik öğrenim mezunları için en az
+yedi yıl, iki yıllık teknik yüksekokul mezunları için en az beş yıl, dört
+yıllık yüksekokul veya fakülte mezunları için en az üç yıl görev yapmış
+olmak,
+3) Yol Orta Kademe Teknik Elemanları Hazırlama veya
+Yol Kısım Şefi Hazırlama veya Yol Teknik Elemanları veya Yol Mühendisleri
+Temel veya Demiryolu Bakım Teknik Elemanları (Yol) kursunda başarılı olmak,
+ş) Teknik şef (Tarım Şefi);
+1) 18/4/1999 tarihinde Teşebbüste görevde
+bulunanlar için en az lise dengi teknik okul, diğerleri için en az iki
+yıllık yüksekokul mezunu olmak,
+2) Lise dengi teknik öğrenim mezunları için en az
+yedi yıl, iki veya üç yıllık yüksekokul mezunları için en az beş yıl, dört
+yıllık yüksekokul veya fakülte mezunları için en az üç yıl hizmeti
+bulunmak,
+t) Sürveyan (Yol Sürveyanı);
+1) En az lise dengi teknik okulların Yol, Alt Yapı,
+Üst Yapı, İnşaat, Yapı, Yapı Ressamlığı, Harita, Kadastro, Jeoteknik
+bölümleri ya da bu bölümlere denk olan diğer bölümlerden mezun olmak veya,
+2) En az lise dengi teknik okul mezunu olarak Memur
+(Hat Bakım Onarım Memuru) unvanında görev yapmış olmak,
+u) Sürveyan (EST Sürveyanı);
+1) En az lise dengi teknik okulların Elektrik,
+Elektronik, Telekomünikasyon, Haberleşme, Bilgisayar, Mekatronik bölümleri
+ya da bu bölümlere denk olan diğer bölümlerden mezun olmak veya,
+2) En az lise dengi teknik okul mezunu olarak Memur
+(Hat Bakım Onarım Memuru) unvanında görev yapmış olmak,
+ü) Memur (Hat Bakım Onarım Memuru);
+1) En az lise dengi okul mezunu olmak,
+2) Teknisyen yardımcısı (Yol Çavuşu), memur (Yol ve
+Geçit Kontrol Memuru) unvanında görev yapmış olmak,
+v) Memur (Yol ve Geçit Kontrol Memuru);
+1) En az lise dengi teknik okul mezunu olmak,
+y) Memur (Tarım Memuru);
+1) Teknisyen yardımcısı (Tarım Çavuşu) unvanında
+görev yapmış olmak veya,
+2) En az lise dengi okul mezunu olmak,
+z) Servis müdürü (Demiryolu Modernizasyon);
+1) Mühendislik fakültelerinin İnşaat, Harita,
+Makine, Jeoloji, Metalurji, Elektrik, Elektrik-Elektronik, Elektronik,
+Elektronik ve Haberleşme bölümleri ya da bu bölümlere denk olan diğer
+bölümlerden mezun olmak,
+2) Servis müdür yardımcısı (Tesisler/Yol/Demiryolu
+Bakım/Demiryolu Modernizasyon) unvanında en az bir yıl görev yapmış olmak,
+aa) Servis müdür yardımcısı (Demiryolu
+Modernizasyon);
+1) Mühendislik Fakültelerinin İnşaat, Harita,
+Makine, Jeoloji, Metalurji, Elektrik, Elektrik-Elektronik, Elektronik, Elektronik
+ve Haberleşme, Endüstri, Bilgisayar, Kontrol, Telekomünikasyon, Fizik
+bölümleri ya da bu bölümlere denk olan diğer bölümlerden mezun olmak,
+2) Müdür (Yol/Demiryolu Bakım Onarım Müdürü),
+kontrolör (Tesisler/Yol Kontrolörü), başmühendis unvanında en az iki yıl
+veya mühendis unvanında en az beş yıl görev yapmış olmak,
+bb) Servis müdürü (Trafik ve İstasyon Yönetimi);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Servis müdür yardımcısı (Trafik/Trafik ve
+İstasyon Yönetimi) unvanında en az bir yıl görev yapmış olmak,
+cc) Servis müdür yardımcısı (Trafik ve İstasyon
+Yönetimi);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Başkontrolör (Hareket Başkontrolörü), kontrolör
+(Hareket Kontrolörü) unvanında görev yapmış olmak,
+çç) Müdür (Trafik Yönetim Merkezi Müdürü);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Başkontrolör (Trafik Başkontrolörü) unvanında en
+az üç yıl veya kontrolör (Trafik Kontrolörü) unvanında en az altı yıl görev
+yapmış olmak,
+dd) Müdür (Gar Müdürü);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Başkontrolör (Hareket Başkontrolörü), kontrolör
+(Hareket Kontrolörü) unvanında görev yapmış olmak, başkontrolör (Trafik
+Başkontrolörü) unvanında en az iki yıl, gar şefi, müdür yardımcısı (Gar
+Müdür Yardımcısı) unvanında en az üç yıl veya kontrolör (Trafik Kontrolörü)
+unvanında en az beş yıl görev yapmış olmak,
+ee) Başkontrolör (Trafik Başkontrolörü);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Kontrolör (Trafik Kontrolörü) unvanında en az üç
+yıl görev yapmış olmak,
+ff) Gar şefi;
+1) En az iki yıllık yükseköğrenim görmüş olmak,
+2) İstasyon şefi unvanında en az bir yıl görev
+yapmış olmak,
+gg) Kontrolör (Trafik Kontrolörü);
+1) En az iki yıllık yükseköğrenim görmüş olmak,
+2) İstasyon şefi unvanında en az bir yıl görev
+yapmış olmak,
+3) Dispeçer veya Trafik Kontrolörü Kursunda
+başarılı olmak,
+4) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce
+Dispeçer veya Trafik Kontrolörü Kursunda başarılı olanlarda bu bendin (2)
+alt bendinde yer alan şartlar aranmaz,
+ğğ) İstasyon şefi;
+1) 18/4/1999 tarihinde Teşebbüste görevde
+bulunanlar için en az lise, diğerleri için en az iki yıllık yüksekokul
+mezunu olmak,
+2) Hareket memuru unvanında; lise ve dengi okul
+mezunları için en az üç yıl, iki veya üç yıllık yüksekokul mezunları için
+en az iki yıl, dört yıllık yüksekokul veya fakülte mezunları için en az bir
+yıl görev yapmış olmak,
+hh) Servis müdürü (Kapasite Yönetim);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Servis müdür yardımcısı (Trafik/Trafik ve
+İstasyon Yönetimi/Kapasite) unvanında en az bir yıl görev yapmış olmak,
+ıı) Servis müdür yardımcısı (Kapasite Yönetim);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Amir (Hareket Bölge Amiri), başkontrolör
+(Hareket Başkontrolörü), kontrolör (Hareket Kontrolörü) unvanında görev
+yapmış olmak,
+ii) Servis Müdürü (Emlak);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Servis müdür yardımcısı (Emlak ve İnşaat/Emlak)
+unvanında en az bir yıl veya başmühendis, başmimar unvanında en az iki yıl
+veya mühendis (İnşaat, Harita, Makine, Elektrik), mimar, şehir plancısı
+unvanında en az üç yıl görev yapmış olmak,
+jj) Servis müdür yardımcısı (Emlak);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Başmühendis, başmimar unvanında en az iki yıl
+veya müdür yardımcısı (Şube Müdür Yardımcısı), uzman, mühendis (İnşaat,
+Harita, Makine, Elektrik), mimar, şehir plancısı unvanında en az üç yıl
+veya teknik şef (Emlak Şefi, Bölge Kısım Şefi), Şef (Kira İşleri Şefi)
+unvanında en az dört yıl görev yapmış olmak,
+kk) Teknik şef (Emlak Şefi, Bölge Kısım Şefi);
+1) 18/4/1999 tarihinde Teşebbüste görevde bulunanlar
+için en az lise dengi teknik okul, diğerleri için en az iki yıllık teknik
+yüksekokul mezunu olmak,
+2) Lise dengi teknik öğrenim mezunları için en az
+dokuz yıl, iki veya üç yıllık teknik yüksekokul mezunları için en az yedi
+yıl, dört yıllık teknik yüksekokul veya fakülte mezunları için en az beş
+yıl hizmeti bulunmak,
+ll) Şef (Kira İşleri Şefi);
+1) 18/4/1999 tarihinde Teşebbüste görevde
+bulunanlar için en az lise, diğerleri için en az iki yıllık yüksekokul
+mezunu olmak,
+2) Lise ve dengi okul mezunları için en az dokuz
+yıl, iki veya üç yıllık yüksekokul mezunları için en az yedi yıl, dört
+yıllık yüksekokul veya fakülte mezunları için en az beş yıl hizmeti
+bulunmak,
+mm) Servis müdürü (İnsan Kaynakları);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Servis müdür yardımcısı (Personel ve İdari
+İşler/İnsan Kaynakları) unvanında en az bir yıl görev yapmış olmak,
+nn) Servis müdür yardımcısı (İnsan Kaynakları);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Müdür yardımcısı (Şube Müdür Yardımcısı, Fabrika
+Personel ve İdari İşler/İnsan Kaynakları Müdür Yardımcısı, Liman Personel
+ve İdari İşler/İnsan Kaynakları Müdür Yardımcısı), uzman unvanında veya
+unvan değişikliğine tabi pozisyonlar içerisinde yer alan unvanlarda görev
+yapmış olmak veya Şef (Personel Şefi) unvanında en az bir yıl veya diğer
+Şef pozisyonundaki unvanlarda üç yıl görev yapmış olmak,
+3) İnsan Kaynakları Yönetimi kursunda başarılı
+olmak,
+oo) Müdür (Fabrika İnsan Kaynakları Müdürü, Liman
+İnsan Kaynakları Müdürü);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Müdür yardımcısı (Şube Müdür Yardımcısı), uzman,
+müdür yardımcısı (Fabrika Personel ve İdari İşler/İnsan Kaynakları Müdür
+Yardımcısı, Liman Personel ve İdari İşler/İnsan Kaynakları Müdür
+Yardımcısı) unvanında görev yapmış olmak veya Şef (Personel Şefi) unvanında
+en az bir yıl veya diğer şef pozisyonundaki unvanlarda en az üç yıl görev
+yapmış olmak,
+3) İnsan Kaynakları Yönetimi kursunda başarılı
+olmak,
+öö) Müdür yardımcısı (Fabrika İnsan Kaynakları
+Müdür Yardımcısı, Liman İnsan Kaynakları Müdür Yardımcısı);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) En az yedi yıl hizmeti bulunmak,
+3) Uzman, Şef (Personel Şefi, Büro Şefi) unvanında
+görev yapmış olmak,
+4) İnsan Kaynakları Yönetimi kursunda başarılı
+olmak,
+pp) Şef (Personel Şefi);
+1) En az iki yıllık yüksekokul mezunu olmak,
+2) Şef (Büro Şefi) unvanında en az bir yıl görev
+yapmış olmak,
+3) İnsan Kaynakları Yönetimi kursunda başarılı
+olmak,
+rr) Şef (Eğitim Şefi);
+1) Amir (Eğitim Program Amiri) unvanında görev
+yapmış olmak veya,
+2) En az iki yıllık yükseköğrenim görmüş olmak,
+3) Şef (Büro Şefi) unvanında en az bir yıl görev
+yapmış olmak,
+4) Eğitim Programlama kursunda başarılı olmak,
+ss) Servis müdürü (Muhasebe ve Finansman);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Merkez mali işler müdür yardımcısı, servis müdür
+yardımcısı (Mali İşler/Muhasebe ve Finansman) unvanında en az bir yıl görev
+yapmış olmak,
+şş) Servis müdür yardımcısı (Muhasebe ve
+Finansman);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Merkez mali işler müdür yardımcısı, müdür
+yardımcısı (Muhasebe Müdür Yardımcısı, Şube Müdür Yardımcısı), uzman
+unvanında görev yapmış olmak veya şef (Mali İşler Şefi) unvanında en az bir
+yıl veya diğer şef pozisyonlarındaki unvanlarda üç yıl görev yapmış olmak,
+3) Mali İşler Yönetimi Kursunda başarılı olmak,
+tt) Müdür (Muhasebe Müdürü) kadrolarına atanmak
+için;
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Müdür yardımcısı (Şube Müdür Yardımcısı,
+Muhasebe Müdür Yardımcısı), uzman unvanında görev yapmış olmak veya şef
+(Mali İşler Şefi) unvanında en az bir yıl veya diğer şef pozisyonlarındaki
+unvanlarda üç yıl görev yapmış olmak,
+3) Mali İşler Yönetimi Kursunda başarılı olmak,
+uu) Müdür yardımcısı (Muhasebe Müdür Yardımcısı);
+1) İki veya üç yıllık yüksekokul mezunları için en
+az dokuz yıl, dört yıllık yüksekokul veya fakülte mezunları için en az yedi
+yıl hizmeti bulunmak,
+2) Şef (Mali İşler Şefi) unvanında görev yapmış
+olmak veya Şef (Büro Şefi) unvanında en az üç yıl görev yapmış olmak,
+3) Mali İşler Uygulamaları ve Yönetimi Kursunda
+başarılı olmak,
+üü) Şef (Mali İşler Şefi);
+1) En az iki yıllık yüksekokul mezunu olmak,
+2) Şef (Büro Şefi) unvanında en az bir yıl veya şef
+(Vezne Şefi) unvanında en az iki yıl görev yapmış olmak,
+3) Mali İşler Uygulamaları ve Yönetimi Kursunda
+başarılı olmak,
+vv) Şef (Vezne Şefi);
+1) En az iki yıllık yüksekokul mezunu olmak,
+2) İki veya üç yıllık yüksekokul mezunları için en
+az yedi yıl, dört yıllık yüksekokul veya fakülte mezunları için en az beş
+yıl hizmeti bulunmak,
+3) Veznedar unvanında en az dört yıl veya veznedar
+(Başveznedar) unvanında en az iki yıl görev yapmış olmak,
+yy) Servis müdürü (Satın Alma ve Stok Kontrol);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Servis müdür yardımcısı (Malzeme/Satın Alma ve
+Stok Kontrol) unvanında en az bir yıl veya başmühendis unvanında en az iki
+yıl görev yapmış olmak,
+zz) Servis müdür yardımcısı (Satın Alma ve Stok
+Kontrol);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Başmühendis, müdür yardımcısı (Teslim Alma ve
+Yollama Müdür Yardımcısı, Ana İkmal Merkezi Müdür Yardımcısı) unvanında
+görev yapmış olmak veya müdür yardımcısı (Şube Müdür Yardımcısı), uzman,
+mühendis unvanında en az iki yıl veya şef (Büro Şefi), Tekniker unvanında
+en az üç yıl görev yapmış olmak,
+3) Satın Alma ve Stok Kontrol Yönetimi kursunda
+başarılı olmak,
+aaa) Servis müdürü (Destek Hizmetleri);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Servis müdür yardımcısı (Destek Hizmetleri)
+unvanında en az bir yıl görev yapmış olmak,
+bbb) Servis müdür yardımcısı (Destek Hizmetleri);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Müdür yardımcısı, uzman pozisyonlarında görev
+yapmış olmak veya şef, teknik şef pozisyonlarında en az üç yıl veya lisans
+seviyesinde öğrenimle ihraz edilen unvan değişikliğine tabi pozisyonlar
+içerisinde yer alan unvanlarda veya tekniker unvanında en az üç yıl görev
+yapmış olmak,
+3) Destek Hizmetleri Yönetimi kursunda başarılı
+olmak,
+ccc) Sivil savunma uzmanı;
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Müdür yardımcısı, uzman unvanında iki yıl görev
+yapmış olmak,
+ççç) Müdür (Kreş Müdürü);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Müdür yardımcısı, uzman pozisyonlarında görev
+yapmış olmak veya şef pozisyonlarında, çocuk eğitimcisi (Çocuk Gelişim ve
+Eğitimcisi) unvanında en az üç yıl veya lisans seviyesinde öğrenimle ihraz
+edilen unvan değişikliğine tabi pozisyonlar içerisinde yer alan unvanlarda
+en az sekiz yıl görev yapmış olmak,
+3) Destek Hizmetleri Yönetimi kursunda başarılı
+olmak,
+ddd) Koruma ve güvenlik müdürü (Merkez);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Koruma ve güvenlik müdür yardımcısı unvanında
+iki yıl veya koruma ve güvenlik amiri unvanında dört yıl görev yapmış
+olmak,
+3) Koruma ve Güvenlik Personeli Yönetimi,
+Yöneticiliği, Yeterliliği ve Etkinliği Kursunda başarılı olmak,
+4) 10/6/2004 tarihli ve 5188 sayılı Özel Güvenlik
+Hizmetlerine Dair Kanunun 11 inci maddesi gereği silahlı çalışma izni
+bulunmak,
+eee) Koruma ve güvenlik müdür yardımcısı (Merkez);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) En az on iki yıl hizmeti bulunmak,
+3) Koruma ve güvenlik amiri unvanında iki yıl veya
+koruma ve güvenlik amir yardımcısı unvanında üç yıl veya koruma ve güvenlik
+şefi unvanında dört yıl görev yapmış olmak,
+4) Koruma ve Güvenlik Personeli Yönetimi,
+Yöneticiliği, Yeterliliği ve Etkinliği Kursunda başarılı olmak,
+5) 5188 sayılı Özel Güvenlik Hizmetlerine Dair
+Kanunun 11 inci maddesi gereği silahlı çalışma izni bulunmak,
+fff) Koruma ve güvenlik müdürü (Bölge);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Koruma ve güvenlik müdür yardımcısı unvanında
+görev yapmış olmak veya koruma ve güvenlik amiri unvanında en az bir yıl
+veya koruma ve güvenlik amir yardımcısı unvanında iki yıl, koruma ve
+güvenlik şefi unvanında üç yıl görev yapmış olmak,
+3) Koruma ve Güvenlik Personeli Yönetimi,
+Yöneticiliği, Yeterliliği ve Etkinliği Kursunda başarılı olmak,
+4) 5188 sayılı Özel Güvenlik Hizmetlerine Dair
+Kanunun 11 inci maddesi gereği silahlı çalışma izni bulunmak,
+ggg) Koruma ve güvenlik müdür yardımcısı (Bölge);
+1) En az iki yıllık yüksekokul mezunu olmak,
+2) Koruma ve güvenlik amiri unvanında görev yapmış
+olmak veya koruma ve güvenlik amir yardımcısı unvanında en az bir yıl veya
+koruma ve güvenlik şefi unvanında iki yıl görev yapmış olmak,
+3) Koruma ve Güvenlik Personeli Yönetimi,
+Yöneticiliği, Yeterliliği ve Etkinliği Kursunda başarılı olmak,
+4) 5188 sayılı Özel Güvenlik Hizmetlerine Dair
+Kanunun 11 inci maddesi gereği silahlı çalışma izni bulunmak,
+ğğğ) Koruma ve güvenlik amiri;
+1) En az iki yıllık yüksekokul mezunu olmak,
+2) Koruma ve güvenlik amir yardımcısı unvanında
+görev yapmış olmak veya koruma ve güvenlik şefi unvanında en az bir yıl
+veya koruma ve güvenlik grup şefi unvanında en az üç yıl görev yapmış
+olmak,
+3) Koruma ve Güvenlik Personeli Yönetimi,
+Yöneticiliği, Yeterliliği ve Etkinliği Kursunda başarılı olmak,
+4) 5188 sayılı Özel Güvenlik Hizmetlerine Dair
+Kanunun 11 inci maddesi gereği silahlı çalışma izni bulunmak,
+hhh) Koruma ve güvenlik amir yardımcısı;
+1) En az iki yıllık yüksekokul mezunu olmak,
+2) Şef (Koruma ve Güvenlik Şefi) unvanında en az
+bir yıl veya koruma ve güvenlik grup şefi unvanında iki yıl görev yapmış
+olmak,
+3) Koruma ve Güvenlik Personeli Yönetimi,
+Yöneticiliği, Yeterliliği ve Etkinliği Kursunda başarılı olmak,
+4) 5188 sayılı Özel Güvenlik Hizmetlerine Dair
+Kanunun 11 inci maddesi gereği silahlı çalışma izni bulunmak,
+ııı) Şef (Koruma ve Güvenlik Şefi);
+1) 18/4/1999 tarihinde Teşebbüste görevde
+bulunanlar için en az lise ve dengi okul, diğerleri için en az iki yıllık
+yüksekokul mezunu olmak,
+2) Koruma ve güvenlik grup şefi unvanında en az bir
+yıl veya koruma ve güvenlik görevlisi unvanında en az yedi yıl görev yapmış
+olmak,
+3) 5188 sayılı Özel Güvenlik Hizmetlerine Dair
+Kanunun 11 inci maddesi gereği silahlı çalışma izni bulunmak,
+iii) Koruma ve güvenlik grup şefi;
+1) 18/4/1999 tarihinde Teşebbüste görevde
+bulunanlar için en az lise ve dengi okul, diğerleri için en az iki yıllık
+yüksekokul mezunu olmak,
+2) Lise ve dengi okul mezunları için en az dokuz
+yıl, iki veya üç yıllık yüksekokul mezunları için en az yedi yıl, dört
+yıllık yüksekokul veya fakülte mezunları için en az beş yıl hizmeti
+bulunmak,
+3) Koruma ve güvenlik görevlisi unvanında en az beş
+yıl görev yapmış olmak,
+4) 5188 sayılı Özel Güvenlik Hizmetlerine Dair
+Kanunun 11 inci maddesi gereği silahlı çalışma izni bulunmak,
+jjj) Çözümleyici;
+1) Dört yıllık yüksek teknik yükseköğrenim görmüş
+olmak,
+2) En az beş yıl hizmeti bulunmak,
+3) Programcı (Uzman Programcı) unvanında en az iki
+yıl görev yapmış olmak veya programcı unvanında en az dört yıl görev yapmış
+olmak,
+4) Bilişim Teknolojileri kursunda başarılı olmak,
+kkk) Programcı yardımcısı;
+1) Bilgisayar programcılığı eğitimi veren fakülte
+veya yüksekokullardan mezun olmak veya dört yıllık yüksekokul mezunu olup,
+bilgisayar işletmeni, veri hazırlama ve kontrol işletmeni unvanında en az
+üç yıl görev yapmış olmak,
+lll) Müdür (Liman Teknik Müdürü);
+1) Dört yıllık teknik yükseköğrenim görmüş olmak,
+2) Başmühendis unvanında görev yapmış olmak veya
+mühendis, Teknik Şef (Bakım Onarım Şefi, Elektrik İşleri Şefi) unvanında en
+az üç yıl veya mühendis unvanında en az beş yıl görev yapmış olmak,
+mmm) Müdür (Liman Operasyon Müdürü);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Şef (Liman Servis Şefi, Liman Servis Terminal
+Şefi) unvanında en az üç yıl veya şef (Liman Şefi) unvanında en az beş yıl
+görev yapmış olmak,
+nnn) Teknik şef (Elektrik İşleri Şefi);
+1) Dört yıllık teknik yükseköğrenim (Elektrik,
+Elektronik bölümleri ya da bu bölümlere denk olan diğer bölümler) mezunu
+olmak,
+2) Şef yardımcısı, başteknisyen, sürveyan,
+mühendis, tekniker, teknisyen unvanında en az beş yıl hizmeti bulunmak,
+ooo) Teknik şef (Bakım Onarım Şefi);
+1) Dört yıllık teknik yükseköğrenim (Makine bölümü
+ya da bu bölüme denk olan diğer bölümler) mezunu olmak,
+2) Şef yardımcısı, başteknisyen, sürveyan,
+mühendis, tekniker, teknisyen unvanında en az beş yıl hizmeti bulunmak,
+ööö) Şef (Liman Servis Şefi, Liman Servis Terminal
+Şefi);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Şef (Liman Şefi) unvanında en az iki yıl görev
+yapmış olmak,
+ppp) Şef (Liman Şefi);
+1) İki veya üç yıllık yüksekokul mezunları için en
+az yedi yıl, dört yıllık yüksekokul veya fakülte mezunları için en az beş
+yıl hizmeti bulunmak,
+2) Şef Yardımcısı (Liman Şef Yardımcısı), Şef
+(Liman Ambar Şefi) unvanında en az bir yıl görev yapmış olmak,
+rrr) Şef (Liman Ambar Şefi);
+1) 18/4/1999 tarihinde Teşebbüste görevde
+bulunanlar için en az lise ve dengi okul, diğerleri için en az iki yıllık
+yüksekokul mezunu olmak,
+2) Lise ve dengi okul mezunları için en az dokuz
+yıl, iki veya üç yıllık yüksekokul mezunları için en az yedi yıl, dört
+yıllık yüksekokul veya fakülte mezunları için en az beş yıl hizmeti bulunmak,
+3) Puantör (Liman Başpuantörü) unvanında en az iki
+yıl veya puantör (Liman Puantörü) unvanında en az üç yıl görev yapmış
+olmak,
+sss) Avukat (Müşavir Avukat);
+1) En az beş yıl avukatlık hizmeti bulunmak,
+şşş) Müdür (Bölge DERY Müdürü);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) EYS Personeli Hazırlama Kursu veya Avrupa
+Birliği 2004/49/EC nolu Emniyet Direktifi’ne uygun Emniyet Yönetim Sistemi
+sertifikalı eğitiminde başarılı olmak,
+ttt) Başuzman (DERY Başuzmanı);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) EYS Personeli Hazırlama Kursu veya Avrupa
+Birliği 2004/49/EC nolu Emniyet Direktifi’ne uygun Emniyet Yönetim Sistemi
+sertifikalı eğitiminde başarılı olmak,
+uuu) Kontrolör (DERY Kontrolörü);
+1) İki veya üç yıllık teknik yüksekokul mezunları
+için en az on bir yıl hizmeti bulunmak,
+2) Dört yıllık yüksekokul veya fakülte mezunları
+için en az dokuz yıl hizmeti bulunmak,
+3) EYS Kaza Araştırma ve İnceleme Kursu Eğitimi
+veya Kaza ve Olay Raporları Hazırlama Eğitiminde başarılı olmak,
+üüü) Müdür (Jeoteknik Mühendislik Hizmetleri
+Müdürü);
+1) Mühendislik Fakültelerinin Jeoloji, Jeofizik,
+Maden veya İnşaat Mühendisliği bölümleri ya da bu bölümlere denk olan diğer
+bölümlerden mezun olmak,
+2) Başmühendis unvanında görev yapmış olmak veya
+Mühendis unvanında en az sekiz yıl görev yapmış olmak,
+vvv) Müdür (EST Mühendislik Hizmetleri Müdürü);
+1) Mühendislik Fakültelerinin Mekatronik, Elektrik,
+Elektronik, Elektrik-Elektronik, Elektronik ve Haberleşme veya Fizik
+Mühendisliği bölümleri ya da bu bölümlere denk olan diğer bölümlerden mezun
+olmak,
+2) Başmühendis unvanında görev yapmış olmak veya
+Mühendis unvanında en az sekiz yıl görev yapmış olmak,
+yyy) Müdür (Malzeme ve Kaynak Mühendislik
+Hizmetleri Müdürü);
+1) Mühendislik Fakültelerinin Makine, Metalürji,
+Malzeme veya Metalürji ve Malzeme Mühendisliği bölümleri ya da bu bölümlere
+denk olan diğer bölümlerden mezun olmak,
+2) Başmühendis unvanında görev yapmış olmak veya
+Mühendis unvanında en az sekiz yıl görev yapmış olmak,
+3) Tahribatlı/Tahribatsız muayene yöntemlerinden en
+az birinden sertifika sahibi olmak,
+zzz) Müdür (Mali ve İdari İşler Müdürü);
+1) Dört yıllık yükseköğrenim görmüş olmak,
+2) Müdür yardımcısı pozisyonunda en az üç yıl veya
+Şef pozisyonunda en az beş yıl görev yapmış olmak,
+aaaa) Müdür (Yol Üstyapı Mühendislik Hizmetleri
+Müdürü);
+1) Mühendislik Fakültelerinin Makine, İnşaat,
+Elektrik-Elektronik, Mekatronik bölümleri ya da bu bölümlere denk olan
+diğer bölümlerden mezun olmak,
+2) Başmühendis unvanında görev yapmış olmak veya
+Mühendis unvanında en az sekiz yıl görev yapmış olmak,
+3) Demiryolu üstyapı ölçüm makinelerinin ölçme ve
+değerlendirme sertifikalarından en az birine sahip olmak,
+bbbb) Müdür (Teknik Projeler ve Mühendislik
+Hizmetleri Müdürü);
+1) Başmühendis unvanında görev yapmış olmak veya
+mühendis unvanında en az sekiz yıl görev yapmış olmak,
+2) Proje Yöneticisi sertifikası olmak.
+Unvan
+değişikliği suretiyle atanacaklarda aranacak şartlar
+MADDE 9 – (1) Unvan değişikliği suretiyle yapılacak atamalarda
+aranacak şartlar unvanlar itibariyle aşağıda belirtilmiştir.
+a) Avukat;
+1) Hukuk Fakültesi mezunu olmak,
+2) Avukatlık ruhsatnamesine sahip olmak,
+3) Yapılacak unvan değişikliği sınavında başarılı
+olmak,
+b) Çocuk Eğitimcisi;
+1) Üniversitelerin, yüksekokulların veya meslek
+liselerinin ilgili bölümlerinden mezun olmak,
+2) Yapılacak unvan değişikliği sınavında başarılı
+olmak,
+c) Fizikçi, Kimyager, Mimar, Mühendis, Psikolog,
+Şehir Plancısı;
+1) Üniversitelerin ilgili bölümlerinden mezun
+olmak,
+2) Yapılacak unvan değişikliği sınavında başarılı
+olmak,
+ç) Hemşire;
+1) Üniversitelerin, yüksekokulların veya sağlık
+meslek liselerinin ilgili bölümlerinden mezun olmak,
+2) Yapılacak unvan değişikliği sınavında başarılı
+olmak,
+d) İstatistikçi;
+1) Üniversitelerin ilgili bölümlerinden mezun
+olmak,
+2) Yapılacak unvan değişikliği sınavında başarılı
+olmak,
+e) Kaptan, Kaptan (Kılavuz Kaptan);
+1) 28/11/2006 tarihli ve 26360 sayılı Resmî
+Gazete’de yayımlanan Kılavuz Kaptanların Yeterlikleri, Eğitimleri,
+Belgelendirilmeleri ve Çalışma Usulleri Hakkında Yönetmelikte belirtilen
+şartları taşımak,
+2) Yapılacak unvan değişikliği sınavında başarılı
+olmak,
+f) Mütercim;
+1) Üniversitelerin ilgili bölümlerinden mezun
+olmak,
+2) Son başvuru tarihi itibariyle son beş yıl
+içerisinde Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığınca yapılan
+Yabancı Dil Bilgisi Seviye Tespit Sınavından (YDS) (A) seviyesinde puan
+almış olmak,
+3) Yapılacak unvan değişikliği sınavında başarılı
+olmak,
+g) Öğretmen;
+1) Üniversitelerin ilgili bölümlerinden mezun olmak
+(TCDD meslek dersi öğretmenleri hariç),
+2) Yapılacak unvan değişikliği sınavında başarılı
+olmak,
+ğ) Programcı;
+1) Bilgisayar programcılığı eğitimi veren fakülte
+veya yüksekokullardan mezun olmak, 2)
+Yapılacak unvan değişikliği sınavında başarılı olmak,
+h) Tekniker;
+1) İki yıllık yüksekokulların ilgili bölümlerinden
+mezun olmak,
+2) Yapılacak unvan değişikliği sınavında başarılı
+olmak,
+ı) Teknisyen;
+1) Lise dengi mesleki veya teknik eğitim-öğretim
+veren okulların ilgili bölümünden mezun olmak,
+2) Yapılacak unvan değişikliği sınavında başarılı
+olmak.
+ÜÇÜNCÜ BÖLÜM
+Görevde Yükselme ve Unvan Değişikliği Sınav
+Esasları
+Sınav
+şartı
+MADDE 10
+– (1) Görevde yükselme veya unvan
+değişikliği suretiyle atanacakların yazılı ve sözlü sınavda başarılı
+olmaları gerekir.
+Duyuru ve
+başvuru
+MADDE 11
+– (1) Görevde yükselme veya unvan değişikliği
+suretiyle atama yapılacak kadro veya pozisyonlar yazılı sınavlardan en az
+otuz gün önce yazılı ve/veya elektronik ortamda ilan edilir. Başvuru
+tarihinin son günü itibarıyla; ilan edilen, birden fazla kadro ve pozisyon
+için gerekli şartları taşıyan personel, farklı kadro ve pozisyonlardan
+sadece biri için başvuruda bulunabilir. Aylıksız izinde bulunanlar da dâhil
+olmak üzere, ilgili mevzuatı uyarınca verilen izinleri kullanmakta
+olanların da sınava katılmaları mümkündür.
+(2) İnsan Kaynakları Dairesi Başkanlığı, yapılan
+başvuruları inceleyerek atama şartlarını taşıyan ve taşımaması nedeniyle
+sınava kabul edilmeyenleri gerekçesi ile birlikte Teşebbüsün
+internet/intranet sitesinden ilan eder. İlan edilen listelere itirazlar, ilan
+tarihinden itibaren beş iş günü içerisinde İnsan Kaynakları Dairesi
+Başkanlığına yapılır. İtirazlar, son itiraz iş gününden sonraki beş iş günü
+içerisinde sonuçlandırılarak Teşebbüsün internet/intranet sitesinden ilan
+edilir.
+(3) Diğer kurum ve kuruluşların personeli, aday
+memurlar ile Teşebbüste ilk defa sözleşme yenilemesi yapılmamış personel
+görevde yükselme ve unvan değişikliği sınavına başvuramaz.
+Yazılı
+sınav
+MADDE 12
+– (1) Yazılı sınav, bu sınava
+ilişkin konu başlıklarına duyuruda yer verilmek suretiyle belirlenecek
+konularda yapılır. Yazılı sınav, Teşebbüs tarafından yapılabileceği gibi
+Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına, Milli Eğitim Bakanlığına,
+Türkiye ve Orta Doğu Amme İdaresi Enstitüsü Genel Müdürlüğüne veya
+yükseköğretim kurumlarından birine yaptırılabilir.
+(2) Yazılı sınav, yüz tam puan üzerinden
+değerlendirilir. Yazılı sınavda yüz puan üzerinden en az altmış puan
+alanlar başarılı sayılırlar.
+Sözlü
+sınav
+MADDE 13
+– (1) Yazılı sınavda başarılı
+sayılanlar en yüksek puan alan adaydan başlamak üzere ilan edilen kadro
+veya pozisyon sayısının beş katına kadar aday sözlü sınava alınır. Sözlü
+sınava alınacaklar listesinde son adayla aynı puana sahip olan personelin
+tamamı sözlü sınava alınır.
+(2) İlgili personel, sınav kurulunun her bir üyesi
+tarafından;
+a) Sınav konularına ilişkin bilgi düzeyi,
+b) Bir konuyu kavrayıp özetleme, ifade yeteneği ve
+muhakeme gücü,
+c) Liyakati, temsil kabiliyeti, tutum ve
+davranışlarının göreve uygunluğu,
+ç) Özgüveni, ikna kabiliyeti ve inandırıcılığı,
+d) Genel kültürü ve genel yeteneği,
+e) Bilimsel ve teknolojik gelişmelere açıklığı,
+esas alınarak yüz tam puan üzerinden
+değerlendirilir. Her üyenin vermiş olduğu puanların aritmetik ortalaması
+alınarak personelin sözlü sınav puanı tespit edilir. Sözlü sınavda yüz
+üzerinden en az yetmiş puan alanlar başarılı sayılır.
+Başarı
+sıralaması
+MADDE 14
+– (1) Görevde yükselme veya unvan
+değişikliği suretiyle ilan edilen boş kadro veya pozisyon sayısı kadar
+atama yapılmasında başarı puanı esas alınır. Başarı puanı, yazılı ve sözlü
+sınav puanlarının aritmetik ortalaması esas alınmak suretiyle belirlenir.
+Sınav sonuçları Teşebbüsün internet/intranet sitesinde ilan edilir.
+(2) Görevde yükselme veya unvan değişikliği
+sınavında başarılı olmalarına rağmen, ilan edilen kadro veya pozisyon
+sayısı nedeniyle ataması yapılamayacak personelden en fazla asıl aday
+sayısı kadar personel, ihtiyaç duyulması halinde başarı sıralaması listesinde
+yedek olarak belirlenebilir.
+(3) Başarı puanının eşit olması durumunda
+sırasıyla;
+a) Hizmet süresi fazla olanlara,
+b) Daha üst öğrenimi bitirmiş olanlara,
+c) Üst öğrenim mezuniyet notu yüksek olanlara,
+öncelik verilmek suretiyle, en yüksek puandan
+başlamak üzere başarı sıralaması belirlenir.
+(4) Teşebbüs tarafından tercih alınması durumunda
+ise başarı sıralaması esas alınarak ilgili personelin tercihlerine göre
+atamaları yapılır.
+Görevde
+yükselme veya unvan değişikliği suretiyle atanma
+MADDE 15 –
+(1) Atanmaya hak kazanan
+personelin, başarı sıralaması listesinin kesinleşmesinden itibaren altmış
+gün içerisinde tercihlerine göre atamaları yapılır.
+(2) Duyurulan kadro veya pozisyonlardan;
+a) Atanma şartlarını taşımadıkları için sınavların
+geçersiz sayılması veya bu sebeple atamaların iptal edilmesi, atanılan
+göreve geçerli bir mazeret olmaksızın süresi içinde başlanmaması ya da
+atanma hakkından vazgeçilmesi,
+b) Emeklilik, ölüm, memurluktan çekilme veya
+çıkarılma, başka unvanlı kadro veya pozisyonlara ya da başka bir kuruma
+naklen atanma,
+sebepleriyle boş kalan veya boşalan kadro ve
+pozisyonlara ihtiyacın devam etmesi halinde; başarı sıralamasının
+kesinleştiği tarihten itibaren altı aylık süreyi aşmamak kaydıyla, aynı
+unvanlı kadro veya pozisyonlar için yapılacak ilk sınava ilişkin duyuruya
+kadar, bu Yönetmeliğin 14 üncü maddesine göre belirlenmiş olması halinde,
+yedekler arasından başarı sıralamasına göre atama yapılabilir.
+(3) Görevde yükselme veya unvan değişikliği
+sınavına herhangi bir sebeple katılmayanlar ile başarısız olan veya
+yedeklerden başarı sıralaması listesinin kesinleştiği tarihten itibaren
+altı ay içindeki ilk sınava ilişkin duyuruya kadar atanmamış olanlar ya da
+atanma haklarından herhangi bir sebeple vazgeçenler, aynı unvanlı kadro
+veya pozisyonlara yapılacak atamalar için bu Yönetmelikte öngörülen bütün
+usul ve esaslara tabidir.
+Unvan
+değişikliğine tabi pozisyonlara yapılacak atamalar
+MADDE 16
+– (1) Unvan değişikliği sınavı, belirlenecek
+görev alanları ve atama yapılacak görevin niteliğine ilişkin konularda
+yaptırılır ve bu sınavlara katılacaklarda Teşebbüste veya öğrenim durumları
+ile ilgisi bulunmayan görevlerde belirli süre hizmet yapmış olma şartı
+aranmaz.
+(2) En az ortaöğretim düzeyinde mesleki veya teknik
+eğitim sonucu kazanılan unvanlara ilişkin görevlere atanmaları, bu
+Yönetmelikte belirtilen usul ve esaslar çerçevesinde yapılan unvan
+değişikliği sınavı sonundaki başarı sırasına göre yapılır.
+(3) Bu Yönetmelik kapsamındaki personelden doktora
+öğrenimini bitirmiş olanlar, unvan değişikliği sınavına katılmaksızın
+öğrenimle ihraz edilen görevlere atanabilirler.
+(4) Unvan değişikliği sınavlarıyla ilgili iş ve
+işlemleri sınav kurulu yürütür.
+Sınav
+kurulu ve görevleri
+MADDE 17 –
+(1) Teşebbüs tarafından yapılacak
+veya yaptırılacak sınavlara ilişkin görevde yükselme işlemlerini yürütmek
+üzere beş kişiden oluşacak sınav kurulu veya kurulları teşkil edilir. Sınav
+kurulu veya kurulları atamaya yetkili amir veya görevlendireceği kişinin
+başkanlığında atamaya yetkili amirce belirlenecek insan kaynakları temsilcisi
+veya temsilcileri ile diğer üyelerden oluşur. İhtiyaç duyulması halinde
+kurum dışından kamu görevlileri arasından kurullara üye veya üyeler
+görevlendirilebilir. Aynı usulle yedek üyeler de belirlenir. Sınav kurulunu
+teşkil eden üyeler görevde yükselme sınavına alınacak personelden
+lisansüstü öğrenim hariç öğrenim ve bulundukları unvanlar itibariyle daha
+düşük seviyede olamazlar.
+(2) Sınav kurulu başkan ve üyeleri; eşlerinin, ikinci
+dereceye kadar (bu derece dahil) kan ve kayın hısımlarının katıldığı
+sınavlarda görev alamazlar. Görev aldıklarının tespit edilmesi halinde bu
+üye veya üyeler sınav kurulu üyeliğinden çıkartılır ve bunların yerine
+yedek üye veya üyeler görevlendirilir. Asıl üyenin bulunmadığı hallerde
+toplantıya yedek üye katılır.
+(3) Sınav kurulu, sınavların yapılması veya
+yaptırılması, sınav sonuçlarının ilanı, itirazların sonuçlandırılması ve
+sınavlara ilişkin diğer işleri yürütür.
+(4) Sınav kurulu, üye tamsayısı ile toplanır.
+Kararlar oy çokluğuyla alınır. Gerekli görülmesi halinde taşra teşkilatında
+aynı usul ile sözlü sınava yönelik olarak beş kişiden müteşekkil sınav
+kurulu veya kurulları oluşturulabilir.
+(5) Sınav kurulunun sekretarya hizmetleri İnsan
+Kaynakları Dairesi Başkanlığınca yürütülür.
+Sınav
+sonuçlarının açıklanması ve itiraz
+MADDE 18
+– (1) Sınav sonuçları, sınavların
+yapıldığı tarihten itibaren en geç otuz gün içinde sınav kurulu tarafından
+Teşebbüsün internet/intranet sitesinde ilan edilir ve aynı tarih itibariyle
+adaylara tebliğ edilmiş sayılır. İlgililer, ilan tarihinden itibaren beş iş
+günü içerisinde sınav sonuçlarına itiraz edebilir. İnsan Kaynakları Dairesi
+Başkanlığına yazılı olarak yapılacak itiraz başvuruları, ilgisine göre
+sınav kurulunca incelenir veya sınavı yapan kuruma incelettirilir. İnceleme
+sonuçları en geç on iş günü içerisinde yazılı olarak ilgililere bildirilir.
+İtiraz üzerine verilen karar kesindir.
+(2) Yazılı sınavlarda, itiraz sonucu sınav
+kurulunca hatalı olduğu sonucuna varılan sorular, iptal edilerek tüm
+adaylarca doğru yapılmış kabul edilir.
+Sınavların
+geçersiz sayılması
+MADDE 19
+– (1) Sınavlarda kopya çekenler,
+kopya verenler veya bu gibi hareketlere teşebbüs edenler ile sınav
+kâğıtlarına belirtici işaret koyanlar sınav salonundan çıkarılır ve
+düzenlenen bir tutanakla sınavları geçersiz sayılır. Ayrıca haklarında
+disiplin hükümlerine göre işlem yapılır.
+(2) Sınava girecek adayın yerine başka bir kişinin
+sınava girdiğinin anlaşılması halinde, ilgilinin sınavı geçersiz sayılır ve
+bu husus bir tutanakla belirlenir. Ayrıca bu kişiler hakkında adli ve
+disiplin hükümlerine göre işlem yapılır.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Görev
+grupları arasında geçişler
+MADDE 20
+– (1) 399 sayılı Kanun Hükmünde
+Kararnamenin Eki I sayılı cetvelinde yer alan unvanlarda görev yapanlardan,
+atanılacak kadronun gerektirdiği öğrenim şartını taşıyanların diğer görev
+gruplarına geçişleri hariç olmak üzere, görev grupları arasındaki geçişler
+aşağıdaki esaslar çerçevesinde yapılır.
+a) Ana görev gruplarında; alt grupların kendi
+içinde veya daha alt gruplarında yer alan görevlere, atama yapılacak
+görevin gerektirdiği öğrenim şartını taşımak kaydı ve personelin isteği ile
+görevde yükselme sınavına tabi tutulmadan atama yapılabilir. Ancak, dört
+yıllık yükseköğrenim görmüş olma şartını taşıyan ve 399 sayılı Kanun Hükmünde
+Kararnamenin Eki I sayılı cetvelinde yer alan unvanlarda görev yapanların,
+İşletme Müdürü, Müşavir, Başuzman, Müdür kadrolarına görevde yükselme
+sınavına tabi tutulmadan atamaları yapılabilir.
+b) Gruplar arası görevde yükselme niteliğindeki
+geçişler ve alt gruptan üst gruplara geçişler görevde yükselme sınavına
+tabidir. Ancak, Teşebbüste veya diğer kamu kurum ve kuruluşlarında daha
+önce bulunulan görevler ile bu görevlerle aynı düzey görevlere veya alt
+görevlere, görevde yükselme sınavına tabi tutulmadan atama yapılabilir.
+c) Unvan değişikliğine tabi kadrolara geçişler ile
+bu kadrolar arasındaki geçişler unvan değişikliği sınavı sonucuna göre
+yapılır.
+ç) Doktora öğrenimini bitiren personelin; bu
+Yönetmelikle belirlenen toplam hizmet süresine sahip olmaları ve aranan
+öğrenim şartını taşımaları kaydıyla Uzman veya aynı düzeydeki görevler ile
+daha alt görevlere yapılacak atamalarında bu Yönetmeliğin sınavlara ilişkin
+hükümleri uygulanmaz.
+Kazanılmış
+haklar
+MADDE 21
+– (1) Bu Yönetmelik kapsamına
+giren unvanlarda daha önce görev yapanların aynı unvana tekrar
+atanmalarında sınav şartı ile alt görev şartı ve süresi aranmaz.
+Engellilerin
+sınavları
+MADDE 22
+– (1) Gerekli şartları taşıyan ve
+atama yapılacak görevi yapabilecek durumda bulunan engellilerin
+sınavlarının yapılabilmesi için gerekli tedbirler alınır.
+Yönetmelikte
+hüküm bulunmayan haller
+MADDE 23
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde, Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan
+Değişikliği Esaslarına Dair Genel Yönetmelik hükümleri uygulanır.
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 24
+– (1) 8/1/2012 tarihli ve 28167 sayılı
+Resmî Gazete’de yayımlanan Türkiye Cumhuriyeti Devlet Demiryolları
+İşletmesi Genel Müdürlüğü ve Bağlı Ortaklıkları Personeli Görevde Yükselme
+ve Unvan Değişikliği Yönetmeliği yürürlükten kaldırılmıştır.
+Öğrenim
+şartı
+GEÇİCİ
+MADDE 1 – (1) 18/4/1999 tarihinde
+görevde bulunan ve aynı tarih itibariyle iki yıllık yükseköğrenim mezunu
+olanlar, diğer koşullara sahip oldukları takdirde, 7 nci ve 8 inci
+maddelerin uygulanması bakımından, dört yıllık yükseköğrenim mezunu kabul
+edilirler.
+Yürürlük
+MADDE 25
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 26
+– (1) Bu Yönetmelik hükümlerini
+Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürü yürütür.
