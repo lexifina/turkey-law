@@ -1,0 +1,15 @@
+Doğrudan Temin
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; .................   işi”nin 4734 sayılı Kanun’da yer alan temel ihale usulleri ile ihale edilmesi gerekirken, 4734 sayılı Kamu İhale Kanunu’nun ‘Temel İlkeler’ başlıklı 5 inci maddesinde yer alan, “Eşik değerlerin altında kalmak amacıyla mal veya hizmet alımları ile yapım işleri kısımlara bölünemez.” hükmüne aykırı olarak, kısımlara bölünmek suretiyle toplam ……TL’lik hizmetin doğrudan temin usulüyle yaptırıldığı iddia edilmiş ise de;
+
+4734 sayılı Kamu İhale Kanunu’nun 22’nci maddesinin (d) bendinde, Büyükşehir Belediyesi sınırları dahilinde bulunan idarelerin Kamu İhale Kurumu tarafından her yıl belirlenen parasal limiti aşmayan ihtiyaçlarının doğrudan temin usulü alınabileceği belirtilmektedir. Kamu İhale Kurumu tarafından 29.01.2016 tarih ve 29608 sayılı Resmi Gazete’de yayımlanan Kamu İhale Tebliğ ile 2016 yılı için doğrudan temin usulü parasal limiti 53.261,00 TL olarak belirlenmiştir. Bu durumuda Belediyenin 2016 yılında gerçekleştirilen sorgu konusu toplam ……TL’lik hizmet alımı 2016 için belirlenen 53.261,00 TL parasal limitinin altında kalmaktadır. Dolayısıyla söz konusu alımlarda mevzuata aykırı bir uygulamaya gidildiğinden bahsedilemez.
+
+Bu itibarla, sorgu konusu işin doğrudan temin usulü ile yaptırılması mevzuata aykırılık taşımadığından ..…..TL ödeme hakkında ilişilecek husus bulunmadığına, 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca  İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğuyla  karar verildi.
+
+Karşı Oy;
+
+Üye ……ve Üye…….’ın karşı oy gerekçeleri:
+
+6085 sayılı Sayıştay Kanunu'nun 2'nci maddesinde yargılamaya esas raporun, "Sayıştay dairelerince yapılacak yargılamaya esas olmak üzere, denetçiler tarafından genel yönetim kapsamındaki kamu idarelerinin hesap ve işlemlerinin denetimi sırasında tespit edilen kamu zararına ilişkin düzenlenen raporu” ifade ettiği, "Yargılamaya esas rapor başlıklı” 48'inci maddesinde ise genel yönetim kapsamındaki kamu idarelerinin hesap ve işlemlerinin denetimi sırasında denetçiler tarafından kamu zararına yol açan bir husus tespit edildiğinde sorumluların savunmaları alınarak mali yıl sonu itibariyle yargılamaya esas rapor düzenleneceği hüküm altına alınmıştır. Aynı Kanun'un dairelerin görevlerini düzenleyen 23 'üncü maddesinde ise dairelerin hesap mahkemesi olarak sorumluların hesap ve işlemlerine ilişkin düzenlenen yargılamaya esas raporlarda yer alan kamu zararına ilişkin hususları hükme bağlayacağı düzenlenmiştir. Kamu zararının tespitine ilişkin düzenlemeye ise Sayıştay Denetim Yönetmeliği'nin 43'üncü maddesinde yer verilmiştir.
+
+Bu itibarla kamu zararı tespitinin yapılmadığı söz konusu hususun, yargı yetkisinin kullanıldığı yargılmaya esas rapor kapsamında değil, 6085 sayılı Sayıştay Kanunu’nun 38’inci maddesi uyarınca düzenlenen denetim raporu kapsamında görüşülmesi ve bu nedenle de konu hakkında hüküm verilmesine mahal olmadığına karar verilmesi gerektiği düşüncesiyle çoğunluk görüşüne katılmıyoruz.
