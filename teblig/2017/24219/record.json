@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24219",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 72)",
+  "number": "24219",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2017/24219",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24219&MevzuatTertip=5",
+  "source_sha256": "0543cd24ab9cd3eea4866b004a898e49d54d358cee1dae50595dabeb190f82d2",
+  "source_bytes": 72339,
+  "published": "2017-12-26",
+  "gazette": "30282",
+  "in_force": "2017-12-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.12.2017); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2168,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
