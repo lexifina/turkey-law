@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-140.10.01[123-2017-24]-185698",
+  "source_id": 35534,
+  "date": "2017-12-27",
+  "title": "6306 sayılı Kanun kapsamında riskli yapı olduğu bildirilen taşınmazın dönüşüme tabi tutulmadan önce hissedarlar arasında yapılacak satış işleminde harç uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35534",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "d43947314d2fbd51fcbf48c881f88633fea47f1652a483b36f58f79f2d63e68a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
