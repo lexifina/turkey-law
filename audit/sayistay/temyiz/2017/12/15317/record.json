@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43915",
+  "decision_date": "2017-12-27",
+  "source_id": 15317,
+  "chamber": "1",
+  "file_number": "42783",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15317/",
+  "source_sha256": "1cc1097140ad055a44cad633aaa756f388101d6ea81ad38e231cbe0f93cee06a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
