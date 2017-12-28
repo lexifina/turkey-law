@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7602",
+  "decision_date": "2017-12-28",
+  "title": "2018 Yekdem Birim Ek Maliyet",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1qCdL22HPFo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1qCdL22HPFo="
+  ],
+  "source_sha256": "b598e09beeb8520c670de5fcc07fa98a453664539961f459da9706a2832287d8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2017-12-28",
+  "law_text_complete": false
+}
