@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7590",
+  "decision_date": "2017-12-28",
+  "title": "Elektrik Piyasasında Tüketim Tesisi İle Aynı Ölçüm Noktasından Bağlı Ve Güneş Enerjisine Dayalı Üretim Tesislerine İlişkin",
+  "resmi_gazete_date": "2018-01-18",
+  "resmi_gazete_number": "30305",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=K4V/U+k9ZhM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=K4V/U+k9ZhM="
+  ],
+  "source_sha256": "a4270eed40bdda43b81a177faf4add2d8faec92ada1820e05ba63efe958583a2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-12-28",
+  "law_text_complete": true
+}
