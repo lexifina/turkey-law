@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7612-2",
+  "decision_date": "2017-12-28",
+  "title": "Türkiye Elektrik İletim Anonim Şirketi tarafından 1/1/2018 tarihinden itibaren uygulanacak iletim sistem kullanım ve sistem işletim tarifelerine ilşkin",
+  "resmi_gazete_date": "2017-12-30",
+  "resmi_gazete_number": "30286",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XIGdcdj9eFQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XIGdcdj9eFQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VdoRDOi5H+A=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sEKKMSauA9I="
+  ],
+  "source_sha256": "53d1e6b0e86afd1d6ad573b5c6123198592f89d098990928452165a69de6b96d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-12-28",
+  "law_text_complete": true
+}
