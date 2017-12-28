@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7618",
+  "decision_date": "2017-12-28",
+  "title": "Dağıtım Sistemi Gelirinin Düzenlenmesi Hakkında Tebliğin 28 inci maddesi kapsamında hesaplanan ve daha öncesince 31/03/2014 tarihli ve 4948 sayılı Kurul kararı ile %5 olarak belirlenen ÖDGTt ‘nin (t yılında kayıp enerji tedariki kapsamında piyasa işletim lisansı sahipleri tarafından fatura edilmesi öngörülen ve Kurulca uygun bulunan tutarların toplamı) 2018 yılından itibaren %2,5 olarak berlirlenmesine",
+  "resmi_gazete_date": "2017-12-30",
+  "resmi_gazete_number": "30286",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p36YKPXYJPw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p36YKPXYJPw="
+  ],
+  "source_sha256": "5b286dba080762a4a86c172d7130a3c8efa4a3e615615b9a1ab0cd7cbd29f074",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-12-28",
+  "law_text_complete": true
+}
