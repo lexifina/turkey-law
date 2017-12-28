@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7601",
+  "decision_date": "2017-12-28",
+  "title": "Torosgaz Isparta Burdur Doğalgaz Dağıtım Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sPZAK29jaK4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sPZAK29jaK4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nAlEyR1Y/Iw="
+  ],
+  "source_sha256": "036d8ed80538c492474f99b493127a782cc6ca07ea2e44388203a6eb74c97699",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2017-12-28",
+  "law_text_complete": true
+}
