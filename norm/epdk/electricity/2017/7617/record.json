@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7617",
+  "decision_date": "2017-12-28",
+  "title": "2018 1. Çeyrek Perakende Elektrik Tarife Tabloları",
+  "resmi_gazete_date": "2017-12-30",
+  "resmi_gazete_number": "30286",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ap/nB9LwkYs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ap/nB9LwkYs=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=a/wkS3e/xJY="
+  ],
+  "source_sha256": "2ecae2d6bf56d8267518b3abcb8565cfaca311dd2ebe8f2a867abd127f699709",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2017-12-28",
+  "law_text_complete": false
+}
