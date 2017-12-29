@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.02-105[2017]-149556",
+  "source_id": 25276,
+  "date": "2017-12-29",
+  "title": "Günlük ve haftalık olarak kiraya verilen gayrimenkulun, sadece mülkiyet sahibi tarafından kullanılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25276",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "f0401f0d4afdb8fa1916d73acfdb0ed2d3f60c0cf07a4c27212223148aa35b52",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
