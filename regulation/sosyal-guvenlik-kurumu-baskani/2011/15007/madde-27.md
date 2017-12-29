@@ -1,0 +1,9 @@
+Denetmen ve denetmen yardımcılarının sorumlulukları
+MADDE 27 – (1) Denetmen ve denetmen yardımcıları görevlerini yerine getirirken aşağıdaki hususlara uyarlar:
+a) Resmi ve özel ilişkilerinde; işveren, sigortalı ve üçüncü şahıslara karşı nezaket kurallarına uygun olarak davranmak, giyim-kuşam ve hareketlerinde güven ve saygı uyandırmak zorundadırlar.
+b) Verilen görevleri, zorunlu hallerde izin almadıkça veya yazılı emir verilmedikçe bırakamaz, başka bir denetmene devredemezler.
+c) İşverenin, aracının ya da sigortalıyı geçici olarak devir alan işverenin ve işyerinin meslek sırları, çalışma şartları, ekonomik ve ticari durumları hakkında, inceleme, denetim, tarama ve tespitleri sırasında gördükleri ve öğrendikleri hususları gizli tutarlar; bilgi aldıkları, ihbar veya şikâyette bulunan kişilerin isimlerini ve kimliklerini açıklayamazlar.
+ç) Kendileri ile çıkar birliği bulunanlar veya üçüncü derece dâhil kan veya kayın hısımı olanlar yahut tarafsızlığı hakkında kuşku uyandıracak şekilde uyuşmazlık, husumet gibi halleri olan işveren, aracı ya da sigortalıyı geçici olarak devir alan işveren, sigortalı veya hak sahipleri ile ilgili işlere bakamazlar. Bu kişilerle ilgili işlerin verilmesi halinde durumu yazılı olarak derhal il müdürüne bildirirler.
+d) Görevleri ile ilgili kişilerin, özel hizmet veya alışılmış olmayan ikramlarını kabul edemezler. Bunlarla iş ilişkisi dışında bir ilişki kuramaz, çıkar birliği sağlayamaz, borç alıp veremezler.
+e) Denetime gidecekleri yerleri açıklayamaz, yaptıkları görevle ilgili işlemler hakkında yetkili makamlardan başkasına bilgi veremezler.
+f) Tutanaklara, "sosyal güvenlik denetmeni/sosyal güvenlik denetmen yardımcısı kimlik belgesi gösterilmiştir" ibaresini yazmak ve düzenleyecekleri tutanakların bir örneğini imza karşılığında işveren veya vekiline, aracıya, sigortalıyı devir alana ve gerekli görülmesi halinde sigortalıya vermek zorundadırlar.

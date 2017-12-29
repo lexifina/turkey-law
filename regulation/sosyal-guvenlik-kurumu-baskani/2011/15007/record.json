@@ -1,0 +1,60 @@
+{
+  "source_id": "7.5.15007",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL GÜVENLİK DENETMENLİĞİ YÖNETMELİĞİ",
+  "number": "15007",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "issuer_slug": "sosyal-guvenlik-kurumu-baskani",
+  "path": "regulation/sosyal-guvenlik-kurumu-baskani/2011/15007",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15007&MevzuatTertip=5",
+  "source_sha256": "04c15dc98b791b108b1730aaf16d446e8bca755c96fd65362c0be051fcea57ea",
+  "source_bytes": 107430,
+  "published": "2011-05-26",
+  "gazette": "27945",
+  "in_force": "2017-12-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/12/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-12-29",
+      "RG-29/12/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-12-29",
+      "29/12/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-02-22",
+      "RG-22/2/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-02-22",
+      "22/2/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5298,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "29122017/29122017/7.5.15007-ek-1.xls",
+    "http://www.resmigazete.gov.tr/eskiler/2011/05/20110526-7-2.xls",
+    "http://www.resmigazete.gov.tr/eskiler/2011/05/20110526-7-3.xls",
+    "http://www.resmigazete.gov.tr/eskiler/2011/05/20110526-7-4.xls",
+    "7.5.15007-Ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

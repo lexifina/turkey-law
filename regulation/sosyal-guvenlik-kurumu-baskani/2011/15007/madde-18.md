@@ -1,0 +1,4 @@
+Kurul
+MADDE 18 – (1) (Değişik:RG-22/2/2013-28567) Kurul; Başkanın uygun göreceği Başkan Yardımcısı veya Sigorta Primleri Genel Müdürü Başkanlığında, kayıt dışı istihdamla mücadeleden sorumlu Daire Başkanı ile Başkanın uygun göreceği genel müdürler (Ek ibare:RG-29/12/2017-30285) , genel müdür yardımcıları ve daire başkanları (Ek ibare:RG-29/12/2017-30285) ile beş yıl ve üzeri kıdemi bulunan denetmenler arasından üç asıl ve (Değişik ibare:RG-29/12/2017-30285) beş yedek üye olmak üzere toplam beş asıl üç yedek üyeden oluşur. Asıl üyelerin herhangi bir nedenle Kurula katılamamaları halinde yedek üyeler tespit sırasına göre Kurula katılırlar.
+(2) Kararlar oy çokluğu ile alınır, çekimser oy kullanılmaz ve olumsuz oylar gerekçelendirilir.
+(3) Kurulun sekreterlik hizmetleri İnsan Kaynakları Daire Başkanlığınca yürütülür.

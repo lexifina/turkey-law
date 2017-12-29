@@ -1,0 +1,7 @@
+Yeterlik sınavının yapılması, değerlendirilmesi ve sonucunun duyurulması
+MADDE 20 – (Değişik:RG-29/12/2017-30285)
+(1) Yeterlik sınavı başarı puanı Kurulca yüz tam puan üzerinden değerlendirilir ve başarılı olabilmek için en az yetmiş puan alınması zorunludur. Yazılı sınavda başarılı sayılabilmek için 19 uncu maddenin üçüncü fıkrasında belirtilen konulardan yapılacak olan sınavdan alınan notların ortalamasının en az 70 olması gerekir.
+(2) Yazılı sınavda başarılı olan denetmen yardımcıları sözlü sınava tabi tutulurlar. Sözlü sınavda denetmen yardımcılarına sınav kurulu üyelerinin her biri 100 tam puan üzerinden not verir. Verilen notların ortalaması sözlü sınav notunu teşkil eder. Sözlü sınavda başarılı sayılabilmek için bu notun en az 70 olması şarttır.
+(3) Sözlü sınavda adaylar; 19 uncu maddenin üçüncü fıkrasında belirtilen sınav konularına ilişkin bilgi düzeyi, bir konuyu kavrayıp özetleme, ifade yeteneği ve muhakeme gücü, liyakati, temsil kabiliyeti, davranış ve tepkilerinin mesleğe uygunluğu, özgüveni, ikna kabiliyeti ve inandırıcılığı, genel yetenek ve genel kültürü, bilimsel ve teknolojik gelişmelere açıklığı yönlerinden değerlendirilir.
+(4) Yeterlik sınavında başarılı olan denetmen yardımcılarının başarı sırası, yazılı sınavın %50’ si, sözlü sınavın %30’u, yetki sınavının %10’u ve refakat değerlendirme notunun %10’u esas alınarak hesaplanır ve bir tutanağa bağlanır.
+(5) Yeterlik sınav sonuçları denetmen yardımcılarına Kurumun internet sitesinde elektronik ortamda bildirilir. Ayrıca adaylara tebligat yapılmaz.
