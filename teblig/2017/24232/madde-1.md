@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 14/7/2016 tarihli ve 29770 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2016/28) ile Rusya Federasyonu ve Ukrayna menşeli 7408.11 gümrük tarife pozisyonu altında kayıtlı “bakır teller, enine kesitinin en geniş yeri 6 mm’yi geçen, rafine edilmiş bakırdan olanlar” (bakır filmaşin) ürününe yönelik başlatılan ve T.C. Ekonomi Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
