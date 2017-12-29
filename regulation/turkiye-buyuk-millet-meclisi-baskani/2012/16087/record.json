@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.16087",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BÜYÜK MİLLET MECLİSİ BAŞKANLIĞI STENOGRAFİ KURSU VE STENOGRAFLIK YÖNETMELİĞİ",
+  "number": "16087",
+  "issuer": "Türkiye Büyük Millet Meclisi Başkanı",
+  "issuer_slug": "turkiye-buyuk-millet-meclisi-baskani",
+  "path": "regulation/turkiye-buyuk-millet-meclisi-baskani/2012/16087",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16087&MevzuatTertip=5",
+  "source_sha256": "e56f7e1cef4e66ee404419e4d42a380e3cb0b10bc2c42d4e5a779a757a80d457",
+  "source_bytes": 58102,
+  "published": "2012-04-25",
+  "gazette": "28274",
+  "in_force": "2017-12-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/12/2017\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2017-12-29",
+      "RG-29/12/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-12-29",
+      "29/12/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2675,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

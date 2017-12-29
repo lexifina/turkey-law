@@ -1,0 +1,2 @@
+Sınav ilanı
+MADDE 10 – (1) Sınavın yapılacağı yer ve tarih, sınav gününden en az otuz gün önce, uygun görülecek basın ve yayın araçları ile Başkanlık İnternet sitesinden duyurulur. Bu ilanda, alınacak stenograf yardımcısı sayısı, stenografi kursiyeri sayısı, başvurunun başlayış ve bitiş tarihi, başvuru şekli, adaylarda aranacak şartlar, sınav konuları, stenograflığa ilişkin bilgiler, başvuru için istenen belgeler ile başvuruların yapılacağı yer ve adres belirtilir.

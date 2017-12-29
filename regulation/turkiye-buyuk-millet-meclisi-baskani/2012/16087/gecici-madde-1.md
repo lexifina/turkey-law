@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımı tarihinde Türkiye Büyük Millet Meclisi Genel Sekreterliği tarafından 12/9/2011 tarihinde başlatılan ve devam etmekte olan kurs ve bu kursa devam eden kursiyerler hakkında da bu Yönetmelik hükümleri uygulanır.

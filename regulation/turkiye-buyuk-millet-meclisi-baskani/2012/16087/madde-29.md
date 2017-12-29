@@ -1,0 +1,3 @@
+Sınav sonuçlarının değerlendirilmesi
+MADDE 29 – (1) Yeterlik sınavının bitiminden sonra, yeterlik sınav kurulu sınav kâğıtlarını, stenografi ve mesleki bilgi bölümleri ayrı ayrı olmak üzere 100 puan üzerinden değerlendirir. Başarılı olabilmek için her bölümden 70 ve üstü puan almak gerekir. Stenografi ve mesleki bilgi sınavı notları ortalaması sınav notu olarak tespit edilir. Başarı sırasına göre hazırlanan liste yeterlik sınav kurulu başkanı ve üyeleri tarafından imzalanarak Başkanlığa bildirilir.
+(2) Yeterlik sınavında başarılı olamayan stenograf yardımcısına bir aydan az olmamak üzere üç ay içerisinde ikinci bir sınav hakkı tanınır.

@@ -1,0 +1,2 @@
+Sınav kurulu
+MADDE 12 – (1) Sınav kurulu, Genel Sekreter veya Yasamadan Sorumlu Genel Sekreter Yardımcısının başkanlığında, Tutanak Hizmetleri Başkanı, İnsan Kaynakları Başkanı, bir Tutanak Hizmetleri başkan yardımcısı ile en az on iki yıl stenograflık yapmış bir stenograf olmak üzere beş üyeden oluşur. Tutanak Hizmetleri başkan yardımcılarından biri ve en az on iki yıl stenograflık yapmış bir stenograf da yedek üye olarak belirlenir.
