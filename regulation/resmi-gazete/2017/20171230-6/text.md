@@ -1,0 +1,170 @@
+30 Aralık 2017 CUMARTESİ
+Resmî Gazete
+Sayı : 30286
+YÖNETMELİK
+Anayasa Mahkemesi Başkanlığından:
+ANAYASA
+MAHKEMESİ RAPORTÖR YARDIMCILIĞI
+TEZ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı,
+raportör yardımcılarının raportörlüğe atanabilmesi için hazırlayacakları
+mesleki nitelikteki tezlerin şekil ve kapsamı ile diğer hususları
+düzenlemektir.
+Dayanak
+MADDE 2 –
+(1) Bu Yönetmelik, 30/3/2011
+tarihli ve 6216 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri
+Hakkında Kanunun 27 nci maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 –
+(1) Bu Yönetmelikte geçen;
+a) Başkan: Anayasa Mahkemesi Başkanını,
+b) Genel Sekreter: Anayasa Mahkemesi Genel
+Sekreterini,
+c) Genel Sekreterlik: Anayasa Mahkemesi Genel
+Sekreterliğini,
+ç) Genel Sekreter yardımcısı: Yargısal işlerden
+sorumlu genel sekreter yardımcısını,
+d) İçtüzük: Anayasa Mahkemesi İçtüzüğünü,
+e) Kanun: 30/3/2011 tarihli ve 6216 sayılı Anayasa
+Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanunu,
+f) Kurul: Raportör yardımcılarının hazırlayacakları
+mesleki nitelikteki tezleri değerlendiren Tez Değerlendirme Kurulunu,
+g) Mahkeme: Anayasa Mahkemesini,
+ğ) Raportör: Anayasa Mahkemesi raportörünü,
+h) Raportör yardımcısı: Anayasa Mahkemesi raportör
+yardımcısını,
+ı) Tez: Raportör yardımcılarının hazırlayacakları
+mesleki nitelikteki tezi,
+i) Üye: Anayasa Mahkemesi üyesini
+ifade eder.
+İKİNCİ BÖLÜM
+Mesleki
+Nitelikteki Tez
+Tez
+çalışmasına başlama
+MADDE 4 –
+(1) Raportör yardımcıları,
+raportör yardımcılığında üç yılı tamamlamaları hâlinde mesleki nitelikteki
+tez çalışmalarına başlarlar.
+Tez
+konusu ve danışmanının belirlenmesi
+MADDE 5 –
+(1) Genel sekreter yardımcısı,
+Mahkemenin ihtiyaç ve öncelikleri ile raportör yardımcısının görüşünü
+dikkate alarak her bir raportör yardımcısı için, raportörler arasından
+belirleyeceği bir tez danışmanı ile tez konusu önerilerini Genel Sekretere
+bildirir.
+(2) Önerilen tez konuları ve tez danışmanları Genel
+Sekreter tarafından onaylanır ve raportör yardımcılarına tebliğ edilir.
+(3) Tez konuları kabul edilmeyen raportör
+yardımcıları için yeni tez konusu belirlenmesinde bu madde hükümleri
+uygulanır.
+(4) Tez konusu ve tez danışmanının raportör
+yardımcısına tebliğ tarihi, tez konusunun kesinleştiği tarih olarak kabul
+edilir.
+(5) Tez konusu veya tez danışmanı, zorunlu
+durumlarda raportör yardımcısının talebi ve Genel Sekreter yardımcısının
+uygun görüşü üzerine Genel Sekreter tarafından bir defaya mahsus
+değiştirilebilir. Tez konusunun veya tez danışmanının değiştirilmesi tezin
+teslim süresini uzatmaz.
+Tez
+hazırlanmasına ilişkin esaslar
+MADDE 6 –
+(1) Tez, tez danışmanının
+gözetiminde bilimsel esaslara uygun olarak hazırlanır.
+(2) Tezin, bilimsel çalışma etiğine uygun olarak
+raportör yardımcısının görüş, değerlendirme ve önerilerini içeren özgün bir
+eser olması gerekir. Tez başka bir kurum ve kuruluşta uzmanlık, yüksek
+lisans, doktora tezi veya başka bir ad altında içerik ve sonuçları
+açısından aynı şekilde incelenip savunulmamış olmalıdır. Aksi durumun
+tespiti hâlinde tez geçersiz sayılır.
+(3) Tezde yer alan görüş, değerlendirme ve
+önerilerin içeriği ve özgünlüğü tezi hazırlayan raportör yardımcısına
+aittir. Tezler, Anayasa Mahkemesinin kurumsal görüşünü yansıtmaz.
+(4) Tez danışmanları, ilki altı ayı geçmemek üzere
+bir tez dönemi içinde, rehberlik ettikleri tez hakkındaki görüşlerini
+içeren iki raporu Genel Sekreterliğe sunarlar. Genel Sekreterlik tarafından
+bu raporlar Kurula gönderilir.
+(5) Tez hazırlanmasına ilişkin diğer usul ve
+esaslar yönergeyle düzenlenebilir.
+Tez
+hazırlama süresi ve tezin teslimi
+MADDE 7 –
+(1) Raportör yardımcıları, tez
+konularının kesinleşmesini takip eden en geç bir yıl içinde hazırlamış
+oldukları tezlerini Genel Sekreterliğe teslim ederler. Analık izni, doğum
+ve askerlik sebebiyle alınan aylıksız izinler ile toplamda üç ayı aşan
+hastalık, refakat ve diğer mazeret izinleri dışındaki haller bu süreyi
+uzatmaz.
+(2) Raportör yardımcılarının hazırlamış olduğu
+tezler fiziki olarak ve elektronik ortamda Genel Sekreterliğe teslim
+edilir. Fiziki olarak ve elektronik ortamda verilen tezler Genel Sekreterlik
+tarafından bir hafta içinde Kurula teslim edilir.
+(3) Süresi içinde tezlerini sunmayan raportör
+yardımcılarına altı ayı aşmamak üzere ilave süre verilir. Bu durum Genel
+Sekreterlik tarafından raportör yardımcısına bildirilir.
+Tez
+Değerlendirme Kurulunun oluşumu ve görevleri
+MADDE 8 –
+(1) Bu Yönetmelik kapsamında
+hazırlanacak tezleri değerlendirmek üzere üç asıl, iki yedek üyeden oluşan
+bir kurul oluşturulur.
+(2) Kurulun Başkan ve üyeleri, Başkan tarafından
+üye ve/veya raportörler arasından belirlenir.
+(3) Kurul asıl üyelerinin tamamının katılımı ile
+toplanır ve çoğunlukla karar verir. Kurula asıl üyelerin mazeretleri
+nedeniyle katılamaması durumunda yerlerine yedek üyeler katılır.
+(4) Kurul raportör yardımcıları tarafından
+hazırlanan tezlerin kabulüne ya da reddine karar verir. Bir tez hakkında
+ret kararı verilmesi hâlinde bu karara yapılacak itirazı inceler ve
+sonuçlandırır.
+(5) Kurulun sekretarya hizmetleri Genel
+Sekreterlikçe yürütülür.
+Tezin
+değerlendirilmesi ve kabulü
+MADDE 9 –
+(1) Kurul, raportör yardımcıları
+tarafından hazırlanan tezleri, teslim aldığı tarihten itibaren bir ay
+içinde tez danışmanlarının raporları ile birlikte bilimsel esaslara
+uygunluk bakımından inceler ve raportör yardımcılarını tez savunmasına
+çağırır.
+(2) Raportör yardımcısı, Kurul önünde tezini sözlü
+olarak savunur ve tez konusu ile ilgili soruları cevaplandırır.
+(3) Raportör yardımcısının tez savunmasından sonra
+Kurul üyeleri hazırlanan tez hakkındaki oylarını başarılı veya başarısız
+şeklinde kullanır.
+(4) Tezini teslim ettiği hâlde, geçerli bir
+mazereti nedeniyle tez savunmasına girememiş olan raportör yardımcısı için
+Kurul tarafından ayrı bir savunma tarihi belirlenir. Geçerli bir mazereti
+olmaksızın tez savunmasına girmeyen raportör yardımcısı başarısız tez
+vermiş sayılır.
+(5) Kurul tarafından tezi başarısız görülen
+raportör yardımcısına tezini düzeltmesi veya yeni bir tez hazırlaması için
+dokuz ayı aşmamak üzere ilave süre verilir.
+(6) Kurul, değerlendirmelerini tamamlamasının
+ardından kararını Genel Sekreterliğe iletir.
+(7) Genel Sekreterlik kendisine iletilen kararları
+ilgililerine tebliğ eder.
+İtiraz
+MADDE 10
+– (1) Kurulun tezlere ilişkin ret
+kararlarına tebliğ tarihinden itibaren yedi gün içinde itiraz edilebilir.
+İtirazlar, Kurul tarafından itiraz süresinin bitiminden itibaren yedi gün
+içinde sonuçlandırılır.
+ÜÇÜNCÜ BÖLÜM
+Son Hükümler
+Yürürlük
+MADDE 11
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 12
+– (1) Bu Yönetmelik hükümlerini
+Başkan yürütür.
