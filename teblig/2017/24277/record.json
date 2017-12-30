@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.24277",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2018 YILI ARABULUCULUK ASGARİ ÜCRET TARİFESİ",
+  "number": "24277",
+  "path": "teblig/2017/24277",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24277&MevzuatTertip=5",
+  "source_sha256": "e850109da994ef1b953c11aeb2e0c8e3b4ba1a8bb4935303c66b1b83e20e41ef",
+  "source_bytes": 17429,
+  "published": "2017-12-30",
+  "gazette": "30286",
+  "in_force": "2017-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2017)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 649,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24277-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
