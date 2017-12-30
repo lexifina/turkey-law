@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.24275",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ANAYASA MAHKEMESİ RAPORTÖR YARDIMCILIĞI TEZ YÖNETMELİĞİ",
+  "number": "24275",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2017/24275",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24275&MevzuatTertip=5",
+  "source_sha256": "1f65b7cf2b241c30e8ba76ad80d875cf3f625acfd67fe645dda7b0a00ebd7f20",
+  "source_bytes": 22927,
+  "published": "2017-12-30",
+  "gazette": "30286",
+  "in_force": "2017-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2017); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 846,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
