@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7067",
+  "year": 2017,
+  "title": "2016 Yılı Merkezi Yönetim Kesin Hesap Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2017-12-31",
+  "gazette_issue": "30287",
+  "edition": "mükerrer 2",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171231M2-1.htm",
+  "source_sha256": "f18529ff06515a23c644a0041f0dd52c57c5df4a4a444d736622b960d8845266",
+  "text_sha256": "3b618f65a3e035fe52bb022cd24e794e05189072e87f1b06e44ef9f4029b7b06",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2017/12/31/30287-m2-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171231M2-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
