@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-12-31",
+  "issue": "30287",
+  "edition": "mükerrer 2",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7067 2016 Yılı Merkezi Yönetim Kesin Hesap Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171231M2-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171231M2.htm",
+  "index_sha256": "ebc4256b88e2680dbab2e6999492e743f72c963bd8724b5fdbf6a6520e891668",
+  "index_header": "31 Aralık 2017 ... 30287 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171231M2.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
