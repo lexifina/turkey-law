@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2017-12-31",
+  "issue": "30287",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7066 2018 Yılı Merkezi Yönetim Bütçe Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171231M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171231M1.htm",
+  "index_sha256": "80fdf0c6d6a2e407d75dde5a92b52fddc6d053c156d22df91f14d4b0dd423b35",
+  "index_header": "31 Aralık 2017 ... 30287 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2017/12/20171231M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
