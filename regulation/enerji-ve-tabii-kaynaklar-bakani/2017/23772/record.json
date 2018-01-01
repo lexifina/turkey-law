@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23772",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE YERBİLİMLERİ VERİ VE KAROT BİLGİ BANKASININ GÖREVLERİ, ÇALIŞMA USUL VE ESASLARI YÖNETMELİĞİ",
+  "number": "23772",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2017/23772",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23772&MevzuatTertip=5",
+  "source_sha256": "3cde8b43df471d5204e45452b7e9c09abb605430f57dfe99bc146874fc3bff75",
+  "source_bytes": 26049,
+  "published": "2017-07-21",
+  "gazette": "30130",
+  "in_force": "2018-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1066,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
