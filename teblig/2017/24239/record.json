@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24239",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 80)",
+  "number": "24239",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2017/24239",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24239&MevzuatTertip=5",
+  "source_sha256": "9bce93be030480c95cf9ddede209c72192ab41520807a7112c411b64d7303437",
+  "source_bytes": 9375,
+  "published": "2017-12-29",
+  "gazette": "30285 (Mükerrer)",
+  "in_force": "2018-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 243,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24239-Ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
