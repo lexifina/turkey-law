@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7621",
+  "decision_date": "2018-01-01",
+  "title": "Bursa Şehiriçi Doğal Gaz Dağıtım Ticaret ve Taah. Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2018-01-02",
+  "resmi_gazete_number": "30290",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nFwkhVmhjHg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nFwkhVmhjHg=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Bgf+oY5xH+I="
+  ],
+  "source_sha256": "57b9d9ec2c4a499a773bc0259b03f4bdef921e96a17b3e74b4576b683a2cfd93",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-01-01",
+  "law_text_complete": true
+}
