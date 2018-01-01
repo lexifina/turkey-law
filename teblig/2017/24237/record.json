@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24237",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ (SERİ NO: 50)",
+  "number": "24237",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2017/24237",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24237&MevzuatTertip=5",
+  "source_sha256": "bc78cf6dbfb0ed93dd739a2658dde7c50ec6c410481be6db094b77714832de00",
+  "source_bytes": 61465,
+  "published": "2017-12-29",
+  "gazette": "30285 (Mükerrer)",
+  "in_force": "2018-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 783,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
