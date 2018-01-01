@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24200",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "5307 SAYILI SIVILAŞTIRILMIŞ PETROL GAZLARI (LPG) PİYASASI KANUNU VE ELEKTRİK PİYASASI KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUNUN 16 NCI MADDESİ UYARINCA 2018 YILINDA UYGULANACAK PARA CEZALARI HAKKINDA TEBLİĞ",
+  "number": "24200",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu Başkanı",
+  "path": "teblig/2017/24200",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24200&MevzuatTertip=5",
+  "source_sha256": "13a98d3426836efc8ec78e9c981688edc0f4696c24ddf3f09e95aee60d7896a3",
+  "source_bytes": 15125,
+  "published": "2017-12-21",
+  "gazette": "30277",
+  "in_force": "2018-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 225,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
