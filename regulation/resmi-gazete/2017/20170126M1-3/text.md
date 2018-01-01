@@ -1,0 +1,469 @@
+26 Ocak 2017 PERŞEMBE
+Resmî Gazete
+Sayı : 29960 (Mükerrer)
+YÖNETMELİK
+Bilim, Sanayi ve Teknoloji Bakanlığından:
+İKİ VEYA ÜÇ
+TEKERLEKLİ ARAÇLARIN VE DÖRT TEKERLEKLİ
+MOTOSİKLETLERİN TİP ONAYINA YÖNELİK ÇEVRESEL VE
+TAHRİK ÜNİTESİ PERFORMANS ŞARTLARI HAKKINDA
+YÖNETMELİK (AB/134/2014)
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç,
+kapsam ve dayanak
+MADDE 1 – (1) Bu Yönetmeliğin amacı, 13/10/1983 tarihli ve
+2918 sayılı Karayolları Trafik Kanunu hükümleri uyarınca iki veya üç
+tekerlekli motorlu araçların ve dört tekerlekli motosikletlerin yapım ve
+kullanım bakımından karayolu yapısına ve trafik güvenliğine uygunluğunu
+yerine getirmek üzere; bu Yönetmelik kapsamındaki tüm yeni araçlar ile bu
+araçlarda kullanılmak üzere tasarlanan sistemler, aksamlar ve ayrı teknik
+ünitelerin tip onayı için çevresel ve tahrik ünitesi performansıyla ilgili
+ayrıntılı teknik şartları ve deney prosedürlerini belirlemek ve BM/AEK Regülasyonları
+ile bunlar üzerinde yapılan tadilatların bir listesini vermektir.
+(2) Bu Yönetmelik, 22/8/2015 tarihli ve 29453
+sayılı Resmî Gazete’de yayımlanan İki veya Üç Tekerlekli Motorlu Araçların
+ve Dört Tekerlekli Motosikletlerin Tip Onayı ve Piyasa Gözetimi ve Denetimi
+Hakkında Yönetmeliğin (AB/168/2013) 1 inci maddesinde belirtilen araçları
+ve bunların aksam, sistem ve ayrı teknik ünitelerini kapsar.
+(3) Bu Yönetmelik; 2918 sayılı Kanunun 29 uncu
+maddesine, 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik
+Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanunun 4 üncü maddesine ve
+3/6/2011 tarihli ve 635 sayılı Bilim, Sanayi ve Teknoloji Bakanlığının
+Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 7 nci maddesine
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 2 – (1) İki veya Üç Tekerlekli Motorlu Araçların ve
+Dört Tekerlekli Motosikletlerin Tip Onayı ve Piyasa Gözetimi ve Denetimi
+Hakkında Yönetmeliği (AB/168/2013)’nin 3 üncü maddesinde yer verilen
+tanımlar bu Yönetmeliğin uygulanmasında da geçerli olup, söz konusu
+tanımlara ek olarak bu Yönetmelikte geçen;
+a) AB/168/2013 Yönetmeliği: 22/8/2015 tarihli ve
+29453 sayılı Resmî Gazete’de yayımlanan İki veya Üç Tekerlekli Motorlu
+Araçların ve Dört Tekerlekli Motosikletlerin Tip Onayı ve Piyasa Gözetimi
+ve Denetimi Hakkında Yönetmeliği,
+b) Aksesuarlar: EK X’daki Tablo Ap2.1-1 veya
+Ap2.2-1'de listelenmiş olan tüm aletler ve cihazları,
+c) Aktarma organları kalibrasyonu: Aracın aktarma
+organları, tahrik veya tahrik organları kontrollerine ince ayar yapmak
+amacıyla kontrol ünitelerinin yazılımı tarafından kullanılan özel bir veri
+haritaları ve parametreler bütününün uygulanmasını,
+ç) Aktarma organları kontrol ünitesi: Kavrama
+aktarması dahil olmak üzere yanmalı motor/motorlar, elektrikli çekme
+motorları veya tahrik organları sistemlerinin bileşik kontrol ünitesini,
+d) Aktarma organları yazılımı: Kontrol ünitelerinin
+durumunu değiştiren sıralı bir talimatlar bütünü içeren, tahrik organları
+kontrol ünitesi, tahrik kontrol üniteleri veya aktarma organları kontrol
+ünitelerindeki veri işleme işlemlerini ele alan algoritmalar bütününü,
+e) Alternatif yakıtlı araç: Atmosfer sıcaklığı ve
+basıncında gaz halde olan veya aslen mineral yağdan türetilmemiş olan yakıt
+tiplerinden biriyle çalışacak şekilde tasarlanan aracı,
+f) Ana araç: EK XI'de belirtilen bir tahrik
+ailesini temsil niteliğine sahip bir aracı,
+g) Azami net güç: Tam motor yükünde
+çalıştırıldığında bir veya daha fazla yanmalı motoru kapsayan tahrik
+ünitelerinden elde edilen azami net güç çıkışını,
+ğ) Azami tasarım araç hızı: Bu Yönetmeliğin 15 inci
+maddesi uyarınca belirlenen araca ait azami hızı,
+h) Azami tork: Tam motor yükünde çalıştırıldığında
+ölçülen azami tork değerini,
+ı) Başlatıcı: Tahrik organlarını, motoru/motorları
+veya aktarma organlarını kontrol etmek amacıyla kontrol ünitesinden gelen
+bir çıkış sinyalini harekete, ısıya veya başka bir fiziksel duruma çeviren
+dönüştürücüyü,
+i) Buharlaşma: Hidrokarbonların içinden geçerek
+atmosfere yayılabileceği diğer kaynaklar ile yakıt deposu ve yakıt teslimat
+sisteminde yaşanan buharlaşma kayıplarını,
+j) Çevre performansı açısından araç tipi: EK II’nin
+İlave 5, İlave 7 veya İlave 8’i uyarınca referans kütleyle ilgili olarak
+belirlenen eşdeğer atalet ve tahrik ailesiyle ilgili olarak EK XI'de
+belirtilen tahrik özellikleri açılarından farklılık göstermeyen ve L
+kategorisinde yer alan araçlar bütününü,
+k) Çevre performansı tip onayı: Bir araç tipinin,
+varyantının veya versiyonunun; AB/168/2013 Yönetmeliğinin Ek V’indeki Bölüm
+A ve B'ye uygunluk ve EK XI'de belirtilen kriterlere göre bir tahrik
+ailesinde yer alma koşulları açılarından onayını,
+l) Çıkış deliği: İki zamanlı bir motorun karteri
+ile yanma odası arasında bulunan ve temiz hava, yakıt ve yağlama yağı
+karışımının içinden geçerek yanma odasına ulaştığı bir konektörü,
+m) Doğru şekilde bakımı yapılan ve kullanılan: Bir
+deney aracı seçilirken bu aracın kabul edilmesi açısından araç
+imalatçısının tavsiyeleri ışığında iyi bir bakım ve normal kullanım
+düzeyinde olduğunu,
+n) Durdurma-çalıştırma sistemi: Rölanti miktarını
+azaltarak aracın yakıt tüketimini ve kirletici CO2 emisyonlarını düşürmek amacıyla tahrik
+ünitesinin otomatik şekilde durdurulup çalıştırılmasını,
+o) Düzenli yenilenen sistem: Katalitik konvertör,
+parçacık tutucu filtre veya başka bir kirletici kontrol cihazı gibi araç
+normal şekilde çalıştırıldığında 4000 km'den daha az sıklıkla düzenli
+yenileme işlemini gerektiren bir kirletici kontrol cihazını,
+ö) Egzoz emisyonları: Egzoz borularından çıkan gaz
+kirleticiler ve parçacık maddeyi,
+p) Elektrik aktarma organları: Akü gibi bir veya
+daha fazla elektrik enerjisi depolama cihazından, elektromekanik volandan,
+süper kapasitörden veya benzerlerinden, bir veya daha fazla elektrik gücü
+koşullandırma cihazından ve depolanan elektrik enerjisini mekanik enerjiye dönüştürerek
+aracın tahrik edilmesi amacıyla tekerleklere gönderen bir veya daha fazla
+elektrikli makineden meydana gelen sistemi,
+r) Elektrikli menzil: Sadece elektrik aktarma
+organları veya araç dışı şarj özelliğine sahip hibrit elektrik aktarma
+organları ile tahrik edilen araçların, EK VII’deki İlave 3.3'te tarif
+edilen prosedüre uygun şekilde ölçüldüğünde tamamen şarj edilmiş akü ya da
+başka bir elektrik enerjisi depolama cihazı ile elektrik kullanılarak kat
+edebildiği mesafeyi,
+s) Esnek yakıtlı H2NG araç: Farklı oranlardaki
+hidrojen ve doğalgaz veya biometan karışımlarıyla çalışacak şekilde
+tasarlanan esnek yakıtlı aracı,
+ş) Geçirgenlik deneyi: AB/168/2013 Yönetmeliğinin
+EK II’deki C1 bölümünde yer alan 8 inci maddesi uyarınca metal olmayan
+yakıt deposunun cidarların yaşanan kaybın test edilmesi ve yakıt deposu
+deneylerinden önce metal olmayan yakıt deposu malzemesinin
+koşullandırılmasını,
+t) Geçirme: Genellikle ağırlık kayıpları ile tayin
+edilen ve yakıt deposu ile teslimat sistemlerinin cidarlarından yaşanan
+kayıpları,
+u) Hava giriş sistemi: Temiz hava yükünün veya
+hava-yakıt karışımının motora girmesini sağlayan aksamlardan meydana gelen
+ve takılmış ise hava filtresi, emme boruları, rezonatör/rezonatörler, gaz
+kelebeği gövdesi ve motorun emme manifoldunu kapsayan bir sistemi,
+ü) Karbüratör: Yakıt ve havayı karıştırarak yanmalı
+motorda yanabilecek bir karışım haline getiren cihazı,
+v) Karter: İçinden gazların ve buharın geçebildiği
+dahili veya harici kanallarla yağ haznesine bağlı olan ve motorun içinde
+veya dışında bulunan alanları,
+y) Katalitik konvertör: Motora ait egzozdaki yanma
+kaynaklı zehirli yan ürünleri katalizörlü kimyasal tepkimeler sayesinde
+daha az zehirli maddelere dönüştüren emisyon kirlilik kontrol cihazını,
+z) Katalitik konvertör tipi: Taşıyıcı tabaka
+maddelerin sayısı, yapı ve malzeme, katalitik faaliyetin tipi (yükseltgeme,
+üç yollu veya başka türden katalitik faaliyet), taşıyıcı tabaka uzunluğu ve
+ön alanın hacmi oranı, katalitik konvertör malzeme içeriği, katalitik
+konvertör malzeme oranı, hücre yoğunluğu, ebatlar ve biçim, termal koruma
+ve bir aracın egzoz sisteminde bütünleşik haldeki ayrılmaz bir egzoz
+manifoldu, katalitik konvertör ve egzoz ucu veya değiştirilebilen ve
+ayrılabilir egzoz sistemi üniteleri açılarından farklılık göstermeyen
+katalitik konvertör kategorisini,
+aa) Kilometre birikimi: Bu Yönetmeliğin EK VI'sında
+belirtilen deney şartları uyarınca AB/168/2013 Yönetmeliğinin 23 üncü
+maddesinin üçüncü fıkrasının (a) ve (b) bentlerinde belirtilen şekilde
+önceden belirlenmiş mesafeleri kateden temsil niteliğine sahip bir deney
+aracı veya temsil niteliğine sahip deney araçları filosunu,
+bb) Kirlilik kontrol cihazının tipi: Kirletici
+emisyonlarını kontrol etmek için kullanılan ve aslî çevre performansı ile
+tasarım özellikleri açısından farklılık göstermeyen kirlilik kontrol cihazı
+kategorisini,
+cc) Motor kontrol ünitesi: Aracın motor veya
+motorlarını kısmen veya tamamen kontrol eden bütünleşik bilgisayarı,
+çç) Motorun yakıt ihtiyacı: Benzin (E5),
+sıvılaştırılmış petrol gazı (LPG), NG/biometan (doğalgaz), benzin (E5) ya
+da LPG, benzin (E5) ya da NG/biometan, dizel yakıt (B5), etanol (E85) ve
+benzin (E5) karışımı (esnek yakıt), biodizel ve dizel (B5) karışımı (esnek
+yakıt), hidrojen (H2) veya NG/biometan ve hidrojen (H2NG) karışımı, benzin (E5)
+ya da hidrojen (ikili yakıt) gibi motor tarafından normal şekilde
+kullanılan yakıt tipini,
+dd) Net güç: Net gücün sadece vites kutusunun
+tahriğe bağlanarak ölçülebilmesi halinde vites kutusunun verimi dikkate
+alınmak şartıyla EK X’un İlave 2’sindeki Tablo Ap2.1-1 veya Ap2.2-1'de
+listelenen aksesuarlarla birlikte tip onayı esnasında deney tezgahına
+yerleştirilmiş krank milinin ucunda veya imalatçı tarafından ölçülen dönme
+hızlarında tahrik ünitesinin eşdeğer aksamlarında elde edilen gücü,
+ee) Otuz dakikalık azami hız: 85 sayılı BM/AEK
+Regülasyonunda belirtilen 30 dakikalık güç sonucunda 30 dakika içerisinde
+erişilebilen azami araç hızı,
+ff) OVC menzili: EK VII’deki İlave 3.3'te tarif
+edilen prosedüre göre ölçüldüğünde akünün veya diğer elektrik enerjisi
+depolama cihazının harici şarjı ile aktarılan enerji tükenene kadar
+eksiksiz bileşik çevrimler kapsamında yer alan toplam mesafeyi,
+gg) Parçacık tutucu filtre: Egzoz akışındaki
+parçacık maddelerin miktarını azaltmak amacıyla bir aracın egzoz sistemine
+takılan filtreleme cihazını,
+ğğ) Referans kütle: 75 kg sürücü kütlesi ve
+uygulanabilir ise tahrik aküsünün kütlesi eklenerek belirlenen ve
+AB/168/2013 Yönetmeliğinin 5 inci maddesi uyarınca belirlenen, L
+kategorisinde yer alan aracın yürür vaziyetteki kütlesini,
+hh) Sensör: Bir fiziksel miktarı veya durumu
+ölçerek bunu bir kontrol ünitesi için girdi olarak kullanılan bir elektrik
+sinyaline dönüştüren dönüştürücüyü,
+ıı) Süper şarj: Yanmalı motorun indüksiyonunu
+güçlendirerek tahrik ünitesi performansını yükseltmek için kullanılan hava
+emme kompresörünü,
+ii) Tahrik organları: Uygulanabilir ise tork
+dönüştürme kavramaları, aktarma ve aktarma kontrolleri, bir tahrik şaftı ya
+da tahrik kayışı ya da tahrik zinciri, diferansiyeller, son tahrik ve tahrikli
+tekerlek lastiğinden (yarıçap) meydana gelen tahrik ünitesi/ünitelerinin
+sonrasında yer alan aktarma organları parçasını,
+jj) Tahrik organları kontrol ünitesi: Aracın tahrik
+organlarını kısmen veya tamamen kontrol eden bütünleşik bilgisayarı,
+kk) Tahrik tipi: Azami tasarım araç hızı, azami net
+güç, azami sürekli anma güç ve azami tork gibi aslî nitelikteki özellikler
+açısından farklılık göstermeyen tahrik ünitelerini,
+ll) Tahrik ünitesi performansı tip onayı: Bir araç
+tipinin, varyantının veya versiyonunun; azami tasarım araç hızı/hızları,
+azami sürekli anma tork veya azami net tork, azami sürekli anma güç veya
+azami net güç, hibrit uygulamada azami toplam tork ve güç gibi koşullar
+açısından tahrik üniteleri performansı onayını,
+mm) Turboşarj: Hava şarjının yükünü artırarak
+tahrik ünitesi performansını yükselten ve egzoz gazı türbini ile tahrik
+edilen santrifüjlü kompresörü,
+nn) WMTC aşama 1: L3e kategorisinde yer alan
+motosiklet tipleri için 2006’dan itibaren Avrupa Sürüş Çevrimleri'ne
+alternatif tip I emisyon deneyi çevrimi olarak kullanılan 2 sayılı BM/AEK
+Küresel Teknik Regülasyonu (GTR)’nda belirtilen Dünya Uyumlaştırılmış
+Motosiklet Deneyi Çevrimini,
+oo) WMTC aşama 2: L3e, L4e, L5e-A ve L7e-A
+kategorilerinde yer alan Euro 4'e uygun araçların onayında zorunlu tip I
+emisyon deney çevrimi olarak kullanılan tadil edilmiş 2 sayılı BM/AEK
+Küresel Teknik Regülasyon, EK VI(A)'da bahsi geçen gözden geçirilmiş
+WMTC’yi,
+öö) WMTC aşama 3: L kategorisinde yer alan Euro 5'e
+uygun araçların onayında zorunlu tip I emisyon deney çevrimi olarak
+kullanılan, düşük azami tasarım araç hızına sahip araçlara yönelik olan ve
+tadil edilmiş 2 sayılı BM/AEK Küresel Teknik Regülasyon'da bahsi geçen
+Dünya Uyumlaştırılmış Motosiklet Deney Çevrimi'ne denk ve AB/168/2013
+Yönetmeliğinin EK VI(A)'sında yer verilen gözden geçirilmiş WMTC’yi,
+pp) Yakıt hücresi: Aracın tahrik edilmesi amacıyla
+hidrojen içindeki kimyasal enerjiyi elektrik enerjisine dönüştüren cihazı,
+ifade eder.
+İKİNCİ BÖLÜM
+İmalatçının
+Araçların Çevre Performansı Açısından Yükümlülükleri
+L kategorisinde yer alan araçların çevre
+performansına ilişkin donanım ve gösterim şartları
+MADDE 3 – (1) İmalatçı; L kategorisinde yer alan araçlara,
+normal kullanım koşulları altında ve imalatçı tarafından tavsiye edilen
+bakım işlemleri ışığında araçların bu Yönetmelikte yer verilen ayrıntılı
+teknik şartlar ve deney prosedürlerine uygun olabilmesine olanak sağlamak
+amacıyla tasarlanan, imal edilen ve monte edilen ve aynı zamanda aracın
+çevre performansını etkileyen sistemler, aksamlar ve ayrı teknik üniteleri
+takar.
+(2) İmalatçı; fiziksel gösterim deneylerinden
+faydalanarak piyasaya sürülen, tescil edilen veya kullanıma alınan L
+kategorisinde yer alan araçların, bu Yönetmeliğin 5 inci ila 15 inci
+maddelerinde belirtilen ve bu araçlara yönelik çevre performansıyla ilgili
+ayrıntılı teknik şartlar ile deney prosedürlerine uygun olduğunu onay
+kuruluşuna gösterir.
+(3) Eğer imalatçı çevre performansı açısından tip
+onayı alan aracın piyasaya sürülmesinden sonra emisyonla ilgili herhangi
+bir aksamın performans veya emisyon azaltma sistemi özelliklerini
+değiştirir ise bu durumu gecikmeksizin onay kuruluşuna bildirir. İmalatçı;
+değiştirilen emisyon azaltma sistemi veya aksamı özelliklerinin, tip onayı
+esnasında gösterilen çevre performansından daha kötü bir performansa neden
+olmadığını onay kuruluşuna kanıtlar.
+(4) İmalatçı; Birlik bünyesinde piyasaya sürülen
+veya kullanıma alınan yedek parçalar ile ekipmanların, bu Yönetmelikte
+bahsi geçen araçların çevre performansı açısından ayrıntılı teknik şartlara
+ve deney prosedürlerine uygun olmasını sağlar. Bu tür bir yedek parça veya
+ekipman ile donatılmış, L kategorisinde yer alan onaylı araçlar;
+AB/168/2013 Yönetmeliğinin 22 nci maddesinin ikinci fıkrası ile 23
+üncü ve 24 üncü maddelerinde yer
+verilen şartlar dahil olmak üzere dayanıklılık şartlarına uygun olan
+orijinal parça veya ekipmanın karşıladığını deney şartları ve performans
+sınır değerleri ile aynı değerleri karşılar.
+(5) İmalatçı; AB/168/2013 Yönetmeliğinin 33 üncü
+maddesi ile Ek II’sinin C bölümünün 3 üncü maddesinde belirtilen ayrıntılı
+çevre ve tahrik ünitesi performansı şartları açısından imalat uygunluğunun
+doğrulanmasına yönelik tip onayı prosedürlerinin takip edilmesini sağlar.
+(6) İmalatçı; AB/168/2013 Yönetmeliğinin Ek
+II’sinin C bölümünün 1 inci maddesi uyarınca çevre ve tahrik ünitesi
+performansını kontrol eden bilgisayarlar dahil olmak üzere aktarma
+organları yönetim sisteminin onaysız değiştirilmesini önlemeye yönelik
+tedbirlere ait bir açıklamayı onay kuruluşuna teslim eder.
+(7) İmalatçı; hibrit uygulamalarda veya
+durdurma-çalıştırma sistemine sahip uygulamalarda, çevre ve tahrik ünitesi
+performansı testleri veya muayenesine bağlı olarak, aracın sürekli şekilde
+yakıt tüketen motorla tahrik edilebilmesini sağlayan bir "kullanım
+modunu" araca monte eder. Bu muayene veya deneyin yapılması özel bir
+prosedürü gerekli kılıyor ise bu durum servis kitapçığında (veya eşdeğer
+belgede) ayrıntılarıyla açıklanır. Bahsi geçen özel prosedür, araçla
+birlikte sunulanlar dışında hiçbir özel ekipmanın kullanılmasını
+gerektirmez.
+BM/AEK
+regülasyonlarının uygulanması
+MADDE 4 – (1) Bu Yönetmeliğin Ek I'inde belirtilen BM/AEK
+Regülasyonları ve bunlara ait değişiklikler aynı zamanda çevre ve tahrik
+ünitesi performansı tip onayı için de geçerlidir.
+(2) Azami araç tasarım hızı 25 km/saate eşit veya
+az olan araçlar, azami araç tasarım hızı 25 km/saatten büyük olan araçlara
+uygulanan ve BM/AEK Regülasyonlarında yer alan tüm ilgili şartlara uygun
+olmalıdır.
+(3) BM/AEK Regülasyonlarında L1, L2, L3, L4, L5, L6
+ve L7 araç kategorilerine yapılan atıflar; tüm alt kategoriler dahil olmak
+üzere bu Yönetmelik kapsamında yer alan sırasıyla L1e, L2e, L3e, L4e, L5e,
+L6e ve L7e araç kategorilerine yapılmış sayılır.
+L
+kategorisinde yer alan araçların çevre performansı açısından teknik
+özellikleri, şartları ve deney prosedürleri
+MADDE 5 – (1) Çevre ve tahrik ünitesi performansı deney
+prosedürleri, bu Yönetmelikte belirtilen deney şartlarına uygun şekilde
+gerçekleştirilir.
+(2) Deney prosedürleri, onay kuruluşu tarafından
+veya onay kuruluşunun huzurunda veya onay kuruluşu tarafından
+yetkilendirilmiş olması durumunda teknik servis tarafından
+gerçekleştirilir. İmalatçı; EK XI şartlarına uygun olarak L kategorisinde
+yer alan araçların çevre performansının uygunluğunu onay kuruluşunu tatmin
+edecek şekilde göstermek için temsil niteliğine sahip bir ana araç seçer.
+(3) Ölçüm yöntemleri ile deney sonuçları, formatı
+AB/168/2013 Yönetmeliğinin 32 nci maddesinin birinci fıkrasında verilen bir
+deney raporu şeklinde onay kuruluşuna raporlanır.
+(4) Deney tipleri I, II, III, IV, V, VII ve VIII
+ile ilgili olarak çevre performansı tip onayını, farklı araç varyantlarına,
+versiyonlarına ve tahrik tiplerine ve ailelerine genişletmelidir. Ancak bu
+durumda EK XI'de belirtilen araç versiyonu, tahrik veya kirlilik kontrol
+sistemi parametrelerinin aynı Ek'te açıklananlarla aynı veya tarif ve beyan
+edilen tolerans payları içinde yer alır.
+(5) Hibrit uygulamalar ve durdurma-çalıştırma
+sistemine sahip uygulamalar, deney prosedüründe belirtilmiş ise yakıt
+tüketen motor çalışır vaziyetteyken test edilir.
+Deney tip
+I şartları: Soğuk çalıştırmadan sonraki egzoz emisyonları
+MADDE 6 – (1) AB/168/2013 Yönetmeliğinin EK V’indeki Bölüm
+A'da yer alan soğuk çalıştırmadan sonraki egzoz emisyonlarına ilişkin deney
+tip I için geçerli olan deney prosedürleri ve şartları, bu Yönetmeliğin EK
+II’si uyarınca gerçekleştirilip doğrulanır.
+Deney tip
+II şartları: Yüksek rölanti ve serbest ivmede egzoz emisyonları
+MADDE 7 – (1) AB/168/2013 Yönetmeliğinin EK V’indeki Bölüm
+A'da yer alan yüksek rölanti ve serbest ivmedeki egzoz emisyonlarına
+ilişkin deney tip II için geçerli olan deney prosedürleri ve şartları, bu
+Yönetmeliğin EK III’ü uyarınca gerçekleştirilip doğrulanır.
+Deney tip
+III şartları: Karter gazı emisyonları
+MADDE 8 – (1) AB/168/2013 Yönetmeliğinin EK V’indeki Bölüm
+A'da yer alan karter gazları emisyonlarına ilişkin deney tip III için
+geçerli olan deney prosedürleri ve şartları, bu Yönetmeliğin EK IV’ü
+uyarınca gerçekleştirilip doğrulanır.
+Deney tip
+IV şartları: Buharlaşma emisyonları
+MADDE 9 – (1) AB/168/2013 Yönetmeliğinin EK V’indeki Bölüm
+A'da yer alan buharlaşma emisyonlarına ilişkin deney tip IV için geçerli
+olan deney prosedürleri ve şartları, bu Yönetmeliğin EK V’i uyarınca
+gerçekleştirilip doğrulanır.
+Deney tip
+V şartları: Kirlilik kontrol cihazlarının dayanıklılığı
+MADDE 10
+– (1) AB/168/2013 Yönetmeliğinin
+EK V’indeki Bölüm A'da yer alan kirlilik kontrol cihazlarının
+dayanıklılığına ilişkin deney tip V için geçerli olan deney prosedürleri ve
+şartları, bu Yönetmeliğin EK VI’sı uyarınca gerçekleştirilip doğrulanır.
+Deney tip
+VII şartları: CO2 emisyonları, yakıt
+tüketimi, elektrik enerjisi tüketimi veya elektrik menzili
+MADDE 11
+– (1) AB/168/2013 Yönetmeliğinin
+EK V’indeki Bölüm A'da yer alan CO2 emisyonları, yakıt tüketimi, elektrik
+enerjisi tüketimi veya elektrikli menzil açısından enerji verimliliğine
+ilişkin deney tip VII için geçerli olan deney prosedürleri ve şartları, bu
+Yönetmeliğin EK VII’si uyarınca gerçekleştirilip doğrulanır.
+Deney tip
+VIII şartları: OBD çevre deneyleri
+MADDE 12
+– (1) AB/168/2013 Yönetmeliğinin
+EK V’indeki Bölüm A'da yer alan bütünleşik tanı cihazlarının (OBD) çevresel
+parçalarına ilişkin deney tip VIII için geçerli olan deney prosedürleri ve
+şartları, bu Yönetmeliğin EK VIII’i uyarınca gerçekleştirilip doğrulanır.
+Deney tip
+IX şartları: Ses seviyesi
+MADDE 13
+– (1) AB/168/2013 Yönetmeliğinin
+EK V’indeki Bölüm A'da yer alan ses seviyesine ilişkin deney tip IX için
+geçerli olan deney prosedürleri ve şartları, bu Yönetmeliğin EK IX’u
+uyarınca gerçekleştirilip doğrulanır.
+ÜÇÜNCÜ BÖLÜM
+İmalatçının
+Araçların Tahrik Performansı Açısından Yükümlülükleri
+Genel
+yükümlülükler
+MADDE 14
+– (1) İmalatçı, L kategorisinde
+yer alan bir aracı piyasaya sürmeden önce bu Yönetmelikte yer verilen
+şartlara uygun şekilde onay kuruluşuna L kategorisinde yer alan araç
+tipinin tahrik ünitesi performansını gösterir.
+(2) İmalatçı; L kategorisinde yer alan bir aracı
+piyasaya sürerken veya tescil ettirirken veya kullanıma almadan önce L
+kategorisinde yer alan araç tipinin tahrik ünitesi performansının,
+AB/168/2013 Yönetmeliğinin 27 nci maddesinde yer verilen bilgi dosyasında
+onay kuruluşuna raporlanan değerden daha yüksek olmadığından emin
+olmalıdır.
+(3) Yedek sistem, aksam veya ayrı teknik üniteye
+sahip bir aracın tahrik ünitesi performansı, orijinal sistemler, aksamlar
+veya ayrı teknik ünitelere sahip araçların tahrik ünitesi performansından
+fazla olamaz.
+Tahrik
+performansı şartları
+MADDE 15
+– (1) AB/168/2013 Yönetmeliğinin
+EK II’sinin A Bölümünde yer alan 2 nci maddedeki tahrik ünitesi
+performansına yönelik deney prosedürleri ve şartları, bu Yönetmeliğe ait EK
+X uyarınca gerçekleştirilip doğrulanır.
+DÖRDÜNCÜ BÖLÜM
+Onay
+Kuruluşunun Yükümlülükleri
+L kategorisinde yer alan araçlar ile bunlara ait
+sistemler, aksamlar veya ayrı teknik
+ünitelerin tip onayı
+MADDE 16
+– (1) İmalatçının talep etmesi
+halinde, onay kuruluşu, ilgili aracın AB/168/2013 Yönetmeliğine ve bu
+Yönetmelikte belirtilen ayrıntılı deney şartlarına uygun olması şartıyla,
+aracın çevre performansıyla ilgili gerekçeler öne sürerek, yeni araç tipi
+için çevre ve tahrik ünitesi performansı tip onayını veya ulusal onayı
+vermeyi reddedemez ya da aracın, sistemin, aksamın veya ayrı teknik
+ünitenin piyasaya sürülmesini, tescil ettirilmesini veya kullanıma
+alınmasını yasaklayamaz.
+(2) Bu Yönetmeliğin EK IV’ünde belirtilen tarihten
+itibaren geçerli olmak üzere, AB/168/2013 Yönetmeliğinin EK VII ve EK VI,
+Bölüm A1, B1, C1 ve D'de tarif edilen Euro 4 çevre adımına veya AB/168/2013
+Yönetmeliğinin EK VII ve EK VI, Bölüm A2, B2, C2 ve D'de tarif edilen Euro
+5 çevre adımına uygun olmayan yeni araçlar için önceki çevresel sınır
+değerleri içeren uygunluk belgeleri AB/168/2013 Yönetmeliğinin 43 üncü
+maddesinin birinci fıkrası açısından geçerli kabul edilmez.
+(3) AB/168/2013 Yönetmeliğinin geçici 1 inci
+maddesinin beşinci fıkrası uygulanırken onay kuruluşu, onaylı araç tipini
+aynı Yönetmeliğin EK I'ine uygun şekilde sınıflandırır.
+Yedek
+kirlilik kontrol cihazlarının tip onayı
+MADDE 17
+– (1) Bu Yönetmelik kapsamında
+onaylanan araçlara takılmak üzere tasarlanan yeni yedek kirlilik kontrol
+cihazlarının, bu Yönetmelik ve AB/168/2013 Yönetmeliğinin 23 üncü
+maddesinin onuncu fıkrası uyarınca verilen bir çevre ve tahrik ünitesi
+performansı tip onayında belirtilen tipte olmaması halinde bu cihazlar
+piyasaya sürülemez veya bir araca takılamaz.
+(2) Onay kuruluşu; uygulanan ilk şartlar kapsamında
+23/12/2004 tarihli ve 25679 sayılı Resmî Gazete’de yayımlanan İki veya Üç
+Tekerlekli Motorlu Araçların Tip Onayı Yönetmeliği (2002/24/AT)’nde
+belirtilen tipte olan yedek kirlilik kontrol cihazları için AB/168/2013
+Yönetmeliğinin 35 inci maddesinde yer alan AB tip onaylarının kapsam
+genişletilmesine izin vermeye devam edebilir. İlgili bir tip onayının
+verildiği tipte olmamaları halinde bahsi geçen yedek kirlilik kontrol
+cihazının tipi piyasaya sürülemez veya bir araca takılamaz.
+(3) Bu Yönetmelik uyarınca tip onayı almış bir
+araca takılmak üzere tasarlanan yedek kirlilik kontrol cihazının tipleri,
+EK VI ve EK II İlave 10 uyarınca test edilir.
+(4) Bu Yönetmelik kapsamında yer alan bir tipte
+olan ve ilgili tüm araç tip onayı belgesinin ilgili olduğu orijinal ekipman
+yedek kirlilik kontrol cihazlarının EK II İlave 10'da yer verilen deney
+şartlarına uygun olması zorunlu değildir ancak bunun için bahsi geçen
+cihazların aynı İlavedeki 4 üncü madde şartlarına uygun olması
+gerekmektedir.
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Avrupa
+birliği mevzuatına uyum
+MADDE 18
+– (1) Bu Yönetmelik, iki veya üç
+tekerlekli araçların ve dört tekerlekli motosikletlerin ve bu araçlarda
+kullanılmak üzere tasarlanan sistemler, aksamlar ve ayrı teknik ünitelerin
+tip onayı için çevresel ve tahrik ünitesi performansı hakkındaki 16/12/2013
+tarihli ve (AB) 134/2014 sayılı Avrupa Komisyonu Tüzüğü dikkate alınarak
+Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
+Yürürlük
+MADDE 19
+– (1) Bu Yönetmelik 1/1/2018
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 20 – (1) Bu Yönetmelik hükümlerini Bilim, Sanayi ve
+Teknoloji Bakanı yürütür.
+Ekleri için tıklayınız
