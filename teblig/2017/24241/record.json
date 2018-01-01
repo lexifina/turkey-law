@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24241",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 490)",
+  "number": "24241",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2017/24241",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24241&MevzuatTertip=5",
+  "source_sha256": "86adcea611918368c0d84e7e0dbadc8e3dc4d4311c277015a8385be3e9f1d6d7",
+  "source_bytes": 10020,
+  "published": "2017-12-29",
+  "gazette": "30285 (Mükerrer)",
+  "in_force": "2018-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 272,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24241-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
