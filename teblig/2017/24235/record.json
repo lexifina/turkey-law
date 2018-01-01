@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24235",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MOTORLU TAŞITLAR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 49)",
+  "number": "24235",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2017/24235",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24235&MevzuatTertip=5",
+  "source_sha256": "6821ba29ee030a26ae9fb74ecca12eace0e5b651b8fb4a824c0bdf01bb666eae",
+  "source_bytes": 72438,
+  "published": "2017-12-29",
+  "gazette": "30285 (Mükerrer)",
+  "in_force": "2018-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 700,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
