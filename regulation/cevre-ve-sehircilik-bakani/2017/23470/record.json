@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23470",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BENZİN VE MOTORİN TÜRLERİNİN ÇEVRESEL ETKİLERİNE DAİR YÖNETMELİK",
+  "number": "23470",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2017/23470",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23470&MevzuatTertip=5",
+  "source_sha256": "db2d10b4cc1cbde7c088b682ecf5c7e887fc13381d84c047ec62be533a4e856c",
+  "source_bytes": 15762,
+  "published": "2017-04-01",
+  "gazette": "30025",
+  "in_force": "2018-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 535,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununun Ek 6 ncı maddesine, 29/6/2011 tarihli ve 644 sayılı Çevre ve Şehircilik Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 8 inci maddesine, 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanuna ve 4/12/2003 tarihli ve 5015 sayılı Petrol Piyasası Kanununa dayanılarak hazırlanmıştır.
