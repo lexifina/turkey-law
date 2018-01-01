@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24238",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DAMGA VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 62)",
+  "number": "24238",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2017/24238",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24238&MevzuatTertip=5",
+  "source_sha256": "fb4e10a2a7b96a260b6fd9b0eeecd3566663ec8b670293b92c6a3998251dd88c",
+  "source_bytes": 12224,
+  "published": "2017-12-29",
+  "gazette": "30285 (Mükerrer)",
+  "in_force": "2018-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 239,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24238-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
