@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24201",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "5015 SAYILI PETROL PİYASASI KANUNUNUN 19 UNCU MADDESİ UYARINCA 2018 YILINDA UYGULANACAK PARA CEZALARI HAKKINDA TEBLİĞ",
+  "number": "24201",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu Başkanı",
+  "path": "teblig/2017/24201",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24201&MevzuatTertip=5",
+  "source_sha256": "f8a39a8ae13b3761e1ffae391b5a4762f07a2b6159bcbe52c2a026c6747dbba8",
+  "source_bytes": 16565,
+  "published": "2017-12-21",
+  "gazette": "30277",
+  "in_force": "2018-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 345,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
