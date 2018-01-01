@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.23680",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL YARDIM YARARLANICILARININ İSTİHDAMINA İLİŞKİN YÖNETMELİK",
+  "number": "23680",
+  "issuer": "Aile ve Sosyal Politikalar Bakanı",
+  "issuer_slug": "aile-ve-sosyal-politikalar-bakani",
+  "path": "regulation/aile-ve-sosyal-politikalar-bakani/2017/23680",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23680&MevzuatTertip=5",
+  "source_sha256": "3e6a6048ab5ed492a8b881dd2d6b2e5d75308363902c86162198b5104eb92944",
+  "source_bytes": 30971,
+  "published": "2017-06-22",
+  "gazette": "30104",
+  "in_force": "2018-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1503,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
