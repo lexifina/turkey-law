@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24236",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERASET VE İNTİKAL VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO:49)",
+  "number": "24236",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2017/24236",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24236&MevzuatTertip=5",
+  "source_sha256": "5274255387615488063392ddc5c16079e536439ff12b7385c5ba5381070d16c8",
+  "source_bytes": 19606,
+  "published": "2017-12-29",
+  "gazette": "30285 (Mükerrer)",
+  "in_force": "2018-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 428,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
