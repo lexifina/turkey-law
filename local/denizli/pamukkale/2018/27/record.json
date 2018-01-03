@@ -1,0 +1,24 @@
+{
+  "number": "27",
+  "number_as_published": "2018/27",
+  "year": 2018,
+  "title": "Denizli İli, Pamukkale İlçesi, Dokuzkavaklar Mahallesinde hazırlanan 1/1000 ölçekli Uygulama İmar Planı Değişikliğinin onanması konusunun incelenmek üzere İmar Komisyonuna havalesi.",
+  "decision_date": "2018-01-03",
+  "source": "https://www.pamukkale.bel.tr/y-227-2018-yili-ocak-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "475504999bcd3e1ca82749551c57a4eaada7f5838e9e07ac550ee5539c8dda6c",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2018-01-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.01.2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.pamukkale.bel.tr/y-227-2018-yili-ocak-ayi-meclis-karar-ozetleri",
+  "listing_label": "2018 Yılı Ocak Ayı Meclis Karar Özetleri",
+  "record_scope": "one council decision (published decision summary)"
+}
