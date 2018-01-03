@@ -1,0 +1,9 @@
+Konu: Hüküm dışı bırakılan konuya ilişkin yapılan temyiz talebi.
+
+2- 93 sayılı ilamın 9. maddesiyle, ... Belediyesi ile ... Sen arasında 25.11.2014 tarihinde imzalanan ve 01.04.2014.-31.03.2016 dönemini kapsayan Toplu İş Sözleşmesi ve 11.04.2016 tarihinde imzalanan ve 01.04.2016-31.03.2018 dönemini kapsayan Toplu İş Sözleşmesi ile ve ayrıca 09.08.2011 tarihli sözleşmeye ve bu sözleşmeye dayanılarak akdedilen 09.03.2012 tarihli ek sözleşmeye yeni mali haklar getirecek şekilde memurlara sosyal denge tazminatının, yasayla belirlenen limitlere uyulmaksızın ödenmesi sonucunda kamu zararına sebebiyet verildiği hususunda;
+
+Belediye ile Sendika arasında 25.11.2014 tarihinde imzalanan ve 01.04.2014 – 31.03.2016 tarihlerini kapsayan sözleşme ile 11.04.2016 tarihinde imzalanan ve 01.04.2016 – 31.03.2018 tarihlerini kapsayan sözleşmeleri Belediye adına imza edenler arasında yer alan Belediye Başkanı ..., Belediye Başkanı Vekili ..., Belediye Başkan Yardımcısı ..., Belediye Başkan Yardımcısı ..., Hukuk İşleri Müdürü Av. ..., Mali Hizmetler Müdürü ..., Mali Hizmetler Müdürü ... ve İnsan Kaynakları ve Eğitim Müdürü ...’nun imzaladıkları sözleşmelerin geçerli olduğu dönemlerdeki ödemelerden dolayı savunmaları alınarak ve ahizler itibariyle ayrıntılı kamu zararı tablosu oluşturularak ek rapor düzenlenmesinin temini için 233 adet ödeme emri belgesi toplamı ... TL’lik işlemin hüküm dışı bırakılmasına, karar verilmiştir.
+
+Sorumlunun dilekçesi, Başsavcılık karşılaması işbu tutanağın/ilamın 1. maddesinde belirtildiği gibi olup; sözü edilen maddede yer alan gerekçelerle 93 sayılı İlamın 9. maddesiyle verilen hüküm dışı kararı ile ilgili olarak Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, oybirliğiyle,
+
+Karar verildiği 27.03.2019 tarih ve 45934 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
