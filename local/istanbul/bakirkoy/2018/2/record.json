@@ -1,0 +1,23 @@
+{
+  "number": "2",
+  "number_as_published": "2",
+  "year": 2018,
+  "title": "council decision",
+  "decision_date": "2018-01-03",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/43",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/02-irfan-kurtulmus-baskan-yarducret-takdiri-03012018.pdf",
+  "source_sha256": "d984535d165b33d959f936ceccfcdb61931c1ca4c1808eee025bf9096e75fa75",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2018-01-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03 Ocak 2018 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
