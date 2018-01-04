@@ -1,0 +1,22 @@
+{
+  "number": "197",
+  "number_as_published": "2017/197",
+  "year": 2017,
+  "title": "Pirinççi Mahallesi 1/1000 ölçekli Uygulama İmar Planı",
+  "decision_date": "2018-01-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2018-ocak-ayi-meclis-kararlari/1426",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2017-197/1427",
+  "source_sha256": "9f8038ba92c337cfd63227565eaa55a3d93170ccd32ce9572db567d6d0b2ef85",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-01-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.01.2018 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "436a5cb5a18da8dec849b57bfa82383a045da1c30eb177e3890d433552cee816"
+}
