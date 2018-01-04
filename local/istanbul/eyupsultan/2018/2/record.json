@@ -1,0 +1,22 @@
+{
+  "number": "2",
+  "number_as_published": "2018/02",
+  "year": 2018,
+  "title": "Akşemsettin Mahallesi, Alperen Caddesi, No: 41/A adresindeki taşınmazın İl Sağlık Müdürlüğü, İl Ambulans Servisi tarafından Acil Sağlık Hizmetleri İstasyonu olarak kullanılmak üzere 20 yıl süre ile bedelsiz tahsisi",
+  "decision_date": "2018-01-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2018-ocak-ayi-meclis-kararlari/1426",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2018-02/1431",
+  "source_sha256": "9f8038ba92c337cfd63227565eaa55a3d93170ccd32ce9572db567d6d0b2ef85",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-01-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.01.2018 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "077040e5ad86a24765757b6ad901d161f5e1c7e8a90dbc1125eb73466188979a"
+}
