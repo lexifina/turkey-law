@@ -1,0 +1,22 @@
+{
+  "number": "9",
+  "number_as_published": "2018/09",
+  "year": 2018,
+  "title": "Aktarmalar",
+  "decision_date": "2018-01-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2018-ocak-ayi-meclis-kararlari/1426",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2018-09/1434",
+  "source_sha256": "9f8038ba92c337cfd63227565eaa55a3d93170ccd32ce9572db567d6d0b2ef85",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-01-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.01.2018 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "d61c0e74b5cd44210554d556597ed87ff63ef0f1247ca3755d17402c57ad3feb"
+}
