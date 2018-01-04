@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35506",
+  "decision_date": "2018-01-04",
+  "source_id": 25739,
+  "chamber": "2",
+  "ilam_number": "49",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25739/",
+  "source_sha256": "22156630b35df51b6cfe6355ce7d604b1acaef4e9f37423ba6ea417fe6255850",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
