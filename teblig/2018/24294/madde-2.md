@@ -1,0 +1,2 @@
+Karar
+MADDE 2 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, 7009.91 Gümrük Tarife Pozisyonunda yer alan “çerçevesiz cam aynalar”ın İran İslam Cumhuriyeti menşeli olanlarının ithalatında 1/7/2017 tarihli ve 30111 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin Tebliğ (Tebliğ No: 2017/7) gereğince uygulanmakta olan korunma önleminin yürürlükten kaldırılmasına toplantıya katılan üyelerin oy birliği ile karar vermiştir.
