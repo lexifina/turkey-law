@@ -1,0 +1,57 @@
+{
+  "source_id": "7.5.11286",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIMSAL ÜRETİCİ BİRLİKLERİ İLE TARIMSAL ÜRETİCİ MERKEZ BİRLİKLERİNİN DENETLENMESİ HAKKINDA YÖNETMELİK",
+  "number": "11286",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2007/11286",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11286&MevzuatTertip=5",
+  "source_sha256": "db2c6bc7618b04479539db8c41677d4b271049a168fd38b08707f31170ff18bf",
+  "source_bytes": 53351,
+  "published": "2007-05-01",
+  "gazette": "26509",
+  "in_force": "2018-01-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/1/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-01-05",
+      "RG-5/1/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-01-05",
+      "5/1/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-05-24",
+      "24/5/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-07-04",
+      "RG-4/7/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-07-04",
+      "4/7/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2319,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
