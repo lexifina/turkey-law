@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-01-05",
+  "issue": "30292",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2018 Yılı Uzlaştırmacı Asgari Ücret Tarifesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/01/20180105-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/01/20180105.htm",
+  "index_sha256": "05ce2b9f3ff595934698788471c8ffd397dbd4f6eb1320db657ccd9bd58dd885",
+  "index_header": "5 Ocak 2018 ... 30292 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/01/20180105.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "6773ef33570d890cc714e8f3300fb5b1457b6fc278eda5cbba8b09c12965d2c7",
+  "text_status": "text.txt as published"
+}
