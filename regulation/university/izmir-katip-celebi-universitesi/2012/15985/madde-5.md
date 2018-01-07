@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amacı; Üniversitede yürütülmekte olan internet destekli öğretim faaliyetlerinin daha etkin ve verimli yürütülmesini temin etmek, uzaktan eğitim ile ilgili araştırma-geliştirme ve uygulama çalışmaları yapmak, kurum ve kuruluşların uzaktan eğitim ihtiyaç ve isteklerine yardımcı olmak, lisans, lisansüstü ve yetişkin eğitiminde internet ortamında e-öğrenme temelli ders ve programları geliştirmek ve Üniversitede verilmekte olan dersleri e-öğrenme ile desteklemek, Üniversite bünyesinde e-öğrenme yoluyla verilecek olan sertifika programlarının açılması, kamu ve özel sektör kurum ve kuruluşlarının eğitim programlarını e-öğrenmeye uyarlamasına ve uzaktan eğitim sistemlerinin geliştirilmesine katkıda bulunmak, bilgi birikimini ilgili kurum ve kuruluşlara aktarmak, yayınlar yapmaktır.
