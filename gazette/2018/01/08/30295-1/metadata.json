@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-01-08",
+  "issue": "30295",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Karayolu Taşıma Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/01/20180108-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/01/20180108.htm",
+  "index_sha256": "ead61ae54ffb4a872832efde58cab71e5a6a27a09d6de92c04f2546df8a92629",
+  "index_header": "8 Ocak 2018 ... 30295 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/01/20180108.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "cec400f5a3b155f1f735f96001dab8e427cb5745a51c4f1022017bb64e96a136",
+  "text_status": "text.txt as published"
+}
