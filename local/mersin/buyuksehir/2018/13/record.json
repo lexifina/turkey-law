@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "13",
+  "decision_date": "2018-01-08",
+  "title": "MEC. KAR. ( Yenişehir Emirler, 120 ada, 5 parse",
+  "listed_as": "13 MEC. KAR. ( Yenişehir Emirler, 120 ada, 5 parse",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/13-mec-kar--yenisehir-emirler-120-ada-5-parsel-122-ada-25-ve-26-parsel--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/08-ocak-2018-meclis-kararlari",
+  "listing_sha256": "24c3f66a3d0f1877469c1a83f1fc0e7e52de3b254b6a481d857bc75f23a7509c",
+  "meeting_title": "08 OCAK 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
