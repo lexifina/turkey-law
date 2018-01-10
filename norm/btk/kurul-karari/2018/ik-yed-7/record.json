@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2018/İK-YED/7",
+  "date": "2018-01-10",
+  "title": "CLI İhlali",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2018-01-10",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=73",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/29ed8097-f84f-4d7a-a6bf-e5f5a80f36e1.pdf",
+  "source_sha256": "c2dbf875da8f29470ae5f7496fa88611bb9e8414e47bfb145cc4e60d80f5b9e5",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2018-01-10",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 10.01.2018; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
