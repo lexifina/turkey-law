@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2018/02",
+  "meeting_date": "2018-01-10",
+  "meeting_date_as_published": "10.1.2018",
+  "decision_no": "44",
+  "source_id": 10068,
+  "title": "RTÜK kararı 2018/02-44",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/10068",
+  "source_sha256": "a76812bbaee7cfeeec3d4f94aaa2d6d0bc9ac38eea8e1277ac8ebb203ad8e9e0",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
