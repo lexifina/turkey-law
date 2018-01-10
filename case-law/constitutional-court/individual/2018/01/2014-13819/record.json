@@ -1,0 +1,23 @@
+{
+  "applicant": "İYİ HABER YAYIN ORGANİZASYON TİC. A.Ş.",
+  "applicant_form": "entity",
+  "application_date": "2014-08-25",
+  "application_number": "2014/13819",
+  "database_publication_date": "2018-01-19",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2018-01-10",
+  "gazette_number": null,
+  "history_type": "metadata",
+  "id": "bc26cccf-92a9-8a51-f19c-c93f9ac65503",
+  "in_force": "2018-01-10",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "law_text_complete": false,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmJjMjZjY2NmLTkyYTktOGE1MS1mMTljLWM5M2Y5YWM2NTUwMw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_listing": "evidence/list/BireyselBasvuru-2018-01-01-2018-12-31-p1.json (official API answer, read 2026-11-15)",
+  "source_listing_sha256": "6e74ec1fca17f28b8d76f621101e52e8da09d3a7957363c3fca76a52713fc3c5",
+  "text_status": "metadata-only: official database listing fields; the decision text is on the linked official page, not transcribed"
+}
