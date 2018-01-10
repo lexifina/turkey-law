@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24227",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "COĞRAFİ İŞARET VE GELENEKSEL ÜRÜN ADI AMBLEM YÖNETMELİĞİ",
+  "number": "24227",
+  "issuer": "Türk Patent ve Marka Kurumu Başkanı",
+  "issuer_slug": "turk-patent-ve-marka-kurumu-baskani",
+  "path": "regulation/turk-patent-ve-marka-kurumu-baskani/2017/24227",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24227&MevzuatTertip=5",
+  "source_sha256": "b671c420e9f3a4572238b008d433d64a1379446d0d4930d78b2fbaf36a768416",
+  "source_bytes": 14431,
+  "published": "2017-12-29",
+  "gazette": "30285",
+  "in_force": "2018-01-10",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 10/1/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 10/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 428,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24227-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
