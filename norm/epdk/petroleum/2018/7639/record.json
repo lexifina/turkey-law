@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7639",
+  "decision_date": "2018-01-11",
+  "title": "Opet Petrolcülük A.Ş.?nin; DEP/476-159/10879 sayılı depolama lisansı kapsamında Körfez Terminali Funda Sokak No:76 Tütünçiftlik Körfez-İZMİT adresinde faaliyette bulunan Körfez Akaryakıt Depolama ve Dolum Tesisine ilişkin",
+  "resmi_gazete_date": "2018-01-16",
+  "resmi_gazete_number": "30303",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6kv3921ZqsE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6kv3921ZqsE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=56INnrL2RRQ="
+  ],
+  "source_sha256": "6f45fb9bc96f9d6a427a714a3fafb911f0461067bacac12407b94b4e9709e203",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-01-11",
+  "law_text_complete": true
+}
