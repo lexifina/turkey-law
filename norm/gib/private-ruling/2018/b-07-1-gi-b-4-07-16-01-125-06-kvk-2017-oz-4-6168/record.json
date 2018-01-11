@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2018-01-11T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2018-01-11",
+  "official_number": "B.07.1.GİB.4.07.16.01-125.06[KVK.2017.ÖZ.4]-6168",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22535",
+  "source_id": "ozelge:22535",
+  "source_row_sha256": "367142d9fba73368f9586f512c9eddf819bb28ce161712331627e20d3d9cf246",
+  "title": "Şirketin alt işvereni tarafından ödenmeyen SGK pirimlerinin gider yazılıp yazılmayacağı.",
+  "version_label": "as-enacted",
+  "word_count": 712
+}
