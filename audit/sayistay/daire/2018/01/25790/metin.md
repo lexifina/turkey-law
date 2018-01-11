@@ -1,0 +1,5 @@
+…. Fakültesinin çeşitli illerinde görev yapan personelin …. tarihleri arasında görevlendirildikleri …. ilinden dönüşlerini görevlendirme tarihinden sonra …. tarihinde yapmalarına karşın dönüş yol giderinin bütçeden karşılanması.
+
+…. Üniversitesi ….. Fakültesi … Bürosunda görev yapan ….. ve … Bürosunda görev yapan Hüseyin ….’ın …. tarihleri arasında ….’de geçici görevle görevlendirildiği, bu geçici göreve ait harcırah beyannamesinde dönüşlerini görevlendirme süresinin bitiminden sonra (….  tarihinde) yapmalarına rağmen dönüş yol giderinin bütçeden karşılandığı görülmüşse de, dönüşlerin Harcırah Kanununun 6 ncı maddesinde belirtilen mutat yol ve taşıt kullanılarak harcama talimatına uygun olarak yapıldığı; anılan nedenle kamu zararı oluşmadığı anlaşıldığından konu hakkında ilişik bulunmadığına ve yersiz tahsil edilen …. TL’nin söz konusu kişilere iadesine,
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
