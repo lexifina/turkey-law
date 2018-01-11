@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "286",
+  "decision_date": "2018-01-11",
+  "source_id": 26227,
+  "chamber": "5",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26227/",
+  "source_sha256": "f72a0d5eb40e0e82b54536519085c4438ad2df3747bcc1f2e1ad86d34158d48f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
