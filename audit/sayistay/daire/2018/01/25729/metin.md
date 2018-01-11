@@ -1,0 +1,5 @@
+Üniversiteye ait taşınmazları kullanan çeşitli şirketlerden bu kullanımları karşılığında kira, elektrik, su ve ısınma bedellerinin tahsil edilmemesi.
+
+Üniversiteye ait taşınmazları kullanan …. ile ….’nden bu kullanımları karşılığında kira, elektrik, su ve ısınma bedeli alınmadığı görülmüşse de, Üniversitece ….’ne taşınmaz tahsis edilmesinin 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanununa uygun olduğu; …. ile yapılan sözleşme ile belirlenen ve …. Üniversitesi Sosyal Tesisler İktisadi İşletmesi hesaplarına yatırılan kira bedellerinin Üniversite Strateji Geliştirme Daire Başkanlığı hesaplarına yatırıldığı; …. A. Ş. tarafından kampüs içerisinde kurulan ATM cihazı için yer tahsis edilmesi sonucunda 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 71 inci maddesinde yer alan kamu zararı oluşmadığı anlaşıldığından konu hakkında ilişik bulunmadığına,
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
