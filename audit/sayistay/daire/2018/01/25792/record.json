@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35511",
+  "decision_date": "2018-01-11",
+  "source_id": 25792,
+  "chamber": "2",
+  "ilam_number": "58",
+  "item_number": 5,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25792/",
+  "source_sha256": "a47c3a3277a71a2a1b4ef9c2158e195ccfba927bf42029533f310c831efa4d3b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
