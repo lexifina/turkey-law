@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, elektronik haberleşme hizmeti içinde kodlu veya kriptolu haberleşme yapmaya yetkili Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı, Milli İstihbarat Teşkilatı Müsteşarlığı, Emniyet Genel Müdürlüğü ve Dışişleri Bakanlığı ile bu kurumlara ait kodlu veya kriptolu elektronik haberleşme sistemlerinin kullanıldığı kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler hariç, diğer kamu kurum ve kuruluşları ile gerçek ve tüzel kişileri kapsar.
+(2) Kurum düzenlemelerinde belirlenen ve işletilmesi için frekans tahsisine ihtiyaç duyulmayan özel amaçlar için tahsis edilmiş frekans bantlarında ve çıkış gücünde çalışan Kurumca onaylı telsiz cihaz ve sistemleri bu Yönetmelik kapsamı dışındadır.
