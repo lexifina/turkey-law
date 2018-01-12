@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "81",
+  "decision_date": "2018-01-12",
+  "title": "MEC. KAR. (BÜYÜKECELİ DÜĞÜN SALONU).doc",
+  "listed_as": "81 MEC. KAR. (BÜYÜKECELİ DÜĞÜN SALONU).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/81-mec-kar-buyukeceli-dugun-salonudoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/12-ocak-2018-meclis-kararlari",
+  "listing_sha256": "70ae3546a31b1ec24e286af6587b068371ba66c51b3add22cd4b5929d1f53a5f",
+  "meeting_title": "12 OCAK 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
