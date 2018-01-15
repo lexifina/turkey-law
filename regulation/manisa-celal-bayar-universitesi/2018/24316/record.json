@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-01-15",
+      "15.01.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30302",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-01-15",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Manisa Celal Bayar Üniversitesi",
+  "issuer_slug": "manisa-celal-bayar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/manisa-celal-bayar-universitesi/2018/24316",
+  "published": "2018-01-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24316&MevzuatTertip=5",
+  "source_bytes": 24106,
+  "source_id": "8.5.24316",
+  "source_sha256": "f5ff01c99bf43c7987d4559641bcd237d15ea734785a38c2abb4e38a5f5898d8",
+  "text_status": "as-enacted",
+  "title": "MANİSA CELAL BAYAR ÜNİVERSİTESİ ÇOCUK EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 184,
+  "word_count": 804
+}
