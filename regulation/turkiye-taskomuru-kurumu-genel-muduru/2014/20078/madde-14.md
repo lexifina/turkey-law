@@ -1,0 +1,7 @@
+Görevde yükselme suretiyle atanma
+MADDE 14 – (1) Başvuruda bulunduğu kadro/pozisyona atanmaya hak kazanan personel, başarı sıralaması listesinin kesinleşmesini müteakip en yüksek puandan başlamak üzere belirlenen başarı sıralamasındaki, başarı sıralamasına göre atanır.
+(2) Duyurulan kadro veya pozisyonlardan;
+a) Atanma şartlarını taşımadıkları için sınavların geçersiz sayılması veya bu sebeple atamaların iptal edilmesi, atanılan göreve geçerli bir mazeret olmaksızın süresi içinde başlanmaması ya da atanma hakkından vazgeçilmesi,
+b) Emeklilik, ölüm, memurluktan çekilme veya çıkarılma, başka unvanlı kadro veya pozisyonlara ya da başka bir kuruma naklen atanma,
+sebepleriyle boş kalan veya boşalanlara, başarı sıralamasının kesinleştiği tarihten itibaren altı aylık süreyi aşmamak üzere aynı unvanlı kadro veya pozisyonlar için yapılacak müteakip sınava ilişkin duyuruya kadar, 13 üncü maddeye göre Kurumca belirlenmiş olması halinde yedekler arasından başarı sıralamasına göre atama yapılabilir.
+(3) Görevde yükselme sınavına herhangi bir sebeple katılmayanlar ile başarısız olan veya yedeklerden başarı sıralamasının ilan edildiği tarihten itibaren altı ay süreyi aşmamak üzere, aynı unvan için yapılacak müteakip sınava ilişkin duyuruya kadar atanmamış olanlar ya da atanma haklarından herhangi bir sebeple feragat edenler, aynı unvanlı kadro veya pozisyonlara yapılacak atamalar için bu Yönetmelikte öngörülen bütün usul ve esaslara tabidirler.
