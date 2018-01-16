@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2018-01-16T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2018-01-16",
+  "official_number": "B.07.1.GİB.4.34.17.01-130-50181",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29044",
+  "source_id": "ozelge:29044",
+  "source_row_sha256": "08d606b0a350f4d8514097c55fcaddc63da4fe6755eadfe5f0a7e981f115a578",
+  "title": "Sözleşmede belirlenen bedel için KDV dahil yada KDV hariç ibaresinin bulunmaması halinde KDV matrahının tespiti",
+  "version_label": "as-enacted",
+  "word_count": 321
+}
