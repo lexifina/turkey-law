@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "173",
+  "decision_date": "2018-01-16",
+  "source_id": 25782,
+  "chamber": "4",
+  "item_number": 6,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25782/",
+  "source_sha256": "5d32996dd03b0fa866e1277bf2a819dad0afe2206156a1ac45e8a7867cb79483",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
