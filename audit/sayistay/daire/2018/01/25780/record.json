@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "173",
+  "decision_date": "2018-01-16",
+  "source_id": 25780,
+  "chamber": "4",
+  "item_number": 4,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25780/",
+  "source_sha256": "77ac12daf2a2e62d8e9e548908f6328680288af4a5d185734feee4413649ae0d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
