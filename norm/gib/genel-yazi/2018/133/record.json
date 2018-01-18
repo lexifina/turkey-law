@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "genel-yazi",
+  "number": null,
+  "source_id": 133,
+  "date": "2018-01-18",
+  "title": "696 SAYILI KHK'NIN 127 NCİ MADDESİ KAPSAMINDA DAMGA VERGİSİ VE HARÇ İADESİNE İLİŞKİN UYGULAMA HK.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/genelyazilar/133",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/genelYazilar/list",
+  "source_listing": "evidence/list/2026-11-16/genelYazilar-p000.json",
+  "source_listing_sha256": "7fa6cf53cc6e422afa260107b4b730e46ac896bef1c1d196cf603add29126053",
+  "source_sha256": "956bb3405d02ccda274b4b996fb4128643bee5e04ee99aa24bf13ec7f38d5858",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
