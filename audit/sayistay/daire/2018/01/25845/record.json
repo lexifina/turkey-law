@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35513",
+  "decision_date": "2018-01-18",
+  "source_id": 25845,
+  "chamber": "2",
+  "ilam_number": "371",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25845/",
+  "source_sha256": "3e7bab84bde8597efafdeb6999c65e3b1bc178bd6f201e166636576b4b65f574",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
