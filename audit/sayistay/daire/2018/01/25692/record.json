@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10684",
+  "decision_date": "2018-01-19",
+  "source_id": 25692,
+  "chamber": "1",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25692/",
+  "source_sha256": "25f6f73ef0c467331268af6fe5532c86ab5c0f6ff3cf45d816994ee6f4ff6347",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
