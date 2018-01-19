@@ -1,0 +1,24 @@
+{
+  "number": "27",
+  "number_as_published": "27",
+  "year": 2018,
+  "title": "NAZIM İMAR PLANI(KARAKÖPRÜ-KARAKÖPRÜ)",
+  "decision_date": "2018-01-19",
+  "source": "https://www.sanliurfa.bel.tr/icerik/5534/106/nazim-imar-planikarakopru-karakopru",
+  "official_document": null,
+  "source_sha256": "44153dfcd34bc814649c3c97cfd3d5cd1838c54bfb388c23ee4f929a24b787ef",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2018-01-19",
+  "in_force_basis": "Decision date as printed in the official council listing: 19.01.2018 tarih ve 27 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2018-02-07",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
