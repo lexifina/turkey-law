@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10683",
+  "decision_date": "2018-01-19",
+  "source_id": 25771,
+  "chamber": "1",
+  "ilam_number": "46",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25771/",
+  "source_sha256": "d9246b7a27ea426f9866a4fc4151231d66dfd2c02da0d36e7b4dfe4b7fc42c93",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
