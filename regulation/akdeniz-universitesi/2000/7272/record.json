@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 20- Bu Yönetmelik yayımı tarihinde yürürlüğü girer ."
+  ],
+  "date_evidence": [
+    [
+      "2000-03-27",
+      "27.03.2000",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2018-01-21",
+      "RG-21/1/2018-30308",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-01-21",
+      "RG-21/1/2018-30308",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-01-21",
+      "RG-21/1/2018-30308",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-21/1/2018-30308",
+  "first_law": null,
+  "gazette": "24002",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-01-21",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/2000/7272",
+  "published": "2000-03-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7272&MevzuatTertip=5",
+  "source_bytes": 35062,
+  "source_id": "8.5.7272",
+  "source_sha256": "bb8b307c3a5891808fa360de161e9f7d3c4810388923c0bea63fc3f50cbb6d56",
+  "text_status": "current-consolidated",
+  "title": "AKDENİZ ÜNİVERSİTESİ TURİZM ARAŞTIRMA-GELİŞTİRME VE UYGULAMA MERKEZİ (TAGUM) YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 1342
+}
