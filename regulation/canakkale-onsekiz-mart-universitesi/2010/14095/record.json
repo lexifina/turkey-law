@@ -1,0 +1,74 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-07-14",
+      "14.07.2010",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2013-05-06",
+      "RG-6/5/2013-28639",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-05-06",
+      "RG-6/5/2013-28639",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-05-06",
+      "RG-6/5/2013-28639",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-01-22",
+      "RG-22/1/2018-30309",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-05-06",
+      "RG-6/5/2013-28639",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2013-05-06",
+      "6/5/2013",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2018-01-22",
+      "22/1/2018",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-22/1/2018-30309",
+  "first_law": null,
+  "gazette": "27641",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-01-22",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Çanakkale Onsekiz Mart Üniversitesi",
+  "issuer_slug": "canakkale-onsekiz-mart-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/canakkale-onsekiz-mart-universitesi/2010/14095",
+  "published": "2010-07-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=14095&MevzuatTertip=5",
+  "source_bytes": 37221,
+  "source_id": "8.5.14095",
+  "source_sha256": "9be4c839d97c9a1806b7fe6de326f71a0b1d5a2bf4a4751662554b6c1abb937b",
+  "text_status": "current-consolidated",
+  "title": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ DENEYSEL ARAŞTIRMALAR UYGULAMA VE ARAŞTIRMA MERKEZİ",
+  "university_id": 186,
+  "word_count": 1122
+}
