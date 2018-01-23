@@ -1,0 +1,5 @@
+Unvan değişikliğine ilişkin usul ve esaslar
+MADDE 21 – (1) (Değişik:RG-23/1/2018-30310) Bu Yönetmelik kapsamındaki personelin, en az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanmaları, bu Yönetmelikte belirtilen usul ve esaslar çerçevesinde yapılacak unvan değişikliği yazılı ve sözlü sınavı sonundaki başarısına göre boş kadro sayısı dikkate alınmak suretiyle gerçekleştirilir.
+(2) (Değişik:RG-23/1/2018-30310) Unvan değişikliği yazılı sınavları, görev alanları ve atama yapılacak görevin niteliğine ilişkin konularda bu Yönetmelik hükümlerine göre yaptırılır. Bu sınava katılacaklarda, İdarede veya öğrenim durumları ile ilgisi bulunmayan görevlerde belirli süre hizmet yapmış olma şartı aranmaz. Unvan değişikliği sınavı kapsamındaki görevlere, sadece İdarenin personeli başvurabilir.
+(3) (Değişik:RG-23/1/2018-30310) Unvan değişikliği sınavında yüz puan üzerinden en az altmış puan alanlar başarılı sayılır.
+(4) Bu Yönetmelik kapsamındaki personelden doktora öğrenimini bitirmiş olanlar, unvan değişikliği sınavına katılmaksızın öğrenimle ihraz edilen görevlere atanabilirler.

@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.19562",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÜNEYDOĞU ANADOLU PROJESİ BÖLGE KALKINMA İDARESİ TEŞKİLATI PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "19562",
+  "issuer": "Güneydoğu Anadolu Projesi Bölge Kalkınma İdaresi Teşkilatı Başkanı",
+  "issuer_slug": "guneydogu-anadolu-projesi-bolge-kalkinma-idaresi-teskilati-baskani",
+  "path": "regulation/guneydogu-anadolu-projesi-bolge-kalkinma-idaresi-teskilati-baskani/2014/19562",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19562&MevzuatTertip=5",
+  "source_sha256": "6c1e48326bdc62f7e71dece7fb7796ffcf12a9ca076e49d7fb367e187e13926b",
+  "source_bytes": 41186,
+  "published": "2014-04-09",
+  "gazette": "28967",
+  "in_force": "2018-01-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/1/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-01-23",
+      "RG-23/1/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-01-23",
+      "23/1/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2423,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
