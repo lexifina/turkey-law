@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "43999",
+  "decision_date": "2018-01-24",
+  "source_id": 15189,
+  "chamber": "2",
+  "file_number": "41926",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2013",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15189/",
+  "source_sha256": "ea3d94714af14d706e3e1af389692432f703d405fb0cdf26cca732fc703f7b8d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
