@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-01-24",
+  "issue": "30311",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2018/4)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/01/20180124-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/01/20180124.htm",
+  "index_sha256": "1e52414040a457198f564827e6efc0048f313261d524d68403e3f757346c79e0",
+  "index_header": "24 Ocak 2018 ... 30311 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/01/20180124.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "2201243635d498a58a7a8e9f1b0a4a940de5e47bc97df2454a6f2f0ed954627c",
+  "text_status": "text.txt as published"
+}
