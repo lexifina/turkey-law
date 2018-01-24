@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44007",
+  "decision_date": "2018-01-24",
+  "source_id": 15197,
+  "chamber": "2",
+  "file_number": "41305",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2014",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15197/",
+  "source_sha256": "fa71628179abe141ab5f574c8fdac2663337052699c05abea27c7e0d3b9e5764",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
