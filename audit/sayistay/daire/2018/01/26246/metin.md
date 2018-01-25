@@ -1,0 +1,39 @@
+Personel Çalıştırılmasına Dayalı İhalelerde Asgari Ücret Destek Kesintisi ve alt yüklenicilerle imzalanan sözleşmelerin damga vergisinin aranmaması:
+
+30.06.2016 tarihinde ihalesi yapılan ve 15.07.2016 tarihinde ... Büyükşehir Belediyesi ile ile ...Şti. arasında sözleşmesi imzalanan "... Büyükşehir Belediyesi Mücavir Alanı İçerisinde Bulunan Tüm Mezarlık Alanlarının Bakım Onarım ve Temizlik İşlerinin Yapılması Hizmet Alım İşi"nde;
+
+a) 6661 sayılı Kanun'dan kaynaklı asgari ücret desteğine ilişkin kesintilerin yapılmaması suretiyle kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak yapılan incelemede;
+
+6661 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun’un 17’nci maddesi ile 5510 sayılı Kanun’a eklenen geçici 6’ncı maddenin birinci ve sekizinci fıkralarında ele alınan konu ile ilgili Sosyal Güvenlik Kurumu Başkanlığı’nca yayımlanan 10.02.2016 tarih ve 2016-4 nolu Genelgenin “İhale Makamlarınca Destekten Yararlanan İşverenlerin Hakedişlerinden Yapılacak Kesintilere İlişkin Usul ve Esaslar” başlıklı 6’ncı maddesinde; destekten yararlanan işverenlerin yararlandıkları destek tutarlarının ihale makamlarınca hakedişlerinden kesilebilmesi için, söz konusu destek kapsamında yararlanılan tutarın “İdarelerce e-borç sorgulama” ekranından görüntülenmesine kadar talep edilmesi halinde ilgili Sosyal Güvenlik Merkezlerince/Sosyal Güvenlik İl Müdürlüklerince ihale makamlarına yazı ile bildirileceği ve bu yazıya istinaden kesinti yapılacağı belirtilmiştir.
+
+... Sosyal Güvenlik İl Müdürlüğünden alınan yazıda yüklenicinin asgari ücret desteğinden yararlandığı görülmüştür. Ancak yapılan incelemelerde yüklenicinin söz konusu destek tutarından yararlanmış olmasına rağmen ilgili hakedişlerinde kesinti yapılmadığı tespit edilmiştir.
+
+Bu itibarla; yüklenicinin yararlanmış olduğu asgari ücret destek tutarının hakedişlerinden kesilmemesi suretiyle oluşan ve aşağıda hesap şekli görülen toplam ...TL tutarındaki kamu zararının;
+
+-... TL'sinin Harcama Yetkilisi ...ve Gerçekleştirme Görevlisi ...,
+
+-...TL'sinin Harcama Yetkilisi ...ve Gerçekleştirme Görevlisi ...,
+
+-...TL'sinin Harcama Yetkilisi ...ve Gerçekleştirme Görevlisi ... müştereken ve mütelsilen 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faizleri ile ödettirilmesine, anılan Kanun’un 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere
+
+b) Yüklenici ile alt yüklenici arasında yapılan sözleşmeden kesilmesi gereken damga vergisi ile ilgili gerekli işlemlerin yapılmaması suretiyle kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak yapılan incelemede;
+
+488 sayılı Damga Vergisi Kanunu’nun l’inci maddesinde bu Kanuna ekli (1) sayılı tabloda yazılı kâğıtların Damga vergisine tabi olduğu, 3’üncü maddesinde Damga Vergisinin mükellefinin kâğıtları imza edenler olduğu, 24’üncü maddesinin ikinci fıkrasında, birden fazla kişi tarafından imza edilen kağıtlara ait vergi ve cezanın tamamından imza edenlerin müteselsilen sorumlu olduğu, 26’ncı maddesinde resmi dairelerin ilgili memurlarının kendilerine ibraz edilen kağıtların Damga Vergisini aramaya ve vergisi hiç ödenmemiş veya noksan ödenmiş olanları bir tutanakla tespit etmeye veya bunları tutanağı düzenlemek üzere, vergi dairesine göndermeye mecbur oldukları ayrıca Kanun’a ekli (I) sayılı tablonun I. Akitlerle ilgili kağıtlar kısmında belli parayı ihtiva eden sözleşmelerden binde 9,48 oranında damga vergisi alınması gerektiği belirtilmiştir.
+
+4734 sayılı Kamu İhale Kanunu’nun “Alt yükleniciler” başlıklı 15’inci maddesinde, “ihale konusu işin özelliği nedeniyle ihtiyaç görülmesi halinde, ihale aşamasında isteklilerden alt yüklenicilere yaptırmayı düşündükleri işleri belirtmeleri, sözleşme imzalamadan önce de alt yüklenicilerin listesini idarenin onayına sunmaları istenebilir. Ancak bu durumda, alt yüklenicilerin yaptıkları işlerle ilgili sorumluluğu yüklenicinin sorumluluğunu ortadan kaldırmaz.” düzenlemesi yer almış, Yapım İşleri Genel Şartnamesinin “Alt yüklenicilerin çalıştırılması ve sorumlulukları” başlıklı 20’nci maddesinde ayrıntılı düzenlemeler yapılmıştır.
+
+... Ltd. Şti. ile ... Ltd. Şti arasında İdarenin 15.07.2016 tarihli onayına istinaden alt yüklenici sözleşmesi yapıldığı ve sözleşmenin de idareye sunulduğu görülmüştür. Ancak yüklenici ile alt yüklenici arasında imzalanan ve İdare'ye sunulan ...TL bedelli sözleşmeden 488 sayılı Damga Vergisi Kanunu'na göre binde 9,48 oranında toplam ...TL (...*0,00948) tutarında sözleşme damga vergisi alınmadığı tespit edilmiştir.
+
+Sorumlular savunmalarında; Sayıştay 5’inci Dairesinin 15.11.2016 tarih ve 2016/200-1 sayılı kararını emsal göstererek herhangi bir kamu zararının oluşmadığını ifade etmişlerdir.
+
+Sayıştay 5’inci Dairesinin konu edilen kararında; “Bu itibarla, idarenin asıl yüklenici ile alt yüklenici firma arasında yapılan sözleşmeden damga vergisi almaması sonucu toplam ....TL kamu zararıyla ilgili olarak, sorumluların gönderdiği bilgi ve belgelerden, söz konusu verginin asıl yüklenicileri tarafından mâliyeye beyanların verilmiş olduğunu ve tahakkukları yapılarak ilgili vergi daireleri tarafından alacak kayıtlarının da yapılmış olduğu görüldüğünden hesap ve işlemlerin yasal düzenlemelere uygun olduğuna ve ilişilecek bir husus kalmadığına, … karar verildi." denilmektedir.
+
+Söz konusu Karar'da da görüleceği üzere, alt yüklenici sözleşmesinden kaynaklanan Damga Vergisinin asıl yüklenicileri tarafından maliyeye beyanların verilmiş olması ve tahakkuklarının yapılarak ilgili vergi daireleri tarafından alacak kayıtlarının da yapılmış olması nedeniyle ilişilecek bir husus kalmadığına hükmedilmiştir. Daire Kararında, yüklenici ile alt yüklenici arasında yapılan sözleşmeden Damga Vergisi alınmayacağı yönünde bir hüküm bulunmamaktadır. Yalnızca yüklenici tarafından alt yüklenici sözleşmesinden kaynaklı Damga Vergisi maliyeye beyan edilmiş ise Belediyece ayrıca tahsil edilmesine gerek kalmayacaktır.
+
+Sorumlular tarafından gönderilen savunma ve eki belgelerin incelenmesi neticesinde; Daire Kararı’nda belirtildiği gibi alt yüklenici sözleşmesinden kaynaklanan Damga Vergisinin maliyeye beyan edilmediği, ayrıca yüklenici ile alt yüklenici arasında yapılan sözleşmeden kaynaklı Damga Vergisinin belediye tarafından da tahsil edilmediği görülmüştür.
+
+Bu itibarla;  yüklenici .... Ltd. Şti. ile alt yüklenici ... Ltd. Şti arasında imzalanan sözleşmeden kaynaklanan Damga Vergisinin tahsil edilmesini teminen konunun ... Vergi Dairesi Başkanlığı’na yazılmasına,
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İşbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere
+
+oy birliğiyle karar verildi.
