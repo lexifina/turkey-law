@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "293",
+  "decision_date": "2018-01-25",
+  "source_id": 26266,
+  "chamber": "5",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26266/",
+  "source_sha256": "e2f17931edb1b268b25d23c78395dde6e073fcd790ef24bb2071c1d6e4e09493",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
