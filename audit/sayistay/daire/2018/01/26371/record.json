@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "230",
+  "decision_date": "2018-01-25",
+  "source_id": 26371,
+  "chamber": "7",
+  "ilam_number": "103",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26371/",
+  "source_sha256": "8a9d79128c92cea60ab9a7c756894d16d2da077a321e843f6a1f141ad2ca4eed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
