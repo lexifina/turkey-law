@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7661-3",
+  "decision_date": "2018-01-25",
+  "title": "Enerji Piyasaları İşletme Anonim Şirketi’nin, Elektrik Piyasası İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedel ve Komisyonlar ile Uygulamaya İlişkin Yöntem Bildirimi ve Organize Toptan Doğal Gaz Satış Piyasası İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedel ve Komisyonlar ile Uygulamaya İlişkin Yöntem Bildirimi’nin kabul edilmesine dair kurul kararı",
+  "resmi_gazete_date": "2018-01-31",
+  "resmi_gazete_number": "30318",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=isIsd5va3v8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=isIsd5va3v8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fmm6KiOhBGw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Y9w8cqSap44="
+  ],
+  "source_sha256": "3b08f4554414b4a96627dcd29cf855b2fe1b88078e8aac0e606decc7f9db19fa",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-01-25",
+  "law_text_complete": true
+}
