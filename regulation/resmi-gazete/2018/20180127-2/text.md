@@ -1,0 +1,193 @@
+27 Ocak 2018 CUMARTESİ
+Resmî Gazete
+Sayı : 30314
+YÖNETMELİK
+Ulaştırma, Denizcilik ve Haberleşme Bakanlığından:
+ELEKTRONİK
+HABERLEŞME İSTASYONLARINA YER SEÇİM BELGESİNİN
+VERİLMESİ VE ÜCRETLERİNİN BELİRLENMESİNE
+İLİŞKİN YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; sabit ve mobil
+haberleşme altyapısı veya şebekelerinde kullanılan elektronik haberleşme
+istasyonlarına 3/7/2005 tarihli ve 5393 sayılı Belediye Kanununun 15 inci maddesinin birinci fıkrasının (r)
+bendine göre verilecek yer seçim belgesi karşılığında alınacak ücretin
+belirlenmesi ve yer seçim belgesine ilişkin usul ve esasların
+düzenlenmesidir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; sabit ve mobil haberleşme altyapısı
+veya şebekelerinde kullanılan elektronik haberleşme istasyonlarına 5393
+sayılı Kanunun 15 inci maddesinin birinci fıkrasının (r) bendine göre
+verilecek yer seçim belgesi karşılığında alınacak ücretin belirlenmesi ile
+yer seçim belgesine ilişkin usul ve esasları kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 26/9/2011 tarihli ve 655 sayılı
+Ulaştırma, Denizcilik ve Haberleşme Bakanlığının Teşkilat ve Görevleri
+Hakkında Kanun Hükmünde Kararnamenin 13 üncü maddesinin birinci fıkrasının (ı) bendi, 28 inci maddesinin birinci fıkrasının (d) bendi ile 33 ve 34
+üncü maddelerine ve 5393 sayılı Kanunun 15 inci maddesinin birinci
+fıkrasının (r) bendi ve üçüncü fıkrasına dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Elektronik haberleşme istasyonu: Sabit ve mobil
+haberleşme altyapısı veya şebekelerinde kullanılan baz istasyonları ve
+radyolink istasyonlarının ortak adını,
+b) İşletmeci: Yetkilendirme çerçevesinde elektronik
+haberleşme hizmeti sunan ve/veya elektronik haberleşme şebekesi sağlayan ve
+alt yapısını işleten şirketi,
+c) Mobil istasyon: Bilgi Teknolojileri ve İletişim
+Kurumuna ait 21/4/2011 tarihli ve 27912 sayılı Resmî Gazete’de yayımlanan
+Elektronik Haberleşme Cihazlarından Kaynaklanan Elektromanyetik Alan
+Şiddetinin Uluslararası Standartlara Göre Maruziyet Limit Değerlerinin
+Belirlenmesi, Kontrolü ve Denetimi Hakkında Yönetmeliğin 8 inci maddesinin
+yedinci fıkrasında belirtilen sürelerle sınırlı olmak ve istisnalar saklı
+kalmak üzere, bir mahalde elektronik haberleşme hizmetini geçici bir süre
+sunmak için kurulan hareketli elektronik haberleşme istasyonunu,
+ç) Yer kullanımı: İşletmecilerin; elektronik
+haberleşme istasyonlarını taşınmazlar üzerine yerleştirmek, kurmak, sökmek,
+kaldırmak, kontrol, bakım ve onarım yapmak ve benzeri amaçlarla kamu ve
+özel mülkiyet alanlarını kullanmalarını,
+d) Yer kullanım anlaşması: Yer kullanımına ilişkin
+olarak işletmeci ile yer sağlayıcı arasında imzalanan anlaşmayı,
+e) Yer sağlayıcı: Yer kullanımına konu olan kamuya
+ait ya da kamunun ortak kullanımında olan taşınmazlar da dahil olmak üzere,
+taşınmazın sahipleri ve/veya taşınmazın üzerinde hak sahibi olan gerçek ve
+özel hukuk tüzel kişileri ile kamu kurum ve kuruluşlarını,
+f) Yer seçim belgesi: Elektronik haberleşme
+istasyonlarının Belediye mücavir alan sınırları içerisinde kurulabilmesi
+için 5393 sayılı Kanunun 15 inci maddesinin birinci fıkrasının (r) bendi
+uyarınca yetkili belediyeden alınacak olan belgeyi,
+g) Yer seçim belgesi ücreti: Düzenlenecek yer seçim
+belgesi karşılığında işletmeci tarafından bir defaya mahsus olarak yetkili
+belediyeye ödenecek ücreti,
+ifade eder.
+(2) Bu Yönetmelikte geçen ancak bu maddenin birinci
+fikrasında tanımlanmayan kavramlar
+için 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanunu ve
+ilgili mevzuatta yer alan tanımlar
+geçerlidir.
+İKİNCİ BÖLÜM
+Yer Seçim
+Belgesi Verilmesi ve Ücreti
+Yer seçim
+belgesi verilmesine ilişkin hususlar
+MADDE 5 – (1) Belediye mücavir alan sınırları içerisinde
+elektronik haberleşme istasyonu kurulabilmesi için yetkili belediyeden yer
+seçim belgesi alınması zorunludur.
+(2) Belediye mücavir alan sınırları dışında
+kurulacak elektronik haberleşme istasyonlarına yer seçim belgesi alınmaz.
+(3) Büyükşehirlerde yer seçim belgesi vermeye ve
+ücretini almaya büyükşehir belediyeleri, diğer yerlerde mücavir alan
+sınırlarına göre ilgili belediyeler yetkilidir.
+(4) Yer seçim belgesi için yapılan başvurular kent
+ve yapı estetiği ile elektronik haberleşme hizmetinin gerekleri birlikte
+dikkate alınarak değerlendirilir. Haberleşmenin önemi göz önünde bulundurulur
+ve bu konuda keyfi uygulamalar kesinlikle yapılamaz.
+(5) Yer seçim belgesi almak için yapılan başvurular
+gerekçesiz olarak reddedilemez. Başvurunun reddedilmesi durumunda, reddetme
+gerekçeleri işletmeciye yazılı olarak bildirilir. Başvurunun gerekçesiz
+olarak reddedilmesi halinde, red cevabı geçersiz sayılır ve 20 günlük süre
+işlemeye devam eder.
+(6) Belediye tarafından 20 gün içerisinde
+reddedilen veya başvuruya ilişkin eksiklikleri bildirilen veya revizyon
+talep edilen yer seçim belgesi başvuruları hariç olmak üzere, ücreti
+yatırılmasına rağmen 20 gün içerisinde verilmeyen yer seçim belgesi
+verilmiş sayılır.
+(7) Belediye tarafından başvurunun reddedilmeyerek
+bildirilen eksikliklerin veya talep edilen revizyonların işletmeci
+tarafından tamamlanmasını müteakip 10 gün içerisinde yer seçim belgesi
+verilir.
+(8) Mobil istasyonların kurulumunda yer seçim
+belgesi alınmaz.
+(9) Elektronik haberleşme istasyonunun konumu
+değişmediği sürece, yer kullanım anlaşmasının değişmesi veya yenilenmesi
+yer seçim belgesi alınmasını gerektirmez.
+(10) Tesis paylaşımı yapılması durumu dahil olmak
+üzere, elektronik haberleşme istasyonunda teknoloji değişikliği, ilavesi
+veya revizyon yapılması (anten ve kabinet tipi, sayısı, yönünün değişmesi gibi)
+durumunda tekrar yer seçim belgesi düzenlenmez.
+(11) Tesis paylaşımı yapılması durumunda, yer seçim
+belgesi yalnızca elektronik haberleşme istasyonunu ilk kuran işletmeci
+tarafından alınır.
+(12) Bir baz istasyonunun üzerindeki radyolink
+antenleri ve ekipmanı ayrı bir elektronik haberleşme istasyonu olarak
+değerlendirilmez.
+(13) Belediyelere yer seçim belgesi almak için
+başvuru yapılmadan önce, Bilgi Teknolojileri ve İletişim Kurumu tarafından
+Güvenlik Sertifikası düzenlenmiş olması gerekir.
+(14) Belediyelerce verilecek yer seçim belgesi
+Ek-2’deki formata uygun olarak düzenlenir.
+Yer seçim
+belgesi ücreti
+MADDE 6 – (1) Ek-1’deki yer seçim belgesi ücret tarifesi
+31/12/2018 tarihine kadar geçerlidir.
+(2) Yer seçim belgesi ücretleri her yıl bir önceki
+yıla ilişkin olarak Maliye Bakanlığınca belirlenecek yeniden değerleme
+oranında artırılarak uygulanır.
+(3) Ek-1’deki yer seçim belgesi ücret tarifesindeki
+ücretlere katma değer vergisi (KDV) dahil değildir. Söz konusu ücretler
+üzerinden ayrıca KDV hesaplanır.
+(4) İşletmecinin yer seçim belgesi almak için
+yaptığı başvurunun ilgili Belediye tarafından reddedilmesi halinde, peşin
+ödenmiş olan yer seçim belgesi ücreti red cevabının işletmeciye bildirim
+tarihinden itibaren 15 gün içinde iade edilir.
+(5) Belediye tarafından reddedilmeyip başvuruya
+ilişkin eksiklikleri bildirilen veya revizyon talep edilen başvurularda,
+işletmeci başvuruya konu yerde istasyonu kurmaktan vazgeçmediği sürece yer
+seçim belgesi ücretleri iade edilmez.
+(6) İşletmeci başvuruya konu yerde istasyonu
+kurmaktan vazgeçmesi halinde yer seçim belgesi ücretinin 3/4’ü 15 gün
+içinde iade edilir.
+(7) Yer seçim belgesi verilmesi kapsamında,
+Belediyeler tarafından işletmecilerden yer seçim belgesi ücreti dışında
+başkaca herhangi bir ücret talep edilemez.
+(8) Elektronik haberleşme istasyonunun fiziki
+adresi değişmeksizin mahalle/sokak ismi değişmesi, başka ilçeye/ile
+bağlanması gibi adres bilgilerinin değişmesi nedeniyle, yer seçim
+belgesinin yenilenmesi halinde yer seçim belgesi ücreti alınmaz.
+Diğer
+hususlar
+MADDE 7 – (1) Yer Seçim Belgesi, işletmeciler tarafından
+istasyon mahallinde rahatlıkla görülebilecek yere asılır ve deforme,
+silinme gibi çevre şartlarının etkilerine karşı gerekli tedbirler alınır.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Geriye
+dönük uygulama ve ücretler
+GEÇİCİ
+MADDE 1 – (1) 12/11/2012 tarihli
+ve 6360 sayılı Kanunun Resmî Gazete’de yayımlandığı 6/12/2012 tarihinden
+önce belediye mücavir alan sınırları içinde kurulmuş olan elektronik
+haberleşme istasyonları için yer seçim belgesi ve ücreti alınmaz. Bu
+istasyonlar için yer seçim belgesi alınmış sayılır.
+(2) İşletmeci; 6360 sayılı Kanunun Resmî Gazete’de
+yayımlandığı 6/12/2012 tarihi ile bu Yönetmeliğin yürürlüğe girdiği tarih
+arasında belediye mücavir alan sınırları içinde kurulmuş olan elektronik
+haberleşme istasyonlarından yer seçim belgesi olmayanlar için yer seçim
+belgesi almak amacıyla, bu Yönetmeliğin yürürlüğe girmesini müteakip en geç
+6 ay içinde yer seçim belgesi ücretini ödemek suretiyle yetkili belediyeye
+başvuruda bulunur. Bu başvurularda yalnızca güvenlik sertifikası sunulur,
+bunun dışında başka bir belge talep edilmez. Bu başvuruların hepsi bu
+Yönetmeliğin yayımı tarihinden itibaren 1 yıl içinde sonuçlandırılır. Bu
+fıkrada belirtilen süreler gerektiğinde Ulaştırma, Denizcilik ve Haberleşme
+Bakanlığınca en fazla 90 gün uzatılır. Yer seçim belgesi başvurusu
+kapsamında Belediyeler tarafından bu fıkra kapsamındaki elektronik
+haberleşme istasyonlarında revizyon yapılması veya bu istasyonların demonte
+edilmesi talep edilemez ve yer seçim belgesi verilir. Bu fıkra kapsamında
+düzenlenecek yer seçim belgeleri için; Ek-1’deki yer seçim belgesi ücret
+tarifesi uygulanacak olup, ücretin 2019 ve sonraki yıllarda yatırılması
+halinde 6 ncı maddeye göre yeniden değerleme oranında gerekli artırımlar yapılarak
+uygulanır.
+(3) Birinci ve ikinci fıkranın uygulanmasında,
+elektronik haberleşme istasyonu kurulum tarihi olarak ilk güvenlik
+sertifikasının tarihi, ilgili mevzuat uyarınca güvenlik sertifikası almamış
+olanlar için ise ilk yer kullanım anlaşmasının tarihi esas alınır.
+Yürürlük
+MADDE 8 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe
+girer.
+Yürütme
+MADDE 9 – (1) Bu Yönetmelik hükümlerini Ulaştırma,
+Denizcilik ve Haberleşme Bakanı yürütür.
+Ekleri için tıklayınız
