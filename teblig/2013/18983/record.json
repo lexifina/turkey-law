@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.18983",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KUVVETLİ ASİT VEYA BAZ İÇEREN TEMİZLİK ÜRÜNLERİNİN ÜRETİMİ, İTHALATI, PİYASA GÖZETİMİ VE DENETİMİ İLE BİLDİRİM ESASLARINA DAİR TEBLİĞ",
+  "number": "18983",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2013/18983",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18983&MevzuatTertip=5",
+  "source_sha256": "38350e7c31d7b6f24f2cd833b95f02faf0e1ce9ee2717880d40ab5ca56b2901d",
+  "source_bytes": 15728,
+  "published": "2013-10-31",
+  "gazette": "28807",
+  "in_force": "2018-01-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/1/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-01-27",
+      "RG-27/1/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 184,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
