@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-01-27",
+  "issue": "30314",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Deterjanlar Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/01/20180127-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/01/20180127.htm",
+  "index_sha256": "cbe5163c4e2e1a2f0985a52925d4b367d8d2573532bb687c6a1b541c093cfb81",
+  "index_header": "27 Ocak 2018 ... 30314 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/01/20180127.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "bde088ac0f1acc6329e4ba2fbaf909ed7b2fbaf74f699b096dc5aa2f1d0c6a47",
+  "text_status": "text.txt as published"
+}
