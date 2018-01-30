@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB sirkulerTarih: 2018-01-30T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "circular",
+  "official_date": "2018-01-30",
+  "official_number": "KVK-47/2018-1",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/864",
+  "source_id": "sirkuler:864",
+  "source_row_sha256": "cc414357bb4b799bd42448761b59e534457e8ea48cd97a79304ffef1c115560b",
+  "title": "Sermaye artırımında indirim uygulamasında dikkate alınacak faiz oranı",
+  "version_label": "as-enacted",
+  "word_count": 227
+}
