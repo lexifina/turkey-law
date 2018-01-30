@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10685",
+  "decision_date": "2018-01-30",
+  "source_id": 26338,
+  "chamber": "1",
+  "ilam_number": "283",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26338/",
+  "source_sha256": "18fa5eeb4424a964430b6c85362a1cb63897a6b2ca74e51fffa1eaa679e1fdb0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
