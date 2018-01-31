@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44035",
+  "decision_date": "2018-01-31",
+  "source_id": 15244,
+  "chamber": "7",
+  "file_number": "41606",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15244/",
+  "source_sha256": "1ae374aa67b086a8d3a6a03f7a9eb6f485a266330fa0bb6dd49a1e6c052f2f1d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
