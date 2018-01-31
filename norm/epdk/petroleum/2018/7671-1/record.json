@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7671-1",
+  "decision_date": "2018-01-31",
+  "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş.’nin; DEP/473-14/10348 sayılı depolama lisansı kapsamında Karaduvar Mahallesi - MERSİN adresinde faaliyette bulunan Karaduvar Depolama Tesisine ilişkin",
+  "resmi_gazete_date": "2018-02-02",
+  "resmi_gazete_number": "30321",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yvaju8LeoVo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yvaju8LeoVo=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=P/PvyRme3ZM="
+  ],
+  "source_sha256": "23f5026a2537134710074166799174c086529dd1a2058abd686105881b80de35",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-01-31",
+  "law_text_complete": true
+}
