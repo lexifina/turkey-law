@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44019",
+  "decision_date": "2018-01-31",
+  "source_id": 15211,
+  "chamber": "5",
+  "file_number": "40927",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15211/",
+  "source_sha256": "8fb831f4fda1a4a8c37cf36ef21fc16cbddde0bddb8de5219fa89f7b2f34f299",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
