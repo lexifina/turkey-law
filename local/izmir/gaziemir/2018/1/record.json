@@ -1,0 +1,29 @@
+{
+  "number": "1",
+  "number_as_published": "1",
+  "year": 2018,
+  "month": 1,
+  "title": "1.KARAR OCAK 2018 (2222.3 parsel his.satışı)",
+  "decision_date": null,
+  "index_date": "2018-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2018",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=42",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=42",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/139d1b7f17991cc5d1e5910200829fc0139d1b7f17991cc5d1e5910200829fc0.doc",
+  "source_sha256": "09064a0b81ba14f7b836fc527b029302247b2b5b6b630c6c4976fe41491e84b2",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2018-01-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ocak 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "29.01.2018",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
