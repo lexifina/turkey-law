@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44033",
+  "decision_date": "2018-01-31",
+  "source_id": 15239,
+  "chamber": "7",
+  "file_number": "41519",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15239/",
+  "source_sha256": "a2be69d10706fc46d874bf400b415432955d4538f07621b5b108648a1e3167d1",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
