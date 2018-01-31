@@ -1,0 +1,3 @@
+Konu: işyerlerinin (Belediye ait kiralık taşınmazlar da dahil) çalışma ruhsatının olmaması buna bağlı olarak ruhsat harçlarının alınmaması.
+
+3) 95 sayılı İlamın 5’inci maddesi verilen tazmin hükmü hakkında;   İdaresi adına ….. ’nın  temyiz  başvurusu üzerine düzenlenen 31.01.2018 gün ve 44020 tutanak sayılı Temyiz Kurulu Kararı ile ibraz edilen belgeler yargılamanın iadesini gerektiren nitelikte görüldüğü takdirde bu yolda işlem ifasını teminen dosyanın ilgili Dairesine Tevdiine karar verilmiş olduğundan, aynı mahiyette olan iş bu dosyanın da söz konusu dosya ile birleştirilerek ilgili daireye TEVDİİNE, Oybirliğiyle,
