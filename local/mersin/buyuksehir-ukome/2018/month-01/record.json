@@ -1,0 +1,28 @@
+{
+  "number": "month-01",
+  "year": 2018,
+  "month": 1,
+  "title": "Ocak 2018 UKOME Genel Kurul Kararları",
+  "decision_date": null,
+  "index_date": "2018-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2018",
+  "source": "https://www.mersin.bel.tr/dokumanlar/2018-yili-mbb-ukome-kararlari",
+  "official_page": "https://www.mersin.bel.tr/dokumanlar/2018-yili-mbb-ukome-kararlari",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/ocak-2018-ukome-genel-kurul-kararlaripdf",
+  "source_sha256": "5992d05c5a3df0f54ed509a678b645a4942421b1e4be613bed5d370e61ec8c75",
+  "issuer": "Mersin Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2018-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Ocak 2018 UKOME Genel Kurul Kararları",
+  "record_scope": "one official UKOME decision file (month)"
+}
