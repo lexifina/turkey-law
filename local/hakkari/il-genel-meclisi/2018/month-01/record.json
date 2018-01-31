@@ -1,0 +1,29 @@
+{
+  "number": "month-01",
+  "year": 2018,
+  "month": 1,
+  "title": "2018 Ocak Ayı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2018-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2018",
+  "source": "https://www.hakkariozelidare.gov.tr/2018-ocak-ayi-meclis-kararlari",
+  "official_page": "https://www.hakkariozelidare.gov.tr/2018-ocak-ayi-meclis-kararlari",
+  "official_document": "https://www.hakkariozelidare.gov.tr/kurumlar/hakkariozelidare.gov.tr/DOKUMANLAR/YUKLEME/2018_meclis_kararlari/2018 Ocak Meclis.pdf",
+  "source_sha256": "cfc5625feae15390cce8ba0bcea7ff4eab36be5c01c4263a84555c51edf2d07f",
+  "issuer": "Hakkari İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2018-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2018 Ocak Ayı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2018 Ocak Ayı Meclis Kararları"
+}
