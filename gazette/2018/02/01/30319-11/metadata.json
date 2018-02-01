@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-02-01",
+  "issue": "30319",
+  "edition": "regular",
+  "item": 11,
+  "section": "YARGI BÖLÜMÜ",
+  "heading": "YARGITAY KARARLARI",
+  "title": "Yargıtay 8 ve 23. Hukuk Dairelerine Ait Kararlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/02/20180201-11.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/02/20180201.htm",
+  "index_sha256": "1809699f72e3713f3ed5ca58fd8eb9ae8776eb39f2c93cedf9779de3de6047f3",
+  "index_header": "1 Şubat 2018 ... 30319 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/02/20180201.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
