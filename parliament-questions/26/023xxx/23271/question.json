@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 26,
+  "legislative_year": 3,
+  "esas_no": "7/23271",
+  "submitted": "2018-02-01",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gamze AKKUŞ İLGEZDİ",
+  "province": "İstanbul",
+  "summary": "TBMM Kütüphanesindeki bazı kitaplara ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-7708-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "2e21da4367f94d3673afdffdb3b976b32e63ed4f6b375a49eb2691a12edf99aa",
+  "in_force": "2018-02-01",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
