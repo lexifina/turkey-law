@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "521",
+  "decision_date": "2018-02-01",
+  "source_id": 26616,
+  "chamber": "6",
+  "ilam_number": "119",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26616/",
+  "source_sha256": "42349b2847a8fe0325b48626f89278f5510c0203c8f70c0b0e3949ac0326660d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
