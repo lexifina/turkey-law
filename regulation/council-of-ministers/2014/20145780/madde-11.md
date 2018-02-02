@@ -1,0 +1,5 @@
+Kadroların bildirilmesi
+MADDE 11- (1) Kamu kurum ve kuruluşları bir sonraki yıl için engelli memur alımı yapacakları münhal kadrolarını; Başkanlığın internet sitesindeki “DPB e-Uygulama” kısmında yer alan bilgi alanlarını Nitelik-Kod Kılavuzu ile Başkanlığın öngördüğü koşullara göre tam ve eksiksiz olarak doldurmak suretiyle, ilgili yılın Ekim ayı sonuna kadar elektronik ortamda Başkanlığa bildirir. Bildirimi yapılan ve Başkanlıkça da uygun görülen kadrolara ilişkin cetveller ayrıca yazılı olarak Başkanlığa gönderilir.
+(2) Kamu kurum ve kuruluşları, yerleştirme için Nitelik-Kod Kılavuzunda belirtilenler dışında ayrıca özel nitelik belirleyemez.
+(3) Kamu kurum ve kuruluşları, ilgili mevzuatında yer alan özel hükümler haricinde, yerleştirme yapılmasını talep edecekleri kadrolar için üst yaş sınırı tespit edemez.
+(4) Yerleştirmenin Başkanlık adına Merkezce yapılması halinde, Başkanlık bu bildirimleri, öngörülen koşullara ve Nitelik-Kod Kılavuzunda yer alan hususlara uygunluk yönünden inceleyerek sonucu elektronik ortamda Merkeze bildirir.

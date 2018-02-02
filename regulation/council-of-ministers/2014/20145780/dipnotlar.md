@@ -1,0 +1,1 @@
+[1] 25/1/2018 tarihli ve 2018/11227 sayılı Bakanlar Kurulu Kararı eki Yönetmeliğin 2 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “iki yıl içerisinde yapılacak sınava kadar” ibaresi “dört yıl” şeklinde değiştirilmiştir.
