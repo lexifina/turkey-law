@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.24362",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKAKIM GAZ BORU HATTI PROJESİ GENEL TEBLİĞİ (SERİ NO:1)",
+  "number": "24362",
+  "path": "teblig/2018/24362",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24362&MevzuatTertip=5",
+  "source_sha256": "d59476d4807fa5e23ddfc37fa1cd249cc4f528a9ceca9909a9c98d6c708bdcf6",
+  "source_bytes": 61028,
+  "published": "2018-02-02",
+  "gazette": "30320",
+  "in_force": "2018-02-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.02.2018)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4102,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24362-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
