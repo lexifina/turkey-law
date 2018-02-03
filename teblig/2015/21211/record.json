@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.21211",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO: 20)",
+  "number": "21211",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2015/21211",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21211&MevzuatTertip=5",
+  "source_sha256": "a24dbecda6ceccaaa05a25a25c3803905f6c1b3a6e021957402b117781968265",
+  "source_bytes": 18653,
+  "published": "2015-11-06",
+  "gazette": "29524",
+  "in_force": "2018-02-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"3/2/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-02-03",
+      "3/2/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 315,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21211-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
