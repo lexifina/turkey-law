@@ -1,0 +1,22 @@
+{
+  "number": "18",
+  "number_as_published": "2018/18",
+  "year": 2018,
+  "title": "Sokak ve Cadde isim değişikliği",
+  "decision_date": "2018-02-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2018-subat-ayi-meclis-kararlari/1437",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2018-18/1438",
+  "source_sha256": "3e3212518bacafca46ab79c15081e39b8e5856175273937eca1918ba436cc2da",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-02-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.02.2018 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "91d9bd202682007d22e0ae85f838a5b88ec2093dc0418e91931aa4b6554fe378"
+}
