@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10686",
+  "decision_date": "2018-02-06",
+  "source_id": 26254,
+  "chamber": "1",
+  "ilam_number": "71",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26254/",
+  "source_sha256": "bd2bcecdfe0b9e290b45accca9440ae7043644121f3b9fdc0f164d68f90d0311",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
