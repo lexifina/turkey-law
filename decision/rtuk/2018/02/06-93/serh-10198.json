@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2018/06",
+  "meeting_date": "2018-02-06",
+  "meeting_date_as_published": "6.2.2018",
+  "decision_no": "93",
+  "source_id": 10198,
+  "title": "RTÜK kararı 2018/06-93 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/10198",
+  "source_sha256": "5be68622a02dc726612d565d823f82aca31166a7b0d68e0b637a7b90c995ae55",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (14 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
