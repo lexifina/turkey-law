@@ -1,0 +1,3 @@
+Tazminat ödenecek yabancı diller
+MADDE 4 – (Değişik:RG-7/2/2018-30325)
+(1) Bu Yönetmeliğin 2 nci maddesinin birinci fıkrası kapsamındaki personelin yabancı dil tazminatı alabilmesi için Almanca, Arapça, Arnavutça, Boşnakça, Bulgarca, Çince, Danimarkaca (Danish), Ermenice, Farsça, Fransızca, Gürcüce, Hollandaca (Dutch), İngilizce, İspanyolca, İtalyanca, Japonca, Korece, Lehçe, Macarca, Portekizce, Rumence, Rusça, Sırpça, Ukraynaca ve Yunanca dillerinde yapılacak Yabancı Dil Bilgisi Seviye Tespit Sınavından 375 sayılı Kanun Hükmünde Kararnamenin 2 nci maddesinde belirlenmiş olan düzeylerde başarılı olmaları şarttır.

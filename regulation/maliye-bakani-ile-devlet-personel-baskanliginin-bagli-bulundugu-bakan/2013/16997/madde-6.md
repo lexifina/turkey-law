@@ -1,0 +1,2 @@
+Protokol
+MADDE 6 – (1) Yabancı Dil Bilgisi Seviye Tespit Sınavına ilişkin başvuru, ilan, sınav yapılacak yerler, sınav bedeli ve bu bedelin tahsil usulü, sınava girişte uyulacak kurallar, sınav usulü ile sınav yapılacak diller, sınav sonuçlarının duyurulması, sınav sonuçlarına itiraz ve sınavla ilgili diğer hususlar Maliye Bakanlığı, Devlet Personel Başkanlığı ve Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı arasında imzalanacak çoklu protokolle belirlenir.

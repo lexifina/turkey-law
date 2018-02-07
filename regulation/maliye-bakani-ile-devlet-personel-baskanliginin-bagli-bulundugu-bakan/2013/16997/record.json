@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.16997",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YABANCI DİL BİLGİSİ SEVİYE BELİRLEME USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "16997",
+  "issuer": "Maliye Bakanı ile Devlet Personel Başkanlığının bağlı bulunduğu Bakan",
+  "issuer_slug": "maliye-bakani-ile-devlet-personel-baskanliginin-bagli-bulundugu-bakan",
+  "path": "regulation/maliye-bakani-ile-devlet-personel-baskanliginin-bagli-bulundugu-bakan/2013/16997",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16997&MevzuatTertip=5",
+  "source_sha256": "90635b0d2544f724cfd2410f462d5c73052f962f23d9fc78a6a20928dbcce88e",
+  "source_bytes": 24617,
+  "published": "2013-01-04",
+  "gazette": "28518",
+  "in_force": "2018-02-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/2/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-02-07",
+      "RG-7/2/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-02-07",
+      "7/2/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-12-02",
+      "RG-2/12/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-12-02",
+      "2/12/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-07-04",
+      "4/7/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 742,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
