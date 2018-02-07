@@ -1,0 +1,24 @@
+{
+  "number": "36",
+  "number_as_published": "2018-36",
+  "year": 2018,
+  "title": "696 sayılı KHK kapsamında Belediye Meclisince alınmış olan 04.01.2018 tarih ve 2018/29 sayılı kararın iptal edilerek, söz konusu kararın İçişleri Bakanlığı Mahalli İdareler Genel Müdürlüğünün 11.01.2018 tarih ve E.1075 sayılı yazılarında yer alan formata uygun olarak alınmasına, bu bağlamda 696 sayılı KHK gereğince ...",
+  "decision_date": "2018-02-07",
+  "source": "https://www.bodrum.bel.tr/meclis_kararlari",
+  "official_document": null,
+  "source_sha256": "36f43b06e3286682d4de72a2f9f74706691b0d695f1c5dc1c19278c417ce11e6",
+  "issuer": "Bodrum Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2018-02-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 7.2.2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.bodrum.bel.tr/meclis_karari.php?id=1786",
+  "summary_shortened_in_listing": true,
+  "record_scope": "one council decision (summary as listed)"
+}
