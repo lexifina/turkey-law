@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7679",
+  "decision_date": "2018-02-07",
+  "title": "Ankara Dökümcüler İhtisas Organize Sanayi Bölgesi’nin 1/1/2018 tarihinden geçerli olmak ve 2018 yılında uygulanmak üzere dağıtım bedeline ilişkin",
+  "resmi_gazete_number": "30326",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oKO1v/EJ/po=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oKO1v/EJ/po="
+  ],
+  "source_sha256": "cfdd5b5f8d80a89f6a7803f339f8820caff93d142ac99e479d4be483eda5c77f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-02-07",
+  "law_text_complete": true
+}
