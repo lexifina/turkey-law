@@ -1,0 +1,5 @@
+Üniversite tarafından kiraya verilen market işletmesinin sözleşmeyle belirlenen sınırların dışında kullandığı alanlar için kiracılar tarafından herhangi bir ödeme yapılmaması.
+
+Üniversitesinin …. Yerleşkesi içerisinde market işletmesinde yapılan fiili-fiziki denetimde, kiracı ….. Ltd. Şti. ile İdare arasında 05.07.2016 tarihinde imzalanan kira sözleşmesinde belirlenen sınırların dışındaki alanların da kullanıldığının İdari Mali İşler Daire Başkanlığı tarafından 13.01.2017 tarihinde tutulan tutanak ile tespit edildiği ve bu alanların kullanımı ile ilgili olarak kiracı tarafından herhangi bir ödeme yapılmadığı görülmüş olmakla birlikte, sözleşmeye aykırı olarak fazla kullanım bedeli olarak hesaplanan … TL’nin …. nolu muhasebe işlem fişi ile tahsil edildiği anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına,
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
