@@ -1,0 +1,24 @@
+{
+  "number": "meeting-02-08",
+  "number_as_published": null,
+  "year": 2018,
+  "title": "2018 Şubat Ayı Meclis Kararları",
+  "decision_date": "2018-02-08",
+  "source": "https://www.altindag.bel.tr/tr/meclis-kararlari?page=3",
+  "official_document": "https://www.altindag.bel.tr/upload/mecliskararlari/2_subat_2018_meclis_kararlari.pdf",
+  "source_sha256": "654fbfe1a9c64d0a349688ad549d400926ce714f44d380d00fe3afdba278e542",
+  "issuer": "Altındağ Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-02-08",
+  "in_force_basis": "Decision date as printed in the official council listing: TARİH: 2018-02-08 (date field of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of council decision minutes per meeting",
+  "file_name": "2_subat_2018_meclis_kararlari.pdf",
+  "list_date": "2018-02-08"
+}
