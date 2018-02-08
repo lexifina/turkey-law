@@ -1,0 +1,11 @@
+Eğitim Bilimleri Enstitüsünde görevli araştırma görevlisine ek ders ücreti ödenmesi.
+
+Eğitim Bilimleri Enstitüsünde Araştırma Görevlisi ….’e tezsiz yüksek lisans programında verdiği dersler için ek ders ücreti ödendiği görülmüştür.
+
+2914 sayılı Yükseköğretim Personel Kanunu’nun “Ek ders ücreti” başlıklı 11 inci maddesinin birinci fıkrasında 2547 Sayılı Yükseköğretim Kanununun 36 ncı maddesine göre haftalık okutulması mecburi ders yükü saati dışında, kısmi statüde bulunanlar dahil öğretim elamanlarına görev unvanlarına göre Maliye Bakanlığının görüşü üzerine Yükseköğretim Kurulu tarafından belirlenen mecburi ve isteğe bağlı dersler ve diğer faaliyetler için bu ders ve faaliyetlerin haftalık ders programında yer alması ve fiilen yapılması şartıyla en çok yirmi saate kadar, ikinci öğretimde ise en çok on saate kadar ek ders ücreti ödeneceği belirtildikten sonra dördüncü fıkrasında unvanlarına göre öğretim elemanlarının alabilecekleri ek ders ücreti katsayıları belirlenmiştir. Buna göre profesör, doçent, yardımcı doçent ile öğretim görevlileri ve okutmanlar ek ders ücreti alabilecek iken araştırma görevlileri için herhangi bir belirleme yapılmamıştır.
+
+2547 sayılı Yükseköğretim Kanununa 17.09.2004 tarihli ve 5234 sayılı Kanunun 2 nci maddesiyle eklenen Ek 27 inci maddesinde tezsiz yüksek lisans programlarında ödenecek ek ders ücretleri ile ilgili olarak yukarıda yer verilen 2914 sayılı Kanunun 11 inci maddesine atıf yapılarak bu eğitim programlarında fiilen ders veren öğretim üyelerine ek ders ücreti ödeneceği belirtilmiştir.
+
+Söz konusu mevzuat hükümleri gereği araştırma görevlilerine ek ders ödemesi yapılması mümkün görülmemektedir. Yapılan incelemede, Eğitim Bilimleri Enstitüsünde Araştırma Görevlisi …..’e tezsiz yüksek lisans programında verdiği dersler için …. TL ek ders ücreti ödenmesi sonucu kamu zararına sebebiyet verildiği görülmüş olmakla birlikte, kamu zararı tutarının …. nolu muhasebe işlem fişi ile ahizinden tahsil edildiği anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına,
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
