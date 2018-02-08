@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "128",
+  "decision_date": "2018-02-08",
+  "source_id": 26160,
+  "chamber": "8",
+  "ilam_number": "282",
+  "item_number": 8,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26160/",
+  "source_sha256": "7f715c1a7875515a78901fdb90419165b762c0cb0e38478bddcedfebdf7a3e21",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
