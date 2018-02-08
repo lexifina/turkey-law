@@ -1,0 +1,39 @@
+Hakediş Ödemelerinde Mevzuata Aykırı Uygulamalar:
+
+…  İnş. ve Tic. Ltd. Şti. yükleniminde bulunan … İli, … İlçesi … Cami Uygulama (Restorasyon) işinde;
+
+A) Özel 2 poz nolu özgün elemanların korumaya alınması, Özel 21 poz nolu şantiye çevresinin galvanizli saç ile çevrilmesi ve Özel.22 poz nolu ithal bezle bina cephesinde fonlama imalatları için yükleniciye fazla ödemede bulunulması ile ilgili olarak,
+
+İşe ait sözleşmenin “İşin ve İş Yerinin Korunması ve Sigortalanması” başlıklı 18 inci maddesinin 18.2. numaralı fıkrasında;
+
+“Yüklenicinin iş ve iş yerinin korunması ve sigortalanması ile ilgili sorumlulukları konusunda Genel Şartnamede yer alan hükümler uygulanır.” denilerek Yapım İşleri Genel Şartnamesi (YİGŞ) hükümlerine atıf yapılmıştır.
+
+YİGŞ’nin “İş ve işyerlerinin korunması ve sigortalanması” başlıklı 9 uncu maddesinin 11 inci fıkrasında ise;
+
+“İş ve işyerlerinin korunması konusunda gerek yapı denetimi görevlileri tarafından istenen ve gerekse yüklenicinin kendi arzusu ile uyguladığı güvenlik ve koruma önlemlerine ilişkin giderlerin tümü yükleniciye aittir.” hükmü yer almaktadır.
+
+Söz konusu bu hüküm ister idarenin talebi üzerine olsun isterse yüklenicinin kendi arzusu ile yapılmış olsun, işin ve işyerinin korunması amacıyla uygulanan güvenlik ve koruma önlemlerine ilişkin giderlerin tümünün yükleniciye ait olduğunu, bu amaçla idare bütçesinden her hangi bir ödeme yapılamayacağını ortaya koymaktadır.
+
+Diğer taraftan her ne kadar mevzuatta güvenlik ve koruma önlemlerine ilişkin giderlerin yükleniciye ait olduğu ifade edilmiş ise de ihale aşamasında teklif birim fiyat cetvelinde iş kalemi olarak yer verilerek isteklilerden teklif alınan bir imalatın, idare tarafından yapılacak iş kapsamında değerlendirildiği ve bedelinin ödeneceğinin öngörüldüğü kabul edilmelidir. Zira teklif cetvelinde yer alan her bir imalat için istekliler bu imalatlar için ödeme yapılacağı düşüncesiyle tekliflerini vermektedirler.
+
+İşe ait sözleşme dosyasına ekli, idare ve yüklenici tarafından onaylanmış teklif birim fiyat cetveli incelendiğinde; Özel 2 poz nolu özgün elemanların korumaya alınması imalatının teklif cetvelinin 43’üncü sırasında, Özel.21 poz nolu “şantiye çevresinin galvanizli saç ile çevrilmesi” imalatının teklif cetvelinin 62’nci sırasında, yine Özel.22 poz nolu “ithal bezle bina cephesinde fonlama” imalatının ise teklif cetvelinin 63’üncü sırasında yer aldığı tespit edilmiştir. Bu durumda idarenin bu imalatları yapılacak iş kapsamında değerlendirdiği ve bedellerinin idarece ödenmesinin öngörüldüğü anlaşılmış olup yapılan bu imalatlar için yükleniciye ödemede bulunulmasında mevzuata aykırı bir husus bulunmamaktadır.
+
+Yukarıda açıklanan gerekçelerle, … İnşaat ve Tic. Ltd. Şti. yükleniminde bulunan … İli, … İlçesi … Cami Uygulama (Restorasyon) işinde; Özel 2. poz nolu özgün elemanların korumaya alınması, Özel 21 poz nolu şantiye çevresinin galvanizli saç ile çevrilmesi ve Özel.22 poz nolu ithal bezle bina cephesinde fonlama imalatları için yükleniciye ödemede bulunulmasının sorgu konusu edildiği ancak mevzuatına uygun olduğu anlaşılan toplam … TL hakkında ilişilecek husus bulunmadığına, oy birliğiyle karar verildi.
+
+B) İBF.76 poz no’lu blokaj yapılması ve İBF.03 poz no’lu demirli demirsiz beton yıkım imalatlarında, inşaat mahallindeki yatay, düşey taşıma ile yükleme ve boşaltma, birim fiyat tanımları kapsamında yer aldığından, bunlar için ayrıca nakliye bedeli ödenmemesi gerekirken, YFZ.04 poz numarası ile şantiye içinde el arabası ile nakliye işi için yükleniciye ödemede bulunulması ile YFZ.04 pozunun metraj miktarının hesabında yer alan V.0902/B pozunda, yoğunluk katsayısının hatalı alınması sonucunda kamu zararına sebebiyet verildiği iddiasına ilişkin olarak;
+
+YFZ. 04 numaralı “El arabası ile Şantiye İçinde ve Dışında Nakliye Yapılması” pozuna ilişkin metraj cetvellerinin incelenmesinde, bu pozun imalat miktarları hesaplanırken, V.0902/B no’lu “500 Doz Hidrolik Kireç Harcı ile Moloz Taş Duvar Yapılması İşçiliği”, “İBF.03 no’lu “Patlayıcısız Demirli Demirsiz Beton İnşaat Yıkımı” ile İBF. 76 no’lu “Blokaj Yapılması İşçiliği” pozlarının imalat miktarlarının esas alındığı görülmüştür. Öte yandan, İBF.03 no’lu “Patlayıcısız Demirli Demirsiz Beton İnşaat Yıkımı” ile İBF. 76 no’lu “Blokaj Yapılması İşçiliği” pozlarına ilişkin birim fiyat tariflerinde; inşaat yerindeki yükleme, yatay ve düşey taşıma ile boşaltmanın birim fiyata dahil olduğu belirtildiğinden, bunlar için ayrıca el arabası ile nakliye bedeli ödenmemesi gerekirken, buna aykırı olarak ödemede bulunulduğu; ayrıca V.0902/B no’lu “500 Doz Hidrolik Kireç Harcı ile Moloz Taş Duvar Yapılması İşçiliği” pozuna ilişkin 14,05 m3’lük imalatta yoğunluk katsayısının 2,40 alınması gerekirken 2,60 alındığı görülmüştür.
+
+Ancak, sorumlular tarafından sonradan gönderilen 20.07.2017 tarihli kesin hakediş belgesinde; YFZ.04 no’lu pozun minha edildiği anlaşıldığından, sorgu konusu edilen … TL hakkında ilişilecek husus kalmadığına, oy birliğiyle karar verildi.
+
+C) YFZ.07 poz numaralı “Kubbelerde ve 8/50 Kesitli Paslanmaz Çelik Lamalarla Kenet Yapılması Yerine Konulması” yeni birim fiyat analizi oluşturulurken Milli Savunma Bakanlığına ait benzer nitelikteki MSB.678 poz numaralı “Kolon ve Kirişe Epoksi İle Filiz Ekimi-Delik Açma” birim fiyat analizine ait işçilik girdilerinden faydalanılmaması ile malzeme girdilerinden 04.257/2 poz no.lu paslanmaz çelik çubuğun rayiç fiyatı ile zayiat oranının hatalı alınması sonucunda kamu zararına yol açıldığı iddiasına ilişkin olarak;
+
+Sorgu metninde, tüm saç ve demir imalatlarda zayiat oranının % 7-10 arasında olmasına rağmen, YFZ.07 poz numaralı imalatın malzeme girdisi olan 04.257/2 poz no.lu paslanmaz çelik çubuğun zayiat oranının % 23 alındığı iddia edilmekle beraber, yapılan incelemede sorgudaki bu iddiayı destekleyici mahiyette bir hukuki bilgiye yer verilmediği gibi, kamu zararı hesabında zayiat oranı hususunun dikkate alınmadığı tespit edilmiştir.
+
+Yine, sorguda 316 kalite paslanmaz çeliğin 2011 yılından sonra birim fiyat kitaplarında yer almaması nedeniyle birim fiyat listelerinde rayiç fiyatının olmadığı ve rayiç birim fiyatının Vakıf Kültür Varlıkları Uygulama İşleri Genel Şartnamesi’nin yeni birim fiyatın tespiti başlıklı 23’üncü maddesinde yer aldığı şekilde, Ticaret ve /veya Sanayi Odası’nca tasdikli faturalardaki bedellerinin esas alınması suretiyle tespit edilmesi gerektiği iddia edilmekle beraber, söz konusu paslanmaz çelik çubuğun rayiç fiyatının (4,10 doların 01.01.2014 tarihli döviz kuru karşılığı ) denetçi tarafından herhangi bir Ticaret ve /veya Sanayi Odası’nca tasdik edilmiş faturaya dayandırılmadan 8,90 TL olarak belirlendiği ve kamu zararının da bu fiyatın baz alınması suretiyle herhangi bir somut veriye dayandırılmadan hesaplandığı görülmüştür.
+
+Ayrıca, sorguda YFZ.07 poz numaralı imalatın yeni birim fiyat analizindeki işçiliklerin, MSB-678 poz no’lu “Kolon ve Kirişe Epoksi İle Filiz Ekimi-Delik Açma” birim fiyat analizinden yararlanmak suretiyle tespit edilmesi gerektiği iddia edilmekle beraber, Vakıflar Genel Müdürlüğü tarafından yayımlanan birim fiyat kitaplarında yer alan imalatların mahiyeti itibariyle eski eser niteliğinde olması nedeniyle işçiliklerde mütehassıs usta/usta yardımcısına yer verilmesi gayet tabiidir. Bu nedenle, YFZ.07 poz numaralı “Kubbelerde ve 8/50 Kesitli Paslanmaz Çelik Lamalarla Kenet Yapılması Yerine Konulması” yeni birim fiyat analizi oluşturulurken işçilik girdisi olarak mütehassıs ustaya yer verilmesinde mevzuata aykırılık bulunmamaktadır.
+
+Bu nedenle, söz konusu ödemeler mevzuatına uygun olduğundan ilişilecek husus bulunmadığına,
+
+Ancak, sorumluların sonradan göndermiş olduğu savunma ekinde yer alan kesin hakediş belgesinde, minha edilen YFZ.07 poz no’lu imalata ait KDV hariç … TL’nin ilgililerine iadesine, oy birliğiyle karar verildi.
