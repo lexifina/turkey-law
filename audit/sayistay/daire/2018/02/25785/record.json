@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "174",
+  "decision_date": "2018-02-08",
+  "source_id": 25785,
+  "chamber": "4",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25785/",
+  "source_sha256": "d84c0b7cbb7d62dbe33f648278392412ab1a25d471365d00fec5232a4e5c259d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
