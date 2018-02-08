@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-02-08",
+  "issue": "30326",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARLARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 01/02/2018 Tarihli ve 7711 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/02/20180208-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/02/20180208.htm",
+  "index_sha256": "2f6b95af8305758801ee07c25ad64076ac8e14bb1ff82743726d964eb9b368ec",
+  "index_header": "8 Şubat 2018 ... 30326 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/02/20180208.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
