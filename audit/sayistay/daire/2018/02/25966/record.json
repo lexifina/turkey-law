@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35518",
+  "decision_date": "2018-02-08",
+  "source_id": 25966,
+  "chamber": "2",
+  "ilam_number": "82",
+  "item_number": 23,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/25966/",
+  "source_sha256": "506fdc37022945e7fe426cb8601c96fe54f6f7175cc7d2562f6039c352a822a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
