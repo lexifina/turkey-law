@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24373",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2018 YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TEBLİĞİ (SIRA NO: 4)",
+  "number": "24373",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2018/24373",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24373&MevzuatTertip=5",
+  "source_sha256": "1ca6ddfdcc624336b358384e77ac340c5c611387ce663555e89bb1f0d15a3839",
+  "source_bytes": 11371,
+  "published": "2018-02-09",
+  "gazette": "30327",
+  "in_force": "2018-02-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.02.2018); own commencement article: \"Bu Tebliğ 1/1/2018 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2018 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 338,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
