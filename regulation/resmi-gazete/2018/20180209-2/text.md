@@ -1,0 +1,256 @@
+9 Şubat 2018 CUMA
+Resmî Gazete
+Sayı : 30327
+YÖNETMELİK
+Bilim, Sanayi ve Teknoloji Bakanlığından:
+ORGANİZE SANAYİ BÖLGELERİNDE YER ALAN PARSELLERİN
+TAMAMEN
+VEYA KISMEN BEDELSİZ TAHSİSİNE DAİR YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; organize sanayi
+bölgelerinde yer alan parsellerin gerçek veya tüzel kişilere tamamen veya
+kısmen bedelsiz tahsisine ilişkin usul ve esasları belirlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Bakanlar Kurulu Kararı ile
+belirlenen il ve ilçelerdeki organize sanayi bölgelerinde, 12/4/2000
+tarihli ve 4562 sayılı Organize Sanayi Bölgeleri Kanununun ek 3 üncü
+maddesinin öngördüğü istihdam sayısını sağlayacak yatırımlar için başvuru
+koşulları, tahsislerde öncelik sırası, taahhütname alınması, yatırım
+koşulları, mücbir sebepler, borçlardan mahsup işlemleri, ödemelerin
+durdurulması, ödemeye esas parsel bedellerinin tespiti, tapu kaydına
+konulacak şerh ve yatırımların denetlenmesi ile devredilen taşınmazların
+geri alınmasına ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik,
+12/4/2000 tarihli ve 4562 sayılı Kanunun ek 3 üncü maddesine
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmeliğin uygulamasında;
+a) Bakanlık: Bilim, Sanayi ve Teknoloji
+Bakanlığını,
+b) Banka: Türkiye Halk Bankası Anonim Şirketi Genel
+Müdürlüğünü,
+c) OSB: Organize Sanayi Bölgesi tüzel kişiliğini,
+ifade eder.
+İKİNCİ BÖLÜM
+Tahsis Koşulları
+Parsel
+tahsisleri, başvuru ve istenecek belgeler
+MADDE 5 – (1) Bakanlık kredisi kullanan OSB’lerin
+mülkiyetindeki tahsis edilmemiş parseller, OSB müteşebbis heyeti veya genel
+kurulunca karar alınması halinde, en az on kişilik istihdam öngören
+yatırımlara girişen gerçek veya tüzel kişilere, bedeli Bakanlık tarafından
+OSB’ye verilen kredilerden mahsup edilmek üzere, tamamen veya kısmen
+bedelsiz olarak tahsis edilebilir.
+(2) Planlı alanda kendi imkânları ile altyapı
+inşaatları tamamlanan ve Bakanlık kredisi kullanmamış OSB’ler ile altyapı
+inşaatları tamamlanan ve kredi borcunu ödemiş olan OSB’lerde müteşebbis
+heyeti veya genel kurulunca karar alınması halinde, en az on kişilik
+istihdam öngören yatırımlara girişen gerçek veya tüzel kişilere, tahsis
+edilmemiş parsellerin tamamen veya kısmen bedelsiz olarak tahsisi
+yapılabilir.
+(3) Bakanlığa kredi borcu devam eden OSB’lerde 4562
+sayılı Kanunun ek 3 üncü maddesinin yürürlüğe girdiği tarihten önce tahsis
+yapılan katılımcılar, OSB’ye müracaat etmeleri ve müteşebbis heyet veya
+genel kurul kararı ile taleplerinin uygun bulunması halinde, sekizinci
+maddede belirtilen asgari istihdam sayısını sağlamaları şartıyla tamamen
+veya kısmen bedelsiz parsel tahsisinden yararlandırılabilir.
+(4) Bu Yönetmelik kapsamında parsel tahsisi isteyen
+ve sekizinci maddede belirtilen asgari istihdam sayısını öngören
+yatırımlara girişen gerçek veya tüzel kişiler EK-1’de yer alan dilekçe ve
+EK-2’de yer alan yatırım bilgi formunu doldurarak tahsisi talep edilen
+parselin bulunduğu OSB’ye başvurur.
+(5) Müracaat tarihinden itibaren en geç otuz gün
+içinde OSB müteşebbis heyeti veya genel kurulunun belirleyeceği prensipler
+çerçevesinde yönetim kurulunca parsel tahsislerine ilişkin karar alınır ve
+yatırımcılara bildirimde bulunulur.
+Tahsislerde
+öncelik sırası
+MADDE 6 – (1) Parsel tahsisinde, gerçek veya tüzel kişiler
+arasında öncelik sırası; yatırım tutarı, istihdam, ihracat ve yüksek
+teknoloji gibi faktörlere göre yönetim kurulunca belirlenir. Alınan
+kararlarda öncelik gerekçesine yer verilir.
+Taahhütname
+alınması ve sözleşme düzenleme
+MADDE 7 – (1) Parsel tahsisi uygun bulunan gerçek veya tüzel
+kişilerin EK-3’te yer alan Yatırım Taahhütnamesini noter onaylı olarak
+OSB’ye vermesini müteakip yatırımcı ve OSB arasında parsel tahsisine
+ilişkin EK 4-A/B’de yer alan Parsel Tahsis Sözleşmesi düzenlenir.
+Yatırım
+koşulları
+MADDE 8 – (1) Parsel tahsisi için başvuran gerçek veya tüzel
+kişilerin; 5.000 m2’ye kadar olan parseller için en az 10, 5.000 m2’den
+büyük olup 10.000 m2’ye kadar olan parseller için en az 20, 10.000 m2’den
+büyük olup 20.000 m2’ye kadar olan parseller için en az 30 ve 20.000 m2’den
+büyük parseller için ise en az 50 kişilik istihdam taahhüt etmesi
+gerekmektedir.
+(2) Katılımcı, 22/8/2009 tarihli ve 27327 sayılı
+Resmî Gazete’de yayımlanan Organize Sanayi Bölgeleri Uygulama
+Yönetmeliğinin 108 inci maddesi kapsamındaki süre ve yatırım şartları ile
+bu maddenin birinci fıkrasında belirtilen asgari istihdam sayısını
+sağlayarak üretime geçmek zorundadır. Ancak yatırımının yüzde seksenini
+tamamlamasına karşın üretime geçemeyen katılımcıların talebi üzerine OSB
+tarafından proje bazında en fazla bir yıla kadar ek süre verilir.
+Mücbir
+sebepler
+MADDE 9 – (1) Karma OSB’lerde arıtma tesisleri hariç,
+ihtisas OSB’lerde ise arıtma tesisleri dahil olmak üzere altyapı
+yatırımlarının tamamlanamaması ve bu durumun katılımcının üretime geçmesine
+engel olduğunun OSB’ce karara bağlanması hali ile yangın, doğal afet, kısmi
+ve genel seferberlik halleri mücbir sebep olarak kabul edilir. Bu durumda
+bu Yönetmeliğin 8 inci maddesinde belirtilen süre ve yatırım şartları,
+mücbir sebebin sona erdiği tarihten itibaren dikkate alınır.
+ÜÇÜNCÜ BÖLÜM
+Mahsup ve Ödeme İşlemleri
+Borçlardan
+mahsup işlemleri ve bedel ödemesi için başvuru
+MADDE 10
+– (1) 4562 sayılı Kanunun ek 3
+üncü maddesinin yürürlüğe girdiği tarihten önce bedelli olarak tahsis
+edilmiş parsellerin mahsup işlemleri ile yeni tahsis edilecek parsel
+bedellerinin mahsubu için ilgili OSB, taleplerini içeren müteşebbis heyet
+veya genel kurul kararı ile birlikte Bakanlığa elektronik ortamda başvurur.
+(2) Başvuruya, her bir tahsis için EK-2’de yer alan
+Yatırım Bilgi Formu, EK-3’te yer alan Yatırım Taahhütnamesi ve EK 4-A/B’de
+yer alan Parsel Tahsis Sözleşmesi eklenir.
+(3) Bakanlık tarafından, ilgili OSB’nin toplam
+sanayi parsel alanı ve Banka tarafından takip edilen kredi hesabı dikkate
+alınarak yapılacak mahsup işlemlerinden ilgili OSB’ye bilgi verilir.
+(4) Altyapı inşaatları tamamlanan ve Bakanlık
+kredisi kullanmamış OSB’ler ile altyapı inşaatları tamamlanan ve kredi
+borcunu ödemiş olan OSB’lerde bu kapsamda tahsis edilen parsellerin
+bedelleri Bakanlıkça ödenir. Ödemeye ilişkin başvuru, bu maddenin ikinci
+fıkrasında belirtilen belgelerle birlikte Bakanlığa elektronik ortamda
+yapılır.
+Ödemelerin
+durdurulması
+MADDE 11
+– (1) Bakanlığa kredi borcu devam
+eden OSB’lerde müteşebbis heyet veya genel kurulca karar alınması halinde,
+4562 sayılı Kanunun ek 3 üncü maddesinin yürürlüğe girdiği tarihten önce
+bedelli olarak tahsis edilmiş parseller için ödemeler durdurulur. Ancak
+tahsis bedeline ilişkin vadesi geçen borcu bulunan katılımcılar, borçlarını
+OSB’nin arsa satışları hesabına yatırmak zorundadır.
+Mahsup işlemleri
+MADDE 12
+– (1) Bakanlar Kurulu kararı ile
+belirlenen oranlarda; ödemeleri durdurulan parsellerin 4562 sayılı Kanunun
+ek 3 üncü maddesinin yürürlüğe giriş tarihindeki, yeni tahsis edilecek
+parsellerin ise tahsis tarihindeki bedelleri, Bankanın ilgili OSB’ye
+Bakanlık tarafından kullandırılmış bulunan kredilere ait anapara ve
+faizlerinin tutulduğu ilgili yıl borçlu cari hesap bakiyesinin, toplam
+sanayi alanına bölünmesi suretiyle bulunacak yılı metrekare fiyatı ile
+tahsis edilen parsellerin alanının çarpımı yöntemiyle hesaplanır.
+(2) Altyapı yatırımları devam eden OSB’lerde 4562
+sayılı Kanunun ek 3 üncü maddesinin uygulama süresi içinde kullandırılan
+kredi tutarı ve ihalesi yapılan altyapı yatırımları için mahsup işlemleri;
+her yıl 31 Aralık tarihi itibarıyla borçlu cari hesap bakiyesine ilave
+edilen yılı kredi kullanımı ile anapara taksit ve faizlerinin toplamının
+toplam sanayi alanına bölünmesi ile bulunacak yılı metrekare fiyatı ile
+tahsis edilen parsellerin alanının çarpımı neticesi bulunan bedelin Bakanlar
+Kurulu kararı ile belirlenen oranlardaki kısmının alınması yoluyla
+hesaplanan bedelden, bir önceki yıl mahsup edilen bedelin düşülmesi ile
+yeniden hesaplanacak bedelin mahsubu yapılmak suretiyle 4562 sayılı Kanunun
+ek 3 üncü maddesinin yürürlük süresi içerisinde ihalesi yapılan altyapı
+yatırımlarına ilişkin kredilendirilmenin bittiği tarihe kadar devam eder.
+(3) 4562 sayılı Kanunun ek 3 üncü maddesinin
+yürürlüğe girdiği tarihten önce altyapısı tamamlanmış OSB’lerde mahsup
+işlemleri, 4562 sayılı Kanunun ek 3 üncü maddesinin uygulama süresince
+devam eder.
+Ödemeye
+esas parsel bedellerinin tespiti
+MADDE 13
+– (1) Bu Yönetmeliğin 5 inci
+maddesinin ikinci fıkrası çerçevesinde tahsis edilen parsellerin bedelleri
+OSB’nin muhasebe kayıtlarındaki kamulaştırma, altyapı inşaatı ve arıtma
+tesisi maliyetinden oluşan harcamaları ile Bakanlıkça benzer işlerdeki kredi
+maliyetleri mukayese edilmek suretiyle tespit edilen en düşük tutarın
+toplam sanayi alanına bölünmesi ile elde edilen yılı metrekare fiyatı ile
+tahsis edilen parsellerin alanının çarpımı neticesi bulunan bedelin
+Bakanlar Kurulu kararı ile belirlenen oranlardaki kısmının alınması yoluyla
+hesaplanan bedel, OSB’ye Bakanlık bütçesine bu amaçla konulacak ödenekten
+ödenir.
+(2) Bakanlık kredisi ile tamamlanan ve kredi
+borcunu tahsis ettiği parsellerden elde ettiği gelirle geri ödeyen OSB’ler,
+4562 sayılı Kanunun ek 3 üncü maddesinin uygulama süresince yapılacak
+tahsisler için bedel talebinde bulunamaz.
+DÖRDÜNCÜ BÖLÜM
+Tapu Devri
+Tapu
+kaydına konulacak şerh
+MADDE 14
+– (1) Tamamen veya kısmen bedelsiz
+tahsis edilen parselde üretime geçilmeden tapu talep edilmesi halinde; yapı
+kullanma izin belgesinin alınmış olması şartıyla, tapu kütüğünün beyanlar
+hanesine devir işlemi sırasında aşağıdaki şerh konulur:
+a) 12/4/2000 tarihli ve 4562 sayılı Organize Sanayi
+Bölgeleri Kanununun ek 3 üncü maddesine göre, işbu taşınmazı devralan
+gerçek veya tüzel kişiler, söz konusu Kanun ve bu Kanunun uygulanması ile
+ilgili çıkarılan Yönetmelik ile Yatırım Taahhütnamesinde belirtilen devir
+amaç ve koşullarına uymak zorundadır. Bu şerh kaldırılmadığı sürece
+taşınmaz hiçbir şekilde başkalarına devredilemez, ipotek edilemez, teminat
+verilemez. İflas ve konkordato ile diğer ayni ve şahsi haklara da konu edilemez.
+Tapudaki
+şerhin kaldırılması
+MADDE 15
+– (1) 4562 sayılı Kanun, bu
+Yönetmelik, Organize Sanayi Bölgeleri Uygulama Yönetmeliği, Yatırım
+Taahhütnamesi ve Parsel Tahsis Sözleşmesindeki şartlara uygun olarak
+yapılan yatırımın işyeri açma ve çalışma ruhsatının alınmasını müteakip, bu
+Yönetmeliğin 8 inci maddesinde belirlenen istihdam ile üç ay üretim
+yapmasından sonra katılımcılar, tahsisi yapan OSB’den tapu kayıtlarındaki
+şerhin kaldırılmasını isteyebilir.
+(2) OSB’ce yapılan inceleme ve denetim sonucunda
+şartlara uyulduğunun anlaşılması halinde, ilgili OSB’nin talebi üzerine ve
+Bakanlığın müsaadesi ile OSB tarafından tapu kayıtlarından şerh kaldırılır.
+Devredilen
+taşınmazın tahliyesi, geri alınması ve mahsupların iptali
+MADDE 16
+– (1) Katılımcının, 4562 sayılı
+Kanuna, bu Yönetmeliğe, Organize Sanayi Bölgeleri Uygulama Yönetmeliğine,
+Yatırım Taahhütnamesi ve Parsel Tahsis Sözleşmesindeki şartlara uymadığının
+veya mücbir sebepler hariç öngörülen sürede yatırımı tamamlamadığının
+tespiti halinde, herhangi bir yargı kararı aranmaksızın parsel tahsisi
+iptal edilir. Bu durumda taşınmazın üzerindeki tüm yapı ve tesisler sağlam
+ve işler durumda tazminat veya bedel ödenmeksizin OSB’ye intikal eder,
+bundan dolayı adına tahsis yapılan kişiler veya üçüncü kişilerce herhangi
+bir hak ve talepte bulunulamaz. Ancak öngörülen sürede yatırımın en az
+yüzde ellisinin gerçekleştirilmesi halinde yatırımın bedeli, yeni katılımcı
+tarafından önceki katılımcıya ödenir.
+Bu ödeme, OSB’ce sağlanır.
+(2) Parsel tahsisi iptal edildiğinde, otuz gün
+içinde aynı parsel bir başka katılımcıya tahsis edilebilir. Bu değişiklik
+Bakanlığa elektronik ortamda bildirilir. Ancak bu süre içinde bir başka
+katılımcıya tahsis edilemeyen parsel için yapılan mahsup veya ödeme,
+OSB’nin bildirimi üzerine veya re’sen, Bakanlık tarafından iptal edilir.
+Bakanlık kredisi kullanmamış veya kredi borcunu ödemiş olan OSB’lere parsel
+tahsisi kapsamında yapılan ödeme, parsel tahsisinin iptali halinde
+Bakanlığa elektronik ortamda bilgi verilerek, OSB tarafından genel bütçeye gelir
+kaydedilmek üzere Bakanlık Merkez Saymanlığının Merkez Bankasındaki cari
+hesabına iptali takip eden ilk iş gününde iade edilir. İptale ilişkin
+meblağın OSB tarafından yatırılmadığının tespiti halinde tahsisin iptali
+tarihinden ödeme tarihine kadar geçen süre için 21/7/1953 tarihli ve 6183
+sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesinde
+belirtilen oranlarda gecikme zammı da uygulanmak suretiyle Bakanlık Merkez
+Saymanlığının Merkez Bankasındaki cari hesabına iade edilir.
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Diğer
+hükümler
+MADDE 17
+– (1) Tarıma Dayalı İhtisas
+OSB’lerde en az on kişilik istihdam şartı aranmaz.
+(2) Bu Yönetmelikte yer almayan hususlarda Organize
+Sanayi Bölgeleri Uygulama Yönetmeliği hükümleri uygulanır.
+Yürürlük
+MADDE 18
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 19
+– (1) Bu Yönetmelik hükümlerini
+Bilim, Sanayi ve Teknoloji Bakanı yürütür.
+Ekleri için tıklayınız.
