@@ -1,0 +1,52 @@
+9 Şubat 2018 CUMA
+Resmî Gazete
+Sayı : 30327
+TEBLİĞ
+Maliye Bakanlığından:
+2018 YILI MERKEZİ YÖNETİM BÜTÇE UYGULAMA TEBLİĞİ
+(SIRA NO: 4)
+Amaç ve
+kapsam
+MADDE 1 – (1) 25/8/2011 tarihli ve 652 sayılı Millî Eğitim
+Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 43
+üncü maddesinin birinci fıkrası uyarınca, engelliler için sağlık kurulu
+raporu düzenlemeye yetkili sağlık kurum veya kuruluşlarınca verilen sağlık
+kurulu raporuyla asgarî %20 oranında engelli olduğu tespit edilen ve özel
+eğitim değerlendirme kurulları tarafından da eğitsel değerlendirme ve
+tanılamaları yapılarak 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim
+Kurumları Kanunu kapsamında açılan özel eğitim okulları ile özel eğitim ve rehabilitasyon merkezlerinde verilen destek eğitimini
+almaları uygun görülen görme, işitme, dil-konuşma, spastik, zihinsel,
+ortopedik veya ruhsal engelli bireyleri kapsayan eğitim giderlerinin her
+yıl Maliye Bakanlığınca belirlenen tutarının, Millî Eğitim Bakanlığı
+bütçesine bu amaçla konulan ödenekten karşılanması amaçlanmaktadır.
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 652 sayılı Kanun Hükmünde
+Kararnamenin 43 üncü maddesine dayanılarak hazırlanmıştır.
+Destek
+eğitim giderleri
+MADDE 3 – (1) Engelli bireylerin destek eğitim giderlerinin
+bütçeden karşılanacak kısmına ilişkin olarak aşağıdaki hususlara uyulur:
+a) 5580 sayılı Kanun kapsamında açılan özel eğitim
+okulları ile özel eğitim ve rehabilitasyon
+merkezlerinde engelli bireylere verilen destek eğitiminin bütçeden
+karşılanacak kısmı; katma değer vergisi hariç olmak üzere bireysel eğitim
+için aylık 545 TL, grup eğitimi için aylık 153 TL olarak belirlenmiştir.
+b) Belirlenen tutarlar, Millî Eğitim Bakanlığı
+bütçesine bu amaçla konulan ödenekten, bu tutarları aşan kısmı ise
+ilgililer tarafından karşılanır.
+c) Bu Tebliğde yer almayan hususlarda Millî Eğitim
+Bakanlığınca yapılacak düzenlemeler esas alınır.
+Diğer
+hususlar
+MADDE 4 – (1) 652 sayılı Kanun Hükmünde Kararnamenin 43 üncü
+maddesinin ikinci fıkrasında, bu maddenin birinci fıkrasında belirtilen
+eğitim hizmetini sunan veya yararlananların gerçek dışı beyanda bulunmak
+suretiyle fazladan ödemeye sebebiyet vermeleri durumunda bu tutarların, iki
+katı ve kanunî faiziyle birlikte ilgililerden müteselsilen
+tahsil edileceği, bu fiillerin özel eğitim okulları ile özel eğitim ve rehabilitasyon merkezleri tarafından tekrarı hâlinde,
+ayrıca kurum açma izinlerinin iptal edileceği hüküm altına alınmıştır.
+Yürürlük
+MADDE 5 – (1) Bu Tebliğ 1/1/2018
+tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 6 – (1) Bu Tebliğ hükümlerini Maliye Bakanı yürütür.
