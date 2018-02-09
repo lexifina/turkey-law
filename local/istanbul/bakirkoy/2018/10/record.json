@@ -1,0 +1,23 @@
+{
+  "number": "10",
+  "number_as_published": "10",
+  "year": 2018,
+  "title": "KARYAPSAN’ın Sermaye Artırımı",
+  "decision_date": "2018-02-09",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/43",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/10-karyapsan-09022018.pdf",
+  "source_sha256": "d984535d165b33d959f936ceccfcdb61931c1ca4c1808eee025bf9096e75fa75",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-02-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09 Şubat 2018 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
