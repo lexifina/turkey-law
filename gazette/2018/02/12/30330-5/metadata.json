@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-02-12",
+  "issue": "30330",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "Manisa Celal Bayar Üniversitesi Önlisans ve Lisans Eğitim ve Öğretim Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/02/20180212-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/02/20180212.htm",
+  "index_sha256": "91268b851d0ff0d7ccb08b45f44c4bdbff6b1ebe95885f055d16026ac7d66e9e",
+  "index_header": "12 Şubat 2018 ... 30330 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/02/20180212.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "8fb476ffbbf7b315d3dd0bfe55e6810f9482aa6906eed3463a9751c35c43e78d",
+  "text_status": "text.txt as published"
+}
