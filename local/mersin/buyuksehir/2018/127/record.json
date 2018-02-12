@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "127",
+  "decision_date": "2018-02-12",
+  "title": "MEC. KAR. (T-1 TAŞIT CETVELİ)(1).doc",
+  "listed_as": "127 MEC. KAR. (T-1 TAŞIT CETVELİ)(1).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/127-mec-kar-t-1-tasit-cetveli1doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/12-subat-2018-meclis-kararlari",
+  "listing_sha256": "f09f88d6121cc377d816887482e1a0cef461dd72999f393cc6b9eecb11465929",
+  "meeting_title": "12 ŞUBAT 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
