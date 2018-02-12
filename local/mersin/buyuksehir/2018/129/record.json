@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "129",
+  "decision_date": "2018-02-12",
+  "title": "MEC.KAR. (TARSUS FEVZİÇAKMAK 228 ADA, 37-42 P",
+  "listed_as": "129 MEC.KAR. (TARSUS FEVZİÇAKMAK 228 ADA, 37-42 P",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/129-meckar-tarsus-fevzicakmak-228-ada--37-42-parseller1doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/12-subat-2018-meclis-kararlari",
+  "listing_sha256": "f09f88d6121cc377d816887482e1a0cef461dd72999f393cc6b9eecb11465929",
+  "meeting_title": "12 ŞUBAT 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
