@@ -1,0 +1,27 @@
+İşletme hakkı kiralamalarında KDV tahsil edilmemesi:
+
+Belediyeye ait gayrimenkullerden çay ocağı, çay bahçesi, lokanta, restaurant, büfe, wc, kafeterya olarak kullanılmak üzere işletme hakkı kapsamında kiraya verilen yerlerden katma değer vergisinin tahsil edilmemesi suretiyle kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak yapılan incelemede;
+
+3065 sayılı Katma Değer Vergisi Kanunu’nun “Kapsam” başlıklı l’inci maddesinin birinci fıkrasının 3/f bendinde, Gelir Vergisi Kanunu’nun 70’inci maddesinde belirtilen mal ve haklann kiralanması işlemlerinin katma değer vergisine tabi olduğu belirtilmiş ve 193 sayılı Gelir Vergisi Kanunu’nun 70’inci maddesinde sayılan mal ve haklar arasında “işletme hakları” da sayılmıştır.
+
+Gelir Vergisi Kanunu’nun 70’inci maddesinde sayılan mal ve hakların iktisadi bir işletme aktifine kayıtlı olup olmaması, kiraya verenin mükellefiyetinin bulunup bulunmaması katma değer vergisi uygulanmasına engel oluşturmadığından, belediyelerin işletme hakkı kapsamında bulunan kiralama işlemlerinin KDV’ye tabi tutulması gerekmektedir.
+
+KDV Kanunu’nda; Kanun’un 1/1’inci maddesi çerçevesindeki ticari, sınai, zirai ve mesleki nitelikteki kiralamalar ile Kanun’un 1/3-f maddesi kapsamında Gelir Vergisi Kanunu’nun 70’inci maddesinde sayılan mal ve hakların kiralanması olmak üzere iki çeşit kiralamadan söz edilmiştir.
+
+Belediyelerin işletmelerine dahil olmayan ve doğrudan kendilerine ait bulunan gayrimenkullerin kiralanması işlemleri ise Kanun’un 17/4-d maddesi gereğince vergiden istisna bulunmaktadır. Belediyeler iktisadi işletme olmadıklarından bunlara ait gayrimenkullerin kiralama işlemleri prensip olarak katma değer vergisinden istisnadır. Ancak kiralanan taşınmaz bizatihi iktisadi işletme niteliğinde ise veya taşınmaza bağlı işletme hakkı vb. hakların kiralanması söz konusu ise; bu kiralama işlemleri söz konusu istisna kapsamına girmez.
+
+İşletme hakkı; herhangi bir tesisin, mülkiyet hakkı devreden tarafta saklı kalmak üzere belirli bir süre ve bir bedel karşılığında sözleşmede belirlenen usul ve esaslar dahilinde kar/zararı işletme hakkım devralan tarafa ait olmak koşulu ile gerçek veya tüzel kişiler tarafından işletilmesidir. Söz konusu yerlerin kira dosyalarında yer alan ihale şartnamelerinin ve kira sözleşmelerinin incelenmesi sonucunda, kiralama işlemlerinin normal bir taşınmaz kiralaması değil işletme hakkının kiralaması olduğu anlaşılmaktadır. Çünkü ihale şartnamelerinde söz konusu yerlerin ne amaçla işletilmek üzere kiralandığı açıkça belirtilmektedir. 213 sayılı Vergi Usul Kanunu’nun 3 üncü maddesi (B) bendine göre vergilendirmede vergiyi doğuran olay ve bu olaya ilişkin muamelelerin gerçek mahiyetinin esas alınması gerektiği belirtilmiştir. Olayın gerçek mahiyetine baktığımızda da bu yerler fiili olarak ihale şartnamesinde belirtildiği şekilde işletilmektedir.
+
+...Vergi Dairesi Müdürlüğü’ne ...Büyükşehir Belediyesi’nin gerçek usulde KDV mükellefiyetinin bulunup bulunmadığı sorulmuş ve 19.07.2017 tarih ... sayılı cevabi yazıda ... vergi kimlik numaralı ... Büyükşehir Belediyesi’nin gerçek usulde KDV mükellefi olduğu belirtilerek 2016 yılı içerisinde vermiş olduğu 1 nolu KDV beyannameleri ek olarak tarafımıza gönderilmiştir. Katma Değer Vergisi Genel Uygulama Tebliği’nin vergi sorumluluğuna ilişkin açıklamaların yer aldığı “kiralama işlemleri” başlıklı bölümünde “KDV’ye tabi olan kiralama işlerinde kiraya verenin başka faaliyetleri dolayısıyla KDV mükellefi olması halinde, tam tevkifat uygulaması söz konusu olmaz; kiraya veren, kiralama faaliyetlerine ait KDV’yi diğer faaliyetleri ile birlikte genel esaslara göre beyan eder.” hükmü yer almaktadır. Bu durumda Belediye’nin söz konusu kiralamalara ilişkin KDV’yi tahsil etmesi ve indirilecek KDV’si ile karşılaştırıp duruma göre, devreden KDV veya ödenecek KDV olarak 1 nolu KDV beyannamesi ile birlikte genel esaslara göre beyan etmesi gerekmektedir. 2016 yılı içerisinde Belediye tarafından verilen 1 nolu KDV beyannameleri incelendiğinde Belediyenin her ay devreden KDV’si olduğu ve 2016 yılı sonu itibariyle de devreden KDV tutarının ...TL’ye ulaştığı görülmektedir. Bu durumda Belediyenin 2016 yılı içerisinde ödenecek KDV’si çıkmadığından dolayı, tahsil etmesi gereken söz konusu kiralama işlemlerine ilişkin hesaplanan KDV tutan da bir nevi belediyenin bütçesinde kalacak tutar olmaktadır.
+
+Yukarıda açıklanan madde hükümleri karşısında ... Büyükşehir Belediyesi’nin tasarruf ve mülkiyetinde bulunan ekli listedeki yerlerin işletme hakkının kiralanması, 3065 sayılı Kanun kapsamında bir hizmet ve bu hizmet karşılığında alman kira bedelleri de katma değer vergisinin matrahı olacaktır.
+
+Savunmalar doğrultusunda; ...TL kamu zararının ...TL’sinin tahsil edildiği; kalan ...TL lik kısmının ise tahakkuka bağlandığı ve 26.10.2017 tarihinde ...Vergi Dairesi Müdürlüğü’ne konuya ilişkin düzeltme beyannamesi verildiği anlaşılmıştır.
+
+Bu itibarla; Belediyeye ait gayrimenkullerden çay ocağı, çay bahçesi, lokanta, restaurant, büfe, wc, kafeterya olarak kullanılmak üzere işletme hakkı kapsamında kiraya verilen yerlerden katma değer vergisinin tahsil edilmemesi suretiyle sebep olunan toplam ...TL tutarındaki kamu zararının;
+
+...TL’sinin aşağıda gösterilen makbuz ve muhasebe işlem fişleri ile ahizlerinden tahsil olunduğu anlaşıldığından, bu tutar için ilişilecek husus kalmadığına,
+
+...TL’si için de ilgili Vergi Dairesine, konuya ilişkin düzeltme beyannamesi verilmesi nedeniyle ilişilecek bir husus bulunmadığına
+
+oy birliğiyle karar verildi.
