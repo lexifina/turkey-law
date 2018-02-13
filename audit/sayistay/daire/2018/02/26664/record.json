@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "523",
+  "decision_date": "2018-02-13",
+  "source_id": 26664,
+  "chamber": "6",
+  "ilam_number": "125",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26664/",
+  "source_sha256": "d72ca1b2f9baa311eb8ecfc549d56d66bfd79a0f117abbdb7c139dfc6158fd79",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
