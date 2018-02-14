@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2018/07",
+  "meeting_date": "2018-02-14",
+  "meeting_date_as_published": "14.2.2018",
+  "decision_no": "80",
+  "source_id": 10228,
+  "title": "RTÜK kararı 2018/07-80 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/10228",
+  "source_sha256": "799ea1c2bb9bc6b4a76727763f4f40a9883d322e1e1b1b3995d7a0408aeeec62",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
