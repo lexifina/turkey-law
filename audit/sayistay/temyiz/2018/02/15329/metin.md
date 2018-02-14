@@ -1,0 +1,5 @@
+Kanuni dayanağı olmaksızın sınav görevlilerine ücret ödenmesi;
+
+478 sayılı Ek İlamın 1. maddesiyle verilen … TL’nin tazminine dair hükümde Harcama Yetkilisi sıfatı ile iştiraki bulunan …’ün itiraz başvurusu üzerine düzenlenen 42255 sayılı dosya, 14.02.2018 tarih ve 44064 tutanak sayılı Temyiz Kurulu İlamı ile; kamu zararı oluşmadığı ifade edilerek, (ve daha önceden aynı konu ile ilgili 03.03.2015 tarih ve 40086 tutanak sayılı Temyiz Kurulu İlamındaki konunun esası yönünden) tazmin hükmünün kaldırılması gerektiğine ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu (Gerçekleştirme Görevlisi sıfatıyla temyiz talep eden Teknisyen …’ı) ilgilendiren ve aynı mahiyette olan 42256 sayılı işbu dosyanın da sözü edilen (42255 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 14.02.2018 tarih ve 44065 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
