@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44075",
+  "decision_date": "2018-02-14",
+  "source_id": 15339,
+  "chamber": "2",
+  "file_number": "42935",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2013",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15339/",
+  "source_sha256": "7c02d213958d3fc6cd1d846fd2129589f5d23aeab0643382d77145f49625612f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
