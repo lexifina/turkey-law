@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.24385",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ELEKTRİK DAĞITIM AŞ ANA STATÜSÜ",
+  "number": "24385",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2018/24385",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24385&MevzuatTertip=5",
+  "source_sha256": "56781a2fce4f6ac7fecc6a0f1c8b422981ce46f313938a3556c2c1ba47ac7d6d",
+  "source_bytes": 47104,
+  "published": "2018-02-14",
+  "gazette": "30332",
+  "in_force": "2018-02-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.02.2018)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2312,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
