@@ -1,0 +1,5 @@
+Milletvekilliğinden emekli olduktan sonra üniversiteye dönen öğretim üyesine maaş ödenmesi;
+
+338 sayılı Ek İlamın 1. maddesiyle verilen … TL’nin tazminine dair hükümde Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 42932 sayılı dosya, 14.02.2018 tarih ve 44072 tutanak sayılı Temyiz Kurulu İlamı ile; kamu zararı oluşmadığı ifade edilerek, (ve daha önceden aynı konu ile ilgili 26.04.2016 tarih ve 41818 tutanak sayılı Temyiz Kurulu İlamındaki) tazmin hükmünün kaldırılması gerektiğine ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu (Harcama Yetkilisi sıfatıyla temyiz talep eden Dekan Vekili …’yı) ilgilendiren ve aynı mahiyette olan 42933 sayılı işbu dosyanın da sözü edilen (42932 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 14.02.2018 tarih ve 44073 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
