@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44089",
+  "decision_date": "2018-02-14",
+  "source_id": 15353,
+  "chamber": "2",
+  "file_number": "40129",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2013",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15353/",
+  "source_sha256": "bab5fc337a09cbf83813de34fecb385910fdd8e93fd20f5fa62cb049ebe69bd0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
