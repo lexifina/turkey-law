@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-02-15",
+  "issue": "30333",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2018/9)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/02/20180215-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/02/20180215.htm",
+  "index_sha256": "61c47d5611a3fe0f6b1572a14541cc64d8b9d6be0835cdc2a4137556e182fcdb",
+  "index_header": "15 Şubat 2018 ... 30333 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/02/20180215.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "27fb5726acde5d4f3a77df570c480c5964b6da78ef4234dcff48c0eb0b364e32",
+  "text_status": "text.txt as published"
+}
