@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7690-2",
+  "decision_date": "2018-02-15",
+  "title": "Opet Petrolcülük A.Ş.?nin; DEP/767-17/17138 sayılı depolama lisansı kapsamında Marmara Ereğlisi Sultanköy Beldesi Tilkiçatağı Mevkii Marmara Ereğlisi / TEKİRDAĞ adresinde faaliyette bulunan Marmara Ereğlisi Depolama Tesisine ilişkin",
+  "resmi_gazete_date": "2018-02-28",
+  "resmi_gazete_number": "30346",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Tl3fCKROGxU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Tl3fCKROGxU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MuUyAMTGHjU="
+  ],
+  "source_sha256": "bcc64a59be0e2501a67e5ca7457c98feb90aa660fddbc534c92ac64201fe3be8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-02-15",
+  "law_text_complete": true
+}
