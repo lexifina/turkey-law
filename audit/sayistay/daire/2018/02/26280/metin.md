@@ -1,0 +1,23 @@
+Emekli Olan Personele Sosyal Denge Ödemesi
+
+Denetçi tarafından, …. Belediyesi ile ….Sendikası (….) arasında imzalanan Toplu İş Sözleşmesinde emekli olan memurlara emekli ikramiyesinin %20’si oranında ayrıca ödeme yapılması sonucu kamu zararına neden olunduğu iddia edilmişse de;
+
+4688 sayılı Kamu Sendikaları Kanunu’nun geçici 14’üncü maddesinde “15/3/2012 tarihinden önce 375 sayılı Kanun Hükmünde Kararnamenin ek 15 inci maddesi kapsamındaki idareler ile ilgili sendikalar arasında toplu iş sözleşmesi, toplu sözleşme, sosyal denge sözleşmesi ve benzeri adlar altında imzalanan sözleşmelerin uygulanmasına, söz konusu sözleşmelerde öngörülen sürelerin sonuna kadar devam edilebilir. Anılan sözleşmelerin uygulanmasına devam edildiği dönem için 32’nci madde hükümleri çerçevesinde ayrıca sözleşme yapılamaz. Söz konusu sözleşmeleri 31/12/2015 tarihinden önce sona eren veya mevcut sözleşmeleri bu maddenin yürürlüğe girdiği tarihten sonra karşılıklı olarak feshedilen kapsama dahil idareler, sözleşmelerinin sona eriş veya fesih tarihini izleyen bir ay içinde sözleşmelerin sona erdiği veya feshedildiği tarih ile bu Kanunda öngörülen toplu sözleşme dönemi sonuna kadarki dönemle sınırlı olmak üzere üçüncü fıkra hükümleri-dikkate alınmaksızın 32’nci madde hükümleri çerçevesinde sözleşme yapabilir. Ancak 32’nci madde uyarınca toplu sözleşmede belirlenen tavan tutarın, unvanlar itibarıyla ilgili personele söz konusu sözleşmeler uyarınca yapılmakta olan ortalama aylık ödemenin altında kalması halinde; üçüncü fıkra hükümleri dikkate alınmaksızın 32’nci madde hükümleri esas alınarak 31/12/2015 tarihine kadar uygulanabilecek sözleşmelerde bu maddenin yürürlüğe girdiği tarihte uygulanan sözleşme uyarınca unvanlar itibarıyla ilgili personele ödenen ortalama aylık tutar tavan olarak esas alınabilir. Bu şekilde yapılacak ödemeler kazanılmış hak sayılmaz” hükmü yer almaktadır.
+
+Mevzuat hükmüne göre 15.03.2012 tarihinden önce yürürlüğe girmiş olan sosyal denge sözleşmesindeki ödemeler 2017 yılına kadar yapılacak olan sosyal denge sözleşmeleri için tavan kabul edilecektir.
+
+Savunmalardan; …. Belediyesinin 12.10.2011 tarihinde imzaladığı Sosyal Denge Sözleşmesinin 01.03.2012 tarihindeki ek protokol ile Sözleşmenin 18’inci maddesinin (f) bendinde belirtilen sürelerde değişiklik yapıldığı, emekliliği teşvik amacıyla 02.07.2014 ve 31.12.2015 süre uzatımında bulunulduğu ve süre uzatımının Kanun’un geçici 14’üncü maddesindeki süreyle uyumlu olduğu ve Kanunda belirtilen tavan limitini aşmadığı anlaşılmıştır.
+
+Bu itibarla, Toplu İş Sözleşmesindeki hüküm kapsamında  emekli olan memurlara emekli ikramiyesinin %20’si oranında ayrıca ödeme yapılabileceğinden ….. TL için ilişilecek husus bulunmadığına oy çokluğuyla karar verildi.
+
+Karşı Oy
+
+Üye …..’ın karşı oy gerekçesi:
+
+4688 sayılı Kamu Görevlileri Sendikaları Kanunu’nun Geçici 14’üncü maddesi hükmü gereğince 375 sayılı Kanun Hükmünde Kararnamenin Ek 15’inci maddesi kapsamındaki idareler ile ilgili sendikalar arasında 15.03.2012 tarihinden önce yürürlüğe girmiş olan sosyal denge sözleşmesindeki ödemeler 2017 yılına kadar yapılacak olan sosyal denge sözleşmeleri için tavan kabul edilebilecektir. Bu tavan ise unvanlar itibarıyla ilgili personele ödenen ortalama aylık tutara göre belirlenecektir. 2012 yılından sonra yapılacak sosyal denge sözleşmelerinde, eski sözleşme hükümlerindeki ödemeler tavan olarak kabul edilebileceğinden, yeni sözleşmelerde eski sözleşmelerdeki ödemelerin herhangi bir şekilde arttırılması mümkün değildir.
+
+…. Belediyesince 12.10.2011 tarihinde  ….. ile imzalanan Toplu İş Sözleşmesinin 18’inci maddesinin (f) bendinde, “15.01.2012 tarihine kadar emekli olan memur personele, Emekli Sandığının tahakkuk ettirmiş olduğu emekli ikramiyesinin %20’si ödenir.” denilmiştir. Bu hükümdeki 15.01.2012 tarih, 01.03.2012 tarihinde imzalanan ek protokol ile 15.08.2012 olarak değiştirilmiştir.
+
+	Toplu İş Sözleşmesi’nin 18’inci maddesinin (f) bendinde yapılan düzenleme ile 15.08.2012 tarihine kadar emekli olacak memur personele yapılacak ilave ödemeye tarih bakımından sınırlama getirilmiştir. Sözleşme yürürlükte olmakla birlikte 15.08.2012 tarihine kadar emekli olacak memur personel için ilave ödeme öngörülmüştür. 4688 sayılı Kanun’un geçici 14’üncü maddesi gereğince 15.03.2012 tarihinden sonra ek protokolle sözleşmeye yeni mali haklar konulamayacağından emekli olan memur personele de emekli ikramiyesinin %20’si oranında ayrıca bir ödeme yapılamayacaktır.
+
+Bu itibarla, …. Belediyesince emekli olan memurlara emekli ikramiyesinin %20’si oranında ayrıca ödeme yapılması sonucu neden olunan kamu zararı tutarı …. TL’nin sorumlularına ödettirilmesine karar verilmesi gerekeceğinden çoğunluk görüşüne katılmıyorum.
