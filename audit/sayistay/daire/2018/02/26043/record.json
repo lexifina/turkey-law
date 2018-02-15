@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "240",
+  "decision_date": "2018-02-15",
+  "source_id": 26043,
+  "chamber": "7",
+  "ilam_number": "86",
+  "item_number": 20,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26043/",
+  "source_sha256": "a0328665b261a88b596e06b3acbc020ca9a176b4b2be992a40e6134ae7e665bb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
