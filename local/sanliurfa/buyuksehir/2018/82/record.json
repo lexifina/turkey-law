@@ -1,0 +1,24 @@
+{
+  "number": "82",
+  "number_as_published": "82",
+  "year": 2018,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(EYYÜBİYE-TUZLUCA)",
+  "decision_date": "2018-02-16",
+  "source": "https://www.sanliurfa.bel.tr/icerik/5715/106/nazim-ve-uygulama-imar-planieyyubiye-tuzluca",
+  "official_document": null,
+  "source_sha256": "635eff3a29be9c57ce2a71d7d8d2db5854bdf42d4d8198171fbca49a74af8f9b",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2018-02-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16.02.2018 tarih ve 82 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2018-03-06",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
