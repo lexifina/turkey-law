@@ -1,0 +1,623 @@
+16 Şubat 2018 CUMA
+Resmî Gazete
+Sayı : 30334
+YÖNETMELİK
+Gıda, Tarım ve Hayvancılık Bakanlığından:
+BİTKİ SAĞLIĞI
+TEŞHİS VE ANALİZ LABORATUVARLARININ KURULUŞ,
+ÇALIŞMA USUL VE ESASLARININ BELİRLENMESİ
+HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı; özel bitki sağlığı laboratuvarlarının,
+gerçek ve tüzel kişilere ait ihracat ve ithalatta yapılacak bitki sağlığı
+analizleri hariç, kuruluş izni, çalışma izni, denetimleri ve çalışma usul
+ve esaslarını düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik; sertifikalı
+tohumluk üretmek amacıyla, yapılan
+bitki sağlığı kontrollerinde, alınacak numunelerin, analizine yetki verilen
+zararlı organizmalarla ilgili analizleri yapmak üzere, gerçek ve tüzel
+kişilere ait laboratuvarların kuruluş ve çalışma izinlerine, bu
+laboratuvarlarda çalışan personelin nitelikleri ile tutulacak kayıtlarına,
+bu yerlerin teknik, sağlık ve hijyenik şartlara uyumu ve denetimine ilişkin
+esasları kapsar.
+(2) Bakanlıkça ihtiyaç duyulması halinde bu
+Yönetmeliğin kapsadığı esaslar çerçevesinde kurulan özel laboratuvarlara
+teşhis ve analiz için numune gönderilebilir, ilgili mevzuat hükümleri
+doğrultusunda hizmet satın alınabilir ve sertifikalı tohumluk numunelerinin
+analizinde yönlendirme yapılabilir.
+(3) Bu maddenin birinci fıkrasında belirtilen
+uygulamalar bilimsel amaçlı çalışmalar ve uygulamaları kapsamaz.
+(4) Bu maddenin birinci fıkrasında belirtilen
+uygulamalar ihracat ve ithalatta yapılacak bitki sağlığı analizlerini
+kapsamaz.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 11/6/2010 tarihli ve 5996
+sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 31, 33 ve
+41 inci maddeleri ile 3/6/2011 tarihli ve 639 sayılı Gıda, Tarım ve
+Hayvancılık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde
+Kararnameye dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Akreditasyon: Bir ürünün ya da hizmetin,
+piyasanın talep ettiği şartlara, standartlara, yönetmeliklere uygunluğunu göstermek
+üzere o ürün veya hizmet için yapılan deney, analiz, muayene ve
+belgelendirme işlemlerini yapan kuruluşların Türk Akreditasyon Kurumu
+tarafından ulusal ve uluslararası kriterlere göre denetlenerek teknik ve
+idari yeterliliklerinin onaylanması ve belli aralıklarla denetlenmesi
+işlemini,
+b) Akredite laboratuvar: Türk Akreditasyon Kurumu
+tarafından ulusal ve uluslararası kriterlere göre denetlenerek teknik ve
+idari yeterlilikleri onaylanan ve belli aralıklarla denetimi yapılan
+laboratuvarı,
+c) Bakanlık: Gıda, Tarım ve Hayvancılık
+Bakanlığını,
+ç) Çalışma izni: Kuruluş izni ile yer, proje ve
+belgeleri uygun bulunmuş, yapılan incelemelerde hiçbir eksikliğinin
+bulunmadığı tespit edilmiş kuruluşa, faaliyet gösterebilmeleri için
+Bakanlıkça verilen izin belgesini,
+d) Enstitü/karantina müdürlüğü: Kuruluşun bulunduğu
+ilin bitki sağlığı analiz hizmetleri yönünden bağlı olduğu
+enstitüsü/karantina müdürlükleri ile Zirai Mücadele Merkez Araştırma
+Enstitüsü Müdürlüğünü,
+e) Genel Müdürlük: Gıda ve Kontrol Genel Müdürlüğünü,
+f) İl müdürlüğü: İl Gıda, Tarım ve Hayvancılık
+Müdürlüğünü,
+g) İlçe müdürlüğü: İlçe Gıda, Tarım ve Hayvancılık
+Müdürlüğünü,
+ğ) İzolat: Toprak, su, bitki, hayvan gibi çeşitli
+doğal ortamlardan veya karışık kültürden elde edilen saf mikroorganizma kültürünü,
+h) Kanun: 11/6/2010 tarihli ve 5996 sayılı
+Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununu,
+ı) Komisyon:
+Bitki sağlığı ve çevre sağlığı açısından, başvuru evrakını
+inceleyerek ve yerinde denetleme yaparak gerekli raporları düzenleyen,
+enstitü/laboratuvarı bulunan zirai karantina müdürlüğünün ilgili bölümünde
+görevli en az 3 uzmandan oluşan komisyonu,
+i) Kuruluş izni: Planları ve diğer belgelerinin
+uygun görülmesi durumunda kuruluşa Bakanlıkça verilen izin belgesini,
+j) Özel bitki sağlığı teşhis ve analiz
+laboratuvarı: Gerçek ve tüzel kişilerin bu Yönetmelik hükümlerine göre
+açacağı ve Bakanlıkça belirlenen zararlı organizmaların teşhis ve
+analizlerini yapan laboratuvarları,
+k) Referans laboratuvarı: Bu Yönetmelik kapsamındaki
+analiz metot ve standartlarının belirlenmesinden, laboratuvarlara
+yerleştirilmesinden, kontrol edilmesi ve gerek duyulduğunda diğer
+laboratuvarlar tarafından yapılan analizlerin doğrulanmasından sorumlu
+olmak üzere, laboratuvar alt yapısı,
+uzman yeterliliği ve bilgi birikimi ile bitki sağlığı konusunda ayrıca
+zararlı organizmaların bölge popülasyon ilişkisi gibi unsurların
+değerlendirilmesi ile Bakanlık tarafından yetkilendirilen laboratuvar veya
+laboratuvarları,
+l) Sorumlu yönetici: Zararlı organizmaların teşhis
+ve analizlerini yapan laboratuvarların yönetiminden kuruluş sahibi ile
+birlikte sorumlu olan ve statüsünde bu durumu belirtilmiş olan ziraat
+mühendisini,
+m) Teknik personel: Zararlı organizmaların teşhis
+ve analizlerini yapacak laboratuvarlarda teknik hizmet kadrosunda çalışan
+ziraat fakültelerinin bitki koruma anabilim dalında en az tezli yüksek
+lisans yapmış ziraat mühendisi, biyolog, ziraat teknisyeni ve teknikeri,
+laboratuvar teknikeri ve laboratuvar teknisyenlerini,
+n) Uluslararası referans
+laboratuvarı/laboratuvarları: Bu Yönetmelik kapsamına giren konularda
+Ülkemizin de taraf olduğu Avrupa Birliği, Dünya Sağlık Örgütü, Uluslararası
+Bitki Sağlığı Örgütü, Avrupa ve Akdeniz Bitki Sağlığı Örgütü ve Birleşmiş
+Milletler Gıda ve Tarım Örgütü gibi kurum ve kuruluşlarca teşhis, analiz ve
+doğrulama işlemlerini yapmakla yetkilendirilen laboratuvar veya
+laboratuvarları,
+o) Uzman: Bu Yönetmelik kapsamındaki
+laboratuvarlarda çalışacak her biri ziraat fakültelerinin bitki koruma
+bölümünden mezun ve bitki koruma anabilim dalında en az tezli yüksek lisans
+belgesine sahip ziraat mühendisini,
+ö) Yer seçim raporu: Zararlı organizmaları teşhis
+ve analiz laboratuvarı kurulması için komisyon tarafından düzenlenen ve
+onaylanan belgeyi,
+p) Zararlı organizma: Bitki veya bitkisel ürünlere
+zarar veren bitki, hayvan veya patojenik ajanların tür, streyn veya
+biyotiplerini,
+ifade eder.
+İKİNCİ BÖLÜM
+Kuruluş,
+Komisyon ve Çalışma İzni
+Kuruluş
+izni
+MADDE 5 – (1) Bitki sağlığını olumsuz etkileyen zararlı
+organizmalarla ilgili teşhis ve analizleri yapmak isteyen gerçek ve tüzel
+kişilerin yer onaylarını yaptırmaları zorunludur. Bu amaçla, içinde
+aşağıdaki belgelerden oluşan iki adet dosya ile birlikte ilgili valiliğe
+müracaat edilir:
+a) Dilekçe,
+b) Ek-1’de yer alan kuruluşun sahibi veya
+idaresinden yetkili kişi tarafından doldurulmuş beyanname,
+c) Kuruluşun yerini belirleyen, yerleşim yeri ve
+çevresine ait bilgileri içeren vaziyet planı veya hali hazır durumunu
+gösteren plan,
+ç) Kuruluşun tüm bölümlerini içeren detaylı ve teknik
+kurallarına göre hazırlanmış, ölçeği belli, bu konuda yetkili mühendis ya
+da mimar tarafından imzalanmış kat planı,
+(2) İl müdürlüğüne ulaşan belgeler bu konuda
+sorumlu birim tarafından incelendikten sonra bilgi ve belgeleri uygun
+görülen kuruluşa ait planlar ve beyanname il müdürlüğünce ilgili enstitü
+müdürlüğü/laboratuvarı bulunan zirai karantina müdürlüğüne gönderilerek
+uygunlukları hakkında yazılı görüş sorulur.
+(3) Belgeler, komisyon tarafından bitki sağlığı ve
+çevre sağlığı açısından incelenir ve planlamanın uygunluğu hakkında olumlu
+ya da olumsuz rapor düzenlenerek il müdürlüğüne gönderilir.
+(4) Görüşün uygun olması durumunda söz konusu
+kuruluşun bulunduğu yer; komisyon marifetiyle bu Yönetmelik çerçevesinde
+bitki sağlığı ve çevre sağlığı açısından mahallinde incelenerek Ek-2’de yer
+alan yer seçim raporu düzenlenir.
+(5) Bilgi ve belgeleri uygun görülen kuruluşlara
+valilikçe bir yıl süreyle kuruluş izni verilir. Bu süre bitmeden süre
+uzatımı talebiyle ilgili mülki idari amirliğine başvuruda bulunanlara,
+valiliğin de uygun görmesi durumunda bir yıl ek süre verilir. Kuruluş izni
+veya kuruluş izni süre uzatımı verilen yerlere ait; kuruluş sahibinin adı,
+ticari adı, adresi, telefon ve faks bilgileri, izin/süre uzatım tarih ve
+sayısı, faaliyet alanları ve Bakanlıkça istenilen diğer bilgiler il
+müdürlüğünce yazılı olarak izin verilmesini takiben Genel Müdürlüğe
+bildirilir.
+Komisyon
+MADDE 6 – (1) Zirai mücadele araştırma enstitüleri ve
+laboratuvarı bulunan zirai karantina müdürlüklerinde görevli en az 3 uzmandan
+oluşur.
+(2) Komisyonda görev alacak uzmanlar, başvuru
+formunda analiz yapma yetkisi istenilen zararlı organizma konusunda
+çalışır.
+(3) Komisyonda görevli uzmanlar, başvuru evrakını
+inceleyerek ve yerinde denetleme yaparak gerekli raporları düzenler.
+Çalışma
+izni
+MADDE 7 – (1) Çalışma izni alınmadan faaliyette bulunulamaz.
+Kuruluş izni alarak onaylı planlarına göre kuruluşlarını yapmış olan gerçek
+ve tüzel kişiler çalışma izni almak için aşağıdaki belgelerden oluşan iki adet
+dosya ile ilgili valiliğe müracaat eder:
+a) Kuruluş sorumlu yöneticisi olan uzman ziraat
+mühendisi ile laboratuvarda çalışacak olan diğer uzman ziraat
+mühendislerinin ve laboratuvar teknik personelinin bağlı bulundukları
+meslek odalarından almış oldukları belgeye istinaden noterden yapılan
+sözleşme ve bu personellerin diploma suretleri,
+b) Teşhis ve analizde kullanılacak aletlerin teknik
+özellik ve kapasiteleri ile kullanılacak olan kimyasal ve biyolojik madde
+gibi materyallerin kuruluş yetkilisince onaylı listeleri,
+c) Kuruluşta çalışacak personel sayısını ve
+alanlarını gösterir kuruluşça onaylı personel listesi ile faaliyette bulunacağı
+her alan için çalışacak uzmanların en az tezli yüksek lisans belgesine
+sahip uzmanlık alanlarını gösterir belge,
+ç) Yangın ve patlamalar için gerekli önlemlerin
+alındığına dair ilgili itfaiye müdürlüğünden alınan belge,
+d) Açılması istenen işyeri bir şirket ise şirketin
+kuruluşunu gösteren Türkiye Ticaret Sicili Gazetesi.
+(2) İl müdürlüğüne ulaşan bu belgelerin tetkiki
+sonucunda bilgi ve belgeleri uygun görülen kuruluşlar için, Komisyon
+marifetiyle mevzuata uygunluğu açısından mahallinde inceleme yapılarak
+Ek-3’te yer alan açılma raporu düzenlenir.
+(3) Mahallinde yapılan incelemede uygun bulunan
+kuruluşa ait birinci ve ikinci fıkra hükümleri doğrultusunda alınan
+belgelerin birer nüshası il müdürlüğünce Genel Müdürlüğe gönderilir. Bilgi
+ve belgeleri incelenen kuruluşlar gerek görüldüğünde Bakanlıkça da
+mahallinde incelenebilir. Genel Müdürlükçe bilgi ve belgeleri uygun görülen
+kuruluşlara çalışma izni verilir. Çalışma izni, ilgili valiliğe yazı ile
+bildirilir.
+(4) Çalışma izni, gerçek ve tüzel kişiler adına,
+kuruluşun bulunduğu adrese verilir.
+(5) Beyannamelerinde belirtilen alanda çalışma izni
+almış kuruluşların, farklı alanda faaliyette bulunabilmeleri için faaliyet
+değişikliğiyle ilgili işlem yaptırmaları zorunludur.
+(6) Çalışma izinleri veriliş tarihinden itibaren on
+yıl süreyle geçerlidir. Faaliyet değişikliği yapmış kuruluşların çalışma
+izinleri ise kuruluşun faaliyet değişikliğinin Bakanlıkça onay tarihinden
+itibaren başlar ve on yıl süreyle geçerlidir.
+(7) Sertifikalı tohumluk üretimi yapan gerçek ve
+tüzel kişilere çalışma ve kuruluş izni verilmez.
+ÜÇÜNCÜ BÖLÜM
+Laboratuvarların
+Bölümleri ile Asgari Teknik ve Hijyenik Şartları
+Bitki
+sağlığı teşhis ve analiz laboratuvarlarının bölümleri
+MADDE 8 – (1) Bitki sağlığı teşhis ve analiz laboratuvarları
+Ek-4’te yer alan koşulları sağlar.
+Asgari
+teknik ve hijyenik şartlar
+MADDE 9 – (1) Laboratuvarlar aşağıdaki teknik ve hijyenik
+şartları sağlamakla yükümlüdür:
+a) Laboratuvarlar, imar mevzuatına uygun ve
+insanların ikametgâhına mahsus olmayan müstakil binalarda kurulur.
+b) Alet ve ekipmanın temizlenip dezenfekte
+edilebileceği uygun bir yer ve yeterli imkanlar bulundurulur.
+c) Mevcut oda ve koridorlarda zemin; su geçirmez,
+kolay temizlenebilir ve dezenfekte edilebilir malzemeden yapılır.
+ç) Duvarlar; tabandan tavana kadar açık renkli,
+yıkanabilir ve dezenfekte edilebilir, sağlam, düzgün ve geçirgen olmayan
+bir malzeme ile kaplanır.
+d) Tavan, düzgün ve kolay temizlenebilir yapıda
+olur.
+e) Duvarların birbiri ile birleşen kısımları ve
+duvar-zemin bağlantısı kir tutmayacak yapıda olur.
+f) Kapı ve pencere çerçeveleri dayanıklı paslanmaz
+materyalden yapılır. Eğer ahşap ise bütün yüzeyleri düzgün ve su geçirmez
+bir materyal ile kaplanır. Açılabilen dış pencerelerin tamamı sinek, haşere
+ve kemiricilerin içeri girmesini engelleyecek şekilde pencere teli ile
+kaplanır. Kapı ve pencereler yeteri büyüklükte olur.
+g) Kuruluşun tuvaleti ve genel temizlik yapılan
+bölümlerindeki lavabolarda hijyene uygun temizlik malzemesi ve dezenfektan
+gibi gerekli sıhhi malzeme bulundurulur.
+ğ) Çöplerin, artık ve atıkların konulması için su
+geçirmez, paslanmaz, kolay temizlenir ve dezenfekte edilebilir nitelikte
+taşınabilecek ayrı ekipmanlar bulundurulur.
+h) Artık ve atıkların imha ve muamelesi,
+çalışmaların bütünlüğünü tehlikeye atmayacak şekilde, 2/4/2015 tarihli ve
+29314 sayılı Resmî Gazete’de yayımlanan Atık Yönetimi Yönetmeliği
+kapsamında yapılır. Artık ve atıkların uygun bir şekilde toplanması,
+depolanması, imha şartları, temizlenmesi ve taşınması için talimatlar
+bulundurulur. İnsan, hayvan ve çevre için zararsız hale getirilen artık ve
+atıkların imhası için belediye dahil ilgili kuruluşlar ile yapılmış bir
+sözleşmenin bulunması ve bunların uzun süre bekletilmeksizin kuruluştan
+uzaklaştırılması şarttır. Taşımada kullanılan ekipman tek kullanımlık
+değilse her kullanımdan sonra usulüne uygun bir şekilde temizlenir ve
+dezenfekte edilir.
+ı) Personelin açık renkli, kolayca temizlenebilir,
+başlık, çizme veya özel ayakkabı, çalışma kıyafetleri ve tek kullanımlık
+bone ve maske kullanması zorunludur. Bu malzemelerden yıkanabilir olanlar
+haftalık olarak idare tarafından hijyen kurallarına uygun olarak
+temizletilir.
+i) Böcekler ve fareler gibi zararlıların girmesini
+engelleyecek gerekli önlemlerin alınması zorunludur.
+DÖRDÜNCÜ BÖLÜM
+Sorumlu
+Yönetici ve Laboratuvar Sahibi ile İlgili Hususlar
+Sorumlu
+yönetici ve laboratuvar sahibinin görev ve sorumluluğu
+MADDE 10
+– (1) Bu Yönetmelik kapsamındaki
+laboratuvarlarda sorumlu yönetici çalıştırılması zorunludur. Laboratuvar
+sorumlu yöneticisinin görevleri, sorumlulukları ve görevlendirilmeleri ile
+ilgili hususlar aşağıda belirtilmiştir:
+a) Laboratuvar sorumlu yöneticisi; laboratuvarın bu
+Yönetmelik hükümlerine uygun faaliyet göstermesinden, sağlıklı teşhis ve
+analiz yapılmasından, çalışan personelin sağlık kontrolü ve eğitimi ile
+oluşan atık ve artıkların çevre toplum sağlığına zarar vermesini önleyecek
+doğru tedbirlerin alınmasından sorumludur.
+b) Teşhis ve analiz laboratuvarlarında, muayeneye
+alınan materyalin sıra no, nev’i, cinsi, uygulanan teşhis ve analiz metodu,
+başvuran şahsın isim ve adres bilgilerini protokol defterine; teşhis ve
+analiz sonuçlarını ise dip koçanlı rapor defterine kayıt yapmak veya
+yaptırmakla yükümlüdür.
+c) Laboratuvar sorumlu yöneticisi bu Yönetmelikte
+belirtilen hususları yerine getirmek, denetim defterini muhafaza etmek ve
+bu Yönetmelikte yer alan bilgi ve belgeleri istenildiği takdirde ilgililere
+göstermekle yükümlüdür.
+ç) Laboratuvar sorumlu yöneticileri başka bir işte
+çalışamaz ve çalışmaya zorlanamaz. Yetki verilen özel bitki sağlığı teşhis
+ve analiz laboratuvarlarında ziraat mühendisleri sorumlu yönetici olarak
+görevlendirilir.
+d) Laboratuvarın genel temizlik ve bakımı ile
+çalışma, plan ve programını hazırlamaktan laboratuvar sorumlu yöneticisi
+sorumludur.
+e) Laboratuvar sorumlusu yılda en az bir defa olmak
+üzere çalışma konuları ile ilgili referans laboratuvar/laboratuvarlar tarafından
+düzenlenen halka testlere personelin katılmasını sağlamaktan, laboratuvar
+içerisinde koordinasyonunu yapmaktan, sonuçları ilgili referans
+laboratuvara göndermekten sorumludur.
+(2) Laboratuvar sahibi, sorumlu yönetici ve diğer
+personelin görevlerini yerine getirmesinde kullanacağı her türlü araç,
+gereç ve imkânları sağlamakla ve işlerin yürütülmesi için yeterli personel
+istihdam etmekle yükümlüdür.
+BEŞİNCİ BÖLÜM
+Laboratuvar
+Ünitesi, Görevleri ve Yükümlülükler
+Laboratuvar
+ünitesi
+MADDE 11
+– (1) Laboratuvar ünitesi teşhis
+ve analiz çalışmalarının iyi bir şekilde yürütülebilmesi için
+laboratuvarlarda kurulan organizasyon birimleridir. Birden fazla birimi
+kapsayan teşhis ve analiz laboratuvar ünitelerinin her birinde, ziraat
+fakültelerinin bitki koruma bölümünden mezun ve bitki koruma anabilim
+dalında en az tezli yüksek lisans yapmış ziraat mühendislerinin istihdam
+edilmesi zorunludur. İstihdam edilecek uzmanlar Ek-5’te belirtilen
+kriterleri sağlar.
+Yetkilendirilmiş
+özel laboratuvarın görevleri
+MADDE 12
+– (1) Yetkilendirilmiş özel
+laboratuvarın görevi, bu Yönetmelik kapsamında analizine yetki verilen
+zararlı organizmalarla ilgili, ithalat ve ihracata tabi ürünler yönünden
+yapılan analizler hariç, Bakanlık il müdürlükleri tarafından tohumluk
+sertifikasyonu amacıyla yapılacak kontrollerden alınan numunelerin
+analizlerini, diğer kamu kurumlarından gönderilen numunelerde resmi istek
+analizlerini, üniversiteler gibi kurum ve kuruluşların, şahıs veya
+firmaların özel istek analizlerini, araştırma geliştirme ve proje
+analizlerini raporlarında belirtmek kaydı ile yapmaktır.
+Referans
+laboratuvarlarının yetki ve görevleri
+MADDE 13
+– (1) Referans laboratuvarları;
+laboratuvar alt yapısı, uzman yeterliliği ve bilgi birikimi ile bitki
+sağlığı konusunda ayrıca zararlı organizmaların bölge popülasyon ilişkisi
+gibi unsurların değerlendirilmesi ile Bakanlık tarafından mevcut resmi
+laboratuvarlar arasından belirlenir.
+(2) Referans laboratuvarları bölgesel düzeyde
+yürüttükleri görevlerin yanı sıra referans oldukları konularla sınırlı
+olmak üzere ülke çapında da görev yaparlar.
+(3) Referans laboratuvarının yetki ve görevleri
+aşağıda belirtilmiştir:
+a) Referans laboratuvarının referans oldukları
+zararlı organizmaların teşhisi ve doğrulama teşhisine ilişkin görevleri
+şunlardır:
+1) 5996 sayılı Kanun ve diğer alt mevzuat
+hükümlerine göre bildirimi zorunlu olarak belirlenen zararlı organizmalara
+ilişkin resmi ve özel laboratuvarlarca yapılan teşhiste pozitif bulunan
+sonucun doğrulama teşhisini yapmak, teyit amacıyla gelen bu numunelerde
+pozitiflik bulunması halinde; sonucu
+gecikmeksizin Genel Müdürlüğe ve gönderen birime bildirmek,
+2) Doğrulama teşhisi klasik, moleküler test
+yöntemleri dâhil patojen izolatları, bioassay testleri, biyolojik indeksleme
+gibi testlerle ilgili zararlı organizmanın doğru tanılamasını yapmak,
+3) Gerektiği hallerde Uluslararası Referans
+Laboratuvarları ve işbirliği merkezlerine doğrulama için örnek göndermek,
+zararlı organizma teşhis ve mücadelesine ilişkin teknik ve bilimsel destek
+almak,
+4) Referans olduğu zararlı organizmalarla ilgili
+epidemiyolojik çalışmaları yürütmek, sürvey programları düzenlemek,
+alternatif kontrol ve eradikasyon stratejilerini belirlemek, uygulanan
+kontrol ve eradikasyon metotlarını değerlendirmek ve yetkili otoriteye
+görüş bildirmek.
+b) Referans laboratuvarının teknik ve bilimsel
+destek, değerlendirme ve durum tespiti ile ilgili görevleri şunlardır:
+1) Uluslararası Referans Laboratuvarları ve
+işbirliği merkezleri ile işbirliği yapmak, organize edilen karşılaştırma ve
+yeterlilik testlerine katılmak,
+2) Ulusal düzeyde kullanılan teşhis yöntemleri için
+düzenli olarak karşılaştırma ve yeterlilik testleri organize etmek,
+3) Referans olduğu hastalıklarla ilgili teşhis
+metotlarının standardize edilmesi,
+kullanılan tekniklerin uyumlaştırılması, standart test yöntemlerinin belirlenmesi
+ve bu metotların diğer kamu ve özel sektör laboratuvarlarında uygulanmasını
+sağlamak,
+4) Referans oldukları zararlı organizmalara ait
+ajan, suş ve izolatların karakterizasyonunu yapmak, standardize etmek,
+5) Validasyon ile ilgili testleri yapmak ve
+yaptırmak,
+6) Referans olunan konulardaki testlerde kullanılan
+serumların, antijenlerin ve diğer referans maddelerin testlerinin yapılarak
+geçerli kılınmasını temin etmek, standardize edilmiş bu maddeleri hazırlamak,
+kontrol etmek ve talep edildiğinde bedeli karşılığı sağlamak,
+7) Suş ve izolatlar için kültür koleksiyonlarının
+oluşturulması ve bunların düzenli olarak saklanması,
+8) Zararlı organizmaların kontrol ve
+eradikasyonunun geliştirilmesi ve iyileştirilmesine yönelik olarak araştırma
+aktivitelerini koordine etmek.
+c) Referans laboratuvarının bilgi toplama ve
+bilgilendirme ile ilgili görevleri şunlardır:
+1) Diğer resmi ve özel laboratuvarlarda referans
+olduğu zararlı organizmalarla ilgili çalışan uzmanlarına yönelik uygulamalı
+eğitim programları düzenlemek,
+2) Referans olduğu konularda yetkili otoriteye ve
+uluslararası kurum ve kuruluşlara teknik yardım sağlamak ve bilimsel görüş
+sunmak,
+3) Referans olduğu konularda çalışan diğer kamu ve
+özel laboratuvarların uzmanlarını bilgilendirmeye yönelik olarak internet
+sitesi hazırlamak ve güncel tutmak,
+4) Diğer bitki sağlığı teşhis ve analiz
+laboratuvarları ile düzenli ve açık bir diyalog içinde olmak, bitki sağlığı
+mücadele programının planlanmasında, uygulanmasında yetkili otoriteye görüş
+bildirmek,
+5) Ülkede izole edilen suş ve izolatların
+tiplendirme bilgilerini de içeren veri bankalarını oluşturmak ve bu bilgileri
+düzenli olarak saklamak,
+6) Teşhiste kullanılan metotlarla ilgili bilgi ve
+verileri toplamak, düzenlemek ve yayımını yapmak,
+7) Eğitimleri; bildirimi zorunlu zararlı
+organizmalara, referans kültürlerin teminine, kullanılması gereken kültürlerin niteliklerine, muhafazasına
+ve imhalarına ilişkin konuları içerecek şekilde yapmak,
+8) Referans olduğu hastalıkların epidemiyolojisi,
+korunma ve eradikasyon ile ilgili ulusal ve uluslararası gelişmeleri takip
+etmek ve bilgi bankası oluşturmak,
+9) Uluslararası Referans Laboratuvarları ve
+işbirliği merkezleri ile işbirliği yapmak, yıllık bilimsel toplantılarına uzman
+göndermek.
+Akreditasyon
+standartları
+MADDE 14
+– (1) Bitki sağlığı teşhis ve
+analiz laboratuvarlarının TS EN ISO/IEC 17025’e göre yeterliliklerinin,
+Türk Akreditasyon Kurumu tarafından EPPO PM 7/98 esas alınarak
+değerlendirilmesi, onaylanması ve denetlenmesi esastır.
+(2) Bitki sağlığı teşhis ve analiz laboratuvarına
+ilgili referans laboratuvarlarca yapılan denetime göre metot bazında
+Bakanlıkça onay verilir.
+Alet ve
+ekipman
+MADDE 15
+– (1) Bitki sağlığı teşhis ve
+analiz laboratuvarları; sahip oldukları laboratuvar ünitelerinde, her bölüm
+için asgari şartları Ek-4’te belirtilen yeterli miktarda ve kapasitede
+alet, ekipman, biyolojik madde, kimyasal madde ve sarf malzemesi
+bulundurur.
+Laboratuvarların
+denetimi
+MADDE 16
+– (1) İl müdürlüğü koordinasyonunda
+enstitü/karantina müdürlüklerince bu Yönetmelik kapsamındaki laboratuvarlar
+yılda en az iki kez, gerektiğinde süreye bakılmaksızın denetlenir.
+(2)
+Denetimlerde tespit edilen hususlar denetim defterine kaydedilir ve bu
+defter laboratuvar sorumlu yöneticisi tarafından muhafaza edilir. Denetimde
+mevzuata uygunsuzluk tespit edildiğinde giderilmesi için laboratuvara
+uyarıda bulunulur ve laboratuvar, uyarı tebligatı tarihinden sonra otuz gün
+içerisinde uygunsuzlukları gidererek almış olduğu tedbirleri il müdürlüğüne
+bir rapor halinde bildirir. Bu süre Bakanlık tarafından üç ayı aşmamak
+üzere uzatılabilir.
+(3) Bitki sağlığı teşhis ve analiz laboratuvarları,
+Bakanlıkça gerek görüldüğü takdirde Bakanlık yetkilisi tarafından da
+denetlenir.
+Teşhiste
+metot standardı
+MADDE 17
+– (1) Laboratuvarlarda yapılan tüm
+analiz yöntemlerinin validasyonu sağlanır. Valide edilmiş bu yöntemlerle
+analizlerin kesin, doğru, spesifik, tutarlı, geçerli ve güvenilir olduğunun
+garanti edilmiş olması gerekir. Bitki sağlığı teşhis ve analiz
+laboratuvarları Bakanlık laboratuvarlarınca kabul edilmiş ve yayınlanmış
+standart teşhis protokollerini kullanır. Teşhiste metot birliği esaslarına
+ve metotların standartlarına uyar.
+Zararlı
+organizmaların bildirimi
+MADDE 18
+– (1) Zararlı organizma teşhis ve
+analizi için laboratuvara getirilen materyalde, 5996 sayılı Kanun ve bu
+Kanuna göre düzenlenmiş alt mevzuat çerçevesinde belirlenen bildirimi
+zorunlu zararlı organizmalardan biri tespit edildiğinde, durum laboratuvar
+sorumlu yöneticisi tarafından derhal il müdürlüğü ve ilin bitki sağlığı
+uygulamaları yönünden bağlı olduğu enstitü/karantina müdürlüğüne ve en seri
+şekilde Genel Müdürlüğe bildirilir. Laboratuvar sorumlu yöneticisi bu
+yükümlülüğün yerine getirilmesinde Bakanlığa karşı sorumludur.
+(2) Ülkemizde varlığı bilinmeyen bir zararlı
+organizma tespit edildiğinde iki gün içerisinde laboratuvar sorumlu
+yöneticisi tarafından Ek-6’da yer alan form kullanılarak Genel Müdürlüğe
+bildirim yapılır.
+Personel
+bildirimi
+MADDE 19
+– (1) Görevinden ayrılan sorumlu
+yönetici görevden ayrılışından itibaren en geç on beş gün içerisinde bir
+dilekçe ile durumu valiliğe bildirmekle yükümlüdür. Laboratuvar
+sahiplerinin de en geç bir ay içerisinde laboratuvarlarında bu Yönetmelik
+hükümlerine göre, yeni bir sorumlu yöneticiyi göreve başlatmak ve durumu
+Bakanlığa iletilmek üzere il müdürlüğüne bildirmek zorundadır. Aksi
+takdirde çalışma izni iptal edilir.
+(2) Çalışan personel için, laboratuvarca yılda bir
+kez personel bildirim çizelgesi düzenlenerek Bakanlığa gönderilmek üzere il
+müdürlüğüne teslim edilir. Ayrıca, laboratuvarda çalışan personelin işten
+ayrılması halinde, işten ayrılmasını takiben bir ay içerisinde bu durumun
+Bakanlığa iletilmek üzere il müdürlüğüne bildirilmesi zorunludur.
+Eğitim
+MADDE 20
+– (1) Laboratuvarda çalışan
+personelin, yeni gelişmelere paralel olarak mesleki ve teknik bilgilerinin
+arttırılması amacıyla çalıştığı laboratuvarı ilgilendiren konularda resmi
+veya mesleki kuruluşlarca düzenlenecek kurs ve hizmet içi eğitim
+seminerlerine katılmaları ve masraflarının karşılanması laboratuvar
+idaresince sağlanır.
+Teşhis ve
+analiz işlemleri ile raporlama
+MADDE 21
+– (1) Özel laboratuvarlar,
+3/12/2011 tarihli ve 28131 sayılı Resmî Gazete’de yayımlanan Bitki
+Karantinası Yönetmeliğinin Ek-1 ve Ek-2’sindeki ülkemizde varlığı bilinen
+zararlı organizmalar ve tohumluk sertifikasyonuna ilişkin yürürlükteki
+mevzuat hükümlerince sertifikasyona tabi, Bakanlıkça teşhisine izin verilen
+ve yetkilendirilen zararlı organizmalarla ilgili analiz ve teşhis yapar.
+(2) Analiz sonucunda karantinaya tabi bir organizma
+tespit edilmesi halinde, bulaşık numunenin ait olduğu partinin tamamı ya da
+ürünün yetiştirildiği alan karantinaya alınması amacıyla Bakanlığa
+bildirilir.
+(3) 5996 sayılı Kanun ve diğer alt mevzuat hükümlerine
+göre bildirimi zorunlu zararlı organizmalara ilişkin özel laboratuvarlarca
+düzenlenen teşhis ve analiz raporlarının en az %10’u referans
+laboratuvarları tarafından kontrol edilir. Bilgi ve belge üzerinde yapılan
+bu kontrolde analiz sonuçlarında uygunsuzluk tespit edilmesi durumunda kontrol
+sıklığı arttırılır. Bu Yönetmelik kapsamında çalışma izni almış bitki
+sağlığı teşhis ve analiz laboratuvarları, örneği Ek-7’de yer alan teşhis ve
+analiz raporunu kullanır.
+(4) Bitki sağlığı teşhis ve analizleri için gelen
+numuneler, Bakanlık tarafından çalışma izni verilen laboratuvarlarda
+yapılır. Bu laboratuvarlarda yapılamayan teşhis ve analizler için ya da
+teyit amacıyla yurt içindeki veya yurt dışındaki laboratuvarlarda
+analizlerin yaptırılması hususunda Bakanlık yetkilidir.
+(5) Laboratuvarlar, onay almadıkları analizler için
+ya da analiz yapmadan rapor düzenleyemezler.
+Analiz
+sonucuna itiraz
+MADDE 22
+–
+(1) Analiz sonucuna yapılan itirazlara ilişkin olarak Bitki
+Karantinası Yönetmeliğinin ilgili hükümleri uygulanır.
+Kayıtlar
+MADDE 23
+– (1) Laboratuvarın faaliyet
+alanına, ihtiyaçlarına ve spesifik fonksiyonlarına cevap veren bir kayıt ve
+arşiv sistemi bulundurulur. Kayıt sisteminde; dosyalama, anlaşılırlık,
+güvenirlik ve gizlilik esaslarına uyulur. Laboratuvarlarda kullanılacak
+olan protokol defteri ve denetim defteri, laboratuvarın bağlı bulunduğu il
+müdürlüğü bitkisel üretim ve bitki sağlığı şube müdürlüğü tarafından her
+sayfası numaralandırılıp mühürlendikten sonra kullanılır. Bu defterler beş
+yıl süre ile saklanır.
+(2) Teşhis ve analiz laboratuvarlarında; sıra
+numarası, muayeneye alınan materyalin tür ve cinsi, uygulanan teşhis ve
+analiz metodu, başvuran şahsın isim ve adresi ile teşhis ve analiz
+sonucunun kaydedildiği protokol ve dip koçanlı rapor defteri bulundurulur.
+Ayrıca teşhis ve analizler fotoğraflanır ve bilgisayar ortamında depolanır.
+(3) Çalışma izni almış kuruluşlar çalışılan yıla
+ait bilgileri altı ayda bir Ek-8’de yer alan forma işleyerek ikişer nüsha
+halinde il müdürlüğüne teslim ederler. İl müdürlüğü bu belgelerin bir
+nüshasını Bakanlığa gönderir. Bakanlık bu belgelere yenilerini ekleyebilir,
+istenme sıklığını ve istenilen belgelerin içeriğini değiştirebilir.
+ALTINCI BÖLÜM
+İdari
+Yaptırımlar, Kapatma ve Değişiklik
+İdari
+yaptırımlar
+MADDE 24
+– (1) Kanunun 33 üncü maddesi
+gereği Bakanlıktan onay almadan faaliyette bulunan laboratuvarlar
+faaliyetten men edilir ve sahiplerine Kanunun 41 inci maddesinin birinci
+fıkrasının (g) bendinde belirtilen miktarda idarî para cezası verilir.
+Fiillerin bir yıl içinde tekrarı hâlinde ceza iki kat olarak uygulanır.
+(2) Kanunun 33 üncü maddesi gereği, analiz yapmadan
+analiz raporu düzenleyen laboratuvar sahiplerine Kanunun 41 inci maddesinin
+birinci fıkrasının (g) bendinde belirtilen miktarda idarî para cezası verilir.
+Fiillerin bir yıl içinde tekrarı hâlinde ceza iki kat olarak uygulanır.
+(3) Kanunun 33 üncü maddesinin beşinci fıkrası
+gereği Bakanlıkça istenen kayıtları tutmayan ve süresi içerisinde
+sunmayanlar ile bildirimi istenilen değişiklikleri süresi içerisinde
+bildirmeyenlere Kanunun 41 inci maddesinin (ğ) bendinde belirtilen miktarda
+idarî para cezası verilir.
+(4) Bakanlıktan kuruluş ve faaliyet onayı alan
+laboratuvarların resmî kontrolleri sırasında mevzuata uygunsuzluk tespit
+edilmesi durumunda, bu uygunsuzluğun giderilmesi için üç ayı aşmamak üzere
+süre verilir. Verilen süre sonunda uygunsuzluğun giderilmemesi hâlinde
+Kanunun 41 inci maddesinin birinci fıkrasının (h) bendinde belirtilen
+miktarda idarî para cezası verilir ve uygunsuzluk giderilinceye kadar uygunsuzlukla
+ilgili faaliyetten men edilir.
+(5) Kanunun 15 inci maddesinin beşinci fıkrası
+gereği bildirimi istenen zararlı organizmalarla ilgili bildirimi
+yapmayanlara Kanunun 38 inci maddesinin (c) bendinde belirtilen miktarda
+idarî para cezası uygulanır.
+Kapatma
+ve değişiklikler
+MADDE 25
+– (1) Çalışma izni almış
+laboratuvarlarda Bakanlığın izni olmadan; laboratuvarın kısmen veya tamamen
+yenilenmesi için değişiklik ve ilave yapılamaz. Bakanlığın bu gibi
+tadilatlara izin vermesi durumunda bu Yönetmelikte geçen bilgi ve belgeler
+tekrar istenebilir. Verilen çalışma izni üzerinde yazılı gerçek ve tüzel
+kişi, adres ve faaliyet alanı için geçerlidir. Bunlardan herhangi birinin
+değişmesi halinde çalışma izni geçerliliğini kaybeder. Laboratuvarların
+sahibi tarafından kapatılması, sahip veya unvan değiştirilmesi hallerinde,
+durum en az bir ay önceden Bakanlığa gönderilmek üzere bir dilekçe ile
+ilgili valiliğe bildirilir. Dilekçeye Bakanlığa gönderilmek üzere değişiklikler
+ile ilgili bilgi ve belgelerle çalışma izninin aslı eklenir. Bakanlıkça
+uygun görülmesi halinde, yeni sahip ve unvan üzerinden bitki sağlığı teşhis
+ve analiz laboratuvarı için çalışma izni verilir.
+(2) Çalışma izninin kaybolması veya okunmayacak
+şekilde tahrip olması halinde, kaybolması ile ilgili belge veya tahrip
+olmuş çalışma izni belgesinin aslı bir dilekçeye eklenerek ilgili valiliğe
+müracaat edilir. Bakanlıkça uygun görülmesi halinde yeniden eski tarih ve
+sayı ile gerekli açıklama da yapılarak çalışma izin belgesi düzenlenir.
+YEDİNCİ BÖLÜM
+Son Hükümler
+Yürürlük
+MADDE 26
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 27
+– (1) Bu Yönetmelik hükümlerini
+Gıda, Tarım ve Hayvancılık Bakanı yürütür.
+Ekleri için tıklayınız
