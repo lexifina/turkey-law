@@ -1,0 +1,24 @@
+{
+  "number": "84",
+  "number_as_published": "84",
+  "year": 2018,
+  "title": "NAZIM İMAR PLANI DEĞ.(SİVEREK-HACIÖMER)",
+  "decision_date": "2018-02-16",
+  "source": "https://www.sanliurfa.bel.tr/icerik/5697/106/nazim-imar-plani-degsiverek-haciomer",
+  "official_document": null,
+  "source_sha256": "5a2a6fa6af6ca4b7ac86c68de332a6b6339ad49485beb70a2dde2f7416bc2334",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2018-02-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16.02.2018 tarih ve 84 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2018-03-05",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
