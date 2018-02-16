@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "141",
+  "decision_date": "2018-02-16",
+  "title": "MEC.KAR. ( TOROSLAR GÖZNE - KORUM MESKİYE TAHS",
+  "listed_as": "141 MEC.KAR. ( TOROSLAR GÖZNE - KORUM MESKİYE TAHS",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/141-meckar--toroslar-gozne---korum-meskiye-tahsis--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/16-subat-2018-meclis-kararlari",
+  "listing_sha256": "7c5defddf33c0095617f55ef0487a06b9f765c0f446a54c419f23a7f42c8d082",
+  "meeting_title": "16 ŞUBAT 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
