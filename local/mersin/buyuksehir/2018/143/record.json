@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "143",
+  "decision_date": "2018-02-16",
+  "title": "MEC.KAR. ( MESKİ KADRO İHDASI ).doc",
+  "listed_as": "143 MEC.KAR. ( MESKİ KADRO İHDASI ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/143-meckar--meski-kadro-ihdasi--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/16-subat-2018-meclis-kararlari",
+  "listing_sha256": "7c5defddf33c0095617f55ef0487a06b9f765c0f446a54c419f23a7f42c8d082",
+  "meeting_title": "16 ŞUBAT 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
