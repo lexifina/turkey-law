@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24389",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİTKİ SAĞLIĞI TEŞHİS VE ANALİZ LABORATUVARLARININ KURULUŞ, ÇALIŞMA USUL VE ESASLARININ BELİRLENMESİ HAKKINDA YÖNETMELİK",
+  "number": "24389",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2018/24389",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24389&MevzuatTertip=5",
+  "source_sha256": "ef31018a276d51ae7bd7820db2e37b54cff7f3d52dd3dd14fa73cf180bbe7a7f",
+  "source_bytes": 68145,
+  "published": "2018-02-16",
+  "gazette": "30334",
+  "in_force": "2018-02-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.02.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3889,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24389-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
