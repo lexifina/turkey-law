@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24392",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SANAYİ İŞBİRLİĞİ PROJELERİNİN UYGULANMASINA İLİŞKİN YÖNETMELİK",
+  "number": "24392",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2018/24392",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24392&MevzuatTertip=5",
+  "source_sha256": "22baeafd4a52b07821365cdaed8df947e2286587533b0d3143b7150feb7e2fc2",
+  "source_bytes": 79104,
+  "published": "2018-02-17",
+  "gazette": "30335",
+  "in_force": "2018-02-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.02.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4552,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24392-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
