@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-02-18",
+      "18.02.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30336",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-02-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Şırnak Üniversitesi",
+  "issuer_slug": "sirnak-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sirnak-universitesi/2018/24403",
+  "published": "2018-02-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24403&MevzuatTertip=5",
+  "source_bytes": 27181,
+  "source_id": "8.5.24403",
+  "source_sha256": "94142d9f3e55f556955c2b3a773ef17a55de9eee4979f23b2c9748f0828c35aa",
+  "text_status": "as-enacted",
+  "title": "ŞIRNAK ÜNİVERSİTESİ MOLLA AHMED EL-CEZERÎ UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 345,
+  "word_count": 1046
+}
