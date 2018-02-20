@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "311",
+  "decision_date": "2018-02-20",
+  "source_id": 26016,
+  "chamber": "3",
+  "ilam_number": "316",
+  "item_number": 3,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26016/",
+  "source_sha256": "a6ca5ce94182b5ba14a8d53a68ccbb9f48053e121eb8ab616babbf47f65f48b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
