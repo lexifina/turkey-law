@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10689",
+  "decision_date": "2018-02-20",
+  "source_id": 27041,
+  "chamber": "1",
+  "ilam_number": "106",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/27041/",
+  "source_sha256": "29448ca918099489d2f357ea605c37bf304421e1b223cc2fed7aedeeda3413a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
