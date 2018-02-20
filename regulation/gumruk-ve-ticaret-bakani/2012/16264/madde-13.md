@@ -1,0 +1,4 @@
+Komisyonlar
+MADDE 13 – (1) Gümrük ve ticaret politikalarının etkin bir biçimde oluşturulması, yürütülmesi, değerlendirilmesi ve denetlenmesi amaçları doğrultusunda İcra Kurulunun teklifi ve (Değişik ibare:RG-21/10/2014-29152) Başkanın onayı ile çalışma komisyonları kurulabilir. Komisyon üyeleri, (Değişik ibare:RG-21/10/2014-29152) İcra Kurulu tarafından seçilir. Komisyonlar, kendi üyeleri arasından bir başkan ve bir başkanvekili seçer.
+(2) Komisyonlar, belirlenen sürede hazırlayacakları raporları değerlendirilmek üzere İcra Kuruluna sunmakla görevlidir.
+(3) Komisyonların çalışmasıyla ilgili usuller, İcra Kurulu ile çalışma grubu ve komisyon başkanları tarafından belirlenir. Yapılan çalışmalarla ilgili toplantı sonuçları tutanakla tespit edilir, tutanaklar ve düzenlenen raporlar Sekreteryaya sunulur.

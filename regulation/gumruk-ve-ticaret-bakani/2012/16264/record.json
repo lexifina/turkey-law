@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.16264",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÜMRÜK VE TİCARET KONSEYİ YÖNETMELİĞİ",
+  "number": "16264",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "issuer_slug": "gumruk-ve-ticaret-bakani",
+  "path": "regulation/gumruk-ve-ticaret-bakani/2012/16264",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16264&MevzuatTertip=5",
+  "source_sha256": "8cba807df95b95c0bb9e9742a68b506eba353894c36793e1713f73ea0f6b995b",
+  "source_bytes": 43568,
+  "published": "2012-06-22",
+  "gazette": "28331",
+  "in_force": "2018-02-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/2/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-02-20",
+      "RG-20/2/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-02-20",
+      "20/2/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-10-21",
+      "RG-21/10/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-10-21",
+      "21/10/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1788,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
