@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.24405",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HÂKİMLER VE SAVCILAR KURULU PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "24405",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2018/24405",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24405&MevzuatTertip=5",
+  "source_sha256": "18a80c6c2e5124da3c55d006128984242228f8c1161c2508f5600b46c8fac9e4",
+  "source_bytes": 53523,
+  "published": "2018-02-21",
+  "gazette": "30339",
+  "in_force": "2018-02-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.02.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2629,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
