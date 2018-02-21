@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44105",
+  "decision_date": "2018-02-21",
+  "source_id": 15727,
+  "chamber": "5",
+  "file_number": "42056",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15727/",
+  "source_sha256": "08a795584b99ee636c473501a839b62f9f7492789b730429bf83a29b3f8c8f27",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
