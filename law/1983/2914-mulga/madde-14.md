@@ -1,0 +1,3 @@
+Madde 14 – (11/10/1983 tarih ve 2914 sayılı Kanunun hükmüdür.)
+Gelişmesinde güçlük çekilen ve özellikle kalkınmada öncelikli yörelerdeki yükseköğretim kurumlarının yeterli sayıda öğretim eleman sağlanamayan fakülte, anabilim, anasanat, bilim ve sanat dallarında görevli öğretim elemanlarına, almakta oldukları aylıkların (ek gösterge dahil) en fazla % 50'si Geliştirme ödeneği olarak ödenir.
+Geliştirme ödeneği verilecek yükseköğretim kurumlarının fakülte, anabilim, anasanat ve sanat bilim dalları, bu ödenekten yararlandırma süreleri ve oranları Yükseköğretim Kurulunun Milli Eğitim Bakanlığına teklifi üzerine, Bakanlar Kurulu kararı ile tespit edilir.
