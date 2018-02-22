@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.24407",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "OTOMOTİV ÜRÜNLERİNE İLİŞKİN PİYASA GÖZETİMİ VE DENETİMİ YÖNETMELİĞİ",
+  "number": "24407",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2018/24407",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24407&MevzuatTertip=5",
+  "source_sha256": "6d96eb30a0efa6ebb1e2684988bf0a699630c8767f9f216beaf58f28e35b9394",
+  "source_bytes": 67463,
+  "published": "2018-02-22",
+  "gazette": "30340",
+  "in_force": "2018-02-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.02.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinden altı ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden altı ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4289,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
