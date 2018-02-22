@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10693",
+  "decision_date": "2018-02-22",
+  "source_id": 26369,
+  "chamber": "1",
+  "ilam_number": "239",
+  "item_number": 17,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26369/",
+  "source_sha256": "d3637f789e157aab2716df006cfb8cca4a3b0f6f728895dd933f9eb3e464b2ae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
