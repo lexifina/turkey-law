@@ -1,0 +1,1 @@
+Madde 10 – ikinci fıkra - (17/8/1983 tarihli ve 2880 sayılı Kanunun hükmüdür.) Öğrenci Seçme ve Yerleştirme Merkezi, yükseköğretim kurumlarının isteği üzerine yükseköğretim kurumlarına anket, doçentlik sınavları dahil her düzeyde sınav ve değerlendirme ile öğrenci kayıt işlemlerini ve Yükseköğretim Kurulunca verilecek diğer işleri yapar.

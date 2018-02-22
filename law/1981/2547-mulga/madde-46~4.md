@@ -1,0 +1,2 @@
+Madde 46 – son fıkra -(17/9/2004 tarihli ve 5234 sayılı Kanunun hükmüdür.) Kısmî zamanlı olarak çalıştırılacak öğrenciler hakkında, 22.5.2003 tarihli ve 4857 sayılı Kanunun iş sağlığı ve güvenliği ile ilgili hükümleri ve 17.7.1964 tarihli ve 506 sayılı Kanunun iş kazası ve meslek hastalıkları sigortası ile ilgili hükümleri hariç diğer hükümleri uygulanmaz.
+49 – 21/1/2010 tarihli ve 5947 sayılı Kanunla değiştirilmiş veya yürürlükten kaldırılmış hükümlerin metinleri. (Madde numarası: 36,38,58, Ek Madde 22.)

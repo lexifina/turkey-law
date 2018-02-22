@@ -1,0 +1,2 @@
+Madde 41 – birinci fıkra – ikinci cümle - (17/8/1983 tarihli ve 2880 sayılı Kanunun hükmüdür.) (1) Bu üniversitelerin rektörleri Yükseköğretim Kurulunca ihtiyaç listelerinin kendilerine intikal ettirilmesi tarihinden itibaren en çok iki hafta içinde ihtiyaçları karşılamak üzere hangi öğretim üyelerini görevlendirdiklerini Yükseköğretim Kuruluna bildirirler.
+58- Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113, K.: 2012/108 sayılı Kararı ile iptal edilen hükümlerin metinleri.( Madde Numaraları: 36, Geçici Madde 59.)

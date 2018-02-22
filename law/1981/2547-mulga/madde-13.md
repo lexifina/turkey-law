@@ -1,0 +1,1 @@
+Madde 13- a fıkrası – üçüncü parağraf- birinci cümle- (17/8/1983 tarihli ve 2880 sayılı Kanunun hükmüdür.) Rektör, çalışmalarında kendisine yardım etmek üzere, üniversitenin aylıklı profesörleri arasından en çok üç kişiyi rektör yardımcısı olarak seçer.

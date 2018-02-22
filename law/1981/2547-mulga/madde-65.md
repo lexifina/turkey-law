@@ -1,0 +1,1 @@
+Madde 65- a fıkrası -3 numaralı bent – (4/11/1981 tarihli ve 2547 sayılı Kanunun hükmüdür.) Öğrenci Seçme ve Yerleştirme Merkezinin kuruluşu, işleyişi, görevleri, öğrenci seçme ve yerleştirme esasları ve öğrenci adaylarından alınacak kayıt ve sınav ücretleri ve bu ücretlerle oluşacak fonun kullanılması ile ilgili esaslar,

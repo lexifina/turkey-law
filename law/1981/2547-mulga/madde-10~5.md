@@ -1,0 +1,1 @@
+Madde 10 – üçüncü fıkra - (21/2/2001 tarihli ve 4629 sayılı Kanunun hükmüdür.) Merkez, bu hizmetleri ücret veya bedel karşılığı yapar. Toplanan ücret veya bedeller Yükseköğretim Kurulu Öğrenci Seçme ve Yerleştirme Merkezinde oluşturulan döner sermaye işletmesinde toplanır.

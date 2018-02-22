@@ -1,0 +1,1 @@
+Madde 3- r bendi - (17/8/1983 tarihli ve 2880 sayılı Kanunun hükmüdür.) r) Ön Lisans: Ortaöğretime dayalı, en az dört yarı yıllık bir programı kapsayan ara insangücü yetiştirmeyi amaçlayan veya lisans öğretiminin ilk kademesini teşkil eden bir yükseköğretimdir.

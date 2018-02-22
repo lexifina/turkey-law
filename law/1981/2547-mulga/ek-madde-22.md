@@ -1,0 +1,3 @@
+Ek Madde 22 – (19/11/1992 tarihli ve 3843 sayılı Kanunun hükmüdür.)
+Üniversitelerde o üniversiteyi veya bünyesindeki yükseköğretim kurumlarını geliştirmek amacıyla kurulmuş olan vakıflarca yeniden kurulacak sağlık tesislerini işletilmesi ve yönetimi, ilgili üniversite yönetim kurulu kararıyla tesisleri kurmuş olan vakfa verilebilir. Bu sağlık tesislerinin işletilme ve yönetim esasları Üniversite Yönetim Kurulu ile vakıf yetkili kurulunca belirlenir.
+50 – Anayasa Mahkemesi’nin 16/7/2010 tarihli ve E.: 2010/29, K.: 2010/90 sayılı Kararı ile yürürlükten kaldırılmış hükümlerin metinleri. (Madde numarası: 36,Geçici Madde 57.)

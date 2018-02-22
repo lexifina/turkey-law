@@ -1,0 +1,1 @@
+Madde 11 – b fıkrası- (6) numaralı bent- (4/11/1981 tarihli ve 2547 sayılı Kanunun hükmüdür.) Doçentlik sınavlarını düzenlemek ve ilgili yönetmelik gereğince doçent adaylarının yayın ve araştırmalarının değerlendirilmesi ve doçentlik sınavı ile ilgili esasları tespit etmek ve jürileri seçmek,

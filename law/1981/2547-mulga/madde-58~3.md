@@ -1,0 +1,2 @@
+Madde 58 – h fıkrası - (21/1/2010 tarihli ve 5947 sayılı Kanunun hükmüdür.) Yapılacak ek ödeme oranları ile bu ödemelerin esas ve usulleri, yükseköğretim kurumlarının hizmet sunum şartları ve kriterleri de dikkate alınmak suretiyle personelin unvanı, görevi, çalışma şartları ve süresi, eğitim-öğretim ve araştırma faaliyetleri ve mesleki uygulamalar ile ilgili performansı ve özellik arz eden riskli bölümlerde çalışma gibi hizmete katkı unsurları esas alınarak Maliye Bakanlığının uygun görüşü üzerine Yükseköğretim Kurulu tarafından çıkarılacak yönetmelikle belirlenir.
+1202-31

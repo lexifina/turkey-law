@@ -1,0 +1,5 @@
+Ek Madde 15 – üçüncü fıkra -(17/8/1983 tarihli ve 2880 sayılı Kanunun hükmüdür.)
+Vakıf tüzelkişiliğinin herhangi bir şekilde nihayete ermesi halinde, vakıf yükseköğretim kurumu tüzelkişiliği devam eder ve vakıf tarafından yükseköğretim kurumu tüzelkişiliğine tahsis edilen her türlü taşınır ve taşınmaz mal, araç-gereç, malzeme, para ve ekonomik değeri olan haklar yükseköğretim kurumunun mülkiyetine geçer.
+Bu durumda vakıf yüksekögretim kurumu mütevelli heyeti üyeleri ile yükseköğretim kurumu yöneticilerinin seçilmesi yetkisi, Yükseköğretim Kurulunun olumlu görüşü üzerine Vakıflar Genel Müdürlüğünce bir başka vakfa devredilir.
+Vakıf yükseköğretim kurumunun faaliyetlerinin durdurulması halinde durdurulma süresince, kapatılması halinde ise temelli olarak, kurumun idaresi Yükseköğretim Kurulunca eğitim ve öğretimi sürdürmek veya tamamlamak üzere uygun bir Devlet yükseköğretim kurumunun vesayetine verilir.
+63- Anayasa Mahkemesi’nin 22/6/2016 tarihli ve E.: 2016/13, K.: 2016/127 sayılı Kararı ile yürürlükten kaldırılmış hükümlerin metinleri. (Madde numarası: Geçici Madde 70.)

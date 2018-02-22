@@ -1,0 +1,1 @@
+Madde 58- (g) fıkrası ikinci paragraf -(23/7/2010 tarihli ve 6009 sayılı Kanunun hükmüdür.) Bu madde uyarınca 2914 sayılı Kanuna tabi personele yapılan ödemeler, (c) ve (f) fıkraları kapsamında bulunanlar haricindeki personel açısından, 375 sayılı Kanun Hükmünde Kararnamenin ek 3 üncü maddesinin üçüncü fıkrasının uygulanmasında dikkate alınmaz.

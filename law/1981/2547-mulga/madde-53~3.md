@@ -1,0 +1,2 @@
+Madde 53 – b fıkrası- (1/3/2014 tarihli ve 6528 sayılı Kanunun hükmüdür.) Öğretim elemanları, memur ve diğer personele uygulanabilecek disiplin cezaları uyarma, kınama, yönetim görevinden ayırma, aylıktan kesme, kademe ilerlemesinin durdurulması, üniversite öğretim mesleğinden çıkarma ve kamu görevinden çıkarma cezalarıdır. (İptal ikinci cümle: Anayasa Mahkemesi’nin 14/1/2015 tarihli ve E:2014/100, K:2015/6 sayılı Kararı ile.)(…) (1)
+66- 17/4/2017 tarihli ve 690 sayılı KHK ile değiştirilmiş veya yürürlükten kaldırılmış hükümlerin metinleri. (Madde numarası: 64.)

@@ -1,0 +1,1 @@
+Geçici Madde 1 – (3/4/1991 tarih ve 3708 sayılı Kanunun hükmüdür.) Bu Kanunun 7 nci maddesi ile 2547 sayılı Kanuna eklenen Ek 18 inci maddenin 2 nci fıkrasında öngörülen yardım 1991 yılında, Maliye ve Gümrük Bakanlığı bütçesindeki yedek ödenek tertibinden yapılır.

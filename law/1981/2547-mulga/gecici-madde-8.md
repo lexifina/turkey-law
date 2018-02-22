@@ -1,0 +1,3 @@
+Geçici Madde 8 – (4/11/1981 tarihli ve 2547 sayılı Kanunun hükmüdür.)
+Bu kanunun yayımı tarihine kadar, eski mevzuat hükümlerine göre doçentlik ve profesörlük unvanını almak üzere başvurmuş ve başvurusu kabul edilmiş olanlar ile 30 Haziran 1982 tarihine kadar önceki mevzuata göre doçentlik ve profesörlük için öngörülen çalışma süresini tamamlayacakların başvurmaları ve başvurularının kabulü halinde kadroya atama dışındaki işlemleri önceki mevzuata göre yürütülür.
+Kendi kanunları çıkarılıncaya kadar Türk Silahlı Kuvvetleri ve Emniyet Teşkilatına bağlı yükseköğretim kurumlarında doçentlik ve profesörlük unvanlarının verilmesinde yukarıdaki esaslar uygulanır.

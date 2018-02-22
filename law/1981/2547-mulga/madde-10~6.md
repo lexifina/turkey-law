@@ -1,0 +1,1 @@
+Madde 10 – dördüncü fıkra - (21/2/2001 tarihli ve 4629 sayılı Kanunun hükmüdür.) Döner sermaye işletmesinin ilk sermayesi bir trilyon liradır. Döner sermayeden elde edilen gelir fazlası her yılın sonunda döner sermaye işletmesinin sermayesine eklenebileceği gibi ertesi yılın döner sermaye gelirine de eklenebilir.

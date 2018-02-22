@@ -1,0 +1,3 @@
+Geçici Madde 23 – (4/11/1981 tarih ve 2547 sayılı Kanunun hükmüdür.)
+T.C. Emekli Sandığı Kanununa göre emeklilik aylığı bağlanmış olup da, bu kanunda belirtilen üniversitelerde sözleşmeli olarak çalışan öğretim elemanları ile diğer idari personel 1981-1982 eğitim-öğretim yılı sonuna kadar sahip oldukları statü içinde hizmetlerine devam edebilirler. Bu tarihten sonra genel hükümlere tabi olurlar.
+3- 17/8/1983 tarih ve 2880 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 3, 6, 7, 9, 10, 13, 23, 24, 25, 26, 27, 28, 31, 32, 33, 34, 36, 38, 39, 41, 42, 43,44,45,46,47,52,56,58,65)

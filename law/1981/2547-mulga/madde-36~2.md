@@ -1,0 +1,1 @@
+Madde 36 – ikinci fıkra – birinci cümle: (21/1/2010 tarihli ve 5947 sayılı Kanunun hükmüdür.) Öğretim elemanları, bu Kanun ile diğer kanunlarda belirlenen görevler ve telif hakları hariç olmak üzere, yükseköğretim kurumlarından başka yerlerde ücretli veya ücretsiz, resmi veya özel başka herhangi bir iş göremezler, ek görev alamazlar, serbest meslek icra edemezler.

@@ -1,0 +1,2 @@
+Geçici Madde 70 – birinci fıkra- birinci cümle – (19/11/2014 tarihli ve 6569 sayılı Kanunun hükmüdür.) Tabip, diş tabibi ve tıpta uzmanlık mevzuatına göre uzman olan öğretim üyelerinden, bu maddenin yürürlüğe girdiği tarih itibarıyla mesai saatleri dışında serbest meslek faaliyetinde bulunmakta veya özel sağlık kuruluşlarında çalışmakta olanlara, bu faaliyetlerini sona erdirinceye kadar üniversite ödeneği ve ek ödeme ödenmez.
+64- 3/10/2016 tarihli ve 676 sayılı KHK ile değiştirilmiş veya yürürlükten kaldırılmış hükümlerin metinleri. (Madde numaraları: 8, 13.)

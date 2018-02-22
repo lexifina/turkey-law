@@ -1,0 +1,2 @@
+Madde 60- a fıkrası – ikinci bent- ikinci cümle -(17/9/2004 tarihli ve 5234 sayılı Kanunun hükmüdür.) Bunlara yüksek öğretim kurumlarınca, ders yükü zorunluluğu aranmadan ek ders ücreti ve sınav ücreti ile döner sermaye payı ödenir; bu ödemelerin dışında aylık, ödenek, tazminat ve benzeri herhangi bir ödeme yapılmaz.
+68- 15/8/2017 tarihli ve 694 sayılı KHK ile değiştirilmiş veya yürürlükten kaldırılmış hükümlerin metinleri. (Madde numarası: 2 .)

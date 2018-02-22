@@ -1,0 +1,5 @@
+Madde 33 – (b), (c), (d), (e) fıkraları - (17/8/1983 tarihli ve 2880 sayılı Kanunun hükmüdür.)
+b) Uzmanlar, öğretimle doğrudan doğruya veya dolaylı olarak ilgili olan, özel bilgi veya uzmanlığa ihtiyaç gösteren bir işle laboratuvarlarda, kitaplıklarda, atölyelerde ve diğer uygulama alanlarında görevlendirilen öğretim yardımcılarıdır.
+c) Çeviriciler, sözlü veya yazılı çeviri işlerinde çalıştırılan öğretim yardımcılarıdır.
+d) Eğitim - öğretim planlamacıları, yükseköğretim kurumlarında eğitim - öğretimin planlanmasıyla görevli öğretim yardımcılarıdır.
+e) Uzman, çevirici ve eğitim - öğretim planlamacılarının atanmaları veya sözleşme ile görevlendirilmeleri; ilgili yönetim kurullarının görüşleri alınarak fakültelerde ve fakülteye bağlı birimlerde dekanın, rektörlüğe bağlı enstitü veya yüksekokullarda müdürlerin, rektörlüğe bağlı bölümlerde bölüm başkanlarının önerisi ve rektörün onayı ile en çok iki yıl için yapılır. Atama süresi sonunda görevleri kendiliğinden sona erer. Bunların yeniden atanmaları mümkündür. Bu takdirde ilk atama usulü uygulanır. Üçüncü defa atanmadan sonra sürekli olarak atanabilirler.
