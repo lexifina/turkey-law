@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "7706",
+  "decision_date": "2018-02-22",
+  "title": "İzgaz İzmit Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi?nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yöneli",
+  "resmi_gazete_date": "2018-02-28",
+  "resmi_gazete_number": "30346",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3WVuAu+w+Qc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3WVuAu+w+Qc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S0oHyBrBMdM="
+  ],
+  "source_sha256": "aa5837ea0947cb5c617e2467011ff00824317d76414e62f6bc432cfcd78081fa",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-02-22",
+  "law_text_complete": true
+}
