@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7704-1",
+  "decision_date": "2018-02-22",
+  "title": "Petrol Ofisi A.Ş.?nin; DEP/474-3/10361 sayılı Depolama Lisansı kapsamında Liman Mah. Liman 2 Cad. No:7 Konyaaltı / ANTALYA adresinde faaliyette bulunan Antalya Depolama Tesisine ilişkin",
+  "resmi_gazete_date": "2018-02-28",
+  "resmi_gazete_number": "30346",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=I6RclnbzTzk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=I6RclnbzTzk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=W0S8ImJbTUE="
+  ],
+  "source_sha256": "ff339557d7a0b0365f36b2cfc2992b215921ee668afa9de7acb72334e0aea5a8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-02-22",
+  "law_text_complete": true
+}
