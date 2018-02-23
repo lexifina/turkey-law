@@ -1,0 +1,166 @@
+23 Şubat 2018 CUMA
+Resmî Gazete
+Sayı : 30341
+YÖNETMELİK
+Adalet Bakanlığından:
+HÂKİM VE SAVCILARA SİLAH TEDARİKİ HAKKINDA
+YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç ve Kapsam, Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı, Adalet Bakanlığının, Makine
+ve Kimya Endüstrisi Kurumu aracılığıyla 24/2/1983 tarihli ve 2802 sayılı
+Hâkimler ve Savcılar Kanununun 112/A maddesi uyarınca hâkim ve savcılara
+satışı yapılmak üzere yerli veya ithal tabanca ve mermi tedarik etmesine ve
+hâkim ve savcıların bedeli mukabilinde doğrudan MKE'den tabanca ve mermi
+alımına ilişkin usul ve esasları düzenlemektir.
+Dayanak
+MADDE 2 –
+(1) Bu Yönetmelik, 2802 sayılı
+Kanunun 112/A maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 3 –
+(1) Bu Yönetmelikte geçen;
+a) Bakanlık: Adalet Bakanlığını,
+b) Başkanlık: Bakanlık İdari ve Mali İşler Dairesi
+Başkanlığını,
+c) Hâkim ve savcı: Yüksek mahkeme Başkan ve
+üyeleri, Hâkimler ve Savcılar Kurulu Başkan dışındaki üyeleri, geçici yetki
+veya herhangi bir görevlendirmeyle başka bir kurum ve kuruluş ile yurt
+dışında görevlendirilenler de dâhil olmak üzere 2802 sayılı Kanunun 3 üncü
+maddesinde tanımlanan adli ve idari yargı hakim ve savcılar ile aylık,
+ödenek, mali, sosyal, emeklilik ve diğer haklarına ilişkin olarak 2802 sayılı
+Kanuna tabi olanları,
+ç) MKE: Makina ve Kimya Endüstrisi Kurumunu,
+d) UYAP: Ulusal Yargı Ağı Bilişim Sistemini,
+ifade eder.
+İKİNCİ BÖLÜM
+Tabancaların Temin Usulü, Silahların Hâkim ve
+Savcılara Teslimi, Muafiyetin
+Kapsamı ve Muafiyetten Yararlanma
+Tabancaların
+temin usulü
+MADDE 4 – (1) Bu Yönetmelik kapsamında tabancalar;
+a) Hâkim ve savcılar tarafından doğrudan,
+b) Başkanlık tarafından hâkim ve savcı sayısı
+dikkate alınarak ön talep toplanmaksızın toplu olarak,
+c) Başkanlık tarafından ön talep toplanmak
+suretiyle,
+MKE'den temin edebilir.
+Doğrudan
+tabanca alımı
+MADDE 5 –
+(1) Hâkim ve savcılar, mülki idare
+amirliğinden alacakları bireysel satın alma yetki belgesiyle Başkanlığa
+başvurarak, Başkanlıktan verilecek EK-1’de yer alan zati silah satın alma belgesiyle
+doğrudan MKE’den tabanca satın alabilirler.
+Toplu
+olarak tedarik etme
+MADDE 6 –
+(1) Başkanlık, hâkim ve savcı
+sayısını dikkate alarak ihtiyaç duyulan tabanca miktarını belirler ve
+MKE’ye bildirir. Hâkim ve savcıların satın alabilecekleri tabancaların
+marka, model ve fiyatı Bakanlık ve Başkanlık resmi internet sitelerinde
+duyurulur.
+Ön talep
+toplanarak tedarik etme
+MADDE 7 –
+(1) Başkanlık, tedarik
+edilebilecek tabancaların marka, model ve yaklaşık fiyatının tespitinin yapılmasını
+MKE’den ister. Tedarik imkânı bulunan tabancalara ilişkin taleplerin
+belirlenmesi amacıyla hâkim ve savcıların satın alabilecekleri tabancaların
+marka, model ve fıyatı Bakanlık ve Başkanlık resmi internet sitelerinde
+duyurulur.
+Taleplerin
+toplanması usulü
+MADDE 8 –
+(1) Duyuru üzerine tabanca satın
+alma talepleri UYAP üzerinden toplanır. Başvurular, duyuruda belirtilen
+yönteme göre alınır.
+(2) UYAP üzerinden yapılacak başvurularda ''Silah
+Başvuru İşlemleri'' ekranında başvuranın mülki idare amirliğinden alacağı
+bireysel silah satın alma yetki belgesine ilişkin bilgiler ile silah
+bedelinin MKE’nin belirlediği hesaba yatırıldığına dair alındı belgesi
+bilgileri de yer alır.
+(3) Başvuran, bireysel silah satın alma yetki
+belgesi ile silah bedelinin yatırıldığına dair alındı belgesinin aslını,
+görev yaptığı kurum veya Cumhuriyet Başsavcılığı aracılığıyla Başkanlığa
+gönderir. Elektronik ortamda yapılan başvuru ile bu fıkrada belirtilen
+belge asıllarının Başkanlığa intikal ettiği anda başvuru işlemi tamamlanmış
+sayılır.
+(4) Başvuru işleminin tamamlanmasından sonra, silah
+alımından vazgeçilemez; vazgeçme talebi hiç bir surette kabul edilmez ve
+silah bedeli iade edilmez.
+Silahların
+MKE’den teslim alınması ve hâkim ve savcılara teslimi
+MADDE 9 –
+(1) Hâkim ve savcılar, Başkanlık
+aracılığıyla MKE’den doğrudan tabanca satın alabilirler.
+(2) Başkanlık, hâkim ve savcı sayısını veya ön
+talep sayısını dikkate alarak ihtiyaç duyulan tabancaların miktarını
+belirler ve tedarik edilmesi için MKE’ye bildirir.
+(3) Talepler, muafiyet kapsamındaki sayı sınırlamasının
+kontrolünü temin etmek üzere buna mahsus Başkanlık tarafından tutulan zati
+silah kaydına kaydedilir.
+(4) Tabancalar, Başkanlık ve MKE arasında
+belirlenecek usule göre MKE’den teslim alınır ve Başkanlık tarafından belirlenecek
+usule göre ilgili hâkim ve savcılara teslim edilir. Teslim sırasında zabıt
+kayıtlarını tutmakla sorumlu kişi tarafından zati tabanca satış senedinin
+doldurulması zorunludur.
+(5) Bu Yönetmeliğin 6 ncı maddesi uyarınca MKE’ye
+bildirilen miktardan fazla başvuru olması durumunda, Başkanlık tarafından
+silah tahsis ve teslim edilecekler; daha önce bu Yönetmelik kapsamında zati
+silah satın alınmamış olması, mesleki kıdemin fazla olması veya güvenlik
+riski gibi diğer hususlar dikkate alınarak belirlenir.
+Zati
+silah kaydı
+MADDE 10 ‒
+(1) Başkanlık tarafından hâkim ve
+savcılara satışı yapılacak tabanca bilgilerinin tutulduğu kayıttır.
+(2) Bu kayıt; zati silah alan hâkim ve savcıların
+kimlik bilgileri, sicili, hizmet süresi, zati silah tarihi, satılan tabancaların
+cinsi, çapı, marka ve modeli, tabanca teslim tarihi, zati tabanca satış
+senedi numarası bilgilerinden oluşur.
+Muafiyetin
+kapsamı ve muafiyetten yararlanma
+MADDE 11
+– (1) Bu Yönetmeliğin 5 inci
+maddesi uyarınca hâkim ve savcılar tarafından doğrudan MKE'den tedarik
+edilecek veya 6 ncı ve 7 nci maddeleri uyarınca Bakanlık tarafından MKE
+aracılığıyla hâkim ve savcılara tedariki yapılacak tabancaların; ithali,
+ithal ile ilgili sözleşme, ruhsatname ve sair işlemler ile verecekleri
+beyanname, taahhütname ve yapacakları sözleşmelerle silahların kendilerine
+teslimi, alım ve satımı dâhil diğer ilgili muameleler, her aşamada her
+türlü fon, vergi, resim, harç ve resmi kuruluşlara ait ardiye ücretinden
+muaftır.
+(2) Hâkim ve savcılar, 2802 sayılı Kanunun 112/A
+maddesinde tanınan muafiyetlerden, bir adet yerli ve bir adet ithal olmak
+üzere en çok iki tabancanın temini amacıyla yararlanabilir.
+Ruhsat ve
+mermi işlemleri
+MADDE 12
+– (1) Hâkim ve savcılar, zati
+silah olarak satın ve teslim aldıkları tabancaların ruhsat ve mermi işlemlerini,
+10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer
+Aletler Hakkında Kanun ve 1/6/1991 tarihli ve 20888 sayılı Resmî Gazete'de
+yayımlanan Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında
+Yönetmelik hükümlerine göre yaparlar.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Hüküm
+bulunmayan haller
+MADDE 13
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde, Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında
+Yönetmeliğin bu Yönetmeliğe aykırı olmayan hükümleri uygulanır.
+Yürürlük
+MADDE 14
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 15
+– (1) Bu Yönetmelik hükümlerini
+Adalet Bakanı yürütür.
+Eki için tıklayınız
