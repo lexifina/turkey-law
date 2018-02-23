@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24409",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HÂKİM VE SAVCILARA SİLAH TEDARİKİ HAKKINDA YÖNETMELİK",
+  "number": "24409",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2018/24409",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24409&MevzuatTertip=5",
+  "source_sha256": "3694c83df24e397f457797caabbc8d9056616ed344a34988afcee50695e64e66",
+  "source_bytes": 23201,
+  "published": "2018-02-23",
+  "gazette": "30341",
+  "in_force": "2018-02-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.02.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 918,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24409-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
