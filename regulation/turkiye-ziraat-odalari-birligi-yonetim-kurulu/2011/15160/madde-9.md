@@ -1,0 +1,4 @@
+İhtiyaç talepleri ve ihtiyaçların tayini
+MADDE 9 – (1) Birlik ve odalarda ihtiyaçlar, genel sekreterler veya yetki devri yapılan birim amirinin sorumluluğunda tespit edilir.
+(2) Satın alınmasına ihtiyaç duyulan her nevi mal ve hizmetler için ilgili birimler, ihtiyaç taleplerini ve ihtiyacın bütün özelliklerini açıklayan talep formunu doldurup Birlikte personel ve idari işler müdürlüğüne, odalarda ise satın alma görevlilerine gönderirler. Mal ve hizmet talepleri, harcama yapma yetki limitlerine göre yetkilendirilmiş kişi veya kişiler tarafından onaylanarak söz konusu mal ve hizmetin satın alınmasına karar verilir.
+(3) Satın alınacak her nevi mal ve yapılacak işlerin cins ve miktarları Birlikte genel sekreter veya vekili, odalarda odayı ilzam eden kişiler veya yönetim kurulları tarafından kullanım süreleri de dikkate alınarak tayin edilir.

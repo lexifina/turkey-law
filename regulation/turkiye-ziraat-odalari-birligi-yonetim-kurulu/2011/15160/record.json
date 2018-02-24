@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.15160",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ZİRAAT ODALARI VE TÜRKİYE ZİRAAT ODALARI BİRLİĞİ ALIM VE SATIM YÖNETMELİĞİ",
+  "number": "15160",
+  "issuer": "Türkiye Ziraat Odaları Birliği Yönetim Kurulu",
+  "issuer_slug": "turkiye-ziraat-odalari-birligi-yonetim-kurulu",
+  "path": "regulation/turkiye-ziraat-odalari-birligi-yonetim-kurulu/2011/15160",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15160&MevzuatTertip=5",
+  "source_sha256": "674b367fac0d894c99774b384591dc53b28e4e1a3ba9c27a02c1ace7c911ece9",
+  "source_bytes": 99019,
+  "published": "2011-07-30",
+  "gazette": "28010",
+  "in_force": "2018-02-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/2/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-02-24",
+      "RG-24/2/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-02-24",
+      "24/2/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-07-29",
+      "RG-29/7/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-07-29",
+      "29/7/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-08-16",
+      "RG-16/8/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-08-16",
+      "16/8/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5572,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

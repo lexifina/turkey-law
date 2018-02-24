@@ -1,0 +1,15 @@
+Doğrudan temin ve doğrudan satım usulü
+MADDE 16 – (1) Doğrudan temin ve doğrudan satım; ihtiyaç duyulan herhangi bir mal ve hizmet alımı ile yapım işleri ve satımların tespit edilen bir firmadan pazarlık usulü ile satın alınması veya pazarlık usulüyle satımı yöntemidir.
+(2) Birlik ve odalarda, tahmini bedeli genel sekreterin yetki limitini aşan doğrudan alım ve satımlar satın alma komisyonu marifetiyle gerçekleştirilir.
+(3) Bu maddeye göre yapılacak alımlarda, yeterlik kurallarını arama zorunluluğu bulunmaksızın, ihale yetkilisince görevlendirilecek kişi veya genel sekreterin yetki limitlerini aşan alım ve satımlar için oluşturulacak komisyon tarafından piyasada fiyat araştırması yapılarak ihtiyaçlar temin edilir.
+(4) Aşağıda belirtilen hallerde ihtiyaçların ilan yapılmaksızın ve teminat alınmaksızın doğrudan temini usulüne başvurulabilir.
+a) İhtiyacın sadece gerçek veya tüzel tek kişi tarafından karşılanabileceğinin tespit edilmesi.
+b) Sadece gerçek veya tüzel tek kişinin ihtiyaç ile ilgili özel bir hakka sahip olması.
+c) Mevcut mal, ekipman, teknoloji veya hizmetlerle uyumun ve standardizasyonun sağlanması için zorunlu olan mal ve hizmetlerin, asıl sözleşmeye dayalı olarak düzenlenecek ve toplam süreleri üç yılı geçmeyecek sözleşmelerle ilk alım yapılan gerçek veya tüzel kişiden alınması.
+ç) (Değişik:RG-24/2/2018-30342) Temsil ağırlama faaliyetleri kapsamında yapılacak konaklama, seyahat ve iaşeye ilişkin alımlar ile Birlik tarafından gerçekleştirilecek Genel Kurul ve diğer organizasyonlarda ihtiyaca uygun otellerin tespiti ve kiralaması, bu organizasyonlarda ihtiyaç duyulacak tüm mal ve hizmetlerin temini.
+d) Birlik ve odaların ihtiyacına uygun taşınmaz mal alımı veya kiralanması.
+e) Özelliğinden dolayı stoklama imkânı bulunmayan ve acil durumlarda kullanılacak olan ilaç, tıbbi sarf malzemeleri ile test ve tetkik sarf malzemesi gibi alımları.
+f) Kamu kurum ve kuruluşları, kamu kurumu niteliğinde meslek kuruluşları, kamu yararına çalışan dernekler, kooperatifler, tarım satış kooperatifleri ile sermayesinin %50 veya daha fazlası bu kuruluşlardan biri veya bir kaçına ait olan şirketlerden yapılacak alımlar ile yapım işleri.
+g) İşin kısa sürede yerine getirilmesinin zorunlu olduğu hallerde, fiyatın sabit olduğu alımlarda veya distribütör eliyle satıldığı hallerde ve güzel sanatlara mahsus el işleri, resim, heykel, tablo, yayın, perakende yiyecek, içecek ve sarf malzemesi, konaklama, yeme, içme, yakıt, bakım, onarım, eğitim, araştırma, bilimsel çalışma, etüt, proje, planlama, müşavirlik, keşif, harita, reklam, fotoğraf, film, kontrollük, tercümanlık ve çeviri, sigorta, vasıta, menkul ve gayrimenkul kiralanması gibi özel nitelikli mal ve hizmetlerin temininde.
+ğ) (Ek:RG-16/8/2011-28027) (Değişik:RG-24/2/2018-30342) Birlikte Birlik Başkanı ve Genel Sekreterinin, odalarda genel sekreter ve yönetim kurulu başkanının harcama yetkileri dahilindeki her türlü alım, satım ve yapım işleri ile Birlikte Yönetmeliğin 17 nci maddesinin ikinci fıkrası gereğince en az üç teklif alınamaması nedeniyle gerçekleştirilemeyen işler.
+(5) Doğrudan temin usulü ile yapılacak ihalelerde ilan yaptırılmaz.

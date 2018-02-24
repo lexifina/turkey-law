@@ -1,0 +1,3 @@
+İhale işlem dosyasının düzenlenmesi
+MADDE 6 – (1) Yapılacak işler için bir işlem dosyası düzenlenir. Bu dosyada ihtiyaç talep formu, yönetim kurulu kararı veya onay belgesi, şartname ve ekleri, gerekli projeler, ilan yapıldıysa ilana dair belge ve gazete nüshaları, komisyon karar ve tutanakları, sözleşme tasarısı ile saklanmasında yarar görülen diğer belgeler bulunur.
+(2) Şartnamede tekniğe uygun olmayan veya gerçekleşmesi mümkün bulunmayan kayıt ve şartların bulunduğunun anlaşılması durumunda, komisyonlar ilgili birime şartnameleri düzelttirmek üzere ihaleyi erteler. Bu durumda ihale, yeniden düzenlenecek şartname gereğince yürütülür.

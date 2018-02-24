@@ -1,0 +1,4 @@
+Sözleşmenin imzalanması
+MADDE 35 – (1) Sözleşme yapılması öngörülen işlerde, şartnamede aksi belirtilmemiş ise ilgili firma tebliği takip eden yedi gün içinde sözleşme imzalamaya mecburdur. Sözleşmenin bu süre içinde imzalanmaması halinde geçici teminat irat kaydedilir.
+(2) Bu süre içinde, imza için başvuru olmazsa Birlik veya oda, sözleşme imzalanması için süreyi uzatabileceği gibi, süre vermeye, protesto çekmeye gerek kalmaksızın yeni bir ihale açmada serbesttir. İhale komisyonunun iptal kararı da yedi iş günü içinde ihaleyi kazanan firmaya bildirilir. İhale sırasında hazır bulunmayan veya yetkili vekilini hazır bulundurmayan firmalar, ihalenin yapılış tarzına ve sonucuna itiraz edemezler.
+(3) Sözleşmenin aslı dosyasında saklanır. Sözleşmede aksi kararlaştırılmamış ise damga vergisi firmaya aittir. Sözleşmenin noter tasdikinden geçirilip geçirilmeyeceğine odalarda yönetim kurulu başkanı, Birlikte ise genel sekreter karar verir.

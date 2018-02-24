@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alım ve satım: Taşınır ve taşınmaz mallar ve her türlü ihtiyaç maddeleri ile hizmet ve hakların alım ve satımını,
+b) Bakım ve onarım: Yapım dışında kalan bina ve tesislerin mevcut kullanım tarzı ve fiziki yapısını sağlıklı ve verimli biçimde sürdürebilmesini sağlamaya yönelik olarak yapılan, iç ve dış sıva tamiratları, iç bölmeler, boya, badana, pencere ve kapı doğramaları, döşeme, duvar ve tavan kaplamaları, cephe, çatı, yağmur oluğu, elektrik, ısıtma, havalandırma, sıhhi tesisat tamiratları, bilgisayar alt yapısı ve dekorasyon gibi yenileştirme ve iyileştirme işleri ile herhangi bir demirbaş eşya ve malzemeden arzu edilen süre içerisinde ve devamlı olarak yararlanabilmek için gerekli temizleme, yağlama, parça ve malzeme değişimi gibi hususları içeren iş ve benzeri hizmetleri,
+c) Birlik: Türkiye Ziraat Odaları Birliğini (TZOB),
+ç) Doğrudan temin ve doğrudan satım usulü: Bu Yönetmelikte belirtilen hallerde ihtiyaçların, idare tarafından davet edilen isteklilerle teknik şartların ve fiyatın görüşülerek doğrudan temin edilebildiği ve satımların doğrudan yapılabildiği usulü,
+d) Hizmet: İlgili iç mevzuata göre çalıştırılanlar hariç olmak üzere gerçek veya tüzel kişilere ücret karşılığında yaptırılan araştırma, sondaj, imalat, prototip imalat, etüt, harita, plan, proje, kontrollük, mimarlık, mühendislik, danışmanlık, bakım, onarım, taşıma, haberleşme, sigorta, araştırma ve geliştirme, muhasebe, gayrımenkul değer tespiti, piyasa araştırması ve anket, tanıtım, basım ve yayım, temizlik, yemek hazırlama ve dağıtım, toplantı, organizasyon, sergileme, koruma ve güvenlik, mesleki eğitim, fotoğraf, film, fikri ve güzel sanat, bilgisayar sistemlerine yönelik hizmetler ile yazılım hizmetleri, taşınır, taşınmaz mal ve hakların kiralanması gibi her türlü hizmetleri,
+e) İdare: İhaleyi yapan Birlik ve/veya ziraat odalarını,
+f) İhale: Bu Yönetmelikte yazılı usul ve şartlarla, işin istekliler arasından seçilecek birisi üzerinde bırakıldığını gösteren; sözleşme yapılan işlerde ihale yetkilisinin onayını müteakip sözleşmenin imzalanması ile, sözleşme yapılmayan işlerde ihale yetkilisinin onayıyla tamamlanan işlemleri,
+g) İhale dokümanı: İhale konusu mal veya hizmet alımları ile yapım işlerinde; isteklilere talimatları da içeren idari şartnameler ile yaptırılacak işin projesini de kapsayan teknik şartnameler, sözleşme tasarısı ve gerekli diğer belge ve bilgileri,
+ğ) İhale yetkilisi: İdarenin, ihale ve harcama yapma yetki ve sorumluluğuna sahip kişi veya kurulları ile yetki devri yapılmış görevlileri,
+h) İstekli: Mal veya hizmet alımları ile yapım işlerinin ihalesine teklif veren tedarikçi, hizmet sunucusu veya yapım müteahhidini,
+ı) Kapalı teklif usulü: İhale için verilen fiyat tekliflerinin yazılı olarak kapalı zarf içinde verildiği ihale yöntemini,
+i) Komisyon: Satın alma ve satım komisyonunu,
+j) Mal: Satın alınan veya satılan her türlü ihtiyaç maddeleri ile taşınır ve/veya taşınmaz mal ve hakları,
+k) Oda: Ziraat odalarını,
+l) Sözleşme: Mal veya hizmet alımları ile yapım işlerinde idare ile yüklenici arasında yapılan yazılı anlaşmayı,
+m) Şartname: Yapılacak işlerin genel, özel, teknik ve idari esas ve usullerini gösteren belgeyi,
+n) Tahmin edilen bedel: İhale konusu olan işlerin tahmin edilen bedeli, yapım, bakım onarım işlerinde ise keşif bedelini,
+o) Teklif isteme usulü: İşin nevi, niteliği, miktarı itibarıyla gereksiz zaman kaybına sebebiyet verilmemesi için, alım veya satım konusu mal ve hizmetin davet etmek veya teklif istemek suretiyle yapılan temin usulünü,
+ifade eder.
