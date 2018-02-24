@@ -1,0 +1,2 @@
+Birimlerce yapılacak işlemler
+MADDE 27 – (1) Yurt içindeki sözleşmeli sağlık kurum ve kuruluşların unvan, isim ve adreslerinin elektronik ortamda veya diğer yöntemlerle ilgililere duyurulması, emsal sözleşmelerin hazırlanması, tedavi yardımının sağlanması ile tedavi giderlerinin ödenmesine ilişkin iş ve işlemler Milletvekili Hizmetleri Başkanlığı ile Strateji Geliştirme Başkanlığı tarafından birlikte yapılır.

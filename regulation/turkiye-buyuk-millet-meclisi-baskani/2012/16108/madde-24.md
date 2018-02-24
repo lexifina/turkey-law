@@ -1,0 +1,2 @@
+Estetik bakımdan yaptırılan müdahale giderleri
+MADDE 24 – (1) Estetik amaçlı aşı ve enjeksiyonlar, ortodontik diş tedavileri ile estetik bakımdan yapılan tıbbi ve cerrahi müdahalelerin bedeli ödenmez. Ancak kaza, ameliyat veya konjenital nedenlerle oluşmuş arazların tedavisine yönelik yapılacak uygulamalarda hastanın mevcut halinin vücut sağlığı için ileride tehdit oluşturabileceği durumlarda tıbbi endikasyonun resmi sağlık kurulu raporu ile belgelenmesi halinde, işlemlere ait giderler, bu Yönetmelik hükümlerine göre ödenir.

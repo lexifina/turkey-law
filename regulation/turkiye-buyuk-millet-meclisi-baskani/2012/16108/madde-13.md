@@ -1,0 +1,3 @@
+Tedavide yatak ayrılması
+MADDE 13 – (1) Hak sahipleri, resmi sağlık kurumlarında özel oda bulunduğu takdirde bu odada, bulunmadığı takdirde birinci sınıf odada, birinci sınıf oda bulunmayan durumlarda ikinci sınıf odada, özel sağlık kurumlarında ise birinci sınıf odada yatırılırlar. (Değişik cümle:RG-15/11/2013-28822) Özel odada yatırılmaları halinde, protokol yapılan resmi sağlık kurumlarınca sağlanan otelcilik hizmetleri protokol hükümlerine, protokol yapılmayan resmi sağlık kurumlarında ise Tebliğ hükümlerine göre hastalardan alınan ilave ücretler Kurumca, özel sağlık kurumlarında doğacak ilave ücretler ise hak sahiplerince karşılanır.
+(2) Gözlem amaçlı yataklar için gündelik yatak ücreti ödenmez.

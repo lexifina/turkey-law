@@ -1,0 +1,73 @@
+{
+  "source_id": "7.5.16108",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLETVEKİLLERİNE, YASAMA ORGANI ESKİ ÜYELERİNE, DIŞARIDAN ATANDIKLARI BAKANLIK GÖREVİ SONA ERENLERE TEDAVİ YARDIMI YAPILMASINA DAİR YÖNETMELİK",
+  "number": "16108",
+  "issuer": "Türkiye Büyük Millet Meclisi Başkanı",
+  "issuer_slug": "turkiye-buyuk-millet-meclisi-baskani",
+  "path": "regulation/turkiye-buyuk-millet-meclisi-baskani/2012/16108",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16108&MevzuatTertip=5",
+  "source_sha256": "ef1f66c6f736333cdbab4a74f821b8c49b6342fd264b7a34b730546251a17d30",
+  "source_bytes": 83728,
+  "published": "2012-05-02",
+  "gazette": "28280",
+  "in_force": "2018-02-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/2/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-02-24",
+      "RG-24/2/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-02-24",
+      "24/2/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-11-05",
+      "RG-5/11/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-11-05",
+      "5/11/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-11-15",
+      "RG-15/11/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-11-15",
+      "15/11/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-03-19",
+      "RG-19/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-19",
+      "19/3/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmî Gazete’de yayımlanır ve 15/5/2012 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5667,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

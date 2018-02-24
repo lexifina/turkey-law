@@ -1,0 +1,8 @@
+Gözlük giderleri
+MADDE 20 – (1) Hak sahiplerinin resmi veya özel sağlık kurum ve kuruluşlarının göz hastalıkları uzmanları tarafından yapılan muayenelerine ilişkin ücret ile bunlar tarafından düzenlenen reçeteye dayanılarak alınan renkli ve renksiz gözlük camları ve çerçeve bedellerinin TBMM Başkanlık Divanınca tespit edilen tutarı kadarı, fatura incelemesi yapıldıktan sonra Kurumca, bunu aşan kısmı ise hak sahibi tarafından ödenir.
+(2) Lasik ve lasek tedavisinde Tebliğ hükümleri uygulamaları esas alınır.
+(3) (Değişik:RG-24/2/2018-30342) Gözlük camı ve çerçevesi için ödenecek azami miktar TBMM Başkanlık Divanınca tespit edilir. Belirlenen bu tutarlar 1/1/2019 tarihinden itibaren TBMM Başkanlık Divanı Kararına gerek kalmaksızın Türkiye İstatistik Kurumu tarafından her yıl açıklanan Tüketici Fiyat Endeksi oranında artış sağlanarak Kurumca karşılanır. Gözlük camları, en az 0.5 diyoptrilik değişiklik olması ve reçete edilmesi halinde Kurumca ödenir.
+(4) Çerçeveler, iki yıl geçmesi ve gözlük camlarında değişiklik olması halinde yenilenebilir. Uzak ve yakın gibi farklı gözlük camlarının kullanılması lüzum görüldüğünde, her cam için ayrı bir çerçeve bedeli Kurumca ödenir.
+(5) Hatalı gözlük camı verilmesinin ya da reçeteye yazılan gözlük camı yerine farklı diyoptrili cam verilmesinin ortaya çıkaracağı sonuçlardan camı veren optisyen sorumludur.
+(6) Teleskopik gözlük ve kontakt lens bedelleri Tebliğ hükümleri ve liste fiyatlarından Kurumca ödenir.
+(7) Hak sahiplerine düzenlenen reçetelerde, gözlük cam numaralarında çok sık aralıklarla düşme ve yükselme görülürse, resmi sağlık kurumlarında yaptırılacak göz muayenesi sonucuna göre ödeme yapılır.

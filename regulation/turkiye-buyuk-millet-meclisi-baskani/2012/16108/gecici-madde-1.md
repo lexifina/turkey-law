@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce özel sağlık kurum ve kuruluşlarına tedavi amacıyla başvurmuş olanların tedavilerine ilişkin giderlerin ödenmesinde o tarihte yürürlükte bulunan Yönetmelik hükümleri uygulanır.

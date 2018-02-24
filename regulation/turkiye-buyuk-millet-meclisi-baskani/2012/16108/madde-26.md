@@ -1,0 +1,6 @@
+Sözleşme, paket fiyat anlaşması ile protokol düzenlenmesi
+MADDE 26 – (Değişik:RG-19/3/2013-28592)
+(1) Kurum, sağlık hizmetlerini sağlamak üzere resmi sağlık kurumlarından yataklı tedavi kurumlarıyla protokol, özel sağlık kurum ve kuruluşları ile sözleşme veya paket fiyat anlaşması, ayrıca ilgili meslek birlikleri ile protokol yapmaya yetkilidir.
+(2) Kurum, bu Yönetmelikte belirtilen görevleriyle ilgili olarak anlaşmalı sağlık kurum ve kuruluşlarının yürüttüğü hizmet ve işlemlerde inceleme ve kontrol yetkisine sahiptir.
+(3) Sözleşme, paket fiyat anlaşması ile protokol yapılan sağlık kurum ve kuruluşları ile diğer kuruluşların faturaları Kuruma teslim tarihinden itibaren kırk beş gün içinde incelenerek ödenir.
+(4) Kurumca yapılan inceleme neticesinde, Yönetmelik, sözleşme veya protokol hükümlerine aykırı olarak fatura düzenlediği tespit edilen anlaşmalı sağlık kurum ve kuruluşları hakkında genel hükümlere göre takip yapılır. Ayrıca bu fiilleri işleyen anlaşmalı sağlık kurum veya kuruluşlarının Kurum ile yaptıkları sözleşme veya protokol feshedilebilir ve Kurumca belirlenecek süre içinde tekrar anlaşma yapılmaz. Anlaşmalı sağlık kurum veya kuruluşuna, fazla veya yersiz olarak yapıldığı tespit edilen ödemeler genel hükümlere göre geri alınır. İlgililerin Kurumdan alacağı bulunduğu hallerde mahsup işlemi uygulanır.
