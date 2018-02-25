@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2010-04-19",
+      "19.04.2010",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2018-02-25",
+      "RG-25/2/2018-30343",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-02-25",
+      "25/2/2018",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-25/2/2018-30343",
+  "first_law": null,
+  "gazette": "27557",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-02-25",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2010/13937",
+  "published": "2010-04-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13937&MevzuatTertip=5",
+  "source_bytes": 29601,
+  "source_id": "8.5.13937",
+  "source_sha256": "68aa82205267e2018969866c5a4546eb1264d950f9823c472e1382f40a744da4",
+  "text_status": "current-consolidated",
+  "title": "ANKARA ÜNİVERSİTESİ ÖLÇME VE DEĞERLENDİRME UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 778
+}
