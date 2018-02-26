@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-02-26",
+      "26.02.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30344",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-02-26",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Atatürk Üniversitesi",
+  "issuer_slug": "ataturk-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ataturk-universitesi/2018/24416",
+  "published": "2018-02-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24416&MevzuatTertip=5",
+  "source_bytes": 25291,
+  "source_id": "8.5.24416",
+  "source_sha256": "4871aac30a642b582d76a93c700ada8bc643bf618462527a16562588d497ae45",
+  "text_status": "as-enacted",
+  "title": "ATATÜRK ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 181,
+  "word_count": 909
+}
