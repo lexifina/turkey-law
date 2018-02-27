@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.65.10.00-1319-209",
+  "source_id": 37116,
+  "date": "2018-02-27",
+  "title": "Korunması Gerekli Taşınmaz Kültür Varlıkları ve Emlak Vergisi Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37116",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "265b43b25af67700a37d9a5bbc53a757d8d8506cb3d41675cbb562c67f039917",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
