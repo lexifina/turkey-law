@@ -1,0 +1,5 @@
+Hatalı harcırah ödenmesi.
+
+… Üniversitesi Fen-Edebiyat Fakültesi Öğretim Üyesi Prof. Dr. ….’in 03-05 Nisan 2016 tarihleri arasında İstanbul’da geçici görevle görevlendirildiği bu geçici göreve ait harcırah beyannamesinde Prof. Dr. ….’in dönüşünü 06.04.2016 tarihinde yapmasına ilişkin olarak;
+
+İstanbul’da 03.04.2016-05.04.2016 tarihleri arasında görevlendirilen ilgilinin, uçak saatinin uygun olmaması nedeniyle görev bitim tarihi olan 05.04.2016 yerine 1 gün sonra 06.04.2016 tarihinde asıl görev yerine dönmüş olmakla birlikte, bu gecikme yüzünden kendisine geçici görev nedeniyle müstahak bulunduğu yol masrafından daha fazla bir ödeme yapılmadığı, görevlendirmenin yol giderleri ödenmek üzere yapıldığı ve dönüşün Harcırah Kanununun 6 ncı maddesinde belirtilen mutat yol ve taşıt kullanılarak harcama talimatına uygun olduğu anlaşıldığından, konu hakkında ilişik bulunmadığına, işbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle,
