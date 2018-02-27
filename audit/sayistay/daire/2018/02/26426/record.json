@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35520",
+  "decision_date": "2018-02-27",
+  "source_id": 26426,
+  "chamber": "2",
+  "ilam_number": "100",
+  "item_number": 6,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26426/",
+  "source_sha256": "6f639e492eaa8e270733cafd81779cc2d4200d99ee765df13b64a8f4df864ef0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

@@ -1,0 +1,5 @@
+…. Üniversitesi Hukuk Müşavirliğinde Avukat olarak görev yapan ….’nın 09-11 Mart 2016 tarihleri arasında İzmir ilinde geçici görevle görevlendirilmesine rağmen dönüşünü 12.03.2016 tarihinde İstanbul üzerinden yapmasına ilişkin olarak;
+
+İlgili geçici görevle gittiği İzmir’den, asıl görev yeri olan ….’a İzmir’den değil İstanbul’dan dönmüş olmakla birlikte, bu seyahat için kendisine ayrıca İzmir-İstanbul arası yol masrafı ödenmediği gibi, İstanbul-… uçak bilet bedeli olarak, İzmir-… uçak bilet bedelinden daha fazla bir ödeme de yapılmamıştır.
+
+Sonuç olarak, görevlendirmenin yol giderleri ödenmek üzere yapıldığı ve dönüşün Harcırah Kanununun 6 ncı maddesinde belirtilen mutat yol ve taşıt kullanılarak harcama talimatına uygun olduğu, ilgiliye geçici görev nedeniyle müstahak bulunduğu yol masrafından daha fazla bir ödeme yapılmadığı anlaşıldığından, konu hakkında ilişik bulunmadığına ve yersiz yapılan tahsilatın ilgiliye iadesine, işbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle,
