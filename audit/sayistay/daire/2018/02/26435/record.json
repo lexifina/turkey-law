@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35520",
+  "decision_date": "2018-02-27",
+  "source_id": 26435,
+  "chamber": "2",
+  "ilam_number": "100",
+  "item_number": 15,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26435/",
+  "source_sha256": "f380b85f13d10b57864c0a420336fc1d4916424f18399184acf26f98b0515a33",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
