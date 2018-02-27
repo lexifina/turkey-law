@@ -1,0 +1,5 @@
+Hatalı harcırah ödenmesi.
+
+…. Üniversitesi Fen Bilimleri Enstitüsü yüksek lisans öğrencisi ….’ın tez savunma sınavında jüri üyesi olarak görevlendirilen …. Üniversitesi öğretim üyesi Yrd. Doç. Dr. ….’ın 29.01.2016 tarihinde ….’ta geçici görevle görevlendirildiği bu geçici göreve ait harcırah beyannamesinde Yrd. Doç. Dr. ….’ın dönüşünü 01.02.2016 tarihinde yapmasına ilişkin olarak;
+
+İlgilinin dönüş tarihindeki gecikmenin, o tarihte uçak bileti bulunamamış olmasından kaynaklandığı ve bu gecikme yüzünden kendisine geçici görev nedeniyle müstahak bulunduğu yol masrafından daha fazla bir ödemenin de yapılmadığı, görevlendirmenin yol giderleri ödenmek üzere yapıldığı ve dönüşün Harcırah Kanununun 6 ncı maddesinde belirtilen mutat yol ve taşıt kullanılarak harcama talimatına uygun olduğu anlaşıldığından, konu hakkında ilişik bulunmadığına, işbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle,
