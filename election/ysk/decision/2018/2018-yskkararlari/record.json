@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/2018-yskkararlari",
+  "list_number": "2018-YSK Kararları",
+  "decision_date": "2018-02-27",
+  "title": "Siyasi parti il-ilçe kongrelerine ilişkin yapılan itirazlar üzerine Yüksek Seçim Kurulunca alınan 2018/1, 2, 3, 14, 39, 45, 54, 55, 59, 65, 68, 69, 71, 72, 73, 77, 81, 91, 98, 100, 104, 107, 108, 113, 114, 117 sayılı kararlar",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/6042/2018-YSKKararlari.pdf",
+  "source_sha256": "34e8eebcc7039c147fb4e2194f67fbdf4c6366e8fb57c4470dd52864c0ba0851",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 58,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-02-27",
+  "law_text_complete": false
+}
