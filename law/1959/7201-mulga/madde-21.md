@@ -1,0 +1,4 @@
+Madde 21 – (11/2/1959 tarih ve 7201 sayılı Kanunun hükmüdür.)
+Kendisine tebliğ yapılacak kimse veya yukarıki maddeler mucibince tebligat yapılabilecek kimselerden hiçbiri gösterilen adreste bulunmaz veya tebellüğden imtina ederlerse tebliğ memuru tebliğ olunacak evrakı, o yerin muhtar veya ihtiyar heyeti azasından birine veyahut zabıta amir veya memuruna imza mukabilinde teslim eder ve tesellüm edenin adresini ihtiva eden ihbarnameyi gösterilen adresteki binanın kapısına yapıştırmakla beraber tebliğ olunacak şahsa keyfiyetin haber verilmesini de mümkün oldukça en yakın komşularından birine bildirir. İhbarnamenin kapıya yapıştırıldığı tarih, tebliğ tarihi sayılır.
+Madde 29 fıkra iki – (11/2/1959 tarih ve 7201 sayılı Kanunun hükmüdür.)
+Merci icabına göre ikinci defa ilan yapılmasına karar verebilir. İki ilan arasındaki müddet üç haftadan aşağı olamaz. Gerekiyorsa ikinci ilan, yabancı memleket gazeteleriyle de yaptırılabilir.

@@ -1,0 +1,73 @@
+{
+  "source_id": "5.3.7201",
+  "path": "law/1959/7201-mulga",
+  "number": "7201",
+  "tertip": "3",
+  "title": "TEBLİGAT KANUNUNUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "document": "repealed-provisions",
+  "companion_of": "law/1959/7201",
+  "enacted": "1959-02-11",
+  "enacted_as_printed": "11.02.1959",
+  "published": "1959-02-19",
+  "gazette": "10139",
+  "in_force": "2018-02-28",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"5 – 28/2/2018 tarihli ve 7101 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları: 7/a .)\"",
+  "date_evidence": [
+    [
+      "2018-02-28",
+      "5 – 28/2/2018 tarihli ve 7101 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları: 7/a .)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2011-01-11",
+      "4 – 11/1/2011 tarihli ve 6099 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:1,35, 36, 49, 60.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2008-01-23",
+      "3 – 23/1/2008 tarihli ve 5728 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:52,53,54,55,56.)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2003-03-19",
+      "2 - 19/3/2003 tarih ve 4829 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:16, 20, 23, 25, 28, 35, 59)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1985-06-06",
+      "1 - 6/6/1985 tarih ve 3220 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 1, 2, 3, 4, 11, 20, 21, 29, 31, 33, 40, 41, 42, 46, 49, 53, 54, 55, 56)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1985-06-06",
+      "(Değişik birinci fıkra : 6/6/1985 - 3220/16 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "1985-06-06",
+      "(Değişik : 6/6/1985 - 3220/15 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ]
+  ],
+  "repeal_notes": [
+    "1 - 6/6/1985 tarih ve 3220 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 1, 2, 3, 4, 11, 20, 21, 29, 31, 33, 40, 41, 42, 46, 49, 53, 54, 55, 56)",
+    "2 - 19/3/2003 tarih ve 4829 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:16, 20, 23, 25, 28, 35, 59)",
+    "3 – 23/1/2008 tarihli ve 5728 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:52,53,54,55,56.)",
+    "4 – 11/1/2011 tarihli ve 6099 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:1,35, 36, 49, 60.)",
+    "5 – 28/2/2018 tarihli ve 7101 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları: 7/a .)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=7201&MevzuatTertip=3",
+  "source_sha256": "84bd7f90650cf4755dab9c8e006030622b162f0a1ef4243ddca727d59d9e4841",
+  "source_bytes": 52464,
+  "words": 2333,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}

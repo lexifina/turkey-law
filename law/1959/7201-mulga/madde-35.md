@@ -1,0 +1,1 @@
+Madde 35- ikinci fıkra - (19/3/2003 tarihli ve 4829 sayılı Kanunun hükmüdür.) Adresini değiştiren kimse yenisini bildirmediği ve yeni adres tebliğ memurunca da tespit edilemediği takdirde tebliğ olunacak evrakın bir nüshası eski adrese ait binanın kapısına asılır ve asılma tarihi, tebliğ tarihi sayılır.

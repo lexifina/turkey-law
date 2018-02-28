@@ -1,0 +1,7 @@
+Madde 57 – (11/2/1959 tarihli ve 7201 sayılı Kanunun hükmüdür.)
+Bu kanunun tatbikında vazifeli bulunan memur ve hizmetliler ile mahalle, köy muhtar ve ihtiyar heyeti ve meclisi azaları aleyhine işlenen suçlar hakkında Türk Ceza Kanununun Devlet memurları aleyhine işlenen cürümlere mahsus hükümleri tatbik olunur.
+________________
+(1) 19/3/2003 tarihli ve 4829 sayılı Kanunla, 53 üncü maddedeki “otuzbin liradan yüzbin liraya” ibaresi, “bir milyar liradan üç milyar liraya”; “on beş günden altı aya” ibaresi “üç aydan bir yıla” ; 54 üncü maddedeki “onbeşbin liradan ellibin liraya” ibaresi “beşyüz milyon liradan iki milyar liraya” olarak değiştirilmiş ve metne işlenmiştir.
+(2) 19/3/2003 tarihli ve 4829 sayılı Kanunla, 55 inci maddenin birinci fıkrasındaki “otuzbin liradan yüzbin liraya” ibaresi “bir milyar liradan üç milyar liraya”; “onbeşbin liradan ellibin liraya” ibaresi “beşyüz milyon liradan iki milyar liraya”; “otuzbin liradan yüzbin liraya” ibaresi “bir milyar liradan üç milyar liraya”; 55 inci maddenin ikinci fıkrasındaki “(15) günden altı aya” ibaresi “üç aydan bir yıla” ve “(3) aydan (5) seneye” ibaresi “bir yıldan beş yıla”; 56 ncı maddeki “bir aydan üç aya kadar hapis ve onbin liradan yüzbin liraya kadar ağır para cezası” ibaresi, “üç aydan bir yıla kadar hapis ve beşyüz milyon liradan üç milyar liraya kadar ağır para cezası hükmolunur.” şeklinde değiştirilmiş ve metne işlenmiştir.
+508-2
+4 – 11/1/2011 tarihli ve 6099 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:1,35, 36, 49, 60.)
