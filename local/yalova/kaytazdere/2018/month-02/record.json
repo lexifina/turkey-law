@@ -1,0 +1,29 @@
+{
+  "number": "month-02",
+  "year": 2018,
+  "month": 2,
+  "title": "Meclis Kararları 2018/Şubat",
+  "decision_date": null,
+  "index_date": "2018-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2018",
+  "source": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2018-subat.html",
+  "official_page": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2018-subat.html",
+  "official_document": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2018-subat.html",
+  "source_sha256": "421d70386d1a02bb187c632b87aee15410c9a4d85b3b720ee5862c340526152e",
+  "issuer": "Kaytazdere Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2018-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Kararları 2018/Şubat",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 1 scanned image(s); not transcribed here"
+}
