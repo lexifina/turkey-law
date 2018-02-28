@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 26,
+  "legislative_year": 3,
+  "sitting": 65,
+  "sitting_date": "2018-02-28",
+  "listed_date": "28 Şubat 2018 Çarşamba",
+  "status": "Basılmış",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/26/3/65/a8a25d42-de54-4ad4-a94f-167182ee341b.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=c6785a36-882e-4b2e-b4c7-0185ceac65ad",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=26&YasamaYili=3",
+  "source_sha256": "0086fe79b6c19b4350cf25dfffd1b702d342f527325f0cbc4c8f2f8776102c98",
+  "source_bytes": 550552,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
