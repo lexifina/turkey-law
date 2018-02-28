@@ -1,0 +1,2 @@
+Madde 286 – (9/6/1932 tarih ve 2004 Sayılı Kanunun hükmüdür.)
+Tetkik mercii borçluyu dinledikten sonra onun vaziyetini ve hesaplarının halini ve işlerindeki doğruluğunu ve taahhütlerini ifa etmesine mani olansebepleri gözönünde tutarak projenin alacaklıları izrar kastından ari ve borçlunun mevcudiyle mütenasip olup olmadığına ve mevcudunun yüzde otuzu ödemeğe yetişip yetişmiyeceğine göre talebin muvafık olup olmadığına karar verir.

@@ -1,0 +1,2 @@
+Madde 155 – (9/6/1932 tarih ve 2004 Sayılı Kanunun hükmüdür.)
+Borçlu iflas yoliyle, takibe tabi şahıslardan olupta alacaklı isterse ödemeemrine on gün içinde borç ödenmediği takdirde alacaklının mahkemeye müracaatla iflas talebinde bulunabileceği ve borçlunun gerek borcu ve gerek kendisininiflasa tabi kimselerden olmadığına dair itirazı varsa gene bu müddet içinde istida ile icra dairesine bildirmesi lüzumu ve konkordato teklif edebileceği ilave olunur.

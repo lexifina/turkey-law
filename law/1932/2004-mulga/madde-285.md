@@ -1,0 +1,3 @@
+Madde 285 – (9/6/1932 tarih ve 2004 Sayılı Kanunun hükmüdür.)
+(29.6.1956 tarih ve 6763 Sayılı Kanunun hükmüdür.) Konkordato hükümlerinden istifade etmek isteyen her hangi bir borçlu, tetkik merciine bir konkordato projesi verir ve bu projeye mufassal bir bilanço ve defter tutmaya mecbur şahıslardan ise defterlerinin vaziyetini bildiren bir cetvel ekler. Bu cetvelde, bilhassa Ticaret Kanununun 66 ncı maddesi hükmünce tutulması mecburi olan defterlerin hepsinin tutulmuş olup olmadıkları gösterilir.
+Mevcut malları ve alacakları borçlarının en az yüzde otuzunu ödemiye yetişmiyen borçlu konkordato istiyemez.

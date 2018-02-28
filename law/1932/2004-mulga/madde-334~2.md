@@ -1,0 +1,2 @@
+Madde 334- (17/7/2003 tarihli ve 4949 sayılı Kanunun hükmüdür.)
+Konkordato mühleti elde etmek veya konkordatoyu tasdik ettirmek için gerçeğe aykırı hesap veya bilanço göstererek malî durumu hakkında alacaklıları, komiseri veya yetkili memuru hataya düşürmek veya konkordato projesine uymamak suretiyle kasten zarara sebebiyet veren borçlu, ilgilinin tetkik merciine yapacağı şikâyet üzerine altı aydan bir yıla kadar hafif hapis cezası ile cezalandırılır.

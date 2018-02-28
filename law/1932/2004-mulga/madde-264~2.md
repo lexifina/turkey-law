@@ -1,0 +1,5 @@
+Madde 264 – (3/7/1940 tarih ve 3890 Sayılı Kanunun hükmüdür.)
+Dava açılmadan veya icra takibine başlamadan evvel ihtiyati haciz yaptırmışolan alacaklı zabıt varakasının kendisine tebliğinden yedi gün içinde ya takip talebinde bulunmağa veya dava açmağa mecburdur.
+Borçlu itiraz ederse alacaklıya itirazı hemen tebliğ olunur. Alacaklı tebliğ tarihinden yedi gün içinde tetkik merciinden itirazın refini istemeğe yahut dava açmağa mecburdur. Tetkik mercii itirazın ref talebini redderse alacaklının karar tarihinden yedi gün içinde dava açması lazımdır.
+İhtiyati haciz, alacak davasının mahkemede görüldüğü sırada konulmuş ise esas hakkında verilecek hükmün sulh mahkemelerinde tefhim ve asliye mahkemelerinde tebliğinden itibaren bir ay içinde alacaklı takip talebinde bulunmağa mecburdur.
+Alacaklı bu müddetleri geçirir veya davasından yahut takip talebinden vazgeçerse veya davası yahut takip talebi, kanuni müddetlerin geçmesile düşerse veya davasında haksız çıkarsa ihtiyati haciz hükümsüz kalır ve alakadarlar isterse lazım gelenlere bildirilir.

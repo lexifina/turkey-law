@@ -1,0 +1,2 @@
+Madde 337 – (9/6/1932 tarih ve 2004 Sayılı Kanunun hükmüdür.)
+Müddeti içinde beyanda bulunmak üzere mazereti olmaksızın icra dairesine gelmeyen veya yazı ile beyanda bulunmayan borçlularla 162, 209, 216 ncı maddeler hükümlerine muhalefet eden borçlu veya müflis icra dairesinin veya iflas idaresinin vereceği müzekkere üzerine tetkik mercii tarafından bir aya kadar hafif hapis cezasiyle mahküm edilir.

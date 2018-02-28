@@ -1,0 +1,2 @@
+Madde 341 – (17/7/2003 tarihli ve 4949 sayılı Kanunun hükmüdür.)
+Çocuk teslimi hakkındaki ilâmın veya ara kararının icrası sırasında çocuğu gizleyen ya da ilâmın veya ara kararının icrasından sonra tekrar kaçıran borçlu ile bu fiillere bilerek iştirak edenler, lehine hüküm verilmiş kimsenin şikâyeti üzerine, tetkik mercii tarafından, iki aydan altı aya kadar hafif hapis cezasıyla cezalandırılırlar.

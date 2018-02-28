@@ -1,0 +1,4 @@
+Madde 173 – (9/6/1932 tarih ve 2004 Sayılı Kanunun hükmüdür.)
+Bir çek veya poliçe yahut emre muharrer senedin takip edilen borçlusu birden ziyade olupta hepsi iflasa tabi şahıslardan ise alacaklının cümlesi hakkında aynı talepte bulunması lazımdır. Bu halde borçlu tarafından itiraz vukuunda talebin mahiyetine göre 171 inci veya 172 nci madde hükümleri tatbik olunur.
+Bu senetle takip edilen borçlular içinde iflasa tabi olmıyan bir şahıs bulunupta alacaklı borçluların sıfatına göre bir kısmı hakkında iflas ve diğerleri için de hacİz talep etmişse borçlular tarafından vakı olacak itirazın ref'i ileberaber iflasa tabi olanların iflasına ve olmıyanlardan alacağının tahsiline karar verilmesini ticaret mahkemesinden arzuhal ile talep eder. Bu takdirde mahkeme 158 inci maddeye ve borçluların sıfatlarına göre iflasa ve alacağın tahsiline hükmeder.
+164 üncü madde hükmü bu hallerde de caridir.

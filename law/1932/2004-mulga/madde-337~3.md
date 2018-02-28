@@ -1,0 +1,3 @@
+Madde 337 – (18/2/1965 tarihli ve 538 sayılı Kanunun hükmüdür.)
+(Değişik birinci fıkra: 17/7/2003-4949/94 md.) Müddeti içinde beyanda bulunmak üzere mazereti olmaksızın icra dairesine gelmeyen veya yazılı beyanda bulunmayan borçlular, alacaklının şikâyeti üzerine, tetkik mercii tarafından on günden bir aya kadar hafif hapis cezasıyla cezalandırılırlar. Borçlunun haczi kabil mallarını alacaklının bildiği veya bilmesi lâzım geldiği takdirde yahut borcu karşılayacak miktarda malın haczedilmesi hâlinde borçluya ceza verilmez.
+162, 209, 216 ncı maddeler hükümlerine muhalefet eden müflis hakkında da iflas idaresinin vereceği müzekkere üzerine tetkik mercii tarafından aynı ceza hükmolunur.

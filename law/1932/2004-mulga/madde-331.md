@@ -1,0 +1,3 @@
+Madde 331 – (9/6/1932 tarih ve 2004 Sayılı Kanunun hükmüdür.)
+Haciz yoliyle takip olunan borçlu alacaklısını zarara sokmak maksadiyle mallarını veya bunlardan bir kısmını, mülkünden çıkararak, telef ederek veya kıymetten düşürerek hakiki surette, yahut gizliyerek, muvazza yoliyle başkasının uhdesine geçirerek veya aslı olmayan borçlar ikrar ederek sun'i surette mevcudunueksiltir ise aleyhinde aciz vesikası istihsal eden alacaklının vakı olacak şikayeti üzerine üç aydan üç seneye kadar hapis ile cezalandırılır ve zararın miktarına göre Türk Ceza Kanununun 522 nci maddesi hükümleri dahi tatbik olunur.
+Borçlunun lehine bu hareketlere bilerek yardım ve iştirak eden kimseler Türk Ceza Kanununun (65) inci maddesi delaletiyle bu maddeye göre cezalandırılır.

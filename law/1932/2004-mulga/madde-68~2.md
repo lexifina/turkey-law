@@ -1,0 +1,7 @@
+Madde 68 – (3/7/1940 tarih ve 3890 Sayılı Kanunun hükmüdür.)
+Talebine itiraz edilen alacaklının takibi imzası ikrar veya noterlikçe tasdik edilen bir senede yahut resmi dairelerin veya salahiyetli makamların salahiyetleri dahilinde ve usulüne göre verdikleri makbuz veya vesikaya müstenit ise alacaklı itirazın refini isteyebilir.
+Borçlu itirazını varit gösterecek hiç bir vesika göstermezse tetkik mercii itirazın refine karar verir.
+İtiraz birinci fıkrada gösterilen senet veya makbuz yahut vesikaya müstenit ise itirazın refi talebi reddolunur.
+Takip birinci fıkrada yazılan bir vesikaya müstenit değilse alacaklı itirazın muvakkaten refini isteyebilir.Borçlu borcu tanımaz veya imzasını inkar ederse merci hakimi iki tarafın verdikleri izahattan ve bizzat veya ehlivukuf marifetiyle münker imzanın alacaklının medarı tatbik olarak ibraz edeceği imza ile yahut borçluya yazdıracağı yazılarla tatbik ve tetkikinden veya sair delail ve karinelerden borçluya ait olduğuna kanaat getirirse itirazını muvakkaten refine karar verir.
+Borçlunun gösterdiği vesika altındaki imza alacaklı tarafından inkar edilirse hakim, dördüncü fıkrada yazılı usule tevfikan yaptığı tetkikat neticesinde imzanın alacaklıya ait olduğuna kanaat getirdiği takdirde alacaklının ref'i itiraz talebini reddeder.
+İmza tatbikında Hukuk Usulü Muhakemeleri Kanununun ehlivukufa ait hükümleriyle 309 uncu maddesinin ikinci, üçüncü ve dördüncü fıkraları ve 310, 311 ve312 nci maddeleri hükümleri tatbik olunur.

@@ -1,0 +1,2 @@
+Madde 72 – (9/6/1932 tarih ve 2004 Sayılı Kanunun hükmüdür.)
+Takibe itiraz etmemiş veya ettiği itiraz hakkında ref'i kararı verilmiş olması yüzünden borçlu olmadığı bir parayı ödemek mecburiyetinde kalan şahıs ödediği tarihten itibaren bir sene içinde umumi hükümler dairesinde mahkemeye müracaat ederek paranın geriye alınmasını istiyebilir. Bu dava, takibi yapan icra dairesinin bulunduğu yer mahkemesinde açılabileceği gibi müddeaaleyhin ikametgahı mahkemesinde de açılabilir. Davacı yalnız paranın verilmesi lazım gelmediğini ispata mecburdur.

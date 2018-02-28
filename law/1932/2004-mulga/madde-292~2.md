@@ -1,0 +1,4 @@
+Alacakların bildirilmesi:
+Madde 292 – (9/6/1932 tarihli ve 2004 sayılı Kanunun hükmüdür.)
+(Değişik birinci fıkra: 6/6/1985 - 3222/33 md.) Alacaklılar, komiser tarafından ilan tarihinden itibaren yirmi gün içinde alacaklarını bildirmeye yurt sathında trajı en yüksek beş gazeteden birinde yapılacak ilanla davet olunur. Ayrıca, ilanın birer sureti adresi belli olan alacaklılara posta ile gönderilir. İlanda, hilafına hareket eden alacaklıların bilançoda kayıtlı olmadıkça konkordato müzakeresine kabul edilmeyecekleri ihtarı da yazılır.
+(Değişik: 18/2/1965 - 538/123 md.) Aynı ilanda komiser; yukarıdaki fıkrada yazılı müddet geçtikten sonra olmak üzere, konkordato teklifini müzakere etmek için alacaklıları muayyen bir gün ve saatte toplanmaya davet eder ve toplanmaya tekaddüm eden on gün içinde vesikaları tetkik edebileceklerini kendilerine haber verir.

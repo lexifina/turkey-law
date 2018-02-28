@@ -1,0 +1,2 @@
+Madde 158 – (9/6/1932 tarih ve 2004 Sayılı Kanunun hükmüdür.)
+Alacaklının iflas talebi üzerine ticaret mahkemesi icra dosyasını celbederek ve seri usulü muhakameye göre duruşma yaparak gerek iflas talebini ve gerekitiraz ve defileri tetkik ve intaç eder. Şu kadar ki borçlunun itiraz ve defileri varit görülmezse mahkeme on gün içinde borcun ifa veya o miktar meblağınmahkeme veznesine depo edilmesini borçluya emreder. Borçlu imtina ederse iflasına karar verilir.

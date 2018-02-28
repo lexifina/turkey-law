@@ -1,0 +1,3 @@
+Madde 344 – (3/7/1940 tarih ve 3890 Sayılı Kanunun hükmüdür.)
+Nafaka vermeğe mahküm olup da ilamda gösterilen ödeme şartlarına riayetetmeyen borçlu, alacaklının şikayeti üzerine tetkik merciine tarafların hal ve vaziyetlerine göre üç günden üç aya kadar hafif hapse mahküm edilir. Cezanın infazından sonra işliyecek nafaka hakkında aynı hüküm cereyan eder.
+Ancak borçlu nafakanın kaldırılması veya azaltılması hakkında dava açmış ve borçlunun dermeyen ettiği sebepler tetkik merciince cezanın tehiri talebini kabul ettirecek mahiyette bulunmuş olursa bu madde hükmünün tatbiki muhakeme neticesine bırakılabilir.

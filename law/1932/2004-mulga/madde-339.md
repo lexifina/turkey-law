@@ -1,0 +1,3 @@
+Madde 339 – (9/6/1932 tarihli ve 2004 sayılı Kanunun hükmüdür.)
+Sonradan kazandığı malları veya kazancında ve gelirinde vakı tezayütleri bu kanun mucibince bildirmeğe mecbur olan borçlu makbul bir mazereti olmaksızın yedi gün içinde icra dairesine taahhütlü mektupla veya şifahi surette bildirmezse bu mal veya kazancı asıl veya bedel itibariyle mevcut olduğu takdirde beş günden bir aya kadar ve mal veya kazancını asıl veya bedel itibariyle makbul bir sebep olmaksızın elden çıkarmışsa on beş günden altı aya kadar hafif hapis ile cezalandırılır.
+Bu cezalar alacaklının şikayeti üzerine tetkik mercii tarafından hükmolunur.

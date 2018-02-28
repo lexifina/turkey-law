@@ -1,0 +1,2 @@
+Madde 343 – (9/6/1932 tarih ve 2004 Sayılı Kanunun hükmüdür.)
+Yalnız kendisi tarafından yapılacak olan bir işin yapılması veya bir işin yapılamaması yahut bir irtifak hakkının tahmili veya kaldırılması hakkındaki ilam hükümlerine makbul mazerete müstenit olmayarak muhalefet eden borçlular, hüküm lehine verilmiş olan kimsenin şikayeti üzerine tetkik mercii tarafındanbir aya kadar hafif hapis cezasına mahküm edilirler.
