@@ -1,0 +1,29 @@
+{
+  "number": "25",
+  "number_as_published": "2018/25",
+  "year": 2018,
+  "month": 2,
+  "title": "50.000,00.-TL sermayeli ve sermayenin tamamı Belediyemize ait “ Haliliye Belediyesi Personel Anonim Şirketi ” adı altında bir şirket kurulmasına, bu amaçla, tahakkuk edecek katılım payının ödenebilmesi için bütçede tertip açılmasına, bu konuyla ilgili her türlü iş ve işlemleri yapmak üzere Belediye Başkanına yetki verilmesine meclisimizin 08.02.2018 tarihli birleşiminde oy çokluğu ile karar verilmiştir.",
+  "decision_date": null,
+  "index_date": "2018-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2018",
+  "source": "https://www.haliliye.bel.tr/icerik/2442/39/subat-2018",
+  "official_page": "https://www.haliliye.bel.tr/icerik/2442/39/subat-2018",
+  "official_document": null,
+  "source_sha256": "193353df8fed306409330c62143fd665ff172a388bde86efba33ec7644e601bf",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2018-02-28",
+  "in_force_basis": "The official listing gives only the month of this decision (Şubat 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "ŞUBAT 2018",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
