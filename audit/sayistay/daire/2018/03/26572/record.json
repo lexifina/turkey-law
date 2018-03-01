@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "297",
+  "decision_date": "2018-03-01",
+  "source_id": 26572,
+  "chamber": "5",
+  "ilam_number": "111",
+  "item_number": 14,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26572/",
+  "source_sha256": "47cd3e03973e507dcb3eb7913ef2c010e28a55b70743d3eea79bafaa098330d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
