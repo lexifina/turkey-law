@@ -1,0 +1,19 @@
+............... yüklenimindeki “............. İşi’nde iki adet imalatta iş artışı olduğu halde artan iş miktarına revize birim fiyat uygulanmaması sonucu kamu zararına sebebiyet verildiği iddiasına ilişkin olarak yapılan incelemede;
+
+Söz konusu işte; KGY/12 “Her türlü inşaatta (kirişli ve kutu menfezler, köprüler, betonarme kazık hariç, plak ve kompozit menfezler dahil) kuruda ve suda her sınıfta demirli beton” ve KGY/71 “Tünelde su yalıtımı yapılması (geotekstil ve membran ile)” imalatlarının, sözleşmeye göre şartları gerçekleştiği halde, revize birim fiyat uygulamasına tabi tutulmadığı görülmüştür.
+
+KGY/71 poz numaralı imalat, tek bir iş grubu altında, tek kalem olarak yer almış olup; gerçekleşme miktarı itibariyle revize fiyat uygulamasına tabi tutulması gerekmektedir. KGY/12 poz numaralı imalat ise farklı “İş Grupları”nda (Sanat Yapıları ve Tüneller) ayrı ayrı yer almakta ancak aynı teklif fiyatı ile bulunmaktadır. Bu imalatın da farklı iş gruplarındaki gerçekleşme miktarları itibariyle revize fiyat uygulamasına tabi tutulması gerekmektedir.
+
+Denetçi tarafından yapılan kamu zararı hesabında, KGY/12 poz numaralı imalatın farklı “İş Grupları”nda, aynı ad ve teklif fiyatı ile bulunması nedeniyle, aynı ve tek bir imalat olarak değerlendirilmiş ve her iki iş grubunda yapılan imalatın toplam tutarı revize fiyat uygulamasına tabi tutulmuştur.
+
+Uygulamada, “aynı kısa açıklamaya ve aynı teklif fiyata sahip olan” iş kalemlerinin,  farklı iş grupları içerisinde ayrı ayrı yer aldıkları gibi, aynı iş grubu içerisinde de birden fazla sayıda ayrı ayrı yer alabildikleri; bu durumda olan iş kalemlerinin, İdare tarafından, iş grubu içerisindeki toplam imalat miktarları itibariyle değerlendirilip revize fiyat uygulamasına tabi tutulmuş oldukları; dolayısıyla, mevzuatta öngörülen revize fiyat uygulaması amacına da uygun hareket edilmiş olduğu anlaşılmıştır.
+
+Yapılan savunmalarda, “KGY/12 poz nolu imalatın revize birim fiyat değerlendirilmesinin “Sanat Yapıları” ve “Tünel” iş grupları itibariyle ayrı ayrı yapıldığı, buna göre sadece “Tünel” iş grubunda revize birim fiyat yapılması şartlarının gerçekleştiğinin görüldüğü, bu şekilde yapılacak revize birim fiyat uygulamasında yükleniciden kesilmesi gereken tutarın sorguda yer alan tutardan (KDV hariç) ........-TL daha fazla olduğu, aynı şekilde tek bir iş grubunda yer alan KGY/71 numaralı imalat için de revize birim fiyat yapılacağı,” belirtilmektedir.
+
+Bu itibarla, tünel iş grubunda yer alan imalatlara sorumlularca belirtildiği şekilde revize birim fiyat uygulanmaması nedeniyle meydana gelen ve hesabı Kamu Zararı Tablosunda gösterilen ............-TL kamu zararının sorumlularından müştereken ve müteselsilen tazminine,
+
+Oy çokluğuyla karar verildi.
+
+Azınlık Görüşü:
+
+............ karşı oy gerekçesi: Tanımı ve tarifi aynı olan, aralarında hiçbir fark bulunmayan ancak farklı “İş Grupları”nda (Sanat Yapıları ve Tünel) yer aldıkları için, ayrı ayrı revize birim fiyat uygulamasına tabi tutulacağı ifade edilen KGY/12 poz nolu imalatın, aynı iş kalemi olarak değerlendirilmesi ve toplam imalat miktarı üzerinden revize birim fiyat uygulamasına tabi tutulması gerekmektedir. Söz konusu imalatların yapıldığı yere göre çalışma koşullarının değişmesi, yapılan işin niteliğini değiştirmemektedir. Yaklaşık maliyet hesabında söz konusu iş kalemleri için farklı birim fiyatlar belirlenmiş olmasına karşın, yaklaşık maliyetin gizliliği nedeniyle bu husus istekliler tarafından bilinmemektedir. İhale üzerinde kalan istekli tarafından sorguda konu edilen iki iş kalemi için de aynı fiyatın teklif edilmiş olması; bahse konu iş kalemlerinin nitelik itibarıyla aynı imalatlar olduğu hususunu desteklemektedir. Bu itibarla, Denetçi tarafından toplam imalat miktarı üzerinden hesaplanan ve tazmini talep edilen tutarın; sorumlularından müştereken ve müteselsilen tazminine hükmolunması gerekir.
