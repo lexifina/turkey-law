@@ -1,0 +1,13 @@
+...............Yüklenimindeki  “.......... İşi”nde revize birim fiyat hesaplamalarının hatalı yapılması sonucu kamu zararına sebebiyet verildiği iddiasına ilişkin olarak yapılan incelemede;
+
+Söz konusu işte “Her Çapta Yuvarlak ve Nervürlü Çeliğin Zati Bedeli İmalatı Yüklenmesi Taşınması Boşaltılması İstifi ve İşçiliği” imalatı aynı teklif fiyatına sahip olmakla birlikte farklı iş gruplarında (Sanat Yapıları, Köprüler ve Tüneller)  ayrı ayrı ILGAZ 51, ILGAZ 72 ve ILGAZ 94 poz numaralı imalatlar olarak gösterilmiştir. Bu imalatların miktarları da hakedişlere yansıtılırken her biri ayrı bir imalat gibi değerlendirilmiş ve hakedişlere üç ayrı miktar girilerek revize birim fiyatları hesaplanmıştır.
+
+Uygulamada, “aynı kısa açıklamaya ve aynı teklif fiyata sahip olan” iş kalemlerinin,  farklı iş grupları içerisinde ayrı ayrı yer aldıkları gibi, aynı iş grubu içerisinde de birden fazla sayıda ayrı ayrı yer alabildikleri; bu durumda olan iş kalemlerinin, İdare tarafından, iş grubu içerisindeki toplam imalat miktarları itibariyle değerlendirilip revize fiyat uygulamasına tabi tutulmuş oldukları; dolayısıyla, mevzuatta öngörülen revize fiyat uygulaması amacına da uygun hareket edilmiş olduğu anlaşılmıştır.
+
+Bu itibarla; farklı iş gruplarında (Sanat Yapıları, Köprüler ve Tüneller) ILGAZ 51, ILGAZ 72 ve ILGAZ 94 poz numaralı imalatlar olarak gösterilen bu imalatlar için ayrı ayrı revize birim fiyat hesaplanması sonucu kamu zararına neden olunduğu iddiası ile hesap edilen ...........TL için ilişilecek bir husus bulunmadığına,
+
+Oy çokluğuyla karar verildi.
+
+Azınlık Görüşü:
+
+........... karşı oy gerekçesi: Tanımı ve tarifi aynı olan, aralarında hiçbir fark bulunmayan ancak farklı “İş Grupları”nda (Sanat Yapıları ve Tüneller) yer aldıkları için, ayrı ayrı revize birim fiyat uygulamasına tabi tutulan bu üç pozun, aynı iş kalemi olarak değerlendirilmesi ve toplam imalat miktarı üzerinden revize birim fiyat uygulamasına tabi tutulması gerekmektedir. Söz konusu imalatların yapıldığı yere göre çalışma koşullarının değişmesi, yapılan işin niteliğini değiştirmemektedir. Yaklaşık maliyet hesabında söz konusu iş kalemleri için farklı birim fiyatlar belirlenmiş olmasına karşın, yaklaşık maliyetin gizliliği nedeniyle bu husus istekliler tarafından bilinmemektedir. İhale üzerinde kalan istekli tarafından sorguda konu edilen üç iş kalemi için de aynı fiyatın teklif edilmiş olması; bahse konu iş kalemlerinin nitelik itibarıyla aynı imalatlar olduğu hususunu desteklemektedir. Bu itibarla, Denetçi tarafından tazmini talep edilen tutarın; sorumlularından müştereken ve müteselsilen tazminine hükmolunması gerekir.
