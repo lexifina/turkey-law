@@ -1,0 +1,24 @@
+{
+  "number": "111",
+  "number_as_published": "2018/111",
+  "year": 2018,
+  "title": "Pamukkale Belediye Meclisinin 04.10.2017 tarih ve 2017/339 sayılı kararı ile kabul edilen 2018 yılı Ücretler Tarifesine “Kültür İşleri Müdürlüğü İle İlgili Ücretler (KDV Hariç)” bölümüne “Yarışmalara Katılım Ücreti” tarifesinin eklenmesi ve ücretinin de 50,00-TL (KDV Dahil) olarak belirlenmesi konusunun incelenmek üzere Plan ve Bütçe Komisyonuna havalesi hk.",
+  "decision_date": "2018-03-01",
+  "source": "https://www.pamukkale.bel.tr/y-229-2018-yili-mart-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "fe7e72d05c08c0d45d21d55d20fa085bcc34aa869aba9beecf4e0f26fff7d689",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2018-03-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.03.2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.pamukkale.bel.tr/y-229-2018-yili-mart-ayi-meclis-karar-ozetleri",
+  "listing_label": "2018 Yılı Mart Ayı Meclis Karar Özetleri",
+  "record_scope": "one council decision (published decision summary)"
+}
