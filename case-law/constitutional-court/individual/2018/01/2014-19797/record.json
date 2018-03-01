@@ -1,0 +1,20 @@
+{
+  "applicant": "G.G.K.",
+  "application_date": "2014-12-19",
+  "application_number": "2014/19797",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2018-01-09",
+  "id": "330f16cc-9bbe-bd01-aed0-da79f6a4e775",
+  "in_force": "2018-03-01",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2018-03-01",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjMzMGYxNmNjLTliYmUtYmQwMS1hZWQwLWRhNzlmNmE0ZTc3NQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "e254ec4ae1e9e082d67511754bdde213f5e1c96d077e055591c5b88ad9ba3a1e",
+  "version_label": "as-enacted"
+}
