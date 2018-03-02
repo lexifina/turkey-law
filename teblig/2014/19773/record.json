@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.19773",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 364)",
+  "number": "19773",
+  "path": "teblig/2014/19773",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19773&MevzuatTertip=5",
+  "source_sha256": "e12f8c4b5514f59d29b9b070a1b27df57bd4c5bf025f47c550dd318b6a4707ba",
+  "source_bytes": 18614,
+  "published": "2014-06-10",
+  "gazette": "29026",
+  "in_force": "2018-03-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/3/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-03-02",
+      "RG-2/3/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1060,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
