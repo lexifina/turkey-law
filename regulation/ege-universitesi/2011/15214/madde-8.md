@@ -1,0 +1,3 @@
+Sınavlar
+MADDE 8 – (1) Bir derse yönelik sınavlar; ara, yarıyıl/yıl sonu, mazeret ve bütünleme sınavlarını kapsar ve bu sınavlar, ilgili eğitim birimince belirlenen yerde ve zamanda yapılır. Gerek görüldüğünde sınavlar, ilgili yönetim kurulunun kararı ile Cumartesi, Pazar günleri de yapılabilir. Bir yarıyılı kapsayan dersin yarıyıl sonu sınavı o yarıyılın, iki yarıyılı kapsayan dersin yıl sonu sınavı ise ikinci yarıyılın sonunda yapılır. Niteliği gereği sınav gerektirmeyen dersler, ilgili eğitim birimlerince belirlenir, bu durumda yarıyıl/yıl sonu sınavı puanı, öğrencinin yarıyıl/yıl içi çalışmaları göz önünde tutularak verilir.
+(2) Sınavların duyurulması, giriş, uygulama, değerlendirme, itiraz ve başarının değerlendirilmesine ilişkin esaslar Senatoca belirlenir.

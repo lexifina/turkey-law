@@ -1,0 +1,99 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğü girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-08-22",
+      "22.08.2011",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2016-07-12",
+      "RG-12/7/2016-29768",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-07-12",
+      "RG-12/7/2016-29768",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-07-12",
+      "RG-12/7/2016-29768",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-07-12",
+      "RG-12/7/2016-29768",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-06-23",
+      "RG-23/6/2017- 30105",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-06-23",
+      "RG-23/6/2017- 30105",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-03-02",
+      "RG-2/3/2018-30348",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-07-12",
+      "RG-12/7/2016-29768",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-07-12",
+      "RG-12/7/2016-29768",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2016-07-12",
+      "12/7/2016",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2017-06-23",
+      "23/6/2017",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2018-03-02",
+      "2/3/2018",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-2/3/2018-30348",
+  "first_law": null,
+  "gazette": "28033",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-03-02",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ege Üniversitesi",
+  "issuer_slug": "ege-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ege-universitesi/2011/15214",
+  "published": "2011-08-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15214&MevzuatTertip=5",
+  "source_bytes": 39228,
+  "source_id": "8.5.15214",
+  "source_sha256": "07e3aac8219dbe76444677f9aa1c58fbad79c4427d33bb9ba552f3d994821521",
+  "text_status": "current-consolidated",
+  "title": "EGE ÜNİVERSİTESİ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 191,
+  "word_count": 1548
+}
