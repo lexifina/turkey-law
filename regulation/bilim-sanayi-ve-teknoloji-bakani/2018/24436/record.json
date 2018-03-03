@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24436",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BASINÇLI EKİPMANLAR YÖNETMELİĞİ (2014/68/AB)",
+  "number": "24436",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2018/24436",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24436&MevzuatTertip=5",
+  "source_sha256": "67e36067b6b16883881a24e6282f7322f3493055b0c41a49b970198fe2c8a5b4",
+  "source_bytes": 154909,
+  "published": "2018-03-03",
+  "gazette": "30349",
+  "in_force": "2018-03-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.03.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9835,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24436-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
