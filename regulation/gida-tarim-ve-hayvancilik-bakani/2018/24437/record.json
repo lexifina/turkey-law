@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24437",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜÇÜK KAPASİTELİ KESİMHANELERİN GENEL VE ÖZEL HİJYEN KURALLARINA DAİR YÖNETMELİK",
+  "number": "24437",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2018/24437",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24437&MevzuatTertip=5",
+  "source_sha256": "0a39b2827a11cb6e271100db87b7a4174597fc933ae58d8102861c5e75d5f975",
+  "source_bytes": 61230,
+  "published": "2018-03-03",
+  "gazette": "30349",
+  "in_force": "2018-03-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.03.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3246,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24437-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
