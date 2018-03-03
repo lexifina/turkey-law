@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1012",
+  "date": "2018-03-03",
+  "title": "T. 3.03.2018 E. 2018/219 K. 2018/257",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1012",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=6&yil=2018",
+  "listing_sha256": "50332cde0756613156731f2ab7c457dbf3ad8e2dabc26ae8bfb361d6af37b490",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
