@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; modern tıp uygulamalarına yardımcı çeşitli geleneksel ve tamamlayıcı tıp yöntemlerinin, her türlü teşhis, tedavi ve korunma amaçlı kullanımının, etkilerinin ve etki mekanizmalarının belirlenmesi ile ilgili bilimsel, teknik, teknolojik, ekonomik, tıbbi, hukuki ve diğer her türlü alanda araştırma, uygulama, takip, eğitim ve tanıtımını yapmak, geleneksel ve tamamlayıcı tıp uygulamalarını analitik olarak değerlendirmek ve bu konuda araştırmacı yetiştirilmesini desteklemek, tıp, diş hekimliği ve eczacılık eğitimleri sırasında öğrencilere bu uygulamaları tanıtmak, bu yöntemlerin sadece bu alanlarda yetkilendirilmiş hekimler tarafından uygulanması için eğitimler düzenlemek, konu ile ilgili her türlü araştırma-geliştirme (Ar-Ge) faaliyetlerinde bulunmaktır.

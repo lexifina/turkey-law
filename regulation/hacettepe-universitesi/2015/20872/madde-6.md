@@ -1,0 +1,14 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez, amacını gerçekleştirmek üzere aşağıdaki alanlarda faaliyette bulunur:
+a) Yasal olarak kabul edilen geleneksel ve tamamlayıcı tıp yöntemlerinin etkilerini, etki mekanizmalarını, optimal etki sürelerini ve diğer yönlerini ortaya koymak için bilimsel araştırmalar yapmak, yurt içi ve yurt dışı araştırma projelerine katkıda bulunmak,
+b) Hekimlere ve diğer sağlık personeline merkezin faaliyet alanına giren konularda eğitimler vermek, kurslar açmak,
+c) Geleneksel ve tamamlayıcı tıp yöntemlerinin hekimler ve diğer sağlık personeli ile halk arasında doğru bir şekilde ve yeterince bilinmesini sağlamak için bilgilendirme toplantıları, seminerler, kurslar düzenlemek ve bu amaçla projeler yürütmek,
+ç) Geleneksel ve tamamlayıcı tıp yöntemlerinin uygulanması ve bu yöntemlerle ilgili bilimsel çalışmalar yapmak için gereken uygulama ve araştırma laboratuvarları kurmak, kurulmuş olanları desteklemek ve araştırmacıların kullanımına sunmak,
+d) Tıbbi ve aromatik bitkiler yanında geleneksel ve tamamlayıcı tıp uygulamalarında kullanılacak her türlü ürünün biyolojik, farmakolojik, toksikolojik, klinik ve endüstriyel açılardan incelenmesi ve değerlendirilmesi amacıyla araştırma-geliştirme faaliyetleri yapmak,
+e) Endüstriyel potansiyele sahip tıbbi ve aromatik bitkiler ve diğer ürünlerin üretimi ile ilgili çalışmalar yapmak ve yaptırmak,
+f) Türkiye’de mevcut flora zenginliği ile biyolojik çeşitliliğinin envanterinin çıkartılması, korunması ve ekonomiye kazandırılması konularında bilimsel araştırmalar yapmak,
+g) Geleneksel ve tamamlayıcı tıp faaliyetleri kapsamında, ilaç, kozmetik, uçucu yağ, gıda, boya, koku ve tat endüstrileri ile kimya sektörünün gereksinimi olan doğal, sentetik ya da yarı sentetik hammadde, ara madde ve ürünlerin üretiminde dış ülkelere bağımlılığı en aza indirmeyi amaçlayan çalışmalar yapmak, bilimsel önerilerde bulunmak, danışmanlık yapmak,
+ğ) Merkezin çalışmalarında etkinliği artırmak için ulusal ve uluslararası bilimsel, kültürel ve teknolojik çalışmalara katılmak, ortak projeler geliştirmek, eğitim programları, kurslar, çalıştaylar, kongreler, sempozyumlar, paneller, sergiler, fuarlar ve benzeri programlar düzenlemek veya düzenlenmesine katkıda bulunmak,
+h) Merkezin faaliyet alanıyla ilgili ulusal ve uluslararası kişi ve kuruluşlarla işbirliği içinde her türlü yazılı, basılı, görsel ve işitsel belge ve eserlerden oluşan arşiv, kitaplık, dokümantasyon ve enformasyon birimlerini oluşturmak,
+ı) Merkezin ürettiği her türlü bilimsel ve teknik verileri, buluşları, yenilikleri, üretim, araştırma ve benzeri faaliyetleri ve önerileri bilimsel rapor, bülten, kitap, dergi, broşür, makale, tebliğ, film, resim, fotoğraf, slayt, multimedya ürünü ve benzeri eserler şeklinde yayımlamak,
+i) Merkezin amaçları ile ilgili Yönetim Kurulunca kabul edilen diğer faaliyetlerde bulunmak.
