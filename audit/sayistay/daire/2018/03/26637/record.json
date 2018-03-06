@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35523",
+  "decision_date": "2018-03-06",
+  "source_id": 26637,
+  "chamber": "2",
+  "ilam_number": "113",
+  "item_number": 9,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26637/",
+  "source_sha256": "bba0839b8b262305aa3400c16eed97dc0887799ab4df656f46531c4c8e2de8a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
