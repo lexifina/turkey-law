@@ -1,2 +1,2 @@
 Öğretim yardımcıları
-MADDE 22 - Astsubay meslek yüksek okullarının, uzman, çevirici, eğitim ve öğretim plânlamacısı olarak ihtiyaç duyacağı öğretim yardımcılarından asker olanlar, Türk Silâhlı Kuvvetlerinin atanmaya ilişkin esas ve usullerine uygun olarak atanırlar. Sivil olanlar ise, çalışacakları bölüm başkanlıklarının görüşü alınarak astsubay meslek yüksek okulu komutanının önerisi üzerine; Genelkurmay Başkanlığı, ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığının onayı ile en çok üç yıl süre ile atanırlar. Atama süresi sonunda görevleri kendiliğinden sona erer. Bunlar, aynı usulle yeniden atanabilirler.
+Madde 22 – (Mülga: 22/2/2018-7100/26 md.)

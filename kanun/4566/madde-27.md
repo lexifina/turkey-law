@@ -1,2 +1,3 @@
-Öğretim yardımcıları
-MADDE 27 — Harp okullarının araştırma görevlisi, uzman çevirici ve eğitimöğretim plânlamacısı olarak ihtiyaç duyacağı öğretim yardımcılarından asker olanlar, Türk Silâhlı Kuvvetlerinin atanmaya ilişkin esas ve usullerine uygun olarak atanırlar. Sivil olanları ise, çalışacakları bölüm başkanlıklarının görüşü alınarak harp okullarının önerisi ve ilgili kuvvet komutanlığının izni ile araştırma görevlisi kadrolarına en çok üç yıl süre ile atanırlar. Atama süresi sonunda görevleri kendiliğinden sona erer. Bunlar aynı usulle yeniden atanabilirler. Uzmanlar, çeviriciler ve eğitim-öğretim planlamacılarının atanmasında da, araştırma görevlilerinin atanmasındaki yöntem izlenir.
+Araştırma görevlileri[15]
+Madde 27 – (Değişik: 22/2/2018-7100/17 md.)
+Harp okullarının araştırma görevlisi olarak ihtiyaç duyacağı asker kişiler Türk Silâhlı Kuvvetlerinin atanmaya ilişkin esas ve usullerine uygun olarak, diğerleri ise Millî Savunma Bakanlığının izni ile araştırma görevlisi kadrolarına en çok üç yıl süre ile atanırlar. Atama süresi sonunda görevleri kendiliğinden sona erer. Bunlar aynı usulle yeniden atanabilirler.
