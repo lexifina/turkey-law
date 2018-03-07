@@ -1,0 +1,20 @@
+{
+  "applicant": "E.A.Ö. VE M.Y.",
+  "application_date": "2015-09-28",
+  "application_number": "2015/16032",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2018-03-07",
+  "id": "0b60c96d-b38f-262f-7431-85c0055765e9",
+  "in_force": "2018-03-07",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjBiNjBjOTZkLWIzOGYtMjYyZi03NDMxLTg1YzAwNTU3NjVlOQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "72f9090d9ad90b0c416812bf0a41207af272d2e4b09484ca3bf3af5906161c40",
+  "version_label": "as-enacted"
+}
