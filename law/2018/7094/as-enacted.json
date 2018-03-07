@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7094",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Birleşmiş Milletler Mülteciler Yüksek Komiserliği Arasında Ev Sahibi Ülke Anlaşması ile Anlaşmada Değişiklik Yapılmasına İlişkin Notaların Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-03-07",
+  "gazette_issue": "30353",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180307-10.htm",
+  "source_sha256": "23fd5be64da614eff2213f989db3cfec16e8ea1772c74370fa9150417f9be33a",
+  "text_sha256": "278d64d45d41cce56eb347d3ffa5ba386d53f04cfa34ad74763c22eaf115c66b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/03/07/30353-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180307-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
