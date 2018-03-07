@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7095",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Birleşmiş Milletler Arasında Afet ve Acil Durum Halinde Yardım Sevkiyatının ve Yardım Personeline Ait Eşyanın İthalat, İhracat ve Transitini Hızlandırmaya Yönelik Önlemlerin Alınmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-03-07",
+  "gazette_issue": "30353",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180307-11.htm",
+  "source_sha256": "e7ac04aeba1811cda43b0e2bca5e21a69a8ad821819c4d1cfa8ff7bf9125bc99",
+  "text_sha256": "367915a194f10444440e148764cf46f858f08a47de6db0d5ec7a17a23ec299b9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/03/07/30353-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180307-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
