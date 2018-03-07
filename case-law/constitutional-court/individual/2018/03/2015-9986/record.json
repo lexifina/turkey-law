@@ -1,0 +1,20 @@
+{
+  "applicant": "K.A.İ. A.Ş.",
+  "application_date": "2015-06-04",
+  "application_number": "2015/9986",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2018-03-07",
+  "id": "99c9b6c9-062e-33d6-8061-21b2bfc9218d",
+  "in_force": "2018-03-07",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjk5YzliNmM5LTA2MmUtMzNkNi04MDYxLTIxYjJiZmM5MjE4ZA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "94da621eaff86336fd1f7febec4e4204889c1e45b968a62e247be7f545a1a443",
+  "version_label": "as-enacted"
+}
