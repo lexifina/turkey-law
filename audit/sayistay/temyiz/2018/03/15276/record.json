@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44187",
+  "decision_date": "2018-03-07",
+  "source_id": 15276,
+  "chamber": "7",
+  "file_number": "41884",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15276/",
+  "source_sha256": "61dc77329f16f68418d2dd8192e1e9ae99e3d2e2c113c9b944a01aa1b9ba19a5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
