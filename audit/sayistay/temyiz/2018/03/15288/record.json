@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44199",
+  "decision_date": "2018-03-07",
+  "source_id": 15288,
+  "chamber": "1",
+  "file_number": "43458",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15288/",
+  "source_sha256": "5b3597634e0e183fcb5efefc03a43741c2129893569de792244649a96c7b3387",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
