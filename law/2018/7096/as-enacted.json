@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7096",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Karadağ Hükümeti Arasında Gümrük Konularında Karşılıklı Yardım Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-03-07",
+  "gazette_issue": "30353",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180307-12.htm",
+  "source_sha256": "f550c6951f5505e875c96175c3171df7fed9a6cf783b15534ac15018348a62a6",
+  "text_sha256": "3692d312557559ce4892b10a1dc0b14a2ae662231f0f69d5d047d496c77688cd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/03/07/30353-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180307-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
