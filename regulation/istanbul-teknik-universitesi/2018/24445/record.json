@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 26 – (1) Bu Yönetmelik 2017-2018 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-03-07",
+      "07.03.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 26 – (1) Bu Yönetmelik 2017-2018 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30353",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-03-07",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/2018/24445",
+  "published": "2018-03-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24445&MevzuatTertip=5",
+  "source_bytes": 42820,
+  "source_id": "8.5.24445",
+  "source_sha256": "0c4b5302b8c36a52db6f86efd7929edaef77f31de33bed65ecc2f15329cd1524",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ ÇİFT DİPLOMAYA YÖNELİK\r\nULUSLARARASI ORTAK LİSANS PROGRAMLARI EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 2231
+}
