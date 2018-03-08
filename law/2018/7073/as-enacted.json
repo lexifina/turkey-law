@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7073",
+  "year": 2018,
+  "title": "Olağanüstü Hal Kapsamında Milli Savunma ile İlgili Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-03-08",
+  "gazette_issue": "30354",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180308M1-6.htm",
+  "source_sha256": "6a2b7b2891bd86076c3c646b9edd1e5b51c8a34258da9770c465934081249357",
+  "text_sha256": "a1a0034fbe344e852074f97828a63d29ceaa4263da09d2b07fc9039ae9ee9cfa",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/03/08/30354-m1-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180308M1-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
