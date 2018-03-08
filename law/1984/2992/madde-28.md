@@ -1,0 +1,2 @@
+Madde 28 – Bakanlık, anahizmet ve görevleriyle ilgili konularda diğer bakanlıkların ve kamu kurum ve kuruluşlarının uyacakları esasları yürürlükteki mevzuata uygun olarak belirlemekle, kaynak israfını önleyecek ve koordinasyonu sağlayacak tedbirleri almakla görevli ve yetkilidir.
+Bakanlık, diğer bakanlıkların hizmet alanına giren konulara ilişkin faaliyetlerinde, Başbakanlıkça belirlenen esaslar çerçevesinde ilgili bakanlıklara danışmak ve gerekli işbirliği ve koordinasyonu sağlamaktan sorumludur.

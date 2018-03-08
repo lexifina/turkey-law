@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan hükümler:
+Madde 37 – 22 Mayıs 1327 tarihli Adliye ve Mezahip Nezareti Nizamnamei Dahilisi, 11 Haziran 1329 tarihli Hükkam ve Memurini Adliye intihap Nizamnamesi, 17 Teşrinisani 1336 tarihli Memurini Adliye Hakkında Tahkikata Ait Nizamname ve 16 Kanunuevvel 1331 tarihli Adliye Nezareti Heyeti Teftişiye Nizamnamesi ile 4358 sayılı Ceza ve Tevkifevleri Umum Müdürlüğünün Teşkilat ve Vazifeleri Hakkında Kanunun 1, 2 ve 3 üncü maddeleri ile diğer kanunların bu Kanuna aykırı hükümleri yürürlükten kaldırılmıştır.

@@ -1,0 +1,11 @@
+Avrupa Birliği Genel Müdürlüğü
+Madde 13/B – (Ek : 14/4/1989 - KHK - 367/5 md.; Değişik : 15/5/2001 - 4674/4 md.) Avrupa Birliği Genel Müdürlüğünün görevleri, 244 sayılı Kanun ile 1173 sayılı Kanunla Dışişleri Bakanlığına verilen görev ve yetkiler saklı kalmak kaydıyla şunlardır:
+a) Bakanlığın görev alanına giren Avrupa Birliği müktesebatına uyum ile ilgili konularda Bakanlık birimleri arasında koordinasyonu sağlamak, Dışişleri Bakanlığı ve/veya Avrupa Birliği ile ilişkilerden sorumlu Bakanlığın ve diğer kamu kurum ve kuruluşlarının koordinasyon çalışmalarına yardımcı olmak, bu alanda Hükümetin genel politikasını uygulamaya yönelik tedbirler almak, uyum ve uygulama çalışmaları ile ilgili işleri yürütmek.
+b) Bakanlığın görev alanına giren Avrupa Birliği müktesebatına uyum ile ilgili konularda inceleme ve araştırmalar yaparak Bakanlığa tekliflerde bulunmak, uyum için gerekli olan konularda tüzük ve yönetmelikler hazırlamak, genelge düzenlemek.
+c) Bakanlığın görev alanına giren konularda Avrupa Birliği ile ilişkilerin ulusal program, kalkınma planları ve yıllık programlarda öngörülen hedefler doğrultusunda yürütülmesini sağlamak.
+6396
+d) Avrupa Birliği müktesebatına uyum ile ilgili olarak Bakanlık birimleri, diğer bakanlıklar, kamu kurum ve kuruluşlarınca istenen konular hakkında görüş bildirmek ve gerektiğinde toplantılara katılmak.
+e) Bakanlığın görev alanına giren konularda, Avrupa Birliği müktesebatına uyumun veya Avrupa Birliği ile işbirliğinin gerekli kıldığı yurt içi ve yurt dışı toplantılarda Bakanlık birimleri arasında koordinasyonu sağlamak, gerektiğinde temsilci göndermek ve bu konulardaki uluslararası sözleşmeler hakkında görüş bildirmek.
+f) Bakanlığın görev alanına giren konularda uluslararası antlaşma ve belgelerle ilgili olarak, gerektiğinde Bakanlığın diğer ilgili birimlerine de danışarak görüş bildirmek; yapılan çalışmalara ve görüşmelere katılmak; bu antlaşma ve belgeleri Türkçeye çevirmek veya çevirtmek, derlemek, arşivlemek; bunları ve yurt dışı faaliyetlere ilişkin olarak düzenlenecek raporları Bakanlığın ilgili birimlerine ve diğer kuruluşlara iletmek.
+g) Görev alanına giren konularda, gerektiğinde Eğitim Dairesi Başkanlığı ile işbirliği yaparak personelin yurt içi ve yurt dışı eğitimleri ile ilgili işlemleri yapmak.
+h) Bakanlıkça verilen benzeri görevleri yapmak.

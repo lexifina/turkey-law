@@ -1,0 +1,2 @@
+Geçici Madde 9 – (Ek: 2/12/2014-6572/36 md.)
+Bu maddenin yürürlüğe girdiği tarihte 2802 sayılı Hâkimler ve Savcılar Kanununun 50 nci maddesi kapsamında dış temsilciliklerde adalet müşaviri olarak görevli olanlardan, görev yaptıkları temsilcilikte ilgili mevzuatı uyarınca Adalet Bakanlığı yurt dışı teşkilatı kurulduğu tarih itibarıyla görevde bulunanlar; bu teşkilatların kurulduğu tarihte görevli bulundukları temsilcilik için tahsis edilmiş olan adalet müşaviri kadrolarına atanmış sayılır.

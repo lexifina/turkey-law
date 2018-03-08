@@ -1,0 +1,1 @@
+Geçici Madde 7 – 17/6/1982 tarihli ve 2680 sayılı Kanun ile bu Kanunun 4 üncü maddesini değiştiren 2/12/1983 tarihli ve 2967 sayılı Kanunla verilen kanun hükmünde kararname çıkarma yetkisi, Adalet Bakanlığı Teşkilatı için bu kanunlarla verilen süre bitimine kadar geçerlidir.

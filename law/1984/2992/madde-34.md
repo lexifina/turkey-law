@@ -1,0 +1,3 @@
+Komisyon kurma yetkisi:
+Madde 34 – Bakanlık, temel kanunlar üzerinde çalışmalar yapmak üzere uzman personelden oluşan komisyonlar kurmaya yetkilidir.
+Bu komisyonların çalışma usulleri ile uzman personele ödenecek huzur ücretleri ve huzur hakları Bakanlıkça çıkarılacak yönetmelikte düzenlenir. (Değişik cümle: 15/5/2001 - 4674/8 md.) Ancak, 6245 sayılı Harcırah Kanunu hükümleri saklı kalmak koşuluyla uhdesinde bir kamu görevi bulunanlara ödenecek huzur hakkı fiilen görev yapılan her gün için (1000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak miktarı geçemez. Uhdesinde bir kamu görevi bulunmayanlara ödenecek huzur ücreti için bu gösterge rakamı (2000) olarak uygulanır.
