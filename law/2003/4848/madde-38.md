@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan hükümler
+Madde 38- 13.12.1983 tarihli ve 187 sayılı Kanun Hükmünde Kararname ile bu Kanun Hükmünde Kararnamede değişiklik yapan 8.6.1984 tarihli ve 216 sayılı Kanun Hükmünde Kararname; 24.1.1989 tarihli ve 354 sayılı, 24.1.1989 tarihli ve 355 sayılı kanun hükmünde kararnameler ile bu kanun hükmünde kararnamelerde değişiklik yapan 17.3.1989 tarihli ve 364 sayılı, 13.9.1989 tarihli ve 379 sayılı, 25.3.1990 tarihli ve 411 sayılı, 13.12.1991 tarihli ve 468 sayılı kanun hükmünde kararnameler yürürlükten kaldırılmıştır.

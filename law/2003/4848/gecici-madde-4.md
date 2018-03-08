@@ -1,0 +1,1 @@
+Geçici Madde 4- Kültür Bakanlığı il müdürlükleri ile Turizm Bakanlığı il müdürlükleri, Kültür ve Turizm Bakanlığı İl Müdürlüğü adıyla tek birim olarak, yeni bir düzenleme yapılıncaya kadar faaliyete devam ederler. Bu bakanlıklara ait diğer taşra teşkilâtı hakkındaki gerekli düzenlemeler Bakanlar Kurulunca yapılır.

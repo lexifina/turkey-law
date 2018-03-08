@@ -1,0 +1,4 @@
+Geçici Madde 6- Bu Kanunda öngörülen tüzük ve yönetmelikler yürürlüğe girinceye kadar, mevcut tüzük ve yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
+Diğer mevzuatta Kültür Bakanlığı veya Turizm Bakanlığına yapılmış olan atıflar Kültür ve Turizm Bakanlığına yapılmış sayılır.
+Mevzuatta, 354 sayılı Kültür Bakanlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararname ile 355 sayılı Turizm Bakanlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararnameye yapılmış olan atıflar bu Kanuna yapılmış sayılır.
+Bu Kanun ile kurulan Kültür ve Turizm Bakanlığı teşkilâtlanıncaya kadar, Bakanlık merkez, taşra ve yurt dışı teşkilâtlarında değişen ve yeniden kurulan birimlere verilen görev ve hizmetler, Kültür Bakanlığı ile Turizm Bakanlığının merkez, taşra ve yurt dışı teşkilâtları tarafından mevcut personel eliyle yürütülmeye devam olunur.

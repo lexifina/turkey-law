@@ -1,0 +1,2 @@
+Geçici Madde 9- (Ek : 20/11/2017 - KHK – 696/89 md.; Aynen kabul: 1/2/2018-7079/84 md.)
+Bakanlık, bu Kanunun 12 nci maddesinin birinci fıkrasının (s) bendi kapsamında yapılacak yapım işlerine yönelik ihaleleri, bu maddenin yürürlüğe girdiği tarihten itibaren iki yıl içinde, yılı yatırım programında yer alma ve ödeneği bulunma şartı aranmaksızın 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 21 inci maddesinin birinci fıkrasının (b) bendinin tabi olduğu usule göre Yüksek Planlama Kurulunca alınan karar uyarınca yapmaya veya yaptırmaya yetkilidir.”

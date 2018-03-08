@@ -1,0 +1,7 @@
+Kültür ve Turizm Uzmanlığı ile Kültür ve Turizm Uzman Yardımcılığı
+Madde 32- Bakanlık, Kültür ve Turizm Uzmanı ile Kültür ve Turizm Uzman Yardımcısı istihdam eder. Kültür ve Turizm Uzman Yardımcılığına atanabilmek için 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde sayılanlara ek olarak; Kültür ve Turizm Bakanlığının faaliyet alanına giren konularda en az dört yıllık eğitim veren fakülte veya yüksekokullardan veya bunlara denkliği Yükseköğretim Kurulu tarafından kabul edilmiş yurt dışındaki yüksek öğretim kurumlarından mezun olmak, sınavın yapıldığı yılın Ocak ayının ilk gününde otuzbeş yaşını doldurmamış olmak, yabancı dil ve mesleki bilgiyi içeren yarışma sınavında başarılı olmak şartları aranır.
+8388
+Kültür ve Turizm Uzman Yardımcılığına atananlar, en az üç yıl çalışmak ve olumlu sicil almak kaydıyla, açılacak yeterlik sınavına girme hakkını kazanırlar. Sınavda başarılı olanlar Kültür ve Turizm Uzmanı kadrolarına atanırlar. Üst üste iki defa yeterlik sınavında başarı gösteremeyenler durumlarına uygun başka kadrolara nakledilirler. Kültür ve Turizm Uzman Yardımcılığı yarışma ve yeterlik sınavlarının şekil ve uygulama esasları ile Kültür ve Turizm Uzman ve Uzman Yardımcılarının çalışma usul ve esasları yönetmelikle düzenlenir.
+(Mülga üçüncü fıkra: 11/10/2011-KHK-666/1 md.) (1)
+(Mülga dördüncü fıkra: 11/10/2011-KHK-666/1 md.) (1)
+Ek ödemelerde 657 sayılı Devlet Memurları Kanununun aylıklara ilişkin hükümleri uygulanır.
