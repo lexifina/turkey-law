@@ -1,0 +1,21 @@
+Özel Hizmet Tazminatı ve ek ödeme farkı:
+
+... Belediyesi’nde memur olarak çalışan ve Yazı İşleri Müdürlüğüne vekalet eden ...’na özel hizmet tazminatı ile ek ödeme farkının hatalı ödenmesi suretiyle kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak yapılan incelemede;
+
+11.01.2016 tarih ve 2016/8370 sayılı Bakanlar Kurulu Kararı’nın 2’nci maddesi, 2006/10344 sayılı “Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Karar”ın 9’uncu maddesi, 375 sayılı Kanun Hükmünde Kararname’nin ek 9’uncu maddesi ve Mahalli İdareler Personelinin Görevde Yükselme Ve Unvan Değişikliği Esaslarına Dair Yönetmelik’in 7’nci maddesine göre; vekaleten görevlendirilen kişiye vekalet ettiği kadroya ait zam, tazminat ve ek ödeme farklarının ödenebilmesi için, vekalet onayında vekaletin 657 sayılı Kanun’un 86’ncı maddesine istinaden yapıldığının belirtilmiş olması ve kişinin asilde aranan genel ve özel tüm şartları birarada taşıması, dolayısıyla müdürlük kadrolarına yapılacak vekalet görevlendirmelerinde kişinin en az iki yıl uzman, sivil savunma uzmanı, şef, ayniyat saymanı, kontrol memuru, eğitmen veya muhasebeci kadrosunda çalışmış olması gerekmektedir.
+
+... Belediyesi’nde memur kadrosunda çalışmakta olan ...’nun 10.04.2014 tarih ve ... sayılı atama oluru ile Yazı İşleri Müdürlüğü kadrosuna vekaleten atamasının yapıldığı, ancak atama olurunda atamanın 657 sayılı Kanunun 86’ncı maddesine binaen yapıldığı belirtilmediğinden, kendisine 1. dereceli Yazı İşleri Müdürlüğüne ait kadronun özel hizmet tazminat farkı ile ek ödeme farkının verilmesinin mümkün olamayacağı iddia edilmiş ise de;
+
+Söz konusu atama onayında “Belediyemiz bünyesinde boş bulunan 1. derece Yazı İşleri Müdürü kadrosuna; 657 sayılı Devlet Memuru Kanunu’nun 76. maddesine göre vekaleten atanmış bulunmaktasınız.” ifadesinin yer aldığı görülmüştür. Bu ifadede bahsi geçen 76’ncı madde, devlet memurlarının naklen atanması ile ilgili olup, vekalet konusunu ilgilendiren bir yönü bulunmamaktadır. Savunmalar doğrultusunda da, görevlendirmenin 86’ncı maddeye istinaden yapıldığına dair ibare yerine sehven 76’ncı maddeye atıf yapıldığı anlaşılmaktadır. Bu doğrultuda, fiilen Yazı İşleri Müdürü görevini vekaleten yürütmekte olan kişinin, sadece atama onayı yazısında Kanun’un “vekaleten atama” ibaresi içermeyen maddesine atıf yapılmış olması münasebetiyle mali haklardan yararlandırılmaması hakkaniyetle bağdaşmamaktadır.
+
+ Diğer yandan; ..., 2001-2004 yılları arasında ... ili ... ilçesi ... Belde Belediyesi’nde başkatip kadrosunda görev yapmıştır.  Devlet Personel Başkanlığı’nın savunmada da yer verilen 16.03.20005/4369 ve 13.05.2005/7374 tarih ve sayılı görüşlerinde de ifade edildiği üzere, kişinin başkatiplik görevini yürüttüğü dönemde yürürlükte olan mevzuat hükümlerine göre başkatiplik kadrosu şeflik kadrosuna eş değerdir. Dolayısıyla başkatiplik kadrosunda geçirilen sürenin şeflik kadrosunda geçirilmiş olarak değerlendirilmesi gerekir. Bu açıdan da ...’nun, kendisine vekalet ettiği kadro için öngörülen zam, tazminat ve ek ödeme farklarının ödenebilmesi için asilde aranan tüm şartları taşıdığı görülmektedir.
+
+Bu itibarla; Yazı İşleri Müdürlüğüne vekaleten görevlendirilen ...’na yapılan ve ayrıntısına aşağıda yer verilen özel hizmet tazminatı ile ek ödeme farkı ödemesi toplam ...TL için ilişilecek husus bulunmadığına,
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İşbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere
+
+oy çokluğuyla karar verildi.
+
+(Azınlık Görüşü:
+
+Üye ...’in karşı oy gerekçesi: Mahalli İdareler Personelinin Görevde Yükselme Ve Unvan Değişikliği Esaslarına Dair Yönetmelik’in 7’nci maddesinde müdürlük için en az iki yıl çalışmış olma şartı aranan kadrolar uzman, sivil savunma uzmanı, şef ayniyat saymanı, kontrol memuru, eğitmen veya muhasebeci olarak sayılmıştır. Belirtilen mevzuat hükmünde başkatiplik kadrosu sayılmamaktadır. Dolayısıyla ... bu kadrolarda çalışmadığından asilde aranan şartları taşıyor olarak değerlendirilemez. Ayrıca vekalet onayında da vekaletin 86’ncı maddeye istinaden yapıldığına dair bir ibare bulunmamaktadır. Bu itibarla, söz konusu kişiye yapılan özel hizmet tazminatı ve ek ödeme farklarının sorumlularına ödettirilmesi gerekir.)
