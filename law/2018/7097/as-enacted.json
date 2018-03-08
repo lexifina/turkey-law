@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7097",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Gabon Cumhuriyeti Hükümeti Arasında İkili Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-03-08",
+  "gazette_issue": "30354",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180308-9.htm",
+  "source_sha256": "cfca06fae02d9e69c8487565dd80625213a5eb5ef28c8967d9cbd3e56f97b2c5",
+  "text_sha256": "307ad914529fe8d63b5ef4f734870765523e637bd70f03d2d2d4bbccd2a31f8e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/03/08/30354-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180308-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
