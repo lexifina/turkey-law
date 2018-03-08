@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7069",
+  "year": 2018,
+  "title": "Olağanüstü Hal Kapsamında Bazı Düzenlemeler Yapılması Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabul Edilmesine Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-03-08",
+  "gazette_issue": "30354",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180308M1-2.htm",
+  "source_sha256": "0c2658b46813a8d3569080160a6b45626da78185a84ca5c81e978e55653c7d2a",
+  "text_sha256": "db6f7441006a3e31a2b7e0002bd69c74e6eacb15010800eb8e0150dc7e23413c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/03/08/30354-m1-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180308M1-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
