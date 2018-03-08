@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "533",
+  "decision_date": "2018-03-08",
+  "source_id": 26389,
+  "chamber": "6",
+  "ilam_number": "98",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26389/",
+  "source_sha256": "370b8cf8a564b73511e3380bd9f10090b8dd1445f26ba05dab9060e97ac91c98",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
