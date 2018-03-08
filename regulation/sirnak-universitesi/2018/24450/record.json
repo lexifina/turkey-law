@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-03-08",
+      "08.03.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30354",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-03-08",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Şırnak Üniversitesi",
+  "issuer_slug": "sirnak-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sirnak-universitesi/2018/24450",
+  "published": "2018-03-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24450&MevzuatTertip=5",
+  "source_bytes": 23340,
+  "source_id": "8.5.24450",
+  "source_sha256": "fd3933bf7247af679d596a1120e63605fcafae940162b3190815600d8a09a642",
+  "text_status": "as-enacted",
+  "title": "ŞIRNAK ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 345,
+  "word_count": 878
+}
