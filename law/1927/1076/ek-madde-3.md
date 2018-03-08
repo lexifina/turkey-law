@@ -1,0 +1,2 @@
+Ek Madde 3 – (Ek: 1/2/1930 - 1555/5 md.)
+Üçüncü maddede gösterilen tahsil derecesinde olanlardan 9 Kanunuevvel 1927 tarihinden sonra asker edilenler mezkür madde mucibince askerliklerini yaptıklarına dair askerlik şubelerinden vesika getirmedikçe Devlet daireleriyle resmi ve hususi müesseseler ve şirketlere memur sıfatiyle alınamazlar. Bunlardan Devlet daireleriyle resmi ve hususi müessese ve şirketlerde bulunanlar bir sene içinde askerlik şubelerine müracaat ederek vesika almağa ve onları istihdam edenler de bu vesikaları aramağa mecburdurlar.

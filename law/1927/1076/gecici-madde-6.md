@@ -1,0 +1,8 @@
+Geçici Madde 6 – (Ek:12/11/1980 - 2338/3 md.; Değişik: 24/3/1981 - 2440/1 md.)
+Silahlı Kuvvetlerin ihtiyacı olan meslek ve vasıfları haiz yükümlüler hakkındaki 3 üncü madde (d) bendi hükmü saklı kalmak şartı ile 31 Aralık 1980(dahil) tarihine kadar yurt içi veya yurt dışı yükseköğrenim kurumlarından mezun olanlar er olarak askere sevk edilir ve dört aylık temel askerlik eğitimini müteakip terhis edilirler.
+Dört aylık askerlik yükümlülüğünü yerine getirmiş olanlardan yedek subay olmak isteyenler, bu Kanunun 3 üncü maddesine göre seçilirler ve Genelkurmay Başkanlığının tespit edeceği ihtiyaca göre ve uygun göreceği zamanlarda noksan kalan eğitimlerini tamamlayıp başarı gösterenler yedek subay olurlar ve emsalleri gibi terhis edilirler.
+Dört aylık temel askerlik eğitimine tabi olanların sağlık nedeni ile istirahat,hava değişimi ve sağlık kurumlarında tedavi ve müşahadede geçen sürelerinin toplam 30 güne (dahil) kadar olan kısmı muvazzaf hizmetlerinden sayılır.
+Yükümlülerden, genel ve katma bütçeli idarelerle, belediye ve özel idarelerde veya kamu iktisadi teşebbüsleri, teşekkülleri ve müesseselerinde maaşlı veya sözleşmeli veya yevmiyeli veya ücretli olarak görevli bulunanlar ile bu görevlerde aday olarak bulunanlar, temel askerlik eğitimi süresince maaşsız veya ücretsiz veya yevmiyesiz izinli sayılırlar.
+Er olarak terhis edilen yükümlülerin arta kalan muvazzaf hizmet süreleri yedeğe ayrıldıktan sonra yaş haddine iki kat olarak eklenir.
+Bu maddeye tabi yükümlülerin celp ve sevkleri ile buna ilişkin işlemlerine ait diğer hususlar Türkiye Radyoları ve Televizyonu aracılığıyla ilan edilmek suretiyle duyurulur. Bu duyuru yükümlülere tebliğ mahiyetindedir.
+Yoklama kaçağı veya bakaya suçundan mahkum olanlar bu madde hükümlerinden yararlanamazlar.

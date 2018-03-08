@@ -1,0 +1,3 @@
+Geçici Madde 5 – (Ek:27/7/1970 - 1316/2 md.)
+Bu kanunun hükümleri yürürlüğe girdikten sonra yapılacak ilk yedek subay adayı celbinde; Silahlı Kuvvetlerin Subay sınıflarına göre kadro ihtiyacı kadar yedek subay adayı, yedek subay celp tarihinden iki ay önce yoklamasını yaptıranlar arasından çekilecek kur'a ile tespit edilir.İhtiyacın tespitinde; Tabip, Diş Tabibi, Eczacı, Yüksek Mühendis, Mühendis,Yüksek Mimar, Mimar, jeoloğ, Kimyager ve Silahlı Kuvvetlerin ihtiyacı olan diğer meslek ve vasıfları haiz eleman ihtiyacı da dikkate alınarak kur'alar buna göre tanzim olunur.
+Kur'a dışı kalanlar müteakıp celbe bırakılarak haklarında 1076 sayılı Kanunun, bu kanunla değiştirilen 3 üncü maddesi hükümleri uygulanır.

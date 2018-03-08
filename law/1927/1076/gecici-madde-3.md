@@ -1,0 +1,3 @@
+Geçici Madde 3 – (Ek: 27/7/1970-1316/2 md.)
+11/10/1960 tarih ve 97 sayılı Kanunun geçici 2 nci maddesi şümulüne girip de bu kanunun yürürlüğe girdiği tarihte henüz askerlik şubelerinden sevk edilmemiş bulunanlar değerlendirme dışı kalmış kabul edilirler. Bunların yurt savunmasına katkıda bulunması ve savaşta kullanılmaları 1111 sayılı Kanunun değişik 10 uncu maddesi gereğince düzenlenecek kanunla tanzim edilir.
+97 sayılı Kanunun geçici 2 nci maddesi gereğince halen öğretmenlik yapmakta olanlar askeri eğitime tabi tutulmazlar. Bunlardan 18 ayını ikmal edenler yedek teğmen olarak terhis edilirler.

@@ -1,0 +1,1 @@
+Madde 28 – Yedek subay ve memurları bu hüviyetlerini ordu haricinde şerefli bir unvan olarak isim ve meslek ilave edilmemiş kart ve imzalarında istimal edebilirlerse de nüfuzu şahsilerini veya askerlik haricindeki mesleklerinde menfaatlerini temin için istimal edemezler.

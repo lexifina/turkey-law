@@ -1,0 +1,1 @@
+Madde 20 – Umumi ve kısmi seferberlik için çağrılan mülazimlere ve yüzbaşılara bir defaya mahsus olmak üzere elbise ve teçhizat tedariki için tahsisatiyle beraber birer maaş miktarında ikramiye verilir.

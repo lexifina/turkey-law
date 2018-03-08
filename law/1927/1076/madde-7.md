@@ -1,0 +1,4 @@
+Madde 7 – (Değişik: 17/3/1932 - 1933/1 md.)
+Üçüncü maddede yazılı hizmetler esnasında talim ve tahsil devrelerinden her hangi birine kanuni bir mazerete müstenit olarak üçte birinden fazla bir müddet devam edemeyenler terhis edilerek mütaakıp senede devam edemedikleri devrenin tamamına iştirak ettirilir. Ancak devam edilmiyen mezkür müddet devrelerin nihayetine tesadüf eder ve fasılasız olursa mütaakıp sene devresinde yalnız devam edemediği müddetin ikmal ettirilmesiyle iktifa olunur.
+752
+Makbul bir mazereti olmaksızın muhtelif zamanlarda ceman üç ay devamsızlık gösterenler veya suihalleri görülenlerin kanuni cezalarından başka yedek subaylığa namzetlik hakları refedilerek muvazzaf hizmetlerinin mütebakisini sınıfları dahilinde ikmal etmek üzere kıtaata gönderilirler ve devamsızlıkta bulundukları müddet ile ellerindeki askeri ehliyatnamelerin kendilerine kazandırdığı talim ve terbiye müddetleri muvazzaf müddetlerinden sayılmaz.

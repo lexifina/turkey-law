@@ -1,0 +1,2 @@
+Geçici Madde 1 – (Ek: 27/7/1970 - 1316/2 md.)
+Bu kanunun yürürlüğe girdiği tarihten evvel 1076 sayılı Kanun hükümlerine göre yedeksubay adayı seçilenlerden henüz askere sevk edilmiyenlerle halen yedeksubay adayı veya yedeksubay olarak muvazzaflık hizmetini yapmakta olanlardan askerliğe elverişli olmadıklarını iddia edenler yeniden sıhhi muayeneye tabi tutulurlar. Bunlardan Türk Silahlı Kuvvetleri Beden Kabiliyeti Yönetmeliği gereğince askerliğe elverişli olmadıkları anlaşılanlar terhis edilirler ve henüz askere sevk edilmiyenler askere alınmazlar.

@@ -1,0 +1,2 @@
+Hususi vazaif
+Madde 24 – Mesleklerindeki iktidar ve ihtisaslariyle temeyyüz ederek tanınmış olan yedek subay ve memurları Erkanı Harbiyei Umumiye Riyaseti ve Müdafaai Milliye Vekaletinin tasvibiyle seferde lüzum ve ihtiyaç derecesinde askeri fabrikalarda ve askeri ilim ve fen müesseselerinde ve makamatta vazife ve mevkileriyle mütenasip maaşlarla ve kendilerine tahsis kılınacak elbise ile istihdam olunabilirler.

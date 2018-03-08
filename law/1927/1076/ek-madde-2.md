@@ -1,0 +1,3 @@
+Ek Madde 2 – (Ek: 1/2/1930 - 1555/5 md.)
+Üçüncü maddede yazılı derecede tahsili olanlardan 9 Kanunuevvel 1927 tarihinden sonra asker edilmiş ve fakat askerliklerini üçüncü maddeye göre yapmamış olanlar bu kanunun mer'iyete girdiği tarihten itibaren bir sene içinde müracaat ettikleri takdirde altı ay tahsil için yedek subay mektebine sevkolunurlar.
+Bunların tahsilde muvaffak olanları yedek subay vekilliği ile olmıyanları da ihtiyat çavuşluğu ile terhis edilirler. Bu mühlet bittikten sonra meydana çıkanlarla tahsillerini gizliyerek fiili hizmetlerini bu kanuna göre yapmamış olanlar ele geçirildiklerinde yeniden üçüncü madde hükmüne tabi tutulurlar.

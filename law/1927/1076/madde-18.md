@@ -1,0 +1,1 @@
+Madde 18 – Yedek subay ve memurlarından seferde ordudaki vazifelerini ifa ederek, terhis edilenler, memursalar ordudaki hizmetleri kendi memuriyetindeki kıdemlerine zammedilir ve meslek ve memuriyeti sabıkalarına veya muadillerine alınır. Hazarda ordudaki vazaifi ifa edip terhis edilenler meslek ve memuriyeti sabıkalarında istihdam edilirler. (1)

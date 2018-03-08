@@ -1,0 +1,1 @@
+Madde 13 – Seferberliğin ilanında veya manevra ve saire için celp puslası alındıktan sonra raporla gösterilmiş had hastalıklarla rüküp ve nüzule iktidar bırakmıyan zafiyet gibi lüzumu sıhhiye müstenit hastalıklar müstesna olmak üzere malüliyet iddiasında bulunanların müracaatları vazifelerine başlamadıkça nazarı dikkate alınmaz.
