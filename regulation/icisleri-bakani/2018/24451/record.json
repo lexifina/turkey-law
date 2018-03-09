@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.24451",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "JANDARMA GENEL KOMUTANLIĞI TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "24451",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2018/24451",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24451&MevzuatTertip=5",
+  "source_sha256": "1a715efc6d64f1faedef4d4ad246fb4026da3c09f84d006129e29af13a32ef04",
+  "source_bytes": 127031,
+  "published": "2018-03-09",
+  "gazette": "30355",
+  "in_force": "2018-03-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.03.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6606,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
