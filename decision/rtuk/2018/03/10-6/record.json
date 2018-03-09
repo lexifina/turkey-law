@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2018/10",
+  "meeting_date": "2018-03-09",
+  "meeting_date_as_published": "9.3.2018",
+  "decision_no": "6",
+  "source_id": 10249,
+  "title": "RTÜK kararı 2018/10-6",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/10249",
+  "source_sha256": "4248f0516474f9cfea9aeaf6bcdaa67eff630dd814c77284843aeb7a56b6ff80",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (14 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
