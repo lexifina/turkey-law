@@ -1,0 +1,1 @@
+Madde 11 — ERSEM Koordinasyon Grupları, ERSEM’in amaç ve ilkeleri doğrultusunda yapmayı düşündükleri eğitim faaliyetlerini görüşüp ERSEM Yönetim Kuruluna uygulanması için yazılı olarak teklif ederler.

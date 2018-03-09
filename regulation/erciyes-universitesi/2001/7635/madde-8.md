@@ -1,0 +1,2 @@
+Madde 8 — (Değişik:R.G.-27/2/2008-26800)
+ERSEM Müdürü; ERSEM Yönetim Kurulunun aldığı kararları ve hazırladığı çalışma programını uygular, fakülte, enstitü, yüksekokul ve Rektörlüğe bağlı bölüm başkanlıklarındaki ERSEM koordinasyon grupları ile işbirliği ve koordinasyonu sağlar. ERSEM’in amaçları doğrultusunda, projeler hazırlar veya hazırlatır, ihalelere katılır yada ERSEM’in ihalelere katılımını sağlar, sözleşmeler yapar. Her faaliyet dönemi sonunda bir faaliyet raporu hazırlar ve bu raporu, ERSEM Yönetim Kurulunda görüşüldükten sonra Rektörlüğe sunar.
