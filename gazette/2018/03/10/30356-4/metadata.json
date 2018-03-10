@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-03-10",
+  "issue": "30356",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2018/16)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180310-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180310.htm",
+  "index_sha256": "71d2cf2c4b9a57cae948623f9ce90373dbdc90b7a00d56542989b06898e9271b",
+  "index_header": "10 Mart 2018 ... 30356 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180310.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "72f56ef642a2746f01b8b20df0311709be27d7cd847853a71d7cdc6687bce4f2",
+  "text_status": "text.txt as published"
+}
