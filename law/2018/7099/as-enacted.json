@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7099",
+  "year": 2018,
+  "title": "Yatırım Ortamının İyileştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-03-10",
+  "gazette_issue": "30356",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180310-9.htm",
+  "source_sha256": "acee5e16d3c5de0e66df8f89d804485276683330c4adba044b01fdb748411ec2",
+  "text_sha256": "1c1ee2aaf3c537fe5af54594f8669f29f6359d2840bc8268a0111212b5b2503b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/03/10/30356-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180310-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
