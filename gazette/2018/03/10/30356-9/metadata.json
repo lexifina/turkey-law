@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-03-10",
+  "issue": "30356",
+  "edition": "regular",
+  "item": 9,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7099 Yatırım Ortamının İyileştirilmesi Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180310-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180310.htm",
+  "index_sha256": "71d2cf2c4b9a57cae948623f9ce90373dbdc90b7a00d56542989b06898e9271b",
+  "index_header": "10 Mart 2018 ... 30356 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180310.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
