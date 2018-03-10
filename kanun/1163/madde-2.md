@@ -1,5 +1,5 @@
-B) Kuruluş, muteberlik şartları, isim kullanma yetkisi :
-Madde 2 – Bir kooperatif en az 7 ortak tarafından imzalanacak ana sözleşme ile kurulur. Ana sözleşmedeki imzaların noterce onaylanması gerekir.
+B) Kuruluş, muteberlik şartları, isim kullanma yetkisi:
+Madde 2 – (Değişik: 15/2/2018-7099/7 md.) Bir kooperatif en az 7 ortak tarafından imzalanacak anasözleşme ile kurulur. Anasözleşmenin ticaret sicili müdürlüğünde yetkilendirilmiş personel huzurunda imzalanması gerekir. İlgili Bakanlık faaliyet konuları itibarıyla kooperatifleri sınıflandırmaya, çalışma bölgeleri oluşturmaya, kooperatif kuruluşu için asgari ortak sayısından az olmamak üzere ortak sayısı ve kooperatif kurulmasına yönelik diğer şartlar ile usul ve esasları belirlemeye yetkilidir. Bu maddenin uygulanmasına ilişkin usul ve esaslar ilgili Bakanlık tarafından çıkarılacak tebliğ ile belirlenir.
 Yapı kooperatifleri ile konusuna taşınmaz mal temliki dahil bulunan diğer kooperatiflerin anasözleşmelerinde ortaklara taşınmaz mal temlik edileceği hakkındaki taahhütler başka bir resmi şekil aranmaksızın muteberdir.
 Sermaye miktarı sınırlandırılarak kooperatif kurulamaz. Kooperatif adını ancak bu kanuna göre kurulmuş teşekküller kullanabilir.
-(Ek: 6/10/1988 - 3476/1 md.) Kooperatifler ve üst kuruluşlarının unvanlarında, kamu kurum ve kuruluşlarının isimlerine yer verilemez.
+(Ek: 6/10/1988-3476/1 md.) Kooperatifler ve üst kuruluşlarının unvanlarında, kamu kurum ve kuruluşlarının isimlerine yer verilemez.

@@ -1,3 +1,2 @@
-MADDE 431- (1) 428 inci maddenin birinci ve ikinci fıkralarında öngörülen temsilciler ile tevdi eden temsilcileri, kendileri tarafından temsil olunacak payların sayılarını, çeşitlerini, itibarî değerlerini ve gruplarını şirkete bildirirler. Bu bildirimde, Sermaye Piyasası Kanununun 10/A maddesi uyarınca kayden izlenen paylarla ilgili olarak bu Kanunun 417 nci maddesinin beşinci fıkrasındaki tebliğ hükümleri de uygulanır. Aksi hâlde, o genel kurulda alınan kararlar, genel kurula yetkisiz katılmaya dair hükümler çerçevesinde iptal edilebilir. (1)
-(2) Toplantı başkanı bu bildirimleri açıklar. Bir pay sahibinin istemine rağmen toplantı başkanı açıklamayı yapmamışsa her pay sahibi şirkete karşı açacağı dava ile genel kurul kararlarının iptalini isteyebilir.
+MADDE 431- (Mülga: 15/2/2018-7099/23 md.)
 4. Birden çok hak sahibi
