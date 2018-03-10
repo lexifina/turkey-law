@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24455",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERİ SORUMLUSUNA BAŞVURU USUL VE ESASLARI HAKKINDA TEBLİĞ",
+  "number": "24455",
+  "issuer": "Kişisel Verileri Koruma Kurumu Başkanı",
+  "path": "teblig/2018/24455",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24455&MevzuatTertip=5",
+  "source_sha256": "91ac95e086dfad80672008fa3c6405f4e5415f421ba3c8d31116d338bd2d6646",
+  "source_bytes": 19290,
+  "published": "2018-03-10",
+  "gazette": "30356",
+  "in_force": "2018-03-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.03.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 671,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
