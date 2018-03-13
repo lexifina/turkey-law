@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "129",
+  "decision_date": "2018-03-13",
+  "source_id": 26545,
+  "chamber": "8",
+  "ilam_number": "116",
+  "item_number": 15,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26545/",
+  "source_sha256": "36e3e15b93e803c3552577dd5e5db6fac7f18c839e34a6a6cabf4c5a9ec8644a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
