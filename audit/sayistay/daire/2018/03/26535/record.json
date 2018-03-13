@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "129",
+  "decision_date": "2018-03-13",
+  "source_id": 26535,
+  "chamber": "8",
+  "ilam_number": "116",
+  "item_number": 5,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26535/",
+  "source_sha256": "eee739f0f01a10d1fc2216afd83602b551406021164f777b256a1398abcdc7d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
