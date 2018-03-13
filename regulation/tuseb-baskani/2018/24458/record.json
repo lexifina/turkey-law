@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.24458",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE SAĞLIK ENSTİTÜLERİ BAŞKANLIĞI STRATEJİK ARAŞTIRMA VE GELİŞTİRME PROJELERİNİ DESTEKLEME YÖNETMELİĞİ",
+  "number": "24458",
+  "issuer": "TÜSEB Başkanı",
+  "issuer_slug": "tuseb-baskani",
+  "path": "regulation/tuseb-baskani/2018/24458",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24458&MevzuatTertip=5",
+  "source_sha256": "6202a340319dd9585efae4551d3d10ceececf23c9f202beed88c20389a97af7e",
+  "source_bytes": 48948,
+  "published": "2018-03-13",
+  "gazette": "30359",
+  "in_force": "2018-03-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.03.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2813,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
