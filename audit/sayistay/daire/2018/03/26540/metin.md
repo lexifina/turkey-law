@@ -1,0 +1,29 @@
+Kira Artış Oranının Hatalı Uygulanması:
+
+… Müdürlüğü tarafından …’dan kiralanan …’deki depoya ait yıllık kira bedelinin, Maliye Bakanlığının 2009-1 sayılı Kamu İdarelerinin Taşınmaz Kiralamalarına İlişkin Genelgesine aykırı olarak ÜFE oranının üzerinde artırılması konusuna ilişkin olarak;
+
+Taraflar arasında 15.01.2012 tarihinde imzalanan kira sözleşmesinde; bir önceki yıl kira bedelinin, TEFE-TÜFE ortalamasına göre artırılacağının belirlendiği, görülmüştür.
+
+08.10.2009 tarihli ve 27370 sayılı Resmi Gazetede yayımlanan Maliye Bakanlığının 2009-1 sayılı Kamu İdarelerinin Taşınmaz Kiralamalarına İlişkin Genelgesinin “1-Kira Artış Oranı” başlıklı bölümünde aynen;
+
+“(1) Daha önceki yıllarda kiralanmış olup da, sonraki yıllarda kiralanmasına devam edilecek taşınmazların kira bedeli, Türkiye İstatistik Kurumunca artışın yapılacağı ayda yayımlanan Üretici Fiyatları Endeksi (ÜFE bir önceki yılın aynı ayına göre yüzde değişim oranı) oranını geçmeyecek şekilde artırılacaktır. Ancak sözkonusu oranın kiralamanın yenileneceği ayda negatif çıkması halinde kira bedelinde herhangi bir değişiklik yapılmayacaktır.
+
+…” denilmektedir. Söz konusu mevzuat hükmüne göre kamu kurumlarının taşınmaz kiralamalarında, kira bedelinin ÜFE (ÜFE bir önceki yılın aynı ayına göre yüzde değişim oranı) oranını geçmeyecek şekilde artırılması gerekmektedir. Kira sözleşmelerinde kira artışının farklı oranlarda yapılacağına ilişkin hüküm konulması halinde kamu zararı ortaya çıkabilecektir. Nitekim, … Müdürlüğü tarafından kiralanan depoya ait kira sözleşmesinde, yıllık kira bedelinin TEFE-TÜFE ortalamaları oranında artırılacağı şeklinde bir hükme yer verilmiş olması dolayısıyla kamu zararının doğduğu görülmüştür.
+
+Sorumlular savunmalarında; 6098 sayılı Türk Borçlar Kanununun kira bedelinin, ÜFE oranını geçmeyecek şekilde artırılacağına ilişkin 344’üncü maddesinin, 01.07.2020 tarihine kadar uygulanmasının ertelendiğini ve bu halde, sözleşme serbestisi gereği kira sözleşmesi hükümlerinin tatbik olunacağını ileri sürmüş olsalar da;
+
+Maliye Bakanlığının 2009-1 sayılı Kamu İdarelerinin Taşınmaz Kiralamalarına İlişkin Genelgesi, 08.10.2009 tarihinden bu yana yürürlükte olduğundan, Borçlar Kanununun 344’üncü maddesinin uygulanmasının ertelenmesi halinde, Genelge hükmünün geçerli olacağı sonucuna varılmıştır. Dolayısıyla kamu idarelerinin taşınmaz kiralamalarına ilişkin sözleşmelere Genelgeye aykırı hükümler konulamayacağı açıktır.
+
+Raporda Denetçi tarafından yapılan tabloda; kira artışının yapıldığı Ocak ayına ait ÜFE oranı esas alınarak kamu zararının hesaplandığı görülmüştür. Oysa söz konusu Genelgede “artışın yapılacağı ayda yayımlanan ÜFE oranı” nın esas alınacağı belirtildiğinden, kira artışının yapıldığı Ocak ayında yayımlanmış olan Aralık ayı ÜFE oranı kullanılarak kamu zararının hesaplanması gerekmektedir. Yargılama esnasında bu husus göz önüne alınarak yeniden yapılan hesaplamada kamu zararı tutarı … TL olarak bulunmuştur. Söz konusu kamu zararından, mevcut kira sözleşmesini feshetme yetkisi olduğu halde feshetmeyen, Harcama Yetkilisi (…) ile Gerçekleştirme Görevlisinin (…) sorumlu oldukları anlaşılmıştır.
+
+Bu itibarla, … Müdürlüğü tarafından …’de kiralanan deponun yıllık kira bedelinin, ÜFE oranının üzerinde artırılması sonucu … TL tutarında oluştuğu iddia edilen kamu zararının; …TL’si için kamu zararı oluşmadığından ilişilecek husus bulunmadığına, arta kalan … TL tutarındaki kamu zararının;
+
+… TL’sinin Harcama Yetkilisi … (Müd. Yard.) ile Gerçekleştirme Görevlisi … (İd. Mali ve Sos. İşl. Şube Müd.)’a,
+
+… TL’sinin ise Harcama Yetkilisi … (Müd. Yard.) ile Gerçekleştirme Görevlisi … (Şube Müd. Yard.)’e müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanununun 53’üncü maddesi gereği işleyecek faizleri ile ödettirilmesine,
+
+(Üye … ile Üye…’nun; “04.02.2011 tarihli ve 27836 sayılı Resmi Gazetede yayımlanan 6098 sayılı Türk Borçlar Kanununun “A. Uygulama alanı” başlıklı 339’uncu maddesinde; Kamu kurum ve kuruluşlarının, hangi usul ve esaslar içinde olursa olsun yaptıkları bütün kira sözleşmelerine Kanunun konut ve işyeri kiralamaya ilişkin hükümlerinin uygulanacağı belirtilmektedir.
+
+Aynı Kanunun “E. II. Kira Bedeli Belirlenmesi” başlıklı 344’üncü maddesinde ise; “Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmaları, bir önceki kira yılında üretici fiyat endeksindeki artış oranını geçmemek koşuluyla geçerlidir. Bu kural, bir yıldan daha uzun süreli kira sözleşmelerinde de uygulanır.” denilmektedir.
+
+Bu hükümlere göre kamu kurumlarının taşınmaz kira sözleşmelerinde Borçlar Kanunu hükümlerinin tatbik olunacağı açıktır. Ancak 12.07.2012 tarihinde yürürlüğe giren 6353 sayılı Kanunun 53’üncü maddesi ile değişik 6217 sayılı Yargı Hizmetlerinin Hızlandırılması Amacıyla Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun Geçici 2’nci maddesinde; “Kiracının Türk Ticaret Kanununda tacir olarak sayılan kişiler ile özel hukuk ve kamu hukuku tüzel kişileri olduğu işyeri kiralarında, 11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanununun 323, 325, 331, 340, 342, 343, 344, 346 ve 354 üncü maddeleri 1/7/2012 tarihinden itibaren 8 yıl süreyle uygulanmaz. Bu halde, kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümleri tatbik olunur. Kira sözleşmelerinde hüküm olmayan hallerde mülga Borçlar Kanunu hükümleri uygulanır.” denilmektedir. Dolayısıyla Borçlar Kanununun kira artışının ÜFE oranını geçmeyeceği şeklinde düzenlemeyi içeren 344’üncü maddesinin, kamu kurumlarının işyeri kiralamalarında 01.07.2020 tarihine kadar geçerli olmayacağı, bu durumda sözleşme serbestisi gereği kira sözleşmesi hükümlerinin geçerli olacağı anlaşıldığından, taraflarca imzalanan kira sözleşmesine istinaden yapılan kira artışları konusunda ilişilecek husus bulunmamaktadır.” şeklindeki ayrışık görüşlerine karşın) oy çokluğuyla, karar verildi.
