@@ -1,0 +1,20 @@
+{
+  "applicant": "D.M.Ç.",
+  "application_date": "2014-10-27",
+  "application_number": "2014/16941",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2018-01-24",
+  "id": "1c6c91cc-9812-fef6-bcf0-0f959e23530b",
+  "in_force": "2018-03-13",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2018-03-13",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjFjNmM5MWNjLTk4MTItZmVmNi1iY2YwLTBmOTU5ZTIzNTMwYg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "b9f18b82f1e410495a1124bfa6af0d2df1d4e020ec8e70841c758ead3818a981",
+  "version_label": "as-enacted"
+}
