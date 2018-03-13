@@ -1,0 +1,24 @@
+{
+  "number": "46",
+  "number_as_published": "2018/03/46",
+  "year": 2018,
+  "title": "Denetim ve Toplu Taşıma Şube Müdürlüğü’nün 09.03.2018 tarih ve 275 sayılı yazısında belirtilen Denizli Büyükşehir Belediyesi Ulaşım Sanayi Ticaret A.Ş.’nin 27.02.2018 tarih ve 2018/091 sayılı yazısında 7/2 ve 7 Nolu Denetimli Halk Otobüs Güzergâhının revize edilmesi talebi",
+  "decision_date": "2018-03-13",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=03.2018",
+  "official_document": null,
+  "source_sha256": "7aafc8b406cd13c9effb2c24d72fd1488901f55faba6b16df541fa07d5a9c949",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2018-03-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.03.2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "03",
+  "listed_subjects": 1
+}
