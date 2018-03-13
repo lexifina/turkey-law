@@ -1,0 +1,24 @@
+{
+  "number": "100",
+  "number_as_published": "100",
+  "year": 2018,
+  "title": "NAZIM İMAR PLANI(EYYÜBİYE-ALTIN)",
+  "decision_date": "2018-03-13",
+  "source": "https://www.sanliurfa.bel.tr/icerik/5994/106/nazim-imar-planieyyubiye-altin",
+  "official_document": null,
+  "source_sha256": "79fce4ffc0d09bc698d51f8e844225d1165d27485280544a64e4a4e1e5acbe77",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2018-03-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.03.2018 tarih ve 100 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2018-04-20",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
