@@ -1,0 +1,4 @@
+Madde 141 – (26/4/1961 tarih ve 298 sayılı Kanunun hükmüdür.)
+Bu kanunla görevlendirilmiş oldukları halde,belli süre içinde ve şekillerine uygun olarak seçmen kütüklerini veya bunlara mütaallik evrak ve vesikaları gereği gibi düzenlemiyen veya muhafaza etmiyenler üç aydan iki yıla kadar hapis cezası ile cezalandırılırlar.
+Bu fiiller kayıtsızlık veya gereken dikkat ve itinanın gösterilmemesi sonucu husule gelmiş ise bir aydan altı aya kadar hapis cezası hükmolunur.
+Yukarıda yazılı fiil ve hareketler yüzünden her hangi bir bölgede, seçmen kütüklerinin veya sandık seçmen listelerinin yazılması veya bu sebeple seçmenlerin oy vermesi imkansız hale gelmiş ise, birinci fıkrada yazılı halde bir seneden iki seneye kadar, ikinci fıkrada yazılı halde de altı aydan iki seneye kadar hapis cezası hükmedilir.

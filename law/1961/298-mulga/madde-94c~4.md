@@ -1,0 +1,1 @@
+Madde 94/C – altıncı fıkra - (13/3/2008 tarihli ve 5749 sayılı Kanunun hükmüdür.) Seçmen oy vermek için geldiğinde Türkiye Cumhuriyeti kimlik numarasını taşıyan nüfus hüviyet cüzdanını veya pasaportunu sandık kurulu başkanına tevdi eder. Oy verme işlemi genel esaslara göre tamamlanır.

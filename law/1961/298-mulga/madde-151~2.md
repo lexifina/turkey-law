@@ -1,0 +1,2 @@
+Madde 151 – (25/8/1961 tarih ve 356 sayılı Kanunun hükmüdür.)
+Oy verme gününden önceki günün saat 18 inden sonra ve oy verme gününde umumi veya umuma açık yerlerde seçim propagandası için toplantı veya propaganda yapanlar veya bu maksatla yayınlarda bulunanlar veya her ne suretle olursa olsun seçimin düzenini bozabilecek veya oy vermenin tam bir serbestlikle yapılmasına tesir edebilecek mahiyette söz, yazı veya sair suretlerle propagandayapanlar veya asılsız şayialar çıkaranlar bir aydan altı aya kadar hapis ceza– siyle cezalandırılırlar.

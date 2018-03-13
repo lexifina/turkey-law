@@ -1,0 +1,2 @@
+Geçici Madde 9 – (16/8/1961 tarihli ve 347 sayılı Kanunun hükmüdür.)
+Geçici 5 inci madde gereğince sandık seçmen listelerinin askıya çıkarılmasında 298 sayılı kanunun 41 inci maddesinin birinci fıkrası uygulanmakla beraber, Yüksek Seçim Kurulu tarafından, Türkiye radyoları vasıtasiyle, haber yayınları saatlerinde ve başka uygun saatlerde gerekli bildiriler de yayınlanmak suretiyle halkın ilgisi uyandırılır. Yüksek Seçim Kurulunun seçimlerle ilgili her türlü bildirilerinden Türkiye radyolarınca ücret alınmaz.

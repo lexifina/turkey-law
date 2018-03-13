@@ -1,0 +1,4 @@
+Madde 77 – (26/4/1961 tarih ve 298 sayılı Kanunun hükmüdür.)
+Sandık kurulu başkanı, oy verme işlerine başlamadan önce, sanığın boş olduğunu hazır bulunan sandık kurulu üyeleri ile müşahitler önünde tesbit ederek sandığı kapatır, mühür bozulmadan açılamıyacak şekilde sandık mührü ile mühürler.
+Sandık kurulu, and içme, sandığı yerleştirme, kapalı oy verme yerini düzenleme işlerini bitirdikten sonra, hazır bulunanlar önünde, ilçe seçim kurulubaşkanından teslim alınan ve ilçe seçim kurulu başkanlığı mührünü taşıyan özel zarfları sayar, her birinin üzerine, sandık kurulu mührünü basar, böylece üzerinde biri ilçe seçim kurulunun, diğeri sandık kurulunun mühürleri bulunan çift mühürlü özel zarfların sayısını tesbit eder.
+Sandık kurulu, bu madde gereğince yaptığı işlemleri tutanak defferine geçirip imzalar.

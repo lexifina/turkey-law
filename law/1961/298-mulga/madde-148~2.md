@@ -1,0 +1,1 @@
+Madde 148 – fıkra bir - (17/5/1979 tarihli ve 2234 sayılı Kanunun hükmüdür.) Tamamen veya kısmen sahte seçmen kütüğü veya seçmen listesi tanzim eden veya bozan veya çalan veya yok eden kimse, üç yıldan aşağı olmamak üzere ağır hapis cezası ile cezalandırılır.

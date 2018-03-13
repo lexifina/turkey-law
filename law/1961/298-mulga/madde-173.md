@@ -1,0 +1,4 @@
+Kovuşturma ve soruşturma zamanı:
+Madde 173 – (26/4/1961 tarihli ve 298 sayılı Kanunun hükmüdür.)
+Seçim işleriyle görevlendirilenlerin oy verme günü ile bundan önceki yirmi dört saat içinde işledikleri bu kanunda yazılı seçim suçlarından ötürü bağlı bulundukları kurullarca düzenlenmesi gereken seçim tutanaklarının tanzim edildiğinin ertesi günü kovuşturma ve soruşturma yapılır.
+Bu müddet içinde ağır cezayı gerektiren suçlarla infazı muktazi hükümler ve merciinden sadır olmuş tevkif kararları ve 3005 sayılı kanun hükümleri gereğince asliye mahkemelerinin görevine giren ve delillerin kaybolması gibi sebeplerle gecikmesinde mazarrat umulan cürümlerden başka hiçbir sebepten dolayı bir seçmen hakkında kovuşturma ve soruşturma yapılamaz ve oy verme günü ile ondan önceki üç gün içerisinde seçmenin hürriyetini ve oy verme imkanını kaldıracak veya tahdid edecek idari ve mali hiçbir tedbir alınamaz.

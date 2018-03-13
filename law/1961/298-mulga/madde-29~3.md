@@ -1,0 +1,6 @@
+Seçmen Kütüğü Genel Müdürlüğü çalışma amaç ve ilkeleri:
+Madde 29 – (17/5/1979 tarihli ve 2234 sayılı Kanunun hükmüdür.)
+Seçmen Kütüğü Genel Müdürlüğü kuruluşunun çalışma amacı; yasalara uygun olarak seçmen vatandaşın eksiksiz belirlenmesini, mükerrer yazımın önlenmesini, seçmenin kolay, hızlı, doğru oy vermesini, seçimin çabuk sonuçlanmasını, mükerrer oy kullanan seçmenlerin tespitini, vatandaşların görev ve sorumluluklarına uygun siyasal haklarını yüksek oranda kullanmalarını sağlayacak bilginin; toplanması, düzenlenmesi, saklanması, işlenmesi, kullanılır hale getirilmesi ve gerekli yerlere ulaştırılmasını ve dağıtımını sağlamaktır.
+Seçmen Kütüğü Genel Müdürlüğü; çalışmalarını, proje, program, raporlama ve gelişmiş yönetim tekniklerine uygun olarak Yüksek Seçim Kurulunca tespit edilen ilkeler içinde yürütür. Genel Müdür, Yüksek Seçim Kurulunca onaylanan programına uygun, aylık ve haftalık raporlarla çalışmalarını Yüksek Seçim Kuruluna sunar.
+Genel Müdürlüğün denetleme ilke ve yöntemi, Yüksek Seçim Kurulunca belirlenir ve uygulanır.
+Yüksek Seçim Kurulunca; seçmen kütüğünün önemi, düzenleme yöntemleri, seçmenlerin görevleri, bu çalışmanın vatandaşa ve devlet hayatına katkı ve yararları, bu çalışmada uygulanan teknikler ve gerekli bilgiler; bütün ülke ve vatandaşları kapsayan, sürekli tanıtma programları ile yaygınlaştırılır.

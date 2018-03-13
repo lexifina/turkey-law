@@ -1,0 +1,2 @@
+Geçici Madde 6 – (16/8/1961 tarihli ve 347 sayılı Kanunun hükmüdür.)
+Geçici 5 inci madde gereğince kütüğe ilave edilen seçmenler sandık mevcudunun (400) ü aşmaması şartiyle o seçim bölgesindeki sandıkların evvelce düzenlenmiş sandık seçmen listelerine eklenir. Bu işlem yapılırken bir sandık bölgesinde yeniden yazılan seçmenlerin o sandığa ait seçmen listesine eklenmesine dikkat edilir. Gerekirse yeniden yazılan seçmenler için ayrı sandık bölgeleri kurulur.

@@ -1,0 +1,1 @@
+Madde 94/E – onbirinci fıkra - (13/3/2008 tarihli ve 5749 sayılı Kanunun hükmüdür.) Seçimin yapıldığı gün saat 17:00’dan itibaren sandık ve torbalar genel esaslara uygun bir şekilde açılarak sayım ve dökümü yapılır ve sonucu Yüksek Seçim Kuruluna en seri vasıtayla bildirilir.

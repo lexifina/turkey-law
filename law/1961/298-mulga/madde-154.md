@@ -1,0 +1,5 @@
+Madde 154 – (26/4/1961 tarih ve 298 sayılı Kanunun hükmüdür.)
+Özel kanunların adaylık koyma hususunda kabul ettiği esas ve şekillere uymaksızın adaylıklarını koyan memurlar ve yargıçlarla, adaylığını koymak için ordudan ayrılma isteğinde bulunmuş ve bu istekleri kabul edilmiş olmasına rağmen her hangi bir sebeple görevinden fiilen ayrılmadan veya resmi elbiseyle propaganda yapan veya bu mahiyette her hangi bir harekette bulunan subaylar, askeri memurlar ve astsubaylar iki yüz elli liradan bin liraya kadar ağır para cezasiyle cezalandırılırlar.
+Yargıç ve yargıç sınıfından sayılanlarla, askeri şahıslar ve bu kanunun 62 nci maddesinin ikinci fıkrasında yazılı memur ve hizmetlilerin, özel kanunlarına göre ilan olunan seçimin başlangıç tarihinden oy vermenin sona ermesine kadar bir siyasi parti veya bağımsız adayların leh veya aleyhinde propaganda yapmaları veya her hangi bir suretle telkin ve tesirde bulunmaları halinde de yukarıki fıkra hükmü uygulanır.
+686
+63 üncü maddede yazılı yasaklara uymıyanlar üç aydan bir seneye kadar hapis cezasiyle cezalandırılırlar.

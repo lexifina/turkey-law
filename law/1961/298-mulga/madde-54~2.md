@@ -1,0 +1,2 @@
+Madde 54 – (26/6/1973 tarih ve 1783 sayılı Kanunun hükmüdür.)
+Yüksek Seçim Kurulu, Radyolarda yayım için müracaat eden partiler arasında,bunların birer temsilcisi ile,Türkiye Radyo - Televizyon Kurumu temsilcilerinin önünde ad çekerek, yayım zaman ve sıralarını tayin eder. Bu ad çekme, oy verme gününden en az 20 gün önce yapılır. Radyo yayımlarının başlangıç saati, partilerin sayısı ve en uygun dinleme imkanları gözönüne alınarak Yüksek Seçim Kurulunca kararlaştırılır. Radyo yayımları en geç saat 21.30 a kadar devam eder.

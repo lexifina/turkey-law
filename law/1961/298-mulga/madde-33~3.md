@@ -1,0 +1,1 @@
+Madde 33 – fıkra bir - ( 17/5/1979 tarihli ve 2234 sayılı Kanunun hükmüdür.) Seçmen kütüğü; her dört yılda bir yeniden düzenlenir, sürekli bilgi toplama ve her iki yılda bir genel denetleme ile güncelleştirilir.

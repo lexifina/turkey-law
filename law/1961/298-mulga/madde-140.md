@@ -1,0 +1,2 @@
+Madde 140 – (26/4/1961 tarih ve 298 sayılı Kanunun hükmüdür.)
+Seçmen kütüklerinin düzenlenmesine esas teşkil edecek olan krokilerle, binalar cetvelini ilçe seçim kurulu başkanınca bildirilen süre içinde düzenliyerek vermiyenler veya kroki ve binalar cetvellerini seçmen kütüklerinin düzenlenmesine elverişli bir şekilde yapmıyanlar hakkında fiillerinin mahiyetine ve bu hareketlerinin ortaya koyduğu güçlüklerin derecesine göre Türk Ceza Kanununun 240 ıncı ve 230 uncu maddelerinde yazılı cezalar altıda birden üçte bire kadar artırılarak hükmedilir.

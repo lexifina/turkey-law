@@ -1,0 +1,2 @@
+Madde 78 – İkinci fıkra: (8/4/2010 tarihli ve 5980 sayılı Kanunun hükmüdür.) Oy zarfları, her seçim için ayrı renkte, eni 15 santimetre, boyu 21 santimetre olacak şekilde, Yüksek Seçim Kurulunca hazırlatılır. Oy zarflarının ön yüzünün sol üst köşesinde 4x4 santimetre ebadında Türkiye Cumhuriyeti Yüksek Seçim Kurulu amblemi bulunur. Yüksek Seçim Kurulu zorunlu hallerde bu maddenin amacına uygun biçimde oy zarflarının standartlarında gerekli değişiklikleri yapabilir.
+694-29

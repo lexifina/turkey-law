@@ -1,0 +1,2 @@
+Madde 5 – İkinci fıkra: (28/12/1993 tarihli ve 3959 sayılı Kanunun hükmüdür.) Bir sandık bölgesi esas itibariyle köylerde (200), kasaba ve şehirlerde (150) seçmeni kapsar. Birden çok mahalle veya semt gibi toplu yerleşim birimlerinden oluşan muhtarlıklar, her birinde yukarıdaki seçmen sayılarının varlığı aranmaksızın, mesafe durumu ve ulaşım güçlükleri dikkate alınarak, gereken sayıda sandık bölgesine ayrılabilir.
+694-28

@@ -1,0 +1,3 @@
+Madde 133 – (26/4/1961 tarih ve 298 sayılı Kanunun hükmüdür.)
+Hileli faaliyetlerle veya herhangi bir şekil ve surette cebir veya şiddet kullanarak veya tehdit ederek, bu kanunda yazılı kurulların toplanmalarına veyag örevlerinin ifasına mani olanlar, bir yıldan aşağı olmamak üzere hapis ve beş yüz liradan iki bin beş yüz liraya kadar ağır para cezası ile cezalandırılır.
+Yukarıki fıkrada yazılı fiiller, silahla işlenirse, verilecek hapis cezası üç yıldan aşağı olamaz. Bu fiiller, içlerinden en az biri silahlı olan üç kişi tarafından ittifak edilerek işlendiği veyahut aralarında ittifak olmasa bile içlerinden en az ikisi silahlı bulunan üçten fazla kimseler tarafından yapıldığı takdirde beş yıldan aşağı olmamak üzere ağır hapis cezası hükmolunur.

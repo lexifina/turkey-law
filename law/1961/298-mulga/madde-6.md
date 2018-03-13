@@ -1,0 +1,31 @@
+10 – 23/5/1987 tarih ve 3377 sayılı Kanun ile yürürlüktün kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 6, 34, 52, 94)
+Madde 6 – (26/4/1961 tarih ve 298 sayılı Kanunun hükmüdür.)
+Yirmibir yaşını bitiren her Türk seçmendir.
+Madde 34 fıkra üç – (17/5/1979 tarih ve 2234 sayılı Kanunun hükmüdür.)
+298 sayılı Kanunun uygulanmasında, herkes, nüfus kütüğünde doğduğu ay ve günün yazılmış olup olmadığına bakılmaksızın, nüfus kütüğünde gösterilen doğum yılının son günü doğmuş gibi işleme tabi tutulur.
+Madde 52 fıkra iki – (28/3/1986 tarih ve 3270 sayılı Kanunun hükmüdür.)
+Bu konuşmalardan;
+a) Seçime katılan siyasi partilere ilk gün 20, son gün 10 dakikayı aşmamak üzere iki konuşma hakkı,
+b) Mecliste grubu olan siyasi partilere 10'ar dakikalık iki konuşma hakkı,
+c) Mecliste temsil edilen siyasi partilere 10'ar dakikalık bir konuşma hakkı, Verilir.
+d) (19/2/1987 tarih ve 3330 sayılı Kanunun hükmüdür.) Yukarıdaki bentlerde belirtilen konuşmaların yapıldığı günlerin dışında seçimlere katılan siyasi partiler TRT kurumunca usulüne göre tespit edilen reklam tarifelerine göre bedelini peşin ödemek şartıyla birinci fıkrada belirtilen tarihler arasında herbiri bir dakikadan az olmamak ve toplam süresi kırkbeş dakikayı geçmemek üzere ilave konuşma yapabilirler. Siyasi partiler bu ilave konuşmalarını, ayrı zamanlarda yayınlanmak üzere televizyonun birden fazla kanalına dağıtabilirler. Ancak, bir kanalda günde birden, toplam olarak da altıdan fazla konuşma yapılamaz. Siyasi partiler bu bent gereğince yayınlanacak propaganda konuşmalarında, yaptıkları ve yapacakları icraatı görüntülü olarak da verebilirler. Ancak, bu görüntülerde diğer partilere sataşma ve hakaret kastı bulunamaz.
+Fıkra 8 – (19/2/1987 tarih ve 3330 sayılı Kanunun hükmüdür.) Oy verme gününden önceki yirmibirinci günden itibaren oy verme gününden önceki gün saat 18.00'e kadar TRT haber bültenlerinin siyasi partilerin seçim çalışmalarıyla ilgili bölümünde Yüksek Seçim Kurulunun eşitlik esasları dairesinde tespit edeceği süre ve kelime sayısı sınırları içinde kalmak kaydı ile seçime katılan si–yasi partiler tarafından verilecek metinler yayınlanır.
+Madde 94 fıkra iki, bent a, b, c – (28/3/1986 tarih ve 3270 sayılı Kanunun hükmüdür.)
+II.a) Seçmen kütüğüne yazılmayan ve yurtdışında 6 aydan fazla ikamet eden seçmenler, milletvekili genel seçimlerinin yapılacağı günün 70 gün evvelinden başlamak üzere seçim günü akşam saat 17.00'ye kadar yurda giriş veya çıkış yaptıkları gümrük kapısında kurulacak seçim sandıklarında oylarını kullanabilirler.
+694
+Bu seçmenler yalnızca seçime katılan siyasi partilere oy verebilirler.
+b) Yüksek Seçim Kurulu seçime katılan siyasi partilerin yer aldığı birleşik oy pusulaları ile özel renkte bastırılmış oy zarflarını Yüksek Seçim Kurulu mührü ile mühürleyerek ilgili ilçe seçim kurullarına seçimlerin başlangıç tarihinden en geç üç gün önce ilçe seçim kurullarında bulunacak şekilde gönderir.
+Yüksek Seçim Kurulu filigranı bulunan özel imal edilmiş kağıtlara basılı birleşik oy pusulalarında; yalnızca seçime katılan siyasi partilerin özel işaretleri, kısaltılmış adları ve tam yazı halinde adları ile her partiye ayrılan bölümün altında çapı iki santimetre olan bir boş daire bulunur.
+c) Gümrük kapılarında, oy verme gününden önceki yetmiş gün önce saat 08.00'den oy verme günü olan Pazar günü saat 17.00'ye kadar oy kullanılabilir. Oy kullanma tatil günleri dahil olmak üzere 24 saat devam eder.
+11– 11/9/1987 tarih ve 290 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 30)
+Madde 30 fıkra üç, dört, beş – (17/5/1979 tarih ve 2234 sayılı Kanunun hükmüdür.)
+Bu genelgede yazılı esaslarla, hizmetin gereği göz önünde tutularak, Seçmen Kütüğü Genel Müdürlüğü ile seçmen kütük bürolarının ihtiyacını karşılayacak her sınıf ve derecedeki kadrolar Genel Müdürlüğün teklifi ve Yüksek Seçim Kurulunun onayı ile tespit edilerek, Adalet Bakanlığına bildirilir.Talep edilen bu kadrolar Adalet Bakanlığınca, kadro sağlanmasına ilişkin 657 sayılı Devlet Memurları Kanununda yazılı usul hükümleri uygulanmaksızın, doğrudan Bakanlar Kuruluna sunulmak üzere Başbakanlığa gönderilir. Bakanlar Kurulunca kabul edilen kadrolar Resmi Gazete'de yayınlandığı günde Adalet Bakanlığı kadrolarına eklenmiş olur.
+12 – 31/3/1988 tarih ve 3420 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numarası: 14)
+Madde 14 bent (1) – (17/5/1979 tarih ve 2234 sayılı Kanunun hükmüdür.)
+1. Seçimlerde, içine oy pusulası konulacak olan zarfların, icabında her seçim için başka başka renk ve ölçüde olmak ve gerek piyasada, gerek Devlet Malzeme Ofisince imal edilen veya ettirilen veya depolarında bulunan zarfların renklerinden ve ölçülerinden farklı ve kağıdında "Türkiye Cumhuriyeti Yüksek Seçim Kurulu" filigranı bulunmak üzere, yeteri kadar özel zarf imal ettirmek vebu imalatı, kağıt hamurundan başlayarak zarfın imaline ve teslim alınmasına kadar olan safhalarını; üyeleri arasından seçeceği üç yargıcın devamlı gözetim ve denetimi altında yaptırmak ve bu zarfları, il seçim kurullarına, her ilin ihtiyacına yetecek sayıda, alındı belgeleri karşılığında göndermek.
+694-1
+bent (4,11) – (10/6/1983 tarih ve 2839 sayılı Kanunun hükmüdür.)
+4. Tüzüklerine göre ilk genel kongrelerini yapmış olup "..........." (1) ve en az altı ay evvel il ve ilçe teşkilatını kurmuş bulunan siyasi partilerin adlarını, ilçe seçim kurullarının yeniden kurulması için öngörülen ayların ikinci haftasında tespit ve ilan etmek,
+11. Siyasi partilerin, milletvekili genel ve ara seçimlerine ve belediye başkanlığı ile belediye ve il genel meclisi üyelikleri genel seçimlerine katılabilmeleri için, "............."(1) oy verme gününden en az altı ay evvel teşkilat kurmuş ve büyük kongrelerini yapmış olmaları veya Türkiye Büyük Millet Meclisinde gruplarının bulunması şarttır.
+Bir ilde teşkilatlanma, merkez ilçesi dahil o ilin "..........."(2) teşkilat kurmayı gerektirir. Bu esaslar dairesinde seçime katılabilecek siyasi partileri tespit ve seçimin başlangıç tarihinden on gün,seçimin yenilenmesi halinde yenileme kararının ilanından sonraki beş gün içinde ilan etmek.
+13 – 27/10/1988 tarih ve 3488 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: Geçici Maddeler. 5, 6, 7, 8, 9, 10)

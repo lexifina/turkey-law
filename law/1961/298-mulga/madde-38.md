@@ -1,0 +1,3 @@
+Madde 38 – (26/4/1961 tarih ve 298 sayılı Kanunun hükmüdür.)
+Kütük yazımına memur edilen kimseler, hazırladıkları kütüğü hemen ilçe seçim kurulu başkanına teslim ederler.
+Başkan, kütüklerin, usulüne uygun ve eksizsiz hazırlanıp hazırlanmadığını, kroki ve binalar cetveli ve başka araçlardan faydalanarak denetler veya sorumluluğu altında denetletir. Varsa noksanlarını tamamlatarak, daktilo ile ikinüsha yazdırır ve her sayfasını ayrı ayrı mühürleyip imzaladıktan sonra kütüğün kapsadığı sayfa ve seçmen sayısını, sonuna yazıp onaylamak suretiyle bunlardan birini ilçe seçim kuruluna verir, diğerini aslı ile birlikte yanında saklar.

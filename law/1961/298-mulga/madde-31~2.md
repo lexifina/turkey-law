@@ -1,0 +1,6 @@
+Devamlı veya geçici personel ve görevlendirme yetkisi:
+Madde 31 – (17/5/1979 tarihli ve 2234 sayılı Kanunun hükmüdür.)
+Yüksek Seçim Kurulu; 657 sayılı Devlet Memurları Kanununa göre; Seçmen Kütüğü Genel Müdürlüğünde; devamlı, geçici ve sözleşmeli, diğer seçim işlerinde devamlı ve geçici personel çalıştırabilir.
+Genel Müdürlüğün devamlı, geçici ve sözleşmeli personeli, evvelce herhangi bir siyasi partiye üye, herhangi bir seçimde siyasi parti listesinden aday olmamış kişiler arasından seçilir.
+Seçim işlerinde ve seçmen kütüğü yazım, düzenleme, denetleme ve güncelleştirilmesinde, il ve ilçe seçim kurulu başkanları; Yüksek Seçim Kurulunun belirleyeceği ilkeler içinde; mahalle ve köy muhtar ve ihtiyar heyet veya meclisleri üyelerini; Devlet, katma bütçeli idare, özel idare, belediye, iktisadi devlet teşekkülleri ve kamu tüzelkişiliklerindeki (hakimler, cumhuriyet savcıları, vali ve kaymakamlar, nahiye müdürleri, askeri şahıslar, zabıta amir ve memurları hariç) bütün memur, işçi ve hizmetlileri görevlendirebilir; bunlar dışında da gerekli gördüğü kimseleri çalıştırabilir.
+31– 13/3/2018 tarihli ve 7012 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numarası: 5,22,23,68,78,81,82,98. )

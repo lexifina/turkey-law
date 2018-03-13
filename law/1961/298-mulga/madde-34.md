@@ -1,0 +1,1 @@
+Madde 34 – (26/4/1961 tarih ve 298 sayılı Kanunun hükmüdür.) Seçmen kütüğüne yazılmaya esas olan seçme yeterliği ile ikamet süresi, memuriyet hali gibi hususların tesbitinde resmi belgeler esas tutulur. Muhtar ve ihtiyar heyetlerinin kayıt ve özel bilgilerinden de faydalanılır.

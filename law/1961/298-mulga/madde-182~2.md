@@ -1,0 +1,3 @@
+19 – 5/6/1997 tarih ve 4265 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:182)
+Madde 182 – fıkra bir – (15/2/1994 tarih ve 3969 Sayılı Kanunun Hükmüdür.)
+Seçim Kurulları başkan ve üyeleri ile bu Kanun gereğince görevlendirileceklere ve bu işlerde mesai saatleri içinde veya dışında çalıştırılacak memur ve hizmetlilere, siyasi parti temsilcilerine ve hariçten alınarak çalıştırılacaklara ödenecek gündelikler, gündelik miktarı 400 000 lirayı geçmemek üzere, Yüksek Seçim kurulunca belirlenir. 400 000 liralık azami gündelik miktarını iki katına kadar arttırmaya Bakanlar Kurulu yetkilidir. Bu ödemeler herhangi bir vergiye tabi tutulamaz. (1)

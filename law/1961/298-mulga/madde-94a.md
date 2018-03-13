@@ -1,0 +1,1 @@
+Madde 94/A – birinci fıkra - (13/3/2008 tarihli ve 5749 sayılı Kanunun hükmüdür.) Yurt dışı seçmenlerin sandık, (…) (1) , gümrük kapılarında oy kullanma veya elektronik oylama yöntemlerinden hangisine göre oy kullanacağına yabancı ülkenin durumuna göre Dışişleri Bakanlığının görüşünü alarak Yüksek Seçim Kurulu karar verir.

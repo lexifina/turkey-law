@@ -1,0 +1,1 @@
+Madde 14 – bent 2 – son paragraf- (17/5/1979 tarihli ve 2234 sayılı Kanunun hükmüdür.) Oyunu kullanan seçmenin parmağının işaretleneceği özel boyayı ithal veya imal ettirmek, sandık kurullarında zamanında bulundurmak, saklamak.

@@ -1,0 +1,4 @@
+Madde 134 – (17/5/1979 tarihli ve 2234 sayılı Kanunun hükmüdür.)
+Her kim seçim işlerinin cereyanı sırasında, seçimin düzenli yürütülmesini sağlamak maksadı ile, bu Kanunda yazılı kurullar veyahut kurul başkanları tarafından alınan karar ve tedbirlere, ihtara rağmen riayet etmezse on günden bir aya, kadar hapis ve beşyüz liradan ikibinbeşyüz liraya kadar ağır para cezası ile cezalandırılır.
+Herhangi bir şekilde alınan karar ve tedbirlerin uygulanmasını zorlaştıran veyahut karar ve tedbirlerin neticesiz kalmasına sebebiyet veren kimselere bir aydan altı aya kadar hapis ve bin liradan beşbin liraya kadar ağır para cezası verilir.
+Yukarıda yazılı fiiller, görevli kimseler tarafından işlendiği ve Türk Ceza Kanununa göre daha ağır bir suç teşkil etmediği takdirde, birinci fıkrada yazılı halde üç aydan altı aya, ikinci fıkrada yazılı halde de altı aydan bir seneye kadar hapis cezası ile cezalandırılır ve bunlara muadil kamu hizmetlerinden memnuiyet cezası da hükmolunur.

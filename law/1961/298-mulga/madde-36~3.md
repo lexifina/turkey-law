@@ -1,0 +1,1 @@
+Madde 36 – fıkra bir - ( 17/5/1979 tarihli ve 2234 sayılı Kanunun hükmüdür.) Seçmen kütüğünün dört yılda bir yeniden düzenlenmesi ve iki yılda bir denetlenmesi için gerekli bilgileri toplamak amacıyla, bütün Türkiye'de aynı zamanda Nisan ayının ikinci pazar günü yazım yapılır.

@@ -1,0 +1,3 @@
+Madde 40 – (26/4/1961 tarih ve 298 sayılı Kanunun hükmüdür.)
+İlçe seçim kurulu başkanı,sandık seçmen listelerinin hazırlanmasından sonraher seçim bölgesinin kaç sandığa ayrıldığını, bu sandıkların numaralarını, her sandığın hangi sokakları veya mahalle ve sokakların hangi kısmını içine aldığını, o sandıklardan her birine, kütüğün hangi numarasından hangi numarasına kadar olan seçmenlerin oy atacağını gösteren, sandık sayısınca birer cetvel yaparak bunları aşağıdaki madde gereğince, asılacak sandık seçmen listelerinin yanına astırır.
+Sandık seçmen listelerinin onaylı birer nüshası, en geç, asılacağı güne kadar, teşkilatı bulunan yerlerde, siyasi partilerin, ilçelerde ilçe, illerde il başkanlıklarına alındı belgesi karşılığında verilir.

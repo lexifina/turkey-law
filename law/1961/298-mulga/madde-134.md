@@ -1,0 +1,4 @@
+Madde 134 – (26/4/1961 tarih ve 298 sayılı Kanunun hükmüdür.)
+Her kim seçim işlerinin cereyanı sırasında, seçimin düzenli olarak yürütülmesini sağlamak maksadı ile, bu kanunda yazılı kurullar veyahut kurul başkanları tarafından alınan karar ve tedbirlere, ihtara rağmen riayet etmezse on günden bir aya kadar hafif hapis ve elli liradan iki yüz elli liraya kadar hafif para cezası ile cezalandırılır.
+Her hangi bir şekilde alınan karar ve tedbirlerin uygulanmasını zorlaştıran veyahut karar ve tedbirlerin neticesiz kalmasına sebebiyet veren kimselere bir aydan altı aya kadar hapis cezası verilir.
+Yukarıda yazılı fiiler, görevli kimseler tarafından işlendiği ve Türk Ceza Kanununa göre daha ağır bir suç teşkil etmediği takdirde,birinci fıkrada yazılı halde üç aydan altı aya, ikinci fıkrada yazılı halde de altı aydan bir seneye kadar hapis cezası ile cezalandırılır ve bunlara muadil kamu hizmetlerinden memnuiyet cezası da hükmolunur.

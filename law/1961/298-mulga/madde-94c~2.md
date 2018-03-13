@@ -1,0 +1,1 @@
+Madde 94/C – ikinci fıkra - (13/3/2008 tarihli ve 5749 sayılı Kanunun hükmüdür.) Hangi yurt dışı temsilciliğinde sandık kurulu kurulacağı, oy verme işlerinde görev alacak sandık kurullarının adedi, üyelerinin ve yedeklerinin sayısı ile hangi görevlilerden teşkil edileceği Dışişleri Bakanlığı ile işbirliği yapılarak Yüksek Seçim Kurulu tarafından belirlenir.

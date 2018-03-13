@@ -1,0 +1,7 @@
+Madde 29 – (24/3/1973 tarih ve 1700 sayılı Kanunun hükmüdür.)
+Her daimi seçmen kütüğü bürosunda bir büro şefi ve yeteri kadar memur ile bir yardımcı hizmetler personeli bulunur. Nüfusu 100 bini aşan yerlerde her yüzbin nüfus ve küsuru için ayrıca bir memur kadrosu ilave edilebilir.
+Şef ve memurların nitelikleri, göreve alınmaları, yükseltilmeleri ve nakilleri ile haklarında disiplin kovuşturması yapılması ve sair özlük işlemleri hakkında 657 sayılı Devlet memurları Kanununun ilgili hükümleri, ilçelerin bağlı bulundukları adalet komisyonları tarafından, bu komisyonlarca atanmakta olan adalet personelinin tabi oldukları hükümler dairesinde uygulanır. Ancak, şef vememurların sicil amirleri bağlı bulundukları ilçe seçim kurulu başkanıdır. İlçe seçim kurulu başkanı, şef ve memurlar hakkında disiplin cezalarından, uyarma ve kınama cezalarını doğrudan doğruya uygulamaya yetkilidirler.
+İlçe seçim kurulu başkanı iş durumuna göre memurların bürolara dağıtımını ve gerektiğinde geçici olarak bir bürodan diğer bir büroya nakil suretiyle görevlendirilmelerini yapar.
+İlçe seçim kurulu başkanı, işlerin müsaadesi nispetinde daimi seçmen kütükleri bürosu memurlarının adalet hizmetlerinde geçici olarak çalıştırılmalarına müsaade edebilir.
+Daimi seçmen kütükleri bürolarında görevlendirilecek şef, memur ve yardımcı hizmetler personeli kadroları, Adalet Bakanlığı kadrolarına eklenir.
+Daimi seçmen kütükleri bürolarının araç, gereç ve sair masrafları seçim ödeneğinden karşılanır.

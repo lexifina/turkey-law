@@ -1,0 +1,2 @@
+Madde 57 – (26/4/1961 tarih ve 298 sayılı Kanunun hükmüdür.)
+Seçimlere katılan siyasi partiler, bağımsız adaylar, duvar ilanı asmak, el ilanı ve her türlü matbua dağıtmakta serbesttir. Ancak, oy verme gününden önceki üç gün içinde, ilan, beyanname, genelge, açık mektup ve her çeşit propaganda mahiyeti taşıyan matbuanın dağıtılması, yapıştırılması, asılması ve satılması yasaktır.Oy pusulası her zaman dağıtılabilir.

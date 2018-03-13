@@ -1,0 +1,1 @@
+Madde 40 –fıkra bir - ( 17/5/1979 tarihli ve 2234 sayılı Kanunun hükmüdür.) Muhtarlık bölgesi askı listesi, her yıl, Nisan ayının ilk Pazartesi günü muhtarlıklarda askıya çıkarılır ve iki hafta süre ile askıda kalır.

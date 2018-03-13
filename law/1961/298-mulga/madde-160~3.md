@@ -1,0 +1,1 @@
+Madde 160 – fıkra üç - ( 23/1/2008 tarihli ve 5728 sayılı Kanunun hükmüdür.) Bir sandıkta oy verdikten sonra aynı veya başka sandıkta tekrar oy vermeye teşebbüs eden veya veren kimse hakkında da ikinci fıkra hükmü uygulanır.

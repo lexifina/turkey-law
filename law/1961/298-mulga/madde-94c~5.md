@@ -1,0 +1,1 @@
+Madde 94/C – yedinci fıkra - (13/3/2008 tarihli ve 5749 sayılı Kanunun hükmüdür.) Oy verme süresince sandık kurullarınca her gün saat 17:00’da bu Kanunda belirtilen usullere göre sandık açılır. Çıkan oy zarflarının adedi ile oy kullanan seçmen miktarı ve bunların birbirine uygunluğu bir tutanakla tespit edilir.

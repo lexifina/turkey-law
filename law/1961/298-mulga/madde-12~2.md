@@ -1,0 +1,7 @@
+Madde 12 – (17/5/1979 tarih ve 2234 sayılı Kanunun hükmüdür.)
+Süresi biten Yüksek Seçim Kurulu üyeleri yerine yenilerinin seçimi için,heriki yılda bir Ocak ayının ilk haftasında seçim yapılır.
+Bu süre içinde üye sayısında azalma olursa, yukarıdaki madde gereğince tamamlanır. Bu yoldan seçilen kimse, yerine seçildiği üyenin süresini tamamlar.
+Madde 52 fıkra iki bent (d) – (28/3/1986 tarih ve 3270 sayılı Kanunun hükmüdür.)
+d) Yukarıdaki bentlerde belirtilen konuşmaların yapıldığı günlerin dışında seçimlere katılan siyasi partiler, TRT kurumunca usulüne göre tespit edilen reklam tarifelerine göre bedelini peşin ödemek şartıyla birinci fıkrada belirtilen tarihler arasında 5 dakikadan az 15 dakikadan çok olmayan üç konuşma daha yapabilirler. Siyasi partiler bu bent gereğince yayınlanacak propaganda konuşmalarında yaptıkları ve yapacakları icratı, görüntülü olarak da verebilirler.Ancak bu görüntülerde diğer partilere sataşma ve hakaret kastı bulunamaz.
+Son fıkra – (17/5/1979 tarih ve 2234 sayılı Kanunun hükmüdür.)
+Seçimin başlangıç tarihinden, seçimin yenilenmesi halinde yenileme kararının ilanından, oy verme gününden önceki gün saat 18.00'e kadar, TRT haber bültenlerinin siyasi partilerin seçim çalışmalarıyla ilgili bölümünde,Yüksek Seçim Kurulunun eşitlik esasları dairesinde tespit edeceği süre ve kelime sayısı sınırları içinde kalmak kaydıyla, seçime katılan siyasi partiler tarafından veri–lecek metinler yayınlanır,

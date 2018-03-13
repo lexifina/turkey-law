@@ -1,0 +1,2 @@
+Madde 68 – İkinci ve Üçüncü fıkralar: (8/4/2010 tarihli ve 5980 sayılı Kanunun hükmüdür.) Milletvekili, il genel meclisi üyeliği, belediye ve muhtarlık seçimlerinde oylar ayrı sandıklarda kullanılır.
+Seçimlerde kullanılacak oy verme kabinleri, eni 120, boyu 120, yüksekliği 180 santimetre; portatif, hafif metal profil üzerinde, bir tarafı açılıp kapanabilir ve içini göstermeyen koyu renk dayanıklı sentetik kumaşla kaplı, kolay taşınabilir ve katlanabilir olacak şekilde yaptırılır.

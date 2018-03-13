@@ -1,0 +1,2 @@
+Madde 149 – (26/4/1961 tarih ve 298 sayılı Kanunun hükmüdür.)
+Her kim 51 inci maddede gösterilen heyetin kurulmamış olduğu toplantıda sözalır ve söyler veya her hangi bir vasıta ile bir seçim propagandası toplantısına mani olur veya devamına imkan vermiyecek hareket ve tertiplerle onu ihlal ederse bir aydan altı aya kadar hapis ve yüz liradan beş yüz liraya kadar ağır para cezasiyle cezalandırılır.

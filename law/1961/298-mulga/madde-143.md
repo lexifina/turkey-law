@@ -1,0 +1,3 @@
+Madde 143 – (26/4/1961 tarih ve 298 sayılı Kanunun hükmüdür.)
+Seçmen yeterliği bulunmadığı halde kendisini veya bu yeterliği olmıyan bir başkasını her ne suretle olursa olsun seçmen kütüklerine kaydettiren veya bu şekilde kaydedilmiş olanların seçmen kütüğünden silinmesine aynı şekilde mani olan veya seçme yeterliği bulunan birinin aynı fiil ve hareketlerle seçmen kütüğünden silinmesine sebep olan üç aydan bir seneye kadar hapis cezasiyle cezalandırılır.
+Yukarıda yazılı fiiller cebir veya tehdit veya şiddet veya nüfus veya tesir icrası suretiyle yapıldığı takdirde faile verilecek ceza,bir seneden beş seneyekadar hapistir.
