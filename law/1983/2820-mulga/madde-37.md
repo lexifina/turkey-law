@@ -1,0 +1,4 @@
+Madde 37– (22/4/1983 tarih ve 2820 sayılı Kanunun hükmüdür.)
+Milletvekilliği için yapılacak seçimlerde,siyasi partilerin bir seçim çevresindeki adaylarının listesi ve binaların listedeki sırası,o seçim çevresinde o siyasi parti üye kayıt defterine göre düzenlenen parti seçmen listesinde yer alan bütün üyelerin ilçe seçim kurullarının yönetiminde serbestçe oy kullanacakları bir önseçim ile o seçim çevresinden çıkacak milletvekili sayısının iki katı olarak,aday adaylığını koymuş olanlar arasından tespit edilir.
+Önseçimlerin yapılacağı gün, Yüksek Seçim Kurulu tarafından genel seçimlerden en az iki ay önceki bir tarih olarak belirlenip ilan edilir.Bütün yurtta önseçimler seçime katılacak partiler için aynı günde yapılır.
+Genel seçimler için kabul edilen seçim çevresi, önseçim için de esas alınır.

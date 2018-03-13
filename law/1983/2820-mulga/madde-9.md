@@ -1,0 +1,9 @@
+Madde 9– (22/4/1983 tarih ve 2820 sayılı Kanunun hükmüdür.)
+Cumhuriyet Başsavcılığı kurulan partilerin tüzük ve programlarının vekurucuların hukuki durumlarının Anayasa ve kanun hükümlerine uygunluğunu vebelgelerinin tamam olup olmadığını, kuruluşlarını takiben öncelikle ve ivedilikle inceler. Tespit ettiği noksanlıkların giderilmesini, lüzum göreceği ek bilgi ve belgelerin gönderilmesini yazıyla ister. Bu yazınının tebliği tarihinden başlayarak otuz gün içinde noksanlık giderilmediği veya istenen ekbilgi ve belgeler gönderilmediği takdirde, siyasi partilerin kapatılmasına dairhükümler uygulanır.
+1222-5
+Madde 11 fıkra bir – (22/4/1983 tarih ve 2820 sayılı Kanunun hükmüdür.)
+Yirmibir yaşını dolduran, medeni ve siyasi hakları kullanma ehliyetine sahip bulunan her Türk vatandaşı bir siyasi partiye üye olabilir.
+Madde 11 fıkra iki (a) alt bent ve (b) bendinin 6 numaralı fıkrası – 22/4/1983 tarih ve 2820 sayılı Kanunun hükmüdür.)
+a) Hakimler ve savcılar, yüksek yargı organları mensupları, yükseköğretimkurumlarındaki öğretim elemanları, Yükseköğretim Kurulu üyeleri, kamu kurumve kuruluşlarının memur
+statüsündeki görevlileri ile yaptıkları hizmet bakımından işçi niteliği taşımayan diğer kamu görevlileri, özel kanunla veya özel kanunun verdiği yetkiye dayanılarak kurulmuş bankaların ve teşekküllerin yönetim ve denetim işlerinde çalışanlar ile aylıklı ve yevmiyeli memurları vekamu yararına çalışan derneklerden özel gelir kaynakları ve özel imkanları kanunla sağlanmış olanların merkez kurullarında görev alanlar, öğrenciler ve Silahlı Kuvvetler mensupları, siyasi partilere giremezler.
+6 – Türk Ceza Kanununun 536 ncı maddesinin birinci, ikinci ve üçüncü fıkralarında yazılı eylemlerle aynı Kanunun 537 nci maddesinin birinci, ikinci, üçüncü, dördüncü ve beşinci fıkralarında yazılı eylemleri siyasi ve ideolojikamaçlarla işlemekten mahkum olanlar,

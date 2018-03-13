@@ -1,0 +1,3 @@
+Madde 105 – (22/4/1983 tarihli ve 2820 sayılı Kanunun hükmüdür.)
+Kuruldukları tarihten itibaren aralıksız iki dönem Türkiye Büyük Millet Meclisi genel seçimlerine, katılmayan siyasi partiye, ikinci genel seçimin yapıldığı tarihten itibaren bir ay içinde Cumhuriyet Başsavcılığınca kapanma kararı alması için yazılı tebligatta bulunulur. Bu yazının tebliğinden itibaren üç ay içinde kapanma kararı alınmadığı takdirde, Cumhuriyet Başsavcılığınca açılacak dava üzerine Anayasa Mahkemesinin kararıyla o siyasi parti kapatılır.
+20- 29/4/2005 tarih ve 5341 sayılı Kanunla yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri (Madde numarası: Geçici Madde 16.)

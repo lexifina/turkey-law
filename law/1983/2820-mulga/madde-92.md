@@ -1,0 +1,2 @@
+Madde 92– (22/4/1983 tarih ve 2820 sayılı Kanunun hükmüdür.)
+Siyasi partiler, kendi siyasetlerini yürütmek ve güçlendirmek amacıyla,dernekler, sendikalar, vakıflar, kooperatifler ve kamu kurumu niteliğindekimeslek kuruluşları veya bunların üst kuruluşları ile siyasi ilişki veyaişbirliği içinde bulunamazlar; bunlardan maddi yardım alamazlar veya bu ku–ruluşlara maddi yardım yapamazlar; bunlara destek olamazlar ve bu amaçlarlaortak hareket edemezler.

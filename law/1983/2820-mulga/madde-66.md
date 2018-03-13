@@ -1,0 +1,9 @@
+Madde 66 – ( 22/4/1983 tarih ve 2820 sayılı Kanunun hükmüdür.)
+Genel ve katma bütçeli dairelerle mahalli idareler ve muhtarlıklar, kamu iktisadi teşebbüsleri, özel kanunla veya özel kanunla verilen yetkiye dayanılarak kurulmuş bankalar ve diğer kuruluşlar, kamu iktisadi teşebbüsü sayılmamakla beraber ödenmiş sermayesinin bir kısmı Devlete veya bu fıkradaadı geçen kurum, idare, teşebbüs, banka veya kuruluşlara ait müesseseler, kamu kurumu niteliğindeki meslek kuruluşları, işçi ve işveren sendikaları ilebunların üst kuruluşları, dernekler, vakıflar ve kooperatifler siyasi partilere, hiçbir suretle taşınır veya taşınmaz mal veya nakit veya haklar bağışlayamaz ve bu gibi mal veya hakların kullanılmasını bedelsiz olarak bırakamazlar; bağlı oldukları kanun hükümleri dışında siyasi partilere ayni hakların devrine dair tasarruflarda bulunamazlar.
+(Değişik : 31/10/1990–3673/2 md.) Yukarıdaki fıkranın dışında kalan gerçekve tüzel kişilerin her birinin bir siyasi partiye aynı yıl içerisinde ellimilyonliradan fazla kıymette ayni veya nakdi bağışta bulunması yasaktır. Bağış veya bağışların bağışta bulunanın veya yetkili temsilcisine veya vekiline ait olduğunun partice verilen makbuzda açıkça belirtilmesi gerekir. Böyle bir belgeye dayanılmaksızın siyasi partilerce bağış kabul edilemez.(1)
+Siyasi partiler, yabancı devletlerden, uluslararası kuruluşlardan, yabancı uyruklu kişiler ile yabancı ülkelerdeki dernek, grup ve kurumlardan herhangi bir surette ayni veya nakti yardım ve bağış alamazlar.
+Kredi ve borç alma yasağı:
+Madde 67 fıkra bir birinci cümle– (22/4/1983 tarih ve 2820 sayılı Kanunun hükmüdür.)
+Siyasi partiler, hiçbir şekilde hiçbir yerden ve hiçbir kimseden dolaylı veya dolaysız olarak kredi veya borç alamazlar.
+Madde 68 fıkra 2– (22/4/1983 tarih ve 2820 sayılı Kanunun hükmüdür.)
+22/11/1972 tarihli ve 1630 sayılı Dernekler Kanununun 52 nci maddesinin son fıkrası hükmü, siyasi partiler için uygulanmaz.

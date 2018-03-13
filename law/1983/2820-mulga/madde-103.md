@@ -1,0 +1,3 @@
+Madde 103 – (22/4/1983 tarih ve 2820 sayılı Kanunun hükmüdür.)
+Bir siyasi partinin, bu Kanunun 78 ila 82,84 ila 88 ve 97 nci maddeleri hükümlerine aykırı fiilerin işlendiği bir mihrak haline geldiğinin sübuta ermesi halinde, o siyasi parti Anayasa Mahkemesince kapatılır.
+Bir siyasi partinin yukarıdaki fıkrada yazılı fiillerin mihrakı haline geldiği,101 inci maddenin (d) bendinin uygulanması sonucunda bu fiillerin o partinin üyelerince kesif bir şekilde işlenmiş olduğunun ve bu fiillerin kesif olarak işlenmesinin o partinin merkez karar ve yönetim kurulu veya Türkiye Büyük Millet Meclisindeki grup genel kurulu yahut bu grubun yönetim kurulunca zımnen veya sarahaten benimsendiğinin sübuta ermesiyle olur.
