@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44216",
+  "decision_date": "2018-03-14",
+  "source_id": 15685,
+  "chamber": "1",
+  "file_number": "42376",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15685/",
+  "source_sha256": "190822c3fbb5f2de725600be2d9329f090a99ca5802c2120a2032397c1a05056",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
