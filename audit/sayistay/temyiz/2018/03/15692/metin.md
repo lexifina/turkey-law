@@ -1,0 +1,65 @@
+KONU:Yemek yardımı
+
+491 sayılı ek ilamın 4 üncü maddesi ile; ... İlçe Özel İdaresi personeline yiyecek yardımının, yemek verme yerine 4734 sayılı Kanunun 22 (d) maddesi gereğince ...ile sözleşme imzalayarak öğle yemeği alımı şeklinde yapılması sonucu kamu zararına neden olunduğu gerekçesi ile … TL’ye tazmin hükmü verilmiştir.
+
+Sorumlu temyiz dilekçesinde özetle; konu ile ilgili olarak, Anayasa Mahkemesince karar verilen ve Resmi Gazetede yayımlanan 14.02.2017 gün ve 28204 sayılı kararda, 657 sayılı Devlet Memurları Kanununun 212 nci maddesinin Anayasaya aykırı olmadığı ve yapılan ödemelerin hukuka uygun olduğunun belirtildiğini,
+
+23.05.2000 tarih ve 24760 sayılı Temyiz Kurulu kararında;
+
+"Yemek yardımı, yemek verilerek yapılamamakla birlikte yemek servisi kurulması halinde de söz konusu yemek malzemelerinin alınacağı yemek yardımının nakit olarak değil yiyecek malzemeleri verilmek suretiyle aynı olarak yapıldığı ve 1993 yılında yiyecek malzemesi için ödenen 699.184.183- liranın bütçeye konan 800.000.000- lira yiyecek yardımının ödeneğini aşmadığı da dikkate alındığında yiyecek malzemesi hizmeti alınarak bu malzemenin memurlara verilmesi ile yönetmelikte aranan maksadın gerçekleştiği bu nedenle dilekçi iddialarının kabulü ile 1486 nolu ilamın 1 inci maddesi ile söz konusu bedele ilişkin olarak verilen tazmin hükmün kaldırılmasına karar verildi” denildiğini,
+
+ Yerel Yönetim ve Denetim Mevzuatının Aralık 1998 Cilt 3 Sayı 12 Memurlara yapılacak yiyecek ve giyecek yardımları ile ilgili olarak;
+
+"İlgili Yönetmeliğin 3. maddesindeki nakden bir ödemede bulunulamaz şeklindeki açık hükme rağmen bazı belediyelerde bu yardım bazen nakdi bazen de ayni olarak yapılmakta ya da yapılmak istenmektedir. Bununla ilgili Sayıştay 6. Dairesinin 01.11.1996 tarih ve 8931 tutanak sayılı kararında yiyecek yardımı yemek verme şeklinde olup, nakit olarak ödeme yapılması ya da ayni yardım olarak verilmesi mümkün değildir denilmiştir. Anlaşılıyor ki yiyecek yardımı hiçbir şekilde gerek nakit gerekse ayni olarak verilmeyecek. Sadece yemek yedirmek şeklinde olacaktır. Burada şöyle bir soru akla gelebilir, acaba belediye personele yemek vermek için uygun bir bina ya da tesis yoksa memura anlaşmalı bir lokantadan yemek yedirebilir mi? Yönetmeliğin 5. maddesi hükümleri doğrultusunda memurlara dışarıda anlaşmalı bir lokantadan yiyecek yardımı olarak yemek yedirebilecektir. Haliyle yemek bedelinin bütçeden karşılanmayan kısmı da yemek yiyenlerce karşılanacaktır. Bu durumla ilgili olarak Sayıştay 7. Dairesinin 05.07.1997 tarihli 8027 tutanak sayılı kararında da açıkça da memurlara yemek yardımının yemek bedelinin yarısını geçmemek şartıyla fiş bastırarak fatura karşılığında anlaşmalı bir lokantada yemek yedirmek suretiyle yapılmasında sakınca yoktur.” denildiğini,
+
+T.C. Maliye Bakanlığı Bütçe ve Mali Kontrol Genel Müdürlüğünün B.07.O.BMK.O.15- 1 15456 sayılı ve 11.03.2008 tarih ve 02736 nolu Yiyecek Yardımı Genelgesi ve 19.11.1986.tarihli ve 86/12220 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurları Yiyecek Yardımı Yönetmeliğinin 6. maddesinde ise hastane, pansiyonlu okul ve işçi ile birlikte çalışan iş yerlerindeki memurlar, birim büyüklüğü ve personel sayısına bakılmaksızın hasta, öğrenci ve işçiler için mevcut yemek servisinden faydalanacakların belirtildiğini, yiyecek yardımından faydalanacak personel sayısının 50 ve daha fazla olması için ve üstü personel olmadığı için yemekhane kurulamadığını, yemeğin temini için ilçede yemek servisi, yardım sandığı, dernek veya bu mahiyetteki kuruluşların yemek servislerinin bulunmadığını, bu nedenle 4734 sayılı Kamu İhale Kanununun "Kapsam” başlıklı 2 nci maddesinde, bu maddede belirtilen idarelerin kullanımında bulunan her türlü kaynaktan karşılanan mal veya hizmet alımları ile yapım işleri ihalelerinin bu kanun hükümlerine göre yürütüleceğinin hüküm altına alındığını aynı maddenin (a) bendinde ise genel bütçeye dahil daireler, katma bütçeli idareler, özel idareler ve belediyeler ile bunlara bağlı döner sermayeli kuruluşlar, birlikler ve tüzel kişilerin bu kanun kapsamında yer alan kuruluşlar arasında sayıldığını, diğer kurumların yapmış olduğu gibi hizmet alımı tertibinden, piyasadan doğrudan temin sureti ile hizmet satın alma yoluna gidildiğini,
+
+Yemek yardımı kapsamında yapılan ödemelerin yarısının personellerce karşılanarak (%50 si) diğer yarısının ise bütçenin ilgili harcama kaleminden (%50 si) adı geçen firmaya ödendiğini, hukuka aykırı bir ödeme olmadığını belirterek verilen tazmin hükmünün kaldırılmasını istemiştir.
+
+Başsavcılık mütalaasında;
+
+“Dilekçesinde özetle; Dairelerinde çalışan memurların yemek ihtiyacı için ihaleyi alan firmaya yapılan ödemenin Memurlara Yiyecek Yardımı Yönetmeliğinin 3, 4 ve 6. maddelerine, T.C. Maliye Bakanlığı Bütçe ve Mali Kontrol Genel Müdürlüğünün B.07.0.BMK.0.15-115456 sayılı ve 11.03.2008 tarih ve 02736 nolu Yiyecek Yardımı Genelgesine uygun olduğunu, yemek yiyen memurlardan katılım bedeli alındığını, ayrıca benzer olaylarla ilgili dilekçesinde belirtilen tazmin kararını kaldıran Temyiz Kurulunun kararları ile Anayasa Mahkemesinin 14.02.2017 tarih ve 28204 sayılı kararının bulunduğunu ileri sürerek tazmin kararının kaldırılmasını, istemektedir.
+
+657 sayılı Kanunun 212 nci maddesine dayanarak çıkarılan Devlet Memurları Yiyecek Yardımı Yönetmeliğinin 4 üncü maddesinde; “Yiyecek Yardımının gerektirdiği giderler, yemek maliyetinin yarısını aşmamak üzere, bu yönetmelik kapsamına memur kadrosu adedine göre kurum bütçesine konacak ödenekle karşılanır.” demektedir. Aynı Yönetmeliğin 9 uncu maddesinde yemek maliyetinin hesaplanmasına dahil edilmeyecek kalemlerin dikkate alınarak yemek maliyetinin hesaplanması esastır.
+
+Bu hükme göre kurum bütçesinden kadrolu memurların her gün yiyebileceği varsayılarak konulan yiyecek yardımı ödeneğini aşmamak üzere harcama yapılabilecektir.
+
+Yemek maliyetinin bütçeden karşılanmayan kısmı yemek yiyenlerden alınır. Yemek yiyenlerden alınacak yemek ücretinin tarifesi her yılbaşında Bütçe Uygulaması Talimatı ile belirlenmektedir.
+
+Dosyanın incelenmesinde adı geçen İl Özel İdaresi memurların öğle yemeği ihtiyacını 4734 sayılı Kanuna gereği yemek ihalesi sonucunda ihaleyi kazanan yemek firmasından karşılanmış olup yemek yiyen memurlardan 2012 yılı Bütçe Uygulama Talimatına uygun katkı payı tahsil edildiği anlaşıldığından yapılan ödeme yasaya uygundur.
+
+Ayrıca; benzeri olaylarla ilgili verilen tazmin kararını kaldıran birden fazla Temyiz Kurulu Kararı bulunduğundan tazmin hükmünün kaldırılmasına karar verilmesinin uygun olacağı mütalaa edilmektedir.” denilmiştir.
+
+Dosyada mevcut belgelerin okunup incelenmesinden sonra,
+
+GEREĞİ GÖRÜŞÜLDÜ:
+
+657 sayılı Devlet Memurları Kanununun 212 nci maddesinde;
+
+ “Devlet memurlarının hangi hallerde yiyecek yardımından ne şekilde faydalanacakları ve bu yardımın uygulanması ile ilgili esaslar Maliye Bakanlığı ile Başbakanlık Devlet Personel Başkanlığının birlikte hazırlayacakları bir yönetmelik ile tesbit olunur.” hükmüne yer verilmiş ve bu hüküm uyarınca hazırlanan Devlet Memurları Yiyecek Yardımı Yönetmeliğinin “Amaç” başlıklı 1 inci maddesinde, bu Yönetmeliğin amacının, Devlet Memurlarının yiyecek yardımından hangi hallerde, ne şekilde faydalanacaklarını ve bu yardımın uygulanması ile ilgili esasları belirlemek olduğu; “Kapsam” başlıklı 2 nci maddesinde, bu Yönetmeliğin 657 sayılı Devlet Memurları Kanununa tabi memurlar hakkında uygulanacağı; “Yardım Şekli” başlıklı 3 üncü maddesinde, yiyecek yardımının yemek verme şeklinde yapılacağı, bu yardım karşılığında nakden bir ödemede bulunulamayacağı; “Yardımın Şartları” başlıklı 5 inci maddesinde; Kurum bütçelerine yiyecek yardımı karşılığı olarak konulan ödeneğin, memurlara yemek vermek üzere kurulan yemek servisi, yardım sandığı, dernek veya bu mahiyetteki kuruluşa ödeneceği, yemek servisi, yiyecek yardımından faydalanabilecek personel sayısının asgari 50 olması ve yemekhane için elverişli yer bulunması şartıyla atamaya yetkili amirin onayı ile kurulabileceği hükümlerine yer verilmiştir.
+
+Söz konusu Yönetmelikte yer alan düzenlemeler göz önünde bulundurulduğunda, 657 sayılı Kanuna tabi memurlara yapılacak yiyecek yardımının nakit para ve para temsili araçlar sağlanarak veya civardaki lokantalara bedeli ödenmek suretiyle temin edilmesi şeklinde yapılması mümkün bulunmamaktadır.
+
+4734 sayılı Kamu İhale Kanununun “Kapsam” başlıklı 2 nci maddesinde, mal veya hizmet alımları ile yapım işleri ihalelerinin bu Kanun hükümlerine göre yürütüleceği hükme bağlanmıştır. Aynı Kanun’un “Tanımlar” başlıklı 4 üncü maddesinde de, “Bu Kanunun uygulanmasında Hizmet: Bakım ve onarım, taşıma, haberleşme, sigorta, araştırma ve geliştirme, muhasebe, piyasa araştırması ve anket, danışmanlık, tanıtım, basım ve yayım, temizlik, yemek hazırlama ve dağıtım, toplantı, organizasyon, sergileme, koruma ve güvenlik, meslekî eğitim, fotoğraf, film, fikrî ve güzel sanat, bilgisayar sistemlerine yönelik hizmetler ile yazılım hizmetlerini, taşınır ve taşınmaz mal ve hakların kiralanmasını ve benzeri diğer hizmetleri, .. ifade eder.” şeklinde tanımlanmıştır. İhale dokümanında yer alan bilgilere göre, para temsili araçlar ile yemek ihtiyacının dışarıdan karşılanması, Kamu İhale Kanunu’nun yukarıya alınan hizmet tanımı kapsamında bulunmamaktadır.
+
+Öte yandan 4734 sayılı Kamu İhale Kanununda hizmetin tanımı yapılırken, 'yemek hazırlama ve dağıtım' ifadelerine yer verilmiştir. Bu ifadeden mamul mal alımı şeklinde lokantalardan hazır yemek alımının değil, yukarıda zikredilen yönetmelik hükümleri çerçevesinde yemeğin hazırlatılması ve dağıtımı hizmetinin alınmasının kastedildiği anlaşılmaktadır. Mevcut haliyle uygulama, Kamu İhale Kanunun cevaz verdiği bir hizmet alımından çok, mal alımı şekline dönüşmüş durumdadır. Kaldı ki 4734 sayılı Kamu İhale Kanununun yürürlüğünden sonra Devlet Memurları Yiyecek Yardımı Yönetmeliğinde muhtelif değişiklikler yapılmış olmasına karşın, yiyecek yardımının nakit para ve para temsili araçlar sağlanarak veya civardaki lokantalara bedeli ödenmek suretiyle temin edilmesine dönük bir düzenlemeye de gidilmemiştir.
+
+Bu itibarla, ... İlçe Özel İdaresi ile ...arasında 4734 sayılı Kanunun 22 nci maddesinin (d) bendine göre imzalanan sözleşme gereğince, aylık yenilen öğün sayısı kadar ilgili yükleniciye ödeme yapılması mevzuata aykırıdır.
+
+Bu nedenle 491 sayılı ek ilamın 4 üncü maddesi ile … TL’ye ilişkin olarak verilen tazmin hükmünün TASDİKİNE, (Üyeler …, …, …, … aşağıda yazılı azınlık görüşlerine karşı) oy çokluğu ile,
+
+Karar verildiği 14.03.2018 tarih ve 44222 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
+
+(KARŞI OY GEREKÇESİ:
+
+Üyeler …, …, …, …;
+
+657 sayılı Devlet Memurları Kanununun 212 nci maddesine dayanılarak çıkarılan Devlet Memurları Yiyecek Yardımı Yönetmeliğinin “Yemek Servisi Giderleri” başlıklı 4 üncü maddesinde;
+
+“Yiyecek yardımının gerektirdiği giderler, yemek maliyetlerinin yarısını aşmamak üzere, bu Yönetmelik kapsamına dahil memur kadrosu adedine göre kurum bütçelerine konulacak ödeneklerle karşılanır.
+
+Ödenek dağıtımı yemek servisi kurulacak kurumdaki memur sayısı dikkate alınmak suretiyle yapılır. Yemek bedelinin bütçeden karşılanamayan kısmı yemek yiyenlerden alınır. 2155 sayılı Bazı Kamu Personeline Tayın Bedeli Verilmesi Hakkında Kanun'a göre tayın bedeli verilen personel ile sözleşmeli olarak çalıştırılanların, bu Yönetmeliğe göre yiyecek yardımı yapılan yemek servislerinde yemek yemeleri halinde, yemek bedelinin tamamı kendilerinden alınır.” denilmiştir.
+
+Buna göre, kurum bütçesinden kadrolu memurların her gün yiyebileceği ihtimaline karşılık konulan yiyecek yardımı ödeneğinden yemek maliyetinin yarısını aşmamak üzere harcama yapılabilecektir.
+
+Yemek maliyetinin bütçeden karşılanamayacak olan diğer yarısı ise yemek yiyenlerden karşılanacaktır. Yemek yiyenlerden alınacak yemek ücretleri tarifesi ise, her yılbaşında Bütçe Uygulama Talimatı ile asgari rakamlar üzerinden belirlenmekte olup, kurumlar yemek maliyetinin kalan yarısını karşılayacak şekilde bu rakamların daha üstünde fiyatlar tespit edilebilecektir. Bu nedenle Bütçe Uygulama Talimatı ile belirlenen miktarlar en az alınması gereken miktarı ifade etmektedir. Eğer Bütçe Uygulama Talimatında belirtilen miktarlar üzerinden kişilerden tahsil edilen bedel yemeğin maliyetinin yarısını karşılamaya yetmiyorsa, kişilerden tahsil edilen miktarın yemeğin maliyetinin yarısını karşılayacak şekilde artırılması veya yemeğin maliyetinin düşürülmesi gerekmektedir. Aksi takdirde yemek maliyetinin yarısından fazla bir miktar bütçeden karşılanmış olacaktır ki bu da yukarıda ifade edilen mevzuat hükümlerine aykırıdır. Dolayısıyla yemek yardımından yararlananlardan yemek maliyetinin yarısının kesilmesi gerekmektedir. Yemek bedelinin %50’sinin devlet katkı payı olarak idareden, kalan %50’sinin personelin maaşından kesilerek yükleniciye ödendiği anlaşıldığından yapılan uygulamada mevzuata aykırılık görülmemektedir. Bu nedenle verilen tazmin hükmünün kaldırılması gerekir.)
