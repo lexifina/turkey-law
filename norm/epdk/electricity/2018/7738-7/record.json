@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7738-7",
+  "decision_date": "2018-03-14",
+  "title": "30/07/2015 tarihli ve 5709 sayılı Kurul Kararında yapılan değişiklikler",
+  "resmi_gazete_date": "2018-03-24",
+  "resmi_gazete_number": "30370",
+  "categories": [
+    "Önlisans ve Lisansa ilişkin Diğer Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4No+KkVEfbU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4No+KkVEfbU="
+  ],
+  "source_sha256": "0d8963676d2c7c53fb15825a8b3b207aea7baba6b69fc7b12dcb5f7a89551f4b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33886,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-03-14",
+  "law_text_complete": true
+}
