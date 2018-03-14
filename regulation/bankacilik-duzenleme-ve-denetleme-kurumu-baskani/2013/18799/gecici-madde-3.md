@@ -1,0 +1,2 @@
+Azınlıkların ve üçüncü kişilerin özkaynak unsurlarındaki paylarına ilişkin uygulama
+GEÇİCİ MADDE 3 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla özkaynaklar içerisinde yer alan azınlık payları ile üçüncü kişilere ait paylardan 12, 13 ve 14 üncü maddeler uyarınca özkaynak hesabında dikkate alınmayacak olanlar, ilgili olduğu özkaynak hesabında 1/1/2015 tarihine kadar yüzde seksen, 1/1/2016 tarihine kadar yüzde altmış, 1/1/2017 tarihine kadar yüzde kırk, 1/1/2018 tarihine kadar yüzde yirmi oranında dikkate alınır.

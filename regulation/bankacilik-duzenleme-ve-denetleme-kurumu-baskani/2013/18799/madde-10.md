@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Konsolide Özkaynak Hesaplaması
+Konsolide özkaynak hesaplaması
+MADDE 10 – (1) Konsolide özkaynak; Kanun uyarınca yürürlüğe konulan düzenlemelere göre, ana ortaklık niteliğinde olan bankaların konsolide finansal tabloları üzerinden ikinci bölümde yer alan esaslar çerçevesinde hesapladıkları özkaynaklarına, bu bölümde belirtilen usul ve esaslar çerçevesinde hesaplanan azınlık payları ile üçüncü kişilerin paylarının eklenmesi suretiyle bulunur. Konsolide özkaynak hesaplamasında sigorta şirketlerinin teknik karşılıkları dikkate alınmaz.
+(2) (Değişik:RG-6/9/2014-29111) Bağlı ortaklıktaki azınlık payları, ana ortaklık banka veya bağlı ortaklık tarafından özel amaçlı bir şirket veya başka bir araç ya da sözleşme aracılığıyla doğrudan veya dolaylı olarak fonlanmış olmaları halinde, ana ortaklık bankanın konsolide özkaynak hesabında dikkate alınmaz.
+(3) Bankaların yurtdışında kurulu bağlı ortaklıklarında yer alan azınlık payları ile üçüncü kişilere ait paylar, ilgisine göre 6, 7 ve 8 inci maddelerde belirtilen koşulları taşımaları halinde 12, 13 ve 14 üncü maddelerde belirtilen esaslar çerçevesinde konsolide sermaye hesaplamasında dikkate alınırlar.
+(4) Kanun uyarınca yürürlüğe konulan düzenlemelere göre ana ortaklık niteliğinde olan bankalar, konsolide edilen sigorta şirketlerindeki yatırımlarını ilgisine göre, 9 uncu maddenin dördüncü fıkrasının (c) ve (ç) bentleri kapsamında konsolide edilmeyen bir finansal kuruluşa yapılan yatırımlar gibi değerlendirmek suretiyle de konsolide özkaynaklarını hesaplarlar.
+(5) Birinci ve dördüncü fıkra hükümlerine göre hesaplanan konsolide özkaynak tutarlarından düşük olan tutar bu Yönetmelik uyarınca hesaplanacak konsolide özkaynak tutarı olarak dikkate alınır.
