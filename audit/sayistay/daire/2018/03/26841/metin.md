@@ -1,0 +1,9 @@
+İhale Kararlarına İlişkin Damga Vergisi.
+
+Denetçi tarafından ….. Belediyesi tarafından 2886 sayılı Devlet İhale Kanunu’na istinaden yapılan gayrimenkul kiralama ihalelerinde, ihalelerin üzerlerinde kaldığı kişiler süresi içinde sözleşme yapmaktan imtina ettiğinden dolayı sözleşme imzalanamaması ve bundan dolayı da ihale kararlarına ilişkin damga vergisinin alınmaması sonucu kamu zararına neden olunduğu iddia edilmişse de;
+
+2886 sayılı Kanun’a göre yapılan kiralama ihalelerinde, kiralayanın sözleşme imzalaması ve ihale karar damga vergisinin kesilmemesi ile ilgili olarak; 29.09.2016 tarih ve 29842 sayılı Resmi Gazete’de yayımlanan ve 09.08.2016 tarihinden itibaren geçerli olan 60 Seri Nolu Damga Vergisi Kanunu Genel Tebliği’nin “İhale kararlarına ilişkin damga vergisi uygulaması” başlıklı 7’nci maddesinin 3’üncü fıkrasında “(3) 488 sayılı Damga Vergisi Kanununa ekli (1) sayılı tablonun II/2 fıkrası uyarınca, Kanunun 8 inci maddesinde tanımlanan resmi dairelerin aldıkları ihale kararları ile resmi daire olmasa dahi kamu tüzel kişiliğini haiz kurumların aldıkları ihale kararları damga vergisine tabi bulunmakta olup, söz konusu kararların ilgililerince imzalanması (ihale makamının onayını gerektiren durumlarda ihale makamının onayı ve imzası) ile bu kağıtlar hukuken tekemmül etmekte ve damga vergisine konu teşkil etmektedir.” denilmiştir.
+
+Sorgu eki kamu zararı tablosunda yer alan ve neredeyse tamamı 28.09.2016 sonrası yapılmış olan ihalelerin ihale makamı tarafından onaylandığına dair bir bilgi ve belge de bulunmamaktadır.
+
+Bu itibarla, 2886 sayılı Devlet İhale Kanunu’na istinaden yapılan gayrimenkul kiralama ihalelerinde sözleşme imzalanmadığından ihale kararlarına ilişkin damga vergisi alınmayacağından ….. TL için ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
