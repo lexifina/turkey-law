@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "298",
+  "decision_date": "2018-03-15",
+  "source_id": 26414,
+  "chamber": "5",
+  "ilam_number": "99",
+  "item_number": 14,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26414/",
+  "source_sha256": "b4626eaf04ff748938ab5fe5172c72f4ad2a91989378823ab77c48f77bb3364e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
