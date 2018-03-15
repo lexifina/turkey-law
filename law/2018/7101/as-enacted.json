@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7101",
+  "year": 2018,
+  "title": "İcra ve İflâs Kanunu ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-03-15",
+  "gazette_issue": "30361",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180315-28.htm",
+  "source_sha256": "00c5af8bbcc91617702196c1df34d808d1e90999182a5a0bf64d3648fb2b1151",
+  "text_sha256": "6c68c1ffdf110c25daf3e2e77f8da1e89257766c19f5d30ecf6438357b0c73c2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/03/15/30361-28",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180315-28.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
