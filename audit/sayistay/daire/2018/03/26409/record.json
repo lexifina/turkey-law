@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "298",
+  "decision_date": "2018-03-15",
+  "source_id": 26409,
+  "chamber": "5",
+  "ilam_number": "99",
+  "item_number": 9,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26409/",
+  "source_sha256": "fe0f339c0583348dcfccba517b5c67eb72e8a63bab296a6a32c8f0987bfc19a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
