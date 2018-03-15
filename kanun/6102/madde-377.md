@@ -1,3 +1,3 @@
-MADDE 377- (1) Yönetim kurulu veya herhangi bir alacaklı yeni nakit sermaye konulması dâhil nesnel ve gerçek kaynakları ve önlemleri gösteren bir iyileştirme projesini mahkemeye sunarak iflasın ertelenmesini isteyebilir. Bu hâlde İcra ve İflas Kanununun 179 ilâ 179/b maddeleri uygulanır.
-11058
+MADDE 377- (Değişik: 28/2/2018-7101/62 md.)
+(1) Yönetim kurulu veya herhangi bir alacaklı, 376 ncı maddenin üçüncü fıkrası uyarınca yapacağı iflâs talebiyle birlikte veya bu kapsamda yapılan iflâs yargılaması sırasında 2004 sayılı Kanunun 285 inci ve devamı maddeleri uyarınca konkordato da talep edebilir.
 4. Riskin erken saptanması ve yönetimi
