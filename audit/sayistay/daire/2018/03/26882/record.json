@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "536",
+  "decision_date": "2018-03-15",
+  "source_id": 26882,
+  "chamber": "6",
+  "ilam_number": "132",
+  "item_number": 45,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26882/",
+  "source_sha256": "24376452023969c23cf3f3d2d749c9f8339d7a3ebc2e1a41d56e90848c507a7f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
