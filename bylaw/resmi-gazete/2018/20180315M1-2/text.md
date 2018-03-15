@@ -1,0 +1,53 @@
+15 Mart 2018 PERŞEMBE
+Resmî Gazete
+Sayı : 30361 (Mükerrer)
+TEBLİĞ
+Meslekî Yeterlilik Kurumundan:
+ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ
+(TEBLİĞ NO: 2018/4)
+Amaç ve
+kapsam
+MADDE 1 –
+(1) Bu Tebliğin amacı, bu Tebliğin
+ekinde yer alan meslek standartlarının yürürlüğe konulmasını sağlamaktır.
+Dayanak
+MADDE 2 –
+(1) Bu Tebliğ, 21/9/2006 tarihli
+ve 5544 sayılı Meslekî Yeterlilik Kurumu Kanununun 21 inci maddesi ile
+19/10/2015 tarihli ve 29507 sayılı Resmî Gazete’de yayımlanan Ulusal Meslek
+Standartlarının ve Ulusal Yeterliliklerin Hazırlanması Hakkında
+Yönetmeliğin 10 uncu maddesine dayanılarak hazırlanmıştır.
+Yürürlük
+MADDE 3 –
+(1) Bu Tebliğ yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 4 –
+(1) Bu Tebliğ hükümlerini Meslekî
+Yeterlilik Kurumu Başkanı yürütür.
+EKLER
+Ek-1 Telekomünikasyon Operasyon ve İşletim Elemanı
+(Seviye 4) Ulusal Meslek Standardı
+Ek-2 Telekomünikasyon Operasyon ve İşletim
+Sorumlusu (Seviye 5) Ulusal Meslek
+Standardı
+Ek-3 Telekomünikasyon Operasyon ve İşletim Uzmanı
+(Seviye 6) Ulusal Meslek Standardı
+Ek-4 Telekomünikasyon Şebeke Kurulum Elemanı
+(Seviye 3) Ulusal Meslek Standardı
+Ek-5 Telekomünikasyon Şebeke Kurulum Elemanı
+(Seviye 4) Ulusal Meslek Standardı
+Ek-6 Telekomünikasyon Şebeke Kurulum Sorumlusu
+(Seviye 5) Ulusal Meslek Standardı
+Ek-7 Telekomünikasyon Şebeke Kurulum Uzmanı (Seviye
+6) Ulusal Meslek Standardı
+Ek-8 Telekomünikasyon Şebeke Planlama Saha Elemanı
+(Seviye 4) Ulusal Meslek Standardı
+Ek-9 Telekomünikasyon Şebeke Planlama Sorumlusu
+(Seviye 5) Ulusal Meslek Standardı
+Ek-10 Telekomünikasyon Şebeke Planlama Uzmanı
+(Seviye 6) Ulusal Meslek Standardı
+Ek-11 Kimyasal Cevher Zenginleştirme Operatörü (Seviye 3) Ulusal Meslek Standardı
+Ek-12 Mekanik (Fiziksel) Cevher Zenginleştirme
+Operatörü (Seviye 3) Ulusal Meslek Standardı
+Ekleri için tıklayınız.
