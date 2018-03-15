@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "299",
+  "decision_date": "2018-03-15",
+  "source_id": 26337,
+  "chamber": "5",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26337/",
+  "source_sha256": "eba2c350fb486d9a1815f53e2eb1abd69861507b842df24ac0f0ce84701056a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
