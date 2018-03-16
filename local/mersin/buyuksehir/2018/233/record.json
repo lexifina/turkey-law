@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "233",
+  "decision_date": "2018-03-16",
+  "title": "MEC.KAR. (ÇAMLIYAYLA SARIKAVAK 676 PARSEL).doc",
+  "listed_as": "233 MEC.KAR. (ÇAMLIYAYLA SARIKAVAK 676 PARSEL).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/233-meckar-camliyayla-sarikavak-676-parseldoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/16-mart-2018-meclis-kararlari",
+  "listing_sha256": "62827a666fb79dfd6506c5ad94005ed962d3bd889509069ff7a1ede634b0a160",
+  "meeting_title": "16 MART 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
