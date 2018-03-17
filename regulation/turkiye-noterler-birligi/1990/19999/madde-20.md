@@ -1,0 +1,6 @@
+Yönetmelik Öncesi İşlem Kâğıtlarının İmhası
+Madde 20 — Bu Yönetmeliğin yürürlüğe girmesinden önceki işlem kâğıtlarından yukarıda yazılı hükümlere göre imha edilebilir nitelik kazanan B ve C grubuna girenleri, ilgili noterin talebi üzerine komisyonca ayıklanarak bulundukları cilt ve cilbentlerden sökülerek çıkarılır.
+(Değişik fıkra:RG-15/2/1995-22303) Komisyon tarafından imha edilebilirliği saptanan evrakın kayıtlı bulunduğu yevmiye defterinin tasdik makamı ve tasdik tarihi ile kullanma yılı ve varsa numarası ile bu evrakın saklandığı cilt veya ciltbentlerin tarih ve numaralarının belirten iki nüsha liste hazırlanır.
+İmha işlemine geçilmeden önce komisyonca yeniden yapılan uygunluk kontrolü ile işin mahiyetine göre imha edilebilirlik kararında herhangi bir hata olup olmadığı araştırılması zorunludur.
+Yapılan bu inceleme sonunda da hata bulunmadığının saptanması halinde imhaya karar verilir ve keyfiyet bir tutanakla tespit olunur. Liste tutanağa eklenir ve dosyasında süresiz olarak saklanır.
+(Değişik fıkra:RG-3/10/2007-26662) Komisyonca, bu suretle kesinleşen listelere göre imha edilecek malzeme başkaları tarafından görülüp okunması mümkün olmayacak şekilde kıyılarak, öncelikle kağıt hammaddesi olarak kullanılmak üzere değerlendirilir. Bu şekilde değerlendirme imkanı bulunamaması halinde uygun bir yöntemle imha edilir.
