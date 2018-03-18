@@ -1,0 +1,1 @@
+MADDE 2 – (1) 18/7/2017 tarihli ve 30127 sayılı Resmî Gazete’de yayımlanan Gezi Tekneleri ve Kişisel Deniz Taşıtları Yönetmeliğince Atıfta Bulunulan Uyumlaştırılmış Standartlar veya Uyumlaştırılmış Standarda Karşılık Gelen Ulusal Standartlar Listesinin Yayımlanmasına İlişkin Tebliğ yürürlükten kaldırılmıştır.
