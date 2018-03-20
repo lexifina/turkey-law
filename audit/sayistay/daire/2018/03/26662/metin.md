@@ -1,0 +1,9 @@
+Ek Ödeme
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+.,……Müdürlüğü görevini vekaleten yürüten…………..’in vekalet görevine ilişkin görevlendirme yazısında vekaletin 657 sayılı Kanun’un 86’ncı maddesine istinaden yapıldığı hususunun belirtilmediği, bu nedenle 375 sayılı KHK’nın Ek 9’uncu maddesinin beşinci fıkrasına aykırı olarak müdürlük kadrosu için öngörülen ek ödemenin ilgiliye ödenmesinin kamu zararı oluşturduğu iddia edilmiş ise de;
+
+………….Müdürlüğü görevini vekaleten yürüten………..’in 657 sayılı Devlet Memurları Kanunu’nun 175’inci maddesi, 2006/10344 sayılı Bakanlar Kurulu Kararına ekli Kararın 9’uncu maddesi, Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmeliğin 7’nci maddesi ve 375 sayılı KHK’nın Ek 9’uncu maddesi uyarınca genel ve ilgili özel mevzuatı uyarınca asaleten atanmada aranan tüm şartları (asaleten atanmada sınav şartı aranılan kadro veya görevler için bu sınavlara girebilme hakkının elde edilmiş olması dahil) bir arada taşıdığı, vekalet onayına ‘vekaletin 657 sayılı Kanun’un 86’ncı maddesine istinaden yapıldığı’ ibaresinin sehven yazılmadığı, 27.02.2017 tarihli yeni bir onay alınarak hatanın düzeltildiği görülmüştür.
+
+Bu itibarla vekaleten görevlendirme yazısına sehven yazılmayan ibarenin yeni alınan onaya yazılarak hatanın düzeltildiği ve ilgilinin genel ve ilgili özel mevzuatı uyarınca asaleten atanmada aranan tüm şartları (asaleten atanmada sınav şartı aranılan kadro veya görevler için bu sınavlara girebilme hakkının elde edilmiş olması dahil) bir arada taşıdığı anlaşıldığından vekalet edilen kadro ile asli kadrosu arasındaki ….TL ek ödeme farkının ödenmesi hakkında ilişilecek husus bulunmadığına  6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle  karar verildi.
