@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "538",
+  "decision_date": "2018-03-20",
+  "source_id": 26379,
+  "chamber": "6",
+  "ilam_number": "377",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26379/",
+  "source_sha256": "cc85252aa584d4d44bce03d1ada258cb8f547b800526351d943ed392bcbbccd1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
