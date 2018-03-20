@@ -1,0 +1,2 @@
+Öğretim
+MADDE 12 – (1) Öğretim, öğretim planında görülen dersler, uygulamalar, proje ve stüdyo, laboratuar ve atölye çalışmaları, pratik çalışmalar, stajlar, iş yeri eğitimleri, ev çalışmaları, arazi üzerinde uygulamalar, seminerler, bitirme çalışması ve benzeri çalışmalardan oluşur. İlgili kurullarca aksi kararlaştırılmadıkça, her dersin uygulama, laboratuar ve benzeri çalışmalarının süresi bir yarıyıldır.

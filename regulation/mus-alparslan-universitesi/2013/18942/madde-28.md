@@ -1,0 +1,3 @@
+Onur ve yüksek onur öğrencileri
+MADDE 28 – (Değişik:RG-18/11/2015-29536)
+(1) Her yarıyılın/yılın sonunda, müfredat programındaki o yarıyılın/yılın tüm derslerini almak koşulu ile FD ve FF notu olmayan ve disiplin cezası almamış öğrencilerden ANO’su 3.00-3.50 olan öğrenciler onur öğrencisi, 3.51- 4.00 olan öğrenciler ise yüksek onur öğrencisi sayılır. Bu öğrencilerin listesi, dekanlıklar veya müdürlükler tarafından her yarıyılın/yılın sonunda ilan edilir. Onur ve yüksek onur öğrencisi olanların transkriptlerinde bu durumları belirtilir. Aynı yöntemle, her mezuniyet döneminde birimlerde ve Üniversite genelinde ilk üç derece ayrı ayrı belirlenir.

@@ -1,0 +1,3 @@
+Danışmanlık
+MADDE 6 – (Değişik:RG-18/11/2015-29536)
+(1) Kaydını yaptıran her öğrenci için ilgili bölüm başkanınca, bölümün öğretim üyeleri arasından bir akademik danışman görevlendirilir. Yeterli öğretim üyesi bulunmayan bölümlerde, diğer öğretim elemanları da danışman olarak görevlendirilebilir. Gerektiğinde, birim amirinin görevlendirmesi ile diğer bölümlerden danışman görevlendirmesi de yapılabilir. Danışman, öğrencilerine öğrenim süresi boyunca akademik başarısı yönüyle rehberlik eder. Öğrenciler danışmanlarının görüşünü alarak her yarıyıl/yılbaşında alacakları derslere kayıt yaptırırlar. Bölüm başkanı, öğrencilerin faaliyetleri ve başarı durumları hakkında gerektiğinde danışmanlardan rapor isteyebilir.
