@@ -1,0 +1,5 @@
+Madde 405 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+İtiraz ve Temyiz komisyonlarınca verilen kararlar müphem olur veya birbirine uymayan fıkraları ihtiva ederse taraflardan her biri kararın tebliği tarihinden başlıyarak 15 gün içinde iphamın tavzihini veya tenakuzun giderilmesini kararı veren komisyondan istiyebilir.
+İtiraz ve Temyiz komisyonları kararlarına göre vergi dairesince hesaplanan vergi miktarında yanlışlık olduğunu iddia eden mükellef, bu vergi miktarının kendisine bildirilmesinden başlıyarak 15 gün içinde kararı veren komisyondan yanlışlığın düzeltilmesini istiyebilir.
+Yukarıki hallerde kararı vermiş olan komisyon işi tetkik eder. Lüzum görürse bu husustaki dilekçenin bir suretini cevap vermek üzere münasip bir mehil tayin ederek diğer tarafa tebliğ eyler, iki nüsha olarak verilmesi lazım gelen cevabın biri iphamın tavzihi veya tenakuzun giderilmesi veyahut yanlışlığın düzeltilmesi talebinde bulunan tarafa tebliğ edilir.
+Komisyonlarca kararın tavzihine yahut tenakuzun giderilmesine veya yanlışlığın düzeltilmesine karar verilirse keyfiyet kararın altına yazılır ve diğer tarafa da ayrıca tebliğ olunur.

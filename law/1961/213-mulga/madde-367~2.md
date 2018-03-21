@@ -1,0 +1,11 @@
+Madde 367 – ( 30/12/1980 tarihli ve 2365 sayılı Kanunun hükmüdür.)
+(Değişik : 23/6/1982 - 2686/40 md.) Yaptıkları inceleme sırasında 359 ve 360 ıncı maddelerde yazılı kaçakçılık veya iştirak suçlarını (...) (1) tespit eden maliye müfettişleri, hesap uzmanları ile bunların muavinleri ve gelirler kontrolörleri ile stajyer gelirler kontrolörleri tarafından doğrudan doğruya ve vergi incelemesine yetkili olan diğer memurlar tarafından ilgili vergi dairesinin bağlı bulunduğu vergi dairesi başkanlığının veya defterdarlığın mütalaasıyla, (...) (1) keyfiyetin yetkili Cumhuriyet Savcılığına bildirilmesi mecburidir.(2)(3)
+Yukarıda belirtilen kaçakçılık suçunun işlendiğine sair suretlerle ıttıla hasıl eden Cumhuriyet Savcılığı hemen ilgili vergi dairesini haberdar ederek inceleme yapılmasını talebeder.
+Amme davasının açılması, inceleme neticesinin Cumhuriyet Savcılığına bildirilmesine talik olunur.
+(Değişik : 22/7/1998 - 4369/81 md.) 359 ve 360 ıncı maddeler uyarınca uygulanan hapis cezaları, vergi ziyaı cezası veya usulsüzlük cezalarının ayrıca uygulanmasına engel teşkil etmez.
+Ceza mahkemesinden sadır olacak kararlar, bu Kanunun dördüncü kitabının ikinci kısmında (...) (1) yazılı vergi cezalarını uygulayacak makam ve merciler muamele ve kararlarına müessir olmadığı gibi bu makam ve mercilerce ittihaz edilecek kararlar da ceza yargıcını bağlamaz.
+——————————
+(1) Bu fıkralarda yeralan “344 üncü maddenin 1-6 numaralı bentlerinde yazılı kaçakçılık suçlarını veya kaçakçılığa teşebbüs suçlarını”,”defterdarlığın mütalaasıyla” “kısmının 1-3 üncü bölümlerinde” ibareleri, 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+(2) Bu fıkrada yeralan “…gelirler kontrolörleri…” ibaresinden sonra gelmek üzere, 25/5/1995 tarih ve 4108 sayılı kanunun 10 uncu maddesi ile “…ile stajyer gelirler kontrolörleri…” ibaresi eklenmiş ve metne işlenmiştir.
+(3) Bu fıkra, 22/7/1998 tarih ve 4369 sayılı Kanunun 16 ncı maddesiyle eklenmiş, ancak 1/1/2003 tarihinde yürürlüğe gireceği için metne işlenmeden, 11/8/1999 tarih ve 4444 sayılı Kanunun 14 üncü maddesiyle yürürlükten kaldırılmıştır.(Sözkonusu fıkra için bakınız: Kanunlar külliyatı 6 ncı cilt sayfa 7598)
+654-31

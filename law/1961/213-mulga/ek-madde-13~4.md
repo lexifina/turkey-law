@@ -1,0 +1,2 @@
+Ek Madde 13 - dördüncü fıkra – bent a) (20/3/1997 tarihli ve 570 sayılı KHK’nin hükmüdür.)
+Maliye Bakanlığı ile bağlı kuruluşlarının merkez ve taşra teşkilatında çalışan memurlar ile sözleşmeli personele (Vergi Denetim Kurulu Başkan ve Yardımcıları, Vergi Müfettişi ve Yardımcıları ile bağlı kuruluşların kadro karşılığı sözleşmeli personeli hariç) en yüksek Devlet memuru aylığının (ek gösterge dahil) % 200'ünü geçmemek üzere ek ödeme yaptırmaya,(1) (3) (4) (5)(8)

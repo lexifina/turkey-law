@@ -1,0 +1,3 @@
+Madde 412– (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+İncelemelerin iadesinin istenebilmesi için, on lira depozito yatırılması ve bunun makbuzunun dilekçeye bağlanması şarttır. Depozito, incelemelerin iadesi isteği kabul olunduğu takdirde mükellefe geri verilir, reddedildiği takdirde irat kaydolunur.
+10 – 23/6/1982 tarih ve 2686 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 5, 6, 14, 16, 26, M. 30, 35, 41, 45, 72, 73, 84, 85, M. 86, 92, 101, 108, 112, 121, 122, 123, 124, 125, 126, M. 185, 232, 233, 248, 249, 255, 257, M. 257, 267, 298, 344, 353, 366, 367, 368, 374, 376, Ek 1, Ek 4, Ek 6, Ek 7, Ek 8, 377, 378)

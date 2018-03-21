@@ -1,0 +1,2 @@
+Madde 127 – (30/12/1980 tarih ve 2365 sayılı Kanunun hükmüdür.)
+Yoklamadan maksat; mükellefleri ve mükellefiyetle ilgili maddi olayları, kayıtları ve mevzuları araştırmak ve tespit etmektir. Yoklamaya yetkili memurlar vergi kanunlarının uygulanmasıyla ilgili olarak nakil vasıtalarında yolculisteleri ve nakliye irsaliyelerinin muhtevası ile taşınan yolcu ve malların miktar ve mahiyetini tesbit etmeye de yetkilidir.

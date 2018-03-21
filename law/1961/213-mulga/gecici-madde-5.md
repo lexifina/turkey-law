@@ -1,0 +1,6 @@
+Geçici Madde 5 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+Bu kanunun mer'iyete girdiği tarihte veya mütaakıp yıllarda ticari veyazirai kazançları dolayısiyle yeniden Gelir Vergisi mükellefiyetine gireceklerin amortismana tabi iktisadi kıymetleri maliyet bedeli, maliyet bedeli bilinmiyorsa bizzat kendilerince alış tarihindeki rayice göre takdir olunacak emsal bedeli de değerlenir. Şu kadar ki, bu kıymetlerin alış tarihleri ile mükellefiyete giriş tarihi arasındaki yıllara ait amortismanlar tutarı bu değerlerden düşülür.
+Alış emsal bedelinin fazla hesaplandığının tesbiti halinde bundan dolayı mükellef adına ceza kesilmez.
+3 – 26/6/1964 tarih ve 485 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 42,43,92,279,280,294,354)
+Madde 42 fıkra bir – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+Ortalama kar hadleri Maliye Bakanlığınca emtia ve iş nevilerine göre hazırlanacak cetveller üzerine il merkezindeki ticaret odalarınca bunların bulunmadığı il merkezlerinde belediyelerce seçilecek dört kişi ile o il defterdarının ve mazereti halinde tevkil edeceği bir maliye memurunun başkanlığında kurulan özel bir komisyon tarafından ilçe itibariyle gayrisafi kazanca göre ayrı ayrı tayin olunur.

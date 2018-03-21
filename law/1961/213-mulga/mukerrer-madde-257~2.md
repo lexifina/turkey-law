@@ -1,0 +1,4 @@
+Mükerrer Madde 257 – (23/6/1982 tarih ve 2686 sayılı Kanunun hükmüdür.)
+Maliye Bakanlığı bu Kanuna göre tutulacak defter ve düzenlenecek belgeler ile bunlara ek olarak tutulması veya düzenlenmesini uygun gördüğü defter ve belgelerin mahiyeti, şekli ve ihtiva edeceği hususları belirlemeye ve bunlarda değişiklik yapmaya; bunlar için tasdik, muhafaza ve ibraz mecburiyeti koymayave kaldırmaya gerektiğinde makineli kasa kullandırmaya yetkilidir.
+Madde 313 fıkra bir – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+İşletmede bir yıldan fazla kullanılan ve yıpranmaya, aşınmaya veya kıymetten düşmeye maruz bulunan gayrimenkullerle 269 uncu madde gereğince gayrimenkul gibi değerlenen iktisadi kıymetlerin, alet, edevat, mefruşat ve demirbaşlarınve sinema filmlerinin birinci kısımdaki esaslara göre tesbit edilen değerinin, bunların kullanılabilecekleri süre zarfında yok edilmesi amortisman mevzuunu teşkil eder.

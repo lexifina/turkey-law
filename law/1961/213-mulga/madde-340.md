@@ -1,0 +1,2 @@
+Madde 340 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+(Değişik birinci fıkra: 30/12/1980 – 2365/66 md.) Bu kanunda yazılı kaçakçılık, ağır kusur, kusur ve usulsüzlük cezaları ile Türk Ceza Kanununda ve diğer kanunlarda yazılı cezalar; içtima ve tekerrür hükümleri bakımından birleştirilemez. Bu kanunla vergi cezasiyle cezalandırılan fiiller, aynı zamanda Türk Ceza Kanununa göre suç teşkil ettiği takdirde vergi cezası kesilmesi, mezkür kanun hükmüne tevfikan takibat yapılmasına mani olmaz.

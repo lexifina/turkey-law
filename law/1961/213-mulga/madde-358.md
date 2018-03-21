@@ -1,0 +1,2 @@
+Madde 358 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+357 nci maddenin 1 – 6 ncı bentlerinde yazılı fiilleri verginin tarhı için kanunda belli edilen sürenin girmesinden önce meydana çıkarılanlar ile vergi daireleri veya vergi incelemesi yapanlarca vaki yazılı talebe rağmen servet beyanında bulunmayanlar, bu fiillerin vergi ziyaını mucip olup olmıyacağına bakılmadan hileli vergi suçuna teşebbüs etmiş sayılırlar.

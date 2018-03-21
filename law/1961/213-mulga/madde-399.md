@@ -1,0 +1,2 @@
+Madde 399 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+Temyiz Komisyonu, kararlarında tarafların iddia ve müdafalarının kabul veya reddi sebeplerini göstermeye mecburdur. İtirazda ileri sürülmiyen iddia ve müdafaalar temyiz sırasında nazara alınmaz. Şu kadar ki, temyiz komisyonu iki tarafın iddia ve müdafaalariyle mukayyet olmayıp zaman aşımı ile maddi hataları ve kanunun açık hükümlerine aykırı gördüğü diğer hususları re'sen inceleyebilir.

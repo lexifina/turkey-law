@@ -1,0 +1,6 @@
+Madde 277 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+Satmak, üretmek, sütünden veya diğer mahsullerinden istifade etmek gibi maksatlarla yetiştirilen veya satın alınan hayvanlar, cinsleri ve yaşları nazara alınmak suretiyle gruplandırılır ve Maliye ve Tarım Bakanlıklarınca bu gruplara mütenazıran hazırlanan ortalama maliyet cetvellerinde tesbit edilen kıymetlere göre değerlendirilir.
+603
+Kıymetleri bu suretle tesbit edilmemiş olan hayvanlar emsal bedelleri üzerinden değerlendirilir.
+Madde 384 fıkra bir – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+İtiraz komisyonu re'sen veya taraflardan birinin talebi üzerine lüzum görürse fenni ihtisasa taallük etmiyen işlerde başkan veya üyeleri arasından belli edeceği bir zat, fenni ihtisasa taallük eden işlerde bu zatın naipliği altında tarafsız bilirkişi marifetiyle arazi ve binaları gözden geçirmek, mükellefin defter ve vesikalarını incelemek ve her türlü tetkikatı yaptırmak,lüzum gördüğü kimseleri, çağırıp izahat veya yazı ile malümat almak veya mükelleften gayri üçüncü şahısların defter ve vesikalarını tetkik etmek veya ettirmek suretiyle incelemeleri derinleştirir ve gerekirse yeni deliller istiyebilir. İlgililerin sözlü izahatı zapta geçirilerek sahiplerine imzalattırılır.

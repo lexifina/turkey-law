@@ -1,0 +1,6 @@
+Madde 406 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+Bu kanunun birinci maddesinde yazılı vergi, resim ve harçlar hakkında mükelleflik, muaflık ve istina, mükelleflik şekli ve vergi cezalarının uygulanması bakımlarından doğan ihtilaflar için ilk önce itiraz ve temyiz komisyonlarına başvurulur. Bu komisyonlara başvurulmadan bahsi geçen hususlara mütaallik ihtilaflar hakkında Danıştaya gidilemez. Komisyonlara dermeyan edilmeyen iddia ve hususlar Danıştayda ileri sürülemez.
+631
+(30/12/1980 tarih ve 2365 sayılı Kanunun hükmüdür.) Yukarıki fıkrada yazılı hususlar hariç olmak üzere miktarı altmış bin lirayı (İl özel idare vergilerinde on bin lirayı) aşmayan matrahlar üzerinden tarh olunan vergi, resim ve harçlar ile on bin lirayı aşmayan belediye gelirleri hakkında Temyiz Komisyonunca verilen kararlar kesin olup, aleyhine Danıştayda temyiz davası açılamaz.
+Vergi daireleri Maliye Bakanlığının, (İl özel idareleriyle belediyeler valilerin) muvafakatini almadan Temyiz Komisyonunun kesin kararları aleyhine Danıştayda temyiz davası açamazlar.
+Danıştay bozma kararı üzerine Temyiz Komisyonu kararında ısrar ederse ihtilaf Danıştay Dava Daireleri Genel Kurulunca incelenip karara bağlanır. Bukarara gerek Danıştay daireleri gerekse temyiz komisyonu uymaya mecburdur.

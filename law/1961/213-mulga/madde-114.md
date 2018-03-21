@@ -1,0 +1,1 @@
+Madde 114 – fıkra iki – (4/1/1961 tarihli ve 213 sayılı Kanunun hükmüdür.) Şu kadar ki, vergi dairesince matrah takdiri için takdir komisyonuna başvurulması zamanaşımını durdurur. Duran zamanaşımı mezkür komisyon kararının vergi dairesine tevdiini takip eden günden itibaren işlemeye devam eder. (1)

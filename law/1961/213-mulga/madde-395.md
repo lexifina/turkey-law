@@ -1,0 +1,6 @@
+Madde 395 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+Temyiz dilekçeleri Temyiz Komisyonuna veya temyiz edilen kararı veren itiraz komisyonuna verilir. Diğer tarafı teşkil eden şahıslar sayısınca dilekçenin örnekleri de bağlanır. Bu örnekler derhal diğer tarafa tebliğ olunur. Diğertaraf 15 gün içinde yazılı cevabını aynı komisyonlara iki nüsha olarak verir ve bir nüshası diğer tarafa tebliğ olunur. Bu yazılı cevapların da temyiz dilekçelerinin ihtiva ettiği hususları ve temyiz sebeplerine karşı cevapları ihtiva etmesi lazımdır.
+628
+Temyiz dilekçeleri ve cevapları taahhütlü olarak postaya verilebileceği gibi mükellefin bulunduğu yerde muvazzaf itiraz komisyonu varsa o komisyon başkanlığına, yoksa itiraz komisyonu başkanı sıfatiyle mahallin en büyük mülkiye amirine verilir. Bu komisyonlar veya komisyon başkanı sıfatiyle mülkiye amiri aldıkları dilekçe ve örneklerini kayda geçirdikten sonra kararı veren itiraz komisyonuna gönderir.
+Temyiz dilekçesinin ve cevabın postaya veya itiraz komisyonlarına veya mülkiye amirine verildiği tarih temyiz talebinin yapıldığı tarih sayılır.
+Kararı veren komisyonca tebliğ yapılıp yazılı cevap alındıktan veya yazılı cevap için belirli süre geçtikten sonra temyiz dilekçesi itiraz dosyasiyle birlikte temyiz komisyonuna gönderilir.

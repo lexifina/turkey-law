@@ -1,0 +1,2 @@
+Madde 363 – (4/1/1961 tarihli ve 213 sayılı Kanunun hükmüdür.)
+Bu kanunun altıncı maddesinin son fıkrası gereğince mükelleflerin vergi kanunlarının uygulanması ile ilgili hesap, yazı ve sair özel işlerini yapmaları yasak edilen memurlardan bu yasağa aykırı harekette bulunanlar Türk Ceza Kanununun 240 ıncı maddesine göre ceza görürler. (Değişik cümle: 22/7/1998 - 4369/81 md.) Bu hareketler kaçakçılık suçu cezasının gerektiren bir fiile iştirak mahiyetinde olduğu taktirde haklarında ayrıca bu Kanunun 344 üncü maddesinin üçüncü fıkrası hükmü uygulanır.

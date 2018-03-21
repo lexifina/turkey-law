@@ -1,0 +1,3 @@
+Madde 355 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+a) Damga Resmi mevzuuna giren kağıtlar ve ilanlara yapıştırılan pullar, Damga Resmi Kanununun belli ettiği şekilde iptal edilmemişse, iptal edilmemiş olan pulların kıymeti üzerinden maktu resimlerde yüzde 50, nispi resimlerde yüzde on vergi cezası kesilir. Bu hüküm, resmi daireler, noterler, bankalar ve anonim şirketlerle 3659 sayılı kanuna tabi kurumlara ve derneklere ibraz edilenveya gönderilen kağıt ve ilanların iptal edilmemiş pulları hakkında uygulanmaz.
+b) Damga Resmi, ilgili vergi kanununda belli edildiği şekilde ifa edilmiyen hallerde maktu resimlerde resmin yüzde 50 si ve nispi resimlerde yüzde 10 unispetinde usulsüzlük cezası alınır.

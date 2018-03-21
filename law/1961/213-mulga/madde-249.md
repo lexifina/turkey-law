@@ -1,0 +1,2 @@
+Madde 249 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+Gelir Vergisinde en az geçim indiriminden faydalanabilmek için karne almak mecburiyetinde olanlar, medeni hal ve aile durumu hakkında vergi karnesine yazılmış olan bilgiler ve bunlarda vakı olan değişiklikler mükellefin ikamet ettiği veya çalıştığı mahallenin muhtarına tasdik ettirilir. Buna imkan olmıyan hallerde mükellefin karneye yazdığı bilgilerin doğruluğu idari tahkikatla tesbit olunur ve karnenin tescili tahkikat neticesinde yapılır.

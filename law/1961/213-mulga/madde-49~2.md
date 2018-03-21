@@ -1,0 +1,7 @@
+Madde 49 – (19/2/1963 tarih ve 205 sayılı Kanunun hükmüdür.)
+Zirai kazanç ölçüleri üç yıl için tesbit olunur. Şu kadar ki ölçülerin tesbitine esas olan unsurlarda önemli değişiklikler vuku bulduğunun anlaşılması halinde, Zirai Kazançlar Merkez Komisyonu, bu ölçülerin uygulama süresini lüzumlu gördüğü zirai faaliyet ve mahsul nevileri için bir yıldan aşağı olmamak üzere kısaltmaya yetkilidir.
+Mükerrer Madde 49 bent (b ve d) – (30/5/1985 tarih ve 3210 sayılı Kanunun hükmüdür.)
+b) Takdir Komisyonlarının arsalara ait asgari ölçüde birim değer tespitine ilişkin takdirleri genel beyanın yapılacağı sürenin başlangıcından en az altıay önce karara bağlanarak takdirin ilgili bulunduğu il ve ilçe merkezlerindeki ticaret odalarına, ziraat odalarına ve ilgili mahalle ve köy muhtarlıkları ile vergi dairelerine imza karşılığında verilir.
+Takdir komisyonlarının bu kararlarına karşı kendilerine karar tebliğ edilen daire, kurum, teşekkül ve muhtarlıklar 15 gün içinde ilgili vergi mahkemesi nezdinde dava açabilirler. Vergi mahkemelerince verilecek kararlar aleyhine15 gün içinde Danıştaya başvurulabilir.
+Kesinleşen asgari ölçüde arsa birim değerleri, ilgili vergi dairelerinde ve muhtarlıklarda uygun bir yere asılmak suretiyle genel beyan süresince ilane dilir.
+d) (a) ve (b) fıkralarındaki bina metrekare normal inşaat maliyet bedelleri ile arsalara ait asgari ölçüde birim değer tespitlerine ilişkin süreleri Emlak Vergisi genel beyan dönemleri ile ilgili olmak üzere gerektiği ölçüde kısaltmaya Maliye ve Gümrük Bakanlığı yetkilidir.

@@ -1,0 +1,2 @@
+Madde 387 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+İtiraz eden itirazı hakkında komisyon tarafından karar verilinceye kadar itirazından vazgeçebilir.Vazgeçme, vazgeçenin itiraz komisyonuna vereceği bir dilekçe ile veya dinlenilme veya izahat verme sırasında keyfiyetin tutanağa geçirilmesiyle yapılabilir; bu takdirde vazgeçme tutanağı vazgeçene imzalattırılır. Vezgeçme açık olmalıdır. Vazgeçme halinde itiraz eden o olayda itiraz ve temyiz hakkını kaybetmiş olur.

@@ -1,0 +1,22 @@
+Madde 163 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+İş ve teşebbüsün:
+a) Aynı vergi dairesi mıntakasında bir yerden diğer bir yere nakledilmesi adres değişikliği;
+b) Vergi dairesi mıntakası dışına çıkarılması, işi bırakma ve gidilen yerde işe başlama;
+sayılır.
+Madde 320 fıkra iki – (24/6/1994 tarih ve 4008 sayılı Kanunun hükmüdür.)
+Ancak, kıymetlerin aktife girdiği ilk hesap döneminde, dönemin bitimine kaçay kalmış ise bu hesap dönemi için ay kesri tam ay sayılmak suretiyle kalan ay süresi kadar amortisman ayrılır. Amortisman ayrılmayan süreye isabet eden bakiye değer, itfa süresinin son yılında tamamen yok edilir.
+654-11
+Madde 344 fıkra iki bent (1) – (24/6/1994 tarih ve 4008 sayılı Kanunun hükmüdür.)
+1. Vergi kanunlarına göre tutulması mecburi olan defterleri tutmamak,bu defterlere kaydı gereken hususları kaydetmemek,vergi matrahının azalmasını tevlit edecek tarzda tamamen veya kısmen diğer defter veya kağıtlara kaydetmek.
+Madde 353 bent (1), (2), (3), (4) ve (6) – (24/6/1994 tarih ve 4008 sayılı Kanunun hükmüdür.)
+1. Verilmesi ve alınması icabeden fatura, gider pusulası, müstahsil makbuzu ile serbest meslek makbuzunu vermeyen ve almayanlardan herbirine, her fatura, gider pusulası, müstahsil makbuzu ve serbest meslek makbuzu için 1 000 000 (1.500.000) liradan aşağı olmamak üzere bu belgelere yazılması gereken meblağın yüzde yirmibeşi nispetinde özel usulsüzlük cezası kesilir.
+2. Perakende satış fişi, ödeme kaydedici cihazla verilen fiş, giriş ve yolcu taşıma bileti, sevk irsaliyesi, taşıma irsaliyesi, yolcu listesi, günlük müşteri listesi ile Maliye Bakanlığınca düzenlenme zorunluluğu getirilen belgelerin; kullanılmadığının, düzenlenmediğinin, bulundurulmadığının, irsaliyeve yolcu listesinin ayrıca taşıtta bulundurulmadığının, düzenlenen belgelerdeaslı ile örneğinde farklı meblağlara yer verildiğinin veya gerçeğe aykırı olarak düzenlendiğinin tespiti halinde, herbir belge için 1 000 000 (1.500.000) lira özel usulsüzlük cezası kesilir.
+3. 232 nci maddenin birinci fıkrasının 1 ila 5 numaralı bentlerinde sayılmayan kişilerin, fatura, gider pusulası, müstahsil makbuzu, serbest meslek makbuzu, perakende satış vesikası, ödeme kaydedici cihaz fişi ve giriş ve yolcutaşıma biletlerini almadıklarının tespit edilmesi halinde, bunlara münhasıranbu maddenin 1 numaralı bendinde belirtilen cezanın beşte biri kadar özel usulsüzlük cezası kesilir. Şu kadar ki, bu cezanın kesilebilmesi için, belge alınmadığına ilişkin tespitin vergi incelemesine yetkili olanlar tarafından yapılması şarttır. Bu hükmün uygulanmasında belge düzenlenmediğine ve alınmadığına ilişkin tespit tutanağının bu belgeleri almayan veya vermeyenlere verilen örneği, ceza ihbarnamesi yerine geçer ve ceza 7 gün içinde ödenir. Bu cezanın tespit tutanağının düzenlendiği gün içinde ödenmesi halinde cezanın yarısı indirilir. 7 gün geçtiği halde ödenmeyen ceza iki kat olarak tahsil edilir
+4. Günlük kasa defteri, günlük perakende satış ve hasılat defteri, serbest meslek kazanç defteri ile Maliye Bakanlığınca tutulma ve günü gününe kayıt edilme mecburiyeti getirilen defterlerin günü gününe tutulmaması veya yoklamave incelemeye yetkili olanlara istendiğinde ibraz edilmemesi halinde ve vergi kanunlarının uygulanması bakımından levha bulundurma veya asma zorunluluğu bulunan mükelleflerin bu zorunluluğa uymamaları halinde, her tespitte1 000 000 (1.500.000) lira özel usulsüzlük cezası kesilir.
+6. Bu Kanuna göre belirlenen muhasebe standartlarına, tek düzen hesapplanına ve mali tablolara ilişkin usul ve esaslara uymayanlara 25.000.000 (37.500.000) lira özel usulsüzlük cezası kesilir.(1)
+12 Madde 359 – (30/12/1980 tarih ve 2365 sayılı Kanunun hükmüdür.)
+(Değişik birinci fıkra:24/6/1994 – 4008/20 md.) 344 üncü maddenin 1 - 6 numaralı bentlerinde yazılı kaçakçılık suçlarını işleyenler hakkında 345 inci maddede yazılı vergi cezalarından ayrı olarak altı aydan üç yıla kadar hapis cezası ile bu kadar müddet ticaret, sanat ve meslek icrasından mahrumiyete hükmolunur.
+Ayrıca masraf hükümlüden sonradan tahsil edilmek üzere keyfiyetin gazete çıkan yerlerde gazete ile, çıkmayan yerlerde mutad vasıtalarla ilan edilmesine de hükmolunur.
+——————————
+(1) Bu maddeye 24/6/1994 tarih ve 4008 sayılı Kanun ile getirilen miktarlar aynen bırakılmış, 8/12/1994 tarih ve 94/6296 sayılı Kararname ile 1/1/1995 tarihinden geçerli olmak üzere tespit edilen miktarlar ise metne parantez içinde siyah punto ile işlenmiştir. Daha önce Kararname ile yapılan değişiklik için bu Kanun'un sonundaki "KARARNAMELER İLE YAPILAN DEĞİŞİKLER CETVELİ"ne bakınız.
+654-12

@@ -1,0 +1,9 @@
+Kaçakçılığa teşebbüs:
+Madde 358 – (4/12/1985 tarih ve 3239 sayılı Kanunun hükmüdür.)
+1. 344 üncü maddenin 1 - 6 numaralı bentlerinde yazılı fiilleri veya bir hesap dönemi içinde ayrı tarihlerde en az iki defa fatura, sevk irsaliyesi, gider pusulası, müstahsil makbuzu, serbest meslek makbuzu, taşıma irsaliyesi, yolcu listesi, günlük müşteri listesi düzenlenmeme ve vesikasız mal bulundurma fiilleri,verginin tarhı için kanunda belli edilen sürenin girmesinden önce meydana çıkarılanlar, bu fiillerin vergi ziyaına neden olup olmayacağına bakılmaksızın;
+2. (Mülga: 3/12/1988 – 3505/34 md.)
+3. Bu Kanunun 127 nci maddesinin (d) bendi uyarınca Maliye ve Gümrük Bakanlığının özel işaretli görevlisinin ikazına rağmen araçlarını durdurmayanlar ve mükerrer 257 nci maddenin verdiği yetkiye dayanılarak çıkartılan yönetmelik gereğince, Maliye ve Gümrük Bakanlığı ve Defterdarlıklar ile anlaşma yapan matbaa işletmecilerinden muhteviyatı itibariyle yanıltıcı belge basan veya basıp dağıtanlar ile yönetmelikte belirtilen bildirim görevini yerine getirmeyenler;
+654-10
+4. (Ek: 3/12/1988 – 3505/7 md.) Maliye ve Gümrük Bakanlığınca veya defterdarlıklarca izin verilmediği halde, izin almış gibi Vergi Usul Kanunu uyarınca tutulması veya düzenlenmesi zorunlu belgeleri basanlar ve bu belgeleri kullananlar, Kaçakçılığa teşebbüs etmiş sayılırlar.
+Madde 359, fıkra bir – (30/12/1980 tarih ve 2365 sayılı Kanunun hükmüdür.)
+344 üncü maddenin 1 - 6 ncı bentlerinde yazılı fiilleri işleyenler hakkında 345 inci maddede yazılı vergi cezalarından ayrı olarak 3 aydan 3 yıla kadar hapis cezası ile bu kadar müddet ticaret sanat ve meslek icrasından mahrumiyete hükmolunur. (Ek:3/12/1988 – 3505/8 md.) Ancak, hapis cezasının paraya çevrilmesine hükmolunması halinde, para cezası tutarının hesabında, hapis cezasının her bir günü için sanayi sektörü için belirlenen, yürürlükteki asgari ücretin bir aylık tutarının yarısı esas alınır.

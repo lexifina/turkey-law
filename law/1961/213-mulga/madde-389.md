@@ -1,0 +1,2 @@
+Madde 389 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+(30/12/1980 tarih ve 2365 sayılı Kanunun hükmüdür.) İtiraz, tarh edilen verginin itilaflı kısmının tahsilini durdurur. Ancak ihtirazi kayıtla verilen beyannameler üzerine hesaplanan vergilere yapılan itirazlar verginin tahsilini durdurmaz. İtiraz komisyonu kararlarının taraflara tebliğinden sonra bu kararlara göretahsil edilecek vergi miktarı vergi idarelerince mükellefe bildirilir.

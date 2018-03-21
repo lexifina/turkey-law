@@ -1,0 +1,2 @@
+Madde 339 – (30/12/1980 tarih ve 2365 sayılı Kanunun hükmüdür.)
+Kaçakçılık, ağır kusur, kusur veya usulsüzlükten dolayı ceza kesilen ve cezası da kesinleşen bir kimse aynı neviden bir fiili cezanın kesinleştiği tarihi takibeden yılın başından başlamak üzere kaçakçılık, ağır kusur ve kusurda beş, usulsüzlükte iki yıl zarfında tekrar işlerse cezası kaçakçılıkta yarısı,ağır kusur ve kusurda üçte biri, usulsüzlükte dörtte biri nispetinde artırılır.

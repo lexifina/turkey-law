@@ -1,0 +1,1 @@
+Madde 5 – fıkra altı- ( 26/6/1964 tarihli ve 485 sayılı Kanunun hükmüdür.) Açıklanan bu bilgiler ele alınarak mükelleflerin haysiyet, şeref ve haklarına tecavüz edilemez. Aksine hareket edenler hakkında T. Ceza Kanununun 480, 481 ve 482 nci maddelerdeki cezalar üç misli olarak hükmolunur.

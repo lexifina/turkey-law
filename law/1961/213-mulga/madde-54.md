@@ -1,0 +1,2 @@
+Madde 54 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+Tahrir varakasına ne gibi bilgiler yazılacağı Maliye Bakanlığınca tayin olunur. Maliye Bakanlığı, arazi tahrir ve tadilat işlemlerinde tahrir varakası kullanılmamasına veya tahrir varakasının tahrir cetveliyle birleştirilerek birleşik tahrir varaka ve cetveli kullanılmasına karar verebilir. Bu cetvellere yazılacak bilgiler de Maliye Bakanlığınca tayin olunur.

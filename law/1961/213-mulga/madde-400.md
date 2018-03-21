@@ -1,0 +1,5 @@
+Madde 400 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+Temyiz isteği itiraz komisyonunca verilen kararların icrasını durdurmaz. Şu kadar ki, temyiz dilekçesinde veya temyiz dilekçesi verildikten sonra yazıile istenilmek şartiyle temyiz komisyonu teminat karşılığında icranın geciktirilmesine karar verebilir.
+İcranın tehiri talebini ihtiva eden dilekçeler vergi dairesinin müdafaası alındıktan veya müdafaa süresi geçtikten sonra itiraz dosyasiyle birlikte, nihayet üç gün içinde itiraz komisyonunca temyiz komisyonu başkanlığına gönderilir.
+Temyiz Komisyonu dosyasının gelmesi üzerine nihayet bir hafta içinde evvela icranın geciktirilmesi isteği hakkında bir karar verir ve bu karar derhal icabında telgrafla ilgili vergi dairesine ve mükellefe bildirilir. Bu işlemlerin yapılmasına kadar verginin tahsili durdurulur. Gerek kararın bildirilmesi üzerine gerekse temyiz komisyonu kararının dosyanın gönderilmesinden itibaren bir ay içinde gelmemesi halinde mükelleften teminat istenir. Mükellef istenilen teminatı beş gün içinde göstermediği takdirde teminat gösterilinceye kadar tahsil işlemlerine devam olunur.
+Bozma kararları icrayı durdurur.

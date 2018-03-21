@@ -1,0 +1,1 @@
+Madde 246 – fıkra iki- (4/1/1961 tarihli ve 213 sayılı Kanunun hükmüdür.) Görevini ihmal veya suiistimal eden muhtar ve ihtiyar heyeti üyeleri hakkında Türk Ceza Kanununun 230 ve 240 ıncı maddelerine göre takibat yapılır.

@@ -1,0 +1,8 @@
+Madde 344 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+Kaçakçılık, mükellef veya sorumlu tarafından kasten vergi ziyaına sebebiyet verilmesidir.
+616
+Aşağıda yazılı hallerden her hangi biri ile vergi ziyaına sebep olan fiilde, kastın mevcudiyeti kabul edilir; mükellef veya sorumlunun itiraz ve Temyiz komisyonlariyle Danıştay'da kastının mevcut olmadığını iddia ve ispat hakkımahfuzdur :
+1. Beyan üzerinden alınan vergilerle ilgili olup yıllık olarak verilmesi gereken beyannamelerde (Münferit ve özel beyannameler dahil) toplamı on bin, diğer beyannamelerde toplamı iki bin liradan az olmamak üzere beyannamede yazılı vergi matrahının % 10 unu geçen bir miktarın noksan bildirilmesi; (Beyanname dışında ayrıca bir tetkike ihtiyaç göstermeksizin beyannamede yazılı bilgilere dayanarak vergi dairesince tesbiti mümkün olan noksan bildirmeler bu hükümden hariçtir.)
+30 uncu maddede yazılı sebeplerle re'sen takdir olunan ve yukarda yazılı hadleri aşan matrah veya matrah farkları da noksan beyan hükmündedir. Mezkür maddenin 1 ve 2 nci bentlerinde yazılı sebeplerle yapılan re'sen takdirlerde bu hükmün uygulanması için takdir olunan matrahın on bin lirayı aşması yeter.
+2. Beyana dayanmakla beraber bildirmeleri beyanname ile yapılmıyan vergilendirmelerde, hiç beyanda bulunulmaması veya noksan veya gerçeğe aykırı beyanda bulunulması;
+3. Beyan esasına istinat eden mükellefiyetlerde beyanname verme süresi ve ek süre veya beyan esasına dayanmıyan vergilerde vergilendirme dönemi ve tarih zamanı geçtiği halde ticari veya mesleki kazanç sahiplerinin kazançlariyle ilgili faaliyetlerinin vergi dairesinin ıttılaı dışında bırakılması.

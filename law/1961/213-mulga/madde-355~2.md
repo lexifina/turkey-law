@@ -1,0 +1,4 @@
+36 – 30/12/2004 tarihli ve 5281 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:355, 356)
+Madde 355 – ( 30/12/1980 tarihli ve 2365 sayılı Kanunun hükmüdür.)
+a) Damga Vergisi mevzuuna giren kağıtlar ve ilanlara yapıştırılan pullar, Damga Vergisi Kanununun belli ettiği şekilde iptal edilmemişse, iptal edilmemiş olan pulların kıymeti üzerinden maktu vergilerde yüzde 50, nispi vergilerde yüzde 10 vergi cezası kesilir. Bu hüküm, resmi daireler, noterler, bankalar ve anonim şirketlerle 3659 sayılı Kanuna tabi kurumlara ve derneklere ibraz edilen veya gönderilen kağıt ve ilanların iptal edilmemiş pulları hakkında uygulanamaz.
+b) Damga Vergisi ilgili Vergi Kanununda belli edildiği şekilde ifa edilmeyen hallerde maktu vergilerde verginin yüzde 50'si ve nispi vergilerde yüzde 10'u nispetinde usulsüzlük cezası alınır.

@@ -1,0 +1,4 @@
+Madde 353 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+232, 234, 235 ve 236 ncı maddeler gereğince verilmesi ve alınması icap eden fatura, gider pusulası ve müstahsil makbuzunu vermiyen ve alınmıyanlardan her birine ve serbest meslek makbuzunu vermiyenlere her fatura, gider puslası, müstahsil makbuzu ve serbest meslek makbuzu için yirmi liradan (Çiftçilerdebeş liradan) aşağı olmamak üzere bu vesikalara yazılması gereken meblağın yüzde üçü (Çiftçiler için yüzde biri) nispetinde usulsüzlük cezası kesilir.
+Bir takvim yılı içinde tesbit olunan yukarda yazılı usulsüzlüklerin hepsi için kesilecek cezaların toplamı beş bin lirayı aşamaz.
+Yukarıki fıkrada yazılı usulsüzlükler neticesinde vergi ziyaı da husule geldiği takdirde bu ziyaın müstelzim olduğu kaçakçılık veya kusur cezaları ayrıca kesilir ve bu cezalar hakkında 336 ncı madde hükmü uygulanmaz.

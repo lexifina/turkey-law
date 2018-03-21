@@ -1,0 +1,4 @@
+Madde 336 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+Cezayı istilzam eden tek bir fiil ile kaçakçılık ve usulsüzlük veyahut kusur ile usulsüzlük birlikte işlenmiş olursa bunlara ait cezalardan sadece miktar itibariyle en ağırı kesilir. Usulsüzlük cezası kesilen bir fiil ile vergi zıyaına da sebebiyet verildiği sonradan anlaşıldığı takdirde evvelce usulsüzlük cezasının kesilmiş olması,bu cezanın zıyaa uğratılan vergiden dolayı kesilmesi gereken kaçakçılık veya kusur cezası ile mukayesesine ve noksan kesilen cezanın ikmaline mani değildir.
+Madde 337 fıkra bir – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+Ayrı ayrı yapılmış olan kaçakçılık, kusur veya usulsüzlükten dolayı ayrı ayrı ceza kesilir. Şu kadar ki, 352 nci maddede yazılı usulsüzlüklerden, aynıtakvim yılı içinde aynı neviden birden fazla yapıldığı takdirde birden fazlasının her biri için, birincisine ait cezanın dörtte biri kesilir.

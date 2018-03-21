@@ -1,0 +1,2 @@
+Madde 43 – (4/1/1961 tarih ve 213 sayılı Kanunun hükmüdür.)
+Maliye Bakanlığı yaptığı incelemeler sonunda nispetsiz veya hatalı gördüğü ortalama kar hadlerinin 42 nci maddede yazılı usule göre yeniden tesbit edilmesini ticaret odalarından veya belediyelerden ister. İkinci tesbite dekanaat etmediği takdirde son karara karşı Danıştay'a müracaat edebilir.Danıştay bu müracaatları tercihan inceleyerek karara bağlar.
