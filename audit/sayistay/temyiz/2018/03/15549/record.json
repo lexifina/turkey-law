@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44234",
+  "decision_date": "2018-03-21",
+  "source_id": 15549,
+  "chamber": "4",
+  "file_number": "41745",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15549/",
+  "source_sha256": "46d7f6431ebb5902e2623ded1fd092fe828e4fb0e841f0617078c42dc2d76868",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
