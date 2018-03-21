@@ -1,0 +1,20 @@
+Mükerrer Madde 81 – (24/12/1980 tarih ve 2361 sayılı Kanunla eklenen hükmüdür.)
+Değer artışında safi kazanç, elden çıkarılan mal ve hakların iktisap bedeli ile, elden çıkarma karşılığında alınan para ve ayınlarla sağlanan ve para iletemsil edilebilen her türlü menfaatlerin tutarı arasındaki müspet farktır. Hasılatın ayın ve menfaat olarak sağlanan kısmının tutarı Vergi Usul Kanununun değerleme ile ilgili hükümlerine göre tayin ve tespit olunur.
+Bu maddenin uygulanmasında mal ve hakların iktisap bedeli, bunların iktisapedilmesi için yapılan her türlü ödemelerin giderlerin ve ödenen vergi, resim veharçların toplamını ifade eder. Şu kadar ki;
+2. Menkul kıymetlerin elden çıkarılmasında iktisap bedelinin tevsik edilememesi halinde Vergi Usul Kanununun 266 ncı maddesinde yazılı itibari değer iktisap bedeli olarak alınır. İvazsız olarak iktisap edilen menkul kıymetlerin elden çıkarılmasında iktisap bedeli Veraset ve İntikal Vergisine esas olan matraha buiktisap dolayısiyle ödenen vergilerin eklenmesiyle bulunan miktardır.
+4. (31/12/1981 tarih ve 2574 sayılı Kanunun hükmüdür.) Ticari kazancı bilanço esasına göre tespit edilen işletmelerde iktisap bedeli yerine son bilançoda yazılı değerler esas tutulur.
+Madde 85 fıkra iki – (24/12/1980 tarih ve 2361 sayılı Kanunun hükmüdür.)
+İstisna hadleri içinde kalan kazanç ve iratlar için beyanname verilmez (31 nci maddedeki indirimler istisnadan madut değildir.)
+586
+Madde 86 bent (a) alt bent (1 ve 2) – (31/12/1982 tarih ve 2772 sayılı Kanunun hükmüdür.)
+1. Ücretlerden (Birden fazla işverenden ücret alan ve ücretlerinin yıllık gayrisafi tutarları toplamı üç milyon lirayı aşan hizmet erbabının ücretleri hariç);
+2. Tamamı tevkif yolu ile vergilendirilmiş bulunan ve gayrisafi tutarları toplamı üç milyon lirayı aşmayan menkul ve gayrimenkul sermaye iratlarından.
+Madde 87 fıkra bir ve iki – (31/12/1982 tarih ve 2772 sayılı Kanunun hükmüdür.)
+Tam mükellefiyette, vergiye tabi yıllık gayrisafi kazanç ve iratlarının toplamı üç milyon lirayı aşmayan mükelleflerin bu kazanç ve iratlarından vergisi tevkif yoluyla kesilmiş bulunan ücret, menkul ve gayrimenkul sermaye iratlarıile götürü usulde vergilendirilmiş bulunan ticari, mesleki kazançlarını ve ücretlerini beyannameye ithal etmeleri ihtiyaridir.
+Ücretler (Birden fazla işverenden ücret alan ve ücretlerinin yıllık gayrisafi tutarları toplamı üç milyon lirayı aşan hizmet erbabının ücretleri hariç), götürü usulde tespit olunan ticari vemesleki kazançlar ile kazanç ve iratların istisna hadleri içinde kalan kısımları üç milyon liralık haddin hesabında nazara alınmaz.
+Madde 89 bent (1) – (31/12/1980 tarih ve 2361 sayılı Kanunun hükmüdür.)
+1. Mükellefin şahsına, eşine ve küçük çocuklarına ait hayat, sakatlık, hastalık, analık, doğum, tahsil gibi şahıs sigortalarının primleri (Her sigortalı için yılda 3.000 lirayı aşmamak, gelirin elde edildiği yılda ödenmiş olmak, beyannameye alınmış ücretler varsa bunların safi miktarlarının hesaplanması sırasında ayrıca indirilmemiş bulunmak şartlariyle; eşlerin ve çocukların kendi gelirleri için ayrı beyanname vermeleri halinde, bunlara ait sigorta primleri aile reisi gelirinden indirilmez.)
+Dar mükellefiyete tabi olanlar sigorta primi indirimi yapamazlar.
+2. (13/7/1967 tarih ve 903 sayılı Kanunun hükmüdür.) Genel bütçeye dahil dairelere, katma bütçeli idarelere, il özel idareleri ile belediyelere, köylereve kamu menfaatlerine yararlı derneklere ve Türk Kanunu Medenisi gereğince kurulan vakıflara makbuz karşılığında yapılan bağış ve yardımlar. (Bir takvim yılı içinde yapılan bağış ve yardımların toplamı o yıla ait beyan edilecek gelirin % 5'ini aşarsa fazlası indirilmez. Bağış ve yardımın nakden yapılmaması halinde, bağışlanan veya yardımın konusunu teşkil eden mal veya hakkın mevcutsa mukayyet değeri bu değer mevcut değilse Vergi Usul Kanunu hükümleri dairesinde takdir komisyonlarınca tespit edilecek değer esas alınır.)
+Madde 93 fıkra beş – (19/2/1963 tarih ve 202 sayılı Kanunun hükmüdür.)
+Çocukluk hali, bu kanunun 33 üncü maddesi hükmüne göre tayin olunur.

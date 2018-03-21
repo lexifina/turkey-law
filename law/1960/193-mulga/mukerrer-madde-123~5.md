@@ -1,0 +1,9 @@
+Mükerrer Madde 123 – (26/12/1993 tarih ve 3946 sayılı Kanunun hükmüdür.)
+1. Bu Kanunun; 13, 17, 21, 47, 53, 68, Mükerrer 80 111 ve 112 nci maddelerinde yer alan maktu had ve tutarlar, 1.1.1993 tarihi itibariyle geçerli olan had ve tutarlarına yükseltilmiştir.
+2. Bu Kanunun 13, 17, 21, 23/8, ek 2, 47, 53, 68, mükerrer 80, 82, 86, 87, 111 ve 112 nci maddelerinde yer alan maktu had ve tutarların her birini ayrı ayrı veya topluca 10 katına kadar artırmaya Bakanlar Kurulu yetkilidir. (1)
+3. Bakanlar Kurulu, 47, 86 ve 87 nci maddelerde yazılı hadler hariç olmaküzere, 2 nci fıkrada yazılı yetkilerini kullanmadığı takdirde, her bir takvimyılında uygulanacak maktu had ve tutarlar, önceki yılda uygulanan maktu had ve tutarlara bu yıla ilişkin olarak Vergi Usul ve Kanunu uyarınca belirlenen yeniden değerleme oranında artış yapılmak suretiyle tespit edilir.
+——————————
+(1) Bu fıkraya "...21..." ifadesinden sonra gelmek üzere 25/5/1995 tarih ve 4108 sayılı Kanunun 26 ncı maddesi ile "...23/8..." ifadesi eklenmiş ve metne işlenmiştir.
+594-33
+4.(Değişik: 25/5/1995–4108/26 md.) Bu Kanunun 103 üncü maddesinde yer alan vergi tarifesinin ilk gelir dilimi tutarını 10 katına kadar artırmaya ve tarifenin diğer gelir dilimlerini de ilk dilim tutarının katları şeklinde belirlemeye Bakanlar Kurulu yetkilidir. Bu yetki kullanılmadığı takdirde, tarifenin ilk dilim tutarı hakkında bu maddenin 3 numaralı fıkrası uygulanır ve tarifenin diğer gelir dilimlerinin tutarları ilk dilimin katları şeklinde yeniden düzenlenir. Vergi tarifesinin gelir dilimlerine karşılık gelen vergi oranlarını, her bir dilim için ayrı ayrı veya topluca 10 puana kadar artırmaya veya indirmeye Bakanlar Kurulu yetkilidir.
+5. Bu maddeye göre, maktu had ve tutarların tespitinde 100 000 liraya, 103 üncü maddede yer alan gelir dilimleri tutarlarının tespitinde ise10 000 000 liraya kadar olan tutarlar nazara alınmaz.

@@ -1,0 +1,4 @@
+Ek Madde 3 – (19/2/1963 tarih ve 202 sayılı Kanunun hükmüdür.)
+Yatırım indirimi münhasıran öz sermayeden sağlanan veya karşılanan yatırım miktarına uygulanır. Bu maddenin uygulanmasında öz sermaye Vergi Usul Kanununun 192 nci maddesinde belirtilen kaynaklardır.
+Zirai yatırımlarda, kamu idare ve müesseseleri, bankalar, Türk Ticaret Kanununa veya özel kanunlara göre kurulan kurumlar, teşekküller ve kooperatifler tarafından çiftçilere verilen krediler, yatırım indirimi ile ilgili hükümlerin uygulanması bakımından öz sermaye gibi mütalaa edilir.
+(28/7/1967 tarih ve 933 sayılı Kanunun hükmüdür.) Yatırım indiriminin nispeti yukardaki fıkraya göre indirimden istifade edecek yatırım miktarının azami% 80 inidir. Bölgelere ve iktisadi faaliyet sektörlerine göre uygulanacak nispetler, bu haddi aşmamak üzere yıllık programlarda belirtilir.

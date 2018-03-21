@@ -1,0 +1,14 @@
+Madde 119 – (31/12/1982 tarih ve 2772 sayılı Kanunun hükmüdür.)
+94 ve 96 ncı maddeler gereğince yapılan vergi tevkifatı,vergi kesenler tarafından beyanname verecekleri süre içinde bağlı bulundukları vergi dairesine yatırılır.Ancak,94 üncü maddenin 8 numaralı bendinde yazılı kazanç ve iratların dağıtılmaması halinde yapılacak vergi tevkifatı;biri beyanname verme süresinde diğerleri Kurumlar Vergisinin ikinci ve üçüncü taksitleriyle birlikte olmak üzere üç eşit taksitte ödenir.
+Mükerrer Madde 123 fıkra (4) – (26/12/1993 tarih ve 3946 sayılı Kanunun hükmüdür.)
+4. Bu Kanunun 103 üncü maddesinde yer alan vergi tarifesinin, her bir takvim yılında uygulanacak gelir dilimleri,önceki yılda uygulanan gelir dilimi tutarlarına bu yıla ilişkin olarak Vergi Usul Kanunu uyarınca belirlenen yeniden değerleme oranında artış yapılmak suretiyle tespit edilir. Bu gelir dilimlerine karşılık gelen vergi oranlarını, her bir dilim için ayrı ayrı veya topluca 10 puana kadar artırmaya veya indirmeye Bakanlar Kurulu yetkilidir.
+Geçici madde 39 fıkra (4) – (26/12/1993 tarih ve 3946 sayılı Kanunun hükmüdür.)
+4) Gerçek usulde tespit edilen ticari kazancı olan eşin, bu kazançlarının safi tutarı ve ücretlerinin brüt tutarının yıllık toplamı, 16 yaşından büyük sanayi kesiminde çalışan işçiler için uygulanan asgari ücretin yıllık brüt tutarının 4 katını aşmaması şartıyla, bu kazanç ve ücretlerin aile reisi beyanına dahil edilmesi ihtiyaridir.
+Bu fıkra hükümleri, 1994–1999 takvim yılı gelirlerine uygulanır. Bu fıkranın uygulanmasında, asgari ücretin takvim yılı sonunda geçerli olan tutarı esasalınır.
+31 – 21/1/1998 tarih ve 4325 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri.(Madde numaraları:Geçici md.35.)
+Geçici Madde 35 fıkra 2 bent (f) – (26/12/1993 tarih ve 3946 sayılı Kanunun hükmüdür.)
+İlk defa işe başlayan mükelleflerde işe başlanılan yılda, götürülük şartlarını haiz olanlardan kendi isteği ile götürü usulden gerçek usule geçen mükelleflerde ise, gerçek usulde vergilendirmeye başlandığı yıldan itibaren üç yıl süre ile faaliyette bulunulan yörede uygulanan temel gösterge tutarının yarısı uygulanır.
+——————————
+(1) Bu maddede yeralan miktarlar 26/12/1993 tarih ve 3946 sayılı Kanun ile 1/1/1993 tarihi itibariyle geçerli olan hadlere yükseltilmiş 8/12/1994 tarih ve 94/6300 sayılı Kararname ile 1995 yılı gelirlerine uygulanmak üzere tespit edilen miktarlar ise metne parantez içinde siyah punto ile işlenmiştir. Daha önce Kararname ile yapılan değişiklik için bu Kanunun sonundaki"KARARNAMELER İLE YAPILAN DEĞİŞİKLİKLER CETVELİ" ne bakınız.
+594-14
+32 – 22/7/1998 tarih ve 4369 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 10, 11, 12, 13, 14, 17, 21, 23, 25, 53, 54, 60, 74, 85, 86, 87, 92, 93, 94, 107, 112, Mük. 112, 117, Ek Madde 4)

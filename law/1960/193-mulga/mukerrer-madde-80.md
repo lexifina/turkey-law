@@ -1,0 +1,11 @@
+Mükerrer Madde 80 – (Ek: 24/12/1980 tarih ve 2361 sayılı Kanunun hükmüdür.)
+Aşağıda yazılı mal ve hakların elden çıkarılmasından doğan kazançlar değer artışı kazançlarıdır. (1)
+1. (Mülga: 21/1/1982–2588/18 – C md.)
+2. (Değişik: 4/12/1985–3239/58 md.) Borsada kayıtlı olanlar ve ivazsız olarak iktisap edilenler hariç, menkul kıymetlerin iktisap tarihinden başlayarak bir yıl içinde veya iktisaptan evvel elden çıkarılmasından sağlanan kazançların bir takvim yılındaki tutarının 500.000 (5.500.000) lirayı aşan kısmı,
+3. (Değişik: 31/12/1981–2574/15 md.) 70 inci maddenin birinci fıkrasının 5 numaralı bendinde yazılı hakların (ihtira beratları hariç) elden çıkarılmasından doğan kazançların 500.000 (5.500.000) lirayı aşan kısmı,
+4. (Değişik: 31/12/1981–2574/15 md.) Telif haklarının ve ihtira beratlarının müellifleri, mucitleri ve bunların kanuni mirasçıları dışında kalan kimseler tarafından elden çıkarılmasından doğan kazançların 500.000 (5.500.000) lirayı aşan kısmı,
+5. Ortaklık haklarının veya hisselerinin elden çıkarılmasından doğan kazançlar,
+6. Faaliyeti durdurulan bir işletmenin kısmen veya tamamen elden çıkarılmasından doğan kazançlar.
+7. (Ek: 4/12/1985–3239/58 md.) İktisap şekli ne olursa olsun (ivazsız olarak iktisap edilenler hariç) 70 inci maddenin birinci fıkrasının 1, 2, 4 ve 7 numaralı bentlerinde yazılı mal (gerçek usulde vergiye tabi çiftçilerin zirai istihsaldekullandıkları gayrimenkuller dahil) ve hakların, iktisap tarihinden başlayarak dört yıl içinde elden çıkarılmasından doğan kazançlar (Kooperatiflerin ortaklarına bu sıfatları dolayısıyla tahsis ettikleri gayrimenkuller, tahsis tarihinde ortak tarafından satın alınmış sayılır.) (2)
+Bu maddede geçen "elden çıkarma" deyimi, yukarıda yazılı mal ve hakların satılması, bir ivaz karşlığında devir ve temliki, trampa edilmesi, takası, kamulaştırılması, devletleştirilmesi, ticaret şirketlerine sermaye olarak konulmasını ifade eder.
+Faaliyetine devam eden ticari bir işletmenin kısmen veya tamamen satılmasından veya ticari işletmeye dahil amortismana tabi iktisadi kıymetlerle birinci fıkrada yazılı hakların elden çıkarılmasından doğan kazançlar ticari kazançsayılır ve bunlara ticari kazanç hakkındaki hükümler uygulanır.

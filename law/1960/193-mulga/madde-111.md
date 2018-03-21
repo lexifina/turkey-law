@@ -1,0 +1,9 @@
+Madde 111 – (31/12/1960 tarih ve 193 sayılı Kanunun hükmüdür.)
+Yapılan vergi incelemelerinde, satışlarının % 50 den fazlası perakende olan ticaret erbabı ile yaptıkları imalatın % 50 sinden fazlasını perakendeolarak satan imalatçılar, otel, pansiyon, bar, gazino, lokanta, kahvehane, kır bahçesi, plaj ve emsali eğlence ve istirahat yerleri işletenlerin ve her nevitaşıma işleriyle iştigal edenlerin beyannamelerinde gösterdikleri safi kazançları, Vergi Usul Kanununa göre tesbit edilen ortalama kar hadlerinin, perakendecilerle imalatçılarda satılan emtianın maliyet bedeline; otel, pansiyon, veduhuliye ile girilen eğlence yerleri işletenlerde, iş hasılatına; bunlar dışında kalanlarda, işletme giderlerine, tatbikı neticesinde bulunacak miktarlara nazaran açık bir şekilde düşük bulunduğu takdirde, beyan edilen bu kazançların yerine takdir komisyonlarınca tesbit edilecek kazançlar esas tutulur.
+Komisyonca kazanç takdiri yoluna gidilmesi için,
+1. Düşüklüğün, mükellef tarafından haklı sebepler ile izah olunamaması;
+2. Düşüklük sebeplerinin, inceleme ile meydana çıkarılamamış bulunması;
+Şarttır.
+Komisyonca takdir olunacak kazançlar, ortalama kar hadlerinin, perakendecilerin satışlariyle imalatçıların perakende satışları için, satılan emtianınmaliyet bedeline; otel, pansiyon ve duhuliye ile girilen eğlence ve istirahatyerleri işletenler için, iş hasılatına; bunlar dışında kalanlar için işletme giderlerine uygulanması suretiyle elde edilecek miktardan fazla olamaz.
+İşletme giderleri, eğlence ve istirahat yerlerinin, eğlence ve istirahat maksatları için açık bulunduğu müddetle yapılmış olup, hasılatın elde edilmesine matuf bulunan ve umumi masraflarla idare giderleri dışında kalan giderlerden ibarettir.
+Taşıma işlerinde işletme giderleri; yakıt, tamir, bakım, yazıhane ve idarehane giderleri, amortismanlar, hizmetlilere ödenen ücretler ve işletme ile alakalı vergi, resim, harc ve trafik sigorta primlerinden ibarettir.

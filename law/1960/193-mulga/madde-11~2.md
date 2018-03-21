@@ -1,0 +1,3 @@
+Madde 11 – (19/2/1963 tarih ve 202 sayılı Kanunun hükmüdür.) Küçük çiftçi muaflığı zirai kazançlara münhasırdır. Bu muaflıktan faydalananlar, diğer kazanç ve iratları üzerinden bu kanun hükümleri gereğince vergiyetabi tutulurlar.
+(Değişik : 1/5/1981–2454/3 md.) Ticari veya mesleki kazançları dolayısıyla gerçek usulde Gelir Vergisine tabi olanlardan zirai faaliyette bulunanlar ilebir biçerdövere veya benzeri mahiyetteki bir motorlu araca veya birden fazla traktöre sahip olan çiftçiler küçük çiftçi muaflığından faydalanamazlar.
+(Ek : 24/12/1980–2361/6 md.) Küçük çiftçi muaflığının, bu Kanunun 94 ncü maddesi uyarınca tevkif suretiyle ödenecek vergiye şümulü yoktur.

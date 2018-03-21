@@ -1,0 +1,4 @@
+Madde 50 – (26/12/1993 tarih ve 3946 sayılı Kanunun hükmüdür.)
+Götürü usule tabi olmanın şartlarından herhangi birini takvim yılı içinde kaybedenler, ertesi takvim yılı başından itibaren gerçek usulde vergilendirilirler. Şu kadar ki, 48 inci maddede yazılı yıllık alış,satış ve hasılat hadlerinin bir katını aşanlar bu hadleri aştıkları tarihten itibaren gerçek usulde vergilendirilirler.
+Götürülük şartlarını haiz olanlardan, bu usulden yararlanmak istemediklerini yazı ile bildirenler, taleplerini takip eden ay başından veya taleplerini izleyen takvim yılı başından, yeni işe başlayanlar ise işe başlama tarihinden itibaren gerçek usulde vergilendirilirler.
+Herhangi bir şekilde gerçek usulde vergilendirilecek olanlar ve gerçek usulde vergilendirilen mükellefler, bir daha hiçbir şekilde götürü usule dönemezler. Bu kişilerin aynı türden iş yapan eş ve çocukları da bu faaliyetleri nedeniyle götürü usulden yararlanamazlar.

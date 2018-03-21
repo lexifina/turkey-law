@@ -1,0 +1,11 @@
+Madde 69 – (19/2/1963 tarih ve 202 sayılı Kanunun hükmüdür.) (2)
+Ebeler, sünnetçiler, sağlık memurları, arzuhalciler ve gerçek kazançlarının tesbitinde zorluk bulunmasından dolayı Maliye Bakanlığınca tayin edilecekolan ve mesleklerine ifası yüksek tahsili icap ettirmiyen benzeri serbest meslek erbabının safi kazançları götürü olarak tesbit olunur.
+(Değişik : 24/12/1980 – 2361/48 md.) Bu madde hükmü borsa ajan ve acentalarına, gümrük komisyoncularına, dava vekillerine, müşavirlere, diş protezcilerine, kurumlar ve tüccarlarla serbest meslek erbabının ticari ve mesleki işlerini takip eden muakkiplere ve konser veren müzik sanatçılarına şamil değildir.
+(Ek: 24/12/1980 – 2361/48 md.; Değişik: 26/12/1993 – 3946/15 md.) Safi kazançların götürü usulde tespit ve vergilendirilmesinde, 46 ve 47 nci maddeler ile 48 inci maddenin 8 numaralı bendi ve 50 nci madde ve 51 inci maddenin 12 numaralı bendi hükümleri uygulanır.
+Madde 74 fıkra bir bent 4 – (24/12/1980 tarih ve 2361 sayılı Kanunun hükmüdür.)
+4. Kiraya verilen mal ve haklar dolayısiyle yapılan ve bunlara sarf olunan borçların faizleri;
+Madde 75 fıkra iki bent (4) ve (5) – (Değişik hükümler.)
+4. (Değişik: 26/12/1993 – 3946/16 md.) Kurumlar Vergisi Kanunu uyarınca yıllık veya özel beyanname veren kurumların, indirim ve istisnalar. (Değişik:25/5/1995 – 4108/22 md.) (Kurumlar Vergisi Kanununun 8 inci maddesinin 1 ve 6numaralı bentlerine göre kurumlar vergisinden müstesna tutulan kazançlar hariç) düşülmeden önceki kurum kazancından, hesaplanan kurumlar vergisi düşüldükten sonra kalan kısım;
+5. (Değişik: 25/6/1992 – 3824/4 md.) Her nevi tahvil faizleri ve hazine bonosu faizleri ile Toplu Konut İdaresi ve Kamu Ortaklığı İdaresince çıkarılan menkul kıymetlerden sağlanan gelirler (Ödeme, menkul kıymetlerin gelirleriylebirlikte menkul kıymetlerin itfa bedelini de ihtiva ettiği takdirde, menkul kıymetlerin itfa bedelini de ihva ettiği takdirde, menkul kıymetlerin itfa edilen kısmı irat sayılmaz. Ancak, döviz cinsinden yahut dövize, altına veya başka bir değere endeksli menkul kıymetlerin itfası sırasında oluşan değer artışları irat sayılır.)
+Mükerrer Madde 75 son fıkra–(26/12/1993 tarih ve 3946 sayılı Kanunun hükmüdür.)
+Yatırım fonlarının katılma belgeleri ile yatırım ortaklıklarının hisse senetlerinden elde edilen kar payları için vergi alacağı hesaplanmaz.

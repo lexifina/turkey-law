@@ -1,0 +1,12 @@
+Ek Madde 2 – (24/12/1980 tarih ve 2361 sayılı Kanunun hükmüdür.)
+Yatırım indiriminin uygulanmasında aşağıdaki yazılı şartlar topluca aranır.
+1. İndirimin uygulanacağı ticari ve zirai kazanç bilanço esasına göre tespit edilmiş olmalıdır.
+2. Yapılan yatırım,Devlet Planlama Teşkilatının hazırladığı kalkınma planlarına uygun bulunmalıdır.
+3. Yatırımlar,istihsali genişletmeye, prodüktiviteyi artırmaya, ihracatı geliştirmeye, mahsul ve mamullerin kalitesini ıslaha, enerji tasarrufunu sağlamaya kültür seviyesini yükseltmeye,ilmi ve teknik araştırmaları geliştirmeye, çalışma güvenliği veya yabancı turist celbini temine matuf olmalıdır.
+4. Yapılan yatırım en az 40 000 000 (1.000.000.000) lira (Devlet Planlama Teşkilatının hazırladığı bölge kalkınma planının şümulüne giren yatırımlarla memleket ekonomisi bakımından ayrı bir önem ve özellik arz ettiği Yüksek Planlama Kurulu tarafından kabul edilen faaliyet kollarında 20 000 000 (250.000.000) ve genel olarak ziraatteki yatırımlarda 4 000 000 (100.000.000) lira) olmalıdır. (1)
+5. (Değişik: 4/12/1985 – 3239/46 md.) Yatırıma başlamadan önce Devlet Planlama Teşkilatına başvurularak gerekli bilgi ve belgelerin tevdi edilmiş ve yukarıda belirtilen şartların mevcudiyeti tasdik edilerek.Yatırım Teşvik ve Yatırım İndirimi Belgesi verilmiş olmalıdır. Araştırma, plan ve proje masrafları ile arazi temini için yapılan giderlerhariç olmak üzere, yatırımla ilgili her türlü harcamalar yatırıma başlandığını gösterir.
+6. (Değişik: 4/12/1985 – 3239/46 md.) Yatırım, tasdik edilmiş bulunan şartlar ve süreler dahilinde yapılmış olmalıdır.
+Tasdik edilen şartlarda meydana gelecek değişikliklerin ve sürelerde doğabilecek gecikmelerin vukuundan itibaren bir ay içinde Devlet Planlama Teşkilatına bildirilmesi ve onayının alınması şarttır. Devlet Planlama Teşkilatı, iktisadi veya teknik zaruretlerle veya mücbir sebeplerden ileri gelen değişiklik ve gecikmeleri kabul edebilir.
+Müracaatın zamanında yapılmaması veya değişiklik ve gecikmelerin kabul edilmemesi halinde evvelce yapılan tasdik hükümsüz addolunur.
+(Ek: 4/12/1985 – 3239/46 md.) Devlet Planlama Teşkilatı, yukarıdaki şartlar çerçevesinde vereceği Yatırım Teşvik ve Yatırım İndirimi Belgesinin bir örneğini Maliye ve Gümrük Bakanlığına gönderir. Yatırım Teşvik ve Yatırım İndirimi Belgesindeki vize ve iptaller de ayrıca bildirilir.
+(Ek: 4/12/1985 – 3239/46 md.) Yatırım indiriminden yararlanma şartları ve uygulama esasları ile diğer hususlar Maliye ve Gümrük Bakanlığı ile Devlet Planlama Teşkilatı Müsteşarlığınca müştereken belirlenir.

@@ -1,0 +1,5 @@
+Madde 80 – (22/7/1998 tarihli ve 4369 sayılı Kanunun hükmüdür.)
+Bu Kanunun 2 nci maddesinin 1-6 numaralı bentlerinde yazılı gelir unsurları ile ilişkilendirilemeyen gelirler, kaynağı ne olursa olsun diğer kazanç ve irat olarak bu bölümde yer alan hükümlere göre vergilendirilir.
+Vergiden muaf esnafın bu faaliyetinden elde ettiği gelirin, alış ve gider belgelerinde yer alan tutarın iki katını; kazançları gerçek usulde vergilendirilmeyen çiftçilerin bu faaliyetlerinden elde ettikleri gelirin aldıkları müstahsil makbuzlarında yer alan satış tutarları toplamını aşan kısmı da diğer kazanç ve irat sayılır.
+Bu madde hükmüne göre vergilendirme yapabilmek için bir takvim yılı içinde elde edilen diğer kazanç ve iratlar kapsamındaki gelirin, 103 üncü maddede yazılı tarifenin birinci ve ikinci gelir dilimleri toplamının yarısını aşması şarttır.
+Bu madde kapsamındaki kazanç ve iratların elde edildiği yılın tespit edilememesi veya mükellef tarafından ispat edilememesi halinde, harcamanın yapıldığı veya tasarrufun varlığının tespit edildiği yıldan bir önceki yılın geliri sayılır.

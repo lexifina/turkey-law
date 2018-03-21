@@ -1,0 +1,8 @@
+Yatırım indiriminin başlangıcı ve uygulama süresi:
+Ek Madde 4 – (22/7/1998 tarihli ve 4369 sayılı Kanunun hükmüdür.)
+Yatırım indiriminin uygulanmasına, yatırım teşvik belgesinin alındığı tarihte beyanname verme süresi geçmemiş hesap döneminden itibaren başlanır ve indirimden yararlanılacak miktara ulaşıncaya kadar devam olunur.
+Yapılan yatırım harcamalarının ilgili yıl kazancından indirilemeyen kısmı, izleyen yıllarda Vergi Usul Kanunu hükümlerine göre bu yıllar için belirlenen yeniden değerleme oranında artırılarak dikkate alınır. (Teşvik belgesiz yatırımlar bu maddedeki yeniden değerleme hükümlerinden yararlanamaz).
+Her yatırım için faydalanılacak indirim tutarı o yatırım içerisinde yer alan indirimden yararlanabilecek aktif kıymetlerin değerleri toplamına, Yatırım Teşvik Belgesinde yer alan indirim oranının uygulanması suretiyle hesaplanır.
+Birden fazla Yatırım Teşvik Belgesi almış mükelleflerin safi kazancının yetersizliği nediniyle yararlanılamayan indirim tutarının bulunması halinde, öncelikle önceki yıllarda tamamen uygulanmamış olan eski yatırımlarla ilgili devreden indirimler, daha sonra yeni yatırımlara ilişkin indirimler, önceki dönemlerde yapılan ve indirilemeyen tutarın bulunmaması halinde ise bir yıl sonra yapılacak yatırımlarla ilgili indirimler uygulanır.
+Teşvik belgeli yatırımlarda, yapılması öngörülen ve önceki hesap dönemi kazancına ilişkin olarak yatırım indirimine konu edilen yatırım harcamalarının öngörülen tutarın yüzde onunu geçen bir oranda düşük olması halinde, eksik yapılan yatırım harcaması dolayısıyla zamanında tahakkuk ettirilmemiş vergiler 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci maddesine göre belirlenen tecil faizi ile birlikte cezasız tahsil olunur.
+594-42

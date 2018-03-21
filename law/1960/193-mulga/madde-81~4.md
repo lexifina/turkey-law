@@ -1,0 +1,7 @@
+Madde 81 – (22/7/1998 tarihli ve 4369 sayılı Kanunun hükmüdür.)
+Aşağıdaki yazılı hallerde diğer kazanç ve iratlar vergilendirilmez:
+1. Ferdi bir işletmenin sahibinin ölümü halinde, kanuni mirasçılar tarafından işletmenin faaliyetine devam olunması ve mirasçılar tarafından işletmeye dahil iktisadi kıymetlerin kayıtlı değerleriyle (Bilanço esasına göre defter tutuluyorsa bilançonun aktif ve pasifiyle bütün halinde) aynen devir alınması;
+2. Kazancı bilanço esasına göre tespit edilen ferdi bir işletmenin bilançosunun bir sermaye şirketine aktif ve pasifiyle bütün halinde devrolunması, devralan şirketin bilançosuna aynen geçirilmesi ve devredilen ferdi işletmenin sahip veya sahiplerinin şirketten, devir bilançosuna göre hesaplanan öz sermayesi tutarında ortaklık payı alması (Bu ortaklık payını temsil eden hisse senetlerinin nama yazılı olması şarttır.);
+3. Kollektif ve adi komandit şirketlerin bu maddenin 2 numaralı bendinde yazılı şartlar dahilinde nevi değiştirerek sermaye şirketi haline dönüşmesi (Kollektif ve adi komandit şirketlerin şekil değiştirerek anonim şirket haline dönüşmesi halinde şekil değiştiren kollektif ve adi komandit şirketlerin nama yazılı olması şarttır.);
+4. Veraset yoluyla veya ivazsız olarak meydane gelen intikaller;
+5. İktisap şekli ne olursa olsun, hisse senetleri ve portföyünün en az % 51'i Türkiye'de kurulmuş bulunan şirketlerin hisse senetlerinden oluşan menkul kıymetler yatırım fonlarının katılma belgelerinin, iktisap tarihinden başlayarak bir yıldan fazla süre ile elde tutulduktan sonra elden çıkarılması.
