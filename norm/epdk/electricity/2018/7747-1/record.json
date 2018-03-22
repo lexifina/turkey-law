@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7747-1",
+  "decision_date": "2018-03-22",
+  "title": "Elektrik Dağıtım Şirketleri Tarafından Kurulan Coğrafi Bilgi Sistemlerinin İyileştirilmesine Ve Standartlaştırılmasına Yönelik Usul Ve Esaslar",
+  "resmi_gazete_date": "2018-03-27",
+  "resmi_gazete_number": "30373",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HGEkpHooe8I=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HGEkpHooe8I="
+  ],
+  "source_sha256": "b749fc68c1511e018f347c1704f13f9c1db94a82de189196e565b6ce4facc65a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-03-22",
+  "law_text_complete": true
+}
