@@ -1,0 +1,1 @@
+Madde 1 - Bu Yönetmeliğini amacı; Emniyet teşkilatında çalışan yardımcı hizmetler personelinin kılık ve kıyafetinde yeknesaklığı sağlamak, kıyafetlerin renk, cins, biçim, kullanma süresi ve tarzını belirlemektir.

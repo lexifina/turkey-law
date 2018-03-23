@@ -1,0 +1,1 @@
+Madde 5 - Yardımcı hizmetlerdeki personelin kılık ve kıyafetlerinin bu Yönetmelik esaslarına uygun olup olmadığı ilgili birim amirlerince kontrol edilir ve görülen aykırılıklar düzeltilir. Gerektiğinde ilgili personele "Emniyet Örgütü Disiplin Tüzüğü" hükümleri uygulanır.

@@ -1,0 +1,3 @@
+Madde 15 - Gömlek: Kışlık ve yazlık olmak üzere iki türdür.
+a. Kışlık gömlek : Yün ve polyester karışımı ve açık mavi renktedir. Yakanın enseden genişliği beş santimetre olup, uçlara doğru önden yedi santimetre kadar genişler ve iki uç arasındaki açıklık sekiz santimetre olur. Arkası düz robalıdır. Pili yoktur, gömlek düğmeleri beyaz sedeftendir. (Şekil 8)
+b. Yazlık gömlek : Kışlık gömlek renginde ve keten polyesterden yapılır. Yakası açık ve spor şekildedir. Kısa kolludur ve kol uçları üç santimetre eninde dublelidir. Gömleğin cepleri ceket cebi görünümünde ve aynı ölçülerdedir. Gömleğin etek uçları pantolon içine girecek şekilde dikilir. (Şekil 9 ve 10). Gömleğin kapaklı iki göğüs cebi bulunur. Düğmeler, düz beyaz madenidir.

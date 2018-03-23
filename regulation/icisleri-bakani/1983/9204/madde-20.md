@@ -1,0 +1,6 @@
+Madde 20 - İş Önlüğü: Hizmetin özelliğine göre berber, marangoz, elektrikçi, çay ocağı v.b. hizmetlerde çalışan yardımcı hizmetlilere resmi pantolon üzerine giyilmek üzere verilir.
+İş önlüğü keten ve polyester karışımı gömlekten kumaştan daha kalındır ve kahverengidir.
+Yakası, üst asıl yaka ve öndeki devrik kısımdan ibarettir. Yaka devriklerinin üst yan kenarları on yedi ila yirmi santimetre olup, alt yan kenarları ile takriben eşittir. Üst asıl yakanın genişliği dört ile beş santimetredir. Öndeki devriğin daralan kısmı birinci düğme iliğine kadar uzanır. Büyük boy eşit aralıklarla dikilmiş beş düğme ile iliklenir.
+Önlüğün boyu diz kapağın dört santimetre altına kadar uzanır. Kolları kol boyu uzunluğundadır.
+Önlüğün sol üstünde birinci düğme hizasında bir cep bulunur. Cep kapaksız olup, alt kısmı simetrik bir oyukluk gösterir, üst ceb’in boyu on – oniki, eni yedi - dokuz santimetredir. Alt cepler her iki cebin büyütülmüş görünümündedir. Alt cebin boyu onaltı – onsekiz santimetre, eni onüç – onbeş santimetredir. Cepler kapaksız olup, alt kısmı simetrik bir oyukluk gösterir. Cep üstleri enine birbuçuk - iki santimetre genişliğinde katlama dikişlidir.
+Önlüğün arkası, ortadan dikişli ve belden beş santimetre aşağıdan yırtmaçlıdır. Arkada dört santimetre eninde dıştan yarım kemer bulunur. (Şekil 13 ve 14)

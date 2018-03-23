@@ -1,0 +1,2 @@
+Madde 14 - Pantolon: Ceket kumaşından yapılır. Arkadan iki pile ile beden daraltılır. Arkada içten iki cep bulunur, kenarları dört santimetre eninde ve düz kapaklıdır. Pantolonun kenar astarı elbise kumaşı rengindedir.
+Pantolon belden başlayarak diz kapağına kadar uzanan kısmı vücuda uygun bir bollukta olup, paçalara doğru darlaşır. Paça genişliği yirmi iki- yirmi dört santimetredir. Pantolon paçası düblesizdir. Yan dış dikişlerine yarım santimetre genişliğinde gömlek kumaşından şerit konulur. (Şekil 7) Pantolon sade tokalı, siyah renkli kemerle takılır.
