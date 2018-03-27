@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-03-27",
+  "issue": "30373",
+  "edition": "mükerrer 2",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7103 Vergi Kanunları ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180327M2-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180327M2.htm",
+  "index_sha256": "adb008d85f1a895ce70cebbf8cb06eba7a1a52b3a030ee7636891fbbed70b5a0",
+  "index_header": "27 Mart 2018 ... 30373 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/03/20180327M2.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
