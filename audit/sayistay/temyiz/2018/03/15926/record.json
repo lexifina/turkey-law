@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44260",
+  "decision_date": "2018-03-28",
+  "source_id": 15926,
+  "chamber": "5",
+  "file_number": "42794",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15926/",
+  "source_sha256": "f57c55a8eb9b3d8bb2733e11d1b9d8c3055d1e72bda4f032f284a5e2c68d6e46",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
