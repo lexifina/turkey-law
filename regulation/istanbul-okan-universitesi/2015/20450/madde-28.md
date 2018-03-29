@@ -1,0 +1,3 @@
+Aile hekimliği
+MADDE 28 – (1) Aile hekimliği döneminde (altıncı dönem) öğrenciler, her anabilim veya bilim dalında yapılan çalışma sonunda klinik, poliklinik, laboratuvar ve saha çalışmaları, aldıkları hasta öyküleri, yazdıkları epikrizler, hastalara davranış ve ilgileri, nöbetler, katıldıkları seminerler, teorik bilgi düzeyleri, genel davranışları ayrı ayrı göz önüne alınarak staj sorumlusu tarafından değerlendirilirler. Başarılı sayılabilmek için 100 puan üzerinden en az 60 puan alınması şarttır.
+(2) Aile hekimliği dönemindeki stajlardan bir veya birkaçından başarısız olan öğrenci, bu staj veya stajları tekrar ederek başarılı olmak zorundadır.

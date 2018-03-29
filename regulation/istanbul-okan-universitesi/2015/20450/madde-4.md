@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Aile hekimliği: Altıncı dönemde klinik, poliklinik ve saha çalışmaları eğitiminin yapıldığı on iki aylık dönemi,
+b) Bütünleme sınavı: Birinci, ikinci ve üçüncü dönemlerde, her dönem sonunda ders kurullarının tümündeki dersleri kapsayan bütünleme sınavını,
+c) Dekan: Tıp Fakültesi Dekanını,
+ç) Ders kurulu: Birinci, ikinci ve üçüncü dönemlerde bir hücre, doku, organ, sistem veya hekimlikle ilgili konuların birbirini tamamlayacak biçimde değişik disiplinler tarafından belirli bir sürede verildiği kuramsal dersler ve uygulamalar grubunu,
+d) Ders kurulu sınavı: Birinci, ikinci ve üçüncü dönemlerde her ders kurulunun sonunda yapılan teorik ve pratik sınavlarını,
+e) Ders yılı: Dönem olarak da adlandırılan bir eğitim-öğretim yılını,
+f) Dönem: Bir ders yılını,
+g) Dönem notu: Birinci, ikinci ve üçüncü dönemlerde ders kurulları notlarının ortalamasının %60’ı ile final veya bütünleme sınavının %40’ının toplamını; dördüncü ve beşinci dönemde ise staj notlarının ortalamasını,
+ğ) Entegre sistem: Birinci, ikinci ve üçüncü dönemlerde derslerin, anabilim dalları tarafından, konulara göre bir arada verilmesini,
+h) Fakülte Kurulu: Tıp Fakültesi Fakülte Kurulunu,
+ı) Fakülte Yönetim Kurulu: Tıp Fakültesi Fakülte Yönetim Kurulunu,
+i) Final sınavı: Birinci, ikinci ve üçüncü dönemlerde her dönem sonunda ders kurullarının tümündeki dersleri kapsayan sınavı,
+j) Koordinatörler kurulu: Dekanın atadığı Genel Koordinatör başkanlığında, iki genel koordinatör yardımcısı, her dönemin koordinatör ve koordinatör yardımcısı, her dönemin öğrenci temsilcisi ve bir sekreterden oluşan kurulu,
+k) Mütevelli Heyet: Okan Üniversitesi Mütevelli Heyetini,
+l) Rektör: Okan Üniversitesi Rektörünü,
+m) Senato: Okan Üniversitesi Senatosunu,
+n) Staj: Dördüncü ve beşinci dönemlerde klinik bilimlere bağlı anabilim dallarında pratik/uygulamalı ve teorik yapılan eğitim-öğretimi,
+o) Üniversite: Okan Üniversitesini,
+ö) Üniversite Yönetim Kurulu: Okan Üniversitesi Yönetim Kurulunu,
+ifade eder.

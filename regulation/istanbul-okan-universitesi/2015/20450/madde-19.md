@@ -1,0 +1,18 @@
+Devam zorunluluğu
+MADDE 19 – (1) Tıp Fakültesi öğrencileri kayıtlı olduğu öğretim yılının bütün derslerini almak zorundadır. Laboratuvar, tartışma, seminer, klinik çalışmalar, alan eğitimi ve benzeri pratik ve teorik derslere devam zorunludur.
+(2) Birinci, ikinci ve üçüncü dönemlerde teorik derslere devam zorunluluğu aşağıdaki gibi uygulanır:
+a) Birinci, ikinci ve üçüncü dönemlerdeki ders kurullarından her birinde yer alan teorik derslerin %30’undan fazlasına mazeretsiz olarak devam etmeyen öğrenci o ders kurulunun sınavına alınmaz, sıfır puan (VF) alır.
+b) Bir eğitim yılının sonunda bütün ders kurullarındaki teorik derslere toplam devamsızlığı %30’u geçen öğrenci sıfır puan (VF) alır, final sınavına ve bütünleme sınavına giremez.
+c) Birinci, ikinci ve üçüncü dönemlerde dönem sonu final ve bütünleme sınavına katılmayan öğrenciye yeni bir sınav hakkı verilmez.
+(3) Birinci, ikinci ve üçüncü dönemlerde pratik derslere devam zorunluluğu aşağıdaki gibi uygulanır:
+a) (Değişik:RG-29/3/2018-30375)(2) Birinci, ikinci ve üçüncü dönemlerdeki her bir ders kurulunda yer alan, pratik derslerin toplamının %20’sinden fazlasına mazeretsiz olarak devam etmeyen öğrenci o ders kurulunun pratik ve teorik sınavlarına alınmaz, sıfır puan (VF) alır.
+b) (Değişik:RG-29/3/2018-30375)(2) Bir eğitim yılının sonunda bütün ders kurullarındaki toplam devamsızlığı, pratik derslerin %20’sini geçen öğrenci sıfır puan (VF) alır, final sınavına ve bütünleme sınavına giremez.
+c) Birinci, ikinci ve üçüncü dönemlerde ders kurullarından her birinde yaptırılan pratik derslerin toplamının % 20’ sinden fazlasına katılmayan ve mazereti Tıp Fakültesi Yönetim Kurulunca kabul edilen öğrenciye o ders kurulunun sınavına girebilmek için devam etmediği pratik çalışmalarını anabilim/bilim dalının imkanları dahilinde anabilim/bilim dalı başkan veya yetkili kılınan öğretim üyelerinin gösterdiği gün ve saatlerde telafi etmek zorundadır. Telafi çalışmalarını yapmayan öğrenci o ders kurulunun hiçbir sınavına alınmaz ve o ders kurulu sınavından sıfır puan (VF) almış sayılır.
+ç) Bir eğitim yılında bütün ders kurullarındaki toplam pratik derslere mazeretsiz devamsızlığı %20’yi geçen öğrenci sıfır puan (VF) alır, final sınavına ve bütünleme sınavına giremez.
+(4) Stajlara devam zorunluluğu aşağıdaki gibi uygulanır:
+a) Stajlar pratik ders olarak kabul edilir ve dördüncü ve beşinci dönem stajlarında, her bir staj süresinde devamsızlığı %20’yi geçmediği takdirde öğrenci, devam etmediği pratik çalışmaları, anabilim/bilim dalının imkanları dahilinde anabilim/bilim dalı başkan veya yetkili kılınan öğretim üyesinin gösterdiği gün ve saatlerde telafi etmek zorundadır. Telafi çalışmalarını yapmayan öğrenci, o staj veya stajların hiçbir sınavına alınmaz ve sıfır puan (VF) alır.
+b) Dördüncü ve beşinci dönem stajlarında her bir staj süresinin %20’sinden fazlasına mazeretsiz olarak devam etmeyen öğrenci, o stajın sınavına ve stajın bütünleme sınavına alınmaz ve sıfır puan (VF) alır.
+c) Aile hekimliği döneminde her bir staj süresinde devamsızlığı %20’yi geçmediği takdirde öğrenci, devam etmediği pratik çalışmaları, Anabilim/bilim dalının imkanları dahilinde anabilim/bilim dalı başkan veya yetkili kılınan öğretim üyesinin gösterdiği gün ve saatlerde telafi etmek zorundadır. Telafi çalışmalarını yapmayan öğrenci sıfır puan (VF) alır.
+ç) Aile hekimliği döneminde her bir staj süresinin %20’sinden fazlasına mazeretsiz olarak devam etmeyen öğrenci, sıfır puan (VF) alır.
+(5) Seçmeli derslere devam zorunluluğu aşağıdaki gibi uygulanır:
+a) Kurul dışı her bir seçmeli dersin % 30’undan fazlasına mazeretsiz olarak devam etmeyen öğrenci o dersin final ve bütünleme sınavına alınmaz ve o dersten (VF) notu alır.

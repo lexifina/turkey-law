@@ -1,0 +1,2 @@
+Kayıt dondurma
+MADDE 21 – (1) Sağlık sorunları, askerlik görevi, doğal afetler gibi geçerli mazeretleri olan ve bu durumlarını kanıtlayan belgeleri ilgili kurullara sunan öğrenciler ile öğrenim ve eğitimlerine katkıda bulunmak üzere staj, araştırma gibi nedenlerle Üniversite dışına gitmek isteyen öğrenciler Yönetim Kurulu kararı ile kayıtlarını bir defada en fazla bir yıl olmak kaydıyla, en fazla iki yıl dondurabilir.

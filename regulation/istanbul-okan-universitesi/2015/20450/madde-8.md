@@ -1,0 +1,2 @@
+Öğrenci statüsü
+MADDE 8 – (1) Fakülteye yalnız tam zamanlı öğrenci kabul edilir. Öğrencinin, öğrencilik haklarından ve muafiyetlerinden yararlanabilmesi ve sınavlara girebilmesi için her dönemin başında kaydını yenilemiş ve eğitim-öğretim ücretini süresi içinde ödemiş olması gerekir. Eğitim-öğretim ücretini süresi içinde ödemeyen öğrenciler; kayıt yaptıramaz, kayıt yenileyemez, derslere ve sınavlara giremez, öğrencilik haklarından yararlanamaz ve diploma alamazlar.

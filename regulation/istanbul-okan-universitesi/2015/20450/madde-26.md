@@ -1,0 +1,3 @@
+Staj bütünleme sınavı
+MADDE 26 – (1) Stajların bir veya daha fazlasından başarısız olan öğrenci, bu stajların bütünleme sınavlarına alınır. Staj bütünleme sınavı o akademik yılın son stajının bitimini takiben en erken on beş gün sonra yapılır.
+(2) Bütünleme sınav/sınavlarında da başarılı olamayan öğrenciye bu staj/stajları bir sonraki akademik yılda tekrarlama hakkı verilir. Tekrarlanan staj/stajların sınavlarında da başarılı olamayan öğrenci, bu sınavı takiben en erken on beş gün sonra kaldığı staj/stajlardan tekrar bütünleme sınavlarına alınır. Öğrenciler bir dönemin stajlarını başarıyla tamamlamadan bir üst dönemin stajlarına başlayamazlar.

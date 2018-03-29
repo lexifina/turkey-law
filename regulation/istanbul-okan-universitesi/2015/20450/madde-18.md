@@ -1,0 +1,2 @@
+Ön koşul ve dönem tekrarı
+MADDE 18 – (1) Tıp doktorluğu eğitiminde her dönem bir sonraki dönemin ön koşuludur. Bu nedenle bir dönemi veya staj sınavlarını geçemeyen öğrenci bir üst döneme devam edemez ve başarısız olduğu dönemi veya stajı/stajları tekrar eder. Kurul dışı derslerde ise ders geçme sistemi uygulanır. Bu derslerde başarılı olamayan öğrenci bir üst döneme devam edebilir, ancak bu dersleri beşinci dönemin sonuna kadar başarmak zorundadır. Aksi halde altıncı döneme geçemez.
