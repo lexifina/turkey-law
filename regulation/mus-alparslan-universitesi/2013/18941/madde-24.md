@@ -1,0 +1,3 @@
+Sınavların yapılışı
+MADDE 24 – (1) Öğrenciler, sınavlara girmek için, nüfus cüzdanı veya sürücü belgesi ile öğrenci kimliklerini beraberinde getirmek zorundadırlar.
+(2) Bir dersin sınavı, o dersi vermekle sorumlu öğretim elemanlarınca düzenlenir ve yürütülür. Sorumlu öğretim elemanının sınav günü Üniversitede bulunmaması halinde, sınavı kimin yapacağı, ilgili bölüm başkanı tarafından belirlenerek dekanlığa/müdürlüğe bildirilir. Sınavların düzenli biçimde yürütülebilmesi için, ilgili birimdeki bütün öğretim elemanları görevlendirilebilir. Sınav sonuçları, ilgili birimler tarafından, Rektörlükçe belirlenen esaslara göre ilan edilir. Sınav evrakı ve derse devam çizelgelerinin, ilgili dekanlık veya müdürlükçe iki yıl saklanması zorunludur.

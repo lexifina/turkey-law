@@ -1,0 +1,2 @@
+Üniversiteden ayrılma
+MADDE 35 – (1) Kendi isteği ile Üniversiteden ayrılacak olanlar, öğrenim gördükleri ilgili birime yazılı olarak başvururlar. Başvuru üzerine kaydı silinen öğrenciye; isterse kayıtlı olduğu yükseköğretim programındaki öğrenim durumunu gösteren bir belge ve kayıt sırasında teslim ettiği diploma ile diğer belgeleri verilir. Kendi isteği ile Üniversiteden ayrılan öğrencilerin, tüm öğrencilik hakları sona erer.
