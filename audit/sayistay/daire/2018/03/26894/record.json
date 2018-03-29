@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10699",
+  "decision_date": "2018-03-29",
+  "source_id": 26894,
+  "chamber": "1",
+  "ilam_number": "90",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26894/",
+  "source_sha256": "b9502cddf218b5fd2baf73916564a9fdb88107626351ee5352dd0ea6d2ae791a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
