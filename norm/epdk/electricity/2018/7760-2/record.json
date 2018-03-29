@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7760-2",
+  "decision_date": "2018-03-29",
+  "title": "TEİAŞ, Elektrik Piyasası Kanunu ve ilgili mevzuat uyarınca iletim sistemine ilişkin",
+  "resmi_gazete_date": "2018-04-07",
+  "resmi_gazete_number": "30384",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Msb4Em/Ii9o=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Msb4Em/Ii9o="
+  ],
+  "source_sha256": "131a8ed52e45d94c39ce5f1f00092e097f0376a5cd163b71eaa3c45ffe293ed6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2018-03-29",
+  "law_text_complete": false
+}
