@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "543",
+  "decision_date": "2018-03-29",
+  "source_id": 26905,
+  "chamber": "6",
+  "ilam_number": "134",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26905/",
+  "source_sha256": "a058356dccc245d7aa81ea9865cd614d0af175c13d65fc5cb48546dc813b1248",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
