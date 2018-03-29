@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "301",
+  "decision_date": "2018-03-29",
+  "source_id": 26473,
+  "chamber": "5",
+  "ilam_number": "107",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26473/",
+  "source_sha256": "bd7e19a654534782a3779385f2da0cde96f4c7b00e308f090f7a007bfd0e8993",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
