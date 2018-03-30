@@ -1,0 +1,6 @@
+Fiyat farkının hesabı ve ödenmesi
+MADDE 5 – (1) Alt işveren işçilerinin ücret ve sosyal haklarında, toplu iş sözleşmesine bağlı olarak meydana gelecek artış sebebiyle her bir işçiye alt işveren tarafından yapılacak ilave ödeme neticesinde işçiliğe bağlı giderlerde oluşacak artışlar, kamu kurum ve kuruluşlarınca fiyat farkı olarak alt işverene ödenir.
+(2) Toplu iş sözleşmesinde fiyat farkı olarak ödeme yapılmasını gerektiren ayni nitelikteki sosyal hakların bulunması halinde bu hakların bedellerinin tespitinde 4/3/2009 tarihli ve 27159 mükerrer sayılı Resmî Gazete’de yayımlanan Hizmet Alımı İhaleleri Uygulama Yönetmeliği hükümleri dikkate alınır.
+(3) Bu Yönetmelik hükümleri çerçevesinde fiyat farkının ödenmesi ile ilgili ödeme evrakına bağlanacak belgeler, kamu kurum ve kuruluşlarının tabi olduğu mevzuata göre belirlenir.
+(4) Fiyat farkı ile ilgili ödemeler, ilgili kamu kurum ve kuruluşunun bütçesinden yapılır.
+(5) Bu Yönetmelik hükümleri kapsamında fiyat farkı ödenmesi, 27/6/2013 tarihli ve 2013/5215 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan 4734 sayılı Kamu İhale Kanununa Göre İhale Edilen Hizmet Alımlarında Uygulanacak Fiyat Farkına İlişkin Esaslar kapsamında fiyat farkı ödenmesine engel teşkil etmez.

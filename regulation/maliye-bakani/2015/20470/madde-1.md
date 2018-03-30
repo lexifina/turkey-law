@@ -1,0 +1,3 @@
+PERSONEL ÇALIŞTIRILMASINA DAYALI HİZMET ALIMLARINDA TOPLU İŞ SÖZLEŞMESİNDEN KAYNAKLANAN FİYAT FARKININ ÖDENMESİNE DAİR YÖNETMELİK
+Amaç ve kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı; 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 62 nci maddesinin birinci fıkrasının (e) bendi uyarınca ihale edilen işlere ait sözleşmelere ilişkin olarak 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 8 inci maddesinin üçüncü fıkrası uyarınca yapılan toplu iş sözleşmeleri sonucunda, alt işverenler tarafından çalıştırılan işçilerin işçiliğe bağlı giderlerinde oluşan artışın fiyat farkı olarak ödenmesini düzenlemektir.
