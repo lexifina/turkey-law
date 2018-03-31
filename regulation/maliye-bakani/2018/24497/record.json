@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.24497",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "406 SAYILI TELGRAF VE TELEFON KANUNU KAPSAMINDA ÖDENMESİ GEREKEN HAZİNE PAYINA İLİŞKİN İZAHAT TALEPLERİNİN CEVAPLANDIRILMASI, DENETİM VE UZLAŞMA YÖNETMELİĞİ",
+  "number": "24497",
+  "issuer": "Maliye Bakanı",
+  "issuer_slug": "maliye-bakani",
+  "path": "regulation/maliye-bakani/2018/24497",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24497&MevzuatTertip=5",
+  "source_sha256": "16f8d2880f3e7df507fe448e24a28b479e12cb17f3b8b69f603c76eae966e7d3",
+  "source_bytes": 90858,
+  "published": "2018-03-31",
+  "gazette": "30377",
+  "in_force": "2018-03-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.03.2018); own commencement article: \"Bu Yönetmelik 31/12/2017 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 31/12/2017 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5251,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
