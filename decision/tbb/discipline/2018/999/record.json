@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "999",
+  "date": "2018-03-31",
+  "title": "T. 31.03.2018 E. 2018/21 K. 2018/327",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/999",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=6&yil=2018",
+  "listing_sha256": "50332cde0756613156731f2ab7c457dbf3ad8e2dabc26ae8bfb361d6af37b490",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
