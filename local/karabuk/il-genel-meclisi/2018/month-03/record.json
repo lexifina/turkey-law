@@ -1,0 +1,29 @@
+{
+  "number": "month-03",
+  "year": 2018,
+  "month": 3,
+  "title": "2018 Yılı Mart Ayı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2018-03-31",
+  "date_precision": "month",
+  "period": "Mart 2018",
+  "source": "https://www.karabukozelidare.gov.tr/il-genel-meclisi-2018-yili-mart-ayi-karar-ozetleri",
+  "official_page": "https://www.karabukozelidare.gov.tr/il-genel-meclisi-2018-yili-mart-ayi-karar-ozetleri",
+  "official_document": "http://www.karabukozelidare.gov.tr/kurumlar/karabukozelidare.gov.tr/IL_GENEL_MECLISI/%20%C4%B0l%20Genel%20Meclisi_Gundemleri/2018/%C4%B0L%20GENEL%20MECL%C4%B0S%C4%B0%202018%20YILI%20MART%20AYI%20KARAR%20%C3%96ZETLER%C4%B0.pdf",
+  "source_sha256": "f3620d8ebf87ee933bdba0ead914b07c0661d01c9708876ea77e7b09a10850d6",
+  "issuer": "Karabük İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2018-03-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mart 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2018 Yılı Mart Ayı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2018 Yılı Mart Ayı Meclis Kararları"
+}
