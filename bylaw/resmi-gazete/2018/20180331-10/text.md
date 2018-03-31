@@ -1,0 +1,145 @@
+31 Mart 2018 CUMARTESİ
+Resmî Gazete
+Sayı : 30377
+TEBLİĞ
+Kamu İhale Kurumundan:
+KAMU İHALE GENEL TEBLİĞİNDE DEĞİŞİKLİK
+YAPILMASINA DAİR TEBLİĞ
+MADDE 1 – 22/8/2009 tarihli ve
+27327 sayılı Resmî Gazete’de yayımlanan Kamu İhale Genel Tebliğinin 16.5.3
+numaralı maddesi yürürlükten kaldırılmıştır.
+MADDE 2 – Aynı Tebliğin 30.3.8 numaralı maddesinde yer alan
+“1 Mayıs Emek ve Dayanışma günü” ibaresinden sonra gelmek üzere “,15 Temmuz
+Demokrasi ve Milli Birlik günü” ibaresi eklenmiştir.
+MADDE 3 – Aynı Tebliğin 30.5.2 numaralı maddesinin II
+numaralı bendinde yer alan “sahip ortakları” ibaresinden sonra gelmek üzere
+“ve hisseleri toplamı şirket sermayesinin yarısından fazlasını teşkil eden
+ortakları” ibaresi eklenmiştir.
+MADDE 4 – Aynı Tebliğin 69 uncu maddesinin başlığı “Hizmet alımı ihalelerinde iş tanımı ve
+ihale bilgilerinin EKAP’a kaydedilmesi”
+şeklinde değiştirilmiş ve aynı maddeye aşağıdaki 69.2.
+maddesi eklenmiştir.
+“69.2.
+Hizmet alımı ihalelerinde, Kurum tarafından hazırlanan ve işçilik giderinin
+yaklaşık maliyet içerisindeki ağırlık oranı, işin sürekli nitelik taşıyıp
+taşımadığı gibi bilgileri içeren form, idareler tarafından doldurularak EKAP’a kaydedilecek ve formun bir örneği, ihale işlem
+dosyasında saklanacaktır. 4734 sayılı Kanunun 62 nci
+maddesinin birinci fıkrasının (e) bendi kapsamında hizmet alımının,
+personel çalıştırılmasına dayalı olup olmadığının ya da niteliği itibarıyla
+bu sonucu doğurup doğurmadığının tespiti, bu formda yer alan beyanlar esas
+alınarak yapılacaktır. İşçilik giderinin yaklaşık maliyet
+içerisindeki ağırlık oranı, ihale dokümanında personel sayısı ve işçilik
+ücretine ilişkin düzenleme olup olmadığına ya da işçilerin tam ve/veya
+kısmi zamanlı çalışıp çalışmadığına bakılmaksızın hizmetin yürütülmesi için
+ihtiyaç duyulan işçilik girdisi hesaplanmak suretiyle belirlenecek olup,
+buna ilişkin bilgi ve belgelere yaklaşık maliyet hesap cetveli ekinde yer
+verilecektir.”
+MADDE 5 – Aynı Tebliğin 78.8 inci
+maddesinde yer alan “1 Mayıs Emek ve Dayanışma günü” ibaresinden sonra
+gelmek üzere “,15 Temmuz Demokrasi ve Milli Birlik günü” ibaresi
+eklenmiştir.
+MADDE 6 – Aynı Tebliğin 78.22 nci
+maddesinde yer alan “1 Mayıs Emek ve Dayanışma günü” ibaresinden sonra
+gelmek üzere “,15 Temmuz Demokrasi ve Milli Birlik günü” ibaresi
+eklenmiştir.
+MADDE 7 – Aynı Tebliğin 97 nci
+maddesine aşağıdaki 97.1.9. numaralı madde eklenmiştir.
+“97.1.9.
+Anayasanın 90 ıncı maddesi uyarınca usulüne uygun
+olarak yürürlüğe konulan uluslararası andlaşmalara
+taraf yabancı ülkelerin aday veya isteklileri ile istekli
+olabileceklerinin, uluslararası andlaşma hükümlerinin
+ihalede uygulanması konusunda idareye başvuruda bulunması halinde, idarenin
+bu başvuruyu uluslararası andlaşma hükümleri
+açısından inceleyip gerekli tedbirleri alması gerekmektedir.”
+MADDE 8 – Bu Tebliğ yayımı tarihinde yürürlüğe girer.
+MADDE 9 – Bu Tebliğ hükümlerini Kamu İhale Kurumu Başkanı
+yürütür.
+Tebliğin Yayımlandığı Resmî Gazete'nin
+Tarihi
+Sayısı
+22/8/2009
+27327
+Tebliğde Değişiklik Yapan Tebliğlerin
+Yayımlandığı Resmî Gazete'nin
+Tarihi
+Sayısı
+1-
+4/3/2010
+27511
+2-
+30/7/2010
+27657
+3-
+29/12/2010
+27800
+(6. Mükerrer)
+4-
+9/2/2011
+27841
+5-
+20/4/2011
+27911
+6-
+20/8/2011
+28031
+7-
+15/7/2012
+28354
+8-
+13/8/2012
+28383
+9-
+13/4/2013
+28617
+10-
+23/8/2013
+28744
+11-
+24/9/2013
+28775
+12-
+28/11/2013
+28835
+13-
+25/12/2013
+28862
+14-
+7/6/2014
+29023
+15-
+16/8/2014
+29090
+16-
+25/10/2014
+29156
+17-
+12/6/2015
+29384
+18-
+27/6/2015
+29399
+19-
+28/7/2015
+29428
+20-
+27/4/2016
+29696
+21-
+27/5/2016
+29724 (Mükerrer)
+22-
+29/11/2016
+29903
+23-
+25/1/2017
+29959
+24-
+4/3/2017
+29997
+25-
+29/6/2017
+30109
+26-
+6/2/2018
+30324
