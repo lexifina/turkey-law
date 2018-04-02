@@ -1,0 +1,25 @@
+{
+  "number": "meeting-04-02-25",
+  "number_as_published": "meeting-04-02-25",
+  "year": 2018,
+  "title": "council decision",
+  "decision_date": "2018-04-02",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=23",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/nRIsyxBwVcMvjHHwcW.docx",
+  "source_sha256": "581f28cfb639ef6eb8f8bcfe9d4baa453588cb2c38d16b5da840d2f7bd617b70",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2018-04-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02 NİSAN 2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "listing_label": "02 Nisan 2018 SAKARYA MAH.114 ADA 42 PARSELE AİT İTİRAZ HK.",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "ef5eb31160a43b7.docx",
+  "list_date": "2018-04-02"
+}
