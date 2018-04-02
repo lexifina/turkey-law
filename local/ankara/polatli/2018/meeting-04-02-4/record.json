@@ -1,0 +1,25 @@
+{
+  "number": "meeting-04-02-4",
+  "number_as_published": "meeting-04-02-4",
+  "year": 2018,
+  "title": "02 Nisan 2018 ENCÜMEN ÜYELİĞİ HK.",
+  "decision_date": "2018-04-02",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=24",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/HM7889GR9vOYCHI4Ti.docx",
+  "source_sha256": "7c887e9e36cbb3053295d8c195f7785e7ff17e6e28c3ee9468ed1e0f49b13401",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-04-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02 NİSAN 2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02 Nisan 2018 ENCÜMEN ÜYELİĞİ HK.",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "c48215cdf77c4f2.docx",
+  "list_date": "2018-04-02"
+}
