@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; yurt içinde ve yurt dışında kadın sorunlarıyla ilgili her alanda araştırma yapmak ve eğitime yönelik faaliyetlerde bulunmak, eğitim, kültür, siyaset, işletme/ekonomi, hukuk ve sağlık alanlarında Türkiye’de ve dış ülkelerde yaşayan kadınlara ve toplumsal cinsiyet sorunlarına ilişkin bilimsel araştırma ve kültürel projeler yapmak ve bunların uygulanmasını sağlamak, toplumsal cinsiyet ayrımcılığı yapılmadan kadının, mikro ve makro düzeyde, sosyal, siyasi, hukuki, ekonomik her alanda hayata katkıda bulunabilen verimli ve üretken bir birey olarak toplum içerisinde yer almasını destekleyici ulusal ve uluslararası akademik çalışma ve uygulamalar yapmak, toplumsal cinsiyet ve kadın sorunlarına yönelik eğitim programlarını desteklemektir.

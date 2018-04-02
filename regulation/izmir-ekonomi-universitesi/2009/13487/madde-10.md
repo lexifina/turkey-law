@@ -1,0 +1,3 @@
+Danışma kurulu ve görevleri
+MADDE 10 – (1) (Değişik cümle:RG-2/4/2018-30379) Danışma Kurulu; Merkez faaliyetlerine yön vermek ve değerlendirmek üzere Rektörün önerisi ve Mütevelli Heyetinin onayıyla alanında uzman kişilerden oluşur. Danışma Kurulu üyelerinin görev süresi bir yıldır. Danışma Kurulu, her yıl en az bir kez, Müdür tarafından belirlenecek bir tarihte, Müdürün başkanlığında toplanır; toplantılarda çoğunluk şartı aranmaz.
+(2) Danışma Kurulunun görevleri; Merkezin çalışmalarına görüş ve önerileriyle katkıda bulunmak ve Merkezin faaliyetleri doğrultusunda araştırma projelerinin desteklenmesi ve hayata geçirilmesi yönünde katkı sağlamaktır.
