@@ -1,0 +1,25 @@
+{
+  "number": "meeting-04-02-6",
+  "number_as_published": "meeting-04-02-6",
+  "year": 2018,
+  "title": "02 Nisan 2018 2017 YILI FAALİYET RAPORU",
+  "decision_date": "2018-04-02",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=23",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/asdU9tBgfc1MbjlxeB.docx",
+  "source_sha256": "581f28cfb639ef6eb8f8bcfe9d4baa453588cb2c38d16b5da840d2f7bd617b70",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-04-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02 NİSAN 2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02 Nisan 2018 2017 YILI FAALİYET RAPORU",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "da05ddc596a6feb.docx",
+  "list_date": "2018-04-02"
+}
