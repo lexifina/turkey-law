@@ -1,0 +1,22 @@
+{
+  "number": "51",
+  "number_as_published": "2018/51",
+  "year": 2018,
+  "title": "Plan Bütçe Komisyonu Üye seçimi",
+  "decision_date": "2018-04-02",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2018-nisan-ayi-meclis-kararlari/1448",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2018-51/1450",
+  "source_sha256": "dc6ee651db6ecc2fa11c86ecdf7a8494d5ce7732180b28cfe2a5abc624553bfe",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-04-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.04.2018 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "decf45a997aeaa29ed5795cab537a58b55298e046bae952789349baf483c2ae8"
+}
