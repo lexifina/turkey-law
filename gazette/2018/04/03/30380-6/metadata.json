@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-04-03",
+  "issue": "30380",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2018/22)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180403-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180403.htm",
+  "index_sha256": "a73a102eb718ec77c1f578e076fc40c760be05833336a66e9edbec705d30c45b",
+  "index_header": "3 Nisan 2018 ... 30380 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180403.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "d2c67de23efca2bebeb7470a4c1553e73addb68dd473d909d5a4c09cd8b3dbdc",
+  "text_status": "text.txt as published"
+}
