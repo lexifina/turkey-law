@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-04-03",
+  "issue": "30380",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2018/21)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180403-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180403.htm",
+  "index_sha256": "a73a102eb718ec77c1f578e076fc40c760be05833336a66e9edbec705d30c45b",
+  "index_header": "3 Nisan 2018 ... 30380 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180403.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "5c71d17f663a71546a92766a30cf099dbe1806a3fffd853d6729af6c4cdc390a",
+  "text_status": "text.txt as published"
+}
