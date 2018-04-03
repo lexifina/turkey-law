@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB sirkulerTarih: 2018-04-03T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "circular",
+  "official_date": "2018-04-03",
+  "official_number": "KVK-48 / 2018-2 / Yatırım İndirimi - 34",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/863",
+  "source_id": "sirkuler:863",
+  "source_row_sha256": "db949dbec94a843b73fd90e6f5e0edba46d9ab41aaab1b75343247a080527d93",
+  "title": "Geçici Vergi Dönemlerinde Yeniden Değerleme Oranı",
+  "version_label": "as-enacted",
+  "word_count": 123
+}
