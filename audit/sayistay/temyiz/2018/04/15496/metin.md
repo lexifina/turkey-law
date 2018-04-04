@@ -1,0 +1,79 @@
+Uygulama işinde; yeni birim fiyat analizinde idareye ait birim fiyat analizindeki girdinin kullanılmaması;
+
+1- 64 sayılı İlamın 1. maddesinin A) bendiyle; … yüklenimindeki … İşinde; YFV.2105/A poz nolu “Ahşap üzerine 3 kat emprenye sürülmesi” imalatına ilişkin yeni birim fiyat analizinde İdareye ait birim fiyat analizindeki girdinin kullanılmadığı gerekçesiyle … TL’nin tazminine ilişkin hüküm tesis edilmiştir.
+
+Sorumlular (Harcama Yetkilisi sıfatıyla temyiz talep eden Daire Başkanı …, Gerçekleştirme Görevlisi sıfatıyla temyiz talep eden Şube Müdürü …, Makine Mühendisi …, … ve İnşaat Teknikeri … ile Sorumluluğa İştiraki Olmayan İnşaat Mühendisi Oğuzhan HARMAN), ortaklaşa gönderdikleri temyiz dilekçesinde özetle;
+
+GENEL AÇIKLAMA (tüm maddeler için geçerli olacak şekilde) olarak;
+
+27 Şubat 2008 tarihli Resmi Gazetede yayımlanarak yürürlüğe giren 5737 Sayılı Vakıflar Kanununun 28 inci maddesinde; “Yurtdışında bulunan vakıf kültür varlıklarının onarımı, restorasyonu ve gerektiğinde yeniden inşası Genel Müdürlükçe yürütülür...” denilmekte olup bu yetki ile Genel Müdürlük tarafından yurt dışında yapılan ilk işin …’da bulunan İsa Bey Hamamının restorasyon uygulaması olduğunu, Genel Müdürlük ile … İslam Birliği, … Vakıflar Müdürlüğü arasında Türk kültürünün korunması ve yaşatılması için …, …’da bulunan … Hamamı’nın aslına uygun olarak bakım, onarım, restorasyon ve konservasyonunun yapılması konusunda 09.12.2011 tarihinde işbirliği protokolü yapıldığını, projeleri … Vakıflar İdaresi tarafından hazırlatılmış olan … Hamamının restorasyonunun, işbirliği protokolü kapsamında 2013 yılında ihalesi yapılarak başlatıldığını, ihale hazırlıkları aşamasında … Vakıflar İdaresi ve proje müellifi … ile görüşme yapılarak ülkenin ve işin teknik yapım şartları, mevzuatları, standartları hakkında bilgi alınmaya çalışıldığını, ancak yapılan görüşmelerde tüm ülke genelinde uygulanan tek bir standardın olmadığının, birim fiyatlarının bulunmadığının belirtildiğini, … Genel Müdürlüğü olarak yurt dışındaki ilk işleri olması sebebiyle teknik bir dil birliği oluşturulmaya çalışıldığını, bunun da ancak uygulama başladıktan sonra zaman içinde oluşmaya başladığını, projelerin üzerinde de yazdığı şekliyle, birçok malzeme ve uygulamaya, uygulama sırasında proje müellifi tarafından karar verilmesi gerektiğinden proje müellifi ile koordine sağlanmaya çalışıldığını, proje müellifinin yanı sıra işin denetimini yapmak üzere … resmi makamları tarafınca görevlendirilmiş olan Anıtlar Kurulu elemanı ve ayrıca Vakıflar İdaresi adına denetim yapan teknik elemanlarla bir arada çalışıldığını (buna ilişkin belgelerin dilekçe ekinde görülebileceğini), uygulama sırasında sadece Türk tarafının talimatları ile değil … tarafının talimatları ile de çalışmalar yapılmak zorunda kalındığını, dolayısı ile proje genel olarak hazırlanmış olduğundan yaklaşık maliyet aşamasında öngörülemeyen ve uygulama sırasında proje müellifi tarafından belirlenen bazı uygulamaların yapılmasına yönelik uygulama aşamasında analizler hazırlandığını, İdarenin onayı ile uygulamalar da yapıldığını, yurt dışında yapılan bir restorasyon çalışması olması hasebiyle yapılan bu uygulamaların sadece ülkemiz standartları ve birim fiyatları baz alınarak değerlendirilmesinin uygun olmayacağının düşünülmekte olduğunu, ilama konu … Hamamının Restorasyonu İşinin açık ihale usulüyle yapılan ilk ihalesinin, gelen tekliflerin tamamının yaklaşık maliyetin üzerinde olması nedeniyle iptal edildiğini, pazarlık usulüyle yapılan ikinci ihalede ise yaklaşık maliyetin altında sadece iki teklif verildiğini ve bunlardan düşük olan teklif sahibi ile sözleşme imzalandığını, sonrasında yapılan yurtdışı ihalelerinde yüklenicilerin teklif vermek istememeleri ya da yaklaşık maliyetin çok üzerinde teklif vermeleri ve bu ilk işte yaşanan zorluklar ile ilave maliyetler dikkate alınarak yönetmelik değişikliğine gidildiğini ve çalışılacak ülkenin koşulları dikkate alınarak ülkemiz ile diğer ülke arasındaki fiyat farklarının, vergi, gümrük giderleri, kur farkları vb. dikkate alınarak her işe münhasır Genel Müdür tarafından ihale yetkilisine ihtiyarilik yetkisi verildiğini, Genel Müdürlükçe yurt dışında ilk kez yapılmış olan restorasyon çalışmasının, yukarıda açıklanmaya çalışılan tüm bu hususlar dikkate alınmadan, sadece ülkemiz standartları ve birim fiyatları baz alınarak değerlendirilmesinin gerçekle bağdaşamayacağını,
+
+SORUMLULARIN EKSİK TESPİTİ ile ilgili olarak;
+
+İlamda belirtilen maddelerin tamamı inşaat kalemleri ile ilgili olup, inşaat kontrollük teşkilatının; mimar, inşaat mühendisi ve inşaat teknikerinden oluşmasına rağmen kamu zararının çıkarıldığı tüm maddelerden mimar ve inşaat teknikerinin sorumlu tutulduğunu, inşaat mühendisinin yazılmayarak sorumluların eksik belirlendiğini, ayrıca işin kontrollük teşkilatında yer alan makine mühendisinin de mesleki sorumluluğu olmadığı halde tüm inşaat kalemlerinden sorumlu tutulduğunu, diğer yandan yine inşaat kalemleri olan (C), (D), (S) ve (T) maddelerinde harcama yetkilisi ile gerçekleştirme görevlilerinden müdür ve makine mühendisinin sorumlu tutulduğunu, ancak inşaat kontrollük teşkilatından hiçbiri sorumlu tutulmayarak eksik ve doğru olmayan bir sorumlu tespiti yapıldığını, ancak temyiz başvurusunda maddelerde adı geçen sorumlular dikkate alınmaksızın, tüm gerçekleştirme görevlileri ve harcama yetkilisi olarak birlikte savunma hazırlandığını,
+
+Bu iki başlık kapsamında; gerek denetçi görüşünde gerekse ilamda, restorasyon işinin ülkemizde ve ülkemiz standartları ile yapılmışçasına ve uygulamaya ilişkin tek karar merciinin İdareleri ve kontrollük heyeti olduğu kabulüyle değerlendirmelerde bulunulduğunu belirterek (tahsil edilen ilam maddesi bentler dışında) tazmin hükümlerinin kaldırılması gerektiğini,
+
+İLAM MADDESİNİN A) BENDİNİN KALDIRILMASINA ilişkin olarak ise;
+
+Emprenye malzemesi olarak kullanılan malzemenin bakır-krom esaslı malzeme olup, bu malzemenin çatı kerestelerinde kullanılabileceğine ilişkin resmi belge olarak aşağıdaki metnin sunulduğunu, (dilekçe ekindeki) … Bakanlığının 403 nolu yayını, … Araştırma Enstitüsü Yayınlarının 290 nolu Teknik Bülteni “Çeşitli Emprenye Maddeleri ile Emprenye Edilmiş Ağaç Malzemenin Açık Hava Testleri ile Dayanıklılık Sürelerinin Tespiti (20. Yıl Sonuçları)”nın 12. sayfasında Suda Çözünen Emprenye Maddeleri başlığı altında yer alan 2.2.2.2 CCB (Wolmanit-CB, Tanalith-CBC vs.) Tipi Emprenye Maddeleri bendinde;
+
+“CCB tuzları, bakır, krom, bor içeren emprenye maddeleridir. Piyasada Celcure-M, Wolmanit-CB, Tanalith-CBC ve Triolith-CB ismiyle de bilinirler. CCB emprenye maddesi, bakır-sülfat, potasyum veya sodyum dikromat ve borik asitin belirli oranlarda kuru karışımından üretilir.
+
+Ağaç malzemeyi mantar, böcek, termit ve deniz zararlılarına karşı koruyan, odunun tutuşma kabiliyetinin azaltan CCB tuzları, genellikle suda çözünen emprenye maddelerinin tüm olumlu özelliklerini taşırlar.
+
+CCB tuzları, ağaç malzemenin iç ve dış maksatlarla kullanıldığı yerlerde örneğin; tel direkleri, çit direkleri, soğutma kuleleri, deniz iskele direkleri, iskele döşemeleri, binalarda çatı keresteleri ve çiftlik ağırlarındaki ağaç malzemenin emprenyesinde kullanılmaktadır.”
+
+Denildiğini, ilaveten, (dilekçe ekindeki) Ahşap İşleri Genel Teknik Şartnamesi 17.3.1. maddesinde yer alan “Ahşap Cinsine Göre Emprenye Yöntemleri” tablosunda da bina içinde makas, kiriş ve benzeri imalatlarda kullanılan çam kerestesinin emprenyesinde bakır-krom esaslı malzemenin kullanıldığının görülmekte olduğunu, ayrıca … denetim elemanları tarafından hazırlanan (dilekçe ekindeki) açıklayıcı raporda belirtildiği üzere ahşaplarda emprenye kullanılmasının zorunlu olduğunu ve kullanılan emprenye malzemesinin denetim elemanları tarafından belirlendiğini, … Denetim Kurulunca hazırlanan (dilekçe ekindeki) raporda da belirtildiği üzere malzemenin bakır-krom esaslı olduğunu, savunmalarının da ekinde olan emprenye malzemesi fotoğraflarının gerçek olup yapıda kullanılan malzeme olduğunu, tüm uygulamada olduğu gibi bu uygulamanın fiyatlandırılmasında da yerinde yapılan imalatın esas alındığını, sonuç olarak; bu ilam maddesi bendinde taraflarınca ödenmesi gerektiği belirtilen kamu zararı tutarının kaldırılmasını talep ettiklerini ifade etmişlerdir.
+
+Başsavcılık mütalaasında özetle; dilekçede ilamın 1. maddesine ilişkin olarak; (tazmin hükmü verilen) bentlerin tamamının inşaat kalemleri ile ilgili olmasına ve inşaat kontrollük teşkilatının mimar, inşaat mühendisi ve inşaat teknikerinden oluşmasına rağmen, inşaat mühendisinin sorumlular arasında sayılmadığı, ayrıca işin kontrollük teşkilatında yer alan makine mühendisinin mesleki sorumluluğunun bulunmamasına rağmen tüm inşaat kalemlerinden sorumlu tutulduğu, inşaat kalemleri olan (C), (D), (S), ve (T) maddelerinde inşaat kontrollük teşkilatının hiçbir üyesinin sorumlu tutulmadığı; dolayısıyla da ilamın bu maddesinde eksik ve doğru olmayan bir sorumlu tespiti yapıldığının ileri sürüldüğü, (D) ve (S) maddeleriyle tazmin hükmolunan tutarların tahsil edildiğinin belirtildiği ve tahsilata ilişkin banka dekontlarına yer verildiği, son olarak dilekçe ekinde konunun esasına ilişkin olarak yeni bir takım belgelere yer verilmek suretiyle, ödemelerinin usulüne uygun olarak yapıldığı ve kamu zararı bulunmadığı ileri sürülerek tazmin hükmünün kaldırılmasının talep edildiği ifade edildikten sonra; (D) ve (S) maddeleriyle ilgili olarak hüküm tarihinden sonra yapılan ve ilamın infazı mahiyetinde olan toplam … (1/D … TL, 1/S … TL) tahsilat hakkında yapılacak bir işlem bulunmadığı, sorumluluğa ilişkin olarak ileri sürülen hususların yerinde olduğunun değerlendirildiği, öte yandan konunun esasına ilişkin olarak dilekçe ekinde gönderilen ve yargılama aşamasında bulunmayan belgelerin incelenmesi temyiz konusu olmadığından; sözü edilen belgelerin yargılamanın iadesini gerektirir nitelikte görülmesi halinde bu yolda işlem ifasını teminen, sorumluluğa ilişkin itirazlarla birlikte yeniden değerlendirilmek üzere dosyanın Dairesine gönderilmesine karar verilmesinin uygun olacağı belirtilmiştir.
+
+İşbu dosyayla duruşma talebinde bulunan sorumlulardan …, …, … ve … ile Sayıştay Savcısının sözlü açıklamalarının dinlenmesinden ve dosyada mevcut belgelerin okunup incelenmesinden sonra (aynı ilam maddesinde sorumluluğu bulunan ve aynı dosyayla duruşma talebinde bulunan …’a 15.03.2018 tarihinde duruşma günü bildirilmiş olmasına karşın duruşmaya katılmadığından, Hukuk Muhakemeleri Kanununun 369 uncu maddesi hükmü uyarınca dosya üzerinde ve gıyabında),
+
+GEREĞİ GÖRÜŞÜLDÜ:
+
+Vakıf kültür varlıklarının rölöve, restorasyon, restitüsyon projeleri kapsamında yapılan yapım işlerinde dikkate alınacak temel düzenleme olan Uygulama İşleri Genel Şartnamesinin “Sözleşmede bulunmayan işlerin birim fiyatının tespiti” başlıklı 22 nci (05.03.2009 tarihinden önce 23 üncü) maddesinde:
+
+“a) Ön veya kesin proje üzerinden veya proje yapımı ile uygulamanın birlikte yapılarak sözleşmeye bağlandığı işlerde işin yürütülmesi aşamasında idarenin gerekli görerek ilgili koruma kurulunun onayını almak kaydı ile yapılmasını istediği, ancak birim fiyat teklif cetvelinde fiyatı bulunmayan yeni iş kalemlerinin bedelleri,
+
+b) Bu şartnamenin 21 nci maddesine göre sözleşme kapsamında yaptırılacak ilave işlerin bedelleri,
+
+Yüklenici ile birlikte aşağıdaki usuller çerçevesinde tespit edilen yeni birim fiyatlar üzerinden yükleniciye ödenir.
+
+Yeni birim fiyatın tespitinde iş kalemi veya iş grubunun niteliğine göre aşağıdaki analizlerden biri kullanılır:
+
+a) Yüklenicinin birim fiyatların tespitinde kullanarak teklifinin ekinde idareye verdiği ve yeni iş kalemi ile benzerlik gösteren iş kalemlerine ait analizlerle kıyaslanarak bulunacak analizler.
+
+b) İdarede veya diğer idarelerde mevcut olan ve yeni iş kalemine benzerlik gösteren iş kalemlerine ait analizler.
+
+c) Yeni iş kaleminin yapılması sırasında tutulacak puantajla tespit edilecek malzeme miktarları ile işçi ve makinelerin çalışma saatleri esas alınarak oluşturulacak analizler.
+
+İşin niteliğine uygun olarak yukarıdaki analizlere, kaynakların verimli kullanılması gözetilerek aşağıdaki rayiçlerden biri uygulanır.
+
+1) Yüklenicinin teklifinin ekinde idareye verdiği teklif rayiçler.
+
+2) İdarede veya diğer idarelerde mevcut rayiçler.
+
+3) İdarenin veya diğer idarelerin sözleşmeye bağladığı benzer uygulama işlerinde ortaya çıkan fiyatlar
+
+4) İdarece kabul edilmek şartı ile uygulama ayına ait Ticaret ve/veya Sanayi Odasınca onaylanmış yerel rayiçleri.
+
+Yeni birim fiyat yüklenici ile birlikte yukarıda belirtilen usullerden biri ile tespit edilerek düzenlenen tutanak idarenin onayına sunulur ve otuz gün zarfında idarece onaylanarak geçerli olur. Yeni birim fiyat tespitinde yüklenici ile uyuşulamaz ise, taraflarca anlaşmazlık tutanağı düzenlenir ve anlaşmazlık idare tarafından on gün içerisinde Bayındırlık Kuruluna intikal ettirilir. Bayındırlık Kurulu tarafından tespit edilen fiyatın iki tarafça kabulü zorunludur. Yüklenici, birim fiyat uyuşmazlığı hakkındaki Bayındırlık Kurulunun kararını beklemeden idare tarafından tespit edilmiş fiyat üzerinden işe devam etmek zorundadır.
+
+…”
+
+Denilmektedir.
+
+İlamda tazmin hükmü, “YFV.2105/A poz nolu “Ahşap üzerine 3 kat emprenye sürülmesi” imalatına ilişkin yeni birim fiyat analizinde idareye ait birim fiyat analizindeki girdinin kullanılmadığı” ana gerekçesi üzerine kurulmuş, bu gerekçe de “Uygulama İşleri Genel Şartnamesinin yukarıda belirtilen maddesine göre yeni birim fiyatın tespitinde öncelik sırasına göre yüklenicinin birim fiyatların tespitinde kullanarak teklifinin ekinde idareye verdiği ve yeni iş kalemi ile benzerlik gösteren iş kalemlerine ait analizlerle kıyaslanarak bulunacak analizler, bu mümkün değilse idarede veya diğer idarelerde mevcut olan ve yeni iş kalemine benzerlik gösteren iş kalemlerine ait analizlerin kullanılması gerektiği, sorumlular tarafından yeni birim fiyat analizinde kullanıldığı ileri sürülen CBC-emrenye malzemesinin bakır krom esaslı ve su altında kalan ahşaplar için uygulanan malzeme olup, çatı ahşabı için teknik olarak uygulanmayan bir malzeme olduğu, kullanılan malzemeyi kanıtlayıcı bir açıklama ve belge ibraz edilmediğinden teknik olarak kullanılmaması gereken bir malzemenin analizlere dâhil edilmesinin mümkün olmadığı, bundan ötürü Vakıf Birim Fiyat Listesinde mevcut olan sürme emrenye işlemine ilişkin V.2109/1 pozu analizinin aynen alınması gerektiği” şeklindeki değerlendirmelere dayandırılmıştır.
+
+Ancak, sorumlular tarafından dilekçe ekinde emprenye malzemesi olarak kullanılan malzeme bakır-krom esaslı malzemenin çatı kerestelerinde kullanılabileceğine ilişkin birtakım belgeler sunulmuş olup, … denetim elemanları tarafından hazırlanan (yine dilekçe ekindeki) açıklayıcı raporda belirtildiği üzere ahşaplarda emprenye kullanılması zorunludur ve fiilen kullanılan emprenye malzemesi de bakır-krom esaslıdır.
+
+Sonuç olarak, yeni birim fiyat yapılan “YFV.2105/A poz nolu “Ahşap üzerine 3 kat emprenye sürülmesi” imalatı analizinde yerinde yapılan imalat şartları esas alınarak girdiler belirlendiğinden ve bu belirlemede herhangi bir kamu zararı oluşmadığından; sorumluların temyiz dilekçesindeki iddialarının kabul edilerek 64 sayılı İlamın 1. maddesinin A) bendiyle verilen … TL’nin tazminine ilişkin hükmün KALDIRILMASINA, (Üyeler; … ve …’ın aşağıda yazılı azınlık görüşlerine karşı) oy çokluğuyla,
+
+Karşı oy gerekçesi/Azınlık görüşü
+
+Üyeler; … ve …’ın;
+
+Sorumlular tarafından dilekçe ekinde emprenye malzemesi olarak kullanılan malzeme bakır-krom esaslı malzemenin çatı kerestelerinde kullanılabileceğine ilişkin birtakım belgeler sunulmuş olup, ayrıca konu ile ilgili … denetim elemanları tarafından hazırlanan (yine dilekçe ekindeki) bir açıklayıcı rapordan bahsedilmiştir.
+
+Söz konusu belgelerin ve raporun incelenmesi yargılamanın iadesi sebebi olup, bu incelemenin Dairesince gerçekleştirilmesi gerektiğinden; tazmin hükmünün bozularak Dairesine gönderilmesi uygun olur.
