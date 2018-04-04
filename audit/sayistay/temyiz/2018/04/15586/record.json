@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44279",
+  "decision_date": "2018-04-04",
+  "source_id": 15586,
+  "chamber": "8",
+  "file_number": "40869",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15586/",
+  "source_sha256": "2f7ca60fb17e9c74c430d6abca616806f3f5105ce4a06b00d5acc8eea930b3ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
