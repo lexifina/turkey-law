@@ -1,0 +1,23 @@
+{
+  "number": "24",
+  "number_as_published": "24",
+  "year": 2018,
+  "title": "Sözleşmeli Personelin Vize Dosyaları",
+  "decision_date": "2018-04-04",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/42",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/24-tiyatro-sozlesmeli-personel-vize-dos-04042018.pdf",
+  "source_sha256": "0990d46b18705c269a23e5a0852ce7233fcde59974c5af86a03461dec46f9697",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-04-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04 Nisan 2018 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
