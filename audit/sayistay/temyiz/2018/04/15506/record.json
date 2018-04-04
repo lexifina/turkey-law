@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44275",
+  "decision_date": "2018-04-04",
+  "source_id": 15506,
+  "chamber": "8",
+  "file_number": "40946",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2014",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15506/",
+  "source_sha256": "a9f7e15ffed0b363cdf3b80586c28f25224e3ce8fcb339caf9e28c85622cbada",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
