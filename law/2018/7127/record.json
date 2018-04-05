@@ -2,9 +2,9 @@
   "record_type": "law-metadata",
   "document_type": "kanun",
   "number": "7127",
-  "year": 2016,
+  "year": 2018,
   "title": "Türkiye Cumhuriyeti Hükümeti ile Macaristan Hükümeti Arasında Güvenlik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
-  "adopted": "2016-03-04",
+  "adopted": "2018-04-05",
   "date_basis": "last-sitting",
   "official_gazette_as_published": "25.04.2018 No: 30402 M.",
   "committee_reports": [
@@ -49,18 +49,31 @@
           "pages": [
             "212"
           ]
+        },
+        {
+          "cilt": 70,
+          "sitting": 82,
+          "sitting_date": "2018-04-05",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c070/tbmm26070082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c070/tbmm26070fih.pdf",
+          "pages": [
+            "141:142",
+            "215:232"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=3&v_cilt="
         }
       ],
       "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
-      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=491&v_gelecek_sayfa=401&v_kullanici_id=27483208",
-      "page_sha256": "268f7067031ea5d380ad542d9492af20b5d30b1609f9cf0927938dcf2e5f519c"
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=491&v_gelecek_sayfa=401&v_kullanici_id=27484870",
+      "page_sha256": "a552533a00bfee729bd3a4a1c85a0cf307524efb23e754b40c7a8aff7080b6f4"
     }
   ],
   "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
-  "source_sha256": "268f7067031ea5d380ad542d9492af20b5d30b1609f9cf0927938dcf2e5f519c",
+  "source_sha256": "a552533a00bfee729bd3a4a1c85a0cf307524efb23e754b40c7a8aff7080b6f4",
   "issuer": "TBMM",
-  "in_force": "2016-03-04",
-  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2016-03-04); commencement not asserted",
+  "in_force": "2018-04-05",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2018-04-05); commencement not asserted",
   "history_type": "metadata",
   "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
   "law_text_complete": false,
