@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "130",
+  "decision_date": "2018-04-05",
+  "source_id": 26269,
+  "chamber": "8",
+  "ilam_number": "320",
+  "item_number": 3,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26269/",
+  "source_sha256": "d6404e1ae955cf8c68451b7b31e79cd51959a69bb5a4f26983792117a5eb5632",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
