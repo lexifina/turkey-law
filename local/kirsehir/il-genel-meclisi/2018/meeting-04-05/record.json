@@ -1,0 +1,26 @@
+{
+  "number": "meeting-04-05",
+  "number_as_published": "meeting-04-05",
+  "year": 2018,
+  "title": "2018 Yılı Meclis Kararları",
+  "decision_date": "2018-04-05",
+  "source": "https://www.kirsehirozelidare.gov.tr/2018-yili-meclis-kararlari",
+  "official_document": "https://www.kirsehirozelidare.gov.tr/kurumlar/kirsehirozelidare.gov.tr/Dokumanlar/meclis_kararlari/2018/04Nisan/%C4%B0L%20GENEL%20MECL%C4%B0S%C4%B0N%C4%B0N%2005%20N%C4%B0SAN%202018%20ZAB.%C3%96ZET%C4%B0.doc",
+  "source_sha256": "4a4512e02d9f481e9c91296e7692c46e773ecdcc0b52b2e15ff01f3cb9595544",
+  "issuer": "Kırşehir İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-04-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 NİSAN 2018 (official file name); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2018 Yılı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "date_read_from": "official file name",
+  "official_page": "https://www.kirsehirozelidare.gov.tr/2018-yili-meclis-kararlari",
+  "item_title": "2018 Yılı Meclis Kararları"
+}
