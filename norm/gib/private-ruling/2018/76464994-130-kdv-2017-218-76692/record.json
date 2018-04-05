@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2018-04-05T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2018-04-05",
+  "official_number": "76464994-130[KDV.2017.218] - 76692",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32324",
+  "source_id": "ozelge:32324",
+  "source_row_sha256": "9873b0d63dffe01c38263a97a7ad74097898f3f71e92b4185f2fee938684ce45",
+  "title": "Sushi sosunun KDV oranı",
+  "version_label": "as-enacted",
+  "word_count": 352
+}
