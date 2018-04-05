@@ -1,0 +1,60 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7119",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Tanzanya Birleşik Cumhuriyeti Hükümeti Arasında Askerî Alanda Eğitim, Teknik ve Bilimsel İş Birliği Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "adopted": "2018-04-05",
+  "adopted_as_published": "05/04/2018",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "25.04.2018 No: 30402 M.",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc102/kanuntbmmc102/kanuntbmmc10207119.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 102",
+  "committee_reports": [
+    {
+      "label": "TBMM 139 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c070/tbmm26070082ss0139.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 26,
+      "kayit_no": 850658,
+      "title": "Türkiye Cumhuriyeti Hükümeti ile Tanzanya Birleşik Cumhuriyeti Hükümeti Arasında Askerî Alanda Eğitim, Teknik ve Bilimsel İş Birliği Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+      "adopted_as_published": "05/04/2018",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc102/kanuntbmmc102/kanuntbmmc10207119.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 139 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c070/tbmm26070082ss0139.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 12,
+          "sitting": 59,
+          "sitting_date": "2016-03-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c012/tbmm26012059.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c012/tbmm26012fih.pdf",
+          "pages": [
+            "14"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=491&v_gelecek_sayfa=401&v_kullanici_id=27483208",
+      "page_sha256": "268f7067031ea5d380ad542d9492af20b5d30b1609f9cf0927938dcf2e5f519c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "268f7067031ea5d380ad542d9492af20b5d30b1609f9cf0927938dcf2e5f519c",
+  "issuer": "TBMM",
+  "in_force": "2018-04-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 05/04/2018; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
