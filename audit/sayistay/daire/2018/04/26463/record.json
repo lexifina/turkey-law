@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "248",
+  "decision_date": "2018-04-05",
+  "source_id": 26463,
+  "chamber": "7",
+  "ilam_number": "110",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26463/",
+  "source_sha256": "d47b9107afc089cdb88767b3a6b9b004cfb0121bb8659c8e7791c98e55996079",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
