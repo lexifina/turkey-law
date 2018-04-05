@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "248",
+  "decision_date": "2018-04-05",
+  "source_id": 26458,
+  "chamber": "7",
+  "ilam_number": "110",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26458/",
+  "source_sha256": "b8f80929c15038931159a959e81f316856e23372de26973b533595badbcf976f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
