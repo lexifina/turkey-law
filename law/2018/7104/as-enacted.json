@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7104",
+  "year": 2018,
+  "title": "Katma Değer Vergisi Kanunu ve Bazı Kanunlar ile 178 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-06",
+  "gazette_issue": "30383",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180406-6.htm",
+  "source_sha256": "52390e9cc121f7020a261c6d52574201f32861c30c7f7d3f77d0ade1bbab235f",
+  "text_sha256": "ed2eaeba298b6b2899c6b530de753b8eeeb35263e7514279382da35cf955cd5a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/06/30383-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180406-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
