@@ -1,0 +1,15 @@
+{
+  "number": "K-2018/22452",
+  "award_date": "2018-04-08",
+  "heading_as_published": "08.04.2018 tarih ve K-2018/22452 Sayılı Hakem Kararı (Tekne)",
+  "issue": "Hakem Karar Dergisi 34 Nisan - Haziran 2018",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs34.pdf",
+  "source_sha256": "4996f0e107a033befab389c20010162f66e3bc33bf8e783c607478bd49d888dd",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
