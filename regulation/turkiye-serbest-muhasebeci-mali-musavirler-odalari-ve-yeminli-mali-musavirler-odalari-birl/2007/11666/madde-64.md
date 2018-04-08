@@ -1,0 +1,1 @@
+MADDE 64 – (1) Yeniden değerlendirme tehdidi yaratabilecek durumlara verilebilecek örneklerden bazıları işletme kararlarının ve verilerinin, bu kararları veren veya verileri hazırlayan meslek mensupları tarafından incelenmesi ve değerlendirilmesi olabilir.

@@ -1,0 +1,1 @@
+MADDE 26 – (1) Bağımsız çalışan meslek mensubunun maruz kalabileceği temel ilkelere uyumla ilgili bazı özel tehditler sınıflandırılamayabilir. Ancak meslek mensubu iş ilişkilerinde bu tür tehditlere karşı her zaman dikkatli ve uyanık olmalıdır.

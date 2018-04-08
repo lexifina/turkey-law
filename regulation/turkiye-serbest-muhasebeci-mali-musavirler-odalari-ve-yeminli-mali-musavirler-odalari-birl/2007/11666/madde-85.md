@@ -1,0 +1,5 @@
+MADDE 85 – (1) Değerlendirilen tehditlerden önemli kabul edilenler için önlem alınmalıdır. Tehditler ortadan kaldırılamıyor veya kabul edilebilir bir düzeye indirilemiyor ise meslek mensubu teşviki kabul etmemelidir. Temel etik ilkelerine yönelik gerçek tehditler sadece teşvikin kabul edilmesinden kaynaklanmamaktadır. Bazen sadece teşvik teklifinin yapılmış olması bile ilave önlemlerin alınmasını gerektirebilir. Bağımlı çalışan meslek mensubu bu tür tekliflerin taşıdığı riski değerlendirmeli ve aşağıdaki önlemlerin alınıp alınmaması gerektiğine karar vermelidir:
+a) Bu tür teklifler yapıldığında, hemen üst yönetime veya işverenin yönetişimden sorumlu olanlara bilgi verilmesi,
+b) Meslek örgütüne veya teklifi yapan kişinin işverenine teklifle ilgili bilgi verilmesi ancak böyle bir adım atılmadan önce yasal tavsiye alınması,
+c) Bu tür teklifleri alabilecek pozisyonda bulunan birinci derece veya yakın aile üyelerine tehditler ve önlemler hakkında bilgi verilmesi,
+ç) Meslek mensubunun birinci derece veya yakın aile üyelerinin işveren işletmenin rakipleri ya da potansiyel tedarikçileri tarafından istihdam edilmeleri ile ilgili üst yönetime bilgi verilmesi.

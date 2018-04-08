@@ -1,0 +1,1 @@
+MADDE 88 – (1) Etik olmayan bir teşvik verilmesi yönündeki baskılar işveren işletme içinden geliyorsa, bağımlı çalışan meslek mensubu, Yönetmeliğin birinci kısmındaki etik çatışmanın çözümlenmesiyle ilgili kısma uygun davranmalıdır.

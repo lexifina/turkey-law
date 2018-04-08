@@ -1,0 +1,1 @@
+MADDE 68 – (1) Sayılan tehditlerin ortadan kaldırılması veya kabul edilebilir bir düzeye indirilmesine yönelik önlemlerden meslek, mevzuat ve düzenlemelerle ilgili önlemler, Birinci Kısımda açıklanmıştır.

@@ -1,0 +1,2 @@
+Etik Kurulunun toplantısı(4)
+MADDE 6 – (1) Etik (Değişik ibare:RG-8/4/2018-30385) Kurulu düzenli olarak (Değişik ibare:RG-8/4/2018-30385) ayda en az bir kez toplanır. (Değişik ibare:RG-8/4/2018-30385) Kurul başkanı veya Türkiye Serbest Muhasebeci Malî Müşavirler ve Yeminli Malî Müşavirler Odaları Birliği Yönetim Kurulu gerekli gördüğü takdirde Etik (Değişik ibare:RG-8/4/2018-30385) Kurulunu toplantıyla çağırabilir.

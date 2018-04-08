@@ -1,0 +1,3 @@
+ÜÇÜNCÜ BÖLÜM
+Bilginin Hazırlanması ve Raporlanması
+MADDE 73 – (1) Bağımlı çalışan meslek mensupları, kamuya açıklanan veya işveren içindeki veya dışındaki gruplar tarafından kullanılacak bilgilerin hazırlanması ve raporlanmasında sıklıkla görev alırlar. Bu tür raporlar tahminler ve bütçeler, finansal tablolar, yönetim analizleri ile finansal tablo denetiminin bir parçası olarak denetçiye sunulan yönetim temsil mektubu gibi finansal veya yönetim bilgileri içeren raporlar olabilir. Meslek mensubu bu tür bilginin hazırlanmasında ve sunulmasında dürüst olmalı ve geçerli meslekî standartlara ve finansal raporlama standartlarına uygun olarak hareket etmelidir.

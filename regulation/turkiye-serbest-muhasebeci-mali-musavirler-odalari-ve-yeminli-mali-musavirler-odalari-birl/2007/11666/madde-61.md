@@ -1,0 +1,4 @@
+MADDE 61 – (1) Finansal tablo denetimi müşterisine finansal tabloların kapsadığı süre esnasında veya sonrasında ancak finansal tablo denetimi ile ilgili hizmetin başlamasından önce güvence sağlama amaçlı olmayan bir hizmet sunulmuş ise, bu hizmetin ifası denetim sözleşmesi süresince yasaklanmalı ve bağımsızlığa yönelik tehditler göz önüne alınmalıdır. Önemli olarak değerlendirilen tehditler için alınabilecek önlemler şunlar olabilir:
+a) Güvence sağlama amaçlı olmayan hizmetlerin sağlanması ile ilgili bağımsızlık konularının, müşterinin yönetişimden sorumlu gruplarla (denetim komitesi gibi) tartışılması,
+b) Güvence sağlama amaçlı olmayan hizmetlerin sonuçları için müşterinin sorumluluk onayının alınması,
+c) Güvence sağlama amaçlı olmayan hizmet sunumunda görev alan firma personelinin finansal tablo denetimi hizmetinde görev almaması.

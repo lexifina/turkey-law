@@ -1,0 +1,1 @@
+MADDE 31 – (1) Sözleşmenin özelliğine bağlı olarak, bağımsız çalışan meslek mensubu, müşterisinin aldığı önlemlere de güvenebilir. Ancak, tehditlerin kabul edilebilir düzeye indirilmesinde sadece bu tür önlemlere güvenilmesi mümkün değildir.

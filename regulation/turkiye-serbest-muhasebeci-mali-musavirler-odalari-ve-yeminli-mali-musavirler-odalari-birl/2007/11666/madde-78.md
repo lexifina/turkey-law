@@ -1,0 +1,1 @@
+MADDE 78 – (1) Tehditler ortadan kaldırılamıyor veya kabul edilebilir bir düzeye indirilemiyorsa bağımlı meslek mensubu kuşku duyduğu bu görevleri yerine getirmeyi kabul etmeyebilir. Böyle bir durumda bu kararına ilişkin nedenleri açıklamalıdır.

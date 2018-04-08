@@ -1,0 +1,1 @@
+MADDE 9 – (1) Meslek mensupları tarafsızlıklarını olumsuz yönde etkileyebilecek durumlara maruz kalabilir. Bu tür durum ve baskıları tanımlamak veya öngörmek her zaman olası değildir. Dolayısıyla, meslek mensuplarının tarafsızlıklarını etkileyebilecek ortam ve ilişkilerden kaçınmaları gereklidir.

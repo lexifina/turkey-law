@@ -1,0 +1,4 @@
+ÜÇÜNCÜ BÖLÜM
+Çıkar Çatışmaları
+MADDE 36 – (1) Bağımsız çalışan meslek mensubu çıkar çatışmasına neden olabilecek durumları belirlemeye çalışmalıdır. Bu tür durumlar temel etik ilkelere uyulması konusunda sakıncalara neden olabilir. Örneğin, bir meslek mensubunun müşterisinin rakibiyle ortak bir yatırım veya bir anlaşma yapması tarafsızlık ilkesini tehdit edebilir. Aynı zamanda, meslek mensubunun çıkar çatışması içinde olan müşterilere hizmet sunması tarafsızlık veya gizlilik ilkesine yönelik tehdit yaratabilir.
+(2) Bağımsız çalışan meslek mensubu her türlü tehdidin önemini değerlendirmelidir. Değerlendirme; meslek mensubunun bir müşteriyi kabul etmeden önce, potansiyel müşterisiyle arasında herhangi bir tehdit yaratabilecek çıkar ilişkisinin olup olmadığının tespit edilmesine dayanır. Önemsiz olanlar dışındaki tehditleri yok etmek veya kabul edilebilir düzeye indirmek için gerekli önlemler alınmalıdır.

@@ -1,0 +1,1 @@
+MADDE 59 – (1) Sözleşme dönemi süresince, güvence sağlama sözleşmesi ekibi ve firma, güvence sağlama sözleşmesi müşterisinden bağımsız olmalıdır. Sözleşme dönemi, sözleşme ekibinin güvence hizmetlerini yerine getirmeye başlamasıyla başlar ve güvence raporunun yayınlanmasıyla son bulur.

@@ -1,0 +1,8 @@
+Meslekî atamalardaki değişiklikler
+MADDE 35 – (1) Başka bir meslek mensubunun yerine geçmesi istenen veya o anda başka bir meslek mensubu tarafından yerine getirilen bir sözleşme için teklif vermeyi düşünen bir meslek mensubu, sözleşmeyi kabul etmemesini gerektiren, temel etik ilkelere yönelik tehditler gibi, nedenler olup olmadığını belirlemelidir. Örneğin; bir meslek mensubunun, bir sözleşmeyi kabul etmeden önce, konuyla ilgili tüm gerçekleri bilmemesi meslekî yeterlilik ve özen ilkesini tehdit edebilir.
+(2) Söz konusu tehditlerin önemi değerlendirilmelidir. Bu amaçla mevcut meslek mensubu ile doğrudan iletişim kurularak, önerilen değişim ile ilgili tüm gerçeklerin ortaya konulması ve böylece meslek mensubunun sözleşmenin kabul edilmesinin uygun olup olmayacağına karar vermesi sağlanır.
+(3) Mevcut meslek mensubu gizlilik ilkesine uymakla yükümlüdür. Dolayısıyla mevcut meslek mensubunun işi alması önerilen meslek mensubuyla müşterisi konusunda yapabileceği görüşmenin kapsamı müşterisinin izin vermesine ya da bu tür bir iletişime izin veren yasal ya da etik gerekliliklere bağlı olacaktır (Bu gereklilikler Kısım 1 Bölüm 5’de yer almaktadır).
+(4) Belirlenen tehditlerden açıkça önemsiz olanlar dışındakiler için önlem alınması gereklidir. Alınabilecek önlemler şunlar olabilir.
+a) Mevcut meslek mensubuyla müşterinin işleri hakkında tümüyle ve özgürce konuşmak,
+b) İş teklif edilen meslek mensubunun karar vermeden önce, mevcut meslek mensubundan, bilmesi gereken gerçeklerle ilgili bilgi istemek.
+(5) Önlemlerin uygulanmasına rağmen, mevcut tehditler ortadan kaldırılamıyor veya kabul edilebilir bir düzeye indirilemiyorsa, meslek mensubu, mevcut verilerden tatmin olmadıkça, sözleşmenin kabulünden kaçınmalıdır.

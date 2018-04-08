@@ -1,0 +1,1 @@
+MADDE 7 – (1) Meslek mensubu, herhangi bir bilginin önemli bir hata ya da yanıltıcı biçimde hazırlanmış veya gizlenmiş ifadeler içerdiğini düşünüyorsa, bu tür bilgiyi veya bu bilgiyle hazırlanmış bir rapor, haber veya sonucu dikkate almamalıdır.

@@ -1,0 +1,1 @@
+MADDE 19 – (1) Bağımsız çalışan meslek mensubu dürüstlüğe, tarafsızlığa ve mesleğin adına zarar verebilecek ve sonucunda meslekî hizmetlerin yerine getirilmesi ile bağdaşmayacak herhangi bir iş ya da faaliyete katılmamalıdır.

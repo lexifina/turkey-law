@@ -1,0 +1,1 @@
+MADDE 65 – (1) Bağımlı çalışan meslek mensupları, işverenin hedef ve amaçlarını gerçekleştirmek için çalışırken, hatalı ya da yanıltıcı olmaması kaydıyla çalıştıkları işletmelerin durumlarını daha iyi gösterecek ifadeler kullanabilirler. Bu tür hareketler genellikle taraf tutma tehdidi yaratmamaktadır.

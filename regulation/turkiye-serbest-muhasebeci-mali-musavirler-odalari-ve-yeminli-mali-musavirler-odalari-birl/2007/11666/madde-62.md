@@ -1,0 +1,10 @@
+ÜÇÜNCÜ KISIM
+Bağımlı Çalışan Meslek Mensuplarının Uyacakları Etik İlkeler
+BİRİNCİ BÖLÜM
+Giriş, Tehdit ve Önlemler
+MADDE 62 – (1) Yönetmeliğin bu Kısmında, Birinci Kısmında açıklanan kavramsal çerçevenin bağımlı çalışan meslek mensupları tarafından nasıl uygulanacağını açıklamaktadır.
+(2) Kamunun yanı sıra yatırımcılar, kredi verenler, işverenler ve iş dünyasının diğer kesimleri bağımlı çalışan meslek mensuplarının hizmetlerine ihtiyaç duyarlar. Bağımlı çalışan meslek mensupları hem çalıştıkları işletmelerin hem de üçüncü kişilerin ihtiyaç duyduğu finansal ve diğer tür bilgilerin hazırlanması ve raporlanmasından tek başlarına ve ortak biçimde sorumlu olabilirler. Meslek mensupları ayrıca, etkin bir finans yönetimi ve mesleğe yönelik farklı konularda uzman tavsiyesi sağlamaktan da sorumlu olabilirler.
+(3) Bağımlı çalışan meslek mensubu maaşlı bir işgören, bir ortak, yönetici, işletmenin sahibi ve aynı zamanda yöneticisi veya bir gönüllü olabilir. Meslek mensubunun işveren işletme ile ilişkisinin yasal biçimi, uyması gereken etik sorumlulukları üzerinde bir etki yapmamaktadır.
+(4) Bağımlı çalışan meslek mensubunun işveren işletmenin yasal amaçlarını ileriye götürmek gibi bir sorumluluğu bulunmaktadır. Bu Yönetmelik bağımlı çalışan meslek mensubunun bu sorumluluğunu yerine getirmesini engellemeyi hedeflememekte, bunun yerine, temel etik ilkelere uyum konusunda çatışma yaratabilecek durum ve koşulları dikkate almaktadır.
+(5) Bağımlı çalışan meslek mensubu genelde bir işletmede üst düzey bir pozisyona sahiptir. İşletme içinde pozisyonu ne kadar üst düzeyde ise, uygulama ve davranışları etkileyebilme fırsatı da o kadar fazla olacaktır. Bu nedenle, bağımlı çalışan meslek mensubunun işveren işletme içinde üst yönetimin etik konulardaki hassasiyetini vurgulayan etik temelli bir kültürün oluşmasını desteklemesi beklenmektedir.
+(6) İlerleyen kısımlarda sunulan örnekler bağımlı çalışan meslek mensubunun temel etik ilkelerine uyum konusunda karşılaşabileceği durumlarla ilgilidir. Ancak, meslek mensubunun sadece bu örneklere uyması yeterli değildir. Bunun yanı sıra kavramsal çerçevenin karşılaşılan özel durumlara uygulanması gerekmektedir.

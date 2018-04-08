@@ -1,0 +1,5 @@
+DÖRDÜNCÜ BÖLÜM
+İkincil Görüşler
+MADDE 39 – (1) Bağımsız çalışan meslek mensubundan müşterisi olmayan bir işletme adına, muhasebe, denetim, raporlama veya diğer standartların uygulanması konusunda ikincil görüş sağlaması istendiği durumlar, temel etik ilkelere uyumla ilgili tehditlere neden olabilir. Örneğin, meslek mensubunun ikincil görüşü mevcut meslek mensubuna sunulan aynı veri setine dayanmaz ise veya yetersiz kanıta dayanırsa, meslekî yeterlilik ve özen ilkesine yönelik tehdit oluşturabilir.
+(2) Bu türde bir görüş istenen meslek mensubu, tehdidin önemini değerlendirmeli, bunu ortadan kaldıracak veya kabul edilebilir düzeye indirecek önlemleri almalıdır. Bu tür önlemler, müşteriden izin alınarak mevcut meslek mensubu ile görüşülmesi, herhangi bir görüşle ilgili sınırlamaların müşteri ile görüşülmesi ve mevcut meslek mensubuna bu görüşün bir kopyasının sunulması şeklinde gerçekleştirilebilir.
+(3) İkincil görüş isteyen müşteri mevcut meslek mensubu ile iletişim kurmasına izin vermiyorsa, bağımsız çalışan meslek mensubunun tüm koşulları dikkate alarak görüş bildirmenin uygun olup olmayacağına karar vermesi gereklidir.

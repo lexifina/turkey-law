@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.11666",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SERBEST MUHASEBECİ MALİ MÜŞAVİRLER VE YEMİNLİ MALİ MÜŞAVİRLERİN MESLEKİ FAALİYETLERİNDE UYACAKLARI ETİK İLKELER HAKKINDA YÖNETMELİK",
+  "number": "11666",
+  "issuer": "Türkiye Serbest Muhasebeci Malî Müşavirler Odaları ve Yeminli Malî Müşavirler Odaları Birliği Yönetim Kurulu",
+  "issuer_slug": "turkiye-serbest-muhasebeci-mali-musavirler-odalari-ve-yeminli-mali-musavirler-odalari-birl",
+  "path": "regulation/turkiye-serbest-muhasebeci-mali-musavirler-odalari-ve-yeminli-mali-musavirler-odalari-birl/2007/11666",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11666&MevzuatTertip=5",
+  "source_sha256": "d4e55f3e8932c44e5f9837392cc7b171a9e1f102943eee229f528da451bee789",
+  "source_bytes": 157817,
+  "published": "2007-10-19",
+  "gazette": "26675",
+  "in_force": "2018-04-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/4/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-04-08",
+      "RG-8/4/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-12-25",
+      "RG-25/12/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8627,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
