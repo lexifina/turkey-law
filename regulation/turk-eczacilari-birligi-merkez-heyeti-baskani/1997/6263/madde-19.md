@@ -1,0 +1,2 @@
+Ölüm Yardımı
+Madde 19- Üyenin ölümü halinde yapılan yardımdır. Varsa ölen üyenin noter kanalıyla Sandığa bildirdiği kimseye, yoksa veraset ilamı gereğince mirasçılarına yapılır. Madde 7fde belirtildiği şekilde tahsil edilemeyen borçları varsa, bu miktar ölüm yardımından düşülür. Haklarında yapılan kanuni takibata rağmen üç senedir Sandığa olan borcu tahsil edilememiş üyeye ölüm yardımı yapılmaz. Üyenin kimsesi yoksa cenazesi birinci sınıf törenle Sandık tarafından kaldırılır ve kabri yaptırılır.

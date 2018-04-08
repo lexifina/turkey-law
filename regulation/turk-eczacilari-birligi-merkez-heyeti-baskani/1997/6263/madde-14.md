@@ -1,0 +1,3 @@
+Giriş ve Yıllık Aidatlar
+Madde 14- (Değişik:RG-23/5/2016-29720)
+Sandığa üye olacak eczacı bir defaya mahsus olmak üzere üye kaydı sırasında kayıtlı olduğu eczacı odasına o yıl için ödeyeceği yıllık aidatın üç katını giriş aidatı olarak Yardımlaşma Sandığına öder. Yıllık aidat, üyenin kayıtlı olduğu eczacı odasına o yıl için ödeyeceği oda yıllık aidatının üç katıdır. Üyelere duyurulan yıllık aidatların aynı yılın Şubat ayı sonuna kadar Sandık yönetiminin belirleyeceği şekilde Sandığa ödenmesi zorunludur. Sandığa ait o yılki yıllık aidatlarını ödemeyen üyeler hakkında 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu hükümlerince bağlı bulundukları Oda tarafından yasal işlem yapılır.
