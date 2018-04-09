@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "274",
+  "decision_date": "2018-04-09",
+  "title": "MEC.KAR. ( Gülnar Mollaömerli 104 ada Mezarlı",
+  "listed_as": "274 MEC.KAR. ( Gülnar Mollaömerli 104 ada Mezarlı",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/274-meckar---gulnar-mollaomerli-104-ada-mezarlik-yeri-sartli-bagis--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/09-nisan-2018-meclis-kararlari",
+  "listing_sha256": "798241d336c44c9b952e136b3cf697bcc965a49c0f003f545cd721cfc4261ef2",
+  "meeting_title": "09 NİSAN 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
