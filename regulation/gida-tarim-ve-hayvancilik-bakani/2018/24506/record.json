@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24506",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HASTALIKTAN ARİLİKTE BÖLÜMLENDİRME YÖNETMELİĞİ",
+  "number": "24506",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2018/24506",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24506&MevzuatTertip=5",
+  "source_sha256": "6e5a45909c98d8916eeb01f8dd0f0bc548822a8c9bac79658d01b92d422dfbf3",
+  "source_bytes": 41911,
+  "published": "2018-04-10",
+  "gazette": "30387",
+  "in_force": "2018-04-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.04.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2187,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24506-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
