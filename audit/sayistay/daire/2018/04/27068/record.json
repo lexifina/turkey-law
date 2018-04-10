@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10700",
+  "decision_date": "2018-04-10",
+  "source_id": 27068,
+  "chamber": "1",
+  "ilam_number": "1644",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2009,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/27068/",
+  "source_sha256": "5b7daffe715a947dc070bd75c9f027bb81776b1605edb615e725c84b4acc37de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
