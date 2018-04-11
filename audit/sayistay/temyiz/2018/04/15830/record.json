@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44298",
+  "decision_date": "2018-04-11",
+  "source_id": 15830,
+  "chamber": "7",
+  "file_number": "42946",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15830/",
+  "source_sha256": "94dd95902cb8e8ee3e8575e138238474d7d864f078ed4139ebb55aa3d0c5e0f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
