@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24510",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BİNALARIN GÜRÜLTÜYE KARŞI KORUNMASI HAKKINDA YÖNETMELİK KAPSAMINDA DÜZENLENECEK SERTİFİKA EĞİTİM PROGRAMLARINA DAİR TEBLİĞ (TEBLİĞ NO: MHG/2018-01)",
+  "number": "24510",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2018/24510",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24510&MevzuatTertip=5",
+  "source_sha256": "505a590e2a6676a4ced9ef2a9abf70ca9fc69321e297892f49d9cff7ff029b32",
+  "source_bytes": 36708,
+  "published": "2018-04-12",
+  "gazette": "30389",
+  "in_force": "2018-04-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.04.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1683,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24510-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
