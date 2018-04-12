@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "300",
+  "decision_date": "2018-04-12",
+  "title": "MEC.KAR. ( HAFRİYAT ATIKLARI BERTARAF, ZEMİN",
+  "listed_as": "300 MEC.KAR. ( HAFRİYAT ATIKLARI BERTARAF, ZEMİN",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/300-meckar----hafriyat-atiklari-bertaraf-zemin-tahrip-bedeli--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/12-nisan-2018-meclis-kararlari",
+  "listing_sha256": "e0cf144d694b55e5d4889fdabe999793880bed709db245416dfa23f25e2ca1ed",
+  "meeting_title": "12 NİSAN 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
