@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "131",
+  "decision_date": "2018-04-12",
+  "source_id": 26590,
+  "chamber": "8",
+  "ilam_number": "121",
+  "item_number": 5,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26590/",
+  "source_sha256": "e125f51757912788ab010d850cb865ec8d37813903bceb6a53693f173cb3253a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
