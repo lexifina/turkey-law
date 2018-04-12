@@ -1,0 +1,45 @@
+Yersiz Yeni Birim Fiyat Tespiti:
+
+… İş Ortaklığının taahhüdündeki “… İnşaatı” işinde, “MB-13 Barajlarda silindirle sıkıştırılmış beton yapılması” imalatı bünyesinde yer alan uçucu kül için ihaleden sonra yeni birim fiyat tespit edilmesi konusuna ilişkin olarak;
+
+İşe ait 17.12.2012 tarihli Sözleşme eki Birim Fiyat Tariflerinde yer alan “MB-13 Barajlarda silindirle sıkıştırılmış beton yapılması” iş kaleminin tarifinde birim fiyata dâhil olan masrafların;
+
+“Projelere, teknik şartnamelere ve İdarenin talimatlarına uygun olarak, beton için agreganın ocak ve/veya malzeme ariyet sahalarından veya taş ocağından işletilerek elde edilen kırmataş ve konkasör kumunun çıkarılması, yıkanması ve uygun evsaftaki malzemelerin taşıtlara yüklenmesi ve taşınması şantiyede boşaltılması, idarece istenilen evsafta, irilikte ve sayıda gruplandırmayı temin edecek tarzda elenmesi, gruplara ayrılmış olarak depolanması, agrega malzemelerinin depo yerlerinden alınarak beton tesislerine taşınması, suyun temin edilmesi, agrega malzemelerinin ve temin edilerek şantiyede depolanmış olan çimentonun uygun görülen granülometrik analiz ve nisbetler dahilinde olmak üzere ağırlık esası üzerinden beton santralında tartılarak karışım yapılması, lüzumlu suyun, içine idarece istenildiğinde prizi hızlandıran, prizi yavaşlatan, sızdırmazlık sağlayan, dona karşı koruyucu, hidratasyon ısısını yavaşlatan uçucu kül (fly-ash) ve temin edilerek işyerine nakledilen ve boşaltılan her türlü katkı (sıvı veya toz) malzemelerinin, teknik şartnamelerde belirtilen esaslar dahilinde uygun ekipmanlarla karıştırılarak betonun imal edilmesi…” şeklinde tarif edildiği,
+
+Söz konusu birim fiyat tarifinin notlar kısmında yer alan Not-2’de ise aynen;
+
+“Katkı maddeleri temini, iş yerine nakli ve boşaltılması birim fiyata dâhildir.” denildiği, görülmüştür.
+
+Yukarıda yer verilen tariften, MB-13 Barajlarda silindirle sıkıştırılmış beton yapılması imalatı bünyesinde kullanılan, katkı malzemesi niteliğindeki uçucu külün temin ve nakliye masraflarının söz konusu iş kaleminin birim fiyatına dahil olduğu anlaşılmıştır. Dolayısıyla işin uygulama aşamasında uçucu kül için yeni fiyat tespit edilmesi ve ödenmesi mevzuata aykırılık teşkil etmektedir.
+
+Sorumlular tarafından gönderilen savunmalarda; MB-10 Barajlarda açıkta beton yapım işinin bünyesindeki uçucu külün, katkı malzemesi işlevi gördüğü ve pozun birim fiyatına dahil olduğu, oysa MB-13 Barajlarda silindirle sıkıştırılmış beton yapım (SSB) işinde uçucu külün, her türlü katkı malzemesinden ayrıldığı, çimento gibi bağlayıcı malzemeyi temsil ettiği, ancak ihale öncesinde yapılan keşif ve metraj cetvellerinde analize dahil edilmediğinden, birim fiyat tarifleri ve cetvelinde yer almadığı, bu yüzden uygulama aşamasında yükleniciye uçucu kül için yeni birim fiyat tespit edilerek ödendiği belirtilmiş ise de;
+
+“MB-13 Barajlarda silindirle sıkıştırılmış beton yapılması” iş kaleminin birim fiyat tarifi incelendiğinde; uçucu külün katkı malzemesi niteliğinde olduğu ve temin ile nakliye masraflarının iş kaleminin birim fiyatına dahil olduğu, şayet dahil olmasa idi, tıpkı çimento gibi uçucu külün temin ve nakliye masraflarının ayrıca ödeneceğinin belirtileceği, ancak birim fiyat tarifinde böyle bir açıklamaya yer verilmediği, bu yüzden uçucu külün, ihale öncesinde yapılan keşif ve metraj cetvellerinde analize dahil edilmediği ve birim fiyat teklif cetvelinde yer almadığı, ancak … tarihli Zeyilname-II’de uçucu kül için, yeni fiyat ihdas edilip edilmeyeceği sorusu karşısında İdarece “…İşin devamında gerekmesi halinde sözleşme hükümlerine göre gereği yapılabilecektir.” şeklinde cevap verildiği, söz konusu bu cevapta; sözleşme hükümlerinin uygulanması gerektiğinin belirtildiği ve sözleşme hükmü uyarınca da uçucu külün temin ve nakliye masraflarının, MB-13 poz no.lu imalat kaleminin birim fiyatı içerisinde karşılanması gerektiği, anlaşıldığından, söz konusu katkı malzemesi için yeni fiyat tespit edilmesinin mümkün olmadığı sonucuna varılmıştır.
+
+Diğer yandan Yapım İşleri Genel Şartnamesinin “Yeni birim fiyat tespiti” başlıklı 22’nci maddesinde; “…işin yürütülmesi aşamasında idarenin gerekli görerek yapılmasını istediği, ancak birim fiyat teklif cetvelinde fiyatı bulunmayan yeni iş kalemlerinin bedelleri… yeni birim fiyatlar üzerinden yükleniciye ödenir.” hükmü yer almaktadır. Bu hüküm gereği yeni fiyat, sözleşmede fiyatı bulunmayan ancak işin yürütülmesi aşamasında yapılması gereken iş kalemleri için tespit edilebileceğinden, sözleşmede fiyatı ve analizi belirlenmiş olan MB-13 poz no.lu imalat kaleminin bünyesinde yer alan uçucu kül malzemesi için, sonradan yeni fiyat tespit edilmesi, YİGŞ’nin söz konusu hükmüne aykırılık oluşturmaktadır.
+
+Ayrıca, İdare tarafından ihale öncesinde uçucu kül malzemesine birim fiyat teklif cetvelinde yer verilmediğinden söz konusu malzeme için yeni fiyat tespit edilip edilmeyeceği hususunda sorulan soruya, zeyilname ile yapılan “gerekli olursa sözleşme hükümlerinin uygulanacağı” şeklindeki belirsiz bir açıklama ile ihalelerde saydamlığı, rekabeti, eşit muameleyi ve güvenirliği sağlama ilkesinin de zedelendiği düşünülmektedir.
+
+Yapılan incelemede; … Sözleşmesi Cilt-2 SSB Özel Teknik Şartnamesi Madde:2-3’te; uçucu külün, Ereğli Demir Çelik Fabrikasından (ERDEMİR) temin edileceği belirtilmesine rağmen malzemenin baraj şantiyesine uzaklığı daha fazla olan Çatalağzı Termik Santrali Tesislerinden temin edildiği görülmüş olup, YİGŞ’nin 30’uncu maddesinin 3 no.lu bendi hükmü gereği 62,7 km.lik fark mesafesine ilişkin nakliye tutarının ödenmesi gerektiği anlaşılmıştır.
+
+“MB-60 Uçucu kül temini ve nakli” pozu için yeni birim fiyat yapılıp yükleniciye ödenmesi sonucu oluşan kamu zararından sorumlu olanlara ilişkin olarak ise;
+
+Yapım İşleri Genel Şartnamesinin “Yapı denetim görevlisinin yetkileri” başlıklı 15’inci maddesi, “Sözleşmede bulunmayan işlerin fiyatının tespiti” başlıklı 22’nci maddesi, “Geçici hakediş raporları” başlıklı 39’uncu ve “Geçici kabul” başlıklı 41’inci maddesi ile yürürlükte olan hiçbir kanun, yönetmelik, şartname ve kararda; “hakedişleri inceleyenlerin” görev ve sorumluluklarını belirten herhangi bir ifadenin yer almadığı görülmüş olup, inceleme işi, mahiyeti itibariyle hakediş raporlarının sadece matematiksel kontrolünden ibaret olduğundan, hakedişleri inceleyen sıfatıyla imzalayan teknik personele, raporlar üzerinde hiçbir değişiklik ya da düzeltme yapmadıkları sürece mali sorumluluk yüklenilmesinin mümkün olmadığı anlaşılmıştır.
+
+Dolayısıyla kamu zararı konusunda; hakediş raporlarını sadece matematiksel olarak kontrol eden ve yeni birim fiyat hazırlanması sürecinde dahli olmayan … (… Dairesi Başk. Yard.), … (Şube Müd.), … (İnşaat Yük. Müh.), … (Şube Müd. V.), … (İnşaat Müh.) ve … (İnşaat Müh.)’e sorumluluk tevcih edilemeyeceği sonucuna varılmıştır.
+
+Bu itibarla, uçucu kül malzemesinin temini ve nakliye masrafı (baraj şantiyesi ile ERDEMİR arasındaki), “MB-13 Barajlarda silindirle sıkıştırılmış beton yapılması” imalatının birim fiyatına dahil olduğu halde ihale sonrasında söz konusu malzeme için yeni birim fiyat yapılması sonucu oluşan … TL tutarındaki kamu zararının;
+
+… TL’sinin Harcama Yetkilisi … (… Dairesi Başk. V.) ile Gerçekleştirme Görevlileri; … (İnş. Müh.- Hak. Düzenleyen), … (… Proje Şube Müd.- Hak. Düzenleyen), … (İnşaat Müh.- Hak. Düzenleyen), … (… Şube Müd.-Hak. Düzenleyen), … (… Müd. Yard.-Hak. Düzenleyen) ve … (… Müd.-Hak. Düzenleyen) ’a,
+
+… TL’sinin Harcama Yetkilisi … (… Dairesi Başk. V.) ile Gerçekleştirme Görevlileri; … (İnş. Müh.- Hak. Düzenleyen), … (… Proje Şube Müd.- Hak. Düzenleyen), … (İnşaat Müh.- Hak. Düzenleyen), … (… Şube Müd.-Hak. Düzenleyen), … (… Şube Müd.-Hak. Düzenleyen), … (… Müd. Yard.-Hak. Düzenleyen) ve … (… Müd.-Hak. Düzenleyen) ’a,
+
+… TL’sinin Harcama Yetkilisi … (… Dairesi Başk. V.) ile Gerçekleştirme Görevlileri; … (İnş. Müh.- Hak. Düzenleyen), … (…Proje Şube Müd.- Hak. Düzenleyen), … (İnşaat Müh.- Hak. Düzenleyen), … (…Şube Müd.-Hak. Düzenleyen), … (… Şube Müd.-Hak. Düzenleyen), … (… Müd. Yard.-Hak. Düzenleyen) ve … (… Müd.-Hak. Düzenleyen) ’a,
+
+… TL’sinin Harcama Yetkilisi … (… Dairesi Başk. V.) ile Gerçekleştirme Görevlileri; … (İnş. Müh.- Hak. Düzenleyen), … (…Proje Şube Müd.- Hak. Düzenleyen), … (İnşaat Müh.- Hak. Düzenleyen), … (… Şube Müd.-Hak. Düzenleyen) ve … (… Müd. Yard.-Hak. Düzenleyen) ’e,
+
+… TL’sinin Harcama Yetkilisi … (… Dairesi Başk. V.) ile Gerçekleştirme Görevlileri; … (İnş. Müh.- Hak. Düzenleyen), … (… Proje Şube Müd.- Hak. Düzenleyen), … (İnşaat Müh.- Hak. Düzenleyen), … (… Şube Müd.-Hak. Düzenleyen), … (… Şube Müd.-Hak. Düzenleyen), … (…Müd. Yard.-Hak. Düzenleyen) ve … (… Müd.-Hak. Düzenleyen) ’a,
+
+… TL’sinin de Harcama Yetkilisi … (… Dairesi Başk. V.) ile Gerçekleştirme Görevlileri; … (İnş. Müh.- Hak. Düzenleyen), … (… Proje Şube Müd.- Hak. Düzenleyen), … (İnşaat Müh.- Hak. Düzenleyen), … (… Şube Müd.-Hak. Düzenleyen) ve …  (… Müd. Yard.-Hak. Düzenleyen) ’e,
+
+müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanununun 53’üncü maddesi gereği işleyecek faizleri ile ödettirilmesine, oy birliğiyle, karar verildi.
