@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7791",
+  "decision_date": "2018-04-12",
+  "title": "7185 sayılı Kurul Kararının 2 nci maddesinin 3 nolu formülünün revize edilmesine ilişkin",
+  "resmi_gazete_date": "2018-04-14",
+  "resmi_gazete_number": "30391",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları",
+    "Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1KuQ8bIGmHU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1KuQ8bIGmHU="
+  ],
+  "source_sha256": "8c89f269e1cc1d47c0a07165807aa63ebe2119d25ae2ba0fabe2fc200b1808b3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-04-12",
+  "law_text_complete": true
+}
