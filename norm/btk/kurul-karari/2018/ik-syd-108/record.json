@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2018/İK-SYD/108",
+  "date": "2018-04-12",
+  "title": "Frekans İhlali Değerlendirmesi (OKTH Ltd.Şti.)",
+  "relevant_unit": "Spektrum Yönetimi Dairesi Başkanlığı",
+  "publication_date": "2018-04-12",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=69",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/dda3c62d-6e4f-402b-a4c7-e97076d250a9.pdf",
+  "source_sha256": "9c00b39719b1b3786ddcd9b9e23574fbb533d62c73cd87ea74a1ae96559e5b4b",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2018-04-12",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 12.04.2018; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
