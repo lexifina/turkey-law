@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.24511",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIMSAL ARAZİ EDİNDİRME İŞ VE İŞLEMLERİ HAKKINDA YÖNETMELİK",
+  "number": "24511",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2018/24511",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24511&MevzuatTertip=5",
+  "source_sha256": "1663c78c4179bae731716c42b5a6664387be8c992c64b7aed526198b39413810",
+  "source_bytes": 32410,
+  "published": "2018-04-13",
+  "gazette": "30390",
+  "in_force": "2018-04-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.04.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1576,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
