@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.12380",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2008/29)",
+  "number": "12380",
+  "issuer": "Dış Ticaret Müsteşarlığı’nın bağlı olduğu Bakan",
+  "path": "teblig/2008/12380",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=12380&MevzuatTertip=5",
+  "source_sha256": "cc0d500f261eca94ca5ec45584c9c969ea6aa370ab5756a97fb19a7b8a6533d7",
+  "source_bytes": 38924,
+  "published": "2008-08-27",
+  "gazette": "26980",
+  "in_force": "2018-04-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/4/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-04-13",
+      "RG-13/4/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-07-20",
+      "RG-20/7/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1588,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2013/01/20130131-19.htm"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

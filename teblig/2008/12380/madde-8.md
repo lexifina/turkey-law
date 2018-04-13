@@ -1,0 +1,4 @@
+Uygulama
+MADDE 8 – (Değişik:RG-20/7/2010-27647)(1)
+(1) Gümrük idareleri, Karar maddesinde yer alan Tablo-1’de gümrük tarife istatistik pozisyon numarası, tanımı ve menşe ülkeleri belirtilen maddenin, diğer mevzuat hükümleri saklı kalmak kaydıyla, serbest dolaşıma giriş rejimi kapsamında ithalatında karşılarında gösterilen miktarlarda dampinge karşı kesin önlemi uygular.
+(2) Karar maddesinde yer alan Tablo-2’de belirtilen Çin Tayvanı’nda mukim King Slide Works Co. Ltd., Sun Chain Trading Co. Ltd., Sun Chain Metal Industry Co. Ltd., Sen Chine Industry Co. Ltd., Sheng Shye Industry Co. Ltd. ve Gslide Corporation firmaları İthalatta Haksız Rekabetin Önlenmesine İlişkin 2002/1 sayılı Tebliğ ile belirlenen "Üretici Belgesi" beyanı kapsamında gümrük idarelerine beyanda bulunmaları halinde 8302.42.00.00.00 GTİP’i altında tasnif edilen yalnız "bilyalı çekmece rayları" için söz konusu dampinge karşı önlemden muaftır.
