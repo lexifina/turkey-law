@@ -1,0 +1,12 @@
+BEŞİNCİ BÖLÜM
+Paketleme, Etiketleme ve İşaretleme
+Paketleme kuralları
+MADDE 13 – (1) Tehlikeli maddeler, bu Yönetmelik ve Teknik Talimatlarda belirtilen hükümler uyarınca paketlenir.
+(2) Tehlikeli maddelerin havayoluyla taşınmasında kullanılan paketler Teknik Talimatlarda belirtilen test gerekliliklerini sağlamalı ve havayolu taşımacılığı normal koşullarının getireceği sıcaklık, nem ve basınç değişiklikleri veya titreşimden tahrip olmayacak şekilde paketlenmelidir. Paketlerin üretim yılları paket üstünde gösterilmelidir. Yedinci fıkrada belirtilen koşullar haricinde üretim yılı ile taşıma yılının aynı yıl olması gerekmektedir.
+(3) Tehlikeli maddelerle direkt temas halinde olan paketler söz konusu maddelerin kimyasal ve diğer etkilerine karşı dayanıklı olmalıdır.
+(4) Paketler, içerisine konacak tehlikeli maddeye uygun nitelikte olmalıdır.
+(5) İç paketler, havayolu taşımacılığının normal koşullarında kırılmaları ve sızıntıyı önleyecek, dış paket içinde hareket etmelerini kontrol altına alacak şekilde paketlenmeli, emniyet altına alınmalı ve uygun malzeme ile tamponlanmalıdır. Tampon malzemeleri paketin içeriğiyle tehlike oluşturacak şekilde tepkimeye girmemelidir.
+(6) Daha önce kullanılmış olan paketler incelenip, aşınma ve başka bir hasarın olmadığı tespit edilmeden yeniden kullanılamaz. Yük taşımacılığında tekrar kullanılacak paketlerin içerisine konacak tehlikeli maddelerin söz konusu paketlerde daha önce taşınan tehlikeli maddeler ile kirlenmemesi için gerekli bütün önlemler alınmalıdır.
+(7) Altıncı fıkrada belirtilen daha önce kullanılmış paketler üzerinde “REUSE” (YENİDEN KULLANIM) ibaresi olması durumunda üretim yılı bilgisinin verilmesine gerek kalmaz.
+(8) Daha önce içerisinde taşınan tehlikeli maddelerin yapısından dolayı, boşaltılmış ama temizlenmemiş paketler tehlikeli olabilir. Bu nedenle, söz konusu temizlenmemiş paketler sıkıca kapatılarak emniyet altına alınmalı ve oluşturabilecekleri tehlikeye göre işleme tabi tutulmalıdır. Ayrıca, temizlenmemiş bu tür boş paketler ile başka bir tehlikeli yük taşınamaz.
+(9) Tehlikeli madde paketlerinin havayoluyla taşınmasında teknik talimatlarda aksi belirtilmedikçe Uluslararası Sistem (SI) ile belirtilen kütle ve hacmin ana birimleri kilogram (kg) ve litre (L), basınç birimi ise kilopaskal (kPa) olacaktır. Radyoaktivite ile ilgili herhangi bir ölçünün söz konusu olduğu durumlarda, verilen değer Uluslararası (SI) biriminde olup, SI dışı muadili yanında parantez içinde belirtilecektir.

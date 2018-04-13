@@ -1,0 +1,8 @@
+YEDİNCİ BÖLÜM
+Bildirim Esasları
+Kaptan pilota ve ilgililere verilecek bilgiler
+MADDE 21 – (1) Havayoluyla taşınacak tehlikeli maddelerle ilgili bilgiler, uçağın kalkışından önce operatör tarafından, Teknik Talimatlarda belirtilen hükümler çerçevesinde kaptan pilota yazılı olarak bildirilir.
+(2) Operatör tarafından, tehlikeli maddelerin taşınmasına ilişkin sorumlulukların yerine getirilmesini teminen, gerekli bilgiler ve tehlikeli maddelerle ilgili acil durum meydana gelmesi halinde izlenecek yöntemler ile acil durumlara yanıt vermeye yönelik bilgiler, operasyon el kitabına dahil edilir ve Teknik Talimatlarda öngörüldüğü şekilde uçuş ekibine bildirilir.
+(3) Tehlikeli maddelerin havayoluyla taşınmasına yönelik faaliyetler kapsamında, ülkemiz sınırları dışında gerçekleştirilen uçuşlarda, kaptan pilota verilecek yazılı bilgiler için diğer her türlü lisan gerekliliklerine ilaveten İngilizce lisanı da kullanılacaktır.
+(4) Uçak kazası veya yük olarak taşınan tehlikeli maddelerin de dahil olduğu bir kaza veya olayın meydana gelmesi halinde, uçağın operatörü, kaptan pilota verilmiş olan yazılı bilgileri, kazaya ve olaya müdahale eden acil durum müdahale birimleri ile operatör devletinin ve/veya kaza ve olayın meydana geldiği devletin ilgili makamlarına da sunacaktır. Söz konusu bilgilerin sağlanmasına yönelik usuller el kitaplarında ve kaza acil durum planlarında belirtilecektir.
+(5) Uçuş sırasında herhangi bir acil durum meydana gelmesi halinde, bu durum ortaya çıkar çıkmaz kaptan pilot, Teknik Talimatlarda belirtildiği üzere havaalanı makamlarının bilgilendirilmesi için uygun hava trafiği hizmetleri birimini uçakta bulunan her türlü tehlikeli madde konusunda haberdar edecektir.

@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.24512",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TEHLİKELİ MADDELERİN HAVAYOLUYLA TAŞINMASI HAKKINDA YÖNETMELİK",
+  "number": "24512",
+  "issuer": "Ulaştırma, Denizcilik ve Haberleşme Bakanı",
+  "issuer_slug": "ulastirma-denizcilik-ve-haberlesme-bakani",
+  "path": "regulation/ulastirma-denizcilik-ve-haberlesme-bakani/2018/24512",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24512&MevzuatTertip=5",
+  "source_sha256": "2a15dc75fff4aa0b51f50b967143d714cce27eb8ba70075a0e7a259f4e371997",
+  "source_bytes": 113882,
+  "published": "2018-04-13",
+  "gazette": "30390",
+  "in_force": "2018-04-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.04.2018)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6846,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

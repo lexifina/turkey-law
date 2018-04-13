@@ -1,0 +1,18 @@
+Yer hizmetleri kuruluşları ve havayolu kargo acentelerinin sorumlulukları
+MADDE 18 – (1) Yer hizmetleri kuruluşları ve havayolu kargo acentelerinin sorumlulukları;
+a) Teknik Talimatlarda aksi belirtilmedikçe, beraberinde uygun şekilde doldurulmuş tehlikeli maddeler taşıma evrakı bulunmayan ve Teknik Talimatlarda belirtilen kabul şartlarına uygun şekilde kontrol edilmeyen paket, dış paket ve yük konteynerlerini taşımaya kabul etmemekle,
+b) Teknik Talimatlarda belirtilen şartlara göre operatörün kullandığı tehlikeli madde kabul kontrol listesini kullanmakla,
+c) Tehlikeli madde içeren paketlerin/birim yükleme ünitelerinin kabulü esnasında tehlikeli madde kabul kontrol listesini uygulamakla, hatalı veya hasarlı oldukları tespit edilenleri taşımaya kabul etmemekle,
+ç) Kabul esnasında doğru ve hatasız olan tehlikeli madde içeren paketlerin etiket ve işaretlerinin kabul sonrasında hasarlanması ya da kaybolması durumunda bunları yenilemekle/yeniletmekle,
+d) Yürürlükte olan güncel radyasyon güvenliği mevzuatıyla, radyasyonla çalışanlar için belirlenen yıllık radyasyon doz sınırları dikkate alınarak çalışanlarından radyasyonla çalışanları ve dozimetre kullanması gerekenleri tespit etmekle, maruz kaldıkları radyasyon seviyelerini düzenli olarak kontrol etmekle ve sınır aşımı yaşanmaması için gerekli önlemleri almakla ve tüm radyasyonla çalışanlarını radyasyondan korunma yöntemleri konusunda bilgilendirmekle,
+e) Radyoaktif madde içeren paketleri operatörün kullandığı tehlikeli madde kabul kontrol listesine uygun olarak gönderenden teslim almak ve yükletilmesini sağlamakla,
+f) Havayoluyla taşınması yasak tehlikeli madde içeren gönderilerin yetkili otoritelere bildirim yapılarak, gönderen tarafından Teknik Talimatlara uygun şekilde onayların/özel izinlerin alındığından emin olmakla,
+g) Uçakta taşınacak tehlikeli maddelerle ilgili olarak, sorumlu kaptan pilotu Teknik Talimatlarda belirtilen kurallara göre NOTOC formu ile bilgilendirmekle,
+ğ) Uçuş ekipleri ve ilgili diğer çalışanlarını, taşımaya konu tehlikeli maddelerle ilgili olarak asgari, Teknik Talimatlarda belirtilen acil durumlar ile gizli ve tehlikeli maddeleri içerecek şekilde bilgilendirmekle,
+h) Teknik Talimatlarda belirtilen hükümlere göre yolcu beraberinde ve kargo kapsamında tehlikeli maddelerin hava araçlarında taşınmasına ilişkin olarak yolcuları ve gönderenleri bilgilendirilmekle,
+ı) Tehlikeli madde taşımacılığında kullanılan dokümanları Teknik Talimatlara uygun olarak asgari 3 ay, tehlikeli madde olay ve kazalarının gerçekleşmesi durumunda ise söz konusu dokümanları vakanın niteliğine göre asgari 5 yıl saklamakla,
+i) Bu Yönetmelik ve Teknik Talimatlar uyarınca gönderen tarafından taşıma için gerekli olan yetkilerin ve onayların verilmiş, bildirimlerin yapılmış, sertifikaların ve Tehlikeli Maddeler Gönderici Beyan Formu da dahilgerekli diğer belgelerin düzenlenerek imzalanmış olmasını sağlamakla,
+j) Herhangi bir uygunsuzluk durumunda, bu durumun sebeplerinin ve sonuçlarının araştırılmasından, uygunsuzluğa yol açtığı tespit edilen veya yol açabileceği öngörülen sebeplerin ve koşulların düzeltilerek benzer uygunsuzlukların tekrarını engellemek için gerekli düzeltici ve önleyici tedbirleri operatöre bildirmekle,
+k) Tehlikeli madde taşımacılık faaliyetlerine yönelik çalışanlarına, Teknik Talimatlara uygun olarak, tehlikeli maddeler ile ilgili kendi sorumluluklarını yerine getirecekleri şekilde ve görev tanımlarına uygun eğitim almalarını sağlamak ve bu eğitim kayıtlarını en az üç yıl süreyle saklamakla,
+l) Operatör ile yaptığı sözleşme kapsamında operatör namına operatör sorumluluklarını yerine getirmekle,
+sorumludur.
