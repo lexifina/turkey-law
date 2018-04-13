@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24514",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÜLKEMİZE TURİST GETİREN (A) GRUBU SEYAHAT ACENTALARINA DESTEK SAĞLANMASI HAKKINDA KARARIN UYGULAMA USUL VE ESASLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2018/2)",
+  "number": "24514",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "path": "teblig/2018/24514",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24514&MevzuatTertip=5",
+  "source_sha256": "2fd34005bd0b721fe8edc20af91198a0834b00f26219113751bd8aa7dae94257",
+  "source_bytes": 38074,
+  "published": "2018-04-13",
+  "gazette": "30390",
+  "in_force": "2018-04-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.04.2018); own commencement article: \"Bu Tebliğ 1/1/2018 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2018 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1906,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24514-Ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
