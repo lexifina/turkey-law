@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-04-14",
+  "issue": "30391",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2018 Yılı Bilirkişilik Asgari Ücret Tarifesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180414-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180414.htm",
+  "index_sha256": "946effb8845512eba341729077c7b1ab8a5a054f87f67c7368324a5c3d6fea72",
+  "index_header": "14 Nisan 2018 ... 30391 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180414.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "5d217907887746c1fd9619c58681740718d2d7490928aec3a5e8eed67acf173b",
+  "text_status": "text.txt as published"
+}
