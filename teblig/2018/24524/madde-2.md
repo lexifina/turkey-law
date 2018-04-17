@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Tebliğ, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 47 ve 48 inci maddeleri, 13/12/1983 tarihli ve 178 sayılı Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 13 üncü maddesinin birinci fıkrasının (d) bendi ile 10/10/2006 tarihli ve 26315 sayılı Resmî Gazete’de yayımlanan Kamu İdarelerine Ait Taşınmazların Tahsis ve Devri Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.
