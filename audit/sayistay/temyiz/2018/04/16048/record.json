@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44312",
+  "decision_date": "2018-04-18",
+  "source_id": 16048,
+  "chamber": "4",
+  "file_number": "42545",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2015",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/16048/",
+  "source_sha256": "6854a71613402ef6221d42ec75b12251b5a2e23a590d6e8ecab18bfae4a7ead5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
