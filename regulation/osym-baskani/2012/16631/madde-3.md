@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Aday: Başkanlıkça yapılan sınav, ölçme, değerlendirme ve yerleştirmelere hak kazanmak amacıyla başvuran kişiyi,
+b) Başkan: Ölçme, Seçme ve Yerleştirme Merkezi Başkanını,
+c) Başkanlık, ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+ç) (Değişik:RG-18/4/2018-30395) Görevlendirme belgesi: Sınavlarda sınav görevlilerinin kimlik bilgileri, sınav bilgilerini ve görevli oldukları sınav yerlerini gösteren, görevli işlemleri sisteminden (GİS) alınan sınav yeri görev belgesini,
+d) (Değişik:RG-18/4/2018-30395) Güvenlik görevlileri: ÖSYM ve İçişleri Bakanlığı arasında yapılan Protokol ile çalışma usul ve esasları belirlenen genel kolluk görevlileri ile bunların gözetiminde olmak üzere özel güvenlik görevlilerini ve kamu kurum ve kuruluşları güvenlik görevlilerini,
+e) (Değişik:RG-18/4/2018-30395) İl/İlçe Sınav Koordinasyon Kurulu: İlgili il Sınav Merkezinde ÖSYM tarafından belirlenen rektörün başkanlığında, sınav koordinatörü ve millî eğitim müdürü, ihtiyaç hâlinde il emniyet müdürü veya görevlendirdiği yardımcısı, sorumluluk bölgesi itibarıyla il jandarma komutanı veya görevlendirdiği temsilcisinin katılımıyla oluşturulan kurulu; ilgili ilçe sınav merkezinde kaymakamın başkanlığında, sınav koordinatörü ve ilçe millî eğitim müdürü, ihtiyaç hâlinde ilçe emniyet müdürü veya görevlendirdiği yardımcısı, sorumluluk bölgesi itibarıyla ilçe jandarma komutanı veya görevlendirdiği temsilcisinin katılımıyla oluşturulan kurulu,
+f) (Değişik:RG-18/4/2018-30395) Kimlik belgesi: Üzerinde adayın güncel fotoğrafı bulunan T.C. Kimlik Kartı, Nüfus Cüzdanı veya geçerlilik süresi dolmamış pasaport ile bu belgelerin dışında sınavın ve sınav yapılacak merkezin özelliğine göre gerektiğinde ÖSYM tarafından geçerli kimlik belgesi olarak kabul edilebilecek belgeleri,
+g) ÖSYM temsilcisi: Sınavlarda Başkanlık tarafından görevlendirilen temsilciyi,
+ğ) Özel güvenlik görevlileri: 10/6/2004 tarihli ve 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun uyarınca çalıştırılan özel güvenlik görevlilerini,
+h) Sınav: ÖSYM tarafından yapılan sınavları,
+ı) Sınav binası: Sınav merkezlerinde sınav yapılan binayı,
+i) Sınav görevlileri: Sınavlarda görev alan sınav koordinatörü, sınav yürütme komisyonu üyeleri, bina sınav sorumlusu ve yardımcısı, bina yöneticisi, salon başkanı, gözetmen, engelli görevlisi, sınav evrakı koruma görevlisi, sınav evrakı nakil görevlisi, gözlemci ve görevli diğer personeli,
+j) Sınav Koordinasyon Kurulu: ÖSYM Başkanı, Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı, Milli Eğitim Bakanlığı temsilcilerinden oluşturulan kurulu,
+k) Sınav merkezi: Yurt içi ve yurt dışında merkezi sistemle sınav yapılan merkezleri,
+l) (Değişik:RG-18/4/2018-30395) Sınava giriş belgesi: Sınavlarda, adayın T.C. kimlik numarası/yabancı uyruklular için verilen kimlik numarası ve şifresini kullanarak aday işlemleri sisteminden (AİS) edindiği, üzerinde fotoğrafı, kimlik bilgileri, sınav bilgileri, sınava giriş yeri bilgileri olan giriş belgesini,
+m) Sistem: ÖSYM tarafından adaylar, görevliler ve sınavlarla ilgili işletilen AİS, GİS ve benzeri bilişim sistemlerini,
+n) Yönetim Kurulu: Ölçme, Seçme ve Yerleştirme Merkezi Yönetim Kurulunu,
+o) (Ek:RG-18/4/2018-30395) Biyometrik doğrulama: Aday ve görevlilerin fiziksel özelliklerini doğrulamak üzere geliştirilmiş bilgisayar kontrollü, otomatik sistemler kullanılarak yapılan kimlik tespitini,
+ifade eder.

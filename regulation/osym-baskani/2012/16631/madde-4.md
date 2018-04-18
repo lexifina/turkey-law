@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Sınav Güvenliği ve Sınava İlişkin Usul ve Esaslar
+Sınav koordinasyon kurulu
+MADDE 4 – (1) ÖSYM tarafından belirlenen sınavlarda sınav tarihinden en az üç gün önce Sınav Koordinasyon Kurulu/İl-Bölge Sınav Koordinasyon Kurulu toplanır. Kurullar merkezde ve/veya sınav merkezlerinde sınav öncesi, sınav esnası ve sonrası, sınav yapılacak binalar ve çevresi ile il içi güzergâh ve (Değişik ibare:RG-18/4/2018-30395) saklama/bekleme merkezlerinde alınacak tedbirleri görüşür. İlgili kurumların yapacağı görevler belirlenir. Kurul, sınavların güvenliğini ve koordinasyonunun sağlanması, ÖSYM tarafından yapılan düzenlemelere yönelik tedbirler alınması, sınavın denetlenmesi, uygulanması, sınavın tüm aşamalarının kurallara uygun bir şekilde gerçekleştirilmesi ve sınavdan sonra evrakın güvenli bir şekilde ÖSYM’ye ulaştırılması, sınavların gizlilik ve güven içinde yürütülmesi için gerekli önlemleri alır.

@@ -1,0 +1,6 @@
+Görevlilerin sınav binasına girişleri
+MADDE 9 – (1) Sınav görevlilerinin sınav binalarına girişleriyle ilgili aşağıdaki usul ve esaslar uygulanır:
+a) Sınav görevlileri de adaylar gibi sınav binasına girişte güvenlik görevlileri tarafından elle ve/veya teknik cihazlarla aranır.
+b) (Değişik:RG-18/4/2018-30395) Sınav görevlileri, Kimlik ve Görevlendirme Belgelerini sınav günü yanlarında bulundurmak, binaya girişte görevlilere ibraz etmek, sınav görevli kartını da sınav süresince görünür bir şekilde yakalarında bulundurmak zorundadır.
+c) Sınav süresince, sınav binasında bina sınav sorumlusu ve bina güvenlik görevlileri dışında hiç kimsede cep telefonu ve iletişim aracı bulunamaz. Görevlilerin, yanlarında her türlü delici ve kesici alet, ateşli silah, çanta, cüzdan, cep telefonu, saat, anahtarlık, kablosuz iletişim sağlayan bluetooth ve benzeri cihazlar ile kulaklık, kolye, küpe, bilezik, yüzük (alyans hariç), broş ve diğer takılar, her türlü plastik, cam eşya ve metal içerikli eşyalar, her türlü elektronik/mekanik cihaz ve her türlü müsvedde kâğıt, defter, ders notu, kitap, sözlük, dergi, gazete ve benzeri yayınlar ile sınav binalarına girmesine izin verilmez.
+ç) ÖSYM Temsilcisi ile binalara girişi ve çıkışı yasaklanmamış görevliler hariç sınav görevlileri sınav bitene kadar sınav salonundan dışarı çıkamazlar.

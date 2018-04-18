@@ -1,0 +1,3 @@
+Sınav binaları ve çevresinin sınav öncesi kontrolü
+MADDE 7 – (1) Başkanlık ve sınav koordinatörleri sınav öncesi ve sınav esnasında binalar ve salonlarda sınavların gizliliği ve güvenliğini sağlamak için her türlü tedbiri alır. Sınavdan önceki günlerde, binalar ve salonlar sınava hazır hale getirilir.
+(2) Bina sınav sorumlusunun koordinasyonunda sınav günü binaların içi ve çevresi bina yöneticisi ve güvenlik görevlileri tarafından arama yapılarak kontrol edilir. Bina içinde bulunan her türlü cep telefonu (Ek ibare:RG-18/4/2018-30395) , kablolu ve kablosuz iletişim aracı sınav güvenliğini tehlikeye düşürmeyecek şekilde etkisiz hale getirilir.
