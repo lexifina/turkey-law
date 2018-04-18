@@ -1,0 +1,20 @@
+{
+  "applicant": "A.S. VE Ö.S.",
+  "application_date": "2015-06-17",
+  "application_number": "2015/10100",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2018-04-18",
+  "id": "84d0e851-b18e-4180-90c3-4b447ed36ae9",
+  "in_force": "2018-04-18",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjg0ZDBlODUxLWIxOGUtNDE4MC05MGMzLTRiNDQ3ZWQzNmFlOQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "6c945388331d111209b277b298d061fc96dca9e4f8482e1e335dfd15d183a31c",
+  "version_label": "as-enacted"
+}
