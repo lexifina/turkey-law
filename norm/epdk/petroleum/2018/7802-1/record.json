@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7802-1",
+  "decision_date": "2018-04-19",
+  "title": "Opet Petrolcülük A.Ş.’nin; DEP/476-161/10881 sayılı depolama lisansı kapsamında Karaduvar Mah. Ataş Rafinerisi Girişi 1031 Sk. No:113 MERSİN adresinde faaliyette bulunan Mersin Depolama Tesisine ilişkin",
+  "resmi_gazete_date": "2018-04-21",
+  "resmi_gazete_number": "30398",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WtZbiTm1X6o=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WtZbiTm1X6o=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WUhnoPMEfNQ="
+  ],
+  "source_sha256": "dbaf0a8b9958698621f3b9bb1aaf0ff0c3942877f2901162f3665c2186650e9c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-04-19",
+  "law_text_complete": true
+}
