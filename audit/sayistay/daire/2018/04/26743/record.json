@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "132",
+  "decision_date": "2018-04-19",
+  "source_id": 26743,
+  "chamber": "8",
+  "ilam_number": "133",
+  "item_number": 41,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26743/",
+  "source_sha256": "84679b8b62dbc7bdd544f716a1d52452d3210c04d12ac65e31aeb78a24f1d2b2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
