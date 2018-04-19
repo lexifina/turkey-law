@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "132",
+  "decision_date": "2018-04-19",
+  "source_id": 26739,
+  "chamber": "8",
+  "ilam_number": "133",
+  "item_number": 37,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2016,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26739/",
+  "source_sha256": "e4bd277878e72ad5eee067434a7627574e6dcdda57dbca6351551b2db3130a60",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
