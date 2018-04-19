@@ -1,0 +1,4 @@
+Madde 8 – (31/8/1956 tarih ve 6831 sayılı Kanunun hükmüdür.)
+Devlet ormanlarının tahdidi işlerinin hangi vilayetlerde yapılacağı Ziraat Vekaletince tayin olunur. Keyfiyet ormanda çalışmaya başlamadan en az bir ay önce Resmi Gazete'de ve alakalı vilayet ve kaza merkezlerinde çıkan birer gazetede ve mütat vasıtalarla en az beşer gün ara ile ikişer defa ilan olunur.
+Tahdidine başlanacak Devlet ormanının mahallin orman başmüdürlüğü tarafından tesbit ve tanzim edilecek umumi hudut krokisi, ormanda çalışmaya başlamadan en az bir ay evvel ilan edilmek üzere valiliğe verilir.
+Komisyon reisi, tahdide başlama gününü, orman içinde ve bitişiğindeki gayrimenkul sahiplerinin veya kanuni mümessillerinin veya vekillerinin hazır bulunmalarını, hazır bulunmadıkları takdirde tahdit işinin gıyaplarında devam edeceğini bildiren ilan kağıdını bir ay evvel alakalı köy veya beldenin münasip yerine astırır ve keyfiyeti bir zabıtla tevsik ettirir.

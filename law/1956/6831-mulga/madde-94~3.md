@@ -1,0 +1,3 @@
+Madde 94 – (3/11/1988 tarihli ve 3493 sayılı Kanunun hükmüdür.)
+Bu Kanunun 18 inci maddesinde belirtilen ve yapılması izne bağlı fabrika, hızar ve şeritlerle, kireç, kömür, terebentin, katran, sakız, taş, kum, toprak ve buna benzer ocaklar ile balık üretme tesislerini izinsiz kuranlara birmilyar lira para cezası verilir. Bunların işletilmesi men edilir. Bu tesisler Devlet ormanları içinde kurulmuş ise el konulur. El konulan malların mahkemece müsaderesine karar verilir. El konulan ve müsaderesine karar verilen mallar hakkında bu Kanunun 84 üncü maddesi hükmü uygulanır.
+Bu Kanunun 14 üncü maddesinin (E) bendinde yazılı fiilleri işleyenlere yüzmilyon lira para cezası verilir.(1)

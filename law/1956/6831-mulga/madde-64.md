@@ -1,0 +1,4 @@
+Madde 64 – (31/8/1956 tarih ve 6831 sayılı Kanunun hükmüdür.)
+Ziraat Vekaletinin vereceği ağaçlandırma planı gereğince ve tayin edeceğiağaç nevilerinden bu Kanunun 63 üncü maddesine göre gerek kendi topraklarındave gerekse Devletin hüküm ve tasarrufu altındaki arazide, yarım hektardan aşağıolmamak şartiyle orman yetiştirecek veya kavak, okaliptüs ve kızılağaç ağaçlıkları tesis edecek hususi şahıslara veya hükmi şahsiyeti haiz teşekküllere Ziraat Vekaletinin izni ile Türkiye Cumhuriyeti Ziraat Bankasından kuruluş kredisi açılır. Kuruluş kredisi için 15 yıl müddetle Ziraat Vekaleti bütçesine miktarı 2.500.000 liradan aşağı olmamak şartiyle Türkiye Cumhuriyeti Ziraat Bankası sermayesine mahsuben ayrıca tahsisat konulur.
+Orman yetiştireceklere verilecek kuruluş kredisinin miktarı, faiz nispeti, müddeti ve diğer şartları Ziraat, İktisat ve Ticaret Vekaletleriyle Türkiye Cumhuriyeti Ziraat Bankasınca müştereken tesbit edilir.
+490

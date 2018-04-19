@@ -1,0 +1,2 @@
+Madde 18 – (31/8/1956 tarih ve 6831 sayılı Kanunun hükmüdür.)
+Devlet ormanları hudutları içinde veya dört kilometreye kadar uzaklıkta olan yerlerde her çeşit fabrika kurulması Ziraat Vekaletinin; bir kilometreye kadar olan yerlerde hızar ve şerit kurulması, taş, kireç, kömür, trebentin, katran ve benzeri ocakların kurulması orman idaresinin iznine bağlı olup ruhsatname istihsali ve rüsum hakkındaki ahkam mahfuzdur.

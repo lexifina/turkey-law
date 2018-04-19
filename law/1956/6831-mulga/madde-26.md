@@ -1,0 +1,4 @@
+Madde 26 – (31/8/1956 tarih ve 6831 sayılı Kanunun hükmüdür.)
+Devlet ormanlarından yapılacak istihsal, Ziraat Vekaletince tespit olunacakesasalar dairesinde ve amenajman planlarına göre Devlet tarafından yapılır veya40 ıncı madde hükümleri dairesinde yaptırılabilir.
+Madde 27 fıkra bir – (31/8/1956 tarih ve 6831 sayılı Kanunun hükmüdür.)
+Devlet ormanlarından kesilecek veya herhangi bir sebeple devrilmiş veya kesilmiş ağaçların dip kütükleriyle tomrukların kimler tarafından numaralanıpdamgalanacağına, ağaç, tomruk, odun, kömür ve diğer her nevi orman mahsullerinin kesim, imal, toplama satış icaplarına göre orman dışında veya koruma bakımındanmahzurlu olmıyan orman içindeki yerlere nakil ve istif etme ve ölçme işlerineve nakliye tezkerelerinin tanzim ve istimaline ait şekil ve esaslar Orman Umum Müdürlüğünce tayin ve tespit olunur.

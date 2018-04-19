@@ -1,0 +1,1 @@
+Madde 70- fıkra iki – (31/8/1956 tarihli ve 6831 sayılı Kanunun hükmüdür.) Bunların ücreti de orman idaresi tarafından ödenir. Bunlara söndürme işinde çalıştıkları müddetçe Devlet ormanlarında orman idaresi,diğer ormanlarda alakalılar tarafından parasız ekmek,katık ve sigara verilir. Başkaca ücret verilmez.

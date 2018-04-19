@@ -1,0 +1,2 @@
+Madde 101 – fıkra bir ve iki- ( 3/11/1988 tarihli ve 3493 sayılı Kanunun hükmüdür.) Yazılı olarak yapılan tebligat tarihinden itibaren iki yıl içinde 50 nci maddede yazılı işaretlerle ormanların hudutlarını belli etmeyen hususi orman sahiplerine beşmilyar lira para cezası verilir.(1)
+( 3/11/1988 tarihli ve 3493 sayılı Kanunun hükmüdür.) Orman sahipleri bu cezanın kesinleşmesinden sonra bir yıl içinde yine bu mükellefiyeti ifa etmezler ise bunlara onmilyar lira para cezası verilir. (1)

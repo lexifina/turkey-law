@@ -1,0 +1,4 @@
+Madde 34 – (31/8/1956 tarih ve 6831 sayılı Kanunun hükmüdür.)
+Hudutları içinde Devlet ormanı bulunan köy ve kasaba halkının kesip, satış istif yerlerine taşıdıkları kerestelik tomrukları idarece tayin olunacak müddet içinde istedikleri takdirde, istihkak sahiplerine 10 metre mikabı geçmemek üzere yüzde yirmi beşine kadarı pazar ihtiyacı olarak istiflerden maliyet bedelleriyle artırmasız olarak verilir.
+Miktar mevzuubahis olmaksızın bu nispet; odun, kömür ve ziraat alet ve araba imalinde ve çeşitli el sanatlarında ve meyve, sebze ambalajlığında kullanılabilen orman mahsullerinin istif yerlerinden yüzde yüze kadar çıkarılabilir.
+Bu suretle bölgenin ihtiyacı bulunan ziraat aletlerinin köylülerce imal edilemiyeceği anlaşılan yerlerde ve zamanlarda bu gibi aletleri taslak halinde orman idaresi imal edebilir.

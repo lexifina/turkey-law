@@ -1,0 +1,1 @@
+Madde 85 – fıkra bir- (31/8/1956 tarihli ve 6831 sayılı Kanunun hükmüdür.) Orman içinde kimin tarafından kesildiği veya hazırlandığı belli olmıyan veya suçlunun kaçması sebebiyle faili tesbit olunamıyan orman mahsulleri ve cürüm aletleri,orman idaresinin satış usullerine göre satılır ve bedelleri irat kaydolunur.

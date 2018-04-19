@@ -1,0 +1,2 @@
+Madde 93 – (31/8/1956 tarih ve 6831 sayılı Kanunun hükmüdür.)
+Bu Kanunun 17 nci maddesinde yasak edilen fiilleri ika edenlerle izne bağlı işleri izinsiz yapanlar bir aydan bir seneye kadar hapis cezasiyle cezalandırılırlar. İşgal ve faydalanma yeniden tarla açmak suretiyle vakı olduğu veya yanmış orman sahasına taallük ettiği takdirde 3 aydan 2 seneye kadar hapis cezasiyle cezalandırılır ve her nevi mahsul ve tesislerin müsaderesine hükmolunur.

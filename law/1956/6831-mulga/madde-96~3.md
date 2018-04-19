@@ -1,0 +1,18 @@
+Madde 96 – ( 3/11/1988 tarihli ve 3493 sayılı Kanunun hükmüdür.)
+Bu Kanunun 20 nci ve 21 inci maddelerinde yazılı hükümlere aykırı hareket edenlere yüzmilyon lira para cezası verilir. (2)
+––––––––––––––
+(1) 5/11/2003 tarihli ve 4999 sayılı Kanunun 14 üncü maddesiyle; 92 nci maddenin ikinci fıkrasında yeralan “beşyüzbin lira ibaresi “beşmilyar lira“, 94 üncü maddenin birinci fıkrasındaki “yüzbin lira“ ibaresi “birmilyar lira“, ikinci fıkrasındaki “onbin lira“ ibaresi “yüzmilyon lira“, 95 inci maddenin birinci fıkrasındaki “beşyüz lira“ ibaresi “beşmilyon lira“, “ikiyüz lira“ ibaresi “iki milyon lira“, “yüz lira“ ibaresi “birmilyon lira“, ikinci fıkrasındaki“binbeşyüz liradan“ ibaresi“onbeşmilyon liradan“ olarak değiştirilmiştir.
+(2) 5/11/2003 tarihli ve 4999 sayılı Kanunun 14 üncü maddesiyle; 96 ncı maddedeki ”onbin lira” ibaresi “yüzmilyon lira”, 97 nci maddenin birinci fıkrasındaki ”beşbin lira” ibaresi ”ellimilyon lira”, 99 uncu maddedeki ”beşbin lira” ibaresi ”ellimilyon lira”, 100 üncü maddenin dördüncü fıkrasındaki ”yüzbin lira” ibaresi ”birmilyar lira”, ”ellibin lira” ibaresi ”beşyüzmilyon lira” olarak değiştirilmiştir.
+502-12
+Madde 97 – (31/8/1956 tarihli ve 6831 sayılı Kanunun hükmüdür.)
+(Değişik birinci fıkra : 3/11/1988 - 3493/7 md.) Devlet çekici ile damgalanan ağaçları keserken bu damgayı orman idaresince tespit edilen şekilde dip kütükte bırakmayanlarla damgalı ağaçları tespit edilen hadde nazaran daha yüksekten kesenlere kesilen her ağaç için ellimilyon lira para cezası verilir. (1)
+Bu kanunun 27 nci maddesinde yazılı damga çekiçlerini taklit edenler veya taklit fiiline iştirak etmeksizin kullananlar Türk Ceza Kanununun 333 üncü maddesinin 2 nci fıkrasına göre cezalandırılırlar.
+Madde 98 – ( 23/9/1983 tarihli ve 2896 sayılı Kanunun hükmüdür.)
+31 inci, 32 nci ve 33 üncü madde hükümlerine göre, köylülere zati ihtiyaçları ile köy müşterek ihtiyaçları için verilen orman emvalini; yerinde kullanmayıp her ne surette olursa olsun elden çıkaranlar, bunları veriliş gayesine uygun kullanmayanlar, yapacak emvalin vasfının bozulması nedeniyle izin almadan yakanlar orman idaresinden izin almadan imal edilmek gayesiyle de olsa başka yere götürenler, kullandıktan sonra sökerek veya yıkarak enkaz halinde bulunduğu köy hududları dışına çıkaranlar veya yapacak emvali aldığından itibaren bir yıl içerisinde 35 inci maddede belirtilen yapı sistemine uygun inşaat yapmayarak bu emvali elden çıkaranlar ile bu maddede belirtilen her türlü emval her ne surette olursa olsun alan veya kabul edenler, iki aydan bir seneye kadar hapis ve onbeşbin liradan ellibin liraya kadar ağır para cezasıyla cezalandırılırlar.
+Yukarıdaki fıkrada yazılı eylemleri işleyenlerin her birinden ayrı ayrı,suç konusu emvalin rayiç değerinin iki misli tazminat olarak alınır.
+Madde 99 – ( 3/11/1988 tarihli ve 3493 sayılı Kanunun hükmüdür.)
+37 nci madde gereğince verilen izinlerde gösterilecek tedbir ve şartlara riayet etmeyenlere ellimilyon lira para cezası verilir. (1)
+Madde 100 fıkra dört- ( 3/11/1988 tarihli ve 3493 sayılı Kanunun hükmüdür.) Nakliye tezkeresini değiştirmeden nakliyat yapanlara birmilyar lira para cezası verilir. Ormandan kesilen ağaçlardan damgaya tabi orman emvalini damgasız olarak orman idaresinin istif yerlerine götürenlere beşyüzmilyon lira para cezası verilir. (1)
+–––––––––––––––
+(1) 5/11/2003 tarihli ve 4999 sayılı Kanunun 14 üncü maddesiyle; 96 ncı maddedeki ”onbin lira” ibaresi “yüzmilyon lira”, 97 nci maddenin birinci fıkrasındaki ”beşbin lira” ibaresi ”ellimilyon lira”, 99 uncu maddedeki ”beşbin lira” ibaresi ”ellimilyon lira”, 100 üncü maddenin dördüncü fıkrasındaki ”yüzbin lira” ibaresi ”birmilyar lira”, ”ellibin lira” ibaresi ”beşyüzmilyon lira” olarak değiştirilmiştir.
+502-13

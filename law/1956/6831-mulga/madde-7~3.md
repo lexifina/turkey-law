@@ -1,0 +1,8 @@
+Madde 7 – (23/9/1983 tarih ve 2896 sayılı Kanunun hükmüdür.)
+Devlet ormanları ile evvelce sınırlama yapılmış olup da herhangi bir nedenle orman sınırları dışında kalmış ormanların, hükmi şahsiyeti haiz amme müesseselerine ait ormanların ve hususi ormanların kadastrosu ve bu ormanların içinde ve bitişiğinde bulunan her çeşit taşınmaz malların ormanlarla müşterek sınırlarının tayin ve tespiti, orman kadastro komisyonları tarafından yapılır.
+496
+Orman kadastro komisyonları; Tarım ve Orman Bakanlığınca atanacak orman kadastro işlerinde çalışmış ve bu Bakanlıkta veya bağlı kuruluşlarında en az onyıl hizmet görmüş bir orman yüksek mühendisi veya orman mühendisinin başkanlığında; bir orman yüksek mühendisi veya orman mühendisi veya bunların bulunmaması halinde en az on yıl hizmet görmüş orman teknikeri üye, bir ziraat yüksek mühen- disi veya ziraat mühendisi veya bunların bulunmaması halinde en az on yıl hizmet görmüş ziraat teknisyeni üye ile beldelerde belediye encümenince, köylerde köy ihtiyar heyetince seçilecek bir üyeden kurulur.
+Komisyon başkanının yokluğu halinde yüksek mühendis veya mühendis olan ormancı üye başkana vekalet eder. Komisyonlar en az üç üye ile de çalışabilir. Oyların eşitliği halinde başkanın katıldığı taraf çoğunluğu kazanmış olur. Başkana vekalet eden üyenin oyu daima tek oy sayılır.
+Komisyon emrine gerektiği kadar teknik eleman ve memur verilir.
+Komisyonlar, arazideki çalışmaları sırasında beldelerde belediye encümeni, köylerde ihtiyar heyetleri tarafından seçilecek bilirkişilerin bilgilerinden deyararlanırlar. Bunların gelememeleri halinde, komisyonlar gerekli gördükleri takdirde resen bilirkişi seçebilirler.
+Yasak bölgelerdeki ormanların kadastrosu sırasında Milli Savunma Bakanlığınca bir temsilci bulundurulabilir.

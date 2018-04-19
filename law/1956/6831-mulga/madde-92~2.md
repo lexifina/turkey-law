@@ -1,0 +1,4 @@
+Madde 92 – ( 23/9/1983 tarihli ve 2896 sayılı Kanunun hükmüdür.)
+(Değişik : 3/11/1988 - 3493/3 md.) Bu Kanunun 16 ncı maddesi gereğince ormanlardan izin almadan açılan maden ocakları idarece kapatılır. Çıkarılan madenler ve her türlü tesisler ile alet, edevat ve nakil vasıtalarına el konulur. El konulan malların mahkemece müsaderesine karar verilir. El konulan ve müsaderesine karar verilen mallar hakkında bu Kanunun 84 üncü maddesi uygulanır.
+(Değişik : 3/11/1988 - 3493/3 md.) Bu Kanunun 16 ncı maddesi gereğince izinsiz maden ocağı açanlara beşmilyar lira para cezası verilir.(1)
+Başkaca zarar husule gelmiş ise ayrıca tazmin ettirilir. İzin alarak bu nevi ocakları açanlar idarece kendilerine veya temsilcilerine teblig edilecek tedbirlere riayet etmezler ise bu cezanın yarısına hükmolunur. Bu tedbirlere riayet edilinceye kadar ocaklar orman idaresince işletilmekten men edilir.

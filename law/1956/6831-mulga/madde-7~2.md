@@ -1,0 +1,10 @@
+Madde 7 – (20/6/1973 tarih ve 1744 sayılı Kanunun hükmüdür.)
+Devlet ormanlarının kadastrosu ve bu ormanların içinde ve bitişiğinde bulunan her çeşit taşınmaz malların ve diğer ormanların Devlet ormanları ile müşterek sınırlarının tayin ve tespiti orman kadastro komisyonları tarafından yapılır.
+Orman kadastro komisyonları; Orman Bakanlığınca atanacak orman kadastro işlerinde çalışmış ve bu bakanlıkta veya bağlı ilgili kuruluşlarında en az on yılhizmet görmüş bir orman yüksek mühendisinin başkanlığında; hakim veya avukatlık stajını yapmış veya hukuk fakültesi mezunu bir hukukçu üye, bir orman yüksek mühendisi veya orman mühendis muavini veya en az on yıl hizmet görmüş orman teknikeri üye, bir ziraat yüksek mühendisi veya on yıl hizmet görmüş ziraat teknisyeni üye ile orman kadastrosu yapılacak ilin daimi encümenince il genel meclisi üyeleri arasından seçilecek bir üye, mahalli ziraat odası başkanı veya kurulundan bir üye, beldelerde belediye encümenince, köylerde köy ihtiyar kurulunca aralarından seçilecek bir üyeden kurulur.
+Komisyon başkanının yokluğu halinde ormancı üye başkana vekalet eder.
+Komisyon emrine lüzumu kadar teknik eleman ve memur verilir.
+Ayrıca, komisyon bünyesinde en az üç orman kadastro ekibi bulunur.
+Orman kadastro ekipleri; Orman Bakanlığınca atanacak bir orman yüksek mühendisinin veya orman mühendis muavinin veya en az beş yıl hizmet görmüş bir orman teknikerinin başkanlığında, bir orman yüksek mühendisi veya orman mühendis muavini veya orman teknikeri ve mahalli ziraat teşkilatınca görevlendirilecek bir ziraat yüksek mühendisi veya ziraat teknisyeni ile beldelerde belediye encümenince köylerde köy ihtiyar kurulunca aralarından seçilecek bir üyeden kurulur.
+Komisyonlar veya bunlara bağlı orman kadastro ekipleri arazideki çalışmaları sırasında beldelerde belediye encümenleri, köylerde ihtiyar kurulları tarafından seçilecek bilirkişilerin bilgisinden de faydalanırlar.
+Bunların gününde ve yerinde hazır bulunmamaları halinde komisyon ve ekipler lüzum gördükleri takdirde başka bilirkişi seçebilirler.
+Yasak bölgelerdeki ormanların kadastrosu sırasında Milli Savunma Bakanlığınca bir temsilci bulundurulabilir.

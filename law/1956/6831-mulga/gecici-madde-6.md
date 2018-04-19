@@ -1,0 +1,3 @@
+Geçici Madde 6 – (20/6/1973 tarih ve 1744 sayılı Kanunun hükmüdür.)
+Bu Kanunun 64 üncü maddesindeki kuruluş kredisi için 15 yıl müddetle Tarım Bakanlığı Bütçesine miktarı 2.500.000 liradan aşağı olmamak şartiyle Türkiye Cumhuriyeti Ziraat Bankası sermayesine mahsuben ayrıca konulan tahsisatın,1974 mali yılından itibaren 15 yıl müddetle Orman Bakanlığı Bütçesine miktarı her yıl 5.000.000 liradan aşağı olmamak şartiyle Türkiye Cumhuriyeti Ziraat Bankasısermayesine mahsuben konulmasına devam olunur.
+7 - 5/6/1986 tarih ve 3302 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 2,7,8,9,10,11,57,62, Geçici 2)

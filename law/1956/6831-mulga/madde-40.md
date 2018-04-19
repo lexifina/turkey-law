@@ -1,0 +1,3 @@
+Madde 40 – (31/8/1956 tarih ve 6831 sayılı Kanunun hükmüdür.)
+Devlet ormanlarında kesme, taşıma, toplama, imal, bakım, imar, ağaçlama, yol yapma gibi, orman işleri iş yerindeki veya civarındaki orman işlerinde çalışan köylülere veya tercihan aralarında köy orman kooperatifi kuranlara gördürülür.
+Yapılacak işin, civar köylülerin iş gücünün kafi gelmemesi veya işe ehil olmamaları veya fahiş fiyat istemeleri gibi hallerde, bu işler taahhüt yolu ile yaptırılabilir. Bu işleri yapacaklardan işin mahiyet ve hacmına göre teknik eleman çalıştırmaları istenilir. Ve bu kabil bir taahhüde gireceklerden mali ve fenni ehliyet vesikaları aranır.

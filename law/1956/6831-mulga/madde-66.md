@@ -1,0 +1,2 @@
+Madde 66 – (31/8/1956 tarih ve 6831 sayılı Kanunun hükmüdür.)
+Orman yetiştirecek köy orman kooperatiflerine lüzumlu fidanlar, orman idaresi tarafından ağaçlama sahasına kadar götürülerek bedelsiz verilir ve dikimişi orman teknik memurlarının nezareti altında yapılır. Bu ağaçlama sahaları orman idaresinin daimi nezaret ve kontrolu altında bulundurularak gelişip yetişmesi için lüzumlu tedbirlerin alınması sağlanır.

@@ -1,0 +1,3 @@
+Madde 32 – (31/8/1956 tarih ve 6831 sayılı Kanunun hükmüdür.)
+Ormanların bulundukları ve bu ormanlara bitişik kazalar içindeki muhtaç köylülerle, hududu içinde Devlet ormanı bulunan ve nüfusu 2.500 den aşağı olan muhtaç kasabalar halkına ev, samanlık, ahır gibi zati ihtiyaçları için kesme, taşıma masrafları ve tarife bedeli ödenmek şartiyle tomruk verileceği gibi aynı mıntakalardaki köylerin cami okul ve köy yollarındaki köprülerinin yapılması ve onarılması için de kesme ve taşıma masrafları alındıktan sonra bu ormanların is- tif yerlerinden tomruk verilebilir.
+Bu madde dışında kalan köylerin müşterek ihtiyaçları diğer ormanların istifyerlerinden muhammen satış bedeli üzerinden verilebilir.

@@ -1,0 +1,2 @@
+Madde 2 – (31/8/1956 tarih ve 6831 sayılı Kanunun hükmüdür.)
+İklim, su ve toprak rejimine zarar vermiyen ve daha verimli kültür arazisi haline getirilmesi Ziraat Vekaletince uygun görülen ormanların, orman rejimi dışında bırakılmasına ve orman mefhumuna dahil olduğu halde orman rejimine tabi tutulmasında bir fayda görülmiyen sahipli yerlerin serbest bırakılmasına veya gayeye uygun hususi bir idare ve kesim tarzı tatbik edilmesine Ziraat Vekaletinin teklifi üzerine İcra Vekilleri Heyetince karar verilebilir.

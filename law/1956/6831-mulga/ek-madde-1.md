@@ -1,0 +1,4 @@
+Ek Madde 1 – (19/7/1971 tarih ve 1444 sayılı Kanunun hükmüdür.)
+Bu Kanunun kapsamına giren suçlardan dolayı açılmış olup, Orman İdaresince müdahil sıfatiyle ve avukat marifetiyle takibedilen ceza davalarında idare lehine takdir edilecek maktu vekalet ücreti, davanın görüldüğü mahkemeye göreavukatlık ücret tarifelerinde yazılı asgari ücret miktarının onda biridir.
+Ek Madde 3 bent (A) alt bent (C) – (5/6/1975 tarih ve 1906 sayılı Kanunun hükmüdür.)
+c) 6831 sayılı Orman Kanununun 17 ve 115 nci maddeleri uyarınca verilecekizin ve irtifak haklarına dayanılarak Devlet, il belediye veya köy tüzel kişilikleriyle özel hukuk tüzel kişiliklerince yapılacak, kar gayesi bulunmayan, kamu tesisleri dışındaki her türlü tesisin proje toplam bedelinden orman sahası- na isabet eden kısmının % 3 ü oranında alınacak hisseden;
