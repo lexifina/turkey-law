@@ -1,0 +1,23 @@
+Hakediş Ödemesi:
+
+…..  Ltd Şti. yükleniminde bulunan …..  Yapım İşinde;
+
+   A)İki adet otomatik sarmal kapı yapım işi ile ilgili olarak, sarmal kapı fiyatının çok yüksek belirlenmesi sonucunda …..  TL tutarında kamu zararına sebebiyet verilmesi ile ilgili olarak;
+
+Sorumlular konuya ilişkin savunmalarında; YBF.6 – 5.20 x 4.20 Ebatlarında Otomatik Sarmal Kapı Yapılması imalatı ve YBF 4.45 x 3,83 Ebatlarında Otomatik Sarmal Kapı Yapılması imalatı için …..  no.lu hakedişte sehven ödenen ….  TL’nin, KDV ile birlikte toplam ….. TL olarak  ….  no.lu hakedişte düzeltildiğini, düzeltilen hakediş raporu ve ekleri ile ödeme emri belgesinin de savunma ekinde gönderildiğini bildirmişlerdir.
+
+Bu itibarla; İki adet otomatik sarmal kapı yapım işi ile ilgili olarak, sarmal kapı fiyatının çok yüksek belirlenmesi sonucunda oluşan …..  TL tutarındaki kamu zararının; ….. tarihli ve …..  sayılı Ödeme Emri Belgesi eki …..  no.lu hakedişten kesinti yapılmak suretiyle tahsil edildiği anlaşıldığından, ilişilecek husus bulunmadığına, oy birliğiyle karar verildi.
+
+   B)Y.23.176 poz no.lu Lama ve profil demirlerden çeşitli demir işleri yapılması ve yerine konulması işi metraj cetvellerinin incelenmesinde 20x40x2 profil ağırlığı ile kutu profil ağırlığının hesaplanmasında TS.5317’deki ağırlıkların esas alınmaması sonucunda …..  TL tutarında kamu zararına sebebiyet verilmesi ile ilgili olarak;
+
+Sorumlular konuya ilişkin savunmalarında; 40x60x2 kutu profil ağırlığı ile 20x40x1,5 kutu profil ağırlığının hesaplanmasında piyasadaki firmaların kitapçıklarından faydalanıldığı için aradaki farkın oluştuğunu, bu imalatın TS 5317’de kullanılan ağırlıklar esas alınmak suretiyle 10 no.lu hakedişte düzeltildiğini, düzeltilen hakediş raporu ve ekleri ile ödeme emri belgesinin de savunma ekinde gönderildiğini bildirmişlerdir.
+
+Bu itibarla; Y.23.176 poz no.lu Lama ve profil demirlerden çeşitli demir işleri yapılması ve yerine konulması işinde, profil ağırlıkları hesaplanırken TS.5317’deki ağırlıkların esas alınmaması sonucunda oluşan …..  TL tutarındaki kamu zararının; …..  tarihli ve …..  sayılı Ödeme Emri Belgesi eki …..  no.lu hakedişten kesinti yapılmak suretiyle tahsil edildiği anlaşıldığından, ilişilecek husus bulunmadığına, oy birliğiyle karar verildi.
+
+   C)MOZ-6 poz no.lu Arazide Facing Yap. Müzeye Getirilmiş Olan Moz. Pano. Rest. ve Konservasyonu işi ile MOZ.16 poz no.lu Moz. Yüz. Eksik Kısmı. Görsel Bütünlük Sağlamak Amacıyla Teşhir Alalında Dolgu işine ilişkin yeni birim fiyat analizi yapılırken yeterince piyasa araştırması yapılmadan tek firmanın vermiş olduğu teklifin esas alınarak analizin oluşturulması sonucunda …..  TL tutarında kamu zararına sebebiyet verilmesi ile ilgili olarak;
+
+Sorumluların konuya ilişkin savunmalarının incelenmesi sonucunda; Konservasyon ve restorasyon işlerinin özellikli olmasından dolayı, Merkez Laboratuvar Müdürlüğü tarafından kullanılan ürünlerin uluslararası güvenilirliği olan tecrübe edilmiş malzemelerden seçildiği, piyasada yerli malı olan ürünlerin fiyatlarının değişiklik gösterdiği, daha düşük fiyata sahip olan ürünlerin farklı kaplama ve özellikte olduğu, tarihi eserlerde oluşabilecek riskler göz önünde bulundurularak mümkün olan en iyi kalitede ürünlerin tercih edildiği, uygun olmayan ürünlerin kullanılması ve duvara monte edilmesi halinde mozaik döşemenin bulunduğu tabakanın düşmesi, dağılması ve tahribata uğramasının söz konusu olduğu, tarihi eserlerin zarar görmemesi ve konservasyon-restorasyon çalışmalarının kısa aralıklarla tekrar etmemesi için bu ürünlerin tercih edildiği, ….. Restorasyon Konservasyon Bölge Laboratuvarı bünyesinde doğrudan temin ile satın alınmış olan aerolam plaka ve epoksi reçine fiyatları yapılan piyasa araştırmasından daha düşük olduğu için bu fiyatların kullanıldığı, malzemelerin fiyatında görülen artışın, yıllara göre değişen kur farkı, gümrük masrafları ve malzemenin özelliklerinden  (kalınlığı hücre çapı vb) kaynaklandığı, söz konusu işte, İstanbul Restorasyon ve Konservasyon Merkez ve Bölge Laboratuarı Müdürlüğü tarafından aerolam plaka ve epoksi reçineye ait yapılan piyasa araştırmalarına ilişkin belgelerin savunma ekinde gönderildiği tespit edilmiştir.
+
+Ayrıca, denetçinin malzemelerin yurt içi imalat mı yoksa ithalat mı olduğu konusunda herhangi bir açıklama yapmadığı, sorguda ileri sürülen iddiaların herhangi bir şekilde bilimsel, teknik (tutanak gibi) veya hukuki bir tespite dayandırılmadığı, piyasa araştırmasının sağlıklı yapılmadığına ilişkin kanıtlayıcı belgelerin sunulmadığı görüldüğünden,
+
+Mevzuatına uygun olduğu anlaşılan …..  TL ile ilgili olarak ilişilecek husus bulunmadığına, oy birliğiyle karar verildi.
