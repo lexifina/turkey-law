@@ -1,0 +1,29 @@
+Revize iş programı
+
+...... yüklenimindeki .......... İnşaatı İşi ile ilgili olarak, herhangi bir zorunluluk olmadığı halde revize iş programı yapılarak Gerek program öncesi gerçekleştirilen hakediş ödemelerinde yer alan fiyat farkı hesaplarının tekrar hesaplanıp güncellenmesi gerekse de program sonrasında düzenlenen hak edişlerde yer alan fiyat farkı ödemelerinin ilk programa göre yüksek hesaplanması sonucu ......TL kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede,
+
+.......ihale kayıt numaralı ........... İnşaatı işi belli istekliler arasında ihale usulüyle gerçekleştirilmiştir. Söz konusu işe ilişkin ilan 05.02.2015 tarihinde yayımlanmış, 20.02.2015 tarihinde ise ön yeterlilik değerlendirmesi yapılmıştır. Ön yeterlik değerlendirmesi sonrasında 30.06.2015 tarihinde ihale gerçekleştirilmiş ve 22.07.2015 tarihinde ......ile sözleşme imzalanarak 04.08.2015 tarihinde işyeri teslimi yapılmıştır. İşyeri tesliminden 8 gün sonra yüklenici tarafından iş programı hazırlanmış ve idarece onaylanarak yürürlüğe girmiştir. İlk 4 hakediş bu programa göre düzenlenmiş, ancak 5. hakediş öncesinde revize iş programı hazırlanarak iş programında değişikliğe gidilmiştir.
+
+Yapım İşleri Genel Şartnamesi’nin “Tanımlar” başlıklı 4üncü maddesinde; “İş Programı”“Yüklenicinin, işin süresi ve varsa iş kısımlarına ait bitirme tarihleri ile yıllık ödeme miktarlarını da dikkate alarak, yapım işine ait iş kalemlerini/gruplarını, aylık imalatı ve iş miktarlarını, ihzarat ödemesi öngörülen işlerde ihzaratı, yıllık ödenek dilimlerini ve bunların aylara dağılımını ayrıntılı olarak gösterdiği program” şeklinde tanımlanmıştır.
+
+Genel Şartname’nin “İş programı” başlıklı 17nci maddesinde yüklenicinin sözleşme veya eklerinde belirlenen süre içinde, idarece verilen örneklere uygun bir iş programı hazırlayarak, onaylanmak üzere idareye teslim edeceği belirtilmiş, aynı maddenin altıncı ve yedinci fıkralarında aynen;
+
+“(6) Yüklenici idarece onaylanmış iş programına aynen uymak zorundadır. Ancak zorunlu hallerde idarenin uygun görüşü ile iş programında değişiklik yapılabilir.
+
+(7) İşte idarece onaylanan bir süre uzatımı bulunduğu takdirde, yüklenici bu hususun kendisine tebliği tarihinden başlamak üzere yedi gün içinde yeni süreye göre revize iş programı düzenleyerek idarenin onayına sunmak zorundadır” hükümlerine yer verilmiştir.
+
+Yukarıda yer alan hükümlerden de anlaşılacağı üzere iş programı yüklenici tarafından işin süresi ve varsa iş kısımlarına ait bitirme tarihleri ile yıllık ödeme miktarları esas alınarak sözleşme sonrası hazırlanmakta ve ancak zorunlu hallerde değiştirilebilmektedir. Dolayısıyla gerek yüklenici tarafından iş programı hazırlandığında gerekse de idare tarafından ilgili iş programı onaylandığında söz konusu iş başlamıştır ve her yıla ilişkin ödenek ve süreler bellidir. Bu nedenle yüklenici söz konusu hususları nazara alarak iş programını hazırlamalı idare de onaylama işlemini bu esaslar dâhilinde gerçekleştirmelidir. Bu nedenle iş programı onaylandıktan ve uygulamaya alındıktan sonra Yapım İşleri Genel Şartnamesi’nde de belirtildiği üzere zorunlu bir hal vuku bulmadıkça değişikliğe gidilmemesi esastır.
+
+Gerek Sözleşme ve İdari Şartname gerekse de Yapım İşleri Genel Şartnamesine uygun olarak yer tesliminden 8 gün sonra yüklenici firma tarafından “İş Programı” hazırlanmış ve İdarece onaylanmıştır. İş programı hazırlanırken hangi hususların dikkate alınacağı tereddüde mahal vermeyecek açıklıkta sözleşmede izah edilmiştir. Söz konusu iş programına göre 4 adet hakediş gerçekleştirilmiş, idareden kaynaklı herhangi bir kusur veya süre uzatımı olmamasına rağmen 5. hakediş yapılmadan önce yüklenicinin teklifi ve Yönetim Kurulu’nun ..........numaralı kararı ile “Revize İş Programı” kabul edilmiştir.
+
+Hakediş evrakları üzerinde yapılan incelemelerde; değişikliğin sadece revize iş programının Yönetim Kurulu tarafından kabul edilmesinden sonra düzenlenen fiyat farkı hesaplarına değil aynı zamanda Kurul Kararı’ndan önce hazırlanan ve karşılıklı imzalanarak kabul edilen ilk 4 hakediş ödemesinde yer alan fiyat farkı hesaplarına da uygulandığı ve 5’inci hakediş ödemesine ilk 4 hakediş ödemesine ilişkin fark tutarın yansıtıldığı görülmüştür.
+
+Ancak, revize iş programı öncesinde hazırlanmış, kabul edilmiş ve ödemesi yapılmış fiyat farklarının tekrar güncellenmesi ve fark tutarın yükleniciye ödenmemesi gerekir. Fiyat farkı Kararnamesinin “İş programı ve ödenek dilimi” başlıklı 7’nci maddesinin dördüncü fıkrasına göre sadece mücbir sebep ve sözleşmenin ifasının idareden kaynaklanan nedenlerle gecikmesi nedeniyle verilen süre uzatımlarında revize edilen iş programına uygun olarak fiyat farkı ödeneceği belirtilmiş, fiyat farkının da iş kalemleri ya da iş grupları için uzatılan süre içinde uygulanacağı ifade edilmiştir. Ancak, revize öncesi gerçekleşen fiyat farkı ödemelerinin yeni programa göre yeniden hesaplanacağına ilişkin bir hükme Kararnamede yer verilmemiştir.
+
+Bu itibarla, revize iş programının Yapım İşleri Genel Şartnamesi’nin 17nci maddesinin altıncı fıkrası hükmü uyarınca yapılmış olduğu anlaşıldığından kamu zararı olarak hesaplanan ......TL’nin revize iş programı sonrasında düzenlenen hakedişlerle ödenen fiyat farkı tutarı ......TL’si için kamu zararı oluşmadığından ilişilecek bir husus bulunmadığına,
+
+Revize iş programı öncesinde ödenen ilk 4 hakedişle ilgili olarak  revize iş programına göre yeniden hesaplanarak ödenen fiyat farkı tutarı ......TL’nin; Gerçekleştirme Görevlisi ......, Harcama Yetkilisi ......, Diğer Sorumlular ......’ten
+
+Müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizleriyle ödettirilmesine,
+
+İş bu ilamın tebliğ tarihinden itibaren 6085 sayılı Sayıştay Kanununun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğyle karar verildi.
