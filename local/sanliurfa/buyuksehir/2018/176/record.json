@@ -1,0 +1,24 @@
+{
+  "number": "176",
+  "number_as_published": "176",
+  "year": 2018,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(EYYÜBİYE-KOÇÖREN)",
+  "decision_date": "2018-04-20",
+  "source": "https://www.sanliurfa.bel.tr/icerik/6014/106/nazim-ve-uygulama-imar-planieyyubiye-kocoren",
+  "official_document": null,
+  "source_sha256": "3995812dd1bc525c436c3591e1dfe1b02d28510f2b4eaf42582944d663ea5353",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2018-04-20",
+  "in_force_basis": "Decision date as printed in the official council listing: 20.04.2018 tarih ve 176 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2018-04-25",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
