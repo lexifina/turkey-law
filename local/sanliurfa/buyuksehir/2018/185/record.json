@@ -1,0 +1,24 @@
+{
+  "number": "185",
+  "number_as_published": "185",
+  "year": 2018,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(EYYÜBİYE-AKÇAMESCİT)",
+  "decision_date": "2018-04-20",
+  "source": "https://www.sanliurfa.bel.tr/icerik/6015/106/nazim-ve-uygulama-imar-planieyyubiye-akcamescit",
+  "official_document": null,
+  "source_sha256": "b97169fdf0964baebec2baefa25519d8ae9159174b024b6d2a8dcde6fc4fc8d8",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2018-04-20",
+  "in_force_basis": "Decision date as printed in the official council listing: 20.04.2018 tarih ve 185 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2018-04-25",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
