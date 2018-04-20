@@ -1,0 +1,24 @@
+{
+  "number": "195",
+  "number_as_published": "195",
+  "year": 2018,
+  "title": "NAZIM İMAR PLANI DEĞ. (SİVEREK-HALİLİYE)",
+  "decision_date": "2018-04-20",
+  "source": "https://www.sanliurfa.bel.tr/icerik/6097/106/nazim-imar-plani-deg-siverek-haliliye",
+  "official_document": null,
+  "source_sha256": "3efc851867214834fd1b185a4f836f5301a3d14a6d67f0bff90202a79d3b280c",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2018-04-20",
+  "in_force_basis": "Decision date as printed in the official council listing: 20.04.2018 tarih ve 195 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2018-05-08",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
