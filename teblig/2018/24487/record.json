@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24487",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SU ISITICILARI VE SICAK SU DEPOLAMA TANKLARI İLE İLGİLİ ÇEVREYE DUYARLI TASARIM GEREKLERİNE DAİR TEBLİĞ (SGM: 2018/4)",
+  "number": "24487",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2018/24487",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24487&MevzuatTertip=5",
+  "source_sha256": "9fcf090a88002ba026ecba8f1df3305624f71a16da16199c9d09cd0e1f2858f0",
+  "source_bytes": 27109,
+  "published": "2018-03-28",
+  "gazette": "30374",
+  "in_force": "2018-04-21",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 21/4/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 21/4/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1201,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24487-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
