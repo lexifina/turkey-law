@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24488",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SU ISITICILARI, SICAK SU TANKLARI VE SU ISITICISI VE GÜNEŞ ENERJİSİ CİHAZI PAKETLERİNİN ENERJİ ETİKETLEMESİNE DAİR TEBLİĞ (SGM: 2018/2)",
+  "number": "24488",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2018/24488",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24488&MevzuatTertip=5",
+  "source_sha256": "7525cd2b5f959ec5dab9feded10595dfd9ced59d8a5e99c21d91dc9a86d3ba08",
+  "source_bytes": 41207,
+  "published": "2018-03-28",
+  "gazette": "30374",
+  "in_force": "2018-04-21",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 21/4/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 21/4/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2351,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24488-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
