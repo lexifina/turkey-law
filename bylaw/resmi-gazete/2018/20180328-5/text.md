@@ -1,0 +1,322 @@
+28 Mart 2018 ÇARŞAMBA
+Resmî Gazete
+Sayı : 30374
+TEBLİĞ
+Bilim, Sanayi ve Teknoloji Bakanlığından:
+SU ISITICILARI, SICAK SU TANKLARI VE SU ISITICISI
+VE GÜNEŞ ENERJİSİ
+CİHAZI PAKETLERİNİN ENERJİ ETİKETLEMESİNE DAİR
+TEBLİĞ
+(SGM: 2018/2)
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, 12/9/2011 tarihli ve
+2011/2257 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Ürünlerin
+Enerji ve Diğer Kaynak Tüketimlerinin Etiketleme ve Standart Ürün Bilgileri
+Yoluyla Gösterilmesi Hakkında Yönetmeliğin uygulanmasına yönelik olarak, su
+ısıtıcıları, sıcak su tankları ve su ısıtıcısı ve güneş enerjisi cihazı
+paketlerinin piyasaya arz edilmesi ve/veya hizmete sunulması ile ilgili
+etiketleme ve bunlara ait ilave ürün bilgilerinin temin edilmesine yönelik
+gereklilikleri belirlemektir.
+Kapsam
+MADDE 2 – (1) Bu Tebliğ;
+a) Nominal ısıl güçleri 70 kW’a eşit veya daha az
+olan su ısıtıcıların,
+b) Depo hacmi 500 litreye eşit veya daha az olan
+sıcak su tanklarının,
+c) Nominal ısıl güçleri 70 kW’a veya daha az olan
+su ısıtıcısı ve güneş enerjisi cihazı paketlerinin,
+enerji etiketlemesi şartlarını ve bunlara ait ilave
+ürün bilgilerinin temin edilmesine ilişkin hükümleri kapsar.
+(2) Bu Tebliğ;
+a) Ağırlıklı olarak biyokütleden üretilmiş gaz veya
+sıvı yakıtı kullanmak üzere özel tasarlanmış su ısıtıcılarına,
+b) Katı yakıt kullanan su ısıtıcılarına,
+c) Endüstriyel emisyonlar kapsamındaki su
+ısıtıcılarına,
+ç) Mahal Isıtıcıları, Kombine Isıtıcılar, Mahal
+Isıtıcısı, Sıcaklık Kontrolü ve Güneş Enerjisi Cihazı Paketleri ve Kombine
+Isıtıcı, Sıcaklık Kontrolü ve Güneş Enerjisi Cihazı Paketlerinin Enerji
+Etiketlemesine Dair Tebliğ (2018/2)’in 2 nci maddesinde tanımlanan kombine
+ısıtıcılarına,
+d) Asgari olarak Ek-VII’nin Tablo-3’ünde verilen en
+küçük enerji referanslı yük profilini karşılamayan su ısıtıcılarına,
+e) Sadece sıcak içecek ve/veya yiyecek yapmak için
+tasarlanmış su ısıtıcılarına,
+uygulanmaz.
+Dayanak
+MADDE 3 –
+(1) Bu Tebliğ, 29/6/2001 tarihli
+ve 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve
+Uygulanmasına Dair Kanuna ve 12/9/2011 tarihli ve 2011/2257 sayılı Bakanlar
+Kurulu Kararı ile yürürlüğe konulan Ürünlerin Enerji ve Diğer Kaynak Tüketimlerinin
+Etiketleme ve Standart Ürün Bilgileri Yoluyla Gösterilmesi Hakkında
+Yönetmeliğe dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Tebliğin uygulanması bakımından Ürünlerin
+Enerji ve Diğer Kaynak Tüketimlerinin Etiketleme ve Standart Ürün Bilgileri
+Yoluyla Gösterilmesi Hakkında Yönetmelikte yer alan tanımlara ek olarak
+aşağıdaki tanımlar geçerlidir:
+a) AB: Avrupa Birliğini,
+b) Bakanlık: Bilim, Sanayi ve Teknoloji
+Bakanlığını,
+c) Biyokütle: Ürünlerin, atıkların ve tarım
+(bitkisel ve hayvani maddeler dâhil), balıkçılık ve su ürünleri dâhil orman
+ve ilgili sanayi süreçlerinden kalan biyolojik esaslı kalıntıların
+biyolojik olarak ayrıştırılabilir kısımlarını ve bunların yanında sanayi ve
+kentsel atıkların biyolojik olarak ayrıştırılabilen kısımlarını,
+ç) Biyokütle yakıt: Biyokütleden üretilen gaz veya
+sıvı yakıtı,
+d) Depolama hacmi (V): Bir sıcak su depolama
+tankının litre olarak nominal hacmini,
+e) Durma kaybı (S): Belli bir su ve ortam
+sıcaklıklarında sıcak su tankından kaybolan ve W ile belirtilen enerjiyi,
+f) Fosil yakıt: Fosil kaynaklı gaz veya sıvı
+yakıtı,
+g) Güneş enerjisi cihazı: Piyasaya ayrı olarak arz
+edilen; sadece bir güneş enerjisi sistemini, bir güneş kolektörünü, güneş
+enerjisi sıcak su depolama tankını veya kolektör çevrimindeki bir pompayı,
+ğ) Komisyon: Avrupa Komisyonunu,
+h) Nominal ısıl güç: Bir su ısıtıcısının, standart
+şartlarda su ısıtırken beyan edilen ve kW olarak ifade edilen ısıl gücünü,
+ı) Isı üreteci: Fosil yakıt ve/veya biyokütle
+yakıtların yanması, elektrik rezistanslı ısıtıcı elemanların Joule etkisinin
+kullanılması ya da ortam ısısının bir hava kaynağından, su kaynağından veya
+yeraltı kaynağından ve/veya atık ısıdan alınması süreçlerinden bir veya
+birden fazlasının kullanılması sayesinde ısı üreten bir ısıtıcının parçasını,
+i) Isı pompası su ısıtıcısı: Isı üretmek için ortam
+ısısını bir hava kaynağından, su kaynağından veya yeraltı kaynağından
+ve/veya atık ısıdan alan su ısıtıcısını,
+j) Sadece güneş enerjisi sistemi: Piyasaya tek bir
+ünite olarak arz edilen; üzerinde bir veya daha fazla yedek daldırma
+ısıtıcısı dışında başka herhangi bir ısı üreteci bulunmayan; bir veya daha
+fazla güneş kolektörü, güneş enerjisi sıcak su tankı ve muhtemelen kolektör
+devresinde ve diğer bölümlerinde pompalar bulunan bir cihazı,
+k) Ses gücü seviyesi (LWA): İçeride
+ve/veya dışarıda dB olarak belirtilen A-ağırlıklı ses gücü seviyesini,
+l) Sıcak su tankı: Üzerinde bir veya daha fazla
+yedek daldırma ısıtıcısı dışında başka herhangi bir ısı üreteci bulunmayan,
+ilave donanımı da dâhil olmak üzere, su ve/veya mahal ısıtması maksadıyla
+sıcak suyu depolayan bir kabı,
+m) Su ısıtıcısı: Harici bir içme veya kullanım suyu
+şebekesine bağlı, verilen aralıklar arasında belirlenen sıcaklık
+seviyesinde, miktarda ve akış oranında sıcak içme veya kullanma suyu temin
+etmek için ısı üreten ve transfer eden, bir veya daha fazla ısı üreteci
+olan bir cihazı,
+n) Standart şartlar: Su ısıtıcılarının nominal ısıl
+güçlerinin, su ısıtma enerji verimliliklerinin ve ses gücü seviyelerinin
+tespiti ile sıcak su tanklarının durma kayıplarının tespiti için çalışma
+şartlarını,
+o) Su ısıtıcısı ve güneş enerjisi cihazı paketi:
+İçinde bir veya daha fazla su ısıtıcısı ve bir veya daha fazla güneş
+enerjisi cihazı ile kombinasyon halinde son kullanıcıya önerilen bir
+paketi,
+ö) Su ısıtma enerji verimliliği (ηwh):
+Bir su ısıtıcısı veya bir su ısıtıcısı ve güneş enerjisi cihazı paketi
+tarafından karşılanan faydalı enerjiyle bu enerjinin üretilmesi için
+gereken enerji arasındaki yüzde (%) ile belirtilen oranı,
+p) Yedek daldırma ısıtıcısı: Sıcak su depolama
+tankının bir parçası olan ve sadece harici kaynak kesildiğinde (bakım
+dönemleri dâhil) veya arızalandığında veya güneş enerjisi sıcak su depolama
+tankının bir parçası olan ve güneş enerjisi ısı kaynağının gereken konforu
+sağlamak için yeterli olmadığı durumlarda ısı üreten Joule etkili bir
+elektrik rezistans cihazını,
+ifade eder.
+(2) İlave tanımlar Ek-I’de yer almaktadır.
+Tedarikçilerin
+yükümlülükleri ve zaman çizelgesi
+MADDE 5 – (1) Bu Tebliğin yürürlüğe girdiği tarihten
+itibaren, su ısıtıcısı ve güneş enerjisi cihazı paketi halinde olanlar
+dâhil olmak üzere su ısıtıcılarını piyasaya arz eden ve/veya hizmete sunan
+tedarikçiler aşağıdaki hususları sağlar:
+a) Ek-II’nin 1 inci maddesinde belirtilen su ısıtma
+enerji verimliliği sınıflarına uygun her bir su ısıtıcısı için Ek-III’ün
+1.1 inci hükmünde biçimi ve içeriği belirtilen bir etiket bulundurulur. Isı
+pompası su ısıtıcıları için etiket en azından ısı üretecinin paketinde
+bulundurulur. Su ısıtıcısı ve güneş enerjisi cihazı paketlerinde
+kullanılacak su ısıtıcıları için ise Ek-III’ün 3 üncü maddesinde biçimi ve
+içeriği belirtilen ikinci bir etiket her su ısıtıcısı için bulundurulur.
+b) Her su ısıtıcısı için Ek-IV’ün 1 inci maddesinde
+belirtildiği şekilde bir ürün bilgi formu bulundurulur. Isı pompası su
+ısıtıcıları için, ürün bilgi formu en azından ısı üreteci için
+bulundurulur. Su ısıtıcısı ve güneş enerjisi cihazı paketlerinde
+kullanılacak su ısıtıcıları için ise Ek-IV’ün 4 üncü maddesinde belirtilen
+bilgi formatı ve içeriğini karşılayan ikinci bir ürün bilgi formu
+bulundurulur.
+c) Talep edilmesi halinde, Ek-V’in 1 inci
+maddesinde belirtilen teknik dosya Bakanlığa ve Komisyona sunulur.
+ç) Belli bir su ısıtıcısı modeliyle ilgili olan ve
+söz konusu modele ait enerji veya fiyat bilgilerini içeren herhangi bir
+reklamda, bu model için ortalama iklim şartları altındaki su ısıtma enerji
+verimliliği sınıfı belirtilir.
+d) Belli bir su ısıtıcısı modeliyle ilgili olan ve
+söz konusu modelin özel teknik parametrelerini tanıtan herhangi bir teknik
+promosyon materyalinde, bu model için ortalama iklim şartları altındaki su
+ısıtma enerji verimliliği sınıfı belirtilir.
+e) Ek-III’ün 1.1. maddesinde biçimi ve içeriği
+belirtilen bir elektronik etiket, Ek-II’nin 1 inci maddesinde belirtilen su
+ısıtma enerji verimliliği sınıflarına uygun her bir su ısıtıcı modeline
+yönelik olarak satıcılar için hazır hale getirilir.
+f) Ek-IV’ün 1 inci maddesinde belirtilen bir
+elektronik ürün fişi, her bir su ısıtıcı modeline yönelik olarak satıcılar
+için hazır hale getirilir. Isı pompası su ısıtıcı modelleri için ise
+elektronik ürün fişi, en azından ısı üreticisine yönelik olarak satıcılar
+için hazır hale getirilir.
+(2) Bu Tebliğin yürürlüğe girdiği tarihten
+itibaren, sıcak su depolama tanklarını piyasaya arz eden ve/veya hizmete
+sunan tedarikçiler aşağıdaki hususları sağlar:
+a) Ek-II’nin 2 nci maddesinde belirtilen enerji
+verimliliği sınıflarına uygun her bir sıcak su depolama tankı için
+Ek-III’ün 2.1 inci maddesinde biçimi ve içeriği belirtilen bir etiket
+bulundurulur.
+b) Ek-IV’ün 2 nci maddesinde belirtildiği şekilde
+bir ürün bilgi formu bulundurulur.
+c) Talep edilmesi halinde, Ek-V’in 2 nci maddesinde
+belirtilen teknik dosya Bakanlığa ve Komisyona sunulur.
+ç) Belli bir sıcak su depolama tankı modeliyle
+ilgili olan ve söz konusu modele ait enerji veya fiyat bilgilerini içeren
+herhangi bir reklamda, bu model için enerji verimliliği sınıfı belirtilir.
+d) Belli bir sıcak su depolama tankı modeliyle
+ilgili olan ve söz konusu modelin özel teknik parametrelerini tanıtan
+herhangi bir teknik promosyon materyalinde, bu model için enerji
+verimliliği sınıfı belirtilir.
+e) Ek-III’ün 2.1 inci maddesinde biçimi ve içeriği
+gösterilen bir elektronik etiket,
+Ek-II’nin 2 nci maddesinde belirtilen enerji verimliliği sınıflarına
+uygun olarak, her bir sıcak su depolama tankı modeline yönelik olarak
+satıcılar için hazır hale getirilir.
+f) Ek-IV’ün 2 nci maddesinde gösterilen bir
+elektronik ürün fişi her bir sıcak su depolama tankı modeline yönelik
+olarak satıcılar için hazır hale getirilir.
+(3) Bu Tebliğin yürürlüğe girdiği tarihten
+itibaren, güneş enerjisi cihazlarını piyasaya arz eden ve/veya hizmete
+sunan tedarikçiler aşağıdaki hususları sağlar:
+a) Ek-IV’ün 3 üncü maddesinde belirtildiği şekilde
+bir ürün bilgi formu bulundurulur.
+b) Talep edilmesi halinde, Ek-V’in 3 üncü
+maddesinde belirtilen teknik dosya Bakanlığa ve Komisyona sunulur.
+c) Ek-IV’ün 3 üncü maddesinde belirtilen bir
+elektronik ürün fişi, her bir güneş enerjisi cihazı modeline yönelik olarak
+satıcılar için hazır hale getirilir.
+(4) Bu Tebliğin yürürlüğe girdiği tarihten
+itibaren, su ısıtıcısı ve güneş enerjisi cihazı paketlerini piyasaya arz
+eden ve/veya hizmete sunan tedarikçiler aşağıdaki hususları sağlar:
+a) Ek-II’nin 1 inci maddesinde belirtilen su ısıtma
+enerji verimliliği sınıflarını karşılayan her su ısıtıcısı ve güneş
+enerjisi cihazı paketi için Ek-III’ün 3 üncü maddesinde belirtilen şekil ve
+içeriğe uygun bir etiket bulundurulur.
+b) Her su ısıtıcısı ve güneş enerjisi cihazı paketi
+için Ek-IV’ün 4 üncü maddesinde belirtildiği şekilde bir ürün bilgi formu
+bulundurulur.
+c) Talep edilmesi halinde, Ek-V’in 4 üncü maddesinde
+belirtilen teknik dosya Bakanlığa ve Komisyona sunulur.
+ç) Belli bir su ısıtıcısı ve güneş enerjisi cihazı
+paketi modeliyle ilgili olan ve söz konusu modele ait enerji veya fiyat
+bilgilerini içeren herhangi bir reklamda, bu model için ortalama iklim
+şartları altındaki su ısıtma enerji verimliliği sınıfı belirtilir.
+d) Belli bir su ısıtıcısı ve güneş enerjisi cihazı
+paketi modeliyle ilgili olan ve söz konusu modelin özel teknik
+parametrelerini tanıtan herhangi bir teknik promosyon materyalinde, bu
+model için ortalama iklim şartları altındaki su ısıtma enerji verimliliği
+sınıfı belirtilir.
+e) Ek-III’ün 3 üncü maddesinde biçimi ve içeriği
+belirtilen bir elektronik etiket, Ek-II’nin 1 inci maddesinde belirtilen su
+ısıtma enerji verimliliği sınıflarına uygun, su ısıtıcı ve güneş enerjisi
+cihazı paketi içeren her bir modele yönelik olarak satıcılar için hazır
+hale getirilir.
+f) Ek-IV’ün 4 üncü maddesinde belirtilen bir
+elektronik ürün fişi, su ısıtıcı ve güneş enerjisi cihazı paketi içeren her
+bir modele yönelik olarak satıcılar için hazır hale getirilir.
+Satıcıların
+sorumlulukları
+MADDE 6 – (1) Su ısıtıcısı satıcıları;
+a) Satış noktasındaki her bir su ısıtıcısında,
+Ek-III’ün 1 inci maddesinde belirtildiği gibi 5 inci maddeye uygun olarak
+tedarikçi tarafından temin edilen etiketin cihazın dış ön yüzünde açıkça
+görülebilir şekilde bulunmasını,
+b) Teklifin internet üzerinden yapıldığı, Ek-X’daki
+hükümlerin uygulandığı durumlar hariç olmak üzere, su ısıtıcısının, nihai
+kullanıcının bu ürünü görmesinin beklenemeyeceği yerlerde satışa,
+kiralamaya veya taksitli satışa sunulması durumunda, tedarikçiler
+tarafından Ek-VI’nın 1 inci maddesine uyumlu olarak tedarikçiler tarafından
+sağlanan bilgilerle birlikte pazarlanmasını,
+c) Belli bir su ısıtıcısı modeliyle ilgili olan ve
+söz konusu modele ait enerji veya fiyat bilgilerini içeren herhangi bir
+reklamda, bu model için ortalama iklim şartları altındaki su ısıtma enerji
+verimliliği sınıfının da belirtilmesini,
+ç) Belli bir su ısıtıcısı modeliyle ilgili olan ve
+söz konusu modelin özel teknik parametrelerini tanıtan herhangi bir teknik
+promosyon materyalinde, bu model için ortalama iklim şartları altındaki su
+ısıtma enerji verimliliği sınıfının da beyan edilmesini,
+sağlar.
+(2) Sıcak su depolama tankı satıcıları;
+a) Satış noktasındaki her bir sıcak su depolama
+tankında, Ek-III’ün 2 nci maddesinde belirtildiği gibi 5 inci maddeye uygun
+olarak tedarikçiler tarafından temin edilen etiketin cihazın dış ön yüzünde
+açıkça görülebilir şekilde bulunmasını,
+b) Teklifin internet üzerinden yapıldığı, Ek-X’daki
+hükümlerin uygulandığı durumlar hariç olmak üzere, sıcak su depolama
+tankının, nihai kullanıcının bu ürünü görmesinin beklenemeyeceği yerlerde
+satışa, kiralamaya veya taksitli satışa sunulması durumunda, tedarikçiler
+tarafından Ek-VI’nın 2 nci maddesine uyumlu olarak tedarikçiler tarafından
+sağlanan bilgilerle birlikte pazarlanmasını,
+c) Belli bir sıcak su tankı modeliyle ilgili olan
+ve söz konusu modele ait enerji veya fiyat bilgilerini içeren herhangi bir
+reklamda, bu model için enerji verimliliği sınıfının da belirtilmesini,
+ç) Belli bir sıcak su tankı modeliyle ilgili olan
+ve söz konusu modelin özel teknik parametrelerini tanıtan herhangi bir
+teknik promosyon materyalinde, bu model için enerji verimliliği sınıfının
+da beyan edilmesini,
+sağlar.
+(3) Su ısıtıcısı ve güneş enerjisi cihazı paketi
+satıcıları, 5 inci maddeye uygun olarak tedarikçiler tarafından temin
+edilen etiketleri ve bilgi formlarını esas alarak;
+a) Belli bir su ısıtıcısı ve güneş enerjisi cihazı
+paketi için yapılacak herhangi bir teklifin bu pakete ait ortalama, soğuk
+veya sıcak iklim şartlarındaki su ısıtma enerji verimliliğini ve su ısıtma
+enerji verimliliği sınıfını içermesini, mümkün ise bunu Ek-III’ün 3 üncü
+hükmünde belirtilen paket üzerindeki etiketin gösterilmesi ve Ek-IV’ün 4
+üncü hükmünde belirtilen paketin özelliklerine göre usulüne uygun olarak
+doldurulmuş ürün bilgi formunun sunulması ile gerçekleştirilmesini,
+b) Teklifin internet üzerinden yapıldığı, Ek-X’daki
+hükümlerin uygulandığı durumlar hariç olmak üzere, su ısıtıcısı ve güneş
+enerjisi cihazı paketinin, nihai kullanıcının bu ürünü görmesinin
+beklenemeyeceği yerlerde satışa, kiralamaya veya taksitli satışa sunulması
+durumunda Ek-VI’nın 3 üncü maddesinde belirtilen bilgilerle birlikte pazarlanmasını,
+c) Belli bir su ısıtıcısı ve güneş enerjisi
+modeliyle ilgili olan ve söz konusu modele ait enerji veya fiyat bilgilerini
+içeren herhangi bir reklamda, bu model için ortalama iklim şartları
+altındaki su ısıtma enerji verimliliği sınıfının da belirtilmesini,
+ç) Belli bir su ısıtıcısı ve güneş enerjisi cihazı
+paketi modeliyle ilgili olan ve söz konusu modelin özel teknik
+parametrelerini tanıtan herhangi bir teknik promosyon materyalinde, bu
+model için ortalama iklim şartları altındaki su ısıtma enerji verimliliği
+sınıfının da beyan edilmesini,
+sağlar.
+Ölçüm ve
+hesaplama yöntemleri
+MADDE 7 – (1) 5 inci ve 6 ncı maddeler gereğince sağlanan
+bilgi, Ek-VII ve Ek-VIII’de belirtildiği şekliyle kabul görmüş mevcut
+teknolojiye uygun ölçüm ve hesaplama yöntemleri dikkate alınmak suretiyle,
+güvenilir, doğru ve tekrarlanabilir ölçüm ve hesaplama yöntemleri kullanılarak
+temin edilir.
+Piyasa
+gözetimi ve denetimi
+MADDE 8 – (1) Bakanlık, su ısıtıcıların beyan edilen su
+ısıtma enerji verimliliği sınıfının, su ısıtma enerji verimliliğinin,
+yıllık enerji tüketiminin ve ses gücü seviyesinin uygunluğunu ve ayrıca
+sıcak su tanklarının beyan edilen enerji verimliliği sınıfının ve durma
+kayıplarının uygunluğunu değerlendirirken Ek-IX’da belirtilen prosedürü
+uygular.
+Avrupa
+Birliği mevzuatına uyum
+MADDE 9 – (1) Bu Tebliğ; AB/518/2014 ve AB/2017/254 sayılı
+Komisyon Tüzükleri uyarınca değiştirilmiş olan Su Isıtıcıları, Sıcak Su
+Depolama Tankları ve Su Isıtıcısı ve Güneş Enerjisi Cihazı Paketlerinin
+Enerji Etiketlenmesine Dair AB/812/2013 sayılı Komisyon Tüzüğü esas
+alınarak AB mevzuatına uyum çerçevesinde hazırlanmıştır.
+Yürürlük
+MADDE 10 – (1) Bu Tebliğ 21/4/2018 tarihinde yürürlüğe girer.
+Yürütme
+MADDE 11 – (1) Bu Tebliğ hükümlerini Bilim, Sanayi ve
+Teknoloji Bakanı yürütür.
+Ekleri için tıklayınız.
