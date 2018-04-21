@@ -1,0 +1,216 @@
+28 Mart 2018 ÇARŞAMBA
+Resmî Gazete
+Sayı : 30374
+TEBLİĞ
+Bilim, Sanayi ve Teknoloji Bakanlığından:
+MAHAL ISITICILARI VE KOMBİNE ISITICILAR İLE İLGİLİ
+ÇEVREYE
+DUYARLI TASARIM GEREKLERİNE DAİR TEBLİĞ (SGM:
+2018/3)
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, 23/6/2010 tarihli ve
+2010/643 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Enerji ile
+İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin
+uygulanmasına yönelik olarak, mahal ısıtıcıları ve kombine ısıtıcıların
+piyasaya arz edilmesi ve/veya hizmete sunulması ile ilgili çevreye duyarlı
+tasarım gereklerini belirlemektir.
+Kapsam
+MADDE 2 – (1) Bu Tebliğ; Mahal Isıtıcıları, Kombine
+Isıtıcılar, Mahal Isıtıcısı, Sıcaklık Kontrolü ve Güneş Enerjisi Cihazı
+Paketleri ve Kombine Isıtıcı, Sıcaklık Kontrolü ve Güneş Enerjisi Cihazı
+Paketlerinin Enerji Etiketlemesine Dair Tebliğ (SGM: 2018/1)’de tanımlı
+olan,
+a) Nominal ısıl güçleri 400 kW’a eşit ve/veya daha
+az olan mahal ısıtıcıları ve kombine ısıtıcıların,
+b) Mahal ısıtıcısı, sıcaklık kontrolü ve güneş
+enerjisi cihazı paketleri veya kombine ısıtıcı, sıcaklık kontrolü ve güneş
+enerjisi cihazı paketlerinin içerisinde entegre halde olan mahal
+ısıtıcıların ve kombine ısıtıcıların,
+piyasaya arz edilmesi ve/veya hizmete sunulmasına
+ilişkin hükümleri kapsar.
+(2) Bu Tebliğ aşağıda belirtilen ürünlere
+uygulanmaz:
+a) Ağırlıklı olarak biyokütleden üretilmiş gaz veya
+sıvı yakıtı kullanmak üzere özel olarak tasarlanmış ısıtıcılara.
+b) Katı yakıt kullanan ısıtıcılara.
+c) Endüstriyel emisyonlar kapsamındaki ısıtıcılar.
+ç) Sadece sıcak içecek veya kullanma suyu sağlamak
+amacıyla ısı üreten ısıtıcılara.
+d) Buhar veya hava gibi gaz fazındaki ısı transfer
+ortamını ısıtmak ve dağıtmak için kullanılan ısıtıcılara.
+e) Maksimum elektrik güçleri 50 kW veya üstü olan
+kojenerasyon mahal ısıtıcılarına.
+f) Özdeş ısı üreteçlerini ve özdeş ısıtıcı
+gövdelerini yenilemek amacıyla, 1/1/2019 tarihinden önce piyasaya arz
+edilmiş ısıtıcılar için tasarlanmış ısı üreteçlerine ve bu tür ısı
+üreteçleri ile donatılmış ısıtıcı gövdelerine (değiştirilen yeni üründe
+veya ambalajında bunun hangi ısıtıcı için tasarlandığı açıkça belirtilir).
+Dayanak
+MADDE 3 – (1) Bu Tebliğ; 29/6/2001 tarihli ve 4703 sayılı
+Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanuna
+ve 23/6/2010 tarihli ve 2010/643 sayılı Bakanlar Kurulu Kararı ile
+yürürlüğe konulan Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına
+İlişkin Yönetmeliğe dayanılarak hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 4 – (1) Bu Tebliğin uygulanması bakımından Enerji ile
+İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmelikte yer alan
+tanımlara ek olarak;
+a) AB: Avrupa Birliğini,
+b) Bakanlık: Bilim, Sanayi ve Teknoloji
+Bakanlığını,
+c) Biyokütle: Ürünlerin, atıkların ve tarım
+(bitkisel ve hayvani maddeler dâhil), balıkçılık ve su ürünleri dâhil orman
+ve ilgili sanayi süreçlerinden kalan biyolojik esaslı kalıntıların biyolojik
+olarak ayrıştırılabilir kısımları ve bunların yanında sanayi ve kentsel
+atıkların biyolojik olarak ayrıştırılabilen kısımlarını,
+ç) Biyokütle yakıt: Biyokütleden üretilen gaz veya
+sıvı yakıtı,
+d) Dönüşüm katsayısı (CC): Değeri 2,5’e eşit olan
+katsayıyı,
+e) Ek ısıtıcı: Öncelikli ısıtıcının sahip olduğu
+nominal ısıl gücün üzerinde bir ısı talebinin olması durumunda ısı üreten
+öncelikli olmayan ısıtıcıyı,
+f) Fosil yakıt: Fosil kaynaklı gaz veya sıvı
+yakıtı,
+g) Isı pompası kombine ısıtıcısı: İstenilen aralıklar
+boyunca belirli sıcaklık seviyesinde, miktarda ve debide sıcak içme veya
+kullanma suyu temini için de ısı sağlamak amacıyla tasarlanan ve harici bir
+içme veya kullanma suyu kaynağına bağlanan bir ısı pompası mahal
+ısıtıcısını,
+ğ) Isı pompası mahal ısıtıcısı: Isı üretmek için
+ortam ısısını bir hava kaynağından, su kaynağından veya yeraltı kaynağından
+ve/veya atık ısıdan alan su ısıtıcısını (Bir ısı pompası mahal ısıtıcısı,
+elektrik dirençli ısıtma elemanların Joule etkisini veya fosil ve/veya bio-kütle
+yakıtlardaki yanmayı kullanan bir veya daha fazla ek ısıtıcı ile
+donatılabilir),
+h) Isı üreteci: Fosil yakıt ve/veya biyokütle
+yakıtların yanması, elektrik dirençli ısıtma elemanlarında Joule etkisinin
+kullanımı, ortam ısısının bir hava kaynağından, su kaynağından veya yeraltı
+kaynağından ve/veya atık ısıdan alınması süreçlerinden bir veya birden
+fazlasının kullanılması sayesinde ısı üreten bir ısıtıcının parçasını (Bir
+ısıtıcı için tasarlanmış bir ısı üreteci ve böyle bir ısı üreteci ile
+donatılmış bir ısıtıcı gövdesi de ısıtıcı olarak kabul edilir),
+ı) Isıtıcı: Mahal ısıtıcısı veya kombine ısıtıcıyı,
+i) Isıtıcı gövdesi: Bir ısıtıcının ısı üreteci
+takılması için tasarlanmış kısmını,
+j Kojenerasyon mahal ısıtıcısı: Tek bir süreçte eş
+zamanlı olarak ısı ve elektrik üreten mahal ısıtıcısını,
+k) Kombine ısıtıcı: İstenilen aralıklar boyunca
+belirli sıcaklık seviyesinde, miktarda ve debide sıcak içme veya kullanma
+suyu temini için de ısı sağlamak amacıyla tasarlanan ve harici bir içme
+veya kullanma suyu kaynağına bağlanan mahal ısıtıcısını,
+l) Kombine ısıtıcı elektrikli kazan: Isıyı sadece
+elektrik dirençli ısıtma elemanlarının Joule etkisini kullanmasıyla üreten
+kombine ısıtıcı kazanı,
+m) Kombine ısıtıcı kazan: İstenilen aralıklar
+boyunca belirli sıcaklık seviyesinde, miktarda ve debide sıcak içme veya
+kullanma suyu temini için de ısı sağlamak amacıyla tasarlanan ve harici bir
+içme veya kullanma suyu kaynağına bağlanan mahal ısıtıcı kazanı,
+n) Komisyon: Avrupa Komisyonunu,
+o) Mahal ısıtıcısı: Bir bina, konut veya oda gibi
+kapalı bir alanı istenilen iç ortam sıcaklığına ulaştırmak için kullanılan
+su esaslı merkezi ısıtma sistemine ısı temin eden ve bir veya birden fazla
+ısı üreteci ile donatılmış cihazı,
+ö) Mahal ısıtıcı elektrikli kazan: Isıyı sadece
+elektrik dirençli ısıtma elemanlarının Joule etkisini kullanmasıyla üreten
+mahal ısıtıcı kazanı,
+p) Mahal ısıtıcı kazan: Fosil yakıtların ve/veya
+biyokütle yakıtların yanması ve/veya elektrik dirençli ısıtma elemanlarının
+Joule etkisini kullanması ile ısı üreten bir mahal ısıtıcısını,
+r) Mevsimsel mahal ısıtması enerji verimliliği (ηs):
+Belirli bir ısıtma sezonunda bir ısıtıcı tarafından karşılanan mahal
+ısıtması talebiyle bu talebi karşılamak için gereken yıllık enerji tüketimi
+arasındaki yüzde (%) ile belirtilen oranı,
+s) Nominal ısıl güç (Prated): Bir ısıtıcının mahal
+ısıtması sırasında ve eğer mümkün ise standart nominal şartlarda su
+ısıtırken, beyan edilen ve kW olarak ifade edilen ısıl gücünü; ısı pompalı
+mahal ısıtıcıları ve ısı pompalı kombine ısıtıcılar için nominal ısıl gücü
+belirleyen standart nominal şartları (Ek-III’ün Tablo 4’ünde verilmiş olan
+referans tasarım şartları),
+ş) Ses gücü seviyesi (LWA): İçeride ve/veya dışarıda dB
+olarak belirtilen A-ağırlıklı ses gücü seviyesini,
+t) Standart nominal şartlar: Isıtıcıların nominal
+ısıl güçlerinin, mevsimsel mahal ısıtması enerji verimliklerinin, su ısıtma
+enerji verimliliklerinin, ses gücü seviyelerinin ve azot oksit
+emisyonlarının tespiti için ortalama iklim şartları altındaki çalışma
+şartlarını,
+u) Su esaslı merkezi ısıtma sistemi: Merkezi olarak
+üretilen ısıyı binanın veya bunun belirli bölgelerindeki mahallerin
+ısıtılması için ısı yayıcı cihazlara dağıtmak amacıyla suyu ısı transfer
+aracı olarak kullanan sistemi,
+ü) Su ısıtma enerji verimliliği (ηwh): Bir
+kombine ısıtıcı tarafından sağlanan içme veya kullanma suyundaki faydalı
+enerjiyle bu enerjinin üretilmesi için gereken enerji arasındaki yüzde (%) ile
+ifade edilen oranı,
+ifade eder.
+(2) Ek-II ve Ek-V arası konularla ilgili olarak
+ilave tanımlar Ek-I’de yer almaktadır.
+Çevreye
+duyarlı tasarım gerekleri ve zaman çizelgesi
+MADDE 5 – (1) Bu Tebliğ kapsamına giren ısıtıcıların çevreye
+duyarlı tasarım gerekleri Ek-II’de belirtilmiştir.
+(2) Her bir çevreye duyarlı tasarım gerekleri
+aşağıdaki zaman çizelgesine göre uygulanır:
+a) Bu Tebliğin yürürlüğe girdiği tarihten itibaren;
+1) Isıtıcılar için, Ek-II’nin 1 inci maddesinin (a)
+bendiyle, aynı ekin 3 üncü ve 5 inci maddelerinde belirtilen gerekler,
+2) Kombine ısıtıcılar için, Ek-II’nin 2 nci
+maddesinde belirtilen gerekler,
+sağlanır.
+b) 26/9/2019 tarihinden itibaren ısıtıcılar için,
+Ek-II’nin 4 üncü maddesinin (a) bendinde belirtilen gerekler sağlanır.
+(3) Çevreye duyarlı tasarım gereklerine uygunluğun
+ölçümü ve hesaplanmasına dair hususlar Ek-III’te belirtilen gereklere göre
+yapılır.
+Uygunluk
+değerlendirmesi
+MADDE 6 –
+(1) 5/6/2008 tarihli ve 26897
+sayılı Resmî Gazete’de yayımlanan Sıvı ve Gaz Yakıtlı Yeni Sıcak Su
+Kazanlarının Verimlilik Gereklerine Dair Yönetmelik (92/42/AT)’in 8 inci
+maddesinin ikinci fıkrası, 9 uncu maddesi ve Ek-III, Ek-IV ve Ek-V’indeki hükümler
+saklı kalmak kaydıyla, Enerji ile İlgili Ürünlerin Çevreye Duyarlı
+Tasarımına İlişkin Yönetmeliğin 10 uncu maddesinin ikinci fıkrasında
+belirtilen uygunluk değerlendirmesi işlemleri, aynı Yönetmeliğin Ek-IV’ünde
+belirtilen iç tasarım kontrolüne veya Ek-V’inde belirtilen uygunluk
+değerlendirmesine ilişkin yönetim sistemine göre yapılır.
+(2) Uygunluk değerlendirmesi amacıyla teknik
+dosyada, Ek-II’nin 5 inci maddesinin (b) bendinde belirtilen ürün bilgileri
+bulunur.
+Piyasa
+gözetimi amaçlı doğrulama prosedürü
+MADDE 7 – (1) Bakanlık, Ek-II’de belirtilen gereklere
+uygunluğu sağlamak için, Enerji ile İlgili Ürünlerin Çevreye Duyarlı
+Tasarımına İlişkin Yönetmeliğin 5 inci maddesinin ikinci fıkrasında
+belirtilen piyasa gözetimi kontrollerini gerçekleştirirken bu Tebliğin
+Ek-IV’ünde belirtilen doğrulama prosedürünü uygular.
+Karşılaştırmalı
+değerlendirmeler
+MADDE 8 – (1) Piyasada bulunan en yüksek performanslı
+ısıtıcılar için karşılaştırmalı değerlendirmeler Ek-V’te düzenlenmiştir.
+Avrupa
+Birliği mevzuatına uyum
+MADDE 9 – (1) Bu Tebliğ; (AB) 2016/2282 sayılı Komisyon
+Tüzüğü uyarınca değiştirilmiş olan Mahal Isıtıcıları ve Kombine Isıtıcılar
+ile İlgili Çevreye Duyarlı Tasarım Gereklerine Dair (AB) 813/2013 sayılı
+Komisyon Tüzüğü esas alınarak AB mevzuatına uyum çerçevesinde
+hazırlanmıştır.
+Zorunlu
+uygulamaya geçiş
+GEÇİCİ
+MADDE 1 – (1) 21/4/2018 tarihinden
+önce yurt içinde imal edilmiş ısıtıcılar için bu Tebliğ hükümleri aranmaz
+ve piyasaya arzları 1/1/2019 tarihine kadar engellenemez.
+(2) 21/4/2018 tarihinden önce serbest dolaşıma
+giriş işlemleri tamamlanmış ısıtıcılar için bu Tebliğ hükümleri aranmaz ve
+piyasaya arzları 1/1/2019 tarihine kadar engellenemez.
+Yürürlük
+MADDE 10
+– (1) Bu Tebliğ 21/4/2018
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 11
+– (1) Bu Tebliğ hükümlerini Bilim,
+Sanayi ve Teknoloji Bakanı yürütür.
+Ekleri için tıklayınız.
