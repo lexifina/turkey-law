@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24489",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MAHAL ISITICILARI VE KOMBİNE ISITICILAR İLE İLGİLİ ÇEVREYE DUYARLI TASARIM GEREKLERİNE DAİR TEBLİĞ (SGM: 2018/3)",
+  "number": "24489",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2018/24489",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24489&MevzuatTertip=5",
+  "source_sha256": "c73cf40e16e06b64e226dddd6afc6955135ef7c8feb3ae340eca8cf5be5c38b5",
+  "source_bytes": 29535,
+  "published": "2018-03-28",
+  "gazette": "30374",
+  "in_force": "2018-04-21",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 21/4/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 21/4/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1382,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24489-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
