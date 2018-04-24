@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "306",
+  "decision_date": "2018-04-24",
+  "source_id": 26896,
+  "chamber": "5",
+  "ilam_number": "336",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26896/",
+  "source_sha256": "28b645268a4a37023ef7b665e82e0080ca6b4397de6a5dfcac030e4bbfc728d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
