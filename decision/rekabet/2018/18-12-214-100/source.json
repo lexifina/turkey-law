@@ -1,0 +1,13 @@
+{
+  "number": "18-12/214-100",
+  "type": "Rekabet İhlali",
+  "decision_date": "2018-04-24",
+  "publication_date": "2018-07-06",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=87c86ca9-9602-4d04-ad2a-ec533f354dc4",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=352",
+  "pdf_sha256": "ca579bb929f9d80ad22032027b5ffc639b01cc73ccdaa3d36c06096fef06b090",
+  "pdf_bytes": "182312",
+  "pages": "9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
