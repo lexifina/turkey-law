@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7127",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Macaristan Hükümeti Arasında Güvenlik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-23.htm",
+  "source_sha256": "c62476efea999d1b733db60f721a9b778ff83125e19ad96cdcc705f3cb73b0ba",
+  "text_sha256": "b99f2da110ee74432093fc37608f99dd9eca54e0332c81da39ce9f0a3c7d0f96",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-23",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-23.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
