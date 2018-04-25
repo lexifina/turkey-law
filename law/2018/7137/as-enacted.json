@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7137",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ruanda Cumhuriyeti Hükümeti Arasında Kapsamlı İş Birliğine Dair Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-33.htm",
+  "source_sha256": "9115e8fac9d7c48265d0997f1e004c2e73f072a048e7482cc97e0b58d411394e",
+  "text_sha256": "bb1022af892f6bf929d63795045e12c436b94049d5368385b5b71380d00e8986",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-33",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-33.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
