@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7133",
+  "year": 2018,
+  "title": "Gözden Geçirilen Uluslararası Taşımacılıkta Hayvanların Korunmasına İlişkin Avrupa Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-29.htm",
+  "source_sha256": "d50a696f45d41ae11602af586666895ebdfdc2ecadc054b03548871993947160",
+  "text_sha256": "4abed72b858a3d572fa6bbe3f18e94a67399c06d2630ff93c29d9fb64e95096f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-29",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-29.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
