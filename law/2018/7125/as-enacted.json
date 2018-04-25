@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7125",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Gana Cumhuriyeti Hükümeti Arasında Başta Terörizm ve Örgütlü Suçlar Olmak Üzere Ağır Suçlarla Mücadelede İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-21.htm",
+  "source_sha256": "f0edef5789ffe00c71b2a3fabc55299c9f554c9238d7753ce85c3235a46a9d87",
+  "text_sha256": "c48f1305b8f1871704b3e1712aec69e299feeacdd16a85713eb68beb8d2d7546",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-21",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-21.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
