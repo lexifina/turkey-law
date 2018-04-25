@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7118",
+  "year": 2016,
+  "title": "Yükseköğretimde Yeterliklerin Tanınmasına İlişkin Asya-Pasifik Bölgesel Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-14.htm",
+  "source_sha256": "587828b9a7e54a6b3d8094873361bf2376bacee1515990177b06c50239a51c02",
+  "text_sha256": "ced5f556e89b3807e89bf902d9064bcc4b4254febfbe939723c3a386865ef16f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-14",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-14.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
