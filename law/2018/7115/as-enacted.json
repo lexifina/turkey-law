@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7115",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Lübnan Cumhuriyeti Hükümeti Arasında Tarımsal İş Birliği Konulu Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-11.htm",
+  "source_sha256": "0c8402c3958659ea7dff87b668f48208f84750eea58f8233eb495f3e1b884a59",
+  "text_sha256": "4bcda03458a432720135cdbab73be6b4252ed00640bfe97d2f5be8561f40dcbd",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
