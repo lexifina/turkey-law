@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7123",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Moğolistan Hükümeti Arasında Güvenlik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-19.htm",
+  "source_sha256": "4fa451857fb9f3d7723aa8df5c785301df9c5081a73b4e16dd3550e2a847d04d",
+  "text_sha256": "e85f27e1a2e523648ea4ae685b36c3f00a492453120b1c397f2136dbee11c650",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-19",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-19.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
