@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7122",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti Adına Jandarma Genel Komutanlığı ile Moğolistan Hükümeti Adına Moğolistan İç Kuvvetler Komutanlığı Arasında Eğitim ve Öğretim Alanında İş Birliğine İlişkin Protokolün Onaylanmasının Uygun Bu-lunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-18.htm",
+  "source_sha256": "b2c535dd9833bf43f74c3756c20a05af23b7276eee442deb4846ba294588fb81",
+  "text_sha256": "6df5e2a39c7a86383e26522a3c4c0fd532f3031f3fb1df65e9e5a4ef46ad513f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-18",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-18.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
