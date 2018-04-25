@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-04-25",
+  "issue": "30402",
+  "edition": "mükerrer 2",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7140 Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M2-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M2.htm",
+  "index_sha256": "98bcc6eb0d6cbd7353456f68e7d4ef40086e77dfbe086d00f0e94348b080aac4",
+  "index_header": "25 Nisan 2018 ... 30402 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M2.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
