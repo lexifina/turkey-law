@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7110",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bosna-Hersek Bakanlar Konseyi Arasında Bilim ve Teknolojide İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-6.htm",
+  "source_sha256": "660435b01080266a63968cd984fc9b618c3d4d5fb74ea8b00d6123f980d3603c",
+  "text_sha256": "f2d74fbb368bfcea2d62b9512cc1fd9cd2c6c9db567fc1174d95f99f5bcb87f4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
