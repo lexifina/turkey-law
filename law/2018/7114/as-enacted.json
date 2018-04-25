@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7114",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Tunus Cumhuriyeti Hükümeti Arasında Polis Eğitimi İş Birliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-10.htm",
+  "source_sha256": "ce90bdf197782a51fdf021f983752919a1f6b804deebfa395e9cac5b9b10d968",
+  "text_sha256": "e4bf65690f27be0c922b1c5a38f926630105336d3a04de83f26b979d77d14789",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
