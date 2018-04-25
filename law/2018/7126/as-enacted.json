@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7126",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti İçişleri Bakanlığı Jandarma Genel Komutanlığı ve Kazakistan Cumhuriyeti Milli Muhafız Birlikleri Genel Komutanlığı Personelinin Eğitim ve Öğretimi Alanında Türkiye Cumhuriyeti Hükümeti ile Kazakistan Cumhuriyeti Hükümeti Arasında Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-22.htm",
+  "source_sha256": "43bd7d5867bffa5f2dc6fed455af906a3e2f86a15d03463eda33af08e75d70ec",
+  "text_sha256": "c7b941bc57e0cac209cf7c0ee33712f3c7ee00a199185886240c609412ef7a5e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-22",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-22.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
