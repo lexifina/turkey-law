@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7120",
+  "year": 2016,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Cibuti Cumhuriyeti Hükümeti Arasında Savunma Sanayi İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-16.htm",
+  "source_sha256": "ef37b0da7b68ae7dbaced99a650e70bf3c84c9799e51d7e4c020e807f390bfc0",
+  "text_sha256": "e841f0655b2eb736e5eacce2955738d576e4ee1a583ce259c54f2f6a4e2e36e7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-16",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-16.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
