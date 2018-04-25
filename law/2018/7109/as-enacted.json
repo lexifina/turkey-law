@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7109",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bangladeş Halk Cumhuriyeti Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-5.htm",
+  "source_sha256": "c24d5733f1a12fb7c7411ab9fd63190bbfaae97af93a2215336c0f35568da3fa",
+  "text_sha256": "d45f0e094a569c4eb5c876b67b382f9e0828ddf9cc3fdccbff103fa6cfc42829",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
