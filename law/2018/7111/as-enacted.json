@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7111",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Çin Halk Cumhuriyeti Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşma ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-7.htm",
+  "source_sha256": "661429aaeabd8f9460246389d894a53a789efcd5000a318e25e8f8ec7c8f94b7",
+  "text_sha256": "82d31d21ff1b69081b2416381b0e4e10117558012612c5ee6295e1256d00e6bb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
