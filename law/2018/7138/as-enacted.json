@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7138",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kongo Cumhuriyeti Hükümeti Arasında Güvenlik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-34.htm",
+  "source_sha256": "27d7c3e57bbda91df77988d142fe475a73debd70dcd2bd54260f8033edfb071e",
+  "text_sha256": "86001b98939b66dcf2f347f75935beb81855c2eb9c6612d1b8b8d5d11092197f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-34",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-34.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
