@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44416",
+  "decision_date": "2018-04-25",
+  "source_id": 15428,
+  "chamber": "5",
+  "file_number": "42914",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15428/",
+  "source_sha256": "2bb595d562c7627ee6e340fdadccf87a70d309a244d9de2445482d9d66826d30",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
