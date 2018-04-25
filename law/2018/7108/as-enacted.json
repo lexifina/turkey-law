@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7108",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı Hükümeti Arasında Askerî İş Birliği Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-4.htm",
+  "source_sha256": "ce9c730bf18f47c1078d964e21c53311550e4aa7f84090c6a23888f00987a1b1",
+  "text_sha256": "3e866aa95843cd08a27df43bd13069d2ee6f7637fbe530f07e23e3023db42ac5",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
