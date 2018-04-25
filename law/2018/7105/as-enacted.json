@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7105",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti ile Afganistan İslam Cumhuriyeti Arasında Stratejik Ortaklık ve Dostluk Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-1.htm",
+  "source_sha256": "9af11a5035056497b9e10c7194871fa8484233da1816e1e5ef4a18e5ebba6aab",
+  "text_sha256": "2d07e40318a09642193a3a4657fc7ae584453c2117736f0c1b87a7ff101becdf",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
