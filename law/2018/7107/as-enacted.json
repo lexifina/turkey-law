@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7107",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı Hükümeti Arasında Savunma ile İlgili Gizlilik Dereceli Bilginin Korunması Konusunda Güvenlik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-3.htm",
+  "source_sha256": "468a5066b6acb3beeb508097d82b535e39e64faf677975168697be6365d2a9ff",
+  "text_sha256": "4a74368fc70cbd9a257f90d3f9c0be4a42b4a13d107a28caf5ec3874b1ee3fae",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
