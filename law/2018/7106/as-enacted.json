@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7106",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Uluslararası Göç Örgütü (IOM) Arasında Türkiye Cumhuriyeti Hükümeti ile Uluslararası Göç Örgütü Arasında Örgüt ve Ofisin Türkiyedeki Yasal Statüsü Ayrıcalıkları ve Bağışıklıklarına İlişkin Anlaşmayı Tadil Eden Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-2.htm",
+  "source_sha256": "5311059b542b40aa1a984763f0755b6e8c2275389cb20f766a69eccb51ae6dd5",
+  "text_sha256": "eed4f7d5e5031652a2df02a868f913cb183aa478e5433f45d1341b7eb3d3c6a4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
