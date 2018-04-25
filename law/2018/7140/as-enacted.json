@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7140",
+  "year": 2018,
+  "title": "Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 2",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M2-1.htm",
+  "source_sha256": "bdd65b94f82d85662e6841ebdf85fac8fa7aa5a297e3700563b31f72d4ce998e",
+  "text_sha256": "7b3a89ef1563f3c8c28b351f7b1fadc06e8608c0e7b157fa86664b1fc776b74f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m2-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M2-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
