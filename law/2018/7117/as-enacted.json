@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7117",
+  "year": 2018,
+  "title": "Balinacılığın Düzenlenmesine İlişkin Uluslararası Sözleşme ile Sözleşmeye Ait Protokole Katılmamızın Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-25",
+  "gazette_issue": "30402",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-13.htm",
+  "source_sha256": "f3196fae3ae75052ad92a701b435bce742e324e9c2e8bfc308c91cc979cf4017",
+  "text_sha256": "91c0d7c4080ed9024abb6ce4af550dd6033433402f2a67c52adb5912a447f379",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/25/30402-m1-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180425M1-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
