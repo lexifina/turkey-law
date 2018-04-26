@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/292",
+  "list_number": "292",
+  "decision_date": "2018-04-26",
+  "title": "Seçmenler tarafından aday gösterilecek Cumhurbaşkanı adaylığı için; seçilme yeterliliği, aday gösterilme, adayların görevden ayrılmalarına ve seçim sistemi ile uygulanmasına ilişkin usul ve esasların belirlenmesine ilişkin Yüksek Seçim Kurulunun 2018/292 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77555/2018-292.pdf",
+  "source_sha256": "f8ee02a673d61feb82576af77ffa2a3d15764b6737904c30119e4a9ed6942580",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 10,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-04-26",
+  "law_text_complete": false
+}
