@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/296",
+  "list_number": "296",
+  "decision_date": "2018-04-26",
+  "title": "Yurt Dışı Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir 140/II sayılı Genelgeye ilişkin Yüksek Seçim Kurulunun 2018/296 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77559/2018-296.pdf",
+  "source_sha256": "7fc9d991cafcedf208348f7b0de7b9f7dd979a0b9f47e814040363a0b5a8ee63",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 7,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-04-26",
+  "law_text_complete": false
+}
