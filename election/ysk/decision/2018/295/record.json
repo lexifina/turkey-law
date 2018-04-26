@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/295",
+  "list_number": "295",
+  "decision_date": "2018-04-26",
+  "title": "Seçmen Kütüğünün Güncelleştirilmesi Usul ve Esaslarını Gösterir 140/I sayılı Genelgeye ilişkin Yüksek Seçim Kurulunun 2018/295 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77557/2018-295.pdf",
+  "source_sha256": "31fb824daff6fdcb6bf158af7d7fd0632927e0bb43bc0a7f12e8e51e36b73be8",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 12,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-04-26",
+  "law_text_complete": false
+}
