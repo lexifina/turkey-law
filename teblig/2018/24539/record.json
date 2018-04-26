@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24539",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİMARLIK VE MÜHENDİSLİK HİZMET BEDELLERİNİN HESABINDA KULLANILACAK 2018 YILI YAPI YAKLAŞIK BİRİM MALİYETLERİ HAKKINDA TEBLİĞ",
+  "number": "24539",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2018/24539",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24539&MevzuatTertip=5",
+  "source_sha256": "2595f07fcf42ecc25795a19d15502d6a298f18d09ef0489db3e38e42c1fd3f61",
+  "source_bytes": 97246,
+  "published": "2018-04-26",
+  "gazette": "30403",
+  "in_force": "2018-04-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.04.2018); own commencement article: \"Bu Tebliğ 1/1/2018 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2018 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1133,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
