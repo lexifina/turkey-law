@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/290",
+  "list_number": "290",
+  "decision_date": "2018-04-26",
+  "title": "Siyasi partilerce aday gösterilecek Cumhurbaşkanı adaylığı için; seçilme yeterliliği, aday gösterilme, adayların görevden ayrılmalarına ve seçim sistemi ile uygulanmasına ilişkin usul ve esasların belirlenmesine ilişkin Yüksek Seçim Kurulunun 2018/290 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77551/2018-290.pdf",
+  "source_sha256": "933ac739abf29e2a5c5cd70ca3cc9fba1449d89ea978de558e14e2170292c901",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 9,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-04-26",
+  "law_text_complete": false
+}
