@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/308",
+  "list_number": "308",
+  "decision_date": "2018-04-27",
+  "title": "Bağımsız adayların listelerini vermelerinde usul ve esasların belirlenmesine ilişkin Yüksek Seçim Kurulunun 2018/308 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77572/2018-308.pdf",
+  "source_sha256": "8751a1d1380f8903663f0355169e230a81bdf84073a7d43f33310f26418ade99",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 6,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-04-27",
+  "law_text_complete": false
+}
