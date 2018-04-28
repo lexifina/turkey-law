@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-04-28",
+  "issue": "30405",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7139 Devlet Su İşleri Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun ile Bazı Kanunlarda ve Gıda, Tarım ve Hayvancılık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180428-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180428.htm",
+  "index_sha256": "f79d34a92d6955b95569a25335bbf913a30054d783bee414d0936cdba3c99055",
+  "index_header": "28 Nisan 2018 ... 30405 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180428.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
