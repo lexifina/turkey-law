@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "1435-29",
+  "decision_date": "2018-04-28",
+  "title": "20 Dağıtım Şirketinin Tarife Uygulama Usul ve Esaslarında Değişiklik Yapılması",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gBiAmzNlNuM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gBiAmzNlNuM="
+  ],
+  "source_sha256": "0f9900d2607cf7f4fe0584ce5420d1f26c46f37b94a7aaf4417ab8494d4ba52e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2018-04-28",
+  "law_text_complete": false
+}
