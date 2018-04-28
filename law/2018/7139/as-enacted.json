@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7139",
+  "year": 2018,
+  "title": "Devlet Su İşleri Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanun ile Bazı Kanunlarda ve Gıda, Tarım ve Hayvancılık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-04-28",
+  "gazette_issue": "30405",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180428-1.htm",
+  "source_sha256": "e53423648d236040a064e3984f38a61539d92d05b41753cd197b2ae491a1261a",
+  "text_sha256": "6f8c8412348a796bacd3b706e09fbb1a9898726680af4ab8791f9ba435c2d909",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/04/28/30405-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/04/20180428-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
