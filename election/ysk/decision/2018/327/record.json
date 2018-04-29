@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/327",
+  "list_number": "327",
+  "decision_date": "2018-04-29",
+  "title": "Siyasi parti milletvekili adaylarından istenilen Nüfus Kayıt Örneği, Öğrenim Belgesi, Adli Sicil Arşiv Kaydı Belgesi ile Askerlikle İlişiği Olmadığına Dair Belgelerin e-Devlet Kapısından (Barkodlu) alınabileceğine ilişkin Yüksek Seçim Kurulunun 2018/327 sayılı kararı,",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77579/2018-327.pdf",
+  "source_sha256": "a249f94f7236ca187818a44e4ce6630680c3cfdb5c52876a34fd40a4acfc7017",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-04-29",
+  "law_text_complete": false
+}
