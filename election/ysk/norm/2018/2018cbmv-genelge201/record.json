@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2018/2018cbmv-genelge201",
+  "list_number": "335",
+  "genelge_number": "201",
+  "decision_date": "2018-04-30",
+  "title": "Cumhurbaşkanı Seçiminde Cumhurbaşkanı Adaylarına Yapılacak Yardım ve Bağışlar ile Adayların Mal Bildirimine İlişkin Usul ve Esasları gösterir 201 sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/77595/2018CBMV-Genelge201.pdf",
+  "source_sha256": "854b764e97cce8f6e9ee56968b6c83a46315c1dbde53b3b1b84c2f79109aff3a",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 10,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-04-30",
+  "law_text_complete": false
+}
