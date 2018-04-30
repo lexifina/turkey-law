@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2018/2018cbmv-genelge200",
+  "list_number": "330",
+  "genelge_number": "200",
+  "decision_date": "2018-04-30",
+  "title": "Yurt Dışında Yaşayan Seçmenlerimizin Oy Kullanmaları Amacıyla İhtiyaç Duyulan Mal ve Hizmet Alımları ile Seçimlerle İlgili Yurt Dışındaki Diğer Harcamalarda Uygulanacak Usul ve Esasları gösterir 200 sayılı Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/77593/2018CBMV-Genelge200.pdf",
+  "source_sha256": "fdc27e72412ac06a19390faa1d9694704fca598915ebaceefc4e246633e4603a",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-04-30",
+  "law_text_complete": false
+}
