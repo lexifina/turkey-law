@@ -1,0 +1,29 @@
+{
+  "number": "200",
+  "date": "2018-04-30",
+  "source_id": 77593,
+  "source_url": "https://www.ysk.gov.tr/doc/genelge/dosya/77593/2018CBMV-Genelge200.pdf",
+  "source_sha256": "fdc27e72412ac06a19390faa1d9694704fca598915ebaceefc4e246633e4603a",
+  "history": "as-enacted",
+  "words": 1129,
+  "in_force_basis": "Official adopted general rule, PDF p. 4: bu Genelge Yüksek Seçim Kurulunun 30/04/2018 tarih ve 330 sayılı kararı ile 200 sayılı Genelge olarak kabul edilmiştir",
+  "catalogue_date": "2018-04-30",
+  "source_images": 0,
+  "decorative_images": 0,
+  "normative_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "attached_decision_numbers": [
+    "330"
+  ],
+  "adoption_dates": [],
+  "approval_dates": [
+    {
+      "page": 4,
+      "date": "2018-04-30",
+      "quote": "bu Genelge Yüksek Seçim Kurulunun 30/04/2018 tarih ve 330 sayılı kararı ile 200 sayılı Genelge olarak kabul edilmiştir"
+    }
+  ],
+  "explicit_effective_dates": [],
+  "date_kind": "rule-adoption"
+}
