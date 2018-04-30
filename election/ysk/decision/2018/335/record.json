@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/335",
+  "list_number": "335",
+  "decision_date": "2018-04-30",
+  "title": "Aday tarafından verilecek mal bildiriminin usul ve esasları, adaylar tarafından kullanılacak listelerin şekil, içerik ve tasdiki, makbuzların şekil ve içeriği, bastırılması, bağış ve yardımların alınması, kayda geçirilmesi, harcanması, harcanmayan ya da bağış sınırını aşan kısmın hazineye intikali ile adaylara yapılacak mali yardıma ilişkin diğer usul ve esasların belirlenmesine ilişkin Örnek 201 sayılı Genelgenin kabulüne ilişkin Yüksek Seçim Kurulunun 2018/335 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77591/2018-335.pdf",
+  "source_sha256": "5dffce7a9b30dfaa07ca4c3dffde42543299fce330891d9b49c80676d22306a4",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 13,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-04-30",
+  "law_text_complete": false
+}
