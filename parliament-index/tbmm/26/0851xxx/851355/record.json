@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 851355,
+  "assembly": "TBMM",
+  "term": 26,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "SEBAHATTİN KARAKELLE (ERZİNCAN)",
+  "summary": "Ve Erzincan Milletvekili Serkan Bayram'ın Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi (2/2311), Adalet ve Kalkınma Partisi Grup Başkanvekili Kayseri Milletvekili Mustafa Elitaş ve 5 Milletvekilinin Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi (2/2313), Malatya Milletvekili Öznur Çalık ve 3 Milletvekilinin Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi (2/2314) ve Yükseköğretim Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Tasarısı (1/943) (S. Sayısı: 556)",
+  "title": "Ve Erzincan Milletvekili Serkan Bayram'ın Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılması Hakkında Kanun Teklifi (2/2311), Adalet ve Kalkınma Partisi Grup Başkanvekili Kayseri Milletvekili Mustafa Elitaş ve 5 Milletvekilinin Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi (2/2313), Malatya Milletvekili Öznur Çalık ve 3 Milletvekilinin Yükseköğretim Kurumları Teşkilatı Kanununda Değişiklik Yapılmasına Dair Kanun Teklifi (2/2314) ve Yükseköğretim Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Tasarısı (1/943) (S. Sayısı: 556)",
+  "first_sitting_date": "2018-05-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 72,
+      "sitting": 94,
+      "sitting_date": "2018-05-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c072/tbmm26072094.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c072/tbmm26072fih.pdf",
+      "pages": [
+        "342:364",
+        "364:373",
+        "375:389",
+        "390:396",
+        "398:413",
+        "421:429"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=3&v_cilt="
+    },
+    {
+      "cilt": 72,
+      "sitting": 95,
+      "sitting_date": "2018-05-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c072/tbmm26072095.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c072/tbmm26072fih.pdf",
+      "pages": [
+        "509:517",
+        "518:542",
+        "544:550",
+        "552:553",
+        "554:566"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=3&v_cilt="
+    },
+    {
+      "cilt": 73,
+      "sitting": 96,
+      "sitting_date": "2018-05-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c073/tbmm26073096.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d26/c073/tbmm26073fih.pdf",
+      "pages": [
+        "123:126",
+        "148:150",
+        "151:161",
+        "163:165",
+        "165:173",
+        "176:186",
+        "189:191",
+        "192:197",
+        "199:209",
+        "210:221"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d26&v_yasama_yili=3&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=26&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "93077149c1609d0c4b55723509157259180b7183bf4a2a9b3f271cd2f99ac69c",
+  "in_force": "2018-05-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
