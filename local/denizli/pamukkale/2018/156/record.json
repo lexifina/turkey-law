@@ -1,0 +1,24 @@
+{
+  "number": "156",
+  "number_as_published": "2018/156",
+  "year": 2018,
+  "title": "council decision",
+  "decision_date": "2018-05-02",
+  "source": "https://www.pamukkale.bel.tr/y-190-pamukkale-belediye-meclisi-mayis-ayi-meclis-kararlari-ozeti",
+  "official_document": null,
+  "source_sha256": "641e1b28cc7c9a7dd5f6a7a38b0b5f42060288f811e4e9c0fa792dd0768a5c7f",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2018-05-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.05.2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.pamukkale.bel.tr/y-190-pamukkale-belediye-meclisi-mayis-ayi-meclis-kararlari-ozeti",
+  "listing_label": "Pamukkale Belediye Meclisi Mayıs Ayı Meclis Kararları Özeti",
+  "record_scope": "one council decision (published decision summary)"
+}
