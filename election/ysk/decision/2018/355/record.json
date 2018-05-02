@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/355",
+  "list_number": "355",
+  "decision_date": "2018-05-02",
+  "title": "Seçmenlerce aday gösterilecek Cumhurbaşkanı adaylığı için seçim kurulları önünde masa açılamayacağı, her partinin adayına ayrı bir memur verilmesi için personel görevlendirilmeyeceği, oy kullananların sayısını gösterir listenin aday ve temsilcisi dışında kimseye verilemeyeceğine ilişkin Yüksek Seçim Kurulunun 2018/355 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77617/2018-355.pdf",
+  "source_sha256": "f4943ebf112cd133c6e33f18d484a13f5de42adfedd0837ee52b07d7a1e36bbd",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-05-02",
+  "law_text_complete": false
+}
