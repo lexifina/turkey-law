@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/366",
+  "list_number": "366",
+  "decision_date": "2018-05-03",
+  "title": "Cumhurbaşkanı adaylığı kabul edilenlerin ilanına ilişkin Yüksek Seçim Kurulunun 2018/366 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77610/2018-366.pdf",
+  "source_sha256": "e34b78ff4f9a307833321bd462425482459194983b7de879520fe2191f838e3e",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-05-03",
+  "law_text_complete": false
+}
