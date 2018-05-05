@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Bakanlar Kurulu (text as published by Gelir İdaresi Başkanlığı)",
+  "document_type": "bkk",
+  "number": "2018/11674",
+  "source_id": 1219,
+  "date": "2018-05-05",
+  "title": "193 SAYILI GELİR VERGİSİ KANUNUNUN 23 ÜNCÜ MADDESİNİN BİRİNCİ FIKRASININ (16) NUMARALI BENDİ KAPSAMINDA İSTİSNA TUTARININ HESABINDA DİKKATE ALINACAK ORANIN TESPİTİ, 213 SAYILI VERGİ USUL KANUNUNUN GEÇİCİ 30 UNCU MADDESİ İLE 3065 SAYILI KATMA DEĞER VERGİSİ KANUNUNUN GEÇİCİ 39 UNCU MADDESİ KAPSAMINA GİREN VE SANAYİ SİCİL BELGESİNİ HAİZ MÜKELLEFLERCE MÜNHASIRAN İMALAT SANAYİİNDE KULLANILMAK ÜZERE İKTİSAP EDİLECEK MAKİNA VE TEÇHİZATIN BELİRLENMESİ, BAZI TAPU İŞLEMLERİNDEN ALINACAK HARÇ NİSPETİNİN YENİDEN BELİRLENMESİ İLE BAZI MALLARIN KATMA DEĞER VERGİSİ ORANLARININ VE ÖZEL TÜKETİM VERGİSİ TUTARLARININ YENİDEN TESPİTİ HAKKINDA KARAR",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/bkk/1219",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/bkk/list",
+  "source_listing": "evidence/list/2026-11-16/bkk-p000.json",
+  "source_listing_sha256": "0115a2aba38c42b02d469d5630afc69c1cb832f1e61d4de52d8503061ec6fc83",
+  "source_sha256": "d12d0bf474aaa480abd9b8654490aa89c001a4b95d65b5ed81647cb4368207ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
