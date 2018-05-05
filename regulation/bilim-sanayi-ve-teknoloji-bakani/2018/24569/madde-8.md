@@ -1,0 +1,4 @@
+Serbest dolaşım
+MADDE 8 – (1) Bu Yönetmeliğe uygun cihazların, bu Yönetmelik kapsamındaki hususlara ilişkin gerekçelerle piyasada bulundurulması ve hizmete sunulması yasaklanmaz, kısıtlanmaz veya engellenmez.
+(2) Bu Yönetmeliğe uygun donanımların, bu Yönetmelik kapsamındaki risklere ilişkin gerekçelerle piyasada bulundurulması yasaklanmaz, kısıtlanmaz veya engellenmez.
+(3) Tanıtımı yapılan ilgili cihazların veya donanımların bu Yönetmeliğe uygun olmadığını ve bunların uygun hale getirilinceye kadar satılamayacağını gözle görülür bir işaretin açıkça göstermesi kaydıyla, bu Yönetmeliğe uygun olmayan cihazların veya donanımların fuarlarda, sergilerde, tanıtım faaliyetlerinde veya benzeri etkinliklerde gösterilmesi engellenmez. Ancak bu tanıtım faaliyetleri boyunca insanların, evcil hayvanların ve eşyaların güvenliğini sağlamak için gerekli güvenlik önlemleri alınır.

@@ -1,0 +1,3 @@
+Bildirim başvurusu
+MADDE 28 – (1) Türkiye’de yerleşik uygunluk değerlendirme kuruluşu, onaylanmış kuruluş olarak görevlendirilmek üzere Bakanlığa başvuru yapar.
+(2) Onaylanmış kuruluş başvurusu ile birlikte, yetkin olduğunu ileri sürdüğü uygunluk değerlendirmesi faaliyetleri, uygunluk değerlendirmesi modülü veya modülleri ile cihaza/donanıma veya cihazlara/donanımlara ilişkin gerekli bilgiler ve ayrıca, uygunluk değerlendirme kuruluşunun 25 inci maddede düzenlenen gereklilikleri karşıladığını kanıtlayan ve 16/12/2011 tarihli ve 2011/2621 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Uygunluk Değerlendirme Kuruluşları ve Onaylanmış Kuruluşlar Yönetmeliğinin 4 üncü maddesinin yedinci fıkrası çerçevesinde düzenlenmiş bir akreditasyon belgesi sunulur.

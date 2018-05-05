@@ -1,0 +1,2 @@
+Gaz besleme koşulları
+MADDE 6 – (1) Bakanlık, bu Yönetmeliğin yayımlanmasından sonra, Türkiye’de kullanılan gaz türlerini ve gaz yakıtların mukabil besleme basınç bilgilerini Ek II uyarınca ilgili formu kullanarak Ekonomi Bakanlığı aracılığıyla Komisyona bildirir. Bunlarla ilgili olarak öngörülen değişikliklerin açıklanmasını takip eden altı ay içinde söz konusu değişiklikler de Ekonomi Bakanlığı aracılığıyla Komisyona bildirilir.

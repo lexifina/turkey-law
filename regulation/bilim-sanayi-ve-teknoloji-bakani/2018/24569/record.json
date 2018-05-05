@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24569",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GAZ YAKAN CİHAZLARA DAİR YÖNETMELİK (2016/426/AB)",
+  "number": "24569",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2018/24569",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24569&MevzuatTertip=5",
+  "source_sha256": "80edf0056abb4d1b2c65928fec2a93a1aa07e006d0cfdba433e72b79e9d59677",
+  "source_bytes": 103604,
+  "published": "2018-05-05",
+  "gazette": "30412",
+  "in_force": "2018-05-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.05.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6678,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24569-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

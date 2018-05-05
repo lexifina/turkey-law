@@ -1,0 +1,2 @@
+İmalatçıların yükümlülüklerinin ithalatçı ve dağıtıcılara uygulandığı durumlar
+MADDE 13 – (1) Bir ithalatçı veya dağıtıcı, bir cihazı veya donanımı kendi adı veya ticari markası altında piyasaya arz etmesi veya hâlihazırda piyasaya arz edilmiş bir cihazı veya donanımı bu Yönetmeliğin gereklerine uygunluğunu etkileyecek şekilde değiştirmesi durumunda, bu Yönetmeliğin amaçları doğrultusunda imalatçı olarak kabul edilir ve 9 uncu maddede belirtilen imalatçı yükümlülüklerine tabi olur.
