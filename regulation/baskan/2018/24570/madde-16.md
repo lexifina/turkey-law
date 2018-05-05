@@ -1,0 +1,5 @@
+Unvan değişikliği sınavı
+MADDE 16 – (1) 5 inci maddenin ikinci fıkrasında belirtilen unvan değişikliğine tabi kadrolara, bu unvanları en az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz etmiş bulunan personelin atanması, bu Yönetmelikte belirtilen usul ve esaslar çerçevesinde yapılacak unvan değişikliği sınavı sonucundaki başarısına göre gerçekleştirilir.
+(2) Unvan değişikliği sınavları, Başkanca belirlenecek görev alanları ve atama yapılacak görevin niteliğine ilişkin konularda yaptırılır ve bu sınavlara katılacaklarda, Kurumda veya öğrenim durumları ile ilgisi bulunmayan görevlerde belirli süre hizmet yapmış olma şartı aranmaz. Unvan değişikliği sınavı kapsamındaki görevlere, sadece Kurum personeli başvurabilir.
+(3) Unvan değişikliği yazılı sınavında yüz puan üzerinden en az altmış, sözlü sınavında ise en az yetmiş puan alanlar başarılı sayılır.
+(4) Bu Yönetmelik kapsamındaki personelden doktora öğrenimini bitirmiş olanlar, unvan değişikliği sınavına katılmaksızın öğrenimle ihraz edilen görevlere atanabilirler.

@@ -1,0 +1,4 @@
+Sınav sonuçlarına itiraz
+MADDE 14 – (1) İlgililer, sınav sonuçlarının ilanından itibaren beş iş günü içerisinde Sınav Kuruluna itiraz edebilirler. İtirazlar, itiraz süresinin bitiminden itibaren Sınav Kurulunca en geç on beş iş günü içinde değerlendirilir ve sonuç ilgiliye yazılı olarak bildirilir.
+(2) Yapılan sınavlarda hatalı sorulara tekabül eden puanlar eşit şekilde diğer sorulara dağıtılır. Ancak, soruların yüzde onundan fazlasının hatalı olduğunun birinci fıkrada belirtilen süre içinde yapılan itirazlar üzerine veya herhangi bir şekilde tespit edilmesi halinde, sınav iptal edilir ve en kısa sürede yeni sınav yapılır.
+(3) Kesin başarı listesi, sınav sonuçlarının ilk ilanından sonra beş iş günü içerisinde itiraz olmaması halinde takip eden iş günü, itiraz olması halinde söz konusu itirazın Sınav Kurulunca değerlendirilmesini müteakip ilan edilir.

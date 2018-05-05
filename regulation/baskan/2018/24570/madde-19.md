@@ -1,0 +1,2 @@
+Naklen atamalar
+MADDE 19 – (1) Diğer kamu kurum ve kuruluşlarının personelinden bu Yönetmelikte sayılan unvanları ihraz etmiş olanlar, Kurumdaki aynı unvana veya bu unvanın bulunduğu aynı alt gruptaki diğer unvanlara veya daha alt unvanlara; atanacakları unvan için bu Yönetmelikte öngörülen sınavda başarılı olma dışındaki diğer şartları taşımaları kaydıyla genel hükümlere göre naklen atanabilirler.
