@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-05-05",
+  "issue": "30412",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2018/28)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/05/20180505-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/05/20180505.htm",
+  "index_sha256": "15a5e961f49714155e35501a661497cfae51bcca732deb3166ea6ae4ff59958e",
+  "index_header": "5 Mayıs 2018 ... 30412 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/05/20180505.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "58531df38b0d633210be1bdc549c47571a521916d0041a6be64083eda233a756",
+  "text_status": "text.txt as published"
+}
